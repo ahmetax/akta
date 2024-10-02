@@ -6,6 +6,6 @@ Bu belgelerin, LLM çalışması yapan herkes tarafından kullanılabilmesi,
 Türkçeyi destekleyen çalışmaları yaygınlaştırabilecek ve dil kalitesini arttırabilecektir.
 
 Türkçeye özgü bazı karakterler, PDF formatlı belgelerin metne çevrilmesi sırasında
-sorunlar yaratabiliyor. Bu yüzden ilk aşamada düzyazılar (metin) öncelik vermek yerinde olabilir.
+sorunlar yaratabiliyor. Bu yüzden ilk aşamada düzyazılara (metin) öncelik vermek yerinde olabilir.
 
 
