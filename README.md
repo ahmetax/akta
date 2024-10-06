@@ -28,6 +28,7 @@ Please support our project.
 ## Gelişmeler
 
 2024-10-06
+
 Project Gutenberg'in izniyle yaklaşık 36 000 belgeyi Türkçeye çevirip, AKTA projesine ekleyebileceğiz. 
 
 Bu dosyaların toplam boyutu  yaklaşık 15 Gbyte tutacak gibi görünüyor. Asıl boyut, çeviriler tamamlandıktan sonra belli olacak.  Eğer dosyaları zipleyerek saklarsak, depolama alanı üçte birine düşebilir.
@@ -48,6 +49,7 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 ## Developments
 
 2024-10-06
+
 With the permission of Project Gutenberg, we will be able to translate approximately 36,000 documents into Turkish and add them to the AKTA project.
 
 The total size of these files is expected to be around 15 Gbytes. The actual size will be determined after the translations are completed. If we store the files in zip format, the storage space can be reduced by a third.
