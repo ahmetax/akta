@@ -26,6 +26,22 @@ Please support our project.
 
 
 ## Gelişmeler
+2024-10-09
+
+Arşive belge yüklemeye başladım. Belgelerin orijinal "header" ve "footer" bilgilerini korudum. Her belgenin başına, o belgeye ait temel bilgileri Türkçe olarak ekledim.
+
+Belgelerin asıl içeriğini, deep_translator/GoogleTranslator kütüphanesi aracılığıyla İngilizceden Türkçeye çevirdim. Çevrilen metni, orijinal metnin olduğu yere kopyaladım.
+
+Çevirinin başladığı yere "*** START OF TURKISH PART **", bittiği yere de "*** END OF TURKISH PART ***" ekledim. Böylece kod yardımı ile sadece Türkçeleştirilmiş metni kolayca çekmek mümkün. Bu amaçla aktalib.py dosyasında yer alan  extract_turkish_body(text) fonksiyonunu kullanmak mümkün.
+
+Kodlarda genellikle İngilizce terimler kullanmaya çalıştım. Böylelikle, Türkçe bilmeyenlerin de kullandığım yapıyı daha kolay anlamaları mümkün olabilir diye düşünüyorum.
+
+Yüklediğim belgelerde gözden geçirme işlemleri şimdilik çok azdır. Sorunlu yerlere rastladığınızda durumu bildirirseniz, gerekli düzeltmeleri hızlıca yapmak mümkün olabilir.
+
+Gözden geçirme işlemlerini öncelikle -varsa- kelime hatalarını bulma şeklinde, daha sonra da yapay zeka araçları kullanarak anlamsal ve yapısal kontrollerini yaptırmayı planlıyorum.
+
+Bu konuya ilişkin tüm önerilere açığım.
+ 
 
 2024-10-06
 
@@ -47,6 +63,21 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 
 
 ## Developments
+2024-10-09
+
+I started uploading documents to the archive. I preserved the original "header" and "footer" information of the documents. I added the basic information about that document in Turkish at the beginning of each document.
+
+I translated the original content of the documents from English to Turkish using the deep_translator/GoogleTranslator library. I copied the translated text to where the original text was.
+
+I added "*** START OF TURKISH PART **" to where the translation started and "*** END OF TURKISH PART ***" to where it ended. Thus, it is possible to easily extract only the Turkishized text with the help of code. For this purpose, it is possible to use the extract_turkish_body(text) function in the aktalib.py file.
+
+I generally tried to use English terms in the codes. In this way, I think that it will be easier for those who do not know Turkish to understand the structure I use.
+
+There are very few review processes in the documents I upload for now. If you report the situation when you come across problematic areas, it will be possible to make the necessary corrections quickly.
+
+I plan to review the text first by finding word errors -if any- and then by using artificial intelligence tools to perform semantic and structural checks.
+
+I am open to all suggestions on this subject.
 
 2024-10-06
 
