@@ -31,7 +31,7 @@ Please support our project.
 Arşive belge yüklemeye başladım. Belgelerin orijinal "header" ve "footer" bilgilerini korudum. Her belgenin başına, o belgeye ait temel bilgileri Türkçe olarak ekledim.
 
 Belgelerin asıl içeriğini, deep_translator/GoogleTranslator kütüphanesi aracılığıyla İngilizceden Türkçeye çevirdim. Çevrilen metni, orijinal metnin olduğu yere kopyaladım.'
-Çevirinin başladığı yere '* * * START OF TURKISH PART * * *', bittiği yere de '* * * END OF TURKISH PART * * *' ekledim. Böylece kod yardımı ile sadece Türkçeleştirilmiş metni kolayca çekmek mümkün. Bu amaçla aktalib.py dosyasında yer alan  extract_turkish_body(text) fonksiyonunu kullanmak mümkün.
+Çevirinin başladığı yere <code>'*** START OF TURKISH PART ***'</code>, bittiği yere de <code>'*** END OF TURKISH PART ***'<code> ekledim. Böylece kod yardımı ile sadece Türkçeleştirilmiş metni kolayca çekmek mümkün. Bu amaçla aktalib.py dosyasında yer alan  extract_turkish_body(text) fonksiyonunu kullanmak mümkün.
 
 Kodlarda genellikle İngilizce terimler kullanmaya çalıştım. Böylelikle, Türkçe bilmeyenlerin de kullandığım yapıyı daha kolay anlamaları mümkün olabilir diye düşünüyorum.
 
