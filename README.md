@@ -69,7 +69,7 @@ I started uploading documents to the archive. I preserved the original "header" 
 
 I translated the original content of the documents from English to Turkish using the deep_translator/GoogleTranslator library. I copied the translated text to where the original text was.
 
-I added "*** START OF TURKISH PART **" to where the translation started and "*** END OF TURKISH PART ***" to where it ended. Thus, it is possible to easily extract only the Turkishized text with the help of code. For this purpose, it is possible to use the extract_turkish_body(text) function in the aktalib.py file.
+I added "*** START OF TURKISH PART ***" to where the translation started and "*** END OF TURKISH PART ***" to where it ended. Thus, it is possible to easily extract only the Turkishized text with the help of code. For this purpose, it is possible to use the extract_turkish_body(text) function in the aktalib.py file.
 
 I generally tried to use English terms in the codes. In this way, I think that it will be easier for those who do not know Turkish to understand the structure I use.
 
