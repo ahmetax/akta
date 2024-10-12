@@ -1,0 +1,673 @@
+*** START OF AKTAHEADER ***
+Başlık: ERPANET Case Study: Project Gutenberg
+Yazar: ERPANET
+Yayın Tarihi: January 4, 2005  [eBook #14585]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/14585
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg eBook, ERPANET Case Study: Project Gutenberg, by
+ERPANET
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+
+
+
+Title: ERPANET Case Study: Project Gutenberg
+
+Author: ERPANET
+
+Release Date: January 4, 2005  [eBook #14585]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK ERPANET CASE STUDY: PROJECT
+
+*** START OF TURKISH PART ***
+GUTENBERG***
+
+Telif Hakkı (C) ERPANET 2004
+
+ERPANET Vaka Çalışması: Project Gutenberg
+
+İçindekiler
+
+Yönetici Özeti 4
+Bölüm 1: ERPANET Projesi 5
+Bölüm 2: Vaka Çalışmalarının Kapsamı 6
+Bölüm 3: Çalışma Yöntemi 8
+Bölüm 4: Project Gutenberg 9
+Bölüm 5: Röportajların Ayrıntıları ve Koşulları 10
+Bölüm 6: Analiz 11
+Dijital Korumanın Algılanması ve Farkındalığı 11
+Koruma Faaliyeti 12
+Uyum İzleme 14
+Dijital Koruma Maliyetleri 14
+Geleceğe Bakış 14
+Bölüm 7: Sonuçlar 16
+
+Yönetici Özeti
+Project Gutenberg, halka ücretsiz olarak sunulan ilk ve en büyük e-Kitap koleksiyonudur. Proje felsefesi, bilgisayarların en büyük değerinin bilgi işlem gücü değil, kütüphane materyallerinin aranabilir şekilde depolanması ve alınması potansiyeli olduğudur. Projenin öncülü, bilgisayara girilebilen herhangi bir nesnenin - ister metin, ister resim, ses veya 3B görüntü olsun - sonsuza kadar çoğaltılabilmesidir. Project Gutenberg tarafından oluşturulan e-Kitaplar iki ana sunucuda saklanır ve daha sonra dünyanın dört bir yanındaki yerel sunuculara indirilebilir. Bu vaka çalışması, projenin gönüllülük esasına dayanması bakımından diğer birçok ERPANET çalışmasından farklıdır. Bu nedenle, e-Kitapları korumak için hiçbir finansal veya ticari teşvik yoktur. Gerçek teşvik, kamusal alandaki edebi eserlerin mümkün olduğunca çok sayıda kişi tarafından mümkün olduğunca uzun süre serbestçe erişilebilir olması gerektiği inancında yatmaktadır. Her şeyi 'sade ASCII' ve diğer birçok formatta dijitalleştirerek, e-Kitaplar bilgisayar işletim sistemlerinin %99'undan fazlası tarafından okunabilir hale gelmiştir. Mümkün olduğunca tescilli formatlardan kaçınarak, Project Gutenberg ayrıca e-Kitapların bit akışlarının uzun vadeli hayatta kalmasını garantilemeye yardımcı olur. Açık formatların ve dünyanın dört bir yanında indirilen kopyaların yaygınlaşmasının birleşimi, şu anda var olan Project Gutenberg e-Kitaplarının gelecekte de erişilebilir olmasını sağlamalıdır.
+
+Bölüm 1: ERPANET Projesi
+Avrupa Komisyonu ve İsviçre Konfederasyonu tarafından finanse edilen ERPANET Projesi
+(1) (Elektronik Kaynak Koruma ve Erişim Ağı), farkındalığı artırarak, deneyime erişim sağlayarak, politikaları ve stratejileri paylaşarak ve uygulamaları iyileştirerek kültürel ve bilimsel dijital nesnelerin korunmasını geliştirmek için çalışır. Bu hedeflere ulaşmak için ERPANET, hafıza organizasyonlarını (müzeler, kütüphaneler ve
+arşivler), BİT ve yazılım endüstrisini, araştırma kurumlarını, hükümet kuruluşlarını, eğlence ve yaratıcı endüstrileri ve ticari
+sektörleri bir araya getirerek üyelerden ve aktörlerden oluşan aktif bir topluluk oluşturmaktadır. ERPANET, dijital koruma alanındaki
+son teknoloji gelişmeleri hakkında yetkili bilgi kaynakları oluşturur,
+eğitimi teşvik eder ve tavsiye ve araçlar sağlar.
+
+ERPANET dört ortaktan oluşur ve Seamus Ross (HATII, Glasgow Üniversitesi; baş
+yönetici), Niklaus Bütikofer (Schweizerisches Bundesarchiv), Hans
+Hofman (Nationaal Archief/Hollanda Ulusal Arşivleri) ve
+Maria Guercio (ISTBAL, Urbino Üniversitesi) olmak üzere bir yönetim komitesi tarafından yönetilir. Bu düğümlerin her birinde bir
+içerik editörü çalışmalarını destekler ve Peter McKinney projenin
+koordinatörü olarak görev yapar. Avrupa'nın dört bir yanından çeşitli kuruluşlar, kurumlar ve şirketlerden uzmanların yer aldığı bir Danışma Komitesi ERPANET'e tavsiye ve destek sağlar. Bölüm 2: Vaka Çalışmalarının Kapsamı
+En iyi uygulama üzerine teorik tartışmalar, dijital bilgilerin hayatta kalmasını sağlamak için acil eylem çağrısında bulunurken, etkili dijital koruma stratejileri oluşturma çabalarına öncülük edenler kuruluşlar ve kurumlardır (2). Bu kuruluşların üstlendiği süreçleri anlamak için ERPANET, dijital koruma alanında bir dizi vaka çalışması yürütmektedir. Toplamda, her biri farklı büyüklükte olan altmış vaka çalışması, çeşitli kuruluşlarda kullanılan farkındalığı, stratejileri ve teknolojileri araştıracaktır. 500'den fazla kuruluş, kurum ve kamu kuruluşunun sonunda bu araştırmaya katkıda bulunacağı öngörülmektedir. Ortaya çıkan gövde, dijital koruma alanındaki uygulama bilgimize önemli bir katkıda bulunmalı ve teori oluşturma ve metodolojik araçların geliştirilmesi için temel oluşturmalıdır. Bu vaka çalışmalarının değeri, yalnızca dahil edilen sektörlerin genişliğinden değil, aynı zamanda sorunları araştıracakları derinlikten de gelecektir.
+
+ERPANET, geleneksel olarak bağlantısız olan alanlardaki tartışmaları kolaylaştırmak için sanayi ve iş dünyasından farklı sektörlere kasıtlı ve sistematik bir şekilde yaklaşıyor. Bu vaka çalışmalarıyla ERPANET, araştırma ve tartışma yoluyla dijital korumanın kapsamını ve anlayışını genişletecek. Vaka çalışmaları, geliştirilen yaklaşımları ve çözümleri iyileştirmek ve çabanın gereksizliğini azaltmak için yayınlanacak. Röportajlar, yalnızca belirli sektörlerdeki mevcut uygulamaları değil, aynı zamanda sektörler arası uygulamaları da belirliyor: yayıncılık sektörü havacılık sektöründen neler öğrenebilir? Sonunda bu karşılaştırmalı verileri kullanarak sektör içi genel bakışlar üretmeyi hedefliyoruz. Bu sektörler arası döllenme, ERPANET'in Dijital Koruma Sözleşmesi'nde (3) belirtildiği gibi ana odak noktasıdır. Farklı grupların, her sektörde dijital koruma için en iyi uygulamalar oluşturuldukça bir araya gelmeleri için bir mekanizma sağlanması birincil öneme sahiptir. Amaçlar
+Çalışmanın temel amaçları şunlardır:
+* yöntemlerin bir resmini oluşturmak ve en iyi uygulamaları üretmek için bağlamla eşleştirmek;
+* uygulamalar hakkında bilgi toplamak ve erişilebilir hale getirmek;
+* daha fazla araştırma için sorunları belirlemek;
+* sektörler arası uygulama karşılaştırmalarını etkinleştirmek;
+* değerlendirme araçlarının geliştirilmesini sağlamak;
+* eğitim seminerleri ve atölyeler için materyal oluşturmak; ve,
+* bağlantılar geliştirmek.
+
+Potansiyel sektörler, geniş bir bilgi üretimi ve dijital koruma faaliyeti kapsamını temsil edecek şekilde seçilmiştir. Her sektör
+dijital korumaya ilişkin benzersiz bir bakış açısı sunabilir.
+Örgütsel ve sektörel gereksinimler, dijital korumaya ilişkin farkındalık, mevcut kaynaklar ve dijital nesnenin doğası, kuruluşlar üzerinde benzersiz ve özel talepler yaratmıştır. Vaka çalışmalarının her biri, çeşitli kurumsal türler, boyutlar ve konumlar sağlamak için dengelenmektedir.
+
+Araştırmanın ana alanları şunları içeriyordu:
+* bilgi kaybıyla ilişkili riskin algılanması ve farkındalığı;
+* dijital korumanın kuruluşu nasıl etkilediğini anlamak;
+* veri kaybını önlemek için hangi eylemlerin yapıldığını belirlemek;
+* eylemleri izleme süreci; ve,
+* gelecekteki gereksinimleri belirleme mekanizmaları.
+
+Her bölümde, sorular kurumsal algıları ve uygulamaları odak noktasına getirmek için tasarlanmıştır. Sorular, dijital korumayla ilgili izlenimleri ve ilgili kuruluş üzerindeki etkisini anlamayı, sektördeki sorunların farkındalığını ve bunlara verilen önemi ve kurumsal düşünceyi nasıl etkilediğini keşfetmeyi amaçlıyordu. Katılımcılardan, kendi görüşlerine göre dijital korumayla ilişkili temel sorunların neler olduğunu ve bilginin sektörde gerçekte ne kadar değerli olduğunu açıklamaları istendi. Bu sayede, bilgiyi korumanın nedenleri ve bilgiyi korumamanın ilişkili olduğu riskler netleşti. Anketin özü, dijital koruma endişelerini ele almak için halihazırda kullanılan politikaları, stratejileri ve standartları ortaya çıkarmak için kurumsal ve sektörel düzeylerde alınan eylemlere odaklandı; bunlara seçim, koruma teknikleri, depolama, erişim ve maliyetler dahildir. Sorular, katılımcıların dijital koruma faaliyetlerine yönelik gelecekteki bağlılıklarını keşfetmelerine ve mümkün olduğunda mevcut veya planlanan faaliyetlerini aşina olabilecekleri diğer kuruluşlarda yürütülen faaliyetlerle ilişkilendirmelerine olanak sağladı. Her sektörde on kuruluş ve her kuruluşta üç kişi her çalışma için hedeflendi. Gerçekte bunun sorunlu olduğu ortaya çıktı. Kuruluşlar tanımlandığında ve görüşmeler planlandığında bile, hedefler genellikle görüşme sürecine başlamadan hemen önce geri çekildi. Bazıları veri toplama aracını gördükten sonra geri çekildi, kısmen harcanan zaman/çaba nedeniyle ve diğerleri (şüpheleniyoruz) soruları yanıtlamak için kuruluşlarında uzmanlığın mevcut olmadığını fark ettikleri için ayrıldılar. Bu çalışmalara katkıda bulunarak ortaya çıkabilecek risk algısı, özellikle rekabet avantajının zorunlu olduğu sektörlerdeki bazı kuruluşları endişelendirdi veya özellikle sorumluluk ve dava konuları endişelendirdi. Bu çalışmaya katkıda bulunmakla ilişkili riskleri azaltmak için, ne bir kuruluşun adını vereceğimizi ne de okuyucuların onları tanımlamasını sağlayacak hiçbir bilgiyi ifşa edeceğimizi belirten gizlilik anlaşmaları kullanıldı. Bazı durumlarda risk hala çok büyük olarak değerlendirildi ve kuruluşlar geri çekildi.
+
+Bölüm 3: Çalışma Yöntemi
+Başlangıçta masa başında yapılan sektörel analiz, ERPANET araştırmacılarına temel arka plan bilgisi sağlar. Daha sonra birincil araştırmayı görüşme yoluyla yürütürler. Görüşme aracını geliştirirken, proje yöneticileri ve editörleri dijital korumayla ilgili konularda kanıt toplamak için görüşme kullanan diğer projeleri incelediler. Bunlar arasında Pittsburgh Projesi ve InterPARES I'de hedef seçimi ve veri toplama için kullanılan metodolojilere özel dikkat gösterildi. Pittsburgh yaklaşımı çok dar bir odak noktası olarak değerlendirildi ve tam sektörel karşılaştırmalara olanak sağlamak için yetersiz genişlik sağladı. Öte yandan, InterPARES I veri toplama metodolojisi çok fazla ayrıntılı ve uzundu ve bu da verilerin yorumlanması noktasında bir engel teşkil edebileceğini düşündük. Dahası, kuruluşlardaki kayıt tutma sistemlerine yakından odaklandı. ERPANET görüşme aracı, her ikisinin de güçlü ve zayıf yönlerini hesaba katarak, incelenen kuruluşlardaki bir dizi stratejik noktayı hedeflemek üzere tasarlanmış daha odaklı bir anket geliştirdi. Araç (4), bir kuruluştaki üç ana sorgulama alanını keşfetmek için oluşturuldu: dijital korumanın farkındalığı ve onu çevreleyen sorunlar; dijital koruma stratejileri (hem planlamada hem de uygulamada); ve bu alan için kuruluş içindeki gelecekteki gereksinimler. Bu üç tema içinde, farklı soru katmanları, katılımcıların kurumlarındaki tüm dijital koruma sürecinin durumunun ayrıntılı bir keşfini ortaya çıkarır. ERPANET ortaklarının bu araştırma yöntemindeki deneyimlerinden yararlanılarak, bir başka önemli ayrıntı daha ortaya konuldu. Kuruluşlar içinde, görüşme için üç çalışan kategorisi belirlendi: Bilgi Sistemleri veya Teknoloji Yöneticisi, İşletme Yöneticisi ve Arşivci/Kayıt Yöneticisi. Uygulamada, bu genellikle kuruluşun dijital koruma faaliyetleri hakkında bilgi sahibi iki personel ve iş ve organizasyonel konular hakkında genel bir bakış sağlayan üst düzey bir yönetici içeriyordu. Bu metodoloji, kuruluşlardaki bilgi ve uygulama kapsamını keşfetmemize, sorumluluk ve sorun sahipliği rollerini anlamamıza ve dijital korumaya yönelik çabanın kuruluşlar içinde nerede başladığını takdir etmemize olanak sağladı.
+
+Vaka çalışmaları için sektörleri seçme ve incelenecek ilgili şirketleri belirleme görevi yönetim kuruluna aittir. Projenin en başında sektörlerin ilk listesini derlediler. Ancak sektör ve şirket seçimi devam eden bir süreçtir ve liste düzenli olarak güncellenir ve tamamlanır.
+Yöneticiler bu görevde bir danışma komitesi (5) tarafından desteklenir.
+
+Bölüm 4: Project Gutenberg
+Project Gutenberg, kamuya açık olan literatür ve referans çalışmalarının ücretsiz elektronik versiyonlarını üretir. Projenin yalnızca birkaç ücretli personeli olduğundan (6), e-Kitapların çoğu gönüllüler tarafından taranır ve düzenlenir. 1994'ten beri İnternet üzerinden erişilebilen Project Gutenberg, ücretsiz olarak erişilebilen elektronik kitapların (e-Kitaplar) en eski üreticisidir. 1971'den 1997'ye kadar 1.100'den fazla e-Kitap yaratıldı. Sadece 2004'ün ilk on bir haftasında üç yüz yeni e-Kitap yaratıldı. Şu anda 13.380'den fazla e-Kitap mevcut ve e-Kitap üretimi sürekli artıyor. Project Gutenberg, bu kaynakları genel halkın kullanımına sunmaya adanmıştır. Bilgisayarların, programların ve insanların büyük çoğunluğunun kolayca okuyabileceği bir biçimde (ASCII). Ancak, çoğu metin kullanıcıların seçebileceği çok çeşitli biçimlerde mevcuttur.
+
+Project Gutenberg'in temel hizmetlerine yakın zamanda yeni özellikler eklendi. Özellikle, yeni Radio Gutenberg (7) ses ve video dosyalarını halkın indirmesine ve iki radyo kanalında yayın yapmasına olanak tanırken Gutenberg Music (8) dijitalleştirilmiş müzik notalarını erişilebilir hale getiriyor. Bu proje yalnızca e-Kitapların korunmasına odaklanıyor.
+
+Project Gutenberg Edebiyat Arşivi Vakfı (PGLAF), ABD İç Gelir İdaresi tarafından tanınan bir hayır kurumudur.
+
+https://www.gutenberg.org
+
+Bölüm 5: Röportajların Ayrıntıları ve Koşulları
+Project Gutenberg'in Kurucusu ve Yöneticisi Michael Hart ve Project Gutenberg Edebiyat Arşivi Vakfı CEO'su Dr. Greg
+Newby, Mart ve Nisan 2004 arasında anketi tamamladı ve e-posta iletişimlerine katıldı.
+
+Bölüm 6: Analiz
+Bu bölüm, vaka çalışması sırasında toplanan verilerin bir analizini sunar.
+Anketteki konu sırasını yansıtacak şekilde düzenlenmiştir.
+* Dijital Korumanın Algılanması ve Farkındalığı
+* Koruma Faaliyeti
+* Uyumluluk İzleme
+* Dijital Koruma Maliyetleri
+* Geleceğe Bakış
+
+Dijital Korumanın Algılanması ve Farkındalığı
+
+Project Gutenberg, internetteki en eski web sitelerinden biri ve
+var olan en eski dijital kütüphanelerden biridir. Otuz yılı aşkın süredir e-Kitap oluşturma konusunda aktif olarak faaliyet gösteriyorlar ve bu kaynakların kamuya açık
+erişim için korunmasıyla elde edilecek
+toplumsal faydaların farkındalar. Project Gutenberg, tüm e-Kitapların eskimeyi önlemek için düz metin ve diğer açık formatlarda mevcut olmasını sağlar. E-Kitaplar iki ana sunucuya yüklenir (9) ve ardından dünya çapında otuzdan fazla site tarafından yansıtılabilir. Açık formatların ve çok sayıda kopyanın birleşimi, bu dijitalleştirilmiş edebi eserlere erişimin uzun vadede korunmasını sağlamalıdır.
+
+Ana Sorunlar
+
+Uzun vadeli en büyük sorun, Project Gutenberg tarafından erişilebilir hale getirilen tüm dijitalleştirilmiş eserler için telif hakkı yasalarına uyulmasını sağlamaktır.
+Dünyanın birçok ülkesinde yansıtma siteleri vardır ve bu nedenle her birinde telif hakkı yasalarına uyulmasını sağlamak zor olabilir. Ancak, telif hakkı izni alınmadan hiçbir e-Kitap ABD'deki ana siteye
+gönderilmeyecektir. ABD ve Avrupa'daki telif hakkı yasalarındaki son genişlemeler, Project Gutenberg ekibi için yeni zorluklar ortaya çıkardı. Bunun nedeni, 2018'e kadar kamuya açık alanda yeni bir eser yayınlanmayacak olmasıdır. Hart, telif hakkı yasalarındaki bu uzantıların 'edebiyata ve bilgiye evrensel erişim pahasına çok az telif hakkı sahibine fayda sağladığına' inanmaktadır(10). Bu değişiklikler, bir e-Kitabın dijitalleştirilip kullanıma sunulmasından önce yapılması gereken araştırma miktarını etkileyecektir.
+
+Varlık Değeri ve Risk Maruziyeti
+
+Project Gutenberg, edebiyat ve referans materyallerini dijitalleştirilmiş bir formatta genel halkın erişimine açık hale getirmek için vardır.
+Yukarıda belirtildiği gibi, Michael Hart, edebi eserlere ücretsiz erişimin bilgi, sanat, müzik ve kültürün paylaşılmasını sağlamak için hayati önem taşıdığına inanmaktadır.
+
+Düzenleyici Ortam
+
+Project Gutenberg, kâr amacı gütmeyen bir şirket olarak faaliyet göstermeyi içeren ABD yasalarına uymalıdır. Ancak, bu düzenlemeler sektöre özgü değildir. Project Gutenberg, dijitalleştirdiği ve İnternet üzerinden kullanıma sunduğu eserlerle ilgili ABD telif hakkı yasalarına uymak konusunda son derece dikkatli olmalıdır. Ancak, bir yayının kamu malı olduğu doğrulandıktan sonra, Project Gutenberg'i etkileyen başka yasal kısıtlamalar yoktur.
+
+Koruma Faaliyeti
+
+Politikalar ve Stratejiler
+
+Project Gutenberg edebi eserleri tarar ve e-Kitaplar oluşturmak için OCR teknolojisini kullanır. Bazı durumlarda, e-Kitaplar elle yazılır. E-Kitaplar daha sonra gönüllü düzeltmenlerden oluşan bir ekip tarafından düzenlenir. Gönüllülerin Project Gutenberg için metinleri tararken ve düzenlerken danışabilecekleri çevrimiçi prosedürler ve yönergeler vardır, böylece tüm e-Kitapların standart bir formatı takip etmesi sağlanır. E-Kitap üretildikten sonra, iki ana sunucuya yüklenir. E-Kitaba resmi Project Gutenberg web sitesi ve İnternet Arşivi sitesi aracılığıyla ve dünya çapında otuzdan fazla ayna sitesinden erişilebilir. Erişim veya dağıtım sorunları olmadığından, Project Gutenberg kullanıcıları e-Kitapların kopyalarını CD veya DVD'ye kaydetmeye teşvik eder.
+
+Project Gutenberg, çok sayıda versiyon üreterek - ana sunucularda, yerel sunucularda (ayna siteler aracılığıyla) ve CD ve DVD'ye indirilenler - edebi eserin bit akışının erişim için korunmasını sağlayacağına inanmaktadır. Bu, LOCKSS stratejisinin felsefesini somutlaştırmaktadır. LOCKSS, "web'in önbelleğe alma teknolojisini kullanarak dergilerin sayfalarını yayınlandıkça toplar ve kütüphanelerin satın aldıkları seçilmiş elektronik başlıkların fiziksel gözetimini almalarına olanak tanır" (11). LOCKSS, Thomas Jefferson'ın "geriye kalanı kurtaralım: onları halkın gözünden ve zaman kaybına terk ederek kullanan kasalar ve kilitlerle değil, kazara erişemeyecekleri şekilde çoğaltarak" (12) sözlerinden esinlenmiştir.
+
+Seçim
+
+Project Gutenberg, popüler edebiyatın ve kamuya açık referans materyallerinin dijitalleştirilmiş versiyonlarını genel halkın serbestçe erişimine sunmayı amaçlamaktadır. Telif hakkı sona erdiğinde, yayınlar serbestçe çoğaltılabilir ve dağıtılabilir. Bu eserlerin çoğu basım dışıdır. Project Gutenberg, basım dışı eserleri dijitalleştirerek yayınları 'karanlıktan ve nihai unutuluştan' kurtardıklarını düşünüyor(13). Temel olarak, tüm metinler üç kategoriye ayrılabilir:
+hafif edebiyat (Alice Harikalar Diyarında gibi), ağır edebiyat (Shakespeare ve Dante gibi) ve referanslar (Roget's Thesaurus gibi).
+İnsan Genomu da dahil olmak üzere matematiksel ve bilimsel çalışmalar da kullanılabilir hale getirilir. Project Gutenberg'in erişilebilir hale getireceği şeylerle ilgili gerçek bir kısıtlama yoktur. Malzeme kamu malı olduğu sürece,
+dijitalleştirilebilir ve Project Gutenberg'e gönderilebilir. Ancak, Project Gutenberg mümkün olan en geniş kitleye fayda sağlamayı ve
+bu nedenle son derece uzmanlaşmış eserler yerine popüler edebiyatın ve referans materyallerinin dijitalleştirilmesine öncelik vermeyi hedefler. Proje
+Gutenberg halihazırda 31'den fazla dilde metinlere sahip ve özellikle çok dilli
+buluntularını artırmak konusunda istekli. Koruma
+
+Project Gutenberg'de halihazırda 20-30 yıllık çok sayıda düz metin dosyası bulunmaktadır. O zamandan bu yana, birçok dosya biçimi gelip geçerken
+düz metin neredeyse tüm bilgisayarlarda okunabilir. Düz metnin kullanımı ayrıca gelecekteki eskimeye karşı sigorta sağlamaya yardımcı olacaktır. Tüm
+Project Gutenberg e-Kitapları düz ASCII metin dosyaları olarak oluşturulur. Bu, 'Apple ve Atari'lerden eski ev yapımı Z80 bilgisayarlara' (14) kadar olan kişilerin yanı sıra Mac ve UNIX kullanıcılarının da metin dosyalarını okuyabileceği anlamına gelir. Herhangi bir açık biçim gönderilebilir ancak
+Project Gutenberg ekibi düz ASCII (15) metin dosyaları da oluşturacaktır.
+Project Gutenberg, kullanıcıları kendi ihtiyaçlarına uygun düz metin dosyalarından yeni biçimler oluşturmaya teşvik eder. E-Kitap gönüllüler tarafından oluşturulup düzenlendikten sonra iki ana
+sunucuya yüklenir. Birincisi Project Gutenberg sitesinin kendisi ve diğeri ise İnternet Arşivi sitesidir. Bu noktadan itibaren, ayna siteler yedek dosyaları kendi sitelerine indirebilir ve kendi sunucularında saklayabilir.
+
+Project Gutenberg, dosya adı olarak benzersiz e-Kitap numarasını kullanır.
+Bu nedenle, e-Kitap oluşturulan 10001 düz metin dosyasıysa, 10001.txt olarak adlandırılır. Project Gutenberg, gönüllülerin göndermeye istekli olduğu kadar çok açık dosya formatını kabul eder, ancak ayrıca düz metin bir sürüm de oluşturur. Diğer formatlardaki ek sürümler buna göre adlandırılır, ancak farklı dosya uzantılarıyla (örneğin, html, pdf, xml).
+Her e-Kitabın, e-Kitabın tüm sürümlerini içeren kendi alt dizini vardır.
+
+Project Gutenberg, çok çeşitli sektörleri temsil eden gönüllülere sahiptir (kültürel miras, hükümet ve yüksek öğrenim).
+Bu bağlantılar aracılığıyla, dijital koruma gelişmeleriyle güncel kalırlar. Project Gutenberg personeli birçok
+kurumsal liderle bağları vardır ve en iyi uygulamalar konusunda gayri resmi işbirlikleri
+yaygındır.
+
+Erişim
+
+E-kitaplar, Project Gutenberg gönüllüleri tarafından,
+yazar, yazarın doğum ve ölüm tarihleri, dil, e-kitap
+numarası ve Kongre Kütüphanesi sınıflandırması dahil olmak üzere kataloglanır ve çevrimiçi arama yeteneklerini
+artırır. Project Gutenberg'in erişilebilir hale getirmeyi amaçladığı yayınlar
+zaten kamu malı olduğundan, erişimi
+kısıtlamak gerçekten bir sorun değildir. Project Gutenberg, dünya çapında otuzdan fazla
+sitede yansıtılmıştır. Bu nedenle, yansıtılan tüm sitelerde gerçekleşen indirme sayısını doğru bir şekilde tahmin edemezler,
+ancak ana merkezi sunucudan her ay 1 milyon e-kitabın eşdeğerinin indirildiğini belirtirler (16). İngilizce olmayan kullanıcılar tarafından erişilebilirliği
+artırmak için, e-kitaplar herhangi bir dilde oluşturulabilir ve gönderilebilir.
+
+Project Gutenberg, kaynak keşfini sağlamak için elektronik kaynaklarını tanımlamak için Dublin Core'u kullanır.
+
+Uyumluluk İzleme
+
+Project Gutenberg'in karşılaması gereken hiçbir harici gereklilik yoktur.
+Ancak, Dağıtılmış Düzeltmenler (17) e-Kitap içeriğinin mümkün olduğunca doğru olmasını sağlamak ve düzenlemek için çalışır. E-Kitap, yüzlerce gönüllü tarafından incelenebileceği iki tur düzeltmeden geçer. E-Kitap düzeltildikten sonra, son işlem aşamasına geçer. 'Son işlemin nihai hedefi, tutarlı biçimlendirmeye sahip, mümkün olduğunca az hata içeren ve yazarın niyetlerini doğru şekilde yansıtan düz metinli bir e-Kitap oluşturmaktır' (18). Project Gutenberg alıntıları - örneğin Çevrimiçi Bilgisayar Kütüphane Merkezi'nde (OCLC) - kendi sürümleri olarak görünür ve bu nedenle herhangi bir belirli kağıt sürümüne uymaz. Bazı durumlarda Project Gutenberg sürümleri var olan tek sürüm olarak listelenir. Project Gutenberg, ABD telif hakkı yasalarına uymalarını sağlamak için her türlü çabayı gösterir ve tüm gönüllüleri dijitalleştirme için önerilen materyallerin kamu malı olduğunu doğrulamaya teşvik eder. Bu araştırmayı üstlenmeye ilişkin rehberlik ve tavsiyeler proje web sitesinde sağlanır. Ancak, Project Gutenberg ekibi
+sonuçta kamu malı statüsünü doğrulamaktan sorumludur ve
+bu sürece yardımcı olmak için her önerilen yayın için başlık sayfasının bir kopyasının gönderilmesini gerektirir.
+
+Dijital Koruma Maliyetleri
+
+Kayıtlı bir yardım kuruluşu olan Project Gutenberg, az sayıdaki özel personelini ve operasyonel maliyetleri ödemek için bağışlara güvenir.
+Operasyonel bütçenin neredeyse %100'ü korumaya ayrılmıştır. Depolama maliyetleri açısından, proje kurucusu disk sürücüleri daha büyük ve daha ucuz hale geldikçe e-Kitapları bilgisayarlara koymanın maliyetinin önemsiz hale geleceğine inanmaktadır (19).
+
+Geleceğe Bakış
+
+Project Gutenberg halihazırda Avustralya ve Avrupa'da uygulanmıştır.
+Project Gutenberg of Canada yakın gelecekte kurulacaktır. Project Gutenberg ayrıca "Afrika, Asya ve diğer bölgelerde de bu tür projeler yaratmayı umuyor. Özellikle, e-kitapların dijital radyo bağlantıları aracılığıyla güneş enerjisiyle çalışan PDA'lara ulaşabildiği projeler yaratmayı umuyorlar. Buna ek olarak, Project Gutenberg daha fazla multimedya e-kitabı ekleyecek: resimler, heykeller, müzik, sesli e-kitaplar, filmler, vb. ve daha geniş çeşitlilikte metin biçimleri." (20)
+
+Project Gutenberg edebi eserleri dijitalleştirmeye devam edecek ve 2021'de 50. yıl dönümlerini kutlayacakları zamana kadar 100'den fazla dilde 10.000.000'den fazla e-Kitap sunmayı hedefliyor. Project Gutenberg, düz metin dosyalarının talep üzerine taşınmasını sağlamayı hedefliyor. Bu, düz metin sürümünün anında talep edilen herhangi bir dosya türünde oluşturulabileceği anlamına gelir. Bu şu anda test modundadır. Project Gutenberg
+ayrıca talep üzerine diğer formatların daha kolay oluşturulmasına olanak sağlamak için e-Kitapları doğuştan XML olarak oluşturmayı araştırıyor (21).
+
+Bölüm 7: Sonuçlar
+
+İlk ve en büyük e-Kitap koleksiyonu olan Project Gutenberg, elektronik yayınları koruyor ve bunları otuz yıldan uzun süredir erişilebilir hale getiriyor. Erişim ve okunabilirlik için e-Kitabın formatı (düz metin) ile ilgili katı yönergelere uyarak Project Gutenberg ayrıca elektronik kaynaklarının gerektiğinde kolayca korunup diğer formatlara taşınabilmesini sağladı. E-Kitapları iki ana sunucuya yükleyerek ve Project Gutenberg
+veritabanını dünyanın dört bir yanındaki sitelere yansıtarak e-Kitapların yedek sürümlerinin gerektiğinde kolayca erişilebilir olmasını sağlıyorlar. Bu çok dağıtımlı yaklaşım, dünya çapında ilgi gören Lots of Copies Keeps
+Stuff Safe (LOCKSS) koruma stratejisine benzer. Açık formatların birleşimi ve dünyanın dört bir yanında indirilen kopyaların yaygınlaşması, şu anda mevcut olan Project Gutenberg e-Kitaplarının ve hatta oluşturulan yeni e-Kitapların gelecekte de erişilebilir olmasını sağlamalıdır.
+
+Son Notlar:
+
+(1) ERPANET, Avrupa Komisyonu tarafından finanse edilen bir projedir (IST-2001-32706).
+Daha fazla ayrıntı ve mevcut ürünler için www.erpanet.org adresini ziyaret edin.
+(2) 2. ve 3. Bölümler, Elektronik Kayıtların Korunması. Yeni Bilgi ve Karar Alma Sempozyumu 2003'te verilen 'Dijital Koruma Stratejilerinin Sektörler Arası Gelişimi: ERPANET ve Bilginin Genişlemesi' adlı makaleden alınmıştır.
+(3) Tüzük, ERPANET'in dijital koruma ilkeleri hakkındaki beyanıdır. Dijital koruma alanında, bu konuyla ilgilenen ve bu endişeleri paylaşan tüm kuruluşlar ve bireyler tarafından koordineli ve koordineli bir çaba elde etmek amacıyla hazırlanmıştır.
+http://www.erpanet.org/www/content/documents/Digitalpreservationcharterv
+4_1.pdf.
+(4) Ek'e bakın. Yorum yapmayı teşvik etmek ve benzer araştırmalar yürüten diğer grupların, farklı çalışmalar arasında karşılaştırılabilirliği teşvik etmek için ankette yer alan fikirleri kullanabileceğini ummak için anketi ekliyoruz.
+(5) Bu komitenin bileşimi için www.erpanet.org adresine bakın.
+(6) Ücretli personel bağışlarla finanse edilmektedir.
+https://www.gutenberg.org/donate
+(7) Radio Gutenberg https://www.gutenberg.org/audio/
+(8) Gutenberg Music https://www.gutenberg. org/music/
+(9) İki ana sunucu ibiblio'da bulunmaktadır: halk kütüphanesi
+ve dijital arşiv (ftp.ibiblio.org) ve İnternet Arşivi
+(ftp.archive.org).
+(10) Michael Hart ile yapılan bir röportajdan: İkinci Gutenberg
+http://promo.net/pg/upi_interview_05_02.html
+(11) http://lockss.stanford.edu/projectdescbrief.htm
+(12) Jefferson, Thomas. [1791] 1984. Thomas Jefferson'dan Ebenezer'e
+Hazard, Philadelphia, 18 Şubat 1791. Thomas Jefferson: Writings:
+Autobiography, Notes on the State of Virginia, Public and Private
+Papers, Addresses, Letters, Merrill D. Peterson tarafından düzenlenmiştir. New York:
+Library of America (LOCKSS web sitesinden alınmıştır
+http://lockss.stanford.edu/)
+(13) Michael Hart ile yapılan bir röportajdan: İkinci Gutenberg
+http://promo.net/pg/upi_interview_05_02.html
+(14) http://promo.net/pg/history.html
+(15) Bilgi Değişimi için Amerikan Standart Kodu (ASCII)
+(16) Michael Hart ile yapılan bir röportajdan: İkinci Gutenberg
+http://promo.net/pg/upi_interview_05_02.html
+(17) Dağıtılmış Düzeltmenler
+http://www.distributedproofreaders.net/c/default.php
+(18) Son düzeltme SSS
+http://www.distributedproofreaders.net/c/faq/post_proof.php
+(19) Michael Hart ile yapılan bir röportajdan: İkinci Gutenberg
+http://promo.net/pg/upi_interview_05_02.html
+(20) Michael Hart, Paula J. Hane'in Project Gutenberg Progresses kitabında alıntılanmıştır, Information Today Volume 21 No. 5
+http://www.infotoday.com/it/may04/hane1.shtml
+(21) Paula J. Hane'in Project Gutenberg Progresses kitabında Information Today
+Volume 21 No. 5 http://www.infotoday.com/it/may04/hane1.shtml
+
+(c) ERPANET 2004
+
+.
+*** END OF TURKISH PART ***
+***END OF THE PROJECT GUTENBERG EBOOK ERPANET CASE STUDY: PROJECT
+GUTENBERG***
+
+
+******* This file should be named 14585.txt or 14585.zip *******
+
+
+This and all associated files of various formats will be found in:
+https://www.gutenberg.org/dirs/1/4/5/8/14585
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+https://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+https://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+https://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

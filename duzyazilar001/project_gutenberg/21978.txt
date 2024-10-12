@@ -1,0 +1,1036 @@
+*** START OF AKTAHEADER ***
+Başlık: An Analysis of the Lever Escapement
+Yazar: H. R. Playtner
+Yayın Tarihi: June 30, 2007 [EBook #21978]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/21978
+*** END OF AKTAHEADER ***
+Project Gutenberg's An Analysis of the Lever Escapement, by H. R. Playtner
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: An Analysis of the Lever Escapement
+
+Author: H. R. Playtner
+
+Release Date: June 30, 2007 [EBook #21978]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK AN ANALYSIS OF THE LEVER ***
+
+*** START OF TURKISH PART ***
+Sigal Alon, Fox in the Stars, Laura Wisewell
+ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[İllüstrasyon: THOMAS MUDGE
+
+_Ayrık Kol Kaçışını Saatlere Başarıyla Uygulayan İlk Saat Uzmanı._
+
+_1715'te Doğdu-1794'te Öldü._]
+
+H. R. PLAYTNER
+
+TARAFINDAN
+
+KOL KAÇIŞININ
+
+ANALİZİ.
+
+KANADA SAATÇİLERİ VE PERAKENDE
+KUYUMCULARI DERNEĞİ ÖNÜNDE VERİLEN BİR KONFERANS.
+
+RESİMLİ.
+
+CHICAGO:
+
+HAZLITT & WALKER, YAYINCILAR.
+
+1910.
+
+ÖN SÖZ.
+
+Asıl konumuza girmeden önce, bazı okuyucularda karışıklığa yol açabilecek, basit olsalar da birkaç noktayı açıklamanın uygun olduğunu düşünüyoruz. Deneyimlerimiz bize, "milimetre" ve "derece" kelimelerini kullandığımız anda, şaşkınlığın ortaya çıktığını gösterdi. "Milimetre nedir?" sorusu bize bir yıl boyunca çok sık sorulur; neredeyse her yeni tanışıklık, kullanılan ince göstergelerle birlikte metrik ölçüm sisteminin kendisine açıklanmasını ister. Metrik ölçüm sistemi, 18. yüzyılın sonlarında Fransız Devrimi sırasında ortaya çıkmıştır; bölümleri, tıpkı ülkemizde kullandığımız para birimi sistemi gibi ondalıktır. Bir metre, ekvatordan kuzey kutbuna çizilen Paris meridyeninin yayının on milyonda birlik kısmıdır; İngiliz
+inç ile karşılaştırıldığında bir metrede 39+3708/10000 inç ve bir inçte 25,4 milimetre vardır.
+
+Metre, desimetre, santimetre ve milimetre olarak alt bölümlere ayrılır;
+1.000 milimetre bir metreye eşittir; milimetre tekrar
+10'lara ve 10'lar da bir milimetrenin 100'lerine bölünür, bu sonsuza kadar
+devam edebilir. 1/100 milimetre, bir inçin 1/2540'ına eşittir. Bunlar saatçinin ilgilendiği ölçümlerdir.
+1/100 milimetre, .01 mm olarak yazılır, bir denge pivotu için yan sarsıntıdır; bunu 2 1/4 ile çarparsak bir cep kronometresinin yay mandalı için kalınlığı elde ederiz, bu da bir insan saçının kalınlığının yaklaşık 1/3'üdür.
+
+Metrik ölçüm sistemi İsviçre, Fransa, Almanya ve Amerika Birleşik Devletleri'ndeki tüm saat fabrikalarında kullanılır ve neredeyse tüm torna
+üreticileri torna aynalarını buna göre numaralandırır ve bazıları kızak dayanaklarındaki önde gelen vidaları buna göre keser.
+
+Değer horolojisi üzerine yapılan herhangi bir modern çalışmada metrik sistem kullanılır.
+Uzman horologlar _kolaylığı_ nedeniyle bunu kullanırlar.
+Milimetre, bir saatin küçük parçalarında işlenebilen bir birimdir,
+oysa inç her zaman plakalardan daha küçük olan her şeye bölünmelidir.
+
+İnç için de metrik sistem için olduğu kadar ince göstergeler yapılabilir ve yapılır ve inç ondalık olarak bölünür, ancak ölçümümüzü ifade etmek için başka bir ondalık noktaya ihtiyacımız vardır.
+
+Metrik göstergeler artık malzeme dükkanlarından temin edilebilir; bunlar ondalık ölçülerden, verniyelerden ve mikrometrelerden oluşur; bunların en iyileri
+Glashutte'den gelir ve Grossmann'ın kaldıraçlı çıkış üzerine yazdığı denemede
+bahsettikleridir. Bu aletleri bir kez kullanmış olan herhangi bir işçi
+onlarsız yapmaya ikna edilemez.
+
+Hiç kimse çıkışlarda kullanılan geometrik prensipleri
+açı ve ölçümleri hakkında bilgi sahibi olmadan kavrayamaz, bu nedenle
+en azından bir derecenin ne olduğunu açıklamayı yeterli derecede önemli buluyoruz, çünkü
+özellikle genç işçilerin bunu nasıl uygulayacaklarını
+çoğu zaman göremediklerini biliyoruz.
+
+Her daire, ne kadar büyük veya küçük olursa olsun, 360 derece içerir; bu nedenle bir derece, bir dairenin 360'ıncı parçasıdır; dakikalara, saniyelere, üçte birlere vb. bölünür.
+
+Herhangi bir dairenin derecesinin _değerini_ ölçmek için,
+çapını 3,1416 ile çarpmamız gerekir, bu da bize çevreyi verir ve sonra
+360'a böleriz. Herhangi bir _gerçek_
+ölçümdeki bir derecenin değerinin, o dairenin boyutuna veya yarıçapına bağlı olduğu görülecektir. Örnek vermek gerekirse; dünyanın çevresindeki bir derece
+60 coğrafi mil ölçerken, bir kaçış tekerleğinin çevresi
+7,5 mm'dir. çapı veya bir malzeme dükkanında, No. 7 1/2'de belirtildiği gibi, 7,5 x 3,1416 / 360 = .0655 mm. olur, bu da
+sıradan bir insan saçının genişliğine eşittir; her iki durumda da bir derecedir, ancak fark çok büyüktür, bu nedenle bir derece
+çemberin yarıçapı bilinene kadar herhangi bir gerçek ölçümle ilişkilendirilemez. Dereceler çemberin merkezinden üretilir ve
+yükselme veya yön ve göreli değer olarak düşünülmelidir. Çemberler her biri 90 derece olan dört dik açı içerir. Dereceler
+genellikle açıölçer vasıtasıyla ölçülür, ancak bu türdeki sıradan
+aletlerin çok arzulanan bir şey bırakması kaçınılmazdır. Çizgiler
+iyi bir pratik yöntem olan
+pergel vasıtasıyla doğrulanabilir.
+
+Kullanılan bazı terimlerin bir açıklamasını yapmak da iyi olabilir.
+
+_Düşüş_ paletlerin ve tekerleğin hareketi için izin verilen serbestlik miktarına eşittir. Bkz. Z, Şekil 1.
+
+_İlkel veya Geometrik Çap._--Çanta dişli veya İngiliz
+tekerleğinde, ilkel ve gerçek çap eşittir; sopalı dişli
+tekerleğinde, dişlerin kilitlenen köşeleri boyunca anlamına gelir; bu tür bir
+tekerlekte, ilkel, iki darbe düzleminin yüksekliği kadar gerçek çaptan _daha azdır_.
+
+_Kilit_, düşmenin gerçekleştiği anda paletin kilitlenen köşesinden ölçülen kilitleme derinliğine eşittir.
+
+_Çalışma_, düşmenin gerçekleştiği _sonra_ paletlerin ve çatalın bankalara doğru açısal hareket miktarına eşittir.
+
+_Toplam Kilit_, kilit artı çalışmaya eşittir.
+
+_Teğet_, bir eğriye _dokunan_ ancak onunla kesişmeyen bir çizgidir. AC ve AD, Şekiller. 2 ve 3, EB, AC ve GH ile FB, AD ve GH'nin kesişim noktalarındaki ilkel daire GH'ye teğettir.
+
+_İmpuls Açısı_, impulsun veya yakut piminin kol çatalıyla açısal bağlantısına eşittir; veya başka bir deyişle, terazinin kaçış tertibatıyla.
+
+_İmpuls Yarıçapı._--İmpuls mücevherinin yüzünden denge çubuğundaki hareket merkezine kadar, çoğu yazar impulsun ve yarıçapın eşit olduğunu varsayar ve bunların birbirine uyması gerektiği doğrudur. Yarıçapta radikal bir değişiklik yaptık ve bu da açıyı
+etkilemiyor. Bunu zamanı gelince kanıtlayacağız ve ayrıca impulsun pimi ne kadar genişse impulsun yarıçapının da o kadar büyük olması gerektiğini,
+ancak açı değişmeden kalacağını.
+
+Burada tüm gençlere bir tavsiyede bulunmak istiyoruz ve bu da
+çizmeyi öğrenmeleri. Hiç kimse çizim yapamıyorsa tam bir saatçi olamaz, çünkü çizim yapamıyorsa mesleğini kavrayamaz.
+
+Bunun bizim için ne yaptığını biliyoruz ve aynı sonuçları başkalarında da gördük, bu nedenle kişisel deneyimlerimizden bahsediyoruz. Gece okullarına ve mekanik enstitülerine gidin ve kendinizi geliştirin.
+
+Toronto'nun genç işçileri Toronto Teknik Okulu'nda büyük bir avantaja sahipler, ancak yaklaşık 600 öğrenciden sadece beş saatçinin geçen yıl okula gittiğini görmek üzücü. Bunların çoğunluğunu açıklayabiliyoruz, bu nedenle mesleğin genç adamlarının pek ilgilenmediği veya orada edinilecek bilgiyi
+uygulayamayacaklarını
+düşündükleri anlaşılıyor. Bu büyük bir hatadır; neredeyse her tür bilginin saatçiliğe
+uygulanabileceğini söyleyebiliriz. Bu çalışmaları
+başlatan gençler, bunların büyük avantajını daha sonra görecekler; bir işçi akıllıca çalışırken diğeri kör "tahmin" işi yapacak.
+
+Şimdi konumuza girmek üzereyiz ve şunu söylemenin iyi olacağını düşünüyoruz,
+onu olabildiğince açık hale getirmeye çalıştık. Derin bir konu
+ve hafife alınması zor; kendi tarzımızda ele alacağız,
+konuya verdiğimiz uzun yıllar süren titiz çalışma sırasında bizi rahatsız eden tüm bu noktalara özel dikkat göstereceğiz.
+Özellikle teorinin pratiğe nasıl uygulanabileceğini göstermeye çalışıyoruz;
+herkesin konuyu çalışmadan anlamasını bekleyemesek de, nispeten anlaşılmasını kolaylaştırdığımızı düşünüyoruz. Bazı açılardan diğerlerinden farklı olan çıkış mekanizmasını tasarlama yöntemimizi vereceğiz. Bir saatte yeniden üretebileceğimiz bir çizim
+yapmaya inanıyoruz.
+
+KOL ÇIKIŞININ ANALİZİ.
+
+Kol çıkış mekanizması, Graham'ın saatler için yaptığı ölü vuruş çıkış mekanizmasından türetilmiştir. Thomas Mudge, yaklaşık 1750'de bunu bağımsız biçimde saatlere başarıyla uygulayan ilk saatçiydi. Paletlerin kilit yüzeyleri, palet merkezlerinden
+çıkarılan daire yaylarıydı. Bugüne kadar birçok
+iyileştirme yapıldı ve genel amaçlı bir saat için en iyi çıkış mekanizması biçimidir ve mekanik prensipler üzerine yapıldığında birinci sınıf sonuçlar üretebilir.
+
+Amacımız bu çıkış mekanizmasının nedenlerini ve niçinlerini açıklamak olacak ve hemen çıkış çarkındaki diş sayısıyla başlayacağız. Kolda, kenarda olduğu gibi, çarkta eşit sayıda diş olması zorunlu değildir. Neredeyse hepsinin 15 dişi olmasına rağmen, biz bunları 14 veya 16 yapabiliriz; bazen 12 dişli karmaşık saatlerde ve 30 dişli eski İngiliz saatlerinde buluyoruz, bu beceriksiz bir düzenlemedir ve paletler ikincisinde yalnızca üç dişi kapsıyorsa, palet merkezi teğet üzerine yerleştirilemez.
+
+Zamanlama açısından kaçış çarkındaki dişlerin, saniye kolu olan bir saatte dakikada yapılan vuruş sayısına eşit olarak bölünmesi tavsiye edilse de, bir örnekte görüleceği gibi, kesinlikle böyle olması gerekmez. Dakikada 300 vuruş yapan sıradan bir saat alacağız; 16 dişli bir kaçış çarkı takacağız; bunu 2 ile çarpacağız, çünkü dengenin önce ileri sonra geri hareketi ve dolayısıyla her diş için iki vuruş olacak ve kaçış çarkının her dönüşü için 16 x 2 = 32 vuruş elde edeceğiz. Dakikada 300 vuruş yapılır; Bunu her bir devirde yapılan vuruşlara bölersek, kaçış çarkının dakikada döndüğü zaman sayısını elde ederiz, yani 300 / 32 = 9,375. Bu sayı, 4. çarkın ve kaçış pinyonunun dişleri ve adım çapları için mevcut olan orandır. Şimdi bu çark ve
+pinyon için uygun sayıda diş bulmalıyız. Bir saat için mevcut pinyonlardan, 8 yapraktan biri cevap verecek tek
+olan olacaktır, çünkü başka herhangi bir sayı 4. çark için kesirli bir diş sayısı verecektir, bu nedenle 4. çarkta 9,375 x 8 = 75 diş. Şimdi ispata gelince: iyi bilindiği gibi, daha önce verilen sebepten dolayı 4. ve kaçış çarklarında bulunan diş sayısını da 2 ile çarparsak ve kaçış pinyonundaki yapraklara bölersek, dakikada yapılan vuruş sayısını elde ederiz; bu nedenle
+(75 x 16 x 2)/8 = dakikada 300 vuruş.
+
+Paletler üçten fazla dişi kapsayacak şekilde yapılabilir, ancak çok daha
+ağır olur ve bu nedenle mekanik hareket zarar görür. Ayrıca daha az dişi kapsayacak şekilde yapılabilir, ancak pivot deliklerindeki gerekli yan sarsıntı, modern saatlerdeki hareket açısını temsil eden 10 derecelik toplam kaldırma açısına çok
+zararlı olur. En iyi olanlardan bazıları yalnızca 8 veya 9 derecelik bir hareket yapar; açı ne kadar küçükse,
+kusurlu işçiliğin etkileri o kadar büyük olur; 10 derecelik bir
+sağduyu açısıdır ve iyi sonuçlar verebilecek güvenli bir çıkış sağlar.
+Teorik olarak, dengenin bir çıkışla bağlantılı olmadan titreşeceği bir saat üretilebilseydi, hedefe bir adım daha yaklaşmış olurduk. Uygulama, bunun üzerinde çalışılacak doğru teori olduğunu göstermiştir. Bu nedenle, palet ve dürtü açıları ne kadar küçükse, denge ve çıkış o kadar az birbirine bağlı olacaktır. Kronometre, koldan
+daha da fazla ayrılmıştır.
+
+Üç dişi kucaklayan palet sağlam ve pratiktir ve
+15 dişli bir tekerleğe uygulandığında, bu düzenleme, zamanında fark edeceğimiz, yapısında belirli geometrik
+ve mekanik avantajlar sunar.
+15 diş, 360 dereceye eşit şekilde bölünür. 24 derecelik bir aralık bırakır. dişten dişe, aynı zamanda dişlerin kilitleme yüzeylerinin merkezden eğimli olduğu açıdır, bu gerçek tekerleğimizi kesmeye geldiğimizde kullanışlı olacaktır.
+
+Üç diş üzerinde palet kazımada kilitlemeden kilitlemeye, açı 60 derecedir, bu da tekerleğin 2 1/2 boşluğuna eşittir. Şekil 1, bu yayı kaplayan kilitlemeleri göstermektedir. Paletler 4 dişe sahip olsaydı, açı 84 derece olurdu; veya üç diş üzerinde 16 dişli bir tekerlek kazıma durumunda, açı 360 x 2,5/16 = 56 1/4 derece olurdu.
+
+[Resim: Şekil 1.]
+
+Paletler iki türe ayrılabilir, yani: eşit mesafeli ve dairesel.
+Eşit mesafeli palet, kilitlemelerin merkezden eşit
+mesafede olması nedeniyle böyle adlandırılır; bazen, teğetsel kaçış olarak da adlandırılır, çünkü kilit açma işlemi teğet AC ile EB'nin ve FB ile AD'nin kesiştiği noktada gerçekleşir, teğetler, bu kaçış biçiminin değerli bir özelliğidir.
+
+[Resim: Şekil 2.]
+
+AC ve AD, Şekil 2, ilkel daire GH'ye teğettir. ABE ve ABF
+her biri 30 derecelik açılardır, bu nedenle birlikte 60 derecelik FBE açısını oluştururlar. Kilitleme dairesi MN palet merkezi A'dan vurulur; açılar eşit olduğundan, paletler eşit uzaklıkta olmalıdır.
+
+Bu paletin zayıf noktası, kaldırmanın çok elverişli bir şekilde gerçekleştirilmemesidir; kaldırma düzlemleri MO ve NP'yi inceleyerek, boşaltma kenarı O'nun boşaltma kenarı P'den merkez A'ya daha yakın olduğunu
+görüyoruz; sonuç olarak, kavrama paletindeki kaldırma, ayırma paletindekinden daha kısa bir kaldıraç kolunda gerçekleştirilir, ayrıca işçilikteki herhangi bir eşitsizlik, kavrama paletinde ayırma paletindekinden daha zararlı olacaktır. Eşit mesafeli palet, baştan sona ince işçilik gerektirir. Bunu bilerek, 15 dişli bir tekerlekte kullanabileceğimiz en geniş olan 10 derecelik bir genişlikte gösterdik ve bu kaçış mekanizmasının kusurlarını, dar bir palet kullanmış olsaydık olduğundan daha kolay gösterir. Daha dar bir palet tavsiye edilir, çünkü boşaltma kenarlarındaki fark daha az olacaktır ve bu nedenle kaldırma kolları kaldıraçta çok fazla fark göstermeyecektir.
+
+[Resim: Şekil 3.]
+
+Dairesel palet bazen uygun bir şekilde "eşit kaldırma gücüne sahip palet" olarak adlandırılır, çünkü kaldıraç kolları AMO ve ANP, Şekil 3, eşit uzunluklardır.
+Şemayı inceleyerek, paletlerin 30 derecelik bir açıyla ikiye bölündüğünü fark edeceksiniz. EB ve FB hatları, genişliklerinin yarısı bu hatların her iki tarafına yerleştirilir. Bu palet üzerinde iki kilitleme çemberimiz var, 
+MP kavrama paleti için ve NO ayırma paleti için. Bu kaçıştaki zayıf noktalar, kilit açma direncinin kavrama paletinde, ayırma paletinden daha fazla olması ve bunların hiçbirinin EB ve FB ile kesişme noktalarında AC ve AD teğetlerine kilitlenmemesidir. Dairesel palet ne kadar dar yapılırsa, kilit açma işlemi teğete o kadar yakın gerçekleştirilir. Eşit mesafeli veya dairesel paletlerin hiçbirinde, kilit açma direnci her palette _tam olarak_ aynı olamaz, çünkü kavrama paletinde sürtünme, merkez çizgisi olan AB'den önce gerçekleşir ve bu çizgi geçildiğinde olduğundan daha şiddetlidir, tıpkı ayırma paletinde olduğu gibi; Bu gerçek, dairesel paletin mevcut kusurlarını orantılı olarak artırır ve _tam tersi_, ancak aynı nedenle, eşit
+uzakta kaldırma, dairesel palete göre orantılı olarak daha fazla
+sürtünmeyle birlikte gelir.
+
+Hem eşit-uzakta hem de dairesel paletlerin kendi taraftarları vardır; en iyi
+İsviçre, Fransız ve Alman saatleri eşit-uzakta çıkışlarla yapılırken,
+İngiliz ve Amerikan saatlerinin çoğu daireseldir.
+Bizim görüşümüze göre, İngilizler dairesel forma bağlı kalmakta akıllıca davranmışlardır.
+Eşit-uzakta paletlerde bir cırcır tekerleğinin kullanılmaması gerektiğini düşünüyoruz.
+Şekil 2'yi inceleyerek, bu formda bir İngiliz paleti görüyoruz. Kusurlarını İngiliz gibi geniş bir palet üzerinde gösterdik (daha önce belirttiğimiz gibi), çünkü bunlar daha kolay algılanıyor; ayrıca, dişlerin şekli nedeniyle, boşaltma kenarı P'nin tekerleğe o kadar derine daldırılması tehlikesi vardır ki, önemli bir düşüş gerekli olur, aksi takdirde paletler dişlerin arkalarına temas eder. Kulüp dişi durumunda, ikincisi oyulmuştur, bu nedenle daha az düşüş gerekir. Teorik olarak, paletleri İngilizlerden daha dar yapmanın, hem eşit mesafeli hem de dairesel çıkışlar için avantajlı olduğunu fark ettik. İngilizlerin tam tersi olan bir çıkış vardır, Şekil 4. Tüm kaldırma tekerlek tarafından yapılırken,
+cırcırlı tekerlek durumunda, tüm kaldırma açısı paletler üzerindedir; Ayrıca, paletler mümkün olduğunca dar olduğundan,
+dayanıklılıkla tutarlı olarak, hem eşit mesafeli hem de dairesel paletlerin iyi noktalarına sahiptir, çünkü kilit açma teğet üzerinde gerçekleştirilebilir ve kaldırma kolları eşit uzunluktadır. Ancak, tekerlek çok daha ağırdır ve ataleti önemli ölçüde artırır; ayrıca, ince bir mücevherin üzerinde oldukça fazla kayan bir metal yüzeye sahibiz. Bu nedenle, pratik
+nedenlerden dolayı, formda biraz değişiklik yapılmıştır ve yalnızca ucuz işlerde kullanılır, kolayca yapılır.
+
+[Resim: Şekil 4.]
+
+Şimdi, güçte belirgin bir kayıp olan ve aşırıysa, çok fazla düzensizliğe neden olan düşüşü ele alacağız. Mükemmel hareket özgürlüğüyle tutarlı olarak mümkün olduğunca küçük olmalıdır.
+
+_Açısal_ ölçümler söz konusu olduğunda, buna kesin ve hızlı bir kural
+uygulanamaz, kaçış tekerleği ne kadar büyükse, düşüş için izin verilen açı o kadar küçük olmalıdır. Konuyla ilgili yetkililer, sopa için 1 1/2 derecelik ve cırcır dişi için 2 derecelik düşüşe izin veriyor. Kaçış
+tekerleklerinin mükemmel şekilde kesilmediği bir gerçektir; dişler, kesicilerin hareketinden dolayı hafifçe bükülmeye eğilimlidir. En gerçek tekerlek, her diş sertleştirilip temperlendikten sonra ardışık olarak taşlanabileceği için çelikten yapılabilir.
+Böyle bir tekerlek, diğer herhangi bir metalden daha az düşüş gerektirir. 7,5 mm'lik ilkel bir çapa sahip bir tekerleğimiz olduğunu varsayalım,
+açısal ölçümle 1 1/2 derecelik düşüşe izin veren düşüş miktarı nedir?
+7,5 x 3,1416 / 360 x 1,5 = .0983 mm, bu yeterlidir; bir saç teli palet ile diş arasına girebilir ve saati durdurmaz.
+Kusurlu şekilde bölünmüş dişlere izin verdikten sonra bile, tekerlek daha büyük olsa bile daha fazla özgürlüğe ihtiyacımız yoktur. Şimdi ilkel çapı 8,5 mm olan bir tekerlek aldığımızı ve düşüş miktarını bulduğumuzu varsayalım;
+8,5 x 3,1416 / 360 x 1,5 = .1413 mm., veya .1413 - .0983 = .043 mm.,
+aynı açıyı alırsak daha küçük tekerlekten daha fazla düşüş. Bu bir
+güç
+israfıdır. Bu nedenle açısal düşüş, tekerleğin boyutuna göre
+orantılanmalıdır. Sağduyunun her zaman rehberimiz olması gerektiğinin anlaşılmasını istiyoruz. Saatçilik öğrencisi bir kez
+bu bakış açısına ulaştığında, kendisini _akıllıca_
+çağrısına adayabilir.
+
+_Çekiş._--Çekiş veya taslak açısı, emniyet eylemi işlevini yerine getirdiğinde
+çatalın bankalara ve koruma noktasının silindirden geriye çekilmesi için paletlere eklenmiştir.
+
+[Resim: Şekil 5.]
+
+Çekmeli paletlerin kilidini açması, çekmesiz paletlere göre daha zordur,
+bu bir hatanın doğasıdır, ancak iki hata olduğunda daha azını seçmeliyiz. Saatin hızı, geri tepme nedeniyle, palet merkezinden vurulan dairelerin kilitleme yüzeyleri yayları
+olduğundan daha az etkilenecektir, bu durumda koruma noktası
+genellikle silindire karşı kalır. Çekme, eylemin güvenliğiyle tutarlı olarak mümkün olduğunca hafif olmalıdır; bazı yazarlar, devreye giren palet üzerinde 15 derece ve devreden çıkan palet üzerinde 12 derece izin verir; diğerleri yine her birinde 12 derece izin verir, ki bu da yeterli olduğunu düşünüyoruz. Çekme, kilitleme
+kenarları M ve N'den ölçülür, Şekil 5. Kilitli düzlemler _kilitlendiğinde_ EB ve FB'den 12 derece eğimlidir. Kavrama paleti durumunda, merkez A'ya doğru eğilir. Çekme, MA'nın RA'dan daha uzun olması nedeniyle üretilir, dolayısıyla, scape dişine S güç uygulandığında, palet tekerleğe çekilir. Ayrılan palet aynı yönde eğilir ancak merkez A'dan uzağa; sebep önceki açıklamadan açıktır. Bazı insanlar, kaçış dişlerinin kilitleme kenarındaki eğim ne kadar büyükse, çekmenin o kadar güçlü olacağını düşünür.
+Bu böyle değildir, ancak dişin ucunun palete tek başına değmesi kesinlikle gereklidir. Bundan, dişlerdeki açının paletlerdekinden daha büyük olması gerektiği sonucu çıkar; Şekil 5'teki ayrılan paleti inceleyin, çünkü dişlerin eğimi bu paletten belirlenmelidir, çünkü kavrama paleti durumunda hareket AB merkezleri çizgisine doğru ve bu nedenle dişten _uzaktır_, bu da bazı insanların bu palet için 15 derecelik çekmeyi savunmasının kısmen nedenini açıklar. Ancak, serbest bırakılan palet durumunda gösterildiği gibi, hareket aynı zamanda AB merkezleri çizgisine ve dişe doğru da _doğru_ olur, bunların hepsi paletlerin yollarını temsil eden noktalı daireler MM2 ve NN2 ile görülecektir. UNF ve BNB'nin 12 derecelik zıt ve eşit açılar olduğu fark edilecektir. Pratik nedenlerden dolayı, üretim açısından, dişteki açı sadece iki katı, yani 24 derece yapılır; bunu biraz daha az veya biraz daha fazla yapabiliriz. Bunu 20 dereceden daha az yaparsak, mücevherle çok büyük bir yüzey temas halinde olur, bu da kilidi açmada daha fazla sürtünmeye ve verimsiz bir çekişe neden olur, ancak böyle bir düzenlemeye sahip bir İngiliz kolu durumunda daha az düşüşle yetinebiliriz, bu avantaj çok pahalıya satın alınmış olur; veya açı 28 dereceden fazla yapılırsa, pirinç bir tekerlek olması durumunda dişin ucu veya kilitleme kenarı hızla aşınır. Ayrıca bir İngiliz kaldıracında daha fazla düşüş
+gerekirdi.
+
+_Kilit._--Düşüşle ilgili olarak söylediklerimiz, mükemmel güvenlikle uyumlu olarak mümkün olduğunca küçük olması gereken
+kilit için de geçerlidir. Düşüş ne kadar büyükse, kilit o kadar derin olmalıdır; 1 1/2 derece, kilit için genel olarak izin verilen
+açıdır, ancak büyük bir kaçışta daha az olabileceği açıktır.
+
+[Resim: Şekil 6.]
+
+_Çalışma._--Çalışma veya bazen adlandırıldığı gibi "sürgü",
+mümkün olduğunca hafif olmalıdır; 1/4 dereceden 1/2 dereceye kadar yeterlidir. O zaman, bankalar mümkün olduğunca birbirine yakın olmalı,
+kaçış için gereken serbestlikle uyumlu olmalıdır. Bundan daha fazlası,
+denge ile kaçış arasındaki açısal bağlantıyı artırır,
+bu da doğrudan inşa edildiği teoriyi ihlal eder; Ayrıca,
+artan kilit açma direncini karşılamak için dengeye daha fazla iş yüklenecek, bu da zayıf bir hareketle sonuçlanacak ve doğru
+zaman söz konusu olmayacaktır. "Çıkış mekanizmasına daha fazla özgürlük vermek" için bankaları açmayı alışkanlık haline getiren işçilerin, tavadan ateşe atladıkları görülecektir. Bankalar, açısal ölçüme göre,
+ne kadar uzağa yerleştirilirse o kadar az koşu mesafesine ihtiyaç duyduğumuz için, palet merkezinden mümkün olduğunca uzakta olmalıdır. Şekil 6 bu gerçeği göstermektedir; diş S, temas eden palete yeni düşmüştür, ancak çatal henüz bankalara ulaşmamıştır. _a_ noktasında 1 derecelik koşu mesafemiz varken, _b_ noktasına yerleştirilseydik, sadece 1/2 derecelik koşu mesafemiz olurdu, ancak yine de kaçmak için aynı özgürlüğe sahip olurduk ve daha az kilit açma direnci olurdu.
+
+Bankalar, çatalın hareket eden ucuna doğru yerleştirilmelidir, çünkü saat "yeniden bankalanırsa" çatalın diğer ucuna yerleştirilselerdi kol pivotlarında daha fazla gerginlik olurdu.
+
+[Resim: Şekil 7.]
+
+_Kaldırma._--Kaldırma, dişler ve paletler üzerindeki gerçek kaldırma ve kilit ve çalıştırmadan oluşur. Düşüşten düşüşe 10 derecelik bir izin verdiğimizi varsayacağız; kilit 1 1/2 derece ise o zaman dişler ve paletler üzerindeki eğimli düzlemler vasıtasıyla gerçek kaldırma 8 1/2 derece olacaktır. Küçük bir kaldırma açısının tavsiye edildiğini gördük, böylece terazinin titreşimleri mümkün olduğunca serbest olacaktır. Başka nedenler de vardır. Şekil 7'de iki eğimli düzlem gösterilmektedir; ağırlığı 2 düzlemlerin eğimli olduğu açıya eşit bir mesafeye kaldırmak istiyoruz; daha küçük eğimi kullanarak daha az sürtünme olacağı, daha büyük eğimde ise hareket gücünün taşınacak nesne üzerinde daha büyük bir mesafe boyunca kullanılacağı ilk bakışta görülecektir. Açı ne kadar küçükse hareket o kadar enerjik olacaktır; açıların
+öğütülmesi ve pivotların uyumu vb. de önem kazanır. 8 1/2 derecelik gerçek bir kaldırma, uygulanan koşulları çok iyi karşılar. Daha önce, palet kollarının hem kilidinin açılması hem de kaldırma kaldıracı nedeniyle, bunları hem eşit mesafeli hem de dairesel çıkışta daraltmanın tavsiye edilebilir olduğunu gördük. Şimdi, tekerleğin söz konusu olduğu ölçüde, kaldırma açısından soruyu inceleyeceğiz.
+
+[Resim: Şekil 8.]
+
+Dar bir paletin geniş bir dişe, geniş bir paletin ise dar veya ince dişli bir çarka ihtiyaç duyduğu açıktır; cırcır çarkında, mücevherli bir düzlemin üzerinden geçen bir metal nokta vardır. Sürtünme en düşük seviyededir, çünkü sopalı dişe göre daha az yapışma vardır, ancak bu çıkışta paletlerde dar paletlere ve daha geniş dişe göre orantılı olarak daha büyük bir açıya ihtiyaç duyduğumuzu vurgulamalıyız. Bu, birçok kişinin tam olarak kavrayamadığı bir nokta gibi görünüyor ve hem geniş hem de dar bir paleti gösterdiğimiz için bunu tamamen açık hale getirecek olan Şekil 8'i yakından incelemenizi öneririz. GH,
+ilkel olanı temsil eder, bu şekilde kaçış tekerleğinin gerçek çapıdır. Paletler için kaldırma açılarını ölçerken,
+başlangıç ​​noktamız _her zaman_ AC ve AD teğetlerindendir. Teğetler
+düz çizgilerdir, ancak tekerlek GH dairesini tanımlar, bu nedenle
+birbirlerinden sapmaları gerekir ve kavrama paletinin boşaltma kenarı merkez A'ya ne kadar yakınsa, bu fark o kadar büyük olur; ve aynı şekilde, ayırma paletinin boşaltma kenarı merkez A'dan ne kadar uzaksa o kadar büyük olur.
+Bu, kaybın eşit uzaklıktakilerde dairesel kaçıştan daha büyük olduğunu gösterir. Bundan sonra bu farkı "kayıp" olarak adlandıracağız. Bunu daha açık bir şekilde göstermek için en geniş paleti - İngiliz paletini - eşit uzaklıktaki formda gösteriyoruz. Bu, İngiliz kaldıracının neden sadece dairesel paletlerle yapılması gerektiğine dair başka bir neden daha verir, çünkü palet ne kadar genişse kaybın o kadar büyük olduğunu gördük. Kayıp, boşaltma kenarı OO'nun yolunun G H dairesiyle kesiştiği noktada ölçülür ve bu daireleri o noktada kesen AC2'den gösterilir. Ayrılan palet durumunda, PP, boşaltma kenarının yolunu gösterir; kayıp, GH'nin AD2 ile gösterildiği gibi kesiştiği önceki durumdaki gibi ölçülür. Her palette farklı bir değere ulaşır. Bağlanan palet üzerindeki C ve C2 ile ayrılan palet üzerindeki D ve D2 arasındaki kayba dikkat edin; bağlanan palet üzerinde daha büyüktür, öyle ki 2 dereceye ulaşır ki bu da tüm kilide eşittir; bu nedenle bu palet üzerinden 8 1/2 derecelik iş yapılacaksa, kaldırma düzleminin AC'den 10 1/2 derecelik bir açıyla vurulması gerekir. Şimdi, kulüp dişli çarkının kaldırma eylemini ele alalım. Bu kesinlikle karmaşık bir eylemdir ve anlamak için biraz çalışma gerektirir. Kavrama paletiyle hareket halindeyken tekerlek _yukarı_ veya paletlerin hareket yönünde hareket eder, ancak ayırma paletinde _aşağı_ ve paletlerin tersi yönde hareket eder ve dişin topuğu kilitleme kenarından daha büyük bir hızla hareket eder; ayrıca, kavrama paletinde, kilitleme kenarı boşaltma kenarından daha büyük bir hızla hareket eder; ayırma paletinde ise durum tam tersidir, çünkü boşaltma kenarı kilitleme kenarından daha büyük bir hızla hareket eder. Bu noktalar dikkate alınması gereken faktörleri içerir ve doğru bir hareketin taslağı son derece önemlidir; bu nedenle kaldırma işlemini iyi bir harekette dört farklı aşamada gerçekleştirildiği şekilde gösteriyoruz. Şekil 9, kavrama paletini ve Şekil 10 ayırma paletini göstermektedir; Şekiller karşılaştırılarak, kaldırmanın İngiliz'dekine benzer şekilde dişin ucunda gerçekleştiği, paletin boşaltma kenarı geçilene kadar, topuk kademeli olarak devreye girdiğinde, ancak ayırma paletinde daha hızlı bir şekilde gerçekleştiği fark edilecektir.
+
+Ayrıca, kaldırmanın ilk bölümünde dişin ayırma paletindekinden daha hızlı
+kapsayan kaldırma düzlemi boyunca hareket ettiğini fark edeceğiz;
+2 ve 3 numaralı paletlerde bu fark oldukça büyüktür; kaldırmanın son bölümüne doğru hareket ayırma paletinde daha hızlı hale gelir ve
+arayanda daha yavaş olur.
+
+Bu zorluğun üstesinden gelmek için, özellikle A. Lange & Sons'ın bazı kaliteli saatlerinde, bağlama paletlerinde dışbükey ve ayırma paletlerinde içbükey kaldırma düzlemleri bulunur; dişlerdeki kaldırma düzlemleri de kavislidir.
+Bkz. Şekil 11. Bu kesinlikle ustaca bir düzenlemedir ve bilimsel araştırmayla tamamen uyumludur. Eğer bunları üretme araçları, söz konusu bilimsel prensiplerin gereksinimlerini tam olarak karşılayabilseydi, bu tür çıkışlarla yapılmış birçok güzel saat görebiliriz.
+
+[Resim: Şekil 9.]
+
+Diş ve palet üzerindeki kaldırmanın dağılımı çok önemli bir konudur; diş üzerindeki kaldırma açısı, palet üzerindekinden genişliğine oranla _daha az_ olmalıdır. Bunu tamamen açık hale getirmek için, neyin yapılmaması gerektiğini gösterelim; diş ve palet için 10 1/2 derecelik bir genişlik varsa ve bunun yarısını diş, diğer yarısını palet için alırsak, her birini 5 1/4 derece genişliğinde yaparsak ve aralarında dağıtmak için 8 1/2 derecelik bir kaldırmamız olduğunu varsayalım, her birine 4 1/4 derecelik bir alan bırakarak, kaldırma Şekil 12'de gösterildiği gibi gerçekleşir ki bu çok olumsuz bir eylemdir. Takılan paletin kenarı dişin kaldırma düzlemine sürtünür, ancak bu hatayı içeren
+bazı çok iyi saatlerin tam olarak
+üretildiğini bulmak şaşırtıcıdır; bu tür saatler çataldaki yakut pim ve takılan palet hareket halindeyken durdurulabilir ve
+kurma koluna dokunulduğunda hemen aşağı doğru çalışmaya başlamazlar, ne kadar iyi bitirilmiş ve takılmış olurlarsa olsunlar.
+
+[Resim: Şekil 10.]
+
+Koltuk dişinin kol uzunlukları değişkendir, oysa cırcırda sabittir, bu onun lehinedir; ikincisinde her zaman SB, Şekil 13 gibi olur. Bu, QB'den daha kısa bir koldur, dolayısıyla daha
+güçlüdür, ancak daha büyük hız Q'dadır, bu da yalnızca tekerleğin ve paletlerin eylemsizliği aşıldıktan sonra ve temas sırasında en büyük momentuma ulaşıldığında harekete geçer. SB, kulüp dişli çarkının ilkel yarıçapıdır, ancak cırcır çarkının hem ilkel hem de _gerçek_ yarıçapıdır. Tekerlek ve palet merkezlerinin mesafesi her iki durumda da aynı olacaktır; ayrıca kilitler her iki palet üzerinde aynı mesafede olacaktır; bu nedenle, saatçiler, dünya çapında ünleri olsa bile, kulüp dişinin, kaldırmayı ikincisinden daha kısa bir kolla başlattığı için
+cırcırdan daha avantajlı olduğunu iddia ettiklerinde, bu onu öyle yapmaz. Konuyu tamamen saatçilik açısından ele alıyoruz ve ne vatanseverlik ne de önyargı bununla hiçbir ilgisi yoktur. Konuyu iyice ele almak ve her kaçış biçiminin meziyetleri ve kusurları hakkında adil bir anlayışa varmak ve sonuçlarımız için _nedenler_ göstermek istiyoruz.
+
+[Resim: Şekil 11.]
+
+[Resim: Şekil 12.]
+
+[Resim: Şekil 13.]
+
+Çıkarımlarımızı yakından takip eden herkes, tekerlek söz konusu olduğunda, mandal veya İngiliz tekerleğinin lehine birkaç nokta olduğunu görmelidir. Böyle bir tekerlek geniş bir paletle ayrılamaz; ancak daha dar bir paletin tavsiye edildiğini gördük; ayrıca mümkün olduğunca az düşme ve kilit; açıkça bir uzlaşmaya varmalıyız. Başka bir deyişle, şu ana kadar akıl yürütmemizin dengesi kulüp dişli kaçış lehinedir ve diş, palet ve kaldırma için açıların akıllıca bölünmesi, zeki saatçinin karşılaştığı büyük sorulardan biridir.
+
+Palet ve dişi, asansörün her aşamasında, hem geniş hem de dar paletler ve dişlerle, dairesel ve eşit mesafeli çıkışlarla farklı açılarla çizme zahmetine giren herkes, gözlerini
+açan bir şey elde etmiş olacaktır. Pratik işçiler olan tüm okuyucularımıza, söylediklerimizi inceledikten sonra bunu denemelerini şiddetle tavsiye ediyoruz. Bunun kendilerine
+karşılığını vereceğinden eminiz.
+
+[İllüstrasyon: Şekil 2.]
+
+_Tekerlek ve Paletlerin Merkez Mesafesi._ Tekerlek dişlerinin basınç yönü, palet merkezinden, Şekil 2'deki AC ve AD teğetlerini, FBE açısının kesiştiği noktada ilkel daire GH'ye çizerek olmalıdır. Bu koşul, eşit mesafeli paletlerde gerçekleşir. Dairesel palet, Şekil 3'te, bu koşul
+olamaz, çünkü bir teğete _kilitlenmek_ için merkez mesafesi
+kavrayan palet için _daha büyük_ ve ayrılan palet için _daha az_ olmalıdır, bu nedenle saatçiler ikisi arasında gidip onları yerleştirmeyi hedefler
+
+A'da daha önce belirtildiği gibi.
+
+Teğetlere yerleştirildiğinde, kilit açma direnci daha az olacak ve
+özellikle daireselde, basınç yönü kuvvetler paralelkenar yasasıyla çakıştığı için (kaldırma merkezine yakın) uygun koşullar altında iletilen dürtü daha az olacaktır.
+
+Çok küçük kaçışlarda teğetlere palet yerleştirmek _imkansızdır_, çünkü uygun mukavemette bir palet mili için yeterli alan olmazdı, ayrıca uzun bir palet mili olan orta büyüklükteki kaçışta teğetlere yerleştirilmiş olarak bulunmazlar, ayrıca çok geniş bir dişe sahip olanlarda (bkz. Şekil 4) topuk merkez A'ya o kadar yaklaşırdı ki paletlerin ve milin sağlamlığı zarar görürdü. Gerçek bir örnek vereceğiz. İlkel çapı 7,5 mm olan orta büyüklükteki bir kaçış tekerleği için merkez mesafesi AB 4,33 mm'dir. Dişlerde 3 derecelik bir kaldırma açısı kullanılarak, dişin topuğundan palet merkezine olan mesafe .4691 mm olacaktır; tekerlek ile palet arasında .1 mm ve .15 mm boşluk bırakılarak. paletlerdeki stok için aşağıdaki gibi bir palet mili bulacağız: .4691 - (.1 + .15) x 2 = .4382 mm. Daha küçük bir
+şey yapmak mümkün olmayacaktır.
+
+[Resim: Şekil 3.]
+
+Şimdi dar bir paletin tavsiye edilirken çok
+geniş bir dişin tavsiye edilmediğini; ancak bu ikisinin birbirinden ayrılamaz olduğunu görmemiz gerekir. İşte bir uzlaşma için başka bir durum, şüphesiz paletlerin teğetlere yerleştirilmesi gerektiği gibi. İngiliz kaldıracında bununla ilgili bir zorluk yoktur ve örneğimizde, orta büyüklükte, akıllıca planlanmış bir kulüp dişli kaçışının merkez mesafesi düzgün bir şekilde yerleştirildiğinde yapılabileceğini gösterdik.
+
+[Resim: Şekil 4.]
+
+Merkez mesafesini hesaba katarken, dişlerin ve paletlerin genişliklerini ve kaldırma açılarını mutlaka dikkate almalıyız. Şu anda, hiçbir akıllı saatçinin bu parçalar için belirli bir
+bölüm belirtip bunun "en iyisi" olduğunu iddia etmeyeceği bir noktadayız.
+Her zaman, bir konuyu tam olarak anlamayanlar bu tür iddialarda bulunan ilk kişilerdir.
+Ancak, belirli sınırlar içinde fikrimizi bildireceğiz. Diş ve palet için bölünecek açı 10 1/2 derecedir. Bunu 2'ye bölelim, ki bu yapılacak en doğal şey olur ve sorunu inceleyelim. Diş ve palet genişliği için her biri 5 1/4 derece olacak. Dişte palete göre daha küçük bir kaldırma açısına sahip olmalıyız, ancak
+diş ne kadar genişse kaldırma açısı da o kadar büyük olmalıdır. Dişi geniş ve kaldırma açısını küçük yapmak mekanik olmazdı, çünkü
+paletlerdeki kaldırma düzlemi dar olduğu için çok dik olurdu. Dişte belirli bir dairesel için _tam olarak_ uygun olacak bir kaldırma açısı, belirli bir eşit uzaklıktaki palet için _çok büyük_ olurdu. Bu nedenle, diş için 5 1/4 derecelik bir genişlik aldığımızda, eşit uzaklıktaki paletlerle makul büyüklükte bir çıkışta bunu kullanabilirken, dairesel paletlerde bunu yapamayız ve yine de ikincisini teğetlere eğimli hale getiremeyiz. Çoğu kaçış mekanizmasının paletlerden daha dar dişlerle yapıldığını görüyoruz ve bunun çok iyi bir nedeni var.
+
+Daha önce verilen örnekte, dişteki 3 derecelik kaldırma, 6 derecelik bir palet gerektirecek olan 4 1/2 derecelik bir genişliğe iyi uyarlanmıştır. Bu nedenle diş, paletlerin genişliğinin 3/4'ü olacaktır ki bu gerçekten çok iyidir.
+
+Söylediklerimizden, çok sayıda paletin teğetlere hiç yerleştirilmediği sonucu çıkar. Bu soruyu daha önce basılı olarak hiç fark etmemiştik. Yazarlar genellikle kaçış mekanizmasının ne kadar büyük veya küçük olursa olsun veya paletler ve dişler genişlik ve kaldırma açısı için nasıl bölünürse bölünsün, paletleri teğetlere yerleştirmede hiçbir zorluk olmayacağını varsayarlar. Teorik olarak
+bir zorluk yoktur, ancak pratikte olduğunu görüyoruz.
+
+_Eşit Mesafeli ve Dairesel._ Bu aşamada
+dairesel paleti eşit mesafeli palete karşı tartabiliriz. Bu makaleye başlarken, okuyucunun tartışmamızı takip edebilmesi için aralarındaki farkı açıklamak zorundaydık ve ancak şu ana kadar sonuçlarımızı özetleyebildik.
+
+Okuyucu, teraziye güç sağlayan kaldırma gibi önemli bir eylem için dairesel paletin her açıdan tercih edildiğini fark etmiştir. Bu, onun lehine çok güçlü bir noktadır. Öte yandan, kilit açma direnci daha az ve eşit mesafedeki her iki palet
+de de mümkün olduğunca benzer olduğundan, denge toplam titreşiminin, dairesel paletin daha iyi koşullar altında dürtü almasına rağmen, diğerinden daha fazla olup olmayacağı bir sorudur; ancak kilidini açmak için daha fazla
+güç harcar. Çıkış sürtünmesi, konum ve izokronal ayarlamalarda önemli bir rol oynar; karşılaşılan sürtünme
+ne kadar fazlaysa, denge titreşimi o kadar yavaş olur. Sürtünme sabit olmalıdır. Kilidi açmada, eşit mesafeli olan bu koşulu yerine getirmeye daha çok yaklaşır, kaldırma sırasında ise dairesel olanda daha yakındır. Kilidi açmadaki sürtünme, zamanlama açısından, dürtünün sürtünmesini gölgede bırakır ve diş, palet düzgün bir şekilde yerleştirildiğinde dairesel çıkıştan eşit mesafede biraz daha geniş olabilir. Bu nedenle _en iyi_ saatler için eşit mesafeli çıkış iyi uyarlanmıştır, ancak bundan daha azı için dairesel çıkış tercihimiz olmalıdır.
+
+_Çatal ve Makaralı Hareket._ Kol çıkışın kaldırma hareketi silindirin hareketine karşılık gelirken, çatal ve makaralı hareket kronometre ve dubleks çıkışlardaki dürtü hareketine karşılık gelir.
+
+Deneyimlerimiz, şu anda ele alınan hareketin birçok işçi tarafından tam olarak anlaşılmadığına inanmamızı sağlıyor. Bu karmaşık bir eylemdir ve sıra dışı olduğunda birçok can sıkıcı durmaya neden olur, genellikle saatin cepten alındığında başlamasıyla karakterize edilir.
+
+Eylem çok önemlidir ve genellikle dürtü ve
+güvenlik eylemi olarak ikiye ayrılır, ancak biz bunu üçe bölmemiz gerektiğini düşünüyoruz, yani, kilidi açma eylemini ekleyerek. Öncelikle dürtü ve kilit açma eylemlerini ele alacağız çünkü birini diğeri olmadan akıllıca düşünemeyiz çünkü yakut pim ve çataldaki yuva her birinde kullanılır. Yakut pim veya daha kesin bir ifadeyle "dürtü yarıçapı", uzunluğu denge çubuğunun merkezinden yakut pimin yüzüne kadar ölçülen bir kaldıraç koludur ve ilk olarak çatalın etkili veya geometrik uzunluğu (_yani_ palet merkezinden boynuzun başlangıcına kadar) üzerinde bir güç veya iletim kolu olarak kullanılır ve şu anda paletlerin kilidini açmak için kullanılacak bir direnç koludur. Paletlerin kilidi açıldıktan sonra koşullar tersine döner ve şimdi kaldıraç çatalının paletler aracılığıyla, dürtü yarıçapı aracılığıyla dengeye güç ilettiğini görürüz. Eylemin ilk bölümünde daha uzun bir kolu devreye sokan kısa bir kolumuz var ki bu bir avantajdır. Şekil 14'e bakın, burada koşulları bilerek biraz abarttık. A'X şu anda tartışılan
+darbe yarıçapını ve AW çatalın hareket uzunluğunu temsil eder.
+Darbe yarıçapı ne kadar kısaysa veya başka bir deyişle, yakut pim denge çubuğuna ne kadar yakınsa ve çatal ne kadar uzunsa, paletlerin kilidinin açılması o kadar kolay olacaktır, ancak bu büyük bir
+darbe açısı gerektirir, çünkü bu durumda geçerli olan yasa, açıların yarıçaplara ters orantılı olmasıdır. Başka bir deyişle, yarıçap ne kadar kısaysa, açı o kadar büyük olur ve açı ne kadar küçükse, yarıçap o kadar büyük olur. Ancak, dengenin oldukça
+ayrık olması için mümkün olduğunca küçük bir
+darbe açısına sahip olmamız gerektiğini biliyoruz. Kısa bir
+darbe yarıçapının lehine ve aleyhine bir nokta var. Şimdi, dürtü eylemine dönelim. Burada,
+uzun kol AW'nin kısa bir kol olan A'X üzerinde etki ettiğini görüyoruz ki bu bir dezavantajdır. Burada,
+o zaman, uzun bir kol üzerinde etki eden kısa bir kol elde etmeye çalışmalıyız ki bu da
+kısa bir çatal ve büyük bir dürtü yarıçapına işaret eder. Diyelim ki AP,
+Şekil 14, çatalın uzunluğu ve A'P dürtü yarıçapıdır; burada,
+o zaman, dürtüyü tercih ederiz ve bu doğrudan terazinin serbest titreşim teorisine uygundur, çünkü daha önce belirtildiği gibi,
+yarıçap ne kadar uzunsa açı o kadar küçüktür. P'deki eylem ayrıca merkez çizgisine W'dekinden daha yakındır ki bu da başka bir avantajdır.
+
+[Resim: Şekil 14.]
+
+Büyük bir dürtü açısı ve dolayısıyla kısa bir yarıçap kullanarak, iki daire _ii_ ve _cc_'nin kesişimi _m_'nin çok _güvenli_ olduğunu, buna karşın, koşullar dürtü eylemi lehine tersine çevrildiğinde, _k_'daki kesişimin daha hassas olduğunu fark edeceğiz. Artık bir eylemi diğerinin pahasına tercih ettiğimizi takdir edecek kadar gördük.
+
+Palet ve dişte 8 1/2 derecelik bir kaldırma açısı, 1 1/2 derecelik bir kilitleme açısı ve 1/2 derecelik bir koşu ile çatalın 8 1/2 + 1 1/2 + 1/2 = 10 1/2 derecelik bir açısal hareketi olacak.
+
+[Resim: Şekil 15.]
+
+Yazarlar genellikle çatalın paletler üzerindeki düşüşten düşüşe hareketini dikkate alırlar, ancak biz bu konuda tamamen pratik olacağız.
+Çatalın toplam 10 1/2 derecelik bir hareketi ile (JAW, Şekil 15), merkez çizgisinin her iki tarafında bir buçuk veya 5 1/4 derecelik bir hareket gerçekleştirilecektir.
+İstediğimiz herhangi bir dürtü açısını seçmekte özgürüz; 3'e 1, sıradan, iyi yapılmış bir saat için iyi bir orandır. Bunu kullanarak,
+XA'Y açısı 31 1/2 dereceye eşit olacaktır. Şekil 16'daki yarıçap A'X de aynı orandadır, ancak AA'X açısı daha büyüktür çünkü çatal açısı WAA' Şekil 15'teki aynı açıdan daha büyüktür. Şekil 15'teki kesişim _k_'nin Şekil 16'dakinden çok daha küçük olduğunu fark edeceğiz. İkincisindeki eylem, merkez çizgisinden ilkine göre çok daha uzakta başlar ve yapılmaması gereken bir eylemi ana hatlarıyla belirtir.
+
+[Resim: Şekil 16.]
+
+Darbe açısına geri dönersek, bazıları 3,5, 4 veya hatta 5'e 1 oranını kullanırken, diğerleri en iyi saatler için yalnızca 2,75'e 1 oranını kullanır. Terazinin toplam titreşimi 1 1/2 tur olduğunda, bu 540 dereceye eşittir. 10 derecelik bir çatal açısı ve 10 x 2,75 = 27,5 dereceye eşit olacak olan 2,75'lik bir darbe açısı oranı. Terazinin _serbest_
+titreşimi veya buna "ek yay" denildiğinde, 540 dereceye eşittir. - 27,5 derece = 512,50 derece, 5'e 1 oranında ise 50 derecelik bir darbe açısı yapıldığında 490 dereceye eşit olur. Özetlemek gerekirse, saat ne kadar ince olursa oran o kadar düşük olur, eylem merkez çizgisine o kadar yakın olur ve sürtünme o kadar küçük olur. Kaldıraç nedeniyle, kilidi açmak o kadar zor olur ancak meydana geldiğinde darbe o kadar enerjik olur. P noktasındaki yakut piminin hızı; Şekil 14,
+W'den çok daha büyüktür, dolayısıyla çatal tarafından W'de olduğu kadar çabuk geçilmeyecektir. Çatalın ikinci noktadaki hızı
+P'den daha büyüktür; _ii_ ve _cc_'nin kesişimi de o kadar büyük değildir; bu nedenle oran ne kadar düşükse işçilik o kadar ince ve daha kesin olmalıdır.
+
+Kilit açma eyleminin itme tarafından geçersiz kılındığını fark edeceğiz. Şimdiye kadar ilkinin tercih edildiği tek nokta, daha önce Şekil 14'te P'de belirtildiği gibi, merkezler çizgisinden önceki azaltılmış eylemdir.
+
+Şimdi yakut piminin genişliğini ele alacağız ve soru hakkında iyi bir fikir edinmek için Şekil 17'yi inceleyeceğiz. A palet merkezi, A' denge merkezi, AA' çizgisi merkezler çizgisidir; WAA açısı
+çatalın toplam hareketinin yarısına eşittir, diğer yarısı ise tabii ki
+orta çizginin karşı tarafında gerçekleşir. WA, çatal kıyıya dayandığında çatalın _merkezi_
+dir. AA'X açısı
+darbe açısının yarısını temsil eder; diğer yarısı, çatalda olduğu gibi,
+orta çizginin diğer tarafına vurulur. Bu açıların
+kesişim noktasında palet merkezi A'dan _cc_ çizeceğiz,
+bu çatalın hareket uzunluğuna eşittir ve denge merkezinden _ii_ çizeceğiz, bu da _teorik_ dürtü yarıçapına eşittir; bazı
+yazarlar bunu _gerçek_ yarıçap olarak kullanır. Yakut pim ne kadar genişse, ikincisi o kadar büyük olacaktır, bunu şimdi açıklayacağız.
+
+Çatalın içine giren yakut pimin hareket için 1 ila 1 1/4 derece arasında belirli bir serbestliğe sahip olması gerekir. Saat, koruma noktası hilalin içine girdiği anda veya silindirdeki oyuktan geçtiği anda bir sarsıntı alırsa, çatal yakut pimine çarpar. Çatal ve yakut pim arasındaki açısal serbestliğin, yuvaya girdiği anda paletlerdeki toplam kilitleme açısından _daha az_ olması önemlidir. 1 1/2 derecelik bir kilitleme açısı ve 1/2 derecelik bir çalışma kullanırsak, paletlerde 2 derecelik bir toplam kilitlemeye sahip oluruz. Koruma noktası hilalin içine girdiği anda yakut pim için 1 1/4 derecelik bir serbestlik sağlayarak, çatal yakut piminin yüzeyine çarparsa, paletler hala 3/4 derece kilitlenecek ve çatal, çekme açısıyla bankalara doğru geri çekilecektir. Çatalın belirli bir etkili uzunluğu için bu sarsıntının ne kadar olduğunu göreceğiz, bu bir dairenin yayını tanımlar, bu nedenle etkili uzunluk yalnızca o dairenin yarıçapıdır ve çapı elde etmek için ikiyle çarpılmalıdır. Çatalın etkili uzunluğu = 4,5 mm., yakut pim etkili köşeyi geçtiğinde ne kadar sarsıntı olur?
+4,5 x 2 x 3,1416 / 360 derece = .0785 x 1,25 = .0992 mm. Çatalın yuvasındaki yakut pimin sarsıntısı mümkün olduğunca hafif olmalı, mükemmel hareket özgürlüğüyle tutarlı olmalıdır. Çatalın uzunluğuna ve yakut pimin şekline göre 1/4 derece ile 1/2 derece arasında değişir. Kare bir yakut pim diğer türlerden daha fazla sarsıntı gerektirir; çatala girer ve mücevher üzerinde çapraz bir yönde dürtü alır, bu konumda Z'de gösterilmiştir, Şekil 20. Bu yakut pim bir bıçak kenarına etki eder, ancak
+bununla birlikte, kilidi açma eylemi sırasındaki kavrama sürtünmesi
+önemlidir. Mantığımız bize bir yakut piminin geniş veya dar olmasının önemli olmadığını, çatalın hareket eden kenarından geçerken _aynı_ serbestliğe sahip olması gerektiğini,
+bu nedenle, A'X'in AW ile kesiştiği noktadaki darbe yarıçapına sahip olmak için, Şekil 17, _çok_ dar bir yakut pimine ihtiyacımız olacağını söyler.
+Kenarda 1 derece ve yuvada 1/2 derece serbestlikle, yalnızca 1 1/2 derece genişliğinde bir yakut pimimiz olabilir. Bunu önceki örneğe uygularsak, yalnızca .0785 x 1.5 = .1178 mm'lik gerçek bir genişliğe sahip olurdu,
+veya sıradan bir denge pivotunun boyutu. _n_'de, Şekil 17, böyle bir yakut pimi gösteriyoruz; teorik ve gerçek darbe yarıçapları birbiriyle çakışır. _ii_ ve _cc_ çemberlerinin kesişimi çok hafiftir, oysa kilit açma sırasındaki sürtünme, çatalın merkezler çizgisinden toplam hareketinin yarısının 1 derece içinde başlar; örneğin, eğer
+açısal hareket 11 derece ise, tartışılan yakut pim merkezler çizgisinden 4 1/2 derece önce harekete başlayacaktır, bu da önemli büyüklükte bir etkileşimli veya
+"yokuş yukarı" sürtünmedir.
+
+[Resim: Şekil 17.]
+
+[Resim: Şekil 18.]
+
+[Resim: Şekil 19.]
+
+[Resim: Şekil 20.]
+
+Çatalla kesişim, daha geniş yakut pimle olduğundan çok daha azdır, bu da dürtü eylemini çok hassas hale getirir. Öte yandan, herhangi bir fırsat olan
+en geniş yakut pim, kilit açma eylemine merkezler çizgisinde başlayandır, Şekil 17; bu, çatalın açısal hareketine eşit bir
+yuva genişliği gerektirir. Burada, kilit açma eyleminde dar bir pimin
+geniş bir yakut pimine göre avantajını görüyoruz.
+Şimdi soruyu dürtü eylemi açısından inceleyelim.
+
+Şekil 18, dürtünün iletildiği anı göstermektedir; çatal yakut pim tarafından ok yönünde hareket ettirilmiştir; çıkış mekanizması
+kilitlenmiştir ve yuvanın karşı tarafı yakut pime çarpmıştır.
+Darbenin iletildiği tam konum,
+kilitleme açısı, yakut pimin genişliği, yuvadaki sallanması,
+çatalın uzunluğu, ağırlığı ve yakut pimin hızı ile değişir; bu da terazinin titreşimleri ve dürtü yarıçapı tarafından belirlenir.
+
+Toplam 1 3/4 derecelik bir kilitleme ve yuvada 1 1/4'lük bir sallanma olan bir çıkış mekanizmasında, teorik olarak, dürtü bankalardan 2 derece iletilir. Dar yakut pimi n, dürtüyü _v_ çizgisi üzerinde alır,
+bu çizgi merkez çizgisine _u_ çizgisinden daha yakındır, büyük yakut pimin dürtüyü aldığı çizgidir. Burada dar yakut pimin geniş olana göre bir avantajı vardır; daha geniş bir yakut pimle terazinin uzun bir titreşim aldığında yeniden bankaya oturması da daha olasıdır. Ayrıca, dürtü gerçekleştiğinde yakut pimin yuvaya daha büyük bir açıyla durması nedeniyle, çatalın mücevhere _düşmesi_ yuvadaki sallanmasından (ki bu merkez çizgisi üzerinde dururken ölçülür) daha fazla olacaktır. Bu nedenle, bazı saatlerin yuvaları kuyruk şeklindedir, altta daha geniştir, diğerlerinin bu formda yakut pimleri vardır. Çok hassas bir uygulama gerektirirler; iki uç nokta arasında yakut pim genişliğini akıllıca seçerek onlarsız yapabileceğimizi düşünüyoruz. Çatalın açısal hareketinin yarısına eşit genişlikte bir yakut pim seçerdik. Geniş ve dar yakut pim arasında seçim yapmanın zorluğunu aşmayı amaçlayan ve kısmen de olsa bunu başaran ustaca bir çatal ve silindir düzenlemesi vardır, buna Vahşi
+pim silindir çıkış mekanizması denir. Bunu daha sonra açıklamayı düşünüyoruz.
+
+Yakut pimin yüzü teorik darbe yarıçapı _ii_, Şekil 19'a yerleştirilseydi, darbe gösterildiği gibi bir çarpma hareketiyle sonlanırdı; bu nedenle teorik ve gerçek darbe yarıçapı arasında ayrım yapmanın ve çalışmak için güvenilir bir veri oluşturmanın büyük önemi vardır. Bu hareketlerin hiçbir zaman basit bir dille düzgün ve kapsamlı bir şekilde ele alınmadığını düşünüyoruz; bunları herkesin biraz çalışarak anlayabileceği şekilde anlaşılır hale getirmeye çalıştık. Yakut pimlerinin üç iyi biçimi üçgen, oval ve düz yüzeylidir; sıradan işler için ikincisi diğerleri kadar iyidir, ancak ince işler için köşeleri hafifçe yuvarlatılmış üçgen pim tercih edilir.
+
+[Resim: Şekil 21.]
+
+[Resim: Şekil 23.]
+
+[Resim: Şekil 22.]
+
+İngiliz saatlerinde silindirik veya yuvarlak yakut pim bulunur.
+Böyle bir pim asla bir saate yerleştirilmemelidir.
+Kuvvetlerin paralelkenar yasası böyle bir pim kullanılarak tamamen göz ardı edilir;
+Kilit açma ve darbe hareketleri sırasındaki sürtünme, bu kadar mekanik olmayan bir düzenleme eklenmeden olduğu gibi çok şiddetlidir.
+Resim 21 yuvarlak bir yakut pimin hareketini gösterir; _ii_ yakut pimin yoludur; _cc_ çatalın hareket eden uzunluğunun yoludur. Darbenin iletildiği anda gösterilir. Çarpmanın yakut piminin merkezinin _altında_ gerçekleştiği görülecektir, oysa çatalın hareketi _yukarıya_ ve yakut piminin hareketi _aşağıya_ doğru olduğundan, merkez çizgisine ulaşılana kadar merkezde gerçekleşmesi gerekir. Aynı kural düz yüzlü pim için de geçerlidir ve doğru miktarın
+taşlanması önemlidir. 3/7'nin yaklaşık olarak taşlanması gereken miktar olduğunu
+buluyoruz. Şekil 22, çatalın kıyıya dayandığını
+göstermektedir. Yakut pim yuvanın kenarına dokunmaktadır ancak henüz
+etki etmeye başlamamıştır; _ri_, çatalın etki eden kenarında 1 1/4 derece serbestlik tanıdığımız gerçek dürtü çemberidir; bu nedenle yakut pimin yüzü bu çizginin üzerindedir. Yapılacak bir sonraki şey pimin merkezini bulmaktır. Yuvanın _n_ tarafından
+dik açı _o n t_'yi inşa ediyoruz; _n_'den pimin genişliğinin 1/2'sini iletiyoruz ve _x_ merkezini _n t_ çizgisine yerleştiriyoruz. Pimin merkezini bu çizginin biraz altına koyabiliriz, ancak hiçbir durumda üstüne koyamayız; ancak altına koyarsak pim daha ince olur ve bu nedenle daha kolay kırılır.
+
+[Resim: Şekil 14.]
+
+_Güvenlik Eylemi._ Bu eylem, dürtü ve kilit açma eylemlerinden ayrı olmasına rağmen, yine de onlarla çok yakından bağlantılıdır,
+tek makaralı çıkışta çift makaralı çıkıştan çok daha fazla. Yakut pimi _X_'e yerleştirirsek, Şekil 14, _P_'ye yerleştirdiğimizden çok daha küçük bir makaraya sahip olabiliriz. Küçük makaralı
+güvenlik eylemi daha güvenlidir, çünkü _m_'deki kesişim _k_'dakinden daha büyüktür. Küçük makaralı çıkışta "çarpışmaya" daha az eğilimlidir ve koruma noktası küçük makaralı çıkışa çarptığında sürtünme daha azdır. Diyelim ki iki
+silindir alıyoruz, biri 2,5 mm çapında, diğeri ise bunun iki katı, 5 mm. Her iki durumda da koruma yarıçapı ve basınç aynı olduğunda, koruma noktası daha büyük silindire değdiğinde, daha küçük olana göre sadece iki değil, dört kat daha fazla etki eder. Darbe açısı ne kadar küçükse silindirin de o kadar büyük olduğunu fark edeceğiz,
+çünkü yakut pim zorunlu olarak merkezden daha uzağa yerleştirilir. Bu nedenle yakut pimin konumu, mümkün olduğunca küçük olması gereken silindirin boyutunu belirlemelidir. Silindirin çevresi ile mücevherin yüzü arasında, yeterli derinlikte bir hilal veya geçiş boşluğu ve mücevher için etkili bir ayar sağlayacak kadar metal kalmalıdır. Bu nedenle, yakut pimi değiştirirken ve silindire güvenli ve mekanik olarak yerleştirirken doğru dürtü yarıçapını ve dolayısıyla açıyı güvence altına almanın yanı sıra, pimin ve silindirdeki deliğin aynı formda ve iyi bir uyum içinde olması gerekir. Şekil 23, silindirlerin boyutlarındaki farkı göstermektedir. Daha küçük olanında, empoze edilen koşullar karşılanırken, daha büyük olanında karşılanmaz. Tek silindirde, emniyet eylemi, dürtü ve palet açılarının insafına kalmıştır. Darbeyi desteklemek için büyük bir silindire ve emniyet eylemi için küçük bir silindire ihtiyacımız olduğunu fark ettik, bu nedenle ince prensiplere göre yapılmış çıkışlar, her eylem için bir tane olmak üzere iki silindirle sağlanır. Bizim görüşümüze göre, çatal ve 10 derecelik paletlerdeki dürtü açıları arasındaki oranın, kaçışın boyutuna bağlı olarak 3 veya 3 1/2 ila 1 olması, tek silindirde yapılması gereken en düşük orandır. Bunları tek silindirde 2 ila 1 oranında gördük - aptalca uygulanan bilimsel bir ilke - tamamen tatmin edici olmayan bir eylemle sonuçlandı.
+
+Koruma noktası silindire bastırıldığında, kaçış dişi hala paletin kilitleme yüzeyinde durmalıdır; toplam kilit 2 derece ise, banka ile silindir arasındaki koruma noktasına 1 1/4 derecelik bir serbestlik verilerek kaçış hala 3/4 derece kilitlenecektir.
+Bu sarsıntının gerçekte ne kadar olacağı, koruma yarıçapına bağlıdır. Bunun 4 mm olduğunu varsayalım, o zaman özgürlük şuna eşit olur
+4 x 2 x 3.1416 / 360 x 1.25 = .0873 mm.
+
+[Resim: Şekil 24.]
+
+[Resim: Şekil 25.]
+
+Silindirdeki _Hilal_ büyük ve yeterince derin olmalıdır, böylece koruma noktasının köşelerine veya içine dokunması imkansız olacaktır; aynı zamanda çok büyük olmamalıdır, çünkü çatalda gerekenden daha uzun bir boynuz gerektirecektir.
+
+Şekil 24, çatalın _n_ yuvasını kıyıda dururken gösterir. Yakut
+pim _o_ ona dokunur, ancak henüz üzerinde hareket etmemiştir; _s s_ tek bir
+silindiri gösterirken, S2 çift
+silindirli bir çıkış için emniyet
+silindirini gösterir. Hilalin boyutlarını tek silindirde bulmak için şu şekilde ilerlemeliyiz: WA, kıyıya dayandığında çatalın merkezindedir ve bu nedenle çatal açısının kenarlarından biridir ve palet merkezinden çizilir; V A W, koruma noktası ile silindir arasındaki serbestliğe eşit olan 1 1/4 derecelik bir açıdır; _g g_, tek silindir için koruma pimi _u_ yolunu temsil eder ve VA'nın silindirle kesiştiği noktada çizilir A'
+A2, denge merkezinden yakut pimin merkezinden geçen bir çizgidir ve bu nedenle hilalin merkezinden de geçer. Bu çizgiye, silindirin çevresini kestiği yere bir pergel yerleştirerek ve VA'nın silindirle kesiştiği noktayı belirleyerek, hilalin yarısını elde ederiz, kalan yarısı ise A' A2 çizgisinin karşı tarafına aktarılır. Çatal hareket etmeye başlamadan önce koruma noktasının hilalin içine 1 1/4 derece girdiğini fark edeceğiz.
+
+Çift makaralı çıkışta hilalin açılma açısı, tek makaralı çıkıştan daha büyüktür, çünkü denge merkezine daha yakın yerleştirilmiştir ve koruma noktası veya dart palet merkezinden daha uzaktadır, bu da daha büyük bir kesişmeye neden olur; ayrıca koruma noktasının hızı artarken, emniyet makarasının hızı azalmıştır. Şekil 24, _ff_'de, banka ve makara arasında 1 1/4 derece serbestliğe sahip olan dart _h_'nin yolunu gösterir. Denge merkezinden, dartın merkezine veya noktasına değen A' _d_ çizeriz; bu noktadan 5 derecelik bir açıyla _b_ A' _d_ oluştururuz. Bu, dartın hilalin içine girerken yeterli serbestliği sağlamak içindir. A' A2'nin emniyet silindiri S2 ile kesiştiği noktaya bir pusula yerleştiriyoruz ve A'_b_'nin onu kestiği noktayı tespit ederek hilal için açıklığın yarısını bulduk, kalan yarısı ise A' A2 çizgisinin karşı tarafında inşa edildi.
+
+Çataldaki _Boynuz_ emniyet eylemine aittir: hilal için daha büyük bir
+açılma açısı nedeniyle çift silindirde tek silindire göre daha fazla boynuz gereklidir.
+
+Boynuz, hilal koruma noktasını geçtiğinde, boynuzun ucu en azından yakut piminin
+ortasını gösterecek kadar uzun olmalıdır.
+
+Şekil 25'teki noktalı daire, _s s_, tek bir silindiri temsil eder. Hilalin köşesinin _u_ koruma pimini önemli bir açıyla geçtiği fark edilecektir ve bu böyle olsa da, bir kaza durumunda
+çatalın _etki eden kenarı_ yakut pimle temas edecektir;
+bu, iyi yapılmış tek silindirli çıkışın gerçekten
+ama çok az boynuz gerektirdiğini, yalnızca o anda koruma noktasının silindire çarpması durumunda yakut pimin güvenli bir şekilde girmesini sağlayacak kadar olduğunu kanıtlar. Şimdi soruyu çift silindir açısından inceleyeceğiz;
+Şekil 25'teki S2, güvenlik silindiridir; hilalin köşesi _h_ dartını güvenli bir şekilde
+geçmiştir; yakut pimin _o_ ve hilalin merkezleri
+A' A2 çizgisi üzerinde olduğundan, pergeli paletin merkezine ve yakut pimin yüzünün merkezine yerleştiririz ve boynuzun tarif ettiği yol olacak _k k_ çizeriz. Boynuzun ucu bu nedenle yakut pimden 1 1/2 derece ila 1 3/4 derece uzağa yerleştirilmiştir; boynuzun ucundaki bu özgürlük bu nedenle koruma noktasına izin verdiğimizden 1/4 derece ila 1/2 derece daha fazladır; bu, seçeceğimiz çıkış mekanizmasının boyutuna ve kilitleme açılarına bağlıdır. Her durumda paletlerdeki kilitten daha az olmalıdır, böylece boynuz yakut pime çarptığında çatal bankaya doğru geri çekilecektir.
+
+Yakut pimin genişliğinden bahsederken, Şekil 26 ve 27'de gösterdiğimiz Savage pim makaralı çıkış mekanizmasından bahsetmiştik. Bu
+ustaca düzenleme, hem geniş hem de dar pimlerin avantajlarını birleştirme ve aynı zamanda bunların dezavantajlarından hiçbirini ortadan kaldırma amacıyla tasarlanmıştır.
+
+Şekil 26'da, çıkış mekanizmasının kilidini açmada merkezler çizgisi üzerinde - mümkün olan en iyi nokta - eylemlerine başlayan kilit açma pimlerini _u_ gösteriyoruz.
+İncelediğimiz tüm pimler altından yapılmıştı, ancak bu çıkış mekanizmasında geniş yakut pimler ve yakut silindirlerin
+kullanıldığı
+kaydedildi, ki bu daha
+tercih edilirdi.
+
+Silindirdeki iki pimin işlevleri basitçe çıkış mekanizmasını açmaktır; dürtü, sıradan çatal ve silindir eyleminde olduğu gibi bunlara iletilmez.
+Bu eylemde, koruma pimi _i_ aynı zamanda
+dürtü pimi olarak işlev görür. Bu silindirdeki geçiş boşluğunun, sıradan çataldakiyle aynı dikdörtgen bir yuva olduğunu fark edeceğiz. Çıkış mekanizmasının kilidi açılırken, koruma pimi _i_ boşluğa girer ve
+çıkış dişi paletin kaldırma düzlemiyle temas ettiğinde, pim _i_, Şekil 27, dürtüyü silindire iletir.
+
+[Resim: Şekil 26.]
+
+[Resim: Şekil 28.]
+
+İmpuls, herhangi bir yakut pimle yapılabileceğinden daha yakın bir şekilde merkezler çizgisine iletilir. Eğer pim _i_ daha geniş olsaydı, mpuls merkezler çizgisine daha da yakın bir şekilde iletilirdi, ancak silindirle kesişimi daha az olurdu. Oldukça hassastır, bu nedenle pratik bir bakış açısından ince ama sağlamlıkla tutarlı olmalıdır. Pim yine de büyükse, yanlardan düzleştirilmelidir, aksi takdirde sürtünme yuvarlak yakut piminkine benzer olur. Ayrıca (pim _i_'nin çok kolay bükülebilmesi nedeniyle) mpuls parçasının dar ama çatala vidalanabilecek uzunlukta olması tercih edilir, tıpkı çift silindirdeki ok gibi. mpuls yarıçapı aynı zamanda silindirin yarıçapıdır, çünkü mpuls silindirin kendisine iletilir; bu nedenle, ikincisi bu eylemde aynı açılara sahip olan sıradan bir eylemden daha küçüktür; ayrıca daha kısa bir kol, aynı açıların sıradan eyleminden daha uzun bir kolla kilit açmada temas halindedir; ancak tüm bunlara rağmen pimler _u u_ silindirin kenarına yakın bir şekilde yerleştirilmelidir, çünkü kilit açma eylemi sırasında terazinin çıkış mekanizmasıyla açısal bağlantısı artacaktır. Bu çıkış mekanizması çok hassas olduğundan 12 derecelik bir palet açısı ve darbe ile palet açıları arasında en az 3'e 1 oranında bir oran gerektirir, bu da 36 derecelik bir darbe açısı anlamına gelir. ; bu, birinci sınıf işçilikle birlikte, bu eylemin sıklıkla karşılaşılmamasının iki nedenidir.
+
+Londra, İngiltere'den George Savage, bu eylemi icat etti. Bu yüzyılın başlarında, iki pimli çeşidi icat etmenin yanı sıra, iyi işçilik ve güzel orantı ile
+kol çıkışını mükemmelleştirmek için çok şey yapan bir saatçiydi. Hayatının ilk bölümünü Clerkenwell'de geçirdi,
+ama yaşlı günlerinde Kanada'ya göç etti ve öldüğü Montreal'de gelişen bir perakende işletmesi kurdu. George Savage'ın torunlarından bazıları günümüzde hala Kanada'da ticaretle uğraşmaktadır.
+
+Kol çıkışını doğru şekilde çizmek çok önemli bir konudur. Pratik olarak üretilebilecek kadar çizilmiş bir tanesini örnekliyoruz. Özellikle eşit aralıklı paletler ve sopa dişleri olan bir kol çıkışını, bir saatte doğru şekilde çalışacak şekilde, henüz fark etmedik.
+
+Çalışmalarımızda agresif olduk ve bazen kendi başlarına doğru olmayan teorilerin öne sürüldüğünü ve uzatıldığını gördük; bunun bununla bir ilgisi olabilir, işçilerin sık sık "Teori işe yaramaz, çünkü ona göre çalışırsanız makineniz çalışmaz." dediğini duyarız. Biz de "Hayır efendim, eğer teoriniz kendi başına doğru değilse, o zaman işiniz kesinlikle doğru olmayacaktır; ancak teoriniz doğruysa, işiniz doğru olmalıdır. Neden? Başka türlü olamaz." deriz. Buna başka bir isim vereceğiz; diyelim ki, işinize mantık, akıl, düşünce, deneyim ve çalışma uygulayın ve ne yaptınız? Sadece teoriyi uyguladınız. Bir teorem, kanıtlanması gereken bir önermedir, bunu kanıtlayamadığımızdan, deneyimimizin dikte ettiği şekilde onu basitçe değiştirmeliyiz, bu, tanınmış otoritelerin çıkarımlarını takip ettikten sonra çıkışla yaptığımız şeydir ve sonuç olarak artık her açıdan tarafsız bir analize tabi tutulmuş ve teorik ve pratik olarak doğru olan bir çıkış gösterebiliyoruz. Sadece şu anda değerlendirilen çıkışın taslağı için talimatlar vermekle kalmayacağız, aynı zamanda dairesel palet ve tek silindirli olarak farklı konumlarda nasıl taslak oluşturulacağına dair açıklamalar da yapacağız. Bunu yaparak birçok kişiye bir hizmet yapacağımıza ikna olduk, ayrıca "basmakalıp" olarak adlandırabileceğimiz, yani ezbere öğrenilebilecek ancak herhangi bir değişiklik ve şaşkınlığın sonucu olan bir süreçten kaçınmak istiyoruz. Bir örnekte görüleceği gibi, çıkışları farklı konumlarda tasarlamak gerçekten zor bir konu değildir. Taslak hazırlamadan önce tam olarak ne üretmek istediğimizi bilmeliyiz. Taslak hazırlamada, çıkışları mümkün olduğunca büyük yapmak iyidir, diyelim ki saattekinden otuz ila kırk kat daha büyük, bu durumda boyut önemsizdir, ancak açıların oranları için spesifikasyonlara sahip olmalıyız. Taslağımız, kaldıraç çıkışlarındaki en zor konu olacaktır; tıpkı bir saatte çalışıyormuş gibi temsil edilecektir; her bakımdan iyi ve güvenilir bir eylemi temsil edecektir, iyi bir saate özel bir zorluk olmadan uygulanabilir ve her ayrıntıda "güncel" olacak ve analizimizde ulaşılan en iyi noktaların ve sonuçların çoğunu içerecektir. _Kaldıraç Çıkışı için Spesifikasyonlar_: Paletler eşit uzaklıkta olacaktır; tekerlek dişleri "sopa" şeklinde olacaktır; iki
+silindir olacaktır; tekerlek, palet ve denge merkezleri düz bir çizgide olacaktır. Kilit 1 1/2 derece, çalışma 1/4 derece olacak ve toplam kilit 
+1 3/4 derece olacak; paletlerin bir düşüşten diğerine hareketi 10 derece olacak,
+çatal ise bir banktan diğerine 10 1/4 derece hareket edecek;
+tekerlek dişlerindeki kaldırma
+3 derece olacak, geri kalan ise paletlerdeki kaldırma
+şu şekilde olacak: 10 1/4 - (1 3/4 + 3) = 5 1/2 derece. paletlerin kaldırılması için.
+
+Tekerleğin 15 dişi olacak, paletler 3 diş veya 2 1/2 boşluk kaplayacak, böylece kilitten kilide açı = 360 / 15 x 2 1/2 = 60 derece olacak. ,
+dişten dişe olan aralık 360 / 15 = 24 derece; 2'ye bölünür
+paletler = 24 / 2 = 12 derece diş, palet ve düşme genişliği için; düşme
+1 1/2 derece olacak, diş paletin genişliğinin 3/4'ü olacak,
+4 1/2 derece genişliğinde bir diş ve 6 derecelik bir palet olacak.
+
+Çekme her palet için 12 derece olacak, dişlerin kilitleme yüzeyleri ise 24 derece eğimli olacak. Çatalın hareket uzunluğu
+kafa tekerleğinin ve paletlerin merkezlerinin mesafesine eşit olacak; darbe açısı
+28 derece olacak; dart ve emniyetten uzaklık, silindir
+1 1/4 derece olacak ve dart ve hilal köşesi için 5 derece olacak; yakut
+pin ve çatalın hareket eden kenarı için özgürlük 1 1/4 derece olmalıdır; yuvanın genişliği toplam hareketin 1/2'si veya 10 1/4 / 2 = 5 1/8 derece olmalıdır; yuvadaki yakut piminin sallanması = 1/4 derece, yakut piminin genişliği için 5 1/8 - 1/4 = 4 7/8 derece kalır.
+
+Emniyet silindirinin yarıçapı teorik darbe yarıçapının 4/7'si olmalıdır.
+Boynuzun uzunluğu, hilalin kenarı darttan geçtiğinde ucun en azından yakut piminin merkezine işaret edecek şekilde olmalıdır;
+boynuz ucu ile yakut pim arasındaki boşluk 1 1/2 derece olmalıdır.
+
+Dişlerin, paletlerin ve düşmenin genişliği için açıların tekerlek merkezinden, kaldırma ve kilitleme açılarının palet merkezinden, çekmenin paletlerin kilitleme köşelerinden ve dişlerin eğiminin kilitleme kenarından ölçüldüğünü bilmek iyidir.
+
+Çatal ve silindir hareketinde, hareket açısı, yuvanın genişliği,
+yakut pim ve sallanması, dart ve silindir arasındaki özgürlük, çatalın hareket eden kenarı ve boynuz ucu olan yakut pimin hepsi palet merkezinden ölçülürken, dürtü açısı ve hilal
+denge merkezinden ölçülür. Akıllı bir çizim tahtası 17 x 24 inçtir, ayrıca bir dizi iyi çizim aletine ihtiyacımız var, aletler ne kadar ince olursa o kadar iyi; pergellere, kalemlere ve
+göstergeye özellikle dikkat edin; buna düz bir cetvel ve gönye ekleyin.
+
+Hem Hint mürekkebi hem de renkli işler için en iyi çok yönlü çizim kağıdı
+pürüzlü bir yüzeye sahiptir; tahtaya raptiyelerle sıkıca ve eşit şekilde sabitlenmelidir; çizgiler hafif olmalı ve sert bir
+kalemle yapılmalıdır. Hızla kuruyan Higgins'in Hindistan mürekkebini kullanın.
+
+[İllüstrasyon]
+
+A' A B merkez çizgisini çizerek başlayacağız; kaçış merkezi için B noktasını kullanacağız; pergeli üzerine yerleştirip kaçış tekerleğinin ilkel veya
+geometrik çemberi olan G H'ye vuracağız; açıölçerin merkezini B'ye ayarlayıp merkez çizgisinin her iki tarafına 30 derecelik bir açı çizeceğiz;
+bu bize A B E ve A B F açılarını birlikte verecek ve paletlerin kilitten kilide kadar olan kısmını temsil eden 60 derecelik F B E açısını oluşturacaktır.
+60 derecelik açının kirişi dairenin yarıçapına eşit olduğundan, bu bize pergeli F B ve E B'nin ilkel çember G H ile kesiştiği noktalara yerleştirerek bu açıyı doğrulamanın kolay bir yolunu sağlar;
+bu mesafe çemberin yarıçapına eşit olmalıdır. Bu noktalarda
+E B ve F B'ye dik açılar inşa edeceğiz, böylece ilkel çember G H'ye teğetler
+C A ve D A oluşturacağız. Bu teğetler, palet merkezi olacak olan A'daki merkezler çizgisinde birleşir. Pergeli A'ya yerleştirin
+ve E B ve F B'nin ilkel çember G H ile kesiştiği noktalara kilitleme çemberi M N'yi çizin. Paletlerin kilitleme kenarları, paletlerin tekerleğe göre hangi ilişkide olduğuna bakılmaksızın her zaman bu çemberin üzerinde duracaktır. Açıölçerin merkezini B'ye yerleştirin ve paletlerin genişlik açısını 6 derece çizin; I B E, kavrama paleti için ve J B F, ayırma paleti için. Eşit uzaklıktaki palette I B, merkeze doğru çizilirken
+J B, merkezden daha uzağa çizilir. Eğer dairesel bir palet çiziyor olsaydık, paletlerin genişliğinin yarısı E B ve F B'nin her iki tarafına yerleştirilirdi. I B ve J B'nin ilkel daire G H ile kesiştiği noktalarda, kavrama paletinin boşaltma kenarı için O yolunu ve ayırma paletinin boşaltma kenarı için P yolunu çizeriz. Toplam kilit 1 3/4 derece olduğundan, V' A'yı C A'dan bu açıyla inşa ediyoruz; V' A'nın kilitleme
+çemberi M N ile kesiştiği nokta, kavrama
+paletinin kilitleme köşesinin konumudur. Kilitlendiğinde 12 derecelik bir çeki açısına sahip palet, açıölçerin merkezini bu köşeye yerleştiriyoruz ve Q M E açısını çiziyoruz. Q M, kavrama paletinin kilitleme yüzü olacaktır. Paletin yüzü E B çizgisi üzerinde olsaydı, çekme olmazdı ve E B'nin karşı tarafına yerleştirilirse, diş paleti iterek itici kaçış olarak bilinen şeyi oluştururdu.
+
+[Resim: Şekil 28.]
+
+Kilitlendiğinde kavrama paletinin kilitleme yüzünün nasıl çizileceğini gösterdikten sonra, şimdi hem onu ​​hem de serbest bırakma paletini kilitsizken doğru konumlarda nasıl çizeceğimizi ele alacağız; Bunu yapmak için dikkatimizi daha fazla duyuruya kadar Şekil 28'e yöneltiyoruz. Kilitleme yüzeyleri Q M, kavrama paletleri ve S N, kilitlendiğinde noktalı çizgilerle gösterilmiştir. Şimdi kilitleme yüzeylerinin, kilit açıldığında kavramada E B'ye ve kilit açıldığında ayırma paletlerinde F B'ye olan ilişkisini ele almalıyız. Bu biraz önemli bir sorudur; kilitlendiğinde 12 dereceyi 30 dereceden göstermek yeterince kolaydır; tam olarak o konumu işgal edeceklerinden ve yine de kilitsiz olarak göstereceklerinden emin olmalıyız; bunu yapmak için çaba göstereceğiz. Zamanı gelince, gösterilen kaçışta kavrama paletinde belirgin bir kaldırma kaybı olmadığını göstereceğiz; bu nedenle T A V açısı toplam kaldırmayı gösterir; açma tarafındaki karşılık gelen açıları göstermedik çünkü açılar biraz farklı, ancak toplam kaldırma hala aynı. G H kaçış tekerleğinin ilkel çemberini, X Z ise gerçek çemberi temsil ederken,
+M N paletlerin kilitlenen köşelerinin eşit uzaklıktaki kaçışta izlediği dairesel yolu temsil eder. Uygun bir konumda palet merkezi A'dan itibaren C C' D çemberini inşa edeceğiz. V A ve T A'nın bu çemberi kestiği _e_ ve _c_ noktalarına dikkat edin; _e_ ve _c_ arasındaki boşluk paletlerin A merkezinden bu belirli mesafedeki hareketinin kapsamını temsil eder; bu durumda, bunu kavrayan palete uygulayalım. Noktalı çizgi Q M'nin (palet yüzünün kilitlendiğinde üzerinde yattığı uzatılmış bir çizgidir) kesişim noktası _o_'da, C C' D çemberiyle birlikte, bölücülerimizi yerleştireceğiz ve _e c_'yi _o n_'ye aktaracağız. Ayırıcılarımızı _o_ M' üzerine ayarlayıp _n_ M'ye aktararak, kilidi açıldığında kilitleme yüzü olan Q' M'nin yerini elde edeceğiz. Şimdi dikkatimizi
+serbest bırakan palete çevirelim. Noktalı çizgi S N, serbest bırakan paletin kilitleme yüzünün F B'den 12 derecelik bir açıyla
+kilitlendiğinde yerini temsil eder. S N'nin C C' D çemberiyle kesiştiği noktada _j_ noktasını elde ederiz. İki paletin hareketi eşit olduğundan, _e c_ mesafesini _j_'den ayırıcılarla
+aktarırız ve _l_ noktasını elde ederiz.
+Ayırıcıları _j_ N üzerine ayarlayıp _l_ N'ye aktararak, serbest bırakan paletin kilitleme yüzünün kilidi açıldığında
+yerleştirileceği S' N' çizgisini çizeriz. Bu araçlar sayesinde paletleri
+istenilen herhangi bir
+pozisyonda doğru şekilde
+gösterebileceğimiz herkes için gayet açık olacaktır.
+
+Kilitsiz paletin Q' M' yüzünün, kilitliyken olduğundan daha büyük bir açıyla E B'ye baktığını, bunun tersinin ise S' N' F açısının S N F'den çok daha az olduğu serbest bırakılan palet için geçerli olduğunu fark edeceğiz. Bu,
+sürtünen palet ne kadar _derin_ kilitlenirse, çekişin o kadar hafif olacağını, buna karşın
+serbest bırakılan palet için bunun tersinin geçerli olduğunu; ayrıca, çekişin
+sürtünen paletin kilidinin açılması sırasında arttığını ve serbest bırakılan paletin kilidinin açılması sırasında azaldığını gösterir. Bu noktalar, çekişin
+çatalın kıyıya dayandığı_ şekilde ölçülmesi gerektiğini gösterir; paletin kilitlenen köşesi ilkel dairenin üzerinde durduğunda değil, sıklıkla yapıldığı gibi. Tekerleğin geri tepmesi (çekimi belirler), kilitleme çemberi M N ile kavrama için Q M yüzü ve ayırma paleti için S N arasındaki farkla gösterilir ve _etki eden_ yüzey boyunca her palette aynıdır ve bu da her paletteki çekme açısının aynı olması gerektiğini gösterir.
+
+Birkaç yıl önce, burada gösterdiğimiz kaçış modelini oluşturduk. Tüm parçalar ayarlanabilir; paletler herhangi bir yöne hareket ettirilebilir, çekme açıları isteğe göre değiştirilebilir. Bu model aracılığıyla, bahsettiğimiz noktaları pratik olarak gösterebiliriz. Böyle bir model, bu makaleleri inceledikten sonra işçiler tarafından yapılabilir.
+
+[Resim]
+
+Hem eşit mesafeli hem de dairesel paletlerde, ayırma paletinin kilitleme yüzü S N, kavrama paletinin kilitleme yüzü Q M'sinden daha fazla kilitleme çemberi M N'den sapar, bu da
+diyagramda
+görülecektir. Bunun nedeni, taslak açısının E B'den, kilitleme çemberinden o kadar sapan bir şekilde çizilmesidir ki, bir paletin yüzü üzerine yerleştirilip bunu gösterecek kadar _kilitlenirse_, tekerlek aslında paleti _itecektir_, oysa serbest bırakılan palet F B'ye yerleştirildiğinde, çok derin kilitlenirse aslında çekme üretecektir; bu, 30 derecelik çizgilerin kilitleme çemberinden doğal sapmasından kaynaklanmaktadır. Bu fark, eşit uzaklıktaki palete göre daireselde daha belirgindir, çünkü ilkinde iki kilitleme çemberimiz vardır, daha büyük olanı kavrama paleti içindir ve büyük bir dairenin yayı, daha küçük bir daireninki kadar düz bir çizgiden sapmadığından, daha önce bahsedilen doğal farkın bununla yalnızca daha da arttığı kolayca anlaşılacaktır. Bu nedenle, 12 derecelik _gerçek_ bir çekiş üretmek için, kavrama paleti dairesel kaçışta E B'den biraz daha büyük bir açıyla ayarlanabilir; miktar paletlerin genişliğine bağlıdır; gereklilikler, tekerleğin geri tepmesinin her palet üzerinde aynı olmasıdır. Ancak, en önemli noktalardan birinin, çatalın bankaya dayandığı zaman çekişi ölçmek olduğunu tekrarlamalıyız, böylece kavramadaki çekişi _artırır_ ve kilit açma eylemi sırasındaki
+çıkarma paletinin çekişini _azaltır_, böylece bir hatayı diğeriyle _doğal olarak_
+dengeler.
+
+Burada gösterilen kaçışın tasvirine tekrar devam edeceğiz. Kilitleme yüzeyi Q M'yi çizdikten sonra, açıölçeri kaçış
+merkezi B'ye yerleştirerek 4 1/2 derecelik diş genişliği açısını çiziyoruz. E B K açısını paletin kilitleme yüzeyinden ölçüyoruz; E B çizgisi, dişle temas ettiği anda paletin kilitleme yüzeyine değmiyor, bu nedenle temas noktasından B merkezine bir çizgi çizilmelidir. Bunu çizimimizde yaptık ancak bunu göstermiyoruz, çünkü bu tür küçültülmüş bir gravürde E B'ye çok yakın olur ve yalnızca karışıklığa neden olur. Şimdi diş için 3 derecelik kaldırma açısını çizeceğiz. Teğet C A'dan, gerekli açıda T A çiziyoruz; T A'nın 30 derecelik E B çizgisiyle kesiştiği noktada kaçış tekerleğinin gerçek çevresine sahibiz. Sadece dişin kilitleme kenarını gerçek veya dış dairenin onu kestiği K B çizgisiyle birleştirmek gerekecektir. Aynı şekilde dairesel çıkışta da çizilmesi gerekir; diş K B ile T A'nın kesiştiği noktaya kadar çekilirse, kaldırma kuvveti çok büyük olur, çünkü o nokta temas noktalarından daha
+merkez A'dan daha uzaktadır.
+
+Tekerleğin gerçek veya dış çemberi hem kilitleme çemberi M N'yi hem de boşaltma kenarının yolu O'yu T A'nın bunları kestiği
+noktalarda keserse, o zaman kavrama paletinde _hiçbir_ kaldırma kuvveti kaybı_ olmaz. Diyagramda tam olarak böyledir; ancak herhangi bir sapma varsa, kayıp açısı tekerleğin _gerçek_ çapında ölçülmeli ve genellikle yapıldığı gibi ilkelde değil, tekerleğin gerçek çapı veya başka bir deyişle dişin topuğu son temas noktasını oluşturur. Daha geniş bir diş ve daha büyük bir kaldırma açısıyla, temas eden palet üzerinde bir kaldırma _kazancı_ bile olacaktır; böyle bir durumda palet, kazanç miktarına göre aslında daha küçük bir kaldırma açısına ihtiyaç duyacaktır. Şekil 8'de etkilerini açıklarken kaybı ölçmek için tam talimatlar verdik. Kayıp ne kadar olursa olsun, paletin kaldırma düzlemine eklenir. Tartışılan diyagramda kayıp yoktur, bu nedenle palet üzerindeki kaldırma açısı 5 1/2 derece olmalıdır. V' A'dan V A'yı gerekli açıda çiziyoruz; V A'nın yol O ile kesiştiği nokta boşaltma kenarı O olacaktır. Şimdi sadece kilitleme köşesi M'yi ona bağlamak gerekecektir ve paletin kaldırma düzlemine sahip olacağız; paletin boşaltma tarafı daha sonra kilitleme yüzeyine paralel olarak çizilir ve uygun bir uzunluk yapılır. Şimdi açıölçerin merkezini kilitleme kenarı M'ye yerleştirerek dişin kilitleme kenarlarını çizeceğiz ve 24 derecelik B M M' açısını oluşturacağız ve M M' çizgisinin teğet olacağı
+diş skalası merkezi B'den bir daire çizeceğiz. Bu daireyi, diğer dişlerin yüzlerini çizerken, onları 24 derece arayla yerleştirdikten sonra, kilitleme kenarlarına ve dairenin çevresine bir cetvel koyarak kullanacağız.
+
+Şimdi W' A'yı tekerleğin dış dairesine teğet olarak oluşturacağız,
+böylece dişler için 3 derecelik kaldırma açısı D A W' oluşturacağız; bu, kavrama tarafındaki T A C açısına karşılık gelir. W' A, F B'nin onunla kesiştiği noktada tekerleğin
+dış çemberine dokunur.
+J B'nin onunla kesiştiği noktada W' A'nın çemberden önemli ölçüde saptığını fark edeceğiz. Bu noktanın kesiştiği noktada U A'yı çizeriz; U A W' açısı kaldırma kaybıdır. Bu açı paletlerin kaldırma açısına eklenmelidir; bu eylemde kavrama paletinde
+bir kayıp olmadığını, ancak ayırmada kaybın gösterilen eylemde yaklaşık
+7/8 dereceye ulaştığını görüyoruz. Paletler için 1/4 derecelik bir koşu mesafesine izin verdiğimizden, boşaltma kenarı P U A'dan bu açıyla kaldırılır; bunu göstermiyoruz, çünkü çizgiler birbirine çok yakın olduğundan karışıklığa
+neden olur. Paletteki kaldırma açısı P noktasından ölçülür ve 5 1/2 derece + kayıp açısına
+uyar; W A U açısı, koşu için 1/4 derecenin yanı sıra yukarıdaki açıları da kapsar.
+Her paletteki kilitler eşitse, kaldırmaların da eşit olduğunu kanıtlar. Bu bize çizimin doğruluğunu kanıtlamak için pratik bir yöntem verir; bunu yapmak için, ayırıcıları kilitleme çemberi M N'ye, T A ve V A'nın onunla kesiştiği noktaya yerleştirin, çünkü bu hareketin kapsamıdır; bu ölçümü N'ye aktarın, eğer _gerçek_ kaldırma her palette aynıysa, ayırıcılar kilitleme köşesi N'nin _kilitlendiğinde_ işgal edeceği noktayı belirleyecektir; bu, mevcut durumda, teğet D A'nın 1 3/4 derece altında olacaktır. Bu basit yöntemle, kaldırma kaybının tekerleğin dış çemberinden ölçülmesi gerektiği önermemizin doğruluğu kanıtlanabilir. Genellikle, kavrama paleti için kaybın ilkel çevre G H'de ve kavrama paleti için gerçek çevrede ölçüldüğünü görürüz; eğer
+biri doğruysa, diğeri yanlış olmalıdır, çünkü
+kilitleme çemberi M N'nin kesişiminde ilkel çember G H'den teğet C A'nın belirgin bir
+sapması vardır; bu miktarı
+kavrayan paletin kaldırma açısı V' A V'ye ekleseydik, sonuç
+boşaltma kenarı O'nun 1 dereceden fazla olması olurdu. mevcut konumunun altında, böylece kavrama paletindeki kaldırma işlemi tamamlandığında, kavramadan ayrılan paletin kilitleme köşesi N'nin yalnızca 1 3/4 derece yerine 2 3/4 derecelik bir açıyla kilitleneceğini gösterir. Birçok saat tam olarak bu hatayı içerir. Paletleri herhangi bir istenen konumda, örneğin hareketin merkezinde, çatal merkezler çizgisinde dururken gösteren bir taslak yapmak istersek, şu şekilde ilerleriz: 10 1/4 derece toplam hareket olduğundan, yarısı 5 1/8 dereceye eşit olur; toplam kilitleme 1 3/4 dereceye eşit olduğundan, bu miktarı ondan çıkarırız ve 5 1/8 - 1 3/4 = 3 3/8 derece kalır, bu da kilitleme köşesi M'nin teğet C A'nın üzerinde gösterilmesi gereken açıdır. Şimdi kilitleme köşesi N'nin nerede durması gerektiğine bakalım; M
+5 1/8 derece yukarı hareket ettiğinden, N o miktarda aşağı hareket etti, palet üzerindeki kaldırma 5 1/2 derece ve diş üzerindeki 3 derece (ki bu
+tanjant D A'ya eklenir) olduğundan, N'nin D A'nın
+5 1/2 + 3 - 5 1/8 = 3 3/8 derece üzerinde durması gerektiği sonucu çıkar. Bunu kilitle kanıtlayabiliriz, yani: 3 3/8 derece + 1 3/4 = 5 1/8 derece, kalan hareketin yarısı. Bu, paletleri çeşitli pozisyonlarda çizmenin ne kadar basit olduğunu gösterir,
+ölçüm noktaları olarak her zaman ilkel daireye teğetleri kullanmayı unutmayın. Paletler kilitsizken taslak açısının nasıl çizileceğini tamamen açıkladık ve tekrarlamamıza gerek yok, sadece şunu söylemek gerekirse, çoğu otorite, kilitleme çemberi M N'ye bir teğet R N çizer, başka bir deyişle, dik açı R N A oluşturur, sonra R N'den 12 derecelik bir açı oluşturur. Biz, kendi yöntemimizle, yani doğru olanla, çizdik. Burada S N R'yi 12 derecelik bir açıyla gösterirken, gerçekte bu miktardan _daha azdır_; S N'yi R N'den 12 derecelik bir açıyla oluşturmuş olsaydık, o zaman çekme, tekerleğin ilkel çevresine ulaşıldığında F B'den 12 derece olurdu, ancak çatal kıyıya dayandığında _12 dereceden_ _fazla_. Boşaltma kenarı P ile dişin topuğu arasındaki boşluk, 1 1/2 derecelik bir düşüş açısı J B I oluşturur; Düşüşün tanımı, tekerlek ve palet için özgürlüktür. Bu, kesin olarak söylemek gerekirse, tamamen doğru değildir, çünkü kilit açma eylemi sırasında tekerleğin taslak açısı ölçüsünde bir geri tepmesi olacaktır; bu nedenle dişin topuğu P kenarına yaklaşacak ve paletin boşaltma tarafı dişe yaklaşacaktır, çünkü yalnızca boşaltma kenarı P yolunda hareket eder.
+
+Dişler için iyi bir uzunluk, tekerleğin çapının 1/10'udur ve ilkel çaptan ve dişin kilitleme kenarından ölçülür.
+
+Dişlerin arka kısımları paletlere müdahale etmeyecek şekilde oyulmuştur ve güzel bir form verilmiştir; aynı şekilde jant ve kollar da mümkün olduğunca hafif ve düzgün bir şekilde, mukavemetle uyumlu bir şekilde çekilmiştir.
+
+Tekerlek ve palet eyleminin tasvirini açıkladıktan sonra şimdi dikkatimizi çatal ve silindire çevireceğiz. Bu eylemleri, onları tasvir etmeye geldiğimizde hiçbir zorluk bulunmayacak şekilde açıklamaya çalıştık, çünkü analizimizde konuyu sıradan zekaya sahip herhangi birinin bunlar hakkında doğru bir bilgi edinmesini sağlayacak kadar tartıştık. Düz çizgide, dik veya başka bir açıda çatal ve silindir hareketi, vermek üzere olduğumuz yöntemlerden sonra tasvir edilir. Çatalın hareket uzunluğunun, tekerlek ve paletlerin merkez mesafesine eşit olması gerektiğini belirttik; bu, makul bir uzunlukta bir çatal verir. A' A merkez çizgisini çizdikten sonra, paletlerin açısal hareketinin yarısına eşit bir açı oluşturacağız; söz konusu durumda ikincisi 10 1/4 derece olduğundan, merkez çizgisinin her iki tarafında 5 1/8 derece aralıklı olarak 10 1/4 derecelik _m_ A _k_ açıları oluşturulur. Ayırıcılarımızı A B'ye, 'scape
+wheel ve paletlerin merkez mesafesine yerleştirerek, bunları A'ya yerleştiriyoruz ve _c c_'yi oluşturuyoruz; böylece
+çatalın hareket eden uzunluğuna ve yoluna sahip olacağız. Analizimizde
+darbe açısının mümkün olduğunca küçük olması gerektiğini gördük. Çift silindir taslağımızda 
+28 derecelik bir açı kullanacağız; ancak bu açının farklı saatlerdeki çıkış mekanizmalarının yapısına göre değişebileceğini belirtebiliriz; çok küçükse çıkış mekanizması kilitlendiğinde denge durdurulabilirken, çok büyükse kaldırma sırasında durdurulabilir; bu kusurların her ikisinden de kaçınılmalıdır. Açılar sırasıyla 10 1/4 derece ve 28 derece olduğundan, aşağıdaki oranlara sahip oldukları anlaşılmaktadır: 28 derece / 10,25 = 2,7316. Bu nedenle, darbe yarıçapı çatalın etki eden uzunluğuyla bu oranı taşır (ancak açılara ters oranda). Bunu şu orana koyacağız; A_c_ çatalın etki eden uzunluğuna ve _x_ bilinmeyen niceliğe eşit olsun; 28:10,25 :: A_c_:_x_; cevap
+teorik darbe yarıçapı olacaktır. Gerekli yarıçapı bulduktan sonra ölçüm aletimizin bir çenesini _c c_ ile _k_ A veya _m_ A'nın kesiştiği
+noktaya yerleştiririz ve diğer çeneyi merkezler çizgisine
+yerleştiririz; böylece A' denge merkezini elde ederiz. Daha önce belirtilen
+kesişme noktalarından X A' ve Y A' çizerek 28 derecelik X A' Y darbe açısını oluştururuz. Bu açının çatal açısı _k_ A' _m_ ile kesiştiği noktada, A merkezinden _i i_ çizeriz;
+bu bize teorik darbe çemberini verir. Toplam kilit
+1 3/4 derece olduğundan, denge tarafından kilidin açılmasında tanımlanan açının = 1 3/4 x 2,7316 = 4,788 derece olduğu sonucu çıkar. Spesifikasyonlara göre
+yuvanın genişliği 5 1/8 derece olmalıdır; Açıölçerin merkezini A'ya yerleştirerek, bu açının yarısını _k_ A'nın her iki tarafına inşa ediyoruz,
+bu, çatalın kıyıya dayandığında
+çatalın merkezinden geçer; bu bize 5 1/8 derecelik _s_ A _n_ açısını verir. Ayrılan
+palet kilitli olarak gösterilseydi, _m_ A çatalın merkezini temsil ederdi. Yuva, yakut pimin altına
+dokunma olasılığı olmayacak kadar yeterli derinlikte yapılmalıdır. Yakut pim,
+çatalın etki eden kenarından geçerken 1 1/4 derecelik serbestliğe sahip olmalıdır;
+A merkezinden 1 1/4 derecelik _t_ A _n_ açısını inşa ediyoruz;
+_t_ A'nın _c c_ çatalın etki eden yarıçapı ile
+kesişim noktasında, gerçek dürtü yarıçapını
+buluyoruz ve yakut pimin yüzünün oluşturduğu yolu tanımlayan _ri ri_ yayı çiziyoruz. Yakut pimin yuvasında 1/4 derecelik bir titreşim olması gerekir; bu nedenle 4 7/8 derecelik bir genişliğe sahip olacaktır; bu genişlik, yakut pimin merkez çizgisinin üzerinde durduğu düşünülerek çizilir ve daha sonra yakut pimin çizimde işgal edeceği konuma aktarılır.
+
+Emniyet silindirinin yarıçapı, teorik darbe yarıçapının 4/7'si olarak verilmiştir. Çeşitli oranlarda yapılabilirler; bu nedenle genellikle 2/3 kullanılır. Bunu ne kadar küçük yaparsak, koruma pimiyle kazara temas sırasında sürtünme o kadar az olur, geçen boşluk o kadar büyük olmalı ve çatal boynuzu ve koruma ucu daha uzun olmalıdır, bu da çatalın ağırlığını artırır.
+
+Emniyet silindirini içeri çektikten ve dart ile emniyet silindiri arasındaki serbestliğin 1 1/4 derece olması gerektiğini belirttikten sonra, dart çatalın merkezinde olduğundan, sonuç olarak _k_ A onun merkezidir;
+bu nedenle 1 1/4 derecelik _k_ A X açısını oluşturuyoruz. X A'nın emniyet silindiriyle kesiştiği noktada _g g_ yayı çiziyoruz; bu, şimdi çizeceğimiz dartın noktasını belirler. Daha sonra, denge merkezinden dartın noktasına değen _d_ A' çizeceğiz;
+şimdi ona 5 derecelik bir açıyla _b_ A' oluşturuyoruz. Bu, dartın hilalin içine girerken gerekli serbestliği sağlamak içindir; A'dan yakut piminin merkezinden geçen bir çizgi çiziyoruz. Çizimde göstermiyoruz, çünkü A' X'e çok yaklaştığında ayırt edilemez olurdu. Bu çizgi ayrıca hilalin merkezinden geçecektir. A' _b_'nin emniyet silindiriyle kesiştiği noktada hilalin kenarlarından birine
+sahip oluruz. Pusulamızı hilalin merkezine, silindirin çevresine ve az önce bulduğumuz kenara yerleştirdiğimizde, pusulamızın hilalin yarıçapını kapsayacağı sonucu çıkar. Şimdi, ikincisi için yayı tarıyoruz, böylece hilalin kalan yarısını A' X'in diğer tarafına çekiyoruz ve hilalin, okun kenarlarına veya içine değmesi
+olasılığı olmayacak kadar derinliğe getiriyoruz. Şimdi, itme silindirini içeri çekeceğiz ve onu
+güçle uyumlu bir şekilde mümkün olduğunca hafif hale getireceğiz. Hilaldeki azaltılmış ağırlığı dengelemek için itme silindirinde bir delik gösterilmiştir.
+Şekil 24'ü tarif ederken, hilalin boyutlarını ve tek silindir için koruma piminin konumunu bulmak için talimatlar verdik. Boynuz uzunluğunu bulacağız; Bunu yapmak için Şekil 25 için verilen talimatları yakından takip etmeliyiz. Boynuzun ucunu bulurken, hilalin kenarı darttan geçtikten
+sonraki hilalin merkezinin ve yakut piminin yerini bulmalıyız.
+A' _b_'nin emniyet silindiriyle kesiştiği noktadan, hilalin yarıçapını emniyet silindirinin
+çevresine, kıyıya karşı tarafa doğru aktarırız,
+sonra A' noktasından bu şekilde bulunan noktadan bir çizgi çizeriz.
+Bu çizginin gerçek dürtü çemberi _r i r i_ ile kesiştiği noktada, palet merkezinden yayılan bir yay çizeriz; boynuzun ucu bu yay üzerinde yer alacaktır. Çizimimizde bahsedilen yay, dart yarıçapı _g g_ ile çakışmaktadır. Daha önce belirtildiği gibi, Şekil 25'te işlem yaparken ayrıntılar verdik, bu nedenle tüm yapısal çizgilerin eklenmesiyle taslağı daha da karmaşıklaştırmanın gereksiz olduğunu düşündük. Yakut pimi ile boynuz ucu arasındaki serbestliğin 1 1/2 derece olacağını belirttik; bu çizgiler (göstermediğimiz) paletin merkezinden çizilir. Boynuzun ucunu kıyıya karşı duran tarafta bulduktan sonra, bölücüleri üzerine ve _k_ A ile _g g_'nin kesiştiği noktaya yerleştiririz--bu durumda ok ucundadır--ve bu ölçümü boynuzun ucunu karşı tarafta konumlandıracak olan _g g_ boyunca aktarırız.
+
+Çatalın etkili kenarları _cc_ üzerindedir ve ayrıca boynuzların uçlarının konumunu da bulduk; eğrilikleri şu şekilde çizilir: Pergellerimizi A ve _r i_ üzerine yerleştiririz, böylece gerçek dürtü yarıçapını kaplarız; pusula şimdi çatalın hareket eden kenarına yerleştirilir ve onunla birlikte taranan bir yay, daha sonra çatalın aynı tarafında boynuzun ucundan taranan başka bir yay ile kesişir. Yayların kesişme noktasında pusula yerleştirilir ve boynuzun eğriliği içeri çekilir, aynı işlem diğer boynuzla tekrarlanır. Şimdi boynuzun kenarlarını, saat yeniden yana yattığında yakut piminin tarafının çatala tam olarak çarpacağı şekilde çizeceğiz. Yakut piminin arkası çatala çarparsa, kama gibi davrandığı için onu kırma ve pivotları yaralama eğilimi daha fazla olacaktır. Çatal ve paletler şimdi mümkün olduğunca hafifçe ve kolayca dengede olmalarına izin verecek şekilde çekilir. Kenarlar merkez çizgisinden eşit mesafelerde çizilmelidir. Çatal ve silindir hareketini istenen herhangi bir pozisyonda tasvir ederken, gerçek dürtü yarıçapının, boynuzun ucunun, dart veya koruma piminin ve hilalin konum noktalarının hepsinin _banka karşısında dururken_ elde edilmesi gerektiği ve bunların tanımladığı yayların çizilmesi gerektiği unutulmamalıdır; parçalar daha sonra bankalardan çıkarıldıkları açıya göre yerleştirilir.
+
+Verilen talimatların herhangi birinin konuya hakim olmasını sağlayacak kadar yeterli olduğunu düşünüyoruz. Şunu da ekleyebiliriz ki, kaçış mekanizmasına iyice alışıldığında, ortak bir merkezden yayılan açıların birçoğu aynı anda çizilebilir. Çıkış mekanizmasının mekanik yapısını tanımlamayı amaçlamıştık, bu da parçaların küçük boyutları nedeniyle bazı zorluklara yol açıyor, ancak yine de sayılan ilkelere sadık kalarak mekanik olarak gerçekleştirilebilir. Bunları üretmenin bir yolunu geliştirdik, böylece genç erkekler nispeten kısa bir
+sürede bunları taslaklarından (otomatik makine olmadan)
+oluşturdular, böylece saatleri kurma koluna dokunulduğunda çalışmaya
+başlıyor. Belki daha sonra bu konuyu yazarız. Bunu yapmak
+amacımız, düzenli çalışmalarımızda bu tür açıklamaları kullandığımız için.
+
+Proje Gutenberg E-Kitabının Sonu, 
+Kaldıraç Çıkış Mekanizmasının Bir Analizi, 
+.
+*** END OF TURKISH PART ***
+H. R. Playtner
+
+*** END OF THIS PROJECT GUTENBERG EBOOK AN ANALYSIS OF THE LEVER ***
+
+***** This file should be named 21978.txt or 21978.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/1/9/7/21978/
+
+Produced by Sigal Alon, Fox in the Stars, Laura Wisewell
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
