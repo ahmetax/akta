@@ -35,7 +35,7 @@ AKTA Projesi için bir logoya ihtiyacımız var. Ancak bunun için bir bedel öd
 Arşive belge yüklemeye başladım. Belgelerin orijinal "header" ve "footer" bilgilerini korudum. Her belgenin başına, o belgeye ait temel bilgileri Türkçe olarak ekledim.
 
 Belgelerin asıl içeriğini, deep_translator/GoogleTranslator kütüphanesi aracılığıyla İngilizceden Türkçeye çevirdim. Çevrilen metni, orijinal metnin olduğu yere kopyaladım.'
-Çevirinin başladığı yere '''*** START OF TURKISH PART ***''', bittiği yere de '''*** END OF TURKISH PART ***''' ekledim. Böylece kod yardımı ile sadece Türkçeleştirilmiş metni kolayca çekmek mümkün. Bu amaçla aktalib.py dosyasında yer alan  extract_turkish_body(text) fonksiyonunu kullanmak mümkün.
+Çevirinin başladığı yere <pre>*** START OF TURKISH PART ***</pre>, bittiği yere de <pre>*** END OF TURKISH PART ***</pre> ekledim. Böylece kod yardımı ile sadece Türkçeleştirilmiş metni kolayca çekmek mümkün. Bu amaçla aktalib.py dosyasında yer alan  extract_turkish_body(text) fonksiyonunu kullanmak mümkün.
 
 Kodlarda genellikle İngilizce terimler kullanmaya çalıştım. Böylelikle, Türkçe bilmeyenlerin de kullandığım yapıyı daha kolay anlamaları mümkün olabilir diye düşünüyorum.
 
@@ -72,7 +72,7 @@ I started uploading documents to the archive. I preserved the original "header" 
 
 I translated the original content of the documents from English to Turkish using the deep_translator/GoogleTranslator library. I copied the translated text to where the original text was.
 
-I added '''*** START OF TURKISH PART ***''' to where the translation started and '''*** END OF TURKISH PART ***''' to where it ended. Thus, it is possible to easily extract only the Turkishized text with the help of code. For this purpose, it is possible to use the extract_turkish_body(text) function in the aktalib.py file.
+I added <pre>*** START OF TURKISH PART ***</pre> to where the translation started and <pre>*** END OF TURKISH PART ***</pre> to where it ended. Thus, it is possible to easily extract only the Turkishized text with the help of code. For this purpose, it is possible to use the extract_turkish_body(text) function in the aktalib.py file.
 
 I generally tried to use English terms in the codes. In this way, I think that it will be easier for those who do not know Turkish to understand the structure I use.
 
