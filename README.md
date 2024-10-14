@@ -26,6 +26,10 @@ Please support our project.
 
 
 ## Gelişmeler
+2024-10-14
+
+AKTA Projesi için bir logoya ihtiyacımız var. Ancak bunun için bir bedel ödemem mümkün değil. Onun yerine, kendi yazdığım Yeni Başlayanlar İçin Python kitabımı hediye edebilirim:).
+
 2024-10-09
 
 Arşive belge yüklemeye başladım. Belgelerin orijinal "header" ve "footer" bilgilerini korudum. Her belgenin başına, o belgeye ait temel bilgileri Türkçe olarak ekledim.
