@@ -26,6 +26,10 @@ Please support our project.
 
 
 ## Gelişmeler
+2024-10-18
+
+Yüklenen belge sayısı 1200'e yaklaştı.
+
 2024-10-14
 
 AKTA Projesi için bir logoya ihtiyacımız var. Ancak bunun için bir bedel ödemem mümkün değil. Onun yerine, kendi yazdığım Yeni Başlayanlar İçin Python kitabımı hediye edebilirim:).
@@ -66,6 +70,10 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 
 
 ## Developments
+2024-10-18
+
+The number of uploaded documents approached 1200.
+
 2024-10-09
 
 I started uploading documents to the archive. I preserved the original "header" and "footer" information of the documents. I added the basic information about that document in Turkish at the beginning of each document.
