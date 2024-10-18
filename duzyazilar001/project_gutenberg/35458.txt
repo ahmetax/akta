@@ -4,6 +4,7 @@ Yazar: Loretta Ellen Brady
 Yayın Tarihi: March 2, 2011 [EBook #35458]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/35458
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 Project Gutenberg's The Green Forest Fairy Book, by Loretta Ellen Brady
 
@@ -158,8 +159,8 @@ I
 
 Uzun, uzun zaman önce, dünyanın tepesine oldukça yakın bir ülkede,
 Kuzey Rüzgarı'nın her baharda şiddetle estiği yerde,
-Dame Grumble adında bir kadın yaşardı. Şimdi Dame Grumble'ın, onu
-çok ama çok sevdiği bir Elma Ağacı vardı, her ne kadar bu onu kıyaslanamayacak kadar rahatsız etse de. Çok güzel, büyük bir ağaçtı ve gölge için iyi şekillendirilmişti, her sonbaharda bir veya iki ölçek meyve vermesi gereken türden bir ağaçtı; ama vermedi. Her yıl guguk kuşu dünyanın üzerinden uçup ağaçları ve çiçekleri uyanmaları için çağırdığında, Elma Ağacı, güzel kokulu, pembe-beyaz çiçeklerle dolu bulutlarla kaplanırdı. Sonra Dame Grumble'ın kalbi sevinirdi. Ama Elma Ağacı böyle süslenir süslenmez, Kuzey Rüzgârı öfkeyle esmeye, çiçekleri koparıp bulutlar halinde götürmeye başlardı. İşin ilginç tarafı şuydu: Birkaç çiçek yere düştüğünde, çocukların kumbaralarındaki küçük bozuk paralara benzer bir şıngırtı sesi çıkarırlardı. Sonra bu çiçekler solduğunda, Dame Grumble, onların yattığı yerde güzel, yeni, parlayan peniler bulurdu. Bundan dolayı Elma Ağacı'nın bir gün altın elmalar vereceğini varsaydı.
+Dame Grumble adında bir kadın yaşardı. Şimdi Dame Grumble'ın, onu her şeyin ötesinde
+üzmesine rağmen aşırı derecede sevdiği bir Elma Ağacı vardı. Çok güzel, büyük bir ağaçtı ve gölge için iyi şekillendirilmişti, her sonbaharda bir veya iki ölçek meyve vermesi gereken türden bir ağaçtı; ama vermedi. Her yıl guguk kuşu dünyanın üzerinden uçup ağaçları ve çiçekleri uyanmaları için çağırdığında, Elma Ağacı, güzel kokulu, pembe-beyaz çiçeklerle dolu bulutlarla kaplanırdı. Sonra Dame Grumble'ın kalbi sevinirdi. Ama Elma Ağacı böyle süslenir süslenmez, Kuzey Rüzgârı öfkeyle esmeye, çiçekleri koparıp bulutlar halinde götürmeye başlardı. İşin ilginç tarafı şuydu: Birkaç çiçek yere düştüğünde, çocukların kumbaralarındaki küçük bozuk paralara benzer bir şıngırtı sesi çıkarırlardı. Sonra bu çiçekler solduğunda, Dame Grumble, onların yattığı yerde güzel, yeni, parlayan peniler bulurdu. Bundan dolayı Elma Ağacı'nın bir gün altın elmalar vereceğini varsaydı.
 
 Şimdi, itiraf etmek gerekir ki, Dame Grumble pek de sevimli değildi. Aslında, ismini doğasından almıştı. Bazıları, Dame Grumble'ın sabah kalktığı andan gece yatağını arayana kadar şikayet ettiğini
 söylerdi. O zaman bile uyuyana kadar sert yastığından veya ince
@@ -481,7 +482,7 @@ Zamanla Elma Ağacı'nın yaprakları düştü, ta ki dalları tamamen çıplak 
 Dame Grumble sonunda umduğu gibi asla altına dönmeyeceklerini fark etti. Şimdi bu yeni hayal kırıklığı, emin olabilirsiniz ki, onun mizacını yumuşatmaya meyilli değildi. Bütün gün en sevdiği ağaca kederle bakarak oturdu ve yeni kaybı için acı gözyaşları döktü.
 
 "Ah, Anne, lütfen böyle ağlama!" diye yalvardı Freyo. "Kendini hasta edeceksin.
-Hasta olacaksın. Odun depom bitti; ama ormandan bana iki sağlam dal getirirsen, kendime bir çift koltuk değneği daha yaparım. Sonra da kaybettiğini düşündüğün bu servetin yerine geçecek bir servet kazanmaya giderim."
+Hasta olacaksın. Odun depom bitti; ama bana ormandan iki sağlam dal getirirsen, kendime bir çift koltuk değneği daha yaparım. Sonra da kaybettiğini düşündüğün bu servetin yerine geçecek bir servet kazanmaya giderim."
 
 "Kaybettiğimi hayal et!" diye tekrarladı Dame Grumble alaycı bir şekilde. "Kaybettiğimi
 _hayal ettiğim_ servet! Bir servet kaybettiğimi hayal etmiyorum; bir servet kaybettiğimi çok iyi biliyorum. Ayrıca, senin beceriksiz sandıkların ve kutuların için kim bir bakır çeyrek verir ki!"
@@ -764,8 +765,7 @@ güzel hiçbir şey görmediğini düşündü.
 
 Kuzey Rüzgarı her zamanki gibi tarla ve ormanın üzerinden kükreyerek esmeye başlayalı çok olmamıştı, ama Dame Grumble'ı görünce aniden durdu. Nazikçe iyi hanımın nasıl olduğunu ve saraydaki hayatı sevip sevmediğini sordu. Dame Grumble tüm sorularına çok
 sevimli bir şekilde cevap verdi ve Kuzey Rüzgarı'nın sağlığının iyi olmasını umdu. Çünkü, eğer
-inanacaksanız, bu iki eski düşman artık iyi arkadaştı. Uzun zaman önce Gezgin'in ziyaretinin akşamından beri
-birbirlerine ters bir söz söylememiş veya kavga etmemişlerdi.
+inanacaksanız, bu iki eski düşman artık iyi arkadaştı. Uzun zaman önce Gezgin'in ziyaretinin akşamından beri birbirlerine karşı tek bir ters söz veya kavga etmemişlerdi.
 
 "Ve şimdi, Dame Grumble," dedi Kuzey Rüzgarı, "yedi uzun yıl boyunca
 azarlamayı ve homurdanmayı bıraktın ve eğer istersen, Elma Ağacı'nı bağlayan büyü şimdi bozulabilir. Bana sadece
@@ -776,8 +776,8 @@ Elma Ağacı'na sana altın elmalar vermesini emret, o zaman onları alacaksın.
 çiçeklerimden topladığın tüm penilerle ne yaptığını söyle. Hanımım
 altın bir kalbe sahip ve altın elmalara ihtiyacı yok."
 
-Dame Grumble, Elma Ağacı'nın kendisinden bu kadar nazik
-bir şekilde bahsetmesinden memnuniyetle gülümsedi. En sevdiği ağaca
+Dame Grumble, Elma Ağacı'nın kendisinden bu kadar nazik bir şekilde
+konuşmasından memnuniyetle gülümsedi. En sevdiği ağaca
 çok sert davrandığı eski günleri iyi hatırlıyordu ve ağacın şimdi onu
 affettiğini umuyordu. "Elma Ağacı kalbimi fazla övüyor," dedi Dame Grumble mütevazı bir şekilde. "Yine de, Kuzey Rüzgarı, itiraf etmeliyim ki
 uçurup götürdüğün çiçeklerden topladığın peniler konusunda çok meraklıydım. "
@@ -830,9 +830,9 @@ gün yoktu. Ne Ay ne de Yıldızlar
 Kuzey Toprakları Krallığı'nın üzerine hiç parlamamıştı. Ren geyikleri bu gölgeler diyarında sessizce uçuşuyordu ve büyük beyaz ayılar deniz kenarındaki buzlu mağaralarda yuvalarını kurmuşlardı.
 Gezgin kuşlar bu karanlık diyara ulaştığında, en yumuşak şarkılarını
 çığlık atıp dinlenmeye gittiler ve uyandıklarında daha parlak diyarlar aramak için
-uzaklara uçtular. Ama gün ışığından habersiz olan bu karanlık diyarın halkı, onun eksikliğine yas tutmadı ve
-her zaman gölgede yaşamaktan memnundu. Kralın sarayında binlerce gümüş lamba ve sayısız mum mumu
-her zaman parlıyordu; tarlalarda işçiler meşalelerin ışığında ekiyor ve biçiyorlardı. Çobanlar yamaçlarda büyük ateşler yaktılar ve ışık ve sıcaklıklarıyla sürülerine haber verdiler. Ev hanımları ateş ışığında iplik eğiriyordu.
+uzaklara uçtular. Ama gün ışığından habersiz, bu karanlık diyarın halkı onun eksikliğine yas tutmadı ve
+her zaman gölgede yaşamaktan memnundu. Kralın sarayında binlerce gümüş lamba ve sayısız mum
+mumları her zaman parlıyordu; tarlalarda işçiler meşalelerin ışığında ekiyor ve biçiyorlardı. Çobanlar yamaçlarda büyük ateşler yaktılar ve ışık ve sıcaklıklarıyla sürülerine haber verdiler. Ev hanımları ateş ışığında iplik eğiriyordu.
 
 Anlattığım zamanda, iyi kral Tamna Kuzey
 Krallığı'nı yönetiyordu. Kralların serveti
@@ -873,7 +873,7 @@ ne de karanlık benim için önemli olurdu ve ben ıssız ve yalnız olurdum."
 istediğini sana veremediğim için üzgünüm. Ama bu hayattan ayrılmadan önce, seni benim yerime sevecek ve koruyacak cesur bir
 prensle evlendiğini görmeyi umuyorum."
 
-Ve Maiden Matanuska hiçbir prens istemediğine yemin etse de, babası itirazlarına hiç kulak asmadı. "Tüylü bir pelerin giyen yakışıklı bir genç var, seninle ormanda dolaşırken görüyorum. O kim?" diye sordu Kral Tamna.
+Ve Maiden Matanuska hiçbir prens istemediğine yemin etse de, babası itirazlarına hiç kulak asmadı. "Tüylü bir pelerin giyen yakışıklı bir genç var, ormanda onunla dolaşırken görüyorum. O kim?" diye sordu Kral Tamna.
 
 "O yanan dağın Prensi Kenai," dedi kız. "O da ışık rüyaları görüyor ve bana duymayı sevdiğim harika hikayeler anlatıyor."
 
@@ -936,7 +936,7 @@ Tabutun içindeki mücevherler mor ateş saçarak parladı ve parlak yıldızlar
 
 "Büyük zenginlikleri umursamıyorum, Prens Katala," diye cevapladı, "çünkü benim de kendime ait güzel
 bir
-zenginliğim var. Senin elmaslarına gelince, dediğin gibi gerçekten güzel olsalar bile, fırtınada penceremin etrafında kümelenen
+zenginliğim var. Elmaslarına gelince, dediğin gibi gerçekten güzel olsalar bile, fırtınada penceremin etrafında kümelenen
 buz sarkıtlarını da severim. Onlar da sert ve soğuktur."
 
 Prens Katala da öfkeyle ayrıldı ve Prens Kenai tahtın önünde eğildi.
@@ -957,7 +957,7 @@ Ama yine de, kesinlikle bir hediye veya hatıra getirmelisin, yoksa
 hiç gelmemiş olurdun ama çorak ülkende kalırdın. Gel, bize
 ne olduğunu söyle."
 
-"Ben sadece duyacağınız harikulade bir masalın hazinesini getiriyorum," dedi Prens Kenai ve sonra anlatmaya başladı.
+"Ben sadece duyacağınız harikulade bir hikayenin hazinesini getiriyorum," dedi Prens Kenai ve sonra anlatmaya başladı.
 
 "Benim ülkemde, bildiğiniz gibi, insanların korkuyla kaçtığı
 yanan bir dağ var, ama ben onu seviyorum. Şimdi dağım alevler içinde
@@ -965,7 +965,7 @@ patladığında ve cennete ulaşan ateş dilleri tüm dünyanın
 göklerini aydınlattığında, harikulade şeyler gördüm.
 Uzaklarda, buz ve karın olmadığı, ama yeşil otların
 tepeleri ve ovaları kapladığı; gelinciklerin altın kadehler gibi
-kalınlaştığı ve kuşların saatlerce şarkı söylediği başka topraklar gördüm. Ve anlattığım bu hoş topraklarda, karanlık kadar aydınlık bir zaman da vardır. Bu aydınlık zaman
+büyüdüğü ve kuşların saatlerce şarkı söylediği başka topraklar gördüm. Ve anlattığım bu hoş topraklarda, karanlık kadar aydınlık bir zaman da vardır. Bu aydınlık zaman
 saatlerce sürer ve buna gündüz denir."
 
 "O zaman bana şunu söyle, Prens Kenai," diye haykırdı kral. "Bu gün ışığı diğer diyarlara nasıl geliyor? Bizim bu kasvetli diyarımıza gelmiyor, orada
@@ -974,8 +974,7 @@ saatlerce sürer ve buna gündüz denir."
 "Sana bunu söyleyeceğim," diye cevapladı prens. "Güneş adında harika bir gezgin var, bulutların üstünde durmaksızın dünyayı dolaşıyor. Gece üzerinde büyük bir gücü var ve yüzünü herhangi bir diyara çevirdiği
 her yerde ışığın karanlığın ortaya çıkmasına neden oluyor.
 
-"Ve şimdi elveda, iyi kral ve sevdiğim Bakire Matanuska. Güneş'i aramaya gidiyorum ve ondan benimle birlikte dönmesini ve Kuzey Krallığı'nı yeryüzündeki diğer diyarlarda yaptığı gibi
-parlatmasını istiyorum. O zaman hem gündüz hem de gece ışığına sahip olacağız ve Bakire Matanuska hiç görmediği, tüm kalbiyle özlediği ve çok seveceği şeye sahip olacak. Elveda."
+"Ve şimdi elveda, iyi kral ve sevdiğim Bakire Matanuska. Güneş'i aramaya gidiyorum ve ondan benimle birlikte dönmesini ve dünyadaki diğer diyarlarda yaptığı gibi Kuzey Krallığı'nı da aydınlatmasını rica ediyorum. O zaman hem gündüz hem de gece ışığına sahip olacağız ve Bakire Matanuska hiç görmediği, tüm kalbiyle özlediği ve çok seveceği şeye sahip olacak. Elveda."
 
 Prens Kenai uçuşan tüy pelerinini etrafına sardı ve
 kraldan ayrıldı. Bakire Matanuska onunla birlikte
@@ -1343,7 +1342,7 @@ küçük ağaçların en küçüğü değil miyim?"
 
 Ama Gece Rüzgârı ona gerçeği söylemedi. Söz vermişti, yapmayacaktı ve bu yüzden ona şöyle cevap verdi:
 
-"Şimdi bilmiyorum canım, ama sen gerçekten de en küçük ağaçlardan biri olsan da, benim için bu dünyadaki tek Küçük Ağaçsın. Soylu lordlar ve hanımlar ve onların yolları hakkında hiçbir şey bilmiyorum, çünkü
+"Şimdi bilmiyorum canım, ama sen gerçekten de en küçük ağaçlardan biri olsan da, benim için dünyadaki tek Küçük Ağaçsın. Soylu lordlar ve hanımlar ve onların yolları hakkında hiçbir şey bilmiyorum, çünkü
 içeri girip kendimi ısıtmak istediğimde beni evlerinden ve ocaklarından dışlamıyorlar mı?
 Ama şimdi, Küçük Ağaç, geç büyüyor; Bana şarkı söylemeyecek misin?"
 
@@ -1617,8 +1616,8 @@ attığı peniler için şarkı söyledi.
 Ama onu duyanlar alaycı bir şekilde gülüyorlardı. "Eğer sirkteki ünlü Punchinello'ysan," derlerdi, "o zaman neden dilenci gibi bakır paralar için şarkı söylüyorsun ve sirk nerede? Sen Punchinello değilsin, bir sahtekarsın."
 
 Böylece yoksul ve arkadaşsız olan Punchinello sirki aramaya koyuldu.
-Gezginlikleri onu birçok ülkeye götürdü ve sık sık
-sirklerin oradan geçtiğini söyleyen insanlarla karşılaştı. Ama yaya olarak yolculuk eden Punchinello
+Gezginlikleri onu birçok ülkeye götürdü ve sık sık sirkin oradan geçtiğini söyleyen insanlarla
+karşılaştı. Ama yaya olarak yolculuk eden Punchinello
 sirk'i yakalayacak kadar hızlı gidemezdi. Ponponlu terlikleri kısa sürede otoyol boyunca taşlar tarafından yırtıldı ve
 çıplak ayakla yürüdü. Çok renkli saten cübbesi soldu ve yıprandı. Punchinello
 burada iplikle, orada deri kumaş veya çuval parçalarıyla yama yaptı,
@@ -1628,7 +1627,7 @@ uymuyor; ama yine de sesi her zamanki gibi tatlı ve berraktı.
 "Demek ki paçavralarıma rağmen henüz fakir değilim," derdi kendi kendine cesurca. "Çünkü dün bir bakır atan birinden altın bir gülümseme yakaladım; ve kim bilir? Belki bugün yine bana iyilik yapılır."
 
 Sonra bir gün Punchinello gezilerinde
-flüt ve davulun müziğiyle uyandı. Uçan eşcinsel pankartlarını gördü ve kalabalıkla birlikte otoyola koştu. Uzun zamandır aradığı sirkti ve eski arkadaşlarının yanından geçtiğini gördüğünde zavallı Punchinello'nun gözleri sevinç gözyaşlarıyla doldu. Kükreyen hayvanlarıyla aslan terbiyecileri, kızıl battaniyelere bürünmüş filler, ardından hokkabazlar ve sonra en komik şekilde adım atıp zıplayan küçük bir dans eden palyaço yürüdü.
+flüt ve davulun müziğiyle uyandı. Uçan eşcinsel pankartları gördü ve kalabalıkla birlikte otoyola koştu. Uzun zamandır aradığı sirkti ve eski arkadaşlarının yanından geçtiğini gördüğünde zavallı Punchinello'nun gözleri sevinç gözyaşlarıyla doldu. Kükreyen hayvanlarıyla aslan terbiyecileri, kızıl battaniyelere bürünmüş filler, ardından hokkabazlar ve sonra en komik şekilde adım atıp zıplayan küçük bir dans eden palyaço yürüdü.
 
 "Ah, hoş geldin, Beppo! Hoş geldin!" diye bağırdı kalabalık ve Punchinello bunun tanıdığı
 topal çocuk olduğunu gördü.
@@ -1657,7 +1656,8 @@ hoş geldin. Seni çok özledik ve şimdi yine palyaçomuz olacaksın."
 "Ah, ikimiz de palyaço olacağız!" diye ilan etti çocuk, "baba ve oğul gibi. Birlikte bana öğrettiğin dansları yapacağız ve dünyayı büyülediğin
 şarkıları söyleyeceğiz."
 
-Ve böylece bu Punchinello kendini bir kez daha rengarenk saten cüppeler içinde buldu, hepsi zillerle neşeyle şıngırdadı ve ponponlu terlikler ayak parmaklarına kadar kıvrıldı. Yüzünü beyazlattı ve sonra grotesk bir şekilde boyadı ve o gece küçük Beppo'suyla dans etti ve eski zaman şakalarını ve yüz buruşturmalarını yaptı.
+Ve böylece bu Punchinello kendini bir kez daha 
+renkli saten cüppeler içinde buldu, hepsi zillerle neşeyle şıngırdadı ve ponponlu terlikler ayak parmaklarına kadar kıvrıldı. Yüzünü beyazlattı ve sonra grotesk bir şekilde boyadı ve o gece küçük Beppo'suyla dans etti ve eski zaman şakalarını ve yüz buruşturmalarını yaptı.
 
 "Aferin! Aferin! İyi Punchinello!" diye bağırdı halk. "Seni çok özledik ama seni özlediğin için daha da çok eğleniyoruz." Gösteri bitene kadar çılgınca güldüler ve tezahürat ettiler.
 
@@ -1822,7 +1822,7 @@ Babasının krallığını terk etti ve bir süre sonra bir çiftlikte hizmet bu
 İnsanlar çok fakirdi ve o üç kişinin işini yapıyordu, ama ona nazik davranıyorlardı ve Yvonne neşeyle çalışıyordu. Sabahın erken saatlerinde kuyudan su çekiyordu ve güneş doğmadan önce mutfağa taşıdığı birçok
 ibrik. Çiftçilere sofrayı hazırlıyor ve tarlaya gittikten sonra ortalığı toplarken kendi yemeğini kilerde yiyordu. Bütün gün boyunca pişirir ve demler veya tencere ve tavaları
 gümüş gibi parlayana kadar ovalardı. Değişen talihine rağmen,
-prenses babasının şatosunda yaşadığı günlerdeki kadar tatlı huylu kaldı ve sabahtan akşama kadar onu rahatsız edecek hiçbir şey yoktu. Eğer
+prenses babasının şatosunda yaşadığı günlerdeki kadar tatlı huyluydu ve sabahtan akşama kadar onu rahatsız edecek hiçbir şey yoktu. Eğer
 tereyağı çalkalanmazsa, diğer hizmetçilerin yaptığı gibi
 azarlamak yerine şarkı söylerdi ve hemen tereyağı gelirdi ve tereyağı da
 olduğu gibi! Ekmekler yandığında, fırınla ​​oyun oynadıkları söylenen
@@ -1847,7 +1847,7 @@ kaybettiğini anladı.
 
 "Benim için önemli değil," dedi, "Bir ağacın
 oyuklarında barınak bulabilirim ve sabaha kadar orada çok rahat ederim." Daha önce sığırlar hiç bu kadar uzağa gitmemişti ki, sesini
-duyduğunda patikalardan yavaşça aşağı inip çalıların arasından geçerlerdi.
+duyarak patikalardan yavaşça aşağı inip çalıların arasından geçerlerdi.
 Evcil hayvanlar gibi onu takip ediyorlardı. Onları bir kez daha çağırmaya karar verdi ve
 şarkı söylemeye başladı:
 
@@ -1855,7 +1855,8 @@ Evcil hayvanlar gibi onu takip ediyorlardı. Onları bir kez daha çağırmaya k
 Akşamları ağlayan minik beyaz bir kuzu--"
 
 ama şarkısını yarıda kesti ve aniden nefesini tuttu. Şarkısına başladığında, büyük bir meşe ağacının dallarını
-yaydığı noktada eski bir değirmen duruyordu! Değirmen yelkenleri döndü ve orman esintisinde gıcırdadı, ama etrafta hayat sesi yoktu. Hiçbir kapı yoktu ve prenses duvarların etrafında dolaşsa da,
+yaydığı noktada eski bir değirmen duruyordu! Değirmen yelkenleri döndü ve orman esintisinde
+gıcırdadı, ama etrafta hayat sesi yoktu. Hiçbir kapı yoktu ve prenses duvarların etrafında dolaşsa da,
 ağır demir parmaklıklı ve çapraz demir parmaklıklı bir pencere dışında hiçbir açıklık bulamadı. Duvarların
 üstünde, sivri cam parçaları parlıyordu.
 
@@ -1875,7 +1876,7 @@ Ah, Yvonne, babana uç,
 Halkıma yardım etmesi için bir ordu göndermesini rica et,
 Çünkü onlar çok acı çekiyor ve ben güçsüzüm.
 Ama her şeyden önce, Yvonne, altın saçlarını çöz
-Bu hapishane duvarlarının içinde parlaklığı parlasın,
+Ki parlaklığı bu hapishane duvarlarının içinde parlasın,
 Ve bana kalbinin hala benim olduğunu söyle."
 
 Prenses saçlarını çözdü ve değirmenin etrafındaki ormanda her şey
@@ -1917,7 +1918,7 @@ tekrar dönene kadar yolculuklarında sana hizmet edecekler," dedi. "Sonra doğu
 
 Böylece şafak vakti geldiğinde, Yvonne altın saçlarını bağladı ve ayaklarına ağaç kabuğu terliklerini giydirdi. Güneşin ilk ışınını görmek için doğuya doğru baktı ve bir kez daha değirmene döndüğünde kaybolmuştu. Onun yerinde, altında halı kadar pürüzsüz yeşil otların yetiştiği büyük bir meşe duruyordu. Ancak Yvonne'un bu yeni harikaya hayran kalacak vakti yoktu, çünkü güneş bulutlardan yükseldi ve hemen dünyanın üzerindeki yolculuğuna başladı. Yvonne bütün gün onu takip etti, bazen sığ dağ derelerinde, bazen de herhangi bir deniz kadar geniş nehirlerde yürüyerek. Şimdi serin yeşil ormanların içinden ve tekrar sıcak, kumlu çöl ovalarından geçti. Yorgun düştü ve dinlenmek istedi, ancak Godfrey'in sözlerini hatırlayarak bunun yerine şarkı söyledi. Ve böylece gün batımında kendini Batı Diyarı Krallığı'nın sınırlarında buldu ve başka hiçbir şey için çok yorgundu, bir köylü kadından sığınak istedi ve sabaha kadar derin bir uyku çekti.
 
-Prens Godfrey'in günlerinde Batı Diyarı Krallığı, tüm dünyadaki en hoş yerdi, ancak şimdi dünyada bundan daha hüzünlü bir yer yoktu. Kral Ironheart, çöl tahtından uzun zamandır büyük ormanlarını ve bereketli tarlalarını, toprağın altındaki zengin gümüş ve altın madenlerini arzuluyordu. Prens Godfrey ile açık bir savaşta karşılaşmaya cesaret edememişti,
+Prens Godfrey'in günlerinde Batı Diyarı Krallığı, tüm dünyadaki en hoş yerdi, ancak şimdi dünyada bundan daha hüzünlü bir yer yoktu. Kral Ironheart, çöl tahtından uzun zamandır büyük ormanlarını ve verimli tarlalarını, toprağın altındaki zengin gümüş ve altın madenlerini arzuluyordu. Prens Godfrey ile açık bir savaşta karşılaşmaya cesaret edememişti,
 çünkü Godfrey vahşi bir savaşçıydı ve soyluları cesur askerlerdi. Böylece
 gizlice ve gece yarısı, Prens Godfrey seyahatteyken ülkesinden
 uzaktayken, Kral Ironheart Batı Diyarı
@@ -1933,23 +1934,23 @@ kısa stoklarını paylaşmaktan mutluluk duydular. Kabuktan terlikleri fark ede
 şu cevabı verdi:
 
 "Benim ülkemde bana Dilenci Prenses Yvonne denir. Babam, onu memnun etmek için evlenmediğim için beni
-bedavaya attı; ve ben zalim Demiryürek'ten, Batı Krallığı'nı terk etmesini ve tüm kalbimle sevdiğim
-Prens Godfrey'i zindanından kurtarmasını rica etmesini istiyorum."
+bedavaya attı; ve ben zalim Demiryürek'ten, Batı Krallığı'nı terk etmesini ve tüm kalbimle sevdiğim Prens Godfrey'i zindanından kurtarmasını rica etmesini istiyorum."
 
 Batılı kadınlar onun cevabını duyduklarında, onun cesaretine hayran kaldılar,
-ama başlarını iki yana salladılar ve ona arayışından vazgeçmesini tavsiye ettiler.
+ama başlarını iki yana salladılar ve ona görevinden vazgeçmesini tavsiye ettiler.
 
 "Adının da söylediği gibi, kalbi soğuk olan birine acıyarak hareket etmeye çalışıyorsun!" diye bağırdılar. "Kral Demiryürek annelerin gözyaşlarına güler ve
 aç çocukların ağıtlarından zevk alır; evine dön, Oh
 Yvonne, yoksa bu kötü kral seni bu hüzünlü topraklarla köleleştirir."
 
-"Bunu yapmayacağım," diye cevapladı prenses kararlı bir şekilde. "Cesaretle ve iyi bir kalple, Kral Demiryürek'ten merhamet dilemek için buraya geldim. Eğer
-başarısız olursam, başarısız olurum ve burada esaret altında, Prens Godfrey'i yas tutan sizinle
-kalacağım, çünkü o benim kalbimin efendisidir."
+"Bunu yapmayacağım," diye cevapladı prenses kararlı bir şekilde. "Cesaretle ve
+iyi bir kalple, Kral Demiryürek'ten merhamet dilemek için buraya geldim. Eğer
+başarısız olursam, başarısız olurum ve burada esaret altında, Prens Godfrey'i yas tutan
+sizlerle kalacağım, çünkü o benim kalbimin efendisidir."
 
 Prenses daha fazla işini geciktirmedi, ancak ertesi gün şafak vakti kalktı ve kale kapılarında erkenden bekledi. Askerler tarafından sorgulandığında, Kral
 Ironheart'ı aramaya geldiğini söyledi. Ona kim olduğunu sordular ve o da onlara doğruyu söyleyerek
-Yvonne, Dilenci Prenses olduğunu söyledi.
+Dilenci Prenses Yvonne olduğunu söyledi.
 
 "Dilenci Prenses!" diye haykırdı askerler alaycı bir şekilde. "Daha önce hiç
 altını olmayan bir prenses duymuş muydu?"
@@ -2186,8 +2187,8 @@ söyleyeyim."
 
 Ruh, şimdi Godfrey'in böyle konuşmasından memnundu. Sonra, iyi bir ruh olduğu ve insanların üzgün veya mutsuz olmasını istemediği için, bu iki ölümlünün yeterince denemeden geçtiğine karar verdi. Böylece Ruh, Godfrey'i karanlık sedirlerin gölgeli koridorlarında yönlendirirken,
 yerin üç kez güçlü bir şekilde titremesine neden oldu. Her titremeye gök gürültüsüne benzer büyük
-çatırtılar eşlik etti; Yvonne, saklandığı
-yerden korkarak kaçtı ve kendini Godfrey ile yüz yüze buldu. Sevdiğini
+çarpıntılar eşlik etti; Yvonne, saklandığı
+yerden korkuyla kaçtı ve kendini Godfrey ile yüz yüze buldu. Sevdiğini
 gördüğünde, Godfrey korku duymadı ve sevinçle haykırdı.
 
 "Ah, Yvonne! Ruh beni sadece denedi," diye haykırdı. "Sen, şu anda gökyüzünde beliren
@@ -2256,11 +2257,10 @@ Her sabah Küçük Sweep, güneş doğmadan önce süpürgesiyle dışarı
 çıkıyordu. Efendisi, geç saatlere kadar yatakta yatmaya cesaret ederse onu döverdi. Şimdi Sweep'in bu kadar erken
 kalkmasına gerek yoktu. Uzun bacalardan aşağı süpürme işi
 günün ilerleyen saatlerine kadar başlamadı. Yine de bu sevimli adam
-kendisine yüksek sesle çalan bir zille bir saat satın aldı ve bu saat her sabah beşte çaldığında, yolun karşısındaki Küçük Süpürge'ye ekmek ve çörekler atardı. Küçük Süpürge ekmek ve çörekleri büyük bir iştahla yerdi, çünkü her zaman çok açtı. Süpürge zavallı ellerini ısıtmak için kırmızı eldivenler satın aldı ve zalim efendisinin onları ondan alıp sattığını öğrendiğinde ağladı.
+kendisine yüksek sesle çalan bir zille bir saat aldı ve bu saat her sabah beşte çaldığında, yolun karşısındaki Küçük Süpürge'ye ekmek ve çörekler atardı. Küçük Süpürge ekmek ve çörekleri büyük bir iştahla yerdi, çünkü her zaman çok açtı. Süpürge zavallı ellerini ısıtmak için kırmızı eldivenler aldı ve zalim efendisinin onları ondan alıp sattığını öğrendiğinde ağladı.
 
 "Ah, Küçük Süpürge," derdi, "altın dolarlarım çorabı doldurduğunda, evleneceğiz ve artık geçitleri süpürmeyeceksin.
-Bunun yerine, evde temiz küçük bir kulübede oturup bana çorbalar demleyeceksin
-ve siyah yüzümü yıkamak için güçlü sabunlar yapacaksın. Sonra tatillerde ikimiz de
+Bunun yerine, evde temiz küçük bir kulübede oturup bana çorbalar demleyeceksin ve siyah yüzümü yıkamak için güçlü sabunlar yapacaksın. Sonra tatillerde ikimiz de
 tertemiz ve parlak bir şekilde yola çıkacağız."
 
 "Ah, lütfen acele et ve çok sayıda bacayı süpür ki,
@@ -2282,7 +2282,7 @@ Sweep Küçük Sweep için birkaç parça keten veya birkaç dantel parçası sa
 Şimdi bunu söylemek ilginç bir şey, ama yine de oldukça doğru,
 Sweep'in çorabı sonunda dolmuş olsa da ve hatta iki altın dolar daha fazla olsa da, Küçük Sweep hala soğuk
 çıplak tavan arasında yaşıyordu. Ve hala efendisi onu dövüyordu. Bunun sebebi şuydu. Sweep ve Küçük Sweep bir kulübe konusunda anlaşamıyorlardı. Sweep
-mesleğini icra edebilmek için çok sayıda bacası olan bir kulübe istiyordu. Öte yandan, küllerden ve bacalarla ilgili her şeyden nefret eden Küçük Sweep, tamamen cam kapı ve pencereleri olan
+mesleğini icra edebilmek için çok sayıda bacası olan bir kulübe istiyordu. Öte yandan küllerden ve bacalarla ilgili her şeyden nefret eden Küçük Sweep, tamamen cam kapı ve pencereleri olan
 ve hiç bacası olmayan bir ev istiyordu! Açıkçası bu ikisine uygun kulübe
 bulunmuyordu. Sonra Sweep akıllıca bir plan üzerinde karar kıldı.
 
@@ -2588,10 +2588,10 @@ sancakları altında savaşmaya teşvik ediliyor. Gel bana katıl, Sweep."
 Ama Sweep başını iki yana salladı. "İmparatoriçe Yelva için savaşmam uygun olmaz," diye cevapladı. "Siyah yüzüm bana sadece yüksek bacalardan aşağı süpürme
 işim için yakışır."
 
-"Ama yanılıyorsun, Sweep," diye savundu Usta Jasper; "savaşta siyah bir yüz pek önemli değildir. Güçlü yüreklere ve güçlü kollara çok ihtiyaç var. Gel, birlikte yürüyüp kardeşler gibi savaşalım."
+"Ama yanılıyorsun, Sweep," diye savundu Usta Jasper; "savaşta siyah bir yüz pek önemli değildir. Güçlü yüreklere ve güçlü kollara çok ihtiyaç var. Gel, birlikte yürüyelim ve kardeşler gibi savaşalım."
 
 Sweep yine başını iki yana salladı. "Gerçekten de, iyi Usta Jasper," diye cevapladı,
-"bütün kalbimle seninle bu vahşi kabileye karşı savaşıp güzel İmparatoriçe Yelva'ya yardım etmeyi diliyorum; ama ne yazık ki! Senden başka kim, siyah yüzlü bir
+"bütün kalbimle seninle bu vahşi kabileye karşı savaşmayı ve güzel İmparatoriçe Yelva'ya yardım etmeyi diliyorum; ama ne yazık ki! Senden başka kim, siyah yüzlü bir
 sweep'in yanında yürüyüp savaşmak ister?"
 
 "Bin kişi yapar! İki bin kişi yapar--Hayır! on bin kişi seninle birlikte yürümekten mutluluk duyardı, Sweep!" diye haykırdı yanlarındaki tiz, küçük bir ses.
@@ -2599,7 +2599,7 @@ Aşağıya baktığında, Sweep maşanın üzerinde tüneyen minik bir Red Cap g
 
 "Ah, Sweep!" diye devam etti Red Cap canlı bir şekilde, "Yedi yıl önce ilk tanıştığımızda sana hayran kalmıştım ve o zamanlar seni daha iyi tanımak
 istediğimi düşünmüştüm. Ancak, tüm bu yıllar boyunca benden bir dilek
-istemediğin için, seninle tanışmanın sevincini yaşayamadım. Biz Red Caps'liler," diye açıkladı, "çok güçlü insanlar olmamıza rağmen, ölümlülere görünmeden onlar bizim için bir dilek
+istemediğin için, seninle tanışmanın sevincini yaşayamadım. Biz Red Caps'liler," diye açıkladı, "çok güçlü insanlar olmamıza rağmen, ölümlülere görünmeden onlar da bizim için bir dilek
 istemezler, biliyorsun."
 
 "Bunu bilmiyordum," diye cevapladı Sweep kibarca, "yoksa seninle sohbet etmenin zevki için
@@ -2627,8 +2627,8 @@ işe yaramaz şeyler olacaktır."
 Şimdi o yolculuk hakkında anlatılacak fazla bir şey yok. Elbette, kahvaltı, akşam yemeği veya akşam yemeği zamanı geldiğinde, Red Caps ellerini çırptı ve her türlü güzel yiyecekle donatılmış bin masa belirdi.
 Gece çöktüğünde veya fırtına çıktığında, Red Caps aynı şekilde ovalarda on bin çadırlık bir şehrin ortaya çıkmasına neden oldu. Geçiş
 Sweep'leri tüm yürüyüşü bir tatil gibi geçirdiler. Daha önceki tüm sefil
-hayatlarında böyle güzel şeyler yememişlerdi. Çukur
-yanakları rüzgarlar ve güneşle dolgunlaştı ve pembeleşti ve Sweep'in kalbi arkadaşlarının başına gelen mutlu değişiklikleri görmekten sevinç duydu. Geceleri kamp ateşlerinin etrafında toplandıklarında, Geçiş Süpürgecileri Sweep'i öven yüksek sesle şarkılar söylüyorlardı. Sweep'in her zaman dostları olduğunu ve şimdi keyifli tatillerinin sebebi olduğunu ilan ettiler. Sweep ve garip ordusu Yelvaland'a doğru yürürken, oradaki insanlar derin bir umutsuzluğa kapılmıştı. Vahşi birlikler askerlerine savaşta o kadar çok dayak atmış ve o kadar acı cezalar vermişlerdi ki, cesaretlerini tamamen kaybetmişlerdi. O zaman, yardımlarına yürüyen dost bir kuvveti gördüklerinde duydukları büyük sevinci yargılayın.
+hayatlarında böyle güzel şeyler yememişlerdi. Çökük
+yanakları rüzgarlar ve güneşle dolgunlaştı ve pembeleşti ve Sweep'in kalbi arkadaşlarının başına gelen mutlu değişiklikleri görmekten sevinç duydu. Geceleri kamp ateşlerinin etrafında toplanıp oturduklarında, Geçiş Süpürgecileri Sweep'i öven yüksek sesle şarkılar söylüyorlardı. Sweep'in her zaman dostları olduğunu ve şimdi keyifli tatillerinin sebebi olduğunu ilan ettiler. Sweep ve garip ordusu Yelvaland'a doğru yürürken, oradaki insanlar derin bir umutsuzluğa kapılmıştı. Vahşi birlikler askerlerine savaşta o kadar çok dayak atmış ve o kadar acı cezalar vermişlerdi ki, cesaretlerini tamamen kaybetmişlerdi. O zaman, yardımlarına yürüyen dost bir kuvveti gördüklerinde duydukları büyük sevinci yargılayın.
 Fakat bu kalabalık yaklaştığında ve gerçekte ne tür bir ordu olduğunu anladıklarında, kalpleri tekrar çöktü.
 
 "Ah!" diye iç çekti bu cesareti kırılmış Yelvaland halkı, "yaklaşan bu perişan ayaktakımının vahşi birliklere karşı ne faydası olacak?"
@@ -2692,7 +2692,8 @@ kendi krallığının ormanları arasında evlerini kurmaya karar verdiler.
 
 "Ve şimdi, Süpürge," dedi İmparatoriçe Yelva, bütün bunlar yapıldığında, "sana verdiğim sözü
 unutmadım." Buna göre onu
-prens yaptı. Ünvanı Prens Süpürgemore'du ve Süpürge'nin alanı kibirli Prenses Cendre'nin alanından iki kat daha büyük ve iki kat daha zengindi. Süpürge artık kızıl kadife giymişti. İmparatoriçe Yelva hazinesinden ona, güneşte alev ve ateş saçan yakutlarla kaplı altın bir kılıç verdi. Ayrıca, hepsi altın ve inci dolu keselerle dolu yüz at ve ona hizmet edecek aynı sayıda hizmetçi verildi. Sonra Sweep, Prenses Cendre ile evlenmek için tekrar yola çıktı.
+prens yaptı. Ünvanı Prens Süpürgemore'du ve Süpürge'nin alanı kibirli Prenses Cendre'nin alanından
+iki kat daha büyük ve iki kat daha zengindi. Süpürge artık kızıl kadife giymişti. İmparatoriçe Yelva hazinesinden ona, güneşte alev ve ateş saçan yakutlarla kaplı altın bir kılıç verdi. Ayrıca, hepsi altın ve inci dolu keselerle dolu yüz at ve ona hizmet edecek aynı sayıda hizmetçi verildi. Sonra Sweep, Prenses Cendre ile evlenmek için tekrar yola çıktı.
 
 "Seni giderken görmek beni üzüyor, iyi Sweep," diye iç çekti İmparatoriçe Yelva ayrılırken, "ama yine de seni gitmeye çağıran sadık kalbine hayranım."
 
@@ -2914,18 +2915,23 @@ sıcacık küçük kulübeye ulaştıklarında, ne kadar da memnun oldular! Her 
 kafesteki kuş ötüyordu ve yastıktaki kedi mırıldanıyordu.
 Masa çay için her türlü güzel şeyle donatılmıştı.
 
-"Böğürtlenli turta! Böğürtlenli turta! Canım, hemen yiyelim!" diye bağırdı Kral Crosspatch ve dolapları ve kileri karıştırmaya başladı.
+"Böğürtlenli turta! Böğürtlenli turta! Canım, hemen
+içelim!" diye bağırdı Kral Crosspatch ve dolapları ve kileri karıştırmaya başladı.
 
 "Çayı yapana kadar bir dakika bekle," diye cevapladı Kraliçe Huysuz,
-mutfakta telaşla koşturuyordu. Çayı yaptı ve Kraliçe böğürtlenli turtayı buldu, sonra ikisi de akşam yemeğine oturdular. Masada her zaman
-çok güzel şeyler vardı. Soğuk kızarmış kümes hayvanları ve ayva reçelleri vardı; çilekli tartlar ve erik de vardı;
-taze tereyağı ve koyu tatlı krema vardı. Kraliçe Huysuz ve Kral Crosspatch hepsini yediler ve sonra tatlıyı düşünmeye başladılar!
+mutfakta telaşla koşturuyordu. Çayı yaptı ve Kraliçe böğürtlenli turtayı
+buldu ve sonra ikisi de akşam yemeğine oturdular. Masada her zaman
+çok güzel şeyler vardı. Soğuk kızarmış kümes hayvanları
+ve ayva reçelleri vardı; çilekli tartlar ve erik de vardı;
+taze tereyağı ve koyu tatlı krema vardı. Kraliçe
+Huysuz ve Kral Crosspatch hepsini yediler ve sonra tatlıyı düşünmeye başladılar!
 
-"Şimdi, canım, böğürtlenli turtanın tamamını kendim yesem sorun olur mu?" diye sordu Kral Crosspatch Kraliçe Huysuz'a. "Görüyorsun ya, böğürtlenli turtayı sadece kitaplarda okudum ve hayatımda hiç tatmadım."
+"Şimdi, canım, böğürtlenli turtanın tamamını kendim yememe izin verir misin?" diye sordu Kral Crosspatch Kraliçe Huysuz'a. "Görüyorsun ya, böğürtlenli turtayı sadece kitaplarda okudum ve hayatım boyunca hiç tatmadım."
 
 "Kesinlikle hayır, benim "Canım!" diye cevapladı Kraliçe Huysuz. "Daha önce hiç görmediğim veya tatmadığım
 bu zencefilli kekin hepsini yemeyi düşünüyorum." Ve
-bu yüzden bu asil yaşlı çift hem kiler hem de dolap boşalana kadar yemeye devam etti.
+bu yüzden bu asil yaşlı çift hem kiler hem de dolap
+boş kalana kadar yemeye devam etti.
 
 "Bu küçük kulübe ne kadar güzel ve ne kadar rahat!" dedi Kraliçe Huysuz,
 alev alev yanan kütüklerin önündeki bir sallanan sandalyeye oturarak.
@@ -2978,7 +2984,7 @@ kötü huylu görünüyorlardı.
 "Ah, işte buradasın!" diye haykırdı yaşlı adam, taş stilenin önünde durarak. "Şimdi bana şapkamı ver ve nefret dolu tacını geri al
 daha fazla saçmalamadan! Dün gece gözümü bile kırpamadım,
 çünkü başımda çok ağırdı. Ne kadar da nefret dolu bir saray! Daha önce hiç böylesini görmedim! Beraberimde getirdiğim
-çam ağacından pipomu içemedim ve bu sabah iki kötü adam tam olarak uyanmadan beni bir havuzda boğmaya çalıştı."
+çam ağacından pipomu içemedim ve bu sabah iki kötü adam tam olarak uyanmadan önce beni bir havuzda boğmaya çalıştı."
 
 "Seni boğmaya çalışmadılar," diye cevapladı Kral Crosspatch kibirle. "O havuz bir hamamdı. İşte şapkan; tacımı bana ver."
 
@@ -3036,18 +3042,18 @@ Bir zamanlar yeşil bir çayırda sürüsüne bakan bir kaz kızı varmış. Ça
 doluymuş ve güneş üzerine parlıyormuş; kazları güzel mavi kazlarmış ve
 olağanüstü bilgiliymiş. Dünyanın en mutlu kaz kızı olması gerekirmiş ama öyle değilmiş. Ne güzel çayırı ne de
 bakımı zevkli olan kazlarını düşünüyormuş, çünkü onlar çok bilgeymiş ve
-her zaman onun emrini yerine getiriyorlarmış; ama bunun yerine bu kaz kızı her gün ağlıyormuş, çünkü yüksek bir tepenin tepesindeki gri taştan bir şatoda yaşayan bir lordla evlenmeyi özlüyormuş. Bütün gün bu kaleye bakarak oturdu ve gözleri hayranlıktan başka bir şey göremiyordu. Günde yüzlerce kez rüya görüyordu, bu rüyalarda lordla evleniyor ve kazlarına bakmak zorunda olduğu için onlara kızıyordu.
+her zaman onun emrini yerine getiriyorlarmış; ama bunun yerine bu kaz kızı her gün ağlıyormuş, çünkü yüksek bir tepenin tepesindeki gri taştan bir şatoda yaşayan bir lordla evlenmeyi özlüyormuş. Bütün gün bu kaleye baktı ve gözleri hayranlıktan başka bir şey göremedi. Günde yüzlerce kez rüyalar gördü, bu rüyalarda lordla evlendi ve kazlarına bakmak zorunda olduğu için onlara kızdı.
 
-Şimdi kalenin lordu yeşil çayırda at sırtında gezerken, bu aptal kaz kızı arabanın peşinden koşuyor, adını bağırıyor ve ona kır çiçeklerinden oluşan buketler
-atıyordu. Ama ne yazık ki! Araba her zaman
-o kadar hızlı dönüyordu ki lord onu duymuyordu ve kır çiçeklerinden oluşan buketler
-yol kenarındaki toza düşüyordu. Kaz kızı her seferinde
-ağlıyor ve hayal kırıklığına uğradığı için kazlarına çubuklar atıyordu,
+Şimdi kalenin lordu yeşil çayırda at sırtında gezerken, bu aptal kaz kızı arabanın peşinden koşar, adını haykırır ve ona kır çiçeklerinden oluşan buketler
+atardı. Ama ne yazık ki! Araba her zaman
+o kadar hızlı dönerdi ki lord onu duymazdı ve kır çiçeklerinden oluşan buketler
+yol kenarındaki toza düşerdi. Kaz kızı her seferinde
+ağladı ve hayal kırıklığına uğradığı için kazlarına çubuklar fırlattı,
 ta ki onlar sığınmak için kaçana kadar.
 
 "Bu aptal arabacının suçu," dedi kaz kızı bir gün, arabayı uzun bir mesafe kovaladıktan sonra. "Lordum
-elbette içeride ve beni duyamıyor, çünkü cam pencereler tüm sesleri
-kapatıyor. "Kızların, hoşlandıkları kişilerle konuşamadıklarında sık sık mektup yazdıklarını biliyordu ve gri taş kalenin efendisine yazmaya karar verdi.
+elbette içeride ve beni duyamaz, çünkü cam pencereler tüm sesleri
+kapatıyordu. "Kızların, hoşlandıkları kişilerle konuşamadıklarında sık sık mektup yazdıklarını biliyordu ve gri taş kalenin efendisine yazmaya karar verdi.
 
 Yıllık kazancını, kenarlarına sevgiyle kırmızı kalpler işlenmiş pembe bir kağıda harcadı ve mektubunun renkli ve muhteşem olması için biraz da mor mürekkep aldı. Sonra kaz kız düz bir kayanın önüne oturdu ve efendiye öyle bir mektup yazmaya çalıştı ki
 bir dahaki sefere çayırdan geçerken arabasını durdursun.
@@ -3163,8 +3169,7 @@ küçükmüş ki, onu ağacında zıplayıp dururken görseydiniz,
 onu canlı, küçük bir kahverengi sincap sanırdınız. Küçük
 Kahverengi Adam her zaman bir arı kadar meşgul ve iki kat daha neşeliydi. Günlerini solmuş çam iğnelerini süpürerek geçirirdi, böylece taze yeni yeşil iğneler büyüyebilirdi. Kurnaz elleri ve sihir güçleriyle, kabuktaki
 kırık yerleri şifalı otlarla onardı. Küçük
-Kahverengi Adam geceleri işlerinden dinlenirdi. Uzun Çam Ağacı'nın en üst dallarına kıvrılırdı ve ağaç onu nazikçe sallar ve ona deniz hakkında
-şarkılar söylerdi.
+Kahverengi Adam geceleri işlerinden dinlenirdi. Uzun Çam Ağacı'nın en üst dallarına kıvrılırdı ve ağaç onu nazikçe sallar ve ona deniz hakkında şarkılar söylerdi.
 
 Böylece, elimden zar zor daha büyük olan Küçük
 Kahverengi Adam ve o kadar yüksekteki Uzun Çam
@@ -3408,7 +3413,7 @@ erişemeyecekleri kadar uzaktaydı. Çite ulaştığında büyük bir sıçrayı
 doğrudan sebze bahçesine indi.
 
 "Hadi, siz Şalgamlar! Hadi, siz Havuçlar!" diye seslendi Balkabağı, yuvarlanırken. Onun sözleri üzerine Havuçlar ve Şalgamlar
-yataklarından fırladılar ve bağırarak onu takip ettiler.
+yataklarından fırlayıp onu takip ettiler, bağırarak.
 
 "Hadi! Hadi!" diye bağırdı Balkabağı ve Pastırma Havuçları ve Pancarlar Havuçlar ve Şalgamları takip etti.
 
@@ -3643,15 +3648,15 @@ kaçtığı ünlü yeri görmeye giderdi; ve bugüne kadar o topraklarda lahana,
 uzaktaki bir noktasında lahanalar, balkabakları ve benzeri tüm sebzeler
 yabani olarak yetişir.
 
-Her yıl, Cadılar Bayramı hasat zamanını işaretlemek için geldiğinde, Antone ve Babette cadıyla birlikte süpürgeye biner ve Cadılar Bayramı eğlencesine doğru yola çıkarlardı. Orada Balkabağı'nın her zaman bir önceki yıldan daha yuvarlak ve neşeli olduğunu görürlerdi ve her zaman şafak sökerken gökyüzünden geçerek eve dönerlerdi. Kara kedi Babette'e o kadar düşkün oldu ki
-bir daha asla gerçek efendisine katılmadı, fakat
-oduncu ve ailesiyle birlikte kaldı ve onlara hayatlarının geri kalanında
+Her yıl, Cadılar Bayramı hasat zamanını işaretlemek için geldiğinde, Antone ve Babette cadıyla birlikte süpürgeye biner ve Cadılar Bayramı eğlencesine doğru yola çıkarlardı. Orada Balkabağı'nın her zaman bir önceki yıldan daha yuvarlak ve neşeli olduğunu görürlerdi ve her zaman şafak sökerken gökyüzünden geçerek evlerine dönerlerdi. Kara kedi Babette'e o kadar düşkün oldu ki
+bir daha asla gerçek efendisine kavuşmadı, ancak
+oduncu ve ailesiyle birlikte kaldı ve onlara kalan günlerinde
 iyi şans getirdi.
+
+Project Gutenberg'in Loretta Ellen Brady'nin Yeşil Orman Peri Kitabı'nın sonu
 
 .
 *** END OF TURKISH PART ***
-End of Project Gutenberg's The Green Forest Fairy Book, by Loretta Ellen Brady
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE GREEN FOREST FAIRY BOOK ***
 
 ***** This file should be named 35458.txt or 35458.zip *****

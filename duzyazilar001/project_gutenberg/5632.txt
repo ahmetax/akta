@@ -4,6 +4,7 @@ Yazar: Margaret Sidney
 Yayın Tarihi: May, 2004
 Dil: English
 Link: https://www.gutenberg.org/ebooks/5632
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 The Project Gutenberg EBook of Five Little Peppers Midway, by Margaret Sidney
 
@@ -27,6 +28,7 @@ Language: English
 Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK FIVE LITTLE PEPPERS MIDWAY ***
+
 *** START OF TURKISH PART ***
 Juliet Sutherland, Charles Franks ve
 Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir.
@@ -58,8 +60,8 @@ Bu Kitap Sevgiyle Yazılmıştır
 14 Mamsie'nin Düğünü
 15 Bayan Chatterton'ın Yeni Bir Planı Var
 16 Phronsie Nerede? 17 Phronsie Bulundu
-18 Kızlar Tekrar Polly'ye Kavuştu
-19 Phronsie Tekrar İyi
+18 Kızlar Polly'yi Tekrar Yanlarına Aldı
+19 Phronsie Tekrar İyileşti
 20 Sır
 21 Whitney'lerin Küçük Planı
 22 Joel
@@ -79,7 +81,8 @@ PHRONSIE'NİN TURTA
 
 "O kadar erikli olacak ki," dedi Jefferson ikna edici bir şekilde, "böyle birini hiç zengin görmediğinizi düşüneceksiniz. Aman Tanrım! Ne turta olacak!" diye haykırdı aşçı, hayali bir turtaya zevkten kasılarak bir gözünü kapatıp diğerinden baktı; "Demek Bayan Mary için, öyle mi?"
 
-"Evet," dedi Phronsie, "öyle. Ah, Jefferson, benim yapmamı istediğine çok sevindim," ellerini sessizce vecd içinde kavuşturdu ve biraz düşünmek için en alt basamağa oturdu, Jefferson ona baktı, ıssız topraklarda geri dönmekte geciktiği için aşçının öfkelendiğini unutarak. Sonunda saygıyla eğilerek, "Lütfen, Bayan, başlama zamanı geldi. Böyle bir pasta çok fazla özen gösterilmeden yapılmaz ve en kısa sürede pişirmemiz en iyisi." dedi.
+"Evet," dedi Phronsie, "öyle. Ah, Jefferson, benim yapmamı istediğine çok sevindim," ellerini sessizce vecd içinde kavuşturdu ve biraz düşünmek için en alt basamağa oturdu, Jefferson ona baktı, ıssız topraklarda geri dönmekte geciktiği için aşçı yardımcısının öfkelendiğini
+unutarak. Sonunda saygıyla eğilerek, "Lütfen, Bayan, başlama zamanı geldi. Böyle bir pasta çok fazla özen gösterilmeden yapılmaz ve en kısa sürede pişirmemiz en iyisi." dedi.
 
 "Evet," dedi Phronsie, merdivenden inip elini onun büyük siyah avucuna teslim ederek, "hemen şu anda gitmeliyiz. Ama önlüğümü giymeliyim;" durdu ve kırmızı elbisesine baktı.
 
@@ -94,7 +97,7 @@ aşağıda kalmaya uygunum," demeyi başardı.
 Phronsie, "çok daha iyi. Sen herkes gibi değilsin,
 sadece kendinsin," elini tutarak.
 
-"Eh, Bayan, ben sadece bir zambak gibi dokunulabilecek biri değilim ve bu gerçek," küçük beyaz elin sıkıca kavradığı avucuna baktı. "Temiz, Bayan," diye ekledi affedilebilir bir gururla, "ama
+"Eh, Bayan, ben sadece bir zambak gibi dokunulmaya uygun değilim ve bu gerçek," küçük beyaz elin sıkıca kavradığı avucuna baktı. "Temiz, Bayan," diye ekledi affedilebilir bir gururla, "ama
 çok siyah."
 
 "Ben siyahını daha çok seviyorum, Jefferson," dedi Phronsie tekrar, "gerçekten ve kesinlikle seviyorum, çünkü o zaman bu senin, tam da senin oluyor," sanki bir kraliçe onu oracıkta şövalye ilan etmiş gibi onu çok heyecanlandıran bir tonla. Bu önemli açıklama bittikten sonra ikisi mutfağa doğru yola koyuldular, Phronsie elini tutuyordu ve genel olarak turtalar hakkında çeşitli yorumlarda bulunarak, eğer bu mevcut turta başarılı olursa, yakında denenecek olan turtalar hakkında neşeyle sohbet ediyorlardı ve çok geçmeden aşçının en beyaz önlüklerinden birine bağlanmıştı, fırın masasının ucuna gereken ciddiyetle oturmuştu, önünde uygun mutfak gereçleri ve malzemeler hoş bir karmaşa içindeydi ve mutfağın alt sıra uyduları onun etrafında dönüyordu ve Jefferson daha alt seviyedeki küreydi.
@@ -178,9 +181,9 @@ yemeyi tercih ederim, gerçekten isterim, Büyükbaba, olur mu?" Sarı başını
 Sevgili Büyükbaba, tıpkı Jefferson'ın benimkini tek başıma yaptığı gibi. Lütfen
 bırak." Gözleriyle onu sıkıca tuttu ve cevabını bekledi.
 
-"Öyleyse yapacaksın!" diye haykırdı Bay King büyük bir memnuniyetle, "benimkini tek başına yap. Bu olduğu gibi daha iyi gider. Unu ve diğer şeyleri kaldır, Jefferson; Bayan Phronsie onları istemiyor."
+"Öyle yap!" diye haykırdı Bay King büyük bir memnuniyetle, "benimkini tek başına yap. Bu olduğu gibi daha iyi gider. Unu ve diğer şeyleri kaldır, Jefferson; Bayan Phronsie onları istemiyor."
 
-Phronsie rahatlamış bir şekilde iç çekti. "Ve Jefferson, eğer bana nasıl yapılacağını göstermeseydin, bu dünyada asla Büyükbaba'nınkini yapamazdım. Şimdi
+Phronsie rahatlamış bir şekilde içini çekti. "Ve Jefferson, eğer bana nasıl yapılacağını göstermeseydin, bu dünyada asla Büyükbaba'nınkini yapamazdım. Şimdi
 bana küçük tabağı ver, yap."
 
 "İşte, Bayan," dedi aşçı, yaptığı hatadan dolayı duyduğu tüm titreme kaybolarak, çünkü her şey
@@ -213,21 +216,21 @@ aşarak. "Hadi, işte şimdi buradayız. Vay canına! Bu ev
 sıcak!"
 
 Ama Polly'den hiçbir tehlike yoktu; tam o anda, Phronsie'yi bulamayınca, Bayan Whitney'i aramak için
-kütüphaneye doğru aceleyle koştu. "Çok güzel bir şey yapmak istiyoruz!" diye bağırdı, içeri dalarak, yanakları alev alev. "Ah! Lütfen beni mazur görün." Aniden durdu, kızardı.
+kütüphaneye doğru aceleyle koştu. "Çok güzel bir şey yapmak istiyoruz!" diye bağırdı, yanakları alev alev içeri dalarak. "Ah! Lütfen beni mazur görün." Aniden durdu, kıpkırmızı oldu.
 
 "Kendini kötü hissetme, canım Polly," dedi Bayan Whitney, loş ışıkta, divanın doğu penceresine çekildiği yerde, elini uzatıp gülümsedi; baş başa görüşmesi bu şekilde
 rahatsız olan diğer bayan yaşlıydı, çok uzun boylu ve köşeliydi. Bu müdahale karşısında gözlüğünü taktı ve "Ah?" diye mırıldandı.
 
 "Bu Polly Pepper," dedi Bayan Whitney, Polly alışılmadık şekilde garip ve utangaç hissederek, kütüphaneden geçip onu bekleyen nazik
-kollara girmek için sendeleyerek ilerlerken.
+kollara girmek için sendeledi.
 
-"Bu evde nezaketinizin kabul ettiği çocuklardan biri mi?" dedi uzun boylu bayan, gözlüğünü iyi kullanarak. Polly'nin zaten pembe olan yanağında, şimdi devam eden incelemede, renk sabit bir şekilde yükseldi.
+"Bu evde nezaketinizin kabul ettiği çocuklardan biri mi?" dedi uzun boylu bayan, gözlüğünü iyi kullanarak. Polly'nin zaten pembe olan yanağında, şimdi en büyük özgürlükle devam eden incelemede renk sabit bir şekilde yükseldi.
 
 "Bu evi hepimiz için güneşli bir yer yapan sevgili çocuklardan biri," dedi Bayan Whitney belirgin bir şekilde.
 
 "Ah? Anlıyorum. Bunu bu şekilde ifade etmek son derece iyi." Bu konuşmayı alçak, iyi huylu bir kahkaha izledi. Sesi genç kızın kulağını tarifsiz bir şekilde rahatsız etti ve kahverengi gözler parladı ve kendisine hitap edilmeyen bir şeyi hissetmesi için gerçekten hiçbir sebep olmasa da, Polly önündeki hanımdan kesinlikle hoşlanmadığından oldukça emindi.
 
-"Sevgili Bayan Chatterton," dedi Bayan Whitney en nazik aksanıyla, "anlayamazsınız; hepimizin burada ne kadar mutlu olduğumuzu anlamanız mümkün değil. Ev, yurtdışına gitmeden önce gördüğünüz evden oldukça farklı bir yer, sizi temin ederim."
+"Sevgili Bayan Chatterton," dedi Bayan Whitney en nazik aksanıyla, "anlayamazsınız; hepimizin burada ne kadar mutlu olduğunu anlamanız mümkün değil. Ev, yurtdışına gitmeden önce gördüğünüz evden oldukça farklı bir yer, sizi temin ederim."
 
 Bayan Chatterton yine alçak, tatsız bir kahkaha attı ve bu sefer omuzlarını silkti.
 
@@ -238,8 +241,8 @@ Bayan Chatterton yine alçak, tatsız bir kahkaha attı ve bu sefer omuzlarını
 "Günaydın," ve Polly kendini bir kez daha yerde buldu ve
 güvenli bir şekilde koridorda, aralarındaki kapı kapandı.
 
-"Kim o?" diye öfkeli bir spazmla bağırdı Jasper'a, koşarak geldi
-ve gözlerini ona tamamen yeni bir şeyle doldurdu.
+"Kim o?" diye öfkeli bir spazmla bağırdı Jasper'a, koşarak geldi ve
+gözlerini onun için tamamen yeni bir şeyle doldurdu.
 
 Adam dehşet içinde durdu.
 
@@ -285,7 +288,7 @@ akraba, biliyorsun."
 geri dönmüş olabilir, ne yapacağını kimse bilemez.
 Bu arada, karargahını burada yapacağını düşünüyorum," dedi kasvetli bir şekilde.
 
-"Ah, Jasper!" diye haykırdı Polly, kolunu tutarak, burada gerçekten bir teselliye ihtiyaç olduğunu hissederek, "ne kadar da korkunç! Onu
+"Ah, Jasper!" diye haykırdı Polly, kolunu tutarak, burada gerçekten de bir teselliye ihtiyaç olduğunu hissederek, "ne kadar da korkunç! Onu
 alıp götürecek bir şey olacağını mı sanıyorsun?"
 
 "Ne olabileceğini göremiyorum," dedi Jasper, getirdiği teselliyi hissetmek için kasveti uzatarak. "Görüyorsun ya, araya girip bizi rahatlatacak kimse yok. İki yeğeni var ama ah! Onları dövüşürken görmelisin!"
@@ -298,7 +301,7 @@ Jasper, iğrenerek. "Yani, onu kalmaya tenezzül ettiği sürece tutma şansım�
 Polly, konuşamayan bir dehşet içinde koluna sarıldı. Bu arada, kütüphanede kapalı olan
 ikisi arasında hızlı ve canlı bir konuşma devam ediyordu.
 
-"Senin itibarını çok sarstı, Marian," dedi Bayan Chatterton, yüksek ve soğuk bir sesle, "babanın tüm bu saçmalıklarını, onları bu eve yerleştirme noktasına gelmeden önce durdurmamış olman."
+"Senin itibarını çok sarstı, Marian," dedi Bayan Chatterton, yüksek ve soğuk bir sesle, "babanın bu saçmalıklarını, onları bu eve yerleştirme noktasına gelmeden önce durdurmamış olman."
 
 "Tam tersine," dedi Bayan Whitney hafifçe gülerek, "babamın akıllıca yaptığı planı ilerletmek için elimden gelen her şeyi yaptım."
 
@@ -337,7 +340,7 @@ II
 
 KUZEN EUNICE CHATTERTON
 
-Phronsie küçük bir elini yanına bıraktı ve ziyaretçiye
+Phronsie küçük elini yanına bıraktı ve ziyaretçiye
 karşı kıpırdamadan durdu.
 
 "Aman Tanrım," diye haykırdı Bayan Chatterton, zarafetinden
@@ -355,7 +358,7 @@ Bayan Chatterton kendini toparladı ve üstün bir şekilde gülümsedi.
 "Aman Tanrım, aman Tanrım!" diye haykırdı Bayan Chatterton, ellerini kaldırarak, "kendini bu kadar aşağılayabildiğini düşünmek; neden, aslında kirli küçük elleriyle gömleğinin önünü karıştırıyor!"
 
 "Phronsie Pepper'ın elleri asla kirli olmaz, Madam," dedi yaşlı beyefendi ciddi bir şekilde. "Otur, çocuğum," Phronsie alarm halindeyken, kucağından aşağı kaymaya çalışırken, söz konusu iki üyeyi
-önceden öne doğru itti.
+önceden iterek.
 
 Bayan Chatterton yüksek sesle gülmeye başladı. "Horatio King'i böyle bir durumda gördüğümü düşünmek! Jasper Horatio King!" diye tekrarladı alaycı bir şekilde. "Bunu Bascomb'ların mektuplarından duydum, ama
 gözlerimi kullanana kadar inanmazdım. Kesinlikle korkunç!"
@@ -412,7 +415,7 @@ kendisine ait olmayan şeyleri seçen."
 Phronsie kıpırdamadan durdu ve başını uzun boylu
 şekle doğru ciddi bir şekilde salladı. "Bu hoş değildi," dedi ayık bir şekilde.
 
-"Şimdi kalmasını mı istiyorsun?" diye bağırdı yaşlı beyefendi.
+"Şimdi onun kalmasını mı istiyorsun?" diye bağırdı yaşlı beyefendi.
 
 "Dayanılmaz!" diye tekrarladı Bayan Chatterton dişlerinin arasından, "beni o
 saçmalıkla karıştırmak!"
@@ -497,7 +500,8 @@ mutlu olduğumuzu göstermek için ne yapardın--hey?"
 
 "Küçük bir oyun oynamak istiyoruz," dedi Polly, "Jasper ve ben, ve onu canlandıralım."
 
-"Ve müzik," diye bağırdı Jasper. "Polly piyano çalacak. Çocuklar onun ne kadar ilerlediğini görünce çok sevinecekler."
+"Ve müzik," diye bağırdı Jasper. "Polly piyano çalacak. Çocuklar onun ne kadar ilerlediğini
+gördüklerinde çok sevinecekler."
 
 "Ve Jasper da çalacak," diye bağırdı Polly hevesle. "Ah, Jasper! Mary Gibbs geçen hafta çaya geldiğinde çaldığın konçertoyu çalar mısın? Çal, Jasper, çal."
 
@@ -522,14 +526,14 @@ mutluydu.
 olabilecek en iyi şekilde olacak sanırım. Sırada ne var, Polly?"
 
 "Bu mükemmel bir sürpriz olarak kalmalı," diye bağırdı Polly, ellerini kavuşturarak,
-yüzüne renk gelirken. "Hiç kimse, çocuklar buraya geldiğinde, Noel'den önceki gün, birbirine fısıldamamalı bile, çünkü Joel
-bir sır olduğunda çok
+yüzüne renk gelirken. "Çocuklar buraya geldiğinde, Noel'den önceki gün kimse birbirine fısıldamamalı, çünkü Joel
+her ne zaman bir sır olsa çok
 korkunçtur."
 
 "Onun kapasitesi kesinlikle iyi," dedi Bay King kuru bir şekilde. "Hepimiz çok
 dikkatli olacağız."
 
-"Ve Phronsie, Prenses Clotilde olacak," diye bağırdı Jasper, onu aniden yakalayıp, tıpkı eski zamanlardaki gibi
+"Ve Phronsie Prenses Clotilde olacak," diye bağırdı Jasper, onu aniden yakalayıp, tıpkı eski zamanlardaki gibi
 odada dörtnala koşturdu.
 
 "Ah, Jasper! Ben sekiz yaşındayım," diye bağırdı, kendini
@@ -542,7 +546,7 @@ babanın önüne koy. Tamamen altüst olacak."
 eşyalarını saklasan iyi olur."
 
 "Jasper ejderhalardan biri olacak," diye duyurdu Polly, tam da kendi
-elindeki gibi, "yani baş ejderha; Ben de bir diğeri olacak ve üçüncüsünü Archy Hurd'den mi yoksa Clare'den mi alacağımıza henüz karar vermedik."
+elindeki gibi, "yani baş ejderha; Ben de bir diğeri olacak ve üçüncüyü Archy Hurd'den mi yoksa Clare'den mi alacağımıza henüz karar vermedik."
 
 "Clare'in içinde en fazla 'hareket' var," dedi Jasper eleştirel bir şekilde.
 
@@ -554,7 +558,7 @@ Jasper?"
 "Şimdi bize izin vereceğini bildiğimize göre," diye haykırdı Polly coşkuyla, "neden, muhteşem şeyler düşünebiliriz. Şimdiye kadar sadece
 yazılmış oyun, efendim."
 
-"Polly en çok yazdı," dedi Jasper.
+"Polly en çok yazan," dedi Jasper.
 
 "Ah, hayır, Jasper! Ben sadece parçaları koydum," dedi Polly. "O mu planladı?--her bir parçayı Jasper yaptı."
 
@@ -607,7 +611,7 @@ Ne kadar güzel!"
 "O mor kağıdı dikmezsen ben de prenses olamaz mıyım?" diye sordu
 Phronsie, Polly'ye dehşet içinde bakmak için aniden durarak.
 
-"Elbette olabilirsin," dedi Polly, "ama üzerinde bir tutam kraliyet moru varmış gibi
+"Evet, olabilirsin, elbette," dedi Polly, "ama üzerinde bir tutam kraliyet moru varmış gibi
 o kadar iyi olamazsın. "Biraz mendil kağıdı prenses olmanın şanına ne katar?" diye haykırdı, ışıldayan gözlerle. "Aman Tanrım, keşke ben de olabilseydim."
 
 "Eh, alabilirsin, Polly," dedi Phronsie iç çekerek, "sonra
@@ -623,14 +627,15 @@ Phronsie tekrar iç çekti. Fakat Polly kraliyetten bu kadar çok hoşlandığı
 hemen önündeki zevkin beklentilerine kendini verdi,
 tüm önemsiz düşünceleri bastırdı.
 
-"Teyzenin elmas yüzüklerinden birini diktiğin küçük gümüş şapkanı taktığında, neden, hiçbir şey için fazla muhteşem olacaksın," dedi Polly, şimdi "mor çizgi" yaklaştığı için taze bir coşkuyla çekip okşayarak.
+"Teyzenin elmas
+yüzüklerinden birini diktiğin küçük gümüş şapkanı taktığında, neden, hiçbir şey için fazla muhteşem olacaksın," dedi Polly, şimdi "mor çizgi" yaklaştığı için taze bir coşkuyla çekip okşayarak.
 
 "Prensesler, elmas yüzükler dikilmiş gümüş şapkalar takmazlar," diye gözlemledi Phronsie bilgece.
 
 "Elbette hayır; sepet sepet elmasları var ve şapkalarının parlaması için yüzük dikmelerine gerek yok," dedi Polly, hızla örerek ve iğneleyerek, "fakat bir oyun için giyinirken, şiirsel bir lisans almamız gerekiyor. İşte, sadece bir parça sağa dön, sevgili Phronsie."
 
 "Şiirsel özgürlük nedir?" diye sordu Phronsie, hayal gücünü
-elmas yığınından çekip pratik bilgileri yakalamak için.
+elmas yığınından çekip pratik bilgileri yakalamak için zorlayarak.
 
 "Ah! Bir adam şiirler yazıp da öyle olmayan şeyler söylediğinde," dedi Polly, aklı önündeki birçok ayrıntıda.
 
@@ -671,12 +676,12 @@ bir tutam kraliyet moru olacak ve trenine yetişecek."
 
 "Bu çok güzel olacak, hiç şüphem yok," dedi Jasper, kendini soğuk bir eleştirmene dönüştürmeye çalışarak, "ama bana öyle geliyor ki şimdi neredeyse mükemmel, Polly."
 
-"Ah! çok teşekkür ederim," diye haykırdı yanakları çiçek açmış bir şekilde. "Nasıl buldunuz, Clare ve Bensie?"
+"Ah! çok teşekkür ederim," diye bağırdı yanakları çiçek açmış bir şekilde. "Nasıl buldunuz, Clare ve Bensie?"
 
 "Anlayamıyorum," dedi Ben, Prenses'i her tarafından yavaşça süzerek;
 "çok dönüştürücü."
 
-"En iyisi!" diye haykırdı Clare. "Hayal ettiğim her prensesten daha prenses."
+"En iyisi!" diye bağırdı Clare. "Hayal ettiğim her prensesten daha prenses."
 
 "Eh, harika bir rahatlama," dedi Polly, "sizin gelmeniz çok güzel.
 Üzerinde o kadar çok çalıştım ki, korkunç olduğunu söylemeye hazırdım. Çok kötü, değil mi, Dick bugün burada olup rolünü prova edemiyor?"
@@ -726,17 +731,17 @@ utanmalısın," dedi ve kahverengi başını ona sertçe salladı.
 
 "Eğer böyle bir melodramı en baştan söndürmezsem," dedi Clare, "hepimizi mahvedecek. Güzel hanımlar ve cesur beyler," Jasper'ın tonlarını mükemmel bir şekilde taklit ederek.
 
-"Bir ipucu için teşekkür ederim," diye haykırdı Jasper kalemini çıkarırken. "Ben 'güzel' demedim; bu 'nazik'ten daha iyidir. Keşke eleştirmenler her zaman 
-bir iyi fikir verecek kadar yararlı olsalardı. Heyho! İşte yine başlıyor:
+"Bir ipucu için teşekkür ederim," diye haykırdı Jasper kalemini çıkarırken. "'Güzel' demedim; bu 'nazik'ten daha iyidir. Keşke eleştirmenler her zaman iyi bir fikir verecek kadar
+yararlı olsalardı. Heyho! İşte yine başlıyor:
 
 "'Güzel hanımlar ve cesur beyler,
 Oyuncunun sanatı eğlendirmektir,
-Eğitmek, ya da çok fazla iyi tavsiyeyle,
+Eğitmek veya çok fazla iyi tavsiyeyle,
 Ama kötü bir şekilde vermek:
 Kimsenin uymadığı, çünkü, gerçekten,
 Ona, boynundan topuklarına atılıyor.
 Dram, saf ve basit, unutuluyor
-Ahlaki değerleri çekiştirirken"?
+Ahlaki olanı çekiştirirken"?
 
 "'Çekme'yi daha zarif bir şeye çevireceğini sanıyordum," dedi Polly.
 
@@ -786,7 +791,7 @@ Bilirsin ya, dolgu malzemesi, canım efendim."
 
 "Ah!" Ben tam olarak şöyle dedi, "Dolguya ihtiyacın olduğunu bilmiyordum. Tamam, eğer gerekliyse." "Antika ve mükemmel derecede güzel ve tıpkı Shakespeare gibi," diye bağırdı Polly, Ben'i endişeyle izlerken.
 
-"Ah! Avon Şairi'nin bu prodüksiyonda bir söz hakkı olsun," diye bağırdı
+"Ah! Avon Şairi'nin bu yapımda bir söz hakkı olsun," diye bağırdı
 Clare. "Hadi, yap, 'ağlamanla merhamet et. 'Sırada ne var, Jap?"
 
 "İstekli misin, Ben?" diye sordu Jasper, Polly'ye bir bakış atarak.
@@ -795,12 +800,12 @@ Clare. "Hadi, yap, 'ağlamanla merhamet et. 'Sırada ne var, Jap?"
 dolgu olarak kullanılabilir."
 
 "Ah! Çok sevindim," diye haykırdı Polly neşeyle ve odanın etrafında
-dandı. "Ve pişman olmayacaksın, biliyorum, Bensie; seyirciler neredeyse eminim ki
+dövünerek. "Ve pişman olmayacaksın, biliyorum, Bensie; seyirciler neredeyse eminim ki
 buna alkış tutacak," bu da Jasper'ın sertçe
 bir şeyler kararlaştırmasını sağladı.
 
 "Bu gidişle asla bitiremeyeceğim," dedi, yerini bulmak için
-el yazmasını hızla çevirerek. "Ah! İşte buradayım:
+el yazması üzerinde dönerek. "Ah! İşte buradayım:
 
 "'Ama merhamet edin, beyler ve hanımlar,
 Biz sadece ejderha olmayı amaçlıyoruz,
@@ -826,14 +831,14 @@ güzel saten elbisesi."
 Tatlı ve zarif bir Clotilde,
 Ve ona saygı gösteren bir şövalye,
 Ama geri kalanımız
-Balık gibi, pullu,
+Balık gibiyiz, pulluyuz,
 Azgın ve tamamen korkunç,
-Ve çok düşük dereceliyiz,
+Ve çok düşük dereceliyiz
 Tahtalarda olmamızın nedenini kim bilir,
 Sizin eğlenceniz dışında,
 Rica ederim'"?
 
-"Dur!" diye bağırdı Clare, "ne gibi şeyler."
+"Dur!" diye bağırdı Clare, "ne saçmalık."
 
 "Bana bir santim zaman ver," diye bağırdı Jasper, aceleyle devam ederek, "ve bu sefaleti sona erdireceğim:
 
@@ -842,8 +847,8 @@ Eğer sen değilsen, biz mahvoluruz,
 Ve bütün emeğimiz boşa gider. Lütfen gülün ve yanlarınızı sallayın,
 Ve "iyi;
 İnanıyorum ki, çok iyi." deyin.
-Ve diyeceğiz ki
-"Zekanız size itibar ediyor."
+Ve biz de
+"Zekanıza güvenin." diyeceğiz.
 Ve böylece size sevgi dolu bir veda ediyoruz,
 Ve ejderhaları serbest bırakmak için acele ediyoruz,
 Hâlâ dışarıda kükreyenler."
@@ -932,7 +937,7 @@ eve dönüş yaşayacaklar."
 
 Bayan Whitney gülümsedi ve devam etti:
 
-"Şimdi bu davetiyeleri göndereceğim" -listeyi ona doğru itti- "Salonun ve müzik odasının zeminlerini kaplatacağım ve tüm ekstra koltukları ayarlayacağım, Turner'a çiçekler konusunda tam yetki vereceğim, eğer kendi seralarımızdan yeterince mobilya getiremezse - ve
+"Şimdi bu davetiyeleri göndereceğim" -listeyi ona doğru itti- "Salonun ve müzik odasının zeminlerini kaplatacağım ve tüm ekstra koltukları ayarlayacağım, Turner'a çiçekler konusunda tam yetki vereceğim, eğer kendi seralarımızdan yeterince getiremezse - ve
 akşam Jasper'ın dediği gibi güzel bir 'örtüyle' sona erecek. Kısacası, çocukların tatilini keyifli hale getirme çabalarını, bu konuda elimden geldiğince onlara yardım ederek takdir edeceğim." Yaşlı beyefendi şimdi büyük koltuğuna yaslandı ve kızının yüzünü inceledi.
 
 "Ve asla pişman olmayacaksın, baba," diye haykırdı, onu tatmin eden bir coşkuyla, "çünkü bu gençlerin hepsi sana gelecekte bin katını geri ödeyecekler, inanıyorum."
@@ -970,19 +975,22 @@ gördük. Bilirsin, küçük kahverengi ev
 bize bunu öğretti."
 
 "Öyle de oldu," dedi Polly neşelenerek. "Sevgili küçük eski kahverengi ev,
-bunu nasıl unutabilirim! Eh, sanırım," iç çekerek, "onları onarma zamanı geldiğinde bize ilham kaynağı olacak."
+bunu nasıl unutabilirim! Eh, sanırım," iç çekerek, "onları
+düzeltme zamanı geldiğinde bize ilham kaynağı olacak."
 
-"Sanırım öyle," dedi Bayan Pepper, her zamanki gibi, tamir sepetiyle kapıyı geçerken, "ve iki kişi düet yapmaya başladığında, bence
-zihinlerini buna vermeleri ve zamanı geldiğinde kendi kendilerine hallolacak olan
+"Sanırım öyle," dedi Bayan Pepper, her zamanki gibi
+onarım sepetiyle kapıyı geçerken, "ve iki kişi düet yapmaya başladığında, bence
+zihinlerini buna vermeleri ve
+zamanı geldiğinde kendi kendilerine hallolacak olan
 bir sürü soruyla değerli zamanlarını harcamamaları daha iyi olur."
 
-"Haklısın, Bayan Pepper," diye bağırdı Jasper gülerek ve piyanonun önüne
-oturdu. "Hadi, Polly!"
+"Haklısın, Bayan Pepper," diye bağırdı Jasper gülerek ve
+piyanonun önüne oturarak. "Hadi, Polly!"
 
 "Mamsie her zaman haklıdır, değil mi, Jasper?" diye bağırdı Polly gururla,
 ilk akorlar için ellerini indirerek.
 
-"Gerçekten de öyle," diye cevapladı çocuk içtenlikle. "İşte, Polly,
+"Gerçekten de öyle," diye cevapladı çocuk içtenlikle. "Şimdi, Polly,
 hatırla, o ilk ölçüde biraz hata yaptın. Şimdi!"
 
 Yirmi bir Aralık, Polly ve Jasper için çok erken geldi,
@@ -1010,9 +1018,9 @@ görünce geri döndü.
 "Hadi, öyle olsun," diye bağırdı; "İstemiyorum, eminim; Polly ile kalmayı
 çok
 tercih ederim. Nasılsınız, Thomas?" diye seslendi, arabacıya, sürekli şapkasına dokunan ve memnuniyetle genişçe gülümsemeler
-gösteren arabacıya.
+sürünen arabacıya.
 
-Polly ayak ucunda çok keyifle yürüyordu, Davie'nin elini sıkıca tutuyordu, gözleri bir oğlandan diğerine kayıyordu ve dili gerçekten hızlıydı. Arkadaşlarıyla buluşmak için istasyona gelen bir grup kız, gülerek ve sohbet ederek geçerken biraz durdu.
+Polly ayak ucunda çok keyifle yürüyordu, Davie'nin elini sıkıca tutuyordu, gözleri bir oğlandan diğerine kayıyordu ve dili gerçekten hızlıydı. Arkadaşlarıyla buluşmak için istasyona gelen bir grup kız, gülerek ve sohbet ederek yanlarından geçerken biraz durdu.
 
 "Nasılsınız, çocuklar?" dediler umursamazca üç eve dönene. "Oh,
 Polly! Bu gece büyüleyici olmayacak mı?" diye bağırdı içlerinden biri, konuşurken kolunu tutarak.
@@ -1072,8 +1080,8 @@ arabacıya camı tıklatarak.
 "Ah!" ve Percy, Joel'in güçlü bacaklarıyla onlara üstünlük sağladığını düşünerek, şimdi şehvetle bağırdı, "Hadi, Thomas; olabildiğince hızlı ilerle," ve hemen arabada devam eden kahkaha ve gevezelik
 kızgınlığında kayboldu.
 
-"Bir haberim var," diye bağırdı Van, bir sessizlikte. "Davie
-bir ödül getiriyor; klasiklerde birinci, biliyorsun."
+"Bir haberim var," diye bağırdı Van, bir sessizlikte. "Davie bir ödül
+getiriyor; klasiklerde birinci, biliyorsun."
 
 "Ah, Davie!" diye bağırdı Polly ve eğilip kollarını ona doladı; "Mamsie çok sevinecek. Davie, ne kadar
 mutlu olacağını tahmin edemezsin!"
@@ -1106,13 +1114,13 @@ dayanamıyorum, Polly, biliyorsun"--
 
 "Sana yardım edeceğim," ve önce o dışarı fırladı.
 
-"Hayır, ben edeceğim," diye ilan etti Van, diğer taraftaki kapıyı açarak, dışarı atlayıp
-arabanın etrafından koşarak. "İşte, Polly, elimi tut, yap."
+"Hayır, ben edeceğim," diye ilan etti Van, diğer taraftaki kapıyı açarak,
+dışarı atlayıp arabanın etrafından koşarak. "İşte, Polly, elimi tut, yap."
 
 "Hayır, ben önce geldim," dedi Percy hevesle, kahverengi eldiveni
 Van'ın elinin oldukça ötesine uzanmıştı.
 
-"Kardeşine böyle konuşan kimsenin bana yardım etmesini istemiyorum," dedi Polly alçak bir sesle ve en muhteşem havasıyla tek başına aşağı inerken,
+"Kardeşine böyle konuşan hiç kimsenin bana yardım etmesini istemiyorum," dedi Polly alçak bir sesle ve en muhteşem havasıyla tek başına aşağı inerken,
 merdivenleri koşarak çıkıp onları birbirlerinin yüzlerine bakar halde bıraktı.
 
 Burada herkes aceleyle verandaya çıktı ve kısa süre sonra onları bekleyen
@@ -1163,7 +1171,7 @@ kaçamazdım. Ah, teyze! Eğer bunu yaparsan."
 "Ne kadar iyisin," diye haykırdı Polly rahat bir nefes alarak. "Ah, teyze! Sen olmadan hiçbir
 şey yapamazdık."
 
-"Ve senin salona girmene hiç gerek yok," dedi Bayan Whitney, kapıya doğru giderek. "Sadece sahne arkasında kal ve aktörlerini ve Phronsie'yi hazırla, annen ve ben arkadaşlarını karşılayacağız. Gel, Bayan Pepper."
+"Ve senin salona girmene hiç gerek yok," dedi Bayan Whitney, kapıya doğru giderek. "Sadece sahne arkasında kal ve oyuncularını ve Phronsie'yi hazırla, annen ve ben arkadaşlarını karşılayacağız. Gel, Bayan Pepper."
 
 "Bu harika," diye haykırdı Polly, hizmetçiyle birlikte geride bırakılarak, "şimdi telaşlanmadan
 hazırlanabilirim, Felicie; ve sonra Phronsie için
@@ -1178,7 +1186,7 @@ Perdeyi hemen açmalıyız."
 "Aman Tanrım, aman Tanrım!" diye bağırdı Polly, kadrosunun farklı üyelerine son dokunuşları yapmak için oradan oraya uçarak. "Şimdi, Clare, devam ederken böyle bir çığlık atmaman gerektiğini unutmamalısın, değil mi, Jappy?
 Sadece donuk, somurtkan bir kükreme, senin rolün."
 
-"Eh, ben burada neredeyse ölüyorum," diye haykırdı Clare, ejderha yüzünün altında dik dik bakarak. "Çığlık atacağım ya da kükreyeceğim, istediğim gibi, öyle!"
+"Eh, ben burada neredeyse ölüyorum," diye haykırdı Clare, ejderha yüzünün altında dik dik bakarak. "Çığlık atacağım ya da kükreyeceğim, istediğim gibi!"
 
 "Pekala," dedi Polly, "Bilmiyorum ama sonuçta,
 kızgın olman daha iyi; daha etkili olursun," diye ekledi soğukkanlılıkla. "Bakalım--ah! Mağaranın kapısı biraz daha gri yosun istiyor;
@@ -1201,7 +1209,7 @@ V
 
 OYUNDAN SONRA
 
-Her şey bitmişti. Phronsie, güzellik dolu bir görüntü olarak, mağaraya sürüklenmişti; ejderhalar en yüksek sesle kükremişlerdi ve yiğit şövalye, Prenses'in muhteşem kurtarılışında kendini ihtişamla kaplamıştı; küçük uşak, tüm hanımların kalbini kazanmıştı; Bay King, özellikle de "Size merhamet ediyorum, beyler ve güzel hanımlar" çınladığında, prologun söylenmesi sırasında, sesinin kısılmasına kadar alkışlamıştı; Polly ve Jasper'ın iki perde arasındaki "Bekle"deki müzikal çabaları sona ermişti ve kalabalık salon, mümkün olan her şekilde, başından sonuna kadar her şeyden memnun olduğunu ifade etmişti. "Phronsie, Phronsie, seni çağırıyorlar," diye fısıldadı Polly heyecanla,
+Her şey bitmişti. Phronsie, güzellik dolu bir görüntüyle, mağaraya sürüklenmişti; ejderhalar en yüksek sesle kükremişlerdi ve yiğit şövalye, Prenses'in muhteşem kurtarılışında kendini ihtişamla kaplamıştı; küçük uşak, tüm hanımların kalbini kazanmıştı; Bay King, özellikle de "Size merhamet ediyorum, beyler ve güzel hanımlar" çınladığında, prologun söylenmesi sırasında, sesinin kısılmasına kadar alkışlamıştı; Polly ve Jasper'ın iki perde arasındaki "Bekle"deki müzikal çabaları sona ermişti ve kalabalık salon, mümkün olan her şekilde, başından sonuna kadar her şeyden memnun olduğunu ifade etmişti. "Phronsie, Phronsie, seni çağırıyorlar," diye fısıldadı Polly heyecanla,
 yeşil odada.
 
 "Gel, Prenses." Baş ejderha elini uzattı. "Acele et canım!
@@ -1219,7 +1227,7 @@ elbisesinden tutarak.
 çağırmadıklarını görmüyor musun. Hadi, çocuk, eğer beni seviyorsan," diye yalvardı.
 
 Phronsie, buna karşı koyamayarak, Polly'nin elbisesini düşürdü ve
-ayak izlerinin önünde süzüldü.
+ayaklıkların önünde süzüldü.
 
 "Teşekkür ederim," dedi, elleri güllerle doluyken, yüzler denizine ciddi bir şekilde eğilerek, "ama bunları Polly'ye vereceğim, çünkü hiçbirimiz onsuz bunu yapamazdık." Ve böylece onları geri getirdi ve dehşete düşen Polly'nin kucağına koydu.
 
@@ -1228,7 +1236,7 @@ ayak izlerinin önünde süzüldü.
 "İşte, şimdi sıra sende," diye bağırdı Clare Polly'ye. "Ve devam et, yaşlı ejderha," Jasper'a, "en güzel eğilişini yap."
 
 Böylece baş ejderha utangaç Polly'yi sahnenin önüne götürdü, Bay Alstyne'ın akşamın zevki için teşekkür ettiği ve başarısını kutladığı hoş, küçük bir konuşmasını dinlemek için; ve
-orkestra tekrar çaldı, kamp sandalyeleri katlanıp kaldırıldı,
+orkestra tekrar çalmaya başladı, kamp sandalyeleri katlanıp kaldırıldı,
 yeşil oda ve sahne boştu ve oyuncular ve seyirciler neşeli, kafa karıştırıcı bir
 kalabalıkta kaynaştı.
 
@@ -1242,14 +1250,16 @@ geçirdiler. Polly, iyi bakıldığını görünce, kendini akşamın keyfine b�
 
 "Tamam," dedi Joel, "ama neden daha fazlasını yapmadın? Mağaranın tepesine tırmanıp etrafı kesebilirdin; ve siz yaşlı ejderhalar son perdede sadece üç aptaldınız. Polly'nin oyunda olmasını tercih ederdim; o iki katı.
 
-"Hepimiz Polly'yi tercih ederdik," diye haykırdı Jasper kahkaha atarak, "ama o oynamazdı - her şeyi o yönetirdi; aslında o tüm oyundu."
+"Hepimiz Polly'yi tercih ederdik," diye bağırdı Jasper kahkaha atarak, "ama o rol yapmazdı - her şeyi o yönetirdi; aslında o tüm oyundu."
 
 Bu arada Polly, Pickering Dodge'a, "Hayır, bu gece olmaz; diğer kızlardan biriyle dans etmelisin." diyordu.
 
 "Ama senden başka kimseyle dans etmeyi seçmiyorum," dedi Pickering, elini uzatarak. "Hadi Polly, reddedemezsin; Lancers'ı oluşturuyorlar. Acele et!"
 
-Polly'nin ayakları beyaz elbisesinin altında gergin bir şekilde seğiriyordu ve yaşadığı heyecandan sonra her zamankinden daha fazla, kendini
-büyücü müzikte ve o karmaşık dansta kaybetmeyi özlüyordu. Biraz tereddüt etti,
+Polly'nin ayakları beyaz elbisesinin altında gergin bir şekilde seğiriyordu ve
+geçirdiği heyecandan sonra her zamankinden daha fazla,
+kendini büyücü müziğine ve
+gezegensel dansa kaptırmayı özlüyordu. Biraz tereddüt etti,
 ama tam o sırada odanın karşısına bakarak, "Gel," dedi, "Ray Simmons'la
 dans etmeni istiyorum. "Reddedemezsin" dedi kendi sözcüklerini kullanarak; ve
 nasıl yapıldığının farkına varmadan önce, Ray'in yanındaydı ve
@@ -1258,11 +1268,11 @@ dansın zevkini istiyordu.
 Polly kıpırdamadan durdu ve onların uzaklaşıp setteki son yerleri aldıklarını gördü ve
 gülen ağzın kıvrımlarına zavallı bir sarkma düştü. Çok yorgundu ve akşamın başarısıyla ilgili
 onu ele geçiren coşku,
-herkes kendi tarzında eğlenirken, onu yalnız bıraktığı için hızla kayboluyordu.
+şimdi herkes kendi tarzında eğlenirken, onu yalnız bıraktığı için hızla kayboluyordu.
 Soğukta bırakılmış gibi hissediyordu; ve buna karşı koymaya çalışsa da,
 yaptığı şey için hafif bir pişmanlık duygusu onu ele geçirdi.
 Neredeyse orada, yaşlı insanların gözlerinin çevrildiği,
-parlak gruptan biri olan Pickering Dodge'un yanında durmayı diledi,
+aydın gruptan biri olan Pickering Dodge'un yanında durmayı diledi,
 ilk figürün başlamasını beklerken.
 
 "Pekala, Polly"--Bay Konuşan Alstyne ve sanki onun yanında kalmaya gelmiş gibi davrandı--"bu akşam kendinizi ihtişamla kapladınız."
@@ -1287,7 +1297,7 @@ Alexia Rhys, onu aydınlatmanın gerekli olduğunu düşündü.
 Jasper duymamış gibi yaptı. "Bu bizim figürümüz," dedi aceleyle,
 ve hızla uzaklaştılar, bitirdiler ve geri döndüler.
 
-"Kaz değil mi?" onu yelpazelerken ve başka bir konu açmaya çalışırken.
+"Kaz değil mi?" diye yelpazelerken ve başka bir konu açmaya çalışırken.
 
 "Sanırım o en çok kendini mutlu ediyor," dedi çocuk kayıtsızca. "Neden başka
 biri bu işe karışsın ki?"
@@ -1334,7 +1344,7 @@ kabul etmezsen, tamamen dışarıda kalacağım." Kolunu uzatarak ayağa kalktı
 atıp alaya katılırlarken.
 
 "Joel'in şefkatli merhametine güvenmiş olsaydınız, korkarım ki
-zorlukla başa çıkabilirdiniz," dedi Bay Alstyne gülerek. "Bak Polly, şu köşede. "Akşam yemeği odasına geçiyorlardı ve şimdi Joel'in mavi ve beyaz giysili çok güzel bir yaratıkla, sanki yıllardır bu tür şeyler yapıyormuş gibi telaşlı ve umursamaz bir şekilde sohbet ettiğini gördüler.
+çok zor durumda kalırdınız," dedi Bay Alstyne gülerek. "Bak Polly, şu köşede. "Akşam yemeği odasına geçiyorlardı ve şimdi Joel'in mavi ve beyaz giysili çok güzel bir yaratıkla, sanki yıllardır bu tür şeyler yapıyormuş gibi telaşlı ve umursamaz bir şekilde sohbet ettiğini gördüler.
 
 "Neden!" diye haykırdı Polly dehşet içinde, "Bu Joel olamaz. O sadece kızlardan nefret ediyor, bilirsin Bay Alstyne ve asla partilere gitmiyor."
 
@@ -1355,7 +1365,7 @@ akşam yemeğine bir kız getirdi!"
 göndererek, "Van ve Percy sanki dünyada hiç arkadaşları yokmuş gibi kendi başlarına somurtuyorlar. Ne yazık; eskiden
 partilerde çok hareketliydiler."
 
-Polly bakışlarını sabitlendiği şaşırtıcı manzaradan ayırdı ve Alexia'nın bakışını takip ederek genç Whitney'lere dikkatle baktı. "Oh! oh! Onlara gitmeliyim," diye bağırdı pişmanlıkla.
+Polly bakışlarını, sabitlendiği şaşırtıcı manzaradan ayırdı ve Alexia'nın bakışını takip ederek, genç Whitney'lere dikkatle baktı. "Oh! oh! Onlara gitmeliyim," diye bağırdı pişmanlıkla.
 "Lütfen Bay Alstyne'a geri döndüğünde nerede olduğumu söyle," ve başka bir kelime etmeden, akşam yemeği odasına yeni giren
 rengarenk giyimli hanımların yanından
 hızla geçip kapıdan çıktı.
@@ -1382,7 +1392,7 @@ söylediğinizi duymak çok korkunçtu."
 
 "Hiçbir şey kastetmedik," dedi Percy, utanmış bir şekilde bir ayağını ileri geri hareket ettirerek ve elleriyle ne yapacağını bilmiyormuş gibi görünerek, her şeyden çok daha fazla kafasını karıştırdı, çünkü daha önceki tüm durumlarda ellerinden oldukça emindi.
 
-Van, ellerini cebine soktu ve ıslık çalmak üzereydi,
+Van, elini cebine soktu ve ıslık çalmak üzereydi,
 ama nerede olduğunu hatırlayarak, dudaklarını hızla kıvrımlarından çıkardı ve başka yöne baktı.
 
 Tam o sırada Bay Alstyne geldi yukarı.
@@ -1430,7 +1440,7 @@ sevgili Bay King, tüm bunları çocuklara verdiği için çok tatlı değil mi?
 odanın etrafına bakarak.
 
 "Tam arkanızdaydı," dedi Polly. "Kendisi
-eşyalarını çıkarmak istiyordu. Hiç böyle tatlı bir şey gördün mü" diye başladı, ama Bayan Pepper durup dinlemedi, aceleyle yan odaya, anne ve bebeğiyle birlikte
+eşyalarını çıkarmak istiyordu. Hiç böyle tatlı bir şey gördünüz mü" diye başladı, ama Bayan Pepper durup dinlemedi, aceleyle yan odaya, anne ve bebeğiyle birlikte
 paylaştığı odaya koştu.
 
 "O burada değil," Polly onun şaşkın bir tonda söylediğini duydu. Bu yüzden Polly,
@@ -1528,9 +1538,9 @@ gençleri ayağa kaldırdı, Phronsie yaşlı beyefendinin yanına koştu, "Ne o
 "Uzaklaşın!" diye bağırdı Joel, kuşatmacılara öfkeyle, her biri çılgınca bağırarak. "Ne oldu? Neden bahsediyorsunuz? Bu benim sırrım," diye bağırdı, "ve onun da," Bay King'i dehşet içinde işaret ederek.
 
 "Artık bir sır değil," diye bağırdı Polly, heyecanla
-kızararak. "'Küçük kahverengi ev' dedin, seni aynı şekilde duyduk; ve bir şeyler yapıyorsun, biliyorum." "İnsanlar genellikle bir oda dolusu dinleyici seçip sonra sırlarını haykırmazlar," dedi Jasper. "Şimdi senin işin var, Joe, ve hiç şüphe yok. Hadi, ihtiyar, ve geri kalanını bize ver."
+kızararak. "'Küçük kahverengi ev' dedin, seni aynı şekilde duyduk; ve bir şeyler yapıyorsun, biliyorum." "İnsanlar genellikle bir oda dolusu dinleyici seçip sonra sırlarını haykırmazlar," dedi Jasper. "Şimdi bunun için hazırsın, Joe, ve hiç şüphe yok. Hadi, ihtiyar, ve geri kalanını bize ver."
 
-Joel umutsuzluk içinde hepsinden uzaklaştı. "Aynen öyle," diye güldü yaşlı beyefendi, "işler şimdi bitti, hiç şüphe yok."
+Joel umutsuzluk içinde hepsinden uzaklaştı. "Aynen öyle," diye güldü yaşlı beyefendi, "kötülük şimdi bitti, hiç şüphe yok."
 
 Böylece Joel, bu şekilde davranarak, tüm güzel planın yavaş ve işkence dolu taksitlerle kendisinden koparılmasına izin verdi; hepsinin Badgertown'a nasıl gideceğini, küçük kahverengi evi nasıl açacağını ve orada nasıl kalacağını -burada Bay King'e şöyle bir baktı- "belki bir hafta," diye aniden söyledi, zamanı her türlü eğlenceyle doldurdu ve oradaydılar,
 ve gerçekten ve hakikaten eski evde yaşıyorlardı.
@@ -1599,7 +1609,7 @@ asıldı.
 
 "Bırak da kendi zamanını yaşasın," dedi Bay King, "devam et, çocuğum."
 
-"Sevgili Büyükbaba," diye devam etti Phronsie, sarı başını çevirip ona bakarak, eli hâlâ başlığın iplerinin arasında, "hepimizi, her birimizi küçük kahverengi evi görmeye götürecek ve sadece bir kez dokunup orada olduğundan emin olacağız ve kapılardan ve pencerelerden içeri göz atacağız ve"--
+"Sevgili Büyükbaba," diye devam etti Phronsie, sarı başını çevirip ona bakarken, eli hâlâ başlığın iplerinin arasında, "hepimizi, her birimizi küçük kahverengi evi görmeye götürecek ve sadece bir kez dokunup orada olduğundan emin olacağız ve kapılardan ve pencerelerden içeri göz atacağız ve"--
 
 "Hayır, hayır," diye kükredi Joel, "kalacağız, hem de bir hafta," güvenle
 aşağı yukarı zıplayarak.
@@ -1607,7 +1617,7 @@ aşağı yukarı zıplayarak.
 "Ah, Joe! Bir hafta değil," diye düzeltti Polly yanakları kızararak, "belki
 iki gün; henüz bilmiyoruz."
 
-"Üç--üç," diye yalvardı Van, başını grubun ortasına doğru daha da iterek. "Bayan Pepper, lütfen üç gün kalmak istediğinizi söyleyin," diye yalvardı.
+"Üç--üç," diye yalvardı Van, başını grubun ortasına daha da iterek. "Bayan Pepper, lütfen üç gün kalmak istediğinizi söyleyin," diye yalvardı.
 
 "Henüz gitmek istediğimi söylemedim," diye cevapladı gülümseyerek.
 
@@ -1636,7 +1646,7 @@ Benim için bir teselli kaldı, ben orada değilim."
 Bay King, arabanın kapısını tutarak uzun ve yüksek sesle güldü. "Hayır,
 Kuzen Eunice," dedi, "sen orada değilsin. Bu düşünceyle teselli bul. Elveda," ve araba uzaklaştı.
 
-Anne Pepper ve beş küçük Pepper küçük kahverengi eve geri dönüyorlardı. "Gerçekten ve gerçekten gidiyoruz," Phronsie arabanın tekerleklerinin her dönüşünde tekrar tekrar, şarkı söyler gibi, Bay King'in attığı adımdan dolayı ürpermesini imkansız hale getirerek. Bagaj vagonunda iki kasa battaniye ve ev konforu güvenli bir şekilde paketlenmemiş miydi? "Bu kadar da korkunç bir risk değil," dedi yaşlı beyefendi kendi kendine sertçe, "bugünlerde kırsalda kış gezisine çıkmak oldukça yaygın bir olay. "İyiyiz," dedi ve iki koltuk ötede duran Bayan Pepper'ın siyah başlığına sık sık bakarak kendini daha da güçlendirdi.
+Anne Pepper ve beş küçük Pepper küçük kahverengi eve geri dönüyorlardı. "Gerçekten ve gerçekten gidiyoruz," Phronsie arabanın tekerleklerinin her dönüşünde tekrar tekrar, şarkı söyler gibi, Bay King'in attığı adımdan dolayı ürpermesini imkansız hale getirerek. Bagaj vagonunda iki kasa battaniye ve ev konforu güvenli bir şekilde paketlenmiş değil miydi? "Bu kadar da korkunç bir risk değil," dedi yaşlı beyefendi kendi kendine sertçe, "bugünlerde kırsalda kış gezisine çıkmak oldukça yaygın bir olay. "İyiyiz," dedi ve iki koltuk ötede duran Bayan Pepper'ın siyah başlığına sık sık bakarak kendini daha da güçlendirdi.
 
 Ne de olsa üç günlük bir eğlence olacaktı. Tüm parti
 küçük kahverengi evde
@@ -1645,7 +1655,7 @@ Sadece Pepper'lar için yeterince büyüktü. Bu yüzden Bayan Whitney ve üç o
 duygusunu gizleyen Jasper ile birlikte Hingham'daki eski otele yerleşmeyi planladılar.
 
 Ve kimse oraya bu kadar çabuk varabileceklerini hayal etmeden önce,
-Badgertown Center'daydılar ve Bay Tisbett'i beş yıldır oradan hiç kıpırdamamış gibi sahne kutusunda beklerken buldular.
+Bay Tisbett'i beş yıldır hiç kıpırdamamış gibi sahne kutusunda beklerken bulmak için Badgertown Center'daydılar.
 
 "Hadi, hadi!" diye seslendi yüksekteki yerinden Bayan Pepper'a, arabadan inerken, "Ama seni görmek güzel. Kara! Kaçınız oradasınız? Ve o Phronsie mi? Hadi, hadi!"
 
@@ -1679,13 +1689,13 @@ kasvetli otelden korkuyordu.
 "Kendimize iyi davranıyorum," diye neşeyle ilan etti papazın karısı.
 
 Jasper, yeni düzenleme ilan edildiğinde, tıpkı Percy ve Van'ın, Ben'le birlikte bagajlara bakarken kendilerini
-onun peşinden attıkları gibi bir çığlık attı ve yüzü en büyük memnuniyetle
+onun peşinden attıkları gibi, bir çığlık attı ve yüzü en büyük memnuniyetle
 parladı.
 
 "Bu çok neşeli," diye haykırdı, "ve bu bir gerçek! Şimdi, Ben, aramızda sadece bir taş atımı var.
 Biraz farklı, değil mi ihtiyar,
 eskiden Prens'in peşimde olduğu Hingham'dan
-koşarak geldiğim zamandan?"
+hızla koştuğum zamandan?"
 
 Dr. Fisher'ın küçük, zayıf, tel gibi vücudu şimdi merkez gruba doğru ilerliyordu ve herkes ona Peppers'ı karşılama şansı vermek için geri çekildi.
 
@@ -1713,11 +1723,10 @@ sakladı. "Küçük kahverengi evi Mamsie ve diğerlerinden önce görmemeliyim.
 "Ben yoldan döneceğim," dedi küçük doktor, "öyleyse"; ve eylemi kelimeye uydurarak, Polly dar küçük yoldan Büyükanne Bascom'a doğru ilerlediklerini hissedebiliyordu. Kar halısının altındaki menekşeleri ve anemonları neredeyse koklayabiliyordu ve çılgınca bir
 koşu için dışarı atlamak zorunda kalmaktan kendini zor alıkoyabiliyordu.
 
-"Çok uzağa gitme," diye bağırdı aniden telaşla. "Sahne gelene kadar biz de orada olmalıyız." Ve gözünü arabanın arkasındaki küçük yuvarlak cama dikti. "Asla gelmeyecek mi--oh! İşte burada, işte burada, sevgili Dr. Fisher." Ve yaşlı atın etrafında hızlı bir hareketle, kısa süre sonra küçük kahverengi evin önündeydiler ve sahne sakinlerine yardım ediyorlardı, zarafetten çok hızla merdivenlerden
+"Çok uzağa gitme," diye bağırdı aniden telaşla. "Sahne gelene kadar biz de orada olmalıyız." Ve gözünü arabanın arkasındaki küçük yuvarlak cama dikti. "Asla gelmeyecek mi--oh! İşte burada, işte burada, sevgili Dr. Fisher." Ve yaşlı atın etrafında hızlıca bir hareketle, kısa süre sonra küçük kahverengi evin önündeydiler ve sahne sakinlerine yardım ediyorlardı, zarafetten çok hızla merdivenlerden
 acele ediyorlardı.
 
-Joel, Bay Tisbett kapının önüne gelmeden önce yere
-atmıştı. "Dur," diye kükredi sahne sürücüsü, "Benimle
+Joel, Bay Tisbett kapının önüne gelmeden önce yere inmişti. "Dur," diye kükredi sahne sürücüsü, "Benimle
 boynunu kırmanı istemiyorum."
 
 "Gerçekten burada!" diye haykırdı Phronsie kocaman gözlerle, donmuş kardan bir tümseğin üzerinde hareketsiz durarak, gözleri eve dikilmiş bir şekilde. "Gerçekten de burada!" Polly kıvrımlı patikada ve düz taşın üzerinden koşarak küçük eski kapıya bir öpücük kondurmuştu.
@@ -1727,14 +1736,14 @@ boynunu kırmanı istemiyorum."
 "Hımm! Sanırım, Jasper, sen ve ben onları birkaç dakika yalnız bırakacağız," dedi hala sahnenin içinde olan Bay King. "İşte, iyi
 dostum," Bay Tisbett, "Orada her şeyin onlar için rahat olduğunu mu söylüyorsun?"
 
-"Evet, evet, efendim," dedi Bay Tisbett içtenlikle. "Güzel topraklar! Bayan Henderson bu sabah
-çocuklarını havalanarak aşağı indirip ateşleri yaktırdı; ve
+"Evet, evet, efendim," dedi Bay Tisbett içtenlikle. "Güzel topraklar! Bayan Henderson
+bu sabah çocuklarını havalanarak aşağı indirip ateşleri yaktırdı; ve
 yiyebileceğiniz muhteşem bir manzara var." Sahne sürücüsü sohbeti kolaylaştırmak için
 bir ayağını arka tekerleğe koydu ve dudaklarını şapırdattı.
 
-"Her şey yolunda. Şimdi bizi biraz yoldan aşağı götürebilirsin," dedi Bay King, başını tekrar hantal eski aracın derinliklerine doğru çekerek.
+"Her şey yolunda. Şimdi bizi biraz yoldan aşağı götürebilirsin," dedi Bay King, başını tekrar ağır ağır giden eski aracın derinliklerine doğru çekerek.
 
-"İçeri girmiyor musun?" diye bağırdı Bay Tisbett, şaşkınlıkla yuvarlak gözlerini ona
+"İçeri girmiyor musun?" diye bağırdı Bay Tisbett, yuvarlak gözlerini şaşkınlıkla ona doğru
 açarak.
 
 "Kalk ve bizi sür, diyorum," diye emretti yaşlı beyefendi, "ve
@@ -1742,25 +1751,24 @@ konuşmayı bırak," bu da dürüst Bay Tisbett'in hızla kutuya tırmanmasına 
 hızla seçebildiği tüm
 donmuş izlerin üzerinden öfkeyle sürerek intikamını aldı, mecbur kalana kadar durmamaya kararlıydı.
 
-"Aman Tanrım!" diye haykırdı içeriden Bay King, yan taraftaki kayışı ve öndeki sallanan koltuğun deri kayışını tutarak.
+"Aman Tanrım!" diye haykırdı Bay King içeriden, yan taraftaki kayışı ve öndeki sallanan koltuğun deri kayışını tutarak.
 "Ne iğrenç bir yol!"
 
-"Yol yeterince iyi," dedi Jasper, Badgertown'a karşı tek bir kelime söylenmesine dayanamayan, "o adamın sürüşü
-onu zorlaştırıyor. Hadi, yolda biraz daha dikkatli olamaz mısın?" diye seslendi, başını pencereden dışarı uzatarak. Ancak sahne daha önce olduğundan daha kötü bir şekilde sarsıldığında, şimdiye kadar eşi benzeri görülmemiş bir dizi gıcırtı ve sarsıntıya neden olarak, zahmetleri yüzünden kahverengi seyahat şapkasını kaybetmekten kıl payı kurtuldu.
+"Yol yeterince iyi," dedi Jasper, Badgertown'a karşı tek bir kelime söylenmesine dayanamıyordu, "o adamın sürüşü
+onu zorlaştırıyor. Hadi, yolda biraz daha dikkatli olamaz mısın?" diye seslendi, başını pencereden dışarı uzatarak. Ancak sahne daha önce olduğundan daha kötü bir şekilde sarsıldığında, şimdiye kadar eşi benzeri görülmemiş bir dizi gıcırtı ve sarsıntıya neden olarak, zahmetleri yüzünden kahverengi seyahat şapkasını kaybetmekten ancak kıl payı kurtuldu.
 
 "Buna daha fazla dayanamam," dedi yaşlı Bay King, ağzının çevresi beyazlaşarak ve içten içe
 yapabileceğini hissettiği ünlemlerin yarısı için gücü olmasını dileyerek. Dışarıda, dürüst Bay Tisbett, zengin bir şehir adamına, Badgertown'ın bir vatandaşına saygıdan daha azıyla yaklaşamayacağını öğrettiği düşüncesiyle sağlam bir teselli buluyordu.
 
 "Ben de onun kadar iyi değil miyim?" diye bağırdı Bay Tisbett, önündeki araba yolu boyunca keskin, pürüzlü bir buz parçası gördüğünde, attan inen atına fazladan bir darbe indirerek. "İşte bu iyi; bu onu sarsacak," diye neşeyle ekledi. "Kara! Ama okulda Jim Bently tarafından küstahça
-bedenlendiğimden beri benimle bu kadar konuşulmamıştı ve sonra onu iki kez ödeyecek kadar yaladım. G'lang orada--kolay!"
+davrandığımdan beri benimle bu kadar konuşulmamıştı ve sonra onu iki kez ödeyecek kadar yaladım. G'lang orada--kolay!"
 
 Bildiği ilk şey, cam pencerelerden birinin titreyip
 parçalara ayrılmasıydı; parçalar sessiz yol boyunca uçup
 karın üzerine parlak bir
-şekilde
-düştüler.
+duman halinde düştü.
 
-"Vay canına!" diye seslendi Bay Tisbett, dumanlı atlarına doğru ve eğilerek, "Orada ne oluyor?" diye bağırdı.
+"Vay canına!" diye seslendi Bay Tisbett, dumanlı atlarına ve eğilip, "Orada ne oluyor?" diye bağırdı.
 
 "Mesele şu ki," dedi Jasper yüzünü göstererek, "sana seslenmemi
 duyuramayacağım için, camı kırmayı seçtim. Lütfen
@@ -1779,7 +1787,7 @@ kürk eldivene bir banknot yerleştirerek. "Lütfen tuzaklarımızı küçük ka
 parçaladıktan sonra
 almayacağım."
 
-Atlarının huzursuz hareketleri, sabahtan akşama kadar vagonunun başında olan bir sürücü için pozisyonunun tam olarak uygun olmadığı konusunda onu uyarana kadar aptalca bir şaşkınlıkla faturaya bakarak durdu, bu yüzden sinirli düşüncelerle dolu bir şekilde direksiyona tırmandı ve yerine oturmadan önce faturayı eski minderin altına dikkatlice yerleştirdi. "Ona geri vereceğim, bu kesin," dedi dizginleri alarak, "ve belki de yeterince yürüdüler ve onları almama izin verirler," bu da onu depresyonundan biraz olsun kurtardı.
+Atlarının huzursuz hareketleri, sabahtan akşama kadar vagonunun başında olan bir sürücü için pozisyonunun tam olarak uygun olmadığı konusunda onu uyarana kadar aptalca bir şaşkınlıkla faturaya bakarak durdu, bu yüzden sinirli düşüncelerle dolu bir şekilde direksiyona tırmandı ve yerine oturmadan önce faturayı eski minderin altına dikkatlice yerleştirdi. "Onu ona geri vereceğim, bu kesin," dedi dizginleri alarak, "ve belki de yeterince yürüdüler ve onları almama izin verirler," bu da onu depresyonundan biraz olsun kurtardı.
 
 Ama yaşlı beyefendinin ve uzun boylu çocuğun sert yüzleri, yanlarından geçmeden çok önce onu ürpertti ve sessizce yanından geçti,
 konuyu bir bakışla bile açmanın iyi olmayacağını gayet iyi biliyordu.
@@ -1791,7 +1799,7 @@ dürüst yüzünde utançla, "Bak, genç adam, onu eve getirdiğinde seninle kon
 
 "O zaman görüşürüz," dedi Jasper, ikisi küçük kahverengi evden dışarı fırlayan Peppers'la buluşmak için acele ederken ve küçük patikaya doğru ilerlerken.
 
-"Hepsinin başına korkunç bir bela açtım ve onlar da yeni eve geldiler," diye homurdandı Bay Tisbett; kürk eldivenini gözlerinin üstüne çekti ve atlarını
+"Hepsinin başına korkunç bir bela açtım ve onlar da eve geldiler," diye homurdandı Bay Tisbett; kürk eldivenini gözlerinin üstüne çekti ve atlarını
 yürüterek cenaze hızında takip etti, kapı kapanana kadar kapıda durmamaya dikkat etti,
 sonra da öfkeyle yüklerini boşaltmaya başladı.
 
@@ -1800,7 +1808,7 @@ Karda çıtırdayan bir ayak sesi, çıkardığı gürültüye karıştı.
 "Bir adamın özür dilemesi çok tuhaf bir şey, ama eminim ki öyleyim, tıpkı adımın John Tisbett olduğu gibi." Yüzü o kadar kızardı ki
 Jasper genç omzunu bagajın altına koymak için acele etti, bu hareket sahne sürücüsünün sıkıntısını daha da artırdı.
 
-"Sana söylüyorum, sinirlenmeye değmez," diye ilan etti Bay Tisbett,
+"Şimdi sana söylüyorum, sinirlenmeye değmez," diye ilan etti Bay Tisbett,
 bagajı karın üzerine fırlatıp sonra kendini
 tam boy çekerek; "bir önceki yer, baban bana küstahça davrandı ve"--
 
@@ -1996,7 +2004,7 @@ ver."
 en ustaca geçişleri yaparak, "sana daha iyisini
 gönderemezdim, istesem de, sevgili büyükbaba."
 
-"Daha mı iyi?" diye haykırdı Bay King. "Sanırım hayır; bin kere denemiş olsaydın bile, beni daha çok memnun eden bir şey yapamazdın."
+"Daha mı iyi?" diye haykırdı Bay King. "Sanırım hayır; bin kere denesen bile, beni daha çok memnun eden bir şey yapamazdın."
 
 Phronsie bunu duymaktan hiç bıkmadı ve şimdi yumuşak bir
 teşekkür notası mırıldanarak görevine devam etti ve mümkün olabilecek en iyi
@@ -2024,7 +2032,7 @@ herkes kadar büyük bir şekilde pişirmeye başladı. Ben asla!"
 hayranlıkla uzun boylu çocuğa baktı; böylece ikisi, Joel gülerek ve beş yaş küçükmüş gibi onun yanında zıplayarak, birbirlerinden çok memnun bir şekilde ortadan kayboldular.
 
 "Şimdi onun hamurunu alacağım," diye ilan etti Dick, masanın sonundan Joel'in ıssız yerine doğru
-hızla koşturarak.
+hızla koşarken.
 
 "Öyle bir şey yok," diye ilan etti Van, sandalyesinden fırlayarak. "Ellerini
 çek, çocuk! O benim olacak."
@@ -2041,8 +2049,7 @@ damgaladığında, kahverengi gözler görevlerine geri dönmedi.
 "Sadece Percy ile kavga etmeyeceğime söz verdim," diye devam etti Van rahatsız bir şekilde. Ve aynı nefeste, "Devam et, Eğer istiyorsan,
 Dicky, umurumda değil."
 
-"İstiyorum," diye ilan etti Dick, Van'ın sandalyesine tırmanırken, Van kendi sandalyesine dönerken, "ve ben de alacağım. Sanırım artık
-vazgeçmeniz gerektiğini düşünüyorsunuz, efendim; çok büyüyorum."
+"İstiyorum," diye ilan etti Dick, Van'ın sandalyesine tırmanırken, Van kendi sandalyesine dönerken, "ve ben de alacağım. Sanırım artık vazgeçmen gerektiğini düşünüyorsun, efendim; çok büyüyorum."
 
 "Yavaşça orada, Dicky," dedi Bayan Whitney, pencere kenarındaki şık
 çalışmasıyla; "Van vazgeçerse, ona teşekkür etmelisin; bence bunu
@@ -2064,7 +2071,7 @@ bisküviyi içeri itti.
 Benimki ortada kamburlaşıyor."
 
 "Tahtaya biraz daha un koy," dedi Polly, ona doğru koşarak.
-"İşte, şimdi bak, Percy, eğer bu düzgün yuvarlanmazsa. " "Seninle olur," dedi Percy, oklavayı tekrar alıp, uzun süredir acı çeken hamurun üzerine
+"İşte, bak Percy, eğer bu düzgün yuvarlanmazsa. " "Seninle olur," dedi Percy, oklavayı tekrar alıp, uzun süredir acı çeken hamurun üzerine
 şiddetle fırlatmak için, "ve--ben de, benim için olacak," diye haykırdı, tahtadan ona bakan büyük yassı kekin zevkiyle. "Şimdi, diyorum, seni yeneceğim, Jappy!" Ve hemen
 mutfak neşeli bir uğultu ile yankılandı, birkaç kek ve bisküvi kendi tavalarına
 neredeyse hazır ilan edildi.
@@ -2074,12 +2081,12 @@ neredeyse hazır ilan edildi.
 
 "Tam olarak değil, Büyükbaba," dedi Phronsie; "bu göz, diğerleri gibi
 aynı yerde kalmayacak. Aynı şekilde görünmüyor, görmüyor musun?"
-herhangi bir iyi huylu gözün yapması gerektiği gibi görevini yapmaya kesinlikle hiç eğilim göstermeyen kuş üzümünü işaret etti. "Bir dakika bekle lütfen;
+herhangi bir iyi huylu gözün yapması gerektiği gibi görevini yapmaya kesinlikle hiç eğilim göstermeyen kuş üzümünü işaret ederek. "Bir dakika bekle lütfen;
 onu çıkarıp
 tekrar sokacağım."
 
-"Bir tane daha al," diye tavsiyede bulundu yaşlı beyefendi, tabağın üzerindeki küçük kuş üzümü yığınını
-el yordamıyla ararken. "İşte, işte güzel, yuvarlak bir tane ve
+"Bir tane daha al," diye öğüt verdi yaşlı beyefendi, tabağın üzerindeki küçük kuş üzümü
+yığını el yordamıyla ararken. "İşte, işte güzel, yuvarlak bir tane ve
 çok da anlamlı, Phronsie."
 
 "Çok güzel," diye mırıldandı Phronsie, yeni gözü çok yapışkan parmaklarıyla kabul ederek. "Şimdi, o hazır," yerine koyarken ve
@@ -2121,7 +2128,7 @@ Ben yoldan aşağı dönerken.
 "Onun olmadan gidemezdik, biliyorsun," diye cıvıldadı Phronsie, saman yığınından sıkıntılı küçük bir
 yüzünü kaldırarak.
 
-"'Eğer yaparsak ona tam da yakışırdı,' dedi Van. "Böyle orada kalmak için harika bir adam."
+"'Eğer yaparsak ona tam da yakışırdı," dedi Van. "Böyle orada kalarak harika bir adam."
 
 "Hayır--hayır," diye haykırdı Dick dehşet içinde, "Joel olmadan gitme; onu sizden
 herhangi birinizden daha çok isterim," diye ekledi, fazla nazik olmadan.
@@ -2139,7 +2146,7 @@ sallarken.
 
 "Şeytan Brown az önce getirdi," diye bağırdı Polly.
 
-"Sürpriz oldu," diye belirtti Percy. "Çok iyi bir ihtiyar değil mi? İşte en
+"Sürpriz," diye belirtti Percy. "Çok iyi bir ihtiyar değil mi? İşte en
 çok neşeli gidiş!"
 
 "Sevgili Bay Beebe ve sevgili Bayan Beebe'yi göreceğiz," diye duyurdu Phronsie, gözyaşlarının arasından gülümseyerek ve yaşlı beyefendinin kucağından eğilip ona başını sallayarak.
@@ -2149,7 +2156,7 @@ sallarken.
 güzel vakit geçirdim," demeye tenezzül etti, ancak ondan detaylar hakkında daha fazla bir şey çıkaramadılar; ve sonunda vazgeçtiler ve dikkatlerini
 vagon dönerken görülecek çeşitli şeylere verdiler. Ve böylece kasabanın üzerinden geçip küçük ayakkabı dükkanının kapısına kadar geldiler ve orada, kesinlikle, Bay Beebe her zamanki gibi onları karşılamak için oradaydı; ve Joel büyük bir memnuniyetle
 taş çömleğin eskiden olduğu gibi şekerli çöreklerle dolu olduğunu gördü; ve
-Phronsie pembe ve beyaz çubuklarını ve Bayan Beebe'nin hepsinin üzerinde "Oh-ed" ve "Ah-ed" demesini sağladı ve sonunda "elveda" deme zamanı geldiğinde onları bırakmaya dayanamadı. Ve sonunda hepsi eski
+Phronsie pembe ve beyaz çubuklarını ve Bayan Beebe'nin hepsinin üzerine "Oh-ed" ve "Ah-ed" demesini sağladı ve sonunda "elveda" deme zamanı geldiğinde onları bırakmaya dayanamadı. Ve sonunda hepsi eski
 vagona binip tekrar ziyaretlerine başladılar.
 
 Kış öğleden sonrasının gri alacakaranlığı
@@ -2167,7 +2174,7 @@ paltosunu daha sıkı sararak. "Phronsie, yeterince sıcak olduğundan emin misi
 "Evet, sevgili Büyükbaba," diye cevapladı, ayaklarının dibindeki samanların içine daha da kıvrılarak.
 
 "Kırmızı üstlü ayakkabıları eve nasıl taşıdığını hatırlıyor musun, Phronsie?" diye bağırdı Polly ve sonra tekrar koşarak uzaklaştılar "Ah,
-bunu hatırlamıyor musun ve bunu unutmadın mı?" Jasper şimdi diğerleri kadar çılgınca anılarını hatırlıyordu, çünkü o da
+bunu hatırlamıyor musun ve bunu unutmadın mı?" Jasper şimdi diğerleri kadar çılgınca anılarını canlandırıyordu, çünkü o da
 küçük kahverengi evde neredeyse aynı şekilde yaşamıyor muydu, lütfen söyleyin? Böylece Whitney'ler
 tüm o neşeli gevezeliklerde duyulma şansı olmadan merakla baktılar;
 ve sonra papaz evinin kapısına geldiler, orada hep birlikte akşam yemeği yiyeceklerdi.
@@ -2194,7 +2201,7 @@ yüzleri süzdü.
 
 "Hayır, yapmamalısın," diye bağırdı Dick, son kelimeleri yakalamak için zamanında
 atıldı. "Annem, kahvaltıya geldiğimizde, Peppers'ın yiyeceğinden farklı bir şey yemememizi söyledi. Ben sarı olanı
-seviyorum; bana da ver," dedi ve bir sandalyeye oturup tabağını Bayan Pepper'a uzattı.
+seviyorum; bana da ver," ve bir sandalyeye oturup tabağını Bayan Pepper'a uzattı.
 
 "Öyle yapacaksın, Dicky," dedi aceleyle. "Ve bundan
 daha tatlı bir yemeği asla tadamayacaksın," ona cömertçe bir kaşık vererek.
@@ -2217,7 +2224,8 @@ zorlukla lapasına yöneldi.
 
 "Eh, o hızla asla bitiremezsin," diye ilan etti Joel. "Bak, üç tabak dolusu yedim," ve tabağını uzattı, "Ve şimdi dördüncüsü, Mamsie."
 
-"Ah! Fırında patates," diye bağırdı Ben, çıtırdayan kabuğunu çıkarmadan önce bir tanesini elinde yuvarladı. "Ama biraz tuzla iyi değiller miydi? Sana söylüyorum, eskiden odun kesmemize yardım ederlerdi!"
+"Ah! Fırında patates," diye bağırdı Ben, çıtırdayan kabuğunu
+çıkarmadan önce bir tanesini elinde yuvarladı. "Ama biraz tuzla iyi değiller miydi? Sana söylüyorum, eskiden odun kesmemize yardım ederlerdi!"
 
 "Gerçekten bir tane denemem gerekeceğini düşünüyorum," dedi Percy, derin bir pişmanlıkla itiraf etmek zorundaydı ki Hint yemeği lapasının damak tadına pek hitap etmediğini.
 
@@ -2256,7 +2264,7 @@ hiçbir fark yaratmaz. İnsanların nerede olurlarsa olsunlar iyi olmaları gör
 
 Ama Phronsie'nin yüzü büyük bir inanmazlık ifade ediyordu.
 
-"Ben büyük, yetişkin bir kadın olduğumda her zaman burada yaşayacağım," diye ilan etti, yavaşça mutfağa bakarak, "ve asla, asla
+"Ben büyük, yetişkin bir kadın olduğumda her zaman burada yaşayacağım," diye ilan etti, mutfağa yavaşça bakarak, "ve asla, asla
 Badgertown'dan dışarı çıkmayacağım. "
 
 "Ah, Phronsie!" diye haykırdı Polly, dehşet içinde dönerek, "neden, sen
@@ -2392,17 +2400,17 @@ başka tarafa çevirdi ve bunun yerine birbirlerine baktılar.
 "Ah! Hayır, gitmedi," dedi üç oğlan hep birlikte; "çift parçalayıcıya
 sıkıca yapıştı; bir ağaca çarptık ve Dick başı önde düştü."
 
-"Ama dürüstçe ve gerçekten, baba," dedi Jasper, "Bunun dümencinin
+"Ama dürüst olmak gerekirse, baba," dedi Jasper, "Bunun dümencinin
 suçlu olduğunu düşünmüyorum."
 
-"Gerçekten de değildi," diye kararlı bir şekilde ilan etti Ben; "karın altında görmediğimiz çirkin küçük bir çukur vardı. Dört veya beş kez aşağı inmiştik, ama sadece bir saç teli kadar farkla kaçırmıştık; bu sefer
+"Gerçekten de değildi," diye kararlılıkla ilan etti Ben; "karın altında görmediğimiz çirkin küçük bir çukur vardı. Dört veya beş kez aşağı inmiştik, ama sadece bir saç teli kadar farkla kaçırmıştık; bu sefer
 yırtıcı ona çarptı; sanırım Dick onun tarafında olduğu için çarptığını hissetti ve şarkı söyledi ve yıldırım hızıyla o ağaca çarptık. Bu benim hatamdı, herkes kadar, hatta daha da fazlası, çünkü o eski tepeyi iyice bilmeliydim."
 
 "Ben de suçluyum, Ben," diye araya girdi Jasper, "yaşlı dostum, eğer
 kendine
 atlarsan, beni de devirmek zorunda kalacaksın."
 
-"Buraya gel, Vanny," dedi yaşlı Bay King elini uzatarak. "Neden, korkmana gerek yok, oğlum," dünyadaki hiçbir gücün tutamayacağı gözyaşlarına dehşet içinde. "Şimdi herkes odadan çıksın lütfen."
+"Buraya gel, Vanny," dedi yaşlı Bay King elini uzatarak. "Korkmana gerek yok, oğlum," dünyadaki hiçbir gücün tutamayacağı gözyaşlarına dehşet içinde. "Şimdi herkes odadan çıksın lütfen."
 
 "Polly nerede?" diye sordu Ben, kapının diğer tarafında.
 
@@ -2433,7 +2441,7 @@ düşünerek oldukça rahatladı. "Ve Joel ve Davie de öyle yaptı - hepsi, sev
 "Kesinlikle; peki, sonra Ben çok çalışmak zorunda kaldı ve Joel ve Davie de, aslında. Yani, görüyorsun, bacaklarını
 kırmaları o kadar da önemli değildi, çocuğum."
 
-"Ama Jasper, Percy ve Van'ın çok çalışması gerekmiyor; oh! Onların bacaklarını
+"Ama Jasper, Percy ve Van'ın çok çalışması gerekmiyor; oh! Bacaklarını
 kırmasını istemiyorum," dedi Phronsie endişeli bir tonda. "Bunu
 yapacaklarını düşünmüyorsun, sevgili Büyükbaba, değil mi? Lütfen yapmayacaklarını söyle."
 
@@ -2505,7 +2513,7 @@ ayağı direksiyonda, kutuya doğru atıldı.
 hiçbir sözümün kimseyi incitmediğine inanmaya değer. Tanrı seni korusun, dostum!"
 Yaşlı beyefendi, konuşmasının tonunu ve biçimini aniden değiştirerek, "benim yolum bu; hepsi bu." diye ekledi.
 
-John Tisbett'in söyleyecek sözü yoktu, ama ayağını direksiyonda tutarak, aptalca yakışıklı yaşlı yüze bakarak kaldı.
+John Tisbett'in söyleyecek bir sözü yoktu, ama ayağını direksiyonda tutarak, aptalca yakışıklı yaşlı yüze bakarak kaldı.
 
 "Eğer başlamazsan, trene geç kalacağız," diye seslendi Jasper arabanın içinden, ""Hadi kalk!"" diye bağırdı dizginleri tutan Joel, "yoksa ben seni
 siz
@@ -2520,12 +2528,10 @@ dört kişiyi küçük patika yolunda arkalarından bakar halde bıraktılar, ta
 Dick büyük chintz kaplı sandalyeye yaslandı. "Anneciğim," dedi, "yanakların o kadar pembe değil ve o kadar yuvarlak değil, ama bence sen eskisinden
 çok daha iyi bir annesin. "
 
-"Öyle mi, Dick?" dedi gülerek. "Eh, birlikte
-mutlu vakit geçirdik, değil mi? Diğerleri gittiğinde korktuğum kadar
-uzun olmadı senin için on beş gün."
+"Öyle mi, Dick?" dedi gülerek. "Eh, birlikte mutlu vakit geçirdik, değil mi? Diğerleri gittiğinde korktuğum kadar uzun geçmedi senin için on beş gün."
 
-"Hiç de uzun olmadı," dedi Dick hemen ve sandalyenin arkasına
-daha da gömüldü; "sadece uçup gitti, anne. Polly ve
+"Hiç de uzun olmadı," dedi Dick hemen ve sandalyenin arkasına daha da
+çok gömüldü; "sadece uçup gitti, anne. Polly ve
 Phronsie'yi seviyorum; ama tanıdığım herhangi bir kızdan daha çok seni tercih ederim; gerçekten,
 anne."
 
@@ -2577,17 +2583,16 @@ sahip olan bir babası yok."
 
 "Keşke Tanrı Bay Duyckink ve Bayan Duyckink'i biraz daha
 önce yaratsaydı," dedi Dick düşünceli bir şekilde. "Yani, onları daha
-önce İngiltere'ye gitmek istemeye sevk etse, öyle değil mi anne?"
+önce İngiltere'ye gitmek istemeye
+bıraksaydı, öyle değil mi anne?"
 
 "Sanırım bunu istememeliyiz," dedi annesi gülümseyerek,
 "çünkü belki de sabırlı olmayı öğrenmemiz gerekiyordu. Ancak şimdi, Dicky,
 bir düşün, babanın bizimle evde yaşamasına izin verebiliriz!"
 
-"Yanakların şimdi pembe," diye gözlemledi Dick; "eskiden
-olduğu gibi pembe, anne."
+"Yanakların şimdi pembe," diye gözlemledi Dick; "eskiden olduğu gibi pembe, anne."
 
-Bayan Whitney, alçak pencerelerin arasında, çam lekeli çerçevesinde asılı duran eski moda aynaya koştu ve içeri baktı. "Altı ay önce babam gittiğinde
-göründüğüm gibi mi görünüyorum, Dicky?" diye sordu,
+Bayan Whitney, alçak pencerelerin arasında, çam lekeli çerçevesinde asılı duran eski moda aynaya koştu ve içeri baktı. "Altı ay önce babam gittiğinde olduğum gibi mi görünüyorum, Dicky?" diye sordu,
 endişeyle.
 
 "Evet," dedi Dick, "tıpkı öyle, sadece çok daha güzel," diye ekledi,
@@ -2627,9 +2632,9 @@ Ama Dick "yaşasın" demedi, hatta gülümsemedi bile.
 "Dicky," dedi Bayan Whitney, onun asık suratına gülümseyerek, "bunu duyduğumuza ne kadar da sevindik; bir düşün, iyi Dr. Fisher önümüzdeki Cumartesi gidebileceğimizi söylüyor."
 
 "Memnun oldum," diye mırıldandı Dick, üzgün, küçük bir sesle ve doktorun uzaklaşan formuna
-kapı kapanana kadar, ondan çıkarılabilecek tek şey buydu. Sonra döndü ve annesine iki kolunu uzattı.
+kapı kapanana kadar ondan çıkarılabilecek tek şey buydu. Sonra döndü ve annesine iki kolunu uzattı.
 
-"Anneme söylemek istemedim, gerçekten istemedim," diye hıçkırdı, annesi onu sıkıca sararken.
+"Anneme söylemek istemedim, gerçekten istemedim," diye hıçkırdı, annesi onu sıkıca kavrarken.
 
 "Bunu yapmadığını biliyorum canım," diye yatıştırdı onu. "Gerçekten hiçbir zararı olmadı; babam evdekilerin bilmesini istemedi, çünkü onları şaşırtmak istiyordu."
 
@@ -2681,7 +2686,7 @@ söylemiyordu; ve Bayan Pepper ve Polly oldukça zor zamanlar geçiriyorlardı. 
 çok neşeliydi; Jasper babasının mektubuna bir ek yazmıştı,
 okul hayatının son bültenini veriyordu. Ve Polly de Ben'in mektubuna aynı şeyi yaptı. Hatta Phronsie bile Badgertown'a ziyaretini götürmek için evde bıraktığı
 harika bir kedi yavrusunun yeni gelişmeleri hakkında uzun uzadıya bilgi verdi, böylece iki alıcı
-ev hayatıyla ilgili bilgi eksikliğini asla kaçırmadı,
+ev hayatıyla ilgili bilgi eksikliğini asla kaçırmadılar,
 ki bu da onların dışarıda bırakıldıkları.
 
 Sadece bir keresinde Bayan Whitney mektubunu katlayıp tekrar zarfına koyarken düşünceli bir şekilde, "Bayan Chatterton'dan bahsetmiyorlar. Sanırım planlarını değiştirdi ve yeğeninin yanında daha uzun süre kalacak." dedi.
@@ -2719,7 +2724,7 @@ Ve Polly, onlardan birini çağırmanın pek işe yaramayacağını biliyordu,
 
 "Boynum, yanım ve başım ağrıyor," dedi Bayan Chatterton sinirli bir şekilde; "neden sana söylediğimi yapmıyorsun?"
 
-Polly bir an tereddüt etti; sonra odadan
+Polly uzun bir an tereddüt etti; sonra odadan
 hızla çıkmak için döndü, öfkeli, acı duygular yüreğinde kabarıyordu, daha çok dayanılmaz ton ve tavırdan, yapması emredilen şeyden daha çok.
 Sadece döndü; ve yatağın yanına geri döndü ve
 huzursuz, diktatör yaşlı yüze baktı.
@@ -2746,7 +2751,7 @@ Ben ve Joel," dedi Polly, "beş yıl önce; son zamanlarda hiç hasta olmadık."
 "Hıh!" diye bağırdı Bayan Chatterton, pek de zarif olmayan bir şekilde. Ama bunu görecek küçük bir taşralı kızdan başka kimse yokken, güzel bir tavrın ne faydası vardı?
 
 "Hortense dönene kadar buna katlanmak zorundayım," dedi iç çekerek; "ayrıca, bu evde sana faydalı bir şeyler
-yapmak benim görevim. Beni yıkamana izin verdiğim için minnettar olmalısın."
+vermek benim görevim. Beni yıkamana izin verdiğim için minnettar olmalısın."
 
 Polly'nin gözleri parladı ve süngeri tutan eli titredi. Sadece
 Mamsie'yi ve sabrı en ince ipliklere kadar aşınmış sevgili yaşlı Bay King'i rahatsız etme korkusu onu görev yerinde tutuyordu.
@@ -2779,9 +2784,9 @@ pozisyona itti ve tekrar göreve döndü.
 "SEVGİLİ Bay King!" diye yankıladı Bayan Chatterton, tiz bir küçümsemeyle. "Saçma sapan şeyler," ve başını geriye atarak tatsız bir kahkaha attı; buna kahkaha denilemezdi. "Bu adamın gözlerinin üzerine bu şekilde yün çekilmesi ne kadar da aptalca. Sana söyleyeyim, Polly"--ve dirseğinin üzerinde doğruldu, yumuşak dantel beyaz ve yine de biçimli kolundan düştü. Bu üye onun güzellik konusundaki en güçlü iddialarından biriydi ve öfkesine rağmen Bayan Chatterton bir saniyeliğine durakladı ve yeni pozisyonuna memnuniyetle baktı - "Sevgili Bay King'iniz ve bu evi sık sık ziyaret eden rafine insanlarla eşitlik konusundaki saçma varsayımınız hakkında her şey söylendiğinde, eski kahverengi evinizdeki gibi tam olarak aynı terbiyesiz taşralı kızsınız, Tanrı bilir
 neredeyse."
 
-"İyi ki öyleyim," diye ilan etti Polly. Ve sağlam omuzlarını dikleştirirken neşeyle güldü. Hiçbir şey onun sevgili küçük eski kahverengi eve layık olduğunu ve Mamsie'nin yetiştirilmesini utandırmadığını duymaktan daha tatlı olamazdı.
+"İyi ki öyleyim," diye ilan etti Polly. Ve sağlam omuzlarını dikleştirirken aslında neşeyle güldü. Hiçbir şey onun sevgili küçük eski kahverengi eve layık olduğunu ve Mamsie'nin yetiştirilmesini utandırmadığını duymaktan daha tatlı olamazdı.
 
-Gülme, Bayan Chatterton'ın kısıtlamasını deviren son tüydü. Aslında şimdi, Jasper Horatio King'in kuzeni olan Algernon Chatterton'ın dul eşi olarak böyle bir küstahlıkla karşı karşıya kalmasına ve sözlerinin kız gibi eğlenerek bir kenara atılmasına çok öfkelenmişti.
+Gülme, Bayan Chatterton'ın kısıtlamasını deviren son tüydü. Aslında şimdi, Jasper Horatio King'in kuzeni olan Algernon Chatterton'ın dul eşi olarak böyle bir küstahlıkla karşı karşıya kalmasına ve sözlerinin kız gibi eğlenerek bir kenara atılmasına öfkelenmişti.
 
 "Ve sana daha fazlasını anlatacağım," diye devam etti, şimdi yatakta dik bir şekilde
 oturuyordu, "annen tüm ailesini bu şekilde
@@ -2790,7 +2795,8 @@ buraya tıkmak için iyi bir şey yaptığını düşünüyor, ama o"--
 Polly Pepper, kalbinden ve yüzünden kız gibi bir neşe
 kaybolmuştu, daha fazlasını
 beklemiyordu. "ANNEMİZ!" diye bağırdı fırtına gibi, başka bir kelime
-söyleyemeden--"oh--oh!" Nefesi hızlı, kısa soluklarla geldi, sıcak öfkeli kan alnındaki kahverengi saç dalgalarına doğru yükselirken, ellerini o kadar sıkı bir şekilde birbirine kenetlemişti ki, başka bir zamanda acı onu
+söyleyemeden--"oh--oh!" Nefesi hızlı, kısa soluklarla geldi, sıcak öfkeli kan alnındaki kahverengi saç dalgalarına
+yükselirken, ellerini o kadar sıkı bir şekilde birbirine kenetlemişti ki, başka bir zamanda acı onu
 çığlık attırırdı.
 
 Bayan Chatterton, sözlerinin etkisiyle dehşete düşerek, bir kez daha yastıklarına yaslandı. "Bir sahne yaratmaya çalışma," diye umursamazca söylemeye çalıştı. Ama kuzey rüzgarına karşı
@@ -2853,7 +2859,7 @@ Sevgili Büyükbaba, Bayan Chatterton ölecek mi?" diye bağırdı.
 
 "Kötü haber mi?" diye soludu Polly, Bay King'in mektup yazdığı masaya tutunarak. "Ah, Büyükbaba! Ne demek istiyorsun?"
 
-"Aman Tanrım! Nerelerdeydin, Polly Pepper," dedi Bay King, gözlüğünü ona daha yakından bakmak için ayarlayarak, "bu evdeki kargaşayı duymamak için mi? Evet, Bayan Chatterton, akrabaları arasında çok sevdiği tek kişi olan yeğeninin denizde boğulmasından yarım saat sonra bir telgraf aldı ve bu telgrafta tamamen bitkin bir şekilde yatıyor, ta ki gerçekten hastalanana kadar."
+"Aman Tanrım! Nerelerdeydin, Polly Pepper," dedi Bay King, gözlüğünü ona daha yakından bakmak için ayarlayarak, "bu evdeki kargaşayı duymamak için mi? Evet, Bayan Chatterton, akrabaları arasında çok sevdiği tek kişi olan yeğeninin denizde boğulmasından yarım saat sonra bir telgraf aldı ve bu telgrafta tamamen bitkin bir şekilde yatıyordu, ta ki gerçekten hastalanana kadar."
 
 Polly daha fazla bir şey duymayı beklemedi, bunun yerine rüzgarın kanatlarında uçup
 bir kez daha merdivenlerden yukarı çıktı.
@@ -2940,7 +2946,7 @@ Ben de bunun için peşinden koştum."
 Polly kalbinin sıkıştığını hissettiğinde şaşırdı. Kız gibi şakalaşma haberlerinden hiç etkilenmemiş gibi görünüyordu ama donuk ağrısı sonsuza kadar sürecekti.
 
 "Ah! Yapamam," diye bağırdı bir sonraki an. "Evde kalmalıyım ve
-Bayan Chatterton'a bakmaya yardım etmeliyim."
+Bayan Chatterton'a bakmalıyım."
 
 "Saçma!" diye bağırdı Alexia kışkırtılmış bir tonda; "Orada istenmiyorsun, Polly Pepper; fikir, hizmetçilerle dolu o büyük ev varken."
 
@@ -2975,7 +2981,7 @@ Polly kapıda Bayan Pepper ile karşılaştı, Bayan Pepper ilaç paketini hızl
 "Yorgun değilim," dedi Polly, "Daha iyi mi?" diye sormaya cesaret edemeyerek.
 
 "Eh, olmalısın," dedi Bayan Pepper, aceleyle uzaklaşarak, "ta
-aşağı Oakley'e kadar."
+aşağıya Oakley'e kadar."
 
 Bu yüzden Polly'nin tek yapması gereken koridorda oturmak ve hasta odasındaki tüm hareketleri dinlemek ve izlemekti, her biri onun korkusunu daha da artırıyordu. En azından artık dayanamıyordu ve Dr. Valentine eldivenlerini giyerek dışarı çıktığında, onun peşinden koştu.
 
@@ -2985,7 +2991,7 @@ Bu yüzden Polly'nin tek yapması gereken koridorda oturmak ve hasta odasındaki
 şok geçirdi ve yaşı ona karşı ama iyi
 olacak, umarım. Polly, senin hakkında daha iyi şeyler düşündüm, kızım." Mesleki bir hoşnutsuzlukla sıkıntılı yüze baktı.
 
-"Ölmeyeceğine çok sevindim," diye soludu Polly, onun hakkındaki fikrine tamamen kapılmıştı
+"Ölmeyeceğine çok sevindim," diye fısıldadı Polly, onun hakkındaki fikrine tamamen kapılmıştı
 ; ve yüzü eski parlaklığından bir parça parlıyordu.
 
 "Ondan bu kadar hoşlandığını bilmiyordum," diye gözlemledi Dr. Valentine sertçe;
@@ -3005,8 +3011,9 @@ Zavallı Polly sanki taşa dönmüş gibi duruyordu. Eğlence! Ve bunun
 tüm şansını tepmişti.
 
 "Parlak genç bir doğanın arkadaşlığı için acı çekiyor,"
-Dr. Valentine devam etti, kızın yüzündeki dehşeti, ayini yapmaya karşı doğal isteksizliğine bağladı. "Bu
-atak atlattıktan sonra, bir şey için ona kitap okunması gerekiyor; haberin verilmesi; kendini unutturulması. Ama tabii ki, Polly," dedi aceleyle, paltosunu ilikleyip dış kapıyı açarak, "senden bunu istemek çok fazla; "Bu yüzden daha fazla düşünme, çocuğum."
+Dr. Valentine devam etti, kızın yüzündeki dehşeti
+hizmeti yapmaya karşı doğal isteksizliğine bağladı. "Bu nöbeti
+atlattıktan sonra, tek bir şey için ona kitap okunması gerekiyor; haberin verilmesi; kendini unutturulması. Ama tabii ki, Polly," dedi aceleyle, üst ceketini ilikleyip dış kapıyı açarak, "senden bunu istemek çok fazla; "Bu yüzden daha fazla düşünme, çocuğum."
 
 XII
 
@@ -3015,9 +3022,9 @@ POLLY İÇİN YENİ BİR İŞ
 Cumartesi sabahıydı ve Polly elinde sabah Günlüğüyle parlak bir yüzle yukarı koştu. "Bayan Chatterton'la kalacağım,
 Hortense," diye duyurdu soyunma odasındaki görevliye.
 
-"Ve sana bir iyilik hediye edeyim," dedi Hortense, elindeki ipek
+"Ve sana bir rahatlık versin," dedi Hortense, elindeki ipek
 kağıdı sertçe sallayarak, sonra da yerine asmadan önce.
-"Madam'ın bu sabah üç şeytanı var, iki dala kadar çapraz, siz buna ne diyorsunuz."
+"Madam'ın bu sabah üç şeytanı var, iki dala kadar çapraz, sen buna ne diyorsun."
 
 Polly yavaşça odaya girdi ve kapıyı arkasından yavaşça kapattı.
 Büyük dairenin bir köşesinin gölgesinde, Bayan Chatterton bir
@@ -3025,14 +3032,12 @@ hastanın sandalyesinin derinliklerinde, birçok
 kağıdın altında oturuyordu. Polly onun yanına
 çıktı.
 
-"Haberleri okumamı ister misiniz, Bayan Chatterton?" diye sordu
+"Haberleri okumamı ister misin, Bayan Chatterton?" diye sordu
 nazikçe.
 
-Bayan Chatterton başını çevirip ona baktı. "Hayır," diye kısaca söylemek üzereydi, tıpkı son birkaç gündür Polly'nin birçok küçük teklifini geri çevirdiği gibi; ama nedense bu sabah kızın elindeki taze çarşafın çıtırtısı, dedikodu parçalarını andırıyordu, özellikle de Hortense ve onun kötü huyu yüzünden her zamankinden daha kötü bir ruh halindeyken, kayıtsızca duyması için fazlaydı.
+Bayan Chatterton başını çevirip ona baktı. "Hayır," diye kısaca söylemek üzereydi, tıpkı son birkaç gündür Polly'nin birçok küçük teklifini geri çevirdiği gibi; ama nedense bu sabah kızın elindeki taze çarşafın çıtırtısı, dedikoduların taze parçalarını andırıyordu, özellikle de Hortense ve onun kötü huyu yüzünden her zamankinden daha kötü bir ruh halindeyken, kayıtsızca duyması için fazlaydı.
 
-"İstersen oturup biraz okuyabilirsin," dedi
-nazik bir şekilde. Böylece Polly, izin aldığı için bir kraliçe kadar mutlu bir şekilde, rahat bir sandalyeye kaydı ve hemen başladı. Neyse ki aç kulaklar için tam doğru şeylere denk geldi; bir gün önce büyük bir kilise düğününün tanımı; Bayan Chatterton'ın gözden kaçırdığı
-toplum insanları hakkında iki üç şey ve aynı derecede kabul edilebilir birkaç şey.
+"İstersen oturup biraz okuyabilirsin," dedi nezaketsizce. Böylece Polly, izin aldığı için bir kraliçe kadar mutlu bir şekilde, rahat bir sandalyeye kaydı ve hemen başladı. Neyse ki aç kulaklar için tam doğru şeylere denk geldi; bir gün önce büyük bir kilise düğününün tanımı; Bayan Chatterton'ın gözden kaçırdığı sosyete insanları hakkında iki üç şey ve aynı derecede kabul edilebilir birkaç şey.
 
 Polly, bir şeyden diğerine okumaya devam etti, etkisini görmek için yukarı bakmaya cesaret edemedi, ta ki sonunda dedikodu yolundaki her şey tükenene kadar.
 
@@ -3071,7 +3076,7 @@ Polly gazeteleri yere attı ve kapıya doğru yürüdü.
 
 "Gitti," dedi Phronsie; "neredeyse bir saat önce eve gitti."
 
-Polly sertçe ona döndü. "Neden Town Talk'u istiyordu?"
+Polly ona sertçe döndü. "Neden Town Talk'u istiyordu?"
 
 "Büyük olduğunu söyledi ve Büyükbaba'ya isteyip istemediğini sordu ve
 Büyükbaba, Evet dedi. Ne için istediğini bilmiyorum," dedi
@@ -3080,7 +3085,7 @@ Phronsie. "Ve başka gazeteler de aldı, Polly; oh! bir sürü."
 "Ne kadar aldığını veya ne aldıklarını umursamıyorum," diye haykırdı Polly,
 "sadece o çok aynı olan. Aman Tanrım! Peki, Jasper'a soracağım."
 
-Ve kütüphaneden aceleyle çıkıp, Phronsie Polly'nin sıkıntısından dolayı küçük bir panikle onu takip ederek, Jasper'ın ininin kapısını çaldı, kanatta küçük bir oda, doğu çimenliğine bakıyordu.
+Ve kütüphaneden aceleyle çıkıp, Phronsie Polly'nin sıkıntısından dolayı ufak bir panikle onu takip ederek, Jasper'ın ininin kapısını çaldı, kanatta küçük bir oda, doğu çimenliğine bakıyordu.
 
 "Ah! Burada olmana çok sevindim," diye haykırdı, "İçeri gel!" diye selamladı onu ve Phronsie ile ikisi de törensel bir tavır takınmadan çalışma masasının önüne
 atladılar. "Ah Jasper! Bana "Kasaba Sohbeti"nin bir kopyasını getirebilir misin? Jack Rutherford bizimkini alıp gitti."
@@ -3108,7 +3113,8 @@ Hemen dönerim, Polly."
 
 Polly dışarı çıktı ve koridordaki büyük meşe sandalyelerden birine
 oturdu,
-geldiği gibi aldı ve Phronsie karşıdaki sandalyeye oturdu ve Polly'yi izledi. Ve hemen Jasper içeri girdi, istediği günlüğü sallayarak. Polly, ışıldayan bir yüzle günlüğü aldı ve
+geldiği gibi aldı ve Phronsie karşıdaki sandalyeye
+yerleşti ve Polly'yi izledi. Ve hemen içeri Jasper girdi, istediği günlüğü sallayarak. Polly, ışıldayan bir yüzle günlüğü kavradı ve
 yukarı kata koştu.
 
 "Polly," diye seslendi çocuk, arkasından bakarak, "onlarla gitmen için artık çok geç değil. Lucy Bennett köşede benimle buluştu ve
@@ -3168,11 +3174,10 @@ resepsiyonlar ve çaylar hakkında her şey."
 "Onu okudu," dedi Bayan Chatterton. "Şimdi moda bölümüne geçelim." Bayan Whitney gazeteyi ustalıkla çevirdi. "Biliyor musunuz, Bayan Chatterton, bu baharda her zamankinden daha fazla gri şeyler giyilecek?"
 
 "Bunun umurumda değil," dedi Bayan Chatterton hemen, "ayrıca,
-bahar gerçekten gelmeden önce büyük olasılıkla tam bir devrim olacak ve gri şeyler
-giyecek. Çay elbiselerinin bir tanımını bulabilir misiniz? Bir veya iki tane daha olmalı."
+bahar gerçekten gelmeden önce büyük olasılıkla tam bir devrim olacak ve gri şeyler ortadan kalkacak. Çay elbiselerinin bir tanımını bulabilir misiniz? Bir veya iki tane daha olmalı."
 
-"Ve işte hepsi açıklamalara benziyorsa, harika güzel şapkalar," dedi Bayan Whitney, talihsiz bir şekilde başka bir
-paragrafta.
+"Ve eğer hepsi açıklamalara benziyorsa, işte harika güzel şapkalar," dedi Bayan Whitney, talihsiz bir şekilde başka bir paragrafa
+atlayarak.
 
 "Şapkalar! Bunları kim duymak ister?" diye bağırdı Bayan Chatterton öfkeyle. "Umarım henüz şapka dönemine gelmedim."
 
@@ -3180,7 +3185,7 @@ paragrafta.
 "Pinaud'dakilerin ne kadar zarif olduğunu bilmiyor musun?" diye bağırdı.
 
 "Hiç fark etmediğimden eminim," dedi Bayan Chatterton kayıtsızca.
-"Hortense saçımı dantel olmadan daha iyi düzenliyor. Eğer sana
+"Hortense saçımı dantel olmadan daha iyi şekillendiriyor. Eğer sana
 söylediklerimi bulamazsan, Marian," sesini daha yüksek bir tona yükselterek, "hiç
 okumana gerek yok."
 
@@ -3190,7 +3195,8 @@ sinirli bir şekilde sütunların üzerinde gezinirken ve onu yakalarken, belirg
 Ama sadece iki dakika içinde sözü kesildi. "Şu kızı tekrar geri gönder, Marian," diye bağırdı Bayan Chatterton. "Onu bana uyacak şekilde
 az önce eğitmiştim. Seni duymak beni çok yoruyor."
 
-"Polly'nin şimdi gelip gelemeyeceğini bilmiyorum," dedi Bayan Whitney nazikçe; "o"--
+"Polly'nin şimdi gelip gelemeyeceğini bilmiyorum," dedi Bayan Whitney nazikçe;
+"o"--
 
 "Polly'nin gelip gelemeyeceğini bilmiyorum!" diye tekrarladı Bayan Chatterton sertçe,
 ve sandalyesinde öne doğru eğilerek. "Onu istediğimi söylememiş miydim?"
@@ -3201,7 +3207,7 @@ Bayan Chatterton; bunu anlıyorsunuzdur, tabii ki?" O da
 sandalyesinde öne doğru eğildi ve soğuk, sert yüze baktı.
 
 "Tıpkı baban gibi," diye haykırdı Bayan Chatterton, öfkeyle
-tekrar sandalyenin derinliklerine yerleşerek. "Bu evdeki işlerin düzeleceğine dair hiçbir umut yok. Ellerimi senden çekiyorum."
+tekrar sandalyenin derinliklerine yerleşerek. "Bu evdeki işlerin düzeleceğine dair hiçbir umut yok. Senden ellerimi çekiyorum."
 
 "Beni babam gibi gördüğün için çok mutluyum," dedi Bayan Whitney
 bir çocuk gibi neşeyle. "Bu konuda kesinlikle birleştik."
@@ -3263,7 +3269,7 @@ Ama Polly kararlı bir şekilde sandalyenin koluna tutundu ve kahverengi gözler
 "tanışma talihsizliğine uğradığım en itici kızsın. Ben, senin sürekli öfke patlamalarına
 katlanmayacağım. Bu odadan çık!"
 
-Polly yavaşça ayağa kalktı ve yüzünde ve tavırlarında o kadar yeni bir şeyle kendini toparladı ki yaşlı kadın içgüdüsel olarak gözlüğünü taktı ve garip bir hayvana bakar gibi
+Polly yavaşça ayağa kalktı ve yüzünde ve tavırlarında o kadar yeni bir şeyle dikleşti ki yaşlı kadın içgüdüsel olarak gözlüğünü taktı ve garip bir hayvana bakar gibi
 merakla baktı.
 
 "Hııı!" dedi sonunda yavaşça, "peki, ne söylemek istiyorsun? Konuş ve sonra git."
@@ -3300,19 +3306,19 @@ onu gönderme! Hepsi benim suçum; gerçekten de öyle, Büyükbaba!"
 çocuk; bu saçma; kadını tanımıyorsun. "
 
 "Büyükbaba," diye haykırdı Polly, gözyaşlarını tutup kelimeleri
-çıkartmaya çalışırken, "Sana hiç söylemedim - söyleyemedim - ama bir hafta önce ona
+çıkartmaya çalışırken, "sana hiç söylemedim - söyleyemedim - ama bir hafta önce ona
 mükemmel derecede korkunç sözler söyledim. Ah, Büyükbaba! Gerçekten söyledim."
 
 "Haklısın," dedi yaşlı beyefendi memnun bir tonla. "Neydi onlar, lütfen söyle? Bize haber ver."
 
-"Ah, Büyükbaba, yapma!" diye yalvardı Polly titreyerek; "Unutmak istiyorum onları."
+"Ah, Büyükbaba, yapma!" diye yalvardı Polly, titreyerek; "Unutmak istiyorum onları."
 
 "Keşke daha fazlasını yapsaydın," dedi Bay King düşünceli bir şekilde; "gözyaşlarına gelince, o yürümek zorunda, biliyorsun."
 
-"Ağlamayacağım," dedi Polly boğazındaki yumruyu yutarak, "eğer kalmasına izin
+"Ağlamayacağım," dedi Polly, boğazındaki yumruyu yutarak, "eğer kalmasına izin
 verirsen."
 
-Ona öyle sıkıntılı ve bembeyaz bir yüzle döndü ki Bay King şaşkınlıkla ona baktı, söyleyecek hiçbir şeyi yoktu.
+Ona öylesine sıkıntılı ve bembeyaz bir yüzle döndü ki Bay King şaşkınlıkla ona baktı, söyleyecek hiçbir şeyi yoktu.
 
 "Ondan bıktım," dedi sonunda; "hepimiz bıktık ondan; o bizi
 yormuş."
@@ -3323,7 +3329,7 @@ sadece onun kalmasına izin verirsen, senden bir daha asla hiçbir şey için ya
 "O zaman o gidiyor," diye bağırdı Bay King kısaca. "Aman Tanrım, Polly, eğer
 eğer iyilik istemeyi bırakacaksan, Kuzen Eunice hemen yürür!"
 
-"Oh! "Çok şey için yalvarıp alay edeceğim," diye haykırdı Polly, rengi geri gelirken. "Kalmasına izin verecek misin,
+"Ah! "Çok şey için yalvarıp alay edeceğim," diye haykırdı Polly, rengi geri gelirken. "Kalmasına izin verecek misin,
 Büyükbaba--verecek misin?" Kolunu sıkıca kavradı ve onu
 bırakmadı.
 
@@ -3342,8 +3348,7 @@ Marian." Yaşlı Bay King merdivenlerden çıkarken, emrinin duyulup duyulmadı�
 
 "Sanırım Anne Biber'i de istiyorsun?" dedi Bayan Whitney, ayak ucunda durarak.
 
-"Anne Biber mi? Hayır, kesinlikle; dünyada görmek istediğim son kişi," diye bağırdı babası sinirli bir şekilde. "Pepper çocuklarının grubunu istiyorum, hem de hemen; hepsinin doğrudan bana rapor vermesini istiyorum." Bunun üzerine çabalarını iki katına çıkardı ve kısa süre sonra uzun meşe
-basamakların tepesindeydi.
+"Anne Biber mi? Hayır, kesinlikle; dünyada görmek istediğim son kişi," diye bağırdı babası sinirli bir şekilde. "Pepper çocuklarının grubunu istiyorum, hem de hemen; hepsinin doğrudan bana rapor vermesini istiyorum." Bunun üzerine çabalarını iki katına çıkardı ve kısa süre sonra uzun meşe basamakların tepesindeydi.
 
 Polly ve Ben, Joel tarafından yakından takip edildi, David ve Phronsie kısa süre sonra aynı yükselen caddeden
 koştular ve kızararak ve soluk soluğa, çalışma odasının kapısına geldiler.
@@ -3353,16 +3358,17 @@ koştular ve kızararak ve soluk soluğa, çalışma odasının kapısına geldi
 "İşte geldik, efendim," dedi Ben, en büyükleri olduğu için sözcü.
 
 "Evet, evet," dedi Bay King gergin bir şekilde ve bazı kağıtlardan uzaklaşarak bekleme anlarını
-doldurmak için beceriksizce çabaladı. "Hadi, oturun, hepiniz. Seni bir şey hakkında konuşmak için çağırdım, sen--sen--otur."
+doldurmak için beceriksizce çabaladı. "Hadi, oturun, hepiniz. "Seni, senin--senin--oturacağın bir şey hakkında konuşman için çağırdım."
 
 Böylece tüm Peppers çeşitli dinlenme yerlerine yerleşti; Joel hariç. Hemen yaşlı beyefendinin sandalyesine yürüdü.
 
-"Eğer iyi bir haberse," dedi aniden, "lütfen hemen şu anda bize bildirin. Ama kötüyse, neden," tombul yüzünde toplanan bir alarm, önündeki yüzü tararken, "dışarı çıkıyorum."
+"Eğer iyi bir haberse," dedi aniden, "lütfen hemen şu anda bize bildirin. Ama kötüyse, neden," tombul yüzünde toplanan bir endişe, önündeki yüzü tararken, "dışarı çıkıyorum."
 
-"İyi veya kötü haber, nasıl anladığınıza göre," dedi yaşlı beyefendi. "İyi olmalı. Ama orada," sandalyesini geriye iterek masanın diğer tarafındaki endişeli figürlere baktı, "oturun, Joe, geri kalanlarla birlikte ve bana surat asmayı bırakın." 
+"İyi veya kötü haber, nasıl anlıyorsan öyle," dedi yaşlı beyefendi. "İyi olmalı. Ama orada," sandalyesini geriye iterek
+masanın diğer tarafındaki endişeli figürlere baktı, "oturun, Joe, geri kalanlarla birlikte ve bana surat asmayı bırakın."
 
-Polly bunun üzerine, bir sandalyeyi Joel'e doğru itti, Joel kendini ikna ederek sandalyenin kenarına
-oturup rahatsız bir şekilde oturdu, her zamankinden daha sert baktı. 
+Polly bunun üzerine, bir sandalyeyi Joel'e doğru itti, Joel kendini ikna ederek
+sandalyeye oturdu, rahatsız bir şekilde kenarına oturdu ve her zamankinden daha sert baktı.
 
 "Hımm! Eh, çocuklar, şimdi hepiniz oldukça mantıklı çocuklar ve kızlar oldunuz. Oldukça mantıklı. Bunu her zaman söyledim ve şimdi sizin hakkınızdaki fikrimi değiştirmek için hiçbir neden göremiyorum. Ve bu yüzden, ilk başta haberlerim pek hoşunuza gitmese de, neden, hemen öyle olacak ve sonunda bundan çok
 mutlu olacaksınız. Öhö! peki, hiç düşündün mü ki--annenin
@@ -3378,11 +3384,12 @@ geçip gittiği izlenimi verildi. Ama bir soluklanma molasından sonra korkunç 
 
 "Ah! Nasıl olur da?" diye haykırdı Polly tutkuyla, ağzının etrafında küçük bir beyaz çizgi belirerek, "böylesine korkunç şeyler söyleyebilirsin, efendim!"
 
-Phronsie ellerini sessiz bir dehşetle kavuşturdu ve kocaman gözlerini yüzüne doğru kaldırdı. David çaresizce dairede yürümeye başladı. "Bakın!"
-dedi Joel diğerlerine dönerek, "bir dakika bekleyin ve tutunun. Belki de
+Phronsie ellerini sessiz bir dehşetle kavuşturdu ve kocaman gözlerini yüzüne doğru kaldırdı. David çaresizce dairede yürümeye başladı. "Bakın buraya!"
+dedi Joel, diğerlerine dönerek, "bir dakika bekleyin ve tutunun. Belki de
 sizsiniz, efendim," delici bakışlarla yaşlı beyefendiye dönüp, "annemizle evlenecek olan kişi. O zaman her şey yoluna girecek!"
 
-"Ben!" diye kükredi yaşlı beyefendi. "Ah! Tanrım, hayatımın bu döneminde ne için evlenmek isteyebilirim ki? Aman Tanrım ben."
+"Ben!" diye kükredi yaşlı beyefendi. "Ah! Tanrım, hayatımın bu döneminde
+ne için evlenmek isterim? Aman Tanrım ben."
 
 Onun sıkıntısı artık öyle korkutucuydu ki, Biberleri bir ölçüde rahatsız etti; ve hemen onu sakinleştirmeye başladılar.
 
@@ -3401,16 +3408,11 @@ hissedebilirim. Orada, orada, bundan bahsetmeyeceğiz," genç yüzler ani bir ac
 "Memnun musun?" diye bağırdı Ben kısık bir sesle. Polly hayatı boyunca konuşamadı.
 Bütün dünya dönüyor ve ayaklarının altında batıyor gibiydi.
 
-"Evet, öyleyim," dedi yaşlı beyefendi, "ve bu, mevcut
-durumu değiştirmeyecek, çünkü o bizimle burada yaşayacak ve her şey aynı olacak, yeter ki siz çocuklar bunu doğru şekilde karşılayın. Ama sonunda
-sizin de öyle olacağınızdan hiç şüphem yok; hiç şüphem yok," diye ekledi, neşelenerek, "çünkü
-sizler çok mantıklı gençlersiniz. Bunu her zaman söyledim."
+"Evet, öyleyim," dedi yaşlı beyefendi, "ve bu, mevcut durumu değiştirmeyecek, çünkü o bizimle burada yaşayacak ve her şey aynı olacak, eğer siz çocuklar bunu doğru şekilde karşılarsanız. Ama sonunda siz de öyle yapacaksınız; hiç şüphem yok," diye ekledi, neşelenerek, "çünkü siz çok mantıklı gençlersiniz. Bunu her zaman söyledim."
 
-"O kim?" Korkunç soru herkesin dudaklarında titredi; ama kimse sormadı. Bunu gören Bay King, "Elbette şimdi, annenle kimin evleneceğini bilmek istiyorsun, yani eğer istersen. Çünkü sen bundan memnun olmazsan, o onu kabul etmeyecek.
-Dr. Fisher'ı baban olarak ister misin?" diye bağırdı.
+"O kim?" Korkunç soru herkesin dudaklarında titredi; ama kimse sormadı. Bunu gören Bay King, "Elbette şimdi annenle kimin evleneceğini bilmek istiyorsun, yani eğer istersen. Çünkü sen mutlu olmadıkça o onu kabul etmeyecek. Dr. Fisher'ı baban olarak ister misin?" diye bağırdı.
 
-Joel bir ulumayla pencereden uzaklaştı, Polly ise gürültülü bir şekilde Phronsie'yi
-saran nazik kolların arasına kendini attı.
+Joel uluyarak pencereden uzaklaştı, Polly ise gürültülü bir şekilde Phronsie'yi saran nazik kolların arasına kendini attı.
 
 "Yanında," diye bağırdı çocuk, "neden, o bir tuğla, Dr. Fisher!"
 
@@ -3423,29 +3425,28 @@ Sadece Phronsie etkilenmeden kaldı. "Dr. Fisher ne yapacak?" diye sordu hemen, 
 sarı saçlarını düzelterek. "Bu güzel olmaz mı, Phronsie?"
 
 "Evet," dedi Phronsie, "olur. Ve komik eski işini getirecek,
-değil mi, ve ben bazen araba kullanacağım sanırım?" diye ekledi büyük bir memnuniyetle.
+değil mi, ve ben bazen araba kullanacağım, sanırım?" diye ekledi büyük bir memnuniyetle.
 
 "Evet; yapacaksın," dedi yaşlı beyefendi, çocuğu tehdit eden heyecanlı bilgi akışını engellemek için öfkeyle göz kırparak. "Peki,
 Phronsie, Dr. Fisher'ı seviyorsun, değil mi?"
 
 "Evet, seviyorum," dedi çocuk, ellerini kucağında kavuşturarak, "onu gerçekten çok seviyorum. "
 
-"Eh, o senin baban olacak," diye iletti Bay King, her hecede yüzünü dikkatle 
-izleyerek.
+"Eh, o senin baban olacak," diye iletti Bay King, her hecede yüzünü dikkatle izleyerek.
 
 "Ah, hayır!" diye haykırdı Phronsie, "olamaz; o Dr. Fisher." Bu fikre yumuşakça güldü. "Neden, Büyükbaba, o benim babam olamaz."
 
 "Dinle, Phronsie," ve Bay King onun iki elini de kendi ellerinin arasına aldı, "ve sana bunu anlatacağım ki anlayasın. Dr. Fisher anneni seviyor; onu uzun yıllardır seviyor -- küçük kahverengi evde mücadele ettiği tüm o yıllar boyunca. Ama bunu ona söyleyemedi,
 çünkü destek için ona bağımlı olan başkaları vardı. Şimdi ona ihtiyaçları yok ve serbest kalır kalmaz gelip annenle bana,
 o asil ve iyi bir adam gibi, her şeyi anlatıyor. O bir beyefendi,
-çocuklar," diye ilan etti, diğerlerine dönerek, "ve ona
+çocuklar," diye ilan etti, diğerlerine dönerek, "ve siz ona
 baba demeye
-memnuniyet duyacaksınız."
+memnun olacaksınız."
 
 "Ne demek istediğini bilmiyorum," dedi Phronsie şaşkın gözlerle. "Sevgili
 Büyükbaba, lütfen söyle bana."
 
-"Neden, o senin annenle evlenecek, çocuğum ve hepimiz yine de burada birlikte yaşayacağız ve her şey mümkün olduğunca
+"Neden, o senin annenle evlenecek, çocuğum, ve hepimiz yine de burada birlikte yaşayacağız ve her şey mümkün olduğunca
 mutlu olacak."
 
 Phronsie keskin ve ani bir acı çığlığı attı. "Ama Mamsie, benim
@@ -3456,7 +3457,7 @@ koşup pencereyi açsın. Phronsie, Phronsie--işte, çocuk, yukarı bak
 ve sana anlatayım." Fakat Phronsie, lekesiz ketenine aldırmadan,
 koruyucu yuvanın daha da derinlerine indi.
 
-"Polly, konuş onunla," diye haykırdı umutsuzluk içinde; "o nerede?
+"Polly, konuş onunla," diye haykırdı umutsuzlukla; "o nerede?
 suya mı gitti? Aman Tanrım! İşte, Ben, sen dene. Aman Tanrım, ne kadar da gaflıyım."
 
 "Phronsie," dedi Ben, titreyen figüre doğru eğilerek, "Büyükbabayı
@@ -3479,7 +3480,8 @@ Phonsie umutsuzluğundan çıkıp sorular sormaya başladı.
 sandalyenin yanına diz çökerek. "Çok daha zengin olduğumuzu görmüyor musun, Phronsie? Hiçbir şey kaybetmedik ve Dr. Fisher'ı kazandık. Sevgili
 muhteşem Dr. Fisher!"
 
-"Her zaman Dr. Fisher'a nezaketinin karşılığını ödemek istedin," dedi Bay King, "ve şimdi senin şansın, Polly."
+"Her zaman Dr. Fisher'a nezaketinin karşılığını ödemek istedin," dedi Bay.
+King, "ve şimdi senin şansın, Polly."
 
 "Sanırım sobasının karşılığını alacak," diye haykırdı Joel bir anda;
 "Polly ona hizmet edecek ve onun için bir şeyler yaparken kendini öldürecek."
@@ -3589,7 +3591,7 @@ Bak, Ben," çocuğun omzuna kontrolcü bir el koydu, "seninle bir şey konuşal�
 
 Ben aniden endişelenerek başını kaldırdı. "Ah! Umarım öyle olmaz, efendim," dedi.
 
-"Bu bir gerçek. Usta Nelson, dilbilgisi alanında birinci olabileceğini söylüyor, ama son altı aydır istikrarlı bir şekilde başarısız oldu. Bunun özel bir nedeni yok, sadece hırsı gitti. Ve bunu söylediğinde, onunla ilgili tüm umutlarımın genel olarak çöktüğünü kastediyorsun."
+"Bu bir gerçek. Üstat Nelson, dilbilgisi alanında birinci olabileceğini söylüyor, ama son altı aydır istikrarlı bir şekilde başarısız oldu. Bunun özel bir nedeni yok, sadece hırsı gitti. Ve bunu söylediğinde, onunla ilgili tüm umutlarımın genel olarak çöktüğünü kastediyorsun."
 
 "Ah! Hayır, efendim," diye itiraz etmeye devam etti Ben, kırmızı yanağının rengi solmuştu. "Yavaş yavaş tutunacak ve kitaplarına tekrar sarılacak."
 
@@ -3612,9 +3614,9 @@ XIV
 
 MAMSIE'NİN DÜĞÜNÜ
 
-"Polly," dedi Dr. Fisher, aniden kütüphanenin bir köşesinden çıkıp portiere kıvrımlarının etrafında koşarken, "devam etmesini istediğinden emin misin?"
+"Polly," dedi Dr. Fisher, portiere kıvrımlarının etrafında koşarken kütüphanenin bir köşesinden aniden çıkarak, "devam etmesini istediğinden emin misin?"
 
-Küçük adam büyük gözlüklerinin ardından endişeyle ona baktı ve tıpkı o sabah Polly'nin gözlerinin en kötü halinde olduğu zamanki gibi baktı, Polly'nin tek yapabildiği şey, onun yüzüne
+Küçük adam büyük gözlüklerinin ardından endişeyle ona baktı ve tıpkı o sabah Polly'nin gözlerinin en kötü durumda olduğu zamanki gibi baktı, Polly'nin tek yapabildiği şey, onun yüzüne
 susmak oldu.
 
 "Bunu pek de iyi bulmadığını görüyorum, çocuğum," dedi küçük doktor
@@ -3626,14 +3628,14 @@ Korkma; her şeyi bitirmek için çok geç değil."
 Genç kollarını ona doladı. "Papa Fisher--çünkü artık neredeyse
 babamsın--ben çok, çok mutlu bir kızım çünkü burada yaşayacaksın ve şimdi sana seni ne kadar çok sevdiğimi gösterebilirim."
 
-Küçük adam ona gülümsedi. Sonra gözlüklerini çıkardı, sildi ve tekrar yerine taktı. "Görüyorsun ya, Polly," dedi
+Küçük adam ona gülümsedi. Sonra gözlüklerini çıkardı, sildi
+ve tekrar yerine taktı. "Görüyorsun ya, Polly," dedi
 kasıtlı olarak, "anneni görüp de onu sevmemek imkansızdı.
 Onun--işte, işte, çocuğum, bundan bahsetmeye dayanamıyorum," ve
 pencereye yürüdü, burnunu kocaman bir mendile
 şiddetli bir şekilde sümkürdü, kelimeleri havada bıraktı.
 
-"Ona, o zamanlar,
-kurt kapıdan uzak tutmak için bu kadar cesurca mücadele ederken,
+"Ona, o zamanlar, kurdu kapıdan uzak tutmak için bu kadar cesurca mücadele ederken,
 hissettiklerimi gösteremediğim hayatımın en büyük sınavıydı. Ama ellerim bağlıydı, çocuğum," diye ekledi, her zamanki haline dönerek. "Şimdi onu mutlu edebilirim, diyor, tabii, eğer siz
 çocuklar bundan hoşlanıyorsanız. Bir düşün, Polly, dedi mutlu! Muhteşem,
 ama öyle dedi, Polly, gerçekten öyle!"
@@ -3644,7 +3646,7 @@ aydınlatan yoğun bir memnuniyet parlıyordu, ta ki her an daha da gençleşiyo
 
 "Gerçekten de öyle!" diye tekrarladı Polly bir kuş gibi ve neşeyle gülerek.
 "Ah, Papa Fisher! Mamsie'nin şarkı söylediğini duymalısın. Benim onu ​​duyduğumu
-bilmiyor ama şimdi işte şarkı söylüyor. "
+bilmiyor ama şimdi iş yerinde şarkı söylüyor. "
 
 "Öyle mi?" diye haykırdı doktor neşeyle. "Pekâlâ, Polly, bundan sonra her
 gün şarkı söylediğini görmeliyiz."
@@ -3704,8 +3706,8 @@ tatmin edici olmayan bir şeyler söyledi. Polly aniden kahverengi başını kal
 "Saçmalık! Mutluluğumuz, bir araya gelip ona yardım eden çok sayıda insana bağlı değil. Mamsie'nin yüzü, Büyükbaba tüm bu ihtişamı planladığında, bunun düşüncesiyle
 kendisini perişan hissetmeme yetiyor. Sevgili Mamsie! Eğer bundan hoşlanmaya çalışmazsa nankörlükten korkuyor. Küçük sabah düğününü birkaç kişiyle yapacak ve Büyükbaba'nın giymesini istediği lavanta rengindeki elbise yerine gri ipek elbise giyecek, çünkü Mamsie her zaman neyin doğru olduğunu bilir. "
 
-Bunun üzerine Polly yataktan fırladı ve tuvalete koştu ve kahvaltıdan sonra Bay King'i başka bir
-abartılı planın eşiğinde sessizce yakaladı ve onu kütüphaneye götürdü.
+Bunun üzerine Polly yataktan fırladı ve tuvalete koştu ve kahvaltıdan sonra Bay King'i sessizce başka bir
+abartılı planın eşiğinde yakaladı ve onu kütüphaneye götürdü.
 
 "Her şey yolunda gidiyor, Polly," diye sevinçle bağırdı. "Thomas'ı çağır, çocuğum; bekle, kendim yapacağım. Bir saat sonra düğün yemeği için siparişlerimi vermeye gideceğim."
 
@@ -3715,17 +3717,16 @@ bir şeyim var."
 "Pekala, çocuğum," ama hala elini ipte tutuyordu.
 
 "Ah, Büyükbaba!" Bunu nasıl söyleyebilirdi! Ama söylemeliydi. "Düğün sessiz
-olursa Mamsie çok daha mutlu olacak. Gerçekten yapardı, Büyükbaba."
+olursa Mamsie çok daha mutlu olacak. Gerçekten öyle yapardı, Büyükbaba."
 
-"Hiç şüphesiz Bayan Pepper fikirlerini büyük meseleye uyarlamakta biraz zorlanıyor," dedi yaşlı beyefendi, oldukça rahatsız olmuş ve zil ipini kesinlikle bırakmamış bir şekilde, "ama siz çocukların eğlenmesi gerekiyor ve hepinizin eğlenmesini sağlamalıyım. Bu benim işim," ve bu sefer ip çekildi ve zil yüksek, ısrarcı bir mesaj çaldı.
+"Hiç şüphesiz Bayan Pepper fikirlerini büyük meseleye göre ayarlamakta biraz zorlanıyor," dedi yaşlı beyefendi, oldukça rahatsız olmuş ve zil ipini kesinlikle bırakmamış bir şekilde, "ama siz çocukların eğlenmesi gerekiyor ve hepinizin eğlenmesini sağlamalıyım. Bu benim işim," ve bu sefer ip çekildi ve zil yüksek, ısrarcı bir mesaj çaldı.
 
 Polly umutsuzluk içinde kıpırdamadan durdu. "Büyükbaba," dedi belirgin bir şekilde, devam etmekte zorlanarak, yüzü önünde, "biz çocuklar büyük partiyi istemiyoruz; yani ben istemiyorum."
 
 Sonunda her şey bitmişti.
 
 "Saçma sapan şeyler!" diye bağırdı Bay King sertçe, çünkü şaşkınlığı sakinleşmeye izin
-vermeyecek kadar büyüktü, "bu fikri kafana kim
-koyuyor? Annen bunu yapamazdı, çünkü her şeyin
+vermeyecek kadar büyüktü, "bu fikri kafana kim soktu? Annen bunu yapamazdı, çünkü her şeyin
 siz gençlerin istediği gibi olacağına söz verdi."
 
 "Anneciğim tek kelime etmedi," diye bağırdı Polly, Anne Pepper için her şeyi düzeltme şansı gördüğünde kendine gelerek; "her şey bana geldi,
@@ -3768,7 +3769,7 @@ onları çalışma masamda bulacaksın."
 öp beni, Polly canım. Bittikten sonra her şeyin yoluna girdiğini göreceksin ve
 aklımı buna verecek kadar aklım olduğu için mutlu ol."
 
-Polly itaatkar bir şekilde dudaklarını kıvırdı. Ama bu, onun ağzına konan hüzünlü, küçük bir öpücüktü ve onu bir suçlu gibi hissettirdi.
+Polly itaatkar bir şekilde dudaklarını kıvırdı. Ama bu, onun ağzına konan hüzünlü küçük bir öpücüktü ve onu bir suçlu gibi hissettirdi.
 
 Ve koşarak dışarı çıktığında, bir an bile hazırlık yapmadan
 zorlu göreviyle karşılaştı. "Merhaba, Polly!" diye bağırdı Joel, koridorda bir köşeden koşarak,
@@ -3800,7 +3801,7 @@ tatsız görüntüleri önünde belirirken. "Başımın üzerinden ateş etme, P
 Phronsie, ikisine kocaman gözlerle ve pek de memnun olmayan bir tavırla baktı.
 
 "Mamsie büyük bir düğün istemiyor," diye ilan etti Polly, konunun özüne inerek, "ama sevgili nazik Büyükbaba bunun bizim
-çocukları memnun edeceğini düşünüyor ve bu yüzden ona bir düğün yapmak istiyor."
+çocuklarımızı memnun edeceğini düşünüyor ve bu yüzden ona bir düğün yapmak istiyor."
 
 "Ve öyle olacak," diye haykırdı Joel, "biz çocukları memnun edeceğiz. Vay canına! Bize
 elini ver, Phronsie, partide bundan sonra böyle dans edeceğiz."
@@ -3853,16 +3854,17 @@ yapmadığımız sürece hiçbir şeyden vazgeçmemizi istemiyor," dedi Polly. H
 "Eh, öyle değil. Bana bir daha parti dersen, ben--ben--ben!" ve ona
 kinle baktı.
 
-"Joel Pepper!" diye bağırdı Polly, onu kahverengi gözleriyle tutarak, "gerçekten o büyük akşam partisini bırakıp, sabah o küçük partiyi yapmaktan memnun musun?"
+"Joel Pepper!" diye bağırdı Polly, onu kahverengi gözleriyle tutarak, "o büyük akşam partisinden vazgeçip, sabah o küçük partiyi yapmaktan gerçekten memnun musun?"
 
 "Evet," dedi Joel, "yaşadığım ve nefes aldığım kadar doğru, istiyorum!"
 
 "Oh! oh! oh!" Polly bağırdı ve kolunu tutarak dansa başladı,
 o kadar çok çabasını aştı ki, Phronsie onları
 gittiklerini görünce sevinçten çığlık attı. Artık dans edemeyecekleri zaman, Polly kızarmış ve soluk soluğa
-odada dışarı koştu ve ikisini de garip tavırlarının nedenini olabildiğince bulmaya bıraktı.
+odadan koşarak çıktı ve ikisini de garip tavırlarının nedenini
+en iyi şekilde bulmaya bıraktı.
 
-"Büyükbaba," Polly merdivenlerden koşarak geldi, Bayan Whitney'nin odasına gelirken onu karşıladı, "Joel bunun küçük bir sabah düğünü olduğunu söylüyor--lütfen; ve
+"Büyükbaba," Polly merdivenlerden koşarak geldi, Bayan Whitney'nin odasına doğru gelirken onu karşıladı, "Joel bunun küçük bir sabah düğünü olduğunu söylüyor--lütfen; ve
 Phronsie de!"
 
 Yaşlı beyefendi yenilgisine dair hiçbir işaret vermedi, sadece bir "Hıh! ve böylece
@@ -3905,7 +3907,7 @@ XV
 
 BAYAN CHATTERTON'IN YENİ BİR PLANI VAR
 
-"Polly güzelce çalmayı öğreniyor," diye düşündü Phronsie, bir ayağını düşünceli bir şekilde tutarak, yerde kıvrılırken. "Ve Ben
+"Polly güzelce çalmayı öğreniyor," diye düşündü Phronsie, düşünceli bir şekilde bir ayağını okşarken, yerde kıvrıldı. "Ve Ben
 Papa Fisher'ın söylediğine göre büyük bir iş adamı olacak ve Joel bir ara
 bu kasabanın tamamını satın alacak ve Davie baştan sona birçok kitap biliyor, ama ben ne yapabilirim?"
 
@@ -3978,7 +3980,7 @@ Bu yüzden buraya geldim, seni yalnız buldum. Gel, bana bak, çocuk.
 Sürekli halıya bakmak kibarlık değil."
 
 Phronsie, böyle uyarıldığında, bakışlarını yerden ayırıp
-üstündeki yüze yöneltti.
+yukarıdaki yüze yöneltti.
 
 "Bu, sadece sen ve ben olmak üzere kimsenin bilemeyeceği bir şey," diye başladı Bayan.
 Chatterton, kapıya dikkatli bir bakış atarak.
@@ -4043,10 +4045,9 @@ aslında
 Bu ifade dinleyicinin herhangi bir yorum yapmasını gerektirmediğinden,
 Phronsie sessiz kaldı, gözlerini Bayan Chatterton'ın yüzünden ayırmadı.
 
-"Şimdi, seni diğer birçok çocuk kadar tavsiye edecek bir şeyin olmasa da, seni amacıma hizmet etmeye ikna etmeyi umuyorum. En azından seni deneyeceğim. Her gün, Phronsie, odama gelebilirsin. Okula gitmemen şanslısın ama bu evde istediğin gibi yapıyorsun, bu yüzden soru sorulmayacak."
+"Şimdi, seni diğer birçok çocuk kadar tavsiye edecek bir şeyin olmasa da, seni amacıma hizmet etmeye ikna etmeyi umuyorum. En azından seni deneyeceğim. Her gün, Phronsie, odama gelebilirsin. Okula gitmemen şanslısın ama bu evde istediğin gibi davranıyorsun, bu yüzden soru sorulmayacak."
 
-"Her gün büyükbabamın odasına gidiyorum," dedi Phronsie sıkıntılı bir
-ses tonuyla, "derslerime."
+"Her gün büyükbabamın odasına gidiyorum," dedi Phronsie sıkıntılı bir ses tonuyla, "derslerime."
 
 "Elbette. Bunu biliyorum; çok da aptalca bir şey. Şimdi bunu bozmaya çalışmanın bir faydası yok sanırım, yoksa
 elimi koyardım. Ama Bay King'e dalkavukluk etmeyi bitirdikten sonra bana gelebilirsin."
@@ -4065,7 +4066,7 @@ kaybedeceksin. Ve bir daha asla buna benzer bir şey yaşamayacaksın, ama Polly
 şeyi olmayan bir çocuksun. Ama sen bana yardım edebilirsin ve
 sana birçok şey öğreteceğim ve sana iyi davranacağım."
 
-"Ben büyüdüğümde, bana öğreteceğin şeyleri yapmamı isteyen olacak mı?" diye sordu Phronsie, sert siyah elbiseye elini koymak için yaklaşarak ve içtenlikle konuşarak. "O zaman
+"Ben büyüdüğümde, bana öğreteceğin şeyleri yapmamı isteyen olacak mı?" diye sordu Phronsie, sert siyah elbiseye elini koymak için yaklaşarak ve ciddi bir şekilde konuşarak. "O zaman
 isterlerse, tam olarak bana söylediğin gibi yapmaya çalışacağım."
 
 "Elbette yapacaklar," diye ilan etti Bayan Chatterton, küçük parmaklardan uzaklaşarak; "çok sayıda insan seni isteyecek, Phronsie.
@@ -4089,9 +4090,9 @@ Phronsie!"
 "Hatırlayacağım," dedi Phronsie yavaşça, elleri serbest bırakılırken.
 
 "Çok iyi. O zaman şimdi başlayalım." Bayan Chatterton kendini sandalyesine
-geri attı ve derin bir nefes aldı. "Çocuğu yalnız bulduğum için şanslıyım,
+attı ve derin bir nefes aldı. "Çocuğu yalnız bulduğum için şanslıyım,
 ve çok uysal. Bu tek kelimeyle iyi bir şans," diye mırıldandı. "Peki,"
-yüksek sesle, hafif bir kahkaha atarak, "şimdi, Phronsie, eğer annenin yardımcısı olacaksan, neden, bu senin ilk görevin. Bunu ne kadar iyi
+yüksek sesle, hafif bir kahkaha atarak, "şimdi, Phronsie, eğer annenin yardımcısı olacaksan, bu senin ilk görevin. Bunu ne kadar iyi
 yaptığını görelim. Kereste odasından yukarı, dolaba koş ve kapının önündeki rafta duran küçük siyah kutuyu aç - kutu kilitli değil - ve orada bulacağın siyah kadife kurdele rulosunu bana getir."
 
 Phronsie, "Hortense neden yukarı çıkmıyor?" diye sormak üzereydi ama Bayan Chatterton, kaşlarını çatarak, "Hortense terziye gitti." diyerek soruyu engelledi. Bana sorduğum hiçbir şey için hesap soran hiçbir çocuğa ben yardım edemem. İstediğini yap,
@@ -4130,8 +4131,8 @@ kendisini kestiğini fark etti.
 "Ama çok da uzakta değiller," dedi, "ve yakında tekrar aşağı ineceğim," odanın karşısına geçip dolap kapısını açarken.
 
 Biraz fare raf boyunca koşturdu ve yere düştü.
-Phronsie içerideki karanlığa baktı, küçük kalbi elinde topuzu tutarken
-korkuyla atıyordu.
+Phronsie içerideki karanlığa baktı, elinde topuzu tutarken
+küçük kalbi korkuyla çarpıyordu.
 
 "Daha fazlası olabilir," dedi kararsızca. "Sanırım burada tek başına
 yaşayamazdı. Lütfen git farecik, ve kutuyu almama izin ver."
@@ -4141,7 +4142,7 @@ Cevap olarak köşede bir tırmalama ve kemirme sesi duyuldu, bu da endişeli ku
 "İçeri girmeliyim," dedi Phronsie, "ve kutuyu çıkarmalıyım. Lütfen, iyi fare, bir an için uzaklaş; sonra geri gelip bütün gün kalabilirsin."
 
 Ancak gölgeli köşe sadece keskin küçük dişlerin yenilenen çabalarını geri verdi; Sonunda Phronsie cesaretini toplayarak içeri girdi.
-Kapı arkasından açıldı, küçük bir tık sesi çıkardı, kırmızı elbisesini herhangi bir lokmadan uzak tutarak dikkatlice ilerlerken, tedirginliği yüzünden fark edilmedi. Tavanda dar bir kafesli pencere dışında ışık almayan, alçak, dar bir dolaptı, çoğunlukla yanlarda ve bir uçta iki sıra rafla doluydu. Phronsie içeri girerken nefesini tuttu, hava çok
+Kapı arkasından açıldı, kırmızı elbisesini herhangi bir lokmadan uzak tutarak dikkatlice ilerlerken, tedirginliğinden fark edilmeden, küçük bir tık sesi çıkardı. Tavanda dar bir kafesli pencere dışında ışık almayan, alçak, dar bir dolaptı, çoğunlukla yanlarda ve bir uçta iki sıra rafla doluydu. Phronsie içeri girerken nefesini tuttu, hava çok
 sıkışıktı; ve loş ışıkta sendeleyerek elini istediği kutuya koydu, küçük, siyah bir şeydi, kolayca bulunabiliyordu, çünkü oradaki tek kutuydu.
 
 "Onu dışarı, kereste odasına götüreceğim; sonra kadife
@@ -4151,7 +4152,7 @@ ruloyu alabilirim," ve onu kollarının arasına alarak hızla kapıya doğru y�
 Phronsie kutuyu yere koyarken, hala sadece
 fareyi düşünerek, kapıyı açma işine iki elini de koydu.
 
-"Sıkılaşıyor sanırım, çünkü kimse buraya çok arada bir
+"Sanırım yapıştı, çünkü kimse buraya çok arada bir
 gelmiyor," dedi şaşkın bir şekilde. "Eminim ki
 açabilirim, çünkü çok büyük ve güçlüyüm." Yüzü bir gül gibi olana kadar tüm gücünü kullandı. Kapı hızlıydı. Phronsie
 karanlık köşeye umutsuz bir bakış attı. "Lütfen beni ısırmayın," dedi, iri gözyaşları kahverengi gözlerinde birikmişti. "Burada, sizin evinizde kilitli kaldım; ama gelmek istemedim ve eğer oturup birinin gelip beni çıkarmasını beklerseniz size zarar verecek hiçbir şey yapmayacağım."
@@ -4211,21 +4212,22 @@ kopmaz."
 rüzgarın kanatlarında kaçtı.
 
 "Candace", Bay King'in yaşlı bir siyahi hizmetçisinin dul eşiydi; kendini "kalıntı" olarak adlandırıyordu; ve küçük dükkanına duyduğu gurur,
-sarıklı başını havaya kaldırmasına neden oldu, yuvarlak yüzünde ise sürekli bir gülümseme vardı. Dükkan, şehrin ana caddelerinden birinden dışarı atılmış dar bir uzantı olan Temple Place'deydi. Birkaç spesiyalitesiyle tanınıyordu; örneğin, yaşlı ve gençlere aynı şekilde hitap eden büyük şekerli donutlar. Bunlar her zaman taze ve tatlıydı, onları lezzetli hale getirmek için gereken miktarda baharat içeriyordu; ve çeşitli tariflerde tutucular yaptı, en ayrıntılı desenler her zaman sarı yünden yapılmıştı; hanımların başka yerde asla bulunamayacağına itiraz ettiği birkaç şeyle birlikte. Jasper, önlük günlerinden beri, dadısının onu oraya götürdüğü ve küçük tezgahın önündeki yüksek bir tabureye oturttuğu ve memnun Candace tarafından ona nefis yiyecekler verdiği Candace'in küçük dükkanına koşmaya alışmıştı.
+sarıklı başını havaya kaldırmasına neden oldu, yuvarlak yüzünde ise sürekli bir gülümseme vardı. Dükkan, şehrin ana caddelerinden birinden dışarı atılmış dar bir uzantı olan Temple Place'deydi. Birkaç spesiyalitesiyle tanınıyordu; örneğin, yaşlı ve gençlere aynı şekilde hitap eden büyük şekerli donutlar. Bunlar her zaman taze ve tatlıydı, onları lezzetli hale getirmek için gereken miktarda baharat içeriyordu; ve çeşitli tariflerde tutucular yaptı, en ayrıntılı desenler her zaman sarı yünden yapılmıştı; hanımların başka yerde asla bulunamayacağını
+itiraz ettiği birkaç şeyle birlikte. Jasper, önlük günlerinden beri, bakıcısı tarafından oraya götürülüp küçük tezgahın önündeki yüksek bir tabureye oturtulduğunda ve memnun Candace tarafından ona nefis yiyecekler verildiğinde Candace'in küçük dükkanına koşmaya alışmıştı.
 
 Polly'ye sık sık "Hatırlayabildiğim ilk şey," demişti, "Candace'in penceredeki büyük cam kavanozdan kocaman kırmızı ve beyaz nane şekerleri çıkarması ve bana iki elimi uzatmamı söylemesiydi."
 
 Ve "önlük günleri" bittikten sonra, Candace, bir kadının iğnesinin onu herhangi bir zorluktan
 kurtarabileceği tüm sporlarda çocuğun yardımcısıydı. Teknelerine yelkenler ve harika
-paten çantaları yapan oydu. Okul kitapları için en karmaşık kayışları o işledi ve bir keresinde iki mendile kırmızı pamuktan, büyük "J" harfleri işleyerek onu tamamen dehşete düşürdü. Hediyeyi sunarken duyduğu sevinci gördüğünde dehşetini bastırdı ve daha sonra dükkana giderken arada bir mendil taşımayı unutmadı.
+paten çantaları yapan oydu. Okul kitapları için en karmaşık kayışları o işledi ve bir keresinde iki mendile kırmızı pamuktan, büyük "J"ler işleyerek onu tamamen dehşete düşürdü. Hediyeyi sunarken duyduğu sevinci gördüğünde dehşetini bastırdı ve daha sonra dükkana bir iş için gittiğinde ara sıra bir mendil taşımayı unutmadı.
 
 Son zamanlarda Candace, Jasper'ın dolabı için eski iğnelerden, gözlerini kaybetmiş iğneler hazırlamakla meşguldü. Kırmızı ve siyah mühür mumu başlarını ustaca taktı ve onları becerikli parmakların becerikli manipülasyonuyla olabildiğince yuvarlak hale getirdi. Bu yeni işte, çocuk onu iyi meşgul etti, böylece birçok yarım dolar küçük kasasına girdi.
 
 "Keşke Phronsie gelseydi," dedi Polly, o ve Jasper iğneleri Candace'in bu amaçla sakladığı küçük tahta tepsiye ayırırken. "Ne kadar çok kırmızı iğnen olacak, Jasper--bak--on beş; iyi, diğerlerinden daha güzeller."
 
 "Küçük Hanım seninle gelseydi," dedi Candace, dükkânı yatak odasından ayıran
-chintz perdenin kıvrımlarından çıkarak,
-"onun için yaptığım bebeği görürdü. Aman Tanrım! Ama çok güzel."
+basma perdenin kıvrımlarından çıkarak,
+"Onun için yaptığım bebeği görürdü. Aman Tanrım! Ama çok güzel."
 
 "Ah, Candace!" diye haykırdı Polly, tuttuğu büyük iğneyi düşürüp
 tezgahtan yere yuvarlanmasına izin vererek. "Ne yazık ki onu getirmedik! Bebeği bize göster."
@@ -4245,14 +4247,14 @@ Polly, Madame Carroll'un gece başlıkları hikayesini daha önce birçok kez du
 memnun
 olmaz mı?"
 
-"Kara, hayır!" diye bağırdı Candace, bebeği telaşla geri alırken; "O bebeği o
+"Kara, hayır!" diye bağırdı Candace, bebeği telaşla geri alarak; "O bebeği o
 şefkatli çocuğun
 kollarına koymasaydım bir hafta boyunca uyuyamazdım."
 
-"O zaman yarın Phronsie'ye gelmesini söylerim," dedi Polly. "Söyleyeyim mi,
+"O zaman yarın Phronsie'ye gelmesini söyleyeceğim," dedi Polly. "Söyleyeyim mi,
 Candace?"
 
-"Evet," dedi Candace, "ona bir şey bulduğumu söylersin; ona ne olduğunu söylemezsin ve onu gönderirsin."
+"Evet," dedi Candace, "ona bir şey bulduğumu söyle; ona ne olduğunu söyleme ve onu gönder."
 
 "Tamam," dedi Jasper. "Phronsie'nin o prodüksiyonu gördüğündeki gözlerini bir hayal et. Candace, kendini aştın."
 
@@ -4299,7 +4301,7 @@ başka bir hizmetçiye seslenerek.
 "Phronsie muhtemelen dışarıda oynuyordur," dedi Jasper hemen;
 "neyse, şimdi evde. Hadi Polly. Bizimle buluşmak için dışarı koşacak."
 
-"Ah, Jasper! "Sence o da öyle mi yapacak?" diye bağırdı Polly, tarif edilemez bir korkuyu bastıramadan. Şimdi korkmuş ayaklarla koşuyordu, Jasper ona yetişmek için çok çalışıyordu ve ikisi birlikte Phronsie'nin tek başına
+"Ah, Jasper! "Sence o yapacak mı?" diye bağırdı Polly, tarif edilemez bir korkuyu bastıramadan. Şimdi korkmuş ayaklarla koşuyordu, Jasper ona yetişmek için çok çalışıyordu ve ikisi birlikte Phronsie'nin tek başına
 yapmasına izin verilen
 tek yürüyüşte kendine izin verdiği çitteki küçük kapıdan içeri
 ve Polly'nin karşılaştığı ilk kişiye "Phronsie nerede?" diye bağırdığı ve korktuğu şeyle karşılaştığı eve doğru koştular, "Helen
@@ -4308,7 +4310,7 @@ gitti."
 
 Ve şimdi büyük evde gerçekten de bir alarm vardı. Nereye
 bakacaklarını bilemedikleri için, her biri diğerinin yoluna çıktı, Bay
-King'in iyiliği için de en az onlar kadar endişeliydi; çünkü yaşlı beyefendi korkudan öyle bir hale gelmişti ki, tüm ev halkı onu sınırda tutmak için ellerinden geleni yapıyordu.
+King'in iyiliği için de en az onlar kadar endişeliydi; çünkü yaşlı beyefendi korkudan öyle bir duruma düşmüştü ki, tüm ev halkı onu sınırda tutmak için ellerinden geleni yapıyordu.
 
 "Madam öğle yemeğine eve gelmeyecek," diye duyurdu Hortense Bayan Whitney'e Heyecanın ortasında. "Bana, de Mees Taylor'ın onunla modacıda buluştuğunu ve onu evine götürdüğünü söylememi söyledi."
 
@@ -4334,14 +4336,14 @@ kendini beğenmiş bir şekilde gülümsedi.
 "Ama biz sizinle hiç aynı fikirde değiliz," dedi Madam Dyce, sert brokarı sabırsızlıkla hışırdarken, beyanını diğerlerinin önüne koymak için, "hiçbir şekilde. "
 
 "Ah? Eh, yargılamak için iyi fırsatlarım olduğunu kabul etmelisin.
-Pepper karmaşası ancak kuzenimin zihinsel yeteneklerinin
-bozulmuş olmasıyla açıklanabilir."
+Pepper karmaşası ancak kuzenimin
+zihinsel yeteneklerinin bozulduğunu söyleyerek açıklanabilir."
 
 "Ailenin geri kalanı da aynı şekilde etkileniyor, değil mi?"
 Hamilton Dyce kayıtsızca belirtti.
 
 "Hıh! Evet." Bayan Chatterton'ın hala biçimli omuzları ciltleri açığa çıkarmak için omuz silkti. "Jasper Horatio
-King'in inandığı şeyi, evin geri kalanı yasa ve incil olarak kabul ediyor. Ama
+King'in inandığı şeyi, evin geri kalanı yasa ve müjde olarak kabul ediyor. Ama
 bu daha az hayranlık değil."
 
 "O sevgili Pepper'larla ilgili tek bir kelime bile duymayacağım," diye haykırdı Madam
@@ -4355,7 +4357,7 @@ mücadele mi ediyordu? Başka bir çaba gösterdi. "Bayan Pepper gibi bir kadın
 aldatılmanıza izin vermektense, size daha fazla
 sebeplere nüfuz etme yeteneğinizi takdir etmeliydim."
 
-"Ona ait olan ismi verin. Sanırım o Bayan Dr. Fisher, değil mi?" diye ağır ağır konuştu, genç bir genç olan, bıyığıyla çokça düşündüren ve tek bir gözlüğü olan Livingston Bayley.
+"Ona ait olan ismi verin. Sanırım o Bayan Dr. Fisher, değil mi?" diye ağır ağır konuştu, genç bir genç olan, bıyığı onu çok düşündüren ve tek bir gözlüğü olan Livingston Bayley.
 
 "Saçmalık ve saçmalık! Evet, o düğün ne kadar da saçma bir şeydi. "Hiç kimse böyle bir şey
 gördü mü ya da duydu mu!" Bayan Chatterton uzun
@@ -4456,7 +4458,7 @@ Ama kelimeler dudaklarından dökülmeden önce, anne bebeğini kucağına aldı
 "İyi olacağına inanmıyorum. Tanrı, Phronsie'mize
 hiçbir şey olmasına izin vermeyecek. Yapamadı, Mamsie."
 
-Dr. Fisher onları kapıda karşıladı. Polly, çocuğu artık yüklerini bırakan kollarından
+Dr. Fisher onları kapıda karşıladı. Polly, çocuğu şimdi yüklerini bırakan kollarından
 alırken yüzünü tararken kalbini saran uzun, yavaş dehşeti asla unutmadı. Ve
 her şey gözlerinin önünde karardı--Phronsie ölmüş müydü?
 
@@ -4470,7 +4472,7 @@ o?" Jasper kapıdan hızla geçerken körü körüne ona tutunuyordu.
 "Hala baygın"--
 
 "Şeyler ve--oh! iyi," diye mırıldanmaya devam etti. "Muhtemelen kendine gelir. Çocuklar
-biraz tecritte kalabilirler; bir veya iki saatin onlar için bir önemi yoktur--Hortense!" yüksek sesle, "bana sal uçucumu getir. Aman Tanrım! Bu
+biraz tecritte kalabilirler; bir veya iki saatin onlar için bir önemi yoktur--Hortense!" yüksek sesle, "bana uçucu salımı getir. Aman Tanrım! Bu
 sinirlerimi bozuyor." Karşısındaki uzun aynada yüzünü gördü ve ne kadar korkunç olduğunu görünce ürperdi. "Kız nerede?
 Hortense, diyorum, hemen buraya gel!"
 
@@ -4504,7 +4506,7 @@ pervazın üzerinden dışarı uzatırken derin bir nefes aldı, "gidip çocuğu
 
 "Bayan, sizi yalnız bırakmaktan korkuyorum," dedi kız, ona bakarak.
 
-"Korkuyor muyum? Çok yaşlı değilim ama kendi başımın çaresine bakabilirim," dedi Bayan Chatterton kısa bir kahkaha atarak. "Git ve sana söylediğimi yap,"
+"Korkuyor muyum? O kadar yaşlı değilim ama kendi başımın çaresine bakabilirim," dedi Bayan Chatterton kısa bir kahkaha atarak. "Git ve sana söylediğimi yap,"
 ayağını
 vurarak.
 
@@ -4644,7 +4646,7 @@ hazır. Aman Tanrım! Ne güzel bir elma."
 
 "Balın yüreğine sağlık!" diye bağırdı Sarah, siyah yüzü zevkle
 parlıyordu. "Ama o bir güzellik değil mi?" masanın kanadına ortasında çıtırdayan kabuğundan dişe dokunur bir
-elma olan pembe bir tabak koydu. "İçine uyması için pembe bir sasser so's getirdim. Ama o zengin değil mi!"
+elma bulunan pembe bir tabak koydu. "İçine uyması için pembe bir sasser so's getirdim. Ama o zengin değil mi!"
 
 "Sarah," dedi Phronsie, aç gözlerle elmaya bakarak, "Bence o gerçekten çok hoş ve onu getirdiğin için sana teşekkür ediyorum."
 
@@ -4655,7 +4657,7 @@ ve ağzı en geniş gülümsemeyle açılmıştı.
 çekerek.
 
 "İşte," dedi Sarah, "O sapı kurtarmak için en büyük çabayı sarf ettim.
-Ama, la! Sapı olmayan bir tane getirmezdim. En çok
+Ama, aman Tanrım! Sapı olmayan bir tane getirmezdim. En çok
 yiyeceğin zaman, onu ayakta tutmak için isteyeceğini biliyordum."
 
 "Evet, istiyorum," dedi Phronsie, sapı okşayarak büyük bir memnuniyetle.
@@ -4663,7 +4665,7 @@ yiyeceğin zaman, onu ayakta tutmak için isteyeceğini biliyordum."
 "Ve işte kaşığın," dedi annesi kaşığı getirerek. "Şimdi, çocuğum,
 kalbinin istediği kadar tadını çıkar."
 
-Phronsie kaşığı çatlamış kabuğun içine koydu ve yarı dolu olarak çıkardı. "Ah, Mamsie!" diye bağırdı, dişlerini kenetleyerek, "sadece
+Phronsie kaşığı çatlamış kabuğun içine koydu ve yarı dolu olarak çıkardı. "Ah, Mamsie!" diye bağırdı, dişleri kaşığın üzerine kapanırken, "sadece
 tadına bak; çok güzel!"
 
 "Hi-hi!" diye güldü Sarah, "Sanırım öyle. O elmayı tam kıvamında pişirmek için
@@ -4713,16 +4715,15 @@ biliyorsun. Tekrar gül Polly; seni duymak güzel."
 
 "Teşekkür ederim," dedi Cathie, uzun boylu bir kızdı, saçları o kadar açıktı ve yüzü o kadar soluktu ki on dört yazından on yaş büyük görünüyordu. "Bazen tanıdığım birkaç kişi kadar çok şey biliyorum," dedi.
 
-"Ben sadece senin yaptığını söylemedim," dedi Alexia sakin bir şekilde. "Genellikle bir kaz olduğunu
-söyledim. Ve öylesin. Bunu herkes bilir,
+"Ben söylemedim ama sen söyledin," dedi Alexia sakin bir şekilde. "Genellikle bir kaz olduğunu söyledim. Ve öylesin. Bunu herkes bilir,
 Cath."
 
 "Hadi, hadi kızlar, kavga etmeyin," dedi Polly. "Phronsie iyileşirken sen nasıl
-bunu yapabilirsin? Alexia hiçbir şey kastetmedi, Cathie."
+söyleyebilirsin? Alexia hiçbir şey kastetmiyordu, Cathie."
 
-"Evet, kastetmişti," diye ilan etti Cathie surat asarak; "her zaman bir şey kastediyordur. Gördüğüm en nefret dolu şeydi!"
+"Evet, kastetmişti," diye ilan etti Cathie surat asarak; "her zaman bir şey kastediyordur. Gördüğüm en nefret dolu şey!"
 
-"Saçmalık!" dedi Polly neşeli bir kahkaha atarak. "Bana tamamen korkunç şeyler söylüyor ve ben de ona söylüyorum, ama ikimiz de umursamıyoruz."
+"Saçmalık!" dedi Polly neşeli bir kahkaha atarak. "Bana tamamen korkunç şeyler söylüyor ve ben de ona söylüyorum ama ikimiz de umursamıyoruz."
 
 "Eh, bunlar eğlence amaçlı," dedi Cathie; "bu çok farklı bir konu"--
 
@@ -4737,7 +4738,7 @@ Ama Alexia'nın kolundan uzaklaştı.
 Cathie, barışalım," ve koşarak yanına gitti, uzun boylu kızı belinden yakaladı ve durması için yalvarana kadar
 çevresinde döndürdü.
 
-"Bu senin barışma şeklin mi?" diye bağırdı Cathie, konuşacak nefesi
+"Barışma şeklin bu mu?" diye bağırdı Cathie, konuşacak nefesi
 bulunduğunda.
 
 "Evet; diğer her yol kadar iyi. Saçmalıkları içinden çıkarıyor.
@@ -4815,7 +4816,7 @@ gözyaşlarına yakın bir şekilde
 başka tarafa döndü. Bu, uzun zamandır beklediği kızlarla ilk buluşması mıydı?
 
 "Cathie Harrison'ın bu kadar rahat davranmasını düşünmek," diye bağırdı Alexia
-öfkeyle; "Aramıza yeni gelmiş bir kız, sanki ve onu sadece Bayan Salisbury'nin onun için her şeyi keyifli hale getirmemizi
+öfkeyle; "Sanki aramıza yeni gelmiş bir kız ve onu sadece Bayan Salisbury'nin onun için her şeyi keyifli hale getirmemizi
 istediği için içeri aldık. Başka biri olsaydı böyle bir yaygara koparırdı!"
 
 Bu arada Dr. Fisher batı verandasına doğru yürüdü, ofisine doğru yürümeyi ve yürürken ceketini iliklemeyi planlıyordu. Araba yolundaki açıyı döndüğünde, aniden bir ağacın altındaki rustik bir koltuğa kendini
@@ -4835,7 +4836,7 @@ nefes alarak. "Ofisime gidiyorum; benimle biraz yürüyüp bana her şeyi anlats
 
 Cathie ağzını açtı, "Ah! Yapamam" demek istiyordu - bunun yerine, kendini sessiz buldu ve nasıl olduğunu bilmeden, şu anda doktorun yanındaki araba yolunda volta atıyordu.
 
-"Polly Pepper!" diye haykırdı Alexia, araba yolunda bir dönüşte müzik odası pencerelerinin görüş alanına giren iki kişiyi görünce, "hayatında hiç böyle bir
+"Polly Pepper!" diye haykırdı Alexia, araba yolunda bir dönüş olduğunda müzik odası pencerelerinin görüş alanına iki figür geldi, "hayatında hiç böyle bir
 görüntü gördün mü? Cathie Dr. Fisher ile yürüyor! Dilinin
 söylemediği hiçbir şey yok!"
 
@@ -4871,18 +4872,18 @@ patlayarak, "sadece saçmalıklarına katlanıyor."
 
 "Bunu bilmiyor muyum?" diye haykırdı Jasper şaşkın bir tonda. "Aman Tanrım,
 Dr. Fisher, Polly'yi yıllardır izliyorum. Ve o her zaman
-böyle yaptı." Ofis masasındaki eşyaları çevirmeyi bıraktı ve küçük doktora
+böyle yaptı." Ofis masasındaki makaleleri döndürmeyi bıraktı ve küçük doktora
 yarı kırgın bir bakış attı.
 
 "Yavaşça, yavaşça, Jasper," dedi Dr. Fisher sakin bir şekilde. "Elbette
-gözlerini kullandın. Şimdi hiçbir şey söyleyerek işleri mahvetme, ama
+gözlerini kullandın. Şimdi hiçbir şey söyleyerek işleri bozma, ama
 Polly'nin 'kendi yoluna gitmesine' izin ver, yalvarıyorum." Sonra bir kez daha pudralarına döndü.
 
 "Zaten yapacak," diye ilan etti Jasper. "Polly ne yapmaya karar verirse onu yapıyor."
 
 "Kötü bir özellik değil," diye güldü doktor.
 
-"Hayır demeliyim."
+"Hayır demem gerek."
 
 "Şimdi akşam yemeği için eve geldiğimde, sen ve ben Polly'yi bulacağız ve
 ona iyi haberi söyleyeceğiz. Eğer o aptal kızlardan birçoğuyla birlikteyse,
@@ -4904,7 +4905,7 @@ Dr. Fisher ayağa fırladı, toz kağıtlarını ve şişeleri bir kenara itti v
 
 "Evet, evet," diye mırıldandı, pencereye doğru yürürken, "Polly için iyi bir şey olacak, şimdi sana söylüyorum, Adoniram." Her zaman
 kendisine adıyla hitap etmeyi tercih ederdi; o zaman bir dinleyiciden emin olurdu. "Çok
-iyi bir şey. Bu aptal yaratıklarla olan yakınlıkların biraz
+iyi bir şey. Bu aptal yaratıklarla olan yakınlıkların biraz olsun
 kesilmesinin zamanı geldi, çocuk da diğer şekillerde
 çok şey kazanır." Avuçlarını neşeyle ovuşturdu. "Ah! Günaydın, günaydın!"
 
@@ -4921,7 +4922,7 @@ XIX
 
 PHRONSIE YİNE İYİ
 
-Ama Polly'ye henüz söylenecek bir şey yoktu. Papa Fisher akşam yemeğine girdiğinde,
+Ama Polly'ye henüz söylenecek bir şey yoktu. Papa Fisher akşam yemeğine geldiğinde,
 çevredeki neşeli parti meşe masa buzların ve kahvenin üzerinde onun
 görünmesini bekliyordu.
 
@@ -4940,23 +4941,22 @@ alnının üzerine daha sert bir şekilde fırçaladı. "Sanırım bunu yapmaya 
 "Ama bu, kendini ölüme yorman ve ilk yıl çökmen için bir sebep değil," dedi Bay King, ona sertçe bakarak. "Vay canına, dostum,
 seni kırsaldan bunun için getirmedim."
 
-Dr. Fisher karısının gözlerinin içine baktı ve gülümsedi. "Sanırım
-beni sen getirdin," dedi gülümseme. Ama dilini tuttu.
+Dr. Fisher karısının gözlerinin içine baktı ve gülümsedi. Gülümseme, "Sanırım
+beni sen getirdin," dedi. Ama dilini tuttu.
 
 "Ve yardım edemediğin acıları görmeye alışmalısın.
 Aman Tanrım, kasaba bununla dolu; tek başına durdurmayı bekleyemezsin."
 
 "Yardım etmek için elimden geleni yapacağım," dedi küçük doktor dişlerinin arasından,
-ve karısının tabağına koyduğu kahveden uzun bir yudum aldı. "Sanırım buna itiraz yoktur. Şimdi, bu iyi,"
-dudaklarını memnun bir şekilde şapırdattı.
+ve karısının tabağına koyduğu kahveden uzun bir yudum aldı. "Sanırım buna itiraz yoktur. Şimdi, bu iyi," dudaklarını memnun bir şekilde şapırdattı.
 
 "Elbette hayır, eğer doğru şekilde yardım edersen," dedi yaşlı Bay. King
-sertçe, "ama her şeye bahse girerim ki sen fakirler arasında genç doktorlara ait her türlü
-tuhaf işi alıyorsun. Senin yerin
-oldukça yüksek, hastalarını seçip ayırabildiğin bir yer."
+sertçe, "ama her şeye bahse girerim ki sen fakirler arasında genç doktorlara ait her türlü garip işi
+alıyorsun. Senin yerin
+oldukça yüksekte, hastalarını seçip ayırabiliyorsun."
 
 Dr. Fisher güldü--hoş
-tunu ve güçlü bir iradenin yankısını taşıyan tuhaf, küçük bir kahkaha.
+tunu ve güçlü bir iradenin yankısını taşıyan tuhaf bir kahkaha.
 
 "Ah! Eh, bilirsin, yeni yollar öğrenmek için çok yaşlıyım," dedi. "Ben
 eskilere
@@ -4998,8 +4998,8 @@ hafta sürecek."
 
 "Neden, şu fonograf bebeklerinden biri, kesinlikle," diye haykırdı Bay King hemen.
 
-"Henüz satışa çıktılar mı?" diye sordu Jasper. "Piyasa için
-yeterince mükemmelleştirmediklerini düşünüyordum."
+"Henüz satışa çıktılar mı?" diye sordu Jasper. "Piyasa için yeterince
+mükemmelleştirmediklerini düşünüyordum."
 
 "Sanırım nereden satın alınabileceğini biliyorum," dedi babası. "Mükemmelleştirilmeleri
 gerekiyor - Phronsie istiyorsa
@@ -5053,13 +5053,13 @@ Bay King şaşkın bir şekilde alnını ovuşturdu. "Belki de yeterince vardır
 
 "Elbette; ama ondan sonra ne yapacağım?"
 
-Öyle endişeli görünüyordu ki Bayan Whitney aceleyle, "Ah, peki, baba! uyandığında ne yapacağını biliyorsun" dedi ve sır neredeyse ikinci kez açığa çıkıyordu!
+Öyle endişeli görünüyordu ki Bayan Whitney aceleyle, "Ah, peki, baba! uyandığında ne yapacağını biliyorsun" dedi ve sır neredeyse ikinci kez ortaya çıkıyordu!
 
 Ama Alexia'nın babasının, sık sık akşam yemeği saatinin sonunda ikinci bir fincan kahve için
 uğraması sayesinde kurtuldular.
 
 Ertesi sabah Phronsie, kimsenin onu aşağı taşımaması konusunda ısrar eden Büyükbaba King'i bekliyordu, evin geri kalanı çeşitli sevinç ve beklenti
-aşamalarında, onun etrafında dönüyor ve sabırsızlıklarını olabildiğince dizginliyorlardı, koridorda ve merdivenlerde.
+aşamalarındaydı, onun etrafında dönüyor ve sabırsızlıklarını olabildiğince dizginliyorlardı, koridorda ve merdivenlerde.
 
 "Ah, Büyükbaba! Çabuk ol," diye yalvardı Dick, topuklarını merdivenlere vurarak.
 
@@ -5069,15 +5069,15 @@ aşamalarında, onun etrafında dönüyor ve sabırsızlıklarını olabildiğin
 
 "İşte Büyükbaba geliyor!" diye neşeyle duyurdu Polly, kütüphaneye daha yakın bir istasyondan. "Sus, şimdi, Bay Frazer geliyor!"
 
-Bu duyuruyla kütüphane kapısının açılması ve birkaç cümlenin
-merdivenlerden yukarı doğru süzülmesiyle, Phronsie'nin etrafındaki telaş neşeyle yoğunlaştı.
+Bu duyuruyla kütüphane kapısının açılması ve merdivenlerden yukarı doğru
+yüklenen birkaç cümlenin, Phronsie'nin etrafındaki telaşın neşeyle yoğunlaşmasıyla.
 
 "Anneciğim, sence bir şal giymesi gerekmez mi?" diye bağırdı Polly endişeyle, merdivenlerden koşarak. "Çok uzun zamandır kapalı!"
 
 "Hayır," dedi Anne Fisher. "Doktor özellikle onu sarmamamı söyledi. Ofisine gitmeden önce söylediği son şey buydu."
 
-"Peki," dedi Polly iç çekerek, "o zaman onun için yapılacak
-kesinlikle hiçbir şey yok. Büyükbaba neden gelmiyor?"
+"Peki," dedi Polly iç çekerek, "o zaman onun için
+yapılabilecek kesinlikle hiçbir şey yok. Büyükbaba neden gelmiyor?"
 
 "Sen Dicky'den bile kötüsün," dedi Bayan Fisher hafifçe gülerek. "Aman Tanrım, Polly, kaç yaşında olduğunu bir düşün."
 
@@ -5091,14 +5091,13 @@ Phronsie odanın ortasında hareketsizce durdu ve ellerini birleştirdi. "Büyü
 "lütfen herkes dışarı çıksın, Mamsie. Büyükbabayı
 yalnız görmek istiyorum."
 
-"Tamam, çocuğum," dedi Bayan Fisher, Polly'ye bakarak. Böylece diğerlerinin biraz tereddüt etmesinden ve gecikmesinden sonra, kapı
+"Tamam, çocuğum," dedi Bayan Fisher, Polly'ye bakarak. Diğerlerinin biraz tereddüt etmesinden ve gecikmesinden sonra, kapı
 kapatıldı ve tek başına kaldı.
 
 Phronsie derin bir nefes aldı. "Keşke Büyükbaba gelse," dedi kendi kendine.
 
 "Ve sen de beni istiyordun, öyle mi canım?" diye bağırdı Bay King neşeyle, içeri
-acele edip kapıyı dikkatlice kapatırken. "Hadi, şimdi, bana ne söylemek istediğini tahmin edip
-edemeyeceğime bak."
+acele edip kapıyı dikkatlice kapatırken. "Hadi, şimdi, bana ne söylemek istediğini tahmin edebilir miyim bakalım."
 
 "Büyükbaba," dedi Phronsie, kıpırdamadan durup şaşkın bir
 yüzle ona doğru dönerek, "Sana hiçbir şey söylemek istemiyorum; sana bir şey sormak istiyorum."
@@ -5397,7 +5396,7 @@ ilgilenecek." Ve Jasper onu tekrar dansa götürdü.
 suçlayıcı bir şekilde, saçları pembe yanaklarının üzerinden uçuşuyordu. Uzun koridorda hafifçe dans ederken, Dr. Fisher bir sütuna yaslandı ve onları
 izledi.
 
-"Yapmalıyım," dedi Jasper, eşini sandalyelerin ve heykellerin karmaşıklığı konusunda ustaca yönlendirerek. "Bu iyi bir dönüş, Polly," dedi, küçük doktorun yanına geldiklerinde.
+"Yapmalıyım," dedi Jasper, eşini sandalyelerin ve heykellerin inceliklerinde ustaca yönlendirerek. "Bu iyi bir dönüş, Polly," dedi, küçük doktorun yanına geldiklerinde.
 
 "Harika!" dedi Polly, buklelerini ışıltılı gözlerinden geriye iterek.
 
@@ -5406,7 +5405,7 @@ izledi.
 "Yapacağım," dedi Polly gülerek. "Gel, Papa Fisher," elini uzatarak, "lütfen bana bu onuru verin."
 
 "Tamam," dedi Dr. Fisher cesurca. Böylece Jasper sütunun yanındaki
-boş mevkiye geçti ve bir Strauss valsi düdüğü çaldı. Bunun üzerine, koridorda
+boş karakola geçti ve bir Strauss valsi düdüğü çaldı. Bunun üzerine koridorda
 olağanüstü bir şekilde zıplama başladı, iki figür titreyen bir su yüzeyindeki mantar tıpaları gibi sallanıyordu.
 
 Kapılar açıldı ve Bayan Fisher'ınkiler arasında birkaç yüz belirdi.
@@ -5445,7 +5444,7 @@ WHITNEYS'İN KÜÇÜK PLANI
 "Aman Tanrım, umarım gelmez," diye bağırdı Bay King, gazetesini indirip
 üstünden bakmak için.
 
-"Eğer burada olsaydım, onu yere sererdim," diye ilan etti Joel, omzundan muhteşem bir vuruş yaparak, "".
+"Onu yere sererdim," diye ilan etti Joel, omuzundan muhteşem bir vuruş yaparak, "eğer burada olsaydım."
 
 "Her şey çok iyi," dedi Percy umursamazca, "ama sen burada değildin," ve o
 yumuşak bir şekilde güldü.
@@ -5456,8 +5455,7 @@ neden, seninle bir mücadele deneyeceğim."
 "Ne yapabileceğini veya yapamayacağını söylemedim. Burada olmadığını söyledim ve değildin. Bu kadar yeter," ve Percy ona sırtını döndü, ellerini sabah ceketinin ceplerine soktu ve
 pencereye doğru yürüdü.
 
-Van konuşmak için ağzını açtı, sonra vazgeçti ve alçak bir ıslık çaldı. Joel, dövüş yeteneklerine dair hikayeler için hiçbir heves duymayarak, eski hırsızlık konusu hakkında Dick'le röportaj yapmak ve
-ayrıntıları hakkında başka bir yakın hesap almak için koştu.
+Van konuşmak için ağzını açtı, sonra vazgeçti ve alçak bir ıslık çaldı. Joel, dövüş yetenekleriyle ilgili hikayelere karşı hiçbir heves duymayarak, eski hırsızlık konusunu görüşmek ve ayrıntılarıyla ilgili başka bir yakın açıklama almak için Dick'e koştu.
 
 "Phronsie'nin diğer hırsızı beş yıl önce gördüğünü ve şimdi Dick'in bu konuda hazır olduğunu düşünün - o iki bebek," diye öfkelendi, "ve etraftaki hiçbir erkek."
 
@@ -5470,7 +5468,7 @@ sesini ihtiyatla düşürerek, onu başarıyla dışarı çekerken, "Joe'ya bir 
 
 "Ne demek istiyorsun?" diye sordu Percy, şaşkın gözlerle, elleri hala ceplerinde.
 
-Van yüksek sesle kahkaha attı, sonra aniden sustu. "İkimiz de gerekecek," diye fısıldadı.
+Van yüksek sesle güldü, sonra aniden sustu. "İkimiz gerekecek," diye fısıldadı.
 
 "Ah, Van!" diye haykırdı Percy ve ellerini dinlenme yerlerinden çekip, onları birbirine sertçe çarptı.
 
@@ -5482,10 +5480,11 @@ düşmesine izin vererek. "Annem bundan hoşlanmayabilir, biliyorsun."
 "Bu seninle eski bir husumet," dedi Percy hoş bir şekilde. "Küçükken seni
 dövdüğünü ve yeni geldiğini biliyorsun."
 
-"Sanki umursuyormuşum gibi," diye bağırdı Van öfkeyle, "hiçbir şey değildi. Yarı yarıya bile denemedim; ve bana bir balyoz gibi saldırdı."
+"Sanki umursuyormuşum gibi," diye bağırdı Van öfkeyle, "hiçbir şey değildi. Yarı yarıya bile denemedim; ve bana bir kır balyozu gibi saldırdı."
 
-"Evet, hatırlıyorum," Percy sakin bir şekilde başını salladı, "ve sen iyice hırpalandın ve
-bir yığın haline geldin. Herkes biliyordu."
+"Evet, hatırlıyorum," Percy sakin bir şekilde başını salladı, "ve sen tamamen hırpalandın ve
+bir yığına
+döndün. Herkes biliyordu."
 
 "Bir ziyaretçiyi pataklayacağımı mı sanıyorsun?" diye bağırdı Van öfkeyle, yanakları alev alev. "Söyle bakalım, Percy Whitney?"
 
@@ -5510,11 +5509,11 @@ Tam o sırada kapı zili yüksek sesle çaldı ve uşak Jencks kapıyı açtı v
 
 "Ding-a-ling," Jencks paketi hızla koridordaki meşe sandalyelerden birine koydu ve kapıya doğru koştu, "Bayan Phronsie Pepper için: ona yarına kadar verilmeyecek."
 
-"Ve aynı boyutta," diye bağırdı, geri dönerken gözlerini kısarak ona baktı İlk paketi al, "iki bezelye kadar birbirlerine benziyorlar."
+"Ve aynı boyutta," diye bağırdı, geri dönerken gözlerini kısarak İlk paketi al, "iki bezelye kadar birbirlerine benziyorlar."
 
 Polly yukarıda mutlu parmaklarıyla işteydi, Alexia odanın diğer tarafında, her üç dakikada bir, "Polly, nasıl gidiyor? Aman Tanrım! Sen bakıp doğru olup olmadığına bakmadığın sürece hiçbir şey yapamam." diye soruyordu.
 
-Ve Polly, beyaz muslin ve uçuşan dantel bulutuna sırtını döner ve Alexia'ya uçarak gerekli eleştiriyi yapar, oradan buradan çekiştirip okşayarak işleri yoluna koyardı, hemen ardından tekrar kendi işine geri dönerdi.
+Ve Polly, beyaz muslin ve uçuşan dantel bulutuna sırtını döner ve Alexia'ya gerekli eleştiriyi yapmak için uçar, burada bir çekiştirme ve orada bir okşamayla işleri yoluna koyardı, hemen ardından tekrar kendi işine geri dönerdi.
 
 "Görüyorsun ya," dedi, "her şey tam yerinde olmalı, çünkü Mamsie'nin düğününden sonra, bu bildiğimiz en önemli olay olacak, Alexia
 Rhys. Phronsie'nin iyileşme partisi için fazla güzel bir şeyimiz olamaz."
@@ -5529,7 +5528,7 @@ güzel" olduğunu itiraz ettiği bir şekle soktu.
 
 "Bir veda partisi mi yapacaksın?" diye sordu Alexia bir dakika sonra.
 
-"Sanırım öyle," dedi Polly. "Büyükbabam daha iyi yapacağımı söyledi, ama aman Tanrım, bu dünyada bunu asla başarabileceğime inanmıyorum,"
+"Sanırım öyle," dedi Polly. "Büyükbabam daha iyi yapacağımı söyledi, ama aman Tanrım, bunu bu dünyada asla başarabileceğime inanmıyorum,"
 ve Polly yüzünü yavaş yavaş Phronsie'nin en büyük bebeklerinden birinin elbisesi
 olarak şekillenen bir muslin bulutunun arkasına sakladı.
 
@@ -5550,11 +5549,10 @@ gitseydim. Mükemmel bir kraliyet zamanı geçireceksin. "Müziğim üzerinde ç
 "Ah! saçmalık," diye bağırdı Alexia, önündeki yüze bakmadan ve pervasızca devam ederek, "sanki bunun bir anlamı varmış gibi, senin bir müzik öğretmeni olduğunla ilgili tüm o konuşmalar, Polly," ve küçük bir inanmaz
 kahkaha attı.
 
-Polly bir şekilde sandalyesinden kalktı ve pembe saten fiyonk üzerinde telaşlanan
-parmaklara çok yakın durdu. "Bunu bana bir daha asla söylemeye cesaret
+Polly bir şekilde sandalyesinden kalktı ve pembe saten fiyonk üzerinde telaşlı parmaklara çok yakın durdu. "Bunu bana bir daha asla söylemeye cesaret
 etmeyeceksin," diye emretti; "tüm hayatım boyunca müzik öğretmeni olmak zorundayım--tam olarak."
 
-"Ah, Polly!" saten fiyonk, Alexia'nın ipek makarasını ve zarif makasını da beraberinde sürükleyerek aşağı indi. "Yapma, yapma, hiçbir şey demek istemedim;
+"Ah, Polly!" saten fiyonk Alexia'nın ipek makarasını ve zarif makasını da sürükleyerek aşağı indi. "Yapma, yapma, hiçbir şey demek istemedim;
 ama Bay King'in senin bu dünyada asla müzik öğretmeni olmana
 izin vermeyeceğini gerçekten biliyorsun. Asla; bunu biliyorsun, Polly. Ah! Öyle görünme;
 lütfen yapma."
@@ -5566,11 +5564,11 @@ söz verdi."
 onu teşvik ederek, "çünkü biliyorsun, Polly, ailesinden herhangi birinin ve--ve bizimkilerden bir kızın müzik öğretmeni olması çok tuhaf olurdu.
 Biliyor musun, Polly, öyle olurdu."
 
-Ve Alexia en ikna edici şekilde gülümsedi ve kollarını arkadaşının boynuna dolamak için
-atladı.
+Ve Alexia en ikna edici şekilde gülümsedi ve arkadaşının
+sırtına sarılmak için ayağa kalktı.
 
 "Eğer grubumuzdaki kızlardan herhangi biri," dedi Polly görkemli bir şekilde ve Alexia'dan uzaklaşarak, "benden uzaklaşmak isterse, bunu şimdi yapabilirler. Ben bir müzik öğretmeni olacağım; olmaktan son derece mutluyum, hepinizin anlamasını istiyorum. Bu dünyada olabileceğim kadar mutluyum. Neden,
-bunun için çalıştım ve çalıştım ve başka türlü sevgili Büyükbabama bana yardım ettiği için nasıl karşılık verebilirim?" Sesi titredi ve bir dakika durdu, ellerini sıkıca kenetledi, böylece kelimelerin akışını bastırdı.
+bunun için çalıştım ve çalıştım ve başka türlü sevgili Büyükbabama bana yardım ettiği için nasıl karşılık verebilirim?" Sesi titredi ve bir dakika durdu, ellerini sıkıca kenetledi ve kelimelerin akışını bastırdı.
 
 "Ah, Polly!" diye haykırdı Alexia dehşet içinde ve sızlanmaya başlayarak, tekrar kolunu onun omzuna atmaya çalıştı.
 
@@ -5583,19 +5581,19 @@ bunun için çalıştım ve çalıştım ve başka türlü sevgili Büyükbabama
 "Polly, eğer durmazsan, beni öldüreceksin," diye soluk soluğa kaldı Alexia. "Ah,
 Polly! Ne olduğun umurumda değil. İstersen bütün gün ders verebilirsin,
 ve sana öğrenci bulmana yardım ederim. Her şeyi yaparım ve bütün kızlar da yapar; biliyorum ki yapacaklar. Polly, bırak da eskiden olduğu gibi senin arkadaşın olayım.
-Aman Tanrım, Tanrım! Keşke hiçbir şey söylemeseydim--keşke dilimi ısırsaydım; senin bundan bu kadar rahatsız olacağını düşünmemiştim," ve şimdi Alexia yıkıldı ve hıçkırarak ağlamaya başladı.
+Aman Tanrım, Tanrım! Keşke hiçbir şey söylemeseydim--keşke dilimi ısırsaydım; senin bunu bu kadar umursamayacağını düşünmüştüm," ve şimdi Alexia yıkıldı ve hıçkırarak ağlamaya başladı.
 
 "Öğretmenin muhteşem olduğunu söylemelisin," dedi Polly, etkilenmemiş bir şekilde ve en yüksek havasını takınmış bir şekilde, "ve bunu yapacağım için mutlu olduğunu."
 
 "Öğretmek muhteşem--muhteşem," diye mırıldandı zavallı Alexia ıslak mendilinin arkasından.
 
-"Ve bunu yapacağın için mutluyum," diye dikte etti Polly esnek olmayan bir şekilde.
+"Ve bunu yapacağın için mutluyum," diye dikte etti Polly katı bir şekilde.
 
 "Bunu yapacağın için mutluyum," diye yankıladı Alexia kasvetli bir tonda.
 
-"O zaman bir kez daha arkadaşın olurum," diye kabul etti Polly, Alexia'ya doğru yavaş bir adım atarak, "yani, eğer bu dünyada bir daha asla böyle korkunç bir şey söylemezsen, Alexia Rhys."
+"O zaman bir kez daha arkadaşın olurum," diye onayladı Polly Alexia'ya doğru yavaş bir adım atarak, "yani, eğer bu dünyada bir daha asla böyle korkunç bir şey söylemezsen, Alexia Rhys."
 
-"Bana sorma. Biliyorsun ki yapmayacağım," diye söz verdi Alexia, morali yükselerek. Polly yanına gitti ve ıslak yanağına bir öpücük kondurdu, sadece Polly'nin yapabileceği şekilde onu rahatlattı ve çok geçmeden ipek makarası asılı pembe saten fiyonk ve makas masanın altında bulundu ve Polly muslin buluta iki kat daha fazla güçle saldırdı ve kızların sesleri neşeli kahkahalar ve neşeli konuşmalar taşıyordu ve Bayan Chatterton yanlarındaki küçük okuma odasından gizlice çıkıp kendi dairesine kapandı.
+"Bana sorma. Yapmayacağımı biliyorsun," diye söz verdi Alexia, morali yükselerek. Polly yanına gitti ve ıslak yanağına bir öpücük kondurdu, sadece Polly'nin yapabileceği şekilde onu rahatlattı ve çok geçmeden ipek makarası asılı pembe saten fiyonk ve makas masanın altında bulundu ve Polly muslin buluta iki kat daha fazla güçle saldırdı ve kızların sesleri neşeli kahkahalar ve neşeli konuşmalar taşıyordu ve Bayan Chatterton yanlarındaki küçük okuma odasından gizlice çıkıp kendi dairesine kapandı.
 
 "Aman Tanrım, o bebeğin elbisesi ne kadar güzel olacak, Polly," diye haykırdı Alexia biraz sonra. "Dantel alt tarafa mı işleniyor?"
 
@@ -5627,7 +5625,7 @@ Sonra Jencks, boyutları aynı olan yedi kutusuyla içeri girdi ve onları mavi 
 salondaki sıraya ciddiyetle koydu. "Bayan Phronsie Pepper için ve yarına kadar açılmayacak,
 Bayan Mary."
 
-"Polly," dedi Alexia sahnede fısıldayarak ve Jencks ortadan kaybolunca ayağa fırlayıp sıraya doğru koştu, "sence bunlar bebek mi?"
+"Polly," dedi Alexia sahnede fısıldayarak ve Jencks ortadan kaybolduğunda ayağa fırlayıp sıraya doğru koştu, "sence bunlar bebek mi?"
 
 "Öyleyse ben ölürüm," diye ilan etti Polly çaresizce ve
 oldukça hareketsiz bir şekilde.
@@ -5639,7 +5637,7 @@ sadece merakımızı gidermek çok mu yanlış olurdu? Sadece bir tane, Polly?"
 "Hayır, hayır, yapma," diye bağırdı Polly sertçe. "Onlar Phronsie'ye ait. Ama
 aman Tanrım!"
 
-"Ve bir düşün," dedi Alexia, bir Eyüp'ün yorganı gibi, ve saate
+"Ve bir düşün," dedi Alexia, bir Eyüp'ün yorganı gibi ve saate
 bakarak, "sadece on bir buçuk. Polly Pepper, daha çok okyanus var."
 
 "Böyle bir geziye çıkmak çok korkunç," dedi Joel, o gece, kütüphane ateşinin önündeki halının üzerine uzanarak, "sadece dört
@@ -5655,11 +5653,11 @@ yüz yaptı, bir parça kağıdı katladı ve Van'a doğrulttu.
 Davie içini çekti ve endişeyle başını kaldırdı. "Umarım Bay Marks iyileşir de
 pazartesi günü geri dönebiliriz."
 
-"Umarım hasta kalır," dedi Joel şefkatle. "Zaten pazartesi günü geri dönmemiz
+"Sadece hasta kalmasını umuyorum," dedi Joel şefkatle. "Zaten pazartesi günü geri dönmemiz
 güvenli değil. Tifo olabilir, bilirsin,
 Mamsie," ona bakarak.
 
-"Eğer durum buysa, yakında bize haber verecekler," dedi Mother Fisher orta sehpanın yanındaki lamba ışığında. "Hayır, yarınki
+"Eğer durum buysa, yeterince yakında bize haber verecekler," dedi Mother Fisher orta sehpanın yanındaki lamba ışığında. "Hayır, yarınki
 mektubunuzda 'Pazartesi gel' yazmasını bekliyorum."
 
 "Bu kadar erken çekilmemiz gerçekten utanç verici," diye bağırdı
@@ -5669,8 +5667,7 @@ Joel öfkeyle, dik oturarak.
 uzun bir gezin olur." Yaklaşan ayrılığı ve aralarındaki
 denizi düşünürken içini çekti. "Bu hiçbir şey; sadece korkunç bir zaman - yakında geçecek," diye homurdandı Joel, yüzünü çevirerek, serin akşamın gerekli kıldığı parlak bir şekilde sıçrayan alevlere baktı.
 
-Ben, Polly'ye baktı. "Yazdan bahsetme," diyecekti ama zamanında durdu. Phronsie bebeğini dikkatlice kanepenin köşesine koydu
-ve Joel'in yanına gitti.
+Ben, Polly'ye baktı. "Yazdan bahsetme," diyecekti ama zamanında durdu. Phronsie bebeğini dikkatlice kanepenin köşesine koydu ve Joel'in yanına gitti.
 
 "Okulda başın sık sık ağrıyor mu, Joel?" diye sordu, serin küçük avucunu Joel'in kısa saçlarına hafifçe koyarak.
 
@@ -5678,7 +5675,7 @@ ve Joel'in yanına gitti.
 
 Bunu bir haykırış karşıladı.
 
-"Çok yazık," dedi Phronsie acıyarak, "Sadece yazıp Bay Marks'a ağrıdığında durup dinlenmene izin verip vermeyeceğini soracağım."
+"Çok yazık," dedi Phronsie acıyarak, "Sadece Bay Marks'a yazıp, ağrıdığında durup dinlenmene izin verip vermeyeceğini soracağım."
 
 "'Hiçbir işe yaramaz, Phronsie,' dedi Joel, "hiçbir şey işe yaramaz. O, Marks gibi sıradan bir
 taşlamacı."
@@ -5700,7 +5697,8 @@ yanan kütüklere döndü.
 "Bir daha asla oğlumdan böyle bir bahane duymama izin verme," dedi Anne Fisher alaycı bir şekilde. "Elimde değil. Kendime hakim olurdum, bu bir şey."
 
 Joel, titrek bir elle maşayı geri koydu. Kayarak
-şarak şömineye düştüler.
+şarak şöminenin
+yanına düştüler.
 
 "Mamsie, demek istediğim bu değildi," diye başladı, ayağa kalkarak. Ve kimse derin bir nefes
 almadan önce odadan dışarı fırladı.
@@ -5709,7 +5707,7 @@ Korkunç bir duraklama oldu. Polly ellerini sıkıca birbirine kenetledi ve
 annesine baktı. Bayan Fisher dikişini sessizce büyük
 sepete koydu ve sandalyesinden kalktı.
 
-"Ah! Joey'e ne oldu?" diye bağırdı Phronsie, ıssız şömine halısının yanında kıpırdamadan durarak. "Mamsie, başının ağrıdığını mı düşünüyorsun?"
+"Ah! Joey'e ne oldu?" diye bağırdı Phronsie, ıssız şömine halısının yanında hareketsiz durarak. "Mamsie, başının ağrıdığını mı düşünüyorsun?"
 
 "Sanırım öyle olmalı," dedi Bayan Fisher ciddi bir şekilde. Sonra çok
 sessizce dışarı çıktı ve merdivenlerden yukarı çıktığını duyabiliyorlardı.
@@ -5723,7 +5721,7 @@ anneme her şeyi anlat," ve başını kaldırıp oturdu ve kucağına aldı.
 
 "Aman Tanrım!" diye bağırdı Joel, rahat kucağına iyice gömülürken, "Aman Tanrım--Aman Tanrım!"
 
-"Şimdi, bu çok saçma, Joey," dedi Anne Fisher, "bana hemen bütün bu belanın ne olduğunu söyle," sert ellerini onun sıcak alnının üzerinden geçirip yüzüne bakmaya çalıştı. Ama yüzünü ondan
+"Şimdi, bu çok saçma, Joey," dedi Anne Fisher, "hemen bana bütün bu belanın ne olduğunu söyle," sert ellerini onun sıcak alnının üzerinden geçirip yüzüne bakmaya çalıştı. Ama yüzünü ondan
 uzaklaştırmaya çalıştı.
 
 "Öncelikle okuldan nefret ediyorum!" diye patladı.
@@ -5733,19 +5731,18 @@ XXII
 JOEL
 
 "Okuldan nefret mi ediyorsun?" diye bağırdı Anne Fisher. "Ah, Joey! Ben'in daha fazla
-okul istediğini düşün, ancak Bay King ona bunu teklif ettiğinde
-bu riski almadı çünkü mümkün olan en kısa sürede para kazanması gerektiğini
-hissediyordu. Ah, Joey!"
+okul istediğini düşün, ancak Bay King ona bunu teklif ettiğinde, mümkün olan en kısa sürede para kazanması gerektiğini hissettiği için
+bu riski almadı. Ah, Joey!"
 
-"Ah, Joey!" derinden yaraladı. Joel yüzünü buruşturdu ve annesinin parmaklarının altına daha da
+O "Ah, Joey!" derinden yaraladı. Joel yüzünü buruşturdu ve annesinin parmaklarının altına daha da
 girdi.
 
-"Tam da bu," diye bağırdı. "Ben istiyordu ve ben istemiyorum. Ondan nefret ediyorum ve
+"İşte bu," diye bağırdı. "Ben istiyordu ve ben istemiyorum. Ondan nefret ediyorum ve
 geri dönmek istemiyorum."
 
 "Geri dönmek istemiyor musun?" diye tekrarladı Bayan Fisher dehşet içinde.
 
-"Hayır, istemiyorum. Arkadaşlar sürekli bana laf atıyor ve herkes benden önde gidiyor ve ben dersleri telafi etmek için sürekli maçlardan
+"Hayır, istemiyorum. Arkadaşlar sürekli bana laf atıyor ve herkes benden önde gidiyor ve ben derslerimi telafi etmek için sürekli maçlardan
 kalıyorum ve kitapları kovmak istiyorum," diye bağırdı Joel öfkeyle.
 
 Bayan Fisher hiçbir şey söylemedi, ama eller hala kucağındaki kahverengi, kısa başı okşuyordu.
@@ -5769,13 +5766,12 @@ Joel ayağa fırladı ve yerde aşağı yukarı zıplamaya başladı. "Kendime b
 büyüğüm, anne," dedi, yanına
 gelip tekrar zıplamak için.
 
-"Ben de öyle düşündüm," dedi Bayan Fisher sakin bir şekilde, "yoksa seni Bay Marks'ın
-okuluna yerleştirmemeliydim."
+"Ben de öyle düşündüm," dedi Bayan Fisher sakin bir şekilde, "yoksa seni Bay Marks'ın okuluna
+yerleştirmemeliydim."
 
 "Anneciğim, evde kalıp bana bakman fikri," dedi Joel heyecanla. "Ne, bunu hisset." Kolunu açtı ve yukarı çıkıp
 incelemek için uzattı. "Bu harika değil mi? Gerçekten
-okuldaki herhangi bir çocuğu
-yenebileceğime inanıyorum, evet," diye haykırdı, kaslarına şefkatle bakarak. "İnanmıyorsan, sadece onları sertçe çimdikle.
+okuldaki herhangi bir çocuğu pataklayabileceğime inanıyorum," diye haykırdı, kaslarına şefkatle bakarak. "İnanmıyorsan, sadece onları sertçe çimdikle.
 Gerçekten kastettiğin bu değil, Anneciğim, tabii ki. Evde kalıp bana bakma fikri," ve tekrar zıplamaya başladı.
 
 "Kaç çocuğu kırbaçlayabileceğin umurumda değil," diye gözlemledi Anne Fisher
@@ -5787,7 +5783,7 @@ Joel aniden durdu ve ona baktı.
 "Ve pes etmeden önce, on üç yaşında bir çocukken, dersler zor olduğu ve ders çalışmayı sevmediğim için
 okuldan alınmak için yalvarmadan önce,
 kendimi deri ve kemik kadar çalıştırırdım ama yine de itibarlı bir şekilde geçerdim." Bayan
-Fisher şimdi kanepenin köşesinde bir ok gibi dik oturuyordu. "Sözümü söyledim, Joel," diye bitirdi bir duraklamadan sonra, "ve şimdi aşağı inip Bay King'e söyleyeceğim."
+Fisher şimdi kanepenin köşesinde bir ok gibi dik oturuyordu. "Sözümü söyledim, Joel," diye bitirdi bir duraksamadan sonra, "ve şimdi aşağı inip Bay King'e söyleyeceğim."
 
 "Anne," diye bağırdı Joel, odanın öbür ucuna doğru koşarak, "gitme! Kalacağım, kalacağım. Bir daha, bir bebek gibi bakılmam gerektiğiyle ilgili bunu söyleme. İyi olacağım, anne ve çalışacağım."
 
@@ -5818,8 +5814,7 @@ Kavuşmuş elleri tuttu ve sarkık yüze gülümsedi.
 
 Ama Phronsie başını iki yana salladı ve "Hayır." dedi.
 
-"Büyükbaba içeri girip onu öyle bulursa çok korkunç olur!"
-diye haykırdı Polly, bu ani acil durumda
+"Büyükbaba içeri girip onu öyle bulursa çok korkunç olur!" diye haykırdı Polly, bu ani acil durumda
 susup kalan beş çocuğa bakarak. "Hepimiz bir oyun oynayalım.
 Birisi bir oyun düşünemez mi?"
 
@@ -5841,7 +5836,7 @@ otururken. "Polly, yapar mısın?" diye yalvararak sordu.
 
 "Bu gece ona sorma," diye araya girdi Jasper.
 
-"Evet, yapacağım. Okula dönmeden önce," dedi Van, "tek zamanımız bu. Yap, Polly, yapar mısın?" diye tekrar yalvardı.
+"Evet, yapacağım. Okula dönmeden önce," dedi Van, "tek sahip olacağımız zaman bu. Yap, Polly, yapar mısın?" diye tekrar yalvardı.
 
 "Aklıma ilk şey gelmiyor," diye ilan etti Polly, alnından küçük kahverengi saç tutamlarını geriye iterek.
 
@@ -5865,7 +5860,7 @@ Phronsie ellerini açtı. "Bana mendilini ver, Polly," dedi, kalan gözyaşları
 
 "Eh-eh-eh!" diye haykırdı, gözlüklerinin üzerinden hepsine bakarak. "Oyun mu oynuyorsun, ha?"
 
-"Yapacağız," dedi Ben ve Jasper birlikte.
+"Biz anlatacağız," dedi Ben ve Jasper birlikte.
 
 "Hayır, Polly bir hikaye anlatacak," dedi Van yüksek sesle, "yani, eğer duymak
 istersen, Büyükbaba. Lütfen öyle de," diye yalvardı, kulağına fısıldamak için
@@ -5876,23 +5871,22 @@ bir koltuk çekerek. "Hadi bakalım," oturdu, "Ben hallederim.
 Şimdi devam et, canım."
 
 Van hafifçe ellerini çırptı. "Phronsie," diye işaret etti Bay King, onu yanına çağırdı ve
-sonra imalı bir şekilde dizine dokundu, "işte, canım."
+sonra imalı bir şekilde dizine dokundu, "buraya, canım."
 
 Phronsie odanın öbür ucuna doğru koştu. "Evet, Büyükbaba."
 
 "İşte, yukarı çıkıyor!" diye şarkı söyledi Bay King, onu kucağına
-aldı. "Hadi bakalım, Polly, çocuğum, hepimiz harika
+alarak pozisyonuna getirdi. "Hadi bakalım, Polly, çocuğum, hepimiz harika
 hikaye için hazırız. Dur, Joel nerede?"
 
 "Joel az önce yukarı çıktı," dedi Jasper hemen. "Hadi,
 şimdi, Polly, başla."
 
-"Phronsie'nin ayakkabılarını almaya nasıl gittiğimizi anlatacağım," dedi Polly, Bay King'in yanına bir
-puf çekerek. "Hadi çocuklar, sandalyelerinizi yukarı çekin."
+"Phronsie'nin ayakkabılarını almaya nasıl gittiğimizi anlatacağım," dedi Polly, Bay King'in yanına bir puf çekerek. "Hadi çocuklar, sandalyelerinizi yukarı çekin."
 
-"Joel, bir hikaye anlatacağını bilmeli, Polly," dedi Bay King. "Çocuklardan biri dışarı koşup onu merdivenlerin dibinde çağırsın."
+"Joel senin bir hikaye anlatacağını bilmeli, Polly," dedi Bay King. "Çocuklardan biri dışarı koşup onu merdivenlerin dibinde çağırsın."
 
-"O Mamsie'nin odasında," dedi Ben. "Sanırım Mamsie onunla işini bitirdiğinde, aşağı inecektir."
+"O Mamsie'nin odasında," dedi Ben. "Sanırım Mamsie onunla işini bitirdiğinde aşağı inecektir."
 
 "Oh! ah!" dedi yaşlı beyefendi. "Phronsie, o zaman belki de devam etsen daha iyi olur. "
 
@@ -5901,14 +5895,18 @@ kanatacak şekilde kestiği için, annesinin
 en sonunda kendisi için özel olarak bir çift ayakkabı satın alabileceğine nasıl karar verdiğini; ve Diyakoz Brown'un eski atı ve arabasının nasıl tedarik edildiğini ve
 anne hariç hepsinin yola çıktığını ve kasabaya nasıl bindiklerini ve
 Beebe'lerin altın kadar iyi olduğunu ve kırmızı üstlü ayakkabıların
-Phronsie'nin ayaklarına göre yapılmış gibi nasıl uyduğunu ve hepsinin
-eve nasıl gittiğini ve Phronsie'nin mutfakta nasıl yorulana kadar dans ettiğini ve sonra yeni ayakkabıları
-yanında taşıyarak nasıl yatağa girdiğini ve nasıl--
+Phronsie'nin ayaklarına
+uymuş gibi nasıl uyduğunu ve hepsinin
+eve nasıl gittiğini ve Phronsie'nin mutfakta nasıl yorulana kadar
+dandığını ve sonra yeni ayakkabıları
+yanında taşıyarak nasıl yatağa girdiğini ve nasıl
+uyuyakaldığını--
 
-"Neden, itiraf ediyorum," diye haykırdı Polly, bu sonuca vararak
+"Neden, açıklayayım," diye haykırdı Polly, bu sonuca vararak
 hoş bir şekilde dolambaçlı bir şekilde, "eğer şimdi uyumuyorsa!"
 
-Ve gerçekten de uyuyordu. Bu yüzden aynı eski şekilde yatağa taşınmak zorundaydı; ancak bu sefer onu tutan Polly yerine Jasper'dı.
+Ve gerçekten de uyuyordu. Bu yüzden aynı eski
+şekilde yatağa taşınmak zorundaydı; ancak bu sefer onu tutan Polly yerine Jasper'dı.
 
 "Başka bir geceye ertelememiz daha iyi olmaz mı sence?"
 Percy, kütüphane partisi erken dağılmışken, yukarı yatağa giderken Van'a fısıldadı. "Bir adam Joel'in sahip olduğu zamana
@@ -5951,10 +5949,10 @@ Latince gramer olduğu ortaya çıktı ve bir yüz buruşturmayla sayfayı buldu
 dirseklerini masaya dayayarak,
 elleriyle kısa başının her iki tarafını kavradı. "Saçlarıma tutunacağım," dedi ve
 işine
-başladı. Ve şimdi odada onun sert nefes alışı ve yaprakları çevirirken çıkardığı ses dışında hiçbir ses yoktu, çünkü çok geçmeden önündekine nasıl yaklaşacağını anlamak için birçok derse geri dönmek zorunda olduğunu fark etti; ve yanakları utanç ve şaşkınlıkla her an daha da kızarırken, ter damlaları alnından aşağı aktı ve kitabının üzerine düştü.
+başladı. Ve şimdi odada onun sert nefes alışı ve yaprakları çevirirken çıkardığı ses dışında hiçbir ses yoktu, çünkü çok geçmeden önündekine nasıl yaklaşacağını anlamak için birçok derse geri dönmek zorunda olduğunu fark etti; ve yanakları utanç ve şaşkınlıkla her an daha da kızarırken, ter damlaları alnından aşağı akıp kitabının üzerine düştü.
 
 "Vay canına!" diye haykırdı, "korkunç derecede sıcak," ve kitabını geriye iterek,
-diğer pencereye doğru ayak ucunda yürüdü ve hafifçe kaldırdı. Soğuk hava yüzüne çarptı ve karanlık geceye doğru eğilerek derin nefesler aldı.
+diğer pencereye doğru ayak ucunda yürüdü ve hafifçe kaldırdı. Soğuk hava yüzüne esti ve karanlık geceye doğru eğilerek derin nefesler aldı.
 
 "Binlerce kez derimi yüzdüm ve boynumu kurtardım," diye düşündü, "ve şimdi telafi etmek için altmış kez kazmam gerekiyor. İşte Dave,
 şimdi orada bir kedi gibi uyuyor;
@@ -5991,7 +5989,7 @@ yıllar önce, küçük kahverengi evi kurtarmak için," kollarını başının 
 sallayarak. "Neden"--
 
 Ve karanlıkta kaldı, kolları gergin bir şekilde yanlarına düştü,
-odanın karşısına dikkatli bir adım attığında siyah gözleri korkuyla
+odanın karşısında dikkatli bir adım attığında siyah gözleri korkuyla
 belirdi.
 
 "Bir hırsız--bir hırsız!" diye geçti aklından. Nefesini
@@ -6007,14 +6005,14 @@ Ama onu almaya zaman yoktu. Joel, dikkatlice yolunu bularak sürünürken, odada
 
 Ama nasıl? İşte soru buydu.
 
-Dört ayak üzerine çökerek, nefesini tutarak, ama kendisi için hiçbir tehlike düşünmeden, salona açılan kapıya doğru süründü, sonra durdu ve ağır pencere perdesinin altında dinlendi.
+Dört ayak üzerine çökerek, nefesini tutarak, ama kendisi için hiçbir tehlike düşünmeden, koridora açılan kapıya doğru süründü, sonra durdu ve ağır pencere perdesinin altında dinlendi.
 
 Ama bir şimşek hızıyla, gözleri karanlığa alıştıkça, belirsizce ayırt edebildiği iki karanlık figür, önünde belirdi ve anahtar kilide girdiğinde, Joel o taraftan kaçma umudunun tamamen kaybolduğunu biliyordu.
 
 Bir kedi gibi ayağa fırladı, perdeyi aniden
 şekillere doğru savurdu ve bir sonraki saniyede kendini
 pencere pervazından
-attı, kenara tutundu, panjuru kavradı, bir sonraki
+attı, kenara tutundu, perdeyi kavradı, bir sonraki
 pencereye doğru süründü ve böylece devam etti ve aşağı, aşağı, tutabildiği herhangi bir dostça şeyle
 yere. İki siyah maske ıssız pencere kenarına asılıydı.
 
@@ -6110,7 +6108,7 @@ bu korkunç--Joel!"
 "Ah, murther!" Thomas grubun kenarından yan yan geçti, onlara korku dolu
 gözler devirdi ve tekrar tekrar "O çocuğu vurdum--o çocuğu!" diye tekrarladı.
 
-Bütün bunlar sadece bir an sürdü ve Joel yatağına yatırıldı ve sadece etten bir yara olduğu ortaya çıkan yara, omzuna sürtündüğünde küçük bir yarık oluşturan top, sarıldı ve herkes derin bir nefes aldı. "Van'a iyi olduğumu söyle," diye tekrarlayıp duruyordu Joel her zaman.
+Bütün bunlar sadece bir an sürdü ve Joel yatağına yatırıldı ve sadece etten bir yara olduğu ortaya çıkan yara, omzuna sürtündüğünde küçük bir yarık oluşturan top sarıldı ve herkes derin bir nefes aldı. "Van'a iyi olduğumu söyle," diye tekrarlayıp duruyordu Joel her zaman.
 
 Polly bunu yapmayı üstlendi.
 
@@ -6126,7 +6124,8 @@ ben öldürdüm!"
 odasına koştu.
 
 "Şimdi iyisin;" maske düşerken hafifçe hıçkırdı.
-"Ah! Nasıl yapabildin?" söylemek istiyordu ama Van'ın sıkıntısı teselliden başka bir şey için fazla korkunçtu.
+"Ah! Nasıl yapabildin?" söylemek istiyordu ama Van'ın sıkıntısı teselliden başka bir şey için
+çok korkunçtu.
 
 "Görmüyor musun," dedi Polly, yere oturup başını kucağına alarak, "Joel'in şu anda gerçekten iyi olduğunu?
 Diyelim ki bir Peder Fisher'ımız
@@ -6138,7 +6137,7 @@ kapattı ve ağlamaya devam etti.
 "Şimdi, sadece buraya bak, Van Whitney," dedi Polly, otoriter bir tavırla, "sana söylüyorum ki Joel şu anda iyi. Bunu bir daha söyleme - bir daha asla, Vanny."
 
 "Ama bende ki var--yani Thomas'ın ateş ettiğini gördüm ve onu durduramadım,"
-ve Van korkuyla kıvrandı, "Bende ki var" çığlığıyla bitirdi--ama Polly,
+ve Van korkuyla kıvrandı, "Bende ki var" diye bir çığlıkla bitirdi--ama Polly,
 elini onun ağzına koyarak, kelimeleri geri çekti.
 
 Bu arada Percy evden dışarı fırlamıştı.
@@ -6210,10 +6209,10 @@ yardım etmek için dışarı çıkmalıyız. Van var, teyze; sadece onun nasıl
 
 Bunun üzerine kapı açıldı ve uzun ipek bir örtünün yerdeki sesi duyuldu.
 
-"Bayan Chatterton," dedi Bayan Whitney, başını kaldırıp yeni gelene, nazik yüzünün içerebildiği kadar öfkeyle bakarak, "Bu gece seni odamda göremem. Affedersin, ama olan biten her şey yüzünden gerginim. Lütfen içeri girme"--
+"Bayan Chatterton," dedi Bayan Whitney, başını kaldırıp yeni gelene, nazik yüzünün içerebildiği kadar öfkeyle bakarak, "Bu gece seni odamda göremem. Affedersin, ama olan biten her şey yüzünden gerginim. Lütfen içeri girmez misin"--
 
 "Seninle oturmayı düşündüm," dedi Bayan Chatterton. Ev halkının uyandırılmasından bu yana geçen kısa
-arada, mükemmel bir kahvaltı tuvaleti yapmayı başarmıştı ve ellerini şık
+arada, mükemmel bir kahvaltı tuvaleti yapmayı başarmıştı ve ellerini güzel
 elbisesinin üzerinde kavuşturdu. "Polly o zaman annesiyle olabilir. Ama kalmamı
 istemiyorsan, giderim."
 
@@ -6359,8 +6358,8 @@ oğlunun elini tutarak.
 ani bir alarm siyah gözlerine sıçradı.
 
 "Hiçbir çizik yok," dedi Joel hemen. "Peder Fisher'ı bir şey hakkında görmek istiyorum.
-Bir gün anlayacaksın, Mamsie." Eline aniden
-bastı, sonra bıraktı.
+Bir gün anlayacaksın, Mamsie." Eline aniden bir
+baskı yaptı, sonra bıraktı.
 
 "Belki de dışarı çıksan iyi olur canım," dedi küçük doktor,
 karısına başını sallayarak. Bu yüzden Bayan Fisher, iç çekişini bastırarak, isteksizce dışarı çıktı.
@@ -6374,7 +6373,7 @@ okul kitaplarını bıraktığı gibi
 dağılmış bir şekilde, "hepsini raftaki dolaba koy, bilirsin, ve çöpleri
 oraya, masaya geri koy?"
 
-Dr. Fisher, istediği gibi merakla sormaktan kendini alamadı, "Kitaplara bir göz atıyordun, ha, Joe?"
+Dr. Fisher, istediği gibi merakla sormaktan kendini alamadı, "Kitaplara bir şeyler çekiyordun, ha, Joe?"
 
 "Şey--şey--belki," dedi Joel, huzursuzca kıvranarak. "Şey, şimdi, buraya gel,
 lütfen, Peder Fisher."
@@ -6430,7 +6429,7 @@ Kuzen Eunice."
 "Büyükbaba!" dedi Phronsie yine dirseğinin dibinde.
 
 "Şimdi, Phronsie," ona dönerek, "o bebeği alacaksın," kanepede duran muhteşem bir şeye işaret ederek, üzerinde Bayan Algernon
-Chatterton'ın kartıyla birlikte, "ve Bayan Chatterton'a gidip, çok net bir şekilde, 'Bu hediyeyi kabul edemem,' diyeceksin; bunu net bir şekilde söyle, Phronsie, böylece gelecekte bir hata olmasın."
+Chatterton'ın kartıyla birlikte, "ve Bayan Chatterton'a gidip, çok net bir şekilde, 'Bu hediyeyi kabul edemem,' diyeceksin; bunu net bir şekilde söyle, Phronsie, ki gelecekte bir hata olmasın."
 
 "Ah, Büyükbaba!" diye haykırdı Phronsie dehşet içinde.
 
@@ -6474,7 +6473,7 @@ Candace her şeyden ve özellikle de kendisinden büyük bir memnuniyetle kapıd
 
 "Orada, Candace," dedi biri, "Jasper'la birlikte köşede."
 
-"Ah! Onu görüyorum," dedi Candace, onlara doğru yürüyerek. "Hadi, Phronsie, senin için özel olarak yaptığım bir şey için bana gelemediğini gördüğümde, Candace'in sana gelmesi gerekiyor. Şimdi gör bakalım, tatlım!"
+"Ah! Onu görüyorum," dedi Candace, onlara doğru yürüyerek. "Hadi, Phronsie, senin için özel olarak yaptığım bir şey için bana gelemediğini gördüğümde, Candace'in sana gelmesi gerekiyor. Şimdi gör, tatlım!"
 
 Paketi açtı, Candace'in kendi saçlarıyla ve "Ole Missus' fırfırlarıyla" süslenmiş harika bebeği ortaya çıkardı, sonra dik durdu, göğsü gurur ve zevkle şişti.
 
@@ -6544,7 +6543,7 @@ yapardım," dedi alçak sesle.
 rahatlamış bir şekilde iç çekti. "Ah, Büyükbaba, keşke şimdi zavallı çocuklarımız olsaydı!" diye haykırdı, korkunç bir heyecanla.
 
 "Gel, o zaman." Yaşlı Bay King onu ayağa kaldırdı. "Yolu açın, iyi insanlar; bebek bekleyen
-zavallı çocuklar bulacağız," ve kapıyı arkadaki bir geçide doğru açtı ve orada, Jencks'in başkanlığında ve ilk giriş için toplanan, ellerini uzatmış bir sürü çocuk vardı.
+zavallı çocuklar bulacağız," ve kapıyı arkadaki bir geçide doğru açtı ve orada, Jencks'in başkanlığında ve ilk giriş için toplanan bir grup çocuk vardı.
 
 "Oh--oh!" diye haykırdı Phronsie, yanakları alev alev.
 
@@ -6591,7 +6590,7 @@ Bunun üzerine Van kapıyı ardına kadar açtı.
 
 "İkiniz de aptal gibi davranıyorsunuz," dedi Joel. "Şimdi iyileşmemi istiyorsan, dışarı çık, yap ve bana orada neler döndüğünü anlat."
 
-O kadar ikna olmuşlardı ki, iki çocuk tam zamanında koridora gizlice girip Phronsie'nin kollarıyla merdivenlerden aşağı indiğini gördüler ve kulaklarını dikkatlice
+O kadar ikna olmuşlardı ki, iki çocuk tam zamanında koridora gizlice girip Phronsie'nin kucağında merdivenlerden aşağı indiğini gördüler ve kulaklarını dikkatlice
 kulaklarını kullanarak hemen geri döndüler, "Phronsie bebeklerini veriyor!"
 
 "Saçma sapan şeyler!" diye bağırdı Joel, "Eğer o iplikten daha iyisini
@@ -6599,28 +6598,31 @@ getiremiyorsan, burada kalsan daha iyi."
 
 "Ama sana söylüyorum, doğru," diye ilan etti Van, "öyle değil mi, Percy?"
 
-"Evet, öyle," dedi Percy. "Onun açıkça 'Bu bebek senin için' dediğini duydum ve kolları dolu olduğu için onları da verecek sanırım"--
+"Evet, öyle," dedi Percy. "Onun açıkça 'Bu bebek senin için' dediğini duydum ve kolları dolu olduğu için onları da verecek sanırım"
 
 "Muhtemel bir hikaye," dedi Joel kahkaha atarak. Çocukların odasından gelen gürültüye, Anne Fisher hızla merdivenlerden aşağı koştu.
 
 "Ah, çocuklar! Ne oldu? Joel, daha mı kötüsün?"
 
 "Hayır, gerçekten," dedi Joel, "Gülüyordum. Percy ve Van
-çok büyük bir hikaye anlatıyorlardı. Mamsie, Phronsie'nin bebeklerini dağıttığını söylediler."
+çok büyük bir hikaye anlatıyorlardı. Mamsie, Phronsie'nin
+bebeklerini dağıttığını söylediler."
 
 "Hepsi bu mu?" diye haykırdı Bayan Fisher rahatlayarak. "Öyle, öyle, Joel."
 
-"PHRONSIE BEBEKLERİNİ VERİYOR, MAMSIE?" diye haykırdı Joel. "Neden, Büyükbaba ne diyor?"
+"PHRONSIE BEBEKLERİNİ VERİYOR, MAMSIE?" diye haykırdı Joel. "Neden,
+Büyükbaba ne diyor?"
 
 "Bunu öneren oydu," dedi Bayan Fisher. "İşte, Joey,
 heyecanlanma, çünkü doktorun ne diyeceğini bilmiyorum," Joel
 yastığına yaslanırken, bu son haberle sarsılmıştı.
 
-Phronsie o gece yatağa girdiğinde Bay King'in yeni hediyesini göğsüne bastırdı.
+Phronsie o gece yatağa girdiğinde Bay King'in yeni hediyesini
+göğsüne bastırdı.
 
-"Büyükbaba, canım," dedi güvenle, birlikte merdivenlerden çıkarken, "diğerleri gittikten sonra bu bebeği gerçekten daha çok sevdiğimi biliyor musun? Gerçekten biliyorum, Büyükbaba ve ona daha iyi bakabilirim, çünkü daha fazla zamanım olacak."
+"Büyükbaba, canım," dedi güvenle, birlikte merdivenlerden çıkarken, "diğerleri artık gitmişken, bu bebeği gerçekten daha çok sevdiğimi biliyor musun? Gerçekten de öyle, Büyükbaba ve ona daha iyi bakabilirim, çünkü daha fazla zamanım olacak."
 
-"Öyle olacak, canım," diye onayladı Bay King. "Phronsie, bence sen ve ben, canım, kötü bir gün geçirmedik."
+"Öyle yapacaksın, canım," diye onayladı Bay King. "Phronsie, bence sen ve ben, canım, kötü bir gün geçirmedik."
 
 "Çocuklarımın mutlu olacağını düşünüyorum," dedi Phronsie hafifçe iç çekerek,
 "çünkü görüyorsun, yeni anneleri için güzel zamanlar yaratmak çok güzel.
@@ -6690,9 +6692,9 @@ Jasper şaşkınlıkla.
 "Bayleyler, Dycelar, Herringler," diye bağırdı Bay Whitney, Van ve
 Joel.
 
-"Hayır, biliyorum," diye araya girdi Percy, "Bayan Chatterton," odada olmadığından emin olmak için hızlıca bir bakış atarak.
+"Hayır, biliyorum," diye araya girdi Percy, "Bayan Chatterton," odada olmadığından emin olmak için hızlıca bir bakış attı.
 
-"HAYIR!" diye gürledi Bay King. "Ah! İnsanlar istediklerinde ne kadar da aptal olabiliyorlar. Yarın New York'ta iki kişi bizimle buluşacak. Emin olana kadar sana söylemedim; hayal kırıklığına uğramanı istemedim. Şimdi
+"HAYIR!" diye gürledi Bay King. "Ah! İnsanlar istediklerinde ne kadar da aptal olabiliyorlar. Yarın New York'ta iki kişi bizimle buluşacak. Sana emin olana kadar söylemedim; hayal kırıklığına uğramanı istemedim. Şimdi
 tekrar tahmin et."
 
 "Teyze, biliyor musun?" diye sordu Polly aniden, ateşin önündeki halının üzerinde otururken geriye yaslanarak, başını Bayan Whitney'nin kucağına koydu.
@@ -6739,7 +6741,7 @@ Phronsie'yi neredeyse üzecek şekilde, "olabilir mi--sence bu hoş mu, sevgili 
 
 "Pekala, Polly," dedi Bay King, ona gülümseyerek, "diğerlerinin yapamadığını sen yaptın. Evet, Bay ve Bayan Henderson ve sonbahara kadar bizimle kalacaklar."
 
-"İyi, iyi!" diye haykırdı herkes, büyük oda neşeyle dolana kadar.
+"İyi, iyi!" diye haykırdı herkes, ta ki büyük oda neşeyle dolana kadar.
 
 "Ah, baba!" diye haykırdı Bayan Whitney, "Bunu yaptığın için çok mutluyum. Dicky'ye ve bana incindiğinde çok nazik davrandılar."
 
@@ -6752,13 +6754,13 @@ kolaylaştırmamak üzücü. Peki, planı nasıl buldun?" Dr. Fisher'la konuştu
 
 Ve ertesi gün, tüm aile, King'ler, Whitney'ler, Fisher'lar ve Pepper'lar, gri taş malikaneye sırtlarını dönüp şehre indiler.
 
-Ve Alexia Rhys, teyzesini bu zamanda altı ayda bir yaptığı alışverişi yapmaya ve onu da götürmeye ikna etti; ve Bay Alstyne'ın da gitmesi gereken işleri vardı ve Bay Cabot, Mary Taylor ve babası da onların da gitmeleri gerektiğini anladılar; ve Hamilton Dyce oradaydı ve
+Ve Alexia Rhys, teyzesini bu zamanda altı ayda bir yaptığı alışverişi yapmaya ve onu da götürmeye ikna etti; ve Bay Alstyne'ın da gitmesi gereken işleri vardı ve Bay Cabot, Mary Taylor ve babası da onlarla birlikte gitmeleri gerektiğini anladılar; ve Hamilton Dyce oradaydı ve
 Pickering Dodge, tabii ki, gitti Ben'e dönüş yolunda eşlik etmesi için.
 Ve son anda trene Livingston
 Bayley'den başka kim binecekti.
 
-"Bir telgrafım vardı," diye açıkladı; "öğlen orada olmalıyım. Hepinizle
-tanışmanın beklenmedik zevkine çok sevindim."
+"Bir telgrafım vardı," diye açıkladı; "öğlen orada olmalıyım. Hepinizle tanışmanın
+beklenmedik zevkine çok sevindim."
 
 Ve Kuzen Eunice Chatterton gitti; çünkü son anda,
 aniden gri taş malikaneyi istediği kadar ziyaret ettiğini
@@ -6769,8 +6771,7 @@ diğerleriyle birlikte vapurda onlara veda ediyordu.
 
 "Phronsie," dedi yavaşça, dillerin karmaşası altında, "sen
 iyi bir çocuksun ve sana iyi davrandım. Bu küçük kağıt parçası,"
-ellerine koyarak, "Bay King'e bir mesaj içeriyor, sen de başladıktan sonra ona
-vereceksin. "
+ellerine koyarak, "Bay King'e bir mesaj içeriyor, sen de başladıktan sonra ona ileteceksin. "
 
 "Gidip ona vereceğim," dedi Phronsie, parmakları
 dizginin üzerine kapanarak.
@@ -6827,7 +6828,7 @@ yıkılırdı."
 "Ve hatırlayacağım," dedi Joel, Polly'nin gözlerinden başka her yere bakarak.
 
 "Umarım, Bayan Polly," dedi genç Bay Bayley, ağır ağır yürüyerek, "olağanüstü
-bir şekilde güzel vakit geçirirsin, gerçekten öyle. Eylül'de
+bir şekilde güzel vakit geçirirsin, gerçekten geçiriyorum. Eylül'de
 karşılaşabilirim; Eğer yaparsam, muhtemelen karşılaşırız."
 
 "Bayan Mary Pepper?" diye sordu aniden elinde kocaman bir çiçek sepeti olan bir adam,
@@ -6858,25 +6859,25 @@ Genç Bayley sepeti eline koydu ve gülümseyerek
 topuğunun üzerinde döndü.
 
 "Gel, Polly, seni istiyorum," diye bağırdı Alexia, onu uzaklaştırmaya çalışarak. "Biliyorsun, o benim en iyi arkadaşım, Pickering ve bu sabah ona tek bir kelime bile
-söyleme fırsatım olmadı. Gel, Polly."
+söyleme şansım olmadı. Gel, Polly."
 
 "Polly, buraya gel," diye seslendi Bayan Fisher.
 
 "Aman Tanrım!" diye bağırdı Alexia sabırsızlıkla, "işte her zaman böyledir. Polly burada ve Polly orada," Polly onu terk edip gül sepetiyle
 kaçarken. "Elbette sen hiçbir çağrıyı yapmıyorsun," dedi Pickering gülerek.
 
-"Pekala, onu kendime saklayacağım," diye ilan etti Alexia vahşice, "vapurdan inmemizin zamanı gelmeden önce, inip inmeyeceğime bak."
+"Eh, ben onu kendime saklayacağım," diye ilan etti Alexia vahşice, "vapurdan inme zamanı gelmeden önce, inip inmeyeceğime bak."
 
 "İnanmıyorum," dedi Pickering. "Şimdi ona akrabaların girdabında
 bak. Sen ve ben, Alexia, dışarıda kaldık."
 
-Ve Alexia'nın bildiği bir sonraki şey, birinin törensizce vapurdan inmesine yardım etmesiydi, "Özür dilerim, Bayan, ama inmelisiniz," ve o, bir kalabalığın içinde iskelede duruyordu, Polly Pepper'ın çırpınan mendiline sersemlemiş bir şekilde bakıyordu, aralarında hızla artan küçük yeşilimsi su dalgaları vardı.
+Ve bir sonraki şey Alexia'nın bildiği şey, birinin törensizce vapurdan inmesine yardım ettiği ve "Özür dilerim, Bayan, ama inmelisiniz," dediği ve kendisinin bir kalabalığın içinde iskelede durduğu, Polly Pepper'ın çırpınan mendiline sersemlemiş bir şekilde baktığı, aralarında hızla artan küçük yeşilimsi su dalgalarının olduğu.
 
 Ve Phronsie Bay King'e doğru koşuyordu:
 
 "İşte, Büyükbaba, Bayan Chatterton sana bunu vermemi istedi,"
 beyaz kağıt parçasının bulunduğu sıcak küçük avucunu açtı. "Dickens'ı yaptı," diye haykırdı yaşlı beyefendi; "yani seninle son bir
-sözünü söyledi, öyle mi? Eh, uzun bir süre daha bir tane daha alamayacak;
+sözünü söyledi, öyle mi? Uzun bir süre daha bir tane daha alamayacak;
 bu yüzden boş ver. Şimdi, Kuzen Eunice'in ne söylediğine bakalım. İlginç bir şey, şüphesiz." Buruşmuş parçayı düzeltti ve okudu,
 Phronsie yanında hareketsiz duruyordu:
 
@@ -6884,10 +6885,10 @@ KUZEN HORATIO: Phronsie Pepper'ı tek varisim yaptım.
 Beğenebilirsin veya beğenmeyebilirsin, istediğin gibi. İş bitti ve Tanrı Phronsie'yi kutsasın.
 EUNICE CHATTERTON.
 
+Margaret Sidney'in Project Gutenberg'in Five Little Peppers Midway adlı eserinin sonu
+
+.
 *** END OF TURKISH PART ***
-
-.End of Project Gutenberg's Five Little Peppers Midway, by Margaret Sidney
-
 *** END OF THIS PROJECT GUTENBERG EBOOK FIVE LITTLE PEPPERS MIDWAY ***
 
 ***** This file should be named 5632.txt or 5632.zip *****

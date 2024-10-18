@@ -4,6 +4,7 @@ Yazar: Sophia Reeve
 Yayın Tarihi: September 24, 2010 [EBook #33973]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/33973
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 Project Gutenberg's The Mysterious Wanderer, Vol. I, by Sophia Reeve
 
@@ -24,6 +25,7 @@ Language: English
 Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE MYSTERIOUS WANDERER, VOL. I ***
+
 *** START OF TURKISH PART ***
 Mark C. Orton ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış
 Tashih Ekibi tarafından üretilmiştir (Bu dosya The Internet Archive tarafından cömertçe sağlanan
@@ -56,7 +58,7 @@ ST. JAMES'S-STREET.
 REKLAM.
 
 Aşağıdaki sayfaları basına teslim ederken, birkaç arkadaşımın kısmi isteklerine uygun davrandım. Hikayemin birçok
-eksikliği olduğunun farkındayım; ancak bu bir ilk deneme ve yalnızca kendi eğlencem için yazıldığı için, bir kış mevsiminde, liberal bir halktan eleştirinin şiddetini yumuşatmasını rica edeceğime inanıyorum: ve okuyucularıma birkaç saat eğlence sağlarken, cömert bir duygu aşılamayı veya kötü bir duyguya olan eğilimi kontrol etmeyi umabilirsem, kendimi mutlu sayacağım ve emeklerimin fazlasıyla ödüllendirildiğini hissedeceğim.
+eksikliği olduğunun farkındayım; ancak bu bir ilk deneme ve yalnızca kendi eğlencem için, bir kış mevsiminde yazılmış olduğundan, liberal bir kamuoyundan eleştirinin şiddetini yumuşatmasını rica edeceğimi umuyorum: ve okuyucularıma birkaç saat eğlence sağlarken, cömert bir duygu aşılamayı veya kötü bir duyguya olan eğilimi kontrol etmeyi umabilirsem, kendimi mutlu sayacağım ve emeklerimin fazlasıyla ödüllendirildiğini hissedeceğim.
 
 YAZAR.
 
@@ -92,7 +94,7 @@ onu oraya yerleştirmeleri daha iyidir. Bu, akla hakaret eden, insan doğasını
 aşağılayan bir tutkudur."
 
 Frederick Howard'ın, Argo savaş gemisine geri dönerken Yarmouth'daki iskeleye doğru yürürken, gururu ve kibriyle dikkat çeken bir meslektaşına hitaben yazdığı duygular bunlardı. Zaten onları gemiye
-alacak olan teknedeydiler ki, yaklaşık on yedi yaşında bir genç yanlarına koştu ve vahşi ve sıkıntılı bir görünümle, onu da yanlarına almalarını rica etti.
+alacak olan teknedeydiler ki, yaklaşık on yedi yaşında bir genç onlara doğru koştu ve vahşi ve sıkıntılı bir görünümle, onu da yanlarına almalarını rica etti.
 
 "Seni yanımıza alalım!" dedi Teğmen Harland sertçe, "sen kimsin?"
 
@@ -105,7 +107,7 @@ ve hemen tekneye atladı.
 diye yalvarıyor--eğer hak ediyorsa, verilmeli: eğer hak etmiyorsa, ona kötü davranmaya
 hakkımız yok." Tekneyi itti ve gemiye alındılar.
 
-Frederick'in amcası olan Kaptan Howard, cömertliği nedeniyle haklı olarak takdir ediliyordu; kalbi, gerçekten de, hayırseverliğin merkeziydi ve yoksul veya mutsuz olan hiç kimse boşuna dava açmazdı. Yeğeninin yabancıya olan davranışını öğrenmesi üzerine, onu onayladığını ifade etti ve aynı zamanda onu görmek istediğini söyledi. Genç
+Frederick'in amcası olan Kaptan Howard, mizacının cömertliği nedeniyle haklı olarak takdir ediliyordu; kalbi, gerçekten de, hayırseverliğin merkeziydi ve yoksul veya mutsuz olan hiç kimse boşuna dava açmazdı. Yeğeninin yabancıya olan davranışını öğrenmesi üzerine, onayını dile getirdi ve aynı zamanda onu görmek istedi. Genç
 bu nedenle çağrıldı. Kabine mütevazı bir reveransla girdi ve
 Kaptan'ın kim olduğu sorusuna? diye cevap verdi--Daha iyi bir kader beklentisiyle
 yetiştirilmiş biri; ta ki talihsiz bir darbe onu
@@ -166,7 +168,7 @@ itiraf ettikten
 sonra, St. Ledger'a olan dostluk
 ilanını kendisine yapılmış bir hakaret olarak gördü ve bu nedenle ona gücünün yettiği her türlü aşağılama işaretiyle davranarak kızgınlığını göstermeye karar verdi. Ancak bu davranış,
 istenen etkiyi yaratmada başarısız oldu; ve St. Ledger'ı aşağılamak yerine, diğer subayların dikkatini ve korumasını kazanmanın bir yoluydu. Harland, tavırlarındaki ciddiyetsizlikle çoktan
-kendini onların hoşnutsuzluğunun nesnesi haline getirmişti; bu nedenle, davranışlarının adaletsizliği onların görüşüne göre abartılıydı ve Kaptan'ın açıkça belirttiği tarafgirliğinden veya genç maceracının ilginç tavırlarından bağımsız olarak, ona şefkat ve dostluk duygularıyla bakmaya eğilimliydiler.
+kendini onların hoşnutsuzluğunun nesnesi haline getirmişti; bu nedenle, davranışlarının adaletsizliği onların görüşünde abartılıydı ve Kaptan'ın açıkça belirttiği tarafgirliğinden veya genç maceracının ilginç tavırlarından bağımsız olarak, ona şefkat ve dostluk duygularıyla bakmaya eğilimliydiler.
 
 St. Ledger gemide zaten altı haftadır bulunuyordu ve bu süre zarfında Kaptan, kendisini kim olduğunu söylemesi için defalarca ama boşuna ısrar etmişti;
 ayrıca, herhangi bir yabancı o beyefendiyi ziyaret ettiğinde de onu orada görünmeye ikna edemedi; bir gün, Frederick'in onları bir arkadaşının evine götürmesi için ısrar etmesi üzerine, tereddütle, kendisinin görülmesinin güvenli olmadığını kabul etti.
@@ -181,7 +183,8 @@ ne olursa olsun. Sizi, size sağladığım korumayı hak etmediğinizi
 düşünecek kadar iyi bir fikrim var. Beni daha uzun süre tanıdığınızda, belki de bana güveninizi daha çok hak ettiğinizi
 görebilirsiniz."
 
-St. Ledger, Kaptan'ın son sözlerinin ima ettiğini düşündüğü sitemden incinmiş olsa da, onların gidişiyle rahatladı.
+St. Ledger, onların gidişiyle rahatladı, ancak Kaptan'ın son sözlerinin ima ettiğini düşündüğü
+suçlamadan incinmişti.
 
 O beyefendi, mavnaya oturur oturmaz bir hayale daldı; hayal gücü St. Ledger ile ilgili varsayımlarda bulunmakla eşit derecede meşgul olan Frederick, bunu hiç kesmeyi düşünmedi; ve
 karaya çıktıklarında sessizce yollarına devam ettiler ta ki
@@ -202,8 +205,8 @@ Bildirildiğinde, davetlileriyle birlikte oturan bir beyefendi aceleyle ayağa k
 
 "Söyle bana," dedi diğeri, hemen, "Brighthelmstone'dan Talton diye biriyle hiç tanıştın mı?"
 
-"Brighthelmstone!--Talton!" diye tekrarladı Kaptan, elini tutarak--"Elbette öyle.--O benim eski dostum Talton'un kendisi! Yine de, çoktan ölmüş olduğunu
-düşündüğüm birinin varlığına inanamıyorum."
+"Brighthelmstone!--Talton!" diye tekrarladı Kaptan, elini tutarak--"Elbette öyle.--O benim eski dostum Talton'un kendisi! Yine de
+uzun zamandır ölüler arasında saydığım birinin varlığına inanamıyorum."
 
 "Bu fikri aklından geçirmene şaşırmıyorum," dedi Bay Talton. "Birbirimizi son gördüğümüzden bu yana geçen yıllar ve çeşitli koşullar, haklı olarak böyle bir varsayıma yol açabilir."
 
@@ -212,7 +215,7 @@ neden olan olayların açıklamasını sormayı düşünmeden önce biraz zaman 
 
 Frederick ve onları eğlendirenlerin de benzer şekilde ilişkisini duymak istediklerini ifade etmeleri üzerine, Bay Talton meraklarını gidermeyi hemen kabul etti.
 
-"Arkadaşlarım," diye devam etti, "hikayemde sıra dışı bir şey duymayı beklemeyin, çünkü bütünde, günlük ve saatlik olarak yüzlerce arkadaşımın başına gelenler dışında hiçbir şey yok veya bunu dostluk kulağı dışında herhangi birinin ilgisini çekebilecek bir şey yok. "Sanırım Howard, on sekiz yıl önce İngiltere'den ayrılmama neden olan koşulları tekrarlamama gerek yok; çünkü eminim ki
+"Arkadaşlarım," diye devam etti, "hikayemde sıra dışı bir şey duymayı mı bekliyorsunuz, çünkü bütünde, günlük ve saatlik olarak yüzlerce arkadaşımın başına gelenler dışında hiçbir şey yok veya bunu dostluk kulağı dışında herhangi birinin ilgisini çekebilecek bir şey yok. "Sanırım Howard, on sekiz yıl önce İngiltere'den ayrılmama neden olan koşulları tekrarlamama gerek yok; çünkü eminim ki
 koruyucumun ölümünü ve Barbados'taki hizmetkarımın
 kötülüğünü iyi hatırlıyorsunuzdur, o olayda annemden miras kalan
 malımı dolandırmaya çalışmıştı.
@@ -227,7 +230,7 @@ hakkımı iddia etmeye ve uygulamaya karar verdim.
 "Bu küstahça iddiayla neredeyse delirecek duruma gelmeme rağmen, iddiamın haklılığı konusunda ısrar ettim ve onu yasanın en büyük şiddetiyle tehdit ettim; o da bana sahtekârmış gibi davrandığını iddia etti ve
 beni buna göre cezalandırmakla tehdit etti.
 
-"Arkadaşlarım bu girişimin yararsız olduğunu fark edince, Bridgetown'a dönmemi ve Vali'den tazminat istememi önerdiler. Onlara bunu yapmalarının hoş karşılanacağını ama
+"Arkadaşlarım bu girişimin yararsız olduğunu fark edince, Bridgetown'a dönmemi ve Vali'den tazminat almamı önerdiler. Onlara bunu yapmalarının hoş karşılanacağını ama
 benim olduğum yerde kalmam gerektiğini söyledim; ve
 benim amacım konusunda inatçı olduğumu görünce, sonunda bensiz şehre doğru yola çıktılar.
 
@@ -284,13 +287,12 @@ Frederick içini çekti. "Babam, efendim, benim burada olmamı biliyor ve onayl�
 "--Siz," dedi Bay Talton, bir anlık duraklamadan sonra, "kavgalarının nedenini biliyor musunuz!"
 
 "Bilmiyorum, efendim," diye cevapladı Frederick. "En eski hatırladığım kadarıyla amcamla babam arasındaki
-mutsuz anlaşmazlık var olmuştur: ve babam bu inatçılığı öyle aşırıya kaçırmıştı ki, kardeşinin adının bile onun yanında anılmasına izin vermezdi: ve, ismi dışında, böyle birinin varlığından bile neredeyse haberim yoktu. Denize olan erken yatkınlığım, babamın boşuna yok etmeye çalıştığı ve ağabeyimin kibirli
-cimri mizacı, bana neredeyse on dört yaşıma kadar sürekli öfke
-ve ceza getirdi; babama Salisbury yakınlarındaki bir yarışa eşlik ettiğimde; ve amcam, kim olduğumu bilmeden, beni merakımdan binmeye
-başladığım asi bir attan kurtararak hayatımı kurtardı. Daha sonra beni, babama soğukkanlılıkla teşekkür etmeye başlarken, aklına kurtarıcım olan kardeşi geldi ve öfke, bir anda, tüm yeteneklerimi ele geçirdi. Beni yere serdi ve amcam araya girmeseydi - onunla özel olarak konuşmak isteyerek - bu istemsiz suçtan dolayı çok ağır cezalar alırdım. Yaklaşık yarım saatlik bir görüşmeden sonra geri döndüler; babamın kaşları hala
+mutsuz anlaşmazlık vardı: ve babam bu inatçılığı öyle aşırıya kaçırmıştı ki, kardeşinin adının bile onun yanında anılmasına izin vermezdi: ve, ismi dışında, böyle birinin varlığından bile neredeyse haberim yoktu. Denize olan erken yatkınlığım, babamın boşuna yok etmeye çalıştığı ve ağabeyimin kibirli
+cimri mizacı, bana neredeyse on dört yaşıma kadar sürekli öfke ve ceza getirdi; babama Salisbury yakınlarındaki bir yarışa eşlik ettiğimde; ve amcam, kim olduğumu bilmeden, beni merak ettiğim için binmeye
+başladığım asi bir attan kurtararak hayatımı kurtardı. Daha sonra beni, babama soğukkanlılıkla teşekkür etmeye başlarken, aklına kurtarıcım olan kardeşi geldi ve öfke, bir anda, tüm yeteneklerimi ele geçirdi. Beni yere serdi ve amcam araya girmeseydi - onunla özel olarak konuşmak isteyerek - bu istemsiz suçtan dolayı çok ağır bir şekilde acı çekecektim. Yaklaşık yarım saatlik bir görüşmeden sonra geri döndüler; babamın kaşları hala
 korkunç bir şekilde çatıktı; ve içeri girdiğinde, 'Eğer
 onu alırsan--onu tamamen alırsın: ve bir kez senin rehberliğin altına girdikten sonra, ona en ufak bir saygı göstermek zorunda olduğumu
-düşünmeyeceğim. Benim daha çok değer verdiğim başka çocuklarım var:
+düşünmeyeceğim. Benim daha çok ilgi ve saygımı hak eden başka çocuklarım var:
 senin hiç yok--ve eğer istersen onu evlat edinebilirsin; eğilimlerin
 tamamen aynı!' dediğini duydum.
 
@@ -333,15 +335,13 @@ ama Kaptan ona koltuğuna oturmasını söyledi.--"Benim hatalarımdan," diye ek
 
 Frederick itaat etti; ve Kaptan, Bay Talton'a dönerek devam etti.
 
-"Sanırım tanışmamızın başlangıcında, size daha küçük bir oğul olduğumu, denize gittiğimi ve ağabeyimin evliliğiyle beklediğim servetten mahrum kaldığımı söylemiştim. O evlilik döneminde on yedi yaşındaydım. Kardeşimin nişanlısı olan hanımın babası Sir Thomas Gratton, Arthur'un serveti kızına verdiği servete yetecek kadar olmadıkça, onların birleşmesine izin vermedi; ve babam, kardeşimin ricaları karşısında yenik düşerek ve belki de yılda üç bin kazanan bir mirasçıyla evlenme fikriyle
-göz kamaştırılarak, evlilik gününde mirasının üçte ikisini (Sir Thomas'ınkine eşitti) devredecek kadar ileri gitti ve kalanı da öldüğünde geri döndü.
+"Sanırım tanışmamızın başlangıcında, size daha küçük bir oğul olduğumu, denize gittiğimi ve ağabeyimin evliliğiyle beklediğim servetten mahrum kaldığımı söylemiştim. O evlilik döneminde on yedi yaşındaydım. Kardeşimin nişanlısı olan hanımın babası Sir Thomas Gratton, Arthur'un serveti kızına verdiği servete yetecek kadar olmadıkça, onların birleşmesine izin vermedi; ve kardeşimin ricaları karşısında yenik düşen ve belki de yılda üç bin kazanan bir mirasçıyla evlenme fikriyle gözleri kamaşan babam, evlilik gününde mirasının üçte ikisini (Sir Thomas'ınkine eşitti) devredecek kadar ileri gitti ve kalanı da öldüğünde geri döndü. "Arthur, karşılığında, gizlice ama ciddi bir şekilde, reşit olduğumuzda veya kayınpederinin ölümünde, bana ve diğer kardeşimiz William'a on bin pound vermeyi vaat etti. William, sonraki yıl öldü, Sir Thomas da dokuz aydan kısa bir süre sonra öldü.
 
-"Arthur, karşılığında, gizlice ama ciddi bir şekilde, bana ve diğer kardeşimiz William'a, reşit olduğumuzda veya kayınpederinin ölümünde on bin pound vereceğine söz verdi. William ertesi yıl öldü, Sir Thomas da dokuz aydan kısa bir süre sonra öldü.
-
-"Kardeşim şimdiye kadar bana karşı en büyük sevgiyi göstermişti: Ben burada Frederick'imin vaftiz babasıydım ve her şey uyum ve samimiyetin görünümünü taşıyordu; ta ki Lavington'daki bir toplantıda, talihsizliğim beni, kapris, alay ve gençliğin neşesi yüzünden, neredeyse elli yaşında, her türlü sevimsiz özellik, çirkinlik ve zenginlikle tanınan bir genç kız olan Bayan Deborah Tangress'e özel ilgi göstermeye yöneltti! O akşamki çılgınlığın bana bu kadar çok yıl süren bir sefalet
+"Kardeşim şimdiye kadar bana karşı en büyük sevgiyi göstermişti: Burada Frederick'imin vaftiz babasıydım ve her şey uyum ve samimiyetin görünümünü taşıyordu; ta ki, Lavington'daki bir toplantıda, talihsizliğim beni, kapris, alay ve gençliğin neşesi
+ne, neredeyse elli yaşında, her türlü sevimsiz özellik, çirkinlik ve zenginlikle tanınan bir genç kız olan Bayan Deborah Tangress'e özel ilgi göstermeye yöneltti! O akşamki çılgınlığın bana bu kadar çok yıl süren bir sefalet
 yaratacağını hiç düşünmemiştim!
 
-"Ciddi olduğunu düşündüğü ilgi ve iltifatlardan memnun, ve cinsiyetinde gerekli olan nezaketten nefret ederek, babama teklifler gönderdi, kendini ve serveti benim emrime vermeyi teklif etti. Akşamki neşemin etkilerine gülüyordum ki, kardeşim odaya girdi; babam ona mektubu verdi ve gülümseyerek, Bayan Deborah'ın karakterini tamamladığını düşündü.
+"Ciddi olduğunu düşündüğü ilgi ve iltifatlardan memnun, ve cinsiyetinde gerekli olan nezaketten nefret ederek, babama teklifler gönderdi, kendini ve servetini bana teslim etmeyi teklif etti. Akşamki neşemin etkilerine gülüyordum ki, kardeşim odaya girdi; babam ona mektubu verdi ve gülümseyerek, Bayan Deborah'ın karakterini tamamladığını düşündü.
 
 "'Bu ölçüsüz kahkahanızın sebebini kolayca kavrayamıyorum, Edward,' dedi kardeşim: 'teklif avantajlı, beklemeye hakkınızın çok ötesinde; ve alay etmek yerine, bunu
 minnettarlıkla kabul etmeniz gerektiğini düşünüyorum.'
@@ -402,7 +402,7 @@ bir kez daha Ellenor'umun kollarına döndüm.
 
 "Sonraki sahneyi tarif etmek imkansız: şimdi bile onu hatırlamak beni neredeyse delirtiyor! Deborah, karakterinin öfkesine uygun şekilde hareket etti; Ellenor'ı kötüledi ve kıskançlıkla artan en çılgın tutkunun dikte edebileceği her türlü aşağılayıcı sıfatla bana hakaret etti; ve durmadı - ta ki Ellenor, uğursuz sırrın ifşasıyla yenilerek, kollarımda bayılana kadar; sonra, girdiği gibi aynı şiddetle odadan uçtu, arkadaşı da onu takip etti, intikam alacağına yemin etti, ama bunu başarmak için servetini harcadı!
 
-"Sonunda Ellenor'ım iyileşti: Davranışlarımla ilgili tek bir sitem bile dudaklarından kaçmadı, ama yüzü zihninin acısını açıkça gösteriyordu. Çılgına dönmüş Deborah tarafından abartılmış olan suçluluk duygumu hafifletmeye istekli olarak, şimdi anlattığım koşulları özetledim ve ustalaştığım tüm belagatle, ona karşı beslediğim sevgiyi, uyguladığım aldatmacanın bahanesi olarak savundum. Beni sessizce dinledi; kasılan bir hıçkırık göğsünü kabarttı; ve tekrar affetmesi için ısrar ettiğimde, bana karışık bir acı ve umutsuzluk ifadesiyle baktı. Sonunda gözyaşları onu rahatlattı ve odasına götürülmeyi talep etti; onu orada destekledim ve onu hizmetçisinin bakımına bırakarak salona geri döndüm, göğsüm o zamandan beri hiç terk etmemiş bir üzüntü ve pişmanlıkla doluydu! Son derece acı dolu düşüncelerden, Deborah'ın varlığımı talep eden ve benim de uymak için yeterince zayıf olduğum
+"Sonunda Ellenor'ım iyileşti: Davranışlarımla ilgili tek bir sitem bile dudaklarından kaçmadı, ama yüzü zihninin acısını açıkça gösteriyordu. Çılgına dönmüş Deborah tarafından abartılmış olan suçluluk düşüncemi hafifletmeye istekli olarak, şimdi anlattığım koşulları özetledim ve ustalaştığım tüm belagatle, ona karşı beslediğim sevgiyi, uyguladığım aldatmacanın bahanesi olarak savundum. Beni sessizce dinledi; kasılan bir hıçkırık göğsünü kabarttı; ve tekrar affetmesi için ısrar ettiğimde, bana karışık bir acı ve umutsuzluk ifadesiyle baktı. Sonunda gözyaşları onu rahatlattı ve odasına götürülmeyi talep etti; onu orada destekledim ve onu hizmetçisinin bakımına bırakarak salona geri döndüm, göğsüm o zamandan beri hiç terk etmemiş bir üzüntü ve pişmanlıkla doluydu! Son derece acı dolu düşüncelerden, Deborah'ın varlığımı talep eden ve benim de uymak için yeterince zayıf olduğum
 bir mesajıyla uyandım ve bir buçuk saat boyunca onun öfkesinin ve sitemlerinin şiddetine dayandım, sonra ikimiz de diğerinin tekliflerini kabul etmediğimizden, tekrar ayrıldık. Eve döndüğümde, Ellenor'ı merakla sordum.
 'Gitti, efendim!' dedi kız, gözyaşlarına boğularak. 'Gitti!' diye tekrarladım. 'Nasıl-ne zaman-nereye gitti?' 'Bunu, efendim,' diye cevapladı, 'Bilmiyorum. Siz dışarı çıktıktan kısa bir süre sonra, hanımım Susan'ı bir fayton ve dört tane daha almaya gönderdi, araba gelir gelmez içeri girdi ve size bu mektubu bıraktı. Susan birkaç paket bıraktı ve metresini takip etti; ama
 nereye gittiklerini, Tanrı bilir!'
@@ -426,7 +426,8 @@ Tanrı seni yeminlerinden kurtarırsa, Ellenor'ın elini,
 kalbini hatırla, talep edilebilir. O zamana kadar beni
 bulmaya çalışma; arama sonuçsuz kalır. Adalet fedakarlığı
 gerektirir ve yapılmalı! Yine de nasıl-elveda diyebilirim!
-Kendimi Ellenor'ın varlığına bağlı olan kişiden nasıl koparabilirim; merhametli ol, Tanrı--ya da benim gücümün ötesinde bir ceza verme! Yine de kalmama izin ver--en azından Edward'ımı göreyim ve
+Kendimi Ellenor'ın varlığına bağlı olan kişiden nasıl koparabilirim; merhametli ol, Tanrı--ya da benim gücümün ötesinde bir ceza
+verme! Yine de kalmama izin ver--en azından Edward'ımı göreyim ve
 onu konuşurken duyayım!--Ama olmamalı. Ah, Edward, ceza adil!
 Senin sırların vardı ve benim de sırlarım!
 
@@ -460,7 +461,7 @@ hemen şehrin başka bir yerine taşındım.
 
 "Ertesi gün her zamanki gibi dolaştım ve akşam, ev sahibine ait bir kitabı alırken,
 bir kağıt düştüğünde, bitkin ve bitkin bir şekilde geri döndüm; Hope'a yazılmış bir soneydi: ama, aman Tanrım, bunun Ellenor'umun yazısı olduğunu öğrendiğimde yaşadığım şaşkınlığı düşünün! İlk başta duyularımın kanıtını itibarsızlaştırdım, ta ki tekrarlanan incelemeler yanılmadığıma beni ikna edene kadar. Evin hanımına uçtum ve tutarsız sorularıma
-cevap olarak, o daireleri ben almadan birkaç gün önce terk ettiğine dair istihbarat aldım; orada bir erkek çocuk doğurmuş ve sonra memleketi olan Caermarthen'e yerleşmek üzere gitmişti; ancak ev sahibi hangi tarafa gittiğini söyleyemedi. Caermarthen'e gitmeye karar verdim ve
+cevap olarak, o daireleri ben almadan birkaç gün önce terk ettiğine dair istihbarat aldım; orada bir erkek çocuk doğurmuş ve sonra memleketi olan Caermarthen'e yerleşmek üzere gitmişti; ancak ev sahibi bunun hangi bölgeye olduğunu söyleyemedi. Caermarthen'e gitmeye karar verdim ve
 buna göre ertesi sabah yolculuğuma başladım; ama tüm aramalarım
 gerçekten sonuçsuzdu!
 
@@ -477,7 +478,7 @@ kardeşimin acımasız ihmalini telafi etmeye istekliydi.
 Bir dereceye kadar huzurumu geri kazandığımda yazdım; ancak paketi emanet ettiğim kişi, yaklaşık iki yıl sonra, ya öldüğünü ya da adadan ayrıldığını söyleyerek geri gönderdi; ve o sırada ve sonrasında senden hiç haber almadığım için, zekasının ilk kısmına inanmaya ikna oldum.
 
 "Dün seni gördüğümde yaşadığım zevk, o an için diğer tüm düşüncelerimi kovdu; ama seni terk eder etmez,
-anım, en keskin güçlerle, her önceki sahneyi canlandırdı ve
+anım, en keskin güçleriyle, her önceki sahneyi canlandırdı ve
 sadece yaralarıma duyduğum pişmanlığa değil, aynı zamanda
 sevgili Ellenor'umu geri dönülmez bir şekilde kaybetmenin verdiği üzüntüye de katkıda bulundu."
 
@@ -486,14 +487,14 @@ BÖLÜM III.
 Bay Talton, Kaptan konuşmayı bıraktıktan birkaç dakika sonra bile düşünceli bir şekilde kaldı; sonra ona dönerek--"Birkaç yıl daha genç olsaydın, Howard,
 seni davranışın için sert bir şekilde kınardım; ama şu anki haliyle ve
 zaten katlandığın cezayı göz önünde bulundurarak,
-dersimi askıya alacağım! Zavallı Ellenor! Garip, Howard, bu kadar yıl boyunca hiçbir istihbarat elde etmemiş olman ya da onun kaderini yargılayabileceğin
-en ufak bir durumla karşılaşmamış olman."
+dersimi askıya alacağım! Zavallı Ellenor! Garip, Howard, bu kadar yıl boyunca hiçbir istihbarat elde etmemiş olman ya da
+onun kaderini yargılayabileceğin en ufak bir durumla karşılaşmamış olman."
 
 "Garip, Talton. Birkaç hafta önce yeğenim gemiye bir genç getirdi, görünüşü göğsümde tarif edemeyeceğim duygular uyandırdı. O, benim Ellenor'uma tıpatıp benziyordu; yaşı da
-eğer hayattaysa oğlumunkiyle uyuşuyordu; ama her umut kısa sürede yok oldu,
+eğer hayattaysa oğlumunkiyle uyuşuyordu; ama tüm umutlar kısa sürede yok oldu,
 cevapları onun çocuğu olmadığını açıkça kanıtladı."
 
-Burada Kaptan'ın göğsünden pişmanlık dolu bir iç çekiş yükseldi;
+Burada Kaptan'ın göğsünden pişmanlık dolu bir iç çekiş yükseldi; ayrıca
 varoluşunun nimetleri olarak gördüğü şeylerden
 böylece mahrum bırakıldığı için kaderinin ciddiyetine karşı sabırsız bir haykırıştan kendini alamadı.
 
@@ -515,7 +516,8 @@ Kaptan onayını verdi--.
 "Bayan Holly, Howard, tek kızdı ve idolü olduğu bir babanın yaşlı bir mizahçısı tarafından büyütüldü, tüm duyularını onun rehberliğine bıraktı. Birçok evlilik teklifi yapıldı, ancak hiçbiri Bay Holly tarafından kabul edilmeye değer bulunmadı, ta ki eski bir okul arkadaşı ve kendisi kadar büyük bir tuhaflık olan Sir Horace Corbet ile tesadüfen karşılaşana kadar; ve çocukları arasında bir evlilik önerildi - gençler en ufak bir olayla veya bu konudaki duygularıyla tanışmadan önce, üzerinde anlaşıldı, yazılar çizildi ve düğün günü belirlendi! Bayan Holly, babasının Bay Corbet'i seçtiği koca olarak görmesi emrini büyük bir üzüntüyle aldı; ve sonunda ona sevgisinin geri dönülmez bir şekilde başkasına sabitlendiğini bildirdi. Ancak yalvarışları ve gözyaşları boşunaydı: yaşlı beyefendi buyurgandı - ve Bayan Holly kaçtı!
 
 "Bu olayda babaların öfkesini tarif etmeye çalışmayacağım; altı ay geçti ve onun inziva yerini keşfedemediler; yıllardır aileyle her türlü ilişkiden uzak duran teyzesi Holly'nin
-koltuklarına geldi ve büyük bir resmiyet içinde, kızının kendisine sığındığı kardeşini tanıştırdı ve o zamana kadar kızgınlığının yatıştığını umarak, onu bir uzlaşma girişiminde bulunmaya
+koltuklarına geldi ve büyük bir resmiyet içinde, kızının kendisine sığındığı kardeşini tanıştırdı ve o zamana kadar kızgınlığının yatıştığını
+umarak, onu bir uzlaşma girişiminde bulunmaya
 çalıştı. Yaşlı beyefendi
 çok mutlu görünüyordu; onun için bir haberci gönderildi ve geldiğinde, her türlü neşe ve şefkat gösterisiyle
 karşılandı! Ancak, sakinlik aldatıcıydı; çünkü ertesi sabah onu Sir Horace ve oğlunun beklediği şapele götürdü ve orada ona elini
@@ -535,7 +537,7 @@ ve bana hiç hitap etmeden, onunla konuşarak ve
 çocukça sorularını yanıtlayarak eğlendi. Leydi Corbet'e, sanırım, onun nezaketsizliğine olan şaşkınlığımı yeterince ifade eden bir bakışla baktım;
 gözündeki sessiz yaş titredi ve sanki alışkın olduğu
 davranışlarmış gibi bir iç çekişle pencereye doğru yürüdü.
-O sırada Sir Henry'yi gözlemleme fırsatım oldu. Kişiliği oldukça küçüktü, gözleri siyah ve deliciydi ve yüzü endişe ve hoşnutsuzluk ifade ediyordu.
+O zaman Sir Henry'yi gözlemleme fırsatım oldu. Kişiliği oldukça küçüktü, gözleri siyah ve deliciydi ve yüzü endişe ve hoşnutsuzluk ifade ediyordu.
 
 "Bir süre çocukla oynamaya devam etti; sonra, 'Leydi hazretlerinin St. Ledger ailesine herhangi bir emri var mı?' diye başladı. 'Hiçbiri, efendim,' diye cevapladı Leydi Corbet, kayıtsızca konuşmaya çalışarak. 'Eğer varsa,
 bu gece yazmalısın; çünkü yarın sabah erken Londra'ya gidiyorum;' sonra çocuğu elinden tutarak, bana eğilmeden
@@ -580,14 +582,14 @@ buluştuğumda.
 
 "Sir Henry, onun için gerçekten öyleydi, Sir John'un nüfuz eden
 gözlerinden utanarak
-çekildi, şimdi suçun niteliğini sorgulamaya başladı. "Polis memurları, önceki gece, yardım için gecelik sinyallerinin eşlik ettiği bir cinayet çığlığıyla alarma geçtiklerini; alarmın verildiği yere aceleyle gittiklerinde, kardeşliklerinden birini yerde bulduklarını bildirdiler; Sir Henry daha sonra onun boğazını tutmuştu - elinde bir cop olan ve bekçiye saldırıldığı anlaşılan bir başkası da aynı şekilde bir kolunu tutmuştu. Diğer birkaç kişi, bekçi yaklaşırken kaçtı; kalanlar ise inatçı bir direnişten sonra, yakalanmıştı.
+çekildi, şimdi suçun niteliğini sorgulamaya başladı. "Polis memurları, önceki gece, yardım için gecelik sinyallerinin eşlik ettiği bir cinayet çığlığıyla alarma geçtiklerini; alarmın verildiği yere aceleyle gittiklerinde, kardeşliklerinden birini yerde bulduklarını bildirdiler; Sir Henry daha sonra onun boğazını tutmuştu - elinde bir cop olan ve bekçiye saldırıldığı anlaşılan bir başkası da aynı şekilde bir kolunu tutmuştu. Diğer birkaç kişi, nöbet yaklaşırken kaçtı; kalanlar ise inatçı bir direnişten sonra, yakalanmıştı.
 
-"Sir Henry suçlamayı reddetti. Saldırıdan çok uzak olduğunu, kendisinin ve arkadaşlarının, cinayet çığlığı üzerine, bekçiyi kurtarmaya gittiklerini açıkladı; arkadaşı St. Ledger'ın saldırganlardan birinden copu çekip aldığını ve diğer nöbetçinin geldiği anda, adamı yerden kaldırmasına yardım ettiğini, bu amaçla Sir Henry'nin elini boynunun arkasına geçirdiğini; en ufak bir soruşturma yapmadan, sadece savunma yapan arkadaşlarına saldırdıklarını söyledi.
+"Sir Henry suçlamayı reddetti. Saldırıdan çok uzak olduğunu, kendisinin ve arkadaşlarının, cinayet çığlığı üzerine, bekçiyi kurtarmaya gittiklerini açıkladı; arkadaşı St. Ledger'ın saldırganlardan birinden copu çekip aldığını ve diğer nöbetçinin geldiği anda adamı yerden kaldırmasına yardım ettiğini, bu amaçla Sir Henry'nin elini boynunun arkasına geçirdiğini; en ufak bir soruşturma yapmadan arkadaşlarına saldırdıklarını, onların da sadece savunmada hareket ettiğini söyledi.
 
 "Bu ayrıntılarla, kendisini veya arkadaşlarını bekçilerin cahilce ve
 haksız suçlamalarına maruz bırakmadan Sir John'u özel olarak tanıştırmak istediğini söyledi.
 
-"Sir John, genç davacının canlılığını kontrol etti; ancak saldırıya uğrayan adam gelmediği ve polis memurları savunmanın
+"Sir John genç davacının canlılığını kontrol etti; ancak saldırıya uğrayan adam gelmediği ve polis memurları savunmanın
 yalan olduğunu kanıtlayamadığı için, onları böyle gece maceralarına
 açtıkları için azarladıktan sonra, Sir Henry hariç hepsini serbest bıraktı; Sir Henry'nin başka bir odaya geçmesini istedi.
 
@@ -596,7 +598,7 @@ açtıkları için azarladıktan sonra, Sir Henry hariç hepsini serbest bırakt
 "Sir John mazeretini kabul etti ve Londra'da olmasının sebebini sordu.
 Sir Henry'nin yüzü en koyu renkle kızardı, babasının eski bir arkadaşını ziyaret ettiğini söyledi.
 
-"'Babanızı,' dedi Sir John, 'tanıma zevkine erişemedim. Annenize içtenlikle saygı duyuyorum ve kendimi onun arkadaşı olarak onurlandırdığım için, günün geri kalanını benimle geçirmeniz konusunda ısrarcıyım.'
+"'Babanızı,' dedi Sir John, 'tanıma zevkine erişemedim. Annenize içtenlikle saygı duyuyorum ve onun arkadaşı unvanıyla kendimi onurlandırdığım için, günün geri kalanını benimle geçirmeniz konusunda ısrarcıyım.'
 
 "Sir Henry hemen kabul etti ve Sir John sabahki işlerini bitirene kadar benimle devam etti.
 
@@ -608,7 +610,7 @@ ancak, annesinin ona karşı karakterinin adil olduğu fikrine kolayca kendimi a
 Leydi Corbet'in adını anmamıştı; ve şimdi, ona dair daha önce hiçbir
 ihtimal olmadan, onu bulunduğu odaya götürdü.
 
-"Annesini fark ettiğimde, Sir Henry'ninkinden daha güçlü bir şekilde ifade edilen bir şaşkınlık görmedim; bu neredeyse dehşete yaklaştı. Leydi Corbet'e gelince, onu kollarına almak için acele ederken dudaklarından karışık bir şaşkınlık ve sevinç çığlığı çıktı; ancak bir yana sıçrayarak, onun kucaklamasından kaçtı ve anlaşılmaz sesler mırıldanarak odadan dışarı fırlamaya çalıştı.
+"Annesini fark ettiğimde, Sir Henry'ninkinden daha güçlü bir şekilde ifade edilen bir şaşkınlık görmedim; bu neredeyse dehşete yaklaştı. Leydi Corbet'e gelince, onu kollarına almak için acele ederken dudaklarından karışık bir şaşkınlık ve sevinç çığlığı çıktı; ancak bir yana sıçrayarak, onun kucaklamasından kaçtı ve anlaşılmaz sesler çıkararak odadan dışarı fırlamaya çalıştı.
 Bunda, onu kolundan yakalayan Sir John tarafından engellendi ve şöyle dedi: 'Bu kadar çabuk değil, genç beyefendi. Annen ilk kaçışınla çok fazla mutsuzluk çekti: Onu ikinci kez terk etmene bu kadar kolay izin vermeyeceğim. Adalet seni benim ellerime teslim etti ve seni ona teslim ediyorum. Hatırlayın, anneniz ve tek koruyucunuz olarak, sizin eylemlerinizi kontrol etmek için sınırsız bir yetkiye sahip?'
 
 "Sir Henry cevap verdi, ama inleyerek ve ellerini alnında kavuşturarak, birkaç an için çatışan tutkularla mücadele ediyormuş gibi göründü;
@@ -789,17 +791,17 @@ Frederick itaat etti ve şöyle okudu:--
 Üzüntülü bir çocuk için yazıyor! Ellenor dava açıyor--Edward onun iyiliğini
 reddetmeyecek!
 
-"Açıklayamadığım sebeplerden dolayı, bu mektubun taşıyıcısı olan Sir Henry Corbet, annesinin velayetinden çekilmek zorunda kalmıştır. Babası, Ellenor'ınızı ve çocuğunu, şiddetli bir sıkıntı anında korumuştur. Aynı şekilde, bizim koruyucumuz olmuştur! Sahip olduğum nimetler için ona borçluyum - oğlunuz (Ah, Edward, onu şimdiye kadar sizden gizlediğim için beni affedebilir misiniz?) bir yeterlilik için ona borçludur! Edward'ım, ona bir sığınma hakkı vererek yükümlülüğünü yerine getirecek mi? Ondan, başıma gelenleri öğrenebilirsiniz; ancak geri çekilmeye kalkışmayın, yine de kutsal olmalı!
+"Açıklayamadığım sebeplerden dolayı, bu mektubun taşıyıcısı olan Sir Henry Corbet, annesinin velayetinden çekilmek zorunda kalmıştır. Babası, Ellenor'ınızı ve çocuğunu, şiddetli bir sıkıntı anında korumuştur. Aynı şekilde, bizim koruyucumuz olmuştur! Sahip olduğum nimetler için ona borçluyum - oğlunuz (Ah Edward, onu şimdiye kadar sizden gizlediğim için beni affedebilir misiniz?) bir yeterlilik için ona borçludur! Edward'ım, ona bir sığınma hakkı vererek yükümlülüğünü yerine getirecek mi? Ondan, başıma gelenleri öğrenebilirsiniz; ancak geri çekilmeye kalkışmayın, yine de kutsal olmalı!
 
 "Tarihini, onun özgürce ilettiğinden daha fazlasını öğrenmeye çalışmayın:
 ve onu sevin, Edward'ım, çünkü o sizin en zengin saygınıza layıktır. Bundan sonra onun dahil olduğu gizemleri çözmelisin - ondan oğlunu almalısın ve - Ellenor."
 
-"Ama o senin iyiliğini reddetti, Ellenor!" dedi Kaptan. "Yazıklar olsun--yazıklar olsun ona! Ama çok geç değil: Sir Henry'yi hemen arayın: Hayatım, Ellenor'uma gösterilen dostluğun karşılığı olarak pek azdı!"
+"Ama o senin iyiliğini reddetti, Ellenor!" dedi Kaptan. "Yazıklar olsun--yazıklar olsun ona! Yine de çok geç değil: Sir Henry'yi hemen arayın: Hayatım, Ellenor'uma gösterilen dostluğun karşılığı olarak pek azdı!"
 
 Ancak Sir Henry gitmişti!--Mektubu bıraktığı anda, kıyıya doğru yola çıkan bir tekneye atladı; en sıkı
-araştırma ve soruşturmayla bile gittiği yolu takip edemediler.
+arama ve soruşturmayla bile gittiği yolu takip edemediler.
 Kaptan, üç gün boyunca, Sir Henry'nin tarifine uyan bir gencin cesedinin Lowestoff'tan yaklaşık iki mil uzakta kıyıya vurduğuna dair bir istihbarat aldığında, gerilimin işkencesini yaşadı.
-Bu haberle alarma geçen Kaptan, yeğeni ve Bay Talton eşliğinde, cesedin iletildiği kulübeye gitti; ve orada, giysileri getiren insanlar ve Kaptan'ın talihsiz Sir Henry'ye kendisinin sunduğu bir saatle, korkuları tamamen doğrulandı:
+Bu açıklamadan endişelenen Kaptan, yeğeni ve Bay Talton eşliğinde, cesedin iletildiği kulübeye gitti; ve orada, giysileri getiren insanlar ve Kaptan'ın talihsiz Sir Henry'ye kendisinin sunduğu bir saatle, korkuları tamamen doğrulandı:
 Sabah gömüldüğünü söylediler.
 
 Kaptan, Ellenor'unu duyma ve görme umudunu terk ederken yanağına bir damla yaş düştü; en sevdiği St. Ledger'ın talihsiz kaderi için ona eşlik eden biriyle birlikte: Bay Talton'ın ciddiyeti de bir iç çekişin haraçını reddetmedi: Sir Henry'nin hataları onu çevreleyen
@@ -817,9 +819,9 @@ Bay Talton, Kaptan'ın üzüntüsünü hafifletme çabalarının uygulanamaz old
 Kaptan, Sir Henry'nin mezarını ziyaret etmek istediği için, ayrılışından dolayı rahatladı, ancak kalbinin zayıflığını arkadaşına bile belli etmek istemiyordu. Ertesi sabah, bu nedenle kıyıya çıktı ve kimse olmadan kilise bahçesine doğru yoluna devam etti; orada, talihsiz gencin kalıntılarının bırakıldığı yeri, hoş kokulu çimenlerden yapılmış sade bir bayrak işaretliyordu.
 
 "Gerçekten de dinlenme yatağın alçakgönüllüdür, zavallı St. Ledger'ım," diye haykırdı:
-"Göğsünün gerçek sahipleri olduğundan emin olduğum erdemler için fazlasıyla alçakgönüllüdür! - Ellenor'ım sende, belki de bir gün Edward'ın kollarına geri döneceğini umduğu dostunu kaybetti. Seninle birlikte onun geri çekilişinin bilgisi dinlendi; ve seninle birlikte - yok olabilirdi!"
+"Göğsünün gerçek sahipleri olduğundan emin olduğum erdemler için fazlasıyla alçakgönüllüdür! - Senin sayende Ellenor'ım, belki de bir gün Edward'ın kollarına geri döneceğini umduğu dostunu kaybetti. Seninle birlikte onun geri çekilişinin bilgisi dinlendi; ve seninle birlikte - yok olabilirdi!"
 
-Bu fikir çok fazlaydı: Mezarın yanında dizlerinin üzerine çöktü - kalbi Cennet'e açıktı. "Ah Tanrım!" diye haykırdı, "senin kararların değişmezdir, ve en gururlu insan bilgisi bile senin yollarının gizemini keşfedemez! Sana karşı çok büyük bir suç işledim ve verdiğin ceza adildir: yine de merhametin gücünle harmanlanmasına izin ver, ve tozdan kaldırmaya tenezzül ettiğin başı ezme! Suç benimdi; senin intikamın bana düşsün: ama Ellenor'umu kalbimi kabartan ızdıraptan koru; ve eğer senin adaletin daha fazlasını yasaklıyorsa, en azından (tarih ne kadar geç olursa olsun) aldattığım kadının bir dostu, aşkımızın yavrularının bir ebeveyni olduğumu kanıtlayayım!"
+Bu fikir çok fazlaydı: Mezarın yanında dizlerinin üzerine çöktü - kalbi Cennet'e açıktı. "Ah Tanrım!" diye haykırdı, "senin kararların değişmezdir, ve en gururlu insan bilgisi bile senin yollarının gizemini keşfedemez! Sana karşı çok büyük bir suç işledim ve verdiğin ceza adildir: yine de merhametin gücünle harmanlanmasına izin ver ve tozdan kaldırmaya tenezzül ettiğin başı ezme! Suç benimdi; senin intikamın bana düşsün: ama Ellenor'umu kalbimi kabartan ızdıraptan koru; ve eğer senin adaletin daha fazlasını yasaklıyorsa, en azından (tarih ne kadar geç olursa olsun) aldattığım kadının bir dostu, aşkımızın yavrularının bir ebeveyni olduğumu kanıtlayayım!"
 
 Başını dizinin üzerine eğdi ve birkaç dakika boyunca zihinsel yakarışta bulundu; ta ki kendi göğsünden fışkıran şeye yanıt veren bir iç çekiş onu uyandırana kadar ve başını kaldırdığında yeğenini mezarın birkaç adım ötesinde gördü.
 
@@ -828,7 +830,7 @@ Başını dizinin üzerine eğdi ve birkaç dakika boyunca zihinsel yakarışta 
 "Benim niyetim buydu," diye cevapladı Yüzbaşı, "ancak şu anki anılar beni daha büyük bir zayıflığa sürükledi."
 
 "Pişman olma," dedi Frederick, şefkatle elini tutarak. "Sir
-Henry döktüğünüz gözyaşını hak etti!--Ruhuna huzur!--Hiç şüphemiz olmasın: Gittiği Tanrı, sözlerimizin veya eylemlerimizin zaaflarına göre değil, kalbimizin doğruluğuna göre bizi mahkum edecek veya beraat ettirecektir."
+Henry döktüğünüz gözyaşını hak etti!--Ruhuna huzur!--Hiç şüphemiz olmasın: Gittiği Tanrı, sözlerimizin veya eylemlerimizin zayıflıklarına göre değil, kalbimizin doğruluğuna göre bizi mahkum edecek veya beraat ettirecektir."
 
 "Bu düşünce, göğsümdeki huzuru geri getirmeye felsefenin tüm sofizmlerinden daha fazla katkıda bulunabilir," dedi Yüzbaşı, "!
 
@@ -938,7 +940,7 @@ bana bir emeklilik maaşı sağlamakla kalmadı, aynı zamanda beni şahsında b
 
 "Kısa bir süre sonra, Albay'ın fakir bir din adamının kızıyla evlenerek
 kendisini mahvettiği İngiltere'ye döndük. Babası, Lord Booyers, yaptığı şeyden haberdar olur olmaz, ona görme yetisini yasakladı ve bir kabalıktan diğerine geçti, ta ki sonunda onu mirasından mahrum edene kadar! Albay, ilk başta, ortak arkadaşları aracılığıyla bir uzlaşma aradı; ancak bunun bir etkisi olmadığını
-görerek, beklediği talihle ilgili tüm düşüncelerinden vazgeçti. Hanımı, attığı adımdan pişman olmasına izin vermeyecek kadar sevecendi ve onun şefkatinde, babasının kaybı için yeterli bir telafi buldu.
+görerek, beklediği talihle ilgili tüm düşüncelerinden vazgeçti. Hanımı, attığı adımdan pişman olmasına izin vermeyecek kadar sevecendi ve onun sevgisinde, babasının kaybı için yeterli bir telafi buldu.
 
 "Beş yıl boyunca onu üç güzel çocuğun babası yaptı ve bu süre boyunca mutlulukları en ufak bir kesintiye uğramadı: ancak alayımız daha sonra tekrar yurtdışına gönderildi; ve ailesini Sir James ve Lady Elvyn'in koruması altında bu köyde bırakan Albay, Galler'e veda etti ve Carthagena surlarının altında bir askerin mezarını buldu!
 
@@ -957,15 +959,18 @@ kopardılar ve beni aceleyle bataryaya geri götürdüler, orada
 rahatsız edilmeden kederime teslim olmama izin verildi.
 
 "Birkaç gün sonra, General beni çağırdı; merhum efendime karşı duyduğum dürüst sevgiyi övdü ve beni kendi hizmetine kabul etmek istedi; ancak, teklifime karşı olduğumu
-görerek, Albay'ın ölümünün haberini Leydime iletmemi kabul etti. Efendime ait olan mülk bu nedenle bana emanet edildi ve bir kez daha Galler'e döndüm; karısının kamu belgeleri aracılığıyla ölümünün haberini aldığını
-öğrendiğimde. Kaybını karakterini belirleyen o uysal teslimiyetle karşıladı ve o sırada emekli maaşından başka bir destekten yoksun olduğu için,
-çocukları uğruna, katı büyükbabalarının önünde kendini alçaltmaya ve onun merhametini ve korumasını dilemeye karar verdi. Ancak kalbi, yetimin veya dulun gözyaşlarına boyun eğmeyecek kadar inatçıydı; ve kendi çocuğuna karşı reddettiği o affetmeyi, asla onun.
+görerek, Albay'ın ölümünün haberini Leydime iletmemi kabul etti. Efendime ait olan mülk bu nedenle bana emanet edildi ve bir kez daha Galler'e döndüm; karısına kamu belgeleri aracılığıyla ölümünün bir
+haberinin ulaştığını gördüğümde.
+Kaybını karakterini belirleyen o uysal teslimiyetle karşıladı ve o sırada emekli maaşından başka bir destekten yoksun olduğu için,
+çocukları uğruna, onların katı büyükbabasının önünde kendini alçaltmaya ve onun merhametini ve korumasını dilemeye karar verdi. Ancak kalbi, yetimin veya dulun gözyaşlarına boyun eğmeyecek kadar inatçıydı; ve kendi çocuğuna karşı reddettiği o affetmeyi, asla onun.
 
 "Daha sonra, en büyüğünün akrabalarından miras aldığı çok büyük bir serveti olan merhum efendimin kardeşleri olan oğullarına başvurdu: ancak, onlar da yaşlı beyefendi gibi, onun yardım veya koruma talebine sağırdı; kan gururları, aslında, belirsiz bir taşra din adamının zavallı torunlarını kabul etmeye tenezzül etmelerine izin vermedi. "Leydim, başarısız başvurusunu öğrendiğinde Sir James'e döndü ve şöyle dedi: 'Bu, Lord Hazretleri ve oğullarının iyi bilinen karakterinden beklediğimden daha fazlası değil, Bayan Booyers: ama
-umutlarınızdan çok isteklerinizin hayal kırıklığına uğraması sizi üzmesin. Leydi Elvyn'de samimi ve şefkatli bir dostunuz var:
+umutlarınızdan çok isteklerinizin hayal kırıklığına uğraması sizi
+üzmesin. Leydi Elvyn'de samimi ve şefkatli bir dostunuz var:
 kalpleriniz uyumlu: o zaman onunla kalın ve onun ilgisi ve şefkati dulluğunuzun acılarını dindirsin: çocuklarınıza gelince - kaybettikleri babalarının yerini ben dolduracağım.'--Ve Sir James gerçekten de sözünü tuttu. Leydim, yaklaşık iki yıl sonra gerçekleşen ölümüne kadar Salon'da kaldı; o ve küçük kızı çiçek hastalığından öldüler.
 
-"O zamana kadar ailede hizmetçi olarak tutulmuştum: ama cenaze töreninden birkaç gün sonra Sir James beni çalışma odasına çağırdı--'Değerinizi biliyorum, Jarvis,' dedi, 've talihsiz arkadaşım ve karısına gösterdiğin sadakat ve bağlılığa saygı göster; ve, inanıyorum ki hala onların çocuklarının yanında olmak istiyorsun, şimdi sana uşaklık pozisyonunu teklif ediyorum; burada, önceki hizmetinde merhum efendine ve dul eşine yaptığın kadar, benim memnuniyetime göre kendini aklayacağından şüphem yok.'
+"O zamana kadar ailede hizmetçi olarak tutulmuştum: ama cenaze töreninden birkaç gün sonra Sir James beni çalışma odasına çağırdı--'Değerinizi
+biliyorum, Jarvis,' dedi, 've talihsiz arkadaşım ve karısına gösterdiğin sadakat ve bağlılığa saygı göster; ve, inanıyorum ki hala onların çocuklarının yanında olmak istiyorsun, şimdi sana uşaklık pozisyonunu teklif ediyorum; burada, önceki hizmetinde merhum efendine ve dul eşine yaptığın kadar, benim memnuniyetime göre kendini aklayacağından şüphem yok.'
 
 "Teklifi sevinçle kabul ettim ve uşak olarak hizmetkarlığımın geri kalanını devrettim.
 
@@ -979,15 +984,13 @@ Ancak Sir James'in sevgisi, onların kaybın farkına varmalarına pek izin verm
 çocuklarıyla birlikte olmalarına asla engel olmayacağını ilan etti. En büyüğü için orduda bir görev aldı; en küçüğü uzun zamandır denizdeydi; ve efendimin ilgisi büyük olduğundan,
 önlerinde terfi için en güzel olasılık vardı. O zamanlar aktif bir savaş onları yurtdışına çağırdı; ve Sir James'e ve genç hanımlara veda ettikleri sabahı iyi hatırlıyorum. Efendim, onları götürecek olan arabaya binmeye hazırlanırken her birinin elini tuttu ve onları göğsüne bastırarak şöyle dedi: 'Elveda, sevgili çocuklarım; ve
 unutmayın, hayatınızdaki uğraşlarınıza iyi ya da kötü şans eşlik etsin,
-burada,
-kalpleri gerçek değerinizin gururla bilincinde olan ve sizi yalnızca bunun için bile takdir edecek dostlarla
-her zaman karşılaşacaksınız. Ülkeniz şimdi sizin hizmetlerinizi talep ediyor: o zaman servet değilse bile şeref kazanmayı arayın; ve
-döndüğünüzde, bu kadar hararetle istediğiniz birleşmeye hazır onayımı hiç şüphe etmeyin.'
+burada, gerçek değerinizin gururla bilincinde olan, sizi yalnızca bunun için bile takdir edecek
+dostlarla her zaman karşılaşacaksınız. Ülkeniz şimdi sizin hizmetlerinizi talep ediyor: o zaman servet değilse bile şeref kazanmayı arayın; ve
+döndüğünüzde, bu kadar hararetle istediğiniz birliğe hazır onayımı hiç şüphe etmeyin.'
 
 "Bundan iki yıl sonra, genç beyefendilerden herhangi birini tekrar göremedik. O sırada Bay Francis Barbados'tan döndü ve
-Kaptan Booyers, Sir Horace'ın bir oğluyla birlikte İrlanda'dan geldi.
-Onların yokluğunda bitkin düşen eski efendim,
-onların dönüşüyle ​​canlandı ve altı hafta boyunca sadece ziyafetler ve eğlenceler yaşadık.
+Kaptan Booyers, Sir Horace Corbet'in oğluyla birlikte İrlanda'dan geldi. Onların yokluğunda bitkin düşen eski efendim,
+döndüklerinde canlandı ve altı hafta boyunca sadece ziyafetler ve eğlenceler yaşadık.
 O sıralarda Bay Corbet, Bayan Eliza'ya duyduğu tutkuyu açıkladı; ve Sir James, birkaç gün sonra aynı şekilde gelen Sir Horace'a hemen bir mektup yazdı. Ah! O zaman her şey gerçekten bir mutluluk sahnesiydi!--çünkü Sir Horace hemen çiftleşmeye onay verdi ve üç evlilik için hazırlıklar başladı. Ama, ne yazık ki! Efendim, bu bendeki hiçbir şey
 kesin değil; çünkü, neşemizin ortasında, iyi yaşlı efendim
 felç nöbetine tutuldu ve birkaç saat sonra öldü!
@@ -995,7 +998,7 @@ felç nöbetine tutuldu ve birkaç saat sonra öldü!
 "Sir Horace cenaze töreninin bakımını üstlendi ve Sir James'in işlerini halletti; ancak evraklarını incelediğimizde hiçbir vasiyet bulunamadı! Bu nedenle efendimin tüm mal varlığı, tapuyla birlikte, uzak bir akrabaya gitti; cenaze töreninden sonraki gün gelen ve en ufak bir duygu veya tören olmadan genç hanımlarıma kendilerine başka bir yer bulmalarını söyleyen gururlu, aşağılık bir adam; ve en büyük dostluğu ve sevgiyi gösteren Sir Horace, anında değişti ve oğluna Bayan Eliza'ya olan
 başvurularını
 kesmesi gerektiğini kesin bir dille söyledi. Bay Corbet bunu reddetti ve ne olursa olsun onunla evlenmeye karar verdiğini açıkladı: ancak Sir Horace onu Caermarthen'daki
-koltuğuna aceleyle götürdü; hepsi bu değildi, çünkü yaklaşık bir hafta sonra Bayan Eliza, Bay Corbet'ten, tahmin ettikleri gibi, kendisine belirlenen bir yerde buluşmasını rica eden bir mektup aldı; ve genç hanımım, tamamen
+evine götürdü; hepsi bu değildi, çünkü yaklaşık bir hafta sonra Bayan Eliza, Bay Corbet'ten, tahmin ettikleri gibi, kendisine belirlenen bir yerde buluşmasını rica eden bir mektup aldı; ve genç hanımım, tamamen
 ihanetten şüphelenmeyen, hizmetçisiz gitti (çünkü aslında bir kadın hariç tüm hizmetçiler
 işten çıkarılmıştı)--ve o zamandan beri, Efendim,
 hiçbir zaman duyulmadı!"
@@ -1004,12 +1007,13 @@ hiçbir zaman duyulmadı!"
 
 "Hayır, Sayın Yargıçlar," diye tekrarladı ev sahibi, derin bir iç çekişle--"hiçbir zaman duyulmadı! Genç efendim ve kardeşi, başına ne geldiğini
 öğrenmek için her yolu denediler; ancak, onu delen kişinin Sir Horace olduğundan en ufak bir şüpheleri olmasa da, hiçbir kanıt
-getiremedikleri için, hiçbir tazminat elde edilemedi.
+getiremedikleri için, hiçbir
+tazminat elde edilemedi.
 
 "Genç hanımlarım, şimdi servetten mahrum kaldıklarından, Kaptan ve kardeşi bir ailenin masraflarına daha uygun bir
 yetenek edinene kadar evlilik
 düşüncelerinden vazgeçilmesinde ısrar ettiler; ve, kararlarını değiştirme çabalarının
-etkisiz olduğunu görünce, genç efendilerim sonunda isteksizce bir onay verdiler;
+etkisiz olduğunu görünce, genç efendilerim sonunda isteksiz bir onay verdiler;
 Kaptan İrlanda'daki alayına döndü ve Bay Francis dünyanın
 başka bir tarafına yelken açtı.
 
@@ -1018,12 +1022,13 @@ Binbaşı rütbesine terfi etti; Bayan Mary onun
 taleplerine boyun eğdiğinde ve evlendiler. Ama mutluluğu kısa sürdü: bir kız çocuğu doğururken bir yıldan kısa bir süre sonra öldü!
 
 "O zamandan sonra Binbaşı sefil bir hayat yaşadı, ta ki alayı yurtdışına gönderilene kadar, babası gibi, hayatını
-savaşta kaybetti; küçük yetim Ellen'ı kardeşinin ve Bayan Hannah'nın korumasına bıraktı.
+savaşta kaybetti; küçük yetim Ellen'ı kardeşi ve Bayan Hannah'nın korumasına bıraktı.
 
-"Teğmen, daha yüksek bir rütbeye ulaşma veya küçük bir servet biriktirme umuduyla tekrar denize açıldı; bu olmadan, sevdiği kadını daha büyük zorluklara sokmak için evlenmesini
-sana yasaklayan bir sebep vardı: ve evlilik, talihin daha olumlu olacağı umuduyla hala ve hala ertelendi; hizmet verdiği gemi hizmet dışı kalana kadar; ve,
-birçok kez yaralandıktan ve bir kolunu kaybettikten sonra, şimdi yarı maaştan başka bir destek veya ödül olmadan geri döndü! Zavallı Bayan Hannah uzun zamandır düşüşteydi; biliyorum, efendim,
-kalbi kırılmıştı: sadece onu görmek ve son bir veda etmek için yaşadı - ve hepsi bu!"
+"Teğmen daha yüksek bir rütbeye ulaşma veya küçük bir servet biriktirme umuduyla tekrar denize açıldı; bu olmadan, sevdiği kadını daha büyük zorluklara sokmak için evlenmesini
+sana yasaklayan bir sebep vardı: ve evlilik hala ve hala ertelendi, talihin daha olumlu olacağı umuduyla; hizmet verdiği gemi hizmet dışı kalana kadar; ve,
+birçok kez yaralandıktan ve bir kolunu kaybettikten sonra, şimdi geri döndü, yarı maaştan başka hiçbir destek veya ödül olmadan! Zavallı Bayan Hannah uzun zamandır düşüşteydi; biliyorum, efendim,
+kalbi kırılmıştı: sadece onu görmek ve son bir veda etmek için yaşadı - ve
+hepsi bu kadardı!"
 
 BÖLÜM VI.
 
@@ -1061,8 +1066,7 @@ benim veya amcamın elinde olup olmadığını bilmek istedim.
 aldığı yaraları onaracağına söz verdi; ama olmadı:
 ölüm onu ​​koruyucusundan mahrum bıraktı; ve onun için, onu bekleyen sefaletten bağımsız olarak, yas tutuyor. '
 
-"Nezaket daha fazla ısrar etmemi engelledi ve müdahale etmek istemediğim için gönülsüzce ayrıldım.--Ama, kesinlikle sevgili amcam, bir şeyler yapılabilir; onlarınki sıradan bir sıkıntı değil: bir arkadaşa ihtiyaçları var ve evrenin
-zenginliğine sahip olsaydım--"
+"Nezaket daha fazla ısrar etmemi engelledi ve müdahale etmek istemediğim için gönülsüzce ayrıldım.--Ama, kesinlikle sevgili amcam, bir şeyler yapılabilir; onlarınki sıradan bir sıkıntı değil: bir arkadaşa ihtiyaçları var ve evrenin zenginliğine sahip olsaydım--"
 
 Frederick, amcasının hizmetçisi tarafından bölündü, odaya
 dayanıksız bir zevkle koşarak, "O bulundu--bulundu, Sayın Yargıç! Leydim şimdi köyde!" diye haykırdı.
@@ -1186,9 +1190,9 @@ Fransızların genelinden çok farklı olan tavırlarının yumuşaklığı,
 içine çektiği tutkuyu artırıyordu.
 
 Valinin yeğenine kayıtsızca baktığına ikna olmasına rağmen,
-o beyefendinin ona karşı olan davranışlarından daha da fazla hoşnutsuz oldu; bu davranışın onu Markiz'e niyet ettiğinden daha erken bir zamanda bir açıklama yapmaya zorlayacağını fark etti; çünkü Louise'in kendisiyle ilgili duygularının daha önceden onaylanmasını ve henüz bilmediği ailesi ve bağlantıları hakkında ondan bir şeyler öğrenmek istiyordu. Ancak, fikir olarak başka birinin iddialarına boyun eğemezdi ve buna göre, birkaç gün sonra, Yüzbaşı'ya Markiz'e eşlik etme fırsatını değerlendirdi ve tüm enerjisiyle, yapmacıksız bir tutkuyla, Louise'e olan hayranlığını dile getirdi ve konuşmalarına izin vermesini rica etti. Markiz, bu beyanın kolayca ortadan kaldırılabilen bir önyargıdan kaynaklandığını düşünerek cevap verdi--"Louise'in en büyük hayranlığınızı hak ettiğini kabul ediyorum; ancak hayattaki konumu, sizin hak ettiğinizden daha düşük. O bir yetim--isimsiz; hayırseverlik tarafından büyütüldü ve kızlarımın isteği üzerine aileme bir arkadaş olarak kabul edildi: ve sanırım, genç beyefendi, birkaç hafta içinde bir tanışıklığın kaçınılmaz olarak dağılmasına izin verirsem, koruyucu kadın adını hak etmediğimi kabul etmelisiniz.--Kaptan Howard'ın bir dostu ve bir beyefendi olarak, sizi tanıdık çevremde görmekten her zaman mutlu olacağım, ancak asla Louise'in sevgilisi olarak değil.
+o beyefendinin ona karşı olan davranışlarından daha da fazla hoşnutsuz oldu; bu davranışın onu Markiz'e niyet ettiğinden daha erken bir zamanda bir açıklama yapmaya zorlayacağını fark etti; çünkü Louise'in kendisiyle ilgili duygularının daha önceden onaylanmasını ve henüz bilmediği ailesi ve bağlantıları hakkında ondan bir şeyler öğrenmek istiyordu. Ancak, fikir olarak başka birinin iddialarına boyun eğemezdi ve buna göre, birkaç gün sonra, Yüzbaşı'ya Markiz'e eşlik etme fırsatını değerlendirdi ve tüm enerjisiyle, yapmacıksız bir tutkuyla, Louise'e olan hayranlığını dile getirdi ve konuşmalarına izin vermesini rica etti. Markiz, bu beyanın kolayca ortadan kaldırılabilen bir önyargıdan kaynaklandığını düşünerek cevap verdi--"Louise'in sizin en büyük hayranlığınızı hak ettiğini kabul ediyorum; ancak hayattaki konumu sizin hak ettiğinizden daha düşük. O bir yetim--isimsiz; hayırseverlik tarafından büyütüldü ve kızlarımın isteği üzerine aileme bir arkadaş olarak kabul edildi: ve sanırım, genç beyefendi, birkaç hafta içinde bir tanışıklığın kaçınılmaz olarak dağılmasına izin verirsem, koruyucu kadın adını hak etmediğimi kabul etmelisiniz.--Kaptan Howard'ın bir dostu ve bir beyefendi olarak, sizi tanıdık çevremde görmekten her zaman mutlu olacağım, ancak asla Louise'in sevgilisi olarak değil.
 
-"Louise'in St. Ursule Manastırı'nın kapısında bulunmasının üzerinden on dokuz yıl geçti, Kaptan," diye devam etti Markiz, ": Annesinin resmi, sandığımız gibi, boynuna boynunda bir kağıt vardı,
+"Louise'in St. Ursule Manastırı'nın kapısında bulunmasının üzerinden on dokuz yıl geçti, Kaptan," diye devam etti Markiz, ": annesinin resmi, sandığımız gibi, boynuna boynunda bir kağıt vardı,
 üzerinde "Louisa!" kelimesi yazılıydı. Rahibe, ebeveynlerin
 araştırılmasını sağladı; ancak onları bulamayınca, bebeği aldı ve büyüttü. Kızlarım St. Ursule'un ve
 Louise'e çocukluğundan beri bağlı; onların isteği üzerine, yaklaşık on altı yaşındayken, Rahibe onu benim korumama teslim etti."
@@ -1197,22 +1201,19 @@ Harland'ın kibirli ruhu, göğsünde o hanıma karşı bir öfke duygusu uyand�
 Markiz'in bu reddine dayanamadı, Louise'in girişi onun dışındaki her fikri
 sildi; her an onun büyülenmiş duyularına yeni cazibeler sundu; ve onunla özel olarak evlenmeye ve konuyu Providence'a bırakmaya karar verdi, adreslerini bırakmaktansa; aşk ve gururun fısıldadığı gibi - onun doğumu asil olmasa bile saygın olmalıydı!
 
-Bundan sonraki gün, Yüzbaşı ve Frederick'e Vali'deki bir
-_şölene_ eşlik etti, orada Markiz ve ailesi de oradaydı: ancak Louise'in varlığının yaratacağı zevk, Vali'nin yeğeni genç Ferrand'ın belirgin ilgisiyle yok edildi; ve görünüşteki tatmine veya hatta Rakibinin varlığı, Louise ile serbestçe konuşmasını engellediği için, onunla özel olarak konuşmak için yalvardı ve bir cevap beklemeden, onu bitişikteki bir odaya götürdü. Orada, Markiz'e olan
-başvurunu; onun davasını reddetmesini; ve onu hararetle özel bir evliliğe teşvik etti.
+Bundan sonraki gün, Yüzbaşı ve Frederick'e Vali'deki bir _şölene_ eşlik etti, orada Markiz ve ailesi de oradaydı: ancak Louise'in varlığının yaratacağı zevk, Vali'nin yeğeni genç Ferrand'ın belirgin ilgisiyle yok edildi; ve görünüşteki tatmine veya hatta Louise ile serbestçe konuşmasını engelleyen rakibinin varlığı nedeniyle, onunla özel olarak konuşmak için yalvardı ve bir cevap beklemeden onu bitişikteki bir odaya götürdü. Orada ona Markiz'e olan başvurusunu, onun davasını reddetmesini anlattı; ve onu özel bir evliliğe şiddetle teşvik etti.
 
-Louise, Markiz'in reddetmesinden endişelendi, ancak onun onayı olmadan
-asla hiçbir nişana razı olmayacağını ilan etti; ve
+Louise, Markiz'in reddetmesinden endişelendi, ancak onun onayı olmadan hiçbir nişana asla razı olmayacağını açıkladı; ve
 Harland'ı Ferrand'a karşı kaba davranışından dolayı nazikçe azarladı.
 Harland, bu ikinci ret karşısındaki üzüntüsünü gizleyemedi ve
 Louise'i rakibine karşı haksız bir tercihte bulunmakla suçladı; ona karşı en sert intikamı yemin etti.
 
-Harland'ın gayretlerini eşit şekilde gözlemleyen ve aynı şekilde kıskançlığın etkisini hisseden Doğu Hintli, onları fark etmeden takip etti ve konuşmalarının tamamını dinledi. Artık gizlendiği yerden
+Harland'ın gayretlerini eşit şekilde gözlemleyen ve kıskançlığın etkisini eşit şekilde hisseden Doğu Hintli, onları fark etmeden takip etti ve konuşmalarının tamamını dinledi. Artık gizlendiği yerden
 çıkmıştı ve dehşete düşen Louise, Harland'dan onu tekrar şirkete götürmesini rica etmeseydi,
 orada düşmanlıklara başlayacaktı. Tutkunun şiddetiyle neredeyse delirecek hale gelmiş olsa da,
 Louise'in sesi onu aklını başına topladı; ya da daha doğrusu,
 önemsiz olsa da, isteğinin, onun isteklerini tatmin ederek,
-koynunda yükselen kargaşayı yatıştırmaya yardımcı olan, rakibine göre kendisine bir tercih olduğunu ima ettiğini düşündü.
+koynunda yükselen kargaşayı yatıştırmaya yardımcı olan, rakibine göre ona karşı bir tercihi ima ettiğini düşündü.
 
 Louise, onun talebini reddetmiş olsa da, ona karşı kayıtsız davranamazdı: aksine, birçok küçük ilgiyle, Harland'ın o anda almaktan çok mutlu olduğu
 reddini yumuşatmaya çalıştı, bunların ortaya çıktığı sebep hakkında bir düşünceye yer vermedi.
@@ -1221,11 +1222,13 @@ Hüküm süren şenlik ortasında, genç Ferrand gerçekten zevkten habersiz ola
 Teğmenle açık bir kavga ederek akşamın neşesini bozmaktan alıkoydu; bu nedenle kendi eliyle yapabileceğinden
 daha emin olduğu bir intikam almaya karar verdi.
 
-Şirket ayrıldığında çok geç olmuştu ve Harland, Yüzbaşı ve Frederick ile birlikte Körfez'e dönerken, dört adam tarafından saldırıya uğradılar ve bir anda Yüzbaşı'nı yere serdiler. Cesareti tutkularına eşit olan Harland, Frederick'in de yaptığı gibi, hemen çekildi ve haydutların dikkatini esas olarak onun hayatına yönelttiği Yüzbaşı'nı korumaya çalıştı. Şiddetli bir çatışma yaşandı,
+Şirket ayrıldığında çok geç olmuştu ve Harland, Yüzbaşı ve Frederick ile birlikte Körfez'e dönerken, dört adam tarafından saldırıya uğradılar ve bir anda Yüzbaşı'nı yere serdiler.
+Cesareti tutkularına eşit olan Harland, Frederick'in de yaptığı gibi, hemen çekildi ve haydutların dikkatini esas olarak onun hayatına yönelttiği
+Yüzbaşı'nı korumaya çalıştı. Şiddetli bir çatışma yaşandı,
 saldırganların açıkça üstün olduğu ve neredeyse alt edildikleri, büyük bir roquelaure'e sarılı bir adamın aceleyle
 yaklaştığı zaman. Frederick, haydutların bir arkadaşını yakaladı, ancak
-birinin bir tabancanın içindekilerle anında toza
-düşmesiyle
+birinin bir tabancanın içindekilerle anında
+tozla yerle bir edilmesiyle
 hoş bir şekilde kandırılmadı! Yabancı daha sonra yanına uçtu,
 ve Yüzbaşı'nın kılıcını alarak, suikastçıları sırayla savunmaya geçmeye zorladı. Tabancanın sesiyle alarma geçen, Kaptan'ı bekleyen tekne mürettebatı, sesin geldiği yönü takip etti ve haydutların planlarını gerçekleştiremedikleri anda, arkadaşlarını arkalarında ağır yaralı bırakarak kaçtıklarında oraya vardılar.
 
@@ -1258,8 +1261,8 @@ hayatımı kurtardı ve şimdi size, hayatı tek başına arzu edilir kılan
 o nimetleri aramalıyım. Ellenor'ım, mektubunda, istihbarat için bana atıfta bulunuyor: o zaman bana bugüne kadar hangi kaderi deneyimlediğini söyleyin; çünkü korkarım ki talihin her açıdan
 elverişsiz olduğu ortaya çıkmıştır."
 
-"Ellenor ve oğlunuz hakkında, Kaptan," diye cevapladı Sir Henry, "anlatacak çok az şeyim var. Londra'dan bebeğiyle ayrıldığında, babamın korumasını istedi ve babam ona Rahip Bay Blond'un ailesinde onurlu bir sığınma hakkı sağladı; sanırım şu anda onun
-kalıbıyla birlikte yaşıyor. Ben İngiltere'den ilk ayrıldığımda Edward, üniversitede çalışmalarını sürdürüyordu; benim ölüm haberimden önce üniversiteyi terk etti; annesi ve Bayan Blond ile birlikte kaçtılar - baskının duygusuz elinden kurtulmak için; ama nereye - bilmiyorum."
+"Ellenor ve oğlunuz hakkında, Kaptan," diye cevapladı Sir Henry, "anlatacak çok az şeyim var. Londra'dan bebeğiyle birlikte ayrıldığında, babamın korumasını istedi ve babam ona Rahip Bay Blond'un ailesinde onurlu bir sığınma hakkı sağladı; sanırım şu anda onun
+kalıbıyla birlikte ikamet ediyor. Ben İngiltere'den ilk ayrıldığımda Edward, üniversitede çalışmalarına devam ediyordu; üniversiteyi benim ölüm haberimden önce terk etti; annesi ve Bayan Blond ile birlikte kaçtılar - baskının duygusuz elinden kurtulmak için; ama nereye - bilmiyorum."
 
 "Ben de aynı şeyden korkuyordum!" diye iç çekti Yüzbaşı.--"Ama Cennet," diye devam etti daha neşeli bir aksanla, "beni yine de dost edinebilir. Bir mucizeyle, buna daha az diyemem, seni mezardan kurtardım: ve senin elinden Ellenor'umu hala almayı umuyorum. Bay Talton'ın daha önce bahsettiği gizemlerin açıklığa kavuşturulması için gerekli olduğumu düşünüyorum: Oğluma gösterdiğiniz dostluk, kendinize olan saygımdan bağımsız olarak, benden en hazır yardımı talep ediyor: o zaman bana hangi yolu izlemem gerektiğini söyleyin ve istediğiniz dostluğu kanıtladığımdan şüphe etmeyin."
 
@@ -1311,11 +1314,9 @@ kadar silinebilseydi!
 silip atmak ve bir zamanlar sahip olduğum o dostluğunuzdaki
 yerimi geri kazanmak istiyordum.
 
-"Bu istekleri yerine getirmek ve düşünme özgürlüğünün tadını çıkarmak için dün gece yalnızlık aradım; kılıçların çarpışması beni sizin yardımınıza çektiğinde. İlk önce Frederick'in sesini ayırt ettim, bu da Bay Talton'ın (bir keresinde Hindistan'ı ziyaret etme niyetinden bahsetmişti) sizinle olabileceği fikrini beraberinde getirdi: bu nedenle en olası gizleme
-yolu olarak sessizliğe karar verdim; onların size
-gelmelerinin telaşında, fark edilmeden şüphelerimi giderebileceğime ve eğer haklılarsa tekrar kıyıya kaçabileceğime güvenerek."
+"Bu istekleri yerine getirmek ve düşünme özgürlüğünün tadını çıkarmak için dün gece yalnızlık aradım; kılıçların çarpışması beni sizin yardımınıza çektiğinde. İlk önce Frederick'in sesini ayırt ettim, bu da Bay Talton'ın (bir keresinde Hindistan'ı ziyaret etme niyetinden bahsetmişti) sizinle olabileceği fikrini beraberinde getirdi: bu nedenle en olası gizleme yolu olarak sessizliğe karar verdim; onların size gelmelerinin telaşında, fark edilmeden şüphelerimi giderebileceğime ve eğer haklılarsa tekrar kıyıya kaçabileceğime güvenerek." 
 
-"Yine de, söyle bana," dedi Kaptan, "Bay'dan neden bu kadar endişeyle kaçınmak istiyorsun? Talton? ya da Ellenor'ım neden köye vardığını duyduğunda
+"Yine de, söyle bana," dedi Kaptan, "Bay'dan bu kadar endişeyle kaçınmayı neden istiyorsun? Talton? ya da Ellenor'ım neden köye vardığını duyduğunda
 Teğmen Booyers'ın evinden bu kadar aceleyle kaçtı?
 Onun parasal zorluklar içinde olduğunu ima etti; buna
 Talton'ın adı eklendi. Ona karşı herhangi bir para sorumluluğu var mı?"
@@ -1444,7 +1445,7 @@ taktığı minyatürle karşılaştırdı; benzerlik tamdı. "Ah, Sir Henry!" di
 "Gerçekten acımasızca terk edilmiş!" dedi Sir Henry; "utançtan doğan
 çocuklarını kabul etmek! Ama artık bağımlı olmayacaksın! Seni gördüğüm anda kalbim seni sahiplendi; ve dün gece annenin
 resmine bakmam, senin--benim
-kız kardeşim olduğun şüphemi doğruladı!"
+kız kardeşim olduğuna dair şüphemi doğruladı!"
 
 Louise'in karşı koymadığı şefkatli bir kucaklamayla onu kollarına aldı; Louise, bu beklenmedik iddia karşısında şaşırmış ve sersemlemiş bir şekilde, birkaç dakika boyunca konuşamadı.
 
@@ -1550,8 +1551,10 @@ ve yalvarıyorum, Harland, en azından tutkunu dizginle ve prosedürünü belirl
 
 Harland'ın duyguları o anda Louise'in maruz kalabileceği hakaretlere karşı titrek bir şekilde canlıydı, Yüzbaşı'nın isteğinin makul olduğunu kabul etmek için. Louise, onun mutluluğunu bağladığı ödüldü; hatta, en ufak bir kayıtsızlıkla bile, onu kollarından koparan, kendisine bu kadar yakın bir adam göremezdi. Ancak, Vali o anda bildirildiği için, cevap veremezdi.
 
-Onların sıkıntıları hakkında bilgilendirilince, o beyefendi, bu olay için o kadar cömert bir ilgi gösterdi ki, Harland'ın öfkesini neredeyse etkisiz hale getirdi. Markiz'e, eğer bu rezaleti yapan yeğeniyse, Louise'in eski haline getirileceğine dair güvence verdi; çünkü, Teğmen'e olan önceki nişanından bağımsız olarak ve onun kabul ettiği gibi, Louise'in onunla bir ittifak kurmasını istemiyordu. Gereksiz zaman kaybı yaşanmaması için, iki hizmetçisine derhal kır evine gitmelerini emretti ve Louise oraya götürüldüyse onu Markiz'e geri götürmeleri emrini verdi. Harland'ın sabırsızlığı artık durdurulamazdı; Vali'den habercilere eşlik etmesine izin vermesini rica etti. Kimsenin, yalvardı, arama konusuyla kendisi kadar ilgilenmediğini; o zaman, bunu üstlenmeye en uygun olanın kimse olmadığını söyledi. "İsteğinizi yerine getiremem, Teğmen," diye cevapladı Vali,
-"ancak sizi memnun etmek istesem de; yeğenimin hayatı benim itaatimle tehlikeye girebilir. Onun mizacını biliyorum - sizinkinin kanıtlarını gördüm: ve birbirinizin huzurunda size güvenmeye cesaret edemem. Eğer sizin için bir tatmin olacaksa, Sir Henry gidebilir; ve eğer görevinde başarısız olursa, Ferrand'ın olduğu yer hariç, adanın herhangi bir yerini veya her yerini arama özgürlüğüne sahip olacaksınız."
+Onların sıkıntıları hakkında bilgilendirilince, o beyefendi, bu olay için o kadar cömert bir ilgi gösterdi ki, Harland'ın öfkesini neredeyse etkisiz hale getirdi. Markiz'e, eğer bu rezaleti yapan yeğeniyse, Louise'in eski haline getirileceğine dair güvence verdi; çünkü, Teğmen'e olan önceki
+sözleşmesinden bağımsız olarak ve onun ne kadar
+sevimli olduğunu kabul etse de, Ferrand'ın onunla bir ittifak kurmasını istemiyordu. Gereksiz zaman kaybı yaşanmaması için, iki hizmetçisine derhal kır evine gitmelerini emretti ve Louise oraya götürüldüyse onu Markiz'e geri götürmeleri emrini verdi. Harland'ın sabırsızlığı artık durdurulamazdı; Vali'den habercilere eşlik etmesine izin vermesini rica etti. Kimsenin, yalvardı, arama konusuyla kendisi kadar ilgilenmediğini; o zaman, bunu üstlenmeye en uygun olanın kimse olmadığını söyledi. "İsteğinizi yerine getiremem, Teğmen," diye cevapladı Vali,
+"ancak sizi memnun etmek isterim; çünkü yeğenimin hayatı benim itaatimle tehlikeye girebilir. Onun mizacını biliyorum - sizinkinin kanıtlarını gördüm: ve birbirinizin huzurunda size güvenmeye cesaret edemem. Eğer sizin için bir tatmin olacaksa, Sir Henry gidebilir; ve eğer görevinde başarısız olursa, Ferrand'ın olduğu yer hariç, adanın herhangi bir yerini veya her yerini arama özgürlüğüne sahip olacaksınız."
 
 Harland bu kısıtlamanın adaletsiz olduğunu düşündü; ancak Sir Henry'nin ifade dolu gözleri, sabırsızlığının aceleci çıkışını engelledi.
 
@@ -1807,19 +1810,19 @@ Wood, Bay
 White, J. Esq.
 Wall, G. A. Esq.
 Williams, ----, Esq.
-West, H. Esq. Wyche, Bayan
-Wilson, Bayan
-Ward, Bay
-Willcocks, Bay
-Watts, Bay
+West, H. Esq. Wyche, Bayan.
+Wilson, Bayan.
+Ward, Bay.
+Willcocks, Bay.
+Watts, Bay.
 
 Yart, C. Esq.
-Young, Bayan
+Young, Bayan.
 
+Proje Gutenberg'in Gizemli Gezgin, Cilt I'in Sonu, Sophia Reeve
+
+.
 *** END OF TURKISH PART ***
-
-End of Project Gutenberg's The Mysterious Wanderer, Vol. I, by Sophia Reeve
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE MYSTERIOUS WANDERER, VOL. I ***
 
 ***** This file should be named 33973.txt or 33973.zip *****

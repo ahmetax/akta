@@ -1,0 +1,1419 @@
+*** START OF AKTAHEADER ***
+Başlık: Security
+Yazar: Poul William Anderson
+Yayın Tarihi: August 4, 2007 [EBook #22239]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/22239
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Security, by Poul William Anderson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Security
+
+Author: Poul William Anderson
+
+Release Date: August 4, 2007 [EBook #22239]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Stephen Blundell ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[İllüstrasyon]
+
+GÜVENLİK
+
+POUL ANDERSON TARAFINDAN
+
+EBEL TARAFINDAN RESİMLENDİRİLMİŞTİR
+
+Güvenliğin her şeyden önemli olduğu bir dünyada, hiçbir şey
+güvenli olamaz. Dağa tırmanma tatili
+derin Uzayda sonlanabilir. Ya da sadakat
+yüksek ihanet olarak kanıtlanabilir. Ama bunun da ödülleri vardır.
+
+Laboratuvarda zor bir gün olmuştu, hiçbir şeyin yolunda gitmediği
+günlerden biriydi. Ve tabii ki, tam da Verimlilik müfettişi Hammond'un burnunu sokmayı seçeceği gündü. Küçük
+not defterinde bir işaret daha vardı ve bunun gibi yeterince işaret, bir
+derecelendirme anlamına geliyordu ve Kontrol'ün derecelendirilmiş laboratuvar görevlilerini Venüs'e gönderme alışkanlığı vardı.
+Bu bir cezai ceza değildi ama aynı anlama geliyordu.
+Allen Lancaster'ın kendisi için bundan hiç korkusu yoktu; Bir Projenin sektör şefi Verimlilik yerine
+doğrudan Kontrol yetkisi altındaydı ve Kontrol ona karşı dostça davranıyordu. Ancak genç Rogers'ın bunu almasını istemezdi - çocuk sadece bir hafta önce evlenmişti.
+
+Günün üstüne, Projenin Yedinci Sektöründen Lancaster'ın masasına bir rapor gelmişti. Güvenlik nihayet sektör şeflerine genel iletim için onay vermişti - ve bu, Lancaster'ın kendi bölümü olan On Üçüncü Sektör'deki en iyi adamlardan bazılarının altı aydır ter döktüğü
+elektronik bir vananın tamamlanmış tasarımıydı. Yarım yıllık çalışma boşa gitti, hepsi boşuna ve Lancaster'ın bir sonraki Proje
+hesabında gösterecek çok daha azı olacaktı.
+
+Birkaç dakika boyunca küfür etti ve asistanlarının hayranlık dolu bakışlarını üzerine çekti. Üst düzey bir laboratuvar görevlisinin Güvenlik hakkında şikayet etmesi yeterince güvenliydi - aslında, az çok beklenen bir şeydi. Bilim insanlarının ayrıcalıkları vardı.
+
+Bunlardan biri özel üç odalı bir daireydi. Bir diğeri ise ekstra içki tayınlarıydı. Bu gece eve döndüğünde Lancaster ikincisinde bir değişiklik yapmaya karar verdi. Her zamanki gibi kantinde yemek yemişti ama konuşmak için kalmamıştı. Metroda eve giderken o viski ve sodayı düşünüyordu.
+
+Şimdi bardağında hafifçe parlıyordu ve iç çekti, zayıf, çirkin yüzünü bir gülümsemeyle buruşturdu. Uzun boylu, biraz kambur bir adamdı, kıyafetleri -hem üniforma hem de müftü- sürekli buruşuktu. Doğası gereği yalnızdı, bekar vergisine rağmen hala evlenmemiş ve sadece bir oğlu vardı. Çocuk şimdi on yaşındaydı, Gençlik Muhafızları'nda olmalıydı;
+Lancaster emin değildi, onu hiç görmemişti.
+
+Pencerelerinin dışı karanlıktı, ancak gökyüzü yolunun karşısındaki duvarların üzerindeki bir parıltı, şehrin ötede nabız gibi attığını ve mırıldandığını söylüyordu. Akşamlarının sessizliğini yalnız başına severdi ve çeşitli vatansever örgütlerde hizmet etmek için epeyce kişisel ve resmi baskıya göğüs germişti. "Kahretsin," diye açıklamıştı, "Rutin bir iş yapmıyorum. Bir Proje üzerindeyim ve kendi seçtiğim bir rahatlamaya ihtiyacım var." Kütüphanesinden bir kaset seçti. _Eine Kleine Nachtmusik_ bir sandalye bulup
+otururken etrafında neşeyle
+dolaştı. Control henüz onaylı müzik listeleri yapmaya fırsat bulamamıştı, gerçi Mozart'ı
+kamusal bir yerde asla duyamazdınız. Lancaster humidordan bir puro aldı ve uzun, zayıf vücudunu sandalye ve pufun üzerine yığdı. Duman, viski, güzel müzik - zihnini endişe ve hayal kırıklığından arındırdılar; şekillenmemiş rüyaların sisi içinde kayboldu. Evet, o kadar da
+kötü bir dünya değildi.
+
+* * * * *
+
+Posta borusu _ping!_ diye bağırdı ve gözlerini küfür ederek açtı. Bir an
+pnömo rulosunun düştüğü yerde kalmasına izin vermek istedi, ama
+alışkanlık çok güçlüydü. Homurdanarak sepete doğru ilerledi ve onu
+çıkardı.
+
+Üzerindeki damga zihnini uyanıklığa sürükledi. _OfiSal, sEkret, fOr
+adresE OnlE_--ve bir Güvenlik mührü!
+
+Bir an sonra gümleyen kalbini yuttu. Ciddi olamazdı,
+en azından kişisel olarak onu ilgilendirdiği kadarıyla. Eğer durum bu olsaydı, bir
+gözetmen ekibi kapıda olurdu. Bu mesaj
+tüpü değil.... Mührü kırdı ve incecik olanı özenle açtı.
+Yavaşça taradı. Resmi antetli kağıdın altında,
+kısa yazılmış kelimeler vardı. "_Dis iz A matr uv urjensE ve iz top sEkret. destrY Dis letr
+and Du tUb kontAniN it._ tUmOrO, 15 Haziran, saat 21:30'da, U wlO gO tU Du
+obzurvatOE, A nIt klub at 57:30 viktore strEt, and so Du hedwatr for A
+mistr Berg. U wil asum Dat hE iz an Old frend uv yOrz and Dat Dis iz A
+sOSal EveniN. Du UZUal penaltEz ar invokt for fAlUr tU complI."
+
+İmza yoktu. Lancaster bir an durdu, bunun ne olabileceğini hayal etmeye çalıştı. Cildinde kısa bir terleme oldu. Sonra duygularını bastırdı. Korkacak hiçbir şeyi yoktu. Kaydı temizdi ve tutuklanmıyordu.
+
+Zihni daha önce aklına gelen bir şeye isyankarca
+kayboldu. Kabul ediyorum, yeni fonetik yazım eskisinden daha etkiliydi, ancak daha az estetikti; ancak daha önceki edebiyatın çok azı
+modern yazımla yeniden yayınlandığı için aslında çok fazla kitap
+yıkıcı olarak kınanmamıştı--sadece tarih, politika, felsefe ve benzeri konularda birkaç eser, güvenlik nedeniyle bazı bilimsel metinlerle birlikte; ancak tek tek, büyük eski yazılar
+unutulmaya gönderildi.
+
+Eh, bunlar kritik zamanlardı. İlgisiz ayrıntılara harcanacak malzeme ve enerji yoktu. Şüphesiz tam bir barış sağlandığında
+bir rönesans olacaktı. Bu arada Lancaster, Euripides'i, Goethe'yi ve beğendiği veya nereden ödünç alabileceğini bildiği her şeyi yanında taşıyordu.
+
+Bu mesaja gelince, onu büyük bir şey için, belki de gerçekten ilginç bir şey için istiyorlardı.
+
+Yine de akşamı mahvolmuştu.
+
+* * * * *
+
+Gözlemevi, onaylanmış çoğu rekreasyon alanı gibiydi - büyük ve gürültülü, hükümetin her zamanki aslan payını aldığı kontrolsüz fiyatlarla yiyecek, içecek ve eğlence satıyordu. Buradaki açı
+astronomiydi. Tavan, yavaşça dönen takımyıldızlarla parıldayan mavi bir pustu ve striptizciler hayal ürünü uzay giysileriyle başladılar. Duvarlarda uzayın fethinin çeşitli aşamalarını tasvir eden oldukça iyi duvar resimleri vardı. Lancaster bunlardan birine
+eğlenmişti. Üç yıl önce buraya geldiğinde, Ganymede'ye ilk inişte bir grup adamın Alman bayrağı açtığını göstermişti. Aklında kalmıştı, çünkü ilk keşif gezisinin aslında Ruslar tarafından yapıldığını biliyordu. O zamanlar Almanya'nın müttefik olması nedeniyle sorun yoktu. Ama şimdi Avrupa, Amerikan egemenliğindeki bir dünya fikrine giderek daha fazla soğuk davranmaya başladığından, Ganymedean öncüleri iyi bir Stars and Stripes'ı tutuyorlardı.
+
+Oh, peki. Kitleleri mutlu tutmak zorundaydınız. Fedakarlıklarının ve ara sıra çıkan kısa savaşların, yetmiş beş yıl önceki gibi gerçek bir karmaşayı önlemek için gerekli olduğunu göremiyorlardı. Lancaster'ın rahatsızlığı, somurtkan yabancı güçlere ve kendi ülkesindeki hainlere yönelikti. Bilimin Güvenlik yönetmelikleri tarafından kısıtlanmasının nedeni onlardı.
+
+Garson önünde eğildi. "Bir arkadaş arıyorum," dedi Lancaster. "Bay Berg."
+
+"Evet efendim. Bu taraftan lütfen."
+
+Lancaster onun arkasından kambur bir şekilde yürüdü. Bir Proje subayının resmi üniformasını giymişti ama tüm gözlerin onun acınası özensizliğinde olduğunu hissediyordu.
+Baş garson onu yarı çömelmiş müşterilerin masaları arasında gezdirdi - iri yarı siyah üniformalı Uzay Muhafızları, ordu ve hava subayları, zengin giyimli sanayiciler ve sendika patronları, sivil liderler, eşleri ve metresleri. Garsonların hepsinin Marslı köleler olduğunu fark etti,
+fosforlu baykuş gözleri loş mavi ışıkta için için yanıyordu.
+
+Perdeli bir bölmeye götürüldü. Hizmetçilerin
+kullananları rahatsız etmemesi için otomatik bir dağıtıcı vardı ve
+masadaki ultrasonik bir küre bölgeyi ses geçirmez hale getirmek için çoktan titreşiyordu.
+Lancaster'ın bakışları orada oturan adama yöneldi. Kısa boylu olmasına rağmen, geniş omuzlu ve sade gri gece
+pijamaları içindeydi. Yüzü yuvarlak ve çilli, neredeyse melek gibiydi, kumlu saçlarının altındaydı, ama gözlerinde neşeli küçük şeytanlar vardı.
+
+* * * * *
+
+"İyi akşamlar, Dr. Lancaster," dedi. "Lütfen oturun. Ne alırsınız?"
+
+"Teşekkürler, ben viski ve soda alırım." Hükümet faturayı ödüyorsa, bunu pahalıya mal edebilirdi. Ve eğer bu --Berg-- ithal bir içecek içtiği için onu Amerikalı olmadığını düşünüyorsa, ne olmuş? Bilim insanı
+ev sahibinin karşısındaki koltuğa oturdu.
+
+"Aslında ben de aynısını içeceğim," dedi Berg yumuşak bir sesle. Kadranı çevirdi ve dağıtıcı yuvasına birkaç beş dolarlık bozuk para
+kaydırdı. Tepsi fırlatıldığında, içkisini takdirle yudumladı ve
+bardağın kenarından diğer adama baktı.
+
+"Arizona Projesi'nde üst düzey bir fizikçisiniz, değil mi Dr. Lancaster?" diye sordu.
+
+Bu kadarını kabul etmek güvenliydi. Lancaster başını salladı.
+
+"Tam olarak ne iş yapıyorsunuz?"
+
+"Size böyle bir şey söyleyemeyeceğimi biliyorsunuz."
+
+"Önemli değil. İşte kimlik bilgilerim." Berg cüzdanını uzattı.
+Lancaster kartları taradı ve geri verdi.
+
+"Tamam, yani Güvenlik'tesiniz," dedi. "Size hâlâ hiçbir şey söyleyemem, uygun izin olmadan."
+
+Berg dostça kıkırdadı. "Güzel. Gizliliğinizi gördüğüme sevindim. Çok fazla laboratuvar görevlisi, aynı örgütün farklı şubeleri arasında bile gizliliğin gerekliliğini anlamıyor." Aniden kırbaç gibi bir keskinlikle:
+"Bu toplantıdan kimseye bahsetmedin, değil mi?"
+
+"Hayır, tabii ki bahsetmedin." Lancaster istemeyerek de olsa sarsılmıştı. "Yani, bir
+arkadaşım bu gece onunla dışarı çıkmak isteyip istemediğimi sordu ama ben
+başka biriyle buluşacağımı söyledim."
+
+"Haklısın." Berg rahatladı ve gülümsedi. "Tamam, artık
+işe koyulalım. Oldukça büyük bir onur kazanıyorsunuz, Dr. Lancaster. Güneş Sistemi'ndeki en önemli
+işlerden biri için seçildiniz."
+
+"Eh?" Lancaster'ın gözleri kontakt lenslerin ardında büyüdü. "Ama
+başka hiç kimse bana haber vermedi--"
+
+"Tanıdıklarınızdan hiçbiri bunu bilmiyor. Bilmeyecekler de. Ama söyle bana,
+dielektrikler üzerinde çalıştın, değil mi?"
+
+"Evet. Aslında bu benim bir tür uzmanlık alanımdı. Tezimi dielektrik polarizasyon teorisi üzerine yazdım ve o zamandan beri--hayır, bu
+sınıflandırıldı."
+
+"M-hm." Berg içkisinden bir yudum daha aldı. "Ve şu anda sen sadece bir
+bilgisayar geliştirme Projesi'ndeki bir çarksın. Görüyorsun ya, senin hakkında birkaç şey
+biliyorum. Ancak, daha üstte, bilirsin, aslında
+en üst seviyede, seni şimdilik bundan uzaklaştırmaya ve seni
+bu diğer işe, uzmanlık alanınla ilgili bir işe vermeye karar verdik. Dahası, büyük bir organizasyon makinesinin
+parçası olmayacaksın, ama çok kendi başına olacaksın. Bunu
+ne kadar az kişi bilirse o kadar iyi."
+
+Lancaster bundan hoşlandığından emin değildi. İş bittiğinde--eğer bu konuda tüm bilgilere
+sahip olursa--bir Güvenlik
+tehlikesi olarak hapse atılabilir veya hatta vurulabilirdi. Böyle şeyler olmuştu. Ama bu konuda yapabileceği pek bir şey yoktu.
+
+"Korkmayın." Berg onun düşüncelerini okumuş gibiydi. "Ödülünüz Güvenlik nedeniyle biraz gecikebilir ama zamanı gelince gelecek." Ciddi bir şekilde öne doğru eğildi. "Tekrar ediyorum, bu proje _çok gizli_. Hayal edebileceğinizden çok daha büyük bir şeyin hayati bir halkası ve Başkan'ın altındaki çok az kişi bunu biliyor. Bu nedenle, bunun üzerinde çalışmış olmanız -- herhangi bir dış iş yapmış olmanız -- Projenizin şefleri için bile bilinmemeli."
+
+"Eğer yapabiliyorsanız iyi bir gösteri," diye omuz silkti Lancaster. "Ama ben ateşliyim.
+Güvenlik benim yaptığım her şeyi takip ediyor."
+
+"Bunu şu şekilde yapacağız. İki hafta sonra bir izin var, değil mi -- üç aylık bir izin? Nereye gidiyordun?"
+
+"Güneybatı'yı ziyaret etmeyi düşündüm. Biraz dağ tırmanışı yap,
+kanyonları ve Kızılderili kalıntılarını gör ve--"
+
+"Evet, evet. Pekala. Her zamanki gibi biletini ve Phoenix'teki Tycho Hotel'de
+rezervasyonunu alacaksın. Oraya gideceksin ve ilk
+akşamında erken yatacaksın. Tek başına, eklememe gerek yok. Seni
+odanda bekliyor olacağız. Çok dikkatlice hazırlanmış bir
+kopya olacak - cerrahi bir kılık, plastik parmak izi uçları, alışkanlıkların, zevklerin ve tavırların konusunda tam olarak
+eğitilmiş. O geride kalacak ve
+seni kaçırırken tatilini gerçekleştirecek. Döndüğünde benzer bir
+değişim gerçekleşecek, sana ikizinin yazı nasıl geçirdiği tam olarak söylenecek ve sen normal hayatına devam edeceksin."
+
+"Şey--şey--" Çok aniydi. Lancaster kaçamak cevap vermek zorundaydı. "Ama
+bak--güya açık hava tatilinden, bronzlaşmış ve dinlenmiş bir şekilde
+döneceğim. Birileri şüphelenecek."
+
+"Gittiğin yerde güneş lambaları olacak, dostum. Ve bence
+gerçekten ilginizi çeken bir şey üzerinde bağımsız olarak çalışma şansı,
+yaz boyunca yapacağınız bir seyahat kadar sinirleriniz için dinlendirici olacaktır. Bilimsel zihniyeti biliyorum." Berg kıkırdadı. "Evet, gerçekten."
+
+* * * * *
+
+Değişim o kadar sorunsuz ilerledi ki tüm melodramlardan arındırıldı,
+ancak Lancaster ikiziyle karşılaştığında beklenmedik bir şekilde ürkütücü bir an yaşadı. Ona bakan kendi yüzüydü, kişiliksiz
+otel odasında, uçuşan perdelere ve gecenin karanlığına karşı çerçevelenmişti. Sonra Berg ona kendisini takip etmesini işaret etti ve pencere pervazından sarkan bir ip merdivenden aşağı indiler. Aşağıdaki sokakta bir araba bekliyordu ve içeri girdikleri anda kolayca hareket etti.
+
+Ön koltukta bir sürücü ve başka bir adam vardı, ikisi de hareket eden sokak lambalarının ve gecenin bulanıklığına karşı gölgelerdi. Berg ve Lancaster arkada oturdular ve gizli ajan yol boyunca sohbet etti. Ama bilgilendirici hiçbir şey söylemedi.
+
+Otoyol onları çölün yalnızlığına iyice götürdüğünde,
+araba yoldan çıktı, sefil bir toprak yolda sarsılarak sırtı
+geçmiş ve dev bir kıtalararası die-elektrikli
+kamyonun önünde yavaşlamıştı. Bir adam kabininden çıktı, telaşsız bir şekilde kolunu salladı ve araba
+kamyonun arkasına doğru döndü. Bir rampa oluşturan alçaltılmış bir bagaj kapağı vardı; üstünde, devasa çift kapılar karanlık bir
+mağaraya açıldı. Araba rampadan yukarı kaydı ve dışarıdaki adam onu ​​arkalarından içeri
+itti ve kapıları kapattı. Şu anda kamyon harekete geçti.
+
+"Bu _gerçekten_ gizli!" diye ıslık çaldı Lancaster. Şaşkın ve çaresiz hissediyordu.
+
+"Kesinlikle öyle. Güvenlik, hükümetin sağ elinin sol elinin ne yaptığını bilmesini
+sevmiyor." Berg gülümsedi, gölgeli yüzünde belli belirsiz bir diş parıltısı vardı. Sonra ciddileşti. "Gerekli, Lancaster. Yıkıcıların
+ne kadar güçlü ve iyi organize olduklarını bilmiyorsun."
+
+"Onlar--" Fizikçi ağzını kapattı. Doğruydu - aslında en ufak bir fikri bile yoktu. Haberleri takip etti, ama yüzeysel bir şekilde, bunun anlamını analiz etme zahmetine girmeden. Kahretsin, düşünecek başka
+şeyleri vardı. Seçimlerin askıya alınmış olması ve adil bir şekilde süresiz olarak askıya alınması iyi oldu. Eğer o, aydınların bir üyesi olarak, rasyonel kararlar almak için hayatın politik ve askeri gerçekleriyle yeterince tanışık değilse, eğitimsiz kitlelerin itaat etmesi kesinlikle gerekirdi.
+
+"Kendimizi zorlayabiliriz," dedi şoför. "Daha gidecek çok yolumuz var." Dışarı çıktı ve tepe lambasını yaktı.
+
+* * * * *
+
+Kamyonun içi, arabaya bile yetecek kadar genişti.
+Ranzalar, bir masa ve sandalyeler, küçük bir buzdolabı ve ocak vardı. Sürücü, sanki sürekli sakız çiğneyen zayıf, asık suratlı bir adamdı ve kahve hazırlamaya başladı. Diğeri oturdu ve akortsuz bir şekilde ıslık çaldı. Genç ve güçlü yapılı biriydi ama sağ kolu protez bir pençeyle sonlanıyordu. Hepsi göze çarpmayan sivil kıyafetler giymişti.
+
+"Yaklaşık on saatimizi alır," dedi Berg. "Uzay gemisi 'Colorado'nun çok ötesinde."
+
+Lancaster'ın boş bakışını yakaladı ve sırıttı. "Evet, dostum, laboratuvarın uzayda. Şaşırdın mı?"
+
+"Mmm--evet. Hiç Dünya dışına çıkmadım."
+
+"Tamam. Hızla koşarız, uzay tutması yaşamazsınız." Berg bir
+sandalye çekti, oturdu ve onu duvara yasladı. Motorların sabit
+gürültüsü sözlerinin altında yankılanıyordu:
+
+"Hükümet ile askeri teknoloji arasındaki ilişkiyi düşünmek gerçekten ilginç. Güçlü, otoriter
+hükümetlerin her zaman savaşın evriminin başarılı bir savaş makinesini yalnızca profesyoneller tarafından
+bakımı yapılabilen, ayrıntılı, pahalı bir şeye dönüştürdüğü
+zamanlarda ortaya çıktığı görülmektedir. Tıpkı Roma İmparatorluğu'nda olduğu gibi. Bir lejyoneri eğitmek
+yıllar ve bir orduyu donatmak ve onu sahada tutmak için çok para gerekiyordu. Böylece Roma otokratik oldu. Ancak, asi bir generalin bir süreliğine birkaç asker
+gösteremeyeceği kadar pahalı bir teklif değildi - ya da onları yağmalayarak ödeyebilirdi. Böylece
+iç savaşlar
+yaşadınız. Daha sonra, İmparatorluk dağıldığında ve savaş büyük ölçüde kendi silahlarını getiren bireysel barbarlara dayandığında, hükümet gevşedi. Her ne kadar ağırlığını
+fazlaca ortaya koyan herhangi bir hükümdarın elinde ayaklanma olurdu. Sonra savaş
+tekrar bir sanat haline geldiğinde--işin nasıl gittiğini görüyorsunuz. Elbette din gibi başka faktörler de var--genel olarak ideoloji. Ama genel olarak, her şey
+benim açıkladığım şekilde işledi. Çünkü hükümet özgürlükleri olarak gördükleri şeye tecavüz ettiğinde her zaman savaşmaya istekli insanlar vardır ve hükümetler her zaman tecavüz etmeye çalışacaktır. Bu yüzden
+sağlanan denge karşılaştırmalı güce bağlıdır. 1776'da Amerikan sömürgecileri vatandaş vergilerine güvendiler ve silahlar o kadar ucuz ve basitti ki neredeyse herkes bunları elde edebilirdi. Bu nedenle hükümet uzun süre gevşek kaldı. Ama günümüzde, bir hükümet dışında kim atom bombaları ve uzay roketleri yapabilir? Böylece mutlak durumlar elde ediyoruz."
+
+* * * * *
+
+Lancaster etrafına baktı, yalnızlığın kendisini sardığını hissetti.
+Şoför hala kahve makinesini takırdatıyordu. Tek kollu adam
+tamamen boş ve ifadesizdi. Ve Berg orada oturmuş, gülümsüyor, o lanet olası
+kincilikleri döküyordu. Bu bir tür test miydi? Sadakatini mi sınadılar? Ne tür bir cevap bekleniyordu?
+
+"Biz demokratik bir milletiz ve sen bunu biliyorsun," dedi. Düşündüğünden daha
+zayıf çıktı.
+
+"Ah, peki, elbette. Bu sadece alışılmadık derecede uzun süren bir olağanüstü hal, tam olarak yetmiş iki yıl. Üçüncü Dünya Savaşı'nı
+kaybetmemiş olsaydık ve Sovyet dünyasını devirmek için güçlü bir yeniden militarizasyona
+ihtiyacımız olsaydı--ama öyleydi." Berg bir paket sigara çıkardı. "Duman mı? Sadece sana yıkıcıların neden bu kadar tehlikeli olduğunu açıklamaya çalışıyordum. Olmak zorundalar, yoksa hiçbir şansları olmazdı. Amerika Birleşik Devletleri hükümeti gibi büyük bir şeyi altüst etmeye kalktığınızda, bu her şeyi ya da hiçbir şeyi kapsayan bir tekliftir. Örgütlenmek için uzun zamanları oldu ve onlara yardım edecek çok büyük bir hoşnutsuz yüzdesi var."
+
+"Hoşnutsuzlar mı? Bak, Berg--yani, sen uzmansın ve tabii ki işini biliyorsun, ancak koşullar karşısında doğal bir insan homurdanması
+devrimci duygular anlamına gelmez. Bunlar o kadar da kötü zamanlar değil.
+İnsanların işi var ve ihtiyaçları karşılanıyor. Yarımküre Savaşları'nı tekrar
+istemiyorlar."
+
+"Standart devrimci argüman," dedi Berg sabırla, "isyancıların ulusu devirmeye çalışmadığı, sadece anayasal ve özgürlükçü hükümeti yeniden kurmaya çalıştıklarıdır. Dışarıdan yardım ve bazı sübvansiyonlar aldıkları genel olarak biliniyor, ancak bunların yalnızca Amerikan diktatörlüğünün egemen olduğu bir dünyadan bıkmış ülkeler olduğu ve küçük Latin Amerika ve Avrupa devletleri oldukları için bizi fethetmeyi
+düşünemeyecekleri iddia ediliyor. Elbette
+yıkıcı edebiyat görmüşsünüzdür."
+
+"Evet, öyle. Broşürlerini bulmamak elde değil. Her yerde.
+Ve--" Lancaster ağzını kapattı. Hayır, isyancı propaganda yayınlarını
+dinleyen üç iş arkadaşını tanıdığını itiraf edecekti. Bunlar aptal, zararsız çocuklardı - neden başlarını belaya sokup,
+belki de kampa gönderilsinler?
+
+* * * * *
+
+"Muhtemelen bu tür argümanların pek çok entelektüel ve sıradan insan üzerindeki etkisini takdir etmiyorsunuz," dedi Berg. "Doğal olarak yapmazdınız--eğer tutumunuz her zaman duygusuz olduysa,
+bu insanlar düşüncelerini size açmayacaklardır. Ve sonra
+satın alınmış adamlar ve gizlice içeri sokulan casuslar var ve--oh,
+ayrıntıya girmeme gerek yok. Tamamen sızıldığımızı söylemek yeterli,
+ve ajanlarının çoğunun kesinlikle kusursuz dosyaları var. Herkese
+neoskopi veremeyiz, biliyorsunuz--Güvenlik, yerinde kontrollere ve kilit personelin test edilmesine güvenmek zorunda. Sadece kuruluşlar bugün oldukları kadar
+büyüdüklerinde, gerçek bir kilit adam olma olasılığı yoktur ve alt kademelere stratejik olarak yerleştirilmiş birkaç casus
+çok fazla bilgi toplayabilir. Sonra gezegenlerdeki koloniciler var--onlar üzerindeki kontrolümüz her zaman gevşek olmuştur, çünkü
+başka bir şey değilse bile ulaşım ve iletişim zorlukları yüzünden. Ve dediğim gibi, yabancı güçler. İsviçre, Danimarka veya Venezuela gibi küçük bir ülke kendi başına pek bir şey yapamaz, ancak gizli bir uluslararası kaynak havuzu... Neyse, büyük, iyi finanse edilmiş, iyi organize edilmiş bir yeraltının varlığına inanmak için nedenlerimiz var, eğitimli savaşçılar, büyük gizli silah depoları ve 'başla' sözcüğünü beklemeye hazır sabotajcılar var -- huzursuz bir nüfustan ve ilk ayaklanmanın iyi sonuçlar vermesi durumunda onları takip edecek çok sayıda gizli sempatizandan bahsetmiyorum bile."
+
+"Ya da kötü, bakış açınıza bağlı olarak," diye sırıttı tek kollu adam.
+
+Lancaster dirseklerini dizlerine koydu ve alnını titreyen ellerin üzerine koydu. "Bütün bunların benimle ne alakası var?" diye itiraz etti. "Ben gizli bir casusluk hikayesinin kahramanı değilim. Gizli işlerde iyi değilim -- benden ne istiyorsunuz?"
+
+"Çok basit," diye cevapladı Berg sessizce. "Güç dengesi hala hükümette, çünkü diğer grupların toplayabileceğinden daha fazla gerçekten ağır silaha sahip. Alfabe bombaları,
+toplar, roketler, zırhlar, uzay gemileri ve uzay füzeleri. Görüyor musunuz? Sadece
+son araştırmalar savaşta yeni bir dönemin geliştiğini öne sürüyor -- Makedonya falanksı, barut ve uçaklar kadar belirleyici yeni bir silah." Lancaster gözlerini kaldırdığında, Berg'in bakışlarında neredeyse ateşli bir parıltıyla karşılaştı. "Ve _bu_ silah bu eğilimi tersine çevirebilir. Herkesin yapıp kullanabileceği ucuz ve basit bir kol olabilir - eşitleyici! Bu yüzden isyancılardan önce onu geliştirmeliyiz.
+Kendi laboratuvarları var ve sırlarımızı çalma becerileri, araştırmayı her zamanki gibi bir Projeye emanet etmemizi imkansız hale getiriyor. Bu silahı ne kadar az kişi bilirse o kadar iyi - çünkü
+yanlış ellerde - kıyamet anlamına gelebilir!"
+
+* * * * *
+
+Dünya'dan kaçış kısa sürdü, çünkü uzay laboratuvarı şu anda gezegenler arası mesafeler açısından çok uzakta değildi. Lancaster'a yörüngesi hakkında hiçbir şey söylenmemişti, ancak Dünya'dan yaklaşık bir milyon mil güneşe doğru bir yolu olduğunu ve ekliptiğe göre oldukça eğik olduğunu tahmin etti.
+Bu neredeyse mükemmel bir gizlilik sağlıyordu, çünkü hangi uzay gemisi normalde gezegenleri içeren bölgenin çok kuzeyine veya güneyine giderdi ki?
+
+Yolculuk sırasında yörünge rakamlarını tahmin edemeyecek kadar meşguldü,
+zaten. Açık alanın yeterince resmini görmüştü ve bazıları mükemmeldi. Ancak gerçeklik tüm tasvirlerin inanılmaz derecede üzerinde yükseliyordu. Bu çıplak ihtişamı tarif etmenin hiçbir yolu yok ve bir kez deneyimledikten sonra denemek istemiyorsunuz.
+Arkadaşları -Berg ve uzay gemisini kullanan tek kollu Jessup- onun sessizliğe olan ihtiyacına saygı duyuyorlardı.
+
+İstasyon, sıcaklığın kontrolünü zorlaştıran ancak varlığının kazara gözlemlenmesini neredeyse imkansız hale getiren, yansımayan siyaha boyanmıştı. Yıldızların soğuk ihtişamına karşı
+en büyük karanlığın çukuru gibi belirdi ve Jessup tekneyi radarla içeri yönlendirmek zorundaydı.
+Son kilit arkasından kapandığında ve gökyüzünden uzakta dar bir metal koridorda durduğunda, Lancaster dayanılmaz bir kayıp
+hissi
+duymuştu .
+
+Bu his kayboldu ve başkalarının onu izlediğinin farkına vardı. Yarım düzine kişi vardı, herhangi bir eski püskü giysi giymiş, Proje ekibinin yarı askeri disiplininden hiçbir iz olmayan rengarenk bir grup. Arka planda bir Marslı süzülüyordu ve Lancaster onu ilk başta fark etmedi. Berg insanları gelişigüzel bir şekilde tanıttı. Friedrichs adında tıknaz, gri saçlı bir adam, Isaacson adında sıska, uzayda bronzlaşmış genç bir adam, Hwang'a cevap veren sessiz bir Doğulu olan Dufrere adında orta yaşlı bir kadın ve kocası ve Karen Marek olarak tanıtılan kızıl saçlı bir kadın vardı. Berg, bunların Lancaster'a yardım edecek teknisyenler olduğunu açıkladı. Uzay istasyonunun bu ucu laboratuvarlara ve fabrikalara ayrılmıştı; güvenlik nedeniyle Lancaster'ın başka bir yere gitmesine izin verilmiyordu, ancak burada rahat edeceği umuluyordu.
+
+"Şey--affedersiniz, siz oldukça karışık bir grup değil misiniz?" diye sordu fizikçi.
+
+"Evet, çok," dedi Berg neşeyle. "Dufrere'ler Fransız, Hwang Çinli ve Karen Norveçli, ancak kocası Çek. Ayrıca... İşte buradasınız, sizi daha önce görmemiştim! Dr. Lancaster, Mars'ın Thyle şehrinden Rakkan ile tanışmanızı istiyorum, çok yetenekli bir laboratuvar görevlisi."
+
+* * * * *
+
+Lancaster yutkundu, ayaklarını oynattı ve küçük gri tüylü vücuda ve gagalı baykuş yüzüne garip garip baktı. Rakkan nazikçe eğildi, Lancaster'ı pençe gibi elini sıkma kararından kurtardı. Rakkan'ın birinin kölesi olduğunu varsaydı - ama köleler ne zamandan beri sosyal olarak eşit davranıyorlardı?
+
+"Ama bu projenin çok gizli olduğunu söyledin!" diye patladı.
+
+"Ah, öyle," diye gülümsedi Karen Marek. Boğuk, hoş bir sesi vardı ve gerçekten yakışıklı olmak için biraz fazla zayıf olsa da, iyi bir
+kalıptan çıkmıştı ve gözleri iri, gri ve güzeldi. "Sizi temin ederim, Amerikalı olmayanlar bir sırrı saklama konusunda oldukça yeteneklidir. Aslında çoğu Amerikalıdan daha fazla - Dünya'da bağlarımız yok. Konuşacak kimsemiz yok."
+
+"Bugün pek bilinmiyor ama ilk atom bombalarını inşa eden orijinal Manhattan Projesi oldukça uluslararası bir karaktere sahipti," dedi Berg. "Hatta Alman, İtalyan ve Macar unsurlarını da içeriyordu, ancak Amerika Birleşik Devletleri bu ülkelerle savaş halindeydi."
+
+"Gelin, sizi odanıza yerleştirelim," diye davet etti
+Isaacson.
+
+Lancaster, tüm bu işten oldukça sersemlemiş bir şekilde, onu uzun koridorlarda takip etti.
+Uzay istasyonunun, sanki mevcut
+malzemelerden aceleyle bir araya getirilmiş gibi, kaba,
+tamamlanmamış bir görünüme sahip olduğunu fark etti. Bu, ne kadar gizli olursa olsun, bir hükümet
+kuruluşu için doğru değildi.
+
+Berg, düşüncelerini tekrar okumuş gibiydi. "Çok ciddi
+engeller altında çalıştık," dedi. "Bakın, çok sayıda değerli malzeme ve
+ekipmanın uzaya taşındığını varsayalım. Sıradan bir hükümet anlaşmasıysa,
+kaç ışık yılı bürokratik engel olduğunu biliyorsunuz. Talepler
+üç nüsha olarak doldurulmalı, her perçin hesaba katılmalı--bir asi casusun bize
+bir ipucu yakalaması için çok fazla şans olurdu. Her açıdan daha güvenliydi,
+diğer gezegenlerden hurda veya bireysel satın alımlarla elde edilebilecek her türlü malzemeyi kullanmak. _Waikiki_'yi hiç duydunuz mu?"
+
+"Şey--öyle görünüyor--yıllar önce kaybolan büyük yük gemisi değil miydi o?"
+
+"İşte o. Venüs'e giderken bir meteor sürüsü ona çarptı.
+Dahası, bunlardan biri motor kontrollerini kısa devre yaptırdı, böylece
+ekliptik düzlemden çıktı ve eksantrik bir eğik yörüngeye düştü. Bu proje ilk başladığında, gökbilimcilerimizden biri
+sürüyü tanımladığını düşünmüştü -güneşin etrafında kendi düzenli bir yolu var,
+ancak yörünge o kadar çarpık ki uzay gemileri neredeyse hiç bu şeyleri göremiyor. Neyse, o zamanlar meteorların ve
+_Waikiki_'nin yörüngesini bildiğinden, felaketin nerede meydana gelmiş olabileceğini hesaplayabiliyordu -bu da bize hulk'u aramada bir ipucu verdi. Uzun bir araştırmadan sonra onu bulduk, buraya taşıdık ve istasyonu
+etrafına kurduk. Çok kullanışlı. Ve tamamen gizli."
+
+Lancaster, Güvenlik'in biraz deli olduğundan her zaman şüphelenmişti. Şimdi bunu
+biliyordu. Oh, peki--
+
+* * * * *
+
+Odası küçük ve sadeydi, ancak mahremiyet güzeldi. Laboratuvar ekibi
+ortak bir yemekhanede yemek yiyordu. Bölgelerinin sınırının ötesinde, büyük
+bölmeler uzay istasyonunun dörtte üçünü kapatıyordu. Lancaster, orada birçok insan ve birkaç Marslının yaşadığından emindi, çünkü sonraki günlerde, bölgede kendisine izin verilen
+birçok yabancının belirip kaybolduğunu
+gördü. Bunların çoğu, laboratuvar ekibine gerektiğinde yardım etmek için çağrılan bir tür işçiydi, ancak hepsi
+ağızlarını sıkı tutuyordu. Misafirle kesinlikle gerekenden fazla konuşmamaları konusunda uyarılmış olmalılar.
+
+İstasyonda yaşam Spartalıydı. Ağırlık kazandıracak kadar hızlı dönüyordu, ancak dış yüzeyde bile Dünya yerçekiminin sadece yarısı kadardı.
+Birkaç sessiz Marslı, ayırt edilemeyen yemekler hazırladı ve evlerde
+ev işi yapıyordu. Film veya başka organize eğlence yoktu, ancak Lancaster'a yasaklı sektörün atletizm için iyi büyüklükte bir oda içerdiği söylendi.
+
+Ancak birlikte çalıştığı ekip bunu umursamıyor gibiydi. Birbirlerinden ödünç aldıkları kendi büyük kitap ve müzik kabloları koleksiyonları vardı. Vahşi bir beceriyle satranç ve poker oynuyorlardı. Sohbet, ilk başta, Lancaster'ın yanında biraz kısıtlıydı ve mizahın çoğu bildiği şeylere o kadar az gönderme yapıyordu ki takip edemiyordu.
+Ancak Dünya'daki arkadaşlarından daha canlı ve zekice konuştuklarının farkına vardı. Davranışlar tamamen gayriresmîydi ve çok geçmeden Lancaster'a bile adıyla hitap ediliyordu; ancak iş birliği sorunsuzdu ve tipik bir Proje ekibinin entrika ve dedikodusu yoktu.
+
+Ve iş hayatlarını dolduruyordu. Lancaster, geldikten sonraki "gün" buna kapılmıştı, bunun ne anlama geldiğini hemen anladı ve bunun büyüsüne kapıldı. Berg yalan söylememişti; bu büyük bir şeydi!
+
+Mükemmel dielektrik.
+
+En azından projenin amacı buydu. Lancaster'a, Dr. Sophoulis'in olasılıkları ilk gördüğü ve araştırmayı organize ettiği açıklandı. Gerekli malzemelerin ve uzman personelin eksikliği nedeniyle yavaş ilerledi. Sophoulis öldüğünde, asistanlarından hiçbiri işi makul bir hızda sürdürebilecek kapasitede hissetmedi. Hepsi çeşitli uzmanlık alanlarında yetenekliydi, ancak temel araştırma yapmak için eğitimden daha fazlası gerekir; doğuştan gelen, sezgisel bir yetenek gerekir. Bu yüzden Dünya'ya yeni bir patron için Lancaster'ı gönderdiler.
+
+Fizikçi şaşkınlıkla kafasını kaşıdı. Bu kadar önemli bir şeyin teknik personelin artıklarını alması doğru görünmüyordu. Gizlilik olsun ya da olmasın, Dünya'nın en yetenekli adamları
+bu iş için seçilmeliydi ve
+bu işi başarmak için ihtiyaç duydukları her şey onlara verilmeliydi. Sonra
+işin temiz, soğuk coşkusunda şaşkınlığını unuttu.
+
+* * * * *
+
+İnsan uzun zamandır üstün dielektrikler arıyordu.
+Bu,
+mükemmel elektrik yalıtkanını bulmaktan daha fazlasıydı,
+ama bu da işe yarardı. Gerçekten önemli olan,
+gerçekten iyi bir dielektrik malzemeyle mümkün kılınan
+yoğuşturucu türüydü. Bunu göz önünde bulundurarak, elektronikte
+harika şeyler yapılabilirdi. En önemlisi
+enerji depolaması meselesiydi. Küçük hacimli bir akümülatörde, önemli bir sızıntı kaybı olmadan büyük miktarda elektrik depolayabilseydiniz, ortalama yük yerine tepe yükü idare edecek şekilde tasarlanmış jeneratörler inşa edebilirdiniz - bunun sonucunda maliyette tasarruf sağlardınız; kendi enerji kaynaklarına sahip ve dolayısıyla taşınabilir elektrik motorları inşa edebilirdiniz - bu da elektrikli otomobiller ve muhtemelen uçaklar anlamına geliyordu; uzak şelaleler gibi uygunsuz bir şekilde konumlandırılmış güç kaynaklarını veya güneş ışığı gibi seyreltik kaynakları, azalan yakıt ve bölünebilir mineral rezervlerini artırmak -belki de sonunda değiştirmek- için kullanabilirdiniz; ... Lancaster'ın zihni önünde açılan tüm olasılıklardan vazgeçti ve hemen elindeki işe odaklandı. 
+"Orijinal mineral, Gorbu-vashtar ülkesindeki Venüs'te bulundu," diye açıkladı Karen Marek. "İşte bir örnek." Ona sert gökkuşağı ışık noktalarında parıldayan pürüzlü, yoğun bir madde parçası verdi. "Başlarda sadece bir meraktı, ta ki birisi elektriksel özelliklerini test etmeyi düşünene kadar. Bunlar biraz fantastikti. Elbette bu maddeyle ilgili tüm kimyasal ve fiziksel verilere zaten sahibiz ve ayrıca kristal yapısı hakkında mükemmel bir fikrimiz var. Baryum ve titanyum bileşiklerinin bazı nadir toprak elementleriyle komik bir karışımı ve--peki, raporu kendiniz okuyun."
+
+Lancaster'ın gözleri ona uzattığı kağıt destesini aşağı doğru kaydırdı. "Bundan çok iyi kondansatörler yapamazsınız," diye itiraz etti. "Çok kırılgan--ve özelliklerin sıcaklığa göre nasıl değiştiğine bakın. Pratik bir dielektrik
+her bakımdan kararlı olmak zorundadır, en azından onu kullanmayı düşündüğünüz koşullar aralığında."
+
+Başını salladı.
+
+"Elbette. Neyse, mineral Venüs'te çok nadirdir ve Gorbu-vashtar'da herhangi bir şey aramanın ne kadar zor olduğunu bilirsiniz. Önemli olan Sophoulis'e verdiği kurşundur. Görüyorsunuz ya, bu malzemenin dielektrik sabiti hiç de sabit değil. Uygulanan voltajla _artıyor_. Şu eğriye bakın."
+
+Lancaster ıslık çaldı. "Ne şeytan--ama bu imkansız! Bu kadar
+değişkenlik, esnek bir kristal yapı anlamına geliyor, kahretsin!
+Ama burada kırılgan bir madde var--"
+
+Kabul edilen dielektriklik teorisine göre, bu olamazdı.
+Lancaster damarlarında bir vuruşla teorinin
+değiştirilmesi gerektiğini fark etti. Aksine, bu normal yalıtımdan tamamen farklı bir fenomendi.
+
+Mineralin jeolojik bir ucube tarafından oluşturulduğunu varsaydı. Venüs zaten
+tuhaf bir gezegendi. Ama bunun önemi yoktu. Önemli olan şimdi bu süreci tanımaktı. Kuantum mekaniği, salınım teorisi ve karmaşık değişkenli periyodik fonksiyonlar hakkında mutlu bir sisin içine daldı.
+
+Karen ve Isaacson yavaşça gülümsediler.
+
+* * * * *
+
+Sophoulis ve ekibi olumsuz koşullar altında kahramanca bir iş çıkarmıştı.
+Konuyla ilgili geçici bir teori zaten formüle edilmişti ve süper dielektrikliği insanın ihtiyaçlarına daha uygun malzemelerde kopyalamanın bir yolunu aramaya başlamıştı.
+Ancak Lancaster, yer ve işe alıştıkça koşulların gerçekte ne kadar olumsuz olduğunu merak etti.
+
+Doğru, ekipman eski ve huysuzdu, çoğu birbirine karışmıştı, çoğu sıfırdan icat edilmişti. Ancak Marslı Rakkan, resmi eğitim eksikliğine rağmen, cihaz yapma ve onu harekete geçirme konusunda inanılmaz derecede zekiydi ve Friedrichs birinci sınıf bir tasarımcıydı. Laboratuvar ihtiyaç duyduğu şeye sahipti--bu yeterli değil miydi?
+
+Lancaster'ın mürettebatının geri kalanı da aynı derecede iyiydi. Dufrere'ler
+mükemmel fiziksel kimyacılardı, Isaacson matematikte
+alışılmadık bir beyne sahip parlak bir kristalograf, Hwang kuantum teorisi ve atomlar arası kuvvetler konusunda uzman, Karen ise yaratıcı bir
+deneyciydi. Hiçbiri, genel bir resim ve işin genel yönüne dair bir öngörü için gereken sentezleme zihniyetine sahip değildi - bu Sophoulis'in payıydı ve şimdi Lancaster'ın payıydı - ancak hepsi neşeliydi ve ayrıntılı işlere gelince yetenekliydi ve genellikle teorik bir çizgide önerilerde bulunabilirlerdi. Ayrıca, etrafta dolaşan bir Güvenlik, tanınma ve terfi için küçük bir mücadele, bürokrasi yoktu. Lancaster, daha da önemli olanın, tüm meselenin kişisel doğası olduğunu fark etmeye başladı. Bir Projede, genel şef, deseni belirler ve siz alt rütbelere doğru ilerledikçe, giderek daha az serbestlikle astları tarafından takip edilirdi. Size söyleneni yapardınız, sonuç üretirdiniz veya başka türlü olurdu ve Projenin kendi sektörünüzün dışında ağzınızı kapalı tutardınız. Aslında neyin
+yaratıldığı, neden yaratıldığı ve toplumun genel şemasına nasıl uyduğu hakkında yalnızca belirsiz bir fikriniz vardı. Hwang ve Rakkan, Lancaster'ın huzurunda daha rahatlamış oldukları bir akşam yemeğinde, buna yorum yaptılar. "Sanırım bilimsel araştırmanın kurumsallaşması kaçınılmazdı," dedi Çinli. "Çok fazla ekipmana ihtiyaç vardı ve çok fazla uzmanlık koordine edilmeliydi, sadece birkaç asistanı olan yalnız bir dehanın şansı yoktu. Yine de yazık. Birçok gelecek vaat eden genç adamın inisiyatifini yok etti. En üstteki adam artık bir bilim insanı değil, biraz teknik geçmişi olan bir yönetici. Alt rütbeler de yaratıcılıklarını kullanmak zorunda, evet, ama sadece kendilerine emredilen şekilde. İlginç bir yan konu ortaya çıkarsa, bunu araştıramazlar. Tek yapabilecekleri şefe bir muhtıra sunmak ve büyük ihtimalle bir şey yapılacaksa bunu başkası yapacaktır." "Bunun için ne yapardınız?" diye omuz silkti Lancaster. "Az önce
+bir çatı katındaki eski zaman dehasının rekabet edemeyeceğini kabul ettin."
+
+"Hayır--ama her biri diğerinin alanlarını mükemmel bir şekilde anlayan ve her biri diğerleriyle gevşek, özgür iradeli bir işbirliği içinde çalışan küçük yaratıcı uzman ekibi rekabet edebilir. Gerçekten de sonuçlar çok daha iyi olacak. Bir kere denendi, biliyor olabilirsin. İlk sibernetikçiler, geçen yüzyılda, bu şekilde çalıştılar."
+
+"Keşke bazı biyologları ve psikologları buna dahil edebilseydik," diye mırıldandı Rakkan. İngilizcesi iyiydi, ancak ses aygıtı tarafından tarif edilemez şekilde vurgulanıyordu. "Dielektrikliğin hücresel ve sinirsel etkileri umut verici görünüyor. Belki daha sonra."
+
+"Eh," dedi Lancaster savunmacı bir şekilde, "büyük bir Proje daha güvenli hale getirilebilir--sızıntı olasılığı daha az."
+
+Hwang hiçbir şey söylemedi, ancak neredeyse ihanete varan bir şekilde kaşını kaldırdı.
+
+* * * * *
+
+Sophoulis'in denklemlerini incelerken, Lancaster ilerlemeyi engelleyen
+kusur olduğuna inandığı şeyi buldu. Adam, görelilik etkileri için düzeltme yapılmadan basitleştirilmiş bir kuantum mekaniği kullanmıştı. Bu, daha düzgün bir matematik sağlıyordu ancak psi fonksiyonunun belirli uzay-zaman yönlerini göz ardı ediyordu. Hata mazur görülebilirdi, çünkü Sophoulis, aksi takdirde anlaşılmaz bir kaos olan şeye düzen getiren matematiksel bir araç olan Belloni matrisine aşina değildi. Belloni'nin çalışması hala sınıflandırılmış bilgiydi, genel tüketim için yeni alaşımların tasarımında çok faydalıydı. Lancaster, denklemleri düzeltmek için mutlu bir şekilde çalışmaya başladı. Ancak bitirdiğinde, uygun izin olmadan sonuçlarını
+göstermesinin bir işi olmadığını fark etti.
+
+Somurtkan bir şekilde laboratuvara girdi. Karen orada tek başınaydı, bir sonraki ısıl işlem denemesi için bir cihaz kuruyordu. Bir önlük onu şekilsizliğe
+gömüyordu ve muhteşem saçları bir mendille toplanmıştı,
+ama yine de iyi görünüyordu. Utangaç bir adam olan Lancaster, ona
+istediğinden daha fazla duyarlıydı.
+
+"Berg nerede?" diye sordu.
+
+"Jessup ile Dünya'da," dedi ona. "Neden?"
+
+"Kahretsin! O dönene kadar bütün işi geciktiriyor." Lancaster
+zorluğunu açıkladı.
+
+Karen güldü. "Ah, sorun değil," dedi onun duymaktan hoşlandığı alçak sesle. "Hepimiz aklandık."
+
+"Resmi olarak değil. Belgeleri görmem gerek."
+
+Sonra ona dik dik baktı ve ayağını yere vurdu. "Kaşıkla beslenmeden
+ne kadar aptal olabilirsin?" diye çıkıştı. "Burada yönetmeliklere ne kadar
+düşündüğümüzü gördün. Hadi şu denklemleri yapalım, Mac."
+
+"Ama--kahretsin, Karen, sen güvenliğe olan ihtiyacı takdir etmiyorsun. Berg bana bir keresinde açıklamıştı--isyancıların ne kadar tehlikeli olduğunu ve
+sırlarımızı ne kadar kolay çalabildiklerini. Ve hiçbir şeyden çekinmeyecekler. Başka bir Yarımküre Savaşı mı istiyorsun?"
+
+Ona tuhaf bir şekilde baktı ve konuştuğunda yumuşaktı. "Allen, buna
+gerçekten inanıyor musun?"
+
+"Elbette! Çok açık, değil mi? Ülkemiz Güneş Sistemi'nin barışını koruyor--dizginleri bıraktığımızda, cehennem bizden kaçacak."
+
+"Dünya çapında bir ülke federasyonu kurmanın nesi yanlış? Diğer
+ülkelerin çoğu buna istekli."
+
+"Ama bu--pratik değil_!"
+
+"Nereden biliyorsun? Daha önce hiç denenmedi."
+
+"Neyse, politikayı biz belirleyemeyiz. Bu bize göre değil."
+
+"Amerika Birleşik Devletleri demokratik bir ülke--hatırladın mı?"
+
+"Ama--" Lancaster bakışlarını kaçırdı. Bir an konuşmadan durdu ve kadın onu ciddi gözlerle izledi ve hiçbir şey söylemedi. Sonra, neden yaptığını gerçekten bilmeden, meydan okuyan bir şekilde başını kaldırdı. "Tamam! Devam edeceğiz--ve
+Berg hepimizi kampa gönderirse, beni suçlama."
+
+"Göndermeyecek." Güldü ve omzuna vurdu. "Biliyor musun, Allen,
+bazen senin insan olduğunu düşünüyorum."
+
+"Teşekkürler," diye alaycı bir şekilde sırıttı. "Ne dersin--şey--şimdi benimle bir--bira içmeye ne dersin? Kutlamak için."
+
+"Elbette."
+
+* * * * *
+
+Dükkana indiler. Bir soğutucu bira vardı orada, içindekiler
+Jessup'ın Dünya'dan getirdiği temel malzemeler arasında sayılıyor. Lancaster iki şişenin kapağını açtı ve o ve Karen bir
+banka oturdular, bacaklarını sallayıp sessiz, bekleyen
+makinelere baktılar. İstasyon personelinin çoğu şimdi görev başında değildi, keyfi "gecede".
+
+Sonunda iç çekti. "Burayı seviyorum."
+
+"Beğenmene sevindim, Allen."
+
+"Komik bir yer ama hoşuma gidiyor. İstasyon ve tüm çılgın
+sakinleri. Şeytan kadar heterodokslar ve memleketlerinde köpek yakalayıcısı işi bulmakta zorluk çekerlerdi ama hepsi ferahlatıcı."
+Lancaster parmaklarını şıklattı. "Demek bu kadar! Hepinizin
+burada olmanızın sebebi bu. Hükümetin yeteneklerinize ihtiyacı var ve siz pek güvenilir değilsiniz, bu yüzden casusların ulaşamayacağı bir yere
+gönderildiniz. Değil mi?"
+
+"Her yatağın altında elinde not defteri olan bir asi mi görmek zorundasın?" diye sordu biraz yorgun bir ifadeyle. "Birinci Değişiklik henüz
+iptal edilmedi, diyorlar. Teorik olarak hepimizin kendi
+fikirlerine hakkımız var."
+
+"Tamam, tamam, siyaset tartışmayacağım. Bana buradaki insanlardan
+bahseder misin? Garip bir grup."
+
+"Sana fazla bir şey söyleyemem, Allen. Güvenlik tam da burada devreye giriyor.
+Isaacson bir Mars kolonisti, bunu muhtemelen tahmin etmişsindir.
+Jessup bir zamanlar bazı düşmanlarla yaptığı bir kavgada elini kaybetti. Dufreres'lerin
+Fas olayında öldürülen bir oğlu vardı." Lancaster, o olayın Kuzey Afrika'da merkezlenen bir Fransız casus şebekesini ezmek için kullanılan Amerikan gücüyle ilgili olduğunu hatırladı. Egemenlik bir kenara atılmıştı. Ama
+kahretsin, en azından kendi hayatta kalman için statükoyu korumak zorundaydın. "Hwang, birkaç yıl önce Çin hükümeti el değiştirdiğinde sürgüne gitmek zorunda kaldı. Ben--"
+
+"Evet?" diye sordu, sesi kısıldığında.
+
+"Ah, sana anlatsam iyi olur. Kocam ve ben evlendikten sonra Amerika'da yaşadık. İyi bir biyoteknisyendi ve büyük ilaç şirketlerinden birinde işi vardı. Sadece o--kamplara gitti. Daha sonra öldü ya da
+vurulup gitti, hangisi olduğunu bilmiyorum." Kadının sözleri düzdü.
+
+"Bu utanç verici," dedi yetersiz bir şekilde.
+
+"Komik olan tarafı, hiç de vatana ihanet etmemiş olması.
+-Olduğu gibi her şeyden oldukça memnundu--ah, biraz konuşuyordu ama
+herkes öyle. Sanırım bir rakip ya da düşman ona parmak bastı. "
+
+"Bu şeyler olur," dedi Lancaster. "Çok kötü, ama oluyorlar."
+
+"Bir polis devletinde mutlaka olur," dedi. "Üzgünüm. Politika
+tartışmayacaktık, değil mi?"
+
+"Dünyanın mükemmel olduğunu hiç söylemedim, Karen. Kesinlikle değil. Sadece
+alternatifimiz ne? Herhangi bir değişiklik o kadar tehlikeli olabilir ki--yani, insan hata yapmayı göze alamaz."
+
+"Hayır, göze alamaz. Ama merak ediyorum, şu anda bir hata yapmıyor mu. Neyse. Bana bir bira daha ver."
+
+Karen yatma vakti olduğunu söyleyene kadar ilgisiz konulardan konuştular.
+Lancaster onu dairesine kadar eşlik etti. Karen iyi geceler derken ona merakla baktı
+ve sonra içeri girip kapıyı kapattı. Lancaster
+uyumakta zorluk çekti.
+
+* * * * *
+
+Düzeltilmiş denklemler, süper dielektrikliğin yeterli bir teorisini sağladı -- diğer fenomenler hakkında cezbedici ipuçları içeren bir teori -- ve araştırma ekibine kristal yapı konusunda ne istediklerine dair kesin bir fikir verdi. Aslında, oluşturulacak madde sadece yarı kristaldi, plastik özelliklere de sahipti ve hepsi karbon bağlantılı atomlardan oluşan bir ızgarayla iç içe geçmişti. Şimdiki numara o şeyi üretmekti. Hesaplama, hangi elementlerin gerekli olacağını ve hangi mekansal düzenlemenin -- atomların gerekli konfigürasyonu almasını ve doğru şekilde bağlanmasını nasıl sağladınız?
+
+Teori sizi ancak bir yere kadar götürürdü, bundan sonra kesip denemeye karar verdiniz.
+Lancaster yuvarladı geri kalanıyla kollarını sıvadı ve Karen'ın liderliği devralmasına izin verdi--o en iyi deneyciydi. Birkaç muhteşem
+ve neredeyse uykusuz hafta geçirdi, yağlı, kirli, huzursuz bir hesap cetveliyle
+çılgın bir cihaz ormanında yaşayarak. Bir sürü
+başarısızlık, çok fazla kalp kırıklığı ve küfür, ara sıra bir yaralanma oldu--ama
+devam ettiler ve oraya ulaştılar.
+
+Karen'ın, ısıyla yaşlandırıldığı fırından koyu renkli, parlayan bir madde levhasını çıkardığı gün geldi--yoksa gece miydi?--Rakkan, test etmek için onu birkaç parçaya böldü.
+Elektrik özellikleri üzerinde çalışan Lancaster'dı.
+
+Jeneratörü inleyene kadar voltaj uyguladı ve
+metrelerin durma belirtisi olmadan
+yükselip yükselmesini hayranlıkla izledi. Birikmiş enerjiyi, laboratuvarı
+gök gürültüsü ve ozonla
+dolduran tek bir mavi alevle boşalttı. Elektrik sinyalinin zaman gecikmesini test etti ve
+yorgun yolunda uyumak gibi hissettirip hissettirmediğini çılgınca merak etti.
+
+Raporlar geldi, uzun, dağınık odanın bir ucundan diğerine heyecanlı bağırışlar, coşkulu haykırışlar ve birbirlerinin sırtına
+vuran adamlar. İşte bu! Gökkuşağının ucundaki hazine buydu.
+
+* * * * *
+
+Madde ve özellikleri fiziksel ve kimyasal olarak yüzlerce derecelik bir sıcaklık aralığında kararlıydı. Bozulma voltajı
+milyonlara ulaşmıştı. Yalıtım direnci Dünya biliminin en iyi bildiğinden daha iyiydi.
+
+Dielektrik sabiti, uygulanan voltaj gradyanına dik basit bir elektrik alanıyla istenildiği gibi değiştirilebilirdi--gerekirse birkaç kuru hücre tarafından üretilebilen bir alan--ve yüz binden yaklaşık üç milyara kadar değişirdi. Pratik amaçlar için, işte nihai dielektrik.
+
+"Başardık!" Friedrichs, Lancaster'ın sırtına kaburgalarının çatlayacağını hissedene kadar vurdu. "Bulduk!"
+
+"Ooppee!" diye bağırdı Karen.
+
+Birdenbire el ele tutuşup indüksiyon ocağının etrafında aptalca dans etmeye başladılar. Lancaster, Rakkan'ın pençelerini, bunun bir Marslı
+olduğunu umursamadan kavradı. Sonra şarkı söylediler, kapıda başlar belirene
+ve cam eşyalar titreyene kadar şarkı söylediler.
+
+_İşte dut çalılığının etrafından dolaşıyoruz,
+Dut çalılığı, dut çalılığı--_
+
+Bir kutlama gerektiriyordu. Bir Projenin sonu, son bir rapor hazırlamaktan ve bir sonraki görevi beklemekten başka bir şey ifade etmiyordu, ancak burada işler farklı şekilde yürütülüyordu. Birisi bir kasa Venüs
+aguacaliente çıkardı. Başka biri bir depoya doğru yol aldı, içindekileri
+holün içine attı ve kullanılmış bilgisayar bantlarıyla süsledi. Rakkan Marslı onurunu unuttu ve kare dansı için uğraştı,
+Isaacson da çağrıyı yapıyordu. İstasyonun diğer ucundaki halk
+yer taşana kadar içeri akın etti. Oldukça eğlenceliydi.
+
+Saatler sonra, Lancaster yerde uzanmış yattığının belirsiz bir şekilde farkındaydı.
+Başı Karen'ın kucağındaydı ve saçlarını okşuyordu.
+Sağlam
+kurtulanlar, bilinen evrendeki en iyi Fransız içki şarkılarıyla Dufreres'leri takip ediyorlardı.
+Rakkan'ın kemanı içeri ve dışarı doğru örülüyordu,
+eğitimsiz ama zaferle zengin ve canlı hale gelen seslere hoş bir eşlik ediyordu.
+
+_"Sur ma tomb' je veux qu'on inscrive:
+'Ici-git le roi des buveurs.'
+Sur ma tomb' je veux qu'on inscrive:
+'Ici-git le roi des buveurs.
+Ici-git, oui, oui,
+Ici-git, non, non, non--'"_
+
+Lancaster daha önce hiç gerçekten mutlu olmadığını biliyordu.
+
+* * * * *
+
+Berg birkaç gün sonra endişeli bir şekilde ortaya çıktı. Lancaster'ın
+tatil zamanı neredeyse bitmek üzereydi. Haberi duyduğunda, gözleri neşeyle
+
+flaşıp fizikçinin elini sıktı. "İyi iş, evlat!"
+
+"Daha temizlenmesi gereken şeyler var," dedi Lancaster, "ama hepsi
+ayrıntı. Herkes yapabilir."
+
+"Ve malzeme--ne diyorsun ona, zaten?"
+
+Karen sırıttı. "Şimdiye kadar, ona sadece _ffuts_ adını verdik," dedi. "Bu,
+'stuff' kelimesinin tersten yazılışı."
+
+"Tamam, tamam. Üretimi kolay mı?"
+
+"Elbette. Artık nasıl yapılacağını öğrendiğimize göre, herkes kendi evinde yapabilir -eğer
+eğer aletleri bir araya getirmede becerikliyse."
+
+"Tamam, tamam! Tam da ihtiyacımız olan şey. Bilet bu." Berg, Lancaster'a döndü. "Tamam, evlat, artık eşyalarını toplayabilirsin. Birkaç saat sonra tekrar patlatırız."
+
+Fizikçi ayaklarını sürüdü. "Buraya tekrar atanma şansım nedir?" diye sordu. "Çok beğendim. Ve artık
+her neyse bunu bildiğime göre--"
+
+"Bakacağım. Bakacağım. Ama unutma, bu çok gizli. Sen normal
+işine dön ve bu konuda Başkan'dan başkasına tek kelime etme -ne olursa olsun, anladın mı?"
+
+"Elbette," diye çıkıştı Lancaster, sinirlenerek. "Görevimi biliyorum."
+
+"Evet, sen de biliyorsun." Berg içini çekti. "Öyle yapıyorsun."
+
+Ayrılmak, ilgili herkes için zordu. Sessiz, utangaç adama düşkün olmuşlardı ve ona gelince, normal insanlarla
+nasıl geçineceğini merak ediyordu. Bunlar onun tipiydi. Karen açıkça ağladı ve sonradan rüyalarını
+rahatsız eden bir şevkle ona veda öpücüğü verdi. Sonra
+yalnız başına odasına geri döndü. Berg bile asık suratlı görünüyordu.
+
+Yine de eve dönüş yolculuğunda kendine güvenini yeniden kazandı ve
+tüm yol boyunca konuşmakta ısrar etti. Düşünceleriyle baş başa kalmak isteyen Lancaster sinirlendi, ama bir Güvenlik görevlisine hakaret edilmez.
+
+"Bu işin önemini ve neden gizli olması gerektiğini anlıyor musun?" diye sızlandı Berg. "Ben bilimsel ve endüstriyel uygulamaları değil, askeri olanları düşünüyorum."
+
+"Ah, tabii. İstersen yıldırım fırlatıcılar yapabilirsin. Ve
+yakıt sorununu
+aştın. Herhangi bir
+elindeki güç kaynağından şarj edilen birkaç _ffut_ akümülatörle,
+lojistiğini muazzam şekilde basitleştirecek yakıtsız askeri araçlar inşa edebilirsin. Ve gerçekten ölümcül bazı tabancalar inşa edilebilirdi--tabancalar neredeyse bir topun eşdeğeri."
+Lancaster'ın sesi kesilmişti. "Ne olmuş yani?"
+
+"Çok fazla! Bunlar sadece birkaç uygulama. Hayal gücünüzü kullanırsanız, düzinelercesini daha düşünebilirsiniz. Ve asıl nokta şu ki - _ffuts_ ve onu kullanan temel aletler, miktar olarak ucuza üretilebilir, kullanımı kolaydır - vatandaş asker için mükemmel bir silah. Ya da
+asi için! Bir savaşın sonucunu tek başına belirlemeye yeterli değil, ancak askeri dengeyi hükümete karşı
+değiştirecek ekstra unsur olabilir. Ve bunun ne anlama geldiğini daha
+önce tartıştım."
+
+"Evet, hatırlıyorum. Bu senin departmanın, benim değil. Sadece unutayım."
+
+"Daha iyi olur," dedi Berg.
+
+* * * * *
+
+Lancaster, dönüşünden sonraki ay her zamanki gibi yaşadı. Projeye karşı artan dalgınlığı ve isteksizliği nedeniyle birkaç kez azarlandı, ancak bu çok ciddi değildi. Her zamankinden daha içe dönük oldu. Uyumakta biraz zorluk çektiği için,
+uyku haplarına ve ardından vahşi bir tepki olarak uyarıcılara başvurdu.
+Ancak dışarıdan bakıldığında içindeki kargaşayı gösterecek çok az şey vardı.
+
+Ne düşüneceğini bilmiyordu. Her zaman sadık bir vatandaş olmuştu - fanatik değil, sadıktı - ve kendi temel varsayımlarını sorgulaması onun için kolay değildi. Ancak normal olarak kabul ettiği şeyden tamamen farklı bir şey deneyimlemişti ve bu garipliği normalden daha uyumlu - her bakımdan daha insani - bulmuştu. Farklı bir
+atmosfer solumuştu ve Dünya'nın havasının kirli olduğu ona kaçınılmaz geliyordu. Kipling'in _Chant-Pagan_ kitabını yeni bir anlayışla tekrar okudu ve ihmal edilmiş felsefeleri araştırmaya başladı. Haberleri ayrıntılı olarak inceledi ve eleştirel gözü kısa sürede sararmaya başladı - bu başyazı veya o özel hikaye herhangi bir anlamsal içeriğe sahip miydi yoksa sadece yüklü çağrışımların bir tom-tom ritmi miydi? Gerçek ifadelerin kendisi bile şüpheye tabiydi - diğer açıklamalarla veya daha iyisi doğrudan gözlemle karşılaştırılmalıydı; ancak diğer açıklamalar yasaktı ve kendi gözleriyle görme şansı yoktu. 
+
+İsyankar broşürleri biraz dikkatle okumaya başladı ve bir dizi yeraltı yayını dinledi ve asi düşüncelerden şüphelendiği tanıdıklarınınkileri beceriksizce yoklamaya çalıştı. Bunların hepsi çok dikkatli bir şekilde yapılmalıydı, ara sıra casusluk yapıldığını düşündüğü kabus anları oluyordu; ve bir adamın muhalif bir görüşü duymaktan korkması doğru muydu? Oğlunun ne yaptığını merak etti. Modern
+eğitimin büyük ölçüde bağımsız düşünceyi köreltmek için var olduğu aklına geldi.
+
+Aynı zamanda, tüm
+hayatının inançlarını bir kenara atamadı. İsyan, isyana ve ihanet, ihanetti; bu gerçeğin
+kaçınılması mümkün değildi. Artık savaş yoktu; pek çok küçük çatışma vardı, ama gerçek savaş yoktu. İstikrarlı bir ekonomi vardı ve hiç kimse temel ihtiyaçlardan yoksun değildi.
+Evrensel devlet, sıkıntılı bir dönemin sorunlarına kötü bir çözüm olabilirdi, ama yine de bir çözümdü. Değişim
+akıl almaz derecede tehlikeli olurdu.
+
+Kime tehlikeli? Yerleşik güçlere ve onların çakallarına. Ama Dünya'nın ezilen halklarının gerçekten kaybedecek hiçbir şeyleri yoktu, sadece hayatları vardı ve birçoğu onları feda etmeye oldukça istekli görünüyordu. İnsan hakları
+dolu bir karınla ​​mı sınırlıydı, yoksa daha fazlası mı vardı?
+
+Sinizmde sığınmaya çalıştı. Sonuçta, hali vakti yerindeydi. Başarılı bir çakaldı. Ama bu da işe yaramazdı. Daha temel bir felsefeye ihtiyacı vardı.
+
+Onu geri tutan tek şey, asi olursa arkadaşlarıyla karşı karşıya geleceği düşüncesiydi - sadece Dünya'dakilerle değil, uzaydaki o garip neşeli mürettebatla. Onlara karşı savaştığını göremiyordu.
+
+Sonra, yeraltıyla nasıl iletişim kuracağına dair en ufak bir fikri olmadığı gibi çok pratik bir düşünce vardı.
+
+Ve çok kötü bir komplocu olurdu.
+
+Gözetmenler onu almaya geldiğinde hala mutsuz ve kararsız bir girdaptaydı.
+
+* * * * *
+
+Her zamanki gibi gece yarısı kapıyı çaldılar ve o kadar büyük bir panik hissetti ki daireyi geçip onları içeri alabilecek kadar zorlukla
+başarabildi. Dört iri yarı adam gözlerinin önünde sallanıyordu ve kafasında bir uğultu ve karanlık vardı. Onu törensiz bir şekilde vatana ihanet şüphesiyle tutukladılar, bu da habeas corpus'un ve hatta yargılanma hakkının geçerli olmadığı anlamına geliyordu. İkisi onu bir arabaya kadar eşlik etti, diğer ikisi evini aramak için kaldı.
+
+Karargâhta bir hücreye konuldu ve birkaç saat boyunca orada kalması sağlandı.
+
+Sonra federal polis üniforması giymiş iki adam onu ​​bir sorgu odasına götürdü. Kendisine bir sandalye verildi ve gülümseyen, yumuşak sesli bir adam - neredeyse babacan, tombul yanakları ve beyaz saçlarıyla - ona bir sigara
+ikrar etti ve onunla konuşmaya başladı.
+
+"Sadece rahatlayın, Dr. Lancaster. Bu oldukça rutin bir şey. Eğer saklayacak bir şeyiniz yoksa, korkacak bir şeyiniz de yok demektir. Sadece gerçeği söyleyin."
+
+"Elbette." Kuru bir fısıltıydı.
+
+"Ah, susamışsınız. Çok üzgünüm. Alec, Dr. Lancaster'a bir bardak su getirir misiniz, lütfen? Bu arada, adım Harris. Buna dostça bir
+konferans diyelim, ha?"
+
+Lancaster büyük bir iştahla içti. Harris'in tavrı silahsızlandırıcıydı ve fizikçi daha rahat hissetti. Bu--yani, sadece bir hataydı. Ya da belki basit bir
+rastlantısal kontrol. Korkulacak bir şey yok. Kampa gönderilmeyecekti--o değil. Bu tür şeyler başkalarının başına gelirdi, Allen Lancaster'ın değil.
+
+"Neoskopiye karşı aşılandınız mı?" diye sordu Harris.
+
+"Evet. Benim rütbem ve üstü için rutin bir şey, biliyorsunuz. Kaçırılmamız durumunda - ama bunu size neden anlatıyorum?" Lancaster gülümsemeye çalıştı.
+Yüzünde katılık vardı.
+
+"Hm. Evet. Çok kötü."
+
+"Elbette, yalan makinesi kullanmanıza
+hiç itirazım yok."
+
+"Tamam, tamam." Harris gülümsedi ve ifadesiz polislerden birine işaret etti. Bir masa tekerlekli sandalyeyle getirildi, üzerinde cihaz vardı. "Bu kadar işbirlikçi olmanıza sevindim, Dr. Lancaster. Bana ve size ne kadar dertten
+kurtardığını bilemezsiniz."
+
+Birkaç zararsız ayarlama sorusu sordular. Sonra Harris hala gülümseyerek, "Şimdi söyleyin bana, Dr. Lancaster. Bu yaz gerçekten
+neredeydiniz?" dedi.
+
+Lancaster kalbinin boğazına sıçradığını hissetti ve aniden
+kadranın tepkisini kaydettiğini dehşetle anladı. "Neden--tatilimi yaptım," diye kekeledi. "Güneybatı'daydım--"
+
+"Mmmm--makine seninle pek aynı fikirde değil." Harris
+şeytanca neşeli kaldı.
+
+"Ama bu _doğru_! Geri dönüp kontrol edebilirsin ve--"
+
+"Çiftler diye bir şey vardır, bilirsin. Hadi, hadi, şimdi, bütün geceyi
+boşa harcamayalım. İkimizin de yapacak çok şeyi var."
+
+"Ben--bak." Lancaster paniğini yutkundu ve sakince konuşmaya çalıştı. "Yalan söylediğimi varsayalım. Makine sana sadakatsizlikten dolayı bunu yapmadığımı söylemeli. İzin almadan kimseye söyleyemediğim şeyler var. Mesela bana Proje'deki çalışmalarım hakkında soru sorarsan, sana
+söyleyemem. Neden normal Güvenlik kanallarından kontrol etmiyorsun?
+Berg adında bir adam vardı, en azından kendine öyle diyordu.
+Güvenlik için her şeyin yolunda olduğunu göreceksin."
+
+"Bana her şeyi söyleyebilirsin," dedi Harris nazikçe.
+
+"Bunu sana söyleyemem. Başkan dışında kimseye." Lancaster
+kendini tuttu. "Elbette, bu gerçekten de yaz tatilimden başka bir şey için harcadığımı varsayıyor. Ama--"
+
+Harris iç çekti. "Bundan korkuyordum. Üzgünüm, Lancaster." Polislerine başını salladı. "Devam edin, çocuklar."
+
+* * * * *
+
+Lancaster bilincini kaybetmeye devam etti. Onu uyarıcı enjeksiyonlar ve kuvvetli tokatlarla hayata döndürdüler ve üzerinde çalışmaya devam ettiler. Arada sırada gevşerlerdi ve Harris'in yüzü acının pusundan sıyrılır, gülümser, arkadaş canlısı, sempatik olur, ona bir sigara veya bir kadeh viski teklif ederdi. Lancaster hıçkırdı ve dünyadaki her şeyden daha çok o nazik adamın istediğini yapmak istiyordu. Ama cesaret edemedi. Devlet sırlarını ifşa edenlere ne olduğunu biliyordu. Sonunda hücresine geri atıldı ve kendi haline bırakıldı. Baygınlığından kurtulduğunda -bu çok yavaş bir süreçti- kaç saat veya gün geçtiğini bilmiyordu. Odada bir su musluğu vardı ve susamışçasına içti, sıvıyı tekrar kustu ve başını ellerinin arasına alıp oturdu. Şimdiye kadar, diye düşündü donuk bir şekilde, ona pek bir şey yapmamışlardı. Kısaydı
+birkaç dişi vardı ve birkaç kırık parmak ve ayak parmağı vardı ve belki de
+yüzen bir böbrek. Diğer morluklar, kesikler ve yanıklar
+eğer şansları olursa iyileşirdi.
+
+Ancak iyileşmezlerdi.
+
+Güvenlik'in nasıl izini bulduğunu belirsiz bir şekilde merak etti. Berg'in
+önlemleri çok kapsamlıydı. Öylesine kapsamlıydı ki, görünüşe göre Harris
+o yaz gerçekten ne olduğuna dair hiçbir iz bulamadı ve
+sadece şüphe üzerine ilerliyordu. Ama onu ilk başta şüphelendiren neydi? İsimsiz bir ihbar - kimden? Belki de Proje'deki bir düşman, bir rakip, sektör şefinden kurtulmak için bu yolu seçmişti.
+
+Sonunda, Lancaster yorgun bir şekilde, anlatacağını düşündü. Neden şimdi yapmasındı ki?
+
+O zaman -muhtemelen- sadece Berg'in güvenini sarstığı için vurulacaktı. Bu
+kolay çıkış yolu olurdu.
+
+Hayır. Bir süre daha dayanacaktı. Her zaman zayıf bir ihtimal vardı.
+
+Hücresinin kapısı açıldı ve içeri iki gardiyan girdi. Onlardan ürkecek durumda değildi, ancak sorgu odasına giderken destek alması gerekiyordu.
+
+Harris orada oturuyordu, hala gülümsüyordu. "Nasılsınız, Dr. Lancaster," dedi nazikçe.
+
+"Çok iyi değilim, teşekkür ederim." Sırıtışı yüzünü acıttı.
+
+"Bunu duyduğuma üzüldüm. Ama gerçekten, bu senin kendi hatan. Bunu biliyorsun."
+
+"Sana hiçbir şey söyleyemem," dedi Lancaster. "Güvenlik yemini altındayım. Bunu Başkan'dan daha aşağı olan kimseyle konuşamam."
+
+Harris sinirlenmiş görünüyordu. "Başkanın, peşinden gevezelik eden her
+devlet düşmanına
+koşup gitmekten daha iyi işleri olduğunu düşünmüyor musun?"
+
+"Bir hata oldu, söylüyorum sana," diye yalvardı Lancaster.
+
+"Ben yaptım diyeceğim. Ve bunu başaran sensin. Hadi çocuklar."
+
+Harris bir dergi alıp okumaya başladı.
+
+* * * * *
+
+Bir süre sonra Lancaster zihnini Karen Marek'e odakladı ve orada tuttu. Bu onun dayanmasına yardımcı oldu. Eğer istasyonda, başına neler geldiğini bilselerdi, onu unutmazlardı, Dünya'nın küçük korkak insanlarının yaptığı gibi, onu hiç tanımamış gibi davranmaya çalışırlardı. Konuşurlardı ve arkadaşlarını kurtarmak için ellerinden geleni yaparlardı.
+
+Darbeler çok uzaklardan geliyor gibiydi. İstasyonda böyle şeyler yapmazlardı. Lancaster o anda gerçeği fark etti,
+ama bu onu şaşırtmadı. Dünyadaki en doğal şeydi. Ve şimdi,
+elbette, asla konuşmayacaktı.
+
+Belki.
+
+Uyandığında, önünde bir adam vardı. Yüzü bulanıklaştı,
+muazzam bir boyuta ulaştı ve sonra sonsuz mesafelere doğru hareket etti.
+Harris'in sesinde bir dalgalanma vardı, yukarı aşağı, yukarı aşağı dalgalanıyordu.
+
+"Tamam, Lancaster, işte Başkan. Israr ettiğin için, işte burada."
+
+"Devam et, Amerikalı," dedi adam. "Söyle bana. Bu senin görevin."
+
+"Hayır," dedi Lancaster.
+
+"Ama ben Başkanım. Beni görmek istedin."
+
+"Büyük ihtimalle bir dublörüm. Kimliğini kanıtla."
+
+Başkan'a benzeyen adam içini çekti ve arkasını döndü.
+
+* * * * *
+
+Lancaster yine bir karyolada yatarak uyandı. Bir uyarıcı tarafından uyandırılmış olmalı, çünkü yanında beyaz önlüklü bir figür vardı ve bir
+hipodermik şırınga tutuyordu. Harris de oradaydı, bezgin görünüyordu.
+
+"Konuşabiliyor musun?" diye sordu.
+
+"Ben--evet." Lancaster'ın sesi donuk bir hırıltıydı. Başını hareket ettirdi, bunun acısını
+hissetti.
+
+"Bak buraya, dostum," dedi Harris. "Şimdiye kadar sana karşı oldukça rahattık. Sana yama yapılamayacak hiçbir şey olmadı. Ama artık sabırsızlanmaya başladık. Hain olduğun ve bir şeyler sakladığın çok açık."
+
+Evet, diye düşündü Lancaster, bir tanımıyla haindi. Sadece
+ona göre bir adamın kendi sadakatini seçme hakkı vardı.
+Polis devletinin ne anlama geldiğini deneyimledikten sonra, ona boyun eğseydi
+kendisine karşı dürüst olmazdı.
+
+"Eğer bir sonraki seansta sorularıma cevap vermezsen," dedi Harris,
+"gerçekten sert davranmaya başlamak zorunda kalacağız."
+
+Lancaster sessiz kaldı. Konuşmaya çalışmak çok fazla çaba gerektiriyordu.
+
+"Kahramanlık ettiğini düşünme," dedi Harris. "Sorgulanan bir adamda güzel veya insani hiçbir şey yok.
+Herkes kadar yüksek sesle bağırıyorsun."
+
+Lancaster bakışlarını kaçırdı.
+
+Doktorun sesini duydu. "Tekrar başlamadan önce ona birkaç gün dinlenmesini tavsiye ederim, efendim."
+
+"Burada yenisin, değil mi?" diye sordu Harris.
+
+"Evet, efendim. Bu göreve sadece birkaç hafta önce atandım. "
+
+"Eh, hainlere çocuk eldiveni giymiyoruz."
+
+"Benim demek istediğim bu değil, efendim," dedi doktor. "Daha fazla tedavinin işe yaramadığı
+acı sınırları vardır. Ayrıca, bu adamın
+kalbi konusunda biraz şüpheliyim. Bir üfürümü var ve
+sorgulamak ona çok büyük bir yük bindiriyor. Onun sizin elinizde ölmesini istemezsiniz, değil mi efendim?"
+
+"Mmmm--hayır. Siz ne önerirsiniz?"
+
+"Hastanede sadece birkaç gün, tedavi ve dinlenme. Ayrıca, onu neyin beklediğini
+düşündüğünde psikolojik bir etkisi de olacak."
+
+Harris bir an düşündü. "Tamam. Zaten yapacak başka
+şeylerim var."
+
+"Çok iyi, efendim. Pişman olmayacaksın."
+
+Lancaster ayak seslerinin sessizliğe gömüldüğünü duydu. Doktor hemen
+yanına gelip ona doğru döndü. Kısa boylu, kıvırcık saçlı, sıradan görünümlü bir adamdı. Bir an göz göze geldiler, sonra
+Lancaster gözlerini kapattı. Doktora gitmesini söylemek istedi ama buna değmezdi.
+
+Daha sonra bir sedyeye konuldu ve sonsuz koridorlardan başka bir hücreye
+taşındı. Bu hücrenin bir şekilde hastane gibi bir görünümü vardı ve
+havada antiseptik kokusu vardı. Doktor yatağa
+yerleştirildiğinde geldi ve kolunu tutup bir iğne batırdı. "Uyku
+zamanı," dedi.
+
+Lancaster tekrar dalıp gitti.
+
+* * * * *
+
+Uyandığında karanlık ve hareket hissetti. Kör olup olmadığını merak ederek etrafına baktı ve
+soluk morarmış dudaklarının arasından inledi. Bir el omzuna kondu ve bir ses siyahın
+
+"Sorun değil, dostum. Rahat ol. Başka soru olmayacak."
+
+Doktorun sesiydi ve doktor Charon'a hiç benzemiyordu, ama Lancaster yine de ölüm nehrinin üzerinden
+geçip geçmediğini merak ediyordu. Etrafında bir uğultu vardı ve rüzgarın
+alçak bir iniltisini duydu. "Nereye gidiyoruz?" diye mırıldandı.
+
+"Uzaklara. Şimdi bir stratorocket'in içindesin. Sadece rahatla."
+
+Lancaster bir süre sonra uykuya daldı.
+
+Bunun ötesinde, hareket ettiğini ve konuşmaya çalıştığını ancak belirsiz bir şekilde fark ettiği, uyuşturulmuş, kafası karışık bir dönem vardı. Görüşünde gölgeler uçuşuyordu,
+gölgeler ona tam olarak kavrayamadığı bir şeyler söylüyordu. Yeterince itaatkar bir şekilde takip etti. Sonunda tam bir berraklık geldi ve bir ranzada yatıyordu ve metal bir tavana bakıyordu. Roketlerin titrek nabzı vücudunda titriyordu. Bir uzay gemisi mi?
+
+Bir uzay gemisi!
+
+Kalbinin güm güm attığını hissederek oturdu ve çılgınca etrafına bakındı. "Hey!" diye bağırdı.
+
+Berg'in hatırladığı figür kapıdan içeri girdi. "Merhaba, Allen," dedi. "Nasıl hissediyorsun?"
+
+"Ben--sen--" Lancaster yastığına zayıfça gömüldü. Tamamen
+sarıldığını, atellendiğini ve desteklendiğini ve artık
+acı olmadığını fark etti. En azından çok fazla.
+
+"Hissediyorum "tamam," dedi.
+
+"İyi, iyi. Doktor iyi olacağını söylüyor." Berg ranzanın kenarına
+oturdu. "Burada uzun süre kalamam ama boş ver. Yakında
+istasyonda olacağız. Kurtarıldığın gibi bazı şeyleri bilmeyi hak ediyorsun."
+
+"Bu çok açık," dedi Lancaster.
+
+"Bizim tarafımızdan. İsyancılar. Yeraltı. Yıkıcı karakterler."
+
+"Bu da çok açık. Ve teşekkürler--" Kelime o kadar gülünç derecede
+yetersizdi ki Lancaster gülmek zorunda kaldı.
+
+* * * * *
+
+"Sanırım çoğunu tahmin ettin," dedi Berg. "Projemiz için senin kalibrende bir
+bilim adamına ihtiyacımız vardı. Çok fazla eksiğimiz olan bir şey var, o da teknik personel, çünkü bu tür alanlardaki tek gerçek eğitim Dünya'da alınabiliyor ve mezunların çoğu mevcut toplumda rahat bir yer buluyor. Mesela senin gibi. Yani sana bir oyun
+oynadık. Örgütümüzün bir kısmını kullandık--evet, büyük bir örgütümüz var ve o da
+oldukça akıllı ve güçlü--seni bunun üst düzey gizlilik gerektiren bir hükümet işi olduğuna ikna etmek için. Güvenlik adına daha fazla lanet şey yapılabilir--"
+Berg dilini şaklattı. "İstasyonda gördüğün herkes az çok rol yapıyordu, elbette. Her şey seni kandırmak için kurulmuştu. Başka birini, bu tür şeyler konusunda daha kurnaz birini kullansaydık bundan
+kurtulamazdık, ama seni incelemiştik ve seni sevecen, şüpheci olmayan, kendi işine fazla dalmış, cadı koklamak için
+bir adam olarak biliyorduk."
+
+"Bunu tahmin etmiştim," diye itiraf etti Lancaster. "Bir süre hücrelerde kaldıktan sonra. Yaşama ve düşünme tarzın
+herhangi bir şeye
+benziyordu--"
+
+"Evet. Bunun için çok üzgünüm, Allen. Senin
+sıradan hayatına
+dönebileceğini düşündük, ama bir şekilde--herkesin komşusunu gözetlediği bir eyalette kaçınılmaz olan o kazalardan veya kötülüklerden biri
+yoluyla--seni içeri aldılar. Bunu hemen öğrendik--evet, hatta
+gizli polise bile sızdık--ve bu konuda bir şeyler yapmaya karar verdik. Bildiklerinize ihanet etme tehlikesinin yanı sıra - sizi sessizce öldürerek bunu ortadan kaldırabilirdik - sizi buna
+bulaştırdığımız ve size bir şey borçlu olduğumuz gerçeği vardı. Dr. Pappas'ı tutulduğunuz engizisyona transfer etmeyi başardık. Sizi uyuşturdu, inanılmaz derecede ceset benzeri bir figür ortaya çıkardı ve sizi
+sadece sorgu altında ölenlerden biri olarak dışarı kaçırdı.
+Güvenlik
+kağıtlarımı kullanarak cesedi özel otopsi için aldım, her zamanki gibi hemen yakılmak yerine.
+Sonra sadece hazır olmasını ayarladığımız
+stratorocket'e ulaşana kadar sürdük ve sizi uzay
+gemisine
+uçurduk ve şimdi istasyona geri dönüyorsunuz. Dinlenmenize yardımcı olmak için yolun çoğunda uyuşturucu etkisinde tutuldunuz - engizisyonda sizi
+biraz hırpalamışlardı. Yani--" Berg omuz silkti. "Pappas artık Dünya'ya geri dönemez, tabii ki, ama uzayda her zaman bir sağlık görevlisine ihtiyacımız var,
+ve seni kurtarmak için uğraşmaya değdi."
+
+"Onur duydum," dedi Lancaster.
+
+"Yine de başına gelenler için kendimi hala cehennem gibi hissediyorum."
+
+"Her şey yolunda. Hoşuma gittiğini söyleyemem ama şimdi bazı
+zor gerçekleri öğrendiğime göre--ah, dersin acı dolu doğasını unut. İyi olacağım. Ve eve gidiyorum!"
+
+* * * * *
+
+Uzay istasyonuna girerken Jessup, Lancaster'ı destekledi. Eski
+mürettebatı onu karşılamak için orada bekliyordu. Karen omzunda acı acı ağlasa da, hepsi onu geri aldıkları için çok mutluydu.
+
+"Her şey yolunda," dedi ona. "Göründüğüm kadar kötü durumda değilim.
+Dürüst ol, Karen, iyiyim. Ve şimdi geri döndüm ve
+gerçekten nereye ait olduğumu biliyorum--kahretsin, ama buna değdi!"
+
+Yağmurlu bir şafak kadar gri gözlerle ona baktı. "Ve sen bizimlesin?" diye fısıldadı. "Sen bizdensin? Kendi isteğinle mi?"
+
+"Elbette öyleyim. Bana dinlenmem için bir iki hafta ver, sonra laboratuvara geri dönüp
+Simon Legree gibi hepinize patronluk taslayacağım. Kahretsin, daha yeni o süper dielektrik
+üzerine çalışmaya başladık. Ve denemek istediğim başka birçok şey daha var."
+
+"Sürgün demek bu," dedi. "Artık mavi gökyüzü, yeşil vadiler ve
+okyanus rüzgarları yok. Artık Dünya'ya geri dönüş yok."
+
+"Başka gezegenler de var, değil mi? Ve önümüzdeki on yıl içinde Dünya'ya geri döneceğiz, bahse girerim. Yeni bir Amerikan Devrimi başlatmak ve
+herkesin görebileceği şekilde
+gökyüzüne Haklar Bildirgesi'ni yazmak için geri dönüyoruz." Lancaster utangaç bir şekilde sırıttı. "Konuşma yapma konusunda pek iyi değilim ve kesinlikle onları dinlemekten hoşlanmıyorum. Ama gerçeği öğrendim ve bunu yüksek sesle söylemek istiyorum. İnsanın özgür olma hakkı onun sahip olduğu en temel haktır ve
+bunu bıraktığında her şeyi de teslim ederek bitirir.
+Sizler dürüstlüğü, özgürlüğü ve ilerleme olasılığını geri getirmek için savaşıyorsunuz. Umarım burada hiç kimse fanatik değildir, çünkü
+fanatizm tam olarak karşı koyduğumuz şeydir. Biz diyorum, çünkü
+bundan sonra ben de sizden biriyim. Yani, eğer beni istediğinizden eminseniz."
+
+Beceriksizce durdu. "Tamam. Konuşma sona erdi."
+
+Karen titrek bir nefes aldı ve ona gülümsedi. "Ve diğer her şey
+daha yeni başladı, Allen," dedi. Başını salladı, kelimeler için fazla hissediyordu.
+
+"Yatağa gir," diye emretti Pappas.
+
+* * * * *
+
+Jessup, Lancaster'ı götürdü ve diğerleri teker teker
+işlerine geri döndüler. Sonunda hava kilidinin yanında sadece Karen ve Berg duruyordu.
+
+"Güzel ağzını kapalı tut canım," dedi adam.
+
+"Ah, tabii." Karen mutsuz bir şekilde iç çekti. "Keşke planını hiç öğrenmeseydim. Bana açıkladığında seni vurmak istedim."
+
+"Bir açıklama konusunda ısrar ettin," dedi Berg savunmacı bir şekilde. "Allen'ın Dünya'ya geri dönmesi gerektiğinde, ona kim olduğumuzu söylememizi ve onu tutmamızı istedin. Ama işe yaramazdı. Dosyasını inceledim ve o bu kadar kolay sadakat değiştirecek türden bir adam değil. Onu
+elimizde tutacaksak, bu ancak onun tam rızasıyla olabilirdi. Ve şimdi onu yakaladık."
+
+"Yine de berbat bir numaraydı," dedi.
+
+"Elbette öyleydi. Ama başka seçeneğimiz yoktu. Birinci sınıf bir fizikçiye _ihtiyacımız_ vardı."
+
+"Biliyorsun," dedi, "sen eskiden beri bir faresin."
+
+"Ben de öyleyim. Ve genel olarak bundan hoşlanıyorum." Berg yüzünü buruşturdu. "Yine de
+bu işin ağzımda kötü bir tat bıraktığını itiraf etmeliyim. Allen'ı seviyorum. Federal polise onun hakkında bilgi vermek
+yaptığım en zor şeydi."
+
+Topuklarının üzerinde döndü ve hafifçe gülümseyerek uzaklaştı.
+
+Yazıcının Notu:
+
+Bu e-metin _Uzay Bilimkurgu_ Şubat 1953'ten üretilmiştir.
+Kapsamlı araştırma, bu yayındaki ABD telif hakkının
+yenilendiğine dair herhangi bir kanıt ortaya çıkarmamıştır. Küçük yazım ve tipografik hatalar
+not verilmeden düzeltilmiştir.
+
+Poul William Anderson'ın Project Gutenberg Güvenlik E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+***** This file should be named 22239.txt or 22239.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/2/2/3/22239/
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

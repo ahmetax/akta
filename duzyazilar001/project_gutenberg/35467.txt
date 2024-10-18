@@ -4,6 +4,7 @@ Yazar: Joseph Sheridan Le Fanu
 Yayın Tarihi: March 3, 2011 [EBook #35467]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/35467
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 Project Gutenberg's The Tenants of Malory, by Joseph Sheridan Le Fanu
 
@@ -193,15 +194,10 @@ Yaşlı hanım - kızın merkezde olduğu ilgi halkası için, onu da dahil etti
 
 Sahneye ve duruma uygun ciddi bir yüz ifadesi takınmasına rağmen, kesinlikle kasvetli değildi - tam tersine neşeli ve ilgi çekici bir yüz.
 
-Genç hanımın elbisesi, kalın, nervürlü, koyu gri ipekten bir örtü sergileyen, büyük ölçüde kısa ama bol bir pelerin veya siyah kadife ceketle gizlenen zengin Galli linseylerden biriydi. Toplamda, ciddiyeti ona çekingen ve keskin gelen bir kostümdü. Bay Cleve Verney, sırasının kenarına yaslanarak, bu koltuğa doğru dikkat çekici bir ısrarla dua etti. Litanya'dan sonra, onu daha önce olduğundan çok daha güzel buldu ve Komünyon ayini sona erdiğinde, daha önce hiç bu kadar güzel birini görmediğinden emindi. Etten kemikten, Guido'nun Beatrice Cenci portresinin bu kadar
-harika bir örneğini hayal edemezdi.
-Muhteşem kaşlar ve iri ela gözler, çok net ve yumuşak, çok cesur ve utangaç.
-Yüz şehvetli ama saf; _funeste_ ama masum.
-Zengin kestane rengi saçlar, inci beyazlığı ve kızıl dudaklar ve garip, vahşi,
-melankolik bakış--ve kaderin bir gölgesi. Üç çeyrek veya tam yüz veya
-anlık profil--şimdi gölgede--ışıkta--hala aynı harika benzerlik. Beatrice'in hayaleti önündeydi.
+Genç hanımın elbisesi, kalın, nervürlü, koyu gri ipekten bir örtü sergileyen, büyük ölçüde kısa ama bol bir pelerin veya siyah kadife ceketle gizlenen zengin Galli linseylerden biriydi. Toplamda, ciddiyeti ona çekingen ve keskin gelen bir kostümdü. Bay Cleve Verney, sırasının kenarına yaslanarak, bu koltuğa doğru dikkat çekici bir ısrarla dua etti. Litanya'dan sonra, onu daha önce olduğundan çok daha güzel buldu ve Komünyon ayini sona erdiğinde, daha önce hiç bu kadar güzel birini görmediğinden emindi. Beatrice Cenci'nin Guido'nun portresinin bu kadar harika bir
+tecessümünü etten ve kandan hayal edemezdi. Muhteşem kaşlar ve iri ela gözler, çok berrak ve yumuşak, çok cesur ve utangaç. Şehvetli ama saf yüz; _funeste_ ama masum. Zengin kestane rengi saçlar, inci beyazlığı ve kızıl dudaklar ve garip, vahşi, melankolik bakış - ve kaderin bir gölgesi. Üç çeyrek veya tam yüz veya anlık profil - şimdi gölgede - ışıkta - hala aynı harika benzerlik. Beatrice'in hayaleti önündeydi.
 
-Genç hanımın mı yoksa yaşlıların mı sıralarına doğru yöneltilen düzensiz ibadeti gözlemlediklerini söyleyemem. Cleve onların gözlemlediğini düşünmüyordu. Onun,
+Genç hanımın mı yoksa yaşlıların mı sıralarına doğru yöneltilen düzensiz ibadeti gözlemlediğini söyleyemem. Cleve onların gözlemlediğini düşünmüyordu. Onun,
 onların bunu yapmasını özel olarak istediği yoktu. Aslında, ilgisi o kadar garip bir şekilde artıyordu ki, hayranlıktan daha derin bir duyguyu gösteren o kıskanç gözlem
 biraz daha ortaya çıkmıştı ve Bay Cleve keşif gezisini kurnazca ve dikkatli bir şekilde yürütüyordu.
 
@@ -238,7 +234,7 @@ uzak noktada tuttu.
 "Şey, kilisenin diğer tarafında güzel bir kız gördüm, sanırım o o değil mi?" dedi Cleve, iki hanımı gördüğünde--genç olanı, kalın dantel desenlerinin ardındaki giyenin yüzünü neredeyse
 gizleyen o kısa siyah peçelerden birini takıyordu.
 
-"Aman Tanrım! Öyle," dedi Sedley; "gelin bakalım nereye
+"Aman Tanrım! Öyle," dedi Sedley; "gelin bakalım, nereye
 gidecekler. "
 
 Neredeyse yalnız yürüyorlardı, sadece kitaplarını taşıyan yaşlı bir hizmetçi tarafından takip ediliyorlardı, kilise avlusunun diğer tarafındaki girişe doğru, Cardyllian'ın ıssız arka sokaklarından birine indiğiniz bir merdiven uçuşuna açılan küçük bir kapı.
@@ -358,14 +354,13 @@ bilirsin, konuşurlar--ailenin _çıldırmış_ olduğunu."
 "Söyledikleri bu."
 
 "Bütün aile _çıldırmış!_ ve yine de işlerini
-bu şekilde
-yönetmeye devam ediyorlar! Aman Tanrım, insanların acil durumlarda
-başları olmadan da idare edebildiklerini görmek rahatlatıcı."
+bu şekilde yönetmeye devam ediyorlar! Aman Tanrım, insanların acil durumlarda
+başları olmadan idare edebildiklerini görmek rahatlatıcı."
 
 "Hayır, aman Tanrım! _evdeki_ herkesin deli olduğunu söylemiyorlar;
 _sadece_ yaşlı adam ve genç hanım."
 
-"Peki, neden deli?"
+"Ve neye deli?"
 
 "Eh, söylemiyorlar. Bilmiyorum--melankoli sanırım. "
 
@@ -518,8 +513,8 @@ görmeliyim."
 
 Tuhaf apartmanının kapısı avlunun yanında duruyordu, oymalı
 taş bacası çeyiz evinin çatısına kadar yükseliyordu,
-aslında, onunla bağlantılıydı. "Pencerelerinden geçmek veya
-hol kapılarını çalmak gibi olmayacak. Avluya bile girmeyeceğim,
+aslında, çeyiz eviyle bağlantılıydı. "Pencerelerinden geçmek veya
+salon kapılarını çalmak gibi olmayacak. Avluya bile girmeyeceğim,
 ve zavallı ihtiyarı gerçekten görmeliyim."
 
 O gün kilisede beliren yüz daha az güzel olsaydı, görev bu kadar acil olmazdı.
@@ -601,8 +596,7 @@ memnuniyet gösterin "Eski öğrenciniz,
 
 "P.S.--Bunu hemen bırakacağım, lütfen
 geri dönüşte şahsen cevaplayın. Bunu yarın sabah saat dokuzda,
-Clay'de alacaksınız. Eğer Llwynan'a 11.40 trenine binersen--görüyorsun ya, yanımda "Bradshaw" var--saat dörtte orada olacaksın ve bir sinek seni bir saatten biraz fazla bir sürede Cardyllian'a uçuracak ve orada beni, Chancery'de beklerken bulacaksın; Wynne Williams'ın Castle Street'teki eski evini biliyorsun. Sana temin ederim ki, seni gerçekten görmek istiyorum,
-_özellikle_ ve beni hayal kırıklığına uğratmamalısın. Sizi cemaatinizin işlerinin izin verdiğinden daha uzun süre alıkoymayacağım. Aman Tanrım, ne bir hikaye yazdım!"
+Clay'de alacaksınız. Eğer Llwynan'a 11.40 trenine binerseniz - "Bradshaw"ımı yanımda görüyorsunuz - saat dörtte orada olacaksınız ve bir sinek sizi bir saatten biraz fazla bir sürede Cardyllian'a uçuracak ve orada beni Chancery'de beklerken bulacaksınız; Wynne Williams'ın Castle Street'teki eski evini biliyorsunuz. Sizi temin ederim ki, sizi gerçekten görmek istiyorum, _özellikle_ ve beni hayal kırıklığına uğratmamalısınız. Sizi cemaatinizin işlerinin izin verdiğinden daha uzun süre alıkoymayacağım. Aman Tanrım, ne bir hikaye yazdım!"
 
 Yaklaşık bir düzine kadar şirin küçük evden ve ormanlık bir vadiden geçen yolun kenarında ve ay ışığının vurduğu suların kıyısındaki tepenin eteğinde bulunan küçük ve saygıdeğer bir kiliseden oluşan Ware'in güzel küçük köyüne doğru yürüdü.
 
@@ -864,16 +858,17 @@ harika bir şekilde erken saatlerde hareketsiz kalıyorlar.
 Ormanlık vadinin yanından, Hazelden Yolu'ndan aşağı doğru karanlık ve yalnız bir yürüyüş, derinliklerinden değirmen deresinin sesi hafifçe yükseliyor. Yol sizi vadinin kenarından aşağı götürüyor, üstünüzde ve altınızda yoğun orman var; kayalık dik yamaç sol tarafta yükseliyor,
 ormanlık uçurum sağınızda tam bir karanlığa iniyor ve
 onun ötesinde, gökyüzüne karşı siyah bir şekilde yükselen, ormanlık vadinin uzak tarafı. Sık ağaçlardan ve nispeten karanlıktan, Cardyllian'a giden ana yola çıkmak neşeliydi, bu yol haliç kıvrımını takip ederek kasabanın ana caddesine kadar uzanıyordu, zaten gece yarısı kadar sessizdi. Ay o kadar geniş ve parlak parlıyordu, manzara o kadar garip görünüyordu ve hava o kadar buzlu ve hoştu ki Tom Sedley, onu Yeşil'in üzerinden ve denizin üzerindeki dik patikaya götüren küçük bir yürüyüşe çıkma cazibesine karşı koyamadı, buradan karşı taraftaki tepelerin ve burunların ve diğer manzara özelliklerinin, karanlık ve sisli ormanlık alanlarında yumuşakça uzanan Malory'nin çok güzel bir manzarasını görüyordunuz. Ay ışığı, mesafe ve saat, durgun havada durup o antika eve doğru iç çeken arkadaşım Tom Sedley'nin romantizmine yardımcı oldu. Kollarını kavuşturmuş, yürüme bastonunu sağ elinde tutmuş ve kılıç gibi sol kolunun altından geçirmiş, iyi huylu yüreğinde ölüm ve mücadeleyle ilgili hangi savaşçı ve şövalyelik özlemlerinin yükseldiğini bilmiyorum, çünkü bazı mizaçlarda aşk duygusu gizemli bir şekilde savaşçılıkla ilişkilendirilir ve daha nazik cinsiyete olan saygımız, diğer tarafa yönelik toptan saldırı ve darp imgeleriyle cömertçe ilişkilendirilir. Belki şarkı söyleyebilseydi, bir veya iki dize zihnini rahatlatabilirdi; hatta duygu dilinde bile belagatli olabilirdi. Ancak ne yazık ki kelime dağarcığı sınırlıydı ve oldukça sıradandı ve ezbere uygun bir kıtası bile olmadığı için, bir puro içmeye ve onu içmeye
-meliydi, Malory'ye doğru tepeden aşağı rahatça yürüdü. Yolun yarısında, cüce duvarın üzerine, yol kenarına ve büyük, yaşlı bir ağacın sarmaşıklı gövdesinin yanına oturdu, rahatça sigara içti ve ara sıra iç çekti.
+meliydi, Malory'ye doğru tepeden aşağı rahatça yürüdü. Yolun yarısında, cüce duvarın üzerine, yol kenarına oturdu ve
+büyük, yaşlı bir ağacın sarmaşıklı gövdesinin yanına, rahatça sigara içti ve ara sıra iç çekti.
 
 "Anlayamıyorum - bu lanet olası bir büyücülük gibi," dedi.
 "Onu kafamdan çıkaramıyorum."
 
 Arkadaşı Cleve Verney'nin, Ware'in karşısındaki suyun karşısında, aynı yönde, çok yüce bir coşkuyla olmasa da romantik ibadetlerini icra ettiği zamanın hemen hemen aynı olduğunu söyleyebilirim.
 
-Ayağa kalkıp bakarken, Malory'nin önünde uzun bir eğri oluşturan çakılların üzerinde, suyun kenarında duran bir figür gördüğünü düşündü.
+Ayağa kalkıp bakarken, Malory'nin önünde uzun bir eğri oluşturan çakılların üzerinde, suyun kenarında duran bir figür gördüğünü sandı.
 
-Eğer canlı bir figürse, çok hareketsizdi. Ay ışığında gri, neredeyse beyaz görünüyordu. Orada dik bir taş şaftı mı vardı, yoksa tekneleri bağlamak için bir direk mi? Hatırlayamadı.
+Eğer canlı bir figürse, çok hareketsizdi. Ay ışığında gri, neredeyse beyaz görünüyordu. Orada dik bir taş şaft mı vardı, yoksa tekneleri bağlamak için bir direk mi? Hatırlayamadı.
 
 Yoldan aşağı doğru yavaşça yürüdü. "Aman Tanrım! Sanırım hareket ediyor," dedi
 yüksek sesle, birden ayağa kalkıp purosunu indirdi. "Hayır, hareket etmiyor ama hareket etti, sanırım - evet, birazcık - öyle değil mi? Yoksa sadece benim bakış açım mı değişti?"
@@ -905,7 +900,8 @@ kendisinden denize yalvaran bir bakışla bakan gözleri de görebiliyordu.
 başının üzerine gri pelerini çekmiş halde, yine de, Malory'yi temsil etmiyor muydu ve Malory, sabah ayininden beri binlerce kez, asla, asla unutamayacağını söylediği o güzel varlığın varlığıyla
 üzülmemiş ve yüceltilmemiş miydi?
 
-"Ha, ha! Tam olarak gördüğümü sanmıştım, efendim, _o_ yönde; _lütfen_ daha dikkatli bakın, efendim, yaşlı gözlerim yoruluyor ve beni yarı yolda bırakıyor."
+"Ha, ha! Tam olarak gördüğümü sanmıştım, efendim, _o_ yönde; _lütfen_
+daha dikkatli bakın, efendim, yaşlı gözlerim yoruluyor ve beni yarı yolda bırakıyor."
 
 "Hayır, hanımefendi, kesinlikle orada hiçbir şey yok. İlk gördüğünüzden bu yana ne kadar zaman geçti?"
 
@@ -984,12 +980,15 @@ ayrıca memnundu.
 resim var. Eğer bilselerdi, sanırım yakarlardı. Tebeşirle çizilmiş,
 bir Fransız sanatçı; çok güzel renklendirmişler. Odamda asılı. Her sabah, onun için dua ediyorum."
 
-Yaşlı kadın inledi, ellerini kavuşturmuş ve hala kararlı bir şekilde yüzüne bakıyordu.
+Yaşlı kadın, ellerini kavuşturmuş bir şekilde inledi ve hala kararlı bir şekilde yüzüne bakıyordu.
 
-"Sanırım bir resim olduğunu bilselerdi yakarlardı. Bana her zaman zalim bir aile oldukları
-söylenirdi. Bilmiyorum, onu affediyorum; onu uzun zaman önce affettim. Resimdeki resme çok benziyorsun ve hatta hatırladığım
-şeye daha da çok benziyorsun. Resim, tam reşit olduğunda çekilmişti. Onu ilk gördüğümde yirmi yedi yaşındaydı; zekiydi, güzel bir yaratıktı ve yüzüne baktığımda beni hiç terk etmeyen hüznü gördüm. Harika bir şekilde benziyorsunuz, efendim; ama bir fark var.
-Çok yakışıklı değilsiniz." Dürüst Tom Sedley'e bir darbeydi bu, yine sadece eğlendiğini düşünüyordu ama aslında üzülmüştü.
+"Sanırım, bir resim olduğunu bilselerdi yakarlardı. Bana her zaman
+zalim bir aile oldukları söylendi. Şey, bilmiyorum, onu affediyorum; onu uzun zaman önce
+affettim. Resimdeki resme çok benziyorsun ve hatta hatırladığım şeye
+daha çok benziyorsun. Resim, tam reşit olduğunda çekilmişti. Onu ilk gördüğümde
+yirmi yedi yaşındaydı; zekiydi, güzel bir yaratıktı ve yüzüne baktığımda beni hiç terk etmeyen hüznü gördüm. Harika bir şekilde benziyorsunuz, efendim; ama bir fark var.
+Çok yakışıklı değilsiniz." Dürüst Tom Sedley'e bir darbeydi bu, yine sadece eğlendiğini düşünüyordu ama aslında
+üzülmüştü.
 
 "Yüzünüzde iyilik ve nezaket var; onunkinde pek az vardı,
 yumuşak hiçbir şey yoktu, ama her şey parlak ve ilginçti; ve yine de
@@ -1006,14 +1005,14 @@ ve sonra derin bir iç çekişle, neredeyse bir hıçkırıkla kapıya doğru ko
 Onu takip etti.
 
 "Seni eve kadar görmeme izin verir misin?" diye yalvardı, korkarım ki tamamen ilgisiz olmayan bir
-iyilikle. Bu sırada kapıdaydı, bir hareketle, teklifini reddederek, nazikçe ona geri el salladı ve başka bir şey söylemeden içeri girdi.
+iyilikle. Bu sırada kapıdaydı, bir hareketle, teklifini reddederek, nazikçe ona geri el salladı ve başka bir söz söylemeden içeri girdi.
 Anahtarın kilitte döndüğünü duydu ve geldiği kadar özel arayışına da karşı bilgece dışarıda kaldı.
 
 BÖLÜM VII.
 
 YEMEKHANE PENCERESİNDEN BİR GÖRÜNÜM.
 
-Kıyı boyunca uzanan, bana diğer tüm korulardan daha koyu görünen görkemli eski kerestelerle gölgelenen Malory'nin eski rengi solmuş duvarı yedi fit yüksekliğindedir ve ne içinden ne de üzerinde, ve tırmanmayı düşünemedi, gri kapıya bakarak geçirdiği birkaç saniyeden sonra, Tom Sedley döndü ve yolun kenarında, sahilin yanında duran küçük tepeye doğru yürüdü ve tepeden, tüm puro boyunca, Malory'nin dikmeli
+Kıyı boyunca uzanan, bana diğer tüm korulardan daha koyu görünen görkemli eski kerestelerle gölgelenen Malory'nin eski rengi solmuş duvarı yedi fit yüksekliğindedir ve ne içinden ne de üzerinde, ve tırmanmayı düşünemedi, gri kapıya bakarak geçirdiği birkaç saniyeden sonra, Tom Sedley arkasını döndü ve yolun kenarında, sahilin yanında duran küçük tepeye doğru yürüdü ve tepeden, tüm puro boyunca, Malory'nin dikmeli
 pencerelerine baktı ve bir galeri penceresinden geçen bir mumun hafif parıltısıyla memnun oldu. "Bu hoş yaşlı bir kadın, ne kadar tuhaf olsa da; bir hanımefendiye benziyor;
 bugün kilisede gördüğümüz kadın kesinlikle değil; ne kadar da güzel görünüyordu; o zamanlar kıyıdan bakarken ne kadar hoş bir figürdü; o pelerin kesinlikle bol; ama, Tanrı aşkına, neredeyse bir kız olabilirdi; ve ne kadar da iri gözleri ve güzel şekilli bir yüzü var. Yaklaşık yüz yıl önce oldukça çekici olmalıydı; o anne değil: çok yaşlı; belki de bir büyük teyze;
 ne kadar uzun bir sohbetimiz oldu ve ben ne kadar aptalım, bütün o saçmalıkları dinliyorum ve o eşsiz yaratık olan insanlardan tek kelime etmiyorum!"
@@ -1064,7 +1063,7 @@ uzaktaki burunlara pitoresk bir dalgınlıkla bakıyormuş gibi yaptı.
 
 Öte yandan yaşlı kadın, o antik duvarın derin oyulmuş panelinde, siyah kadifeden öldürücü külotlu
 takım elbisesiyle, elinde fildişi başlı bastonuyla yakışıklı genç arkadaşımız Tom Sedley'in tam boy portresini ve kendi yüzüne tam uyan ve kendi şapkacısından başka hiçbirinin bu desene sahip olamayacağına veya benzer bir şaheser
-yaratamayacağına inandığı o "şaşırtıcı" jerry'yi açıkça görmüştü.
+üretemeyeceğine inandığı o "şaşırtıcı" jerry'yi açıkça görmüştü.
 
 Sabah güneşini savuşturmak için elini kaldırmış, kırış kırış alnına dallar arasından titreşen ve açık gri gözleri ona bakan yaşlı kadın, o "küstah genç adama"
 bakışının korkunç gücünün farkında değildi.
@@ -1163,8 +1162,8 @@ söylemedi. Bana gülmene izin veriyorum. Dünyadaki en büyük eşşek olduğum
 uygar olmayan olduğunu düşünüyorum; ve Tanrı aşkına, burada daha uzun süre kalırsam, sanırım tüm
 paramı benden alacak. O istemiyor ama ben ona vermeye devam ediyorum; kendimi tutamıyorum; canavar!"
 
-"Bilge bir adam veya bir şey hakkında bir söz yok mu ve parası
-yakında bitecek?" diye sordu Cleve. "Sanırım ben senin gibi bir kızla çok meşgul olsaydım ve o adamla bu kadar rahat olsaydım ve ona bu kadar
+"Bir bilgenin veya bir şeyin parasının
+yakında biteceğiyle ilgili bir söz yok mu?" diye sordu Cleve. "Sanırım ben senin gibi bir kızla çok meşgul olsaydım ve o adamla bu kadar rahat olsaydım ve ona bu kadar
 cömertçe bahşiş verseydim, en azından şimdiye kadar adını öğrenmiş olurdum."
 
 "Yapamam; her şey ters gidiyor bende. Neden aklımı riske atıp
@@ -1175,7 +1174,7 @@ tren bizim istasyonda durmuyor. Bu gece gidemem; ama Tanrı aşkına,
 sabah gideceğim. _gideceğim_. Haklı olduğumu düşünmüyor musun, Cleve?"
 
 Tom Sedley aniden durdu ve çoğu konuda
-kahini olan arkadaşına dönerek elini kolunun üzerine koydu. Cleve, Tom'un dürtüsel doğasını, cömert çılgınlıklarını ve korkunç taşkınlığını bildiği için, onun şiddetine güldü ve dedi ki--"Haklısın, Tom;
+kahini olan arkadaşına dönerek elini koluna koydu. Cleve, Tom'un dürtüsel doğasını, cömert çılgınlıklarını ve korkunç taşkınlığını bildiği için, onun şiddetine güldü ve dedi ki--"Haklısın, Tom;
 her zaman bir filozof! Böyle bir durumda radikal tedavi gibisi yoktur,
 yokluk. Kartlar cevap vermezse, zarları dene, eğer işe yaramazsa,
 topları dene. Korkarım ki bu kötü bir girişim; kalbini bir elekten geçir!
@@ -1260,11 +1259,11 @@ farklı bir ses cevapladı.
 
 "Eh, sanırım o olacak, kesinlikle."
 
-Bir dakika sonra yatın sandalı teknenin yanındaydı, Cleve'den yaşlı beyefendiyi gemiye davet eden ve onu
-en çok istediği yere karaya çıkarmayı teklif eden bir mesaj vardı.
+Bir dakika sonra yatın sandalı teknenin yanındaydı, Cleve'den yaşlı beyefendiyi gemiye davet eden ve onu en çok istediği yere
+karaya çıkarmayı teklif eden bir mesaj vardı.
 
 Kısa süre sonra nezaket reddedildi. Ancak yaşlı adamın öfkesi yatışmış gibiydi ve kendini tekrar sessizliğinin
-katları arasına topladı. Her şey Styx'inkine benzer bir karanlıkta geçmişti. Yoğun bir bulut perdesi ayı tamamen gizlemişti; ve çok yakın olmasına rağmen Cleve, Malory'li yaşlı adamı göremiyordu, onun hakkında garip ve hatta hassas bir merakla merak ediyordu, ki bu kesinlikle onun tarafından davet edilen özel bir nezaket değildi. Birkaç dakika sonra tekne, başka bir direğin yardımıyla tekrar rotasına girdi ve _Wave_ onun rotasında bir milden fazla uzaktaydı.
+katları arasına topladı. Her şey Styx'inkine benzer bir karanlıkta geçmişti. Yoğun bir bulut perdesi ayı tamamen gizlemişti; ve çok yakın olmasına rağmen Cleve, Malory'li yaşlı adamı göremiyordu, onun hakkında garip ve hatta hassas bir merakla merak ediyordu, ki bu kesinlikle onun tarafından özel bir nezaketle davet edilmemişti. Birkaç dakika sonra tekne, başka bir direğin yardımıyla tekrar rotasına girdi ve _Wave_ onun rotasında bir milden fazla uzaktaydı.
 
 BÖLÜM IX.
 
@@ -1276,7 +1275,7 @@ Ertesi gün saat beşte Cleve Verney yine Cardyllian'daydı.
 Isaac Dixie sadece bir iki dakika önce gelmişti ve hala devlet odası olarak adlandırılan
 odanın içinde bekliyordu.
 
-Oda uzun ve meşe panellerle kaplıydı ve diğer ucunda şömine vardı. Kornişin üstündeki tavan her iki tarafta çatıyla birlikte eğimliydi, böylece ona oldukça şapel benzeri bir etki veriyordu; yüksek oymalı meşe şömine rafı ve panellerine simetrik bir dolap sistemi yerleştiren oymalı bir lambri perspektifi kapattı ve Cleve diğer duvardaki kapıdan içeri girdiğinde, sırtını şömineye, yıpranmış şömine halısının üzerine vermiş, meleksi bir gülümsemeyle bekleyen ve geniş düz ayağıyla kutsal bir melodiye tempo tutan Rahip Isaac Dixie'nin yalnız figürüne etki etti. Bu din adamı beyefendi kırk altı veya yedi yaşında görünüyordu, normalde olduğundan daha uzun, geniş, yumuşak ve mavi çeneli, gülümseyen, tozluklu ve tek göğüslü.
+Oda uzun ve meşe panellerle kaplıydı ve diğer ucunda şömine vardı. Kornişin üstündeki tavan her iki tarafta çatıyla birlikte eğimliydi, böylece ona oldukça şapel benzeri bir etki veriyordu; yüksek oymalı meşe şömine rafı ve panellerine simetrik bir dolap sistemi yerleştiren oymalı bir lambri perspektifi kapattı ve Cleve diğer duvardaki kapıdan içeri girdiğinde, sırtını şömineye, eski şömine halısının üzerine vermiş, meleksi bir gülümsemeyle bekleyen ve geniş, düz ayağıyla kutsal bir melodiye tempo tutan Rahip Isaac Dixie'nin yalnız figürüne etki etti. Bu din adamı beyefendi kırk altı veya yedi yaşında görünüyordu, normalde olduğundan daha uzun, geniş, yumuşak ve mavi çeneli, gülümseyen, tozluklu ve tek göğüslü.
 
 "On Emir'i okumak için harika bir yer," diye haykırdı Cleve. "Seni gördüğüme sevindim, yaşlı Dixie. Uzun zamandır görüşmüyoruz."
 
@@ -1402,7 +1401,7 @@ gerçekten _bunun_ bir noktasını _işaret_ edip etmediğini düşün."
 
 "Ben _bunun_ bir noktasını_işaret_ ediyorum."
 
-"Elbette, _senden_ hiçbir şey saklamıyorum, bu şekilde bastırdığında; ve ayrıca, _tuhaf_ olsa da, bir ölçüde _doğru_,
+"Elbette, bu şekilde bastırdığında _senden_ hiçbir şey saklamıyorum; ve ayrıca, _tuhaf_ olsa da, bir ölçüde _doğru_,
 çünkü mülkle bağlantılısın diyebilirim ve
 eğer bunu bir görev olarak ısrar edersen, kesin bilgi edinme hakkına sahipsin."
 
@@ -1608,8 +1607,8 @@ Cleve Verney, "Yüz on beş yıldan fazla bir süre önce Ware'de saten üzerine
 bulunamayacağını söylüyorlar. '_Uzun hac yolculuğu sırasında_,'
 mezar taşında gördüğünüz gibi, '_en az yirmi üç tane önemli
 evlilik teklifi aldı, hepsini reddetti, bekar halini
-evlilik hayatının birçok derdi ve sıkıntısına tercih etti ve ayrıca
-sonuna kadar Verney ailesinin hizmetinde kalmaya istekliydi (onlara haklı olarak
+evlilik hayatının birçok derdi ve sıkıntısına
+tercih etti ve ayrıca hayatının sonuna kadar Verney ailesinin hizmetinde kalmaya istekliydi (onlara haklı olarak
 minnettardı) ve Kral George I'in saltanatında aktif ve faydalı, ancak mütevazı hayatına orada başlamıştı. ' Yani
 gördüğünüz gibi o tüm hayatını bizimle geçirdi; ve halkımıza şunu söyleyeceğim, eğer
 Ware'in yakınından geçerseniz--bir saatlik yelken yolculuğu değil--ve
@@ -1764,7 +1763,8 @@ Bayan Sheckleton sevdiğim gibi yaşlı bir kadındı.
 "İzin verir misiniz?" dedi, aynı zamanda saygılı ve hatta melankolik bir tonda, elini tereddütle yanındaki genç hanıma doğru uzatarak.
 
 Elinde sanki kapatacakmış veya
-geri çekecekmiş gibi küçük bir hareket vardı, ama ona ciddi gözlerle baktı; onlarda şüphe mi vardı, yoksa güven mi? ve ona da üzgün bir bakışla elini uzattı. O ince ölçüyü bastırırken kalbinde güçlü ve şiddetli bir zonklama oldu; ve sonra bir anlığına durmuş gibi göründü; ve akşam esintisini, kıyı boyunca bir iç çekiş gibi, yaprakların arasında duydu.
+geri çekecekmiş gibi küçük bir hareket vardı, ama ona ciddi gözlerle baktı; onlarda şüphe mi vardı, yoksa güven mi? ve ona da üzgün bir
+bakışla elini uzattı. O ince ölçüyü bastırırken kalbinde güçlü ve şiddetli bir zonklama oldu; ve sonra bir anlığına durmuş gibi göründü; ve akşam esintisini, kıyı boyunca bir iç çekiş gibi, yaprakların arasında duydu.
 Bu bir alamet miydi?
 
 Bir sonraki anda, elinde şapkasıyla tek başına duruyordu, gülümsüyordu
@@ -1776,19 +1776,20 @@ CLEVE VERNEY'İN YAŞLI BİR KADINI TAKİP ETTİĞİ YER.
 
 CLEVE ertesi gün eski Manastırı ziyaret etti, ancak o zamandan beri
 bakacak kimse olmamıştı.
-Sığınakta yürüyüşe çıktı ve birkaç masum
+Çölde bir yürüyüşe çıktı ve birkaç masum
 tavşan öldürdü ve bir saat sonra geri döndü. Hala kimse yoktu. Bir süre daha harabelerde dolaştı, ancak hiçbir şey olmadı. Ertesi gün aynı şekilde,
-anahtarları saklayan Bayan Hughes'un şaşkınlığına rağmen Manastırı tekrar inceledi ve yatının gün batımına kadar Penruthyn'in etrafında
-uçtuğu görüldü. Ayrıca ara sıra kasabaya girip dükkan sahiplerine baktı ve her zamanki gibi dost canlısıydı; ve bu durumlarda
+anahtarları saklayan Bayan Hughes'un şaşkınlığına rağmen Manastırı tekrar inceledi ve
+yatı gün batımına kadar Penruthyn'in etrafında
+uçarken görüldü. Ayrıca ara sıra kasabaya da gitti ve dükkan sahiplerine baktı ve her zamanki gibi dost canlısıydı; ve bu durumlarda
 her zaman tepenin üzerinden veya eski Malory yolundan Dower House'a doğru
-bir yürüyüşe çıkardı.
+bir gezintiye çıktı.
 
 Ancak Malory halkı Penruthyn Manastırı macerasından bu yana daha da temkinli ve çekingen görünüyorlardı. Pazar günü geldi ve Bayan
 Anne Sheckleton Malory sırasına tek başına oturdu.
 
 Yerine erken gelen Cleve, yaşlı kadının tek başına içeri girdiğini ve
-kapının kapandığını gördü ve bir hayal kırıklığı sancısı yaşadı - hayal kırıklığından
-daha fazlası, acıya dönüştü.
+kapının kapandığını gördü ve bir hayal kırıklığı sancısı yaşadı - hayal kırıklığından daha
+fazlası, acıya dönüştü.
 
 Malory koltuğunun loş ışığında, bir kez daha, onu rahatsız eden Guido'yu
 görmüş olsaydı, üç ayini memnuniyetle oturabilirdi;
@@ -1802,12 +1803,11 @@ Halk duadan sonra ayağa kalktığında, Cleve Verney kaybolmuştu.
 Kilisenin bahçesinden, kendisinin ve aşık arkadaşı Sedley'nin bir hafta önce indiği arka kapıdan, kasaba duvarının altındaki Malory'ye giden dar yola doğru çıkışını yapmıştı.
 
 Bu yoldan, ağaçlarla
-örtülü olan yolun o ıssız kısmına ulaşana kadar isteksizce yürüdü; ve burada, eğimli tarlalara doğru denize doğru bakarken, sanki uzaktaki dağlara bakar gibi, aslında Bayan Sheckleton'ın yolunu kesti.
+örtülü olan yolun o ıssız kısmına ulaşana kadar isteksizce yürüdü; ve burada, eğimli tarlalara doğru, sanki uzaktaki dağlara bakıyormuş gibi, aslında Bayan Sheckleton'ın yolunu kesti.
 
 Yaşlı kadın biraz telaşlı ve utangaç görünüyordu ve onun
 ondan kurtulmaktan mutluluk duyacağını düşünüyordu. Ama bu Cleve için pek önemli değildi,
-kibarca selamlaşmasını yaptıktan sonra gülümseyerek ve saygılı bir şekilde onun yanından geçti.
-Birkaç cümle ilk önce önemsiz şeyler hakkında konuşulduktan sonra, Cleve şöyle dedi--
+kibarca selamlaşmasını yaptıktan sonra gülümseyerek ve saygılı bir şekilde onun yanından geçti. Önce birkaç cümle önemsiz şeyler hakkında konuşulduktan sonra Cleve şöyle dedi:
 
 "Seni orada gördüğümden beri eski Manastır'a iki kez gittim."
 
@@ -1841,15 +1841,13 @@ gerçekten nasıl faydalı olabileceğimi düşündüğümü söyleseniz --çok 
 "Sanırım, Bay Verney, size _güvenmememiz_yeterlidir; ve
 size temin ederim ki, etmiyoruz," dedi bekar kız.
 
-"Amcam, sizin onu varsaymanız için yönlendirilmiş olabileceğiniz türden bir adam olmasa da -hiç de kaba bir adam değil- kabul etmeliyim ki bazen biraz tuhaf ve zor -görüyorsunuz, sizinle bir yabancı olarak konuşmuyorum- ve
-bir anda bir şeyler yapmaz; yine de Sir Booth'un ondan tam olarak ne beklediğini bilsem--eğer bir görüşme teklif etmeye cesaret edebilirsem----"
+"Amcam, sizin onu varsaymanıza yol açmış olabileceğiniz türden bir adam olmasa da -hiç de kaba bir adam değil- kabul etmeliyim ki bazen biraz tuhaf ve zor biri -görüyorsunuz, sizinle bir yabancı olarak konuşmuyorum- ve bir anda bir şeyler yapmaz; yine de Sir Booth'un ondan ne beklediğini tam olarak bilsem--eğer bir görüşme teklif etmeye cesaret edebilirsem----"
 
-"Tamamen _imkansız_! Bunu _düşünmemelisiniz_," diye haykırdı kadın neredeyse dehşet dolu bir ifadeyle, "şu anda, her şey bu kadar tazeyken ve
-duygular bu kadar heyecanlıyken, mantıklı davranma havasında değil ve bundan iyi bir şey _çıkamazdı_."
+"Tamamen _imkansız_! Bunu _düşünmemelisiniz_," diye haykırdı kadın neredeyse dehşet dolu bir ifadeyle, "şu anda, her şey bu kadar tazeyken ve duygular bu kadar heyecanlıyken, mantıklı davranma havasında değil ve bundan iyi bir şey _çıkamazdı_."
 
 "Elbette, _sen_ en iyisini bilirsin. Ama çağrılmayı bekliyorum, Ware'deki kalışım daha uzun olamaz. Amcam sanki beni istiyormuş gibi yazıyor;
 ve ne kadar kısa olsa da, onu herhangi bir yararlı amaca
-uygun hale getirebilmeyi çok isterdim. Bayan Fanshawe'a ne kadar acıyorum anlatamam,
+uygun hale getirebilmeyi çok isterdim. Size Bayan Fanshawe'a ne kadar acıdığımı anlatamam,
 tüm kasvetli yerlerin en kasvetlisine hapsolmuş. Çok genç biri için
 çok doğal olmayan ve korkutucu bir inziva."
 
@@ -1868,30 +1866,30 @@ Bir başka küçük duraklama daha izledi.
 "_Siz_ duvarların dışına çıkmaktan korkmuyorsunuz, Bayan Sheckleton. Ancak, Bayan Fanshawe'yi, tamamen istemeden de olsa, Sir Booth'un gizli
 yerinin güvenliği için endişelendirdiğim için cevaplamam gereken çok şey var. Bu sır _benim_ ve başlangıçta bu sırla görevlendirilen kişiler dışında _kimse_ tarafından bilinmiyor; size _yemin_ ediyorum_ öyle. Kendinizi o melankolik bölgelere hapsetmeniz için dünyada hiçbir neden yok; aksine merak uyandırıyor ve insanlar merak etmeye ve sorular sormaya başlıyor; ve böyle bir konuda sizi hafife almayacağıma veya yanıltmayacağıma inanıyorum." 
 
-"Çok iyisiniz," diye cevapladı Bayan Sheckleton, aşağı bakarak. "Evet, çok dikkatli olmak zorundayız; ama bir kuralı çiğnemeye değmez; burada çok kısa bir süre kalabiliriz, biliyorsun. Ve
-kitaplar hakkında----"
+"Çok iyisiniz," diye cevapladı Bayan Sheckleton, aşağı bakarak. "Evet, çok dikkatli olmak zorundayız; ama bir kuralı çiğnemeye değmez; burada çok kısa bir süre kalabiliriz, biliyorsun. Ve kitaplar hakkında----"
 
-"Ah! Kitaplar hakkında hiçbir şey duymayacağım; Ware'e benim için kitaplar geliyor ve onları almak için orada olmayacağım. Ve size temin ederim ki, eğer onlara sadece bir ev odası verirseniz çok minnettar olurum - Malory'de çok daha güvende olacaklar; ve siz ve Bayan Fanshawe'in onlara bakacağınızı düşünmenin zevkini bana inkar etmeyeceksiniz?"
+"Ah! Kitaplar hakkında hiçbir şey duymayacağım; Ware'e benim için kitaplar geliyor ve onları almak için orada olmayacağım. Ve size temin ederim ki, eğer onlara sadece bir ev odası verirseniz çok minnettar olurum - Malory'de çok daha güvende olacaklar; ve siz ve Bayan Fanshawe'in onlara bakacağınızı düşünmenin zevkini benden esirgemezsiniz?"
 
 Bunun hoşuna gitmediğini düşündü; ve kaçamak bir cevap bulmaktan
-utandığını düşündü; ama o konuşamadan, devam etti, "ve geçen gün teknede gördüğüm küçük sincap nasıl; Bayan Fanshawe'in, sanırım? Ne kadar da güzel bir şey!"
+utandığını düşündü; ama konuşamadan önce devam etti, "ve geçen gün teknede gördüğüm küçük sincap nasıl; Bayan Fanshawe'in, sanırım? Çok güzel bir şey!"
 
-"Ah! Zavallı küçük Whisk. Bir trajedi yaşandı: korkunç bir şey, vahşi bir kedi ya da bir baykuş, geçen gece onu öldürdü ve öyle bir parçaladı ki; zavallı küçük, sevgili şey, sormamalısınız."
+"Ah! Zavallı küçük Whisk. Bir trajedi yaşandı: korkunç bir şey, vahşi bir kedi ya da bir baykuş, geçen gece onu öldürdü ve onu öyle bir parçaladı ki; zavallı küçük, sevgili şey, sormamalısınız."
 
 "Ah! Çok üzgünüm; ve Bayan Fanshawe şu anda bir arkadaşını ayıramaz."
 
 "Evet, büyük bir darbe oldu; ve--ve bence, Bay Verney, size
-burada veda etmeyi tercih ederim," dedi Bayan Sheckleton, kararlı bir şekilde durarak ve ona tutması için parmaklarını uzatarak; çünkü şüphe ve güven konusunda garip şartlardaydı--sadece şans eseri
-tanımaktan daha fazlasıydı.
+burada veda etmeyi tercih ederim," dedi Bayan Sheckleton, kararlı bir şekilde durarak ve ona tutması için parmaklarını uzatarak; çünkü şüphe ve güven konusunda garip şartlardaydı--sadece şans eseri bir
+tanımadan daha fazlasıydı.
 
-Malory ormanına doğru baktı--şimdi onları yukarıdan görüyordu, neredeyse ön plandaydı; ve bence, eğer Bayan Fanshawe'yi gölgelerinin altında görseydi, ondan tek bir kelime bile duyma şansına rağmen--belki de çok
+Malory ormanına doğru baktı--şimdi onları yukarıdan görüyordu, neredeyse ön plandaydı; ve bence, eğer Bayan Fanshawe'yi onun gölgeleri altında
+görmüş olsaydı, ondan tek bir kelime bile duyma şansına rağmen--belki de çok
 aceleci bir şekilde--doğruca yoluna devam etmesini hiçbir şey engelleyemezdi. Ama korular
 boştu; ne "Erl King" ne de kızı onları bekliyordu. Bu yüzden,
-sadece hiçbir şey için, yaşlı hanımı kızdırmak doğru olmazdı, çünkü onunla, birçok nedenden dolayı, iyi ilişkiler içinde devam etmesi arzu ediliyordu,
+sadece hiçbir şey için, yaşlı hanımı kızdırmak doğru olmazdı, çünkü onunla, birçok nedenle, iyi ilişkiler içinde devam etmesi arzu ediliyordu,
 ve gerçek bir pişmanlıkla, onun istediği gibi _orada_ vedalaştı,
 ve
 yavaşça geri yürüdü Cardyllian'a, arada sırada dik yolun eski kaldırımına gizlice bir bakış atarak, muhtemelen Guido'sunun
-kapıda yaşlı kadını karşılamak için gölgede belirebileceğini düşünüyordu. Ama
+kapıda yaşlı kadını selamlamak için gölgede belirebileceğini düşünüyordu. Ama
 hiçbir şey görünmüyordu--o içeri girdi ve karanlık onu karşıladı.
 
 BÖLÜM XIII.
@@ -1945,7 +1943,7 @@ döngüsü dönen ve uygun malzemesini
 ezip duran büyük eski makinenin
 altına çekilip ezilmeden önce.
 
-Ama tüm bu lezzetli tecavüz keki ve siyasetin altın-adamının yanında, Cleve
+Ama tüm bu lezzetli tecavüz keki ve siyasetin altın-altınının yanında, Cleve
 Verney'in, o baharda başka yerlerde, çiçekler ve meyveler hakkında geçici algıları vardı. Hayaller, pişmanlıklar, özlemler vardır - insan ruhunda bir gün,
 bir gün, kısa da olsa, tam bir egemenlik günü olacak.
 
@@ -2023,7 +2021,7 @@ görünecek?"
 Malory'nin solmuş eski oturma odasında yatak odası mumunu yakıyordu, geceyi geçirmek üzereyken, gri kuzeni Anne'e şöyle seslendi. O yaşlı bekar kadın rahatça esnedi ve sonra
 dedi ki--
 
-"Bir daha asla görünmeyecek canım."
+"Bir daha asla görünmeyecek, canım."
 
 "Bu konuşmadan yola çıkarak, onun hakkında bir şeyler bildiğini söyleyebilirim," dedi Margaret Fanshawe, merakla yüzüne bakarken mumunu masaya geri koyarken.
 
@@ -2227,7 +2225,7 @@ kaygısız bir ihtişamla ve elini hafifçe sallayarak, kendini biraz daha geriy
 bu soylu Ware evinden daha lüks ve mimari bir şey görmedim, zevkli sütunlu koridoru, sütunlu ön cephesi ve aileye ait olan Cardyllian'ın şık sulama yerinin uzaktan görünümüyle; Bay Verney, sahneye kesinlikle daha onurlu bir çekicilik katan hiçbir şey yoktur, aile mülkünün uzaktan görünüşünden, burada olduğu gibi, açıkça tesadüfidir -- zorakidir, tıpkı arkadaşım Sir Thomas Oldbull'un, baronetin aksi takdirde oldukça görkemli koltuğunda olduğu gibi; çok yüceltmekten uzak, insana acı veriyor, kişinin zevkini bozuyor"--ve
 Bay Jos. Larkin omuzlarını silkti ve hafifçe irkildi ve başını salladı--"Sir Thomas'ı tanıyor musunuz?--hayır--cesaret edeyim de--o oldukça yeni bir adam, Sir Thomas--biz hepimiz ona dünyanın bizim tarafımızda o gözle bakıyoruz--aslında, bir _parvenu_," Bay Larkin'in telaffuz ettiği kelime sanki _pair vennew_ şeklinde yazılmış gibi. "Ama, biliyorsunuz, İngiliz Anayasası, her
 adam
-yükselebilir--bizim elimizden bir şey gelmez--onları aşağıda tutamayız. Para
+yükselebilir--buna engel olamayız--onları aşağıda tutamayız. Para
 güçtür, Bay Verney, eski Coachhouse Kontu'nun bana bir zamanlar söylediği gibi--ve öyledir; ve çok fazla yaptıklarında, ortaya çıkarlar ve biz sadece
 onları kabul etmeli ve onlardan en iyi şekilde yararlanmalıyız."
 
@@ -2693,10 +2691,9 @@ yardımcı olacaktır. Amcası, bilirsin--her zaman o aileden biri--Kabine'de; v
 bunun hakkında; ve bu benim görüşüm, insanların genel olarak böyle söylemeye başlamasından uzun zaman önceydi ve bu tür şeyler, anlamıyor musun?"
 
 Genel bir kural olarak, Cleve amcasıyla herhangi bir favori noktayı tartışmanın bir faydası olmadığını biliyordu. Oyalayıcı
-fırsatlara ve pasif direnişe boyun eğdi ve güvendi; bu yüzden şimdi kendisine her zaman gösterdiği ilgi için kendini en minnettar şekilde ifade etti ve dikkatli bir kulak veriyormuş gibi görünüyordu, bu arada Sayın Kiffyn Fulke Verney bu temayı bilgece ve sessizce diktatörce bir şekilde gevezelik ediyordu. Bu onun en keyifli uğraşlarından biriydi ve gizlice öz sevgisini tatmin ediyordu, Cleve Verney'nin bu yönetimi -gerçekten gelecek vaat eden genç bir adam- ve ona ait olan her şeyi yaptığı gibi onu da yüceltiyordu ve Meclis'teki başarıları ve genel olarak gördüğü büyümeyi sessizce kendi ipuçlarının ve manipülasyonlarının ve "genç adamı bu konuda doğru yola sokmasının" doğrudan sonucu olarak görüyordu.
+fırsatlara ve pasif direnişe boyun eğdi ve güvendi; bu yüzden şimdi kendisine her zaman gösterdiği ilgi için kendini en minnettar şekilde ifade etti ve dikkatli bir kulak veriyormuş gibi görünüyordu, bu arada Sayın Kiffyn Fulke Verney bu temayı bilgece ve sessizce diktatörce bir şekilde gevezelik ediyordu. Bu onun en keyifli uğraşlarından biriydi ve gizlice öz sevgisini tatmin ediyordu, Cleve Verney'nin bu yönetimi -gerçekten gelecek vaat eden genç bir adam- ve ona ait olan her şeyi yaptığı gibi onu da yüceltiyordu ve Meclis'teki başarıları ve genel olarak büyümesi, kendi ipuçlarının ve manipülasyonlarının ve "genç adamı bu konuda doğru yola sokmasının" doğrudan sonucu olarak sessizce kabul etti. 
 
-"Bir fikri var -genç adam var- benim bu konuda bir şeyler bildiğime dair -kamu hayatında bazı şeyler gördüğüme ve insanları tanıdığıma- ve bu tür şeylere.
-İpucu alabilen genç bir adam ve aman Tanrım, sanırım onu ​​bu konuda oldukça doğru yola soktum ve onu doğru yola soktum ve şeyler; ve eğer kurtulursam, onu da koyarım, efendim. Şeyler hakkında oldukça iyi bilgim var ve insanların benimle konuştuğunu görüyorsunuz, beni dinliyorlar,
+"Bir fikri var -genç adam var- benim bu konuda bir şeyler bildiğime dair -kamu hayatında bazı şeyler gördüğüme ve insanları tanıdığıma- ve bu tür şeylere. O, ipuçlarını yakalayabilen genç bir adam ve aman Tanrım, sanırım onu ​​bu konuda şu ana kadar oldukça doğru yola soktum ve onu doğru yola soktum ve şeyler; ve eğer kurtulursam, onu da koyarım, efendim. Şeyler hakkında oldukça iyi bilgim var ve insanların benimle konuştuğunu görüyorsunuz, beni dinliyorlar,
 bu konuda, ve ben ona ne yaptığını ve şeyler hakkında bilgi veriyorum."
 
 Ve sonra veda geldi. Cleve'e on pound verdi, ki bunu kumaşçının karısı Bayan Jones, Cardyllian'daki bazı fakir insanlara dağıtırdı. Böylece küçük ruhu, kendi tarzında nezaketten yoksun değildi; ve Ware'den uzaklaştı ve Cleve basamaklarda durdu, gülümseyerek, elini sallayarak ve "On beşinde," diye tekrarladı,
@@ -2731,7 +2728,7 @@ Dur, çok erken döndüğümüzü biliyordum. Ve o çok tuhaf bir kız, sanırı
 eğer burada olduğumu hayal ederse evde kalmayı veya başka bir yere gitmeyi tercih ederdi.
 Saat üç!" Bir an için saatini kulağına tuttu. "Aman Tanrım! Durduğunu sanmıştım. O saat çok uzun görünüyor. Ama henüz pes etmeyeceğim. Bu" - ona _kaba_ diyecekti ama hipotezin
 rahatsızlığına rağmen bile söyleyemedi - "o tuhaflık. Sir Booth,
-planlarını bozmuş veya geciktirmiş olabilir."
+planlarını altüst etmiş veya geciktirmiş olabilir."
 
 Böylece, yalnız denize Malory'ye doğru uzun uzun baktıktan sonra,
 gözlem noktasından indi ve oldukça
@@ -2844,7 +2841,7 @@ genç hanım dedi ki--
 "Gelmeniz daha iyi olmaz mıydı? Bu sadece bir adım ve Bay Verney bunun
 gerçekten merak uyandırıcı olduğunu söylüyor."
 
-"Ben olumlu bir yaşlı kadınım," dedi kuzen Anne, "bildiğiniz gibi ve gerçekten biraz yorgunum; ve siz ahşapta eski oymalara bu kadar ilgi duyuyorsunuz--hiç anlamıyorum Bay Verney; onun Brüksel'de ve Anvers'te çekilmiş
+"Bildiğiniz gibi ben pozitif bir yaşlı kadınım," dedi kuzen Anne, "ve gerçekten biraz yorgunum; ve siz ahşapta eski oymalara bu kadar ilgi duyuyorsunuz--hiç anlamıyorum Bay Verney; onun Brüksel'de çekilmiş, bazıları da Anvers'te çekilmiş
 gerçekten güzel çizimlerle dolu bir kitabı var. Git canım, gör ve sen geri döndüğünde ben dinlenmiş olacağım."
 
 Böyle konuştu iyi huylu Bayan Sheckleton, Margaret'i her türlü kaçamaktan mahrum bırakarak; ve buna göre Cleve Verney'i,
@@ -2924,8 +2921,8 @@ Avlunun diğer tarafındaki kalıntıları ziyaret etmeyi çok isterim."
 Ve buna göre kiliseden ayrıldılar ve Cleve kapıyı hem
 tuhaf bir sinirlilik hem de endişe hissiyle kapattı.
 
-"Benden hoşlanmıyor mu? Yoksa nişanlı mı? Bu tuhaf konuşmalarının anlamı, bunlardan biri değilse ne olabilir? Beni uyarıyor ve yaklaşımım karşısında
-kesinlikle öfkeli görünüyor. İronilerini tamamen anlamamı sağladı ve açıklanamayan kızgınlığının gerçekliğini yanlış anlamak mümkün değildi."
+"Benden hoşlanmıyor mu? Yoksa nişanlı mı? Garip konuşmalarının anlamı, bunlardan biri değilse ne olabilir? Beni uyarıyor ve yaklaşımıma kesinlikle
+kızmış gibi görünüyor. İronilerini tamamen anlamamı sağladı ve açıklanamayan kızgınlığının gerçekliğini yanlış anlamak mümkün değildi."
 
 Böylece Cleve, daha önce hiç deneyimlemediği bir ağırlıkla, binanın diğer bölümlerindeki rehber görevini üstlendi ve korkarım ki biraz da ruhsuz bir şekilde yerine getirdi. Onun tavrı ona değişmiş, ürkek ve kibirli görünüyordu. Bir süre daha ihtiyatlı bir şekilde kendine saklaması gereken duyguların çok aceleci bir şekilde açığa çıkmasının sonucu olarak gizli ve ani bir antipati mi olmuştu? Ve yine korkunç bir sızıyla onun kalbinin çoktan kazanılmış olduğu düşüncesi geldi - ona karşı çok soğuk ve anlaşılmaz olan kalp - başka bir adamın - bir canavarın - bir aptalın tutkulu ve uysal hayranı. Ama ilk aşk - sahip olmaya değer tek aşk; ve yine de, tüm aşkların en cahil - en çılgın olanı. 
 
@@ -3054,11 +3051,12 @@ Gençlere gizlice meraklı bir bakış attı ve
 yüzlerinde sıra dışı bir şey gördüğünü
 söylemeye cesaret edebilirim.
 
-Konuşmadıkları için, Bayan Sheckleton, Cleve aniden araya girene kadar, duymadan sohbet etmeye devam etti--
+Konuşmadıkları için, Bayan Sheckleton, Cleve aniden araya girene kadar, duymazlıktan gelinerek sohbet etmeye devam etti--
 
 "Yaşlı bir kişi var - ona yaşlı bir kadın diyebilirim - Rebecca
-Mervyn, Malory'nin bitişiğindeki kâhyanın evinde yaşıyor, kendisiyle çok eski bir dostluğum var; zavallıcık, ben çocukken bana karşı çok nazikti. Büyükannem onun hakkında çok iyi şeyler düşünüyor; ve _o_ asla kolay kolay memnun olmazdı. Sanırım Bayan Mervyn'i görmüşsünüzdür;
-eğer gördüyseniz onu kolay kolay unutamazsınız. Kasabada bana onun
+Mervyn, Malory'nin bitişiğindeki kâhyanın evinde yaşıyor, kendisiyle çok eski bir dostluğum var; zavallıcık, ben çocukken bana karşı çok nazikti. Büyükannem onun hakkında çok iyi düşünüyor; ve _o_ asla kolay kolay memnun olmazdı. Sanırım Bayan Mervyn'i görmüşsünüzdür;
+eğer gördüyseniz onu
+kolayca unutamazsınız. Kasabada bana onun
 çok iyi olduğunu söylediler; her zaman olduğu gibi aynı tuhaf yaratıktı ve hala 
 kahyanın evinde yaşıyordu."
 
@@ -3066,14 +3064,14 @@ kahyanın evinde yaşıyordu."
 kez veya daha fazla - ve o _çok_ tuhaf bir yaşlı kadın, tıpkı 'Sihirli Yüzük'teki o hayırsever büyücü gibi - hatırlamıyor musun? siperlerin etrafında beyaz zambaklar yetişen
 şatonun içinde yaşayan," diye cevapladı Bayan Sheckleton.
 
-"Biliyorum," dedi Cleve, hiç okumamıştı. "Ve eğer onu görmek istiyorsanız, garip bir şekilde _işte_ burada," diye fısıldadı Bayan Sheckleton, Sedley'nin deniz sahili hakkında görüştüğü yaşlı kadın, sınır duvarının köşesinden, şimdi durdukları kapının yanında, gri peleriniyle, üzgün adımlarla, ve her zamanki gibi, Pendillion'a doğru denize bakarak gelirken.
+"Biliyorum," dedi Cleve, hiç okumamıştı. "Ve eğer onu görmek istiyorsanız, garip bir şekilde _işte_ burada," diye fısıldadı Bayan Sheckleton, Sedley'nin deniz sahili hakkında görüştüğü yaşlı kadın, sınır duvarının köşesinden, şimdi durdukları kapının yanında, gri peleriniyle, üzgün adımlarla, ve her zamanki gibi, Pendillion'a doğru denize bakarak.
 
 "Hayır," dedi Cleve, gölgeye biraz daha çekilirken bir gülümsemeyle; "Şimdi onunla konuşmayacağım; cevaplamam gereken o kadar çok sorum olacak ki, ondan bir saat bile uzaklaşamam."
 
 Neredeyse konuşurken yaşlı kadın yanlarından geçti ve kapıdan girdi; bunu yaparken, küçük gruba dikkatle baktı ve sanki hemen duracakmış gibi bir an tereddüt etti. Ama başka bir işaret vermeden devam etti.
 
 "Tekrar nefes alıyorum," dedi Cleve; "Beni tekrar tanıyacağından ve
-konuşmakta ısrar edeceğinden çok korkuyordum."
+konuşmak için ısrar edeceğinden çok korkuyordum."
 
 "Belki de yapmaması daha iyi; bilirsin,
 senin adını anarsa, _nedenlerden_ ötürü," diye fısıldadı Bayan Sheckleton, Cleve ile aniden çok daha samimi, çok daha dost canlısı, çok daha
@@ -3159,7 +3157,7 @@ büyümemişti.
 
 Cleve, adım sessizlikte kaybolana kadar olduğu yerde durdu ve bir süre daha bekledi ve Sir Booth'un sesini duydu, tahmin ettiği gibi,
 o ıssız kıyıdan kayıkçıları selamlıyordu ve onlarınki cevap veriyordu ve
-çocukluğunda sevdiği "Harika Hikaye"de onu korkutan hayalet kayık ve kayıkçıları düşündü. Hayatında ona kalan her şey için, pişmanlık dışında geriye dönüp bakacak olursa, o hayalet kayıkçılardan biri olabilirdi. Bu sırada, gizli düşüncelerinin sessizliğinde, Malory'nin dışındaki karanlık denizde
+çocukluğunda sevdiği "Harika Hikaye"de onu korkutan hayalet tekneyi ve kayıkçıları düşündü. Hayatında ona kalan her şey için, pişmanlık dışında geriye dönüp bakacak olursa, o hayalet kayıkçılardan biri olabilirdi. Bu sırada, gizli düşüncelerinin sessizliğinde, Malory'nin dışındaki karanlık denizde
 kayıyordu. "Pekala!" diye düşündü Cleve, aniden gelen bir ilhamla, "en azından iki saat
 önce geri dönmeyecek. Ben _devam_ edeceğim--sadece evin önünden geçmekte büyük bir zarar yok--ve bir şey olup olmadığını göreceğiz."
 
@@ -3203,14 +3201,15 @@ ve belki de nazik yaşlı kadın da başka birini düşünüyordu.
 "Sadece arka pencereye koşup onu susturacağım. Bir an bile uzaklaşmayacağım, Margaret, canım."
 
 Ve Bayan Sheckleton kapıyı kapatarak uzaklaştı. Bayan Fanshawe
-tek bir kelime bile söylememişti, pencerede durup dışarıyı izliyordu.
+bir kelime bile söylememişti, ancak pencerede durup dışarı bakıyordu.
 Onun orada olup olmamasının onun için tamamen kayıtsız olduğunu düşünebilirdiniz.
-Tek bir kelime bile söylememişti. Ayın yükselen ihtişamının uzaktaki tepelerin üzerinden görülebildiği noktaya doğru baktı.
+Bir kelime bile söylememişti. Ayın yükselen ihtişamının uzaktaki tepelerin üzerinden görülebildiği noktaya doğru baktı.
 
-"Dün bir şey kaçırdın mı - eminim kaçırdın? Penruthyn iskelesinde bir iğne buldum. O kadar güzel ki, onu saklamak için çok
-çok cazip geldi bana; o kadar çok güzel ki, bir şekilde, bunun senden başkasına ait olamayacağını düşünüyorum."
+"Dün bir şey kaçırdın mı? Eminim kaçırdın?
+Penruthyn iskelesinde bir iğne buldum. O kadar güzel ki, onu saklamak için çok
+çok cazip geldi bana; o kadar çok güzel ki, bir şekilde, sanırım senden başkasına ait olamazdı."
 
-Ve o, bibloyu yelek cebinden çıkardı.
+Ve o da bibloyu yelek cebinden çıkardı.
 
 "Ah! Çok sevindim," dedi; "Bu sabah gördüğümü sanmıştım ve
 ne olduğunu düşünemedim. Bu akşama kadar hiç kaçırmamıştım."
@@ -3221,9 +3220,12 @@ güçle tuttu.
 "Bir an için elini tutmama izin ver; henüz benden alma. Yalvarıyorum, sadece birkaç kelime söylerken, ki sen bunları neredeyse bir bakışla bir veda
 edebilirsin - benim ebedi vedam. Margaret, seni hiçbir
 erkeğin seni sevemeyeceği kadar seviyorum. Sen bunların hepsini genç adamların
-söylediği çılgınlıktan başka bir şey sanıyorsun. Onlar hakkında hiçbir şey bilmiyorum. Söylediklerim umutsuzca doğru; çılgınlık değil, üzücü ve telafisi mümkün olmayan bir gerçeklik. Aşkı hiç tatmadım, ama senin için dünyanın asla hayal
-edemeyeceği kadar büyük bir putperestlik. Sen hiçbir an düşüncelerimden değilsin. Sahip olduğum her iyi umudu
-veya düşünceyi sana borçluyum. Sen hayatımın iyi ilkesisin ve seni kaybedersem, ben de kaybolurum."
+söylediği çılgınlıktan başka bir şey sanıyorsun. Onlar hakkında hiçbir şey bilmiyorum. Söylediklerim umutsuzca doğru; çılgınlık değil, üzücü ve telafisi mümkün olmayan bir gerçeklik. Aşkı hiç senin dışında
+bilmedim - ve senin için dünyanın asla
+hayal
+edemeyeceği kadar büyük bir putperestlik. Sen hiçbir an için düşüncelerimden değilsin. Sahip olduğum her iyi umudu
+veya düşünceyi sana borçluyum. Sen hayatımın iyi ilkesisin
+ve seni kaybedersem, ben de kaybolurum."
 
 Bu garip kız geleneksel bir genç kız değildi. Bunun onu daha iyi mi yoksa daha kötü mü yaptığını söylemiyorum. Gözlerini indirmedi,
 elini de çekmedi. O paha biçilmez sözü ona bıraktı, öyle görünüyordu ki, bilinçsizce ve melankolik ve ciddi sorgulayıcı gözlerle, kendisine yalvaran yakışıklı genç adama baktı.
@@ -3239,12 +3241,14 @@ Küçük bir sessizlik oldu ve çok alçak bir sesle, "Seni _sevseydim_, beni d�
 alay etmeyi öğrenmiş bu genç adamın elinin titrediğini hissetti.
 
 "Ama önce, eğer birinin beni sevmesine izin verecek olsaydım, ona şunu söylerdim,
-ne yaptığını bilmelisin. Beni tüm kalbinle sevmelisin; kalbin ve ruhunla, kendini bana tamamen vermelisin. Ben senin için her şey olmalıyım - senin bugünün, geleceğin, mutluluğun,
-umudun; çünkü kalbini dünyadaki hiçbir şeyle paylaşmaya
-dayanamam! Ve bunlar zor şartlar, ama tek şartlar."
+ne yaptığını bilmelisin. Beni tüm
+yüreğinle sevmelisin; kalbin ve ruhunla, kendini tamamen bana vermelisin. Ben
+senin için her şey olmalıyım - senin bugünün, geleceğin, mutluluğun,
+umudun; çünkü kalbini
+_dünyadaki_ hiçbir şeyle paylaşmaya tahammülüm yok! Ve bunlar zor şartlar, ama tek olanlar."
 
-"Hiçbir yemin etmeme gerek yok, canım - canım. Hayatım senin tarif ettiğin gibi
-ve buna engel olamıyorum; sana hayranım. Ah! Margaret, beni sevebilir misin?"
+"Hiçbir_ yemin etmeme gerek yok, canım - canım. Hayatım senin tarif ettiğin gibi
+ve buna engel olamıyorum; sana hayranım. Ah! Margaret, _beni_ sevebilir misin?"
 
 Sonra Margaret Fanshawe cevap verdi ve bence şimdiye kadar konuşmuş en hüzünlü tonla; ve ona göre en tatlı ve en ciddi; gecenin
 uzaktaki müziği gibi, cenaze ve hüzünlü, sözleri onun büyülenmiş kulağına
@@ -3262,7 +3266,7 @@ hayran olduğumu biliyorsun," diye yalvardı.
 Elini kendine doğru çekti. Adam elini bıraktı. Onunla bu aptalca
 bir oyundan öteydi ve garip bir korkunun ağırlığı yüreğindeydi.
 
-Bu küçük sahne, benim bu zavallı notumu okumaktan daha uzun sürdü. Başlarını kaldırdıklarında, ay ağaçların tepelerini ve Galler dağlarının uzak zirvelerini gümüşleştiriyordu ve suyun üzerinde elmas dizileri gibi ileri geri parlıyordu.
+Bu küçük sahne, benim bu zavallı notumu okumaktan daha uzun sürdü. Başlarını kaldırdıklarında, ay ağaçların tepelerini ve Galler dağlarının uzak zirvelerini gümüşleştiriyordu ve suyun üzerinde elmas dizileri gibi ileri geri parıldıyordu.
 
 Ve şimdi Bayan Anne Sheckleton içeri girdi, yaşlı Neptün'ü neşelendirdikten sonra.
 
@@ -3301,7 +3305,7 @@ tezgahın üzerine eğildi ve vurgulu zekasını ve tahminlerini kasıtlı olara
 
 "Çok _yalnız_ olmalısınız, hepimiz düşünüyoruz, orada, Ware'de, efendim;
 ve yelken açmak için yatınız ve koşmak için köpek arabanız olmasına rağmen ve pek de aldırış etmiyor olsanız da, yine de uygun değil, biliyorsunuz, _bu_ tarafı diğerinden çok daha fazla seven biri için. Biz, _düşünüyoruz_ ve _merak ediyoruz_, hepimiz ediyoruz, yolun karşısındaki Verney Arms'da bir süre daha kalmazsınız, biliyorsunuz, aramızda kalırsınız ve
-isteyebileceğiniz her şeye yakın olursunuz; diğer taraf, biliyorsunuz, çok sıkıcı; bunu _inkar edemeyiz_, Ware'in çok güzel bir yer olduğu doğru olsa da --gerçekten _güzel_ bir yer-- ama _yalnız_, bunu kabul etmeliyiz; _etmemeliyiz_ mi?"
+isteyebileceğiniz her şeye yakın olursunuz; diğer taraf, biliyorsunuz, çok sıkıcı; bunu _inkar edemeyiz_, Ware'in çok güzel bir yer olduğu doğru olsa da --gerçekten _güzel_ bir yer-- ama _yalnız_, bunu kabul etmeliyiz; _etmemeliyiz_?"
 
 "Çok yalnızım," diye kabul etti Cleve, "ama yine de Verney Arms'da yaşamam için bir neden göremiyorum."
 
@@ -3321,9 +3325,10 @@ olmayacaksa saygılarımı sunmaya itiraz etmem. Cardyllian arkadaşlarım neyin
 ortadan kaybolduğu bir an bekliyorum, sadece beş dakikalığına içeri koşup ona nasıl olduğunu sormak için. Ve
 arkadaşım, Wynne Williams, Leydi Verney'e bu insanların ne kadar tuhaf olduğunu söylememe izin vermiyor, deli oldukları söylentisini duymasından çok korkuyor.
 Ama gerçek şu ki, oraya her gittiğimde ve ağaçların arasından içeri baktığımda, evin önünde bazılarını görüyorum ve tabii ki onları rahatsız etmeden kapıya kadar gidemiyorum, çünkü tamamen kapalı kalmak istiyorlar; ve bunun sonu, diyorum ki, onlara, Lady Verney tarafından havaya uçurulacak ve ne cevap vereceğimi bilemeyeceğim - Tanrı aşkına! Ama
-Kardilyan'daki arkadaşlarıma,
+Kardilyan'daki arkadaşlarıma söyleyebilirsin,
 bir tanışmayı gerçekleştirmede _onların_ sahip olduğundan daha fazla
-zekalılık için bana kredi verdikleri için onlara çok minnettarım; ve Malory'deki o güzel kızdan,
+zeka için bana kredi verdikleri için onlara çok minnettarım; ve
+Malory'deki o güzel kızdan,
 Bayan--oh!--adı neydi?--bahsettikleri için. Umarım delirmemiştir; çünkü
 eğer o varsa ben de olmalıyım."
 
@@ -3396,7 +3401,7 @@ Kaptan Shrapnell'in onu bir dedikoducu gibi ilgiyle izlediğini biliyordu.
 
 "Güzel mi? Sanırım. Ama onu gerçekten çok az tanıyorum," dedi Bayan Agnes.
 
-"Gel, gel; bu yeterli olmaz," dedi Kaptan, çok cilveli bir şekilde. "Dün akşam, bir grup aşağı yukarı yürürken kulüp penceremizde oturduğumu
+"Hadi, hadi; bu yeterli olmaz," dedi Kaptan, çok cilveli bir şekilde. "Dün akşam, bir grup aşağı yukarı yürürken, kulüp penceremizde oturduğumu
 unutuyorsun. Ha, ha, unutuyorsun. Orada oldukça
 iyi görüyoruz ve yaşlı Rogers pencerelerimizi ovuyor; ve cam oldukça
 parlak bir şekilde şeffaf, ha, ha, ha! hey?"
@@ -3433,14 +3438,14 @@ o anda,
 geniş bordası o meskeninin pruva penceresine doğrultulmuş bir savaş gemisinin görünümünü selamlayacağını,
 elbette,
 değerli babasına, gri başı görünen babasına, tıpkı doğru Lot'a verilen gibi, -saçma, mermi, roket ve marlin çivileriyle- tüm endişeyi elle tutulamaz toza
-bozma emriyle- bildireceğini kabul etmek gerekir.
+boğma emriyle- bildireceğini kabul etmek gerekir.
 
 Bayan Agnes'in haksız olduğu kabul edilmelidir; zararsız ve genel olarak iyi huylu olan, o canlı
 kabinde toplanan ve orada gözlükleriyle _Times_
 'ı okuyan, sevimli kaptanın
 şakalarını ve abartılarını
 ziyaret etmek ve o ıslah olmaz suçluya ulaşmak ve
-insan hayatını bu kadar büyük bir israf ederek onun kalesini yıkmak adil olmazdı.
+bu kadar büyük bir insan hayatı israfıyla onun kalesini yıkmak adil olmazdı.
 
 "Hadi, şimdi; seni bırakmayacağım, Bayan Aggie. Diyorum ki, _bir_ soru var. Ne diyorsun? Hadi, şimdi, gerçekten bize söylemelisin. Genç Verney hakkında ne düşünüyorsun?"
 
@@ -3755,7 +3760,7 @@ iç çekerek, ona bakarken, bakışlarında geçmişe ve kehanete ait garip bir 
 Küçük bir kızarma--küçük bir gülümseme--güzelliğin içindeki o zafer ışığının anlık bir parıltısı, o güzel hayaletin ölümlü olduğunu gösterdi.
 
 "Güzellik!--ah!--evet! Eğer _o_ burada olmasaydı, _onlar_ da olmazdı. Bayan
-Margaret!--zavallı şey! Onu gördüm. Onu tanıyorum, ama aradan çok yıllar geçti," dedi yaşlı Rebecca. "Gözlerim ona takıldığı an, onu
+Margaret!--zavallı şey! Onu gördüm. Onu tanıyorum, ama aradan çok yıllar geçti," dedi yaşlı Rebecca. "Gözlerim ona takıldığı anda, onu
 tanıdım; hepsinde tuhaf bir şeyler var - Verney'ler, yani. Herhangi bir yerde, herhangi bir kalabalıkta, herhangi bir kılık değiştirmiş bir Verney tanıyabilirim.
 Onu hayal ettim, düşündüm ve onu bekledim, kaç yıldır? Tanrı yardımcım olsun, unuttum! Senin kadar gençken.
 Cleve Verney yakışıklı, ama çok daha önce başkaları da vardı - oh! çok daha
@@ -3813,7 +3818,7 @@ hoşlandığını düşünmeye meyilliydi ve "The Cottage"dan arkadaşı Bayan B
 Aggie evlenirse, _vazgeçmesi_ gerektiğini itiraf etti. _Hiçbir şey_ Bayan Charity'yi evlenmeye _ikna edemezdi,
 arkadaşlarına ciddi bir şekilde güvence verdi.
 
-Ve ben o bekar kızın, "kızların evlenmesinin şok edici çılgınlığı"na karşı çıktığı sertlikte en ufak bir ekşi üzüm tadı olmadığını söylemek için adaletli davranmalıyım, çünkü gençliğinde hiç etkilenmediği birkaç istisnai teklif almış olmasına rağmen şüphesiz evlenmiş olabilirdi.
+Ve ben o bekar kızın, "kızların evlenmesinin şok edici çılgınlığı"na karşı çıktığı sertlikte en ufak bir ekşi üzüm tadı olmadığını söylemek için adaleti sağlamalıyım, çünkü gençliğinde hiç etkilenmediği birkaç istisnai teklif almış olmasına rağmen şüphesiz evlenmiş olabilirdi.
 
 Sir Booth'un Cleve Verney ile yaptığı konuşmada hangi umutları
 kurmuş olabileceğini bilmiyorum. Baronet'in içinde bulunduğu durumdaki adamlar umutlarını
@@ -3824,12 +3829,11 @@ Neyse ki, Cleve'in Margaret'i, Sir Booth ile yarıştığı bölgedeki bazı siy
 
 Ancak, Sir Booth'un hayalleri bir çarpışmayla yıkıldı. Bayan Anne Sheckleton'a, Sir Booth'un avukatlarından, Baronet'e Bay Kiffyn Fulke Verney onlara az önce bir ihbarname göndermişti
 bu ihbarname, keyfi bir şekilde can sıkıcı ve pahalı bir yargılamayı tehdit ediyor gibiydi
-ve sonra her birinin sonuçlarını ayrıntılı olarak açıkladıktan sonra, onların hangi yolu izlemelerini istediğini bilmek istedi.
+ve sonra her birinin sonuçlarını ayrıntılı olarak açıkladıktan sonra, onların hangi yolu izlemelerini istediğini bilmek istiyordu.
 
 Şimdi Sir Booth çılgınlıklarından birine kapıldı, Bayan Sheckleton'ı çağırdı,
 tüm Verney ailesini lanetledi ve aforoz etti ve
-Malory'nin duvarlarını, onları inşa eden kadim ırkın
-başlarına fırlattığı fırtına ve gök gürültüsüyle çınlattı.
+Malory'nin duvarlarını, onları inşa eden kadim ırkın liderlerine fırlattığı fırtına ve gök gürültüsüyle çınlattı.
 
 Korkmuş ve solgun Bayan Anne Sheckleton geri çekildi.
 
@@ -3859,16 +3863,13 @@ o bile ne yapabilir?" dedi Bayan Sheckleton.
 
 Margaret pencereden ormanlık alana baktı ve içini çekti.
 
-"Amcası Kiffyn Verney," diye devam etti Anne Sheckleton, "öylesine
-hoş olmayan, kinci bir adam ve aralarında öyle bir kan davası var ki,
-bunun nasıl biteceğini gerçekten anlamıyorum; ama Cleve, bilirsin, çok zeki,
-ve çok sadık, eminim bir yolunu bulacaktır."
+"Amcası Kiffyn Verney," diye devam etti Anne Sheckleton, "öylesine nahoş, kinci bir adam ki aralarında öyle bir kan davası var ki, bunun nasıl biteceğini gerçekten anlamıyorum; ama Cleve, bilirsin, çok zeki ve çok sadık, eminim bir yolunu bulacaktır."
 
 Margaret tekrar içini çekti ve şöyle dedi,--
 
 "Sanırım babam _çok_ öfkeli."
 
-Sanırım Sir Booth Fanshawe, o ruhlu kızın dünyada gerçekten korktuğu tek kişiydi. Korkarım ki o yaşlı adamda pek de iyi bir şey yoktu ve onun hakkında duyduğum şeylerin çoğu doğruydu.
+Sanırım Sir Booth Fanshawe, o ateşli kızın dünyada gerçekten korktuğu tek kişiydi. Korkarım ki o yaşlı adamda pek de iyi bir şey yoktu ve onun hakkında duyduğum şeylerin çoğu doğruydu.
 Diğer şiddet yanlısı adamların aksine, kolayca yatıştırılamazdı; ve genellikle,
 çok sıkıntılı olmadığında, tehditlerini hatırlar ve uygulardı.
 Margaret, onun ve ölmüş annesi arasındaki sahneleri belli belirsiz hatırlıyordu. Çocukluğunda onun ciddiyetinden duyduğu korkuyu ve onun
@@ -3878,11 +3879,11 @@ Bayan Sheckleton sadece parmaklarını havaya kaldırdı ve başını hafifçe s
 tavanına baktı.
 
 Margaret tekrar iç çekti. Sanırım hayatının yükünün
-hiçbir zaman yolunda gitmeyen o gerçek aşk yolunu düşünüyordu.
+hiçbir zaman düzgün ilerlemediği o gerçek aşk yolunu düşünüyordu.
 
 Bekar arkadaşı, onun üzgün, solgun yüzüne baktı, ormana
-hayalperestçe bakıyordu. Kaçınılmaz olanın, insan hayatının
-kederlerinin ağırbaşlı gölgesi, şimdi ilk kez genç yüzüne dokunmaya başlamıştı. Eski
+hayalperestçe bakıyordu. Kaçınılmaz olanın ciddi gölgesi, insan hayatının
+üzüntüleri, şimdi ilk kez genç yüzüne dokunmaya başlamıştı. Eski
 hikaye, yakında ciddi bir ilahiye dönüşen o uğursuz müzikal tonlarda ona çoktan kendini anlatıyordu; ve bazen, en sonunda
 böyle bir enkazın üzerinde ve gözlerimizi ve kulaklarımızı kapattığımız ve unutmaya çalıştığımız
 karanlıkta çatırdayıp uluyordu.
@@ -4004,7 +4005,7 @@ Etherage'in--biz onları burada Cardyllian'da mirasçı sayıyoruz ve ayrıca ç
 Verney'nin--çok memnun olacağını söylüyorlar, o sonunda karar kılmalı ve genç hanımın babasına ne kadar memnun olduğunu söylemek için yazmış; çünkü Bay Cleve "-burada sesini gizli bir mırıltıya düşürdü,
 gözlüklerini müşterisinin başlığının en ucuna yaklaştırdı, şişman kollarını tezgaha yasladı--"vahşiydi. Aman Tanrım! Onun hakkında
 bu tür _hikayeler_ anlatıyorlar! Yazık, Bayan Sheckleton--_değil mi?--onun önyargısına dair
-bu kadar çok hikaye olması gerek. Ama, _aman Tanrım_! O _vahşiydi_, bayan; ve şimdi, görüyorsunuz, bu nedenle Bay Kiffyn--Sayın Kiffyn Fulke Verney--Ware'deki ve buradaki insanlar tarafından çok beğenilecek bir eş bulup yerleşmekten çok memnun."
+bu kadar çok hikaye olmalı. Ama, _aman Tanrım_! O _vahşiydi_, bayan; ve şimdi, görüyorsunuz, bu nedenle Bay Kiffyn--Sayın Kiffyn Fulke Verney--Ware'deki ve buradaki insanlar tarafından çok beğenilecek bir eş bulup yerleşmekten çok memnun."
 
 Bayan Anne Sheckleton, kumaşçının karısının gördüğünü düşündüğü bir tedirginlikle dinliyordu, ancak kendi gözleminden şüphe ediyordu; çünkü eski bekar müşterisinin bu konuyla neden zerre kadar ilgilendiğini anlayamıyordu, Malory'ye yaptığı gezilerle ilgili konuşmalar, Agnes Etherage ile yaptığı yürüyüşlerin ve gösterişli ilgilerinin yol açtığı sürekli ve canlı dedikodular tarafından tamamen askıya alınmış ve ortadan kaldırılmıştı.
 
@@ -4032,7 +4033,7 @@ sır olduğunu hatırla."
 "Gidelim mi canım?" diye fısıldadı Bayan Sheckleton boğuk arkadaşına,
 hemen ayağa kalktı ve ona dükkandan eşlik etti, ardından Bayan Jones'un yeni ziyaretçilerinin gözleri geldi, "Bayan Anne Sheckleton ve diğer Malory hanımıydı" diye duymakla daha çok ilgilendiler ve
 kapı eşiğine kadar süzüldüler ve tente altından gizemli hanımların arkasından baktılar, ta ki Bayan Sheckleton'ın kazara geriye bakışı onları yönlendirene kadar ve _materfamilias_ biraz aceleyle
-ama ciddi bir şekilde ve başı dik ve genç hanımları kıkırdayarak içeri girdi. Cleve Verney o gün güzel Agnes Etherage'ın yanından bir ileri bir geri yürürken ve her zamanki gibi neşeli ve akıcı bir şekilde konuşurken, düşüncelerinin hasadında -hem mısır hem de çiçeklerde- aniden bir tür hastalık belirmiş gibi görünüyordu. Cümlesinin sonunu tekrarladı ve ne söyleyeceğini unuttu; ve Bayan Charity, "Ee? Hadi, devam et; sonunu duymayı çok istiyorum;" dedi; ve başını kaldırdığında biraz solgun göründüğünü düşündü.
+ama ciddi bir şekilde ve başı dik ve genç hanımları kıkırdayarak içeri girdi. Cleve Verney o gün güzel Agnes Etherage'ın yanından bir ileri bir geri yürürken ve her zamanki gibi neşeli ve akıcı bir şekilde konuşurken, düşüncelerinin hasadında -hem mısır hem de çiçeklerde- aniden bir tür hastalık belirdi. Cümlesinin sonunu tekrarladı ve ne söyleyeceğini unuttu; ve Bayan Charity, "Ee? Hadi, devam et; sonunu duymayı çok istiyorum;" dedi; ve başını kaldırdığında biraz solgun göründüğünü düşündü.
 
 "Evet, kesinlikle, hatırlayabildiğimde sonunu sana söylerim. Ama bir an başka bir şey
 düşünmeme izin verdim ve uçup gitti--"
@@ -4105,10 +4106,10 @@ Sayfa 254 'Clive' 'Cleve' olarak düzeltildi ("iyi geceler, efendim," dedi Cleve
 
 Sayfa 258 'stedfastly' 'steadfastly' olarak düzeltildi (ona kararlı bir şekilde bakarak). 'Stedfastly'nin eski bir yazımı var ancak bu metinde 'steadfastly'nin birkaç örneği daha var.
 
+Joseph Sheridan Le Fanu'nun Project Gutenberg'in The Tenants of Malory adlı eserinin sonu
+
 .
 *** END OF TURKISH PART ***
-End of Project Gutenberg's The Tenants of Malory, by Joseph Sheridan Le Fanu
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE TENANTS OF MALORY ***
 
 ***** This file should be named 35467.txt or 35467.zip *****

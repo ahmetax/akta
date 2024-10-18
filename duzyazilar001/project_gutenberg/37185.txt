@@ -4,6 +4,7 @@ Yazar: Edgar Fawcett
 Yayın Tarihi: August 23, 2011  [eBook #37185]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/37185
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 The Project Gutenberg eBook, The Adventures of a Widow, by Edgar Fawcett
 
@@ -82,9 +83,7 @@ modern haykırışlarına kolayca yönlendirebilir; ancak ondan Stuyvesant ve Mo
 geriye dönük öz saygı konusunda bir ders verebilir. Kendi limanı, Boston'daki gibi, bir "çay partisi" düzenledi ve yine de
 yıldönümü artık bir gölge olarak kaldı. Golden Hill'de, kendi sokaklarında,
 Devrimimizin ilk savaşı yapıldı, özgürlüğümüz için ilk kan döküldü; Boston daha sonraki "katliamını" kararlılıkla anarken, o diğer önemli yarışma hangi hitabet, deneme veya şarkı övgüsünü aldı? Yerel hatıralara yönelik bu metropol küçümsemesi, taşralılığa karşı hoşgörüsüzlük bahanesiyle kendini mazur gösteremez; çünkü Avrupa'nın büyük şehirleri bir zamanlar barbar olduklarını kabul etmekten utanmıyorsa, Hudson'ın esmer Manhattanlılarla kavga etmesi veya trafikte olması veya yaşlı Van Twiller'ın Bogardus'un lanetlerine kaşlarını çatması en azından resimsel bir değer ve öneme sahiptir. Bond Caddesi her zaman Bowery ile Broadway arasında dik açıyla uzanan kısa bir ana cadde şeridi olmuştur. Otuz yıldan biraz daha uzun bir süre önce bir soylular bölgesinin dinginliğine ve onuruna sahipti; Knickerbocker sosyal unsurlarımızın sevgilisiydi; kast ve seçkinciliğin sakin kalesiydi. Doğumları, evlilikleri ve ölümleri mütevazı bir ayrıcalıkla dokunmuştu. Abartı onun dehşetiydi ve gösteriş onun antipatisiydi. Eğlencelerinin neşesi genellikle limonata ve sünger keklere kadar inerdi ve nadiren bordo kokteyli ve dondurmanın lüksünün üstüne çıkardı. Güzelleri bu dönemin hızlı tempolu hanımlarından daha çekingen tipteydi ve beyefendileri, saç ayırma konusunda haleflerinin çoğunun ona verdiği kadar ahlaktaki düz çizgiye dikkat ediyordu. Bond Caddesi kesinlikle aristokrasinin tek uğrak yeri değildi, ancak çok temsili, çok önemli, çok seçkindi. Hatta orada yaşamanın bile belli bir saygınlık
-patentini verdiği bir zaman bile vardı. Eğer bir
-kez kalıcı olarak orada yaşamaya
-gelmiş olsaydınız, kızınızın bilinmeyen bir Smith ile evlenmiş olması veya oğlunuzun istenmeyen bir Jones ile kaderini birleştirmiş olması affedilmişti. Kısa, geniş caddenin tamamı
+patentini verdiği bir zaman bile vardı. Eğer bir zamanlar oraya kalıcı olarak yerleşmiş olsaydınız, kızınızın bilinmeyen bir Smith ile evlenmesi veya oğlunuzun istenmeyen bir Jones ile kaderini birleştirmesi affedilmişti. Kısa, geniş caddenin tamamı
 son derece zarifti. Hiçbir şey onu o hamile küçük kelimeden daha iyi tanımlayamaz. Akşam yemeğini saat ikide yerlerdi; altıda "çay" içerlerdi; partileri
 gece yarısından sonra dağılırsa sefahat olarak kabul edilirdi; genç erkekleri
 genç kadınlarını törensel bir düzenlilikle "çağırırlardı",
@@ -119,12 +118,12 @@ Ancak çöküşünün tartışmasız bir gerçekliğe dönüşmesinden birkaç y
 zengindi ve uzak akrabalar düşünülmediği sürece, mirasçısı yoktu.
 Genel olarak,
 yabancı bir çılgınlık ve yiğitlikle geçen bir hayatın ardından günlerini sonlandırmak için
-eve döndüğü kabul ediliyordu. Bu ilk başta tamamen doğru gibi görünmüş olabilir,
+eve geldiği düşünülüyordu. Bu ilk başta tamamen doğru gibi görünmüş olabilir,
 ama aynı zamanda onları çiçek açan genç bir eşin
 toplumunda sonlandırmayı seçtiği de oldu.
 
 Yıllarca boş kalan Bond Street'teki evi, aniden döşemecinin
-süsleme büyüsünü hissetti. Bay Varick bu arada yirmi yıldır görmediği eski arkadaşlarının evlerine uğramıştı, sağda solda karakteristik bir hafif samimiyetle el sıkışmıştı, bir zamanlar dans ve eğlencede genç yoldaşları olan anne ve babaların çocuklarını neşeyle kucağına almıştı, çok sayıda değişmiş tanıdığına kim olduğunu hatırlatmıştı, diğer çok sayıda değişmiş tanıdığı da onlara kim olduklarını hatırlatmıştı, beyaz bıyığını bükmüştü, memleketinde ölmek için geri dönmekten havadar bir vatanseverlikle bahsetmişti, gençliğinin sevgili sahnelerinden uzun süre uzak kalmasına hayıflanmıştı, transpontin Paris'inden gizlice pişmanlık duymuştu, kötü, nükteli Fransız _mots_'larını onları duyan her hangi bir matrona mırıldanmıştı, son ayrıldığında sadece sıkıcı bir tür taşra meyhanesi olduğunu düşündüğü büyük, akıllı Metropolitan Kulübü'nün yeniden üyesi olmuştu ve sonunda Genç ve güzel Bayan Pauline
+süsleme büyüsünü hissetti. Bay Varick bu arada yirmi yıldır görmediği eski arkadaşlarının evlerine uğramıştı, sağda solda karakteristik bir hafif samimiyetle el sıkışmıştı, bir zamanlar dans ve eğlencede genç yoldaşları olan anne ve babaların çocuklarını neşeyle kucağına almıştı, çok sayıda değişmiş tanıdığına kim olduğunu hatırlatmıştı, diğer çok sayıda değişmiş tanıdığı da onlara kim olduklarını hatırlatmıştı, beyaz bıyığını bükmüştü, memleketinde ölmek için geri dönmekten havadar bir vatanseverlikle bahsetmişti, gençliğinin sevgili sahnelerinden uzun süre uzak kalmasına hayıflanmıştı, transpontin Paris'ini gizlice özlemişti, kötü, nükteli Fransız _mots_'larını onları duyan her hangi bir matrona mırıldanmıştı, son ayrıldığında sadece sıkıcı bir tür taşra meyhanesi olduğunu düşündüğü büyük, akıllı Metropolitan Kulübü'nün yeniden üyesi olmuştu ve sonunda Genç ve güzel Bayan Pauline
 Van Corlear ile evlenerek herkesi şaşırttı.
 
 Pauline'in kendisi tüm bu düzenlemeyle çok az ilgisi vardı. O, uzun zaman önce onunla evlenmeyi planlayan dul bir annenin tek çocuğuydu. Bayan Van Corlear çok yetersiz bir gelirle yaşıyordu ve Pauline sekiz yaşından beri sakattı. Ancak kızını oldukça sabırlı bir şekilde eğitmişti ve sonunda, uygun yaşta, onu daha zengin bir kız kardeşin refakatine bırakmıştı. Kız kardeşi de onu gereken _hareketlilikle_ topluma kazandırmıştı. Pauline, paralı askerlik anlamında iyi bir eşleşme değildi; bu gerçeğin gayet farkındaydı; bunu anlayacak şekilde yetiştirilmişti. Ancak, bunu görmek güzeldi ve belki de bunu biraz fazla iyi anlamıştı.
@@ -185,12 +184,13 @@ _serbestlikle_ katlanmıştı. Yine de, akrabası
 Courtlandt'ın, bireysel ve
 güvenli bir dayanak noktasına giden yolunu rahatça açtığını hissetmekten kendini alamıyordu. Kendisi gibi her aceminin ruhuna korkunç gelen, erkek bağlılığı ve refakatçisinin yetersiz tanışıklık nedeniyle başarısız olduğu o erken aralıkları, Courtlandt onun varlığının ve ilgisinin destekleyici rahatlamasıyla doldurmuştu. Pauline'in akşamlarında _mauvais quart d'heure_ yoktu; kuzeni onu sadakatle, bir saray mensubu olmadan kalmanın anlık üzüntüsünden bile kurtarmıştı. Daha sonra, onun nazik uyanıklığı gereksiz hale gelmişti; ancak yine de, olası bir terk edilmeye karşı bir güvence olarak her zaman güvenilecek biriydi.
 
-Bay Hamilton Varick'in Pauline'i ilk gördüğü fırsat, onun ilk sezonunun Şubat ayında, küçük kız kardeşleriyle mütevazı bir şekilde ortaya çıkmasından iki ay sonra verilen bir baloydu. Park'a bitişik görkemli ve güzel bir evde, kırk yıl önce, o zamanlar sınırlı olan moda arenasında bir yıldız olarak yerini korumuş, artık yaşlı ve kırışık bir hanım tarafından verilen çok güzel bir baloydu. Aralarında on sekiz yaşındaki güzel ve gülümseyen torununun da bulunduğu dansçılar, prizmatik şamdanlar ve cilalı ahşaptan yapılmış parlak bir zeminle
+Bay Hamilton Varick'in Pauline'i ilk gördüğü fırsat, onun ilk sezonunun Şubat ayında, küçük kız kardeşleriyle mütevazı bir şekilde ortaya çıkmasından iki ay sonra verilen bir baloydu. Park'a bitişik görkemli ve güzel bir evde, artık yaşlı ve kırışmış bir hanım tarafından verilen çok güzel bir baloydu. O, kırk yıl önce, o zamanlar sınırlı olan moda arenamızda bir yıldız olarak yerini korumuştu. Aralarında on sekiz yaşındaki güzel ve gülümseyen torununun da bulunduğu dansçılar, prizmatik şamdanlar ve cilalı ahşaptan yapılmış parlak bir zeminle
 parıldayan geniş bir dairede neşeli saatleri kovaladılar. Tavandaki pembe-beyaz freskler, friz ve kornişin gümüş işlemeli zarafeti, goblenlerin açık, saf mavi ve pembe tonları, renk ve simetrideki havadar ve neşeli efektler, tüm bu hızlı hareket eden eğlence düşkünü kalabalığını, geçmişin onları uzun süredir kaybolmuş bir Fransız saray festivalinden
 yeniden yaşatmış gibi gösteriyordu. "Bu gençlerin, Louis Quinze'nin bizi gerçekten eğlendiriyormuş gibi görünmesi için sadece pudralanmış kafalara ihtiyacı var," dedi Bay Varick, tiz ve kayıtsız sesiyle. Konuşurken yaşlı bir müdireye hitap etti, ancak az önce kendisine bir
 talep üzerine bir sunum yapma onurunu verdiği Pauline'e gizlice bir bakış attı.
 
-"Bence bunu yaparsa gerçekten çok ciddi olurdu," dedi Pauline, neşeli bir kahkaha atarak; ve Bay Varick de onun küstah şakasının tadını çıkararak güldü. Yanında dururken ona birkaç centilmence iltifat etti, ancak onları renklendirmeye çok yatkın olan yabancı kelime veya ifadeye rağmen, bunların ses olarak sert ve antika olduğunu düşündü. Bay Varick'i en çok, hasta annesini sorduğunda ve ona uzun Avrupa yokluğunun başlangıcından önce New York'taki neşelerin ne olduğunu anlattığında buldu. Bir şekilde beyaz bıyığının neşeli yukarı doğru kıvrılışına uyan, neşeli, neşeli bir konuşma tarzı vardı. Konuşurken iki elini de zarif bir şekilde sallardı. Zarif
+"Bence bunu yaparsa gerçekten çok ciddi olurdu," dedi Pauline, neşeli bir kahkaha atarak; ve Bay Varick de onun küstah şakasının tadını çıkararak güldü. Yanında dururken ona birkaç
+cesur iltifat etti, ancak onları renklendirmeye çok yatkın olan yabancı kelime veya ifadeye rağmen, bunların ses olarak sert ve antika olduğunu düşündü. Bay Varick'i en çok, hasta annesini sorduğunda ve ona uzun Avrupa yokluğunun başlangıcından önce New York'taki neşelerin ne olduğunu anlattığında buldu. Bir şekilde beyaz bıyığının neşeli yukarı doğru kıvrılışına uyan, neşeli, neşeli bir konuşma tarzı vardı. Konuşurken iki elini de zarif bir şekilde sallardı. Zarif
 yüzeysellik hiç çaba sarf etmeden ondan akardı. Hayatı boyunca dalganın en üst noktasında ve köpüğünün ortasında yüzdüğünü söylemek için hiçbir keskinliğe gerek yoktu. Gençliğe dair hiçbir iddiada bulunmazdı; hatta kendi kıdemiyle, amansız ve neşeli bir melankoliyle dalga geçerdi.
 
 "Francois Villon adında bir Fransız şair duydun mu hiç," dedi Pauline'e, bir ayrılışın az önce boş bıraktığı yanındaki bir koltuğa çökerek. "Hayır, cesaret edip söylemedim. Korkunç bir adamdı - dediğimiz gibi bir tür _polisson_, ama en büyüleyici baladları o yazdı; sanırım daha sonra asıldı ya da asılmalıydı - hangisi olduğunu unuttum. Şarkılarından birinin hüzünlü bir nakaratı vardı: '_Ou sont les
@@ -198,11 +198,12 @@ neiges d'antan?_'--'Geçen yılın karları nerede?' biliyorsun. Şey,
 mademoiselle--hayır, Bayan Pauline, yani--bu cümle bu gece kafamda dönüp duruyor. _Ca me gene_--beni rahatsız ediyor. Gençliğin güzel şeylerine
 tekrar kavuşmak istiyorum. New York'a eve geliyorum ve karımın eridiğini görüyorum.
 Her şey değişti. Kendimi bir hayalet gibi hissediyorum--ama neşeli yaşlı bir hayalet.
-_Tenez_--biraz bekle. O genç beyefendilerin seni
-benimle biraz daha uzun süre birlikte gördükten sonra sana söyleyecek bir şeyleri olacağını düşünüyor musun? Eminim dört veya beşini korkutmuşumdur.
-Şimdi birbirlerine soruyorlar, o eski _epouvantail_--kelime neydi?--korkuluk kim. Ah! _voila_--işte diğerlerinden çok daha cesur biri geliyor. Ona merhamet edeceğim--ve çekileceğim. Ama _gitmeden_ önce senden
-bir ricam olacak. Bana bir iyilik yapacaksın. Anneme iltifatlar? Ona
-kendime onu ziyaret etme şerefini vereceğimi mi söyleyeceksin?
+_Tenez_--biraz bekle. O hoş genç beyefendilerin
+sizi biraz daha benimle birlikte gördükten sonra size söyleyecek bir şeyleri olacağını
+düşünüyor musunuz? Eminim dört veya beşini korkutmuşumdur.
+Şimdi birbirlerine soruyorlar, o yaşlı _epouvantail_--kelime neydi?--korkuluk kim. Ah! _voila_--işte diğerlerinden çok daha cesur biri geliyor. Ona merhamet edeceğim--ve çekileceğim. Ama _gitmeden_ önce sizden
+bir ricam olacak. Bana Anneme iltifatlar? Ona
+kendime gelip onu ziyaret etme şerefini vereceğimi mi söyleyeceksin?
 Çok teşekkür ederim. Zavallı annem ve ben birlikte hayalet olacağız;
 ben çağırdığımda
 benim yanımda olmana gerek yok, tabii eğer sen
@@ -211,7 +212,7 @@ tamamen istekli değilsen--yani, eğer hayaletlerden korkuyorsan."
 "Ah, korkmuyorum," diye güldü Pauline. "Ben onlara inanmıyorum, Bay Varick."
 
 "Bunu söylemen çok hoş!" diye haykırdı arkadaşı. "Bu,
-bir süre hayalet sohbetimizi dinleyeceğin ve
+bir süre hayaletvari konuşmamızı dinleyeceğin ve
 çok _sıkıcı_ bulmayacağın anlamına geliyor. Ne kadar da naziksiniz! Ah! Biz yaşlılar
 bazen birkaç kırıntı nezaket için çok minnettar oluruz!"
 
@@ -260,7 +261,7 @@ parıltı girdi ve orası parladı.
 "Bunu _yapmayacaksın_ mı?" dedi, bitirdiğinde.
 
 Court cevap vermedi. Yürüyüş elbisesinin göğsüne birkaç çiçek düğümlemişti ve şimdi onlara bakıyordu. Bunlar Bay Varick'in
-gönderdiği çiçekler değildi; Bunlar, bir önceki akşamki küçük, gayriresmi bir dansta Courtlandt'ın kendisi tarafından bahşedilen bir demetti,
+gönderdiği çiçekler değildi; Bunlar, önceki akşamki küçük, gayriresmi bir dansta Courtlandt'ın kendisi tarafından bahşedilen bir demetti,
 kotilyonun güzel bir çiçek figürü vardı. Kuzeni bilmese de, şimdi dökülmemiş gözyaşlarının
 sisinin arasından yapraklarına baktı.
 
@@ -275,16 +276,17 @@ Kendi iznin olmadan satılamazsın."
 "Buradan birlikte gidelim," diye mırıldandı. "Bu odalar o kadar
 sıcak ve kalabalık ki, içlerinde nefes almakta zorluk çekiyorum."
 
-Kolunu ona uzattı ve geniş ama tıkalı kapılardan birinden komşu bir salona doğru ilerlediler.
+Ona kolunu uzattı ve geniş ama tıkalı kapılardan birinden komşu bir salona doğru ilerlediler.
 
 Dışarıda, Beşinci Cadde'de, Şubat alacakaranlığı henüz
 derinleşmeye başlamıştı. Hava nemli olmasına rağmen yumuşaktı; aniden gelen bir merhamet havayı büyülemişti ve kaldırımların her iki kenarına
-serpme solukluğuyla yığılmış kar, kısa sürede büzülüp ıslanacaktı. Her batı sokağının en uç noktasında, güneşin görüş alanından yeni düştüğü yerde, düşsel altın ışık sisi yanıyordu, ancak başımızın üstündeki gökyüzü, değişken kışlarımızın tedbirsiz güvenicisi için sıklıkla aldatıcı bir tuzak olan, o hain ilkbahar ametisti tonuna sahipti. Bu buharlı
+serpme solukluğuyla yığılmış kar, kısa sürede büzülüp ıslanacaktı. Her batı sokağının en uç noktasında, güneşin görüş alanından yeni düştüğü yerde, düşsel altın ışıktan oluşan bir sis yanıyordu, ancak başımızın üstündeki gökyüzü, değişken kışlarımızın tedbirsiz güvenicisi için sıklıkla aldatıcı bir tuzak olan, o tehlikeli ilkbahar ametisti tonuna sahipti. Bu buharlı
 yumuşak renge karşı, evlerin çatıları keskin ve karanlık görünüyordu; nemli bir rüzgar
 doğru güneyden esiyordu; büyük ve küçük kızaklar, çanlarının yüksek, tatlı çan sesleri bazen yüksek, bazen alçak,
-şöyle hızla ilerliyordu;
-Courtlandt ve Pauline'in yürüdüğü kaldırımlardan, büyük siyah rutubet lekeleri soğuk sızılarını sızdırarak, altlarında yatan çözülmeyi anlatıyordu. Dün gökyüzü soluk ve buzlu bir masmaviydi,
-ve arktik esintinin süpürüşünde bir bıçak izi vardı;
+şişkin bir şekilde hızla ilerliyordu;
+Courtlandt ve Pauline'in yürüdüğü kaldırımlardan, büyük siyah rutubet lekeleri soğuk sızılarını
+kaydırmış, altlarında yatan çözülmeyi anlatıyordu. Dün gökyüzü soluk ve buzlu bir masmaviydi ve
+arktik esintinin süpürüşünde bir bıçak izi vardı;
 Bugün şehir, o kadar ani bir gelişin rehavetine kapılmıştı ki,
 onun cazibesine sahipken tehlikesini hissediyordunuz. Courtlandt, çıkışlarını
 takip eden sessizliği bozdu. Sanki kelimeler kapalı dişlerinin
@@ -297,13 +299,14 @@ Paris'te kadınlarla birden fazla skandala
 karışmış. Sanırım hepsi senin şakan olmalı. Eğer öyleyse, Tanrı aşkına bana bunu söylemeni
 dilerdim, Pauline!"
 
-"Öyle değil," dedi. Yüzünü ona doğru çevirdi, sonra ona ne kadar solgun ve üzgün olduğunu
-gösterdi. "Bunu yapmalıyım, Court," diye devam etti. "Bu bir tür kader gibi, beni zorluyor ve sürüklüyor. Sanırım
+"Öyle değil," dedi. Sonra yüzünü ona doğru çevirdi,
+ne kadar solgun ve üzgün olduğunu görmesini sağladı. "Bunu yapmalıyım, Court," diye devam etti. "Bu bir tür kader gibi, beni zorluyor ve sürüklüyor. Sanırım
 mamma'dan bahsetmem
-gerekmezdi. Elbette beni rıza göstermeye _zorlayamazdı_, ancak eğer bunu yapmazsam, ağıtları önümüzdeki bir iki yıl
+gerekmezdi. Elbette beni rıza göstermeye _zorlayamazdı_,
+ancak eğer bunu yapmazsam, ağıtları önümüzdeki bir iki yıl
 çok dikkat dağıtıcı bir biçime bürünürdü. Hayır; o değil;
-benim. İnsanların evlilik konusunda çok yüksek görüşlere sahip olduğu bir dünyada yaşamıyorum. Ve şu an yaşadığım hayattan nefret ediyorum. Diğeri, pahalı bir fiyata satın alınsa bile
-bağımsızlık olurdu. Ve kaç kız
+benim. İnsanların evlilik konusunda çok yüksek görüşlere sahip olduğu bir dünyada yaşamıyorum. Ve şu an yaşadığım hayattan nefret ediyorum. Diğeri
+bağımsızlık olurdu, pahalı bir fiyata satın alınsa bile. Ve kaç kız
 bana şansımı kıskanırdı? Şu anda zengin akrabalarımın emekli maaşından başka neyim? İçeride kalamam; girdaba başladım ve
 duramam. Tanıdığım herkes aynı hızda dans ediyor. Eğer
 davetleri reddedersem; diğer kızların yaptığı gibi yapmazsam;
@@ -314,7 +317,7 @@ Bunu beklemek üzere yetiştirildim; muhtemelen geleceğini biliyordum ve
 öğretildim, hazırlandım, uyarıldım, geldiğinde sadece bir şekilde değerlendirmem
 gerekiyordu. Yaşlı olmasaydı şok edici olabilirdi. O küçük atasözünde benim durumumla ne kadar da keskin bir alaka var, 'Dilenciler seçici
 olmamalı!' Ben bir dilenciyim, bilirsin: Teyze Cynthia Poughkeepsie'ye
-benim öyle olmadığını düşünüp düşünmediğini sor. Ve _o_ gerçekten şok edicinin tam tersi.
+benim öyle düşünmediğini sor. Ve _o_ gerçekten şok edicinin tam tersi.
 Saçları biraz beyaz olabilir ama dişleri aşırı beyaz ve bence
 yerli, aborjin; eğer değillerse umarım
 bana asla söylemez, en azından."
@@ -322,16 +325,16 @@ bana asla söylemez, en azından."
 Bir kez daha güldü, sanki kendi hayaleti çerçevelemiş gibi neşesizce. Yüzünü tekrar ondan çevirdi ve hafifçe
 yürüyüşünü hızlandırdı.
 
-"Yani, zihnin gerçekten kararsız mı?" dedi Courtlandt,
+"Yani, gerçekten kararını vermişsin!" dedi Courtlandt,
 daha önce onda hiç görmediği bir öfkeyle, bir şiddetle. "Yani, biraz zenginlik, biraz güç için evliliği,
 kutsal bir gelenek olması gereken şeyi, bu kötü alay konusu haline mi getireceksin?"
 
 Pauline dudağını ısırdı. Böyle sakin kuzeninin böyle bir konuşması
 kelimenin tam anlamıyla emsalsizdi. Soğukkanlı bir meydan okumayla
+derken kendini incinmiş ve suçlu hissetti,--
+"Evliliği kutsal bir adet olarak kim tutar? Bunu yapan birini hiç görmedim."
 
-"Evliliği kutsal bir adet olarak gören kim? Bunu yapan birini hiç görmedim."
-
-"Ben yapıyorum!" diye iddia etti, yüzü bulutlanarak. "Sen de yapıyorsun, Pauline
+"Ben tutuyorum!" diye iddia etti, yüzü bulutlanarak. "Sen de tutuyorsun, Pauline
 kalbinde."
 
 "Benim kalbim yok. Günümüzde artık giyilmiyor. Modası geçti. Bunun yerine çanta taşıyoruz - mümkün olduğunda."
@@ -390,20 +393,22 @@ onaylanmasıyla ortaya çıktı. Kısa bir Güney turunun ardından evli çift, 
 Corlear, oraya yerleşmişti ve onları, sakat durumunun izin verdiği ölçüde
 parlak bir gülümsemeyle karşıladı. Pauline, onu öperken, aynı kansız dudakların
 bir daha
-şikayetçi bir şekilde
-söylenmek için bir bahanesi olup olmayacağını merak etti. Yaşlı kadının memnun
-titremesini, ince elinin de yeni damadının öpücüğüyle
-züppece iz bırakmasını fark etmek acıklıydı. Kesinlikle tüm dünyevi umutlarının
+şikayetçi bir
+mazerete sahip olup olmayacağını merak etti. Yaşlı kadının memnun titreyişini, yeni damadının öpücüğüyle
+incecik elinin de
+cesaretle
+izlendiğini fark etmek acıklıydı. Kesinlikle
+tüm dünyevi umutlarının
 hedefine ulaşmıştı. Sallanabileceği ipek bir sandalyesi, özel hizmetçisi olarak bir hizmetçisi ve istediği kadar sadık ve fahiş
 bir doktoru vardı. Nevraljisi, astımı, romatizması, bin bir
-rahatsızlığı bundan böyle en rahat ve görkemli çevrelerde
-acı verici etkilerini gösterecekti. Ve yine de, sanki gerçek aristokrat bir hasta olma konusundaki yeni olanaklarıyla alay edercesine, bu zavallı kadın, en cesaretlendirici fırsatın birkaç haftasından sonra, tüm rahat cazibelerinden vazgeçti ve yatağında aniden geçirdiği bir kalp krizinden sessizce öldü. Pauline'in kocası, şimdiye kadar titizlikle kibar davranmış olmasına rağmen, karısına acımasızca gelen ve onda öfke uyandıran bir yorumda bulundu. Pauline'in öfkesi kendini gösterdikçe, buz gibi, sinir bozucu bir şekilde çok daha acımasızdı. Ancak cenaze töreninden kısa bir süre sonra, gut hastalığının ani bir atağıyla yere yığıldı ve Pauline bu sırada onu bağışlayıcı bir titizlikle tedavi etti. Genç karısı şimdi derin bir yas içindeydi. Kocasının atağı neredeyse ölümcül olmuştu. İyileşmesi yavaştı ve doktorları tarafından acilen Avrupa'ya bir seyahat önerildi. Haziran ayının sonlarında yola çıktılar. Courtlandt
-Pauline'i vapurda uğurlayanlar arasındaydı. Elini
-veda etmek için tutarken, sanki ona çok üzülüyormuş gibi baktı. Pauline
+rahatsızlığı bundan böyle en rahat ve görkemli çevrelerde bile acı dolu etkilerini
+yapacaktı. Ve yine de, sanki gerçek aristokrat bir hasta olma konusundaki yeni olanaklarıyla alay edercesine, bu zavallı kadın, en cesaretlendirici fırsatın birkaç haftasından sonra, tüm rahat cazibelerinden vazgeçti ve yatağında aniden geçirdiği bir kalp krizinden sessizce öldü. Pauline'in kocası, şimdiye kadar titizlikle kibar davranmış olmasına rağmen, karısına acımasızca gelen ve onda öfke uyandıran bir yorumda bulundu. Pauline'in öfkesi kendini gösterdikçe, buz gibi, sinir bozucu bir şekilde çok daha acımasızdı. Ancak cenaze töreninden kısa bir süre sonra, Pauline'in onu bağışlayıcı bir titizlikle tedavi ettiği gut hastalığının ani bir atağıyla yere serildi. Genç karısı şimdi derin bir yas içindeydi. Kocasının atağı neredeyse ölümcül olmuştu. İyileşmesi yavaştı ve doktorları tarafından acilen Avrupa'ya bir seyahat önerildi. Haziran ayının sonlarında yola çıktılar. Courtlandt
+Pauline'i vapurda uğurlayanlar arasındaydı. Veda etmek için elini
+tutarken, sanki ona çok üzülüyormuş gibi baktı. Pauline
 çok iyi bir ruh halinde görünüyordu; siyah elbisesi ona yakışıyordu; o kadar
 sarışındı ki cenaze elbisesini fark etmeden önce altın saçlarını görebiliyordunuz;
 ve sonra gülümsemesi neredeyse herkesi
-kazandıran bir şekilde hazırdı. Belki de sadece Courtlandt, bilge ve ciddi suskunluğuyla, gülümsemesinin
+kazandıran bir şekilde hazırdı. Belki de sadece Courtlandt, bilge ve ciddi suskunluğuyla, gülümsemenin
 ne kadar yapmacık olduğunu görmüştü.
 
 Bay Varick bu saldırıdan tamamen kurtulmuştu. Pauline'in mektupları öyle söylüyordu.
@@ -415,7 +420,7 @@ Kendisi hakkında hiçbir şey söylemiyor gibiydi; şehirden her zaman yazıyor
 birlikte nasıl geçindiklerini. Courtlandt hariç, eklemeliyiz ki,
 o hiçbir şekilde merak göstermiyor gibiydi. Elbette ki
 yazamaz ve ona doğrudan soramazdık! Ne yapmalıydık?
-Versay'a yapılacak bir gezinin zevkleri veya Fontainebleau'nun bir anlığına yeniden canlandırılması üzerine gevezelik eden denemeler, Bay Varick'in son zamanlardaki evlilik izlerinden cesurca kurtulduğu veya kurtulmadığı anlamına mı geliyordu?
+Versay'a yapılacak bir gezinin zevkleri veya Fontainebleau'nun bir anlığına yeniden canlandırılması üzerine gevezelik eden denemeler, Bay Varick'in son zamanlardaki evlilik izlerinden cesur bir şekilde kurtulduğu veya kurtulmadığı anlamına mı geliyordu?
 
 "Her şeye hazırız, biliyorsun," Pauline'in teyzesi ve eski patronu Bayan Poughkeepsie bir keresinde Courtlandt'a oldukça coşkulu bir şekilde söylemişti.
 "Hamilton Varick iyi olduğuna göre, orada korkunç bir şekilde şakalaşıyor olabilir. Ve Pauline, tamamen gururundan, bize
@@ -424,7 +429,7 @@ söylemeye istekli olmayabilir."
 "Kesinlikle çok zalimce," diye yanıtlamıştı Courtlandt, lakonik ve
 biraz da alaycı.
 
-Ancak aylar geçtikçe, Pauline'in muhabirleri, dedikodu için daha fazla ulusal teşvikin yarattığı ilgiyle, mektuplarının
+Ancak aylar geçtikçe, Pauline'in muhabirleri, dedikodu için daha fazla ulusal teşvikin yarattığı dalgınlıkla, mektuplarının
 tatmin edici olmayan tonunu unuttular. Ancak bir keresinde Pauline,
 geri dönmek istediğini ancak kocasının Paris'te kalmayı
 tercih ettiğini yazmıştı.
@@ -436,13 +441,12 @@ yapmak için çok çılgındı, zavallı kız! Umarım onu ​​dövmez veya
 bu tür korkunç bir şey yapmaz!"
 
 Bu dostça göndermelerin bir denetçisi onlara gizlice
-ama affedilebilir bir küçümsemeyle gülümserdi. Bu denetçi Courtlandt'tı; ve aynı şefkatli nutukçuların Pauline'in şaşırtıcı nişanını ilk alkışlayanlar olduğunu hatırladı.
+ama affedilebilir bir küçümsemeyle gülümserdi. Bu denetçi Courtlandt'dı; ve aynı şefkatli nutukçuların Pauline'in şaşırtıcı nişanını ilk alkışlayanlar olduğunu hatırladı.
 
 Bay ve Bayan Varick'in iki yıllık yokluğundan sonra, bazı
 söylentiler Amerika'ya yayıldı. Şu veya bu kişi onları Paris'te görmüştü.
 Pauline her zamanki gibi güzeldi ama oldukça emekli yaşıyordu. Kitaplara ve genel zihinsel
-gelişime merak saldığı söyleniyordu. Hiç kimse onu
-kocasıyla görmedi. Ona hiçbir şekilde değinmedi. Onun
+gelişime merak saldığı söyleniyordu. Hiç kimse onu kocasıyla birlikte görmedi. Ona hiçbir şekilde değinmedi. Onun
 yaşadıklarıyla ilgili tuhaf hikayeler vardı. Bunları doğrulamak zordu; Paris
 çok büyüktü ve orada her zaman çok sayıda erkek komik şeyler yapıyordu.
 
@@ -451,12 +455,12 @@ Bu kıyılardaki konsey duyuldu ve sempatik bir şekilde ürperdi.
 dostça bir şekilde birleşmiş hizipler halindeydi. Briggs kızları ve Snowe kızları az çok yüce bir şekilde evlenmişlerdi ve Amsterdamlılara
 ve diğerlerine barışçıl bir birlikteliğe layık olduklarını kanıtlamışlardı. "Zavallı Pauline
 Varick" bir ifade olmaya başladı, ancak biraz nadir bir ifadeydi, çünkü
-hiç kimse gerçeğin farkına varmadan, dört
+hiç kimse bunun farkına varmadan, dört
 tam yıl yurtdışında yaşamıştı. Ve sonra, en ufak bir uyarı olmadan, onun
 bir dul olduğu haberi geldi.
 
 O halde, kocasının kesin olarak öldüğü haberi en ufak bir şüpheye yer bırakmayacak şekilde doğrulandıktan sonra, herkesin onu eve dönmesini beklemesi gerekiyordu. Ama belki de bu nedenle Pauline yurtdışında kalmayı seçti. Geri döndüğünde dul olduğu kesinleşmiş bir gerçekti. New York'lu _müşterileri_ buna alışmıştı. Bay Varick ona tüm servetini bırakmıştı; çok zengin bir genç duldu. Ölümüyle veya ölümünden önceki yurt dışı seyahati sırasındaki davranışlarıyla ilgili saldırganca sorular artık tamamen uygunsuzdu. Onu gömmüştü, çünkü onunla
-evlenmişti, düzgün ve yasal bir şekilde. Kendi _ante mortem_ isteğiyle Pere la Chaise'de uyudu. Ona nasıl bir hayat sürmüş olursa olsun; bu kimseyi ilgilendirmezdi. İki yıl sonra, yüksek bir yer edinmek ve yüksek bir kafa tutmak için eve döndü. Aradaki o merhametli yıllar, onu bir sürü gizli sorgudan korudu. Bay Varick'in karısı olarak Avrupa geçmişiyle ilgili olarak sorgulanmaktan pek hoşlanmadı ve kısa süre sonra bunu yapmadığını açıkça belli etmeyi başardı. Kararda, büyük ölçüde değiştiğine dair muhalif bir ses yoktu. Ve fiziksel anlamda, daha iyiye doğru değiştiğini kimse inkar edemezdi. Daha önce esnek zarafetine rağmen oldukça zayıf olan vücudu, şimdi yumuşak ve çekici kıvrımlara dönüşmüştü. Gri gözleri daha az parlıyordu, ancak belki de bu nedenle daha sabit bir ışıkla parlıyorlardı; sanki hayatın daha ciddi gerçekleri yansımış gibi görünüyorlardı. Keskin hatlarıyla yüzü, çok soylu ve zarif bir ifade üretmek için bir araya gelerek, nadiren gülümsüyordu, ancak edindiği ciddiyetinde açıklanamayan bir hayranlık yatıyordu, bu da gülümsemeyi gerçekten geldiğinde daha parlak ve daha derin bir anlam taşıyordu. Bol ve parlak saçlarını arkada ağır bir topuz halinde toplamıştı ve daha önce olduğu gibi alnının üzerinde sisli bir karmaşa halinde aşağı doğru çalı gibi sarkması yerine, doğal olarak saf şakaklarına doğru dalgalanmasına izin veriyordu. Hareketleri, yürüyüşü, jestleri, hepsi eskiden sahip oldukları değişken canlılığı ve özgürlüğü koruyordu; havasında en ufak bir anaçlık belirtisi bile yoktu ve yine de daha kendine güvenli, daha vurgulu, daha kadınsıydı. "Gerçekten bu korkunç Bond Sokağı'ndan taşınmalıyım," dedi Courtlandt'a, ilk tanıştıkları gün aralarında geçen konuşmanın oldukça erken bir aşamasında. "Sanırım o devasa terzi dükkanı Broadway köşesinde, eskiden böyle güzel, uykulu eski bir malikanenin bulunduğu yere taşınmasaydı, biraz daha dayanabilirdim. Evet, kendimi itaatkar bir şekilde şehrin yukarısına doğru sürüklemeliyim.
+evlenmişti, düzgün ve yasal bir şekilde. Kendi _ante mortem_ isteğiyle Pere la Chaise'de uyudu. Ona nasıl bir hayat sürmüş olursa olsun; bu kimseyi ilgilendirmezdi. İki yıl sonra, yüksek bir yer edinmek ve yüksek bir kafa tutmak için eve döndü. Aradaki o merhametli yıllar, onu bir sürü gizli sorgudan korudu. Bay Varick'in karısı olarak Avrupa geçmişiyle ilgili olarak sorgulanmaktan pek hoşlanmadı ve kısa süre sonra bunu yapmadığını açıkça belli etmeyi başardı. Kararda, büyük ölçüde değiştiğine dair muhalif bir ses yoktu. Ve fiziksel anlamda hiç kimse onun daha iyiye doğru değiştiğini inkar edemezdi. Daha önce esnek zarafetine rağmen oldukça zayıf olan vücudu şimdi yumuşak ve çekici kıvrımlara dönüşmüştü. Gri gözleri daha az parlıyordu ama belki de bu nedenle daha sabit bir ışıkla parlıyorlardı; sanki hayatın daha ciddi gerçekleri yansımış gibi görünüyorlardı. Keskin hatlarıyla yüzü, çok soylu ve zarif bir ifade üretmek için bir araya gelerek nadiren gülümsüyordu ama edindiği ciddiyetinde açıklanamayan bir hayranlık vardı ve bu da gerçekten ortaya çıktığında gülümsemeyi daha parlak ve daha derin bir anlam ifade ediyordu. Bol ve parlak saçlarını arkada ağır bir topuz halinde toplamıştı ve daha önce olduğu gibi alnının üzerinde sisli bir karmaşa halinde aşağı doğru çalı gibi sarkması yerine, doğal olarak saf şakaklarına doğru dalgalanmasına izin veriyordu. Hareketleri, yürüyüşü, jestleri, hepsi eskiden sahip oldukları değişken canlılığı ve özgürlüğü koruyordu; havasında en ufak bir anaçlık belirtisi bile yoktu ve yine de daha kendine güvenli, daha vurgulu, daha kadınsıydı. "Gerçekten bu korkunç Bond Sokağı'ndan taşınmalıyım," dedi Courtlandt'a, ilk tanıştıkları gün aralarında geçen konuşmanın oldukça erken bir aşamasında. "Sanırım o devasa terzi dükkanı Broadway köşesinde, eskiden böyle güzel, uykulu eski bir malikanenin bulunduğu yere taşınmasaydı, biraz daha dayanabilirdim. Evet, kendimi itaatkar bir şekilde şehrin yukarısına doğru sürüklemeliyim.
 Yolun hemen karşısında, her gün on ikiden üçe kadar, yirmi beş sente 'normal bir akşam yemeği' -her neyse- reklamı yapan bir tür Fransız-Alman meyhanesi var."
 
 "Görüyorum ki ulusal paramızı unutmamışsınız," dedi Courtlandt,
@@ -472,7 +476,8 @@ Pauline başını biraz Fransız gibi salladı. "Kendi ülkem hakkında çok az 
 
 "Daha eski bir çift gözüm var." Bir an ona içtenlikle baktı. "Söyle bana, Court," diye devam etti, "seni hala bekar bulmam nasıl oluyor?"
 
-Sandalyesinde kıpırdandı, bacak bacak üstüne attı. "Ah," dedi, "hiçbir hoş kız bana bir teklifte bulunmadı."
+Sandalyesinde kıpırdandı, bacak bacak üstüne attı. "Ah," dedi, "hiçbir hoş kız bana
+bir teklifte bulunmadı."
 
 Pauline güldü. "Sanki yapmış olsaydı hoş olurdu! Eskiden diğer gruptan biriyle evleneceğini
 söylediklerini hatırlıyor musun? Şimdi başka bir grup var mı?"
@@ -483,7 +488,7 @@ söylediklerini hatırlıyor musun? Şimdi başka bir grup var mı?"
 
 Courtlandt yavaşça başını salladı. "Ah, evet, hatırlıyorum. Teyze
 Cynthia tamamen yanılıyordu. O zamandan beri boynuzlarını çekti. Briggs'ler ve Snow'lar onun için fazlasıyla zekiydi. Çok neşeli olmalarının yanı sıra her zaman
-çok iyi huylu kızlardı. Ona ihtiyaçları vardı ve onu ve ayrıca onun gibi birçok canlandırılmış lideri soğukkanlılıkla kullandılar. İyi adamların çoğu onları seviyordu; bu onların güçlü noktasıydı. Kanal Sokağı'nın bir kanal olduğu zamanları bilen ve Yirmi Üçüncü Sokak'ta geyik avlayan ataları olmadığını söylemek çok iyiydi;
+çok iyi huylu kızlardı. Ona ihtiyaçları vardı ve onu ve ayrıca onun gibi birçok canlanmış lideri soğukkanlılıkla kullandılar. İyi adamların çoğu onları seviyordu; bu onların güçlü noktasıydı. Kanal Sokağı'nın bir kanal olduğu zamanları bilen ve Yirmi Üçüncü Sokak'ta geyik avlayan ataları olmadığını söylemek çok iyiydi;
 ama bu hiç işe yaramazdı. Ebeveynleri paralarını nasıl kazanmış olursa olsun, parayı nasıl harcayacaklarını biliyorlardı ve kendilerini
 iktidara itmişlerdi ve dirsekle dışarı atılmamalıydılar. Tüm mücadele
 kısa sürede doğal bir ölümle sona erdi. Onlar ve destekçilerinin neredeyse hepsi artık
@@ -505,11 +510,11 @@ Courtlandt ciddi bir şekilde güldü. "Hiçbir zaman sürdüklerini sanmıyorum
 asla kimsenin bir tür soyluluk iddiası olmadıkça kabul edilmediği.
 Bayan Schenectady, Lily'ye Delmonico
 Mavi Oda partisi verdiğinde (şimdi Delmonico Mavi Oda partileri var mı?), yaşlı Grace Church Brown'a On Dördüncü Sokak girişinde (gelen ve giden arabaların
-arabacıları için her zaman sert bir korku olarak beklediği yerde) kutsal eşikte belirli gizemli küçük bir kart sunmayan herkesi meydan okumasını söyledi?"
+arabacıları için her zaman sert bir korku olarak beklediği yerde) kutsal eşikte gizemli küçük bir kart sunmayan herkesi meydan okumasını söyledi?"
 
 "Ah, evet," diye karşılık verdi Courtlandt düşünceli bir şekilde.
 
-"Ve," diye devam etti Pauline, "o demokrat Bayan Vanderhoff, aynı akşam, kendisiyle birlikte yemek yiyen ve özür dileyen bir gösterişle Schenectady'lere sunmayı düşündüğü yabancı bir beyefendiyi nasıl getirdi, aniden şişman nöbetçi Brown, refakatçisinden gizemli kartı istedi ve bunun gelmediğini
+"Ve," diye devam etti Pauline, "o demokrat Bayan Vanderhoff, aynı akşam, kendisiyle birlikte yemek yiyen ve özür dileyen bir gösterişle Schenectady'lere sunmayı düşündüğü yabancı bir beyefendiyi nasıl getirdi, aniden şişman nöbetçi Brown, refakatçisinden gizemli kartı istedi ve kartın gelmediğini
 görerek yukarı bir haberci gönderdi? Ve Bay Schenectady'nin az sonra nasıl
 ortaya çıkıp Bayan Vanderhoff'a, içinde yüce bir şeyler barındıran soğuk bir züppelikle, aşırı derecede üzgün olduğunu, ancak davetsiz herhangi bir misafirin
 eğlencesine
@@ -523,20 +528,18 @@ Daha önce hiç duymadığınız
 insanları göreceksiniz. Bazen günümüzde kendini büyük bir gösteriş haline getirmek için üç
 maldan başka hiçbir şeye ihtiyaç olmadığını düşünüyorum, hepsi metalik - altın, gümüş ve pirinç."
 
-"Ne kadar eğlenceli!" dedi Pauline. "Ve yine de," diye aniden ekledi, başını hızla sallayarak, "Eminim ki bu beni asla eğlendirmeyecek! Hayır, Court, bir zamanlar beni gördüğün cahil kızdan çok
-farklı bir insan oldum!"
+"Ne kadar eğlenceli!" dedi Pauline. "Ve yine de," diye ekledi aniden, başını hızla sallayarak, "Eminim ki bu beni asla eğlendirmeyecek! Hayır, Court, bir zamanlar beni gördüğün cahil kızdan çok farklı bir insan oldum!"
 Burada sesini alçalttı ve ona şefkatli ama
-etkileyici bir sabitlikle baktı. "Şimdi geriye dönüp baktığımda ve o insanların benimsediği yaşam kurallarını saygı duymam ve hatta hürmet etmem gereken bir şey olarak nasıl benimsediğimi düşündüğümde,
-bütün bu absürt komedinin başka bir gezegende gerçekleşmediğine inanamıyorum.
-Beni en son gördüğünden beri
+etkileyici bir sabitlikle baktı. "Şimdi geriye dönüp baktığımda ve o insanların benimsediği yaşam kurallarını saygı duymam ve hatta hürmet etmem gereken bir şey olarak nasıl benimsediğimi düşündüğümde, bu saçma komedinin başka bir gezegende gerçekleşmediğine inanamıyorum. En son benimle tanıştığından beri
 ne kadar çok şey yaşadığımı bilmiyorsun. Kocamdan bahsetmiyorum. Geçmişin _o_ kısmı hakkında konuşmak benim için hoş değil. Bunu bile senden başka kimseye söylemezdim; ama şimdi
 söylediğime göre, daha fazlasını söyleyeceğim ve sana epeyce
-sert deneme, sert aşağılanma, sert yürek yakma yaşadığımı söyleyeceğim... Hadi,
+sert deneme, sert aşağılanma, sert yürek yanmaları yaşadığımı söyleyeceğim... Hadi,
 o sayfayı çevirelim, sen ve ben, ve bu konu hakkında
-bir daha asla konuşmayalım. Kesinlikle haklıydın; yaptığım şey _korkunçtu_ ve metrelerce çul, çuvallarca kül satın aldım. Tekrar
+bir daha asla konuşmayalım. Kesinlikle haklıydın; yaptığım şey _korkunçtu_ ve
+metrelerce çul, çuvallarca kül satın aldım. Tekrar
 yapacak olsaydım, yalvarmayı, açlıktan ölmeyi, tam çukurda ölmeyi tercih ederdim.
-Burada abartı yok; Bu insan kaderimize tamamen değişmiş bir vizyonla bakmaya başladım - zihinsel ve ahlaki anlamda o kadar genişledim ki, geçmişe ait kimliğim sanki bir kuşun eski tüyleri gibi, döktüğüm bir şeymiş gibi görünüyor. Tüyler mutlu bir benzetme oluşturur; o zamanlar bir tüyden daha hafiftim - deve dikeni kadar hafiftim. Hiçbir ilkem yoktu; sadece kaprislerim vardı. Kendime ait hiçbir fikrim yoktu; başkalarınınkiler bana verildi ve ben onları körü körüne kabul ettim. Başlıca kusurum olan kibri, özsaygı erdemiyle karıştırdım ve onu dikkatlice cilaladım, tıpkı birinin yüzüne bakabileceği küçük bir cep aynası gibi. Gerçekten iğrenç bir açgözlülük tarafından kışkırtıldım ve bunun sağlıklı bir evlilik hırsı olduğunu düşünerek kendimi övdüm. Bir dairenin kenarından daha büyük olmayan küçük bir yörüngede döndüm ve
-bir yıldızın kapsamına sahip olduğunu hayal ettim. Her iki cinsiyetten züppelerle
+Burada abartı yok; Bu insan kaderimize tamamen değişmiş bir vizyonla bakmaya başladım - zihinsel ve ahlaki anlamda o kadar genişledim ki, geçmişe ait kimliğim sanki bir kuşun eski tüyleri gibi, döktüğüm bir şeymiş gibi görünüyor. Tüyler mutlu bir benzetme oluşturur; o zamanlar bir tüyden daha hafiftim - deve dikeni kadar hafiftim. Hiçbir ilkem yoktu; sadece kaprislerim vardı. Kendime ait hiçbir fikrim yoktu; başkalarınınkiler bana verildi ve ben onları körü körüne kabul ettim. Başlıca kusurum olan kibri, özsaygı erdemiyle karıştırdım ve onu dikkatlice cilaladım, tıpkı birinin yüzüne bakabileceği küçük bir cep aynası gibi. Gerçekten iğrenç bir açgözlülük tarafından kışkırtıldım ve bunun sağlıklı bir evlilik hırsı olduğunu kendime övdüm. Bir dairenin kenarından daha büyük olmayan küçük bir yörüngede döndüm
+ve bunun bir yıldızın kapsamına sahip olduğunu hayal ettim. Her iki cinsiyetten züppelerle
 dedikodu yaptım ve buna sohbet adını verdim. Bir gecede iki saat boyunca Almanca'da zıplayıp soluk soluğa kaldım ve buna
 eğlence adını verdim. Göz kamaştırıcı sarı tekerlekli bir at arabasının tepesine tırmandım
 ve sınırlı zekası tamamen dört atı aynı anda sürme becerisine dalmış bir adamın yanına oturdum; ve biz küstahça gösterişle Cadde'de gürlerken, zavallı insanlar iç çekmek için, aptallar kıskanmak için ve akıllılar acımak için durduğundan, kendimi seçkin ve istisnai bir varlık olarak gördüm. Elbette, tüm bu dingin, anlamsızlığa hoşgörünün ardında koma halinde yatan daha iyi bir doğam olmalıydı.
@@ -573,8 +576,7 @@ Kilise fareleri kadar fakir, yetenek neredeyse her zaman olduğu kadar başarıs
 Pauline ayağa kalktı ve iki eliyle birkaç anlamlı küçük jest yaptı,
 odanın içinde hayali misafirleri kabul eden bir hostes gibi hareket etti. "Bir _salon_ düzenlemeyi düşünüyorum," diye devam etti--"gerçek bir _salon_. Modern toplumun amaçsız küstahlığına karşı
 güçlü bir haçlı seferi başlatmayı düşünüyorum. Yeni girişimim için
-bir hevesim var. Bunu ne kadar yiğitçe gerçekleştireceğimi
-görene kadar bekle."
+bir hevesim var. Bunu ne kadar yiğitçe gerçekleştireceğimi görene kadar bekle."
 
 "Anlamam gereken şu ki," dedi Courtlandt, yüzünde bir gülümseme izi olmadan,
 "öncelikle tüm eski arkadaşlarını kesmeyi mi düşünüyorsun?"
@@ -585,13 +587,11 @@ elbette hayır."
 
 "Ama onları _salonuna_ davet etmeyecek misin?"
 
-Başını tekrar salladı. "Orada yersiz dururlardı.
-Hiçbir şey hakkında ciddi değiller.
-Gireceğim herkes ciddi olmalı. Bu tek gerekliliğe büyük vurgu yapmayı düşünüyorum.
-Bu bir giriş
+Başını tekrar salladı. "Orada yersiz dururlardı. Hiçbir şey hakkında
+ciddi değiller. Benimle birlikte olacak olan herkes ciddi olmalı. Bu tek gerekliliğe büyük vurgu yapmayı düşünüyorum. Bu bir giriş
 pasaportu olmalı. Dairelerime giriş hem kolay hem de zor olmalı. Sözde aristokrat sınıfa itiraz etmeyeceğim, ancak herhangi bir başvuru sahibi şüphesiz bu sınıfın bir üyesi olarak
 bana başvurmaya kalkarsa, bu gerçeği bir şekilde diskalifiye edici olarak kabul edeceğim; bu ona karşı hatırlanacak; eğer onu
-kabul edersem, buna rağmen yapacağım, bu yüzden değil.--Bu noktadaki kastettiğim şey oldukça açık mı?"
+kabul edersem, buna rağmen yapacağım, bu yüzden değil.--Bu noktadaki kastettiğim şey yeterince açık mı?"
 
 "Ah, aşırı," dedi Courtlandt; "daha da fazla olamazdı.
 Bütün hanımlar ve beyler protestoyla karşılanacak."
@@ -613,11 +613,11 @@ o kadar büyük bir şekilde görmezden geldi.
 öğrenmedim. Sanırım sahip olmayı teklif ettiğin adamları tanıyorum;
 çoğu zaman uzun saçlar ve pardösü yerine büyük pelerinler ve boğazında soluk borusunu epeyce gösterecek kadar düşük yakalar giyiyorlar. Kadınlara gelince, onlar"--
 
-"Onların nasıl giyindikleri benim için tamamen önemsiz!" diye sözünü kesti, görkemli bir onaylamamayla. "Senin için çok üzülmeliyim, Courtlandt, ve ben de üzülüyorum. Kendini böyle paslandırmayacak kadar akıllısın, bütün günlerin boyunca. Büyük modern İngiliz düşünürlerinin eserlerinden birini okuduğuna inanmıyorum. İnsanlığın yüzyıllardır derinleştirdiği aynı eski çukurlarda koşmaya devam etmekten ağır ağır memnunsun. Elbette hiçbir zaman en ufak bir coşku kıvılcımı
+"Onların nasıl giyindikleri benim için tamamen önemsiz!" diye sözünü kesti, görkemli bir onaylamamayla. "Senin için çok üzülmeliyim, Courtlandt, ve ben de üzülüyorum. Kendini böyle paslandırmayacak kadar akıllısın, bütün günlerin boyunca. Büyük modern İngiliz düşünürlerinin eserlerinden birini okuduğunu sanmıyorum. İnsanlığın yüzyıllardır derinleştirdiği aynı eski çukurlarda koşmaktan ağır ağır memnunsun. Elbette hiçbir zaman en ufak bir coşku kıvılcımı
 olmadı ve olmayacak. Doğal olarak uyuşuksun; biri sana
 bir iğne saplasa atlayacağına inanmıyorum. Ama bütün bunlar, yaşının muhteşem ilerlemelerine ayak uydurmaya çalışmaman için bir sebep değil. Seçmenlerim etrafımda toplandığında, küçük sempatizan grubumu merkezileştirme ve ilhamlandırma konusundaki iyi işime oldukça başladığımda, mevcut inanç ve ilkelerin kibir ve yanlışlıklarına karşı niyet ettiğim muhalefeti pratik bir şekilde tanımladığımda, o zaman, neden sizin topluluklarımla kaynaşmanıza ve hem zamanınızı hem de fırsatınızı nasıl boşa harcadığınızı kendiniz öğrenmenize izin vereceğim."
 
-"Bu çok iyi bir davranış," diye mırıldandı Courtlandt sakin bir şekilde. "Kapılarınızın bana sonsuza dek kapalı olduğunu sanıyordum."
+"Bu çok iyi bir davranış," diye mırıldandı Courtlandt sarsılmaz bir şekilde. "Kapılarınızın bana sonsuza dek kapalı olduğunu sanıyordum."
 
 "Ah, hayır. Gerçekten de, sık sık bize uğramanız konusunda ısrar edeceğim. Varlığınıza ihtiyacım olacak. Bir bakıma, siz benim bağlantı halkam olacaksınız."
 
@@ -778,7 +778,7 @@ dikkatsiz ve çoğu zaman bol miktardaki hayırseverliğiyle, diğer tüm günl�
 
 Yeni bir konut satın alırken hemen ona danıştı ve
 kendisinin onun tavsiyelerine uymasına izin verdi. Bu olay onları
-aksi takdirde olabileceklerinden daha yakın bir şekilde bir araya getirdi.
+aksi takdirde olacağından daha yakın bir şekilde bir araya getirdi.
 Sanatsal duygusu ve mükemmel zevki kısa sürede onun için
 taze bir sürpriz oldu. "Düşünmeye başlıyorum," dedi bir gün ona, "bilmediğin hiçbir şey olmadığını."
 
@@ -854,11 +854,10 @@ Tüm inançları kristalleşmişti ve her biri, mecazi olarak,
 bir tür aile elmasıymış gibi pamukta saklanıyordu. O, daha yaşlı, zengin ve daha göze çarpan daldan bir Bayan Schenectady olmuştu; böyle bir Bayan Schenectady olmak
 çok dikkat çekici bir şeydi. evli
 bir milyoner ve ayrıca bir Poughkeepsie; bu, ayrıca, çok önemli ve güzel bir şeydi. O kadar belirgin bir "pozisyonu" vardı ki,
-toplumsal faaliyetlere aktif olarak katılmamasının
-ne zaman isterse
-görünüp hükmetme hakkı açısından hiçbir farkı yoktu; sadece mızrağını kaldırması gerekmişti,
+toplumsal faaliyetlere aktif olarak katılmamasının,
+ne zaman isterse ortaya çıkma ve yönetme hakkı açısından hiçbir farkı yoktu; sadece mızrağını kaldırması gerekmişti,
 Bayan Sallie refakatçisine ihtiyaç duyduğunda ve Snowes ve Briggs'ler
-zorla titremek zorunda kaldığında. Ve bu gerçeği de değerli,
+zorla titremek zorunda kaldığında. Ve bu gerçeği de, değerli,
 lezzetli bir ayrıcalık olarak kabul ediyordu.
 
 Kendisiyle ilgili olarak birkaç başka açıdan da tatmin olmuştu.
@@ -890,7 +889,7 @@ elbette, kendilerindedir. Gerçek müzik severler olarak yeterince sayıca
 olduklarında, saygın bir sanatsal ve sahne desteği olmadan
 büyük bir şarkıcıya bile yüzlerini göstermezler.
 
-Pauline, Effingham'ların geniş sahne önü kutusunda, Bayan
+Pauline, Effingham'ların geniş sahne önündeki kutuda, Bayan
 Poughkeepsie ve kızının arasında oturuyordu. Sallie Poughkeepsie, annesinin burnu, annesinin dinginliği, annesinin şişman bir
 analık vaadi olan iri bir kızdı. Muazzam umutları vardı;
 henüz gelmemiş olan ebeveyn onayını beklerken en az yirmi uygun evlilik teklifini
@@ -898,8 +897,8 @@ reddettiği bildiriliyordu.
 
 İlk _giriş_ sırasında küçük bir hayran kalabalığı kutuya girdi.
 Pauline bunlardan bazılarını tanıyordu; diğerleri, sanki kendi zamanından
-sonra ortaya çıkmıştı. Biri İngiliz'di ve hemen ona Glenartney Kontu olarak tanıtıldı. Ünvan ona güzel geldi, romantik ve pitoresk duygusuna hitap ediyordu; ancak daha sonra Kont'un geri çekilmiş alnına, gevşek ağzına ve zayıf vücuduna daha yakından baktığında bunun böyle olup olmadığını merak etti. Görünüşüyle ​​ilgili kesinlikle şiir kadar sert bir düzyazısı da vardı. Bayan Poughkeepsie, Sallie ile konuştuğu
-süreç boyunca ona bir tür yan gözle gülümsüyordu. Bol göğüslü ve kibirli bir profile sahip bir zengin, onun tüm dikkatini talep etti, ancak bunu tamamen bahşetmeyi başaramadı; bu evlenmemiş İskoç akranının çocuğunun dirseğinde bulunması çok heyecan verici bir olaydı; her zamanki sakinliği hoş bir dalgalanma içindeydi; hırs sinsi fısıltılarını çoktan başlatmıştı, çünkü Kont'un hala bekar olduğu biliniyordu. Teyzesini bu kadar dikkatle okuyan Pauline, bu anaç saygının alay konusu olduğunu hissetti. Kendisine, sadece rütbe ve yeri putlaştırabilen bir insan dünyasallığının kasvetli ve korkunç bir şey olduğunu söyledi. Lord Glenartney tam bir aptal olmadığı ve ahlaki karakteri en kötü yozlaşmadan kurtulduğu sürece, kuzenine muhteşem bir eş olarak kabul edileceğini gayet iyi biliyordu.
+sonra ortaya çıkmıştı. Biri İngiliz'di ve hemen ona Glenartney Kontu olarak tanıtıldı. Ünvan ona güzel geldi, romantik ve pitoresk duygusuna hitap ediyordu; ancak daha sonra Kont'un geri çekilmiş alnına, gevşek ağzına ve zayıf vücuduna daha yakından baktığında bunun böyle olup olmadığını merak etti. Görünüşüyle ​​ilgili olarak kesinlikle şiir kadar sert bir düzyazısı vardı. Bayan Poughkeepsie, Sallie ile konuştuğu
+süreç boyunca ona bir tür yan gözle gülümsüyordu. Bol göğüslü ve kibirli bir profile sahip bir zengin, onun tüm dikkatini talep etti, ancak bunu tamamen bahşetmeyi başaramadı; bu bekar İskoç akranının çocuğunun dirseğinde bulunması çok heyecan verici bir olaydı; her zamanki sakinliği hoş bir dalgalanma içindeydi; hırs sinsi fısıltılarını çoktan başlatmıştı, çünkü Kont'un hala bekar olduğu biliniyordu. Teyzesini bu kadar dikkatle okuyan Pauline, bu anaç saygının alay konusu olduğunu hissetti. Kendisine, sadece rütbe ve yeri putlaştırabilen bir insan dünyasallığının kasvetli ve korkunç bir şey olduğunu söyledi. Lord Glenartney tam bir aptal olmadığı ve ahlaki karakteri en kötü yozlaşmadan kurtulduğu sürece, kuzenine muhteşem bir eş olarak kabul edileceğini gayet iyi biliyordu.
 
 Kont, sonraki perde boyunca Sallie'nin yanında kaldı.
 Perde tekrar indiğinde o hala oradaydı, diğer beyefendiler ise şimdi ayrılanların yerlerini aldı. Ve bunların arasında, onun şaşkınlığına ve memnuniyetine, Ralph Kindelon da vardı.
@@ -907,7 +906,7 @@ Perde tekrar indiğinde o hala oradaydı, diğer beyefendiler ise şimdi ayrıla
 Arkadaşına elini uzatırken neredeyse ayağa kalkıyordu. Meydan okuyan bir memnuniyet onu aniden heyecanlandırmıştı. Kindelon'un adını teyzesine takdim ederken oldukça yüksek sesle söyledi. Kindelon, Bayan Poughkeepsie'ye sadece eğilmek yerine, coşkulu bir samimiyetle elini uzattı. Pauline, teyzesinin yüzünde şaşkın bir ifadenin belirdiğini gördü. Yakışıklı, iri yapılı İrlandalı, gece elbisesi giymemişti. Diğer tüm beyefendilerin üzerinde yükseliyordu; neredeyse başka bir türden bir yaratık gibi görünüyordu. Gelişi anında bir sansasyon yarattı; modaya bu kadar düşkün olan bu zarif kişiler ona evrensel bir bakış attılar, aralarında küstah bir nezaketle yolunu açıyormuş gibi bir havası vardı. Bir elinde yumuşak, "tamamen uyanık" bir şapka taşıyordu; kıyafetleri koyu gri bir kumaştandı; düzgün ama ağır çizmeli ayakları, bir sandalye aramak için geriye doğru hareket ederken yerde donuk sesler çıkarıyordu. Mükemmel özdenetimi konusunda hiçbir şüphe yoktu; belli ki kalmaya ve kendini göstermeye gelmişti. "Bu kim?" Bayan Poughkeepsie, yeğeninin kulağına hızla fısıldama fırsatı buldu. Sorgulayıcı cümlesine eşlik eden
 ajitasyonunda kesinlikle dramatik bir dokunuş vardı.
 
-Pauline, teyzesinin yanıt vermesiyle ona sabit bir şekilde baktı: "Çok değerli bir
+Pauline, teyzesinin yanıt vermesiyle ona dikkatle baktı: "Çok değerli bir
 arkadaşım."
 
 "Ama canım!" diye kekeledi Bayan Poughkeepsie. Parçalı küçük
@@ -1052,7 +1051,7 @@ Lord Glenartney Bayan Varick'in öfkesini çok eğlenceli buluyormuş gibi gör�
 bu bakışlar sanki "Pauline bundan sonra hangi rahatsız edici saçmalıktan suçlu olacak?" diye soruyor gibiydi.
 
 Ancak Bayan Poughkeepsie ve Sallie o gece akrabalarını Bond Street'teki ikametgahında çok hoş bir şekilde vedalaşarak bıraktılar. Doğru, Lord Glenartney arabalarında bir koltukta oturuyordu, ancak durum böyle olmasa bile, ne anne ne de kızı Pauline'e onlarda uyandırdığı hoşnutsuzluğun hiçbirini
-duymazlardı. Artık o dünyada bir güçtü ve kan bağıyla onlara yakın olmasının yanı sıra, yaptığı çılgınlıklar bile bir Poughkeepsie'nin hoşgörüsünü hak ediyordu.
+duymazlardı. Artık dünyada bir güçtü ve kan bağıyla onlara yakın olmasının yanı sıra, yaptığı çılgınlıklar bile bir Poughkeepsie'nin hoşgörüsünü hak ediyordu.
 
 Fakat Sallie ve annesi lord hazretlerine iyi geceler diledikten ve
 evde yalnız kaldıktan sonra, genç hanım kuzeninin davranışlarından
@@ -1067,7 +1066,7 @@ metresi ve onu engellemenin bir yolu yok."
 
 "İnsanlar _sınırlandırılmalı_," diye homurdandı Sallie, opera pelerinini gevşeterek, "pozisyonlarını böyle bir şekilde elden çıkarmak istediklerinde."
 
-"Ah, Pauline kendikini bu kadar kolay elden çıkaramaz," diye onayladı Bayan Poughkeepsie akıllıca bir soğukkanlılıkla. "Hayır, ismi ve büyük
+"Ah, Pauline kendikini bu kadar kolay elden çıkaramaz," diye onayladı Bayan Poughkeepsie akıllıca bir sakinlikle. "Hayır, ismi ve büyük
 geliri yüzünden değil. Sadece kendisiyle dalga geçilecek, bilirsin--_encanailler_
 kendisi en gülünç şekilde; hepsi bu. Kafasını ona bırakmalıyız, tıpkı bir at için
 denildiği gibi. Babası her zaman kaprislerle doluydu; O olmasaydı
@@ -1099,7 +1098,7 @@ tam olarak emin değildim. Kararınızın son zamanlarda değişmiş olabileceğ
 "Ve dua edin, neden?" diye sordu Pauline, kaşlarını kaldırarak, küçük bir
 emir verici gülümsemeyle.
 
-"Projeden kesinlikle iki haftadır bahsetmedin," diye karşılık verdi. "Seninle zayıflayıp zayıflamadığını merak etmiştim."
+"Projeden kesinlikle iki haftadır bahsetmedin," diye karşılık verdi. "Seninle birlikte zayıflayıp zayıflamadığını merak etmiştim."
 
 "Her zamankinden daha güçlü," diye iddia etti Pauline. Ellerini kucağında birleştirdi ve aşırı derecede kararlı ve kararlı görünmeye çalıştı. Böyle görünmeye çalıştığında her zaman özellikle yakışıklıydı; sadece zayıftı
 ve kadınsıydı, bu da güç, kararlılık ve özellikle de yakıştığını varsaymamızı sağlayacak kadar.
@@ -1107,17 +1106,18 @@ ve kadınsıydı, bu da güç, kararlılık ve özellikle de yakıştığını v
 "Ah, tamam," diye cevapladı Kindelon, zengin ifadeli gülümsemelerinden biriyle. "O zaman sana bir önerim var. Senin tarafında acil bir eylem
 yoluyla ilgili. Bayan Hagar Williamson'ı hiç duydunuz mu?"
 
-Pauline kahkahalarla güldü. "Hayır. Bir isimden çok bir onaylama gibi geliyor kulağa - 'Bayan Hagar Williamson Cesaret Ediyor.' İnsan, 'Öyle mi?' demek istiyor. Beni geri dönülmez bir şekilde önemsiz sanmayın ve lütfen devam edin. Lütfen bana söyleyin, yani, bu dikkat çekici isimli hanımefendi ne gibi dikkat çekici şeyler yaptı?"
+Pauline kahkahalarla güldü. "Hayır. Bir isimden çok bir onaylama gibi geliyor - 'Bayan Hagar Williamson Cesaret Ediyor.' İnsan, 'Öyle mi?' demek istiyor. Beni geri dönülmez bir şekilde önemsiz sanmayın ve lütfen devam edin. Lütfen bana söyleyin, yani, bu olağanüstü isimli hanımefendi ne gibi olağanüstü şeyler yaptı?"
 
 "Hiçbir şey."
 
-Pauline'in yüzü, memnun bir beklentiyle düştü. "Hiçbir şey! Ne kadar da yorucu!"
+Pauline'in yüzü, memnun bir beklentiyle düştü. "Hiçbir şey! Ne kadar
+yorucu!"
 
-"Dikkat çekici hiçbir şey demek istiyorum," diye devam etti Kindelon, "aydınlık entelektüel anlamda. Ve yine de çok sıra dışı bir kadın. Yirmi beş yaşında kocasından boşandı."
+"Yani olağanüstü hiçbir şey," diye devam etti Kindelon, "aydınlık entelektüel anlamda. Ve yine de çok sıra dışı bir kadın. Yirmi beş yaşında kocasından boşandı."
 
-Pauline başını endişeyle salladı. "Bu hiç de umut verici gelmiyor."
+Pauline başını sıkıntılı bir şekilde salladı. "Bu hiç de umut verici gelmiyor."
 
-"O ahlaksız bir herifti. Mahkemeler kolayca ona serbest kalma hakkı verdi. Bu sırada neredeyse parasızdı. İki küçük çocuğu olduğu için doğal olarak şu soru ortaya çıktı: 'Üçümüz nasıl yaşayacağız?' New England'daki bir evde büyümüştü; ölen babası kapsamlı bir eğitime sahip bir adamdı ve bir zamanlar başarılı bir okulun müdürüydü. Hagar'ın her zaman dediğimiz gibi 'yazmaya karşı bir zevki' vardı. Oldukça akademik eğilimli bir New York dergisi için eleştiriler yaparak başladı; bu derginin editörü neredeyse açlıktan ölmek üzere olan durumuna duyduğu acımayla, şüphesiz yeteneklerine duyduğu takdiri birleştirmişti. Ancak, yoksul, mücadeleci genç annenin aldığı ücretler zorunlu olarak çok yetersizdi. Pratik oldu. Kalemiyle para kazanmanın başka bir yolu olup olmadığını sordu kendine. Kısa sürede bir yol buldu; bunun için Diderot, Strauss ve Spinoza hakkında bilgi sahibi olması gerekmiyordu; bunların tüm yazılarını (ve aynı derecede ün yapmış birçok klasiği) gayet iyi biliyordu; sadece edebi gururun her
+"O sefih bir herifti. Mahkemeler ona kolayca serbest kalma hakkı verdi. Bu sırada neredeyse parasızdı. İki küçük çocuğu olduğu için doğal olarak şu soru ortaya çıktı: 'Üçümüz nasıl yaşayacağız?' New England'daki bir evde büyümüştü; ölen babası kapsamlı bir eğitime sahip bir adamdı ve bir zamanlar başarılı bir okulun müdürüydü. Hagar'ın her zaman dediğimiz gibi 'yazmaya karşı bir zevki' vardı. Oldukça akademik eğilimli bir New York dergisi için eleştiriler yaparak başladı; bu derginin editörü neredeyse açlıktan ölmek üzere olan durumuna duyduğu acımayla, şüphesiz yeteneklerine duyduğu takdiri birleştirmişti. Ancak, yoksul, mücadeleci genç annenin aldığı ücretler zorunlu olarak çok yetersizdi. Pratik oldu. Kalemiyle para kazanmanın başka bir yolu olup olmadığını sordu kendine. Kısa sürede bir yol buldu; bunun için Diderot, Strauss ve Spinoza hakkında bilgi sahibi olması gerekmiyordu; bunların tüm yazılarını (ve aynı derecede ün yapmış birçok klasiği) gayet iyi biliyordu; sadece edebi gururun her
 izini bir kenara bırakıp _pratik_ bir şekilde yazması gerekiyordu. Aman Tanrım! Edebiyatta 'pratik' kelimesi ne kadar da
 güzel bir kelime! İnsanlara
 bir turta pişirmeyi, baş ağrısını tedavi etmeyi, bir gömleği ağartmayı,
@@ -1166,7 +1166,7 @@ Pauline bunun üzerine oldukça ateşli bir şekilde söze karıştı. Gözleri 
 parladı ve renk, güzel yüzüne pembe ve saf bir şekilde uçuyordu.
 "Pshaw!" diye haykırdı. "Sosyal statü meselesi değil. Ben bu insanları tanımak istiyorum"--Birdenbire durakladı, sanki dili onu pişmanlık verici ve yakışıksız bir
 ifadeye
-sokmuş gibi. "Geçmek istiyorum," diye devam etti daha yavaş bir şekilde, "amaçsız bir dünyadan, düşünce ve duygu dünyasına. Bayan Dares bu diğer dünyada önemli bir isim. Söylediklerinizden, orada çok temsili ve etkili bir ruh olduğunu çıkarırım. Neden beni burada arayacak kadar iyi huylu ve nazik olmasın? Neden ona kesinlikle kur yapmamı istesin? Senin tarifin, onu tanıdığım için beni mutlu ve mesut ediyor. Bunu öğrenirse, sosyal statüdeki bir eşitsizlik hakkında saçma sapan endişelerden uzak durur muydu? - Peki, eğer öyleyse," diye ilan etti Pauline, bu sırada oldukça heyecanla kızarıp çırpınıyordu, "o zaman senin onun erdemlerini abarttığını ve kusurlarını fazla iltifat ederek gizlediğini söylerdim!"
+sokmuş gibi. "Geçmek istiyorum," diye devam etti daha yavaş bir şekilde, "amaçsız bir dünyadan, düşünce ve duygu dünyasına. Bayan Dares bu diğer dünyada önemli bir isim. Söylediklerinizden, orada çok temsili ve etkili bir ruh olduğunu çıkarırım. Neden beni burada arayacak kadar iyi huylu ve nazik olmasın? Neden ona kesinlikle kur yapmamı istesin? Senin tarifin, onu tanıdığım için beni mutlu ve mesut ediyor. Bunu öğrenseydi, sosyal statüdeki bir eşitsizlik hakkında saçma sapan endişelerden uzak durur muydu? - Peki, eğer öyleyse," diye ilan etti Pauline, bu sırada oldukça heyecanla kızarıp çırpınıyordu, "o zaman senin onun erdemlerini abarttığını ve kusurlarını fazla iltifat ederek gizlediğini söylerdim!"
 
 Kindelon, bitirdiğinde başını geriye attı ve o kadar içten bir şekilde güldü ki, sert beyaz dişlerinden daha fazlası geçici olarak görünür oldu,
 bir nezaket yargıcının hoşuna gitmezdi.
@@ -1246,7 +1246,7 @@ sesiyle.
 "Elbette öyle!" diye haykırdı Pauline, arabanın hazır olduğunu bildiren hizmetçiye başını sallarken. "Taze, gerçek bir
 hisse
 deceğim . Kendimi özgürleştireceğim - bir bakıma
-bağımı koparacağım. Ömür boyu tutsak oldum; Güneşin
+bağımı koparacağım. Ömür boyu bir tutsaktım; Güneşin
 nasıl göründüğünü veya temiz, özgür havayı yudumlamanın nasıl bir his olduğunu bilmiyorum."
 
 Dışarıdaki karanlık yüzünü gizleyene kadar şaşkın şaşkın onu izledi ve
@@ -1315,30 +1315,32 @@ Kindelon şüpheli bir kahkaha attı. "Kolayca uyum sağlayabileceğinden pek em
 "Tam da tanışmak istediğim şey bu," diye haykırdı hızla--"her türden beyin. Şu anda sadece iki veya üç türe alışkınım.--Ah,
 sıkılacağımdan korkmana gerek yok. Hayır, kesinlikle! Tam tersine, coşkulu olmayı bekliyorum. Çoğuyla kaynaşacağım - hemen hemen onlardan biri olacağım. Görene kadar bekle!"
 
-"Bunu görmeyeceğim," dedi Kindelon, eğlenen bir _kaba_ tavırla.
+"Bunu görmeyeceğim," dedi Kindelon, eğlenceli bir _kaba_ tavırla.
 
 "Ne demek istiyorsun?" diye sordu, bir kez daha gücenerek.
 
 Konuşmaya başladı, eski gevezeliğiyle. "Neden, sevgili hanımefendi,
 çünkü sen onlardan biri _değilsin_ ve asla da olamazsın. Sen bir patrisyensin, farklı yetiştirilmişsin ve gittiğin her yere damganı
-yanında taşıyacaksın. Sesin bile on saniye içinde sana ihanet edecek. Onlara iyi arkadaşları olmak istediğini gösterebilirsin, ama onları seninle aynı soydan geldiğine
+götüreceksin. Sesin bile on saniye içinde sana ihanet edecek. Onlara iyi arkadaşları olmak istediğini gösterebilirsin, ama onları seninle aynı soydan geldiğine
 ikna edemezsin. Bazıları seni kıskanacak, diğerleri gizlice seni hor görmeye kalkışabilir ve yine diğerleri seni
-çok içtenlikle sevebilir. Sanırım yakın zamana kadar, sizin müttefikleriniz ve destekçileriniz yapmak istediğiniz bu kişilerden ne kadar farklı olduğunuzu fark etmemiştim. O gece, teyzenizin opera binasına girdiğimde, konuyla ilgili çok az bir fikrim vardı. New York aristokrasisi fikrine her zaman
+çok içtenlikle sevebilir. Sanırım yakın zamana kadar, müttefikleriniz ve destekçileriniz yapmak istediğiniz bu kişilerden ne kadar farklı olduğunuzu fark etmemiştim. O gece, teyzenizin opera binasına girdiğimde, konuyla ilgili çok az bir fikrim vardı. New York aristokrasisi fikrine her zaman
 alaycı yaklaşmışımdır. Çok saçma, çok
-kendi kendine çelişen bir şey gibi görünüyordu. Ve eğer gerçekten varsa, kendime her zaman, bunun en saçma
+kendi içinde çelişkili görünüyordu. Ve eğer gerçekten varsa, kendime her zaman, bunun en saçma
 saçma aldatmaca olması gerektiğini söyledim. Ama şimdi bunu
-inkar edilemez bir gerçek olarak tanımaya başlıyorum. Bunu çok geç keşfetmemde bir tür ironi de var -- demokratik olduğuna inandığım bir şehirde gazeteci olarak dolaştıktan sonra. Ancak, siz
-bütün meseleyi bana açıkça anlattınız. Benim pleb gözlerimi açmayı amaçlamadınız,
+inkar edilemez bir gerçek olarak tanımaya başlıyorum. Bunu çok geç keşfetmemde bir tür ironi de var -- demokratik olduğuna inandığım bir şehirde gazeteci olarak dolaştıktan sonra. Ancak, tüm
+meseleyi bana açıkça anlattınız. Pleb gözlerimi açmayı amaçlamadınız,
 ama açtınız. Beni nasıl
 düşündürdüğünüz gerçekten harika. Amerika'nın bir cumhuriyet olarak politik bir başarısızlık olduğunu kendime sık sık söyledim, ancak bunun sosyal bir başarısızlık olduğunu hiç fark etmemiştim."
 
 Tam o sırada araba durdu. "Üzgünüm," dedi Pauline, "New York edebiyat topluluğu hakkında bilinçsizce kötü düşünmenize neden olduğum için."
 Bir an durakladı ve sesinde azarlayıcı bir ciddiyet vardı,
-eklerken: "İnanıyorum ki -aksini görene kadar inanmaya devam ediyorum- kınanmayı hak etmiyor."
+eklerken: "İnanıyorum ki -aksini görene kadar inanmaya devam ediyorum-
+kınanmayı hak etmiyor."
 
 VI.
 
-Uşak şimdi kutudan fırlarken duyuluyordu. "Aman Tanrım!" diye haykırdı Kindelon; "Kınamadım! Kendini kınıyor."
+Uşak şimdi kutudan fırlarken duyuluyordu. "Aman Tanrım!"
+diye haykırdı Kindelon; "Ben kınamadım! Kendini kınıyor."
 
 Pauline suçlayıcı hiciv dolu bir kahkaha attı. "Ah!" diye bağırdı.
 "Bayan Dares'in önünde buna karşı konuşmanızı duymak isterim - ve arkadaşınız Bayan Cora'nın da - tıpkı az önce benim önümde yaptığınız gibi!"
@@ -1365,7 +1367,7 @@ Pauline onu izlerken gülümsedi, ama gülümsemesinde hem bıkkınlık hem de m
 
 "Teyzene sor, Bayan Poughkeepsie," diye cevapladı.
 
-Pauline sinirli bir şekilde iç çekti. Bunu yaparken Bayan Dares'in evinin kapısı ladin görünümlü genç bir zenci tarafından açıldı ve ikisi de ötedeki küçük, sınırlı salona geçtiler. Küçük kapılardan geriye doğru zarif tasarımlı duvar halıları sarkıyordu. Farklı renklerdeki harmanlanmış kumaşları, kumaşların gerçek değerine göre tamamen orantısız, yeni bir etki yaratıyordu. Bayan Dares'in küçük kızının ustaca becerisi, yalnızca bunlardan değil, bu hoş minyatür konutun her yerindeki diğer eşit derecede mutlu süslemelerden de sorumluydu. Her odada, minimum maddi masrafla maksimum zarif ve hatta parlak süslemenin kazanıldığı güzel bir dekoratif strateji bulunuyordu. Pauline'in gözü çok fazla pahalı döşemelik eşyaya göz gezdirmişti. İnce bir kesenin keskin bir sanatsal anlayışla gittiğini fark etmemişti. Gerçek güzellik içgüdüsü asla yanılmıyor gibiydi ve gerçek malzeme yoluyla sadeliğin sürekli eşlik etmesi ona yeni bir çekicilik kazandırdı. Paravan, halı, panel, şömine örtüsü, düzenleyici ve sandalye minderi
+Pauline sinirli bir şekilde iç çekti. Bunu yaparken Bayan Dares'in evinin kapısı ladin görünümlü genç bir zenci tarafından açıldı ve ikisi de ötedeki küçük, sınırlı salona geçtiler. Salona açılan küçük kapılardan geriye doğru zarif tasarımlı duvar halıları kıvrılmıştı. Farklı renklerdeki harmanlanmış kumaşları, kumaşların gerçek değerine göre tamamen orantısız, yeni bir etki yaratıyordu. Bayan Dares'in küçük kızının ustaca becerisi, yalnızca bunlardan değil, bu hoş minyatür konutun her yerindeki diğer eşit derecede mutlu süslemelerden de sorumluydu. Her odada, minimum maddi masrafla maksimum zarif ve hatta parlak süslemenin kazanıldığı güzel bir dekoratif strateji bulunuyordu. Pauline'in gözü çok fazla pahalı döşemelik eşyaya göz gezdirmişti ve burada keskin bir sanatsal anlayışa sahip ince bir çantanın gittiğini fark etmemişti. Gerçek güzellik içgüdüsü asla yanılmıyor gibiydi ve gerçek malzeme yoluyla sadeliğin sürekli eşlik etmesi ona yeni bir çekicilik kazandırdı. Paravan, halı, panel, şömine örtüsü, düzenleyici ve sandalye minderi
 lüks araçlarla işlenmedikleri için onun için hemen değer kazandı. Tüm bunları kadifeden, ipekten, seçkin ağaçlardan satın almak çok kolaydı; hepsini daha az gösterişli kaynaklardan planlayabilmek çok zordu, çok nadirdi. Bayan Dares'in evinde beş dakika geçirmeden önce, Pauline kendisini ayrıntılarının karışık çekiciliği ve mütevazılığından etkilenmiş buldu, tıpkı kültürlü çiçeklerle karşıtlıkları nedeniyle daha da tatlı bir şekilde parlayan bazı kır çiçeklerinin renk tonlarından, hatlarından ve hatta kokularından etkilendiğimiz gibi. Bayan Dares'in kendisi de ürkek küçük bir kır çiçeğine benziyordu. Kısa boylu ve çok narindi; Kindelon'un aralıksız başarılarının geçmiş anlatıları, Pauline ona bakarken masalsı bir renk aldı. Son derece solgundu, iri, sıcak, koyu gözleri kameo benzeri bir zarafetin yüzünde duruyordu. Elbisesi, sanki bolluğunda acıyan bir sebep varmış gibi, narin kişiliğinin etrafında kıvrımlar halinde asılıydı. Ama onu kendine özgü bir havayla giyiyordu. Bu çekingen bir havaydı ama yine de rahatlık ve dinginlik havasıydı. Keskin yüzünün zekası ve samimiyeti ona yadsınamaz bir onur veriyordu; kısa sürede onun tamamen mütevazı olduğundan emin oldunuz, ama kısa sürede bu çekingenlik özelliğinin sebebinin zihninde veya karakterinde bir zayıflık olmadığını fark ettiniz. Aslında, bedensel zayıflığıyla örtüşüyor ve bireyselliğini daha eksiksiz hale getirirken aynı zamanda vurguluydu. Dikkatimizi
 zorlayan kişilik her zaman onu en hızlı şekilde fark etmemizi sağlamaz. Bayan Dares hiç kimsenin dikkatini
 zorlamadı, ancak nadiren fark edilmedi. Sesi
@@ -1422,23 +1424,23 @@ itimatımı sarstınız, kabul ediyorum."
 aşağı indirmişti.
 
 "Bunu bir kaçamak için mi söylüyorsun?" diye sordu Pauline, hemen hemen nezaketsizce bulduğu ekşi bir keskinlikle. "İzin verin," diye devam etti,
-tonunu hemen yumuşatarak, "kelime benim kullandığım şekliyle birçok tanımı kapsıyor - _faute de mieux_ olarak kullanılıyor ve kesinlikle edebi denebilecek hiçbir
+derhal tonunu yumuşatarak, "kelime benim kullandığım şekliyle birçok tanımı kapsıyor - _faute de mieux_ olarak kullanılıyor ve kesinlikle edebi denebilecek hiçbir
 toplum hiçbir yerde var olmadı. Hadi, o zaman, sevgili Bayan Dares, tüm bunlara rağmen, Bay Kindelon'un haklı olduğunu düşünüyor musunuz? Bugün New York'ta her şey kaos mu? Hiçbir düzen parıltısı yok mu?" Ve burada Pauline gizlice bir kahkaha
 titremesine başladı. "Başlayacaksam iyi işime mümkün olan en erken
 başlangıçta mı başlamalıyım?"
 
-Bayan Dares'in koyu gözleri şimdi gülümsüyor gibiydi, dudakları gülümsemese bile. "Evet," dedi. "Bay Kindelon haklıydı. En baştan başlamalısın. Londra'da her şey çok farklı," diye devam etti, hiçbir şeyin onu kalıcı olarak rahatsız edemeyeceği meditatif bir ciddiyete dalarak. "Birkaç yıl önce orada mutlu ve unutulmaz bir ay geçirdim. Burada evde aşırı çalışmaktan dolayı geçirdiğim lezzetli bir tatildi ve
+Bayan Dares'in koyu gözleri şimdi gülümsüyor gibiydi, dudakları gülümsemese bile. "Evet," dedi. "Bay Kindelon haklıydı. En baştan başlamalısın. Londra'da her şey çok farklı," diye devam etti, hiçbir şeyin onu kalıcı olarak rahatsız edemeyeceği meditatif bir ciddiyete bürünerek. "Birkaç yıl önce orada mutlu ve unutulmaz bir ay geçirdim. Burada evde aşırı çalışmaktan dolayı geçirdiğim lezzetli bir tatildi ve
 bunu kutsanmış bir ilaç olarak buldum. Yanımda birkaç şanslı mektup getirmiştim.
 Bana kapılar açtılar ve o kapıların ardında değerli bir karşılamayla dolu yüzler ve seslerle karşılaştım. Bana karşı nazik olanların
 birçoğunun isimlerini bilirsiniz; bunlar herkesin bildiği isimlerdir.
-Ve orada, Londra'da, güçlü bir şekilde yerleşmiş, onurlu, önemli ve etkili bir toplum gördüm. Nadiren, arada sırada, bir ünvanı olan bir erkek veya kadınla karşılaştım, ama o kişi her zaman ünvanı kazanmak için bir şeyler yapmıştı veya -eğer miras kalmışsa- onu gölgede bırakacak bir şeyler yapmıştı. Kusurları bulmak, itiraz etmek için yeterince uzun kalmadım;
+Ve orada, Londra'da, güçlü bir şekilde yerleşmiş, onurlu, önemli ve etkili bir toplum gördüm. Nadiren, arada sırada, bir ünvanı olan bir erkek veya kadınla karşılaştım, ama o veya kadın her zaman ünvanı kazanmak için bir şeyler yapmıştı veya -eğer miras kalmışsa- onu gölgede bırakacak bir şeyler yapmıştı. Kusurları bulmak, itiraz etmek için yeterince uzun kalmadım;
 keyif aldım ve takdir ettim--ve asla unutmadım!"
 
 Tam bu noktada ve Pauline'in gizlice can sıkıntısına rağmen, Kindelon yanında bir hanımla geri döndü. Pauline kısa süre sonra hanımın adını öğrendi ve duyduğunda can sıkıntısı yeni bir merakla hızla dağıldı. Hemen Bayan Cora Dares'in annesine çok az benzediği sonucuna vardı. Daha uzundu ve vücudu cömert olmasa da dolgun bir yapıya sahipti. Dalgalı kestane rengi saçları alnının üzerine doğru uzanıyordu; neredeyse güzellik için fazla kısaydı, ancak sakin, düz hatlı yüzü, bir çift eşsiz parlak mavi gözle aydınlatılıyordu ve mükemmel simetriye sahip derin gamzeli bir çeneyle sonlanıyordu, çekici iddiasını yerine getirmek için sadece bir bakışa ihtiyacı vardı. Bayan Cora Dares gülümsemelerinde oldukça cömertti; Pauline'e, ikincisinin elini tutarken, annesine daha da az benzemesini sağlayan çok parlak ve çekici bir el uzattı. "Sizi ve annemi çok içten bir şekilde konuşurken gördük, Bayan Varick," dedi, Kindelon'a doğru kısa bir yan bakış atarak, "ve bu yüzden en azından bir süre sizi rahatsız etmemenin güvenli olacağı sonucuna vardık. Ama annem bir eğlendirici olarak garip bir şekilde güvensiz." Bu, Bayan Dares'e doğru son derece tatlı ve sevimli bir bakışla söylendi. "Bazen kendini nazik coşkularla kaybediyor. Kız kardeşim Martha ve ben, özgürleştirilmemiş kurbanlara duyduğum acıma duygusuyla, sırayla onu gözetlemek zorundayız."
 
 "Size bu suçlamanın adaletsizliğini ne kadar küçümsediğimi söylememe gerek yok, sevgili Bayan Dares!" diye haykırdı Kindelon. "Size olan hayranlığımı bildirmek için gün geç olacak!"
 
-"Korkarım ki benimkinden bahsetmek için gün erken," dedi Pauline; ama sözleriyle birlikte gelen kahkaha (ya da sözcüklerin kendisi miydi?) içtenlikle çınladı ve söylediklerinden boş bir iltifatın hafifliğini aldı.
+"Korkarım ki benimkinden bahsetmek için gün erken," dedi Pauline; ama sözleriyle birlikte gelen kahkaha (yoksa sözcüklerin kendisi miydi?) içtenlikle çınladı ve söylediklerinden boş bir iltifatın hafifliğini aldı.
 
 "Ama kesinlikle arkadaşlarımızdan bazılarıyla tanışmak isteyeceksiniz, Bayan Varick," dedi şimdi
 Cora Dares.
@@ -1476,7 +1478,7 @@ Martha Dares, Cora'dan daha çok annesine benzemiyordu, ancak çok kısa olan bo
 
 "Gerçekten de öyle," diye acele etti Martha. "Birbirimize bu nedenle çok yararlı bir şekilde tepki veriyoruz. Pratik dönüşümümün, neredeyse her zaman bulutların üzerinde olup boyanamaz olanı boyamaya çalışan, ama benim ara sıra bir çocuğun inatçı bir uçurtmaya vereceği türden aşağı doğru bir sarsıntım olmasa, benim bu şiirsel kız kardeşim için ne kadar düzeltici bir etken olduğunu hayal bile edemezsiniz. Ama Cora'nın hayatın tamamen yazım, aritmetik, coğrafya ve kürelerin kullanımından oluşmadığına beni kısmen ikna ettiğini kabul ediyorum - çünkü ben bir okul öğretmeniyim, lütfen anlayın, ama oldukça mütevazı bir şekilde. Ve zavallı sevgili annem var. İkimiz olmasaydık _onun_ başına ne geleceğini Tanrı bilir. Harika iş güçlerini nasıl ekonomik kullanacağını bilmiyor. Cora ve ben bir tür askeri despotluk kurduk; 'dur' demeliyiz ve 'kalemini omuzla', sanki bir
 tür askermiş gibi. Ama benim böyle gevezelik etmem asla
-yapmaz. Ben de, kendi tarzımda, ortak arkadaşımız Bay Kindelon kadar kötüyüm, bir kere gerçekten başladığımda. Bu arada, Bay Kindelon'u çok iyi tanıyorsunuz, değil mi?"
+yapmaz. Gerçekten başladığımda, kendi tarzımda, ortak arkadaşımız Bay Kindelon kadar kötüyüm. Bu arada, Bay Kindelon'u çok iyi tanıyorsunuz, değil mi?"
 
 "Çok iyi, ama onu çok uzun zamandır tanımıyorum," diye cevapladı Pauline.
 
@@ -1484,7 +1486,7 @@ Martha'nın sorusunun, onu
 çerçeveleyenin açığa vurmak istediğinden daha fazla ilgi gizlediğini bir şekilde hissetti. Küçük siyah gözler yeni bir keskinlik kazanmıştı,
 ama cana yakın yüz de ciddileşmişti. Ve nedense tam bu noktada hem Martha hem de Pauline bakışlarını Cora'ya çevirdiler.
 
-Cora hafifçe kızarmıştı; ancak bu değişim pek fark edilmiyordu.
+Cora hafifçe kızarmıştı; ancak değişim pek fark edilmiyordu.
 Hemen konuştu, sanki böyle gözlemlenmesi onu konuşturmuş gibi.
 
 "Senin hakkında her zaman hoş şeyler söyler," diye yumuşak bir şekilde ilan etti Cora.
@@ -1546,7 +1548,7 @@ engerekmiş gibi nefret ediyor. _Quartier Latin_'de benimle yaşamalıydı; ilah
 en mükemmeli!"
 
 Konuşmacı böyle konuşurken uykulu mavi gözlerini Leander Prawle'a dikti. Dudaklarında hafif bir gülümseme belirdi ve pürüzsüz oval yanaklarında hafif bir gamze oluştu. Kesinlikle çok yakışıklıydı, alışılmışın dışında,
-cüretkar bir şekilde. Yakası, sert ama yumuşak boğazını, normalde onaylanandan daha aşağıdan gösteriyordu; saçlarının geriye doğru dalgası, kesinlikle kabul edilen herhangi bir biçime aykırıydı. Pauline'e Bay Arthur Trevor olarak tanıtılmıştı ve Pauline, isminin bu kadar İngiliz olmasına şaşırmıştı; Fransızca bulmayı beklemişti; Bay Trevor ona aşırı Fransız görünmüştü.
+cüretkar bir şekilde. Yakası, sert ama yumuşak boğazını, normalde onaylanandan daha aşağıdan gösteriyordu; saçlarının geriye doğru dalgası, kesinlikle kabul edilen herhangi bir biçime aykırıydı. Pauline'e Bay Arthur Trevor olarak tanıtılmıştı ve isminin bu kadar İngiliz olmasına şaşırmıştı; Fransızca bulmayı beklemişti; Bay Trevor ona aşırı Fransız görünmüştü.
 
 "Paris'ten ve Gautier'den bahsettiğinizde," dedi şimdi ona, "beni gerçekten rahatlatıyorsunuz, Bay Trevor. Sizinle ilk tanıştığımda, Amerikalı olmadığınızı
 görmeye çok hazırdım."
@@ -1614,11 +1616,10 @@ insanlar tarafından övüldü," dedi, "ve seni tanımak istemeyenler."
 
 "Evet," diye cevapladı Pauline, "güzel olmadıklarını düşünüyorum ve bu nedenle onları kınamalıyım."
 
-"O zaman büyük bir hata yapacaksınız, Bayan Varick," diye hemen araya girdi Arthur Trevor. Böyle konuşurken bir elini geriye doğru, saçının sarı yelesi boyunca gezdirdi. Ama hala bir kolunu arkadaşı Corson'ın boynunda tutuyordu. "Ben," diye devam etti, "Corson'ın sonbahar şeylerini söylemeye hakkı olduğunu düşünüyorum. Bir ceset, gün batımı kadar meşru bir konudur. İkisi de hastalıklıdır; ikisi de can çekişen şeyi kastediyor."
+"O zaman büyük bir hata yapacaksınız, Bayan Varick," diye hemen araya girdi Arthur Trevor. Böyle konuşurken bir elini geriye doğru, saçının sarı yelesi boyunca geçirdi. Ama hala bir kolunu arkadaşı Corson'ın boynunda tutuyordu. "Ben," diye devam etti, "Corson'ın sonbahar şeylerini söylemeye hakkı olduğunu düşünüyorum. Bir ceset, bir gün batımı kadar meşru bir konudur. İkisi de hastalıklıdır; ikisi de can çekişen şeyi kastediyor."
 
 "Ah, ama çok farklılar!" diye haykırdı şişman Bayan Upton. "Biri Tanrı'nın işi, insanı sevindirmek için, diğeri ise - aman Tanrım! diğeri ise--yani, sadece bir ölü beden! Hiçbir büyük şair
-bu korkunç tarzda yazmadı, Bay Trevor. Elbette, Bay Corson'ın _güçlü_ bir iş çıkardığını biliyorum, ama insanlara onun yaptığı gibi ürperti ve dehşet vermek doğru mu? Şiirde neden güneş ışığı olmasın
-,
+bu korkunç tarzda yazmadı, Bay Trevor. Elbette, Bay Corson'ın _güçlü_ bir iş çıkardığını biliyorum, ama insanlara onun yaptığı gibi ürperti ve dehşet vermek doğru mu? Şiirde neden güneş ışığı olmasın,
 kasvet ve sefalet yerine?"
 
 "Güneş ışığı sıradan bir şeydir," dedi Arthur Trevor.
@@ -1638,7 +1639,7 @@ hayırseverlik ve özgürlük gibi ölümüne yapılmadılar. Günümüzde iyims
 Tüm Yunanlılar öldü. Notre Dame sağlam duruyor, ama Parthenon bir
 harabe."
 
-Leander Prawle titredi. "Cehennemler hakkında
+Leander Prawle ürperdi. "Cehennemler hakkında
 zekice kafiyeler yazabilirsin," dedi, "ama bu şiir değil. Yeşil gözlü ve taş kalpli kadınların cazibesine
 haykırabilirsin, ama bunu yaparken
 kadınlığı aşağılıyorsun. Sen"--
@@ -1646,7 +1647,7 @@ kadınlığı aşağılıyorsun. Sen"--
 "Sıkılmıyor musun?" diye fısıldadı Kindelon, yumuşak İrlanda aksanıyla, tam o sırada Pauline'in yanına gizlice yaklaşırken. "Eğer öyleyse, birlikte
 uzaklaşalım."
 
-Pauline elini uzattığı koluna kaydırdı. "Sıkılmıyordum," dedi, uzaklaşırken, "ama daha yeni başlıyordum. Bu gece burada sadece kavgacı şairler mi var?"
+Pauline elini uzattığı koluna kaydırdı. "Sıkılmıyordum," dedi, uzaklaşırken, "ama daha yeni sıkılmaya başlamıştım. Bu gece burada sadece kavgacı şairler mi var?"
 
 "Ah, başka türden insanlar bulacaksın."
 
@@ -1671,7 +1672,7 @@ Muhteşem göğsünün üzerinde sallanıyor....'
 
 "'Ölüm, yakında solup çürüyecek olan
 Öpüşen dudakların iğrenç kaderinden çok daha iyidir,
-Yakında nefeslerini kesecek olan
+Yakında nefesini kesecek olan
 Kavrayan formların
 Kibirli ölümün kara kucaklamasında!'
 
@@ -1727,14 +1728,14 @@ Kendisinin en kötü muameleye uğramış yazar olduğuna inanıyor. Bu egoist
 sızlanmalarla arkadaşlarını sürekli sıkıyor. Şimdi, meselenin gerçeği şu ki, tanıdığım hemen hemen
 herhangi bir yazardan daha fazla kendini tebrik edecek şeyi var. Yıllar önce, ticari işlere atılacak kadar aklı başındaydı. Tam olarak ne yaptığını unuttum; sanırım
 toptancı bir eczacı veya bakkal. Harika ve olağanüstü bir hızla yazıyor. Sosyal görevlerini ihmal etmesi, dediği gibi,
-en saf saçmalık. İstendiği her yere gidiyor ve ayrıca çalışmak için bolca zaman buluyor. Powers'ın bu isteği onu gizlice memnun ediyor.
+en saf saçmalık. İstendiği her yere gidiyor ve ayrıca çalışmak için bolca zaman buluyor. Powers'ın bu isteği gizlice onu memnun ediyor.
 Yeni Ansiklopedi muhteşem bir cilt serisi olacak. Ama
 Barrowe'un mahvolmuş hayatı için küçük bir ağıt yakması gerek."
 
 "Peki ya yazar arkadaşların başvuruları?" diye sordu Pauline. "İmza
 talepleri?"
 
-"Pshaw! Bunların onun hayal ürünü olduğundan şüpheleniyorum. Kendisinin edebiyat dünyasında
+"Pshaw! Sanırım bunlar onun hayal ürünü. Kendisinin edebiyat dünyasında
 çok önemli olduğunu düşünüyor. Hassasiyeti
 biraz saçma. Benden çok daha kötü bir monologcu, ki bu kesinlikle çok şey ifade ediyor; ama ona cevap verirseniz bunu bir
 kesinti olarak görüyor ve onunla aynı fikirde olmazsanız bunu küstahlık olarak değerlendiriyor.
@@ -1808,11 +1809,12 @@ dekore edildiğini okumaktır. İlk başta benim için yeterince tuhaf bir iş g
 başladım, ama epeyce aşağı inmek zorunda kaldım; boynuzlarımı
 çekmek zorunda kaldım. Ve şimdi bundan hiç rahatsız olmuyorum; sanırım Kindelon bundan
 hoşlandığımı söylerdi... eh, Kindelon? Bayan Varick, eskiden New York'taki 'Daily Criterion' için kitap eleştirileri yazardım ve maaşım
-gittikçe azaldı. Bir gün çok beğendiğim bir kitabın çok dikkatli bir incelemesini yazdım - aslında George Eliot'ın 'Middlemarch'ıydı. Baş editör beni çağırdı. Makaleye bir isim verdi ve sonra 'Bunu sizin yazdığınızı duydum. Çok güzel bir çalışma' dedi. 'Teşekkür ederim efendim,' diye cevapladım, bir memnuniyetle. 'Evet, gerçekten çok güzel bir çalışma,' diye devam etti editör; 'Çok keyifle okudum. Ama bir daha böyle şeyler yapmayın Bayan Cragge - 'Criterion'da buna ihtiyacımız yok.' Ondan sonra daha az hırslı ve daha çok paragöz oldum. Taş duvarlara vurmanın bir anlamı yok. Okuyan
+gittikçe azaldı. Bir gün çok beğendiğim bir
+kitabın çok dikkatli bir incelemesini yazdım - aslında George Eliot'ın 'Middlemarch'ıydı. Baş editör beni çağırdı. Makaleye bir isim verdi ve sonra 'Bunu sizin yazdığınızı duydum. Çok güzel bir çalışma' dedi. 'Teşekkür ederim efendim,' diye cevapladım, bir memnuniyetle. 'Evet, gerçekten çok güzel bir çalışma,' diye devam etti editör; 'Çok büyük bir zevkle okudum. Ama bir daha böyle şeyler yapmayın Bayan Cragge - 'Criterion'da buna ihtiyacımız yok.' Ondan sonra daha az hırslı ve daha çok paragöz oldum. Taş duvarlara vurmanın bir faydası yok. Okuyan
 kamu istediğini elde edecek ve eğer ben onlara vermezsem,
 başka biri benim yerimi almaktan fazlasıyla memnun olacak... Bu arada, Bayan Varick,
 Bayan Poughkeepsie'nin o İskoç
-kontu--Lord Glenartney ile evleneceğini mi düşünüyorsunuz?"
+kontu --Lord Glenartney-- ile evleneceğini mi düşünüyorsunuz?"
 
 "Size gerçekten söyleyemem," dedi Pauline. Bayan Cragge'den pek hoşlanmamaya karar vermişti. Aynı zamanda ona karşı belli bir acıma
 duyuyordu.
@@ -1837,7 +1839,7 @@ Hafif ironinin son darbesine aldırış etmemeyi seçti.
 
 "Siz ve Bayan Cragge düşman mısınız?" diye sordu.
 
-"Ben ondan nefret ediyorum ve o da bunu biliyor. Nadiren birinden nefret ederim ve sanırım o da bunu biliyor. Bana göre o vicdansız, melez bir yaratık. O korkunç bir modern lisansın - Basın lisansının - bir sonucudur. Benim gibi bir gazeteci için açık bir itiraf var. Ama aramızda kalsın, modern gazeteciliğin, vahşi evrelerinden bazılarında, bir yasama vetosunda durmadığı sürece nerede duracağını bilmiyorum. Bayan Cragge, en iyi arkadaşını (eğer hiç arkadaşı varsa - ki yok) 'bir madde' dediği şeyin gereklilikleri için feda ederdi. Sözde 'malzeme' arayışında bir üne saldırmayı, bir farenin bir parça peynir taşımayı düşünmesinden daha fazla düşünmüyor. Benim bir arkadaşım hakkında bir sürü iftira niteliğinde saçmalık bastığı için onu asla affetmeyeceğimi çok iyi biliyor. New York sosyetesi ve New York görgü kuralları hakkında oldukça zararsız ve zayıf bir roman
+"Ben ondan nefret ediyorum ve o da bunu biliyor. Nadiren birinden nefret ederim ve sanırım o da bunu biliyor. Bana göre o vicdansız, melez bir yaratık. O korkunç bir modern lisansın - Basın lisansının - bir sonucudur. Benim gibi bir gazeteci için açık bir itiraf var. Ama aramızda kalsın, modern gazeteciliğin, vahşi evrelerinin bazılarında, bir yasama vetosunda durmadığı sürece nerede duracağını bilmiyorum. Bayan Cragge, en iyi arkadaşını (eğer hiç arkadaşı varsa - ki yok) 'bir madde' dediği şeyin gereklilikleri için feda ederdi. Sözde 'malzeme' arayışında bir üne saldırmayı, bir farenin bir parça peynir taşımayı düşünmesinden daha fazla düşünmüyor. Benim bir arkadaşım hakkında bir sürü iftira niteliğinde saçmalık bastığı için onu asla affetmeyeceğimi çok iyi biliyor. New York sosyetesi ve New York görgü kuralları hakkında oldukça zararsız ve zayıf bir roman
 yazmıştı. Bayan Cragge'in ona karşı eski bir kin
 duyduğunu düşünüyorum; sanırım bunun nedeni, yazarını sevdiğini düşündüğü bazı sıkıcı, amatörce şiirler hakkında
 yazdığına inandığı olumsuz bir eleştiriydi. Bayan Cragge için bu yeterliydi. Rochester "Rocket" veya Topeka "Trumpet" veya benzeri bir gazetenin bir sütununu zavallı Charley
@@ -2033,7 +2035,7 @@ Bayan Dares'e tekrar hitap etti. "Size sormak istiyorum," diye devam etti, sesin
 "Ziyaret defterim mi?" diye mırıldandı Bayan Dares. Sonra yavaşça başını salladı,
 masadaki soluk benizli kız şaşkınlıkla kaşlarını çattı, sanki baştan çıkarıcı bir yabancı kelimeyle karşılaşmış gibi. "Eğer varsa memnuniyetle ödünç veririm," diye devam etti Bayan Dares; "ama bende böyle bir şey yok."
 
-"Aman Tanrım!" diye haykırdı Pauline, istemsiz bir şaşkınlıkla, hemen sonra kabalık olarak pişmanlık duyduğu bir şaşkınlıkla. "Hiçbiriniz yok!"
+"Aman Tanrım!" diye haykırdı Pauline, istemsiz bir şaşkınlıkla, hemen sonra kabalık olarak pişmanlık duyduğu bir şekilde. "Hiçbiriniz yok!"
 
 Ama Bayan Dares, Pauline'in şaşkınlığında en ufak bir kabalık bile sezmemiş gibiydi.
 
@@ -2150,21 +2152,21 @@ Nereye geldiklerini anlayacak kadar
 zekaları yokmuş gibi görünüyorlar, ama
 şu anki çevrelerinden endişe ve güvensizlik duymaya yetecek kadar."
 
-"Bu göç draması burada sürekli olarak, gün be gün kendini gösteriyor," diye yanıtladı Kindelon. "Kesinlikle hüzünlü bir tarafı var, ama
-sen, bir Amerikalı olarak, kesinlikle onun parlak tarafını seçmelisin. Bu zavallı ruhlar Avrupa'nın sosyal çöpleridir; onlar aşağılık ve zamana meydan okuyan tacizlerden
-kaçan zavallılardır; onlar krallıkların ve imparatorlukların
-kasvetli sonuçlarıdır. Onların durumu neredeyse vahşidir, gördüğünüz gibi; onlar kendilerini sizin düşündüğünüz kadar vahşiden yarı yarıya daha üstün görmüyorlar, buna güvenin. Nesiller boyunca erkeklik ve kadınlıklarını toza çevirdiler. Bir köpeğin havlaması veya bir kedinin süt içmesi kadar, yaltaklanmak ve sürünmek de onların kalıtsal içgüdüsüdür. Onlar, denizaşırı aydınlanmış ve tutumlu köylüleri temsil eder. Bah! Birkaç küstah kralın ellerinin öpülmesi ve yönetim gururlarının doyurulması gerektiği için, milyonlarca insanının insanlığa karşı böyle aptalca hicivlere dönüştürülmesinin bir adamı nasıl da hasta ettiğini düşünün! Ama ben bu sorunun Amerikan bakış açısından parlak tarafına değindim."
+"Bu göç dramı burada sürekli olarak, gün be gün kendini gösteriyor," diye yanıtladı Kindelon. "Kesinlikle hüzünlü bir tarafı var, ama
+sen, bir Amerikalı olarak, kesinlikle onun parlak tarafını seçmelisin. Bu zavallı ruhlar Avrupa'nın sosyal çöpleridir; onlar
+aşağılık ve zamana meydan okuyan tacizlerden kaçan zavallı kaçaklardır; onlar krallıkların ve imparatorlukların kasvetli
+sonuçlarıdır. Onların durumu neredeyse vahşidir, gördüğünüz gibi; onlar kendilerini sizin düşündüğünüz kadar vahşiden yarı yarıya daha üstün görmüyorlar, buna güvenin. Nesiller boyunca erkeklik ve kadınlıklarını toza çevirdiler. Bir köpeğin havlaması veya bir kedinin süt içmesi kadar, yaltaklanmak ve sürünmek de onların kalıtsal içgüdüsüdür. Onlar, denizaşırı aydınlanmış ve tutumlu köylüleri temsil eder. Bah! Birkaç küstah kralın ellerinin öpülmesi ve yönetim gururlarının doyurulması gerektiği için, milyonlarca insanının insanlığa karşı böyle aptalca hicivlere dönüştürülmesinin bir adamı nasıl da hasta ettiğini düşünün! Ama ben bu sorunun Amerikan bakış açısından parlak tarafına değindim."
 
 "Evet," dedi Pauline hemen yüzünü onunkine doğru kaldırarak. "Umarım gerçekten parlak bir tarafıdır."
 
 "Öyledir--çok. Amerika bu zavallı sefilleri kabul ediyor ve birkaç ay sonra yeniden doğuyorlar, dönüşüyorlar. Dünya tarihinde, bu kadar muhteşem bir misafirperverliğe sahip bir ulus
-hiç olmadı. Bu kadar zavallı yaratık sürüsü karşısında başka hiçbir ulus büyük bir korkuyla limanlarını kapatır veya bariyerlerini silahlandırırdı. Fakat Amerika (ki ben her zaman Amerika Birleşik Devletleri'nden çok daha özlü ve anlamlı bir isim olduğunu düşünmüşümdür) böyle bir şey yapmaz. Eşi benzeri görülmemiş bir güç duygusu taşıyan
+hiç olmadı. Bu kadar zavallı yaratık sürüsü karşısında başka herhangi bir ulus büyük bir korkuyla limanlarını kapatır veya bariyerlerini silahlandırırdı. Fakat Amerika (ki ben her zaman Amerika Birleşik Devletleri'nden çok daha özlü ve anlamlı bir isim olduğunu düşünmüşümdür) böyle bir şey yapmaz. Eşi benzeri görülmemiş bir güç duygusu taşıyan
 mükemmel bir nezaketle, hepsini hoş karşılar. Ve kısa bir süre sonra onun canlandırıcı havasını yeni ve muhteşem bir sonuçla solurlar. Onları tekmeleyen askerleri, tahtlarını savunmak için onları omuz tüfekleri yapan tiranları, prenslerin dans edip ziyafet çekmesi için yetersiz ücretlerinden zorla alınan vergileri unuturlar. Tüm bu kaba despotluğu unuturlar; yaşamaya başlarlar; vücutları ve yüz hatları değişir; sefil geçmişleri memnuniyetle
-atılıp atılan kırık bir zincire benzer. Ve Amerika onlar için tüm bunları yapıyor - başka hiçbir ülkenin yapmadığı veya yapamayacağı bir şey!"
+atılıp atılan kırık bir zincir gibidir. Ve Amerika tüm bunları onlar için yapıyor - başka hiçbir ülkenin yapmadığı veya yapamayacağı bir şey!"
 
 İnce bir hararetle, etkileyici bir coşkuyla konuştu. Pauline, onun yanında durarak, bakışlarını yakışıklı, erkeksi yüzüne dikmişti,
-kirpiklerinin siyah parlaklığı arasında açık mavi gözlerini delen kıvılcımı ve burun deliğini rahatsız eden küçük hassas titremeyi fark etti. Onun kişilik gücünden hiç bu kadar etkilenmemişti.
-Şimdi hiç bu kadar keskin bir şekilde hissetmemişti ki, erkeksi
+kirpiklerinin siyah parlaklığı arasında açık mavi gözlerini delen kıvılcımı ve burun deliğini rahatsız eden küçük hassas titremeyi fark etti. Onun kişiliğinin gücünden hiç bu kadar etkilenmemişti.
+Bundan daha keskin bir şekilde hiç hissetmemişti ki, onun erkeksi
 yüzünün ve şeklinin hem önemli hem de
 güçlü bir doğanın uygun eşlikçileri olduğunu.
 
@@ -2177,7 +2179,7 @@ süre güldü ve yarı yarıya yüzünü çevirdi.
 
 "Söylediklerinizi kastediyor musunuz?" diye haykırdı Pauline neredeyse öfkeyle.
 
-Başını eğdi ve bir an için bıyığının keskin, koyu akışının altında gizli bir neşe oyunuyla ona dikkatle baktı.
+Başını eğdi ve bir an için bıyığının koyu, gür akışının altında gizli bir neşe oyunuyla ona dikkatle baktı.
 
 "Korkarım ki öyle," diye cevapladı, bir kahkaha daha atarak.
 
@@ -2356,12 +2358,13 @@ Pauline, arkadaşının yüzüne bir bakış attığında öfkeden solduğunu hi
 "Bunu kuzenime söylemeye cesaret edemezsin," diye haykırdı meydan okurcasına, "ama bana söylemeye cesaret ediyorsun!"
 
 Kindelon oldukça solgunlaşmıştı. Cevap verirken sesi titriyordu. "Bir erkeğin cesaretini gerektiren
-her şeyi yapmaya cesaret edebilirim," dedi. "Bunu emin olmak için beni yeterince iyi tanıdığını
+her şeyi yapmaya cesaret edebilirim," dedi. "Bunu
+emin olmak için beni yeterince iyi tanıdığını
 düşünüyordum."
 
-"Bizim tanışıklığımız yeni," diye cevapladı Pauline. O birkaç kelimede
-yaralayıcı bir ok attığından neredeyse emindi, ama
-gözlerini kaçırmayı ve bunun ardından öfke mi yoksa acı mı geldiğini görmemeyi seçti.
+"Bizim tanışmamız yeni," diye cevapladı Pauline. O birkaç kelimede
+yaralayıcı bir ok fırlattığından neredeyse emindi, ama
+gözlerini başka tarafa çevirmeyi ve bunun ardından öfke mi yoksa acı mı geldiğini görmemeyi seçti.
 
 Uzun bir sessizlik oldu. Neredeyse arabasına varmışlardı ki
 Kindelon konuştu.
@@ -2457,10 +2460,10 @@ sonra ekledi: "Bütün gün burada mı geçiriyorsunuz, Bayan Dares?"
 nadir görülen bir kadın güzelliği gibi etkiledi. "Ama sık sık aptallık saatlerim oluyor," diye devam etti Cora. ​​"Bugün benim için öyle değil. Bir şekilde
 fikrimi kavradım ve olduğu gibi ustalaştım. Henüz tuvalde hiçbir şey göremiyorsunuz. Her şey belirsiz ve taslak."
 
-"Hala çok belirsiz," dedi Pauline. "Ama bitmiş
-resimleriniz yok mu?"
+"Hala çok belirsiz," dedi Pauline. "Ama hiç bitmiş
+resmin yok mu?"
 
-"Ah, evet, beş veya altı. Eğer bakmayı seçerseniz,
+"Ah, evet, beş veya altı. Eğer bakmayı seçersen,
 birkaç tane var."
 
 "Ben seçiyorum," diye cevapladı Pauline, ayağa kalkarak.
@@ -2502,24 +2505,23 @@ büyük sıradan kalabalığın içine
 kaybolmakla yetinmeliyiz.
 Ve büyük sıradan kalabalığın içine
 kaybolmak az çok hor görülmek demektir. Bu en kötü türden bir alaycılık gibi gelebilir ama sizi temin ederim Bayan Dares, kesinlikle o kadar da küstahça değil. Ben
-hayattan sizden daha fazlasını gördüm... neden olmasın? Belki de geçmişimle ilgili bir iki şey duymuşsunuzdur. Benim bir geçmişim oldu--ve hoş bir geçmişi de değil. Ve deneyim (ki bu hayal kırıklıklarımıza
-çok sık verdiğimiz isimdir) bana şunu öğretti ki eğer herhangi bir iyi adamın en derinlerine
+hayattan sizden daha fazlasını gördüm... neden olmasın? Belki de geçmişimle ilgili bir iki şey duymuşsunuzdur. Benim bir geçmişim oldu--ve hoş bir geçmişi de değil. Ve deneyim (ki bu hayal kırıklıklarımıza çok sık verdiğimiz isimdir) bana şunu öğretti ki eğer herhangi bir iyi adamın en derinlerine
 bakabilseydik herhangi bir iyi kadına karşı bir sevgi beslersek, orada
 gerçek bir küçümsemenin gizli akıntısını bulurduk."
 
 "Küçümseme!" diye yankılandı Cora. ​​Başını hafifçe geriye atmıştı, ya
-dehşet içinde ya da inkar içinde.
+hayal kırıklığı ya da inkarla.
 
-"Evet--küçümseme," diye iddia etti Pauline. "Şu anda, dürüstçe inanıyorum ki, cinsiyetimizin diğerine uyguladığı çekicilik -fiziksel büyülenme ve duygu, şefkat, idealleştirme büyülenmesi- hiç var olmasaydı, çoktan varlığımızdan
+"Evet--küçümseme," diye iddia etti Pauline. "Şu anda, dürüstçe inanıyorum ki, cinsiyetimizin diğerine uyguladığı çekicilik -fiziksel büyülenme ve duygu, şefkat, idealleştirme büyülenmesi- hiç var olmasaydı, çoktan varlığımızdan tamamen
 ezilmiş olurduk. İnsanlar yüzyıllar boyunca bize bu kadar yaşamamıza izin verdi, çünkü biz onlardan daha zayıf olduğumuz için değil, bazı
 olağanüstü ve keşfedilemez yasalar onları zayıflığımıza boyun eğdirdi
 ve onu tamamen yok etmedi. Kendilerinden
 zayıf olan her şeyi her zaman yok ederler, kadınlar hariç. Hiçbir pişmanlıkları, tereddütleri yoktur. Tarih, eğer kayıtlarını tarafsız bir şekilde kabul ederseniz, size bunu gösterecektir. Ya daha aşağı hayvanları yerler ya da onları
 en ağır işlerin yapıldığı uygulamalara sokarlar. Kadınları zarar görmeden bırakırlar çünkü
 Doğa onlara böyle emretmiştir. Ama burada onlar, en iyilerden bile daha körü körüne, daha içgüdüsel olarak itaat ettikleri bir fermanın köleleridirler. "Onların
-bildiğini biliyorum."
+bildiklerini."
 
-"Bunların gerçek görüşlerin olduğuna inanamıyorum!" diye haykırdı Cora. "Aşkın kutsal duygusunu bilimsel bir sorun gibi tartışılacak bir şey olarak değerlendirmenize inanamıyorum!"
+"Bunların gerçek görüşleriniz olduğuna inanamıyorum!" diye haykırdı Cora. "Aşkın kutsal duygusunu, bilimsel bir sorun gibi tartışılacak bir şey olarak değerlendirmenize inanamıyorum!"
 
 Pauline konuşmacıya doğru yürüdü ve onun yanında durdu, o da şöyle cevap verdi:--
 
@@ -2535,14 +2537,13 @@ bir zavallı övüngen için uygun bir isimdir. Bir Tanrı'nın varlığını in
 kavranabilirliğiyle ilgili her şeyden habersizim' diyen kişi, böyle bir
 cehaleti ifade etme hakkına sahiptir."
 
-Cora yavaşça başını eğdi. "Onu bu şekilde konuşurken duydum," dedi, neredeyse düşünceli bir şekilde. Sonra, Pauline'in dikkatli gözlerine hızlıca bir bakış attı. "Yani," diye ekledi, şaşkın bir şekilde, sanki gizli bir düşünceyi itiraf etmek için kendini ele vermiş gibi, "Bay.
-Kindelon'un birden fazla kez benzer şekilde konuştuğunu."
+Cora yavaşça başını eğdi. "Onu bu şekilde konuşurken duydum," dedi, neredeyse düşünceli bir şekilde. Sonra, Pauline'in dikkatli gözlerine hızlıca bir bakış attı. "Yani," diye ekledi, şaşkın bir şekilde, sanki gizli bir düşünceyi itiraf etmek için kendini ele vermiş gibi, "Bay. Kindelon'un birden fazla kez benzer şekilde konuştuğunu."
 
-"Bay. Kindelon?" diye cevapladı Pauline, nazik, tuhaf, sorgulayıcı bir vurguyla. "Ve sen de onunla aynı fikirde miydin?"
+"Bay Kindelon?" diye cevapladı Pauline, nazik, tuhaf, sorgulayıcı bir vurguyla. "Ve sen de onunla aynı fikirde miydin?"
 
 "Hayır," diye hemen cevapladı Cora. ​​"Onun sarsamayacağına dair bir inancım var -- hiç kimsenin sarsamayacağına! Ama bunu yapmaya çalışmadı; ona bu adaleti sağlamalıyım."
 
-Pauline hafifçe gülerek arkasını döndü. "Düşünen ve bu yüzden şüphe eden akıllı adamlar," diye karşılık verdi, "genellikle beğendikleri kadınlarda ortodoksluğa düşkündürler. Bunu pitoresk bulurlar."
+Pauline hafifçe gülerek arkasını döndü. "Düşünen ve bu nedenle şüphe eden akıllı adamlar," diye karşılık verdi, "genellikle beğendikleri kadınlarda ortodoksluğa düşkündürler. Bunu pitoresk bulurlar."
 
 Tekrar güldü ve Cora'nın gözleri daha önce incelediği resimlere doğru ilerlerken onu takip etti. "Konuyu değiştirelim," diye devam etti, sesinde soğuk bir sakinlik vardı. "Akılcılıktan hoşlanmadığınızı görüyorum... Resimlerinizden de anlaşıldığı üzere siz bir şairsiniz ve çok az şair önce hissetmekten ve sonra düşünmekten fazlasını yapmayı sever... Bu resimler satılık mı, Bayan Dares?"
 
@@ -2550,7 +2551,7 @@ Cora'nın cevabı biraz gecikti. "Üç tanesi," dedi.
 
 "Hangi üçü?" diye sordu Pauline, biraz umursamazca, göründüğü kadarıyla.
 
-"Bir baş çalışması hariç. Gördüğünüz gibi, henüz bitmedi."
+"Bir baş çalışması hariç. Gördüğünüz gibi, neredeyse bitmedi."
 
 "Satın almak istediğim bu. Satılık olmadığını mı söylüyorsunuz?"
 
@@ -2570,7 +2571,7 @@ Cora birkaç saniye cevap vermedi. Tuvaline tekrar küçük dokunuşlar yapmaya 
 "İstiyorum," dedi Pauline. Resme doğru bakıyordu--oldukça pervasızca zengin bir renge sahip küçük bir kare. "Gerçekten çok istiyorum. Ben... Sana bunun için hatırı sayılır bir miktar vereceğim."
 
 Vermeye istekli olduğu miktarı söyledi ve takdire şayan bir şekilde
-serin, aylak bir sesle. Bu, Cora Dares'e resimlerinden biri için teklif edilen herhangi bir fiyatı birkaç yüz dolarla
+serin, aylak bir sesle. Bu, Cora Dares'e resimlerinden biri için önerilen herhangi bir fiyatı birkaç yüz dolarla
 aşan bir şeydi.
 
 Cora sessiz kaldı. Tuvaline dokunuyordu. Pauline bekledi. Aniden
@@ -2692,8 +2693,8 @@ Kindelon odaya girmeden biraz önce odadan çıkmıştı.
 
 "Beni görmeyi beklemiyordunuz," dedi ikincisi, Pauline'e dönerek. İri gövdesinde alçakgönüllülük ve hatta pişmanlık ima eden belli bir sarkıklık vardı. Yumuşak şapkasını bir elinde ezilmiş halde tutuyordu ve diğeriyle selamlaşma belirtisi göstermedi.
 
-"Hayır," dedi Pauline yumuşak bir sesle, "seni görmeyi beklemiyordum." Dışarıdaki hol kapısının sesini bekliyordu; kısa süre sonra duydu ve bunun Courtlandt'ın çıkışı anlamına geldiğini anladı. Sonra devam etti: "ama madem
-buradasın, oturmayacak mısın?"
+"Hayır," dedi Pauline yumuşak bir sesle, "seni görmeyi beklemiyordum." Dışarıdaki hol kapısının sesini bekliyordu; kısa süre sonra duydu ve bunun Courtlandt'ın çıkışı anlamına geldiğini anladı. Sonra devam etti: "ama
+burada olduğun için, oturmayacak mısın?"
 
 "Beni affedene kadar değil!" diye mırıldandı Kindelon. Şimdi ona hitap eden zengin, ateşli, duygusal ses ile az önce duyduğu ses tonlarının eşit düzenliliği arasında ne kadar büyük bir fark vardı!
 
@@ -2885,9 +2886,8 @@ Pauline, dudak bükmekten başka bir şey olmayan bir gülümseme takındı. "Ge
 oldukça iyi bir evrim olarak düşündüm. Sonra Bay Trevor'ın _Quartier Latin_ gösterişliliği de beni eğlendirdi: Şiirde her zaman ifadenin coşkusunu sevdim ve Bay Trevor'ın her zaman gülünç abartılar yazdığını söylemeye hazır değilim - özellikle de büyüleyici bir şarkıcı olan Theophile Gautier'e saygı duyduğundan beri. Ama o
 hastalıklı _pozcu_, çürüme ve yozlaşmada güzellik görüyormuş gibi yapan ve ahlaksızlığı ilahlaştırmak için aptalca bir girişimde bulunan Bay Corson ile uğraşmaya gelince, çizgimi çekiyorum ve kapılarımı kapatıyorum."
 
-"Elbette öyle," dedi Kindelon. "Eğer onları Bay'a
-açmış olsaydınız, hiç şüphe yok. Corson, Barrowe bunu yaptığın için skandal olurdu. Şu anki haliyle, Bay Corson ve Bayan Cragge'ı savunmayı seçiyor. O doğal bir
-söylengen, anayasal bir savaşçı. Bu arada, o bizim yönümüze doğru geliyor. Yaklaştığını görüyor musun?"
+"Elbette öyle," dedi Kindelon. "Eğer onları Bay Corson, Barrowe bunu yaptığın için skandal olurdu. Şu anki haliyle, Bay Corson ve Bayan Cragge'ı savunmayı seçiyor. O doğal bir
+huysuz, anayasal bir savaşçı. Bu arada, o bizim yönümüze doğru geliyor. Yaklaştığını görüyor musun?"
 
 "Ah, evet, görüyorum," dedi Pauline kararlı bir şekilde, "ve ona karşı oldukça hazırlıklıyım."
 
@@ -3005,7 +3005,7 @@ fark ettiğimi sanıyorsun."
 
 Kindelon yavaşça başını salladı. "Bunun uyum sağlayıcı bir hastalık olduğunu duydum," dedi, son derece cansız ve tarafsız bir tonla.
 
-Pauline elini uzattı ve bir iki saniye geniş, güçlü kolunda dinlendirdi.
+Pauline elini uzattı ve bir iki saniye onun geniş, güçlü kolunda dinlendirdi.
 
 "Bayan Cora'nın başı ağrıyor muydu?" diye sordu.
 
@@ -3153,12 +3153,13 @@ Bayan Poughkeepsie hemen konuştu. Bunu yaparken etrafına altın çerçeveli bi
 
 "Sosyal sıkıntında sana bir sığınak sağlamaktan mutluluk duyuyorum," diye karşılık verdi
 Pauline. Bu gece, koşulların ona epeyce acı hisler
-çektirdiği aklından geçti. Havada, insan nezaketinin sütünü son damlasına kadar ekşitmeye hazır hangi ince gök gürültüsü vardı?
+çektirdiği aklından geçti. Havada hangi ince gök gürültüsü vardı, insan nezaketinin sütünü son damlasına kadar
+ekmeye hazır?
 
 "Canım," diye mırıldandı teyzesi, bakışlarını geçici olarak keserek ve uzlaşmaktan çok sitem ederek, "hiçbir niyetle olmadığında bu kadar çabuk gücenmemelisin."
 
-Pauline, sevimli kılmaya çalıştığı bir kahkaha attı. "Hiçbir
-kırıklık kastedilmediğini düşünmek hoşuma gidiyor," diye ilan etti.
+Pauline, sevimli kılmaya çalıştığı bir kahkaha attı. "Hiçbir niyetle
+gücenmediğini düşünmek hoşuma gidiyor," diye ilan etti.
 
 "Küçük partin benim için hiçbir şekilde _pis-aller_ değildi,
 sevgili Pauline," dedi Sallie, "annemin durumunda ne olursa olsun. Gerçekten çok istiyordum, bilmiyor musun,
@@ -3476,7 +3477,7 @@ ona benim yakın düşmanım diyorsun? Biz en yakın dostlarız. O
 
 Bay Trevor yine Kindelon'u görmezden geldi. "Zavallı Rufus, Leander Prawle'dan çok daha az suçluydu," diye devam etti. "Ve yine de Leander Prawle'ı davet ettiniz. Prawle çok saçma bir şekilde iyimser. Prawle'ın kesinlikle hiçbir rengi yok. Prawle geri dönülmez bir şekilde heykelsi ve heykelsi. Şiirde böyle olmak çok saçma. Heykel, hayal gücüne buyurgan bir _rien ne va plus_ veren tek sanattır. Prawle bir
 heykeltıraş olmalıydı. Çok kötü bir adam olurdu, çünkü fikirleri
-mermer için bile çok soğuk. Ama şiirleri
+mermer için bile fazla soğuk. Ama şiirleri
 yazılmak yerine oyulmuş olsaydı bu kadar buz gibi bir başarısızlık olmazdı."
 
 "Bu tür şeylere istediğinden daha uzun süre katlanmak zorunda değilsin,"
@@ -3499,7 +3500,7 @@ yazarlık yapmak istiyordu. Bir sonraki _salon_'unda kendi hoş geldinliğini s�
 
 "Bir sonraki _salon_'um!" diye yankılandı Pauline, yorgunluk ve alay dolu bir kahkahayla.
 
-"Ne demek istiyorsun?" diye sordu kısa bir süre.
+"Ne demek istiyorsun?" diye sordu kısa bir süre sonra.
 
 "Başka bir _salon_ vermemem gerektiğini kastediyorum," diye yanıtladı. "Bu
 bir başarısızlık ve alay konusu."
@@ -3771,8 +3772,9 @@ başarısız olursam, en
 feci şekilde başarısız olacağım. Ben--Ben şimdi seni ve beni ayıran bariyere
 çaresizce bir sıçrama yapacağım."
 
-"Benim hatam olacağını söylüyorsun," diye karşılık verdi Pauline. Renk, bir sonraki cümlesini çerçevelemeden önce yanaklarına sızmıştı ve
-çok belirgin bir ışıltıyla. "Nasıl benim hatam olacak?"
+"Benim hatam olacağını söylüyorsun," diye karşılık verdi Pauline. Renk, bir sonraki cümlesini çerçevelemeden önce yanaklarına
+sızmıştı ve çok belirgin bir
+parıltıyla. "Nasıl benim hatam olacak?"
 
 "Bana cesaret vermiş olmalısın," dedi, "ya da en azından cesaretlendirme olarak alacağım bir şey."
 
@@ -3789,8 +3791,8 @@ hafif bir titreme geçirdi.
 
 "Benimle ilgili olarak zalim olmak senin için kolay."
 
-"Kolay!" diye tekrarladı, elini hızla geri çekti ve incinmiş bir tonlama
-kullandı.
+"Kolay!" diye tekrarladı, elini hızla geri çekerek ve incinmiş bir tonlama
+kullanarak.
 
 Sonra ona doğru eğildi. "Evet," dedi. "Ve nedenini biliyorsun. Sana aramızdaki
 farkı anlattım. Anlattım, çünkü bunu
@@ -3846,7 +3848,7 @@ Pauline'in sesi sefil bir şekilde kayboldu ve son belirsiz kelime söylendiğin
 Ama yine de Kindelon'un ellerini tutmasına izin verdi.
 Ve onun yanıtını duyduğunda ellerini daha da sıkı kavradı:
 
-"Sanırım Cora Dares buna inanmış olabilir.... Ama, aman Tanrım! Benim bu kadar suçum var mı? _Seninle_ hiç tanışmamıştım, Pauline. İrlanda'ya en son gitmemden önceydi--ona hiç evlenme teklif etmemiştim--Buna flört diyorlardı. Bunun hesabını mı soracağım? Benden önce yüzlerce
+"Sanırım Cora Dares buna inanmış olabilir.... Ama, aman Tanrım! Benim bu kadar suçum var mı? Seninle hiç tanışmamıştım, Pauline. İrlanda'ya en son gitmemden önceydi--ona hiç evlenme teklif etmemiştim--Buna flört diyorlardı. Bunun hesabını mı soracağım? Benden önce yüzlerce
 adam bu şekilde aptallık etti--Beni bu kadar
 yükseğe mi çıkardın, sadece
 aşağıya mı fırlatmak için?--Konuşmayacak mısın? Bana
@@ -3884,7 +3886,7 @@ küstahça bir muhalefet, yarın onlarla bağımı koparmama neden olur."
 
 "Ve kuzenin Courtlandt Beekman ile de mi?" diye sordu Kindelon, gülümseyerek, ama pek de neşeli bir şekilde değil.
 
-Pauline başını bir yana eğdi. "Onunla Poughkeepsies arasında keskin bir çizgi çekiyorum," dedi, ya kasıtlıymış gibi görünüyor ya da bunu ciddi bir şekilde yapıyormuş gibi. "Çocukluğumuzdan beri arkadaştık, Court ve ben," diye devam etti. "Court ile her zaman arkadaş olmamaktan nefret ederim."
+Pauline başını bir yana eğdi. "Onunla Poughkeepsies arasında keskin bir çizgi çekiyorum," dedi, ya kasıtlıymış gibi ya da bunu ciddi bir şekilde yapıyormuş gibi. "Çocukluğumuzdan beri arkadaştık, Court ve ben," diye devam etti. "Court ile her zaman arkadaş olmamaktan nefret ederim."
 
 "Onunla ayrılmaya karar vermelisin," dedi Kindelon, şüphesiz bir ciddiyetle.
 
@@ -4136,8 +4138,7 @@ mükemmeldi. Pauline'e bakmadı, ama çiçeklere karşı belirgin bir dikkatsizl
 
 "Evet," dedi; ve sonra, kısa bir duraklamadan sonra ekledi: "Bay Kindelon gönderdi."
 
-Courtlandt gözlerini onun yüzüne dikti, burada. "Oldukça
-ani olmadı mı?" diye sordu.
+Courtlandt gözlerini onun yüzüne dikti, burada. "Oldukça ani olmadı mı?" diye sordu.
 
 "Nişanım mı?"
 
@@ -4158,8 +4159,7 @@ Kendi kulağına zayıf ve önemsiz gelen küçük bir kahkaha attı.
 "Evet. Teyze Cynthia söyledi. Tebriklerimle
 uğramak gerektiğini hissettim."
 
-Pauline şimdi ayağa kalktı; dudakları titriyordu ve sesi de öyleydi, şöyle dedi:
---
+Pauline şimdi ayağa kalktı; dudakları titriyordu ve sesi de öyleydi, şöyle dedi:--
 
 "Umarım içtenlikle verirsin, Mahkeme."
 
@@ -4173,8 +4173,8 @@ anlamıyorsunuz. Bu durumda size yardımcı olamam, çünkü ben de anlamıyorum
 
 "Kendi sonuçlarımı çıkarmayı seçiyorum ve bunlar nazik ve dostça sonuçlar. Nasıl veya ne anladığımın bir önemi yok. Buradasın ve henüz
 kaba bir şey söylemedin. Umarım kaba bir şey söylemeyeceksin,
-çünkü seninle kavga edecek yüreğim yok - eski, komik, çabuk iyileşen kavgalarımızdan biri, bilirsin. Bir şekilde çok mutluyum ve bir diğer şekilde
-çok pişmanım."
+çünkü seninle kavga edecek yüreğim yok - eski, komik, çabuk iyileşen kavgalarımızdan biri, bilirsin. Bir şekilde çok mutluyum ve
+bir şekilde de çok pişmanım."
 
 "Pişman mı?"
 
@@ -4183,21 +4183,22 @@ tekrarladı."
 
 "Ah, evet, hepsini tekrarladı."
 
-"Ve şüphesiz öfkeli bir süslemeyle!" diye haykırdı Pauline, burada.
+"Ve şüphesiz epeyce öfkeli bir süslemeyle!" diye haykırdı Pauline, öfkeyle.
 
-"Sizce bunlar süslenebilir mi? Trinity Kilisesi'nin çan kulesinin
-tepesine bir kubbe koymak gibi olmaz mı?"
+"Sizce bunlar süslenebilir mi? Trinity Kilisesi'nin çan kulesinin tepesine bir kubbe koymak gibi olmaz mı?"
 
 "Kesinlikle hayır!" diye haykırdı Pauline. "Daha da kötüsünü söyleyebilirdim!
-Teyze Cynthia ile aramızda okyanuslar ve kıtalar var! Ve ben ona bunu söyledim!"
+Teyze Cynthia ile aramızda okyanuslar ve kıtalar var! Ve ben ona
+söyledim!"
 
 "Gerçekten mi? Kavganın anlatımına bakılırsa,
 birbirinizle oldukça _yakın_ olduğunuzu düşünmüştüm."
 
 "Kavga_ yoktu!" diye ilan etti Pauline, kendini çok güzel bir şekilde toparlayarak.
-"Lütfen, beni ne söylemekle suçladı?"
+"Beni ne söylemekle suçladı, lütfen?"
 
-"Ah, unuttum. Nişanlın olduğun adamı sevmediği için ona bir yankesici gibi davrandığını söyledi."
+"Ah, unuttum. Nişanlın olduğun adamı sevmediği için ona bir yankesici gibi
+sövdüğünü söyledi."
 
 Pauline, öfkeli ruh halini daha iyi düşünen ve bunu güzelce reddeden birinin tavrıyla omuzlarını silkti. "Kesinlikle, Courtlandt," dedi, "Bugün buraya gelmenin hiçbir amacının olmadığını düşünmeye başlıyorum."
 
@@ -4357,7 +4358,7 @@ _bazı_ saf kadınlarla -ki bu sonuncuların en parlak örneği olarak seni gös
 anlatılmayacak kadar farklıdır! Bazı isimlerin iffeti o kadar mükemmeldir ki
 herhangi bir dokunuş onu kirletir."
 
-"Eğer öyleyse, o zaman benimki çoktan kirlenmiş demektir!" diye haykırdı Pauline. "Ah," diye devam etti, "siz erkekler hepimiz kadınlara karşı aynısınız! En büyük suçumuz, bizim hakkımızda konuşmanız! Diğer erkeklerin, 'Bu kadın
+"Eğer öyleyse, o zaman benimki çoktan kirlenmiştir!" diye haykırdı Pauline. "Ah," diye devam etti, "siz erkekler hepimiz kadınlara karşı aynısınız! En büyük suçumuz, bizim hakkımızda konuşmanız! Diğer erkeklerin, 'Bu kadın
 skandal bir hakaretin hedefi haline getirildi, ama
 cesaretle karşılık verdi,' demesi, onu sizin gözünüzde sanki gerçekten
 hak edilmiş bir hakaretmiş gibi göstermektir! Sosyal bir şekilde hariç, ne zaman öne çıksak, bize kötü şöhretli denir. Eğer kocalarımız ayyaşlarsa veya bize
@@ -4386,7 +4387,7 @@ sorunun dışında bıraktı. O, elinden gelenin en iyisini yapabilirdi. Kendi c
 karılarla dolu bir haremi ve itaatkar hurilerle dolu olası bir
 Cenneti olan herhangi bir Müslümandan daha dardı."
 
-Kindelon ayağa kalktı ve ellerini arkasında kavuşturmuş bir şekilde odada volta atmaya başladı. "Şey," dedi, hafif bir dikkat dağıtma tonuyla, "Ünlü Fransız düşünürünüz için çok üzgünüm. Umarım ona sempati duyduğumu söylememi istemezsiniz."
+Kindelon ayağa kalktı ve ellerini arkasında kavuşturmuş bir şekilde yerde volta atmaya başladı. "Şey," dedi, hafif bir dikkat dağıtma tonuyla, "Ünlü Fransız düşünürünüz için çok üzgünüm. Umarım ona sempati duyduğumu söylememi istemezsiniz."
 
 "Buna inanmaya yarı yarıya meyilliyim!" diye atıldı Pauline. "Kuzenim
 Courtlandt sizin yaptığınız gibi konuşsaydı, bu tür
@@ -4396,21 +4397,21 @@ onu daha yavaş hareket ettirir. O, panjurlarını kapatıp
 taze güneş ışığının içeri girmesine izin veremezdi, tıpkı senin panjurlarını kapatıp
 onun terbiyeli _demijour_'unda yaşaman gibi!"
 
-Kindelon sabırsızca volta atmaya devam etti. "Senin
-olumlu benzetmene çok sevindim," dedi, hicivden çok üzüntüyle. Sonra aniden durakladı, Pauline'e doğru. "Tanrı aşkına,
+Kindelon sabırsızca volta atmaya devam etti. "Senin olumlu benzetmene çok sevindim," dedi, hicivden çok üzüntüyle. Sonra aniden durakladı, Pauline'e doğru döndü. "Tanrı aşkına,
 ne yapmamı istiyorsun?"
 
 "Sormamalısın; bilmelisin!" diye haykırdı.
 Parlak
-parlak gözleri, kızarmış yanakları ve narin vücudunun iddialı, neredeyse buyurgan duruşu, şimdi onu izlerken ona nadiren güzel bir
-görüntü gibi görünmesini sağladı. "Düşün, lütfen düşün," diye hızla devam etti, "şu anda durduğum konum üzerine! Çok daha iyi bir kadın olsaydım, hiç de kınanacak bir şey olmayacaktı. Sonuç başarısızlıktı; bu benim
+parlak gözleri, kızarmış yanakları ve narin vücudunun iddialı, neredeyse buyurgan duruşu, şimdi onu izlerken ona nadiren güzel bir görüntü gibi görünmesini sağladı. "Düşün, lütfen düşün," diye hızla devam etti, "şu anda durduğum konum üzerine! Çok daha iyi bir kadın olsaydım, hiç de kınanacak bir şey olmayacaktı. Sonuç başarısızlıktı; bu benim
 hatamdan kaynaklanmayan bir başarısızlıktı. Kendimi
 tartışan egoistlerden oluşan bir kliğin içinde buldum, mantıklı işbirlikçi
-destekçilerden oluşan bir topluluğun içinde değil. Bunların başında, itici özelliklerini önceden gördüğüm Bayan Cragge geliyordu - ya da daha doğrusu siz onları önceden görmeme yardımcı oldunuz. Onu ziyafetimden çıkardım (çok doğal ve yerinde olduğunu düşünüyorum) ve bu onun
-attığı anlaşmazlık elması." Burada Pauline, çok uzakta olmayan
+destekçilerden oluşan bir topluluğun içinde değil. Bunların başında, itici özelliklerini önceden gördüğüm Bayan Cragge geliyordu - ya da daha doğrusu siz onları önceden görmeme yardımcı oldunuz. Onu
+ziyafetimden çıkardım (çok doğal ve yerinde bir şekilde, iddia ediyorum) ve bu onun
+attığı
+uyumsuzluk elması." Burada Pauline, çok uzakta olmayan
 ölümcül gazeteyi işaret etti. "Elbette," diye devam etti, Kindelon'a çok
-inceleyici bir bakış atarak, "suçlunun Bayan Cragge _olduğuna_
-şüphe olamaz! Ben, kendi adıma, bundan eminim; siz de, sizin adınıza, çok büyük bir
+inceleyici bir bakış atarak, "Bayan Cragge'in suçlu
+olduğuna dair hiçbir şüphe olamaz! Ben, kendi adıma, bundan eminim; siz de, sizin adınıza, çok büyük bir
 yanılmadığım sürece, eminsiniz. Ama bu, onun küstahlığını alenen cezalandırmayı reddetmeni daha da suçlu kılıyor!"
 
 "Suçlu!" diye yankılandı, ona doğru aceleyle. "Pauline! Ne
@@ -4420,7 +4421,7 @@ bilmiyorsun! O kadına karşı en ufak bir acıma, en ufak bir pişmanlık duyuy
 Pauline bir an gözlerini kapattı ve bir elinin
 iğrenç bir hareketiyle başını salladı. "O zaman başka bir kadına karşı çok yanlış bir acıma duyuyorsun -- ve ayrıca çok yanlış bir pişmanlık duyuyorsun," diye cevapladı.
 
-"Bu durumdayken nasıl _hareket edebilirim_?" diye bağırdı keskin bir heyecanla.
+"Bu durumdayken nasıl _davranabilirim_?" diye bağırdı keskin bir heyecanla.
 "Nişanlanmamıza henüz izin vermedin. Senin savunucun olmak için hangi görünür veya
 kabul edilmiş_ hakkım var?"
 
@@ -4547,7 +4548,7 @@ için... ama bunu geçelim..."
 
 "Evet--bunu geçelim," diye yumuşakça bağırdı Pauline, nezaketsizlik kastetmiyordu ama yine de çıplak gerçeğe ve kanıta ulaşmaya kararlıydı. "Makaleyi Bayan Cragge'in yazdığından emin olduğunuzu mu söylüyorsunuz?"
 
-"Kesinlikle eminim," diye iddia etti Bay Barrowe. "Hemen hanımın yanına gittim. Onu -- _hangi_ gazetenin ofisindeki masasında buldum. Onu yazdığı için azarladım! Belki de çok küstahtım -- çok diktatördüm ama umursamadım. Birkaç akşam önce, sizin hoşnutsuzluğunuzu göze alarak hanımı savunmuştum."
+"Kesinlikle eminim," diye iddia etti Bay Barrowe. "Hemen hanımın yanına gittim. Onu -- _hangi_ gazetenin ofisindeki masasında buldum. Onu yazdığı için azarladım! Çok küstahtım belki de -- çok diktatörceydi ama umursamadım. Birkaç akşam önce, sizin hoşnutsuzluğunuzu göze alarak hanımı savunmuştum."
 
 "Hanımefendi!" diye tekrarladı Pauline, yarı kısık sesle ve belirgin bir alayla. "Devam edin lütfen, Bay Barrowe. Bayan Cragge itiraf etti mi?"
 
@@ -4703,7 +4704,7 @@ izin veremem. Sizden daha fazla okumamanızı rica ediyorum."
 
 Tamamen ciddiydi. Bay
 Prawle'ın eyleminin mizahi tarafına bakmayı unuttu; sözde şiiri, onun sarsılmış sinirlerine ve
-yaralı ruhuna, sinir bozucu bir küstahlık parçası olarak hitap ediyordu. Ziyaretinin tüm olayı, yakın zamanda sona eren alaycı bölümden sonra son bir alay gibi görünüyordu.
+yaralı ruhuna, sinir bozucu bir küstahlık parçası olarak hitap ediyordu. Ziyaretinin tüm olayı, yakın zamanda sona eren alaycı bölümden sonra gelen son bir alay gibi görünüyordu.
 
 Şimdi ona hüzünlü bir şaşkınlıkla bakıyordu. "Sen--sen benden
 daha fazla okumamı istemiyorsun!" diye haykırdı.
@@ -4764,7 +4765,7 @@ saflarına mı katılıyorsun?... Shelley yanlış anlaşıldığı için nerede
 ummuştum, Bayan Varick. Bu nedenle size az önce okumamı reddettiğiniz şiiri yazdığımı kastetmiyorum. Kesinlikle hayır! Sadece sizden bir
 patron bulma fikrini beslediğimi kastediyorum. Evet, bir
 patron! 'Ay Işınları ve
-Dağ Zirveleri'ni ortaya çıkarmak için hiçbir olanağım yok. Ve bana daha önce en asil yaratımım olduğunu söylediğim şeyi okuduktan sonra, bir sanat, deha, ... aşığı olarak ... onay vermenizi umuyordum.
+Dağ Zirveleri'ni ortaya çıkarmak için hiçbir olanağım yok. Ve bana daha önce en asil yaratımım olduğunu söylediğim şeyi okuduktan sonra, bir sanat, deha, ... aşığı olarak ... onay vermenizi ummuştum.
 
 "Anlıyorum," dedi Pauline. "Cildinizin yayınlanmasında size yardımcı olmamı istiyorsunuz." Gülümsedi, biraz yorgun olsa da.
 "Pekala, Bay Prawle, yapacağım."
@@ -4821,9 +4822,9 @@ emekliye - bir dilenciye - sunar gibi sunuyorsunuz! Ve siz - _siz_, edebi yetene
 eğlendirme ve geliştirme hakkını üstlendiniz! Son resepsiyonunuzda size
 zar zor hitap ettim... _Bekledim_. Sanırım Kindelon'un bilinen
 düşmanlığına rağmen, misafirlerinizden bazıları size çöllerimin ne kadar
-muazzam olduğunu - Rufus Corson'ın hastalıklı dehşetlerini ve Arthur Trevor'ın apaçık yüzeyselliklerini nasıl aştıklarını - anlatmışlardır. Ama
+muazzam olduğunu -Rufus Corson'ın hastalıklı dehşetlerini ve Arthur Trevor'ın apaçık yüzeyselliklerini nasıl aştıklarını- anlatmışlardır. Ama
 açıkça, sizin her türlü entelektüel iddiaya
-karşı duyarsız olduğunuzu keşfediyorum. Sizden _hiçbir_ yardım kabul etmeyeceğim! - hiç! Ama
+karşı duyarsız olduğunuzu keşfediyorum. Sizden _hiçbir_ yardım kabul etmeyeceğim!--hiçbir şey! Ama
 bir gün, Leander Prawle'ın adı parıldayan ve egemen olduğunda,
 belki de onun meziyetlerini ne kadar kötü değerlendiremediğini hatırlayacaksın
 ve kendi acınası
@@ -4886,8 +4887,7 @@ konuştuğunu açıkça duyuyordu.
 
 "Cora!" "Telafi edilemeyecek bazı haksızlıklar vardır. Sana yaptığım haksızlığın bu türden olduğunu biliyorum. Kendimi aklamaya çalışmıyorum. Sana veda etmek için neden buraya geldiğimi bilmiyorum. Beni görmeyi kabul etmen çok nazik bir davranıştı. Benzer koşullar altında yüzlerce başka kadın bile reddederdi. Ama sen beni sevdiğini sık sık söyledin ve sanırım hala seviyorsun. Bu nedenle bundan sonra hırslı bir evlilik yaptığımı ve bunun beni dünyanın gözünde daha yüksek bir yere taşıyacağını, yeteneklerime parlak bir şans vereceğini, erkeklerin ve kadınların beni güzel ve gururlu bir başarıya ulaşmış bir adam olarak göstereceğini düşünerek bir tür teselli bulabilirsin.... Hoşça kal, Cora.... Gitmeden önce elini bir kez tutayım -sadece bir kez. Bir haylaz gibi davrandığımı kabul ediyorum. Kendi aleyhime söylenebilecek her şeyi kabul edeceğim. Aman Tanrım! Bana o korkunç sitem dolu şekilde bakma, sen--bu evliliği tamamen reddetmemi istiyorsun! Cora, geçmişi affedersen bunu yapacağım! Sana geri döneceğim, gelecekteki hayatımı sana adayacağım! sadece bana affettiğini ve unuttuğunu söyle!"
 
-"Hayır, hayır," Pauline şimdi mücadele eden ve acı çeken bir sesin
-cevap verdiğini duydu. "Yaptığın şeyi geri alamazsın. _Bana_ olan inancını
+"Hayır, hayır," Pauline şimdi mücadele eden ve acı çeken bir sesin yanıtını duydu. "Yaptığın şeyi geri almanın bir yolu yok. _Bana_ olan inancını
 bozduğun için, ona verdiğin sözü tut. Aşkımın henüz öldüğünü söylemiyorum; uzun bir süre daha ölmeyeceğini düşünüyorum... belki de
 yıllarca. Ama saygım tamamen öldü... Eline dokunmayacağım; huzurunda daha fazla kalmayacağım bile. Sana karşı hiçbir
 kin duygusu hissetmiyorum. Hepinize gelecekte mutluluklar diliyorum. Eğer bundan sonra yeteneklerinin hak ettiği gibi parlarsan, ününü, zaferini ruhumda hiçbir
@@ -4987,12 +4987,16 @@ Courtlandt onu takip etti. Bir sandalyeye çöktü, yavaşça başlığının ip
 
 "Demek bana geldin," dedi, bir tür ölçülü ilgisizlikle.
 
-"Evet," dedi Courtlandt. "Bana gönderdiğin mesaja uydum."
+"Evet," dedi Courtlandt. "Bana gönderdiğin mesaja itaat ettim."
 
 Pauline aceleyle döndü ve ona baktı. Bunu yaparken ateşin ışığı yüzüne çarptı ve gri gözlerinin yaşlarla
 yüzdüğünü gördü.
 
-Kırık sesini kontrol altına almaya çalışmadı. "Ah Mahkeme," dedi, "gelmeniz çok iyi oldu! Neredeyse gelip gelmeyeceğinizden şüphe ediyordum! Sizin - yani, bana kuzenlikten başka bir şekilde değer verdiğinizi - hatırlamalıydım. Ama kan bağı olan başka kimse yoktu - yani, yakınımda kimse yoktu. Başımıza korkunç bir şey geldiğinde o kan bağını nasıl düşündüğümüz harika. Darbe gelene kadar, yıllarca hatırlamayabiliriz. Sonra onun gücünü, bağını, iddiasını hissederiz... Yanıma oturmanızı ve sessizce dinlemenizi istiyorum, Mahkeme. Dinlemede her zaman iyiydiniz. Ayrıca, hemen büyük bir tatmin duyacaksınız; _onun_ hakkındaki kehanetlerinizin doğru olduğunu öğreneceksiniz. Gözlerim açık - ve zamanla. Onunla asla evlenmeyeceğim. Bir daha asla kimseyle evlenmeyeceğim. Ve şimdi, dinleyin..."
+Kırık sesini kontrol altına almaya çalışmadı. "Ah Mahkeme," dedi, "gelmeniz çok iyi oldu! Neredeyse gelip gelmeyeceğinizden şüphe ediyordum! Hatırlamalıydım ki siz--yani, bana kuzenlikten başka bir şekilde değer veriyordunuz. Ama kan bağı olan başka kimse yoktu.
+Yani, yakınımda kan bağı olan kimse yoktu. Başımıza korkunç bir şey geldiğinde kan bağı hakkında ne kadar da harika şeyler düşünüyoruz. Yıllarca, darbe gelene kadar bunu hatırlamayabiliriz. Sonra onun gücünü, bağını, iddiasını hissederiz...
+Yanıma oturmanızı ve sessizce dinlemenizi istiyorum, Mahkeme. Dinlemede her zaman iyiydiniz. Ayrıca,
+hemen büyük bir tatmin duyacaksınız;
+onunla ilgili kehanetlerinizin doğru olduğunu öğreneceksiniz. Gözlerim açık--ve zamanla. Onunla asla evlenmeyeceğim. Bir daha asla kimseyle evlenmeyeceğim. Ve şimdi, dinleyin..."
 
 Bundan sonra uzun bir süre, Courtlandt kendini en sabırlı denetçi olarak gösterdi. Ama kuzeni sonunda
 sonra, ateş, ocağının etrafını çevreleyen gümüş telkarilerin ardında cızırdayıp duman çıkarırken, zavallı Pauline'in son ifşaları hakkında olumsuz, öfkeli bir yorum yapıyormuş gibi, uzun bir süre sessiz kaldı.
@@ -5132,8 +5136,6 @@ JAMES R. OSGOOD & CO., BOSTON.
 
 .
 *** END OF TURKISH PART ***
-
-
 ***END OF THE PROJECT GUTENBERG EBOOK THE ADVENTURES OF A WIDOW***
 
 

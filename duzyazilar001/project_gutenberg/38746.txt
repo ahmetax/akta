@@ -4,6 +4,7 @@ Yazar: A. S. W. Rosenbach
 Yayın Tarihi: February 1, 2012 [EBook #38746]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/38746
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 Project Gutenberg's The Unpublishable Memoirs, by A. S. W. Rosenbach
 
@@ -76,13 +77,13 @@ YAYIMLANAMAYAN ANILAR
 
 Çok zalimceydi.
 
-Hayatı boyunca arzuladığı şeylerden biri için pazarlık ediyordu.
+Ömrü boyunca arzuladığı şeylerden biri için pazarlık ediyordu.
 
 New York'ta, metropolün ünlü kitapçılarından birindeydi.
 Sahibi ona tam olarak bankadaki miktarı olan 160 dolara, Beau Brummel'in "Yayınlanamayan Anıları"nın ilk ve tek baskısını teklif etmişti. Bu küçük cilt, 1790'da Londra'da yayınlanmıştı ve bilinen iki kopyadan biriydi. Diğeri ise British Museum'un ünlü "gizli kütüphanesinde" bulunuyordu.
 
 Bu, on sekizinci yüzyıldaki moda hayatının skandal bir kroniğiydi ve birçok parlak isim bu kronolojide yer alıyordu;
-İngiltere tarihinde uzun zamandır onurlandırılmış olan seçkin ve itibarlı aileler, kara ve zehirli bir kalemle acımasızca tasvir edilmişti. Bu kitabı yıllardır arzuluyordu ve işte şimdi avucunun içindeydi! Sahibine kitabı alacağını söylemişti.
+İngiltere tarihinde uzun zamandır onurlandırılmış olan seçkin ve itibarlı aileler, kara ve zehirli bir kalemle acımasızca tasvir ediliyordu. Bu kitabı yıllardır arzuluyordu ve işte şimdi avucunun içindeydi! Sahibine kitabı alacağını söylemişti.
 
 Robert Hooker bir kitap koleksiyoncusuydu. Çok fazla parası olmasa da,
 dünyanın en çok aranan hazinelerinden birkaçını edinmişti.
@@ -92,12 +93,9 @@ sihriyle onları nadir ciltlere dönüştürmüştü!
 Kötü küçük kitabı cebine koymak üzereyken, sözü kesildi.
 
 Dünyanın dört bir yanındaki kitapseverlerin tanıdığı iri yarı, şişman bir adam dükkana girmiş ve Bay Rodd'a Beau Brummel
-Anıları'nı inceleyip inceleyemeyeceğini sormuştu. Daha önce de baktığını, ancak o zaman
-sadece tekrar uğrayacağını söylemişti.
+Anıları'nı inceleyip inceleyemeyeceğini sormuştu. Daha önce de baktığını, ancak o zaman sadece tekrar uğrayacağını söylemişti.
 
-Kitabı Hooker'ın önündeki
-masada gördü, törensizce aldı ve
-dükkânın sahibine satın alacağını söyledi.
+Hooker'ın önündeki masada kitabı gördü, törensizce aldı ve dükkan sahibine satın alacağını söyledi.
 
 "Affedersiniz," diye haykırdı Hooker, "ama ben onu yeni aldım."
 
@@ -293,8 +291,7 @@ herkese giriş izni verilmedi; hiç kimse dünyanın başyapıtlarından bazıla
 orijinallerini göremiyordu.
 
 Sanat enstitüleri onu şu veya bu şeyi incelemesi için sıkıştırıyordu;
-her yerdeki ünlü öğrenciler Whistler'ın
-John Bull'un kendi portresini veya Gilbert Stuart'ın daha ünlü
+her yerdeki ünlü öğrenciler Whistler'ın John Bull'un kendi portresini veya Gilbert Stuart'ın daha ünlü
 John Bull'un büyükbabasının portresini görmek için çırpınıyordu. Galerilerine girmesine
 kısaca izin verilmediğinde, ona
 en ufak bir etkisi olmayan, alaycı ve hoş lakaplarla dolu sıra dışı mektuplar yazıldı. Sanatın evrenselliği hakkında hiçbir fikri olmadığı söylendi, buna krallar ve yoksullar, kötü, zengin koleksiyoncular ve erdemli, fakir öğrenciler dahildir!
@@ -388,18 +385,23 @@ Foster'ın tek kızının hastalığı nedeniyle İtalya'ya yerleşeceğini okud
 Şimdi Jasper Foster yalnızca bir şey için ünlüydü. Adı, tek bir nesneyle ünlüydü. Appleton koleksiyonundaki ünlü mor alıç vazosunun eşinin sahibiydi.
 
 Foster son derece mütevazı, dünyadan bihaber, içine kapanık bir beyefendiydi.
-Son on beş yıldır vazo hakkında birçok soru sorulmuş ve onu satın almak için sayısız teklif gelmişti, ancak o her zaman ondan ayrılmayı reddetmişti. Babasının ve büyükbabasının mülküydü ve 1820 yılı civarında bir deniz kaptanından satın almışlardı.
+Son on beş yıldır vazo hakkında birçok soru sorulmuştu ve onu satın almak için sayısız teklif gelmişti, ancak o her zaman ondan ayrılmayı reddetmişti. Babasının ve büyükbabasının mülküydü ve 1820 yılı civarında bir deniz kaptanından satın almışlardı.
 
-Ama şimdi Foster zor durumdaydı. Evi ipotekliydi ve kızı New York'tan daha ılıman bir iklim gerektiren bir hastalığa yakalanmıştı. Bu nedenle güneşli İtalya'da ikamet etmeye karar verdi.
+Ama şimdi Foster zor durumdaydı. Evi ipotekliydi ve
+kızı New York'tan daha ılıman bir iklim gerektiren bir hastalığa yakalanmıştı. Bu nedenle güneşli İtalya'da ikamet etmeye karar verdi.
 
-Hooker gazetedeki kısa paragrafı okur okumaz, 17. Cadde'nin altındaki oldukça gösterişli eve koştu.
-Korku ve titremeyle eski moda zili çaldı.
+Hooker gazetedeki kısa paragrafı okur okumaz,
+17. Cadde'nin alt tarafındaki oldukça gösterişli eve koştu.
+Korku ve titremeyle, eski moda zili çaldı.
 
 Evet, Bay Foster evdeydi.
 
-Hooker hizmetçiyi ilk salona götürdü. Bitişik odadan sesler duydu. Bay Foster'ın başka ziyaretçileri de oldu.
+Hooker hizmetçiyi ilk salona götürdü.
+Yandaki odadan sesler duydu.
+Bay Foster'ın başka ziyaretçileri de oldu.
 
-Zaman geçirmek için bir dergi aldı ama hemen bıraktı. "Mor alıç" sihirli kelimelerini duymuştu. Başka biri daha vardı. Öğrenecekti.
+Zaman geçirmek için bir dergi aldı ama
+hemen bıraktı. "Mor alıç" sihirli kelimelerini duymuştu. Başka biri daha vardı. Öğrenecekti.
 
 Eski bir İspanyol deri paravanın arkasına geçip dinledi.
 Açıklıktan baktı ve finans dünyasında iyi tanınan iki adam gördü. Biri John T. Sterling'di; diğeri ise ünlü koleksiyoncu James Thatcher'dı.
@@ -485,7 +487,8 @@ bir banka hesabı yoktu. Ve Mr. Foster'ın eski kafalı bir beyefendi olduğunu 
 
 "Doğrusunu söylemek gerekirse, _Herald_ gazetesinde taşınacağınızı okudum. Bu evi ve arsayı ne kadara tuttuğunuzu bilmek istiyorum?"
 
-"Ben olsam ucuza satardım. Bu bölümdeki mülkler eskiden oldukları kadar değerli değil. Yetmiş bin dolar olarak değerlendiriliyor. Üzerinde altmış bin dolarlık bir ipotek var. Bunun için yetmiş beş alırdım. Bu bölüm konutlar için fazla eski ve işler yukarı doğru kayıyor.
+"Ben olsam ucuza satardım. Bu bölümdeki mülkler eskiden oldukları kadar değerli değil. Yetmiş bin dolar olarak değerlendiriliyor. Üzerinde altmış bin dolarlık bir ipotek var. Bunun için yetmiş beş alırdım. Bu bölüm konutlar için
+çok eski ve işler yukarı şehre doğru kayıyor.
 
 "Ama bir konut olarak istiyorum. İçine bakabilir miyim?"
 
@@ -496,7 +499,7 @@ tüm evin baştan aşağı elden geçirilmesi gerektiğini söyledi.
 
 "Eh--sanırım alırım," dedi sonunda. "Eski mobilyaları mı istiyorsun? Mobilyalı olarak satın almayı tercih ederim, yani eğer bir fiyata satın alabilirsem!"
 
-Bu zavallı Foster için altın bir fırsattı. Evini yıpranmış mobilyalarıyla ve vazoyla birlikte tek bir günde satmak bir başarıydı!
+Bu zavallı Foster için altın bir fırsattı. Evini, yıpranmış mobilyalarıyla ve vazosuyla birlikte tek bir günde satmak bir başarıydı!
 
 "Evi ve içindekileri tamamen seksen beş bin dolara satardım. Ancak bir vazoyu muaf tutmalıyım. Bana bunun için on beş bin dolar teklif edildi."
 
@@ -509,11 +512,10 @@ Bu zavallı Foster için altın bir fırsattı. Evini yıpranmış mobilyalarıy
 Bay Foster, büyük bir vakarla güzel alıç vazosunu gösterdi. Vazo
 cam kutunun içinde sessizce parlıyordu.
 
-"Ne! _Bunun_ için on beş bin! Belki de, gerçekten buna
-değerse, spekülasyon yapabilirim. Daha iyi bir
+"Ne! _Bunun_ için on beş bin! Belki de, gerçekten buna değerse, spekülasyon yapabilirim. Daha iyi bir
 teklif alabilirim. Ev ve tüm mobilyaları için sana doksan beş bin dolar veririm."
 
-"Hayır. En düşük yüz bin."
+"Hayır. En düşük fiyat yüz bin."
 
 "Tamam! Bir şans vereceğim. Bana bir satış sözleşmesi verin ve konu
 biter!"
@@ -599,7 +601,8 @@ Ama nasıl? Kitap, hırsızlara karşı garantili bir kasada sürekli olarak kor
 faksiyeyi ikame etmeye çalışamazdı. Gardiyanı rüşvet vermek
 aptalcaydı çünkü
 gardiyan emniyet kilidinin kombinasyonunu bilmiyordu. Aklını kaçırmıştı! Aklına tek bir
-pratik fikir bile gelmiyordu. Bir kereliğine kaynaklarının sonuna gelmişti!
+pratik fikir
+gelmedi. Bir kereliğine kaynaklarının sonuna gelmişti!
 
 Robert Hooker kitapların büyük bir aşığıydı. Diğer aşk türlerinde olduğu gibi,
 ne kadar çok reddedilirse, aşk o kadar büyüdü; ve zaman
@@ -722,7 +725,7 @@ SÖMÜRGE SEKRETERİ
 Kitap dünyasının en eksantrik karakterlerinden biri Doktor Morton'du. Kitapların gelenekleri hakkında çok şey biliyordu ve onları çalarak
 harika bir geçim kaynağı sağlıyordu. Eski ciltler onun için yiyecek ve içecekti. Küçük bir New England kasabasında sessiz ve saygın bir şekilde yaşadı ve burada öğrenimi ve dindarlığıyla onurlandırıldı.
 
-Dr. Morton bir hırsız, kütüphane ve koleksiyoncu hırsızı olmasına rağmen, affedilmesi imkansız olan çok daha büyük bir suç işledi. Cinayet, suikast, kundakçılık ve vatana ihanet bu tarifsiz şeye göre hiçti. Yedi Ölümcül Günah'tan bile daha kötüydü.
+Dr. Morton bir hırsız, kütüphane ve koleksiyoncu hırsızı olmasına rağmen, affedilmesi imkansız olan çok daha büyük bir suç işledi. Cinayet, suikast, kundakçılık ve ihanet bu tarifsiz şeye göre hiçti. Yedi Ölümcül Günah'tan bile daha kötüydü.
 
 Doktor Morton, başka bir şekilde elde edemediği için, erken dönem Kastilya yasalarının eşsiz bir cildini elde etmek için bir koleksiyoncu arkadaşını öldüren ünlü İspanyol kitapseverden farklıydı. Ödülün buna değdiğini savunarak
 pişmanlık duymadan iskelede öldü. Aragonlu zavallı Don Vincente'ye tüm şeref! Adı kitap severler tarafından her zaman şefkatle anılacak!
@@ -744,7 +747,7 @@ Ah! Zavallı Yorick!
 
 Koleksiyoncu kitabı gönderecekti ve bu onun hakkında duyacağı son şeydi.
 
-Morton, gravürün erken tarihine dair araştırmalarını sürdürmek için Albrecht Duerer'in harika eski bir tahta baskısını ödünç alacak ve
+Morton, gravürün erken tarihine dair araştırmalarını sürdürmek için Albrecht Duerer'in harika bir eski tahta baskısını ödünç alacak ve
 eski çerçeveye, orijinaline benzeyecek şekilde boyanmış ve sahibinin yıllar sonra keşfedebileceği modern bir faksimile koyacaktı.
 
 Amacımız, bu Yeni İngiltere'nin faaliyetlerini, ne kadar ilginç ve öğretici olursa olsun, kayıt altına almak değil. Doktor Morton'un Welford kütüphanesiyle ilgili bilinen darbesi onu bu hikayeye dahil etti.
@@ -762,10 +765,10 @@ Sıcak bir yaz gününde Doktor Morton aradığında, Welford kitaplarını ince
 "Günaydın, Bay Welford, hoş bir şekilde meşgul görünüyorsunuz."
 
 "Evet efendim. Bazı eski şeylere bakıyorum.
-Olmayan her şeyden kurtulmak istiyorum."
+Onsuz yapabileceğim her şeyden kurtulmak istiyorum."
 
-"Ben Doktor Morton. Eski veya merak uyandıran her şeyle ilgileniyorum.
-Neler
+"Ben Doktor Morton. Eski veya merak uyandırıcı olan her şeyle ilgileniyorum.
+Ne
 elinizde olduğunu göreyim. Ah! İşte Barclay'in 'Özür'ünün eski bir kopyası.
 Çok değerli."
 
@@ -792,7 +795,7 @@ ve sadece atık kağıt fiyatına değer olduğunu söyledi.
 
 Parçada Benjamin Franklin tarafından 1733'te basılmış, parçalanmış bir almanak vardı.
 
-"Şu pis eski almanağa bakın! Modern bir tanesi yüz kat daha
+"Şu pis eski almanağa bakın! Modern olanı yüz kat daha
 değerli!" diye haykırırdı Doktor Morton; aynı zamanda Poor Richard'ın bu ilk sayısının ağırlığınca altın değerinde olduğunu bilerek.
 
 "Bu imha edilmeli! William Penn ve Quaker'lara yönelik çirkin bir saldırı. Yerinizde olsam bunu ateşe atardım!" dedi erdemli doktor, 1682'de Londra'da yayınlanan küçük bir quarto broşürüne işaret ederek ve mevcut iki kopyadan birine, diğeri ise tanınmış bir kitapçı tarafından 600,00 dolara satılmıştı. İçinde Penn'in II. Charles'ın kötü sarayındaki bazı hanımlara düşkün olduğuyla ilgili ilginç bir ifade var.
@@ -1003,8 +1006,7 @@ Robinson'ın Evi,
 
 Efendim:--
 
-Her şey kararlaştırıldığı gibi ilerliyor. Hett Smith için bir geçiş
-sağladım. Sanırım West Point'teki mühimmat verilenle aynı. Peki ya askeri güç? _Bu tarafta_ bize yardım edecek kadar gücümüz yok. İki kişiden fazlasına ihtiyacımız var, üçüncü veya dördüncü bir kişi gerekiyor.
+Her şey kararlaştırıldığı gibi ilerliyor. Hett Smith için bir geçiş belgesi aldım. Sanırım West Point'teki mühimmat verilenle aynı. Peki ya askeri güç? _Bu tarafta_ bize yardım edecek kadar gücümüz yok. İki kişiden fazlasına ihtiyacımız var, üçüncü veya dördüncü bir kişi gerekiyor.
 Mühimmattan sorumlu Albay DePuyster, bana
 çağrıldığında hazır olacağına dair söz verdi. Bana zaten yazdı,
 ilk alandaki böğürtlenlerin sayısını verdi. Çok büyük bir
@@ -1273,7 +1275,7 @@ BREVIARY'NİN KADINI
 
 Abelard Missal'ı sonsuza dek kaybetti.
 
-Bay Richard Blaythwaite hayattayken, Robert Hooker'ın onu ele geçirme ve Rönesans'ın bu güzel hatırasını "hayal gücü müzesine" ekleme şansı belki de on binde birdi. Ancak şimdi Blaythwaite öldüğüne göre, ona sahip olma umudu
+Bay Richard Blaythwaite hayattayken, Robert Hooker'ın onu ele geçirme ve Rönesans'ın bu güzel hatırasını "hayal gücü müzesine" ekleme şansı belki on binde birdi. Ama şimdi Blaythwaite öldüğüne göre, ona sahip olma umudu
 yok olmuştu.
 
 Hooker, halk adına, onu Blaythwaite'ten adil veya haksız yollarla almaktan çekinmezdi ama bir kadını soymazdı. Bu noktada özellikle titizdi.
@@ -1528,7 +1530,7 @@ Yıllardır onunla birlikteydi. Ve gerçekten iyi bir katip her zaman efendisini
 İçeri girmesini söyle."
 
 "Merhaba, Albay! Bu sabah sizin için ne yapabilirim?" dedi Hooker neşeyle, içeri yeni giren dik duruşlu orta yaşlı bir adama.
-Eski kitaplar, eski silahlar, eski kağıtlar, eski paralar, eski resimler, eski her şeyi toplayarak geçimini sağlayan adamlardan biriydi. Ayrıca, bazen eski içkileri toplama yeteneği de vardı ki bu onun için iyi değildi. Askeri duruşu ve İç Savaş'a olan ilgisi nedeniyle "Albay" olarak bilinirdi. Aslında, ev muhafızları olarak bilinen görkemli ve geniş alayda görev yapan bir askerdi.
+Eski kitaplar, eski silahlar, eski kağıtlar, eski paralar, eski resimler, eski her şeyi toplayarak geçimini sağlayan adamlardan biriydi. Ayrıca, bazen eski içkileri toplama yeteneği de vardı ki bu onun için iyi değildi. Askeri duruşu ve İç Savaş'a olan ilgisi nedeniyle "Albay" olarak biliniyordu. Aslında, ev muhafızları olarak bilinen görkemli ve geniş alayda görev yapan bir askerdi.
 
 "Günaydın Bay Hooker. Sizinle konuşmak istediğim bir konu var - ama kesinlikle gizli. Gerçekten güzel bir kitabın peşindeyim."
 
@@ -1554,7 +1556,7 @@ kitabın adını duymak istemiyorum!"
 
 "Elbette ilgileniyorum, aptal ihtiyar, devam et!"
 
-"Eh, kitap Washington Meydanı'nın yakınlarındaki eski bir evde.
+"Eh, kitap Washington Meydanı'nın yakınındaki eski bir evde.
 Bulması zor olacak. Sahibi hapiste."
 
 "_Hapiste_!"
@@ -1590,7 +1592,7 @@ sinirli ve histerik kişiler geldi. Ev sahibi çaresizlik içinde
 kira bedelini düşürdü ama kiracılar yine de kalmadı.
 
 Sonunda şüpheci olan ve cinlere,
-hayaletlere, ruhlara veya maddi zihnin dışında var olan o fantastik yaratıklardan hiçbirine
+hayaletlere, ruhlara veya maddi zihnin dışında var olan o fantastik yaratıklara
 inanmayan o bile kendi kendine araştırmaya karar verdi.
 Odalarda aylarca kamp kurdu ve tek bir ses bile duymadı! Her
 gecenin son gece olacağına ve aptal kiracılarının mistik hayaletleri için değerli vaktini daha fazla harcamayacağına karar verdi.
@@ -1948,7 +1950,7 @@ kutsal olmayan gülümsemenin titrediğini gördüğünü düşündü.
 
 Libro'nun kitabı -hiçbir zaman elden çıkarmadığı tek kitap- inanılmaz bir meblağa -altın ağırlığından daha fazlasına- ve binlerce dolara sattığını söylemeye gerek yok. Ünlü bir koleksiyoncu kitabı hemen satın aldı ve şimdi harika kütüphanesinin en büyük cazibesi.
 
-Cebindeki para şıngırdarken eski sefaletinin olduğu yere geri döndü. Rehinlerini komisyoncunun kendi parasıyla geri alacaktı.
+Cebindeki parayla eski sefaletinin olduğu yere geri döndü. Rehinlerini komisyoncunun kendi parasıyla geri alacaktı.
 
 "Steinman," dedi, "tüm eşyalarımı topla. Borcumu ödeyip onları yanımda götüreceğim."
 
@@ -2026,17 +2028,17 @@ sömüren, aptal, kalpsiz bir kötü adam, a--
 
 "Daha fazla ileri gitmedi.
 
-"Elimdeki ilk şeyi aldım, 'Evliliğin On Beş Sevinci'ydi, ve kafasına fırlattım. Koluna çarptı ve yere düştü. Almak için eğildiğimde, zavallı, morarmış,
+"Elimdeki ilk şeyi aldım, 'Evliliğin On Beş Sevinci'ydi,' ve kafasına fırlattım. Koluna çarptı ve yere düştü. Almak için eğildiğimde, zavallı, morarmış,
 kırık köşesini fark edip etrafa baktım. Karım gitmişti.
 
 "Ertesi gün bana boşanma evraklarını verdi, bu artık _ünlü bir dava_.
 
 "Sonunda özgürdüm!"
 
+Project Gutenberg'in A. S. W. Rosenbach'ın Yayımlanamayan Anıları'nın sonu
+
 .
 *** END OF TURKISH PART ***
-End of Project Gutenberg's The Unpublishable Memoirs, by A. S. W. Rosenbach
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE UNPUBLISHABLE MEMOIRS ***
 
 ***** This file should be named 38746.txt or 38746.zip *****

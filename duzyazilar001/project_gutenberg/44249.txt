@@ -4,6 +4,7 @@ Yazar: William Heyliger
 Yayın Tarihi: November 21, 2013  [eBook #44249]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/44249
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 The Project Gutenberg eBook, Detectives, Inc., by William Heyliger
 
@@ -41,9 +42,7 @@ DETECTIVES, INC.
 
 Erkekler İçin Bir Gizem Hikayesi
 
-Yazar
-
-WILLIAM HEYLIGER
+WILLIAM HEYLIGER tarafından
 
 The Goldsmith Publishing Company
 Chicago
@@ -73,9 +72,8 @@ KÖR ADAMLARI ÖZGÜRLEŞTİREN KÖPEKLER
 New Jersey, Morristown'da, Muhtemelen dünyadaki en dikkat çekici
 okul olan - köpeklerin ülkemizin kör insanlarını fiziksel olarak özgürleştirmek için eğitildiği bir okul. Bu okulun adı The Seeing Eye'dır ve 1928'de hayatını ve servetini bu dikkat çekici davaya adamış bir kadın tarafından kurulmuştur; adı Bayan Harrison Eustis'tir.
 
-Dişi Alman çoban köpekleri bu iş için seçilir çünkü kendilerine emanet edilen görevlerden kolayca dikkatleri dağılmaz. Bir köpeğin eğitimini tamamlamak üç ila beş ay sürer. İlk birkaç ay eğitmeniyle geçirilir: eğitmenin düşürdüğü her şeyi almayı öğrenir;
-önce durmadan kaldırımdan yürürse tökezleyip
-düşeceğini; alçak bir engelin altından geçerse kafasını çarpacağını öğrenir.
+Dişi Alman çoban köpekleri bu iş için seçilir çünkü kendilerine emanet edilen görevlerden kolayca dikkatleri dağılmaz. Bir köpeğin eğitimini tamamlamak üç ila beş ay sürer. İlk birkaç ay eğitmeniyle geçirilir: eğitmenin düşürdüğü her şeyi almayı öğrenir; kaldırımdan önce durmadan yürürse tökezleyip
+düşeceğini öğrenir; alçak bir engelin altından geçerse kafasını çarpar.
 
 Bu köpekleri nasıl eğiteceklerini öğrenmek için yeterli sabra sahip adamlar bulmak çok zordur ve körlere bu köpeklere nasıl güveneceklerini ve onları nasıl kullanacaklarını öğretmek de bir o kadar zordur.
 
@@ -84,8 +82,9 @@ KÖPEK NASIL ÇALIŞIR
 Köpek ve insanın birlikte çalıştığı yöntem basittir. Rehber köpek, efendisini nereye gideceği söylenmeden hedefine götürmez. Bu genellikle takdir edilmez, ancak kör insanlar kendi topluluklarının yeterli bir zihinsel resmini geliştirirler. Tek ihtiyaçları olan şey, _kendi_ resimlerinin etrafında yönlendirilebilecekleri bir araçtır. Yabancı bir
 şehirde, herkes gibi yol tarifi sorarlar. Blokları ve ayrıca ne zaman sağa veya sola gideceklerini hatırlamak basittir. Tanıdık
 bir bölgede, görme yeteneği olan insanlar her sokağın adını aramazlar.
-Efendi, köpeğini "sağ", "sol" veya "ileri" sözlü komutlarıyla yönlendirir. Ancak efendiyi yönlendiren köpektir. Sol elinde hafifçe tuttuğu deri koşum takımının sapı aracılığıyla, onu yayaların, kaldırım engellerinin, otomobillerin, güvenli bir şekilde ilerlemesini engelleyebilecek her şeyin etrafından dolaştırır. Tempo hızlıdır, ortalama bir yayanınkinden
-daha hızlıdır. Sokak kavşaklarına vardığında, köpek efendisini kaldırımın kenarına götürür ve durur. Kenarı hemen ayağıyla veya bastonuyla bulur ve sonra rehberine gitmek istediği yön için gerekli komutu verir.
+Efendi, köpeğini "sağ", "sol" veya "ileri" sözlü komutlarıyla yönlendirir. Ancak efendiyi yönlendiren köpektir.
+Sol elinde hafifçe tuttuğu deri koşum takımının sapı sayesinde, onu yayaların, kaldırım engellerinin, otomobillerin, güvenli bir şekilde ilerlemesini engelleyebilecek her şeyin etrafından dolaştırır. Tempo hızlıdır, ortalama bir yayanınkinden
+daha hızlıdır. Sokak kavşaklarına vardığında köpek, efendisini kaldırımın kenarına kadar götürür ve durur. Kenarı hemen ayağıyla veya bastonuyla bulur ve ardından rehberine gitmek istediği yön için gerekli komutu verir.
 
 Köpeğin görevini yapacağına güvenilebilir. Dersleri, özellikle de kendisine kendi kendine düşünmeyi öğreten dersler, kapsamlıdır. Öğretmeninin gözlerinin bandajlandığı ve böylece pratik amaçlar için kör olduğu okulun katı "göz bağı" testinden geçmesi gerekir. Daha sonra en zor koşullar altında, sokaklarda ve kavşaklarda ve en yoğun yaya ve araç trafiğinde test edilir. Trafik ışıklarına değil, trafiğe bakar. Geçtiğinde kör efendisine hazır olarak sertifikalandırılabilir.
 
@@ -95,12 +94,12 @@ Körler için çalışan önde gelen iş adamları ve kadınlarının, Seeing Ey
 
 BAŞARININ TEMELLERİ
 
-Seeing Eye'ın çobanı etkili bir rehber yapmak için kullandığı sırlar yoktur, ancak başarının birkaç temel unsuru vardır. Birincisi deneyimdir. Seeing Eye'ın geliştirilmesine harcanan yıllar süren çalışmayla kazanılan bilgi, her öğrencinin eğitiminde kullanılır. İkinci temel unsur, dikkatlice seçilen köpeğin eğitilmesi değil, eğitilmesidir. Kendi kendine düşünmesi öğretilir ve eğitiminde daha sonra karşılaşacağı sorunlara uygulayabileceği bazı prensipler öğrenir. Sadece komutlara tepki verseydi, kör insanlara rehberlik etmekte işe yaramazdı. Bir diğer temel unsur ise çalışmayı sevmesidir. Ona göre hizmet bir görev değil, bir zevktir. Efendisinin saatleri
+Seeing Eye'ın çobanı etkili bir rehber yapmak için kullandığı sırlar yoktur, ancak başarının birkaç temel unsuru vardır. Birincisi deneyimdir. Seeing Eye'ın geliştirilmesine harcanan yıllar süren çalışmayla kazanılan bilgi, her öğrencinin eğitiminde kullanılır. İkinci temel unsur, dikkatlice seçilen köpeğin eğitilmesi değil, eğitilmesidir. Kendi kendine düşünmesi öğretilir ve eğitiminde daha sonra karşılaşacağı sorunlara uygulayabileceği bazı prensipler öğrenir. Sadece emirlere tepki verseydi, kör insanlara rehberlik etmekte işe yaramazdı. Bir diğer temel unsur ise çalışmayı sevmesidir. Ona göre hizmet bir zevktir, bir görev değil. Efendisinin saatleri
 kendisinindir. Onun en büyük tazminatı efendisinin sevgisi ve ona olan mutlak güvenidir.
 
 Kör öğrenciler, erkek ve kadın, sekiz kişilik sınıflarda okula gelirler,
 bir eğitmenin bir seferde öğretebileceği en fazla sayı. Başlıca hedefleri, pratik ve talimat yoluyla köpeği nasıl yönlendireceklerini ve onun rehberliğini nasıl takip edeceklerini öğrenmek olsa da, bazıları başka şeyler de öğrenmelidir.
-Birçoğu körlükten beri bilinen çevrelerinde yollarını bulma yeteneklerini
+Birçoğu körlükten beri bildikleri çevrede yollarını bulma yeteneklerini
 kaybettiler. Diğerleri ayaklarını sürüyerek yürüme ve vücudu öne eğilmiş ve elleri açık bir şekilde el yordamıyla yürüme alışkanlığına düştüler.
 Bazıları hiç yardımsız merdivenlerden inmedi. Bunlar, köpeğin bağımsızlık getirmesi için öğrenilmesi gereken şeylerdir. The Seeing Eye'da öğrenciye bu çaresizlik alışkanlıklarından kurtulması öğretilir, böylece
 özgüven ve cesaret yavaş yavaş geri gelir. Umutsuzluk, köpeğin efendisi için hayalini kurduğu ama bir daha asla sahip olmayı ummadığı yeni bir dünya açmasıyla yerini beklentiye bırakır.
@@ -111,7 +110,7 @@ KÖPEK VE EFENDİSİ AYRILMAZ
 
 Öğrenciye köpeği verildiği andan itibaren, ikisi birbirinden ayrılamaz.
 Başka kimse onu beslemez veya onunla ilgilenmez ve birkaç gün içinde ikisi karşılıklı bir sevgiyle birbirine bağlanır - köpeğin çalışma hayatı boyunca kopmayan bir bağ. Hatta rehberliğe gerek olmayan evle ilgili olarak bile, köpek ve adam sadece
-istedikleri için sürekli birliktedir. Hatta efendisinin yatağının hemen yanında uyur.
+birlikte olmak istedikleri için sürekli birliktedir. Hatta efendisinin yatağının hemen yanında uyur.
 
 NOT
 
@@ -154,7 +153,7 @@ otomobili evin önünde parlıyordu ve üniformalı bir şoför direksiyonda har
 "Bizimki de kesik."
 
 Harley Kent sabırsız bir hareket yaptı. "Bu, köye
-kaçmam gerektiği anlamına geliyor." Puro ağzından çıktı. "İçeriden bir işti,
+kaçmam gerektiği anlamına geliyor." Puro ağzından çıktı. "Bu içeriden bir işti,
 Doktor. O kasayı kim soyduysa, içeri nasıl girileceğini biliyordu.
 Bir kombinasyonla
 açılmıştı."
@@ -162,10 +161,9 @@ açılmıştı."
 Dr. Stone sakin bir şekilde, "Bu, onu kendi kapınızın önüne koymaktır." dedi.
 
 Harley Kent omuz silkti. "Kendin çöz. Evde sadece üç kişiydik - Donovan, şoför, hizmetçi ve ben. İki
-gün önce New York'a bazı evrakları götürmeyi unuttum. Onları getirmesi için
-Donovan'ı aradım. Kasadaydı ve ona
-kombinasyonu vermek zorundaydım. Neyse, ben köye gidiyorum. Anladığım kadarıyla siz daha
-önce polis cerrahıydınız----" Adam öksürdü.
+gün önce New York'a bazı evrakları götürmeyi unuttum. Onları getirmesi için Donovan'ı aradım. Kasadaydı ve ona
+kombinasyonu vermek zorundaydım. Neyse, ben köye gidiyorum. Anladığım kadarıyla daha
+önce polis cerrahıymışsın----" Adam öksürdü.
 
 "Evet," dedi Dr. Stone duygusuzca. "Görme yeteneğimi kaybetmeden önce."
 
@@ -173,7 +171,7 @@ kombinasyonu vermek zorundaydım. Neyse, ben köye gidiyorum. Anladığım kadar
 
 "İlginç olabilir," dedi doktor yavaşça.
 
-Harley Kent merdivenlerden indi, bir kapı çarptı ve araba uzaklaştı.
+Harley Kent merdivenlerden aşağı indi, bir kapı çarptı ve araba uzaklaştı.
 Joe direksiyondaki üniformalı adamı gördü ve kısık bir
 fısıltıyla konuştu:
 
@@ -194,9 +192,9 @@ Joe'nun kalbi küt küt atıyordu. Gitmek için bir neden. Boğazı yine boğukt
 
 "Bazı izler vardır," dedi Dr. Stone yavaş aksanıyla, "soğumazlar. "
 
-Verandada bir pipo doldurdu ve sessizce içti. Joe, tepesinde keskin, asi beyaz saçlar olan o aslan başını izlerken amcasının hiç
-heyecanlanıp
-ağlamadığını merak etti. Kıpırdandı ve bir saate baktı; ve Dr. Stone, piposundan külleri
+Verandada bir pipo doldurdu ve sessizce içti. Joe, tepesinde keskin, asi beyaz saçlar olan
+aslan başını izlerken amcasının hiç
+heyecanlanıp heyecanlanmadığını merak etti. Kıpırdandı ve bir saate baktı; ve Dr. Stone, piposundan külleri
 süpürdü, ayağa kalktı ve bir köpeğin koşum takımını
 bir çividen aşağı indirdi.
 
@@ -211,16 +209,17 @@ ve beton yürüyüş yolundan yola götürdü.
 "Hanımefendi, sağa."
 
 Köpek tereddüt etmeden sağa döndü, açık kahverengi vücudu neredeyse adamın sol bacağına
-basmıştı. Artık gitmişlerdi ve Dr. Stone'un vücudu hafifçe belinden köpeğe doğru eğilirken, sağ eli Hafifçe
-bastonunu salladı. Görme yeteneğiyle donatılmış olabilirdi, o kadar hızlı yürüyordu ki, dört ayaklı rehberine olan güveni o kadar tamdı. Joe onlara yetişmek için bacaklarını uzatmak zorundaydı. Tarlaların ve meyve bahçelerinin, çitlerin ve yabani üzüm yığınlarının yanından geçtiler. Doktorun bastonu sallanırken sonunda bir çalı duvarına değdi.
+basmıştı. Artık gitmişlerdi ve Dr. Stone'un vücudu belinden köpeğe doğru hafifçe eğilirken, sağ eli Hafifçe
+bastonunu salladı. Görme yeteneğiyle donatılmış olabilirdi, o kadar hızlı yürüyordu ki, dört ayaklı rehberine olan güveni o kadar tamdı. Joe onlara yetişmek için bacaklarını uzatmak zorundaydı. Tarlaların ve meyve bahçelerinin, çitlerin ve yabani üzüm yığınlarının yanından geçtiler. Doktorun bastonu sallanırken
+sonunda bir çalı duvarına değdi.
 
 "Kent'in yeri mi, Joe?"
 
 "Evet, efendim." Joe'nun boğazı seğiren bir nabızla zonkluyordu.
 
-Garaj yolunda bir telefon tamir kamyonu vardı. Köpek yavaşladı ve bir yana
-salındı, tasmayı çekti ve yolunu değiştirdi. Tereddüt etmeden
-Dr. Stone çekişi takip etti ve köpek onu etrafta dolaştırıp kamyonun yanından geçirdi. Hareketlerinde bir gibi görünüyorlardı.
+Garaj yolunda bir telefon tamir kamyonu vardı. Köpek yavaşladı ve
+bir yana doğru sallandı, tasmayı çekti ve yolunu değiştirdi. Tereddüt etmeden
+Dr. Stone çekişi takip etti ve köpek onu etrafta gezdirdi ve kamyonun yanından geçti. Hareketlerinde bir gibi görünüyorlardı.
 
 Çocuk şöyle dedi: "Onu bunu yaparken izlemeyi seviyorum."
 
@@ -229,10 +228,10 @@ Dr. Stone çekişi takip etti ve köpek onu etrafta dolaştırıp kamyonun yanı
 "Hayır efendim; bir telefon kamyonu. Arabasını göremiyorum."
 
 "Henüz dönmedim," dedi doktor ve sessizce ıslık çaldı. Arazide dolaştılar.
-Köpek hızlı bir şekilde adamı evin bir tarafına götürdü ve her ağaç ve çalının etrafından ustaca manevra yaptı. Arkada bir hizmetçi, ipe ıslak bir giysi astı ve onlara korkmuş bir şekilde baktıktan sonra evin içine doğru kayboldu. Rüzgar vadi boyunca esti ve
+Köpek hızlı bir şekilde adamı evin bir tarafına götürdü ve her ağaç ve çalının etrafından ustaca manevra yaptı. Arkada bir hizmetçi ipe ıslak bir giysi astı ve onlara korkmuş bir şekilde baktıktan sonra evin içine doğru kayboldu. Rüzgar vadi boyunca esti ve
 bir paltonun ıslak kolu çırpındı ve Dr. Stone'un yüzüne doğru savruldu.
 O, elini uzatıp kolu buldu ve sanki karanlık bir perdeyi delmeye ve deseni seçmeye çalışıyormuş gibi
-görmeyen gözlerine yaklaştırdı. Arılar çiçek açmış bir leylak ağacının arasından vızıldadı ve evin diğer tarafına geçtiler.
+göremeyen gözlerine yaklaştırdı. Arılar çiçek açmış bir leylak ağacının arasından vızıldadı ve evin diğer tarafına geçtiler.
 
 "Joe, orada bir çam ağacı var mı?"
 
@@ -255,22 +254,21 @@ eziyordu.
 
 "Bay Kent," dedi çocuk.
 
-Harley Kent onlara doğru koştu. "Bu köyün bir
-polis gücü olması mı gerekiyor?" diye sordu. "Kaptan Tucker'ın kahvaltıdan
-geri dönmesini yarım saat beklemek zorunda kaldım. Bir düzine cinayet
+Harley Kent onlara doğru koştu. "Bu köyde bir polis gücü olması mı gerekiyor?" diye sordu. "Kaptan Tucker'ın kahvaltıdan dönmesi için yarım saat beklemek zorunda kaldım. Bir düzine cinayet
 işlenebilirdi----" Sözünü yarıda kesti. "Bir dakika, Doktor, ve
 sizinle olacağım. Çakmağı başka bir takım elbisede bırakmış olabilirim----"
 
 "Hizmetçi birini kurumaya astı," dedi Dr. Stone.
 
-"Evet, öyle." Harley Kent aniden durdu. "İşte bu," diye ekledi ve
+"Evet, öyle." Harley Kent aniden durdu. "Bu kadar," diye ekledi ve
 gitti. Şu anda geri dönmüştü. "Orada değil. Sanırım bir
 yerde ortaya çıkar. Hadi, içeri gelin; içeri gelin. Polis çok geçmeden burada olur."
 
 Verandaya çıktılar ve Lady, körlerle çalışmak üzere eğitildiğindeki gibi, başını doğrudan garip kapının topuzunun altına koyarak durdu.
 
-"Olağanüstü bir hayvan," dedi Harley Kent hayranlıkla. "İşte, iş
-burada bitti, Doktor."
+"Olağanüstü bir hayvan," dedi Harley Kent hayranlıkla. "İşte,
+işin
+tamamlandığı yer, Doktor."
 
 Joe garip titremelerin farkındaydı. Lady, tetikte, başını yana eğdi ve meraklı bir burunla havayı kokladı. Doktor, salondan çıkan kemerli kapının girişinde durup düşüncelere dalmış gibiydi. "Bu odanın solunda bir kapı var, Kent?"
 
@@ -298,7 +296,7 @@ Dr. Stone'un yüzü duygusuzdu. "Sanırım bu sizin için bir şey ifade ediyor?
 "Donovan'ın uzun boylu bir adam olduğunu söylesem sizin için ne ifade ederdi?"
 
 Doktorun kör gözleri, sanki diğer adamlara
-reddedilen bir şeyi görüyormuş gibi dümdüz öne sabitlenmişti. "Donovan kendisinden şüphelenildiğini biliyor mu?"
+reddedilen bir şey görmüş gibi dümdüz ileri bakıyordu. "Donovan kendisinden şüphelenildiğini biliyor mu?"
 
 "O kadar da aptal değil."
 
@@ -309,7 +307,7 @@ gıcırdadı.
 "Odanın her yerinde gevşek tahtalar vardı," diye açıkladı Harley Kent. "Onları
 çiviletmekle hiç uğraşmadım. Bu odadaki kasayla
 onlara hırsız alarmı olarak baktım. Yine de, dün geceki fırtınanın gürültüsünde, bir gülle yere yuvarlanmış olabilir ve
-yukarıdaki hiç kimse duymamış olabilir." Elleri yenilgiyi kabullenmiş bir şekilde gösterdi. "Planlarının ne kadar sağlam olduğunu düşünürsen düşün, asla
+yukarıdaki hiç kimse duymamış olabilir." Elleri yenilginin kabullenmiş bir hareketini yaptı. "Planlarının ne kadar sağlam olduğunu düşünürsen düşün, asla
 emin olamazsın."
 
 "Hayır," dedi Dr. Stone yavaşça, "her zaman bir kayma olur."
@@ -321,7 +319,7 @@ bir fren gıcırtısı ile durdu.
 Kent acı bir alaycılıkla. "Donovan'ı sorgulamak isteyecektir. Eğer
 sakıncası yoksa, Doktor----"
 
-"Elbette." Doktor kararsız bir adım attı ve durakladı. "Yönümü
+"Elbette." Doktor belirsiz bir adım attı ve durakladı. "Yönümü
 kaybettim sanırım, Kent. Kapıya kadar kolunu uzatır mısın?"
 
 Joe boş boş onu takip etti. Amcasının bir kez yerleştikten sonra
@@ -330,8 +328,8 @@ oda, tüm temelleriyle birlikte, haritalanmıştı. Ve
 ana hatları net bir zihne
 basılmamış olsa bile, adamın tek yapması gereken,
 "Hanımefendi, dışarı!" demekti ve köpek onu kapıya kadar götürürdü. Neden
-Harley Kent'in
-kolunu tutsun ki?
+Harley Kent'in kolunu
+tutsun ki?
 
 Verandada bulunan Yüzbaşı Tucker, bir selamlama konuşması yaptı ve içeri girdi.
 Kapı kapandı. Çakıl taşlarının sonunda, araba yolunun yola
@@ -361,7 +359,7 @@ hırsızın ölüleri uyandırmadan o odadan nasıl geçebildiğini anlayamıyor
 O zeminin gıcırdaması----"
 
 "Kent fırtınanın diğer tüm sesleri bastırdığını söylüyor." Doktorun ağzının köşeleri sertleşmişti. "Senin ve Kent'in ziyaret
-konusunda olduğunuzu bilmiyordum."
+konusunda olduğunu bilmiyordum."
 
 "Değiliz. "
 
@@ -371,7 +369,7 @@ konusunda olduğunuzu bilmiyordum."
 beni çağırdı----"
 
 Ses kesildi ve Joe kuyumcunun gözlerinin ona anlamlı bir şekilde
-durduğunu gördü. Kızaran çocuk, kulak mesafesinden uzaklaştı ve bir mağaza
+durduğunu gördü. Kızaran çocuk, kulak mesafesinden çıktı ve bir mağaza
 vitrine dalmış gibi yaptı. Hemen ardından amcası ona seslendi ve
 sokağın aşağısındaki Stevenson'ın dükkanına gittiler ve Joe adamın ağzının etrafındaki sıkı çizgilerin çok daha derin olduğunu gördü.
 
@@ -388,12 +386,11 @@ söylemiş olmalı."
 mücevher hırsızı varken, Bir arkadaşınla sohbet etmek için durması muhtemel. Donovan'ı tutuklamadın mı?"
 
 "H--hayır. Bir adamın suçlu olduğundan oldukça emin olsan bile, en azından bir kanıtın olmadığı sürece onu soygundan tutuklayamazsın. Hiçbir
-kanıt yok--hiçbir şey yok. Ve bir mazereti var. O ve hizmetçinin evin aynı kanadında odaları var. Hizmetçi dün gece uyuyamadığını ve kapısı yarı açıkken oturup kitap okuduğunu söylüyor. Donovan'ın görülmeden veya duyulmadan o kapıdan geçemeyeceğini söylüyor. Hizmetçi doğruyu söylüyorsa, Donovan hırsız olamaz; doğruyu söylemiyorsa, ikisi de işin içinde. Neyse, Donovan'ı tutuklarsak, kolye ne olacak? Mümkünse onu geri almak istiyoruz."
+kanıt yok--hiçbir şey yok. Ve bir mazereti var. O ve hizmetçinin evin aynı kanadında odaları var. Hizmetçi dün gece uyuyamadığını ve kapısı yarı açıkken oturup kitap okuduğunu söylüyor. Donovan'ın görülmeden veya duyulmadan o kapıdan geçemeyeceğini ısrarla söylüyor. Hizmetçi doğruyu söylüyorsa, Donovan hırsız olamaz; doğruyu söylemiyorsa, ikisi de işin içindedir. Neyse, Donovan'ı tutuklarsak, kolye ne olacak? Mümkünse onu geri almak istiyoruz."
 
 "Ama Donovan'ın yaptığını mı düşünüyorsun?"
 
-"Peki, Doktor, bir bakalım. Daha önce hiç bütün gece oturup okumadığını itiraf ediyor. Kapısını
-daha önce hiç açık bıraktığını hatırlamıyor. Peki, dün gece kasa soyulduğunda neden bu iki şey de olmak zorundaydı?"
+"Peki, Doktor, bir bakalım. Daha önce hiç bütün gece oturup okumadığını itiraf ediyor. Daha önce kapısını açık bıraktığını hiç hatırlamıyor. Peki, dün gece kasa soyulduğunda neden bu iki şey de oldu?"
 
 "Kulağa oldukça uygun geliyor," dedi Dr. Stone.
 
@@ -410,8 +407,8 @@ amcasını ve köpeği takip etti. Harley Kent'in arabası araba yolunda duruyor
 
 "İçeri mi giriyoruz?"
 
-"Bazen," dedi doktor gizemli bir şekilde, "bir eriği düşene kadar
-asmak en iyisidir." Baston hızlı bir hareket yaptı. "Bu gece, Joe."
+"Bazen," dedi doktor gizemli bir şekilde, "bir erik düşene kadar
+asılmak en iyisidir." Baston hızlı bir hareket yaptı. "Bu gece, Joe."
 
 Çocuk için gece çok uzaktaydı. Mahallede, neredeyse burunlarının dibinde bir suç işlenmişti ve suç mahalli onu heyecanlı, hastalıklı bir merakla çekti. Öğleden sonra geç saatlerde
 Kent'in yerine geri yürüdü ve çitin dışında oyalandı. Bir araba içeri girdiğinde ve iki Eyalet polisi indiğinde oradaydı. Kemerli üniformalarıyla zayıf ve düzgün görünüyorlardı, yetenekli ve korkutucu görünüyorlardı; ve gözleri büyülenmiş bir şekilde kalçalarındaki çıkıntılara yapışmıştı. Bir saat sonra evden çıktılar ve Donovan da yanlarındaydı. Şoför araba uzaklaşırken hala yanlarındaydı.
@@ -422,9 +419,9 @@ Joe eve doğru koştu. "David Amca! Donovan'ı tutukladılar."
 
 "Hayır; Eyalet polisleri. Onu götürdüklerini gördüm."
 
-"Bekliyordum," dedi Dr. Stone yumuşak bir sesle. Onu izleyen Joe, şu anda verandadaki sandalyenin derinliklerinde huzur içinde uyuduğunun farkındaydı. Aynı şekilde
-dünyanın ışığından mahrum kalan körler de dünyayı
-kapatabilir ve neredeyse anında uykuya dalabilir.
+"Bekliyordum," dedi Dr. Stone yumuşak bir sesle. Onu izleyen Joe, şu anda verandadaki sandalyenin derinliklerinde huzur içinde uyuduğunun farkındaydı.
+Dünyanın ışığından mahrum kalan körler de dünyayı
+kapatıp neredeyse anında uykuya dalabilir.
 
 Ama akşam yemeği vakti adam canlı bir şekilde uyanmıştı. Onu bir cerrah yapan güçlü, esnek elleri aniden huzursuz ve gergindi.
 
@@ -433,8 +430,7 @@ Deri tabanlar çok fazla ses çıkarıyor."
 
 Emir gizemli ve macera dolu bir sese sahipti. Joe yukarı odasına doğru koştu. Aşağı indiğinde gün bitmişti ve kırsalda karanlık vardı. Leydi çoktan koşumlanmıştı. Çocuk yolda amcasının koluna
 tutundu ve aceleyle ilerledi. Burada, gece duvarına doğru yürürken,
-kendi başına yavaş gitmek zorunda kalacaktı. Fakat amcasına gece hiçbir değişiklik sunmuyordu, ne de yeni bir engel yaratıyordu. Çünkü Dr. Stone için
-dünya her zaman karanlık ve siyahtı. Gündüz veya gece yoktu.
+kendi başına yavaş gitmek zorunda kalacaktı. Fakat amcasına gece hiçbir değişiklik sunmuyordu, ne de yeni bir engel yaratıyordu. Çünkü Dr. Stone için dünya her zaman karanlık ve siyahtı. Gündüz veya gece yoktu.
 
 Kent'in arabası garaj yolundan gitmişti. Dr. Stone şöyle dedi: "Sakin ol, Joe;
 çimlerin üzerinde yürü. Işık var mı?"
@@ -455,16 +451,18 @@ Joe evin siyah kütlesinin, ağaç olan siyah bir kulenin ve çimenlerin üzerin
 
 "Hanımefendi, yine," diye ısrar etti Dr. Stone. "Ara. Getir."
 
-Ne için? Joe beynini zorladı ve bir cevap bulmaya çalıştı. Bir keresinde köpeğin yumuşak kokusunu duydu ama göremedi. Birdenbire amcasının yanındaydı, daha önceki gibi hareketsiz. Ne kadar zamandır orada olduğunu bilmiyordu.
+Ne için? Joe beynini zorladı ve bir cevap bulmaya çalıştı. Bir keresinde köpeğin yumuşak kokusunu
+du ama göremedi. Birdenbire amcasının yanındaydı, daha önceki gibi hareketsiz. Ne kadar zamandır orada olduğunu
+bilmiyordu.
 
 "Şimdi eve gidelim," dedi Dr. Stone.
 
 Verandaya geçip zili çaldılar. Oturma odası bir anda aydınlandı ve Harley Kent kapıyı açtı.
 
-"Sizin de orada olabileceğinizi düşünmüştüm, Doktor. İçeri gelin; içeri gelin. Görünüşe göre bu işi
-temizledik."
+"Sizin de orada olabileceğinizi düşünmüştüm, Doktor. İçeri gelin; içeri gelin. Görünüşe göre
+bu işi hallettik."
 
-"Sonra kolye bulundu mu?" diye sordu Dr. Stone.
+"O zaman kolye bulundu mu?" diye sordu Dr. Stone.
 
 "Hayır--tam olarak değil. Donovan'ı terletecekler ve onu başarmaya zorlayacaklar. Onu bu öğleden sonra götürdüler."
 
@@ -477,7 +475,7 @@ tutukla. Hizmetçi kaydı."
 "Hizmetçi mi?"
 
 "Evet. Onu azar azar ondan çıkardılar. Donovan onunla
-evlenmesini istiyordu. Dün onunla evlenmesi ve hemen Batı'ya gitmesi için ısrar etti. Kulağa şüpheli geldi, Doktor. Şu anda işsiz olan bu kadar çok insan varken,
+evlenmesini istiyordu. Dün ona evlenmesi ve hemen Batı'ya gitmesi için ısrar etti. Kulağa şüpheli geldi, Doktor. Şu anda işsiz olan bu kadar çok insan varken,
 bir adam neden evlenip hemen işini bıraksın ki? Bunu yapmak için epey parası olması gerekirdi--ve Donovan'ın hiç parası yoktu. Yoksa
 çok hızlı bir şekilde nasıl para toplayabileceğini bilmesi gerekirdi. Anladın mı?"
 
@@ -487,12 +485,12 @@ bir adam neden evlenip hemen işini bıraksın ki? Bunu yapmak için epey paras�
 
 "Elbette bu arkadaşının mektubu vardı?"
 
-Harley Kent güldü. "Sen o kadar kolay kandırılamazsın, Doktor?
+Harley Kent güldü. "Siz o kadar kolay kandırılmıyorsunuz, Doktor?
 Elbette hayır. Kaybettiğini söyledi. Bu yüzden polisler onu götürdü."
 
 "Bu kadar," dedi Dr. Stone bir sessizlikten sonra.
 
-"Kesinlikle. Ve şanslı olan kız konuştu. O ana kadar
+"Kesinlikle. Ve şanslı olan şey kızın konuşmasıydı. O ana kadar
 hiçbir şeyimiz yoktu. Parmak izi yok, pencerenin nasıl zorlandığına dair hiçbir işaret yok,
 gerdanlıktan eser yok. Sadece açık bir pencere ve açık bir kasa. Sanki bir kuş uçup gelmiş ve mücevherlerle birlikte uçup gitmiş gibiydi."
 
@@ -511,7 +509,7 @@ Baston yere vurmayı bırakmıştı. "Bir sonraki adım," dedi Dr. Stone yumuşa
 Elektrikli bir şey, söylenmemiş bir şey havada asılı kaldı ve Joe garip bir ürpertiyle
 titriyordu. O şey her neyse, Leydi'ye sesleniyordu. Köpek huzursuzlandı ve gırtlağından homurdandı.
 
-"Sanırım gidiyoruz, Kent," dedi doktor.
+"Sanırım gideceğiz, Kent," dedi doktor.
 
 "İyi geceler," dedi Harley Kent.
 
@@ -523,11 +521,11 @@ ayak ötede durdu. "Evi buradan görebiliyor musun?"
 "Aşağıdaki ışıklar ne zaman sönecek söyle." Adam piposunu buldu ve
 kibriti çubuğa çaktı.
 
-Bir kırlangıç ​​kuşu gece boyunca müzikal bir şekilde öttü ve mesafe bir baykuşun
+Bir kırlangıç ​​kuşu gece boyunca melodik bir şekilde öttü ve mesafe bir baykuşun
 uykusunu yumuşattı. Çayırda kurbağalar vırakladı ve bir tavşan çalılıkta kıpırdandı. Joe bir ayağından diğerine geçti ve bundan sonra ne olacağını merak etti.
 Şehre doğru giderken iki kez arabalar yanlarından geçti ve tepeden aşağı bir köpek
-uladı. Sonra, hiçbir uyarı olmadan, aşağı kattaki pencerelerin dikdörtgenleri
-kayboldu ve çatı gökyüzüne karşı koyu bir leke oldu.
+uladı. Sonra, hiçbir uyarıda bulunmadan, aşağı kattaki pencerelerin dikdörtgenleri
+kayboldu ve çatı gökyüzüne karşı koyu bir lekeye dönüştü.
 
 "Işıklar söndü," diye fısıldadı çocuk.
 
@@ -542,20 +540,19 @@ yolumda olabilirsin. Koş, sana sabah her şeyi anlatırım."
 
 "Eğer yok. Hanım geldi ve ben tamamen iyi olacağım. Hadi, şimdi git."
 
-Çocuk başka bir şey söylemeden uzaklaştı. Bir kez geriye baktığında amcasının
+Çocuk başka bir şey söylemeden uzaklaştı. Bir kez geriye baktı ve amcasının
 sadece şeklini seçebildi. Tekrar geriye baktı ve adamla köpek
 gitmişlerdi. Adımları yavaşladı ve durdu. Dinleyerek durdu.
 
 Kırlangıç ​​kuşu ötmeyi bırakmıştı ve sadece kurbağaların korosu gecenin sessizliğini
-bozuyordu. Çok geçmeden tekrar hareket etti, geldiği yöne doğru. Gizlice ilerlemesi neredeyse sessizdi. David Amca ona çam ağacına fark edilmeden gidebilmeleri için bunları
-takmasını mı söylemişti? Neden ağaç?
+bozuyordu. Çok geçmeden tekrar hareket etti, geldiği yöne doğru. Gizlice ilerlemesi neredeyse sessizdi. Amca David, çam ağacına fark edilmeden gidebilmeleri için
+onlara bunları takmasını mı söylemişti? Neden ağaç?
 
 Adamla köpek bıraktığı yerden gitmişti. Ağaç aklında kaldı. Garaj yolundan kaçınarak çimenlerin üzerinden süründü.
 Geceden daha karanlık, karanlık bir sütun ileride belirdi. Ağaçtı.
 Yere
 çöktü ve dizlerini kucaklayarak oturdu ve neredeyse
-nefes almaktan
-korktu.
+nefes almaktan korkuyordu.
 
 Ay yoktu ve karanlık, belirsiz alarmlarla doluydu. Donovan
 muhtemelen bir hücredeydi, kafeste ve çaresizdi. Hizmetçiye ne olacaktı? Ve neden Amca David ile Harley Kent arasında asılı duran o elle tutulamayan şey? Kasıldı ve pozisyonunu değiştirdi. Geç
@@ -569,7 +566,7 @@ Bastırılmış, neredeyse belirsiz bir
 sıkıntı olmuştu.
 
 Yine sessizlik, karanlık ve o belirsiz alarm. Sessizlik acı verici hale geldi. Aşağıya doğru çırpınan bir yaprak yüzüne dokundu ve kemiklerinde bir ürperti dolaştı. İlkbaharın başlarında bir yaprak neden ağaçtan düşsün ki?
-Ve sonra sessizlik bir çınlamayla bozuldu:
+Ve sonra sessizlik bir çınlama sesiyle bozuldu:
 
 "Kent, olmaz."
 
@@ -585,7 +582,10 @@ dokundu.
 Çocuk utanarak ayağa kalktı ve amcasının kolunu tuttu. "Orada olduğumu
 nasıl bildin?"
 
-"Kulak--kör bir adamın kulakları. Sen içeri girdiğinde Leydi sessiz kaldı. Bu, güvendiği birini tanıdığı anlamına geliyordu. Tek bir cevap olabilirdi--sen. Her şeyi mahvetmiş olabileceğinin farkında mısın? Bu yüzden seni eve gönderdim. Evin dışından gelen tek bir şüpheli ses ve avımız alarma geçebilirdi."
+"Kulak--kör bir adamın kulakları. Sen içeri girdiğinde Leydi sessiz kaldı. Bu,
+güvendiği birini tanıdığı anlamına geliyordu. Tek bir
+cevap olabilirdi--sen. Her şeyi mahvetmiş olabileceğinin farkında mısın? Bu yüzden
+seni eve gönderdim. Evin dışından gelen tek bir şüpheli ses ve avımız alarma geçebilirdi."
 
 Joe dudaklarını ıslattı. "Bay Kent miydi?"
 
@@ -615,7 +615,7 @@ arazide dolaştık. Tamamen şans eseriydi. Islak elbiseyi bulduk. Sana orada bi
 "Neden, David Amca?"
 
 "Çünkü o takım elbise çam kokuyordu. Ağacın evden sadece altı
-ayak uzakta olduğunu ve çok dallı olduğunu gördük, bu da bazı dalların eve yakın büyüdüğü anlamına geliyordu. Ve şimdi yağmurda bir soygun, bir çam ağacı ve çamur kokan bir Harley Kent takımımız vardı. Gerçekler birbiriyle alakasızdı, ancak ağacın soygunda bir
+ayak uzakta olduğunu ve çok dallı olduğunu gördük, bu da bazı dalların eve yakın büyüdüğü anlamına geliyordu. Ve şimdi yağmurda bir soygun, bir çam ağacı ve çamur kokan bir Harley Kent takımımız vardı. Gerçeklerin hepsi birbiriyle alakasızdı, ancak ağacın soygunda bir
 rol oynayıp oynamadığını merak etmeye başladım.
 
 "Sonra Kent geri geldi ve ilk düşüncesi ıslak elbisenin içinde kayıp çakmağı aramaktı. Elbiseden bahsettiğimde,
@@ -625,13 +625,14 @@ Bir sesteki ses tonlarını hemen yakalarlar. Rahatsız olduğunu biliyordum
 Çılgın bir sağanak yağmurdan sonra ıslak giysiler nadir değildir.
 
 "Tütün almak için şehre gittik ve Tom Bloodgood'la karşılaştık. Bu da
-başka bir şanstı. Çünkü Bloodgood bana Kent'in onu bir kolyeyi değerlendirmek için eve çağırdığını söyledi. Mücevher piyasası geçen yıl düşüşteydi ve Tom Kent'e yaklaşık 15.000 dolarlık bir değer biçti. Bloodgood bana bunu söylediği anda
+başka bir şanstı. Çünkü Bloodgood bana Kent'in onu bir kolyeyi değerlendirmek için eve çağırdığını söyledi. Mücevher piyasası geçen yıl düşüşteydi ve
+Tom Kent'e yaklaşık 15.000 dolarlık bir değer biçti. Bloodgood bana bunu söylediği anda
 resmi gördüğümü sandım.
 
 "Kent bir piyasa spekülatörü. Görünüşe göre vurulmuştu ve paraya ihtiyacı vardı.
 Görünüşe göre New York'ta kolyenin değerlendirilmesini istemiyordu
 orada oldukça iyi tanınıyordu--bu tür şeyler sızıyor ve bazen bir adamın kredisini etkiliyor.
-Gerçeğin piyasada ne getireceğini öğrendikten sonra biraz düşünmüş olmalı. Eğer satarsa ​​15.000$ kazanacaktı. Eğer çalınırsa sigorta şirketinden 25.000$ alacaktı. Polisi aramak için tıraş olmasının ve iki saat beklemesinin sebebi önemli hale geldi. Kent'in uygun bir soygun düzenlediği izlenimi oluşmaya başladı. Mücevherleri tahsil edip hala saklayabilirdi. Daha sonra kolyeyi parçalayıp incileri ayrı satabilirdi. Daha önce de böyle şeyler
+Gerçeğin piyasada ne getireceğini öğrendikten sonra biraz düşünmüş olmalı. Eğer satarsa ​​15.000$ kazanacaktı. Eğer çalınırsa sigorta şirketinden 25.000$ alacaktı. Polisi aramak için tıraş olmasının ve iki saat beklemesinin sebebi önemli hale geldi. Kent'in uygun bir soygun düzenlediği izlenimi oluşmaya başladı. Mücevherleri tahsil et ve hala saklayabilirdi. Daha sonra kolyeyi parçalayıp incileri ayrı satabilirdi. Daha önce de böyle şeyler
 yapılmıştı."
 
 "Neden Yüzbaşı Tucker'a söylemedin, David Amca?"
@@ -704,16 +705,16 @@ bir yere koyabiliyorken?"
 İş bitmişti ve araba garajdan geri geri çıktı. Jerry
 ofise geldi.
 
-"İnsanlar bundan sonra ne düşünmeyecek?" diye sordu. "Balıkçı arkadaşlar, o ikisi az önce dışarı çıkan. Horseshoe Gölü'nü denemek için durdu. Zemin tahtalarının altına cıvatalanmış uzun bir metal kutu aldım. Gözden uzak ve
-yoldan uzak. O kutuda yüz pound ve buz için yer var."
+"İnsanlar bundan sonra ne düşünmeyecek?" diye sordu. "Balıkçı arkadaşlar, o ikisi az önce dışarı çıkan. Horseshoe Gölü'nü denemek için durdu. Zemin tahtalarının altına cıvatalanmış uzun bir metal kutu aldım. Gözden uzak ve yoldan
+uzak. O kutuda yüz pound ve buz için yer var."
 
 "Balık mı?" diye sordu Dr. Stone sertçe.
 
-Garaj görevlisi kıkırdadı. "Elbette; tekerlekli normal bir buz kutusu. Neden
-burada balık tutmak için topluyorlar? Yıllardır Horseshoe'dan hiç kimse bir levrek çıkarmadı,
+Garaj görevlisi kıkırdadı. "Elbette; tekerlekli normal bir buz kutusu. Balık tutmak için
+burayı nasıl seçiyorlar? Yıllardır Horseshoe'dan hiç kimse bir levrek çıkarmadı,
 ve lanet olsun birkaç turna balığı. Şu oltayı tamir ettirmek ister misin?"
 
-Pompalarda bir korna çaldı. Jerry oltayı indirdi ve aceleyle dışarı çıktı ve
+Pompalarda bir korna çaldı. Jerry oltayı indirdi ve dışarı koştu ve
 Dr. Stone kapıya yürüdü. Boğuk bir ses şöyle dedi: "İki quart orta boy." Bir an sonra ses sertçe hırıltılı bir şekilde: "Şu
 mahalleden
 uzaklaş. Yağ için bir kutu getirdiğimi görmüyor musun?"
@@ -725,8 +726,7 @@ uzaklaş. Yağ için bir kutu getirdiğimi görmüyor musun?"
 Araba yuvarlandı ve geceyi egzozunun alçak, pürüzsüz gürültüsüyle doldurdu.
 Doktorun kulakları sesleri kaydetti ve katalogladı. Sadece
 yüksek fiyatlı bir motor böyle ses çıkarabilirdi ve sadece bir teneke parçası
-araba sarsılırken
-sarsılabilirdi. Kör adamın ağzının köşelerinde tuhaf bir dikkat seğirdi.
+araba sarsılırken takırdıyordu. Kör adamın ağzının köşelerinde tuhaf bir dikkat seğirdi.
 
 "Bu tuhaf," diye gözlemledi Jerry. "Sıralı iki araba ve ikisinin de
 gizli bir şeyleri vardı. Bu son kazan yedi-sekiz yaşındaydı ve
@@ -735,9 +735,9 @@ güçlüydü ve kimsenin görmemesi için endişeliydi. Siz ne düşünüyorsunu
 
 "Tesadüf," dedi doktor hafifçe. İki araba ve her birinde
 gizli bir şey vardı. Hanımın kuyruğu yere çarptı ve Joe Morrow ofise
-girdi ve etrafta dikildi. Görünmeyen bir dünyayı sesten
-kayıt eden doktorun kulakları, çocuğun huzursuz ayaklarının temposunu yakaladı. Bir şeyle
-patlayan, kör adam karar verdi. Çubuk sonunda onarıldı, adam, çocuk ve
+girdi ve etrafta dikildi. Doktorun kulakları, sesten görünmeyen bir dünyayı
+kayıt ederek, çocuğun huzursuz ayaklarının temposunu yakaladı. Kör adam, bir şeyle
+patlayarak, diye karar verdi. Çubuk sonunda onarıldı, adam, çocuk ve
 köpek sokağa çıktı ve Hanım onları göle doğru götürdü.
 
 Joe'nun sesi titriyordu. "Tam geri döndüğümde bir araba çıktı, David Amca. Ana caddeden ayrılan ve kavakların arkasındaki çukura inen ve bankanın arka kapısına kadar uzanan o Arnavut kaldırımlı yolu biliyor musun?"
@@ -761,11 +761,11 @@ tekneyi sabitledi ve amcasına yardım etti. Çocuk neredeyse sessiz bir
 darbeyle kürek çekti ve hemen kürekleri çekip demir attı. Ve
 sonra yayın balığının ısırmasını beklediler.
 
-Joe, gece gökyüzüne yansıyan bir ışık şeridiyle Ana Cadde'yi işaretledi.
+Joe, gece gökyüzüne yansıyan bir ışık şeridiyle ana caddeyi işaretledi.
 Su tekneye çarpıyordu ve hareket eden ışıklar
 uzaktaki gişe köprüsünde sürünüyordu. Dr. Stone, "Pek fazla hareket yok, Joe," dedi ve bir arabanın farları göle doğru ilerledi.
 Tahtaların yakınında durup
-kendilerini dışarı attılar. Biraz sonra kürekler gıcırdadı ve yüksek sesle sıçradı,
+kendilerini dışarı attılar. Bir süre sonra kürekler gıcırdadı ve yüksek sesle sıçradı,
 karanlık bir şekil gişe köprüsüne doğru hareket etti ve suyun üzerinden sesler geldi.
 
 "Neden gişe köprüsü, Rog?" diye sordu keskin ses.
@@ -791,26 +791,23 @@ bulmasına izin veririz."
 
 Joe bir ısırık aldı ve balığını kaçırdı. Bu yüzden bu iki adam, her kimseler,
 John adında biriyle saklambaç oynamayı planladılar. Ama aklı,
-şu anda, güçlü motoru olan eski arabaya geri döndü.
-
-Kabakların arkasındaki Arnavut kaldırımlı yolda iki kez gizlenmişti ve
-ana caddeden görülemiyordu.
+şu anda, kavakların arkasındaki Arnavut kaldırımlı yolda iki kez gizlenmiş olan ve Main Caddesi'nden görülemeyen
+güçlü motorlu eski arabaya geri döndü.
 
 "Sence o araba orada ne yapıyordu, David Amca?" diye sordu çocuk.
 
 "Bilseydim," dedi Dr. Stone kuru bir şekilde, "bu oltaya daha fazla dikkat edebilirdim."
 
 Çocuğun omurgası boyunca karıncalanan bir titreme geçti. Bu yüzden David Amca o
-garip araba için endişelenmeye değer buldu! Bayan tekneye bindi ve
-düz tabanlı tekne sallanıp yalpaladı. Balıklar yemiyordu ve
-köpek muhtemelen sıkışmıştı. Çocuk çapayı çekti. Gece boyunca sabit, ritmik bir sıçrama sesi duyuldu.
+garip arabanın endişelenmeye değer olduğunu düşündü! Bayan tekneye bindi ve düz tabanlı tekne sallanıp yalpaladı. Balıklar yemiyordu ve köpek muhtemelen sıkışmıştı. Çocuk çapayı çekti. Gece boyunca sabit, ritmik bir sıçrama sesi duyuldu.
 
 "Geri dönüyorlar," dedi Dr. Stone.
 
 Joe'nun kürekleri neredeyse hiç kıpırdamadı. Tahtaya bağlı olarak, amcasına tekneden
 inmesine yardım etmeden önce kürekleri çekti. "Balık yok ve bir milyon
 sivrisinek ısırığı," diye mırıldandı doktor ve sazlıkların arasından ıslak patikaya doğru ilerlediler. Kürekler arkalarında takırdadı ve biri tahtaya
-bastı. Göle paralel olan çukurlu yolun üzerindeki yüksek otların arasında bir araba park edilmişti; karanlıkta bile parlak bir boya ve parlak metal parıltısı vardı. Leydi'nin koşum kayışlarından biri gevşemişti.
+bastı. Göle paralel olan çukurlu yolun üzerindeki yüksek otların arasında bir araba park edilmişti; karanlıkta bile parlak bir boya ve
+parlak metal parıltısı vardı. Leydi'nin koşum kayışlarından biri gevşemişti.
 Doktor onu sıkmak için eğildi ve tahtaya doğru ayak sesleri geldi.
 
 "Rog!" diye bağırdı keskin ses. "Arabada biri var."
@@ -825,7 +822,8 @@ tüylerle buluştu.
 
 Dr. Stone ayağa kalktı. "Lütfen tehdit etmeyin," dedi soğukkanlılıkla.
 
-Joe, kör amcasının bu bilinmeyen tehlikeyle, sakin bir şekilde yüzleşebilmesine hayret etti. Ama sonra, tabii ki, Leydi vardı. Köpek, sinirlenmiş bir yay gibiydi.
+Joe, kör amcasının bu bilinmeyen tehlikeyle
+sarsılmaz bir sakinlikle yüzleşebilmesine hayret etti. Ama sonra, tabii ki, Leydi vardı. Köpek, sinirlenmiş bir yay gibiydi.
 
 Rog adlı adam öfkeye kapıldı. "Senin yumuşak konuşmaların yok. O arabada ne yapıyorsun? Tanrı aşkına, eğer----"
 
@@ -837,7 +835,7 @@ takılmış gibi durdu.
 Leydi, derin bir uyarıyla homurdanmaya devam etti. Bir şekil hızla geri çekildi ve Rog'un sesindeki ölümcül ürperti kayboldu, o cana yakın ve yumuşaktı.
 
 "Binlerce özür dilerim efendim. Bir arabayı kaldırıp
-lastiklerini çalma işi çok yaygınlaştı----. Anlıyor musunuz, efendim?"
+lastikleri çalma işi çok yaygınlaştı----. Anlıyor musunuz efendim?"
 
 "Mükemmel," dedi Dr. Stone yumuşak bir şekilde ve köpeği susturdu. Araba geri geri
 döndü ve çukurlarda sendeledi, ancak yola iyice
@@ -870,7 +868,7 @@ Joe'nun çok iyi tanıdığı o dikkatli bakış doktorun ağzının köşelerin
 Ve Carl Metz bir Alman ismiydi. Joe'nun sinirlerinde yavaş bir heyecan
 titredi ve kör amcasını ve köpeği sessiz sokaktan yukarı takip etti.
 
-"Boğuk sesli adam kim, David Amca?"
+"Kısık sesli adam kim, David Amca?"
 
 "Onu gördün."
 
@@ -928,11 +926,19 @@ Doktorun kulakları, sadece kör bir adamınki kadar keskindi, öfkeli adımlard
 
 "Arnavut kaldırımlı yol mu?"
 
-"Evet, efendim. "Çocuğun nefesi daha kolaydı. "Pamuk ağaçlarının arkasındaki, Main Caddesi'nden göremediğiniz o çukurda. Kaptan Tucker, şoförle birlikte vagondaydı. Çukura girdiklerinde kan gölünde yatan bir adam gördüler. Dışarı atladılar ve sadece doldurulmuş bir figürdü ve kan kırmızı boyaydı. Göremedikleri biri ellerini kaldırmalarını söyledi ve Kaptan Tucker dönmeye başladı ve bir kurşun şapkasını düşürdü."
+"Evet, efendim. "Çocuğun nefesi daha kolaydı. "Ana caddeden göremediğiniz
+pamuk ağaçlarının arkasındaki oyukta. Kaptan Tucker
+şoförle birlikte vagondaydı. Oyuğa girdiklerinde kan gölünde yatan bir adam
+vardı. Dışarı atladılar ve sadece doldurulmuş bir
+figürdü ve kan kırmızı boyaydı. Göremedikleri biri
+ellerini kaldırmalarını söyledi ve Kaptan Tucker dönmeye başladı ve bir kurşun
+şapkasını uçurdu."
 
 "Ve bundan sonra ellerini kaldırmaya devam etti?"
 
-"Evet efendim. Sonra kafasına bir torba ve şoförün başına bir torba geçirdiler ve onları bağlayıp kamyona attılar. Sonra biri onları buldu ve para bitti."
+"Evet efendim. Sonra kafasına bir torba ve şoförün başına bir torba geçti,
+ve bağlanıp kamyona atıldılar. Sonra biri onları
+buldu ve para bitti."
 
 "Çok mu?"
 
@@ -972,11 +978,11 @@ dakikalık düşünceden sonra ofise girdi, masanın etrafında telefonu aradı 
 
 "Ike, ben Dr. Stone. Carl Metz'i bulup telgrafı ilettiniz mi?"
 
-"Ben iletmedim. Adı John olan bir adam bulamadım."
+"Ben iletmedim. Bu isimde bir adam bulamadım."
 
-"Bu adam geldi mi John?"
+"Bu John adlı adam geldi mi?"
 
-"Eğer geldiyse hayalettir. Treni, iyi balık tutmak için Horseshoe'a gelenin kim olduğunu görmek için izledim ve bir yabancı inmedi."
+"Eğer geldiyse, o bir hayalettir. Treni, iyi balık tutmak için Horseshoe'a gelenin kim olduğunu görmek için izledim ve bir yabancı inmedi."
 
 "Treni saat kaçta geldi?"
 
@@ -984,7 +990,7 @@ dakikalık düşünceden sonra ofise girdi, masanın etrafında telefonu aradı 
 
 Dr. Stone'un sesi vericiye çarptı. "Bu, New York'tan 8:11'de ayrılan tren mi?"
 
-"Aynı," dedi Ike; "Hayır. 5 tren bileti ve bagaj vagonunda çalınan para."
+"Aynı," dedi Ike; "Hayır. Tren sayfasında 5 ve bagaj vagonunda çalınan para."
 
 Alıcı kancaya geri döndü. Kör adam ayağa kalktı.
 
@@ -1038,13 +1044,13 @@ Sinirlenen adam aniden öfkelendi. "Bakın, Doktor, eğer hangi araba olduğunu 
 
 Bir araba gişede durdu ve Sid Malloy gişeleri toplarken
 Kaptan Tucker kapıları açtı ve içeriyi inceledi. Bir köy kilisesinin kulesindeki saat üçü vurdu ve öğleden sonraki trafik yoğunlaştı
-ve köprüde birleşti. Arabalar köprüye yaklaşırken
+ve köprüye doğru yöneldi. Arabalar köprüye yaklaşırken
 durdu ve tekrar ilerledi ve ses büyük bir
-makinenin ritmi gibiydi.
+makinenin ritmine benziyordu.
 
 Kaptan Tucker tarafından unutuldu, çünkü yapılacak çok iş vardı ve polis memuru otomobilleri araştırmakla meşguldü, Dr. Stone ve Leydi
 gişe kapısının hemen dışında duruyorlardı. Kurutulmuş bir piponun dumanı
-esintiyle mavi ve hoş kokulu bir şekilde sürükleniyordu. Gişenin içinde titreyen Joe amcasının yüzünü görebiliyordu. Körlerin sakin, yumuşak, anlaşılmaz sabrıyla damgalanmıştı.
+esintiyle birlikte mavi ve hoş kokulu bir şekilde sürükleniyordu. Gişenin içinde titreyen Joe amcasının yüzünü görebiliyordu. Körlerin sakin, yumuşak, anlaşılmaz sabrıyla damgalanmıştı.
 
 Otomobiller geçiyordu ve her bir araba incelenirken bir gecikme oluyordu. Bir sıra oluştu ve kornalar sabırsızlıkla ötmeye başladı. Joe, sıranın ne kadar geriye uzandığını görmek için başını çevirirken, amcasının soğuk
 çatlak sesiyle donup kalmıştı.
@@ -1059,8 +1065,8 @@ hareket ettiğinin farkındaydı. Boğazında ateş yanıyordu ve dünya
 
 "Rog," diye mırıldandı Dr. Stone, "yarın Baltimore'da kahvaltını kaçıracağından korkuyorum."
 
-Arabada bir küfür ve bir hareket vardı. Joe, donup kalmıştı, çömelmeyi ve yere sarılmayı
-unutmuştu. Ateş ne ​​zaman başlayacaktı? Ve sonra amcasının yanında başka bir
+Arabada bir küfür ve bir hareket vardı. Joe, donmuş bir şekilde, çömelmeyi ve yere sarılmayı
+unuttu. Ateş ne ​​zaman başlayacaktı? Ve sonra amcasının yanında başka bir
 şekil belirdi ve güneş soğuk, mavi çelik üzerinde tehditkar bir şekilde parladı.
 
 "Ellerini görebileceğim bir yerde tut," diye emretti Yüzbaşı Tucker.
@@ -1070,8 +1076,7 @@ Rahatlamanın verdiği hisle hasta olan Joe, dizlerinin bükülmeye ve bükülme
 İki saat sonra amcası ve Yüzbaşı Tucker ile kırmızı tuğlalı Belediye Binası'ndaki bir odada oturuyordu. Yüzbaşı, telefonu kapatıp sandalyesine iyice yaslandı ve iç çekti.
 
 "New York'tan arıyordu," diye duyurdu. "John'u aldılar. Parayı
-gönderen New York bankasında
-çalışıyordu. Buradaki banka
+gönderen New York bankasında çalışıyordu. Buradaki banka
 gönderiyi saydı ve son kuruşuna kadar hepsi orada." Gözleri yavaşça çocuktan köpeğe ve kör adama kaydı. "Doktor, bunu
 nasıl yaptığınızı bilmiyorum. Hepimiz o eski arabayı arıyorduk----"
 
@@ -1079,7 +1084,7 @@ nasıl yaptığınızı bilmiyorum. Hepimiz o eski arabayı arıyorduk----"
 hızlı bir kaçış için motorla çalıştırıldığına ikna etti. Bu sabah araba
 bizim evimizde durdu ve şoför yol tarifi istedi. Kötü bir
 yokuş istiyordu ve ben onu Kill Horse'a gönderdim. Joe soygun haberiyle geldiğinde, size o arabanın nerede bulunabileceğini söylemek için buraya geldim; ama
-soygunun on ikiye yirmi kala gerçekleştiğini öğrendiğimde
+soygunun saat on ikiye yirmi kala gerçekleştiğini öğrendiğimde
 eski araba hemen ortadan kayboldu."
 
 "Neden?" diye sordu Yüzbaşı Tucker.
@@ -1101,7 +1106,7 @@ Jerry o saklama kutusunu arabanın altında görmüştü. Bir balıkçının bal
 
 "Evet. Bir tekne yanımızdan geçti; Rog ve arkadaşının seslerini tanıdım. Gölde çok az balık olduğunu bildiklerini öğrendim. Peki, bu adamlar
 balık olmadığını biliyorlarsa neden
-buzda balık paketlemeye hazır gelmişlerdi? Bugün ayrılmayı planladıklarını öğrendim - saat üçte sıraya gireceklerini söylediler - ve John adında birinden kaçınmak istiyorlardı.
+buzda balık paketlemeye hazır bir şekilde gelmişlerdi? Bugün ayrılmayı planladıklarını öğrendim - saat üçte sıraya gireceklerini söylediler - ve John adında birinden kaçınmak istiyorlardı.
 Karaya çıkarken, Ike Boles bize John'dan gelen bir telgraftan bahsetti.
 Şimdi, eğer bu onların John'uysa, balık tutmanın iyi olmadığını bildikleri halde neden ona balık tutmanın iyi olduğunu söylesinler ki? Öte yandan, telgraf Carl Metz'e yönlendirilmişti ve kimse Carl Metz'i tanımıyordu. Carl Metz kimdi? Eski püskü arabanın sürücüsü Alman aksanıyla konuşuyordu. Carl Metz miydi? Öyleyse, neden hiç balık tutarken görülmedi? İşler oldukça karmaşıktı."
 
@@ -1113,7 +1118,7 @@ Jerry ile konuşmak, aydınlatıcı olabilecek gözden kaçmış bir gerçeği o
 "Yani----" Yüzbaşı Tucker aniden araya girdi.
 
 "Evet; John Law. Polis için kullanılan dolandırıcı ismi. Neden polisten kaçsınlar ki? Bu soygun muydu? Sekiz bin dolar gümüş, yelek cebinizde veya şapkanızın altında saklayamayacağınız bir şey. Onlar
-bir arabaya atılmış halde binmezlerdi; bir polis ağı muhtemelen
+bir arabaya atılmış halde yolculuk etmezlerdi; bir polis ağı muhtemelen
 arabaları arıyor olurdu. O gümüş, aramaya meydan okuyacak
 bir yere taşınmak zorundaydı. Bir arabanın altına gizlenmiş bir saklama kutusundan daha iyi nerede olabilirdi,
 özellikle iki şeyi hatırlarsak: Birincisi, bu adamlar bunun
@@ -1125,8 +1130,7 @@ alamayacaklarını biliyorlardı. Tek bir zayıf halka dışında bir arada duru
 
 "New York'tan bu paranın geleceğine dair haber mi almışlardı? Arnavut kaldırımlı yolda yatan o
 doldurulmuş figür tek bir anlama geliyordu:
-yolcular sadece paranın geleceğini değil, aynı zamanda
-5 numarada geleceğini de biliyorlardı. Bunu bilmek için bir mesaj almış olmaları gerekiyordu.
+yolcular sadece paranın geleceğini değil, aynı zamanda 5 numarada geleceğini de biliyorlardı. Bunu bilmek için bir mesaj almış olmaları gerekiyordu.
 O telgraf yine bulmacaya girdi. Ike Boles'u aradım.
 Carl Metz'i bulamamıştı; John'u getirmesi gereken
 tren seferini izlemişti
@@ -1139,7 +1143,8 @@ mesajı almadıysa----"
 
 "Telgraf bildiklerini mi varsayıyorsunuz?"
 
-"Varsaymıyordum, kaptan; biliyordum. Dün gece, Jerry'nin o saklama kutusuna bakarken içeri girdiğimde, parmakları bir pencereye dokunmaya başladı. Bir mesajdı. "Çok fazla dikkat; hadi kaçalım." diyordu. O adamların Mors alfabesini okuyabildiğini biliyordum."
+"Varsaymıyordum, kaptan; biliyordum. Dün gece, Jerry'nin o saklama kutusuna bakarken içeri girdiğimde, parmakları bir pencereye
+dokunmaya başladı. Bu bir mesajdı. Şöyle diyordu: 'Çok fazla dikkat; hadi kaçalım.' O adamların Mors alfabesini okuyabildiğini biliyordum."
 
 Kaptan Tucker ayağa kalktı. "Doktor, bir dedektif olarak bir iş
 istediğin
@@ -1179,7 +1184,7 @@ içine işleyen soğuğunun farkında değil gibiydi. Geniş omuzları adımlar�
 kapatan bir şapka yoktu. Ama yeğeni Joe Morrow, boğazlı bir kazak
 içine büzüldü ve titredi.
 
-"Joe," dedi Dr. Stone, "Senin bu işe karışmana izin vermemeliydim. Daha önce hiç ölü bir adam görmedin."
+"Joe," dedi Dr. Stone, "Seni bu işe dahil etmemeliydim. Daha önce hiç ölü bir adam görmedin."
 
 Chill çocuğun dişlerini titretti. "Ölü bir adam kimseye zarar veremez."
 
@@ -1187,10 +1192,9 @@ Chill çocuğun dişlerini titretti. "Ölü bir adam kimseye zarar veremez."
 öldürüldüğünü söylüyor."
 
 Çocuk nefesini tuttu ve amcasını arayan
-telefonun onu uyandırmış olmasına bir an için üzüldü. Hafifçe gaklayan kargalar, soğuk gökyüzünün erken ışığına karşı belirdi. Çimenler ıslaktı ve pantolonunun paçalarını
-ıslatmıştı.
+telefonun onu uyandırmış olmasına bir an için üzüldü. Hafifçe gaklayan kargalar, soğuk gökyüzünün erken ışığına karşı belirdi. Çimenler ıslaktı ve pantolonunun paçalarını ıslatmıştı.
 
-"Onlar--bunu kimin yaptığını bilmiyorlar mı?"
+"Onlar--onlar kimin yaptığını bilmiyorlar mı?"
 
 "Sorun bu, Joe. Çok sayıda kişi bunu isteyebilirdi." Doktor Meadow Yolu'na döndüğünden beri adımlarını sayıyordu ve şimdi sesi aniden değişti. "Oraya yakın olmalıyız."
 
@@ -1202,7 +1206,7 @@ Bir zamanlar asil bir ev olan, ancak şimdi soyulmuş boyası ihmal edilmiş bir
 Kaptan Tucker onları içeri aldı. Dört adam koridorun dışındaki bir odada oturdu ve Dr. Stone ve köpek belirdiğinde sessizce kapıyı izlediler.
 Amcasının peşinden gelen Joe, hepsinde çalışılmış bir rahatlık ve temkinli bir ihtiyat olduğunun farkındaydı. Onları Polis Yüzbaşısı olarak teşhis etti
 Tucker onları kör adama tanıttı--Ted Lawton, belli bir gizlilikle işaretlenmiş; Ran Freeman, soğukkanlı ve kendine hakim; Fred Waring, sessizce
-kasvetli ve Otis King, şık ve kendinden emin. Tasmasında huzursuz olan Leydi,
+kasvetli ve Otis King, şık ve kendinden emin. Tasmasında huzursuz olan hanım,
 aniden ürkütücü, kasvetli bir sızlanma sesi çıkardı.
 
 Waring öfkelendi. "Şu lanet köpeği durdur."
@@ -1210,7 +1214,7 @@ Waring öfkelendi. "Şu lanet köpeği durdur."
 "Biliyor," dedi Dr. Stone sessizce, "burada şiddet yoluyla ölüm oldu."
 
 Joe'nun damarlarında buz akıyordu. Otis King bir sigara yaktı ve sakince
-parlayan ucu düşündü. Doktor, "Leydi, sandalye," dedi ve köpek onu bir
+parlayan sonunu düşündü. Doktor, "Hanım, sandalye," dedi ve köpek onu bir
 koltuğa götürdü. Freeman, piyanonun önündeki bir taburede otururken bir kolunu düşürdü
 ve dirsek, çatırdayan, şıngırdayan bir akoru uyandırdı.
 
@@ -1239,7 +1243,7 @@ yuvarlanmış halde buldu. Şakağına yerde duran ağır bir pirinç şamdan ç
 "Dört. Tekrar tekrar. 'Dört, dört, dört.' Siz ne düşünüyorsunuz?"
 
 Yavaşça Doktor Stone bir pipo doldurdu, bir kibrit çaktı ve telaşsız bir şekilde 
-tüttürdü. "Belki de Tucker, dördünün de onun cinayetiyle ilgilendiğini kastetti."
+tüttürdü. "Belki de Tucker, dördünün de onun cinayetiyle ilgilendiğini kastetmişti."
 
 Otis King güldü. "Doktor," dedi rahatça, "o atış hedefi ıskaladı. Diğer üçümüze güvenen yok. Bizi bir araya getiremezsiniz."
 
@@ -1255,13 +1259,13 @@ köpeği izledi.
 Freeman hala elini sessizce tuşların üzerinde gezdirmeye devam etti.
 Lawton doktora hızlı, yan yan baktı ve yere baktı.
 
-"Hangisi?" diye sordu King soğukkanlılıkla; ve şimdi, Joe ilk kez, odadaki dört kişiden yalnızca kendisinin tamamen giyinik olduğunu fark etti.
+"Hangisi?" diye sordu King soğukkanlılıkla; ve şimdi, Joe ilk kez, odadaki dört kişiden sadece kendisinin tamamen giyinik olduğunu fark etti.
 
 Dr. Stone'un eli köpeğin kafasına dokundu. "Sana daha sonra anlatabilirim. Öncelikle, dün hepinizin buraya nasıl geldiğinizi bilmek istiyorum. Yaşlı adam sizi davet etti mi?"
 
 "Hayır," diye mırıldandı Otis King; "ama sanırım bizi bekliyordu. Bir kitap
 yazdığını biliyor muydun? O acımasızca açık sözlü şeylerden biri olacaktı - silahı ateşle ve kurşunların kime isabet ederse onu vurmasına izin ver. Anthony her birimize bir mektup
-bıraktı. Kitapta olacaktık. Bu yüzden, Anthony'yi tanıdığım için, hepimiz Grand Central'a doğru koştuk ve aynı trende buluştuk."
+bıraktı. Kitapta olacaktık. Bu yüzden, Anthony'yi tanıdığım kadarıyla, hepimiz Grand Central'a doğru koştuk ve aynı trende buluştuk."
 
 "Ve onu öldürdük," dedi Dr. Stone.
 
@@ -1272,7 +1276,7 @@ Fred Waring acı bir şekilde konuştu. "Her zaman çok fazla konuşurdun, Otis.
 "Belki de tanıyorumdur," dedi doktor yumuşak bir şekilde. "Birkaç yıl boyunca karanlık işlere bulaştı, ancak yasaların hemen içinde kalmayı başardı.
 Kaypak, kurnaz ve vicdansız."
 
-"Dışarıdan Anthony'di," dedi Waring tutkuyla. "İçinde
+"Dışarıdan bakıldığında Anthony'di," dedi Waring tutkuyla. "İçinde
 kin dolu, soğuk ve acımasızdı. Pençe benzeri elleri
 bir şahinin pençeleriydi. İncelikli işkencelerden zevk alırdı. Yıllar
 önce hepimiz ona bağlıydık ve--"
@@ -1284,9 +1288,9 @@ O zaman bize bir gün bunun bedelini ödeyeceğini söylemişti. Son zamanlarda 
 kitap yazmaya koyuldu. Adı 'Bir Serserinin İtirafları' olacaktı."
 
 "Anlıyorum." Doktorun yüzü ifadesizdi. "Doğal olarak, siz beyler
-kitabın içinde yer almaya itiraz ettiniz."
+kitaba dahil edilmeye itiraz ettiniz."
 
-Waring bir yemini yırttı. "Eski yaraları
+Waring bir yemin yırttı. "Eski yaraları
 açmak için on beş yıl geriye gitmişti. Tanrım, dostum, bunun ne anlama geldiğini biliyor musun? O eski hataları atlattığımızı
 düşünüyorduk. Kendimizi kanıtlamıştık. Ben bir
 üretim tesisinde kasiyerim. King bir şube aracılık şirketinin müdürü. Lawton
@@ -1303,31 +1307,32 @@ ortaya çıksın ve Bayan Panner ile evliliğim suya düşsün."
 
 "O da," diye itiraf etti Ran Freeman duygusuzca.
 
-Pipo sönmüştü. Kör adam kaseyi dalgın dalgın bir şekilde bir kolundan
+Pipo sönmüştü. Kör adam, kaseyi dalgın dalgın bir şekilde bir kolundan
 geçiriyordu. Mutfakta tabaklar takırdıyordu.
 
 "Görünüşe göre," dedi doktor, "kendine cinayet için yeterli bir sebep vermişsin, Freeman."
 
 "Hepimizin yeterli bir sebebi var," dedi Freeman açıkça. "Geçmişi
 ortaya çıkarılırsa Waring ne kadar süre kasiyer olarak kalabilir? King ne kadar süre bir komisyonculuk evinin
-yöneticisi olabilir? Lawton'ın işine devam etmek için ne kadar kredisi kalacaktı?"
+yöneticisi olabilir? Lawton'ın işine devam etmek için ne kadar
+yeterli kredisi kalacaktı?"
 
 Oda sessizliğe gömüldü ve Joe avuçlarında ter hissetti.
 Bu adamlar cinayeti, diğer adamların bir ceketten bir düğmenin
-kaybolmasından bahsedebileceği gibi tartışıyorlardı. Dr. Stone pipoyu kaldırdı ve
+kaybolmasından bahsedebileceği gibi tartıştılar. Dr. Stone pipoyu kaldırdı ve
 görmeyen gözlerini Waring'in sesinin duyulduğu noktaya çevirdi.
 
 "Anthony'nin sana yazdığını mı söylüyorsun?"
 
 "Hepimiz. Kitabın içine bizi ilgilendiren
-şeytani bir mektup. Anladın mı? Bunca yıldan sonra, eski hesabın karşılığını ödemek; bıçağı saplamak ve çevirmek. Kitabın çıkmasını beklerken aylarca bekleme ve endişe duyma ihtimalini vermek. Bu yüzden buraya geldik----"
+şeytani bir mektup. Anladın mı? Bunca yıldan sonra, eski hesabın karşılığını ödemek; bıçağı saplamak ve çevirmek. Kitabın çıkmasını beklerken aylarca
+bekleme ve endişe duyma ihtimalini vermek. Bu yüzden buraya geldik----"
 
 "Ve onu tehdit mi etti?" diye sordu doktor.
 
 "Evet," diye cevapladı Waring bir anlık tereddütten sonra. "Bize güldü.
 Kitabı durdurmanın tek yolunun onu öldürmek olduğunu söyledi ve bizi bunu yapmaya
-davet etti. Köyde çok şeytan bir köpeği olan kör bir adam olduğunu ve onu öldüren adamın yakalanacağını söyledi." Waring'in sesi yükseldi. "Ama Anthony bir kez olsun yanılmıştı. Unuttu----" Tutkulu
-sözcük akışı şaşırtıcı bir şekilde aniden durdu.
+davet etti. Köyde şeytan gibi bir köpeği olan kör bir adam olduğunu ve onu öldüren adamın yakalanacağını söyledi." Waring'in sesi yükseldi. "Ama Anthony bir kez olsun yanılmıştı. Unuttu----" Tutkulu kelime akışı şaşırtıcı bir şekilde aniden durdu.
 
 "Neyi unuttu?" diye sordu Dr. Stone.
 
@@ -1335,7 +1340,7 @@ Waring hiçbir şey söylemedi.
 
 "El yazmasının çalınması gibi bir şeyin olduğunu unuttu mu?"
 
-Yüzbaşı Tucker konuştu. "Bunun ne faydası olacak? Yaşlı adam tekrar yazabilirdi."
+Kaptan Tucker konuştu. "Bunun ne faydası olacak? Yaşlı adam tekrar yazabilirdi."
 
 "Olabilir mi?" diye düşündü Dr. Stone. "Ben pek emin değilim. Bir hizmetçinin koluna yaslanmak zorunda olan bir adam hasta bir adamdır--belki de ölmek üzere olan bir adamdır. Bu arada Tucker, el yazmasını aradın mı?"
 
@@ -1353,13 +1358,11 @@ seni mahkûm edebilir."
 
 "Cinayetten. O el yazmasını çalan adam Anthony Fitch'i öldürdü."
 
-Leydi huzursuzca sızlandı ve sert sessizlikte, ses bir hayaletin
-ağlamasına benziyordu. Joe'nun şakakları zonkladı ve Lawton'ın amcasını bir tür kasvetli korkuyla izlediğinin farkındaydı. Yavaşça,
-karanlığın bir engelinde oturan kör adamın
-odadaki baskın figür olduğunu fark etti.
+Leydi huzursuzca inledi ve sert sessizlikte, ses bir hayaletin
+ağlamasına benziyordu. Joe'nun şakakları zonkladı ve Lawton'ın amcasını bir tür kasvetli korkuyla izlediğinin farkındaydı. Yavaşça, karanlığın
+kötülüğünde oturan kör adamın odadaki baskın figür olduğunu fark etti.
 
-Mutfaktan önlüklü bir adam yavaşça, neredeyse sessizce belirdi.
-Çocuk, bunun Cagge olduğunu tahmin etti.
+Mutfaktan önlüklü bir adam yavaşça, neredeyse sessizce belirdi. Çocuk bunun Cagge olduğunu tahmin etti.
 
 "Kahve yaptım," diye duyurdu hizmetçi burundan gelen tekdüze bir sesle. "İsteyen var mı?"
 
@@ -1389,7 +1392,7 @@ nereden alacağım?"
 gölge gibi, neredeyse hiç ses çıkarmadan, adam gitmişti. Mutfaktan bir
 tavanın şangırtısı geldi.
 
-Otis King gümüş bir kutuya bir sigara vurdu. Joe'nun elleri
+Otis King, gümüş bir kutuya bir sigara vurdu. Joe'nun elleri
 kurumuştu. Evin bir yerinde bir saat yediyi vurdu.
 
 "Dört!" dedi King düşünceli bir şekilde. "Buna ne dersiniz, Doktor,
@@ -1438,7 +1441,7 @@ ipek mendili uzattı.
 "Hayır."
 
 "Anthony'nin cesedinin yanında bulundu. Kokusunu alan köpek,
-kapınıza kadar bir iz takip etti. Bunu nasıl açıklıyorsunuz?"
+kapınıza kadar bir iz sürdü. Bunu nasıl açıklıyorsunuz?"
 
 "Yukarıya ilk kez çıktığım için,
 açıklayamıyorum. Cagge çantamı bu odaya getirdi ama ben onu takip etmedim. Anthony
@@ -1487,7 +1490,7 @@ Cagge mutfaktan daha fazla kahveyle geldi. Fincanları yeniden doldururken eli t
 
 "Cagge," dedi Dr. Stone aniden, "dün gece nasıl uyudun?"
 
-"Çok iyi uyuyamadım," diye cevapladı Cagge, genizden gelen tekdüze sesiyle. "Şeylerin
+"Çok--çok," diye cevapladı Cagge, genizden gelen tekdüze sesiyle. "Şeylerin
 görünüşünü beğenmedim."
 
 "Birinin dışarı çıktığını duydun mu?"
@@ -1511,10 +1514,12 @@ Lawton kör adamdan ve köpekten uzakta bir yer arıyor gibiydi. Waring
 odada volta atıyordu ve Otis King hala soğuk ve dikkatliydi.
 
 Freeman'ın parmakları bir kez daha sessizce tuşların üzerinde dolaşırken,
-belirsiz bir nota çaldı. Sanki ses bir bariyeri yıkmış gibi, bir akor çaldı. Bir sonraki an, taburede sallanarak, enstrümana döndü
+belirsiz bir nota çaldı. Sanki ses bir bariyeri kırmış gibi, bir akor çaldı. Bir sonraki an, taburede sallanarak, enstrümana döndü
 ve serbestçe ve kısıtlamadan çalmaya başladı.
 
-Joe yutmakta zorluk çekti. Bu ölüm evinde müzik, korkunç, neredeyse kutsal şeylere saygısızlık gibi geliyordu. Amcasına baktı. Dr. Stone'un yüzündeki sakinlik kaybolmuştu. Görmeyen gözlerinin etrafında, dingin ağzının etrafında, iyi bildiği garip, yoğun çizgiler aniden oluşmuştu.
+Joe yutmakta zorluk çekti. Bu ölüm evinde müzik,
+korkunç, neredeyse kutsal şeylere saygısızlık gibi geliyordu. Amcasına baktı. Dr. Stone'un yüzündeki sakinlik
+kaybolmuştu. Görmeyen gözlerinin etrafında, dingin ağzının etrafında, iyi bildiği garip, yoğun çizgiler aniden oluşmuştu.
 
 Yüzbaşı Tucker, Cagge ile konuşmak için mutfağa gitmişti. Freeman
 bir ses patlamasıyla bitirdi. Saniyeler geçti ve kimse konuşmadı.
@@ -1581,17 +1586,20 @@ kaybedeceklerdi. Ancak Freeman, Panner servetini kaybedecekti.
 yatmadığını söyledi. Yatak ve çanta söz konusu olduğunda, bunun gerçek olması gerekiyordu, çünkü yalan söylemiş olsaydı bu çok kolay çürütülebilir bir hikaye olurdu. Aynı mantıkla, mahallede kokuyu takip edebilen bir köpek olduğunu bildiğinden, cinayet işlemiş olsaydı kendi odasına kadar bir iz bırakmazdı. Bu nedenle, iz, buruşuk bir yatağın ve kısmen açılmış bir çantanın olduğu bir odaya ulaştığında, bir gerçek apaçık ortadaydı.
 King, adam değildi.
 
-"İki kez dışarı çıktığını söyledi. Ama Cagge birinin üç kez içeri girdiğini söyledi. King'in odasındaki açık pencereyi fark ettin mi? Buradaki tavanlar
-alçaktır--kör bir adam bunları hissedebilir. İkinci kat
-yerden çok da uzak olmazdı. Anthony'yi öldüren kişi King'in evden
+"İki kez dışarı çıktığını söyledi. Ama Cagge birinin üç
+kez içeri girdiğini söyledi. King'in odasındaki açık pencereyi fark ettin mi? Buradaki
+tavanlar alçaktır--kör bir adam bunları hissedebilir. İkinci kat
+yerden çok da uzak olmazdı. Anthony'yi öldüren kişi King'in
+evden
 çıktığını biliyordu. Bu nedenle, suçtan sonra köpeğe bir koku vermek için ipek mendili bilerek bıraktı. Sonra, King'in odasına giderek
 yatağı karıştırdı, çantadan giysileri çıkardı ve pencereden
 dışarı attı. Düştüğü yerde derin ayak izleri bulacağınıza şüphe yok. Odaya girip
 pencereden dışarı çıkarak, muhtemelen King'in odasına kadar
 izi getirdiğini ve orada bitirdiğini düşündü.
 
-"Cagge'in içeri girdiğini duyduğu üçüncü adamdı. Anthony'nin el yazmasını daha sonra elden çıkarmayı düşünerek eve geri getirmiş olmalı.
-Ama King neredeyse hemen ardından geri dönmüş olmalı. Bulunmak istemediği için
+"Cagge'in içeri girdiğini duyduğu üçüncü adamdı. Anthony'nin
+el yazmasını eve geri getirmiş olmalı ve daha sonra
+elinden çıkarmayı düşünmüş olmalı. Ama King neredeyse hemen ardından geri dönmüş olmalı. Bulunmak istemediği için
 el yazmasını düşürdü ve kaçtı. Belki de
 Kral'ın onu bulduğunda onu yok edeceğini düşündü. Eğer en ufak bir şüphem olsaydı
 aşağı indiğimizde gitmişlerdi. Dört adam yemek yiyordu.
@@ -1613,32 +1621,31 @@ uzaklaştı. Freeman'ı sandalyede tutan Yüzbaşı Tucker,
 
 "Kesinlikle, Tucker. Leydi'nin tanıklığı vardı ama daha fazla
 kanıta ihtiyacım vardı. Freeman piyano çalarken bana bunu verdi. Müzik boyunca
-bir şey tekrar tekrar ortaya çıktı. Belki de kör olmasaydım, duymaya bu kadar çok güvenmek zorunda kalmasaydım, bunu fark etmezdim. Bazı notalarda bir tereddüt, ritimde neredeyse fark edilemeyen bir kesinti, sadece yabancı bir şey, canlı et olmayan bir şey tarafından
-yapılabilen tuşların fildişi üzerinde hafif bir tıkırtı. Freeman'ın yapay bir
+bir şey tekrar tekrar ortaya çıktı. Belki de, kör olmasaydım, duymaya bu kadar çok güvenmek zorunda kalmasaydım, bunu fark etmezdim. Bazı notalarda bir tereddüt, ritimde neredeyse fark edilemeyen bir kesinti, ancak yabancı bir şey, canlı et olmayan bir şey tarafından yapılabilen
+fildişi tuşlarda hafif bir tıkırtı. Freeman'ın
+yapay bir
 parmağı var."
 
 Freeman sandalyede yığılmıştı. Yüzbaşı Tucker doğruldu.
 
-"Doktor," dedi merakla, "beyniniz benim için çok hızlı hareket ediyor... Çok
-çok hızlı. Bu neyi kanıtlıyor?"
+"Doktor," dedi merakla, "beyniniz benim için fazla hızlı hareket ediyor... Çok fazla. Bu neyi kanıtlıyor?"
 
-"Her şeyi," dedi Dr. Stone sessizce. "Modern cerrahi günümüzde
-mucizevi işler yapıyor. Freeman'ın çıkarılabilen yapay bir parmağı var. Cagge'nin hikayesini hatırlıyor musun? Yaşlı Anthony sürekli 'Dört, dört' diye mırıldanıyordu. Gördüğü şey buydu. Dört! Katilinin elinde dört parmak."
+"Her şeyi," dedi Dr. Stone sessizce. "Modern cerrahi günümüzde mucizeler yaratıyor. Freeman'ın çıkarılabilen bir yapay parmağı var. Cagge'nin
+hikayesini hatırlıyor musun? Yaşlı Anthony sürekli 'Dört, dört' diye mırıldanıyordu. Gördüğü şey buydu. Dört! Katilinin elinde dört parmak."
 
 KÖR ADAM DOKUNUŞU
 
 Dr. Stone, dolaba uzanarak ütülenmesi gereken gri takım elbiseyi buldu. Gri olduğunu biliyordu çünkü parmakları yakanın iç kısmına dikilmiş üç
-keskin sırtlı iplik çizgisini hissediyordu. Bu yüzden, kör adama göre, gardırobundaki her takım elbise, gömlek, kravat ve çorap tam olarak tanımlanabilmesi için işaretlenmişti. Mavi için bir yükseltilmiş iplik sırtı, kahverengi için iki ve gri için üç.
+keskin sırtlı iplik çizgisini hissediyordu. Bu yüzden, kör adama göre, gardırobundaki her takım elbise, gömlek, kravat ve çorap tam olarak tanımlanabilmesi için işaretlenmişti. Mavi için bir, kahverengi için iki ve gri için üç olmak üzere bir yükseltilmiş iplik sırtı.
 
-Takım elbiseyle merdivenlerden aşağı indi. Joe Morrow, Leydi'ye bir
-tasma takmıştı ve o hevesle sızlandı.
+Takım elbiseyle merdivenlerden aşağı indi. Joe Morrow, Leydi'ye bir tasma takmıştı ve o hevesle sızlandı.
 
 "Gitmeye hazır mısın, ihtiyar kız?" Kör adam köpeğin başını okşadı ve tasmayı aldı. "Tamam mı, Joe? Paranı aldın mı?"
 
 "Evet, efendim." Çocuk, bir komşunun bahçesindeki otları ayıklayarak kazandığı iki doları yokladı. "On dört dolar biriktireceğim," diye övündü.
 
 "Zenginlik," diye kıkırdadı doktor ve saatini açıp,
-açıkta kalan ellerine parmağıyla dokundu. "Akşam yemeğine yetişeceğiz."
+parmağıyla açıkta kalan ellerine dokundu. "Akşam yemeğine yetişeceğiz."
 
 Ama bu asla yiyemeyecekleri bir akşam yemeğiydi.
 
@@ -1682,7 +1689,7 @@ Kız anında kaldırımın karşısına geçti ve telefon şirketinin kapısınd
 
 "Evet, efendim."
 
-"Tessie gitti mi? Anladım. Ve Tucker ve Pelle ikisi de aceleyle." Doktor neredeyse sessiz bir düdük çaldı. "Hadi gidelim, Joe."
+"Tessie gitti mi? Anladım. Ve Tucker ve Pelle ikisi de aceleyle." Doktor neredeyse sessiz bir düdük çaldı. "Hadi başlayalım, Joe."
 
 Bankada bir şeyler ters gitmişti. Çocuk bunu hemen fark etti. Yirmi
 mevduat sahibi ana katta düğümler halinde birbirine yapışmıştı, huzursuz banka
@@ -1742,11 +1749,10 @@ Konserveci'nin boynu tekrar şişti. "Bu ne," kükredi; "bir tuzak mı? Onları
 ayırt edemiyorum. Bunu yapabilmen gerekiyor. Sana
 söyleyeyim----"
 
-"Beyler." Dr. Stone'un sesi yumuşaktı. "Gerçeklere bağlı kalalım. Anladığım kadarıyla Pelle bu sabah Hesset adında bir adama beş bin dolarlık bir çek vermiş. Ne için?"
+"Beyler." Dr. Stone'un sesi yumuşaktı. "Gerçeklere bağlı kalalım. Anladığım kadarıyla Pelle bu sabah Hesset adında bir adama beş bin dolarlık bir çek verdi. Ne için?"
 
 "Zararlar," diye çıkıştı Bay Pelle. "Hesset Arlington'da bir kasap dükkanının sahibi.
-Kamyonlarımdan biri kontrolden çıktı ve dükkanın önüne
-kayarak çarptı. Hesset enkazda sıkıştı; kolu ve köprücük kemiği kırıldı. Sorumluluk sigortam yok. Onunla anlaştım ve
+Kamyonlarımdan biri kontrolden çıktı ve dükkanın önüne doğru kaydı. Hesset enkazda sıkıştı; kolu ve köprücük kemiği kırıldı. Sorumluluk sigortam yok. Onunla anlaştım ve
 bu sabah saat on birde ona bir çek verdim."
 
 Kaptan Tucker şöyle dedi: "Bu ikinci çek nereden geliyor?"
@@ -1787,7 +1793,8 @@ on birde hemen burada olmasını söyledim."
 
 Albert Wall, "Bir dakika izin verirseniz--" dedi ve gitti. Joe, amcasının ayağının ayak parmağında uyarıcı bir baskı hissettiğini hissetti.
 İç odanın kapısı sıkıca
-kapatılmamıştı. Boynunu uzatan çocuk, kasiyeri bir telefonda gördü. Albert Wall, yüzünde hala o hafif asık suratla geri döndü.
+kapatılmamıştı. Boynunu uzatan çocuk,
+kasiyeri telefonda gördü. Albert Wall, yüzünde hala o hafif asık suratla geri döndü.
 
 "Bu şey önceden planlanmıştı," dedi Kaptan Tucker yavaşça.
 
@@ -1815,12 +1822,13 @@ kahverengi kafaya dokundu.
 "Buna karşı bir yasa var mı?" diye sordu Bay Pelle.
 
 "Hayır." Doktorun sesi yumuşaktı. "Bu küçük bir banka. Haftada sadece
-iki gerçekten yoğun saati var. Hafta sonu kapanışından hemen önce cumartesi günü saat on bir ile öğlen arasında bir yoğunluk var; pazartesi sabahı sekiz ile dokuz arasında ise iş adamlarının cumartesi nakitleriyle geldiği bir yoğunluk var.
+iki gerçekten yoğun saat var. Hafta sonu kapanışından hemen önce cumartesi günü saat on birden öğlene kadar bir yoğunluk var; pazartesi sabahı sekizden dokuza kadar iş adamlarının cumartesi nakitleriyle geldiği bir yoğunluk daha var.
 Hafta boyunca bir kasiyerin bir adamı incelemesi için boş zaman olurdu;
 belki de telefon edip diğer şeylerin yanı sıra bir tarif istemek için. Ama
-cumartesi günü, saat on birden sonra, baskı ve telaş olur. Ve bu baskı saatinde bir çek geçerdi."
+cumartesi günü, saat on birden sonra, baskı ve telaş olur. Ve bu baskı saatinde
+bir çek geçti."
 
-Bay Pelle dudaklarını gergin bir şekilde ıslattı. Yüzbaşı Tucker çok hareketsiz duruyordu.
+Bay Pelle dudaklarını gergin bir şekilde ıslattı. Yüzbaşı Tucker çok hareketsiz durdu.
 
 "Başka bir şey var mı, Doktor?" diye sordu.
 
@@ -1832,7 +1840,7 @@ Joe, bandajlı adamın sağlam eliyle sandalyenin arkasını kavradığını gö
 "İki çek hakkında hiçbir şey bilmiyorum, Kaptan. Sadece bir çek gördüm. Cebimde
 parayı istiyordum. Nakit nakittir. Bazen bir çek iyi olduğunu düşünürsün----"
 
-Bay Pelle'nin kükremesi odayı doldurdu. "Bana bunu söylemeye cesaret ediyorsun, Hesset?"
+Bay Pelle'nin kükremesi odayı doldurdu. "Bana bunu söylemeye cesaret ediyor musun, Hesset?"
 Kaptan Tucker iki adamın arasına atladı ve Joe yoldan çekildi.
 Dr. Stone, "Köpeği buradan çıkarsam iyi olur. Gel, Joe." dedi.
 Öğleden sonra çok olmuştu ve banka kapalıydı. Albert Wall onlarla birlikte
@@ -1843,7 +1851,7 @@ uzun, ıssız zeminden aşağı inip ön kapıyı açtı ve onları dışarı ç
 Doktor, "Pelle?" diye sordu hafifçe.
 
 Kasa görevlisi tereddüt etti. "Şey--evet. Beş bin dolar çok fazla
-para. Pelle'nin hesabının durumunu biliyorum; işler son zamanlarda pek iyi değil ve beş bin dolar onu çok zorlayabilir. Eğer
+para. Pelle'nin hesabının durumunu biliyorum; işler son zamanlarda pek de iyi değil ve beş bin dolar onu çok zorlayabilir. Eğer
 bir eliyle beş bin dolar ödeyip diğer eliyle sahte bir çeki manipüle edip bankadan beş bin dolar geri alabilseydi--. Ancak bunun için bir suç ortağına, ilk çekle birlikte pencereye gidecek birine ihtiyacı olacaktı. Muhtemel görünmüyor."
 
 "Yine de bir olasılık," dedi kör adam. "Birçok olasılık," diye ekledi. "Hesset'i unutmayalım. Hesset veya Pelle bunu bir suç ortağıyla birlikte
@@ -1933,10 +1941,10 @@ yaptı ve toprak
 sanki pişmiş gibi kokuyordu.
 
 Eve girerken bir saat üçü vurdu. Dr. Stone verandada volta attı
-ve Leydi güneşli bir yerde uzanıp onu dikkatle izledi. Joe
+ve Leydi güneşli bir alanda uzanıp onu dikkatle izledi. Joe
 mahzenden bir alet çıkardı ve çalıları kesmeye hazırlandı.
 
-Yolda hafif bir teslimat kamyonu durdu ve genç bir adam bir takım elbise
+Yolda hafif bir teslimat kamyonu durdu ve genç bir adam bir takım
 taşıdı ev.
 
 "Sen zamanında geldin," dedi Dr. Stone. Takım elbise askıdaydı; ceket
@@ -1979,7 +1987,7 @@ adam dışarı çıktığında ıslık çalıyordu.
 "Polis karakolu," dedi.
 
 Yüzbaşı Tucker masasındaydı. "Doktor," diye patladı, "bu şey
-şaşırtıcı. Şu iki çeki yan yana koyun ve imzaları birbirinden ayırt edemezsiniz. New York ile konuştum. Ülkenin bu kesiminde polis tarafından bilinen bir
+şaşırtıcı. Şu iki çeki yan yana koyun ve imzaları ayırt edemezsiniz. New York ile konuştum. Ülkenin bu kesiminde polis tarafından bilinen bir
 sahtekar yok."
 
 Dr. Stone sordu: "Albert Wall size bir tarif verdi mi?"
@@ -1993,7 +2001,7 @@ Dr. Stone sordu: "Albert Wall size bir tarif verdi mi?"
 "İmzalamaları için." Elleri masanın üzerinde telefonu aradı ve
 Bryan Smith'in evini aradı. "Bryan? Dr. Stone. Albert'i bu saatte nerede
 bulabileceğini biliyor musun? Şu anda seninle mi? Bir saat içinde
-bankaya getirebilir misin? Ben Yüzbaşı Tucker ve Pelle ile birlikte olacağım." Telefonu
+bankada olabilir mi? Ben Yüzbaşı Tucker ve Pelle ile birlikte olacağım." Telefonu
 kapattı. "Beyanları hazırlayıp Pelle'yi bulmak için bir saatin var, Tucker. Muhtemelen fabrikadadır."
 
 "Ama neden imzalı beyanlar?" diye sordu Yüzbaşı Tucker sabırsızlıkla.
@@ -2018,8 +2026,8 @@ gözlerini açtı.
 
 Polis arabasıyla bankaya gittiler. Bryan Smith onları içeri aldı. Alacakaranlık
 pencerelerden en uzak köşelerde toplanmaya başlamıştı, çelik kasanın önünde bir
-bekçi lambası yanıyordu ve iç odadan tavandan bir ışık patlaması
-parlıyordu. Yüzbaşı Tucker ve Bay Pelle
+bekçi lambası yanıyordu ve tavandan bir ışık patlaması
+iç odadan parlıyordu. Yüzbaşı Tucker ve Bay Pelle
 önden giderken banka başkanı kapının güvenli bir şekilde
 kilitlenmesini sağladı. Doktor oyalandı.
 
@@ -2028,7 +2036,7 @@ kilitlenmesini sağladı. Doktor oyalandı.
 "Elbette."
 
 "Çıkarın onları; Leydim, ileri." Ve adam cevap veremeden önce doktor
-kasiyerin kafeslerinin yanından geçiyordu, bir eli tasma tutamağını tutuyordu, vücudu biraz rehber köpeğe doğru eğilmişti.
+kasiyerin kafeslerinin yanından geçiyordu, bir eli koşum takımını tutuyordu, vücudu biraz rehber köpeğe doğru eğilmişti.
 
 Bryan Smith, yer gerekebileceğini söyleyerek masayı temizledi.
 Pelle Bey'in gözleri bir yandan diğer yana kaydı ve hiçbir şeyi kaçırmadı.
@@ -2039,7 +2047,8 @@ Joe'nun dikkatini çeken ve damarlarında kanın hızla akmasına neden olan şe
 "Kaptan Tucker," dedi Dr. Stone, "Pelle ve Albert'in imzalaması için ifadeler hazırladı. Kalemleriniz var mı beyler? Şimdi, imzalarsanız----"
 
 Albert Wall hızla okudu ve cebinden bir dolma kalem çıkararak
-hemen imzaladı. Bay Pelle kağıdını baştan sona okudu ve sonra tekrar okudu.
+hemen imzaladı.
+Pelle Bey kağıdını baştan sona okudu ve sonra tekrar okudu.
 Adını yavaşça yazdı.
 
 "Albert'in kağıdı, Kaptan." Doktor onu sağ tarafındaki masaya koydu. "Pelle'nin." Sola doğru gidiyordu. "Şimdi Bryan, şu çekleri alabilir miyim? Önce Pelle'nin imzalamadığını söylediği." Sağa doğru gidiyordu. Albert Wall'un ifadesiyle birlikte.
@@ -2067,18 +2076,22 @@ açıkça duydu. Kasiyer kıpırdamamıştı.
 Lady'nin yerden aldığı kağıttı. Albert Wall'un gözleri
 büyüdü.
 
-"Parayla uğraşmak tehlikeli bir iş," diye düşündü Dr. Stone. "Her gün binlerce dolar insanın elinden akıyor. Başkalarının parası. Bir adamın içinde bir yerde zayıf bir nokta varsa, bu onu -- bu paranın bir kısmını kendine ait kılmak için bir ateşe
-düştürebilir. Doğru an
+"Parayla uğraşmak tehlikeli bir iş," diye düşündü Dr. Stone. "Her gün binlerce dolar insanın elinden akıyor. Başkalarının parası. Bir adamın içinde bir yerde zayıf bir nokta varsa, bu onu
+--bu paranın bir kısmını kendine ait kılmak için bir ateşe
+--sokabilir. Doğru an
 gelirse veya doğru plan kendini gösterirse----
 
-"Pelle'in Hesset ile yapacağı anlaşmayı duydun, değil mi Albert? Zayıf nokta kontrolü ele geçirdi. Eline beş bin doları o kadar akıllıca alma şansı gördün ki, asla sana kadar izlenemezdi. Pelle'in imzasını saatlerce çalışmış olmalısın.
+"Pelle'in Hesset ile yapacağı anlaşmayı duydun, değil mi, Albert? Zayıf nokta kontrolü ele geçirdi. Eline beş bin doları o kadar akıllıca alma şansı gördün ki, asla sana
+ulaşmayacak. Pelle'in imzasını saatlerce çalışmış olmalısın.
 Ve sonunda mükemmel olduğunu düşündüğün bir çek aldın.
 
 "Pelle'nin fabrikasını görebiliyordun. Cumartesi sabahı Hesset'in içeri girdiğini gördün.
 Arlington'a gitmiş olabilirsin, böylece neye benzediğini görebilirsin;
 sargılı olacağı için onu tanıyacağını düşünmüş olabilirsin.
 Çıktığını gördün; bir iki dakika bekledin. Sonra Pelle'i arayıp pencerede beş bin dolarlık bir çekle bir adamın olduğunu söyledin. Doğal olarak Pelle
-her şeyin yolunda olduğunu söyledi. Bunu söyleyeceğini biliyordun. Az önce çeki vermemiş miydi? Sahte çeke 'ödendi' damgasını vurdun ve onu sabah bankanın bozdurduğu çeklerle birlikte koydun. Kısa bir süre sonra gerçek Hesset belirdi ve Pelle'yi tekrar aradın. Ah, tatlı bir plandı, Albert. Görünüşe göre geri dönüş olmadı. Pelle sana ilk çeki ödemeni söylememiş miydi? Banka, Pelle'nin ödemesini söylediği bir çeki ödemekten sorumlu tutulabilir miydi? Basitliğiyle plan neredeyse dahiyaneydi. Ama--" Doktor durakladı. "Kaydın."
+her şeyin yolunda olduğunu söyledi. Bunu söyleyeceğini biliyordun. Az önce çeki vermemiş miydi? Sahte çeke 'ödendi' damgasını vurdun ve onu sabah bankanın bozdurduğu çeklerle birlikte koydun. Kısa bir süre sonra gerçek Hesset belirdi ve Pelle'yi tekrar aradın. Ah, bu tatlı bir
+plandı, Albert. Görünüşe göre geri dönüş olmadı. Pelle sana ilk çeki ödemeni söylememiş miydi? Banka, Pelle'nin ödemesini söylediği bir çeki ödemekten sorumlu tutulabilir miydi? Basitliğiyle plan neredeyse dahiyaneydi.
+Ama--" Doktor durakladı. "Kaydın."
 
 Kasiyer kıpırdamamıştı. "Doktor," dedi sakin bir şekilde, "hikayen saçma. Pelle'nin Hesset'i aradığında ofiste yalnız olduğunu söylediğini duydun. Böyle bir planı yürürlüğe koymak için önceden bir anlaşma yapıldığını, çekin ne zaman verileceğini ve ne kadarlık bir
 kararlaştırılacağını bilmem gerekirdi. Bunu nasıl bilebilirdim?"
@@ -2091,10 +2104,10 @@ Banka müdürü telefona uzandı.
 "Bunu yapma," diye bağırdı Albert Wall sertçe. Bir anda tüm
 özdenetimi kaybolmuştu. Arkasında bir sandalye vardı;
 geriye uzanıp
-ağır ağır sandalyeye gömüldü. "Onu bundan uzak tut," dedi fısıltıyla. "Ben--ben yaptım. Tek başıma."
+sandalyeye gömüldü. "Onu bundan uzak tut," dedi fısıltıyla. "Ben--ben yaptım. Tek başıma."
 
-Bay Pelle alnındaki ter damlalarını sildi. "Benden
-şüphelendiğinizi düşünmüştüm, Doktor?"
+Bay Pelle alnındaki ter damlalarını sildi. "Benden şüphelendiğinizi
+düşünüyordum, Doktor?"
 
 "Bazen masumlardan şüpheleniyormuş gibi görünmek akıllıcadır.
 Bu sabah çekleri istediğimi hatırlıyor musun? Bir an sonra senin o adam olmadığını anladım. Hesset'i aradığını söyler söylemez önemli bir şey oldu. Albert odadan çıktı. Bir telefona gitti. Tahminimce oraya Tessie'yi Hesset anlaşması hakkında kendisiyle konuştuğunu kimseye söylememesi konusunda uyarmak için gitmişti."
@@ -2105,11 +2118,17 @@ Kasiyer bembeyaz bir yüz kaldırdı. "Bunu nereden biliyordun?"
 ödemiş bir kasiyerin gergin ve üzgün olması gayet doğaldır. Albert'in eli sert ve gergindi, tutuşu bir şeyi
 görmek için çelikleşmiş bir adamınki gibiydi... Ne?
 
-"Telefon ofisine uğradım ve pazartesi akşamı saat yedide hangi kızların görevde olduğunu sordum. Tessie tek başına görevdeydi. Adını söylemedim; ve yine de, yüz fit gitmeden önce, sokakta beni takip etti, çok sarsılmıştı, neden onu sorduğumu bilmek istiyordu. Resmin o kısmı tamamlanmıştı. Tessie ve Albert sevgiliydi; Tessie ona Pelle'nin gizli dedikodusunu söylemişti. O zaman suçlunun kim olduğunu biliyordum ama bunu kanıtlayamadım.
+"Telefon ofisine uğradım ve pazartesi akşamı saat yedide hangi kızların görevde olduğunu sordum. Tessie tek başına görevdeydi. Adını söylemedim; ve yine de, yüz fit gitmeden önce, sokakta beni takip etti, çok sarsılmıştı, neden onu sorduğumu bilmek istiyordu. Resmin o kısmı tamamlanmıştı. Tessie ve Albert sevgiliydi; Tessie ona Pelle'nin gizli dedikodusunu söylemişti. O zaman suçlunun kim olduğunu biliyordum ama bunu
+kanıtlayamadım.
 
-"Bu öğleden sonra terzi bana yanlışlıkla başka bir adamın takım elbisesini getirdi. Albert'in olduğunu gördüm. Bu ceplerinden birindeydi." Doktor, konservecinin imzasıyla kaplı kağıdı masanın üzerinden itti. "Muhtemelen Albert'in imzayı kullandığı diğer tüm kağıtlar yok edilmişti - bu gözden kaçmıştı. Bankada sahtecilik
+"Bu öğleden sonra terzi bana yanlışlıkla başka bir adamın takım elbisesini getirdi.
+Albert'in olduğunu
+buldum. Bu, ceplerinden birindeydi." Doktor, konservecinin imzasıyla kaplı kağıdı masanın üzerinden itti. "Muhtemelen
+Albert'in imzayı kullandığı diğer tüm kağıtlar
+yok edilmişti - bu gözden kaçmıştı. Bankada sahtecilik
 yapmış olamayacağına göre bunu evde yapmış olmalı. Ve aynı kalem
-bu kağıttaki imzaları ve sahte çekteki imzayı
+bu kağıttaki imzaları ve sahte
+çekteki imzayı
 yazdığı için, bunlar banka kalemiyle değil, Albert'in yanında taşıdığı
 bir kalemle yazılmış olmalı. O kalemi tanıkların önünde
 kullanmasını istiyordum.
@@ -2128,11 +2147,11 @@ Banka başkanı çekmeceden bir tane çıkardı.
 "Pelle'nin imzaladığı çeki ve imzaladığı beyanı inceleyin. Her iki
 imza da pürüzsüz. Sahte çeke bakın.
 Paul Pelle'de üç tane l var. L'lerin üzerindeki üç yukarı vuruşun her birinde kalem kağıdı biraz oydu. İşte davadaki kağıt. Yukarı doğru
-çizgilerdeki aynı oyuk. Şimdi Albert Wall'un imzaladığı ifade. Adında ayrıca üç tane l var ve yukarı doğru
-çizgilerdeki aynı oyuk. Hepsi aynı
+çizgilerde aynı oyuk. Şimdi Albert Wall'un imzaladığı ifade. Adında ayrıca üç tane l var ve yukarı doğru
+çizgilerde aynı oyuk. Hepsi aynı
 kalemle yapılmış."
 
-Joe Morrow gurur ve hayret duygusuyla dolmuştu. Bryan Smith yavaşça şöyle dedi:
+Joe Morrow gurur ve hayret duygusuyla doldu. Bryan Smith yavaşça şöyle dedi:
 
 "Doktor, sizin, kör olmanıza rağmen, bunu nasıl fark edebildiğinizi anlayamıyorum."
 
@@ -2159,7 +2178,8 @@ kendi başına, bir servetin efendisi. Doktor kıkırdadı ve
 Allan'ın gerçekten ne kadar efendi olabileceğini merak etti - en azından bir süreliğine. Çünkü
 Alec Landry, Allan'ın koruyucusuydu ve yaşlı Jamie Robb'un ölümünden bu yana altı yıldır Robb çiftliğinde yaşıyordu. Alec Landry, yaşlı Jamie'nin ölmeden önceki "oğlumu doğru şekilde yetiştir" emrine itaat eden açık sözlü bir adamdı.
 Kendi istediğini yapmayı seven ve kendisine karşı çıkan herkesi
-kükreyerek alt etme alışkanlığı olan gürültülü, yürekli bir adamdı. O halde yarın, Allan Robb ismen efendi olacaktı; ama genç adamın Alec Landry'nin elinden kurtulması muhtemelen birkaç yıl sürecekti.
+kükreyerek alt etme alışkanlığı olan gürültülü, yürekli bir adamdı. Yarın, o zaman, Allan Robb
+ismen efendi olacaktı; ama genç adamın Alec Landry'nin elinden kurtulması muhtemelen birkaç yıl sürecekti.
 
 İyi bir şey, diye düşündü Dr. Stone kuru bir şekilde. Zaten genç bir adamın aniden bağımsız hale gelmesini sağlayacak dikkat işaretleri vardı. Yarın büyük bir parti olacaktı. Bu iyiydi--bir çocuk sadece bir kez
 olgunlaşır. Bruce Robb New York'tan kanlı bir kısrak göndermişti.
@@ -2176,8 +2196,7 @@ büyük kaslarını gerdi ve ona doğru geldi.
 iyi gün kalmadı. Kış gelince sen ve ben az çok eve zincirlenmiş olacağız."
 
 Köpeğin derin gözleri yüzüne yapışmıştı. Şu anda, eli Leydi'nin koşum takımının sert sapını tutarak, Joe Morrow'un
-yatak odası kapısını dinliyordu. Yeğeni hâlâ uyuyordu. Toprak yolda Dr. Stone, "Hanımefendi, uzaklaşın," dedi ve tepelerde ve vadilerde geç vakitlerde yaz sonu mevsiminin sürdüğü kuzeye döndüler. Zamanla adamın burun deliklerinde odun dumanı ve birçok yabancı dilin
-uzaktan gevezeliği oldu. Ve, o bunları düşünürken, yaşlı ve zayıf bir kadın sesi,
+yatak odası kapısını dinliyordu. Yeğeni hâlâ uyuyordu. Toprak yolda Dr. Stone, "Hanımefendi, uzaklaşın," dedi ve tepelerde ve vadilerde geç vakitlerde yaz sonu mevsiminin sürdüğü kuzeye döndüler. Zamanla adamın burun deliklerinde odun dumanı ve birçok yabancı dilin uzaklardaki gevezeliği duyuldu. Ve, o bunları düşünürken, yaşlı ve zayıf bir kadının sesi,
 yol kenarından ona doğru titredi.
 
 "Senin servetin, nazik efendi, eğer canavarın ve senin körlüğün yakınında güvendeyse.
@@ -2187,7 +2206,7 @@ Avucumu gümüşle çaprazla ve----"
 koşumu tutuyordu; sağ eli hafif bir baston sallıyordu. Baston aniden
 bir tarla çitiyle temasını kaybetti ve hiçbir şeye dokunmadı. Adam, "Hanımefendi,
 doğru," dedi ve sanki kapıyı
-kendisi görebiliyormuş gibi, bir otlak kapısından geçerek Allan Robb'un arazisine doğru yanılmaz bir şekilde geçti. Ve aklında kalan düşünce, çingene kampıyla ve Alec Landry'nin izinsiz girişi keşfedip davetsiz misafirleri
+kendisi görebiliyormuş gibi bir otlak kapısından geçerek Allan Robb'un arazisine doğru yanılmaz bir şekilde geçti. Ve aklında kalan düşünce, çingene kampıyla ve Alec Landry'nin izinsiz girişi keşfedip davetsiz misafirleri
 kovmasının ne kadar süreceğiyle ilgiliydi.
 
 Ve şimdi, aniden, dumanlı pusun bir parçası gibi görünen sessizlik
@@ -2201,10 +2220,9 @@ aşağıdaki keskin kayaların arasından akan suyun şırıltısından başka h
 Sessizlik! Kadın kaskatı kesildi ve boğazından alçak bir homurtu yükseldi.
 
 Somut olmayan bir şey tarafından keskinleştirilen adam, uyanık kulaklara dokundu ve köpek
-sessizleşti. Ağaçların çıplak dallarından bir rüzgar esti ve
-birdenbire yüzünde toz ve çakıl oldu. Çakıl ateş gibi yanıyordu.
+sessizleşti. Ağaçların çıplak dallarından bir rüzgar esti ve birdenbire yüzünde toz ve çakıl oldu. Çakıl ateş gibi yandı.
 Çabuk bir el kaldırdı ve sıcak, sert parçacıkları parmaklarının arasına
-sürdü. Bir süre orada hareketsiz, ürkmüş bir şekilde durdu; ve sonra,
+sürdü. Bir süre orada hareketsiz, ürkmüş bir şekilde durdu; sonra,
 yavaşça, köpekle birlikte köprüden ayrıldı.
 
 Bir saat sonra tekrar toprak yola çıktı. Atların toynakları yarıştı ve
@@ -2225,12 +2243,12 @@ Doktorun şaşkınlığı arttı. "Alec de mi?"
 "Skipper?" Allan'ın kahkahası duyuldu. "Doktor, sanırım Skipper yumuşuyor.
 Elbette orada olduklarını biliyor--biliyor olmalı. Kuzen Bruce da. Hatırlar mısın
 Bruce--tatilde geldiğinde sürekli meyve bahçesinden oğlanları kovalardı?
-Dün gece onu çingenelerden biriyle hoş bir şekilde konuşurken gördüm."
+Dün gece onu çingenelerden biriyle hoşça konuşurken gördüm."
 
 "Bruce neredeydi? Kamplarında mıydı?"
 
 "Hayır; aşağıdaki vadi köprüsünde." Spurs ata dokundu. "Sen ve Joe
-bu öğleden sonra mı burada olacaksınız?"
+bu öğleden sonra mı geleceksiniz?"
 
 "Hiçbir şey beni uzak tutamaz," dedi Dr. Stone sessizce. At nal seslerinin
 artışıyla gitmişti ve kör adam devam etmeden önce bir süre daha düşündü.
@@ -2252,11 +2270,11 @@ Joe baktı. "Nereden bildin?"
 "Hanımefendi beni uyardı. Sonra, orada kim varsa, bir piposu vardı. Sıcak tütün
 tanecikleri yüzüme üflendi."
 
-Çocuğun kalbi bir an durakladı. "Sence çingeneler--"
+Çocuğun kalbi bir anlığına durdu. "Sence çingeneler--"
 
 Kör adam omuz silkti. "Vadide ne hikaye anlatılabilir bilmek istiyorum. Bir bak, Joe ve gözden uzak dur."
 
-Takımını çıkarmış olan hanımefendi, bir parça güneşte uyukluyordu, ama Dr. Stone,
+Takımını çıkarmış olan hanımefendi, bir parça güneşte uyukluyordu ama Dr. Stone,
 görmeyen gözlerinin arasında şaşkın bir ifadeyle oturuyordu. Az sonra, toprak yolda tanıdık ayak sesleri geldi ve ayağa kalkıp
 verandanın kapısına gitti.
 
@@ -2267,13 +2285,13 @@ kaya yerinden oynamış ve çok fazla toprak kazılmış. Bunun bir anlamı var 
 mandaldan aşağı indirdi. "Partiye bakmamızın zamanı geldi."
 
 Allan Robb'un evi gürültü ve kahkahalarla neşelendi. Gençler
-her yerdeydiler - verandada, çimenlikte, ahırlara doğru. Amcası ve köpeğiyle yürüyen Joe, meraklı bakışların ve seslerin farkına vardı; bunlar düzleşip sessizleşti. Ve böylece
+her yerdeydiler - verandada, çimenlikte, ahırlara doğru. Amcası ve köpeğiyle yürüyen Joe, meraklı bakışların ve seslerin farkına vardı ve bunlar düzleşip sessizleşti. Ve böylece
 büyük salonda Allan'la buluşmak üzere verandaya çıktılar.
 
 "Geldiğinize sevindim, Doktor. Joe, size kısrağı göstereyim--" Sesi
 kesildi. "Bruce, işte eski bir dost."
 
-Joe bir adım geri çekildi. Bruce Robb, gururlu ve buyurgan bir şekilde, onu sık sık Allan'ın arazisinden
+Joe bir adım geri çekildi. Bruce Robb, gururlu ve buyurgan bir şekilde, onu sık sık Allan'ın arazilerinden
 kovmuştu ve hala adamdan biraz korkuyordu. Fakat
 bugün tanıştığı Bruce asık suratlı ve huzursuzdu ve kesilmiş, siyah bir bıyığı kemirme alışkanlığına sahipti.
 
@@ -2282,14 +2300,14 @@ Neden olmasın? Her gün bir adam reşit olmaz."
 
 "Bir gün erken gelmedin mi?" diye sordu Dr. Stone yumuşak bir sesle.
 
-"Günün gelmesini neden bekleyesin ki. Karşıla; selamla; eşiğinde karşıla. Eski Kızılderili kabileleri doğru fikre sahipti."
+"Günün gelmesini neden bekleyesin ki? Karşıla; selamla; eşiğinde karşıla. Eski Kızılderili kabileleri doğru fikre sahipti."
 
 Joe, Kızılderililerin Allan'ın doğum günüyle ne ilgisi olduğunu merak etti.
 
 "Sembolizm," diye kükredi Alec Landry yürekten. "Gece yarısı Allan reşit olur ve hemen bir erkeğin ayrıcalıklarını kullanmaya başlar. Saatin bir dakikasını
 geçerken iki tanıkla kütüphaneye girer ve vasiyetini
-imzalar. Yarın sabah saat dörtte Bruce'un ona verdiği kısrağı eyerleyecek ve ilk kez binecek. Gece karanlığında ve kendi arazisinde binecek, Doktor. Ormanın içinden köprüye,
-ve vadinin üzerinden ve Doğu Tepesi'ne kadar binecek. Ve sonra, tepede tek başına,
+imzalar. Yarın sabah saat dörtte Bruce'un ona verdiği kısrağı eyerleyecek ve ilk kez binecek. Gece karanlığında ve kendi arazisinde binecek, Doktor. Ormanın içinden köprüye kadar binecek,
+ve vadiyi aşacak ve Doğu Tepesi'ne çıkacak. Ve sonra, tepede tek başına,
 şafakta erkekliğiyle karşılaşacak."
 
 "Harika bir fikir," dedi kör adam. Ve sonra: "Beyefendilerden herhangi birinizi bir pipo dolusu tütün için rahatsız edebilir miyim?"
@@ -2323,8 +2341,7 @@ kesintisiz kaldı.
 
 Kadın acı verici derecede yaşlıydı ve buruşuktu ve bükülmüş tahtadan yapılmış
 sağlam bir sopanın yardımıyla verandaya doğru ilerledi. Solmuş, perişan, bir zamanlar neşeli renkli giysilerinin hacimli kıvrımlarında bile kemiklerden ve kahverengi, buruşuk etten oluşan kırılgan bir iskelet gibi görünüyordu. Zayıf boynuna boncuklar dizilmişti; kulaklarından pirinç halkalar sarkıyordu. Ve
-Joe büyülenmiş bir şekilde izlerken, kadın yaşlılığın verdiği yavaşlıkla
-yürüyüş yolunda yavaşça topallayarak yürüyordu.
+Joe büyülenmiş bir şekilde izlerken, kadın yaşlılığın verdiği yavaşlıkla yürüyüş yolunda ağır ağır topallayarak yürüyordu.
 
 "Nereden geldi?" diye sordu Bruce.
 
@@ -2345,8 +2362,8 @@ Alec Landry kalabalığın arasından fırladı.
 
 "Bu serseri burada ne yapıyor?" diye sordu sertçe.
 
-Bruce ince bir gülümsemeyle. "Farklı bir sembolizm, Skipper. Kehanet
-yaratmak. Tehlike, ölüm ve kıyamet. Hoş ihtiyar cadı."
+Bruce ince bir gülümsemeyle. "Farklı bir sembolizm, Skipper.
+Kehanet yaratmak. Tehlike, ölüm ve kıyamet. Hoş ihtiyar cadı."
 
 Joe, Landry'nin yüzünün öfkeden kızardığını gördü. Bruce'un yanından geçerek merdivenlerden aşağı indi, gücüyle iri yarıydı ve eğilmiş, küçülmüş
 bedenin üzerinde yükseldi.
@@ -2358,7 +2375,7 @@ Eğilmiş bohça kıpırdamadı.
 "Beni duyuyor musun?" diye kükredi Alec. "Git!"
 
 Yavaşça pençe benzeri bir el parşömen yüzün üzerinde yükseldi.
-Birkaç saniye orada durdu ve o saniyeler boyunca kimse kıpırdamadı veya konuşmadı.
+Birkaç saniye orada durdu ve o saniyeler boyunca kimse hareket etmedi veya konuşmadı.
 
 "Kör adam," diye hırladı. "Bana kulak ver. Kör adam görecek ve
 kurt gülde bir diken bulacak."
@@ -2374,11 +2391,11 @@ Alec Landry öfkelendi. "Bana dikkat edin, Doktor, eğer bu mahallede bir yarama
 
 "Nasıl?" diye itiraf etti doktor yumuşak bir şekilde. Görmeyen gözlerinin etrafında sıkışmış çizgiler oluşmuştu. Leydi huzursuzca sol bacağına doğru hareket etti ve Allan yaşlı kadının ziyaretinin yarattığı depresyonu dağıtmaya çalıştı.
 
-"Sizin talihiniz, nazik efendiler," diye taklit etti; "bu evin üzerinde bir çatı var--." Kahkahalarla gülmeye başladı. "Ne kadar da çok çürümüş! Sana kısrağı
+"Şansınıza, nazik efendiler," diye taklit etti; "bu evin üzerinde bir çatı var--." Kahkahalarla gülmeye başladı. "Ne kadar da çok çürümüş! Sana kısrağı
 göstereceğimi söyledim, Joe. Geliyor musunuz, Doktor?" ve parti, sesini ve tatil havasını
 kazanarak ahır avlusuna doğru ilerledi.
 
-Joe, kısrağın hayranlıkla heyecanlandığını gördü, harikaydı. Bir seyis onu
+Joe, kısrağın hayranlıkla heyecanlandığını gördü, muhteşemdi. Bir seyis onu
 kükreyerek ve dalarak dışarı çıkarmıştı. Aniden arka ayakları üzerindeydi,
 havayı tırmalıyor, ıslık çalıyor ve homurdanıyordu. Bir kız çığlık attı.
 
@@ -2401,14 +2418,14 @@ Bruce bıyığını kemirdi.
 
 "Sana da söylesem iyi olur," diye aniden bağırdı. "Elbette çingenelerin kamp kurduğunu biliyordum; bazılarıyla konuştum. Kendi taciz ve baskının tadına varınca, başkalarını rahatsız etmekten çekiniyorsun. Gerçek şu ki, Doktor, bir yıl önce sahip olduğum paranın neredeyse tamamını kaybettim. Skipper bir anlaşma hakkında sıcak bir ipucu verdi ve beni içeri aldı. Beni mahvetti."
 
-Joe, sağ elin artık bastonu sallamadığını gördü. Seyis, kısrağı ahıra geri götürdü ve kalabalık yeni bir ilgi arayışıyla
+Joe sağ elin artık bastonu sallamadığını gördü. Seyis kısrağı ahıra geri götürdü ve kalabalık yeni bir ilgi arayışıyla
 bağırarak uzaklaştı. Dr. Stone, "Hanımefendi, ev," dedi ve verandaya geri döndü. Ev bir anlığına boş gibi göründü; ama aniden geniş, ortadaki holün
 odalarından birinden bir ses geldi.
 
 "Size söylüyorum, yapamam--şimdi değil. Bana zaman verin. Bir hafta--en fazla iki. Başaracağım. Ben--"
 
 Kör adamın ayakları sertçe zemine çarptı. Ses aniden
-kesildi ve bir alıcı bir kancaya takılarak geri çekildi. Alec Landry koridora çıktı.
+kesildi ve bir alıcı bir kancaya asıldı. Alec Landry koridora çıktı.
 
 "Ah! Sizsiniz, Doktor. Beni affedin; "Bekletmeyecek bir işim var." Aniden, kapıya doğru giderken döndü ve geri geldi. "Kısrak hakkında ne düşünüyorsun?"
 
@@ -2431,7 +2448,8 @@ Kör adam sessiz düdüğünü çalarak ayakta duruyordu. Şu anda köpeğe doku
 
 "Köprüye gidiyoruz," dedi Dr. Stone.
 
-Alacakaranlık gökyüzünden kayboldu ve karanlık çukurlarda toplandı. Bir anız tarlasının etrafından dolaşıp ormana daldılar ve Joe kalbinin
+Alacakaranlık gökyüzünden kayboldu ve karanlık çukurlarda toplandı.
+Bir anız tarlasının etrafından dolaşıp ormana daldılar ve Joe kalbinin
 sertçe attığını hissedebiliyordu. Yine köprü! Amcası orada bir şey bulmayı mı bekliyordu? Suyun mırıltısı onlara geldi ve adımlarını uzatıp öne doğru ilerledi.
 
 "Arkamda, Joe," diye seslendi Dr. Stone sertçe.
@@ -2472,7 +2490,8 @@ planladı?
 bir klan. Yaşlı kadın, kabilesinin erkekleri buna karışmış olsaydı ölümden bahsetmezdi. Ayrıca, kim onları bu tür bir iş için işe alır ve hayatının tüm günlerini şantajla geçirme riskini alırdı? Ben
 başka bir şeyle
 ilgileniyorum. Alec Landry, bir kötülük olursa onların varlığına tanıklık etmem için beni aradı. Bruce, onları neden
-kovmadığını açıklamak için çaba sarf etti. Her iki adam da doğruyu söylemiş olabilir, ancak bu olası değil. Bir veya ikisi de yalan söyledi."
+kovmadığını açıklamak için çaba sarf etti. Her iki adam da doğruyu söylemiş olabilir, ancak bu
+olası değil. Biri veya ikisi de yalan söyledi."
 
 Gece çökmüştü. Karanlıkta Dr. Stone, sanki ölüm ve dehşet dirseğinde değilmiş gibi sakin bir şekilde sigara içiyordu. Leydi hala vücudunu onunla
 dağ geçidi arasında tutuyordu.
@@ -2483,7 +2502,7 @@ Joe fısıldayarak konuştu. "Hangi suç, David Amca?"
 
 "Zimmete para geçirme. Landry'nin telefon konuşmasını duydun mu? Bruce'u batıran anlaşmada
 çok şey kaybetti. Muhtemelen kendisine ait olmayan
-parayı kaybetti - Allan'ın parası. Birisi Allan'ın
+Allan'ın parasını kaybetti. Birisi Allan'ın
 ölmesini planladı. Zengin olacağından emin olan adam mı, yoksa kendini hapisten kurtarabilecek adam mı? Bu köprüyü kim yıktı?" Acele etmeden piposundan külleri silkeledi. "Gel, Joe; geri dönüyoruz."
 
 Ormandan çıktıktan sonra Joe, tarlaların karşısındaki evi ışıklarla
@@ -2647,19 +2666,18 @@ Ama sanatçı sadece güldü. "Tesadüf, Roscoe." Kahkaha çocuğun kulaklarınd
 
 "Ona geleceğimizi söyle."
 
-Joe karda yürümeye devam etti. Bu tesadüf neydi? Bay Sweetman, "Sana söylemedim mi?" diye bağırdı. Neden Amca David'i görmeye geliyorlardı? Farley eviyle bir ilgisi mi vardı? Neden
+Joe karda yürümeye devam etti. Bu tesadüf neydi? Bay Sweetman, "Sana söylemedim mi?" diye bağırdı. Neden David Amca'yı görmeye geliyorlardı? Bunun Farley eviyle bir ilgisi mi vardı? Neden
 paniğe kapılarak meyve bahçesinden kaçmıştı? Şimdi oradan uzaklaşmışken, bu hareket
 aptalca ve korkakça görünüyordu. Amcasına
 söyleyemeyeceği bir şeydi, çünkü Dr. David Stone'un, kör olmasına rağmen,
 herhangi bir şeyden kaçabileceğini hayal edemiyordu.
 
 Saat sekizde sanatçı ve çiftçi eve geldi. Frederick
-Wingate, "Kalkmayın, Doktor," diye seslendi ve Dr. Stone sıcak bir şekilde
-elini uzattı. Leydi ayaklarının dibinde yatıyordu ve ziyaretçilere gözlerini kırpmadan bakıyordu.
+Wingate seslendi: "Kalkmayın, Doktor," ve Dr. Stone sıcak bir şekilde selamlamak için elini uzattı. Leydi ayaklarının dibinde yatıyordu ve ziyaretçilere gözlerini kırpmadan bakıyordu.
 
 Joe Morrow da bakıyordu. Farley evi miydi?
 Deri ceketi, kadife pantolonu ve
-ağır çizmeleriyle biçimsiz ve iri yarı olan Roscoe Sweetman, rahatsız bir şekilde bir sandalyede oturuyordu ve nasırlı elini
+ağır çizmeleriyle biçimsiz ve iri yarı Roscoe Sweetman, rahatsız bir şekilde bir sandalyede oturuyordu ve nasırlı elini
 sakalının bir tutamına sürtüyordu. Frederick Wingate, kıvrak ve neşeli,
 yerde yürüdü ve çocuğun gözlerini doldurdu. Bir opera pelerini omuzlarını örtmüştü,
 gömleği pileliydi, yakası uzun ve gevşekti ve ipek bir kravat gevşek, tanımlanamayan bir
@@ -2918,8 +2936,8 @@ herkesin duyabileceği şekilde
 hızlı, tuhaf bir sessizliğe dönüştüğü rüyalar. Sabahleyin dağlardan doğu rüzgarı esti ve gökyüzü gri ve bulutluydu. Joe iki kez Farley çiftliğine doğru yürüdü ve iki kez geri döndü. Bay Sweetman'ı küçük bir arabanın tekerleğinin üzerinde
 devam ederken, köye doğru
 ve bir saat
-sonra geri dönerken gördü. Ve sabah boyunca Dr. Stone sevgili piposunu
-ellerinde yakmadan oturdu ve bu sayede çocuk amcasının
+sonra geri dönerken gördü. Ve sabah boyunca Dr. Stone, ellerinde sevgili piposuyla
+yakmadan oturdu ve bu sayede çocuk amcasının
 rahatsız düşüncelere gömüldüğünü biliyordu.
 
 Öğleden sonra erken saatlerde Polis Yüzbaşı Tucker ve emlakçı Bay Rodgers, yüzbaşının arabasıyla eve geldiler. Joe kapının girişinde
@@ -3098,7 +3116,7 @@ keskin ve dikkatli hale geldiğini gördü.
 
 "Şimdi değil," dedi kör adam. "Yol çok düz. Bugün, Tucker
 evi aradığında, Ağustos _Miracle World_'ün kapağını ve
-bir dergi sayfasından koparılmış parçalanmış bir parçayı buldu. O parçada sadece on kelime vardı, Fred, ama bunlardan biri 'ses'ti. Bu, sesle ilgili bir kelime. Bir şans eseri halk kütüphanesine uğradım. Orada Frederick Wingate adlı birinin _Miracle World_ abonesi olduğunu ve her ay okuduktan sonra dergiyi kütüphaneye teslim ettiğini öğrendim. Ancak bu Bay Wingate Ağustos kopyasını teslim etmedi; kütüphane, tam bir dosya tutmak istediği için Ağustos sayısını istedi. O sayıda önemli bir makale vardı, Fred. Kütüphaneci bana okudu. Radyo ve telefonla yapılan ses efektleriyle ilgiliydi."
+bir dergi sayfasından koparılmış parçalanmış bir parçayı buldu. O parçada sadece on kelime vardı, Fred, ama bunlardan biri 'ses'ti. Bu, sesle ilgili bir kelime. Bir şans eseri halk kütüphanesine uğradım. Orada, Frederick Wingate adlı birinin _Miracle World_ abonesi olduğunu ve her ay okuduktan sonra dergiyi kütüphaneye teslim ettiğini öğrendim. Ancak bu Bay Wingate Ağustos kopyasını teslim etmedi; kütüphane, tam bir dosya tutmak istediği için Ağustos sayısını istedi. O sayıda önemli bir makale vardı, Fred. Kütüphaneci bana okudu. Radyo ve telefonla yapılan ses efektleriyle ilgiliydi."
 
 Joe'nun dudakları nefes nefese aralanmıştı. Frederick Wingate sanki hareket etme gücünü
 kaybetmiş gibi duruyordu.
@@ -3115,7 +3133,7 @@ düşündün. Hayalet konuşması başlasın.
 Ondan sonra kabloyu alabilirdin. İş biterdi. Farley'in
 malı mahvolurdu; onu bir şarkıya satın alırdın.
 
-"Aralık'tan Mart'a kadar ne yaptın? Gösteriyi mi uyguladın? Neyse,
+"Aralık'tan Mart'a kadar ne yaptın? Gösteriyi mi çalıştın? Neyse,
 beklenmedik bir şeyle karşılaştın. Sweetman da ucuza satın alma fırsatı gördü. Yani
 onu bir hayalet miras alma korkusuyla doldurdun. Sonra, yol
 açıldığında, Tucker içeri girdi. Polisi beklemiyordun. Bugün, Tucker'a
@@ -3292,8 +3310,8 @@ karyolasının kenarındaydı, başı ellerinin arasında, hıçkırarak ağlıy
 katil olduğumu ve cesedi ne yaptığımı soruyordu. Onu
 öldüreceğimi söylediğimde delirmiştim. Bunu kastetmemiştim. Sana söylüyorum, Doktor, bunu kastetmemiştim."
 
-Kör adam hücrenin karşısına geçti ve karyolaya oturdu, bir eli
-uzanıp çocuğun omzuna yaslandı.
+Kör adam hücrenin karşısına geçti, karyolaya oturdu ve bir elini
+uzatıp çocuğun omzuna koydu.
 
 Hıçkırık durmuştu. "Biz--şehirde yaşıyorduk," dedi çocuğun ellerinin arasından, "babam ve ben, ve babam hastalandı ve ona
 taşraya gitmesi gerektiğini söylediler. Nasıl oldu bilmiyorum ama Boothy
@@ -3301,20 +3319,19 @@ Wilkes'a geldik. Orayı sevdim. Sonra babam öldü ve bu her şeyi değiştirdi.
 ve beni yoksul çiftliğine göndermekle tehdit ediyordu. Sonra bağırıp çağırmaya başladı ve çok fazla yediğimi söyledi. İşte o zaman evden ayrıldım.
 
 "Philadelphia'ya gittim ve gazete sattım. Bana polislerin yolundan çekilmemi söylediler yoksa okulda olmam gerektiği için beni bir bakımevine
-kapatırlardı. Yazın o kadar kötü değildi ama kışın zordu. Karlı günlerde pek gazete satamazdım ve belki o gece bir
+kapatırlardı. Yazın çok kötü değildi ama kışın zordu. Karlı günlerde pek gazete satamazdım ve belki o gece bir
 koridorda uyumak zorunda kalırdım."
 
-"O zamanlar kaç yaşındaydın, Jud?"
+"O zaman kaç yaşındaydın, Jud?"
 
 "Yaklaşık on dört."
 
 Joe amcasına bir bakış attı. O sakinlik kaybolmuştu. Kör adamın yüzü acı bir öfkeyle kararmıştı.
 
 "Bu kadar soğuk olmayacak bir yere gideceğimi düşündüm, bu yüzden
-Kaliforniya'ya gittim. Orada şu veya bu işi yaparak iş buldum ve
-iyi geçindim. Bir gün, işsiz ve kendimi oldukça kötü hissettiğimde, bir adam beni
-durdurdu ve Jud Cory değil miyim diye sordu. Sanki sarhoş gibi göründüğümü
-söyledi ve ben de sarhoş olduğumu söyledim. Bana parayı oldukça hızlı harcadığımı söyledi ve ona ne parası olduğunu sordum ve bana burada bankada kasiyer olduğunu ve babam ölmeden birkaç gün önce çağrıldığını ve Wilkes'in evine gittiğini ve babamın Wilkes'in hesabına benim için dokuz bin dolar yatırdığını söyledi. Babam avukatlar ve mahkemelerle hiçbir
+Kaliforniya'ya gittim. Orada şu veya bu işi yaparak işler buldum ve
+iyi geçindim. Bir gün, işsiz ve kendimi oldukça kötü hissettiğim bir
+gün, bir adam beni durdurdu ve Jud Cory değil miyim diye sordu. Sanki sarhoş gibi göründüğümü söyledi ve ben de sarhoş olduğumu söyledim. Bana parayı oldukça hızlı harcadığımı söyledi ve ona ne parası olduğunu sordum ve bana burada bankada kasiyer olduğunu ve babam ölmeden birkaç gün önce çağrıldığını ve Wilkes'in evine gittiğini ve babamın Wilkes'in hesabına benim için dokuz bin dolar yatırdığını söyledi. Babam avukatlar ve mahkemelerle hiçbir
 iş yapmak istemiyormuş gibi görünüyordu ve Wilkes'in dürüst olduğunu düşünüyordu. Belki de bu adam bana doğruyu söylüyordu ve belki de söylemiyordu. Düşünmeye başladım ve belki de Wilkes bana ağır bir yük yüklemişti, böylece ben kaçıp gidecektim ve para ona kalacaktı. Bu yüzden buraya geri döndüm ve Wilkes'le ilk konuştuğumda bunun doğru olduğunu anladım."
 
 "Nasıl?" diye sordu Dr. Stone.
@@ -3323,7 +3340,7 @@ iş yapmak istemiyormuş gibi görünüyordu ve Wilkes'in dürüst olduğunu dü
 
 "Bu adamın adı neydi, Jud?"
 
-"Ben--Bilmiyorum. O kadar heyecanlandım ki sormayı unuttum ve daha sonra onu aramaya gittiğimde bulamadım. Bu bir
+"Ben--bilmiyorum. O kadar heyecanlandım ki sormayı unuttum ve sonra onu aramaya gittiğimde bulamadım. Bu bir
 fark yaratır mı?"
 
 "Korkarım öyle."
@@ -3332,7 +3349,7 @@ Jud Cory'nin elleri umutsuz bir hareketle dışarı çıktı. "Sanırım
 kimse bana inanmayacak." Yataktan kalktı, çılgınca, dehşet içinde.
 "Ama onu ben öldürmedim. Ben öldürmedim."
 
-"Senin öldürmediğini biliyorum," dedi Dr. Stone sessizce. "Bunu son on
+"Bunu yapmadığını biliyorum," dedi Dr. Stone sessizce. "Bunu son on
 dakikadır biliyorum."
 
 Kör adam dinginliğe kavuşmuştu.
@@ -3345,13 +3362,14 @@ ceseti nerede?"
 "Bankaya gidelim," diye önerdi doktor.
 
 Yine polis arabasına bindiler ve yine Leydi efendisini
-karda dikkatlice yönlendirdi. Bankanın başkanı Bryan Smith, onları özel ofisine aldı ve kapıyı kapattı.
+karda dikkatlice gezdirdi. Bankanın başkanı Bryan Smith onları özel ofisine aldı ve kapıyı kapattı.
 
 "Wilkes davası, beyler?"
 
 Yüzbaşı Tucker omuz silkti. "Bir bakıma. Cory çılgınca bir----"
 
-"Bir dakika, Yüzbaşı," dedi Dr. Stone sertçe. "Bay Smith, sekiz veya dokuz yıl önce bir kasiyer istifa etti mi?"
+"Bir dakika, Yüzbaşı," dedi Dr. Stone sertçe. "Bay Smith, sekiz veya dokuz yıl önce bir
+kasiyer istifa etti mi?"
 
 "Sekiz veya dokuz yıl mı?" Bankacı düşündü. "Herman Lang olmalı. O sıralarda istifa etti."
 
@@ -3373,20 +3391,20 @@ beş bin dolar nakit çekmişti. Nakit!"
 Kaptan Tucker'ın çenesindeki sarkma gitmişti. Arabada
 olumlu bir yargıda bulundu.
 
-"İşte sebebiniz, Doktor. Boothy'nin cesedini bulun ve Cory yakında bize
-beş bin dolarla ne yaptığını söyleyecek. Neyse, hepimiz Boothy'nin
+"İşte sebebiniz, Doktor. Boothy'nin cesedini bulun ve Cory yakında bize beş bin dolarla
+ne yaptığını söyleyecek. Neyse, hepimiz Boothy'nin
 bir kuruşun üzerinde sıkı bir yumruk tuttuğunu biliyoruz. Diyelim ki çocuğu soymuş. Bu cinayet için bir bahane mi?"
 
 "Jud'un cinayet işlediğini henüz kanıtlamadın," diye önerdi kör adam
 nazikçe.
 
-"Ceset mi?" Yüzbaşı Tucker sabırsız bir parmağını şıklattı. "Bu sadece bir
+"Ceset mi?" Yüzbaşı Tucker sabırsız bir şekilde parmağını şıklattı. "Bu sadece bir
 zaman meselesi. Çok uzağa götürülemezdi."
 
 Köy belediye binasının dışında bir polis memuru onların gelmesini bekliyordu. Otis
-Wilkes'in Baltimore'dan geldiğini ve şimdi Wilkes
+Wilkes'in Baltimore'dan geldiğini ve şu anda Wilkes
 çiftliğinde olduğunu söyledi. Yüzbaşı Tucker arabayı çevirdi. On beş dakika sonra
-ağaçlar arasındaki bir araba yoluna saptılar ve kayarak durdular. Wilkes
+ağaçların arasındaki bir araba yoluna saptılar ve kayarak durdular. Wilkes
 verandasında zayıf, sırım gibi bir adam huzursuzca ileri geri yürüyordu.
 
 "Onu her yerde Wilkes olarak tanırım," dedi Yüzbaşı Tucker kısık bir sesle. "Görünüş olarak Booth'yi beğeniyor, sadece bu tamamen bıyıklı. Burada
@@ -3399,7 +3417,7 @@ olduğunuzda Leydi'yi kullanabilir miyim, Doktor?"
 Arabadan inip eve doğru gelirlerken, Joe Morrow'un gözleri sadece
 verandadaki adamdaydı. Bir ses korkuluktan onlara doğru seslendi.
 
-"Kaptan Tucker?" Ses tonu yüksek, burundan gelen bir tını taşıyordu. "Goshen Diyarı,
+"Kaptan Tucker?" Ses tonu tiz, burundan gelen bir tını taşıyordu. "Goshen Diyarı,
 donana kadar seni bekledim." Cümle boğuk, tükürüklü bir öksürükle sona erdi. Adam bir nefes patlamasıyla
 şiddetli bir şekilde tükürdü. "İçeri gir; soğuktan içeri gir."
 
@@ -3409,15 +3427,14 @@ sanki bir hayalet bulmayı bekler gibi huzursuzca etrafına bakıyordu.
 Yolun kenarındaki arazinin bir kısmına bakan bir ön odaya girdiler.
 En azından burada güneş vardı.
 
-"Onu yakaladılar mı?" diye sordu Otis Wilkes. "Bu Jud Cory mi?" Konuşması, aynı
-boğucu öksürük, aynı
-tükürüklü nefes patlamasıyla bir anlığına kesildi. "Boothy'yi öldüren bu Jud Cory."
+"Onu yakaladılar mı?" diye sordu Otis Wilkes. "Bu Jud Cory mi?" Konuşması, aynı boğucu öksürük, aynı kesik kesik nefes
+patlamasıyla bir anlığına kesildi. "Boothy'yi öldüren bu Jud Cory."
 
-Joe, amcasının yüzündeki ani, dikkatli bakışın farkındaydı.
+Joe, amcasının yüzünde aniden beliren, dikkatli bir ifadenin farkındaydı.
 Yüzbaşı
 Tucker çok, çok yavaş bir şekilde cevap verdi.
 
-"Polis karakolunda mı durdun, yoksa doğrudan eve mi geldin?"
+"Polis karakolunda mı durdunuz, yoksa doğrudan eve mi geldiniz?"
 
 "Elbette eve. Başka nerede olabilirdi ki, belki de Boothy ölü yatıyordu?"
 
@@ -3449,7 +3466,7 @@ sıkı yumruğuyla bilinen bir adam, bir bankadan beş bin dolar nakit çekmek i
 öldürüldüğüne inanıyoruz."
 
 "O zaman neden etrafta durup hiçbir şey yapmadan vakit kaybediyorsun?" Bay Wilkes'in
-patlaması titrek bir falsetoya dönüştü. "Onu bul. Ben de bir ödül vereceğim."
+patlaması titrek bir falsettoya dönüştü. "Onu bul. Ben de bir ödül vereceğim."
 
 "Şimdi köpekle bir arama başlatıyoruz," diye sakinleştirdi Yüzbaşı Tucker, telaşlı adamı. "Eğer gelmek istersen----"
 
@@ -3505,18 +3522,18 @@ Dr. Stone'un dudakları sessiz bir ıslığa dönüştü. "Boothy'nin kanı mı?
 
 "Neden olmasın?"
 
-"Çünkü, Yüzbaşı, eğer bu insan kanı olsaydı Leydi ürkerdi,
+"Çünkü, Kaptan, eğer bu insan kanı olsaydı Leydi ürkerdi,
 sızlanırdı ve titrerdi. Dikkatimizi buna çekerdi,
 ama şapkayı bize getirmezdi."
 
-Yüzbaşı Tucker öfkelendi. "Doktor, bu çok ileri gidiyor.
+Kaptan Tucker öfkelendi. "Doktor, bu çok ileri gidiyor.
 Akıllı bir köpek bile sadece bir köpektir. Geri dönüyoruz."
 
 Polis memuru korkunç bulguyu eve taşıdı. Joe
 karda tökezledi. Ter bandının yakınında o koyu leke vardı; onu
 görmüştü ve endişelenmişti. David Amca yanılıyor muydu? Verandayı geçtiler
 ve Bay Wilkes'in beklediği odaya girdiler ve adam o anda
-burundan gelen bir dehşetle bağırdı:
+burnundan dehşetle bağırdı:
 
 "Bu Booth'nin şapkası. Ve üzerinde kan var."
 
@@ -3591,7 +3608,6 @@ Adam hırlayarak ayağa kalktı. "Şu çeki bana ver!" Bayan bir uyarı homurtus
 "Telgraf çekip onu Doğu'ya getirmek basit bir iş olurdu," dedi doktor, anlamlı bir şekilde.
 
 Adamın gözlerindeki kurnazca kurnazlık yavaşça kaybolup gitti.
-
 Sandalyeye geri gömüldü.
 
 Dr. Stone kağıt parçasını uzattı. "Ne kadar, Joe?"
@@ -3801,7 +3817,7 @@ ulaşmamıştı. Yüzbaşı Tucker sahneyi kör adama anlatırken, Joe şapkayı
 "Olamazdı," diye ısrar etti Yüzbaşı Tucker sinirli bir şekilde. "Burada değil.
 Yer çok açık. Muhtemelen çocuğu ürküten bir şey oldu ve tabağı düşürdü."
 
-"Eğer korkmuşsa," diye sordu Dr. Stone yumuşak bir sesle, "neden eve koşmadı? Onu ne korkuttu? Olan her neyse o kadar hızlı mı oldu ki kaçacak zamanı olmadı? Ve sonra başka bir şey daha var."
+"Eğer korkmuşsa," diye sordu Dr. Stone yumuşak bir sesle, "neden eve koşmadı? Onu ne korkuttu? Her ne olduysa o kadar hızlı mı oldu ki kaçacak zamanı olmadı? Ve sonra başka bir şey daha var."
 
 "Ne?" diye çıkıştı Yüzbaşı Tucker.
 
@@ -3865,7 +3881,7 @@ alabilmesine hayret etti. Köşelere doğru baktı. Kapıda tembelce duran Petey
 "Kaçırıyor," diye fırlattı Yüzbaşı Tucker ona.
 
 Petey bembeyaz kesildi. "Bana yardım et, Kaptan. Ben işin dışındayım. Bana karşı hiçbir
-şeyin yok. Yemin ederim. Ben böyle bir şeye dokunmam. Kimi kaptı?"
+şeyin yok. Yemin ederim. Ben öyle bir şeye dokunmam. Kimi kaptı?"
 
 Cevap yoktu. Leydi, pençelerini çırparak,
 büronun altından bir kağıt topu çıkarmıştı. Yüzbaşı Tucker tomarı açtı.
@@ -3969,7 +3985,7 @@ köpek durdu.
 güzergahı, inek barınağı ve Billy'nin tavşanları."
 
 Yüzbaşı Tucker patladı. "Doktor, bu hiçbir yere varmıyor. Çocuk
-tavşanlara gitmiş olabilir. Şu anda takip ettiğin patika bu olabilir."
+tavşanlara gitmiş olabilir. Şu anda takip ettiğiniz yol bu olabilir."
 
 Ay ışığında, görmeyen gözler sakindi. "Kırık tabağı unutmuyor musun, Yüzbaşı? Yemle başladı. Neden onsuz devam etsin ki?"
 
@@ -4047,7 +4063,7 @@ küçük işlerle uğraşıyordu.
 Dr. Stone, "Ira, Leydi'ye bir içki getirebilir mi, Foster?" dedi.
 
 Ira bir tavada su getirdi. Kör adam tasmayı kaydırarak, köpeğe
-takıldı ve sendeledi. Joe, bir alarm çığlığı atarak öne atıldı.
+takıldı ve sendeledi. Joe, bir alarm çığlığıyla öne atıldı.
 Ama doktorun uzattığı kollar, tutulan adamın etrafından dolanmıştı;
 sağlam gövde boyunca aşağı, aşağı kaydılar--. Kendini yakaladı ve dikleşti. Ira Close somurtkan bir şekilde küfür etti ve kolunu salladı. "O parmak?" diye sordu Dr. Stone endişeyle. "Seni uyarmıştım. Neden bir doktora
 göstermedin?"
@@ -4170,7 +4186,7 @@ Hafifçe sersemlemiş görünen Yüzbaşı Tucker arabaya geri döndü. "Bizim �
 
 "Elbette."
 
-"Cebinde," diye sordu doktor hafifçe, "üç yüz dolar buldular mı?"
+"Cebinde," diye sordu doktor nazikçe, "üç yüz dolar buldular mı?"
 
 "Bir ruloda kuruşuna üç yüz dolar." Yüzbaşı üniforma şapkasıyla yüzünü yelpazeledi. Şapkanın hareketi aniden durdu. "Bakın, Doktor; yaralı elinde ilk ipucunu bulduğunu söylemiştin."
 
@@ -4202,8 +4218,6 @@ ancak bu kitap yayınlandığı ülkede kamu malı
 
 .
 *** END OF TURKISH PART ***
-
-
 ***END OF THE PROJECT GUTENBERG EBOOK DETECTIVES, INC.***
 
 

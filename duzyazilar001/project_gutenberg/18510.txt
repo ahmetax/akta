@@ -4,6 +4,7 @@ Yazar: James Runciman
 Yayın Tarihi: June 5, 2006 [EBook #18510]
 Dil: English
 Link: https://www.gutenberg.org/ebooks/18510
+Çeviri: Python-deep_translator-GoogleTranslator
 *** END OF AKTAHEADER ***
 The Project Gutenberg EBook of The Chequers, by James Runciman
 
@@ -26,6 +27,7 @@ Language: English
 Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE CHEQUERS ***
+
 *** START OF TURKISH PART ***
 Steven Gibbs, LN Yaddanapudi ve http://www.pgdp.net adresindeki Çevrimiçi
 Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
@@ -97,19 +99,19 @@ sefil insanların arasında yaşamalı ve onların eşiti, arkadaşı, sırdaş�
 eşit şartlara ulaştığınızda içkinin gerçek sonucunun ne olduğunu
 görmeye başlıyorsunuz. Din adamı, bölge ziyaretçisi, profesyonel
 uykulu--"himmetçi" olan tüm insanlar--asla gerçeği öğrenemiyor ve kesinlikle
-sersem sınıfları yalan söylemeye davet ediyorlar. Bir süre önce ülkede büyük bir kargaşaya yol açan bazı "ifşalar" okudum. Yazar müstehcenlik yayınlamakla suçlandı, ancak eserinde beni en çok etkileyen şey, mutlak cehalet gösterisiydi. Zavallı, masum adam, yabancıları etkilemek için kullanılan lehçede anlatılan hikayeleri dinlemişti ve kendi tanıdığım karanlık bir soylunun tonlarını duyar gibi olduğum için güldüm. İfşaların mutsuz satıcısı, altı hafta boyunca çalışma konuları arasında dolaştı ve sonra bir otorite olarak kuruldu. Elbette, sorguladığı zeki, aşağılık köpekler, gerekli olan her şeyi geri tuttular ve kurbanlarının zihnini, profesyonel alçakları bir ay boyunca eğlendiren karışımlarla doldurdular. O edebi maceracı, kulağıma her gün gelen eleştirileri duysaydı, birçok hevesli ruhun böylesine bariz bir "aptal"ı yağmalama şansı için can attığını görürdü. Sabah gazetesinde eserleri çıkan başka bir yazar, çeşitli tuhaf yerlere uçarak ziyaretler yaptığını iddia ediyor ve makaleleri gerçekmiş gibi yayınlanıyor; ancak resmi işlerle ilgili iki hikayenin doğruluğunu test etme şansım oldu ve bu ikisinin baştan sona yanlış olduğunu gördüm. Sadece yanlış olmakla kalmıyorlardı, aynı zamanda hiçbir şeyi göstermiyorlardı, çünkü yazar tasvir etmeye çalıştığı yaşam koşullarını bilmiyordu ve kurgusu binlerce kişiyi yanılttı. O halde, deneyim - iğrenç, sefil, uzun deneyim - Carlyle'ın "alçak sınıflar" olarak adlandırdığı insanların yaşamıyla ilgili gerçeği söyleyebilmek için gereklidir. Aynı deneyim size ancak yoksullar hakkında bir şeyler öğretebilir. Alçaklar aslında kimseye güvenmezler ve henüz bir ortaklarına karşı gelmeyen birini bile tanımadım; ancak alıştıkları insanların önünde kendilerini özgürce sergilerler. Ne yazık ki, alçaklar ve sefahat düşkünü fakirler çok fazla bir araya getirilmiştir. Bir adam, serseri olmadan umutsuz bir ayyaş olabilir, ancak serseriler ve ayyaşlar genellikle betimleyici bir zihniyete sahip kişiler tarafından topluca ele alınır. Bu hatalı bir doğa tarihidir. Ayyaşın suçlu olma olasılığı her zaman onda birdir; ancak son kötü adımı atanlar ile sadece hak kazananlar arasında ayrım yapmalıyız. Ve şimdi tarihimize gelelim.
+sersem sınıfları yalan söylemeye davet ediyorlar. Bir süre önce ülkede büyük bir kargaşaya yol açan bazı "ifşalar" okudum. Yazar müstehcenlik yayınlamakla suçlandı, ancak eserinde beni en çok etkileyen şey, mutlak cehalet gösterisiydi. Zavallı, masum adam, yabancıları etkilemek için kullanılan lehçede anlatılan hikayeleri dinlemişti ve kendi tanıdığım karanlık bir soylunun tonlarını duyar gibi olduğum için güldüm. İfşaların mutsuz satıcısı, altı hafta boyunca çalışma konuları arasında dolaştı ve sonra bir otorite olarak kuruldu. Elbette, sorguladığı zeki, aşağılık köpekler, gerekli olan her şeyi geri tuttular ve kurbanlarının zihnini, profesyonel alçakları bir ay boyunca eğlendiren karışımlarla doldurdular. O edebi maceracı, kulağıma her gün gelen eleştirileri duysaydı, birçok hevesli ruhun böylesine bariz bir "aptal"ı yağmalama şansı için can attığını görürdü. Sabah gazetesinde eserleri çıkan başka bir yazar, çeşitli tuhaf yerlere uçarak ziyaretler yaptığını iddia ediyor ve makaleleri gerçekmiş gibi yayınlanıyor; ancak resmi işlerle ilgili iki hikayenin doğruluğunu test etme şansım oldu ve bu ikisinin baştan sona yanlış olduğunu gördüm. Sadece yanlış olmakla kalmıyorlardı, aynı zamanda hiçbir şeyi göstermiyorlardı, çünkü yazar tasvir etmeye çalıştığı yaşam koşullarını bilmiyordu ve kurgusu binlerce kişiyi yanılttı. O halde, deneyim - iğrenç, sefil, uzun deneyim - Carlyle'ın "alçak sınıflar" olarak adlandırdığı insanların yaşamıyla ilgili gerçeği söyleyebilmek için gereklidir. Aynı deneyim size ancak yoksullar hakkında bir şeyler öğretebilir. Alçaklar aslında kimseye güvenmezler ve henüz bir ortaklarına karşı gelmeyen birini bile tanımadım; ancak alıştıkları insanların önünde kendilerini özgürce sergilerler. Ne yazık ki, alçaklar ve sefahat düşkünü fakirler çok fazla bir araya geliyor. Bir adam, serseri olmadan umutsuz bir ayyaş olabilir, ancak serseriler ve ayyaşlar genellikle betimleyici bir zihniyete sahip kişiler tarafından topluca ele alınır. Bu, hatalı bir doğa tarihidir. Ayyaşın suçlu olma olasılığı her zaman onda birdir; ancak son kötü adımı atanlar ile sadece hak kazananlar arasında ayrım yapmalıyız. Ve şimdi tarihimize gelelim.
 
 GEZGİN.
 
-Dün gece bar çok kalabalıktı ve hava duman ve kötü soluklarla boğulma noktasına kadar emdirilmişti. Cumartesileri gürültülü zamanlar saat 14:00'te ve ondan kapanış saatine kadar gelir. Öğleden sonra birkaç işçi akşam yemeğine eve gitmeden önce kendilerini şımartır ve duyulacak çok fazla salyalı tutarsızlık olur. Akşam yedi ile sekiz arasında adamlar içeri giriyor ve belirsiz bir mırıltı başlıyor; mırıltı zaman geçtikçe daha da yüksek ve daha da karmaşıklaşıyor ve saat onda şirketimiz tam gaz bağırıyor ve tüm borular tam gaz çalışıyor. Sessizce içeri girdiğimde, sahnenin sıkıcı haliyle yeterince
+Dün gece bar çok kalabalıktı ve hava duman ve kötü soluklarla boğulma noktasına kadar emdirilmişti. Cumartesileri gürültülü zamanlar saat 14:00'te ve saat ondan kapanış saatine kadardır. Öğleden sonra birkaç işçi akşam yemeğine eve gitmeden önce kendilerini şımartırlar ve duyulacak çok fazla salyalı tutarsızlık vardır. Akşam yedi ile sekiz arasında adamlar içeri giriyor ve belirsiz bir mırıltı başlıyor; mırıltı zaman geçtikçe daha da yüksek ve daha da karmaşıklaşıyor ve saat onda şirketimiz tam gaz bağırıyor ve tüm borular tam gaz çalışıyor. Sessizce içeri girdiğimde, sahnenin sıkıcı haliyle yeterince
 iğrenç olduğunu düşündüm. Gaz, kokunun arasından uykulu bir parlaklıkla parlıyordu ve kükreyen mürettebatın alçak maskeleri bir şekilde
 bana _bir_ vahşi, çarpık yüze baktığım izlenimini bıraktı. Hipodrom hırsızı ve "hızlı" bir adam beni nazikçe selamladı. Eğer varsa, o bir av hayvanıdır. Domuz gözleriyle balta yüzü, ince,
 zalim dudakları, kare çenesi hepsi katilce ve gerçekten de bir gün cinayet işleyeceğini düşünmeden edemiyorum. O cana yakın
 ruh halindeyken çok iğrenç oluyor, ama ben kimseden nefret edemem,
 ve birbirimizden hoşlanmasak da, ve Ramper'ın
 benimle ne yapacağını bilememesine rağmen, gülümsüyoruz ve gülümsüyoruz. Onunla ilk tanıştığımda, bir yarış toplantısına gidiyorduk ve bana eşlik etmeyi teklif etti. Sınıfındaki herkes gibi, o da birçok "kesinliği" biliyordu,
-ve ilgi çekici bir açık sözlülükle, beni "biraz" "gitmenin" önüne koymayı teklif etti. "Yarışçı serseri asla paradan bahsetmez; aslında, zihninin çarpıklığı onu herhangi bir şeyi doğru adıyla çağırmaktan alıkoyar.
-Onun için dünya, "sahip olanlar" --_bu_ paradır-- ve adil veya haksız herhangi bir şekilde "bir parça" elde etmek isteyenler arasında bölünmüştür. Uzun zaman önce, o gün, bu yaratık benim biraz param olduğunu hayal etti ve beni bir şekilde soymaya kararlıydı. Beni kandırdığını hayal etmesine izin verdim, çünkü alçak, kurnaz bir haydutun başarılı bir dolandırıcılık ayarladığını düşündüğünde onu izlemekten daha çok zevk aldığım hiçbir lüks yoktur.
+ve ilgi çekici bir açık sözlülükle, beni "biraz" "gitmenin" önüne koymayı teklif etti. "Yarışçı serseri asla paradan bahsetmez; aslında, zihninin çarpıklığı onu herhangi bir şeyi doğru adıyla anmaktan alıkoyar.
+Onun için dünya, "sahip olanlar" --_bu_ paradır-- ve herhangi bir şekilde, adil veya haksız, "biraz" elde etmek isteyenler arasında bölünmüştür. Uzun zaman önce, o gün, bu yaratık benim biraz param olduğunu hayal etti ve beni bir şekilde soymaya kararlıydı. Beni kandırdığını hayal etmesine izin verdim, çünkü alçak, kurnaz bir haydutun başarılı bir dolandırıcılık ayarladığını düşündüğünde onu izlemekten daha çok zevk aldığım hiçbir lüks yoktur.
 Tamamen güvenilir bir adamla tanıştırıldım. Güvenilir adamın yüzü neredeyse akıl hocamınki kadar kötüydü ve tavırları belki de biraz daha saldırgandı. İlk bahsimiz aramızdaki tüm işlemleri kapattı; tamamen beklediğim gibi, gülünç derecede cömert bir fiyat aldım ve
 _kazandım_. Bir anlaşma teklif ettiğimde, kapitalist bana dik dik baktı erdemli bir şekilde
 ve tutkuyla bağırdı--ki bu da beklediğim şeydi. Sonra
@@ -138,22 +140,21 @@ Aynı akşam Bay Ramper, benim üzerimde pratik yapmak için son çabasını gö
 The Chequers barında bir spor grubunun arasında oturuyorduk, o
 "Dexter'a yerleşmek daha iyi." dedi. "Dexter? Ya Dexter?" "Dexter'ı Folly'ye
 karşı almadın mı?" "Bu kadar da aptal değil." Sonra tazı, kabilesinin tarzında sesini yükseltti. "Beni Galce mi yapacaksın?
-O on şili ödemeyi düşünmüyor musun? Bunu senin çiçek açan karaciğerinden çıkaracağım!" Bütün bunlar dikkat çekmeyi amaçlayan bir bağırışla söylendi ve canavarın sesinin gıcırtıları
-yumruğunu onun iğrenç
-yüzüne vurmaya meyilli olmama neden oldu. Ama sadece sırıttım ve "Ne kadar zavallı bir yalancısın" dedim.
+O on şili ödemeyi düşünmüyor musun? Bunu senin çiçek açan karaciğerinden çıkaracağım!" Bütün bunlar dikkat çekmeyi amaçlayan bir bağırışla söylendi ve o canavarın sesinin gıcırtıları beni onun iğrenç
+yüzüne yumruğumu
+atmaya yöneltti. Ama sadece sırıttım ve "Ne kadar zavallı bir yalancısın" dedim.
 
-Ramper ne kadar çığlık atarsa, ben de o kadar çok güldüm; vurmaya cesaret edemedi
-ve sonunda, ona kapitalistle küçük bir ganimet bölüştüğünü hatırlattığımda, bir iki küfür mırıldandı ve
-sevecenliğe büründü. Bu yaratıklardan birini utandıramazsın ve Ramper artık benimle
+Ramper ne kadar çok çığlık atarsa, ben de o kadar çok güldüm; vurmaya cesaret edemedi
+ve sonunda, ona kapitalistle küçük bir ganimet bölüştüğünü hatırlattığımda, bir iki küfür mırıldandı ve nezakete büründü. Bu yaratıklardan birini utandıramazsın ve Ramper artık benimle
 çok gizli bir ilişki içinde. Kavga etmediğimiz için çok mutluyum,
-çünkü beni tüm tanıdıklarımın en ilginç ve en saygıdeğer olanlarından biriyle tanıştırdı. Ramper, mide bulandırıcı nefesini kulağıma üfleyerek, "Lincoln için iyi şeyler bilen bir adam var. Oradaki
+çünkü beni tüm tanıdıklarımın en ilginç ve en saygıdeğer olanlarından biriyle tanıştırdı. Ramper, mide bulandırıcı nefesini kulağıma üfleyerek, "Lincoln için iyi bir şeyler bilen bir adam var. Oradaki
 köşede. Oturalım." Bir dakika içinde kendimi
 cin bardağının üzerine asık suratla eğilmiş ve bana bulanık, somurtkan gözlerle gizlice bakan tuhaf, hırpalanmış bir adamla konuşurken buldum. Kanı
 safrayla
-dolmuştu ve ellerinin aniden kas seğirmesini engelleyemiyordu. Eklem yerleri şişmişti ve parmakları hafifçe
+dolmuştu ve ellerinin aniden kaslarının seğirmesini engelleyemiyordu. Eklem yerleri şişmişti ve parmakları hafifçe
 bükülmüştü. Açıkça alkolik aşırılıklardan dolayı kemiklerine kadar hastaydı. Parlak bir palto giymişti ve kemikli bacakları pantolonunu delmekle tehdit ediyordu. Şımarık yağlı şapkasını geriye ittiğinde, oldukça güzel bir alnı vardı --iyice dolgun, güçlü, kare-- ama gördüğüm en zayıf ve en şehvetli ağza sahipti. Alt çenenin neredeyse hiç belirtisi yoktu ve çene dudaktan zayıf boynuna doğru keskin bir şekilde geri çekilmişti.
 
-Adamım, güçsüzlük havasıyla garip bir şekilde tezat oluşturan derin bir sesle konuşuyordu ve sadece iyi bir aksanı olmadığını, aynı zamanda sözlerinin resmi ve cilalı bir konuşmayla söylendiğini fark ettim. At yarışı hakkında konuştuk ve o, tekrar tekrar serbest şiire dönüşen dengeli bir tahterevalli gibi birbiri ardına konuşmalar yaptı. "Lincoln için iyi bir şeyin olduğunu duydum.
+Adamım, güçsüzlük havasıyla garip bir şekilde tezat oluşturan derin bir sesle konuşuyordu ve sadece iyi bir aksanı olmadığını, aynı zamanda sözlerinin resmi ve cilalı bir konuşmayla kasıtlı olarak söylendiğini fark ettim. At yarışı hakkında konuştuk ve o, tekrar tekrar serbest şiire dönüşen dengeli bir tahterevalli gibi birbiri ardına konuşmalar yaptı. "Lincoln için iyi bir şeyin olduğunu duydum.
 Oynamaya katılma şansın var mı?" dedim. "Ben peri masallarına veya övünme hikayelerine kulak asmam. Bir adam kesin bir şeye sahip olduğunu söylediğinde, ona yüzüne karşı yalancı olduğunu söylerim. Şans yolları bizim anlayışımızın çok ötesindedir ve sadece denediğimi söyleyebilirim. Bilgim var. Newmarket'tan günlük mesajlar alıyorum ve diğer insanlar kadar haklı olma şansım var;
 ama Şair'in ne dediğini biliyorsun. Ah! İnsan doğasının ne kadar öğrencisiydi o adam! Ne kadar da zeki! Anlayışta bir tanrıya ne kadar benziyor! Kehanet ve şans hakkında ne dediğini biliyor musun? Ben sadece bir girişime bir ok atarım ve girişimim işe yaramazsa, o zaman 'Öde ve hoş görün' derim."
 
@@ -161,10 +162,10 @@ Konuşmasının görkemli yuvarlanması çok komikti ve sanki yirmi metre uzakl�
 duygusallaştı ve sonunda, "Ben bir kumarbazım. Heyecanım olmasaydı hayata
 dayanamazdım. Bu benim kanım. Yine de,
 sözlerimin zar atanların yeminleri kadar yanlış olduğunu düşünmeyin," ve sağ elini
-efendice bir hareketle salladığında, "Kesinlikle yaşlı bir aktör," diye düşündüm.
+asil bir hareketle salladığında, "Kesinlikle yaşlı bir aktör," diye düşündüm.
 Duyuları yerinde olduğu sürece, bahis hakkında kurnazca konuştu ve sözleri, sıradan yarış konuşmalarını
 bu kadar iğrenç kılan karışık batıl inanç ve haylazlıktan uzaktı; ancak hızla içmeye başladığında kısa sürede
-şiddetli oldu ve bir deli gibi devam ederek bitirdi. Kulakları sağır eden bir hararetle "Hamlet" ve "Coriolanus"tan pasajlar bağırdı ve sonunda, kesinlikle hassas olmayan mürettebatımızın geri kalanından genel bir protesto aldı. Sonra haykırışı duygusallaştı. "Tanrı beni
+şiddetlendi ve bir deli gibi devam ederek bitirdi. Kulakları sağır eden bir hararetle "Hamlet" ve "Coriolanus"tan pasajlar bağırdı ve sonunda, kesinlikle hassas olmayan mürettebatımızın geri kalanından genel bir protesto aldı. Sonra haykırışı duygusallaştı. "Tanrı beni
 neden böyle yarattı? Neden yorgun bir hayatın yükü altında homurdanıp terliyorum? Bana
 ver, ah, bana geçen günleri ver!" Sonra
 bankın yanına düştü ve hemen ardından uzun, hırıltılı horlaması kesik kesik duyuldu. "Bırakın
@@ -174,7 +175,7 @@ acı kürkün damağını çoktan kapladığını görebiliyordum. "Eve bir mata
 ve yatağa girdiğinde kendini toparla." Billy sertçe havayı kavradı. "Bu cehennem sinekleri erken başladı." Lekeler gözlerinin önünde dans ediyordu ve sanırım önünde çirkin bir gece vardı;
 ama onu eve giderken göremedim.
 
-PERŞEMBE.--Sahne arkadaşım hakkında epey bir şey öğrendim ve
+PERŞEMBE.--Sahte arkadaşım hakkında epey bir şey öğrendim ve
 özellikle gece geç saatlerde oldukça gizliyiz. Bol bol ağlıyor
 ve kendi günahlarını hatırlıyor, ama bence oldukça doğru söylüyor. Etkileyici,
 serseri bir tarihçesi var. Ahlakçılık zaman kaybıdır, ama kişi
@@ -182,7 +183,7 @@ bir içkici, aktör, bahisçi Billy
 Devine'in hayatıyla ilgili olarak neredeyse can sıkıntısı derecesinde ahlakçılık yapabilir.
 
 Devine'in hikayesini anlatmadaki tuhaf görkemli tarzı ilk duyulduğunda oldukça etkiliydi, ama bir hiciv gibi okunabilirdi, bu yüzden
-anlatımını kendi lehçeme çevirdim. Hızlı, zeki bir çocuktu,
+anlatımının kendi lehçeme çevirdim. Hızlı, zeki bir çocuktu,
 ve nazik bir akademide bahşedilen kültür onun için çok dardı.
 Çok fazla romantik roman ve daha da fazla şiir okudu.
 Okul derslerini ihmal etti ve birkaç yıl sonra tedavi edilemez bir
@@ -212,7 +213,7 @@ bir şekilde bana yukarı doğru uçan bir ok başını hatırlattı; şimdi ço
 hoş olmayan bir şekilde belirgin değildi. İnsan kibrinin alkolizmi ortadan kaldırmadığını sık sık merak ederim. İnsanlar kibirli hayvanlardır, ancak
 aynanın önünden geçerken bile sessizce bir bakış
 atamayan yakışıklı bir adam neşeyle kendini uyuşturmaya devam edecektir her özellik
-dönüşene kadar. Yüzdeki bozulma sürecini o kadar çok vakada gördüm ki, bir adamın ne kadar süredir içki içtiğini ve bunu zihnimde olan ve içgüdüsel olarak
+dönüşene kadar. Yüzdeki bozulma sürecini o kadar çok vakada gördüm ki, bir adamın ne kadar süredir içki içtiğini ve bunu da zihnimde olan ve içgüdüsel olarak
 danıştığım kademeli ahlaksızlık standardından başka bir rehber olmadan anlayabiliyorum. Devine kadınlar için çekici olmalı, çünkü eğer elinde tuttuğu soluk nota koleksiyonuna bakılırsa, onu şımartmak için ellerinden geleni yapıyorlardı. Sonunda kaderiyle karşılaştı. Güzel, duygusal bir kız ona aşık oldu ve onunla bir randevu ayarlaması için ona baskı yaptı, bu yüzden yakışıklı genç aktör aşka tutulmuş genç kızla Hampton Court'ta buluşmayı ayarladı. Kestane çiçekleri muhteşemdi ve havada Mayıs ruhu vardı. "Sanırım aynı güneş ışığını ve aynı çiçekleri çok sık görüyorum, etrafta neler olup bittiğini anlayamayacak kadar gergin olsam bile," dedi zavallı, hırpalanmış adam. Kız hıçkırdı ve titredi. "Kendimi tutamadım; seninle tanışmak zorundaydım ve, Ah, eğer babam bilseydi, sanırım beni döverdi." Devine, kadının çok zengin bir tüccarın kızı olduğunu öğrendi ve hiç de memnun olmadı, çünkü romantik aktörler de diğer insanlar kadar iş dünyasına meraklıdır. Hoş öğleden sonra sona ermeden önce, kaçak Letty'yi çağırmak için izin almıştı ve o, ona Will demeyi öğretirken, o da pembe dudaklarını parlattı. Bay Devine'ın aşkta kesinlikle geride kalmadığı kesindi.
 
 Küçük, ihtiyatsız Letty, evden her seferinde çalmanın bir yolunu buldu ve yalan stokları çeşitli ve kapsamlı olmalıydı, çünkü kaçınılmaz felaket gelmeden önce üç ay geçti.
@@ -267,9 +268,9 @@ William'ın bir Amerikan randevusu vardı; ertesi akşam sekizde
 hızlı bir atı hazır olacaktı; Bay Billiter bir telgrafla çağrılacak;
 sonra Southampton'a tren - ehliyet - New York'a posta ve sonsuza dek mutluluk! Letty okuldan kaçan bir kız öğrenci gibi dışarı fırlamalıydı - şapkayı veya pelerini boş ver; kaçış _yapılmalıydı_ ve sonra yakalayanlar yakalasın.
 
-Bu Devine'in planıydı ve bunu mükemmel bir cesaretle gerçekleştirdi.
-İki hafta sonra posta vapuru Atlantik'in ortasından
-geçiyordu ve cesur aktör karısıyla
+Bu Devine'ın planıydı ve bunu mükemmel bir cesaretle gerçekleştirdi.
+
+İki hafta sonra posta vapuru Atlantik'in ortasından geçiyordu ve cesur aktör karısıyla
 mutlu, boş günler geçiriyordu.
 
 * * * * *
@@ -283,7 +284,8 @@ kendini sabitlemek için mendille içkisini yavaşça yukarı çekiyor. Billy ne
 PEMBE TOM KEDİ.
 
 Yayıncı arkadaşım Loafer'ın anlatılarına "heyecan verici" diyor, ama
-Ben, Günlükler'in editörü olarak, başka bir sıfat tercih ederim. Loafer, neşe ve zarafet dünyasından vazgeçtikten sonra, sadece kasvet ve sefaletle ilgilenen bir adamdı. Onun gibi adamlar, ezici bir zihinsel darbe aldıklarında, her zaman yaralı hayvanlar gibi geri çekilir ve arkadaşlarını terk ederler. Şu anda yaşayan çok seçkin bir adam, on beş yıl boyunca ortadan kayboldu ve geri döndüğünde tamamen bir
+Ben, Günlükler'in editörü olarak, başka bir sıfat tercih ederim. Loafer,
+neşe ve zarafet dünyasından vazgeçtikten sonra, sadece kasvet ve sefaletle ilgilenen bir adamdı. Onun gibi adamlar, ezici bir zihinsel darbe aldıklarında, her zaman yaralı hayvanlar gibi geri çekilir ve arkadaşlarını terk ederler. Şu anda yaşayan çok seçkin bir adam, on beş yıl boyunca ortadan kayboldu ve geri döndüğünde tamamen bir
 yabancı olarak görülmeyi seçti. Eski benliği ölmüştü ve acıyla güçlenmiş ve
 kırılmıştı. Loafer o cinstendi.
 
@@ -300,7 +302,7 @@ Gece zarafetinle mutluydu.
 Hava gümüş ateşle doluydu,
 Çalıkuşu gümüş parlaklığa dokunmuştu;
 Bülbüller - kutsal koro -
-Senin için düğün şarkıları söylediler, kraliçem.
+Senin için gelin şarkıları söylediler, kraliçem.
 
 Ama şarkılar ve yıldız ateşi, gecenin ihtişamı,
 Ağaçların mırıltısı ve Okyanusun yuvarlanması,
@@ -310,7 +312,7 @@ Ruhumda titreyen Aşk.
 Daha ileride öfke ve umutsuzluk çığlığı gibi tek bir kısa dize var:--
 
 Ve o zaman her şeyin Sonu mu?
-Ey, Baba! Ne büyük bir felaket benimki--
+Ey, Baba! Ne büyük bir felaket benimkisi--
 Geri dönmeyen bir savurgan,
 Kabuğu yiyen ve domuz sürüsüyle dolaşan!
 
@@ -434,13 +436,13 @@ kişileri öldürmeyi düşünür. O gece, biz kağıt oynarken Bob'un elleri bi
 şiddetle şömineye fırlattı ve titreyerek ve öfkeyle oturdu. Yanına
 sıçradım ve terin boynundan aşağı aktığını gördüm.
 Ayakkabılarını çıkardım--çorapları sırılsıklamdı! "Sanırım
-alırsın, dostum. Hadi, biraz dana eti çayı iç, hemen
+alırsın, dostum. Hadi, biraz dana çayı iç, hemen
 uyku ilacı
 alayım." dedim. Bob daha da titredi.
 
-"Dana eti çayı yok. Bildiğin gibi, son üç gündür hiçbir şey içmedim. Yutmak
+"Dana çayı yok. Bildiğin gibi, son üç gündür hiçbir şey içmedim. Yutmak
 beni öldürür." Sonra korkunç bir fısıltıyla, "Yine
-hayvan bacadan aşağı iniyor. Bir pençe var! Şimdi kafası! Şimdi bir şans! Evet! Seni pembe şeytan, seni yakaladı! Üç gündür
+hayvan bacadan aşağı geliyor. Bir pençe var! Şimdi de kafası! Şimdi bir şans! Evet! Seni pembe şeytan, seni yakaladı! Üç gündür
 geliyorsun ve şimdi küstahsın. Yeo, ho! Bu onu bitirdi." Sonra ikinci bir
 sürahi fırlattı ve bir çığlık atarak bir kez daha battı.
 
@@ -463,14 +465,14 @@ oturuyor."
 
 Ev sahibi haklı olarak bağırdı: "Ev! O hariç her şey! Onu tutmak istediğimden değil ama önce onu doğru bir şekilde ele geçirmeliyiz. Annesi var, o ne yapabilir?" Sonra, sesini alçaltan kurnaz adam, "Bak, onun müşterisi olmadan kalmak neredeyse bana fayda sağlardı, çünkü yaşlı kadının elindeyim. Gerçek şu ki, onu harika bir kızla nişanladılar ve kız ona
 çok düşkün, çünkü o kadar iyi ve candan kimse yok, o düzgün olduğunda. Kızdan da hoşlanıyor ama kız onu geri istiyor,
-bilmiyor musun, ve o daha çok tekmeliyor. Bu yüzden geldiğinde, "Bir süre önlük bağlarım olmayacak," dedi ve hanımla tanışacak kadar iyi olana kadar eve yaklaşmasını istemiyorum. Çığlık atan bir kız, o--gerçekten harika; ve onu bunları giyerken görse aklını kaçırır. Sana ne yapacağımızı söyleyeyim. Bir bromür potasyum fıçı içkim var. bir şekilde
+bilmiyor musun, ve o daha çok tekmeliyor. Bu yüzden geldiğinde, "Bir süre önlük bağlarım olmayacak," dedi ve hanımla tanışacak kadar iyi olana kadar eve yaklaşmasını istemiyorum. Çığlık atan bir kız, gerçek bir harika; ve onu bunları giyerken görse aklını kaçırır. Sana ne yapacağımızı söyleyeyim. Bir bromür potasyum fıçı içkim var. bir şekilde
 onu ona sokalım ve sabah onu beslemeyi başarabiliriz.
 Gün içinde doktordan biraz daha malzeme alıp
 eve gitmeye hazır hale getireceğiz. Onu tekrar görmek istemiyorum, çünkü onu durduracak hiçbir şey yok."
 
 Odamıza çıktığımda, Bob yerde yatıyordu ve
 ağır ağır nefes alıyordu. Gözlerini açtı, ayağa kalktı ve biraz sendeledi; sonra,
-"İnan biraz yürüyebilirim; çekme yolunda yürüyüşe çık." dedi.
+"Biraz yürüyebileceğime inan; çekme yolunda yürüyüşe çık." dedi.
 Ay vahşi bulutların arasından geçiyordu ve nehir,
 sırayla güçlü ışıklar ve geniş gölge şeritleriyle benekleniyordu. Bob yürürken mırıldandı; bu yüzden, ona sohbet etmek için bir bahane vermek amacıyla, "Neden
 donanımı bu kadar neşeli ve özgürce fırlatıyordun, Robert?" dedim. Dudaklarını kulağıma koydu ve şöyle dedi, "O pembe erkek kedi beni çok uzun zamandır takip ediyor ve ben ona hiçbir şey yapamam. Tanrım, her yerde! Pembe bir kedi, bilirsin, gözleri kırmızı ateşten. Hiç beklemediğim bir anda
@@ -603,23 +605,20 @@ Nasıl olduğunu. Ben de kendim aldım ve orada boşuna olmadığını biliyordu
 Ramper şüphesiz bir yalancı.
 
 Gezgin sık sık beni ziyaret etmemi isterdi, çünkü her gece cebimde sert bir matara taşıdığımı bilir. Hikayesinin geri kalanını bir araya getirdim ve daha az asık suratlı olduğumda kitabıma ekleyeceğim. Şu anda her gün
-ılımlılık dersi vereceğime ve paramı Dava için harcayacağıma yemin ediyorum; ama, bir şekilde, alışkanlık ve gezgin kanım benim için fazla. Benim gibilerden tüm erkekler gibi, Burns'ten aşağı, kötülükleri açıkça görebiliyorum ve doğalarını yeterince açık bir şekilde ifade edebiliyorum; ama onlardan uzak durmaya gelince, kabileme benziyorum, akıllıca stratejiler konusunda beceriksizim. _Vogue la galere!_
+ılımlılık dersi vereceğime ve paramı Dava için harcayacağıma yemin ediyorum; ama, bir şekilde, alışkanlık ve gezgin kanım benim için fazla. Benim gibilerden tüm erkekler gibi, Burns'ten aşağı, kötülükleri açıkça görebiliyorum ve doğalarını yeterince açık bir şekilde ifade ediyorum; ama onlardan uzak durmaya gelince, kabileme benziyorum, akıllıca stratejiler konusunda beceriksizim. _Vogue la galere!_
 
 Üç ay daha geçti ve günlüklerim hiç yazılmadı,
 sadece şans eseri parçalar. Gezgin her zamanki gibi ilginç!
-Onunla Newmarket'ta bir yarışta L2'ye bahis oynadım ve o da hemen ödedi. Zaman zaman küçük iyileşme belirtileri gösteriyor --nezaket filizleri--: ama bir yoğun cin ve Shakespeare büyüsü onu tekrar eski seviyesine getiriyor. Yine de, züppelerden daha eğlenceli; aslında, saygın bir
-bölüm arasında yer alacağımı sanmıyorum. Kendimi yakmak gibi bir iddiam yok: Haydutların ve serserilerin arasına giriyorum çünkü büyülenmişim; gördüğümü tam olarak anlatıyorum ve diğer insanların kelimelerimi pratik olarak kullanmasını sağlıyorum. Son üç ay boyunca, her zamanki gibi, çok etkilendim. Sanki sevdiğim herhangi bir yaratık yakında benden kaybolacakmış gibi görünüyor ve
-günlüğümün sayfaları mezar taşları sıraları gibi.
-
-Bir gece barda büyük bir gürültü yapıyorduk, çünkü bir kornet ve
-keman çalıyordu ve birkaç çift müzik ve biradan etkilenerek dans etmeye başladı. Bir ara çok sayıda kadın içeri giriyor ve
-onların tiz kahkahaları, gürültülü koromuzun tiz sesini oluşturuyor. Muhafızlarda görev yapan altı oğlu olduğunu
-övünen uzun boylu, geniş omuzlu bir kadın büyük bir kargaşa yarattı. Kilosu epey fazla. Dört saattir içiyordu ve vals teorisini açıklamaya çalıştığında, sanki yavrularının taburu hücum etmiş gibi içki içenleri ve içkiyi uçurdu. Kendisine rehberlik etmeye çalışan bir spor arabasını etkisiz hale getirmişti ve ev sahibi pratik bir itiraz için hazırlanıyordu ki, sert bir esintinin önünde koşuyormuş gibi tüm yolu yalpalayarak üzerime doğru uçtu. Şoka hazırlandım ama buna maruz kalmaya mahkum değildim. Küçük bir çocuk tezgahtan bir şişe bira almıştı ve eve doğru gidiyordu ki, uzun boylu kadın ona doğru
+Onunla Newmarket'ta bir yarışta L2'ye bahis oynadım ve o da hemen ödedi. Zaman zaman küçük iyileşme belirtileri gösteriyor -- naziklik filizleri --: ama bir yoğun cin ve Shakespeare büyüsü onu tekrar eski seviyesine getiriyor. Yine de, züppelerden daha eğlenceli; aslında, saygın bir
+bölüm arasında tekrar yer alacağımı sanmıyorum. Kendimi yakmak gibi bir iddiam yok: Haydutların ve serserilerin arasına giriyorum çünkü büyülenmişim; gördüğümü tam olarak anlatıyorum ve diğer insanların kelimelerimi pratik olarak kullanmasını sağlıyorum. Son üç ay boyunca, her zamanki gibi, çok etkilendim. Sanki sevdiğim herhangi bir yaratık yakında benim için kaybolacakmış gibi görünüyor ve günlüğümün sayfaları mezar taşları sıraları gibi. Bir gece barda büyük bir gürültü yapıyorduk, çünkü bir kornet ve keman çalıyordu ve birkaç çift müzik ve biradan etkilenerek dans etmeye başladı. Bir ara çok sayıda kadın geldi ve onların tiz kahkahaları, gürültülü koromuzun tiz sesini oluşturuyordu. Muhafızlarda görev yapan altı oğlu olduğunu övünen uzun boylu, geniş omuzlu bir kadın büyük bir kargaşa yarattı. Kilosu epey fazlaydı. Dört saattir içiyordu ve vals teorisini açıklamaya çalıştığında, sanki yavrularının taburu hücum etmiş gibi içki içenleri ve içkiyi uçurdu. Kendisine rehberlik etmeye çalışan bir spor arabasını etkisiz hale getirmişti ve ev sahibi pratik bir itiraz için hazırlanıyordu ki, sert bir esintinin önünde koşuyormuş gibi tüm yolu yalpalayarak üzerime doğru uçtu. Şoka hazırlandım ama buna maruz kalmaya mahkum değildim. Küçük bir çocuk tezgahtan bir şişe bira almıştı ve eve doğru gidiyordu ki, uzun boylu kadın ona doğru
 yuvarlandı. Şişe kırılmıştı, bira toprak ve talaş arasında
-akıp gitmişti ve ev sahibi (vals yapana kaba bir şekilde inek diye hitap eden) ağır başlı kadını ayağa kaldırmayı başarana kadar küçük çocuk neredeyse boğuluyordu. Çocuk fiziksel olarak epeyce incinmişti, ancak kaybolan birayı gördüğünde yaşadığı zihinsel sıkıntı, morluklarını fark etmesini engelledi. Felaketin boyutunu tam olarak kavradığında gerçekten solgunlaştı ve hayatımda bu kadar acınası bir yüz gördüğümü sanmıyorum. "Ne kadardı, küçüğüm?" diye sordum. Dudakları titredi ve "Bilmiyorum. Bir para koydum ve o
-şişeye ne koyacağını biliyor. Baba birasını içmeli, yoksa iyi bir akşam yemeği yiyemez." dedi. "Bu çocuk kötü muamele görmüyor, yoksa babasının iyi bir akşam yemeği yemesini istemezdi." diye düşündüm. Sonra bir kutu bira sipariş ettim ve gence ikram ettim. Tereddüt etti ve "Karanlık. Bir taşa bastım ve sonra daha fazla bira gitti," dedi, bu yüzden elini tuttum ve kornet çalan arkadaşımın "Fatih kahramanı görün"ü çok komik ve utanç verici bir şekilde söylemesine rağmen kutuyla uzaklaştım.
+akıp gitmişti ve ev sahibi (vals yapana kaba bir şekilde inek diye hitap eden) ağır başlı kadını ayağa kaldırmayı başarana kadar küçük çocuk neredeyse boğuluyordu. Çocuk fiziksel olarak epeyce incinmişti, ancak kaybolan birayı gördüğünde yaşadığı zihinsel sıkıntı, morluklarını fark etmesini engelledi. Felaketin boyutunu tam olarak kavradığında, aslında solgunlaştı ve hayatımda bu kadar acınası bir yüz gördüğümü sanmıyorum. "Ne kadardı, küçüğüm?" diye sordum. Dudakları titredi ve "Bilmiyorum. Bir para koydum ve o
+şişeye ne koyacağını biliyor. Baba birasını içmeli, yoksa iyi bir akşam yemeği yiyemez." dedi. "Bu çocuk kötü muamele görmüyor, yoksa babasının iyi bir akşam yemeği yemesini istemezdi." diye düşündüm. Sonra bir kutu bira sipariş ettim ve gence ikram ettim. Tereddüt etti ve "Karanlık. Bir taşa bastım ve sonra daha fazla bira gitti," dedi, bu yüzden elini tuttum ve kornetçi arkadaşımın "Fatih kahramanı görün"ü çok komik ve utanç verici bir şekilde söylemesine rağmen kutuyla uzaklaştım.
 
-Boğuk çekişmelerden ve korkunç havadan sonra dışarısı çok sessiz ve ferahtı ve çocuğun yumuşak elinin benimkinde olmasını sevdim. "Bayan Benjo'nun bodrumu açık. Bir gecede iki adam düşüyor; sen elimi tut." dedi. Çok dikkatli bir şekilde sokaktan aşağı yürüdüm ve Bay Benjo'nun The Chequers'tan gelen insanlar için kesinlikle garip bir tuzak kurduğunu gördüm. Genç adamım çok zeki ve dikkatli görünüyordu ve kısa süre sonra yarı mutfak, yarı bodrum olan bir ine açılan tek bir kapıya götürdü.
+Boğuk çekişmelerden ve korkunç havadan sonra dışarısı çok sessiz ve ferahtı ve çocuğun yumuşak elinin benimkinde olmasını sevdim. "Bayan Benjo'nun bodrumu açık. Bir gecede iki adam düşüyor; sen
+elimi tut." dedi. Çok dikkatli bir şekilde sokaktan aşağı yürüdüm ve Bay Benjo'nun The Chequers'tan gelen insanlar için kesinlikle
+rahatsız edici bir tuzak kurduğunu gördüm. Genç adamım çok zeki ve dikkatli görünüyordu ve kısa süre sonra yarı mutfak, yarı bodrum olan bir ine açılan
+yalnız bir kapıya götürdü.
 
 "Senden uzun süredir kim var, Teddy?" diye sordu,
 boş ızgaranın yanındaki bir taburede çömelmiş sert bir adam.
@@ -633,8 +632,8 @@ kendimi, oluklu bir çukurun aydınlattığı pis kokulu küçük bir kutunun i�
 Bir ipe asılmış birkaç
 giysi ve bunlar birden fazla duyuyu rahatsız ediyordu.
 
-Bu iğrenç evden
-birkaç gün boyunca temiz hava esmemiş gibiydi,
+Bu iğrenç meskene
+günlerdir temiz hava üflenmiyor gibiydi,
 ama ben deneyimli biriyim ve hiçbir şey beni bu kadar rahatsız etmiyor.
 
 "Başka bir koltuğum yok, dostum. Yatağa gir."
@@ -653,7 +652,7 @@ Cevap verdim.
 "Ah, şimdi seni tanıyorum. Bir adam bana The Chequers'ta bozuk bir züppe turu olduğunu söyledi ve içlerinden biri senin Belediye Başkanı'ndan
 daha bozuk olmadığını söyledi. Hepimizin bir içki için yeterince parası var.
 Neyse, züppe gibi konuşuyorsun. Eskiden bara giderdim ama artık oraya
-gitmiyorum. İki çocuk; ve Teddy'nin kıyafetlerini orada satın almak artık o kadar kolay değil. Hanım dışarıda alışveriş yapıyor. Bize biraz akşam yemeği getirecek ve ben de bir pint ve biraz da bacca ile orta halli oluyorum. İşler
+koşmuyorum. İki çocuk; ve Teddy'nin kıyafetlerini orada satın almak artık o kadar kolay değil. Hanım dışarıda alışveriş yapıyor. Bize biraz akşam yemeği getirecek ve ben de bir pint ve biraz da bacca ile orta halli oluyorum. İşler
 nasıl, dostum?"
 
 İşlerin oldukça iyi gittiğini söyledim.
@@ -662,7 +661,7 @@ nasıl, dostum?"
 
 "Hayır, yapmam gereken başka işler var."
 
-"Her şey yolunda, dostum; benim işim değil. Burada işler kötü. Boş, boş bir ev sahibinin boş, boş domuzu, kazanabileceğim her tabakçının yarısını alır ve buraya bir şey yaparsa siktir et."
+"Her şey yolunda, dostum; benim işim değil. Burada işler kötü. Boş, boş bir ev sahibinin boş, boş domuzu, kazanabileceğim her tabakçının yarısını alır ve eğer buraya bir şey yaparsa siktir et."
 
 "Burada kokular tuhaf."
 
@@ -674,7 +673,7 @@ oraya atıldı. Bazı günlerde bir burun torbası takmak istersiniz, size söyl
 
 "Teddy okula gidiyor mu?"
 
-"Korkmuyorum; henüz değil. Ama ne yaparlarsa yapsınlar, öyle. Faydalı da. Andy'nin önemi yok ve artık yedi yaşında değil."
+"Korkmuyorum; henüz değil. Ama ne yaparlarsa yapsınlar, öyle. Faydalı da. Andy'nin önemi yok ve artık yedi yaşında."
 
 "Yarın Teddy'yi ve hendeği görmeye geliyorum. Bir bira daha
 içer misiniz?"
@@ -974,7 +973,7 @@ deri dolusu içki almak için oldukça istekliydiler ve güçlerimin anormal ola
 bir dövüşün ikinci raunduna geliyormuş gibi ve her şeyin kendi istediği gibi olduğunu biliyormuş gibi. Şakalar yaptım ve burnu kalkık büyücüm gülüyormuş gibi yaptı. Ah! Ne kahkaha.
 
 Blackey'nin gitmesi gerektiğini söylediği pozisyon buydu. "Şantaj mı yapman gerekiyor, ihtiyar? Hala çömel ve şu losyonu sür.
-Pazara gitmem gerek ve biz çiçek açan bir aptal değiliz. Saat onda tezgahımdayım--daha geç değil--ve bu yapılacak bir şey. Hanım bana biraz kahve getirecek ve, duydun mu, o içkiden bir yudum koy. Karaciğerini ısıtıyor. Bu arada. Şimdi kal ve zayıf kalpler yok. Anne,
+Pazara gitmem gerek ve biz çiçek açan bir aptal değiliz. Saat onda tezgahımdayım--daha geç değil--ve bu yapılacak. Hanım bana biraz kahve getirecek ve, duydun mu, o içkiden bir yudum koy. Karaciğerini ısıtıyor. Bu arada. Şimdi kal ve zayıf kalpler yok. Anne,
 ağır ıslaklığınla kalk ve kısa bir şeyler dene. Ben gidiyorum!"
 
 Gösterişli bir veda ile mükemmel Blackey uzaklaştı ve
@@ -992,7 +991,7 @@ yine çamaşır yıkamaya başlayabilirse."
 Bunun "Paranı hangi cebinde sakladığını bize göster" anlamına geldiğini gördüm, bu yüzden
 utanmadan, "Sabah o kareyi koyarım, valim" dedim.
 Sonra aptalca bir sohbet başladı -çocuk gevezeliği kadar önemsiz,
-barın kahkahası kadar alçaktı- ve kendimi bir şekilde o kısa burunlu gençle baş başa buldum. Belli ki başı dertteydi ve ben onunla daha çok ilgilendim çünkü yan pencereye baktım ve şişman, etobur kadınla aşağı bakan adamın bizi ilgiyle incelediğini gördüm, sanki görünmezlermiş gibi. Şimdi, onun sınıfındaki kızlarla konuşmak hiç hoşuma gitmedi, çünkü onlardan hoşlanmıyorum. Kirli güvercinler ve geri kalan her şey cehaletten kaynaklanan mide bulandırıcı saçmalıklardan ibaret. Yaratıklar gürültülü hayatlarına, bundan hoşlandıkları için devam ediyorlar ve onların sınıfından bazı iyi ve nazik üyelerle tanışmış olsam da, çoğunun açgözlü, zalim ve açlık veya kibirle ilgili olmayan her türlü insani duygudan yoksun olduğunu gözlemledim. Bir erkeğe kötü alışkanlıklarına rağmen eşit davranabilir ve zarar vermeyebilirsiniz, ancak bir kadına kötü alışkanlıkları nedeniyle eşit davranmak
+barın kahkahası kadar alçaktı- ve kendimi bir şekilde o kısa burunlu gençle baş başa buldum. Belli ki başı dertteydi ve ben onunla daha çok ilgilendim çünkü yan pencereye baktım ve şişman, etobur kadınla aşağı bakan adamın bizi ilgiyle incelediğini gördüm, sanki görünmezlermiş gibi. Şimdi, onun sınıfındaki kızlarla konuşmak hiç hoşuma gitmedi, çünkü onlardan hoşlanmıyorum. Kirli güvercinler ve geri kalan her şey cehaletten kaynaklanan mide bulandırıcı saçmalıklardan ibaret. Yaratıklar gürültülü hayatlarına, bundan hoşlandıkları için devam ediyorlar ve onların sınıfından bazı iyi ve nazik insanlarla tanışmış olsam da, çoğunun açgözlü, zalim ve açlık veya kibirle ilgili olmayan her türlü insani duygudan yoksun olduğunu gözlemledim. Bir erkeğe kötü alışkanlıklarına rağmen eşit davranabilir ve zarar vermeyebilirsiniz, ancak bir kadına kötü alışkanlıkları nedeniyle eşit davranmak
 aptallıktan daha kötüdür. Bu aptal yaratık saçımı taramayı teklif etti. Onu aşinalığa teşvik etmiştim, bu yüzden tuvalet
 işlemine itiraz etmedim, ancak "beni inanılmaz derecede ferahlatacağını" söylediği bir şişeyi koklamaya şiddetle karşı çıktım. Mantarı çıkardı ve üniversite laboratuvarının
 hatıraları beynime aniden
@@ -1072,12 +1071,10 @@ gösterebileceğimiz uluyan gerçeklikle
 karşılaştırıldığında oldukça çorak ve fakir olduğunu söylemek için izin alıyorum. Yeterince hoşgörülüyüm, ancak prusik asidin akıllıca dağıtılmasıyla
 dünyaya avantaj sağlayacak şekilde ortadan kaldırılabilecek bazı meclislerin olduğunu ciddi olarak düşünüyorum.
 
-Zayıflıklarım arasında çeşitli cinslerde köpek beslemek için güçlü bir arzu sayılmalıdır. Hayvanları anladığınızda onlarla arkadaş olabilirsiniz ve ben aylarca teriyerlerim dışında hiçbir arkadaş olmadan mükemmel bir memnuniyetle yaşadım. Favori bir terrier sık ​​sık benimle dolaşıyor ve geçen gün Bay Ev Sahibi imalı bir yumuşaklıkla "Yavru köpeğinizi tazı yarışları toplantımıza dahil etmeliyiz" dedi. Benim için bir şekilde pek önemli değildi, bu yüzden giriş ücretini ödedim ve nişanı tamamen unuttum. Terrierlerle tazı yarışı güney ülkesinde çok popüler bir "spor"dur ve bodur küçük beyaz-kahverengi köpekler eskiden iyi tazılara gösterilen özenle yetiştirilir. Bu sporun nereden geldiğini tam olarak anlayamıyorum ama her sınıftan birçok erkek bundan hoşlanıyor ve İngiltere'de hızla kök salmış dikkate değer bir kurumda kusur bulmak istemiyorum. Tüm tazı yarışları acımasızdır; bir tavşan köpeklerin ayaklarının sesini duyduğu andan itibaren o ölümcül çenelerde döndürülüp sarsılana kadar aşırı bir acı çeker. Bir keresinde, bir tavşan ve iki tazı bana doğru koşarken, başıboş bir
-çamurun arasında uzandım. Puss, Suffolk bataklığında bir mil yol kat etmişti ve hızla tükeniyordu. Bana yaklaşırken, tazılar şiddetli bir çaba gösterdi ve en öndeki tam
+Zayıflıklarım arasında çeşitli cinslerde köpek beslemek için güçlü bir arzu sayılmalıdır. Hayvanları anladığınızda onlarla arkadaş olabilirsiniz ve ben aylarca teriyerlerim dışında hiçbir arkadaş olmadan mükemmel bir memnuniyetle yaşadım. Favori bir terrier sık ​​sık benimle dolaşıyor ve geçen gün Bay Ev Sahibi imalı bir yumuşaklıkla "Yavru köpeğinizi tazı yarışları toplantımıza dahil etmeliyiz" dedi. Benim için bir şekilde pek önemli değildi, bu yüzden giriş ücretini ödedim ve nişanı tamamen unuttum. Terrierlerle tazı yarışı güney ülkesinde çok popüler bir "spor"dur ve bodur küçük beyaz ve kahverengi köpekler eskiden iyi tazılara gösterilen özenle yetiştirilir. Bu sporun nereden geldiğini tam olarak anlayamıyorum ama her sınıftan birçok erkek bundan hoşlanıyor ve İngiltere'de hızla kök salmış dikkate değer bir kurumda kusur bulmak istemiyorum. Tüm tazı yarışları acımasızdır; bir tavşan, köpeklerin ayaklarının sesini duyduğu andan itibaren, o ölümcül çenelerde döndürülüp sarsılana kadar aşırı bir acı çeker. Bir tavşan ve iki tazı bana doğru koşarken, başıboş çalıların arasında bir kez uzandım. Puss, Suffolk bataklığında bir mil yol kat etmişti ve hızla tükeniyordu. Bana yaklaşırken tazılar şiddetli bir çaba gösterdi ve en öndeki tam
 saklandığım yere
-vurdu. Hayatımda hiç bu kadar acı dolu bir
-resim görmemiştim; zavallı küçük hayvan bir çığlıkla kendini
-çevirdi - ne büyük bir çığlık! - ve köpek sadece bir
+çarptı. Hayatımda hiç bu kadar acı dolu bir resim görmemiştim; zavallı küçük hayvan bir çığlıkla kendini
+sıkıştırdı - ne büyük bir çığlık! - ve köpek sadece bir
 ağız dolusu kürkü kapmayı
 başardı. Yere uzandı ve tavşan topallayarak örtüye girdi. Onun titrediğini
 görebiliyordum. Aynı tür işkence, tavşanlar bir muhafazadan makinelerin hızı ve hassasiyetiyle
@@ -1094,21 +1091,22 @@ geliştiriyor ve eğitiyoruz; ancak popüler sporlarımız giderek daha
 acımasızlaşıyor gibi görünüyor. Artık boğaları yemlemiyoruz, ama
 kaba bir şekilde tavşanları ve tavşanları korkutuyoruz, çok sayıda güzel güvercini katlediyoruz--hiçbir adil oyun belirtisi olmadan katledilen tatlı küçük kuşlar.
 
-Kesinlikle Britanyalı, kanın tadının zevkleriyle karışmasını seviyor. Gateshead veya Hanley'de binlerce sıradan adam toplanacak ve iki telli tazı sersemlemiş bir tavşanı korkuttuğunda
+Kesinlikle Britanyalı, kanın tadının zevkleriyle karışmasını seviyor. Gateshead veya Hanley'de binlerce sıradan adam toplanacak ve iki ince tazı sersemlemiş bir tavşanı korkuttuğunda
 sevinçten uluyacak. Onlar kendi yollarında iyi adamlardır ve genellikle katı bir adalet anlayışına sahiptirler; ancak bir tavşanı bir çuvaldan çıkarıp onu kaçamayacağı bir kafeste hayatını kurtarmak için kaçmaya zorlamanın adaletsizliğini göremezler. Bir şeyin ölümünü veya paranın bahse girmesini içermeyen eğlenceler evcil sayılır. Hiç düşünmemeyi dilememe neden olan bilmecelerden biridir. Vazgeçiyorum, çünkü ben sadece bir Aylak'ım ve varoluşun karanlık sorunları benim
 ötemde.
 
 Belki de Bay Herbert Spencer'ın ötesindedir.
 
-Bizim dağınık alayımız geniş, sessiz bir alanda buluştu. Neredeyse tüm seyislerim
-ortalıktaydı ve içtenlikle "Wayo!" diye bağırdılar. Sahadaki şirketin yarısı dünyada üç peni bile toplayamadı; birçoğu muhtemelen açtı; birçoğu içkiden çok uzaktı; ama hepsi "spor" için can atıyordu. Şimdi fakir adamın hayatının acı sıkıntısı hakkında biraz konuşacağız. O ölümcül sıkıntının varlığı, o tuhaf kalabalığı gördüğümde olduğu kadar canlı bir şekilde önüme hiç getirilmemişti; açlığı, soğuğu, yoksulluğu, acıyı unutuyorlardı ve endişeli tavşanlar görmek üzere oldukları için unutuyorlardı! Alçak bir standın üzerinde geniş bir terazi ve devasa bir sepet duruyordu. Standı, gevezelik eden ve coşkulu bir şekilde bağıran kırmızı yüzlü bir neşeli adam izliyordu. O yaşlı adam komik bir serseri. Hayatının her saati heyecan arayışına adanmıştır; asla sıkıcı değildir; tanıştığı herkese neşeli bir sözü vardır; içer, kavga eder ve hatta gençliğin tüm şevkiyle sevişir. Yapılacak daha heyecan verici bir şey olmadığında, yirmi mil boyunca baş döndürücü bir hızla bir koşu
+Bizim dağınık alayımız geniş, sessiz bir alanda buluştu. Neredeyse tüm
+sevgililerim
+ortalıktaydı ve içtenlikle "Wayo!" diye bağırdılar. Sahadaki şirketin yarısı dünyada üç peni bile toplayamadı; birçoğu muhtemelen açtı; birçoğu içkiden çok uzaktı; ama hepsi "spor" için can atıyordu. Şimdi fakir adamın hayatının acı sıkıntısı hakkında biraz konuşacağız. O ölümcül sıkıntının varlığı, o tuhaf kalabalığı gördüğümde olduğu kadar canlı bir şekilde önüme hiç getirilmemişti; açlığı, soğuğu, yoksulluğu, acıyı unutuyorlardı ve endişeli tavşanlar görmek üzere oldukları için unutuyorlardı! Alçak bir sehpanın üzerinde geniş bir terazi ve devasa bir sepet duruyordu. Sehpayı, gevezelik eden ve coşkulu bir şekilde bağıran kırmızı yüzlü bir neşeli adam izliyordu. O yaşlı adam komik bir serseri. Hayatının her saati heyecan arayışına adanmıştır; asla sıkıcı değildir; karşılaştığı herkese neşeli bir sözü vardır; içer, kavga eder ve hatta gençliğin tüm şevkiyle sevişir. Yapılacak daha heyecan verici bir şey olmadığında, yirmi mil boyunca baş döndürücü bir hızla bir koşu
 suna biner. Öldüğünde, hayatının işi kolayca özetlenebilir:--Şu kadar
 kuart bira içti; şu kadar güvercin ve tavşan öldürdü. Daha fazlası değil.
 
 Terrier'im büyük sepete vahşice saldırdı ve kurbanlarımızın orada olduğunu biliyordum. Şu anda köpekler gelmeye başladı ve bazı küçük canavarları görünce hem şaşırdım hem de eğlendim. Onlar
 bir lokomotifi
 indiremeyecekleri gibi adil bir arazide bir tavşanı bile yakalayamazlardı; ancak
-uzun tren yolculuğu, garip tarla ve gürültücü kalabalık zavallı Bunny'yi neredeyse çaresiz bırakır ve o da hayatından çok kolay vazgeçer.
+uzun tren yolculuğu, garip tarla ve gürültücü kalabalık zavallı Bunny'yi neredeyse çaresiz bıraktı ve o da hayatından çok kolay vazgeçti.
 Terrier'lerin en iyileri demir kaslı ve genel olarak cesur bir kötülük havasına sahip güzel zavallılardı. Kana susamışlıkları
 dehşet vericiydi; tam olarak ne olacağını biliyorlardı ve keskin coşku çığlıkları başımı döndüren bir uğultuya neden oldu. Her biri kıvrandı ve tasmayı zorladı ve kendimi zavallı tavşanların o iblis sürüsünün vahşi çınlamasını duyduklarında ne düşündüğünü (düşünebilirler mi?) merak ederken yakaladım. Kırsalda, bir köpek dil çıkardığında Bunny oturur
 ve kulaklarını huzursuzca döndürür; sonra, havlama sesi uzaktan duyulsa bile, küçük kahverengi canavar yer altına doğru fırlar. Ne yazık ki! Bu kasvetli tarlada dostça bir yuva yok ve kaçma şansı yok;
@@ -1201,7 +1199,7 @@ zaman gelir ve başlangıçta 100 £'dan fazla sermayesi olmayan akıllı bir ad
 
 Bahis çılgınlığı her geçen gün daha da keskinleşiyor, zengin bahisçilerin sayısı artıyor ve ulusal moral bozukluğu her türden ve koşuldaki insanlarla yaşamamış olanlara
 akıl almaz gelebilecek bir derinliğe ulaştı. Yarışçı bir adam, zihnini tek bir uğraşı dışında hiçbir şeye
-odaklayamamaya meyillidir. Yüzlerce düşünceli ve kültürlü insan, rahatlamak için biraz yarışıyor ve biraz bahis oynuyor; ancak bunlar zarar görmüyor. Daha yüksek çıkarları olmayan cahil, dengesiz insanlar acı çekiyor.
+odaklayamamaya eğilimlidir. Yüzlerce düşünceli ve kültürlü insan, rahatlamak için biraz yarışıyor ve biraz bahis oynuyor; ancak bunlar zarar görmüyor. Daha yüksek çıkarları olmayan cahil, dengesiz insanlar acı çekiyor.
 
 İyi niyetli kişiler, çalışan erkekler için saygın enstitülere para harcıyor, ancak erkekler işleri bittikten sonra ağırbaşlı, sıkıcı işlemlerle ilgilenmiyor; heyecan istiyorlar. Orta derecede ağır bir bahis, onlara
 konuşacak bir konu sağlıyor; Yarış günü yaklaşırken onlara tüm keskin
@@ -1280,7 +1278,9 @@ benim odasına gitmem.
 
 "Teyzem benim için evi temizliyor ve kesinlikle uyanmıştır, kız kardeşim de oradadır."
 
-Jerry'nin teyzesi ve kız kardeşiyle sakin bir şekilde yaşaması fikri çok dokunaklıydı ve merakım uyandı. Teyzenin sakin, alçak sesli bir kadın olduğu ortaya çıktı; kız kardeşi ise benim hayal gücüm için fazla gösterişli ve yüksek sesliydi. Whist oynadık ve oyunlar arasındaki aralarda Jerry'nin şarabını denedik. Eşsiz derecede iyi bir seçkisi var. Gösterişli peri ilk başta çekingen ve utangaçtı, ancak şarap arttıkça küfür seçimiyle beni oldukça şaşırttı. Neşeli olan iş adamı gibi olmuştu ve o tatlı gülümseme kaybolmuştu. Ona baktığımda, kendimi bir kez daha aptal yerine koyduğumu yavaş yavaş anladım ve güvenli bir şekilde dışarı çıkarsam bir daha The Chequers'a gitmeyeceğime yemin ettim. Aşırı özgüven bir boksörde kötü bir kusurdur: Londra'daki sivri dilliler arasında yerini korumak isteyen bir adam için bundan daha da kötüdür. Blackey benden daha iyiydi ve şimdi çok daha kötü bir işim vardı, Jerry the Amiable gösterişli bir şekilde içiyordu ve belli ki kendini hazırlıyordu; kız kardeş coşkulu bir şekilde büyüdü ve teyze puanların giderek artmasını sağladı. Sabahın erken saatlerinde Amiable
+Jerry'nin teyzesi ve kız kardeşiyle sakin bir şekilde yaşaması fikri çok dokunaklıydı ve merakım uyandı. Teyzenin sakin, alçak sesli bir kadın olduğu ortaya çıktı; kız kardeşi ise benim hayal gücüm için fazla gösterişli ve yüksek sesliydi. Whist oynadık ve oyunlar arasındaki aralarda Jerry'nin şarabını denedik. Eşsiz derecede iyi bir seçkisi var. Gösterişli peri ilk başta çekingen ve utangaçtı, ancak şarap arttıkça küfür seçimiyle beni oldukça şaşırttı. Neşeli olan iş adamı gibi davranmıştı ve o tatlı gülümseme kaybolmuştu. Ona baktığımda, kendimi bir kez daha aptal yerine koyduğumu yavaş yavaş anladım ve güvenli bir şekilde dışarı çıkarsam bir daha The Chequers'a gitmeyeceğime yemin ettim. Aşırı özgüven bir boksörde kötü bir kusurdur: Londra'daki sivri dilliler arasında yerini korumak isteyen bir adam için bundan daha da kötüdür. Blackey benden daha iyiydi ve şimdi çok daha kötü bir işim vardı, Jerry the Amiable gösterişli bir şekilde içiyordu ve belli ki kendini hazırlıyordu; kız kardeş coşkulu bir şekilde
+harekete geçti ve teyze puanların giderek
+artmasını sağladı. Sabahın erken saatlerinde Amiable
 kalmamı önerdi, ama altın için onunla aynı çatı altında
 uyumazdım. Sonra akrabalarına yatağa gitmelerini emretti ve
 kadınlardan çok köpekler gibi gizlice uzaklaştılar. Jerry usta bir adamdı.
@@ -1309,7 +1309,7 @@ Benim için önemli olmaz; buna alışkınım. Ama sen alay konusu olacaksın. �
 dostla paylaş, ben de karanlıkta kalacağım."
 
 Ondan uzaklaşmayı başarmıştım ve
-iğrenç ateşli silahı yavaşça çıkarmak için zamanım oldu.
+iğrenç ateşli silahı yavaşça çıkarmak için zamanım vardı.
 
 "Çok naziksin, Jerry, oğlum. Ben odanın bu tarafında kalacağım,
 ve sen hareketsiz durduğun sürece ateş etmeyeceğim. Vurmaya çalışırsan veya elini
@@ -1334,7 +1334,7 @@ bu benim işim değil ama kızlar olmasa, onun
 çok az gösterişli pardösüleri olurdu, hatta biftekleri bile."
 
 Ne yazık ki! Gülümseyen, sevimli genç Jerry, spor yapanlarla birlikte takılan ve saygın yarışçılar tarafından hor görülen ve dışlanan
-o iğrenç haşerelerden biri. Geçen hafta ciddi bir turfite bana, "Şu sporcuları çağırın! "Ben--ben--" ama onlar için yeterince korkunç bir felaket icat edemedi, bu yüzden güçlü bir homurtuyla konuyu değiştirdi.
+o iğrenç haşerelerden biri. Geçen hafta bana ciddi bir turfite, "Şu sporcuları çağırın! "Ben--ben--" ama onlar için yeterince korkunç bir felaket icat edemedi, bu yüzden güçlü bir homurtuyla konuyu değiştirdi.
 
 Jerry gibi beyefendilerin ne yapacağını bilmek mümkün değil. Onlara
 alçak demek onları pohpohlamaktır: onlar eşkıyadır ve Sicilya ve Calabria'nın bıçaklayan, tembel serserileri, İngiliz taklitçileriyle karşılaştırıldığında
@@ -1343,16 +1343,16 @@ kurban edilmeye hazır bir şekilde oraya çeker. Bir ay önce Jerry'nin çetesi
 işletmesini satan bir meyhaneciyi acımasızca soymuştu. Cebinde satın alma parası vardı ve adamlar onu uyuşturdular. Eşkıyaların
 başka insanlara
 ameliyat yaptığını ne kadar sık ​​izlediğini görünce daha iyisini bilmesi gerekirdi; ama 700 sterlin kaybettiği ve saldırganlar
-hala ganimet paylarıyla serbestçe dolaşıyorlarsa, onu kınamamalıyız
+hala ganimetten paylarını alarak serbestçe dolaşıyorlarsa, onu kınamamalıyız
 veya sefaletine katkıda bulunmamalıyız.
 
-Jerry'yi portre için seçtim çünkü o kötü bir grubun oldukça tipik bir örneğiydi--çok kötü bir grup. Gerilememizin ve çöküşümüzün tarihi bir Avustralyalı Gibbon tarafından yazıldığında, tarihçi
+Jerry'yi portre için seçtim çünkü o kötü bir grubun oldukça tipik bir örneği. Gerilememizin ve çöküşümüzün tarihi bir Avustralyalı Gibbon tarafından yazıldığında, tarihçi
 kötü eski Roma'nın zengin aptallarını avlayan
 korkunç yaratıkların yanına İngiliz kabadayı ve turfite'yi koyabilir.
 
 BEYEFENDİ, DOKTOR VE DICKY.
 
-Bir süredir kabadayılardan bıktık ve şimdi gördüğüm enkazlardan birkaçıyla ilgilenmek istiyorum--seyahatlerine refah vaatleriyle başlayan enkazlar. Aşağıdakileri okuyan hiçbir genç adamın güvende olduğunu düşünmesine izin vermeyin. Çalışkan olabilir; zorlu bir çalışma döneminden sonra korumasız bir an, onu yıkıma doğru ilk adımı atarken görebilir. O
+Bir süredir kabadayılardan bıktık ve şimdi gördüğüm enkazlardan birkaçıyla ilgilenmek istiyorum--seyahatlerine refah vaatleriyle başlayan enkazlar. Aşağıdakileri okuyan hiçbir genç adamın güvende olduğunu düşünmesine izin vermeyin. Çalışkan olabilir; zorlu bir çalışma döneminden sonra korumasız bir an onu yıkıma doğru ilk adımı atarken görebilir. O
 zeki olabilir: zekasının parlaklığı, ona kur yapılmasına neden olarak,
 onu tembelliğe sürükleyebilir ve tembellik, asalak
 kötü alışkanlıkların yaygın olarak geliştiği yataktır. Uyarı alın.
@@ -1373,13 +1373,13 @@ herkes için mektup yazar; ama daha önce hiç onun becerisini test etmemiştim.
 "Bana pek faydası olmazdı. Uzun süre devam edebilirim ama nöbet geçirdiğimde işimi kaybetmem uzun sürmez. Beni
 istemezler, dostum--istemezler."
 
-"Öyleyse zamanında iyi bir işte çalıştın mı?"
+"O zaman zamanında iyi bir işte çalıştın?"
 
 "Daha iyisi yok. Kendime hakim olsaydım, kardeşimin kendi yolunda yaptığı kadar
 ben de kendi yolumda iyi iş çıkarabilirdim. Bir keresinde onu yenebilirdim ve onun kadar
 çalışkandım; ama kavşağa geldiğimde yanlış yola saptım ve işte buradayım."
 
-"Kardeşinizin nasıl başarılı olduğunu sorabilir miyim? Yani--nedir o?"
+"Kardeşinizin nasıl başarılı olduğunu sorabilir miyim? Yani--o kim?"
 
 "Başyargıç ----."
 
@@ -1436,9 +1436,12 @@ korkacak tek şey sabahın erken saatleri. O zaman düşünüyorum--düşün, d�
 Kendi kasabamda, torunlarım etrafımda olmalı.
 Kardeşim gibi
 Ben de
-sırada olabilirdim ve tüm insanlar bana ona yaptıkları gibi saygı duyardı. Son saatime geldiğimde oğullarım ve kızlarım etrafıma toplanırdı. Boğazımı brendi ve cinle yıkamak için her şeyden vazgeçtim. Sabahları böyle düşünüyorum. Sonra bir kadeh alıyorum veya
+sırada olabilirdim ve tüm insanlar bana ona yaptıkları gibi saygı duyardı. Son saatime geldiğimde oğullarım ve kızlarım etrafıma toplanırdı.
+Boğazımı brendi ve cinle yıkamak için her şeyden vazgeçtim. Sabahları böyle düşünüyorum. Sonra bir kadeh alıyorum veya
 dileniyorum, birazdan sizden isteyeceğim gibi, sonra da unutuyorum. Bir keresinde
-intihar etmek için dışarı çıktım ve sinirlerimi germek için üç viski aldım. İki dakika içinde bir Punch and Judy şovuna gülüyordum. Bana bir pint bardağında çeyrek cin sipariş ederseniz, onu doldururum ve
+intihar etmek için dışarı çıktım ve sinirlerimi germek için üç viski aldım.
+İki dakika içinde bir Punch and Judy gösterisine gülüyordum.
+Eğer bana bir pint bardağında bir çeyrek cin sipariş ederseniz, onu doldururum ve
 tüm akşam oldukça memnun olurum. Kimse bana kötü davranmıyor. Ben yumuşak, zararsız,
 itibarsız, yaşlı bir serseriyim. Hepsi bu."
 
@@ -1462,13 +1465,14 @@ Böylece konuşmamız sona erdi ve bir yargıcın kardeşi bir yarış pisti hı
 Ertesi gece çok karanlık bir meyhaneye gittim ve Beyefendi beni
 tek başına oturan küçük yaşlı bir adamın olduğu kirli bir odaya götürdü. Adam
 çarpık, buruşuk, güçsüzdü ve çıplak ayak parmakları her iki ayakkabısından da dışarı çıkmıştı;
-yarı çürümüş redingotu göğsüne kadar açılmıştı ve üzerinde gömlek olmadığını gösteriyordu; şapkası bir çöp yığınından alınmış olmalıydı çünkü kirliydi ve üç dört yerinden kırılmıştı.
+yarı çürümüş redingotu göğsüne kadar açılmıştı ve üzerinde gömlek olmadığını gösteriyordu; şapkası bir çöp yığınından alınmış olmalıydı, çünkü
+kirliydi ve üç dört yerinden kırılmıştı.
 
 "Aman Tanrım, bana bir şeyler ver!" dedi bu nesne,
 bir mumyanın yüzünü bana doğru çevirerek. Donuk gözleri ıslanmıştı ve
 çenesi titriyordu. Korkunç bir görüntü!
 
-Bir anda onu hatırladım ve "Ne, Doktor!" diye bağırdım.
+Bir anda onu hatırladım ve bağırdım, "Ne, Doktor!"
 
 "Seni tanımıyorum; hafızam gitti. İki penn'orth veya bir penn'orth bira isteyin. Lütfen yapın."
 
@@ -1481,8 +1485,8 @@ doğrudan devam etseydim The Chequers'ta aylaklık ediyor olmazdım.
 Eğitimimle nasıl bir ilgisi olabileceğini mi soruyorsunuz? Eh, uzun zaman önce
 küçük bir kitap kurduydum, ıssız bir kır evinde yaşıyordum ve
 birkaç iyi rafım vardı. Daha dokuz yaşındaydım ama iki ciltlik devasa bir tarih
-en çok ilgimi çekti. O kitabı
-kolayca tüm sayfaları tekrarlayabilene kadar okudum ve okudum ve şimdi bile
+en çok ilgimi çekti. O kitabı,
+kolayca bütün sayfaları tekrarlayabilene kadar okudum ve okudum ve şimdi bile
 bana bir başlangıç ​​verirseniz
 hepsini söyleyebilirim.
 
@@ -1492,7 +1496,7 @@ Yıllar sonra Londra'da mücadele ediyordum ve
 gününde isim yapmış bir derginin sorumluluğunu üstlendim. Bazen bir Devlet Bakanı'ndan gelen bir mesajla, bazen de
 açlıktan ölmek üzere olan bir kalemin dilekçesiyle uğraşmak zorunda kalıyordum. Bir gün odama küçük bir adam getirildi,
 oda anında viski kokusuyla doldu. İyi bir şekilde tanıştırıldı,
-ve ben de, "Siz 'Tarih-i ----'yi yazan Doktor ---- siz misiniz?" dedim.
+ve ben, "Siz 'Tarih-i ----'yi yazan Doktor ---- siz misiniz?" dedim.
 
 "Öyleyim efendim ve sizin için yazmaktan gurur duyacağım."
 
@@ -1501,7 +1505,7 @@ ve ben de, "Siz 'Tarih-i ----'yi yazan Doktor ---- siz misiniz?" dedim.
 "İşte bir örnek."
 
 Elyazması. bir meyhaneden bir deste banknottu ve boş tarafı
-kullanılmıştı. Doktor, kaçınabildiğinde asla kağıt para harcamazdı.
+kullanıldı. Doktor, kaçınabildiğinde asla kağıt para harcamazdı.
 Bu şeyler zayıf, karmaşık ve işe yaramazdı. Yüzüm düşmüş olmalı,
 çünkü zavallı Korkuluk, "Sizin onayınız yok." dedi.
 
@@ -1537,7 +1541,7 @@ hava soğuk--soğuk."
 Bu zavallının yarı çıplak dolaşmasına izin verilemezdi, bu yüzden
 çamaşırcının dışarı çıkıp ona bir takım elbise getirmesine izin verdim. (Doktor ertesi gün kıyafetleri yarım krona sattı ve onu görmeye gittiğimde
 suskun kaldı.) Umutsuz, çaresiz bir zavallıydı Doktor -- tanıdığım en umutsuz kişiydi. Orduya erken yaşta girdi ve bir süre Dublin sosyetesinde sevildi ve kur yapıldı. Adam yakışıklı, yetenekli ve zekiydi ve başarı onu takip etmiş gibiydi.
-Ordudan ayrıldı ve Baroya gitti ve orada uzun yıllar başarılı oldu. Hiç kimse gevşek alışkanlıklara kaymadan önce ondan daha mutlu, daha dolu veya daha verimli bir hayat yaşayamazdı. Tek eğlencesi edebiyatla uğraşmaktı ve Chancery Bar'da tam olarak çalışırken büyük bir savaşın büyük tarihini bitirdi. Güç ondaydı sanki; talih ona hediyeler yağdırdı; ve hepsini kaybetti. İnanılmaz derecede kısa bir sürede mesleğini, itibarını, yüksek onur umutlarını, son kuruşunu içti.
+Ordudan ayrıldı ve Baroya gitti ve orada uzun yıllar başarılı oldu. Hiç kimse gevşek alışkanlıklara kaymadan önce ondan daha mutlu, daha dolu veya daha verimli bir hayat yaşayamazdı. Tek eğlencesi edebiyatla uğraşmaktı ve Chancery Bar'da tam olarak çalışırken büyük bir savaşın büyük tarihini bitirdi. Güç ondaydı sanki; talih ona hediyeler yağdırdı; ve hepsini kaybetti. İnanılmaz derecede kısa bir sürede uygulamasını, itibarını, yüksek onur umutlarını, son kuruşunu içti.
 
 Tarihçim de bu çamurlu
 penn'orth için benden yalvarmaya geldi.
@@ -1549,15 +1553,19 @@ aşağılanması hepsi ortadan kalkacaktı. Avukatlar Doktor'u uygun şekilde gi
 Bu son parçayı ayrı sayfalara yazdım ve günlüğüm ilk kez iç içe geçti.
 
 Beyefendi ve ben çok yakınlaştık. Onu içki içmekten
-asla alıkoymaya çalışmadım: faydasızdı. Ayıkken arkadaşlığı keyifliydi ve gizemli bir şekilde göç ettiğinde çok üzüldüm ve mürettebatımızın çoğu onun yardımını çok özledi.
+asla alıkoymaya çalışmadım: faydasızdı. Ayıkken arkadaşlığı keyifliydi,
+ve gizemli bir şekilde göç ettiğinde çok üzüldüm ve mürettebatımızın çoğu
+onun yardımını çok özledi.
 
 Beyefendinin uçuşundan bir süre sonra, Holborn'daki ortak bir pansiyondaydım ve mutfakta uzun bir sohbet ettiğim hoş bir Fransız serseriyle tanıştım. "Geçen hafta eski arkadaşlarımızdan biri öldü. İyi bir adamdı ve çok iyi yetiştirilmişti.
-Kendinize göre düşünün, yargıçlarınızdan birinin kardeşiydi!" dedi. Sonra Beyefendinin gittiğini anladım. Keşke onu tekrar görebilseydim. Günlüğümün eski sayfalarına baktığımda, düşüşünün hikayesini anlatırken takındığı o tatlı, sabırlı gülümsemeyi görüyorum. Düşünmeye bile dayanamayacak kadar üzücü şeyler var. İşte bunlardan biri.
+Kendinize göre düşünün, yargıçlarınızdan birinin kardeşiydi!" dedi. Sonra
+Beyefendinin gittiğini anladım. Keşke onu tekrar görebilseydim. Günlüğümün eski sayfalarına baktığımda, düşüşünün hikayesini anlatırken takındığı o tatlı, sabırlı gülümsemeyi görüyorum.
+Düşünmeye bile dayanamayacak kadar üzücü şeyler var. İşte bunlardan biri.
 
 * * * * *
 
 Arkadaşımız Dicky son zamanlarda kötü bir talihsizlik yaşadı. Dicky'nin bir süre önce bu çirkin mahalleye sürüklenen yaşlı bir adam olduğunu ve
-artık bara tercih ettiğim bir oda olan salonda yerini aldığını söylemeliyim. Bir kasapla dostça bir sohbet ederken, tiz bir ses, "Konunuzun temellerinden kesinlikle ve telafi edilemez şekilde habersizsiniz." dedi. Başladım. Bu sesi daha önce nerede duymuştum? Adam eski bir av ceketi giymişti; pantolonu diz hizasındaydı ve keteni çok kirliydi; yine de onda etkileyici bir şey vardı --bir tür ayrıcalık. Bize karşı küçümseme ifadesini savurduktan sonra, yüzünü tenceresine gömdü ve büyük bir yudum aldı. Hafızam yavaş yavaş bana yardımcı oldu ve o yumrulu, sivilceli cildin altında zamanımın en korkulan
+bara tercih ettiğim bir oda olan salonda yerini aldığını söylemeliyim. Bir kasapla dostça bir sohbet ederken, tiz bir ses, "Konunuzun temellerinden kesinlikle ve telafi edilemez şekilde habersizsiniz." dedi. Başladım. Bu sesi daha önce nerede duymuştum? Adam eski bir av ceketi giymişti; pantolonu diz hizasındaydı ve keteni çok kirliydi; yine de onda etkileyici bir şey vardı --bir tür ayrıcalık. Bize karşı küçümseme ifadesini savurduktan sonra, yüzünü tenceresine gömdü ve büyük bir yudum aldı. Hafızam yavaş yavaş bana yardımcı oldu ve o yumrulu, sivilceli cildin altında zamanımın en korkulan
 siyasi gazetecisi Dicky Nash'in yüz hatlarını gördüm. Sık sık o sesi küfürler ederken duymuştum, başka hiçbir adamın erişemeyeceği bir güçle; sık sık o güçlü bedeni yazı işleri koltuğunun yanında uzanırken, ofisteki dumanlar düşüşün sebebine dair hikayeler anlatırken görmüştüm. Ve şimdi Dicky buradaydı - yırtık pırtık, kirli ve açıkça şanssız. Üstün otoritesine sahip çıkarak onunla kısa sürede arkadaş oldum ve o da nazikçe benim paramla bir litre bira aldı. Bu, üniversite bursundan istifa ettikten sonra yılda 2.000 sterlin kazanan bir adamdı. Devlet adamlarının dostu ve danışmanıydı; Kabine Bakanı olarak son bulabilirdi, çünkü hiçbir adam onun mucizevi yeteneğinin boyutunu ölçmeyi başaramadı; İngiltere'deki en güçlü ve en korkulan adam gibi görünüyordu. Yazıklar olsun bana! Onu yatağa taşımak zorunda kaldık; ve üç ginelik bir çek harcayana kadar
 kaldı, Bay Ev Sahibi de çeki bozdurdu.
 
@@ -1565,7 +1573,7 @@ Fleet-street oyunlarından iyi bir şey çıkmayacağını biliyordum, gerçi ke
 gülüp geçiyordu. Akşam yedi civarı gelirdi
 ve masasına otururdu. Sonra hıçkırırdı, "Politika yazamam; iyi değil. Bize güzel, hafif bir konu ver."
 
-"Yılın bu mevsiminde ülke hakkında bir makale deneyin."
+"Yılın bu mevsiminde ülke hakkında bir makale yazmayı dene."
 
 "İyi. Lanet olası kalemi tutamıyorum. Sen otur, ben dikte edeyim: Bu
 parlak mevsimde, çizgili bulutlar yumuşak ölmekte olan günü açtığında,
@@ -1665,8 +1673,8 @@ başka bir tarlayı deneyeceğiz. Sizce o dorgi içeri girer mi? O girmez.
 Bu kadar sevimli biri hiç olmamıştı. Hepimiz kaçak avcılık
 giysilerimizleydik, yüzlerimiz simsiyahtı, kadın gecelikleri takmıştık ve
 montlarımızın üstüne gömlekler giymiştik. Gökyüzünde ışık belirdi ve arkadaşlarımdan ayrıldım,
-çünkü o yaşlı dorgun bir tavşan diktiğini ve onu kabarttığını gördüm. Onu takip ettim ve
-ilk tur için kalktı; sonra puss, dorgun son koşusunu yapmadan önce onu dışarı atmak için çok hızlı bir şekilde dönmeye başladı. O, scut'taydı,
+çünkü o yaşlı dorgun bir tavşan diktiğini ve onu kovaladığını gördüm. Onu takip ettim ve
+ilk tur için kalktı; sonra puss, son koşusunu yapmadan önce dorgu dışarı atmak için çok hızlı bir şekilde dönmeye başladı. O, scut'taydı,
 yaşlı rip--yakala onu bırak--ve ben heyecanlandım ve bir aptal gibi,
 onu harekete geçirdim. Bir dakika içinde bana doğru koşan bir adam gördüm ve
 kapıya doğru gittim. Şimdi, buradaki herhangi bir adamı 300 yardadan bir mile kadar kovalayabilirdim; ama kapıda beni yakalamaları gerektiğini biliyordum, eğer bekçiyi durduramazsam. Yanımda büyük bir sopa vardı--yaklaşık altı fit uzunluğundaydı--ve bazen tüyleri dövmek için yapıyordum; bu yüzden sopayı bir ucundan tuttum. Çok
@@ -1692,10 +1700,9 @@ The Chequers'a her gün altı düzenli kaçak avcı gelir ama etrafta sadece ama
 bir tuhaf müşteri, bekçilerin umutsuzluğudur.
 Kaynakları tükenmez ve cesareti neredeyse takdire şayandır. Diyelim ki -isterseniz utanarak- yetenekli bir kaçak avcıyım ve generalliğim Majestelerinin hapishanelerinin içini sık sık görmüş beyefendilerin onayını aldı. Ne yazık!
 
-Bir gün, bölgedeki en karanlık adamların kullandığı odadaki koltukta yatan güzel bir açık kahverengi dişinin
-görünümüne çok kapıldım.
+Bir gün, bölgedeki en karanlık adamların kullandığı odadaki koltukta yatan güzel bir açık kahverengi dişinin görünümüne çok kapıldım.
 Sahibi uzun boylu, zayıf bir adamdı, birbirine çok yakın duran sinsi gri gözleri ve zayıf, kararlı bir yüzü vardı. Köpek adamları masonlardır ve ben de hemen güzel açık kahverengiden bahsederek sohbete başladım.
-Kulaklarını dikti ve hayretle gördüm ki, bir tavşanınki gibi dik duruyorlardı. Hiç böyle garip, ücra bir kafa görmemiştim, ancak köpek kulaklarını geriye yatırdığında güzel, iyi eğitilmiş bir tazıya benziyordu.
+Kulaklarını dikti ve şaşkınlığıma göre, bir tavşanınki gibi dik duruyorlardı. Hiç böyle garip, ücra bir kafa görmemiştim, ancak köpek kulaklarını geriye yatırdığında güzel, iyi eğitilmiş bir tazıya benziyordu.
 
 "Neden, o bir tazı" dedim.
 
@@ -1715,7 +1722,7 @@ oldukça doğru olduğunu öğrendim. Köpeğin zekası doğaüstüydü. Kaçak 
 nasıl bir şey olduğunu bilmeyen masumların yararına, bu köpeğin
 yaratıkları hakkında bir fikir vereceğim. Sahibi--ona Veremli diyorum,
 çünkü gece çalışması akciğerlerine zarar verdi--bir gün çok arkadaş canlısı ve
-gizli oldu. Göz kırptı ve şöyle dedi, "Şimdi, bu ay kaç tane olduğunu düşünüyorsun?"
+saklı oldu. Göz kırptı ve "Şimdi, bu ay kaç tane olduğunu düşünüyorsun?" diye sordu.
 
 "Kaç tane?"
 
@@ -1724,9 +1731,9 @@ gizli oldu. Göz kırptı ve şöyle dedi, "Şimdi, bu ay kaç tane olduğunu d�
 Denedim ve başaramadım. Tüberküloz fısıldadı, "Ben saymaya devam ediyorum,
 tıpkı bir dükkan sahibi gibi ve yaşayan bir adam olduğum kadar o parktan iki yüz elli tane aldım ve ortalama on peni kazandım."
 
-"O dişiyle mi?"
+"O dişi köpekle mi?"
 
-"Hayır. Ondan bir yavru aldım--çok yavru. Yaşlı adam bebeğe öğretti,
+"Hayır. Ondan bir yavru aldım--öyle bir yavru. Yaşlı adam bebeğe öğretti,
 ve yemin ederim ki o yavrunun gün ışığında dışarı çıkmasına asla izin vermeyeceğim. Birlikte çalışırlar ve hiçbir şey kaçamaz."
 
 Bu şaşırtıcı ifade harfiyen doğruydu. Köpekler kurnazlık konusunda cin gibiydiler; garip bir ayak sesinin sesini duyduklarında ustaca saklanırlardı ve gerekirse kilometrelerce öteden geri getirirlerdi. Onları çalışırken gördüğümü söyleyebilirim ve Frank
@@ -1752,7 +1759,7 @@ acele ediyor! Tavşan vahşi çeneler ona kapanmadan önce sadece bir veya iki k
 asla aceleyle geçmeyi düşünmüyor ve Darby onu
 yattırmak için sadece iki kez yere vurmak zorunda kalıyor. Gizlice yaklaşıyor ve dehşet! Tavşanı Joan'a veriyor. Şimdi o pelerinin altında kullanışlı küçük bir aparat var. Joan'ın koltuk altlarının altına ve göğüslerinin üzerine güçlü bir kayış bağlanır.
 Bu kayışta bir düzine güçlü kanca vardır. Joan, tavşanın arka bacaklarının tendonlarını kemikten keser, avı kancalardan birine asar ve aşıklar huzur içinde yollarına devam ederken, aile bakıcısı başka bir katilce işe koyulur. Dört veya beş kanca
-dolduğunda, hanımefendi çekingen köpekle birlikte eve doğru yürür, Darby
+dolduğunda, hanımefendi çekingen köpekle birlikte evine doğru yürür, Darby
 saat on bire kadar The Chequers'ta içki içer ve sonra fare rengi tazı payını almak üzere dışarı çıkarılır.
 
 Sevgili çift, bir ağacın altındaki bir bankta oturuyorlardı, çünkü Joan, kemerine astığı dokuz tavşanın ağırlığı altında oldukça yorulmuştu. Tazı gizlice yaklaşıp sessizce bir tavşanı Joan'ın ayaklarının dibine bıraktı; sonra yumuşak sesli bir adam ağacın arkasından geldi ve
@@ -1772,14 +1779,14 @@ oldukça titreten bir kadın vardı. Bir gösteriden fırlamış bir dev gibiydi
 Eğer o zeki polis pelerinin altındaki gizemleri araştırmış olsaydı! İyi ki yapmamış, çünkü Veremli çok
 eğlenceli bir yırtıcı hayvandır.
 
-Kaçak avcılarımızdan bir diğeri, köpek lisansları için benden borç almak zorunda kaldı ve minnettarlık göstergesi olarak gece yarısı çalışan iki tazısını görmeme izin verdi. İnsanlar tazıların kokuyla avlanamayacağını düşünüyorlar, ancak bu adamın basset tazıları gibi çalışan minik siyah ve büyük çizgili bir tazısı var. Onlar ortaktır ve görünüşe göre koşu kurallarına karşı büyük bir küçümsemeleri vardır. Biri tarlanın dibinde beklerken,
-ortağı bir kırlangıcın ok gibi çevikliğiyle yeri dörde böler. Bir tavşan, döven köpek tarafından yakalandığında doğrudan
+Kaçak avcılarımızdan bir diğeri, köpek lisansları için benden borç almak zorunda kaldı ve minnettarlık göstergesi olarak gece yarısı çalışan iki tazısını görmeme izin verdi. İnsanlar tazıların kokuyla avlanamayacağını düşünüyorlar, ancak bu adamın basset tazıları gibi çalışan minik siyah ve büyük çizgili bir tazısı var. Onlar ortaklar ve görünüşe göre koşu kurallarına karşı büyük bir küçümseme duyuyorlar. Biri tarlanın dibinde beklerken,
+ortağı bir kırlangıcın ok gibi çevikliğiyle yeri dörde bölüyor. Bir tavşan, döven köpek tarafından yakalandığında doğrudan
 sonuna gider.
 
 Bu tür kanunsuz haydutların Londra'da dolaşması harika görünüyor; ama işte oradalar ve yerde bir av lideri olduğu sürece halefleri olacak.
 Bu adamlar itibarsız aylaklar; sadece içki ve tembelliğin zevkleriyle ilgileniyorlar. Bunu kabul ediyorum. Benim tek işim, St. Paul'ün hemen yakınında ne kadar garip bir gizli hayatın, ne kadar garip bir gizli toplumun incelenebileceğini göstermek.
 
-Tanıdığım en iyi ve en cesur kaçak avcı Waterloo'dan beş yirmi dakikalık bir yolculuk mesafesinde yaşıyor. Dilediğiniz kadar katı av yasaları oluşturmaya devam edebilirsiniz, ancak
+Tanıdığım en iyi ve en cesur kaçak avcı Waterloo'dan beş yirmi dakikalık bir yolculuk mesafesinde yaşıyor. İstediğiniz kadar katı av yasaları oluşturmaya devam edebilirsiniz, ancak
 aşırı baskın bir içgüdüyü öldüremezsiniz.
 
 "Av Yasalarını Kaldırın" demeye hazır değilim; ancak şunu söylüyorum ki
@@ -1797,15 +1804,15 @@ Kuzey Denizi balıkçı filolarımızı yöneten muhteşem denizcilerin çoğunu
 saf Cockney'ler olduğunu çok az kişi bilir. Kuzey ülkesinde ve
 İskoçya'da gururlu yerliler, Cockney'leri ancak çok hayırsever kişiler tarafından insan olarak kabul edilebilecek bir varlık olarak görmeye alışkındır.
 Bir İskoç balıkçının bir "Kokenee"den bahsettiğini duymak, ciddi bir adamın
-aslında küçümsemenin ne kadar değerli olabileceğini anlamanızı sağlayan bir deneyimdir.
+aslında küçümsemenin ne kadar ileri gidebileceğini anlamanızı sağlayan bir deneyimdir.
 Kuzeyliler, ülkedeki tüm erkekliğin ve dayanıklılığın
 kişilerinde bulunduğuna inanırlar; ancak bu hoş inanç
 maddesine itiraz etme iznini alıyorum, çünkü Tees'in kuzeyinde doğmuş herhangi biri kadar cesur ve becerikli denizciler olan yüzlerce Londralı gördüm. Cockney konuşmaya biraz düşkündür, ancak yine de iyi bir adamdır.
 
 Smacks'te iş evi okullarından birçok çocuk çıraklık yapıyor ve
 İngiltere'deki en zeki kaptanların bazıları aslen Mitcham veya
-Sutton'dan geliyor. Jim Billings denize ilk açıldığında bir iş evi çocuğuydu ve
-bazen sekiz haftalık gezileri bittikten sonra Londra'ya kadar koşardı.
+Sutton'dan geliyor. Jim Billings denize ilk gittiğinde bir iş evi çocuğuydu ve
+sekiz haftalık gezileri bittikten sonra bazen Londra'ya kadar koşardı.
 Jim'e ilk baktığımda istemsizce, "Bob Travers,
 yaşayan adam adına!" dedim. Ünlü renkli boksör hala hayatta ve sağlıklı ve
 onu Jim Billings'ten ayırt etmek zor olurdu, eğer boksör şık giyinmeseydi. Jim öyle giyinmez;
@@ -1814,10 +1821,10 @@ genellikle neredeyse dirseğe kadar açıktır ve kıvrımlı buklelerinin oluş
 onu genellikle başlık takma zahmetinden kurtarır. Pazar günleri
 bazen çok rahatsız edici bir keçe şapka takıyor, ama bu sadece toplumsal
 adete bir övgü ve çirkin çıkıntı Jim'in tüylü kafasını uzun süre çirkinleştirmiyor. Billings'in babası bir melez boksördü ve sınıfındaki tüm erkeklerin eğitimden çıktıklarında
-davrandıkları o çılgınca aşırılıkların
-etkilerinden dolayı erken yaşta öldü. Melez, yirmi dört fitlik bir ringde
+davrandıkları o çılgın aşırılıkların
+etkilerinden erken yaşta öldü. Melez, yirmi dört fitlik bir ringde
 soyulmuş her zamanki kadar güçlü ve cesur bir adamdı; ama alkolle
-yapısını bozdu ve çocuklarını parasız bıraktı. Küçük kurşun kafalı Jim, yoksullar evine ve oradan da küçük bir balıkçı kulübesine gönderildi. Günümüzde hiç kimse, çok da uzun zaman önce olmayan filolar arasında görülen dehşetleri düşünüyor mu? Balıkçıların hiçbirinin, erkekliğe eriştiklerinde, insani bir duyguya sahip olması şaşırtıcı değil, çünkü hiçbir vahşi hayvana -bir İtalyan kasabasında bir at arabasına bile-
+yapısını bozdu ve çocuklarını parasız bıraktı. Küçük kurşun kafalı Jim, yoksullar evine, oradan da küçük bir balıkçı kulübesine gönderildi. Günümüzde hiç kimse, çok da uzun zaman önce olmayan filolar arasında görülen dehşetleri düşünüyor mu? Balıkçıların hiçbirinin, erkekliğe eriştiklerinde, insani bir duyguya sahip olması şaşırtıcı değil, çünkü hiçbir vahşi hayvana -bir İtalyan kasabasında bir at arabasına bile-
 asla bir çırak gibi davranılmadı. Bazı deniz haydutları, kana susamışlıklarının üzerlerine
 büyüdüğü için, acımasızlıklarını çılgınca uçlara taşıdılar. Çok yakın yıllara kadar açık denizlerde yaşayan çocuklar için hiçbir yasa olmadığı çıplak bir gerçektir. Bir
 iyi, dayanıklı deniz kurdu (doğru ve güçlü konuşma şekli budur) çırağını soyar ve gemi kışın kıçını suya daldırdığında onu pruvaya doğru gitmeye zorlardı. O kadar neşeli bir adamdı ki, bu cesur denizci, ve ben onun şakalarını anlatarak neşeli, "güçlü" İngilizleri saatlerce güldürebilirdim. Bu zavallı çocuğun, yemeği dışkıyla karıştırana kadar bir lokma bile yemesine izin vermezdi ve çocuk yemeğe kustuğunda, dayanıklı denizci bir emniyet pimiyle kafasını keser veya onu ambar ağzından aşağı fırlatırdı. Bazen dayanıklı olan ve ikinci kaptan çırağı ön halatlara çarparak bağlarlardı ve düğümlü ipin ucunun
@@ -1911,12 +1918,12 @@ Fransa, Hollanda ve hatta kendi erdemli
 Deniz filolarında, neredeyse bekarlığa mahkum edilmiş 12.000 güçlü adam var ve müstehcen resimleri satan insan maymunları, kaynaşan gemiler arasında nadir bir ticaret yürütüyorlardı.
 
 Jim Billings, Coper'ların başlıca müşterisiydi, çünkü hayvanlığı
-çılgıncaydı ve bir insandan çok muazzam bir robot gibiydi.
+saldırıya geçmişti ve bir insandan çok muazzam bir robota benziyordu.
 
 Bu yüzden bu güçlü yaratık hayatını içerek, dövüşerek, çalışarak, küfür ederek ve karanlıkta yaşayarak yaşadı. Sık sık "Gord"dan bahsederdi ve onun güçlü çocuksuluğu beni sonsuza dek gıdıklardı. Jim'i severdim; bizim sivri dilli ve erişteli adamlarımızla karşılaştırdığımızda o tam bir Adamdı; ama onun saygınlığa doğru yarışta benden epeyce uzaklaşacağını hiç beklemiyordum. Hala bir Aylak'ım; Jim en nazik toplumun en saygıdeğer üyesidir; ve her şey böyle oldu.
 
 Bir gri pazar sabahı, filonun içinden güzel bir gemi
-sürünerek geçti. Uzakta ve yakınlarda karanlık trol tekneleri yumuşak dalgalara doğru ilerliyordu ve yeterince pitoresk görünüyorlardı; ama garip gemi balıkçı teknelerinin hepsinden daha yakışıklıydı ve Jim'in merakı uyandı. Yeni gemi direğinin başında bir bayrak dalgalandırıyordu, ama Jim bayraktaki yazıyı okuyabilecek kadar iyi okuyamıyordu. "Kim o?" dedi. ve arkadaşı
+sürünerek geçti. Uzakta ve yakınlarda karanlık trol tekneleri yumuşak dalgalara doğru ilerliyordu ve yeterince pitoresk görünüyorlardı; ama garip gemi balıkçı teknelerinin hepsinden daha yakışıklıydı ve Jim'in merakı uyandı. Yeni gemi direğinin başında bir bayrak dalgalandırıyordu, ama Jim bayraktaki yazıyı anlayacak kadar iyi okuyamıyordu. "Kim o?" dedi. ve arkadaşı
 "Boş bir görev gemisi. Bir sürü adam gelip vaaz veriyor ve dua ediyor." diye cevapladı.
 
 "Ne? Boş adamlarımıza mı? Boş bayrağını daha önce hiç görmemiş olmam nasıl?"
@@ -1924,10 +1931,10 @@ sürünerek geçti. Uzakta ve yakınlarda karanlık trol tekneleri yumuşak dalg
 "Çok uzun zamandır başlamadım. Gorleston'da duydum. Şişko Dan
 onlardan birinin tahtasını değiştirdi."
 
-Tam o sırada akıllı şaplak ön yelkenini havaya kaldırdı ve yanaştı;
+Tam o sırada akıllı şaplak ön yelkenini havaya kaldırdı ve yelken açtı;
 sonra küçük bir tekne açıldı ve iri yarı, kır saçlı bir adam Jim'e seslendi.
 
-"Ne var, ihtiyar, ne var? Gel de bize bir bak. Bir saat sonra ayin var. Gel de bir demlik çay ve pipo iç."
+"Ne neşe, ihtiyar, ne neşe? Gel de bize bir bak. Bir saat sonra ayin var. Gel de bir demlik çay ve pipo iç."
 
 Bay Billings'in "Hadi boş gemiye binelim ve boş sandığın tamamını alabora edelim." dediğini söylemek beni üzüyor.
 
@@ -1986,7 +1993,7 @@ Anlatılamıyordu ve belirsiz ruhunda dalgalanan kalabalık düşünceler kaotik
 
 Ertesi gün sordu, "Bu İsa hakkında bir şey biliyor musun?"
 
-"Biraz şeytan! Mission gemisindeki heriften sana söylemesini iste."
+"Şeytan biraz! Mission gemisindeki heriften sana söylemesini iste."
 
 "Onu ve lanet olası ilkini gör!"
 
@@ -2034,11 +2041,13 @@ Yüksek fiyatların uygulandığı bir odamız var. Burası gerçekten çok
 seçkin tutuluyor ve kaba insanlar hariç tutuluyor. İlk başta pek iyi karşılanmadım ve meclistekilerden bazıları bana oldukça komik olması amaçlanan bir şekilde
 konuştular; ama asla sinirlenmedim ve iyi bir mizahla
 durumu oldukça sağlamlaştırdım. Ayrıca, odadaki en sevilmeyen adamın kim olduğunu öğrendim ve oldukça eğitimli bir adamın her zaman bir aptala vurabileceği türden darbeleri sinsice uygulayarak çokça iyi niyet kazandım. Salondan nefret ediyorum ve eğer
-kendi hayal gücüme göre dışarı çıksaydım
+kendi isteğime göre dışarı çıksaydım
 şiddet içeren bir dil kullanırdım. O sıkıcı,
 aptalca yerde, sosyallik ve neşe hakkındaki konuşmaları doğru değeriyle değerlendirmeyi öğreniyorsunuz. Korkarım ki bir sapkınlık
-söylemeliyim. George Eliot'ın Raveloe Inn hakkındaki bölümünün Shakespeare'in eseriyle eşit kabul edildiğini duydum. Şimdi bu bölümde yalnızca bir sahneyi dramatize etmeye çalışan
-zeki bir kadının hayal gücüyle yazılmış halini görebiliyorum. Hayatım boyunca nalbant ve geri kalanların konuşmalarına en ufak bir şekilde benzeyen bir konuşma duymadım. İlk olarak, meyhane sohbetinin bir unsuru -açık veya sinsi müstehcenlik- dışarıda bırakılmıştır. Gerçek bir meyhane salonunda, tamamen yeni bir kirli doğa hikayesi getirebilen adam, akşamın kahramanıdır. O zaman skandal unsuru eksiktir. Kaba düşünceli adamlar bir araya geldiğinde, birinin karakterinin parçalandığını duymadan önce sadece birkaç dakika beklemeniz gerekir ve skandal genellikle en beceriksiz türdendir. Yine, ev sahibini herkesle aynı fikirde olan esnek bir kişi olarak tasvir etmek kolaydır; ancak gerçek hayattaki ev sahibi, saygıyla karşılanan ve konumunu en belirgin şekilde savunan kişidir. İyi bir müşterisi varsa nazik ve yardımseverdir, ancak şirketi üzerinde sıkı bir kontrole sahiptir ve onlara kimin efendi olduğunu bildirir. Bir Loafer olduğumdan beri tanıdığım ev sahiplerinin neredeyse hepsi iyi adamlardı. Cömert, yardımsever ve arkadaş canlısı olmayı kendi çıkarlarına buluyorlar; ancak onları korkak dalkavuklar olarak göstermek saçma. Sıradan esnaflar; kendileri hakkında iyi bir
+söylemeliyim. George Eliot'ın Raveloe Inn hakkındaki bölümünün
+Shakespeare'in eseriyle eşit kabul edildiğini duydum. Şimdi bu bölümde yalnızca bir sahneyi dramatize etmeye çalışan ve onu yönlendirecek hiçbir verisi olmayan
+zeki bir kadının hayal gücüyle yazılmış halini görebiliyorum. Hayatım boyunca
+nalbant ve geri kalanların konuşmalarına en ufak bir şekilde benzeyen bir konuşma duymadım. İlk olarak, meyhane sohbetinin bir unsuru -açık veya sinsi müstehcenlik- dışarıda bırakılmıştır. Gerçek bir meyhane salonunda, tamamen yeni bir kirli doğa hikayesi getirebilen adam, akşamın kahramanıdır. O zaman skandal unsuru eksiktir. Kaba düşünceli adamlar bir araya geldiğinde, birinin karakterinin parçalandığını duymadan önce sadece birkaç dakika beklemeniz gerekir ve skandal genellikle en beceriksiz türdendir. Yine, ev sahibini herkesle aynı fikirde olan esnek bir kişi olarak tasvir etmek kolaydır; ancak gerçek hayattaki ev sahibi, saygıyla karşılanan ve konumunu en belirgin şekilde savunan kişidir. İyi bir müşterisi varsa nazik ve yardımseverdir, ancak şirketi üzerinde sıkı bir kontrole sahiptir ve onlara kimin efendi olduğunu bildirir. Bir Loafer olduğumdan beri tanıdığım ev sahiplerinin neredeyse hepsi iyi adamlardı. Cömert, yardımsever ve arkadaş canlısı olmayı kendi çıkarlarına buluyorlar; ancak onları korkak dalkavuklar olarak göstermek saçma. Sıradan esnaflar; kendileri hakkında iyi bir
 fikirleri var ve her sınıftan erkekle başa çıkabiliyorlar. Kadınlar bazen küstah, aşırı giyinmiş yaratıklar ve müşterilerini yürekten
 aşağılıyorlar; ancak çoğu zaman bir ev sahibi,
 kurgu ev sahibine
@@ -2060,26 +2069,22 @@ izlenir. Eğer bir adam içki isterse ne yaptığını gayet iyi bilir ve eğer 
 Lekeyi giderin ve zayıflığı güçlendirin; ama
 insan zaafından
 hiçbir şekilde sorumlu olmayan iş adamlarına
-aşağılık ve haksız hakaretler etmeyin.
+aşağılık ve haksız hakaretlerde bulunmayın.
 
 (Sık sık yaptığım gibi) bir gevşek ayyaşın sızlanıp derdini içki dükkânına
 bağladığını duyduğumda, ondan nefret ediyorum. Onu içki dükkânına kim götürdü?
 Kendini memnun etmek için mi gitmedi? Alkolü boğazından aşağı
 kaybettiğinde kendi zevkinden başka herhangi bir varlığın zevkini mi umursamıştı? Yine de merhamete sığınıyor. İngiltere ve İskoçya'yı çoğu ticari gezgin kadar iyi tanıdığımı düşünüyorum ve rahatlığım ve refahım için İttifak halkının paryalar olarak adlandırdığı adamlara güvenmek zorunda kaldım. Tüm deneyimlerimde, karanlık bölümde yer alacağını düşündüğüm bir düzineden az adamla karşılaştım. Birçok meyhanenin son derece ahlaki ve yararlı kurumlar olduğunu söylersem yalan söylemiş olurum; ancak suistimaller insan doğasının sıradan kusurlarından kaynaklanıyor ve rüşvetçi dalkavuklar veya soyguncular olarak tanımlanan tüccar sınıfından değil. Adil olalım. Şeytan'ın katlanacağı yeterince şey var ve kendimize verdiğimiz herhangi bir zarar için onu veya kaderi suçlamamalıyız.
 
-Raveloe sahnesinin tamamı tipik hatalarla dolu. Çok güzel, çok düzgün, çok temiz, çok komik. Meyhane mizahlarından çok az eğlence elde edilir, çünkü çeşitli konuşmacıların kibri saldırgandır ve aptallıkları basitliğin cazibesine sahip değildir. Örneğin, Bay Matthew Arnold gibi bir adam, "Silas Marner" bölümünün doğruluğunu eleştirel amaçlar için test etmek isteseydi, sertleşmiş bir uyuşturucu bağımlısının evinde geçirdiği bir gecenin çilesini zorlukla atlatırdı. Eğer topluluk utanmazsa, küfürleri filozofu hasta ederdi; kaba tavırları onu tiksindirirdi; siyasi konuşmaları - muhtemelen onu sersemletir ve kaçmasına neden olurdu.
+Raveloe sahnesinin tamamı tipik hatalarla dolu. Çok güzel, çok düzgün, çok temiz, çok komik. Meyhane mizahlarından çok az eğlence elde edilir, çünkü çeşitli konuşmacıların kibri saldırgandır ve aptallıkları basitliğin cazibesine sahip değildir. Örneğin, Bay Matthew Arnold gibi bir adam, "Silas Marner" bölümünün doğruluğunu eleştirel amaçlar için test etmek isteseydi, sertleşmiş bir uyuşturucu bağımlısının evinde geçirdiği bir gecenin çilesini zorlukla atlatırdı. Eğer topluluk utanmazsa, onların kaba tavırları filozofu hasta ederdi; kaba tavırları onu tiksindirirdi; siyasi konuşmaları - muhtemelen onu sersemletir ve kaçmasına neden olurdu.
 
 İşte dramatik saçmalıklar veya idealleştirmeler olmadan verdiğim bir örnek konuşmanın notları. Hafızama kesinlikle güvenilebilir ve uzun bir görüşmeyi sıklıkla, görüşülen kişinin değiştirecek hiçbir şey görmediği şekilde rapor ettim.
 
-Bowman kahkaha attı ve mor yüzü neşeyle şişti, çünkü emekli yaşlı bir esnaf olan Bill Preston'ın fısıldayarak anlattığı bir hikayeyi dinliyordu. Bill, kızları bölgemizin toplumunda oldukça önde gelen bir konuma sahip olan çok saygın bir adamdır. Kilise işlerinde harikadır ve papazın sağ koludur. Pazar günleri, siyahlara bürünmüş ve dindar bir tavır takınmış bir şekilde koridorda yürürken onu görmek asil bir görüntüdür; ancak salonumuzda tek amacı, mümkün olan en fazla sayıda en tuhaf hikayeyi anlatmaktır ve yıllarca sevgi dolu bir çalışmayla biriktirdiği koleksiyonu büyük ve çeşitlidir. En basit konuşmayı bile ondan biraz müstehcen bir anlam çıkarmaya çalışmadan dinleyemez ve tamamen uygunsuz bir başarı elde ettiğinde, temiz, pembe, neşeli yüzü büyüleyici bir gülümsemeyle aydınlanır. Ah! Eğer hanımlar, ailelerin bu ayık babalarını, sohbet sırasında 
-şaklabanlıklar devam ederken duysalardı, kesinlikle
-aydınlanmış olurlardı.
+Bowman kahkaha attı ve mor yüzü neşeyle şişti, çünkü emekli yaşlı bir esnaf olan Bill Preston'ın fısıldayarak anlattığı bir hikayeyi dinliyordu. Bill, kızları bölgemizin toplumunda oldukça önde gelen bir konuma sahip olan çok saygın bir adamdır. Kilise işlerinde harikadır ve papazın sağ koludur. Pazar günleri, siyahlar içinde ve dindar bir tavırla koridorda yürürken onu görmek asil bir görüntüdür; ancak salonumuzda tek amacı, mümkün olan en fazla sayıda en tuhaf hikayeyi anlatmaktır ve yıllarca sevgi dolu bir çalışmayla biriktirdiği koleksiyonu büyük ve çeşitlidir. En basit konuşmayı bile ondan biraz müstehcen bir anlam çıkarmaya çalışmadan dinleyemez ve tamamen uygunsuz bir başarı elde ettiğinde, temiz, pembe, neşeli yüzü büyüleyici bir gülümsemeyle aydınlanır. Ah! Eğer hanımlar, ailelerin bu ayık babalarını, sohbet sırasında şakalar yapılırken dinleselerdi, kesinlikle aydınlanmış olurlardı.
 
-Bowman kahkahasını bitirdiğinde, hayranlıkla, "Sen yaramaz ihtiyar! Benim ahlakımı bozmaya nasıl cüret edersin?" dedi. Ve Bill, bu övgüyü mütevazı bir memnuniyetle kabul etti. Sonra yüksek bir ses hepimizi susturdu ve
-büyük mantıkçımız Joe Pidgeon konuşmaya başladı.
+Bowman kahkahasını bitirdiğinde, hayranlıkla, "Sen yaramaz ihtiyar! Benim ahlakımı bozmaya nasıl cesaret edersin?" dedi. Ve Bill, bu övgüyü mütevazı bir memnuniyetle kabul etti. Sonra yüksek bir ses hepimizi susturdu ve büyük mantıkçımız Joe Pidgeon konuşmaya başladı.
 
-"Yaşlı Disraely ne yaptı? Neden, hepsi ondan korkuyordu. O bir
-başyapıttı, size söylüyorum. O yaptığı o heppigram neydi?--'Kendi gevezeliğinin coşkusuyla sarhoş olmuştu.' İşte size
+"Yaşlı Disraely ne yaptı? Neden, hepsi ondan korkuyordu. O bir başyapıttı, size söylüyorum. O yaptığı o hepigram neydi? 'Kendi gevezeliğinin coşkusuyla sarhoş olmuştu.' İşte size
 uzun
 bir süre! Ve o da bunu sürdürdü, öyle de yaptı. İngiltere'nin tacındaki en parlak
 taçtı, oydu. Ama bu Gladstone!--o kim? Bana
@@ -2219,7 +2224,7 @@ Gülün ve yapabildiğin kadar sevin.
 Şarabın kırmızı ruhu parlıyor,
 Bir zamanlar özlem ve tutku vardı,
 İlahi bir kadın bulmak;
-Bitmiş tasarım bulanık,
+Berbat bir tasarım,
 Planın kapsamı şuydu:
 Ölüm, kuru soytarının eski biblosu--
 İç ve yapabildiğin kadar sevin.
@@ -2235,10 +2240,11 @@ Hadi eğlenelim,
 TUHAF BİR NOEL.
 
 Loafer denizcilerin arkadaşlığından çok hoşlanıyor gibi görünüyor. Chequers'ta tuzlu su adamlarından birkaçı önceden toplandı, ama
-bizim Loafer onları toplamakta hiç gecikmedi. İşte duyduğu hikayelerden biri. Tarih, duyma yeri veya başka bir şeye atıfta bulunulmadan
+bizim Loafer onları toplamakta hiç gecikmedi. İşte duyduğu hikayelerden biri. Tarih,
+dinlenme yeri veya başka bir şeye atıfta bulunulmadan
 Günlük'te saklı.
 
-Joe Glenn, geçirdiği en tuhaf Noel Günü'nün büyük fırtınanın olduğu 1883 yılına denk geldiğini söylerdi. O yıl acımasız bir sıkıntı vardı ve Hull'da, Yarmouth'ta ve diğer yerlerde karşılaştığımız yas tutan insanların sayısı en hafif yüreğe sahip adamı bile perişan etmeye yetiyordu. Her yer siyahtı - her köşe başında sadece siyah; sonra kadınların yüzleri o kadar hüzünlü görünüyordu ve çocuklar o kadar sessiz görünüyordu ki sokaklarda yürümeye dayanamıyordum. Kadınlar rıhtımlardan gelen herhangi bir yabancıya soru sorardı ve erkekleri için her zaman bir şans olmadığını düşünmekten nefret ederlerdi; ancak ölü denizciler gri dalgaların altında, çamurda sallanıyorlardı ve gün be gün ağzı açık bakıp bakan zavallı ruhlar tüm dertlerini boşuna çekiyorlardı. Glenn 20 Ekim'de tekneyi çekti ve Gorleston'a doğru ilerlerken "Elveda, Sal; Noel için geri döndüm!" diye bağırdı. Joe, Esperanza'nın kaptanıydı ve çok umut vadeden bir adamdı. Kuzey Denizi'ni göz bağıyla biliyordu ve mesleği hakkında bilmediği her şey bilmeye değmezdi. Bay Gladstone'un kim olduğunu sorsaydınız muhtemelen "Onu duydum" derdi, ama size Bay Gladstone veya başka bir devlet adamı hakkında hiçbir şey söyleyemezdi. Karadaki dünyaya gelince, Joe beş yaşında bir çocuk kadar cahildi ve bir anaokulu kitabındaki resimler ona açıklandığında duyduğu sevinci görseydiniz ağlayana kadar gülerdiniz. Bir anaokulundaki bir çocuğun bildiği şeylerden habersiz yetişkin bir adamın varlığını hayal etmek neredeyse imkansızdır; ama denizde böyle birçok kişi vardır. Ne bekleyebilirsiniz ki? Onlar yıl boyunca o hüzünlü denizin inleyen ıssızlığı içinde yaşarlar; hiç okulları olmadı ve dünyaları şimdi bile boş ufukla sınırlıdır, iç bariyerleri teknelerinin küpeştesidir. Glenn, Moore'un Almanak'ını neredeyse okuyabiliyordu ve bu büyük eser gemideki tek edebiyat olduğu için, onu sık sık yorumluyordu ve büyük bir bilgin olarak kabul ediliyordu.
+Joe Glenn, geçirdiği en tuhaf Noel Günü'nün büyük fırtınanın olduğu 1883 yılına denk geldiğini söylerdi. O yıl acımasız bir sıkıntı vardı ve Hull'da, Yarmouth'ta ve diğer yerlerde karşılaştığımız yas tutan insanların sayısı en hafif yüreğe sahip adamı bile perişan etmeye yetiyordu. Her yer siyahtı - her köşe başında sadece siyah; sonra kadınların yüzleri o kadar hüzünlü görünüyordu ve çocuklar o kadar sessiz görünüyordu ki sokaklarda yürümeye dayanamıyordum. Kadınlar rıhtımlardan gelen herhangi bir yabancıya soru sorardı ve erkekleri için her zaman bir şans olmadığını düşünmekten nefret ederlerdi; ancak ölü denizciler gri dalgaların altında, çamurda sallanıyorlardı ve gün be gün ağzı açık bakıp bakan zavallı ruhlar tüm dertlerini boşuna çekiyorlardı. Glenn 20 Ekim'de tekneyi çekti ve Gorleston'a doğru ilerlerken "Elveda, Sal; Noel için geri döndüm!" diye bağırdı. Joe, Esperanza'nın kaptanıydı ve çok umut vadeden bir adamdı. Kuzey Denizi'ni göz bağıyla biliyordu ve mesleği hakkında bilmediği her şey bilmeye değmezdi. Bay Gladstone'un kim olduğunu sorsaydınız muhtemelen "Onu duydum" derdi, ama size Bay Gladstone veya başka bir devlet adamı hakkında hiçbir şey söyleyemezdi. Karadaki dünyaya gelince, Joe beş yaşında bir çocuk kadar cahildi ve bir anaokulu kitabındaki resimler ona açıklandığında duyduğu sevinci görseydiniz ağlayana kadar gülerdiniz. Bir anaokulundaki bir çocuğun bildiği şeylerden habersiz yetişkin bir adamın varlığını hayal etmek neredeyse imkansızdır; ama denizde böyle birçok kişi vardır. Ne bekleyebilirsiniz ki? Onlar yıl boyunca o hüzünlü denizin inleyen ıssızlığı içinde yaşarlar; hiç okulları olmadı ve dünyaları şu anda bile boş ufukla sınırlıdır, teknelerinin küpeştesi iç bariyerdir. Glenn, Moore'un Almanak'ını neredeyse okuyabiliyordu ve bu büyük eser gemideki tek edebiyat olduğu için, onu sık sık yorumluyordu ve büyük bir bilgin olarak kabul ediliyordu.
 Sonra, bir sekstant kullanabiliyordu ve enlemini hesaplama yöntemi iffetli ve pitoreskti. Güneşi 29 derece 18 dakika yaptığını ve gün için sapmayı 6 derece 34 dakika 22 saniye olarak belirlediğini varsayalım, o zaman
 rakamlarını şu şekilde yazdı:--
 
@@ -2309,6 +2315,7 @@ Alpler bölgesini harekete geçirmişti ve bir gemi gri bir dağın
 tacının üzerinden uçtuğunda, sıradan bir deniz kuşuna benziyordu. Bu çılgın, kıvrımlı dağ sırasının
 vadilerinde, ıslık çalan kasırga
 çılgınca
+dönüyor ve
 dönüyordu ve koparılan sürüklenme, cehennem gibi bir
 kazan dumanına benziyordu. Ve yine de kır saçlı yaşlı kaptan devam ediyordu,
 güçlü denizlerin bir dizisi uluyarak
@@ -2329,8 +2336,8 @@ Sanırım Wessel."
 "Bu bir kayık, kaptan ve onları uçuruyor."
 
 İki adam gemiyi uzun süre izlediler ve
-güvenli olabilecek en yakın yere kadar yanaşmaya karar verdiler. Ona yaklaştıklarında aslında
-sert ve hızlı olmadığı, ancak görünüşe göre
+güvenli olabilecek en yakın yere kadar koşmaya karar verdiler. Ona yaklaştıklarında aslında
+sert ve hızlı olmadığı, ama görünüşe göre
 çarptığı ve çapalarını çıkardığını tahmin ettiler. Bir 
 dolandırıcının göze alamayacağı hiçbir şey yoktur ve Esperanza
 yakında konuşabilecek mesafedeydi.
@@ -2434,17 +2441,17 @@ sokarak eğrileri gevşetirken, boynunda bir kavrama hissetti. Bir şimşek gibi
 "Bak, bak! Yardım ettin, Ingleese!" diye bağırdı ve
 çığlık atarken alacakaranlığı işaret etti.
 
-Joe, adamın içkiden çılgına döndüğünü hemen gördü ve bir gülümseme takındı,
-kaptanı ikna etme düşüncesiyle. Kısa bir süre sonra onu
+Joe, adamın içkiden çılgına döndüğünü hemen gördü ve
+kaptanı ikna etme düşüncesiyle bir gülümseme takındı. Kısa bir süre sonra onu
 aşağıya indirmeyi başardı ve aptalca bir şekilde biraz daha konyak doldurdu. Joe, adamı sersemletmenin en iyisi olduğunu düşündü ve brendi kesinlikle onu uyuttu.
 
-Kötü bir geceydi, çünkü rüzgar tekrar çıktı ve deniz öyle bir dalgalıydı ki
+Kötü bir geceydi, çünkü rüzgar tekrar çıktı ve deniz öyle bir aktı ki
 Glenn gece yarısı umudunu yitirdi ve en kötüsüne hazırlandı. Noel Günü'nün şafağında, kaptan onu rahatlatmayı teklif etti, ancak risk çok fazlaydı ve inatçı Doğu Yakası sakini işine devam etti,
 ama ağrıyordu, sırılsıklamdı ve o kadar uykuluydu ki gözlerini nasıl açık tutacağını bilmiyordu.
 
 Garip bir Noel mi? Evet, ama o tehlikeli büyük kanalda binlerce iyi adamın geçtiği Noel'den çok daha garip değildi.
 Öğle vakti, Joe kaptanın konyağından birazıyla Sal'a iç karartıcı bir sağlık
-içmek üzereyken, her iki gemi de korkunç bir sarsıntıyla ayrıldı. Etrafına bir
+içmek üzereyken, iki gemi de korkunç bir sarsıntıyla ayrıldı. Etrafına bir
 baktı ve cesaretinin gittiğini söyleyemesem de,
 mavnanın Esperanza'dan uzaklaştığını gördüğünde, bir tür vahşi umutsuzluğa kapıldığını söylemek zorundayım. Her an yanaşabilirdi ve sonra her şey biterdi. Zavallı Joe! Onu rahatlatacak tek bir kişi bile yoktu. İspanyol tembelleri bazen gelip kaşlarını çatarlardı, sonra tekrar aşağı inerlerdi. Bu acımasız bir işti. Esperanza'nın kaptanı
 kalkmak için çaresizce çabaladı, ama o yaklaşamadan alacakaranlık çöktü,
@@ -2487,7 +2494,7 @@ kazara dışarıda bırakıldığını tahmin etti.
 İhmalkarlık için Tanrı'ya şükretti.
 
 Çaresiz bir hızla çalışarak yedek yelkeni direğe doğru kaba bir şekilde büktü;
-sonra yelkenin alt kumaşına iki ağır ray takmayı başardı ve sonra da direği geminin ön direğinin yanından sürüklemeye başladı. Bunları anlatmak uzun zaman alır ama Joe uzun süre anlatmadı, her
+sonra yelkenin alt kumaşına iki ağır ray takmayı başardı ve sonra da geminin ön direğinin yanından yelkeni çekmeye başladı. Bunları anlatmak uzun zaman alır ama Joe uzun süre anlatmadı, her
 hareketi hayatını riske atarak yapmasına rağmen. Her biri yaklaşık seksen fit uzunluğunda iki ipi kesti; bunları dizginlere dönüştürdü, her parçanın bir ucunu direğin ucuna düğümledi ve diğer uçlarını tahta başlarının etrafına doladı. Sepetin kıçından çıkarılan iki ince ip parçası çelik rayların uçlarına sabitlendi ve
 sonra Joe aletini yana doğru geçirmek için çılgınca bir çaba gösterdi.
 İyi değil; o tarifsiz yabancıların önünde kendini tekrar küçük düşürmeliydi.
@@ -2518,15 +2525,16 @@ sersemlemiyordu ve yüksek sesli neşesi, diğer her şeyden daha hoştu.
 Jack hiçbir şekilde kaba birine benzemiyordu, çünkü yüzünde bir tür kız güzelliği vardı. Koyu yanakları zengin bir şekilde kızarmıştı, boğazı yuvarlak ve beyazdı ve mavi gözleri eğlenceyle parlıyordu. Boyu yaklaşık altı fitti ve iyi bir muhafız olabilirdi, çünkü sanki hayatı boyunca dikkatlice eğitilmiş gibi görünüyordu. Her kasını ve tendonunu düzenli olarak çalıştıran adamlar, askeri jimnastikçilere ait olan o zarif duruşu edinirler. Bu iyi genç adam, yüksek ruhlu ve bedensel güçle doluydu; cesaret onun için o kadar doğaldı ki, "cesur" gibi bir kelimenin sözlüğüne hiç girdiğini sanmıyorum. Hayatında hiçbir şeyden korkmamıştı ve tehlikeyi düşünmek aklına bile gelmiyordu. Jack küçük bir çocukken babasının gemisinde denize açılmıştı ve bundan sonra gemi onun tek eviydi. Çocuk o kadar cesurdu ki, yaşlı adamların bazılarını sık sık gerginleştiriyordu ve cesedinin nihai kaderi hakkında birçok hüzünlü kehanet yapılıyordu. Gemilerin serbestçe sallandığı rüzgarlı bir günde, Jack'in babası, deniz kestanesini güvertede bırakarak balıkla birlikte buharlı tekneye gitti. Yaşlı adam, teknesine çeyrek mil kala geri döndüğünde, gaff boyunca tırmanan siyah bir figür gördü ve bunun Jack olduğunu anladı. Young Hopeful, gaffın boğazından direğin en ucuna kadar süründü ve sonra gaff halatlarına doğru ilerledi - çok tehlikeli bir
 işlem. Baba dehşete düşmüştü; aceleyle fısıldadı, "Tanrı aşkına çek; biz kalkmadan önce onu denize yuvarlar." Ama genç maymun tutuşundan o kadar kolay vazgeçmedi ve ana yelkenin halkalarından aşağı indi, bacaklarına bile değmeden.
 
-Her gemide adamların bir oyuncağı olmalı ve Jack bu kapasitede daha iri yoldaşlarına hayranlık verici bir şekilde hizmet etti. Babası gemide olmasaydı, çocuk eski günlerde çok yaygın olan korkunç şekilde kötü muamele görebilirdi; ama kıç kaptanı sert oyunlara izin vermiyordu ve çocuk sadece zararsız numaralar yapmaya zorlandı. Adamlar bir keresinde onu bobstaydan aşağı inmeye cesaretlendirdiler ve hemen denedi; ama mürettebatı korkuttu, çünkü gemi onu birkaç kez batırdıktan sonra geri tırmanamadı ve en sonunda tekne onu kurtarmak için kuleye kondu. Zorlu havalarda ve zorlu çalışmaların ortasında Jack, giderek güç ve beceri kazandı. Onu çalışırken gördüm ve beni ürpertti, ancak inanılmaz çevikliğinin görüntüsü herkese güven verebilirdi. Islak gecelerde, güverte bir pist gibiyken, tekne sarsılırken bir hamle yapardı; sonra karanlıkta ipini hatasız bir şekilde alırdı ve bir saniye sonra, onu, bir ayağı trol kirişinde, gözlerinizi kapatmanızı isteyecek kadar riskli bir tavırla, kenardan aşağı bakarken görürdünüz. Karanlıkta ana boma doğru uçan bir yay alıp, tekne sarsılırken orada asılı kalarak, kaburgalarını derisinden geçirmiş gibi hissetmeniz pek de önemli değildi. Hiçbir şey olmadığını söylüyorum çünkü bu hareketi neredeyse her kış gecesi, gece yarısı çekiminden sonra yapıyordu ve bu gösteri yaygınlaştı. Onun bir ipin üzerinden
+Her gemide adamların bir oyuncağı olmalı ve Jack bu kapasitede daha iri yoldaşlarına hayranlık verici bir şekilde hizmet etti. Babası gemide olmasaydı, çocuk eski günlerde çok yaygın olan korkunç şekilde kötü muamele görebilirdi; ama kıç kaptanı sert oyunlara izin vermiyordu ve çocuk sadece zararsız numaralar yapmaya zorlandı. Adamlar bir keresinde onu bobstaydan aşağı inmeye cesaretlendirdiler ve hemen denedi; ama mürettebatı korkuttu, çünkü gemi onu birkaç kez batırdıktan sonra geri tırmanamadı ve en sonunda tekne onu kurtarmak için kuleye kondu. Zorlu havalarda ve zorlu çalışmaların ortasında Jack, giderek güç ve beceri kazandı. Onu çalışırken gördüm ve beni ürpertti, ancak inanılmaz çevikliğinin görüntüsü herkese güven verebilirdi. Islak gecelerde, güverte bir pist gibiyken, tekne sarsılırken bir hamle yapardı; sonra karanlıkta ipini hatasız bir şekilde alırdı ve bir saniye sonra, onu trol kirişinde bir ayağıyla, gözlerinizi kapatmanızı isteyecek kadar riskli bir tavırla, kenardan aşağı bakarken görürdünüz. Karanlıkta ana boma doğru uçan bir yay alıp, tekne sarsılırken orada asılı kalarak, kaburgalarını derisinden geçirmiş gibi hissetmeniz pek de önemli değildi. Hiçbir şey olmadığını söylüyorum çünkü bu hareketi neredeyse her kış gecesi, gece yarısı çekiminden sonra yapıyordu ve bu gösteri yaygınlaştı. Onun bir ipin üzerinden
 atlarken veya kötü bir kayma yaparken hiç görmedim ve onu dümen tutarken görmek
-sadece bir zevkti. Hiçbir zaman bir santim bile atmadı ve ayak ayak çalma şekli her jokeye layıktı. Bazen dümendeyken ve başka bir geminin rüzgaraltına doğru biraz koşarken, "Sanırım onu
-atlatabilirim, efendim, eğer bana biraz izin verirseniz;" derdi ve sonra, hassas dokunuşlarla ve her
-esintiyi ve denizin her dalgasını kedi gibi izleyerek, yolunu açar ve rakibini temiz bir şekilde
-geçerdi.
+sadece bir zevkti. Hiçbir santim bile atmadı ve adım adım çalma şekli her jokeye layıktı. Bazen dümendeyken ve başka bir geminin
+rüzgâraltına doğru biraz koşarken, "Sanırım onu
+atlatabilirim, efendim, eğer bana biraz izin verirseniz;" derdi ve sonra,
+nazik dokunuşlarla ve her
+esintiyi ve denizin her dalgasını kedi gibi izleyerek, yolunu açar ve rakibini
+temiz bir şekilde geçerdi.
 
-En harikası, Jack'in küçük tekneyi sert havalarda kullanmasını görmekti. Küçük midye kabuğu bizim çeyrek altında yuvarlanıp beceriksizce
-hareket ederken, küpeşteye atlar, mesafesini mükemmel bir şekilde ölçer,
+En harikası, Jack'in küçük tekneyi sert havalarda kullanmasını görmekti. Küçük midye kabuğu bizim çeyrek altında yuvarlanıp beceriksizce hareket ederken, küpeşteye atlar, mesafesini mükemmel bir şekilde ölçer,
 teknenin küpeştesine sıçrar ve dönüş
 dönüşü yapmadan önce onu savuştururdu. Harika bir performanstı ve bu hayret, genç adamın büyük buharlı geminin güvertesine
 ağır balık kutuları attığını gördüğünüzde daha da arttı.
@@ -2546,22 +2554,22 @@ Bu muhteşem adam, denizle bağlantısı olmayan tüm dünyevi işlerden bir ço
 ve kıyıda biraz gürültücü olmasaydı hiçbir sahip onda kusur bulamazdı. Benim rafine günlerimde, Thackeray'in kitaplarından birinde Henry Esmond adlı biri tarafından çok sevilen genç bir lord hakkında okuduğumu hatırlıyorum: Arkadaşım Jack o genç adama çok benziyordu ve ona
 kızamazdınız,--ya da en azından, çok uzun süre kızamazdınız.
 
-The Chequers'da kısa sürede arkadaş olduk ve gece yarısından önce
-gizli kaldık. Aramızda Havlayan bir çocuk gördüğüm için şaşkınlığımı dile getirdiğimde,
+The Chequers'da kısa sürede arkadaş olduk ve gece yarısından önce gizliydik. Aramızda Havlayan bir çocuk gördüğümde hayretimi dile getirdiğimde,
 Jack derin bir anlamla göz kırptı ve "Ben hiç Havlamıyorum,
 sadece bu seyahat için. Kızım bir Lowestoft kızı ve buraya geldi,
 bu yüzden yarınki Pazar günü dışarı çıkmaya hazırım. Anlıyor musun?" dedi.
 
 İkinci görüşmemiz ertesi gün gerçekleşti ve sevgiliyi gördüm. O,
-kendi sınıflarından olmayanlarla evlenen balıkçıların çoğu gibi, sıradan, güzel bir hizmetçi kızdı; ama John'un oldukça cana yakın alışkanlıklarında bir fark yaratması muhtemeldi. Güçlü bir doğal duyuya sahip cahil bir kadın gibi konuşuyordu ve Jack bira içmeyi teklif ettiğinde, "Ay, öyle! Bu senin gitmen gereken yol. Onları gördüm, ödeme ofisinden ayrılır ayrılmaz meyhaneye yöneliyorlar. Ve bunu yapan bir sürü iyi adam var, değil mi?
+kendi sınıflarından olmayanlarla evlenen balıkçıların çoğu gibi, sıradan, güzel bir hizmetçi kızdı; ama John'un oldukça cana yakın alışkanlıklarında bir fark yaratması muhtemeldi. Güçlü bir doğal duyuya sahip cahil bir kadın gibi konuşuyordu ve Jack bira içmeyi teklif ettiğinde, "Ay, öyle! Bu senin gitmen gereken yol. Onları gördüm, ödeme ofisinden çıkar çıkmaz meyhaneye yöneliyorlar. Ve bunu yapan bir sürü iyi adam var, değil mi?
 İki ay boyunca canavar gibi çalışan, sonra bir hafta içinde tüm paralarını kasaya yatıran ve sonra da giyeceksiz denize açılan adamlar, ayrıca büyük ihtimalle başları derde giriyor. Hayır! Eğer umursuyorsan bir bardak bira iç, ama bildiğim kadarıyla iyi bir şey asla gelmez. En azından, denize giden adamlar için değil." Bu yüzden Jack ve ben Sally'nin fikrine erteledik--akşam dokuza kadar, sonra da kayıp zamanı telafi ettik. Yakışıklı delikanlının sevgilisinden ayrıldığı o soğuk yolu görmek eğlenceliydi. İki aydır görüşmüyorlardı ve yine de ne buluşurken ne de ayrılırken öpüşmediklerini düşünüyorum.
 
 Bu insanlar garip bir şekilde duygusuz. Birbirlerine düşkünler ve çok sadıklar, ama hiçbir şey göstermiyorlar. Fırtınadan sonraki kasvetli bir sabahta, gemiler bayrakları yarıya kadar indirilmiş bir şekilde çekilirken, kadınlar çekme yolunda ve rıhtımlarda toplanırlar; beyaz, bitkin yüzler görürsünüz, ama nadiren gözyaşı. Erkeklerin kasvetli, tehlikeli hayatı kadınlar tarafından yakından biliniyor gibi görünüyor ve en kötü talihi yürek parçalayıcı kuru bir acıyla kabul ediyorlar. Jack ve sevgilisi gençliklerinin, hatta fiziksel güzelliklerinin coşkusundaydı; birbirlerine tutkuyla düşkündüler; ve sıradan yabancılar gibi ayrıldılar. Jack tekrar aşağı, sömürge kulübesinin pis, pasaklı kabinine indiğinde ve aylarca süren soğuk, zahmet, yağmurlu hava ve sert yiyecekleri düşündüğünde, hiç şüphem yok ki
 ama güzel kızı düşünüyordu, ama çok az konuştu ve
 ayrılık içkisini bitirir bitirmez her zamanki gibi şakalaştı.
 
-Bundan sonraki birkaç yolculukta yakışıklı dostumuz vahşi ve umursamazdı;
-harika yapısı, Copers'ın sattığı iğrenç içkiyi cezasızca içmesine olanak sağladı ve yaşlı sömürgeciler çılgına döndüğünde sadece neşeliydi. Babasıyla ayrıldılar ve yaşlı adam, sömürge sahipleri olan bir firmanın gemi kocası olarak evde kaldı ve oğlanın kafası serbest kaldı. Her zamanki gibi umutsuzca cesurdu, çünkü o sinsi zehir sinirlerine uzun süre saldırdı; ama birçok yolu tuhaftı,
+Bundan sonraki birkaç yolculukta, yakışıklı dostumuz vahşi ve umursamazdı;
+harika yapısı, Copers'ın sattığı iğrenç içkiyi cezasızca içmesine olanak sağladı ve yaşlı sömürgeciler çılgına döndüğünde sadece neşeliydi. Babasıyla ayrıldılar ve yaşlı adam, sömürge sahipleri olan bir firmanın gemi kocası olarak evde kaldı ve oğlanın
+başı serbest kaldı. Her zamanki gibi umutsuzca cesurdu, çünkü o sinsi zehir sinirlerine uzun süre saldırdı; ama birçok yolu tuhaftı,
 ve dönüşte eve dönen adamlar onun hakkında
 hoş olmayan raporlar taşıyorlardı. Bazen, Robert Burns, George Morland ve o böbreğin adamları gibi, tutkulu bir pişmanlık patlamasına kapılırdı;
 ama onun durumunda pişmanlık her zaman sağlığın ve canlılığın geri gelmesiyle
@@ -2574,7 +2582,7 @@ Bu tür bir dalış, ağır deniz botlarıyla, oldukça tehlikelidir ve Usta Jac
 Kuzey Denizi'ndeki tüm suyun bacaklarını sürüklediğini hissetti;
 ama sonunda onu yakaladılar. Bu deneyim bile onu sadece bir hafta iyileştirdi ve sonra konyak şişesine başvurmaya tekrar başladı.
 
-Sonunda, taşıyıcıya balık koyarken, ona bir mektup
+Sonunda, balıkları gemiye koyarken, ona bir mektup
 verildi; ona sert bir şefkatle baktı ve
 yağlı ve iğrenç olan mektubu kazağının altına tıkıştırdı. Gemiye bindiğinde, adamların
 sevgililerini kızdıramayacağı
@@ -2648,7 +2656,7 @@ bazı insanlar onun dindar olduğunu düşünüyordu. Belki de öyleydi. Her ney
 
 Hava çirkin görünüyordu; cam hızla battı ve vahşi ve cüzzamlı görünen ay, sıkıntılı bulutların hareket eden maskesinin arasından canlı canlı parladı. Somurtkan bir dinginlik çöktü ve çatırdayan bloklar ve inleyen direklerle
 gemi yuvarlandı, geceyi korkunç hale getirdi. Sabah bir fırtına koptu
-ve kısa süre sonra kör edici bir kar yağışı geldi. Bulanık sarı akıntının arasından çok
+ve kısa süre sonra kör edici bir kar yağışı geldi. Bulanık sarının hızla akan akıntısı arasından çok
 
 yarda görmek imkansızdı, ama Jack dört
 resifin hepsini gördü ve bir yelken bezi ve üç kumaştan bir pruva yelkeniyle yoluna devam etti. Uzaklaşan bir deniz değildi; karşı konulmaz bir şekilde akan devasa bir şelaleydi. Jack, tekneyi hareket ettirebildiği sürece güvertesinin yanmasını önleyebileceğini biliyordu, bu yüzden denemeye karar verdi - boyun veya hiç. Gemideki hiç kimse, onu aşağı
@@ -2698,12 +2706,12 @@ Sayfa Sorunu Düzeltmesi
 Aşağıdaki sözcükler tireli ve tiresiz olarak metinde olduğu gibi bırakıldı:
 
 koltuk altı koltuk altı
-direk başı direk başı
+direk başı masthead
 
+James Runciman'ın The Chequers adlı eserinin Project Gutenberg E-Kitabının Sonu
+
+.
 *** END OF TURKISH PART ***
-
-.End of the Project Gutenberg EBook of The Chequers, by James Runciman
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE CHEQUERS ***
 
 ***** This file should be named 18510.txt or 18510.zip *****

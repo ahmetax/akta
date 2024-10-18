@@ -1,0 +1,1633 @@
+*** START OF AKTAHEADER ***
+Başlık: By Proxy
+Yazar: Gordon Randall Garrett
+Yayın Tarihi: February 27, 2008 [EBook #24707]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/24707
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of By Proxy, by Gordon Randall Garrett
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: By Proxy
+
+Author: Gordon Randall Garrett
+
+Illustrator: H. R. van Dongen
+
+Release Date: February 27, 2008 [EBook #24707]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BY PROXY ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Bruce Albrecht, Stephen Blundell
+ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[İllüstrasyon]
+
+VEKİL
+
+
+DAVID GORDON
+
+
+Yaratma eyleminin yalnız bir şey olduğu söylenmiştir -- takımlar asla yaratmaz; sadece bireyler yaratır.
+Ancak bazen yaratmayı etkili kılmak için bir takıma ihtiyaç duyulabilir...._
+
+Van Dongen tarafından resimlendirilmiştir
+
+Bay Terrence Elshawe, ortalama bir kişinin "haber muhabiri" kelimelerini duyduğunda aklına gelen zihinsel resme uymuyordu.
+Otomatik olarak, kişinin televizyon ekranında gördüğü ciddi, yakışıklı, dik çeneli, dengeli bakışlı, yumuşak sesli beyefendilerin genel koşusunu düşünür. Hangi haber servisine abone olunursa olunsun, muhabirlerin hepsi hemen hemen aynı tiptir. Ve Terrence Elshawe kesinlikle o tip değildi.
+
+Karmaşa, otuz küsur yıllık televizyonun uzmanlaşmayla sonuçlanmasından kaynaklanıyor. Eğer ölçüm cihazınızda Magnum Telenews'e çok fazla zaman ayırıyorsanız, "Magnum muhabiriniz" Brett Maxon'ın kültürlü sesine ve sert yakışıklılığına aşinasınızdır, ancak Maxon yalnızca kelimenin tam anlamıyla bir muhabirdir. O, tek işi Magnum haberlerini diğer telenews servislerinden daha ilginç kılmak olan bir aktördür,
+size tam olarak aynı gerçekleri vermesine rağmen. Ancak dışarı çıkıp bu hikayeleri ortaya çıkarmaz.
+
+Maxon'ın eline haberleri ulaştırmak ve size bildirebilmesi için gereken gerçek ayak işi, Terrence Elshawe gibi araştırma muhabirleri tarafından yapılır.
+
+Elshawe, üzerinde kısa kesilmiş, açık kahverengi saçları olan büyük, yuvarlak bir kafası olan küçük, zayıf bir adamdı. Ağzı geniş ve dolgun dudaklıydı ve ciddi görünmeye çalışırken bile
+şeytanca sırıtmaya belirgin bir eğilimi vardı. Gözleri iri, mavi ve masumdu; ancak ışık onlara tam doğru açıyla vurduğunda
+akut miyopluğu düzelten
+kontakt lensleri fark etmek mümkündü.
+
+Derin düşüncelere daldığında, başını arkaya yaslayıp gözlerini kapatarak masasının sandalyesinde dinlenme alışkanlığı vardı.
+Sol kolu göğsünün üzerinde, sol eli sağ dirseğini kavrarken, sağ eli ise Elshawe'nin düşünceleri sırasında metodik olarak tüttürdüğü büyük çanaklı bir funda kasesini tutardı. Oler Winstein, Elshawe'nin ofisinin kapısına başını koyduğunda tam olarak bu pozisyondaydı.
+
+"Meşgul müsün?" diye sordu Winstein sohbet edercesine.
+
+Bazı ofislerde, patron içeri girip bir çalışanı böyle bir pozda bulursa, çalışanın yoğun işinden sadece bir anlığına
+durmuş gibi görünmeye çalışırken aniden harekete geçmesi gerekirdi. Elshawe'nin tek tepkisi gözlerini açmaktı. O, patronu onu anında
+kovsa bile, böyle sahte bir numara yapacak türden bir adam değildi.
+
+"Özellikle değil," dedi, yavaş ve rahat bir şekilde. "N'aber?"
+
+Winstein ofise geldi. "İyi bir reklam olabilecek bir şeyim var. Ne düşünüyorsun bakalım."
+
+Elshawe bir muhabirin klişesine uymuyorsa, Oler Winstein da
+üst düzey bir TV patronunun klişesine uymuyordu.
+Elshawe'nin beş yedisinden daha uzun değildi ve sadece biraz daha
+ağırdı. Saçlarını kısa kestirmişti ve çocuksu yüzü onu Magnum Telenews'i kendi elleriyle bir araya getiren adamdan daha çok üniversitede lisansüstü öğrencisi gibi gösteriyordu. Bir ofisi vardı ama
+zamanının yarısından fazlasında orada bulunamıyordu; geri kalan
+zamanda Magnum Binası'nda dolaşıyor, stüdyolara, ofislere ve atölyelere
+giriyordu. Çalışanlarını kontrol etmiyordu ve
+asla öyleymiş gibi bir izlenim vermiyordu. Ağırlığını
+koymuyordu ve
+gizlemiyordu. Bir iş için bir adam işe aldıysa, işin yapılmasını beklerdi, hepsi bu. Eğer öyle olsaydı, adam masasında uyuyabilirdi
+ya da solitaire oynayabilir veya Winstein'ın umurunda olan bir şey için bira içebilirdi; iş
+yapılmamışsa, suçlunun piknikteki bir karıncayiyen kadar meşgul görünmesi önemli değildi - bir uyarı alırdı ve sonra kovulurdu. Winstein'ın etrafta dolanmasının tek nedeni zihninin çalışma şekliydi; sürekli fikirlerle doluydu ve bu fikirleri başkalarıyla çarpıştırmak istiyordu, böylece onlardan yeni ve değerli bir şey çıkıp çıkmayacağını görmek istiyordu.
+
+Özellikle heyecanlı görünmüyordu ama zaten nadiren de heyecanlıydı. En objektif çalışanlar bile, patronunun bir fikir hakkında özellikle hevesli olduğunu düşünürse, bir şekilde önyargılı hale gelebilir. Winstein etrafında evetçiler istemiyordu; düşünebilen ve düşünecek adamlar istiyordu. Ve bir acil durumun gerginliğinin gerçekten de çok güçlü düşünceler üretebileceği ve ürettiği, ancak bu tür bir atmosferin günlük iş için iyi bir şey olmadığı yönünde bir teorisi vardı. Bu tür baskıyı, normal prosedürle karşıtlığı nedeniyle etkili olduğu için, ihtiyaç duyduğu zamanlara saklıyordu.
+
+* * * * *
+
+Winstein masanın köşesine oturduğunda Elshawe ağzından ağır dikenini çıkardı. "Gözlerinde bir parıltı var, Ole," dedi suçlayıcı bir şekilde.
+
+"Belki," dedi Winstein kesin bir tavırla. "Bundan bir şeyler çıkarabiliriz. Malcom Porter adında bir adamı hatırlıyor musun?"
+
+Elshawe kaşlarını düşünceli bir şekilde çattı. "İsim tanıdık geliyor. Bir saniye. 1979'da yetkisiz bir roket
+gönderdiği için hapse atılan adam o değil miydi?"
+
+Winstein başını salladı. "Bu o. Beş yıllık cezasının iki yılını çekti, yaklaşık bir yıl önce şartlı tahliyeyle serbest bırakıldı. Gizli bir kaynaktan bir tane daha göndermeye çalışacağı haberini aldım."
+
+"Alcatraz'da her şeyin bu kadar keyifli olduğunu bilmiyordum," dedi Elshawe. "Geri dönmek için çok
+zorlanıyor gibi görünüyor."
+
+"Muhabirimin söylediğine göre değil. Bu sefer izin isteyecek. Ve bu sefer, '79'da yaptığı gibi kendi kendine yönlendirilen bir füze değil, pilotlu bir aracı olacak."
+
+"Ho_ho_. Eh, bunun bir hikayesi olabilir ama bunun pek de bir hikayesi olduğunu göremiyorum. Bir roket atışı olağandışı bir şeymiş gibi değil. Tek olağandışı yanı, bunun bir Hükümet atışı değil, özel bir girişim atışı olması."
+
+Winstein şöyle dedi: "Bundan daha fazlası olabilir. '79'daki davayı hatırlıyor musun?"
+
+"Belirsiz bir şekilde. Hatırladığım kadarıyla, bir roket göndermediğini iddia etti ama
+kanıtlar ezici bir şekilde roket gönderdiğini gösteriyordu. Jüri, hatırladığım kadarıyla, birkaç dakikadan fazla dışarıda değildi."
+
+"Bunun biraz daha fazlası vardı," dedi Winstein.
+
+"O sırada Güney Afrika'daydım," dedi Elshawe. "Aşağıdaki iç savaşı takip ediyordum, hatırlıyor musun?"
+
+"Doğru. Mazursun," dedi Winstein sırıtarak. "Mesele şu ki, Malcom Porter onu yukarı göndermediğini iddia etmedi. İddia ettiği şey, bunun bir roket olmadığıydı. İçinde yeni bir tür tahrik olduğunu iddia etti - roket kullanmayan bir şey.
+
+"Ordu, şeyi radar ekranlarında gördü, yüksek bir ivmeyle yukarı doğru gidiyordu. Onu Cobra takip roketleriyle birleştirdiler ve tanımlama sinyallerine yanıt vermediğinde onu gökyüzünden uçurdular.
+Elbette, şeyi fırlatma rampasına kadar takip edebilirlerdi ve
+Malcom Porter'ı yakaladılar.
+
+"Porter öfkeliydi. Hükümete karşı özel mülkün keyfi tahribatı nedeniyle dava açmak istiyordu. İddiası, yasanın izinsiz roket testlerini yasakladığıydı, ancak füzesi
+roket olmadığı için yasadışı değildi."
+
+"Ne olduğunu iddia etti?" diye sordu Elshawe.
+
+"Kendi icadı olan gizli bir cihaz olduğunu söyledi. Anti-yerçekimi veya buna benzer bir şey."
+
+"Bunu kanıtlamaya çalıştı mı?"
+
+"Hayır. Mahkeme, yasanın ifade ediliş biçimine göre, yalnızca
+'roket tahrikli füzelerin' yasak kapsamına girdiğini kabul etti. Yargıç, Malcom Porter füzenin roket tahrikli olmadığını
+kanıtlayabilirse davayı reddedeceğini söyledi. Ancak Porter bunu başka bir füze yaparak kanıtlamak istiyordu. Mahkemeye, icat ettiğini iddia ettiği sürücü için planlarını veya teknik özelliklerini vermedi veya bunun hakkında, alıntı yapıyorum, 'yeni bir fizik ilkesine göre' çalıştığı dışında hiçbir şey söylemedi. Hükümetin bunu, icadını ondan almak için bir bahane olarak kullandığı için onlara hiçbir şey söylemeyeceğini söyledi." 
+
+Elshawe kıkırdadı. "Duyduğum en zayıf savunma bu." 
+
+"Gülmeyin," dedi Winstein. "Neredeyse işe yarıyordu." 
+
+"Ne? Nasıl?" 
+
+"İspat yükümlülüğünü Hükümete yükledi. O, şeyi
+vurduğunu itiraf ettiğinde onu yakaladıklarını düşündüler, ancak
+bir roket olduğunu reddettiğinde, suç işlediğini kanıtlamak için
+bir roket _olduğunu_ kanıtlamak zorunda kaldılar. Porter'ın
+bunun _olmadığını_ kanıtlaması
+gerekmiyordu."
+
+"Hey," dedi Elshawe hayranlıkla, "bu oldukça hoş.
+Çalışmadığı için neredeyse üzgünüm."
+
+* * * * *
+
+"Evet. Sorun, Ordunun kanıtları havaya uçurmuş olmasıydı. Bunun bir
+roket olduğunu biliyorlardı, ancak bunu kanıtlamaları gerekiyordu. Elbette radar
+görüntüsü kayıtları vardı ve bunu füzenin şeklini ve
+hızlanmasını göstermek için kullandılar. Ortabatı'daki küçük kolejlerden birinden eski bir
+modası geçmiş Odin roketi aldığını kanıtladılar - Ordunun roket mühendisliği dersleri için bir gösteri modeli olarak
+sattığı bir roket. New Mexico'daki yerinde küçük bir sıvı hava tesisi olduğunu kanıtladılar. Başka bir deyişle,
+roketi yeniden inşa etmek için gerekli ekipmana ve onu çalıştırmak için gerekli yakıta sahip olduğunu kanıtladılar.
+
+"Sonra, kürsüye bir grup yüksek güçlü fizikçi çıkardılar
+ve
+bu şeyi o şekilde hareket ettirebilecek tek şeyin bir roket olduğunu kanıtladılar.
+
+"Porter'ın avukatı çapraz sorguda onlara
+vurdu, içlerinden birinin
+Porter'ın roketsiz bir füzeyi uçurabilecek yeni bir fizik ilkesi keşfetmiş olabileceğini kabul etmesini sağlamaya çalıştı, ancak
+Başsavcının savcısı onları oldukça iyi eğitmişti. Hepsi, aksi yönde bir kanıt olmadığı sürece böyle bir ilkenin olduğunu kabul edemeyeceklerini söylediler.
+
+"Savcı davasını jüriye sunduğunda, gerçekten çok eğlendi. Size daha sonra duruşmanın bir dökümünü vereceğim; gerçek tadı almak için
+kendiniz okumanız gerekecek. Bunun özü, bir adam yalnızca kendisinin bildiği bir bilimsel ilkeyi bir suça karşı savunma olarak iddia edebiliyorsa, işlerin oldukça kötüye gittiğiydi.
+
+"Beğendiğim bir benzetme yaptı. Dedi ki, bir adamın
+arabada hız yaparken bulunduğunu varsayalım. Polisler onu direksiyonda tek başına bulurlar,
+sonra onu kovalarlar. Sonra, mahkemede, tek başına olduğunu ve
+arabanın hız yaptığını kabul eder, ancak
+arabanın kendi kendine direksiyon çevirdiğini ve
+araç üzerinde hiç kontrol sahibi olmadığını söyler. Ve
+arabayı yönlendiren neydi? Elbette, yeni bir bilimsel ilke."
+
+Elshawe kahkahalarla gülmeye başladı. "Vay canına! Jürinin uzun süre dışarıda kalmamasına şaşmamalı! Haber bültenlerinin kayıtlarını dosyalardan
+çıkarmak zorunda kalacağım; Afrika'dayken gerçek bir komediyi kaçırdım."
+
+Winstein başını salladı. "Bununla ilgili oldukça iyi bir haber kapsamımız var, ancak bu kutsal salonlarda adını anmayacağım değerli rakibimiz Beebee Vayne'e yorum yaptırdı ve biz sayaçlarda yenildik."
+
+"Vayne?" Elshawe hala sırıtıyordu. "Bu yeni bir gelişme - bir komedyenin haber yapması için bir
+komedyen bulmak."
+
+"İsmi ve diğerlerinin de olduğu değerli rakibimin arada sırada bir fikir bulduğunu kabul etmeliyim. Ancak onun bizi tekrar yenmesini istemiyorum. Bu sefer en alt kattayız ve eğer yapabilirsem
+her şeyi tekeline almak istiyorum."
+
+"Harika bir fikir gibi görünüyor, eğer başarabilirsek," diye kabul etti Elshawe. "Yeni bir numaran mı var? Bunu bir komedyene yaptırmayacaksın, değil mi?"
+
+"Aman Tanrım! Üç yıl önce benim fikrim olsa bile, bunu tekrarlamazdım ve kesinlikle rakiplerimi kopyaladığımı söylemem. Hayır, sizden istediğim dışarı çıkıp neler olup bittiğini öğrenmeniz. Bununla ilgili tam bir arka plan edinin. "Bu sefer ne yapacağına dair bir fikir edindiğimizde sunum açısını çözeceğiz." Winstein, Elshawe'nin masasının köşesinden indi ve ayağa kalktı. "Bu arada--"
+
+"Öyle mi?"
+
+"Dışarı çıktığında dürüst ol. Sen bir muhabirsin, haber arıyorsun; daha önce hiçbir yargıda bulunmadın."
+
+Elshawe'nin piposu sönmüştü. Masa çakmağını kullanarak tekrar yaktı.
+"Çok fazla temkinli olmak istemiyorum," dedi nefesler arasında, "biraz ... beyni varsa ... bunun ... sahte bir oyun olduğunu anlayacaktır ... eğer aşırıya kaçarsam." Çakmağı çıkardı ve mavi-gri duman bulutunun arasından işverene baktı. "Yani, sonuçta, kayıtlarda bir çılgın olarak geçiyor. Söylediği her şeye inansaydım oldukça aptal bir muhabir olurdum. Biraz şüpheci davranmazsam, ya bir aptal ya da sahtekâr olduğumu ya da her ikisini birden düşünecek."
+
+"Belki," dedi Winstein şüpheyle. "Yine de, bu çılgınların bazıları, sözlerinden en ufak bir şüphe duyarsanız, çıldırırlar."
+
+"Ne yapacağımı söyleyeyim," dedi Elshawe. "Eskiden New York'ta yaşıyordu, değil mi?"
+
+"Hala yaşıyor," dedi Winstein. "Central Park West'te iki katlı bir dairesi var. New Mexico'daki çiftliğini sadece rahatlamak için kullanıyor."
+
+"Para sıkıntısı çekmiyor, değil mi?" diye sordu Elshawe rastgele. "Neyse,
+yapacağım şey, tanıdığı insanlardan bazılarını araştırıp ne tür bir kuş olduğu hakkında bir fikir edinmek. Sonra, dışarı çıktığımda, ona nasıl bir yem vereceğimi daha iyi öğreneceğim."
+
+"Bu kulağa hoş geliyor. Ama ne yaparsan yap, yumuşak tarafta oyna. Gizli muhbirim bana bu
+içeriden bilgi almamızın tek sebebinin Malcom Porter'ın dört yıl önce rakiplerimizin ona
+davranış biçiminden dolayı sinirli olması olduğunu söylüyor."
+
+"Bu gizli muhbir kim, Ole?" diye sordu Elshawe merakla.
+
+Winstein genişçe sırıttı. "Çok gizli olması gerekiyor. Senden
+daha fazla ilerlemesini istemiyorum."
+
+"Elbette hayır. Ne zamandan beri geveze oldum? Kim o?"
+
+"Malcom Porter."
+
+* * * * *
+
+İki gün sonra, Terrence Elshawe büyük bir istasyon vagonunun ön koltuğunda oturuyor, manzarayı seyrediyor ve makinenin New Mexico, Silver City'den çıkıp Mogollon Dağları'na doğru ilerlemesini
+dinliyordu.
+
+"Çok uzun zaman önce değildi," diyordu şoför, "bir adam
+bu ülkenin bu kısmına bir katır olmadan gidemezdi. Hala gidemezsiniz, ama patronun çiftliğe kadar bir yol yaptırması gerekiyordu, böylece tüm o ağır ekipmanı getirebilecekti. Bir gün Moğollar o kadar medeni ve dolu bir halk olacak ki, bir adam New York'ta yaşayabilir."
+
+On beş dakikadır başka bir insan görmemiş olan Elshawe, tahmin edilen aşırı kalabalığın hala biraz uzakta olduğunu hissetti.
+
+"Elbette," diye devam etti şoför, "insanların bir yerde yaşaması gerektiğini düşünüyorum,
+ama insanların neden bu kadar ateşli bir şekilde, kendilerini hareket edemeyecek kadar sık ​​bir araya
+toplamaya kararlı olduklarını hiç anlayamadım -- tıpkı bir kar fırtınasındaki koyun sürüsü gibi. Bana mantıklı gelmiyor. Size mi öyle geliyor Bay Skinner?"
+
+Sonuncusu Elshawe'nin arkasındaki koltukta oturan yaşlı bir adam olan diğer yolcuya yönelikti.
+
+"Sanırım bu tamamen bir zevk meselesi, Bill," dedi Bay Skinner yumuşak bir sesle.
+
+"Sanırım," dedi Bill, zevkleri şehirde yaşamak isteyecek kadar kötü olan herkesin muhtemelen psikiyatrik tedaviye ihtiyacı olan acınacak bir nesne olduğunu ima eden bir tonla. Bir an sessiz kaldı, daha az şanslı arkadaşlarına karşı açık bir sempatiyle.
+
+Elshawe bir şeyler söylemek için fırsatı değerlendirdi. Tıknaz
+Westerner onu havaalanından almıştı, Bay Samuel
+Skinner da Elshawe ile aynı uçakta gelmişti ve kendini Bill Rodriguez olarak tanıttıktan sonra o zamandan beri sürekli bir gevezelik akışına devam etmişti. Elshawe bir şans vermesi gerektiğini düşünmüyordu
+ani sessizliği atlatarak.
+
+"Bu arada; Bay Porter, ... şey .. test etmek için
+Hükümete izin başvurusunda bulundu mu? . gemisini mi?"
+
+Bill Rodriguez gözlerini dolambaçlı yoldan ayırmadı. "Şey, şimdi, ben
+tam olarak bilmiyorum, Bay Elshawe. Bakın, ben sadece
+oradaki çiftlikte çalışıyorum.
+Laboratuvarla hiçbir işim yok--sadece çiti iyi durumda tutmak ve hayvanların
+laboratuvar alanına girmesini engellemek dışında. Bay Porter bana bir şey söylememi istiyorsa, bana söyler ve eğer söylemiyorsa, nedenini, bunun benim işim olduğunu sanmıyorum."
+
+"Anlıyorum," dedi Elshawe. _Ve bu beni susturuyor_, diye düşündü kendi kendine.
+Piposunu çıkardı ve sessizce doldurmaya başladı.
+
+"Los Angeles'ta her şey nasıl, Bay Skinner?" diye sordu Rodriguez arkadaki yolcuya. "Sizi uzun zamandır görmedim."
+
+Elshawe ikisinin arasındaki konuşmayı yarım kulakla dinledi
+ve sessizce piposunu içti.
+
+Önceki günü Malcom Porter hakkında alabileceği tüm bilgileri toplayarak geçirmişti ve bu bilgiler kesinlikle sıkıcı olmamıştı.
+
+Porter 1949'da New York'ta doğmuştu, bu da onu tam otuz üç yaşında yapıyordu. Babası Vanneman Porter da kendi tarzında tuhaf biriydi. New York'lu Hamallar tam olarak Peter Stuyvesant'ın zamanına kadar uzanmıyordu, ancak Manhattan Adası için ödenen yirmi dört doların aile hazinesinden çıktığı hissini edinecek kadar uzun süredir ortalıktaydılar. Vanderbilt'ler Rockefeller'lara yeni gelenler olarak baktığı gibi, Hamallar da Vanderbilt'lere bakıyordu. Nesiller boyunca, genç bir Porter beyefendisinin hayatındaki mesleğini seçme zamanı geldiğinde önünde sadece üç seçenek olduğu zımnen kabul edilmişti. Wall Street'teki Porter & Sons şirketine katılabilirdi veya başka saygın bir işletmeye veya bankacılık girişimine katılabilirdi veya Hukuk okuyabilirdi. (Şirketler hukuku, elbette - asla ceza hukuku değil.) İş dünyasının kendilerine göre olmadığını düşünen birkaç kişi için dördüncü bir alternatif daha vardı - Episkopal Kilisesi'nin rahipliği için çalışmak. Başka bir şey duyulmamıştı.
+
+Bu yüzden Bay ve Bayan Hamilton Porter için tek oğulları Vanneman'ın M.I.T.'de fizik okumaya niyetlendiğini açıklaması biraz şok edici olmuştu. Ama izin verdiler; sevgili çocuğun mezun olduktan sonra "aklını başına toplayacağından" ve şirkete katılacağından oldukça eminlerdi. Sonuçta, aile adını devam ettiren ve aile mülklerini yöneten tek kişi oydu.
+
+[İllüstrasyon]
+
+Ancak Vanneman Porter sadece kendi bildiğini okumakla kalmadı ve doktora yapmaya devam etti;
+Mary Kelley adında güzel, tatlı ama fazla zeki olmayan bir kızla evlenerek suçunu daha da ağırlaştırdı.
+
+Malcom Porter onların oğluydu.
+
+* * * * *
+
+Malcom on yaşındayken, her iki ebeveyni de New Jersey Turnpike'de meydana gelen bir kazada öldürüldü ve çocuk dul büyükannesi Bayan Hamilton Porter ile yaşamaya gitti.
+
+Terry Elshawe, genç Malcom Porter'ın hayatının o noktadan sonra tam olarak ideal olmadığını anlamıştı. Büyükanne Porter, oğlunun evliliğini onaylamamıştı ve torununun damarlarında aristokrat olmayan bir kan olmasının dezavantajını aşması için elinden gelen her şeyi yapması gerektiğini hissediyordu.
+
+Elshawe, Malcom Porter'ın sonraki hayatında çevrenin mi yoksa kalıtımın mı belirleyici faktör olduğundan emin değildi, ancak ikisinin sinerjik bir şekilde hareket ettiğine dair bir hissi vardı. Onuncu yaşından sonra yaşam tarzındaki radikal değişimin, davranışlarıyla ilgili olması muhtemeldi, Porter ailesinin tartışmasız parlak zihinsel özelliklerinin, Vanneman Porter'ın güzel ama dağınık karısının genleri tarafından değiştirilmiş olma olasılığıyla ilgiliydi. Üç kez, büyükannesinin etkisi onu kaydettirdiği seçkin hazırlık okulundan atılmaktan kurtarmıştı ve son notları, kibar toplumda övünmekten çok uzaktı. Yaşlı kadın kendi yolunda onun için elinden gelenin en iyisini yapmaya çalışıyordu ama kendi oğlunu anlamakta zorluk çekiyordu ve onun Porter normundan sapmaları, oğlununkilerle karşılaştırıldığında çok azdı. Malcom'un üniversiteye girme zamanı geldiğinde, Büyükanne Porter ne yapacağını bilemiyordu. Kaydıyla, hukuk öncesi derslerinde muazzam bir ilerleme göstermediği sürece herhangi bir hukuk fakültesinin onu kabul etmesi pek olası değildi. Ve bu ilerleme, yalnızca çalışmaları açısından değil, kişisel hayatını ele alışı açısından da genel bir ilerleme olmadığı sürece, onu Porter & Sons'ta güvenilir bir konuma getirmek ticari bir intihar olurdu. Dürüst olmadığı için değildi; hiçbir şeyi düzgün bir şekilde yapması için ona güvenilemezdi. Kendi kaprislerini takip etme ve diğer herkesi görmezden gelme eğilimi vardı. Din adamına girme fikri hiç düşünülmedi.
+
+Malcom, babasının yaptığı gibi fizik okuyacağını açıkladığında yaşlı kadın için neredeyse bir rahatlama oldu.
+
+Rahatlama uzun sürmedi. Malcom ikinci sınıfa geldiğinde, eğitmenlerinin son adama kadar aptal olduğuna ikna olmuştu. Elshawe, bunun üniversite öğrencileri arasında muhtemelen alışılmadık bir şey olmadığını düşündü, ancak Malcom Porter onlara bundan bahsetme
+hatasını yaptı.
+
+Elshawe'nin konuştuğu profesörlerden biri şöyle demişti: "Üniversitenin sahibiymiş gibi davranıyordu. Sanırım, çalışmalarındaki sorunu buydu; gerçekten aptal değildi ve bazılarının söylediği kadar tembel de değildi, ancak keyif almadığı hiçbir şeyle uğraşmak istemiyordu. Örneğin, sevdiği deneyler gösterişli, muhteşem olanlardı. Kendine bir Tesla bobini ve içinde gizli AC elektromıknatısları olan bir masa yapmıştı, bu da metal bir plakanın havada süzülmesini sağlıyordu. Ancak nükleoniklere gelince sıkılmıştı. Termonükleer bombadan daha azı eğlenceli değildi."
+
+Sorun şu ki, eğitmenlerine "sıradan şeylerle" ilgilendikleri için aptal ve sıkıcı diyordu ve bu tür "çöpleri" incelemeye zorlanmak onu çileden çıkarıyordu.
+
+Sonuç olarak, üçüncü sınıfının
+sonlarına doğru üniversiteden atılmayı başardı. Ve bu onun resmi eğitiminin sonuydu.
+
+Bundan altı ay sonra büyükannesi öldü. Porter ailesiyle evlenmiş olmasına rağmen, isminden çok gurur duyuyordu; Van Courtland'da doğmuştu, bu yüzden aile gururunun ne olduğunu biliyordu. Ve Malcom'un Porter'ların sonuncusu ve bir başarısızlık olduğunun farkına varması
+dayanabileceğinden fazlaydı. Geçirdiği koroner atak bir haftada
+iyileşmeliydi, ancak Dünya'daki en iyi tıbbi-cerrahi teknikler
+yaşamak istemeyen bir kadına yardımcı olamaz.
+
+Vasiyeti Malcom Porter hakkında ne düşündüğünü tam olarak gösteriyordu. Porter'ın hisseleri emanete verildi. Malcom kazançlara sahip olacaktı, ancak elli yaşına gelene kadar
+ana paranın kontrolünde hiçbir söz hakkı yoktu.
+
+* * * * *
+
+Malcom öfkelenmek yerine tamamen mutluydu. Vergilerden önce bir milyon doları aşan bir geliri vardı ve para kazanmanın sıkıcı ayrıntılarıyla
+endişelenmesine gerek yoktu. Kendi küçük şirketini kurdu, Porter Research Associates ve kendi parasıyla finanse etti. Şirket zarar ediyordu ama Porter aldırış etmiyordu; Porter Research Associates bir hobiydi, bir iş değildi ve açık vererek çalışmak ona
+birçok vergiden tasarruf sağlıyordu.
+
+Yirmi beş yaşına geldiğinde, bir çatlak olarak tanınıyordu. Kendisi için çalışan teknisyenlerden ve bilim insanlarından oluşan karmakarışık bir ekibi vardı - bazıları doktora derecesine sahipti, bazıları meslek okulu eğitimi almıştı. O küçük gruptaki personel devir hızı, en azından gerçek bilim insanları söz konusu olduğunda, bir doğumhanedeki hastaların devir hızıyla aynıydı.
+Porter örümcek ağlarından teoriler ve hipotezler uyduruyordu ve bunları yıkmaya çalışan herkese öfkeleniyordu. Eğer onun evcil teorilerinden birinin tamamen saçmalık olduğunu gösterecek bir kanıt ortaya çıkarsa, bu özel kanıtın bir istisna olduğunu gösteren _ad hoc_ bir açıklama bulurdu. "Bilimin temelinin otoritelerin açıklamalarında değil, deneysel kanıtlarda yattığını" ısrarla savundu, bu da Einstein, Pauli, Dirac, Bohr veya Fermi'nin teorilerine başvurmanın Aristoteles, Platon veya Aziz Thomas Aquinas'tan alıntı yapmak kadar aptalca olduğu anlamına geliyordu. Kabul edeceği tek otorite Malcom Porter'dı.
+
+Bilim alanında eğitim almış hiç kimse, maaşı yüksek olsa bile, ki değildi, böyle biriyle uzun süre çalışamazdı. Onunla birlikte kalabilen tek kişiler, işi yaptıkları sürece teorileri pek umursamayan kalifiye işçilerdi: kaynakçılar, alet ve kalıp işçileri, elektrikçiler ve genç mühendisler. Porter'ın söylediklerini saygıyla dinlediler ve sonra onlara yapmalarını söylediği aletleri yaptılar. Aletler Porter'ın beklediği gibi çalışmazsa, Porter bıkana kadar onlarla uğraşır ve oynardı, sonra onları çöpe atıp başka bir şey denerdi. Emirleri yerine getiren bir teknisyeni asla suçlamazdı. Ödediği maaşlar, elbette Porter'ın kendi standartlarına göre yargılanan adamın "yetenek ve sadakati" ile orantılı olduğundan, kısa süre sonra kişisel güvenliklerinin Malcom Porter'da olduğunu ve kişisel sadakatin bilimsel yöntemi kullanma yeteneğinden daha önemli olduğunu bilen bir teknisyen-zanaatkar grubu oluşturdu.
+
+Porter'ın yaptığı her şey yüzde yüz başarısızlık değildi.
+Birkaç temel iyileştirme yapmayı başarmış, bunları patentlemiş ve çeşitli üreticilere lisanslamıştı. Ancak bunlar tamamen tesadüfi bir yan üründü. Malcom Porter "temel araştırma" ile ilgileniyordu
+ve görünen o ki başka pek bir şeyle ilgilenmiyordu.
+
+Makaleler ve kitaplar yazmıştı, ancak bilimsel dergiler tarafından tekdüze bir şekilde reddedilmişti ve kendisinin yayınlattıkları Immanuel Velikovsky ve George Adamski'nin yazılarıyla aynı seviyedeydi.
+
+Ve şimdi bir roket fırlatacaktı --ya da her neyse-- aya.
+Elshawe, eğer planlandığı gibi giderse, en azından izlenmeye değer olacağını düşündü. Elshawe bir roket meraklısıydı; hayatında bir düzine veya daha fazla ay uçuşu izlemişti --otomatik ikmal taşıyıcılarından Ay Üssü Bir'in personelini artıran üç kişilik yolcu roketlerine kadar her şey--ve kükreyen canavarların beyaz-ateş sütunları üzerinde gökyüzüne tırmanmasını izlemekten asla bıkmıyordu.
+
+Ve eğer hiçbir şey olmazsa, Elshawe karar verdi, en azından tüm bölümden bir kahkaha
+alacaktı.
+
+* * * * *
+
+Yaklaşık iki saatlik sürüşün ardından, Bill Rodriguez sonunda
+ana yoldan çıkıp
+çevresini saran çam ormanına doğru dik bir şekilde tırmanan asfalt yola saptı. Bir tabelada şöyle yazıyordu: _Çift At Nalı Çiftliği--Özel
+Yol--Geçit Yok_.
+
+Elshawe her zaman bir çiftliği, sığırlarla ve at sırtında silahlı kovboylarla dolu geniş bir düz çayırlık olarak düşünmüştü; koyunlarla dolu bir dağ yamacı bu resme uymuyordu.
+
+Yaklaşık yarım mil sonra, istasyon vagonu yolu kapatan yüksek bir metal örgülü
+çite geldi. Büyük kapıda, başka bir tabelada,
+ötesindeki alanın özel mülk olduğu ve izinsiz girenlerin
+yasaklanacağı bildiriliyordu.
+
+Bill Rodriguez arabayı durdurdu, dışarı çıktı ve kapıya doğru yürüdü. Metal kapı direklerinden birindeki düğmeye bastı ve "Ed? Ben Bill'im. Bay Skinner ve New York muhabiri de yanımda." dedi.
+
+Küçük bir duraklamadan sonra metalik bir tık sesi duyuldu ve kapı açıldı. Rodriguez arabaya geri döndü, bindi ve kapıdan içeri girdi. Elshawe başını çevirip arkalarındaki büyük kapının kapanmasını izledi.
+
+On dakika daha sonra Rodriguez yoldan çıkıp başka bir yan yola girdi ve bundan on dakika sonra istasyon vagonu küçük bir yükseltiden geçerek küçük bir vadiye doğru yöneldi. Ortasında,
+güneşte parlak alüminyum gibi parlayan bir gemi vardı.
+
+_Şimdi Porter'ın delirdiğini biliyorum_, diye düşündü Elshawe alaycı bir şekilde.
+
+Çünkü gemi, her neyse, yere paraleldi,
+kanatları ve kuyruğu olmayan bir stratojetin gövdesine benziyordu, iniş
+takımı üzerinde duruyordu. Hiçbir yerde, gantryleri, vinçleri ve jet engelleyicileriyle bir fırlatma rampasına dair hiçbir işaret yoktu. Geminin kendisinde de bir roket
+motoruna dair hiçbir işaret yoktu.
+
+İstasyon vagonu, makinenin bu tarafındaki yüz metre ötedeki bina kümesine yaklaşırken, Elshawe şokla bunun
+soyulmuş bir stratojet olduğunu fark etti--eski bir Grumman _Süpernova_, _yaklaşık_ 1970.
+
+"Eh, Elijah oraya demir bir sandalyeye oturup önüne bir
+mıknatıs
+atarak ulaştı," dedi Elshawe, "ne olmuş yani."
+
+"Ne?" diye sordu Rodriguez boş boş.
+
+"Hiçbir şey; sadece yüksek sesle düşünüyorum. Üzgünüm."
+
+Elshawe'nin arkasında, Bay Skinner hafifçe kıkırdadı, ama hiçbir şey söylemedi.
+
+Station vagon beyaz prefabrik binalardan birinin yanına yanaştığında, Malcom Porter geniş kapıdan çıktı ve onlara doğru yürüdü.
+
+Elshawe adamı resimlerinden tanıdı - uzun boylu, geniş omuzlu, koyu saçlı ve neredeyse yakışıklıydı, çılgın bakışlı bir deliye pek benzemiyordu. Rodriguez ve Skinner'ı oldukça buyurgan bir şekilde selamladı, ama genişçe gülümsedi ve elini Elshawe'ye uzattı.
+
+"Bay Elshawe? Ben Malcom Porter." Tutuşu sıkı ve dostçaydı. "Seni gördüğüme sevindim. Gelebildiğine sevindim."
+
+"Burada olduğuma sevindim, Dr. Porter," dedi Elshawe en iyi tavrıyla. "Bu
+bir ayrıcalık." Porter'ın "Doktor" diye çağrılmaktan hoşlandığını biliyordu; tüm astları ona böyle seslenirdi.
+
+Ama şaşırtıcı bir şekilde Porter şöyle dedi: "'Doktor' değil, Bay Elshawe; sadece
+'Bay'. Çocuklarım bana 'Doktor' demeyi severler, ama bu bir tür takma ad.
+Bir diplomam yok ve böyle bir iddiam da yok.
+Kamuoyunun
+benim olmadığım bir şey olduğumu iddia ettiğimi düşünmesini istemiyorum."
+
+"Anlıyorum, Bay Porter."
+
+Bill Rodriguez'in sesi araya girdi. "Bütün bu eşyaları nereye koymamı istiyorsun, Doktor?" Elshawe'nin bagajını istasyon vagonundan indirip dikkatlice yere koydu. Skinner tek valizini aldı ve Porter'a sorgulayıcı bir şekilde baktı.
+
+"Her zamanki odam, Malcom?"
+
+"Evet. Elbette, Sam; elbette." Skinner diğer binalardan birine doğru yürürken Porter şöyle dedi: "Orada epey bir yük var, Bay Elshawe. Kayıt ekipmanı?"
+
+"Çoğu," diye itiraf etti muhabir. "Kayıt yapan TV kameraları, 16 mm film kameraları, teyp kayıt cihazları, 35 mm fotoğraf makineleri - her şey. İyi bir kapsama alanı elde etmek istiyordum ve kalkış sırasında kullanmayacağınız adamlarınız varsa, bunları çalıştırmamda bana yardımcı olmaları için ödünç almak istiyorum."
+
+"Elbette; kesinlikle. Hadi Bill, bu eşyaları Bay Elshawe'nin süitine götürelim."
+
+* * * * *
+
+Süit, bu kadar uzak bir vahşi doğa için çok güzel döşenmiş üç odadan oluşuyordu. Elshawe ekipmanını yerleştirdiğinde, Porter onu dışarı çıkıp gurur ve neşesine bir göz atmaya davet etti.
+
+"İlk gerçek uzay gemisi, Elshawe," dedi enerjik bir şekilde. "İlk gerçek uzay gemisi. Roket, bir kürekli teknenin okyanusa açılan bir gemi olması gibi, bir uzay gemisi değildir." Şık, parlak, metal gemiye doğru işaret etti. "Elbette, sadece bir pilot modeli diyebilirsiniz. Harcayacak
+yüz milyonlarca dolarım yok; karşılayabildiğimle yetinmek zorundaydım. Bu eski bir Grumman _Supernova_ stratojet. Motorları, kanatları veya kuyruk tertibatını istemediğimi söylediğim için
+oldukça ucuza aldım.
+
+"Ama iş görecek, tamam. Çok güzel değil mi?"
+
+Elshawe'nin küçük cep kayıt cihazı çalışıyordu; bunların hepsini
+yazabilirdi. "Bay Porter," diye dikkatlice sordu, "bu gemi kendini nasıl
+ilerletebiliyor? Anladığım kadarıyla, duruşmada
+bunun bir anti-yerçekimi cihazı olduğunu iddia ettiğiniz, ancak bunu reddettiğiniz söylendi."
+
+"Bu aptallar!" diye öfkeyle bağırdı Porter. "Kimse ne hakkında konuştuğumu anlamadı çünkü dinlemiyorlardı! Yerçekimi karşıtı! _Pfui!_ Elektriği nasıl kullanacaklarını öğrendiklerinde buna
+anti-elektrik mi dediler? İlk atom reaktörünü inşa ettiklerinde buna
+anti-atom enerjisi mi dediler? Bir roket yerçekimine karşı çalışır, ama buna
+anti-yerçekimi_ demiyorlar, değil mi? Benim cihazım yerçekimiyle birlikte çalışır, ona karşı değil."
+
+"Ne tür bir cihaz bu?" diye sordu Elshawe.
+
+"Ben buna Gravito-Ataletsel Diferansiyel Polarizör diyorum," dedi Porter önemli bir şekilde.
+
+Elshawe bir sonraki sorusunu çerçevelemeye çalışırken Porter şöyle dedi: "Biliyorum
+isim sana pek bir şey anlatmıyor, ama isimler asla anlatmaz, değil mi? Bir transformatörün ne yaptığını biliyorsun, ama isim tek başına ne ifade ediyor?
+Hiçbir şey, ilk etapta ne yaptığını bilmiyorsan. Bir siklotron
+bir şeyi çevrime sokar, ama ne? Bir yayıncı yurtdışına bir şey yayınlar--ne?
+Ve nasıl?"
+
+"Anlıyorum. Ve 'nasıl' ve 'ne' senin sırrın, ha?"
+
+"Kısmen. Yine de sana biraz bilgi verebilirim. Diyelim ki tüm uzayda sadece bir gezegen var ve sen onun yüzeyinde duruyorsun.
+Gezegenin dönüp dönmediğini söyleyebilir misin? Ve eğer öyleyse, ne kadar hızlı?
+Elbette yapabilirsin; sözde merkezkaç kuvvetini ölçebilirsin.
+Aynı şey bir proton, elektron, nötron veya hatta bir nötrino için de geçerlidir.
+Ama eğer _dönüyorsa_, spin neye göredir? Parçacığın kendisine göre? Bu apaçık saçmalık. Bu nedenle, yaygın olarak 'eylemsizlik' olarak adlandırılan şey, sözde 'boş uzay'ın bir özelliği olduğu kadar maddenin bir özelliğidir. Benim cihazım sadece uzaysal eylemsizliği, geminin madde eylemsizliğine karşı kutuplaştırarak kullanır, hepsi bu."
+
+"Hm-m-m," dedi Elshawe. Kendi bilim bilgisine göre,
+bu ifadenin hiçbir anlamı yoktu. Ama adamın tavrı ikna ediciydi. Elshawe onunla konuşurken,
+Porter'ın sadece ne hakkında konuştuğunu bildiğini değil, aynı zamanda
+yapacağını söylediği şeyi gerçekten yapabileceğini hissetmeye başladı.
+
+"Bu ne?" diye sordu Porter keskin bir şekilde, gökyüzüne bakarak.
+
+Elshawe bakışlarını takip etti. "Bu" uzaktaki bir sırtın üzerinden gelen bir Cadillac hava aracıydı, yaklaşırken fanları giderek daha yüksek bir gırtlaktan uğultu yapıyordu. Yaklaşırken üç fit yüksekliğe kadar alçaldı
+ve hava yastığı üzerinde onlara doğru süzüldü. Elshawe, yan tarafında, AMERİKA BİRLEŞİK DEVLETLERİ HÜKÜMETİ kelimelerini ve bunun altında, daha küçük harflerle _Sivil Havacılık Otoritesi_ yazısını görebiliyordu.
+
+"Şimdi ne olacak?" diye mırıldandı Porter yumuşak bir sesle. "Henüz kimseye niyetlerimi bildirmedim - resmi olarak değil."
+
+"Bazen o çocuklar resmi bildirimi beklemiyorlar," dedi Elshawe.
+
+Porter ona baktı, gözleri kısıldı. "Hiçbir şey söylemedin, değil mi?"
+
+"Bakın, Bay Porter, ben öyle oynamam," dedi Elshawe gergin bir şekilde. "Benim açımdan, bu sizin şovunuz; ben sadece hikayeyi öğrenmek için buradayım. Bize önceden haber vererek bize bir iyilik yaptınız; sizin şovunuzu neden sizin için mahvedelim?"
+
+"Üzgünüm," dedi Porter sertçe. "Hadi, iyi bir şov yapalım."
+
+CAA hava aracı yavaş yavaş durdu, fanları öldü ve tekerleklerine yerleşti.
+
+* * * * *
+
+İki tane düzgün giyimli, orta yaşlı adam dışarı çıktı. İkisi de evrak çantaları taşıyordu. Porter yüzünde sıcak bir gülümsemeyle onlara doğru hızla yürüdü;
+Elshawe de arkalarından geldi. CAA adamları Porter'ın gülümsemesine ancak nazik ve iş gibi denebilecek gülümsemelerle karşılık verdiler.
+
+Porter tanışmaları gerçekleştirdi ve iki adam kendilerini Sivil Havacılık Otoritesi'nden Bay Granby ve Bay Feldstein olarak tanıttı.
+
+"Size yardımcı olabilir miyim beyler?" diye sordu Porter.
+
+Ortağından biraz daha kısa, şişman ve kel olan Granby
+evrak çantasını açtı. "Sadece rutin bir kontrol için buradayız, Bay Porter.
+Bize biraz bilgi verebilir misiniz...?" Evrak çantasından bir deste kağıt çıkarırken yarı soruyu havada asılı bıraktı.
+
+"Yardımcı olabileceğim bir şey var mı," dedi Porter. Granby, kağıtlara bakarak şöyle dedi: "1979'da Trans-American Airlines'dan bir
+Grumman _Supernova_ jet motorlu uçak satın aldığınızı sanıyorum?
+Bu doğru mu?"
+
+"Doğru," diye kabul etti Porter.
+
+Granby kağıtlardan birini Porter'a uzattı. "Bu, tescil
+sertifikasının bir kopyası. Tescil numarası, kopyanızdakiyle
+aynı mı?"
+
+[İllüstrasyon]
+
+"Sanırım öyle," dedi Porter, numaraya bakarak. "Evet, eminim öyledir."
+
+Granby başını hızla salladı. "Kayıtlarımıza göre, makine
+hurda olarak satılmış. Yani, uçuşa elverişli durumda değilmiş. Aslında,
+motorları olmadan satılmış. Bu doğru mu?"
+
+"Doğru."
+
+"Söz konusu makineye hala sahip olup olmadığınızı sorabilir miyim?"
+
+Porter, adama Granby'yi aptal veya kör olmakla
+veya her ikisiyle suçlayan bir bakış attı. Dev uçağın devasa gövdesini işaret etti.
+"İşte orada."
+
+Granby ve Feldstein sanki daha önce hiç fark etmemişler gibi bakmak için döndüler. "Ah, evet," dedi Granby, geri dönerek. "Eh, bu kadarı yeterli." Ortağına baktı. "Burada bir ihlal olmadığı çok açık, değil mi, Feldstein?"
+
+"Oldukça," dedi Feldstein kesik kesik bir sesle.
+
+"İhlal mi?" diye sordu Porter. "Ne ihlali?"
+
+"Aslında hiçbir şey," dedi Granby küçümseyerek. "Sadece rutin, dediğim gibi. İnsanların uçakları hurda olarak satın alıp sonra onarıp yeniden donattıkları biliniyor."
+
+"Bu yasadışı mı?" diye sordu Porter.
+
+"Hayır, hayır," dedi Granby aceleyle. "Elbette hayır. Ama bu şekilde yeniden donatılan ve onarılan herhangi bir gemi, yerden ayrılmadan önce CAA denetiminden geçmek zorundadır, anlıyor musunuz. Bu yüzden bu tür işlemleri takip ediyoruz, böylece
+yasanın ihlal edilmediğinden emin oluyoruz."
+
+"Üç yıl sonra mı?" diye sordu Porter, duygusuzca.
+
+"Şey... ah... şey... nasıl olduğunu biliyorsunuz," dedi Granby gergin bir şekilde.
+"Bu şeyler zaman alır. Bazen... yazım hatası nedeniyle, arada sırada bir davayı gözden kaçırırız." Ortağına baktı, sonra hemen
+Porter'a baktı.
+
+"Aslında, Bay Porter," dedi Feldstein, düz ve soğuk bir sesle,
+"sizin sicilinize bakarak, bu zamanda soruşturmanın
+önerilebilir olduğunu düşündük. Hurda bir füze satın aldınız ve yasadışı kullandınız. Bu konuyu araştırdığımız için bizi
+suçlayamazsınız."
+
+"Hayır," dedi Porter. İki adamdan daha uzun olanına doğru bakışlarını çevirmişti, çünkü aniden Feldstein'ın, Granby'nin değil, ikisinin arasında daha güçlü olduğu ortaya çıkmıştı.
+
+"Ancak," diye devam etti Feldstein, "endişelenecek bir şeyimiz olmadığını gördüğüme sevindim. Bunu bir uçak olarak tasarlamıyorsun. Bu arada, sadece meraktan soruyorum, onunla ne yapıyorsun?" Tekrar büyük gövdeye bakmak için arkasını döndü.
+
+Porter içini çekti. "Bunu birkaç gün ertelemeyi düşünmüştüm, ama kediyi şimdi dışarı çıkarsam iyi olur. Bu hafta sonu o gemiyle havalanmayı düşünüyorum."
+
+* * * * *
+
+Granby'nin gözleri kocaman açıldı ve Feldstein sanki biri ona
+iğne batırmış gibi döndü. "_Ne?_"
+
+Porter sadece söylediklerini tekrarladı. "Uzay Kuvvetleri'ne test etme izni için başvurmayı düşünmüştüm," diye ekledi.
+
+Feldstein bir an boş boş baktı.
+
+Sonra: "Uzay Kuvvetleri mi? Bay Porter, sivil uçaklar CAA'nın yetki alanına girer."
+
+"Onu nasıl uçuracak?" diye sordu Granby. "Motor yok, kanat yok, kontrol yüzeyi yok. Bu saçma."
+
+"Arkada roket motorları var tabii," dedi Feldstein. "Onu
+bir rokete dönüştürdü."
+
+"Ama kuyruk kapalı," diye itiraz etti Granby. "Roket deliği yok."
+
+"Sanırım sahte bir kapak," dedi Feldstein. "Öyle değil mi Bay Porter?"
+
+"Yanlış," dedi Porter öfkeyle. "Motor gücü
+benim kendi tasarladığım bir mekanizma tarafından sağlanıyor! Bunun roketlerle hiçbir ilgisi yok!
+Roket gücünden, elektrik motorunun buhar makinesinden daha üstün olduğu kadar üstün!"
+
+Feldstein ve Granby birbirlerine baktılar ve yüzlerinde neredeyse aynı olan
+üstün bir kendini beğenmişlik ifadesi belirdi. Feldstein
+Porter'a dönüp şöyle dedi, "Bay Porter, sana şunu temin ederim ki
+o şeyi kaldırmak için ne kullandığının bir önemi yok.
+Dinamit kullanıyor olabilirsin, umurumda değil. Yasa,
+uçmaya elverişli olmadığı sürece yerden kalkamayacağını söylüyor. Kanatları veya kontrol yüzeyleri olmadan,
+açıkça uçmaya elverişli değil. Eğer bir roket cihazı değilse, o zaman Sivil Havacılık Otoritesi'nin yargı yetkisine girer ve eğer
+iznimiz olmadan kalkış yapmaya çalışırsan, hapse girersin.
+
+"Eğer _bir roket cihazıysa, o zaman kalkıştan önce onu incelemek ve tehlikeli olmadığından emin olmak Uzay Kuvvetleri'ne düşer.
+
+"Bay Porter, şartlı tahliyede olduğunuzu hatırlatmak isterim. Son mahkumiyetiniz için hala üç yılınız var. Ben olsam
+bir daha roketlerle oynamam."
+
+Porter patladı. "Dinle, sen! Sen veya başkası tarafından itilip kakılmayacağım! Alcatraz'ın nasıl bir yer olduğunu senden daha iyi biliyorum ve
+eğer elimden gelirse oraya geri dönmeyeceğim. Bu ülke hala
+Anayasal olarak bir demokrasi, bir bürokrasi değil ve
+haklarımı kullanabileceğim şekilde hareket edeceğim!
+
+"On Yedinci Yüzyıldaki Yerçekimi Yasası kadar ... kadar ... kadar radikal bir şekilde yeni bir şey icat ettim! Ve bunun için
+tanınacağım, anlıyor musun?" Öfkeyle eski _Süpernova_'nın gövdesine doğru işaret etti. "Bu gemi sadece uçuşa elverişli değil, aynı zamanda
+_uzaya_ elverişli! Ve herhangi bir roketten bin kat daha güvenli ve bin kat daha iyi!
+
+"Bilginize, Bay Kendini Beğenmiş Surat, onu çoktan uçurdum!"
+
+Porter durdu, derin bir nefes aldı, dudaklarını sıktı ve sonra,
+daha alçak, biraz daha sakin bir tonda, "Ne yapacağını biliyor musun? O bebek
+tıpkı senin hava araban gibi havada asılı kalacak, orada--ve o eski, güç israf eden
+üfleyici fanların da faydası olmadan.
+
+"Şimdi beni anlayın Bay Feldstein:
+Mecbur kalmadıkça hiçbir yasayı çiğnemeyeceğim. Siz ve tüm bürokrat arkadaşlarınız
+bu testte bana OK verme şansına sahip olacaksınız. Ama sizi uyarıyorum, kardeşim--_O gemiyi
+alacağım!_"
+
+* * * * *
+
+Feldstein, Porter'ın ses tonuyla konuşmaya başladığında çene kasları gerilmiş,
+ama milyoner bitirdiğinde gevşemişti ve hatta
+kendini beğenmiş bir şekilde hoşgörülü görünmeyi bile başarıyordu. Elshawe, konuşma başladığında
+mini kayıt cihazının düğmesine basmıştı ve
+kayıt kafasının yanından tıslayarak geçen
+ince, manyetit emdirilmiş, plastik ipte neler olup bittiğini düşünerek zihninde kıkırdıyordu.
+
+Feldstein şöyle dedi: "Bay Porter, buraya size yasayı hatırlatmaya geldik, başka bir şey değil. Yasaya uymayı düşünüyorsanız, harika. Değilseniz,
+hapishaneye geri dönersiniz.
+
+"Bu gemi uçuşa elverişli değil ve--"
+
+"Onun uçuşa elverişli olmadığını nereden biliyorsunuz?" diye kükredi Porter.
+
+"Denetlemeyle, Bay Porter; denetimle." Feldstein
+çileden çıkmış gibi görünüyordu. "Uymamız gereken belirli standartlarımız var ve
+kanatları veya kontrol yüzeyleri olmayan bir uçak
+sadece bu standartlara uymuyor, hepsi bu. Bir roketin bile dengeleyici kanatçıkları olması gerekir." Duraksadı ve evrak çantasını açtı.
+
+"Tutumunuz göz önüne alındığında," dedi bir kağıt çıkararak, "korkarım ki
+resmi adımlar atmak zorunda kalacağım. Bu, söz konusu
+uçak denetlendiğini ve uçuşa elverişli olmadığının tespit edildiğini bildirmek içindir. "--"
+
+"Bir dakika!" diye çıkıştı Porter. "Sen kimsin ki böyle söylüyorsun? Bunu nereden
+biliyorsun?"
+
+"Ben CAA'nın bir memuruyum," dedi Feldstein, belli ki öfkesini kontrol etmeye
+çalışıyordu. "Ayrıca üniversite mezunu bir havacılık
+mühendisiyim. Eğer istersen, ... uçağın içini ve dışını kapsamlı bir
+incelemeden geçireceğim ve--"
+
+"Ah, hayır!" dedi Porter. Sesi ve tavırları aniden çok
+yumuşak olmuştu. "Bunun pek işe yaramayacağını düşünüyorum, öyle değil mi?"
+
+"Ne demek istiyorsun?"
+
+"İçinde ne bulursan bul, gemiyi kınayacaksın demek istiyorum.
+Kanatları olmayan bir gemiyi onaylayamazsın, değil mi?"
+
+"Elbette hayır," dedi Feldstein, "bu çok açık,--"
+
+"Tamam, o zaman bana bildirimi ver ve incelemenin geri kalanını
+unut. " Porter elini uzattı.
+
+Feldstein tereddüt etti. "Pekala, şimdi, tam bir inceleme olmadan--"
+
+Porter yine sözünü kesti. "Tam bir incelemeden geçemeyeceksin, Buster," dedi kurt gibi sırıtarak. "Ya o
+kâğıdı tebliğ et ya da sırtımdan in."
+
+Feldstein kâğıdı Porter'ın eline çarptı. "Bu sizin resmi
+bildiriminiz! Gerekirse, Bay Porter, bir Federal
+mareşal ile geri döneceğiz! İyi günler, Bay Porter. Hadi gidelim, Granby."
+
+İkisi hava araçlarına geri yürüdüler ve içeri girdiler. Araç üfleyicilerin uğultusuyla havalandı ve dağların üzerinden Albuquerque'ye doğru yöneldi.
+
+Ancak sırtın üzerinden gözden kaybolmalarından çok önce Malcom Porter topuklarının üzerinde dönüp bina kümesine doğru geri yürümeye başladı.
+Gürültülü bir monotonlukla
+küfürlü küfürler ediyordu ve görünüşe göre Elshawe'yi
+tamamen unutmuştu.
+
+Muhabir bir düzine adım boyunca sessizce takip etti, sonra sordu:
+"Bir sonraki adımınız ne, Bay Porter?"
+
+Porter aniden durdu, döndü ve Elshawe'ye baktı. "Washington'daki
+General Fitzsimmons'ı arayacağım! Ben--" Durdu, kaşlarını çattı.
+"Hayır, sanırım önce avukatımı arasam iyi olacak. Ne yapabileceklerini ve ne yapamayacaklarını öğreneceğim." Sonra tekrar döndü ve hızla en yakın binaya doğru yürüdü.
+
+* * * * *
+
+Yetmiş iki saat sonra, Terry Elshawe Silver City'deydi, uzun mesafeli bir hat üzerinden patronuyla konuşuyordu.
+
+"... Ve bu şekilde ilerliyor, Ole. CAA gemisinin kalkışına izin
+vermeyecek ve Uzay Kuvvetleri de izin vermeyecek. Ve eğer ikisinin de onayı olmadan bunu
+denerse, hemen Alcatraz'a geri dönecek."
+
+"Ama henüz şartlı tahliyesini ihlal etmedi mi?" Winstein'ın sesi uzaktan duyuldu.
+
+"Hayır." Elshawe, New York ile bir vizyon bağlantısı
+kuramadığı gerçeğine lanet etti. "Ama, hareketlerine bakılırsa, muhtemelen... Çok öfkeli."
+
+"Uzay Kuvvetleri subaylarının gemisine bakmasına neden izin vermiyor?" diye sordu Winstein. "Gerçekten bir şeyi varsa bunun ona nasıl zarar vereceğini hala anlamıyorum."
+
+"Sana gönderdiğim kayıtta var," dedi Elshawe.
+
+"Henüz dinlemedim," dedi Winstein. "Bana bilgi verin."
+
+"Uzay Kuvvetleri adamlarının motoruna veya her neyse ona bakmasına izin vermiyordu, çünkü onlara güvenmiyor," dedi Elshawe. "Bu yeni sürücüye sahip olduğunu iddia ediyor, ancak kimsenin etrafından dolaşmasını istemiyor. Uzay Kuvvetleri albayı... adı neydi? ... Manetti, işte bu. Manetti, Porter'a yeni bir icadı varsa neden patentini almadığını sordu. Porter, patentini almayacağını çünkü bunun onu inşa etmek isteyen her Tom, Dick ve Harry'nin kullanımına sunacağını söyledi. Porter, yeni bir doğa yasasının keşfini patentlemenin imkansız olduğu için
+dehasını
+boşa vermeyeceğini söylüyor. Enrico Fermi'nin,
+bireyin tartışamadığı
+bir şeye
+hükümet el koyduğunda olanların başlıca örneği olduğunu söyledi."
+
+"Fermi?" diye sordu Winstein şaşkınlıkla. "O, Kırklı yıllarda bir fizikçi veya benzeri bir şey değil miydi?"
+
+"Doğru. Atom bombasını
+pratik hale getirmeyi bulan çocuk oydu. Ancak Amerika Birleşik Devletleri Hükümeti buna sarıldı ve
+tazminat alabilmesi yıllar aldı. Hak ettiği parayı asla alamadı.
+
+"Porter aynı şeyin kendisine de olmamasını istiyor. Bir şeye sahip olduğunu kanıtlamak ve sonra
+Hükümet'in ona değerini ödemesini ve hak ettiği takdiri
+vermesini istiyor. Yeni bir doğa yasası keşfettiğini ve bu yasayı kullanan bir
+makine tasarladığını söylüyor. Her şey için kredi alana kadar
+icadını bırakmayacak."
+
+Diğer tarafta uzun bir sessizlik oldu. Bir dakika sonra, Elshawe
+şunları söyledi: "Ole? Sen orada mısın?"
+
+"Ah. Evet... Elbette. Sadece düşünüyorum. Terry, bu olay hakkında ne düşünüyorsun?
+Porter'ın bir şeyi var mı?"
+
+"Bunu bilmemem lazım. New York'ta olsaydım, tam bir deli olduğunu söylerdim,
+ama onunla konuştuğumda, ne hakkında konuştuğunu bildiğine yarı yarıya ikna oluyorum. "
+
+Başka bir uzun duraklama oldu. Bu sefer Elshawe bekledi. Sonunda Oler
+Winstein şöyle dedi: "Porter'ın sert bir şey yapma ihtimalinin olduğunu düşünüyor musunuz?"
+
+"Öyle görünüyor. CAA zaten o gemiyi kaldırmasını yasakladı.
+Uzay Kuvvetleri ona izinsiz kalkış yapamayacağını
+kesin bir şekilde söyledi ve aletine ... her neyse ona bakmalarına
+izin vermediği sürece izin alamayacağını söylediler."
+
+"Ve reddetti mi?"
+
+"Albay Manetti'nin incelemesine izin verdi ama albay, tahrik prensibi ne olursa olsun, bunun bir gemiyi çalıştırmayacağını söyledi. Motorların hiçbir anlamı olmadığını
+söyledi. Özetle, CAA Porter'ın gemide roketleri olduğunu düşünüyor ve Uzay Kuvvetleri de öyle düşünüyor. Yani ikisi de onun havalanmasını yasakladı."
+
+"Gemide roket motoru var mı?" diye sordu Winstein.
+
+"Gördüğüm kadarıyla yok," dedi Elshawe. "Gemide iki büyük
+atomla çalışan DC jeneratörü var - elektromanyetik etkilerden kaçınmak için DC olmaları gerektiğini söylüyor. Ama tahrik motorları bana Albay Manetti'ye olduğundan daha fazla mantıklı gelmiyor."
+
+Bir duraklama daha. Sonra: "Tamam, Terry; sen devam et. Porter Hükümete karşı gelmeye çalışırsa, aleti söylediği gibi çalışırsa, cehennem gibi bir hikayemiz olur. Eğer çalışmazsa -ki bu daha olası-
+onu Bastille'e geri götürdüklerinde yine de bir hikaye alabiliriz."
+
+"Tamam-tamam. Bir şey olursa seni ararım."
+
+* * * * *
+
+Telefonu kapattı ve Murray Oteli'nin lobisine
+çıktı. Lobinin karşısında, parlayan bir tabelada küçük harflerle _kokteyl salonu_ yazıyordu.
+
+Böyle bir günde uzun ve serin bir telefonun kendisine zarar vermeyeceğine karar verdi
+ve cebinde pipo, tütün kesesi ve diğer
+eşyaları arayarak ağır ağır yürüdü. Kapıyı iterek açtı, loş ışıklı odanın
+barında bir tabure gördü, yanına gitti ve oturdu.
+
+İçeceğini sipariş etti ve bitirir bitirmez solundaki adam, "İyi günler, Bay Elshawe," dedi.
+
+Muhabir başını komşusuna doğru çevirdi. "Ah, merhaba, Bay Skinner. Şehre geleceğinizi bilmiyordum."
+
+"Biraz erken geldim. Birkaç saat önce." Sesi, biraz fazla içmiş ve bunu belli etmemeye kararlı bir adamın dikkatli, ölçülü kararlılığına sahipti. Bu Elshawe'ı biraz şaşırttı; Skinner ona orta yaşlı bir muhasebeci veya belki de bir lise öğretmeni gibi gelmişti; hiç içmeyen, hatta birkaç tane fazla içmeyen nazik bir adam.
+
+"Bir helikopter kiralayıp geri uçacağım," dedi Elshawe. "Eğer gelmek istersen, hoş geldin."
+
+Skinner başını ciddiyetle salladı. "Hayır. Teşekkür ederim. Bu öğleden sonra Los Angeles'a geri dönüyorum. Sadece vakit öldürüyorum, El Paso'ya giden yerel uçağı bekliyorum."
+
+"Öyle mi? Umarım yolculuğunuz iyi geçer." Elshawe, Skinner'ın New Mexico'ya yalnızca Porter'ın gemisinin testini görmek için geldiği izlenimine kapılmıştı. Daha önce adamın resme nasıl uyduğunu merak etmişti ve şimdi Skinner'ın neden ayrıldığını merak ediyordu. Bunu bulmaya çalışabileceğine karar verdi. "Sanırım hayal kırıklığına uğradın çünkü test iptal edildi," dedi rahat bir şekilde.
+
+"İptal mi edildi? Hah. Öyle bir şey yok," dedi Skinner. "Kesinlikle hayır. Porter değil. O işi alacak ve eğer Ordu onu vurmazsa, CAA onu tekrar hapse attıracak. Ama bu onu durdurmayacak. Malcom Porter tarihe büyük bir bilim insanı olarak geçmeye kararlı ve eğer elinden gelirse hiçbir şey onu durduramayacak."
+
+"Uzay gemisinin çalışacağını mı düşünüyorsun?"
+
+"Çalışacak mı? Elbette çalışacak. 79'da çalışmıştı; şimdi çalışacak. Sürücünün
+yapım şekli, çalışmaktan başka bir şey yapamaz. Sadece etrafta dolanıp
+onun tekrar başının derde girmesini izlemek istemiyorum, hepsi bu."
+
+Elshawe kaşlarını çattı. Porter hapisteyken, teknisyenleri sözde "uzay gemisini" inşa etmek için gereken malzemeleri bir araya getiriyorlardı, ancak hiçbiri nasıl bir araya getirildiğini veya nasıl
+çalıştığını bilmiyordu. Bunu sadece Porter biliyordu ve şartlı tahliyeyle serbest bırakıldıktan sonra bunu bir araya getirmişti.
+
+Ama eğer öyleyse, Porter için bile çalışmayan Skinner,
+sürüş hakkında nasıl bu kadar bilgi sahibiydi? Yoksa bu içki mi konuşuyordu?
+
+"Ona bunu yapmasına yardım ettin mi?" diye sordu muhabir yumuşak bir şekilde.
+
+"_Yapmasına_ yardım etmek mi? Neden, ben--" Sonra Skinner aniden durdu. "Neden,
+hayır," dedi bir an sonra. "Hayır. Bunun hakkında hiçbir şey bilmiyorum,
+gerçekten. Sadece '79'da çalıştığını biliyorum, hepsi bu." İçkisini
+bitirdi ve taburesinden kalktı. "Eh, gitmem gerek. Seninle konuşmak güzeldi. Umarım bir ara tekrar görüşürüz."
+
+"Elbette. Hoşça kalın, Bay Skinner." Adamın bardan ayrılmasını izledi.
+
+Sonra kendi içkisini bitirdi ve lobiye geri dönüp bir
+telefon aldı. On dakika sonra, Los Angeles polis teşkilatında dedektif olan bir arkadaşı Bay Samuel Skinner'ı kontrol edeceğine söz vermişti.
+Elshawe özellikle son üç yılda ne yaptığını ve özellikle de geçen yıl ne yaptığını bilmek istiyordu.
+Polis öğreneceğini söyledi. Muhtemelen hiçbir şey yoktu, diye düşündü Elshawe, ancak yanlışlıkla ipuçları veren bir muhabir pek de muhabir sayılmaz.
+
+Telefon kulübesinden çıktı, piposunu tekrar yaktı ve Porter'ın çiftliğine geri dönmeden önce bir içki daha içmek için bara geri yürüdü.
+
+* * * * *
+
+Malcom Porter sol elinde tuttuğu yarım düzineden birini alıp odanın uzak duvarında asılı hedef tahtasına vahşice fırlattı.
+
+_Thunk!_
+
+"Saat altıda dört zil," dedi gergin bir sesle.
+
+_Thunk! Thunk! Thunk! Thunk! Thunk!_
+
+Diğer beş dart da hızla birbirini izledi. Her birini attığında,
+Porter bir kelime söyledi. "Onlar ... Malcom ... Porter'ı ... durduramazlar!" Tahtaya dik dik baktı "İki tam isabet; üç dörtlük ve bir
+üç. Yirmi beş puan. Bana bir çeyrek borçlusun, Elshawe."
+
+Muhabir ona bir bozuk para uzattı. "İki bit. Ne yapabilirsin,
+Porter? Seni sıkıca dikmişler. Kaçmaya çalışırsan,
+seni hemen The Rock'a geri götürürler -- Ordu seni önce vurmazsa.
+Önümüzdeki on yılı San Francisco Körfezi'nin doğal güzelliklerine dalarak mı geçirmek istiyorsun?"
+
+"Hayır. Ben de yapmayacağım."
+
+"Ordu seni ele geçirirse hayır. Mezar taşını şimdi görebiliyorum:
+
+_Malcom Porter, öfkeyle,
+Ulusa meydan okuyabileceğini düşündü.
+Büyük bir sevinçle uzaya doğru fırladı--
+Şimdi toz ve radyasyon._
+
+Altına, bir sazın üzerine A-bombalarıyla dolu bir uzay gemisi kazıyacaklar."
+
+Porter alınmadı. Sırıttı. "Neden yakınıyorsun?
+Harika bir hikaye olurdu."
+
+"Elbette olurdu," diye kabul etti Elshawe. "Ama benim için değil. Ben ölüm
+kötülükleri
+köşesini yazmıyorum."
+
+"Senin hakkında neyi sevdiğimi biliyor musun, Elshawe?"
+
+"Elbette. Sana dart oyunlarını kaybediyorum."
+
+"Evet, öyle. Ama gerçekten endişeli görünüyorsun. Bu iki anlama geliyor. Bir:
+Benden hoşlanıyorsun. İki: Gemimin gerçekten havalanacağına inanıyorsun.
+Bu, etrafta dolaşan ve telefonla arayan diğer muhabirlerin hepsinden daha fazla."
+
+Elshawe sessizce omuz silkti ve piposundan nefes çekti. Malcom Porter'ın egosu
+ortaya çıkıyordu. İki konuda yanılıyordu. Elshawe ondan
+hoşlanmıyordu; adamın kibri ve kendisinin bilimsel bir deha olduğu yönündeki abartılı görüşü muhabirin hoşuna gitmiyordu. Ve Elshawe dışarıdaki o gövdede bir roket motorundan başka bir şey olduğuna gerçekten inanmıyordu. Belki de yeni, daha güçlü bir roket türü--aksi takdirde Porter
+Ay'a tek aşamalı bir roket götürmeye çalışmazdı. Ama yine de bir roket.
+
+"Hapishaneye geri dönmek istemiyorum," diye devam etti Porter, "ama gerekirse
+bu riski göze alırım. Ama henüz ölüm riskini göze almayacağım. Endişelenmeyin; Ordu Ay'a giden yolun yarısına gelene kadar gittiğimi bile anlamayacak."
+
+"Foo!" dedi Elshawe. "Albuquerque'den Meksika sınırına kadar her radar üssünün bu çiftliğin üzerindeki havaya odaklanmış bir anteni var. Şu dağların üstüne
+çıktığın anda, seni hedef alacaklar ve bir dakika
+sonra seni Kobralarla aynı kefeye koyacaklar.
+
+"Neden Hükümet müfettişlerinin bunu incelemesine ve sana
+O.K. vermesine izin vermiyorsun? Hepsinin senin icadını çalmak için dışarıda olduğunu düşünmene sebep olan ne?"
+
+"Ah, çalmayacaklar," dedi Porter acı bir şekilde. "Cennetten-Betsy'ye
+_hayır_! Ama benim bu icadım, Amerika Birleşik Devletleri'nin gezegenler ve aralarındaki uzay üzerinde tam kontrole sahip olacağı anlamına gelecek. Hükümet bir mülk istediğinde, onu kendi
+fiyatından satın almaya çalışır; bunu yapamazlarsa, onu kınar ve sahibine değerinin ne olduğunu
+düşündükleri kadarını öderler --sahibinin değerinin ne olduğunu düşündüğü kadarını değil.
+Aynı şey burada da geçerlidir; bana on yıl veya daha uzun bir süre içinde sahip olmam gerektiğini düşündükleri şeyi verirlerdi. Fermi'ye ne olduğunu gör.
+
+"Hayır, Elshawe; Hükümet bu icadı benden dilendiğinde, onu alabilirler --benim şartlarımla."
+
+"Bunu bir sır olarak mı saklayacaksın? Böyle bir şeyi sır olarak saklayamazsın.
+İkinci Dünya Savaşı'ndan sonra atom enerjisiyle neler olduğuna bak. Bunu Ruslardan
+gizledik, değil mi? Bize çok iyi geldi. Mümkün olduğunu anladıkları anda, bunun üzerinde çalışmaya başladılar. Doğa, ona doğru şekilde sorarsanız, ona sorduğunuz tüm soruları yanıtlar. Hükümet, uzay geminizin çalıştığını
+gördüğü anda, zeki fizikçilerinden bazılarını bunun üzerinde çalışmaya
+gönderecek ve siz de ilk başta onlara göstermiş olsaydınız olacağınız
+konumda olacaksınız. Neden boynunuzu riske atıyorsunuz?"
+
+Porter başını iki yana salladı. "Bu benzetme geçerli değil. Diyelim ki biri
+1810'da atom bombasını icat etti. Bu tamamen güvenli bir sır olurdu
+çünkü Dünya'da felsefesine atom enerjisi gibi bir şey
+ekleyen bir bilim insanı yoktu. Ve inanın bana, benim bu dürtüm
+tıpkı atom enerjisinin Napolyon'un bilim insanlarının
+önünde olduğu gibi çağdaş bilimsel felsefenin de önünde.
+
+"Size gemimin kullandığı yakıtın hidrojenden daha hafif bir gaz olduğunu söylesem. Değil, ama size söylesem. Sizce bugün herhangi bir
+bilim insanı bunun nasıl çalıştığını çözebilir mi? Hayır. Onlar _biliyorlar ki_ hidrojenden daha hafif atom ağırlığına sahip bir gaz diye bir şey yoktur. Bunu o kadar iyi biliyorlar ki
+bu fikri düşünmeye bile zahmet etmiyorlar.
+
+"İcadım günümüz bilimsel düşüncesinden o kadar ileride ki
+benim dışımda hiçbir bilim insanı bu fikri düşünemezdi."
+
+"Tamam; tamam," dedi Elshawe. "Yani iddianızı kanıtlamak için
+kendinizi vuracaksınız."
+
+Porter yamuk bir şekilde sırıttı. "Kesinlikle hayır. Hala bir
+roket açısından düşünüyorsunuz. Elbette--eğer bir roket kullansaydım, beni
+dağların üzerine
+çıktığım anda hızla yere sererlerdi. Ama bunu yapmak zorunda değilim. Yapmam gereken tek şey birkaç fit yüksekliğe çıkıp Pasifik kıyısına kadar yere yakın durmak. Pasifik'in ortasına ulaştığımda, hiç rahatsız edilmeden dümdüz yukarı doğru uçabilirim."
+
+"Tamam. Eğer makinen bunu yaparsa," dedi muhabir, şüpheciliğini gizlemeye çalışarak.
+
+"Hala bir tür roketim olduğunu düşünüyorsun, değil mi?" diye sordu Porter suçlayıcı bir şekilde. Bir an durakladı, sonra aniden karar vermiş gibi, şöyle dedi: "Bak, Elshawe, sana güveniyorum. Sana o geminin içini göstereceğim. Sana motorlarımı göstermeyeceğim, ama sana gemide roket motoru olmadığını _kanıtlayacağım. Bu şekilde, hikayeyi yazdığında, bu gerçeği ilk elden bildiğini söyleyebileceksin. Tamam mı?"
+
+"Sana kalmış," dedi muhabir. "Görmek isterim."
+
+"Gel," dedi Malcom Porter.
+
+* * * * *
+
+Elshawe, Porter'ı tarlaya kadar takip etti, üzerinde çalışacak bir şeyler bulduğu için
+oldukça minnettar hissediyordu. Tarlanın içinden yürüyerek, Porter'ın gemiyi koruyan Levis'li iki silahlı adamın yanından geçtiler.
+Başlarının üstünde, yıldızlar ince dağ havasında parlak bir şekilde parlıyordu.
+Elshawe kol saatine baktı. Saat akşamın onu biraz geçiyordu. Porter'ın rampayı geminin kapısına kadar çekmesine yardım etti ve sonra
+onu merdivenlerden yukarı takip etti. Porter kapıyı açtı ve içeri girdi.
+Grumman yüksek stratosferde seyretmek için yapılmıştı, bu yüzden
+bir denizaltı kadar hava geçirmezdi.
+
+Porter ışıkları yaktı. "İçeri gir."
+
+Muhabir geminin kabinine girdi ve etrafına baktı.
+Yeniden inşa edilmişti, tamam;
+normal bir stratojetin içine hiç benzemiyordu.
+
+"Elshawe."
+
+"Evet?" Muhabir, biraz arkasında duran Porter'a bakmak için döndü. Yukarı doğru kıvrılan ve çenesine
+çaran yumruğu bile görmedi. Gördüğü tek şey bir ışık parıltısıydı, ardından karanlık.
+
+Bir anda, burun deliklerinde bir şey batıyordu.
+Başını yana doğru savurdu, öksürdü. Koku tekrar geldi. Amonyak.
+
+"Uyan, Elshawe," diyordu Porter. "Bu kokulu tuzlardan bir kez daha kokla ve kendini daha iyi hissedeceksin."
+
+Elshawe gözlerini açtı ve iri adama baktı. "Uyandım. Şu şeyi
+al. Bana vurmanın anlamı ne?"
+
+"İsteyerek gelmeyeceğinden korkuyordum," dedi Porter özür dilercesine.
+"Bir tanığa ihtiyacım vardı ve senin herkesten daha iyi olacağını düşündüm."
+
+Elshawe hareket etmeye çalıştı ve koltuğa bağlandığını ve bir emniyet
+kemeriyle bağlandığını gördü. "Bu ne için?" diye sordu öfkeyle.
+Çenesi hala ağrıyordu.
+
+"Birkaç dakika içinde şu şeyi çıkaracağım. Sana güvenebileceğimi biliyorum, ama
+bu gemiyi kullanabilecek tek kişinin ben olduğumu hatırlamanı istiyorum. Eğer
+komik bir şey
+denersen, ikimiz de sağ salim geri dönemeyiz. Üç yüz mile
+ulaştığımızda seni serbest bırakacağım."
+
+Elshawe ona baktı. "Neredeyiz?"
+
+"Orta Pasifik'e doğru gidiyoruz. Önce güneye, Meksika'ya doğru yöneldim. Şimdi
+açık suların üzerindeyiz, Baja California'ya doğru gidiyoruz, bu yüzden
+otomatik pilotu devreye soktum. Okyanusun üzerinden çıkar çıkmaz gerçekten
+zaman kazanabiliriz. Güneşin batıda doğuşunu izleyebilirsin."
+
+"Ve sonra?" Elshawe sersemlemişti.
+
+"Ve sonra doğruca yukarı doğru gidiyoruz. Boşluğa."
+
+Elshawe tekrar gözlerini kapattı. Bunu düşünmek bile istemiyordu.
+
+* * * * *
+
+"... Şüphesiz duymuşsunuzdur," diye yazdı Terrence Elshawe telefona,
+"Malcom Porter kendi tasarladığı bir uzay gemisini Ay'a götürme tehdidini gerçekleştirdi. Kuzey Amerika'nın dört bir yanındaki amatör telsizler, 80 fit çapındaki bir parabolik reflektörden yayılan ışınla ve yüz binlerce mil öteden Dünya'ya yöneltilen konuşmasını aldı. Uzay istasyonlarında kullanılanlara benzer, ince folyodan yapılmış, katlanabilir bir reflektördü. Paragraf.
+
+"Yolculuğun Amerika Birleşik Devletleri Uzay Kuvvetleri'nin işbirliğiyle yapıldığını ve uzayın fethinde büyük bir atılımı temsil ettiğini duyurdu. O--"
+
+"Bir saniye," diye araya girdi Winstein. "Bu doğru mu? Gerçekten Uzay Kuvvetleri'yle mi çalışıyordu?"
+
+"Kesinlikle hayır," dedi Elshawe. "Ama şimdi onun çalıştığını iddia etmek zorunda kalacaklar. Bırak devam edeyim."
+
+"Ateş et."
+
+"... Ayrıca Ay Üssü Bir'deki adamlara bir mesaj göndererek, bundan sonra New York'tan Detroit'e uçmak kadar basit bir şekilde Ay'dan Dünya'ya gidip gelebileceklerini söyledi. Paragraf.
+
+"Bunun ardından olanlar daha da şaşırtıcıydı. Muazzam bir ivmeyle,
+Malcom Porter ve muhabiriniz Terrence Elshawe, Mars'a doğru yola çıktılar.
+Porter'ın gemisinin içinde, yolcunun sıradan bir uçaktaymış gibi hissetmesini sağlayan sabit, bir gee'lik bir çekiş dışında hiçbir ivmelenme hissi yok, uzay gemisi yüzlerce yerçekiminde ivmeleniyor olsa bile.
+Paragraf.
+
+"Porter'ın gemisi Mars'ın etrafında dönerek Kızıl Gezegen'in fotoğraflarını çekti - insan ırkının gördüğü ilk Mars yakın çekimleri. Sonra, aynı muazzam hızla, Porter'ın gemisi Dünya'ya geri döndü. Tüm yolculuk otuz altı saatten az sürdü. Porter'a göre, geliştirilmiş
+gemiler bu süreyi önemli ölçüde azaltabilmelidir. Paragraf."
+
+[İllüstrasyon]
+
+"Bu resimleri aldın mı?" diye araya girdi Winstein.
+
+"Elbette. Porter bana yumruk atmam karşılığında özel bir haber verdi. Buna
+değerdi. Yirmili yıllarda gazetecilerin bir haber
+hakkında konuştuğunu hatırlıyor musunuz? Eh, yüzyılın en büyük haberi bizde."
+
+"Belki," dedi Winstein. "Hükümet henüz bir duyuru
+yapmadı. Porter nerede?"
+
+"Tutuklu, nerede olduğunu düşünüyordunuz? New Mexico çiftliğine
+ineceğini duyurduktan sonra, tam da bunu yaptı. Dışarı adımını atar atmaz, birkaç düzine Hükümet ajanı onu yakaladı. Şartlı tahliye ihlali - şartlı tahliye memuruna haber vermeden eyaletten
+ayrıldı. Ama bana
+dokunamazlardı ve bunu biliyorlardı.
+
+"Kişisel bilginiz için bir haber daha. Gemi indikten sonra geminin
+içinde bir bomba patladı ve sürücü paramparça oldu.
+Tek bilgi Porter'ın kafasının içinde. Kısa saçların
+uzadığı yerde Hükümet var."
+
+"Öyle görünüyor. Bak, Terry; alabileceğin tüm bilgileri al ve
+Cumartesi'ne kadar geri dön. Hafta Sonu Raporu'na çıkacaksın."
+
+"Ben mi? Ben aktör değilim. Maxon halletsin."
+
+"Hayır. Bu çok ateşli. Sen bir görgü tanığısın. Maxon seni sorgulayacak.
+Anladın mı?"
+
+"Tamam; patron sensin, Ole. Başka bir şey?"
+
+"Şimdilik değil, ama daha fazla bir şey olursa ara."
+
+"Tamam. Hoşça kal." Telefonu kapattı ve sandalyesine yaslandı, ayaklarını
+masanın üzerine koydu. Malcom Porter'ın masası ve Malcom Porter'ın sandalyesiydi.
+Büyük Adam'ın ofisinde oturuyordu, sanki sahibiymiş gibi.
+Çenesi hala biraz ağrıyordu, ama her sızısını seviyordu.
+Porter'a hiç kızmadığını hatırlamak zordu.
+
+İnişten hemen önce Porter şöyle demişti: "Elbette beni tutuklayacaklar. Ayrılırken bunu biliyordum. Ama sanırım bundan kurtulabilirim. Her yerde çeşitli Hükümet ajanları olacak ama hiçbir şey bulamayacaklar. Tüm defterlerimi yaktım.
+
+"Avukatıma, hikayeni anlatabilmen için etrafta serbestçe dolaşman gerektiğini söyleyeceğim."
+
+* * * * *
+
+Telefon çaldı. Elshawe ahizeyi kaldırdı ve "Malcom
+Porter'ın evi." dedi. Keşke kırsalda visifonları olsaydı; konuştuğu kişinin yüzünü görmeyi özlemişti.
+
+"Lütfen Bay Terrence Elshawe ile konuşayım," dedi diğer taraftaki ses. "Ben Los Angeles Polis Departmanından Dedektif Teğmen Martin."
+
+"Benim, Marty."
+
+"Harika! Vay canına, sana ulaşmakta ne kadar zorluk çektim! Telefon şirketi aramayı yapmadan önce bunu resmi bir
+arama yapmak zorundaydım.
+Şöhretli olmak nasıl bir duygu?"
+
+"Harika. Ne haber?"
+
+"Skinner denen adam hakkında bilgi edindim. Sanırım hala istiyorsun? Yoksa
+başarı kafana mı vurdu?"
+
+Elshawe Skinner'ı neredeyse unutmuştu. "Aman," dedi.
+
+Polis memuru Samuel Skinner'ın hayati istatistiklerini sayıp döktü - yaş,
+cinsiyet, doğum tarihi ve yeri, vb. Sonra: "1977'ye kadar
+New York'ta yaşadı. Oradaki bir hazırlık okulunda on beş yıl fen bilgisi öğretmenliği yaptı.
+O--"
+
+"Bir dakika," diye sözünü kesti Elshawe. "Ne zaman doğdu? Tekrarla."
+
+"Dört Mart, bin dokuz yüz otuz."
+
+"Elli üç," dedi Elshawe düşünceli bir şekilde. "Göründüğünden daha yaşlı. Tamam; devam et."
+
+"77'de emekli oldu ve yaşamak için L.A.'e geldi. O--"
+
+"Kırk yedi yaşında mı emekli oldu?" diye sordu Elshawe şaşkınlıkla.
+
+"Doğru. Ama bir öğretmen emekli maaşıyla değil. New York'taki bir hayat
+sigorta şirketinden bir tür
+yıllık maaşı var. Oldukça iyi de ödüyor.
+Her ayın üçte birinde iki bin dolarlık bir çek alıyor. Bunu
+bankasıyla kontrol ettim. Güzel, değil mi?"
+
+"Çok güzel. Devam et."
+
+"Rahat bir şekilde yaşıyor. Polis kaydı yok. Sessiz bir tip. Bir hizmetçi, bir
+Çinli, onunla yaşıyor. Bir nevi uşak ve sekreter karışımı.
+
+"Bildiğimiz kadarıyla, son üç yılda dört seyahat yaptı.
+Biri Haziran '79'da, biri Haziran '80'de, biri Haziran '81'de ve bu yıl dördüncüsünü yaptı. '79'da New Mexico, Silver City'ye gitti.
+'80 ve '81'de Hawaii'ye gitti. Bu yıl yine Silver City'ye gitti. Senin için bir şey ifade ediyor mu?"
+
+"Henüz değil," dedi Elshawe. "Bu görüşmenin parasını sen mi ödüyorsun yoksa Los Angeles Şehri mi ödüyor?"
+
+"Hiçbiri. Sen ödüyorsun."
+
+"O zaman çeneni kapa ve bir dakika düşünmeme izin ver." Bir dakikadan az bir süre sonra,
+şöyle dedi: "Martin, o adam hakkında daha fazla veri istiyorum. Ödemeye
+hazırım. Özel bir dedektif tutmalı mıyım?"
+
+"Bu sana kalmış. Doğal olarak bunun için para alamam--ama
+eğer yapabilirsem senin için biraz daha fazla araştırma yapmaya hazırım. Öte yandan, buna tam mesai harcayamam. Burada L.A.'de güvenilir bir dedektiflik
+acentası var-- adamın adı Drake. Onunla
+iletişime geçmemi ister misin?"
+
+"Bunu takdir ederim. Ona bilgiyi kimin istediğini veya bunun Porter ile herhangi bir bağlantısı olduğunu söyleme. Hadi--"
+
+"Dur, Terry... bir saniye. Bir suç belirtisi bulursam, tüm bahislerin iptal olduğunu biliyorsun. Bilgiler
+üstlerime gider, sana değil."
+
+"Biliyorum. Ama herhangi bir suç olduğunu sanmıyorum. Sen kendi tarafında çalış ve
+bana faturaları gönder. Tamam mı?"
+
+"Tamam. Daha ne istiyorsun?"
+
+Elshawe ona söyledi.
+
+Telefon görüşmesi tamamlandığında, Elshawe arkasına yaslandı ve
+tütsü dumanı bulutları yaptı, bunlara düşünceli bir şekilde baktı. Sonra New York'a iki arama yaptı - biri patronuna, diğeri de güvenebileceğini bildiği özel bir dedektiflik bürosuna.
+
+* * * * *
+
+Malcom Porter davası hızla _ünlü bir dava_ oldu. Birisi
+hata yaptı. Uygun şekilde ele alınsaydı, tüm mesele örtbas edilebilirdi;
+Hükümet istediğini elde ederdi, Porter istediğini elde ederdi ve herkes itibarını kurtarırdı. Ama bir bürokrat gözlük camlarının dış yüzeyinin ötesini göremiyordu ve başka bir bürokrat da zamanında işi durdurmayı başaramadı.
+
+"Ödül, öd ve acı, acı pelin otu," dedi Oler Winstein, Terry Elshawe'nin masasının kenarına
+tüneyerek.
+
+"Sen Galyalı, acı, kurtlu veya odun değilsin. Ne haber?"
+
+"Senatör Tallifero'dan bir telefon aldım. Askeri İşleri Araştırmak İçin Ortak Kongre Komitesi'nin önüne çıkmayı kabul edip etmeyeceğini bilmek istiyor. Bana öyle geliyor ki, 'hayır' dersen, sana bir celp gibi bir şey
+resmi davet gönderecekler."
+
+Elshawe içini çekti. "Ah, neyse. Neyse, bu bir haber. Ne zaman
+Washington'da olmamı istiyorlar?"
+
+"Yarın. Bu arada, Porter, tabii ki, tutuklu ve yakın
+hapiste. Pazar gününden itibaren altı yönlü karmaşa." Başını iki yana salladı. "Neden
+sadece sırtını sıvazlamadıklarını, bu şey üzerinde çalıştıklarını
+söylemediklerini ve hemen örtbas etmediklerini anlamıyorum."
+
+"Çok fazla insan dahil," dedi Elshawe, soğuk piposunu masasındaki
+büyük kül tablasına koyarken. "Sivil Havacılık topluluğunun o dağlarda bir
+gözcüsü olmalı; kalkışımızdan bir saat sonra onun tutuklanması için bir emir çıkarmışlardı. Ayrıca şartlı tahliye kuruluna da haber verdiler,
+onlar da hemen bir genel duyuru yayınladılar. Ordu ve Hava Kuvvetleri
+radar ağlarından kaçtığı için öfkelendi. Porter
+o kadar çok ayağına bastı ki, bir veya daha fazlasının
+ağızlarını kapalı tutmanın daha iyi olacağını fark etmeden önce bağırması kaçınılmazdı."
+
+"Pekala, sen oraya çıkıp hikayeni anlat, ve ben onun
+çıkacağını söyleyebilirim."
+
+"Elbette çıkacak. Bir şeye sahip olduğunu ve buna sahip olmaları gerektiğini biliyorlar. Ama ona vermeden önce cehennemden geçecek."
+
+Winstein masadan kayarak ayağa kalktı. "Umarım öyledir. Bunu hak ediyor.
+Bu arada, o Sam Skinner karakterinden bir hikaye çıkaramaman çok kötü."
+
+"Evet. Ama bununla ilgili hiçbir şey yok. Sonuçta, FBI bile Porter'dan başka bu konuda bir şey bilen
+biri olup olmadığını bulmaya çalıştı.
+Başarısız. Onunla çalışan teknisyenler bile
+yararlı bir şey
+bilmiyordu. Skinner hiçbir şey bilmiyordu." Yalanı
+tamamen düz bir suratla söyledi. Winstein'a yalan söylemekten hoşlanmıyordu ama
+başka yolu yoktu. Kongre Komitesi'ne yalan söylemek zorunda kalmayacağını umuyordu; yalancı şahitlik yapmak hoşuna giden bir şey değildi. Sorun şu ki, eğer gerçeği söylerse, yalan söylemekten daha kötü durumda olacaktı.
+
+O gece Washington'a gitmek için uçağa bindi ve sonraki üç günü sinirlerini kontrol altında tutmaya çalışırken soruları yanıtlayarak geçirdi. Bir kez bile onların kaçınmasını istediği bölgeye yaklaşmadılar.
+
+Uçakta geri dönerken rahatladı, gözlerini kapattı ve günlerdir ilk kez Bay Samuel Skinner'ı düşünmeye izin verdi.
+
+* * * * *
+
+Doğu ve Batı Kıyılarındaki iki dedektiflik bürosundan gelen raporlar ayrı ayrı pek bir anlam ifade etmese de, bir araya geldiklerinde Elshawe'nin Los Angeles'a gidip Samuel Skinner'la şahsen ilgilenmeye değerdi. Skinner'ı arayıp bir
+randevu almıştı; Skinner onu evine davet etmişti.
+
+Oldukça büyük bir evdi, çok da yeni değildi ve normalden daha büyük bir arsanın ortasındaydı.
+
+Elshawe sahneyi zihninde canlandırdı. Skinner'ın yumuşak yüzünü görebiliyordu
+ve sesinin "İçeri gelin, Bay Elshawe" dediğini duyabiliyordu.
+
+Oturma odasına gittiler ve Skinner ona bir sandalyeye doğru el salladı.
+"Otur. Biraz kahve ister misin?"
+
+"Teşekkürler; minnettar olurum." Skinner kahve yaparken muhabir
+odanın etrafına baktı. Aşırı gösterişli değildi ama bir tür
+bastırılmış zenginlik gösteriyordu. Bay Skinner'ın konfordan yoksun olmadığı açıktı.
+
+Skinner kahveyi getirdi ve sonra Elshawe'a dönük bir şekilde başka bir sandalyeye oturdu. "Şimdi," dedi açıkça, "telefonda Malcom Porter'ı sahtekar olarak gösterdiğinle ilgili yaptığın o yorum neydi? Anladığım kadarıyla
+aslında onun gemisiyle Mars'a gittin. Kendi duyularının kanıtlarına inanmıyor musun?"
+
+"Bu tür bir sahtekarlıktan bahsetmiyorum," dedi Elshawe. "Ve sen bunu biliyorsun.
+Konuya
+geleceğim. Malcom Porter'ın Gravito-Ataletsel Diferansiyel Polarizörü icat etmediğini biliyorum. _Sen_ icat ettin."
+
+Skinner'ın gözleri büyüdü. "Bu bilgiyi nereden aldın?"
+
+"Size kaynaklarımı söyleyemem, Bay Skinner. En azından henüz değil. Ama
+sizin adam olduğunuzu söyleyecek kadar bilgim var. Mahkemede geçerli olmazdı,
+ama bana verebileceğiniz ek bilgilerle, bence geçerli olur."
+
+Skinner, sanki ne söyleyeceğini bilmiyormuş gibi şaşkın görünüyordu.
+
+"Bay Skinner," diye devam etti Elshawe, "bir araştırma muhabirinin içinde biraz haçlı olmalı ve belki de bende çoğundan daha fazlası var. Tarihin en büyük şeylerinden birini keşfettiniz -ya da icat ettiniz, buna ne derseniz deyin. Tarihe Newton, Watt, Roentgen, Edison, Einstein, Fermi ve diğerleriyle birlikte geçmeyi hak ediyorsunuz.
+
+"Ama bir şekilde Malcom Porter sizin icadınızı çaldı ve bunun tüm itibarını almaya niyetli. Ah, biliyorum ki size yaygara koparmamak için bolca para ödedi ve muhtemelen hiçbir şeyi kanıtlayamayacağınızı düşünüyor.
+Ama artık onun vicdan parasıyla yetinmek zorunda değilsiniz. Magnum Telenews'in desteğiyle, Bay Glory-hound Porter'ın sahte kurulumunu tamamen açığa çıkarabilir ve hak ettiğin itibarı alabilirsin."
+
+Skinner, Elshawe'nin beklediği gibi bakmadı. Bunun yerine, biraz kaşlarını çattı ve şöyle dedi: "Geldiğinize sevindim, Bay Elshawe. Onun projesiyle bağlantı kurmam için yeterli kanıt olduğunu fark etmemiştim."
+
+Ama tam olarak çok da sevinçli görünmüyordu.
+
+"Peki," dedi Elshawe çekinerek, "eğer sadece birkaç soruya cevap verirseniz--"
+
+"Bir dakika, Bay Elshawe. Önce sana birkaç soru sormamın sakıncası var mı?"
+
+"Devam et."
+
+Skinner ciddiyetle öne eğildi. "Bay Elshawe, bir icat için kim itibarı hak ediyor? Parayı kim hak ediyor?"
+
+"Neden... neden, tabii ki mucit."
+
+"Mucit mi? Ya da bunu insanlığa veren adam?"
+
+"Ben... sizi tam olarak anlayamıyorum."
+
+Tekrar sandalyesine yaslandı. "Bay Elshawe, Polarizer'ı icat ettiğimde, ne icat ettiğim hakkında en ufak bir fikrim yoktu. Malcom Porter'ın gittiği lisede genel fen bilgisi dersi veriyordum ve bodrumumda bir laboratuvarım vardı. Porter oldukça zeki bir çocuktu ve laboratuvarıma gelip beni
+çalışmalarımı izlemeyi severdi. Bu aleti ben yapmıştım - benim açımdan
+çocuklar için bir oyuncaktı. Değeri hakkında hiçbir fikrim yoktu. Sadece havaya sıçrayan
+ve tekrar aşağı süzülen küçük bir aletti. Şirindi ama bir yenilik olarak
+değersizdi. Ve bir yenilik olarak
+yapılması çok pahalıydı. Bu yüzden onu unuttum.
+
+"Yıllar sonra, Porter yanıma geldi ve satın almayı teklif etti. Küçük atölyemdeki
+çöplerden çıkarıp ona sattım.
+
+"Birkaç yıl sonra geri geldi. Bir şey
+icat ettiğini söyledi. Lafı dolandırdıktan sonra, sonunda
+icadının benim küçük oyuncağımın bir gelişimi olduğunu itiraf etti. Ağzımı kapalı tutar ve her şeyi unutursam bana bir milyon dolar teklif etti."
+
+"Ve sen kabul ettin mi?" diye sordu Elshawe inanmaz bir şekilde.
+
+"Elbette! Bana geçinmeme yetecek kadar
+fazla para ödeyen vergiden ödenen bir yıllık gelir satın almasını sağladım. Zenginlik istemiyorum, Bay Elshawe--sadece rahatlık. Ve
+bu yüzden ona verdim."
+
+* * * * *
+
+"Sizi anlamıyorum."
+
+"Size Malcom Porter'dan bahsedeyim. O, _birisi_ olmak isteyen o büyük insan kalabalığından biri. Saygı görmek ve örnek alınmak istiyorlar.
+Ancak, başarılı olmak istedikleri alanın temellerini öğrenmek için zaman ayıramıyorlar veya ayırmıyorlar. Oyunculuk öğrenmekle uğraşmadan
+aktris olmak isteyen güzel kız; hukuk fakültesine gitmeden
+yargıç olmak isteyen genç adam veya askeri taktikler öğrenmeden
+general olmak isteyen genç adam; ve büyük bir bilim insanı olmak isteyen ama bilim öğrenmek için zahmete girmek istemeyen Malcom Porter."
+
+Elshawe başını salladı. Temiz tuvalleri sıçratan ve buna "sanatsal kendini ifade etme" diyen "sanatçıları" düşünüyordu. Ve bağlantısız, anlamsız düzyazılar yazan ve bunun serbest şiir olduğunu iddia eden aptallar.
+Picasso'nun yeni yöntemleri denemeden önce klasik sanatın katı sınırları içinde resim yapmayı öğrendiğini ve James Joyce'un "Finnegan's Wake"i yazmadan önce İngilizce dilini çok iyi kullanmayı öğrendiğini unutan
+karmakarışık kafalılar.
+
+"Öte yandan," diye devam etti Skinner, "ben... aslında biraz utangaç bir adamım. Malcom bana cihazın düzgün bir şekilde çalıştırıldığında ne yapacağını söyler söylemez, sorun çıkacağını biliyordum. Ben bir savaşçı değilim, Bay Elshawe. Hapishanede vakit geçirmek, haberlerde karalanmak veya ortodoks bilim insanları tarafından çatlak olarak adlandırılmak gibi bir isteğim yok.
+
+"Malcom'un iddiasıyla mücadele etmek istemiyorum, Bay Elshawe. Görmüyor musunuz, o
+_hak_ ediyor! İlk olarak, onu olduğu gibi kabul etti. Eğer etmeseydi, Tanrı bilir birileri onu yeniden keşfedene kadar ne kadar zaman geçerdi. İkinci olarak, onu insanlığa vermek için çok mücadele etti ve çok mücadele etti. Hapishanede acı çekti ve Polarizer'ı Amerika Birleşik Devletleri Hükümeti'nin eline ulaştırmak için milyonlarca dolar harcadı. Aslında, uygun bir eğitim almak için zaman ve zahmete girseydi daha çok çalıştı ve daha çok acı çekti. Ve bu ona istediğini kazandırdı; zaten çok iyi bir bilim insanı olacağından şüpheliyim.
+
+"Porter Polarizer için her türlü takdiri hak ediyor. "İşlerin gidişatından
+tamamen memnunum."
+
+Elshawe şöyle dedi: "Peki ya FBI elimdeki kanıtları ele geçirirse?"
+
+"Bu yüzden size gerçeği söyledim, Bay Elshawe," dedi Skinner samimiyetle. "O kanıtı yok etmenizi istiyorum. Polarizer ile herhangi bir ilgim olduğunu
+kesinlikle reddederim, her halükarda. Ve bu
+herhangi bir soruşturmaya son verirdi çünkü kimse böyle bir şeyi
+icat ettiğimi inkar edeceğime inanmazdı. Ama bu soru hiç sorulmasa daha iyi olurdu. Böyle bir şey hakkında
+hiçbir fısıltı olmamasını tercih ederim."
+
+Bir an durakladı, sonra çok dikkatli bir şekilde şöyle dedi: "Bay Elshawe, Polarizer'ın mucidinin bir tür
+ödülü hak ettiğini ima ettiniz. Size temin ederim ki bana verebileceğiniz en büyük ödül, cihazla ilgili tüm
+izleri yok etmeme yardım etmeniz olurdu. Bunu
+yapacak mısınız, Bay Elshawe?"
+
+Elshawe uzun dakikalar boyunca sessizce sandalyede oturdu ve düşündü.
+Skinner sözünü kesmedi; sadece sabırla bekledi.
+
+Yaklaşık on dakika sonra, Elshawe piposunu dikkatlice yakındaki bir
+masaya koydu ve evrak çantasını almak için eğildi. Çantası
+Skinner'a uzattı.
+
+"İşte. Elimdeki tüm kanıtlar var. Konuşmamızın kaydı da dahil diyebilirim. Sadece kaseti minikayıt cihazından çıkarın. Senin gibi bir adam istediği ödülü hak ediyor. Alın, Bay Skinner."
+
+"Teşekkürler," dedi Skinner yumuşak bir sesle, evrak çantasını alarak.
+
+* * * * *
+
+Ve Kongre soruşturmasından New York'a geri dönen uçakta Bay Terrence Elshawe yumuşak bir şekilde iç çekti. Senatörlerden hiçbirinin Skinner hakkında bir şey sormamış olmasına sevinmişti, çünkü kesinlikle gerçeği söylemek zorunda kalacağını biliyordu.
+
+Ve aynı şekilde, Porter'dan çok daha fazla başının belada olacağını da biliyordu. Çünkü Malcom Porter, Bir Numaralı Amerikan Kahramanı olacaktı ve Terry Elshawe, büyük Malcom Porter'ın itibarını yok etmeye çalışan yalancı küçük sinsi kişi olacaktı.
+
+Bu, her şeyi göz önünde bulundurduğumuzda, harika bir not olurdu.
+
+SON
+
+Yazarın Notu:
+
+Bu e-metin, _Astounding Science Fiction_ Eylül'ünden üretilmiştir.
+1960. Kapsamlı araştırma, bu yayının ABD telif hakkının yenilendiğine dair herhangi bir kanıt ortaya çıkarmadı. Küçük yazım ve tipografik hatalar not alınmadan düzeltildi.
+
+Gordon Randall Garrett'ın By Proxy adlı eserinin Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK BY PROXY ***
+
+***** This file should be named 24707.txt or 24707.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/7/0/24707/
+
+Produced by Greg Weeks, Bruce Albrecht, Stephen Blundell
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
