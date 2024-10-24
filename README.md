@@ -26,6 +26,10 @@ Please support our project.
 
 
 ## Gelişmeler
+2024-10-24
+
+Yüklenen belge sayısı 2000 oldu.
+
 2024-10-18
 
 Yüklenen belge sayısı 1200'e yaklaştı.
@@ -70,6 +74,10 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 
 
 ## Developments
+2024-10-24
+
+The number of uploaded documents approached 2000.
+
 2024-10-18
 
 The number of uploaded documents approached 1200.
