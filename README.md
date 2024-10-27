@@ -26,6 +26,7 @@ Please support our project.
 
 
 ## Gelişmeler
+
 2024-10-24
 
 Yüklenen belge sayısı 2000 oldu.
@@ -73,7 +74,29 @@ Kaynak sistemlere aşırı yüklenmemek için, özellikle indirme işlemlerini a
 Gelişmeleri buradan duyurmaya devam edeceğim.
 
 
+## Yapılacaklar Listesi
+
+- Telif süresi dolan yazarlara ait eserlerin derlenmesi ve günümüz Türkçesine çevrilmesi için kod yazılması
+
+- AKTA arşivine mükerrer belge eklenmesini engelleyecek denetim kodlarının yazılması
+
+- Arşivin tanıtımına katkıda bulunacak ve kullanımını kolaylaştıracak örnek kodların üretilmesi
+
+- Belge bağışında bulunabilecek kişi ve kuruluşlarla iletişime geçilmesi
+
+- Gutenberg.org gibi açık kaynak belge paylaşan kurumlara izin başvurusu yapılması
+
+- Arşivin içeriğinin sürekli analiz edilmesi ve elde edilen sonuçların paylaşılması
+
+- Projeye katkıda bulunabilecek kişi ve kuruluşlarla iletişime geçilmesi
+
+- Projenin sürdürülebilirliğini güvence altına alacak önlemlerin geliştirilmesi
+
+ - Projenin sosyal medyada tanıtılması
+ 
+
 ## Developments
+
 2024-10-24
 
 The number of uploaded documents approached 2000.
@@ -115,5 +138,25 @@ In order not to overload the source systems, I am trying to perform the download
 The translations will be performed by GoogleTranslate with the deep_translate library. These operations will also have to be done at intervals.
 
 I will continue to announce the developments here.
+
+## Todo List
+
+- Writing code to compile works by authors whose copyrights have expired and translate them into modern Turkish
+
+- Writing control codes that will prevent duplicate documents from being added to the AKTA archive
+
+- Producing sample codes that will contribute to the promotion of the archive and facilitate its use
+
+- Contacting individuals and organizations that can donate documents
+
+- Applying for permission to institutions that share open source documents, such as Gutenberg.org
+
+- Continuously analyzing the content of the archive and sharing the results obtained
+
+- Contacting individuals and organizations that can contribute to the project
+
+- Developing measures to ensure the sustainability of the project
+
+- Promoting the project on social media
 
 
