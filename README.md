@@ -27,6 +27,11 @@ Please support our project.
 
 ## Gelişmeler
 
+2024-10-29
+
+Yüklenen belge sayısı  2872 oldu.
+Belgeleri kategorilendirmek amacıyla bir model geliştirmek üzere Turkish-Text-Classification projesini başlattık.
+
 2024-10-24
 
 Yüklenen belge sayısı 2000 oldu.
@@ -96,6 +101,11 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
  
 
 ## Developments
+
+2024-10-29
+
+The number of uploaded documents is 2872. 
+We started the Turkish-Text-Classification project to develop a model to categorize documents.
 
 2024-10-24
 
