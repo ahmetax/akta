@@ -97,7 +97,9 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 
 - Projenin sürdürülebilirliğini güvence altına alacak önlemlerin geliştirilmesi
 
- - Projenin sosyal medyada tanıtılması
+- Projenin sosyal medyada tanıtılması
+
+- Soru-cevap veriseti oluşturulması (Ön çalışmalara başlandı)
  
 
 ## Developments
@@ -169,4 +171,5 @@ I will continue to announce the developments here.
 
 - Promoting the project on social media
 
+- Creating a question-answer dataset (Preliminary work has begun)
 
