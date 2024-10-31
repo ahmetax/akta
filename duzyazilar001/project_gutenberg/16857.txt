@@ -1,0 +1,1338 @@
+*** START OF AKTAHEADER ***
+Başlık: Probabilities
+Yazar: Martin Farquhar Tupper
+Yayın Tarihi: October 13, 2005 [EBook #16857]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/16857
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Probabilities, by Martin Farquhar Tupper
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Probabilities
+       The Complete Prose Works of Tupper, Volume 6 (of 6)
+
+Author: Martin Farquhar Tupper
+
+Release Date: October 13, 2005 [EBook #16857]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PROBABILITIES ***
+
+*** START OF TURKISH PART ***
+Jonathan Ingram, Janet Blenkinship ve https://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+OLASILIKLAR;
+
+İNANA BİR YARDIMCI.
+
+YAZAR
+
+Martin Farquhar Tupper, A.M., F.R.S.
+
+"SÖZLÜ FELSEFE" YAZARI.
+
+"NEREDEYSE BENİ BİR HRİSTİYAN OLMAYA İKNA EDİYORSUN."
+
+HARTFORD:
+
+SILAS ANDRUS & SON TARAFINDAN YAYIMLANMIŞTIR.
+
+1851.
+
+OLASILIKLAR.
+
+İNANA BİR YARDIMCI.
+
+Aramızda kesinlikle inanılan şeylerin kesinliği,
+önceki olasılıklarından veya
+olasılıksızlıklarından oldukça farklı bir konudur. Cromwell ve Napolyon'un var olduğunu biliyoruz ve gerçek olarak kabul ediyoruz ve karakterlerinin ve yaşamlarının tarihin anlattığı gibi olduğuna ikna olduk: ancak bu başka bir şey ve böyle bir tarihe inanmayan herhangi birini rahatsız etmek için fazlasıyla hesaplanmış bir şey, eğer bir kişi, toplumsal anarşi durumundan, askeri despotların kullanılması için önceden bir olasılık olduğunu; popüler bir püritenlik veya popüler bir sadakatsizlik durumundan, bu tür liderlerin, dine karşı bağnaz bir şevk veya dünyevi şan için bir arzu gibi çeşitli özelliklere sahip olmasının beklenmesi gerektiğini; devrimlere açık durumdan, bu tür despotların orta sınıftan çıkmasının muhtemel olduğunu; ve tüm insani şiddetlere bağlı tepki durumundan, bu tür askeri monarşilerin gücünün doğal mirasçılarına devam ettirilmemesi gerektiği konusunda açık bir beklenti vardı.
+
+Gerçeklerin doğrulanması için hiçbir ölçüde gerekli olmasa da, böyle bir argüman dizisi, daha önce bu tür gerçekleri sonradan kanıtlardan
+itibar etmek için bir neden görmemiş olan adamı _a
+priori_ ikna etmek için önemli bir güce sahip olabilirdi. Aksi takdirde, böyle bir zihin için gerçeğin eşiğinde bir tökezleme taşı olarak durabilecek büyük bir taşı yuvarlamış olurdu. İçinde durduğu sahnenin gerçek doğasını ayırt etmesini engelleyebilecek
+yoğun bir sisi dağıtmış olurdu. Ona, başkalarının gerçek olarak bildiği şeyin, onu
+bilmeyen kişi için bile, önceden olası hale geldiğini; ve
+Aklın sadece İnancın düşmanı olmadığını, aynı zamanda onun ittifakını kabul etmeye
+hazır ve istekli olduğunu gösterirdi.
+
+Ön hazırlık olarak ikinci bir örnek alalım. Bir oduncu, bir meşeyi keserken, ortasında bir demir top bulur; gerçeği görür ve
+elbette inanır; başkaları da onun tanıklığına inanır. Fakat her şeye karşı şüpheci olan bir köy bilgini,
+bu harikanın bizim dürüst oduncumuz tarafından
+uydurulduğuna ikna olur; ta ki papaz, iyi bir tarihçi, oraya gelene kadar, bunu çok ilginç bir durum olarak ilan edene kadar, çünkü doğal olarak beklenen bir şeydi; çünkü, iki yüz yıl önce büyük bir savaşın yapıldığı yer burasıydı: ve bir karabina mermisinin bir fidanı delmesi veya ağacın daha sonra kalbindeki demirle yaşlanması hiç de olasılık dışı değildi. O zaman, uzmanın şüpheciliğinin, eğer ısrar edilirse, ne kadar mantıksız görüneceği: köylünün rasyonel inancının ne kadar aniden aydınlanacağı: bilgisini iyi uygulayan birinin yararlı öğreniminin ne kadar yerinde olacağı, böylece gerçeği cehaletin bağlarından kurtarabileceği. Örnekler, eğer uygunsa, belirli bir argüman çizgisine ikna etmek için o kadar uygundur ki, dağınıklık riskiyle ve zihinler çeşitli olduğu için, bir düşünceyle bir düşünceyle bir başka düşünceyle farklı şekilde etkilendiği için, benzer bir eğilimden daha fazlasını eklemenin uygun olduğunu düşünüyorum: doğal bir tümevarımla, bu tür örneklerin yolumuzu düzeltebileceği umuduyla. Ünlü bir yaşayan jeolog, Yorkshire'daki Kirkdale mağarasında araştırmalarını yürütürken, önceki olasılıkları o kadar iyi hesaplamıştı ki, işçilere verdiği emirler esasen şunlardı: "Çapalarınızı alın ve şu taş döşemeyi kaldırın; sonra sepetinizi alın ve içini sırtlanların ve orada bulacağınız diğer yaratıkların kemikleriyle doldurun. "Bilimin cehaletle karşılanabileceği alayı hayal edebiliriz: ama işte, felsefenin zaferi,
+yetkisi kısa sürede bedensel bir şekil aldığında - vahşi hayvanlar tarafından
+kemirilmiş gibi
+bir sürü kemik ve burada ve orada sırtlanınkine benzeyen
+sırıtan bir kafatası! Bunun yaklaşan tartışmamızla nasıl ilişkili olduğunu görmüyor muyuz?
+Böyle bir birikimin
+aydınlanmamışların gözünde bulunması çok olası değildi: ama bilge adamın anlayışına göre çok olasıydı.
+Gerçek olasılıklar garip bir olgudan yanaydı, ancak görünen olasılıklar buna karşıydı.
+
+Başka bir örnek alalım. Hepimiz artık Amerika'nın varlığına ikna olduk; ve
+böylece, yaklaşık üç veya dört yüz yıl önce, Kristof Kolomb da öyleydi - ama
+başka hiç kimse. Tek başına, o güçlü kıtanın, geometrik ölçümlerden, dünyanın dengesinden, gelgitlerden, alize rüzgarlarından ve batmakta olan güneşin altında bir toprak parçası, önceden buna ikna olmuştu: ve eğer Lizbon'dan Çin'e doğru tam batıya yelken açabilseydi, büyük olasılığına karşı gelmeden, bu onun aklına ve inancına bir şok olurdu. Her örneği uygulamaktan veya konumuzla ilgili belirli farkını göstermekten kasıtlı olarak kaçınıyorum. Zihni kendi kendine düşünmeye yönlendirmek, her fikri önlemeye çalışmaktan daha iyidir.
+
+Bir diğeri. Timbuktu'daki bir Kissoor tüccarına, mermer kadar sert ve soğuk
+suyun varlığından bahsedilir. Ulusunun tüm deneyimleri buna karşıdır. İnanmaz. Ancak, çok uzun zaman geçmeden, İngiltere'de _kutlanan_ ve buz gören iki yerli prensin tanıklığı, bir zamanlar mantıksız olmayan şüpheciliğini sarsar: ve aklına hemen gelen ek fikir, kurşunun sıcak akışkanlıktan katı bir topak haline soğuduğu gibi, güneş ısısının yokluğunda, suyun da büyük olasılıkla aynı şeyi yapacağı fikri, güvenilir tanıkların aynı anda kanıtladığı doktrini destekler ve benzer bir olasılıkla kabul edilebilir hale getirir.
+
+Sonuncusu için bir örnek daha. Cahil birine, yaşayan bir kurbağanın bir kireç taşı bloğunda hapsedilmiş olarak bulunmasından daha az olasılıklı görünen birkaç şey vardır; yine de, kanıtlar bu tür vakaların nadir olmadığını kanıtlamaya devam ediyor. Şimdi, eğer su ürünü olan kireç taşı yerine, yaratık bir ateş ürünü olan granitte gömülü olarak bulunmuş olsaydı; Gerçek, gözle görülebilir şekilde eşit derecede kusursuz olsa da, böyle bir durumun bilimin yargısında ne kadar daha olasılık dışı görüneceği. Kırsal kesim için, kireç taşı durumu granit durumu kadar sağlam bir bilmecedir; ancak, filozof -sürüngenlerin bol olduğu bir dönemde böyle bir matrisin sulu akışkanlığını, kurbağanın kendisinin uyuşuk niteliklerini ve zamanın havanın yokluğunda neredeyse bir unsur olmadığı gerçeğini hesaba katarak- önceki bir olasılığa ulaşır, bu da onun gerçeği kabul etmesini rahatlatır. Granit, kendi deneyimi veya başkalarının tanıklığı inancını güvence altına almak için yeterli, hatta zorunlu olsa bile, aklını şaşırtmış olurdu: ancak kireç taşı durumunda, Akıl İnanca bile yardımcı olur; hayır, önceden olası olan hayreti ima ederek onu öngörür ve yönlendirir. Bunun bizim konumuzla ne kadar gerçek ve ne kadar güçlü bir şekilde ilgili olduğunu, böyle felsefe yapan herhangi bir
+zihin düşünsün.
+
+Fakat yeterince örnek var: her ne kadar bunlar, her biri kendi durumunda, yürümek istediğimiz yola ışık tutmak için belirli bir eğilim getirebilse de: belki de okuyucunun entelektüel güçlerine daha fazla güven duyduğunu ima ettiği için, diğer benzer
+durumları kendi zihninin önerisine bırakmak daha akıllıcadır; ayrıca, onu her durumda bariz bir uygulamanın müdahaleci parmağıyla rahatsız etmemek.
+Bu arada, yazara özgü birkaç konuyu ortadan kaldırarak ve diğer çeşitli ön değerlendirmelere değinerek, bazı engellerin yolunu hemen temizlemek için adil bir fırsattır.
+
+1. Önerilen düşünce çizgisi, var olan veya var olan herhangi bir şeyin, saf aklın bir uygulamasıyla, varlığından önce görülebileceğinin, olasılıkla tahmin edilebileceğini göstermeyi amaçlamaktadır: ve yeterli keskinlik ve deneyim hipotezi üzerine, bu fikrin geleceğe bile taşınabileceğini. Herhangi bir şey, yani her şey, düşüncesizce kullanılmayan bir kelimedir; çünkü bu, yalnızca sonsuz uygulama kapasitesine sahip bir kuralı başlatan, telkin edici bir incelemedir: ve, burada ve şimdi, açıklamasını yalnızca dini anların bazı konularına, önemli bir önceliğe sahip ve her zaman önderliği hak eden konularla sınırlamış olmamıza rağmen; yine de, eğer bilgi işe yarasaydı ve zaman ve mekan izin verseydi, güçlü ve aydınlanmış bir zekanın, doğa, takdir ve lütuf krallıklarında meydana gelen her olayın önceki olasılığını gösterecek kadar bu fikri genişletebileceğinden şüphem yok: hayır, belirsiz bir amacı olmayan gelecek meselelere dair tahminini yakın geleceğin alanlarına yöneltebilir. İşleyişteki nedenin algılanması, sonucu hesaplamasını sağlar, hatta belki de önceki durumda nedenin kehanetinin sonucu tahmin etmesini sağlayabileceğinden daha iyi. Ancak, bu kısa yaşamda ve rahatsız edici koşulları altında, hızlı zihnin teoride hayal etmeyi kolay gördüğü her şeyi pratikte başarma olasılığı çok düşüktür: ve eğer diğer ve daha akıllı kalemler, Tanrı'nın yollarını insanla haklı çıkarma ve gerçeğin yolunu temizleme yolunda iyi bir amaçta, bu incelemede yayınlanan bazı kavramlarla yardımcı olursa, görevi iyi bir şekilde yerine getirilecektir. 2. Bu şekilde ortaya atılan öncü fikrin yeni olup olmadığı veya Hıristiyan kanıtlara yardımcı olarak uygulanmasında yeni olup olmadığı yazarın farkında değildir: kendi zihninde bu tamamen kendiliğinden ve aniden ortaya çıkmıştır; ayrıca bunu başkalarının önüne herhangi bir kötü avantajla koymaktan da çekinmemiştir, çünkü kendi düşüncelerine göre, birçoklarının şüpheci zihinleri için istenmeyen veya yararsız olmayabilecek derin gerçeklere bir ışık seli yayıyor gibi görünmüştür. Bunda ve diğer birçok insan çabasında olduğu gibi, fikrin somut olarak gerçekleştirilmesinin, zihindeki soyut kavramından çok daha geride kaldığı doğrudur: orada her şey açık, hızlı ve kolaydı; burada, kelimelerin gerekliliği ve isteksiz bir azmin kısıtlamaları, hayal gücünün kanatlarını ve ayık tartışmanın ayaklarını tıkar: öyle ki, düşünülen düşüncelerle, yazıldığı gibi düşünceler arasındaki fark oldukça aşağılayıcı olarak hissedilir. Jüpiter'in kafasından fışkıran Minerva, ağır adımlarla yürüyen Vulcan'dan daha farklı değildir.
+
+3. Tartışmanın (tabiri caizse) eksiksiz olması ve arkada hiçbir kalenin ele geçirilmemiş bırakılmaması gerektiği şeklindeki akıllıca ilkeye göre, yazarın kaderi, akıl çocuğunun artık yalnızca gerçek olarak şüphe edemeyeceği, aynı zamanda asla olasılık dışı olduğunu düşünemeyeceği gerçeklerin önceki olasılığını göstermeye çalışmak olmalıdır. Örneğin, ilk çaba, herhangi bir tasarlanmış başlangıçta, Tanrı dediğimiz bir Şey, Büyük bir Ruh'un var olmasının beklenebilir olduğunu gösteriyordu. Kudretli Yaratıcı'nın, O'nun önceki bir olasılık olduğunu iddia etmek, düşüncesizlerin itirazına daha az açık bir argümanlar zincirinin ilk halkası olarak ortaya çıkmasaydı, çok gereksiz bir girişim gibi görünürdü. İlahi Üçlü Birliğin göz kamaştırıcı gizemini _a
+priori_ kanıtlamaya çalışmak için azıcık ışığımızla, (mantıksız
+bir
+şekilde
+görüldüğünde) küstah ve zararlı bir şey olarak saldırıya uğrayabilir; ancak, eğer ve ne zaman yapabilirsek, "Her şeyi kanıtlamak" bizim akıllıca ayrıcalığımızdır. " Dahası,
+Hakikat'in en büyük düşmanının, en azından değerli görünümünü örten sisleri ve bulutları temizlemeye çalışmaktan çekinen
+insan olduğu bir dünyada yaşıyoruz; ve saygılı
+Hristiyan'ın inanç ve dua zırhını giymesi ve kendisine verilen lütuf ve güce göre tartışmaya girmesi gerektiği bir zamanda - gerçekten de küfür eden kafir değil, çünkü böyle bir düşman mantıksız ve bir cevaba layık değildir, ama - genellikle dürüst, endişeli ve istemsiz şüpheci; gerçeğin binlerce bozulmasıyla haklı olarak rahatsız olan ve sahte müritlerinin sürüsünün davranışından
+çok hayal kırıklığına uğrayan zihin, cömert bir yanlış anlamadan dolayı hatayı kucaklıyor: asla yeterince şefkatle muamele görmeyen, ancak genellikle bir şüpheci olarak alay edilen, ancak yine de doğal bir erkeklikle kendi kendine düşünmenin haklı ayrıcalığını iddia eden:
+oldukça yeterince nadiren de olsa, yalnızca eğitimsel bir inancın zayıflığını desteklemek veya Hıristiyanlığa karşı olan itirazları çürütmek için kanıt gerektiren, çatışan doktrinlerde ve sahte mezheplerin kutsal olmayan yaşamlarında yaygın olan itirazları çürütmek için. Şairlerimizden biri şöyle demiştir: "Hiçbir zaman korkmamış olanın umudu yoktur:" bu da oldukça doğrudur (ve bu sözü, herhangi bir taciz edilmiş inançsız zihnin rahatlığı için alın), hiçbir zaman şüphe duymamış olanın inancı yoktur. Şüphe eden bir zihnin umudu vardır, çünkü düşünür; nominal Hıristiyanların çoğunluğunun altmış yıl yaşayıp, tek bir zorluk veya tek bir şüphe hakkında ciddi bir düşünceye sahip olmadan, çok fazla mamonizmden öldüğünü düşünmek için kendini yorduğu için: ahlaksız veya alaycı olmayan, basit bir yanlış anlamadan dolayı yanlış inanan bir adamın umudu vardır; (yanlış anlama bir kez ortadan kalktığında) inancının geçici bir kış durumu için daha sıcak bir şekilde parlayacağına dair adil ve makul bir umut vardır. Kendimi onlara
+şöyle hitap ediyorum: Zavallı
+düşüncelerimle bu kadar keskin ve meraklı zihinlerin tüm şüphelerini, itirazlarını ve itirazlarını tatmin edebileceğimi küstahça hayal etmiyorum; metafiziğin sığlıkları arasında iyi yelken açmaya veya
+aklın daha derin uçurumlarını yanılmadan araştırmaya çalışmıyorum; ancak onlardan bir süre benimle birlikte olmalarını ve beni sonuna kadar sabırla dinlemelerini istiyorum; benimle birlikte,
+([Yunanca: kat' exochen]) Gerçek'in ne olduğuna ikna olmuş olarak, burada yardımcı olarak açıklanan daha az düşünceden çok daha kesin ve
+güçlü argümanlar; Bana katlanmak ve düşüncelerimi bu şekilde yazarken (eğer böylesine yüce bir girişimde bana yardım edilirse), Hıristiyan dünyasının kabul ettiği doktrinlerin ve tarihlerin önceden olası olup olmadığını, yani mantıksız olup olmadığını: aksine, bu tür gerçeklerin ve doktrinlerin herhangi bir tezahüründen önce, bunların şu veya bu şekilde geliştirilme olasılığının aşırı olup olmadığını: ve genel olarak, akıl tarafından inancın eşiğine kadar götürüldüğünde, olasılıkları artık kesinleştiren diğer argümanlarla karşılaşmaya değer olup olmadığını kanıtlamak.
+
+4. Bu makalenin tek kapsamını ve amacını hafızada tutmak çok önemlidir. Tek bir kanıt zerresi eklemeyi iddia etmiyoruz, sadece zihni kanıt almaya hazırlamak istiyoruz: gerçekleri kanıtlamaya çalışmıyoruz, sadece önyargıların ortadan kaldırılmasıyla kabul edilmelerini hızlandırmaya çalışıyoruz. Yatağa bağımlı bir meteoroloğa yağmur yağdığı söylenirse, tanıklığın gücünden gerçeği anlayabilir veya anlamayabilir; ancak, hava gözlüğünün yükselmek yerine düştüğünü görürse, kesinlikle bunu anlamaya daha yatkın olacaktır. Gerçek aynıdır, yağmur yağıyor; ancak
+zihin--bu tür bir gerçeğin pozitif kişisel güvencesinden koşullar tarafından engellenmiş ve gerçeğe yalnızca dışsal kanıtlardan ulaşabilmiş--olasılığın zaten farkında olunmuş olması nedeniyle gerçeğe inanmak için daha uygun bir durumdadır. O halde, biraz ters bir şekilde, önceki olasılıkların mevcut argümanımızın temelini oluşturması nedeniyle, temanın kendisi olan Din'in çok zayıf hipotezlere dayandığı çıkarımı yapılmasın: olasılıklar gibi saman çöplerine değil, çok daha sağlam sonraki kanıtlara dayanmaktadır. Şimdi yapmaya çalıştığımız şey gemiyi desteklemek değil, aksi takdirde ona saldırabilecek olan pervasız Uzza'nın zihnini olumlu bir şekilde hazırlamaktır; dinin zayıf noktalarını güçlendirmek değil, önyargıdan ve olasılığına dair yanlış anlamadan oluşan Hakikati kabul etme isteksizliğini ortadan kaldırmaktır. Güzel gemi, ayaklar üzerine inşa edilmiştir, platformlar yükseltilmiştir ve beşik hazırdır; ancak yanlış önyargılar, eğimi gresle değil çakıl taşlarıyla dağıtabilir ve böylece suya indirmeye gereksiz bir engel koyabilir: oysa olasılıkların tersine göre değil, lehine olduğu açık bir fikir, her şeyi pürüzsüz, kaygan ve kolay hale getirecektir. Öyleyse, bu girişimde başarısız olursak, Hakikatin kendisine hiçbir kötülük yapılmaz; duvarlarda hiçbir gedik açılmaz, hiçbir mayın döşenmez, hiçbir siper sökülmez; tüm kanıtlar olduğu gibi kalır; hiçbir şeyi elimizden almamış oluruz. Hatta, meselelerin önceden imkansız gibi görünmesine rağmen, eğer kanıtlar onları doğru
+
+kanıtlasaydı, böyle bir önceden olası olmayanlık tamamen
+kesinlikle
+kanıtlanmış gerçeklerle birleşmiş olurdu. Dahası, eğer başarılı olduğumuza hükmedilirse,
+Hakikat'in kendisine hiçbir şey
+eklememiş oluruz; hayır, onun dış yapılarına da. O kutsal
+
+tapınak, köşe taşından tepe taşına kadar eksiksiz, sağlam ve görkemli bir şekilde
+durmaktadır. Biz sadece tabanındaki çöpleri süpürüyoruz; kapılarını tıkayan sürüklenen çöl kumlarını. Biz sadece o davaya (en yüce ayrıcalık) hizmet ediyoruz, onun lehine bir önyargıyı devreye sokarak. Burada
+kanıtın kendisine değil, kanıta bir yardımcı; inanca giden yolu
+işaret eden bir işaret direği; yolunda biraz akıl ışığı öneriyoruz. Risk
+aslında hiçbir şey değildir; ancak avantaj, lehine, çok daha fazla olabilir.
+
+5. Doğrudan eğilimleri veya daha uzak çıkarımları bakımından, en azından yazar için, tehlikeli veya tartışmalı bir zemin olabilecek konuların tartışılmasından kaçınmak imkansızdır. Ona "büyük ve etkili" bir kapı açılırsa, şüphesiz birçok düşman yetiştirecek veya onlarla karşılaşacaktır. İnancından nefret edenler, argümanlarını küçümseyenler ve hatalarına karşı yüksek sesle ve şiddetle protesto edenler dışında; muhtemelen çeşitli kasıtsız sapkınlıklara düşebilir; patlamış bölünmelerin kalıntılarına farkında olmadan tökezleyebilir; uzun süredir ve layıkıyla yok olmuş metafizik veya skolastik polemiklerdeki tartışmaları yeniden ortaya çıkarabilir. Eğer durum buysa, sadece _Mea culpa, mea culpa, mea maxima culpa_ diyebilir. Ancak, bir kelime için suçlu yaratmanın yaygın eleştirel aptallığına karşı protesto etmesi de ona açıktır: dört ayak üzerinde benzetmeler yapmak ve düşünceleri olması gereken ölçülerin ötesine zorlamak. Her şeyden önce, bir okuyucunun kendi yargısının bir santim ötesine geçmesine, hatta aleyhine olmasına asla izin vermeyin: eğer yeterli nedenler varsa, tamam: aksi takdirde, refakatsiz yürümeme izin verin. Özellikle ilk adımın çok zor olduğu hissediliyor; belki de çok tartışmalı: bildiğim kadarıyla, metafiziğin örümcek ağına yakalanmış, yakında yok edilecek ve bazı Aranean mantıkçılar tarafından rahatça tartışılabilecek boş bir böcek olabilir. Ancak, gece yarısı düşüncelerime, düşünce ve dil yoksulluğundan biraz tatmin edici olmayan bir şekilde anlatılmış olsa da, gerçeğe ulaşmanın olası bir yolu gibi göründü. Dahası, böyle bir _a priori_ argümanda, sonradan bir sonuç ilan ederek başlamak gülünç olurdu: çünkü
+bu davayı yeniden işlemek için elimden geleni yaptım: ve okuyucuların çoğunluğuna ilk bakışta ne kadar gereksiz görünürse görünsün,
+esas olarak hitap ettiğim ve çıkarlarına hizmet etmek istediğim daha keskin zekalar, bu girişimi en azından tutarlı olarak tanıyacaklardır: ve eğer zorlu çaba daha sonra Birinci Büyük Dava ve O'nun nitelikleri boşunaysa (ki bunu kabul etmiyorum), kendi değerleri açısından gereksiz bir girişim olduğunu kabul etmeye hazır olacaklardır; yine de, açıkça biraz adaletle, saf akıl en baştan başlamak isteyebilir. Din üzerine düşünen hiç kimse, ne kadar yanlış inançlı olursa olsun, bir İlahiyatın varlığına veya O'nun niteliklerinin kabul edilmiş karakterine karşı herhangi bir zihinsel önyargı besleyemez. Böyle bir insan sadece vahşi bir durumda, mantıksız olurdu: kendi zihni, bu şekilde spekülasyon yaparken, bir Entelektüel
+Baba'nın varlığına dair kesin kanıt olarak kendini gösterirdi; ya ilk insanın durumunda olduğu gibi hemen ya da bizimkinde olduğu gibi dolaylı olarak, kesinlikle İyi Olan Tanrı olan o Varlıktan
+çıkmış olmalı. Fakat eğer, mümkün olduğu gibi, düşünme yeteneğine sahip ve başka temalar üzerinde düşünmeye istekli bir zihin, herhangi bir eğitimsel veya ahlaki sebepten dolayı, bu büyük arabuluculuk yolunu ihmal etmişse, "Tanrı'yı ​​unutmuşsa" ve "O'nu tüm düşüncelerinde _bulmamışsa", böyle birini benimle yürümeye davet ediyorum; ve, tüm eksiklik ve yetersizliğe rağmen, belki de hayal ürünü veya yanlış olabilecek birçok şeyden uzak, kısaca ve taslak halinde, Hıristiyan şemasının çeşitli olasılıklarını test etmek için, açıklamasından önce düşünülmüş.
+
+BİR TANRI: VE ÖZELLİKLERİ.
+
+Asil ve inandığım kadarıyla ilham edilmiş bir cümleyle başlayacağım:
+ki filozoflar tarafından dile getirilen hiçbir hakikat bundan daha açık veya daha yüce bir şekilde ifade edilmemiştir. "Başlangıçta Söz vardı: ve Söz
+Tanrı ile birlikteydi; ve Söz Tanrı'ydı." Zamanı geldiğinde, özellikle Söz ile Tanrı arasındaki farkı; aynı şekilde görünen çelişkiyi, ama aynı anda hem Tanrı hem de Tanrı ile
+olmanın gerçek uyumunu ele alacağız. Şu anda ve _a
+priori_ düşüncelerimizin gerçek başlangıcından önce, bir veya iki kelimeyle, o kısa ama kapsamlı cümleyi, "Başlangıçta Söz vardı" şeklinde yorumlayalım. Sonsuzluğun başlangıcı olmadığı gibi sonu da yoktur: Zaman saati orada boşunadır: boşlukta gitmeye çalışabilir. Yine de, kendimiz gibi sonlu zekalar açısından, sonsuzluğun tamamen kavranamaz bir fikir olduğunu gördüğümüzde, zihne parça parça sunulması akıllıca, hatta sadece mümkündür. En derin matematikçilerimiz bile "sonsuzca uzak" noktalardan bahsetmekten çekinmezler; sanki o cümlede hiçbir terim çelişkisi yokmuş gibi. Bu yüzden, boşluğumuzda geçmiş sonsuzluktan, şimdiki zamandan ve gelecek sonsuzluktan bahsediyormuş gibi yaparız; Gerçek şu ki, bir insan ne kadar ilham perisi olursa olsun, zamanla ölçülemeyen bir varoluş fikri edinemez: tıpkı gökkuşağıyla bağlantısı olmayan bir renk veya yedi sesin ötesinde bir müzik notası düşünemeyeceği gibi. Kelimelerin açık amacı şudur: insan düşüncesinin başlangıç ​​noktasını sonsuzluğa kadar gerilere yerleştirin, ister insanın bin çağ, ister on bin kere on bin, ister bu onbinler yine milyonlarla çarpılmış olsun, yine de böyle bir
+Başlangıçta ve tüm başlangıçların başlangıcında (çünkü yaratıklar böyle konuşmalıdır) - o zaman Tanrı vardı. O Vardı: bilgin, orijinal terimin gücünü, [Yunanca: eimi] ile [Yunanca: gignomai] arasındaki filolojik ayrımları çok iyi bilir: çok memnun, İlahiyat [Yunanca:
+en] olarak okur, O kendi kendine var oldu; ve eşit derecede memnun olur, insanlığı
+[Yunanca: egennethe], o doğmuştur. Düşünce ve ifade [Yunanca: en]
+bir özdeşliği olmasa da, İbranice'nin telaffuz edilemez
+Adıyla sempati duyar. O halde, diğerlerinin yanı sıra mükemmelliği en yüce ve ihtişam türevini belirten unvanı esasen "Ben'im" olan O'dur; O
+ki, bize ve diğer tüm yaratılışa göre, Tanrı fikrinin büyük ifadesi olan "Söz"de akıllıca seçilmiş yeni bir isme sahiptir; bu
+kudretli Zeka, böyle bir başlangıçta kendiliğinden var olur. Bu
+öğretinin, yaratılmış her şeyin kanıtından ve ayrıca birçok harika işaretten ve vahyin net sesinden sonradan bilinen basit bir gerçek olduğu. Bunu kanıtlamaya çalışmıyoruz; bu kolay ve açıktı:
+Ancak şu anda daha zor olan çabamız, Tanrı'nın önceden ne kadar olası olduğunu göstermektir: ve böyle olduğu için, O'nun görkemli Doğasının giydiğini bildiğimiz makul niteliklerle donatılmış olması gerekir.
+
+O halde başlangıcımızı istediğimiz yere götürelim, o "başlangıçta" ya Bir Şey ya da Hiçbir Şey var olmuş olmalı. _A posteriori_, Bir Şey'in var olduğunu kanıtlamak açık bir konudur; çünkü bir şey
+şimdi var: her madde ve her türetilmiş ruhun bir
+Babası olmalı; _ex nihilo nihil fit_, yaratılışın bir Yaratıcısı olması gerektiği gerçeğinden daha fazla bir gerçek değildir. Ancak, bu açık yolu terk ederek (ki bunu sadece açık zihinsel kullanımlar için işaret ediyorum), şimdi başlangıçta Hiçbir Şey'den ziyade Bir Şey'in olması gerektiği yönündeki büyük önceden olasılığa ulaşmaya çalışalım.
+
+Hiçbir şey terimi yanıltıcıdır: Bir şeyin yaptığı gibi bir varoluşu değil, bir varoluşun sonunu belirtir. Aslında bir olumsuzlamadır, bir zamanlar var olan ve reddedilmesi mümkün olan bir maddeyi varsaymalıdır; bir soyutlamadır, ancak bir şey alınıp götürülmedikçe gerçekleşemez; boşluk fikri doluluk fikrinden sonra gelmelidir; hiçbir ağaç fikri, _bir_ ağaç fikri olmadan kavranamaz; yokluk fikri, _ex vi
+termini_, önceden var olan bir varlığı ima eder; Hiçbir şey fikri, zorunluluk, Bir Şeyi varsayar. Ve bir Şey bir zamanlar var olduktan sonra, yeterli bir sebep bulunmadıkça, hala var olmaya devam eder; bu sebep, göreceğiniz gibi, bir Şeydir. Şanslar, süreklilik, yani süreklilik lehinedir; ve olasılıklar yüksek sesle bir Varoluş olması gerektiğini ilan eder.
+Bu nedenle, aklın başlayabileceği herhangi bir hayal edilebilir
+başlangıçtan daha olasıydı, Hiçbir Şey'den ziyade
+Bir Şey'in
+varolduğunun bulunması. Bu ilk olasılıktır.
+
+Sonra; bu Bir Şey, bu Varlık, hangi doğa ve kapsamda
+olma olasılığına sahiptir?--Ya böyle bir varlık olacak ya da çok sayıda: eğer çok sayıdaysa, çok sayıda
+ya bir taneden türemiştir ya da kütlenin hepsi kendi kendine var olur;
+ilk durumda, bir yaratılış ve bir Tanrı olurdu: ikinci durumda, birçok Tanrı olurdu. İkincisi önceden daha olası mıdır?--bakalım. İlk olarak, çok sayıda olası varsa, az sayıda olanın daha olası olduğu ve en olası olanın da bir olduğu açıktır. Ne kadar çok olası tanrı
+çıkarırsanız, engeller o kadar azalır; yani, daha önce muhtemel olduğunu kanıtladığımız Tek Varlığa ulaşana kadar. Ayrıca, birçoğu kesinlikle bir olarak birleşmiş olmalıdır; bu durumda, çoğunluk gereksiz bir zorluktur, çünkü ibadet veya tartışmanın tüm amaçları için tek bir Tanrı olarak kabul edilebilirler: veya çoğunluk özünde az çok bölünmüş olmalıdır; bu durumda, saf uyumdan
+uzak bir durum kendi içinde dağılma tohumlarını taşıdığından, birçoğundan birinin veya diğerinin (başlangıçları saydığımız olası başlangıçlardan çok önce, sonsuzluğun geçmiş manzarasına bakarak) böyle rahatsız edici nedenlerle mutlak monarşi olma fırsatını değerlendirmiş olması gerekir: ister barışçıl ikna, ister düşmanca
+zorlama, ister ayrılıkları emmenin başka bir yolu olsun, fark etmezdi;
+eğer hepsi Tanrı'ya layık olmadıkları için, olasılık dışı olmasalardı. Uyuşmazlığın
+sürekliliği imkansız bir şeydir; birlikten
+uzak olan her şey dağılmaya eğilimlidir. Her neyse, o zaman, içinde çalışılacak sonsuzluk unsuru verildiğinde,
+yaratılan başlangıçta, tek bir büyük Yüce Varlık, _a priori_
+olasılıktı. Onun gerçek ve
+ebedi Birliği dışındaki tüm diğer varsayımların, tanrısallığın rasyonel görüşlerine karşı oldukları kadar kendi başlarına da yanlış olduğunu artık hepimiz görüyor ve inanıyoruz; ancak bunun doğrudan kanıtları, akıldan ziyade daha kesin bir şekilde vahiy konularıdır:
+ancak akıl da onların olasılıklarını ayırt edebilir. Sokrates ve Cicero gibi, bizim ışığımıza sahip olmayan bilge putperestler, yine de bu algının bir kısmına ulaştılar; ve böylece, vicdan ve zekâ aracılığıyla, kendilerine bir yasa haline geldiler: çünkü, onlar için, tıpkı şimdi ışığı henüz görmemiş olan bizden herhangi biri için olduğu gibi, önceki olasılık, daha fazlasından ziyade, yalnızca tek bir Tanrı için mevcuttu; bu olasılık, zihni, "Tanrımız Rab tek Yehova'dır" gibi temel bir gerçek olarak almaya hazırlar. 
+
+Sonra; birlikle birleşmiş Öz-varoluş, olası niteliği veya karakteri, Her Yerde Bulunmayı içermelidir; şimdi göstermeye devam edeceğim gibi. Bir Şey'in Hiçbir Şey'den daha olası olduğunu gördüğümüz ilkeye göre, aynı Bir Şey'in her yerde olmasının, aynı Hiçbir Şey'in (bu ifade saçma olmasaydı) herhangi bir yerde olmasından daha olası olduğu sonucuna varıyoruz: deyim yerindeyse sonsuzluğu uzaylara bölebilir ve her durumdaki konumu kanıtlayabiliriz: ayrıca, o Bir Şey özünde -birçok şeyin bir birimi değil, ama- her şeyi kapsayan bir birlik olduğundan, bu Bütün Varlığın her yerde bulunmasının en olası olduğu sonucu çıkar; başka bir deyişle, tek Tanrı'nın her yerde aynı anda bulunması: ayrıca, Uzay dediğimiz şeyin bir sınırı olmadığı gibi, Tek Büyük Varlığa bir sınırlama getirecek herhangi bir düşmanca güç de olmadığı için, bu Bütün Varlık kesinlikle sonsuz bir dereceye kadar her yerde bulunmalıdır: "O her yerdedir, kötülüğü ve iyiliği görür." Böyle bir düşünce (ve bu tamamen doğru bir düşüncedir) bir sonraki noktayı, yani Tanrı'nın bir Ruh olduğunu gerekli kılar. Hiçbir olası töz
+her yerde aynı anda olamaz: öz olabilir, ama töz olamaz. Herhangi bir şekildeki bedensellik yerel olmalıdır; yerel sonludur; ve az önce Tek bir büyük Varoluşun (özün birliğine rağmen) sonsuz olmasının ön olasılığını kanıtladık. Yerel olmayan ve sonsuz, dönüştürülebilir terimlerdir:
+ruh yerel olmayandır; ve Tanrı sonsuz olduğu için -yani yerel olmayan- "Tanrı'nın bir Ruh olduğu" açıktır.
+
+Böylece (bu kadar basit araçlarla inancı inşa etmeye çalışmadan, sadece önyargıları ortadan kaldırmak için bunları kullanarak) doğal nitelikleri veya özellikleriyle donatılmış bir Tanrı'nın yüksek olasılığına ulaştık;
+Kendiliğinden var olma, Birlik, her yerde aynı anda olma yeteneği ve o
+her yerde Sonsuzluk; ve esasen manevi bir doğaya sahip, maddi değil. Onun ahlaki veya tesadüfi nitelikleri (tabiri caizse), ifade edilmelerinden önce, aynı şekilde olası olarak kanıtlanması kolaydı. İlk olarak, Güç açısından: hiçbir rahatsız edici neden verilmediğinde (yakında izin verilen kötülük ve kökeni sorusunu ele alacağız; ancak bu, yaratıklar için ne kadar rahatsız edici olursa olsun, yalnızca Tanrı için değil, sanki sadece O'nun ihtişamının prizmatik güzellik uğruna kırılmaya izin verilen bir ışını, O'nun enerjilerinin yönünün bir parıltısı, o gün "Tanrı her şeyi kendisi için, evet, hatta kötüleri bile ziyaret zamanı için" yarattığı gösterileceğinde) iyiliğin üstün zaferi için yönlendirilmeye izin verilen bir şey bulunacaktır. O zaman hiçbir rahatsız edici nedenin engellemediği veya karşı çıkmadığı _verisiyle_, sonsuz bir varlık böyle bir sonsuzluk küresi içinde her şeyi yapabilmelidir: başka bir deyişle, O her şeye kadir olmalıdır. Aynı şekilde, boşluktaki bir ivme hiçbir engelle karşılaşmaz, fakat dünyalar filosu arasında her zaman yelken açar; ve İlahiyatın doğuştan gelen
+İtici Gücü, o sonsuzluk boyunca genişlemeli ve enerji vermelidir. Her yerde bulunmanın benzer bir nedeni nedeniyle, Tanrı her şeyi bilmelidir: Herhangi bir
+zeki varlığın, tam gözünün önünde olup bitenlerden haberdar olması gerektiği güçlü olasılığından kaçmak imkansızdır. Tekrar; hem Güç hem de Bilgi durumunda, İyilik ve Bilgeliğin gelecekteki nitelikleriyle aynı şekilde--(bilgelik, salt bilgi veya farkındalıktan ahlaki olarak
+farklı olarak kabul edilir; her şeyi umursamadan gören soğuk bir gözü ve her şeyi kalpsizce
+bilen berrak bir zihni kavramak oldukça mümkündür)--tüm bu
+tesadüfi nitelikler durumunda, bir öz-varoluşun önceki olasılığını gösterdiğimiz şeye benzer bir argüman tekrarlanır. Pozitif şeyler negatif şeylerden önce gelmelidir. Görme, körlüğün mümkün olmasından önce ve görmeme
+hakkında adil bir fikre var olmadan önce var olmalıdır. Güç, güçten veya zayıflıktan soyutlamanın öncüsü olmalıdır. Cehaletin küçük varlığı, bilgeliğin büyük varlığına önceden izin vermediğiniz sürece imkansızdır; çünkü bu, bilgeliğin
+alçaltılması veya azaltılması anlamına gelir. Günah, yasanın ihlali olarak iyi tanımlanmıştır; çünkü yasa olmadan günah olamaz. Aynı şekilde, bilgelik olmadan
+cehalet olamaz; güç olmadan zayıflık olamaz;
+iyilik olmadan kötülük olamaz.
+
+Dahası. Olumlu bir şey--bilgelik, güç, iyilik gibi--kesinlikle var olabilir; bir Şeyin doğasındadır: ancak olumsuz bir şey--cehalet, zayıflık, kötülük gibi--sadece göreceli olarak var olabilir; ve daha akıllı, daha güçlü ve daha iyi kökeninin önceki ve şimdiki eşzamanlı varlığı olmasaydı, aslında bir Hiç olurdu. Soyut kötülük, soyut cehalet veya soyut zayıflık kadar
+açıkça bir imkansızlıktır. Kötülük kendi kendine var olabilseydi,
+ebedi doğum anında kendini yıkmış olurdu. Erdemin içsel uyumu
+sürekli varlığa eğilimlidir: ahlaksızlığın doğuştan gelen uyumsuzluğu her zaman dağılmaya doğru bir güçle mücadele eder. İyilik, bilgelik, güç varoluşlara sahiptir ve Tanrısallığın içinde yutulmuş olsalar da
+sonsuzluktan beri varoluşlara sahip olmuşlardır; ve
+bu, eylemde kanıtlansın veya kanıtlanmasın: ancak onların bozulmalarının böyle bir
+orijinal varoluşu olmamıştır, sadece saptırılmış aynı varlıklardır. Aşk
+hala aşk olurdu, egzersizi için var olan bir nesne olmasa da: Güzellik hala güzellik olurdu, adaletini gösterecek
+yaratılmış bir şey olmasa da: Güç hala güç olurdu,
+savaşılacak bir düşman, üstesinden gelinecek bir zorluk olmasa da. Nefret,
+kötü niyet, zayıflık, bunların sadece sapkınlıkları veya küçülmeleridir.
+Güç, kaslardan, kılıçlardan, vidalardan veya kaldıraçlardan bağımsız olarak var olur;
+sevgi, nazik düşüncelerden, sözlerden ve eylemlerden bağımsız olarak; güzellik,
+renklerden, şekillerden ve uyarlamalardan bağımsız olarak. Tıpkı bilgeliğin felsefi olarak gerçek bir kraliyet ve asil yazar tarafından dile getirilmesi gibi:
+
+"Ben, bilgelik, ihtiyatla yaşarım ve akıllıca icatların bilgisini
+öğrenirim. Öğüt benimdir ve sağlam bilgelik; ben anlayışım; ben
+güce sahibim. Rab, yolunun başlangıcında, eski işlerinden
+önce beni ele geçirdi. Ezelden beri, başlangıçtan beri, ya da
+dünya var olduğundan beri kuruldum. Derinlikler yokken,
+dağlar sabitlenmeden ya da tepeler yapılmadan önce,
+gökleri hazırladığında, oradaydım;
+derinliğin yüzüne bir pusula koyduğunda;
+yukarıdaki bulutları kurduğunda;
+derinliğin temellerini güçlendirdiğinde: O zaman onun yanındaydım, onunla birlikte yetiştirilmiş biri gibi: ve her gün onun sevinciydim, her zaman onun önünde seviniyordum;
+dünyasının yaşanabilir yerlerinde seviniyordum; ve zevklerim insanların
+oğullarıylaydı."
+
+Kral Süleyman, bu kadar asil bir şekilde yazdığı kişinin kim olduğunu gayet iyi biliyordu. Ebedi bilgelik,
+güç ve iyilik, hepsi ileriye dönük olarak insanda böyle özlem duyuyor ve
+birçok ismi arasında Bilgelik olan Bir'de birleşiyor. Bilgelik,
+bir nitelik olarak, Tanrı ile birlikte vardı; ve özünün tam olarak nüfuz etmesini sağlayarak Tanrı'ydı.
+
+Ama geri dönüp, karmaşık düşüncelerimizi bir sonuca bağlamak için.
+Başlangıçta, sınırsız, her şeyi bilen, kendi kendine var olan varlık, eğer isterse,
+bu ebedi olumlu bilgelik, güç ve iyilik mükemmelliklerini, tabiri caizse, üstlenebilirdi; ve bunlar, her rasyonel anlayışa göre, onun seçimine fazlasıyla layıkken, bunların türevi ve daha aşağı bozulmaları, O'nun karakterinin herhangi bir makul tahminine karşı çok aşağılayıcı olurdu; O'nun daha yüksek olanı daha düşük olandan tercih etmesi, olumsuzdan önce olumlu olanı alması, "iyiyi seçmesi ve kötüyü reddetmesi", putperestlerin Pantheon'u boyadığı gibi çarpık, moral bozucu, sonlu niteliklerle donatılmaya katlanmaktan ne kadar daha olasıydı? Hangi yüksek önceki olasılık vardı ki, eğer bir Tanrı varsa (ve bunu da oldukça olası olduğunu kanıtladık) - O Tek, her yerde bulunan, kendi kendine var olan, ruhsal olmalı: O her şeye kadir, her şeyi bilen ve her şeyi iyi olan olmalı?
+
+ÜÇLÜ BİRLİK.
+
+Düşüncelerimizi meşgul edecek bir diğer derin ve anlaşılmaz konu da şimdi - olası bir Üçlü Birlik'in gizemi. Bu kadar yüksek temalara değinirken, Hristiyan'ın varsayımı her zaman, kendisinin bunlara saygı ve dua ile yaklaştığıdır; ve bir inanmayan söz konusu olduğunda, böyle bir zihnin dost rakibine karşı yeterince nazik ve kendi çıkarlarına ve güvenliğine saygı gösterecek kadar akıllı olacağı ve bu şeylerin doğru olmaması için bu tür konulara önemlerine uygun ciddiyetle ve aslında kutsal olabilecekleri kısıtlayıcı düşünceyle gireceğidir.
+
+O zaman, tüm deneyimlerden önce, saf aklın ne tür bir
+tanrılıkla tatmin olmuş olabileceğini düşünelim. Zaten
+Birliğe ve yukarıdaki niteliklere ulaşmıştır. Fakat hangi tür Birlik olasıdır?
+Kişinin Birliği mi, yoksa Özün birliği mi?
+Kolayca anlaşılabilen ve muhtemelen iletişimsiz, kısır bir yalnızlık mı? Yoksa kendi genişleyen sevgisinin birkaç gizemli aşamasını nispeten içeren
+mutlak bir birlik mi? Eğer ikincisinin üstün olasılıklarını öne sürersem ve birincisininkini öne sürmezsem, bunun önceden belirlenmiş bir sonuç olduğunu düşünür müsünüz? O zaman birçok nedenden birkaçına gelelim. Birincisi: Tanrı'nın açıkça kavranabilir olması hiçbir şekilde önceden varsayılamazdı: yine de
+bir olmalıdır: ve birlik, tüm olası
+fikirler arasında en kolay kavranan fikirdir. En sıradan entelektüel yaratıklar bile Yaratıcısını kavrayabilir ve zirvelerine ulaşabilir, eğer Tanrı gerçekten bir görüşte bir ise, yine de her görüşte bir ise: yani, doğasına bağlı hiçbir gizem yoksa: hayır, eğer bu gizem görünürdeki bir çelişkinin zorluğuna denk gelmiyorsa. Bunun muhtemel olduğunu ve güvenle, Aklın Tanrısı için, en düşük ruhsal çocuklarının bile kavrayabileceği sonsuz derecede kolay, en yüksek meleklerinin bile kavrayabileceği sonsuz derecede zor bir Varlık gerektireceğini düşünüyorum. Şimdi, böyle bir ön gereksinimi karşılamanın yalnızca iki yolu tahmin edilebilir: birincisi, ahlaki bir yol; örneğin, hem adil hem de adaletsiz, her yerde ve hiçbir yerde, iyi ve kötü, güçlü ve zayıf olabilen bir tanrı icat etmek gibi; bu, Numen'in karakterinin putperest aşamasıdır ve
+açıkça her açıdan en çok itiraz edilenidir: diğeri fiziksel bir yol olurdu; örneğin hem maddi hem de maddi olmayan, soyutlama ve somutlama olan bir Tanrı'yı ​​gerektirir; veya, Akıl için daha da kafa karıştırıcı bir paradoks (İnancın kesinlikle müttefiki olmak yerine ona düşman olarak kabul edilir) için, bir aritmetik çelişki, bir cebirsel gizem, örneğin Bileşik Birlik fikrine dahil edilebilir; birçoğunu içeren ve birçoğunun bir araya geldiği. Bu tür bir bilmece
+Akıl'ın Tanrı'sının doğasına ilişkin tahmininde olasıydı. Bu, Hıristiyan yoludur; ve tamamen itiraz edilemez bir yoldur: çünkü İlahiyat kavramını
+alçaltmayan, O'nun Doğası ile ilgili tek aşılmaz zorluktur. Ancak başka hususlar da vardır.
+
+Çünkü, ikinci olarak. Kendiliğinden var olan Bir, muhtemel bulduğumuz gibi, bol miktarda sevgi dolu şefkat, taşan ve sürekli iyilik ile donatılmıştır. Böyle bir karakterin bir an için mutlak yalnızlıkla tatmin olabileceğini düşünmek mantıklı mıdır? Sonsuz iyilikseverliğin, olası herhangi bir başlangıçta, bir tür bencil teklik içinde var olduğunu keşfetmek mantıklı mıdır? Böyle bir varsayım, aydınlanmamış Aklın gözüne bile, o kadar açık bir şekilde _reductio ad absurdum_'dur ki, tüm ülkelerdeki ve çağlardaki insanlar, toplumun iyiliği için birden fazla Tanrı icat etmeye zorlanmıştır: ve ben onların, sonsuza dek bir olan ve birden başka bir şey olmayan İyiliksever Varlığa inanan bir adamdan daha önce daha bilge ve daha rasyonel olduklarını biliyorum. Birçok tanrının bir arada var olma olasılığının olduğunu ima ettiğimde yanılmış olmayayım: bu makul bir olasılık dışılıktı, daha önce gördüğümüz gibi, belki de ruhsal bir imkansızlıktı: ancak bahsettiğim önceki olasılık, Tek Tanrı'da birden fazla bir arada var olma olması gerektiğini gösteriyor: her biri, aritmetik gizemle, saçmalıkla değil, her şeye nüfuz ederek, eşit, her biri Tanrı'dır ve yine de üç Tanrı değil, tek Tanrı'dır. Burada rasyonel bir zorluk olması gerektiğini -ya da daha doğrusu, irrasyonel bir zorluk- Aklın önkoşulu olduğunu gösterdim: ve eğer ben veya herhangi bir başka yaratık, şimdi ve burada (ya da herhangi bir zamanda veya herhangi bir yerde, en yüksek cennetin yüksekliklerinde ve sonsuzluğun engin mesafesinde) böyle içsel bir zorluğu çözebilseydi, bunun kaynağı olan Tanrı'nın bilge tasarımına layık olmadığı açıkça görülürdü: bu, yaratılmamış her şeyi bilmenin yaratık zihnini şaşırtmak için ortaya koyduğu bilmeceyi kanıtlardı. Hayır. Gizem'e, Tanrısallığın doğasından ayrılamaz bir başka özellik olarak boyun eğmek çok daha makul ve çok daha saygılıdır; sayısal bulmacalar hakkında gevezelik etmekten ve
+insanoğlundan daha asil zekaların mutlu hali olan
+arzuyla bakmak ve keskin ve yüce zihinleriyle
+uygulamaktan daha akıllıca olmayan itirazlara dalmaktan daha iyidir.
+
+Ama henüz yapmadık. Üçüncü olarak,
+kendiliğinden Var Olan'ı oluşturan Kişilerin üçlüsü olarak adlandırdığımız
+Kutsal Birliğin önceden düşünülebilir uygunluğu veya uygunluğu hakkında
+birkaç düşünce daha atılması gerekiyor. Eğer Tanrı, bir anlamda bir olmasına rağmen, insani açıdan konuşursak, başka bir anlamda birden fazla görünme olasılığı varsa; bu tür diğer yakın Varlık veya Varlıkların olası doğasını önceden sorgulamalıyız: ayrıca, özsel birliğe böyle bir eklemenin kendisinin birden fazla mı yoksa sadece bir mi olma olasılığının olduğunu da. Bu sorulardan ilkine gelince: eğer, akıl varsayımına göre (ve ayrıca vahiyden öğrendiğimiz şeylere göre; ancak bu kitabı bölüm ve ayetlerle noktalamamak iyi bir politika olabilir) - eğer İlahiyat Kendini çoğaltmayı bu şekilde sevdiyse; o zaman, kendisi için bir başlangıç
+olamayan O, böyle sevmiş, böyle belirlemiş ve böyle yapmıştır, tüm sonsuzluktan beri. Şimdi, nasıl ortaya çıkmış olursa olsun, düşünülebilir herhangi bir yaratılışın bir başlangıcı olmalı, bunu istediğiniz kadar geriye koyun. Herhangi bir sayı dizisinde, ne kadar sonsuza kadar uzanırlarsa uzansınlar, başlangıç ​​en azından sabit bir noktadır, bir. Fakat, İlahiyatın bu çoğalması, bu karmaşık
+basitlik, bu karmaşık kolaylık, bu bariz paradoks, bu Bir'in bu alt-bölümü ve eklenmesi, ebedi iyilikseverliğin kendisini yalnız bulduğu anda gerçekleşmiş olmalı; yani, sonsuzlukta,
+ve düşünülebilir herhangi bir zamanda değil. Öyleyse, Varlık veya Varlıklar muhtemelen yaratıcı değil, İlahiyatın özünde olurdu. Ayrıca, ek bir argüman olarak, sonsuz ve her şeyi bilen Tanrı'nın her adil tahmininden, yaratıkları ebedi öğütlerine veya tabiri caizse, Kendisinin birleşik alt bölümleri, kişileri ve eşleri dışında, aşina bir şekilde alması gerektiğini varsaymanın bir fikir olduğunu ele alalım. Hayırsever Tanrı'nın ebedi yoldaşlarının da Tanrı olması gerektiği yönünde önyargıda bulunmak mantıklıydı. Ve böylece, (dilin yoksulluğundan dolayı adlandırmamız gereken) tek Tanrı'nın çoğalmasının yaratılmış varlıklar olmaması gerektiği; yani, ilahi olması gerektiği; her Kutsal Kişiye, Tanrılığın tüm harikulade özelliklerinin atfedilmesini haklı olarak içeren bir terim olan, önceden muhtemel görünüyor. Tekrar: İkinci soruya gelince; sözde alt bölümlerin iki, üç veya kaç tane olması muhtemel miydi? Mükemmel bir sayı olarak herhangi bir aritmetik merakı üzerinde ısrar etmenin akıllıca olacağını düşünmüyorum; ne de eşkenar üçgen ve özellikleri gibi bir oyuncak üzerinde; ne de her şeyde, bir başlangıçta, bir ortada ve bir sonda ayırt edilebilecek alt bölümlere ayırmanın kendine özgü yeteneği üzerinde; ne de her olgunun bir nedeni olduğu, bir sabitlik olduğu ve bir sonuç ürettiği düşüncesinde; ne de, üç sayısının öğüt, arkadaşlık ve sohbet için özel bir uygunluğu olduğu şeklindeki toplumsal düsturdan herhangi bir çıkarım yapmak için. Tamamen değersiz olmayan bazı benzer fantezilere de değinilebilir. Ancak, böylesine büyük bir tema üzerinde daha derin bir dalış ve daha yüksek bir uçuş denemek daha tercih edilebilir görünüyor. O zaman, her zamanki gibi saygıyla, her zamanki gibi eşit bir şekilde, Tanrı'nın entelektüel çocuklarının özgür doğmuş cesaretiyle, kaç tane ve hangi ayırt edici işaretlerle, Tanrı'nın (Yunanca: ost epos eipein) iyilikseverlik uğruna Özsel Birliği döktüğü kutsal varlıkların olacağını önceden tahmin etmeye çalışırdık.
+
+Yaklaşan bir yaratılış durumunda olduğu gibi, böyle bir yaratılışın Yaratıcısını etkilemek için hangi ilkelerin eylemde bulunabileceğini düşünelim.
+
+Her şeyden önce, İrade olurdu, sevgiyle güçlendirilmiş, yaratmaya yatkın bir irade: İlahiyatın bir aşaması, tüm zihinlere evrensel bir Baba adıyla uygun ve kapsamlı bir şekilde örneklendirilir: bu, Tanrı'nın birincil kişileştirilmesi olurdu. Ve öyle değil mi?
+
+İkinci olarak: (şüphesiz en uzak başlangıçlarda İyi Olan'ın tefekkürünü meşgul eden yaratılış fikrine özel olarak atıfta bulunarak) bir sonraki, tekrar ediyorum, tüm bu hayırsever görüşlere dikkate değer bir uyumla, büyük ilke fikri, İtaat; bir Babanın doğru yasalarına uyma, onun adil iradesine boyun eğme ve sevgiye sevgiyle karşılık verme: böyle bir aşama, yaratıklara Ebedi bir Oğul tarafından daha iyi gölgelendirilemezdi; görev bilinci olan ancak en yüce, tabi ancak eşit, sevimli ancak yüce Tanrımızın Avatarı. Bunun İlahiyatın ikinci kişileştirilmesi olması muhtemeldi. Ve öyle değil mi? Üçüncüsü: Baba ve Oğul'un ortak fikirlerinden ve böyle anında yaratıcı bir evrene benzer bir beklentiyle, orada Üretimin büyük fikri ortaya çıkacaktı; kudretli, eşit, saf ve
+hızlanan İtki: insanlara ve meleklere Kutsal Ruh olarak uygun bir şekilde duyurulmuştur. Bu, İlahiyatın üçüncü kişileştirilmesi olacaktı. Ve
+öyle değil mi?
+
+Bunların hepsinden - önceden bilinen gerçeğin aydınlatması altında,
+önceki olasılık yönleriyle konuşuyorum. Daha olası
+Kişiler açısından, en azından bir tane icat edemem. Düşünceme göre,
+bir dördüncüye veya daha fazla İlkeye
+ne ihtiyaç ne de uygunluk vardır. Eğer
+bir başkası yapabiliyorsa, o zaman bir niteliği mantıksızca yıkıp
+bir ilke olarak kurmamasına dikkat etsin. İtaat bir nitelik değildir; ne de Oluşum; ne de İrade: Sevgi niteliği, her şeye
+dayanarak, bu tek olası üç İlkeyi gizemli bir uyum içinde Bir olarak bir araya getirir. Yanlış anlaşılmak istemem; kişiler ilke değildir; ancak ilkeler kişilerde örneklendirilebilir ve dahil edilebilir. Üçlü boyunca belirgin bir şekilde işleyen Temel Sevgi, onları içgüdüsel olarak Bir olarak birleştirir: tıpkı Bilgelik niteliğinin tasarladığı gibi,
+ve Güç niteliğinin Tanrısallığın tüm düzenini düzenlediği gibi. Ve şimdi Akıl'a, keskinliği varsayarak, bu büyük doktrinlerin olasılığına olasılık hesaplamasıyla ulaşıp ulaşamayacağını soruyorum: Tanrı'nın doğasının görünür bir çelişki olması: böyle bir çelişkinin ahlaki değil, fiziksel olması; ya da daha doğrusu, maddi olmayan ve daha derin olarak metafiziğe doğru yönelmesi: Tanrı'nın, Bir olması, yine de, büyük Sevgisinde, Kendisi tarafından sonsuzluktan beri harikulade bir şekilde eşlik edilmiş olması: ve böyle Kutsal ve Birleşik Kardeşliğin, tüm gelecekteki evrene sevgi, itaat ve üretimin parlak, yaklaşılmaz örneği olarak hizmet edecek kadar akıllıca tasarlanmış olması, böyle Üçlü Birlik'in kendisi yaratılmamış olarak var olması.
+
+GÖRÜNEN TANRILIK.
+
+Şimdiye kadar İlahiyat üzerinde, niteliklerle donatılmış Ruh üzerinde kafa yorduk: ve O'nun doğası hakkındaki bu fikir, bir yaratılıştan önceki tüm gereklilikler için yeterliydi. Böyle bir yaratılışın başladığını varsaydığımız herhangi bir başlangıçta, ister şimdiki zamandan [Yunanca: kosmos] sayısız çağlar önce, ister sadece yeryüzünün kabuğunu hazırlamaya yetecek kadar bir zaman olsun; ve yaratılışın yayıldığını hayal ettiğimiz ölçüde, ister o uzak dönemlerde başlangıçta sadece bizim sistemimize ve daha sonra ona eşlik eden yıldızlara, galaksilere ve gök kubbelere; ister aynı anda, göklerimizin hiç olduğu uzaya maddi varoluşu dökmüş olsun: yaratılış ne olursa olsun, ne zaman ve nerede olursa olsun, Tanrı'nın bir kişisinin, bir şekilde, az ya da çok somut bir şekilde tezahür etmesi; yani, bu yaratılmış zihinlere ve duyulara daha büyük veya daha küçük bir ölçüde görünür hale gelmesi olası görünmektedir. Dahası, en azından bu tür yaratıklara yoğun bir ibadet amacıyla, O'nun ara sıra veya belki de alışkanlıkla yerel olarak görünmesi. Demek istediğim, tüm ruhsal hükümdarların Kralı ve bizimkinden daha parlak dünyaların alt düzey Ekselansları, melekler dediğimiz şeylerin Egemeni, bu tür hayranlık duyan yaratıklar tarafından daha iyi bilinmeyi ve daha uygun bir şekilde kavranmayı, bazı olağan görkemli biçimlerde ve bazı alışılmış kutsal yerlerde istemelidir. Herhangi birinin Tanrı'yı ​​salt Tanrı olarak görmesi değil; ancak, onlara göre Tanrı olarak, Kral, Yaratıcı ve tüm makul ibadetin Nesnesi kapasitesinde. Tanrılıktaki Kişilerden en azından birinin bu amaçla bir görünürlük edinmesi ve O'nun hayranlık mahkemesini şu anda sonsuza dek Cennet dediğimiz gibi merkezi bir dünyada tutması önceden olası görünüyor. Böyle bir olasılığın, bir cennet ve Tanrı'nın biçimiyle ilgili olarak insan öngörüsünde var olduğu, şimdi tüm ulusların tanıklığının doğrulamasına izin
+verelim. Bir buluttan bir timsaha kadar her şekil ve AEther'den Tartarus'a kadar her yer, insanın sözde tanrılarıyla
+oldukça mantıksız olmayan
+düzeni tarafından iskan edilmiştir. Ancak
+sonraki argümana düşmemeliyiz: önceki olasılık bizim
+daha zor konumuzdur. Bu bölümde, cennetin yerinin olasılıklarını da denemeyeceğiz: bu daha
+uzak bir sayfada bulunacaktır. Burada, Tanrı'nın görünür bir evresinin olması gerektiği yönündeki önceki güvenilirlikten ve bir yaratılış olur olmaz, bu yaratıklarına en çok hangi biçimde görüneceğinden bahsetmek zorundayız. Öyleyse, ilkine saygıyla. Yaratıklar, sonlu olduklarından,
+sonsuzu yalnızca birlik niteliğiyle kavrayabilirler: diğer nitelikler sonlu evrelerde kavranır (veya kısmen kavranır). Fakat, birlik tamamen entelektüel bir düşünce olduğundan, ahlaki duyguların ötesinde, yüksek ve kuru bir düşünce olduğundan, manevi, yani şefkatli bir ibadetin gerekliliklerinden hiçbirini içermez; böyle bir ibadet, iyiliksever bir Varlığın, yaratıklarının mutluluğu için, kendisine emir vermesi ve ilham etmesi muhtemeldir. Dolayısıyla,
+bu tür bir ibadet ve akıl yoluyla hareket eden bu tür bir ilham için, İlahiyatın Kendisini özellikle o göksel Örnek, Tek Yüce Öz'ün Üç İlahi Kişisi ile ilgili olarak
+göstermesi uygun görünüyor. Ve benim düşünceme göre, bu görüşle, ikincil aşama, sevgi dolu İtaat, birincil aşamanın emri altında, sevgi dolu bir İrade ve üçüncül veya birleştirici aşama tarafından enerjilendirilen, sevgi dolu bir Hızlandırıcı Varlık, Tanrılığın görünür tipini almalı ve böylece tüm dünyaların ibadetini Kendisine yoğunlaştırmalıdır. Daha basit ve daha derin, karmaşık amaçlarına daha hayranlık verici şekilde uygun bir plan düşünemiyorum, Tanrısallığın doluluğunun bedensel olarak ikamet ettiği O'nun, Tanrı biçimini alması ve böylece gökteki, yerdeki ve yer altındaki bölgelerdeki her diz O'na eğilmesi. Tüm bunların makul bir şekilde aranması ve daha sonra Kutsal Yazılar tarafından, Tanrı'nın Adem, Enoch, İbrahim, Petrus, Yakup ve Yuhanna ile yürüdüğü, Tanrılığın görünür bir evresine sık sık yaptığı göndermelerle test edilmesi
+değil miydi? Soruyorum, durum bu değil mi?
+
+Kısaca değinilmesi gereken son nokta, Tanrı'nın kendisini görünür kılarak, O'nun olarak tanınması için yeterince tanıdık olan, olası şekli dikkate alır. Ve burada
+Zamanın ileri akışına bakmalı ve Tanrı'nın bundan sonra yaratacağı yaratıklar arasında arama yapmalı, böylece
+sık sık içinde yaşayacağı formun bazı iyi sebeplerine, bazı önceki olasılıklarına varmalıyız. Örneğin, saf ve ruha benzer bir doğa olan ateş,
+akla aykırı bir tahmin olmazdı: ancak bu, daha mütevazı ekonomik kullanımlarının yanı sıra, doğal amblemin putperestliğini tehlikeye atardı.
+Aynı şekilde ışık da mantıksız bir düşünce olmazdı. Ve Tanrı'nın, görünüşte bizimkinden daha yüksek bir doğaya uygun olan bu saf özlerden birine veya her ikisine de yatırım yapabileceği ve muhtemelen yapacağı doğrudur: ancak o zaman
+parlaklığa ve yanmaya bir çekirdek olurdu; bunlar
+İlahiyat'a bir perde gibi olurdu; Gerçekten görünür olmadan önce, perdenin bir kenara kaldırılmasına ihtiyacımız olurdu: Tanrı'nın biçimi olacak olan (ateş veya ışık değil) çekirdeği parçalamak zorunda kalırdık. Benzer itirazlar, kendi başlarına veya putperest eğilimlerinde, bulut, gökkuşağı veya melek (böyle bir varlık neye benzeyebilirse) veya aslında meleksel durum kadar iyi veya bulutun durumu kadar kayıtsız olsun, düşünülebilecek herhangi bir başka yaratığa karşı olurdu; İlahi Varlık, sık sık varsaysa da, yine de her durumda böyle sıradan bir yaratıkla birlikte varsayardı ve tamamen tekeline alamazdı. Yani; Tanrı bir bulut veya gökkuşağı şekline sahip olsaydı, sıradan bulutlar ve gökkuşağı da düşünülen tanrılar haline gelirdi. Akıl, bu tür yaratılmış ve fazlaca kayırılmış şekillere karşı bu itirazı önceden tahmin ederdi: daha fazlası; her durumda, bir tanesi hariç, o
+açıkça uygun ve olası bir tür aramakta oldukça zorlanırdı. O tek durumun bu olduğunu ayırt edebilirdi. Tanrı tarafından
+başlangıçtan sona kadar her şey bilinir: ve O'nun önceden bilmesiyle,
+Akıl, (daha sonra göreceğimiz gibi) kehanet etmek için aydınlanmış olabilirdi ki, kesin bilge ve iyi amaçlar için, Tanrı'nın çocukları olarak adlandırılmaktan sevinç duyan binlerce kişiden büyük bir aile, itaatsizlik yoluyla en belirgin şekilde O'ndan uzaklaşacaktı; ve böylece, varlıklarının yok olmasını değilse bile, en azından Kutsanmış Olan'dan sonsuz bir şekilde ayrılmayı kazanacaktı. Açıkça, Tanrı'nın bilgeliği ve iyiliği, böylesine kaybolmuş bir ırkın kurtuluşu için bir plan tasarlamaya istekli ve hızlı olurdu. Neden onların düşüşüne izin vermesi gerektiği
+uygun bölümünde saygıyla açıklanacaktır; bu arada, Tanrı'nın, öncelikle, hakikat ve adaletle tutarlı herhangi bir teoriyle
+ve sonra da güç ve düzenekle, bu günahkâr aileyi
+kınamanın çukurundan tekrar kaldırması nasıl olasıdır? Nedeni
+soruyu iyi araştırmaktır: ve çok düşündükten sonra,
+sadece tek bir olası yol olduğu gerçeğine varacaksınız. Her şeyin
+Büyük ve Kendiliğinden Var Olan Yaratıcısına karşı isyan, zorunlu olarak
+sonsuz cezayı içermelidir; yalnızca O sonsuz olduğu ve onun sonsuz yaptırım yasaları olduğu için. O zaman sorun, adaletin böyle bir ihlal durumu için talep ettiği sınırsız cezayı nasıl uygulayacağımız ve
+ancak sevginin talebiyle tutukluyu serbest bırakmanın nasıl olacağıydı: nasıl adil olunacağı ve
+aynı anda suçlunun haklı çıkarılacağı. Bu, tek başına Tanrı tarafından muhteşem bir şekilde çözülmüş bir soruydu: muhteşem bir şekilde çözülmek üzereydi, çünkü
+argümanımıza göre, Üçlü Tanrı tarafından, harikulade bir şekilde kendi kendini ilgilendiren bir konseyde olası görünüyordu. Çözüm mantıklı olarak şu olurdu. Kendisi,
+evlatça itaat karakteriyle,
+kendisine karşı mutlak bir ceza ödemeliydi,
+kendisi canlandırıcı bir ruh karakteriyle, kurtarılan aileyi ölümden hayata, kötülüğün gücünden iyiliğe geri döndürmeliydi. Bu en
+olası, en makul şekilde olası bir plan değil miydi? Tamamen akıllıca ve felsefi değil miydi, aynı zamanda zavallı insanlara karşı tamamen cömert ve nazik değil miydi?
+
+Ve (şimdiki konumuza dönersek), Tanrı Oğlu'nun (öyle söylemek gerekirse) daha sonra yeryüzünde alacağı şekilde, cennetin ebedi tahtında
+görünmesinin önceden beklenmesi
+gerekmemiş miydi? Bir şekilde, ne kadar yüceltilmiş ve eterikleştirilmiş olursa olsun, ışık kadar parlak, ışıldayan bir yüz ve giysiyle, yine de o daha mütevazı şekle benzeyen, İnsanoğlu, daha sonra olasılıklar çemberi tarafından Tanrı biçiminde yaratılacak olan; günahkârlığından dolayı, diğer dünyaların veya bu [kahraman tapınma başka ve tamamen daha düşük bir şeydir; burada gerçek putperestliklerden bahsediyoruz:] tanrılaştırılmaya tabi olmayan bir şekilde - böyle bir şekilde Tanrı'nın görünür olmaya tenezzül etmesi ve Cennetin merkezi Güneşi olan Tezahür Eden Tanrı'yı ​​parlatması olası değil miydi? - Bu olasılık, Enkarnasyon hakkındaki akan düşüncelerimizden önce, ancak bir ölçüde onları önceden tahmin ederek, yakında ortaya konacak görüşlerden daha fazla ışık alacaktır. Aşağıdaki önerinin ek olarak bir şeye daha ihtiyacı olduğunu bilmiyorum; yani: hızlı hayal gücümüzü
+ne kadar yükseltebilirsek ve araştırıcı aklımızı en uç noktaya kadar uzatabilirsek,
+tüm yaratıcı enerjilere ve zihnin güçlerine rağmen,
+bir Homeros sözcüğünde [Yunanca: theoeides]
+daha güzel, daha asil, rasyonel bir zekanın içinde yaşamaya daha layık,
+tanrısal yüceltilmiş ve eterikleştirilmiş insan biçiminden daha değerli bir şekil
+düşünemeyiz. Bunun,
+Akıl'ın inancının doktrinlerindeki herhangi bir antropomorfizm suçlamasına kısa cevabı olarak hizmet etmesine izin verin: Tanrı'nın yarattıklarına
+gösterilmesi muhtemeldi; ve O'nun eserinin böyle sonsuz başlangıçlarında böyle bir vahyedilmiş özün biçimine gelince, hepsinden daha olası olanı, O'nun gelecek çağlarda, tüm zaferlerin en görkemlisini, sonsuz adaletin sonsuz sevgiyle merhametli uzlaştırılmasını, Tanrı'nın günahkarları bağışlamasının bilge ve harikulade planını kazanmaya kararlı olduğu şeydir.
+
+KÖTÜLÜĞÜN KÖKENİ.
+
+Şimdi, sonlu anlayışa şimdiye kadar sunulmuş en karanlık ve en derin bilmecelerden birini, kötülüğün _a
+priori_ olasılığını açıklamaya çalışmak uygun olacaktır: aklınızda bulunsun, onun sonsuz varlığı değil, ki bu yanlış bir doktrindir; ama en erken yaratılmış varlıklardan itibaren muhtemel geçişi, ki bu gerçektir. İlk bakışta, hiçbir şey daha olasılık dışı görünemezdi: Tanrı'nın tanınan nitelikleriyle daha tutarsız hiçbir şey, hata, acı ve üzüntünün O'nun eserlerine karışmasıydı. Bunlar, O'nun sevgisinin kendiliğinden doğan yavruları, (hepsi akıllıca olmasa da) iddia edilebilir, her zaman iyi ve mutlu olmalıdır - çünkü Kendisi kadar mükemmel. Çünkü mükemmel mi? - İşte mantığın hemen ortaya çıkaracağı yanılgı burada yatar. Mükemmellik hiçbir olası yaratığa atfedilemez: mükemmellik sonsuzluğu savunur ve sonsuzluk Tanrı'nın ayrıcalıklarından biridir. Bir yaratılış ne kadar iyi, "çok iyi" olursa olsun, yine de, özsel sonluluktan dolayı, aslında tamamen kusursuz tek durum olan En İyi'nin gerisinde kalmalıdır. Örneğin, hiçbir yaratığın tek gerçek standart olan Tanrı'nın bilgeliğinden eksilmeyen bir bilgeliğe sahip olduğu düşünülemez: başka bir deyişle, her yaratık az çok bilgelikten uzaklaşmış, yani deliliğe doğru gidiyor olmalıdır. Tekrar; hiçbir yaratığın, Yüce Olan'ınkiyle eşit sayılabilecek kadar lekesiz bir
+saflığa sahip olduğu varsayılamaz:
+başka bir deyişle, ne insan, ne melek, ne de başka bir yaratık, daha fazla veya daha az olmayan var olamaz -pozitif olarak kirli demeyeceğim,
+ama- negatif olarak kirli. Dolayısıyla, yaratılışın doğum izi
+bir deliliğe ve saflığa doğru bir eğilim olmalı.
+Yaratıklar fikri, en büyük ihtiyacı olarak, bu mükemmellikten kaynaklanan yayılımların kusurlu olması ve bu
+saflığın çocuklarının
+saf olmayan bir şekilde büyümeye meyilli olması gibi niteleyici bir cümleyi içerir. Ya böyle bir doğaya sahip olmalılar ya da Tanrı'nın özünden var olmalılar, yani İlahiyat'ın diğer kişileri ve evreleri olmalılar: böyle bir durum kesinlikle mümkündü; ancak, daha önce
+gösterdiğimiz gibi, olası değil. Ve, bahsettiğimiz türden bir kurtuluşun sonucu olarak, yaratıkların Tanrı'ya aşılanarak O'nun o kadar bütünüyle bir parçası haline gelmeleri mümkün olabilirdi -kemik kemiği, et eti ve ruh ruhu- ki bu tür kutsanmış varlıklara bir nasihat makul bir şekilde "Mükemmel olun" şeklinde olabilirdi. Fakat Tanrılığın kurtuluştaki bu sonsuz cömertliği, Yaratıcı olarak O'nun lütufları arasında bulunamazdı. Gerçekten de daha sonra, düşmüş yaratığı İlahiyatın güvenli bir yerine yeniden yerleştirerek ortaya çıkabilirdi: ve şimdi ortaya çıktığını biliyoruz: "O'nda tamamız."
+
+Fakat bu, alakalı olsa da, bir konudan sapmadır. Geri dönerek ve tüm yaratık mükemmelliğine karşı daha fazla argüman üretmek için; Hadi, sınırsız sevgisiyle kudretli Yaratıcının, her biri diğerine giderek daha fazla tabi olan, her biri kendi türünde iyi ve kendi yolunda mutlu, ancak yine de hepsi yaratılmamış Mükemmelliğin yüksek standardından az ya da çok uzakta olan uzun bir varoluş sınıfları zinciri oluşturmayı istemesinin ne kadar mantıklı göründüğünü düşünelim. Bu inen bağlantılar, bu aşağı doğru derecelendirmeler, kötülüğe daha yakın veya daha uzak bir yaklaşımı içermelidir. Şimdi, Kötülüğün bir ilke değil, bir sapkınlık olduğunu aklımızda tutmalıyız: o, yalnızca bir inkar, bir sınırlama, iyiliğin bir bozulması anlamına gelir, soyut karşıtlığının onuruna değil. Tanıdık ama yanıltıcı bir şekilde, kötü ilkeden, iyiye zıt olandan bahsediyoruz: sağlıkla zıt olan nozolojik ilkeden; veya ışıkla zıt olan karanlık ilkesinden de bahsedebiliriz. Bunlar zıttır, ancak çelişkili değildir: olumlu bir varoluşları yoktur, yalnızca göreli bir varoluşları vardır. İyilik ve kötülük gerçekten düşmandır, ancak başlangıçta bir
+sağlam dostluk vardı: bir yaratılışın sonucu olan ince başlangıçlar, gedik açmaya başladı: iç savaş ilkel bir barış durumundan
+çıktı: imgeler bizi hatalara sürükledi, ya da yanlış yorumlanma riskine karşı bir protestoyla ekleyebilirim ki, kardeşler gibi
+ölümcül bir nefrete dönüşmüşlerdi, yine de başlangıçta iki düşmanca ve zıt yarımküreden değil, tek bir baba ocağından
+çıktılar. Ancak, Tanrı'nın kötülüğün yazarı olduğu anlamında değil; Tanrı'nın işçiliğinin, sonlu yaratığın, iyiliği zorunlu olarak çarpıttığı anlamında. Kötülüğün kökeni, yani doğuşu, gerçek ve açık bir terimdir:
+orijinal kötülük, yani ona hiçbir doğum vermemek, tüm yaratılmış şeylerin öncesini vermek, Tanrı ve iyiyle tüm sonsuzluktan itibaren paralel gitmesine izin vermek, bu yanlış ve belirsiz bir terimdir. İyiliğin çarpıtılıp bozulması; bilgeliğin giderek daha az bilgeliğe veya aptallığa doğru azalması; gücün giderek daha fazla aptallığa doğru yozlaşması; doğrudan bir yaratığın Yaratıcı'dan çıkması gerektiği; ve astronomi veya jeolojinin istedikleri tarihi adlandırmasına izin verin: Adem kesin bir tarihtir; belki de ilk günün -veya dönemin- işidir: ancak Yaratılışın Başlangıcı tarihsizdir. O zaman, yaratığın kesin doğru çizgiden zorunlu sapması izlenimi altında, sapmalar aramak mantıklı olurdu: Tanrı'nın - adil, iyi, saf ve bilge - "meleklerini delilikle suçlayabilmesi" gerektiğini, gerçekten de "göklerin onun gözünde saf olmadığını" ilan etmesi gerektiğini varsaymak mantıklı olurdu. 
+
+Dahası; akıl yürüten yaratığın akıllıca bir şekilde aşağılanması ve yaşamın, ışığın ve her şeyin tek Kaynağının adil bir şekilde yüceltilmesi için, bu ilk yaratılmış varlıklardan veya meleklerden bir veya daha fazlasının, muhtemelen en uçsuz bucaksız yükseklikten ve ilk başta en zayıf başlangıçlarla, giderek daha aşağı, deliliğe, kirliliğe ve Tanrı'nın mükemmelliğinden tüm diğer ihmallere düşmesine izin verilmesi olası bir şans olurdu (ki bu da kısa süre sonra gerçekleşecek değerlendirmelerle daha da olası hale gelecektir). Bir zamanlar benzersiz olan çizgiler, bir kontrol olmaksızın, sonsuza kadar daha da uzaklaşırdı; gerçi, ilk sapma zamanla ortaya çıktı. Başlangıçta yavaşça düşen aerolit, inişin kulaçlarını çoğalttıkça hızla artar: ve eğer uçurum gerçekten dipsizse, bir kontrol veya geri dönüş ne kadar
+imkansızdır.
+
+Böyle korkunç bir örnek, yalnızca bir ders ve uyarı için bile olsa, makul bir olasılık anlamına gelir: tüm zeki hiyerarşilere, yüksek fikirli olmayın, korkun; tüm sorumlu varlıklara, doğruluğu ve saygıyı koruyun ve Tanrı'yı ​​sınamayın; tüm Erdemlere, Egemenliklere, İtaatlere ve bilinmeyen görkemli dünyaların uygun Bağımlılıklarına, iyilik, bilgelik ve saflık çabalarında ruhsal enerjilerini azaltmalarına ve büyümelerine izin vermemelerine yönelik yüksek sesli ve canlı bir öğüt. Bir
+yaratık hali, mutlu olmak için, ilerici bir hal olmalıdır: ilerleme
+kabiliyetleri, eksikliği veya iyilikten bir eğilimi savunur: ve ilerlemenin kendisi, tembelliğin kötülüğe geri dönmesini önlemek için bir mahmuza ihtiyaç duyar.
+
+Ek olarak: bir yaratığın Tanrı önündeki mükemmelliğinin, özgürce sunduğu makul hizmet olduğunu hatırlamalıyız: özgürlük, tehlikeli
+ayrıcalık, seçimi içerir: ve seçim, hata olasılığını gerektirir.
+Rasyonel bir zekaya verilen emir, bunu yap ve
+yaşa; yapma ve öl: eğer yaparsan, iyi yapılmış, iyi ve
+sadık bir hizmetkar olursun; kendi cennetten gelen çabalarınla, sonsuz mükemmelliğe doğru daha yüksek bir yaklaşıma
+yükseldin; sadece bir yaratığın değil, Rabbinin sevincine gir. Ama yapmazsan,
+vay haline, değersiz ücretli; Sen, seni Yaratıcına bağlayan bağı kopardın - itaat, mutluluğun kökü; sen yaşamaya devam ediyorsun
+gerçekten, çünkü her şeyin Yaratıcısı başlangıcını iptal etmiyor veya sonlandırmıyor; ama bundan sonra varlığın, depremlerin yatağından ayırdığı bir nehir gibidir ve barışın güzel otlakları ve sonsuz doğruluğun dağ kökleri arasında sonsuza dek akmak yerine, aşağı doğru olan rotan parçalayıcı, baş aşağı, çalkantılı ve yıkıcıdır; burada kara boğazlı girdaplar, orada miasmatik bataklıklar, bir şelale, bir sığlık, bir akıntı; ta ki acımasız dere, kendi isyanının kısırlaştırdığı kayaların arasında çırpınarak, dinlenmeyen sularını Sahra'nın susuz kumlarına dökene kadar. Gerçekten de (doğru olduğunu bildiğimizden beri) her şeyin cömert Vericisi'nin, vakaların büyük çoğunluğunda, daha zayıf ruhsal çocuklarına gizli bir yardım sunması muhtemeldi; sürekli itaat etmekten uzak olmaktan çok, bunu o kadar kesintisiz bir şekilde daha kolay ve daha mutlu bulmaları gerekiyordu ki, doğaları çok geçmeden bu yaygın alışkanlıkla aşılanacaktı: ve böylece, herhangi bir yaratık ne kadar uzun süre dik durursa, o kadar güçlü bir şekilde doğruluk içinde dinlenmeliydi; ta ki, çok uzak olmayan bir zamanda, onun düşmesi ahlaki olarak imkansız hale gelene kadar. Bu, yakında cennetin sayısız ordusunun binlercesinin, belki de neredeyse tamamının durumu olacaktır: ve o kalabalıktaki daha karanlık bir Birime gelince, herkesin iyiliği için, zekasını kanatlarını küstahça uçurmaya bırakarak ve bozulmamış iyiliğinin veya bilgeliğinin kullanılmamaktan paslanmasına izin vererek, o kutsal zırh delik deşik olana kadar; böyle mutsuz birine ve onun cilasını dinleyip isyanında ortak bir dava oluşturan diğer herkese (eğer başkaları varsa) gelince, soruyorum, Tanrı tarafından ona herhangi bir adaletsizlik veya hatta kabalık yapılmıştır? Böyle bir hainin olması için herhangi bir ahlaki olasılıksızlık veya böyle bir varlığın sonucu olarak Tanrı'nın niteliklerine yüklenebilecek herhangi bir haklı tutarsızlık nerededir? Kendisi olduğu şey için kendisinden başka kimi suçlayabilir? Ve böyle biri, kendi ellerinin işi olmayan hangi sefaletten şikayet edebilir? Ve Büyük Suçlu, Tanrısına karşı
+suçlamasın diye, beni neden böyle yarattın?--Cevap açık değil mi, seni yarattım, ama böyle değil. Ve cevaben, Beni neden yarattığın gibi tutmadın? Cevap adil değil mi, seni
+akıllı yaptım, seni başlangıç ​​noktasına götürdüm, sana öğrettim ve seni başlangıçta iyi yola koydum; sen zeki ve özgürsün ve
+Benim verme kapasitelerine sahipsin: neden lütfumu bir kenara attın ve Yaratıcının yüzüne uçtun?
+
+Genel olarak; sadece olasılıklardan bahsettiğimi düşün. Bu düşünce uçurumunda, hiçbir insan düşüşünün duymaya yetecek kadar uzun olmadığı bir derinlik var; bu labirentte hiçbir ölümlü ipucunun izleyemeyeceği bir labirent var. Bu gerçeği içerir, Yargıları ne kadar da araştırılamaz: Sen
+yollarını denizde saklıyorsun ve patikalarını derin sularda saklıyorsun ve
+ayak izlerin bilinmiyor. İnsanın argümanının zayıf noktası,
+şüphesiz ki Tanrı, eğer isteseydi,
+tüm evreni lütufkar gücüyle düşmekten koruyabilirdi; ve
+sevgi niteliğinin bunu yapacağını sonucuna varması, önerilen anımsamada yatar. Ancak, bu üç kısa değerlendirme daha da ileriye giderek
+zorluğu çözmeye ve zayıf noktayı güçlendirmeye yardımcı olacaktır; birincisi, sevginin yanı sıra onunla birlikte koşan başka nitelikler de vardır, hakikat, adalet ve değişmezlik gibi:--İkincisi, lütuf, herkese ayrım gözetmeksizin
+gösterilirse lütuf değildir: ve üçüncüsü, en azından bizim anlayışımıza göre
+İyiliğin sevimliliklerini ve Bilgeliğin düzeneklerini göstermenin olası bir yöntemi yoktur, ancak bazı fiziksel ve ahlaki kötülüklerin aşılanmış izniyle: Merhamet, iyilikseverlik, tasarım, en iyinin olduğu bir
+evrende hiçbir şey yapmazdı; evrenin kendisi, ilerlemekten aciz olduğu için
+durgunlaşırdı; ve Tanrı'nın mükemmelliklerinin başlıca kaydı olan kurtuluş kitabı yazılmamış olurdu. Öyleyse
+kötülüğün varlığı aklın hesaplamasında haklı değil midir? ve böyle bir
+varlık önceden var olan bir olasılık değil miydi?
+
+Bu konulardan, kısaca şöyle: Kısa bir özetle, yukarıdaki sebeplerden dolayı, cennetin tahtı etrafında gizemlerin muhtemel olduğunu düşünmenin zamanı geldi: ve göstermeye çalıştığım gibi, kusurluluğun gizemi, soyut değil somut bir şey olarak, herhangi bir yaratık evreninden türemiş olabilir. Akıl, bir Gordion düğümünün dolaşmış olabileceğini algılar; bol miktarda iyiliğin karmaşık karmaşıklıklarında, kendi eksiklikleri, bozulmaları ve sapkınlıklarıyla gerekli şekilde karışmış olması muhtemeldir: ve bunun Akıl tarafından önceden olası olduğu gösterilmiş olduğundan, onun zorlu katılımları artık fetheden İnancın kılıcıyla kesilmektedir. 
+KOZMOGONİ. 
+
+Bu derin temalar, doğaları gereği tatmin edici olmayan bir şekilde ve herhangi bir insani zayıflıkla dile getirilmiş olmasına rağmen, şimdi kendimizi zihinsel olarak kendi dünyamızın doğuşundan hemen önceki bir döneme taşımaya çalışalım. O zaman büyük bir olayın gerçekleşmek üzere olduğunun farkına varmış olmalıyız; bunun ardından, öngörülen sonuçlarından dolayı, cennet hiyerarşileri sevinçten haykırmaya ve Tanrı'nın kutsalları şükran için şarkı söylemeye hazır olurdu. Bu, sıradan bir yaratılış vakası değildi; sadece bir küre daha değildi, üçüncü sınıf önemsiz, milyonlarca daha yüksek ve daha görkemli övgü arasında: ama bir küre ve bir ırktı, karakter ve kaderde ve varoluşlarının yaygın sonuçlarında
+benzersiz olmak üzereydi. Üzerinde ve ailesinin üzerinde, evrenin hayranlığına, Tanrı'nın bizzat
+yaratılıştaki bozulmaya karşı gözle görülür bir şekilde kafa tutacağı ve
+bu olasılığı sonsuza dek böylece tekrar söndüreceği sahne tasarlanacaktı: O, Merhamet ve Hakikatin nasıl bir araya geleceğini, Doğruluk ve Barışın nasıl birbirini öpeceğini
+harika bir şekilde icat edecek ve gösterecekti. Orada, harika bir şekilde karmaşık bir savaş planı ortaya konulacaktı, bu plana göre, kuvvet, karşıt kuvvet ve her şeyi tek bir sabit noktada bir araya getiren tasarım, yaratıkta somut olan İyi, çekişme ve yaralar olmadan değil, yaratıkta somut olan Kötüyü ve her şeyi, "kötüler bile" Tanrı'nın niteliklerinin ihtişamında uyumlu bir şekilde harmanlanmış olarak görecekti. Mitolojik Pan [Yunanca: pan yapmak], büyük Evrensel Her şey, mücadeleyle derinden ilgileniyordu: çünkü kadının tohumu, yılanın başını ezecekti; sadece küçük küreye saygı duyulmakla kalmayıp, cennetin kendisiyle ilgili olarak, sınırsız "haysh hamaim", böylece korkunç Lucifer'in kovulacağı yerle ilgili olarak. Dünyada, etrafındaki daha gururlu güneşlerin hor görebileceği mütevazı bir parlaklık gezegeni, bu asil ve benzer sonucu sergileyecekti; insan gibi daha düşük bir zekanın, melek gibi daha yüksek bir zekaya karşı zaferi: çünkü, ilk ırk, ne kadar zayıf olursa olsun, doğalarının Tanrı'ya ait olduğunu görecek ve büyük örnekleri, liderleri ve kardeşleri olarak, tümün Gerçek Efendisi'ni insan kılığında giydireceklerdi; meleksel düşmüş kitle ise, tüm saf bilgeliklerine ve mükemmelliklerine rağmen, onu kaptanları olarak seçeceklerdi, felsefi olarak Rakipleri olarak adlandırılabilecek olan. Bu karanlık varlık, muhtemelen tüm yaratıkların en kudretlisi olarak, yozlaşmış iyiliğin ve başmelek bilgeliğinin sapkınlığının cisimleşmiş hali olarak, kendi aşırı hırslarının kurbanı olmak ve göksel ordunun üçte birini -yıldızların bazı yardımcı hükümdarlarını- beraberinde sürüklemek üzereydi: böylece o ve meslektaşları, diğer tüm yaratıklar için bir gösteri ve bir uyarı olacaktı; Ruhların ateşten harflerle okuması için, Yaratıcı ile yaratılmış arasında ne kadar büyük bir uçurum olduğunun derinden yanmış bir kaydı temsil etmek; türetilmiş zeka ile onun sonsuz Yaratıcısı arasında ne kadar aşılmaz bir bariyer olduğunu. İyiliğe karşı isyan eden böyle kutsal olmayan bir lider - ona _A_ veya _B_ diyelim,
+ya da neden çok ahenkli olmasın Lucifer ve Satanas? - cennetin böylesine yozlaşmış bir mükemmelliği, yaklaşan yeryüzü savaş alanında son ve kaçınılmaz
+utancıyla karşılaşacaktı. O zaman, yakında şekillenecek ve milyonlarca makul insanla
+dolup taşacak olan dünyamızın, evrenin bakışını kendisinde yoğunlaştırması ve içinde yapılacak işlerden, insana derin ve sabit bir dikkat göstermesi olası değil midir: "sabah yıldızları
+birlikte şarkı söylemeli ve Tanrı'nın tüm oğulları sevinçten haykırmalıdır." Biz de, bize verilen güce göre, bu dikkati önceden biraz ayrıntılı olarak paylaşalım: her zaman olduğu gibi, temamızın uzunluğu ve genişliği hakkında çok az şey
+izlenebilir.
+
+Fiziksel bir bakış açısından böyle bir dünyanın ve bu yaratıkların doğası muhtemelen ne olurdu? Ve ahlaki bir bakış açısından ne olurdu? Bu soruları bölmek gerekli değildir: çünkü biri diğerine öylesine etki eder ki, daha doğrusu ikincisi birincisini öylesine yönetir ve kapsar ki, ikisini de kısaca bir olarak ele alabiliriz.
+
+İlk olasılık, İnsanın hem alçaltılması hem de yüceltilmesi gereken bir yaratık olması nedeniyle, sorumlu ve makul bir varlık olması gerektiğidir,
+her şey -kuralı kanıtlamaya yetecek kadar mucizevi istisnalar hariç- etrafındaki her şey de sorumlu ve makul olmalıdır.
+Başka bir deyişle, daha önce değinilen istisnalar hariç, bu dünyanın tüm dokusu meraklı bir zekaya neden ve sonuç damgasını taşımalıdır: kitleler içinse bu neden ve sonuç o kadar az müdahaleci olmalıdır ki, onların daha kolay dini Tanrı'yı ​​her şeyde hemen, dolaylı olarak değil, tanıyabilir.
+Örneğin: taş ve kömür vakalarını ele alalım; biri insanın mimarisi için, diğeri ise mutfak sıcaklığı için çok gereklidir. Şimdi, ancak
+basit dindarlık Yaratıcı'ya dünyayı bunlarla gerekli kullanımlar için böylesine depoladığı için teşekkür edebilir; daha bilgili, ancak daha az dindar olmayan bir anlayışa göre, Büyük Baba'nın _taş_ veya _kömür_ çabasıyla yaratılmamış gibi görünmeleri gerekir. Böyle bir görüş sıradan zihni tatmin edebilir: ancak düşünürler bir mucize için hiçbir sebep görmezlerdi; Mesih Lazarus'u ölümden dirilttiğinde, kefenleri ve sargı bezlerini de hazır ve gevşemiş halde bulmak felsefi bir hata olurdu. Yardımsız insan bunu yapabilir: ve yardımsız sıradan nedenler
+taş ve kömür üretebilir. Tarihsiz sellerin birikintileri, lavların periyodik akıntıları, durgun ve durgun göl ve şiddetli, patlayan deprem; bunların hepsi devreye girerdi ve mucize dediğimiz
+gereksiz, neredeyse mantıksız dediğim enerjiler değil. Bir zamanlar hayatla dolu olan kabukların bir araya gelmesi; ayrışmış minerallerin kristalleşmiş bir
+toprağı, bir zamanlar erimiş halde; karbonatlı yapraklar ve tropikal ağaç gövdelerinden oluşan bir kütle, uzun
+değişimlerle toprağın altına gömülmüş, bir zamanlar yeşil ve gür bir şekilde dalgalanmışlardı;
+bunlar ve başka hiçbir şey, insanın taşı ve kömürü olmamalıydı.
+Bu örnek, bu tür maddi yaratılışın makullüğünü etkiler. Benzer sorumlulukları olan
+bir başkasını ele alalım. Bu dünyada iyiyle kötü arasında bir mücadele olacağı için, insanın toprağının kabuğunun, insanın varoluşundan önce, kötülüğün, insanın kendi itaatsizliğini göz önünde bulunduracak olursak, yeni doğmuş olmasına rağmen, yine de önceden
+var olduğuna dair bazı izlerle işaretlenmesi beklenirdi. Başka bir deyişle: acı ve ölüme dair jeolojik kanıtlar olması muhtemeldi: devasa ichthyosaurus'un, acımasız çeneleri avına kapalı bir şekilde kayanın içinde sabitlenmiş halde bulunması; korkutucu iguanodon'un, sürüngen kabilelerinin bulunduğu tüm bir bölgeyi ıssızlaştırmış olmasının izlerini bırakması; volkanların, hayvan ve bitki yaşamının bol olduğu güzel kıtaları harap etmesi; kısacası, insanın ölümü insanın günahıyla gelse de, ölüm ve günahın insanın eseri olmaması: insanın sadece kafasına önceden var olan bir wo, devrilmeye karşı koyan bir kayayı çekmesi gerekiyordu. Dikkat edin,
+bu jeolojik fenomenler sadece benim anlamımın örnekleridir: ve
+bu benzetmeler doğru ya da yanlış olsun, argüman aynı kalır:
+benzetme kumu üzerine asla inşa etmeyiz, sadece onu burada ve orada
+zemine serpmek için kullanırız. Yine de, bu tür fosil örneklerinin
+girişinin bana akıllıca bir şekilde atılmış gibi göründüğünü kabul edeceğim, çünkü
+kutsal kozmogoni üzerine cahilce yorumlar
+kutsal bilimin gerçeğine karşı en saçma itirazları
+yükseltmiştir. Tek bir bilinen jeolojik gerçek başlığı bile yoktur ki, Yaratılış ve Eyüp ile kesinlikle uzlaştırılamaz olsun. Ama
+bu arada bu bir kelimedir: her ne kadar kafirlerin zavallı ve yetersiz zayıf kalelerinden birine karşı plansız bir şekilde hedeflenmemiş olsa da.
+
+ADAMS.
+
+O halde, bunların olasılıklar olduğunu ve tüm tezin tamamlanmış bir resim değil, sadece bir taslak olduğunu hatırlayarak, maddi dünyanın, insanın insan olarak yuvasının, sonradan bildiğimiz gibi, muhtemelen hazırlanmış olduğunu ima ederek bu şekilde ortaya attık. Peki, insanın kendi kişiliği, koşulları ve bireyselliği ne olacak? Dünyanın aynı anda birçok farklı ırkla mı, yoksa tek bir verimli tohumla mı, insan cinsinin her çeşidinden bir örnekle mi, yoksa bu çeşitleri oluşturabilen tek bir türle mi doldurulması olasıydı? - Cevap. Biri kendi başına çok daha olasıdır, çünkü bir şeyin birçok şeyden daha olası olması gerekir: ayrıca; Bilgelik ve Güç her zaman ekonomiktir ve biri amaca uygun olduğunda, gereksizlikler reddedilir. Bu tek tohumun, ürünüyle çeşitli bir küreyi, tüm hayal edilebilir koşullar ve iklim farklılıkları altında, kaplayarak, çağlar boyunca, İnsan cinsinin birçok türünü üretmesi, önceden muhtemeldi. Örneğin, ahlak, barış ve itaat, dönüştürücü güçler kullanırdı: zıtları, zıt bir şekilde benzer. Hindoo gibi, yumuşak ve nazik bir ırkın, önceki eğitimlerden türediğini ve Malay gibi, ışıldayan gözlere ve güçlü bakışlara sahip bir ailenin, nefret, savaş ve serbestlik durumundan türediğini hayal edebiliriz. Tropikal bir güneşin, cildin o hassas dokusunun bir kısmını kömürleştireceğini ve ayrıca hızlı kan ve şiddetli tutkular ekleyeceğini hayal edebiliriz: oysa bir arktik iklim, uyuşuk, bodur bir ırkı teşvik ederdi. Ve bu düşüncelere, rasgele birleşmeleri eklediğimizde, tüm insan ailesinin, tek bir kökten kaynaklansa da, nesiller boyunca, şu anda gördüğümüz gibi olması gerektiği gibi adil bir olasılığa ulaşırız.
+
+Dahası. Bu üretken orijinal, ilk insan nasıl yaratılmalıdır?
+Ve bir isim olarak ona Adem diyelim; orta rengine, kızıllığına atıfta bulunduğu için yeterince adil bir isim. Tamamen çaresiz, her fırsatta mucizevi yardım ve rehberlik gerektiren bir bebek olarak yere mi atılmalıydı? Yaratığın en pervasız ve kendini yönetmeye en az uygun olduğu o sıcak ve çalkantılı zamanda, çocuklukta mı yaratılmalıydı? Yoksa ilk olarak, itaat ve yönetime, ahlaki kontrole ve ahlaki enerjiye eşit bir şekilde, en olgun çağında bir yetişkin olarak mı fark edilmelidir?
+
+Şunu da buraya ekleyin; Üremelere gereksiz bir ara verilmesi olası mıdır? ya da daha doğrusu, böyle orijinal bir tohum, kendisine gelen boş dünyayı hemen yerine getiremez mi ve çok sayıda insan babası, doğumundan itibaren türünü çoğaltmak için uygun bulunmalı mıdır? Sorular kendi kendine cevap verir.
+
+Yine. Bu ilk insan, başlangıçta bir sonraki medeniyetin tüm aletleriyle çevrili, giyinmiş, barındırılmış ve yapay hale getirilmiş olarak mı keşfedilmeliydi? Ya da daha doğrusu, asil ve doğal olarak kraliyet görünümünde, doğal yaratılışın kralı, meyve bahçesinin tek koruyucusu, tüm yiyeceği bu şekilde kolayca hazırlanmış ve çıplaklığıyla ılımlı bir doğu iklimi olan bir şekilde hayat sahnesinde mi görünmeliydi?
+
+Şimdi, bu tek tohumun yalnızlığına gelince. Tanrı'nın iyiliği hakkında daha önce düşündüklerimizden, Yaratıcı'nın insanın yalnız olmasını iyi görmemiş olması muhtemel görünüyor. Başlangıçta bir olan tohum, büyük ebeveyni Tanrı'ya benzediği ve bölünebilir veya kişilere indirgenebilir olduğu kanıtlandı; ancak yaratık ve Yaratıcı arasında makul farklılıklar vardı. Kadın -Havva, yaşayan veya hayat veren- muhtemelen toplumla arkadaşlık etmek ve uyum sağlamak için bileşik tohum İnsan'dan türemişti. Dahası, desen yaratığı olan bileşik insanda, önceden bilinen bir düşüşün geri gelmesinden sonra, Yaratıcı'sıyla mükemmel birleşme halinde olduğu gibi, aynı yaratığın uygun, gizemli bir tiplemesinin olması bekleniyordu. _Sonradan_, mecazi kavram, Kurtarılmış ailenin veya mistik eşin, Kurtarıcı olan kocasına dahil olmasıdır: evlilik fikrinde değil, (seçimi göz önünde bulundurarak) bir birlikte yaratmada; sanki kaburga kaburga ve yaşam, çiftleşmemiş veya birleşmemiş, ancak varlığa karışmış gibi. Bu, derin araştırmaya en çok değer veren bir gizemdir; alçakgönüllü ve inanan Hıristiyanların daha az aydınlatılmamış zevkinden daha az olmayan felsefi ilgiyi hak eden bir gizemdir. Mesih ve kilisesi hakkında konuşuyorum.
+
+DÜŞÜŞ.
+
+Uzun zamandır bilinen ve artık muhtemel olarak algılanan bir gerçek, eğer insanlık itaatsizlikte başarısızlığa uğrarsa, bunun erkekten ziyade kadın aracılığıyla olması gerektiğidir. Çünkü,
+insan, _insan_ olarak ve tüm aşağı yaratıkların vekil başı olarak,
+Yaratıcısına, kadından daha yakındı; o, _kadın_ olarak, insandan
+çıktı. Kadın, tabiri caizse, Tanrı'dan, _ab origine_, bir adım daha uzaktı;
+bu nedenle, hata yapmaya ve düşmeye daha yatkındı.
+Kendi
+zihnimde, itiraf ediyorum, hiçbir şey Adem ve Havva'nın sade, kutsal kitaptaki hikayesinden daha önceden olası değildir: o kadar basit ki, çocuk bundan zevk alır; o kadar derin ki, filozof orada eşit ama daha makul bir sevinçle
+oyalanır.
+
+Çünkü, şimdi bir ayartmanın; ve bir düşüşün;
+ve hangi ayartmanın; ve ne kadar düzenli olduğuna dair olasılıklara gelelim.
+
+Göksel zekalar, model-adamı ve model-kadını,
+rasyonel varlıkları ve her açıdan "çok iyi" olarak gördüler. Düşman, bu yeni, gözde ırkın itaatinin bir testini talep ederek, kavga için soluk soluğaydı. Ve Rab Tanrı, önceden bildiği ve akıllıca amaçlar için izin verdiği büyük mücadelenin hemen başlamasını istiyordu. Gecikmenin ne faydası vardı? Eğer, Adem'in ahlaki güçlerini güçlendirmek için zaman vermek için cevap verirseniz: Ben de katılıyorum, o, iradesinin kapısından girmeyen her türlü ayartmaya karşı yeterince güçle
+doğdu: ve iradenin açık kapısına karşı ne zaman ne de alışkanlıklar işe yarayabilir. Dahası, deneme son derece basit olacaktı; zor bir perhiz olmayacaktı, çünkü insan bir tanesi hariç her şeyden özgürce yiyebilirdi; doğal bir tutku denenmeyecekti; zekanın hiçbir çabası gerekmeyecekti. Adem bir bahçede yaşıyordu; ve Yaratıcısı, makul itaatin kanıtı olarak, bunun en kolay ve açık testini sağlıyordu: o elmayı yemeyin. Gerçekten de, bu olası olmayan bir test miydi; uygunsuz bir test mi? Aksine, yeni doğmuş, akıl sahibi bir hayvana hitap edildiğinde en olası ve en uygun olan, hayal gücünün icat edebileceği veya her şeyin sevecen bir ön bilgisinin isteyebileceği şey değil miydi? Geriye bakmadan zorlu bir yüksekliğe tırmanmak veya hiçbir şekilde güneşe bakmak
+olsaydı, itaat etmek ne kadar da uygun ve kolay olurdu! Test için bu kadar.
+
+Şimdi, ayartma ve onun düzenlenmesine gelince. Bir yaratık, adil bir şekilde ayartılmak için, eşit veya daha düşük bir yaratık tarafından ayartılmalıdır; ve
+duyular aracılığıyla. Eğer salt ruh, ruhla ve maddeyle mücadele ederse, mücadele
+eşitsizdir: ikincisi tıkanmıştır; Retiarius'un ağında savaşmak zorundadır. Fakat ikisi de ağa takılırsa, ikisi de ruh ve maddeyse (yani, maddi yaratıklarsa), adaletsizlik yoktur. Bu nedenle, Düşmanın şahsen salt maneviyatından elle tutulur ve alçakgönüllü bir forma inmesi makul görünüyor. Bu, insanın veya insanın benzerliği olamaz: çünkü ilk çift, hepsinin insanlık olduğunu gayet iyi bilirdi: ve eğer Rab Tanrı'nın kendisi, onlar tarafından yüceltilmiş bir insanlık olarak görülmeye alışkın olsaydı, şeytanı benzer bir forma sokmak açıkça ahlaki bir uyumsuzluk olurdu. O zaman, başka bir yaratığın şekli olmalı; bir aslan veya bir kuzu gibi,
+ya da -neden bir yılan olmasın? Burada herhangi bir olasılıksızlık var mı? Ve daha ziyade, en azından şiirin, hatta daha sert bir düzenek icat edebileceği kadar, kıvrımlı ve kurnaz isyancının, tehlikeli, büyüleyici düşmanın uygun bir avatarı değil mi? Açık gerçek şu ki, Akıl - keskinlik verildiğinde - bunu önceden de bir olasılık olarak tahmin edebilirdi.
+
+Ayartmaya olası diğer ayrıntılar hakkında birkaç söz daha. Şu anki deneyimimizle bize ne kadar harika görünse de, ilk kadın durumunda, daha aşağı yaratıklardan biri tarafından insani bir ifadeyle rahatsız edilmesi onun şaşkınlığını uyandırmazdı; ve ayartıcı başka hiçbir şekilde onun zihnine ulaşamazdı. Milton'ın söylediği gibi, Havva yasak elmayı yiyen güzel bir yılan görür, ki bu da pek de olasılık dışı değildir. Doğal bir merakla yaklaşır ve yumuşak ve tatlı bir sesle yılan, yani kılığında Lucifer, ayartmayı fısıldardı. Muhtemelen ayartılmıştır. Bu güzel bahçenin güzel ve ayrıcalıklı hanımı, Yaratıcınızın sizi en seçkin meyvesinden mahrum etmesi mümkün müdür? Sadece iyiye yönelik potansiyellerini görün: Ben, zavallı bir sürüngen, anında bilgi ve konuşma ayrıcalığıyla donatıldım. Yemek için mi öldüm? - kesinlikle ölmeyeceksiniz; ama kendiniz tanrılar olacaksınız; ve bunu Yaratıcınız bilir.
+
+Bu şekilde gizemle donatılmış ve mantıksızca, hatta zararlı bir şekilde yasaklanmış bir şeyin gizli cazibesiyle renklendirilmiş olan harikulade meyve, o zaman kendi değerlerini sessizce savunmasına izin verilecekti. Yemek için iyiydi: genç bir yaratığın ilk düşüncesi. Gözlere hoş geliyordu: salt bedensel iştahtan, insanlar arasındaki iyi yetiştirmeyi belirleyen biçim ve renge yönelik zihinsel eğilimden daha yüksek bir duyguya hitap ediyordu. Ayrıca birini bilge yapmak isteniyordu; burada zirve, masum bir varlığın rahatlıkla alabileceği büyük ahlaki teşvik vardı;
+bu bilgeliğin Tanrı'ya rağmen
+seçilmesi gereken tek niteliğe bakılmaksızın. Şüphesiz, insan düşmemiş olsaydı, iyiliğin bilgisi asla uzun süre saklı kalmazdı: ama o, ürünü çok erken biçmeyi seçti ve onu yabani otlarla, iyi ve kötüyle karıştırdı.
+
+Vaaz biçiminde, temayı daha fazla uzatmama gerek yok. Daha zayıf yaratık olan Kadının, bir kez tuzağa düşürüldüğünde, kocasını da aynı şekilde tuzağa düşürmek için yeterince çekiciliğe sahip olması muhtemeldi: ve bu şekilde algılanan sonuçların olası olduğunu uzun zamandır gerçek olarak biliyoruz. Sapkın bir bilginin, büyük ahlaki Vali tarafından hemen bir tür giysinin kurulmasına neden olması muhtemeldi: ve yakınlarda hiçbir şey, aslında uygun başka hiçbir şey, sadece hayvanların derileri olurdu. Ayrıca, günah için yaklaşan kurbana ve bir tür atfedilen doğruluk için bir tür kurbana atıfta bulunarak, düşüşte anında bir tür öldürmenin gerçekleşmesi olasılığı da yüksektir. Tanrı, İnsanın kötü çıplaklığını masum öldürülmüş hayvanların derileriyle örttü: buna rağmen, günahları bağışlanan ve günahları örtülen kişi kutsanmıştır.
+
+Böyle bir düşüşten sonra iyileşmeye gelince. Eğer cennetteki boş yerleri, günahın boş kalmasına neden olduğu boş yıldızlı tahtları hesaba katarsak, bunun için dikkate değer bir ön olasılık var gibi görünüyor. Tıpkı, daha sonraki yıllarda İsrail'in Kenanlıların ve diğer yedi ulusun şehirlerine ve bahçelerine girmesi gibi, fidye karşılığında kurtarılan İnsan ırkının, Lucifer'in düşmüş ordusu tarafından işgal edilmeyen
+cennetsel yerler arasındaki konakların mirasçıları olması da önceden muhtemeldi. Doldurulması gereken bir boşluk vardı: ve muhtemelen onu dolduracak
+daha iyi bir ırk olacaktı.
+
+TUFAN.
+
+Geçmişteki ve gelecekte olacak olan bu tür temalar o kadar muazzamdır ki,
+her biri ayrı bir açıklama için bir cilt isteyebilir. Düşünceyle
+dolu birkaç tohum, dünyanın otoyoluna bırakmak için sahip olduğumuz tek şeydir. Irkımızın görkemli ana hatları ilk dikkatimizi çeker: durup her ayrıntıyı düşünüp konuşamayız. Bu nedenle, şimdi yoldaşımı ataerkil zamanlardan Tufan dönemine kadar taşıyacağım. Şimdiye kadar olduğu gibi, önceden spekülasyon yapalım, zihinlerimizi sanki meleksel bir
+önceki duruma atalım.
+
+Eğer, gördüğümüz gibi, kötülük (her zaman bir somutluk, bir
+soyutlama değil) sınırsız bir göksel yaratılış alanında bile algılanabilir tahribatlar yarattıysa, onun çığının (bir zamanlar kötü başlamış olan) ne kadar daha hızlı ve ezici olduğu, onun infazının yeri
+bir toprak parçasına hapsedilmiş zavallı bir grup erkek ve kadın olduğunda görülürdü. Çok uzun olmayan bir zaman diliminde, tüm dünyanın
+"Tanrı önünde yozlaşmış ve kötülükle dolmuş" olması ne kadar olasıydı. Bozulmamış insan hayatının büyük süresini hesaba katarsak, kötü insan ailesinin hızla tahammül edilemez bir suçluluğa dönüşmesi ne kadar olasıydı. Ve bu ilkel lanetin ve itaatsizliğin korkunç sonucu, Düşmanın zaferi olarak mı görülmeliydi? Bu
+Suçlayıcı--Sakson kelimesi Şeytan'dır--Tanrı'nın niteliğini iftira eden bu kişi
+gerçekten İyi'yi yenmiş miydi? Yoksa tüm bu kaynaşan günah, evrene Tanrı'nın
+yaratığını düşmemesi için durmadan tutması gerektiği ve O'ndan
+ne güç ne de bilgelik
+olduğu yönündeki büyük ihtiyacın korkunç bir haklı çıkarımı değil miydi? Tanrı, Adem'in veya bunun durumunda, şaşkına mı dönmüştü - ya da daha doğrusu haklı mıydı? Gerçekten başarısız olmuş bir deney miydi; ya da daha ziyade, tam da başarısızlığıyla, söz konusu noktayı, Tanrı'dan ayrı olduklarında yaratıkların sefaletini kanıtlayan bir deney miydi? Evet, kötü olan, üzücü Tarpeian zaferiyle, kendi ganimetlerinin altında eziliyordu: fetih ve çocuklarının günahları
+kendi sefaletini artırıyordu.
+
+Şimdi, bu kötü dünyanın felaketini etkileyen önceki olasılıklardan birkaçına değinelim. Tiplerin anti-tiplere göre içerdiği bu tür gizli görüşlere 
+dayanmak bizim için yeterli değildir. Ayrıca, suçlulukla kirlenmiş dünyanın suyla
+temizlenmesinin muhtemel olduğu gibi yaklaşan felaketin hayali veya şiirsel yönünü de ele almayacağız. Daha alakalı olarak, boğulmaktan daha hayırsever başka hangi şekilde, bir mucize olmadığı sürece, ırkın
+yok edilmesinin mümkün olabileceğini sormak daha iyidir? Hepsi günahları içinde ölecek ve Şeytan'ın sefil ordularını başka bir alanda şişireceklerdi. Onlar için hiçbir umut yoktu, çünkü
+tövbe yoktu. Tanrı'nın uzun süren ızdırabının, onların
+iyileştirilmesi için her türlü makul çabayı yıpratmış olması sonsuz derecede olasıydı. O zaman öleceklerdi; ama nasıl?--mümkün olan en az acı verici
+şekilde. Bağırsak savaşları, ateşler, kıtlıklar, dünyanın ve tüm milyonlarının genel olarak yanması, suyun kademeli olarak yükselmesiyle oluşan ölümden daha tercih edilebilir bir ölüm türü müydü, yaşam umudu son çağıltıya bile
+verildi? Elbette, "kötülerin şefkatli merhametleri zalimse", İyi olanın yargıları merhametle iyi bir şekilde dengelenir.
+
+Ayrıca, bu evrensel katliamın ortasında korunacak bir iyi tohum vardı: ve Cennet, ortak nedenin mevcut amaca uygun olduğu yerde asla bir mucize yaratmadığından, kötüleri, iyilerin yalnızca insanüstü bir araçla kurtarıldığını gösterecek herhangi bir araçla yok etmek tutarsız olurdu. İnsanlığın ve ilahi daha az müdahalenin düşünceleri, uzun zamandır görevlendirilmiş bir kuyrukluyıldızın doğal ve kolay aracılığını da ekler. Bu çaba için hiçbir "_Deus e machina_"ya ihtiyaç yoktu: Alevli ateşin hizmetkarlarından biri, su hizmetlerini çağırmakla görevlendirilmişti. Bu, kolay ve görkemli bir müdahaleydi. İnsan düştüğünden beri -evet, ondan
+çağlar önce- Tanrı'nın her şeyi bilen gözü, olması gereken her şeyi önceden görmüştü: ve her yerde bulunması, muhtemelen Başlangıçtan itibaren, bir kuyrukluyıldızı, hesaplanmış bir sürede, dünyayı bozulmalarından
+temizlemeye hizmet edecek olan, dünyanın yörüngesine tam geçiş anında
+çarpacak ve büyük derinliğin pınarlarını
+çekim yoluyla rahatsız ederek, geçici olarak seviyelerini yükseltecek olan, yanlış yoluna sokmuştu. Bu adil, yüce ve olası bir plan değil miydi? Merhametli, mükemmel ve değerli bir yol değil miydi? O vahşi savaş alanlarına veya salgın hastalık ve kıtlığın çürüyen yığınlarına leşleri kim gömebilirdi ki?--Ama Yehova'nın çağrısıyla, kuyrukluyıldızın kütlesine doğru yükselen, saf ve kudretli deniz, pis ve kudretli toprağı temizlemek için boğularak yatağından öfkeyle yükseldiğinde--cesetlerin yutulması ne kadar kolay; o evrensel gömülme ne kadar korkunç; su üzerine yazılmış anıtsal mezar taşı yazıtları ne kadar yerinde, "Kötüler, dinlenemeyen çalkantılı deniz gibidir"; üstlerinde kükreyen dalgalar tarafından boğulmuş ırk için söylenen sonsuz ağıt ne kadar korkunç: evet, hala kükreyen! Çünkü o kaotik saatte, toprağın okyanusla yer değiştirdiğini düşünmek olası görünüyor; böylece yeni insan ailesine yaşamak için taze ve genç bir dünya veriyor.
+
+NUH.
+
+Dünya, bu kadar kötüleşmek üzereyken, muhtemelen bu şekilde
+temizlenmiş ve yenilenmişken, insanın olası doğruluğunun büyük deneyinin başka bir biçimde tekrarlanması muhtemeldi. Savaş ve savaşçılar konusunda, yüksek meleksel bir zihnin bu tür bir düşünce dizisinden geçtiğini hayal edebiliriz. Bu şampiyonlar, Lucifer ve Adem, gerçekten birlikte eşleştirilmeye uygun muydu? Turnuva adil miydi; silahlar eşit miydi; sonuçta adil bir mücadele miydi? - bir tarafta, düşmüş ruh, hala güçlü, düşmüş olsa da, en kurnaz, en vicdansız, en kötü niyetli, Tanrı'ya karşı isyankar bir krallık yetiştirmek için her türlü enerjiyi sarf ediyor; diğer tarafta, yeni doğmuş, deneyimsiz, masum ve güvenilir bir yaratık, iştahları olan zavallı bir adam ve zihnindeki mutlak bilgi için olduğu kadar bedenindeki giysiler için de çıplak. Bu durumda, eşit bir mücadele miydi? o savaşın silahları adil bir şekilde eşleştirilip ölçüldü mü?
+
+Bu tür bir itirazın, en azından bir akıl gösterisine sahip olduğu için kabul edilebilir görünebileceğini varsayabiliriz: ve dünya, bahsettiğim şekilde tüm yaratıklarından
+temizlendikten sonra, çatışma için yeni bir şampiyon silahlandırılır, her bakımdan tamamen farklı;
+ve aklın görüşüne göre çok daha üstün.
+
+Bu sefer, yenilenen dünyanın Adem'i, tüm kayıp ailenin en iyisi ve en bilgesi, hatta tek iyi ve bilgesi olacaktır: ak saçlı alnında tam altı yüz yıllık deneyime sahip, uzun
+süreli
+yüzyıllar boyunca Tanrı ile birlikte yürümenin tarifsiz avantajına sahip, yirmi nesillik bir patriği, tek büyük ve sadık tanık, Yaratıcısının tek tapanı ve dostu olarak tanınan bir adam. Bundan daha iyi bir örnek düşünülebilir mi? Nuh, dünyanın karanlık ölümünün ortasındaki tek manevi "teselli" kıvılcımı değil miydi? ve o, şeytanın hilelerine karşı durabilecek en iyi
+savaşçı değil miydi? Gerçekten de, akıl, eğer Tanrı savaşı
+yenilemeyi uygun görseydi, insanın temsilcisinin Nuh olması gerektiğini tahmin edebilirdi.
+
+Bu yeni Adem'in, Tanrı ve akıl onu terk ettiğindeki ani düşüşüne de değinmeden önce, tufanda onun korunmasının koşullarına değinmek daha düzenli olacaktır. Elementlerin böyle bir karmaşasında, seçilen tohum nasıl hayatta kalabilir? Hiçbir ev,
+ne tepe, ne de sıradan bir gemi bu amaca hizmet etmez: hele ki hermetik olarak kapatılmış herhangi bir mağaranın veya mucizevi bir şekilde alt gök kubbenin üzerine kaldırılmış herhangi bir hava arabasının mantıksız planı hiç işe yaramaz. Açık ve basit kelimelerle ifade etmek gerekirse, bir ev ile bir dalış çanı arasında bir şeyden daha akıllıca bir yöntem düşünemiyorum; tamamen fırtınaya ve suya dayanıklı,
+yine de gerekli hava için tepesinde açık bir penceresi olan bir kap: diyelim ki bir kübit kare. Bu, sel baskınına karşı uygun şekilde örtülür ve deri borular, hava tünelleri ve benzeri cihazlar gibi havalandırmaya yardımcı araçlarla donatılırsa, uygulanamaz bir yöntem olmazdı.
+Ancak, bir dalış çanı olarak su altında olmak yerine, kap yükselen selde daha iyi yüzdürülebilir ve böylece sürekli olarak seviyesini koruyarak, sular yatıştığında karaya vurmaya hazır olurdu.
+
+Şimdi, bu geminin, bu yüzen kervanın boyutuna gelince, çok büyük olması gerekir; ve ayrıca inşası da çok zaman alır. Çünkü, yeni bir yaratılış olmadan devam etmek için sebep ve sonuç acı çektiğinden, varoluş okyanusunda başka bir dünyaya yelken açan bir adamın, (özellikle Tanrı'nın iyiliği bunu emrettiyse) medeni yaşamın bilinen tüm araçlarını yanında götüreceğini varsaymak mantıklıydı; ayrıca toplayabildiği her yaratıktan bir veya iki çift, ayrıca yenilenen dünyayı türlerindeki çeşitli mükemmelliklerine göre stoklamak için. Bu güçlü geminin uzun, zahmetli ve pahalı hazırlığı - ormanlar dolusu kereste içermesi ve inşasında nesiller tüketmesi gereken bir gemi; ayrıca fanatik yaşlı bir adamın tuhaf hayalleri için her türden tuhaf hayvanın dünyaca bilinen koleksiyonu; bahsetmeye bile gerek yok
+ayrıca eski Vaiz'in kendi fahişlik yüzyılı: tüm bu canlı uyarının kötülük ve felaket dünyasına etki etmesi ne kadar büyük bir
+ahlaki güçle hesaplanmış! İşte büyük tufan öncesi hükümdar, Nuh, çağların patriği, bizim hesaplarımızın ötesinde zengin--(aksi takdirde gereksiz bir mucizeler dizisi olmadan
+gemiyi nasıl inşa edip stoklayabilirdi?)--muazzam bir varlığa,
+iyi bir üne ve yüce bir konuma sahip bir adam, burada yüz yirmi
+yıl boyunca inanmayan işçilerin kalabalığı arasında, gerçekten de bu dünyanın tüm stoklarının örnekleriyle dolu olan, tek iyi ailemizle birlikte daha iyisini aramak için yelken açacak olan
+en abartılı bir gemi inşa etmekle meşguldü. Dahası, Nuh burada sevgili eski ana-dünyamızın kötülükleri yüzünden yağmur ve deniz tarafından yok edileceğini ilan ediyor: ve en azından kendi inancının sağlam bir kanıtıyla, başka hiçbir şeyle değilse bile, tövbe etmemizi ve Habil, Şit ve Enok'un ve bu iyi Nuh'un Yaratıcımız olarak temsil ettiği kişiye dönmemizi öğütlüyor. Bu tür alaylar ve sataşmalar olası olmaz mıydı: bunlar gelecek yargıyı yeterince haklı çıkarmaz mıydı? "Tanrı'nın uzun sabrı" "gemi hazırlanırken" bu şekilde denenmiş olmaz mıydı? Ve felaket geldiğinde, o kötü nesil buna karşı uygun şekilde uyarılmamış mıydı? Genel olarak, Nuh'un olduğu gibi kurtarılması gerektiği; geminin Yaratılış'ta okuduğumuz gibi olması gerektiği; ve inşasının muazzam büyüklüğünün insanlığa bir vaaz olarak hizmet etmesi gerektiği Akıl'ın tahmini olurdu. Geminin tufana mantıksız (hatta bazıları saçma bile dedi) bir olay olduğu fikrine gelince, bana öyle geliyor ki bu, önceden var olan bir olasılık için açık bir örnek teşkil ediyor.
+
+Son olarak: Nuh'un düşüşünün gerçekleşmesi çok muhtemeldi: sadece teolojik açıdan değil, hiçbir insanın doğrulukta sabit duramayacağı gerçeğinin bir örneği olarak: ama kendisiyle birlikte kirli bir toplum durumunun tohumlarını, o eski dünyanın hatırlanan lükslerini getirdiği için. Örneğin, Nuh'un gelecekte toprağa ekilmek üzere saklayacağı toprak bitkileri arasında, cömert, hain Vine'ı pek de unutamazdı. Kutsal olmayan tüm coşku kaynaklarına pek alışık olmayan dürüst bir adam için bunun Tanrı'dan bir zimmete para geçirmeye giden bir basamak olması muhtemeldi. Kendi başına muhtemeldi ve "Nuh çiftçi olmaya başladı ve bir bağ dikti; şaraptan içti ve sarhoş oldu." ifadesinin okunmasının dürüstlüğünü ve Kutsal Yazıların gerçeğe yakınlığını gösteriyordu. Burada, her şeyi göz önünde bulundurarak, Aklın daha önce tahmin edebileceğinden başka bir şey yoktu. Öyleyse neden daha sonradan inanılacak daha kolay bir konuyu saklı tutuyorsunuz?
+
+BABEL.
+
+Bu kitap, zihinsel olarak yazıldığı gibi, her cümlenin sonunda bir Kola dehasının bir Littleton dehasını çok keskin bir şekilde yorumladığı _et ceteras_'tan biri olacak şekilde okunmalıdır: çünkü her konu hakkında söylenecek çok daha fazla şey vardır, herhangi birinde denenmiş olandan.
+
+Hadi Babil hikayesine geçelim: Kutsal Kitap'ta okuduğumuz anlatımdan daha _a
+priori_ olası hiçbir şey düşünemiyorum. Konuyu kısaca ele alalım. Bir sürü insan, muhtemelen o zamanlar tüm insan ailesi, bir kez daha düşmüş bir ırk, Doğu'ya göç eder ve Şinar bölgesindeki geniş bir ovaya, daha sonra da Keldaniler'e gelir. Verimli, sulak, her dünyevi amaç için uygun, yine de büyük bir
+gerekliliğe ihtiyaç duyuyordu. Yozlaşmış ırk "Tanrı'ya güvenmiyordu": dünyanın bir gün tekrar suyla yok olabileceğine inanmıyordu: ve okyanusun kırık sınırlarından ve gökyüzünün pencerelerinden olası bir ikinci tufan olayında sığınacak bir noktaya ihtiyaç duyuyorlardı. Batı'dan gelmişlerdi; daha kesin olarak Kuzeybatı, dağlar diyarı, onları hazır sığınaklar olarak gördükleri gibi: ve onların planı, yeterince olası bir plan, yapay olarak böyle bir dağ inşa etmekti,
+böylece tepesi bulutlara ulaşabilirdi, tıpkı Ararat'ın zirvesi gibi.
+Bu, onları boğmak için yapılacak herhangi bir girişimi alt etmek ve kendilerine yeryüzünde gururlu bir isim yapmak gibi iki yönlü bir amaca hizmet ederdi.
+Böylece, Rab Tanrı, eterikleştirilmiş insan formunda (kendi ilahi
+eşleriyle istişare ettikten sonra), Adem ve Enoch ve diğer aziz insanlarıyla birlikte yürümeye alışkın olduğu kılıkta gelerek, "aşağı indi
+ve kuleyi gördü:" gerçekten, gelmesine gerek yoktu, çünkü her yerde bulunma ve her şeyi bilme onundu; ancak Tanrı ve insanın (tabiri caizse) şimdikinden daha az kronolojik olarak bölünmüş olduğu günlerde ve deneme ailesi henüz gençken, O'nun bunu yapması pek de olası görünmüyor. Tanrı
+sonra, tüm insanlığın Başı olarak, bu
+tehlikeli ve kutsal olmayan kombinasyonu fark etti: ve Üçlü Zihni içinde, onların birlik bağını koparmak için
+akıllıca bir karar verdi. Her şeyi bilme, burada, insan için
+iyiliksever, daha sonraki sonuçlara yönelik bir bakış açısına sahipti ve o, evrensel dili birçok
+uyumsuz lehçeye karıştırmanın, gelecekteki dünya için akıllıca bir şey ve aynı zamanda o zamanlar yaşayan ırk üzerinde
+ayrımcı bir denetim olacağını biliyordu. Bu, herhangi bir anlamda, "kötülerin düzenlerini etkisiz hale getirmenin ve güçlülerin öğütlerini küçümseyerek gülmenin" olası olmayan veya uygunsuz bir yöntemi miydi? Düşmüş bir ırkın ortak bir dil için gerekli olan birleştirici güce sahip olmasının engellenmesi, bunun yerine bu gücün dağıtılıp ahlaki kullanımlar için birçok dile yönlendirilmesi beklenmiyor muydu? Orada, tüm insan şefleri büyük, tanrısız bir planı gerçekleştirmek için bir araya gelmişti: ve böylesine çılgınca bir küstahlığı ezmek için Cennet'i araya sokuyorlardı - ve daha sonra bu tür araçlarla gelecekteki ticaret alışverişini ve ulusların girişimini düzenleyerek kutsamayı tasarlıyorlardı - O, Üçlü Birliği'nde, "Aşağı inelim ve dillerini karıştıralım" demiş olması pek de olası değildi. "İnsanlığı ve dolayısıyla dünyanın uçlarını dağıtmak için daha iyi bir yöntem tasarlanabilir miydi? Çeşitli lehçelerin, her biri kendi ayırt edici
+kümesinde, bir ulusun çekirdeğinde kristalleşmesi için; bundan sonra dünyanın artık Rabbine karşı tek bir adam olarak birleşememesi, ancak çatışan
+çıkarlar, çatışan dillerin ürünü olarak, iyiye tamamen ezilmemek için daha iyi bir şans vermesi için; birçok "bir
+kalabalık kötülük yapmaya gitse" bile, bundan sonra tüm
+insan ailesinin rızası olmaması için; ancak, burada birer birer ve orada birer birer, Tanrı'nın anısı mevcut tutulmalı ve kötülük artık tüm dünyayı tek bir ulus haline getirerek birikmiş bir güç kazanmamalı.
+
+İŞ.
+
+Her kutsal olay ve her kutsal değerli olay kendi özel tartışmasını hak eder: ve bunu kolayca elde edebilir. Örneğin; ataerkil zamanlarda insan yaşamının
+çok uzun
+olmuştur, açıktı; 1, Tanrı'nın
+iyiliği; 2, insanın deneyimsizliği; ve 3, çok genç bir dünyanın her bir sakinine karşı iddiası: Kutsal Yazı
+kendisi olası itiraza bir cevap hazırlamıştır, yılların
+ay yılları veya aylar olduğu; Arphaxad ve Salah ve
+Eber ve Peleg ve Reu ve Serug ve Nahor'un, Sam'ın soyundan gelenlerin her birinin
+ortalama otuz iki yaşında çocuk sahibi olduğunu ve yine de yaşamlarının
+yüz elli yıldan beş yüze kadar değiştiğini kaydederek.
+Ve birçok benzer inandırıcılığa atıfta bulunulabilir:
+İbrahim'in kurbanı, Musa ve yanan çalı, Yunus ve
+Elişa ve peygamberler hakkında ne söyleyeceğim? Çünkü her durumda onun derin ve harikulade tarihinin ne kadar olası ve basit olduğunu anlatmaya zamanım yetmez. Antik Yahudi Kutsal Yazılarının her sayfasında felsefi düşünce için yiyecek vardır, ilkel Hıristiyanlığın sayfalarından neredeyse daha az: burada,
+bizim tarzımıza göre, sadece bir örneğe değindik.
+
+Eyüp kitabının açılış sahnesi birçok kişinin inancını gereksiz yere rahatsız etti: Bana göre, hiçbir şey tam anlamıyla ve gerçekten
+olma olasılığından daha yüksek olamazdı. Başka yerlerde neler olup bittiğine dair bir fikir edindiğimiz birkaç yerden biridir: bir kez olsun sonsuzluğun perdesini kaldırmak, cennetin salonlarında sürekli olarak sunulan muhteşem sadelikleri ortaya çıkarmaktır. Ve bundan bahsetmek için burada harekete geçiyorum, çünkü yüce olasılıklarının sade bir ifadesinin birçok kişi tarafından kabul edilebilir olacağını düşünüyorum: özellikle de bu nadir tarihin yazarlığıyla ilgili bilgili kişilerin şüpheleri tarafından taciz edilmişlerse. Koşulları ve konuşmaları kaydeden kişi için hiçbir şey ifade etmez,
+gerçek oldukları ve gerçekten yaşandıkları sürece: güç, fırsat
+ve dürüstlük verildiğinde, Dr. Johnson'ın hayatı, Smollett tarafından yazılmış olsaydı, Boswell veya kendisi tarafından yazılmış olsaydı da, aslında aynı derecede adil olurdu. O halde, Uz'un zengin prensi Eyüp, İbrahim, Musa, Elişa, Elifaz veya başka kim olursa olsun, bu sözleri kayda geçirmiş olsun, orada duruyorlar, gerçek;
+ve tüm kitap, tüm noktalarıyla, önceden vahyin bir bileşeni olarak kararlaştırılmış olma olasılığı daha yüksekti. Bu olmadan, birkaç yüz yıllık uzun ve sıkıcı aralık boyunca insanlar arasında Tanrısal bir ibadetin bazı kanıtları eksik olurdu:
+insanın yardımı için asla bir metanet, sabır ve en parlak Tanrı'ya güven örneği verilmezdi; dirilişe ve kurtarıcıya olan inancın, Yahudi Kutsal Yazılarındaki diğer tüm metinlerin ötesinde belirgin ve kesin olması: ve ayrıca eserlerinde Tanrı'ya dair insan bilgisinin, tüm modern örneklerin ötesinde olması. Ancak, bu anlatının mükemmellikleri
+aslında bizim konumuz değil: özellikle doğaüstü başlangıcına atıfta bulunarak, olasılığının başlangıç ​​noktasına geri dönüyoruz. Birçok sayfa önce, iyi ve kötü ve cennet sakinleri hakkında güvenilir olduğunu gösterdiğimiz şey, Eyüp'ün ilk iki bölümünde dikkate değer bir sonradan kanıt bulur; ve bazı sebeplerden dolayı, referansla, bu iki bölümün önceden beklenmesi gerekiyordu. Ne olduğunu görelim:
+
+"Tanrı'nın oğulları Rab'bin huzuruna çıkmak için geldikleri bir gün oldu ve Şeytan da onların arasına geldi. Ve Rab Şeytan'a dedi ki,
+Nereden geliyorsun? Sonra Şeytan Rab'be cevap verip dedi ki, Yeryüzünde gidip gelmekten ve aşağı yukarı yürümekten. Ve Rab Şeytan'a dedi ki, Kulum Eyüp'ü düşündün mü? Yeryüzünde onun gibi, kusursuz ve doğru bir adam, Tanrı'dan korkan ve kötülükten kaçınan biri yok mu? Sonra Şeytan Rab'be cevap verip dedi ki,
+Eyüp Tanrı'dan boşuna mı korkuyor? Etrafına,
+evinin etrafına ve her yanındaki her şeye çit örmedin mi? Ellerinin işini kutsadın ve ülkede serveti arttı. Ama şimdi elini uzat da sahip olduğu her şeye dokun, o da
+yüzüne karşı seni lanetleyecek. Ve Rab Şeytan'a dedi ki, İşte, sahip olduğu
+her şey senin elindedir; elini yalnızca kendisine uzatma. Böylece Şeytan Rab'bin huzurundan çıktı."--[Eyüp 1. 6-13.]
+
+Bu çok görkemli bir dramdır: herhangi bir yorum onun onurunu, sessiz gerçeğini, gösterişsiz ama devasa çizgilerini bozar. Not: Kötülük hakkındaki görüşlerimize bir gönderme olarak, Şeytan'ın da Tanrı'nın oğulları arasına
+geldiğine dikkat edin: cömert bir Efendi'nin hizmetkarına olan cömert bağımlılığının, o Efendi'nin kendi özgür lütfuyla iyi bir şekilde desteklendiğine dikkat edin: Şeytan'ın Tanrı tarafından dünyevi zenginlikle
+kutsandığında dindarlığa karşı sürekli suçlamasına dikkat edin, Boşuna mı hizmet ediyor? Tüm bu sahnenin neden gerçekten gerçekleşmediğine dair hiçbir sebep göremiyorum; kutsal bir adamın vizyonunda değil, gerçekte olduğu gibi. Daha fazla yorum yapmadan okumaya devam edelim:
+
+"Yine, Tanrı'nın oğulları kendilerini Rab'bin huzuruna
+sunmak için geldikleri bir gün vardı ve Şeytan da Rab'bin huzuruna
+sunmak için onların arasına geldi. Ve Rab Şeytan'a dedi ki, Nereden geliyorsun? Ve
+Şeytan Rab'be cevap verip dedi ki, Yeryüzünde gidip gelmekten,
+ve üzerinde aşağı yukarı yürümekten. Ve Rab Şeytan'a dedi ki,
+Kulum Eyüp'ü düşündün mü? Yeryüzünde onun gibi, kusursuz ve doğru bir adam, Tanrı'dan korkan ve kötülükten
+kaçınan biri yok mu? Ve sen beni sebepsiz yere
+onu yok etmek için ona karşı kışkırtmana rağmen, o hala dürüstlüğünü koruyor. Ve Şeytan Rab'be cevap verip dedi ki,
+Deri deriye, evet, bir adam canı için sahip olduğu her şeyi verir. Ama şimdi elini uzat da kemiğine ve etine dokun,
+ve yüzüne karşı sana lanet okuyacak. Ve Rab Şeytan'a dedi ki,
+İşte, o senin elinde; ama canını kurtar. Böylece Şeytan Rab'bin huzurundan
+çıktı ve Eyüp'ü ayağının tabanından
+tacına kadar kötü çıbanlarla vurdu."
+
+Şeytan'ın kötülüğünü, iftiracı alaylarını ve
+izin verilen gücü gösteren bu tür sahneler, zihnimde daha önce
+beklenmiş olarak kendini gösteriyor: hayatın kötülüklerinin çoğunun hangi yönden geldiğini; hangi amaç ve sonlarla yönlendirildiklerini; hangi sınırların düşmanımıza karşı olduğunu; ve kimin bizim tarafımızda olduğunu bilmemiz için. Göksel yerlere dair böyle bir içgörüye; Rab'bin mahkemesi önünde sürekli olarak neler olup bittiğine dair böyle bir ipucuna ihtiyacımız vardı; kişisel karşılaşmada iyi ve kötünün, bir süre masumiyetin terbiyesi ve zaferi için kötülüğe terk edilmesinin bu açık ve basit tasvirini istiyorduk. Bakın, tüm bu olası sahne burada bize açık ve birçok kişi,
+akla aykırı olarak, buna inanmıyor!
+
+Son temamıza, cennetin _yeri_ne atıfla,
+böyle olağan bir periyodik buluşma yeri olduğuna dikkat edin. İyi Olan'ın sözlerinde bulunan açık, azarlayıcı güzelliğe,
+Kötü'nün ince, iftira dolu nefretiyle karşılaştırıldığında dikkat edin. Ve sonra kaba
+atasözü, Deri deriye: bu dindar Eyüp o kadar yoğun bir şekilde bencildir ki,
+ne kaybederse kaybetsin, aldırmaz; kendi
+derisinden hiçbir şey umursamaz. Ve daha birçok böyle dikkat çekici şey var.
+
+Bu pasajları neden uzun uzun yazdım? Dor tarzı sadelikleri için;
+sade ve erkeksi özellikleri için; apaçık doğrulukları için;
+gerçek olma olasılıkları ve daha önce beklenebilirlikleri için. Neden yeryüzünde bunlardan gerçek anlamlarıyla şüphe edilsin? ve
+icat edilmiş olmalarından daha çok gerçekleşmiş olma olasılıkları yok muydu?
+Bu yazar gibi, saf hayal gücüyle
+bu tabloyu yaratabilecek dehalara sahip değiliz artık. Milton'ın gideceği
+Eyüp vardı. Basitlik, bu tür pasajların yalın ilhamı lehine varsayımsal bir kanıttır: çünkü bu kadar sade bir taslağı kavrayabilen plastik zihin, onu resimsel bir şekilde boyamadan ve süslemeden asla tatmin olmazdı. Bu tür nadir hayal uçuşları her zaman en iyi şekilde değerlendirilir. Eyüp'ün yargılanmasıyla ilgili bir veya iki düşünce. Sonunda pes etmesi sadece olasıydı: kısacası, o başka bir Adem'di ve başka bir düşüş daha yaşadı; asilce güreşse de. Tanrı'nın seçtiği üç kişi, "Nuh, Daniel ve Eyüp" arasında anılmaya layıktı: ve Tanrı'nın sonunu kutsaması layıktı. Bu kelime beni değinmek istediğim noktaya getiriyor; Tanrı'nın Eyüp'e verdiği büyük tazminat. Çocuklar asla bireysellikten başka bir şey olarak görülemez: ve Doğu'nun nicelikteki artış hakkındaki duygularına rağmen, bunun niteliği, sonuçta, kalbin sorusudur. Demek istediğim, birçok çocuğun doğması, birçok çocuğun ölmesi için yetersiz bir karşılıktır. Bir baba çok sevdiği oğlunu kaybederse, başka bir oğlunun olması o acı dolu boşluğun küçük bir telafisidir. Bu sevgiler nedeniyle ve
+düşünürlerin zorlukta benimle sempati duyduğunu
+sandığım için, Eyüp'ün kaybolan ve bulunan çocukları hakkında birkaç söz söylemek istiyorum.
+Bazı zihinler için ahlaki ve şefkatli bir itiraz olan şeyi ortadan kaldıracaktır. Şimdi, durum şu.
+
+Patrik bize şu kadar deve,
+öküz ve benzeri şeylere sahip olarak tanıtılıyor; ve on çocuk. Bunların hepsi ona tanıklar tarafından, görünüşte güvenilir bir şekilde, ölü olarak gösteriliyor; ve buna göre büyük kaybı için yas tutuyor. Bir tüccar, dünyanın farklı yerlerinden aynı anda tüm gemilerinin ve depolarının kasırgalar ve yangınlar tarafından yok edildiğine dair net bir istihbarat alırsa, kendini her bakımdan mahvolmuş bir adam olarak hissetmez mi? İnanç verildiğinde, sabır gelir: ve haberler doğru veya yanlış olsun, deneme ahlaki olarak aynıdır. Oldukça dikkat çekici bir şekilde, felaketli zaman geçtikten sonra, Uz'un iyi adamı, sabrı için cennet tarafından bir kez kaybedilen her şeyin iki katıyla ödüllendirildiği fark edildiğinde - çocukları aynı kalır, on. Bana öyle geliyor ki, ne develer, vb., ne de çocuklar gerçekten öldürülmemişti. Şeytan bunu kast etmiş ve planlamış olabilir; ve tek tek gelen haberciler, iyi dayanmış Eyüp de dahil olmak üzere, her şeye inandı. Ancak kutsal metinler, bu şeylerin olduğunu söylemez; ancak belirli elçiler, bunların olduğunu
+söylemiştir. Şeytanın amacını ıskaladığını düşünüyorum: haberciler bazı başarısız şeytani çabalarla korkutulmuşlardı; ve (bu arada develerin doğal artışıyla, vb.) patriğin baba yüreği, en sonunda kendi sevgili çocuklarının geri getirilmesiyle fazlasıyla telafi edilmişti. Onlar ölmüştü ve tekrar canlandılar; kaybolmuşlardı ve
+bulundular. İbrahim'in İshak'la birlikte Calvary Dağı'ndan dönmesi gibi, bu bir mecaz olarak Diriliş'ti.
+
+Bu görüşe itiraz edilirse, Eyüp'ün çıbanlarının gerçek olması nedeniyle, diğer tüm kötülüklerinin de benzer şekilde gerçek olması gerektiği; ben de, bir ayartmada, acının zihinsel, diğerinde ise bedensel olması gerektiğini söylüyorum. İkinci durumda, olumlu, kişisel acı, meselenin özüydü: birincisinde, çocukların ölümleri gibi tedavi edilemez bir
+sıkıntıya gerek kalmadan, kalp delinebilir ve zihin
+bunalmış olabilirdi. Tanrı'nın merhameti, kötü olanın kendisini aşmasına izin vermiş olabilir; ve iyileşme geldiğinde, Eyüp'ün o on sevgili
+çocuğuna duyduğu sevinç ne kadar da iki kat fazlaydı.
+
+Yine, eğer biri, davanın genel görüşüne göre, Eyüp'ün
+sonuncusunun aslında öncekinden iki kat daha fazla çocuğu olduğunu, çünkü onun
+cennette on eski çocuğu ve yeryüzünde on yeni çocuğu olduğunu ileri sürerse: Ben, buna karşılık, bu açıklamanın bizim için, bunun doğruluğunun Eyüp için olduğu kadar
+yetersiz olduğunu düşünmeliyim. Sevgi, insan sevgisi, bu kadar sayısal veya dolaylı olarak teselli edilemez: ve belki de, sadece çocuklar gibi serveti, develer gibi servetle karıştırıldığına dair kafirlerin alaycı alaycılığından kurtarmak için bile olsa, davanın yeni bir görüşünü (benim varsaydığım) ortaya atmaya değer. Dahası, böyle bir babacan
+ödül önceden daha olasıydı.
+
+JOSHUA.
+
+Yüzeysel düşünürlerimizin kaçı, Joshua'nın kaydettiği büyük
+mucizevi karşısında şaşkına dönmüştür; ve daha derin türden olanlardan bile,
+kaç tanesi, karşılaştırmalı olarak, onun uygunluğunu, bilimini ve
+önceki olasılığını fark etmiştir: "Güneş! Sen Cibon'da hareketsiz dur; ve sen, ay,
+Ajalon vadisinde." Şimdi, düşünün, çünkü bu muazzam olayı bile olasılıksızlık suçlamasından aklamayı umuyoruz.
+
+Kenanlıların başlıca putları olan Baal ve Aştarot, güneş ve ay için kullanılan isimlerdi. Tanrı ve elçisinin bu tür putperestliğe açıkça küçümsemesi amaçlanırdı. Ve yozlaşmış ırkı yok etmekle görevlendirilen Yeşu'nun, sanki mucizevi bir şekilde, kendi tanrılarını bu tür taraftarların yok edilmesine yardım etmeleri için bağlamasına olanak verilmesinden daha uygun ne olabilir? Tekrar: Yeşu, Tanrı'nın düşmanlarını daha şiddetli bir şekilde alt etmek için aydan ne isteyebilirdi? O günlerin astronomik cehaletine göre, neden onun güneşle birlikte olmadan, Ajalon vadisinin çok ötesine yelken açmasına izin vermesin? Burada gizli, engellenmemiş bir bilimin bir nedeni vardı: Güneş durduysa, ay da durmalıydı; yani görünüşe göre her ikisi de: gerçek şu ki, dünya bir süreliğine kendi ekseninde durmak zorundaydı. Bunun, gizli, bilimsel bir ipucu olduğunu söylüyorum;
+ve aynı şekilde, Rab'bin uçan orduya hemen "gökten büyük taşlar yağdırdığı" gerçeği de buna eşlik ediyor.
+Çünkü, eğer dünyanın günlük dönüşü aniden dursaydı, hareketin ivmesi merkezkaç kuvvetiyle havaya yükselmeye ve kaya parçaları gibi
+sabitlenmemiş şeyleri yerçekimiyle tekrar aşağı fırlatmaya yaramayacak mıydı?
+
+Bir kez daha: itiraz edenimiz burada belki de şunu soracaktır, O zaman neden
+dünyaya durmasını emretmiyoruz -- ve güneşe ve aya değil? Eğer muhtemelen Yeşu veya
+Esinleyicisi daha iyi biliyorsa? Cevap. Sadece mantıklı bir adam, Musa'nın büyük halefinin anlaşılmaz bir şekilde herkese "Dünya, ekseninde hareketsiz dur" diye seslenmesi durumunda hem İsrailliler hem de Kenanlılar için ahlaki dersin ne olacağını düşünsün; -- ve
+işte! sanki böyle bir varsayıma tamamen meydan okurcasına ve açıkça putperest tanrıları Yahudilere karşı savunmak için, gökyüzündeki güneş ve ay bile
+durdu ve suçluya baktı. Böyle bir öğle vakti
+mucizesinin tüm inanan topluluğu putperestliğe sürükleyip sürüklemeyeceğini merak ediyorum:
+ve neredeyse makul bir şekilde de. Kesinlikle felsefi terimler
+tüm ahlaki etkiyi tamamen ortadan kaldırmış olurdu. Tanrı, sözünde
+bilimin gerçeğin ilerlemesini engellemesine asla izin vermez: dünyevi bir felsefe
+bunu hemen hemen her durumda yapar, bilgiyi bir kelime bulutuyla karartır: ancak İncil'in bilimi genellikle
+gündelik dilde ifade edilen fenomenlerin kaydına oldukça elverişli olan bazı komşu ipuçlarında
+gizlidir. Aslında, tüm genel amaçlar için, hiçbir astronom
+ayın doğması veya güneşin batması gibi ifadelerde kusur bulmaz: o
+görünüşe göre konuşur, ancak
+dünyanın bunun nedeni olduğunu ve güneş veya ay olmadığını gayet iyi bilir. Bunu
+Yeşu'nun durumunda gerçekleştirin.
+
+Genel olarak, mucize çok açık, çok anlaşılır ve çok
+olasıydı. Bunun iyi bir nedeni vardı: çünkü Kenan, dik kafalı Yahuda'nın zar zor görülen
+ilahiliğinden daha fazla, büyük ve görkemli Baal'inin korumasına güveniyordu: ve kesinlikle gerçek ama görünmez Tanrı'yı ​​sahte ve uzaktan görülen putun aşağılanmasıyla haklı çıkarmak akıllıcaydı.
+Bu, tüm uluslara İsraillilerin Yehova'sının hem yukarıda hem de aşağıda yeryüzünde Tanrı olduğunun hızla yayılan kanıtı olacaktı. Ve, Kenan'ın kendine özgü putperestliklerini göz önünde bulundurarak, bana öyle geliyor ki hiçbir mucize, güneşe ve aya itaat etme emrinden daha iyi bir yere yerleştirilemez ve daha iyi zamanlanamazdı - başka bir deyişle, önceden daha olası olamazdı. Sanırım bu kitabı okuyan çok az kişi, bu durumun dürüst putperest, yaşlı Herodot'ta olduğu kadar bilgili Yahudi Josephus'ta da ima edildiğinin farkında olmayacaktır. Ciltler alıntılar için bana yakın değil: ama gerçek şu ki: Herodot'ta, Euterpe'nin ortalarında, Hizkiya'nın benzer durumuna bir ima ile bağlantılı olarak bulunacaktır.
+
+Genel olarak hiçbir mucize (konuya sonradan bir bakış açısı getirmek gerekirse) bundan daha iyi test edilemezdi: çünkü iki ordu (çevredeki tüm ülkelerden bahsetmiyorum bile) bunu açıkça ve net bir şekilde görmüş olmalıydı: eğer hiç gerçekleşmemiş olsaydı, Yahudi Kutsal Yazıları'nın yanlışlığının ne kadar da gereksiz bir ifşası olurdu! Bunlar herkesin erişebildiği açık, yayınlanmış yazılardı:
+Kiros, Darius ve İskender bunları okudu ve Etiyopyalı hadımlar;
+Partlar, Medler ve Elamlılar, dünyadaki diğer tüm uluslarla birlikte, bu kayıtlara serbestçe erişebiliyordu.
+Bir düşünün, İngiltere'nin yakın tarihi, Adolphus'un veya Stebbing'in, George the Fourth'un saltanatında belirli bir günün, her zamanki karışım yerine yirmi dört saat gün ışığına sahip olduğuyla ilgili bir anlatımı içeriyorsa; bu tahammül edilemez yalan bir dakika sürebilir miydi? Böyle bir tabela, aceleci bir el oraya koyduğu anda ülkenin kayıtlarından koparılırdı. Ancak, konu gerçek olsaydı, herhangi bir tarihçi bunu nasıl ihmal edebilirdi? - Bir anlamda, böyle bir mucizenin kaydedilmesinin çok düşük olasılığı, bunun gerçekten meydana gelmiş olma olasılığını savunur.
+
+Burada çok daha fazlası eklenebilirdi: ancak, herhangi bir tökezleme taşı, hatalı bir düşünürün yolundan bu şekilde kolayca kaldırılabilseydi, görevimiz tamamlanmış olurdu. Elbette, ona, Yeşu'nun mucizesini inancının uygun şekilde kabul etmesi için bir sebep vermiş oluruz.
+
+ENKARNASYON.
+
+Kutsanmış Rabbimiz'in kariyerinin bazı olasılıklarına değinirken, konuyu şu anekdottan daha iyi tanıtmak ve açıklamak zor olurdu. Nereden türetildiği, hafızamdan kaçtı;
+ancak bunun Xenophon veya Platon'da Sokrates'e anlatıldığına dair havada uçuşan bir düşüncem var. Her neyse, buna kesinlik ve resimsellik kazandırmak için,
+burada hikayeyi Atinalı Süleyman'ın hikayesi olarak aktaralım:
+
+Öğrencileri tarafından çevrelenmiş olan büyük putperest Akılcı sorgulanıyor ve sorulara cevap veriyordu: özellikle de evrensel Tanrı'nın yaratıklarına
+gösterilme olasılığıyla ilgili.
+"Ne görkemli bir Kral olarak görünecekti!" dedi biri, muhtemelen zeki
+Alkibiades: "Ne kadar da olağanüstü bir güzellik!" dedi bir diğeri, daha yumuşak olan Kriton'unki pek de olası değil. "Öyle değil, çocuklarım," diye cevapladı Sokrates.
+"Krallar ve güzeller azdır ve Tanrı, eğer yeryüzüne bir örnek olarak gelseydi, şekil ve konum olarak daha fazla sayıdaki kişi gibi olurdu. "
+"Gerçekten mi, Üstat? Öyleyse, iyiliği, görkemi ve bilgeliği için insanların Kralı olmaktan nasıl başarısız olabilir?" "Ah! Çocuklarım," saf Aklın haklı cevabıydı, "[Yunanca: oi pleiones kakoi], çoğu insan o kadar
+kötüdür ki, onun saflığından nefret ederler, bilgeliğini hor görürler ve
+görkemine gelince, onu gerçekten göremezler. Bir süre hayranlık duyabilirler, ancak daha sonra (Tanrı izin verirse), onu avlarlar, zulmederler ve öldürürler." "Onu öldürün!" diye haykırdı hevesli dinleyici grubu; "Onu öldürmek mi? Tanrı'yı ​​nasıl öldürebilirlerdi, nasıl yapabilirlerdi, nasıl cüret ederler?" "Tanrı'yı ​​öldür demedim," bilge Sokrates'in cevabı olurdu, "çünkü Tanrı her zaman vardır: ancak düşmanlık ve kıskançlık içindeki insanlar, Tanrı'nın bir örnek olarak yürüdüğü o insan formunu öldürmeye bile izin verilebilir. Bunu
+yapabilmeleri Tanrı'nın alçakgönüllülüğüydü; bunu yapmaları gerektiği, kendi kötülükleriydi; bunu yapmaya cesaret etmeleri, kendi ağır günahları ve yıkım tehlikesiydi. Evet," diye devam etti keskin gözlü bilge, "insanlar onu
+utanç verici bir ölümle, bazı uzun, açık ve acımasız bir ölümle, hatta kölelerin ölümü gibi bir ölümle öldüreceklerdi!"--Şimdi köleler, sermaye suçundan hüküm giydiklerinde,
+her zaman çarmıha gerilirlerdi.
+
+Anekdotun gerçekliği hakkında ne düşünülürse düşünülsün,
+kullanımları bizim için aynıdır. Akıl, Mesih'in kariyerinin ve çarmıha gerilmesinin belirgin noktalarına
+gelmiş olabilir!
+
+Başka bir konu ekleyeceğim: Yeryüzündeki Tanrı oraya nasıl varabilir?
+Onun formunun muhtemelen insanınki gibi olacağını gösterdik; ancak
+tam olgunlaşmış mükemmellik çağında atmosferden bedensel olarak inecek miydi,
+yoksa depremler ve ateşle yerden mi yükselecekti,
+ya da pazar yerinin ortasında aniden mi belirecekti, ya da
+göksel ordusunun lejyonlarıyla Tapınağını ziyarete mi gelecekti? Bundan daha akıllıca bir yol vardı bunlar,
+daha makul, olası ve yararlıdır. İnsan,
+yapısının mükemmelliğine kadar varoluşunun her aşaması için bir örneğe ihtiyaç duyar.
+Bebek, çocuk ve genç, hepsi insan-Tanrı'nın kendi dönemlerini anlamasını isterdi; hepsi, eğer cömert ve onun seveceği türdense, her erken denemede,
+her sonraki kederde olduğu gibi, O'nun kendilerine sempati duyduğunu hissetmeyi özlerdi. Dahası, doğaüstü ihtişamlar veya dehşetlerle gelen Tanrı, gösterişli gücün gereksiz bir harcaması olurdu.
+O, gelişinin insanların akıllarını ve vicdanlarını kullanmaları için teşvik etmek için tasarlanmış olan; öğüdü "duymak
+için
+kulakları olan duysun" olan; O saf Varlık, Alçakgönüllülüğün baş vaizi ve insanın sorumlu durumunun büyük öğretmenidir - şüphesiz, şaşırtıcı derecede mucizevi bir şekilde gelmezdi, gelişini inanca değil, görmeye hitap eder ve inançsızlığın imkansızlığına bir dizi ruhsal harikayla meydan okurdu. Yine de, eğer O gelecekse - ve bundan sonra bundan birkaç söz - ya böyle garip bir şekilde; ya da olağan insani şekilde; ya da her ikisinin adil bir karışımıyla gelmeli. Birincisi, insanın sorumlu durumu için gereksiz yere bunaltıcı olduğu gibi, ikincisi de Tanrı'nın saf özüne gereksiz yere aşağılayıcıdır; ve üçüncü fikir en olası fikir gibi görünüyor. Tahmin edelim. Neden bu en yüksek inanç Nesnesi ve bu en düşük itaat Öznesi, görünüşte insani yollarla, ama gerçekte ilahi yollarla doğmasın? Neden, adil bir adamla nişanlı ve yakında karısı olacak lekesiz bir kutsal bakire bulunmasın ki, İlahiyatın yaratıcı gücüyle, mucizevi bir şekilde, Tanrı'nın kendisinin yaşamaya karar verdiği ilahi şekli
+tasarlasın? Neden, yüzyıllardır böyle bir beklentiye sahip olan bir soydan ve aileden gelmesin ki? Neden, onu henüz hiç tanımamış olan adil adam, nişanlısı, bu garip, tertemiz gebe kalma rüyasında Tanrı tarafından uyarıldığında, "karısı Meryem'i kendisine almaktan korkmasın" ki, inanmayan dünya onun saflığına iftira atsın, gerçi onu Kutsal Doğum'dan sonra gerçekten tanımış olsa bile. Burada mantıksız hiçbir şey yoktur; her adım önceden güvenilirdir: ve
+icadın kendisi daha iyi bir plan tasarlamak için şaşkına dönerdi.
+Bakire-doğmuş böylece Tanrı ile insan arasında bir bağ, büyük
+Arabulucu olurdu: onun doğaları, çiftlerinin ve yakın birleşmelerinin gerektirdiği her koşulu yerine getirirdi.
+İnsanlığa, kaba başlangıçları olmadan ulaşmış olurdu ve Tanrılığını bir süreliğine saf ama ölümlü bir konutta
+gizlemiş olurdu.
+Kadının doğasının tüm şefkatine katılmış olurdu ve böylece erkeklerin en keskin
+duyarlılıklarına ulaşmış olurdu.
+
+Bu tür temalar tükenmezdir: ve ben sürekli olarak söylenmemiş çok şeyin bilincindeyim, her bölümde neredeyse hiçbir şey
+söylemiş gibi görünüyorum. Yine de bırak gitsin; iyi tohum yine de filizlenecektir.
+"Ekmeğini sulara at, ve onu birçok
+gün sonra bulacaksın."
+
+Bazı zihinler için Tanrı'nın bedende gelmesiyle ilgili önceki olasılığa atıfta bulunmak bir arzu olabilir. Bunların çoğu Görünür İlahiyat başlığı altında ve başka yerlerde öngörülmüştür; bu inceleme çok kısa olduğundan, her okuyucunun bunu düzenli olarak almasını makul bir şekilde bekleyebiliriz. Ek hususlar için: Hayırsever Yaratıcı, tek bir uyarı sözcüğü veya tek bir bilgi parıltısı olmadan yaratıklarını yok olmaya terk etmezdi. İncil sorusu daha sonra ele alınır: ancak yalnızca yazılı kurallar ve dogmalar açısından, Babamızın kendi seçtiği hizmetkarlarını sözlü olarak öğretmeleri ve uyarmaları için görevlendirmesi muhtemeldi; çünkü insanın makul doğasına uygun olarak, kardeşlerinin öğretilerinden en iyi ve en kolay şekilde ders çıkarması gerekirdi. Öyleyse, tüm küçük elçiler başarısız olduktan sonra, hepsinin en yücesini göndermesi ve "Oğluma saygı gösterecekler" demesi beklenirdi. Bunun gerçekten gerçekleştiğini sayısız kanıt ve sonradan gelen harika işaretlerle biliyoruz: ve şimdi, olaydan sonra, bunun önceden muhtemel olduğunu görüyoruz.
+
+Başka bir ışıkta da muhtemeldi. Bu dünya bir
+enkarnasyonlar dünyasıdır; hiçbir şeyin gerçek ve potansiyel bir varlığı yoktur, ki bu bir şekilde
+somutlaştırılmamıştır. Bir teori hiçbir şeydir; eğer hiçbir kişisel filozof,
+hiçbir mezhep veya öğrenci okulu onu ele almazsa. Bir görüş sadece havadır;
+ona güçlü bir rüzgarın gücünü verecek kalabalık olmadan. Bir
+fikir sadece ruhsal ışıktır; eğer eylemlerde veya yazılı veya sözlü
+sözlerde çıplaksa. Aynı şekilde, Tanrılık için de: O bunların hepsi gibi olurdu. O, peygamberler veya vaizler tarafından söylenen sözcüklere nüfuz ederdi: İncil'de olduğu gibi
+yazılı sözcükleri dahil ederdi: Kalabalıkları
+ruhu harekete geçiren duygularla etkilerdi: Her şeyin teorisini
+tek bir basit, felsefi biçimde somutlaştırırdı. Bu maddi dünya kurulduğundan, Tanrı
+maddenin yardımı dışında kendini hiç açığa vuramazdı. Yani;
+bir peygambere ruhsal olarak ilham verdiğini kabul etsek bile, yine de adam
+gerekli: ilham almış bir adam olur; sadece ilham değil. Aynı şekilde,
+bir kitap için de; ki bu ilham almış insanların yazılı emeğidir.
+Bu dünya söz konusu olduğunda, Tanrı'nın İnsanlığı olmadan hiçbir şey yapılamaz,
+dünyaların ötesindeki dünyalar, çağlar boyu ve sonsuza dek sürecek korku konusunda
+Tanrısallığından vazgeçilemeyeceği gibi.
+
+MAHOMETANİZM.
+
+Bir veya iki durumda, bu olasılık kuralının İncil'in ötesindeki konulardaki örneğini denemem uygun görünüyor. Çok adil olanlar olarak, Muhammedanizm ve Roma Katolikliğini ele alalım. Ve ilkinin ilki.
+
+Yedinci yüzyılın başında veya o dönemden biraz önce, sahte bir peygamber tarafından ilan edilen vahşi bir dinin ortaya çıktığını biliyoruz. Bunun daha önce beklendiğini kısaca göstermek istiyorum.
+
+Ahlaki bir bakış açısıyla, her türlü bölünmeyle parçalanmış ve her türlü sapkınlıkla kirlenmiş olan Hristiyan dünyası, ister müjdeyi kabul etsin ister reddetsin, insan ırkı için, hem Büyük Karşılık Veren hem de Cömert Ödüllendirici olan O'nun elinde belirgin ve kapsamlı bir ceza kazanmıştı. Fiziksel bir bakış açısından, yeryüzünün medeni krallıkları durgunlaşmıştı, yaklaşan bir fırtınanın habercisi olan yozlaşmış ve zehirli sükuneti savunuyordu. Gerçek bir dinin sıcaklığı, hiçbir şey hakkında ılık tartışmalara, skolastik ve sofistik hayallere dönüşmüştü; aynı zamanda barışçıl doktrinlerin yaygınlığı tüm sınıfları lüks bir tembelliğe dönüştürmüştü. Tutkulu İnsan bu kadar tatmin olmamalı; ve vahşi bir ruhun yükselişinin zamanı gelmişti, çarmıha gerilmiş simli teolojiyi kılıcın demir diniyle değiştirecekti: uyuyan Batı'nın kulaklarına Doğu'nun ateşli savaş seslerini üfleyecekti;
+Tövbe nedeniyle kanonlaşmanın sıkıcı ödüllerini veya sahte azizler ve melekler altında ahirette gönüllü bir aşağılanmayı,
+hayvansal iştahın ve askeri şan ve şöhretin insani ve anlaşılır sevinçleriyle kim değiştirmeli:
+tüm çılgınca şevki, tüm bastırılmış sefahati, insanlığın tüm
+yürekten yakan nefretlerini, ya olumlu bir
+barbarlıkla ya da zar zor maskelenmiş bir putperestliğin tütsü yüklü bulutuyla bastırılmış olan
+kim kendi sancağı altında toplamalı.
+
+Böylece, ve sonra, cesur ve kendine güvenen bir kahramanın, kendi kılıcına yaslanarak ortaya çıkması muhtemeldi: karanlık cümlelerin adamı, bu taraftan ve o taraftan gerçeğin parçalarını akıllıca çalarak, hatanın kara giysilerini mücevherlemek için ve o zamanlar, azizlere ve şehitlere, bakirelere ve başmeleklere aşırı saygıdan dolayı neredeyse unutulmuş olan, tüm ibadetin nesnesinin Birliği'ni açıkça ilan ederek; insan tutkularına boyun eğen ve erdemin yolu olarak ahlaksızlığın çiçeklerle kandırılmış kapılarını genişleten bir adam; böylece, kendisinden önceki Lucifer gibi, zaferin kuyrukluyıldız benzeri yolculuğunda, dünyanın şaşkın kubbesini süpürmeli ve düzensiz yörüngesine gökteki yıldızları rotalarından sürüklemelidir. Muhammed; mütevazı başlangıcı; erken olası kontroller altındaki demir azmi; kör, ama tümüyle yüce olmayan, kadere olan bağımlılığı; acımasız, ama tümüyle de hak edilmemiş olmayan, batı dünyasını dolduran korkak ırka ateş ve kılıç vermesi; bunlar ve zaferler dizisine eşlik eden her şey ve bunun dışında kalan her şey, Mağribiler, Araplar, Türkler ve Asyalılar arasında, hatta günümüze kadar sürmüştür; düşünen bir zihin için (ve sebepsiz görünmemektedir) başka bir önceki olasılığı oluşturur. Muhammed'in başarısıyla alay eden ve onun harikulade
+kuran'ına hayran olanlar; Hatanın (eğer gerçekten, dedi, Hıristiyanlığın hakikat olarak kabul ettiğinden daha hatalıysa) böylesine özgür bir şekilde ilerlemesi ve yüceltilmesi, sözde Hakikat, _pede claudo_, şimdi olduğu gibi dikkatli ve
+şansız bir şekilde şüpheci dünyada aksayarak ilerlerken, kendisi için bir tökezleme taşı olan kişi; Muhammed'in başarısında, Hıristiyanlığın hakikatini Yahudi olmayanların zaferleriyle sınayan bazılarının aptalca argümanlarına bir cevap gördüğünü düşünen kişi; bu şeyleri
+düşünsün. Putperestliğinin Tanrısı olan Akıl, bir başmeleğin bilgisi ile, bir Muhammed'in kariyerini kehanet etmiş olabilir: ve bu, İnanca karşı herhangi bir itiraz niteliğinde olmaktan çok uzak olduğundan, bu şekilde ortaya atılan, üzerinde iyi düşünülmüş bir fikir, İnanca önceki olasılık yolunda bir yardım sağlayacaktır.
+
+"Tek bir Tanrı vardır ve Muhammed onun peygamberidir!" Yedinci yüzyılın koşulları için böyle bir savaş çığlığı ne kadar da takdire şayan bir şekilde hesaplanmış olurdu.
+Okul teolojisi ve Katolik iblislerine karşıt olarak Birliğin basit yüceliği: evcil
+
+uygun uygulamalar yerine barbarca ihtişamın parıltısı: haçı geçersiz kılma hırsının parlayan palası: dikenlerden oluşan bükülmüş çelengi mücevherlerle
+birleştirilmiş bir sarık. İnsan doğası olduğu gibi ve özellikle o zamanlar, hiçbir şey daha beklenebilir değildi
+(peygamberlik kayıtları bunu öğretmemiş olsa bile), o büyük Sahte Peygamberin yükselişi ve ilerlemesinden daha beklenebilir değildi, ki onun dalgalanan hilal'i şu anda bile
+dünyanın üçte birini
+mahvediyor.
+
+ROMANIZM. Hepimiz olaydan sonra kehanet etmenin ne kadar kolay olduğunu biliyoruz: ancak bu yorumu, kuzeni olan başka biriyle karıştırmak samimiyetsiz ve gerçek dışı olurdu; yani: herhangi bir olay olduktan sonra, önceden muhtemel olup olmadığını ayırt etmenin ne kadar kolay olduğu. Yarış
+bittiğinde ve en iyi at (ya da akıllıca bir jokey yönetimiyle, en kötüsü) kazandığında, çimlerde bulunan ve şimdi ayrıntılara sahip olan herhangi bir beyefendi, olayın o kadar olası olduğunu nasıl görebilirdi ki, her şeyini sonucuna yatırırdı.
+
+Bu tanıdık fikri gerçekleştirin; insan doğası gereği, örnekleme açısından hiç de zayıf değildir, çünkü "_parvis
+componere magna_" kuralına dayanmaktadır. O büyük önsezili karikatürün, Roma Katolikliğinin olasılıklarının bir veya iki satırını çizelim.
+
+Kutsanmış Efendimizin, insan olarak bile, gelecekte beliren kötü özelliklerini görmesi, hem insani keskinliğinden hem de ilahi her şeyi bilmesinden değil, biyografisinde oradan buradan bir ipucu olarak muhtemel görünüyor. Neden birkaç kez, açıkça sert bir şekilde, bakire annesini azarlamış gibi görünsün ki? - "Kadın, seninle ne işim var?" - "Annem ve kardeşlerim kimlerdir?" - "Evet, beni taşıyan rahimden ve emdiğim memeden daha mübarek olan, gerçek öğrencilerimin en mütevazısıdır." Kimse beni yanlış anlamasın: Bu tür pasajları hafifleten adil açıklamaları ve o Evlat kalbinde çarpan ölümden daha güçlü sevgiyi çok iyi biliyorum. Ancak, ifadeleri oldukları gibi alın; ve mantıken, insanların anneyi putlaştırması gerektiğine dair bir uyarı ve bir kehanet oluşturmuyorlar mı? Aslında, kadınların en çok kayrılanına karşı adil bir insan saygısının hayranlık dolu ibadetine dönüşmesi daha olası bir şey değildi: ta ki alçakgönüllü ve kutsal Meryem, kalbinde insan ızdırabının kılıcıyla, abartılıp Tanrı'nın Annesi olarak idealize edilene kadar - İsa'nın insan matrisi yerine, cennetin Kraliçesi yerine, kurtarılmış bir ruh yerine, meleklerin sevinci - alçakgönüllü ibadet edenlerin yerine ve kutsanmışların Kapışılması - böylece Yüce Olan'ı tahttan indirene kadar.
+
+İkinci bir örnek alalım: Neden hepsinin en sevgi dolu, en cömert, en sadık olanı Petrus, on iki kişi arasından seçilip - "Arkamdan çekil, Şeytan?" diye - gerçekten sert bir görünüme sahipti; eğer peygamberlik açısından değil de kişisel olarak, "şeytan olan" Yahuda ile aynı kategoriye konulmamış olsaydı. Açıklamaları, bağlamları ve tüm miktarını biliyorum. Metni çürütmek için folyolar yazıldı ve tekrar yazılabilir; ancak ne kadar çok kelime varsa, o kadar az anlam ifade eder: Kaya'ya kazınmış bir kayıt olarak duruyor; aynı Petra, üzerinde sağlam ve sadık bir şekilde bulunan, Rabbimiz İsa'nın ilk Kilisesini kurduğu yer: o, cennetin krallığının anahtarlarının, kutsal gönderilmişlerden herhangi birine olduğundan daha özel olarak emanet edildiği o ele silinmez bir şekilde yakılmış bir işaret olarak duruyor: aynı Petrus'un derin ve korkunç sapkınlığıyla birlikte, bu Petrus'u Pantheon'larının Jüpiter'i olarak kuracak olan gelecekteki bir Kilise'ye karşı yaşayan bir tanık olarak duruyor: şu anda kesinlikle iki bin yıl önce Libyalı Jüpiter'in bir heykeli olarak görev yapan Petrus adlı bir heykeli putlaştırıyor olmalı! Ancak bu bariz uzlaşma bile insan hırslarının verileri ve çürümüş bir Hıristiyanlıkla birlikte olası bir konuydu.
+
+Bu gibi örnekler çoğaltılabilir: bir iki söze daha katlanın, her zaman şunu hatırlayın ki, söylenebilecek olanın yarısı söylenmez; ne de bir yığın anlamsız itiraza cevap verilirken. Neden, kalıntılar ve sözde kutsal giysiler peygamberlik yoluyla kendi tozlarına ve değersizliğe indirgenmedikçe, kaba Roma askerlerinin, eğer ruhsal kutsallık sıradan maddeye aşılanabilseydi, şüphesiz ibadete değer bir kalıntı olarak kalması gereken o giysi için kura çekmesine izin verildi? Tanrı'nın yaşadığı İnsanın Hayvansal sıcaklığıyla sıcaktı: O'nun mütevazı yolculuklarında yarı yarıya yıpranmıştı ve hatta birçok durumda erdemin dışarı çıktığı yol olmuştu; erdemin değil, O'nun. Bu harika giysinin hiçbir mucize yaratmaması mıydı? İnsan-Tanrı olan varlığın bir tür karakolu olarak görülmemesi mi gerekiyordu? Hiçbir temel kutsallığı, kumarbazın açgözlü bakışlarını
+parlatma, kaba ve maceracı
+elini soldurma veya bir Nessus gömleği gibi, onu kısa süre sonra giyebilecek olan ahlaksız kabadayıyı zehirleme gibi _noli-me-tangere_ niteliği olmasaydı? En ufak bir şekilde. Dinle ilgili bozuk bir duygu durumunun, erdemlerini kutlamak için
+şarkı söyleyen erkekler ve kadınlar ve şarkı söyleyen hadımlarla
+birlikte sarayları gibi
+katedraller yükselteceği bu dokunmuş ağ; Celile denizi kıyısında veya Siyon'un bir sokağında çalışan zavallı bir dokumacının bu kaba kumaşı hâlâ kalacak ve sadece yüceltilmemiş, ekonomik, kullanışlı bir
+giysi olacaktı. Kendi içsel kudretine tanıklık etmekten uzak, muhtemelen kısa süre sonra şanslı Romalı kalıp atıcısı tarafından Yahudi metropolünün ikinci el bir
+dükkanına
+satıldı; ve böylece dilenciden dilenciye indi ta ki
+tamamen yıpranmış olana kadar. O zamanlar bu kadar
+önemli bir kalıntıya erişim ne kadar kolay olursa olsun, çok sayıdaki
+müritten herhangi birinin, ilk gayretlerinin coşkusuyla,
+kurtuluşu için bir düşünceyi
+elinden çıkardığını asla duymayız. Böylesine arzu edilir bir buluşu korumak için hiçbir St. Helena'nın
+elinde olmaması garip değil mi? Neden bir St.
+Mezarı ve bir St. Haçı göz önünde bulunduracak bir St.
+Cübbesi yok?
+İlk zamanlarda zavallı kumaş gerçekten hor görülüyordu. Kutsal Pavlus'un bedeninden mucizevi özelliklerle
+donatılmış mendiller hakkında sonradan ne olduğunu yeterince iyi biliyoruz: ama bu aşağılık bir sorudur ve konu geçiciydi; üstün durum kanıtlanmıştır ve
+_omne majus continet in se minus_ kuralının yanı sıra, durumlar arasında oldukça anlaşılır farklılıklar vardır, bu durumlarda zamanımız onları sorgusuz sualsiz geçirmekten daha az
+kârlı bir şekilde kullanılırdı.
+Şunu söylemek yeterlidir ki, "Tanrı o özel mucizeleri yarattı" ve bilinçsiz "mendiller veya önlükler" değil.
+"Te Deum laudamus!" Protestanlığın haykırışıdır; "Sudaria laudemus!" Papalık korolarını coştururdu.
+
+Bu tür düşüncelerin örnek olarak kullanılmasına izin verin,
+önceki koşullardan (ve Kutsal Kitap'ın kanonu önceki bir koşuldur) Roma sapkınlıklarının yükselişi ve ilerlemesi olasılığının nasıl açıkça kanıtlanabileceğini göstermek için. Ve eğer birileri sorarsa, böyle bir sistemin Yahudi teokrasisi yerine bir Yahudi olmayan teokrasisi altında ortaya çıkma olasılığı nasıl daha yüksekti? neden bir St. Paul, ya da bir St. Peter, ya da bir St. Dunstan ya da bir St. Gengulphus, bir St. Abraham, bir St. David, bir St. Elisha ya da bir St. Gehazi'den daha önce beklenebilirdi? Cevap veriyorum, putperestlik fikrinden, Yahudi olmayanların zihnine çok uygun ve Yahudiler için çok iğrenç. Şehit edilen Habil, ne kadar saygı duyulursa duyulsun, sunağın yanındaki bir nişin onuruna asla ulaşamadı. Jephtha'nın kızı, tüm yaslı bekaretine rağmen, (benim bildiğim kadarıyla) çok yas tutulacak bir genç kızdan başkası için asla sergilenmedi. O eski zamanlarda, St. Enoch'un aracılığı için kim sordu? O şüphesiz Tanrı adamı ve cennetin sakini St. Musa? Gemi kazasından kurtarılan gemilerin balmumundan yapılmış pruvaları, Yunus'un damlayan mabedinin etrafında asılıydı? Ve eski zamanlarda, kendini akılcı ve dindar olarak adlandıran, İşaya'nın şefaatçisi olarak iyi hizmetlerini talep etmeye cesaret eden veya günahlarının kefareti olarak Aziz Hezekiel'in erdemlerini savunmaya cesaret eden o zavallı ve duyarsız varlık neredeydi?
+
+Tam da buydu ve makul bir şekilde beklenebilirdi; çünkü Yahudi dinini getirdiğinde, her sahte tanrıyı yıktı, putlarını kırdı, rahiplerini öldürdü ve korularını ateşle yaktı. Fakat, dünyevi bir Hıristiyanlık moda olduğunda, imparatorlar bayraklarını haçla süslediğinde ve Celile'nin zavallı balıkçıları (şişman temsilcilerinde) mücevherlerle süslendiğinde ve seris ipekle hışırdadığında; o zaman o ölümcül uzlaşma yapıldı; o zaman yapılmış olması muhtemeldi, ki bu şimdiye kadar bile devam etti: putperestlerin lanetli putlarını yeni vaftiz eden, hala Aziz Baküs'ü ve Aziz Venüs'ü, Aziz Mars'ı ve Aziz Apollon'u, sözde Hristiyan sunağının üzerinde ayık cübbeler içinde tünemiş halde tutan; hala bir
+ankle veya paslı bir çiviye; Delphi'deki kara taşlara veya Aix'teki altınla kaplı kemiklere; hala başkentin tavuklarını veya Petrus'u ürküten horozu kutsayan; hala zengin bir günahkarın altınıyla göz kırpan Piton Kızı'na rüşvet vermesine veya "Tanrımız Rab, Papa"dan muafiyet maddeleri satın almasına izin veren bir uzlaşma.
+
+Hala zihne baskı yapan, Papalığın önceden tahmin edilebileceğini kanıtlama eğiliminde olan bir sürü başka düşünce var. Şu görüşü ele alalım. Mesih'in dini kutsaldır, kendini inkar eder; bu dünyanın övgüsünden değil,
+ve iyi ya da kötü için sonsuzluğun korkunç yaptırımıyla sonlanıyor:
+Tanrı'yı ​​tek başına yüce kılıyor ve yaratılmış-erdemi sürekli azalan bir noktaya kadar azaltıyor; çünkü ne kadar uzun süre iyi işler yaparsa,
+bunu yapmasını sağlayan lütfa o kadar çok borçlu oluyor.
+
+Şimdi, bildiğimiz gibi, insanın doğası tüm bunlara taban tabana zıttır:
+ve bir anlamda Hıristiyan gerçeğinin inancından kaçamadığı için,
+kurnazca icatlarını o katı gerçeği kendi tuhaflıklarıyla daha tutarlı biçimlere
+çarpıtma girişimine yöneltecektir.
+
+Zorlu, kutsal bir maneviyat yerine, kolay, basit uygulamaları zorunlu kılan; kalpten tek bir "Babamız" yerine dille bin
+Pater söylemeyi; yirmi kez diz çökmeyi zorunlu kılan, ancak ruhun tek bir secdesini bile gerektirmeyen bir
+dinsel plan beklenebilir; alnına sık sık suya haç yazmak, ama
+asla bir kez bile onun mistik ağırlığını omuzda taşımamak. Kendini inkar etmesine rağmen, yumurtalar, bakliyat ve
+tüylü bezle ustaca göz önünde tutularak, aldatılmış bedeni birçok şehvetli tatille şımartmak; bu dünyadan olmayan bir krallığa aykırı olarak,
+her şeyin zamansal egemenliğini
+cesaretle gasp etmek: ezici
+sonsuz bir kıyametin anlaşılmazlığı yerine, en kötüsünü daha uzun veya daha kısa bir arafın sahte güvencesiyle teselli etmek; sonuçta, kötülüğün
+yanıp yok edilebileceği; ve kim bilir, başkalarının dualarını ve
+gereksiz dürüstlüğünü satın alan altın, ateşli çileyi
+kolaylaştırmayabilir mi? Yaratıklarına yakınlaştırılmış bir Tanrı yerine, iyi Hekimin sevdiği gibi, en
+büyük günahla temas halinde sonsuz saflık; Ölçülemez mesafeyi ara numyalarla, episikl üzerindeki döngü, ark üzerindeki ark, rahip ve piskopos ve papa ve şehit ve bakire ve aziz ve melekle doldurmak ne kadar da bilgece görünüyordu, hepsi kendi konumlarında, uygun aralıklarla Tanrı'dan (sanki O'nun kutsanmış Majesteleri kendisi için öyle değilmiş gibi!) günahkarın dostu olmasını dileyerek. Bu, insanın kendi küçük çilelerinin tatlı değerlendirmesi için ne kadar rahatlatıcıydı; o "kirli paçavralar" için, sözde doğruluğu ne kadar yücelticiydi: hiyerarşik gücü inşa etmeye ne kadar uygundu; burada katiplerin davayı komisyon üyelerine, komisyon üyelerinin hükümete ve hükümetin de hükümdara sunduğu insanın deneyimiyle ne kadar da benzer görünüyordu. Bütün bunlar tamamen beklenebilirdi: ve ilk havariler arasında derin bir Akılcının, "Ruh açıkça konuşuyor" gibi bir göksel ışık olmadan bile, gelecek olasılıkları öyle hesaplamış olabileceğini düşünebiliyorum: "Son zamanlarda bazıları imandan ayrılacak, baştan çıkarıcı doktrinlere ve ara tanrılar hakkındaki hayali fikirlere kulak verecek, ([Yunanca: daimonion],) ikiyüzlüce ayrılışlarla gerçeği çarpıtacak, vicdanı kendi ruhsal kutsallık özlemlerine karşı yakacak, evliliği yasaklayacak (başka bir erdem icat etmek için) ve gönüllü aşağılanmayla bir yaratık-erdem inşa etmenin bir yolu olarak Tanrı'nın iyi armağanlarından uzak durmayı emredecek." Bu tür "dinsiz ve kocakarı masallarının" bundan sonra ortaya çıkma olasılığına rağmen, Pavlus mucize olmadan gelebilirdi. Yine: başka bir bakış açısına sahip olun. Mesih'in Dini, bu inleyen dünyanın daha iyi bir döneminde evrensel olması amaçlanmış olsa da, o dönem gelene kadar, bir Katoliklikten başka bir şey için tasarlanmış ve tasarlanmıştı. Doğru, Kilise o kadar Katoliktir ki, her iklimden ve her çağdan, doğru Habil'den dün sabah vaftiz edilen son sevgili bebeğe kadar, mübarek cemaatinin erkekleri vardır; doğru, görev "tüm uluslara öğretmek,"dir: ancak, aynı anda ve kolayca uzlaştırılan ifadeler ne anlama geliyor - aralarından çıkmak, küçük sürü, Yahudi olmayanlardan toplanmış, kendine özgü bir halk, savaşan ve muzaffer olmayan bir kilise, burada yeryüzünde? Böylece çok yanlış yorumlanan bir kelimeden kısa bir süre sonra: Şimdi Romalının ne yaptığını, (insan prensipleri açısından) bu ayrımcı dinle ne yapması muhtemel olduğunu görelim. O, esas olarak geçici kazançlar için, onu mümkün olduğunca geniş yapardı: o masada her misafir için, ister düğün giysisi giymiş olsun ister olmasın, yer olurdu; o zehirli ziyafette her damağa uygun soslar olurdu. Soğuk, münzevi zihin için bir hücre ve bir bela ve aç hayallerin, bazı eski Stylite'lerin gözde tapınanını kutsamak için bahşettiği coşkulu vizyonlar olarak adlandırıldığı bir kayıt; modaya uygun yaşamın boyalı demirep'i için, güzel bir cep idolü ve sempati duymayan bir baba tarafından iyi kiralanan rahat bir itiraf odası olurdu; kalbinin ilk aşkıyla
+zarar görmüş saf kız için, papist o görünüşte merhametli sığınağı, o sakin, müzikal ve nazik yeri, geri dönülmez rahibe manastırını sağlardı; tüm sakinliği, müziği ve nazik
+itibarıyla, o zavallı çocuğun yakında yaşayan bir mezar olarak nefret edeceği,
+tüm yaşamın amaçlarının, tüm görevlerinin, kullanımlarının ve zevklerinin söndürücüsü olacak bir yer:
+haydut için, yolcunun altınından onda biri cinayeti ödemeye
+yardımcı olur ve ona kasada saklanan bir yığın erdem kazandırır:
+eğitimli, soylu ve incelikle biçimlendirilmiş zihin, mimari, resim, oyma, hoş kokular ve insanı aldatmış en harikulade müzikle iyi eğlenebilir, hatta o, koro ilaçlarında olduğu gibi rahiplerin affında da aynı derecede memnun bir şekilde
+kolay hayranlıklarını sunarken ve ayrılırken bile; oysa, Roma'nın o iyi azınlık, gerçekten dindar ve aydınlanmış çocukları için, kiliselerinin yozlaşmışlıklarını yas tutan ve titrek bir dille, onun apaçık hatalarını ve putperestliklerini açıklayanlar için, bu kurnazca plan, çok muhtemel olarak, çöpler arasında bırakılacak şüphesiz bir hakikat yığını tasarladı. Gerçek doktrinler, gerçek şehitler ve gerçek azizler, o cemaatte ölmüş Tanrı'nın kutsal adamları tarafından haklı olarak savunulur; geçmiş antik çağlardan adım adım, (yozlaşmaya aldırmadan) Kurucunun ayaklarına kadar sinsice yaklaşan kurallar ve bir varoluş; herhangi bir vicdan veya itiraz noktasını kanıtlama yeteneğine sahip, ve bunu tartışmasız bir şekilde, çünkü hepsi aldatılamayan Papalar ve konseylerin yüksek otoritesiyle doruğa ulaşır: dindar incelemeler ve el kitapları, gerçekten de alev alev, çünkü bunlar kısıtlı bir bekarlığın özlemlerini ibadetin hararetleri ve Tanrı'ya duyulan arzularla karıştırır. Evet, burada her insan ağzı için yiyecek var; ancak, yazık ki insanlar için! Yiyecek yok olan ve sonsuz yaşama kadar
+kalmayan şeydir. Roma, sen akıllıca bir plan yaptın; ve eğer
+Lucifer seni zavallı, aldatıcı, Katolik Adamın çeşitli istekleri için tasarlamamışsa, gerçekten yazık olur, çünkü sen onun
+el işçiliğine layıksın. Her şey herkes için, herhangi bir anlamda, doğru dışında,
+hiç kimse için hiçbir şey ifade etmez: yalanlar anlamında,
+ilkini senin sloganın olarak al; tek bir hakikat anlamında, yoğunluğunda,
+ikincisi.
+
+Öyleyse İtalyan batıl inancının kazası -muhtemel kazası-
+varlığı yüzünden zihni tamamen denizde olan birinin yoluna herhangi bir engel koymasın. Ey ruhlu adam, senin için diğer dünya nedir? Hristiyanlık, ne kadar geniş bir iddia yolu olursa olsun,
+aslında dar bir yoldur: küçük şeylerin günüyle yetin,
+Hristiyan olduklarını söyleyen, ama "değil, Şeytan'ın sinagogundan" olanların tutarsızlıkları, çelişkili sözleri ve nefret dolu çekişmeleri karşısında sendeleme. Hakikati, ne düşmanlarına ne de arkadaşlarına göre değil, kendisine göre yargılayın. (Julian'dan Hobbes'a kadar hiçbir yazarın onun insan hakikatini veya bilgeliğini tartıştığını hiç duymadım) "Suçların gelmesi gerekir; ama suçun geldiği adama vay olsun. Eğer gelirse, inancınızda sarsılmayın: bakın, size daha önce söyledim. Ve eğer başkaları düşerse veya benim emrimden başka bir şey yaparsa, bundan sana ne? Beni izle." diyen biri vardı.
+
+İNCİL.
+
+Şimdi yapmak istediğim gibi, İncil'in tam olarak olduğu kitap olması gerektiğini, önceki olasılıkları göz önünde bulundurarak göstermeye çalışırken, konuyu biraz genişletmeliyim; önce, bir vahiy olma olasılığına; sonra da, beklenen biçim ve karakterine ayırmalıyım.
+
+İlk olasılık, şüphesiz ki akılcı yaratıklarını hiçbir zaman bir tür yol gösterici ışık, mutlulukları için çok gerekli olan kendisinin bir tezahürü, üzüntüde kesin bir teselli sözcüğü veya zulümde daha parlak bir umut olmadan bırakmayan göksel Babamızın adil İyiliğinden doğar. Bunun böyle bir _a
+priori_ olasılık olması gerektiği, dünyanın her yerinde sürekli olarak görülen sayısız iddiayla kanıtlanmıştır: hiçbir çağda veya ülkede, kahinleri ve bilge adamlarının Tanrılıkla ticaret yaptığına inanılmayan hiçbir ulus yoktur. Bundan, bunun ne kadar olası olduğuna karar verebiliriz. Eski Yunanistan'ın Bilgeleri, akıllarından dolayı bundan emindi: Brahman'a, Heliopolis rahibine, Rocky Dağları'ndaki şifacıya veya eski Meksika'nın Lamasına saygı duyanlar da kabul görmüş batıl inançlardan daha az emin değildi. İnsanlığın en vahşi türlerinden bazılarına, Caffraria'daki Buşmanlar ve Yeni Güney Galler kabilelerine ilişkin cehaletimizin, onların ayinleri arasında dine benzer bir şey bulmayı başaramadığını biliyorum: ama bu zavallı dışlanmışlar hakkında bile henüz öğrenemeyeceğimiz iyi şeyler olabilir mi? Bunu nasıl olumsuz olarak kanıtlayacağız? Çünkü bildiğimiz kadarıyla, onların kalplerindeki batıl inançlar, diğerlerindeki kadar derin ve aldatıcı olabilir; ve hatta tam tersi tarafta bile, istisna kuralı kanıtlar: her halkın bir vahiy sonucunu o kadar olası hale getirmesi kuralı ki, bir ve hepsi bunu kendileri için tasarlamıştır. Böylece birinciden kısa bir süre sonra: ve şimdi, ikinci olarak, Tanrı kendini insanlara nasıl ifşa etmeli? Dünyanın henüz genç olduğu ve Kilisenin bir ailede veya bir bireyde yoğunlaştığı zamanlarda, muhtemelen bu
+anında sözlü bir öğretiyle olurdu; Rab Adem'le konuşurdu; O Enoch'la yürürdü; O, saf bir uhrevi kıyafetle, İbrahim'le, arkadaş arkadaşa konuşurdu. Ve bundan sonra, insanlar büyüdükçe ve ibadet edenler çoğaldıkça, O, bazı ayrıcalıklı hizmetkarlarına elçisi olması için bir görev verirdi: Bir Hezekiel'e, "İsrail evine git ve onlara sözlerimi söyle" derdi: Bir Yeremya'ya, "Bir tomar kitap al ve sana söylediğim tüm sözleri oraya yaz" derdi: Daniel'e, asırlar boyunca yorumlanmayacak derin bir vizyon verirdi: "Sözleri sustur ve kitabı son zamana kadar mühürle": Musa'ya emirlerini kayaya kazıtırdı ve Eyüp'e denemelerini demir bir kalemle kaydettirirdi. Bir aile için, Beatic Vizyonu yeterliydi: bir araya gelmiş bir ulus için, bir zamanlar Sina'da olduğu gibi, sözlü bildiriler: dünyanın dört bir yanındaki bir veya iki nesil için, büyük bir "vaiz kalabalığının" gayreti ve belagati: ancak, şüphesiz,
+Tanrı evrensel ırkı kutsamak ve kelimelerinin balını nesilden nesile hatta son günlere kadar Zamanın kum saatinden damlatmak isterse, hazır bir yazarın kaleminden daha olası, daha uygulanabilir bir plan olamazdı.
+
+Dahası: ve argümanımızla ilgili olan: böyle bir vahyin karakteristik işaretleri neler olabilirdi? Sadece yaygın bir kutsallık, bilgelik ve yücelik, vazgeçilemez olan ve bir şekilde Tanrı'ya layık olan; insanın zayıflığına dair sık ​​sık kanıtlar olurdu, dokunduğu her şeyi bozardı. Yüce Tanrı, önemsiz bir sebepten dolayı mucize yaratmaz: Kutsal Yazılar boyunca tek bir mucizenin geçerli olması gerekir: yani, onu her tehlikeli hatadan temiz ve güvende tutan şey. Ancak, her biri diğerinden kopyalayan bin yazıcının ardışıklığında, yorgun el ve buğulu gözlerin ara sıra bir harfi yanlış yerleştirmesi gerekir: bu, bir mucizeyle ortadan kaldırmak için Tanrı'nın inişine layık bir nodus değildi. Tekrar: orijinal peygamberlerin kendileri çeşitli karakterlere, zamanlara ve kabilelere sahip insanlardı. Tanrı, insanlara akıllarıyla hitap eder; bir kahini "anlayışı olmayan bir at gibi gem ve dizginle" bağlamadı - ama akıllı bir varlığa konuşur gibi konuştu - "Ne görüyorsun?" "Sözlerimi dinle;" - "Kulak ver sözlerime." O zaman, Tanrı'nın her kutsal adamındaki önceki düşünce tarzı ve ilahi eğitimin, onun ilham edilmiş öğretisiyle karşı konulamaz bir şekilde karışması olası değil miydi? Tehoa'nın çobanı pastoral ifadelerle yalvarmamalı ve Amoz'un kraliyet oğlu güçlü bir otoriteyle kınamamalı mı? Davut bir çobanken sürüleri arasında Tanrı'yı ​​övmeli ve bir kralken "Krala yargılarını ver?" diye haykırmamalı mı? İncil bu insan bireyselliğiyle doludur; ve hiçbir şey insanca daha olası olarak düşünülemez: ancak bu çeşitliliğe diğer olasılığı da bağlamalıyız, işin ilahi olduğunu gösterecek olan; (kelimenin tam anlamıyla olduğu gibi) tüm bu doğal çeşitliliğe, tüm bu tarafsız düşünce ve konuşma özgürlüğüne rağmen, tüm kütleye bir birlik, harika bir tutarlılık yayıldığını, bunun Tanrı tarafından tasarlanmış olma ihtimalinin yüksek olduğunu, ancak insan tarafından pek hayal edilemeyeceğini kanıtlayacaktır.
+
+Bu tam konuya bir kez daha değinelim. Kutsal Yazılardaki zorluklar birçok nedenden dolayı beklenebilirdi; sadece birkaçına değinebilirim. İnsan, sorumlu olduğu kadar rasyoneldir: Tanrı onun zihnine ve ahlaki güçlerine konuşur: ve zihin
+sevinir ve ahlaklar zor olanı fethetme ve gizemli olanı aramada güçlenir. Manevi sporcunun kasları böyle bir çaba için
+soluk soluğa kalır; ve bu olmadan, ürkek bir aptallığa
+düşerler. Meraklı adam, cesur adam, girişimci, kurnaz ve güçlü adam, yine de kendi tembelliğinde korkacağı sürekli bir düşmanı var: şimdi, yoldaki bir aslan Tembelliği uyandıracak: ve dinin zorlukları bile sebat doğuruyor.
+
+Ek olarak: Bence, eğer
+tüm vahyedilmiş gerçekler tamamen basit ve kolay olsaydı,
+insan yorumcusuna ihtiyaç duymazdı; zamanlarının ruhuna ve öğretilerinin vesilelerine göre,
+"zamanında ve zamansız sözü vaaz edebilir, azarlayabilir, kınayabilir, öğütleyebilir,
+tüm uzun sabır ve öğretiyle." Kutsal Yazıların olduğu gibi, çoğu zaman zor,
+karanlık ve aydınlatılması için birçok bilgenin yardımına ihtiyaç duyması yönünde bir ön olasılık vardı; çünkü,
+böyle bir özellik olmadan, bu kadar çok bilge ve iyi
+ki asla çağrılmazdı. Diyelim ki tüm gerçekler en sıradan zekaya bile bir miktar ek olarak
+açıkça ve tartışmasız bir şekilde ifşa edildi, o asil Hıristiyan topluluğunun her yerde hayırseverlik için sadaka dağıtanları ve barış için Tanrı'nın elçileri olanlara ne gerek vardı?
+
+Bir iki kelime daha edersem, yapmış olurum. Bana göre İncil, bir tür çift kitap olurdu; hem doğrular hem de kötüler için: bir sınıf için, her türlü cömert eğilimi cezbetmek için yemlenmiş bir yem; diğeri için, her türlü kötü eğilimi yakalamak için kurulmuş bir tuzak. Bu iki anlamda, tüm aile
+erkeğine hitap ederdi: ve herkes onda kendi zevkine göre bir şeyler bulmalıydı. Saflık
+yeşil otlaklar ve durgun sular ve masum adımları için şefkatli bir
+Çoban algılanmalı: ve şehvetli iştah burada ve orada cennetin dürüstlüğünün en büyük hizmetkarlarının günahlarının anılarıyla doldurduğu daha karanlık bir nokta keşfetmeli;
+mahkûmiyet için ağzını ziyafet çekeceği bir zina veya cinayet kaydı. İyi adam
+içinde her dünyevi ihtiyaç için ilahi bir yiyecek bulurken, alaycı kişi
+onu şakaları ve müstehcen küfürleri için en kolay kılavuz ilan etmeli.
+Cahil kişi, kendini yüz ifadesinde tutmak için alçakgönüllü, hatta kaba, imgelerden ve kelimelerden yoksun olmamalı: ne de bilgili kişi boşuna akıl yürütmelere bakmalı; şair yüceliklere; meraklı zihin gizemlere; ne de kederli kalp duaya. O büyük kitapta, her kalibreden zihne harika bir uyum yeteneği görüyorum: ve bu, daha önce birçok farklı çağda birçok adam tarafından yazılmış, ancak hepsi tek bir ana zihin tarafından denetlenen bir ciltten beklenebilecek şey; her çağ, ulus, ülke, dil ve halk için yazılmış bir cilt; iki ağızlı bir kılıç gibi, iyi adamın kalbini derin bir inançla yaralayan ve "kötülüğünde devam edenin ak saçlı başını" kesen bir cilt.
+
+Genel olarak, Kutsal Yazılar'daki hatalar, uyumsuzluklar veya itiraz edilebilir kısımlar hakkında, ne kadar beklenirse beklensin, şunu hatırlamalıyız ki, bunlar ne kadar çok incelenirse, kusurlar o kadar azalır ve güzelliklere dönüşür.
+
+Küçük bir çocuk, zaman lekeleriyle bozulmuş eski bir taşı eline almıştı: çocuk taşın kirli, lekelerle ve her renkle kaplı olduğunu söyledi:
+ama babası bir mikroskop getirir ve şaşkın bakışlarına çocuğun kir sandığı şeyin güzel likenlerden, meyveli yosunlardan ve yaprakların arasında saklanan ve minik gölgelerinde sevinç duyan biçimli hayvancıklara sahip garip minik bitkilerden oluşan bir orman olduğunu gösterir. Her kusur,
+doğru bir şekilde görüldüğünde, bir güzelliğe dönüşmüştür: ve Doğanın işleri, Lütuf Sözcüğü bilge olduğu gibi, haklı çıkarılmıştır.
+
+CENNET VE CEHENNEM.
+
+Muhtemelen, bu önemli konuya tutmayı beklediğim ışık, yüzeysel bir eleştiri üzerine hayal ürünü, hatalı ve saçma olarak değerlendirilecektir; bazı kısımlarda alay konusu olmaya oldukça açıktır ve her şeyde, yazılanların ötesinde akıllı veya aptal olma itirazına açıktır. Bununla birlikte, ve bana göre, ortak algıların Herhangi Bir Yeri veya Hiçbir Yeri'nden daha kesin bir şeye ulaşmak önemsiz görünmediğinden, birkaç düşünceyi, isterseniz hayalleri, ama mantıksız hayalleri değil, cennet ve cehennem dediğimiz yerlerin ve diğer özelliklerini ortaya koymanın yanlış olmayacağını düşünüyorum: aslında, onların olası gerçekliklerini biraz daha belirgin bir şekilde göstermek istiyorum. Bu yerlerin bir yerlerde olması gerektiği açıktır; çünkü, özellikle de en mübarek durumda, Enoch, İlyas ve dirilmiş Rabbimiz nereye yükseldi? Bu yüceltilmiş insanlıklara ne oldu? "ateş arabası İlyas'ı bir kasırga ile göğe taşıdığında"; ve "O yukarı alındığında ve bir bulut onu aldığında?" Bu mutlu ölümlüler, dünyanın üstüne yükselirken, elle tutulamayan maneviyatlara dönüşmediler; bedenleri yerçekimi bağlarını kopardıklarında ve dünyanın saran atmosferini deldiklerinde erimedi: bir yere kadar çıktılar; soru nereye gittikleridir. Bu bizim için büyük ilgi
+çekici bir sorudur; ancak, sonuçsal olmaktan çok
+merak uyandıran konular arasındadır; çünkü bizim durumumuzda, bildiğimiz gibi, biz
+kurtarılmış olanlar, diğer kutsanmış yaratıklarla birlikte, "bulutların içinde, havadaki gelecek Kurtarıcımızla buluşmak ve bundan sonra sonsuza dek Rab'le birlikte olmak için" yukarı alınacağız. Bunun bizim durumumuzda olduğu gibi beklendiğini ve ondan önce beklenebileceğini göstermek istiyorum.
+
+Eyüp kitabında, bir cemaat yerine bir göz atıyoruz: muhtemelen uzaydaki kudretli kürelerden biri, Tanrı'nın özel tapınağı olarak ayrılmış. Neden olmasın? hepsi dünyadır; ve olasılık, Tanrı'nın niteliklerini ve yaratıklarının mutluluğunu etkileyen düşüncelerden kötülüğü ağır basmaktan ziyade iyiyi aşırı dengelemekten yana olduğundan, bu dünyaların büyük çoğunluğunun kutsanmışların düşmemiş konakları olması muhtemeldir. Belki de her biri, dünyanın kurtarılmışlarından biri için bir krallık olacaktır ve eğer öyleyse, sonunda ırkımızın her insanın bir yıldızı olduğu yaygın batıl inancının yerine getirildiği görülecektir:
+Bunda ısrar etmeden, temeli gerçeğe dayanmayan tek bir evrensel görüş olmadığını düşünebiliriz.
+Gelenek, Adem'den aşağıya doğru, yıldızların bir gün tahtlarımız olabileceği düşüncesini düşürmüş olabilir. Onların çeşitli enginliklerini biliyoruz ve ihtişamlarını tahmin edebiliriz: gerçekten de, dünyadaki sefil hizmetler için muazzam bir ödül,
+Terra'nın bir nokta olduğu kürelerin yönetimiyle sevindirilen adil bir hırs bulmak; Aynı hırs Yehova'nın vekili olarak hüküm sürerek kutsanıp yasallaştırılırken.
+
+Bu olası değil mi, yoksa yüce mesleğimize, ölümsüzlüğümüze ve Tanrı'ya yakınlığımıza, hatta Tanrı ile birliğimize layık değil mi? Fikir sadece ima ediliyor: Bir adam gece yarısı tefekkür etsin ve her şeyin üzerinde asılı duran göklere baksın; Rosse ve Herschell ile birlikte, gücünüzü çoğaltın, tükenmeden ve tükenmeden, bilinmeyen binlerce dünyanın
+göründüğünü görsün. Evet, sonsuz ödül için yeterli alan var; evet, her kıyıdaki her kum tanesi toplansın ve daha da sayısız
+küreler galaksisi ortaya çıksın. O gecenin burada, cennetin milyonlarca gözüyle bize baktığını düşünelim. Ve bunların hepsinin odak noktası için, Tanrı'nın kendisinin tahtta oturduğu, tüm taçların hürmetini ve tüm yaratıkların ibadetini aldığı bir yer için, aşağıda örneklenen gibi bir yer önermenin nesi mantıksız? Aşağıdaki paragrafı bir gazeteden kestim: Bu, yüce olanı gülünç bir şekilde tökezletmek mi? Ben başka türlü düşünüyorum: Açık terimler kullanmak dürüstlüktür. Akıllı adamlara konuşur gibi konuşuyorum - söylediklerimi siz değerlendirin. Bilginin gerçekliği açısından, doğru olabilir veya olmayabilir; fakat
+doğru olmasa bile, fikir esasen aynıdır ve melekler, başmelekler ve tüm cennet topluluğuyla birlikte, Enoch gibi bedensel azizlerin (ve ona benzer şekilde tüm dirilmiş, kutsal insanların) aşağıdakilere benzer veya daha üstün görkemli bir kürede mutlu şabatlar için bir araya geleceğini varsaymaktan kendimi alamıyorum:
+
+"MERKEZİ BİR GÜNEŞ.--Dorpat'taki Astronomi Profesörü Dr. Madier, son altmış yıldır, sözde sabit yıldızların hareketleri üzerine aralıksız olarak sürdürdüğü araştırmaların sonuçlarını yayınladı. Bunlar özellikle, Ülker takımyıldızının yedi parlak yıldızının en parlağı olan (kendisi tarafından keşfedilen) Alcyone yıldızıyla ilgilidir. Bu yıldızın, bizim bildiğimiz tüm yıldız sistemlerinin merkezi güneşi olduğunu belirtiyor. Sistemimizin sınırlarından uzaklığının, Güneş,
+dünyamızdan, ışığın katetmesinin beş yüz otuz yedi yıl sürdüğü bir mesafedir. Güneşimiz, kütlesi güneşten
+yüz on yedi milyon kat daha büyük olan bu merkezi gövdenin etrafındaki rotasını tamamlaması için yüz seksen iki milyon yıl alır."
+
+Güneş'in kendisinden yüz on yedi milyon kat daha büyük!
+tüm enginliğine rağmen, bu dünyadan yarım bir milyon kat daha büyük değil. Böyle bir küreye hayallerimizi salabilir ve oraya
+cennet özlemlerimizi demirleyebiliriz. Bu, hayal gücünün sevdiği gibi görkemli bir düşüncedir; ve akla uygun olası bir düşüncedir. Tahmin ettiğimiz tüm yaratılışın büyük gözüne, parlaklığının
+odak noktasına ve huzurunun
+pınarına bakın.
+
+Biz zavallı insanlar için çok daha az hoş ama aynı zamanda ilgi çekici bir konu,
+kötülüğün olası yuvasıdır; ve burada bana gülünebilir - gülün, ama dinleyin,
+ve dinlerken kulağınıza bir sebep gelirse, en azından
+artık gülmeyin.
+
+Ruhun sefaleti için de ruhun mutluluğu için de bir yere gerek olmadığını biliyoruz: "Nerede olursa olsun, çünkü ben hala aynıyım," dedi en sefil varlıklardan biri. Dahası - sadece ruhlar söz konusu olduğunda, işkence, ateş veya diğer korkutucu şeyler için herhangi bir
+alet gerekmez. Ancak, ruh maddeyle evlendiğinde, durum değişir; maddeyi hapsedecek bir yere ve onu rahatsız edecek bedensel bir cezaya ihtiyaç vardır.
+
+Burada hiçbir şey olası değildir; bir istisna hariç - bir adam ısrar edebilir mi? - böyle bir
+cehennemin korkunç süresi. Bu bir parantezdir; ancak bundan kaçınılmamalıdır, çünkü bu sorunun önemi derindir ve açıkça cevaplanmalıdır. Bir insan, beden ve ruhun karışımı, bozulmaz bir şekilde yükselen bir beden ve eylemlerinden dinlenen bir ruh sonsuza dek var olmalıdır. Burada kanıtlara değinmiyorum - varsayıyorum. Şimdi, eğer sonsuza dek yaşarsa ve kasıtlı olarak kötülüğü seçerse, iradesi ve zayıflığı ve vicdanı sürekli itaatsizlikle dağlanmışsa, böylesine inatçı, mantıklı, sorumlu bir varlık sürekli dengesiz olandan daha hangi yolu izleyebilir? Ahlakında nasıl daha da kötüleşmemeli ve aslında daha da sefil olmamalı mı? Ve buna, böylesine sefil yaratıkların bir araya toplanıp, Mutluluk ve İyiliğin tek kaynağından sürekli olarak daha da uzağa uçmaları gerektiğini; ve buna, günah, pişmanlık ve pişmanlıklar ve olumlu cezalar yoluyla kazandıklarını; bir cehennemin, günahkarın ebedi kıyametinin ne kadar olası göründüğünü. Paralellikten
+çıkarılan çizgilerin uygun matematiksel benzetmesi, buna örnek olarak yardımcı olur: sonsuza dek ve sonsuza dek daha uzağa uzanıyorlar ve sonsuzluğun kendisi bile onların yolculuğunu yeniden birleştiremiyor.
+
+Bu, o zaman, geçici bir söz; üzücü bir söz. Dürüst düşünür, kendi ruhun için onu küçümseme.
+"Şimdi lütfun zamanı, şimdi kurtuluşun günü." Geri dönmek. Bir ceza yeri vardır; onun önceki olasılığını
+hangi tarafta arayacağız? Bence çok yakınımızda bir olasılık var. Belki de, bizim altımızda, bu ateşli patlayan dünyanın bağırsaklarında bir tane vardır; Korah ve arkadaşları nereye gitti?
+Bu fikir argümansız değil, sadece benzetmeler ve kutsal metinlerden ipuçları içeriyor. Ancak benim yargım başka bir şeye doğru meyilli. Bu deneme dünyasının, bildiğimiz gibi, arındırılıp restore edilmesi ve yeni bir dünya haline getirilmesi gerekiyor: Kurtuluş'un bunu yapması bile bekleniyordu ve ben onu cehennemin kabuğu ve kılıfı olarak hayal etmek istemiyorum, daha ziyade şöyle hayal ediyorum: Bu aynı dünyanın doğuşunda, yanan kütlesinden bir teğet, kederli bir uydu koparıldı, ölümsüz kötülüğünün evi olacak; sürgün edilen günah ve sefalet için mahkum kıyısı; Virgil'in Tartarus üzerine düşüncelerinde tahmin ettiği gibi, kürenin yarısı doğal ihtiyaçlardan dolayı sürekli sıcaklıklarla kabarmış, diğer yarısı da sürekli soğukla ​​donmuş. Mağaralar ve volkanlar diyarı, millerce derinlikte, millerce yükseklikte; susuz, algılanabilir havası olmayan: böylesine korkunç bir
+dünyayı hayal edin, ne havası ne de suyu olan! Bizimki gibi yaşamı besleyemeyen,
+ama ölmeyen sefaletin sonsuza dek mücadele edebileceği bir yer olmaya muktedir. Hüzünlü bir küre, gecenin kraliçesi, yeryüzünün tüm karanlık putperestliklerinin baş çekirdeği; Ay, İsis, Hekate, Aştarot, Efeslilerin Diana'sı!
+
+Hiçbir şekilde olasılık dışı olmayan bir düşüncenin bu şekilde ifade edilmesi, sığ
+sözcülere kolay bir şans verir; ama alay, akla karşı bir silah değildir.
+Neden durum böyle olmasın? Neden Dünya'nın kendi uydusu, henüz boş, tüm etin dirilişinde, Dünya'nın kötülüğünü
+uzaklaştıracak sal olmasın? Bunu astronomik olarak okuyun; onu putlarla
+bağlantılı olarak düşünün; onu dünyanın gecesinin hükümdarı olarak görün; bir
+Gehenna'nın yerinin bir yerde olması gerektiğini düşünün; ve benim hayalimde
+oldukça olasılık dışı olan ne var? Gerçeğin böyle olduğunu dogmatikleştirmiyorum, ancak
+sadece şimdiye kadar önerilenler kadar olası kesin bir yer öneriyorum. O korkunç, melankolik gözün karanlığın eylemlerine nasıl baktığını düşünün, kaç tane gece yarısı suçu, cinayet, hırsızlık, zina ve büyücülük, açık, dürüst günden hiçliğe
+düşecekti, bilinçli Ay'ı soldurdu! Tüm bunlara, bizimki dışında, astronomların bize Düştü diyebileceği tek dünya olduğunu ekleyin.
+
+BİR TEKLİF.
+
+Bu kitabı uzun yapmaktan daha kolay bir şey olamazdı; ancak bu, yazarın amacı değildi: ayrıca uzun kitaplar hakkındaki küflü Yunan atasözü yüzünden; her zaman ve ülkede bin kişiden birinin asla
+okumayacağından emin olduğu; çünkü bir konuyu tüketmektense önermek her zaman daha akıllıcadır; bu "kendi türünden meyve veren, tohumu kendi içinde olan bir meyve ağacı" olabilir. Yazar daha sonra sadece birkaç önemli noktaya değinmeyi amaçlamış ve her soruyu tartışmamıştır, ne kadar zihnini meşgul ederlerse etsinler: zaman ve mekan, zihinsel kapasiteleriyle birlikte, böylesine devasa bir çabayı engellemiştir: buna ek olarak, böyle bir yol gereksiz görünüyordu, çünkü bu şekilde gösterilen olasılık kuralı, benzer her durumda başkaları tarafından uygulanabilirdi. Yine de, bu kitabın amacı yararlılık olduğundan ve yazarının umudu, Cennet'in altında, iyilik yapmak olduğundan, burada otoyola kişisel bir ipucu atılacaktır. Kendime, ileri sürülebilecek yirmi şüpheden birini çözmek için bilgelik veya bilgi atfetmeden; şüphecinin gerçek kaygısından emin olmadıkça, bu tür çözümleri denemeyi bile planlamadan; ve savunucunun kendi güçlerinde uygun bir çekingenliğin, kutsal davasında geniş çabalar göstermemesi için bir sebep olmadığı düşüncesini önceden belirterek; iyilik yapmak için böyle makul denemelerin, fanatik bir Manevi Don Kişotçulukla hiçbir tür kardeşliği olmadığını; ve kendi endişelerime göre, akılcı bir zihnin şüphelerinin, soğuk bir mesafe ve iyi gizlenmemiş bir küçümsemeyle değil, nezaket, saygı ve nezaketle ele alınması gereken onurlu düşmanlar niteliğinde olduğunu; Son olarak, "Bunlar için kim yeterlidir?" düşüncesini ön plana çıkararak, yine de, bana verilen lütuf ve güce göre, şimdiye kadar bazılarının, önceki güvenilirliğini gösterme veya göstermeye çalışma alanı dahilinde olabilecek herhangi bir kutsal gerçekle ilgili şüphelerini dağıtmak için en iyi ama mütevazı çabalarımı sunuyorum. Bu, meraklı sofistlere veya alaycı kâfirlere bir meydan okuma değil; ancak cevapsız sorularla taciz edilen dürüst zihne bir davettir: atılan bir eldiven değil, uzatılan bir kardeşin eli. Bu tür sorular, yazara, yayıncısı aracılığıyla mektupla sorulursa, gelecekteki bir baskıda yanıtını bulabilir: yani, ister kendi değerleriyle ilgili olsun, ister şüphe eden zihnin mizacı olsun, bir cevabı hak ettiklerini varsayarak; ve ayrıca yazarın bunları gizlice cevaplama gücüne ve araçlarına sahip olduğunu varsayarak. Sadece hayırseverliğin adil bir kuralıdır (ve herhangi bir sıra dışı "gücü" övmeden): "Zayıfların zayıflıklarına katlanmak ve kendimizi memnun etmemek": ve hiçbir şey bana, cömert bir zihnin önünde İnancın yolunda yatan herhangi bir zorluğu ortadan kaldırmak istediğimden daha büyük bir mutluluk vermez. İyi şarap vaat eden gösterişli meyveleriyle ışıldayan bir kutsal çalıyı alev alev asmam; bunun yerine, kapımın üzerinde, yoldaki her yorgun hacıya, yiyecek az olsa da, içten bir karşılama bulacağı güvencesini veren daha mütevazı ve misafirperver bir ökse otu vardır. SONUÇ.
+
+Böylece (Cennetin ricasıyla) dünyanın önüne birkaç eski gerçeği yeniden koymaya çalıştım: paha biçilemez derecede değerli gerçekler. Unutmayın, önceden muhtemel oldukları fikrinde yer alan herhangi bir savunuculukla kaybetmiş olamazlar; çünkü bu fikir onların varoluş gerçeğini hiç etkilemez; mesele şudur; olası olsun ya da olmasın; esse'de bir ornithorhyncus vardır; onun ekibi esse'de boğulmuştur:
+bunun hakkında hiçbir şüphe yoktur: ister fiziksel duyular, ister ahlaki düşünceler olsun, kanıtlar durumu tartışma alanının ötesine taşır. Ancak bahsettiğimiz bu tür gerçekler yine de bir şeyler kazanırlar - değerleri değil, bunların hepsi özde kendilerine aittir; ne de olumlu kanıtları, bunlar onlara uygun şekilde eşlik eden sıfatlardır, ancak - insanların inanmayanları arasında kabul edilebilirlikleri açısından; diyorum ki, benimki gibi zavallı bir savunmayla bile, önceden olası olarak gösterilmiş olmaktan kazanırlar. Az önce bahsedilen o garip ve anormal yaratık örneğini ele alalım. Yaşam alanı, dışarıdaki taşlarla eriklerin yetiştiği, yerli köpeklerin havladığının hiç duyulmadığı, kuşların kıllarla kaplı olduğu, memelilerin kurbağalar gibi zıpladığı bir topraktır! Bunların gerçek gerçekler olduğu gösterilirse, zihin böylece herhangi bir hayvan
+ucubeliğine karşı iyi hazırlanmış olur: ve ördek gagası ve kunduz gövdesi olan bir yaratıktan haberdar edildiğinde bile (dürüst gezginlerin kanıtlarına dayanarak) inançsızlıktan sendelemez: Avustralya'da gerçekten de önceden var olan bir olasılıktı. Bunu, o kadar inanılmaz olmayan konulara götürün, siz düşünürler, siz özgür düşünürler; özgürce düşünen olarak adlandırılmaktan utanmayın:
+Berealılar, görmek için aradıkları şeyde daha asil değil miydi? Benim mütevazı payıma, sizi bunun için takdir ediyorum: özel yargı hakkının devredilemez kökünü
+söküp atan el haindir; Protestanlığın temel taşı, aklın büyük ayrıcalığı, vicdanın temel notası, bir insanın sorumluluğunun tek sırrı: kötü ve yanlış olan, her insanın vicdanının kendisi için bir yasa olduğu gerçeğinin yerine, diğer insanların otoritesinin tiranlığını koyan sözde saygılı bilgeliktir. Ucuz, kolay ve tehlikeli olan, başkalarının eteğine yapışan; rahiplik mesleğinin kırık sopasına yaslanan, o zehirli kıymıklar eli delinceye kadar.
+
+Her şeyi kanıtla; İyi olanı sıkıca tutun: kendi makul vicdanına iyi, eğer sofistries tarafından çarpıtılmamışsa ve sefahat tarafından körleştirilmemişse. Eğer yapabiliyorsan, her şeyi "yumurtadan elmaya" kadar kanıtla: inancının zayıf bir inşacısıdır, bir tuğlayı kredi olarak alan kişi. Mümkün olduğunca (eğer sadece akıllıca tutarsız olmaya istekliysen, inatçı dizini zamanında bükmeye ve zayıf bir bakışla göğe bakmaya ve kekeleyen dilinle yardım için dua etmeye) mümkün ol, ey Tanrı adamı, hakkın olduğu için - içindeki inanç için bir Neden sunmaya.
+
+SON.
+
+Martin Farquhar Tupper'ın Project Gutenberg E-Kitabı'nın Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PROBABILITIES ***
+
+***** This file should be named 16857.txt or 16857.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/6/8/5/16857/
+
+Produced by Jonathan Ingram, Janet Blenkinship and the
+Online Distributed Proofreading Team at https://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

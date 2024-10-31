@@ -1,0 +1,3306 @@
+*** START OF AKTAHEADER ***
+Başlık: The Game of Logic
+Yazar: Lewis Carroll
+Yayın Tarihi: December, 2003
+Dil: English
+Link: https://www.gutenberg.org/ebooks/4763
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Game of Logic, by Lewis Carroll
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Game of Logic
+
+Author: Lewis Carroll
+
+Posting Date: December 30, 2011 [EBook #4763]
+Release Date: December, 2003
+First Posted: March 13, 2002
+Last Updated: May 10, 2004
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE GAME OF LOGIC ***
+
+*** START OF TURKISH PART ***
+Gregory D. Weeks, L. Lynn Smith, Reina Hosier,
+Brett Fishburne tarafından üretilmiştir
+
+MANTIK OYUNU
+
+Lewis Carroll tarafından
+
+---------------------
+|9 | 10|
+| | |
+| -----x------ |
+| |11 | 12| |
+| | | | |
+|---y-----m------y'---|
+| | | | |
+| |13 | 14| |
+| -----x'----- |
+| | |
+|15 | 16|
+-------------------
+
+--------------
+------
+SAYAÇLAR İÇİN RENKLER |5 | 6|
+___ | x |
+| | |
+Güneş tepemizde, |--y-------y'-|
+Üzerimize parlıyor, DOLU ve | | |
+KIRMIZI! | x' |
+|7 | 8|
+Şimdi Güneş gitti, -------------
+Ve BOŞ gökyüzü
+GRİ!
+___
+
+MANTIĞIN OYUNU
+
+Lewis Carrol'dan
+
+Çocuk arkadaşıma.
+
+Boşuna büyü yapıyorum; çünkü bir daha asla,
+Bakışlarımı eğdiğim kadar keskin,
+Hatıra, tanrıça, utangaç,
+Sevincim için somutlaştıracak,
+Geçmiş günleri, ya da bakmama izin verme
+Sana, peri arkadaşım!
+
+Yine de yüzün, mistik zarafetle,
+Bir an bana gülümseyebilirdi,
+Gökten gecenin karşısına doğru,
+Uzaklara doğru fırlayan ışık ışınları,
+Bunlarla gerçekten okuyabilirdim
+Ruhunu, en tatlı arkadaşım!
+
+Böylece Hayatın uzun rüyasının akışı
+Sonuna doğru yavaşça aksın,
+Bir sürü neşeli çiçekle,
+Söğütlü yolundan aşağı:
+Hiçbir iç çekiş canımı sıkmasın, hiçbir kaygı beni şaşırtmasın,
+Sevgili küçük dostum!
+
+NOTA BENE.
+
+Bu Kitabın her kopyasıyla birlikte, bir
+kart üzerinde bir Diyagram (ön sayfaya benzer) ve dokuz Sayaç,
+dört kırmızı ve beş gri, içeren bir Zarf verilir.
+
+Zarf, vb. ayrı ayrı, her biri 3 peniye alınabilir.
+
+Yazar, özellikle Mantık'ta yeni başlayanlardan, arzu edilebilir görünen herhangi bir değişiklik veya daha fazla açıklama için öneriler için çok minnettar olacaktır. Mektuplar ona şu adrese gönderilmelidir:
+"29, Bedford Street, Covent Garden, Londra."
+
+ÖNSÖZ
+
+"Asi Mantık köpürdü, ağzı tıkalı ve bağlı."
+
+Bu Oyun dokuz Sayaç gerektirir - dördü bir renkten ve beşi başka bir renkten: diyelim ki dört kırmızı ve beş gri.
+
+Dokuz Sayacın yanı sıra, EN AZINDAN bir Oyuncu da gerektirir.
+Bu sayıdan AZ ile oynanabilen herhangi bir Oyun bilmiyorum: DAHA FAZLASINI gerektiren birkaç tane varken: örneğin, yirmi iki gerektiren Kriket'i ele alalım.
+Bir Oyun oynamak istediğinizde, YİRMİ İKİ'den BİR Oyuncu bulmak ne kadar daha kolaydır.
+Aynı zamanda, bir Oyuncu yeterli olsa da, iki kişinin birlikte çalışması ve birbirlerinin hatalarını düzeltmesiyle çok daha fazla
+eğlence elde edilebilir.
+
+Bu Oyunun sahip olduğu ikinci bir avantaj, sonsuz bir eğlence kaynağı olmasının yanı sıra (bununla çalışılabilecek argümanların sayısı sonsuz olduğundan), Oyunculara da biraz talimat verecek olmasıdır. Ama bunda büyük bir zarar var mı, yeter ki bol bol eğlenin?
+
+İÇERİK.
+
+BÖLÜM SAYFASI
+
+I. ESKİLER İÇİN YENİ LAMBALAR.
+1. Önermeler . . . . . . . 1
+2. Kıyaslamalar . . . . . . . . 20
+3. Yanılgılar . . . . . . . . 32
+
+II. ÇAPRAZ SORULAR.
+1. Temel . . . . . . . . . 37
+2. Küçük Diyagramın Yarısı. Temsil Edilecek
+Önermeler . . . . 40
+3. Yorumlanacak Semboller. . 42
+4. Küçük Diyagram. Temsil Edilecek
+Önermeler . . . . . . 44
+5. Yorumlanacak Semboller. . 46
+6. Büyük Diyagram. Temsil Edilecek
+Önermeler . . . . . . 48
+7. Her İki Diyagram da Kullanılacak . . 51
+
+III. ÇARPIK CEVAPLAR.
+1. Temel . . . . . . . . 55
+2. Küçük Diyagramın Yarısı. Önermeler
+temsil edildi . . . . . . 59
+3. Yap. Semboller yorumlandı . . . 61
+4. Daha Küçük Diyagram. Temsil edilen önermeler. 62
+5. Yap. Yorumlanan semboller. . . 65
+6. Daha Büyük Diyagram. Temsil edilen önermeler. 67
+7. Her iki Diyagram da kullanıldı. . . . 72
+
+IV. VURUŞ YA DA TUTUŞMA. . . . . . . . . 85
+
+BÖLÜM I.
+
+ESKİLERİN YENİ LAMBALARI.
+
+"Işık gelir, ışık gider."
+_________
+
+1. Önermeler.
+
+"Bazı yeni Pastalar güzeldir."
+"Hiçbir yeni Pasta güzel değildir."
+"Tüm yeni pastalar güzeldir."
+
+Sizin için üç 'ÖNERİ' var -- bu Oyun'da kullanacağımız tek üç tür: ve yapılacak ilk şey
+bunları Tahtada nasıl ifade edeceğinizi öğrenmek.
+
+Şöyle başlayalım
+
+"Bazı yeni Pastalar güzeldir."
+
+Ancak bunu yapmadan önce, bir açıklama yapılması gerekiyor - oldukça önemli ve bir anda anlaşılması hiç de kolay olmayan bir açıklama: bu yüzden lütfen bunu ÇOK DİKKATLİCE okuyun.
+
+Dünya birçok ŞEY içerir (örneğin "Çörekler", "Bebekler", "Böcekler".
+"Savaşçılar". vb.); ve bu Şeyler birçok ÖZELLİK taşır
+(örneğin "pişmiş", "güzel", "siyah", "kırık" vb.: aslında, herhangi bir Şeye "atfedilebilen", yani "ait olduğu söylenen" her şey bir Özniteliktir). Bir Şeyden bahsetmek istediğimizde, bir ÖZNİTELİK kullanırız: bir Öznitelikten bahsetmek istediğimizde, bir SIFAT kullanırız. İnsanlar şu soruyu sormuşlardır: "Bir Şey, kendisine ait hiçbir Öznitelik olmadan var olabilir mi?" Bu çok kafa karıştırıcı bir soru ve ben cevaplamaya çalışmayacağım: burunlarımızı kıvıralım ve sanki gerçekten fark edilmeye
+değer değilmiş gibi küçümseyici bir sessizlikle yaklaşalım. Ama eğer bunu başka şekilde sorarlarsa ve "Bir Nitelik, ait olduğu bir Şey olmadan var olabilir mi?" diye sorarlarsa, hemen "Hayır: Bir Bebek, ona bakacak kimse olmadan
+tıpkı bir tren yolculuğuna çıkamaz!" diyebiliriz. "Güzel"in havada süzüldüğünü veya yerde dağıldığını, güzel OLACAK bir Şey olmadan hiç görmediniz, değil mi?
+
+Ve şimdi tüm bu uzun gevezelikle neyi kastediyorum? Şu. İki ŞEY'in adları arasına (örneğin, "bazı Domuzlar şişman Hayvanlardır") veya iki
+ÖZELLİK'in adları arasına (örneğin, "pembe açık kırmızıdır") "is" veya "are" koyabilirsiniz ve her iki durumda da bu mantıklı olacaktır. Ancak, bir ŞEY'in adı ile bir ÖZELLİK'in adı arasına (örneğin, "bazı
+Domuzlar pembedir") "is" veya "are" koyarsanız, konuştuğunuz kişiyle bir anlaşmanız olmadığı sürece mantıklı DEĞİLDİR (çünkü bir Şey
+Nasıl
+Bir Öznitelik
+OLABİLİR?). Ve bence en basit anlayış şu olurdu: Öz'ün cümlenin sonunda tekrarlanması gerekir, böylece cümle tam olarak yazıldığında "bazı Domuzlar pembedir (Domuzlar)" olur. Ve şimdi "are" kelimesi oldukça mantıklı geliyor.
+
+Bu nedenle, "bazı yeni Kekler
+güzeldir" Önermesini iyi bir şekilde anlamak için, bunun "bazı yeni Kekler
+güzeldir (Kekler)" biçiminde tam olarak yazıldığını varsaymalıyız. Şimdi bu iki
+'TERİM' içeriyor - "yeni Kekler" bunlardan biri ve "güzel (Kekler)" diğeri. Sözünü ettiğimiz "Yeni Kekler", Önermenin
+'ÖZNE'si ve "güzel (Kekler)" ise 'YÜKLEM' olarak adlandırılır.
+Ayrıca bu Önermenin 'ÖZEL' bir Önerme olduğu söylenir, çünkü Öznesinin BÜTÜNÜNDEN değil, yalnızca bir
+PARÇASINDAN söz eder. Diğer iki türün 'EVRENSEL' olduğu söylenir, çünkü Öznelerinin BÜTÜNÜNDEN söz ederler - biri güzel olmayı reddederken, diğeri bunu iddia eder, yani TÜM "yeni Kekler" sınıfından. Son olarak, 'ÖNERİ' kelimesinin kendisinin bir tanımını almak isterseniz, şunu alabilirsiniz:--"belirli bir sınıfa ait olan Şeylerin bazılarının veya hiçbirinin veya tamamının, 'Öznesi' olarak adlandırılan, aynı zamanda 'Yüklem' olarak adlandırılan, belirli bir başka sınıfa ait Şeyler olduğunu belirten bir cümle".
+
+Bu yedi kelimeyi -ÖNERİ, ÖZELLİK, TERİM, ÖZNE, YÜKLEM, BELİRLİ, EVRENSEL--bir arkadaşınız size Mantık çalışıp çalışmadığınızı sorarsa,
+çok faydalı bulacaksınız. Cevabınıza yedi kelimeyi de dahil edin ve arkadaşınız
+derinden etkilenerek gidecektir--'daha üzgün ve daha bilge bir adam'.
+
+Şimdi lütfen Tahtadaki daha küçük Diyagrama bakın ve varsayalım ki
+bu dünyadaki tüm Kekler için tasarlanmış bir dolaptır (elbette
+iyi ve büyük bir dolap olmak zorundadır). Ve varsayalım ki
+tüm yeni olanlar üst yarıya ('x' olarak işaretlenmiştir) ve
+geri kalanların hepsi (yani, yeni OLMAYANLAR) alt yarıya ('x' olarak işaretlenmiştir) konulsun. Böylece alt yarı YAŞLI Kekler, YAŞLI Kekler, TUFAYN ÖNCESİ Kekler--eğer varsa: Ben kendim pek fazla görmedim--ve benzeri şeyler içerecektir. Ayrıca varsayalım ki tüm güzel Kekler sol tarafa ('y' olarak işaretlenmiştir) ve geri kalanların hepsi (yani, güzel olmayanlar) sağ tarafa ('y' olarak işaretlenmiştir) konulsun. Şu anda, x'in "yeni", x'in "yeni değil", y'nin "güzel" ve y'nin "güzel değil" anlamına geldiğini anlamalıyız.
+
+Peki şimdi 5 numaralı bölmede ne tür Pastalar bulmayı beklersiniz?
+
+Üst yarının bir parçasıdır, görüyorsunuz; bu yüzden, içinde Pastalar varsa, bunlar YENİ olmalı: ve sol yarının bir parçasıdır; bu yüzden GÜZEL olmalılar. Bu nedenle, bu bölmede Pastalar varsa, "yeni ve güzel" çift 'ATTRİBUTE'e sahip olmalılar:
+veya harfleri kullanırsak, "x y" olmalılar.
+
+Bu bölmenin iki kenarına x, y harflerinin yazıldığını fark edin. Bunu, herhangi bir bölmedeki Şeylere hangi Niteliklerin ait olduğunu bilmek için çok kullanışlı bir kural
+bulacaksınız.
+Örneğin, 7 numaralı bölmeyi ele alalım. Orada herhangi bir Kek varsa, bunlar "x' y", yani "yeni olmayan ve güzel" olmalıdır.
+
+Şimdi başka bir anlaşma yapalım - bir bölmedeki kırmızı bir sayacın, bölmenin 'DOLU' olduğu, yani içinde BAZI Kekler olduğu anlamına gelmesi. (Mantıkta 'bazı' kelimesi 'bir veya daha fazla' anlamına gelir, bu nedenle bir bölmedeki tek bir Kek, "burada BAZI Kekler var" demek için yeterli bir neden olurdu). Ayrıca, bir bölmedeki gri bir sayacın, bölmenin 'BOŞ' olduğu, yani içinde HİÇ Kek olmadığı anlamına gelmesi konusunda anlaşalım. Aşağıdaki Diyagramlarda, KIRMIZI bir
+sayaç koyacağınız yere '1' ('bir veya daha fazla' anlamına gelir) ve GRİ bir
+sayaç koyacağınız yere '0' ('hiçbiri' anlamına gelir) koyacağım.
+
+Önermemizin Öznesi "yeni Pastalar" olduğundan, şu anda yalnızca dolabın ÜST yarısıyla ilgileniyoruz, burada
+tüm Pastalar x niteliğine, yani "yeni"ye sahip.
+
+Şimdi, dikkatimizi bu üst yarıya odaklayarak,
+şöyle işaretlenmiş olduğunu
+varsayalım,
+
+-----------
+| | |
+| 1 | |
+| | |
+-----------
+
+yani, No. 5'te kırmızı bir sayaçla. Bu bize,
+"yeni Pastalar" sınıfıyla ilgili olarak ne söylerdi?
+
+Bize bunlardan BAZILARININ x y bölmesinde olduğunu söylemez miydi?
+Yani, bazılarının (her iki bölmeye de ait olan x Niteliğine sahip olmasının yanı sıra) y Niteliğine (yani "güzel") sahip olduğunu. Bunu "bazı x-Pastalar y-(Pastalardır)" diyerek veya
+harfler yerine kelimeler koyarak,
+
+"Bazı yeni Pastalar güzeldir (Pastalar)",
+
+veya daha kısa bir biçimde,
+
+"Bazı yeni Pastalar güzeldir" diyerek ifade edebiliriz.
+
+Sonunda bu Bölümün ilk Önermesini nasıl temsil edeceğimizi bulduk. Eğer söylediklerimin hepsini AÇIKÇA anlamadıysanız, daha fazla ilerlemeyin, ancak anlayana kadar tekrar tekrar okuyun. Bunu bir kez öğrendikten sonra, geri kalan her şeyin oldukça kolay olduğunu göreceksiniz.
+
+Diğer Önermeleri yaparken, "Pastalar" kelimesini tamamen dışarıda bırakmayı kabul edersek, biraz zahmetten tasarruf etmiş oluruz. Dolabın amaçlandığı Şeyler sınıfının tamamına 'EVREN' demeyi uygun buluyorum. Bu nedenle bu işe "Bir Pasta Evreni alalım" diyerek başlayabilirdik. (Kulağa hoş geliyor, değil mi?)
+
+Elbette başka herhangi bir Şey de Kekler kadar iyi olurdu.
+"Kertenkeleler Evreni" veya hatta
+"Eşek Arıları Evreni" hakkında Önermeler yapabiliriz. (BU, içinde yaşamak için büyüleyici bir Evren olmaz mıydı?)
+
+Şimdiye kadar öğrendik ki
+
+-----------
+| | |
+| 1 | |
+| | |
+-----------
+
+"bazı x ve y", yani "bazı yeni şeyler güzeldir" anlamına gelir.
+
+Daha fazla açıklama yapmadan göreceğinizi düşünüyorum ki
+
+-----------
+| | |
+| | 1 |
+| | |
+-----------
+
+"bazı x'ler y'dir", yani "bazı yeni şeyler güzel değildir" anlamına gelir.
+
+Şimdi 5 numaraya bir GRİ sayaç koyalım ve kendimize şunun anlamını soralım
+
+-----------
+| | |
+| 0 | |
+| | |
+-----------
+
+Bu bize x y bölmesinin BOŞ olduğunu söyler, bunu "x yok y" veya "yeni Pastalar güzel değil" şeklinde ifade edebiliriz. Bu, bu Bölümün başındaki üç Önermeden ikincisidir.
+
+Aynı şekilde,
+
+------------
+| | |
+| | 0 |
+| | |
+-----------
+
+"x yok y" veya "yeni Pastalar güzel değil" anlamına gelir.
+
+Siz bundan ne anlarsınız acaba?
+
+-----------
+| | |
+| 1 | 1 |
+| | |
+-----------
+
+Umarım bunun ÇİFT Bir Önermeyi temsil ettiğini anlamakta fazla zorluk çekmezsiniz: yani, "bazı x'ler y'dir VE bazıları y'dir", yani "bazı yeniler güzeldir ve bazıları da güzel değildir."
+
+Aşağıdaki biraz daha zordur belki:
+
+-----------
+| | |
+| 0 | 0 |
+| | |
+-----------
+
+Bu, "hiçbir x y değildir VE hiçbiri y' değildir", yani "hiçbir yeni güzel değildir
+VE hiçbiri güzel değildir" anlamına gelir: bu da oldukça ilginç bir sonuca yol açar: "hiçbir yeni yoktur", yani "hiçbir Kek yeni değildir." Bunun nedeni,
+"güzel" ve "güzel olmayan"ın "yeni Pastalar" sınıfının 'TÜMÜNÜ KAPSAYAN' bir bölümünü oluşturmasıdır: yani, aralarında, tüm sınıfı TÜKETİRLER, böylece var olan tüm yeni Pastalar, bunlardan birinde veya diğerinde bulunmalıdır.
+
+Ve şimdi, "hiçbir Pasta yeni değildir" ifadesinin karşıtını, yani "bazı Pastalar yenidir" ifadesini, veya,
+kelimelerin yerine harfleri koyarak, "bazı Pastalar x'tir" ifadesini, sayaçlarla temsil etmeniz gerektiğini varsayalım, bunu nasıl yapardınız?
+
+Sanırım bu sizi biraz şaşırtacaktır. Açıkça dolabın x-yarısı BURADA bir YERE kırmızı bir sayaç koymalısınız, çünkü BAZI yeni Pastalar olduğunu biliyorsunuz. Ancak bunları SOL-EL bölmesine koymamalısınız, çünkü bunların GÜZEL olduğunu bilmiyorsunuz: ayrıca
+SAĞ-EL bölmesine de koyamazsınız, çünkü bunların GÜZEL OLMAYAN olduğunu bilmiyorsunuz.
+
+Peki, ne yapacaksınız? Bence
+zorluktan kurtulmanın en iyi yolu kırmızı sayacı xy bölmesi ile xy' bölmesi arasındaki
+BÖLME ÇİZGİSİNE yerleştirmektir. Bunu, (her zaman kırmızı sayacın yerleştirileceği yere '1' koyduğum için)
+diyagramla
+göstereceğim
+
+-----------
+| | |
+| -1- |
+| | |
+-----------
+
+Bizim zeki Amerikalı kuzenlerimiz, iki partiden birine katılmak isteyen bir adamın pozisyonunu ifade etmek için bir ifade icat ettiler --örneğin, iki partileri 'Demokratlar' ve 'Cumhuriyetçiler'--ama
+HANGİ parti olacağına karar veremiyor. Böyle bir adamın "çitin üzerinde
+oturduğu" söylenir. İşte bu, bölme çizgisine yerleştirdiğiniz kırmızı sayacın pozisyonudur. 5 numaranın görünümünü beğeniyor ve 6 numaranın görünümünü beğeniyor ve HANGİSİNE atlayacağını bilmiyor. İşte orada oturuyor, aptal herif, bacaklarını
+çitin her iki tarafına sarkıtmış!
+
+Şimdi size anlaması çok daha zor bir şey vereceğim. Bu ne anlama geliyor?
+
+-----------
+| | |
+| 1 | 0 |
+| | |
+-----------
+
+Bu açıkça bir ÇİFT Önermedir. Bize sadece
+"bazı x'ler y'dir" değil, aynı zamanda "hiçbir x y DEĞİLDİR" de der. Dolayısıyla sonuç
+"TÜM x'ler y'dir", yani "tüm yeni Kekler güzeldir"dir, bu da bu Bölümün başındaki üç Önermenin
+sonuncusudur.
+
+O zaman, Evrensel Önermenin
+
+"Tüm yeni Kekler güzeldir"
+
+birlikte ele alınan İKİ Önermeden oluştuğunu görüyoruz, yani,
+
+"Bazı yeni Kekler güzeldir"
+ve "Hiçbir yeni Kek güzel değildir."
+
+Aynı şekilde
+
+-----------
+| | |
+| 0 | 1 |
+| | |
+-----------
+
+"tüm x'ler y'dir" anlamına gelir, yani,
+
+"Tüm yeni Pastalar güzel değildir."
+
+Peki, "Bana verdiğin Pasta güzeldir" gibi bir Önerme hakkında ne düşünürdünüz? Özel mi yoksa Evrensel mi?
+
+"Elbette, özel," diye hemen cevap verirsiniz. "Tek bir Pasta'ya bile 'bazı' demek pek de doğru olmaz."
+
+Hayır, sevgili dürtüsel Okuyucum, 'Evrensel'dir. Unutmayın,
+ne kadar az olsalar da (ve kabul ediyorum ki daha az olamazlar),
+onlar (ya da daha doğrusu 'o'dur) bana verdiğin HER ŞEYDİR! Bu nedenle, eğer
+('kırmızı'yı söz konusu olmadan) Kek Evrenimi iki sınıfa bölersem - bana verdiğin Kekler (ki bunlara dolabın üst yarısını atarım) ve bana vermediğin
+(aşağıya gidecek olanlar) - alt yarının oldukça dolu, üst yarının ise mümkün olduğunca boş olduğunu görürüm. Ve sonra, her yarıya dik bir bölme koymam söylendiğinde, GÜZEL Kekleri
+solda, GÜZEL OLMAYANları
+sağda tutarak, bana verdiğin TÜM Kekleri dikkatlice toplayarak başlarım (zaman zaman kendi kendime, "Cömert yaratık! Böyle bir nezaketin karşılığını nasıl ödeyebilirim?" derim) ve onları sol taraftaki bölmeye yığarım. VE BUNU YAPMAK ÇOK UZUN SÜRMEZ!
+
+İşte sizin için bir Evrensel Öneri daha. "Barzillai Beccalegg
+dürüst bir adamdır." Bu, "Şu anda düşündüğüm TÜM Barzillai Beckalegg'ler dürüst insanlardır." anlamına gelir. (Bu ismi benim icat ettiğimi düşünüyorsunuz, değil mi? Ama ben icat etmedim. Bir taşıyıcının arabasında, Cornwall'da bir yerde.)
+
+Bu tür Evrensel Önerme (Öznenin tek bir Şey olduğu) 'BİREYSEL' Önerme olarak adlandırılır.
+
+Şimdi "GÜZEL Pastalar"ı Önermenin Öznesi olarak alalım: yani, düşüncelerimizi dolabın SOL tarafındaki yarısına, yani tüm Pastaların y niteliğine, yani "güzel"e sabitleyelim.
+
+-----
+Diyelim ki bunun şu şekilde işaretlendiğini bulduk:-- | |
+| 1 |
+Bu bize ne anlatır? | |
+-----
+| |
+| |
+| |
+-----
+
+Umarım, YATAY dikdörtgeni bu kadar ayrıntılı olarak açıkladıktan sonra, DİK olana fazla zaman harcamak gerekmez. Umarım
+kendiniz de bunun "bazı y'ler x'tir", yani
+
+"Bazı güzel Pastalar yenidir" anlamına geldiğini görürsünüz.
+
+"Ama," diyeceksiniz, "bu durumla daha önce karşılaştık. 5 numaraya kırmızı bir sayaç koydunuz ve bize bunun 'bazı yeni Pastalar güzeldir' anlamına geldiğini söylediniz; ve ŞİMDİ bize bunun 'bazı GÜZEL Pastalar YENİDİR' anlamına geldiğini söylüyorsunuz!
+Her İKİSİ de anlamına gelebilir mi?"
+
+Soru çok düşünceli bir soru ve size BÜYÜK bir itibar kazandırıyor, sevgili Okuyucu! GERÇEKTEN her ikisi anlamına geliyor. x'i (yani "yeni Pastalar") Özneniz olarak almayı ve No. 5'i YATAY bir dikdörtgenin parçası olarak görmeyi seçerseniz, bunu "bazı x'ler y'dir", yani "bazı
+yeni Pastalar güzeldir" şeklinde okuyabilirsiniz: ancak, y'yi (yani "güzel Pasta") Özneniz olarak almayı ve No. 5'i 5 DİK bir dikdörtgenin parçası olarak, O ZAMAN bunu "bazı y'ler x'tir", yani "bazı güzel
+Pastalar yenidir" şeklinde okuyabilirsiniz. Bunlar aynı gerçeği ifade etmenin sadece iki farklı yoludur.
+
+Daha fazla söze gerek kalmadan, bu dik dikdörtgenin işaretlenebileceği diğer yolları, her durumdaki anlamı ekleyerek yazacağım. Bunları yatay dikdörtgenin çeşitli durumlarıyla karşılaştırarak, umarım onları açıkça anlayabilirsiniz.
+
+Önce bir sütunu, sonra diğerini örterek ve çocukların dediği gibi 'kaçarak' bu tabloda kendinizi incelemenin iyi bir plan olduğunu göreceksiniz.
+
+Ayrıca kendinize iki tablo daha yazmanız iyi olur - biri dolabın ALT yarısı için, diğeri SAĞ yarısı için.
+
+Ve şimdi daha küçük Diyagram hakkında söylememiz gereken her şeyi söylediğimizi düşünüyorum ve daha büyük olana geçebiliriz.
+
+_________________________________________________
+|
+Semboller. | Anlamlar.
+_______________|________________________________
+----- |
+| | |
+| | | Bazı y'ler x'tir;
+| | | yani Bazı güzeller yeni değildir.
+----- |
+| | |
+| 1 | |
+| | |
+----- |
+|
+----- |
+| | | Hiçbir y x değildir;
+| 0 | | yani Hiçbir güzel yeni değildir.
+| | |
+----- | [Bunun yalnızca "Hiçbir yeni güzel değildir" ifadesinin başka bir yolu olduğunu unutmayın.]
+| | |
+| | |
+----- |
+|
+----- |
+| | |
+| | Hiçbir y x'tir;
+| | | yani Hiçbir güzel yeni değildir.
+----- |
+| | | | 0 | | | | ----- |
+| ----- |
+| | | | Hiçbir y x değildir;
+| | | yani Hiçbir güzel yeni değildir.
+----- |
+| | | |
+| 0 | |
+| | |
+----- |
+|
+----- |
+| | | | 1 | | Bazı y'ler x'tir, bazıları x'tir;
+| | | yani Bazı güzeller yenidir ve bazıları
+----- | yeni değildir.
+| | |
+| 1 | |
+| | |
+----- |
+|
+----- |
+| | |
+| 0 | | Hiçbir y x'tir ve hiçbiri x' değildir; yani Hiçbir y
+| | | var değildir;
+----- | yani Hiçbir Kek güzeldir.
+| | |
+| 0 | |
+| | | |
+----- |
+|
+----- |
+| | |
+| 1 | | Tüm y'ler x'tir;
+| | | yani Tüm güzeller yenidir.
+----- |
+| | | |
+| 0 | |
+| | | |
+----- |
+|
+----- |
+| | |
+| 0 | | Tüm y'ler x'tir;
+| | | yani Tüm güzeller yeni değildir. ----- |
+| | |
+| 1 | |
+| | |
+----- |
+_______________|_________________________________
+
+Bu, sonuncusuyla aynı şekilde bölünmüş, ancak AYRICA m Niteliği için iki bölüme ayrılmış bir dolap olarak alınabilir. m'ye "sağlıklı" anlamını verelim: ve tüm SAĞLIKLI Pastaların merkezi Karenin İÇİNE, tüm SAĞLIKSIZ Pastaların ise onun DIŞINA, yani dört tuhaf şekilli DIŞ bölmeden birine yerleştirildiğini varsayalım.
+
+Daha küçük Diyagramda, her bölmedeki Pastaların İKİ Niteliği olduğu gibi, burada da her bölmedeki Pastaların ÜÇ Niteliği olduğunu görüyoruz: ve tıpkı İKİ Niteliği temsil eden harflerin bölmenin KENARLARINA yazıldığı gibi, burada da KÖŞELERE yazılmıştır. (m'nin dört dış köşenin her birine yazılması gerektiğini unutmayın.) Böylece bir bölmeye bakarak, içindeki Şeylere ait üç Niteliğin ne olduğunu hemen söyleyebiliriz. Örneğin, No. 12'yi ele alalım. Burada köşelerde x, y', m'yi buluyoruz: böylece içindeki Keklerin, eğer varsa, üçlü Niteliğe, 'xy'm', yani "yeni, hoş olmayan ve sağlıklı" olduğunu biliyoruz. Tekrar No. 16'yı ele alalım. Burada, köşelerde x', y', m' buluyoruz: bu yüzden içindeki Kekler "yeni değil, hoş değil ve sağlıksız." (Dikkat çekici derecede cazip olmayan Kekler!)
+
+Bu diyagramda temsil edilebilen x ve y, x ve m ve y ve m'yi içeren tüm Önermeleri incelemek çok uzun sürecektir (toplamda doksan altı tane var, bu yüzden eminim beni mazur görün!) ve ben kendimi örnek olarak iki veya üç tane yapmakla yetinmek zorundayım. Kendiniz için çok daha fazlasını çözmeniz iyi olur.
+
+Üst yarıyı tek başına ele alarak, böylece Konumuz "yeni Kekler" olsun,
+"hiçbir yeni Kek sağlıklı değildir"i nasıl temsil edeceğiz?
+
+Bu, kelimeler için harfler yazmaktır, "hiçbir x m değildir." Şimdi bu bize şunu söylüyor
+Dolabın üst yarısına ait olan Keklerin hiçbiri
+Merkez Meydanın İÇİNDE bulunmuyor: yani iki bölme, No. 11 ve No. 12, BOŞ. Ve bu, elbette,
+şöyle temsil ediliyor
+
+--------------------
+| | |
+| _____|_____ |
+| | | | |
+| | 0 | 0 | |
+| | | | |
+-------------------
+
+Ve şimdi çelişkili "BAZI x
+m'dir" Önermesini nasıl temsil edeceğiz? Bu daha önce düşündüğüm bir zorluk. Bence
+en iyi yol, 11 ve 12 numaralı bölmeler arasındaki
+BÖLÜM ÇİZGİSİNE kırmızı bir sayaç yerleştirmek ve bunu iki bölmeden BİRİNİN 'dolu' olduğu, ancak şu anda HANGİSİ olduğunu bilmediğimiz anlamına geldiğini anlamak. Bunu şu şekilde temsil edeceğim:--
+
+-------------------
+| | |
+| _____|_____ |
+| | | | |
+| | -1- | |
+| | | | |
+-------------------
+
+Şimdi "tüm x'ler m'dir" ifadesini kullanalım.
+
+Bunun İKİ Önermeden oluştuğunu biliyoruz,
+
+"Bazı x'ler m'dir" ve "Hiçbir x m'dir".
+
+Önce olumsuz kısmı ifade edelim. Bu bize dolabın üst yarısına ait olan Keklerin hiçbirinin
+ortadaki Karenin DIŞINDA bulunmadığını söyler: yani, iki bölme,
+No. 9 ve No. 10, BOŞTUR. Bu, elbette, şu şekilde temsil edilir
+
+--------------------
+| 0 | 0 |
+| _____|_____ |
+| | | | |
+| | | | | | | | |
+--------------------
+
+Ancak henüz "Bazı x'ler m'dir" ifadesini temsil etmedik. Bu bize şunu söyler:
+11 ve 12 numaradan oluşan dikdörtgende BAZI Kekler vardır: bu yüzden kırmızı sayacımızı, önceki örnekte olduğu gibi,
+11 ve 12 numara arasındaki bölme çizgisine yerleştiririz ve sonuç
+
+--------------------
+| 0 | 0 |
+| _____|_____ |
+| | | | |
+| | -1- | |
+| | | | |
+-------------------
+
+Şimdi bir veya iki yorum deneyelim.
+
+x ve y açısından bundan ne çıkarmalıyız?
+
+-------------------
+| | 0 |
+| _____|_____ |
+| | | | |
+| | 1 | 0 | |
+| | | | |
+--------------------
+
+Bu bize, xy'-Kare ile ilgili olarak, HER İKİ bölme de bu şekilde işaretlendiği için, tamamen
+'boş' olduğunu söyler. xy-Kare ile ilgili olarak, bize bunun 'dolu' olduğunu söyler. Doğru, sadece
+TEK bir bölmesi bu şekilde işaretlenmiştir; ancak bu, diğerinin 'dolu' veya 'boş' olması fark etmeksizin, Karede BİR ŞEY
+olduğu gerçeğini çözmek için yeterlidir. Eğer, o zaman, m-alt bölümlerinden kurtulmak için işaretlerimizi daha küçük Diyagrama aktarırsak, onu işaretleme hakkımız olur
+
+-----------
+| | |
+| 1 | 0 |
+| | |
+-----------
+
+yani, biliyorsunuz, "tüm x'ler y'dir."
+
+Eğer verilen dikdörtgen şu şekilde işaretlenmiş olsaydı, sonuç tam olarak aynı olurdu:--
+
+---------------------
+| 1 | 0 |
+| _____|_____ |
+| | | | | | | | 0 | |
+| | | | |
+------------------
+
+Bir kez daha: bunu x ve y açısından nasıl yorumlayacağız?
+
+-------------------
+| 0 | 1 |
+| _____|_____ |
+| | | | | | | | |
+| | | | |
+-------------------
+
+Bu bize, xy-Kare ile ilgili olarak, bölmelerinden BİRİNİN 'boş' olduğunu söyler. Ancak bu bilgi tamamen işe yaramaz, çünkü DİĞER bölmede hiçbir işaret yoktur. Diğer bölme de 'boş' olsaydı, Kare 'boş' olurdu: ve 'dolu' olsaydı, Kare 'dolu' olurdu. Dolayısıyla, HANGİSİNİN olduğunu bilmediğimizden, BU Kare hakkında hiçbir şey söyleyemeyiz.
+
+Diğer Kare, xy'-Kare'nin (önceki örnekte olduğu gibi) 'dolu' olduğunu biliyoruz.
+
+O zaman, işaretlerimizi daha küçük Diyagrama aktarırsak, yalnızca şunu elde ederiz:--
+
+-----------
+| | |
+| | 1 |
+| | |
+-----------
+
+bu, bilirsiniz, "bazı x'ler y'dir" anlamına gelir.
+
+Bu ilkeler diğer tüm dikdörtgenlere uygulanabilir. Örneğin, "tüm y'ler m'dir"i temsil etmek için -------
+SAĞ EL DİK DİK DÖRTGENİ (y' niteliğine sahip olanı) şu şekilde işaretlemeliyiz:-- |--- |
+| 0 | |
+|---|-1-|
+| 0 | |
+|--- |
+| |
+-------
+
+ve, dolabın alt yarısını, aşağıdaki şekilde işaretlenmiş şekilde, x ve y açısından yorumlamamız söylenirse,
+
+------------------
+| | | | | | 0 | |
+| | | | | | | | | -----|----- |
+| 1 | 0 |
+-------------------
+
+bunu daha küçük Diyagrama şu şekilde aktarmalıyız,
+
+-----------
+| | |
+| 1 | 0 |
+| | |
+-----------
+
+ve "tüm x'ler y'dir" diye okumalıyız.
+
+Önermeler hakkında iki açıklama daha yapılması gerekiyor.
+
+Birincisi, "bazı" veya "tüm" ile başlayan her Önermede, 'Özne'nin GERÇEK VARLIĞININ ileri sürülmesidir. Örneğin, "tüm cimriler bencildir" dersem, cimrilerin GERÇEKTEN VAR OLDUĞUNU kastediyorum.
+Bu iddiayı yapmaktan kaçınmak ve yalnızca cimriliğin zorunlu olarak bencilliği içerdiği YASAYI belirtmek isteseydim, "hiçbir cimri bencil değildir" demeliydim; bu, hiçbir cimrinin var olduğunu değil, yalnızca, eğer varsa, bencil OLACAĞINI ileri sürer.
+
+Diğeri ise, bir Önerme "bazı" veya "hayır" ile başladığında ve iki Nitelikten fazlasını içerdiğinde, bu Nitelikler yeniden düzenlenebilir ve bir Terimden diğerine "istediği gibi" kaydırılabilir. Örneğin, "bazı abc'ler tanımlıdır" ifadesi "bazı bf'ler tanımlıdır" şeklinde yeniden düzenlenebilir ve her biri "bazı Şeyler abcdef'tir" ifadesine eşdeğerdir. Yine "Hiçbir akıllı ihtiyar, pervasız ve umursamaz kumarbaz değildir" ifadesi "Hiçbir pervasız ihtiyar kumarbaz, akıllı ve umursamaz değildir" şeklinde yeniden düzenlenebilir ve her biri "Hiçbir adam akıllı ihtiyar pervasız kumarbaz değildir" ile eşdeğerdir.
+
+2. Kıyaslamalar
+
+Şimdi Evrenimizi üç farklı Niteliğe göre üç şekilde böldüğümüzü varsayalım. Bu üç Nitelikten, üç farklı çift oluşturabiliriz (örneğin, bunlar a, b, c olsaydı, ab, ac, bc çiftlerini oluşturabilirdik). Ayrıca, bu üç çiftten ikisini içeren iki Önermemiz olduğunu ve bunlardan üçüncü çifti içeren üçüncü bir Önermeyi kanıtlayabileceğimizi varsayalım. (Örneğin, Evrenimizi m, x ve y'ye bölersek; ve bize verilen iki Önerme varsa, "hiçbir m x değildir" ve "tüm m'ler y'dir", mx ve my çiftlerini içeren, bunlardan x ve y'yi içeren üçüncü bir Önerme kanıtlamak mümkün olabilir.)
+
+Böyle bir durumda verilen Önermelere 'ÖNCÜLLER', üçüncüsüne 'SONUÇ' ve tüm kümeye 'BİR KARŞILIK' adını veririz.
+
+Açıkça, Niteliklerden BİRİ her iki Önermede de bulunmalıdır; aksi takdirde biri BİR Önermede bulunmalı ve diğerinde ÇELİŞKİLİ olmalıdır.
+
+İlk durumda (örneğin, Öncüller "bazı m
+ler x'tir" ve "hiçbir m y'dir" olduğunda) iki kez geçen Terim, diğer iki Terim arasında bir tür bağlantı görevi gördüğü için 'ORTA TERİM' olarak adlandırılır.
+
+İkinci durumda (örneğin, Öncüller "hiçbir m x'tir" ve "tüm m'ler y'dir" olduğunda) bu çelişkili Nitelikleri içeren iki Terim, 'ORTA TERİMLER' olarak adlandırılabilir.
+
+Bu nedenle, ilk durumda, "m-Şeyler" sınıfı Orta Terim'dir; ve ikinci durumda, "m-Şeyler" ve "m'-Şeyler"in iki sınıfı Orta Terimlerdir.
+
+Orta Terim veya Terimlerde geçen Nitelik, Sonuç'ta kaybolur ve "ortadan kaldırıldığı" söylenir, bu da tam anlamıyla "kapıdan atılmış" anlamına gelir.
+
+Şimdi iki Önermeden bir Sonuç çıkarmaya çalışalım--
+
+"Bazı yeni Kekler sağlıksızdır;
+Hiçbir güzel Kek sağlıksızdır."
+
+Bunları sayaçlarla ifade etmek için, Kekleri yeniliğe, güzelliğe ve
+sağlıklılığa göre ÜÇ farklı şekilde bölmemiz gerekir. Bunun için daha büyük Diyagramı kullanmalıyız, x'i "yeni", y'yi "güzel" ve m'yi "sağlıklı" anlamına getiririz. (Merkez Karenin İÇİNDEKİ her şeyin m niteliğine,
+DIŞINDAKİ her şeyin ise m' niteliğine, yani "m olmayan"a sahip olması gerekir.)
+
+M'yi ORTA Terim veya Terimlerde bulunan Nitelik anlamına getirmek için kuralı benimsemeniz daha iyi olur. (Sembol olarak m'yi seçtim,
+çünkü 'orta' 'm' ile başlıyor.)
+
+Şimdi, iki Önermeyi temsil ederken, NEGATİF olanla ('hayır' ile başlayan) başlamayı tercih ediyorum, çünkü GRİ sayaçlar
+her zaman KESİNLİKLE yerleştirilebilir ve daha sonra kırmızı sayaçların konumunu sabitlemeye yardımcı olur, ki bunlar bazen en çok nerede hoş karşılanacakları konusunda biraz belirsizdir.
+
+"Hiçbir güzel Kek sağlıksız (Kek) değildir", yani
+"hiçbir y-Kek m'-(Kek) değildir" ifadesini ifade edelim. Bu bize dolabın y-yarısı'na ait olan Keklerin hiçbirinin m'-bölmelerinde olmadığını söyler (yani, merkezi Karenin dışındakiler). Dolayısıyla iki bölme,
+No. 9 ve No. 15, ikisi de 'BOŞ'tur; ve bunların HER BİRİNE bir gri sayaç yerleştirmeliyiz, böylece:--
+
+-----------
+|0 | |
+| --|-- |
+| | | | |
+|--|------|--|
+| | | | |
+| --|-- |
+|0 | |
+-----------
+
+Şimdi diğer Öncülü ifade etmeliyiz, yani, "bazı yeni Kekler
+sağlıksızdır (Kekler)", yani "bazı x-Kekler m'-(Kekler)". Bu bize dolabın x-yarısı içindeki Keklerden bazılarının
+m'-bölmelerinde olduğunu söyler. Dolayısıyla iki bölmeden BİRİ, No.
+9 ve No. 10, 'işgal edilmiş'tir: ve, kırmızı sayacı bu iki bölmeden HANGİSİNİN
+yerleştirileceği söylenmediğinden, olağan kural
+onu aralarındaki bölme çizgisine koymak olurdu: ancak, bu durumda, diğer Öncül, 9 No'luyu BOŞ ilan ederek meseleyi bizim için çözmüştür. Bu nedenle, kırmızı sayacın başka seçeneği yoktur ve 10 No'luya GİTMELİDİR, böylece:--
+
+-----------
+|0 | 1|
+| --|-- |
+| | | | |
+|--|------|--|
+| | | | |
+| --|-- |
+|0 | |
+-----------
+
+Ve şimdi bu bilgi, yalnızca x ve y'yi içeren, m'yi dışarıda bırakan bir Önerme elde etmek için, DAHA KÜÇÜK Diyagrama hangi sayaçları yerleştirmemizi sağlayacaktır? Dört bölmesini tek tek ele alalım.
+
+Öncelikle, No. 5. BUNUN hakkında bildiğimiz tek şey DIŞ kısmının boş olduğudur: ancak iç kısmı hakkında hiçbir şey bilmiyoruz. Dolayısıyla
+Kare boş OLABİLİR veya içinde bir şey OLABİLİR. Kim söyleyebilir?
+Bu yüzden bu Kareye HİÇBİR sayaç koymaya cesaret edemeyiz.
+
+İkincisi, No. 6'ya ne demeli? Burada biraz daha iyi durumdayız.
+İçinde BİR ŞEY olduğunu biliyoruz, çünkü dış kısmında kırmızı bir sayaç var.
+İç kısmının boş mu yoksa dolu mu olduğunu bilmediğimiz doğru: ancak BUNUN ne önemi var?
+Karenin bir köşesindeki tek bir
+kek, "BU KARE DOLU" demek ve kırmızı bir sayaçla işaretlemek için
+yeterli bir bahanedir.
+
+7.'ye gelince, 5.'de olduğu gibi aynı durumdayız - onu KISMEN 'boş' buluyoruz, ancak diğer kısmın boş mu yoksa dolu mu olduğunu bilmiyoruz: bu yüzden bu Kareyi işaretlemeye cesaret edemiyoruz.
+
+Ve 8.'ye gelince, hiçbir bilgimiz yok.
+
+Sonuç şudur
+
+-------
+| | 1 |
+|---|---|
+| | |
+-------
+
+Sonucumuz, o zaman, xy'-Karesinde kırmızı bir sayaç olduğu şeklindeki oldukça yetersiz bilgi
+parçasından çıkarılmalıdır.
+Bu nedenle Sonucumuz "bazı x'ler y'dir", yani "bazı yeni Pastalar güzel değildir (Pastalar)": veya, eğer y'yi Özne olarak almayı tercih ederseniz,
+"bazı güzel olmayan Pastalar yenidir (Pastalar)"; ancak diğeri en temiz görünüyor.
+
+Şimdi tüm Kıyaslamayı yazacağız, "bu nedenle" için
+&there4[*] sembolünü koyacağız ve her Önermenin sonuna "Kekler"i kısalık uğruna
+çıkaracağız.
+
+[*][Brett'ten NOT: "&there4" kullanımı oldukça keyfi bir
+seçimdir. Genel uygulamada "bu nedenle" sembol düzeltmesini (üçgen biçiminde üç nokta)
+işleyen
+bir yazı tipi mevcut değildir. Ancak bu, HTML'de yapılabilir, bu nedenle
+bu belge bir tarayıcıda okunursa, sembol düzgün bir şekilde
+tanıtılacaktır. Bu zavallı bir adamın bahanesidir.]
+
+"Bazı yeni Kekler sağlıksızdır;
+Hiçbir güzel Kek sağlıksızdır
+&there4 Bazı yeni Kekler hoş değildir."
+
+Ve şimdi ilk 'Kıyaslamanızı' başarıyla çözmüş oldunuz. Sizi tebrik etmeme ve bunun benzer zaferlerin uzun ve görkemli bir serisinin başlangıcı olması umudunu dile getirmeme izin verin!
+
+Bir başka Kıyaslama daha yapacağız -sonuncusundan biraz daha zor bir Kıyaslama- ve sonra, sanırım, Oyunu
+tek başınıza veya (daha iyisi) spora katılmaya istekli ve yetenekli bulabileceğiniz herhangi bir arkadaşınızla
+oynamaya güvenle bırakılabilirsiniz.
+
+İki Önermeyi nasıl yorumlayabileceğimize bakalım--
+
+"Bütün Ejderhalar ürkütücüdür;
+
+Bütün İskoçlar kurnazdır."
+
+Unutmayın, Önermelerin GERÇEKLER olduğunu garanti etmiyorum. İlk olarak,
+ben hiç Ejderha görmedim: ve ikinci olarak,
+bizler, MANTIKÇILAR olarak,
+Öngörülerimizin doğru ya da yanlış olmasının en ufak bir önemi yok:
+Yapmamız gereken tek şey,
+ONLARIN MANTIKSAL OLARAK SONUCA ULAŞIP ULAŞMADIĞINI anlamak, böylece, eğer
+ONLAR doğruysa, O da doğru olurdu.
+
+Görüyorsunuz, şimdi "Keklerden" vazgeçmeliyiz, yoksa
+dolabımız bizim için hiçbir işe yaramayacak. 'Evren'imiz olarak Ejderhalar ve İskoçlar'ı içerecek bir şeyler sınıfını almalıyız: 'Hayvanlar' diyelim mi? Ve, "canny" açıkça 'Orta Terimler'e ait Nitelik olduğundan, m'nin "canny", x'in "Ejderhalar" ve y'nin "Scotchmen" anlamına gelmesine izin vereceğiz. Böylece iki Önermemiz, tam olarak, 
+
+"Bütün Ejderha-Hayvanlar ürkütücüdür (Hayvanlar); 
+Bütün İskoç-Hayvanlar uyanıktır (Hayvanlar)." 
+
+Ve bunlar, kelimeler yerine harfler kullanılarak şu şekilde ifade edilebilir:--
+
+"Bütün x'ler m'dir; 
+Bütün y'ler m'dir." 
+
+İlk Önerme, bildiğiniz gibi, iki bölümden oluşur:--
+
+"Bazı x'ler m'dir"
+ve "Hiçbir x m değildir." 
+
+İkincisi de iki bölümden oluşur:--
+
+"Bazı y'ler m'dir"
+ve "Hiçbir y m'dir."
+
+Önce negatif kısımları ele alalım.
+
+Daha sonra, daha büyük Diyagramda önce "hiçbir x m'dir" ve ikinci olarak "hiçbir y m'dir" ifadelerini işaretlememiz gerekir. Sanırım, daha fazla açıklama yapmadan, iki sonucun ayrı ayrı
+
+----------- -----------
+| | | |0 | |
+| --|-- | | --|-- |
+| |0 | 0 | | | | | | |
+|--|--|--|--| |--|--|--|
+| | | | | | | | | --|-- | | --|-- |
+| | | | | | | --|-- | | --|-- |
+| | | | | |0 | |
+----------- -----------
+
+ve bu ikisi birleştirildiğinde bize şunu verir
+
+-----------
+|0 | |
+| --|-- |
+| |0 | 0| |
+|--|--|---|--|
+| | | | |
+| --|-- |
+|0 | |
+-----------
+
+Şimdi iki pozitif kısmı, "bazı x'ler m'dir" ve "bazı y'ler m'dir" şeklinde işaretlememiz gerekiyor.
+
+xm' olan Şeyler için kullanılabilen tek iki bölme
+No. 9 ve No. 10'dur. Bunlardan No. 9 zaten 'boş' olarak işaretlenmiştir;
+bu yüzden kırmızı sayacımız No. 10'a girmelidir.
+
+Benzer şekilde, ym için kullanılabilen tek ikisi No. 11 ve No. 13'tür.
+Bunlardan No. 11 zaten 'boş' olarak işaretlenmiştir; bu yüzden kırmızı sayacımız
+13. numaraya GİRMEK ZORUNDADIR.
+
+Sonuç şudur
+
+-----------
+|0 | 1|
+| --|-- |
+| |0 | 0| |
+|--|--|--|--|
+| |1 | | |
+| --|-- |
+|0 | |
+-----------
+
+Ve şimdi bu bilginin ne kadarı daha küçük Diyagrama
+ya faydalı bir şekilde aktarılabilir?
+
+Dört bölmesini tek tek ele alalım.
+
+5. numaraya gelince? Bunun tamamen 'boş' olduğunu görüyoruz. (Bu yüzden onu gri bir
+sayaçla işaretleyin.)
+
+6. numaraya gelince? Bunun 'dolu' olduğunu görüyoruz. (Bu yüzden onu kırmızı bir
+sayaçla işaretleyin.)
+
+7. numaraya gelince? Aynısı, aynısı.
+
+8. numaraya gelince? Bilgi yok.
+
+Daha küçük Diyagram şimdi oldukça cömertçe işaretlenmiştir:--
+
+-------
+| 0 | 1 |
+|---|---|
+| 1 | |
+-------
+
+Ve şimdi bundan hangi Sonucu çıkarabiliriz? Pekala, bu kadar bol bilgiyi TEK bir Önermeye sığdırmak
+imkansızdır:
+bu sefer İKİ önermeye katlanmak zorundayız.
+
+İlk olarak, x'i Özne alarak, "tüm x'ler y'dir", yani,
+
+"Tüm Ejderhalar İskoç Değildir":
+
+ikinci olarak, y'yi Özne alarak, "tüm y'ler x'tir", yani,
+
+"Tüm İskoç Ejderhalar Ejderha Değildir".
+
+Şimdi, hep birlikte, iki Önermemizi ve iki
+Sonucumuzu yazalım.
+
+"Bütün Ejderhalar ürkütücüdür;
+Bütün İskoçlar kurnazdır.
+&there4 Bütün Ejderhalar İskoç değildir;
+Bütün İskoçlar Ejderha değildir. "
+
+Sonuç olarak, herhangi bir Şeyin VAR OLDUĞUNUN hiç varsayılmadığı mantıksal incelemelerle karşılaşabileceğinizi belirtmeme izin verin, "bazı x'ler y'dir" ifadesinin "x, y Nitelikleri UYUMLUDUR, böylece bir Şey her ikisine birden sahip olabilir" anlamına geldiği ve "hiçbir x y değildir" ifadesinin "x, y Nitelikleri UYUMSUZDUR, böylece hiçbir şey her ikisine birden sahip olamaz" anlamına geldiği anlaşılmaktadır.
+
+Bu tür incelemelerde, Önermeler bizim 'Mantık Oyunu'muzdakinden oldukça farklı anlamlara sahiptir ve farkın tam olarak ne olduğunu anlamak iyi olacaktır.
+
+Öncelikle "bazı x'ler y'dir" ifadesini ele alalım. Burada "var" ifadesinin "gerçek bir GERÇEK" anlamına geldiğini anlıyoruz--ki bu elbette bazı x-Şeylerin VAR OLDUĞU anlamına gelir.
+Ancak ONLAR (bu diğer incelemelerin yazarları) yalnızca "var" ifadesini "OLABİLİR" anlamına geldiğini anlarlar, bu da hiç bir şekilde herhangi bir VAROLUŞ anlamına gelmez.
+Yani onlar bizimkinden DAHA AZ anlamına gelir: bizim anlamımız onlarınkini içerir (elbette "bazı x y'dir" "bazı x y OLABİLİR"i içerir), ancak onlarınki bizimkini içermez. Örneğin, "bazı Gal su aygırları ağırdır" ifadesi bu yazarlara göre DOĞRU olurdu (çünkü "Galce" ve "ağır" Nitelikleri bir su aygırında oldukça UYUMLUDUR), ancak bizim Oyunumuzda YANLIŞ olurdu (çünkü ağır OLABİLECEK Gal su aygırı yoktur).
+
+İkinci olarak, "hiçbir x y değildir" ifadesini ele alalım. Burada BİZ "var" ifadesinin yalnızca "gerçek bir GERÇEK olarak var" anlamına geldiğini anlıyoruz--bu hiçbir x'in y OLABİLECEĞİ anlamına gelmez. Ancak ONLAR, Önermenin yalnızca hiçbirinin y OLMADIĞI değil, aynı zamanda hiçbirinin MUHTEMELEN y OLABİLECEĞİ anlamına geldiğini anlıyorlar. Yani onlar bizimkinden daha fazla şey ifade ediyor: onların anlamı bizimkini de içeriyor (elbette "hiçbir x y OLAMAZ" ifadesi "hiçbir x y DEĞİLDİR" ifadesini içerir), ancak bizimki onlarınkini İÇERMEZ.
+Örneğin, "hiçbir Polis sekiz fit boyunda değildir" ifadesi bizim Oyunumuz için DOĞRU olurdu (çünkü gerçek bir gerçek olarak, böyle muhteşem örnekler
+hiçbir zaman bulunmamıştır), ancak bu yazarlara göre YANLIŞ olurdu
+(çünkü "Polis Gücüne ait" ve "sekiz fit yüksekliğinde" Nitelikleri oldukça UYUMLUDUR: bir Polisin, Rowland'ın Makassar Yağı ile yeterince ovalandığında o boya ulaşmasını ENGELLEYECEK hiçbir şey yoktur--saçlara sürüldüğünde SAÇ UZATTIĞI söylenir ve böylece elbette bir Polise sürüldüğünde bir POLİS'in UZATMASINI sağlar).
+
+Üçüncüsü, "tüm x'ler y'dir"i ele alalım, bu iki kısmi Önerme olan "bazı x'ler y'dir" ve "hiçbir x y'dir"den oluşur. Burada, elbette,
+incelemeler BİRİNCİ kısımda yaptığımızdan DAHA AZ ve İKİNCİ kısımda yaptığımızdan DAHA FAZLA anlamına gelir. Ancak bu iki işlem birbirini dengelemez - tıpkı bacalarından birini deviren bir adamı fazladan bir kapı basamağı vererek teselli edememeniz gibi.
+
+Bu tür Kıyaslamalarla karşılaşırsanız, bunları size verdiğim sistemle oldukça
+kolay bir şekilde işleyebilirsiniz: 'var'ın 'olma KABİLİYETİ' anlamına gelmesi yeterlidir ve her şey yolunda gider. Çünkü
+"bazı x'ler y'dir" ifadesi "bazı x'ler y olma kabiliyetine sahiptir", yani "x, y Nitelikleri UYUMLUDUR" haline gelecektir. Ve "hiçbir x, y değildir" ifadesi "hiçbir x, y olma yeteneğine sahip değildir", yani "x, y Nitelikleri UYUMSUZDUR" haline gelecektir. Ve tabii ki, "tüm x'ler y'dir" ifadesi "bazı x'ler y olma yeteneğine sahiptir ve hiçbiri y olma yeteneğine sahip değildir", yani "x, y Nitelikleri UYUMSUZDUR ve x, y Nitelikleri UYUMSUZDUR" haline gelecektir. Bu sistem için Diyagramları kullanırken, kırmızı bir sayacın "bu bölmede OLASI BİR ŞEY
+olabilir" anlamına geldiğini ve gri bir sayacın "bu bölmede OLASI BİR ŞEY
+olamaz" anlamına geldiğini anlamalısınız.
+
+3. Yanılgılar.
+
+Ve siz de, gerçek hayatta Mantığın başlıca kullanımının,
+işlevsel Önermelerden Sonuçlar çıkarmak ve
+başkaları tarafından çıkarılan Sonuçların doğru olduğuna kendinizi ikna etmek olduğunu düşünüyor musunuz? Keşke öyle olsaydı! Toplum paniğe ve diğer sanrılara çok daha az maruz kalırdı ve özellikle SİYASİ hayat,
+dünyanın dört bir yanına dağılmış şekilde yayınlanan argümanların çoğunluğu bile doğru olsaydı,
+tamamen farklı bir şey olurdu! Ama korkarım ki her şey
+tam tersi. Gazetenizi veya derginizi okurken karşılaştığınız BİR uygulanabilir Önerme Çifti (mantıksal bir Sonuca götüren bir Çift demek istiyorum) için, muhtemelen hiçbir Sonuca götürmeyen BEŞ tane bulacaksınız: ve Önermeler uygulanabilir olsa bile, yazarın doğru bir Sonucu çıkardığı BİR örnekte, muhtemelen yanlış bir Sonucu çıkardığı ON tane vardır.
+
+İlk durumda, "ÖNERİLER yanıltıcıdır" diyebilirsiniz:
+ikinci durumda, "SONUÇ yanıltıcıdır."
+
+Bu Oyunun size öğretebileceği Mantıksal beceride bulacağınız başlıca kullanım, bu iki türdeki 'YANILGILARI' tespit etmek olacaktır.
+
+İlk tür Yanılgıyı - 'Yanıltıcı Önermeler' - daha büyük Diyagramda işaretledikten sonra, işaretleri daha küçük olana aktarmaya çalıştığınızda tespit edeceksiniz. Dört bölmesini tek tek ele alacak ve her biri için sırayla "BURAYA hangi işareti koyabilirim?" diye soracaksınız;
+ve HER BİRİNDE cevap "Hiçbir bilgi yok!" olacak ve bu da HİÇBİR SONUÇ OLMADIĞINI gösterecektir. Örneğin,
+
+"Bütün askerler cesurdur;
+Bazı İngilizler cesurdur.
+&there4 Bazı İngilizler askerdir."
+
+alışılmadık şekilde bir Kıyaslamaya BENZİYOR ve daha az deneyimli bir Mantıkçıyı kolayca anlayabilir. Ama SİZ böyle bir
+hileyle yakalanmamalısınız! Sadece Öncülleri ortaya koyarsınız ve sonra sakin bir şekilde "Yanlış ÖNCÜLLER!" diye belirtirsiniz: yazarın hangi SONUCU çıkardığını sormaya tenezzül etmezsiniz--bildiğiniz gibi,
+NE OLURSA OLSUN, YANLIŞ OLMASI GEREKİR. Tıpkı "Mary, sadece kreşe git ve Bebeğin ne yaptığını gör VE ONA BUNU YAPMAMASINI SÖYLE!" diyen o akıllı anne kadar güvende olurdunuz.
+
+Diğer tür Yanılgıyı -'Yanıltıcı Sonuç'- HER İKİ Diyagramı da işaretleyene, doğru Sonucu okuyana ve yazarın çıkardığı Sonuçla karşılaştırana kadar fark edemezsiniz.
+
+Ancak, "YANILTI YANILTI SONUCU" dememelisiniz, çünkü doğru olanla AYNI DEĞİLDİR: doğru Sonucun bir PARÇASI olabilir ve bu yüzden OLDUĞU KADAR doğru olabilir.
+Bu durumda, sadece acıyan bir gülümsemeyle "HATALI Sonuç!" diye yorum yaparsınız. Diyelim ki, örneğin, şu
+Syllogism ile karşılaşacaksınız:--
+
+"Bütün bencil olmayan insanlar cömerttir;
+Hiçbir cimri cömert değildir.
+&Hiçbir cimri bencil değildir."
+
+Öncülleri harflerle şu şekilde ifade edilebilir:--
+
+"Bütün x'ler m'dir;
+Hiçbir y m'dir."
+
+Burada doğru Sonuç "Bütün x'ler y'dir" (yani,
+"Bütün bencil olmayan insanlar cimri değildir") olurdu, yazarın çıkardığı Sonuç ise "Hiçbir y x' değildir" (bu "Hiçbir x y değildir" ile aynıdır ve "Bütün x'ler y'dir" ifadesinin bir PARÇASI da öyledir.) Burada basitçe "HATALI Sonuç!" derdiniz. Aynı şey, bir şekerci dükkanında olsaydınız ve küçük bir çocuk içeri girip iki peni
+bırakıp tek bir penilik çörekle zaferle yürüseydi de olurdu. Başınızı kederle sallar ve "Kusurlu
+Sonuç! Zavallı küçük adam!" derdiniz. Ve belki de tezgahın arkasındaki genç hanıma, küçük çocuğun parasını ödeyip geride bıraktığı
+çöreği SİZİN yemenize izin verip vermeyeceğini sorardınız: ve
+belki de O "Yapma!" diye cevap verirdi.
+
+Fakat eğer yukarıdaki örnekte yazar "Bütün cimriler bencildir" (yani, "Bütün y'ler x'tir") Sonucunu çıkarmış olsaydı, bu onun meşru haklarının ÖTESİNE geçmek olurdu (çünkü Öncüllerde yer almayan y'nin VARLIĞINI ileri sürerdi) ve siz de "Yanlış Sonuç!" derdiniz.
+
+Şimdi, Mantık üzerine diğer incelemeleri okuduğunuzda, her zaman böyle olmayan çeşitli (sözde) 'Yanlış Düşünceler'le karşılaşacaksınız. Örneğin, bu Mantıkçılardan birinin önüne Önerme Çiftini koyacak olsaydınız
+
+"Hiçbir dürüst adam aldatmaz;
+Hiçbir dürüst olmayan adam güvenilir değildir. "
+
+ve ona hangi Sonuç'un çıktığını sorsaydık, muhtemelen şöyle derdi:
+"Hiçbiri! Önermeleriniz İKİ ayrı Kurala aykırıdır ve
+olabilecekleri kadar yanıltıcıdır!" O zaman diyelim ki "Sonuç şudur: 'Hiçbir hile yapan adam güvenilir değildir'" diyecek kadar cesursunuz,
+Mantıklı arkadaşınızın aceleyle yüzünü çevireceğinden korkuyorum - belki öfkeyle,
+belki de sadece alaycı bir şekilde: her durumda, sonuç tatsız olurdu.
+DENEYİ DENEMEMEYİ TAVSİYE EDERİM!
+
+"Ama neden böyle?" diyeceksiniz. "Bize tüm bu Mantıkçıların
+yanlış olduğunu mu söylemek istiyorsunuz?" Kesinlikle hayır, sevgili Okuyucu! ONLARIN
+bakış açılarından, tamamen haklılar. Ama
+sistemlerine, olası Kıyas biçimlerinin TÜMÜNE benzer hiçbir şey dahil etmiyorlar.
+
+Olumsuz bir parçacıkla başlayan Niteliklere karşı bir tür sinirsel korkuları var. Örneğin, "Tüm x olmayanlar y'dir", "Hiçbir x y değildir" gibi Önermeler sistemlerinin oldukça dışındadır. Ve
+böylece, (tamamen gerginlikten) çok sayıda yararlı formu dışladıktan sonra, izin verdikleri birkaç
+forma oldukça uygulanabilir olsalar da, olası tüm
+formları düşündüğünüzde hiç işe yaramayan kurallar koymuşlardır.
+
+Onlarla tartışmayalım sevgili Okuyucu! Dünyada ikimiz için de yeterince yer var. Daha geniş sistemimizi sessizce ele alalım:
+ve eğer onlar tüm bu yararlı formlara gözlerini kapatmayı seçerlerse,
+ve "Bunlar hiç de Kıyas değil!" derlerse, biz sadece bir kenara çekilip
+onların Kaderlerine Koşmalarına izin verebiliriz! Kaderiniz kadar Koşmanın tehlikeli olduğu neredeyse hiçbir şey yoktur. Patates yataklarınıza veya Çilek yataklarınıza
+çok fazla zarar vermeden
+Hızla saldırabilirsiniz: hatta Balkonunuza bile Hızla saldırabilirsiniz (yeni bir ev olmadığı, sözleşmeyle inşa edilmediği ve bir inşaat memuru olmadığı sürece)
+ve bu cüretkar girişimden sağ çıkabilirsiniz: ancak bir kez KADERİNİZE
+Hızla saldırırsanız - neden, sonuçlarına katlanmak zorundasınız!
+
+BÖLÜM II.
+
+ÇAPRAZ SORULAR.
+
+"Çöldeki Adam bana
+'Denizde kaç tane çilek yetişir?' diye sordu."
+__________
+
+1. Temel.
+
+1. Bir 'Özellik' nedir? Örnekler verin.
+
+2. İki isim arasına "is" veya "are" koymak ne zaman mantıklıdır?
+
+Örnekler verin.
+
+3. Ne zaman mantıklı DEĞİLDİR? Örnekler verin.
+
+4. Ne zaman mantıklı DEĞİLDİR, mantıklı olması için
+yapılacak en basit anlaşma nedir?
+
+5. 'Önerme', 'Terim', 'Özne' ve 'Yüklem'i açıklayın.
+Örnekler verin.
+
+6. 'Özel' ve 'Evrensel' Önermeler nelerdir?
+Örnekler verin.
+
+7. Daha küçük Diyagrama baktığımızda, her bölmedeki şeylere hangi Niteliklerin ait olduğunu bilmek için bir kural verin.
+
+8. Mantıkta "bazı" ne anlama gelir? [Bkz. s. 55, 6]
+
+9. Bu Oyun'da 'Evren' kelimesini hangi anlamda kullanıyoruz?
+
+10. 'Çift' Önerme nedir? Örnekler verin.
+
+11. Bir Şey sınıfının 'kapsamlı' olarak bölündüğü ne zaman söylenir?
+Örnekler verin.
+
+12. "Çitin üzerinde oturmak" ifadesini açıklayın.
+
+13. Birlikte alındığında, "tüm x'ler y'dir" şeklinde hangi iki kısmi Önerme oluşur?
+
+14. 'Bireysel' Önermeler nelerdir? Örnekler verin.
+
+15. Bu Oyun'da hangi tür Önermeler, Öznelerinin VARLIĞINI ima eder?
+
+16. Bir Önerme iki Nitelikten fazlasını içerdiğinde, bu Nitelikler bazı durumlarda yeniden düzenlenebilir ve bir Terimden diğerine kaydırılabilir. Bu hangi durumlarda yapılabilir? Örnekler verin.
+
+__________
+
+Aşağıdakilerin her birini iki kısmi Önermeye bölün:
+
+17. Tüm kaplanlar vahşidir.
+
+18. Tüm haşlanmış yumurtalar sağlıksızdır.
+
+19. Mutluyum.
+
+20. John evde değil.
+
+__________
+
+[Bkz. s. 56, 7]
+
+21. Daha büyük Diyagrama baktığımızda, her bölmede bulunan Şeylere hangi Niteliklerin ait olduğunu bilmek için bir kural verin.
+
+22. 'Önkoşullar', 'Sonuç' ve 'Kıyas'ı açıklayın. Örnekler verin.
+
+23. 'Orta Terim' ve 'Orta Terimler' ifadelerini açıklayın.
+
+24. Daha büyük Diyagramda bir Önerme çiftini işaretlerken, OLUMLU olanlardan önce OLUMSUZ Önermeleri işaretlemek neden en iyisidir?
+
+25. Mantıkçılar olarak, Öncüllerin doğru veya yanlış olmasının bizim için neden bir önemi yoktur?
+
+26. "Bazı x'ler y'dir" ifadesinin "x, y Nitelikleri UYUMLUDUR" ve "hiçbir x y değildir" ifadesinin "x, y Nitelikleri UYUMSUZDUR" anlamına geldiği söylenen Kıyasları nasıl işleyebiliriz?
+
+27. İki tür 'Yanılgı' nedir?
+
+28. 'Yanıltıcı Öncülleri' nasıl tespit edebiliriz?
+
+29. 'Yanıltıcı Bir Sonucu' nasıl tespit edebiliriz?
+
+30. Bazen bize sunulan Sonuç, doğru Sonuçla özdeş değildir ve yine de adil bir şekilde 'Yanıltıcı' olarak adlandırılamaz.
+Bu ne zaman olur? Ve böyle bir Sonuca ne ad verebiliriz?
+
+[Bkz. s. 57-59]
+
+2. Küçük Diyagramın Yarısı.
+
+Temsil edilecek önermeler.
+
+-----------
+| | |
+| x |
+| | |
+--y-----y'-
+
+__________
+
+1. Bazı x'ler y değildir.
+
+2. Tüm x'ler y değildir.
+
+3. Bazı x'ler y'dir ve bazıları y değildir.
+
+4. Hiçbir x yoktur.
+
+5. Bazı x'ler vardır.
+
+6. Hiçbir x y değildir.
+
+7. Bazı x'ler y değildir ve bazı x'ler vardır.
+
+__________
+
+x="yargıçlar"; y="adil"; alarak
+
+8. Hiçbir yargıç adil değildir.
+
+9. Bazı yargıçlar adil değildir.
+
+10. Tüm yargıçlar adildir.
+
+__________
+
+x="erikler"; y="sağlıklı"; alarak
+
+11. Bazı erikler sağlıklıdır.
+
+12. Sağlıklı erik yoktur.
+
+13. Eriklerin bazıları sağlıklıdır, bazıları değildir.
+
+14. Tüm erikler sağlıksızdır.
+
+[Bkz. s. 59, 60]
+
+-----
+| |
+| x
+| |
+|--y--|
+| |
+| x'
+| |
+-----
+
+__________
+
+Y="çalışkan öğrenciler"; x="başarılı"; alındığında
+
+15. Hiçbir çalışkan öğrenci başarısız değildir.
+
+16. Tüm çalışkan öğrenciler başarılıdır.
+
+17. Hiçbir öğrenci çalışkan değildir.
+
+18. Bazı çalışkan ama başarısız öğrenciler vardır.
+
+19. Bazı öğrenciler çalışkandır.
+
+[Bkz. s. 60, 1]
+
+3. Küçük Diyagramın Yarısı.
+
+Yorumlanması gereken semboller.
+
+__________
+
+-----------
+| | |
+| x |
+| | |
+--y-----y'-
+
+__________
+
+------- -------
+| | | | |
+1. | | 0 | 2. | 0 | 0 |
+| | | | | |
+------- -------
+
+------- -------
+| | | | |
+3. | - | 4. | 0 | 1 |
+| | | | | |
+------- -------
+
+__________
+
+Almak x="iyi bilmeceler"; y="zor";
+
+------- -------
+| | | | | |
+5. | 1 | | 6. | 1 | 0 |
+| | | | | |
+------- -------
+
+------- -------
+| | | | | |
+7. | 0 | 0 | 8. | 0 | |
+| | | | | |
+------- -------
+
+__________
+
+[Bkz. s. 61, 2]
+
+x="ıstakoz"; y="bencil"; alarak
+
+------- -------
+| | | | | |
+9. | | 1 | 10. | 0 | |
+| | | | | |
+------- -------
+
+------- -------
+| | | | | |
+11. | 0 | 1 | 12. | 1 | 1 |
+| | | | | |
+------- -------
+
+__________
+
+-----
+| |
+x |
+| |
+|--y'-|
+| |
+x' |
+| |
+-----
+
+y="sağlıklı insanlar"; x="mutlu"; alarak
+
+--- --- --- --- ---
+| 0 | | | | 1 | | 0 |
+13. |---| 14. |-1-| 15. |---| 16. |---|
+| 1 | | | | | 1 | | |
+--- --- --- --- ---
+
+[Bkz. s. 62]
+
+4. Daha Küçük Diyagram.
+
+Temsil edilecek önermeler.
+
+-----------
+| | |
+| x |
+|--y--|--y'-|
+| x' |
+| | |
+-----------
+
+__________
+
+1. Tüm y'ler x'tir.
+
+2. Bazı y'ler x değildir.
+
+3. Hiçbir x olmayan, y değildir.
+
+4. Bazı x'ler y değildir.
+
+5. Bazı y olmayanlar x'tir.
+
+6. Hiçbir x olmayan, y değildir.
+
+7. Bazı x olmayanlar y değildir.
+
+8. Tüm x olmayanlar y değildir.
+
+9. Bazı y olmayanlar vardır.
+
+10. Hiçbir x olmayan yoktur.
+
+11. Bazı y'ler x'tir ve bazıları x değildir.
+
+12. Tüm x'ler y'dir ve tüm y olmayanlar x değildir.
+
+[Bkz. s. 62, 3]
+
+"Milletleri" Evren olarak ele alırsak; x="medeni";
+y="savaşçı";
+
+13. Hiçbir medeniyetsiz millet savaşçı değildir.
+
+14. Savaşçı olmayan tüm uluslar uygarlaşmamıştır.
+
+15. Bazı uluslar savaşçı değildir.
+
+16. Savaşçı olan tüm uluslar uygardır ve tüm uygar uluslar
+savaşçıdır.
+
+17. Hiçbir ulus uygarlaşmamıştır.
+
+__________
+
+"Timsahları" Evren olarak alırsak; x="aç"; ve
+y="sevimli";
+
+18. Aç olan tüm timsahlar sevimsizdir.
+
+19. Açken hiçbir timsah sevimsiz değildir.
+
+20. Aç olmadıklarında bazı timsahlar sevimlidir; ancak bazıları
+değildir.
+
+21. Hiçbir timsah sevimsiz değildir ve bazıları aç.
+
+22. Aç olmadıklarında tüm timsahlar sevimsizdir; ve sevimsiz olan tüm timsahlar açtır.
+
+23. Bazı aç timsahlar cana yakındır ve aç olmayan bazıları ise cana yakın değildir.
+
+[Bkz. s. 63, 4]
+
+5. Daha Küçük Diyagram.
+
+Yorumlanacak semboller.
+
+__________
+
+-----------
+| | |
+| x |
+|--y--|--y'-|
+| x' |
+| | |
+-----------
+
+__________
+
+------- -------
+| | | | |
+1. |---|---| 2. |---|---|
+| 1 | | | | 0 |
+------- -------
+
+------- ------
+| | 1 | | | |
+3. |---|---| 4. |---|---|
+| | 0 | | 0 | 0 |
+------- -------
+
+__________
+
+Evleri Evren olarak alarak; x="tuğladan yapılmış"; ve
+y="iki katlı"; yorumla
+
+------- -------
+| 0 | | | |
+5. |---|---| 6. |---|---|
+| 0 | | | - |
+------- ---|---
+
+------- -------
+| | 0 | | | |
+7. |---|---| 8. |---|---|
+| | | | 0 | 1 |
+------- -------
+
+[Bkz. s. 65]
+
+"Oğlanları" Evren olarak alarak; x="şişman"; ve y="aktif";
+yorumla
+
+------- -------
+| 1 | 1 | | | 0 |
+9. |---|---| 10. |---|---|
+| | | | | 1 |
+------- -------
+
+------- -------
+| 0 | 1 | | 1 | |
+11. |---|---| 12. |---|---|
+| | 0 | | 0 | 1 |
+------- -------
+
+__________
+
+"Kedileri" Evren olarak alarak; x="yeşil gözlü"; ve
+y="iyi huylu"; yorumla
+
+------- -------
+| 0 | 0 | | | 1 |
+13. |---|---| 14. |---|---|
+| | 0 | | 1 | |
+------- -------
+
+------- ------
+| 1 | | | 0 | 1 |
+15. |---|---| 16. |---|---|
+| | 0 | | 1 | 0 |
+------- -------
+
+[Bkz. s. 65, 6]
+
+6. Daha Büyük Diyagram.
+
+Temsil edilecek önermeler.
+
+__________
+
+-----------
+| | |
+| --x-- |
+| | | | |
+|--y--m--y'-|
+| | | | |
+| --x'- |
+| | |
+----------
+
+__________
+
+1. Hiçbir x m değildir.
+
+2. Bazı y'ler m'dir.
+
+3. Tüm m'ler x'dir.
+
+4. Hiçbir m' y' değildir.
+
+5. Hiçbir m x değildir; Tüm y'ler m'dir.
+
+6. Bazı x'ler m'dir; Hayır y'ler m'dir.
+
+7. Tüm m'ler x'tir; Hiçbir m y'dir.
+
+8. Hiçbir x' m'dir; Hayır y'ler m'dir.
+
+[Bkz. s. 67,8]
+
+"Tavşanları" Evren olarak alırsak; m="açgözlü"; x="yaşlı"; ve
+y="siyah"; temsil eder
+
+9. Hiçbir yaşlı tavşan açgözlü değildir.
+
+10. Bazı açgözlü olmayan tavşanlar siyahtır.
+
+11. Tüm beyaz tavşanlar açgözlülükten uzaktır.
+
+12. Tüm açgözlü tavşanlar gençtir.
+
+13. Hiçbir yaşlı tavşan açgözlü değildir; Tüm siyah tavşanlar açgözlüdür.
+
+14. Açgözlü olmayan tüm tavşanlar siyahtır; Hiçbir yaşlı
+tavşan açgözlülükten uzak değildir.
+
+__________
+
+"Kuşları" Evren olarak alırsak; m="yüksek sesle şarkı söyleyen"; x="iyi beslenmiş";
+ve y="mutlu"; şunu temsil eder
+
+15. İyi beslenmiş tüm kuşlar yüksek sesle öter; Yüksek sesle öten hiçbir kuş
+mutsuz değildir.
+
+16. Yüksek sesle ötmeyen tüm kuşlar mutsuzdur; İyi beslenmiş
+kuşların hiçbiri yüksek sesle ötmez.
+
+__________
+
+"Kişileri" Evren olarak ele alırsak; m="evde"; x="John";
+ve y="diş ağrısı çekiyor"; şunu temsil eder
+
+17. John evdedir; Evdeki herkes diş ağrısı çekiyor.
+
+18. Evde John'dan başka kimse yok; Evin dışında
+hiç kimse diş ağrısı çekmiyor.
+
+__________
+
+[Bkz. s. 68-70]
+
+"Kişileri" Evren olarak ele alırsak; m="ben"; x="yürüyüşe
+çıkmış"; y="daha iyi hissettiren"; şunu temsil eder
+
+19. Yürüyüşe çıktım; kendimi çok daha iyi hissediyorum.
+
+__________
+
+Kendi 'Evren'inizi seçmek vb. temsil eder
+
+20. Bana bir kedi yavrusu getirmesi için gönderdim; Bana bir su ısıtıcısı getirdi
+yanlışlıkla.
+
+[Bkz. s. 70, 1]
+
+7. Her iki Diyagram da kullanılacaktır.
+
+__________
+
+-----------
+| | | -----------
+| --x-- | | | |
+| | | | | x |
+|--y--m--y'-| |--y--|--y'-|
+| | | | | | x' |
+| --x'- | | | | |
+| | | -----------
+-----------
+
+__________
+
+Not: Her Soruda, yalnızca x ve y için küçük bir Diyagram çizilmeli ve verilen büyük Diyagrama göre işaretlenmelidir: ve
+sonra x ve y için mümkün olduğunca çok Önerme
+bu küçük Diyagramdan okunmalıdır.
+
+---------- -----------
+|0 | | | |
+| --|-- | | --|-- |
+| |0 | 0| | | |0 | 1| |
+1. |--|--|--|--| 2. |--|--|--|--|
+| |1 | | | | |0 | | |
+| --|-- | | --|-- |
+|0 | | | |
+---------- ----------
+
+[Bkz. s. 72]
+
+----------- -----------
+| | | | | 0|
+| --|-- | | --|-- |
+| |0 | 0| | | | | | |
+3. |--|--|--|--| 4. |--|--|--|--|
+| |1 | 0| | | |0 | | |
+| --|-- | | --|-- |
+| | | | 0|
+---------- ----------
+
+__________
+
+Önceki Bölümdeki aşağıdaki Önerme çiftlerini büyük bir Diyagramda işaretleyin: ardından buna uygun küçük bir Diyagram işaretleyin, vb.
+
+5. No. 13. [bkz. s. 49] 9. No. 17.
+6. No. 14. 10. No. 18.
+7. No. 15. 11. No. 19. [bkz. s. 50]
+8. No. 16. 12. No. 20.
+
+__________
+
+Büyük bir Diyagramda, aşağıdaki Önerme Çiftlerini işaretleyin: sonra
+küçük bir Diyagram işaretleyin, vb. Bunlar aslında Kıyaslamalar için ÖNCÜL Çiftleridir: ve küçük Diyagramdan okunan sonuçlar
+SONUÇLARDIR.
+
+13. Ateşli hastalara heyecan verici kitaplar uygun değildir; Heyecan verici olmayan
+kitaplar insanı uykulu yapar.
+
+14. Adaleti hak edenler hak ettiklerini alırlar;
+Cesurlar
+dışında hiçbiri adaleti hak etmez.
+
+15. Hiçbir çocuk sabırlı değildir; Hiçbir sabırsız kişi hareketsiz
+oturamaz.
+
+[Bkz. s. 72-5]
+
+16. Tüm domuzlar şişmandır; Hiçbir iskelet şişman değildir.
+
+17. Hiçbir maymun asker değildir; Tüm maymunlar yaramazdır.
+
+18. Kuzenlerimin hiçbiri adil değildir; Hiçbir yargıç adaletsiz değildir.
+
+19. Bazı günler yağmurludur; Yağmurlu günler yorucudur.
+
+20. Tüm ilaçlar iğrençtir; Senna bir ilaçtır.
+
+21. Bazı Yahudiler zengindir; Tüm Patagonyalılar Yahudi olmayanlardır.
+
+22. Tüm içki içmeyenler şekeri sever; Hiçbir bülbül şarap içmez.
+
+23. Hiçbir kek sağlıklı değildir; Tüm çörekler sağlıksızdır.
+
+24. Hiçbir şişman yaratık iyi koşmaz; Bazı tazılar iyi koşar.
+
+25. Tüm askerler yürür; Bazı gençler asker değildir.
+
+26. Şeker tatlıdır; Tuz tatlı değildir.
+
+27. Bazı yumurtalar sert kaynatılır; Hiçbir yumurta çatlamaz değildir.
+
+28. Evde Yahudi yoktur; Bahçede Yahudi olmayan yoktur.
+
+[Bkz. s. 75-82]
+
+29. Tüm savaşlar gürültülüdür; Gürültü yapmayan şey dikkatten kaçabilir.
+
+30. Hiçbir Yahudi deli değildir; Tüm Hahamlar Yahudidir.
+
+31. Yüzme bilmeyen balık yoktur; Bazı vatozlar
+balıktır.
+
+32. Tüm tutkulu insanlar mantıksızdır; Bazı hatipler
+tutkulu.
+
+[Bkz. s. 82-84]
+
+BÖLÜM III.
+
+ÇARPICI CEVAPLAR.
+
+"Ona, iyi olduğunu düşündüğüm için,
+'Ormanda kırmızı ringa balığı yetiştiği kadar' diye cevap verdim."
+
+__________
+
+1. Temel.
+
+1. "Atfedilebilen", "bir Şeye ait olduğu söylenen" her şeye,
+'Nitelik' denir. Örneğin, "fırında pişirilmiş", ki bu sıklıkla "Çörekler"e atfedilebilir ve "güzel", ki bu nadiren "Bebekler"e atfedilebilir.
+
+2. İki Şeyin (örneğin, "bu
+Domuzlar şişman
+Hayvanlardır") veya iki Niteliğin (örneğin, "pembe
+açık kırmızıdır") İsimleri olduklarında.
+
+3. Biri bir Şeyin İsmi, diğeri bir Niteliğin İsmi olduğunda (örneğin, "bu Domuzlar pembedir"), çünkü bir Şey
+aslında bir Nitelik OLMAZ.
+
+4. Öznenin cümlenin sonunda tekrarlanması gerektiği varsayılır (örneğin, "bu Domuzlar pembedir (Domuzlar)").
+
+5. Bir 'Önerme', 'Özne' adı verilen belirli bir sınıfa ait olan Şeylerin bazılarının, hiçbirinin veya hepsinin, 'Yüklem' adı verilen belirli bir başka sınıfa ait Şeyler olduğunu belirten bir cümledir. Örneğin, "bazı yeni Pastalar güzel değil", yani (tam olarak) "bazı yeni Pastalar güzel değil Pastalar"; burada "yeni Pastalar" sınıfı Özne, "güzel olmayan Pastalar" sınıfı ise Yüklemdir.
+
+6. Öznesine ait olan Şeylerin BAZILARININ şu veya bu olduğunu belirten bir Önermeye 'Özel' denir. Örneğin, 'bazı yeni Pastalar güzel", "bazı yeni Pastalar güzel değil."
+
+Öznesine ait olan Şeylerin HİÇBİRİNİN veya TÜMÜNÜN şu veya bu olduğunu belirten bir Önermeye 'Evrensel' denir. Örneğin, "hiçbir yeni Pasta güzel değildir", "tüm yeni Pastalar güzel değildir".
+
+7. Her bölmedeki Şeyler, sembolleri o bölmenin iki KENARINDA yazılı olarak bulunacak İKİ Niteliğe sahiptir.
+
+8. "Bir veya daha fazla."
+
+9. Tüm Diyagramın atandığı Şeyler sınıfının bir adı olarak.
+
+10. İki ifade içeren bir Önerme. Örneğin, "bazı
+yeni Kekler güzeldir ve bazıları güzel değildir."
+
+11. Bölünen tüm sınıf, bölündüğü kümeler arasında "tükendiğinde", bunlardan birine ait olmayan hiçbir üyesi olmadığında. Örneğin, "yeni
+Kekler" sınıfı "tamamen" "güzel" ve "güzel olmayan" olarak bölünür, çünkü
+HER yeni Kek bunlardan biri veya diğeri olmalıdır.
+
+12. Bir adam iki taraftan hangisine katılacağına karar veremediğinde, "çitin üstünde oturuyor" denir - hangi tarafa atlayacağına karar veremez.
+
+13. "Bazı x'ler y'dir" ve "hiçbir x y değildir".
+
+14. Öznesi tek bir Şey olan bir Önermeye "Bireysel" denir. Örneğin, "Mutluyum", "John evde değil".
+Bunlar Evrensel Önermelerdir ve "var olan tüm ben'ler mutludur", "Şu anda düşündüğüm TÜM John'lar evde değil" ile aynıdır.
+
+15. "Bazı" veya "tüm" ile başlayan önermeler.
+
+16. "Bazı" veya "hayır" ile başladıklarında. Örneğin, "bazı
+abc'ler def'tir" ifadesi "bazı bf'ler acde'dir" şeklinde yeniden düzenlenebilir ve her biri "bazı
+abcdef var" ile eşdeğerdir.
+
+17. Bazı kaplanlar vahşidir, Hiçbir kaplan vahşi değildir.
+
+18. Bazı haşlanmış yumurtalar sağlıksızdır, Hiçbir haşlanmış
+yumurta sağlıklı değildir.
+
+19. Bazı I'ler mutludur, Hiçbir I'ler mutsuzdur.
+
+20. Bazı John'lar evde değildir, Hiçbir John evde değildir.
+
+21. Daha büyük Diyagramın her bölmesindeki Şeyler, sembolleri bölmenin üç KÖŞESİNE yazılmış olarak bulunacak ÜÇ Niteliğe sahiptir (m' durumu hariç, Diyagrama aslında eklenmemiştir, ancak dört dış köşesinin her birinde
+durduğu VARSAYILAN).
+
+22. Şeyler Evreni üç farklı Niteliğe göre bölünürse; ve bu Niteliklerin iki farklı çiftini içeren iki Önerme verilirse; ve bunlardan, henüz birlikte gerçekleşmemiş iki Niteliği içeren üçüncü bir Önerme ispatlayabilirsek; verilen Önermeler 'Öncüller', üçüncüsü 'Sonuç' ve tüm küme 'Bir Kıyas' olarak adlandırılır. Örneğin, Öncüller "hiçbir m x değildir"
+ve "tüm m'ler y'dir" olabilir; ve bunlardan x ve y'yi içeren bir
+Sonuç ispatlamak mümkün olabilir.
+
+23. Bir Nitelik her iki Öncülde de geçerse, onu içeren Terim 'Orta Terim' olarak adlandırılır. Örneğin, Öncüller 'bazı m x'tir' ve 'hiçbir m y'dir' ise, "m-Şey" sınıfı 'Orta Terim'dir.
+
+Bir Nitelik bir Öncülde geçerse ve diğerinde çelişiyorsa, onları içeren Terimler 'Orta Terimler' olarak adlandırılabilir. Örneğin, Önermeler "hiçbir m x' değildir" ve "tüm m' y'dir" ise, "m-Şeyler" ve "m'-Şeyler"in iki sınıfına "Orta Terimler" denebilir.
+
+24. Çünkü KESİNLİKLE işaretlenebilirler: oysa OLUMLU
+Önermeler (yani, "bazıları" veya "tümü" ile başlayanlar) bazen "çitin üzerinde duran" kırmızı bir sayaç koymamızı gerektirir.
+
+25. Çünkü ilgilendiğimiz tek soru, Sonucun Önermelerden MANTIKSAL OLARAK İZİN VERİP VERMEDİĞİDİR, böylece, eğer onlar doğruysa, O da doğru olurdu.
+
+26. Kırmızı bir sayacın "bu bölme işgal edilebilir" anlamına geldiğini ve gri bir sayacın "bu bölme işgal edilemez" veya "bu bölme boş OLMALIDIR" anlamına geldiğini anlayarak.
+
+27. "Yanlış Önermeler" ve "Yanlış Sonuç".
+
+28. Büyük Diyagramdan küçük Diyagrama notları aktarmaya çalıştığımızda, dört bölmesinden hiçbiri için 'hiçbir bilgi' olmadığını bularak.
+
+29. Doğru Sonucu bularak ve sonra bize sunulan
+Sonucun onunla ne aynı ne de onun bir parçası olduğunu gözlemleyerek.
+
+30. Sunulan Sonuç doğru Sonucun PARÇASI olduğunda.
+
+Bu durumda buna 'Kusurlu Sonuç' diyebiliriz.
+
+2. Küçük Diyagramın Yarısı.
+
+Temsil edilen önermeler.
+
+__________
+
+------- -------
+| | | | | |
+1. | | 1 | 2. | 0 | 1 |
+| | | | | |
+------- -------
+
+------- -------
+| | | | | |
+3. | 1 | 1 | 4. | 0 | 0 |
+| | | | | |
+------- -------
+
+------- -------
+| | | | |
+5. | 1 | 6. | | 0 |
+| | | | | | |
+------- -------
+
+-------
+| | |
+7. | 1 | 1 | Uygun
+| | |
+------- -------
+| | |
+Diyagram, "bazı
+| | |
+-------
+x var"ı ifade etmek için | 1 1 | olurdu: ancak bu aslında "bazı x'ler y'dir" ifadesinde yer alır.
+Bölme çizgisine kırmızı bir sayaç koymak bize yalnızca "Bölmelerden BİRİ dolu" derdi, bunu da zaten biliyoruz, çünkü BİR tanesi dolu.
+-------
+| | |
+8. Hiçbir x y değildir. yani | 0 | |
+| | |
+-------
+
+-------
+| | |
+9. Bazı x'ler y'dir. yani | | 1 |
+| | |
+-------
+
+-------
+| | |
+10. Tüm x'ler y'dir. yani | 1 | 0 |
+| | |
+-------
+
+-------
+| | |
+11. Bazı x'ler y'dir. yani | 1 | |
+| | |
+-------
+
+-------
+| | |
+12. Hiçbir x y değildir. yani | 0 | |
+| | |
+-------
+
+-------
+| | |
+13. Bazı x'ler y'dir ve bazıları y'dir. yani | 1 | 1 |
+| | |
+-------
+
+-------
+| | |
+14. Tüm x'ler y'dir. yani | 0 | 1 |
+| | |
+-------
+---
+| |
+15. Hiçbir y x' değildir. yani |---|
+| 0 |
+---
+
+---
+| 1 |
+16. Tüm y'ler x'tir. yani |---|
+| 0 |
+---
+
+---
+| 0 |
+17. Y diye bir şey yok. yani |---|
+| 0 |
+---
+
+---
+| |
+18. Bazı y'ler x'tir. yani |---|
+| 1 |
+---
+
+---
+| |
+15. Bazı y'ler vardır. yani |-1-|
+| |
+---
+
+3. Küçük Diyagramın Yarısı.
+
+Semboller yorumlandı.
+
+__________
+
+1. Hiçbir x y' değildir.
+
+2. Hiçbir x yoktur.
+
+3. Bazı x'ler vardır.
+
+4. Tüm x'ler y'dir.
+
+5. Bazı x'ler y'dir. yani Bazı iyi bilmeceler zordur.
+
+6. Tüm x'ler y'dir. yani Tüm iyi bilmeceler zordur.
+
+7. Hiçbir x yoktur. yani Hiçbir bilmece iyi değildir.
+
+8. Hiçbir x, y değildir. Yani Hiçbir iyi bilmece zor değildir.
+
+9. Bazı x'ler y'dir. Yani Bazı ıstakozlar bencil değildir.
+
+10. Hiçbir x, y değildir. Yani Hiçbir ıstakoz bencil değildir.
+
+11. Tüm x'ler y'dir. Yani Tüm ıstakozlar bencil değildir.
+
+12. Bazı x'ler y'dir ve bazıları y'dir. Yani Bazı ıstakozlar bencildir ve bazıları bencil değildir.
+
+13. Tüm y'ler x'tir. Yani Tüm sakatlar mutsuzdur.
+
+14. Bazı y'ler vardır. Yani. Bazı insanlar sağlıksızdır.
+
+15. Bazı y'ler x'tir ve bazıları x'tir. Yani. Bazı sakatlar
+mutludur ve bazıları mutsuzdur.
+
+16. Hiçbir y' yoktur. Yani. Hiç kimse sağlıksız değildir.
+
+4. Daha Küçük Diyagram.
+
+Temsil edilen önermeler.
+
+__________
+
+------- -------
+| 1 | | | | |
+1. |---|---| 2. |---|---|
+| 0 | | | 1 | |
+------- -------
+
+------- -------
+| | | | | 1 |
+3. |---|---| 4. |---|---|
+| | 0 | | | | |
+------- ------- ------- ------- |   | 1 |             |   |   |
+              5. |---|---|         6. |---|---|
+                  |   |   |             | 0 |   |
+                   ------- ------- ------- ------- |   |   |             |   |   |
+              7. |---|---|         8. |---|---|
+                  |   | 1 |             | 0 | 1 |
+                   ------- ------- ------- ------- |   |   |             |   |   |
+              9. |---|-1-|        10. |---|---|
+                  |   |   |             | 0 | 0 |
+                   ------- ------- ------- ------- | 1 |   |             | 1 | 0 |
+11. |---|---| 12. |---|---|
+| 1 | | | | 1 |
+------- -------
+
+-------
+| | |
+13. Hiçbir x' y değildir. örn. |---|---|
+| 0 | |
+-------
+
+-------
+| | 0 |
+14. Tüm y'ler x'tir. örn. |---|---|
+| | 1 |
+-------
+
+-------
+| | |
+15. Bazı y'ler vardır. örn. |---|-1-|
+| | |
+-------
+
+-------
+| 1 | 0 |
+16. Tüm y'ler x'tir ve tüm x'ler y'dir. yani |---|---|
+| 0 | |
+-------
+-------
+| | |
+17. Hiçbir x' mevcut değil. yani |---|---|
+| 0 | 0 |
+-------
+
+-------
+| 0 | 1 |
+18. Tüm x'ler y'dir. yani |---|---|
+| | |
+-------
+
+-------
+| 0 | |
+19. Hiçbir x, y değildir. yani |---|---|
+| | |
+-------
+
+-------
+| | |
+20. Bazı x'ler y'dir ve bazıları y'dir. yani |---|---|
+| 1 | 1 |
+-------
+
+-------
+| 0 | 1 |
+21. Y diye bir şey yoktur ve bazı x'ler vardır. yani |---|---|
+| 0 | |
+-------
+
+-------
+| | 1 |
+22. Tüm x'ler y'dir ve tüm y'ler x'tir. yani |---|---|
+| 1 | 0 |
+-------
+
+-------
+| 1 | |
+17. Bazı x'ler y'dir ve bazı x'ler y'dir. yani |---|---|
+| | 1 |
+-------
+
+5. Daha Küçük Diyagram.
+
+Semboller yorumlandı.
+
+__________
+
+1. Bazı y'ler x değildir veya, Bazı x olmayanlar y'dir.
+
+2. Hiçbir x olmayan y değildir veya, Hiçbir y olmayan x değildir.
+
+3. Hiçbir y olmayan x değildir.
+
+4. Hiçbir x olmayan yoktur. yani Hiçbir Şey x değildir.
+
+5. Hiçbir y yoktur. yani Hiçbir ev iki katlı değildir.
+
+6. Bazı x'ler vardır. yani Bazı evler tuğladan yapılmamıştır.
+
+7. Hiçbir x y' değildir. Veya, hiçbir y' x değildir. Yani, tuğladan yapılmış hiçbir ev iki katlıdan başka değildir. Veya, iki katlı olmayan hiçbir ev tuğladan yapılmamıştır.
+
+8. Tüm x'ler y'dir. Yani, tuğladan yapılmamış olan tüm evler iki katlı değildir.
+
+9. Bazı x'ler y'dir ve bazıları y'dir. Yani, Bazı şişman çocuklar aktiftir ve bazıları değildir.
+
+10. Tüm y'ler x'dir. Yani, Tüm tembel çocuklar zayıftır.
+
+11. Tüm x'ler y'dir ve tüm y'ler x'tir. Yani, Tüm şişman çocuklar tembeldir ve tüm tembel olanlar şişmandır.
+
+12. Tüm y'ler x'tir ve tüm x'ler y'dir. Yani, Tüm aktif çocuklar şişmandır ve tüm zayıf olanlar tembeldir.
+
+13. Hiçbir x yoktur ve hiçbir y' yoktur. yani Hiçbir kedinin yeşil gözleri yoktur
+ve hiçbiri kötü huylu değildir.
+
+14. Bazı x'ler y'dir ve bazı x'ler y'dir. Veya bazı y'ler x'dir ve
+bazı y'ler x'tir. Yani Bazı yeşil gözlü kediler huysuzdur
+ve yeşil gözleri olmayan bazıları iyi huyludur.
+Ya da bazı iyi huylu kedilerin yeşil gözleri yoktur ve bazı
+kötü huylu olanların yeşil gözleri vardır.
+
+15. Bazı x'ler y'dir ve hiçbir x' y' değildir. Veya bazı y'ler x'tir ve
+hiçbir y' x' değildir. Yani Bazı yeşil gözlü kediler iyi huyludur ve
+yeşil gözlü olmayan hiçbiri kötü huylu değildir. Veya bazı
+iyi huylu kedilerin yeşil gözleri vardır ve
+kötü huylu olanların hiçbiri yeşil gözlü değildir.
+
+16. Tüm x'ler y'dir ve tüm x'ler y'dir. Veya, tüm y'ler x' ve tüm y'ler x'tir. Yani, tüm yeşil gözlü kediler huysuzdur ve yeşil gözleri olmayanlar da iyi huyludur. Veya, tüm iyi huylu olanların gözleri yeşil değildir ve tüm kötü huylu olanların gözleri yeşildir.
+
+6. Daha Büyük Diyagram.
+
+Temsil edilen önermeler.
+
+__________
+
+--------------- ---------------
+| | | | |
+| ---|--- | | ---|--- |
+| | 0 | 0 | | | | | | |
+1. |---|---|---|---| 2. |-1-|---|---|---|
+| | | | | | | | |
+| ---|--- | | ---|--- |
+| | | | | |       |
+             --------------- --------------- --------------- --------------- |       |       |             |       |     0 |
+            |    ---|--- |             |    ---|--- |
+            |   | 0 | 0 |   |             |   |   |   |   |
+        3. |---|---|---|---|         4. |---|---|---|---|
+            |   |   - |   |             |   |   |   |   |
+            |    ---|--- |             |    ---|--- |
+            |       |       |             |       |     0 |
+             --------------- --------------- --------------- --------------- | 0 |       |             |       |       |
+            |    ---|--- |             |    ---|--- |
+            |   | 0 | 0 |   |             |   | 0 | 1 |   |
+        5. |---|---|---|---|         6. |---|---|---|---|
+            |   | 1 |   |   |             |   | 0 |   |   |
+            |    ---|--- |             |    ---|--- |
+            | 0 |       |             |       |       |
+             --------------- --------------- --------------- ----- ---------- |       |       |             |       |     0 |
+            |    ---|--- |             |    ---|--- |
+            |   | 0 | 0 |   |             |   |   |   |   |
+        7. |---|---|---|---|         8. |---|---|---|---|
+            |   | 0 | 1 |   |             |   | 0 | 0 |   |
+            |    ---|--- |             |    ---|--- |
+            |       |       |             |       |     0 |
+---------------- ---------------
+
+---------------
+| | | | ---|--- |
+| | 0 | 0 | |
+9. Hiçbir x m değildir, yani |---|---|---|---|
+| | 0 | | |
+| ---| --- |
+| | |
+---------------
+
+---------------
+| | |
+| ---|--- |
+| | | | |
+10. Bazı m'ler y'dir. yani |-1-|---|---|---|
+| | | | |
+| ---|--- |
+| | |
+---------------
+
+---------------
+| | |
+| ---|--- |
+| | | 0 | |
+11. Tüm y'ler m'dir. yani |---|---|---|-1-|
+| | | 0 | |
+| ---|--- |
+| | |
+------- --------
+
+---------------
+| | |
+| ---|--- |
+| | 0 | 0 | |
+12. Tüm m'ler x'tir. yani |---|---|---|---|
+| | 1 | |
+| ---|--- |
+| | |
+-------------- ---------------
+| 0 | |
+| ---|--- |
+| | 0 | 0 | |
+13. Hiçbir x m değildir; yani |---|---|---|---|
+Tüm y'ler m'dir. | | 1 | | |
+| ---|--- |
+| 0 | |
+---------------
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | | | |
+14. Tüm m'ler y'dir; yani |---|---|---|---|
+Hiçbir x m' değildir. | | | | |
+| ---|--- |
+| 1 | 0 |
+---------------
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | 1 | 0 | |
+15. Tüm x'ler m'dir; yani |---|---|---|---|
+Hiçbir m, y'dir. | | | 0 | |
+| ---|--- |
+| | |
+---------------
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | | | |
+16. Tüm m'ler y'dir; yani |---|---|---|---|
+Hiçbir x m' değildir. | | | | |
+| ---|--- |
+| 0 | 1 |
+---------------
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | 1 | 0 | |
+17. Tüm x'ler m'dir; yani |---|---|---|---|
+Tüm m'ler y'dir. | | | 0 | |
+| ---|--- |
+[No. 7, s. 60'daki açıklamalara bakın.] | | |
+-------------
+
+--------------
+| 0 | |
+| ---|--- |
+| | | | |
+18. Hiçbir x' m değildir; yani |---|---|---|---|
+Hiçbir m' y değildir. | | 0 | 0 | |
+| ---|--- |
+| 0 | |
+---------------
+
+---------------
+| | |
+| ---|--- |
+| | 1 | 0 | |
+19. Tüm m'ler x'tir; yani |---|---|---|---|
+Tüm m'ler y'dir. | | 0 | 0 | |
+| ---|--- |
+| | |
+---------------
+
+20. Evren olarak "kişileri" alsak iyi olur.
+"Orta Terim" olarak "kendimi" seçebiliriz, bu durumda
+Önkoşullar şu biçimi alacaktır
+
+Ben bir-kişiyim-ki-onu-bir-yavru-getirmesi-için-gönderdim;
+Ben, yanlışlıkla kendisine bir su ısıtıcısı getiren bir kişiyim.
+
+Ya da "o"yu 'Orta Terim' olarak seçebiliriz, bu durumda Öncüller şu biçimi alacaktır
+
+O, bana bir kedi yavrusu getirmesi için gönderdiğim bir kişidir;
+O, bana yanlışlıkla bir su ısıtıcısı getiren bir kişidir.
+
+İkinci biçim en iyisi gibi görünüyor, çünkü anekdotun ilgisi açıkça
+ONUN aptallığına bağlıdır - BANA ne olduğuna değil. O zaman
+m = "o"; x = "gönderdiğim kişiler, vb."; ve y = "getiren kişiler, vb." yapalım.
+
+Dolayısıyla, tüm m'ler x'tir;
+Tüm m'ler y'dir. ve gerekli Diyagram şu şekildedir
+
+--------------
+| | |
+| ---|--- |
+| | 1 | 0 | |
+|---|---|---|---|
+| | 0 | 0 | |
+| ---|--- |
+| | |
+--------------
+
+7. Her iki Diyagram da kullanıldı.
+
+-------
+| 0 | |
+1. |---|---| yani Tüm y'ler x'tir.
+| 1 | |
+-------
+
+-------
+| | 1 |
+2. |---|---| yani Bazı x'ler y'dir; veya, Bazı y'ler x'tir.
+| | |
+-------
+
+-------
+| | |
+3. |---|---| yani Bazı y'ler x'dir; veya, Bazı x'ler y'dir.
+| 1 | |
+-------
+
+-------
+| | |
+4. |---|---| yani Hiçbir x' y' değildir; veya, Hiçbir y' x' değildir.
+| | 0 |
+-------
+
+-------
+| 0 | |
+5. |---|---| yani Tüm y'ler x'tir. yani Tüm siyah tavşanlar
+| 1 | | gençtir.
+-------
+
+-------
+| | |
+6. |---|---| yani Bazı y'ler x'tir. yani Bazı siyah
+| 1 | | tavşanlar gençtir.
+-------
+
+-------
+| 1 | 0 |
+7. |---|---| yani Tüm x'ler y'dir. yani Tüm iyi beslenmiş kuşlar
+| | | mutludur.
+-------
+
+-------
+| | | yani. Bazı x'ler y'dir. yani. Bazı kuşlar,
+8. |---|---| iyi beslenmeyenler, mutsuzdur;
+| | 1 | veya, Bazı mutsuz kuşlar
+------- iyi beslenmemiştir.
+
+-------
+| 1 | 0 |
+9. |---|---| yani. Tüm x'ler y'dir. yani. John'un
+| | | diş ağrısı var.
+-------
+
+-------
+| |
+10. |---|---| yani. Hiçbir x' y değildir. yani. John'dan başka hiç kimse,
+| 0 | | diş ağrısı var. -------
+
+-------
+| 1 | |
+11. |---|---| yani Bazı x'ler y'dir. yani Yürüyüşe çıkmış
+| | | kendini daha iyi hisseden biri.
+-------
+
+-------
+| 1 | | yani Bazı x'ler y'dir. yani Birisi,
+12. |---|---| bana bir kedi yavrusu getirmesi için gönderdiğim,
+| | | yanlışlıkla bana bir su ısıtıcısı getirdi.
+-------
+
+--------------
+| | 0 |
+| ---|--- |
+| | 0 | 0 | |
+13. |-1-|---|---|---| -------
+| | | | | | 0 |
+| ---|--- | |---|---|
+| | 0 | | | |
+--------------- -------
+
+"Kitaplar" Evren olsun; m="heyecan verici",
+x="ateşli hastalara uyan"; y="birini
+uykulu yapan".
+
+Hiçbir m x değildir; &hiçbir y' x değildir.
+Tüm m'ler y'dir.
+
+yani, hiçbir kitap ateşli hastalara uymaz, birini
+uykulu yapanlar hariç.
+
+--------------
+| | |
+| ---|--- |
+| | 1 | 0 | |
+14. |---|---|---|---| -------
+| | | 0 | | | 1 | |
+| ---|--- | |---|---|
+| | | | | |
+--------------- -------
+
+"Kişiler" Evren olsun; m="hak edenler";
+x="hak ettiklerini alanlar"; y="cesur".
+
+Bazı m'ler x'tir; &there4 Bazı y'ler x'tir.
+Hayır y'ler m'dir.
+
+yani Bazı cesur kişiler hak ettiklerini alır.
+
+---------------
+| 0 | |
+| ---|--- |
+| | 0 | 0 | |
+15. |---|---|---|---|---| -------
+| | | | | | 0 | |
+| ---|--- | |---|---|
+| 0 | | | | |
+------------- -------
+
+"Kişiler" Evren olsun; m="hasta";
+x="çocuklar"; y="hareketsiz oturabilen".
+
+Hiçbir x m değildir; &there4 Hiçbir x y değildir.
+Hiçbir m' y değildir.
+
+yani Hiçbir çocuk hareketsiz oturamaz.
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | 0 | 1 | |
+16. |---|---|---|---| -------
+| | 0 | | | | 0 | 1 |
+| ---|--- | |---|---|
+| | | | | |
+-------------- -------
+
+"Şeyler" Evren olsun; m="şişman"; x="domuzlar";
+y="iskeletler".
+
+Tüm x'ler m'dir; &there4 Tüm x'ler y'dir.
+Hiçbir y m'dir.
+
+yani. Tüm domuzlar iskelet değildir.
+
+---------------
+| | |
+| ---|--- |
+| | 0 | 0 | |
+17. |---|---|---|---| -------
+| | 1 | 0 | | | | |
+| ---|--- | |---|---|
+| | | | 1 | |
+-------------- -------
+
+"Yaratıklar" Evren olsun; m="maymunlar";
+x="askerler"; y="yaramaz".
+
+Hiçbir m x değildir; &there4 Bazı y'ler x'tir.
+Tüm m'ler y'dir.
+
+yani. Bazı yaramaz yaratıklar asker değildir.
+
+---------------
+| 0 | |
+| ---|--- |
+| | 0 | 0 | |
+18. |---|---|---|---| -------
+| | | | | | 0 | |
+| ---|--- | |---|---|
+| 0 | | | | |
+-------------- -------
+
+"Kişiler" Evren olsun; m="sadece";
+x="kuzenlerim"; y="yargıçlar".
+
+Hiçbir x m değildir; &there4 Hiçbir x y değildir.
+Hiçbir y m'dir.
+
+yani, kuzenlerimin hiçbiri yargıç değildir.
+
+--------------
+| | |
+| ---|--- |
+| | 1 | 0 | |
+19. |---|---|---|---| -------
+| | | | | | 1 | |
+| ---|--- | |---|---|
+| | | | | |
+-------------- -------
+
+"Dönemler" Evren olsun; m="gün";
+x="yağmurlu"; y="yorucu".
+
+Bazı m'ler x'tir; &there4 Bazı x'ler y'dir.
+Tüm xm'ler y'dir.
+
+yani Bazı yağmurlu dönemler yorucudur.
+
+Not: Bunlar meşru Önermeler değildir, çünkü
+Sonuç aslında ikinci Önermenin bir parçasıdır, bu yüzden
+ilk Önerme gereksizdir. Bu, harflerle şu şekilde gösterilebilir:
+--
+
+"Tüm xm'ler y'dir" ifadesi "Bazı xm'ler y'dir" ifadesini içerir, bu da "Bazı x'ler y'dir" ifadesini içerir. Ya da, kelimelerle, "Tüm yağmurlu günler
+yorucudur" ifadesi "Bazı yağmurlu günler yorucudur" ifadesini içerir, bu da "Bazı yağmurlu dönemler yorucudur" ifadesini içerir.
+
+Dahası, ilk Önerme gereksiz olmasının yanı sıra, aslında ikinci Önermede yer alır; çünkü
+"Bazı yağmurlu günler vardır" ifadesine eşdeğerdir, bu da bildiğimiz gibi
+"Tüm yağmurlu günler yorucudur" Önermesinde ima edilir.
+
+Hepsi birlikte, çok yetersiz bir Önerme Çifti!
+
+---------------
+| 0 | |
+| ---|--- |
+| | 1 | | |
+20. |---|---|---|---| -------
+| | 0 | 0 | | | 1 | |
+| ---|--- | |---|---|
+| 0 | | | 0 | |
+-------------- -------
+
+"Şeyler" Evren olsun; m="ilaç";
+x="iğrenç"; y="senna".
+
+Tüm m'ler x'tir; &there4 Tüm y'ler x'tir.
+Tüm y'ler m'dir.
+
+yani Senna iğrençtir.
+
+[No. 7, s. 60'daki açıklamalara bakın.]
+
+--------------
+| | |
+| ---|--- |
+| | 0 | 1 | |
+21. |-1-|---|---|---| -------
+| | 0 | | | | | 1 |
+| ---|--- | |---|---|
+| | | | |
+-------------- -------
+
+"Kişiler" Evren olsun; m="Yahudiler";
+x="zengin"; y="Patagonyalılar".
+
+Bazı m'ler x'tir; &there4 Bazı x'ler y'dir.
+Tüm y'ler m'dir.
+
+yani Bazı zengin kişiler Patagonyalı değildir.
+
+---------------
+| 0 | |
+| ---|--- |
+| | - | |
+22. |---|---|---|---|--- -------
+| | 0 | 0 | | | | |
+| ---|--- | |---|---|
+| 0 | | | 0 | |
+--------------- -------
+
+"Yaratıklar" Evren olsun; m="teetotalers";
+x="şeker seven"; y="bülbüller".
+
+Tüm m'ler x'tir; &there4 Hiçbir y x' değildir.
+Hiçbir y m' değildir.
+
+yani Hiçbir bülbül şekerden hoşlanmaz.
+
+--------------
+| | |
+| ---|--- |
+| | 0 | 0 | |
+23. |-1-|---|---|---| -------
+| | 0 | | | | | |
+| ---|--- | |---|---|
+| | | | | |
+--------------- -------
+
+"Yiyecek" Evren olsun; m="sağlıklı";
+x="çörekler"; y="çörekler".
+
+Hiçbir x m değildir;
+Tüm y m'dir.
+
+Daha küçük Diyagram için 'bilgi' yoktur; bu nedenle
+hiçbir Sonuç çıkarılamaz.
+
+---------------
+| | |
+| ---|--- |
+| | 0 | 0 | |
+24. |---|---|---|---| -------
+| | 1 | | | | | |
+| ---|--- | |---|---|
+| | | | 1 | |
+-------------- -------
+
+"Yaratıklar" Evren olsun; m="iyi koşanlar";
+x="şişman"; y="tazılar".
+
+Hiçbir x m değildir; &there4 Bazı y'ler x'tir.
+Bazı y'ler m'dir.
+
+yani Bazı tazılar şişman değildir.
+
+---------------
+| | |
+| ---|--- |
+| | - | |
+25. |-1-|---|---|---| -------
+| | 0 | 0 | | | | |
+| ---|--- | |---|---|
+| | | | |
+-------------- -------
+
+"Kişiler" Evren olsun; m="askerler";
+x="o yürüyüş"; y="gençler".
+
+Tüm m'ler x'tir;
+Bazı y'ler m'dir.
+
+Daha küçük Diyagram için 'bilgi' yoktur; bu nedenle
+bir Sonuç çıkarılamaz.
+
+--------------- | 0 |     0 |
+     |    ---|--- |
+     |   | 0 | 1 |   |
+26. |---|---|---|---| -------
+| | 0 | | | | 0 | 1 |
+| ---|--- | |---|---|
+| 1 | | | 1 | |
+-------------- -------
+
+"Yiyecek" Evren olsun; m="tatlı";
+x="şeker"; y="tuz".
+
+Tüm x'ler m'dir; &there4 Tüm x'ler y'dir.
+Tüm y'ler m'dir. Tüm y'ler x'dir.
+
+yani Şeker tuz değildir.
+Tuz şeker değildir.
+
+---------------
+| | |
+| ---|--- |
+| | 1 | 0 | |
+27. |---|---|---|---| -------
+| | | 0 | | | 1 | |
+| ---|--- | |---|---|
+| | | | | |
+-------------- -------
+
+"Şeyler" Evren olsun; m="yumurtalar";
+x="haşlanmış"; y="kırılabilir".
+
+Bazı m'ler x'tir; &there4 Bazı x'ler y'dir.
+Hiçbir m y'dir.
+
+yani Bazı sert haşlanmış şeyler kırılabilir.
+
+---------------
+| 0 | |
+| ---|--- |
+| | 0 | 0 | |
+28. |---|---|---|---| -------
+| | | | | | 0 | |
+| ---|--- | |---|---|
+| 0 | | | | | --------------- -------
+
+"Kişiler" Evren olsun; m="Yahudiler"; x="evde olanlar"; y="bahçede olanlar".
+
+Hiçbir m x değildir; &hiçbir x y değildir.
+Hiçbir m' y değildir.
+
+yani, evde olan hiçbir kişi aynı zamanda bahçede de değildir.
+
+---------------
+| 0 | 0 |
+| ---|--- |
+| | - | |
+29. |---|---|---|---| -------
+| | | | | | | |
+| ---|--- | |---- | |----
+| 1 | 0 | | 1 | |
+-------------- -------
+
+"Şeyler" Evren olsun; m="gürültülü";
+x="savaşlar"; y="dikkatten kaçabilecek".
+
+Tüm x'ler m'dir; &there4 Bazı x'ler y'dir.
+Tüm m'ler y'dir.
+
+yani Savaş olmayan bazı şeyler dikkatten kaçabilir.
+
+---------------
+| 0 | |
+| ---|--- |
+| | 0 | 0 | |
+30. |---|---|---|---| -------
+| | 1 | | | | 0 | |
+| ---|--- | |---|---|
+| 0 | | | | 1 | | |
+-------------- -------
+
+"Kişiler" Evren olsun; m="Yahudiler";
+x="çılgın"; y="Hahamlar".
+
+Hiçbir m x değildir; &there4 Tüm y'ler x'tir.
+Tüm y'ler m'dir.
+
+yani Tüm Hahamlar aklı başındadır.
+
+---------------
+| | |
+| ---|--- |
+| | 1 | | |
+31. |---|---|---|---| -------
+| | 0 | 0 | | | 1 | |
+| ---|--- | |---|---|
+| | | | |
+-------------- -------
+
+"Şeyler" Evren olsun; m="balık";
+x="yüzebilen"; y="paten".
+
+Hiçbir m x' değildir; &there4 Bazı y'ler x'tir.
+Bazı y'ler m'dir.
+
+yani Bazı patenler yüzebilir.
+
+---------------
+| | |
+| ---|--- |
+| | 0 | 0 | |
+32. |---|---|---|---| -------
+| | 1 | | | | | |
+| ---|--- | |---|---|
+| | | | 1 | |
+-------------- -------
+
+"İnsanlar" Evren olsun; m="tutkulu";
+x="mantıklı"; y="hatipler".
+
+Tüm m'ler x'tir; &there4 Bazı y'ler x'tir.
+Bazı y'ler m'dir.
+
+yani Bazı hatipler mantıksızdır.
+
+[7. maddedeki açıklamalara bakın, s. 60.]
+
+BÖLÜM IV.
+
+VURUŞ YA DA ıskalama.
+
+"Vuramazsın, vuramazsın, vuramazsın, vuramazsın,
+Vuramazsın, iyi adamım."
+
+__________
+
+1. Acı yorucudur; Hiçbir acı hevesle istenmez.
+
+2. Kel olan hiçbir insanın saç fırçasına ihtiyacı yoktur; Hiçbir kertenkelenin saçı yoktur.
+
+3. Tüm düşüncesiz insanlar yaramazlık yapar; Hiçbir düşünceli insan
+bir sözü unutmaz.
+
+4. John'u sevmiyorum; Bazı arkadaşlarım John'u seviyor.
+
+5. Hiçbir patates ananas değildir; Tüm ananaslar güzeldir.
+
+6. Hiçbir iğne hırslı değildir; Hiçbir iğne iğne değildir.
+
+7. Tüm arkadaşlarımın soğuk algınlığı var; Soğuk algınlığı olan hiç kimse şarkı söyleyemez.
+
+8. Tüm bu yemekler iyi pişmiş; Bazı yemekler iyi pişmemişse sağlıksızdır.
+
+9. Hiçbir ilaç güzel değildir; Senna bir ilaçtır.
+
+10. Bazı istiridyeler sessizdir; Hiçbir sessiz yaratık eğlenceli değildir.
+
+11. Tüm akıllı adamlar ayakları üzerinde yürür; Tüm akılsız adamlar elleri üzerinde yürür.
+
+12. "Kendi işinize bakın; Bu kavga sizin işiniz değil."
+
+13. Hiçbir köprü şekerden yapılmamıştır; Bazı köprüler pitoresktir.
+
+14. Çözülebilen hiçbir bilmece ilgimi çekmiyor; Tüm bu bilmeceler çözülemez.
+
+15. John çalışkandır; Tüm çalışkan insanlar mutludur.
+
+16. Hiçbir kurbağa kitap yazmaz; Bazı insanlar kitap yazarken
+mürekkep kullanırlar.
+
+17. Hiçbir poker yumuşak değildir; Tüm yastıklar yumuşaktır.
+
+18. Hiçbir antilop çirkin değildir; Zarif hayvanlar göze
+hoş gelir.
+
+19. Bazı amcalar cömert değildir; Tüm tüccarlar cömerttir.
+
+20. Hiçbir mutsuz insan kıkırdamaz; Hiçbir mutlu insan inlemez.
+
+21. Duyulabilir müzik havada titreşime neden olur; Duyulamayan
+müziğe para ödemeye değmez.
+
+22. Bana beş pound verdi; çok sevindim.
+
+23. Hiçbir yaşlı Yahudi şişman değirmenci değildir; Tüm arkadaşlarım yaşlı değirmencidir.
+
+24. Un yemek için iyidir; Yulaf ezmesi bir tür undur.
+
+25. Bazı rüyalar korkunçtur; Hiçbir kuzu korkunç değildir.
+
+26. Hiçbir zengin sokakta dilencilik yapmaz; Zengin olmayanların hepsi
+hesap tutmalıdır.
+
+27. Hiçbir hırsız dürüst değildir; Bazı sahtekâr insanlar
+ortaya çıkar.
+
+28. Tüm eşek arıları dost canlısı değildir; Tüm köpek yavruları dost canlısıdır.
+
+29. Tüm olası olmayan hikayelerden şüphe edilir; Bu hikayelerin hiçbiri olası değildir.
+
+30. "Bana gittiğini söyledi." "Hiçbir zaman tek bir doğru kelime
+söylemez."
+
+31. Şarkıları asla bir saat sürmez; Bir saat süren bir şarkı sıkıcıdır.
+
+32. Hiçbir gelin pastası sağlıklı değildir; Sağlıksız yiyeceklerden
+kaçınılmalıdır.
+
+33. Hiçbir ihtiyar cimri neşeli değildir; Bazı ihtiyar cimriler zayıftır.
+
+34. Tüm ördekler yürür; Yürüyen hiçbir şey zarif değildir.
+
+35. Hiçbir Profesör cahil değildir; Bazı cahil insanlar
+kendini beğenmiştir.
+
+36. Diş ağrısı asla hoş değildir; Sıcaklık asla tatsız değildir.
+
+37. Sıkıcılar korkunçtur; Sen sıkıcısın.
+
+38. Bazı dağlar aşılmazdır; Tüm
+stillerin
+aşılması mümkündür.
+
+39. Hiçbir Fransız plumpudding'i sevmez; Tüm İngilizler plumpudding'i sever.
+
+40. Hiçbir tembel şöhret kazanmaz; Bazı ressamlar tembel değildir.
+
+41. Hiçbir ıstakoz mantıksız değildir; Hiçbir mantıklı yaratık
+imkansızlıkları beklemez.
+
+42. Hiçbir iyi iş yasadışı değildir; Yasal olan şey
+korkmadan yapılabilir.
+
+43. Hiçbir fosil aşkla geçilemez; Herhangi bir istiridye aşkla
+geçilebilir.
+
+44. "Bu tahammülün ötesinde!" "Eh, tahammülün ötesinde hiçbir şey
+başıma gelmedi."
+
+45. Tüm eğitimsiz insanlar sığdır; Tüm bu öğrenciler
+eğitimlidir.
+
+46. Tüm kuzenlerim adaletsizdir; Hiçbir yargıç adaletsiz değildir.
+
+47. Keşfedilen hiçbir ülke
+ejderhalarla
+mücadele etmemiştir; Keşfedilmemiş ülkeler büyüleyicidir.
+
+48. Cimrilerin hiçbiri cömert değildir; Bazı yaşlı adamlar cömert değildir.
+
+49. Tedbirli bir adam sırtlanlardan kaçınır; Hiçbir bankacı tedbirsiz değildir.
+
+50. Bazı şiirler orijinaldir; Hiçbir orijinal eser istenildiği gibi üretilemez.
+
+51. Cimrilerin hiçbiri bencil değildir; Sadece cimriler yumurta kabuklarını kurtarır.
+
+52. Tüm soluk insanlar balgamlıdır; Soluk olmayan hiç kimse şiirsel görünmez.
+
+53. Tüm örümcekler ağ örer; Ağ örmeyen bazı yaratıklar vahşidir.
+
+54. Kuzenlerimin hiçbiri adil değildir; Tüm yargıçlar adildir.
+
+55. John çalışkandır; Çalışkan insanların hiçbiri mutsuz değildir.
+
+56. Şemsiyeler yolculukta faydalıdır; Yolculukta faydasız olan şeyler geride bırakılmalıdır.
+
+57. Bazı yastıklar yumuşaktır; Hiçbir poker yumuşak değildir.
+
+58. Yaşlı ve topalım; Hiçbir yaşlı tüccar topal bir kumarbaz değildir.
+
+59. Hiçbir olaylı yolculuk asla unutulmaz; Olaysız
+yolculuklar hakkında bir kitap yazmaya değmez.
+
+60. Şeker tatlıdır; Bazı tatlı şeyler çocuklar tarafından sevilir.
+
+61. Richard sinirli; Richard'dan başka kimse o ata binemez.
+
+62. Tüm şakalar eğlendirmek içindir; Hiçbir Parlamento Yasası
+şaka değildir.
+
+63. "Bunu bir gazetede gördüm." "Tüm gazeteler yalan söyler."
+
+64. Hiçbir kabus hoş değildir; Hoş olmayan deneyimler
+çok istenmez.
+
+65. Tedbirli gezginler bol miktarda bozuk para taşır; Tedbirsiz
+gezginler bagajlarını kaybeder.
+
+66. Tüm eşek arıları dost canlısı değildir; Hiçbir köpek yavrusu dost canlısı değildir.
+
+67. Dün buraya geldi; O benim dostum değil.
+
+68. Hiçbir dört ayaklı ıslık çalamaz; Bazı kediler dört ayaklıdır.
+
+69. Kasaplar pişmiş et satmaz; Akşam yemeğinde
+pişirilmemiş et servis edilmez.
+
+70. Altın ağırdır; Altından başka hiçbir şey onu susturamaz.
+
+71. Bazı domuzlar vahşidir; Şişman olmayan domuz yoktur.
+
+72. Hiçbir imparator dişçi değildir; Tüm dişçilerden çocuklar
+korkar.
+
+73. Yaşlı olmayan herkes yürümeye benzer; Ne sen ne de ben
+yaşlı değiliz.
+
+74. Tüm bıçaklar keskindir; Bazı otlar yapraktır.
+
+75. Hiçbir diktatör kişi popüler değildir; O diktatördür.
+
+76. Bazı tatlı şeyler sağlıksızdır; Hiçbir kek tatlı değildir.
+
+77. Hiçbir asker şiir yazmaz; Hiçbir general sivil değildir.
+
+78. Sıkıcılar korkulur; Bir sıkıcıdan ziyaretini uzatması asla istenmez.
+
+79. Tüm baykuşlar tatmin edicidir; Bazı bahaneler tatmin edici değildir.
+
+80. Tüm kuzenlerim adaletsizdir; Tüm yargıçlar adildir.
+
+81. Bazı çörekler zengindir; Tüm çörekler güzeldir.
+
+82. Hiçbir ilaç güzel değildir; Hiçbir hap ilaçsız değildir.
+
+83. Bazı dersler zordur; Zor olanın dikkat
+gerektirmesi gerekmez.
+
+84. Hiçbir beklenmedik zevk beni rahatsız etmez; Ziyaretiniz
+beklenmedik bir zevktir.
+
+85. Tırtıllar güzel konuşmaz; Jones belagatlidir.
+
+86. Bazı kel insanlar peruk takar; Tüm çocuklarınızın
+saçları vardır.
+
+87. Tüm eşek arıları dost canlısı değildir; Dost canlısı olmayan yaratıklar
+her zaman hoş karşılanmaz.
+
+88. Hiçbir iflas eden zengin değildir; Bazı tüccarlar iflas etmemiştir.
+
+89. Gelincikler bazen uyur; Tüm hayvanlar bazen uyur.
+
+90. Kötü yönetilen şirketler kârsızdır; Demiryolları
+asla kötü yönetilmez.
+
+91. Herkes bir domuz görmüştür; Hiç kimse bir domuza hayran olmaz.
+
+______________
+
+Aşağıdakilerin her birinden bir Önerme Çifti çıkarın: ve varsa
+Sonucu çıkarın:--
+
+92. "Herkesin size söyleyebileceği gibi, onlar tarafından
+benim kadar sık ​​kovalanan Aslan çok vahşi bir hayvandır: ve aralarında kahve içmeyen bazı kişiler vardır, ancak bunu genel bir yasa olarak garanti edemem."
+
+93. "Bunu teklif etmeniz çok saçmaydı! Biraz aklınız olsaydı,
+hiçbir yaşlı denizcinin yulaf lapasını sevmediğini bilirdiniz!"
+
+"Ama ben, sizin amcanız olduğu için düşündüm ki--"
+
+"Gerçekten de benim amcam! Saçmalık!"
+
+"İsterseniz buna saçmalık diyebilirsiniz. Tek bildiğim, BENİM amcalarımın
+hepsi yaşlı adamlar: ve yulaf lapasını her şey gibi severler!"
+
+"Peki, o zaman SİZİN amcalarınız--"
+
+94. "Gidin! Bu sıkışıklığa daha fazla dayanamıyorum. Hiçbir
+kalabalık dükkân rahat değil, bunu çok iyi biliyorsunuz."
+
+"Peki, alışverişe çıkınca rahat olmayı kim bekler?"
+
+"Elbette beklerim! Ve eminim sokağın aşağısında, kalabalık olmayan
+bazı dükkânlar da vardır. Yani--"
+
+95. "Doktorların metafizik orgcu olmadığını söylerler: ve bu da bana
+sizin hakkınızda küçük bir bilgi veriyor, biliyorsunuz."
+
+"Neden, BUNU nasıl çıkarıyorsun? Beni hiç org çalarken duymadın."
+
+"Hayır, doktor, ama Browning'in şiirinden bahsettiğini duydum: ve
+bu bana senin en azından METAFİZİK olduğunu gösterdi. Öyleyse--"
+
+___________________
+
+Aşağıdakilerin her birinden bir Kıyas çıkar: ve
+doğruluğunu test et:--
+
+96. "Benimle konuşma! Senden daha fazla zengin tüccar tanıdım: ve sana söyleyebilirim ki, onlardan HİÇBİRİ dünya kurulduğundan beri
+eski bir cimri değildi!"
+
+"Ve bunun yaşlı Bay Brown'la ne alakası var?"
+
+"Neden, çok zengin değil mi?"
+
+"Evet, tabii ki öyle. Peki ya sonra?"
+
+"Neden, ona cimri bir tüccar demenin saçma olduğunu görmüyor musun?
+Ya tüccar değil ya da cimri değil!"
+
+97. "Sormanız gerçekten çok nazik! Bugün kendimi
+çok daha iyi hissediyorum."
+
+"Ve bu mutlu değişimin kredisi Doğa'ya mı yoksa Sanat'a mı ait?"
+
+"Sanırım Sanat. Doktor bana patentli ilacından
+verdi."
+
+"Eh, ona bir daha asla sahtekar demeyeceğim. Her neyse,
+ilacını aldıktan sonra kendini daha iyi hisseden BİRİ var!"
+
+98. "Hayır, senden hiç hoşlanmıyorum. Ve gidip bebeğimle oynayacağım. BEBEKLER asla kaba değildir."
+
+"Yani bir bebeği kuzeninden daha mı çok seviyorsun? Ah, aptal herif!"
+
+"Elbette hoşlanırım! KUZENLER asla nazik değildir - en azından gördüğüm
+hiçbir kuzen."
+
+"Peki, BU neyi kanıtlıyor, bilmek istiyorum! Eğer kuzenlerin bebek olmadığını kastediyorsan, kim onların bebek olduğunu söyledi?"
+
+99. "Sardunyalardan ne diye bahsediyorsun? Bu mesafeden bir çiçeği diğerinden ayırt edemezsin! Hepsinin KIRMIZI çiçekler olduğunu kabul ediyorum: BUNU bilmek için teleskopa gerek yok."
+
+"Eh, bazı sardunyalar kırmızıdır, değil mi?"
+
+"İnkar etmiyorum. Peki ya sonra? Sanırım bana
+bu çiçeklerden bazılarının sardunya olduğunu söyleyeceksin!"
+
+"Elbette ki sana söylemem gereken bu, eğer bir tartışmayı takip edecek kadar aklın varsa! Ama sana bir şey kanıtlamanın ne faydası var, bilmek isterim?"
+
+100. "Çocuklar, her şeyi göz önünde bulundurarak oldukça iyi bir sınavdan geçtiniz. Şimdi gitmeden önce sana bir tavsiyede bulunayım.
+Unutma ki, gerçekten öğrenmek isteyen herkes ÇOK çalışır."
+
+"Teşekkür ederim, efendim, öğrencilerim adına! Ve en azından BAZILARININ gerçekten öğrenmek için
+HİSSİZ olduğunu
+düşünmekle gurur duyuyorum."
+
+"Bunu duyduğuma çok sevindim: ve bunu nasıl böyle çıkarabiliyorsun?"
+
+"Neden, efendim, ne kadar çok çalıştıklarını biliyorum - bazıları yani. Kim daha
+iyi bilebilir?"
+
+___________________
+
+Aşağıdaki konuşmadan bir dizi Kıyaslama veya Kıyaslama biçimindeki argümanlar çıkarın: ve bunların doğruluğunu test edin.
+
+Bu konuşmanın, bir arkadaşının, çocuklarına ders verme konusunda belki de BİRAZ fazla ileri gittiği yönündeki ihtiyatlı önerisine yanıt olarak, şefkatli bir anne tarafından söylendiği varsayılıyor.
+
+101. "Eh, dünyada kendi yollarını çiziyorlar. Onlara
+bir servet bırakamayız. Ve para, bildiğiniz gibi, paranın değeri olmadan kazanılamaz: Yaşamak istiyorlarsa ÇALIŞMAK zorundalar. Ve hiçbir şey bilmiyorlarsa nasıl çalışacaklar? Bana güvenin, BU zamanlarda cehalete yer yok! Ve
+tüm otoriteler öğrenme zamanının gençken olduğu konusunda hemfikir.
+İnsanın sonradan bahsetmeye değer bir anısı yok. Bir çocuk
+bir saatte, yetişkin bir adamın beş saatte öğreneceğinden daha fazlasını öğrenir. Yani,
+öğrenmesi gerekenler, eğer hiç öğreneceklerse, gençken öğrenmeliler. Elbette çocuklar SAĞLIKLI olmadıkça bu işe yaramaz:
+BUNUN OLDUĞUNU kabul ediyorum. Doktor bana, yanaklarında güzel bir renk olmadıkça hiçbir çocuğun
+sağlıklı olmadığını söylüyor. Ve sadece
+canlarım! Bakın, yanakları çiçek açıyor şakayıklar gibi!
+Şimdi, bana, çocukların sağlığını korumak için,
+onlara günde toplamda altı saatten fazla ders vermemeniz gerektiğini
+ve haftada en az iki yarı tatil vermeniz gerektiğini söylüyorlar. Ve bu
+tam olarak bizim planımız, size temin ederim! Asla altı saati geçmiyoruz
+ve her Çarşamba ve Cumartesi, her zamanki gibi, bir sonraki akşam yemeğinden sonra tek bir hece ders yapmıyorlar! Öyleyse
+değerli evcil hayvanlarımın eğitiminde herhangi bir risk aldığımı nasıl hayal edebilirsiniz
+anlayabildiğimden daha fazlası, size söz veriyorum!"
+
+SON.
+
+Lewis Carroll'ın Mantık Oyunu'nun Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE GAME OF LOGIC ***
+
+***** This file should be named 4763.txt or 4763.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/4/7/6/4763/
+
+Produced by Gregory D. Weeks, L. Lynn Smith, Reina Hosier,
+Brett Fishburne
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
