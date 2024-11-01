@@ -2,7 +2,7 @@
 aktalib.py file will contain functions to be used
 to operate AKTA project.
 """
-import time
+import time, datetime
 
 BHARFX = "Iİ"
 KHARFX = "ıi"
@@ -14,13 +14,14 @@ def show_time(message, t1, t0=None):
     t1: start time
     t2: finishing time
     """
+    now = datetime.datetime.now()
     t2 = time.time()
     fark = round(t2-t1, 4)
     h = int(fark//3600)
     m = int((fark-h*3600)//60)
     s = round(fark-h*3600-m*60, 4)
     
-    print(f"{message}: {fark} secs ->  {h}h {m}m {s}s")
+    print(f"{message}: {fark} secs ->  {h}h {m}m {s}s ({now.strftime('%H:%M:%S')})")
     if t0:
         fark = round(t2-t0, 4)
         h = int(fark//3600)
