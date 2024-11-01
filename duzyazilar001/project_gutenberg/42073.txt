@@ -1,0 +1,2024 @@
+*** START OF AKTAHEADER ***
+Başlık: Electric Gas Lighting
+Yazar: Norman H. Schneider
+Yayın Tarihi: February 11, 2013 [EBook #42073]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/42073
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Electric Gas Lighting, by Norman H. Schneider
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Electric Gas Lighting
+       How to Install Electric Gas Ignition Apparatus
+
+Author: Norman H. Schneider
+
+Release Date: February 11, 2013 [EBook #42073]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ELECTRIC GAS LIGHTING ***
+
+*** START OF TURKISH PART ***
+Chris Curnow, Matthew Wheaton ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu
+dosya The Internet Archive tarafından cömertçe sağlanan
+resimlerden üretilmiştir)
+
+ELEKTRİKLİ GAZLI AYDINLATMA
+
+NASIL KURULUR
+
+ELEKTRİKLİ GAZLI ATEŞLEME APARATI
+JUMP SPARK DAHİL
+VE ÇOKLU SİSTEMLER
+
+EVLERDE, KİLİSELERDE, TİYATROLARDA, SALONLARDA, OKULLARDA,
+MAĞAZALARDA VEYA HERHANGİ BİR BÜYÜK BİNA
+
+KULLANIM İÇİN
+
+AYRICA UYGUN PİLLERİN BAKIMI VE SEÇİMİ. KABLOLAMA VE ONARIMLAR
+
+H. S. NORRIE tarafından
+(NORMAN H. SCHNEIDER)
+(_"Endüksiyon Bobinleri ve Bobin Yapımı"nın yazarı_)
+
+BİRİNCİ BASKI
+
+NEW YORK
+SPON & CHAMBERLAIN
+12 CORTLANDT STREET
+
+LONDRA
+E. & F. N. SPON, LIMITED,
+125 STRAND
+
+1901
+
+Kongre Yasası uyarınca 1901 yılında girildi
+SPON & CHAMBERLAIN tarafından
+Kongre Kütüphanecisi ofisinde, Washington, D. C.
+
+BURR MATBAAHANESİ, FRANKFORT VE JACOB STS., N.Y.
+
+ÖN SÖZ
+
+Elektrikli Işık, gaza göre büyük bir avantaja sahiptir, çünkü
+uzaktan açılabilir veya yakılabilir. Gazı kibrit veya mumla yakmanın geleneksel yolu hem tehlikeli hem de sıklıkla elverişsizdir. Modern zamanların yaratıcı dehası, hem güvenilir hem de uygulaması kolay olan elektrikle gaz yakmanın bir yolunu geliştirmiştir. Çok karmaşık cihazlar gerektirmez ve kurulumu için elektrik konularında derin bir bilgi gerektirmez. Aşağıdaki sayfaların amacı, sıradan mekanik yeteneğe sahip olan herkesin kullanılan
+cihazların çoğunu inşa etmesini veya en azından başarılı bir şekilde dikmesini ve çalışır durumda tutmasını sağlamaktır.
+
+Aşağıdaki firmalara çizimleri kullandıkları için teşekkür etmek istiyoruz:
+Edwards & Co., Mott Haven, New York; A. L. Bogart, New York; Wm.
+Roche, New York; The Electric Gas-Lighting Co., Boston, Mass. ve The
+Manhattan Electrical Supply Co., New York.
+
+İÇERİK.
+
+BÖLÜM I.
+
+GİRİŞ AÇIKLAMALARI.
+
+Giriş; kıvılcım üretme yolları; Endüksiyon--Basit
+endüksiyon bobinleri--Ruhmkorff Bobinleri 1
+
+BÖLÜM II.
+
+ÇOKLU GAZ YAKMASI.
+
+Endüksiyon bobinlerinin gaz yakmaya uygulanması--Kullanılan brülör biçimleri--Askılı Brülörler--Çıtçıtlı Brülörler--Saplı Brülörler--Welsbach
+Brülörler--Asetilen Gazı Brülörleri--Gaz
+Brülörleri--Otomatik Brülörler 7
+
+BÖLÜM III.
+
+BAĞLANTILAR VE KABLOLAMA.
+
+Cihazların nasıl bağlanacağı--Bir evin kablolanması--Kesilmelerin veya
+kısa devrelerin yerinin belirlenmesi--Bitmiş evlerde kablolama--Genel açıklamalar 26
+
+BÖLÜM IV.
+
+ÖNCÜL BOBİNLER VE GÜVENLİK CİHAZLARI.
+
+Basit bir endüksiyon bobini nasıl yapılır--Otomatik Kesitler--Syracuse Kesiti--Boston Kesiti--Edwards Kesiti 46
+
+BÖLÜM V.
+
+BÜYÜK BİNALARIN AYDINLATILMASI.
+
+Seri veya Atlama Kıvılcım Sistemi--Kullanılan Brülörler--Nasıl Kablolanır--Edwards'
+Yoğuşturucu Sistemi--Seri aydınlatma için anahtarlar--2 inçlik bir kıvılcım nasıl yapılır, Ruhmkorff Bobini 55
+
+BÖLÜM VI.
+
+GAZLI AYDINLATMA İÇİN PİLLERİN NASIL SEÇİLMESİ.
+
+Elektrik Kuralları--Elektromotor
+kuvvet--Amper--Direnç--Bir pilin seçilmesi--Pilin
+düzenlenmesi--Seri--Çoklu--Yüksek voltaj veya büyük
+akım nasıl elde edilir--Leclanche Hücresi--Samson Hücresi--Kuru Hücre ve
+nasıl yapılır--Edison-Lalande Hücresi--Fuller Hücresi--Bakım ve pillerin bakımı 78
+
+RESİM LİSTESİ.
+
+ÖN PARÇA--BİR EV İÇİN TAM KABLOLAMA PLANI. 1 BASİT DEVRE DİYAGRAMI 2
+2 SARMALLI BASİT DEVRE DİYAGRAMI 2
+3 SARMALLI VE GALVANOMETRELİ BASİT DEVRE DİYAGRAMI 2
+4 DEMİR ÇEKİRDEKLİ DEVRE DİYAGRAMI 4
+5 RUHMKORFF BOBİNİ DİYAGRAMI 4
+6 RUHMKORFF BOBİNİNİN YÜKSELTİLMESİ 6
+7 ASKI BRÜLÖRÜ 7
+8 BRÜLÖR DEVRESİ 8
+9 DÜZ BRÜLÖR 10
+10 ÇATAL BRÜLÖR 11
+11 SERT ÇEKİM ASKI 12
+12 SAP BRÜLÖRÜ 14
+13 ARGAND BRÜLÖRÜ 15
+14 WELSBACH BRÜLÖRÜ 16
+15 ASETİLEN BRÜLÖRÜ 17
+16 DÜĞME 19
+17 BARTHOLDI BRÜLÖRÜ 21
+18 BOSTON OTOMATİK 22
+19 GİZLİ OTOMATİK 24
+20 İKİ BASMADAN BİR "OTOMATİK"İN ŞEMA KABLOLAMA 27
+21 BİR "OTOMATİK" VE İKİ ASMA BRÜLÖRÜN ŞEMA KABLOLAMA 28
+22 BASİT ANAHTAR BAĞLANTILARI 33
+23 OTOMATİK BAĞLANTILARIN DETAYLARI 35
+24 KİLER OTOMATİK DEVRELERİNİN DETAYLARI 35
+25 SOMUN ANAHTARI 40
+26 KAPI GEÇİDİYLE ÇALIŞAN OTOMATİK 44
+27 BİRİNCİL BOBİN 46
+28 SYRACUSE KESİTİ 50
+29 BOSTON KESİTİ 51
+30 DETAYLAR KESİM ÇUBUĞU--NORMAL 52
+31 DETAYLAR KESİM ÇUBUĞU--ÇALIŞMA 53
+32 AMPUL KESİM 54
+33 ATLAMA KIVRIMCI BRÜLÖR 56
+34 SERİ AYDINLATMA İÇİN WELSBACH BRÜLÖR 56
+35 SÜTUN BRÜLÖR 56
+36 ATLAMA KIVRIMCI GAZI AYDINLATMASI İÇİN DEVRE 57
+37 YALITKAN 59
+38 EDWARDS' KONDENSERİ 60
+39 EDWARDS' KONDENSERİ 61
+40 EDWARDS' KONDENSERİ DEVRESİ DİYAGRAMI 62
+42 ATLAMA KIVRIMCI ANAHTARI İÇİN DEVRE 64
+43 ELEKTROMANYETİK RÖMORK 66
+44 RUHMKORFF BOBİN DEVRESİ DİYAGRAMI 68
+45 KESİTLERİN SARIMI 73
+46 KESİT DİYAGRAMI 74
+47 KONTAK KESİCİ 75
+48 KONTAK ANAHTARI 76
+49 POTANSİYEL DÜŞÜŞ DİYAGRAMI 79
+50 SERİ DÜZENLEMESİ 81
+51 ÇOKLU DÜZENLEME 82
+52 LECLANCHE HÜCRESİ 84
+53 SAMSON HÜCRESİ 87
+54 YENİ STANDART HÜCRESİ 90
+55 EDISON-LALANDE HÜCRESİ 92
+56 FULLER HÜCRESİ 94
+57 GRENET HÜCRESİ 95
+
+BÖLÜM I. GİRİŞ NOTLARI.
+
+Kibrit kullanımından kaynaklanan çok sayıda yangın ve
+elektrikli gaz yakma yönteminin büyük rahatlığı ve tehlikeden uzaklığı, bu sayfaların yayınlanması için tek başına yeterli nedenlerdir.
+
+Elektrik operasyonlarında en acemi bile elektriğin bir
+kıvılcıma neden olacağını bilir ve çoğu kişi kıvılcımın, kıvılcımın karakterine göre değişen önemli bir yanıcı güce sahip olduğunun farkındadır. Elektrikli gaz yakmada, uygun karakterde bir kıvılcım bir gaz jeti üzerinden geçirilir ve onu tutuşturur. Kıvılcımlar çeşitli yollarla üretilebilir: sürtünme, pil akımı, galvanik veya elektromanyetik indüksiyon, bir Wimshurst veya Toepler Holtz makinesi veya bir pille çalışan bir
+indüksiyon bobini. Bizim amaçlarımız için yalnızca ikincisini ele alacağız; birincisi belirsiz ve kullanışsız olduğu için nadiren kullanılır.
+
+Pillerin birçok çeşidi vardır ve hepsi kıvılcım üretse de, elektrikli gazlı aydınlatma için aralıklı çalışma için yapılmış ve açık devre hücreleri olarak sınıflandırılanlar tercih edilmelidir. Daha sonraki bir bölümde tam olarak açıklanacak olan açık devre pilleri arasında Leclanche ve sözde "kuru" hücrelerin çoğu bulunur.
+
+[Resim: ŞEKİL 1.]
+
+[Resim: ŞEKİL 2.]
+
+[Resim: ŞEKİL 3.]
+
+Eğer iki tel _B_ pilinin bir hücresine, biri karbon veya pozitif kutba, diğeri çinko veya negatif kutba bağlanırsa ve bunların serbest uçları birbirine dokundurulursa, teller her _ayrıldığında_ _C_ noktasında küçük kıvılcımlar gözlemlenecektir (Şek. 1). Şimdi, _S_ yalıtımlı telinden oluşan bir bobin devreye dahil edilirse, Şek. 2, temasın yapılıp kesilmesi tekrarlandığında, kıvılcımlar çok daha fazla artacaktır. Bu, _indüksiyondan_ kaynaklanır, her bitişik tel dönüşü komşusuna etki eder. 
+İndüksiyonun etkisini daha iyi anlamak için, aşağıdaki örnekleri ele alacağız: Şekil 3. _A_, pil hücresi _B_ olan bir devredir. _C_, devre _A_'ya yakın ancak iyi yalıtılmış
+olan ikinci bir devredir. _G_, bir akım bir tel bobininden geçtiğinde mıknatıslanmış bir iğnenin sağa veya sola sallandığı bir galvanometredir. Şimdi, devre _C_'de pil hücresi olmasa da, devre _A_ her kapatıldığında veya açıldığında iğne sallanacaktır; yani, tel uçları birbirine değdiğinde veya ayrıldığında. Bu salınım elbette devre _C_'den bir akım geçtiğini gösterir, ancak içinde pil veya başka bir elektrik enerjisi kaynağı bulunmadığından, bunun devre _A_'daki akımın etkisinden kaynaklandığı açıktır. Aslında, devre kapatıldığında iğne bir yöne, açıldığında ise ters yöne sallanır; ancak devre açıldığında daha büyük salınım, akım _A_ devresinde akmayı bıraktığı anda _indüklenen_ akımın daha büyük gücünü gösterir. Bu akım darbelerinin yalnızca anlık olduğunu unutmayın. Tek bobinimizde, Şekil 2, her bir tel dönüşü, _A_ devresinin _C_ devresi üzerindeki etkisine benzer şekilde kendi üzerinde etki etti.
+
+[Resim: Şekil 4.]
+
+[Resim: Şekil 5.]
+
+Bobine, Şekil 4, yerleştirilen ancak ondan dikkatlice yalıtılmış bir demir çubuk veya demir tel demeti, _P_, endüktif etkileri ve dolayısıyla kıvılcımı büyük ölçüde artıracaktır. Bu düzenleme, çekmeli veya sarkıt ve otomatik brülörlerde kullanılan basit birincil bobini oluşturur. Bu kıvılcım genellikle bir rahatsızlık kaynağıdır; benzer bobinler içeren bir devrenin yapılıp kesildiği her yerde görülür.
+Telgraf aygıtında anahtar ve röle kontaklarında fark edilir;
+aslında, yazar geçici olarak bir telgraf ses cihazından bir çift elektromıknatıs kullanmış ve bir gaz aydınlatma brülörünü çalıştırmak için yeterli kıvılcım elde etmiştir.
+
+Bir hava boşluğundan sıçrayacak uzun bir kıvılcım üretmek için, Şekil 3'te belirtilen deneyle daha yakından örtüşen daha
+karmaşık bir bobin biçimine ihtiyaç vardır. Burada basit birincil bobinin üzerine daha
+ince telden yapılmış başka bir bobin, _S_ sarılmış ancak dikkatlice yalıtılmıştır (Şekil 5). Bu ikinci bobin veya "ikincil" bobin, sadece nispeten az sayıda kaba tel dönüşü olan birincil bobine kıyasla çok sayıda ince tel dönüşüne sahiptir. 40 fitlik bir birincil bobin, belki de 16.000 fitlik bir ikincil bobine, 36 B & S. No.'lu bir ikincil bobine yerleştirilebilir. Bu ikincil bobin, aslında indüksiyon bobinini oluşturan tüm cihazlar, kıvılcımın elektromotor kuvveti muazzam olduğundan ve iç sargıyı delerek içeri girme ve böylece cihazı tahrip etme olasılığı olduğundan, son derece yalıtılmış olmalıdır. Birincildeki devre, bir el anahtarı veya _C_ noktasında otomatik bir temas kesici ile yapılır ve kesilir. Büyük bir bobinle, kıvılcımın _G_ noktasındaki yoğunluğu, bir sekizde bir inçten üç fitin üzerine kadar bir hava boşluğunu atlayacak şekildedir.[1]
+
+[1] Bkz. Norrie, _İndüksiyon Bobinleri ve Bobin Yapımı_.
+
+Bobinler ve kontak kesicinin bu kombinasyonu genellikle bir
+Ruhmkorff veya yoğunluk bobini olarak bilinir ve Şekil 6'da yükseltide gösterilmiştir.
+
+[Resim: Şekil 6.]
+
+BÖLÜM II.
+
+ÇOKLU GAZ YAKMA.
+
+[Resim: Şekil 7.]
+
+Kıvılcımın kesintiye uğramış bir temasta nasıl ortaya çıktığını daha önce gördüğümüz gibi, gaz yakmaya uygulanmasının araçları
+dikkate alınacaktır. Şekil 7, en genel olarak kullanılan elektrikli
+gaz brülörü veya "kolye brülörü" türünü temsil eder. Uygulaması Şekil 8'de gösterilmiştir.
+Bobin _C_'den gelen tel _W_, kontağı _S_ taşıyan pirinç yalıtımlı yakaya bağlanır. Bobin _C_ ve
+pil _B_'den gelen diğer tel gaz borusu _G_'ye bağlanır. Brülör ayrıca gaz borusunun kendisine vidalandığından, brülördeki _A_ noktasındaki boşluk olmasaydı, brülör ayağından _P_ izole edilmiş _C_ kontağı ve _W_ teli taşıyan yakadan kaynaklanan devre kapalı olurdu. Ancak, brülör kolu zincirine, _R_ yayının ucunun geçerken _C_ kontağıyla çarpışmasına neden olacak şekilde bir çekme verildiğinde, 
+temas kurulur ve kesilir ve brülör ucundan çıkan gazı tutuşturan bir kıvılcım geçer, gaz daha önce açılmıştır. 
+Brülör koluna, onu aşağı çekmek için metal bilyalı bir zincir parçası takılır. Bu brülör sınıfında, yalnızca küçük ayrıntılarda farklılık gösteren birçok farklı marka vardır. 
+[Resim: ŞEK. 8.]
+
+Şekil 9, platin teması olmayan, ancak kol aşağı çekildiğinde spiral yay tarafından sıyrılan yalıtımlı yakada geniş bir çıkıntıya sahip bir sarkıt brülör biçimini göstermektedir.
+Çıkıntının brülör tepesindeki yalıtımlı bir yaka tarafından tutulmadığı, ancak brülör ayağına büyük bir
+vida ve yalıtım rondelalarıyla tutturulmuş bir kolun uzantısında olduğu görülecektir. Devre teli, temas kolunun alt kısmında görülen daha küçük vidanın altından geçer ve bu, güçlü ve düzgün bir bağlantı biçimi oluşturur.
+
+[Resim: Şekil 9.]
+
+Şimdiye kadar, bir sarkıt brülörün zincirini çekmeden önce gazı açmak gerekiyordu, ancak bu her zaman istenmediği için
+cırcırlı brülör yapılmıştır. Şekil 10, kol aşağı çekildiğinde kısmen dönen dişli bir çark taşıyan brülörü göstermektedir. Bu tekerlek, dönüş noktasına göre açılıp kapanan bir valfin sapına monte edilmiştir ve böylece gazı kapatır veya brülöre akmasına izin verir. Kolun bir kez çekilmesi gazı açar; aynı anda silme yayı brülör yakasındaki temas noktasına dokunur ve gaz yanar. İkinci bir çekme ve dönen tekerlek gazı kapatır. Bu sınıftaki tüm brülörlerde, kolu yukarı ve orijinal pozisyonuna geri taşımak ve bir sonraki çekime hazır hale getirmek için bir yay bulunur. Bazı brülörler, kol geri uçtuğunda temas etmez ve böylece pil akımından tasarruf sağlar.
+
+[Resim: ŞEK. 10.]
+
+[Resim: ŞEK. 11.]
+
+Şek. 11, hareketli elektrodun gaz alevinden geçmediği ve gaz kapatılırken elektrotların birbirleriyle temas etmediği geliştirilmiş bir brülör biçimidir. Kesime yapılan referans, sarmal yaylı elektrotların tabanından çıkıntı yapan bir pimi gösterecektir, bu pim çekme kolunun kısa ucuyla temas edecek şekilde düzenlenmiştir. Bu çekme kolu aşağı çekildiğinde bu pimi yukarı iter ve spiral yaylı elektrodu brülör yakasındaki sabit elektrotla teması sağlayacak ve kesecek kadar uzatır. Bu brülör, istenirse taklit mum brülörlerine uyması için porselen bir mum şeridiyle donatılabilir.
+
+SAPLI BRÜLÖRLER.
+
+Bazen sıradan zincir çekmelerine, armatürleri sarsmaları ve ayrıca kolun çalıştırılmasında kullanılan gerginlikten dolayı armatür dallarını bükme eğiliminde olmaları nedeniyle itiraz edilir. Bu itirazların üstesinden gelmek için sap tipi brülör üretilir (bkz. Şekil 12).
+Bu sapın, sıradan bir gaz musluğunda olduğu gibi sağa veya sola çevrilen kullanışlı bir anahtar taşıdığı görülecektir. Hareketli
+kontak yalnızca gaz açıldığında ve yakıldığında temas eder. Kapatıldığında, kol sabit elektroda temas etmeyecek şekilde geri çekilir ve böylece pil akımından tasarruf edilir.
+
+[Resim: ŞEK. 12.]
+
+Şek. 13, bir Argand brülörü için basit bir yakma ekidir.
+Çekimi taşıyan hareketli kolun üst ucunda Alman gümüşü spiral bir yay vardır. Bu yay, devre teli kolundan dışarı çıkan çıkıntıya çarpar ve bir kıvılcım oluşturur. Devre teli kolunun alt kısmında hazır bağlantı için bir vida ve rondela bulunur ve sağlam ve esaslı bir şekilde yapılmıştır.
+
+[Resim: ŞEK. 13.]
+
+Welsbach brülöründen gelen gazı tutuşturmanın bir yolu Şekil 14'te gösterilmiştir ve daha fazla açıklamaya gerek kalmayacak kadar basittir.
+
+ASETİLEN BRÜLÖRLERİ.
+
+Karbon birikintileri nedeniyle, asetilen gazı için brülörlerin kömür gazı için tasarlananlardan farklı ve daha önemli bir şekilde inşa edilmesi gerekir.
+
+[Resim: ŞEK. 14.]
+
+En iyi düzenleme, bir pilot tüp brülörü ve iki ana ucu olan Şek. 15'te gösterilmiştir. Anahtarı çevirdiğinizde, gaz hem ana hem de pilot brülörlere
+girer, ancak temas kesildiğinde elektrot yalnızca pilot brülördeki gazı tutuşturur ve bu da ana brülör için bir çakmak görevi görür. Ana brülörü
+söndürerek, istenirse pilot ışığı yanık bırakılabilir ve küçük bir ışık verir, daha önce bahsedilen karbonizasyon nedeniyle ana brülörü _kısmak_ mümkün değildir.
+
+[Resim: ŞEK. 15.]
+
+Bir asetilen brülörünün deliği, bir kömür gazı brülörünün deliğinden çok daha küçüktür, birincisi saatte yaklaşık yarım fit yanarken, ikincisinin altı veya yedi fit yanması gerekir.
+
+BENZİN İÇİN BRÜLÖRLER.
+
+Bu gazın alevi kömür gazından daha sıcaktır ve o kadar çok karbon biriktirir ki, brülörlerin yapımında küçük bir değişiklik yapılması gerekir. Ayrıntılar, bir brülörün gözlemlenmesiyle kolayca görülebilir, sadece kontakların ayarlanması ve çalışmasındadır. Ancak, kömür gazı için gerekenden daha büyük bir bobin ve daha güçlü bir pil kullanmak daha iyidir - örneğin, 6 hücreli Samson veya büyük boy New Standard kuru pil ve üzerinde yaklaşık 4 pound veya daha fazla tel bulunan 10 inçlik bir bobin.
+
+OTOMATİK BRÜLÖRLER.
+
+[Resim: ŞEK. 16.]
+
+Bu brülörlerin çeşitli formları vardır, ancak hepsinin prensibi aynıdır. Bir gaz brülörü, tahrik mekanizmasını çevreleyen pirinç bir kasanın tepesinden dışarı çıkar. Bu mekanizma genellikle iki elektromıknatıstan oluşur, birinin armatürü vanayı açar ve gazın akmasına izin verir, aynı zamanda platin uçlu bir çubuğu brülör yakasındaki bir elektroda karşı titreştirir. Bu, brülör ucunda gazı tutuşturan bir dizi kıvılcım üretir. Vanayı kapatan ve gazı söndüren ikinci bir mıknatıs sağlanır.
+Bazı cihazlar vanayı hem açmak hem de kapatmak için bir elektromıknatıs kullanır, ancak çoğunda çift elektromıknatıs bulunur. Devre, istenen yere yerleştirilen bir basmalı düğmeden çalışır, Şekil 16; beyaz bir düğmeye basıldığında gaz yanar ve siyah bir düğmeye basıldığında gaz kapanır. BARTHOLDI OTOMATİK BRÜLÖR.
+
+Diğer otomatiklerde olduğu gibi dönen bir stop-musluk yerine, Bartholdi'de, şekil 17'de gösterildiği gibi, armatürün ve bağlantı sapının ağırlığıyla yuvasına tutturulmuş bir yerçekimi
+valfi kullanılır.
+Gaz kapatıldığında, valf, kesitte gösterildiği gibi yuvasına oturur.
+Açma
+düğmesindeki elektrik devresinin kapatılmasıyla, helezonlardan ikisi _M P_ enerjilendirilir ve armatürün _J_ kaldırılmasına neden olur, böylece, sap _H_ vasıtasıyla, valf _G_ yuvasından noktalı konuma
+kalkar ve gaz yolu açılır, böylece gaz, oklarla gösterildiği gibi uca doğru çıkabilir. Aynı anda, vananın üst kısmı kolun _W_ ucuna çarpar ve
+devrenin kıvılcım noktalarında _T U_ kopmasına neden olur,
+parmak düğmeye bastığı sürece sürekli bir kıvılcım
+çıkmasıyla sonuçlanır. Armatür kaldırılırken mıknatıs da onu büker veya
+kısmen döndürür, böylece armatürdeki çentik _d_ kancanın _e_ ucuna gelir, noktalı çizgilerde gösterildiği gibi.
+Parmak düğmeden kaldırılarak devre kesildiğinde, çentik
+kancaya düşer ve vana açık kalır.
+
+[Resim: ŞEK. 17.]
+
+Alev söndürmek için, ikinci bir mıknatıs (kesitte gösterilmemiştir) armatürü kaldırıp ters yönde büktüğünde, devre kesildiğinde armatür normal pozisyonuna düşerek vanayı kapatır.
+
+[Resim: ŞEK. 18.]
+
+GELİŞMİŞ OTOMATİK.
+
+Bu otomatik brülör, Şekil 18, iki mıknatısa sahip olan sınıfın tipik bir örneğidir, biri vanayı açıp gazı yakmak için, diğeri vanayı kapatıp ışığı söndürmek için. Bağlayıcı direklerin iki vidayla tutulan bir kauçuk şerit üzerine monte edilmesiyle eski brülör tiplerine göre bir iyileştirmeyi temsil eder, böylece bugüne kadar yaygın olan bükülme ve gevşeme önlenir. Ayrıca, pil biterse vananın açılmasına ve kibritle gaz yakılmasına olanak tanır.
+
+TİTREŞİMLİ BRÜLÖR.
+
+Bu, vana mekanizması olmayan, ancak yalnızca gazı yakan otomatik bir brülördür. Genellikle brülörlerin bulaşma yoluyla yanmaya yeterince yakın olduğu bir küme veya halka içine yerleştirilir. Çapı normal otomatik brülörlerden çok daha küçüktür, sadece bir buçuk inç çapındadır.
+
+ARGAND OTOMATİK BRÜLÖRLER.
+
+Otomatik brülörler Argand için de yapılır, ancak normal tipe göre yapıda radikal bir
+fark göstermezler.
+
+GİZLİ OTOMATİK BRÜLÖR.
+
+[Resim: ŞEKİL 19.]
+
+Bu otomatik, Şekil 19, biri diğerinin üzerine yerleştirilmiş iki demir kaplı mıknatıstan oluşur ve bunların arasında bir gaz vanası bulunur. İkincisinin bir uzantısı aracılığıyla bir pim tahrik edilir, bir ucu vanayı açmak ve gazı ateşlemek için üst armatür tarafından, diğeri ise vanayı kapatmak ve alevi söndürmek için kullanılan alt armatür tarafından etkilenir. Brülörün etrafına 3/4 inç çapında ve 4-3/4 inçten yukarıya doğru uzanan bir porselen mum şeridi yerleştirilir.
+
+BÖLÜM III.
+
+BAĞLANTILAR VE KABLOLAMA.
+
+Şekil 20, otomatik bir brülörün iki itmeyle nasıl bağlanacağını gösterir;
+böylece biri aşağıda salonda diğeri yukarıda olabilir,
+bu da gazı her iki yerden de söndürmeye veya yakmaya olanak tanır.
+Bu düzenlemenin değeri açıktır; gece aşağı inmeden önce salonu aydınlatmaya veya güvenli bir şekilde yukarı çıktıktan sonra gazı söndürmeye olanak tanır. Yine, bodruma otomatik bir brülör konulabilir ve bodrum merdivenlerinin başından yakılıp söndürülebilir, böylece kibrit ve yangın tehlikesi önlenir.
+
+Şekil 21'de bir otomatik brülör ve iki sarkıt veya rachet brülörün bağlantıları gösterilmektedir. _P P_ sarkıt brülörlerdir, _A_ otomatik brülör, _C_ birincil bobin, _S_ otomatik brülörü kontrol eden düğmeler, _M M M_ pil hücreleridir, bunlardan en az dört, altı değilse bile olmalıdır. Daha önce belirtildiği gibi burada düşük dirençli bir hücre kullanılmalıdır, kısa devrede _en az_ 5 amper vermeyen bir hücre. Burada, pilin bir tarafının toprağa (veya gaz borusuna) bağlı olduğu ve brülörlerin gaz borusuna vidalanması nedeniyle devrenin tamamlandığı görülecektir. Ancak, öncelikle elektrik ışığı kablolamasında yapıldığı gibi gaz armatürlerinde yalıtım burçlarının kullanılmadığından emin olunmalıdır. Bu durumda çift devre çalıştırılması gerekecektir.
+
+[Resim: ŞEK. 20.]
+
+[Resim: ŞEK. 21.]
+
+İki elektromıknatıslı bir otomatik brülörü kablolarken, biri siyah düğmeden, diğeri de itme plakasındaki beyaz düğmeden olmak üzere iki kablo çalıştırılır. Çoğu brülörün kasasının içinde bağlayıcı direkleri vardır ve teller tabandaki kauçuk burçlu bir delikten geçer. Eski tip otomatiklerdeki en büyük kusurlardan biri, iki bağlayıcı direğin, brülör üstüne bir vidayla tutturulmuş sert bir kauçuk bloğa sabitlenmiş olmasından kaynaklanıyordu. Bu vida zaman zaman gevşer ve blok bükülürdü,
+kabloları sıkmak zorlaşırdı. Ancak bu yönde iyileştirmeler yapıldı, daha sonraki brülörlerde kapaktaki bir deliğe geçen ve iki vidayla tutulan çıkıntılı bir blok bulunur.
+
+İtme yerine yerleştirilmişse ve tüm kablolama yapılmışsa, brülörü bağlayın, önce iki kablonun hangi bağlantı direğine gittiğini belirleyin.
+Bu, örneğin aydınlatma (beyaz) olan bir düğmeye basılarak ve ardından bağlantı direğine herhangi bir tel ile dokunularak yapılır. Aydınlatma armatürü dokunulduğunda şiddetli bir şekilde vızıldarken, söndürme armatürü temas kurulduğunda yalnızca bir kez vurur. Yalnızca bir kişi çalışırken, devreyi kapalı tutmak için itmeye bir pim takılabilir.
+
+Bu brülörleri kurarken, kontakları bükmemeye veya ayarları değiştirmemeye dikkat edilmeli ve hiçbir kablonun yalıtılmamış yerlere değmemesi için mutlak önlem alınmalıdır. Soruna yol açan bir sebep, gazın temas kıvılcımını
+çakmasına izin vermeyen kirli bir brülördür. İkinci kontağı taşıyan yaka kayabilir veya belki de bir sarkıt veya cırcır brülörde kısa devre yapabilir; bir asbest şeridi bunu çözecektir.
+
+BRÜLÖR DAĞILIMI.
+
+Bir eve elektrikli aydınlatma brülörleri takarken, seçim sorusu en iyi şekilde şu şekilde çözülür: Ana hol ve bodrum merdivenlerinin ayağı için otomatik brülörü kullanın. Diğer koridorlar,
+yemek odası, oturma odası ve banyo için zincir çekildiğinde yanan ve gazı yakan cırcır brülörleri kullanın. Yatak odaları için düz sarkıt brülörler kullanın; otomatikler ve cırcır brülörler bir tehlike unsuru ekler, çünkü gazı
+kapatmayabilir veya sızdırabilir. Piyasadaki bu tiplerin çoğu
+olabildiğince güvenilirdir, ancak yine de
+kazalar olacaktır.
+
+Ön sayfa, orta büyüklükteki bir konuttaki kablolama şemasını gösteriyor ve her bölüm bir anahtarla kontrol ediliyor - ya bir el anahtarı ya da başka bir yerde açıklanan otomatik kesme anahtarlarından biri. Brülörler şu şekilde dağıtılıyor:
+
+Ön bodrumdaki 1 numara, sarkıt veya mandal.
+
+Arka bodrumdaki merdivenin dibindeki 2 numara, mutfaktan yukarıdan kontrol edilen otomatik bir
+brülör.
+
+Salon ve yemek odasındaki avizelerdeki 3 ve 4 numaralı mandal brülörler.
+
+Mutfaktaki 5 numaralı mandal veya sarkıt.
+
+Yatak odasındaki 6 numaralı sarkıt.
+
+Banyodaki 7 numaralı mandal veya sarkıt.
+
+Yatak odasındaki 8 numaralı sarkıt.
+
+Yatak odasındaki 9 numaralı sarkıt.
+
+Yatak odasındaki 10, 11 ve 12 numaralı sarkıtlar.
+
+No. 13 otomatik brülör, alt ve üst koridorlarda itmelerle çalıştırılır.
+
+Bu iş için gereken malzemeler şunlardır:
+
+İki otomatik brülör.
+
+Üç gazlı aydınlatma basmalı düğme ve taban.
+Odalardaki ışık sayısına göre sarkıt ve cırcırlı brülörler.
+
+Altı hücre - açık devre pil.
+
+Bir üç kollu anahtar.
+
+Bir adet 8 veya 10 inç kıvılcım bobini.
+
+Üç pound No. 16 patentli ofis teli.
+
+İki ons No. 24 gaz armatür teli.
+
+Bir pound kalaylı 3/8" zımba.
+
+Birkaç inç kare alüminyum folyo.
+
+Küçük rulo yalıtım bandı.
+
+Araçlar: 4 inç tornavida, çakı, 4-1/2 inç yan kesme pensesi, çekiç, bir parça zımpara kağıdı. Basit bölüm anahtarı Şekil 22'de büyütülmüş olarak gösterilmiştir. 1, 2 ve 3 numaralı teller kendi devrelerindendir ve anahtar kollarında _A A A_ sonlanır. Pil _B_ ve bobin _C_'den gelen tel _her_ anahtar saplamasına _S S S_ gider. Eğer hatta bir sorun varsa,
+her devre, hata bulunana kadar anahtar kolunu hareket ettirerek devre dışı bırakılabilir. Eğer hemen bulunamazsa ve pil zayıfsa,
+(her hücreyi sıradan bir elektrikli zil ile test edin), pil iyileşene kadar tüm devreleri açın ve pil kablosunu anahtardan ayırın.
+Daha sonra pil kablosunu zile takın ve
+her anahtar koluna zilin diğer bağlama noktasından gelen bir tel ile dokunun.
+Herhangi bir bölümde kısa devre varsa, kol dokunulduğunda zil çalacak veya titreyecektir.
+
+[Resim: Şekil 22.]
+
+Aksine, brülörler çalışmazsa ve kısa devre belirtisi elde edilemezse, bir telin koptuğu veya bir vidanın gevşek olduğu açıktır.
+
+Bir kopukluğu tespit etmek için, zili az önce açıklandığı gibi bağlayın ve test telini tüm kollar kapalıyken anahtara takın; bu aslında zili akü, bobin ve toprakla seri hale getirmektir. Sonra kopukluğu arayın. Uzun bir tel parçası alın ve bir ucunu bir topraklama borusuna sabitleyin. Sonra diğer ucunu bodrumdaki devre teline olabildiğince dokunun, yalıtımı noktalarda açığa çıkarın, ancak dikkatlice tekrar yalıtın. Bodrumda kopukluk yoksa, zil her temasta yüksek sesle çalar. Sonra, bir sonraki kata geçin ve işlemi kademeli olarak aküden _uzaklaşarak_ tekrarlayın. Kopuğu geçer geçmez zil yanıt vermemeye başlar. Burada iki kişi bir kişiden daha iyidir, çünkü sorunu bulmadan önce zilden epeyce uzaklaşmak gerekebilir.
+
+Şekil 23, koridor lambasından iki basmalı düğmeye giden kablolamanın ayrıntılarını gösterir. Üst basmalı _T_, orta bağlantıdan aşağı doğru bir kablo, benzer bir dalın birleştiği alt basmalı _L_'yi geçerek, bölüm anahtarına ulaşana kadar uzanır. Alt basmalıdan gelen aydınlatma ve söndürme
+kabloları yukarı doğru uzanır ve üst basmalıdan gelen benzer kablolara birleştirilir, bu son kablolar doğrudan zeminden ve tavandan otomatik brülöre _A_ gider.
+
+[Resim: Şekil 23.]
+
+[Resim: Şekil 24.]
+
+Şekil 24, bodrum otomatik brülörü için _A_, basmalı _P_'den gelen kablolamanın ayrıntısıdır ve daha fazla açıklama gerektirmeyecek kadar net bir şekilde gösterilmiştir.
+
+Gaz lambası işinde başarının sırrı dikkatli kablolamadır. Titreşimli çubuğun platin ucu, genellikle kazara bir darbe veya yakadaki uca sürekli çekiçleme nedeniyle bükülür. Bu, aydınlatma armatürü vızıldamayı reddettiğinde genellikle açık devreye neden olur. Yine, kurum oluşur ve kusurlu temas nedeniyle zayıf bir eyleme neden olur. İnceleyin, ayarlayın ve temizleyin; burada, tüm elektrik işlerinde olduğu gibi, temaslar temiz olmalıdır. Genel kablolamada, hava koşullarına dayanıklı ofis teli veya daha iyisi, iyi yapılmış elektrik ışık teli kullanın. Sıradan ev işleri için No. 16 B. & S. ölçüsü tercih edilir; daha küçük tel, daha yüksek direnç ve brülörde daha az akım anlamına gelir. Örgülü ofis teli için No. 16 pound başına yaklaşık 95 fit, No. 18 pound başına yaklaşık 135 fittir. Patentli kaplama veya ekstra yalıtım olmayan daha ucuz tel türleri kullanılmaya değmez; Er ya da geç sorun çıkacaktır ve bir evin kabloları döşendiğinde, özellikle de kablo sıvadan önce döşendiyse, sorun çıkarmak hoş bir iş değildir. Büyük şehirlerdeki modern binalarda, boru borularının kullanımı
+genel hale gelmiştir, ancak bu boruların kullanımı
+daha çok elektrikçinin yetki alanına girer ve
+bu sayfaların kapsamına daha az girer.
+
+Yeni ahşap binaların kablolarını döşerken kabloları çok sıkı çekmeyin; ahşap
+genleşebilir ve ya teli kırabilir ya da yalıtımın zayıflamasına
+neden olabilir. Sıva döşenmeden önce kablolama yaparken, her zaman iyi bir uzunlukta boş alan bırakın, böylece sıvacılar tarafından
+örtülmesin. Gaz armatüründe kullanılan tel, bu amaç için yapılmış özel bir türdür. No. 22 ve No. 24 B. & S. ölçüsünde iki boyutta yapılır ve üç sarım pamuk, üç dış katman pamuk ve bir ipek veya yangına dayanıklı
+hazırlığa batırılmış üç sarım pamuk ve ardından ipekle sarılır.
+
+Kullanılan parça genellikle kısa olduğundan, bu küçük boyutlar taşıma kapasitesi için yeterlidir. Bir armatürü bağladıktan sonra, bu ince tel, iplikle borulara vb. bağlanabilir ve bir veya iki kat cila verniği uygulanabilir. Bu kuruduğunda, iplik çıkarılabilir ve cila telleri armatüre tutturacaktır. Hiçbir durumda, teli cilalarken pili bir devreye bağlamayın. Cila tamamen kuruyana ve _sertleşene_ kadar bekleyin - mümkünse en az yarım gün.
+
+Beyaz kurşun genellikle brülörün fikstüre vidalandığı birleşim yerlerinde kullanılır, ancak birleşim yerinin etrafına sarılmış kalay folyo iyi bir hizmet verir. Sızıntıları önler ve iyi bir temas sağlar.
+
+Aküdeki toprak bağlantısı birinci sınıf olmalıdır; bodrumdaki borunun etrafına birkaç tur tel sarmakla yetinmeyin (akü bodrumdaysa), boruyu temizleyin ve kazıyın; telin en az iki fitini temizleyin, sıkıca ve eşit şekilde boruya sarın ve _lehimleyin_. Boruya ve ona bağlanan telin kelepçelendiği bir boru kelepçesi vardır, ancak temiz bir yüzeye düzgün bir şekilde yerleştirilmelidir.
+
+TAMAMLANMIŞ EVLERİN KABLOLANMASI.
+
+Özellikle ahşap olanların kablolanması tamamlanmış evlerde, teller süpürgeliklerden geçirilebilir ve genellikle zemin ile süpürgelik arasındaki boşlukta gözden kaybolabilir. Bu oldukça kabul edilebilirdir, çünkü teller, elektrik ışığı tellerinin aksine tehlikeli akım taşımaz; ancak
+su geçirmez tel tercih edilir hale gelir, çünkü bir zemini yıkamak için kullanılan su genellikle yalıtımın altına
+sızar ve onu çürütür. Yukarı
+çıkarken, teller genellikle merdiven boyunca bir kalıbın oluklarında geçirilebilir ve oldukça göze çarpmaz; ancak mümkün olduğunda, telleri
+duvarın içine doğru çekin. Kablolamada dikkate alınması gereken en önemli şey, tellerin yeterince büyük, iyi yalıtılmış, tüm bağlantıların iyi yapılmış ve bantlanmış ve yaralanma tehlikesi olmayan bir yere yerleştirilmiş olmasıdır. Sıçanların
+parafin kaplı yalıtımı kemirme alışkanlığı vardır ve bunları metal borularda geçirmek iyidir. Telleri birleştirirken veya eklerken, bunu iyice yapın ve mümkünse lehimleyin. Asla eski zil askısı bağlantısını kullanmayın--tellerin uçlarının sadece birbirine dolandığı bağlantı. Yalıtımı sıyırın ve eklenecek her telin yaklaşık üç inçlik kısmını kazıyın veya zımparalayın. Daha sonra, çıplak telleri yalıtımdan yaklaşık üç çeyrek inç uzakta birbirinin üzerine yerleştirerek, her birinin gevşek çıplak uçlarını eklendiği parçanın çıplak iç kısmının etrafına sıkıca sarın. Yapışkan bant sarıldıktan sonra, biraz lehim, oksidasyondan kaynaklanan sorunları önleyecektir. Bu tür ayrıntılara dikkat etmek genellikle işin tatmin edici şekilde çalışmasını sağlayacaktır.
+
+Gaz yakma kablolaması için kullanışlı bir alet Şekil 25'te gösterilmiştir. Bir ucu, cırcır ve sarkıt brülörlerdeki küçük somunlara uyacak şekilde delinmiştir ve diğer ucu tornavida olarak kullanılmak üzere düzleştirilmiştir.
+
+[Resim: Şekil 25.]
+
+Aynı avizede gaz lambalarıyla birlikte elektrik ışığı olduğu ve armatür ile boru arasına bir yalıtım burcunun vidalandığı bir durum ortaya çıkabilir. Bu durumda, her brülöre iki kablo çekilmesi gerekecektir, boru ortak dönüşü artık mevcut değildir. Başka bir plan, her brülörün altına bir yalıtım burcu yerleştirmektir; daha sonra ikinci veya dönüş teli yalnızca brülörden ana burcun _dışındaki_ gaz borusuna kadar geçirilmelidir. Ancak önce yerel yangın sigortası kurallarına danışılmalıdır.
+
+Çoğu tavan gaz armatürü, armatür telinin pirinç kabuğun içinden geçirilmesine izin verir, bu da daha temiz bir iş çıkarır. Ancak en iyi
+yalıtım kullanılmalı ve aşınmamasına büyük özen gösterilmelidir. Kullanımdan önce cilalanmalı veya başka şekilde yalıtılmalıdır.
+Elektrikli aydınlatma armatürü kabloları, yer varsa burada kullanım için takdire şayandır.
+
+Bitmiş bir evde gizli çalışma için, armatürün konumunu, hem armatürün olduğu
+odada hem de üst odada ölçerek üst odanın zemininin altında belirleyin.
+Daha sonra zeminden bir parça kesin, armatürün altından ince bir matkapla alçı gülünden yukarı doğru delin ve armatür telini yukarı doğru itin.
+Ana
+tel, halının altına veya üst kattaki odadaki zemin çatlağı boyunca döşenebilir.
+
+Duvar armatürlerini, basmalı düğmeleri vb. kablolarken, genellikle armatürde bir delik açarak ve uzun ve kalın bir dişe bağlı bir zincir parçası (bu amaçla yapılmış) yerleştirerek teli zeminden yukarı çıkarmak mümkündür.
+Daha sonra, zemine yakın süpürgeliğe delik açın
+ilk deliğin altına dik olarak yerleştirin ve ucunda bir kanca olan bir tel parçasıyla zinciri
+tutun. Armatürlerde pirinç rozetler varsa, bunlar (genellikle) armatürü sökerek çıkarılabilir,
+_ama önce gazı sayaçtan kapatın_ veya deliği tıkayın; bu gereksiz bir tavsiye gibi görünebilir, ancak deneyim bunun verilmesini gerektirir. Zincir çıkarıldığında, bir parça tel dişe takılabilir
+ve sırayla çekilebilir. Çoğu durumda, armatürdeki çıkış noktası rozet tarafından, içinden geçtiği bir delikten gizlenebilir. Bu deliğin kenarlarının yalıtımı kesmemesine dikkat edin.
+
+Gaz lambası kablolamasında her adımda dikkatli olunmalıdır.
+
+Bir basmalı düğmeyi bağlarken, tüm telleri kendi bağlayıcı vidalarının altına sıkıca vidalayın ve ardından mümkün olan her yeri
+yapışkan bantla örtün. Teller, duvardaki basmalı düğmenin arkasında bağlantıların yapılmasına izin vermek için biraz gevşek olması gerektiğinden, deliğe dikkatlice itilmeleri gerekecektir ve vidalarla sıkıca tutulmazlarsa sorun çıkacaktır. Yeterince ince bir tel kullanırken, telin ucuna bir tür göz yapmak ve vidayı bunun içinden geçirmek, telin ucunu vidanın etrafında döndürmek ve ardından vidayı yerine takmak yerine iyi bir plandır. Elbette, sıradan bir vidanın çıplak bir teli tuttuğu her yerde rondelalar kullanılmalıdır.
+
+KAPIDAN ÇALIŞTIRILAN OTOMATİK BRÜLÖR.
+
+Otomatik bir brülörün kullanılabileceği kullanımlardan biri, kapı açıldığında yanan ancak tercihen bağımsız bir itmeyle söndürülen elektrikli bir kapı yayıyla birlikte kullanılmasıdır. Bu durumda, yalnızca kapının hareketinin bir kısmı sırasında temas edecek bir tür tetikleme yayı kullanılmalıdır. Böyle bir tetikleme Şekil 26'da gösterilmiştir.
+
+_A_ otomatik brülördür; _C_, birincil bobindir; _B_, pildir; _T_, pirinç plakaya menteşelenmiş, sallanan bir pirinç trip parçası, _P_, kapının üzerine, ok yönündeki kapının açılması trip _T_'nin _S_ yayına çarpmasına ve temas etmesine neden olacak şekilde vidalanmıştır. Bu yay, sert kauçuk blok _R_ ile plakadan _P_ yalıtılmıştır.
+
+Kapı açıldığında, trip brülörü yakmak için yeterince uzun süre temas edecek ve ardından kapı geçerken geri düşecektir. Kapı kapatıldığında, trip yükselecek ve kapı geçerken düşecektir, ancak temas etmeyecektir. Veya istenirse, brülörü söndürmek için ikinci bir kontağın çalıştırılması sağlanabilir, böylece tripin üst kısmı aşağı doğru hareket ettiğinde - kapı kapanırken geçtiğinde olduğu gibi - bastırılacaktır.
+
+[Resim: ŞEK. 26.]
+
+Hırsız alarmlarıyla bağlantılı olarak otomatik brülörlerin çeşitli uygulamaları kendini gösterecektir, ancak bu durumlarda cihazın iyi çalışır durumda olmasına azami özen gösterilmelidir; ışık vermemek odanın gazla dolmasına ve ciddi sonuçlara neden olabilir.
+
+Gaz sobası kullanan ve mekanik olarak eğilimli kişiler için, otomatik brülörlü bir çalar saatin düzenlenmesi, yataktan çıkmadan veya hatta uyanmadan yanmalarını sağlayacaktır.
+
+BÖLÜM IV.
+
+ÖNCÜL BOBİNLER VE GÜVENLİK CİHAZLARI. Sarkıt veya otomatik brülörlerde kullanılan birincil bobini yapmak hiçbir zorluk yaratmaz. En uygun boyutlar 8 ila 10 inç uzunluğunda ve yaklaşık 3 inç çapında olanlardır. Bu bobinlerden _8 veya 10 inç bobinler_ olarak bahsetmek oldukça yaygındır; yazarın bilgisine göre bunun bir Ruhmkorff veya çift sarımlı indüksiyon bobini anlamına geldiği ve 8 veya 10 inçlik serbest bir kıvılcım verdiği düşünülmüştür.
+
+[Resim: ŞEK. 27.]
+
+Böyle bir bobin yapmak için (Şek. 27), şu şekilde ilerleyin: 3/4 inç dış çaplı ve yaklaşık 1-16 inç kalınlığında bir kağıt veya elyaf tüpünü üç inç kare, yarım inç kalınlığında kare veya yuvarlak makara uçlarına yapıştırarak bir makara hazırlayın ve her birinin ortasında tüpün sıkıca tutulmasına yetecek kadar büyük bir delik olsun. Bu uçlar tüpe sıkıca sabitlenmelidir; Borunun ucuna saplanan bir veya iki pim, eklemi güçlendirmeye yardımcı olacaktır. Şimdi boruya yaklaşık 3 pound
+No. 12 B. & S. pamukla kaplı mıknatıs teli sarın. Bu, her biri 80 turdan oluşan yaklaşık altı katman, toplamda yaklaşık 500 tur, toplamda 150 fit uzunluğunda, .25 ohm ölçülerinde olacaktır. Telin uçları, makara uçlarına açılan deliklerden dışarı çıkarılacak ve bu uçlardaki pirinç bağlama direklerine sabitlenebilir.
+
+Kağıt borunun içine, onu dolduracak kadar No. 22 B.W. ölçüsünde 8 inç uzunluğunda çok sayıda demir tel itin. Bu demir teller, her iki uca sağlam bir tel çivi çakılarak
+son olarak sıkılabilir.
+
+Kesinlikle gerekli olmasa da, sargılara uygulanan bir veya iki kat şellak verniği daha iyi bir yalıtım sağlayacaktır. Şellak verniği, bir kısım sakız şellakının dört kısım alkolde
+çözülmesiyle kolayca yapılır. Nemli yerlerde olma olasılığı olan bobinler için, P. & B. boya gibi yalıtım bileşiğiyle iyi bir
+doygunluk, onları
+su geçirmez hale getirecektir. Bu birincil bobinlerde iyi bir yalıtıma olan ihtiyaç, akımın daha düşük potansiyeli nedeniyle Ruhmkorff bobinlerinde olduğu kadar acil değildir.
+
+Akünün daha yüksek dirence sahip olduğu (veya kısa devrede on amperden daha az verdiği) yerlerde No. 14 B. & S. teliyle daha küçük bir bobin yapılabilir.
+
+Başka bir sayfadaki pil seçimiyle ilgili açıklamalar burada uygulamaya uygun olarak bulunacaktır.
+
+OTOMATİK KESİNTİLER.
+
+Bir evin farklı bölümlerine birkaç brülör takılacaksa, birkaç devreyi kablolamak istenebilir.
+Devrenin bir ucu zaten topraklanmış olduğundan, ikinci bir topraklama zamanında tespit edilmezse aküye maddi zarar verir. Bu nedenle, bir evdeki tüm ışıkları etkilemeden topraklanmış bir devreyi açabilmek gerekir. Bu, otomatik veya elle çalıştırılan bir anahtar kullanılarak çoklu devre düzenlemesiyle mümkündür.
+
+Tehlike sinyalinin en basit biçimi, gaz yakma bobininin ucuna monte edilen röle elektrikli zil
+ekidir. Bobin çekirdeği tarafından çekildiğinde bir devreyi kapatan bir armatürden oluşur, bu devrede bir pil
+ve elektrikli zil bulunur.
+
+Şimdi sıradan bir kolye veya mandal brülörü çekildiğinde, sadece
+bobin üzerinden çekirdeği mıknatıslamaya yetecek kadar anlık bir akım gönderir, ancak zilin çalması için armatürü yeterince uzun süre çekmeye yetecek kadar değil. Ancak bir kısa devre veya topraklama meydana gelirse, armatür kontağa zilin çalması ve uyarı vermesi için yeterince uzun süre tutulur. Bazı durumlarda, biri onu durdurana kadar zilin çaldığı sabit bir zil
+eklenir.
+
+SYRACUSE KESİM.
+
+Bu, gliserinin yavaş hareketine bağlı olarak kısa devreyi açmak için en yaratıcı cihazdır (Şekil 28).
+
+Merkezine yakın bir yerde döndürülen kapalı bir cam tüp, onu önemli ölçüde dengelemek ve bir ucunu aşağıda tutmak için yeterli miktarda gliserin içerir. Yumuşak bir demir armatür, bu tüpe, bir çift elektromıknatıstan her akım geçtiğinde armatürün çekimi tüpün eğilmesine ve gliserinin diğer uca doğru akmasına neden olacak şekilde bağlanır. Şimdi, tüp yalnızca bir saniye veya daha kısa bir süre eğilirse, yavaş hareket eden gliserinin onu dengeleyecek kadar uca akmayacağı, ancak armatürün önemli bir süre boyunca çekilmesini gerektireceği kolayca görülecektir. Bu elektromıknatıs, gaz yakma telleriyle devrededir, tüp, tamamen eğildiğinde devrenin kesileceği şekilde kontaklarla donatılmıştır. Bir sarkıt veya otomatik brülörün çalışmasıyla armatüre verilen anlık sarsıntılar, tüpü kalıcı olarak eğmek ve teması kesmek için yeterli olmayacaktır, ancak kısa devre, gliserinin artan ağırlığı tüpün devreyi açmasına neden olana kadar armatürü sıkıca aşağıda tutacaktır.
+
+[Resim: ŞEK. 28.]
+
+[Resim: ŞEK. 29.]
+
+OTOMATİK KESİTLİ KESİM.
+
+[Resim: ŞEK. 30.]
+
+Bu kesit, Şekil 29, saat mekanizması kullanan
+sınıfı temsil eder ve hem basit hem de güvenilirdir. Ev devresi, uzun bir pinyon şaftına sahip bir saat mekanizmasını kontrol eden bir elektromıknatısla seri halindedir. Bu saat mekanizması, bir brülör çalıştırırken olduğu gibi ev devresi kapalıyken başlar ve çalışır, ancak devre açıldığında ve akım akışı durduğunda durur. Binadaki farklı devrelere giden teller, alt tarafında dişleri kesilmiş kayar çubuklara monte edilmiş bir dizi temas yayından geçer (Şekil 30). Bu çubukların, ev devrelerine bağlı elektromıknatısların üzerinde duran temas yaylarının zıt uçlarında yumuşak demir armatürleri vardır. Saat mekanizması çalıştığında, pinyon şaftı döner, ancak kayar çubuklardan hiçbirine girmez, çünkü sadece onu temizler. Elektromıknatıslardan birinden ağır veya sürekli bir akım geçerse, karşılık gelen çubuktaki armatürü çeker (Şekil 31) ve dönen pinyon dişlere geçerek çubuğu yukarı çeker ve kontağı keser.
+
+[Resim: Şekil 31.]
+
+Şekil 32, yerçekimi prensibine göre çalışan bir pil koruyucusudur.
+Burada her bölüm, kısmen uçucu bir sıvıyla (örneğin eter) doldurulmuş ve bir cam tüple birleştirilmiş iki cam ampul tarafından çalıştırılan sallanan bir temasla yönetilir.
+Bu ampullerden birinde, devreye dahil edilen ve güçlü veya sürekli bir akımın geçmesiyle ısınan bir platin tel bulunur.
+Devre çok uzun süre kapalı kalırsa, platin telin ısınması sıvının üst ampule akmasına neden olur ve ampuller döndürüldükçe, üst ampulün artan ağırlığı artık rocker'ı dengeler ve o bölümdeki devreyi keser.
+
+[Resim: Şekil 32.]
+
+BÖLÜM V.
+
+BÜYÜK BİNALARIN AYDINLATILMASI.
+
+Atlama kıvılcım sistemi, erişilemeyen yerlerde bulunan gaz jeti kümelerini veya birkaçını aynı anda yakmak istendiğinde kullanılır. Bir Ruhmkorff bobininden gelen kıvılcım, bobinde kopan ve brülörde kopmayan bir temasla oluştuğundan, seri olarak yerleştirilen birkaç basit brülör arasında bölünebilir. Smith atlama kıvılcım brülörü olarak bilinen ve kullanılan brülörlerden biri Şekil 33'te gösterilmiştir. Bobinden gelen teller brülörün her iki tarafında gösterilen elektrotlara bağlanır ve kıvılcım brülör deliğinin hemen üzerinde bulunan boşluktan atlar. Alt kısmın etrafında mikadan yapılmış bir koruma flanşı vardır.
+
+Şekil 34, atlama kıvılcımının bir Welsbach brülörüne uygulanma şeklini gösterir. Kıvılcım aralığı tellerini taşıyan küçük bir porselen klips brülör bacasının tepesinde tutulur. Elektrotlar bacaya doğru aşağı doğru çıkıntı yapar, böylece hava akımı gaz akımını kıvılcım aralığından uzağa taşıyamaz.
+
+[Resim: ŞEK. 33.]
+
+[Resim: ŞEK. 35.]
+
+[Resim: ŞEK. 34.]
+
+Şekil 35, bir tiyatronun sahnesi veya ışıkların tehlikeli ve erişilemez yerlere yerleştirildiği yerler için tasarlanmış bir brülörü gösterir. Brülör, metal üst ve alt kısımların döndürüldüğü porselenden yapılmıştır. Ayrıca etrafına bir elektrot sıkıştırılarak ayarlama ve daha iyi yalıtım sağlanır.
+
+[Resim: ŞEK. 36.]
+
+Bu brülörler, Şekil 36'da gösterildiği gibi seri olarak kullanılır. _B B B_ brülörlerdir; _S S_, Ruhmkorff bobininden gelen ikincil teller, _I_; _P
+P_, aküden gelen birincil bobin telleri, _K_ anahtarıyla açılıp kapatılabilir.
+
+Genellikle düz brülörleri bulaşma yoluyla tutuşabilecek kadar yakın yerleştirmek mümkündür. Bu durumda düz brülörlerden biri çıkarılır ve yukarıdaki gibi çoklu bir brülörle değiştirilir.
+
+On altı brülörün bir inç kıvılcıma sahip olmasına izin vermek gelenekseldir, bu durumda kıvılcım aralıkları yaklaşık on altıda bir inç aralıklı olarak ayarlanır. 2 inçlik kıvılcım veren bir bobin 32 brülörü çalıştırabilir, ancak
+aslında birkaçını çıkarmak, böylece hafif bir sızıntıya izin vermek
+tercih edilir. 2 inçten fazla bir kıvılcımla başa çıkmak zordur, ancak sıklıkla kullanılır;
+Her biri 30 brülörden oluşan bir dizi devre oluşturmak ve bunları uygun bir
+anahtarla dönüşümlü olarak çalıştırmak daha iyidir.
+
+Brülörleri bağlamak için kullanılan tel genellikle çıplaktır, ancak bazen yalıtılmış bir
+tel kullanılır. Ancak 2 inçlik bir kıvılcımın elektromotor kuvveti o kadar yüksektir ki, kabloları sızıntıya neden olabilecek hiçbir şeye
+yaklaştırmayacak şekilde geçirmek daha iyidir. Bu yüksek gerilim akımlarının dikkat çekici eğilimine karşı çok dikkatli bir şekilde korunmalıdır;
+aslında, bu tarz gazlı aydınlatmayı sıklıkla
+başarısız kılan şey budur. Nemli bir duvar, yaldızlı duvar kağıdı, sıvanın içine gizlenmiş bir gaz borusu genellikle akımı yönlendirir. Kablolar, kıvılcım uzunluğundan en az %50 daha uzakta herhangi bir nesneden olmalıdır; yani 2 inçlik bir kıvılcım devresi bir duvardan en az 3 inç uzakta olmalıdır ve ne kadar uzaksa o kadar iyidir. Kabloları yalıtkanları dışındaki nesnelerden uzak tutmak için her türlü önlemin alınması gerektiği yeterince vurgulanamaz.
+
+[Resim: ŞEK. 37.]
+
+Şek. 37, kullanılan yalıtkanın özel formunu gösterir. En yüksek dereceli sırla doldurulmuş porselenden yapılır ve vida içine geçirilir
+ve alt ucu telden mümkün olduğunca uzakta tutulur.
+
+Cam tüpler, teller herhangi bir metal nesneye yaklaştığında, yani kıvılcım mesafesinde olduğunda, tellerin üzerinden geçirilmelidir.
+
+EDWARDS'IN KONDENSER SİSTEMİ.
+
+Bu sistem, kıvılcım aralıklarının seri yerine çoklu olarak bağlanması ve her brülörün küçük ama etkili bir kondansatörle donatılması bakımından öncekilerden farklıdır.
+
+[Resim: ŞEK. 38.]
+
+Brülörler arasında bir tel kopması durumunda sorun yaşanmasını önler, bu durumda sadece bir brülör devre dışı kalırken, ilk yöntemde bu serideki tüm brülörler zarar görür. Ayrıca daha güvenlidir ve kıvılcımın yere sıçraması riskini daha az taşır. Brülör sütunlarının porselen veya lavdan yapılması gerekmez; aslında elektrotlar mevcut brülöre kolayca takılabilir.
+Şekil 38, her iki tarafına yalıtım verniğiyle sabitlenmiş, küçük oval bir mika parçasından oluşan bir kondansatördür, bir spatula şeklindeki kalay folyo parçası. Bir folyo levhası hatta, diğeri brülör elektroduna tutturulur. Bu kondansatörlerin ıslanmasına izin verilmemelidir, aksi takdirde verimlilikleri düşer.
+
+[Resim: ŞEK. 39.]
+
+[Resim: ŞEK. 40.]
+
+Şekiller 39 ve 40 en genel olarak kullanılan brülörlerdir, kondansatörden gelen tel, perçinlendiği mika plaka vasıtasıyla brülörden yalıtılmış olan pabuç veya üst elektroda bağlıdır. Brülör sütunları, tabii ki gaz borusuna vidalanarak
+topraklanır. Devre, Şekil 41'de gösterilmiştir. _I_, birincil devresinde aküden gelen akımı kontrol eden anahtar _K_ olan ve _B_ kondansatörün _C C_ köprülendiği indüksiyon veya Ruhmkorff bobinidir. Bobin vibratörü
+kullanıldığında, kondansatör _C C_ atlanabilir, bunun yerine bobinin kendisi kullanılabilir. _S_, bobinin ikincil terminalinden brülör kondansatörüne _C_ giden teldir, bunlar da daha önce belirtildiği gibi brülörlerdeki elektrotlara _P P_ bağlanır. Diğer ikincil tel tercihen gaz borusunun kendisine topraklanır.
+
+[Resim: ŞEKİL 41. ]
+
+Birçok brülör bir halka halinde bir araya getirildiğinde, bunları bulaşma yoluyla yakmak genellikle mümkündür, sadece bir uç bobin devresine bağlanır, diğerleri ondan yanar ve alevi diğerlerine iletir. Bu, birden fazla devreyi veya belki de bir devrede çok fazla brülör boşluğunu önler; ancak bir brülör yanmayabilir, oysa hepsi takıldığında, arıza olasılığı daha azdır, özellikle Edwards kondansatör sisteminde.
+
+ATLAMA KIVILCIMI İÇİN ANAHTAR.
+
+İkincil bobinin akımını kontrol eden bir anahtarda, yalıtım konularına azami dikkat gösterilmesi gerektiği açıktır. Böyle bir anahtarın amacı, bir dizi devreyi kontrol etmektir; örneğin, bir devreye 20 ila 25'ten fazla brülör koymak tavsiye edilmediğinden, 100 brülörün yakılmasını gerektiren bir durum, akımı sırayla her devreye iletmek için bir yol gerektirecektir. Bu, Şekil 42'de gösterilmiştir; burada _S_, dönen bir metal kol ve kulp, _H_ ve dört temas noktası, _P_ ile donatılmış sert bir kauçuk levhadır; bu temas noktaları, brülör kondansatörleri _B_ gruplarından gelen tellerin uçlarını somunlar veya bağlama direkleri aracılığıyla alır. Bobinin sekonderinden gelen tel, devre tellerinin veya temas noktalarının yakınından geçmemesine büyük özen gösterilerek, anahtar koluna, _H_ yönlendirilir. Anahtar kolunun döndürülmesi, sekonder teli sırayla her devreye bağlar. Bir pil anahtarından farklı olarak, bunun büyük bir tabanı, uzun bir anahtar kolu, birbirinden uzakta bulunan temas noktaları ve yüksek gerilim akımının geçişini kontrol etmek için her türlü önlemin alındığı fark edilecektir. Taban her zaman kauçuk veya camdan olmalıdır. Shellack ahşap veya benzeri
+ikameler sorun yaratır.
+
+[Resim: ŞEK. 42.]
+
+Uzaktan bir dizi brülörü otomatik olarak yakmak istendiğinde, Römork (Şek. 43) kullanılır. Bu, yukarıdakine benzer bir anahtardır, ancak kol, arkada gösterilen elektromıknatıs tarafından dişli çarklar vasıtasıyla döndürülür. İkincil telleri gereksiz yere uzatmak asla istenmediğinden, bu cihaz anahtarın devrelere yakın bir yere konulmasına ve yine de uzaktan çalıştırılmasına izin verir.
+
+[Resim: ŞEK. 43.]
+
+RUHMKORFF BOBİNİ.
+
+Şekil 44, bir Ruhmkorff bobininin bir diyagramını göstermektedir, harfler şu şekildedir:
+
+_C_ demir çekirdek, _P_ birincil bobin telleri, _I_ birincil _P_ ve ikincil bobin _S_ arasındaki yalıtım tüpü. Küçük bobinlerde bundan vazgeçilebilir ve birincil bobinin üzerine kalın bir parafin mumu tabakası serilebilir. _D D_ ikincilin uçlarıdır ve bir çift bilye arasında (veya bir gaz brülörünün elektrotları arasında) kıvılcımlanmayı gösterir; _R_ bobin tabanına tutturulmuş sert bir yaydır ve akım birincil bobinden geçtiğinde ve onu mıknatısladığında demir çekirdeğe doğru çekilen yumuşak bir demir çekiç taşır,
+_C_.
+_L_ bir pildir, _J_ ise daha sonra daha ayrıntılı olarak açıklanacak bir kondansatördür. Yay _R_, _B_ noktasındaki ayar vidası _A_'ya dokunduğunda, birbirlerinden yalıtılmış oldukları için temas oluşur ve devreye yapılan referans, pil _L_'den gelen akımın birincil bobinden geçtiğini, çekirdeği mıknatısladığını ve yumuşak demir çekici _R_ üzerine çektiğini gösterecektir. Bu öne doğru eğildikçe _B_ noktasındaki teması koparır, çekirdek
+manyetizmasını
+kaybeder ve yay tekrar temas kurmak için geri uçar. Bu, saniyede birçok kez tekrarlanır.
+
+[Resim: ŞEK. 44.]
+
+Temas koptuğunda _B_ noktasında yoğun bir kıvılcım oluştuğunda, kondansatör, _J_, _M K_ noktasına bağlanır. Bu, _B_ noktasındaki kıvılcımı etkisiz hale getirme özelliğine sahip bir dizi yalıtımlı kalay folyo levhadır ve böylece hem ayar vidası _A_ hem de yay _R_ ile donatılmış platinin israfını önler.
+
+Bir Ruhmkorff bobini, basit bir birincil bobinden üç ana noktada farklıdır. Bir yerine iki ayrı bobin; yüksek yalıtım ve birkaç turdan oluşan bir birincil bobin. Basit bobinde kendi kendine indüksiyon istedik; burada, bundan mümkün olduğunca kaçınmak istiyoruz. Atlama kıvılcımı çalışması için ortalama boyuttaki Ruhmkorff bobini, 2 inçlik kıvılcım veren bir bobin olurdu, bunun özellikleri şunlardır:
+
+_Makara_--Dokuz inç uzunluğunda ve bir inç çapında. Uç yanakları 4 inç
+yüksekliğinde ve 3 inç genişliğinde.
+
+_Çekirdek_--Yeterli yumuşak demir tel, 9 inç uzunluğunda ve 22 No. B. W. ölçüsünde, makara tüpünü dolduracak kadar.
+
+_Birincil_--İki katman No. 14 B. & S. ölçüsünde pamukla kaplı bakır tel.
+
+_İkincil_--İki buçuk pound ağırlığında, 36 No. B. & S. ölçüsünde çift pamuk veya ipekle kaplı mıknatıs teli dört bölüme (veya mümkünse dörtten fazla bölüme) sarılır.
+
+_Yoğuşturucu_--Yetmiş yaprak 4 x 7-1/2 inç kalay folyo; 80 yaprak 5 x 8 inç
+yoğuşturucu kağıdı.
+
+MAKARA.
+
+Bu, 9 inç uzunluğunda ve yaklaşık 1/16 inç kalınlığında bir fiber tüpten oluşmalı ve makara uçlarına sıkıca sabitlenmelidir. Yapıştırılacaksa ayrıca pimlenmelidir; tüpten geçen birkaç vidayı makara uçlarına
+çakmak kolaydır,
+özellikle gevşek tellerden oluşan yumuşak demir çekirdek, hafifçe çıkıntılı vida başlarına uyum sağlayacaktır. Bu
+makaranın sağlam yapılması gerektiğini unutmayın; sarma işlemi sırasında ayrılırsa, çok fazla sorun çıkar ve belki de tüm teller kaybolur veya
+mahvolur. Daha sonra görülebilecek nedenlerden dolayı, sağ taraftaki
+makara ucunu henüz takmayın, ancak hazır bulundurun. Çekirdek, tüpe zorla sokulabilen, örneğin No. 22 B. W. ölçüsünde, mümkün olduğunca çok sayıda ince demir telden oluşur,
+ancak çekirdek, tüm sargılar yapıldıktan sonra daha iyi eklenebilir; yani, sert bir makaralı borunun kullanıldığı bu gibi durumlarda.
+
+BİRİNCİL SARMA.
+
+Bu, iki kat No. 14 B. & S. ölçülü pamuk (veya ipek) kaplı bakır mıknatıs telinden oluşur ve eşit ve sıkı bir şekilde yerleştirilmelidir.
+Bobinleri sarmak için, bir torna en kullanışlı makinedir veya makara bir mile monte edilebilir ve elle döndürülebilir. Burada bobin yapımının tüm ayrıntılarını vermek mümkün değildir; konuyla ilgili birçok mükemmel çalışmaya başvurulmalıdır. İki uç, daha önce açıklanan basit birincil bobin için belirtildiği gibi, makara uçlarındaki deliklerden çıkarılır. Sarma işleminden sonra, tel, doyana kadar erimiş parafin mumuyla iyice bastırılmalı, fazlalık kazınarak ikincil bobin için pürüzsüz silindirik bir yüzey bırakılmalıdır. Şimdi yarım düzine sert kağıt veya yağlı ipek sarılacak ve sargının dış tarafında en az çeyrek inçlik bir yalıtım kalacak kadar parafin mumu eklenecek. Makaranın ucu tutturulmamış olan sağ ucu, telin akmaması için biraz dikkat gerektirecektir; ancak yalnızca iki katman sarılacağı için, bunu yapmak kolaydır.
+
+Birincil bobin bittiğinde, dört inç karelik üç adet sert kauçuk parçası kesin, ortada sadece birincil bobinin üzerine kaydırılabilecek kadar büyük bir delik olacak şekilde, ikincil telin gireceği bölmeler oluşturun. Bunlar, her bölüm sarıldığında çıkarılan çıkarılabilir tahta bloklar aracılığıyla eşit mesafelerde sabitlenebilir.
+
+İKİNCİ BOBİN.
+
+İkincil bobin, birincil bobinin bölümlerinde katmanlar halinde eşit şekilde sarılmış yaklaşık 2-1/2 poundluk No. 36 B. & S. ölçü ipek veya pamukla kaplı mıknatıs telinden oluşur. Herhangi bir tel bir bölüme girmeden önce, bölümün birincil bobine sıkıca oturduğu görülmelidir. Bobinin etrafına erimiş parafin mumu dökmek en iyisi olacaktır, böylece bir yalıtım halkası oluşturacak ve kıvılcımın bölüm bölümünün altından bir sonrakine sızması
+olasılığını önleyecektir. Sarma işleminin gerçek işlemi, telin hasar görmesini
+önlemek ve mümkün olduğunca eşit katmanlar elde etmek dışında hiçbir zorluk sunmaz. Her katman, komşusundan parafinli bir kağıt şeridiyle ayrılırsa, eşit sarma daha kolay ve daha iyi yalıtım sağlar. İkincil bobinin yalıtımına gelince, bu çeşitli şekillerde yapılabilir. Bobin, doyana kadar erimiş parafine batırılabilir veya tel, tel makarasından bobine giderken erimiş parafin dolu bir tabaktan geçirilebilir. İkinci durumda, tel, parmaklarla dokunulduğunda mum hızla sertleşeceğinden, cam silindirler aracılığıyla yönlendirilmelidir. Bölümleri birbirine bağlarken, benzer uçlar birleştirilmelidir; yani, iç uçlar iç uçlara ve dış uçlar dış uçlara, şemaya göre (Şekil 45). Bu, iki dış ucu bağlama direklerine bağlanmak üzere serbest bırakacaktır. Şekil 46, iki orta bobinin sarılma ve bağlanma yönünü gösterir, _A C_ birincilin yanındaki iç katmanlar ve _B D_ dış katmanlardır.
+
+[Resim: Şekil 45.]
+
+Bobine şimdi bir dış parafin mumu tabakası verilir ve üzerine mumlu kağıttan bir sargı yerleştirilir. Daha sonra istenirse, işi bitirmek için her şeyin üzerine bir
+tabaka-kauçuk veya bir bez tabakası konulabilir.
+
+TABAN, ANAHTAR VE YOĞUŞTURUCU.
+
+[Resim: ŞEK. 46.]
+
+Ruhmkorff bobininin tabanı genellikle dikdörtgen, sığ bir
+kutuya benzer. Bobin kapağa monte edilir ve yoğuşturucu kutunun içine yerleştirilir,
+bağlantılar kapağın alt tarafına yapılır.
+Görünüm açısından hariç, tüm bağlantıların kutunun dışında yapılması
+tercih edilir, ancak bu işçinin tercihine bırakılır.
+
+[Resim: ŞEK. 47.]
+
+_Yoğuşturucu_ her biri yaklaşık 4 inç x 7-1/2 olan 70 yaprak kalay folyodan ve dönüşümlü olarak yerleştirilmiş ve parafin mumuyla doyurulmuş 5 x 8 inçlik 80 yaprak temiz beyaz kağıttan oluşur. Alüminyum folyo levhalar, her iki uçta kağıt levhalardan yaklaşık 1/2 inç dışarı çıkacak şekilde yerleştirilir, alternatif levhalar aynı uçtan çıkar ve çıkıntılı parçalar birlikte bükülür, böylece birbirinden yalıtılmış bir çift alüminyum folyo levha etkisi elde edilir ve tüm küçüklerin toplamı toplanır.
+
+[Resim: ŞEKİL 48.]
+
+Bobin artık kapaktan bobin uçlarına geçen vidalar vasıtasıyla tabana tutturulabilir. Titreşimli bir kontak kesici isteniyorsa, Şek. 44'e başvurulması bağlantı yöntemini gösterecektir. Şek. 47 benzer tasarıma sahip bir kontak kesicinin ayrıntılarını gösterir. _R_ yumuşak demirden çekiç başı, _S_ saat yayının kalınlığında ve 3/8 inç veya daha geniş bir yaydır. _B_ temas noktasıdır, hem yay hem de ayar vidası _A_ platin kontaklarla donatılmıştır. _C_ bir kontrol somunudur, _A_'nın dönmesini engellemek için. _I_, şaftında taşıdığı bir çıkıntı vasıtasıyla _S_ yayını sıkmak veya gevşetmek için bir ayardır. _A_'yı taşıyan sütundan sert kauçuk burç _I_ ile iyi bir şekilde yalıtılmıştır.
+
+Yoğuşturucu bobinin altındaki kutuya yerleştirilir ve Şekil 44'teki gibi
+bağlanır; yani bir levha seti temas sütununa, diğeri ise ayar vidasına
+bağlanır.
+
+Gaz yakma işleri için, genellikle bir vibratör yerine bir temas veya kayış anahtarı (Şekil 48) kullanmak tercih edilir. Anahtar,
+bobin tabanına monte edilebilir, bu durumda
+yoğuşturucu vibratörde olduğu gibi aynı şekilde
+bağlanır.
+
+BÖLÜM VI.
+
+GAZ YAKMASI İÇİN PİLLER NASIL SEÇİLİR.
+
+Elektrikli gaz yakmada kullanılan çeşitli pillerin tanımına girmeden önce, konuyla ilgili birkaç basit elektrik kuralını kısaca ele almak iyi olacaktır.
+
+Elektrik akımının _elektromotor kuvveti_ veya _potansiyel farkı_ _volt_ cinsinden ve _akım_ _amper_ cinsinden ifade edilir.
+
+Örneğin _su_ benzetmesini kullanacağız (Şekil 49). Aynı seviyedeki iki tank, _A_
+_B_, bir boru _C_ ile birbirine bağlanmıştır.
+
+Tank _A_'nın suyla doldurulduğunu ve boru _C_'nin açıldığını varsayalım; su, her tanktaki seviye eşit olana kadar _C_ boyunca _B_'ye akacaktır. Seviye farkı olduğu sürece, arkasındaki su nedeniyle _C_'de bir
+basınç olacaktır.
+
+Tanklar _A_ ve _B_'yi eşit olmayan şekilde elektriklendirilmiş cisimlerle ve
+boru _C_'yi bir elektrik iletkeniyle değiştirerek, suyun akışı
+elektriklendirilmiş cisimlerin iletken _C_ boyunca bir akım akışıyla kendilerini eşitleme eğilimiyle
+temsil edilir. Özetlemek gerekirse: Seviye farkı artık potansiyel farkıdır, boru boyunca
+pound basınç elektromotor kuvveti olarak ifade edilir
+_volt_ cinsinden.
+
+[Resim: ŞEKİL 49.]
+
+Boru boyunca akan su miktarı, amper cinsinden elektrik olarak ölçülür. Belirli bir
+zamanda geçen su miktarı borunun boyutu ve kendi basıncı tarafından düzenlendiği gibi, elektrik miktarı da düzenlenir. Bir elektrik iletkeni, kesit alanına ve
+yapısı olduğu malzemeye göre akım akışına direnç gösterir, bu direnç _ohm_ cinsinden ifade edilir. Voltaj ne kadar büyük ve direnç ne kadar düşükse,
+akım o kadar fazla olur. Bu yasa ve buna benzer uygulamaları şu şekilde ifade edilir:
+
+_C = E/R._
+
+_C_ amper cinsinden akım, _E_ volt cinsinden elektromotor kuvveti ve _R_ ohm cinsinden dirençtir.
+
+Böylece 50 ohm'luk bir dirence sahip bir tel, 100 voltluk bir elektromotor kuvvetiyle 2 amper geçirecektir. Diğer iki faktör bilindiğinde direnci bulmak için formül şudur:
+
+_R = E/C._
+
+Çalışmak için bir pil seçerken, gereken akıma ve akış periyoduna dikkat edilmelidir. Bir gaz aydınlatma birincil bobinini enerjilendirmek için akım büyük olmalıdır, ancak yalnızca ara sıra, pilin uzun süre boşta kalması gerekir. Bu durumda, açık devre hücreleri adı verilen sınıf tercih edilir, çünkü bunlar güçlü asitler içermez ve kullanılmadığında hiçbir şekilde bozulmaz. Bu sınıflardan Leclanche-Samson, Monarch, karbon silindir ve çoğu sözde kuru hücredir. Bir iletkendeki direnç akım akışını etkilediği gibi, bir pil hücresinde de aynı etkiyi yapar; Bir pilin
+iç direnci, boyutu, elemanların yakınlığı vb. ile belirlenir.
+Küçük çinko ve gözenekli kaplara sahip hücreler yüksek iç dirence sahiptir, büyük sac çinko ve büyük karbon yüzeylere sahip olanlar ise düşük iç dirence sahiptir. Gaz aydınlatmasında kullanılan birincil bobin
+asla bir ohm'un çok üzerinde olmadığından, düşük iç dirence sahip bir hücre seçilmelidir. Ancak brülörlere giden teller hesaba katıldığında, eklenen direnci aşmak için yeterli elektromotor kuvveti üretmek için bir dizi hücre kullanılmalıdır. Şimdi pil hücreleri çeşitli şekillerde düzenlenebilir - daha yüksek elektromotor kuvveti için seri olarak ve daha fazla akım için çoklu olarak.
+
+[Resim: ŞEK. 50.]
+
+Şek. 50 seri düzenlemeyi temsil eder; burada bir hücrenin çinkosu bir sonrakinin karbonuna bağlanır; bu elektromotor kuvvetlerini bir araya getirir ve böylece direnci aşmak için daha fazla yetenek sağlar,
+ancak aynı zamanda her hücrenin direncini de bir araya getirir. Böylece, her biri 2 volt ve yarım ohm iç dirence sahip 4 hücre, seri olarak 8 voltluk bir E. M. F. ve 2 ohm'luk bir iç dirence sahip olurdu, akım 4 amper. Şekil 51, dört hücreyi çoklu olarak gösterir, her hücrenin çinkosu ve her hücrenin karbonları bağlıdır. Burada sonuç sadece 2 volt olurdu, ancak iç direnç sadece dörtte bir olurdu, yani: bir ohm'un sekizde biri, akım 16 amper.
+
+[Resim: Şekil 51.]
+
+Bir pili bağlamak için en kolay kural, onu hat veya dış kablolamanın direncine göre düzenlemektir. Bu nedenle, bobindekinden çok daha uzun ve muhtemelen daha küçük çaplı ev kablolaması kullanmamız gerekecektir. Bu nedenle, seri düzenleme kullanılacaktır ve düşük dirençli bir pilin en az dört hücresi olacaktır.
+
+LECLANCHE.
+
+Bu pil, pozitif kutbu oluşturan granüler manganez peroksit
+ile çevrili bir karbon çubuktan ve negatif kutup için bir parça çinkodan oluşur, her iki eleman da bir sal amonyak (amonyak klorür) çözeltisine
+daldırılır. Çözeltinin _dışına_ bir tel geçirilirse ve karbon ve çinkoyu birbirine bağlarsa, bir elektrik
+akımı
+üzerinden geçer. Gerçekleşen kimyasal etki şu şekildedir: Çinko, çözeltideki klorla birleşerek serbest
+hidrojen ve amonyak açığa çıkarır. Hidrojen, manganez peroksitinin oksijeni tarafından
+etkilendiği karbonda belirir. Hücreden çok fazla akım çekilirse, yani tel veya devre çok düşük dirençliyse, peroksitin oksitleyici etkisi yeterince hızlı olmaz ve zayıf bir iletken olan bir hidrojen filmi karbonun üzerinde oluşur ve pilin direncini artırır - ayrıca "yerel etki" (aslında bir pilin bir pile karşı çıkması) olarak adlandırılan şeyi oluşturur. Bir dinlenmeden sonra hidrojen emilir, ancak bir hücre çok fazla talep gördükten sonra nadiren bozulmamış aktivitesini geri kazanır. Orijinal Leclanche pilleri, mucidin evi olan Fransa'dan ithal edildi, ancak son yıllarda Amerika Birleşik Devletleri, İngiltere ve Almanya'da üretiliyorlar. Bir galvanik hücrede dikkate alınması gereken en önemli nokta, aktif parçalarının saflığıdır. Çinkolar elde edilebilecek en kimyasal olarak saf olmalıdır; manganez peroksit en iyi kalitede ve yabancı maddelerden tamamen arındırılmış olmalı ve sal amonyak üretilebilecek en saf olanıdır. Bu şekilde inşa edilmiş bir pil ile akılsızları yakalamak için bir fiyatla satılan ortalama ucuz pil arasındaki gerçek iş farkı muazzamdır. Ve bu fark sadece işte değil, pil hareketsizken de belirtilir. Ucuz bir pildeki yerel eylem, devrede olmadığında bile pili tüketecektir, oysa iyi malzemeden yapılmış bir pil hücresi, su veya sal amonyak eklenmesinden daha fazla dikkat edilmeden aylarca iyi durumda kalacaktır. Günümüzde üretilen pillerin yıllar önce üretilenlerden daha düşük olduğu sıklıkla belirtilir, ancak bu yalnızca ucuz fiyatlı hücreler için geçerlidir; iyi bir fiyat ödenir ve iyi yapılmış bir hücrenin güvence altına alınmasına dikkat edilirse, çıktı aynı derecede tatmin edici olacaktır. [Resim: ŞEK. 52.]
+
+Bir Leclanche hücresi kurmak için aşağıdaki adımları izleyin: Cam kavanoza altı ons sal amonyak koyun; kavanozu üçte bir oranında _temiz_ suyla doldurun ve karıştırın. Gözenekli kaba koyun ve kavanozu boynuna kadar suyla doldurun, gözenekli kabın deliğine birkaç
+çay kaşığı su dökün. Hücre çalışır durumda olduğunda, gözenekli kabın
+emmesi nedeniyle çözelti seviyesinin düştüğü görülecektir. Sal amonyağın kavanozun boynundan yukarı ve hücrenin terminallerine doğru ilerlemesini önlemek için, kavanozun boynuna ve gözenekli kaba bir parafin tabakası uygulanır. Bunun yenilenmesi gerekirse, vazelin veya herhangi bir ağır gres kullanılabilir, ancak bunun elektrotlara veya tellerin bağlanacağı yerlere bulaşmamasına dikkat edilir. Hücre çalışmayı reddettiğinde, eski çözeltiyi atın, gözenekli kabı, kavanozu ve çinkoyu ılık suda yıkayın ve yeni çözeltiyle değiştirin. Yeni bir gözenekli kabın kullanılması gereken bir sınır vardır, ancak bu, hücre yukarıdaki gibi
+işlem gördükten sonra çalışmadığında yapılabilir. Leclanche hücresinin elektromotor kuvveti yaklaşık 1,45'tir ve kısa devre akımı yaklaşık bir amperdir, elbette gözenekli kabın kalınlığına ve gözenekliliğine, çinkonun boyutuna ve birkaç başka noktaya bağlıdır.
+
+SAMSON HÜCRESİ.
+
+Şekil 53, bileşik bir karbon elementinin toprak gözenekli kabı yerinden ettiği Leclanche grubundan biridir. Bu karbon, içi boş yivli bir alt parça ve bağlayıcı direği taşıyan dişli bir üst olmak üzere iki parçadan oluşur. Üretim sürecinde, üst parça kızdırılır ve sıcak parafin mumuna daldırılır, böylece parafinin karbon boyunca tamamen difüzyonu sağlanır. Bu şekilde, tuz veya çözeltinin sızması ve bunun sonucunda elektrotların aşınması ve hücrenin arızalanması önlenir. Alt kısım üst kısımdan çok daha gözeneklidir ve altta bir tıkaçla tutulan bezelye karbonu ve manganez peroksitinin bir kombinasyonu ile doldurulur. Bu fiş çıkarılabilir ve yeni bir depolarizatör eklenebilir. Üreticiler tarafından bu elemanın yenilenmesi için verilen talimatlar, fiş yumuşayana ve çıkarılabilene kadar karbonun alt ucunu bir brülör alevi üzerinde tutmak veya karbonun en alt ucunu kaynar suya daldırmaktır. Yeniden doldurduktan sonra mantar tıpa kullanılabilir.
+
+[Resim: ŞEK. 53.]
+
+No.'nun E. M. F. 2 numara 1,40 ila 1,47 volt arasındadır ve kısa devrede akım 12 ila 16 amperdir. No. 2 Special aynı E. M. F.'ye sahiptir ancak sadece 5 amperlik akıma sahiptir ve güçlü akımın değil hızlı geri kazanımın gerektiği yerlerde kullanılır. Bu hücrenin, büyük akım dağıtımı nedeniyle basit Leclanche'den çok daha fazla elektrikli gaz yakma işine uygun olduğu görülecektir.
+
+KURU HÜCRE.
+
+Piyasada kuru hücre olarak adlandırılan çok sayıda hücre vardır ve bunları kendiniz yapmak için para ödemezsiniz. Ancak bunu yapmak isteyenler için New Standard pil ününden Bay Wm. Roche tarafından sağlanan şu formül mükemmel olacaktır:
+
+Bir pint BERRAK SU.
+
+Beş ons tuz amonyak.
+
+Altı ons çinko klorür.
+
+Tuz amonyağını suda iyice eritin. Yirmi dört saat bekletin. Sonra çinko klorür ekleyin ve soğuduğunda kullanıma
+hazır olacaktır.
+
+* * * * *
+
+Çinko kabınız hazır olduğunda, yalıtım için altına biraz mum dökün; kabın içine bir parça kurutma kağıdı yerleştirin ve çinkoya sıkıca
+yaslayın, yaklaşık üç tur. Negatif eleman şu şekilde hazırlanır: Bir pound saf karbon, toz; bir pound siyah oksit
+manganez; iyice karıştırın. Sonra plastik olmadan bir arada tutmak için yukarıdaki çözeltiden yeterli miktarda ekleyin, çünkü bu sıkıştırmak için
+çok ıslak olurdu.
+
+Çinko kabın içindeki kağıdı iyice nemlendirin. Çubuğunuzu veya
+karbon plakanızı çinko kabın ortasına yerleştirin, karbon manganez elementini her tarafına
+sıkıştırırken orada tutun; karbon manganezin veya negatif elementin çinko kaba değmediğinden emin olun.
+Eğer dokunursa, hücreniz hızla tükenir. Kağıdınızı fincandayken fincandan yarım inç daha yüksekte ve solüsyonla
+ıslanmış halde tutmak iyi bir önlemdir. Tezgaha birkaç kez hızlıca vurun; bu, kağıdın alt kısmını kıvıracak ve herhangi bir iç kısa devreye karşı güvence sağlayacaktır. Hücreniz dolduğunda, tüm karbon elementlerini çinkodan temizleyin. Mühürleyin ve bağlantıları taktığınızda piliniz hazırdır.
+
+[Resim: ŞEK. 54.]
+
+YENİ STANDART KURU PİL.
+
+Bu hücrenin (Şek. 54) temel boyutları aşağıdaki gibidir:
+
+No. 2--5-7/8 x 2-7/16.
+No. 3--3-3/4 x 1-7/8.
+No. 5--6 x 2-9/16. No. 6--6 x 3.
+No. 7--7 x 3.
+
+Elektromotor kuvveti 1,5 volt, kısa devrede No. 7 boyutundaki akım 24 amperdir. 2, 5, 6 veya 7 numaralılar, basit birincil bobin veya kıvılcım bobini ile elektrikli gaz aydınlatması için en uygundur.
+
+EDISON LALANDE HÜCRESİ.
+
+Bu hücre (Şekil 55), büyük, sabit bir akım verir ve düşük
+iç dirence sahiptir, ancak elektromotor kuvveti yüksek değildir, kapalı devrede 0,7 volttan azdır. Akım çıkışı boyuta göre değişir, _S_ tipi 0,025 ohm iç dirence ve 300 amper-saat kapasiteye sahiptir. Edison Lalande hücresi, örneğin kilise veya tiyatro aydınlatmasında, pilin büyük talep gördüğü durumlarda elektrikli gaz aydınlatmasına uygulanabilir.
+
+Elementleri, bakırın siyah oksit negatif plakalarının her iki tarafına asılmış, birleşik çinkodan pozitif plakalardan oluşur. Elektrolit, kostik sodanın sulu bir çözeltisidir. Çözeltinin buharlaşmasını önlemek ve ayrıca soda kristallerinin kavanozun ağzından yukarı ve dışarı çıkmasını önlemek için çözeltinin üzerine ağır bir parafin yağı tabakası dökülür.
+
+[Resim: ŞEK. 55.]
+
+Bir Edison Lalande hücresi kurmak için, kavanozu kahverengi işarete kadar temiz suyla doldurun; teneke kutudan sodayı dökün ve karıştırın.
+İyice
+eridiğinde, çözeltinin üzerine pille birlikte gönderilen _yağın_ yarım inçlik bir tabakasını dökün. Daha sonra kapağa tutturulmuş elemanlar yerleştirilebilir ve hücre kullanıma hazır hale gelir.
+
+Çözeltiyi sıçratmamaya dikkat edin, çünkü giysileri ve cildi yakacaktır. Eğer sıçrarsa, biraz hayvansal yağ veya bitkisel yağ onu hızla sabunlaştıracaktır. Bu hücrenin eyleminde bakır oksit metalik bakıra indirgenir ve çinkolar tüketilir, her bir elementin aynı anda yenilenmesi
+gerekir. Oksit plakayı sivri uçlu bir aletle açtığınızda, plaka tamamen kırmızıysa, tükenmiştir; ancak iç kısmı siyah görünüyorsa, hala biraz daha kullanılabilir, ancak çok az oksit kaldığında yeni bir plaka kullanmak tercih edilir.
+
+Oksit plakaları asla aküden çıkarmayın ve çözeltinin oksit plakaların bir inçten daha az üzerinde olmasına izin vermeyin.
+
+FULLER VEYA BİKROMAT HÜCRESİ.
+
+Gaz aydınlatma işlerinde sıklıkla gerekli olmasa da, bazen büyük bir binanın aydınlatılması gibi büyük bir bobinin çalıştırılması gereken durumlarda yoğun bir akıma ihtiyaç duyulur. Böyle zamanlarda bir bikromat potasyum
+hücresi hizmete girer. Türlerden biri Şekil 56'da gösterilmiştir. _J_ aşağıda açıklanan elektropoion sıvısı içeren bir kavanozdur. _C_ bu sıvıya batırılmış bir karbon
+plakadır. _P_ çinkoyu tutan gözenekli bir kaptır, _Z_ ve 18 kısım sofra tuzu, 72 kısım su ve bir ons cıva çözeltisiyle doludur.
+
+[Resim: Şekil 56.]
+
+Dış kavanoz için elektropoion sıvısı, bir galon suya bir pound potasyum veya soda bikromatının taş bir kapta karıştırılmasıyla yapılır. Çözündüğünde, üç pound ticari sülfürik asidi dikkatlice, bir seferde azar azar ekleyin ve karışım ısındıkça sürekli karıştırın. Karışıma her zaman asit ekleyin; karışımı asla asidin içine dökmeye çalışmayın, aksi takdirde sorun çıkar. Sodyum tuzu, daha fazla çözünürlüğe sahip olması ve kavanozlara, elemanlara vb. zarar verecek şekilde yapışan sert bir çökelti olan _krom şapı_ oluşturmaması nedeniyle potasyumdan daha
+tercih edilir.
+
+[Resim: ŞEK. 57.]
+
+Şek. 57, Grenet pili olarak bilinen bir pil türü, gözenekli bir kap olmadığı
+yerlerde kullanılır. Çinko eleman, _Z_, bir cam kavanozun _J_ kapağından _G_ geçen bir çubuk _R_ üzerine monte edilmiştir ve kavanozun içerdiği elektropoion sıvısına yükseltilebilir veya alçaltılabilir. Bu, pilin uzun bir süre boşta kalma olasılığı olan
+yerlerde iyi bir şemadır.
+
+AÇIK DEVRE PİLLERİN BAKIMI.
+
+_Terminaller._--Çözeltilerin terminallere sıçramamasına dikkat edin; tüm terminalleri ve bağlama direği vidalarını temiz ve parlak tutun. Tüm tellerin terminallere sıkıca bağlandığından ve ayrıca uçlarının temiz olduğundan emin olun. Gevşek bir temas sonsuz
+sorun üretir. Elemanların birbirleriyle uygun ilişkide olduğundan emin olun. Çokluysa, büyük akım üretmek için - çinkolar birlikte
+ve karbonlar birlikte. Seriyse, yüksek elektromotor kuvveti için - çinko
+karbona, pil boyunca.
+
+_Çinkolar._--Çinkoların temiz olduğundan emin olun; kristaller oluşursa, ya
+su ile çözeltinin mukavemetini azaltın ya da çinkoları temizleyin ve
+tekrarlanıp tekrarlanmadığını izleyin. Teli tutan vidayı inceleyin; genellikle aşınır ve
+dişte zayıf temas sağlar.
+
+Samson hücresinin üreticileri, bir çubuk çinkoyu kristallerin birikmesinden korumak için akıllıca bir cihaz
+yapmıştır. Çinkonun üzerine kaydırılan
+ince bir kağıt tüpten oluşur. Kristaller
+hücreyi bozacak şekilde biriktiğinde, tüp kaydırılır ve yenisi
+takılır. Bu cihaz hücrenin iç direncini artırır
+ama çok az.
+
+_Gözenekli kaplar ve karbonlar._--Ilık suda yıkayın. Karbonlar ılık suda iyice ıslatılabilir ve toz
+biriktirmeyecekleri bir yerde _güneşte_ kurutulabilir. Gözenekli kaplar ılık suda iyice ıslatılmalı
+ve tozsuz havaya maruz kalan bir yerde süzülmeye bırakılmalıdır. Bağlayıcı
+direk deliklerini ve vidaları inceleyin.
+
+_Çözeltiler._--Çok güçlü yapmayın. Bir hücre Leclanche'ye altı onstan fazla veya dört onstan fazla avoirdupois kimyasal olarak saf sal amonyak kullanmayın. İstenirse çözelti yapmak için ılık su kullanılabilir. Bazı kişiler hücreye bir çay kaşığı asetik asit damlatır;
+önerilmez. Sal amonyak temin edilemeyen bir yerde geçici olarak aynı oranda sofra tuzu kullanın;
+önce pili iyice temizleyin.
+
+Piller serin ve kuru bir yerde muhafaza edilmelidir. Kuru piller dik olarak, ayrıca serin bir yerde durmalı ve ara sıra bağlantılar incelenmelidir.
+
+DİZİN. SAYFA
+Asetilen Brülörü 16
+Argand Otomatik Brülör 23
+Argand Brülörü 14
+Otomatik Brülör 19
+
+Piller, açık devre 2
+Boston Kesme 51
+Arızalar, yerini tespit etmek için 34
+Brülör, Asetilen 16
+Brülör, Argand 14
+Brülör, Argand Otomatik 23
+Brülör, Otomatik 19
+Brülör, Bartholdi 21
+Brülörler, 30'dan fazla seçenek
+Brülör, Gizli Otomatik 24
+Brülörler, Bağlantı 26
+Brülörler, 30'dan fazla dağıtım
+Brülör, Benzin 18
+Brülör, Sarkıt 7
+Brülör, Mandal 10
+Brülör, Halka 23
+Brülör, Sap 13
+Brülör, Smith 56
+Brülör, Vibratör 23
+Brülör, Welsbach 15
+
+Brülör Seçimi 30
+Saat Mekanizması Kesme 52
+Bobin, Birincil 5, 46
+Bobin, Ruhmkorff 6
+Bobin, İkincil 5
+Brülörlerin Bağlantıları 26
+Topraklama Bağlantıları 38
+Kontak Kesici 75
+Kesit, Boston 51
+Kesit, Ampul 54
+Kesit, Saat Mekanizması 52
+Kesit, Syracuse 50
+
+Brülör Tehlikesi 30
+Brülörlerdeki Arızalar 29
+Kablolama Şeması 31
+Kapı Gezintisi 43
+
+Edwards Brülörü 61
+Edwards Kondansatörü 60
+Edwards Sistemi 62
+
+Tamamlanmış evler, kablolama 38
+Armatürler, kablolama 40
+Ön Parça 31
+Fuller Akü 94
+
+Galvanometre 3
+Benzin Brülörü 18
+Gaz armatürü teli 37
+Grenet Akü 95
+Topraklama bağlantıları 38
+
+Hall, 30 için Brülörler
+
+İndüklenen Akım 3
+İndüksiyon, 3'ün Eylemi
+Yalıtkan 59
+
+Atlama Kıvılcım Sistemi 55
+
+Anahtar Kayışı 76
+
+Lalande Pil 92
+Leclanche Pil 83
+
+Çoklu, Piller 82
+
+Negatif kutup 2
+
+Açık devre piller 2
+
+Sarkıt Brülör 7, 9
+Pozitif kutup 2
+Birincil Bobinler 46
+Basmalı Düğme, kablolama 42
+
+Cırcır Brülör 10
+Halka Brülör 23, 63
+Ruhmkorff Bobini 6, 67
+
+Samson Pil 87
+İkincil Bobin 5
+Bölüm Anahtarı 33
+Seri yöntemi 57
+Seri, Piller 82
+Şellak verniği 38
+Smith Brülör 55
+Kıvılcımlar, üretmek için 1
+Makara 70
+Standart Pil 90
+Sap Brülörü 13
+Anahtar, Otomatik 66
+Anahtar, yüksek gerilim 64
+Anahtar, Bölüm 33
+Syracuse Cut-Out 50
+Sistem, Edwards' 62
+
+Römork 66
+
+Vernik Şellak 38
+Titreşimli Brülör 23
+
+Welsbach Brülörü 15
+Wimshurst Makinesi 1
+Sarma Bobini 74
+Genel kullanım için tel 36
+Tel, gaz armatürü 37
+Tel, ofis 36
+Tel, Ruhmkorff Bobini 70
+Tamamlanmış evlerin kablolanması 38
+Armatürlerin kablolanması 40
+Basmalı Düğmenin kablolanması 42
+
+* * * * *
+
+Yeni Standart Kuru Akü
+
+Tüm Ziller, Telefonlar, Hırsız Alarmları ve Gaz Aydınlatması sistemleri için tüm boyutlar. Fiyatlar boyuta ve miktara göredir.
+
+Yeni Standart "Otogaz" Kuru Akü
+
+Çok ağır işler için. Gazlı Arabalar, Işıklar, vb. No. 2 set, ağırlık 27 lbs., temiz meşe kasa, set başına 6,00 $.
+
+Yeni Standart Jump Spark Rhumkorff Bobinleri, her biri 12,00 $.
+
+Yeni Standart El Feneri.
+
+Benzinli Motorlar, Otomobiller, Tekneler, Giysi Dolapları, vb. çevresinde kullanım için her biri 2,00 $.
+
+Bu ışık kesinlikle on beş saate eşit gerçek hizmet verecektir.
+5,00 $'lık bir ürün 2,00 $.
+
+İsteyenler için tam katalog.
+
+William Roche,
+
+Mucit ve Üretici,
+
+42 Vesey St., N. Y. City
+
+Akü Malzemeleri, Kimyasallar, Vb. Satıcısı
+
+Bir Göz Atın
+Mağazamıza
+
+Elektrik hattında ne tür bir şeye ihtiyacınız olursa.
+
+Her şeyle ilgileniyoruz ve iyi bir stok bulunduruyoruz.
+
+KATALOG AÇIK
+
+Elektrikli Hafif Mallar, Ziller ve Elektrikli Ev Malları,
+Santraller, &c. Telefonlar ve Sarf Malzemeleri.
+
+J. JONES & SON,
+64 Cortlandt St., New York City.
+
+JUMP SPARK BOBİNLERİ
+
+X-Ray Bobinleri.
+
+Birincil Bobinler.
+
+Tıbbi Bobinler.
+
+Telefon Bobinleri.
+
+C. F. SPLITDORF, 17-27 Vandewater St., N. Y.
+
+AMERİKAN KİTAPLARI.
+
+= Allen, C. F.= Demiryolu Eğrileri ve Toprak İşleri. Arazi Ölçme Uzmanları ve Mühendisler için
+bir cep kitabı. Yumuşak deri, 2,00 $.
+
+= Cordeiro, Dr. F. J. B.= Yüksekliklerin Barometrik Belirlenmesi,
+Tesviye ve Hipsometri. Yumuşak deri, 1,00 $.
+
+=Goldingham, A. H.= Yağ Motorlarının Tasarımı ve İnşası, bunların Dikilmesi, Test Edilmesi, Çalıştırılması ve Onarılması için
+tam Talimatlarla.
+12 ay, bez, 2,00 $.
+
+=Kinealy, J. H.= Buhar Motorları ve Kazanlar Üzerine Temel Bir Ders Kitabı.
+Üçüncü baskı, bez 2,00 $.
+
+=Kinealy, J. H.= Binalar İçin Gerekli Isıyı Tahmin Etmede Mimarlar ve İnşaatçılar İçin Buhar Isıtma Tabloları.
+1,00 $.
+
+=Redwood, I. I.= Yağlayıcılar, Yağlar ve Gresler. Bez, 1,50 $.
+
+Fiyat Alındığında Tüm Kitapları Postayla Göndeririz.
+
+ADRES:
+
+SPON & CHAMBERLAIN,
+
+12 Cortlandt Street, New York.
+
+KÜÇÜK AKÜMÜLATÖRLER
+
+Nasıl Üretilir ve Kullanılır
+
+_Öğrenciler ve Genç Elektrikçiler İçin Pratik Bir El Kitabı_
+
+_PERCIVAL MARSHALL, A.I.M.E. TARAFINDAN DÜZENLENMİŞTİR_
+
+Bölümlerin İçerikleri
+
+I.--Akümülatör Teorisi.
+
+II.--4 Voltluk Cep Akümülatörü Nasıl Yapılır.
+
+III.--32 Amper-Saatlik Akümülatör Nasıl Yapılır.
+
+IV.--Küçük Akümülatör Türleri.
+
+V.--Akümülatörler Nasıl Şarj Edilir ve Kullanılır.
+
+VI.--Küçük Akümülatörlerin Uygulamaları, Elektriksel Yenilikler,
+vb. Faydalı Tarifler. Teknik Terimler Sözlüğü.
+
+80 sayfa, 40 resim, 12 ay, bez, 50c.
+
+MAGNETO-TELEFON
+
+YAPISI,
+Günlük Kullanıma Uygunluğu ve Uyarlanabilirliği
+
+_NORMAN HUGHES_
+
+BÖLÜMLERİN İÇERİĞİ
+
+Bazı elektriksel hususlar: I.--Giriş. II.--Yapı.
+III.--Hatlar, İç Hatlar. IV.--Sinyalizasyon Aygıtları. V.--Piller.
+Açık Devre Pilleri. Kapalı Devre Pilleri. VI.--Pratik
+İşlemler. Manyeto Çanları ve Yıldırımsavarlı Devre. Hattın
+Nasıl
+Test Edileceği. Düğmeli Manyeto Devresi. Pil
+Çanlı İki İstasyon. VII.--Pil Telefon. Pil Telefon Devresi. Bir Hat Üzerinde Üç
+Enstrüman. VIII.--Genel açıklamalar. Dizin.
+
+80 sayfa, 23 resim, 12 ay, bez, 1,00 $. Kağıt, 50c.
+
+_HERKESİN ELEKTRİK KİTABI_
+
+PRATİK ELEKTRİK
+
+GÜNLÜK ELEKTRİK KONULARINA İLİŞKİN
+EVRENSEL BİR EL KİTAP
+
+BEŞİNCİ BASKI
+
+İÇERİK:
+
+_Alarmlar._--Kapılar ve Pencereler; Sarnıçlar; Kazanlarda Düşük Su; Zaman
+Sinyalleri; Saatler. _Piller._--Yapım; Hücreler; Bikromat; Bunsen;
+Callan's; Bakır oksit; Cruikshank's; Daniel's; Granül karbon;
+Groves; İnsülit; Leclanche; Kireç Kromat; Gümüş Klorür; Smee;
+Termoelektrik. _Çanlar._--İkaz Sistemi; Çift Sistem; ve
+Telefon; Yapımı; Mıknatıs; Bobinler veya Bobinler; Titreme; Tek
+Vuruş; Sürekli Zil. _Bağlantılar._ _Karbonlar._
+_Bobinler._--İndüksiyon; Birincil; İkincil; Kontak kesiciler; Direnç.
+_Yoğunluk Bobinleri. _--Makara; Birincil; İkincil; Çekirdek; Kontak kesici;
+Yoğuşturucu; Kaide; Komütatör; Bağlantılar. _Dinamo-elektrik
+Makineleri._--Alan Mıknatısları; Kutup parçaları; Alan mıknatısı Bobinleri; Armatür
+Çekirdekler ve Bobinler; Komütatör Kollektörleri ve Fırçalar; Boyut
+verimlilik ilişkisi; Alan Mıknatıslarını uyarma yöntemleri; Manyeto-Dinamolar;
+Ayrı uyarılmış Dinamolar; Şönt Dinamoları; Alan Mıknatısları; Armatürler;
+Kollektörler; Fırça Dinamosu; Alternatif Akımlar. _Yangın Riskleri._--Kablolar;
+Lambalar; Kişiler için tehlike. _Ölçme._--Kayıt Dışı Aletler;
+Kayıt Aletleri. _Mikrofonlar._ _Motorlar._ _Fonograflar._
+_Fotofonlar._ _Depolama._ _Telefonlar._--Formlar; Devreler ve Çağrılar;
+Verici ve Anahtar; Simplex için Anahtar; vb., vb.
+
+135 SAYFA. 126 RESİM. 8VO.
+Kumaş, 75 sent
+
+_8 SENT ALINDIĞINDA HERHANGİ BİR ADRESE ÖRNEK KOPYALAR POSTALANIR._
+
+[Resim: MODEL MÜHENDİSİ AMATÖR ELEKTRİKÇİ
+
+AMATÖRLER VE ÖĞRENCİLER İÇİN BİR MEKANİK VE ELEKTRİK DERGİSİ
+
+PERCIVAL MARSHALL TARAFINDAN DÜZENLENMİŞTİR]
+
+İYİ NOKTALARI.
+
+Şimdiye kadar yayınlanmış kendi türündeki herhangi bir makaleden daha iyi.
+
+Makaleler özgün ve pratik.
+
+Makaleler o kadar açık ve basit bir şekilde yazılmış ve her şey o kadar açık ki talimatları takip etmek ve açıklanan makaleleri
+kopyalamak kolay olacak.
+
+Yatlar, torpido botları ve savaş gemileri için model motorlar ve kazanlar hakkında özel makaleler.
+
+Model yat ve teknelerin tasarımı ve yapımı.
+
+Model çalışmaları için küçük aletler yapmak.
+
+Küçük gaz motorlarının yapımı.
+
+Vida kesme ve torna tezgahlarının yapımı.
+
+Her türlü model sabit ve lokomotif buharlı motorların ve kazanların yapımı.
+
+Model mühendisleri ve çalışmaları.
+
+Her türlü elektrikli makine, cihaz, bobin, pil, telefon, mikrofon, fonograf, yeniliklerin yapımı.
+
+Makaleler tamamen resimlendirilmiştir, esas olarak ölçekli ayrıntılı çizimlerle.
+
+Yeni Kitaplar, Notlar ve Sorular, Atölye Notları ve İpuçları, Araçlar ve Malzemeler, vb.
+
+YILLIK ABONELİK, 1,50 $ POSTPAİD
+
+_Aboneliğinizi gönderin ve arkadaşlarınızın abone olmasını sağlayın. Kullanılmamış
+posta pulları kabul edilecektir (gelir değil.) Tüm
+iletişimleri şu adrese gönderin:_
+
+SPON & CHAMBERLAIN,
+
+12 Cortlandt Street, NEW YORK.
+
+ENDÜKSİYON BOBİNLERİ
+--VE--
+BOBİN YAPIMI.
+
+Yapı, İşletim ve Uygulama.
+
+H. S. NORRIE tarafından.
+
+İkinci baskı, tamamen gözden geçirilmiş ve büyük ölçüde genişletilmiş ve
+25 yeni resim içeriyor. Yeni konuların önemli bir kısmı
+Tıbbi Bobinler, Banyo Bobinleri, Gaz Motoru ve Kıvılcım Bobinleri, Kontak
+Kesicileri, Piller, X-Ray Çalışmaları, Elektrikli Gaz Aydınlatması ve
+Kablosuz Telgraf üzerine bir bölüm.
+
+BÖLÜMLERİN İÇERİĞİ.
+
+1. Bobin yapısı, tam yönler, tellerin boyutları, vb., vb. 2.
+Farklı kontak kesici formlarının yapımı. 3. Yalıtım
+malzemeleri, çimentolar, vb. 4. Çeşitli
+yoğuşturucu türlerinin yapımı. 5. Deneyler. 6. Spektrum analizi. 7. Vakumdaki
+akımlar. 8. Dönme etkileri. 9. Bobinlerin gaz
+aydınlatmaya uygulanması. 10. Bobinler için piller. 11. İkincil Piller. 12. Tesla
+ve Hertz etkileri. 13. X-ışınları ve radyografi. 14. Kablosuz
+telgraf. İçindekiler. Dizin.
+
+290 sayfa, 79 Resim. 5 x 6-1/2 inç.
+
+KUMAŞ, 1$. 00
+
+Sert Lehimleme
+Talimat Kılavuzu
+Bisiklet Kadrolarının Onarımı
+Alaşımlar Üzerine Notlar ve Yumuşak Lehimleme Üzerine Bir Bölüm
+
+_HARVEY ROWELL TARAFINDAN_
+
+Alev, lamba, kömür, paspaslar, üfleme boruları, yıkama şişesi, bağlama
+teli, kimyasallar, boraks, spelter, gümüş lehimi, altın lehimi, metallerin
+oksidasyonu, akılar, anti-oksidanlar, kasaların oksidasyonu, koni,
+oksitleyici alev, alevi indirgeme, ısı iletimi, iletim,
+metallerin kapasitesi, radyasyon, uygulama, çalışma masası, bağlantı,
+lehim uygulama, ısı uygulama, üfleme borusunun kullanımı, bağlantılar,
+ferül yapma, kaşık tamir etme, saat kasasını tamir etme, sert
+bir ocak veya ocakla lehimleme, maşayla sert lehimleme,
+ince kenarları koruma, gümüşçü turşusu, altına renk kazandırma,
+kromik asit, çelik yayları onarmak, metalleri birbirine terletmek,
+işleri yerinde tutmak, birleşim yerleri yapmak, ısı uygulamak, ısı kaybını önlemek, kükürt kurşun ve çinkonun etkisi, değerli
+taşları korumak, tavlama ve sertleştirme, yanmış demir, yumuşak lehimden sonra sert lehime. Tablolar--özgül ağırlık, dayanıklılık, eriyebilirlik,
+alaşımlar.
+
+66 sayfa, resimli, bez, 75 sent.
+
+Lehim Makbuzları, Çimentolar ve Lavtalar, Macunlar, Tutkallar ve
+benzeri için, _bkz._ ATÖLYE MAKBUZLARI.
+
+YENİ
+BASKI "DE LUXE"
+AĞIR KAĞIT ÜZERİNDE
+
+[Resim: J. H. CROMWELL TARAFINDAN KOLAY HARF YAZMA SİSTEMİ.]
+
+İYİ NOKTALARI.
+
+Öğrenmesi çok kolay.
+
+Biraz pratik yaparak iyi bir harf yazıcısı olmak için hızlı bir yöntem.
+
+İster 500 yard uzunluğunda bir çitte, ister sadece birkaç inç genişliğinde bir çizimde olsun, bir satır kelimeyi KESİN ORANLARDA yerleştirmek çok kolaydır.
+
+Düzenli harfleri tercih eden ancak sıra dışı bir şey
+olmayan çizerler için iyidir.
+
+Neredeyse sınırsız değişikliklere sahip 26 sayfa alfabe içerir.
+
+Piyasadaki en ucuzlardan biri.
+
+Bu küçük kitap, çizimlerdeki başlıklar için düz harfler (ve yine de sıradan harflerden biraz farklı) kullanmak isteyen çizerler tarafından beğenilecektir. Kitap ayrıca, harfleri oluşturmada hiç pratiği olmayan herkes için değerli ve yararlı olacaktır, çünkü harfleri oluşturmak için verilen kolay yöntem, bir kişinin harfleri doğru bir şekilde oluşturmasını ve biraz pratikle bunu hızlı bir şekilde yapmasını sağlayacaktır.--_American Machinist._
+
+Dikdörtgen, 8vo, kumaş, 50 sent
+
+Atölye Fişleri.
+
+EN EKSİKSİZ
+5 Ciltlik Teknik Ansiklopedi.
+
+=Birinci Seri.= =Temel İçerikler.=--Bronz, Çimento, Boyama,
+Elektro-metalurji, Emaye, Aşındırma, Havai Fişek, Akılar, Fülminatlar,
+Yaldızlama, Zamklar, Japonlama, Cilalar, Mermer İşleme, Nitro-Gliserin,
+Fotoğrafçılık, Seramik, Vernikler, 420 sayfa, 103 resim, bez, 2,00$.
+
+=İkinci Seri.= =Temel İçerikler.=--Asidimetri, Albümin Alkolü,
+Alkaloidler, Acılar, Ağartma, Kazan Kabuklanmaları, Temizleme,
+Şekerleme, Kopyalama, Dezenfektanlar, Esanslar, Ekstraktlar,
+Yangına dayanıklılık, Gliserin, Bağırsak, İyot, Fildişi İkameleri, Deri
+Kibritler Pigmentler, Boya, Kağıt, Parşömen. 485 sayfa, 16 resim,
+bez, 2,00 $.
+
+=Üçüncü Seri.= =Ana İçerikler.=--Alaşımlar, Alüminyum, Antimon,
+Bakır, Elektrik, Emaye, Cam, Altın, Demir, Çelik, Likörler Kurşun,
+Yağlayıcılar, Magnezyum, Manganez, Cıva, Mika, Nikel, Platin,
+Gümüş, Cüruf, Kalay, Uranyum, Çinko. 480 sayfa, 183 resim, bez, 2,00 $.
+
+=Dördüncü Seri.= =Ana İçerikler.=--Su Geçirmezlik, Paketleme,
+İstifleme, Mumyalama, Koruma, Deri Cilaları, Hava ve
+Su Soğutma, Pompalar ve Sifonlar, Kurutma, Damıtma, Emülsifiye etme,
+Buharlaştırma, Filtreleme, Süzme, Macerate etme, Elektrotipleme,
+Kalıplama, Kitap Ciltleme, Hasır Örme, Müzik Aletleri, Saat
+ve Saat Tamiri, Fotoğrafçılık 443 sayfa, 243 resim, bez. 2,00$.
+
+=Beşinci Seri.= =Ana İçerikler.=--Elmas Kesimi, Laboratuvar
+Cihazları, Filtreleme, Büyülü Fenerler Metal İşleri, Süzme,
+Aydınlatma Maddeleri, Tütün Pipo, Musluklar, Bağlama ve Birleştirme Takımları,
+Kitap Onarımı, File, Yürüyüş Bastonları, Tekne Yapımı. 440 sayfa,
+373 resim, ciltli, 2$. 00.
+
+HER SERİNİN kendine ait İçeriği
+ve Dizini vardır ve kendi içinde tamamlanmıştır.
+
+Piyasadaki En İyi ve En Ucuz
+
+CEBİR KENDİ KENDİNE ÖĞRETİLMİŞ
+
+KULLANIMI İÇİN
+Mekanik, Genç Mühendisler ve Ev Öğrencileri
+
+_W. PAGET HIGGS, M.A., D.Sc._
+
+DÖRDÜNCÜ BASKI
+
+İÇERİK
+
+Semboller ve işlem işaretleri. Denklem ve bilinmeyen
+miktar. Pozitif ve negatif miktarlar. Çarpma,
+involution, üsler, negatif üsler, kökler ve üslerin logaritma olarak
+kullanımı. Logaritmalar. Logaritma tabloları ve
+orantılı parçalar. Logaritma sistemlerinin taşınması. Ortak
+logaritmaların yaygın
+kullanımları. Bileşik çarpma ve binom
+teoremi. Bölme, kesirler ve oran. Bölme kuralları. Kesirler
+için kurallar. Devam eden oran, seri ve serinin toplamı. Örnekler. Geometrik ortalamalar. Serinin limiti. Denklemler.
+Ek. Dizin. 104 sayfa, 12 ay, bez, 60c.
+
+* * * * *
+
+_Ayrıca bakınız_ =Cebirsel İşaretler=, Spons Mühendislik Sözlüğü, No. 2.
+40 ct.
+
+_Ayrıca bakınız_ =Hesap=, Spons Sözlüğü'ne Ek, No. 5. 75 ct.
+
+KESİT KAĞIDI.
+
+ELİNİZDEKİ ÇİZİM BLOKLARI.
+
+Bir tarafına mavi mürekkeple basılmış, tüm çizgiler eşit kalınlıkta, kullanışlı tablolarla. Boyut 8 x 10 inç. Fiyatı, her biri 25c.
+12 blok başına 2,50$.
+
+ELİNİZDEKİ ÇİZİM BLOKLARI.
+
+Bu kağıttan yapılmış ancak her iki tarafına da basılmış. Kitabın boyutu 5 x 8
+inç, sert mukavva kapaklar. Fiyat, her biri 25 sent; düzine kitap başına, 2,50 dolar.
+
+SEKİZ İLE BİR İNÇ ARASI ÖLÇEK.
+
+Mavi mürekkeple basılmış, kalın inç ve yarım inç çizgilere sahip büyük bir sayfa. Sayfanın boyutu, 17 x 22 inç. Her bir sayfa (24 sayfa), 75 sent.
+
+ON İLE BİR İNÇ ARASI ÖLÇEK.
+
+17 x 22 inç, mavi mürekkeple basılmış, kalın inç ve yarım inç çizgilere sahip. Her bir sayfa (24 sayfa), 75 sent.
+
+ELEKTRİKÇİNİN ÇİZİM PANELİ.
+
+8 x 10. Ölçek 10 ila 1 inç. Fiyat her biri 25 sent. Düzine başına, 2,50 dolar.
+
+ELEKTRİKÇİNİN ÇİZİM PANELİ.
+
+Bu kağıttan yapılmıştır. Ölçek 10 ila 1 inç. Kitabın boyutu 5 x 8 inç,
+sert mukavva kapaklı. Fiyatı, her biri 25 sent; düzine başına, 2,50 dolar.
+
+Fiyat alındıktan sonra dünyanın herhangi bir yerine posta yoluyla gönderilen herhangi bir miktar.
+Veya Çeşitli Kitaplar ve Not Defterleri, düzine başına, 2,50 dolar.
+
+Bu kağıt _çizgili_ değildir. Deneyin ve göreceksiniz
+İYİ, DOĞRU VE UCUZ.
+
+SPON & CHAMBERLAIN, 12 Cortlandt St.,
+NEW YORK.
+
+Gaz Motorları Hakkında
+PRATİK EL KİTABI
+Aynı Motorların Bakımı ve Çalışması İçin Talimatlarla.
+
+_G. LIECKFELD, C.E._ TARAFINDAN
+
+Yazarın izniyle
+_GEORGE RICHMOND, M.E._ tarafından çevrilmiştir
+
+YAĞ MOTORLARI HAKKINDA BİR BÖLÜM İLE
+
+İÇERİK
+
+Bir gaz motorunun seçilmesi ve takılması. İyi gaz motorlarının
+yapımı. İşçilik, çalışma, ekonomi açısından inceleme. Gaz motorlarının güvenilirliği ve dayanıklılığı. Bir gaz motorunun uygun şekilde dikilmesi.
+Temel. Gaz boruları için düzenleme. Lastik torba. Kilitleme cihazları.
+Egzoz boruları. Hava boruları. Gaz motorlarının kurulumu. Frenler ve gaz motorlarının gücünü belirlemede
+kullanımları. Bir fren testinin düzenlenmesi.
+Bir gaz motorunda ısı dağılımı. Gaz motorlarına katılım.
+Genel açıklamalar. Gaz motoru yağı. Silindir yağlayıcıları. Bir gaz motorunu
+çalıştırma ve durdurma kuralları. Bir gaz motorunun temizlenmesi.
+Genel gözlemler ve arızalar için özel inceleme. Motor
+çalışmayı reddediyor. Motorun çalışmaması. Gazda çok fazla
+basınç. Egzoz kabında su. Motoru çalıştırmada zorluk.
+Düzensiz çalışma. Güç kaybı. Zayıf gaz karışımları. Geç ateşleme.
+Hava girişinde çatlaklar. Geri ateşleme. Motorun
+içinde vurma ve çarpma. Gaz motorlarını kullanırken tehlikeler ve önlemler.
+Gaz valflerini açarken, pistonu silindirden çıkarırken,
+gaz motorlarının hafif açıklıklarla incelenmesinde önlemler.
+Başlatma,
+temizleme, kayışları takmada tehlikeler. =Yağlı Motorlar.=Üretici gazlı
+gazlı motorlar. Benzinli ve yağ motorları. Sonuç açıklamaları.
+
+120 sayfa, resimli, 12 aylık, bez, 1,00$. İTFAİYECİ REHBERİ
+
+Kazanların Bakımına İlişkin El Kitabı
+
+_KARL P. DAHLSTROM, M.E._
+
+BÖLÜMLERİN İÇERİĞİ
+
+=I. Ateşleme ve Yakıt Ekonomisi.=--Ateş yakmadan önce ve sonra alınacak önlemler, ateşin bakımı, uygun ateşleme, hava akımı, duman,
+ateşlemenin ilerlemesi, ızgarada yakıt, temizlik, ızgara
+çubuklarını ve kül tablasını temizleme, damperler, iki veya daha fazla fırına ateşleme, kuru yakıt,
+ısı kaybı.
+
+=II. Besleme ve Su Hattı.=--Besleme, su hattı, sahte su hattı,
+arızalı besleme aparatı, kireç oluşumu, gösterge muslukları, cam
+ölçer, şamandıra, emniyet tapası, alarm düdüğü.
+
+=III. Düşük Su ve Köpürme veya Astarlama.=--Su düşük olduğunda alınacak önlemler,
+köpürme, astarlama.
+
+=IV. Buhar Basıncı.=--Buhar göstergesi, emniyet valfleri.
+
+=V. Temizleme ve Üfleme.=--Kazanın temizlenmesi, kazanın durumunun incelenmesi, üfleme, kazanı yeniden doldurma.
+
+=VI. Genel Talimatlar.=--Kazaların önlenmesi, onarımlar, kazan kullanılmadığında bakımı, kazanların test edilmesi, dışarıda düzeltme ve temizlik. Kuralların özeti. Dizin.
+
+8vo, bez, 50 sent.
+
+NASIL ÇALIŞTIRILIR
+Motorlar ve Kazanlar
+
+Genç Mühendisler ve
+Buhar Kullanıcıları İçin Pratik Talimat.
+
+_EGBERT POMEROY WATSON TARAFINDAN_
+
+GÖZDEN GEÇİRİLMİŞ VE GENİŞLETİLMİŞ
+
+İçindekiler Özeti
+
+Kazan temizliği, kireç temizleme, kireç önleyiciler, kazanlardaki yağ,
+destekler ve destekler, çamur tamburları ve besleme boruları, kazan bağlantı parçaları, ızgara
+çubukları ve tüpleri, köprü duvarları, sürgülü valf, motorun kısılması,
+piston, sürgülü valfin portlara göre test edilmesi, sürgülü valfin
+kusurları, tur ve uç, sürgülü valf üzerindeki basınç, valfe
+gövde bağlantıları, valflerin yuvalarından çıkması, valf gövdesi kılavuzları,
+regülatörler, güneşle çalışma, eksantrikler ve bağlantılar, krank
+pim, pirinç kutular, pimler üzerindeki yataklar, yatakların ayarlanması, valf
+ve dişli, eksantriklerin ayarlanması, gerçek çalışma, dönüş krank
+hareketi, vurma, bağlantılar, motorların sıralanması, eklemlerin yapılması,
+yoğuşmalı motorlar, Torricelli'nin vakumu, atmosferik
+basıncın kanıtı, pompalar, bir vakum, atmosfer tarafından bir su sütununun desteklenmesi, yeni bir tesisin başlatılması, talep edilen en yüksek kaliteler.
+
+Su borulu kazanlar, ateş borulu kazanlar, neden su borulu kazanlar buhar
+hızlı, torpido botu kazanları, su borulu kazanların yönetimi,
+su borulu kazanların ekonomisi ve bakımı.
+
+150 sayfa, resimli, 16 ay, bez, 1,00 $.
+
+CORLISS MOTORU.
+
+JOHN T. HENTHORN TARAFINDAN.
+
+--VE--
+
+CORLISS MOTORUNUN YÖNETİMİ.
+
+CHARLES D. THURBER TARAFINDAN.
+
+_Tek Ciltte Üniforma. Bez Kapak; Fiyat, 1,00 $._
+
+İçindekiler.
+
+BÖLÜM I.--Giriş ve Tarihsel; Buhar Ceketleme. BÖLÜM II.--Gösterge Kartları. BÖLÜM III.--Gösterge Kartları devam ediyor; Vali. BÖLÜM IV.--Valf Dişlisi ve Eksantrik; Valf Ayarı.
+BÖLÜM V.--Valf Ayarı devam etti, aynısının diyagramlarıyla; Buhar Valfinin
+turları için Tablo. BÖLÜM VI.--Valf Ayarı devam etti. BÖLÜM
+VII.--Aynısının diyagramlarıyla yağlama. BÖLÜM VIII.--Hava Pompası ve Yönetiminin
+Tartışılması. BÖLÜM IX.--Ana Tahrik
+Dişlilerinin Bakımı; aynısı için en iyi Yağlayıcı. BÖLÜM X.--Değirmenlerin Egzoz Buharıyla
+Isıtılması. BÖLÜM XI.--Motor Temelleri; aynısı için
+diyagramlar ve şablonlar. BÖLÜM XII.--Temeller devam etti; aynısı için Malzemeler,
+vb.
+
+Üçüncü Baskı, Ekli.
+
+SÜRGÜLÜ VALF BASİTÇE AÇIKLANDI
+
+W. J. TENNANT, ASSO. M.I.M.E. TARAFINDAN
+
+GÖZDEN GEÇİRİLMİŞ VE ÇOK GENİŞLETİLMİŞ
+
+J. H. KINEALY, D.E. TARAFINDAN
+
+BÖLÜMLERİN İÇERİĞİ:
+
+I. Basit Kaydırma.
+
+II. Eksantrik ve Krank. Nicel Sonuçlar Vermek İçin Özel
+Model.
+
+III. Eksantrik İlerlemesi.
+
+IV. Ölü Nokta. Krankların Sırası. Yastıklama ve Öncü.
+
+V. Genleşme--İç ve Dış Kucak ve Öncü; Öncü; Bundan Etkilenen
+
+Sıkıştırma.
+
+VI. Çift Portlu ve Pistonlu Vanalar.
+
+VII. Vana ve Eksantrikteki Değişikliklerin Etkisi.
+
+VIII. Bağlantı Hareketleri Hakkında Not.
+
+IX. Çok Erken Kesme ve Genel Olarak Geri Vitesler Hakkında Not. _88 Sayfa._ _41 Resim._ _12 ay, Kumaş, 1,00 $._
+
+HIZLI VE KOLAY
+HESAPLAMA YÖNTEMLERİ
+
+HESAPLAMA
+HESAPLAMA HESAPLAMA, LOGARİTM, VB. TEORİSİNİN VE KULLANIMININ BASİT BİR AÇIKLAMASI
+
+_Çok sayıda örnekle birlikte._
+
+R. G. BLAINE, M.E. TARAFINDAN
+
+Mühendis için son derece güvenilir, pratik ve değerli bir çalışma.
+
+_144 Sayfa._ _Resimli._ _12 ay, Kumaş, 1,00 $_
+
+TEORİK VE PRATİK
+Amonyak Soğutma
+
+_Buz ve Soğutma Makinelerinin Yönetiminde Çalışan Mühendisler ve Diğerleri İçin Bir Referans
+Çalışması._
+
+ILTYD I. REDWOOD
+
+İÇERİK
+
+B. T. U. Bir Isı Biriminin Mekanik Eşdeğeri. Özgül Isı.
+Gizli Isı. Soğutma Teorisi. Basınçlı Hava ile Dondurma.
+Amonyak. Amonyağın Özellikleri. Kompresör. Doldurma Kutuları.
+Yağlama. Emiş ve Tahliye Vanaları. Ayırıcı. Kondenser-Solucan,
+Alıcı. Buzdolabı veya Tuzlu Su Tankı. Boru Boyutu ve Soğutma
+Yüzey Alanı. Tesisin Amonyak ile
+Doldurulması. Ceket Suyu, Kompresör, Ayırıcı için. Gerekli Yoğuşma Suyu Miktarı.
+Yoğuşmuş Amonyağın Isınmasından Kaynaklanan Kayıp. Aşırı
+Basınçtaki Değişimin Nedeni. Sızıntı Yoluyla Amonyak Kaybını Belirlemede Yoğuşma Basıncının Kullanımı. Amonyakla Doğrudan Soğutma. Tuzlu Suyun Donma Noktası. Tuzlu Suyun Yapımı. Tuzlu Suyun Özgül Isısı. Tuzlu Su Sıcaklığının Düzenlenmesi.
+Yoğuşma Suyunun Tuzlu Su Sıcaklığına Dolaylı Etkisi. Soğutma Verimliliğini Belirleme
+Talimatları. Bir Ton Buzun Eşdeğeri.
+Kompresör Dolaşımdaki Amonyağın Ölçümü. Kuyu Ceketli Kompresörlerin Kaybı. Çift Etkili Kompresörlerde Kayıp. Cıva Kuyularının Dağılımı. Çalışan Parçaların İncelenmesi. Gösterge Diyagramları.
+Amonyak Rakamları--Etkili Yer Değiştirme. Gaz Hacmi. Yirmi Dört Saatte Dolaşımdaki Amonyak. Soğutma Verimliliği. Tuzlu Su
+Rakamlar--Dönüşümlü Galonlar. Dolaşımlı Poundlar. Soğutulmuş Dereceler. Toplam
+Çıkarılmış Dereceler. Amonyak Gazının Isınmasından Kaynaklanan Kayıp. Sıvı Amonyağın
+Isınmasından Kaynaklanan Kayıp. Bir Makinenin Maksimum Kapasitesinin
+Hesaplanması. Susuz Amonyağın Hazırlanması. Aparat Yapımı,
+vb., vb.
+
+150 sayfa, 15 resim, bez, 1,00$.
+
+SPONS' 2,50$
+MEKANİĞİN KENDİ KİTABI,
+PRATİK BİR EL KİTABI.
+
+ANA İÇERİK.
+
+Mekanik Çizim. (13 sayfa).
+
+Döküm ve Döküm. (31 sayfa).
+
+Dövme ve Bitirme. (56 sayfa).
+
+Lehimleme. (26 sayfa).
+
+Sac Metal İşleme. (10 sayfa).
+
+Marangozluk, Ahşaplar, Aletler, vb. (224 sayfa).
+
+Dolap Yapımı. (36 sayfa).
+
+Oyma ve Fretwork. (13 sayfa).
+
+Döşeme. (6 sayfa).
+
+Boyama, Damarlama ve Mermerleme. (28 sayfa).
+
+Boyama ve Yaldızlama. (16 sayfa).
+
+Cilalama, Vernikleme. (26 sayfa).
+
+Mekanik Hareketler. (56 sayfa).
+
+Torna ve Torna işleri. (30 sayfa).
+
+Duvarcılık, Taş işçiliği, Tuğla işçiliği, Beton, vb. (45 sayfa).
+
+Sıvama, Badanalama, Kağıt asma. (13 sayfa)
+
+Çatı, Camlama. (14 sayfa).
+
+Çan asma, Gaz tesisatı. (8 sayfa).
+
+Aydınlatma, Havalandırma, Isınma. (21 sayfa).
+
+Temeller, Yollar ve Köprüler, Kıyılar, Çitler, Hendekler ve
+Drenajlar, Su Temini ve Sıhhi Tesisat. Ev İnşaatı, vb.
+Kitabın boyutu 6-3/4 inç x 8-3/4.
+
+702 sayfa, yarı ekstra yaldızlı ve 1420 resim.
+
+Norman H. Schneider'in Gutenberg Projesi'nin Elektrikli Gaz Aydınlatması'nın Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ELECTRIC GAS LIGHTING ***
+
+***** This file should be named 42073.txt or 42073.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/2/0/7/42073/
+
+Produced by Chris Curnow, Matthew Wheaton and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
