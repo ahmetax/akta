@@ -1,0 +1,794 @@
+*** START OF AKTAHEADER ***
+Başlık: Five of Maxwell's Papers
+Yazar: James Clerk Maxwell
+Yayın Tarihi: January, 2004
+Dil: English
+Link: https://www.gutenberg.org/ebooks/4908
+Çeviri: Python-deep_translator-GoogleTranslator
+*** END OF AKTAHEADER ***
+Project Gutenberg's Five of Maxwell's Papers, by James Clerk Maxwell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Five of Maxwell's Papers
+
+Author: James Clerk Maxwell
+
+Posting Date: February 25, 2014 [EBook #4908]
+
+Release Date: January, 2004
+
+[This file was first posted on March 24, 2002]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FIVE OF MAXWELL'S PAPERS ***
+
+*** START OF TURKISH PART ***
+Gordon Keener tarafından üretilmiştir
+
+Bu e-Kitap, James Clerk Maxwell'in 5 makalesini veya konuşmasını içerir.
+
+İçerikler şunlardır:
+
+Foramen Centrale
+Bileşik Renkler Teorisi
+Poinsot Teorisi
+Matematiksel
+Giriş Dersine Hitap
+
+Foramen Centrale'nin Farklı Renklerdeki Işığa Eşit Olmayan Duyarlılığı Üzerine.
+
+James Clerk Maxwell
+
+[_British Association_ Raporundan, 1856.]
+
+Basit bir prizmadan uzun bir dikey yarığa bakarak oluşan spektrumu gözlemlediğimde, mavi renkte yukarı ve aşağı uzanan ve gözün spektrumda yukarı ve aşağı hareketini takip eden, ancak maviden diğer renklere geçmeyi reddeden uzunlamasına koyu bir nokta fark ettim. Noktanın hem göze hem de spektrumun mavi kısmına ait olduğu açıktı. Vardığım sonuç, görünümün retinadaki sarı noktadan kaynaklandığıdır, buna genellikle Soemmering'in _Foramen Centrale_'si denir. Noktayı gözlemlemenin en uygun yöntemi, göze çok hızlı olmayan bir şekilde mavi ve sarı gözlükler sunmak veya daha da iyisi, mavi ve sarı kağıtların gözün önünde yavaşça dönmesine izin vermektir. Bu şekilde nokta mavi renkte görülür. Hızla kaybolur, ancak mavinin etkisini hafifletmek için sarı her geldiğinde yenilenir. Bu cihazla birlikte bir Nicol prizması kullanarak, Haidinger'in fırçaları noktayla bağlantılı olarak iyi bir şekilde görülür ve fırçaların polarize ışıkla analiz edilen nokta olduğu gerçeği belirginleşir. Önünde hareket eden bir dizi parlak çubuğun arkasındaki bir nesneye sabit bir şekilde bakarsak, sarı noktanın olduğu yere yaklaştıkça çubukların ilginç bir şekilde büküldüğünü görürüz. Noktanın üzerinden geçen kısım, çubuğun geri kalanından önce başlıyor gibi görünüyor ve bu, sarı noktadaki duyumun, çevreleyen retinadakinden daha hızlı olduğunu gösteriyor gibi görünüyor. Ancak deneyi zor buluyorum ve daha doğru gözlemcilerden daha iyi sonuçlar almayı umuyorum.
+
+Mavi ve Sarı Işık Karışımlarına İlişkin Bileşik Renkler Teorisi Üzerine.
+
+James Clerk Maxwell
+
+[_British Association_ Raporundan, 1856.]
+
+Mavi ve sarı boyayı karıştırdığımızda yeşil boya elde ederiz.
+Bu gerçek, renklerle uğraşan herkes tarafından iyi bilinir; ve
+evrensel olarak kabul edilir ki mavi ve sarı yeşili oluşturur. Kırmızı, sarı ve mavi, ressamlar arasında birincil renkler olduğundan, yeşil, mavi ve sarının karışımından kaynaklanan ikincil bir renk olarak kabul edilir. Ancak Newton, spektrumun yeşilinin spektrumun iki renginin karışımıyla aynı şey olmadığını, çünkü böyle bir karışımın prizmayla ayrılabileceğini, spektrumun yeşilinin ise daha fazla ayrışmaya direndiğini buldu. Ancak yine de sarı ve mavinin yeşili oluşturacağına inanılıyordu, ancak spektrumun yeşili değil. Bildiğim kadarıyla, konuyla ilgili ilk deney, 1819'dan önce prusya mavisi ve gamboçyanın alternatif sektörlerinden oluşan bir disk yapan ve döndürüldüğünde ortaya çıkan renk tonunun yeşil değil, nötr bir gri olduğunu, bazen sarıya veya maviye, ancak asla yeşile dönmediğini gözlemleyen M. Plateau'nun deneyidir. Edinburgh'lu Prof. J. D. Forbes, 1849'da benzer deneyler yaptı ve aynı sonucu elde etti. Görünür renk üzerine en kapsamlı araştırmayı borçlu olduğumuz Konigsberg'li Prof. Helmholtz, bu fenomenin gerçek açıklamasını yapmıştır. İki renkli tozu karıştırmanın sonucu, her birinden ayrı ayrı akan ışık huzmelerini karıştırmakla hiçbir şekilde aynı değildir. İkinci durumda, bir tozdan veya diğerinden gelen tüm ışığı alırız. İlkinde, bir tozdan gelen ışığın çoğu diğerinin parçacıklarına düşer ve yalnızca birinin veya diğerinin emiliminden kaçan kısmı alırız. Böylece mavi ve sarı toz karışımından gelen ışık, kısmen doğrudan mavi parçacıklardan veya sarı parçacıklardan gelen ışıktan ve kısmen de hem mavi hem de sarı parçacıklar tarafından etkilenen ışıktan oluşur. Bu son ışık yeşildir, çünkü mavi kırmızıyı, sarıyı ve turuncuyu durdurur ve sarı mavi ve moru durdurur. Mavi ve sarı ışığın karışımı üzerinde deneyler yaptım - hızlı dönüşle, birleşik yansıma ve iletimle, odak dışında, şeritler halinde, çok uzak bir mesafeden bakarak, spektrumun renklerini bir ekrana atarak ve bunları doğrudan göze alarak; ve herhangi birinin bu veya spektrumun renklerinin herhangi bir karışımının sonucunu görebileceği taşınabilir bir cihaz ayarladım. Tüm bu durumlarda mavi ve sarı yeşil yapmaz. Ayrıca renkli tozların karışımı üzerinde deneyler yaptım. Başlıca kullandıklarım "mineral mavisi" (bakırdan) ve "krom sarısı"ydı. Diğer mavi ve sarı pigmentler ilginç sonuçlar verdi, ancak karışımları yapmak daha zordu ve
+yeşiller renk tonunda daha az düzgündü. Bu renklerin karışımları
+ağırlık bazında yapıldı ve
+daha sonra _Transactions of the Royal Society of Edinburgh_, Cilt XXI. Kısım 2'deki "Gözle Algılanan Renk Üzerine" adlı makalemde açıklanan şekilde işlenen kağıt disklerine boyandı. Rengin görünür etkisi
+standart renkli kağıtlar açısından tahmin edilir:--kırmızı (V),
+ultramarin (U) ve zümrüt yeşili (E). Sonuçların doğruluğu ve önemi, daha önce bahsedilen
+kağıda bakılarak en iyi şekilde anlaşılabilir. Mineral mavisini B ile ve
+krom sarısını Y ile göstereceğim; ve B3 Y5 üç kısım mavi ve beş kısım sarının karışımı anlamına gelir.
+
+Verilen Renk. Standart Renkler.
+V. U. E. parlaklık katsayısı.
+
+B8 , 100 = 2 36 7............. 45 B7 Y1, 100 = 1 18 17............. 37 B6 Y2, 100 = 4 11 34............. 49 B5 Y3, 100 = 9 5 40............. 54 B4 Y4, 100 = 15 1 40............. 56 B3 Y5, 100 = 22 - 2 44.............. 64 B2 Y6, 100 = 35 -10 51.............. 76 B1 Y7, 100 = 64 -19 64.............. 109 Y8, 100 = 180 -27 124.............. 277
+
+V, U, E sütunları, verilen rengin 100'üne eşdeğer olan standart renklerin oranlarını verir; ve V, U, E'nin toplamı, parlaklık hakkında genel bir fikir veren bir katsayı verir. Sarının ilk karışımının mavinin parlaklığını _azalttığı_ görülecektir. U'nun negatif değerleri, V, U ve E'nin bir karışımının verilen renge eşdeğer hale getirilemeyeceğini gösterir.
+Bu sonuçların alındığı deneylerde negatif
+değerler denklemin diğer tarafına aktarılmıştır. Hepsi renk tepesi aracılığıyla yapılmıştır ve farklı zamanlarda tekrarlanarak doğrulanmıştır. Sonuç olarak, görünür renkleri üç keyfi standart renk açısından kaydetme moduna atıfta bulunarak, renk duyumunda üç temel unsur teorisine göre ilerlediğini belirtmek gerekebilir; bu teori, görünür renk yasalarının araştırılmasını, fiziksel optikte ortaya konduğu gibi, ışığın yasalarından çıkarılamayan insan fizyolojisinin bir dalı olarak ele alır. Görmenin kendisini incelemek için optik yöntemlerinden yararlanır; ve çekiciliği fiziksel ilkelere değil, kendi duyumlarımızın bilincine yöneliktir.
+
+Poinsot'nun Dönme Teorisini Örnekleyen Bir Araç Üzerine.
+
+James Clerk Maxwell
+
+[_British Association Raporundan_, 1856. ]
+
+Poinsot'nun yöntemine göre katı bir cismin dönüşünü incelerken, hem uzayda sabit yönlere hem de hareket eden cisimde varsayılan eksenlere göre anlık dönüş ekseninin ardışık konumlarını dikkate almalıyız. Bu eksenin kutbunun _değişmez düzlem_ ve _merkezi elipsoid_ üzerinde çizdiği yollar, matematiksel incelemenin ilginç konularını oluşturur.
+Ancak dönen bir cismin hareketini gözlerimizle takip etmeye çalıştığımızda, anlık eksenin herhangi bir anda cismin hangi noktasından geçtiğini belirlemekte zorluk çekeriz ve yolunu belirlemek daha da zor olmalıdır. Anlık eksenin yolunu görünür kılmaya ve hareket koşullarını, Bay Elliot'un presesyonu* göstermek için kullandığı türden bir tepe vasıtasıyla değiştirmeye çalıştım. Enstrümanın gövdesi, 7 inç çapında ve 1 inç kalınlığında bir halkadan yükselen içi boş bir ahşap konidir. 8 inç uzunluğunda bir demir eksen, koninin tepe noktasına vidalanır. Alt uçta, bir akik kupada duran ve enstrümanın desteğini oluşturan sert çelikten bir nokta bulunur. Üç ons ağırlığında bir demir somun, eksene vidalanmak ve herhangi bir noktaya sabitlenmek üzere yapılır; ahşap halkaya yatay olarak çalışan üç onsluk dört cıvata ve dikey olarak çalışan bir onsluk dört cıvata vidalanır. Eksenin üst kısmına, üzerine dört eşmerkezli halka çizilmiş bir karton disk yerleştirilir. Her halka, kırmızı, sarı, yeşil ve mavi renkli dört kadrana bölünür. Halkalar arasındaki boşluklar beyazdır. Üst kısım hareket halindeyken, anlık eksenin herhangi bir anda hangi kadranda olduğunu ve onunla aletin ekseni arasındaki mesafeyi görmek kolaydır; ve şunu gözlemleriz: 1. Anlık eksenin kapalı bir eğride hareket ettiğini ve gövdedeki orijinal
+pozisyonuna geri döndüğünü. 2. Dikey cıvataları çalıştırarak aletin eksenini bu kapalı eğrinin merkezi haline getirebileceğimizi. O zaman bu, başlıca eylemsizlik eksenlerinden biri olacaktır. 3. Somunu eksen üzerinde çalıştırarak renklerin sırasını kırmızı, sarı, yeşil, mavi veya tersi yapabiliriz. Renklerin
+sıralaması dönüşle aynı yönde olduğunda, aletin ekseninin en büyük eylemsizlik
+momentine sahip olduğunu gösterir. 4. İki zıt yatay cıvata çiftini eksenden farklı mesafelere vidalarsak, anlık kutup yolu artık eksenden eşit uzaklıkta olmayacak, ancak daha uzun ekseni aletin ortalama ekseni yönünde olan bir elips tanımlayacaktır. 5. Şimdi iki yatay eksenden birini daha küçük, diğerini dikey eksenden daha büyük yaparsak, anlık kutup aletin ekseninden ayrılacak ve eksen, eğiklik nedeniyle dönme artık devam edemeyecek duruma gelene kadar giderek daha fazla eğilecektir. Hareket yasalarına dikkat ederek, yukarıdaki etkilerden herhangi birini istediğimiz gibi üretebileceğimizi ve aynı alet aracılığıyla birçok farklı önermeyi gösterebileceğimizi görmek kolaydır. 
+
+* _Kraliyet İskoç Sanat Derneği İşlemleri_, 1855. 
+
+İngiliz Derneği'nin Matematik ve Fizik Bölümlerine Hitap. 
+
+James Clerk Maxwell
+
+[_British Association Report_, Cilt XL'den]
+
+[Liverpool, _15 Eylül_ 1870.]
+
+British Association'ın son toplantılarından birkaçında Matematik ve Fizik Bölümü'nün çeşitli ve önemli işleri bir Konuşma ile tanıtıldı, bu konuşmanın konusu şimdilik
+Başkan'ın seçimine bırakıldı. Ancak,
+bir konu seçmenin kafa karıştırıcı görevi bana düşmedi. Exeter Toplantısı'nda A Bölümünün Başkanı olan Profesör Sylvester, sanki matematiksel zihnin işleyişini açığa vurarak ve matematikçinin cephaneliğini oluşturan semboller ve parantezler dizisini veya sadece fetihlerinin anıtları olan kuru sonuçları değil, tüm insan yeteneklerini mesleki zekasıyla, tüm bilginin kökü, tüm hazzın kaynağı ve tüm eylemlerin koşulu olduğunu hissettiği o ideal uyumun peşinde koşmaya, kavramaya ve sergilemeye yönlendiren matematikçinin kendisini önümüze koyarak, saf matematiğin asil bir savunmasını yaptı. Matematikçi, her şeyden önce, simetriye karşı bir göze sahiptir; ve Profesör Sylvester sadece kendi konusunun eski Başkanlarınkiyle birleşmesiyle oluşan simetriyi fark etmekle kalmamış, aynı zamanda halefinin görevlerini şu karakteristik notta belirtmiştir:--
+
+"Bay Spottiswoode, açılış konuşmasında Bölümü, Matematik ve Fizik'in ilerlemesinin birleşik bir tarihiyle destekledi; Dr. Tyndall'ın konuşması neredeyse Fizik Felsefesinin sınırlarıyla ilgiliydi; burada basılı olan," diyor Prof. Sylvester, "Matematik Biliminin doğasının soyut olarak belirsiz bir şekilde gölgelenmesine yönelik bir girişimdir.
+İdeal Piramidi inşa etmek için (temas halindeki üç başka kürenin üzerinde duran dördüncü bir küre gibi) eksik olan şey, iki dalın (Matematik ve Fizik) birbirleriyle olan ilişkisi, birbirlerine olan etkileri ve tepkileri üzerine muhteşem bir tema olan bir söylevdir; bununla birlikte, Bölüm A'nın gelecekteki bir Başkanının yapıyı taçlandırması ve Tetraloji (_A+A'_, _A_, _A'_,
+_AA'_ ile sembolize edilebilir) tamamlandı."
+
+Merhum Başkanımız tarafından halefi için açıkça ortaya konulan tema gerçekten de muhteşem, benim herhangi bir çabamla gerçekleştirilemeyecek kadar muhteşem. Bay Spottiswoode'u takip etmeye çalıştım, çünkü o, bilgimizin hala belirsiz bir aşamada olduğu fenomenlerin
+büyüdüğü bilim sistemlerini geniş kapsamlı bir vizyonla ayırt ediyor. Dr. Tyndall'ın
+derinlemesine
+içgörüsü ve güçlü ifadesiyle, moleküllerin varoluşlarının yasalarına uyduğu, şiddetli bir çarpışmada çarpıştığı veya daha da şiddetli bir kucaklaşmayla boğuştuğu, gizlice görünür şeylerin biçimlerini oluşturduğu o küçüklük ve güç sığınağına sürüklendim. Prof. Sylvester tarafından o dingin
+yüksekliklere doğru yönlendirildim
+
+"Bulutların asla sürünmediği, rüzgarın hareket etmediği,
+En ufak bir beyaz kar yıldızının bile düşmediği,
+En düşük gök gürültüsünün bile inlediği,
+İnsan kederinin sesinin kutsal sonsuz dinginliklerini bozmadığı."
+
+Ama beni, Düşüncenin Gerçekle evlendiği,
+Matematikçinin zihinsel işleyişinin ve
+Moleküllerin fiziksel eyleminin gerçek ilişkileriyle görüldüğü
+daha da gizli ve daha karanlık bölgeye kim götürecek? Oraya giden yol, eski kaşiflerin kalıntılarıyla dolu,
+ve her bilim adamının nefret ettiği
+metafizikçinin ininden geçmiyor mu?
+Bölümün değerli zamanını, bildiğimiz gibi, kendilerini anlaşılır bir şekilde
+biçimlendirmek için bile binlerce yıl gerektiren
+o spekülasyonlara
+sizi götürerek harcamam gerçekten de aptalca bir macera olurdu.
+
+Ama bizler matematik ve fizik yetiştiricileri olarak karşılanıyoruz. Günlük
+çalışmalarımızda metafiziğinkilerle aynı türden sorulara yönlendiriliyoruz; ve onlara kendi zihnimizin doğal nüfuz edici gücüne güvenerek değil, düşünce biçimlerimizin dışsal doğanın gerçeklerine uzun süreli
+uyarlanmasıyla eğitilerek yaklaşıyoruz.
+
+Matematikçiler olarak, sayı veya nicelik sembolleri üzerinde belirli zihinsel işlemler gerçekleştiriyoruz ve daha basit işlemlerden daha karmaşık işlemlere adım adım ilerleyerek aynı şeyi birçok farklı biçimde ifade edebiliyoruz. Bu farklı formların eşdeğerliği, kendiliğinden açık aksiyomların zorunlu bir sonucu olmasına rağmen, zihnimiz için her zaman kendiliğinden açık değildir; ancak uzun süreli pratikle bu formların çoğuyla tanışıklık kazanmış ve birinden diğerine giden süreçlerde uzmanlaşmış bir matematikçi, genellikle kafa karıştırıcı bir ifadeyi, anlamını daha anlaşılır bir dille açıklayan başka bir ifadeye dönüştürebilir. Fizik öğrencileri olarak, çeşitli koşullar altında fenomenleri gözlemleriz ve bunların ilişkilerinin yasalarını çıkarmaya çalışırız. Her doğal fenomen, zihnimiz için, sonsuz derecede karmaşık bir koşullar sisteminin sonucudur. Kendimize koyduğumuz şey, bu koşulları çözmek ve fenomeni kendi içinde kısmi ve kusurlu bir şekilde görerek, özelliklerini tek tek parçalara ayırmak, ilk önce dikkatimizi çekenle başlamak ve böylece giderek daha fazla açıklık ve belirginlik elde etmek için tüm fenomene nasıl bakılacağını öğrenmektir. Bu süreçte, eğitimsiz bir araştırmacıya en güçlü şekilde sunulan özellik, deneyimli bir bilim adamı tarafından en temel olarak kabul edilen şey olmayabilir; çünkü herhangi bir fiziksel araştırmanın başarısı, birincil öneme sahip olarak gözlemlenecek şeyin akıllıca seçilmesine ve zihnin, ne kadar çekici görünürlerse görünsünler, bilimde henüz kârlı bir şekilde araştırmak için yeterince ilerlemediğimiz özelliklerden gönüllü olarak soyutlanmasına bağlıdır. Bu tür entelektüel süreçler, dilin ilk oluşumundan beri devam etmektedir ve hala devam etmektedir. Hiç şüphe yok ki, herhangi bir olguda bizi ilk ve en güçlü şekilde etkileyen özellik, ona eşlik eden haz veya acı ve onu izleyen hoş veya nahoş sonuçlardır. Bu bakış açısından bir doğa teorisi, birçok kelime ve ifademizde somutlaşmıştır ve kasıtlı görüşlerimizde bile kesinlikle yok olmamıştır.
+
+İnsanların, şeylerin doğasını anlamak için, bir şeyin iyi mi kötü mü, zararlı mı yoksa yararlı mı olduğunu değil, ne tür olduğunu ve ne kadar olduğunu sorarak başlamaları gerektiğine ikna olmaları bilimde büyük bir adımdı. Nitelik ve Nicelik, o zamanlar ilk olarak bilimsel araştırmada gözlemlenecek birincil özellikler olarak kabul edildi.
+
+Bilim geliştikçe, nicelik alanı her yerde nitelik alanına tecavüz etti, ta ki bilimsel araştırma süreci, elde edilen sayıların matematiksel bir tartışmasıyla birleştirilmiş, niceliklerin ölçümü ve kaydı haline gelene kadar. Dikkatimizi nicelikler olarak kabul edilebilecek fenomenlerin özelliklerine yöneltmemizin bilimsel yöntemi, fiziksel araştırmayı matematiksel akıl yürütmenin etkisi altına sokar. Bölümde bu yöntemin bilimin en son fetihlerine başarılı bir şekilde uygulanmasının bol miktarda örneğine sahip olacağız; ancak şu anda dikkatinizi, bazen değişimin erişiminin ötesinde olduğu düşünülen temel kavramlar üzerindeki bilimsel ilerlemenin karşılıklı etkilerinden bazılarına çekmek istiyorum.
+
+Matematikçinin becerisi, deneycinin ölçtüğü niceliklerin gerekli ilişkilerle bağlantılı olduğunu görmesini sağladıysa, fiziğin keşifleri, matematikçiye kendisinin asla hayal edemeyeceği yeni nicelik biçimleri göstermiştir.
+
+Matematikçinin çalışmalarını doğa öğrencisi için en yararlı hale getirebileceği yöntemlerden, şu anda en önemli olanının niceliklerin sistematik olarak sınıflandırılmasıdır.
+
+Matematik ve fizikte incelediğimiz nicelikler iki farklı şekilde sınıflandırılabilir.
+
+Herhangi bir bilimde ustalaşmak isteyen öğrenci, o bilime ait çeşitli nicelik türlerine aşina olmalıdır. Bu nicelikler arasındaki tüm ilişkileri anladığında, bunları bağlantılı bir sistem oluşturuyormuş gibi görür ve tüm nicelikler sistemini o belirli bilime ait olarak sınıflandırır. Bu sınıflandırma fiziksel bir bakış açısından en doğal olanıdır ve genellikle zaman sıralamasında ilktir. Ancak öğrenci birkaç farklı bilimle tanıştığında, bir bilimdeki matematiksel süreçlerin ve akıl yürütme dizilerinin diğerindekilere o kadar benzediğini görür ki, bir bilim hakkındaki bilgisi diğerinin incelenmesinde en yararlı yardımcı olabilir. Bunun nedenini incelediğinde, iki bilimde de nicelik sistemleriyle uğraştığını görür; bu sistemlerde niceliklerin ilişkilerinin matematiksel biçimleri her iki sistemde de aynıdır, ancak niceliklerin fiziksel doğası tamamen farklı olabilir. Böylece niceliklerin yeni bir ilkeye göre sınıflandırılmasını tanımaya yönlendirilir; buna göre niceliğin fiziksel doğası matematiksel biçimine tabi tutulur. Bu, matematikçinin karakteristik bakış açısıdır; ancak zaman sıralamasında fiziksel görünümden sonra gelir, çünkü insan zihni farklı nicelik türlerini kavrayabilmek için bunların doğası gereği kendisine sunulması gerekir.
+
+Burada, tüm niceliklerin, oldukları gibi, aritmetik ve cebir kurallarına tabi olduğu ve bu nedenle, birçok zihin için tek matematik fikrini temsil eden kuru hesaplamalara tabi tutulabileceği gerçeğine değinmiyorum.
+
+İnsan zihni, bir hesaplama makinesinin işini yaparken nadiren tatmin olur ve kesinlikle en yüksek işlevlerini asla yerine getirmez. İster matematikçi ister fiziksel araştırmacı olsun, bilim adamının amacı, uğraştığı şeyler hakkında net fikirler edinmek ve geliştirmektir. Bu amaçla, uzun hesaplamalara girmeye ve bir süreliğine bir hesap makinesi olmaya isteklidir, eğer sonunda fikirlerini daha net hale getirebilirse.
+
+Fakat net fikirlerin, sonuca ulaşmadan önce adımlarını unutacağından emin olduğu süreçlerle elde edilemeyeceğini
+görürse, başka bir yönteme yönelmesi ve konuyu daha aşina olduğu konulardan türetilen iyi seçilmiş örneklerle anlamaya çalışması çok daha iyidir.
+
+Hepimiz, açıklamanın açıklayıcı yönteminin, yalın akıl yürütme ve hesaplama süreçlerinin söylemin temel konusunu oluşturduğu yöntemden ne kadar daha popüler olduğunu biliyoruz.
+
+Şimdi gerçekten bilimsel bir örnekleme, zihnin bir bilim dalındaki bir kavramı veya yasayı kavramasını sağlayan bir yöntemdir, bunun için zihnin önüne farklı bir bilim dalındaki bir kavramı veya yasayı koyar ve zihni, iki bilimdeki karşılık gelen fikirlere ortak olan matematiksel formu kavramaya yönlendirir, gerçek fenomenlerin fiziksel doğası arasındaki farkı şimdilik hesaba katmaz. Böyle bir örneklemenin doğruluğu, karşılaştırılan iki fikir sisteminin gerçekten form olarak benzer olup olmadığına veya başka bir deyişle, karşılık gelen fiziksel niceliklerin gerçekten aynı matematiksel sınıfa ait olup olmadığına bağlıdır. Bu koşul yerine getirildiğinde, örnekleme yalnızca bilimi hoş ve kolay bir şekilde öğretmek için uygun olmakla kalmaz, aynı zamanda iki fikir sistemi arasındaki biçimsel benzetmenin tanınması, her ikisine ilişkin, her sistemi ayrı ayrı inceleyerek elde edilebilecekten daha derin bir bilgiye yol açar. Herhangi bir ilişki veya yasa, ne kadar karmaşık olursa olsun, sembolik bir biçimde önlerine konulduğunda, bunun tam anlamını soyut nicelikler arasındaki bir ilişki olarak kavrayabilen insanlar vardır. Bu tür insanlar bazen doğada bu ilişkiyi tamamlayan niceliklerin gerçekten var olduğu yönündeki daha ileri ifadeye kayıtsız kalırlar. Somut gerçekliğin zihinsel imgesi, onların tefekkürlerine yardımcı olmaktan çok onları rahatsız ediyor gibi görünür. Ancak insanlığın büyük çoğunluğu, uzun bir eğitim almadan, saf matematikçinin somutlaştırılmamış sembollerini zihinlerinde tutmaktan tamamen acizdir; bu nedenle, bilimin popüler hale gelmesi ve yine de bilimsel kalması için, gördüğümüz gibi, her gerçek bilimsel örneğin kökeninde yatan niceliklerin matematiksel sınıflandırmasının ilkelerinin derinlemesine incelenmesi ve bolca uygulanması gerekir. Daha önce de söylediğim gibi, sembollerle göze sunulan ve yalnızca matematikçilerin kavrayabileceği bir biçimde zihne sunulan saf nicelikleri memnuniyetle düşünmeye devam edebilen bazı zihinler vardır.
+
+Kağıda çizdikleri veya önlerindeki boşluğa inşa ettikleri geometrik biçimleri takip etmekten daha fazla keyif alanlar vardır.
+
+Diğerleri ise, tüm fiziksel enerjilerini canlandırdıkları sahneye yansıtamadıkları sürece tatmin olmazlar. Gezegenlerin uzayda ne kadar hızlı koştuğunu öğrenirler ve
+hoş bir coşku
+hissi yaşarlar. Gök cisimlerinin birbirlerini
+çektiği kuvvetleri hesaplarlar ve kendi
+kaslarının çabayla gerildiğini hissederler.
+
+Bu tür insanlar için momentum, enerji, kütle bilimsel araştırmanın sonuçlarının
+sadece soyut ifadeleri değildir.
+Çocukluk anıları gibi ruhlarını harekete geçiren güç sözcükleridir.
+
+Bu farklı tipteki kişiler için, bilimsel gerçek
+farklı biçimlerde sunulmalı ve ister fiziksel bir çizimin sağlam biçimi ve canlı renklendirmesiyle, ister sembolik bir ifadenin zayıflığı ve solukluğuyla
+görünsün, eşit derecede bilimsel olarak kabul edilmelidir.
+
+Niceliklerin sınıflandırılmasının bilimsel değerini örneklerle açıklamaya çalışsaydım zamanım yetmezdi. Sadece Hamilton'un vektörler olarak adlandırdığı ve matematiğin bir dalı olan ve Kuaterniyonlar Hesabı'nın konusunu oluşturan, uzayda yönü olan önemli büyüklükler sınıfının adını anacağım. Bu dal, örnekleyici tipteki kişiler tarafından iyice anlaşıldığında ve onlar tarafından fiziksel imgelerle giydirildiğinde, belki de yeni bir ad altında, hesaplayıcı ruhtan yoksun kişilere gerçek bilimsel bilgiyi iletmenin en güçlü yöntemi haline gelecektir. İnsan düşüncesinin farklı bölümleri arasındaki karşılıklı etki ve tepki, bilimsel ilerlemenin öğrencisi için o kadar ilginçtir ki, Bölümün değerli zamanını daha da fazla tüketme riskine rağmen, çok uzun zaman önce metafiziğin bir dalı olarak kabul edilecek olan bir fizik dalı hakkında birkaç söz söyleyeceğim. Atom teorisini veya şimdi adlandırıldığı şekliyle, cisimlerin yapısının moleküler teorisini kastediyorum. Birkaç yıl önce, fizik biliminin hangi alanlarında keşif ilerlemesinin en az belirgin olduğu sorulsaydı, bir yandan umutsuzca uzak sabit yıldızlara, diğer yandan da maddi cisimlerin dokusunun anlaşılmaz inceliğine işaret ederdik. Gerçekten de, Comte'u zamanının bilimsel görüşünü herhangi bir ölçüde temsil ediyor olarak kabul edeceksek, kendi güneş sistemimizin ötesinde olanlara dair araştırma, tamamen yanıltıcı olmasa bile, son derece ümitsiz görünüyordu. Gördüğümüz ve dokunduğumuz, harekete geçirebildiğimiz veya hareketsiz bırakabildiğimiz, parçalara ayırıp yok edebildiğimiz cisimlerin, göremediğimiz veya dokunamadığımız, sürekli hareket halinde olan ve ne durdurulabilen ne de parçalara ayrılabilen, ne de hiçbir şekilde yok edilebilen veya en ufak özelliklerinden yoksun bırakılabilen daha küçük cisimlerden oluştuğu görüşü, Atom teorisi adıyla biliniyordu. Demokritos, Epikuros ve Lucretius'un isimleriyle ilişkilendirildi ve
+genellikle yalnızca atomların ve boşluğun varlığını kabul ettiği,
+evrendeki diğer şeylerin herhangi bir temelini dışladığı varsayılıyordu. Birçok fiziksel akıl yürütme ve matematiksel hesaplamada, hava, su veya metal gibi duyularımıza tekdüze ve sürekli görünen maddelerin kesinlikle ve matematiksel olarak tekdüze ve sürekli olduğunu iddia etmeye alışkınız. Bir pint suyu milyonlarca parçaya bölebileceğimizi biliyoruz ve her biri tüm pint kadar suyun tüm özelliklerine sahip; ve suyun sonsuza kadar bölünmesine devam edebileceğimiz sonucuna varmak çok doğal görünüyor, tıpkı içinde bulunduğu alanı bölmede asla bir sınıra ulaşamayacağımız gibi. Faraday'ın bir altın tanesini nasıl akıl almaz sayıda ayrı parçacığa böldüğünü duyduk ve Dr. Tyndall'ın sadece bir nitrit veya bütil şüphesinden muazzam bir bulut ürettiğini görebiliriz, bunun görünürdeki en küçük kısmı hala buluttur ve bu nedenle birçok nitrit veya bütil molekülü içermelidir. Ancak farklı ve bağımsız kaynaklardan gelen kanıtlar artık üzerimize 
+toplanıyor ve bu da bizi, eğer bölünme sürecini daha da ileri götürebilseydik bir sınıra varacağımızı kabul etmeye zorluyor, çünkü o zaman her
+kısım sadece bir molekül, tek ve bölünemez, doğadaki hiçbir güç tarafından değiştirilemez bir bireysel gövde içerecekti.
+
+Çok ince bölünmüş madde üzerindeki sıradan deneylerimizde bile, maddenin büyük bir kütle halindeyken sergilediği özellikleri kaybetmeye başladığını ve moleküllerin bireysel
+etkilerine bağlı etkilerin belirginleşmeye başladığını görüyoruz.
+
+Bu fenomenlerin incelenmesi şu anda moleküler bilimin
+gelişimine yol açan yoldur.
+
+Kılcal çekim olarak adlandırılan sıvıların yüzeysel gerilimi bu fenomenlerden biridir. Bir diğer önemli fenomen sınıfı, bir sıvının veya gazın moleküllerinin sürekli olarak bir yerden diğerine doğru ilerlediği ve insanların bir kalabalığın içinde koşturması gibi sürekli olarak yollarını değiştirdiği çalkalanma hareketinden kaynaklananlardır.
+
+Gazların ve sıvıların birbirlerine yayılma hızı buna bağlıdır, ki bu, moleküler bilimin anahtarlarından biri olan, doğanın sırlarını yorulmak bilmez bir şekilde araştıran merhum Prof. Graham'ın bu kadar zorlu bir emek harcadığı bir konudur.
+
+Elektrolitik iletim hızı, Wiedemann'ın teorisine göre, aynı nedenden etkilenir; ve sıvılardaki ısı iletimi muhtemelen aynı tür eyleme bağlıdır.
+Gazlar söz konusu olduğunda, Clausius ve diğerleri tarafından matematiksel olarak işlenebilen ve deneysel araştırmaya tabi tutulan bir moleküler teori
+geliştirilmiştir; ve bu teoriyle gazların bilinen hemen hemen her mekanik
+özelliği dinamik ilkelerle açıklanmıştır; böylece
+bireysel gaz moleküllerinin özellikleri bilimsel araştırmanın nesnesi haline gelmek için adil bir yoldur.
+
+Şimdi Bay Stoney, gazlar üzerindeki deneylerin sayısal sonuçlarının, parçacıklarının ortalama mesafesinin, sıradan sıcaklık ve basınçta, bir milimetrenin milyonda biri kadar büyüklük mertebesinde bir miktar olduğunu olası kıldığını belirtti[1] ve Sir William Thomson, o zamandan beri[2], metallerin temasla elektriklenmesi, sabun köpüklerinin gerilimi ve havanın sürtünmesi gibi kendi içlerinde çok farklı olgulardan elde edilen birkaç bağımsız argüman hattıyla, sıradan katılarda ve sıvılarda bitişik moleküller arasındaki ortalama mesafenin yüz milyonda birinden az ve iki bin milyonda bir santimetreden fazla olduğunu gösterdi.
+
+[1] _Phil. Mag._, Ağustos 1868.
+[2] _Nature_, 31 Mart 1870. Bunlar elbette son derece kaba tahminlerdir, çünkü bazıları hala itiraf edildiği gibi çok kaba olan ölçümlerden türetilmiştir; ancak şu anda bu tür sonuçlara ulaşmak için kaba bir plan bile oluşturabilirsek, deneysel araştırma araçlarımız daha doğru ve daha çeşitli hale geldikçe, bir molekül hakkındaki anlayışımızın daha kesin hale geleceğini ve böylece çok uzak olmayan bir zamanda ağırlığını daha büyük bir kesinlikle tahmin edebileceğimizi umabiliriz. Sir W. Thomson'ın Helmholtz'un muhteşem hidrodinamik teoremlerine dayandırdığı bir teori, düzgün, sürtünmesiz, sıkıştırılamaz bir sıvının halka girdaplarındaki moleküllerin özelliklerini arar. Bu tür dönen halkalar, deneyimli bir sigara tiryakisi durgun havaya ustaca bir duman püskürttüğünde görülebilir, ancak daha geçici bir fenomeni kavramak zordur. Bu geçicilik havanın viskozitesinden kaynaklanır; ancak Helmholtz, mükemmel bir
+sıvıda, böyle dönen bir halkanın, bir kez üretildiğinde, sonsuza dek dönmeye devam edeceğini, her zaman ilk olarak dönen sıvının aynı kısmından oluşacağını ve hiçbir zaman
+doğal bir nedenle ikiye bölünemeyeceğini göstermiştir. Bir halka girdabının üretilmesi elbette eşit derecede
+doğal nedenlerin gücünün ötesindedir, ancak bir kez üretildiğinde, bireysellik, nicelikte kalıcılık ve
+yok edilemezlik özelliklerine sahiptir. Ayrıca, madde hakkında söyleyebileceğimiz tek şey olan dürtü ve enerjinin alıcısıdır; ve bu halka girdapları, o kadar çeşitli bağlantılar ve düğümlü kendi kendine kıvrımlar yapabilir ki,
+farklı düğümlü girdapların özellikleri, farklı türdeki moleküllerinki kadar farklı olmalıdır.
+
+Bu tür bir teori, konunun muazzam matematiksel zorluklarının üstesinden geldikten sonra, moleküllerin gerçek özelliklerini herhangi bir
+derecede temsil edecek şekilde bulunursa, molekülü gözlemlenen fenomenleri açıklamak için özel olarak icat edilmiş keyfi bir merkezi kuvvetler sistemiyle donatarak oluşturulan moleküler eylem teorilerinden çok
+farklı bir bilimsel konumda duracaktır.
+
+Girdap teorisinde keyfi hiçbir şeyimiz, merkezi kuvvetlerimiz veya başka hiçbir türden gizli özelliğimiz yoktur. Sadece madde ve
+hareketimiz vardır ve girdap bir kez başlatıldığında, özellikleri
+başlangıçtaki ivmeden belirlenir ve başka hiçbir varsayım mümkün değildir.
+
+Teorinin şu anki gelişmemiş durumunda bile, mükemmel bir akışkandaki bir halka girdabının bireyselliği ve yok edilemezliği üzerine düşünmek, bir molekülün kalıcı olması için çok sert bir cisim olması gerektiği şeklindeki yaygın olarak kabul görmüş görüşü
+bozmaktan geri kalamaz.
+
+Aslında bir molekülün yerine getirmesi gereken ilk koşullardan biri, görünüşe göre, tek bir sert gövde olmasıyla tutarsızdır. Bilimin farklı dallarına çok fazla ışık tutan spektroskopik araştırmalardan biliyoruz ki, bir molekül, çevresindeki ortama belirli kırılabilirlikte ışık -yani belirli dalga boyunda ve belirli titreşim periyodunda ışık- verdiği bir iç titreşim durumuna getirilebilir. Deneylerimiz için elde edebileceğimiz tüm moleküllerin (örneğin hidrojenin) ısıyla veya elektrik kıvılcımının geçişiyle çalkalandığında, tam olarak aynı periyodik sürede titreşmesi veya daha doğru bir ifadeyle, titreşimlerinin her zaman aynı periyotlara sahip basit titreşimlerden oluşan bir sistemden oluşması çok dikkat çekici bir gerçektir. Gök cisimlerinin kimyasının insan araştırmasının kapsamına girdiği o muhteşem spektroskopik keşifler dizisinin ilerleyişini anlatmayı başkalarına bırakmalıyım. Dikkatinizi, yalnızca karasal hidrojenin her molekülünün aynı serbest titreşim periyotları sistemine sahip olduğu gerçeğine çekmek istiyorum, aynı zamanda güneş ve yıldızların ışığının spektroskopik incelemesi, ancak zayıf bir şekilde hayal edebildiğimiz mesafelerde, karasal hidrojenin molekülleriyle aynı uyum içinde titreşen moleküllerin olduğunu gösteriyor. İki akort çatalı, veya güneş zamanına ayarlanmış iki saat.
+
+Şimdi, evrenin her yerinde meydana gelen niceliklerin büyüklüğündeki bu mutlak eşitlik, dikkate değerdir.
+
+Bireysel doğal cisimlerin boyutları, gezegenler, taşlar, ağaçlar vb. gibi oldukça belirsizdir veya tohumlar, yumurtalar vb. gibi orta sınırlar içinde değişir; ancak bu durumlarda bile, cismin temel özelliklerine müdahale etmeyen küçük niceliksel farklılıklarla karşılaşılır.
+
+Geometrik formda bu kadar belirgin olan kristaller bile, mutlak boyutları açısından değişkendir.
+
+İnsanın eserleri arasında bazen belirli bir derecede
+tekdüzelik
+buluruz.
+
+Aynı kalıpta dökülen farklı mermiler ve aynı tipten basılan bir kitabın farklı kopyaları arasında bir tekdüzelik vardır.
+
+Uygar bir ülkenin madeni paralarını veya ağırlık ve ölçülerini incelersek, devletin yaptığı ve sağladığı standartlara dikkatlice
+uyarlanarak üretilen bir tekdüzelik
+buluruz. Bu ulusal standartların tekdüzelik derecesi, onları düzenlemek için yasalar çıkaran ve onları test etmek için memurlar
+atayan ulustaki o adalet ruhunun bir ölçüsüdür.
+
+Bu konu, bilimsel bir kuruluş olarak bizim sıcak bir ilgi duyduğumuz bir konudur; ve hepiniz, ticari ve bilimsel amaçlar için ağırlık ve ölçüler sağlamak için harcanan ve karlı bir şekilde harcanan muazzam miktardaki bilimsel çalışmanın farkındasınız.
+
+Dünya, kalıcı bir uzunluk standardının temeli olarak ölçülmüştür ve metallerin her özelliği, yapıldığında malzeme standartlarında herhangi bir değişikliğe karşı korunmak için araştırılmıştır. Herhangi bir şeyi modern doğrulukla tartmak veya ölçmek, neredeyse her fizik ve matematiğin gerekli olduğu bir dizi deney ve hesaplama gerektirir.
+
+Yine de, sonuçta, dünyamızın boyutları ve dönüş süresi,
+şimdiki karşılaştırma araçlarımıza göre oldukça kalıcı olsa da,
+herhangi bir fiziksel zorunluluk nedeniyle öyle değildir. Dünya soğuyarak büzülebilir veya üzerine düşen bir meteor tabakasıyla
+genişleyebilir veya dönüş hızı yavaşça düşebilir ve yine de eskisi kadar bir gezegen olmaya devam eder.
+
+Ancak, diyelim ki bir hidrojen molekülü, kütlesi veya titreşim süresi en ufak bir şekilde değiştirilse bile, artık bir hidrojen
+molekülü olmaz.
+
+Öyleyse, kesinlikle kalıcı olacak uzunluk, zaman ve kütle standartları elde etmek istiyorsak, bunları gezegenimizin boyutlarında, hareketinde veya kütlesinde değil, dalga boyunda, titreşim periyodunda ve bu yok edilemez, değiştirilemez ve tamamen benzer moleküllerin mutlak kütlesinde aramalıyız. Burada ve yıldızlı göklerde, tam olarak aynı kütleye sahip, şu kadar ve daha fazla olmayan, taneciklerine kadar sayısız küçük cisimler olduğunu ve tam olarak aynı zamanda, şu kadar ve bir saniyede daha fazla olmayan şekilde titreştiğini gördüğümüzde ve doğadaki hiçbir gücün artık bunlardan herhangi birinin kütlesini veya periyodunu en ufak şekilde değiştiremeyeceğini düşündüğümüzde, doğal bilginin yolunda, "görünen şeyin görünen şeylerden yapılmadığını" anladığımız inancın rehberliğini kabul etmemiz gereken noktalardan birine ilerlemiş gibi görünüyoruz. Moleküler bilimin ilerlemesinin en dikkat çekici sonuçlarından biri, geri döndürülemez süreçlerin doğasına ışık tutmasıdır; yani, her zaman belirli bir sınırlayıcı duruma doğru eğilim gösteren ve asla bu sınırlayıcı durumdan uzaklaşmayan süreçler. Böylece, iki gaz aynı kaba konulursa, karışırlar ve karışım sürekli olarak daha tekdüze olma eğilimindedir. Aynı gazın eşit olmayan şekilde ısıtılmış iki kısmı kaba konulursa, buna benzer bir şey olur ve
+bütün aynı sıcaklıkta olma eğilimindedir. Eşit olmayan şekilde ısıtılmış iki katı cisim temas ettirilirse, her ikisinin de ara bir sıcaklığa sürekli olarak yaklaşması gerçekleşir.
+
+İki gaz durumunda, kimyasal yollarla bir ayırma yapılabilir; ancak diğer iki durumda, önceki durum herhangi bir doğal süreçle geri döndürülemez.
+
+Isının iletimi veya yayılması durumunda, süreç yalnızca geri döndürülemez olmakla kalmaz, aynı zamanda tüm termal enerji stokunun mekanik işe dönüştürülebilen kısmının geri döndürülemez şekilde azalmasını da içerir.
+
+Bu, Thomson'ın enerjinin geri döndürülemez dağılımı teorisidir ve Clausius'un Entropi dediği şeyin büyümesiyle ilgili doktrinine eşdeğerdir. Bu sürecin geri döndürülemez karakteri, Fourier'in ısı iletimi teorisinde çarpıcı bir şekilde somutlaştırılmıştır. Burada formüller, zamanın tüm pozitif değerleri için, sürekli olarak tekdüze bir ısı yayılımı biçimine eğilim gösteren olası bir çözümü gösterir. Ancak, zaman akışında, sembolüne sürekli azalan değerler vererek yükselmeye çalışırsak, formülün kritik değere sahip olduğu bir duruma getiriliriz; ve bir an önce şeylerin durumunu araştırırsak, formülün saçma hale geldiğini görürüz. Böylece, bir önceki durumun fiziksel sonucu olarak kavranamayacak bir durum kavramına varıyoruz ve bu kritik durumun aslında geçmiş bir sonsuzluğun en derinlerinde değil, şimdiki zamandan sonlu bir aralıkla ayrılmış bir çağda var olduğunu görüyoruz.
+
+Bu başlangıç ​​fikri, yakın zamanlardaki fiziksel araştırmaların bize, eski zamanlardaki bilimsel düşüncenin seyrini
+gözlemleyen herhangi birinin beklemesi için bir nedeni olduğundan daha fazla getirdiği bir fikirdir.
+
+Ancak insan zihni, Fourier'in ısıtılmış bedeni gibi, sürekli olarak sessiz bir tekdüzeliğin nihai durumuna yerleşmiyor, karakterini şimdiden tahmin edebiliyoruz; daha çok bir ağaç gibidir, tırmandıkları gökyüzünün yeni yönlerine uyum sağlayan dallar ve içine daldıkları dünyanın garip katmanları arasında bükülen kökler çıkarır. Sadece kendi çağımızın ruhunu
+soluklayan ve sadece çağdaş düşüncenin özelliklerini
+bilen bizler için, geleceğin biliminin genel tonunu tahmin etmek, onun yapacağı özel keşifleri
+öngörmek kadar imkansızdır.
+
+Fiziksel araştırma, bize sürekli olarak doğal süreçlerin yeni özelliklerini
+ortaya çıkarıyor ve bu nedenle bu özelliklere uygun yeni düşünce biçimleri
+aramaya zorlanıyoruz. Bu nedenle, bir fizik bölümünden türetilen fikirlerin yeni bir bölümde kullanılacak fikirlerin oluşturulmasında
+güvenli bir şekilde
+kullanılabileceği koşulları belirleyen matematik ve fizik arasındaki ilişkilerin dikkatli bir şekilde
+incelenmesinin önemi ortaya çıkıyor.
+
+Bildiğimiz bir bilimin dilini ve fikirlerini daha az
+bildiğimiz bir bilime aktardığımız söz sanatı veya düşünce biçimine Bilimsel Metafor denebilir.
+
+Bu nedenle Hız, Momentum, Kuvvet, vb. sözcükleri Temel Dinamiklerde belirli kesin anlamlar kazanmıştır. Bunlar ayrıca Bağlantılı Bir Sistemin Dinamikleri'nde, temel anlama mükemmel şekilde benzemekle birlikte daha geniş ve daha genel bir anlamda kullanılır.
+
+Bu temel fikirlerin genelleştirilmiş biçimleri, her soyut terimin metaforik olduğu anlamında metaforik terimler olarak adlandırılabilir. Gerçekten bilimsel bir metafor sisteminin özelliği, metaforik kullanımında her terimin, orijinal kullanımında sahip olduğu sistemin diğer terimleriyle tüm biçimsel ilişkilerini korumasıdır. Yöntem o zaman gerçekten bilimseldir - yani, yalnızca bilimin meşru bir ürünü değil, aynı zamanda kendi başına bilim üretme yeteneğine de sahiptir.
+
+Yine, dinamik fenomenleri birbirine bağlayanlarla aynı biçimdeki ilişkilerle birbirine bağlanan belirli elektriksel fenomenler vardır. Bunlara dinamik ifadelerini uygun ayrımlar ve geçici çekincelerle uygulamak daha cesur bir tür metafora örnektir; ancak dinamik konusunda daha önce eğitim almış olanlara elektriksel ilişkiler hakkında gerçek bir fikir iletiyorsa meşru bir metafordur.
+
+O zaman, temel bir bilime ait belirli fikirleri, bunları metaforik olarak yeni bir fenomen sınıfına uygulayarak başarıyla tanıttığımızı varsayalım. Eski fikirlerin yeni konuya uygulanabilirliğinin, yeni fenomenlerin fiziksel olarak eskisine benzer olduğunun kanıtı olarak ne ölçüde alınabileceğini belirlemek önemli bir felsefi soru haline gelir.
+
+Bu sorunun belirlenmesi için en iyi örnekler, aynı şey için iki farklı açıklamanın verildiği durumlardır.
+
+Bu türün en ünlü örneği, ışığın parçacık ve dalga teorileridir. Belirli bir noktaya kadar ışık fenomenleri her ikisi tarafından da eşit derecede iyi açıklanır; bu noktadan sonra, bunlardan biri başarısız olur.
+
+Bu teorilerin, eşit derecede uygulanabilir göründükleri alandaki gerçek ilişkilerini anlamak için, Hamilton'un her brakistokron problemine farklı hızlar ve zamanlar içeren ancak aynı geometrik yolla sonuçlanan serbest hareket problemi olduğunu keşfetmesiyle üzerlerine düşürdüğü ışık altında bakmalıyız. Profesör Tait bu konu hakkında çok ilginç bir
+makale yazmıştır.
+
+Almanya'da büyük ilerleme kaydeden bir elektrik teorisine göre, iki elektrik parçacığı birbirlerine doğrudan bir mesafeden etki eder, ancak Weber'e göre, göreli hızlarına bağlı bir kuvvetle ve Gauss tarafından ima edilen ve Riemann, Lorenz ve Neumann tarafından geliştirilen bir teoriye göre, anında değil, mesafeye bağlı bir süre sonra etki eder. Bu seçkin adamların elindeki bu teorinin her türlü elektrik olayını açıkladığı güç, takdir edilebilmesi için incelenmelidir.
+
+Benim tercih ettiğim bir başka elektrik teorisi, uzaktan etkiyi reddeder ve elektrik etkisini, her yeri kaplayan bir ortamdaki gerilimlere ve basınçlara bağlar, bu gerilimler mühendislerin aşina olduğu gerilimlerle aynıdır ve ortam, ışığın yayıldığı varsayılan ortamla aynıdır.
+
+Her iki teorinin de yalnızca başlangıçta inşa edildikleri fenomenleri değil, aynı zamanda o zamanlar düşünülmemiş veya belki de bilinmeyen diğer fenomenleri açıkladığı bulunmuştur; ve her ikisi de bağımsız olarak aynı sayısal sonuca ulaşmıştır; bu da elektriksel nicelikler açısından ışığın mutlak hızını verir.
+
+Görünüşte bu kadar temelde zıt olan teorilerin her ikisinde de bu kadar büyük bir ortak gerçeklik alanına sahip olması, felsefi önemini, hipotezler arasındaki gerçek ilişkinin görülebileceği bilimsel bir yüksekliğe ulaşana kadar tam olarak takdir edemeyeceğimiz bir gerçektir.
+
+Matematik ve Fizik arasındaki ilişki hakkında yalnızca bir yorum daha yapacağım. Biri kendi başına zihnin bir işlemidir, diğeri ise moleküllerin bir dansıdır. Moleküllerin kendilerine ait yasaları vardır, bunlardan bazılarını bizim için en anlaşılır ve hesaplamalarımıza en uygun olanları seçeriz. Bu kısmi verilerden bir teori oluştururuz ve gerçek fenomenlerin bu teoriden herhangi bir sapmasını rahatsız edici nedenlere bağlarız. Aynı zamanda, rahatsız edici nedenler olarak adlandırdığımız şeylerin, gerçek koşulların bilmediğimiz veya ihmal ettiğimiz kısımları olduğunu itiraf ediyoruz ve gelecekte bunları hesaba katmaya çalışıyoruz. Dolayısıyla sözde
+rahatsızlığın zihnin bir uydurması olduğunu, doğanın bir gerçeği olmadığını ve
+doğal eylemde hiçbir
+rahatsızlığın olmadığını kabul ediyoruz.
+
+Ancak bu, materyalin zihinsel işlemle uyumunun
+bozulabileceği tek yol değildir. Matematikçinin zihni
+yorgunluk, hafıza kaybı ve aceleci sonuçlar gibi birçok rahatsız edici nedene tabidir; ve matematikçilerin bu ve diğer
+nedenlerden dolayı hatalar yaptığı görülür.
+
+Bizden daha yüksek bir zihin için, bu hataların her birinin gerçek düşüncenin yasalarının düzenli işleyişine bağlanabileceğini inkar etmeye hazır değilim; aslında biz kendimiz sık sık sadece hesaplama hatalarını değil, bu hataların nedenlerini de tespit ederiz.
+Ancak bu, bunların hatalar olduğuna ve bir düşünce sürecinin doğru, diğerinin yanlış olduğuna dair inancımızı hiçbir şekilde değiştirmez. Ben
+
+Zamanımızın en derin matematikçilerinden ve düşünürlerinden biri olan merhum George Boole, doğru düşünmenin yasalarının kesin ve neredeyse matematiksel karakterini, gerçek ve yanılabilir düşüncenin aşırı derecede kafa karıştırıcı ama belki de eşit derecede kesin yasalarıyla karşılaştırdığında, Bilimin kendi alanının ötesinde bir bölgeye bakıyormuş gibi göründüğü bakış açılarından birine daha yol açtı.
+
+"Kabul etmeliyiz ki," diyor, "(düşüncenin) yasaları var ki, matematiksel biçimlerinin titizliği bile ihlalden koruyamaz. Onlara, özü güçten oluşmayan bir otorite, doğal dünyanın dokunulmaz düzeninin analojisinin anlamamıza hiçbir şekilde yardımcı olmadığı bir üstünlük atfetmeliyiz."
+
+Deneysel Fizik Üzerine Giriş Dersi.
+
+James Clerk Maxwell
+
+Cambridge Üniversitesi, tarihinin ardışık evreleri arasında en katı sürekliliği korurken, zamanın gereksinimlerine az çok hızla uyum sağladığı evrim yasasına uygun olarak, yakın zamanda Deneysel Fizik dersini başlattı. Bu ders, üniversitede uzun süredir geliştirilen tüm dikkat ve analiz güçlerini harekete geçirmemizi gerektirirken, duyularımızı gözlemde ve ellerimizi manipülasyonda kullanmamızı gerektirir. Kalem, mürekkep ve kağıttan oluşan tanıdık aletler artık bizim için yeterli olmayacak ve bir masada oturmanın sağladığından daha fazla alana ve kara tahtanınkinden daha geniş bir alana ihtiyaç duyacağız. Şansölyemizin cömertliğine borçluyuz ki, bundan sonra yapmayı umduğumuz deneylerin diğer yönlerden karakteri ne olursa olsun, bunların tam olarak geliştirilmesi için gereken maddi olanaklar bugüne kadar
+aşılmamış bir ölçekte olacaktır.
+
+Bu nedenle, Cambridge'deki Deneysel Fiziğin ana özelliği
+Devonshire Fizik Laboratuvarı'dır ve bu özel çalışmanın ayrıntılarına girmeden önce, Cambridge Üniversitesi olarak, yaşayan bir beden olarak, dış kabuğunun yakında önümüze çıkmasını beklediğimiz bu yeni organı nasıl benimseyebileceğimizi ve canlandırabileceğimizi düşünmemiz gerektiğini düşünüyorum.
+Bu Üniversitedeki eğitim programı her zaman Doğal Felsefe ve Saf Matematik'i içermiştir. Fizik hakkında sağlam bir bilgi yaymak ve öğrencilerimizin zihinlerine doğru dinamik prensipler aşılamak uzun zamandır en yüksek işlevlerimizden biri olarak kabul edildi ve artık çok azımız kendimizi Newton'un cisimlerin hareketinin gerçek yasalarını açıklamasından önceki günlerde büyük Descartes gibi filozofların bile içinde bulunduğu zihinsel duruma yerleştirebiliyoruz. Gerçekten de sağlam dinamik fikirlerin geliştirilmesi ve yayılması, bilime dair hiçbir iddiası olmayanların bile dilinde ve düşüncelerinde büyük bir değişiklik yarattı ve bilimsel doktrinlerin popülerleşmesinin toplumun zihinsel durumunda bilimin maddi uygulamalarının dış yaşamında yarattığı kadar büyük bir değişiklik yarattığına dair her gün yeni kanıtlar alıyoruz. Bilime gösterilen saygı öylesine büyüktür ki, en saçma görüşler bile, iyi bilinen bir bilimsel ifadeyi anımsatan bir dilde ifade edildikleri sürece geçerli hale gelebilir. Toplum her türlü bilimsel doktrini almaya bu şekilde hazırsa, yalnızca gerçek bilimsel ilkelerin değil, aynı zamanda bilimsel olduğu görünen ifadelerin dayandığı kanıtların incelenmesine dayanan sağlam bir eleştiri ruhunun yayılmasını ve geliştirilmesini sağlamak bizim görevimizdir. Bilimsel eğitimde, yalnızca öğrencinin eğitilmiş dikkatini ve sembollere aşinalığını değil, aynı zamanda gözünün keskinliğini, kulağının çevikliğini, dokunuşunun hassasiyetini ve parmaklarının ustalığını kullanabildiğimizde, yalnızca soğuk soyutlamalardan hoşlanmayan bir insan sınıfı üzerinde etkimizi genişletmekle kalmayacağız, aynı zamanda tüm bilgi kapılarını bir anda açarak, bilimsel doktrinlerin, tüm bilinçli düşüncelerimizin belirsiz arka planını oluşturan ve fikirlere canlılık ve rahatlama kazandıran temel duyumlarla ilişkilendirilmesini sağlayacağız. Bu fikirler, yalnızca soyut terimler olarak sunulduğunda, hafızadan tamamen silinmeye meyillidir. Deneysel Fizik dersinde, öncü özellik olarak Fizik veya Deneyleri ele alabiliriz. Deneyleri, fiziğin belirli bir dalının fenomenlerini açıklamak için kullanabiliriz veya belirli bir deneysel yöntemi örneklemek için fiziksel araştırmalar yapabiliriz. Zaman sırasına göre, Ders Odasında, örneklendirme deneyleriyle desteklenen fiziğin bir dalı hakkında derslerle başlamalı ve Laboratuvarda araştırma deneyleri ile sonlandırmalıyız.
+
+Bu iki deney sınıfı hakkında birkaç söz söyleyeyim: Örneklendirme Deneyleri ve Araştırma Deneyleri.
+Örneklendirme deneyinin amacı, öğrencinin kavrayabilmesi için bazı bilimsel fikirlere ışık tutmaktır. Deneyin koşulları, gözlemlemek veya sergilemek istediğimiz fenomenin, doğanın olağan akışında olduğu gibi, diğer fenomenler arasında gizlenip iç içe geçmek yerine, öne çıkarılmasını sağlayacak şekilde düzenlenmiştir. Örnekleyici deneyler sergilemek, başkalarını bunları yapmaya teşvik etmek ve bunların ışık tuttuğu fikirleri her şekilde geliştirmek, görevimizin önemli bir bölümünü oluşturur. Örnekleyici bir deneyin materyalleri ne kadar basit ve öğrenciye ne kadar tanıdık gelirse, örneklendirmek istediği fikri o kadar kapsamlı bir şekilde edinme olasılığı o kadar artar. Bu tür deneylerin eğitim değeri genellikle cihazın karmaşıklığıyla ters orantılıdır. Her zaman bozulan ev yapımı cihazları kullanan öğrenci, genellikle güvenebileceği ve parçalara ayırmaya cesaret edemediği dikkatlice ayarlanmış cihazları kullanan bir öğrenciden daha fazla şey öğrenir. Fizik biliminin gerçeklerini kitaplardan öğrenmeye çalışanların, birkaç örnekleyici deneyin yardımıyla, dışarıda karşılaştıklarında bu gerçekleri fark edebilmeleri çok önemlidir. Bilim, yalnızca ders odalarında ve bir ekrana yansıtılan elektrik ışığı aracılığıyla fiziksel olaylara tanıklık etmek için olmadığını, ancak oyunlarda ve jimnastikte, karada ve suda seyahatte, havada ve denizde fırtınalarda ve hareket halindeki maddenin olduğu her yerde en yüksek bilimsel doktrinlerin örneklerini bulabileceğimizi keşfettikten sonra bize çok farklı bir görünümle görünür.
+
+Eylemlerinin sonsuz çeşitliliği arasında ilkeleri tanıma alışkanlığı, doğanın yüceliği algımızı asla düşüremez veya güzelliğinin tadını çıkarmamızı engelleyemez. Aksine, bilimsel fikirlerimizi, onları çok sık bıraktığımız, tembel bir safdilliğin diğer ürünleri arasında gömülü bıraktığımız belirsiz durumdan kurtarmaya ve inancımızın o kadar güvence altına alındığı doktrinler arasında uygun konumlarına yükseltmeye eğilimlidir, böylece her zaman onlar üzerinde hareket etmeye hazırız.
+
+Örnekleme deneyleri çok farklı türlerde olabilir. Bazıları sıradan yaşamın en yaygın işlemlerinin uyarlamaları olabilir, diğerleri ise yalnızca özel koşullar altında meydana gelen bazı fenomenlerin dikkatlice düzenlenmiş sergileri olabilir. Ancak hepsi şu konuda hemfikirdir: Amaçları, bazı fenomenleri öğrencinin duyularına, uygun bilimsel fikirle ilişkilendirebileceği şekilde sunmaktır. Bu fikri kavradığında, bunu gösteren deney amacına ulaşmış olur.
+
+Öte yandan, bir araştırma deneyinde, bu temel amaç değildir. Temel amacı belirli koşullar altında ne olduğunu görmek olan bir deneyin, henüz sonuca aşina olmayanlar tarafından bir araştırma deneyi olarak kabul edilebileceği doğrudur, ancak deneysel araştırmalarda, kesin olarak böyle adlandırılan, nihai amaç daha önce gördüğümüz bir şeyi ölçmektir - belirli bir büyüklükte sayısal bir tahmin elde etmektir.
+
+Bu sınıftaki deneyler - bir tür ölçümün söz konusu olduğu deneyler - bir Fizik Laboratuvarının uygun işidir. Her
+deneyde öncelikle duyularımızı fenomenle tanıştırmamız gerekir, ancak burada durmamalıyız, hangi özelliklerinin ölçülebilir olduğunu ve fenomenin tam bir tanımını yapmak için hangi ölçümlerin gerektiğini bulmalıyız.
+Daha sonra bu ölçümleri yapmalı ve onlardan bulmamız gereken sonucu çıkarmalıyız.
+
+Modern deneylerin bu özelliği --esas olarak ölçümlerden oluşmaları-- o kadar belirgindir ki, birkaç yıl içinde tüm büyük fiziksel sabitlerin yaklaşık olarak tahmin edilmiş olacağı ve bilim insanlarına bırakılacak tek işin bu ölçümleri başka bir ondalık basamağına taşımak olacağı fikri yayılmış gibi görünüyor.
+
+Eğer gerçekten yaklaştığımız durum buysa, Laboratuvarımız belki de vicdanlı emek ve mükemmel becerinin yeri olarak kutlanabilir, ancak Üniversitede yeri olmayacaktır ve daha ziyade ülkemizin eşit yeteneğin daha yararlı amaçlara yönlendirildiği diğer büyük atölyeleriyle aynı sınıfta değerlendirilmelidir. Ancak, yaratımın araştırılamaz zenginlikleri veya bu zenginliklerin akıtılmaya devam edeceği taze zihinlerin denenmemiş verimliliği hakkında böyle düşünmeye hakkımız yok. Yapay yöntemler olmadan yapılabilecek kaba gözlemlere açık olan keşif alanlarından bazılarında, eski zamanların büyük kaşiflerinin değerli olan şeylerin çoğunu sahiplenmiş olması ve geriye kalanların içsel değerlerinden ziyade anlaşılmazlıkları için aranıyor olması muhtemeldir. Ancak bilim tarihi, kendisinin uzun zamandır aşina olduğu niceliklerin sayısal ölçümünün doğruluğunu artırmaya adadığı ilerlemesinin o aşamasında bile, eğer ilk öncülerinin kaba yöntemleriyle yetinmiş olsaydı, bilinmez kalacak olan yeni bölgelerin boyunduruğu altına alınması için malzemeler hazırladığını gösteriyor. Her bilim dalından toplanan örnekleri öne sürebilirim, dikkatli ölçüm emeğinin yeni araştırma alanlarının keşfiyle ve yeni bilimsel fikirlerin geliştirilmesiyle nasıl ödüllendirildiğini gösteriyorum. Ancak karasal manyetizma biliminin tarihi, bir gün Laboratuvarımızda yapmayı umduğumuz türden, Uyum İçinde Deneyler ile neler yapılabileceğine dair yeterli bir örnek sunuyor.
+
+O ünlü gezgin Humboldt, tüm ulusların gözlemcileri tarafından dünyanın manyetizmasının doğru ölçümlerini elde etmek için yapılacak ortak bir çabanın bilimsel değerinden derinden etkilenmişti; ve biz bunu esas olarak onun bilime olan coşkusuna, büyük itibarına ve yaygın etkisine borçluyuz ki, sadece özel bilim adamları değil, aynı zamanda bizimkiler de dahil olmak üzere uygar ulusların çoğunun hükümetleri bu girişime katılmaya ikna edildi. Ancak, planın gerçek işleyişi ve gözlemcilerin çalışmalarının en iyi sonuçları elde edecek şekilde yönlendirildiği düzenlemeler, büyük matematikçi Gauss'a borçluyuz. Gauss, elektromanyetik ölçüm biliminin gelecekteki kurucusu olan Weber ile birlikte Gottingen'deki manyetik gözlemevinde çalıştı ve alet yapımcısı Leyser'in becerisinden yararlandı. Ancak bu adamlar tek başlarına çalışmadılar. Çok sayıda bilim adamı Manyetik Birliğe katıldı, yeni aletlerin kullanımını ve gözlemleri azaltmanın yeni yöntemlerini öğrendi; ve Avrupa'nın her şehrinde onları, belirli zamanlarda, her biri soğuk ahşap kulübesinde, gözleri teleskopta, kulağı saate dikilmiş ve kalemi not defterine asılı mıknatısın anlık konumunu kaydederken görebilirsiniz. Bacon'ın "Koordineli deneyler" kavramı böylece gerçekleşti, bilimin dağınık güçleri düzenli bir orduya dönüştü ve taklit ve kıskançlık yersizleşti, çünkü herhangi bir gözlemcinin elde ettiği sonuçlar, diğerlerinin sonuçlarıyla birleştirilinceye kadar hiçbir değer taşımıyordu. Yeni yöntemle elde edilen manyetik gözlemlerin doğruluğu ve eksiksizliğindeki artış, manyetik iğnenin gözlemlerini daha ilkel bir şekilde gerçekleştirmiş olanlar tarafından varlığından neredeyse şüphelenilmeyen araştırma alanları açtı. Gezegenimizin manyetizmasının maruz kaldığı bozulmaların ayrıntılı bir tanımını, kendi dersimizde uygun bir yere saklamalıyız. Bu bozulmaların bazıları periyodiktir,
+güneş ve ayın düzenli rotalarını izler. Diğerleri anidir ve
+manyetik fırtınalar olarak adlandırılır, ancak atmosferin fırtınaları gibi, bilinen sıklık mevsimleri vardır. Bu manyetik değişimlerin sonuncusu ve
+en gizemlisi, dünyanın büyük bir mıknatıs olarak tüm karakterinin yavaşça değiştirildiği, manyetik kutupların ise kutup bölgelerindeki kıvrımlı yolları boyunca yüzyıldan yüzyıla ilerlediği o seküler değişimdir.
+
+Böylece, dünyanın iç kısmının gök cisimlerinin etkilerine tabi olduğunu, ancak bunun dışında tamamen bilinmeyen
+sürekli ilerleyen bir değişimin olduğunu öğrendik. Dünya genelindeki manyetik gözlemevlerinin her birinde, asılı bir mıknatısın bir ışık huzmesini saat mekanizmasıyla hareket ettirilen hazırlanmış bir kağıt parçasına yönlendirdiği bir düzenleme iş başındadır. O kağıtta, dünyanın hiç dinlenmeyen kalbi, bir gün yorumlanacak olan telgraf sembolleriyle, titreşimlerinin ve çırpınışlarının bir kaydını ve ayrıca gezegenimizin iç tarihinin sona erdiğini varsaymamamız gerektiği konusunda bizi uyaran o yavaş ama güçlü çalışmayı izliyor.
+
+Ancak, Karasal Manyetizma üzerine yapılan bu büyük deneysel araştırma, genel olarak bilimin ilerlemesi üzerinde kalıcı etkilere yol açtı. Sadece bir veya iki örnekten bahsetmem gerekiyor. Kuvvet ölçmenin yeni yöntemleri, Weber tarafından elektriğin tüm fenomenlerinin sayısal olarak belirlenmesinde başarıyla uygulandı ve çok kısa bir süre sonra, elektrik telgrafı, kesin sayısal ölçümlere ticari bir değer kazandırarak, bilimsel bilginin ilerlemesine ve yayılmasına büyük ölçüde katkıda bulundu.
+
+Ancak, bu etki yalnızca bu daha modern bilim dallarında hissedilmiyor. Gauss'a, Manyetik Birliğe ve genel olarak manyetik gözlemcilere, bilim adamları arasında bile uzun süre geçerli olan değişken bir standartla kuvvetleri tahmin etme şeklindeki o saçma yöntemden kurtuluşumuzu borçluyuz. Manyetik kuvvetin (ve dolayısıyla diğer tüm kuvvetlerin) pratik ölçümünü ilk olarak Gauss'a dayandıran kişiydi; bu ilkeler, her dinamik denklemde yer alsa da, genel olarak bir kenara bırakıldılar; bu denklemler, Cambridge ders kitaplarımızda doğru bir şekilde verilmiş olsalar da, genellikle değişken kuvvet standardına ek olarak değişken ve dolayısıyla yasadışı bir kütle standardı varsayarak açıklanırlar. Bu durumda, matematiksel gücü, deneysel zekâyı ve manipülatif beceriyi bir araya getirerek, gayretli gözlemcilerden oluşan bir topluluğun çalışmalarını yönlendirmek ve desteklemekten kaynaklanan bilimsel sonuçlardan bazıları bunlardı. Dolayısıyla, kendi çıkarımız ve Üniversitemizin onuru için Devonshire Laboratuvarı'nın başarılı olmasını istiyorsak, onu öğrenilmiş bedenimizdeki diğer organlar ve yeteneklerle canlı bir birlik içinde tutmaya çalışmalıyız. Bu nedenle, öncelikle aramızda uzun zamandır gelişen, kendi konularımızla ilgilenen ve deneysel çalışmalarımızdan yalnızca zihne sunulma biçimleriyle farklı olan matematiksel çalışmalarla ilişkimizi ele alacağız. Bilgiyi zihne sokmanın, onu olabildiğince çok farklı şekilde sunmaktan daha güçlü bir yöntemi yoktur. Fikirler, farklı kapılardan girdikten sonra zihnin kalesinde bir kavşak oluşturduklarında, işgal ettikleri konum zaptedilemez hale gelir. Optikçiler, iki gözümüzden daha uzak olmayan istasyonlardan elde ettiğimiz bir nesnenin görüşlerinin zihinsel birleşiminin, zihnimizde görülen nesnenin sağlamlığı izlenimini üretmeye yeterli olduğunu söylerler; ve bu izlenimin, aslında bir stereoskopta yerleştirilmiş iki düz resme baktığımızın farkında olduğumuzda bile üretildiğini görüyoruz. Bu nedenle, matematiksel analiz ve deneysel araştırmanın birlikte kullanılmasıyla elde edilen fizik bilimi bilgisinin, sıradan bir matematikçinin veya sıradan bir deneycinin sahip olduğundan daha sağlam, ulaşılabilir ve kalıcı bir türde olmasını beklemek doğaldır. Ancak, bu kadar çok seçkin Wrangler yetiştiren okuma
+kursunu
+takip eden kişiler, iş deneylerine yönelirse, bunun Üniversite üzerindeki etkisi ne olacaktır? Laboratuvara katılımları, yalnızca daha meşru çalışmalarından çekilen zaman olarak değil, aynı zamanda rahatsız edici bir unsurun getirilmesi, matematiksel kavramlarını maddi imgelerle lekeleme ve ders kitabının formüllerine olan inançlarını
+zayıflatma olarak mı sayılacak? Bunun dışında,
+çalışmalarımızın gereksiz yere genişletildiğine dair şikayetler ve
+sorgulayıcılarımızın Senato Binası'na taşımaya çalıştıkları öğrenim yükünün
+üzerlerine bindirdiği baskıya dair şikayetler duyduk. Şimdi onlardan konularını sadece kitaplar ve yazıyla değil, aynı zamanda gözlem ve manipülasyonla da öğrenmelerini istersek, tamamen çökmezler mi? Fizik Laboratuvarı, bize söylendiğine göre, belki de Doğa Bilimleri'ne giden ve Matematik almayanlar için faydalı olabilir, ancak Üniversite'de ikamet ederken her iki tür çalışmayı birleştirmeye çalışmak bir zihnin kaldırabileceğinden daha fazladır.
+
+Şüphesiz bu hissin bir nedeni vardır. Çoğumuz matematik eğitiminin başlangıçtaki zorluklarının üstesinden
+geldik.
+Şimdi çalışmamıza devam ettiğimizde, bunun çaba gerektirdiğini ve yorgunluk içerdiğini hissediyoruz, ancak sadece çok çalışırsak
+ilerlememizin kesin olacağından eminiz.
+
+Öte yandan, bazılarımız deneysel çalışmanın rutini hakkında biraz deneyime sahip olabilir. Ölçekleri okuyabildiğimiz, zamanları
+gözlemleyebildiğimiz, teleskopları odaklayabildiğimiz vb. anda, bu tür çalışmalar büyük bir zihinsel çaba
+gerektirmez. Belki gözlerimizi yorabilir ve sırtımızı yorabiliriz, ancak zihinlerimizi çok fazla yormayız.
+
+Eğitimimizin teorik kısmını pratikle temas ettirmeye çalışana kadar, Faraday'ın "zihinsel eylemsizlik" dediği şeyin tam etkisini deneyimlemeye başlamayız - yalnızca önümüzdeki somut nesneler arasında, kitaplardan öğrendiğimiz soyut ilişkiyi tanımanın zorluğu değil, aynı zamanda zihni sembollerden nesnelere ve nesnelerden tekrar sembollere doğru koparmanın dikkat dağıtıcı acısı. Ancak bu, yeni fikirler için ödememiz gereken bedeldir.
+
+Ancak bu zorlukların üstesinden geldiğimizde ve soyut ile somut arasındaki uçurumu başarıyla aştığımızda, elde ettiğimiz şey yalnızca bir bilgi parçası değildir: kalıcı bir zihinsel yeteneğin temellerini edinmiş oluruz. Bu tür çabaların tekrarlanmasıyla bilimsel yeteneğimizi daha da geliştirdiğimizde, bu yeteneğin doğadaki bilimsel ilkeleri saptama ve teoriyle pratiği yönlendirmedeki kullanımı artık can sıkıcı olmaktan çıkar, aksine sık sık geri döndüğümüz, sonunda dikkatsiz düşüncelerimizin bile bilimsel bir kanala girmeye başladığı, bitmek bilmeyen bir keyif kaynağı haline gelir.
+
+Zihinsel enerjimizin nicelik olarak sınırlı olduğunu kabul ediyorum ve birçok gayretli öğrencinin kendileri için iyi olandan daha fazlasını yapmaya çalıştığını biliyorum.
+Ancak deneysel çalışmanın başlatılmasıyla ilgili soru tamamen nicelikle ilgili değildir. Büyük ölçüde enerjinin dağılımıyla ilgilidir. Bazı enerji dağılımlarının diğerlerinden daha yararlı olduğunu biliyoruz, çünkü başarmak istediğimiz amaçlar için daha uygundurlar.
+
+Şimdi çalışma durumunda, yorgunluğumuzun büyük bir kısmı genellikle,
+konuya hakim olmamızı sağlayan zihinsel çabalardan değil,
+dolaşan düşüncelerimizi hatırlamaya harcanan çabalardan kaynaklanır; ve bu dikkat çabaları,
+zihinsel dikkat dağıtmanın rahatsız edici gücü ortadan kaldırılabilseydi çok daha az yorucu olurdu.
+
+Ruhu işinde olan bir adamın, amacı doğrudan mesleğiyle bağlantılı olmayan bir şey olan bir adamdan her zaman daha fazla ilerleme kaydetmesinin nedeni budur. İkinci durumda, zayıflayan güçlerini canlandırmak için kullandığı motivasyon,
+zihnini önündeki işten uzaklaştırmanın bir aracı haline gelir.
+
+Çalışmalarını tamamen kendi iyilikleri için sürdüren bazı matematikçiler olabilir. Ancak çoğu insan, matematiğin başlıca kullanımının doğanın yorumlanmasında bulunduğunu düşünür. Şimdi, gördüğü bir doğal olayı anlamak veya yapmayı düşündüğü bir deneyin en iyi düzenlemesini hesaplamak için bir matematik parçası inceleyen bir adam, tek amacı Kanunu başarılı bir şekilde uygulamak veya Matematik Triposu'nda yüksek bir yer edinmek olsaydı, çok daha az zihin dağınıklığıyla karşılaşma olasılığı yüksektir. Okuldayken matematiğin iyi taraflarını asla göremeyen ama daha sonraki yaşamlarında bu keşfi yaptıklarında sadece bilimsel mühendisler olarak öne çıkmakla kalmayıp soyut matematiğin incelenmesinde önemli ilerleme kaydeden adamlar tanıdım. Eğer deneysel derslerimiz herhangi birinizin matematiğin iyi taraflarını görmesine yardımcı olursa, bu bizi çok fazla endişeden kurtaracaktır çünkü sadece gelecekteki çalışmalarınızın başarısını garantilemekle kalmayacak, aynı zamanda sağlığınıza zararlı olma olasılığını da çok daha az hale getirecektir.
+
+Ama neden pratik bilimin Üniversiteye olan avantajını kanıtlamak için çaba sarf edelim? Bunun yerine, matematikte iyi eğitilmiş ve iyi donanımlı bir Laboratuvarın avantajlarından yararlanan adamlar, hiçbir tek çalışanın
+başaramayacağı deneysel araştırmalar yapmak için çabalarını birleştirdiklerinde Üniversitenin bilime sağlayabileceği yardımdan bahsedelim.
+
+İlk başta, başlıca deneysel çalışmamızın belirli bilim dallarının örneklenmesi olması muhtemeldir, ancak devam ettikçe buna bilimsel yöntemlerin incelenmesini eklemeliyiz, aynı yöntem bazen farklı bilim dallarına ait araştırmalara uygulanmasıyla örneklendirilir. Hatta, düzenlemesi araştırma nesnelerinin değil, yöntemlerin sınıflandırılması üzerine kurulu bir deneysel çalışma kursu bile hayal edebiliriz. Bana göre, bu iki planın birleşimi her ikisinden de daha iyi görünüyor ve yöntemleri incelemek için her fırsatı değerlendirirken, yöntemi uygulandığı ve değerini borçlu olduğu bilimsel araştırmadan ayırmamaya dikkat edeceğiz. Bu nedenle derslerimizi ısı, elektrik, manyetizma vb. gibi başlıca doğal olayların sınıflandırılmasına göre düzenleyeceğiz. Öte yandan laboratuvarda, farklı aletlerin yeri, tartma ve ölçme, zaman gözlemleri, optik ve elektriksel gözlem yöntemleri vb. gibi yöntemlere göre bir sınıflandırma ile belirlenecektir. Belirli bir zamanda gerçekleştirilecek deneylerin belirlenmesi genellikle elimizdeki araçlara bağlı olmalıdır ve daha ayrıntılı deneyler durumunda, bu, aletlerin, yöntemlerin ve gözlemcilerin kendilerinin kademeli olarak işlerine hazırlandığı uzun bir hazırlık süresi anlamına gelebilir. Belirli bir deney için hem maddi hem de entelektüel gereklilikleri böylece bir araya getirdiğimizde, aletler indirilmeden ve gözlemciler dağıtılmadan önce, aynı yöntemi gerektiren ancak belki de tamamen farklı bir fiziksel fenomen sınıfıyla ilgilenen başka bir deney yapmamız istenebilir. Ancak Laboratuvardaki temel işimiz her türlü bilimsel yöntemle tanışmak, bunları karşılaştırmak ve değerlerini tahmin etmek olmalıdır. Bence bu, Üniversitemize layık bir sonuç olacaktır ve herhangi bir özel laboratuvardan daha büyük olasılıkla burada gerçekleştirilecektir, eğer farklı bilimsel prosedürlerin göreceli değerinin özgür ve tam bir tartışmasıyla bir bilimsel eleştiri okulu oluşturmayı ve yöntem doktrininin geliştirilmesine yardımcı olmayı başarırsak. Ancak Fizik Bilimi yöntemleriyle pratik bir tanışıklığın matematiksel ve bilimsel eğitimin temel bir parçası olduğunu kabul edersek, liberal bir eğitimin parçası olarak bilime çok fazla önem verip vermediğimiz sorulabilir. Neyse ki, burada Üniversitenin liberal eğitim yeri olmaya devam edip etmemesi veya gençleri belirli mesleklere hazırlamaya kendini adaması gerektiği konusunda hiçbir soru yoktur. Bu nedenle, umarım, bazılarımız bilimin peşinde koşmayı hayatımızın ana işi haline getirmek için bir neden görebilir, ancak Cambridge'in edebi, filolojik, tarihsel veya felsefi diğer liberal çalışmaları ile çalışmalarımız arasında canlı bir bağlantı sürdürmek en sürekli hedeflerimizden biri olmalıdır. Bilim insanları arasında, tıpkı diğer özel işlerle uğraşan insanlar arasında olduğu gibi, dar bir mesleki ruh gelişebilir. Ancak kesinlikle bir Üniversite, insanların küçük dünyalara, yani çok küçük olmaları nedeniyle daha da dünyevi olanlara dönüşme eğilimini aşabileceğimiz yerdir. Kendimizden farklı özel öğrenme dallarına sahip olanların bile ruhunu özümsemeye çalışmazsak, çeşitli uğraşlara sahip insanların tek bir vücutta toplanması avantajını kaybederiz. Geometriye veya sürekli uygulama gerektiren herhangi bir bilime kendini adayan herhangi bir adamın, zorunlu olarak bir insan düşmanı olarak görülmesinden bu yana çok da uzun zaman geçmedi; tüm insani ilgi alanlarını terk etmiş ve kendini yaşam ve eylem dünyasından o kadar uzak soyutlamalara adamış ki, zevkin çekiciliğine ve görev taleplerine karşı duyarsız hale gelmiştir. Günümüzde, bilim insanlarına aynı hayranlık veya şüpheyle bakılmıyor. Onların, çağın maddi ruhuyla ittifak halinde olmaları ve bilgili insanlar arasında bir tür ileri Radikal parti oluşturmaları gerekiyor. Biz burada edebi ve tarihsel çalışmaları savunmak için bulunmuyoruz. İnsanlığın uygun çalışmasının insan olduğunu kabul ediyoruz. Fakat bilim öğrencisi, insan çalışmasından çekilmeli veya her asil duygudan, hayatlarını gerçeği keşfetmeye adamış insanlarla entelektüel bir birliktelik içinde yaşadığı ve araştırmalarının sonuçlarının isimlerini hiç duymamış insanların sıradan konuşma ve düşünce tarzlarına yerleşmiş olduğu sürece mi kesilmelidir? Yoksa tarih ve insan öğrencisi, dünyanın bir çağı ile diğeri arasında çok büyük bir fark yaratan fikirlerin kökeni ve yayılma tarihini dikkate almamalı mıdır?
+
+Bilim tarihinin, tarih biliminden çok farklı olduğu doğrudur. Biz, bize, belirsiz insan kalabalığı üzerinde faaliyet gösteren, prenslikleri ve güçleri sarsan ve makul insanları filozoflar tarafından belirlenen bir düzende olayları gerçekleştirmeye zorlayan o kör güçlerin işleyişini incelemiyoruz veya incelemeye çalışmıyoruz.
+
+Bilim tarihinde isimleri bulunan adamlar, yalnızca kitleler halinde akıl yürütülebilecek bir kalabalığın varsayımsal bileşenleri değildir. Onları kendimiz gibi adamlar olarak tanırız ve onların eylemleri ve düşünceleri, tutkunun etkisinden daha özgür ve diğer adamlarınkinden daha doğru bir şekilde kaydedildiğinden, insan doğasının daha sakin kısımlarının incelenmesi için daha iyi malzemelerdir. Ancak bilim tarihi, başarılı araştırmaların sayılmasıyla sınırlı değildir. Başarısız soruşturmalardan bahsetmeli ve en yetenekli adamlardan bazılarının neden bilginin anahtarını
+bulamadığı ve diğerlerinin itibarının, onların düştükleri hatalara nasıl daha sağlam bir zemin sağladığını açıklamalıdır.
+
+İster normal ister anormal olsun, fikirlerin gelişiminin tarihi, düşünen insanlar olarak en derin ilgiyi gösterdiğimiz tüm konulardan biridir. Fakat zihnin eylemi, gerçeğin ve hatanın alternatif olduğu entelektüel aşamadan, öfke ve tutku, kötülük ve kıskançlık, hiddet ve delilik gibi daha şiddetli duygusal durumlara geçtiğinde; bilim öğrencisi, bu vahşi güçlerin insanlık üzerinde uyguladığı güçlü etkiyi kabul etmekle yükümlü olsa da, belki de insan doğasının bu kısmını incelemekten bir ölçüde diskalifiye olur.
+
+Fakat o zaman, bu tür çalışmalardan ne kadar azımız faydalanabiliyor. Doğamızın bu alt evreleriyle tam bir sempatiye giremeyiz, ancak bu, daha aşağılık bir türe geri dönmemize karşı en kesin güvencemiz olan onlara karşı duyduğumuz antipatiden bir kısmını kaybetmeden ve entelektüel veya pratik olsun, asil amaçlara ulaşmayı amaçlayarak fırtınalar bölgesinin üzerine, daha net bir atmosfere yükselen, hiçbir fikrin yanlış yorumlanmadığı veya ifadenin belirsizliğinin olmadığı, ancak bir zihnin diğeriyle en yakın temasa geçtiği, ikisinin de gerçeğe en yakın olduğu noktada olduğu o seçkin adamların arasına memnuniyetle geri döneriz. Bu dönemde Isı üzerine ders vermeyi düşünüyorum ve deneysel çalışma olanaklarımız henüz tam olarak gelişmediğinden, deneysel yöntemlerin ayrıntılarını tartışmaktan ziyade, bilimin farklı dallarının göreceli konumunu ve bilimsel bağlantısını önünüze koymaya çalışacağım. Sıcaklıkların kaydedilmesi olan Termometri ile ve ısı miktarlarının ölçülmesi olan Kalorimetri ile başlayacağız. Daha sonra, cisimlerin termal özellikleri ile diğer dinamik özellikleri arasındaki ilişkileri inceleyen Termodinamiğe geçeceğiz, bu ilişkiler bu cisimlerin özel yapısına dair herhangi bir varsayımda bulunulmadan izlenebildiği sürece.
+
+Termodinamik ilkeleri doğanın tüm fenomenlerine büyük ışık tutar ve bu ilkelerin birçok değerli uygulamasının henüz yapılmamış olması muhtemeldir; ancak bu bilimin sınırlarını belirtmeli ve doğadaki birçok sorunun, özellikle Enerji Dağılımı'nın devreye girdiği sorunların, yalnızca Termodinamik ilkeleriyle çözülemeyeceğini, ancak bunları anlamak için cisimlerin yapısına dair daha kesin bir teori oluşturmak zorunda olduğumuzu göstermeliyiz.
+
+Cisimlerin yapısına dair iki teori, spekülasyonun en eski çağlarından beri çeşitli şanslarla zafer için mücadele etmiştir: biri evrensel bir plenum teorisi, diğeri ise atomlar ve boşluk teorisidir.
+
+Plenum teorisi, matematiksel süreklilik doktrini ile ilişkilidir ve matematiksel yöntemleri, sürekli nicelik ilişkilerinin uygun ifadesi olan Diferansiyel Hesaplamanın yöntemleridir. Atomlar ve boşluk teorisi, bizi integral sayılar ve kesin oranlar doktrinlerine daha fazla önem vermeye yönlendirir; ancak, dinamik prensipleri muazzam sayıda atomun hareketine uygularken, yeteneklerimizin sınırlılığı bizi her bir atomun kesin geçmişini ifade etme çabasından vazgeçmeye ve yeterince büyük bir atom grubunun ortalama durumunu tahmin etmekle yetinmeye zorlar. İstatistiksel yöntem olarak adlandırabileceğim ve bilgimizin şu anki durumunda gerçek cisimlerin özelliklerini incelemek için mevcut tek yöntem olan bu atom gruplarıyla başa çıkma yöntemi, katı dinamik prensiplerin terk edilmesini ve olasılık teorisine ait matematiksel yöntemlerin benimsenmesini içerir. Henüz çok az bilinen ve zihnimize yabancı olan bu yöntemin uygulanmasıyla önemli sonuçlar elde edilmesi muhtemeldir. Bilimin gerçek tarihi farklı olsaydı ve bize en tanıdık gelen bilimsel doktrinler bu şekilde ifade edilmesi gerekenler olsaydı, belirli bir tür olasılığın varlığını kendiliğinden açık bir gerçek olarak kabul edebilir ve felsefi zorunluluk doktrinini salt bir sofizm olarak ele alabilirdik. Bu yüzyılın başlarında, cisimlerin özellikleri, dengede molekül sistemleri oldukları hipoteziyle birkaç seçkin Fransız matematikçi tarafından araştırıldı. Bu araştırmaların sonuçlarının bir şekilde tatmin edici olmayan doğası, özellikle bu ülkede, cisimleri, en azından deneylerimiz söz konusu olduğunda, gerçekten sürekliymiş gibi ele almanın zıt yöntemi lehine bir tepki yarattı. Green, Stokes ve diğerlerinin elindeki bu yöntem, cisimlerin nihai yapısı için benimsediğimiz teoriye hiç bağlı olmayan sonuçlara yol açmıştır.
+
+Cisimlerin özelliklerinin gerçekten sürekli oldukları hipotezi üzerine araştırılmasının çok önemli bir sonucu, gerçek bir cisim üzerinde deneyler yaparak, özelliklerinin artık kütle halindeki cismin özellikleriyle aynı olmadığına dair kanıt vermeye başlamadan önce ne kadar incelmesi gerektiğini belirleyebileceğimiz bir test sağlamasıdır. Bu tür araştırmalar, çeşitli difüzyon ve enerji kaybı fenomenlerinin incelenmesiyle birleştiğinde, cisimlerin hareket halindeki molekül sistemleri olduğu hipotezini destekleyen kanıtlara son zamanlarda büyük ölçüde katkıda bulunmuştur.
+
+Terim boyunca, belirli özelliklere sahip bireysel cisimler olarak kabul edilen moleküllerin varlığına dair kanıtlardan bazılarını önünüze koyabilmeyi umuyorum. Molekül, bilimsel hayal gücüne sunulduğu haliyle, deneyimin bizi bugüne kadar tanıştırdığı cisimlerden çok farklı bir cisimdir.
+
+Öncelikle kütlesi ve özelliklerini tanımlayan diğer sabitler kesinlikle değişmezdir; bireysel molekül ne büyüyebilir ne de bozulabilir, ancak bir bileşenini oluşturabileceği cisimlerin tüm değişimleri arasında değişmeden kalır.
+
+İkinci olarak, türünün tek molekülü değildir, çünkü sabitleri yaklaşık olarak değil, kesinlikle ilk molekülün sabitleriyle aynı olan sayısız başka molekül vardır ve bunlar ister dünyada, ister güneşte, isterse sabit yıldızlarda bulunsun.
+
+Geleceğin filozoflarının, her biri büyüklük olarak değişmez ve bazıları Astronominin boşuna ölçmeye çalıştığı mesafelerle diğerlerinden ayrılmış olan bu kadar çok cismin özelliklerindeki bu özdeşliği hangi evrim süreciyle açıklamaya çalışacaklarını tahmin edemiyorum. Zihnimin spekülasyon gücü sınırlıdır ve bu moleküllerin varoluşlarının başlangıcından itibaren oldukları gibi yapılmış olmaları gerektiğine inanmaya zorlanıyorum.
+
+Ayrıca, doğanın süreçlerinin hiçbiri, farklı bireysel moleküller üzerindeki çeşitli etkileri sırasında, çağlar boyunca, bir molekülün özellikleriyle, bileşimlerinin geçmişi farklı olan diğerinin özellikleri arasında en ufak bir fark üretmediğinden, ne bunların varlığını ne de özelliklerinin özdeşliğini, doğal dediğimiz nedenlerden herhangi birinin işleyişine atfedemeyiz.
+
+Öyleyse, bilimsel spekülasyonlarımızın, oluşum ve bozulmaya tabi görünen şeylerin görünür görünümünün altına gerçekten nüfuz edip, bugün de yaratıldığı gibi, sayı, ölçü ve ağırlık bakımından mükemmel olarak devam eden o düzen ve mükemmellik dünyasının girişine ulaştığı doğru mu?
+
+Yanılıyor olabiliriz. Hiç kimse henüz tek bir molekülü görmedi veya ellemedi ve moleküler hipotezimiz, sırayla, maddenin yapısına dair yeni bir teoriyle yer değiştirebilir; ancak, hepsi birbirine benzeyen ve hepsi değişmeyen sayısız tekil şeyin varlığı fikri, insan zihnine giremez ve meyvesiz kalamaz.
+
+Peki ya bu moleküller, yok edilemez oldukları halde, kendileri madde değil de başka bir maddenin etkileri oldukları ortaya çıkarsa?
+
+Sir W. Thomson'ın Vorteks Atomları teorisine göre, molekülün oluştuğu madde, özellikleri mükemmel bir akışkanın özellikleri olan, düzgün yoğun bir _plenum_'dur; molekülün kendisi, bu akışkanın bir kısmına uygulanan belirli bir hareketten başka bir şey değildir ve bu hareket, Helmholtz'a ait bir teoremle, maddenin bir kısmının olduğuna inandığımız kadar yok edilemez olduğu gösterilmiştir. Bu tür bir teori doğruysa veya düşünülebilirse, madde fikrimiz zihnimize, cisimler dediğimiz ancak tözler değil, bir tözün hareketleri olan girdap sistemleri deneyimimiz aracılığıyla sokulmuş olabilir; ve yine de, eylemsizliğe sahip bir töz olarak madde hakkında edindiğimiz fikir, girdapların hareketi olan ancak varlığına dair, bazı parçalarının girdap hareketi dışında, deneyimimizin bize hiçbir kanıt sunmadığı o sıvıya gerçekten uygulanabilir olabilir.
+
+Metafizik spekülasyonun geçmişte kaldığı ve fizik biliminin onu ortadan kaldırdığı ileri sürülmüştür. Ancak, varoluş kategorilerinin tartışılması, zamanımızda sona erme tehlikesi altında görünmemektedir ve spekülasyon uygulaması, Thales'in günlerinde olduğu gibi, her taze zihin için büyüleyici olmaya devam etmektedir.
+
+James Clerk Maxwell'in Project Gutenberg'in Beş Maxwell Makalesi'nin Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK FIVE OF MAXWELL'S PAPERS ***
+
+***** This file should be named 4908.txt or 4908.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/9/0/4908/
+
+Produced by Gordon Keener
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
