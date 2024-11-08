@@ -100,8 +100,6 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 
 - Belge bağışında bulunabilecek kişi ve kuruluşlarla iletişime geçilmesi
 
-- Gutenberg.org gibi açık kaynak belge paylaşan kurumlara izin başvurusu yapılması
-
 - Arşivin içeriğinin sürekli analiz edilmesi ve elde edilen sonuçların paylaşılması
 
 - Projeye katkıda bulunabilecek kişi ve kuruluşlarla iletişime geçilmesi
@@ -111,6 +109,8 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
 - Projenin sosyal medyada tanıtılması
 
 - Soru-cevap veriseti oluşturulması (Ön çalışmalara başlandı)
+
+- Gutenberg.org gibi açık kaynak belge paylaşan kurumlara izin başvurusu yapılması (İzin alındı)
  
 
 ## Developments
@@ -176,8 +176,6 @@ I will continue to announce the developments here.
 
 - Contacting individuals and organizations that can donate documents
 
-- Applying for permission to institutions that share open source documents, such as Gutenberg.org
-
 - Continuously analyzing the content of the archive and sharing the results obtained
 
 - Contacting individuals and organizations that can contribute to the project
@@ -187,4 +185,7 @@ I will continue to announce the developments here.
 - Promoting the project on social media
 
 - Creating a question-answer dataset (Preliminary work has begun)
+
+- Applying for permission to institutions that share open source documents, such as Gutenberg.org (Permission received)
+
 
