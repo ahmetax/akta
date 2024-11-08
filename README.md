@@ -24,6 +24,13 @@ If at any stage you come across documents in our archive that you think are prot
 
 Please support our project.
 
+## Kitap ve Belge Bağışçıları
+
+- Project Gutenberg (36000 İngilizce belge Türkçeye çevrilerek arşive ekleniyor)
+
+## Book and Document Donors
+
+- Project Gutenberg (36,000 English documents are being translated into Turkish and added to the archive)
 
 ## Gelişmeler
 
