@@ -1,0 +1,2552 @@
+*** START OF AKTAHEADER ***
+Başlık: A Color Notation (Bir Renk Notasyonu)
+Yazar: Albert H. Munsell
+Yayın Tarihi: July 14, 2008 [EBook #26054]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/26054
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of A Color Notation, by Albert H. Munsell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Color Notation
+       A measured color system, based on the three qualities Hue,
+       Value and Chroma
+
+Author: Albert H. Munsell
+
+Release Date: July 14, 2008 [EBook #26054]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A COLOR NOTATION ***
+
+*** START OF TURKISH PART ***
+Louise Hope, K.D. Thornton ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[Bu metin, dosyanın "gerçek" (unicode,
+utf-8) sürümünü kullanamayan okuyucular için tasarlanmıştır. "ae" gibi birkaç karakter
+açılmıştır; kesirler "1-1/2" olarak yazılmıştır ve derece işaretleri gibi semboller genişletilmiştir.
+
+İçindekiler Tablosu, Dizin ve tüm çapraz referanslar (parantez) içinde gösterilen paragraf numaralarını kullanır.
+
+Başlangıçta iki satıra basılan birkaç uzun kesre parantez eklenmiştir.
+
+R2, R3, R4 gibi ifadelerdeki sayılar
+üst simge olarak basılmıştır.]
+
+[İllüstrasyon: DENGELİ BİR RENK KÜRESİNİN
+PASTEL ÇİZİMİ]
+
+BİR RENK NOTASYONU
+
+_Yazar_
+
+A. H. MUNSELL
+
+ÜÇ KALİTEYE DAYALI ÖLÇÜLMÜŞ BİR RENK SİSTEMİ
+
+_Ton, Değer ve Kroma_
+
+
+Öğretmenler için Düzenlenmiş
+
+Açıklayıcı Modeller, Tablolar ve
+Bir Çalışma Kursu ile
+
+_2. Baskı
+Gözden Geçirilmiş ve
+Büyütülmüş_
+
+GEO. H. ELLIS CO.
+BOSTON
+1907
+
+TELİF HAKKI, 1905
+A. H. MUNSELL
+
+_Tüm hakları saklıdır_
+
+KIRTASİYECİLER SALONUNA GİRİLDİ
+
+YAZARIN ÖNSÖZÜ.
+
+Geçtiğimiz on yıl boyunca çeşitli zamanlarda, bu sayfaların özü Normal Sanat Okulu, Sanat Öğretmenleri Derneği ve Yirminci Yüzyıl Kulübü öğrencilerine dersler şeklinde verildi. Geçtiğimiz yılın Ekim ayında, Profesör Charles R. Cross'un önerisiyle Massachusetts Teknoloji Enstitüsü Sanat Topluluğu'na sunuldu.
+
+Geliştirilmesinde yardımcı eleştirileriyle katkıda bulunan birçok kişiye, özellikle Güzel Sanatlar Müzesi Sekreteri Bay Benjamin Ives Gilman, Enstitü'den Profesör Harry E. Clifford ve Boston'daki Everett Okulu müdürü Bay Myron T. Pritchard'a minnettarız.
+
+A. H. M.
+
+CHESTNUT HILL, MASS., 1905.
+
+İKİNCİ BASKIYA ÖNSÖZ.
+
+Bu baskıdaki yeni resimler, normal okul odası koşullarında yapılmış, ölçülü renk içeren çocuk çalışmalarının faksimileleridir.
+En sık sorulan soruları karşılamak için notlar ve ekler eklenmiştir, vurgu genellikle yeni başlayanlara verilen renklerin dengesiz doğasına ve kırmızı, sarı ve mavinin birincil tonlar olduğunu öğreterek yapılan yaramazlıklara yapılmıştır.
+
+Renk değerleri için bilimsel bir temele ihtiyaç duyulduğu da vurgulanmıştır, bunun renk duyusu disiplininde önemli olduğuna inanılmaktadır.
+
+A. H. M.
+
+CHESTNUT HILL, MASS., 1907.
+
+GİRİŞ.
+
+Şu anda renk isimlendirmesinde çok genel olan kesinlik eksikliği, büyük ölçüde renk farklılıklarının dayandığı temel özelliklerin takdir edilememesinden kaynaklanmaktadır. Fizikçiler için, herhangi bir belirli ışığın dalga boyunun ifadesi çoğu durumda yeterlidir, ancak renklerin söz konusu olduğu durumların büyük çoğunluğunda bundan daha fazlası ve gerçekleştirilmesi daha kolay bir şey esastır. Renk ilişkilerini yalnızca iki boyut veya iki kesin özellik kullanarak ifade etme girişimi asla başarılı bir sisteme yol açamaz. Sadece bu nedenle, Bay Munsell tarafından önerilen sistem, renk tonu, değer ve renk parlaklığı olmak üzere üç boyutuyla, önceki herhangi bir önermeye göre belirgin bir adım öndedir. Bu üç boyut aracılığıyla herhangi bir belirli rengi tamamen ifade etmek ve onu genellikle aynı genel karaktere sahip olarak sınıflandırılan renklerden ayırmak mümkündür. Ancak, bir rengin temel özelliklerinin ifadesi gereken tek şey değildir. Bu özellikleri kopyalamak için doğru ve çok karmaşık olmayan, zamanla veya mekanla değişmeyecek ve kolay ve doğru bir şekilde yeniden belirlenebilecek bir sistem olmalıdır. Öğretim açısından da mantıksal ve ardışık bir gelişim kesinlikle gereklidir. Bay Munsell'in bunu en başarılı şekilde başardığı görülüyor. İlişkilerinin belirlenmesinde belirgin bir şekilde bilimsel yöntemler kullanmıştır ve önerilerinin kesin ve belirgin bir renk esasları sistemine yol açmaması için hiçbir neden yok gibi görünüyor. Kısaca bahsedilen Munsell fotometresi geniş aralıklı, yüksek hassasiyetli ve büyük duyarlılığa sahip bir araçtır ve sisteminde gerekli olan değerlendirmelerin doğru bir şekilde yapılmasına izin verir. Hepimiz renk fikirlerimizde bir miktar iyileştirme yapılmasının gerekliliğini takdir ediyoruz ve doğal sonuç, eğitimin erken gençlikte başlatılması gerektiğidir. Mevcut sistem, değiştirilmiş haliyle çocuklara hitap etmesi gereken ve onlara neredeyse bilinçsizce daha sonraki yaşamlarında muazzam bir değere sahip olacak bir ayrımcılık gücü veren basitlik ve çekicilik unsurlarına sahiptir. Bu sistemdeki olanaklar çok büyüktür ve son birkaç yıldır gelişimiyle temas halinde olmama izin verilmesi bir ayrıcalıktır. Burada sadece rasyonel bir renk adlandırmasının değil, aynı zamanda bilimsel öneme ve pratik değere sahip bir sistemin de olduğunu hissediyorum.
+
+H. E. CLIFFORD.
+
+MASSACHUSETTS TEKNOLOJİ ENSTİTÜSÜ,
+Şubat, 1905.
+
+İÇERİK.
+
+Profesör Clifford'un Girişi.
+
+Bölüm I.
+
+Bölüm Paragrafı
+
+I. RENK İSİMLERİ: Kırmızı, Sarı, Yeşil, Mavi, Mor 1
+Ek I.--Renk için Yanlış İsimlendirmeler.
+
+II. RENK NİTELİKLERİ: Ton, Değer, Kroma 20
+Ek II.--Ton, Değer ve Kroma Ölçekleri.
+
+III. RENK KARIŞIMI: Üç Boyutlu Bir Denge 54
+Ek III.--Yanlış Renk Dengesi.
+
+IV. PRİZMATİK RENKLER 87
+Ek IV.--Çocukların Renk Çalışmaları.
+
+V. PİGMENT RENK KÜRESİ: GERÇEK RENK DENGESİ 102
+Ek V.--Brewster Teorisine Dayalı Şemalar.
+
+VI. RENK NOTASYONU: ​​Yazılı Bir Renk Sistemi 132
+
+VII. RENK UYUMU: Ölçülü Bir İlişki 146
+
+Bölüm II.
+
+RENK SİSTEMİ VE ÇALIŞMA DERS PROGRAMI
+
+RENK KATI VE GRAFİKLERİNE DAYALI.
+Dokuz yıllık okul hayatı için düzenlenmiştir.
+
+RENK TERİMLERİ SÖZLÜĞÜ.
+Century Dictionary'den alınmıştır.
+
+DİZİN
+(paragraflar halinde).
+
+BÖLÜM I.
+
+RENK İSİMLERİ.
+
+Samoa'dan Londra'daki Sidney Colvin'e yazan Stevenson[1] şöyle diyor:
+"Belki de aynı şekilde, size ucuz, güzel ve sıcak ve aşırı aydınlık bir iklimdeki bir oda için uygun gelebilecek herhangi bir duvar kağıdı desenini bize göndermek sizi eğlendirebilir. İklimimizin de aşırı karanlık olabileceğini unutmamalısınız. Oturma odamız vernikli ahşaptan olacak. Özellikle aklımda olan oda bir tür yatak ve oturma odası, oldukça büyük, üç tarafı aydınlatılmış ve şu anda sahibinin lehine olan renk topazy sarısı. Ama sonra onu hangi renkle rahatlatabilirim? Arkada kendime ait küçük bir çalışma odası için, parlak olmayan bazı desenler görmek isterim - eğer bu kırmızıyı tarif edebilirsem asılırım. Türk değil, Roma değil, Hint değil; ama son ikisine de benziyor ve yine de ikisi de olamaz, çünkü vermilyonla gidebilmeli. Ah, ne kadar da karmaşık bir ağ örüyoruz! Neyse, kalan beyinlerinizle beni seçin ve bana tam olarak aynı tonda birkaç desen gönderin."
+
+[Dipnot 1: Vailima Mektupları, 8 Ekim 1902.]
+
+(1) Rengi tanımlamanın daha mantıklı bir yolu için daha hoş bir haykırış nerede bulunabilir? "Topaz sarısı" ve Türk, Roma veya Hint olmayan, ancak "son ikisine de benziyor gibi görünen, ancak ikisi de olamayacak" bir kırmızı istiyor. Doruk noktasına bir son olarak "tam olarak aynı tonda desenler" talebi geliyor. Böylece İngilizcenin en açık ve en güçlü yazarlarından biri istediği rengi
+tanımlayamıyor. Ve neden? Çünkü popüler dil, her renkte birleşmiş üç nitelikten tek bir tanesini bile açıkça belirtmez ve
+birinin renk kavramlarını bir başkasına aktarmayı ummadan önce bunların bilinmesi gerekir.
+
+(2) Mevcut renk adlarımızın uyumsuz ve tuhaf doğası, her düşünceli kişiye görünmelidir. Bebek mavisi, tavus kuşu mavisi, Nil yeşili,
+elma yeşili, limon sarısı, saman sarısı, gül pembesi, heliotrop, kraliyet moru, macenta, Solferino, erik ve otomobil popüler terimlerdir,
+farklı kişilere farklı fikirler iletir ve
+renkleri tanımlamada tamamen başarısız olur. Bezelye yeşili, deniz yeşili, zeytin yeşili, çimen yeşili, adaçayı yeşili, her dem yeşil, görünmez yeşil gibi tek bir renk tonu için kullanılan terimlere,
+bir kumaş parçası sipariş ederken güvenilmemelidir. Hatalara ve hayal kırıklığına davet ederler. Sadece yanlış olmakla kalmazlar:
+uygunsuzdurlar. Tarla kuşu, kanarya, kakadu, karga, kedi, köpek veya fare olarak adlandırılan müzik tonlarını, bu hayvanların çığlıklarına uzaktan benzedikleri için hayal edebilir miyiz? 131. paragrafa bakın.
+
++Renk bir sisteme ihtiyaç duyar.+
+
+(3) Müzik, her sesi, doğanın sonsuzca değişen seslerine gevşek göndermeler
+eklemeden, perdesi, yoğunluğu ve süresi açısından tanımlayan bir sistemle donatılmıştır. Bu nedenle, renk, duyumlarımızın tonuna, değerine ve kromasına[2] dayalı uygun bir sistemle donatılmalı ve bunları doğal nesnelerin belirsiz ve değişen renkleriyle
+tanımlamaya çalışılmamalıdır. Şimdi ele alınacak sistem, rengin üç boyutunu tasvir eder ve her birini uygun bir
+ölçekle ölçer. Bir bireyin kaprisine değil, özel renk aygıtıyla mümkün kılınan fiziksel ölçümlere dayanır. Sonuçlar, "berrak bir zihin, iyi bir göz ve makul miktarda sabır" ile soruna gelen herkes tarafından test edilebilir.
+
+[Dipnot 2: Sözlükteki renk değişkenlerine bakın.]
+
++ Berrak zihinsel imgeler net konuşma sağlar. Belirsiz düşünceler belirsiz
+ifadeler bulur.+
+
+(4) Çocuk çiçek toplar, renkli boncuklar biriktirir, kelebeklerin peşinden koşar
+ve en gösterişli boyalı oyuncakları ister. İlk başta güçlü renk
+duyguları kırmızı, sarı, yeşil, mavi ve mor gibi basit terimlerle yeterince tanımlanır. Ancak kısa süre sonra bazılarının açık, bazılarının ise koyu olduğunu görür ve daha sonra her bir rengin daha gri dereceleri olduğunu algılar. Şimdi, belirli bir kırmızıyı, örneğin solmuş şapkasını tanımlamak isterse, ona yalnızca kırmızı demekle yetinmez, çünkü ona hiç benzemeyen diğer kırmızı nesnelerin farkındadır. Bu yüzden bu belirli kırmızıyı tanımlamanın yollarını arar; ve, bir
+karşılaştırma standardına sahip olmadığı için,--tahmin edebileceği bir ölçek olmadığı için--tereddüt ederek
+bunun "bir tür donuk kırmızı" olduğunu söyler.
+
+(5) Bu nedenle, renk dilinin yoksulluğu onu erken yaşta sıkıştırır.
+Bu renk niteliği için hiçbir zaman uygun bir kelime verilmemiştir ve keskinin zıttını belirten bir kelime ödünç almak zorunda kalır, ki bu da
+renklere değil,
+keskin aletlere aittir.
+
++Çoğu renk terimi diğer duyulardan ödünç alınmıştır.+
+
+(6) Ablası yeşil elbisesinin "tonundan" bahsettiğinde veya
+bir resimdeki "renk tonundan" bahsettiğinde, doğal olarak kafası karışır,
+çünkü ton ve ton onun zihninde müzikle ilişkilendirilen terimlerdir. Çok geçmeden "bir renk notasının çok
+yüksek perdeden duyulduğunu" veya belli bir sanatçının "minör bir tonda resim yaptığını" duyabilir. Tüm bu terimler
+karmaşık ve belirsiz fikirlere yol açar ve onu renk niteliklerinin
+net bir şekilde ifade edilmesi için
+donanımsız bırakır.
+
+(7) Müzik sanatı o kadar da engelli değildir. Ölçülü aralıkları ve kesin terimleri olan yerleşik bir ölçeği vardır. Aynı şekilde, renkçi sanat da bir ölçek oluşturmalı, aralıklarını ölçmeli ve niteliklerini
+kesin bir şekilde adlandırmalıdır.
+
++Rengin üç boyutu vardır.+
+
+(8) Rengin üç boyutu olduğunu söylemek garip gelebilir, ancak her birinin ölçülebilmesi gerçeğiyle kolayca kanıtlanabilir. Böylece
+çocuğun solmuş şapkasının durumunda kırmızılığı veya TON[3] bir
+araç tarafından belirlenir; kırmızıdaki ışık miktarı, yani DEĞERİ[3], başka bir araç tarafından bulunur; yine de üçüncü bir araç kırmızının saflığını veya KROMA[3] değerini belirler.
+
+Bu üç nitelikten herhangi birinin ihmal edilmesi, bir rengin karakteri konusunda bizi şüphede bırakır, tıpkı uzunluk ihmal edilirse ve biz onu 22 fit genişliğinde ve 14 fit yüksekliğinde olarak tanımlarsak bu stüdyonun karakterinin tanımsız kalması gibi. Hayal gücü 25 ila 100 fit arasında istediği uzunluğu atfetmekte özgür olurdu. Bu uzunluk, eksik faktörü sağlamaya çalışan her birey tarafından farklı şekilde algılanabilir.
+
+(9) Renklerin üç boyutlu doğasını göstermek için. Bir portakalı soyduğumuzu ve beş parçaya böldüğümüzü varsayalım, bölümleri aşağıda hafifçe birbirine bağlı bırakalım (Şekil 4). Sonra, gördüğümüz tüm kırmızıların bir bölümde, tüm sarıların bir diğerinde, tüm yeşillerin üçüncüde, mavilerin dördüncüde ve morların beşincide toplandığını varsayalım. Sonra, bu TONLARI her bölümde sıralayacağız, böylece en açık olanlar en üste yakın olacak ve en koyu olanlara doğru düzenli olarak alta doğru derecelendirilecek. Beyaz bir gofret, tüm bölümleri üstte birbirine bağlar ve altına siyah bir gofret eklenebilir. Bkz. Tablo I.
+
+[Resim: Şekil 4.]
+
+[Dipnot 3: Ton, Değer ve Kroma tanımları için, bkz.
+20-23. paragraflar.]
+
+(10) Meyve daha sonra çeşitli renklerle doldurulur, DEĞERLERİNE göre beyazdan siyaha derecelendirilir ve beş bölümdeki TONLARINA göre düzenlenir. Üste yakın bir dilim, tüm tonlardaki açık değerleri ortaya çıkarır ve alta yakın bir dilim, aynı tonlardaki koyu değerleri bulur. Ortadaki bir dilim, hepsi ORTA DEĞER olan bir renk tonlarının devresini ortaya koyar; yani, beyaz ve siyahın uçlarının ortasında.
+
+(11) Turuncuda böylece iki renk boyutu gösterilir ve geriye kalan üçüncüsünü, yani KROMA'yı veya renk gücünü sergilemektir. Bunu yapmak için, sadece her bölümü sırayla ele almamız ve önceden belirlenmiş değerleri bozmadan, en griyi dar kenara doğru itmemiz ve yüzeyde en saf olana doğru dışarı doğru derecelendirmemiz gerekir. Meyvenin her bir dilimi, renk tonlarının devresini hala tek bir değerde gösterir;
+ancak güçlü kromlar dışarıdadır, daha gri ve daha gri kromlar ise merkezde nötr griye doğru bir derecelendirme yapar, burada tüm renk izleri kaybolur. Tüm bölümlerin ince kenarları, her biri hangi tonu içerirse içersin, siyahtan beyaza doğru bir gri skalasında birleşir.
+
+Her bölümün kavisli dış kısmı, siyahtan beyaza doğru derecelendirilmiş kendi özel tonunu gösterir; ve, kesit ince kenara dik açıyla kesilirse, üçüncü boyutu, yani kromayı, gösterecektir çünkü renk yüzeyden nötr griye eşit olarak derecelendirilmiştir. Herhangi bir
+noktaya saplanan bir iğne üçüncü boyutu izler.
+
+[Resim: Şekil 5.]
+
++Bir renk küresi, renk tonu, değer ve kromanın üç boyutunu birleştirmek için kullanılabilir.+
+
+(12) Renkleri sınıflandırmada turuncunun tanıdık yapısını bir yardımcı olarak kullandıktan sonra, bir küre gibi geometrik bir katıyı ikame edelim[4] ve coğrafi terimlerden faydalanalım. Kuzey kutbu beyazdır.
+Güney kutbu siyahtır. Ekvator, orta kırmızılar, sarılar, yeşiller, maviler ve morlardan oluşan bir devredir. Ekvatorun üzerindeki paraleller bu devreyi daha açık değerlerle tanımlar ve altındaki paraleller daha koyu değerlerle izler. Siyah ve beyazı birleştiren dikey eksen, gri değerlerinin nötr bir ölçeğidir; buna dik olanlar (turuncuya saplanan bir iğne gibi) ise renk skalasıdır. Bu nedenle renk kavramlarımız renk küresi tarafından düzenli bir ilişkiye getirilebilir. Herhangi bir renk, ışığını ve gücünü katıdaki veya yüzeydeki konumuyla tanımlar ve renk tonu, değer ve renk skalasındaki yeriyle adlandırılır.
+
+[Dipnot 4: Ön sayfaya bakın.]
+
++İki boyut bir rengi tanımlamada başarısız olur. +
+
+(13) Renk hakkındaki yaygın yanlış anlaşılmaların çoğu, bu üç boyutun bilinmemesinden veya iki boyutun üçün işini yapması için bir girişimden kaynaklanır.
+
+(14) Renk tonlarını ve değerleri gösteren ancak renk tonlarını tanımlamayan düz diyagramlar, dağların çıkarıldığı bir İsviçre haritası veya suyun derinliğine dair göstergeler içermeyen bir liman haritası kadar eksiktir. Ölçüm aletlerinin yardımıyla, pigmentlerin bu üçüncü boyutta, yani renk tonlarında çok eşitsiz olduğunu ve renk küresinde dağlar ve vadiler oluşturduğunu görüyoruz, böylece renk sistemi pigmentlerde işlendiğinde ve haritalandığında, bazı renkler küresel yüzeyin çok ötesine kadar izlenmelidir (paragraflar 125-127). Gerçekten de, dallarının eşit olmayan seviyeleri ve uzunluklarıyla pigment renklerinin bireyselliğini göstermek için bir RENK AĞACI[5] gereklidir. Ancak, renk ilişkilerini göstermek için hangi katı veya şekil kullanılırsa kullanılsın, renk tonu, değer ve kroma olmak üzere üç ölçeği birleştirmelidir ve bu kesin ölçekler, her renk için içsel niteliklerine dayalı ve diğer duyumlarda çalınan veya doğal nesnelerin dalgalanan renklerinden yakalanan terimlerden arınmış bir isim sağlar.
+
+[Dipnot 5: Renk Ağacı'nın tanımı için 33 ve 34. paragraflara bakın.]
+
++Bu sistemin spektrumu nasıl tanımladığı.+
+
+(15) Güneş spektrumu ve gökkuşağı, aşina olduğumuz en uyarıcı renk deneyimleridir. Bu katı sistemle tanımlanabilirler mi?
+
+(16) Spektrumun en açık kısmı, bir tarafta daha koyu kırmızıya ve diğer tarafta daha koyu yeşile dönüşen dar bir yeşilimsi sarı alandır ve ardından daha da koyu mavi ve mor gelir. Küre üzerinde bu spektral renklerin değerleri, sarı bölümün yukarısında, beyaza yakın bir yol izler ve ekvator seviyesine yakın geçilen kırmızı ve yeşil bölümler boyunca aşağı doğru eğimli bir şekilde devam eder ve mavi ve moru geçerek siyaha doğru ilerler.
+
+(17) Bu, ekvatoru zıt noktalardan geçen eğimli bir devre oluşturur ve ekliptiği veya Satürn halkalarını (dış kapağa bakın) akla getirir. Soluk bir gökkuşağı, beyaza yakın eğimli bir devreyi tanımlar ve daha sönük bir devre kürenin içine düşerken, yoğun bir şekilde parlak bir spektrum kürenin yüzeyinin çok ötesine uzanır, bu yüzden tonlarının kroması, sorunlarımızı çözdüğümüz yaygın pigmentlerden çok daha fazladır.
+
+(18) Başlangıçta, spektrumun bu sistemdeki yerini tanımak iyidir, sadece bilimsel çalışmanın yerleşik temeli olduğu için değil, özellikle de renk tonlarının varsaydığı değişmez düzenin, Doğanın bize sonsuz renk oyununda sağladığı tek sabit ipucu olması nedeniyle.
+
+(19) Tüm renk duyumlarımız renk katısına dahildir. Hiçbiri renk tonu, değer ve kroma ölçekleri tarafından dışarıda bırakılmaz. Aslında, hayal gücü şu anda sahip olduğumuzdan daha saf renkleri kavramaya ve bulmaya yönlendirilir. Bu tür artan renk duyum dereceleri isimlendirilebilir ve sistem
+anlaşılır anlaşılmaz sembollerle başka bir kişiye açıkça iletilebilir.
+
+BÖLÜM I'E EK
+
++Renk için Yanlış İsimler.+
+
+Century Dictionary, HUE, VALUE ve CHROMA'ya ilişkin net tanımları ve çapraz referanslarıyla akıllı bir renk çalışmasına yardımcı olur; bu üç niteliği birbirine karıştıran veya herhangi bir niteliğin derecesini niteliğin kendisi olarak ele alan kişiler için hiçbir mazeret bırakmaz.
+
+Bu yeni tanımlar ortaya çıkmadan önce ders kitaplarında belirsiz ifadeler sıkça kullanılıyordu. Bu nedenle "gölge" terimi yalnızca koyulaştırılmış değerlere uygulanmalı, renk tonlarına veya kromalara uygulanmamalıdır. Yine de bir yazar, "Bu sarı, yeşile dönüşüyor" der ki bu kesinlikle bir renk tonu değişikliğidir ve daha sonra, ne bir gölge ne de daha parlak bir parlaklık olan daha güçlü bir kroma ima etme niyetine rağmen "daha parlak bir gölgeden" bahseder.
+
+Çocuklara gösterilen sözde standart renkler, sarının "tonlarından" çok daha koyu olan kırmızı ve mavi "tonlarını" sunduğundan, "renk tonu ve gölge" hakkında yanlış fikirler edinirler. Bu şaşırtıcıdır ve büyükleri gibi, kısa süre sonra herhangi bir renk gücü veya renk ışığı derecesine "gölge" deme alışkanlığına kapılırlar. _Değer_, rengin göze yansıttığı ışığı tanımlamak için daha iyi bir terimdir ve tüm renk değerleri, açık veya koyu, _değer ölçeği_ ile ölçülür. 
+
+"Ton", farklı şeyler ifade etmek için kafa karıştırıcı bir şekilde kullanılır. Bu nedenle, aynı cümlede, fırçanın tek bir dokunuşuna atıfta bulunduğunu görüyoruz; bu bir ton değil, bir boya noktasıdır ve sonra "tuvalin tonu altındır" ifadesini okuruz. Bu, her boya noktasının altın rengi olduğu anlamına gelmez; ancak tasvir edilen çeşitli nesnelerin sarı bir atmosferle sarılmış gibi göründüğünü ima etmek için tasarlanmıştır. Ton, aslında, sese uygun ancak renkte yersiz olan bir müzik terimidir. Fırça dokunuşuna _renk noktası_ demek daha iyi görünüyor: o zaman tüm noktalar arasındaki uyumlu bir ilişkinin sonucu _renk zarfı_ veya Rood'da olduğu gibi "kromatik kompozisyon" olur.
+
+"Yoğunluk", eğer kroma kastediliyorsa yanıltıcı bir terimdir, çünkü spektral renk tonlarının göreceli ışığına bağlıdır. Yoğun ısı, ışık, ses ifadelerinde görüldüğü gibi bir nitelikten ziyade bir derecedir, uyaran ve tepkinin yoğunluğu. Birçok niteliğin bir derecesi olduğu için niteliğin kendisini tanımlamak için kullanılmamalıdır. Kelime, özellikle bir rengin iki çok farklı evresini tanımlamak için kullanıldığında uygunsuz hale gelir, örneğin kromanın büyük ölçüde zayıfladığı yoğun aydınlatma ve çok daha düşük bir değerde bulunan en güçlü kroma. Pigmentlerden bahsederken "Saflık"tan da kaçınılmalıdır, çünkü
+pigmentlerimizden hiçbiri spektrumun tek bir saf ışınını temsil etmez.
+
+Bu tür talihsiz terimlerin neden olduğu zihinsel bulanıklığa dair örnekler sürekli olarak bulunur ve renk tonu, değer ve kroma'nın ölçülü dereceleriyle yanlış anlama imkansız hale geldiğinden, bunların renk tonu, ton, gölge, saflık ve yoğunluğun yerini ne zaman alacağı sadece bir zaman meselesi gibi görünüyor.
+
+BÖLÜM II.
+
+RENK NİTELİKLERİ.
+
+(20) Üç renk niteliği renk tonu, değer ve kroma'dır.
+
++ TON, bir rengin adıdır.+
+
+(21) Renk tonu, bir rengi diğerinden, kırmızıyı sarıdan, yeşili, maviyi veya moru ayırt ettiğimiz niteliktir. Bu, renk tonunu adlandırır ancak açık mı koyu mu, zayıf mı yoksa güçlü mü olduğunu söylemez ve bu da değeri ve kroması konusunda şüpheye düşmemize neden olur.
+
+Bilim, bu niteliği, renk hissine neden olan retinaya çarpan eter dalgalarının UZUNLUĞUNDAKİ farka bağlar. Dalga boyu M. 5269 yeşil hissi verirken, M. 6867 kırmızı hissi verir.[6]
+
+[Dipnot 6: Mikron, Fotometre, Retina ve Kırmızı tanımları için Sözlüğe bakın, ayrıca Renk Tonu, Ton, Gölge, Değer, Renk Değişkenleri, Parlaklık ve Kroma için de.]
+
++DEĞER bir rengin ışığıdır.+
+
+(22) Değer, açık bir rengi koyu bir renkten ayırt ettiğimiz niteliktir. Renk değerleri gevşekçe tonlar ve gölgeler olarak adlandırılır, ancak terimler sıklıkla yanlış uygulanır. Bir renk tonu açık bir değer olmalı ve bir gölge daha koyu olmalıdır; ancak "gölge" kelimesi her türlü renk için genel bir terim haline gelmiştir, böylece sarı bir gölge mavi bir gölgeden daha açık olabilir. Fotometrik[7] bir değer ölçeği, tüm renkleri
+beyaz ve siyahın uç noktalarına göre konumlandırır, ancak
+tonlarını veya renklerini tanımlayamaz.
+
+Bilim, bu niteliği, retinaya çarpan eter dalgalarının YÜKSEKLİĞİ veya genliğindeki farktan kaynaklandığını açıklar. 21. paragrafta verilen dalga boylarının küçük genlikleri koyu yeşil ve koyu kırmızı hissi yaratır: daha büyük genlikler daha açık yeşil ve daha açık kırmızı hissi yaratır.
+
+[Dipnot 7: 65. paragraftaki Fotometre'ye bakın.]
+
++KROMA, bir rengin gücüdür.+
+
+(23) Renk, güçlü bir rengi zayıf bir renkten ayırt ettiğimiz niteliktir. Bir halının renginin güçlü olduğunu söylemek, renklerinin veya değerlerinin hiçbir ipucunu vermez, yalnızca renklerini verir. Renk kaybına genel olarak solma denir,
+ancak bu kelime sıklıkla değer ve renk tonu değişikliklerini de kapsayacak şekilde kullanılır. İki sonbahar yaprağı alın, renkleri aynı olsun ve birini havaya maruz bırakın, diğeri ise mumlanmış ve bir kitapta preslenmiş olsun. Kısa süre sonra, açığa çıkan yaprak nötr bir griye dönüşürken, korunan yaprak güçlü renk tonunu neredeyse bozulmadan korur. Eğer, solma sırasında yaprak renk tonunu veya değerini değiştirmezse, sadece renk tonunda bir kayıp olur, ancak solma süreci diğer iki özellikte bir miktar değişikliğe neden olma olasılığı daha yüksektir. Ancak solma bu değişiklikleri tanımlayamaz.
+
+Bilim, renk tonunu diğerlerinden ayrılmış bir dalga boyunun saflığı olarak tanımlar. Diğer dalga boyları, İÇ İÇE GEÇEN, renk tonunu daha az saf hale getirir. Bir gün ışığı huzmesi, hiçbir dalganın fazla olmaması nedeniyle beyazlık hissi verecek şekilde tüm dalga boylarını birleştirebilir.[8]
+
+[Dipnot 8: Sözlükte Beyaz tanımına bakın.]
+
+(24) Renk küresi (bkz. Şekil 1) bu üç niteliği, yani renk tonunu, değeri ve kromasını göstermek ve bunları ölçülen ölçeklerle birleştirmek için kullanışlı bir modeldir.
+
+(25) Renk küresinin kuzey kutbu beyaz, güney kutbu ise siyahtır. Renklerin değeri veya parlaklığı bu iki uç arasında değişir.
+Bu, hem değer hem de dikey için başlangıç ​​olan _V_ olarak ezberlenmesi gereken dikey ölçektir. Renk boyunca dikey hareket bu nedenle bir değer değişikliği olarak düşünülebilir, ancak renk tonu veya kroma değişikliği olarak düşünülemez. Renk tonları kürenin ekvatoru etrafında yayılır. Bu, hem renk tonu hem de yatay için başlangıç ​​olan _H_ olarak ezberlenen yatay bir
+ölçektir. Renk katısının etrafındaki yatay hareket bu nedenle bir renk tonu değişikliği olarak düşünülebilir, ancak değer veya kroma değişikliği olarak düşünülemez. Güçlü yüzey tonlarından nötr gri eksenine doğru içe doğru bir çizgi, her rengin grileşmesini izler, bu da kroma kaybıdır ve tersine, dikey eksende nötr gri ile başlayan ve kürenin dışına geçene kadar giderek daha fazla renklenen bir çizgi, kroma ölçeğidir, bu hem kroma hem de merkez için başlangıç ​​olan _C_ olarak ezberlenir. Böylece küre, üç boyutunu renk tanımına ödünç verir ve yüzeyinin içinde, dışında veya üzerinde herhangi bir yere uygulanan bir renk, renk tonu, değer ve kroma derecesine göre
+yerleştirilir ve adlandırılır.
+
+[Resim: Şekil 1.]
+
++HUE'lar önce çocuğa hitap eder, sonra VALUE'lar ve en son CHROMA'lar.+
+
+(26) Renk eğitimi, kırmızı, sarı, yeşil, mavi ve mor gibi belirli tonları tanıma ve adlandırma yeteneğiyle başlar (182 ve 183. paragraflara bakın). Doğa bu tonları, bir karşılaştırma standardı olmadığı sürece, bir kişinin bunları bir başkasına akıllıca tanımlamasının imkansız olduğu,
+değer ve renk çeşitliliğiyle bir arada sunar.
+
+(27) Güneş spektrumu, teknik okullarda öğretilen bilimsel renk analizi için bir temel oluşturur; ancak bir çocuğun
+anlayışının oldukça ötesindedir. Renk kavramlarını eğitmek için daha somut ve sürekli göz önünde olan bir şeye ihtiyacı vardır. Renkleri ele alması, onları karşılaştırma için yan yana koyması, algının gelişimini test etmek için onları boya kalemleri, boyalar ve renkli şeylerle taklit etmesi ve her birini kendi renk tonu, değeri ve renk yoğunluğuyla tanımlamayı basit ama doğru terimlerle öğrenmesi gerekir.
+
+(28) Güneş spektrumundan ziyade pigmentler, renk çalışmasının pratik aracılarıdır. Bunlardan bazıları, bu sistemle seçilip
+ölçüldüğünde
+(Bölüm V'e bakın), ORTA RENKLER olarak bilinecektir, çünkü
+değer ve renk yoğunluğu ölçeklerinde ortada yer alırlar. Bu orta renkler, bozulmaz emayelerde korunur[9], böylece çocuk bunları hafızasında tutabilir ve sabitleyebilir ve böylece tüm renk derecelerini karşılaştırmak için kalıcı bir temel elde edebilir. Her orta rengi, değer ve renk doygunluğunun uçlarına göre derecelendirmeyi öğrenir.
+
+[Dipnot 9: İlk kez tanındığında, orta yeşil, mavi veya mor, çoğu kişi tarafından renk alışkanlıkları dahilinde kabul edilir, ancak orta kırmızı ve orta sarı biraz şok yaratır. "Bu kırmızı değil," derler, "pişmiş toprak." "Sarı mı?" "Ah, hayır, bu--yani, çok tuhaf bir
+ton. "
+Ancak bunlar kesinlikle kırmızı ve sarının orta dereceleridir, tıpkı yeşil, mavi ve morun daha tanıdık dereceleri gibi. Bu, kişisel kapris yerine fiziksel renk testlerini kabul ettiğiniz anda belirginleşir. Ayrıca zihni, genellikle göz ardı edilen bir gerçeğe, yani orta kırmızı ve sarıların, bir çocuğa ilk verilen çığlık atan kırmızı ve sarı yerine, sürekli olarak zengin ve güzel renk örneklerinde, örneğin Fars halılarında, Japon baskılarında ve resim şaheserlerinde bulunduğu gerçeğine açar.]
+
+(29) Boya kalemleri ve boyalarla yapılan deneyler ve orta renkleri eşleştirme çabaları, renk duyusunu daha ince algılara eğitir. Renkleri adlandırmayı öğrendikten sonra, bunları orta değerdeki emayelerle karşılaştırır ve ne kadar açık veya koyu olduklarını tarif edebilir. Daha sonra, güçlerindeki
+farklılıkları algılar ve bunları orta kromadaki emayelerle karşılaştırarak ne kadar zayıf veya güçlü olduklarını tarif edebilir. Böylece, bu orta renklerin tüm renk
+tahminleri belirginleşir; ve daha ileri bir aşamada
+dekoratif rengin en iyi örneklerini incelediğinde, onlarla
+Doğu sanatının en güzel ürünlerinde tekrar karşılaşacaktır.
+
++Sonsuz renk çeşitliliğini tanımlamak mümkün müdür?+
+
+(30) İlk bakışta her tür ve renk derecesini adlandırmaya çalışmak neredeyse umutsuz görünebilir. Ancak, eğer bu çeşitlerin hepsi aynı üç niteliğe sahipse, sadece farklı derecelerde ve eğer her nitelik
+bir ölçekle ölçülebiliyorsa, o zaman bu labirent için bir ipucu vardır.
+
++Renk küresi ve renk ağacı, renk tonunu, değeri ve kromayı birleştirmek için.+
+
+(31) Bu ipucu, bu üç niteliğin bir _renk küresi ve renk ağacı_ içindeki
+ölçülü ölçeklerle birleşmesinde bulunur.[10] Kürenin ekvatoru[11] on parçaya bölünebilir ve R, YR, Y, GY, G, BG, B, PB, P ve RP olarak işaretlenen
+renk tonu ölçeği olarak hizmet eder. Dikey ekseni, siyahtan (0) beyaza (10) numaralandırılmış değer ölçeği olarak hizmet etmek üzere on parçaya bölünebilir. Nötr eksene dik olan herhangi bir
+renk tonu ölçeğidir. Ekvator düzleminde bu ölçek merkezden yüzeye doğru 1, 2, 3, 4, 5 olarak numaralandırılır.
+
+[Resim: Şekil 3.]
+
+[Dipnot 10: 14. paragraftaki Renk Ağacı'na bakın.]
+
+[Dipnot 11: Küresel düzenlemenin yıllar önce kullanıldığının farkında olmadan, 1879'da resim öğrencisiyken renkleri sınıflandırmak için çift tetrahedron tasarladım. Şimdi, kürenin 1810'da Runge tarafından
+tanımlanmış olması nedeniyle psikologlar arasında ortak bir özellik olduğu anlaşılıyor. Daha önce, Lambert piramitsel bir form önermişti. Her ikisi de kırmızı, sarı ve mavinin birincil duyumlar olduğu ve ayrıca bu tonları adil bir parlaklık ölçeğine
+yerleştirmede başarısız olduğu şeklindeki hatalı varsayıma dayanmaktadır. Dönen renk katım ve mevcut modeldeki daha tamamlanmış gelişimi, renk değeri için sanatsal duyguyu her zaman öne çıkarmıştır. Bu ve diğer şekillerde önceki sistemlerden farklıdır ve
+renk tonu, değer ve renk doygunluğunun derecesini ölçmek için yeni bir cihaza sahip olduğu için şanslıdır.]
+
+(32) Bu renk skalası herhangi bir değer seviyesine yükseltilebilir veya düşürülebilir,
+her zaman eksene dik kalır ve her değer seviyesindeki her renk tonunun renk doygunluğunu ölçmeye yarar. Bazı renklerin diğerlerini o kadar aştığı gerçeği
+ölçüm aletleriyle kanıtlanmıştır, ancak bu gerçek birçok kişi için
+yenidir. (Şekil 2 ve 3.)
+
+[Resim: Şekil 2. (Bkz. Şekil 20) Renk Ağacı]
+
+(33) Bu nedenle RENK AĞACI küreden daha eksiksiz bir modeldir, ancak ikincisinin basitliği onu bir çocuğun
+anlaması için en iyi hale getirir.
+
+(34) Renk ağacı, gövde için bir değer ölçeği taşıyan kürenin dikey ekseni alınarak yapılır. Dallar gövdeye diktir; ve kürede olduğu gibi, renk ölçeğini taşırlar. Dallardaki renkli toplar, renk tonlarını söyler. Rengin MAKSİMUMUNU göstermek için, her dal gövdeye (veya nötr eksene) değerinin gerektirdiği bir seviyede bağlanır; en üstte beyaza en yakın sarı, sonra yeşil, kırmızı, mavi ve mor dallar, daha düşük değerlerine göre siyaha yaklaşır. Kürenin kromasının ekvatorda 5 ile sona erdiği hatırlanacaktır. Renk ağacı bunu 6, 7, 8 ve 9'a kadar uzatır. Dal uçları, şu anda sahip olduğumuz en güçlü kırmızı, sarı, yeşil, mavi ve mor pigmentleri temsil eden renkli toplar taşır ve daha güçlü kromalar keşfedilirse uzatılabilir.[12]
+
+[Dipnot 12: Bkz. Levha I.]
+
+(35) Bu tür modeller renk ilişkilerinin kalıcı bir görüntüsünü oluşturur. Her nokta, renk tonu, değer ve kromanın birleşik ölçeklerindeki yeriyle kendini tanımlar. Bu ölçekler, çocuğun zihnindeki her yeni renk algısını renk katısındaki durumuyla sabitler. Böylesine kesin bir görüntünün önemi abartılamaz, çünkü onsuz bir renk
+duyumu diğerini yok etme eğilimindedir. Çocuk bir renge baktığında ve
+bir karşılaştırma temeli olmadığında, kısa sürede tarif edilemeyen belirsiz bir hafıza bırakır. Bu modeller, tam tersine, her rengin tonu, değeri ve renk yoğunluğu açısından akıllıca bir tahminine yol açar;
+kalıcı emayeler ise herhangi bir kişisel önyargıyı kesin bir
+standartla düzeltir.
+
+(36) Bu şekilde tanımlanan bir renk, sistemdeki diğer tüm renklerle mantıksal bir ilişkiye girer ve kolayca ezberlenir, böylece görüntüsü notasyonla herhangi bir zaman veya yer mesafesinden hatırlanabilir.
+
+(37) Bu katı modeller renkleri ezberlemeye ve birleştirmeye yardımcı olur ve hafıza, her rengi kaydeden ve böylece başka hiçbir renkle karıştırılamayan basit bir NOTASYON ile daha da güçlenir. Bu yazılı
+ölçekler sayesinde çocuk içgüdüsel bir ilişki tahmini kazanır, böylece yeni bir renk kombinasyonundan hoşlandığında oranları not edilir ve anlaşılır.
+
+(38) Müzik sanatı uzun zamandır kesin bir ölçek ve notasyonun avantajlarından yararlanmıştır. Renklendirme sanatı da benzer bir tanımla kazanmamalı mıdır?
+Müzik ölçeği kişisel kaprislere bırakılmaz ve günden güne değişmez; ve bu kadar net ve istikrarlı bir şey renk duyusunu eğitmede bir avantaj olurdu.
+
+(39) Renk algısı ilk başta kaba bir şekilde gerçekleşir. Çocuk sadece en belirgin ayrımları görür ve en güçlü uyarımı tercih eder. Ancak
+algı egzersizle kısa sürede rafine hale gelir ve bir çocuk doğanın ince renklerini boyalarla taklit etmeye çalıştığında en güçlü renklerin en güzel renkler olmadığını, aksine müzikteki ılımlı seslere benzetilebilecek yumuşatılmış renkler olduğunu fark etmeye başlar. Bu yumuşatılmış renkleri tanımlamak için, renk tonlarını, değerlerini ve kromalarını tahmin etmeli ve kopyasının doğal renkten ne ölçüde uzaklaştığını tanımlayabilmelidir. Ve doğal rengin algılanması ve taklit edilmesindeki bu kazanımla, hayal gücünü memnun edecek kombinasyonlar icat etme konusunda güçlü bir istek duyar. Böylece çalışma, tanıma, taklit ve icat olarak adlandırılabilecek üç ilişkili tutuma ayrılır. Rengin tanınması temeldir, ancak yalnızca rengin tanınmasını eğitmek için bir veya iki yıl resmi ve kuru egzersizler yapmak sıkıcı olacaktır; çünkü rengin tanınmasındaki her adım, taklit ve düzenleme egzersizleriyle en iyi şekilde test edilir. Algı daha keskin hale geldiğinde, sanatta ve doğada bulunan renklerin taklidine vurgu yapılabilir ve son olarak tasarım için renklerin seçimi ve gruplandırılmasına odaklanılabilir.[13]
+
+[Dipnot 13: Ders Programı, Bölüm II'ye bakın.]
+
++Her renk, HUE, VALUE ve CHROMA'sına göre tanınabilir, adlandırılabilir, eşleştirilebilir, taklit edilebilir ve yazılabilir.+
+
+(40) Bu sistemde kullanılan notasyon, Hue'yu (bir baş harfle ifade edilir) sola; Value'yu (bir sayıyla ifade edilir) sağa ve
+bir çizginin üstüne; ve Chroma'yı (yine bir sayıyla ifade edilir) sağa,
+çizginin altına yerleştirir. Bu nedenle R 5/9, HUE (kırmızı), VALUE (5)/CHROMA (9) anlamına gelir ve
+vermilion pigmentinin niteliklerini temsil ettiği görülecektir. [14]
+
+[Dipnot 14: VI. Bölüme bakın.]
+
+Her renk duyusunda renk tonu, değer ve kroma birleşir, ancak çocuk
+hepsini birden kavrayamaz. _Önce renk tonu farkı ona çekici gelir_ ve
+ORTA RENKLERİN emayelerinden beş temel renk tonu hakkında kalıcı bir fikir edinir,
+bunları adlandırmayı, eşleştirmeyi, taklit etmeyi ve
+son olarak baş harfleriyle yazmayı öğrenir: R (kırmızı), Y (sarı), G (yeşil), B (mavi) ve P
+(mor). Ardışık çiftlerin birleştirilmesiyle oluşan ara renkler de
+birleştirilmiş baş harflerle yazılır, YR (sarı-kırmızı), GY (yeşil-sarı), BG
+(mavi-yeşil), PB (mor-mavi) ve RP (kırmızı-mor).
+
+(41) On renk tonu farkı, bir çocuğun başlangıçta gösterebileceği kadar çoktur, ancak bunları eşleştirip taklit ederken, açık ve koyu niteliklerinin farkına varır ve bunları renk tonundan _değer farkı_ olarak ayırmayı öğrenir. Bu ismin ima ettiği gibi, orta renkler, beyaz ve siyahın ortasında durur, yani kürenin ekvatorunda, böylece ortadaki kırmızı R 5/ olarak yazılır ve ekvatorun üstünde olan 6, 7, 8 ve 9 adımlarını, 4, 3, 2 ve 1 adımları ise aşağıdadır. İlk başta bir rengin yalnızca üç değerini göstermek iyidir; örneğin,
+orta değer açık ve koyu bir değerle karşılaştırılır. Bunlar R 3/, R 5/, R 7/ olarak yazılır. Kısa süre sonra daha ince farklılıkları algılar ve taklit edebilir ve kırmızı ölçek R 1/, R 2/, R 3/, R 4/, R 5/, R 6/, R 7/, R 8/, R 9/ şeklinde yazılabilir, siyah 0 ve beyaz 10 olarak.
+
+(42) _Kroma farkı üçüncü ve en ince renk niteliğidir.
+Çocuk, ORTA RENK minelerini her zaman göz önünde bulundurarak, kırmızının orta kromasına zaten bilinçsizce aşinadır ve kırmızı
+mine, elde edilebilen en güçlü ve en zayıf kırmızı kromalarla
+karşılaştırılmalıdır. Bunları R /1, R /5, R /9 olarak yazar, çünkü bu kırmızının kromalarını tanımlar, ancak değerlerini dışarıda bırakır. R 5/1, R 5/5, R 5/9, hem renk tonu hem de değer değişmeden kalırken, kromanın gri kırmızıdan orta kırmızıya (ilk öğrenilen mine) ve vermilyonla elde edilen kroma skalasında en güçlü kırmızıya geçtiğini gösteren tam ifadedir.
+
+(43) Kromanın araya giren adımlarını taklit edebilmesi uzun sürebilir, birçok çocuk kroma skalasının beşten fazla adımını ifade etmekte zorluk çekerken, değerin on adımını ve renk tonunun yirmi ila otuz beş adımını kolayca ifade edebilir. Bu ilginç özellik psikolojik değere sahiptir ve renk ağacında ve renk küresinde izlenmiştir.
+
++Böyle bir bilimsel şema, güzelliğin hissi ve kişisel ifadesi için herhangi bir çıkış noktası bırakır mı?+
+
+(44) Renk çalışmasındaki bu kesin tutum, kullanılan özgür ve neredeyse kaotik yöntemlerle karşılaştırıldığında sanatsal görünmemesi için, şu ana kadar ana hatları çizilen aşamanın açıkça disiplinsel olduğunu söyleyelim. Biraz
+kuru ve çirkindir, tıpkı erken müzik eğitiminin
+yaratıcı egzersizler olmadan yorucu olması gibi. Çocuk her adımda
+hayal gücünü çalıştırmaya teşvik edilmelidir.
+
+(45) Doğaya bakış açısını daraltmak yerine,
+renk kavrayışını genişletir ve hafızayı daha ince farklılıklarla depolar, renksel güzellik duygusunu ifade etmek için daha fazla
+malzeme sağlar.
+
+(46) Şimdi ele alındığı şekliyle renk uyumu, tamamen kişisel bir meseledir,
+herhangi bir açık ilkeye veya kesin yasaya atıfta bulunmak zordur.
+İfade etmeye çalıştığı terimler müzikten ödünç alınmıştır ve
+sınandığında başarısız olan belirsiz benzetmeler önerir. Renk, renk duyumlarımızın uyumu veya uyumsuzluğu hakkında bir analiz yapabilmemiz için niteliklerine uygun yeni bir ifade edici terim kümesine ihtiyaç duyar.
+
+(47) Bu ihtiyaç, mevcut sistemde ölçülü TABLOLAR ve
+BİR NOTASYON ile karşılanmaktadır. Yapıları, bir sonraki bölümde gösterileceği gibi, _renklerin dengesini_ korurken, uyum hakkındaki bölüm
+(Bölüm VII.) uyumlu renk çiftlerinin ve üçlülerinin ölçülü aralıklarla MASKELER kullanılarak nasıl bulunabileceğini gösterir. Aslında,
+grafiklerin kullanımındaki pratik, hayal gücüne, müzisyenin uyum duygusunu başkalarına ilettiği ses aralıkları kadar kesin ve kolayca yazılabilen renk gamları ve dizileri sağlar. Ve,
+her ne kadar hiçbir sanatta eğitim tek başına sanatçıyı oluşturamasa da,
+bu biçimsel gamların teknik olarak kavranması, enstrümanın tüm aralığıyla tanışmayı sağlar ve sanatsal ifade için vazgeçilmezdir.
+Bu renk gamlarından her birey, renk uyumuna ilişkin hissine göre kombinasyonlar seçmekte özgürdür.
+
+Önceki sayfalarda izlenen renk çalışması seyrinin bir taslağını çıkaralım.[15]
+
+[Dipnot 15: _Bkz._ Bölüm II., Bir Renk Sistemi ve Çalışma
+Ders Kitabı.]
+
++RENK ALGILAMASI.+
+
+(48) _Ton farkı._
+
+Orta tonlar (5 ana).
+Orta tonlar (5 ara).
+Orta tonlar (10'u, TON SKALA'sı olarak sıralanmıştır).
+
+_Değer farkı._
+
+Açık, orta ve koyu değerler (renk tonunda değişiklik olmadan).
+Açık, orta ve koyu değerler (5 ana renk tonuyla izlenir).
+Her renk tonuyla izlenen 10 değer. DEĞER ÖLÇEĞİ. _Renk Küresi_.
+
+_Kroma farkı._
+
+Güçlü, orta ve zayıf kroma (renk tonunda değişiklik olmadan).
+Güçlü, orta ve zayıf kroma (renk tonunda değişiklik olmadan üç değerle izlenir).
+Güçlü, orta ve zayıf kroma (üç değer ve on renk tonuyla izlenir).
+Rengin maksimumları ve beyaz, siyah ve griye geçişleri.
+_Renk Ağacı._
+
++Renk İFADESİ.+
+
+(49) Renk tonlarının _eşleştirilmesi ve taklit edilmesi_ (malzemeler, boya kalemleri ve
+boyalar kullanılarak).
+
+_Değerlerin ve renk tonlarının eşleştirilmesi ve taklidi (malzemeler, boya kalemleri ve boyalar kullanılarak).
+
+_Kromaların, değerlerin ve renk tonlarının eşleştirilmesi ve taklidi (malzemeler, boya kalemleri ve boyalar kullanılarak).
+
+_Renk notasyonu._
+
+Değer V
+Renk Tonu ------ , H - ,
+Renk Tonu C
+
+Renk tonu için başlangıç, değer için üstteki rakam, renk tonu için alttaki rakam.
+
+_Renk dizileri._
+
+Renk tonu ve değer veya renk tonu ve değer olarak birleştirilmiş iki ölçek.
+
+Üç ölçek birleştirilmiş, her adım renk tonu, değer ve renk tonunda bir değişiklik.
+
+_Renk dengesi._
+
+Eşit değer ve renk tonunun zıtları (R 5/5 ve BG 5/5).
+Eşit değer ve eşit olmayan renk tonunun zıtları (R 5/9 ve BG 5/3). Değer ve renk açısından eşit olmayan zıtlıklar (R 7/3 ve BG 3/7).
+Denge unsuru olarak ALAN.
+
++Renk UYUMU.+
+
+(50) Haz veren _renklerin seçimi_.
+
+NOTASYON ile kaydedilen kelebek kanatları ve çiçeklerinin incelenmesi.
+NOTASYON ile kaydedilen boyalı süs, halı ve mozaiklerin incelenmesi.
+H, V, C ve alan ile dengelenmiş kişisel renk ÇİFTLERİ seçimi.
+H, V, C ve alan ile dengelenmiş kişisel renk ÜÇLÜLERİ seçimi.
+
+Bazı pratik kullanımlara uyması için _renklerin gruplandırılması_: duvar kağıtları, halılar,
+kitap kapakları, vb.
+
+Bunların yazılı notasyon ile analizi.
+Ölçülü terimlerle ifade edilen uyum ilkelerinin aranması.
+
++Sunum detaylarında özgürlükle birlikte kesin bir renk çalışması planı.[16]+
+
+[Dipnot 16: Bölüm II'de her sınıfa atanan Renk Çalışmasına bakın.]
+
+(51) Çalışmanın bu geniş bölümlerini ezberledikten sonra, akıllı bir öğretmen, sınıfın ruh halini karşılamak için birçok ayrıntıyı tanıtacak veya bu konuyu diğer çalışmalarla ilişkilendirecek, bir an bile düşünce akışını kaybetmeden veya sunumu bulandırmadan. Ancak, plan veya kesin bir amaç olmadan, uçsuz bucaksız renk duyumları alanında rastgele dolaşmak, yalnızca retinanın yorgunluğuna ve kaotik bir zihin durumuna neden olur.
+
+(52) Diğer fikirlerin sunumunu yöneten aynı geniş ilkeler, bu çalışmada da aynı güçle uygulanır. İyi kavranmış az bir şey, sindirilmemiş bir yığın gerçek
+ten daha iyidir. Çocuk renk hakkında yeni şeyler keşfetmeye veya en azından keşfettiğini düşünmeye yönlendirilirse, zihin uyanık tutulacak ve her adımda yeni örnekler arayacaktır. Arada sırada, hem öğretmeni hem de sınıfı renklerin _sezgisel_ takdiriyle yönlendiren bir öğrenci bulunur ve böyle bir doğanın resmi egzersizlerle ne kadar yardım edilebileceği veya zarar görebileceği ince bir sorudur. Ancak böyle bir istisna nadirdir ve renk duyusunun sistematik disiplininin çoğu çocuk için gerekli olduğunu kanıtlar. 
+(53) Açık hava doğası ve kapalı ortamlar sonsuz renk çizimleri sunar. Kuşlar, çiçekler, mineraller ve günlük kullanımdaki nesneler, çeşitli renkleri bilinçli bir ilişkiye getirildiğinde ve açıkça adlandırıldığında yeni bir ilgi kazanır. Bu renk duyusu gibi üç boyutlu bir algı, yetenekli bir eğitim gerektirir ve her ders uygulanabilir son noktaya kadar basitleştirilmelidir. Çok uzun olmamalı ve bir çocuğun kavrayabileceği ve tolere edilebilir bir doğrulukla ifade edebileceği kesin bir sonuca yol açmalıdır. Zorluklarına ise başarısızlıktan veya cesaret kırılmasından kaçınmak için kolay aşamalarla yaklaşılmalıdır. Mevcut çabanın başarısı, daha fazla başarı için en iyi teşviktir.
+
+BÖLÜM II'YE EK.
+
+TABLO I.
+
+ÖLÇÜLMÜŞ TON, DEĞER VE KROMA SKALALARINA SAHİP RENK KÜRESİ.
+
+İlkokul öğretmeni, çocuğun ilgisi Tablo II ve III'te gösterilen alıştırmalarla ihtiyaca uyandığı anda bu yumuşatılmış renk
+skalalarını tanıtır. Böylece Ton skalası ikinci yılın sonundan önce, Değer skalası sonraki iki yıl boyunca ve Kroma skalası beşinci yılda öğrenilir. Bir çocuk on yaşına geldiğinde bu kesin renk skalaları onun zihinsel donanımının bir parçası haline gelir, böylece herhangi bir renk grubunu adlandırabilir, yazabilir ve ezberleyebilir.
+
+1. _İskeletteki Renk Küresi._ Bu diyagram ekvatordaki orta renkleri, güçlü kırmızı, sarı, yeşil, mavi ve morla, her biri değer ölçeğinde uygun seviyede ve kroma ölçeğine göre yansıtılmış olarak gösterir. Bu ölçeklerin tam açıklamasını Bölüm II'de bulabilirsiniz.
+
+2. _Renk Puanı._ Renk küresinden alınan on beş tipik adım burada düz bir alana yayılmıştır. BEŞ ORTA RENK, aynı renk tonlarının daha açık bir değerde yukarıda ve daha koyu bir değerde aşağıda olduğu
+orta seviyeyi oluşturur. Bölüm VI. bu Puanın yapımını ve renklerin analiz edilmesinde ve gruplarının yazılı bir kaydının tutulmasında kullanımını açıklar.
+
+3. _Değer Ölçeği ve Krom Ölçeği._ Beş renk maksimumunun her biri böylece ışık ölçeğinde uygun seviyesinde gösterilir ve
+en güçlü kromasından kürenin eksenindeki nötrlüğe kadar tekdüze adımlarla derecelendirilir. Pigment eşitsizlikleri burada çok belirgin hale gelir.
+
+[Resim: TABLO I.
+Telif Hakkı 1907 A. H. Munsell'e aittir.]
+
+TABLO II. VE III. İÇİN,
+
+BÖLÜM IV'ÜN EKİNE BAKINIZ,
+ÇOCUKLARIN RENK ÇALIŞMALARI.
+
+BÖLÜM III.
+
+RENK KARIŞIMI VE DENGESİ.
+
++Elde tutulan tüm renkler.+
+
+[Resim: Şekil 6.]
+
+(54) Son bölümde verilen renklerin adlarını ve sırasını, bir kürede üç nitelik olan
+TON, DEĞER ve KROMA ile bir araya gelmeleriyle birlikte hatırlayalım. Sol elin baş parmağını KIRMIZI, işaret parmağını SARI, orta parmağı YEŞİL, yüzük parmağını MAVİ ve serçe parmağını MOR olarak adlandırmak hafızaya yardımcı olacaktır (Şekil 6). Parmak uçları bir daire içinde olduğunda, ne başlangıcı ne de sonu olan bir renk devresi temsil eder, çünkü herhangi bir parmakla başlayıp bir diziyi ileri veya geri izleyebiliriz. Şimdi uçları beyaz için birleştirin ve beş güçlü renk tonunun eklemlere doğru kaydığını ve burada Renk Küresinin ekvatorunu temsil ettiğini hayal edin. Bileğin daha aşağısında siyah vardır. (55) Böylece el, parmak uçlarında beyaz, bilekte siyah, dışarıda güçlü renkler ve çukurda daha zayıf renklerle bir renk tutucu haline gelir. Her parmak kendi renginin bir skalasıdır, üstte beyaz ve altta siyah vardır, tüm renk tonlarının grileşmesi ise elin ortasında birleşen hayali çizgilerle izlenir. Böylece bir çocuğun eli renk küresinin yerine geçebilir ve ayrıca ona dış renklerin daha gri dereceleriyle dolu olduğunu ve hepsinin merkezde griye dönüştüğünü fark ettirebilir.
+
++Komşu ve zıt tonlar; ve bunların karışımı.+
+
+(56) Bu dairenin (Şekil 7) renk küresinin ekvatorunu temsil ettiğini varsayalım
+
+beş ana renk tonu (baş harfleri R, Y, G, B ve P ile yazılır) eşit aralıklarla etrafına yerleştirilmiştir. Bazı renkler komşudur, örneğin kırmızı ve sarı, diğerleri ise zıttır. Bir çocuk boyalarla deney yapar yapmaz, bunları karıştırarak elde edilen farklı sonuçları fark edecektir.
+
+[Resim: Şekil 7.]
+
+Öncelikle, komşular, yani yan yana duran herhangi bir çift, örneğin kırmızı ve sarı, her ikisinin de bir çağrışımını koruyan bir renk tonu oluşturmak için birleşecektir. Kırmızı ve sarı arasında _ara_ bir renktir ve biz buna
+SARI-KIRMIZI diyoruz.[17]
+
+(57) Yeşil ve sarı birleşerek YEŞİL-SARI'yı, mavi ve yeşil MAVİ-YEŞİL'i oluşturur ve bu her bir sonraki çiftle devam eder. Bu ara renkler baş harfleriyle yazılmalı ve ana renk tonlarının arasına uygun yerlerine yerleştirilmelidir. Sanki bir turuncu (paragraf 9) beş yerine on sektöre bölünmüş ve kırmızı, sarı, yeşil, mavi ve mor alternatif sektörler olarak ayrılmışken, her bir bitişik renk çiftinin yarısı birleşerek aralarındaki sektörü oluşturmuş gibidir. Beş renk tonunun orijinal düzeni hiçbir şekilde bozulmaz, ancak beş ara adımla birbirine bağlanır.
+
+(58) Her bir çiftin karıştırılmasıyla elde edilen ara renklerin bir tablosu şöyledir:--
+
+Kırmızı ve sarı birleşerek sarı-kırmızıyı (YR) oluşturur ve halk arasında
+turuncu olarak adlandırılır.[17]
+Sarı ve yeşil birleşerek yeşil-sarı (GY) oluşturur, buna halk arasında çimen yeşili denir. Yeşil ve mavi birleşerek mavi-yeşil (BG) oluşturur, buna halk arasında tavus kuşu mavisi denir. Mavi ve mor birleşerek mor-mavi (PB) oluşturur, buna halk arasında menekşe denir. Mor ve kırmızı birleşerek kırmızı-mor (RP) oluşturur, buna halk arasında erik denir.
+
+Renkleri tutmak için tekrar sol el kullanılır, eklemlerde ana tonlar değişmeden kalır, ancak aralarındaki boşluklara ara tonlar yerleştirilir, böylece daire şimdi şu şekilde okunur: kırmızı, sarı-kırmızı,
+sarı, yeşil-sarı, yeşil, mavi-yeşil, mavi, mor-mavi, mor ve
+kırmızı-mor, başladığımız kırmızıya geri döner. Bu devre
+kolayca _ezberlenebilir_, böylece çocuk herhangi bir renk noktasıyla başlayabilir ve seriyi saat yönünde (yani soldan sağa) veya
+ters sırada tekrarlayabilir.
+
+[Dipnot 17: Turuncu, sarı ve kırmızının değişken birleşimidir. Bkz.
+Ek.]
+
+(59) Her ana renk tonu, her iki taraftaki en yakın ana renk tonuyla karışarak iki yakın komşu oluşturmuştur. Kırmızının komşuları bir tarafta sarı-kırmızı, diğer tarafta mor-kırmızıdır. Yeşilin komşuları bir tarafta yeşil-sarı, diğer tarafta mavi-yeşildir. Bu on renk tonundan oluşan çemberdeki her ardışık çifti tekrar karıştırarak daha da yakın bir komşu oluşturulabileceği açıktır; ve eğer süreç yeterince uzun süre devam ederse, renk adımları o kadar ince olur ki
+göz sadece birbirine fark edilmeden eriyen bir renk tonu devresi görebilir.
+
+(60) Ancak çocuğun pigmentleri karıştırmaya çalışmadan önce kırmızı, sarı, yeşil, mavi ve morun ara renkleriyle birlikte sabit bir fikrini edinmesi daha iyidir ve bu on adım ilköğretim için yeterlidir.
+
+(61) Sırada bu çemberdeki zıtlıklar sorusu var. Kırmızıdan merkeze doğru çizilen bir çizgi, karşıtını, mavi-yeşili bulur.[18] Bu renkler
+karıştırılırsa, gri oluşturmak için birleşirler. Gerçekten de, dairenin merkezi, yalnızca siyah ve beyaz arasındaki nötr eksenin merkezi olduğu için değil, aynı zamanda herhangi bir
+karşıt çiftin gri oluşturmak için birleşeceği için ortadaki griyi temsil eder.
+
+[Dipnot 18: Yeşil, genellikle kırmızının karşıtı olarak yanlış atanır.
+Ek'e, Yanlış Renk Dengesi'ne bakın. ]
+
+(62) Bu, nötr gri oluşturan beş karışımın bir tablosudur:
+
+{ Kırmızı ve Mavi-yeşil }
+{ Sarı Mor-mavi }
+
+Zıtlar { Yeşil Kırmızı-mor } Her bir çift nötr gride birleşir
+{ Mavi Sarı-kırmızı }
+
+{ Mor Yeşil-sarı }
+
+(63) Ancak, bu zıt tonları karıştırmak yerine yan yana koyarsak, göz farklılıklarından o kadar etkilenir ki her biri güç kazanır gibi görünür; _yani_, her biri ayrıyken diğerini _güçlendirir_, ancak
+karıştırıldığında diğerini _yok eder_. Bu, Bölüm V,
+paragraf 106'daki bir renk çarkının yardımıyla daha ayrıntılı olarak gösterilecek çok ilginç bir noktadır. Hatırlamamız gereken şey, komşu tonların karışımının onları göz için daha az uyarıcı hale getirmesidir, çünkü birbirlerine benzerler, zıt tonların karışımı ise her ikisini de nötr bir gride söndürür.
+
++Çıkarıldığında tonlar ve bunların karışımı.+
+
+[Resim: Şekil 8.]
+
+(64) Geriye şu soru kalıyor: İki komşuyu veya iki zıttı değil de, kırmızı ve yeşil gibi _çemberden çıkarıldığında bir çift tonu_ karıştırırsak ne olur? Bu çifti birleştiren bir çizgi nötr merkezden geçmez, sarıya daha yakın bir taraftan geçer, bu da bu karışımın nötr gri ve sarı arasında olduğunu ve her ikisinden de biraz aldığını gösterir. Aynı şekilde sarı ve maviyi birleştiren bir çizgi de karışımlarının hem yeşil hem de gri içerdiğini gösterir. Gerçekten de, devredeki herhangi iki rengi birleştiren bir çizginin bunların birleşimini tanımladığı söylenebilir.
+Bu çizgiyi geçen bir yarıçap, çevredeki bir tona geçer ve ilk çizgiyle kesiştiği noktada iki orijinal rengin karışımıyla oluşan rengin kromasını tanımlar.
+
+Kırmızı ve Yeşil, Sarı-griyi oluşturur }
+Sarı Mavi Yeşil-gri } Her çift, zayıf kromanın ara tonu olan _renkli_
+Yeşil Mor Mavi-gri } gride birleşir.
+Mor Sarı Kırmızı-gri }
+
++ Beyaz ve siyahın karışımı: bir griler skalası.+
+
+(65) Şimdiye kadar sadece ekvator düzlemini, on adımda orta tonların çemberini düşündük ve bunları birleştiren çizgiler çizerek karışımlarını inceledik. Şimdi nötr merkezden başlayalım ve
+yukarı beyaza ve aşağı siyaha doğru düşünelim (Şekil 9.)
+
+[Resim: Şekil 9.]
+
+Bu dikey çizgi, ışık ve karanlığın zıtlıklarını temsil eden beyaz ve siyahın kutuplarını birleştiren _nötr eksen_ 'dir. Orta gri
+ortadadır. Siyah 0 olarak adlandırılırsa ve beyaz 10 ise, o zaman orta nokta 5'tir, yukarıda 6, 7, 8 ve 9, aşağıda ise 4, 3, 2 ve 1 vardır, böylece siyahtan beyaza doğru dikey bir gri ölçeği oluşturulur (Bölüm II, paragraf 25).
+
+Kişisel tercihe bırakılırsa, orta değer tahmini, bunu yapmaya çalışan her bir kişiyle değişecektir. Bu, okullar için halihazırda yayınlanmış olan nötr ölçeklerde görünür ve bunlara bağlı olan öğrenciler, orta gri seçiminde %10'dan fazla bir değişiklik keşfederler. Bu DEĞER ÖLÇEĞİ tüm renk çalışmalarının temelini oluşturduğundan, ses, uzunluk, ağırlık veya sıcaklık ölçeklerinde olduğu gibi bilimsel yollarla doğru bir şekilde ayarlanması gerekir.
+
+FOTOMETRE (_fotoğraf_, ışık ve _metre_, bir ölçü)[19] bir sonraki sayfada gösterilmektedir. Gözün herhangi bir kaynaktan aldığı ışığın göreceli miktarını ölçer ve böylece herhangi bir sayıda düzenli adımla bir ölçek oluşturmamızı sağlar. Etki ettiği prensip çok basittir.
+
+[Dipnot 19: Massachusetts Teknoloji Enstitüsü'nde Optik Ölçümler Dersi'nde benimsenmiştir. Ayrıca Harvard Tıp Fakültesi, Washington'daki Hazine Bakanlığı ve çeşitli özel laboratuvarlar için de aletler yapılmıştır.]
+
+Ortadaki bir bölmeyle ikiye bölünmüş dikdörtgen bir kutunun ön duvarlarında ışığın arka duvarlara yerleştirilmiş iki beyaz alana ulaşmasını sağlayan simetrik açıklıklar vardır. Gözlem tüpünden içeri bakılırsa her iki yarının da tam olarak aynı olduğu ve beyaz alanların eşit şekilde aydınlatıldığı görülür. Daha sonra ön açıklıklardan birine bir vana takılır, böylece fotometrenin o yarısındaki ışık kademeli olarak azaltılabilir. Beyaz alanı böylece ölçülen derecelerle kararır ve kapalı vana tarafından tüm ışık dışlandığında siyah olur. Bu karartma işlemi aletin bir yarısında devam ederken, diğer yarısındaki beyaz alan değişmez ve gözlemci göz merceğine baktığında her adımı orijinal beyazla karşılaştırılır. Bu nedenle bir yarının vanası nedeniyle _değişken_ olduğu ve diğer tarafın _sabit_ olduğu söylenir. Vanayla bağlantılı bir kadranın üzerinde, değişken yarıdaki alana ne kadar ışık girdiğini göstermek için hareket eden bir kol bulunur.
+
+Şimdi orta değer hakkındaki bu kişisel kararlardan birini test edelim. Sabit yarıdaki beyaz alanı bir örnek değiştirir ve valf vasıtasıyla değişken yarıdaki beyaz alan, örnekle eşleşene ve göz ikisinde hiçbir fark göremeyene kadar dönüşümlü olarak koyulaştırılır ve aydınlatılır. Kadran daha sonra bu sözde ORTA DEĞERİN ışığın sadece %42'sini yansıttığını; yani ondalık bir ölçekte neredeyse bir adım düşük olduğunu ortaya koyar. Diğer örnekler orta değerin ışık tarafında neredeyse aynı oranda hata yapar ve daha ileri testler yalnızca bireylerin değişen renk duyarlılığını kanıtlamakla kalmaz, aynı kişinin sol ve sağ gözü arasında bir fark tespit eder.
+
+[İllüstrasyon: FOTOMETRE.
+Arka Görünüm. Ön Görünüm.]
+
+Bu şekilde ortaya çıkan renk tahmininin kaprisleri, bazılarını "hissetme ve ilham"a sığınmaya yönlendirir; ancak hissetme ve ilham
+mizaçlıdır ve görmenin basit gerçekleriyle hiçbir ilgisi yoktur. Ölçülü ve değişmeyen bir gam, gözün eğitiminde müzik gamının kulağın disiplininde olduğu kadar gerekli ve değerlidir.
+
+Yakında her bir rengin değerlerinden bahsetmek gerekecek. Nötr eksendeki değerleri renk değerlerinden ayırt etmek için bunları N1, N2, N3, N4, N5, N6, N7, N8, N9, N10 olarak yazabiliriz. Böyle bir gam, açık değerleri koyu değerlerle karıştırmanın sonucunu önceden görmeyi kolaylaştırır. Herhangi iki
+gri değer, aralarında gri bir orta nokta oluşturmak için birleşir. Böylece N4 ve N6, merkezin hem üstünde hem altında olduklarından, N5'i oluşturmak için birleşirler, aynı şekilde N7 ve N3, N8 ve N2 veya N9 ve N1 de birleşir. Ancak N9 ve N3, 6 ile 9 arasında orta nokta olan N6'yı oluşturmak için birleşirler.
+
+[İllüstrasyon: Açık açıklıklardan dikey kesit.
+
+PARÇALAR.
+
+_C_, KABİN, numune tutucu (H) ve ayna (M) ile birlikte, cihaz taşıma için kapatıldığında kadranın (D) solunda çıkarılabilir ve saklanabilir.
+_D_, KADRAN: renk değerlerini standart beyaz (100) cinsinden kaydeder,
+ölçeğin karşı ucu mutlak siyahlıktır (0).
+_E_, GÖZ PARÇASI: renk belirlemeleri yapılırken gözü ve numuneyi yabancı ışıktan korumak için. Retinanın yorulması önlenmelidir.
+_G_, DİŞLİ: cihazın sağ yarısına giren ışık miktarını kontrol eden kedi gözü deklanşörünü çalıştırır.
+Şaftı,
+indeks kolunu kadranın üzerine taşır.
+_H_, ALAN TUTUCU: numuneyi ve standart beyazı aynı düzlemde tutar ve
+onları izole eder. Alt kenara menteşelenmiştir ve pivot kelepçe ile sabitlenmiştir.
+_M_, AYNA: standart beyazı ve ölçülecek rengi taşıyan tutucunun izole edilmiş yarılarının gözlemlenmesine izin verir. Orta bölmenin her iki tarafı da temiz ve tozdan arındırılmış olmalıdır.
+_S_, DAĞITICI EKRAN, ışığı eşit şekilde dağıtmak için ön açıklıkların üzerine yerleştirilir.]
+
+(66) Bu numaralı değer ölçeği bilindiğinde, yalnızca açık ve koyu grileri tanımlamak için değil, aynı zamanda ölçekte aynı seviyede olan renklerin değerini tanımlamak için de kullanılır. Bu nedenle R7 (genellikle kırmızı tonu olarak adlandırılır) N7'nin grisinden
+ne daha açık ne de daha koyudur. Sağa yazılan bir rakam her zaman gri veya renkli olsun _değeri_ belirtir, böylece
+R1, R2, R3, R4, R5, R6, R7, R8, R9 siyahtan beyaza kadar kırmızı değerlerinin düzenli bir ölçeğini tanımlarken, G1, G2, G3, vb. yeşil değerlerin bir ölçeğidir. (67) Renkler için bir notasyon meselesi VI. Bölümde daha ayrıntılı olarak ele alınacaktır, ancak daha önce açıklanan harfler ve rakamlar renklerin karışımı ve dengesinde ele alacağımız şeyi büyük ölçüde basitleştirmektedir. +Açık renk tonlarının koyu renklerle karışımı.+
+
+(68) Şimdi, nötr eksenin bölümleriyle (N1, N2, vb.) temsil edilen ondalık bir gri ölçeği ve ekvatorun etrafında sıralanan on renk tonunun her biri için karşılık gelen bir ondalık değer ölçeği (R1, R2,-- YR1, YR2,-- Y1, Y2,-- GY1, GY2,-- vb.) siyahtan beyaza on eşit uzaklıktaki meridyenle izlendiğinden, herhangi iki rengin karışımının ne üreteceğini, ekvatorun daha önce ele alınan renklerinde olduğu gibi aynı değer seviyesinde olup olmadıklarını veya farklı seviyelerde olup olmadıklarını öngörmek zor değildir.
+
+[Resim: Şekil 10.]
+
+(69) Örneğin, açık sarıyı (Y7) koyu kırmızıyla (R3) karıştıralım.
+Bunlar renk tonunda komşudur, ancak değer olarak oldukça uzaktır. Onları birleştiren bir çizgi YR5'te merkezlenir. Bu, karışımlarının sonucunu açıklar, -- 7 ile 3 arasında bir değer, R ile Y arasında bir renk tonu. Orta değerde sarı-kırmızıdır, halk arasında "koyu turuncu" olarak adlandırılır. Ancak, bu "koyu turuncu" terimi nadiren üç farklı kişi için aynı rengi ifade etse de, bu ölçülmüş ölçekler YR5'e, tıpkı müzik ölçeğinin notalarına belirgin bir önem vermesi gibi, belirgin bir anlam verir.
+
+(70) Açıkça, renkleri değer ve renk tonu derecelerine göre yazmanın bu yolu, yaygın olarak kullanılan renk terimleriyle ifade edilmesi zor olan şeye açıklık getirir.
+
+(71) Karışım için Y9 ve R5 seçilirse, hemen ortadaki değer ölçeğinin iki basamağı olan YR7'de birleştiklerini biliriz; Y6 ve R2 ise ortadaki değer ölçeğinin bir basamağı olan YR4'ü oluşturur. Bu sistemle hazırlanan
+grafikler, bu renklerin her birini ve bunların karışımlarını tam olarak gösterir.
+
+(72) Yukarıdaki koyu kırmızı ve açık sarı karışımları, sarı ve yeşil, yeşil ve mavi, mavi ve mor veya mor ve kırmızı gibi herhangi bir komşu tonun açık ve koyu değerlerinin birleşiminin tipik örnekleridir.
+Şimdi, farklı değerleri zıt tonlarda karıştırmanın sonucunu düşünelim; örneğin, YR7 ve B3 (Şekil 11). Bu kombinasyona
+renk küresi hazır bir cevap verir; çünkü küreden geçen ve onları birleştiren düz bir çizginin ortası, nötr merkezle çakışır ve nötr gride dengelendiklerini gösterir. Bu, değerlerin ekvatordan eşit şekilde uzaklaştırıldığı herhangi bir zıt yüzey tonu çifti için de geçerlidir.
+
+[Resim: Şekil 11.]
+
+(73) Notasyon yerine tanıdık çiçekler koyarsak, o zaman YR7
+düğün çiçeği olur ve B3 yabani menekşe olur. Ancak, ikisini karşılaştırdığımızda, göz, menekşeden daha çok düğün çiçeği tarafından uyarılır, sadece daha açık olduğu için değil, aynı zamanda kromada daha güçlü olduğu için; yani, kürenin nötr ekseninden daha uzakta ve aslında yüzeyinin ötesinde, Şekil 11'de gösterildiği gibi.
+
+YR'nin 7. seviyesinde eksene doğru saplanmış bir iğne başı, düğün çiçeği gibi kroma ölçeğindeki 9. basamağı temsil edebilirken, sadece 4 kroma değerine sahip "mütevazı" menekşe, parlak düğün çiçeğinden nötr eksene beş kroma adımı daha yakın olduğu konumuyla gösterilir. Bu, rengin üçüncü boyutudur ve notasyonumuza dahil edilmelidir. Bu yüzden düğün çiçeğini YR 7/9 ve menekşeyi B 3/4 olarak yazarız,--kroma her zaman renk tonunun sağına,
+değer her zaman üstüne yazılır. (Bu değişmez sıradır: HUE
+{VALUE/CHROMA}.)
+
+(74) Yukarıda belirtilen pimin başını B 3/4 ile birleştiren bir çizgi
+kürenin merkezinden geçmez ve orta noktası
+nötr eksenden daha çok düğün çiçeğine yakındır, bu da düğün çiçeği ve menekşenin tonlarının
+gride _dengelenmediğini_ gösterir.
+
++Nötr merkez renkler için bir denge noktasıdır. +
+
+(75) Bu, şu soruyu gündeme getirir: Renk dengesi nedir? Sanatçılar, resimlerin renk şemalarını "çok açık veya çok koyu" (değerde dengesiz), "çok zayıf veya çok güçlü" (renk tonunda dengesiz) ve "çok sıcak veya çok soğuk" (renk tonunda dengesiz) olarak eleştirerek, bunun tüm renk düzenlemelerinin altında yatan temel bir fikir olduğunu gösterir.
+
+(76) Kürenin merkezinin tüm renkler için doğal denge noktası olduğunu varsayalım (bu, Maxwell disklerinde V. Bölüm, 106-112. paragraflarda en iyi şekilde gösterilecektir), o zaman merkezden eşit olarak uzaklaştırılan renk noktaları birbirini dengelemelidir. Böylece beyaz, siyahı dengeler. Daha açık kırmızı, daha koyu mavi-yeşili dengeler. Orta kırmızı, orta mavi-yeşili dengeler. Kısacası, bu merkezden geçen her düz çizgi, birbirini dengeleyen zıt nitelikleri gösterir. Böylece bulunan renk noktalarının "_tamamlayıcı_" olduğu söylenir, çünkü her biri diğerini renk tonu, değer ve kroma açısından tamamlamak veya dengelemek için gerekeni sağlar.
+
+(77) O halde düğün çiçeğinin gerçek tamamlayıcısı, güçlü karşıtını dengelemek için kroma açısından çok zayıf olan menekşe değildir. Düğün çiçeğinin kromasına eşit olabilecek mavi bir çiçeğimiz yok. Dengeyi sağlamak için başka bir yol
+bulunmalıdır. Bir yol, daha zayıf renkten daha fazla kullanmaktır. Böylece, göz, sarı-kırmızı _alanından_ iki kat daha büyük bir _mavi_alan_ görsün diye, iki katı kadar _renk_kullanarak bir sürü düğün çiçeği ve menekşe yapabiliriz. Renk tonu, değer ve kroma eşitsizliklerinin telafisi olarak alan, VII. Bölüm'deki renk uyumu başlığı altında daha ayrıntılı olarak açıklanacaktır.
+
+(78) Fakat, düğün çiçeği ve menekşenin bu resmini bırakmadan önce, onları birbirine bağlayan ve küreden geçmeyen, _etrafından_ geçen başka bir renk yolunu düşünmek iyi olur (Şekil 12). Sarı-kırmızıdan maviye doğru salınan böyle bir yol değer olarak aşağı doğru eğimlidir ve sarı, yeşil-sarı, yeşil ve mavi-yeşilden geçerek her adımı bir öncekinden daha az kromatik olan bir _renk dizisi_ izler.
+
+[Resim: Şekil 12.]
+
+Bu azalan dizi kolayca şu şekilde yazılabilir:--YR 8/9, Y 7/8,
+GY 6/7, G 5/6, BG 4/5, B 3/4,--ve Şekil 12'de grafiksel olarak gösterilmiştir.
+Renk tonu dizisi YR, Y, GY, G, BG ve B baş harfleriyle tanımlanmıştır.
+Değer dizisi üstteki sayılarda, 8, 7, 6, 5, 4 ve 3'te görünürken,
+renk tonu dizisi alttaki sayılarda, 9, 8, 7, 6,
+5 ve 4'te yer alır. Bu, dizinin tam bir ifadesini verir ve her renk tonu değişiminde değer ve renk tonunda düzenli bir azalma olduğunu tanımlar. Doğa bu diziye karşı taraflı görünüyor,
+sürekli olarak koyu yeşil yaprakları ve altta yatan gölgeleri olan sarı çiçeklerle bunu tekrarlıyor. İlkbaharda aralığını daraltabilir, maviyi daha yeşil ve sarıyı daha az kırmızı yapabilir, ancak sonbaharda aralığı genişletiyor ve sarı-kırmızı ve mor-mavinin güçlü kontrastlarını sunuyor.
+
+(79) Her gün öğlen saatlerindeki güçlü ışık ve gölge kontrastlarından alacakaranlıktaki zar zor algılanabilen
+farklara kadar bu dizinin değerleri üzerinde oynuyor. Bu dizinin renk yoğunluğu yazın güçlü renklere doğru genişler ve kışın grilere doğru daralır. Gerçekten de,
+renk uyumu kavramlarımızın kaynağı gibi görünen Doğa,
+nadiren kendini tekrarlar, ancak nicelik telafileriyle ton, değer ve renk yoğunluğu eşitsizliklerini sonsuza dek dengeler.
+
+(80) Bu denge o kadar inceliklidir ki, deprem veya fırtına gibi şiddetli bir bozulma olmadığı sürece, hafife alınır ve unutulur.
+
++Renk dengesinin üçlü doğası gösterilmiştir.+
+
+(81) Dengenin en basit fikri, bir çubuğun iki yarısının orta noktasından desteklenmesidir.
+Bir uç diğerinden daha ağırsa, destek o uca daha yakın hareket ettirilmelidir.
+
+Ancak, renk üç niteliği birleştirdiğinden, bir tür
+_üçlü denge_ aramalıyız. Jackstraw oyunu bunu gösterir, bir parçanın bozulması diğer ikisinin yer değiştirmesini içerir. Yüzen bir tahtanın üzerindeki üç çocuğun hareketi veya üçüncünün omuzlarında taşınan iki
+akrobatın dengesi de örnek olarak verilebilir.
+
+[Resim: Şekil 14.]
+
+(82) Üçlü denge, temas halindeki üç diskle grafiksel olarak gösterilebilir.
+Bunlardan ikisi merkezlerinden asılıyken, Şekil 14'teki gibi bir pivot üzerinde desteklenen üçüncü bir diskle temas halinde kalırlar. En alttaki
+diske Renk Tonu (H) ve yan disklere Değer (V) ve Kroma (C) diyelim. Alttaki H diskinin herhangi bir eğimi veya dönüşü, iki yan diskte V ve C sempatik bir eyleme neden olacaktır. H eğildiğinde, hem V hem de C onunla ilişkilerini değiştirir. H dikey olarak kaldırılırsa, hem V hem de C dışarı doğru eğim yapar. H döndürülürse, hem V hem de C döner, ancak zıt yönlerde. Gerçekten de,
+V'deki herhangi bir bozulma H ve C'yi etkilerken, H ve V C'deki herhangi bir
+harekette tepki verir. Bu yüzden bir renk kalitesindeki herhangi bir değişikliğin diğer ikisinin yeniden ayarlanmasını gerektirdiğini fark etmeye hazır olmalıyız.
+
+(83) Renk dengesi kısa sürede bir yönde optik, bir diğer yönde estetik ve üçüncü bir yönde matematiksel oranlar çalışmasına yol açar ve
+sorunlarının kolay bir çözümüne yönelik herhangi bir girişimin
+başarılı olma olasılığı düşüktür. Bu çok karmaşık bir sorudur ve en yakın karşılığı müzik ritimlerinde aranmalıdır. Müzikal dürtülerin kulağa düşmesi bizi neşeli veya üzgün yapabilir ve göz aracılığıyla hareket eden, zihne zevk veya acı iletebilen renk grupları vardır.
+
+(84) Bir renkçi bu memnuniyet veya rahatsızlık duygularına karşı son derece duyarlıdır ve bilinçli veya bilinçsiz olarak belirli renk kombinasyonlarını reddeder ve diğerlerini kabul eder. Başarılı resimler ve dekoratif şemalar, "ışık ve gölge" (değer), "sıcaklık ve soğukluk" (renk tonu) ile "parlaklık ve grilik" (renk tonu) birleştiren bir tür dengeye bağlıdır; çünkü, hoşnut etmeyi başaramadıklarında, zihin hemen dengesiz niteliği aramaya başlar ve rengin "çok sıcak", "çok koyu" veya "çok kaba" olduğundan şikayet eder. Hoş oranlar oluşturma çabası bir mizaçta bilinçsiz olabilirken, bir başkasında kesin bir analiz konusu haline gelir. Emerson, yalnızca bilinçdışının eksiksiz olduğunu iddia etti. Renk içgüdüsü yanılmaz olanların (ve ne kadar azlar!) tüm kuralları ihmal etmelerine ve formüller koymalarına memnuniyetle izin veririz. Ancak eğitim, bu yeteneğe sahip olmayan birçok kişiyle ilgilidir. (85) Renk eğitiminde gerçek bir ilerleme, geçmiş başarıların körü körüne taklit edilmesinden değil, örnekledikleri yasaların incelenmesinden gelmelidir. İnce Japon baskılarını veya Pers halılarını veya Rönesans duvar halılarını tam olarak kopyalamak, bunların inceliklerini takdir etmeyi geliştirirken, kişiye eşit derecede güzel şeyler yaratma gücü vermez. Doğru şekilde icra edilen müzik şaheserleri, zorunlu olarak bir besteci yapmaz. Müzisyen, şaheserlerin incelenmesinin yanı sıra, kontrpuan bilimini özümser ve tasarladığı herhangi bir yeni müzik aralığı kombinasyonunun kesin karakterini, belirgin bir notasyonla kaydeder. (86) Bu nedenle, renkçinin sanatı bilimsel bir temele ve net bir renk notasyonu biçimine sahip olmalıdır. Bu, geçmişin başarılarını ve başarısızlıklarını kaydedecek ve renk dengesinin temellerini, karşılaştırma ve analiz yoluyla aramaya yardımcı olacaktır. Ölçülü ve sistematik bir notasyon olmadan, renk uyumunu tanımlama girişimleri, yalnızca duyumlarımızı tanımlamada çok az değeri olan belirsiz genellemeler üretir ve "iyi" ve "kötü" renk arasındaki temel farklılıkları ifade etmekte başarısız olur. BÖLÜM III'E EK.
+
+[Resim]
+
+YANLIŞ RENK DENGESİ. Kırmızı, sarı ve mavinin "birincil" olduğu konusunda yaygın olarak kabul gören bir hata vardır, ancak Brewster'ın teorisi, renk görüşünün unsurlarının KIRMIZI, YEŞİL ve MOR-MAVİ olduğu kanıtlandığında uzun zaman önce terk edilmiştir. Merhum Profesör Rood, 1879'da yayınlanan "Modern Kromatik" adlı kitabının VIII.-XI. Bölümlerinde buna dikkat çekmiştir. Yine de bunun okullarda genel olarak öğretildiğini görüyoruz. Zarar
+burada da bitmiyor, kırmızı, sarı ve maviyi bir daireye eşit mesafede,
+turuncu, yeşil ve moru ara renkler olarak yerleştirmenin zararı, öğretmen zıt renk tonlarının tamamlayıcı olduğunu söylemeye devam ediyor.
+
+Böylece kırmızı, yeşilin,
+sarı " " morun ve
+mavi " " turuncunun tamamlayıcısı oluyor.
+
+Ne yazık ki, bu ifadelerin her biri yanlıştır ve eğer renkli ışıkların karışımıyla veya Maxwell'in dönen diskleriyle test edilirse,
+yanlışlıkları açıkça görülür.
+
+Yeşil'in kırmızının,
+morun sarının,
+turuncunun mavinin tamamlayıcısı olmadığı konusunda şüphe olamaz, çünkü bu çiftlerden hiçbiri dengeli bir nötrlükte olması gerektiği gibi birleşmiyor ve dairenin toplam testi turuncunun çok fazla olduğunu gösteriyor, bu da kırmızı ve sarının çevrenin çok büyük bir kısmını gasp ettiğini gösteriyor. Yanlış bir temelden yola çıkarak,
+Brewster teorisi yalnızca dengesiz ve uyumsuz renk etkilerine yol açabilir.
+
+Temel renk duyumları KIRMIZI, YEŞİL ve MENEKŞE-MAVİ'dir.
+
+KIRMIZI'nın gerçek tamamlayıcısı MAVİ-YEŞİL,
+YEŞİL " " KIRMIZI-MOR ve
+MENEKŞE-MAVİ " " SARI'dır,
+
+sağ sütundaki tüm tonlar bileşik duyumlardır.
+Yeşil hissi, pigmentlerin emici etkisi birinin şu düşünceye yol açabileceği gibi, sarı ve mavinin bir karışımından kaynaklanmaz: YEŞİL
+TEMELDİR ve spektrumdaki herhangi bir tonun karıştırılmasıyla oluşmazken
+SARI TEMEL DEĞİLDİR, ancak kırmızı ve yeşilin karışık duyumlarından kaynaklanır. Bu, kontrollü bir spektrumla kolayca kanıtlanabilir, çünkü tüm
+sarı-kırmızılar, sarılar ve yeşil-sarılar belirli
+oranlarda kırmızı ve yeşil ışıkla eşleştirilebilir, tüm mavi-yeşiller, maviler ve
+mor-maviler yeşil ve mor ışığın birleşimiyle elde edilebilirken,
+mor-mavi, mor ve kırmızı-mor menekşe ve kırmızı ışığın birleşiminden
+oluşur. Ancak bir karışımın kırmızı,
+yeşil veya mor-mavi verdiği bir nokta yoktur. Bunlar gerçek birincil renklerdir ve karışımları
+diğer tüm tonları üretir.
+
+Stüdyo ve okul odası uygulamaları hala itibarsızlaştırılmış teoriye tutunarak, eğer renk duyumlarımızı tarif etmekte başarısız olursa, yine de pigmentler için pratik olarak doğru olarak adlandırılabileceğini, çünkü kırmızı, sarı ve mavi bir pigmentin çoğu doğal rengi taklit etmeye yeterli olduğunu iddia etmektedir.
+Pigment karışımı ile retinal karışım arasındaki bu tutarsızlık, boyaların fiziksel yapısını ve davranışını öğrendiğinizde
+açık hale gelir.
+
+[Resim:
+{ Vermilion
+Spektrumları {
+{ Em. Yeşil
+P. B. G. Y. R.]
+
+Spektral analiz, hiçbir pigmentin göze gönderdiği baskın renk tonunun saf bir örneği olmadığını gösterir. Örneğin, kırmızı ve yeşili temsil eden çok kromatik pigmentleri, örneğin vermilion ve zümrüt yeşili alın. Her biri başka bir renk tonunun izinden arınmış tek bir saf renk tonu yaysaydı, o zaman karışımları, spektral kırmızı ve yeşil birleştiğinde olduğu gibi sarı görünürdü. Ancak, sarı yerine, karışımları kahverengi veya "donuk somon" adı verilen sıcak bir gri üretir ve bu, spektrumlarından çıkarılmalıdır; burada vermilionun baskın renginin yanı sıra biraz yeşil ve mor yaydığı, yeşilin de göze biraz mavi ve kırmızı ışık gönderdiği görülür.[20]
+
+[Dipnot 20: Bkz. Rood, Bölüm VII., Emilim ile Renk.]
+
+Böylece spektrumun diğer kısımlarından gelen dağınık tonlar, her bir pigment spektral anlamda saf olsaydı güçlü olacak olan sarı hissiyatını nötrleştirme eğilimindedir. Pigment emilimi tüm palet karışımlarını etkiler ve kırmızı ve yeşilin karışımıyla tatmin edici bir sarı elde edemeyen ressamlar, aureolin, kadmiyum ve kurşun kromat gibi orijinal sarı pigmentleri kullanırlar; bunların her biri de saf değildir ancak baskın bir sarı hissiyat verir. Göz, bir akorun ayrı tonlarını analiz ederken kulak gibi ayrım yaparsa, o zaman sarı pigmentlerin hem kırmızı hem de yeşil ışınlar yaydığını fark etmeliyiz.
+
+Bir prizma tarafından renkli bir bantta dağılan beyaz ışık, ikinci bir prizma tarafından işlemin tersine çevrilmesine neden olabilir, böylece göz yine yalnızca beyaz ışığı görür. Ancak kırmızı, yeşil ve mor-mavi duyumların dengesi bozulmadan kalmasaydı, bu böyle olmazdı. Renk uyumuna dair tüm fikirlerimiz bu temel ilişkiye dayanır ve pigmentler uyumlu etkiler yaratacaksa, kırmızı, yeşil ve mor-mavi dengesini korumak için kirliliklerini kontrol etmeyi öğrenmeliyiz. Aksi takdirde, kırmızı ve sarı pigmentlerin aşırı renk yoğunluğu ve değeri, yeşil ve mavi pigmentlerin daha düşük derecelerini o kadar boğar ki, hiçbir denge mümkün olmaz ve ince algıya sahip renk uzmanı, yalnızca teorik olanı değil, aynı zamanda "kırmızı-sarı-mavi" teorisinin pratik sonucunu da reddetmelidir. Bu tartışmada gündeme getirilen bazı noktalar öğrenciler için oldukça belirsizdir ve optik çalışmasında ortaya çıkana kadar bırakılabilir, ancak öğretmen bunları net bir şekilde kavramalıdır, böylece birincil ve tamamlayıcı tonlar hakkında yanlış ifadelere kapılmamalıdır. BÖLÜM IV. PRİZMATİK RENK. +Saf renk, güneş ışığının spektrumunda görülür.+
+
+(87) Rengin en güçlü hissi,
+güneş ışığı huzmesini çeşitli dalga boylarına bölmek için kullanılan bir prizma ile karanlık bir odada elde edilir.
+Dar bir yarıktan, _beyaz_ olarak düşünmeye alıştığımız düz bir ışık kalemi girer, ancak bu,
+birbirleriyle birleşen ve dengesi o kadar mükemmel olan çeşitli renkli ışınların (veya eter dalgalarının) bir demetidir ki, hiçbir ışın baskın değildir.
+
+[Resim: Şekil 13.]
+
+(88) Dar yarığı kapatırsak, karanlığa gömülürüz.
+Işını kabul edersek, göz, zemindeki ışık noktası ile onu çevreleyen karanlık arasında güçlü bir kontrast hisseder.
+Beyaz ışık huzmesini kesmek için yarığın yakınına üçgen bir cam prizma
+yerleştirin ve aniden karşı duvarda parlak renklerden oluşan bir bant belirir. Bu keyifli
+deney, renklerinin güzelliği ve saflığıyla gözü büyüler. Diğer tüm
+renkler karşılaştırıldığında zayıf görünüyor.
+
+Zayıflıkları safsızlıktan kaynaklanır, çünkü tüm pigmentler ve boyalar baskın olanlarından farklı renk tonlarının bölümlerini yansıtır, bu da "gri" olma eğilimindedir ve
+renklerini azaltır.
+
+(89) Ancak prizmatik renk saftır veya neredeyse saftır, çünkü camın şekli her bir tonu kırar ve onu eter dalgasının uzunluğuna göre ayırır. Bu dalgalar ölçülmüştür ve bilim her bir tonu dalga uzunluğuna göre adlandırabilir. Bu nedenle belirli bir kırmızıya M. 6867 ve belirli bir yeşil hissiyata M. 5269 denir.[21] Rengin herhangi bir bilimsel analizini yapmadan, Sir Isaac Newton'un 1687'de bir dizi deney yaptığını ve bu renk dizisini kırmızı, turuncu, sarı, yeşil,
+mavi, mor ve çivit mavisi olarak adlandırdığı yedi adımla adlandırma ayrıcalığına sahip olduğunu söyleyelim. Daha sonra Fraunhofer adlı bir bilim adamı
+güneş spektrumunu geçen ince siyah çizgiler keşfetti ve bunları
+a'dan h'ye kadar alfabenin harfleriyle işaretledi. Bunlar dalga boyuyla birlikte her tonu bulmaya ve dizideki her adımı tanımlamaya yarar. Newton'dan bu yana, spektral tonlardan yalnızca üçünün
+_birincil_ olduğu kanıtlanmıştır; yani, kırmızı, yeşil ve mor-mavi, bunların karışımı ise
+diğer tüm geçişleri üretir. Spektrumu, kırmızı ve yeşil dalgalara uyan ince yarıklara sahip opak bir ekranda alarak, böylece
+sadece onlar geçer, bu iki birincil ton, başka bir ekranda birleşecek şekilde eğimli aynalarda alınabilir, burada göz, kırmızı veya yeşil yerine sadece sarıyı görür.[22]
+
+[Dipnot 21: Sözlükte Micron'a bakın.]
+
+[Dipnot 22: Kırmızı ve yeşilin spektral birleşiminin
+sarıyı oluşturması, pigmentlerin etkisine aşina olan ancak spektrum analizine aşina olmayan renk
+alanındaki pratik çalışanlar için bir sürprizdir. Sarı, onlara birincil ve vazgeçilmez bir renk gibi görünür, çünkü kırmızı ve yeşil pigmentlerin birleşimiyle oluşturulamaz. Spektrumun sarı ve mavisinin _beyaz_ oluşturduğunu duyduklarında onları bekleyen bir başka sürpriz daha vardır, çünkü boyalarla ilgili tüm deneyimleri
+sarı ve mavinin birleşerek yeşili oluşturduğunu kanıtlar. Dikkat, renkli ışık ile renkli pigmentlerin karışımı arasındaki bu farka, bunu burada açıklamak
+amacıyla değil, aralarındaki farkı vurgulamak için çekilir; çünkü bir sonraki bölümde, yalnızca spektrumun renkleriyle çalışabilseydik, oldukça pratik olmayacak olan pigmentlerle bir renk küresinin pratik yapımını
+açıklayacağız. Önceki bölümün
+Eklerine bakın.]
+
+(90) Yeşil ve mor-mavi için benzer bir yarık ve ayna düzenlemesi, bunların birleşerek maviyi oluşturduğunu kanıtlarken, üçüncü bir
+deney, kırmızı ve mor-mavinin birleşerek moru oluşturabileceğini gösterir.
+Bu nedenle, sarı, mavi-yeşil ve mor, üç birincil renk olan kırmızı, yeşil ve mor-mavinin karışımından kaynaklandığı için ikincil tonlar olarak adlandırılır.
+
+Bu iki renk listesini karşılaştırdığımızda, Sir Isaac Newton'un "çivit mavisi" ve "turuncu"sunun atıldığını görüyoruz. Her ikisi de belirsizdir ve bitki aleminin değişken ürünlerini ifade eder. Menekşe de aynı krallıktan ödünç alınmıştır; ve bir menekşeyi tanımlamak için, duruma göre mor menekşe veya mavi menekşe deriz, tıpkı bir turuncuyu kırmızı turuncu veya sarı turuncu olarak tanımladığımız gibi. Renk
+farkları "turuncu" veya "menekşe" terimleriyle değil, "kırmızı", "sarı", "mavi" veya "mor" sözcükleriyle ifade edilir; bunların hepsi gerçek renk adlarıdır ve karıştırılmamış bir renk imgesi uyandırır.
+
+(91) Çocuk odasında bir çocuk basit renk adları olan kırmızı, sarı, yeşil, mavi ve moru kullanmayı öğrenir. Renk küresine aşinalık, onları birbirleriyle ilişkilendirmesini ve ışık ve güç derecelerine göre siyah ve beyaz arasına yerleştirmesini sağladığında, renk duyumlarını ifade etmek için sebzelere, hayvanlara, minerallere veya deniz ve gökyüzünün sürekli değişen tonlarına geri dönme fırsatı olmayacaktır.
+
+(92) Başka bir deney, spektral ve pigment rengi arasındaki farkı vurgular. Spektrum bir prizma kullanılarak ekrana yayıldığında ve ikinci bir prizma ilk prizmanın ötesine ters yerleştirildiğinde, dağılmış ışınları orijinal ışınlarına geri toplar ve zeminde beyaz bir nokta oluşturur. Bu, tüm renkli ışık ışınlarının beyazlıkta birbirlerini dengelemek için birleştiğini kanıtlar. Ancak bu renk tonlarının en yakın taklidi olan pigmentler bir ressamın paletinde fırça veya bıçakla birleştirilirse, _beyaz değil gri yaparlar_.
+
+(93) Bu, pigmentlerin davranışının başka bir örneğidir, çünkü beyaz oluşturmak için birleşmek yerine, koyulaşmış veya saf olmayan bir beyaz formu olan gri oluştururlar; ve bunun pigment görevi gören çeşitli maddeler arasındaki kimyasal bir reaksiyona atfedilmemesi için, Maxwell diskleri kullanılarak bir pigmentin diğerine temas etmesine izin verilmeden deney gerçekleştirilebilir, bu bir sonraki bölümde gösterilecektir.
+
+(94) Bu prizmatik renkleri terk etmeden önce, bunları renk boyutları hakkında daha önce öğrenilenlerin ışığında inceleyelim. Sadece farklı değerler değil, aynı zamanda farklı kromalar da sunarlar. Değerleri, kırmızı ve morun görünür hale geldiği her iki uçtaki koyuluktan, neredeyse beyaz olan yeşilimsi sarıdaki parlaklığa kadar değişir. Bu nedenle, Bölüm II, paragraf 34'te açıklanan renk ağacında, sarı en yüksek dala sahiptir, yeşil daha düşüktür, kırmızı ortada aşağıdadır, mavi ve mor ise daha aşağıda, siyaha yakındır.
+
+[Resim: Şekil 15.]
+
+(95) Sonra kromada, kırmızının güçlü uyarımından yatıştırıcı mora kadar değişir, yeşil ise ara bir basamağı işgal eder. Bu, renk ağacında dallarının uzunluğuyla da verilir.
+
+(96) Şekil 15'te dikey eğri, spektrumun değerlerini kırmızıdan sarıya, yeşile, maviye ve mora doğru derecelendirilirken açıklar. Yatay eğri, spektrumun renklerini aynı
+dizide tanımlar; dışa doğru eğimli üçüncü eğri ise, ilk ikisinin birbirine dik iki düzlemle birleştirilmesiyle elde edilir ve üç niteliği tek bir tanımlayıcı çizgiyle
+toplar. Şimdi kırmızı ve mor uçlar birbirinden çok uzaktadır ve bilim, dalga boylarındaki büyük fark nedeniyle bunların birleşmesini yasaklar. Ancak zihin, gün batımında bulutlarda, çiçeklerde, üzümlerde ve ametistte gördüğümüz kırmızı-morları üretmek için onları birleştirmeye eğilimlidir. Gerçekten de, yeşilin zıttını sağlamak için çoğu renk şemasında tereddütsüzce yapılmıştır.
+
+(97) Bu, renk ağacının tüm dal uçlarını birleştiren eğik bir devre verir ve I. Bölüm,
+paragraf 17'deki Satürn halkalarına benzetilmiştir.
+
++Prizmatik bir renk küresi.+
+
+(98) Biraz hayal gücüyle, yalnızca ışığın renklerini kullanarak prizmatik bir renk küresi
+resmedebiliriz. Silindirik bir odada, içini gizlemeden yüzeyinde renk gösterebilen, devasa bir sabun köpüğüne benzeyen saydam bir top asılıdır. Sonra, çevreleyen duvarın uygun noktalarında, üç saf renkli ışık huzmesi kabul edilir, biri kırmızı, diğeri yeşil ve üçüncüsü mor-mavi.
+
+(99) Bunlar kürenin üç tarafında uygun seviyelere düşerken, ara dereceleri küreyi tam bir spektrum ve ihtiyaç duyulan morla çevreler. Küreye nüfuz ettikçe, birbirlerini nötrlükte dengelemek için birleşirler. Saf beyazlık en üsttedir ve hayali bir şekilde ışıkları giderek azalır ve sonunda aşağıdaki karanlıkta kaybolurlar.
+
+(100) Bu ideal renk sistemi, bilgimizin ve araçlarımızın mevcut durumunda imkansızdır. Mümkün olsa bile, maddi olmayan tonları malzemeleri boyamak veya resim çizmek için kullanılamazdı. Pigmentler, bilim insanları onları bir renk sisteminin temeli olarak kabul etmekte ne kadar isteksiz olursa olsun, renksel üretimlerin pratik aracıdır ve büyük olasılıkla öyle olmaya devam edecektir. Kimyasal olarak saf olmadıkları ve ışığın renklerini kusurlu bir şekilde temsil ettikleri doğrudur. Bazıları hızla solar ve kimyasal değişime uğrar, bu ölçülen sistemle test edilen yeşil bir pigmentin dikkate değer vakasında olduğu gibi, birkaç hafta içinde dört adım renk kaybı, iki adım değer artışı ve daha mavi bir renge dönüşmüştür.
+
+(101) Ancak daha sonra tarif edilecek renk küresi, solması yıllar süren ve neredeyse fark edilemeyecek kadar hafif olan birkaç güvenilir pigment, çoğunlukla doğal topraklarla işlenmiştir. Ayrıca, ana tonları, pigmentlerin renk küresinin ölçülen aralıklarını bozma eğilimini düzeltmek için kullanılabilen, bozulmayan emayelerle güvenli bir şekilde saklanır.
+
+Bu, bir pigment sistemine yönelik en ciddi itirazı karşılar. Bu olmadan bir çocuğun taklit edebileceği ve ezberleyebileceği somut hiçbir şeyi olmaz. Bununla, doğadaki her rengi, gökkuşağının geçici tonları da dahil olmak üzere, tanımlayan ölçülü ilişkilerin zihinsel bir görüntüsünü oluşturur, ancak bunlar nadiren bir an için görünür.
+Son olarak, her renk hissini bir harf ve iki rakamla kaydeden basit bir notasyon sağlar.
+Zihinsel gücünün genişlemesiyle bunları, daha büyük renk ilişkilerinin kapsamlı bir kavrayışında birleştirecektir.
+
+IV. BÖLÜME EK.
+
++Çocuk Renk Çalışmaları.+
+
+Çocuk çalışmalarının bu reprodüksiyonları, renk çekiciliğinin ve zevkin en baştan itibaren geliştirilebileceğinin kanıtı olarak verilmektedir.
+
+BEŞ ORTA TON, önce özel boya kalemleri kullanılarak ve
+daha sonra sulu boyalarla öğretilir. Renk küresinin ekvatorunu temsil ederler
+(bkz. Tablo I.),--renk ışığı ve renk şiddetinin uç noktaları arasında bir daire--ve ORTA KIRMIZI, ORTA SARI, ORTA YEŞİL, ORTA MAVİ ve ORTA MOR olarak bilinirler.
+
+Bunlar, gözün Değer ve Kroma'nın düzenli ölçeklerini ölçmesi için eğitilmesinin başlangıç ​​noktalarıdır.[23] Ancak böyle eğitilmiş bir yargı ile
+güçlü renklerin kullanımına girişmek güvenlidir.[24]
+
+[Dipnot 23: Kroma tanımı için Century Dictionary'ye bakın.
+"Renk" kelimesinin altında Birincil,
+Tamamlayıcı, Sabitler (renk, parlaklık ve renk tonu) ve
+Young-Helmholtz renk duyumu teorisi tanımları bulunacaktır. ]
+
+[Dipnot 24: Sessiz ve uyumlu renge bu kadar çok vurgu yapıldığı için bu sistemin daha güçlü dereceleri dışladığı varsayılmamalıdır. Bunu yapmak, eksiksizlik iddiasını
+kaybetmek olur. Hazırlık aşamasındaki bir Renk Atlası, bilinen tüm pigment renk derecelerini Hue, Value ve Chroma'nın ölçülü ölçeklerinde
+düzenlenmiş olarak gösterir.]
+
+_Yeni başlayanlar Güçlü Renkten kaçınmalıdır._ Aşırı kırmızı, sarı ve mavi uyumsuzdur. (Bunlar "çığlık atar" ve "küfür eder." Mark Twain, Roxana'nın elbisesini "cehennem ihtişamlarının volkanik patlaması" olarak adlandırır.) Yine de bazıları çocuğun bunları özlediğini ve heyecan yaratmak için bunlara sahip olması gerektiğini
+iddia eder. Aynı şekilde şeker, kibrit ve oyma bıçağını da özler. Trompet, ateş gongunu ve bas davulu "heyecanları" için arzular; ancak
+bunların kulağın müzik eğitimi için gerekli olduğunu kim düşünür? Tıpkı
+alevli reklam panoları ve sirk arabası gibi,
+açık havada bunlara katlanılabilir; ancak bu tür gürültülü sesler ve renk cümbüşleri
+okul
+sınıfı için uygun değildir.
+
+_Sessiz Renk, İyi Zevkin İşaretidir._ Giyimde ve evin
+mobilyalarında incelik çekicidir, ancak konuşmalarında veya giyimlerinde "gürültülü" olanlardan çekiniriz. Çocuklarımızın iyi yetiştirilmiş olmasını istiyorsak, barbarca zevkleri teşvik ederek başlamak mantıklı mıdır? Genç zihinleri telkine çok açıktır. Hızla
+standartlarımızı benimserler ve kaba renk alışkanlıkları edinirlerse suç bize ait olmalıdır. Sarı gazetecilik ve rag-time şarkıları konuşma veya şarkı zevklerine yardımcı olmayacak, şiddetli tonlar da renk konularındaki zevklerini
+geliştirmeyecektir.
+
+_Renk Dengesi aranmalıdır._ Sanatçılar ve dekoratörler, öğrenciye yavaş yavaş
+şanan bir gerçeğin gayet farkındadır; yani, renk
+uyumu, ince bir dengenin korunmasından kaynaklanır ve uçların
+kullanımıyla imkansızdır. Bu renk dengesi, bu sistemin küresel yüzeyinden daha fazla _içeride_ bulunur ve bu da ötesine taşan aşırı kromalardan daha fazladır. Çocukları, elde edilebilecek en güçlü pigmentlerle bile
+gelincik veya düğün çiçeğiyle rekabet etmeye teşvik etmek boşunadır. Güneşle aydınlanan noktaları, mavi eter ve geniş yeşil alanlarla çevrili ve
+dengelenmiş oldukları için zevk verir. Bu koşullar tersine çevrilseydi, böylece çiçekler büyük parlak kırmızı, turuncu ve sarı tarlalarda
+küçük mavi veya yeşil noktalar olarak görünseydi, acılı gözlerimiz
+tiksintiyle
+kapanırdı.
+
+Ressam, pigmentlerin, çevreleriyle
+artırılan düğün çiçeği ve gelinciğin parlaklığıyla _rekabet edemeyeceğini_ bilir. Dahası, bunu
+denemek istemez. Müzisyen de bir sirenin
+çığlığını veya bir silahın
+patlamasını taklit etmek istemez. Bunlar
+sanatın
+konuları değildir. Uyumlu sesler müzisyenin çalışmasıdır ve akortlu renkler
+renkçinin malzemesidir. Manzarada Corot ve figür resminde Titian,
+Velasquez ve Whistler bize Doğanın
+en zengin etkilerinin ve en güzel renginin
+gri bir atmosferde
+sarıldığını gösterir.
+
+_Renklerin Güzelliği Dengeli İlişkilerde Yatar._ Müzik nadiren sesin
+aşırı aralığına dokunur ve uyumlu renk nadiren renk-ışık veya renk-gücünün uçlarını
+kullanır. Orta kayıttaki düzenli gamlar
+önce kulağı eğitmek için verilir ve bu nedenle göz önce orta renk dereceleriyle
+tanıtılmalıdır.
+
+Bu sistem, özel enstrümanlarla oluşturulan ölçülü gamlar sağlar ve tüm
+renkleri karşılaştırmak ve ilişkilendirmek için bir temel olarak kırmızı, sarı,
+yeşil, mavi ve morun orta noktalarını seçebilir. Bu beş orta renk bir Kromatik Diyapazon oluşturur. (Bkz. sayfa
+70.) Çocukların, başlangıçta kendi içlerinde uyumlu olan bu akortlu renk aralıklarıyla tanışmaları,
+ilgisiz sert ve şiddetli renk dereceleri arasında
+tökezleyerek başlamaktan çok daha iyidir.
+Akortsuz bir piyano ile müzik gamını öğretmeyi kim düşünür?
+
+_Renk Ayarı Kişisel Kaprise bırakılamaz. _ Kırmızı, sarı ve mavinin, birincil renkler olarak yanlış bir şekilde öğretilen geniş tutarsızlıkları, bir müzik acemisinin enstrümanını akort edememesi gibi bir çocuk tarafından da akort edilemez. Bu tonların her birinin üç değişken faktörü vardır (bkz. sayfa 14, paragraf 14) ve bunların eşit olmayan Ton, Değer ve Kroma derecelerini ölçmek ve ilişkilendirmek için bilimsel testler gereklidir.
+
+Renklerin görsel tahminleri, karşılaştırma için herhangi bir standardın yardımı olmadan, şüphe, tahmin ve göz yorgunluğu tarafından sürekli olarak çarpıtılır. İki kişi bile rengin anlaşılır tanımında anlaşamaz. Sadece bireyler farklı olmakla kalmaz, aynı göz bile tahminlerinde günden güne değişiklik gösterir. Tüm güçlü pigmentlerin kromada eşit olduğu yönündeki sık varsayım gerçeklerden uzaktır ve yeni başlayanları birçok talihsizliğe sürükler. Böylece en güçlü mavi-yeşil, krom seskioksit, kırmızı tamamlayıcısı olan cıva kükürtünün yalnızca yarısı kadar kromadır. Yine de cehalet sürekli olarak dengesiz kullanımlarına yol açmaktadır. Gerçekten de, bazıları hala birbirlerinin tamamlayıcıları olduklarının farkında değildir.[25]
+
+[Dipnot 25: Bölüm III'ün Ek'ine bakın.]
+
+Hue, Value ve Chroma'nın temel ölçeklerinin kişisel önyargılarla değil, bilimsel ölçümlerle belirlenmesi gerektiği açıktır. Bu sistem, renk ölçümü için özel aletlerin
+tasarlanmasıyla mümkün kılınan bu tür ölçeklere sahip olması bakımından benzersizdir ve bu nedenle renk duyusunu eğitmek için kalıcı bir temel olarak güvenilirdir.
+
+Tablo II. ve III.'teki örnekler, bu sistemin ayarlanmış
+boya kalemlerinin, kartlarının ve sulu boyalarının bir çocuğu renk uyumuna dair
+ince takdirlere nasıl başarıyla yönlendirdiğini göstermektedir.
+
+TABLO II.
+
+ALT SINIFLARDA AYARLANMIŞ KRAYONLARLA RENK ÇALIŞMALARI.
+
+Çocuklar bu tabaktaki her örneği, gri ve siyahla yumuşatılmış
+orta tondaki beş boyadan başka hiçbir malzeme kullanmadan yaptılar.
+Referans için odada her zaman bir Renk Küresi bulundurulur ve beş orta tonla eşleşen beş renk
+topu en küçük öğrencilerin ellerine yerleştirilir. Değer ve Kroma ölçeklerindeki bu orta noktalardan başlayarak, tüm açık ve koyu değerleri, tüm zayıf ve güçlü kromaları doğru bir şekilde tahmin etmeyi öğrenirler ve kademeli olarak renk hakkında disiplinli bir yargı geliştirirler.
+
+Her çalışma, metinde önerildiği gibi, bir renk öğesinin basit bir şekilde değiştirilmesiyle birçok varyasyonun temeli haline getirilebilir.
+
+1. Kelebek. Sarı ve siyah boya. Siyahla herhangi bir tek boya kullanarak değişiklik yapın.
+
+2. Tabak. Arka ve ön plan için kırmızı boya, mavi ve yeşil boya. Seçilen herhangi bir rengin iki zıttını kullanarak ve iki komşu rengi atlayarak değişiklik yapın. 4. No'ya bakın.
+
+3. Hiawatha'nın kanosu. Kenarı ve adı yeşil olan sarı boya kalemi. Kenarı komşu bir renk tutarak kanonun rengini değiştirin. 4. No'ya bakın.
+
+4. Renk çemberi. Ortada gri boya kalemi ve eşit aralıklı beş boya kalemi. Bu değişmez sırayı verir, kırmızı, sarı, yeşil,
+mavi, mor. _Asla tek bir tasarımda beşini birden kullanmayın._ Ya bir renk ve iki komşusunu ya da bir renk ve iki zıttını kullanın.
+Herhangi iki komşunun dokunuşlarını karıştırarak, ara renkler yapılır ve sarı-kırmızı (turuncu), yeşil-sarı, mavi-yeşil, mor-mavi (mor) ve kırmızı-mor olarak adlandırılır. Kısaltılmış olarak, daire R, YR, Y,
+GY, G, BG, B, PB, P, RP şeklinde okunur.
+
+5. Rozet. Ortada kırmızı çarpı, yeşil yapraklar: mavi alan, siyah
+anahat. 2 numaradaki gibi değişir.
+
+6. Rozet. Yaprakların yeşil merkezi ve kenarı, mor alan ve siyah
+vurgular. Alanı iki renk uzakta tutarak merkezin rengini değiştirir.
+
+7. Ekose. Siyahla birlikte herhangi üç boya kalemi kullanın. Üçlüyü değiştirir.
+
+8. Paravan. Sarı alan (hafifçe uygulanmış), yeşil ve siyah
+kenar. Her rengin daha açık ve daha koyu değerlerini yapın ve siyahtan beyaza derecelendirilmiş
+ölçeklerde düzenleyin.
+
+9. Halı. Düz kırmızı merkez, kenar deseni ve gri
+kenarlarla açık kırmızı alan. Buna kendi rengi denir. Her bir
+boya kalemini değiştirin.
+
+10. Halı. Açık sarı alan ve düz merkez, kenar tasarımında mor ve siyah
+. Zemin değişikliğine göre değişiklik yapın, tasarımı iki renkten uzak ve siyahla koyulaştırılmış halde tutun.
+
+11. Kafes. Siyahla sarı: yeşil ve mavi eşkenar dörtgenleri dönüşümlü olarak kullanın.
+
+İki komşu rengin eşkenar dörtgenlerini tutarak, ancak bir rengi kafesten çıkararak değişiklik yapın.
+
+Bu renk gruplarında yer alan ilkeler için Bölüm III'e bakın.
+
+TABLO III.
+
+ÜST SINIFLARDA AYARLANMIŞ SULU BOYALARLA RENK ÇALIŞMALARI.
+
+Ayarlanmış boya kalemleriyle yapılmış ve renk küresine referansla test edilmiş, ölçülü ölçeklerle yapılan önceki çalışmalar, renk yargısını o kadar eğitti ki
+çocuklara artık daha esnek bir malzeme güvenilebilir.
+
+Kürenin ekvatorundaki eşit renk derecelerini ezberlediler ve
+daha açık renklerin daha koyu renkleri nasıl dengeleyebileceğini,
+daha güçlü kroma alanlarının daha zayıf kroma kütleleriyle nasıl dengelenebileceğini ve
+genel olarak disiplinli bir renk duygusu edindiler. Kesin izlenimler ve net düşünme, tahmin yürütmenin ve 
+hata yapmanın yerini almıştır.
+
+Böylece, ortaokula ulaşmadan önce, yüzyıllar önce müzik duygusu için tasarlanmış olana benzer bir sistem ve notasyonla renk yeteneği edinirler. Hiçbir sistem, ne kadar mantıklı olursa olsun,
+sanatçıyı üretemez, ancak her sanatçının başlangıçta biraz sistematik eğitime ihtiyacı vardır ve ölçülen gamlarla yapılan bu basit yöntemin
+şimdiye kadar tasarlanmış en iyi yöntem olduğuna inanılmaktadır.
+
+[İllüstrasyon: LEVHA 2.
+Telif hakkı 1907 A. H. Munsell'e aittir]
+
+[İllüstrasyon: LEVHA 3.
+Telif hakkı 1907 A. H. Munsell'e aittir]
+
+Bu levhadaki her örnek, metinde önerildiği gibi, renk adımlarında küçük değişikliklerle birçok varyantın temeli haline getirilebilir ve
+VI. Bölümde daha ayrıntılı olarak açıklanabilir. Gerçekten de, Levha II ve III'te yeniden üretilen çalışmalar. tek bir okulda üretilen yüzlerce hoş sonuçtan sadece bir avuçtur.[26]
+
+1. Desen. Mor ve yeşil: ikisi birleştirilip suyla inceltildiğinde
+zemini verecektir. Herhangi bir diğer renk çiftiyle değişir.
+
+2. Desen. Orta kırmızı, daha koyu mavi-yeşil vurgulu şekil.
+Orta sarı zemin, kırmızı ve yeşilin hafifçe eklenmesiyle grileşmiş.
+Mavi-yeşil yerine morla değişir.
+
+3. Japon çaydanlığı. Orta kırmızı, daha açık sarı arka plan ve grileşmiş orta sarı ön plan.
+
+4. No. 3'ün varyantı. Orta sarı, hafif yeşil eklenmesiyle.
+Ön plan aynı, daha fazla kırmızı ve arka plan orta gri.
+
+5. Grup. Sarı-kırmızı arka plan, sarı-yeşil daha açık vazo,
+ve hafif siyah eklenmesiyle daha koyu yeşil vazo.
+Zemin ve daha koyu vazodaki renklerin ters çevrilmesiyle değişir.
+
+6. Duvar dekorasyonu. Sazlardan ve
+yapraklardan yapılmış friz deseni,--mavi-yeşil yapraklar siyahla, sarı-kırmızı kuyruklar siyahla ve iki rengin zemini suyla birleştirilip
+inceltilmiş. Mavi-yeşil duvar, frizdeki iki rengin eklenmesiyle hafifçe grileşmiş. Dado sazların bir eşleşmesi olabilir
+biraz daha gri. _Bkz. Şekil 23, sayfa 82._
+
+7. Grup. Ön plan mor-mavi, siyahla grileşmiş. Vazo mor-kırmızı ve arka plan daha açık sarı-kırmızı, grileşmiş.
+
+Grupların analizi ve bunları kaydetme araçları için Bölüm III'e bakın.
+
+[Dipnot 26: The Pope School, Somerville, Mass.]
+
+BÖLÜM V.
+
+BİR PİGMENT RENK KÜRE.[27]
+
++Pigmentlerle bir renk küresi nasıl yapılır.+
+
+(102) Önceki bölümler, her renk hissinin yerini bulduğu ve renk tonu, değer ve kroma derecesiyle açıkça
+adlandırıldığı ideal bir renk katısı oluşturmuştur.
+
+[İllüstrasyon: Şekil 16.]
+
+Sistemin nötr merkezinin tüm renkler için bir denge noktası olduğu, bu merkezden geçen bir çizginin birbirini dengeleyen ve tamamlayan zıt renkler bulduğu gösterilmiştir; ve artık bu ideal renk ilişkilerini bir renk küresinde pigmentlerin izin verdiği ölçüde gerçekleştirerek pratik bir uygulama yapmaya hazırız[27] (Şekil 16).
+
+[Dipnot 27: 9 Ocak 1900'de patentlendi.]
+
+(103) Malzemeler oldukça basittir. İlk olarak, ekseninde serbestçe dönecek şekilde monte edilmiş renksiz bir küre. Daha sonra, bu amaç için özel olarak tasarlanmış, gün ışığı fotometresi ile elde edilen ölçülü bir değer ölçeği.[28] Daha sonra, makul kalıcılığı uzun süreli kullanımla test edilmiş ve kürenin yüzeyine yayıldıklarında parıldamayacak, ancak düzgün bir mat yüzey verecek şekilde hazırlanmış, dikkatlice seçilmiş bir dizi pigment. Bir cam palet, palet bıçağı ve bazı ince fırçalar listeyi tamamlar.
+
+[Dipnot 28: 65. paragrafa bakın.]
+
+(104) İşte Bölüm III'te açıklanan beş zıt renk tonunu temsil etmek için çiftler halinde düzenlenmiş boyaların bir listesi, 61-63. paragraflar:--
+
+_Renk Çiftleri._ _Kullanılan Pigmentler._ _Kimyasal Yapı._
+
+Kırmızı ve Venedik kırmızısı. Kalsine edilmiş doğal toprak.
+Mavi-yeşil. Viridian ve Kobalt. Krom seskioksit.
+
+Sarı ve Ham Siena. Doğal toprak. Mor-mavi. Ultramarin. Yapay ürün.
+
+Yeşil ve Zümrüt yeşili. Bakır arsenatı.
+Kırmızı-mor. Mor kök boya. Kök boya bitkisinin özü.
+
+Mavi ve Kobalt. Alümina ile kobalt oksit.
+Sarı-kırmızı. Turuncu kadmiyum. Kadmiyum sülfürü.
+
+Mor ve Kök boya ve kobalt. Yukarıdaki her pigmente bakın.
+Yeşil-sarı. Zümrüt yeşili Yukarıdaki her pigmente bakın.
+ve Siena.
+
+(105) Bu boyaların çeşitli ton, değer ve kroma dereceleri vardır, ancak nötrler, çinko beyazı ve fildişi siyahı eklenerek yumuşatılabilir, ta ki her biri orta değere getirilip değer ölçeğinde test edilene kadar. Her çift böylece dengelendikten sonra, küre üzerindeki uygun yerlerine boyanır ve dengeli tonlardan oluşan bir ekvator oluşturulur.
+
+[Resim: Şekil 17.]
+
+(106) Bu dengeyi kanıtlama yöntemi daha önce
+Bölüm IV, paragraf 93'te önerilmiştir. Bu, Clerk-Maxwell tarafından tasarlanmış, renklerin kimyasal olarak temas etme riskleri olmadan karıştırılması sonucunu veren ve ayrıca kullanılan her birinin miktarını doğru bir şekilde ölçen
+bir araçtan oluşur (Şekil 17).
+
+(107) Buna Maxwell diski denir ve bir döner motorun miline uyacak şekilde merkezi bir delik açılmış, sert bir kartondan yapılmış bir daireden başka bir şey değildir ve
+çevreden merkeze doğru radyal bir yarık vardır, böylece başka bir disk, yüzeyinin istenen herhangi bir kısmını kaplamak için ilk diskin üzerinden kaydırılabilir.
+Bu disklerden birini Venedik kırmızısıyla, diğerini ise kürede kullanılacak pigmentler listesindeki ilk çift olan viridyen ve kobaltla boyayalım.
+
+(108) Bu iki diski kuruttuktan sonra, biri motor şaftında diğeriyle birleştirilir, böylece her renk dairenin yarısını kaplar. Motor
+çalışır
+çalışmaz, iki renk artık ayırt edilemez hale gelir ve hızlı
+dönme onları o kadar mükemmel bir şekilde eritir ki göz, retinadaki karışımları nedeniyle yeni bir renk görür. Bu yeni renk kırmızımsı bir gridir ve kırmızının mavi-yeşilden daha kromatik olduğunu gösterir. Ancak
+motoru durdurup yeşil diski kaydırarak kırmızının daha fazlasını örttüğünde,
+dönmenin onları mükemmel bir şekilde nötr bir griye erittiği bir noktaya gelir.
+Her iki renk tonundan da hiçbir ipucu kalmaz ve çiftin dengede olduğu söylenir.
+
+(109) Bu denge iki pigmentin _eşit olmayan alanları_ ile elde edildiğinden, renk tonlarındaki eşit kroma eksikliğini telafi etmelidir (bkz.
+paragraflar 76, 77); ve bu eşitsizliği ölçmek için, kenarında ondalık bölmeler bulunan biraz daha büyük bir disk, iki boyalı diskin arkasına yerleştirilir. Bu ölçek kırmızının alanın 3-1/3 kısmını kapladığını, mavi-yeşilin ise 6-2/3 kısmını kapladığını gösteriyorsa, o zaman mavi-yeşil kırmızının sadece yarısı kadar kromatik olmalıdır, çünkü dengeyi oluşturmak için iki katı kadar
+renk gerekir.
+
+(110) Kırmızı daha sonra grileştirilir (ortadaki gri eklenerek renk yoğunluğu azaltılır) ta ki dairenin yarısını kaplayabilene kadar, kalan yarıda mavi-yeşil kalana kadar ve
+döndürmeyle karıştırıldığında hala nötrlük üretebilene kadar.
+Her disk artık ondalık ölçekte 5 olarak okunur. Kırmızının grileşmesinin değerini bozmuş olması ihtimaline karşı, tekrar fotometrik ölçekte test edilir ve 4.7 okur, grileştirme işlemiyle hafifçe koyulaştırıldığını gösterir. Bu nedenle değeri 5'e geri dönene kadar biraz beyaz eklenir.
+
+(111) İki zıtlık artık tamamen dengelenmiştir, çünkü değer olarak eşittirler (5), renk olarak eşittirler (5) ve nötr bir karışım oluşturmak için eşit alanlarda birleşerek tamamlayıcılar olarak eşitliklerini kanıtlamışlardır. Geriye sadece küre üzerinde uygun pozisyonlarına uygulamak kalır.
+
+(112) Ekvatorun etrafına, on eşit boşluğa bölünmüş ve R, YR, Y, GY, G, BG, B, PB, P ve RP harfleriyle yazılmış bir bant çizilir (bkz. Şekil 18). Bu dengeli kırmızı ve mavi-yeşil, R ve BG ile işaretlenmiş boşluklara fırçayla uygulanır, sınırları aşmamak için doldurmaya dikkat edilir ve
+renk tamamen düz bir şekilde serilir, böylece değer veya renk düzensizliği
+dengeyi bozmaz.
+
+(113) Raw Sienna ve Ultramarine ile temsil edilen bir sonraki çift, benzer şekilde orta değere getirilir, Maxwell disklerinde eşit alanlarla dengelenir ve her kalitede doğru olduğunda Y ve PB boşluklarına boyanır. Bir sonraki pigment çiftini oluşturan Zümrüt Yeşili ve Mor Kök Boyası benzer şekilde yumuşatılır, kanıtlanır ve uygulanır, ardından kürenin ekvatoru on eşit orta renk tonunu sunana kadar kalan iki çift uygulanır.
+
++On dengeli renk tonundan oluşan bir ekvator.+
+
+(114) Şimdi kürenin döndürülmesiyle bu dengeli renk tonları devresinin toplam testi geliyor. Hız kazandıkça renkler giderek daha az parlar ve sonunda mükemmel bir nötrlüğün orta grisine dönüşür. Bu griyi üretmeyi başaramamış ve hala devam eden bir renk tonu göstermiş olsaydı, kalıcı renk tonunun fazla olduğunu veya tersine, zıt renk tonunun kroma açısından yetersiz olduğunu ve dengedeki payını koruyamadığını söylerdik.
+
+[Resim: Şekil 18.]
+
+(115) Örneğin, rotasyon kırmızımsı grinin kalıcılığını keşfetmiş olsaydı, kırmızının çok güçlü olduğunu veya zıt renginin, mavi-yeşilin çok zayıf olduğunu kanıtlayacaktı ve rotasyon testiyle nötrlük sağlanana kadar adımlarımızı geri çekmek zorunda kalacaktık.
+
+(116) Bu, bir _rengin ölçülebilen üç boyutu olduğu_ iddiasının (Bölüm I,
+paragraf 8) pratik bir gösterimidir. Bu on orta tonun her biri, değer ve renk ölçümleriyle renk küresinde kesin bir yere sahip olma hakkını kanıtlamıştır. Eşit renk
+değerine sahip olduklarından, hepsi nötr merkezden eşit uzaklıktadır ve değer olarak eşit olduklarından, hepsi kutuplardan eşit olarak uzaklaştırılmıştır. Sıcak tonlar (kırmızı ve sarı) veya soğuk tonlar (mavi ve yeşil) fazlaysa, kürenin
+dönme testi grilik üretmeyi başaramaz ve böylece
+dengesizliğini tespit edemezdi.[29]
+
+[Dipnot 29: Böyle bir test, bu bölümün Ek'inde gösterildiği gibi, Runge ve Chevreul şemalarındaki sıcak renk fazlalığını ortaya çıkarırdı.]
+
++Kromatik bir diyapazon.+
+
+(117) Bu renk ekvatorundaki beş ana adım kalıcı emaye ile yapılır ve dikkatlice korunur, böylece küreye
+boyanmış pigmentler değişirse veya kirlenirse, hemen tespit edilebilir ve düzeltilebilir. Bu beş tanesi orta kırmızıdır (beyaz ve siyahın ortasında ve en güçlü kırmızımızla nötr merkezimizin ortasında olduğu için böyle adlandırılır), orta sarı, orta yeşil, orta mavi ve orta mor. Bunlara KROMATİK DİYAFON ÇATALI denebilir, çünkü
+renklerin perdesini oluşturmaya yararlar, tıpkı müziksel diyapozonun seslerin perdesini koruması gibi.
+
++Bir pigment renk küresinin tamamlanması.+
+
+(118) Kromatik diyapozon bu şekilde elde edildiğinde, kürenin tamamlanması sadece bir sabır meselesidir, çünkü aynı yöntem değer ölçeğindeki herhangi bir seviyede uygulanabilir ve beyaz ve siyah kutupları arasındaki konumuna uyacak şekilde yeni bir dengeli renk devresi yapılabilir.
+
+[Resim: Şekil 19. ]
+
+(119) Ekvator bandının üstündeki ve altındaki yüzey, fotometrik ölçeğe uyması için paralelliklerle
+ayrılır ve toplamda dokuz bant veya değer
+bölgesi oluşturur, bunlardan ekvator beşincidir, siyah kutup 0 ve beyaz kutup 10'dur.
+
+(120) On meridyen, ekvator renk tonlarını tüm bu değer
+bölgeleri boyunca taşır ve her bir renk tonunun derecesini, 68. paragrafta gösterildiği gibi değerleriyle işaretlenmiş, siyahtan beyaza doğru tam bir ölçek boyunca izler. Böylece
+kırmızı ölçek R1, R2, R3, R4, R5 (orta kırmızı), R6, R7, R8 ve R9'dur
+ve diğer renk tonlarının her biri için de benzerdir. Her seviyeye karşılık gelen renk tonları çemberi uygulanıp test edildiğinde, kürenin tüm yüzeyi mantıksal bir renk ölçekleri sistemiyle
+yayılır ve göz, her yönde ölçülü adımlarla hareket eden düzenli dizilerle tatmin olur.
+
+(121) Her meridyen, içinde bulunduğu renk tonu için bir değer ölçeği izler. Her paralel, çizildiği seviyedeki değer için bir renk tonu ölçeği izler. Bu ölçekler boyunca herhangi bir eğik yol, her adımda renk tonu değişimini değer ve renk tonu değişimiyle birleştiren düzenli bir dizi izler. Bu yol dikeye yaklaştıkça, renk tonu değişimleri daha az ve değer ve renk tonu değişimleri daha fazla olur; yataya yaklaştıkça, değer ve renk tonu değişimleri daha az olurken, renk tonu değişimleri daha fazla olur. Bu iki eğik yoldan birincisi, tuvalleri büyük ışık ve gölge kontrastları sunan Rembrandt gibi bir Luminist veya ressamın, ikincisi ise beyaz ve siyahın şiddetli uç noktaları olmadan büyük renk tonu doluluğu gösteren Titian gibi bir Renkçinin yoludur. +Herhangi bir istenen eksende döndürülerek test edilen kürenin toplam dengesi.+
+
+(122) Renk küresinin montajı sadece dikey eksende (beyaz-siyah) dönmesine izin vermekle kalmaz, aynı zamanda herhangi bir istenen eksenin uçlarında döndürülebilecek şekilde asılmıştır, örneğin, ilk renk çiftimiz olan kırmızı ve mavi-yeşili birleştirerek. Bu çifti dönüşün kutupları olarak kullanarak, bir tarafta morun tüm değerlerinden ve diğer tarafta yeşil-sarıdan oluşan yeni bir ekvator çizilir, bu da dönüş testinin orta grinin mükemmel bir dengesiyle erittiği, bu değerlerin doğruluğunu kanıtlayan bir
+ekvator çizilir. Aynı şekilde, tüm küresel serinin toplam dengesi kanıtlanana kadar ardışık eksenlerde asılabilir ve test edilebilir.
+
+(123) Ancak bu renk sistemi, renklerin bir kürenin yüzeyine yayılmasıyla sona ermez.[30] Renkle dolu bir portakalın ilk çizimi, hayal gücünü, kromanın düzenli olarak azalmasıyla nötr eksene doğru bir yüzey rengini takip etmeye teşvik etmek amacıyla seçilmiştir. Katının herhangi bir seviyesindeki bir dilim, değer 8'de olduğu gibi (Şekil 10), o seviyenin her tonunun, eksenin nötr grisi N8'ine doğru artan grilik adımlarıyla geçtiğini gösterir. Bu seviyedeki kırmızı durumunda, R 8/3, R 8/2, R 8/1 notasyonuyla kolayca tanımlanır, bunların başlangıç ​​ve üst rakamları değişmez, ancak alt rakam nötr eksene doğru kromanın 3, 2 ve 1 kaybını izler.
+
+[Dipnot 30: Bu sistemden hiçbir renk hariç tutulmamıştır, ancak pigment kromasının fazlalıkları ve eşitsizlikleri Renk Atlası'nda izlenmiştir.]
+
+(124) Ve yüzeyin dışında daha güçlü kırmızı kromaları vardır, bunlar R 8/4, R 8/5, R 8/6 vb. olarak yazılabilir. Gerçekten de, renk ölçümlerimiz kullanılan çeşitli pigmentlerde kroma açısından o kadar büyük farklılıklar keşfeder ki, 34, 35. paragraflarda belirtilen renk ağacı, çoğu küresel kabuğun oldukça dışında ve çeşitli değer seviyelerinde olan maksimum kromalarını göze getirmek için gereklidir. Renk küresini tanımlamanın bir yolu, düzensiz dalları uygun renkle doldurulmuş bir renk ağacının, bir torna tezgahına yerleştirilebileceğini ve renk maksimumları kaldırılıncaya kadar aşağı doğru çevrilebileceğini, böylece en zayıf pigmentinin kromasından daha büyük olmayan bir renk katısı üretilebileceğini öne sürmektir (Şekil 2).
+
++Katı renk grafikleri. +
+
+(125) Böylece, renk küresinin çocuğun renk ilişkilerini kavramasında, üç renk ölçüsü ölçeğini birleştirmesinde ve tepesiyle renk dengesi teorisinin mükemmel bir testini sağlamasında değerli bir yardım olmasına rağmen, her zaman en zayıf renginin kromasıyla sınırlı olduğu, diğer tüm renklerin fazla kromalarının pigmentlerimizin maksimumlarına ulaşmak için çeşitli seviyelerde inşa edilmiş devasa dağlar olarak düşünüldüğü ortaya çıkar.
+
+(126) Bu nedenle, tam renk katısı, pigmentlerin eşitsizliklerine karşılık gelen
+dağlar ve vadilerle düzensiz bir şekle sahiptir. Bu eşitsizlikleri göze göstermek için, katının kesitlerini veya grafiklerini, bazıları yatay, bazıları dikey ve diğerleri eğik olarak hazırlamalıyız.
+
+(127) Bu tür bir grafik seti, renk katısının bir atlasını oluşturur ve kişinin herhangi bir rengi diğer tüm renklerle ilişkisinde görmesini ve onu renk tonu, değer ve kroma derecesine göre adlandırmasını sağlar. Şekil 20, orta değeri (5) gösteren tüm renklerin yatay bir grafiğidir ve bu seviyedeki her bir renk tonunun kromasını düzensiz bir konturla tanımlar. Noktalı beşinci daire, ana renkleri R 5/5, Y 5/5, G 5/5, B 5/5 ve P 5/5 olan renk küresinin ekvatorudur, paragraf 117.
+
+[Resim: Şekil 20.
+
+Orta Değer
+- 5 -
+Çizgisi, Renk Tonları Çemberinde Eşit Olmayan Kroma Gösteriyor. (Bkz. Şekil 2).]
+
+(128) Bu tek grafikte göz, her biri tonu, değeri ve kromasıyla yazılabilen yaklaşık üç yüz farklı rengi kolayca ayırt edebilir. Ve bunlardan birinin en ufak bir değişimi bile tanımlanabilir. Bu nedenle, ana kırmızı hafifçe solup mineden biraz daha açık ve biraz daha zayıf olsaydı, R{5.1/4.9} olarak yazılırdı ve %1 oranında açıldığını ve %1 oranında zayıfladığını gösterirdi. Bu ondalık gösterimle mümkün olan ayrımcılık, mevcut görsel sınırımızdan çok daha iyidir. Kullanımı, daha ince bir renk algısını teşvik edecektir.
+
+(129) Bu küçük kitabın sınırları içinde verilebilecek olan Renk Katı ve Renk Atlası'nın bu kadar temel bir taslağı, başka bir yerde daha büyük ve daha eksiksiz bir ölçekte sunulacaktır. Son bölüm, 98, 99. paragraflarda önerilen, prizmatik renklerden oluşan ideal formla karşılaştırılmalıdır; bu form uygulanamaz olduğu gösterilmişti, ancak pigmentlerin sınırlamaları izin verdiği sürece ideal koşullarını takip ediyordu.
+
+(130) Eğitimdeki değerinin yanı sıra, tüm renk kavramlarımızı düzene koyması ve bunların açık bir şekilde ifade edilmesi için basit bir yöntem sağlamasının yanı sıra, günlük renk kullanımına eşlik eden yanlış anlamaların çoğunu ortadan kaldırmayı vaat ediyor.
+
+(131) Popüler renk adları uyumsuz, mantıksız ve genellikle gülünçtür. Schiffer-Muller tarafından 1772'de yapılan mavi bir ölçekteki 25 adımlık listeyi okurken gülümsemek gerekir:--
+
+A. _a._ Saf beyaz.
+_b._ Beyaz gümüş veya sedefli.
+_c._ Beyaz sütlü.
+B. _a._ Mavimsi beyaz.
+_b._ İnci beyazı.
+_c._ Sulu beyaz.
+C. Mavi doğuyor.
+D. Mavi ölüyor veya soluk.
+E. Mignon mavisi.
+F. Gök mavisi veya gök rengi.
+G. _a._ Gök mavisi veya lacivert.
+_b._ Tam veya mükemmel mavi.
+_c._ İnce veya kraliçe mavisi.
+H. Gizli mavi veya turkuaz.
+I. Kral mavisi (koyu).
+J. Açık kahverengi mavi veya çivit.
+K. _a._ Fars mavisi veya mavi çiçek.
+_b._ Demir veya çelik mavisi.
+_c._ Canlı mavi.
+L. _a._ Siyahımsı mavi.
+_b._ Cehennem mavisi.
+_c._ Siyah-mavi.
+M. _a._ Mavi-siyah veya kömür.
+_b._ Kadife siyah.
+_c._ Jet siyahı.
+
+Bu 25 rengin 13 grupta, bazılarında üç, bazılarında ise sadece bir örnekle aralıklandırılmasının avantajı açık değildir; ayrıca ultramarin renginin turkuazdan neden birkaç adım daha yukarıda olması gerektiği de açık değildir, çünkü genellikle bunun tersi doğrudur. Bunun dışında turkuazın tonu yeşilimsiyken
+ultramarin'inki morumsu ama liste bunu gösteremez; ve bir mavi türünün "cehennemsi", diğerinin ise "göksel" olduğu şeklindeki dikkat çekici ifade, çok az kişinin iddia edebileceği bir deneyime dayanmalıdır.
+Renk değerini ve renk tonunu tanımlamada başarısız olan liste, C ve D'de bir mavi türünün "ölmekte"
+olduğu ve diğerinin "doğmakta" olduğu durumlar dışında, renk gücüne dair hiçbir ipucu vermez; bu da birçok kişinin renk
+hafızasını uygunsuz bir şekilde tanımlamaz. Son olarak, Kraliçe mavisinin "ince" ve Kral mavisinin "derin" olduğunu bize temin eder.
+
+Bu yıl moda olan tonlar "yanmış soğan" ve "taze ıspanak"tır.
+Çiçekçiler "pembe menekşe" ve "yeşil pembe"den bahseder. Bir mürekkep üreticisi kırmızıyı "gerçek koyu kırmızı" olarak tanımlar ki bu da terimler açısından bir çelişkidir. Bunlar ve en heterojen kaynaklardan ödünç alınan diğer birçok isim, bu sistemin basit renk terimleri ve ölçümleri benimsenir benimsenmez yasa dışı hale gelir.
+
+Renk anarşisi sistematik renk tanımıyla değiştirilir.
+
+BÖLÜM V'E EK.
+
++ Brewster'ın hatalı teorisine dayalı renk şemaları.+
+
+[İllüstrasyon]
+
+Hamburg'lu Runge (1810), kırmızı, sarı ve mavinin bir kürenin ekvatoru etrafında eşit uzaklıkta, beyaz ve siyahın ise zıt kutuplarda yerleştirilmesini önerdi. Sarı çok açık ve mavi çok koyu olduğundan, kırmızı, sarı ve mavinin değer ölçeklerinde herhangi bir tutarlılık imkansızdı.
+
+Paris'li Chevreul (1861), Gobelins'deki işçileri için tek tip renk ölçekleri ararken, on renk çemberinden oluşan içi boş bir silindir tasarladı. Üstteki daire eşit aralıklarla kırmızı, sarı ve maviye sahipti ve Runge'nin katısında olduğu gibi sarı çok açık ve mavi çok koyuydu. Her daire daha sonra siyah tabana ulaşana kadar bir sonrakinden "onda bir" daha koyu yapıldı. Her dairenin yatay olarak uzanması gerekmesine rağmen, yalnızca en alttaki siyah daire tekdüze değerler sunar. Sarı değerler, mor değerlerden üç kat daha hızlı parlaklıklarını artırır, böylece her daire artan bir açıyla eğilmeli ve en güçlü renklerin üstteki dairesi siyah tabana 60 derece eğimli olmalıdır. Runge'nin küresiyle paylaşılan bu hatanın yanı sıra, eklenen siyahın kromayı azalttığı alt dairelerin boyutunu azaltmayarak başka bir hataya düşer. Renkleri seçilen bir kontura uydurma isteği ve ölçüm aletlerinin yokluğu, bu şemaların renk ilişkisinin gerçeklerini görmezden gelmesine neden olur. Bir fatihi memnun etmek için yapılmış eski haritalar gibi, çarpıtmalarıyla eğlendirirler.
+
+Brewster'ın hatalı teorisi, renk eğitiminin tam eşiğinde yanlış fikirler vermeye devam eden renk topları olan Froebel'in hediyeleri için de geçerli olduğu gibi, bu şemaların temelini oluşturur. Bölüm III'ün Ek'inde belirtildiği gibi, "kırmızı-sarı-mavi" teorisi kaçınılmaz olarak sarı-kırmızının sıcak alanını çok fazla yayar ve mavi alanı daraltır, böylece renk dengesi imkansız hale gelir, gösterişli krom ve alevli reklam panosunda gösterildiği gibi.
+
+Bu şemalar Rood tarafından "sadece temelde keyfi değil, aynı zamanda belirsiz" olarak eleştirilir; ve Chevreul'un grafikleri hükümet tarafından en ayrıntılı biçimde yayınlanmış olsa da, bunların faydası azdır. Mevcut sistemin ölçülü karakteri nedeniyle,
+büyümesine olan ilgi, Profesör Rood'u testlerde yardım etmeye yöneltti ve onun isteği üzerine Columbia'daki Fiziksel Kabin için bir
+renk küresi yapıldı.
+
+BÖLÜM VI.
+
+RENK NOTASYONU.
+
++ Kromatik bir puan önerisi.+
+
+[Resim: Şekil 21.]
+
+(132) Son bölüm, pratik bir renk küresinin
+yapımına giden bir dizi adımı izledi. Her renk, pozisyonuna yerleştirilmeden önce, uygun aletlerle
+ton, değer ve kroma derecesini güvence altına almak için test edildi. Daha sonra, herhangi bir denge eksikliğini tespit etmek için toplam küre test edildi.
+
+(133) Her renk ayrıca bir harf ve iki rakamla _yazıldı_ ve
+ton, değer ve kroma olmak üzere üç ölçekteki yerini gösterdi. Bu, doğal olarak, yalnızca her bir ayrı renk duyumunun bir kaydını değil, aynı zamanda bu kayıtların seri ve gruplar halinde birleştirilmesini, ölçülen ses ilişkilerinin kaydedildiği müzik notasına benzer bir _renk
+puanı_ oluşturmasını da önerir.
+
+(134) Çok basit bir renk puanı biçimi, kürenin ekvatorunun etrafına sarılmış şeffaf bir
+zarf ve
+dikey bir silindir (Şekil 21) olarak kolayca hayal edilebilir. Zarf üzerinde ekvator,
+_değer ölçeğinin_ 5'inde olan yatay bir merkez çizgisi izler,
+üstte 6, 7, 8 ve 9 bölgeleri ve altta 4, 3, 2 ve 1 bölgeleri paraleldir. Bu merkez çizgisinde, _renk tonu ölçeğinin_ bölümlerine karşılık gelen ve R, YR, Y, GY, G, BG, B, PB, P ve RP olarak işaretlenen on eşit uzaklıktaki noktadan dikey çizgiler çizilir.
+
+(135) Şeffaf zarf böylece her on orta renkten on adım değer sağlayan yüz bölmeye ayrılır. Şimdi, bu zarfı dikeylerden biri boyunca kesersek, örneğin kırmızı-mor (RP), yayılabilir ve
+renk küresinin düz bir çizelgesi yapılabilir (Şekil 22).
+
++Neden yeşil puanın merkezine verilir.+
+
+(136) Silindirik bir zarf istenilen herhangi bir meridyende açılabilir,
+ancak çizelgenin merkezinde yeşil (G) olması bir avantajdır ve
+bu nedenle zıt noktada, kırmızı-mor (RP) açılır. Yeşil merkezin sağında yeşil-sarı (GY), sarı (Y), sarı-kırmızı (YR) ve kırmızı (R) meridyenleri bulunur ve bunların hepsi sarı ve kırmızı içerdikleri için _sıcak renkler_ olarak bilinir. Solda mavi-yeşil (BG), mavi (B), mor-mavi (PB) ve morun (P) meridyenleri vardır ve bunların hepsi mavi içerdikleri için _soğuk renkler_ olarak adlandırılır. Yeşil, kendi başına ne sıcak ne de soğuk olduğundan ve yalnızca sarı veya mavi eklenerek 
+sıcak hale geldiğinden, renk tonu ölçeğinde bir denge noktası veya 
+merkez görevi görür.[31]
+
+[Dipnot 31: Bunu spektrum dalga boyları açısından ifade etmek gerekirse, 
+spektrumun kırmızı ucundaki uzun dalgalar sıcaklık hissi verirken,
+mor ucundaki kısa dalgalar serinlik hissi verir. Bu uçların ortasında yeşilin dalga boyu bulunur.]
+
+[Resim: Şekil 22.]
+
+(137) Renk skoru, ekvatorun yeşil meridyeniyle kesiştiği noktadan oluşan dört büyük bölümü veya renk alanını sunar.
+Merkezin üstünde tüm açık renkler, altında ise tüm koyu renkler bulunur. Merkezin sağında tüm sıcak renkler, solunda ise tüm soğuk renkler vardır. Ortadaki yeşil (5G 5/5), tüm pratik renk çalışanları tarafından tanınan bu zıt nitelikler için denge merkezidir.
+Tablo, uzunluğu renk küresinin ekvatoruna eşit ve yüksekliği eksene eşit olan (3.14:1 oranında) bir dikdörtgen oluşturur ve
+renk tonu ve değer ölçeklerinin birleşimini ve dengesini temsil eder. Bu, iki renk boyutu sağlar; ancak, eksiksiz olması için,
+tablonun üçüncü boyut olan kroma için sağlaması gerekir.
+
+(138) Tabloyu kürenin etrafına koyup uçlarını birleştirerek, böylece
+şeffaf zarfı yeniden oluşturur, kürenin yüzeyini delinceye kadar herhangi bir noktadan bir iğne saplayabiliriz. Gerçekten de, iğne
+nötr eksene ulaşana kadar daha derine saplanabilir, böylece girdiği renk noktası için bir kroma ölçeği oluşturur (bkz. paragraf 12). Aynı şekilde, kürenin üzerindeki, kürenin içindeki veya dışındaki herhangi bir renk, yerlerini işaretlemek için tabloya çiviler batırılabilir ve her bir çivinin çıkıntı yaptığı uzunluk, renk yoğunluğunun bir ölçüsü olarak alınabilir.
+Eğer tablo şimdi açılırsa, yerlerine göre bir rengin tonunu ve değerini tanımlayan çivileri korurken, uzunlukları renk yoğunluğunu tanımlar.
+
++Puan içine batırılan çiviler renk yoğunluğunu temsil eder.+
+
+(139) Üçüncü renk boyutunun puana dahil edilmesi fikriyle çiviyi atabilir ve uzunluğunu bir sayıyla kaydedebiliriz. Puana yerleştirilen herhangi bir
+nokta belirli bir renk tonu ve değeri işaretlerken, yanındaki bir
+rakam taşıdığı renk tonu derecesini işaretler ve o noktanın renk tonu ve değeriyle birleşerek bize belirli bir renk verir.
+Bu tür renk noktalarının bir serisine göz gezdiren göz, onların bireysel karakterini kolayca kavrar ve bunları anlaşılır bir seriye bağlar.
+
+(140) Böylece düz bir grafik, renk katısının izdüşümü haline gelir ve
+o katıdaki herhangi bir renk, renk tonu, değer ve renk tonu derecelerini koruyarak
+grafik yüzeyine aktarılır. Şimdiye kadar ölçeklerin on adıma bölündüğü söylendi, ancak istenirse ondalık nokta kullanılarak çok daha ince alt bölümlere ayrılabilirler. Sadece büyük bölümlerle küçük bir puan mı yoksa yüz kat daha fazla adımla çok daha büyük bir puan mı yapılacağı bir kolaylık meselesidir. İkinci durumda her renk tonunun on adımı vardır, yeşilin orta adımı 5G-5/5 olarak ayırt edilir ve bu da ondan önce gelen 1G, 2G, 3G, 4G ve mavi-yeşile doğru giden 6G, 7G, 8G ve 9G adımlarını önerir.
+
+[Resim: Şekil 23.
+RENK PUANI--(veya Tablo III'teki 6 Numaralı)--H, V VE C İLE ALANLAR VERİR.]
+
++Puan, renk kayıtlarını kullanışlı bir şekilde korur.+
+
+Durumun gerektirdiği şekilde küçük veya büyük yapılması gereken böyle bir renk puanı veya notasyon diyagramı, pigmentler el altında olmadığında renk kombinasyonlarını kaydetmek için çok kullanışlı bir araç sunar.
+
+[Resim: Şekil 24.]
+
+(141) Üç boyutunu göstermek için, karşılıklı kesişimlerini dik açılarda gösterecek şekilde yerleştirilmiş üç kartvizitle küçük bir model yapılabilir (Şekil 24).
+
+5G 5/5 karşılıklı denge merkezleridir. Merkezi bir düzlem tüm renkleri iki zıt alana ayırır. Sağda hepsi sıcak renkler, solda hepsi soğuk renkler vardır. Bu alanların her biri yine ekvator düzlemi tarafından yukarıda daha açık renkler ve aşağıda daha koyu renklere bölünür. Bu dört renk alanı yine 5G 5/5'ten geçen bir enine düzlem tarafından önde güçlü renkler ve arkasında veya ötesinde zayıf renklere bölünür.
+
+(142) Kaydının tamamının merkezin sağına yazılması gereken herhangi bir renk grubu sıcaktır çünkü kırmızı ve sarı baskındır. Merkezin solundaki ise soğuk olmalıdır çünkü mavi baskındır. Merkezin tamamen üstüne yazılmış bir grupta aşırı ışık olmalı,
+tamamen altına yazılmış bir grupta ise aşırı karanlık olmalıdır. Son olarak,
+tamamen merkezin önüne yazılmış bir skor sadece güçlü kromları temsil ederken,
+arkasına yazılmış bir skor sadece zayıf kromları içerir. Bundan,
+dengeli bir renk kompozisyonunun bir tür dengeyi koruduğunu,
+sıcak ve soğuk, açık ve koyu ve zayıf ve güçlü derecelerini birleştirdiğini ve bunun skordaki noktalarla hemen belirginleştiğini anlıyoruz.
+
+(143) Menekşe, gül veya düğün çiçeği gibi tek bir renk,
+kroması için bir rakam eklenmiş olarak skorda bir nokta olarak görünür.
+Nasturtium gibi çok renkli bir çiçek, kromları olan iki nokta ile gösterilir ve bir demet kırmızı ve sarı çiçek,
+noktalarıyla sıcaklığı ve hafifliği açıkça belli olan bir renk geçişi veya "siluet" verir.
+
+Her çiçeğin silüetle yazılmış renk cümbüşü kaydı tamamlar. Koyu kırmızının baskın olduğu güzel bir İran halısının tonları veya yeşilin baskın olduğu bir yeşillik gobleninin veya mavinin baskın olduğu bir Japon baskısının tonları, nota üzerine renk niteliklerini tanımlayan bir desen çizecektir. Bu kayıtlar, pratikle, müzik notası kadar göz için önemli hale gelir. Bir renk kombinasyonunun genel karakteri bir bakışta belirginleşirken, renk cümbüşünün dereceleri zihinsel görüntüyü
+doldurmak için kolayca birleştirilir.
+
+(144) Böyle bir renk notasyonu planı, ölçülen renklerin küresel
+sisteminden doğal olarak gelişir. Bir renk notasyonu tasarlarken, ilk başta kaba görünmemesi pek umulmamalıdır. Ancak bu kaydın temelini oluşturan ölçüler tarafsız araçlarla doğrulanabilir ve genel renk çalışmasında kalıcı bir değere sahiptir. Bunlar ayrıca renk tahminlerindeki kişisel önyargılara ilişkin kesin veriler sağlar.
+
+(145) Bu, iki zıt ve değerli kaydın uygun bir biçimde toplanmasını mümkün kılar, biri genellikle hoş olarak adlandırılan renk etkilerini korurken, diğeri göze hoş gelmeyen gruplardan oluşur. Bu tür materyalden, şu anda yaygın olan renk uyumuyla ilgili değişken, kişisel ve çelişkili ifadelerden daha güvenilir bir şey elde edilebilir.
+
+BÖLÜM VII.
+
+RENK UYUMU.
+
++Renkler hoşa gitmek veya rahatsızlık vermek için gruplandırılabilir.+
+
+(146) Uyumlu renk yasalarını tanımlama girişimleri belirgin bir başarıya ulaşmamıştır ve bunun nedeni çok da uzakta değildir. Bu uyum veya uyumsuzluk etkilerinin altında yatan hisler bile tanımlanmamıştır. Öğrencilik günlerimin yanıltıcı formülü - üç kısım sarı, beş kısım kırmızı ve sekiz kısım mavinin uyumlu bir şekilde birleşeceği - kırmızı, sarı ve mavinin _türünü_ tanımlayamıyordu; yani, bu renklerin her birinin tonu, değeri ve kroması bilinmiyordu ve formül, onu kullanmaya çalışan her kişi için farklı bir şey ifade ediyordu.
+
+(147) Belirli bir kırmızı, yeşil ve mavinin, Maxwell disklerinde nötr bir gride denge sağlayacak şekilde
+birleştirilebileceği doğrudur; ancak
+bunlardan herhangi birinin tonunda, değerinde veya kromasında en ufak bir değişiklik dengeyi bozar. Daha sonra nötr karışımı yeniden kazanmak için yeni bir orana ihtiyaç duyulur. Bu, üçlü denge tartışmasında (paragraf 82) daha önce gösterilmiştir.
+
+(148) Renk uyumu, müzikal armoniye ait terimlerin kullanılmasıyla daha da karmaşık hale gelmiştir. Şimdi müzik _ölçülü bir sanat_ ve
+bilimsel olarak tanımlanmış bir dizi aralık bulmuştur. İki sanatın birçok benzerlik noktası vardır; ve ses dalgalarının kulaktaki darbeleri, gözdeki ışık dalgalarının darbeleri gibi, ölçülen titreşimlerdir.
+Ancak ölçekleri bakımından birbirlerinden çok uzaktırlar ve önemli ayrıntılarda o kadar
+farklıdırlar ki pratik bir ilişki kurulamaz. Renk duyumunun aralıkları, sonsuz çeşitlilikleri sabit bir sisteme organize edilmeden önce uygun isimler ve ölçüler gerektirir.
+
+(149) Belirli sesleri belirli renklerle karşılaştırma çabası kısa sürede en çılgınca
+tuhaflıklara yol açar.
+
++Sesin uyumu, rengin uyumundan farklıdır.+
+
+(150) Renk dilinin yoksulluğu, müziğin daha zengin terminolojisinden ödünç almaya teşvik eder. "Perde, anahtar, nota, ton, akor, modülasyon, noktürn ve senfoni" gibi müzik terimleri, renk tanımında sıklıkla kullanılır ve çağrışım yoluyla belirli belirsiz fikirleri iletmeye hizmet eder.
+
+(151) Aynı şekilde, müzikal uyumla ilişkilendirilen _renk uyumu_ terimi, akla çeşitli ancak orantılı, düzenli bir şekilde gruplandırılmış ve göze hoş gelen bir renk düzenlemesi görüntüsü sunar. Ancak bu görüntüyü renk açısından tanımlamaya yönelik herhangi bir girişim hayal kırıklığı yaratır. İşte güzel bir İran halısı: Neden ona güzel diyoruz? Biri "Çünkü renkleri _zengin_." der. Neden zenginler? "Çünkü _derin tonlardalar_." Bu ne anlama geliyor? Kontrbas ve sis düdüğü _derin_ tonlardadır, ancak bu nedenle ille de güzel değillerdir. "Ah, hayır," der bir diğeri, "hepsi _tek bir
+uyumlu anahtar_." Peki bir renk anahtarı nedir? Kırmızı gibi bir rengin tüm değerlerinden mi yoksa katı rengimizdeki orta tonlar gibi eşit değerdeki tüm tonlardan mı oluşur?
+
+(152) Kesinlikle ikisi de değildir, çünkü halının hem açık hem de koyu renkleri vardır; ve kırmızılar, sarılar, yeşiller ve mavilerden bazıları daha güçlüdür
+ve diğerleri daha zayıftır. O zaman bir renk anahtarıyla neyi kastediyoruz? Kişi ya
+boş boş dolaşmaya devam etmeli ya da açıkça cehaletini itiraf etmelidir.
+
+(153) Müzikal uyum kendini açık bir dille açıklar. Ölçülü ilişkileri müziksel kompozisyonun temelini oluşturan sabit ve kesin ses aralıklarıyla gösterilir. Her anahtarın
+kesin bir karakteri vardır ve yazılı nota, müzikal zekaya sahip her kişi için
+pratik olarak aynı şeyi ifade eden bir ifade sunar. Ancak renk uyumunun yeterli terimleri henüz
+çözülmedi.
+
+Bu müzikal benzetmeleri, yalnızca _ölçülü ve düzenli bir ilişkinin uyum fikrinin altında yattığı_ ipucunu koruyarak bırakalım. Bu sayfaların konusu olan renk
+katılığı, ölçülen
+renk ilişkileri üzerine kurulmuştur. Ölçülü ton, değer ve kroma ölçeklerini birleştirir ve renk-ışık ve renk-gücünün maksimumlarından karanlıkta kaybolmalarına kadar her duyuma kesin bir renk adı verir.
+
+(154) Bu teorik renk katısı, bu nedenle, renk uyumu veya renk uyumsuzluğu üretmek için bir araya gelen tüm unsurları yerleştirmeli değil midir?[32]
+
+[Dipnot 32: Profesör James, bir teorinin kariyerinde üç klasik
+aşama olduğunu söylüyor: "İlk olarak, saçma olarak saldırıya uğruyor; sonra doğru olduğu kabul ediliyor, ancak apaçık ve önemsiz;
+son olarak o kadar önemli görülüyor ki,
+karşıtları
+kendilerinin keşfedicileri olduğunu iddia ediyor."]
+
+(155) Teorileştirmek yerine deney yapalım. Piyanoda,
+ilk önce rastgele ve geniş aralıklı notalara vuran,
+ama kısa süre sonra tanıdık bir havanın aralıklarını arayan bir çocuk gibi, renk küresi ve çizelgeleri üzerinde dolaştıktan sonra, tanıdık bir renk seçelim ve diğerlerinin göze hoş gelmesi için
+bu renkle neleri birleştireceğini inceleyelim.
+
+(156) İşte bir elbise için gri-yeşil bir şey ve onu giyecek olan küçük kız,
+bununla birlikte başka hangi renkleri kullanabileceğini soruyor. Öncelikle onu
+diğer renk dereceleriyle ilişkisini anlamak için
+albümümüzde bulalım. Değeri 6'dır,--orta değerin ekvatorundan bir adım yukarıdadır.
+Tonu yeşil, G ve kroması 5'tir. G 6/5 olarak yazılır.
+
+(157) Renk yolları bu noktadan her yöne doğru çıkar.
+Uyumlu renkleri nerede bulacağız, uyumsuz olanları, bu yolların
+en sık geçtiği yerleri? Hala keşfedilecek yenileri var mı?
+
+(158) _Üç tipik yol vardır: biri dikey_, değerde hızlı değişiklikle; _bir diğeri yanal_, renk tonunda hızlı değişiklikle; ve _üçüncüsü içe doğru_, nötr merkezden geçerek zıt renk alanını aramak.
+Diğer tüm yollar, renk katısındaki bu tipik yönlerden ikisinin veya üçünün kombinasyonlarıdır.
+
++Üç tipik renk yolu.+
+
+[Resim: Şekil 25.]
+
+(159) 1. Dikey yol yalnızca daha açık ve daha koyu gri-yeşil değerleri bulur, -genellikle "kendi renkleri veya tonları" olarak adlandırılırlar--ve renk duyumunda eksik olanlar için bile güvenli bir yol sunar,
+tüm renk tonu karmaşıklıklarından kaçınır ve gözün tek bir niteliğin, renk ışığının farklı derecelerini tahmin etmesini sağlar.
+
+(160) 2. Yan yol her iki taraftaki komşu renk tonlarından geçer.
+Bu durumda maviden yeşile ve sarıya doğru bir dizidir. Bu, yol düzse değer veya kroma değişikliği olmadan sadece renk tonunun değişmesidir, ancak eğer eğim verilirse dizinin bir ucu daha açık hale gelirken diğer ucu koyulaşır. Böylece birinci ve ikinci tipik yollar arasında bir ara yol haline gelir ve her adımda bir renk tonu değişikliğini bir değer değişikliğiyle birleştirir. Bu daha
+karmaşıktır, ancak daha da ilginçtir, gri-yeşil elbisenin karakterinin _daha açık_ bir Leghorn saman şapkasıyla nasıl vurgulanacağını ve
+daha koyu_ mavi-yeşil bir kırpmayla nasıl daha da geliştirileceğini gösterir. Dizi,
+elbisenin yeşilinden _daha güçlü_ olan bir saman seçilerek daha da incelikli ve çekici hale getirilebilirken, kırpmada _daha zayıf_ bir mavi-yeşil kroması kullanılır. Bu, şu şekilde
+açıkça ifade edilir: Y 8/7, G 6/5, BG 4/3 ve notasyona üç nokta ve bunların kromalarıyla yazılır, --7, 5 ve 3 (bkz. Şekil 23).
+
+(161) 3. Grinin artmasıyla nötr merkeze ve ardından zıt renk tonu kırmızı-mora, RP 4/5'e giden içe doğru yol, deneyimsizler için tuzaklarla doludur. Ton ve renk doygunluğunda büyük bir değişiklikle,
+değerde küçük bir değişiklik birleştirir.
+
+(162) Gri-yeşil yerine başka bir renk noktası seçilirse,
+aynı tipik yollar aynı şekilde kolayca izlenebilir, notasyonla yazılır ve
+renk puanına kaydedilir. +Bu yollar, renk katısındaki herhangi bir noktadan dizileri izler.+
+
+(163) Renk katısının inşasında, ölçeklerinin
+renk tonu, değer ve kromada eşit adımlardan oluştuğunu ve nötr grinin merkezindeki dengeyle
+test edildiğini gördük. Herhangi bir adım, üç türün düzenli dizilerini izlemek için bir çıkış noktası görevi görecektir. Dikey tür yalnızca bir
+değer dizisidir. Biraz uysaldır, renk tonu ve kromada değişiklikten yoksundur, ancak düzenli değerlerin monoton bir uyumunu verir.
+Yatay tür, dikey türe göre daha az uysal, ancak değer ve kromada monoton olan komşu renk tonlarının bir dizisini izler. İçsel tür, zıt renk tonlarını orta gride dengelenmiş bir kroma dizisiyle birbirine bağlar ve
+gözler için daha uyarıcıdır.
+
+(164) Bu yollar şimdiye kadar her yönde eşit adımlardan oluşmuş olarak ele alındı ​​ve her adımda eşit miktarda renk fikri eşlik etti. Ancak _eşit olmayan renk miktarları_ kullanılarak, denge, renkleri ayıran aralıklara yapılan telafilerle korunabilir (109, 110. paragraflara bakın).
+
++Ton, değer ve kroma ilişkileriyle telafi edilen eşit olmayan renk miktarları.+
+
+(165) Güçlü renklerin küçük parçaları, zayıf kroma alanlarını dengelemek için kullanılabilir. Örneğin, güçlü kırmızımsı mor bir nokta, gri-yeşil bir alanla dengelenir ve vurgulanır. Bu nedenle, kızın elbisesinin boynundaki bir ametist iğne, elbiseyle ve ayrıca Leghorn samanıyla avantajlı görünecektir. Ancak, kırmızımsı mor bir kumaş ceket gibi güçlü renklerin büyük bir alanı, aradığımız ölçülü uyum için ölümcül olacaktır.
+
+(166) Güçlü kroma'nın küçük bir noktasının bu şekilde kullanılması, aralıklarla tekrarlanırsa, bir ritim kavramı oluşturur; Ancak, ritmik olmak için, tekrarlayan bir vurgu, "benzer birimlerin ardışıklığı, farklı unsurların bir araya gelmesi" olmalıdır. Bu nitelik, ton, değer veya kromanın ölçülü bir ölçeğinde görülen vurgusuz ardışıklıkla karıştırılmamalıdır.
+
++Renk aralıklarını izole etmek için kağıt maskeler.+
+
+(167) Renk küresini gizleyecek kadar büyük bir kağıt parçası, düz bir çizgide üç veya daha fazla açıklıkla delinebilir ve yüzeye uygulanabilir, böylece incelemek istediğimiz herhangi bir dizinin adımlarını izole edebilir. Böylece, 160. paragrafta verilen dizi--Y 8/7, G 6/5,
+BG 4/3--Y 8/3, G 6/5, BG 5/5 şeklinde okunduğunda kürenin yüzeyine getirmek için değiştirilebilir. Bu üç noktayı örtecek şekilde aralıklı yuvarlak delikli bir maske, gözü diğer renklerin dikkat dağıtmasından kurtarır. Merkez noktayı yeşilde tutarak, maske, dizideki diğer iki adımın tonunu veya değerini değiştirmenin etkisini incelemek için hareket ettirilebilir.
+
+(168) Dizi, tüm maskeyi yukarı kaydırarak aydınlatılır ve
+aşağıya bırakarak koyulaştırılır. Daha sonra, aynı aralıkları başka bir alanda kullanmanın sonucu, maskeyi katının başka bir kısmına
+taşıyarak kolayca incelenebilir.
+
+(169) Aralıktaki değişiklik, bir renk dizisinin karakterini hemen değiştirir. Bu, uzun, sürekli bir yarığa sahip bir alt maske ve delikleri birkaç sıra halinde düzenlenmiş bir üst maskeye sahip olarak kolayca gösterilebilir, her sıra delikler arasında farklı boşluklar sağlar.
+Kızın kıyafetleri durumunda, aynı dizi, dizinin uçları değişmeden kalırken, üst maskenin iki deliği daha açık sarı-yeşil bir elbise seçmek için yakınlaştırılırsa oldukça farklı bir etki yaratır. Ortadaki deliği diğer uca doğru hareket ettirmek için, daha koyu mavimsi yeşil bir elbise seçilir, bu elbisede süsleme daha az kontrast oluştururken, şapka daha fazla kontrast nedeniyle eskisinden daha parlak görünür.
+
+(170) Basit maskelerle bu şekilde incelenebilen renk dizisinin varyasyonları neredeyse sonsuzdur; ancak ölçülü bir sistemde her efektin karakteri kolayca tanımlanır ve gerekirse yazılı bir kayıtla korunur.
+
++ Renk gruplarının icadı. +
+
+(171) Renk aralıklarının seçimi için değişken maskelerle yapılan deneyler, daha önce tarif edildiği gibi, hayal gücünü kısa sürede harekete geçirir,
+böylece renk katısının herhangi bir kısmı boyunca diziler tasarlar.
+Renk
+görüntüsü kalıcı bir zihinsel yardımcı haline gelir. Beyaz ve siyahla yumuşatılmış beş orta renk, en büyük çeşitlilikteki dizileri tasarlamamızı sağlar, bazıları açık, diğerleri koyu, bazıları küçük renk ton farklarını büyük renk ton farklarıyla birleştirir, diğerleri büyük renk ton aralıklarını küçük renk ton aralıklarıyla birleştirir ve böylece neredeyse
+tükenmez bir dizi boyunca devam eder.
+
+(172) Bu yapıcı hayal gücü güç kazandıkça, katı ve onun
+grafikleri bir kenara bırakılabilir. _Artık rengi art arda düşünebiliriz._ Her renk sistemdeki yerini önerir ve istenen bir ilişkiyi gerçekleştirmek için grupların icadı için bir başlangıç ​​noktası olarak alınabilir.
+
+(173) Bu seçici zihinsel sürece, son bölümde açıklanan puan yardımcı olur; ve grup için seçilen her rengin miktarı, diyagramdaki çeşitli noktaların etrafına çizilen değişken bir daire ile kolayca belirtilir. Bu nedenle, çocuğun kıyafetleri durumunda, G 6/5 etrafındaki büyük bir daire, Y 8/7 ve BG 4/3 etrafındaki daha küçük dairelerle karşılaştırıldığında, o rengin alanını verir ve saman ve kırpma alanını temsil eder.
+
+(174) Renk gruplarının çizimi uzun süreli uygulamadan sonra içgüdüsel hale geldiğinde, geniş bir renk çalışması alanı açar. Örnek olarak kelebeklerin kanatlarını veya çok sayıda menekşe çeşidini ele alalım. Bu büyüleyici renk şemaları, farklılıklarını basit bir diyagramla kaydeden alan göstergeleriyle yazılabilir. Aynı şekilde, halılar, duvar halıları, mozaikler, güzelliği ve renk uyumuyla dikkat çeken her şey, ölçülü terimlerle kaydedilebilir ve incelenebilir; ve zihinsel olarak
+renk tonlarını, değerleri, renk tonlarını ve alanları belirlenmiş ölçeklerle tahmin etme süreci
+renk duyusunu daha ince ve daha ince algılara yönlendirmelidir.
+
+Aynı süreç en rahatsız edici ve
+uyumsuz renk gruplarını kaydetmek için de kullanılır. Bu kayıtlardan yeterli sayıda
+elde edildiğinde, hoşa giden renk kombinasyonlarının iğrendirenlerle karşılaştırılması için kesin bir malzeme sağlarlar. Böyle bir
+karşıtlık, renk uyumunun bazı genel yasalarını ortaya çıkarmalıdır. O zaman
+açıkça verilebilen ölçülü terimlerle olacaktır; duyan herkese farklı anlamlar ileten belirsiz bir kişisel ifade değil.
+
++Renk duyusunu eğitmek için sürekli egzersiz gerekir.+
+
+(175) Güzel rengin takdiri, tıpkı müzik veya edebiyatın ince algılanması gibi egzersiz ve
+ayrımcılıkla artar. Her biri, beceriksizce veya beceriyle
+kullanılabilen bir dil olan zevkin ifadesi için bir çıkış noktasıdır.
+
+(176) Renk algısı daha da incelirken, daha kaba ve şiddetli kontrastları atar. Bir çocuk güçlü kromalardan zevk alır, ancak bir renkçinin işareti, renk etkisini zayıflatmadan düşük kroma kullanma yeteneğidir. Bir çocuğun çığlıkları ve inlemeleri müzikal bir ifadeye göre yumuşatılabildiği gibi, şiddetli kırmızı, yeşil ve mor renklerindeki sefahatleri de yumuşatılmış tonlarla değiştirilmelidir.
+
+(177) Raphael, Titian, Velasquez, Corot, Chavannes ve Whistler gri kullanımında ustadır. Kişisel önyargı bir renkçiyi biraz daha sıcak renklere, bir diğerini ise biraz daha soğuk alana yönlendirebilir, her iki durumda da yumuşatılmış değer ve kroma dereceleriyle uyumlu bir denge duygusu elde edilir.[33]
+
+[Dipnot 33: "Doğanın en canlı tonları leylak grileriyle
+yıkanır. Her tarafımıza yayılmış, ancak yalnızca renkçinin ince algısıyla görülebilen, onun
+çektiği bu gri niteliktir. Resimleri '_couleurs voyantes_' ile dolu olan değil,
+eserinde tüm '_gris colores_'i koruyan kişi iyi renkçidir."
+
+J. F. Rafaelli'nin _Annales Politiques &
+Litteraires_ adlı eserinden çevirisi.]
+
+(178) İnce renklerin kullanımındaki disiplinin başka bir Corot veya Velasquez yaratacağı iddia edilmiyor, ancak onların becerilerinin
+anlaşılmasını sağlayacağı söyleniyor. Gösterişli giyimli kişilerin Botticelli'nin narin renklendirmesi karşısında coşkuya kapılmalarını izlemek grotesktir, çünkü hem içsel hem de dışsal kanıtlar onlara karşıdır.
+
+(179) Sadece kişisel giyimde değil, odalarımızda ve dekorasyonlarımızda da seçtiğimiz renkler, bir renk algısı aşamasının sessiz tanıklarıdır.
+
+Eğer bu algı daha ince ayrımlara alıştırılırsa, zihin artık kaba ifadelerle yetinemez. Moda olduğu için satın alınan duvar kağıdının "gürültülü" rengiyle, sanatçı bir arkadaştan hediye olan halının sakin tonları arasında bir uyumsuzluk hissetmeye başlar. Mobilyalar dayanıklı ve pahalı malzemelerle kaplı olmasına rağmen, renklerinin perdelerin ve ahşap işçiliğinin rengine "küfür ettiğini" görür. Kısacası, oda çeşitli dönemlerde, hiçbir plan veya renk tasarımı duygusu olmadan birbirine karışmıştır.
+
+(180) İyi zevk, bir odanın yalnızca rahatlık ve konfor için değil, aynı zamanda çeşitli nesnelerin güzelliğine de dikkat edilerek döşenmesini gerektirir, böylece renkleri karıştırmak ve yok etmek yerine, her biri diğerini geliştirebilir. Ve bu renk uyumu duygusu uyandırıldığında, kitapları, halıları, abajuru, seyahat ve arkadaşlık hatıralarını, duvar kağıtlarını, resimleri ve duvar süslerini seçer ve düzenler, böylece bunlar yalnızca ilk bakışta göze hoş gelen bir renk şemasına uymakla kalmaz, aynı zamanda akıllı bir plan çizerken zihni de memnun etmeye devam eder ve her şeyi genel bir uyum içine getirir. (181) Bir oda düzene sokulduğunda da bu sona ermez. Böyle bir renkçi tutum, bir sonraki daireye bakış çekici hale gelene kadar tatmin olmaz. Ya da bir oda takımı varsa, her birinde çeşitlilik olacak şekilde hepsinin uyumlu bir sıraya getirilmesini gerektirir. Böylece renk çalışması günlük yaşamda anında ve pratik bir kullanım bulur. Renk görüşünün gerekli bir disiplinidir, çünkü geometri zihnin bir disiplinidir ve ayrıca her adımda yaşamın zevkine ve inceliğine girer. Kullanımındaki beceri veya beceriksizlik, sesin uyumları ve uyumsuzlukları kadar olumlu bir etki yaratır ve çok daha süreklidir. Müzikal olmamanın bir kusur olduğu düşünülür. Renge duyarsız olmak kusurlu bir yetiştirmenin işareti olarak görülmemeli midir?
+
+(182) Renk eğitiminin bu kısa taslağında, normal algılara sahip olanlarla ilgilenmemiz gerektiği varsayılmıştır. Ancak çeşitli derecelerde renk körlüğü miras alan veya geliştiren bazıları vardır; ve onlar adına bir kelime uygun olabilir.
+
+(183) Tam renk körlüğü vakası çok nadirdir, ancak birkaçı kayıtlardadır. Bir çocuk yetersiz renk algısı gösterdiğinde[34], biraz özen
+onun çok fazla rahatsızlıktan kurtulmasını sağlayabilir ve sabırlı eğitim bunu düzeltebilir. Bazı tonları uyuşturmuyorsa, isimlerini karıştırıyorsa, daha ince renk ayrımlarını yapamıyor gibi görünüyorsa, iyi tahmin ettiği tonları bulmak için çalışın
+ve sonra algısının
+kötü olduğu alana biraz girmesine yardımcı olun. Bu sempatik bir şekilde yapıldığında gelişmenin geleceği oldukça kesindir. Birçok çareye ve bunu düzeltmek için çeşitli ışıklar ve renkli nesneler kullanılmasına rağmen, tüm çalışmalarına morumsu bir ton verme alışkanlığından asla vazgeçmeyen bir öğrenci, ilk kaba tahminlerini geliştirmelerini ve Doğanın ince renklerine dair hislerini ifade etme becerisi kazanmalarını izleme ayrıcalığına sahip olduğum yüzlerce kişi arasında tek istisnadır. [Dipnot 34: Sözlükte Renk Körlüğüne bakın.]
+
+(184) Özetlemek gerekirse, ilk bölüm tahmin yürütme yerine ölçülü bir renk sistemi öneriyor. Sonraki bölüm üç renk niteliğini açıklıyor ve bir çocuğun renk algısındaki gelişimini taslak olarak çiziyor. Üçüncü bölüm renklerin denge sağlayacak şekilde nasıl
+karıştırılabileceğini anlatıyor. Dördüncü bölümde spektral renk kullanmanın pratik olmadığı gösterildikten sonra, beşinci bölüm pratik bir renk katısı oluşturmaya geçiyor. Altıncı, renklerin yazılı kaydını sağlar ve sonuncusu, renk uyumunun incelenmesi için
+önerilerde bulunan her şeyi uygular.
+
+(185) Bu taslakta geniş boşluklar belirir. Daha kapsamlı bir incelemeyi hak eden çok şey vardır. Ancak, rafine renk arayışı ve ilişkilerine dair daha net bir bakış açısı bu parçalı taslakla teşvik edilirse,
+bazı kusurları gözden kaçabilir.
+
+[İllüstrasyon:
+MUNSELL SULU BOYA İLE BOYALI ÇİÇEK ÇALIŞMALARININ ÜRETİMİ
+WADSWORTH, HOWLAND & CO., INCORPORATED
+BOSTON, MASS.]
+
+BÖLÜM II.
+
+RENK SİSTEMİ VE ÇALIŞMA DERS PROGRAMI
+RENK KATI VE TABLOLARINA DAYALI.
+
+Dokuz yıllık okul hayatı için düzenlenmiştir.
+
+RENK TERİMLERİ SÖZLÜĞÜ.
+
+Century Dictionary'den alınmıştır.
+
+DİZİN
+
+(paragraflara göre).
+
+[Resim: Şekil 2 (Bkz. Şekil 20)
+Renk Ağacı]
+
+RENK KATI MADDEYE VE GRAFİKLERİNE DAYALI
+ÇALIŞMA DÜZENİ OLAN BİR RENK SİSTEMİ
+
+_Bölüm II'ye bakın._
+
+Telif hakkı, 1904, A. H. Munsell.
+
+RENK KATI MADDEYE VE GRAFİKLERİNE DAYALI
+BİR RENK SİSTEMİ VE ÇALIŞMA DÜZENİ,
+DOKUZ YILLIK OKUL HAYATINA UYARLANMIŞTIR.
+
+Sınıf
+Ill. Resim
+Uygulama Uygulama
+Mat. Malzemeler
+
+=================================================================================
+Sınıf |Konu. | Çalışılan Renkler. | Resim. | Uygulama. | Mat.
+----+----------+---------------------+-----------+-----------+-----------
+1. | TONLAR | Kırmızı. R. | Aranan | Sınırlar | Renkli
+| Sarı. Y. | Doğa | ve | boya kalemleri
+| renk. | Yeşil. G. | ve Sanat. | Rozetler.| ve
+| | Mavi. B. | | | kağıtlar.
+| | Mor. P. | | |
+----+----------+-------------------+----------+----------+-----------
+2. | TONLAR | Sarı-kırmızı. YR. | Aranan | Sınırlar | Renkli
+| of | Yeşil-sarı. GY. | Doğa | ve | boya kalemleri
+| renk. | Mavi-yeşil. BG. | ve Sanat. |Rozet.| ve
+| | Mor-mavi. PB. | | | kağıtlar.
+| | Kırmızı-mor. RP. | | |
+----+-----------+-------------------+-----------+----------+-----------
+3. | DEĞERLER | Açık, orta, | Aranan | Tasarım. | Renk
+| of | ve koyu R. | Doğa | | küre.
+| renk. | " " Y. | ve Sanat. | |
+| | " " G. | | | | " " B. | | |
+| | " " P. | | |
+----+----------+--------------------+-----------+-----------
+4. | DEĞERLER | YR'nin 5 değeri.} | Tasarımda Aranan | Grafikler.
+| " " " GY.} | Doğa | |
+| renk. | " " " BG.} | ve Sanat. | |
+| | " " " PB.} | | |
+| | " " " RP.} | | |
+| | 9/, 7/, 5/, 3/, 1/. | | |
+----+----------+--------------------+-----------+----------+----------
+5. | KROMALAR | R5/'nin 3 rengi. | Tasarımda Aranan | Tablolar.
+| " " " Y5/. | Doğa | |
+| renk. | " " " G5/. | ve Sanat | |
+| | " " " B5/. | | |
+| | " " " P5/. | | |
+----+----------+------------------+----------+----------+----------
+6. | KROMALAR | YR5/'nin 3 rengi. | Aranan | Tasarım | Renk
+| of | " " " GY5/. | Doğa | | Ağaç.
+| renk. | " " " BG5/. | ve Sanat. | |
+| | " " " PB5/. | | | |
+| | " " " RP5/. | | |
+| | " " " | | | | R7/ ve R3/.} | | |
+| | | " Y7/ " Y3/. } | | |
+| | " G7/ " G3/.} | | |
+| | " B7/ " B3/.} | | |
+| | " P7/ " P3/.} | | |
+----+-----------+--------------------+------------+-----------+-----------
+7. | GÖZLEMLEMEK, TAKLİT ETMEK VE YAZMAK
+| TON, DEĞER ve KROMA " " Boyalarına göre renklendirin.
+|
+----+-----------------------------------------------------------------------
+8. | RENK MİKTARI.
+| Eşit alan ve eşit olmayan alan çiftleri " " Boyalar.
+| HUE, VALUE ve CHROMA ile dengelenmiştir.
+----+---------------------------------------------------------------------
+9. | RENK MİKTARI.
+| Eşit alan ve eşit olmayan alan üçlüleri " " Boyalar.
+| HUE, VALUE ve CHROMA ile dengelenmiştir.
+========================================================================
+
+Telif hakkı, 1904, A. H. Munsell'e aittir.
+
+TEK RENKLERİN VE SIRASLARININ ÇALIŞILMASI. İki Yıl.
+
+_BİRİNCİ SINIF DERSLERİ._
+
+1. Renk adlarını ortaya çıkarmak için tanıdık nesneler hakkında konuşun,
+2. oyuncaklar, çiçekler, giysiler, kuşlar, böcekler vb.
+3. Sabun köpüklerini ve prizmatik spektrumu gösterin.
+4. RENK terimini öğretin. Çiçeklerin tonları, spektrum, kuşların tüyleri vb.
+5. ORTA[35] KIRMIZI'yı gösterin. Diğer kırmızıları bulun.
+6. ORTA SARI'yı gösterin. Diğer sarıları bulun ve kırmızılarla
+karşılaştırın.
+7. ORTA YEŞİL'i gösterin. Kırmızılar ve sarılarla birlikte diğer yeşilleri "
+bulun.
+8. ORTA MAVİ'yi gösterin. Önceki tonlarla birlikte diğer mavileri "
+bulun.
+9. ORTA MOR'u gösterin. Diğer morları bulun, "
+önceki tonlarla.
+10-15. BEŞ ORTA TONU gözden geçirin,[35] renkli kağıtlarla eşleştirin,
+ve daireye yerleştirin.
+16-20. RENK KÜRESİNİ gösterin. Beş orta tonun sırasını bulun.
+Sırayı ezberleyin.
+21. Orta kırmızı, kalemle taklit edilerek, isimlendirilir ve
+baş harf R ile yazılır.
+22. Orta sarı " " " "
+baş harf Y ile yazılır.
+23. Orta yeşil " " " "
+baş harf G ile yazılır.
+24. Orta mavi " " " "
+baş harf B ile yazılır.
+25. Orta mor " " " "
+baş harf P ile yazılır.
+26-30. Tasarım için
+sıralarda ve rozetlerde orta tonları[35] kullanarak gözden geçirin.
+
+_Amaç._--Beş orta tonun sırasını tanımak. İsimlendirmek, eşleştirmek,
+taklit etmek, yazmak ve düzenlemek.
+
+_İKİNCİ SINIF DERSLERİ._
+
+1-3. Beş orta tonun sırasını gözden geçirin.[35]
+4. Kırmızı ve sarı arasında ARA bir ton gösterin. Bunu
+nesnelerde bulun.
+5. Kırmızı ve sarı ile karşılaştırın.
+6. SARI-KIRMIZI'yı tanıyın ve adlandırın. Eşleştirin, taklit edin ve YR yazın.
+7-8. Yeşil ve sarı arasında YEŞİL-SARI gösterin. Yukarıdaki gibi davranın,
+ve GY yazın.
+9-10. Mavi ve yeşil arasında MAVİ-YEŞİL gösterin. " "
+ve BG yazın.
+11-12. Mor ve mavi arasında MOR-MAVİ gösterin. " "
+ve PB yazın.
+13-14. Kırmızı ve mor arasında KIRMIZI-MOR gösterin. " "
+ve RP yazın.
+15-20. On tondan oluşan bir daire yapın. Ara renkleri yerleştirin ve ileri veya geri tekrar edecek şekilde
+sırasını ezberleyin. Eşleştirin, taklit edin
+ve baş harflerle yazın.
+21-25. COLOR SPHERE'de on renk tonunun sırasını bulun. Doğal nesnelerin renk tonlarıyla karşılaştırın.
+26-30. Sınırlar ve rozetler için sırayla herhangi iki renk tonunu kullanarak gözden geçirin.
+
+_Amaç._--Beş orta[35]
+renk tonu ve beş ara renk tonundan oluşan on renk tonunun sırasını tanımak. Bunları adlandırmak, eşleştirmek, yazmak, taklit etmek ve
+düzenlemek.
+
+[Dipnot 35: Bu renk çalışması dersinde kullanılan ORTA terimi, yalnızca DEĞER ve KROMA ölçeklerinde ortada duran beş ana renk tonu anlamına gelir. Kesin olarak konuşursak, beş ara renkleri de ölçeklerin ortasındadır; ancak adlarında gösterildiği gibi beş ana renk tonunun karışımıyla elde edilirler ve ikincil öneme sahiptirler.]
+
+TEK DEĞERLERİN VE SIRALARININ ÇALIŞILMASI. İki Yıl.
+
+_ÜÇÜNCÜ SINIF DERSLERİ._
+
+1. On renk tonunun sırasını gözden geçirin.
+2. Bunları tanıyın, adlandırın, eşleştirin, taklit edin, yazın ve bulun
+3. RENK KÜRESİNDE. Ayrıca nesnelerde.
+4. DEĞER teriminin kullanımını öğretin. Renk tonundan ayrı olarak tanınan renk değeri.
+5. Ortadaki değerden daha açık ve daha koyu kırmızı değerlerini bulun.
+7. ÜÇ KIRMIZI DEĞERİ. Kürede bulun. Kırmızının AÇIK, ORTA ve KOYU değerlerini adlandırın.
+8. ÜÇ KIRMIZI DEĞERİ. Boya kalemleriyle taklit edin ve bunları
+3, 5 ve 7 olarak yazın.
+9. ÜÇ SARI DEĞERİ. Yukarıdakilerle karşılaştırın.
+10. Boya kalemleriyle tanıyın, adlandırın, eşleştirin ve taklit edin.
+11. ÜÇ YEŞİL DEĞERİ. Karşılaştırın ve yukarıdaki gibi davranın.
+12. Kürede ve nesnelerde bulun.
+13. ÜÇ MAVİ DEĞERİ. " "
+14.
+15. ÜÇ MOR DEĞERİ. " "
+16.
+17-20. Tasarım için iki değeri ve tek bir tonu birleştirerek gözden geçirin.[36]
+
+_Amaç._--Üç değeri ve beş orta tonu birleştiren bir diziyi tanımak.
+Bunları adlandırmak, eşleştirmek, taklit etmek ve düzenlemek.
+
+[Dipnot 36: Bu ve sonraki sınıflardaki bu on ders
+sadece renk algısına ayrılmıştır. Tasarıma uygulamaları, çizimdeki genel dersin bir parçasıdır ve sonraki sınıflarda bu şekilde ele alınacaktır. Şu ana kadar tamamlayıcı tonlar hakkında hiçbir şey söylenmemiş olsa da, çocuğun bunları renk küresi tarafından zıt çiftler halinde ilişkilendirmeye yönlendirildiğini unutmayın. (Bkz. Bölüm III, s. 76.)] [["Paragraf 76" için hata]]
+
+_DÖRDÜNCÜ SINIF DERSLERİ._
+
+1. Beş orta tonun her birindeki üç değerin sırasını gözden geçirin.
+2. Tanıma, adlandırma, eşleştirme, taklit etme ve
+3. Bunları kürede ve nesnelerde bulma.
+4. BEŞ DEĞER KIRMIZI göster. Bunları büyük renk küresinde bul.
+5. Bunları 1, 3, 5, 7, 9 olarak numaralandır. Eşleştir, taklit et ve yaz.
+6. BEŞ DEĞER MAVİ-YEŞİL göster. " " "
+Yukarıdaki gibi davranın ve gözden geçirin.
+7. Sarı ile karşılaştırıldığında MOR-MAVİ'nin BEŞ DEĞERİNİ gösterin.
+Yukarıdaki gibi davranın ve gözden geçirin.
+8. KIRMIZI-MOR " Yeşil'in BEŞ DEĞERİNİ gösterin.
+Yukarıdaki gibi davranın ve gözden geçirin.
+9. SARI-KIRMIZI " Mavi'nin BEŞ DEĞERİNİ gösterin.
+Yukarıdaki gibi davranın ve gözden geçirin.
+10. YEŞİL-SARI " Mor'un BEŞ DEĞERİNİ gösterin.
+Yukarıdaki gibi davranın ve gözden geçirin.
+
+_Amaç._--On tonun her birinde beş değeri birleştiren dizileri tanımak. Bunları adlandırmak, eşleştirmek, taklit etmek, YAZMAK ve düzenlemek.
+
+TEK KROMALARIN VE DİZİLERİNİN ÇALIŞILMASI. İki Yıl.
+
+_BEŞİNCİ SINIF DERSLERİ._
+
+1. Ton ve değer dizilerini gözden geçirin. Bunları renk küresinde bulun. Adlandır, eşleştir, taklit et, yaz ve renk tonuna ve değere göre düzenle.
+2. CHROMA teriminin kullanımını öğret. Üç kromayı üç kırmızı değeriyle karşılaştır.
+Bunlara ZAYIF, ORTA ve GÜÇLÜ kromalar adını ver.
+Doğada ve sanatta bul.
+3. ÜÇ KIRMIZI KROMASI. Üç mavi-yeşille karşılaştır.
+4. RENK AĞACI'nı göster. Eşit olmayan renk tonları öner.
+5. ÜÇ SARI KROMASI. Üç mor-mavi
+kromasıyla karşılaştır.
+6. ÜÇ YEŞİL KROMASI. " "
+kırmızı-mor.
+7. ÜÇ MAVİ KROMASI. " "
+sarı-kırmızı.
+8. ÜÇ MOR KROMASI. " "
+yeşil-sarı. 9. Renk Küresi'nin (orta kroma) yüzeyinde tanımlandığı gibi beş orta tonu daire şeklinde düzenleyin, daha zayıf kromalar içeride,
+daha güçlü kromalar ise kürenin dışında olsun.
+10. Gözden geçirme,--doğada ve sanatta bu kroma dizilerini bulmak.
+
+_Amaç._--Üç kroma, orta değer ve
+on tonu birleştiren dizileri tanımak. Bunları adlandırmak, eşleştirmek, taklit etmek ve düzenlemek.
+
+_ALTINCI SINIF DERSLERİ. _
+
+1. Üç kroma, beş renk tonu ve orta değeri birleştiren dizileri gözden geçirin.
+Renk Ağacı'nda bulun, adlandırın, eşleştirin, taklit edin ve düzenleyin.
+2. DAHA AÇIK ve DAHA KOYU KIRMIZI'NIN ÜÇ KROMASI. Ortadaki kırmızıyla karşılaştırın.
+3. " " " "'yi kesir olarak yazın,
+3, 5 ve 7'yi kullanarak değerin altına kroma yazın. Böylece R 5/7 olur.
+4. DAHA AÇIK KIRMIZI'NIN KROMALARINI bulun ve daha koyu mavi-yeşille karşılaştırın.
+5. DAHA AÇIK ve DAHA KOYU SARI'NIN ÜÇ KROMASI, mor-mavi ile.
+6. " " " " YEŞİL, " kırmızı-mor.
+7. " " " " MAVİ, " sarı-kırmızı. 8. " " " " MOR, " yeşil-sarı.
+9. Doğada ve sanatta renk tonu, değer ve kroma ile tanımlanan renkler.
+Renk Küresi ve Ağaç tarafından isimlendirilen, eşleştirilen, taklit edilen, yazılan ve düzenlenen.
+10. Gözden geçirme,--üç kroma, beş değer ve on renk tonunu birleştiren dizileri bulmak.
+
+_Amaç._--Krom dizilerini, renk tonu dizilerinden veya değer dizilerinden ayrı olarak tanımak.
+Renkleri renk tonları, değerleri ve kromaları açısından isimlendirmek, eşleştirmek, yazmak, taklit etmek ve düzenlemek.
+
+RENK İFADESİ, TONLAR, DEĞERLER VE KROMALAR AÇISINDAN.
+
+_YEDİNCİ SINIF DERSLERİ._
+
+1. Renk tonu (başlangıç), değer (üst rakam) ve kroma (alt rakam) dizilerini gözden geçirin.
+2. " " " "
+3. NOTASYON ile doğal nesnelerin renklerini ifade etme alıştırmaları,
+4. ve küresel katı ile ilişkilerini izleme.
+5. Doğa ve Sanatta KIRMIZI, küresel katı ile taklit edilmiş, yazılmış ve izlenmiş.
+6. Doğa ve Sanatta SARI, küresel katı ile " "
+.
+7. Doğa ve Sanatta YEŞİL, küresel katı ile " "
+.
+8. Doğa ve Sanatta MAVİ, küresel katı ile " "
+.
+9. Doğa ve Sanatta MOR, küresel katı ile " "
+.
+10. Tasarım için seçilmiş, tanımlanmış ve düzenlenmiş BİR RENK ÇİFT.
+(4. Sınıf notuna bakın.)
+
+_Amaç._--Herhangi bir rengi tonu, değeri ve kromasıyla tanımlamak. Pigmentlerle taklit etmek ve yazmak.
+
+_SEKİZİNCİ SINIF DERSLERİ._
+
+1. Sıraları gözden geçirin ve denge sağlayan renkleri seçin.
+Terimi açıklayın.
+2. Açık ve koyu, zayıf ve güçlü, sıcak ve soğuk renklerin DENGESİ.
+3. KIRMIZI ve mavi-yeşil, ton, değer ve renk doygunluğunda dengelenmiş,
+EŞİT ALANLARLA.
+4. SARI ve mor-mavi " "
+EŞİT ALANLARLA.
+5. YEŞİL ve kırmızı-mor " "
+EŞİT ALANLARLA.
+6. MAVİ ve sarı-kırmızı " "
+EŞİT ALANLARLA.
+7. MOR ve yeşil-sarı " "
+EŞİT ALANLARLA.
+8. Yukarıdaki çiftlerin EŞİT OLMAYAN ALANLARI, renk doygunluğunun, değerin ve renk doygunluğunun niteliklerini dengeleyerek
+9. doğadan ve sanattan örnekler.
+10. Tasarımda seçilen, tanımlanan ve kullanılan eşit olmayan alanlardan oluşan BİR RENK ÇİFTİ.
+
+_Amaç._--Renkleri alan, ton, değer ve renk parlaklığına göre DENGELEMEK. Pigmentlerle
+taklit etmek ve dengeyi notasyonla yazmak.
+
+_DOKUZUNCU SINIF DERSLERİ._
+
+1. Renk çiftlerinin dengesini, alan, ton, değer ve renk parlaklığına göre gözden geçirmek.
+2. Bunları tanımak, adlandırmak, taklit etmek, yazmak ve kaydetmek.
+3. Belirli bir KIRMIZI'yı dengelemek için iki rengi SEÇMEK.
+4. " " " " SARI.
+5. " " " " YEŞİL.
+6. " " " " MAVİ.
+7. " " " " MOR.
+8-10. Tasarımda seçilen, dengelenen, yazılan ve kullanılan ÜÇLÜ renk.
+
+_Amaç._--Renklerin üçlü dengesini tanımak ve bunu
+alan, renk tonu, değer ve renk doygunluğu açısından ifade etmek. Ayrıca bunu tasarımda kullanmak.
+
+RENK TERİMLERİ SÖZLÜĞÜ
+
+
+_CENTURY SÖZLÜĞÜNDEN ALINMIŞTIR_.
+
+SÖZLÜK
+
+_Burada kullanılan renk tanımları
+Century
+Sözlüğünden alınmıştır. Özellikle HUE, VALUE ve CHROMA'yı ayırt etmeye yarayan çapraz referanslara dikkat çekilir._
+
+SONRAKİ GÖRÜNTÜ.--Göz parlak bir şekilde aydınlatılmış bir nesneden çekildikten sonra algılanan görüntü. Bu tür görüntülere, renkleri nesneninkiyle aynı olduğunda pozitif, tamamlayıcı renkleri olduğunda ise negatif denir.
+
+MAVİ.--Berrak gökyüzünün rengi; .505 ile .415 mikron arasındaki ve özellikle .487 ile .460 arasındaki
+tayfın rengi; veya beyazla karıştırılmış bu tür ışık; masmavi, gök mavisi.
+
+SİYAH.--En yüksek derecede ışığı emme özelliğine sahip; çok az veya hiç ışık yansıtmayan ve iletmeyen; is veya kömür renginde; mümkün olan en koyu tonda; samur. Optik olarak, tamamen renksiz veya ışığın yokluğundan veya tamamen
+emilişinden dolayı kesinlikle koyu. Beyazın karşıtı.
+
+KAHVERENGİ.--Kırmızı, siyah ve sarının karıştırılmasıyla elde edilen, kırmızıya veya sarıya meyilli koyu bir renk.
+
++ KROMA.--Bir renk hissinin beyaz veya griden
+ayrılma derecesi; ayırt edici tonun yoğunluğu; renk yoğunluğu.+
+
+KROMATİK.--Renk doğasıyla ilgili veya onunla ilgili.
+
+KOBALT MAVİSİ.--Camgöbeği mavisine doğru eğilim gösteren ve yüksek
+aydınlığa sahip saf bir mavi; ayrıca Macaristan mavisi, Lethner mavisi ve Paris mavisi olarak da adlandırılır.
+
+RENK.--Nesnel olarak, bir şeyin veya görünümün, yalnızca gözle, şeyin biçiminden bağımsız olarak algılanan niteliği;
+öznel olarak, görme organına özgü ve optik
+sinirden kaynaklanan bir his.
+
+RENK KÖRLÜĞÜ.--Işığı ve gölgeyi ayırt etme kapasitesinden bağımsız olarak renkleri algılama yetersizliği. En yaygın biçimi, kırmızıyı belirgin bir renk olarak algılayamama, kırmızı nesneler gri veya yeşille karıştırılıyor; ve sıklıkta bir sonraki yeşili algılayamamadır.
+
+RENK SABİTLERİ.--Miktarları ölçen sayılar ve renkleri tanımlamak için kullanılan diğer üç sayı sistemine renk sabitleri denir.
+
+RENK DEĞİŞKENLERİ.--Renkler, beyaz ışığın karışımından bağımsız olan KROMA, PARLAKLIK veya parlaklık ve yayılan ışığın ortalama dalga boyuna kabaca karşılık gelen TON açısından değişir.
+
+TAMAMLAYICI RENKLER.--Kırmızı ve yeşil-mavi, sarı ve çivit mavisi, yeşil-sarı ve menekşe gibi karıştırıldığında beyaz veya gri ışık üreten renk çiftleri.
+
+RENKLER, ANA.--Kırmızı, yeşil ve mor ışık spektrumu, karışımından diğer tüm renkler üretilebilir. Ayrıca
+temel renkler olarak da adlandırılır.
+
+BOYA MADDELERİ.--Ticaret alanında, boyama ve renklendirmede kullanılan herhangi bir boya ağacı, liken veya boya keki.
+
+ELEKTRİK IŞIĞI.--Elektrikle üretilen ve iki genel türü olan ışık,
+ark ışığı ve akkor ışık. Birincisinde voltaik ark
+kullanılır. İkincisinde, direnç gösteren bir iletken akımla
+akkor hale getirilir.
+
+EMAYE.--Güzel sanatlarda, opak veya
+saydam ve çeşitli renklerde, metal veya porselen bir yüzeye kaplama olarak uygulanan camsı bir madde veya cam.
+
+GRATING, DIFFRATION.--Bir cam veya cilalı metal yüzeyinde, birbirine çok yakın, inç başına 10.000 ila 20.000 hatta 40.000 oranında çizilen bir dizi ince paralel çizgi; belirgin olarak bir
+difraksiyon veya difraksiyon ızgarası olarak adlandırılır, spektroskopik çalışmalarda çok kullanılır.
+
+GRAY.--Az veya hiç belirgin renk tonu (KROMA) olmayan ve sadece orta düzeyde parlaklığa sahip bir renk.
+
+GREEN.--Sıradan yaprakların rengi; güneş
+spektrumunda 0,511 ile 0,543 mikron dalga boyları arasında görülen renk.
+
+EMERALD GREEN.--0,524 mikron dalga boyundaki spektrumun renginin son derece kromatik ve olağanüstü parlak yeşili. Parlaklığıyla zümrüdü andırır, ancak tonuyla değil; genel olarak bakırın
+aseto-arsenatına uygulanır. Genellikle Paris yeşili olarak bilinir.
+
+YÜKSEK RENK.--Yoğun kromatik renk duyumlarını harekete geçiren bir renk tonu.
+
++TON.--Özel ve teknik olarak, bir nesnede veya bir yüzeyde
+farklı renk kalitesi; kırmızı, sarı, yeşil,
+mavi, vb.'nin , birbirinden farklıdır; eşit
+aydınlık ve KROMA'ya sahip renklerin farklı olabildiği.+
+
+İNDİGO.--Helmholtz'a göre, prizmatik spektrumda G'den F'ye kadar uzanan spektrumun mor-mavi rengi.
+İsim Newton tarafından ortaya atılmış ancak son zamanlarda en iyi
+yazarlar tarafından terk edilmiştir.
+
+IŞIK.--Çok parlak ve KROMA'dan az veya çok
+eksik renklere uygulanan sıfat.
+
+PARLAKLIK.--Özellikle, bir renkteki ışığın yoğunluğu, fotometrik olarak ölçülür; yani, standart bir ışığın yoğunluğu veya
+_vis viva_, ışığı belirlenecek renkle eşit derecede
+parlak olma izlenimi verene kadar değişir; ve değiştirilen ışığın _vis viva_ ölçüsü, standart yoğunluğuna göre, söz konusu rengin parlaklığı olarak alınır.
+
+MAXWELL RENKLİ DİSKLER.--Her biri tek bir renge sahip ve radyal olarak yarıklı diskler, böylece biri diğerinin üzerine istenilen ölçüde bindirilebilir.
+Bunları bir mil üzerinde döndürerek, belirli renklerin farklı oranlarda birleştirilmesinin etkisi incelenebilir.
+
+MİKRON.--Bir metrenin milyonda biri veya bir İngiliz inçinin 1/23400'ü.
+Terim, dünyanın medeni uluslarını temsil eden Uluslararası Ağırlık ve Ölçü Komisyonu tarafından resmen kabul edilmiştir ve tüm metrologlar tarafından benimsenmiştir.
+
+TURUNCU.--Turuncunun türü olan kırmızımsı sarı bir renk.
+
+GÖRME, SÜREKLİLİĞİ.--Uyarıcı neden ortadan kaldırıldıktan sonra gözün retinasında görsel bir izlenimin devam etmesi.
+Zaman uzunluğu, ışığın yoğunluğuna ve retinanın uyarılabilirliğine göre değişir ve genellikle kısadır, ancak süresi saatlerce veya hatta günlerce sürebilir. Sonraki görüntü pozitif veya negatif olabilir,
+sonuncusu parlak kısım koyu ve renkli kısımlar da karşılık gelen kontrast renklerinde göründüğünde. Bu kalıcılık nedeniyle,
+örneğin, çok hızlı hareket eden bir ateş parçası bir ışık bandı veya çemberi olarak
+görünür.
+
+FOTOMETRE.--Işığın yoğunluğunu ölçmek için kullanılan bir araç.
+Özellikle, çeşitli kaynaklardan yayılan ışığın göreceli yoğunluklarını karşılaştırmak için.
+
+PİGMENT.--Ressamların gövdelere renk vermek için
+kullandığı veya kullanabildiği herhangi bir madde.
+
+PEMBE.--Düşük kroma, ancak yüksek parlaklıkta, mora doğru
+eğimli kırmızı bir renk.
+
+ÖNCEKİ RENKLER.--Renklere bakın, birincil.
+
+SAF RENK.--Homojen ışıkla üretilen bir renk. Çok parlak
+veya belirgin bir renk.
+
+MOR.--0,417 dalga boyunun üstündeki spektrumun menekşesi de dahil olmak üzere mavi ve kırmızının karışımıyla oluşan bir renk, ki bu neredeyse menekşe mavisidir ve koyu kırmızıya kadar uzanır, ancak koyu kırmızıyı içermez.
+
+GÖKKUŞAĞI.--Gökyüzünün güneşe karşıt kısmında görünen yağmur veya buhar damlalarından gelen ışık ışınlarının kırılması ve yansımasıyla oluşan prizmatik renklerden oluşan bir dairenin yayı veya yayı.
+
+KIRMIZI.--Az çok kana veya spektrumun alt ucuna benzeyen bir renk.
+Kırmızı, en genel renk adlarından biridir ve anilinden kızıl cıva iyodürüne ve kırmızı kurşuna kadar değişen tonları kapsar. Vermilyondan daha sarı olan kırmızıya koyu kırmızı denir. Çok daha koyu bir kırmızıya koyu kırmızı denir.
+Saf veya koyu kırmızıysa koyu kırmızı; kahverengiyse kestane veya çikolata rengindedir. Soluk kırmızı, yani düşük KROMA ve yüksek PARLAKLIK'a sahip olan, pembe olarak adlandırılır ve gül pembesi veya soluk kızıldan somon pembesi veya soluk kızıl'a kadar değişir.
+
+VENEDİK KIRMIZISI.--Sanatçılar tarafından kullanılan önemli bir pigment, tuğla kırmızısından biraz daha koyu ve çok kalıcıdır.
+
+RETİNA.--Göz küresinin arka kısmının en içteki ve başlıca sinir tabakası.
+
+RENKLERİN DOYGUNLUK.--Optikte beyazla karışım derecesi, beyaz miktarı arttıkça doygunluk azalır.
+Başka bir deyişle, en yüksek doygunluk derecesi, en büyük saflık durumundayken belirli bir renge aittir.
+
+ÖLÇEK.--Bir duyusal algının derecesinin, yoğunluğunun veya kalitesinin tahmin edilebileceği derecelendirilmiş bir sistem.
+
+GÖLGE. --Bir renkteki kusurlu ışık yoğunluğunun derecesi veya derecesi, genellikle
+solukluk veya yüksek ışık yoğunluğunun, kusurlu KROMA ile birleştiğinde,
+kendi başına yüksek ışık yoğunluğuyla karıştırılması gerçeğinden belirsiz bir şekilde kullanılır. Bkz.
+Renk, Ton ve Ton.
+
+SPEKTRUM.--Fizikte, ardışık prizmatik renkleri veya izole çizgileri veya renk bantlarını gösteren sürekli ışık bandı,
+güneş veya bir gaz alevindeki tutuşmuş buhar gibi bir kaynaktan gelen radyasyon bir prizmadan geçirildikten sonra
+(prizmatik spektrum) veya bir kırınım ızgarasından yansıtıldıktan sonra
+(kırınım veya girişim spektrumu)
+gözlemlendiğinde gözlemlenir. Bkz. Gökkuşağı.
+
+TON.--Bir renk çeşidi; özellikle ve uygun şekilde, düşük KROMA'nın ışıklı bir çeşidi; ayrıca, soyut olarak, bir rengin daha fazla veya daha az beyaz karışımıyla yükseltilebileceği saygı, bu da aynı anda
+parlaklığı artırır ve
+KROMA'yı azaltır.
+
+TON.--Kulak tarafından kolayca tahmin edilebilecek kadar kesinlik ve sürekliliğe sahip bir ses.
+Gürültüye karşıt müzikal
+ses. Bir rengin baskın etkisi.
+
+ULTRAMARİN.--Mineral lapis-lazuli'den elde edilen güzel bir doğal mavi pigment.
+
++DEĞER.--Resim ve ilgili sanatlarda, bir resmin bir nesnesinin, parçasının veya atmosferik düzleminin diğerlerine göre ilişkisi, ışık ve gölgeye göre, TON fikri soyutlanmıştır.+
+
+VERMİLYON.--Cıvanın kırmızı sülfatı.
+
+MENEKŞE.--Menekşe çiçeğinin son derece kromatik bir örnek olduğu genel bir renk sınıfı. His, 
+KROMA'sı azaltılmışken PARLAKLIĞI artırılmış saf bir mavi tarafından üretilir. Bu nedenle
+mavi ve menekşe aynı renktir, ancak hisler farklıdır.
+Sadece aydınlatmanın artması, görünür KROMA'nın azalmasıyla birlikte menekşe mavisinin menekşe gibi görünmesine neden olabilir.
+Uyandırdığı hissin niteliğine göre menekşe veya mavi olarak adlandırılan bu renk, Young'ın teorisinin üç temel renginden biridir.
+Kırmızıyla renklendirilmiş koyu bir
+mavi.
+
+VİRİDİAN.--Veronese yeşili ile aynıdır.
+
+BEYAZ.--Göze çarpan ışıktakiyle aynı oranda birleşmiş, spektrumun tüm ışınlarını ileten ve böylece yansıtan bir renk.
+
+SARI.--Altın ve ışığın rengi, dalga boyu 0,581 mikron.
+İsim, oldukça kromatik ve parlak renklerle sınırlıdır.
+KROMA'da azaltıldığında, açık kahverengi olur; PARLAKLIK azaltıldığında, soğuk
+kahverengi. Kahverengiye bakın.
+
+VERONESE YEŞİLİ.--Hidratlı krom seskioksitten oluşan bir pigment.
+Çok kalıcı, berrak mavimsi bir yeşildir. Ayrıca Viridian olarak da adlandırılır.
+
+PARAGRAFLARA GÖRE DİZİN.
+
+Renk dengesi, 23, 47, 67, 75-77, 81-86, 106, 108, 111, 114, 132,
+136, 142, 147, Ek III.
+Siyah, 12, 16, 22, 31, 41, 54, 55, 65, 91, 119.
+Mavi, 9, 12, 16, 34, 104, 146, 147.
+Brewster'ın teorisi, Ek III.
+
+Renk küresinin çizelgeleri, 14, 17, 126, 127, 135, 136, 140.
+Chevreul, Ek III., V.
+Chroma, 3, 4, 8, 11, 14, 21-24, 28, 39, 40, 42, 45, 64, 76, 78, 82,
+88, 94, 95, 105, 121, 132.
+Ölçek, 12, 19, 25, 31-35, 42, 133.
+En güçlü, 32, 34, 42.
+Kromatik akort çatalı, 117, 118, 119-127.
+Devre, eğimli, 16, 17, 97.
+Renk, cihaz, 3, 8, 14, 132.
+Atlas, 129.
+Denge, 23, 47, 67, 75-77, 81-86 (üçlü), 106, 108, 111, 114, 132,
+136, 142, 147.
+Körlük, 182, 183.
+Grafikler, 14, 17, 126, 127, 135, 136, 140.
+Devre, 54, 58, 59.
+Tamamlayıcı, 76, 77.
+Renk, boyutları, 3, 8, 9, 13, 25, 53, 94, 116.
+Eğriler, 94.
+Diskler, Maxwell's, 76, 93, 106-112, 113, 117.
+Uyum, 47, 77, 86, 145-148, 151-174, 180.
+Bir tutucu olarak el, 54-58.
+Anahtarı, 6, 151, 152.
+Dil, yoksulluk, 5, 175.
+Listeler, 131.
+Ölçülen, 3, 14, 32.
+Meridyenler, 136, 137.
+Orta, 28, 29, 40-42, 113.
+Yanlış adlandırmalar, Ek I.
+Karışım, 56-72.
+İsimler, 1, 2, 14, 19, 25, 90, 91, 131.
+Notasyon, 36, 37, 40-42, 47, 67, 72, 86, 101, 133.
+Turuncu, 9-11, 89, 123.
+Paralellikler, 12, 119.
+Yollar, 157, 158, 160-164. Algı, 27, 29, 39, 179.
+Ana (5), 4, 16, 21, 26, 31, 34, 40, 54, 56, 57.
+Ana (5) ve ara (5), 31, 60, 68, 112, 134.
+Saflık, 8, 19, 23, 89, 98, 99.
+Kayıtlar 145.
+İlişkiler, 14, 24, 36, 37, 153.
+Ritim, 166.
+Ölçek, 3, 7, 24, 30, 55, 120, 140, Ek II. Puan, 133-139, 142, 173.
+Duygular, 3, 4, 15, 19, 21, 87.
+Sıralar, 47, 78, 79, 120, 156, 169-171, 181.
+Sir Isaac Newton's, 89.
+Şemalar, Ek V.
+Katı, 14, 19, 102, 126, 129, 140, 153.
+Spektral, 16, 88, 94, 129.
+Küre, 12-17, 24, 25, 31, 43, 55, 72, 91, 101, 102, 111, 122, 132.
+Standart, 4, 26, 35.
+Sistem, 3, 8, 28, 123, 130.
+İhtiyacı, 46, 148.
+Ağaç, 14, 30-34, 43, 94, 95, 124.
+Dalgalar, 21, 23, 136.
+Tonlar, 134.
+Çocuk renk çalışmaları, Ek IV.
+Renkçi, 84, 121, 177.
+Renkçi sanat, 7, 38, 45, 177.
+Kombine ölçekler, 12, 14, 36, 37, 47.
+Tamamlayıcılar, 76, 77.
+Renk çalışması kursu, 48-50.
+
+Gün ışığı fotometresi, 22, 103, 119.
+
+Emayeler, 28, 29, 101, 117.
+
+Solma, 8, 23.
+Sahte renk dengesi, Ek III.
+Düz diyagramlar, 14.
+Temel duyumlar, 28, Ek III.
+
+Yeşil, 2, 32, 104, 136, 137, 140, 147, 148.
+
+Ton, 3, 4, 8, 9-11, 14, 18, 21-26, 34, 39, 40, 43, 54, 59, 76, 82,
+89, 105.
+Ölçek, 12, 19, 25, 31, 35, 120, 133.
+
+İdeal renk sistemi, 100.
+
+Lambert piramidi, 31. not.
+Luminist, 121.
+
+Maskeler, 47, 167-171.
+Maxwell diskleri, 93, 107, 113, 117.
+Renklerin ölçümü, 3, 8, 14, 116, Ek IV.
+Orta gri, 61, 65, 72.
+Orta tonlar, 10, 28, 65.
+Tonların karışımı, 56-72.
+Renkler için kullanılan müzik terimleri, 6, 46, 148-150.
+
+Nötr eksen, 31, 34, 61, 65, 121.
+Nötr gri, 11, 23, 25, 62, 64, 65, 72, 114, 102.
+Notasyon diyagramı, 140.
+
+Turuncu, 9-11, 18, 123.
+
+Kişisel önyargı, 144, 174.
+Pigmentler, 14, 27-29, 101-104, 125, 129.
+Fotometre, 65.
+Birincil duyumlar, 89.
+Prizmatik renk küresi, 98.
+Mor, 5.
+
+Gökkuşağı, 15, 17.
+Kırmızı, orta, 1, 32, 41, 60, 66, 72, 104, 110, 122, 147, 148.
+Retina, 21.
+Rood, modern kromatik, Ek I.
+Runge, 31'e not, Ek V.
+
+Tonlar ve renk tonları, 22.
+Spektrum, güneş, 15-18, 27, 28, 87, 88, 92, 95, 96.
+
+Ton, 6.
+
+Değer, 3, 8-11, 14, 21-24, 28, 34, 39, 40-43, 54, 76, 78, 82, 94,
+105, 120, 132.
+Ölçek, 12, 19, 25, 31, 34, 35, 64, 102, 120, 133.
+Vermilion, 42, Ek III. Dikey (nötr) eksen, 12, 25, 31, 34, 65, 68.
+Menekşe, 90.
+
+Sıcak ve soğuk renkler, 72, 123, 136, 137, 138'e not.
+Dalga boyları, 21, 22, 23, 89.
+Beyaz, 12, 16, 17, 22, 31, 41, 54, 55, 65, 87, 91, 92, 99, 119.
+
+Sarı, 1, 32, 54, 104, 136.
+
+MUNSELL FOTOMETRESİ
+
+Patentli 19 Kasım 1901
+
+Genel olarak laboratuvar çalışmalarına uyarlanmış, ve renk değerlerinin
+karşılaştırılmasında özel hizmet veren, taşınabilir, gün ışığı cihazı. Massachusetts Teknoloji Enstitüsü'nde
+Optik Ölçümler dersine
+yerleştirildi
+Fiyatı, 50$
+
+[Dekorasyon]
+
+HAZIRLIK AŞAMASINDA
+
+BİR RENK ATLASI
+
+Ayrıca renk duyusunun
+eğitiminde kullanılmak üzere özel olarak tasarlanmış ders kitapları ve
+modeller
+
+Albert H. Munsell'in
+Proje Gutenberg E-Kitabının Sonu
+
+Bir Renk Notasyonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A COLOR NOTATION ***
+
+***** This file should be named 26054.txt or 26054.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/0/5/26054/
+
+Produced by Louise Hope, K.D. Thornton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
