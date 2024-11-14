@@ -1,0 +1,1721 @@
+*** START OF AKTAHEADER ***
+Başlık: A Brief History of the Internet (İnternetin Kısa Tarihi)
+Yazar: Michael Hart
+Yayın Tarihi: March, 1995
+Dil: English
+Link: https://www.gutenberg.org/ebooks/250
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: ekonomi
+*** END OF AKTAHEADER ***
+Project Gutenberg's A Brief History of the Internet, by Michael Hart
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: A Brief History of the Internet
+
+Author: Michael Hart
+
+Posting Date: March 18, 2012 [EBook #250]
+Release Date: March, 1995
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A BRIEF HISTORY OF THE INTERNET ***
+
+*** START OF TURKISH PART ***
+Yapımcı Michael Hart
+
+İnternet'in Kısa Tarihi
+Parlak Taraf: Karanlık Taraf
+Michael Hart ve Max Fuller
+
+(C)1995, 8 Mart 1995'te Yayımlandı
+
+Bölüm 00 Önsöz
+
+İnternet Uzayı, Zamanı ve Seri Üretimi Fethediyor...
+
+Michael Hart buna 1971'de NeoMass Production [TM] adını verdi...
+ve ABD Bağımsızlık Bildirgesi'ni yayınladı
+ve kimse dinlemiyordu... yoksa dinlemiyor muydu?
+???dikkatli olun!!!!
+Dünyanın hükümetleri, üniversiteleri veya kolejleri
+insanların eğitim almasını isteselerdi, herkesin elektronik bir kopyasını alabileceği
+Bağımsızlık Bildirgesi gibi şeylerin bir kopyasına kesinlikle sahip olabilirlerdi. Sonuçta, İnternet'in üniversitelerimiz arasında hükümet tarafından finanse edilen projeler olarak başlamasının üzerinden 25 yıldan fazla zaman geçti ve Beyanname'nin yayınlanmasının üzerinden sadece 24 yıl geçti, ardından Haklar Bildirgesi, Anayasa, İncil, Shakespeare vb. geldi.
+
+Her YIL BİR TRİLYON DOLARLIK BÜTÇE harcayarak amaçlarının evrensel bir eğitim biçimi olduğunu iddia eden insanlar neden elektronik kitaplarını bu kurumlardan daha fazla başkalarından alıyorlar.
+
+Bu, İnternet'in Aydınlık ve Karanlık Taraflarının hikayesidir. . .Önce Aydınlık Taraf.
+
+Gerçekler:
+
+İnternet, "Star Trek Communicator"ın, "Star Trek Transporter"ın ve ayrıca "Star Trek Replicator"ın ilkel bir versiyonudur.
+
+İletişimci
+
+İnternet, Dünya'daki herkesle konuşmanıza "izin verir",
+tabi onlar da İnternet'te olduğu sürece.
+
+Taşıyıcı
+
+İnternet, bilgisayarınıza girebileceğiniz her şeyi herhangi bir Netter'a taşımanıza "izin verir".
+
+Çoğaltıcı
+
+İnternet, doğru "yazıcıyı" kullanırsanız "Mona Lisa"dan "Klein Şişesi"ne kadar herhangi birinin bilgisayarına girebileceği her şeyi çoğaltmanıza "izin verir" ve kütüphane asla kapanmaz, kitaplar her zaman raflardadır, asla ödünç alınmaz, kaybolmaz, ciltlenmek üzere teslim edilmez
+ve asla gecikme cezası olmaz çünkü onları asla,
+asla geri almak zorunda kalmazsınız.
+
+Parlak Taraf ve Karanlık Taraf
+
+Dünya tarihinde ilk kez, HERKES HER ŞEYİN kopyalarını alabilir
+tabi ki dijitalleştirilebildiği ve Dünya'daki tüm insanlara bilgisayarlar [ve bir kişinin sanal değil, FİZİKSEL bir kopyasını yapmak için ihtiyaç duyabileceği cihazlar] aracılığıyla iletilebildiği sürece. . .
+
+Lütfen az önce okuduklarınızı bir an düşünün,
+HER ŞEY HERKES İÇİN. . .
+
+Bilgi Otoyolu BİLGİ ZENGİNLERİ tarafından ele geçirilmediği ve başkalarının
+ödeyemeyecekleri ve ödemeleri gerekmeyen bir ücret dışında
+erişimine izin verilmediği sürece. . . BİLGİ ZENGİNLERİ İnternet'in ilk 25 yılında
+ücretsiz yolculuklar yaptığı için.]
+
+1969'dan 1994'e kadar, Bilgi Otoyolu'ndaki trafiğin çoğu, Bilgi Otoyolu'na giden rampalara girmek için ücret ödemeyen kişiler tarafından
+oluşturuluyordu. . .aslında, ilk kullanıcıların TÜMÜNE binmek için ödeme yapıldı,
+biri hariç. . .onlara ödeme yapıldı. . .SİZİN TARAFINIZDAN!
+
+Michael Hart, 23 düğümden veya İnternet/ARPANet sisteminden hiçbirinin ödeme yapmadığı, özel bir birey olarak işe başlayan ilk kişi olabilir; ancak bu yayının yapıldığı tarihte, ücretsiz ağ erişimi karşılığında 25 milyar değerinde Etext vermiş olabilir.
+
+[yani Bay Hart, İnternete bu erişimi olan ilk "normal" kişiydi, sosyal sorumluluk için ilk bilgisayar uzmanı olmayan kişiydi; "Gecikmeden tüm kişilere bilgi vermeliyiz... çünkü YAPABİLİYORUZ!"
+Tıpkı Everest Dağı'na tırmanmak veya uzaya gitmek gibi ve bu çok daha ucuz ve daha az tehlikeli.
+
+[Erişimlerinin iptal edilmesini talep etmeyi düşünenleriniz için, e-posta adresinde belirtildiği gibi CCSO yönetiminden, daha önce CSO'dan, bu belgeyi yayınlamak için izin aldı ve ayrıca bilgisayar hesaplarının olduğu ve/veya bağlı olduğu birkaç başka kolej ve/veya üniversiteden de izin aldı. ]
+
+Başlangıçta, Net'teki tüm mesajlar ya
+donanım ya da yazılım çökme mesajlarıydı, insanlar ana bilgisayarlarını çalışır durumda tutmak için yardım eli arıyorlardı--
+ve siber uzayın ilk 10-15 yılı boyunca bu böyleydi. . .siber uzay. . .çoğunlukla sadece uzay. . .aslında kimsenin
+için bir şey yoktu, ancak ana bilgisayar operatörleri,
+programcılar ve çok eyaletli bölgelerde çalışan birkaç bilgisayar danışmanı vardı, çünkü hiçbir eyalette, hatta Kaliforniya veya Illinois'de bile, bir bilgisayar danışmanını iş başında tutmaya yetecek kadar bilgisayar kurulumu yoktu.
+
+Parlak Tarafı
+
+Bay Hart, 1971'de bir bilgisayar ağının sağlayabileceği en büyük amacın, tüm bir insan gezegeninin üreteceği bilgi kütüphanesinin depolanması, iletilmesi ve kopyalanması olacağı vizyonuna sahipti. Bu fikirler, 1973 yılında Illinois Üniversitesi'nden İnsan Makine Arayüzleri konusunda Bağımsız Çalışma Planları Derecesi ile kanıtlandığı gibi, zamanlarının oldukça ötesindeydi. Bu derece ve İnternet'teki ilk birkaç Etexts'in [Elektronik Metinler] yayınlanması, İnternet'in şu anda Project Gutenberg olarak bildiği, alev alıp İnternet'in tüm alanlarına yayılan ve birkaç nesil "Bilgi Sağlayıcısı"nın, artık onlara böyle demeye başladığımız gibi, ortaya çıkmasına neden olan süreci başlattı. Günümüzde Project Gutenberg ve Bilgi Sağlayıcıları'na dair birçok referans bulmadan İnternet'e giriş yapmak zordur, ancak İnternet'te depolanan bilgi bolluğunun ne kadarının yalnızca SINIRLI DAĞITIM için çevrimiçi olduğunu, aslında KAMU MALI'nda olmasına ve vergilerinizle ödenen parayla ve insan ırkının iyileştirilmesi için verildiği varsayılan hibelerle ödenmiş olmasına rağmen, şaşırabilirsiniz, yalnızca BİLGİ ZENGİNİ'nin en üstteki %1'lik kısmındaki ayrıcalıklı bir azınlık için değil. Birçoğunuz bu tür hibelerin duyurularını haber medyasında gördünüz ve bir bilgi profesyoneli bunları her zaman görür. "Elektronik Kütüphaneler" oluşturmak için toplam BİR MİLYAR DOLAR tutarında hibeler görmüş olabilirsiniz; görmediğiniz şey, bunlardan herhangi birinden, sizin kullanmanız için Kamu Alanı'na sunulan tek bir "Elektronik Kitap"tır. Karanlık Taraf
+
+Neden internetten indirilebilen devasa elektronik kütüphaneler görmüyorsunuz?
+
+Dünyanın en ünlü üniversiteleri elektronik kütüphaneler üzerinde çalışıyor da siz neden kitapları okuyamıyorsunuz?
+
+Bir hükümet veya vakıf hibesiyle elektronik kitap oluşturmanın maliyeti 1.000 dolarsa, elektronik kütüphaneler için 1.000.000.000 dolarlık fon, kısa sürede 1.000.000 ciltlik bir elektronik kütüphane oluşturabilir.
+
+Sonuçta, biri size kamu malı bir kitabı yazmanız, taramanız veya başka bir şekilde internete koymanız için 1.000 dolar ödese, siz bunu kısa sürede yapabilirsiniz ve bir milyon kişi daha yapabilir ve onlar da gerçekten çok çabalarlarsa muhtemelen bir haftada, sadece boş zamanlarında yaparlarsa belki bir ayda yapabilirler. Kitap başına 1.000 dolar karşılığında, eminim ki birkaç kişi, tüm bir milyon kitabı elektronik metne dönüştürmek için gereken süre kadar haftada bir kitap çıkarırdı.
+
+Çeşitli yerlerde, şekillerde, türlerde ve diğer tüm çeşitliliklerde bir elektronik kütüphane için belki BİR MİLYAR DOLAR hibe edilmiştir; EĞER TEK BİR ELEKTRONİK KİTAP OLUŞTURMAK İÇİN BİN DOLAR MALİYETİ VARSA, O ZAMAN HERKESİN KULLANMASI İÇİN ÇEVRİMİÇİ BİR MİLYON KİTABA SAHİP OLMALIYIZ.
+
+BU SÜREÇ NASIL DURDURULDU?
+
+Kamusal Alan Bilgi Kütüphanesi için bu süreci durdurmak isteyen herkes muhtemelen Yedi Ölümcül Günah'tan birkaçından muzdariptir:
+
+Gurur, açgözlülük, şehvet, öfke, açgözlülük, kıskançlık ve tembellik. Merriam Webster Üçüncü Uluslararası Kısaltılmamış Sözlük
+[Yukarıda: Açgözlülük = Oburluk ve bir yer geri taşındı]
+
+[Aşağıda: Yedi Ölümcül Günah'ın basit açıklamalarım]
+
+1. Gurur: Benim bir tane var ve sende yok.
+
+2. Açgözlülük: Eğer sende bir kopyası veya benzeri bir şey yoksa benimki daha değerlidir. Seninkini istiyorum. Sahip olduğun
+bir tanesini istiyorum, zaten bir tane veya birçok tane olsa bile.
+
+3. Şehvet: Sahip olmak zorundayım.
+
+4. Öfke: Sahip olduğumdan emin olmak için seni inciteceğim ve
+ve senin bir tane sahip olmamanı sağlamak için.
+
+5. Kıskançlık: Sahip olmandan nefret ediyorum.
+
+6. Açgözlülük: Ne kadar istediğimin veya
+karşılaştırıldığında senin ne kadar az sahip olmanı istediğimin bir sınırı yok.
+
+7. Tembellik: Senin merdivenden yukarı çıkmana karşıyım: Bu, senin üzerindeki efendilik konumumu korumak için merdivenden yukarı çıkmam gerektiği anlamına geliyor. Eğer senin sahip olduğunun iki katı kadarım varsa ve sen bir basamak kazanırsan, bu, önceki efendiliğimi ancak iki basamak yukarı çıkarak geri kazanabileceğim anlamına gelir; seni bir basamak geri düşürmek veya
+hiç tırmanmanı engellemek çok daha kolaydır.
+
+Yıkım, inşa etmekten daha kolaydır.
+
+Bu, başarı merdiveninde 10 veya 100 kat daha yukarı çıkmayı hedefleyen kişi için daha da belirgin hale gelir... eski ve umarım modası geçmiş, veya yakında modası geçecek olan başarı tanımları göz önüne alındığında.
+
+"Hayatım boyunca bir şeytan gibi çalışıp, sahip olduğunuz her dolar için bin dolar elde etmeye çalışsam ve sonra biri gelip herkese 1000 dolar vermek istese, o zaman pozisyonumu korumak için bir milyon dolar daha kazanmak için tekrar bir şeytan gibi çalışmaya zorlanırdım."
+
+Şunu düşünün: Birisi hayatını başarmak, yaratmak veya başka şekilde hayatını yatırım yapmak, bir yetenek, bir fikir veya yaşadığı hayatın fiziksel bir tezahürünü inşa etmek için harcıyor. . .Bunun yıkımı, inşasından çok daha kolaydır. .tıpkı bir evin inşasının çok daha zor olması gibi, eğitim,
+disiplin, enlemlere uygun bir
+sıcaklık ve ışık dengesi elde etmek için fizik yasaları bilgisi,
+vb., vb., vb. gerektirir.
+
+Ancak neredeyse herkes bu tür bir eğitimin bir kısmını almadan bir binayı veya bir kitap yığınını
+yakabilir.
+
+İnsanlar, kendileri, çevreleri ve en son/en önemlisi,
+diğer insanlar üzerindeki egemenliklerini yansıtan belirli şeyler inşa ederek ve yazarak başkalarına hükmetmeye alışkındır.
+Kendileri [öz disiplin, eğitim, vb.] veya
+çevreleri [yiyecek, giyecek ve barınak] üzerinde güç sahibi olmasalardı,
+o zaman kontrol edebilecekleri tek şey başka insanlar olurdu ve sorun da budur. Başkalarının kendilerinden
+daha kolay olmasını istemezler. "Eğer _ben_ bunu
+geçmişin zor yolları ve araçlarıyla yaptıysam, o zaman _SEN_ bana
+şimdinin sunduğu daha kolay yolları ve araçları
+kullanırsan tehdit edersin ve _BEN_ yeni araçları öğrenmek istemiyorum, çünkü tüm hayatımı eski araçlarda ustalaşmaya adadım." Yüksek öğrenim sisteminde kelimenin tam anlamıyla çok yüksek mevkilerde bulunan kişilerle tanıştım, bana e-posta kullanmak zorunda kaldıkları gün sistemi bırakacaklarını söylediler, çünkü bu, fiziksel toplantılar, telefon görüşmeleri ve kağıt postalar üzerindeki
+eskiden sahip oldukları kontrolü
+kaldırıyor. Büyük bir peruk e-postanıza cevap vermiyorsa bu çok açık, çünkü e-posta programları size e-postanın iletildiği saniyeyi ve ayrıca kişinin onu "açtığı" saniyeyi söyleyebilir.
+
+İşte BAZI insanların yeni İnternet'ten korkmasının nedeni: diğerlerinin ondan korkmasının nedeni, SAHİPLİK ile gelen türden bir efendi
+pozisyonunu kaybetmeleri DEĞİL; aksine, benzer şekilde, efendilik pozisyonlarına ulaşmak için kullandıkları KONTROLÜ kaybedeceklerinden korkuyorlar,
+aşağıda bahsi geçen bir profesör türü gibi. *****Hart'ın DOS isteminde bazen belirtildiği gibi:*****
+
+"Para, yeteneği olmayan insanların puan tutma şeklidir!"
+"Kontrol, parası olmayanların puan tutma şeklidir!"
+
+Bu Yedi Ölümcül Günah, çeşitli isimlerle ve çoğu medeniyet tarafından adlandırılsa da, yine de sıklıkla gerçek yasalar olmuştur; çünkü belirli kişilerin, ırkçılık veya cinsiyetçilik nedeniyle herhangi bir mülkün mülkiyetinin yasal olarak reddedilmesi veya bir sözleşme hakkının reddedilmesi, hatta oy kullanma, sözleşme yapma ve mülk sahibi olma haklarının çeşitliliği değil, okuma ve yazma yeteneğinin yasal olarak reddedilmesi nedeniyle, nüfusun geri kalanının kurbanı olmaları yasa gereği zorunluydu - hatta "üst tabaka" dışında kimsenin belirli türde kıyafetler giymesini yasaklayan yasalar bile vardı, bugün gördüğümüzden biraz farklı bir "moda ifadesi", ancak benzer amaçlarla.
+
+Bir zamanlar bu ve diğer ülkeleri bölen ve insanların çevreleri üzerinde güç sahibi olmayı öğrenmelerinin yollarını belirli ırklardan veya cinsiyetlerden kişilere okuma, yazma, aritmetik
+ve diğerlerini öğretmeyi yasadışı hale getiren yasalara bakmak isteyebilirsiniz.
+
+Kendine karşı güç, ilk güç türüdür... Eğer kendinizi kontrol etmezseniz, herhangi bir şeyi kontrol etmekte zorluk çekersiniz.
+
+Çevreye karşı güç, ikinci güç türüdür... Eğer yiyecek, giyecek ve barınağı kontrol etmezseniz, başka bir şeyi kontrol etmekte zorluk çekersiniz.
+
+Başka bir insana karşı güç, üçüncü güç türüdür --
+Yukarıda Yedi Ölümcül Günah'ta anlatılmıştır, üçüncü sınıfların bir
+güç türüdür. Başka hiçbir şeyi kontrol edemeyenler...
+tanımı gereği, başkalarının onlar adına her şeyi kontrol etmesini isterler.
+Başkalarının gönüllü işbirliğine bağımlı olmak istemiyorlarsa, onları kontrol etmenin bir yolunu bulmalılar.
+
+Şimdi İnternet'i İNŞA EDEMEYENLERİN ve İnternet'te bulunan 40 milyon insanın, hükümetten büyük işletmelere kadar, "Özgürlük Köleliktir" veya en azından tehlikeli olduğunu düşünen ve İnternet'in, müşterilerin reklamlarla, gereksiz postadan daha ucuza boğulmaya hazır olduğu "SONRAKİ TİCARİ SINIR" olduğunu düşünenlerin çabalarını görüyoruz. Neyse ki diğer İnternet öncülerinden bazıları, bu tür şeylerin olmasını önlemenin yollarını geliştirdiler, ancak eminim ki nakit zengini ve bilgi zengini olanların, gereksiz postalarını "benim" e-posta kutuma alamadıkları için şikayet ederek açtıkları davalardan çok da uzak değiliz. Muhtemelen hepimiz, istediğimiz postayı içeri almak ve gereksiz postayı dışarıda tutmak için gereken "öldürme robotlarına" abone olduğumuz bir dizi "koruyucuya" katılmak zorunda kalacağız. Aynı türden koruyucu önlemler, İnternet'ten yaklaşık bir asır önce, bu İnternet'ten sadece 100 yıl önce kıtalararası hale gelen demiryollarının sert tekelci fiyatlandırma politikalarına benzer bir yanıt olarak oluşuyordu. Ansiklopedilerinizde Grange'e bakmanızı öneririm,
+biri şunu söylüyor:
+
+"Ulusal Grange, Amerika Birleşik Devletleri'ndeki en eski genel çiftlik örgütü olan
+Hayvancılık Patronları Düzeni'nin
+popüler adıdır. . . büyük ölçüde
+1866'da ABD Tarım Bakanlığı için Güney'deki çiftlik alanlarını denetlerken
+çiftçilerin yoksulluğundan ve izolasyonundan
+derinden etkilenen
+Minnesota'lı bir çiftçi olan Oliver Hudson Kelley'nin çabalarıyla
+oluşturuldu.
+1870'lerde Grange, tekelci demiryolları ve depolar tarafından uygulanan
+fahiş ücretlere karşı kampanya yürüten ve bu ücretleri düzenleyen
+yasaların çıkarılmasına yardımcı olan
+daha geniş Granger hareketinde öne çıktı. . . .
+Bu tür yasaların anayasaya uygunluğu, itiraz edilmesine rağmen, ABD Yüksek Mahkemesi tarafından Munn v. Illinois (1877) davasında
+onaylandı.
+
+[1994 Grolier Electronic Enyclcopedia]
+
+***
+
+İnternet Uzayı, Zamanı ve Seri Üretimi Fethediyor
+
+İnternet, "Star Trek Communicator", "Star Trek Transporter" ve ayrıca "Star Trek Replicator"ın ilkel bir versiyonudur.
+
+İnternet, Dünya'daki herkesle konuşmanıza "izin verir",
+tabi onlar da İnternet'te olduğu sürece. İnternet, bilgisayarınıza girebileceğiniz her şeyi herhangi bir Netter'a taşımanıza "izin verir".
+
+İnternet, doğru "yazıcıyı" kullanırsanız "Mona Lisa"dan "Klein Şişesi"ne kadar, herhangi birinin bilgisayarına girebileceği her şeyi kopyalamanıza "izin verir".
+
+"SneakerNet"in İnternet'in bir parçası olduğunu ve doğrudan İnternet bağlantısı olmayan kişilerden bilgi almanıza veya onlardan bilgi almanıza izin verdiğini unutmayın. SneakerNet, istediğiniz kişinin yakınındaki birine bir dosya gönderme ve kişinin spor ayakkabılarını giyip diski sizin için sokaktan aşağı taşıma kavramını tanımlamak için geliştirilmiş bir terimdi. Deneyimlerime göre, SneakerNet'in İnternet'ten çok önce Doğu'dan Batı'ya ve Batı'dan Doğu'ya dünyanın dört bir yanına gittiği inanılmaz derecede açıktı, çünkü Project Gutenberg Alice Harikalar Diyarında Etext'in dünyayı dolaşmasından çok önce Doğu'dan ve Batı'dan mektuplar aldım.
+
+İnternet'i sosyo-politik hareketler nedeniyle İnternet'i bunun için kullanmaktan alıkoyabilecek olası bir gelecekteki gelişmeyi düşünürseniz, bunu bilmek çok önemlidir. İnternet'i "Dünya Çapında Bir Alışveriş Merkezi"ne [WWM] dönüştürmeye yönelik bir terim, özellikle bu para kazanma felsefesini tanımlamak için türetilmiştir. Bu felsefe "25 yıl boyunca kullanıcıların %90'ına ücretsiz olarak verilmiş olsa bile, hedefimiz onu bir Bilgi Otoyolu'ndan bir Bilgi Otoyolu'na dönüştürmektir." der. Star Trek'teki İletişimci, Taşıyıcı ve Çoğaltıcı işlevlerini "yapalım" dedim çünkü uzun süredir İnternet'e ücretsiz erişimi olan "Bilgi Zenginlerinin" İnternet Tekelciliği yapmak istedikleri ve Bilgi Zenginleri için ücretsiz olan şeyin Bilgi Yoksulları için artık ücretsiz olmamasını sağlamak istedikleri yakında ortaya çıkacaktır. Bu ciddi bir iştir ve bunun 40 milyon Net kullanıcısına yaklaşık Ayda 25 dolar, İnternet'in Bilgi Zengini versiyonuna "abone olmak" için, bu ayda bin milyon doların Bilgi Zenginlerinin eline, Bilgi Yoksullarının pahasına gitmesi anlamına gelir; kısa süre sonra, telefon şirketinin eline karşı büyük bir anti-tröst ve anti-tekel eylemiyle yakın zamanda dağılan tekelin seviyesinde olacak bir tekelde sanal kulaklarımıza kadar batmış olacağız.
+
+Umarım, eğer bunu görürsek şimdi önleyebiliriz,
+ama _benim_ sahip olduğumdan çok daha fazla güç gerektirecek.
+
+İnsanlar size "Hiç kimse İnternet'e sahip olamaz!" diyecek--
+ama gerçek şu ki, bilgisayarınıza sahip olsanız da,
+siz "İnternete Sahip" değilsiniz, tıpkı kendi telefonlarıma veya PBX santrallerime sahip olmamın Telefon Şirketlerine ait telefon ağlarına sahip olduğum anlamına gelmediği gibi. Fiziksel kablolama ve tellere sahip olan şirketler, İnternet'in sahibi olanlardır ve şu anda bu sistem Telefon Şirketlerine satılıyor ve Bilgi Otoyolu'na ilişkin "haklarınız" da onlarla birlikte satılıyor.
+
+Project Gutenberg'de İnternet'in başlangıcından bu yana yapmaya çalıştığımız, Dünya'daki herkese 10.000 kitap verme hedefi, İnternet'te köleleştirdiğimiz kişiler için sadece başka bir araç olma tehlikesiyle karşı karşıyadır ve bu kitaplar liselere asla giremeyebilir: Ortaokullara ve ilkokullara hiç giremeyebilir çünkü Amerika Birleşik Devletleri'nin her Kongresi'nin yükselişi ve düşüşüyle ​​eğitime harcadığımız Trilyon dolarlar eğitmek için değil, başka bir şey için harcanmaktadır. Sonuçta--
+eğer bu eğitim sürecine her iki yılda bir trilyon dolar harcanıyorsa, okuryazarlık
+oranları %53'e düşmeli ve üniversite düzeyindeki test puanları yıllarca düşmeli miydi?
+
+[Ah evet, dün testlerin on yıllardır ilk kez arttığına dair raporu duydum... ama duymadığım şey!
+sadece bir kişinin sadece adını yazabilmesi için aldığı "normal" ücretsiz 200 puanla değil, matematik için 76, sözel için 22 puanla puanın "şişirildiği" gerçeğine dair HERHANGİ BİR göndermeydi. ]
+[5 Şubat 1995'te yazıldı]
+
+Bu tür "not şişirme" okullarımızda on yıllardır benzer, ancak daha az resmi bir şekilde devam ediyor. Ortalamaların, "A"ların diğer tüm notların toplamından daha fazla verildiğini gösterdiği okullar var, sadece "A"ların "B"lerden veya "B"lerin "C"lerden daha fazla olmadığını. En önemli çalışmalardan bazıları, vergiyle finanse edilmelerine rağmen
+hiç yayınlanmadı.
+
+Dikkat edin, "not şişirme" terimi o kadar "politik olarak yanlış" ki denediğim ansiklopedilerin hiçbirinde tek bir kez bile geçmiyor, ancak Random House Unabridged ve College Dictionaries'de görünüyor, ancak Merriam-Webster Ninth New College Dictionary, American Heritage veya aradığım diğer kaynaklarda görünmüyor. Lütfen herhangi birinde
+bulursanız bana bildirin.
+
+"Öğrencilerin hak ettiğinden daha yüksek notlar verilmesi
+ya bir okulun akademik itibarını korumak için ya da
+öğretmen beklentilerinin azalmasının bir sonucu olarak."
+[1980-1985]
+
+Size şahsen şunu söyleyebilirim ki, söz konusu bazı kolejlerdeki ortalama not yukarıda belirtilen noktayı çoktan geçmişti ve tüm lisans derslerini, "kalanlar"ın notları da dahil olmak üzere, ortalamalar hala "B"den daha yüksekti, bu da tüm lisans öğrencilerine "B" ve "C"lerden daha fazla "A" verildiği anlamına geliyor. [Aslında bundan daha kötü anlamına geliyor, ama vurgulandı.]
+
+Yani, bir ulusun lise mezunlarının büyük bir kısmının asgari ücretli bir iş başvuru formunu okuyup dolduramadığı bir noktaya geldik, oysa kağıt üzerinde her zamankinden daha iyi durumdaydık, ancak, Tanrıya şükür, test puanları inanılmaz derecede yanlış bir şeyler olduğunu gösteriyordu ve şirketler, bir işi dolduracak birini bulmadan önce daha fazla kişiyle görüşme yapmak zorunda kaldıklarını fark edeceklerdi.
+
+Bir ülkeyi "Bilgi Zengini" ve "Bilgi Yoksulları" olarak ayırdığımızda olan budur.
+
+Bunun tüm dünyaya olmasına izin vermeyin.
+
+TÜM tarihte ilk kez, her insanın birkaç yıl içinde hesap makineleri kadar ucuz olması gereken bilgisayarlara büyük miktarda "Kamu Malı" ve diğer bilgileri koyabilmesini sağlama şansına sahibiz. Bu insanların bilgisayarlara sahip olduklarında koyacakları materyallerinin olmasını sağlamak istiyorum.
+
+Örnek:
+
+Bazı Shakespeare profesörleri, harika bir Shakespeare profesörü olmanın yolunun, başka hiç kimsenin bilmediği bir Shakespeare oyunu veya şiiri hakkında bir şeyler bilmek olduğuna inanırlar.
+
+Bu nedenle, bunu asla kimseye söylemezler ve bu bilgi, geniş bir şekilde
+yayınlanmazsa, büyük olasılıkla onlarla birlikte
+ölebilir. Örnek: Şam çeliği, yüzlerce
+yıl boyunca ünlüydü, ancak bu çeliğin nasıl
+yapılacağı bilgisi o kadar dar bir kesim tarafından
+biliniyordu ki, bu tekniği
+bilen herkes, onu
+aktarmadan öldü ve bilgisayar simülasyonlarının, bir kişinin antika bir şey elde etmek için
+bir antika satın alması gereken tüm o yüzyıllardan sonra, Şam çeliğini
+yeniden yaratmayı başarması gerçekten
+uzun bir zaman aldı.
+
+Diğer bazı Shakespeare profesörleri, bir kişinin harika bir Shakespeare profesörü olmak için hareket etmesinin, mümkün olduğunca çok sayıda insana Shakespeare hakkında, öğrenmek istedikleri kadar eksiksiz bir şekilde
+öğretmek olduğuna inanırlar.
+
+İnternet şimdi aynı ikilem üzerinde denge kuruyor...
+
+Sınırsız Dağıtım mı istiyoruz...
+
+Yoksa Sınırlı Dağıtıma devam etmek mi istiyoruz?
+
+Fransızlar bize harika örneklerden birini verdi:
+bir ay kadar önce [bunu Şubat ayının başlarında yazıyorum.]
+bilinen en eski resimleri içeren bir mağara buldular,
+önceden keşfedilenlerden iki kat daha eskiydi ve
+gizlice fotoğraflarını çektikleri ilk aydan sonra,
+hepimizin sahip olması için
+İnternete bir dizi elektronik fotoğraf koydular. . . HEPSİ!
+
+Bu, "Ölü Deniz Parşömenleri" keşfedildiğinde benim doğduğum dönemde işlerin yapıldığı şekilden BÜYÜK bir tezat oluşturuyor ve hiçbiriniz onları görmediniz,
+veya birkaç yıl öncesine kadar bunların gerçek bir tanımını görmediniz -- ne zaman olduğunu merak ediyorsanız, 1947'de doğdum; bu, resmen "yaşlı" olduğum 48. doğum günümde yayınlanıyor. [Bir matematikçi olarak hile yapmam ve 72 yıllık bir ömrü eşitlere böldüğünüzde, sadece 24 yıl genç, 24 yıl orta yaşlı ve 24 yıl yaşlı olduğunuzu kabul ediyorum. . . ondan sonra şansınızı kaybetmiş olursunuz. ABD'yi genç ve yaşlı olarak ayırırsanız, 33 yaş ortanca yaş olduğundan, bir kişi 34 yaşında "yaşlı" olarak kabul edilmelidir [yani insanların yarısı 33'ten genç, yarısı ise daha yaşlıdır. Ortanca İnternet yaşı?
+26. Ortanca Web yaşı 31. Bazı tahminler, bunların ortanca İnternet yaşı 15 olana kadar azalacağını gösteriyor.
+
+İnterneti kim yönetecek?
+
+İnternet Aristokratları mı olacak...
+
+yoksa İnternet'in Herkesi mi?
+
+Aradaki fark, başkalarına hükmeden öğretmen veya akademisyenin mi, yoksa mümkün olduğunca çok kişiye öğreten öğretmen veya akademisyenin mi örneğimiz olduğudur. Biz, halkımızın evrensel bir eğitime sahip olması gerektiğini ve olması gerektiğini SÖYLÜYORUZ, ancak
+sınav puanları ve okuryazarlık oranları düşüşteyken, aklımızda en geniş evrensellikten
+başka bir şey olduğu aşikar. Tamamen okuma yazma bilmeyen insanların mezun olduğu üniversite eğitimini de dışarıda bırakmamak gerekir.
+
+İlk kez, tüm dünya nüfusunun yalnızca havayı veya suyu değil, aynı zamanda fikir dünyasını, sanat veya müzik dünyasını ve diğer sesleri paylaşma fırsatına sahip oluyoruz. . .dijitalleştirilebilen her şeyi.
+
+İlk proto-insanların "2001"de ne yaptığını hatırlıyor musunuz?
+[Stanley Kubrick ve Arthur C. Clark'ın filmi]?
+
+Komşularını su kuyusundan kovdular.
+
+Düşünce Polisi'nin bizi bu devasa su kuyusundan kovmasına izin verecekler mi, sadece vergi dolarlarımızın çoktan ödediği bir şey için bizden ücret alabilmek için?
+
+İnternet Uzayı, Zamanı ve Seri Üretimi Fethediyor...
+
+İnsanların sadece bir sözlüğe, ansiklopediye, eş anlamlılar sözlüğüne veya başka bir referans kitabına, devasa boyutlarda bir gazete veya dergi kütüphanesine veya tüm tarihin en büyük eserlerinin bulunduğu binlerce kitaptan oluşan bir kütüphaneye
+kalkıp kitaplığa gitmek zorunda kalmadan başvurabilmeleriyle ne kadar zaman ve emek tasarrufu sağladıklarını düşünün.
+
+Sadece bir kişinin daha fazla bilgi edinebilmesi ve bu bilgiye erişebilmesi, yargılarının daha keskin ve daha bilgili hale gelmesi nedeniyle eğitimdeki basit artışı düşünün...
+
+Birisi iyi yargının, bilgili bir nüfusun ve bunların etkilerinin düşmanları olduğuna inanmıyorsa, belirli kurumların ve insanların bu bilgi akışını neden sınırlamak istediğini anlamak zor bir iştir.
+
+Ancak kurumlarımızın büyük bir kısmı ve hatta onları yöneten bazı kişiler bu tür kolayca erişilebilen bilgilere karşıdır... ya onu kontrol etmek isterler - ya da sadece kendileri zor yoldan yaptıkları için "zor yoldan yapmak zorunda kalmamızı" sağlayarak çaba alanlarındaki "liderliklerini" sürdürmek isterler.
+
+Aşağıda ve İnternette göreceğiniz gibi artık "zor yoldan yapmak" için hiçbir neden yok.
+
+"İnternetin Kısa Tarihi"nin Önsözünün Sonu.
+
+Bölüm 0
+
+Giriş
+
+Michael Hart İnsan Doğasını değiştirmeye çalışıyor.
+
+İnternetin dünyayı kurtarmasını engelleyen tek şeyin İnsan Doğası olduğunu söylüyor.
+
+İnternetin, Star Trek iletişim cihazları, taşıyıcıları ve çoğaltıcılarının ilkel bir kombinasyonu olduğunu ve neredeyse herkese neredeyse her şeyi getirebileceğini ve getireceğini söylüyor.
+
+"Her yerde Shakespeare ve herkesle yazıyorum ve şu andan itibaren bildiğimiz tarihin sonuna kadar herkesin anında bir kopyası olacak, talep üzerine. Sadece kitaplar değil,
+resimler, tablolar, müzik... dijitalleştirilecek her şey... ve sonunda hepsi dahil olacak. Birkaç yıl önce 3 boyutlu çoğaltma hakkında birkaç makale yazmıştım
+[Stereografik Litografi], bu makalede günümüzde kullanılan, videoya kaydedilen ve bir VCR'da ileri sarılarak oynatılan, Star Trek'teki çoğaltıcılara benzeyen
+işlemlerden bahsetmiştim. Geçtiğimiz ay bir kişinin İnternet'teki herhangi bir yerden programlayabileceği bir soba hakkında bir makale gördüm. .birine pizza veya başka yemekler fakslayabilirsiniz, ``pizza fakslamak'' İnternet kullanıcıları arasında yıllardır standart bir şakadır ve geleceğin ne zaman geldiğini söylemenin bir yolunu tanımlar.
+
+Bilgisayar sahibi veya ödünç alan yaklaşık bir milyar kişi için buna "Gelecek Şimdi" denebilir çünkü
+250 Project Gutenberg Elektronik Kütüphanesi öğesine ulaşabilirler, bunlar arasında Shakespeare, Beethoven ve Neil Armstrong'un İnternet'in doğduğu yıl
+Ay'a inişi de vardır.
+
+Bu 250 numaralı öğedir ve bunun İnternet'i ve
+dünyayı kurtarmasını umuyoruz. . .ve boşuna, hayalperest bir çaba olmamasını.
+
+Kabul edelim, Yetişkin Okuryazarlık Oranı %47 olan bir ülkenin AIDS'e çare bulma olasılığı, Yetişkin Okuryazarlık Oranı %99 olan bir ülke kadar değildir.
+
+Ancak Michael Hart, İnternet'in son bir yılda çok değiştiğini ve 1994 ABD Yetişkin Okuryazarlığı Raporu'na göre işlevsel olarak okuma yazma bilmediği söylenen
+ABD'deki yetişkin nüfusun %47'sinin evlerine Project Gutenberg Etexts'i götürecek yönde. Feodal Karanlık Çağ yaklaşımının bu yaklaşan "Bilgi Çağı"na bir sonucu olarak "Bilgi Zengini" ve "Bilgi Yoksulunun" olmayacağından emin olmaya çalışıyor. . . 1971'den beri, İnternet'in sanal bir "İlk Vatandaşı" olmaya çalışıyor çünkü İnternet'te, İnternet/ARPANet veya üye bilgisayarlarında çalışmak için ücret almayan
+ilk kişi olabilir.
+
+Geri Dönüş
+
+Her iki durumda da, muhtemelen yeni kurulan bir Net'teki ilk 100 kişiden biriydi ve kesinlikle başkalarının indirmesi için Net'teki genel nitelikteki bilgileri yayınlayan ilk kişiydi; bu
+ABD'nin Bağımsızlık Bildirgesi'ydi. Bunu
+ABD Haklar Bildirgesi ve ardından ABD Anayasası'nın bir
+Etniği, vb. izledi. Sadece ilk ikisinin gerektirebileceği on dakika için, 24 yıl önce İnternet'e koyulan bu belgelerin ilk ikisinin okunmasını ve belki de
+üçüncünün başlangıcını okumayı düşünebilirsiniz.
+
+İnternet hesabını sağlayan kişiler bu
+tüm konseptin çılgınca olduğunu düşündüler, ancak dosyalar çok fazla yer kaplamıyordu ve Devrim'in 200. Yıldönümü [ABD'nin İngiltere'ye Karşı] yaklaşıyordu ve
+Devrim'in tüm Belgelerinin parşömen kopyaları o zamanlar neredeyse her yerde bulunuyordu. Shakespeare'in Tüm Eserlerini, İncil'i, Kuran'ı
+ve daha fazlasını İnternet'e koyma fikri, o zamanlar Bay Hart hariç herkes için hala saf Bilim Kurgu'ydu. Bu projenin ilk 17 yılında, alınan tek yanıtlar şuydu: "Shakespeare'i bir bilgisayara mı koymak istiyorsunuz!? ÇILDIRMIŞ olmalısınız!" ve 1987-88'de İnternet'e "Büyük Büyüme
+Atılımı" gelene kadar bu böyle devam etti. Birdenbire, İnternet "Kritik Kütle"ye ulaştı ve neredeyse her konuda, elektronik kitaplar da dahil olmak üzere, bir sohbete başlamak için yeterli sayıda insan vardı ve ilk kez, Gutenberg Projesi, Etext for everyone konseptinin iyi bir fikir olduğunu söyleyen bir mesaj aldı. Bu dönüm noktası niteliğindeki olay bir dalgalanma etkisi yarattı. Sonunda Etext'e ilgi duyan diğerleriyle birlikte, "Kitle Pazarlama Yaklaşımı", ve öyleydi, sonunda uygun hale geldi ve Alice Harikalar Diyarında ve Peter Pan'ın yayınlanması, Etext'lerin yaygın bir şekilde üretilmesinin ve tüketilmesinin başlangıcını işaret etti. Ek A'da, bu 250 kitabın yayınlanma sırasına göre bir listesini bulacaksınız. Gönüllüler, Project Gutenberg'in 2001 yılı sonuna kadar 10.000 öğe olmasını umduğu şeyin yaratılmasına veya dağıtımına yardımcı olmak için tam zamanında ortaya çıkmaya başladı; bu, ilk Etext'in Net'te yayınlanmasından sadece 30 yıl sonraydı. İleriye Dön
+
+Bugün Project Gutenberg'de yaklaşık 500 gönüllü var
+ve bunlar dünyanın dört bir yanına dağılmış durumda, en sevdikleri kitabı okuyan ve sonra bir daha hiç seslerini duymayan insanlardan, telif hakkıyla ilgili yığınla araştırma yapan doktora derecesine, bölüm başkanlarına, başkan yardımcılarına ve avukatlara kadar, ve bazıları neredeyse 20'den fazla E-metni tek başlarına yapmış; takdir etmek, Michael'ın bunlar hakkında ne hissettiğini anlatmak için yetersiz bir kelime ve gözyaşları tek uygun hareket olurdu.
+
+Bugün yaklaşık 400 milyon bilgisayar var, bunların geleneksel %1'i İnternet'te ve İnternet düğümü başına yaklaşık 10 kullanıcı olan geleneksel oran da devam etti, çünkü çok sayıda İnternet ağ geçidinde yaklaşık 40 milyon kişi var. Bu tür oranlar, İnternet gelişimi boyunca sanal bir sabit olmuştur.
+
+400 milyon bilgisayarın her birinde ortalama sadece 2,5 kişi varsa, bu sadece 1995'te bir milyar kişi demektir. Project Gutenberg'in 10.000 öğeyi çevrimiçi hale getirmeyi umduğu 2001 yılına kadar muhtemelen dünyada bir milyar bilgisayar olacaktır.
+
+Bu bilgisayarların sadece %10'u Project Gutenberg'den ortalama E-metin içeriyorsa, bu Project Gutenberg'in bir trilyon E-metin dağıtma hedefinin o zaman tamamlanacağı anlamına gelir, bu kopyalardan herhangi birini birden fazla kişinin kullanabileceğini hesaba katmazsak. Ortalama hala bilgisayar başına 2,5 kişi olsaydı, tüm bilgisayarların sadece %4'ünün bir trilyona ulaşması gerekirdi.
+
+[100.000 kişiye 10.000 E-metin bir trilyona eşittir]
+
+Hart'ın hayali, "Grolier'in" CDROM'unda yeterince ifade edildiği gibi
+Elektronik Ansiklopedisi, yıllarca izniyle onun imza bloğu olmuştur, ancak bu fikir artık Sınırsız Dağıtım tarafından tehdit edildiğini hissedenler tarafından tehdit edilmektedir:
+
+==========================================================
+| Kütüphane politikasının eğilimi açıkça
+| tüm bilgileri gecikmeden tüm insanlara
+| sunma idealine doğru.
+|
+|Yazılım Toolworks Resimli Ansiklopedisi (TM)
+|(c) 1990, 1991 Grolier Electronic Publishing, Inc.
+
+=============================================
+
+Michael S. Hart, Elektronik Metin Profesörü
+Proje Gutenberg Etext'in İcra Direktörü
+Illinois Benedictine College, Lisle, IL 60532
+U of Illinois--UIUC ile resmi bir bağlantısı yoktur
+hart@uiucvmd.bitnet ve hart@vmd.cso.uiuc.edu
+
+İnternet Kullanıcı Numarası 100 [yaklaşık] [TM]
+Cehalet ve Okuryazarlık Engellerini Kaldırın
+Carnegie Kütüphanelerinin 100. Yıldönümünde!
+
+İnsan Doğası olduğu haliyle, binlerce yıldır hava ve su dahil her şeyin serbestçe dağıtımına karşı büyük bir direnç göstermiştir.
+
+Hart, MS Üçüncü Milenyumun farklı olabileceğini umuyor.
+
+Ancak bunun için insan doğasında bir evrim ve hatta belki de insan doğasında bir devrim gerekecektir.
+
+Şimdiye kadar, insanlık tarihi tekel idealinin tarihi olmuştur: bir kabile kolu veya tekerleği veya bakırı, demiri veya çeliği ele geçirir ve onu başka bir kabileye hükmetmek, kontrol etmek veya başka şekillerde ona hükmetmek için kullanır. Büyük bir fazlalık olduğunda, ticaret yolları açılmaya başlar, medeniyetler genişlemeye başlar ve herkes iyi vakit geçirir. Büyük fazlalık olmadığında, ilk üç mülk, tarihsel figürlerin yüzyıllardır yaptığı gibi, geri kalanlara hükmeder:
+
+"Benim bu var ve senin yok." [Nyah nyah naa naa naa!]
+
+***
+***
+
+Artık insan düşüncelerinin temel kütüphanesinin mülkiyeti
+Dünya'daki her insan için potansiyel olarak erişilebilir durumda--bunun gezegendeki herkes için erişilebilir olmasını
+engellemek için yapılan çeşitli girişimleri izliyorum: gördüklerim şunlar:
+
+1. Alay
+
+Alice Harikalar Diyarında, Peter Pan, Ezop Masalları veya Shakespeare, Milton veya diğerlerinin
+Tüm Eserleri gibi kitapların sonsuz erişilebilirliğiyle dünyalarının yok olacağını düşünmeyi tercih edenler, bunları herkese ücretsiz olarak
+vermek isteyenlerin çabalarını, bunun "Olmak ya da olmamak" veya "Olmak [,] ya da olmamak"
+veya "Olmak [;] ya da olmamak"/"Olmak [:] ya da olmamak"
+veya her neyse olması gerektiği konusunda tartışarak alaya almışlardır; ve seçimleri ne olursa olsun, bu dünyayı sarsan konu için, başka hiç kimse için başka bir seçim
+mümkün olmamalıdır. Baskı seçimim
+kesindir çünkü _benim_ akademik bir görüşüm var.
+
+1A. Benim cevabım, "Bir
+iğnenin başında kaç melek dans edebilir" [veya benzer öneme sahip
+diğer birçok konu] konusunu tartışmayı reddetmek olmuştur.
+
+Bunun bir zamanlar çok önemli kabul edildiğini biliyorum,
+AMA YETİŞKİNLERİN YARISININ SHAKESPEARE'İ OKUYAMADIĞI BİR ÜLKEDE,
+genel okuryazarlık ve edebi gerekliliklerin
+onlarınki gibi bir kararı geride bıraktığını hissediyorum. Eğer gerçekten Shakespeare'in en iyi versiyonunun [kendi tahminlerine göre]
+İnternetteki varsayılan versiyon olmasını istiyorlarsa,
+böyle bir baskıyı
+yaratmayı reddetmezlerdi,
+onlara yardımcı olmak için önerdiğim
+planı
+yıllarca reddetmezlerdi. . .ne de sonunda
+kabul ettiklerinde, en büyük bir Etext sağlayıcısının kendilerine indirimli fiyatlar sağlaması ve Shakespeare'in süper kaliteli bir kamu malı baskısını yaratma kararlılıklarını baltalaması teklifine izin vermezlerdi. Eğitim sistemi hakkında inanılmaz bir yorumdu, çünkü sonunda standart bir İnternet E-Metni için kullandığımız Shakespeare baskısı ticari bir satıcı tarafından bağışlanmıştı - evet - geçimini bunu satarak sağlıyordu.
+
+Aslında, kayıtlara geçmesi için belirtmeliyim ki, eğitim, bir kurum olarak, kamu için Kamusal Alan E-Metinlerinin oluşturulması ve dağıtılmasıyla çok az ilgiliydi ve ticari, kapitalist şirketlerin katkıları, büyük bir farkla, Project Gutenberg'i finanse eden birincil güçtü.
+500 gönüllümüz, dünyanın büyük veya büyüklere yakın eğitim kurumlarından hiçbiri olmadan, yalnızca daha küçük, daha az tanınmış eğitim kurumlarından geldi.
+
+Görünüşe göre, daha önce birkaç paragrafta listelenen Yedi Ölümcül Günah, "Güç yozlaştırır ve mutlak
+güç mutlaka yozlaştırır" sözünün kanıtına çok yol kat etti.
+
+Güç, kesinlikle onu arzulayanlara gelir ve
+pudingin kanıtı, yaklaştığımız tüm güçlü kulübün, gerçekten Evrensel Eğitimin yeni konseptine yardımcı olmayı reddetmesidir.
+
+Bu en iyi eğitim kurumlarının üyeleri, ücretsiz bültenimize yeterince sık abone olmayı başardılar, ancak
+hiçbiri bir kitap yazmak veya aldıkları için bir dolar bağışlamak için gönüllü olmadı: hatta
+fark ettiklerini söyledikleri hataların listelerini bile göndermediler.
+
+Bir tane bile. [Bir şey hakkında [kelimenin tam anlamıyla] parmağını bile kıpırdatmadan
+şikayet etme eylemi için bir kelime var]
+
+Ücretsiz olarak erişilebilen Etexts'in tamamı "küçük insanların" bir ürünüdür.
+
+2. Maliyet Enflasyonu
+
+Etexts ilk çıktığında, internette Etexts'i oluşturmanın 10.000 dolar, dolayısıyla önerilen Project Gutenberg Kütüphanesi'ni oluşturmanın da 100.000.000 dolar
+gerektiğine dair tahminler dolaşıyordu.
+
+Medya tarafından usulüne uygun olarak bildirildiği üzere, 500.000.000 dolar, Etext'leri oluşturmak için bağışlanmış,
+ünlü bir vakıf tarafından,
+medya tarafından usulüne uygun olarak bildirildiği üzere,
+ancak bu Etext'ler halkın eline veya zihnine ulaşmadı ve
+korkarım ki çok yakında da ulaşmayacaklar, ancak bu kurumların, bazılarının halihazırda yayınladığı ve diğerlerinin yıllardır bahsettiği binlerce Etext'i
+yayınlamasıyla
+işten çıkarılmayı çok isterdim.
+
+Benim cevabım, Etext'leri zamanında ve bütçe olmadan
+çıkartmak oldu, oldu ve olacak. Sorunun var olmadığının basit bir kanıtı. Project Gutenberg gönüllülerinden oluşan ekip bu sayıda E-metin üretebilir ve bunu tüm dünyadaki bilgisayarlı nüfusa sağlayabilirse, çeşitli hükümet ve özel bağışlar tarafından elektronik kütüphanelerin oluşturulmasına bağışlandığını duyduğunuz milyonlarca dolar, Bilgi Otoyolu'nu sadece orada bir yuva bulmuş olan bilgisayarların %1'i için değil, herkes için özgür ve üretken bir yer haline getirmek için kullanılmalıdır.
+
+3. Grafik ve İşaretleme ile Sade ASCII
+
+Bütün bu grafik ve işaretleme önerilerinde ortak olarak göreceğiniz tek şey, bir yaşam biçimi olarak SINIRLI DAĞITIM'dır. Bunların her birinin amacı, bilgiyi az sayıda kişinin elinde tutmak ve çoğunluğun zihninden uzak tutmaktır.
+
+Çok uzak olmayan bir gelecekte tüm
+malzemelerin ya internette dolaşacağını,
+ya da
+Yedi Ölümcül Günah'la tanımladığım
+sahipleri tarafından kıskançlıkla korunacağını öngörüyorum.
+
+Eğer Star Trek'in ünlü "Tri-corder"ı diye bir şey varsa, eminim ki
+eşzamanlı olarak, sahip oldukları şeye tüm bir nüfusun sahip olmasını istemeyenlerin, benzersizliğini garanti altına almak için değerli bir nesneyi "kilitleyecekleri" bir "kasa" geliştirilmelidir; Bahsettiğim kavram şu hikayeyle örneklendiriliyor:
+
+"Bir uşak, çok ünlü bir müzayede evinin çok seçkin üyeleri tarafından bir teslimat duyuruyor. Usta--çünkü O USTASI--onu çalışma masasına çağırıyor ve
+uşak büyük bir üçgen pul içeren gümüş tepsisini bırakıyor, sonra da gitmek için dönüyor.
+
+On milyonlarca doları "Elektronik Kütüphaneleri" için olan bu projelerden bazılarının, bunun KENDİLERİ için olduğundan ve herkes için olmadığından emin olmak için yaptıkları şey, E-metinleri normal bir insanın okumaya
+isteksiz veya yetenekli olmayacağı
+bir şekilde hazırlamaktır.
+
+Shakespeare'in Hamlet'i PVASCII formatında minik bir dosyadır, cebinize sığan 0,23 dolarlık bir diskete [sıkıştırılmamış!] yarım düzine kopya sığacak kadar küçüktür. Ancak,
+her sayfanın RESMİ olarak saklanırsa, o zaman o kadar çok yer kaplar ki
+o cepte tek bir kopyayı bile taşımak zor olur disket boyutunda bir optik diskte olmadığı sürece ve o zaman bile
+uygun olacağını sanmıyorum.
+
+Normal bir insanın okumamasını sağlamanın bir başka yolu,
+insan gözlerinin taramada zorluk çekmesi, sayfalarda takılmalar yaşaması ve
+üzerlerinden kolayca kaymaması için,
+o kadar açık bir şekilde işaretlemek; bu "işaretlemede" yer alan bilgiler, bir kahve fincanı lekesinin belirli bir sayfanın
+sağ alt köşesinde belirmesinin ve "Perde I"in ardından [<PERDE BİR>]'in gelmesinin, böylece herkesin aslında bir perdenin veya sahnenin veya her neyse
+buradan başladığını bilmesini sağlamak için hayati önem taşıdığını düşünen ezoterik akademisyenler tarafından
+çok önemli kabul edilir.
+
+Muhtemelen bu tür projelere harcanan paranın ne kadarının
+normal bir insanın karışım yoluyla kasıtlı olarak mahrum bırakıldığına inanamazsınız.
+Dosyaları GİZLEMEK,
+dosyaları o kadar BÜYÜK hale getirmek ki onları indiremezsiniz,
+ve onları o kadar TUHAF hale getirmek ki onları alsanız bile
+okumazsınız. Tüm belgelerin belirli bir şekilde biçimlendirilmesini gerektiren ve yalnızca belirli bir programın okuyabileceği kavram, KÂR VE SINIRLI DAĞITIM İKİZ AMAÇLARI için, büyümesini sürdürmek için SINIRSIZ DAĞITIM erdemine ihtiyaç duyan bir ortamda, hayal edebileceğinizden daha sık önerildi.
+
+Her gün Nets'te SINIRLI DAĞITIMI teşvik eden çeşitli konferanslar için makaleler, teklifler ve bildiriler okuyorum. . . sadece küçük bir oligarşiyi iktidarda tutmak için prestij veya para kazanmak için.
+
+Bu gerçekten de insanların dediği gibi HALKA GÜÇ zamanı.
+
+Burada sahip olduğumuz şey, her şeyin SINIRLI DAĞITIMDA OLMASI GEREKTİĞİ kavramları ile buna karşıt olan SINIRSIZ DAĞITIM kavramı arasındaki bir çatışmadır. Sonraki sayfalardaki içerik tablosuna bakarsanız, bu maddelerin her birinin Sınırlı Dağıtımın korunmasına adanmış bir tarih ile 25 yıldan uzun bir geçmişi olmayan çok yeni bir şey arasındaki daha büyük ve daha büyük farkları vurguladığını göreceksiniz--
+
+***
+
+İçindekiler
+
+Bölüm 00
+
+Önsöz
+
+Bölüm 0
+
+Giriş
+
+Zaman ve Emekten Tasarruf
+
+Yeni Burs
+
+Bölüm 1
+
+Genel Yorumlar
+
+Düz Vanilya ASCII ile Tescilli İşaretlemeler
+
+Bölüm 2
+
+Telif Hakkı
+
+Bölüm 3
+
+Luddite'ler
+
+Bölüm 4
+
+İnternet Bir Avize
+[1990'ın Ünlü Avize Tartışması]
+
+Bölüm 5
+
+Zirveye Koşuş
+
+Bölüm 6
+
+Kral Olmak İsteyenler
+
+Gopher, WWW, Mosaic, Netscape
+
+Bölüm 7
+
+Listowners vs List Moderators
+
+Those Who Would Be King, Part I
+
+Bölüm 8
+
+Lurkers
+
+Those Who Would Be King, Part II
+
+Bölüm 9
+
+"Gizlenmek İyidir. . .Unutmayın. . .Gizlenmek İyidir"
+
+Those Who Would Be King, Part III
+
+Netiquetters
+
+Bölüm 10
+
+TPC, Telefon Şirketi
+
+Those Who Would Be King, Part IV
+
+******
+
+Bölüm 1
+
+Düz Vanilya ASCII'ye Karşı Özel İşaretlemeler
+
+Bölüm 2
+
+Telif Hakkı
+
+Bölüm 3
+
+Luddite'ler
+
+Bölüm 4
+
+İnternet Avize Olarak
+[1990'ın Ünlü Avize Tartışması]
+
+[chandel2/wp]
+
+--------------------ORİJİNAL MESAJ--------------------------
+Hart şüphesiz akademiyi koyu kahverengi rüya
+şekilleri, düzensiz, kâbus gibi, her biri neredeyse her şey için kendi kuralları olan
+bir dizi olarak görüyordu: yazım tarzı, dipnot, sınırlı
+konu ve her biri birbirine çok az atıfta bulunuyordu.
+
+---------------------------YANIT----------------------------------
+Görmek istediği şey, her bir konu alanının bilgi akışının tam yoğunluğuyla güçlendirilmesiyle, her birinin diğer alanlara ışık kıvılcımları göndermesiyle,
+sonra bunları dahil edip başkalarına yansıtmasıyla, hiç bitmeyen bir bükülme ve yansıma, Wo/İnsanlığın zihninin, ruhunun
+ve kalbinin bir aydınlanmasıydı, en parlak ve en saf berraklıktaki bir elmasla karşılaştırılamazdı.
+
+Bunun yerine, karanlık, yetersiz aydınlatılmış,
+yetersiz ısıtılmış, iyi savunulan kalelerde yaşayan küçük feodal tiranlar gördü: sınırlı bir diyetle,
+uzun süreler boyunca saklanmış, tuzlanmış
+veya turşulanmış, çürümüş veya fermente edilmiş eski yiyeceklerle beslenen. Dışarıdan gelen ışığın içeri girmesine izin verilmez, çünkü onunla birlikte yaşamın mızrakları ve okları gelebilir
+ve kalenin amacı asil yaşamı içeride tutmak ve
+diğer tüm yaşam formlarını dışarıda tutmaktı. Böylece asalet, kaçınılmaz olarak dünyanın gen havuzunun
+tamamen rastgele bir yansıması tarafından geride bırakılacak olan bir akraba çiftleşme programını sürdürürdü.
+
+Bir avize her yöne ışık gönderir, her renkten ve yoğunluktan ışık. Nerede durursanız durun,
+bazıları size ve sadece size yönelik, bazıları da başkaları tarafından
+görülen ışıltılar vardır: yine de karanlık bir nokta yoktur,
+bir ışık kaynağının yayması beklenebileceği gibi yoğun bir nokta da yoktur. Bunun yerine, alan herkes için doğrudan ve dolaylı ışık ve
+en azından herkes için birkaç ışıltı olan, bazıları gelen, geçen ve biz izlerken hareketsiz duran, eşit şekilde aydınlatılmış bir cennettir.
+
+Ancak sistem, ışıltıları, yansımaları veya en genel aydınlatma dışındaki her şeyi ortadan kaldırmak için tasarlanmıştır. Bilim insanları, çalışmalarını okuyan insanların 99 ve 44 binde birinin meslektaş olacağını, zaten alanlarının doğuştan gelen asaletinin bir parçası olacağını garanti eden bir yazma stili ve konumuna teşvik edilir.
+
+Büyük yeniliklerimizin çoğunun, alandan alana sıçrayışlarla yapıldığının, büyük düşünürlerin bu alanda, o alandan edinilen bir öğeyi uyguladığının zaten farkındayız: böylece, genel olarak insan çabasının alanlarını genişleten yeni alanlar yaratan sıçramalar yaratılır.
+
+Yine de, kendi alanlarının ancak kıyaslandığında sönük kalabileceğinden korkarak, kendi alanlarının kurulmasını her zaman reddeden küçük asilzadelerimiz. Bu
+doğrudur, ancak yalnızca kendi tasarımlarıyla. Eğer alanları
+dışarıdan gelen ışığa açık olsaydı, o zaman yeni alan
+alanlarının bir parçası olurdu, ancak etraflarındaki alanı duvarla çevirerek, bir zamanlar yeni ve parlayan girişimci devrimcilerden oluşan bir grup
+sadece kendilerini zamanın tahribatını, lekeyi
+ve dış dünyayı bilmez hale geldikçe
+cehaleti beklemeye mahkûm edebilirdi, dış dünya da onları bilmez hale gelirken.
+
+Bu yüzden sizden, sizin, benim ve herkesin iyiliği için,
+zihninizde, alanınızda, yazınızda ve düşüncelerinizde
+pencereler açmanızı rica ediyorum; hem içeri hem dışarı aydınlanmanın girmesine izin verin, savunmalarınızın kalelerinin altından ve arkasından gelsin ve
+ışığı ve havayı kucaklayın, görün ve nefes alın,
+görülün
+ve Wo/İnsanlığın geri kalanı tarafından nefes alın.
+
+Işığınızın diğer mücevherler tarafından yansıtılmasına ve yansıtılmasına izin verin.
+Daha önce görme veya olma şansımız olan her şeyden daha parlak bir
+başarı tacı. Dünyaya katılın!
+
+[chandel2.txt]
+
+Michael S. Hart'ın Avizeye Yeniden Bir Bakış
+
+Ara sıra bir akademisyenden bu veya şu eserin Project Gutenberg Sürümü hakkında soru ve yorum içeren bir not alıyorum.
+Çoğu zaman bu, ya boş spekülasyon gibi görünüyor -- çünkü bu veya şu baskının belirli akademisyenlerin gözünde daha iyi olduğu pasajlar hakkında hiçbir zaman daha fazla geri bildirim olmuyor
+ya da geri bildirim, akademisyenin baskımızda hatalar bulduğunu iddia ettiği ve daha sonra bunları saymayı reddettiği "senden daha kutsal" türünden.
+
+İlkine gelince, bu boş araştırma türünden, takip eden sorgulardan sonra bile görünen bir nota kesinlikle çok az ilgi olabilir.
+
+İkincisine gelince, bir düzeltme almaktan her zaman memnun oluruz, bu etext'in en büyük güçlerinden biridir, düzeltmeler kağıt baskılara kıyasla
+kolay ve hızlı bir şekilde yapılabilir,
+düzeltmeler daha önceki baskılara sahip olanlara ek ücret ödemeden sunulur.
+
+Ancak, birisi bir alanda uzman bir akademisyen olduğunda, makul bir çıktı elde etmek için araştırmalarının makul çeşitlilikte, makul girdilerle olması konusunda belirli bir sorumluluğu vardır. Sorunu belirtmeden bir sorun olduğundan şikayet etmek, zengin ve güçlü bir kelime dağarcığına sahip
+olduğunu düşünmüyorum, bu durum için uygun değil. Bu hatalara bir zamanlar tamamen orantısız bir nakit ödül koyduk ve hala bir akademisyenin bunları gerçekten bulduğuna dair hiçbir belirti almadık, bu da özellikle %99,9'luk bir başlangıç ​​doğruluğu iddia etmeyen diğer etext'lerdeki hataları bulmaktan daha zor olmayacaktır.
+
+Ancak, eğer bu düzeltmeler YAPILMIŞ OLSA, o zaman 99,9
+kısa sürede 99,95'e yaklaşırdı, bu da Kongre Kütüphanesi Elektronik Metin Tutanakları Çalıştayı'nda birkaç kez değinilen referans hata seviyesidir.
+
+Öte yandan, Project Gutenberg'in verimliliği, bir kitabın ilk baskısının %99,5'in üzerinde doğrulukta ısrar edersek önemli ölçüde düşeceği gibi, "Bir iğne ucunda kaç melek dans edebilir" benzeri bir tartışmaya girersek verimlilik de önemli ölçüde düşmelidir.
+
+Gerçek şu ki, baskılarımız Shakespeare'in şunları söyleyip söylemeyeceğiyle özellikle ilgilenen bir kitleye yönelik DEĞİLDİR:
+
+"Olmak ya da olmamak"
+"Olmak ya da olmamak"
+"Olmak; ya da olmamak"
+"Olmak: ya da olmamak"
+"Olmak--ya da olmamak"
+
+Bu tür konuşmalar, uygun şekilde ilgilenen birkaç düzine ila birkaç yüz akademisyenle sınırlı olmalı ve sınırlı olmalıdır. Yüz milyonlarca kişinin erişimine yönelik tasarlanmış bir kitap, en azından potansiyel okuyucuların %99,9'u için asgari düzeyde alakalı olan bir konu için bu kadar zaman harcayamaz. Ancak, Shakespeare'in geniş bir yelpazesini dağıtmayı amaçlıyoruz ve bu tür akademisyenlerin katkıları, tıpkı İncil, Kayıp Cennet ve hatta Ezop Masalları'nın birkaç baskısını yayınladığımız gibi,
+eğer verilirse çok takdir edilecektir. Sonuç olarak, Shakespeare'in 30 farklı edisyonunu aynı anda çevrimiçi olarak gördüğümüzde, bu muhtemelen bugün olduğu gibi
+bir dipnotun bile değeri olmayacaktır. . . Sadece bu edisyonları mümkün olan en kısa sürede oluşturma sürecine saygımdan, kitlelerin okuryazarlığını ve eğitimini mümkün olan en kısa sürede geliştirmek için cevap veriyorum.
+
+Okuryazarlığın ve eğitimin
+çamurda debelenmeye devam etmesini isteyenler için, sadece sizin tarafınızdan sessizliğin
+hak ettiği ödülü yarattığını söyleyebilirim. Uzmanlığınız, ışığınızı bir ölçek altında saklayarak boğulduğunda korkunç bir şekilde ölür, tıpkı bugün ünlü birinin bir zamanlar söylediği gibi:
+
+Matta 5:15
+İnsanlar bir mum yakıp onu bir ölçek altına koymazlar, ancak bir
+şamdanın üzerine koyarlar; ve evdekilerin hepsine ışık verir.
+
+Markos 4:21
+Ve onlara dedi ki, Bir mum bir ölçek altına,
+ya da bir yatağın altına koyulmak için mi getirilir? Ve bir şamdanın üzerine konulmasın?
+
+Luka 8:16
+Hiç kimse bir mum yaktığında onu bir kapla örtmez,
+ya da bir yatağın altına koymaz; ama bir şamdanın üzerine koyar ki, içeri girenler ışığı görsünler.
+
+Luka 11:33
+Hiç kimse bir mum yaktığında onu gizli bir yere,
+ne bir ölçek altına,
+ama bir şamdanın üzerine koyar ki, içeri girenler ışığı
+görsünler.
+
+Bölüm 5
+
+Zirveye Acele
+
+Bölüm 6
+
+Kral Olmak İsteyenler
+
+Gopher, WWW, Mosaic, Netscape
+
+Bu bölüm URL'lerin neden U olmadığını,
+Evrensel Kaynak Bulucular Neden Evrensel Değildir
+
+Deneysel Gopher sitelerini ilk denediğimde, Gopher'ın mucitlerine sistemlerinin FTP'yi de destekleyecek şekilde yönlendirilip yönlendirilemeyeceğini sordum, bir kişi daha önce araştırdığı bir şeyin peşinden gitmeye daha mı meyilli olmalı:
+Gopher sunucularında sıklıkla yapılan "tarama" yerine.
+
+Cevap teknik olarak "evet" ama gerçekçi olarak "hayır"dı, çünkü Gopher'lar her dosyanın HEM Gopher HEM de FTP tarafından erişilebilir olacağı şekilde yapılandırılabilirken, Gopher'ın gerçek amacı FTP'yi atlayıp sonunda onu İnternet'te gezinmenin birincil yöntemi olarak değiştirmekti.
+
+Onlara internette "sörf yapmanın" çok daha fazla zaman alıcı ve bant genişliği israfı olduğunu açıklamaya çalıştım
+[tüm bant genişliğinin hala ücretsiz olduğu ve
+sadece işleri daha hızlı yürütmeye çalıştığımız bir zamanda, aslında
+para tasarrufu yapmaktan ziyade.
+
+Bölüm 7
+
+Listowners ve Liste Moderatörleri
+
+Kral Olmak İsteyenler, Bölüm I
+
+Bölüm 8
+
+Gizlenenler
+
+Kral Olmak İsteyenler, Bölüm II
+
+Bölüm 9
+
+"Gizlenmek İyidir. . .Unutmayın. . .Gizlenmek İyidir"
+
+Kral Olmak İsteyenler, Bölüm III
+
+Netiquetters
+
+"Aşılamaz Bir Fırsatla Çevriliyiz."
+
+"Yangın Hortumundan Su İçmek Gibi."
+
+"Mesajlarınızın 'Netiquette Onaylı' Olduğundan Emin Olun."
+
+Bu duygular, İnternet'in ve diğer ağların sunduğu harika fırsatlar
+seti hakkında dehşete düşmüş düşüncelere ve hislere sahip olan bir kısmını yansıtır.
+
+Çok fazla fırsattan korkarlar ve
+başka hiç kimsenin bu harika fırsatlardan
+yararlanmamasını isterler çünkü bu, kendilerinin çok küçük görünmesine ve hissetmesine neden olur.
+
+Sizin sınırları aşmamanızı isterler,
+sadece ONLAR onları aşmaktan KORKUYORLAR.
+
+Düşünceleri mantıksal olmaktan çok sosyolojiktir, şöyle ki:
+
+1: Açıkça çok fazla fırsattan korkuyorlar.
+
+2: Çok fazla yüksek oranda
+elde edilebilir fırsatın baskısını azaltmak istiyorlar.
+
+3. Bunun nedeni, başka birinin bu fırsatı iyi değerlendirip, fırsat hiper hıza geçtiğinde kendi alanlarında onlara bir dipnot bırakmasından ve hiçbir şeyin daha önce olduğu gibi, kağıtlarla dolu, tıkabasa dolu gömleklerle ve Robert'ın Düzen Kuralları'yla dolu bir odada olduğu kadar sakin, ağırbaşlı, ciddi, düzgün, katı ve çekingen olmayacağından korkmalarıdır: Bu kuralları, SİZİN, ONLARIN kullanmaya istekli ve yetenekli olduklarından daha fazla beygir gücüne sahip Apple ve IBM arabalarını
+kızdırmanızı engellemek için kullanırlardı. Tarih, eski bir güç çeşidinin pozisyonunda olanların güçlerini yeni olan her şeyi reddetmek, meydan okumak ve başka şekillerde aptallaştırmak için kullanmalarına ve dolayısıyla kendi kontrollerinin dışında olmalarına dair örneklerle doludur.
+
+Ayrıca, "Güç Sahiplerinin" herhangi bir potansiyel rakip gücü, tıpkı bir kraliçe arının diğer kraliçe arıları daha doğmadan önce sokması gibi, övünerek ezmelerine dair örneklerle doludur.
+
+Yeni fikirler, eskinin egemen olduğu bir
+dünyada reddedilir.
+
+Elbette akla gelen şey, Napolyon III'ün "Salon-des-Refuses" adlı eseridir. Burada, [şimdi!] dünyanın en büyük ve en ünlü ressamlarının eserleri, Akademik Fransız'ın resmi Salonu'nun yıllarca süren otokratik inkarından sonra nihayet eserlerini halka gösterme fırsatı bulmuşlardır. Başlangıçta Louvre'da başlatılan bu eserin muhteşem örnekleri, gelmiş geçmiş en büyük "güç sahiplerine" meydan okuyarak bugün burada sergilenmektedir. Bu güç sahipleri başarısızlığa uğramıştır ve bu tür girişimlerin hepsi başarısız olmalıdır. "Academie Francaise (Fransız Akademisi)
+Kardinal Richelieu tarafından kurulan
+Insititue de France'ı oluşturan beş eğitimli topluluğun en tanınmış ve en eskisidir.
+
+[Grolier'in 1994 Elektronik Ansiklopedisi]
+
+Ansiklopedi,
+"birleşme ve arınmanın"
+en önemli "gelişme" hedefleri arasında olduğunu belirtmeye devam ediyor.
+
+Kardinal Richelieu'nun
+Fransa'yı ele geçirme ve kendi muhafazakar güç yapısının bir yansıması olarak yeniden şekillendirme girişimlerinin en ünlü anlatımı
+Alexandre Dumas'ın Üç Silahşörler kitabında ayrıntılı olarak anlatılmıştır.
+Lütfen... "Daha Fazlasını Okumak" için zaman ayırın.
+
+Ansiklopedi makalesi, bu Enstitülerin en azından bu "en eski ve en güçlü" "Salon"un giderek tek Fransız resmi sergisi, "heykel" vb., aynı zamanda Eyfel Kulesi'ne ve diğer her yeni şeye karşı çıktı.
+
+SADECE HAYIR DEYİN
+
+SİZİN elektronik kapınıza gelip, İnternet'in nasıl işletileceğine dair görüşlerini desteklemek için SİZİN desteğinizi istediklerinde, siz sadece "hayır" diyebilir ve ONLARIN düzen kurallarını SİZİN düzen kurallarınız yapmak için hiçbir yükümlülük hissetmeyebilirsiniz:
+
+1. "Bant genişliğinin korunması" talepleriyle uğraşmayın çünkü bant genişliği fikirleri "bant genişliği" teriminin sosyolojik bir "tersine çevrilmesi, yönlendirilmesi ve saptırılması"dır.
+
+Sizin, ONLARIN liste sunucuları üzerinden gönderilen bir düzine kısa mesaj dosyasının, sizin söylemek zorunda olduğunuz her şeyi içeren tek bir mesajdan ziyade bir "bant genişliği koruyucusu" olduğuna inanmanızı isterler.
+
+A. Bu sadece sosyolojik bir ahır meselesi.
+Sadece kesintisiz bir şekilde söz sahibi olmanızı engellemek istiyorlar. .İnternette herhangi birinin
+kesintiye uğramasının YALNIZCA bu şekilde
+olabileceği
+ve bunun için SİZİN KENDİNİZİ KESİNTİYE UĞRAMANIZ gerekir, çünkü
+ONLAR SİZİ KESİNTİYE UĞRATAMAZLAR: SİZİ
+KENDİ BOĞAZINIZI KESMEYE
+İKNA ETMEK ZORUNDADIRLAR.
+
+B. Sosyolojik olmaktan ziyade mantıksal gerçek şudur ki
+kısa mesajlar %50 oranında, gönderdiğiniz mesajın bir parçası olmayan
+başlık materyallerinden oluşur --
+ama bunun yerine bu mesajlar için başlık ve paket tanımlayıcıları. Bu nedenle, kısa türdeki bir düzine mesajlık diziniz, tek, kesintisiz bir mesaj olarak ifade etmek isteyebileceğiniz 12 düşünceyi göndermeye kıyasla, kullandığı bant genişliğinin %50'sini israf edecektir.
+
+*** Buraya başlık ekleyin
+İşte normal bir İnternet mesajına eklenen başlık türüne bir örnek. Bazı ÇOK israfçı e-posta göndericileri,
+Netiquetter'lar dahil, aynı mesajı yüzlerce kişiye gönderdiklerinde
+adresleri silmek için zaman harcamayı reddettikleri için çok daha uzun başlıklara sahiptir.
+Başlığın kelimenin tam anlamıyla bundan daha fazla yüzlerce satır içerdiği mesajlar aldım.
+
+**Başlık Aşağıda Başlıyor** [Kenar boşlukları kısaltıldı.
+Bu başlık 1054 karakter içeriyor ve bu da 3 512 baytlık pakete denk geliyor ve her paketin normal kullanıcıların asla görmediği kendi başlığına sahip olması gerekiyor. Bir
+posta gönderici başlığın çoğunu göstermeyecek şekilde ayarlanabilir,
+ama hepsi oradadır ve bant genişliğini kaplar.]
+
+Alındı: UBVM.cc.buffalo.edu adresinden
+(ubvm.cc.buffalo.edu [128.205.2.1])
+mtshasta.snowcrest.net (8.6.5/8.6.5) tarafından
+SMTP kimliği FAA24025 ile; Per, 2 Şub 1995
+05:53:11 -0800
+Mesaj Kimliği: <199502021353.FAA24025@
+mtshasta.snowcrest.net>
+Alındı: UBVM.CC.BUFFALO.EDU'dan
+UBVM.cc.buffalo.edu (IBM VM SMTP V2R2) tarafından
+BSMTP kimliği 0354 ile; Per, 02 Şub 95 08:43:10 EST
+Alındı: UICBIT.UIC.EDU'dan
+(NJE kökenli VMMAIL@PPLCATS)
+UBVM.CC.BUFFALO.EDU (LMail V1.2a/1.8a) tarafından
+BSMTP kimliği 3521 ile; Çar,
+1 Şub 1995 19:45:18 -0500
+Alındı: UICBIT.BITNET'ten
+(NJE kökenli LISTSERV@UICBIT) UICBIT.UIC.EDU tarafından
+(LMail V1.2a/1.8a) BSMTP kimliği 5650 ile;
+Çar, 1 Şub 1995 18:44:26 -0600
+Tarih: Çar, 1 Şub 1995 18:22:10 CST
+Cevap: Project Gutenberg E-posta Listesi
+<GUTNBERG%UIUCVMD.BITNET@UBVM.CC.BUFFALO.EDU>
+Gönderen: Project Gutenberg E-posta Listesi
+<GUTNBERG%UIUCVMD.BITNET@UBVM.CC.BUFFALO.EDU>
+Gönderen: "Michael S. Hart" <HART@vmd.cso.uiuc.edu>
+Konu: March Gutenberg E-metinleri
+Kime: GUTNBERG listesinin birden fazla alıcısı
+<GUTNBERG%UIUCVMD.BITNET@UBVM.CC.BUFFALO.EDU>
+
+**Başlık Burada Bitiyor**
+
+Sosyo-Mantıksal Bir Başka Gösterim Tartışma
+
+Ad, pozisyon ve feragatnamenin yanı sıra bir mesaja yanıt almak için ne kadar süre beklemeniz gerektiği, daha fazla bilgi için kiminle iletişime geçmeniz gerektiği gibi bilgileri içeren bir imza bloğum var ve internette ne kadar süredir bulunduğumla ilgili bir satır var.
+
+Yaklaşık şu kadar yer kaplıyor:
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+yaklaşık 318 karakter uzunluğunda ve şuna benzeyen
+imza bloklarını kabul edenlerden şikayet alıyor:
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x
+x x
+x Mesajınız Burada x
+x x
+x x
+x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+718 karakterden fazla yer kaplıyor çünkü tüm boşluklar gerçek boşluklar.
+
+Mantıktaki bu tutarsızlığa işaret ettim, ancak insanlar
+konuştukları alanın insan zihninde olduğunu ve bilgisayarlarda olmadığını kolayca söylüyorlar.
+
+Buna _ben_ "Barnyard Malzemesi!" diye cevap veriyorum.
+
+BU İNSANLAR "MODA KELİME BANT GENİŞLİĞİNİ" KURTARMAK İÇİN ÇABALAMADILAR. . .
+SİZİ KONTROL ETMEK İÇİN ÇABALAMADILAR. . .BUNA İZİN VERMEYİN.
+
+"Netiquette" SİZİ KONTROL ETMEK İÇİN ONLARIN icat ettiği bir şey!
+
+Tek yapmanız gereken onlara her bireyin görmek istemediği her şeye karşı en güçlü korumaya sahip olduğunu hatırlatmak. . . SİLME TUŞU!
+
+Muhtemelen onlara, bazen farklı bir platformdan konuşarak, eğer
+mesajlarınızı yayınlamamak gibi bir tepkileri varsa, şunu hatırlatmanız gerekecektir:
+
+"HERKESİN KENDİ SİLME ANAHTARI OLDUĞUNDAN,
+BUNU ONLAR İÇİN SİLMEYE GEREK YOK!
+
+Bölüm 10
+
+TPC, Telefon Şirketi
+
+Kral Olmak İsteyenler, Bölüm IV
+
+Örnek olarak Amerika Birleşik Devletleri'ni bu kadar çok kez kullandığım için özür dilerim, ancak... deneyimimin çoğu ABD'de oldu.
+
+Bilginin Eşzamansız Kullanılabilirliği
+
+Elektronik bilginin en büyük avantajlarından biri,
+başkalarının programlarına uymak için kendinizi
+programlamanıza gerek olmamasıdır.
+
+Bu çok önemlidir. Tam bu hafta, bilgisayarlarımdan biri için güç kaynağı bekliyordum, çünkü
+bilgisayarımın olduğu kişinin programı, bilgisayarı alacak kişinin programıyla uyumlu değildi.
+Atık çok fazlaydı ve tüm kasabayı dolaşıp bilgisayar kullanılmadan beklerken,
+tüm yolculuklar boşa gidiyor.
+
+Dünyanın dört bir yanındaki kütüphanelerde ve mağazalarda da aynı şeyler oluyor. Kaç kez bir telefon görüşmesi, bir toplantı, bir satın alma, bir onarım, bir iade veya
+çeşitli başka şeyler denediniz ve sonunda bu bağlantıları
+yapamadınız?
+
+Artık, Nets üzerinden elektronik olarak
+erişilebilen şeylerle değil. Acil bir araştırma için istediğiniz kitabı almak için kütüphanenin kapısının açılmasını beklemek zorunda değilsiniz; anlık bir mesaj göndermek için birinin müsait olmasını beklemek zorunda değilsiniz; akşam haberlerini televizyonda beklemek zorunda değilsiniz...
+
+Buna Eşzamansız İletişim denir... yani bu programların artık anlamlı ve hızlı bir sohbet için tam olarak uyuşması gerekmiyor. Burada, orada veya başka bir yerde bir dakika boşa harcanmak yerine tasarruf edilebilir ve tüm iletişim neredeyse anında ilerleyebilir, on telgraf, on telefon görüşmesi vb. maliyeti olmadan.
+
+Televizyon izlerken ayağa kalkıp e-postanızı göndermek veya yanıtlamak için birkaç dakika harcayabilirsiniz ve reklamlar dışında hiçbir şeyi kaçırmazsınız.
+
+"Reklamlar" başka bir eşzamansız iletişim biçimini akla getiriyor... bir televizyon veya radyo programını kaydedip bir programı bir saat yerine 40 dakikada izlemek çünkü 2 dakikalık program başına 1 dakikalık "program dışı" programa katılmak zorunda değilsiniz. Artık en sevdiğiniz TV programını izlemek için perşembe akşamları evde olmanız gerekmiyor, aynı zamanda o sinir bozucu reklamlar düzenlenebilir ve böylece iki program izlemek için gereken sürede üç program izleyebilirsiniz. Bu tür bir verimlilik sizin veya çocuklarınız üzerinde büyük bir etkiye sahip olabilir. Tabii ki televizyonda saatte 40 reklam görmelerini veya kütüphanelerden kilometrelerce taşınan çeşitli kütüphane kitaplarından notları kopyalamak için saatler harcamalarını İSTEMİYORSANIZ. 9, 12, 16 veya 20 yıllık kurumsal eğitim için dönem sonu ödevlerini düzenlemek amacıyla eski öğrencilerin ve akademisyenlerin daha önce yığdığı 3x5 kart yığınları artık yok. Tüm ağaçlardan oluşan yağmur ormanları
+kurtarılabilir, ayrıca tüm nüfusun eğitimli karalamalarının milyarlarca saati, kağıt ve el arasında değil de kulaklar arasında harcanması gereken, fotoğrafik hafızası olmayan nesillerin düşünce ve tarzını
+yazılı sözcüğün yerini almaya zorlayan
+nesiller boyunca kısıtlanmış olur.
+
+Şimdi hepimiz fotoğrafik hafızaya sahip olabiliriz,
+tam doğrulukla, milyonlarca 3x5 kartlık devasa bilgi ansiklopedilerini alıntılayabiliriz, hepsi de yemek, içmek ve esnemek dışında hiçbir nedenle
+kalkmadan.
+
+Bu alandaki araştırmalar, önceki nesillerin araştırma makalelerine harcadıkları zamanın %90'ının
+kütüphanelerin koridorlarında, merdivenlerinde ve kitap raflarında dolaşarak; daha fazla araştırma için seçilen her biri için 10 ila 100 kitap arayarak; ve 3x5 kartların kutsal yığınlarına girmeye değer her alıntı için 10 ila 100 sayfa arayarak geçtiğini gösteriyor; sonra kart yığınlarını
+ilk taslağın yazıldığı
+daha da kutsal kağıtlara uygun olanları aramak için aramak. Sonunda bir sunum taslağı
+elde edilmeden önce birkaç taslağı
+inceleyenlerin fanatik bağlılığını bile sayarsak, araştırmacılar
+bu tür işlerin %90'ının bilgiyi "avlamak ve toplamak" için harcandığı ve bu zamanın sadece %10'unun bilgiyi "sindirmek" için harcandığı konusunda hemfikirdir.
+
+Eğer medeniyetin, "avlanma ve toplayıcı" insanların alışkanlıklarını
+medeni şehirlere dönüştüren "saban" adı verilen yeni bir icada dayandığını anlarsanız... o zaman bilgisayar ve bilgisayar ağlarının, eskiden zamanımızın %90'ını harcadığımız ilkel avcılık ve toplayıcılık işleri yerine, bunları kullananlarda yaptığı değişiklikleri anlayabilirsiniz.
+
+19. yüzyılın ortalarında Amerika Birleşik Devletleri %90'ın üzerinde bir tarımsal ekonomiye sahipti ve çabalarının neredeyse tamamını aç karnını doyurmak için yiyecek yetiştirmeye harcıyordu. 20. yüzyılın ortalarındaki ilerlemeler bu oranı tersine çevirdi, böylece sadece %10 karın için, %90 ise medeniyet için kullanılıyordu.
+
+Aynı şey zihni beslemek için de söylenecek, eğer medeniyetimiz araştırma zamanımızın çoğunu eğitim sürecinin zihinsel değil, fiziksel bir bölümünde geçirmeye karar verirse.
+
+Şöyle düşünün, bir araştırma makalesi yazmak için gereken süre sadece %10 daha azsa, muhtemelen 10 kat daha fazla araştırma makalesi veya 10 kat daha iyi makaleler veya bunların bir kombinasyonunu elde ederiz... tıpkı medeniyetin başlangıcında avcılık ve yiyecek toplayıcılıktan tarıma geçtiğimizde vücudumuz için 10 kat daha fazla yiyecek elde ettiğimiz gibi... o zaman geleceğin medeniyetine benzer bir geçiş bekleriz.
+
+***
+
+İnsanlık düşünen hayvan olarak tanımlanıyorsa; daha fazla ve daha iyi düşünmek, insan türü olma derecemizi artırır. Düşünme yeteneğimizin azalması insanlığımızı azaltacaktır... ve yine de çok sayıda insanın gelişmiş bir ülkenin başlıca örneği olarak tanımladığı bir yerde yaşıyorum... yetişkin nüfusun yarısı işlevsel düzeyde okuyamıyor. [1994 ABD Yetişkin Okuryazarlığı Raporu'ndan]
+
+***
+
+"Şimdi, diğer tüm insanlarla birlikte dahileri klonlamak
+yasadışı ilan edildiğine göre, yalnızca kanunsuzlar dahileri klonlayacak ve
+insanlığın geri kalanı, kendileri ve dahiler arasındaki zihin savaşında `silahsız' kalacak."
+
+"Tarihte, tüm tarihte; hiçbir zaman bir lonca veya sendikaya sahip olmamış tek işçilerin, zihnin çabasıyla yaşayan
+mucitler olduğunu hiç fark ettiniz mi?"
+
+Bedenlerinin çabalarıyla yaşayan işçilerimiz var, ister liman işçileri olsun, ister profesyonel sporcular olsun, kurulu bir sendikaları var, aidat ödüyorlar, zaman zaman greve gidiyorlar ve sendikaların tüm ilgili çalışmaları var--
+ama hiçbir zaman dünyayı Eski Dünya'dan Yeni Dünya'ya değiştirenlerin sendikası olmadı****
+
+Ek 1
+
+İnternet'in Büyümesi
+
+Tarih Ev Sahipleri
+----- ---------
+05/69 4
+10/69 5
+04/71 23
+06/74 62
+03/77 111
+08/81 213
+05/82 235
+08/83 562
+10/84 1.024
+10/85 1.961
+02/86 2.308
+11/86 5.089
+12/87       28.174 07/88 33.000 10/88 56.000 01/89 80.000 07/89 130.000 10/89 159.000 10/90 313.000 01/91 376.000 07/91 535.000 07/91 535.000 10/91 617.000 01/92 727.000 04/92 890.000 07/92 992.000 10/92 1.136.000 01/93 1.313.000 04/93 1.486.000 07/93 1.776.000
+10/93 2.056.000
+01/94 2.217.000
+03/95 ~4.000.000
+
+[O dönemde dünyadaki yaklaşık bilgisayar sayısını elde etmek için ana bilgisayarları 100 ile çarpın. Örneğin, bu ilk baskı sırasında dünyadaki yaklaşık 400 milyon bilgisayara
+yaklaşıyor olmalıyız.]
+
+[Toplam kişi sayısını yaklaşık olarak elde etmek için ana bilgisayarları 10 ile çarpın. Başlangıçta, bu muhtemelen daha küçük bir çarpandı, çünkü o dönemde UIUC oturum açma listesinde yalnızca 7 kişi vardı: bunların yarısı düzenli olarak oturum açmıyordu. Dolayısıyla tahminimce
+İnternetteki yaklaşık 100. kişiydim,
+Sanırım sitemiz 1971'deki 18 yeni sitenin ilki veya sonuncusu değildi, bu yüzden yaklaşık 9. ve
+zaten orada bulunan 5 siteyi de hesaba katarsak, muhtemelen 14. veya buna yakın bir yerdeydik, ancak kıtalararası trafiği kolaylaştırmak için aslında daha erken olduğumuzu söylediler.
+
+14.'lük muhafazakar tahmine sadık kalarak ve
+diğer düğümlerin her birinde aynı sayıda kişiyle
+bu beni 99. kullanıcı yapardı. ]
+
+Televizyon ve Eğitim: Kim Kazanıyor?
+[Sanki Sormak Zorundaymışsınız Gibi]
+
+Basketbol, ​​Futbol, ​​Beyzbol, Hokey ve Golf
+[Canlı ve Video Oyunları]
+
+karşı
+
+Shakespeare, Milton, Chaucer, Verne ve Hugo
+
+Diğerlerinden yüz kat daha fazla harcama yapan bir işletmenin rekabetten korkmayacağını düşünürdünüz --
+özellikle de deste onların lehine olduğunda, aşağıdaki örneklerde görüldüğü gibi:
+
+1.
+
+Macbeth ve Macduff arasında her zaman büyük bir mücadele vardır;
+Macbeth ilk çeyrekte asla yenilmez ve
+yazar daha yüksek telif hakları için sizi asla zorlamaz.
+
+2.
+
+Shakespeare eğlenceli olacak şekilde TASARLANDI, bu yüzden her sezon işleri daha heyecanlı hale getirmek için kuralları değiştirmek zorunda değilsiniz. Elbette, eğer İSTERSENİZ, Romeo ve Juliet'i her zaman Verona'nın soylu aileleri yerine sokak çeteleri arasındaki New York Şehri savaşları hakkında bir hikayeye dönüştürebilirsiniz.
+
+ABD gerçekten eğitime her yıl veya iki yılda bir trilyon dolar harcıyorsa ve büyük spor franchise'ları bu miktarın yaklaşık 1/100'ünü harcıyorsa ve video
+oyun işletmeleri daha da az harcıyorsa, o zaman Michael Jordan'a maruz kalmanız neden kesin ve maaşları sınıfındaki diğer üniversite mezunlarından neden daha yüksek?
+
+On ila on beş yaşındaki basketbol ayakkabıları neredeyse tamamen unutulmuş bir
+ürün, çöplüklerde çürüyor ve aynı yaştaki bilgisayarlar Shakespeare'i herhangi bir kağıt kopyanın sağlayabileceğinden daha verimli ve daha ucuza çalışmak için hala mevcut.
+
+Bu bilgisayarlar çoğu çocuğun okulda yaptığı türden bir çalışma için fazlasıyla hızlı ve bugünün piyasasında bir çift basketbol ayakkabısından daha pahalı değiller.
+
+Yüzyıllardır kullanılan kara tahtalar, kendilerinden onda bir yaşında olan bilgisayarlardan çok daha pahalı ve çok daha az iş görmelerine rağmen, neden hala dünyanın dört bir yanındaki sınıflar için varsayılan olarak kullanılıyor?
+
+Neden fiziksel olimpiyatlarımız var da zihinsel olimpiyatlarımız yok?
+
+Bilgi yarışması oyunları neden pazarda gelişiyor ve en parlak öğrencilerimizin yer aldığı programlar neden ölüyor ve sonra pazar sabahı yerel programlara gönderiliyor?
+
+Bir çocuğa on yıllık bir bilgisayar vermek, o çocuğa basketbol programları vermekten daha pahalı değil, bir basketbol topu ve pota hiç değil ve çocuk her yıl o bilgisayardan küçük gelmiyor veya eskimiyor ve monitörün ayar yüksekliği değişmiyor ve sadece bir kural değişikliği nedeniyle eski olanların hepsini geçersiz kılmıyor.
+
+Milyarlarca E-metni siber uzaya atmak,
+bir milyar basketbol topu atmanın başka bir Michael Jordan olacağının garantisi olmadığı gibi,
+birinin gerçekten okumayı öğreneceğinin garantisini veremez:
+yeni bir Einstein, Edison, Shakespeare veya
+başka bir büyük kişinin garantisi de olmaz. . . . . . AMA. . . . olasılıkları artıracaktır.
+
+Birisinin hala kitapları alması gerekir, tıpkı basketbol toplarını alacak birinin olması gerektiği gibi, ikisi de birileri onları hayata getirene kadar ölü kalır.
+
+Öte yandan televizyon, uykuya daldıktan çok sonra bile gece boyunca gevezelik etmeye devam eder.
+
+Eğitim, sadece yukarıda listelenenler değil, top oyunları ve video oyunlarıyla rekabette tüm avantajlara sahiptir, ancak
+tüm dünya eğitimde ısrar ediyor, eğitimi zorluyor ve bu da
+bazı sorunlara neden olmuş olabilir.
+
+Belki de eğitimin çok fazla avantajı vardır. .o kadar çok ki
+aslında, eğitim bunun diğer mesajlarla bağlantılı
+bir rekabet olduğunu hiç fark etmedi.
+
+Yüz yıl önce çocuk izleyici kitlesi için yarışan hiçbir endüstri yoktu, okul binasının dışındaki hayat sıkıcıydı
+ve öğretmenle bir şekilde rekabet etmek için sınıfa getirilebilecek çok az şey vardı, bir boğa kurbağasından başka.
+Çocukların onlar için rekabet ettiği şeylerin muazzam çeşitliliği
+eğitim sistemlerinin hesaba katmadığı bir şey
+ve hala okuldan kaçan memurların tehdidine güveniyorlar, öğrencilerin dikkatini çekmeye değil.
+
+Rekabet bu kadar derin uykuda değil. . . . TV şovları, son birkaç saniye boyunca sizi izlemeye devam ettirmenin yollarını bulmak için milyarlarca dolar harcıyor ve performanslarını ve rakiplerinin performanslarını kontrol etmek için gecelik reyting sonuçlarını milyarlarca dolar daha izliyor.
+
+TV reytingleri düştüğünde, şovlar bazen o kadar büyük ölçüde değişiyor ki onları tanıyamıyorsunuz ve genellikle tamamen iptal ediliyorlar, bazen de yeni bir sezonun başlamasından sadece iki hafta sonra. Bir keresinde, o akşamki performansı tanıtmak için sabah sohbet programlarından birinde yayınlanan bir şov gördüm, ancak şov aradaki saatlerde iptal edildi.
+
+Okul reytingleri düştüğünde, reytingler değişiyor; şov esasen aynı kalıyor ve genellikle en iyi öğretmen ödülünü kazanan bir şov iptal ediliyor, daha sıkıcı öğretmenler ise her yıl çeşitli eski öğrencilerin çocuklarını sıkmaya devam ediyor.
+
+Hataların Korunması
+
+Elektronik metnin ortaya çıkmasıyla birlikte, bir kişinin bilgi paylaşmaması için artık Yedi Ölümcül Günah'tan başka bir sebep kalmadı. . . . . metinleri önceki baskılardan ellerine geçenlerden daha iyi hale getirmek için katma değerli bir çalışma hariç.
+
+Ancak, bir tür sonsuz ters mantıkla, siberuzaya ayak basan akademisyenlerin çoğu, hiçbir E-metinin kesin bir kağıt öncülünden bir karakter bile farklı olmaması gerektiği ve bu E-metinlerin, yeni olmalarına rağmen, kesinlikle daha iyisi yapılamayacak belirli bir kağıt baskıyla özdeşleştirilmesi gerektiği fikrini benimsedi.
+
+Bu bana bir şekilde Karanlık Çağları hatırlatıyor, geçmişin hiçbir önemli kitabının güncellenemediği 1500 yıl boyunca, çünkü bu, hepimizin bildiği gibi, daha iyisi yapılamayacak olan Yunanistan'ın Altın Çağı'nın saygıdeğer otoritelerine meydan okumakla aynı şey olurdu.
+
+Kitapları tekrar tekrar ve tekrar kopyalandı - telefon oyunlarının beraberinde getirdiği kaçınılmaz bozulmayla [kulaklarınıza gizli bir mesaj fısıldadığınız, bir daire içinde, ta ki diğer taraftan tamamen çarpıtılmış gevezelik geri dönene kadar]. Fotokopi çekmenin bile, tekrar tekrar yaparsanız bu kötü sonucu vardır.
+
+Bu nedenle, akademisyenler baskılar arasındaki farklılıkları arama ve farklılıkları çözmek için eski baskılara başvurma alışkanlığı geliştirdiler, çünkü ne kadar çok kopyalama olursa, hatalar, yorumlar ve diğer muhtemelen sahte bilgilerin eklenmesi olasılığı o kadar artar.
+
+Bu muhtemelen yaşadıkları çevre için sorun değildi...
+ancak ciddi bir başarısızlık, herkesin standartlarına göre ÇOK UZUN BİR SÜRE süren ve gelecekte işlerin bu şekilde yapılmaması gerektiği konusunda, görmezden gelmememiz gereken bir şekilde, uyaran Karanlık Çağlara neden oldu.
+
+[Dönemin uzunluğuna dair en küçültülmüş tahminler
+Roma İmparatorluğu'nun çöküşünün olası en son tarihi olan MS 400'lerden
+800'lerde Şarlman'a kadar yaklaşık 400 yıl olduğunu tahmin ediyor. Elbette çoğu kişi
+Roma İmparatorluğu'nun çöküşünün çok daha önce olduğuna inanıyor, çünkü imparatorluk, MS 400'den önce uzun bir süre "ne Kutsal, ne Romalı, ne de İmparatorluk"
+olmuştu ve işler Şarlman öldükten sonra
+önceki haline dönme eğilimindeydi
+Karanlık Çağların sonu tahminleri
+1400'lerde Rönesans'a kadar uzanıyordu. Dolayısıyla en uzun tahmin
+Sezar'ın doğumundan Rönesans'ın gerçekten başlamasına kadar 1500 yıldan fazla olmayacaktı
+en kısa tahmin ise 500 yıldan biraz daha azdı. Bu nedenle 1000 yıllık bir
+ortalama tahmin, spektrumun her iki ucunu da kesinlikle kızdıracaktır ve bu nedenle her ikisinden de kesinlikle daha doğrudur.]
+
+Önceki baskılara yanlış bir sadakat nedeniyle hataların düzeltilmesini reddeden bir
+mükemmellikle kitap üretme çabasının, bu sefer geleceğin elektronik kütüphaneleri üzerinde tekrar belirdiği anlaşılıyor, çünkü önemli sayıda Etext yaratıcısı, Karanlık Çağların uygulamalarını, politikalarını ve kurallarını sürdürmekte ısrar ediyor ve şu konularda ısrar ediyorlar:
+
+1. Kopyalar tam olmalı, hiçbir düzeltme yapılamaz.
+
+2. Kopyalar arasındaki herhangi bir fark, en eskiyi en yeniden daha fazla onurlandıran bir etikle kararlaştırılmalıdır.
+
+3. Yetkili kopyalar, en eski kurumların mezarlarında kutsal bir emanet olarak tutulmalı ve
+halkın eline verilmemelidir.
+
+Elbette, bunlar gerçeklerle tamamen çelişmektedir:
+
+1. Dijital ASCII çoğaltmaları doğası gereği kesindir ve
+bu nedenle hiçbir hata gizlice giremez.
+
+2. Gizlice giren herhangi bir fark, comp, diff, cf,
+ve benzeri programlarla sadece
+bir saniyede bulunabilir. Bir cümlenin veya dosyanın sonuna eklenen boşluk gibi fark edilmeyen bir değişiklik bile çaba sarf etmeden
+bulunur ve tam olarak konumlandırılır.
+
+3. Kitapları bu şekilde kutsal bir emanet olarak tutmak, onların işlerini yapmalarına izin vermez. Okunmayan bir kitap,
+ölü bir kitaptır. Kitaplar insanların
+okuması, dinlemesi, sahnede sergilenmesini izlemesi için yazılır, bir tür entelektüel GESTAPO/GEheimnis STadt POlizei/
+Vatan Polisi kitap gücünü gizli tutarak iktidara gelebilir.
+
+***
+
+8 Mart 1995'te, Project Gutenberg, birçok kişinin adlandırdığı gibi,
+İnternet Halk Kütüphanesi'ne 250. sunumunu tamamladı.
+
+100. yayınımız olarak Shakespeare'in Tüm Eserleri'ni çıkardığımızdan beri İnternet'te çok sayıda değişiklik oldu - bazıları olağanüstü derecede iyi, bazıları daha ılımlı
+iyilikte ve bazıları spektrumun diğer ucunda
+
+Muhtemelen en heyecan verici iki son olay, Ocak ayında Fransa'da keşfedilen, Şubat ayında haber medyası için yayınlanan ve 8 Mart'ta #249 olarak yayınlanan, her resmin birkaç versiyonunun hem .GIF hem de .JPG formatlarında toplandığı 20.000 yıllık mağara resimleridir.
+
+Ölü Deniz Parşömenleri'nin 1947'de keşfedildiğini ve birkaç yıl önce Macintosh disklerinde gizlice dışarı çıkarılana kadar, birkaç seçkin kişi dışında kimsenin onları veya fotoğraflarını görmediğini fark ettiğinizde bu özellikle heyecan vericidir; halkın onları hiç görmeden kırk yıl geçti.
+
+Fransa Kültür Bakanlığı, bu tür olağanüstü bir olayı, keşfedildikten sadece bir ay sonra, genel medyada dünya çapında yer alması için çok hızlı davrandı ve ayrıca Project Gutenberg'e bu harika resimleri İnternet'te yayınlama izni vermek için sadece bir veya iki hafta harcadı.
+
+Öte yandan, bilgilerin halka sürekli olarak iletilmesini sağlamazsak İnternet Halk Kütüphanesi'nin geleceği ciddi tehlike altında olabilir. Birçoğunuzun bildiği gibi, Project Gutenberg E-metinlerinin %90'ı Kamu Malıdır ve %10'u izinle yeniden üretilmiştir. Ancak, Kongre'de [Amerika Birleşik Devletleri] materyallerin Kamu Alanına girmesini durdurmaya yönelik bir hareket var ve bu da bu tür bilgilerin genel İnternet dolaşımına girmesini etkili bir şekilde durduracaktır. 200 yıl önce ABD telif hakkı, Senatör Orrin Hatch'in konuşmalarına göre 14 yılda kurulmuştu, bir yasa tasarısını destekliyordu ve sonra 14, sonra 28, sonra yazarın yaşamına ve ardından 50 yıla daha uzatıldı ve bir şirket tarafından oluşturulan bu tür telif hakkı için 75 yıl.
+
+Bu, 5 yaşındaki çocuğunuzu "Aslan Kral"ı çıktığında izlemeye götürdüyseniz, çocuğun ticari bir girişim tarafından lisanslanmamış bir kopyaya sahip olmak için yeterince uzun yaşaması için 80 yaşında olması gerektiği anlamına gelir. Ortalama bir kişinin asla 80 yaşına ulaşamayacağı gerçeği, herhangi birimizin beklenen yaşam süresi boyunca kamu erişimini reddetmek için kalıcı bir telif hakkı oluşturur.
+
+Ancak, bu yeterli değildir. . . Yeni yasa tasarısı, en gençlerimizin %1'inin bile, yaşamları boyunca üretilen herhangi bir materyalin lisanssız bir kopyasına sahip olma şansını ortadan kaldırmak için tasarlanmıştır, çünkü bu yasa tasarıları kabul edilirse, yukarıdaki paragrafta belirtilen genç çocuğumuzun bugün yayınlanan materyallere hak sahibi olması için 100 yaşına gelmesi gerekecek, patent yasasıyla korunan mucit hakları ise 17 yıl sonra sona erecek.
+
+En son süpersonik tost makinesinin orijinalinden yirmi yıldan daha kısa bir süre sonra, hepimizin Kamu Malı yasal kopyalarını satın alabilmesi neden daha önemlidir, ancak bizim için iyi okumuş, bilgili ve eğitimli olmak o kadar önemli değildir?
+
+***
+
+WINNIE-THE-POOH'U ÖZGÜRLEŞTİRİN
+
+Yardımlarınızla, 1926'daki doğumundan bu yana çeşitli telif hakkı yasaları uyarınca hapsedilen
+Winnie-the-Pooh'u özgürleştirmek için başarılı bir çaba gösterebileceğimizi umuyoruz.
+
+Project Gutenberg'in başlangıcında, ilk projelerimizden biri
+çocuk klasiği Winnie-the-Pooh olacaktı: 1926'da yazılmıştı ve bu nedenle 1954'te telif hakkı yenilenmesi gerekiyordu ve telif hakkı yenilemesi 1982'de sona erecekti ve bu nedenle Project Gutenberg'in Çocuk Kütüphanesi için mükemmel bir adaydı.
+
+Ancak, buna izin verilmedi.
+
+Bunun yerine, Winnie-the-Pooh'un telif hakkı toplam 75 yıl uzatıldı, bu da yeni telif hakkı süresinin sona ermesi için 2001'e kadar beklememiz gerektiği anlamına geliyordu, bu da Winnie-the-Pooh'u yaklaşık yirmi yıl daha hapiste tutacaktı.
+
+Ancak, Senato'ya ve ABD Temsilciler Meclisi'ne bu hapis cezasını 20 yıl daha uzatmak için iki yeni yasa tasarısı sunuldu.
+
+ABD'deki son telif hakkı uzatması 1975'teydi, hatırladığım kadarıyla. Telif hakkını her 20 yılda bir 20 yıl uzatırsak, telif hakkının başlangıcından beri bildiğimiz Kamu Malı kavramını yok edeceğiz.
+
+Telif hakkı, her kitap için bir aile çiftliği fiyatı ödeyebilen çok zengin birkaç kişi dışında, taşınabilir baskı makinesinin mucidi Gutenberg tarafından yok edilen kitapların tek sahipleri olarak yerlerini aldıklarında başladı.
+
+Kitapların kitlesel olarak bulunması hoş görülmemesi gereken bir şeydi. . . bu nedenle matbaacılar loncaları yalnızca herhangi bir kitabı kimin basabileceğine değil, kitabın basılıp basılmayacağına da karar verme hakkı için lobi faaliyetlerinde bulundu. Bu, Gutenberg'den beri serbest olan bir sektöre uygulanan çok güçlü bir tekeldi.
+
+Bu telif hakkı, 28 yıl boyunca neredeyse aynı uzunlukta kaldı ve ilk ABD telif hakkı iki 14 yıllık dönem içindi, ikincisi talep üzerine otomatik olarak verildi.
+
+Geçtiğimiz yüzyılın başında kitaplar bir kez daha çok popüler hale geldiğinde ve birçok yayıncı çeşitli kapsamlı konularda ucuz setler satmaya başladığında, telif hakları tekrar iki katına çıkarıldı, böylece 14 yıl artı 14 yıllık uzatma, 1909 civarında yapılan 28 yıllık bir uzatma ile 28 yıla çıktı.
+
+Daha sonra, bu yüzyılın son yarısında, kitaplar bir kez daha çok yaygınlaştı, bu sefer fotokopi makinesinin gelişiyle. Sadece kopyalamayı engellemek için yeni yasalar yapılmadı, aynı zamanda o eski yasalar 28+28=56 yıldan 75 yıla çıkarıldı ve bu 1975 civarında yapıldı.
+
+Artık bilgisayar dosyaları aracılığıyla dünyaya sunulan gerçek SINIRSIZ DAĞITIM'ın gelişiyle birlikte, kitaplar bir kez daha çok yaygınlaşıyor ve daha fazla kısıtlama üzerinde çalışılıyor, bu sefer son uzatmadan sadece 20 yıl sonra, ki bu yaklaşık 20 yıl sürdü. "Kongre Kütüphanesi"ni disklerimize koymamızı engellemek için kalıcı bir telif hakkı için çalışmalar halihazırda devam ediyor.
+
+Yıllardır bilgisayarlar geçmişten geldikleri kadar geleceğe de ulaştıklarında, Kongre Kütüphanesi'nin tamamını tek elimizde tutabileceğimizi söylüyorum, ancak şunu da ekledim,
+"Muhtemelen bunu yapmamıza izin vermeyecekler."
+
+Bunu bir dakika açıklayayım; 1979'da Project Gutenberg, Apple'ın yeni Kişisel Bilgisayarı için ilk sabit diskini yaklaşık 1500 dolara satın aldı. Enflasyonu saymazsak, aynı fiyata 1.000 kat daha fazla veri tutabilecek sürücüler satın alabiliriz. Enflasyonu sayarsak, gerçek maliyet 1.500 dolarımızın 10.000 kat daha fazla alan satın alacağıdır çünkü 1979'daki 1.500 dolarımız bugün yaklaşık 5.000 dolara denk geliyor, eğer IBM'den yeni "manyetodirençli" sürücü alırsak. Bu ZIP sıkıştırmayı veya diğer sıkıştırma programlarını saymıyor. Bunları sayarsanız, bugün paranızın karşılığında 1979'dakinden yaklaşık 5.000 kat daha fazla veri elde edersiniz.
+
+5 milyon bayt = 1979'da 1.500 dolar = bir Shakespeare kopyası
+12 milyar bayt = 1995'te 4.500 dolar [enflasyon üç katına çıktı]
+25 milyar bayt . . . sıkıştırma programlarıyla.
+
+Bu, bir diskte Tam Shakespeare'in 5.000 kopyası veya kopya başına 1 dolardan az demektir. Bu, dünyada sınırsız sayıda kitap olmaması gerektiğini düşünenleri üzüyor, bu nedenle telif hakkı tanımı ve dolayısıyla kamu malı tanımı, halkın çok fazla bilgi edindiği tarihte her seferinde olduğu gibi, değişme tehlikesiyle karşı karşıyadır. Yukarıda listelenen eğilim yalnızca 15 yıl daha devam ederse, 2010'da Shakespeare'in 25 milyon kopyasını içeren sürücüler, otuz yıl önce yalnızca bir kopya tutabilen sürücüyle aynı fiyata, ve kopya başına fiyat o kadar düşük olacak ki, fiyatları hesaplamak için gerçekte olduğundan daha fazla para gerekebilir. Telif hakkının uzatılmasının gerçek nedeni budur, tarih kendini tekrar tekrar tekrarlar ve "tarihi incelemeyenler onu tekrarlamaya mahkumdur." İstedikleri şey, sizin tarih çalışmamanızı sağlamak, böylece onlar da aynı şeyleri tekrar tekrar yapabilirler, çünkü bu onlar için para kazanmanın en kolay yoludur. Değişim, özellikle de bilgisayar dünyasında olan türden değişimler, onları korkutan şeydir. Değişimler geldiğinde, her şeyi olduğu gibi tutmak için ellerinden geleni yaparlar ve hiçbir yerde bundan daha belirgin değildir. Telif hakkıyla korunan materyallerin çoğu yok olur, sonsuza dek basılmaz, sadece beş yıl içinde, belki on yıl içinde %75'i, 15 yıl içinde muhtemelen %87'si basılmaz, bu oranda 20 yıl %93, 25 yıl %96, 30 yıl %98 ve 35 yıl %99'un çok üzerinde olur... ve bu, gazetelerin, dergilerin, TV şovlarının, filmlerin, plakların ve çoğu insanın halkın gözünde bir yıldan fazla dayanmasını beklemediği tüm bu şeylerin kısa vadeli tirajlarını bile hesaba katmıyor. Gerçek şu ki, 1920'lerde yayınlanan herhangi bir şeyin muhtemelen sadece %0,1'i veya daha azı orijinal baskı için hala basılıyor. . . bu 1.000'de sadece bir madde ve . . bu tahmin muhtemelen oldukça yüksek. Mesele şu ki, telif hakkı yasalarımız 1.000 kitabın 1'i için saklanmasını destekleyebilir mi? . . . yarış arabası sürücüsü olabilecek 1.000'de 1'i için sürüş yasalarımızı yapmıyoruz, bu kayıtlardaki en saçma yasalardan biri olurdu. Yasalarımızı, yasanın herkese iyi uygulanması için yapmalıyız, sadece zenginleri daha zengin yapmak için değil - veya bu durumda Bilgi Zenginlerini daha zengin yapmak için değil. 
+Telif hakkının hiçbir şeye el koymaması yönündeki bu yeni çabanın çoğu, şimdiye kadarki en iyi yılını geçiren, bir milyardan fazla CD, kaset, plak ve video gönderen müzik endüstrisi tarafından yapıldı. 
+
+Tüm bu başarıya rağmen, %99'u basılmayan 1920 tarihli
+öğelerin telif haklarını neden korumak istiyorlar... sorulmaya değer bir sorudur--
+cevap, telif hakkının kitaplar veya diğer bilgi biçimleri çok fazla olduğunda her zaman uzatıldığıdır; biz herkesin iyi okumasını ve bilgilendirilmesini istediğimizi SÖYLERİZ ve sonra yasa bunu daha da zorlaştırır. Bir telif hakkı yasasının 1975'e kadar hiçbir şeyin Kamu Malı olmamasını talep ettiği dönemde Amerika Birleşik Devletleri'nde okuryazarlık için neler olduğuna bir bakın... Hemingway veya Winnie-the-Pooh'un Kamu Malı'nın bir parçası olmasını engellemek ABD okuryazarlık oranını artıracak mı?
+
+Yardımınızla, 1926'daki doğumundan bu yana çeşitli telif hakkı yasaları tarafından hapsedilen
+Winnie-the-Pooh'u serbest bırakmak için başarılı bir çaba gösterebileceğimizi umuyoruz... Bahsedilen tüm telif hakkı yasaları, çeşitli zamanlarda yürürlükte olan Birleşik Devletler telif hakkı yasalarıdır. Winnie-the-Pooh
+hapsedilmiştir. Diğer ülkelerin farklı telif hakkı yasaları vardır ve Winnie-the-Pooh İngiltere'de yazılmıştır, bu nedenle ABD yasalarındaki bir değişikliğin diğer telif haklarını etkilediği söylenemez.
+
+Ancak, yukarıdaki örnek 1920'lerde veya 1930'larda ABD'de yayınlanan herhangi bir kitap için oldukça geçerlidir.
+
+***
+
+Bayanlar ve Baylar. . .Motorlarınızı Çalıştırın!
+
+Bilgi Çağına Doğru Yarış Başladı.
+
+Tam 100 yıl önce Transcontinental Demiryolunun iki yarısını birleştiren Altın Çivi'den çok daha sessiz bir şekilde başladı. . . o kadar sessiz ki
+asla olduğunu fark etmedik ve hepimiz orada, Ay'daki Adamlara bakarak başlangıç ​​kapısında dikildik.
+
+Her şey yaklaşık 25 yıl önce, 1969'da oldu, ancak medya "İnternet" kelimesini büyük bir gazetenin ön sayfasına koymadı, ta ki Wall Street Journal bunu 29 Ekim 1991'de yapana kadar. . . yine de, çoğunuz muhtemelen 1994'e kadar medyada İnternet kelimesini hiç duymadınız veya görmediniz, 25. Yıldönümü neredeyse hiç bahsedilmedi, çünkü fikir herkesin İnternet'in etraftaki en yeni şey olduğunu düşünmesi ve hepimizin ayda 20-25 dolara bilet almasını sağlamaktı.
+
+Bir Hikayeyi Bildirmenin "Birinci Kuralı" nedir? . .oh evet:
+
+Parayı Takip Et
+
+Şu anda İnternette 40-50 milyon insan var--
+ve eğer birileri hepsinin 20-25 dolarlık bir ücret ödemesini sağlamanın bir yolunu bulursa. . . bu ayda 100 milyon dolar veya yılda bir milyar doların üzerinde olurdu.
+
+Vay canına. . . 60'lardan beri ücretsiz çalışan bir Bilgi Otoyoluna bunu yapabiliyorlarsa, belki de betondan yapılmış Eyaletlerarası Otoyollara da bunu nasıl yapacaklarını çözebilirler, çoğu bundan daha uzun süredir çalışmıyor. 
+
+NSFNet [Ulusal Bilim Vakfı Ağı], çoğumuzun İnternet'i ilk duyduğu sırada, kaldırılabileceği umuduyla, yetkililer tarafından küfür ve tartışma konusu yapılıyordu ve hiçbirimiz, tüm o yıllar boyunca Bilgi Zenginleri/Etite'e otoyol sistemleri kadar ücretsiz olan bir şey için yılda bir milyar dolar ödememiz istendiğinde bunu fark etmeyecektik. 
+
+Parayı Biraz Daha Takip Edelim
+
+İnternette kullanılan ilk sabit diskler, ne kadar bilgi tutabilecekleri açısından çok büyük değildi,
+ama her bilgisayarın 15 yıldan uzun süredir kullandığı diğer sabit disklere kıyasla BÜYÜKTÜLER. .çamaşır makinesi büyüklüğündeydiler ve İncil veya Shakespeare kadar büyük
+bilgileri tutamazlardı.
+
+Bugün, fiyatın %1'ine 1.000 kat daha fazla
+depolama alanı elde edebilirsiniz. . .Bilgilerinizi saklarken modern bir
+sıkıştırma programı kullanırsanız 2.000 kat daha fazla.
+
+Burada anlatmaya çalıştığım nokta, bir
+elektronik depolama aygıtının fiyatının, İnternet başladığında olduğundan tam anlamıyla %1'den daha çok 0'a düştüğüdür ve bunun önümüzdeki birkaç on yıl boyunca devam etmesi planlanıyor,
+bu da hepimizin Kongre Kütüphanesi'nin tamamını tutabilecek sürücülere sahip olabileceğimiz anlamına geliyor. . . .eğer izin verilirse.
+
+Ama olmayacak.
+
+İşin püf noktası da bu.
+
+Anlatmaya çalıştığım nokta, sonunda Kongre Kütüphanesi'nin tamamını saklayabilecek bir kutuya
+sahip olmamız. .hiçbir zaman buna ulaşmamamızı sağlayacaklar,
+çünkü bugün gördüğümüz her şey telif hakkının sona ermesi için yeterince eski olduğunda biz ölmüş olacağız.
+
+Parayı Biraz Daha Takip Edelim
+
+Sadece birkaç ay önce, müzik endüstrisi tarihteki herhangi bir yıl için plak satış rakamlarını tamamladı ve 1 milyar CD, kaset, plak ve müzik videosu kombinasyonunu 12 milyar dolara sattı.
+
+Bu başarıya birkaç hafta önce verilen yanıt, müzik endüstrisinin müşterilerine bir indirim değil, tam tersini, müzik endüstrisinin bu müzik üzerinde tekelini sürdürebileceği 20 yıl daha teklif etmesiydi ve... tamamen tesadüfen... bu tekel
+kitaplara, televizyona, filmlere, video oyunlarına
+ve telif hakkıyla korunabilecek her şeye
+de genişletilebilir.
+
+Bence bunu anlamanın tek yolu, bunu şu şekilde basit bir bakış açısıyla ele almaktır:
+
+Şu anda çocuğunuzu bir filme götürüyorsunuz, yapımcıların şu anda yayınladığı herhangi bir filme. Diyelim ki çocuğunuz
+5 yıldır hayatta, mevcut yasaya göre, o çocuk telif hakkı sahibinin izni olmadan
+o filmin bir kopyasına sahip olabilmek için
+80 yaşına gelmek zorunda. . .ve bu tür çocukların
+ortalama yaşama yaşı
+80 yıldan az. . .bu da telif hakkını bizim veya sinemaya götürdüğümüz
+çocuklar için kalıcı hale getiriyor.
+
+Aynı şey şu anda telif hakkıyla korunan tüm materyaller için de geçerli ve
+müzik endüstrisi zaten "ömür boyu hapis" olan bir cezaya 20 yıl daha eklemeye çalışıyor. .ve bu, satışlarının tarihin tüm rekorlarını kırdığı bir zamanda, eğer kelime oyununu mazur görürseniz... Amerika Birleşik Devletleri'nin kuruluşundan bu yana, Thomas Jefferson tarafından telif hakları veya patentler önerildiğinde 17 yıl boyunca süre 28 yıla, artı 28 yıl daha uzatıldı - ve en son olarak kurumsal telif hakları için 75 yıla ve bireysel telif hakları için "yaşam süresi artı 50 yıl"a.
+
+Bu, 20 yaşında birinin yazdığı ve yaklaşık 55 yıl daha yaşaması beklenen "Zen ve İnternet Sanatı"nın bundan bir asır sonra bile telif hakkı cezası altında olacağı, tamamen güncelliğini yitireceği ve tarihi bir dipnot olmaktan başka hiçbir işe yaramayacağı anlamına geliyor.
+
+Eğer bu, satış rekorları kıran bir yıl geçirmiş bir sektörün tepkisiyse, fiyatları düşürmek için değil, yükseltmek için bir tepkiyse, telif hakkı konusunda geriye doğru bir şey yapıyoruz demektir.
+
+Otomobil üreticileri gerçekten iyi yıllar geçirdiğinde veya gerçekten kötü yıllar geçirdiğinde, yeni yeniliklerle, paraya daha fazla otomobil, daha iyi şartlarda finansman veya benzeri şeylerle müşteri çekmek için çok çalışırlar ve rekor yıllar geçirdiklerinde, çalışanlarına büyük ikramiyeler verirler, eminim ki çoğunuz bunu son zamanlarda duymuştur ve ayrıca satışları yüksek tutmak için agresif bir şekilde rekabet ederler.
+
+Telif hakları ve patentler, insanların pazarda rekabet etmemesini sağlar, en azından yeni bir ürün pazara girdiği ilk on veya yirmi yıl boyunca... ancak şimdi telif hakları yalnızca telif hakkı sahibinin değil, aynı zamanda izleyicinin de tüm yaşam süresini kapsayacak şekilde genişletiliyor.
+
+Bir şeyler yanlış.
+
+Bilgi Çağı, Bilgi Zenginleri Tarafından Yönetiliyor
+Kıtalararası Demiryollarının Hırsız Baronlar Tarafından On Yıllarca Yönetildiği Gibi.
+
+Bilgi Zenginleri Süper Otoyollarda bedava yolculuk yaptı,
+yaklaşık 25 yıllık bedava yolculuk ve şimdi Bilgi
+Yoksulları bir yolculuk istiyor, bu yüzden Bilgi Zenginleri bedava yolculukları kapatıyor ve bilet satıyor. . .bu yıla kadar o kadar ucuz olan bir şeye bilet satıyorlar ki
+herhangi bir kişiden,
+herhangi bir kurumdan ne ücret alınacağını hesaplamak bile zordu.
+
+Michael Hart'ın Project Gutenberg'in İnternetin Kısa Tarihi kitabının sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A BRIEF HISTORY OF THE INTERNET ***
+
+***** This file should be named 250.txt or 250.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/5/250/
+
+Produced by Michael Hart
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
