@@ -1,0 +1,1214 @@
+*** START OF AKTAHEADER ***
+Başlık: Steam Engines (Buhar Makineleri)
+Yazar: Anonymous
+Yayın Tarihi: December 19, 2010  [eBook #34701]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/34701
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+The Project Gutenberg eBook, Steam Engines, by Anonymous
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: Steam Engines
+       Machinery's Reference Series, Number 70
+
+
+Author: Anonymous
+
+
+
+Release Date: December 19, 2010  [eBook #34701]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK STEAM ENGINES***
+
+*** START OF TURKISH PART ***
+Chris Curnow, Harry Lamé ve Online Distributed
+Proofreading Team (http://www.pgdp.net) tarafından hazırlanan e-metin, Internet Archive (http://www.archive.org) tarafından cömertçe sağlanan sayfa görüntülerinden oluşturulmuştur.
+
+Not: Project Gutenberg'in ayrıca bu dosyanın orijinal çizimleri içeren bir HTML sürümü de vardır.
+34701-h.htm veya 34701-h.zip'e bakın:
+(http://www.gutenberg.org/files/34701/34701-h/34701-h.htm)
+veya
+(http://www.gutenberg.org/files/34701/34701-h.zip)
+
+Orijinal sayfaların görüntüleri Internet Archive aracılığıyla edinilebilir. Bkz.
+http://www.archive.org/details/steamengines00newyrich
+
++--------------------------------------------------------------+
+| Transkripsiyon yapanın notu: |
+| |
+| Tutarsızlıklar düzeltilmedi (tireli |
+| tiresiz veya aralıklı kelimelere karşı), horse-power hariç |
+| horsepower olarak değiştirildi ve cut off cut-off olarak değiştirildi. |
+| |
+| Küçük tipografik hatalar düzeltildi. |
+| |
+| İtalik metinler |
+| in _italics_ şeklinde alt çizgi karakterleriyle çevrelenmiştir. |
+| |
+| Alt simgeler _{subscript} örneğinde olduğu gibi _{...} ile gösterilir. |
+| |
+| Satır içi çok satırlı formüller, gerektiğinde belirsizliği önlemek için parantezlerin |
+| eklenmesiyle |
+| tek satırlı formüllere değiştirildi. +--------------------------------------------------------------+
+
+Makine Referans Serisi
+
+Her Sayı, Elektrik ve
+Buhar Mühendisliği Çizimi ve Makine
+Tasarım ve Atölye Uygulaması Üzerine Bir Serideki Bir Birimdir
+
+NUMARA 70
+
+BUHAR MAKİNELERİ
+
+İÇERİK
+
+Buhar Makinelerinin Eylemi 3
+Buhar Makinelerinin Derecelendirmesi ve Genel Oranları 11
+Buhar Makinesi Ayrıntıları 15
+Buhar Makinesi Ekonomisi 30
+Buhar Makinesi Türleri 36
+Buhar Makinesi Testleri 41
+
+Telif Hakkı, 1911, The Industrial Press, Publishers of MACHINERY,
+49-55 Lafayette Street, New York City.
+
+BÖLÜM I
+
+BUHAR MAKİNELERİNİN EYLEMLERİ
+
+Buhar makinesi, _ısı_nın _iş_e dönüştürüldüğü bir cihazdır. İş, uzayda etki eden bir kuvvetin ürettiği sonuç olarak tanımlanabilir ve genellikle ayak-libre cinsinden ölçülür; bir ayak-libre, 1 pound'u 1 fit yüksekliğe çıkarmak için yapılan işi temsil eder. İş yapma oranına _güç_ denir. Deneyle, 1 termal birimin 778 ayak-libre işe oranında ısı ve iş arasında kesin bir ilişki olduğu bulunmuştur. 778 sayısına genellikle işin ısı eşdeğeri veya ısının mekanik eşdeğeri denir.
+
+Isı, belirli bir miktarı kapalı bir bölmede hapsederek ve ardından bölmenin bir tarafına yerleştirilmiş hareketli bir duvar (piston) vasıtasıyla genişlemesine izin vererek buhar ortamı aracılığıyla mekanik işe dönüştürülebilir. Genleşme sürecinde ısı verilir, buharın basıncı ve sıcaklığının düşmesiyle gösterildiği gibi, ve kapalı bölmenin duvarını (pistonunu) bir direnç kuvvetine veya basınca karşı hareket ettirmek için iş yapılmıştır. Buharın genleşmesi, radyasyon veya iletim yoluyla ısı kaybı olmadan gerçekleştiğinde, basınç ve hacim arasındaki ilişki pratik olarak sabittir; yani, belirli bir miktarda buhar, yukarıda açıklanan türden kapalı bir bölmede hacminin iki katına kadar genleşirse, son basıncı, genleşme gerçekleşmeden önceki başlangıç ​​basıncının yarısı olacaktır. 20 pound/inç kare mutlak basınçtaki bir pound buharın hacmi pratikte 20 kübik feet ve sıcaklığı 228 derecedir. Şimdi hacmi iki katına çıkarılacak şekilde (40 kübik feet) genişletilirse, basınç yaklaşık 10 pound/inç kareye düşecek ve sıcaklık sadece yaklaşık 190 derece olacaktır. Sıcaklıktaki düşüş, daha önce belirtildiği gibi, genleşme sürecinde ve odanın duvarını (pistonunu) bir direnç kuvvetine karşı hareket ettirirken işe dönüştürülen ısı kaybından kaynaklanmaktadır.
+
+Buhar Motorunun Prensibi
+
+Buhar motoru, buharın ısısını yukarıda açıklanan şekilde mekanik işe dönüştürmek için hareketli bir duvara sahip kapalı bir oda kullanır. Şekil 1, basit tasarımlı bir motorun uzunlamasına kesitini gösterir ve ana parçaları ve bunların birbirleriyle olan ilişkilerini gösterir.
+
+Silindir _A_, genleşmenin gerçekleştiği kapalı odadır ve piston _B_, hareketli duvardır. Silindir,
+doğru bir şekilde delinmiş ve dairesel bir kesite göre bitirilmiş dökme demirdendir. Piston,
+silindirde kolayca kayması için dikkatlice takılmıştır ve
+paketleme halkaları vasıtasıyla pratik olarak
+buhar geçirmez hale getirilmiştir. Pistonu hareket ettirirken üretilen iş, piston çubuğu
+_C_ ve bağlantı çubuğu _F_ vasıtasıyla krank pimi _H_'ye aktarılır. Piston çubuğu, etrafından buhar sızmasını önleyen
+bir salmastra kutusu
+aracılığıyla silindirden dışarı çıkar. Çapraz kafa _D_, piston çubuğunu düz bir çizgide yönlendirmeye yarar ve ayrıca piston çubuğunu ve bağlantı çubuğunu birleştiren bilek pimi _E_'yi içerir. Çapraz kafa, doğru bir çizgide hareket etmesine neden olan _G_ kılavuz plakasının üzerinde kayar ve aynı
+zamanda bağlantı çubuğundan aşağı doğru itme kuvvetini alır.
+
+Krank pimi, bu durumda daha iyi bir denge sağlamak için disk şeklinde yapılmış bir krank
+kolu vasıtasıyla ana şaft _I_ ile bağlanır. Denge çarkı veya volan _J_, krankı strokun uçlarındaki ölü noktalardan geçirir ve şafta düzgün bir hareket verir. Motorun çeşitli parçaları, genellikle dökme demirden yapılmış, tuğla veya betondan bir temele cıvatalanmış sert bir yatak _K_ üzerinde taşınır. Geliştirilen güç, ana şafta bağlı kayışlı bir kasnak vasıtasıyla veya bazı durumlarda doğrudan bağlı bir dinamodan gelen elektrik enerjisi şeklinde alınır. [Resim: Şekil 1. Ames Yüksek Hızlı Motorun Boyuna Kesiti]
+
+Çalışırken, belirli miktarda buhar (basit motorlarda toplam silindir hacminin 1/4 ila 1/3'ü) silindirin bir ucuna alınırken, diğer ucu atmosfere açıktır. Buhar, doğrudan kazan basıncına etki ederek pistonu belirli bir mesafe ileri zorlar. Besleme kapatıldıktan sonra, pistonun ileri hareketi buharın genleşmesiyle strokun sonuna kadar devam eder. Buhar şimdi silindirin diğer ucuna alınır ve işlem geri veya geri strokta tekrarlanır.
+
+Silindirin, buharı kabul eden ve boşaltan valfin hareketini gösteren genişletilmiş bir kesiti Şekil 2'de gösterilmiştir. Bu durumda, piston ileri strok için hazır, en geri konumda gösterilmiştir. Buhar sandığı _L_, kazan basıncında buharla doldurulur ve bu buhar, oklarla gösterildiği gibi, _N_ valfi aracılığıyla pistonun arkasındaki dar boşluğa kabul edilir. Egzoz portu _M_, silindirin diğer ucuyla iletişim halindedir ve pistonun, genleşen buharın yaptığı işi krank pimine aktaran piston çubuğu hariç, herhangi bir direnç olmadan ileri hareket etmesini sağlar. _N_ valfi, ana şafta bağlı bir krank veya eksantrik tarafından otomatik olarak çalıştırılır ve açıklanan sonuçları güvence altına almak için besleme ve egzoz portlarını uygun zamanda açar ve kapatır. Çalışma Diyagramı
+
+Bir motorun çalıştığı genel prensibi kısaca ele aldıktan sonra, bir sonraki adım,
+ısıyı silindir içinde işe dönüştürmeyi daha dikkatli bir şekilde incelemek ve bunu temsil etmenin
+grafiksel yöntemlerine aşina olmaktır. İş, daha önce
+uzayda etki eden kuvvetin sonucu olarak tanımlanmıştır ve iş birimi
+ayak-pound'dur, bu da 1 pound 1 feet yüksekliğe kaldırmak için yapılan iştir.
+Örneğin, 1 pound 1 feet kaldırmak için 1 x 1 = 1 foot-pound veya 1 pound 10 feet kaldırmak için 1 x 10 = 10 foot-pound veya 10 pound 1 feet kaldırmak için 10 x 1 = 10 foot-pound veya 10 pound 10 feet kaldırmak için 10 x 10 = 100 foot-pound gerekir, vb. Yani, etki eden ağırlık veya kuvvetin, kat edilen mesafeyle çarpımı işi temsil eder; ve
+kuvvet pound ve mesafe feet olarak alınırsa, sonuç
+foot-pound cinsinden olacaktır. Bu sonuç,
+iş diyagramı adı verilen bir şekille grafiksel olarak gösterilebilir.
+
+[İllüstrasyon: Şekil 2. Silindir Kesiti, Kayar Vanayı Gösteriyor]
+
+Şekil 3'te, _OY_ çizgisi üzerindeki mesafelerin etki eden kuvveti,
+ve _OX_ üzerindeki mesafelerin hareket edilen alanı temsil ettiğini varsayalım.
+Şekilin _OY_'nin 5 feet yüksekliğinde ve _OX_'nin 10 feet uzunluğunda olduğu bir ölçeğe göre çizildiğini varsayalım. _OY_ üzerindeki her bölümün 1 pound basıncı,
+ve _OX_ üzerindeki her bölümün hareket edilen 1 feet alanı temsil ettiğini varsayalım. 5 poundluk bir basınç 10 feet'lik bir mesafe boyunca etki ederse, o zaman 5 x 10 = 50 foot-pound iş yapılmış olur. Şekil 3'e bakıldığında, _OY_ yüksekliğinin (etki eden basınç) _OX_ uzunluğuyla (hareket edilen mesafe) çarpıldığında 5 x 10 = 50 fit kare verdiği açıktır, bu da _YCXO_ dikdörtgeninin alanıdır; yani, bir dikdörtgenin alanı, yükseklik hareket eden bir kuvveti temsil ediyorsa, yapılan işi temsil edebilir ve uzunluk hareket edilen mesafeyi temsil eder. Diyagram daha küçük bir ölçeğe çizilseydi, böylece bölümler 1 fit yerine 1 inç uzunluğunda olsaydı, _YCXO_ alanı yine yapılan işi temsil ederdi, ancak her bir inç kare, şu anki çizimde olduğu gibi her bir fit kare yerine 1 fit-libre olurdu. 
+
+[İllüstrasyon: Şekil 3. Basit Bir İş Diyagramı] 
+
+Şekil 4'te, diyagram dikdörtgen biçiminde olmak yerine, hareket edilen mesafe boyunca farklı dönemlerde etki eden farklı kuvvetler nedeniyle farklı bir şekil alır. İlk durumda (Şekil 3), 5 pound'luk tekdüze bir kuvvet 10 feet'lik bir mesafeden etki eder ve 5 x 10 = 50 foot-pound iş üretir. İkinci durumda (Şekil 4), 5 pound, 4 pound, 3 pound, 2 pound ve 1 pound'luk kuvvetler her biri 2 feet'lik mesafelerden etki eder ve (5 x 2) + (4 x 2) + (3 x 2) + (2 x 2) + (1 x 2) = 30 foot-pound üretir. Bu aynı zamanda noktalı çizgilerle gösterilen beş küçük dikdörtgenin alanlarından oluşan _Y54321XO_ şeklinin kare feet cinsinden alanıdır. Şekil 4'te gösterilen şeklin toplam alanını bulmanın ve yapılan işi belirlemenin bir başka yolu, uzunluğu küçük dikdörtgenlerin yüksekliklerinin ortalamasıyla çarpmaktır. Ortalama yükseklik, aşağıdaki gibi birkaç yüksekliğin toplanması ve toplamın sayılarına bölünmesiyle bulunur:
+
+5 + 4 + 3 + 2 + 1
+----------------- = 3 ve 3 x 10 = 30 fit kare, daha önce olduğu gibi.
+5
+
+[İllüstrasyon: Şekil 4. Başka Bir İş Diyagramı]
+
+Bu, vuruş boyunca etki eden ortalama kuvvetin
+3 pound ve yapılan toplam işin 3 x 10 = 30 fit-libre olduğu anlamına gelir.
+
+Şekil 5'te basınç, vuruşun başındaki 5 pound'dan vuruşun sonundaki 0'a düzgün bir şekilde düşer. Bu durumda da alan ve yapılan iş, diyagramın uzunluğunun ortalama yükseklikle çarpılmasıyla şu şekilde bulunur:
+
+5 + 0
+----- x 10 = 25 fit kare,
+2
+
+veya yapılan 25 fit-libre iş.
+
+[İllüstrasyon: Şekil 5. Basınç Eşit Olarak Düştüğünde İş Diyagramı]
+
+Şekil 3, 4 ve 5'in amacı, fit-libre işin diyagramların alanlarıyla grafiksel olarak nasıl temsil edilebileceğini göstermek ve ayrıca bunun diyagramın biçimi ne olursa olsun doğru kaldığını açıklığa kavuşturmaktır. Ayrıca, alanı, ortalama yüksekliği veya basıncı bilmenin, uzunluğa bölerek bulunabileceği ve bunun tersinin de geçerli olduğu açıktır.
+
+Şekil 6, iletim ve radyasyonla ısı kaybı olmaması durumunda, bir motor silindirindeki buharın etkisiyle üretilecek iş diyagramının biçimini gösterir. Şekil 2'de gösterilen konumdaki pistondan başlayarak, buhar, _OY_ çizgisinin yüksekliğiyle gösterilen bir basınçta içeri alınır. Piston ileri doğru hareket ettikçe, aynı basıncı korumak için yeterli buhar içeri alınır. _B_ noktasında valf kapanır ve
+buhar kesilir. Bu zamana kadar yapılan iş _YBbO_ dikdörtgeniyle gösterilir. _B_ noktasından strokun sonuna _C_ kadar, piston buharın genleşmesiyle ileri doğru hareket ettirilir, basınç, hareket edilen mesafeyle orantılı olarak düşer, strokun sonunda dikey çizgi _CX_ ile gösterilir. _C_ noktasında egzoz valfi açılır ve basınç 0'a düşer (bu durumda atmosferik
+basınç).
+
+Motorun tam bir strokunun yaptığı işi bulmak her zaman istendiği için, strok boyunca etki eden ortalama veya ortalama basıncı bulmak gerekir. Bu, yalnızca diyagramın alanını belirleyip strok uzunluğuna bölerek yapılabilir. Bu, ortalama ordinat olarak adlandırılan şeyi verir ve çizimin ölçeğiyle çarpıldığında ortalama veya ortalama basıncı verir. Örneğin, diyagramın alanının 6 inç kare ve uzunluğunun 3 inç olduğu bulunursa, ortalama ordinat 6 / 3 = 2 inç olacaktır. Diyagram, _OY_ üzerindeki 1 inçin 10 pound'u temsil ettiği bir ölçeğe göre çizilirse, ortalama veya ortalama basınç 2 x 10 = 20 pound olacaktır ve bu, piston strokunun gerçek uzunluğuyla çarpıldığında yapılan işi ayak-pound cinsinden verecektir. Yukarıdakilerin pratik uygulaması, buhar motoru gösterge diyagramlarını elde etme ve bunların alanlarını ölçme yöntemiyle birlikte, Buhar Motoru Testi başlığı altında ayrıntılı olarak ele alınacaktır.
+
+Motor Diyagramlarıyla İlgili Tanımlar
+
+Gerçek bir motor diyagramının yapımına başlamadan önce, bununla bağlantılı olarak kullanılan belirli terimlere aşina olmak gerekir.
+
+[Resim: Şekil 6. Bir Buhar Motorunun İdeal Çalışma Diyagramı]
+
+_Kesme._--Kesme, giriş valfinin kapandığı ve buharın genleşmesinin başladığı stroktaki noktadır.
+
+_Genleşme Oranı._--Bu, kesmenin tersidir, yani,
+kesme 1/4 ise, genleşme oranı 4'tür. Başka bir deyişle,
+strokun sonunda buharın son hacminin, kesme noktasındaki hacmine oranıdır. Örneğin, bir silindir, piston strokunun dörtte biri kadar hareket edene kadar kazan basıncında buhar alır; valf şimdi kapanır ve strok tamamlanana kadar genleşme gerçekleşir.
+Dörtte bir silindir dolusu buhar, bir silindir dolusu haline gelmiştir, yani orijinal hacminin dört katına kadar
+genleşmiştir ve genleşme oranının 4 olduğu söylenir.
+
+_Serbest Bırakma Noktası._--Bu, stroktaki egzoz valfinin açıldığı ve pistona etki eden basıncı tahliye ettiği noktadır. Bu, pistonun hareket yönünü değiştirdiğinde şoku azaltmak için strokun sonundan hemen önce gerçekleşir.
+
+_Sıkıştırma._--Bu, strokun sonunda şoku azaltmak için erken serbest bırakma ile bağlantılı olarak hareket eder. Bir motorun ileri
+stroku sırasında, pistonun önündeki egzoz valfi, Şekil 2'de gösterildiği gibi açık kalır. Strokun sonundan kısa bir süre önce bu kapanır ve silindirde belirli miktarda buhar kalır. Strokun devam etmesi bu buharı sıkıştırır ve basıncını artırarak bir yastık oluşturur, bu da pistonun arkasındaki basıncın serbest bırakılmasıyla birlikte pistonu durdurur ve şok olmadan yönünü tersine çevirmesine neden olur. Yüksek hızlı motorlar düşük hızda çalışanlardan daha fazla sıkıştırma gerektirir.
+
+_Boşluk_. --Bu, silindir kapağı ile piston arasındaki boşluktur, piston strokunun sonunda olduğunda; ayrıca valf ile silindir arasındaki buhar portunun o kısmını da içerir. Boşluk
+genellikle silindirin piston yer değiştirmesinin yüzdesi olarak ifade edilir ve farklı motor tiplerinde değişir. Aşağıdaki tablo farklı tasarımlara sahip motorlar için yaklaşık değerler verir.
+
+TABLO I. BUHAR MOTORLARININ BOŞLUĞU
+
+Motor Tipi Yüzde Boşluk
+
+Corliss 1,5 ila 3,5
+Orta hız 3 ila 8
+Yüksek hız 4 ila 10
+
+Büyük bir boşluk açıkça sakıncalıdır çünkü her strokun başlangıcında kazan basıncında buharla doldurulması gereken ve nispeten az miktarda iş elde edilen bir alanı temsil eder. Sıkıştırma arttıkça boşluk alanını doldurmak için gereken buhar miktarı azalır, ancak diğer
+taraftan, sıkıştırmayı artırmak ortalama etkili basıncı azaltır.
+
+_İlk Basınç._--Bu, kesme noktasına kadar silindirdeki basınçtır. Genellikle buhar borusu ve portlarındaki "tel çekme" nedeniyle kazan basıncından biraz daha azdır.
+
+_Terminal Basıncı._--Bu, serbest bırakma gerçekleştiği anda silindirdeki basınçtır ve ilk basınca, genleşme oranına ve silindirdeki yoğuşma miktarına bağlıdır.
+
+_Geri Basınç._--Bu, egzoz portu açıkken silindirdeki basınçtır ve pistonun çalışma stroku sırasında zorlandığı basınçtır. Örneğin, Şekil 2'de pistonun solundaki küçük boşluk, ilk basınçta buharla doldurulurken, pistonun sağındaki boşluk geri basınca maruz kalır. Çalışma basıncı, buharın genleşmesi nedeniyle strok boyunca değişirken, geri basınç, strokun sonunda sıkıştırma etkisi dışında sabit kalır. Yoğuşmasız bir motordaki (atmosfere egzoz yapan) teorik geri basınç, atmosferin basıncı veya vakumun 14,7 pound/inç kare üzerindeki basınçtır, ancak gerçek uygulamada egzoz portlarının ve bağlantı borularının direnci nedeniyle atmosfer basıncının yaklaşık 2 pound veya mutlak 17 pound üzerindedir. Yoğuşmalı bir motorda (yoğuşturucuya egzoz yapan) geri basınç, en iyi uygulamada ortalama 3 pound mutlak basınç olan yoğuşturucunun verimliliğine bağlıdır.
+
+_Etkili Basınç._--Bu, pistonun buhar tarafındaki basınç ile egzoz tarafındaki basınç arasındaki farktır veya başka bir deyişle, çalışma basıncı ile geri basınç arasındaki farktır. Bu değer, buharın genleşmesiyle strok boyunca değişir.
+
+_Ortalama Etkin Basınç._--Etkili basıncın strok boyunca değiştiği az önce belirtilmişti. Ortalama etkili basınç (M.E.P.), tüm etkili basınçların ortalamasıdır ve bu ortalama, strok uzunluğuyla çarpıldığında strok başına yapılan işi verir.
+
+_Mutlak Vakum Çizgisi._--Şekil 6'da gösterilen diyagramda, _OX_ çizgisi mutlak vakum çizgisidir; yani, pistonun egzoz tarafında
+hiç basınç olmadığı varsayılır. Başka bir deyişle, motor mükemmel bir vakuma
+boşalmaktadır.
+
+[Resim: Şekil 7. Bir Buhar Motoru Çalışma Diyagramı Oluşturma]
+
+_Atmosferik Çizgi._--Bu, kullanılan ölçeğe göre,
+inç kare başına 14,7 pound
+basıncı temsil edecek kadar yüksek bir mesafede mutlak vakum çizgisine paralel olarak çizilen bir çizgidir.
+
+İdeal Diyagramın Oluşturulması
+
+Bir buhar motorunun tasarımındaki ilk adımlardan biri,
+ideal bir diyagramın oluşturulmasıdır ve motorun çalışırken bunu mümkün olduğunca yakın bir şekilde üretmesi planlanmaktadır. Öncelikle, söz konusu motor tipi için başlangıç
+basıncını, genleşme oranını ve boşluk yüzdesini varsayalım. Şekil 7'deki gibi _OX_ ve _OY_ çizgilerini dik açılarla çizin. _OR_'u piston yer değiştirmesinin boşluğunun olduğu strokun aynı yüzdesi yapın; _RX_'i strokun uzunluğuna (küçültülmüş bir ölçekte) eşit yapın. _RA_ dikmesini, kazan basıncının 0,95'ine eşit mutlak bir basıncı, ölçek olarak, inç kare başına temsil edecek şekilde, o yükseklikte dikin. Noktalı _AK_ ve _KX_ çizgilerini ve _LH_ atmosferik çizgisini, inç kare başına 14,7 poundu temsil edecek şekilde _OX_'un üzerindeki bir yükseklikte çizin. Varsayılan genleşme oranına göre, _B_ kesme noktasını bulun. _BC_ genleşme eğrisindeki noktalar şu şekilde bulunur: _BK_ mesafesini _a_, _b_, _c_, _d_, vb. ile gösterildiği gibi herhangi bir sayıda eşit boşluğa bölün ve bunları _O_ noktasıyla birleştirin. _BP_ ile kesişim noktalarından, _a'_, _b'_, _c'_, _d'_, vb. yatay çizgiler çizin ve
+_a_, _b_, _c_, _d_, vb. dikey çizgiler çizin. Karşılık gelen yatay ve dikey çizgilerin kesişimi,
+teorik genleşme çizgisi üzerindeki noktalar olacaktır. Motor yoğuşmasız olacaksa,
+teorik çalışma veya gösterge diyagramı, denildiği gibi,
+_ABCHG_ çizgileriyle sınırlanacaktır.
+
+Gerçek diyagram, gölgeli çizgilerle gösterildiği gibi, teorik olandan biraz farklı olacaktır. _A_ ve _B_ arasındaki giriş çizgisi hafifçe aşağı doğru eğilecek ve valfin yavaş kapanması nedeniyle kesme noktası yuvarlanacaktır. Genleşme hattının ilk yarısı, silindir yoğuşması nedeniyle oluşan basınç düşüşü nedeniyle teorik değerin altına düşecektir, ancak gerçek hat, strokun son kısmında, sıcak silindir duvarlarının düşük basınçlı buhara verdiği ısı nedeniyle yeniden buharlaşma nedeniyle teorik değerin üzerine çıkacaktır. Basıncın _C_ noktasında aniden düşmesi yerine, strokun sonundan hemen önce serbest bırakma gerçekleşir ve diyagram, keskin köşeler yerine _CF_ noktasında yuvarlanır. Geri basınç hattı _FD_, atmosferik çizginin biraz üzerine çizilir, yaklaşık 2 pound/inç kareyi temsil eden bir mesafe. _D_ noktasında egzoz valfi kapanır ve sıkıştırma başlar, diyagramın alt kısmı _E_ noktasına yuvarlanır. 
+Şekil 7'deki gölgeli çizgilerle gösterildiği gibi, gerçek diyagramın alanı, teorik alandan yaklaşık olarak aşağıdaki oranda daha küçük olacaktır: 
+
+Büyük orta hızlı motorlar, teorik alanın 0,90'ı. Küçük orta hızlı motorlar, teorik alanın 0,85'i.
+Yüksek hızlı motorlar, teorik alanın 0,75'i.
+
+BÖLÜM II
+
+BUHAR MAKİNELERİNİN DERECELENDİRMESİ VE GENEL ORANLARI
+
+Bir buhar motorunun kapasitesi veya gücü beygir gücü olarak derecelendirilir, bir beygir gücü (B. P.) dakikada yapılan 33.000 fit-librelik işe eşdeğerdir. Belirli bir motorun beygir gücü şu formülle hesaplanabilir:
+
+_APLN_
+B. P. = ------
+33.000
+
+burada
+
+_A_ = piston alanı, inç kare cinsinden,
+_P_ = inç kare başına ortalama etkin basınç,
+_L_ = strok uzunluğu, fit cinsinden,
+_N_ = dakika başına strok sayısı = devir sayısı x 2.
+
+Yukarıdaki formülün türetilmesi aşağıdaki şekilde kolayca açıklanabilir:
+Piston alanı, inç kare cinsinden, ortalama etkin
+basınçla, inç kare başına pound cinsinden çarpıldığında, pistona etki eden toplam kuvvet, pound cinsinden verilir.
+Strok uzunluğu, fit cinsinden, dakika başına strok sayısıyla çarpıldığında, pistonun hareket ettiği mesafe, fit cinsinden, dakika başına
+verir. Daha önce, pound cinsinden basıncın, hareket edilen mesafeyle, fit cinsinden çarpıldığında, yapılan işin
+ayak-libre cinsinden
+verildiği gösterilmiştir. Bu nedenle, _A_ x _P_ x _L_ x _N_ bir buhar makinesinin dakikada yaptığı işin ayak-libre cinsinden değerini verir. Bir beygir gücü dakikada 33.000 ayak-libre ile temsil ediliyorsa, makinenin gücü veya derecesi dakikada yapılan toplam ayak-libre işin 33.000'e bölünmesiyle elde edilir. Verilen formülü hatırlamayı kolaylaştırmak için, genellikle şu şekilde yazılır:
+
+_PLAN_
+H. P. = ------,
+33.000
+
+burada ikinci üyenin paydasındaki semboller "Plan" kelimesini oluşturur. "
+
+_Örnek_:--Aşağıdaki motorun, aşağıda belirtilen
+koşullar altında çalışan beygir gücünü bulun:
+
+Silindir çapı, 12 inç.
+Strok uzunluğu, 18 inç.
+Dakika başına devir, 300.
+Ortalama etkili basınç (M.E.P.), 40 pound.
+
+Bu problemde, _A_ = 113 inç kare; _P_ = 40 pound; _L_ =
+1,5 fit; ve _N_ = 600 strok.
+
+Formülde yerine koyarak,
+
+40 x 1,5 x 113 x 600
+B. P. = --------------------- = 123.
+33.000
+
+Ortalama etkili basınç, yaklaşık olarak, aşağıdaki oran tablosundaki faktörler vasıtasıyla, olağan uygulamaları kapsayan
+farklı koşullar için bulunabilir. Kullanılan kural şöyledir: Mutlak başlangıç ​​basıncını, Tablo II'de bulunan boşluk ve kesme değerine karşılık gelen faktörle çarpın ve sonuçtan mutlak geri basıncı çıkarın, bunun yoğuşmasız motorlar için 17 pound ve yoğuşmalı motorlar için 3 pound olduğunu varsayarak.
+
+_Örnek 1_:--%3 boşluğa sahip yoğuşmasız bir motor, 1/3 strokta kesilir; başlangıç ​​basıncı 90 pound göstergedir. M.E.P. nedir?
+
+Mutlak başlangıç ​​basıncı 90 + 15 = 105 pound'dur. Tablo II'deki %3 boşluk ve 1/3 kesme değeri için faktör 0,71'dir. Kuralı uyguladığımızda: (105 x 0,71) - 17 = 57,5 ​​pound/inç kare.
+
+_Örnek 2_:--Yoğuşmalı bir motorun boşluğu %5'tir. 140 poundluk gösterge basıncında buharla beslenir ve 6'lık bir genleşme oranına sahiptir. M.E.P. nedir?
+
+Mutlak başlangıç ​​basıncı 140 + 15 = 155'tir. 6'lık (1/6 kesme) ve %5'lik bir genleşme oranının faktörü 0,5'tir ve bu da (155 x 0,5) - 3 = 74,5 pound/inç kare verir.
+
+Az önce açıklanan yöntemle hesaplanan bir motorun gücüne belirtilen beygir gücü (I. H. P.) denir ve motorun sürtünmesini aşmak için gereken güç dahil olmak üzere geliştirilen toplam gücü verir. Verilen veya fren beygir gücü (B. H. P.), belirtilen beygir gücünden hareketli parçaları çalıştırmak için gereken güç çıkarıldıktan sonra motor tarafından verilen güçtür. Fren beygir gücü genellikle tam yükte belirtilen beygir gücünün %80 ila %90'ı arasında değişir, bu da motorun türüne ve boyutuna bağlıdır.
+
+Herhangi bir beygir gücü için bir motor silindirini oranlarken, tasarımcı genellikle dikkate alınan özel motor türü için aşağıdaki verilere sahiptir: Başlangıç ​​basıncı, geri
+basınç, boşluk, kesme ve piston hızı.
+
+Bu miktarlar farklı motor türlerinde değişir, ancak daha spesifik verilerin yokluğunda Tablo III'teki değerler faydalı olacaktır. Geri basınç, yoğuşmasız motorlar için mutlak olarak inç kare başına 17 pound ve yoğuşmalı motorlar için daha önce belirtildiği gibi 3 pound olarak alınabilir.
+
+TABLO II. ORTALAMA ETKİLİ BASINCI BULMAK İÇİN FAKTÖRLER
+
++--------------+---------------------------------------------+
+| | Kesme Noktası |
+| Yüzde +-------+-------+-------+-------+------+
+| Temizleme | 1/10 | 1/6 | 1/4 | 1/3 | 1/2 | 3/4 |
++--------------+------+-------+------+------+------+
+| 1,75 | 0,35 | 0,48 | 0,60 | 0,70 | 0,85 | 0,96 |
+  |     3.00 | 0.37 | 0,49 | 0.61 | 0,71 | 0,85 | 0,96 |
+  |     5.00 | 0.39 | 0,50 | 0,62 | 0,72 | 0,86 | 0,97 |
+  |     7.00 | 0.41 | 0,52 | 0,63 | 0,73 | 0,86 | 0,97 |
+  |     9.00 | 0.43 | 0,54 | 0,64 | 0,73 | 0,86 | 0,97 |
+  +--------------+-------+-------+------+------+------+------+
+
+Silindirin oranlanmasındaki ilk adım, varsayılan başlangıç ​​basıncından,
+boşluktan ve kesmeden, daha önce açıklanan yöntemle yaklaşık ortalama etkili basıncı hesaplamaktır. Daha sonra, tasarlanacak motor tipi için
+piston hızını varsayalım ve
+piston alanını şu formülle belirleyelim:
+
+33.000 BG
+A = ----------------------.
+M. E. P. x piston hızı
+
+Bu formül genellikle pistonun çapını inç ve
+bir inçin kesirleri cinsinden verir, ancak bu boyutun çift sayıda
+inç olması istenir. Bu, çap olarak en yakın tam sayıyı alarak ve piston hızını buna karşılık gelecek şekilde değiştirerek yapılabilir. Bu, aşağıdaki denklem kullanılarak yapılır.
+
+İlk piston hızı x ilk piston alanı
+--------------------------------------- = yeni piston hızı.
+yeni piston alanı
+
+Etkin piston alanını hesaplamada, piston çubuğunun bir taraftaki alanı hesaba katılmalıdır. Etkin veya ortalama piston alanı daha sonra (2_A_ - _a_)/2 olacaktır, burada _A_ = piston alanı, _a_ = piston çubuğunun alanı. Bu son alan varsayılmalıdır. Çift inçlik yeni bir
+piston çapı varsayıldıktan sonra, yeni piston hızını belirlemede etkin veya ortalama alanı kullanılmalıdır. Strok uzunluğu genellikle silindir çapına orantılıdır ve piston hızı buna bölündüğünde dakikadaki strok sayısı elde edilir.
+
+_Örnek_:--200 I. H. P.'lik basit, yüksek hızlı, yoğuşmasız bir motor için silindir çapını, strok uzunluğunu ve
+dakikadaki devir sayısını aşağıdaki varsayımlarla bulun: Başlangıç ​​basıncı, 90
+pound gösterge; boşluk, %7; kesme, 1/4; piston hızı, 700 feet
+dakika; strok uzunluğu, silindir çapının 1,5 katı.
+
+TABLO III. BUHAR MAKİNELERİNİN BASINCI, BOŞLUĞU, KESME VE PİSTON HIZI
+
++---------------------+------------+-------------+-------------+-------------+-------------+
+| | Başlangıç ​​| Boşluk,| Kesme, | Piston |
+| Motor Tipi | Basınç, | Yüzde | Oran | Hız, Ayak|
+| | (Gösterge) | | Strok | Dakikada |
++---------------------+------------+------------+------------+------------+
+|Basit yüksek hızlı | 80 ila 90 |4 ila 10 | 1/4 ila 1/3 | 600 ila 800 |
+|Basit orta hız | 80 ila 90 |3 ila 8 | 1/4 ila 1/3 | 500 ila 700 |
+|Basit Corliss | 80 ila 90 |1,5 ila 3,5 | 1/4 ila 1/3 | 400 ila 600 |
+|Bileşik yüksek hız | 130 ila 140 |4 ila 10 | 1/10 ila 1/8 | 600 ila 800 |
+|Bileşik orta hız | 130 ila 140 |3 ila 8 | 1/10 ila 1/8 | 500 ila 700 |
+|Bileşik Corliss | 130 ila 140 |1,5 ila 3,5 | 1/10 ila 1/8 | 400 ila 600 |
++---------------------+------------+-------------+-------------+-------------+
+
+Yukarıdaki kuralları ve formülleri kullanarak şunları elde ederiz:
+
+M. E. P. = (90 + 15) x 0,63 - 17 = 49 pound.
+
+33.000 x 200
+_A_ = ------------ = 192,4 inç kare.
+49 x 700
+
+Çift inçlik en yakın piston çapı 16'dır ve bu da 201 inç karelik bir alana karşılık gelir. 2-1/2 inçlik bir piston çubuğu çapı varsayalım, bu da 4,9 inç karelik bir alana karşılık gelir ve buradan ortalama veya etkili piston alanının ((2 x 201) - 4,9)/2 = 198,5 inç kare olduğu bulunur.
+
+Şimdi yeni piston hızını belirleyerek şunu elde ederiz:
+
+700 x 192,4
+----------- = dakikada 678,5 fit.
+198,5
+
+Strok uzunluğunun silindirin çapının 1,5 katı olduğunu varsayarsak, 24 inç veya 2 fit olacaktır.
+
+Bu, yaklaşık olarak dakikada 678,5 / 2 = 340 strok veya dakikada 340 / 2 = 170 devir gerektirecektir.
+
+BÖLÜM III
+
+BUHAR MAKİNESİ DETAYLARI
+
+Bir buhar makinesinin en önemli detaylarından bazıları valf dişlisidir. En basit valf biçimi düz sürgülü valf olarak bilinir ve diğerlerinin neredeyse hepsi bunun bir modifikasyonu olduğundan, tasarımcının öncelikle bu özel valf türüyle tüm çalışma detaylarıyla tanışması önemlidir. Bu yapıldıktan sonra, diğer valf biçimlerinin incelenmesi nispeten kolay bir konu olacaktır. Corliss valfi sürgülü valften kökten farklıdır, ancak elde edilecek sonuçlar ve tasarımında kullanılan terimler pratik olarak aynıdır. Bir buhar makinesinin valf dişlisi, buharı silindire kabul eden ve silindirden dışarı atan valf veya valflerden ve valf hareketlerini yöneten mekanizmadan oluşur; ikincisi genellikle ana şafta bağlı bir veya daha fazla eksantrikten oluşur.
+
+[Resim: Şekil 8. Bağlantı Noktaları Olan Sürgülü Valfin Uzunlamasına Kesiti]
+
+Sürgülü Valf
+
+Şekil 8, bağlantı noktaları, köprüler vb. olan bir sürgülü valfin uzunlamasına kesitini gösterir. Valf, kendisiyle ilgili belirli noktaların daha kolay anlaşılabilmesi için orta konumda gösterilmiştir. Valf, _V_,
+gösterildiği gibi uçları bağlantı noktalarının ötesine çıkıntı yapan içi boş bir dökümden oluşur; alt yüzey düzgün bir şekilde bitirilmiş ve valf yuvasına _AB_ takılmıştır. Çalışırken ileri geri kayar, buhar sandığını silindire bağlayan bağlantı noktalarını açıp kapatır. Buhar, _CD_ veya _DC_ portlarından biri açıldığında silindire kabul edilir ve portlar egzoz portuyla _MN_ iletişime getirildiğinde serbest bırakılır. Bu, silindir portlarından birini ve egzoz portunu içi boş kemer _K_ altına getiren valfin hareketiyle gerçekleştirilir. Valf yuvasının _DM_ ve _ND_ kısımlarına köprüler denir.
+
+Şekil 8'e bakıldığında _OI_ ve _IO_ kısımlarının kapladıkları portlardan daha geniş olduğu görülecektir. Bu ekstra genişliğe _tur_ denir, _OC_ dış tur ve _DI_ iç veya egzoz turudur. Dış turun amacı, piston belirli bir mesafe ileri hareket ettikten sonra buharın kapatılabilmesi ve strokun geri kalanında genleşebilmesidir. Dış tur olmasaydı, buhar tüm strok boyunca kabul edilir ve genleşme olmazdı. İç tur olmasaydı, egzoz tüm strok boyunca gerçekleşirdi ve erken serbest bırakma ve sıkıştırmanın avantajları kaybolurdu. Bu nedenle, dış tur kesmeyi etkiler ve iç tur serbest bırakmayı ve sıkıştırmayı etkiler. Bir valf, pistonun geri dönüş strokunun sonundan önce buhar portunu açığa çıkarmaya başladığında _öncü_ olur. Bu, Şekil 9'da gösterilmiştir, burada piston _P_ okla gösterildiği gibi ileri strokuna başlamaya
+hazırdır. Valf, öncüye eşit bir mesafe
+açmıştır ve buhar, strokun başlangıcından önce boşluk alanına girip onu doldurma
+fırsatı bulmuştur. Öncülük farklı motorlarda değişir, yüksek hızlı tiplerde düşük hızlı tiplere göre daha fazladır.
+
+[Resim: Şekil 9. Kayar Vananın Başını Gösteren Resim]
+
+[Resim: Şekil 10. Eksantrik'in Diyagram Görünümü]
+
+Eksantrik
+
+Kayar vana genellikle ana şafta bağlı bir eksantrik tarafından tahrik edilir.
+Bir eksantriğin diyagramı Şekil 10'da gösterilmiştir.
+Eksantrik,
+aslında, şaftı çevreleyen büyüklükte bir krank pimi olan kısa bir kranktır.
+Krankın kolu, şaftın merkezi ile krank piminin merkezi arasındaki mesafedir. Bir
+eksantriğin atışı buna karşılık gelir ve Şekil 10'da _a_ ile gösterildiği gibi, şaftın merkezi ile eksantrik diskin merkezi arasındaki mesafedir. Disk şafta bağlıdır ve şaft döndükçe, diskin merkezi noktalı çizgiyle gösterildiği gibi etrafında döner ve valf çubuğuna atışın _a_ iki katına eşit ileri ve geri hareket verir.
+
+[Resim: Şekil 11. Krank ve Eksantrik İlişkileri]
+
+Şekil 11'de _A_ ana şaftın merkezini, _B_ bağlantı çubuğunun bağlı olduğu krank pimini (bkz. _H_, Şekil 1) ve _B_'den geçen noktalı daire krank piminin şaft etrafındaki yolunu temsil etsin. Basitleştirmek için, eksantriğin benzer bir şekilde krank _Ab_ ile ve yolunun _b_'den geçen noktalı daire ile gösterilmesine izin verin.
+Şekil 12, piston _P_ ve valfin Şekil 11'deki krank ve eksantriğin konumlarına ve Şekil 12'deki sağdaki diyagrama karşılık gelen konumlarda olduğu benzer bir diyagramı göstermektedir. Piston en soldadır ve sağa doğru ileri strokuna başlamaya hazırdır. Krank pimi _B_ en içteki konumundadır. Valf, Şekil 8'deki gibi orta konumundayken, eksantrik kol _Ab_ Şekil 11'deki _AC_ çizgisiyle çakışacaktır. Eksantrik, valfin sol kenarı _O_, Şekil 8'i portun _C_ kenarıyla aynı hizaya getirecek kadar şaft üzerinde döndürülürse, eksantriğin kolu dikey konumundan Şekil 11'deki _Ab'_ çizgisiyle gösterilen konuma hareket etmiş olacaktır. Bu sonucu elde etmek için eksantriğin dikeyden döndürüldüğü açıya _açısal ilerleme_ denir ve Şekil 11'deki _CAb'_ açısıyla gösterilir. Açısal ilerleme açıkça tur miktarına bağlıdır. Şekil 12'de gösterildiği gibi, valfe bir kılavuz verilecekse, piston ileri hareketine başlamadan önce valfi hafifçe açmak için eksantrik şaft üzerinde daha da döndürülmelidir. Bu, eksantriği Şekil 11'de gösterilen _Ab_ konumuna getirir. Eksantriğin valfe gerekli kılavuz açıklığını vermek için döndürüldüğü açıya _kılavuz açısı_ denir ve _b'Ab_ açısıyla gösterilir. Şekil 11'e atıfta bulunarak, krank ile eksantrik arasındaki toplam açının 90 derece, artı açısal ilerleme ve kılavuz açısı olduğu görülür. Bu, toplam ilerleme açısıdır.
+
+[Resim: Şekil 12. Piston İleri Vuruşun Yeni Başlıyor]
+
+Pistonun ve valfin strokun farklı dönemlerindeki göreceli konumları Şekillerde gösterilmiştir. 12 ila 16. Şekil 12, pistonun ileri strokuna yeni başladığını, valfin giriş portunu kurşuna eşit bir miktarda açtığını gösterir. Krank yatay bir konumdadır ve eksantrik, valfi dış tur artı kurşuna eşit bir mesafede sağa doğru hareket ettirmeye yetecek kadar dikeyden hareket etmiştir. Oklar, buharın sol porta girdiğini ve sağ porttan dışarı atıldığını gösterir.
+
+[Resim: Şekil 13. Buhar Portu Tamamen Açık]
+
+Şekil 13'te, valfin buhar portunu tamamen açmak için yeterince ileri hareket ettiği ve pistonun belirtilen noktaya hareket ettiği görülür. Egzoz portu hala tamamen açıktır ve krank ile eksantriğin göreceli konumları sağdaki diyagramda gösterilmiştir. Şekil 14'te eksantrik yatay konumu geçmiştir ve valf geri strokuna başlamıştır, piston ise hala ileri hareket etmektedir. Giriş portu kapalı, kesme
+gerçekleşmiş ve buhar genişliyor. Egzoz portu hala kısmen açık.
+
+[Resim: Şekil 14. Valf Geri Vuruşta Başladı]
+
+[Resim: Şekil 15. Her İki Buhar Portu Kapalı]
+
+Şekil 15'te her iki port da kapalı ve sıkıştırma pistonun önünde gerçekleşirken
+genleşme pistonun arkasında devam ediyor. Serbest bırakma, Şekil 16'da piston strokunun sonuna ulaşmadan hemen önce gerçekleşir.
+Eksantrik krank artık dikey konumdadır, aşağıyı işaret eder ve
+egzoz sol taraftaki porttan gerçekleşmeye yeni başlıyor.
+Bu, tek bir strokun farklı aşamalarını tamamlar, piston orijinal pozisyonuna döndüğünde aynı özellikler tekrarlanır.
+Tur, ön, açısal ilerleme vb. koşulları, tasarımları ne olursa olsun
+pratik olarak tüm valfler için geçerlidir.
+
+[Resim: Şekil 16. Egzoz Başlıyor]
+
+Farklı Tipte Vanalar
+
+Aşağıda, Corliss hariç, düz sürgülü vananın modifikasyonları olan ve eylemlerinde benzer olan yaygın olarak kullanılan vanalardan bazıları gösterilmektedir.
+
+[Resim: Şekil 17. Piston Vanalı Motor]
+
+_Çift Portlu Dengeli Vana._--Bu tipte bir vana daha önce Şekil 2'de gösterilmiştir. Bu vana, iki bitmiş yüzeye sahip düz bir yapıya sahiptir ve vana yuvası ile bir plaka arasında çalışır, plakanın vanaya yaklaşık 0,002 inç uzakta tutan özel yatak yüzeyleri tarafından bastırılması önlenir. Vananın yapısı, açıldığında buharın soldaki oklarla gösterildiği gibi iki açıklıktan porta ulaşması şeklindedir. Bunun amacı, valfin hareketini azaltmak ve buharı kabul etme ve kesme eylemini hızlandırmaktır.
+
+[Resim: Şekil 18. Dört valfli Motorun Silindirinden Kesit]
+
+[Resim: Şekil 19. Farklı Corliss Valf Türleri]
+
+_Piston Valfi._--Şekil 17'de gösterilen piston valfi, Şekil 8'de gösterilen düz sürgülü valfle eyleminde aynıdır, ancak düz veya dikdörtgen olmak yerine kesiti daireseldir. Bu tip valf için iddia edilen avantaj, düz yüzeylere kıyasla silindirik yüzeylerin daha kolay takılmasıdır. Valf, aşındığında yenilenebilen özel burçlarda kayar. Piston valfleri ayrıca çift portlu olarak yapılır.
+
+[Resim: Şekil 20. Corliss Motorunun Boyuna Kesiti]
+
+[Resim: Şekil 21. Gridiron Vanası]
+
+_Dört Vanalı Tip._--Şekil 18, dört vanalı tipteki bir motorun
+silindiri ve vanaları boyunca yatay bir kesiti göstermektedir. Giriş vanaları
+resmin üst kısmında ve egzoz vanaları
+alt kısmında gösterilmiştir, ancak gerçekte bunlar silindirin yanlarındadır. Bu tür bir düzenlemenin avantajı, vanaların birbirinden bağımsız olarak ayarlanabilmesi ve silindirin iki ucu tarafından yapılan işin
+eşitlenmesidir. Kesme, sıkıştırma vb. gibi çeşitli olaylar, birbirlerine bakılmaksızın ve en iyi sonuçları verecek şekilde ayarlanabilir, bu da tek bir vana ile mümkün olmayan bir durumdur.
+
+_Gridiron Vana._--Bir vananın tasarımında aranan temel nesnelerden biri, giriş ve kesme noktalarında hızlı harekettir. Bu, vananın nispeten küçük bir hareket mesafesine sahip büyük bir port açıklığının açılmasını gerektirir. Şekil 21'de gösterilen ızgara vanası özellikle bu amaç için inşa edilmiştir. Bu vana dört vanalı tiptedir, kesitte bir buhar vanası ve bir egzoz vanası gösterilmiştir. Hem vana hem de yuvası bir dizi dar açıklık veya port içerir, böylece vananın kısa bir hareketi nispeten büyük bir açıklığı açar veya kapatır. Örneğin, resimdeki buhar vanasının 12 açıklığı vardır, böylece her biri 1/4 inç genişliğindeyse, vananın 1/4 inçlik bir hareketi 12 x 1/4 = 3 inç uzunluğunda bir alan açacaktır.
+
+[Resim: Şekil 22. Corliss Valf Dişlisine Sahip Monarch Motoru.--A,
+Çubuğu Eksantrik; B, Regülatör; C, Erişim Çubuğu; D, Radyal Kol; E, Buhar
+Valfi; F, Çan Krank; G, Bilek Plakası; H, Egzoz Valfi; K, Gösterge Paneli]
+
+_Corliss Valfi._--Corliss valfleriyle donatılmış bir motor silindirinin kesiti Şekil 20'de gösterilmiştir. Bu tip motorda dört silindirik valf vardır, üstte iki buhar valfi ve altta iki egzoz valfi. Bu düzenleme uygun drenajı sağlamak için kullanılır.
+Giriş ve egzoz valflerinin hareketi oklarla gösterilir,
+sol üst ve sağ alt valf açık ve
+diğer ikisi kapalıdır.
+
+Bu tip vananın farklı formlarının yan ve kesit görünümleri Şekil 19'da gösterilmiştir. Bunlar, Şekil 22'de gösterildiği gibi radyal kollar veya çubuklar vasıtasıyla bir bilek plakasına tutturulmuş kısa krank kolları vasıtasıyla çalıştırılır. Bilek plakasına ise, ana şafta tutturulmuş ve bir çubuk vasıtasıyla bilek plakasının üst kısmına bağlanmış bir eksantrik vasıtasıyla kısmi bir geri ve ileri dönüş verilir. Egzoz valfleri, bilek plakasının ve bağlantı çubuklarının hareketiyle hem açılır hem de kapanır. Buhar valfleri bu şekilde açılır, ancak dikey çubuklar vasıtasıyla valf gövdelerindeki düşme kollarına tutturulmuş gösterge kaplarının emişi ile kapatılır. [Resim: Şekil 23 ila 26. Corliss Valf Dişlisinin Hareketi]
+
+Buhar veya giriş valflerinin hareketi en iyi Şekillere referansla açıklanabilir. 23 ila 26. Şekil 23'e bakıldığında, _A_, valf gövdesi _V_ üzerinde gevşekçe dönen bir
+çan koludur. _A_'nın alt sol uzantısı, tutma kancası _H_'yi taşırken, üst uzantı, gösterildiği gibi
+bilek plakasına bağlıdır. Normalde kanca _H_ yay _S_ tarafından içeriye doğru bastırılır, böylece kancanın daha uzun kolu her zaman _C_ itme kamına bastırılır. Kam _C_ ayrıca _V_ valf gövdesi üzerinde döner ve Şekil 23'te ve Şekil 22'de gösterildiği gibi bir erişim çubuğu vasıtasıyla regülatöre bağlanır. Düşürme kolu _B_ valf gövdesine _V_ takılır ve noktalı çizgiyle gösterildiği gibi bir çubuk vasıtasıyla gösterge panosuna bağlanır. Bu ayrıca Şekil 22'de gösterilir. Düşürme kolunun ucu, tutma kancası _H_ ile temas eden bir çelik blok taşır (Şekil 23'te gölgelendirilmiştir). 
+
+Çalışırken, çan krank bilek plakasının ve bağlantı çubuğunun hareketiyle ok yönünde döndürülür. Çan krank dönerken, tutma kancası, düşürme kolu _B_ ucundaki çelik bloğa geçer ve onu kaldırır, böylece valfin açılmasına ve çan krank, tutma kancasının _H_ daha uzun kolu, Şekil 24'te gösterildiği gibi, çıkıntılı kam üzerindeki çıkıntı tarafından dışarı doğru bastırılana kadar bu şekilde kalmasına neden olur. Düşürme kolu artık serbest bırakıldığında, valf, gösterge panelinin emme kuvvetiyle hızla kapanır ve bu da kolu daha önce belirtilen çubuk aracılığıyla orijinal konumuna çeker.
+
+[Resim: Şekil 27. Corliss Motoru için Regülatör]
+
+Regülatör, kam _C_'nin hareketi yoluyla kesme noktasını değiştirerek çalışır. Kam, Şekil 25'te gösterilen konumdayken, kesme, Şekil 24'tekinden daha erken gerçekleşir. Kam ters yönde (saat yönünde) döndürülürse, kesme daha sonra gerçekleşir. Açıklanan komple valf mekanizmasının ayrıntılı bir görünümü, her bir parçanın uygun şekilde adlandırılmış olduğu Şekil 26'da monte edilmiş olarak gösterilmektedir. Regülatörün bir ayrıntısı Şekil 27'de gösterilmektedir. Hızdaki bir artış, dönen
+bilyelerin _BB_ dışarı doğru sallanmasına neden olur, böylece ağırlık _W_ ve manşon _S_ yükselir. Bu da sağ taraftaki görünümde gösterildiği gibi, kol _R_ ve bir
+çan krank bağlantısı aracılığıyla kolu _L_ çalıştırır. Motorun hızındaki bir değişiklik nedeniyle bilyelerin yukarı ve aşağı doğru hareketi, tam ve noktalı çizgilerle gösterildiği gibi kolu _L_ geriye ve öne doğru sallar. Bu kolun uçları, erişim çubukları aracılığıyla
+çıkarma kamlarına tutturulmuştur, bu Şekil 22'de daha net bir şekilde gösterilmiştir. Kol _L_ ile kam _C_ arasındaki bağlantılar, artan hız nedeniyle
+bilyelerin kaldırılmasının kesmeyi azaltacağı ve böylece motoru yavaşlatacağı şekildedir. Öte yandan, bilyelerin düşmesi aynı mekanizma aracılığıyla kesmeyi uzatacaktır.
+
+[Resim: Şekil 28. Corliss Motoru için Gösterge Paneli]
+
+[Resim: Şekil 29 ve 30. Ayarlanabilir Pistonun Plan ve Boylamasına Kesiti]
+
+Daha önce, tutma kancasından serbest bırakıldıktan sonra valfi aniden kapatmak için kullanılan gösterge paneli hakkında bilgi verilmişti. Gösterge paneli çubuğu Şekil 26'da gösterilmiş ve Şekil 23 ila 25'te noktalı çizgilerle gösterilmiştir. Gösterge panelinin bir formunun ayrıntılı görünümü Şekil 28'de gösterilmiştir. Valf açıldığında, kol _B_'ye bağlı çubuk, Şekil 23 ve 24, pistonu _P_ kaldırır, Şekil 28 ve altında kısmi bir vakum oluşur, bu da kol _B_ serbest bırakılır bırakılmaz pistonu ve bağlantı çubuğunu emişle aşağı çeker ve böylece valfi aniden ve şoksuz bir şekilde kapatır.
+Bu piston için emiş gücü ve hava yastığı, gösterge panelinin yanlarında gösterilen giriş ve çıkış valfleri tarafından düzenlenir.
+
+Motor Ayrıntıları
+
+Şekil 29 ila 37 çeşitli motor ayrıntılarını gösterir ve buhar motoru tasarımında yer alan daha önemli prensiplerden bazılarını basit bir şekilde gösterir.
+
+[Resim: Şekil 31. Tipik Bir Çapraz Kafa]
+
+[Resim: Şekil 32 ve 33. Bağlantı Çubuğundaki Aşınmayı Almak İçin Yaygın Olarak Kullanılan Yöntemler]
+
+Ayarlanabilir bir pistonun kısmi kesiti Şekil 29'da ve aynı pistonun uzunlamasına kesiti Şekil 30'da gösterilmiştir. Vurgulanması gereken temel özellik, aşınmayı almak ve pistonu sıkı tutmak için kullanılan otomatik genleşme yöntemidir. Pistonu ayarlarken,
+dış manşon veya halka _R_, _AA_ ayar vidaları aracılığıyla elle ayarlanır. Halka _R_, gerçek bir daire şeklinde genişletilebilecek şekilde birkaç bölümden yapılır. Daha fazla sıkılık, _R_'deki bir oluğa oturan ve bir dizi helezon yay tarafından silindirin duvarlarına hafifçe zorlanan _P_ paketleme halkası aracılığıyla aşırı sürtünme olmadan sağlanır, bunlardan biri _S_'de gösterilmiştir.
+Silindir ve piston aşındıkça, _A_ vidaları zaman zaman ayarlanır ve sıkılık için ince ayar
+paketleme halkası _P_ ve helezon yaylar _S_ tarafından yapılır.
+
+Çapraz kafa ile bağlantılı olarak ortaya çıkarılacak noktalar, hizalama ve ayarlama yöntemleridir. Tipik bir çapraz kafa, Şekil 31'deki çapraz ve uzunlamasına kesitlerde gösterilmiştir. Düz bir çizgide, uzunlamasına hizalama, _S_ ile gösterilen yatak yüzeylerinin veya pabuçlarının silindirik formu ile güvence altına alınmıştır. Bunlar bazen aynı sonucu güvence altına almak için V şeklinde yapılır. Bir çapraz kafadaki aşınma _S_ yüzeylerinde meydana gelir ve uzunlamasına kesitte gösterilen vida kama _W_ kullanılarak telafi edilir. Kayan yüzeyler aşındıkça, kamalar ayar vidaları vidalanarak ve kontrol somunları vasıtasıyla yerlerine sabitlenerek hafifçe içeri zorlanır.
+
+[Resim: Şekil 34. Corliss Tipi Motor İçin Dıştan Takma Yatak]
+
+[Resim: Şekil 35. Corliss Motorunun İç Yatağı ve Yatağı]
+
+Bir bağlantı çubuğundaki aşınmayı gidermek için yaygın olarak kullanılan yöntem Şekil 3'te gösterilmiştir. 32 ve 33. Bilek pimindeki aşınma, resimlerde _B_ olarak gösterilen sözde pirinçler tarafından alınır. İç pirinç, her iki durumda da uygun bir oluğa oturur ve bir kez yerine oturduğunda sabit tutulur. Dış pirinç ayarlanabilirdir ve bir veya daha fazla ayar vidasıyla çalıştırılan kayan bir kama ile bilek pimine doğru zorlanır. Şekil 32'de kama dikey bir konumda tutulur ve gösterildiği gibi iki vidayla ayarlanır. Şekil 33'te kullanılan düzenlemede kama, yatay bir konumda çubuktan geçer ve alt görünümde gösterildiği gibi tek bir vidayla ayarlanır. Gösterilen düzenlemelerle pirinçleri sıkmak çubuğun uzunluğunu kısaltır. Uygulamada, çubuğun her iki ucundaki kamalar, birinin sıkılması çubuğu kısaltacak ve diğerinin sıkılması çubuğu uzatacak şekilde yerleştirilir, toplam etki, bağlantı çubuğunu orijinal uzunluğunda tutmaktır. Yavaş devirli veya Corliss tipi bir motor için yaygın bir dıştan takma yatak biçimi Şekil 34'te gösterilmiştir. Hizalama ve aşınmayı alma için çeşitli ayarlamalar bu durumda dikkate alınan önemli noktalardır. Plaka _B_ taş temele gösterilmeyen ankraj cıvatalarıyla sabitlenmiştir. Yana doğru hareket, yataktaki yuvalardan geçen cıvataların _C_ gevşetilmesi ve _S_ vidaları aracılığıyla ayarlanmasıyla sağlanır. Dikey ayarlama, _A_ vidası tarafından gerektiği gibi içeri zorlanan kama _W_ kullanılarak elde edilir. Ağır hizmet tipi bir Corliss motorunun iç yatağı ve yatak parçası Şekil 35'te gösterilmiştir. Bu durumdaki yatak dört bölümden oluşur ve bu şekilde düzenlenmiştir, _yatay veya dikey ayarlama, ayar vidaları ve kontrol somunları kullanılarak _sağlanabilir. 
+Kayma valfli tipteki motorlar genellikle bir _fly-ball gaz kelebeği regülatörü veya bir şaft regülatörü ile sağlanır. Yaygın bir
+gaz kelebeği regülatörü biçimi Şekil 36'da gösterilmiştir. Hız arttıkça
+bilyeler _W_ merkezkaç kuvvetinin etkisiyle dışarı doğru fırlatılır ve
+üstlerine menteşelenmiş kollara bağlı olduklarından, herhangi bir dışarı doğru hareket
+onların yükselmesine neden olur. Bu, mili _S_ çalıştırır ve bu da gövde _B_'deki dengeli valfi kısmen kapatır ve böylece motora verilen buharı keser. Bir gaz kelebeği regülatörünün bir motorun çalışma diyagramı üzerindeki etkisi Şekil 38'de gösterilmiştir. Tam çizginin, motorun tam yükte çalıştığı diyagramın biçimini temsil etmesine izin verin. Şimdi, yükün bir kısmı atılırsa, motor hafifçe hızlanacak ve regülatörün açıklandığı gibi hareket etmesine neden olarak, giriş ve genleşme hatlarını noktalı çizgilerle gösterildiği gibi daha düşük konumlara getirecektir.
+
+[Resim: Şekil 36. Gaz Kelebeği Regülatörünün Genel Biçimi]
+
+Şaft regülatörü neredeyse evrensel olarak yüksek hızlı motorlarda kullanılır ve Şekil 37'de bir biçimde gösterilmiştir. Bu durumda, uygun kollar vasıtasıyla tekerleğin çevresine yakın tellerine menteşelenmiş iki ağırlıktan _W_ oluşur. Gösterildiği gibi kollara helezon yaylar _C_ tutturulmuştur. Kolların ağırlıkların ötesindeki uçları, kollar _L_ vasıtasıyla eksantrik diske bağlanır. Motor hızlandığında, ağırlıklar tekerleğin kenarına doğru dışarı doğru sallanma eğilimindedir, hareketin miktarı yayların gerginliğiyle düzenlenir
+_C_. Kollar dışarı doğru hareket ettikçe, uçlardaki kollar şaft üzerindeki eksantrik diski döndürür, bunun etkisi ilerleme açısını değiştirmek ve kesmeyi kısaltmak olur. Hız normalin altına düştüğünde, ağırlıklar merkeze doğru hareket eder ve kesme uzar. Bu regülatör formunun diyagram üzerindeki etkisi Şekil 39'da gösterilmiştir. Tam çizgi tam yükteki diyagramı, noktalı çizgi ise motor az yüklendiğindeki diyagramı temsil eder.
+
+[Resim: Şekil 37. Yüksek Hızlı Motor için Şaft Regülatörü]
+
+BÖLÜM IV
+
+BUHAR MOTORU EKONOMİSİ
+
+Buhar motoru ekonomisi genel başlığı altında, silindir yoğuşması, buhar tüketimi, verimlilik, genleşme oranı, az ve aşırı yükleme, yoğuşma vb. gibi öğeler ele alınır.
+
+Bir motorun çalışmasındaki buharın başlıca israfı, strokun ilk bölümündeki yoğuşmadan kaynaklanır. Bu yoğuşma, genleşme ve egzoz sırasında silindir duvarlarının ve kafasının ve pistonun nispeten soğuk buharla temas halinde olması ve bu nedenle önemli miktarda ısı vermesi nedeniyle oluşur. Yüksek bir sıcaklıkta taze buhar alındığında, silindir duvarlarını giren buharın sıcaklığına yakın bir sıcaklığa yükseltmek için hemen yeterli ısı verir. Bu, belirli miktarda buharın yoğuşmasıyla sonuçlanır, miktar ısı transferi için izin verilen zamana, açıkta kalan yüzey alanına ve silindir duvarlarının sıcaklığına bağlıdır. Genleşme süresince sıcaklık hızla düşer ve ıslak olan buhar büyük miktarda ısı emer. Egzoz valfi açıldıktan sonra, basınçtaki düşüş silindir duvarlarında toplanan nemin buhara dönüşmesini sağlar, böylece egzoz süresince çok az ısı aktarılır. Kazan basıncında taze buharın kabul edilmesiyle, silindir duvarlarında bir sis yoğuşur ve bu da ısının emilme hızını büyük ölçüde artırır. Silindir yoğuşmasıyla kaybedilen ısı miktarı en iyi şekilde pratik bir örnekle gösterilebilir. Bir beygir gücü dakikada 33.000 fit-libre
+işe veya saatte 33.000 x 60 = 1.980.000 fit-libreye eşittir. Bu 1.980.000 / 778 = 2.550 ısı birimine eşdeğerdir. 90 pound gösterge basıncındaki buharın gizli ısısı 881 ısı birimidir. Dolayısıyla, beygir gücü başına 2.250 / 881 = 90 pound basınçta 2,9 pound buhar gerekir,
+buhar kaybı olmadığı ve içerilen tüm ısının
+yararlı işe dönüştürüldüğü sürece. Aslında, ortalama basit yoğuşmasız yüksek hızlı
+motorda 30 ila 35 pound
+buhar gerekir.
+
+Silindir yoğuşması miktarını azaltmak için kullanılan üç çözüm vardır. İlk kullanılan yöntem buhar ceketleme olarak adlandırıldı ve
+silindirin yüksek basınçlı bir buhar tabakasıyla çevrelenmesinden oluşuyordu, fikir iç duvarları gelen buharın sıcaklığına neredeyse eşit bir sıcaklıkta tutmaktı. Bu düzenleme şu anda çok az kullanılıyor, hem işletme maliyeti hem de diğer yöntemlerle karşılaştırıldığında etkisiz olması nedeniyle.
+
+İkinci çözüm ise aşırı ısıtılmış buhar kullanımıdır. İç yüzeyler nem veya sis tabakasıyla kaplandığında ısı transferinin çok daha hızlı gerçekleştiği belirtilmiştir. Aşırı ısıtılmış buhar, verilen basınçta doyma noktasının önemli ölçüde üzerinde bir sıcaklığa sahiptir; bu nedenle, yoğuşma başlamadan önce belirli bir miktar soğutulması mümkündür. Bu, kabulden sonra kısa bir süre için ısı transferini azaltma etkisine sahiptir ve bu, doymuş buharla olağan koşullar altında yoğuşmanın en hızlı gerçekleştiği zamandır. Aslında, aşırı ısıtılmış buharın kullanımından elde edilen temel avantaj budur, ancak belirli bir hacim için daha hafiftir ve bu nedenle, silindiri kesme noktasına kadar doldurmak için daha az buhar ağırlığı gerekir. Aşırı ısıtmanın ekonomik derecesi, kesme noktasına kadar silindirin duvarlarında herhangi bir buharın yoğuşmasını önleyecek ve böylece bunları her zaman nemden uzak tutacak olan olarak kabul edilir. Aşırı ısıtılmış buhara yönelik itirazlar, içinden geçtiği kanallardaki kesme etkisi ve bu kadar yüksek bir sıcaklıkta valfleri ve silindiri yağlamada yaşanan zorluktur. Yoğuşma kayıpları için üçüncü ve en etkili çözüm, aşağıda ayrı bir başlık altında ele alınacak olan
+bileşikleştirme olarak bilinir.
+
+Çoklu Genleşme Motorları
+
+Silindir yoğuşmasının esas olarak, başlangıç ​​ve egzoz basınçlarındaki buharın sıcaklığındaki değişiklikten kaynaklanan silindirin iç yüzeylerindeki sıcaklık değişiminden kaynaklandığı açıklanmıştır. Bu nedenle, sıcaklık aralığı seri olarak çalıştırılan iki silindir arasında bölünürse, ilk veya yüksek basınçlı silindirde yoğuşan buhar tekrar buharlaştırılacak ve düşük basınçlı silindire buhar olarak geçirilecek ve burada egzoz borusuna geçerken tekrar yoğuşturulacak ve tekrar buharlaştırılacaktır. Teorik olarak, bu yoğuşma kaybını yarı yarıya azaltmalı ve
+üç silindir kullanılırsa, kayıp basit bir motordakinin yalnızca üçte biri olmalıdır. Gerçek uygulamada tasarruf bu kadar büyük değildir,
+ancak silindirler arasındaki uygun ilişkiyle bu sonuçlar yaklaşık olarak elde edilir.
+
+Genleşmenin iki aşamada gerçekleştiği motorlara bileşik motorlar denir. Üç aşama kullanıldığında, üçlü genleşmeli motorlar denir. Bileşikleştirme, bir motorun ilk maliyetine ve
+ayrıca sürtünmeye eklenir, bu nedenle kullanılacak en ekonomik silindir sayısını belirlerken, yoğuşma kaybı ile motorun artan maliyeti ve sürtünme kaybı arasındaki gerçek ilişki dikkate alınmalıdır.
+Enerji santrali çalışmalarında, artık büyük boyutlar için bileşik motorlar kullanma uygulaması vardır,
+üçlü genleşmeli motorlar ise
+pompa istasyonlarında daha yaygın olarak kullanılır. Çoklu genleşmeli motorların birçok tasarımında, silindirler arasında alıcı adı verilen
+odalar bulunur. Bu tip motorlarda egzoz, canlı buhar içeren pirinç bobinler vasıtasıyla alıcılarda sıklıkla yeniden ısıtılır.
+Çapraz bileşik motor durumunda, her zaman bir alıcı kullanılır.
+Tandem tasarımda genellikle atlanır, iki silindir arasındaki borular amaca uygun şekilde yapılır.
+
+Bileşik motorlardaki silindir hacimlerinin oranı farklı üreticilere göre değişir.
+Genel uygulama, düşük basınçlı
+silindirin hacmini yüksek basınçlının 2,5 ila 3 katı yapmaktır.
+Çoklu genleşmeli bir motordaki toplam genleşme oranı, her silindirdeki oranların çarpımıdır.
+Örneğin, bileşik bir motordaki her silindirdeki genleşme oranı 4 ise, toplam oran 4 x 4 = 16 olacaktır.
+Üçlü genleşmeli bir motorun etkisi bazen bileşik bir motorun düşük basınçlı silindirinin hacmini yüksek basınçlının 6 veya 7 katı yaparak bir ölçüde elde edilir. Bu düzenleme, yüksek basınç strokunun sonunda basınçta önemli bir düşüşe neden olur,
+bu da yüksek basınç silindirine genleşme oranını artırmadan önemli miktarda iş atılmasıyla sonuçlanır ve
+aynı zamanda motorda büyük bir toplam genleşme oranı güvence altına alınır.
+
+Dikey motorlarda, düşük basınç silindiri bazen silindir ve pistonun boyutunu küçültmek için iki parçaya bölünür.
+Bu düzenlemede normalden daha büyük bir alıcı kullanılır ve düşük basınç krankları genellikle birbirleriyle açılı olarak ayarlanır.
+
+Bileşikleştirmeyle elde edilen bir diğer avantaj, buharı tek silindirli bir motorda yapılabilenden daha fazla genişletme olasılığıdır,
+bu sayede buharda bulunan ısının daha büyük bir oranı faydalı iş olarak kullanılır. Bu ayrıca daha yüksek başlangıç ​​basınçlarının kullanılmasını da mümkün kılar, bu basınçlarda daha da fazla tasarruf sağlanır, çünkü
+basit motorlar için yaygın uygulama olan 80 veya 90 pound'dan, bileşik motorlar için tamamen pratik olan 120 ila 140 pound'a kadar basıncı yükseltmek için gereken yakıt miktarı nispeten azdır. Üçlü genleşmeyle, 180 pound veya daha fazla başlangıç ​​basınçları avantaj olarak kullanılabilir. Bileşikten elde edilen kazanç, aynı başlangıç ​​basıncında buhar alan basit yoğuşmalı motorlara göre yaklaşık %15'e ulaşabilir. Bileşik yoğuşmalı motorlar, basit yoğuşmasız motorlarla karşılaştırıldığında, ekonomideki kazanç %30 ila %40 arasında olabilir.
+
+TABLO IV. MOTORLARIN BUHAR TÜKETİMİ
+
++--------------------------+----------------------------------+
+| | Belirtilen Buhar Pound'u |
+| | Saat Başına Beygir Gücü |
+| Motor Türü +------------------+---------------+
+| | Yoğuşmasız | Yoğuşmalı |
++--------------------------+---------------+---------------+
+| { Yüksek hız | 32 | 24 |
+| Basit { Orta hız | 30 | 23 |
+| { Corliss | 28 | 22 |
+| | | |
+| { Yüksek hız | 26 | 20 |
+| Bileşik { Orta hız | 25 | 19 |
+| { Corliss | 24 | 18 |
++-------------------------+----------------+----------------+
+
+Buhar Tüketimi ve Genleşme Oranı
+
+Buhar tüketimine genellikle _su oranı_ denir ve belirtilen beygir gücü başına saatte gereken kuru buhar pound cinsinden ifade edilir. Bu miktar farklı motor tiplerinde ve ayrıca farklı koşullar altında çalışan aynı tür motorlarda büyük ölçüde değişir. Su oranı, esas olarak yoğuşmadan kaynaklanan "silindir kayıplarına" bağlıdır, ancak boşluk, silindir ve buhar sandığından gelen radyasyon ve valfler ve piston etrafındaki sızıntı etkileri toplam kaybın bir parçasını oluşturur. Tablo IV, tam yükte çalışan farklı motor tiplerinin ortalama su oranını verir.
+
+En ekonomik genleşme oranı büyük ölçüde motorun tipine bağlıdır. Basit motorlarda, oran daha büyük oranlarda aşırı silindir yoğuşması nedeniyle 4 veya 5 ile sınırlıdır. Bu, bu tip motorlar için başlangıç ​​basıncını ortalama yaklaşık 90 pound ile sınırlar. Bileşik motorlarda, genellikle 8 ila 10 arasında bir oran avantajlı olarak kullanılırken, üçlü genleşmeli motorlarda 12 ila 15 oranlarının iyi sonuçlar verdiği görülmüştür.
+
+[Resim: Şekil 38. Gaz Regülatörünün Gösterge
+Diyagramı Üzerindeki Etkisi]
+
+[Resim: Şekil 39. Şaft Regülatörünün Gösterge Diyagramı Üzerindeki Etkisi]
+
+[Resim: Şekil 40. Yoğuşturma ile Motor Gücünün Artırılması]
+
+[Resim: Şekil 41. Yoğuşturma ile Azalan Buhar Tüketimi]
+
+Bir motorun _termal verimliliği_, işe dönüştürülen ısının motora verilen toplam ısıya oranıdır. Bunu belirlemek için, buharın giriş anındaki _mutlak_ sıcaklığı
+ve egzoz basınçları bilinmelidir. Bu basınçlar bir
+ölçerle ölçülebilir ve karşılık gelen sıcaklıklar bir buhar tablosundan alınabilir veya
+daha iyisi, sıcaklıklar doğrudan bir termometre ile ölçülebilir.
+Mutlak sıcaklık, Fahrenheit (F.) cinsinden okumaya 461 eklenerek elde edilir.
+Termal verimlilik formülü şudur:
+
+_T__{1} - _T__{2}
+-----------------
+_T__{1}
+
+burada
+
+_T__{1} = başlangıç ​​basıncındaki buharın mutlak sıcaklığı.
+_T__{2} = egzoz basıncındaki buharın mutlak sıcaklığı.
+
+_Örnek_:--Bir motorun silindirine giren buharın sıcaklığı 340 derece Fahrenheit, egzoz buharının sıcaklığı ise 220 derece Fahrenheit'tir.
+Motorun termal verimliliği nedir?
+
+(340 + 461) - (220 + 461)
+Termal verimlilik = ------------------------- = 0,15
+(340 + 461)
+
+_Mekanik verimlilik_, verilen veya fren beygir gücünün belirtilen beygir gücüne oranıdır ve şu denklemle gösterilir:
+
+B. H. P.
+Mekanik verimlilik = --------
+I. H. P.
+
+burada B. H. P. = fren beygir gücü,
+I. H. P. = belirtilen beygir gücü.
+
+Tüm motorlar, tam yük adı verilen belirli bir geliştirilmiş belirtilen beygir gücünde en iyi ekonomiyi sağlayacak şekilde tasarlanmıştır. Elbette, özellikle elektrikli demiryolu ve haddehane gibi belirli durumlarda, pratik çalışma koşullarında yükte az veya çok dalgalanma olmalıdır. Bununla birlikte, normal yükün her iki tarafındaki belirli bir aralıktaki kayıplar, iyi tasarlanmış bir motorda büyük değildir. Yükü artırmanın etkisi, regülatörün türüne bağlı olarak başlangıç ​​basıncını yükseltmek veya kesmeyi uzatmaktır. Bu da, genleşmenin sonundaki son basıncı yükseltir ve egzozun öncekinden daha yüksek bir sıcaklıkta kaçmasına izin verir, böylece termal verimliliği düşürür. Yükü azaltmanın etkisi, ortalama etkili basıncı düşürmektir. (Bkz. Şekil 38 ve 39.) Bu, kısma motorlarında başlangıç ​​basıncının azalmasından ve otomatik motorda kesmenin kısalmasından kaynaklanır. Her durumda sonuç, silindir yoğuşmasında bir artıştır ve yük hafifledikçe, motorun sürtünmesi toplam belirtilen beygir gücünün daha önemli bir parçası haline gelir; yani yük hafifledikçe, mekanik
+verimlilik azalır.
+
+Yoğuşmanın Etkisi
+
+Motorun tasarımı söz konusu olduğunda, yoğuşmalı ve yoğuşmasız bir motor arasında hiçbir
+fark yoktur. Tek
+fark, ilk durumda motordan gelen egzoz borusunun atmosfere deşarj olmak yerine bir yoğuşturucuya bağlanmasıdır.
+
+Yoğuşturucu, egzoz buharını motordan geldiği kadar hızlı yoğuşturan, böylece kısmi bir vakum oluşturan ve geri basıncı azaltan bir cihazdır. Bir yoğuşturucunun bir motora bağlanması, Şekillerde gösterilen çalışma diyagramlarında gösterildiği gibi iki sonuç üretebilir. 40 ve 41. İlk durumda tam çizgi, yoğuşmasız çalışırken motorun diyagramını temsil eder ve diyagramın alanı yapılan işin bir ölçüsünü verir. Bir yoğuşturucu eklemenin etkisi, arka basıncı ortalama olarak inç kare başına 10 ila 12 pound azaltmaktır, bu da ortalama etkili basınca aynı miktarı eklemeye eşdeğerdir. Kesme aynı kaldığında bunun diyagram üzerindeki etkisi, Şekil 40'taki noktalı çizgiyle gösterilmiştir. Motorun strok başına gücü, noktalı çizgiyle çevrelenen alan ve orijinal diyagramın alt kısmı tarafından temsil edilen bir miktar artar. Geri basınçtaki azalmanın 10 pound olduğu varsayıldığında, ki bu en iyi uygulamada sıklıkla aşılır, yoğuşmalı çalıştırmayla elde edilen güç kazancı bu koşullar altında ortalama etkili basınçtaki artışla orantılı olacaktır. Örneğin, yoğuşmasız çalıştırıldığında ortalama etkili basınç 40 pound ise, yoğuşmalı çalıştırıldığında 40 + 10 = 50 pound'a çıkarılacaktır, yani öncekinden 50/40 = 1,25 kat daha fazladır. Bu nedenle, motor ilk koşulda 100 I. B. P. geliştirirse, ikinci koşulda nihai gücü 100 x 1,25 = 125 I. B. P.'ye çıkarılacaktır.
+
+Şekil 41, bir yoğuşturucu eklemenin ve diyagramın alanını öncekiyle aynı tutmak için kesmeyi kısaltmanın etkisini göstermektedir. Sonuç
+bu durumda, aynı belirtilen beygir gücünü geliştirmek için gereken buhar miktarında bir azalmadır. Bu koşullar altında ekonomideki teorik kazanç, basit motorlar için yaklaşık %28 ila %30 ve bileşik motorlar için %20 ila %22 arasında değişecektir. Gerçek kazanç, farklı yerlerde büyük ölçüde değişen
+yoğuşturucunun maliyetine ve çalışmasına bağlı olacaktır.
+
+BÖLÜM V
+
+BUHAR MAKİNELERİ TÜRLERİ
+
+Buhar motorlarını yapılarına göre sınıflandırmanın çeşitli yolları vardır, belki de en yaygın olanı hıza göredir.
+Bu sınıflandırma kullanılırsa, üç genel başlık altında gruplandırılabilirler: Yüksek hız, dakikada 300 ila 400 devir;
+orta hız, 100 ila 200 devir; ve düşük hız, 60 ila 90 devir; ancak hepsi strok uzunluğuna bağlıdır. Bu
+sınıflandırma yine valf mekanizmasına göre alt bölümlere ayrılmıştır,
+yatay ve dikey, basit ve bileşik, vb. Aşağıdaki resimlerde gösterilen farklı motor biçimleri, farklı amaçlar için yaygın olarak kullanılan temsili tipleri gösterir.
+
+Şekil 42'de gösterilen Ball motoru, doğrudan bağlı bir dinamoya sahip tipik bir yatay tek valfli yüksek hızlı motordur. Tasarımı çok
+serttir ve özellikle geliştirilen güç için kompakt bir yapıya sahiptir. Valf, Şekil 2'de gösterilen çift portlu tiptedir ve buhar basıncını valfin arkasından çıkarmak için bir kapak plakasına sahiptir. Piston, Şekil 29'da gösterilene benzer iç kaburgalara sahip içi boştur ve dikkatlice yerine oturtulmuş yaylı paketleme halkaları ile donatılmıştır. Regülatör, Şekil 37'de gösterildiği gibi iki yerine yalnızca bir ağırlığa sahip şaft tipindedir.
+
+[Resim: Şekil 42. Top Motoru]
+
+Şekil 43'te gösterilen Sturtevant motoru, özellikle elektrik işlerine uyarlanmış bir formda dikey yüksek hızlı bir motordur. Bu genel tasarıma sahip motorlar çeşitli boyutlarda yapılır ve genellikle küçük zemin alanı gerektirdiği için kullanılır. Valfler, regülatörler vb. gibi ayrıntılar açısından, yüksek hızlı yatay motordan önemli ölçüde farklı değildirler.
+
+Şekil 44, dört valfli tipte orta hızlı bir motoru göstermektedir.
+Bu motorlar ya düz valflerle ya da pozitif tahrikli döner veya Corliss valfleriyle yapılır, ikincisi gösterilen motorda kullanılır. Düşürme kolu ve gösterge paneli düzenlemesinin atlandığı, valflerin hem açılıp hem de kapatıldığı, bilek plakası ve bağlantı çubukları aracılığıyla fark edilecektir. Bu düzenleme, motorun daha yüksek hızda çalıştırılması nedeniyle kullanılır, normal Corliss valf dişlisi nispeten düşük hızlarla sınırlıdır. Bu markanın tüm motorları otomatik bir yağlama sistemiyle donatılmıştır. Yağ, bir filtreden geçerek motorun merkezinin üzerinde görülen merkezi bir rezervuara pompalanır ve buradan yerçekimiyle tüm yataklara iletilir. Pompa, rocker koluna bağlıdır ve bu nedenle onarımlar için kolayca erişilebilir. Şekil 45'te gösterilen standart Harris Corliss motoru, sınıfının tipik bir örneğidir. Kiriş tipi şasi ve taş bir temel üzerine monte edilmiş bir dıştan takma yatakla donatılmıştır. Valf dişlisi, tek bir eksantrik ve bilek plakasıyla tahrik edilen normal Corliss tipindedir. Gösterge paneli kapları, motorun yan tarafındaki zemine yerleştirilmiş dökme demir plakalara monte edilmiştir ve buradan kolayca incelenebilirler. Regülatör, daha önce açıklanan ve Şekil 27'de gösterilene benzer bir yapıya sahiptir. Şimdiye kadar açıklanan dört motor, genleşmenin tek bir silindirde gerçekleştiği basit motorlardır. Şekil 46 ila 48, bileşik motorun üç farklı türünü gösterir.
+
+[Resim: Şekil 43. Sturtevant Dikey Motor]
+
+Şekil 46'da gösterilen motor, tandem bileşik olarak bilinen bir türdür.
+Bu tasarımda silindirler sıralıdır, düşük basınçlı silindir yüksek basınçlı silindirin önündedir, gösterildiği gibi. Sadece bir piston çubuğu vardır, yüksek basınçlı ve düşük basınçlı pistonlar aynı çubuk üzerine monte edilmiştir.
+Bu tasarımdaki bir motorun genel görünümü, yüksek basınçlı silindirin eklenmesi dışında basit bir motorla aynıdır.
+Vali şaft tipindedir ve yüksek basınç silindirindeki kesmeyi değiştirerek çalışır. Düşük basınç silindirindeki kesme, yükü motorun taşıyacağı normal yük için iki silindir arasında eşit olarak bölmek üzere elle ayarlanır.
+
+[Resim: Şekil 44. Dört Valfli Tipin Orta Hızlı Motoru]
+
+Şekil 47'de gösterilen motor, dubleks bileşik olarak bilinir. Bu
+tasarımda, yüksek basınç silindiri, belirtildiği gibi doğrudan düşük basınç silindirinin altına yerleştirilir ve her iki piston çubuğu da aynı çapraz kafaya tutturulur. Motorun geri kalanı, aynı tipteki basit bir motorla neredeyse aynıdır.
+
+[Resim: Şekil 45. Harris Corliss Motoru]
+
+Şekil 48, özellikle haddehane işleri için yapılmış ağır tasarımlı bir çapraz bileşik motoru gösterir. Bu düzenlemede, her ikisinde de ortak olan ana şaft ve volan hariç, iki tam motor kullanılır. Motor, yüksek basınçlı silindirin bir alıcı aracılığıyla düşük basınca egzoz edeceği şekilde borulanmıştır, bağlantı zeminin altındadır ve çizimde gösterilmemiştir. Çapraz bileşik motorun diğer formlara göre avantajlarından biri, krankların 90 derece ayrı ayarlanabilmesidir, böylece biri ölü noktadayken diğeri yaklaşık olarak en fazla çaba sarf ettiği konumdadır.
+
+Motor Seçimi
+
+Motor seçimi, farklı durumlarda önemli ölçüde değişen bir dizi koşula bağlıdır. Bunlar arasında ilk maliyet, tesisin boyutu ve karakteri, mevcut alan, buhar ekonomisi ve egzoz buharının kullanımı sayılabilir. İlk maliyet sorusu genellikle işletmeyle bağlantılı olarak ele alınır ve faiz ve amortisman gibi kalemler, yüksek fiyatlı motorlarla buharda yapılan tasarrufla karşılaştırılır.
+
+[Resim: Şekil 46. Skinner Tandem Motoru]
+
+[Resim: Şekil 47. Amerikan Bilyalı Dubleks Bileşik Motor]
+
+Sabit motorun temel kullanımı, elektrik jeneratörlerinin çalıştırılması ve dükkanlarda ve fabrikalarda tahrik gücünün sağlanmasıyla sınırlıdır. Bu kullanımlardan ilki için, ofis binaları gibi zemin alanının sınırlı olduğu ve gücün yaklaşık 100 I. H. P.'yi aşmadığı durumlarda, basit yoğuşmasız yüksek hızlı motor muhtemelen diğer tüm tiplerden daha fazla kullanılır. Daha büyük tesisler için, genellikle orta hızlı dört valfli motorun değiştirilmesiyle tasarruf sağlanabilir. Bu iş sınıfındaki basit ve bileşik motorlar sorusu büyük ölçüde egzoz buharının kullanımına bağlıdır. Kış aylarında egzoz neredeyse her zaman ısıtma sisteminde kullanılır, bu nedenle buhar ekonomisi büyük önem taşımaz ve basit motor tüm amaçlara daha düşük bir ilk maliyetle cevap verir. Isıtma sezonunun nispeten kısa ve yakıtın yüksek olduğu yerlerde, yük açısından ekonomik aralıklarında çalıştırıldıklarında daha fazla buhar ekonomisi sağladıkları için bileşik motorları kullanmanın belirgin bir avantajı vardır.
+
+[Resim: Şekil 48. Monarch Corliss Motoru]
+
+Düşük işletme maliyetinin her zaman ilk sırada olduğu büyük merkezi tesislerde, orta veya düşük hızda en iyi sınıf bileşik yoğuşmalı motorları kullanmak yaygın bir uygulamadır. Bu iş sınıfında sıklıkla Corliss valf dişlisiyle donatılmış olanlar bulunur.
+Bolca zemin alanının olduğu atölyeler ve fabrikalar için güç üretiminde, Corliss tipi düşük hızlı motorlar en yaygın olarak kullanılır. Alan sınırlı olduğunda, orta hızlı dört valfli motor kullanılarak çok tatmin edici sonuçlar elde edilebilir. Herhangi bir özel durum için bir motora karar verirken, sorun her yönden incelenmeli ve en fazla sayıda gereksinimi en iyi şekilde karşılayan seçilmelidir.
+
+VI. BÖLÜM
+
+BUHAR MOTORU TESTİ
+
+Bir buhar motorunun olağan testinde aranan temel bilgi şudur:
+
+1. Belirli standart koşullar altında geliştirilen belirtilen beygir gücü.
+
+2. Mekanik verimliliğin belirlendiği motorun sürtünmesi.
+
+3. Belirtilen beygir gücü başına buhar tüketimi.
+
+4. Valflerin genel eylemi.
+
+5. Strokun farklı dönemlerinde silindirdeki basınç koşulları.
+
+Verimlilik testinin nihai amacı, kazan fırınlarında yakılan her bir pound kömür başına motorun verdiği
+ayak-libre işi belirlemektir.
+
+Her bir pound kömür başına buharlaştırılan kuru buharın poundunu bulmanın genel yöntemi, MAKİNA'NIN
+Referans Serisi No. 67, "Kazanlar"da "Kazan Testi" başlığı altında ele alınmıştır.
+Bu nedenle, mevcut durumda, yalnızca süreci bir adım daha ileri götürmek ve her bir pound buhar başına geliştirilen ayak-libre işi belirlemek gerekir.
+
+Motor testinde kullanılan cihaz, kazan testinde kullanılan cihaza ek olarak, bir buhar motoru _göstergesi_ ve diyagramları almak için bir indirgeme cihazı ve daha sonra bunları ölçmek için bir _planimetre_ içerir. Eğer
+test kazan testinden bağımsız olarak yapılırsa, donanıma buhardaki nem miktarını ölçmek için bir kalorimetre eklenmelidir.
+
+Bir diyagramın, pistonun bir vuruşu sırasında bir buhar motoru silindirinde yapılan işi grafiksel olarak temsil edecek şekilde nasıl yapılabileceği daha önce gösterilmiştir. Şimdiye kadar gösterilen diyagramlar, basınç ve pistonun kat ettiği mesafe arasındaki varsayılan ilişkilerden oluşturulmuş teorik veya ideal kartlardır. Bir gösterge, çalışma koşulları altında bir motor silindirinde gerçekte ne olduğunu gösteren bir
+diyagram oluşturmak için kullanılan bir cihazdır. Böyle bir diyagram, kabul, kesme ve serbest bırakma noktalarını gösterir ve vuruşun tüm noktalarında pistonun her iki tarafına etki eden basınçları doğru bir şekilde gösterir.
+
+Yaygın bir buhar makinesi göstergesi şekli Şekil 49'da gösterilmiştir. _C_ silindiri, _E_ noktasında motor silindirinin bir ucuyla uygun bir boru bağlantısıyla iletişim halindedir ve hızlı açılıp kapanan bir musluk veya valfle donatılmıştır. _C_ silindiri, _piston içerir ve bunun üzerine, _pistonun alt tarafına etki eden kare inç başına belirli bir basıncın _yayı belirli ve bilinen bir miktarda sıkıştıracağı kadar güçlü bir helezon yay yerleştirilmiştir. _C_ silindirinin kapağından veya kafasından uzanan, aşağıdaki pistona bağlı bir sap vardır ve _P_ kalem ucuyla uygun kollarla bağlanmıştır. _Kolların düzenlemesi, pistonun belirli bir şekilde yükselmesinin _P_ noktasının orantılı bir miktarda dikey bir çizgide yukarı doğru hareket etmesine neden olacak şekildedir. Pistonun üstünde kullanılan yaylar mukavemet açısından farklılık gösterir ve 20 pound, 40 pound, 60 pound vb. olarak adlandırılır. 20 poundluk bir yay, _C_ silindirindeki pistonun altında etki eden inç kare başına 20 poundluk bir basıncın kalem ucunu 1 inç yükselteceği kadar güçlüdür. 40 poundluk bir yayda, kalemi 1 inç yükseltmek için inç kare başına 40 poundluk bir basınç gerekecektir ve yayın diğer mukavemetleri için de bu böyle devam eder. Boş tambur _D_, merkezindeki dikey bir sap üzerinde ileri geri döner, hareketi motorun çapraz kafasına uygun bir indirgeme hareketi vasıtasıyla tutturulmuş olan _H_ ipi tarafından üretilir. Tambura dönüş hareketi, içinde bulunan ve gösterilmeyen bir bobin yaydan elde edilir. Diyagramın çizileceği kağıt, _D_ tamburunun etrafına sarılır ve _F_ yay klipsiyle yerinde tutulur.
+
+Bir gösterge kartı alırken, strok uzunluğu tamburun sınırlarına gelecek şekilde azaltılmalıdır, yani _D_ tamburunun çevresinden biraz daha az olmalıdır. Uygulamada, diyagram genellikle 3 ila 4 inç uzunluğunda yapılır. Motorun strokunu daha küçük ölçekte yeniden üretmek için kullanılan bir dizi cihaz vardır. En
+doğru olanı, kordonun çapraz kafadan gösterge tamburuna giderken geçtiği bir dizi kasnaktan oluşur.
+
+Gösterge, kafalara yakın bir şekilde açılan özel açıklıklar vasıtasıyla motor silindirine bağlanır ve kullanılmadığında musluklar vasıtasıyla kapatılır veya kapatılır. Bazı durumlarda iki gösterge kullanılır, biri silindirin her iki ucuna bağlanırken, diğerlerinde tek bir gösterge, üç yollu bir musluk vasıtasıyla her iki uca da bağlanabilecek şekilde borulanarak amaca hizmet eder. Gösterge bağlandıktan ve kordon tambura uygun hareketi sağlayacak şekilde ayarlandıktan sonra, bir kart takılır, ardından üç yollu musluk açılır ve göstergeyi ısıtmak için buharın içinden geçmesine izin verilir. Musluk şimdi kapatılır ve kalem, sözde atmosferik çizgiyi elde etmek için tambura bastırılır. Musluk tekrar açılır ve kalem, motorun bir tam dönüşü sırasında tambura hafifçe bastırılır. Daha sonra musluk, göstergeyi silindirin diğer ucuna bağlamak için atılır ve işlem tekrarlanır.
+
+[Resim: Şekil 49. Buhar Motoru Göstergesi]
+
+Bu şekilde elde edilen gösterge kartı Şekil 50'de gösterilmiştir. Bazen iki ucun diyagramlarını ayrı kartlarda almak tercih edilir, ancak ikisini de aynı kartta almak daha basittir ve ayrıca silindirin iki ucunun çalışmasını karşılaştırmak daha kolaydır.
+
+Pratik amaçlar için bir kartın analizi Şekil 51'de gösterilmiştir.
+Örneğin, diyagramın uzunluğunun 3,6 inç olduğunu varsayalım; kesme noktasına olan mesafe 1,2 inç; ve serbest bırakma noktasına olan mesafe 3,3 inç. Daha sonra, 1,2'yi 3,6'ya bölerek, kesmenin strokun 1,2 / 3,6 = 1/3'ünde gerçekleştiği bulunur.
+Serbest bırakma strokun 3,3 / 3,6 = 0,92'sinde gerçekleşir. Sıkıştırma, strokun
+(3,6 - 0,5) / 3,6 = 0,86'sında başlar. Şekil 50 ve 51'de gösterilen diyagramlar yoğuşmasız motorlardan alınmıştır ve bu nedenle geri basınç hattı, belirtildiği gibi atmosferik hattın
+üzerindedir.
+
+Gösterge diyagramı, motorun gücünün daha önce verilen
+
+denklemden bulunabileceği ortalama etkili
+basıncı belirlemenin bir yolunu verir
+
+_APLN_
+I. H. P. = ------.
+33.000
+
+Ortalama etkili basıncı belirleme yöntemi şu şekildedir:
+
+Öncelikle, bir
+planimetre (daha sonra açıklanacak bir alet) vasıtasıyla kartın alanını kare inç cinsinden ölçün ve bu alanı
+inç cinsinden uzunluğa bölün. Bu, ortalama ordinatı verir; ortalama ordinat,
+sırasıyla, kullanılan yay kuvvetiyle çarpıldığında, kare inç başına pound cinsinden ortalama etkili basıncı verecektir. Örneğin, Şekil 51'de gösterilen kartın 60 poundluk bir yay ile alındığını ve
+alanın bir planimetre ile ölçüldüğünde 2,6 inç kare olduğunu varsayalım.
+Alan uzunluğa bölündüğünde ortalama ordinat olarak 2,6 / 3,6 = 0,722 inç elde edilir ve bu, yayın kuvvetiyle çarpıldığında 0,722 x 60 = inç kare başına 43,3 pound ortalama etkili basınç elde edilir.
+
+[Resim: Şekil 50. Tipik Bir Gösterge Diyagramı]
+
+Uygulamada, silindirin iki ucundan alınan diyagramlar genellikle valf eylemindeki eşitsizlikler nedeniyle az veya çok değişir. Yine, krank ucundaki pistonun etkin alanı, piston çubuğunun alanına eşit bir miktar kadar
+kafa ucundakinden daha azdır. Bu
+nedenlerden dolayı, tüm
+kartların ortalama etkin basıncını ayrı ayrı hesaplamak ve formülde kullanılmak üzere çeşitli
+hesaplamaların ortalamasını almak gelenekseldir. Piston alanının düzeltilmiş değeri, daha önce
+belirtildiği gibi, (2_A_ - _a_)/2'ye eşittir; burada _A_ pistonun alanı ve _a_ piston çubuğunun alanıdır. Bu değerleri formülde _A_ ve _P_ yerine, strok uzunluğu ve dakikadaki ortalama devir sayısıyla birlikte koyarak, belirtilen beygir gücü
+kolayca
+hesaplanabilir.
+
+Sıradan bir test yaparken, gerekli doğruluk oranına bağlı olarak, birkaç saat boyunca 10 dakikalık aralıklarla silindirin her iki ucundan diyagramlar alınır. Motorun devirleri, her bir çift kart alındığında iki veya üç dakikalık periyotlar halinde sayılır veya daha da iyisi, çalışma için otomatik bir sayaç kullanılır ve buradan dakikadaki ortalama devir sayısı belirlenebilir.
+
+[Resim: Şekil 51. Hesaplama Yöntemini Gösteren Diyagram]
+
+Motorun sürtünmesi, "hafif seyir halindeyken", yani kayış atılmış veya motor dinamodan ayrılmışken, doğrudan bağlı bir donanımın parçasıysa, bir çift kart alınarak belirlenir.
+Sürtünme yükü daha sonra gösterge kartlarından beygir gücü olarak hesaplanır ve yüklendiğinde belirtilen beygir gücünden çıkarılır. Böylece verilen veya fren beygir gücünü elde ederiz. Verilen beygir gücünün belirtilen beygir gücüne bölünmesi mekanik verimliliği verir. Bu, aşağıdaki gibi bir denklem biçiminde ifade edilebilir:
+
+I. H. P. - sürtünme kaybı
+------------------------- = mekanik verimlilik.
+I. H. P.
+
+Planimetre
+
+Planimetre, genel olarak alanları ölçmek ve
+özellikle gösterge kartlarının alanlarını ölçmek için kullanılan bir araçtır. Bazı formlar, göstergede kullanılan yay ile uyumlu olacak şekilde ölçeği değiştirerek, hesaplama yapmadan, doğrudan ortalama etkili basıncı verir. Bu tür bir
+planimetre Şekil 52'de gösterilmiştir. Bu aleti kullanma yöntemi şu şekildedir. Kolu _BD_, başparmak vidası _S_ vasıtasıyla
+kart _EF_'nin uzunluğuna eşitleyin ve tekerleği göstergede kullanılan yay ile uyumlu olması gereken ölçekte sıfıra ayarlayın. Sonra, _D_ noktasını ölçülecek alanın yaklaşık ortasına yerleştirin ve _C_ noktasını, _CB_ kolu _BD_ ile yaklaşık olarak dik açıda olacak şekilde ayarlayın. Sonra _D_ noktasını diyagramın sol üst köşesine getirin ve sol elinizle _C_ noktasını tekerlek tam olarak ölçekteki sıfır noktasına gelene kadar sağa veya sola hareket ettirin; sonra noktayı kağıda sıkıca bastırın. Şimdi, _D_ noktasıyla diyagramın ana hatları boyunca soldan sağa doğru ilerleyin ve tam olarak başlangıç ​​noktasında bitirin. Ortalama etkili basınç, şimdi tekerleğin kenarının karşısındaki ölçekten okunabilir.
+
+Çok doğru sonuçlar gerektiğinde, _D_ izleme noktası diyagramın üzerinden birkaç kez geçirilebilir ve okuma, bu şekilde geçirildiği
+sayıya bölünebilir. Kısa kartlarda, 3 inç ve daha kısa uzunlukta, _BD_ kolunu kartın iki katı uzunluğunda yapmak ve diyagramın etrafında iki kez dolaşmak, ilk durumda olduğu gibi doğrudan ölçekten okuma almak en iyisidir.
+
+Buhar Tüketiminin Belirlenmesi
+
+Bir motorun su oranının doğru bir şekilde belirlenmesi istendiğinde,
+makinenin referans serisi No. 67, "Kazanlar"da açıklandığı gibi, motordaki testle eş zamanlı olarak bir kazan testi yapılmalıdır.
+Bu testten sağlanan kuru buharın pound'ları belirlenebilir.
+Çalışma için saatte sağlanan buharın ortalama ağırlığı ve aynı süre içinde geliştirilen ortalama belirtilen beygir gücü bilindiğinde, motorun su oranı kolayca
+hesaplanabilir. Bazen belirli bir tip ve marka için ortalama silindir yoğuşması belirli standart
+koşullar için bilinir. Bu durumda, test sırasında motorun ortalama çalışmasını temsil eden bir gösterge
+diyagramından bir yaklaşım yapılabilir.
+
+[Resim: Şekil 52. Planimetrenin Genel Yapısı]
+
+Bir diyagram, strokun herhangi bir noktasındaki basıncı ve hacmi doğrudan ölçerek gösterir ve herhangi bir basınç için kübik fit başına buhar ağırlığı doğrudan bir buhar tablosundan alınabilir. Daha sonra, strokun herhangi bir noktasındaki buhar ağırlığını bulma yöntemi, kesme noktasında veya daha sonra alınması gereken boşluk ve piston yer değiştirmesi dahil olmak üzere kübik fit cinsinden hacmi bulmak ve bunu diyagramda ölçülen belirli noktadaki basınca karşılık gelen kübik fit başına ağırlıkla çarpmaktır. Bu, sıkıştırma için kullanılan buharı içerdiğinden, strok başına kullanılan gerçek ağırlığı elde etmek için aşağıdaki gibi düzeltilmelidir. Şekil 53'teki _Q_ gibi sıkıştırma eğrisinde uygun bir nokta alın; mutlak basıncını vakum hattından _OX_ ölçün ve bu noktaya kadar olan buhar ağırlığını hesaplayın. Bu ağırlığı genleşme hattındaki verilen nokta için yukarıda hesaplanandan çıkarın ve sonuç strok başına kullanılan buhar ağırlığı olacaktır. Genleşme hattındaki bu amaç için kullanılacak en iyi nokta, hem maksimum sızıntı miktarı gerçekleştiği hem de giriş sırasında yoğuşan buharın bir kısmının yeniden buharlaşması nedeniyle tahliyeden hemen öncedir. Bir gösterge diyagramından buhar tüketiminin gerçek hesaplanması en iyi şekilde pratik bir çizimle gösterilebilir.
+
+_Örnek_--Şekil 53'ün dakikada 150 devir hızında çalışan 16 x 30 inçlik yoğuşmasız bir motorun baş ucundan alınmış bir diyagramı temsil ettiğini varsayalım; kart 60 poundluk bir yay ile alınmıştır; motorun boşluğu %6'dır; ortalama silindir yoğuşması toplam buhar tüketiminin %20'sidir; piston çubuğunun çapı 3 inçtir.
+
+[Resim: Şekil 53. Buhar Tüketimini Hesaplama Diyagramı]
+
+Kartı bir planimetre ile ölçmek, ortalama etkili basıncın
+48,2 pound olduğunu gösterir. Pistonun alanı 201 inç karedir; piston çubuğunun alanı 7 inç karedir; dolayısıyla, ortalama piston alanı =
+((2 x 201) - 7)/2 = 198 inç kare, yaklaşık olarak. O zaman
+
+198 x 48,2 x 2,5 x 300
+I. H. P. = ----------------------- = 217.
+33.000
+
+Şekil 53'te, _GH_ atmosferik çizgidir; _OX_ vakum veya sıfır basınç çizgisidir, _GO_ = 14,7 pound olacak şekilde çizilmiştir; ve _OY_
+boşaltma çizgisidir, bu nedenle _ON_ = 0,06 _NX_ olacak şekilde çizilir. _PQ_ çizgisi _OX_'den sıkıştırma çizgisinin bir noktasına, örneğin _Q_'ya çizilir. _C_'den, genleşme çizgisinin serbest bırakılmadan hemen önceki bir noktasından, _CF_ çizgisi _OX_'e dik olarak çizilir. Aşağıdaki boyutlar şimdi gerçek diyagramdan (resimde gösterilen değil) dikkatlice ölçülür ve sonuçlar verilir:
+
+_OX_ = 3,71 _OP_ = 0,42
+_NX_ = 3,50 _CF_ = 0,81
+_OF_ = 3,20 _QP_ = 0,81
+
+60 poundluk bir yayla alınan gösterge diyagramında, tüm
+dikey mesafeler, yüksekliğin inç başına 60 pound oranında, inç kare başına poundu temsil eder. Motorun stroku 30 inç veya 2,5 fittir. Diyagramın _NX_ uzunluğu 3,5 inçtir; dolayısıyla, her inç uzunluk 2,5/3,5 = 0,71 fiti temsil eder. Yukarıdakilerden, Şekil 53'teki dikey mesafelerin, inç kare başına pound basınca düşürülmesi için 60 ile çarpılması gerektiği ve yatay mesafelerin, fite düşürülmesi için 0,71 ile çarpılması gerektiği açıktır. Bu indirgemeleri yaparak şunu elde ederiz:
+
+_OX_ = 2,63 fit. _OP_ = 0,30 fit.
+_NX_ = 2,49 fit. _CF_ = 48,6 pound.
+_OF_ = 2,27 fit. _QP_ = 48,6 pound.
+
+Silindirin baş ucundan bir kart alındığından piston çubuğu için düzeltmelerden kaçınmak için alan 201 inç kare veya 1,4 fit karedir. Yukarıdaki verilerle silindirdeki buharın hacmi ve ağırlığı stroktaki herhangi bir noktada hesaplanabilir. Piston _C_ konumundayken hacim 1'dir. 4 x 2,27 = 3,18 kübik fit. Piston _Q_ konumundayken hacim 1,4 x 0,30 = 0,42 kübik fittir. Bir buhar
+tablosundan 48,6 pound mutlak
+basınçta bir kübik fit buharın ağırlığının 0,116 pound olduğu bulunur. Bu nedenle, piston _C_ konumundayken mevcut buhar ağırlığı 3,18 x 0,116 = 0,369 pound'dur. Piston _Q_ konumundayken mevcut buhar ağırlığı 0,42 x 0,116 = 0,049 pound'dur. Yani, silindirdeki buharın serbest bırakma sırasındaki ağırlığı 0,369 pound ve sıkıştırma için egzoz kapanışında tutulan ağırlık 0,049 pound'dur.
+
+Bu nedenle, strok başına boşaltılan ağırlık 0,369 - 0,049 = 0,32 pound'dur. Saat başına vuruş sayısı 150 x 2 x 60 = 18.000'dir, buradan diyagramda açıklanan buharın 18.000 x 0,32 = 5760 pound veya 5760 / 217 = 26,5 pound / saat olarak bulunduğu bulunur.
+Bu tip motor için silindir yoğuşması toplam buhar tüketiminin %20'si ise, su oranı 26,5 / 0,8 = 33,1 pound / saat olacaktır.
+
+Mevcut durumda, basitlik sağlamak için, piston çubuğu hariç, kafa ve krank ucu diyagramlarının tamamen aynı olduğu varsayılmıştır. Normalde, yukarıdaki işlem hem kafa hem de krank uçları için yapılmalı ve sonuçlar ortalama alınmalıdır.
+
+.
+*** END OF TURKISH PART ***
+***END OF THE PROJECT GUTENBERG EBOOK STEAM ENGINES***
+
+
+******* This file should be named 34701.txt or 34701.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/3/4/7/0/34701
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
