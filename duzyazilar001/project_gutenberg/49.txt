@@ -1,0 +1,1584 @@
+*** START OF AKTAHEADER ***
+Başlık: Surfing the Internet (İnternette gezinme)
+Yazar: Jean Armour Polly
+Yayın Tarihi: January, 1993
+Dil: English
+Link: https://www.gutenberg.org/ebooks/49
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Surfing the Internet, by Jean Armour Polly
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Surfing the Internet
+
+Author: Jean Armour Polly
+
+Posting Date: December 23, 2011 [EBook #49]
+Release Date: January, 1993
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SURFING THE INTERNET ***
+
+*** START OF TURKISH PART ***
+İNTERNET'te Sörf: Bir Giriş Sürüm 2.0.2 15 Aralık 1992
+
+c. 1992 Jean Armour Polly. Diğer yazarlardan alıntılanan materyal, bu yazarların kamuya açık İnternet gönderilerinden derlenmiştir. Derlenen alıntılar için hiçbir telif hakkı iddiası yapılmamıştır. Kâr amacı gütmeyen eğitim amaçları için yeniden basım izni verilmiştir. Bu derlemeyi yararlı bulursanız lütfen bana bildirin.
+Bu derlemenin ilk (çok daha kısa) versiyonu Haziran 1992'de Wilson Kütüphane Bülteni'nde yayınlanmıştır. Bu belgeyi çoğaltırsanız lütfen bu telif hakkı/kopya bildiriminin tamamını ekleyin. Güncellemeler ftp'lenebilir:
+
+ftp nysernet.org (192.77.173.2)
+login anonymous
+password name@machine.node
+cd /pub/resources/guides
+
+Lütfen surfing.the.internet'in en güncel versiyonunu seçin.
+
+Lütfen güncellemeleri ve düzeltmeleri şu adrese gönderin: jpolly@nysernet.org
+
+Bugün Minnesota, Teksas, Kaliforniya, Cleveland, Yeni Zelanda,
+İsveç ve İngiltere'ye seyahat edeceğim. Çılgınca bir şekilde bavul hazırlamıyorum ve
+sık uçuş milleri almayacağım. Aslında, Macintosh'umda kakao yudumluyorum.
+Seyahatlerim elektronik olacak, masamdaki bilgisayarı, iletişim
+yazılımını, bir modemi ve standart bir telefon hattını kullanacağım.
+
+İnternet'i, bilgisayarların küresel ağını ve bunların
+birbirleriyle olan bağlantılarını kullanacağım, bu sayede okyanuslar ve
+kıtalar arasında taş gibi sıçrayıp
+uzak yerlerdeki bilgisayarları kontrol edeceğim.
+Antarktika'yı henüz "ziyaret etmedim", ancak orada bir ana bilgisayarın
+kullanılabilir hale gelmesi an meselesi!
+
+Bu kısa, teknik olmayan makale, İnternet
+iletişimlerine ve kütüphanecilerin ve kütüphanelerin net
+bağlantısından nasıl faydalanabileceklerine dair bir giriş niteliğindedir. Aşağıda elektronik posta, tartışma listeleri, elektronik dergiler ve metinler ve araştırmaya istekli olanların erişebileceği
+kaynaklar hakkında açıklamalar yer alacaktır. İnternetin inşası hakkında tarihsel ayrıntılar ve ağ hızı ve bant genişliğiyle ilgili teknik ayrıntılar
+bu parçanın kapsamı dışındadır.
+
+Ne Var Orada?
+
+Bir radyo alıcısı kullanana kadar,
+programlama, müzik ve sizin için başka türlü görünmez olan
+bilgi zenginliğinin farkında olmazsınız.
+Bilgisayar ağları da hemen hemen aynıdır. Dünya çapında yaklaşık bir milyon kişi
+her gün İnternet'i kullanmaktadır. Bilgi paketi trafiği
+her ay %12 oranında artmaktadır.
+
+Mark K. Lottor'un Ocak 1992 tarihli bir raporuna (Ağ Çalışma Grubu Yorum Talebi: 1296) göre yaklaşık 727.000 ana bilgisayar birbirine bağlıdır.
+Peki, tüm bu heyecan ne? Bu fiberde, kabloda ve eterde ne var ki?
+
+Elektronik maceramda İngiltere'deki Liverpool'daki Üniversite Kütüphanesi'ndeki çevrimiçi kataloğa göz attım ve kütüphaneciye "Liverpool, New York'tan Merhaba" e-postası bıraktım.
+
+Stanford'un SUMEX arşivinden yeni bir Macintosh anti-virüs yazılımı indirdim.
+
+Sonra bu makale için gereken bilgileri bulmak için birkaç veritabanını kontrol ettim ve
+bugünün haberlerini taradım.
+
+Doğu'daki ve San Francisco Körfez bölgesindeki hava tahminlerine baktım ve bu bilgileri uyandığında okuyacak olan San Jose'deki bir arkadaşıma ilettim.
+İnternet asla kapanmıyor!
+
+Daha sonra İsrail, Kore, İngiltere, Avustralya ve ABD'nin dört bir yanındaki diğer kütüphanecilerden gelen elektronik postaları okudum.
+Virüslerin kamu bilgisayarlarından nasıl uzak tutulacağı,
+CDROM'ların nasıl ağ haline getirileceği ve mürekkep püskürtmeli yazıcı kartuşlarının nasıl yeniden doldurulacağı gibi konularda bilgi alışverişinde bulunuyoruz.
+
+Yaklaşık on iki tartışma grubunu izliyorum. Grup adresine gönderilen posta diğer tüm "abonelere" dağıtılır. Bu, bir "round-robin" tartışmasına benzer. Bunlar, ne tür olduklarına ve nasıl yönlendirildiklerine bağlı olarak çeşitli şekillerde posta listeleri, tartışma grupları, yansıtıcılar, takma adlar veya liste sunucuları olarak bilinir. Abonelikler ücretsizdir.
+
+Bu gruplardan biri, dünyanın dört bir yanındaki çocukların ve genç yetişkinlerin birbirleriyle iletişim kurmasını sağlar. Cupertino'dan Moskova'ya kadar çocuklar hayatları, evcil hayvanları, aileleri, umutları ve hayalleri hakkında konuşuyorlar. Nintendo'nun evrensel bir dil olduğunu görmek ilginç!
+
+Öğretmenler başka bir grupta ders planları ve bibliyografiler paylaşıyor ve
+okullar küresel pazar sepeti anketi gibi projelere katılıyor.
+Bu proje için öğrenciler, dört kişilik tipik bir ailenin bir hafta boyunca hangi yiyecekleri satın alacağını ve hazırlayacağını araştırdı.
+Sonuçları, Kuzey ve Güney Amerika, Hindistan, İskandinavya ve Asya'daki çocukların raporlarıyla karşılaştırılabilecekleri küresel proje alanına gönderildi.
+Beslenme yasaları, temel gıdalar ve kültürel farklılıklar hakkında tartışmaları başlattı.
+
+Diğer listeler, kütüphane yönetimi, referans,
+gizemli roman okuyucuları, romantik roman okuyucuları, kuş gözlemcisi yardım hatları, kedi meraklıları,
+eski Sovyetler Birliği gözlemcileri, paket radyo teknisyenleri ve daha binlercesinin dünyalarını keşfediyor.
+Hatta yeni listelerin oluşturulmasını duyurmak için bir liste bile var!
+
+İnternetin Gücü
+
+Bir okulda internet bağlantısı, sınıfta sürekli olarak birden fazla yabancı değişim öğrencisi olması gibidir.
+Aktif, katılımcı öğrenmeyi teşvik eder. Bir tartışma
+grubuna katılmak, devam eden bir kütüphane konferansında olmak gibidir. Tüm
+uzmanlar Dışarıda, sorulmayı bekliyor.
+
+Bir CDROM sürücüsü satın almak mı istiyorsunuz? Bir sorgu gönderin ve PACS-L'deki (Genel Erişim Bilgisayar Sistemleri listesi) 3.000 kişiye tavsiye için "sorun". Birkaç
+saat içinde çeşitli donanım yapılandırmalarının artıları ve eksileri hakkında kişisel tanıklıklar alacaksınız.
+
+Toplam Kalite Yönetimi ile ilgili herhangi bir şey yapan kütüphane olup olmadığını görmek mi istiyorsunuz?
+LIBADMIN üyelerine sorun ve raporlar, çalışmalar,
+kişisel deneyimler ve daha fazlası hakkında teklifler alacaksınız. Bütçe kesintileriyle nasıl başa çıkıyorsunuz: personel
+işten çıkarmaları veya materyaller? Tekrar ediyorum, LIBADMIN kullanımı paylaşılan tavsiyelere izin verir.
+
+İşte internetin gücüyle ilgili bir hikaye. Noel'de İrlanda'dan elektronik bir
+yakarış geldi. "Kızım Noel Baba'ya inanıyor," diye başlıyordu. "Ve `My Little Pony Megan & Sundance' seti üç yıldır yapılmamış olmasına rağmen, Noel Baba'nın galip geleceğine ve ağacının altında bir tane bulacağına inanıyor." Üniversite profesörü olan annesi, ABD'deki üreticiyi aramıştı ancak hiçbiri yoktu. "Etrafınıza bakın," dediler, "belki
+bir kısmı hala mağaza raflarında duruyor." Bu yüzden annem çağrıyı internete gönderdi.
+
+Birçok okuyucu kendi tatil alışverişlerinin bir parçası olarak kurnaz Pony için küresel bir arama başlattı.
+
+Kısa süre sonra Dublin'den başka bir mesaj geldi. Orijinal mesajı okuyanlardan birinin, oyuncak şirketinde üst düzey yönetici olan bir babası olduğu ve diğerlerinin başarısız olduğu yerde söz konusu Pony'yi edinmeyi başardığı anlaşılıyordu!
+
+Noel Baba'nın itibarını kurtarmak için zamanında gönderildi.
+
+Kütüphanenin misyonunun bir parçası, bilgiye erişimdeki engelleri kaldırmaya yardımcı olmak ve bunun bir parçası da insanlar arasındaki engelleri kaldırmaktır. Telekomünikasyonla ilgili en ilginç şeylerden biri de
+Büyük Eşitleyici olmasıdır. Her türlü bilgisayarın ve insanın
+birbirleriyle konuşmasını sağlar. Cinsiyetçilik, yaşçılık ve ırkçılık gibi eski engeller
+yoktur çünkü "konuştuğunuz" kişiyi göremezsiniz.
+Görsel önyargılarınıza dayanarak ne söyleyeceğini DÜŞÜNDÜĞÜNÜZ hakkında önceden edinilmiş fikirler olmadan kişiyi tanırsınız,
+ne kadar masum olursa olsun.
+
+Eh, neredeyse görsel önyargı olmadan. Elektronik posta her zaman siber uzay kozmosunda sürüklenen benzer ruhların
+uyumlu bir araya gelmesi değildir: tartışmalar ve tiradlar (bunlara "alevler" denir) vardır. Bazen sık sık
+bir gönderi paylaşan birinin elektronik imzasını görmeye o kadar alışırsınız ki
+söylemeden önce ne söyleyeceğini bilirsiniz!
+
+Gülümseyen ifadeler
+
+Yazılı iletişimdeki bir sorun, mizah amaçlı yorumların
+genellikle kaybolmasıdır. Görsel beden dili ipuçları olmadan, bazı mesajlar yanlış yorumlanabilir. Bu nedenle "smileys" olarak bilinen görsel bir kısaltma
+geliştirildi. Bu temanın yüzlerce veya daha fazla çeşidi var-
+:-)
+Bu küçük bir gülen yüz. Yandan bakın. Smiley hakkında daha fazla bilgi, aşağıdakiler de dahil olmak üzere birçok yerde anonim ftp yoluyla bulunabilir:
+ftp nic.funet.fi
+cd /pub/misc/funnies/smiley. txt
+
+FTP metnin ilerleyen kısımlarında tanıtılıyor.
+
+Sadece klavye karakterlerini kullanarak ne kadar çok duygu gösterebilirsiniz.
+Yukarıdaki gülen yüze ek olarak, üzgünseniz :-( veya GERÇEKTEN üzgünseniz :-<
+! ;-) göz kırpmanın bir yoludur. Gözlük takan kişiler çevrimiçi olarak şöyle görünebilir: %^).
+
+Ancak çoğunlukla elektronik topluluk başkalarına yardım etmeye isteklidir.
+Telekomünikasyon, mesafe tiranlığı olarak adlandırılan şeyin üstesinden gelmemize yardımcı olur. Küresel bir köyümüz VAR.
+
+Elektronik Haber Bültenleri ve Süreli Yayınlar
+
+Listelere pervasızca abone olmak posta kutunuzu tıkayabilir ve
+tüm boş zamanınızı süpürmek için kullanışlı bir kara delik sağlayabilir.
+Elektronik dergiler olarak bilinen derlenmiş belgelere ücretsiz aboneliklerle daha çok ilgilenebilirsiniz. Bu dergiler otomatik olarak elektronik kapınıza
+teslim edilir.
+
+Bunlardan giderek artan sayıda var. Kütüphaneciler için en iyilerinden bazıları aşağıda listelenmiştir. Bu dergilere abone olmak için başka bir bilgisayara etkileşimli bir mesaj göndermeyi bilmeniz gerekir. Bu bilgi, bu makalenin sonunda listelenen kaynaklarda iyi bir şekilde belgelenmiştir. Telnet ve ftp, bu makalede daha sonra tanıtılmaktadır.
+
+ALCTS NETWORK NEWS
+(Association for Library Collections and Technical Services)
+
+Çeşitli ALA haberleri, net haberler, kütüphanecilerin ilgisini çekebilecek diğer öğeler. Aşağıdaki
+mesajı şu adrese gönderin
+LISTSERV@UICVM.BITNET
+ABONE OL ALCTS Adı Soyadı.
+
+Güncel Alıntılar
+
+Bilgisayarlar, ağlar, bilgi sorunları ve teknolojiyle ilgili güncel dergi makalelerinin bibliyografyası. PACS-L üzerinde dağıtılır veya MELVYL.UCOP.EDU'ya (192.35.222.222) TELNET aracılığıyla uzaktan bağlanın;
+İstemde şu komutu girin: GÜNCEL ALIŞVERİŞLERİ GÖSTER. Daha fazla bilgi için: David F. W. Robison, drobison@library.berkeley.edu.
+
+EFFector Online
+
+Electronic Frontier Foundation'ın çevrimiçi bülteni. Tüm sıcak
+net konuları burada ele alınmıştır: gizlilik, özgürlük, birinci değişiklik hakları.
+Posta listesine eklenmek için EFF'ye katılın veya dosyaları kendiniz şu adresten ftp.eff.org'a (192.88.144.4) gönderin
+Bunlar /pub/eff ve sonraki dizinlerdedir.
+
+Hot Off the Tree (HOTT)
+(Bilgi Teknolojileri ile ilgili Makalelerin Özetleri ve Alıntılar)
+
+TELNET MELVYL.UCOP.EDU (192.35.222.222); Komutu girin:
+SHOW HOTT. Daha fazla bilgi için: Susan Jurist, SJURIST@UCSD.EDU.
+
+Network News
+
+Gerçek İnternet gezginleri için olmazsa olmaz olan, saygısız bir bilgi kırıntıları, kaynaklar ve net gerçekleri derlemesi. Abone olmak için şu mesajı gönderin
+
+LISTSERV@NDSUVM1.BITNET
+SUBSCRIBE NNEWS First Name Last Name.
+Daha fazla bilgi için: Dana Noonan, noonan@msus1.msus.edu.
+
+Public-Access Computer Systems News
+ve The Public-Access Computer Systems Review
+Otomatik olarak PACS-L abonelerine gönderilir. Yukarıya bakın. Eski sayı dosyalarının listesi için şu mesajı gönderin:
+LISTSERV@UHUPVM1.BITNET
+INDEX PACS-L
+
+Tüm konulardaki elektronik dizilerin kapsamlı bir listesini almak için şu komutları gönderin:
+LISTSERV@UOTTAWA.BITNET
+GET EJOURNL1 DIRECTRY
+GET EJOURNL2 DIRECTRY
+Daha fazla bilgi için Michael Strangelove ile iletişime geçin:
+441495@ACADVM1.UOTTAWA.CA.
+
+İnternet Kaynaklarına Uzaktan Giriş: TELNET
+
+Elektronik postanın bir adım ötesinde, TELNET kullanarak
+uzaktaki bir bilgisayarı kontrol etme yeteneği vardır. Bu özellik, ağdaki herhangi bir yere sanal olarak ışınlanmanızı ve o ana bilgisayarda fiziksel olarak bulunan kaynakları kullanmanızı sağlar. Ayrıca, bazı
+ana bilgisayarların diğer ana bilgisayarlara ağ geçitleri vardır ve bu ana bilgisayarların da daha fazla ana bilgisayara ağ geçitleri vardır. Aynı anda iki yerde nasıl olabilirsiniz? Kulağa olduğundan daha
+kafa karıştırıcı geliyor. Hangi kaynaklar mevcut? İşte birkaç sitede sizi bekleyen ücretlerden bazılarının bir örneği:
+
+Cleveland Free-net
+
+Freenet'ler şunların yavrularıdır:
+Tom Grundner, Direktör,
+Topluluk Telebilgi İşlem Laboratuvarı
+Case Western Reserve Üniversitesi
+303 Wickenden Binası
+Cleveland, OH 44106
+216/368-2733 FAX: 216/368-5436
+İnternet: aa001@cleveland.freenet.edu
+BITNET: aa001%cleveland.freenet. edu@cunyvm
+ve şu kişiler:
+Ulusal Kamusal Telekomünikasyon Ağı (NPTN)
+Kutu 1987
+Cleveland, OH 44106
+216/368-2733 FAX: 216/368-5436
+İnternet: aa622@cleveland.freenet.edu.
+
+Ücretsiz ağlar, okullar, hastaneler, kütüphaneler, adliyeler ve diğer kamu hizmetleriyle birlikte bir şehir metaforu etrafında inşa edilmiştir.
+
+Academy One yakın zamanda bir dizi büyük uzay başarısının çevrimiçi küresel simülasyonunu gerçekleştirdi. 16 okul (beş eyaletten ve dört ülkeden)
+katıldı. İşte projelerinin birkaç açıklaması:
+
+"VALKEALA LİSESİ VALKEALA İLKÖĞRETİM OKULU
+Valkeala, Finlandiya (sa124@cleveland.freenet.edu)
+Hubble Teleskobu'nu uzaya götüren Uzay Mekiği Discovery olarak görev yapıyor.
+Bu Fin öğrenciler Estonya'daki öğrencilerle iletişim halinde olacak ve
+raporlarını iletecekler."
+
+"DR. HOWARD İLKÖĞRETİM OKULU Champaign, IL
+(cwilliam@mars.ncsa.uiuc.edu, cdouglas@ncsa.uiuc.edu)
+Dr. Howard Okulu (3./4. sınıfta 25 öğrenci)
+Challenger 2 fırlatılışını simüle edecek. Ulusal Süper Bilgisayar Uygulamaları Merkezi tarafından destekleniyorlar."
+
+"ST. JULIE BILLIART OKULU Hamilton, OH
+(ba542@cleveland.freenet.edu)
+Florida'daki bir NASA İzleme İstasyonunu simüle ediyor. Cape Kennedy civarındaki Florida'daki koşullar hakkında saatlik hava durumu raporları yayınlayacaklar. Bu bilgiler Friendship 7 kapsülünün ve mürettebatının kurtarılması için hayati önem taşıyor. Öğrenciler Uzay Çöpüne ilgi duymaya başladı ve Ay'ın yüzeyini test etmek için kullanılan çeşitli sondalar ve tüm bu çöplerin şu anda ve gelecekteki uzay araştırmaları için nasıl bir tehlike haline geldiği hakkında ek raporlar yayınlayacaklar."
+
+Bir diğer Free-net kaynağı ise Project Hermes'tir. Bu hizmet, Yüksek Mahkeme görüşlerinin elektronik ortamda kopyalarını mümkün olduğunca geniş bir kitleye, duyurulur duyurulmaz hemen sağlar.
+
+Mahkemenin görüşleri doğrudan size gönderilebilir veya dosyaları doğrudan herhangi bir NPTN topluluk bilgisayar sisteminden indirebilirsiniz.
+
+Free-net'ler ayrıca hava durumu, haberler ve diğer kaynaklara geçiş yolları sağlar. Cleveland Free-Net'e (tüm bunların yapıldığı yer) erişmek için basitçe
+telnet ile şuraya gidin:
+freenet-in-a.cwru.edu 129.22.8.82
+veya 129.22.8.75
+veya 129.22.8.76
+veya 129.22.8.44 ve giriş menüsünden "ziyaretçi"yi seçin.
+
+MELVYL
+
+Kütüphane Otomasyonu Katalog Bölümü
+Kaliforniya Üniversitesi
+Başkanlık Ofisi
+300 Lakeside Drive, 8. kat,
+Oakland, Kaliforniya 94612-3550
+415/987-0555 (MELVYL Katalog Yardım Hattı)
+E-posta: lynch@postgres.berkeley.edu
+
+MELVYL kataloğu, dokuz Kaliforniya Üniversitesi kampüsü ve bağlı kütüphaneler tarafından tutulan monografilerin ve seri yayınların (süreli yayınların) birleşik kataloğudur. UC, California Eyalet Kütüphanesi ve Araştırma Kütüphaneleri Merkezi'ndeki yaklaşık 11 milyon varlığı temsil eder.
+
+MELVYL kataloğu ayrıca MEDLINE ve Güncel İçeriklere erişimin yanı sıra birçok başka sisteme bir geçit sağlar. Bazı
+veritabanlarına erişim, California Üniversitesi öğretim üyeleri, personeli ve öğrencileriyle yapılan bir lisans anlaşması kapsamında kısıtlanmıştır. Telnet:
+MELVYL.UCOP.EDU (192.35.222.222)
+
+CARL
+
+Colorado Alliance of Research Libraries
+777 Grant
+Suite 306
+Denver CO 80203-3580
+303/861-5319
+E-posta: help@carl.org
+
+CARL aşağıdaki veri tabanı gruplarına erişim sunar: Akademik ve
+kamu kütüphanesi çevrimiçi katalogları, UnCover
+ve Magazine Index gibi güncel makale dizinleri, Academic American Encyclopedia
+ve Internet Resource Guide gibi veri tabanları ve diğer kütüphane sistemlerine bir geçit.
+Bazı öğelere erişim sınırlıdır. Telnet:
+pac.carl.org (192.54.81.128)
+
+MICROMUSE
+
+Barry Kort (diğer adıyla `Moulton'), Eğitim Teknolojisi Araştırmaları, BBN Labs, Cambridge, MA'da Ziyaretçi Bilim İnsanı, M.I.T.'deki MicroMuse'u şöyle tanımlıyor.
+
+"MUD'lar (Çok Kullanıcılı Boyutlar) veya MUSE'lar (Çok Kullanıcılı Simülasyon
+Ortamları), sinerji, topluluk, işbirliği ve keşif için zengin bir ortam sunan sanal gerçekliklerdir. "
+
+"Oyuncular ana bilgisayara bağlanır, seçtikleri bir karakteri ve kişiliği
+benimser ve birbirine bağlı odalar ve taşınabilir aksesuarlardan oluşan bir ağdan oluşan sentetik dünyaya girerler."
+
+"Her şeyin (odalar, taşınabilir nesneler, bağlantı geçitleri ve
+oyuncular) bir açıklaması vardır (genellikle birkaç satır metin) ve bu açıklamalar
+oyuncu baktığında görüntülenir."
+
+"Bir nesneyi almak veya bırakmak ve bitişik bir odaya çıkmak gibi eylemler de eyleme uygun kısa bir mesaj üretir."
+
+"MIT'nin Yapay Zeka Laboratuvarı'nda MicroMuse, sosyal, kültürel ve eğitici içeriklerle keşifler, maceralar ve bulmacalar sunar.
+MicroMuse Bilim Merkezi, ülke çapındaki Bilim Müzeleriyle ilgili deneyimlerden alınan etkileşimli sergilerle tamamlanmış bir Exploratorium ve Mathematica
+Sergisi sunar. Mars Görevi, National Geographic'te bulunanlarla rekabet eden
+doğru açıklamalarla kırmızı gezegenin ayrıntılı bir turunu içerir."
+
+"MicroMuse'un başka bir yerinde, çocuk klasiği Narnia'ya dayalı olağanüstü bir macera; yetenekli 8 yaşındaki bir çocuk tarafından inşa edilen Oz Büyücüsü macerasının yeniden canlandırılması; zorlu bir Mantık Görevi; ve yazar Anne McCaffrey'nin `The DragonRiders of Pern' adlı bilimkurgu türünün yaşayan bir modeli."
+
+MicroMuse'u keşfetmek isterseniz, yerel ana bilgisayarınızdan şu şekilde bağlanabilirsiniz:
+telnet michael.ai.mit.edu [18.43.0.177]
+login: guest [şifre gerekmez]
+tt [TinyTalk istemci programı]
+connect guest [Connect to MicroMuse]
+
+BBS.OIT.UNC.EDU
+
+Telnet ile BBS.OIT.UNC.EDU veya 152.2.22.80.
+Giriş mesajında ​​launch yazın.
+Bu şart. Usenet Haber Akışlarını okuyabilmekle kalmayıp, hem ABD hem de uluslararası kütüphanelere ve ayrıca Data Research Associates Kongre Kütüphanesi kataloğu, Ham Radyo Çağrı Defteri, Ulusal Bilim Vakfı, Hava Durumu Sunucusu, Webster sözlüğü gibi şeylere erişmek için betikli bir telnet ağ geçidi olan LibTel'i de kullanabilirsiniz ve eş anlamlılar sözlüğü ve daha fazlası.
+
+Dosyalara Uzaktan Erişim (FTP)
+
+FTP veya Dosya Aktarım Protokolü, uzak bir ana bilgisayardan bir metin dosyasını,
+yazılımını veya başka bir öğeyi almak için kullanılacak protokoldür. Normal uygulama, istediğiniz ana bilgisayara ftp
+bağlantısı yapmak ve "anonim" olarak oturum açmaktır. Bazı siteler "misafir" şifresini kullanırken, diğerleri şifre olarak ağ adresinizi girmenizi gerektirir. Bazı popüler ftp siteleri şunlardır:
+
+SUMEX-AIM
+
+Stanford'daki bu arşiv (sumex-aim.stanford.edu veya 36.44.0.6) çok sayıda Macintosh uygulaması, yardımcı programı, grafik ve ses dosyası barındırır.
+
+New Mexico'daki White Sands Füze Sahası'ndaki SIMTEL20
+
+(simtel20.army.mil veya 192.88.110.20) MS-DOS bilgisayarlar için benzer bir arşiv yazılımı içerir.
+
+nnsc.nsf.net'teki (128.89.1.178) Ağ Hizmet Merkezi'ne yapılan bir FTP ziyareti, ağ kullanımıyla ilgili belgeler ve eğitim materyalleri açısından altın madenidir. Bu konuda daha fazla bilgi için bu makalenin "Daha Fazla Öğrenme Kaynakları" bölümüne bakın.
+
+Project Gutenberg
+
+Project Gutenberg'in temel amacı, elektronik metinlerin oluşturulmasını ve
+dağıtımını teşvik etmektir. 2001 yılı sonuna kadar dağıtımda olan bir trilyon e-metin için on bin başlığı yüz milyon kullanıcıya ulaştırmayı umuyorlar.
+
+Şu anda mevcut olan birçok metinden bazıları şunlardır: Alice Harikalar Diyarında,
+Peter Pan, Moby Dick, Kayıp Cennet ve kamu malı olan diğer metinler. Bu metinlerin çoğu ftp yoluyla erişilebilir:
+
+ftp mrcnext.cso.uiuc.edu (128.174.201.12)
+
+cd etext/etext92 [1992 sürümleri için] [etext93 şu anda test için erişilebilir]
+cd etext/etext91 [1991 sürümleri için] [Bu dosya içinde olmalı]
+cd etext/articles [Project Gutenberg makaleleri ve haber bültenleri için].
+Çoğuna quake.think.com (192.31.181.1); /pub/etext,
+simtel20'den ve diğer birçok siteden de erişilebilir.
+
+Daha fazla bilgi için aşağıdaki bölümdeki gibi Gopher'ı deneyin veya şu kişiyle iletişime geçin:
+Michael S. Hart, Yönetmen
+Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+Illinois Benedictine College
+5700 College Road
+Lisle, Illinois 60532-0900
+İNTERNET: dircompg@ux1.cso.uiuc.edu
+CompuServe: >İNTERNET:dircompg@ux1.cso.uiuc. edu
+Attmail: internet!ux1.cso.uiuc.edu!dircompg
+BITNET: HART@UIUCVMD
+
+Seyahat Acenteleri:
+Archie, Gopher, Veronica, WAIS, Worldwide Web ve Daha Fazlası
+
+İnternette o kadar çok bilgi var ki, her şeyin
+nerede olduğunu veya nasıl bakmaya başlayacağınızı bilmek imkansız. Neyse ki,
+internetteki devasa veri kütüphanelerini
+ayıklamaya yardımcı olmak için bazı bilgisayarlı "aracılar" geliştiriliyor.
+
+Archie
+
+McGill's Computing Centre'dan Peter Deutsch, kullanıcıların bir soru sormalarına ve ardından ilgi duydukları dosyaları birçok farklı ana bilgisayarda aramalarına olanak tanıyan archie sunucusu
+konseptini açıklıyor.
+
+"Archie hizmeti, bir İnternet ortamında bilgi bulmak için elektronik bir dizin hizmeti sağlayan kaynak keşif araçları koleksiyonudur. Başlangıçta anonim ftp arşiv sitelerinin içeriklerini izlemek için oluşturulan archie hizmeti, artık çeşitli diğer çevrimiçi dizinleri ve kaynak listelerini içerecek şekilde genişletiliyor."
+
+"Şu anda archie, İnternet genelinde yaklaşık 1.000.000 dosya içeren 800'den fazla anonim FTP arşiv sitesinin içeriklerini izliyor. Toplu olarak, bu dosyalar 50 Gigabayt'tan (50.000.000.000 bayt) fazla bilgiyi temsil ediyor ve her gün ek bilgiler ekleniyor. Anonim ftp arşiv siteleri, İnternet'e bağlantısı olan herkes tarafından ücretsiz olarak kopyalanıp kullanılabilen yazılım, veri ve diğer bilgiler sunar."
+
+"Archie sunucusu, her siteden gelen listeleme bilgilerini ayda bir kez otomatik olarak günceller ve kullanıcıların aldıkları bilgilerin makul bir şekilde zamanında olmasını sağlar, arşiv sitelerine veya ağ bant genişliğine gereksiz bir yük bindirmez."
+
+Ne yazık ki McGill'deki archie sunucusu şu anda hizmet dışıdır.
+Diğer siteler şunlardır:
+archie.ans.net (ABD [NY])
+archie.rutgers.edu (ABD [NJ])
+archie.sura.net (ABD [MD])
+archie.funet.fi (Finlandiya/Anakara Avrupa)
+archie.au (Avustralya/Yeni Zelanda)
+archie.doc.ic.ac.uk (Büyük Britanya/İrlanda)
+
+Daha fazla bilgi şu adresten edinilebilir:
+UNIX Destek Grubu
+Bilgi İşlem Merkezi
+McGill Üniversitesi
+Oda 200
+Burnside Hall
+805 Sherbrooke Street West
+Montreal, Quebec KANADA H3A 2K6
+514/398-3709
+peterd@cc.mcgill.ca
+
+İnternet Gopher
+Gopher (veya go-fer): birçok yerden gerekli eşyaları getiren kişi.
+
+consultant.micro.umn.edu'ya telnet yaptıktan sonra gopher olarak oturum açın ve tüm işi sizin için yapan bir bilgisayarın keyfini çıkarın. Neredeyse. Gopher hala birçok gopherize edilmiş sitede deneysel modda. Yine de, internette ve internette bilgi bulmanın en iyi yollarından biridir.
+
+archie'nin yanı sıra consultant.micro.umn.edu'daki gopher eğlence ve oyunlar, mizah, kütüphaneler (Hacker's Dictionary, Roget's 1911 Thesaurus ve CIA World Fact Book gibi referans kitapları dahil), diğer ABD ve yabancı gopher'lara açılan kapılar, haberler ve diğer sistemlere açılan kapılar içerir.
+
+VERONICA: Bilgisayarlı Arşivlere Yönelik Çok Kolay Kemirgen Odaklı Net Genelinde Dizin.
+
+VERONICA sahnede çok yeni.
+İşte Steve Foster'ın bu konuda verdiği bazı bilgiler.
+
+"Veronica, tüm gopher web'deki çoğu gopher-server menüsünün anahtar kelime aramasını sunar. Archie'nin ftp arşivleri için olduğu gibi, Veronica da gopherspace için aynıdır.
+Archie'nin aksine, arama sonuçları sizi doğrudan veri kaynağına bağlayabilir.
+Sadece ana siteleri değil, verileri doğrudan bir menüden seçmenize izin veren bir Archie araması hayal edin. Veronica'ya bir gopher istemcisi aracılığıyla erişildiği için kullanımı kolaydır ve gopher protokolü tarafından desteklenen tüm veri türlerine erişim sağlar."
+
+"Veronica, hızla genişleyen gopher web'indeki kaynak bulma sorununa bir yanıt olarak tasarlandı. Net haber gruplarındaki hayal kırıklığı yaratan yorumlar, son zamanlarda böyle bir hizmete duyulan ihtiyacı yansıttı. Ek bir motivasyon, birçoğunun kullanımı kolay bir hizmetin `nerede olduklarını bilmeden' kaynakları bulmanın bir yolunu sağlayacağını varsayan saf gopher kullanıcılarının yorumlarından geldi."
+
+"Veronica aramasının sonucu, kullanıcının anahtar kelime özelliklerine göre özelleştirilmiş, otomatik olarak oluşturulmuş bir gopher menüsüdür. Bu menüdeki öğeler birçok gopher sunucusundan alınabilir. Bunlar işlevsel gopher öğeleridir, gopher istemcisi üzerinden hemen erişilebilir, dizinleri açmak, dosyaları okumak veya diğer aramaları yapmak için sadece çift tıklayın -- yüzlerce gopher sunucusunda. Bilgi talebinizi yerine getirmek için hangi sunucunun gerçekten dahil olduğunu asla bilmenize gerek yok. Özellikle ilginç görünen öğeler kullanıcının yer imi listesine kaydedilebilir."
+
+"Bunların gopher sunucusu sitelerindeki verilerin tam metin aramaları OLMADIĞINA dikkat edin, tıpkı Archie'nin ftp sitelerinin içeriklerini değil, yalnızca bu sitelerdeki dosyaların adlarını dizine eklemesi gibi. Veronica, İnternet'teki çoğu gopher sitesi için menülerin tüm
+düzeylerindeki BAŞLIKLARI dizine ekler. 258 gopher, 17 Kasım 1992'de Veronica tarafından dizine eklendi; 500'den fazla sunucu keşfettik ve yakın gelecekte tüm seti dizine ekleyeceğiz. Veronica'nın
+gopher yöneticilerini menülerinde çok açıklayıcı başlıklar kullanmaya teşvik edeceğini umuyoruz."
+
+"Veronica'yı denemek için, Minnesota'nın
+gopher sunucusundaki (consultant.micro.umn.edu) `Diğer Gopher'lar' menüsünden seçin veya gopher'ınızı şuraya yönlendirin:
+Name=Veronica (GopherSpace'in çoğunda menü öğelerini arayın)
+Type=1
+Port=70
+Path=1/Veronica Host=futique.scs.unr.edu"
+
+"Veronica, Nevada Üniversitesi'nden Steve Foster ve Fred Barrie tarafından geliştirilen deneysel bir hizmettir. Yükün yakında donanımımızı aşacağını tahmin ettiğimizden, Veronica hizmetini yakın gelecekte diğer sitelere dağıtacağız."
+
+"Lütfen yorumlarınızı şu adrese gönderin: gophadm@futique.scs.unr.edu"
+
+Bu, otomatik kütüphaneciliğin yeni dünya düzeni mi?
+
+WAIS
+
+Geniş Alan Bilgi Sunucuları (şekilde telaffuz edilir) kullanıcıların bir "istemci" aracılığıyla çeşitli ana bilgisayarlardan bilgi almasını sağlar.
+Kullanıcı, istemciye veri alanında nelere dikkat etmesi gerektiğini sade bir İngilizceyle söyler.
+İstemci daha sonra dünyanın dört bir yanındaki çeşitli WAIS sunucularını arar. Kullanıcı, istemciye her bir isabetin ne kadar alakalı olduğunu söyler ve istemci yeni belgeler bulmak için aynı göreve tekrar tekrar gönderilebilir. İstemci yazılımı birçok farklı bilgisayar türü için mevcuttur.
+
+WAIStation, WAIS istemcisinin kullanımı kolay bir Macintosh uygulamasıdır.
+think.com'dan ve kendi kendine çalışan bir MediaTracks
+WAIStation'ın eylem halindeki demosu. Kahle ayrıca düşünceli bir WAIS
+bülteni ve tartışma grubunu yönetiyor ve sıklıkla kütüphanelerin ve kütüphanecilerin geleceği hakkında spekülasyonlar yapıyor.
+
+Bilgi: Brewster Kahle, Proje Lideri
+Geniş Alan Bilgi Sunucuları
+Thinking Machines Corporation
+1010 El Camino Real
+Menlo Park, CA 94025
+415/329-9300 x228
+brewster@Think.COM
+
+WorldWideWeb
+
+Tim Berners-Lee Web'i şu şekilde tanımlıyor: "WWW projesi, kolay ama güçlü bir küresel bilgi sistemi oluşturmak için
+bilgi alma ve hipermetin tekniklerini birleştiriyor. WWW dünyası belgelerden ve bağlantılardan oluşuyor. Dizinler, okunmak yerine
+arama yapılabilen özel belgelerdir. Böyle bir aramanın sonucu, bulunan belgelere bağlantılar içeren başka bir (`sanal')
+belgedir. Web, birçok formatta
+belge içerir. Hipermetin olan bu belgeler,
+(gerçek veya sanal) diğer belgelere bağlantılar veya belgeler içindeki
+yerler içerir. Gerçek, sanal veya dizin olsun, tüm belgeler
+okuyucuya benzer görünür ve aynı adresleme şeması.
+Bir bağlantıyı takip etmek için, okuyucu bir fareyle tıklar (veya faresi yoksa bir sayı girer). Arama yapmak ve dizin oluşturmak için, okuyucu anahtar sözcükler verir
+(veya diğer arama ölçütleri). Bunlar, tüm veri dünyasına erişmek için gereken tek işlemlerdir."
+
+Bilgi kaynağı: Tim Berners-Lee
+WorldWideWeb projesi
+CERN
+1211 Cenevre 23, İsviçre
+Tel: +41(22)767 3755 FAX:+41(22)767 7155
+e-posta:tbl@cernvax.cern.ch
+
+Hytelnet
+
+HYTELNET'in yaratıcısı Peter Scott, şu son güncellemeyi gönderiyor:
+"IBM-PC kullanıcılarına tüm İnternet erişimli kütüphane kataloglarına, FREE-NETS'lere, CWIS'lere,
+BBS'lere, Gophers'lara, WAIS'lere vb. anında erişim sağlayan yardımcı program olan HYTELNET sürüm 6.3 artık kullanılabilir. Bunu anonim
+ftp yoluyla alabilirsiniz: access.usask.ca adresinden pub/hytelnet/pc alt dizininde. HYTELN63.ZIP olarak listelenmiştir."
+
+"Sürüm 6.3 büyük bir yükseltmedir. Çok fazla gereksiz bilgi silindi ve hatalar düzeltildi. Yeni alt dizinler eklendi, bu da birçok dosyanın artık daha anlamlı bir yuvası olduğu anlamına geliyor.
+Ayrıca Sürüm 6.2'den bu yana oluşturulan tüm yeni/güncellenmiş dosyalar dahil edildi."
+
+"Not: AÇILMIŞ dosyalar toplamda 1,2 mb'den fazla ancak unutmayın, yerden tasarruf etmek için
+ihtiyacınız olmayan bilgileri her zaman düzenleyebilirsiniz. Roy Tennant'tan gelen bilgiler, ftp sitesinden HYTELNET 6.3'ün nasıl alınacağını açıklayan, biraz düzenlenmiş şekilde aşağıdadır (teşekkürler Roy)::"
+
+"HYTELNET'İ ALMAK İÇİN:
+Sistem isteminizde şunu girin:
+ftp access.usask.ca veya ftp 128.233.3.1
+Ad istemini aldığınızda şunu girin: anonymous
+Şifre istemini aldığınızda şunu girin: İnternet adresiniz.
+ftp> isteminde olduğunuzda şunu girin: binary
+Bir sonraki ftp> isteminde şunu girin: cd pub/hytelnet/pc
+Ardından şunu girin: get hyteln63.zip
+
+Aktarım gerçekleştikten sonra, UNZIP yardımcı programını almak için aşağıdaki talimatları izleyin (zaten sahip değilseniz buna ihtiyacınız vardır) veya şunu girin: quit
+
+Hytelnet programı bir ZIP yardımcı programı kullanılarak arşivlenir. Arşivden çıkarmak için
+dosyayı "açabilmeniz" gerekir. PKUNZIP.EXE dosyanız varsa,
+HYTELN63.ZIP dosyasını arşivden çıkaracaktır (talimatlar için aşağıya bakın).
+Eğer yoksa, şu talimatları izleyerek alabilirsiniz:
+
+PKUNZIP'İ KURTULMAK İÇİN:
+Yukarıdaki talimatları şuraya bağlanmak için kullanın:
+access.usask.ca ftp> isteminde şunu girin: binary
+Ardından şunu girin: cd pub/hytelnet/pc
+Ardından şunu girin: get pkunzip.exe
+Aktarım gerçekleştikten sonra şunu girin: quit
+
+BİLGİSAYARINIZA İNDİRMEK İÇİN:
+Çok sayıda bilgisayar iletişim programı olduğu için, burada adım adım talimatlar vermeye çalışmayacağım. İnternet hesabınızdan bilgisayarınıza *ikili* bir dosya indirmek için yazılımınızın talimatlarını kontrol etmelisiniz.
+
+HYTELN63.ZIP'İ ARŞİVDEN ÇIKARMAK İÇİN:
+Sabit diskinizde yeni bir dizin oluşturun (örneğin, mkdir hytelnet)
+PKUNZIP.EXE ve HYTELN63.ZIP'i yeni dizine kopyalayın
+Bu dizinde olduğunuzdan emin olun, ardından şunu girin: pkunzip HYTELN63 Daha sonra şu dosyaları içeren HYTELN63.ZIP'i arşivden çıkaracaktır: HYTELNET.ZIP
+READNOW. READNOW dosyası, HYTELNET.ZIP'i arşivden çıkarmak için tam talimatlar verir. Basitçe söylemek gerekirse, tüm alt dizinlerin yinelemeli olması için dosyayı -d
+parametresiyle **AÇMALISINIZ**.
+
+HYTELNET'i kullanmak için Peter Scott'ın yayın duyurusundaki talimatlara veya pakete dahil olan README dosyasına başvurmalısınız."
+
+"Yukarıdaki talimatları, ağ kaynaklarından dosya indirmek ve kullanmak için gereken adımlara aşina olmayanlar için bir hizmet olarak sunduğumu LÜTFEN DİKKATE ALIN. Bu prosedürlerde olabilecek yerel değişikliklerden sorumlu
+olamam. Bu görevleri gerçekleştirmede zorluk çekiyorsanız lütfen yerel bilgisayar destek ekibinizle iletişime geçin."
+
+"Earl Fogel tarafından oluşturulan UNIX/VMS sürümü, hytelnet (küçük harf) ile usask.ca'ya erişmek için telnet ile gezinmek için kullanılabilir. Bu sürüm hakkında daha fazla bilgi için Earl ile şu adresten iletişime geçin: fogel@skyfox.usask.ca."
+
+Nasıl Bağlanılır
+
+Artık hangi kaynakların mevcut olduğuyla ilgilendiğinize göre, nasıl bağlanırsınız? Bir zamanlar İnternete standart, özel bir bağlantıya ihtiyacınız vardı. Sonra sağlam bir bilgisayar sistemine ve her şeyi çalışır durumda tutmak için birkaç çılgın guruya ihtiyacınız vardı. Ve yılda bir kez, verilerin akışını sağlamak için 30.000 dolar civarında bir fatura bekleyebilirsiniz.
+
+Bugünlerde, küçük kütüphanelerden ve kâr amacı gütmeyen kuruluşlardan bireylere kadar herkes bağlanabilir. (ve tabii ki ticari-mh) Ve fiyatlar uygundur.
+
+Trafik NSFNet'ten geçiyorsa uymayı kabul etmeniz gereken bir NSFNet kabul edilebilir kullanım politikası vardır. Bu, NSF
+Ağ Hizmet Merkezi'nden edinilebilir.
+
+Size hangi hizmetlerin sunulabileceğini görmek için önce bölgesel ağınızla iletişime geçin. Bölgesel ağların bir listesi NSF Ağ Hizmet Merkezi'nden (aşağıdaki adres) alınabilir veya yerel bir kolej veya üniversitenin akademik bilgi işlem merkezine danışılabilir. Bir üniversite, eğitim amaçlı olarak
+size sisteminde bir misafir hesabı verebilir.
+
+Bu yazının yazıldığı sırada yalnızca elektronik postaya erişim aylık yaklaşık 20 dolardır.
+Telnet ve ftp gibi ek özellikler daha pahalıdır ve kendi ana sisteminizi çalıştırmak isterseniz yılda 2.000 dolar veya daha fazla maliyeti olacaktır.
+İyi haber şu ki maliyetler aşağı doğru sarmalıyor. İşte internete bağlanmanın birkaç başka yöntemi. Çok daha fazlası bu makalenin sonundaki "sahip olunması gereken" kitaplarda listelenmiştir.
+
+CERFnet
+California Eğitim ve Araştırma Federasyonu (CERFnet)
+DIAL N' CERF USA'yı duyurdu. Eğitimcilere, bilim insanlarına, şirketlere ve
+bireylere kıta ABD'sinin her yerinden İnternet erişimi sağlıyor.
+
+Ücretsiz bir numara olan 1-800-7CERFNET (1-800-723-7363), abonelere standart, özel bir bağlantıları varmış gibi uzak makinelerde oturum açma, dosya aktarma ve elektronik posta gönderme ve alma olanağı sağlar. Bu ücretsiz bağlantının maliyeti, saatte 10 dolarlık kullanım ücreti ve ücretsiz kurulumla birlikte ayda 20 dolardır. 50 dolarlık bir kurulum ücreti vardır.
+
+CERFnet
+California Eğitim ve Araştırma Federasyonu
+c/o San Diego Süper Bilgisayar Merkezi
+P.O. Box 85608
+San Diego, CA 92186-9784
+800/876-CERF veya 619/534-5087
+help@cerf.net
+
+Performance Systems International
+
+PSI, düşük uçtaki yalnızca e-posta hesapları, talep üzerine çevirmeli ana bilgisayar bağlantısı ve özel bağlantılar dahil olmak üzere çeşitli ağ bağlantısı seçenekleri sunar. Maliyetler rekabetçidir ve performans güvenilirdir. PSI'ın kırktan fazla ABD şehrinde
+POP'ları (varlık noktaları) vardır.
+
+PSILink, e-posta ve gecikmeli ftp, 2400 baud hizmeti için ayda 19 ABD dolarıdır veya
+altında, 9600 baud hizmeti için ayda 29 ABD dolarıdır.
+
+GDS (Küresel Çevirmeli Hizmet), telnet, rlogins'i ayda 39 ABD doları,
+2400 baud, 24 saat erişimi içerir.
+
+Yılda yaklaşık 2000 ABD doları olan Host DCS (Çevirmeli Bağlantı Hizmeti),
+tam bir internet aktiviteleri paketini (posta, haberler, ftp, telnet) içerir.
+
+Performance Systems International, Inc.
+11800 Sunrise Valley Dr. Suite 1100
+Reston, VA 22091
+800/82PSI82 veya 703/620-6651 FAX: 703/620-4586
+info@psi.com. All-info@psi.com çeşitli PSI ürünlerinin özetlerini içeren
+otomatik bir yanıt yanıtı oluşturur.
+
+Software Tool & Die
+
+Software Tool & Die, halka açık bir Unix sistemi olan The World'ü sunar:
+Temel ücretler saat başına 2 dolar ve aylık 5 dolarlık hesap ücretidir. The World tarafından sunulan hizmetler arasında internet elektronik postası,
+USENET haberleri, ClariNet -UPI, AP ve uydu haber hizmetleri,
+gerçek zamanlı sohbet, Unix Yazılımı, Archie, Çevrimiçi Kitap Girişimi
+(özgürce yeniden dağıtılabilir metinsel bilgi koleksiyonları için herkese açık bir havuz, bir ağ çalışanının kütüphanesi) yer alır.
+AlterNet Erişimi - Kullanıcılar AlterNet'e ftp/telnet üzerinden erişebilir.
+The World'e Compuserve Paket Ağı üzerinden de erişilebilir.
+Bu ağı kullanmak için Compuserve abonesi olmanız gerekmez,
+ancak kullanımınız için sizden ücret alınacaktır.
+
+WORLD
+Software Tool & Die
+1330 Beacon Street
+Brookline, MA 02146
+617/39-0202
+
+Daniel Dern ayrıca nasıl bağlanılacağına dair aşağıdaki kesin bilgi dosyasını sağlar:
+Daniel Dern'in "Bireysel Hesaplar için İnternet
+Hizmet/Erişim Sağlayıcıları listesini nasıl alabilirim" sorusuna Kısa Cevabı:
+
+İnternet Servis Sağlayıcıları listesi için şuraya başvurun:
+
+NSF Network Service Center (NNSC)
+BBN Laboratories Inc.
+10 Moulton St.
+Cambridge, MA 02238
+617/873-3361
+nnsc@nnsc.nsf.net
+
+NNSC bilgi sunucusu yardımcı programı ayrıca bu listenin ve diğer belgelerin bir kopyasını size otomatik olarak e-postayla gönderebilir. Basitçe şu adrese bir e-posta mesajı gönderin:
+info-server@nnsc.nsf.net
+
+gövdede şu metinle:
+
+request: nsfnet
+topic: <topic-here>
+topic: <topic-here>
+request: end
+
+Konu satırına hiçbir şey yazmanıza gerek yok.
+
+"referral-list" size ABD merkezli İnternet Servis Sağlayıcılarının NNSC yönlendirme listesini verir. (muhtemelen uluslararası hizmet sağlıyor).
+Bunun genel olarak en kapsamlı ve en az taraflı liste olduğu kabul edilir.
+"sınırlı-yönlendirme" size NNSC'nin "sınırlı hizmet" için İnternet sağlayıcılarının yönlendirme listesini verir, buna Çevirmeli IP, İnternet E-postası dahildir.
+
+"yardım" (önerilir) size bilgi sunucusu tesisi için Yardım belgesini verir.
+
+Çevirmeli erişimli Genel Erişim İnternet Ana Bilgisayarlarının (telnet, ftp vb. yapabilen ve PC'nizden ve modeminizden arayarak erişebileceğiniz Unix BBS'leri) listesi için Peter Kaminski tarafından tutulan PDIAL listesine bakın.
+Kaminski, usenet gruplarına periyodik olarak güncellenmiş bir sürüm gönderir
+alt.bbs.lists ve alt.bbs.internet; ayrıca, en son sürüm şu adrese e-posta gönderilerek elde edilebilir:
+kaminski@netcom.com
+konuya
+`PDIAL Gönder'
+
+yazılarak. Gelecekteki sürümleri otomatik olarak almak için bir listeye eklenmek üzere, e-postayı şu adrese gönderin:
+kaminski@netcom.com konu satırında `Subscribe PDIAL'.
+
+`nixpub' listesi, genellikle usenet haberleri taşıyan, İnternet'e e-posta bağlantısını destekleyen ve yerel arşivler, çok kullanıcılı oyunlar vb. içeren Public-Access unix
+Systems -Unix tabanlı BBS'lerin sık sık güncellenen bir listesidir. Tam liste uzundur (1.000 satırdan fazla). `nixpub'ın güncel bir kopyasını otomatik e-posta yanıtı olarak almak için, `nixpub@digex.com'a (konu veya mesaj metni gerekmez) veya `archive-server@cs.widener.edu'ya şu mesaj gövdelerinden biriyle bir mesaj gönderin:
+
+send nixpub long
+send nixpub short
+send nixpub long short
+index nixpub
+
+Nixpub ve nixpub.short listeleri düzenli olarak USENET
+comp.misc ve alt.bbs gruplarına yeniden gönderilir
+
+Bilgi kaynağı: Daniel P. Dern Serbest teknoloji yazarı
+P.O. Box 309
+Newton Centre, MA 02159
+617/969-7947 ​​FAX: 617/969-7949
+ddern@world.std.com
+
+Daha Fazla Bilgi Edinmek İçin Kaynaklar
+
+CERFnet Ağ Bilgi Merkezi (NIC)
+
+Bu, ünlü, teknik olsa da "İnternete Otostopçunun Rehberi" de dahil olmak üzere birçok kaynaktan gelen birçok eklektik internet rehberi ve RFC (Yorumlar İçin İstekler) için bir depodur. Bunlar anonim
+ftp yoluyla nic.cerf.net'e (192.102.249.3) alınabilir.
+Yardım için CERFnet Yardım Hattını 800-876-CERF numarasından arayın. California Eğitim ve Araştırma Federasyonu
+c/o San Diego Süper Bilgisayar Merkezi
+P. O. Box 85608
+San Diego, CA 92186- 9784
+800/876-CERF veya 619/534-5087
+help@cerf.net
+
+CICNet Kaynak Rehberi
+
+Haziran 1992'de yayınlanan 200'den fazla sayfa İnternet kaynağı. Kopyalar
+CICNet, Inc.'den 27,00 dolardır.
+Attn Kim Schaffer
+2901 Hubbard Pod A
+Ann Arbor, MI 48109.
+313/998-6103 FAX 313/998-6105
+info@cic.net
+
+"Aralık Listeleri"
+
+"Bilgi Kaynakları: İnternet ve Bilgisayar Aracılı İletişim"
+John December (decemj@rpi.edu) tarafından derlenmiştir
+İşte burada Bu mükemmel kaynak hakkındaki bilgi dosyasının bir kısmı:
+
+"Bu belge veya güncellemeler anonim ftp aracılığıyla kullanılabilir.
+Ana bilgisayar: ftp.rpi.edu
+dosya: /pub/communications/internet-cmc
+
+AMAÇ: İnternet, bilgisayar ağları ve bilgisayar aracılı iletişimle (CMC) ilgili konuları tanımlayan bilgilere yönelik işaretçileri listelemek. İlgi duyulan konular arasında CMC'nin teknik, sosyal, bilişsel ve psikolojik yönleri yer alır.
+
+KİTLE: Bu dosya İnternet ve CMC'yi anlamaya başlayanlar için faydalıdır; bu konuları halihazırda araştıranlar için bilgi kaynaklarını özlü bir şekilde özetler.
+
+VARSAYIMLAR: Burada listelenen birçok bilgi kaynağına erişmek için anonim ftp, e-posta veya USENET haber gruplarına erişiminiz olmalı ve bunları nasıl kullanacağınızı bilmelisiniz. Bazı dosyalar TeX veya PostScript biçimindedir.
+
+İçindekiler:
+Bölüm -1- İNTERNET VE HİZMETLER
+Bölüm -2- BİLGİ HİZMETLERİ/ELEKTRONİK YAYINLAR
+Bölüm -3- TOPLUMLAR VE ÖRGÜTLER
+Bölüm -4- HABER GRUPLARI
+Bölüm -5- SEÇİLMİŞ KAYNAKÇA"
+
+"Emily Postnews Netiquette Hakkındaki Sorularınızı Cevaplıyor"
+
+Brad Templeton'ın (brad@looking.on.ca) internette nasıl davranmamanız gerektiğiyle ilgili hicivli ve komik
+yazısı. Doğru internet davranışı konusunda önde gelen otorite olan Emily Postnews tavsiyelerini veriyor. Bu dosyayı ftp'lemek için birçok yer var ve birçok gopher'da görünüyor. Dosyayı almak için bir yer
+ftp'yi ra.msstate.edu (130.18.80.10)
+Konum: /pub/docs/words-l/Funnies
+
+Dosyanın adı emily.postnews. İşte bir örnek:
+
+"Sevgili Bayan Postnews:
+İmzam ne kadar uzun olmalı?
+-- verbose@noisy
+
+C: Sevgili Verbose:
+Lütfen imzanızı olabildiğince uzun yapmaya çalışın. Elbette makalenizden çok daha önemlidir, bu yüzden gerçek metinden daha fazla imza satırına sahip olmaya çalışın. ASCII karakterlerinden oluşan büyük bir grafik ve ayrıca çok sayıda sevimli alıntı ve slogan eklemeyi deneyin. İnsanlar bu bilgelik incilerini tekrar tekrar okumaktan asla bıkmayacak ve siz de her okuyucunun imzanızın bir kez daha hoş bir şekilde tekrarlandığını gördüğünde hissettiği sevinçle kişisel olarak özdeşleşeceksiniz. Ayrıca her imzaya USENET'in eksiksiz bir haritasını eklediğinizden emin olun, böylece dünyadaki herhangi bir siteden size nasıl posta gönderilebileceğini gösterin. İnternet ağ geçitlerini de eklediğinizden emin olun. Ayrıca kendi sitenizde insanlara size nasıl posta göndereceklerini anlatın. İnternet, UUCP ve BITNET için hepsi aynı olsa bile bağımsız adresler verin."
+
+"İnternete Eksik Kılavuz"
+
+"Eksik Kılavuz" NCSA Eğitim Grubu tarafından derlenmiştir,
+Eylül 1992 tarihlidir. Ayrıca anonim FTP için şu adreste mevcuttur:
+
+ftp.ncsa.uiuc.edu /misc dizininde
+
+Bu mükemmel kılavuz olmazsa olmazdır.
+Hatta SLIP bağlantılarını ve Eudora kullanımını bile kapsar.
+
+İşte cfarmer@ncsa.uiuc.EDU'dan (Chuck Farmer) konuyla ilgili bazı yorumlar:
+"Metnin ilk yarısı telekomünikasyonun mekaniğine,
+nasıl bağlanılacağına, bağlandıktan sonra ne yapılacağına vb. ayrılmıştır. Kılavuzun ikinci yarısı ise mevcut telekomünikasyon projelerine, geçmişte başarılı olan
+projelere ve kaynaklara ayrılmıştır. Kaynaklar arasında FTP siteleri, açık BBS'ler ve
+ağlar, Free-Net'ler, abonelik hizmetleri ve her kaynak hakkında daha fazla bilginin nereden alınabileceği yer almaktadır. Bu kaynak, NCSA'daki Living Lab programı tarafından (NSF tarafından finanse edilmiştir) K-12 sınıflarında HPCC kullanımının yaygınlaşmasını teşvik etme girişimi olarak derlenmiştir.
+Yorumlarınızı ve önerilerinizi bekliyoruz.
+
+Daha fazla bilgi için:
+National Center for Supercomputing Applications
+605 E Springfield Ave.
+Champaign, IL 61820
+217/244-6122
+
+"Kütüphane Kaynakları İnternet:
+Seçim ve Kullanım Stratejileri" 1992.
+RASD Zaman Zaman Yayınlanan Makale no. 12, üyelere 18$, üye olmayanlara 20$'a satılıyor. Şuradan sipariş edilebilir:
+ALA Sipariş Hizmetleri
+50 E. Huron
+Chicago, IL 60611,
+800/545-2433
+
+Elektronik versiyonları FTP üzerinden mevcuttur
+ASCII dosyası şuradan:
+host DLA.UCOP.EDU (128.48.108.25)
+directory /pub/internet/Libcat-guide
+
+host FTP.UNT.EDU (129.120.1.1)
+directory /pub/library/libcat-guide
+
+WordPerfect 5.1 dosyası şuradan:
+host HYDRA.UWO.CA (129.100.2.13)
+directory libsoft/internet.com
+
+Merit's Cruise of the İnternet
+
+Bu çekici genel bakış Macintosh'ta harika görünüyor.
+Windows sürümünü görmedim.
+
+README metninden: "Merit'in `Cruise of the Internet'i, yeni ve deneyimli İnternet `gezginleri' için bilgisayar tabanlı bir eğitimdir.
+Cruise, size süper bilgisayar, azınlıklar, multimedya ve hatta yemek pişirme gibi çeşitli İnternet kaynaklarını tanıtacaktır. Ayrıca bu kaynaklara erişmek için gereken araçlar hakkında bilgi sağlayacaktır."
+
+ftp'yi NIC.MERIT.EDU /internet/resources'a gönderin. Macintosh ve Windows sürümleri ve kurulum prosedürlerini açıklayan README metin dosyaları vardır.
+
+A Cruise of the Internet
+Apple Macintosh bilgisayarlar için 2.01 Sürümü
+1 Aralık 1992
+
+SİSTEM GEREKLİLİKLERİ
+Bu eğitim, 256 renk görüntüleyebilen herhangi bir renkli Macintosh'ta çalışacaktır.
+
+Cruise eğitimini çalıştırmak için şunlara ihtiyacınız olacak:
+
+- Bir Macintosh II, LC veya Quadra serisi bilgisayar
+- 8 bit renkli ve herhangi bir renkli monitör (en az 12 inç)
+- Sistem 6.05 veya 7.x
+- Yaklaşık 3 MB disk alanı
+- 4 MB RAM önerilir
+- İnternet bağlantısı ve FTP üzerinden dosya transferi yapan yazılım.
+
+İnternet Cruise
+Sürüm 2. 0 IBM-DOS ve Windows çalıştıran DOS uyumlular için
+28 Ekim 1992
+
+SİSTEM GEREKLİLİKLERİ:
+Bu eğitim, 640 x 480 en boy oranında 256 renk görüntülemek üzere donatılmış herhangi bir IBM-DOS veya DOS uyumlu bilgisayarda çalışacaktır.
+
+Cruise eğitimini çalıştırmak için şunlara ihtiyacınız olacak:
+
+- IBM-DOS veya DOS uyumlu bir bilgisayar
+- 640 x 480'de 256 renk görüntülemek üzere ayarlanmış XGA veya XGA uyumlu adaptör
+- Microsoft Windows(TM) sürüm 3.1
+- Yaklaşık 1,5 MB disk alanı
+- Minimum 2 MB RAM
+- İnternet bağlantısı ve FTP üzerinden dosya transferi yapan yazılım.
+
+"İnternette Madencilik"
+
+Maden olarak İnternet metaforu popüler bir temadır. Mücevher ve cevher aramak için
+ağ matrisinde tünel açmak gerçeklerden çok da uzak değildir. Bazen zor bir iştir ve bunun çoğu karanlıkta çalışmaktır.
+
+University of California at Davis'ten temin edilebilen "Mining the Internet" adlı bir rehber kitap vardır. Gold Country Mining
+
+Talimatları şöyle başlar:
+"Sadece maaş için sekiz ila beş saat çalışmaktan bıktın. değil mi?
+Ve bilinmeyen yerlere doğru yola çıkmak istiyorsun. Bir maceraya atılmak istiyorsun.
+Hadi o zaman benimle 'Mining the Internet'e' git, Clementine'in babası
+(o benim canım), sana eski zaman hikayeleri anlatacağım ve
+öğrenciler, öğretim görevlileri ve personel için geniş alan ağı adlı yeni bir kaynakla tanıştıracağım. 'Sana zarar vermeyecek ve şans eseri bir vuruş için olasılık iyi görünüyor."
+
+"İnternette Madencilik" ve "İnternet A&B'yi Kullanma" şu adresten edinilebilir:
+Bilgi İşlem Hizmetleri
+Kaliforniya Üniversitesi
+Davis, CA 95616-8563
+916/752-0233.
+Veya elektronik olarak anonim ftp ile
+ucdavis.edu (128.120.2.1)
+dizin /ucd.netdocs/mining
+
+NSF Ağ Hizmet Merkezi (NNSC)
+
+NSF İnternet Turu HyperCard Yığını--bunu görüntülemek için yeterince uzun bir
+Macintosh ödünç alın, buna değer! Net geçmişi, net haritaları,
+net şiiri ve gelenekleri içerir. Ücretsiz.
+
+Ayrıca çok kapsamlı bir İnternet Kaynak Rehberi (15 $) yayınlıyorlar. HyperCard Tour to the Internet dahil olmak üzere birçok öğe, anonim olarak
+ftp yoluyla nnsc.nsf.net adresinden ücretsiz olarak edinilebilir
+
+NNSC
+Bolt Beranek ve Newman Inc.
+10 Moulton Street, Cambridge, MA 02138
+617/873-3400
+nnsc@nnsc.nsf.net
+
+İnternetteki Benzersiz ve İlgi Çekici Kaynaklara Yeni Kullanıcı Kılavuzu 2.2.
+
+NYSERNet'ten (New York Eyalet Eğitim ve Araştırma Ağı) edinilebilir.
+145 sayfadan fazladır ve yaklaşık 50 kaynak listeler. OPACS, veritabanları,
+bilgi kaynakları ve daha fazlası. Yeni Kullanıcı Kılavuzu
+25,00$ maliyetle basılı olarak edinilebilir. (NYSERNet Üyeleri: 18,00 $)
+
+Elektronik olarak
+nysernet.org (192.77.173.2) adresinden
+/pub/resources/guides dizininde mevcuttur
+
+New.user.guide.v2.2.txt olarak adlandırılır
+
+Daha fazla bilgi için:
+NYSERNet, Inc.
+111 College Pl.
+Syracuse, NY 13244-4100
+315/443-4120 FAX 315/425-7518
+info@nysernet.org
+
+NorthWestNet Kullanıcı Hizmetleri İnternet Kaynak Kılavuzu
+
+NorthWestNet, elektronik posta, dosya transferi, uzaktan oturum açma, tartışma grupları,
+çevrimiçi kütüphane katalogları ve süper bilgisayar erişimini kapsayan 300 sayfalık bir İnternet kılavuzu yayınladı.
+
+NorthWestNet'ten kopyalar 20,00 $ karşılığında satın alınabilir. Ayrıca anonim ftp yoluyla da kullanılabilir:
+ftphost.nwnet.net
+/nic/nwnet/user-guide dizininde
+
+NorthWestNet
+15400 SE 30th Place, Suite 202,
+Bellevue, WA 98007
+206/562-3000 FAX: 206/562-4822
+
+"Them Thar Networks! or Searching for Gold in all the Wrong Places" Ohio State University'den Jerry Martin tarafından yazılmıştır. Bu
+belgeye Infoserver@nnsc.nsf.net adresine internet mesajıyla ulaşılabilir.
+Mesaj alanına girdikten sonra, belgeyi almak için şu komutları verin: REQUEST:NSFNET
+TOPIC:NETWORK-TREASURES
+REQUEST: END
+
+"The Yanoff Lists"
+
+"Special Internet Connections" Scott Yanoff tarafından derlenmiştir. Bu, telnet ve ftp kullanılarak erişilebilen ağ kaynaklarının vazgeçilmez haftalık listesidir.
+
+Birkaç Çevrimiçi Kamu Erişim Kataloğu, sohbet hatları, hava durumu
+sunucuları, Kampüs Genelinde Bilgi Sistemleri ve referans kaynakları içerir.
+
+Liste yöneticisine (Scott Yanoff) şu adresten e-posta gönderin:
+yanoff@csd4.csd.uwm.edu
+veya
+ftp'den csd4.csd.uwm adresine. edu
+Dosya adı inet-services.
+
+Tartışma Listeleri Hakkında Daha Fazla Bilgi Edinme
+
+İnternette binlerce tartışma grubu, LISTSERV ve posta yansıtıcısı
+vardır. İlginizi çeken listeleri bulmanın birkaç yolu şunlardır.
+
+NYSERNet.org'dan edinilebilen LISTSERV'ler
+Nysernet.org, halk_müziği ve halk kütüphanecileri için PUBLIB dahil olmak üzere 20'den fazla listeye ev sahipliği yapar. Ev sahibimize etkileşimli bir
+mesajla LIST GLOBAL komutunu gönderin. Örneğin:
+
+Kime: LISTSERV@nysernet.org
+Konu:
+Mesaj: LIST GLOBAL
+
+SRI NIC Bakımlı İlgi Grupları Listeleri Listesi
+Bu, ftp.nisc.sri.com'dan (192.33.33.22) /netinfo/interest-groups dizininde FTP ile kullanılabilir.
+
+SRI NIC liste listesi elektronik posta yoluyla da kullanılabilir. Aşağıdaki satırı mesaj gövdesine ekleyerek mail-server@nisc.sri.com adresine bir mesaj gönderin:
+Send netinfo/interest-groups
+Örnek:
+Kime: mail-server@nisc.sri.com
+Konu:
+Mesaj: Send netinfo/interest-groups
+
+Listelerin Listesi
+
+Kapsamlı bir liste listesi, LISTSERV yazılımını çalıştıran bazı büyük ana bilgisayarlardan, etkileşimli bir mesajda LIST GLOBAL komutu gönderilerek elde edilebilir. Bu, söz konusu ana bilgisayarın o tarihte bildiği tüm listelerin "liste başına bir satır" listesini döndürür.
+Örnek:
+Kime: LISTSERV@VM1.NoDak.EDU mail
+Konu:
+Mesaj: LIST GLOBAL
+
+Küresel liste ayrıca çevrimiçi olarak da aranabilir. Ayrıntılar için LISTSERV'e INFO DATABASE komutunu gönderin
+
+Ağ Erişilebilir Veritabanı Sunucusu
+
+Yalnızca LISTSERV@VM1.NoDak.EDU'da bulunan, aranabilir ilgi grupları veritabanıdır. Örneğin, veritabanlarında "cats" ile ilgili listeleri aramak için aşağıdaki ifadeleri gönderebilirsiniz (bunları LISTSERV'e göndereceğiniz e-posta mesajınıza aynen kopyalayın):
+
+//DBlook JOB Echo=No
+Database Search DD=Rules
+//Rules DD *
+Select cats in lists
+index
+Select cats in intgroup
+index
+Select cats in new-list
+index
+
+Bu ifadeler, listelerin global LISTSERV listesini ("listelerde") ve SRI-NIC İlgi Gruplarının yerel kopyasını ("intgroup'ta") ve "new-list" listesinin arşivlerini ("in new-liste") arar. Daha fazla bilgi için LISTSERV'e INFO DATABASE komutunu gönderin.
+
+Akademik Elektronik Konferanslar Dizini'nin 5. Revizyonu
+
+Bu kaynak LISTSERV@KENTVM veya
+LISTSERV@KENTVM.KENT.EDU adresinden ve anonim FTP yoluyla
+ksuvxa.kent.edu
+adresinden kütüphane
+dizinine erişilebilir.
+
+Bu duyuru ACADLIST README DOSYASI'ndan alınmıştır
+
+"Bu dizin, akademisyenlerin ilgisini çeken konularda 805 elektronik konferansın (ekonferans) açıklamalarını içerir. E-konferans, tartışma listeleri, ilgi grupları, e-dergiler,
+e-haber bültenleri, Usenet haber grupları, forumlar vb. içeren bir şemsiye terimdir. Akademik ilginin ne olduğuna karar verirken kendi yargımızı kullandık ve kararlarımızla ilgili her türlü tavsiyeyi
+veya argümanı kabul ediyoruz. Elektronik konferansın *baskın* akademik konu alanının ne olduğuna karar vererek girişleri kategorilere yerleştirdik."
+
+"5. Revizyon, Dizini HyperCard(TM), dBase(TM) ve diğer veritabanı programlarına beslemeyi kolaylaştırma girişimini içerir.
+Bu çabanın ilk adımı, her kaydın her bir parçası için alan etiketleri kullanmaktı. Ayrıca, konu bilgilerini 25-50 kelime arasında tutmaya çalışarak her kaydın boyutunu küçülttük (bazıları hala daha büyük).
+Bu konu hakkındaki tavsiyeler dkovacs@kentvm.kent.edu adresinden memnuniyetle kabul edilecektir."
+
+"Ek olarak, her kayda editoryal politika ve arşiv kullanılabilirliği
+ve sıklığı hakkında bilgi de eklenmiştir. Mümkün olduğunda, her kayıttaki bilgiler, LISTSERV tabanlı e-konferanslar durumunda LISTSERV başlığını kontrol ederek ve diğer türdeki e-konferansların moderatörleriyle iletişime geçerek güncellik ve doğruluk açısından kontrol edilmiştir."
+
+"Alan etiketleri şu şekildedir:
+LN: (e-konferans adı)
+TI: (konu bilgisi)
+SU: (abonelik bilgisi)
+ED: (düzenlendi mi? Evet mi Hayır mı)
+AR: (arşivlendi mi? Evet ise, sıklık, private=sadece aboneler)
+MO: (moderatör, editör, liste sahibi, yönetici, koordinatör, vb.)
+IA: (`resmi' kurumsal bağlantı). "
+
+"Konu açıklamaları, her liste sahibi, editör, moderatör veya koordinatör tarafından Yeni Liste, Listeler Listesi ve İnternet İlgi Grupları dosyasına sağlanan açıklamalardan tamamen veya kısmen alınmıştır."
+
+"Herhangi bir hata, Akademikler için Elektronik Konferanslar Dosyalarının derleyicisinin sorumluluğundadır. Bu elektronik konferanslardan herhangi biri hakkında düzeltmeler veya ek bilgiler sağlayabilirseniz, lütfen şu kişiyle iletişime geçin:
+
+Diane Kovacs (Bitnet) DKOVACS@KENTVM (İnternet)
+DKOVACS@KENTVM.KENT.EDU
+
+Bu dosyalar Akademik E-Konferanslar Rehberinde mevcuttur:
+ACADLIST README (Rehber için açıklayıcı notlar)
+ACADSTCK HQX (binhexed, kendi kendini sıkıştıran, tüm Rehberin HyperCard Yığını - Anahtar kelime aranabilir)
+ACADLIST FILE1 (Antropoloji-Eğitim)
+ACADLIST FILE2 (Coğrafya-Kütüphane ve Bilgi Bilimi)
+ACADLIST FILE3 (Dilbilim-Siyaset Bilimi)
+ACADLIST FILE4 (Psikoloji-Yazma)
+ACADLIST FILE5 (Biyolojik bilimler)
+ACADLIST FILE6 (Fizik bilimleri - artık Akademik Hesaplama ve Bilgisayarı da içeriyor Bilim)
+ACADLIST FILE7 (iş, Akademi, haberler)
+ACADWHOL HQX (binhexed self-decompressing Macintosh M.S. Word
+7 dizinin tamamının 4.0 belgesi)
+ACADLIST.CHANGES (Büyük eklemeler ve silmeler)
+
+Yukarıdaki dosyaları posta yoluyla nasıl alabilirsiniz
+
+1. LISTSERV@KENTVM veya
+LISTSERV@KENTVM.KENT.EDU adresine bir e-posta mesajı gönderin.
+2. Konu ve diğer bilgi satırlarını boş bırakın.
+3. Mesaj şöyle olmalıdır: GET Dosya adı Dosya türü
+(örn., dosya adı=ACADLIST dosya türü=FILE1 veya HQX veya benzeri)
+4. Dosyalar size gönderilecek ve bunları almanız gerekir.
+5. Alma vb. konularda yardıma ihtiyacınız varsa yerel Bilgisayar
+
+Hizmetleri personelinize başvurun.
+
+Dosyalar anonim FTP (Dosya Aktarım Protokolü) aracılığıyla nasıl alınır
+
+FTP'den KSUVXA.KENT.EDU'ya
+1. `USERID' istendiğinde, ANONYMOUS yazın.
+2. Parolanız yerel makinenizdeki gerçek kullanıcı kimliğiniz olacaktır.
+3. Tür: cd library
+4. Tür: GET Filename.Filetype (örneğin, filename=ACADLIST
+filetype=FILE1 veya HQX veya her neyse)
+5. Dosyalar doğrudan sitenizdeki ftp'lediğiniz dizine aktarılacaktır.
+
+Yeni Listeler ve Liste Değişiklikleri
+
+Her gün yeni listeler başlatılıyor ve eskileri kayboluyor.
+Bu değişiklikleri öğrenmek için NEW-LIST postasına katılın.
+İşte Hoş Geldiniz mesajlarının bir kısmı:
+
+"`NEW-LIST' listesi, yeni kamu posta listelerinin duyurularını yayınlamak için merkezi bir adres olarak kurulmuştur. Ek olarak, `NEW-LIST' bir liste oluşturmadan önce son bir doğrulama olarak kullanılabilir (aynı konu hakkında mevcut listeleri kontrol etmek vb. için). Ancak, İnternet Listeleri Listesi (SIGLIST veya INTEREST-GROUPS listesi), LISTSERV GROUPS ve büyük LISTSERV'lerdeki LISTS veritabanı gibi kaynakları kontrol ettiğinizden emin olun (LDS veritabanımız NDSUVM1'dedir)."
+
+"Yeni Liste duyurularını, nihai liste tekliflerini (çatışmaları veya tekrarları önlemek için) veya bazı listelerin kullanılabilirliğiyle ilgili acil duyuruları memnuniyetle yeniden yayınlayacağız.
+
+Liste İnceleme Hizmeti
+
+Bu kişiler bir listeye abone olur ve bir süre izler ve sonra bunu herkese bildirir. Bu harika bir fikir ve bir listeyi "örneklemek" için kullanışlı bir yoldur.
+Abonelik bilgileri aşağıdadır. Liste İnceleme Hizmeti listesine eklenmek için yazarına e-posta gönderin, BITNET ADRESİ: SRCMUNS@UMSLVMA
+
+LİSTE İNCELEME HİZMETİ ISSN: 1060-8192 Missouri Üniversitesi, St. Louis Kütüphaneleri tarafından okul açıkken iki haftada bir yayınlanır.
+Raleigh C. Muns, editör.
+Daha fazla bilgi için:
+Thomas Jefferson Kütüphanesi
+Missouri Üniversitesi St. Louis
+8001 Natural Bridge Road
+St. Louis, MO 63121
+314/553-5059
+
+İnternet Kütüphane Rehberleri
+
+Hem yeni başlayanlara hem de deneyimli OPAC kullanıcılarına yardımcı olmak için üç farklı İnternet kütüphane rehberi mevcuttur.
+
+Art St. George'un İnternet Erişimli Kütüphane Katalogları ve Veritabanları, İnternet kütüphaneleri ve Kampüs Genelinde Bilgi Sistemleri'nin yanı sıra Amerika Birleşik Devletleri'ndeki çevirmeli kütüphaneler ve ilan panoları için talimatlar içerir.
+Şuradan edinilebilir:
+ariel.unm. edu
+/LIBRARY/INTERNET.LIBRARY
+
+Billy Barron'ın Accessing On-line Bibliographic Databases adlı eseri yerel OPAC kaçış dizileri ve komutları için kılavuzlar gibi bir dizi yararlı özellik içerir. FTP to ftp.unt.edu
+(129.120.1.1)
+/LIBRARY/LIBRARIES.TXT
+
+Dana Noonan'ın A Guide to Internet/Bitnet adlı eseri iki bölümden oluşur. İkinci bölüm
+İnternet Kütüphaneleri hakkındadır. Birçok ulusal ve
+uluslararası OPACS ve bunların oturum açma ve kullanım talimatları için kullanımı kolay bir kılavuzdur. (vm1.nodak.edu'dan anonim ftp ile ve ardından CD NNEWS ile edinilebilir (nnews dizin menüsünde görünmese de işe yarar.) Metronet'ten 10 dolara basılı bir versiyonu mevcuttur. Daha fazla bilgi için:
+Metronet
+226 Metro Square Building
+Seventh ve Robert Streets
+St. Paul, Minnesota 55101
+612/224-4801 FAX 612/224-4827
+
+İnternet Gezgini İçin Olmazsa Olmaz Kitaplar
+
+Kehoe, Brendan. (1993). Zen and the Art of the Internet: a Beginner's
+Guide (2. basım). Englewood Cliffs, NJ: Prentice-Hall. İlk basım birçok FTP sitesinden ücretsiz olarak edinilebilir (aşağıya bakın) Bu versiyonda yaklaşık 30 sayfa yeni materyal vardır ve ilk basımdaki çeşitli küçük hatalar düzeltilmiştir. İnternetteki Coke Machine hikayesini içerir. 1991'in sonları ve 1992'nin ilk yarısı boyunca, İnternet hakkında bilgi edinmek için tercih edilen belge buydu. ISBN 0-13-010778-6. Dizin. 22,00 $
+
+PostScript sürümünde Zen 1.0'ı ftp'lemek için:
+ftp.uu.net [137.39.1.9] dizin /inet/doc
+ftp.cs.toronto.edu [128.100.3.6] dizin /pub/zen
+ftp.cs.widener.edu [147.31.254.132] dizin /pub/zen zen-1.0.tar.Z,
+zen-1.0.dvi ve zen-1.0.PS
+ftp.sura.net [128.167.254.179] dizin /pub/nic zen-1.0.PS
+Ayrıca birçok yerde okunabilir Gopher sunucuları.
+
+Krol, Ed. (1992). The Whole Internet User's Guide & Catalog. Sebastopol,
+CA: O'Reilly & Associates. Ağın nasıl çalıştığına, alan adı sistemine, kabul edilebilir kullanıma, güvenliğe ve diğer konulara dair kapsamlı bir kılavuz.
+Telnet/uzaktan oturum açma, Dosya Aktarım Protokolü ve elektronik
+posta ile ilgili bölümler hata mesajlarını, özel durumları ve diğer sırları açıklar. Archie,
+Gopher, Net News, WAIS, WWW ve sorun giderme, bu iyi yazılmış kitapta her biri bir bölümden keyif alır. Ekler, bir sözlüğe ek olarak nasıl bağlanılacağına dair bilgiler içerir. ISBN 1-56592-025-2. 24,95 ABD doları
+
+LaQuey, Tracey, & Ryer, J.C. (1993). The Internet Companion: a Beginner's Guide to Global Networking. Reading, MA: Addison-Wesley. Başkan Yardımcısı Seçilmiş Al Gore'un önsözüyle başlayan bu kitap, İnternet'in kökenleri, kabul edilebilir kullanım, elektronik postanın temelleri, netiquette, çevrimiçi kaynaklar, bilgi aktarımı ve e-posta adresleri bulma konularında sıklıkla mizahi bir açıklama sunar. Bilgili
+kılavuzu, İnternet efsaneleri (Elvis'in görülmesi bunlardan biridir),
+kuruluşlar, güvenlik sorunları ve nasıl bağlanılacağı hakkında arka plan bilgileri sağlar. Kaynakça.
+Dizin. ISBN 0-201-62224-6 10,95 $
+
+Marine, Nisan. (1992). INTERNET: Başlarken.. Menlo Park, CA: SRI
+Uluslararası. Bu kitap uluslararası bir genel bakışa sahiptir ve diğerlerinin içermediği şeyleri içerir, örneğin tüm RFC'lerin (Yorum Talebi) dizini,
+İnternet kuruluşları, TCP/IP CD ROM'u için kaynak bilgileri ve
+"İnternet'ten kim sorumludur?" sorusunun cevabı (Hiç kimse değil. İnternet, bağımsız olarak yönetilen ağların işbirliği yapan bir grubudur. Bazı gruplar temel politikayı belirler.) ISBN 0-944604-15-3 39,00 $
+SRI
+333 Ravenswood Ave.
+Menlo Park, CA 94025
+
+Tennant, Roy, Ober, J., & Lipow, A. G. (1993). Crossing the Internet
+Threshold: An Instructional Handbook. Berkeley, CA: Library Solutions
+Press. Kendi İnternet eğitim oturumlarınızı yönetmeniz için bir yemek kitabı. Gerçek dünya
+örnekleri. Cliff Lynch'in önsözü. ISBN: 1-882208-01-3 45,00 $
+Library Solutions Institute and Press
+2137 Oregon Street Berkeley, CA 94705
+510/841-2636 FAX: 510/841-2926
+
+Dergi
+
+John S. Quarterman tarafından düzenlenen aylık haber bülteni Matrix News.
+Abonelikler, kağıt baskı için yılda 30 $, çevrimiçi baskı için yılda 25 $'dır. Matrix Haberleri, Matrix Bilgi ve Rehberlik Hizmetleri, Inc.
+(MIDS)
+1106 Clayton La.
+Suite 500 W
+Austin, TX 78746
+512/329-1087 FAX: 512/327-1274
+mids@tic.com
+
+Kuruluşlar
+
+CNI Ağ Bilgi Koalisyonu
+1527 New Hampshire Ave., NW
+Washington, DC 20036
+202/232-2466 FAX: 202/462-7849
+info@cni.org
+
+CPSR Sosyal Sorumluluk İçin Bilgisayar Profesyonelleri
+PO Box 717
+Palo Alto, CA 94302
+415/322-3778 FAX: 415/322-3798
+CPSR Bülteni, yıllık Bilgisayarlar, Özgürlük ve Gizlilik Konferansı, poster
+("Teknoloji geleceği yönlendiriyor-- kimin yönlendirdiğini bulmanın zamanı geldi.")
+cpsr@clsi.stanford.edu
+
+EFF The Electronic Frontier Foundation, Inc.
+155 Second St.
+Cambridge, MA 02141
+617/864-1550 FAX: 617/864-0866
+EFFector'ı çevrimiçi ve basılı sürümlerde yayınlar. Tişörtler,
+tampon çıkartmaları ("Telekomünikasyonla çalışmayı tercih ederim"; "ISDN: Bunu öyle yapın.";
+"CYBERNAUT")
+eff@eff.org
+
+Internet Society
+1895 Preston White Drive
+Suite 100
+Reston, VA 22091
+703/620-8990, FAX 703/620-0913
+Yıllık konferans, üç aylık Internet Society Haberleri. isoc@nri.reston.va.us
+
+==============================================
+Bu makale hakkında daha fazla bilgi için:
+Jean Armour Polly
+Ağ Geliştirme ve Kullanıcı Eğitimi Yöneticisi
+NYSERNet, Inc.
+111 College Place
+Syracuse, NY 13244-4100
+315/443-4120
+FAX: 315/425-7518
+jpolly@nysernet.org
+=============================================
+
+Jean Armour Polly'nin Project Gutenberg'in İnternette Sörf Yapma kitabının sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SURFING THE INTERNET ***
+
+***** This file should be named 49.txt or 49.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/49/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

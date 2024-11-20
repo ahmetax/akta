@@ -1,0 +1,1540 @@
+*** START OF AKTAHEADER ***
+Başlık: Minstrel Weather (Minstrel Hava Durumu)
+Yazar: Marian Storm
+Yayın Tarihi: January 23, 2012 [EBook #38645]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/38645
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: ekonomi
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Minstrel Weather, by Marian Storm
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Minstrel Weather
+
+Author: Marian Storm
+
+Illustrator: Clinton Balmer
+
+Release Date: January 23, 2012 [EBook #38645]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MINSTREL WEATHER ***
+
+*** START OF TURKISH PART ***
+Irma Spehar, Markus Brenner ve https://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu
+dosya The Internet Archive/American Libraries tarafından cömertçe sağlanan
+resimlerden üretilmiştir.)
+
+Minstrel Weather
+
+TARAFINDAN
+MARIAN STORM
+
+_İllüstrasyonlar ve Süslemelerle
+Clinton Balmer_
+
+[İllüstrasyon]
+
+Bilgi, biz düşman değiliz.
+Uzun zamandır benimle uğraştın;
+Ama dünya büyük bir rüzgarla esiyor,
+Ağlayarak, ama senden değil!
+
+EURIPIDES
+
+HARPER & BROTHERS YAYINCILIK
+NEW YORK VE LONDRA
+
+[İllüstrasyon]
+
+MÜZİK ADAMI HAVASI
+
+Telif hakkı, 1920, Harper & Brothers
+Amerika Birleşik Devletleri'nde basılmıştır
+Kasım 1920'de yayınlanmıştır
+K--U
+
+_AMY LOVEMAN İçin
+
+MÜZİK ADAMI Saatler ve Mevsimler İçin Ezgisini Yaptı
+
+Çiy düşmesi, ay doğumu, yüksek tatlı yonca,
+Alacakaranlıkta baca ebabilleri oynar;
+Bıldırcın çağrısı, baykuş ötüşü, güveler havada asılı kalır,
+Günün adımlarında gece yarısı soluklaşır.
+
+Yıldızlar azalır, örümcek ağı, kahverengi tüylü eğrelti otu;
+Sabah güler, kırağı çiçek açar;
+Ördek uçuşu, tazı çığlığı; yabani üzümler kararır.
+Gün, kehribar saatte sıçrar.
+
+Güneş karanlık, kar bulutu, saçaklar buzla kaplı,
+Kızıl Batı'da yığılmış gri kum;
+Sönük kanat, pul dansı; sayılamayan rüzgarlar
+Yaprak tomurcuklarının dinlendiği beşikleri salla.
+
+Geniş ışık, dallar parlak, altın saçaklı çayırlar,
+Çalkantılı çimenlerde kırmızı meyveler;
+Akarsu şarkısı, yuva notası, derin gölgeler düşler
+Öğle vaktinin geçmesi için yavaşça geri çekilmiş.
+
+İÇERİK
+
+BÖLÜM SAYFA
+
+I. Janus'un Yüzleri 1
+
+II. Ormanda Bir Sevgililer Günü 7
+
+III. Mart Tavşanının Yolları 13
+
+IV. Nisan Anı 19
+
+V. İlkbaharın Zirvesi 25
+
+VI. Saman Hasat Zamanı 31
+
+VII. Sarı Çiçekler Ayı 37
+
+VIII. Ağustos'un Ruh Hali 43
+
+IX. Yaz Duraklamaları 48
+
+X. Meşeler Erik Giydiğinde 54
+
+XI. Kasım Özellikleri 60
+
+XII. Noel Ormanları 66
+
+XIII. Rüyalarda Görülen Manzaralar 72
+
+XIV. Saklanma Yerleri 78
+
+XV. Yaprakların Oyunu 84
+
+XVI. Kahverengi Sınır 90
+
+XVII. Uzak Sunaklar 96
+
+RESİMLER
+
+Yalnız Çobanlara Açıklanan Samanyolu _Ön Sayfa_
+
+Ateş Işığının Rahatlatıcı Sembolizmi
+Temiz Ocaklarda Oyun _Karşı Karşıya_ s. 4
+
+Işığın Güçleri " 10
+
+En Tepedeki Dallarda Periler Uyuyor " 26
+
+Gelen Yazın Sevinçli Çığlığı " 28
+
+Dalışan Yarasa Sessizce Ok Atıyor " 34
+
+Şimdi Dağcının Kızı İçeriye Acele Ediyor
+Akşam Vakti Bulutlardaki Vahşi Avcının
+Hayranlık Hayaletinden" 54
+
+Baldwins On İkinci Gecede Yumuşuyor " 58
+
+Aralık Acımasız Bir
+Kaderi Kabul Ediyor--Her Şey Olabilir " 68
+
+MÜZİK HAVASI
+
+BÖLÜM I.
+
+YÜZLER JANUS
+
+[İllüstrasyon]
+
+Ocak ayında safran rengine bürünen günler ve çiğdemleri haber veren sarı ışıklı öğlenler olsa da, ay henüz tamamen dost canlısı değildir. Yıl şimdi en acımasız mevsimine doğru ilerliyor. Nazikçe gelen geceler çayırları demire çevirebilir, meşelerden son sadık yaprakları koparabilir, ayın üzerine kalın bulutları sürebilir ve
+şiddetli bir şafakla sona erebilir. Ocak ayı bir elinde nazik havayı, diğer elinde kar fırtınalarını barındırır ve bir kar fırtınasının ne olabileceğini yalnızca çayırlarda veya dağlarda yaşayanlar bilir. Kar çılgına döndü, lejyonları
+hançerlerini çekmiş, öfkeli, hiçbir kötülük taşımayan,
+ama kesinlikle hiçbir şefkat taşımayan ve dışarıdaki tüm yaratıkları ezen bir şekilde ülke boyunca koşturuyor:
+şaşkın sürüler, dallarında yarı donmuş kuşlar, akılsızca
+barınaksız dağlarda bırakılan sığırlar ve hayvanlar pes etmeden çok önce yolunu
+kaybeden insanlar. Kar, tam dehşetiyle Kuzey vadilerini veya ovaların bitmek bilmeyen yalnızlıklarını süpürdüğünde, peri yıldızlarından ve çiçeklerden yapılmış gibi görünmüyor. Saldırıya hazır bu fırtına, Conrad'ın denizcilerin denizdeki bir fırtınada sıklıkla algıladığını söylediği kötü niyetten bir parça taşıyor. Bir kar fırtınası tarafından takip edilen binici, savrulan denizci gibi, "bu temel güçlerin kendisine bir amaçla, dizginlenemez bir zulümle, hayatını alma gibi basit ve korkunç bir eylemle tüm değerli dünyayı süpürmek anlamına gelen bir amaçla geldiğini" hissedebilir. Soğukla ​​baş başa kaldığımızda bu acınası yanılgıya gülümsemeyiz. Yakalanan dağcı anlar - onu yakalamak ister. Bu şeyler, havanın sargılara ve fırınlara itaat etmediği, ancak el ele mücadele edilmesi gereken ve güzel karın kurbanının ayaklarını dolaştırdığı ve onu yavaşça lezzetli bir sıcaklık rüyasında uyuttuğu yerlerde olur. Tropikal şimşek, yalnız yollarda yürürken soğuğun sakin ve her şeye kadir değildir. Ocak, baharın pusunun ve güneş ışığının loş şefkatinin tavşanı başka bir _al fresco_ şekerleme denemeye teşvik ettiği günleri bilir, ancak bunun uygunsuz olduğunu bilir. Dağ sıçanı bile, çözülme aşağı doğru sürünürken uykusunda dönüp koklamalı; ve misk sıçanı bir kez daha su ile güvenli yoluna devam ederken, çelik tuzak kıyıda bekler, düşen bir kozalak tarafından insanca
+sıçratılmak üzere. Kıvrak kızıl tilki, üst meralarda
+kayıp gidiyor ve sert söğütlerin arasında meydan okunmadan dolaşıyor, çünkü bu avlanma havası değil. İşkence gören vizon için geçici bir soluklanma geliyor.
+Ayın sonuna doğru, Şubat ve Mart aylarının geleceğinden habersiz, kedi söğütleri, kısa süreli yumuşaklıktan
+sahtekârca aldatılmış, merakla dışarı çıkıyor ve derenin yanında bekliyor, bu buzun sadece
+artık kaldığına ikna olmuş durumdalar--her zaman ilk önce elinde olan, nar damarlı
+kokarcanın lahanasını ne geciktirmiş olabilir? Çiçekçiler tarafından o kadar çok söğüt gerekiyor ki, belki de erken çıkışları için çok fazla ödeme yapmıyorlar. Ama şimdi hepsi gri. Mart ayında sadece son çiçeklerinin değil, kürklerinin de bulutlu, koyu kırmızı ve sarısını gösteriyorlar.
+Kuşlar aynı renk ve konturdaki diğer lezzetlerin peşinde koşarken onları ihmal ettikleri için, yukarı kaldırılmış kümelerde bol miktarda kırmızı kuşburnu var. Doğa muhtemelen kış balıkçılarına kuşburnunun işe yaramadığını söylemiştir - bahar süsleri kar perileri tarafından çalınmamalıdır.
+Tüf mantarları eski kütüklerden kopmuştur ve alçak ormanlarda yürürken ara sıra birine basabilir, dünyanın sepya yapraklarının hüzünlü pelerini altında yandığı ve sevgi ve anlayışla
+üzerine basanları uyarmak için küçük duman bulutları
+gönderdiği hayalini uyandırabilirsiniz.
+
+Tatlı gökyüzü taşlaştığında ve hüzünlü kış yağmuru
+soğuk bir sisle sona erdiğinde, Ocak ayında havası su altında, bahar soğuğunda bir gölde nefes almaya benzeyen, inanılmaz,
+zevksiz balıkların gri unsurlarında hareket ettiği, belki de çamurdan bir battaniyenin altında iyice kıvrılmış kurbağaları ve kaplumbağaları dürtmekte soluk eğlenceler bulduğu günler vardır. Elbette soğukkanlıdırlar ve
+sıvı atmosferin baskıcılığını umursamamaları gerekir. Ancak kendimiz
+böyle bir ortamda hareket ettikten sonra herhangi bir yaratığın bunu tercih ettiğini düşünmek harika ve kendi dünyamızın muhteşem bir
+donmuş havaya doğru yüzeceğini önceden bilmek iyidir. [İllüstrasyon]
+
+Ocak ayını sakin ışıltılı günleriyle hatırlardık,
+kırılgan fırtınalarla, nisan sanrılarıyla veya karanlık sisle değil. Güneş hareket ettikçe değişen parlak pullarla kesintisiz kar ve üstünde, bir pençesiyle civanperçemi veya hardal saplarına tutunan ve diğeriyle tohumları
+serçeleyen cıvıldayan serçeler; ön plan beyaz olduğunda ve mika ile
+aydınlanmış mavimsi, kahverengi, toprak kırmızısı ve gri gösterdiğinde aniden renklerinin olduğunu gösteren eski taş duvarlar; gün batımında parlak turuncuya dönüşen
+inci buzla kaplı akarsular; uzak tepelerde bile
+zorlukla çizilmiş ladin ve baldıran; dışarıda paten zamanı ve içeride yakılmış kütükler--Kutuptan hızla gelen daha sert habercilerin tekrar gittiği kış ortası budur. Kar fırtınası olmasaydı, temiz ocaklarda
+ateş ışığının
+oynadığı rahatlatıcı sembolizmi bu kadar iyi bilemeyebilirdik. Birçok kişi,
+sadece kışın rahatlığının veya rahatsızlığının farkında olarak,
+asla tek başına
+kaçamak fırtınayla yüzleşmez,
+ya da düşmanca bir Doğanın dehşetiyle veya yakında dinmeyecek olan
+soğuk korkusuyla
+vurulmaz. Birinin yanardağda,
+gelgit dalgasında veya kar fırtınasında algıladığı şey, bir başkasınınkinden kurtulur; belki de ders, buna hazır olana kadar ertelenir. Bahar bu ay şapkacılara tatlı bir şekilde
+gelir. Vahşi doğaya hızlı ve tehditkar adımlarla
+tam bir kış gelir.
+
+BÖLÜM II.
+
+ORMANDA BİR SEVGİLİ
+
+[İllüstrasyon]
+
+En derin köklerdeki kuvvetler, donun
+kilidi altında huzursuzca büyür. Soğanlar kapıyı dener. Şubat'ın durgunluğu, sanki ışığın güçleri, dünyanın merkezinden yukarı doğru bastırıp
+daha güçlü güneşten aşağı doğru akarak, gömülü tohumları rahatsız etmiş gibi hafif bir endişeyle yüklüdür,
+kurtarıcılarına cevap vermeye çabalayan, böylece koruyan anne tekrar tekrar "Henüz değil, henüz değil!" diye fısıldamak zorunda kalır.
+Donmuş kapının arkasında kalmak, soğuk kurtlarının hala
+saldırdığı diyarlara çok erken gelmekten daha iyidir. Kar, akıllıca bir şekilde beyaz bir el koyar
+hevesli--hayat görülmez, ancak Şubat'ın ormanlarında bir yüzücünün pınarlarla beslenen bir göldeki suyun değişen ruh hallerini hissetmesi gibi algılanır. Sadece kalın yıldızlar, aylarca süren yeşilliklerden daha yakın ve daha arkadaş canlısı, uyanık ve dingin bir şekilde
+yanar. Şubat'ta Samanyolu, yılın bu ciddi ve sessiz zamanının yıldız ışığı saatlerinde yurtdışında olan yalnız insanlara--çobanlar, dağcılar, balıkçılar, avcılar--ilahi bir şekilde
+aydınlanır. Gökyüzünün en çok kırmızı çiçeklere sahip olduğu zamanlar
+uzun, donmuş gecelerdir.
+
+Şubat, alacakaranlık kanatlarının ritmini bilir. Tekrar kuzeye doğru sürüklenerek, bizi terk etmiş gibi görünen kuşlar gelir - maceracılar, güvenlikten pek hoşlanmasalar da
+kar ispinozunun ve çam ispinozunun
+yaprak dökmeyen ağaçların kozalaklarını nasıl yağmaladığını, baştankaraların, serçelerin ve kargaların ise yerleşik istasyonlardan mevcut tüm
+evcil malzemeleri nasıl denetlediklerini bulma riskini göze alırlar; bir serçe genellikle
+çatlak mısır payından bir ördeği bile rahatsız etmeyi mümkün kılar. Artan ışıkta kahverengi örtülü bir meşe dalı boyunca dizilmiş kargalar, tüylerinin görkemli bir şekilde
+parıldadığını gösterir. (Uçarken geniş bir kanattaki güneş, dalgacıktaki güneş kadar
+kalitelidir.) Baldıran otlarının toplandığı, kasvetli
+ormanların derinliklerinde, büyük boynuzlu baykuş, belki de karların arasında işini yaparken, Mart ayının sağlam tüy yumakları bulacağı bir yuva inşa etti. Eşinin gürleyen aşk şarkısı, kerestenin içinden duyulur. Çalıkuşu yuva yaptığında, bu kış bebekleri ünlü ırklarının
+bilgeliğiyle ciddileşecekler.
+
+Dereleri temizlemek için Şubat ayının sonu gibi bir mevsim yoktur.
+Hızla akan sarı sular, yırtık veya küllü yapraklar, dallar, meşe palamudu kapları, karaya oturmuş ağaç kabuğu salları ve çınar ağacından düğme toplarından oluşan kasvetli bir enkaz fırlatır, asla tohuma dönüşmez. Parçalayan selin hırsına göre bir kıyıda veya her ikisinde duran şövalye, asa ve cesur işaret parmağıyla su prensesini serbest bırakır. Sonra reverans yapıp
+parlak çakılların üzerinden gamzeler çizerek, onu yüksek arazilerde
+çatılayan buzun altından daha yumuşak vadilere doğru kayarak, hızlanan
+adımlarının çamurdan konaklarındaki kurbağalar tarafından duyulacağı ve
+ışığı olmayan göletlerdeki münzevi balıkların
+getirdiği ışığa yükseleceği yere doğru gider.
+
+Yazın, donmuş dağlardan aşağı, kuşlar ve rüzgarlar
+alp çiçeklerinin tohumlarını taşımalıdır--erimeyen karlara yaslanan zambaklar,
+haşhaşlar, parlak renkli otlar ve ülkelere göre isim değiştiren soluk, parlak, saçaklı güzellikler. Temmuz ayında buzun kenarına gelen çiçeklerin Şubat ayında daha soğuk olmayan
+ovalarda çiçek açmaya razı olması ne kadar da adil ve makul görünüyor! Kayalık Dağları'nın sert üst yamaçlarında, gecelerin yaz gezgini için
+acı olduğu mavi, macenta ve kızılın gösterisi - neden bu daha sakin ortamda saçaklardan sarkan buz sarkıtları olduğu aylarda bir vadi ahırının rüzgaraltı tarafında çiçek açmasın? Ama hayır. Dağ fırtınaları ipeksi yapraklılar için katlanılabilirdir.
+İlham veren güneşleri ve ardından kükreyen ıssızlığıyla tehlikeli ova kışı, farklı bir gelenekte yetiştirilen çiçekler içindir.
+
+[İllüstrasyon]
+
+Işık berrak ama tereddütlü, narin bir şarap, kesinlikle Nisan ayının güçlü
+bağırsak şarabı değil. Şubat ayında sarhoşluk yoktur; tarlaların sessiz uzandığı yerde havaya bir nabız veren belirsiz heves, hapsedilmiş yaşamın gizli
+hareketidir. İlkbahar ve gün doğumu sonsuza dek mucizelerdir,
+ama harikanın erken saatleri, gerçekleşmesinin coşkusunu pek de ima etmez. Orman sakinleri bile, deniz grisi bir manzaranın üzerinde asılı duran günün efendisinin herhangi bir nezaket vaadine minnettar olarak ciddi bir şekilde hareket ediyorlar, ancak uzun sıkıntılarının henüz bitmediğini çok iyi biliyorlar. Geyikler, çiftliklerin eteklerinde acınası bir şekilde dolaşıyor, kış otlağında otlayan sığırlara bakıyorlar ve genellikle karanlık çöktükten sonra çitleri temizleyip aynı dağınık ambarı soyuyorlar. En üstteki korkuluktan tek bir sincap bile göz kırpmıyor. Dağ sıçanı, insanlığın aydınlanması için yapmak zorunda olduğu Mum Günü'ndeki tek seferi sonrasında, güneş ışığında veya gölgede görünmeden emekliye ayrılmış ve henüz kendini rahatsız etmeye en ufak bir niyeti yok. Kardelenler rahatsız hissedebilir, ancak Mart'ın İdleri hakkında çok şey biliyor! Kuzey orman yaratıklarının en sessizi olan su samuru, bir buz sarkıtlı şelaleden diğerine kayıyor. Geriye kalan tek kaçamak
+pamukkuyruk, tüylülerin en çok takip edileni ve en nazik olanı olduğu için çekici; açlık kış lahanasına işaret etmediği sürece, sadakatle kimseyi gücendirmemeye çalışıyor, yine de peri gibi. Vizon da öyle,
+ama bir hayalet gibi hareket ediyor.
+
+Mart ayının ilk ayak bastığı yosunlar, bataklıklarda bir ton daha parlak görünüyor.
+Kedi söğütleri, günün kendi şafağının belli belirsiz göründüğü
+asma mağaralarında gri bir şafak yaratmış ve kırmızı söğütlerin kızarması, aşağıdaki kıyıda imkansız olmayan bir çuha çiçeğinin hayallerini ele veriyor. Mavi alakarga, geveze
+anılarında bundan bahsetmişti. Arbutus kehanetinde bulunmaya yanaşmıyor, ancak ormanlık alandaki yapraklar karda göründüğünde, şu anda bile, sadece imada bulunacak... Şubat ayının son günü bir hepatica tomurcuğu bulduğunda... Geçen hafta eski dostu misk sıçanıyla konuşurken... Ve öğleden sonra saat beşte derede kırmızı çakıl taşları gördüğünüzde...
+Ancak bu bahar batı tepesinde sarı orkideler beklemenin bir anlamı yok,
+çünkü bazı insanlar geçen yıl orada buldular ve ondan sonra siz de... Elbette kırmızı söğütlerin yanındaki çuha çiçekleri,
+tıpkı mavi meyveli bir sedirdeki mavi alakarga gibi, oldukça güzeldir.... Sonsuzdur,
+ama o zaman çok fazla hayat görmüştür. Ve Şubat ayının mavi alakargalarının yorulmaz ve fetheden inancına ihtiyacı vardır.
+
+BÖLÜM III.
+
+MART TAVŞANININ YOLLARI
+
+[İllüstrasyon]
+
+Onu ormana kadar takip edin ve onun hayranlığını anlarsınız, ancak Mart tavşanına asla
+ayıklık için bir referans vermeyin. İtibarı
+rehabilite edilemez, ancak yakınları buna rağmen onu sever. O kadar
+başarılı bir
+şakacı ki! Güneşle birlikte, şakacı ve yaltakçı bir şekilde uyanıyor;
+saman çiçeklerinin arasında tatlı sözlerle zıplıyor; ve bir saat geçmeden
+tarlalarda öfkeyle
+hızla koşuyor, yıpranmış, kahverengi
+çimleri dağıtıyor, ilk kızılgerdanları korkutuyor ve sabahki ruh haline aldanan
+herhangi bir lalenin boynunu kırmak için bahçe çitinin üzerinden
+zıplıyor. İmkansız
+bir hayvan, o tuhaf bir şekilde
+doğmuş, tuhaflığıyla övünen; ve yine de, bazıları onun hayatın tadını Nisan'ın aşık sığırcığından veya Mayıs yoncasında uyuklayan dağ sıçanından daha iyi bildiğini düşünüyor. O,
+soğuk dereleri köpürtmeyi ve onları telaşlandırmayı sever, ta ki
+çözülmemiş kıyılarından akıp yokuş aşağı ve bataklıktan geçerek
+nehirleri alarma geçirsinler, böylece onlar da karaya çıksın ve tüm
+dünya sanki sulak başlangıca geri dönmüş gibi görünsün. O,
+kış ormanlarımızın süsü olan kar baykuşunu kuzeye kovalar ve
+günahkâr serçeyle kardeşlik kurar. Örümcek kuşu ve ispinoz,
+gerçekten havanın oldukça ısındığını söyleyerek
+gider ve arkalarına baktıklarında,
+Mart tavşanının kar yığınlarında taklalar attığını görürler. Kıyı tarla kuşunun
+keyfini çıkardığı çamuru dondurur. Kimse ona bağlı değildir. Yine de,
+gökyüzünün, gölün ve ormanın hızlı ve büyüleyici değişimlerini görmek için,
+Mart tavşanıyla birlikte gidin ve onunla birlikte, sessizlikten daha iyi,
+dünyanın hareketlendiğini görün.
+
+Ağaçlar, yaprak tomurcukları şiştikçe arkaik ana hatlarını kaybederler. Kızaran akçaağaçlar ve
+kara dişbudak dalları, söğütteki sarı çiçekler, Aralık ayına kadar tekrar griye ve soluk renge
+solmayacak bir manzaranın renklenmesine başlıyor. Leylaklar sabırsızlanıyor, çünkü sofistike
+şehir leylak çalısı şimdiden pahalı çiçekler takıyor, bu kadar erken başlayan bir başlangıcın erken bitmesine aldırış etmiyor. Baharın açılış balesi olan çiğdemler, pastel tonlarda giyinmiş, çimenlikte yerlerini alıyor, narin bir şekilde dik duruyor,
+kuş cıvıltılarını bekliyor. Mart ayının fırtınalarından habersiz, durgun bataklık göletleri
+çayır otu ipuçlarıyla dolu, yeşil fışkıranlarla çevrili; ve
+arbutuslar -hangi yamaçlarda olduğunu çok az kişi biliyor- sıcak yaprak örtüsünü kaldırıyor,
+vandal hayranlarının çok uzakta olduğuna inanıyor. Mart menekşesi, sadece kaprisle Kuzey yamaçlarını ve orman oyuklarını ziyaret ederek
+görülmekten çok
+söylenir, ancak üzerinde dolaşan tüm efsaneler ve şafak vakti onu toplayan kızlara verdiği büyülü güzellik, menekşeyi hala, lirik ihtiyaçlar için, Mart ayının çiçeği yapar. Güneşin ısıttığı taşlara yakın bir şekilde sarılmış, safir ve bordoyla kaplı tuhaf yapraklarla örtülü, bazen şimdi
+hepatica geldi; ve çanakların altında yuvalanmış kan kökü ve güneşin sadık olduğu çit köşelerinde, ince tomurcuktan hızla açılan ve bir dokunuşla dağılan dua eden, zarif yaprakları kaldırır. Koyu
+mavi üzüm sümbülü rüzgarlarda ve sert havalarda sakin durur; beline kadar
+karda, gururla yerini korur. Özsuyu gözle görülür şekilde en yüksek dallara
+tırmanmaktadır. Ormanın çatısından sallanan, tomurcuk vermeyen ve yüz yıl ölü gibi görünen eski yabani üzüm asmalarında bile birikiyor gibi görünüyor, ancak kasvetli ve tüylü kabuğun altında yaşam var. Kışın çarpık diken kanallarından geri çağrılan özsu, acımasız nor'easter'ın
+hızla aktığı açıklıkta yalnız başına, yumuşak günler geldiğinde, hüzünlü dalları parıldayan çiçeklerle
+örtecek. Özsu aktığında yıl dönüyor. Şeker akçaağaçlarını toplayıp koruma altına alan, bazı şeyler konusunda diğerlerinden daha tedbirli olan küçük oğlanlar, yoğun bir şekilde
+yontuyorlar.
+
+En yalnız seslerden biri olan "gözcüler" terk edilmiş şarkılarını
+su basmış çayırlarda, yaklaşan bir ayak sesiyle hayalet gibi susturulmuş şekilde
+sömürüyorlar. Yürek parçalayıcı ilahi, bahar şarkısından daha çok ağıt,
+alacakaranlıkta duyulması zor, ancak o meraklıların Mart ayının
+burada olmasından memnun oldukları kesin--kaderlerinden memnun, dokunaklı notaları söylerken,
+daha derin sulardaki vurgulu yaşlı kurbağalar gibi. Gezen kuşlar, neredeyse
+dinlenmeden, alacakaranlıkta tekrar kuzeye doğru uçuyorlar. Cesur
+yaban
+kazları Kanada'ya hayranlık duyuyor. Sessizce geri dönen şahinler vadileri geçer ve
+çam ispinozu hızla geçer. Bahar, sadık ama istenmeyen sığırcık kuşunu yaz geldiğinde sinir bozucu bir vıraklamaya dönüşecek hoş bir sesle çeyizlendirir ve kuşlarımızın çoğu bu haksız kaybı yaşar
+ki tüylü bir eleştirmen şairlerin gençliklerinde öldürülmesi gerektiğini söylemek için iyi bir nedene sahip olurdu. Korkutucu küçük çığlık baykuşu gölgeli ormanlardan
+ağlar ve saygıdeğer orman seslerinden boynuzlu baykuşun belirsiz tehdidi. Baştankara, doğal bir gururla iki notadan oluşan büyüleyici
+repertuarını tekrarlar - "Yakında bahar!" Bu şanslı kuş hiçbir şeyden mahrum bırakılmaz, tatlı bir mizaca ve sevimli bir şarkıya sahip olarak
+doğarken, serçeler, öfkeyle kurlarını
+yaparak, yalnızca orijinal zekaları sayesinde dünyada kalırlar.
+
+Çayır köstebeği ve kaplumbağa, dağ sıçanı ve sincap, üç aylık bir uykudan
+kurtulup, mevsimin başlamasını sabırla güneşin altında bekliyorlar. Yılanlar, esneyen topluluğun geri kalanıyla birlikte dışarı çıkıyor. Balıklar, acele eden akarsularda tekrar parlıyor, yuvalarını ve evlerini inşa ediyorlar
+diğerleri gibi--genellikle ilkbahar dürtüsüne uyarak gölden çıkışa veya durgun sudan dere başına koşuyorlar, yolculuklarını aniden
+ve sonsuza dek tel örgülerin arasında sonlandırıyorlar. Dereler en ılıman günlerde buzlu oluyor
+dağlardan gelen erimiş karla, burada arktik sular kadar yeşil olan köknarlar, güneşi engelliyor, vadi çimenler giydikten uzun süre sonra bile beyaz bir zemini koruyor.
+
+Mart tavşanına sempati duymak için biraz deliliği olan kişi,
+Nisan ayının sonunda kaybolmak için koşturduğu
+şaşırtıcı günleri sever. İsyankar, beyazlayan göletler ve rüzgarda eğilen ağaçlar; meydan okuyan
+tomurcuklar ve bataklık, tepe ve ormanlık alanların tüm alevlenmiş yaşamı, bir kez daha soğuktan, ama korkudan değil, özgür bırakıldı - güçlü ayın
+gelişinde onların serbest bırakılma vaadini duyun. Ancak yalnızca çamurlu patikalarda ve karışık çalılıklarda onunla birlikte koşacak yoldaşlara hazinelerini gösterir:
+orman yaratıkları kuryeler gibi hızla koştu, yaprakları bayraklar gibi yükseldi,
+yeniden canlanan yaşamın.
+
+BÖLÜM IV.
+
+NİSAN ANI
+
+[İllüstrasyon]
+
+Korkusunu yitirecek kadar çok şeyden kurtulan muzaffer Nisan,
+sanki bir daha asla konuşamayacaklarmış gibi karanlık güçlere cevap verir. Bahardan bahara
+uçan yaprakların arasında durur ve son acı rüzgarlara gülümser. Yeşil toprağın hiç yenilmediğini, şimdi olduğu gibi
+şiddetli bir şekilde canlı olduğunu kabul etmeyecektir. Yoncadaki yeni gümüş çiçek, amansız yağmuru küçümseyerek döker. Cesaretini kaybetmeden, yeniden teyit ederek, tüm renk, müzik ve koku güzelliğini bayraklarının altına toplar, o kadar derin ve zaptedilemez bir canlılıkla ki diğer aylardan daha fazla insanın sempatisini umursamaz. Nisan, dalgın, ufalanan karıktan yeşilin gelişini haykıran çayırlara doğru acele eder. Yoğun ve şefkat için fazla istekli, hiçbir hayranlık istemez. Hiçbir mazereti olmadan, şarkı serçesi şarap rengi bir söğüt dalına oturur ve çılgınca şarkı söyler. Herkesin onun kadar coşku için iyi bir nedeni vardır - sadece aptalca mücadelenin sona ermesi ve uzun güneşlerin ihtişamla geri dönmesi. Koyu egzotik yapraklarının arasında tefekkürlü, köpekdişi menekşeleri ışıkla benekli oyukları doldurur. İlkbahar güzellikleri şafak vakti ihtiyatla açılır ve koyu gül stamenlerini gösterir. Egemen kehribar suların
+bataklıktan köpürerek geçtiği yerde, savurgan çuha çiçeğinin altını nehirlere doğru sürüklenir ve dalganın üzerinde çok yakın eğilmiş tomurcuklanmış dallar bir süreliğine güneş dünyasından
+uzaklaştırılır. Leylak ve kanarya terlikleri, Kuzey'in vahşi orkidesinin
+uzak tepeciklerde salladığı peri kraliçesini bekler, ancak genellikle
+hiçbir şekilde uygun olmadıkları biri tarafından
+bulunur ve taşınırlar. Yarı saydam genç yapraklar
+derenin yolunun yanında parlar. Karahindiba rozetleri, korunan çimenliklerde ve dağ meralarında sakin bir tarafsızlıkla belirir, burada ayrıca
+kibar ama ısrarcı "kedi ayak parmak uçları" çalar, ilkbaharda beyaz yapraklar sergileme hakkını iddia eder, eğer öyleyse bir bitki seçmelidir. Salyangoz
+kabuğundan çıktı ve ezilme
+riskine rağmen hava almaya gitti. Nisan'ın çocuklarından hiçbiri hatırlamıyor veya öngörmüyor. Canlı
+şimdiki zaman yeterli.
+
+Elma dalları mercanla kaplı. Şeftali bir şafak bulutu,
+ve kiraz ve armutun yaprakları isteksizce aşağı doğru süzülüyor.
+Gizemli bir şekilde ekilmiş yabani meyve ağaçları, orman çalılığının üzerinde sisli beyaz renkte - kokulu yengeç elması ve erik dalının bükülmüş hali. Bu
+çiçeklenme ayı, tıpkı Mayıs'ın parıldayan yaprakların ve Haziran'ın meyvesiz
+çiçeklerin ayı olması gibi.
+
+Karatavuk, binlerce zevkle rahatsız olmuş bir şekilde alıçın köpüklü tepesinde sallanıyor ve bunları anlatacak kadar az nota var. Karga, hareket eden tırmığın üzerinde çırpınırken boğuk bir sesle coşkusundan bahseder ve yeni kuzular, açlıktan ölmek üzere olan marmosetin ısırmaya çalıştıkları yonca başlarını alıp götürmesine rağmen titrek, yaralı bir şekilde bakarlar. Meraklı buzağılar, henüz her hareket eden nesnenin ardından dokunaklı bir merakla zıplayacakları yaşam aşamasına gelmemişken, meralarda belirsiz bir şekilde ilerlerler. Alacakaranlıkta ve ışıldayan sabahta, yalnızca Nisan'ın duyabileceği kuş şarkıları vardır - ışığa hoş geldin patlaması ve gökyüzü batıda yumuşak bir prizmaya döndüğünde kızılgerdanların uykulu flütleri. Mart ayından bile daha sönük, daha melankolik olan, çıtırların alacakaranlık ağıdıdır. Nisan ayının aryasına yabancıdırlar.
+
+New England'ın unutma beni çiçekleri çimenlerde hızlı turkuazdır; New England'ın kocayemiş çiçekleri, eski yaprakların arasında kızarmış inciler gibi yatar;
+ama her yerde üç renkli menekşeler var - havuzun kenarı için sarı, bataklık arazileri arasında beyaz ve tepe yamacı, yol kenarı ve orman zemini üzerindeki güneş ışığı kadar yaygın mavi. Ve
+anlaşılmaz bir mavi menekşeler var, uzak dağlara karşı bulut tutamları gibi beyaz serpilmiş. Bazıları toprağa yakın büyüyor, geçmişin dehşetiyle eğitilmiş; diğerleri,
+uzun saplı ve tatlı, yaşayacak, acı çekecek ve gelecek yıl yollarını düzeltecek. Rüzgar çiçeği, esintiyle buluşuyor, ince bir prenses, inanılmaz derecede
+kırılgan, ancak güçlü laleden daha zor kırılıyor, belirsiz bir şekilde gül veya kan kökü kadar beyazla dokunmuş. Laleler sadece yerde yaşamıyor;
+ağaçların tepelerinde büyük, opak yaprakları ayırmışlar, yapraksız ormanda
+görünmesi şaşırtıcı. Su teresi, kıştan yorgun alabalıkların, şimdi baharın mücevherli elbiseleriyle
+muhteşem olan sinekler için devriye gezdiği soğuk derelerde parlıyor. İlk meşe yaprakları dalın ucunda narin bir şekilde
+kırmızıdır. Bu _la
+vita nuova_ gösterişinin ortasında, çimenlerin parıldayan bıçaklarının arasından dik bir şekilde yukarıyı işaret eden kahverengi iskelet "parmaklarının" çirkin hicvine aldırmayın. Eğer bunlar Doğanın ürpertici bir alaycılığı gibi görünüyorsa, kış karında daha cesur bir hikaye anlatan bir Nisan karahindibası
+bulmayan var mıdır?
+
+Sedir ve balsam dalı altın uçludur. Hiçbir şey değişmemiştir. Şubat fırtınalarını
+aşarak bu geleneklerinin ülkesine
+ulaşmak için çırpınan ölümsüz kanatlar şimdi yuvanın inşası etrafında çırpınıyor. Pürüzsüz baca
+hızı ahırın üzerinde parlıyor ve gidiyor. Akşam oyununda sarkık kanatlarıyla
+nergis gökyüzüne karşı dengede duruyor. Huzur içinde
+leylakların arasında mutlu mavi kuş oturuyor, soğan, kök ve krizalit arasından, yeryüzünün hiçbir
+paydaşının hareketsiz kalmasına izin vermeyecek karşı konulamaz akıntı geçmiş olsa da - ne taş, ne tohum, ne de insan. Bu
+zorunlu yürüyüşe Nisan neşeyle adım atıyor, düzeni selamlıyor, değişmeye önceden
+yazılmış. Ona direnmeden katılarak, çiçeklerdeki şarkıcının özgürce talep ettiği kaçış anını kendinize alın. Hayatın doluluğu
+bu kurtarılmış Nisan anlarıyla ölçülür, aniden neşe basit ve yakın bir şeye dönüşür, merhametli, aydınlanmış bir an için
+dünyanın kişiliksiz ve sonsuz güzelliği yeterli görünür.
+
+BÖLÜM V.
+
+İLKBAHAR ZİRVESİ
+
+[İllüstrasyon]
+
+Güneş ışığıyla aydınlanmış yağmurla parlayan titrek yumuşak yapraklar, Mayıs'a elmaslarla
+örülmüş bir elbise verir, tıpkı aydınlatılmış bir püskürmenin denize doğru örebileceği gibi. Uçan kanatlar
+güneşin renklerini yakalar. Çimen yaprağı, tek bir yarı saydam incinin zarif
+yüküyle aşağı doğru çekilir. Bu, yılın aydınlık gençliğidir
+ve ihtişamı, çiğ ve yağmur mücevherlerinin parıltısından daha derinlerde yatar,
+çünkü bu, mayısla birlikte hala güneşsiz bir dünyanın parladığı,
+kısıtlayıcı köknar ve çam kalelerinde görünür. Bir ayda yalnızca Doğa
+sönmez lambasını yakar. Bir tepeden meyve bahçesine bakın:
+genç yapraklar, yazın zengin bir şekilde örtülü ve gölgeli yaprakları değil, saf yeşil ipekten fenerlerdir. Zehirli sarmaşık ve servi ağacının, bataklık akçaağacının ve yavaş yavaş tomurcuklanan meşenin yeni kırmızısı parlaktır.
+Temmuz ayında sert ışık metalin üzerinde oynar gibi oynayacakken, göl ve dere hafifçe titrek gridir. Yağmur, parlak tazeliği söndüremez, çünkü
+çiçeklerle kraliçe gibi giyinmiş ağaçlar asla şiddetli gökyüzüne boyun eğmezler. Şemsiyeler taşıyan yaratılışın o parçası, ruhunu yedi kez yenilenen "çiçek fırtınası" önünde yere sersin - çiçekli dikenin cevabı her zaman coşkuludur. Yağmur damlaları üzerinde yolculuk eden, rollerini oynayıp giden yaprakların arasında, "Mayıs ayı, neşeli yeşil yapraklarını kanatlar gibi çırpar."
+
+[İllüstrasyon]
+
+Dağ yamaçlarındaki yabani çalılar kalabalık bir şekilde çiçek açmıştır. Narin bir şekilde pembe ve nektar yüklü, savurgan açelya, genel bir festivalin ortasında her zaman acı bir şekilde çalışkan ve ciddi bir şekilde göreve odaklanmış bal arılarını çağırır. Bazen bir arının bir nilüfer veya hatmi çiçeğinin içinde sarhoşluk ve gece tarafından ele geçirildiğini, onun rahatsız edici iyi örneğinin tatlı bir şekilde boğulduğunu görmek büyük bir memnuniyettir. Bir keresinde, bahçeden çayıra yoğun bir şekilde görev yaptığı günü mırıldanmak için kovanında değildi! Düşünceli ayçiçeklerinin ötesinde beyaz bir sadelikle çeyizlenmiş,
+kızılcıkların yaprakları gri dalların arasında yüzüyor gibi görünüyor - sisli, uzaktan görülüyor; daha yakına net bir şekilde kesilmiş; baharın güzelliğini dile getiriyor; kokusuz
+
+sahtekârlık yokmuş gibi. Dağ defnesi, parıldayan yaprakların üzerinde, soluk pembe veya beyaz, kehribar benekli, harikulade bir şekilde oyulmuş çanaklarını tutuyor. Bütün kış,
+yemiş çamları karla kaplı ve ladinler sulu karla
+sarkmışken, yeşili korudu. Galip, çelengini yılın herhangi bir zamanında bulabilir, çünkü defnemiz onu hazır tutuyor. Lale ağaçları, görkemli bir şekilde yıldızlara doğru
+geniş kadehlerini kaldırıyor. Muhtemelen periler, ölümlülerin asla yukarı çıkıp bakmadığı
+en üst dallarda uyuyorlar. Yaban mersini, shadbush ve funda, beyaz, sessiz ve güzel, alacakaranlıkta güneş sıcaklığının
+çiçekleri terk etmeye başladığı zaman kokulu Mayıs evlilik cüppeleri içinde duruyor. Kırmızı şahin, incecik altın danteller takıyor.
+Daha güneyde, orman gülü muhteşem bir şekilde sergileniyor--erikle sınırlanan
+macenta.
+
+Hava, leylak ve manolyanın bol tatlılığıyla değerli,
+Mayıs akşamlarında şehir parklarına gurbeti çağıran anma lavanta leylaklarıyla. Çiçek açan ayvanın karmin parıltısı burada,
+tropik vahşi doğasından getirilmiş. Badem püskülünün uzun, kızarmış eğrisi
+uysalca çimenlere doğru eğiliyor. Her çalı görkemli,
+ama çiçek açması gizli olabilir. Kralların sevdiği renklerde, kadifemsi,
+dakik mükemmel süsen bahçe yolunu yönetiyor. Yanında, umutsuzluk içinde eski zamanların
+kanlı kalp ağıtları ağıt yakıyor ve vadi zambaklarının çanları,
+çınlayan bir koku. Sabırsızlar kırmızı saplı şakayıklara tırmanıyor. Frenk üzümü
+yeşil ama yalvaran tatlı bir çiçekte.
+
+Mayıs tarlalarındaki yüksek, kalın otlar ve yoncalar, şafak vakti kapalı yapraklarından çiğleri silkeleyen ve kuşların yuvalarına döndüğü sırada dua ederek katlayan göz kamaştırıcı düğün çiçeği için bir ortamdır. Mayıs'ın tüm ihtişamları gibi son derece taze ve berrak olan ilk beyaz papatyalar, saman ürününü boğmayı amaçladıkları selin birkaç yanıltıcı köpük lekesini gösterir. Vahşi hardalın tüylü sarısı, hareketsiz köklere bağlı değilmiş gibi yolun kenarında başını sallar. Safir yıldız otu çoktan çayırlarda saklanıyor. Vahşi çileğin çiçekleri gitti. Kanarya rengi beş parmaklı asma, yarım fırsat verildiğinde kendini dünyanın üzerine sarardı. Aynı şekilde, beyaz çiçeklerin ve bordo kenarlı yaprakların dikenleri de.
+
+[İllüstrasyon]
+
+Korunan yuvanın üzerinde hâlâ huzursuz kanatlar var. Bazıları kıvrılmış karık boyunca
+parlıyor, saçakların yakınında daireler çiziyor, dalgaya sertçe dalıyor. Söğüt yaprakları, balıkçılın parlak mavisi, tangaranın kızıllığıyla
+ürkütülüyor. Eski evlerin bacaları bir kez daha titrek kırlangıcı tanıyor. Sarıasma tekrar meyve bahçesine, çalıkuşu üzüm çardağına geldi. Beyaz yoncanın ne olabileceğini ilk kez gören minik tavşanlar, burunlarını memnuniyetle seğirttiler. Çok fazla çiçekle
+yıkılmış ormanlardan dönen yorgun çocuklar, onları yaz yolunu serpmekle görevli çiçek kızları gibi yola bırakıyorlar. Çiçeklere acı çekme kapasitesi vermemek daha rahatlatıcıdır, ancak yine de, bize zevk
+vermelerini talep ediyoruz, bu yüzden şüphesiz bu engellenmiş şekilde bile hizmet etmekten
+memnundurlar. Yine de Mayıs'ın deposu çok çeşitlidir; bekleyen tomurcukları dağılmış olanların yerini alabilir.
+
+Doğanın yüzü, parlayan ayda olgunluktan biraz daha az, ancak Nisan'ın yaramazlığından ve rahatsız edici yoğunluğundan daha fazla bir güzellik giyer. Saatin harikası - ilkbaharın vedası ve gelen yazın sevinçli çığlığı - orada, bastırılmış, tutkulu bir nota olarak ikamet eder. Yılın gençliğinin zirvesi, tüm zirveler gibi, ötesindeki dalgaya karışır,
+dalgalar gibi sonsuza dek yenilenir. Sadece insana, bahar olmadan devam etme zor görevi verilmiştir. O tekil sıkıntı
+cansız şeylerle ortak olarak bizimdir: Gül ve leylak her yıl terk edilmiş eve geri dönebilir, ancak Mayıs eve hiçbir değişiklik getirmez.
+Bunun hakkında bir kar dünyası bizim için olduğu gibi bir çiçek dünyası olur ve
+güneş yaratır. Ancak ev insan ellerinin yardımına ihtiyaç duyar, yeryüzünün insanı
+parlak Mayıs'ta canlanan güzelliği.
+
+BÖLÜM VI.
+
+OMAN HASAT ZAMANI
+
+[Resim]
+
+Yalnızca çok sayıda samanlık tarafından, yabani gül simgesi sürgün edilseydi, başka bir ülkeden Haziran'ımıza dönen bir gezgin, yılın zamanını bilmeden, ayı adlandırabilirdi. Ot hasadından hemen önceki günlerde, çayır otlarının parıldayan dansı en görkemlidir, rüzgarlara yumuşak itaatleri en hazır haldedir. Koyu pembe kuzukulağı tüyleri, şarap rengi kırmızı tepeli, dumanlı timothy başları sonsuza dek dalgalıdır ve çiçeklerle
+abartılı olsalar da, güneybatı esintisinin altında eğildiklerinde köklerin yakınında binlerce daha alçak çiçeği ortaya çıkarırlar. Burada, "vahşi sabah şanı", minik tarla sarmaşığı, biçme sırasında tehlikeli bir şekilde
+saklanır; beyaz yonca ve sarı beş parmak yayılmıştır; çimen çiçeği tek mücevherini
+kaldırır. Sallanan saplar, birçok gezgin asma için kafeslerdir; yorgun bir elfin hem güneşten korunarak hem de bir ormanda uyuyabileceği peri çardakları vardır. Burada da, yabani çilekler olgunlaşıyor, henüz temmuz buketini solumuyorlar; ancak, gölgelerin sevgilisi beyaz yabani çilek, çoktan soluk olgunluğuna
+ulaştı. Çim okyanusunun hareket eden yüzeyinin çok altında, böceğin iz ve karşı izleriyle, köstebeğin mağaralarıyla ve karıncanın geriye kalan kalesiyle kaplı, loş ve gizemli bir dünya yatar. Burada, zarif dağ sıçanı fark edilmeden geçer, saf pamukkuyruk kısa cennetini bulur; küçük güveler kanatlarını katlar ve uyurlar.
+
+Yukarıda, sıcak güneşlerle lekelenmemiş, daha sonraki kahverengilerle karışmamış, yılın en net, en güçlü renkleri, ışık, hareket ve vardır. Koyu gözlü, sarı papatya, güneş tapanı, sadece koyunların yiyeceği o diğer yıldızlı yapraklı otun taze parlaklığı arasında yükselir. Gök mavisi hindiba yol kenarından içeri girer ve bundan sonra reddedilmez. Balsam kokulu ve eğrelti otu benzeri yapraklı civanperçemi, ilk narin
+yabani havuç, güve sığırkuyruğu sarısı saka kuşu, Tyrian boyasının yonca başları, hardalın güneşli püskülleri, samanlık dalgalarının
+tepelerine dağılmış halde yatıyor. Alçak arazilerde, çukur yamaçlarda, ormanın derinliklerinde, biçme makinesinin ona yaz bahşettiği her yerde, haziran ayının diğer çiçekleri gibi çeyizlenmiş enfes yabani gülü yayar -- nilüfer, yabani üzüm çiçeği, leylak -- kadehinin şekli ve rengi kadar hüzünlü bir şekilde tatlı bir kokuyla. Bu doğaüstü koku, nerede olursa olsun tekrar karşılaştığınızda, nefesinizi tutmayı, hafızanızı canlandırmayı asla ihmal etmez. Nadiren solmuş bir yabani gül bulursunuz;
+yapraklarını mücadele etmeden aşağı atarlar ve çalının üzerinde ateşli pembe tomurcuklardan oluşan bir kalabalık bekler. Nilüfer için de durum aynıdır -- saat geldiğinde
+yeşil pelerinini bir kez daha üzerine çeker ve güneşten çekilir.
+
+Çayır otu ormanlık alanda yüzen bir örtünün üstüne örtü sallamıştır. Gölgeli tepecikler yabani sardunyalarla lavanta serpiştirilmiş, Mayıs rüzgar çiçeği veya Haziran düğün çiçekleri için fon oluşturmaya istekli. Kumlu, güneşli yerlerde kırmızı ve sarı renkte parlayan kayaların arasında, akasma bal bardaklarını parıldayan sinek kuşu ve künt burunlu, ciddi arı için tarafsızca sallıyor. Akasma çiçekleri lezzetlidir - herhangi biri onları mantıklı bir şekilde, canlı ve neredeyse kanatlı bir şey olarak değil, görebilir mi? Bordo renkli ipek otu (doğal bir paradoks) da akan nektar tutar, ancak daha soluk bir ipek otu vardır, o kadar yumuşak pembe, sarı ve beyaz tonlarındadır ki hiç renk vermez, küçük sarı kelebekler alacakaranlıkta yudumlamak için oraya sürüklenir. Çiçek açmış mürver, oyuklarda beyaz sis gibi dinlenir, tüm kırsal yolları kokulandırır ve mürver çiçeği şarabı, dryad'ın fıçısını vaat eder. Nemli ve karanlık inzivalarda - baldıranların altında ve mağara kapılarında - hayalet lambası yakılır. Bulabildiği en parlak noktada, küçük böğürtlen zambakları çıkıntıya benekli turuncu yıldızını çizer.
+
+Kahverengi toplardan hızla kıvrılan ve Kuzey ormanlarımızı ağaç eğrelti otunun görkemli freni ve ılıman taklitleriyle tropikal hale getiren mükemmel eğrelti otlarının zamanıdır. Açıklıkları doldururlar ve uçurumları
+tırnaklar. Dereler boyunca ve göletin kenarında, mavi bayrağın görkemli ev sahipleriyle - çayırların cömertçe ekilmiş süsenleriyle - büyüleyici bir şekilde karışırlar. Bataklıklarda sık sık keçeleşmişlerdir, tepelerde tüylüdürler.
+Eski kütüklerdeki yosunlardan, neredeyse yosunun yaprakları kadar peri gibi bahar eğrelti otları çıkar.
+
+[Resim]
+
+Haziran ayının fısıldayan alacakaranlığına birçok yaratık garip oyunlar oynamak ve güneşli samanlıkların çok telli orkestrasının bile bilmediği şarkılar söylemek için gelir. Süzülen yarasa sık asılı
+ağaçlardan fırlar ve sessizce bahçeyi geçer, hatmi çiçeklerine dokunur ve
+aya doğru hızla gider. Beyaz ve soluk yeşil güveler şakayıkların arasında ruhlar gibi dolaşır. Bazen sinek kuşu karanlıkta trompet asmasını sallar, garip bir şekilde huzursuzdur, oysa o Apollon'un yardımcısıdır. Ateş böcekleri titrek bir şekilde korkar. Cırcır böceğinin yalvaran, kesintiye uğramış şarkısı,
+çekirgenin sabit, sıcak vuruşuyla yarı susturulur. Ağaç
+kurbağasının ürkütücü notası zayıf ve tatlı gelir, ama o sadece kabuğun hangi çatlaklarından olduğunu bilir. Uykusunda bile koruyucu olan anne kuş,
+çocuklarıyla uykulu bir şekilde konuşur. Kuluçkaya yatan ağaçtan baykuş, çiyde sakinleşen dostça tarlaların dönümlerce ötesine umutsuzluk çağrısını gönderir. Haziran
+geceleri uyanıktır. Sonra büyü derinleşir, çünkü
+yeryüzünün sevinci için karanlıkta duraklama olmaz.
+
+BÖLÜM VII.
+
+SARI ÇİÇEK AYI
+
+[İllüstrasyon]
+
+Vadi vadiden sonra biçme makinesinin uykulu nağmesi
+söner, çekirgelere hoş kokulu kuruyan samanı bırakır. Şimdi
+Temmuz, koyu, gizli kunduz durgun sularının yanında ve güneşin ısıttığı anız boyunca altınını yayarak gelir, çeşitli,
+şarkı söyleyen hayatı bu parıldayan öğleden sonralarında en yüksek sesle duyulur. Sarımsı
+güzeller ormanlık alanlarda ve deniz bataklıklarında cirit atar. Sıcak havanın sığ göletlerin üzerinde parlayıp titrediği yerde, sarı nilüferler
+eğimli kanopilerin altında uykulu uykulu yüzerken, beyaz nilüferlerin
+parlak soluklukları birer birer sönüyor. Doruk noktasına doğru dingin bir şekilde hareket eden mevsim, güneşi içer ve eğik ışığının rengini alır.
+
+Alev zambağı yanık turuncu bir kupayı doğrudan göğe doğru kaldırır.
+Sarı çayır zambağı aradığı nemli küfün üzerine eğilir. Ama ikisi de derin ormanları sever ve eğrelti otlarının yatağının üzerinde aniden parıldayan zengin çiçekler, Kanada ormanlarında sürüklenen And Dağları kelebeği gibi ürkütür. Onlar, tropiklerin prensesleridir, uygunsuz bir şekilde Kuzey bataklıklarına sürgün edilmişlerdir, ama alaycı bir şekilde rahattırlar. Gururlu meclislerdeki sahte Süleyman mührü, her zaman asi inekler için bir cazibe olan çilli mercan boncuklarını garip bir tatil havasıyla giyer; ve kürsüdeki adam, kırmızı cübbeyi gerektiren bir kilise rütbesiyle donatılmış olduğundan, parlak çizgili yeşil cüppesini kırmızı olanla değiştirmeye hazırdır. Sarkık çiçekli mücevher otu, mizaçlı bir bitkidir ve bu nedenle de, bana dokunma, olarak adlandırılır, çiğle kaplı yapraklarını seyahat edilen patikalar boyunca sarkıtır, çünkü dokunulduğunda vahşice açılan küçük sürpriz tohum paketleri hazırlamaktadır; ve böylece her yoldan geçeni ürününü ekmeye
+çekerek, masum sarı toadflax--aslanağzı tarafından haksız yere taşınan ismi hak eder, sadece yaban arılarına saldırır.
+
+Çiftçinin "o lanet sarı boğa gözü" olarak bildiği kara gözlü Susan, tarlaların neşesiyle kendi başına durmaktadır, yazın sonbaharın bayraklarını açmaya cüret eden altınbaşakların saldırısına sonuna kadar direnmeye hazırdır. En iyi eski İngiliz ailelerimizden birinin
+fidanı olan berrak sarı akşam çuha çiçeği,
+demokratik bir şekilde, kanarya benekli bir köylü sığırkuyruğu sapıyla ilişkilendirilir, çünkü ikisi de
+güneşi ve kumu severler. Bazen kum tepeciklerinin üzerinde muhteşem bir şekilde yükselir
+güneş ışığında bakır rengindeki o çiçekten, kelebek otundan bir küme,
+yakında bizim güzel, kaybolmuş arbutus, kardinal ve saçaklı gentian kadar kaçak hale gelecektir, eğer sevgilileri onu daha az bencilce kandırmazsa.
+Bütün güzellikler esareti reddeder. Yayla çayırlarında turuncu şahin otu
+ayaktadır, gün ışığında otlak çimenlerinin arasında çılgınca renkli "boya fırçasını" savurur, ancak günbatımında katlar, çiğlerden
+bir yudum almaz. Dere ayçiçekleri derenin kenarına geldiler, ancak
+sulara bakmak için değil; Güneşe bakan yaprakları narin bir şekilde
+koklanmıştır, çitle çevrili bahçedeki kardeşlerini geride bırakır. Yarı evcilleştirilmiş
+kaplan zambağı, terk edilmiş kapı önlerinin musallatı ve çoktan yabani kediye ve baykuşa teslim edilmiş terk edilmiş
+dağ çiftliklerine bile sadık, tozlu yol kenarlarında dolaşan, her sabah yeni tomurcuklar sunar ve alacakaranlıkta
+açmış ve solmuşlardır. Mayıs gülü gibi, bu bir ağıt çiçeğidir, geri kalan her şey
+kaybolduğunda kaybolmuş bahçelere tutunur, ancak cadılık otu olan tansy parçaları, uzun yıllar boyunca bakılmadan keskin
+altın düğmeler gösterecektir, unutulmuş bahçıvan sadece
+bir kez diksin. Heves ve umutla inşa edilmiş kaç tane küçük kulübe, sonunda sadece kaplan zambağı, Mayıs gülü ve baca yelkovanı tarafından
+anımsanır!
+Herhangi bir yerde kök salan, çakıl yatağını bir bahçe ilan eden sarı tatlı yonca, büyülenmiş havayı solumayı mutluluk haline getirir. Sonbahar yaprakları gibi sarı kelebekler, güneşle yıkanmış tarlanın tatlı koyu ormanla buluştuğu yerde titrer ve telaşlanır. Kayaların arasında, turuncu ve koyu kahverengi yıldızı batmak üzere olan böğürtlen zambaklarının abanoz tohumları parıldar.
+
+Kim bilir, yosunlara işlenmiş yeni kızıl keklik meyveleri, kardan korkmayan soluk damarlı yaprakların serseri asma dallarından sarkan olgunlaşmış mıdır? Daha bir ay önce bu peri
+yeşilliğinde tüylü beyaz keklik çiçekleri vardı, neredeyse görünmezdi, ama
+yeni açmış nilüferlerin kokusuna benzer bir kokuyla ve şimdi yeşil meyve renkleri Noel rengine dönüşmüştü. Bunlar gibi çiçekler
+yoktur. Orman perileri bunları ay ışığıyla süslenmiş, örümcek ağlarından yapılmış elbiseleriyle giyerler.
+
+Yoğun güneşle damıtılmış çiçeklere benzer bir tatlılığa sahip olan dal elmaları, ilk kahverengi tohumları gösterir. Yüksek yığınlar halinde
+samanların yavaşça biçilmiş tarlaya doğru yolculuk etmesinden kurumuş düğün çiçekleri ve papatyalar
+biçilmiş çimenlerde dans ediyorlardı. Çekirgeler durmaksızın; hava ağırdı
+bahçenin üstünde, floks ve çilek çalısı onu
+Farsça tatlı bir renkle renklendiriyordu. Dağlardan sarkan kümelenmiş yaban mersinleri ve
+bataklıklarda, bazen bataklıkların üzerinde, yüksek çalı yaban mersininin koyu parlaklığı görülüyordu. Balsam köknarının kokusu ısıyla
+uzaklara doğru çekiliyor ve yayılıyor. Şimdi takip edilen dikenler böğürtlen tarlası oluyor. Çorak topraklar yürüyen
+hardhack'in çiçekleriyle sarı parlıyor. Bu güneşin zaferidir ve onun rahibi, manastır yaprağının beyaz gün zambağı, kokuyla tapınıyor.
+
+BÖLÜM VIII.
+
+AĞUSTOS RUHU
+
+[İllüstrasyon]
+
+Yabani kirazlar artık garnet değil; hasadına kadar karardılar ve daldan kasvetli bir olgunlukla sarkıyorlar. Tahıl tarlaları ve yavaş yavaş mora dönen bağlar uykulu yatıyor. Elma bahçesindeki kızılgerdan, ilk Astrakhanların
+düştüğü kırmızı meyveli dallar arasında neredeyse görünmüyor. Belirsiz güneşlerin ve coşkulu büyümenin günleri
+bitti. Yıla uyuşuk bir duraklama geldi. Rüzgarlı mavilikte kanat çırpan kargalar bile uykulu bir şekilde gaklıyor, henüz
+kaygıdan sesi kısılmamışlar çünkü
+kabuklular mısırları o kıt uyanıklıkla örtmek için acele ediyorlar ki bu kargalar için çok sakıncalı.
+Yeni yonca zamanında
+telaşlı ve temkinli olan tavşanlar, iyileşen hastalar gibi, sıcak güneşte uzun süre oturuyorlar; Kasım ayının 
+belirsiz öğle vakitlerine kadar bunu sürdürecekler, kış geldiğinde, başlarının üstündeki birçok av partisi boyunca uyumalarını sağlayan sıcaklığı saklayacaklar. Ağaçkakan
+daha az vahşice vuruyor. Göl kenarındaki en sevdiği ölü dalda görkemli bir şekilde mavi zırhlı balıkçıl dalgayı izlemek için oturuyor. Sadece
+çekirge, sinek kuşu rolü için yaptığı
+boş provada trajik bir yoğunlukla ısrar ediyor. Hicivci bir İtalyan, insanı çekirgeyle karşılaştırıyor, ancak hiçbir insan şaşkın özlemlere böyle bir bağlılık gösteremez. Zarafet içinde pratik yapmak onu giderek daha da kusurlu hale getiriyor. Genç
+ağaç ördeği, görkemli bir vakarla, tek sıra halinde topaz deresinden aşağı annelerini takip ediyor, dikkatli bir tarla sınıfı, bunamış
+şanslı böcekleri, koyların kırmızı çizgili nilüfer yapraklarını, sıcak taşların üzerinde uyuyan kaplumbağaları gözlemliyor. Ormanın tüylü çocukları için bu oyun ve uyku ayı değil; yakında sonbahar olacak ve uzun uçuşu denemeleri gerekecek.
+
+Karabuğday tarlalarının görünümü Ağustos'un mührüdür. Altınbaşak sınırlarından, göğe karşı, yumuşakça sallanan, sadece erik bulutlarının gölgelediği, mutlu beyaz bir dünyaya ulaşır. Mısırlar tepelerindedir ve ekili vadiye doğru bir dağ patikasından bakarsanız, ekru püsküller parlak kurdele yapraklarını gizlemiştir. Mısır tarlaları asla sessiz değildir. Her zaman, bir göl kıyısındaki küçük yaz dalgalarınınkine benzer, alçak bir hışırtı vardır.
+
+Nektarla dolu lavanta ve mor dikenler, buyurgan arılar ve büyük mavi-siyah kelebekler tarafından aranır, ancak soluk ışıklı gemileri çoktan, mühürlü emirler altında, geri dönmeden, bahar limanındaki uzak bir limana doğru sürüklenmektedir. Daha da gümüşsü olan ipek otu
+sürükleniyor. Beyaz kelebek filoları gün batımı esintisiyle yükselip alçalıyor ve yavaş, alacakaranlık güveleri çiğ saatinde frenlerin altından çıkıyor. Beyaz çiçekli, akasma ve yabani salatalık, aşk kokusunun kremsi hanımeli, çit korkuluğunu ve taş duvarı örtüyor,
+çorak çalılıklara taç yaprakları veriyor, dikenli tellerin etrafında korkusuzca dolanıyor ve terk edilmiş ahırları süslüyor. Bir zamanlar her sonbaharda çatı kirişlerine asılan çok eski şifalı otlar - "yabani isep" veya dağ nanesi ve gri çiçek açan kemik seti - alçak alanlarda bol miktarda duruyor ama dikkate alınmıyor. Şimdi sihirli iksirlerimizi satın alıyoruz. Bir zamanlar, fırsat buldukça arka kütüğün üstünde demleniyorlardı. Eğreltiotu gölgelerinde fildişi Kızılderili piposu parıldıyor. Yabani havuç, hassas bir ısrarla tarlaya çıkıyor. Kraliyet moru rengindeki demir otu, bordo, mantıksız bir uyumla
+mavi mine çiçeği ve macenta trompet otlarıyla karışır. Nota yazarları
+bizim için Shakespeare'in "uzun morlar" ile kastettiği bir yirmi çiçeğin adını verir; ama
+kesinlikle o, Ağustos ayında Kuzey bataklıklarımızı, bataklıkların üzerinde yükselen ve kızıl bir gökyüzüne karşı göz alıcı ihtişamlarıyla şarkıda ölümsüzlük ihtiyacını kazanan o coşkulu, meşale benzeri otlarla
+ateş içinde öngörmüştür. Çekirgeler başlamadan önce çiçek açarlar ve ilk donu
+sağlarlar. Birkaç menekşe--insan bakışları için tasarlanmamış ve yaprakların altında ihtiyatla saklanmış bir tohum mahsulü--ürkekçe çiçek açar.
+Çiçeksiz gitmeyecekler, ama belirsiz bir şekilde ölmeyi arzulayacaklardır.
+
+Yeni tadı olan dal elmalarının sonuncusu bahçe çimenlerinde yatar. Daha sonraki elma ağaçları, güneşlenen tavşan ve düşünceli karga gibi,
+hasat ayını bekler. Dinlenmeyen dallar şimdiden,
+en şiddetli sulu kar saldırılarıyla bile çözülmeyecek olan mantar ve sakız kış postalarını hazırlıyor. Kısa saplı çiçekler, keskin buğday saplarını
+giydirmek için ortaya çıktı. Dağ yolu boyunca, meyvelerine hevesli mavi eşek arılarının tutunduğu, aromatik sakızı
+birçok tırmanan hırsızı tuzağa düşüren serseri
+şeftali ağaçları yetişir. Bakılan meyve bahçesinden gelen diğer gezginler--acımasızca ekşi erikler ve kırmızı yanaklı armutlar--karanfil çalıları arasında yetişir, tarla faresi ve dağ sıçanı için vahşi doğanın hasatlarını
+yakarlar. Bazıları, sadık floks ve ayçiçeğiyle birlikte, bir zamanlar şimdi ıssız olan kapı önlerinde yetişti. Üstün gül ebegümeci, gün doğumu gibi bataklıkları aydınlatır.
+
+Bu bir büyüme ayı değil. Meyve ve tahıl sadece genişliyor - haftalar
+önce oluşumun harikası tamamlanmıştı. Bu, donun uyanmasıyla sona eren sıcak,
+rahat uykunun zamanıdır.
+
+BÖLÜM IX.
+
+YAZ DURAKLAMALARI
+
+[İllüstrasyon]
+
+Yavaş derenin denize döküldüğü, tohum ve solgun yapraklarla
+yüklendiği yerde, kardinal çiçekleri görüntüleriyle kızaran suları izliyor. Eski
+altın ve sarımsı sarı, alttaki eğrelti otları dalgalanmayla birlikte isteksizce yukarı aşağı hareket ediyor. Bahar dere boyunca ilk yürüdüğünde, sonbahar da erkenden su kenarına geliyor,
+bataklık akçaağaçlarını tutuşturmak ve kızılağaca oniks renkleri vermek için. İpeksi kızılcıkların parlak çivit mavisi orada bolca asılı duruyor.
+Nehir çalılarının kokulu beyaz topları altın halelerini kaybetti ve
+demir otunun kırmızı-zeminli moru bile koyu kahverengiye dönüyor.
+Meyveli tatlı
+çalı pas gösteriyor. Sonbaharın eski gobleni, çürümenin kahverengileri
+karmin, zeytin, kestane ve açık kahverengiyle işlenmiş, asılıyor,
+ama mavi lobelianın alçak zeminde kümelendiği yerde yaz duraklıyor.
+Ayrılan güneş, reverans yapan, şekil değiştirmiş huş ağacı yapraklarının berrak sarısını yakalıyor ve geriye bakıyor, bekliyor, Eylül'ün manzarasına tereddütlü bir veda etmek için. Gitmek için erken gibi görünüyor. Pickerelweed hala masmavi.
+Yeşil bataklıklar arasında, hoş kokulu hanımların saçları Nisan'ın beyaz çekingenliğini giyiyor ve emaye ok ucu çiçeğinin üç yaprağı
+altınla tozlu. Ama kahverengiye sarılı tohumlar dağılıyor.
+Hatıralar yerini kehanete bırakıyor.
+
+Tahıl ve ot biçenler gitti ve renkli anız
+cırcır böcekleri ve tekdüze ağustos böcekleriyle dolu. Şimdi ufalanan karık sabanın arkasına katlanmış ve mısır bıçakları ciddi kabakların yakınında sallanıyor, çünkü mısır tarlasında, bağda, meyve bahçesinde ve sincabın bölgesinde, tüm son hasatlar olgunluğa doğru
+hızlanıyor, çünkü gün batımı soğuğu Ağustos'tan beri çekirge tarafından önceden bildirilen bir felaketin uyarısını veriyor. Bal rengindeki, çatlamış ve yumuşamış
+pippinler, Ekim ayının ağaçlarının rüzgarla düşenleriyle karşılaşıyor - koyulaşan kırmızı, yumuşak sarı ve cilalı yeşil. Büyük, koruyucu yapraklar yüklenmiş asmadan düşüyor. Her nefes meyvelerden, kuruyan otlardan ve
+terkedilmiş bahçelerde Eylül ayında en keskin olan geç çiçeklerden bahsediyor - kadife çiçekleri, papatyalar ve tarçın pembesi. Nane ve nane
+ihanet ediliyor. Olgunlaşmaya yakın olmayan dikenli elmalar, güneye giden kuşlar tarafından daldan
+düşürüldü. Yine de, şarap rengi ve kızıl yaprakların arasında meşe palamudu yeşildir,
+ama kızarmış kış yeşili meyvesi ve kırmızı taşlı keklik asması
+orman tabanı boyunca sonbaharı ilan eder. Kestane rengi ihtişamlar sumak üzerindedir
+ve eski moda kapı bahçelerinin yanan çalıları, duman ağacının da tohum pusunu tuttuğu yerde. Bazen bir gentian ölü otların arasında dik durur--soğuk alacakaranlıkta omuzlarının etrafında dönen saçaklı bir mantilla ile ince bir senora. Kapalı gentian karanlık ve geçilmez mavisini yılan başının pembe uçlu eşlik eden saplarının yanında tutar. Dikenli külün kılıflı meyveleri güzeldir--ama
+tadına hançer gibi. Genellikle yabani kirazların arasında yetişirler, ki bunlar şimdi
+suyu çekilmiştir, İran'dan gelen kurutulmuş meyveler kadar tatlıdır. Ve
+karpuz aromalı siyah dadı meyveleri ve ilk baharatlı
+yabani üzümler vardır.
+
+Ölümsüzler kumlu tepelerde ağartılmış kağıt beyazıdır. Patlıcangiller üç renkte meyveleri tutar, parlak yeşilden bulutlu
+kehribar ve koyu kızıl göle geçer ve üzerinde hala gizemli mavi çiçek asılıdır, reddedilmiştir. Kızılcık dalları bir gün batımı kadar muhteşemdir ve kalın
+kırmızı kümeler dağ külünden sarkmaktadır. Son sinek kuşları bronzlaşmış hanımellerini
+zorlar. Uyuşuk, ancak hala güneş dünyasına tutunan, sarı zambak otlu derelerde ölür. Her şeyi fetheden altınbaşak
+yazın geçmesine pişmanlık rengiyle yol veriyorsa,
+tüyleri, püskürmeleri, kümeleri ve mızraklarıyla her çayırı El Dorado yapmıştır. Narin bir sprey üzerine serpiştirilmiş, peri lavantası asteri yol kenarlarını ve tarlaları ele geçirdi ve ondan önce, gölgeye doğru, beyaz orman asteri, cüce meşelerin gösterişli yaprakları ve yabani şalgamın parıldayan kırmızı tohumlarıyla karışıyor. Eylül ayının gösterisini yapmak için, baharın kokulu, soluk yaprakları, yazın gerçekleşmesinin uyuşuk memnuniyeti ve sonbaharın Tirus boyaları birleşiyor.
+
+Çatal çitler boyunca çiçek açan soluk akasma, hala kara yılanı, sincabı ve kızıl sincabı -bazen hatta sincap benzeri olmayan
+dağ sıçanını- saklıyor, ancak bataklıklar ve göl kenarı çamlarının dalları, öncü göçmenler daha uzun günlerin olduğu bölgeleri ararken, birçok garip kuşun ayaklarının kısa dokunuşundan sonra bile günlerce hissedildi. Şık giyimli ziyaretçiler, mavi meyveli ardıç ve pişmiş toprak gövdenin devasa şevketi otuna geldiler. Balıkçıl, bir çayır kurbağasını yutmak için derin meditasyonunu yarıda keser, çünkü yabani kazlar "karışık
+korna ve çan sesleriyle" güneye doğru su yollarının üzerinden akın edene kadar oradan ayrılmayacaktır. Sığırcık
+ve mavi alakarga, şafağa kadar takırtılarıyla bir süre kalırlar. Orman yaratıklarının üzerindeki
+tüyler kalınlaşmıştır.
+
+Körler, kargaların gürültülü tartışmalarında,
+çekirdek, ağaç kurbağası ve baykuşun umutsuz çığlıklarında Eylül'ü duyabilir. Havada
+isteksizlik, duraklama. Sarmaşık ve zehirli sarmaşıkların alev alev çelenkleri,
+taş duvar. Yaz bekleyemez. Asterin ağıt morları çağırır,
+ve kelebek devedikeninin üzerinde uzun süre uyur, ama şimdi, ilk acı tatlı ve son tatlı bezelye ayında gitmez.
+
+BÖLÜM X.
+
+MEŞELER MÜRDÜM GİYİNCE
+
+[İllüstrasyon]
+
+Yaban ördekleri sayısız günlük yolculuklarında güneye doğru akıyorlar.
+Gün batımından kısa bir süre sonra sedirlerle çevrili göletin üzerinde dinlenirken, gece avlanan bir tazı tarafından tekrar
+uçmaya teşvik ediliyorlar ve
+kanat çırparak ve ürkütücü bir çığlık atarak yola devam ediyorlar. Daha sonra uçan kazlar
+kamışların arasından gürültüyle yükseliyor ve sessiz bir telaşla mavi balıkçıl ve
+kıyı boyunca ölü bir karaağaçta tüneyen bir çift hüzünlü yaşlı turna
+soğuk, görünmez yolu takip ediyor. Gün doğduğunda ateş saçarak kargalar
+bu gezgin kuşları orman kenarlarından mizahla izliyorlar.
+Güneye doğru bir dürtü hissetmiyorlar. Açıklığın etrafında dönerek, öğleden sonraki sempozyumları için en uygun meşe hakkında gürültüyle yorum yaparlar, cilalı tüylerini açarlar ve alaycı bir sıraya oturarak, su kuşunun uzun, uzaklaşan bacaklarına veda ederler. Şimdi dağcının kızı, kendisine hiç anlatılmamış
+Eski Dünya köylü masallarını hatırlayarak, bulutlardaki Vahşi Avcı'nın
+uğultulu hayaletinden kaçıp akşam karanlığında aceleyle içeri girer, o da uçan kamanın endişeli lideridir.
+
+[İllüstrasyon]
+
+Ekim ayındaki karabuğday sapları, hiçbir Fiesola gül bahçesinin
+açmadığı kadar koyu kırmızıdır. Kuzeyin gri tepe yamaçları, yağmurlarda bile ısrarcı olan, gül renginden kestane rengine kadar parlayan rengiyle şenliklidir.
+Altta, öğle güneşi altında parıldayan
+kıymıklara ayrılan soluk sarı yulaf sapları uzanır. Buğday tarlaları koyu sarı renktedir ve
+daha koyu -köklerde yanık toprak rengi- biçilmiş arpa tarlaları uzanır. Küçük
+döküntü çiçekleri, tahıl sapları arasındaki toprağın kendileri için özel olarak
+işlendiğini hayal ederek,
+güneşi tekrar özgürce gördüklerine göre,
+bu güzel ıssızlığın ortasında baharın taçyapraklarını giydiler. Çilek
+çiçekleri, gözle görülür şekilde solgun, belirdi; uzun saplı ve seyrek çiçekli sonbahar
+karahindibaları; Nisan ayının düğün çiçeklerinin kötü zamanlanmış bir gösterisi. Böğürtlen
+asmaları zengin bir şekilde boyandı - don mücevherleri için mükemmel kırmızı kadife ortamlar.
+
+Aşağıda vadide, odun dumanı pusunun içinden, yavaş elma
+arabalarını şeritlerden geçirin. Burası elma diyarı. Northern Spy ve Lemon
+Pippin çatlamaya hazır; Baldwins On İkinci Gece'ye kadar yumuşayacak,
+Paskalya'da kızıl. Maiden's Blush muhteşem ve geçici bir şekilde asılı duruyor.
+Çilek elmaları küçük ağaçlardaki közler, meyve bahçesinin
+yakutları gibidir. Leydi Tatlılar ve Dominies saygıyla mahzene
+sürülmekte ve bu dünyanın gösterilerinin sahteliğini öğrenmek için para ödeyecek olanlar için yük vagonları Ben Davises'leri kabul etmektedir. Genellikle dallarda bırakılan koyun burunları, kara donlar son kadife çiçeğini öldürdükten sonra soğuk nektar tutacaktır. Erken karda, meyve bahçesi çitinin yanında, donuk kırmızı renkte yatarlar, açık ifadeleri hiçbir sırrı açığa çıkarmaz. Onlar hakkında
+bilginiz
+olmalıdır. Bir koyun burnundan daha anlaşılmaz hiçbir şey yoktur.
+
+Çivit mavisi tepelerin hemen üzerinde, şahinin vadi boyunca süzüldüğü batı
+rüzgarı tarafından rahatsız edilen hafif bulutları harekete geçirir. Öğleden sonra
+Ekim'in sevgilisi, yarı saydam sarı yapraklı huş ağaçları ile hala yeşil ama bir çingenenin kuşağı gibi kırmızı ormangülü takan akçaağaçlar arasında uzanan, mika taşlı tepe yolunu seçer. Burada gün batımı
+yıldızlara kadar oyalanır, vadinin kadeh akşamından
+sönük güneş ışığını berrak kehribar bir şarap gibi yudumlamış olsa da. Ama sabahleyin
+kahverengi alçak arazilerden geçen yolu veya donun geç yattığı orman boyunca yakınlaşın, çünkü burada o arzu çiçeği, saçaklı gentian büyür.
+Mavisi, kapalı gentianınkinden daha az gizemli ve derindir ve yine de
+kaç kişi ona sonbahar zevkinin kadehi der!
+
+Yapraksız dalların onlara mavi gökyüzü verdiği ormanda sonunda
+tuhaf bir mükemmellikle yosun eğrelti otları ortaya çıkar:
+bir salyangozun evinden daha yüksek yükselen palmiyeler,
+uçlarında akikler olan görkemli yeşil tüyler, uzun santimler boyunca uzanan geniş tropikal ormanlar,
+gri, sürüklenen nehirler ve likenlerden oluşan turuncu uçurumlar,
+düşen bir yaprağın altında kaybolmuş narin ormanlar. Parıldayan zırhlara bürünmüş bir böcek
+vahşi doğada ilerler. Kobalt mavisi bir yusufçuk sallanan bir palmiyeye konar. Yuvarlanan bir ceviz ağacını kovalayan sincap bir kasırga getirir--ama
+bunlar elastik ağaçlardır.
+
+Aynı yaramazlık yapan, tedavi edilemez derecede meraklı, her yabancıyı kovalar,
+taş duvar boyunca ateş eder ve çatlaklardan dışarı bakmak için durur
+yenilenmemiş gözlerle. Yakışıklı ama kendini beğenmiş ağaçkakan, zulmetmeyi seçtiği
+kurtçuklarla dolu ağaca vurur.
+Son derece saf,
+yol kenarı ineği, mükemmel hayali kahvenin tanelerini solmuş iskeleden
+dökerek sitemle yoldan çekilir.
+Yalnızca
+taşıdığı bir kekliğin davul sesleri, kızarmış kızılcık ağacının bir köknar kümesini yücelttiği yerde duyulur. Bazen ormanlarımızda pek de evinde olmayan
+kedi sülünü başını eğer ve çalılıkların arasında kaybolur. [Resim]
+
+Şimdi sonbaharın sonunun avcı ayından veya Haziran güllerine bakan çilek ayından daha sarı olan hasat ayı
+kabuğu soyma zamanı için yükseliyor. Son hasattır; mısır ekildiğinde kış gelir. Yığılmış,
+düşen başaklarla, tahılları birçok ilginç desende,
+sınıflandırma katına ve ambarına, balkabaklarıyla, Yeni İngiltere'nin satrapları,
+parıldayan yükün üzerine
+sarsak bir şekilde tünemiş olarak gider. Dağ külü, tarladan yola doğru
+gösterişli kümeler halinde asılı kalır. Dona itaat eden meşe palamutları düşer ve ilk kestaneler, cilalı maun, gün doğumunda beyazlamış çimenlerin üzerinde yatar. Kaba kabuklu ağaç cömertliğini, ceviz ağacı ise lekeli
+katlarında zarifliğini dağıtmıştır. Eğimlere karşı renkli eğrelti otu yamaları bronz, kızıl ve menekşe kahverengisi gösterir. Ekim ve bizim mor Doğu'muzdan bahsederken, uzun asterler, koyulaşan
+lavantadan en gölgeli menekşeye, altınbaşaklara katılır. Sumaklar
+gururla işaretlenmiş tepeleriyle kalabalıklaşır; şahin
+Çin kırmızı fenerleriyle asılıdır; tatlı diken, sapı ve yaprağı,
+mentol ve Doğu baharatlarıyla kokar. Meşeler, koyu kahverengi ve
+erik renginde görkemli durur. Ekim ayını bilen kim unutabilir ki?
+Dondan sonraki geceler ne kadar sessizdir!
+
+XI. BÖLÜM.
+
+KASIM ÖZELLİKLERİ
+
+[İllüstrasyon]
+
+Kasım geldiğinde yıl güneşin kaprislerine alışmıştır
+ve artık çılgınca bakışları için çiçekler açmaz veya
+kayıtsızlığından kaynaklanan incinmiş bir şaşkınlıkla onları saklamaz. Şimdi yıl teslim olmuştur,
+umuttan uzak, özlemi ve çabasıyla sabırsız Nisan'dan çok uzaktadır. Deneyimli ay, Kasım karlarla yüzleşmeye hazır bekler. O,
+tomurcukları, yağmurun paltolarını delemeyeceği kadar sıcak bir şekilde sarar,
+ormandaki kökleri harap yapraklardan oluşan paspaslarla rahatlatır,
+kara donlar gelmeden önce bir uyarı olarak küçük bir don mücevheri serer ve
+diğer her şey için anı yaşar. Kasım bunu daha önce de yaşadı.
+Ama bazen, bir hayalde, mavi alakarga ve inatçı yabani asters'ı bir günlük yaz sonuyla sevindirir.
+
+Yaz sonu hakkında çok fazla kötü his vardı ve daha nazik yol, gençliklerinden beri Ekim ayında geldiğine inanan ve bunu sonsuza dek sürdürecek olanları zulmetmemektir. Bu sapkın fantezinin kurbanları olarak, hayatlarını İşçi Bayramı'ndan sonraki ilk sıcak döneme
+yaz sonu adını vererek geçirecekler. Her sonbaharda, bu kısa mükemmellik mevsiminin Şükran Günü kadar geç gelebileceği, ancak
+bir sonraki yıl, donsuz gökyüzünün altında,
+"Eh, yaz sonu yaşıyoruz," diye mırıldanırken duyulacakları anlatılır. Bırakın iç mekandaki yollarına devam etsinler,
+ya da ıssızlaşan kızılgerdanları Paraguay'a kadar takip etsinler! Meşeler ıssızlaştığında, eğer isterse yaz sonu da gelebilir. Gerçekte, gelir ve gider, tek bir patlamada tükenmez
+parlayan sumaklar, kenarlar boyunca donla aydınlanan saçaklı gentiyanlar,
+erik renkli kızılağaç yaprakları ve mısırlar içeri çekilirken unutulmuş karıklar arasında tehlikeli bir şekilde açığa çıkan eski sarı kabaklar. Gider ve tekrar gelir, ki bu onun cazibesidir -- yılın takvimlenemeyen tek zamanı.
+
+Dünyanın her yerinde Kasım ve Mart aylarını en çok seven küçük, seçkin bir insan topluluğu vardır ve bunların rafine algıları konusunda genellikle biraz kibirli oldukları kabul edilmelidir. Onlar, papatya tarlalarını "tepelerin ölümün asil çizgilerini aldığı" zamana tercih eden çoğumuza tepeden bakmayı başarırlar. Ama tapanların kaprisleri tanrıdan ihtişam çalmaz. Haziran'ın, çok biçimli dalların gölge dansı
+yaprakların arasından asla görülmeyen ay ışığıyla
+aydınlanmış bir Kasım gecesinden başka koyacak hiçbir şeyi yoktur, kardaki gölgeler ise sonbaharın kahverengi çimenleri üzerinde koşan yanıltıcı hayaletlerin aksine
+çizgisizdir. Haziran'da Kasım ayının titrek otları kadar tuhaf, acıklı ve sert çiçekler yoktur. Altınbaşak, yaşlılıktan beyazlamış, donla ne ilgilenir? Tüm kış boyunca karın üzerine gelişigüzel tohumlar saçar,
+günde bağımlılığın ötesine geçmiş sakin bir kardeşlikle birlikte durur. Haziran ormanları alçak güneş altında binbir renge bürünmez.
+Haziran'ın gri çiyleri donun ihtişamına sahip değildir. Haziran'ın düzeltilemez serçeleri, bir kar fırtınasında cıvıldadıklarını duyduğumuzda, günahlarını bağışladığımız cesur, uçuşan "kar kuşları" değildir. Haziran bir liriktir, Kasım bir ilahidir.
+
+Sincaplar tatiller boyunca yetecek kadar fındık toplamışlardır
+ve ondan sonra dışarı çıkıp başka bir şey alırlar -- kimse ne olduğunu asla bilmez. Meşe palamutlarının çoğunu alıp gitmişler, perilere her zamanki sonbahar tedariklerini, fincansız tabaklarını bırakmışlardır. Kavga etmeye
+değer hiçbir kuş kalmamıştır, çünkü kargalar onları fark etmeyecektir, bu yüzden sincaplara
+gitmişlerdir. Bazen ormanın kenarında, sadece
+çiçeklerle gelen ve çoktan gitmiş olması gereken bir kuş,
+sade bir dalın üzerinde, yarı grotesk bir şekilde,
+kaybolmuş bir şekilde oturur - bitkin ve güzel bir şarkıcı, sapkınlık veya
+zamansız kanat zayıflığı yüzünden gecikmiş! Misk sıçanının kış evi hazırdır, ancak
+iyi vatandaşlığının hak ettiği mutlu bir sessizlik onu beklemektedir,
+çünkü yakında avcılar ormanda devriye gezmeye başlayacak ve
+yabani Patagonya öküzü denen, zarif yeni kürkü
+iyi bir fiyat getirecektir. Duygusal yaban kazları hala şafak vakti ve gün batımında başımızın üzerinden geçerler - kargalar eğlencelerini zar zor gizleyebilirler: "Ne saçmalık,
+sürekli gelip gitmek!" Karga, bize olan bağlılığından dolayı soluk Kuzey'de kalmaz. O, ölümlü iniş çıkışların üstündedir;
+şeytani gözünün ardında, eğer yapabilseydi
+söylemekle uğraşmayacağı bir insanlık eleştirisi vardır. Hicivcinin ruhu bir zamanlar
+bir kargada ikamet ediyordu.
+
+Terk edilmiş yuvalar ve dere boyunca çıngıraklı sazlar, oyuklardaki göletler
+ince buzla çevrili, rüzgarların kavradığı yırtık yapraklar, öğle vakti eğimli bir kıyının
+ısıttığı umutsuz hepatica ve çuha çiçeği tomurcukları, asmalardan soyulmuş ve ölü akasmalarla hayalet gibi görünen çitler, en üst dallarda sallanan birkaç donmuş elma, çiğnenmiş tarlalar ve
+yağmur--ve tüm bunlarla birlikte melankoliden daha dingin bir ihtişam. Kasım'ın
+sevgilileri bunu ilan ederek sapkın değillerdir. Yarı belirgin renkler
+görüp alçak sesler duyarlar. Temmuz ayının zengin parıltısından daha çok yumuşak ışığı severler ve Kasım'a sadıktırlar çünkü o, diğer ayların hevesi veya kar sessizliği arasında duyulmayan
+sessiz tonlarda konuşur. Duygusal olan kişi artık sadece kasvet ve ayrılığın yorgunluğunu görür. Kasım, ilkbaharın birçok gününden daha kızıldır ve
+sert hava rehaveti yasaklar. Onun hediyesi ve bizim en geçici
+mevsimimiz olan yaz sonu, kekliğin sonbahar coşkusuna benzer, tutkulu ve karşı konulamaz, ancak umutsuzlukla sonlanmaz çünkü geri döneceğini bilir ve neşe gibidir çünkü öngörülemez veya engellenemez.
+Baküsçü Kasım'dan korkmuş olabilir, dryad değil.
+
+BÖLÜM XII.
+
+NOEL ORMANLARI
+
+[İllüstrasyon]
+
+Güney ormanları Noel süslerini yükseğe asar. Defne ve ormangülü, ökse otu ve kutsal diken, renkli ağaç kabuğu duvarlarına kadar uzanır. Kuzey ormanlarımız zemin boyunca yeşillikler bırakır ve iple bağlanmış
+yer çamı, eğilmiş yaprakların veya hafif bir karın arasından
+diken
+giderek 
+küçük palmiye ağaçlarının alayı gibi görünür, tatil için Kuzeye gelirler,
+şaşkın ve kaybolmuş ama bir arada kalmaya kararlıdırlar.
+Alıç çalılarının altında ve ladin köklerinin üzerinde, geçen yaz gölgenin yoğun olduğu her yerde,
+keklik asmaları kırmızı meyveli çelenkler örer ve
+kış yeşili aromalı ve o gezgin isme sahip küçük bitkiler
+yakutlarını dağ yamacına
+alçak tutarlar. Kalıcı karlar geldikten sonra, bu parıldayan
+meyveler talep edilecek - bu tür plantasyonların tüylü sahipleri tarafından, örtülü köklerin bile özsudan yoksun göründüğü ve fındıkların
+bir süre daha saklanması gerektiği
+günlerde kazılıp çıkarılacaklar. Kasım yağmurlarıyla
+ezilen kılıç eğrelti otu kümeleri yuvarlak yeşil paspaslardır; diğer eğrelti otları uzun zaman önce
+kahverengiydi. Ama nadiren gün batımlarında ve ormanlık alanlarda Aralık rengi vardır.
+Buzla kaplı göletler, somurtkan bir şekilde yatar veya öfkeyle beyaz köpüklere dönüşür.
+Gökyüzü taşlıdır ve genellikle kasvetli siste kaybolur. Açıkta ama
+gri zırhlarıyla cesur ağaçlar, soğuğun dayanılmaz saldırısını gergin bir şekilde bekler: karla karışık yağmur bıçakları gibi kar fırtınası.
+
+Bataklıkların üzerinden, bronz ve topazın söndüğü alacakaranlık saatinde, kötü bir önsezi soluğu geçer. Aralık, acımasız bir kaderi kabul eder--her şey olabilir. Şömine başı ayı değildir, dışarıda yumuşak beyaz ve içeride mum ışığı. Mucizeler zamanıdır, bekler ve Noel gecesinin kalabalık yıldızları huzursuz bir görünüme sahiptir. İzli patikalar, adımlara sertçe yanıt verir. Geciken kar havada bir tehdittir, ancak şehirlerin ötesindeki topraklar, toprağa güvenlik ve kış huzuru getirerek
+hızlanırsa minnettar olacaktır. Yine de kar bir ihanettir, tavşan, vizon ve tilkinin ayaklarının evlerine ve
+günlerinin tüm planlarına dair bir rehber yazdığı bir kağıt parçasıdır.
+
+Noel için kar olmalı -- içerideki aydınlatılmış ağaçlarda,
+uzaklara dağılmış, benzer
+karlarımızda. Ancak ren geyiklerine bir kolaylık ve
+sürücülerine bir iltifat olması dışında, kar altında kalmadıkça
+çorap stokunu oluşturamayan ve Florida göklerinde
+hüzünlü bir şekilde uyuşuk hissetmesi gereken
+şehir halkı, şapla oldukça istekli bir şekilde idare eder. Ancak okul hayatının başlarında,
+hiçbir şeyin Noel arifesi kadar kolay çizilemeyeceği tehlikeli bilgisiyle gelir: beyaz bir yamaç, değişmeyen
+bir eğrinin yolu, dumanlı bir çan kulesi veya baca, bir köknar ağacı veya bir
+yıldız. Böylece kar, beyaz olduğunu düşünen saf insanlar için sanatı kolaylaştırır.
+Yıldız ışığı altında parıldayan, mor, limon veya koyu maviyle gölgelenen
+gün batımı akşama dönerken, öğlen vakti nergis renklerine bürünen kar,
+boyanması daha zordur. Rüzgarlı desenlerle süslenmiş ve
+fırtınanın bir çitin yanından geçtiği yerde akan çizgilere çekilmiş olan kar, Noel
+tebriklerinde görülmesine izin verilmez.
+
+[İllüstrasyon]
+
+Yılın ilk kar fırtınası Noel Arifesinde Labrador'dan gönderilmeli ve tüm ülkeye tarafsızca ve süsleyici bir şekilde serpilmelidir. Sonra, Noel atmosferi sağlandıktan sonra, dağıtım bir sonraki Aralık ayına kadar kırsal kesimdeki müşterilerle sınırlı olmalıdır, çünkü
+sokaklarda kırağı gerçekten kül gibidir. Fakat, kasvetli adaletle,
+uzak Güney neden hiç tatil karı gibi davransın ki? Neden canlı meşeler, timsahlar, lagünler ve Everglade manzarasının diğer güzellikleriyle şaka yapılmış Noel
+kartları olmasın - gelenek ve duygusallıktan ilham verici bir kaçış? Çünkü
+boynuzlu atlar, Kutup'un etrafında olduğu kadar ebegümeci çiçeklerinin üstünde de dörtnala koşmalı. Yine de, yalnızca bir dekorasyon olarak ateşe ihtiyaç duyan ve asla bir kızak sevmemiş bir şöminenin yanına çorap asmak sıkıcı görünmeli!
+
+Terk edilmiş, ama yine de üzgün bir arkadaş yok, kış barınağıyla onurlandırılmayan eğimli mısır sapları tarlada sabırlı nöbetçiler duruyor.
+Terk edilmiş gibi görünebilirler, ama aniden birini devirebilirseniz
+şaşkın bir telaş olur, çünkü bunlar tarla farelerinin, pamuk kuyruklarının, gelinciklerin ve çayır köstebeklerinin
+seçkin kar zamanı meskenleridir - elbette,
+uyum içinde değil, ayrı yerlerde. Kar fırtınası gelsin; mısır saplarından yapılmış düzgünce inşa edilmiş bir evi daha sıcak hale getirir, yine de zencefilli kurabiye evinin bazı tehlikelerini taşır - geçen inekler cezbedilebilir.
+
+Yabani gülün kızıl arması solmadan sallanır. Sarı çiçekleriyle, yılın son çiçekleri olan cadı fındığı, etrafındaki yenilmiş
+çalılara gülümseyerek bakar. Neden, tohumunu bile Şubat'a kadar
+ekmeyecek! Dayanıklı yapraklar için bolca zaman var.
+
+Sert ufukta kümelenmiş orman tepkisiz bir
+gri renktedir; içeri girildiğinde, dallar şık kahverengi, koyu kırmızı ve açık kahverengi orkide kadar yumuşak
+görünür. Aralık ayında kasabalarda demir ruh hali görülür. Ama
+açık yerlerde, ışık ve gölge havuzlarının uzandığı yerlerde, sonbaharın muhteşem kadifeleriyle değil, şafak sisi ve yeni karın harmanlanmış örtüleriyle süslenmiş, böylece bastırılmış gün
+nisan ayının uyanışı gibi, kızaran, sürüklenen buharlarla
+yükselir ve güneş
+soluk olarak geldiğinde, ışığında hiçbir çağrı olmadığını merak ederiz.
+
+BÖLÜM XIII.
+
+RÜYALARDA GÖRÜLEN MANZARALAR
+
+[İllüstrasyon]
+
+Rüyalarda görülen manzaraların ressamı, uyanık hafızaya yabancı olan
+fantastik ormanları ve peri denizlerini bilen bir hafıza olmalı. Ya da
+sanatçı sadece, Bay Maugham ve diğer hikaye anlatıcılarının söylediğine göre, insanların tüm yaşamları boyunca bulamadan yaşayabilecekleri gerçek yuva olan ülkeyi uykuda görmemizi sağlayan, yeni geçen günün yorgunluğudur, çünkü her zaman evde doğmayız, hatta orada yetiştirilmeyiz ve yıllarca görülmeyen bir ülkeyi özleyebiliriz. Bir kez
+görüldüğünde, tanıma anında gerçekleşir ve yabancı bir yerde bir
+_vita nuova_ başlar -- yeni ve tanıdık liman kıyıda bizi karşılamaya gelene kadar hiç bilinmeyen bir rahatlama ve yaşam yoğunluğu. Bu yüzden bazen
+rüyalarda olur. Tekrarlayan ve canlı, tamamen gerçek dışı bir sahne
+dünyevi bir havaya bürünür veya gösterişli bir şekilde egzotik manzaralar, her ülkenin reddettiği, günlük şansımızın olduğu barışı korur.
+
+Rüya manzaraları, sanki orada sonsuza dek beklemişler gibi tekrar tekrar geri gelir,
+özgün ve geçici gelenler bizmişiz gibi. Bazıları, eter rüyalarında, her zaman aynı yeşil dalgalardan, aynı siyah, açık madenlerden
+çekilir ve uyku yolculuklarında kelimelerin ilginç bir şekilde benzer şekilde
+resmettiği yerleri gören iki kişi ara sıra bulunmuştur. Fanteziler, uzun zamandır unutulmuş şiir, oyun ve resimlerin
+yamalı bohçası olabilir, ancak
+zorlayıcı birleşimlerinde
+yükseldiklerinde, bilinçaltının kereste tavan arasına hiçbir borcu yoktur.
+Tasarladıkları dünya kendilerine aittir ve onlar, etersel yollarıyla yaşamın
+yetersizliklerini telafi ederler.
+
+Kumların gri enginliği üst plaj boyunca millerce pürüzsüz uzanan, ancak suyun yakınında küçük artçı dalgaların
+vuruşuyla tüy gibi olan ve sonu gelmez şekilde koyu kahverengi yosun bantlarıyla örtülü, uzun, kıvrımsız bir deniz kıyısı vardır. Burada, hiçbir yerde görülmediği gibi, deniz yosunu bağcıkları
+aydınlatılmamış derinliklerde öğütülmüş renklerle çevrili, sanki gelgit, gümüş çakıl taşlarıyla birlikte lapis
+lazuli ve feldispat oymaları yapmış gibi ve sürüklenen tüm
+algler sarı kabuklarla kaplı. Kıyıya doğru palmiyeler
+yeşil bir ufuk oluşturana kadar
+yukarı tırmanıyor ve doğal olmayan yaprakları
+düşünceli ormanın girişini örten
+yeşil şifon gibi tekrar aşağı iniyor.
+Sis kadar elle tutulamayan kokulu çiçeklerle asmalar kök ve gövdenin üzerinden
+geçiyor ve aralarında arada sırada sessiz ayak ve erimiş gözle bir
+leopar rüzgarı esiyor. Sürekli gün batımı azalıyor ve palmiyelerin arkasında parlıyor.
+Hiçbir zaman
+rüzgar yok. Okyanusun, canavarların, fırtınanın şiddeti, kumların üzerinde yürüyen kişi, suların kırılıp inleyerek geri çekildiği
+kayalara doğru hissedilmeyen adımlarla ilerlerken, uyuşuk bir tasmayla tutulur. Mağaranın üzerinde siyah bir şekilde asılı dururlar ve dalgalar avlanmaya gelirler
+ve mücevher gibi pullu yılanlar, narkotik ve zahmetsiz hareketlerle, kayalarla ve tüm sahneyle birlikte
+kaybolana kadar, ileri geri dolanırlar.
+
+Uzun zamandır bilinen bir ormandaki bir çukurun altından küçük bir dere, bir perinin nehri akar ve çalılıklardan, açıklıklardan ve açıklıklardan geçerek, eski yangınlarla ıssızlaşmış ve kararmış taşlar ve kömürleşmiş dallarla
+dolu, korkunç bir diyara doğru ilerler. Yerin kendisi susamıştır ve hayalperest içmek için diz çöker. Küçük dere, derin bir su gibi karanlıktır ve buzun içinden akıyormuş gibi
+acı soğuktur. Aşağıya doğru itilen bir asa derinliklerini
+duyamaz. Bir parmak genişliğinde ve dipsiz! Hiçbir şey akışını
+engelleyemez. Parıldayan bir el akıntıyı ayırıp az önce çizilen yola doğru geri salladığında, sınırlarındaki eski közler aniden dağılır, ancak
+alevle kavrulmuş köknarlar arkalarında korkutucu bir duvar oluşturmuştur. Diğer
+soluk parmaklar uçurumun kapısından uyarı jestiyle kalkıyor, ama
+dar uçurum ayakların altında açılıyor.
+
+Beyaz elbiseli eşcinsel insanların portakal ağaçlarının gölgelediği bir meydanda
+gezdiği bir kasaba var ve sürekli melodiler mırıldanıyorlar. Küçük beyaz
+sokaklar kepenkli evlere çıkıyor. Buginvillaea ihtişamı,
+ebegümeci çitleri ve düşen sarı meyvelerle
+muhteşem bir savaş halinde kafes ve çardaklardan taşıyor. Tepeden aşağı ve parke taşlarının üzerinden,
+müzik ve kahkahalarla takip edilerek, limon çiçeği kokularıyla
+hizmet edilerek, uykunun
+buraya götürdüğü kişi akıcı ametist gölüne doğru gidebilir. Yol,
+kahverengi kadınların parlak eşyalarla dolu sepetlerin yanında çömeldiği ve parıldayan kertenkele satıcılarının uykulu bir şekilde eğildiği pazar yerinin yanından geçiyor ve sonra bir adımda yoğun ve düşünceli orman onun üzerinde ve alçak dalları gölün dalgalarını süpürüyor. Devasa yapraklar perdeler gibi sarkıyor ve aralarında, huzursuz gözlere sahip adamlar hareket ediyor ve tekdüze konuşmalar yaparken, parıldayan kayayı
+korkunç şekillere
+yontuyorlar. Bir çukurun etrafında dönüyorlar. Opal ve koyu altın süslemeler ve zehirli orman bitkilerinden oluşan çelenkler, gri ve kan kırmızısı, solmuş asmalarla bağlanmış. Çukurdan çığlıklar geliyor ama ilahiler hiç durmuyor.
+
+Sedir dağının çok yukarısındaki bir kaleden yürüyen, zırhlı adamlar
+alacakaranlıkta, altınla çevrili, kıpkırmızı titrek sancaklarla, çiçek açmış süsenlerle dolu, kenarında meşaleler olan geniş bir havuzun olduğu bir vadiye geliyorlar. Alevleri, dönen kayalıklara doğru akıyor.
+Her yürüyüşçü ipek bayrağını sessiz sulara daldırıyor ve ışıklar
+yukarıdaki siperlerde yükseliyor, tek tek tüm siyah tüyler çayırın karanlığında kayboluyor ve meşaleler alçaktan yanarak havuza düşüyor.
+
+Sadece koyu kırmızı nasturtiumlarla ekilmiş bir bahçe, hayalperestin dokunuşu için bir çiçeğin kadifemsi yanağını kaldıran çiy ile kaplı ve
+Seylan baharat bahçelerinden gelen öğlen esintisi kadar hoş kokuludur. Renk mucizesi, büyük gri taşlardan oluşan yüksek bir duvara kadar bir yamaç boyunca yayılmıştır ve
+kapının içinde, bazıları gölgeli çiçek salkımları olan mavi kümeler, bazıları topaz ve
+olgun yeşil kümeler tarafından taşınan üzüm asmalarıyla kaplı bir ev vardır. Çimenlerin arasında, geniş, soluk zambakların
+yüzdüğü ve mor menekşelerin tüm yürüyüş yollarını sınırladığı bir gölet vardır. Çok yavaşça panelli
+kapı açılır ve güneş merkezi salonu doldurur. Gümüş perdelerle
+asılmıştır ve yaşlı bir kadın orada bir mumla durmaktadır, mırıldanarak ve bir ışık şelalesine bakarak.
+
+BÖLÜM XIV.
+
+SAKLANMA YERLERİ
+
+[İllüstrasyon]
+
+Çocukluk gizli bir yeri hatırlar - sığınak, itiraf yeri ve rüyalar yatağı - yaratılışın yalnızlığının ilk şaşırtıcı ipuçlarını getiren yıllar boyunca saklanmaya ve arada sırada büyümenin çiğnenen gerekliliklerinin altında çiçekli harabelerde yatan neşeli dünyayı yeniden inşa etmeye gider. Bu küçük köşeler, çok sayıda bulmacayla karşılaştığımız, anlayışsızlığı merak ettiğimiz ve alaycı sert gözlere baktığımız, hafıza için okşayarak kalır, kim hala korkunç ışıklı şehirlerden onlara uçar. Bu küçük limanlara duyulan ihtiyaç ömür boyu sürer. Daha sonraki günlerde nadiren elinizin altında olurlar, ancak hiçbir kilitli kapı ve zihnin
+duvarla çevrili odası onların yerini alamaz.
+
+Yaz ortası güneşleri, ladin dallarıyla yumuşatılarak titreşir ve
+geç yağmurların çatlaklarında oluşturduğu peri göletlerinin
+bir davetsiz misafirin o dryadın kanepesinde uyumasına rağmen
+kılcaldayan ve ağaçkakan tarafından sıkça ziyaret edildiği geniş sırtlı bir kayanın üzerinde oynar. Frenler ve tatlı eğrelti otları
+etrafında toplanır. Püsküllü kızılağaçlar onun perdeleridir. Burada sonsuza dek
+dinlenebilir insan. Erken çimenler ve yoncalar meralarda kalınlaştığında veya yaz kuşları
+yavaşça geri çekilmeye başladığında isyankar isteklerin yöneldiği yer burasıdır.
+Ormanda güneşle ısınmış bir kayanın
+üzerinde yatma özlemi, bir zamanlar o şifa ve dinginlik yerini
+bilenlere Nisan ve Ekim aylarında umutsuzca geri döner.
+
+Dönen forsythia çalılarının değneklerinden çıkan sarı çanlar
+kadife otlarla kaplı derin bir çukura düşer. Yeni gelen Mayıs'ın soluk kelebekleri, Gaea'nın bu zümrüt kupasını süsleyen karahindibaların arasında uçuşuyor ve
+bazen uykulu kanatlar altın bir rozetin üzerinde uykulu bir şekilde katlanmış. Işık huzmeleri çimen yapraklarının üzerinden neşeyle geçip tekrar geçiyor. Güneş, çiçeklerin berrak sarısında büyülenmiş. Parıltılar, hareket, neşe
+ve bunların yanında huzur ve sessizlik, o coşkulu renk ve
+ışıltılı yaşam yerindeydi. Nadir bir yerdi ve yuvaları için dalları gizleme arayışında olan kuşlar ve belki de orada saklanan ve gitmeden önce her zaman gülmek zorunda kalan biri dışında kimse tarafından ziyaret edilmiyordu.
+
+Yumuşak çimenliklerden oluşan yuvarlak bir alan, çilek çalısı ve beyaz dalları yere doğru alçakça sarkan gelin çelengi spirea'ları tarafından korunuyordu. Burada ay ışığında bir yaz gecesinde, kollarınızı uzatmış ve
+yüzünüzü yumuşak çimenlere bastırmış bir şekilde uzanabilir ve parmaklarınızın altında
+dünyanın muazzam, rahatlatıcı ve sonsuza dek döndüğünü hissedebilirdiniz,
+yukarıdaki yarasa kanatlarının tek sesi veya bir yavru kızılgerdanın gecenin ilahi hızının yavaşlığına müzikal bir şekilde itiraz etmesi. Burada çimenin kokusu keskin ve tatlıdır. Burada çiy, zonklayan bir alnı serinletir. Burada
+toprağın alt tonları bedende titreşir ve tüm sinirleri,
+yoğun bir algıya gerilmiş, yine de ikna edici bir huzurla sarılır.
+
+Bir yamaçta büyüyen eski bir balm-o'-Gilead ağacı, öğle vakti bile
+kıyaslanamayacak kadar uzak ve loş bir şekilde aydınlatılmış yapraklı bir saklanma yerine giden bir yol olarak güçlü bir dalını nazikçe aşağı indirir. Dallar gövdeye karşı
+çok geride bir koltuk oluşturur ve her zaman serin olan o parlak yapraklar, gelgitte
+dalgalar gibi hışırdar. Ağacın anlatacak çok şeyi vardır, ama asla müdahaleci bir
+kelimesi yoktur. Orada bir kitapla veya gizli mutluluk veya gözyaşlarının dikkat dağıtan arkadaşlığında oturabilirsiniz ve o sizi nazikçe görmezden gelir,
+gün boyu süren güneşten yeşillik toplama görevini sürdürür ve yalnızca
+zaman zaman meraklı bir yaprakla elinize dokunur. Bazen bir
+kırmızı sincap içeri bakar ve havadan şaşkın bir şekilde uzaklaşır.
+Bazen koyunlar evlerine giderken çok aşağıdan geçer. Ama sığınak
+güvenlidir ve Gilead'ın şefkatli kolları,
+soran bir çocuğu tutmak için huzurla bekler.
+
+Parlayan ve oyalanan köpüklü kahverengi bir dere yakalanır ve tekrar serbest kalır, dağ boyunca aşağı doğru bir orman perisi tarafından yuvarlak kaya banyosu için köpüklü su sağlamaya ikna edilmiştir. Görev bilinciyle her an
+eğimli tazeliğini döker, arada sırada bir defne yaprağı veya çok yakına eğilmiş bir çiçeğin
+taç yaprağının armağanını getirir. Bu banyo, pırıltılı kuvarsla süslenmiş ve kırmızı ve beyaz çakıl taşlarıyla kaplıdır. Güneşin düştüğü yerde gri yosunlar, suyun damladığı yerde ise koyu yeşildir. Peri, beş parmaklı sarmaşığı ve patlıcangilleri
+etrafında yoğun bir şekilde eğitmek için epey çaba sarf etmiştir ve büyük frenler, gün doğumunda parıldayan ayaklarının yürümesi gereken yolu kaplar. Şimdi öğle vakti, hiçbir canlı örtüyü rahatsız etmeden oraya gelebilir ve ayaklarınızı yosunların üzerinden o dağ havuzunun çukurlu serinliğine sarkıtabilirsiniz. Bir
+alabalık içeri
+fırlayabilir, bir çıkıntıda kırmızı bir kertenkele belirebilir, ama başka hiçbir şey.
+Kiraz kümeleri erişilebilecek mesafede asılı durur.
+
+Tutkusuz ineklerin otladığı ve öğleden sonra geç saatlerde onları almaya gelen collie'ye
+alaycı bir şekilde homurdandığı bir çayırın köşesinde, bir şekilde altındaki çimenin tropik yüksekliklere kadar
+büyümesini sağlayan büyük bir kırmızı meşe vardır. Ancak, dolaşan iki eski
+kökü arasında, kanarya çiçekli beşparmakotu sarmaşıklarıyla örülmüş kısa otlar vardır ve
+bu köşeye, ötesindeki rüzgarla savrulan bıçaklarla gizlenerek
+gölgede ürkütücü olgunluklarına ulaşan beyaz yabani çileklerin tadına bakabilirsiniz. Bir dağ sıçanı oturup bariyerin üzerinden size bakabilir
+veya parlak gözlü bir sincap daha iyi bir görüş için bir dala tırmanabilir.
+Sizi kısa sürede yalnız bırakırlar ve alacakaranlıkta inek çanı bile sessizdir.
+
+Bir vadinin yarısına doğru eğilmiş bir çukurda yetişen bir balsam köknarı, bu uyku veren Kuzey ağacının davetkar tavrına benzer şekilde, aromatik dallarını kayanın üzerine misafirperverce yayar. Tepelerin
+nefesi burada dökülüyor. Gündüzleri neredeyse karanlık ve geceleri yıldızlar
+üst köknarların üzerinde sarı görünüyor. Rüzgar gri duvarların arasından mırıldanarak esiyor ve derenin sesi, çok aşağıda, sadece
+soğuk aylarda belirsiz bir şekilde duyuluyor. Bu, en uzak saklanma yeri. Sadece cüretkarlar
+yalnızlığına giden tehlikeli yolu bulabilir.
+
+XV. BÖLÜM.
+
+YAPRAKLARIN OYUNU
+
+[İllüstrasyon]
+
+Tilki ve keklik, yavru geyik ve sincap için -koşan veya uçan tüm orman sakinleri için- gençlik, hayatın geri kalanı gibi, stres ve çaba zamanıdır.
+Kısa bir bebeklikleri ve küçük bir çocuklukları olur. Hareket etmeye başladıklarında
+avlayan ve avlananların yükünü kendileri üstlenmek zorunda kalırlar. Yuvalarından veya inlerinden, kendilerine karşı silahlanmış bir dünyaya adım atarlar ve bunu akıllıca dert etmeseler de, şüphesiz ki bu onların eğlencesini zorlaştırır. Oynayan tilki yavruları sevimli masumlardır, ancak kuzular, taylar ve buzağılar çitle çevrili çayırlarda hala hayranlık uyandıracak şekilde
+kendilerini gülünç duruma düşürürken, onlar kurnaz ve temkinli hale gelmiştir. Ve ne avcı, ne şahin ne de yaban kedisi, yeni başlayan oyunun gençliğine ve deneyimsizliğine hoşgörü göstermez.
+
+Küçük yapraklarda durum farklıdır. Dansları, pozları, çırpınışları, narin neşe patlamalarıyla
+yavru kediler kadar oyuncudurlar. Çiçeklerle, keresteyle veya emlakla uğraşmadıkları sürece, kış bebekliğinde yalnız değiller, ilkbahar ve yaz boyunca, onlara çiğ ve yağmur banyoları ve güneşin uykulu şarabıyla hizmet edenler olarak güvendedirler. Ancak yaşlılık, rüzgarlar ve sıcaklıkla ve hatta özsuyun çekilmesiyle yorgunluğa yol açtığında, düşmanları olan donla karşılaşırlar.
+Tırtıllar, orman yangınları diyeceksiniz, ama bunlar insanın hatasıdır
+ve doğanın yaprakları kolayca
+düşürme planındaki beklenmedik bir kusurdur. Kendi gizemli
+korumalarına sahip yabancı ağaçları, o bağışıklığın kaybolduğu topraklara getirdik ve böylece kestane bizi terk etti ve elma ve gül, annelerinin öngörmediği
+düşmanlar tarafından tehdit ediliyor. İnsanın hataları olmasaydı, yapraklar
+aralarında ve altlarında hareket eden yaratıkların karanlık
+hayatlarıyla karşılaştırıldığında aşırı derecede neşeli zamanlar geçirirdi.
+
+Tüm kış boyunca yaprak tomurcuğunda bebek lale yaprağı, sıkıca kıvrılmış bir şekilde uyur. Güneşin muzaffer mızrakları don çizgisi geri çekilir çekilmez, tam olarak ışığa doğru
+atılmaya hazırdır ve orada
+eğilir, güler, başını sallar ve bazen sabahın Temmuz'un yoğun çiğinden opaller oluşturduğu saatte esen bir esinti geldiğinde oldukça
+çıldırır. Kavaklar, kız saçı ağaçları, o zaman
+pullar
+çıkarır. Akçaağaçlar gümüş yanlarını gösterir. Orman her zaman
+yaşayıp nefes alır, ancak yeni yapraklar geldiğinde uzun,
+titreyen zevk nefesleri çeker. Ağaçlarla
+yaşamış olan herkes, Mayıs'ın küçük yapraklarının Ağustos'un örtülü ve ağır dallarından ne kadar farklı konuştuğunu bilir.
+
+Hışırdayan orman yolunda yürürken, etrafınızdaki
+yaprakların hayallerini duyabilirsiniz. Gençliklerinde fısıldar ve iç çekerler; dost canlısı
+yabancının yanağına dokunmak için
+uzanırlar. Yazın, desenli
+perdelerini şefkatle onun etrafına asarlar, sadece alaycı bir
+fırtınayla sesli hale gelen bir sessizlikte. Sonbaharda, onun ayak sesleri altında gürültülüdürler. Sadece kar onları susturabilir. Sessiz olduklarında en sonunda ölmüşlerdir, ama şimdiden onların
+ardılları, sıkıca sarılmış ve pamukla örtülü, dalların üzerinde uyumaya
+saldırılıyorlar.
+
+Rüzgarlı bir tepedeki dalgalanan, parıldayan huş ağacı, bir ilahi gibi, düşen bir ritimle konuşur. Ova derelerini kemerleyen naiad söğüt,
+su gibi, çok gizlice konuşur. Meşe sessiz kalamazdı, anlatacak çok
+günlük hikayesiyle ve kar zamanı boyunca yapraklarını saklayarak, konuşması süreklidir. Sadece çamlar ve akraba herdem yeşil ağaçlar, ara sıra melankoliktir, sanki yeni iğneler ve yapraklar aşağıdaki halıya bakıyormuş gibi, sonsuza dek kalınlaşmış, tutuşları zayıflamış olanların. Kiraz ve elma yaprakları, renk renk çiçeklerin olduğu bir dünyada doğmuş,
+sonuna kadar neşelidir.
+Sarı-yeşil renklerini koruyan akasya yapraklarının püskülleri, ayık ağaç çiçekleri beyaz, ağaçsal bezelyelerin kümelenmiş kokusuna dönüşene kadar gece gündüz fısıldıyor, kanalize edilmiş ve asma tarafından sevilen kabuklarında yaşayan yarasa ve ağaç kurbağalarının. Çınarın sesi serin tonlu ve hafiftir, ancak üvez ağacı alçak sesle mırıldanır ve
+kayın ağacı alçak sesle.
+
+Kasım rüzgarlarında sürüklenen yaprakları izlerken,
+Stevenson'ın başka bir sona eren hayatın şarkısının anısı gelir -- "daha iyi kısmını yaşadıkları günlerin. Nisan çiçek açmaya geldi ve Aralık asla sönmedi öldürücü
+soğuğunu soludu." Ancak onları giyen ağaç, o ay soyulmuş bir çıplaklıkla ayakta durur -- eğer sert güçlü demekse -- buz fırtınalarının günleri geldiğinde göz kamaştırıcı ihtişamlara kavuşacaktır. O parlak griliğin mucizesi, sabah güneşinde bir karaağaç, her dalı ve her en küçük dalı buzla kaplıyken, Haziran'ın yeşil büyüsünü geride bırakır. Bir mercan ağacından daha güzeldir. Parlatmak için yapılmış söğütlerin rengidir. Çimenlerin üzerindeki
+gündoğumu örümcek ağları, çiy üzerindeki yıldız ışığı kadar gridir. Ocak ayında
+sallanan dalları, narin kılıçlara kılıç çarpıştırır veya sessiz bırakıldığında, karaağaç düşünceli bir dansçı gibi durur ve uzun kristal boncuk dizilerini birbirine karşı savurur. Ve şehirde, beyaz ark ışıklarının altında parıldayan, bir cadde boyunca uzanan küçük buzla kaplı akçaağaçlar, gri emayenin değişen parlaklıklarını aşar. Buzla kaplı ağaçlar, ışığın,
+suda hızla donmuş ve solgunlaşmış ateşin evidir.
+
+Yaprakların gidişi ve gelişi arasında gökyüzü, dalların kurnazca dantelinin arka planıdır. Her zaman Mayıs olsaydı, o yapraklı nakışların dokunduğu tezgahın ne kadar
+ince işlenmiş olduğunu asla göremezdik. Sonbaharda tasarım daha sade, renkler daha
+kasvetli görünür, ancak Mart dalları özsu ile dolup taştığında ve tomurcuklar, uyandıklarında, tereddütlü yeşil parmaklar ortaya çıkardığında, dalların o sonsuz derecede karmaşık
+çizgileri, dikenin kokusu kadar dokunaklı bir bahar
+tılsımıdır. Gün batımına karşı ana hatları çizilmiş, yaprak korosunun kuşlarla birlikte çalacağı ayları güzellikle haber verir.
+
+BÖLÜM XVI.
+
+KAHVERENGİ SINIR
+
+[İllüstrasyon]
+
+Sıcak bir Mart öğleni, toprağın çınlayan yuvasından sessiz bir kanat
+kalkar. Orman zemini, ağaç gövdesi ve alçak zemin sesleri yükselir,
+Şükran Günü havası sessiz bir dünya bulana kadar bir daha asla susmazlar. Sallanan otlardan gelen mırıltı ve mırıltı, dikenin tepesinden kısa sözler, arı ağacından gelen bir gün doğumu ilahisi, tüm
+çiy ve ışık saatlerinde yükselip alçalan, güneşin paslı tarlalarında yoğun, donlar yaklaştığında coşkulu bir kuğu şarkısına tırmanan. Ormanın
+orta bölgelerinden geçen, asla yosunların üzerinde yatmayan veya ağaçların
+gökyüzüne doğru uzanan dallarına ulaşmayan, dünyanın en ateşli
+hayatını paylaşmamış olan kişidir - bir kuşun sadece kendisi için söylediği düşünceli şarkılar; dürtüsel,
+hedefsiz uçuşları; ve daha da nadir olan, büyümenin köklerindeki iş ve trafik: toprağın destanı.
+
+Cırcır böceği, kurbağayı ve ağustos böceğini takip eder. O en eski
+görünmez şarkıcı, donmuş şarkının kaynaklarını eritmek için sadece göletin sularında biraz sıcaklık ister. Hanımların saçları,
+söğütler ve açılan nilüfer yapraklarıyla gelir. Ağustos öğleden sonra uykulu sesli cırcır böceği, alacakaranlıkta neşelenir ve ateş böceği ve yarasa dışarıdayken elinden gelenin en iyisini yapar, sarmaşıkla örtülü kabuktan fırlar ve sakin havaya yelken açar. Çekirgeler, ilk altınbaşak civanperçemi üzerinde görünene kadar, çekirgelerin ezici gece korosu sonbaharın topraklarında tekrar tekrar cesurca yükselene kadar, acı tatlı meyve ve kestane kapıları açıp soğuğa teslim olmadan önce söndürülmeyen bir şekilde, bir G telini akortsuz çalarlar.
+
+Derin Ekim gökyüzüne karşı ladin ve karaçamları görmemiş, boyun eğen bir kulüp yosunu yastığından doğruca yukarı bakan ağaçlar hakkında çok az şey bilirler. Sessiz dalların ana hatları ve renkleri en akılda kalıcı şekilde, bulutların yüzen şifonuyla örtülü, o kemerli lapis-lazuli çatının tonozunda gösterilir. Dalların arasına tırmanın ve
+oyulmuş kalite kaybolur. Soluk ve yumuşaktırlar. Ağaç tepesi biçimlerini görmek için
+yere yaklaşmalısınız. Sırtüstü manzara büyülüdür.
+
+Yeşilliğin ölümüyle tuhaf bir ihtişamla ortaya çıkan parlak ve kötü mantarlar, sonbahardaki koyu küften gelir, turuncu ve bakır, kırmızı ve cinnabar, alçaktan getirilen ağaçlarda vampirler olarak yaşarlar. Bazıları, sincaplar gibi meraklı olan,
+kafalarını kabuktan veya taştan kaldıracak ve bakışa karşılık verecek olan tetikte küçük kertenkelelerin pişmiş toprak rengini giyerler. Köklerin özsuyundan gelen yapraklar küller halinde köklere geri döndüğü gibi, karıncalar da düşen meşelerin toprağa dönüşmesini sağlarlar ve
+sonrasında kahverengi toz, en uzun ağaçtan geriye kalan tek şeydir. Aralarından zıplayan, parıldayan böcekler geçer. Tınlı toprağın bu ölümsüz ve kalabalık faaliyeti, yeterince eğilip uzun süre dinlerseniz duyulabilir.
+
+Hava dondan temiz olduğunda, bahar geldiğinden beri sisler ve maskeleyen yapraklarla gizlenmiş peri manzaraları, görülmeyen bir yaratılışın etkisiyle yükselir.
+Küçük göletler belirir ve eğrelti otları arasında kestane ve eski altın bayrakları hala sallayan yollar. Yerde yuvalayan kuşların yalnız yuvaları görünür hale gelir. Orman geceye hazırlanırken
+küçük kozalaklar, terk edilmiş salyangoz kabukları ve ağaçkakan ile sarıasma kuşunun ayrılırken
+düştüğü tüyler gibi ıvır zıvırlar dağılır. Güneş, bir zamanlar sarkık kız saçı eğrelti otlarının olduğu yerde, kekliğin mesken tuttuğu sarıyla benekleniyor.
+
+Sincabın yaz idyl'i için inşa ettiği ev, yukarıdaki
+rüzgarlar tarafından paramparça ediliyor ve diğer tamamlanmış şeylerle birlikte yere düşüyor.
+Kamışların tüylü
+yığını sularda yelken açıyor ve bataklığın otlarına
+asılıyor. Nadas tarlaları soluk sapların bir karmaşasını yayıyor, ancak mücevherler orman yolunda yatıyor, çünkü meyveler, son hasat, kuş toplayıcıları tarafından asma ve çalılardan silkeleniyor, orada şenlikli bir bolluk içinde asılı kalıyorlar, böylece
+kıştan Güney'e veya yeraltı Nirvanası'na uçmayan tüm dayanıklı yaratıklar burada ödül bulabilir.
+Koyu mavi boncuklar, orman gülünden düşüyor. Gül, diğer güllerle dolu karmin sandıklarını saklıyor; ancak
+defne meyvesi güvercin grisi çakıl tohumlarıyla cömert. Cadı fındığı, eksantrik alabalık gibi mevsimleri tersine çevirerek -ki sonuçta muhtemelen
+diğer balıklar gittikten sonra dere başlarındaki yalnızlığın tadını çıkarır- gizemli yaylım ateşini genişçe gönderir ve bu da hedefini
+ormanın tabanında bulur.
+
+Karlı alandan veya ormandan daha uzak bir hayat, ayaklarımızın altında,
+biz onu aramadığımız sürece bakışlarımızdan ve işitmemizden korunan, toprağın ince döngüleri sonsuza dek devam eder, çayırları ve ormanları yakından tanıyanlara bile yabancıdır. Şiddetle çalışsa da,
+sabırla verilen süreklilik vizyonunda bir huzur vardır. Çim biçmedeki şarkıcıların çoğu bir gün yaşar, ancak ertesi sabah şarkı kesintisiz yükselir. Burada hava dünyası ile
+dünyanın içindeki arasındaki sınırda, pasaportlar ileri geri verilir - kırmızı zambak derinliklerden çağrılır; en üstteki meşe palamudu,
+gökyüzüne doğru kupasını kaldırarak, itaatkar bir şekilde düşer ve karanlık bariyerden geçer,
+hayat çağrısı emrettiğinde geri dönmek için. Varış ve ayrılışta istikrarlı bir şekilde devam eder.
+Muhteşem liken çürüyen kütüğe asılır. Beyaz rue yükselir ve
+beyaz karlar batar. Ateş iblisleri kayaları böler ve onların ardından
+bin yıl sonra kan kökü gelir. Sel baskınları aşağı akar ve
+yayla çiçekleri ve
+şehirler takip eder; ve ağır ağır, başka bir bahar, onları alan kapılar
+aralanır ve yeni çuha çiçeği lejyonu dışarı çıkar.
+
+BÖLÜM XVII.
+
+UZAK SUNAKLAR
+
+[Resim]
+
+Uyarılmamışların umutsuzluğu üzerinde
+ritm değişikliği olmadan kapanacak olan hain yeşil bataklıklar tarafından korunan, Ağustos ayında
+yumuşak ve çekici bir güzellik sahnesi yaşar. Durgun dere,
+yağmaladığıyla demir pası rengine dönmüş--bataklık ve eğrelti otunun köklerinin vahşi ve pratik olmayan bereketinin ganimetiyle--bir havuzda duraklar,
+bulutlar yukarıda beklerken veya
+hızlanırken ve esnek sazlar ileri geri eğilirken, şimdi kahverengi, şimdi kuzukulağı, şimdi saten yeşili görünür. Bu, muhteşem yusufçukların
+turnuva alanıdır. Zümrüt, altın ve ametist,
+göz kamaştırıcı bir oyun sergiler, suyun üzerinde ışık mıknatısları gibi parıldar,
+sakin derinliklerin titreşmesine neden olur ve
+küçük balıkları güneşli dinlenmelerinden çeker. Kuş-köpek bile bu havuzu bilmez.
+İnsandan gelen
+bir avdan daha kişisel bir haberci yoktur.
+
+Doğanın en taze sanatını, sanki dağların, fırtınaların, çöllerin annesi, belirli bir neslin onayı için endişeyle çalışmış gibi, görünmez ilan ettiği hazine sahnelerine harcaması gerektiğini merak eden sağlam bir kibirdir; Bay Gray'in bir gözünü, Bay Emerson'ın diğer gözünü, çiçeklerinin görünmeden kızarmasını ve mazur görülebilir rhodorasını haklı çıkaracakları umuduyla tutar. Doğa, ekonomistlere savurgan güzelliği için hesap verme zahmetine girmeyecek kadar ahlaksızdır. Kalmak için iyi ücret alacak olmasına rağmen, taklit Sicilya bahçesini isteyerek terk eder ve ormanda neşeyle eğlenir, işe yaramaz yılan ve leoparı muhteşem şekilde giydirir, kahvaltılarını cennet tüylerinden yapar, Viktorya dönemi şairlerini şaşırtır ve ilk kır tatilinden sonra, vahşi doğadaki kulübelerle karşılaştırıldığında sokakların neşeli insanlığı hakkında kararlı görüşlerle dönen şehirli manikürcüyü fena halde korkutur. Doğa kaygılı ve kişisel olsaydı, teselli veya dinlenme için nereye yönelmeliydik? Onunki, tüm yaşamın altında yatan, acımayan veya övmeyen bir gücün tonik armağanıdır. Rüzgarlar Mağarası'nda en huzursuz
+ruh bile kesinlikle huzur bulabilirdi, aynı şekilde ormanın sonsuz değişkenliğinde, şiddetli veya dingin güçlerin dokunuşu altında, ruhun sessizliğini buluruz çünkü iş başındaki güçler kontrolümüzün ötesindedir, bizi tamamen kontrol eder, düşünce ve enerjinin kaynaştığı ve artık çekişmediği muazzam ve rahatlatıcı bir kavrayışta tutarlar. Böylece okyanusta yaşayanlar, kolaylık için
+değiştirmeyecekleri şeylere sahip olurlar ve böylece kereste kruvazörü kasabaya olan ziyaretini kısaltır. Ticaretin
+büyüyebilmesi için başkalarının yıllarını toprağa
+verdiği şeylerden kolayca vazgeçenler, ne kazandıklarını söylemezler. Bunun nedeni, kelimelerin rüzgarın aldığı şekilleri, sislerin vadilerden güneşin ardından nasıl tırmandığını veya tropik orkidelerin şafak vakti, eğrelti otlu gövdelere sarkan fildişi ve geyik yavrusu kanatlarını nasıl kaldırdığını anlatmak için biçimlendirilmemiş olmasıdır.
+
+Vahşi doğada, bedeni sonsuza dek tutan dev kollara ve zihnin ulaştığı en uç karakolların ötesine hızla geçmiş olan yüce ve duygusuz ruha teslim olabilmek için, sizinle insan seslerinin arasında birçok gün çiçek açmalı ve kaybolmalıdır.
+Ama eve dönüşten sonra - kaynaşan, kör bir insanlığın karışık yankıları, geniş alanların yüce sessizliğinde kaybolduğunda - ormanların ve ovaların, bataklıkların, tepelerin ve denizin engin kişiliksizliği, insan armağanında yatanlardan daha derin bir şefkat ve kin veya sebep olmaksızın savaşmaya çağıran görkemli bir düşmanlık kazanır, merhamet göstermediği için yüceltir; hem insan zanaatı hem de tepelerin gücü gibi zorluklar.
+
+Daha az ciddi bir günün coşkulu hayal gücü, havayı ve ateşi kendimiz gibi yaratılmış yaratıkların meskenleri haline getirdi ve ölümsüz olsalar da, şimşeklerle
+ayakkabılanmış, sıradan görüşten korunuyor olsalar da, bizim
+kendi sıkıntılarımız, aşklarımız ve nefretlerimizle
+mücadele ediyorlardı. Periler ve naiadlar, faunlar ve satirler
+her zaman komplo kuruyor ve dedikodu yapıyorlardı ve sonraki cüceler ve periler de onlardan pek de iyi değildi - kişilerden daha kişisel ve huysuzlardı; fırsat buldukça boşanmaya başvuruyorlardı; yumakları karıştırıyorlardı ve
+iyi kalpli yaşlı atları kızdırıyorlardı. Bunlar yeryüzü tanrıları değildi.
+
+Yeryüzü tanrıları insan şekline bürünmezler. Hiç kimse gökyüzü ateşinin yüzüne, fırtınanın kanatlarına bakmamıştır. Muazzam bir şekilde, insana aldırmadan ve hiçbir tutkuyu paylaşmadan, yine de bazen sınırsız güçlerini onlarla birlikte yükselen zihne teslim ettiler. Kanatlı yılanların çağında, Asur'un hükümdar olduğu günlerde, aynıydılar,
+çocuk ve bilgeye eşit bir şekilde hoş geldin diyorlardı, değişmez ve dinlenmezlerdi,
+iyi ve kötünün ölümlü niteliklerinden uzak, hiçbir yarı insan tanrının olamayacağı kadar güçlü ve şifalıydılar. Bu yüzden, güzelliğin o cömertçe saçılması
+insana aldırmadan. Bu yüzden, diğer insanlardan uzaktayken onları çağırmaya cesaret eden herkese verilen hayret.
+
+Acıklı yanılgının itibarsızlığı, ormanı duygusallaştırmaktan geldi. Şüphesiz ki duyarlı, sevenleri bunun olduğunu biliyor. Su, burunlarla savaşarak ve rüzgarın peşinden sıçrayarak görünür şekilde isyan ederken,
+ve gamzeler çizerek uyurken ve yüzücüyü okşarken, ormanlar da
+ciddi ve mesafelidir veya açık yüreklilere engin dinginliklerini vermek için nefes alırlar. Peri veya peri hayal gücünün emriyle yükselir, ancak
+elementlerin ebedi tanrıları, bizim hesaplamamızın ötesinde, onlardan daha yaşlıdır,
+hiçbir kurguya ihtiyaç duymazlar. Onlar varlıklardır ve birlik sağlarlar.
+Bıldırcınların alacakaranlık çağrısı kadar nazik olabilirler.
+Çayır yangını ve tayfun kadar kayıtsız ve devasa olabilirler. Ancak bugün,
+dün olduğu gibi, girmeyecekleri, ancak bazen yok edecekleri şehirler üzerinde
+düşünürler. Dağ sırtlarının üzerinden yürüyorlar ve çiçekli defneler arasında dolaşıyorlar, hiçbir şey kadar tarafsız ve tarafsız
+arkadaşlıklarında son derece teselli edici, oyuncaklara dalgalanmayı ve parıltıyı sunuyorlar.
+
+SON
+
+Marian Storm'un Minstrel Weather adlı Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK MINSTREL WEATHER ***
+
+***** This file should be named 38645.txt or 38645.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/3/8/6/4/38645/
+
+Produced by Irma Spehar, Markus Brenner and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
