@@ -1,0 +1,1681 @@
+*** START OF AKTAHEADER ***
+Başlık: Applied Design for Printers (Yazıcılar İçin Uygulanmış Tasarım)
+Yazar: Harry Lawrence Gage
+Yayın Tarihi: December 30, 2009 [EBook #30804]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/30804
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+Project Gutenberg's Applied Design for Printers, by Harry Lawrence Gage
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Applied Design for Printers
+       Typographic Technical Series for Apprentices #43
+
+Author: Harry Lawrence Gage
+
+Release Date: December 30, 2009 [EBook #30804]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK APPLIED DESIGN FOR PRINTERS ***
+
+*** START OF TURKISH PART ***
+Barbara Tozier, Bill Tozier, Stephanie Eason ve Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+https://www.pgdp.net.
+
+ÇIRAKLAR İÇİN TİPOGRAFİK TEKNİK SERİSİ--BÖLÜM VII. NO. 43
+
+UYGULANMIŞ TASARIM
+YAZICILAR İÇİN
+
+DÜZENLEME İLKELERİNİN EL KİTABI, BASKIYI EN GÜÇLÜ ŞEKİLDE ETKİLEYEN
+
+TASARIM DÖNEMLERİ HAKKINDA KISA YORUMLARLA
+
+HARRY LAWRENCE GAGE ​​TARAFINDAN
+
+EĞİTİM KOMİTESİ TARAFINDAN YAYIMLANMIŞTIR
+AMERİKA BİRLEŞİK TİPOTHETAE
+1920
+
+Telif Hakkı, 1920
+Amerika Birleşik Typothetae
+Chicago, Ill.
+
+Kompozisyon ve elektrotipler
+STATE JOURNAL COMPANY
+Lincoln, Neb. tarafından sağlanmıştır.
+
+ÖNSÖZ
+
+Bu tasarım kılavuzu, usta bir tipografın içgüdüsel olarak kullandığı düzenleme ve süslemenin bazı temel ilkelerini çırak öğrenci için anlaşılır hale getirmek için samimi bir çabadır.
+
+Sanatta kural olmadığı sıklıkla yazılmıştır ve aynı şekilde usta sanatçının (veya zanaatkarın) tüm kuralları ustalıkla çiğneyebilen kişi olduğu da sıklıkla yazılmıştır. Çırağın, eserinin hepsinin çok yönlü bir örneği olabilmesi için her yeni gözlemlenen ilkeye çok sıkı bir şekilde bağlı kalması kaçınılmazdır. Bu kesin prosedür ona takdir edilir, algısı büyüdükçe, geleneklerin burada vurgulanmasının ve her şeyi kapsayan kuralların ve formüllerin bulunmamasının iyi nedenleri olduğunu kabul eder.
+
+Kalemini ve fırçasını ilk olarak doğrudan matbaacının tasarımdaki sorununa adayan ve karşılığında Bay Denman Ross'un etkisine saygı gösteren Bay Ernest Allen Batchelder'a hak ettiği itibar verilmelidir. İkisi de bir yöntem ifade etmemiştir, ancak insanlığın güzellikle ilgili konulara yönelik ardışık dönemlerdeki tutumunu grafiksel olarak analiz etmiştir.
+
+Bu küçük kitabın basit bir rehber ve yalnızca faydayla ilgilenmeyen baskının daha geniş niteliklerinin daha kapsamlı bir şekilde incelenmesine yönelik bir teşvik edici olarak hizmet etmesi umulmaktadır. H. L. G.
+
+İÇİNDEKİLER
+
+SAYFA
+
+GİRİŞ 7
+
+YÜZEY 8
+
+TASARIM MALZEMELERİ 10
+
+TASARIM NİTELİKLERİ 12
+
+ORANTI 19
+
+DENGE 24
+
+SİMETRİ 28
+
+ÇEŞİTLİLİK 31
+
+HAREKET 31
+
+SÜSLEME 34
+
+BASKIYI EN ÇOK ETKİLETEN TASARIM DÖNEMLERİ 43
+
+EK OKUMALAR 64
+
+GÖZDEN GEÇİRME SORULARI 65
+
+SÖZLÜK 68
+
+YAZICILAR İÇİN UYGULANMIŞ TASARIM
+
+_Giriş_
+
+Ham madde, yalnızca yararlılık niteliğine sahip olacak
+bir bitmiş ürüne dönüştürülebilir. Yararlılık, insan eserlerinin çoğunun
+ilk amacıdır. Ancak yapımcı, eserinden gurur duyduğunda ve el işini hem görünüşte hoş hem de kullanışlı hale getirmek için bir güzellik arzusu duyduğunda, ikinci bir amaç daha yerine getirilmiş olur. Tüm medeniyet ve vahşiliğin çoğu biçimi, rutin yaşamın ekipmanlarının, birincil amacı olan kullanışlılık geliştirildikten sonra göze hoş gelmesini gerektirir.
+
+Bir ürün görünüşte hoşsa, yapımı tasarım unsurlarından bazılarını içerir. Parçalarının ilişkisi, yapısının çizgileri, renklendirilmesi, süslenme biçimi
+öncelikle amacına bağlı olacaktır, ancak _tasarım ilkeleri_ adını verdiğimiz bir grup tanınmış gelenek tarafından yönlendirilecektir.
+
+Tasarım, güzellik ve uygunluk niteliklerini güvence altına almak için kütlelerin, çizgilerin ve noktaların düzenlenmesini yönetir. Çeşitli parçaları ve bunların ilişkileri dikkate alınarak kesinlikle düzenlenmiş herhangi bir çalışma parçasına, soyut olarak, "tasarım" denir. Bu nedenle bir posterden, dekore edilmiş bir duvardan, bir binadan veya basılı bir sayfadan "tasarım" olarak bahsederiz.
+
+Herhangi bir başarılı tasarım uygunluk ve güzellik niteliklerine sahip olacaktır.
+Amaca uygunluk büyük ölçüde mekanik bir faktördür. Çirkin bir bina, sakinlerini hava koşullarından koruyabilir ve çirkin basılı bir sayfa tamamen okunabilir olabilir. Güzellik estetik niteliklere bağlıdır; yani, tasarımın göze ve zihne hitap edecek özelliklerine bağlıdır.
+
+Uyum (şekil, ton, renk ve kavram).
+
+Denge ve oran (kütle, şekil ve renk).
+
+Ritim (şekil, çizgi, ton ve renk).
+
+Tasarım öğelerinin bu anlayışı, insanlığın yaptığı birçok şeyi kapsar: binalar, trenler, heykeller, resimler, çanak çömlekler, mobilyalar veya basılı sayfalar. Her birinde,
+farklı olsalar da, tasarımın amacı çeşitli
+yüzeyleri, kütleleri ve yapısal çizgileri ilişkilendirmek ve
+tamamlanmış bütünü süslemek veya süslemektir. Sayısız malzeme kullanılabilir ve insanlığın teçhizatının tüm çeşitli
+amaçları karşılanmalıdır, ancak
+tasarım ilkelerinin uygulanması her yerde benzer olacaktır. Bu nokta, matbaa öğrencisinin tüm güzel ve faydalı sanatlardaki işçilerle
+ortak bir zemin bulabilmesi için vurgulanmıştır.
+
+_Yüzey_
+
+Basılı sayfada, tasarım düz bir yüzeydeki kütlelerin ve çizgilerin düzenlenmesiyle ilgilidir - kağıt sayfasının yüzü. Bu nedenle
+baskıdaki tasarım yalnızca iki boyutu, genişliği ve uzunluğu dikkate alır.
+Düz yüzeyler dışında işlenmesi gereken
+üçüncü boyut, derinlik,
+yalnızca basılı sayfada _temsil edilebilir_ ve derinliği göstermenin yolu, gözün resimsel bir izlenim ileten çeşitli renkleri ve tonları gördüğü bir yanılsamadır.
+
+_Tasarım_ ve _resimsel temsilin_ her birinin baskıda farklı bir amaca hizmet ettiğini belirtmek önemlidir. Yine de, her biri aynı mekanik prosedürlerle hazırlanabilen bir baskı yüzeyi (tip, kenarlıklar, süslemeler ve gravürler) gerektirdiği için mekanik olarak benzerdirler. Resim, kendi çıkarı için veya metin için bir çizim olarak vardır. Bu nedenle, yalnızca sayfanın tasarımında bir öğedir. Dekorasyon veya süs, sayfayı süslemek için, düz yüzeyinde bir desen olarak kullanılabilir ve metinle ilişkili olabilir, ancak metin için bir çizim olarak hizmet etmesi gerekmez.
+
+[Çizim: Şekil 1. Düz yüzeylerin tasarımı ve aynı konunun gerçekçi bir kalem çizimi.]
+
+Örneğin: Basılı sayfanın dekorasyonu için tasarlanan malzemenin çoğu (süsler ve kenarlıklar) doğal formlardan türetilmiştir; örn.
+yapraklar, çiçekler, vb. Şekil 1'de gösterilen süslemeyi oluşturmaya uyarlanmış yapraklar, saplar ve çiçekler siyah ve beyazın düz bir desenidir.
+Aynı malzeme süslemeye eşlik eden kalem çiziminde resimsel olarak işlenmiştir. Süslemenin düz işlenmesinin, önemi için ilginç düz kütlelerin düzenlenmesine bağlı olduğu görülecektir. Kalem çizimi yalnızca doğal nesnelerin biçiminin bir izlenimini iletmekle kalmaz, aynı zamanda derinlik de ima eder.
+Bir baskı plakasıyla yeniden üretilen doğal nesnelerin bir fotoğrafı daha da
+gerçekçi olurdu.
+
+Önceki noktalar, resimleri, ne kadar hoş olursa olsun, dekoratif malzeme olarak kullanma eğilimine karşı bir uyarı olarak vurgulanmıştır; veya
+baskıdaki tasarımın bir derinlik temsiliyle ilgilenmesine izin vermek. Bir resimde yuvarlaklığı veya derinliği ifade eden aynı gölge ve ışık kütleleri, dekoratif düz kütleler haline getirilebilir ve böylece
+sayfanın tasarımında somutlaştırılabilir. Şekil 2'de A, bir resimdir ve bir örnek olarak veya kendi ilgi alanı için kullanılabilir. B, kütlelerin düzenlenmesinin A'nın resimsel ilgisini ima ettiği, ancak üzerine basıldığı düz yüzeyi inkar etmeyen düz bir
+görüntülemedir.
+
+_Tasarımın Malzemeleri_
+
+Tasarım bir düzenleme meselesi olduğundan, malzemeleri tüm formu oluşturan _kütleler_,
+_çizgiler_ ve _noktalardır_.
+
+Bir noktanın teorik olarak boyutu yoktur. Ve bir çizgi (hareket halindeki bir noktanın yolu olan) teorik olarak uzunluğa sahiptir ancak genişliği yoktur. Bir çizgi yanlara doğru hareket ettirilirse, alanı ve şekli olan bir _kütle_ üretir.
+
+Pratikte, bir nokta bir iğne ucundan daha büyük olabilir ve belirli bir
+şekle sahip olabilir - kare bir nokta veya yuvarlak bir nokta. Ayrıca, tasarımın genel terimlerinde bir çizginin genişliği (genellikle ağırlık olarak adlandırılır) olabilir. Bu nedenle, geniş veya kalın bir çizgiyle karşılaştırıldığında dar veya hafif bir çizgiden bahsediyoruz.
+
+[Resim: Şekil 2, A. Bir fotoğraftan yarı tonlu gravür,
+çeşitli gri tonlarında ve yumuşak kenarlarda ifade edilen
+tam resimsel derinlik etkisini korur. Bu bir resimdir.]
+
+[Resim: Şekil 2, B. Aynı konudan dekoratif kalem çizimi,
+fotoğrafın hikayesini siyah ve beyazın düz yüzeylerinde anlatır.
+Bir yazı sayfasını süslemek için uygundur.]
+
+Bir kütle, genel konturuyla göze iletilen izlenim olan
+şekle sahip olacaktır. Gerçek veya göreli alanı olacak olan boyuta veya ölçüye sahip olacaktır. Ayrıca, siyah ve beyaza veya spektrumun renklerine olan genel
+görünüş ilişkisi olan tona veya renge sahip olacaktır. Bu terimleri bir örnekte somutlaştıralım: Dört inç karelik bir alana sahip ve gri tonlu, kare şeklinde bir kütle
+belirleyebiliriz. Bu üç özellik, o zaman herhangi bir
+kütleyi tanımlayacak ve tanımlayacaktır.
+
+Baskıda, bir paragraf, blok veya birbirine bağlı paragraf veya blok serisini oluşturan ardışık yazı tipleri bir kütle olarak kabul edilir.
+Baş harf başka bir kütle olabilir; bir kafa bandı başka bir kütle olabilir; ve
+süsler veya resimler başka kütleler oluşturabilir. Hepsi sayfanın tasarımında kütle unsurları olarak düşünülmelidir, kural sınırları çevreleyen çizgiler veya daha kalın tasarlanmış sınırlar çevreleyen kütleler olarak kabul edilmelidir.
+
+Böylece basılı sayfanın tüm bileşen parçaları tasarım unsurlarına veya malzemelerine indirgenir ve bu malzemelerle, güzellik uğruna, uyum, denge, orantı ve ritim niteliklerine sahip bir düzenleme yapılmalıdır.
+
+_Tasarımın Nitelikleri_
+
+Sözlük, sanatta _uyumu_ "şeylerin birbirleriyle ilişkisinde normal bir
+tamamlık hali" olarak tanımlar. Uyumlu bir şema içindeki bu "tamamlık hali" öyledir ki, hiçbir ayrıntıyı veya özelliği
+değiştirme veya düzeltme arzusu duymayız.
+
+_Denge_ "dengede olma hali" olarak tanımlanır. Tasarımda
+bu, çeşitli kütleler arasındaki göze çekiciliğin dengesi veya dengesi anlamına gelir.
+
+_Orantı_, boyut açısından "bir şeyin diğerine göre karşılaştırmalı ilişkisi"dir.
+
+_Ritim_, tasarımda, "vurgunun düzenli tekrarıyla karakterize edilen bir harekettir."
+
+Bu tasarım niteliklerinin somutlaşmış halini basit bir
+deney ile keşfedelim. Siyah, koyu gri ve açık gri kapak kağıdından kesilmiş, Şekil 3'te gösterildiği gibi çeşitli küçük parçalar. Bu
+kareler, dikdörtgenler, üçgenler, elmaslar, daireler ve benzerlerinden oluşan grup, Şekil 3'te görüldüğü gibi hiçbir tasarım niteliğine sahip değildir.
+
+[Resim: Şekil 3. Çeşitli ölçülere, şekillere ve tonlara sahip çeşitli kütlelerden oluşan bir grup. Tasarım düşünülmeden düzenlenmiştir.]
+
+Şekil 3'ten, belirgin bir şekil benzerliğine sahip gibi görünen belirli parçaları seçin. Bunları Şekil 4'teki gibi başka bir dikdörtgenle birleştirin ve sonuç kesinlikle Şekil 3'teki alakasız
+karışıklıktan daha düzenli ve hoştur. Şekil 4'te _şekil
+uyumu_ niteliğini geliştirdik.
+
+Ancak Şekil 4'teki şekillerin uyumuna rağmen bazı kağıt parçalarının siyahlıkları nedeniyle aşırı derecede belirgin göründüğünü fark ediyoruz. Diğerlerinin gri tonuyla uyumlu görünmüyorlar. Bunları Şekil 3'teki gibi gri renkli diğer parçalarla değiştirirsek, 5, sonuç tasarım boyunca daha hoş bir ton ilişkisi olacaktır. Böylece _ton uyumunun_ basit bir gösterimini yapmış olduk.
+
+Kağıt parçalarımız çeşitli renklerde olsaydı, _renk uyumunu_ ifade etmek için başka bir düzenleme yapabilirdik. Ancak renk sorunu, _bu seride ayrı olarak ele alınacak kadar çok aşamaya sahiptir.
+
+Eğer ritim bize bir tasarımın çeşitli özelliklerinin "düzenli tekrarını" sağlayacaksa, ritmik bir düzenleme gösterecek kağıt parçalarının bir kombinasyonunu seçmek mümkün olacaktır, Şekil 6. Burada şekillerin bir fikri tekrarlayan ardışık gruplar halinde meydana geldiği fark edilecektir.
+
+Ayrıca, tonların ritmik olduğu, tekrarlanan gruplar halinde açık renkten koyu renge doğru ilerleyen bir dizi parça da düzenleyebiliriz. Bu, _ton ritminin_ basit bir örneği olacaktır, Şekil 7.
+
+Şimdiye kadarki deneyi özetleyerek aşağıdaki tanımlara dikkat çekilebilir:
+
+_Şekil uyumu_, bir tasarım oluşturmak için kontur veya şekil olarak benzer kütleler kullanıldığında var olacaktır.
+
+_Ton uyumu_, bir tasarımda ilişki hissi taşıyan tonların kullanılmasından kaynaklanır.
+
+[Resim: Şekil 4. Şekil 3'ten seçilen, ortak bir şekil benzerliğine sahip birimler. Ancak ton olarak uyumlu bir şekilde ilişkili değillerdir.]
+
+[Resim: Şekil 5. Şekil 4'te kullanılan aynı şekiller, uyum üretmek için gerektiği kadar eşit gri tonları ikame edilmiştir.]
+
+[Resim: Şekil 6. Basılı bir sayfada meydana gelebilecek şekilde şekil ve ölçü ritminin basit gelişimi. Kütleler, şekil olarak olduğu kadar ölçü olarak da ilişkili olmalıdır.]
+
+[Resim: Şekil 7. Bir yazı sayfasında görülebileceği gibi ton ritminin basit bir örneği.
+Tonlar, kenar boşluklarının beyazından yazının açık gri kütlelerine, süslemelerin daha koyu grilerine doğru ilerler.]
+
+_Şekil ritmi_, bir tasarımda benzer şekillerin düzenli tekrarıdır veya bir tasarımda kullanılan şekillerin boyutlarında ritmik bir artış veya azalmadır.
+
+_Ton ritmi_, benzer tonların tekrarı veya bir tasarımda açık tondan koyu tona veya tersine doğru ilişkili tonların düzenli bir ilerlemesidir.
+
+Yukarıdaki dört özellik o kadar yakından ilişkilidir ki, aralarında genellikle kesin bir sınır çizgisi yoktur; aslında, başarılı bir tasarım hepsini bünyesinde barındırır.
+
+_Orantı_
+
+Boyutların karşılaştırmalı ilişkisi olarak oranın tanımı o kadar geniştir ki, herhangi bir boyut orantılı olabilir. Tasarımda orantı niteliğinin her zaman _hoş_ bir boyut ilişkisi olduğu varsayılır. Bu nedenle, hangi boyut ilişkisinin en hoş olacağını belirlemek gerekir.
+
+Bir tasarımda eşit kütlelerin kullanımı monotondur. Göz, boyut çeşitliliğini daha ilginç bulur. Ancak, hangi çeşitlilik biçiminin en
+ilginç olduğunu belirlemek için, mümkünse, bir tasarımdaki kütleler arasındaki ideal alan ilişkisini bulmalıyız. Bu sorun, zorunlu olarak tüm ulusların ve tüm dönemlerin tasarımcıları tarafından
+çözülmüştür ve sonucun her yerde hemen hemen aynı olduğunu belirtmek ilginçtir.
+
+İyi oranın ifadesine, bir dikdörtgeni en
+ilginç ilişkiye sahip olacak iki parçaya bölerek ulaşalım. Bu dikdörtgen, Şekil 8'deki A'dır. B, eşit parçalara bölünmeyi gösterir, sonuç ilgisiz ve monotondur. C'de bölme, alt kısmın çok büyük olduğu hissini verir; üst kısmı sıkıştırır ve sonuç hoş değildir. D'deki ilişki o kadar yakın ki, bölme işlemi
+merkezi bulmak için yanlış bir çaba gibi görünüyor.
+C'deki bölme noktası ile D'deki bölme noktası arasında bir yerde muhtemelen en iyi nokta olacaktır.
+Tekrarlanan denemeler, noktayı E'deki gibi bulacaktır ve bu noktanın tepeden aşağıya doğru olan mesafenin yaklaşık beşte ikisi kadar uzaklıkta olduğu görülecektir. Bu,
+E'deki üst alana 2'lik bir alan ve alt alana 3'lük bir alan verecektir. Dolayısıyla
+ilişki veya orantı 2'nin 3'e eşit olduğu söylenir.
+"İyi oran" terimiyle veya yalnızca "oran" kelimesiyle, tasarımdan bahsederken bu 2'ye 3 oranı varsayılır.
+
+[Resim: Şekil 8. Bir dikdörtgenin, A, ilginç ilişkiye sahip alanları güvence altına almak için bölünmesi. B'de eşit bölünme. C'de aşırı dengeli etki. D'de çok yakın eşit. E'de daha ilginç, burada
+alanların ilişkisi 2'nin 3'e olduğu gibidir.]
+
+Bir alan 2'ye 3 oranında bölündüğünde, daha küçüğün daha büyüğe olan ilişkisinin
+pratik olarak daha büyüğün orijinal bütüne olan ilişkisiyle aynı olduğunu belirtmek ilginçtir. Ya da matematiksel olarak, alanı 5 olan orijinal
+2 ve 3'lük parçalara bölünürse, o zaman 2'nin 3'e oranı 3'ün 5'e oranına eşittir, ki bu yaklaşık olarak doğrudur.
+
+Mimarlık öğrencisi, oranın en dikkatli şekilde
+tüm mimari düzenlerdeki
+alanların ilişkisinde ele alındığını bulur. Baskıda, tasarımcı aynı
+geleneklerden yönlendirilmelidir.
+
+[Resim: Şekil 9. Sayfada tek bir çizgiyi "belirlemek", böylece ilginç bir alan bölümü oluşturur. Üstte 2 bölüm ve altta 3 bölüm beyaz alan vardır.]
+
+[Resim: Şekil 10. Tek bir çizgiyi, ortada görünecek şekilde yerleştirme. Noktalı çizgiler, dikey tarafın matematiksel merkezini gösterir. Düz çizgiler, yazı tipi çizgisinin merkezini gösterir.]
+
+Basılı bir sayfanın bölünmesine ilişkin en basit oran uygulaması, sayfaya tek bir yazı tipi çizgisi veya kompakt bir çizgi grubu yerleştirileceği zaman gerçekleşir (Şekil 9).
+
+Bir yazı tipi sayfasında, yukarıda ve aşağıda aynı ölçülerde mobilya veya sümüklü böcek kullanarak alanı mekanik olarak bölmenin çok kolay olması talihsizdir. Bazı durumlarda (örneğin bir kartvizitte) gelenek, bir çizginin dikey olarak "ortalanmasını" gerektirdiğinde, çizginin tam olarak ortalanmasının biraz düşük görünmesine neden olacağı görülecektir. Optik bir illüzyon, böyle bir çizginin dikey merkezde görünmesi için hafifçe yükseltilmesini gerektirir (Şekil 10). Bu belirgin merkeze "optik merkez" denir.
+
+Aynı koşul, belirgin bir karenin
+kullanılacağı zaman "karenin" genişliğinin yüksekliğinden biraz daha fazla olmasını gerektirir.
+(Şekil 11.)
+
+[İllüstrasyon: Şekil 11. Üstte gerçek bir kare ve altta optik olarak düzeltilmiş bir kare. Psikologlar, gözlerin dikey çizgilerin uzunluğunu yargılamakta daha zorlandığını, dolayısıyla onları abartmaya meyilli olduklarını açıklarlar.]
+
+_Denge_
+
+Çocukluğumuzun dengeli "tahterevallisinde" var olan fiziksel denge ve bir tasarımın sınırlayıcı kenarları içindeki kütlelerin uygun şekilde ayarlanmasının sonucu olan optik denge, her biri çekim kuvvetlerinin eşitlenmesi olduğu için benzerdir. İlkinde kuvvet yerçekimidir; İkincisinde, kütlenin boyutuna ve tonuna göre değişen göze olan çekim. Yerçekimi kuvveti genellikle kütleleri yatay bir hizaya getirirken, optik denge kütleleri bir tasarımda istenen herhangi bir çizgide, yatay, dikey veya çapraz olarak dengeye getirebilir. Bir kütlenin sahip olduğu çekim doğrudan boyutuna ve tonuna göre değişir. Bu nedenle dört inç karelik, düz siyah bir kütle, iki inç karelik, düz siyah bir kütleden iki kat daha güçlü çekim değerine sahip olacaktır. Ayrıca dört inç karelik, nötr gri (gri, siyahın değerinin yarısıdır) bir kütleden iki kat daha güçlü çekim değerine sahip olacaktır. Gri tonlarının çekim değeri özellikle, yazı tipi yüzünün siyahlığına, aralıkların yakınlığına vb. göre ton derinliği değişen yazı bloklarının dikkate alınmasını etkiler. "Tahterevalli"nin bir sehpası ve tartı terazisinin bir destek noktası olması gerektiğinden, herhangi bir denge koşulunun, fiziksel veya optik, bir denge noktası gerektirdiği sonucu çıkar. Tasarımda, bu nokta ilgili kütlelerin yerini belirleyecektir. Daha fazla düşünüldüğünde, denge noktasının tasarımın kenarı veya sınırlarıyla bir ilişkisi olması gerektiği görülecektir. Tasarımın sınırlayıcı kenarı genellikle basılı sayfada bir dikdörtgendir. Bu dikdörtgenin içindeki bir denge noktasının konumu onu bölme eğilimindedir. En ilginç şekilde nasıl bölünebilir? İyi orantı oranını uygulayarak. Bu nedenle denge noktası genellikle sayfayı 2 ve 3'lük parçalara bölen bir çizgi üzerinde bulunabilir.
+
+Eşit kütleler dengelenecekse, denge noktasından eşit uzaklıkta olacakları açıktır. (Şekil 12.)
+
+[Resim: Şekil 12. Merkez noktasından eşit uzaklıkta dengelenmiş eşit kütleler.]
+
+Kütleler eşit olmadığında, nokta kütlelerin merkezlerinden eşit olmayan
+uzaklıklardadır. Bu eşit olmayan mesafeler, kütlelerin kendileriyle aynı orana sahiptir, ancak daha büyük kütle her zaman noktadan daha kısa mesafedir. 1 pound'un 4 pound'u dengelemesi gerekiyorsa, 1 pound'luk kütlenin denge noktasından 4 pound'luk kütlenin 4 katı uzaklıkta olması gerektiği açıktır.
+
+[Resim: Şekil 13. 4 birimlik kütlenin 1 birim ile dengelenmesi.]
+
+Bu nedenle, bir dikdörtgendeki iki kütleyi dengelemek için, denge noktası, dikdörtgeni 2'den 3'e bölen bir çizgiye yerleştirilerek orantı yoluyla bulunacaktır. Bu noktadaki kütlelerin dengelenmesi, daha sonra, bu noktadan göreceli
+uzaklıklarının belirlenmesi meselesi olacaktır. İki kütleden daha büyük olanının denge noktasından yeterince uzakta olabileceği ve böylece daha küçük olanı dikdörtgenden tamamen
+dışarı çıkarabileceği açıktır. Elbette, daha büyük olanı otomatik olarak daha küçük olanı içeri getiren noktaya yaklaştırmak kolaydır. Dikdörtgenin kenarından uygun bir
+uzaklığın ne olduğu, Tipografik Tasarım kitabındaki "Kenar Boşlukları" başlığı altında tartışılacaktır.
+
+[Resim: Şekil 14. 3 birimlik kütle, 1 birimlik kütle ile dengelenmiştir,
+uzayı iyi oranda bölen çizgi üzerindeki denge noktası alınmıştır.]
+
+[Resim: Şekil 15. 3 ve 1'in ölçüleri, 2'lik bir ölçü ile dengelenmiştir,
+uzayı iyi oranda bölen denge noktası.]
+
+Bir dikdörtgen içindeki üç veya daha fazla kütlenin dengesi, bir seferde iki kütlenin dikkate alınmasını, çift veya çiftlerin kalan kütle veya kütlelerle dengelenmesini içerir.
+
+Şekil 15'te, 1, 2 ve 3 kütleleri dikdörtgen içinde dengelenecektir.
+3'ü 1 ile dengelemek, P dengeleme noktasını verir. P noktasından 3 artı 1 alarak, dikdörtgeni iyi oranda bölen AB çizgisi boyunca dengelemek için 2 kütlesini buluruz. Daha sonra _p_ noktası tüm grup için
+denge noktası olur. Matematiksel olarak, 3 artı 1 4'e eşittir;
+4, 2'nin iki katıdır; bu nedenle kütle 2, dengeli kütleler 3 artı 1'in iki katı
+_p_ noktasından uzakta olmalıdır.
+
+Şekil 15'teki kütlelerle iki başka kombinasyon daha yapılabilirdi: 3 artı 2, 1 ile dengelenmiş, kütle 1, _p_ noktasından P noktasının beş katı
+uzakta yerleştirilmiştir. Ya da 2 artı 1, 3 ile dengelenmiş olabilir, bu durumda mesafeler eşit olurdu.
+
+Bu denge prensiplerinin tipografi sorunlarına uygulanması büyük ölçüde bir etki meselesidir. Tipograf bunlara göre yönlendirilmelidir, ancak gözleri göreceli çekim değerlerini yargılamak üzere eğitilmişse matematiksel hesaplamalar yapması gerekmez, böylece çeşitli kütlelerini dengeyi sağlayacak şekilde düzenleyebilir.
+
+_Simetri_
+
+Bir tasarımın iki parçası her bakımdan eşit olduğunda, yani tasarım bir yarısına katlandığında diğer yarısıyla her ayrıntıda üst üste bindiğinde, _simetri_ durumu vardır ve tasarımın _simetrik_ olduğu söylenir. Böyle bir tasarımın katlanacağı çizgiye,
+veya başka bir deyişle, simetrik bir tasarımı ikiye bölen çizgiye, _ekseni_ denir.
+
+Basılı sayfa genellikle dikey eksenine göre simetriktir
+(Şekil 16).
+
+Şekil 16'da AB çizgisi sayfanın dikey eksenidir.
+
+[Resim: Şekil 16. Sayfa yazın, dikey eksenine göre simetrik.]
+
+[Resim: Şekil 17. Sayfa çeşitlilik için düzenlenmiştir.
+Her iki eksende de simetrik değildir. Bu düzenleme reklam gösteriminde sıklıkla kullanılır,
+ancak kitap işlerinde nadirdir.]
+
+Basılı sayfanın yatay eksenine göre simetrik olması nadiren mümkündür. Böyle bir durum, sayfanın optik merkezinin altında bir bölümü içerecek ve ayrıca eşit kütlelerin üstünde ve altında olduğu, ilgi çekici olmayan bir bölümleme içerecektir. Dikey eksendeki simetrinin, kullanılan kütlelerin boyutunda tam bir çeşitliliğe izin verdiğine dikkat edilmelidir.
+
+_Çeşitlilik_
+
+Bir tasarımda simetrinin olmaması, ona _çeşitlilik_ karakterini verir; bu, bir tasarımın parçalarının düzenlenmesindeki
+eşitsizlik durumu olarak tanımlanabilir.
+
+Şekil 17'de, ne yatay eksen ne de dikey eksen,
+sayfayı, birimleri simetrik olarak düzenlenecek şekilde böler.
+
+_Hareket_
+
+Herhangi bir düzenlemede, resimsel veya dekoratif, gözlemcinin gözü, birbirlerine göre karakterlerine ve konumlarına bağlı olarak, ardışık olarak çeşitli parçalara çekilir. Hareket adı verilen bu nitelik,
+birkaç birim birinden diğerine daha kesin bir şekilde yöneldikçe daha belirgin olacaktır. Şekil 18, gözün süslemeye bakarken izlediği yolu gösterir. Resimli kompozisyonda aynı nitelik, anlatılacak hikayeyi veya ressamın kullandığı düzenlemenin karakterini vurgulamak için kullanılır. O zaman buna "çizgi" denir. Bu tasarım niteliği, Şekil 19'da gösterildiği gibi hareket halindeki bir figürün tasviri olan "eylem" ile karıştırılmamalıdır.
+
+[Resim: Şekil 18. Diyagram, gözün yukarıdaki tasarımı algıladığı sıradaki hareketini gösterir.
+Bu hareket tamamen çizgiden kaynaklanır, ton vurgularından değil.]
+
+[Resim: Şekil 19. Tasvir edilen figürde, tasarımda hareket olmadan eylemin gösterilmesi.]
+
+Basılı sayfada göz, yazıcı için çok değerli bir kaynak oluşturan bu hareket niteliği sayesinde kesinlikle bir birimden diğerine yönlendirilebilir. Şekil 20, hareketin basit bir kullanımının bir diyagramıdır, göz oklarla gösterildiği gibi sayfayı oluşturan kütleler arasında ilerler.
+
+[Resim: Şekil 20. Reklamda kullanılan hareketin diyagramı
+gözün bir sayfada kademeli olarak ilerlemesini sağlar.]
+
+_Süsleme_
+
+Tasarım öğeleri önerilen bir şemanın tüm bölümlerini ilgilendirirken (basılı sayfada, yazı tipinin kütleleri, dekoratif bordür,
+başlık,
+baş harfler, kuyruk parçası, vb.) belirli bölümler yalnızca tüm tasarımı güzelleştirmek için kullanılacaktır. Onu süsler veya dekore ederler. "Süsleme, Faydaya Güzellik veya Önem kazandırmanın bir yoludur."
+
+Süsleme, Sembolik veya Estetik olabilir.
+
+Sembolik süsleme, tasarımın amacı açısından önemli oldukları için seçilen öğelerden veya biçimlerden oluşur.
+
+Şekil 22'de süsleme, yazı tipinin ilettiği mesajla yakın bağlantısı nedeniyle semboliktir.
+
+Estetik süsleme, yalnızca güzellikleri için seçilen formlardan oluşur.
+Resim 23'te, baş bandı ve baş harf tasarım olarak hoştur ve sayfanın metniyle en ufak bir ilişkisi olmadan sayfayı güzelleştirir.
+
+Estetik süsleme, baskının gelişiminde en önemli etkiye sahip olan tasarım dönemlerini karakterize eder: Yunan,
+Roma ve Rönesans.
+
+Sembolik süsleme, Mısır, Asur, Bizans,
+İskandinav, Kelt, Pers, Hint, Gotik, Çin ve Japon
+tasarımlarında bulunur. Bu çeşitli stiller ve dönemlerin ayrıntılı bir şekilde incelenmesi için okuyucu,
+bibliyografyada listelenen çeşitli kitaplara yönlendirilir.
+
+[Resim: Resim 21. Doğal formlarla tasarlanmış süsleme.]
+
+[Resim: Resim 22. Bay F. W. Goudy'nin ev org kapağı tasarımı, süslemenin sayfanın mesajını sembolize ettiği.]
+
+[Resim: Resim 23. Estetik süslemeyle süslenmiş yazı tipi sayfası. Matbaacıların kullanımına sunulan dekoratif malzemenin çoğu bu karakterdedir.
+Matbaacı sembolik önemini incelemek zorunda olmadığından,
+bu tür bir dekorasyonu ton ve iyi çizim nitelikleri için seçebilir.]
+
+Süsleme doğal veya yaratıcı olabilir. Doğal süsleme,
+canlı veya cansız doğadan seçilen formların dekoratif tasarımda yorumlanmasıyla sınırlıdır. Yaratıcı süsleme, herhangi bir doğal kaynaktan türetilmemiş unsurlardan oluşur. Genellikle geometrik karakterlidir; yani geometrik şekillerde ifade edilen desenler ve kütleler halinde işlenir.
+
+[Resim: Şekil 24. Geometrik süslemeler olarak kullanılan yazı tipi sınırı.]
+
+[Resim: Şekil 25. Düz bir desen veya "her tarafı kaplayan" bir tasarım yapmak için yazı tipi sınırının daha fazla kullanımı. Etkiyi, karşıdaki çizimde gösterilenle karşılaştırın.]
+
+Çeşitli ırkların sanatsal gelişiminde, geometrik tasarım genellikle herhangi bir canlı formun taklidi üzerindeki dini kısıtlamaların sonucu olmuştur. Müslümanlar bunu en yüksek ifade
+türüne kadar geliştirmişlerdir. Arap ve Mağribi mimarisi ve el sanatları en iyi örneklerdir; İspanya'da Mağribiler tarafından inşa edilen muhteşem saray olan Alhambra'nın kristal güzelliği, geometrik tasarımın en büyük başarısıdır.
+
+[Resim: Şekil 26. İspanya, Granada'daki Alhambra'da bir niş. Karakteristik Mağribi süslemelerini gösterir.]
+
+Geometrik tasarım, süslemenin en eski unsurları olan basit malzemeler kullanır. Vahşilerin araçları ve Kızılderililerin dövmeleri bunu kanıtlar. Orijinal karelerin, dairelerin, zikzak çizgilerin ve çeşitli basit kombinasyonların ilk kaba ifadelerinden, kademeli
+gelişim sonunda Mağribi tasarımının hassas formlarına yol açtı. Bu tarzın işlenmesi derin matematiksel problemleri ve dikkatli çizimleri içerir.
+
+Geometrik süslemelerin çoğu üç gruba ayrılabilir.
+Bunları tipografik materyalde bulduğumuz gibi, bu gruplar görsel olarak tekrarlanan birimlerden veya noktalardan oluşan bantlar veya bordürlerdir; kapalı alanlar veya paneller; ve sınırsız düz desenler veya "her yeri kaplayan" tasarımlardır.
+
+[Resim: Şekil 27. Bir motifin (gövdeler, yapraklar ve meyveler) dekoratif bir noktaya dönüştürülmesi. Üst köşedeki diyagram, malzemenin geometrik düzenlemesini gösterir. Nokta, bir bant oluşturmak için tekrarlanmıştır.]
+
+[İllüstrasyon: Şekil 28. Şekil 27'de kullanılan motifin doğal bir
+süslemeye dönüştürülmesi. Formlar ve büyüme bozulmamıştır ancak dekoratif niteliği korumak için düz yüzeylerde işlenmiştir.]
+
+Neredeyse her stilde ve tasarım döneminde bitki dünyası, adaptasyon için en büyük
+malzeme kaynağı olmuştur. Doğal formların doğrudan taklidi, şekil, renk, oluşum vb. mümkün olduğunca korunarak, doğal tasarım olarak adlandırılır. Doğal formun kesin ayrıntılarından uzaklaşarak, tasarımı ritim ve simetri kurallarına göre, düzenliliğe sıkı bir şekilde dikkat ederek oluşturmak, daha yapay karakterli bir sonuca yol açar.
+
+Süslemenin doğal veya yapay olup olmadığını düşünün, tasarımın yapıldığı bitki formu veya diğer doğal form olan orijinal kaynak, tasarımın _motifi_ olarak adlandırılır. Çevrenizdeki dünyayı incelemek ve
+duvar kağıdı, duvar süsleri, mobilya,
+halı, kitap vb. tasarımlarında insanoğlunun tüm eserlerinde
+burada ve orada tanınabilir bir motif fark etmek ilginçtir.
+
+Bir motifin süsleme veya dekorasyona dönüştürülmesi, şu ana kadar belirlenmiş tüm prensiplerin kullanılmasını, ayrıca kullanılacak
+ortama aşinalık ve yalnızca biraz deneyimle gelen yaratıcılığı gerektirir. Okuyucunun bu deneyimi yoksa ve kalem, kurşun kalem veya fırçayla süsleme veya dekorasyon yapma girişiminde bulunmakla ilgileniyorsa,
+bibliyografyada listelenen konuyla ilgili bir veya daha fazla kitaba başvurması önerilir.
+Kalemle ilgili bir yeteneği ve işe karşı bir hevesi varsa, bunu çok büyüleyici bir girişim olarak bulacaktır.
+
+[Resim: Şekil 29. Doğal süslemeyle süslenmiş ilk harf
+ve motifi daha gerçekçi bir şekilde ele alan bir kalem taslağı.
+Düz bir kağıt parçasını dekore edecek malzemedeki yüzeyin temel düzlüğünün daha fazla vurgulanması. ]
+
+_Baskıyı En Çok Etkileyen Tasarım Dönemleri_
+
+Tasarım öğrencisi, konusunun tarihsel olarak incelenmesinin onu
+tarih öncesi insanın kaba ifadelerinden başlayarak uzun ve çeşitli yüzyıllar boyunca günümüzün stillerine ve hayallerine kadar sanatın tüm tarihine taşıdığını görür. Temasını, ırkların gelişimi, ulusların yükselişi ve düşüşü, antik ve modern tarihin tüm heyecan verici draması
+ile yakından iç içe geçmiş bulacaktır.
+
+Kayıt tutmanın ve düşünceyi somutlaştırmanın ve resmetmenin bir yolu olarak baskı, bize tasarım üzerine geniş bir literatür alanı sağlamıştır. Ancak
+tasarımın bir uygulaması olarak kitap yapımında ve basılı malzemenin diğer tüm formlarının yapımında, Gutenberg'den bu yana matbaacılar sanatın geldiği birçok farklı dönemden nispeten azından etkilenmiştir. Ve bu az sayıdaki etki genellikle matbaacıların yaşadığı dönemde hakim olan sanatsal duygu olmuştur.
+
+Baskıyı en çok etkileyen tasarım dönemlerini izlemek, kısmen zanaatın tarihini anlatmaktır. Bu konu bu seride başka bir yerde geliştirildiğinden, kitap yapımının geçtiği adımları kısaca takip etmek yeterlidir. Taşınabilir tiplerin icadı, kitaplar aracılığıyla aydınlanma arzusunu karşılamak için uygun bir şekilde geldiğinden, basılı kitapların el yazısı veya harfli kitapları taklit edecek şekilde planlanması doğaldı. Bunlar, yüzyıllardır sanat eğitimi almış kilise adamları tarafından üretilmişti ve tasarımda yüksek bir mükemmellik seviyesine getirilmişti. Sık sık, Gutenberg'in kırk iki satırlık İncil'inin, tipten basılan ilk kitaplardan biri olarak, saf tasarım güzelliği ve tip kitlelerinin zengin kalitesi açısından asla geçilemediği söylenmiştir. 
+[İllüstrasyon: Şekil 30. 14. yüzyılın başlarından kalma bir El Yazması İncil'den bir sayfanın büyük ölçüde küçültülmüş bir kopyası. Tamamen yazar ve müzehhibin
+tüy ve fırçasının ürünü. Bu tür kitaplar
+genellikle parşömen veya vellum üzerine siyah mürekkeple yapılır ve sulu boya ve altın varakla süslenirdi.]
+
+[Resim: Şekil 31. 15. yüzyılın ortalarından kalma, çizim ve süslemenin karakteristik bir şekilde işlendiği, aydınlatılmış bir Flaman el yazmasından bir sayfa. Bu ve önceki örnek, Şekil 32 ve 33 ile karşılaştırma amacıyla gösterilmiştir. Bunlar, kitap yazmanın
+baskının gelişimi üzerindeki etkisini göstermektedir.]
+
+[Resim: Şekil 32. Mazarin İncili'nin yazı tipi (tam boyut).]
+
+Ancak yazı tipiyle basılan ilk kitapların hepsi dini karakterdeydi ve yazı tipinin kendisi, yazıcılar tarafından geliştirilen siyah, yoğunlaştırılmış "metin" harf biçimlerini taklit etmek için tasarlanmıştı. Düşüncenin çeşitli bölümlerini işaretleyen ayrıntılı
+baş harfleri, ilk matbaacılar tarafından tekrarlandı, bazen elle aydınlatıldı ve
+daha sonra ahşap veya metal üzerine gravür olarak kullanıldı. Yeni baskı sürecinin mekanik sınırlamaları tarafından gerekli kılındığı dışında, rahiplerin kilise stilinden belirgin bir sapma olmadı. Böylece,
+kilisenin etkisiyle
+baskının ilk yıllarını işaretleyen bir stil ortaya çıktı. Ve bu stil bugün tipografik malzeme, siyah metin tipleri, ayin kitabı baş harfleri ve cömert renk kullanımı
+aracılığıyla modern çalışmalarda somutlaştırılabilir. Ancak her zaman geleneğin gücüyle
+kilise edebiyatı ve kilise baskısıyla ilişkilendirilecektir.
+
+[İllüstrasyon: Şekil 33. Gutenberg'in 42 satırlık İncil'inden bir sayfanın yeniden üretimi, daha sonraki hiçbir kitabın bundan daha güzel
+tasarlanmadığı söylenmiştir. Bu kitabı tamamlarken ve sonrasındaki birkaç yıl boyunca,
+aydınlatma ve dekorasyon elle yapıldı, yalnızca
+yazı
+baskı makinesinde ayarlandı ve basıldı.]
+
+Belki de baskı sanatının geleceği açısından şanslı bir gelişmeydi ki
+Mainz'daki çalkantı
+basımcıları zanaatlarının geliştiği kısıtlı atmosferden
+uzaklaştırdı. Çünkü matbaacılığın İtalya'ya yayılmasıyla birlikte, matbaacılar daha özgür alanlar aradıklarında, kullanımında hemen belirgin bir
+değişim meydana geldi. İlk Roma tipi kesildi ve matbaacılar, sanat tarihinin en görkemli dönemi olan İtalyan Rönesansı'nın, karanlık yüzyıllarda neredeyse yok olmuş sanatların yeniden canlanması ve daha da gelişmesinin etkisi altında büyüdüler. Yunanlılar tarafından bin yıldan fazla bir süre önce geliştirilen çizgi ve formun saflığı, ciddi onur ve neredeyse mükemmel orantı, on beşinci yüzyıl İtalyanları tarafından yeniden canlandırıldı ve daha insani bir duyguyla yorumlandı.
+
+Gutenberg, Fust ve Schoeffer'in ilk çabalarıyla kilise matbaacılığında bir standart belirlemesi gibi, Nicholas Jenson da ilk Roma tipini keserek günümüze kadar gelen bir emsal oluşturdu.
+
+Günümüz tasarımcıları, benzer şekilde kısıtlanmış ve onurlu olması gereken basılı işler için Yunanlıların klasik ifadesinden ilham alırlar. Yunan ve Roma zanaatkarları tarafından taşa
+kesilen yazıtların harf biçimlerini yansıtan, belirgin şekilde klasik bir his uyandıran yazı tipleri
+geliştirilmiştir. (Resimler 35-6.)
+
+Rönesans tasarımı birçok ulusun kitaplarında somutlaştırılmıştır. Gerçekten de, modern kitap tasarımının İtalya'da
+baskının başlangıcından itibaren başladığı söylenebilir. Ancak, güzel sanatlar o zamandan beri
+o görkemli dönemde olduğu kadar gelişmediği gibi,
+baskıdaki tasarımın ilerlemesi de bir dönemin veya ulusal bir
+ifadenin karakterinden ziyade
+bireylerin veya sınırlı grupların
+çalışmaları meselesi olmuştur.
+
+[Resim: Şekil 34. Modern tipografide kilise stili.]
+
+Ardışık Fransız tasarım dönemlerinin şehvetli kaprisleri, çağdaş baskıya pek kalıcı bir ayrıcalık kazandırmadı.
+
+Harf yüzleri, farklı zamanlarda ve belirgin özelliklere sahip farklı milletlerden kişiler tarafından kesildi, ancak bunlar baskıda dönemleri veya stilleri belirleyen
+olarak görülmemelidir.
+
+[Resim: Şekil 35. Klasik Roma'da bir yazıt. Karşıdaki
+resmi inceleyin.]
+
+On yedinci ve on sekizinci yüzyıllarda İngiltere'de baskı, "Gürcü" veya "sömürge" terimi altında tanınan ifade biçimlerine dönüştü.
+Shakespeare'in ilk baskıları, doğrudan ve
+ilginç bir şekilde düzenlenmiş, zayıf tipografik materyallerle işaretlenen bu stilin daha önceki gelişimini örneklemektedir. (Şekil 37.)
+
+Birkaç yıl sonra Amerikan kolonilerinde matbaanın büyümesi, bu tipografik ifade biçimini korunan basılı materyallerin çoğuna getirdi. Matbaa müzeleri ve o dönemle ilgili edebiyat, örneklerle doludur. Şekil 39'dan 41'e bakın.
+
+Sonraki on yıllarda matbaa mekanik olarak gelişti, ancak
+tasarımla çok az veya hiç ilişkisi olmayan stillere düştü. İlk buharlı gemilere ve trenlere binen; köleliğin ve ayrılığın yükselişini ve düşüşünü kaydeden; birçok modern başarılı matbaacının başlangıcını işaret eden "erken Pullman günleri" sırasında kurallarını esneten ve yazı tiplerini karıştıran matbaacıların çabalarını tarihsel olarak takip etmek ilginçtir. Zanaatın tüm bu zamanlar boyunca tarihi, ülkenin büyümesiyle yakından özdeşleşmiş ve pitoresk olmuştur. Ancak tasarımcı için çok az veya hiç önemi yoktur.
+
+[Resim: Şekil 36. Bay F. W. Goudy tarafından tasarlanan Forum, Klasik Roma tipi.]
+
+[Resim: Şekil 37. Gürcü tarzı tipografiyi gösteren, Shakespeare'in ilk foliosunun çok küçültülmüş başlık sayfası.
+Yazı tipleri kötü bir şekilde
+uyumluydu ve belirsiz bir hizalamaya sahipti. Tahta üzerine kesilmiş "stok" süslemeler
+sık sık çürümüş ve yıpranmıştı. Yine de sonuçta yadsınamaz bir çekicilik var.]
+
+[Resim: Şekil 38. 1685 tarihli, Gürcü tarzının Koloni matbaacıları üzerindeki etkisini gösteren erken bir Amerikan sayfası.
+Mekanik kalitede bir
+iyileşme kaydedilebilir. Büyük harfler, bol miktarda italik ve sık sık çapraz çizgi kullanımı bu baskı dönemini işaretler.]
+
+Baskıdaki tasarım, tek amacı brüt çıktıyı çoğaltmak olan
+makinelerin ve cihazların harikulade mekanik
+gelişiminden zarar görmüştür. Üretim hacmi ne kadar gerekli olsa da,
+son yıllarda, tasarım ilkeleriyle belirlenen
+baskının güzelliğine olan ilginin yenilenmesine tanıklık etmiştir.
+
+İngiltere'de William Morris, hayatının sonlarına doğru, birkaç yılını, daha önce baskıya hakim olan
+sıradan ve mekanik niteliklere karşı bir protestoya adadı. Eski geleneklerin çoğunu yeniden canlandırdı ve kitaplarını güçlü kişiliğiyle damgaladı. Baskıda iyi tasarıma duyduğumuz yaygın saygının çoğunu onun etkisine borçluyuz, tıpkı günlük yaşamımızdaki iyi tasarlanmış ve kullanışlı aksesuarlar için ona borçlu olduğumuz gibi, bükülmüş ve çarpık mobilyaların, cam kavanozların altına doldurulmuş kuşların ve bir veya iki nesil öncesinin tüm vahşetlerinin yerini almıştır. Şekillere bakın.
+
+Günümüz baskı tasarımcıları arasında, zanaatın ilkeleri ve gelenekleri hakkında samimi bir çalışma gösterenler arasında
+Rogers, Updike, Goudy, Cleland ve Currier gibi kişiler yer almaktadır. Çalışmalarının ürünü,
+ticaret yayınlarındaki reprodüksiyonlarda sıklıkla görülebilir.
+Daha genç tasarımcılar tarafından incelenmelidir, çünkü modern baskının yaklaşık beş yüz yıl önce belirlenmiş olan sanatsal standartlara ulaşmasını ve hatta onları geçmesini sağlamak için gösterilen samimi ve anlayışlı çabanın sonuçlarını göstermektedir.
+
+[Resim: Şekil 39. Sömürge yayınlarının en bilinenlerinden biri olan Poor Richard's Almanack'tan bir sayfa. Stili o dönemin tipik bir örneği.]
+
+[Resim: Şekil 40. Gerçek Sömürge stilinden geçiş dönemini gösteriyor. Yazı tipi ve malzeme mekanik
+özelliklerinde açıkça
+iyileştirilmiş, ancak dizgici tipografide "yeni bir şey" arıyor olmalı.]
+
+[Resim: Şekil 41. Amerika'da tipografinin düşüşünün başlangıcında
+oluşturulan tipik bir başlık sayfasını gösteriyor. Neredeyse
+19. yüzyılın tamamı boyunca üretilen baskıların çoğunda ne bir sebep ne de bir tasarım vardı.]
+
+[Resim: Şekil 42 ve 43. William Morris tarafından tasarlanıp basılan "The Tale of Beowulf"tan karşılıklı sayfalar. Küçük reprodüksiyonlar Morris'in kitap yapımı anlayışına dair sadece bir fikir veriyor.
+
+Bir asırdan fazla süren en gelişigüzel baskıdan sonra Morris, ilk kitap yapımcılarının geleneklerini yeniden canlandırarak tipografi ve tasarıma olan ilginin
+dünya çapında yenilenmesini teşvik etti.]
+
+[İllüstrasyon: Şekil 44. Sayfa Bay Bruce Rogers tarafından tasarlanmıştır.]
+
+[İllüstrasyon: Şekil 45. Başlık sayfası Bay F. W. Goudy tarafından hazırlanmıştır.]
+
+[İllüstrasyon: Şekil 46. Klasör kapağı Bay T. M. Cleleand tarafından düzenlenmiştir.]
+
+[İllüstrasyon: Şekil 47. Katalog sayfası Bay D. B. Updike tarafından hazırlanmıştır.]
+
+EK OKUMA
+
+Tasarım İlkeleri. Ernest Allen Batchelder tarafından. Inland
+Printer Company, Chicago.
+
+Teori ve Uygulamada Tasarım. Ernest Allen Batchelder tarafından.
+MacMillan Company, New York.
+
+Tarihi Süsleme El Kitabı. Richard Glazier tarafından. B. T. Batsford,
+94 High Holburn, Londra.
+
+Çizgi ve Form. Walter Crane tarafından. G. Bell and Sons, Londra.
+
+Tasarımın Temelleri. Walter Crane tarafından. G. Bell and Sons, Londra.
+
+Süslemenin Tarihi. A. D. F. Hamlin tarafından. Century Company, New York.
+
+Süsleme ve Uygulaması. Lewis F. Day tarafından. Scribner's, New York.
+
+Süslemede Doğa. Lewis F. Day tarafından. B. T. Batsford, 94 High
+Holburn, Londra.
+
+GÖZDEN GEÇİRME SORULARI
+
+ÖĞRENCİLERE VE EĞİTMENLERE ÖNERİLER
+
+Bu broşürün içeriğine dayanan aşağıdaki sorular, (1) metnin incelenmesine rehberlik etmek, (2) öğrencinin metni ezberlemeden, içerdiği bilgileri kesin ifadelere dökmesine yardımcı olmak, (3) öğrenciden bilgilerin kendi sözcükleriyle yeniden üretilmesini sağlamak için bir araç olarak hizmet etmeyi amaçlamaktadır. Okuyucunun soruları dikkatlice takip etmesi, metnin her bölümüyle tam bir
+tanıma
+sağlayacak ve değerli olabilecek şeylerin kazara
+atlanmasını önleyecektir. Bu temel bilgiler o kadar yoğunlaştırılmıştır ki
+hiçbir şey atlanmamalıdır.
+
+Bu kitaplardan ders verirken, bu soruların
+ve öğretmenin aklına gelebilecek diğerlerinin
+sık yapılan yazılı çalışmaların ve final sınavlarının temeli haline getirilmesi çok önemlidir.
+
+Yazılı çalışmanın önemi abartılamaz. Sadece materyal bilgisini değil, aynı zamanda bu bilgiyi doğru bir şekilde
+ve iyi bir biçimde ifade etme gücünü de sağlar.
+
+SORULAR
+
+1. Tasarım, insanlığın eserlerinde hangi amaca hizmet eder?
+
+2. Tasarım, insanın el işini nasıl etkiler?
+
+3. Tasarım nedir?
+
+4. "Tasarım" nedir?
+
+5. Güzellik ile amaca uygunluk arasındaki fark nedir?
+
+6. Tasarımın unsurları nelerdir?
+
+7. Bir matbaacının bir heykeltıraş, bir mimar, bir ressam, bir dekoratif tasarımcıyla nasıl bir ilişkisi vardır?
+
+8. Basılı sayfa tasarımını nasıl sınırlar?
+
+9. Basılı bir resim ile o resme dayalı basılı bir tasarım arasındaki fark nedir?
+
+10. Resimler basılı bir sayfayı süslemek için neden uygun değildir?
+
+11. Tasarımın malzemeleri nelerdir?
+
+12. İyi tasarlanmış bir tipografik süslemeyi onu oluşturan malzemelere göre analiz edin.
+
+13. Tasarım malzemeleri kullanıldığında, düzenlemelerinde hangi koşullar sağlanmalıdır?
+
+14. Uyum nedir?
+
+15. Denge nedir?
+
+16. Oran nedir?
+
+17. Ritim nedir?
+
+18. Yukarıdaki nitelikler nasıl gösterilebilir?
+
+19. Hangi şekiller kombinasyon halinde kullanılmalıdır?
+
+20. Daha başka hangi ilişkiye sahip olmalıdırlar?
+
+21. 20 pika genişliğinde ve 30 pika derinliğinde bir yazı sayfasında 18 pika genişliğinde ve 8 pika derinliğinde bir panel uygun olur mu? Tercih edilebilecek bir şey varsa, o da nedir?
+
+22. 6 punto genişliğinde bir cetvel çizgisi, 18 puntoluk Caslon eski tip kapaklardan oluşan bir kitleyi çevrelemek için uygun olur mu? Neden?
+
+23. Basılı sayfa siyah beyazdan farklı olacaksa, uyumun daha fazla dikkate alınması gerekir mi?
+
+24. Boyutları veya ölçüleri açısından ilgili alanlarda neyi dikkate almalıyız?
+
+25. Hangi boyut ilişkisi genellikle en ilginçtir?
+
+26. Kapak sayfasında tek bir satırı istenen bir konuma yerleştirin.
+
+27. Uzay ilişkilerinin yargısında göze her zaman güvenilmeli midir?
+
+28. Düzenlemede matematiksel ölçümler mi yoksa göz üzerindeki etki mi yol gösterici faktör olmalıdır? Neden?
+
+29. Tasarımın kütleleri üzerinde çevreleyen kenarın veya sınırın etkisi nedir?
+
+30. Tasarımdaki kütleler çevreleyen kenara göre nasıl düzenlenmelidir?
+
+31. Bu düzenlemeyi hangi matematiksel ilkeler etkiler?
+
+32. Basılı bir sayfanın yarılarındaki eşitlik bazen nasıl arzu edilir
+ve bazen de nasıl arzu edilmez?
+
+33. Bir tasarımın yarılarında eşitlik olmadığında, hangi koşul
+vardır ve böyle bir düzenlemeye hangi ilkeler rehberlik etmelidir?
+
+34. Süsleme nedir?
+
+35. Süsleme hangi niteliklere sahip olabilir? Bunları tanımlayın.
+
+36. Tasarımın hangi dönemlerinde her nitelik en belirgin şekilde ortaya çıkar?
+
+37. Süsleme doğayla nasıl ilişkilidir? Yaratıcılıkla veya ustalıkla mı?
+
+38. Süsleme matematikle nasıl ilişkilidir?
+
+39. Matematiksel süslemenin önemli bölümleri nelerdir?
+
+40. Bir süsleme doğal bir kaynaktan geliştirildiğinde ne olur?
+
+41. Kaynağın adı nedir?
+
+42. Tasarımın hangi dönemleri baskıyı en çok etkilemiştir? Neden?
+
+43. Yukarıdaki dönemlerden her birinin modern tipografiyi nasıl etkilediğini açıklayın.
+
+44. Tipografın her çağ ve dönemdeki tasarımcıların faaliyetlerine karşı tutumu nasıl olmalıdır?
+
+45. Baskıdaki mekanik gelişmenin tipografik tasarıma etkisi ne olmuştur?
+
+46. Tipografın ilgisini çeken eserleri olan modern adamlardan bazılarını adlandırın.
+
+SÖZLÜK
+
+BASKIYA UYGULANAN TASARIM TERİMLERİ
+
+ASUR (Sanat) - Asur İmparatorluğu, Dicle ve Fırat arasında Güneybatı Asya'da, şu anda Asya'daki Türkiye'nin bir parçası olan
+yer almaktadır. Sanatı büyük ölçüde düz yüzeylerin işlenmesinde, emaye tuğlalar, boyalı sıvalar, figürlü bronzlar vb. kullanılarak ifade edilmiştir. Tuğlalar tek
+inşaat malzemesiydi. Dönem M.Ö. 4000-3000'den M.Ö. 500'e kadar uzanır.
+
+ÇEKİCİLİK--Bir kütlenin tonu, rengi, boyutu veya şekli aracılığıyla göze uyguladığı kuvvet.
+
+EKSEN--Karşılaştırma veya inşa amacıyla bir yüzeyi bölen bir çizgi.
+
+DENGE--Bir tasarımdaki çeşitli çekicilikler arasındaki görünür bir dinlenme durumu.
+Bir tasarımın unsurlarını dengelemek, onları birbirleriyle birlikte duracak şekilde düzenlemektir.
+
+BİZANS (Sanat)--Doğu Hristiyanlığının sanatı, Bizans'ın (şimdiki Konstantinopolis) MS 330'da başkent olduğu zamandan
+1453'te şehrin Türkler tarafından alınmasına ve hatta daha sonrasına kadar. Bizans sanatı
+Asya lüksünü ihtişam ve renk ve yaldız bolluğuyla somutlaştırdı. Tasarım biçimleri tamamen geometrik ve gelenekseldi,
+insan figürü kullanılmadı.
+
+KELT (Sanat)--Özellikle dördüncü yüzyılda şu anda Britanya Adaları olan yerlerdeki insanlar arasında
+etkilendi. Orta Asya ve
+Pers'ten etkilenmişti ve bu nedenle biraz oryantaldi.
+
+ÇİN (Sanat)--Fantastik formların ve parlak
+renklerin kullanımıyla karakterize edildi. En iyi porselenlerde, lakelerde ve ahşap ve yarı değerli taşlarda
+oymalarda örneklendirilir. Ahşap blok kesimi ve baskı dışında her şeyde ticarileştiren ve ucuzlatan Japonların ilham kaynağı.
+
+KLASİK--Erken Yunan ve Roma dönemi.
+
+KOLONİ (Sanat)--Erken Amerikan kolonilerinin baskı ve diğer uygulamalı tasarımlarında ve Amerikan Cumhuriyeti'nin ilk yıllarında
+bulunur. İngiltere'den türetilmiştir ve bazen "Gürcü" olarak adlandırılır.
+
+RENK--Bir yüzey tarafından yansıtılan ışık türü.
+
+KAVRAM--Bir fikir veya şema oluşturma süreci.
+
+DEKORASYON--Süsleyen veya süsleyen herhangi bir şey veya şey grubu.
+
+TASARIM (Genel olarak)--Sert maddeler veya esnek malzemede yapılması veya bir kumaşa veya başka bir yüzeye süs amaçlı uygulanması amaçlanan formların veya renklerin veya her ikisinin düzenlemesi.
+
+(Baskıda)--Güzellik ve uygunluk niteliklerini güvence altına almak için kütlelerin, çizgilerin ve noktaların düzenlenmesi.
+
+(Belirli)--"Bir tasarım": tasarım öğelerinin dahil edildiği herhangi bir eser.
+
+MISIR (Sanat)--Mısır'daki sanat etkinliği dönemini içerir.
+M.Ö. 4000'den başlayarak ardışık adımlarla M.Ö. 500'e kadar uzanır. Oldukça gelenekselleştirilmiş, zengin bir şekilde dekore edilmiş, canlı renklerle yorumlanmış maddi formlardan yararlanıyordu. Mimaride başlıca özelliği dayanıklılıktı.
+
+ESTETİK - Güzel sanatlarda tezahür eden güzellikle ilgili. "Estetik
+hayal gücü bilimsel olandan farklıdır.... Fark,
+sonun artık bilgi değil güzellik olması gerçeğinde görülür."
+
+KİLİSESEL (Stil) - Genellikle siyah metin harf formlarında, ayrıntılı süsleme ve aydınlatmayla erken kiliselerin kitaplarını ve el yazmalarını karakterize eden şey.
+
+GEOMETRİK (Tasarım) - Geometrik olarak geliştirilen düz ve eğri çizgilerden oluşan noktalara, bantlara veya genel desenlere dayalı.
+
+GÜRCÜ (Dönem) - 17. ve 18. yüzyılların İngiliz ve Koloni Amerikan tasarımını içeriyordu. "Kolonyal"a benzer.
+
+GOTİK (Sanat) - Avrupa'da mimari ve uygulamalı tasarımda geliştirilmiştir
+MS 1200'den MS 1500'e kadar. Dikey çizgiler, sivri kemerler ve doğrudan doğaya dayalı dekoratif malzeme ile karakterize edilmiştir.
+
+YUNAN (Tasarım) - MÖ 620'den MÖ 350'ye kadar olan erken Yunan dönemi, Mısır ve Asur'un etkisi altında gelişmiş ancak saflık ve ifade açısından ikisinin de çok üzerinde yükselmiştir. "Yunan zanaatkarı, sanatçının
+yanılmaz zevkine sahipti ve ilhamını aynı kaynaklardan alıyordu."
+
+UYUM (Sanatta) - Şeylerin birbirleriyle olan ilişkisinde bir bütünlük hali.
+
+BAŞ BANDI - Bir yazı sayfasını süslemek veya belirginleştirmek için kullanılan yatay dekorasyon şeridi.
+
+HİNT (Sanat) - Doğu Hint Adaları veya Hindistan'ın, hepsi oryantal karakterde olan çeşitli
+stilleri olan. Amerikan Yerli sanatı,
+geometrik süsleme, ham renkler ve canlı formların kaba tasvirinde
+kendini göstermiştir.
+
+BAŞ HARF--Bir bölümün başlangıcını, metindeki önemli bir değişikliği veya tek bir yazı kütlesini süslemek için kullanılan, süslenmemiş veya dekoratif olarak tasarlanmış büyük bir harf.
+
+JAPON (Tasarım)--Çince'den türetilmiş ve genellikle
+uygulamasında ticarileştirilmiştir.
+Tahta baskıların düzenlenmesi ve işlenmesinde matbaacılar için başlıca ilgi çekicidir.
+
+MAHOMETANLAR--Arap, Hint, Mağribi, Pers ve diğer uluslar dahil olmak üzere Hz. Muhammed'in takipçileri.
+
+KÜTLE--Bir tasarımın ana bölümlerinden biri, kolayca ayırt edilebilir ve
+kendi içinde bir miktar birliğe sahip olmakla birlikte
+tüm şema ile uygun bir ilişki içinde kalır.
+
+TASARIM MALZEMELERİ--Tamamlanmış tasarımı oluşturan kütleler, noktalar ve çizgiler.
+
+MOTİF--Bir süsleme şeması veya öğesinin orijinal kaynağı.
+
+DOĞAL FORMLAR--Canlı veya cansız doğadan seçilen tasarım motifleri.
+
+NATURALISTIC (Tasarım)--Doğadan alınan formların doğrudan taklidi,
+mümkün olduğunca orijinal şekillerini, renklerini vb. koruyarak.
+
+OPTİK İLLÜSYON--Ortalama bir gözün belirli çizgilerin, açıların ve boşlukların algılanmasında normal olan bir hata.
+Yazı ve tipografi tasarımcıları tarafından
+fark edilir.
+
+SÜS--Dekorasyona benzer.
+
+FARSÇA (Sanat)--M.Ö. 550'den M.Ö. 330'a kadar olan dönemi kapsar.
+Asur sanatından türetilmiştir ancak Yunan sanatından güçlü bir şekilde etkilenmiştir.
+
+DENGE NOKTASI--Bitmiş tasarımda belirtilmeyen,
+tasarımın çeşitli çekiciliklerinin görünümde dengelendiği nokta.
+
+ORAN--Bir tasarımdaki çeşitli unsurlar arasındaki karşılaştırmalı ilişki.
+
+RÖNESANS--İtalya'da 14. ve 15. yüzyıllardaki sanat etkinliği dönemi.
+Klasik sanatların yeniden canlanması ancak eski zirvelerin ötesinde
+gelişmiş ve zenginleşmiş.
+
+RİTİM--Vurgu veya hareketin düzenli tekrarıyla karakterize edilen hareket.
+
+ROMAN (Tasarım)--Roma alışkanlıkları ve karakterinden etkilenen Yunan tasarımının nakledilmiş bir gelişimi.
+Doğal formların işlenmesinde Yunan'dan daha gerçekçi.
+
+ŞEKİL--Bir alanın konturu veya görünümü.
+
+İSKANDİNAV (Tasarım)--Danimarka, Norveç ve İsveç uluslarının zengin iç içe geçmeler ve birçok sembolik araçla karakterize edilen tasarımı.
+
+SİMGESEL--Bir tasarımın fikrini veya amacını temsil eden veya temsil eden.
+
+SİMETRİ--Belirli bir eksen boyunca parçaların düzenli olarak düzenlenmesi, böylece o eksenden geçen bir
+bölme benzer yarımlar verecektir.
+
+TON--Belirli bir yüzeyden yansıyan ışığın miktarı (tür değil)--"açık ton" veya "koyu ton".
+
+ÇEŞİTLİLİK--Bir tasarımda form veya renk olarak farklı ve simetrik olarak düzenlenmemiş öğelerin bir karışımı.
+
+ÇIRAKLAR İÇİN TİPOGRAFİK TEKNİK SERİSİ
+
+Aşağıdaki yayın listesi, ÇIRAKLAR İÇİN TİPOGRAFİK TEKNİK SERİSİ'ni içerir ve Amerika Birleşik Typothetae Eğitim Komitesi'nin gözetimi altında, meslek sınıflarında, baskı eğitiminde ve bireyler tarafından kullanılmak üzere hazırlanmıştır.
+
+Her yayın, yetenekli bir yazar veya yazar grubu tarafından derlenmiş ve dikkatlice düzenlenmiştir, amaç Amerika Birleşik Devletleri'ndeki matbaacılara - işverenler, kalfalar ve çıraklar - matbaa sanatının çeşitli dalları ve uzmanlık alanları hakkında güvenilir, güncel bilgilerin bulunduğu kapsamlı bir dizi kullanışlı ve ucuz derleme sağlamaktır, hepsi ilerici bir çalışma için düzenli bir şekilde düzenlenmiştir. Serinin yayınları tek tip boyuttadır, 5 x 8 inç. Tipografi, çizimler vb. genel yapıları, mümkün olduğunca, uyum içinde tutulmuştur. Her cildin belirli içeriklerinin ve diğer başlıca özelliklerinin kısa bir özeti, aşağıdaki listedeki her başlığın altında bulunabilir. Her konu özlü bir şekilde ele alınır, amaç her yayında mümkün olduğunca tüm temel bilgileri ve konunun anlaşılması için gerekli olan temel gerçekleri somutlaştırmaktır. Tüm ifadelerin doğru ve açık olmasına özen gösterilmiştir,
+ve farklı çalışma alanlarındaki yeni başlayanların anlayabileceği temel bilgileri getirmeyi amaçlamıştır.
+Uygulanabilir olduğu her yerde, metne ek netlik kazandırmak için basit ve iyi tanımlanmış çizimler ve resimler kullanılmıştır.
+
+Broşürlerin meslek okulu derslerinde ve kendi kendine eğitimde mümkün olan en büyük yardımı sağlayabilmesi için, her başlığa konunun temel öğelerini kapsayan bir İnceleme Soruları listesi eşlik eder.
+Birçok kitaba, ele alınan konu veya bölüme ait kısa bir teknik terimler sözlüğü de eklenmiştir.
+
+Bunlar, Amerika Birleşik Typothetae'sinin Resmi Ders Kitaplarıdır.
+
+Tüm siparişleri ve soruları EĞİTİM KOMİTESİ, AMERİKA BİRLEŞİK
+TYPOTHETAE, CHICAGO, ILLINOIS, ABD'ye iletin.
+
+BÖLÜM I--_Tipler, Araçlar, Makineler ve Malzemeler_
+
+1. =Tip: Bilgi Rehberi= A. A. Stewart Tarafından
+
+Baskı tiplerinin mekanik özellikleri; boyutları,
+yazı tipi şemaları, vb. ile ilgili, üretimlerinin kısa bir açıklamasıyla.
+44 sayfa; resimli; 74 inceleme sorusu; sözlük.
+
+2. =Kompozitörlerin Araçları ve Malzemeleri= A. A. Stewart Tarafından
+
+Kompozisyon çubukları, galeriler, uçlar,
+pirinç cetveller, kesme ve gönyeleme makineleri, vb. hakkında bilgi rehberi. 47 sayfa;
+resimli; 50 inceleme sorusu; sözlük.
+
+3. =Tip Kutuları, Oda Mobilyalarını Oluşturma= A. A. Stewart tarafından
+
+Tip kutuları, çalışma standları, dolaplar,
+kutu rafları, galeri rafları, ayakta duran galeriler vb. hakkında bilgi içeren bir giriş kitabı. 43 sayfa;
+resimli; 33 inceleme sorusu; sözlük.
+
+4. =Takma Masalar ve Kilitli Cihazlar= A. A. Stewart tarafından
+
+Baskı için formları kilitlemede kullanılan araç ve malzemeleri, özel amaçlar için bazı modern yardımcı programları da içerecek şekilde açıklamaktadır. 59
+sayfa; resimli; 70 inceleme sorusu; sözlük.
+
+5. =Prova Baskıları= A. A. Stewart tarafından
+
+Baskıcıların prova baskılarını almak için kullanılan geleneksel yöntemler ve makineler hakkında bilgi içeren bir giriş kitabı. 40 sayfa; resimli; 41 inceleme
+sorusu; sözlük.
+
+6. =Platen Baskı Makineleri= Daniel Baker'dan
+
+Orijinal el baskı makinesinden modern iş baskı makinesine kadar, platen baskı makinelerinin tarihi ve mekanik yapısıyla ilgili bir bilgi kılavuzu, buna küçük boyutlu otomatik baskı makineleriyle ilgili bir bölüm eklenmiştir. 51 sayfa; resimli; 49 inceleme
+sorusu; sözlük.
+
+7. =Silindir Baskı Makineleri= Herbert L. Baker'dan
+
+Başlıca silindir baskı makinesi türlerinin mekanizması ve işleyişinin bir çalışması. 64 sayfa; resimli; 47 inceleme
+sorusu; sözlük.
+
+8. =Mekanik Besleyiciler ve Katlayıcılar= William E. Spurrier'dan
+
+Modern besleme ve katlama makinelerinin tarihi ve işleyişi;
+bakımları ve ayarlarıyla ilgili ipuçları. Resimli; inceleme
+sorusu; sözlük.
+
+9. =Matbaalarda Makineler İçin Güç= Carl F. Scott tarafından
+
+Özellikle elektrik tahriki olmak üzere baskı makinelerine ve ilgili makinelere güç uygulama yöntemleri üzerine bir inceleme. 53
+sayfa; resimli; 69 inceleme sorusu; sözlük.
+
+10. =Kağıt Kesme Makineleri= Niel Gray, Jr. tarafından
+
+Kağıt ve karton kesiciler, el-kollu kesiciler, elektrikli kesiciler ve kağıt kesmek için diğer otomatik makineler hakkında bilgi içeren bir giriş kitabı. 70 sayfa; resimli; 115 inceleme sorusu; sözlük.
+
+11. =Matbaa Silindirleri= A. A. Stewart tarafından
+
+Mürekkep silindirlerinin bileşimi, üretimi ve bakımı hakkında bilgi içeren bir giriş kitabı. 46 sayfa; resimli; 61 inceleme sorusu; sözlük.
+
+12. =Baskı Mürekkepleri= Philip Ruxton'dan
+
+Kompozisyonları, özellikleri ve üretimi (ABD Standartları Bürosu'nun 53 No'lu Genelgesi'nden izin alınarak yeniden basılmıştır); Philip Ruxton'ın baskı mürekkeplerinin günlük kullanımıyla ilgili bazı yararlı
+önerileriyle birlikte. 80 sayfa; 100 inceleme
+sorusu; sözlük.
+
+13. =Kağıt Nasıl Yapılır= William Bond Wheelwright'tan
+
+Baskı ve yazma için kağıt üretim malzemeleri ve süreçleri hakkında bilgi içeren bir giriş kitabı. 68 sayfa; resimli;
+62 inceleme sorusu; sözlük.
+
+14. =Kabartma Gravürler= Joseph P. Donovan'dan
+
+Modern gravür yöntemlerinin kısa tarihi ve teknik olmayan açıklaması; tahta baskı, çinko kaplama, yarı ton; çoğaltma için kopya türü; gravür siparişi verirken akılda tutulması gerekenler.
+Resimli; inceleme soruları; sözlük.
+
+15. =Elektrotipleme ve Stereotipleme= Harris B. Hatch ve A. A. Stewart tarafından
+
+Elektrotipleme ve stereotipleme süreçleri hakkında bilgi içeren bir başlangıç ​​kitabı. 94 sayfa; resimli; 129 inceleme sorusu;
+sözlükler.
+
+BÖLÜM II--_El ve Makine Kompozisyonu_
+
+16. =Dizgi= A. A. Stewart tarafından
+
+Yeni başlayanlar için, gerekçelendirme,
+aralama, düzeltme ve dizgiyle ilgili diğer konular hakkında bilgi veren bir el kitabı.
+Resimli; inceleme soruları; sözlük.
+
+17. =Matbaacıların Provaları= A. A. Stewart tarafından
+
+Bunların nasıl yapıldığı, işaretlendiği ve düzeltildiği,
+düzeltme okumayla ilgili gözlemlerle birlikte. Resimli; inceleme soruları;
+sözlük.
+
+18. =İş Kompozisyonunda İlk Adımlar= Camille DeVeze'den
+
+Çırak dizgiciye ilk işlerini belirlemede, özellikle tipografide iyi bir
+görüntülemeyi sağlayan önemli küçük şeyler hakkında öneriler. 63 sayfa; örnekler; 55 inceleme sorusu;
+sözlük.
+
+19. =Genel İş Kompozisyonu=
+
+İş dizgicisinin ticari kırtasiye, programlar ve
+çeşitli işleri nasıl ele aldığı. Resimli; inceleme soruları; sözlük.
+
+20. =Kitap Kompozisyonu= J. W. Bothwell'den
+
+DeVinne'in "Modern Methods of Book Composition" adlı kitabından bölümler, bu ders kitabı serisi için J. W. Bothwell tarafından gözden geçirilmiş ve düzenlenmiştir. Bölüm I: Sayfaların
+kompozisyonu. Bölüm II: Sayfaların yerleştirilmesi. 229 sayfa; resimli; 525 inceleme sorusu; sözlük.
+
+21. =Tablo Kompozisyonu= Robert Seaver'dan
+
+Daha zor kompozisyon örnekleriyle
+temel tablo kompozisyonu biçimlerinin incelenmesi. 36 sayfa; örnekler; 45 inceleme
+sorusu.
+
+22. =Uygulamalı Aritmetik= E. E. Sheldon'dan
+
+Basımcılık sorunlarına uygulanan temel aritmetik,
+malzemelerin, kağıt ağırlıklarının ve boyutlarının hesaplanması,
+standart tablolar ve hesaplama kurallarıyla, her konu örnekler ve alıştırmalarla
+genişletilmiştir. 159 sayfa.
+
+23. =Dizgi ve Dizgi Makineleri= Editör A. W. Finlay
+
+Bölüm I--Linotype L. A. Hornstein'dan
+
+Bölüm II--Monotipi Joseph Hays'dan
+
+Bölüm III--Intertype Henry W. Cozzens'dan
+
+Bölüm IV--Diğer Dizgi ve Dizgi Makineleri Frank H. Smith'den
+
+Dizgi makinelerinin kısa tarihi, mekanik prensipleri ve işlemlerinin açıklamaları. Resimli; gözden geçirme
+soruları; sözlük.
+
+BÖLÜM III--_Yerleştirme ve Taş İşçiliği_
+
+24. =İş Presi İçin Formları Kilitleme= Frank S. Henry Tarafından
+
+Çırağın küçük formları kilitleme ve
+taş üzerindeki genel çalışma hakkında bilmesi gerekenler. Resimli; gözden geçirme soruları;
+sözlük.
+
+25. =Silindir Presi İçin Formları Hazırlama= Frank S. Henry
+
+Broşür ve katalog baskısı; kenar boşlukları; katlama işaretleri, vb. Tip formları ve elektrotip formlarını işleme yöntemleri. Resimli; inceleme
+soruları; sözlük.
+
+BÖLÜM IV--_Presswork_
+
+26. =Platin Preslerinde Hazırlık= T. G. McGrew
+
+Bir presin temel parçaları ve işlevleri; yaygın olarak kullanılan makinelerin ayırt edici
+özellikleri. Timpanı hazırlama,
+baskının düzenlenmesi, alt ve üst kaplama,
+ölçerlerin ayarlanması ve diğer ayrıntılar açıklanmıştır. Resimli; inceleme soruları;
+sözlük.
+
+27. =Silindir Pres Çalışması= T. G. McGrew
+
+Presin hazırlanması; yatak ve silindirin ayarlanması,
+form silindirleri,
+mürekkep çeşmesi, tutucular ve dağıtım sistemleri. Alt ve üst kaplama; modern üst kaplama yöntemleri. Resimli; inceleme soruları;
+sözlük.
+
+28. =Baskıhane İpuçları ve Yardımları= Charles L. Dunton tarafından
+
+Baskıhane çalışmalarının bazı pratik yöntemlerini, çeşitli baskı makinesi sorunlarıyla ilgili talimatlar ve faydalı bilgilerle birlikte açıklar. 87 sayfa; 176 inceleme sorusu.
+
+29. =Grafik Sanatlarının Üreme İşlemleri= A. W. Elson tarafından
+
+Kabartma, oyma baskı ve baskının planografik işlemlerinin ayırt edici özellikleri hakkında bilgi içeren bir giriş kitabı.
+84 sayfa; resimli; 100 inceleme sorusu; sözlük.
+
+BÖLÜM V--_Broşür ve Kitap Ciltleme_
+
+30. =Broşür Ciltleme= Bancroft L. Goodwin tarafından
+
+Broşürleri ve ciltçilikte diğer işleri ciltlemede kullanılan çeşitli işlemler hakkında bilgi içeren bir giriş kitabı. Resimli;
+inceleme soruları; sözlük.
+
+31. =Kitap Ciltleme= John J. Pleger tarafından
+
+Kitap ciltlemede kullanılan olağan işlemler hakkında pratik bilgiler;
+katlama; toplama, birleştirme, dikme, iletme, bitirme. Kasa
+yapımı ve kasalı kitaplar. El işi ve makine işi. İş ve
+boş kitap ciltleme. Resimli; inceleme soruları; sözlük.
+
+BÖLÜM VI--_Doğru Edebi Kompozisyon_
+
+32. =Kelime Çalışması ve İngilizce Grameri= F. W. Hamilton tarafından
+
+Kelimeler, ilişkileri ve kullanımları hakkında bilgi içeren bir temel
+kitap. 68 sayfa; 84 inceleme sorusu; sözlük.
+
+33. =Noktalama= F. W. Hamilton tarafından
+
+Noktalama işaretleri ve bunların hem dilbilgisi hem de tipografik olarak kullanımı hakkında bilgi içeren bir temel
+kitap. 56 sayfa; 59 inceleme sorusu; sözlük.
+
+34. =Büyük Harfler= F. W. Hamilton tarafından
+
+Büyük harf kullanımı hakkında bilgi içeren bir temel kitap, büyük harflerin kullanımıyla ilgili bazı pratik tipografik ipuçları. 48 sayfa; 92 inceleme
+sorusu; sözlük.
+
+35. =Kelimelerin Bölünmesi= F. W. Hamilton tarafından
+
+Satır sonlarındaki kelimelerin bölünmesine ilişkin kurallar, yazım, heceleme ve telaffuz üzerine açıklamalarla. 42 sayfa; 70 inceleme
+sorusu.
+
+36. =Bileşik Kelimeler= F. W. Hamilton tarafından
+
+Bileşikleştirme ilkeleri, bileşiklerin bileşenleri ve tirenin kullanımı üzerine bir çalışma. 34 sayfa; 62 inceleme sorusu.
+
+37. =Kısaltmalar ve İşaretler= F. W. Hamilton tarafından
+
+En yaygın kullanılanların sınıflandırılmış listeleriyle birlikte kısaltmalar ve işaretler hakkında bilgi içeren bir giriş kitabı. 58 sayfa; 32 inceleme
+sorusu.
+
+38. =İtalik Kullanımları= F. W. Hamilton tarafından
+
+İtalik harflerin tarihi ve kullanımları hakkında bilgi içeren bir giriş kitabı. 31 sayfa; 37 inceleme
+sorusu.
+
+39. =Düzeltme= Arnold Levitas tarafından
+
+Düzeltmenin işinin teknik aşamaları; okuma, işaretleme,
+gözden geçirme, vb.; düzeltmeleri ve kopyayı işleme yöntemleri. Örneklerle
+gösterilmiştir. 59 sayfa; 69 inceleme sorusu; sözlük.
+
+40. =Yazıcı Kopyasının Hazırlanması= F. W. Hamilton
+
+Yazarlar, editörler ve kompozisyon odası için
+kopya hazırlamada yer alan herkes için öneriler. 36 sayfa; 67 inceleme sorusu.
+
+41. =Baskıcıların Stil Kılavuzu=
+
+Noktalama, büyük harf kullanımı, kısaltmalar, rakamlar ve kompozisyonun benzer özellikleriyle ilgili onaylı kurallar, kullanımlar ve önerilerin bir referans derlemesi.
+
+42. =Baskıcının Sözlüğü= A. A. Stewart tarafından
+
+Alfabetik olarak düzenlenmiş çeşitli baskı süreçleri hakkında tanımlar ve çeşitli bilgiler içeren bir el kitabı. Teknik terimler
+açıklanmış. Resimli.
+
+KISIM VII--_Tasarım, Renk ve Harflendirme_
+
+43. =Baskıcılar İçin Uygulamalı Tasarım= Harry L. Gage tarafından
+
+Baskıyı en çok etkileyen tasarım dönemlerine ilişkin kısa bir yorumla birlikte düzenleme ilkelerinin bir el kitabı.
+Uyum, denge, oran ve ritim; hareket; simetri ve
+çeşitlilik; süsleme, estetik ve sembolik. 37 resim; 46
+inceleme sorusu; sözlük; bibliyografya.
+
+44. =Tipografik Tasarımın Öğeleri= Harry L. Gage tarafından
+
+Dekoratif tasarım ilkelerinin uygulamaları. Tipografinin yapı
+malzemesi: kağıt, yazı tipleri, mürekkep, süslemeler ve
+resimler. Şekillerin işlenmesi. Tam kitap tasarımı,
+her bir parçanın işlenmesi. Ticari formların ve tek birimlerin tasarımı.
+Resimler; inceleme soruları, sözlük; bibliyografya.
+
+45. =Baskıda Rengin Temelleri= Harry L. Gage tarafından
+
+Rengin kullanımı: siyah ve beyazın dekorasyonu, geniş poster
+etkisi için, iki, üç veya daha fazla baskının işlem gravürleriyle kombinasyonları. Rengin bilimsel doğası, fiziksel ve
+kimyasal. Rengin tartışılabileceği terimler: ton, değer,
+yoğunluk. Renk, ölçek ve kombinasyonlardaki diyagramlar. İşlem gravürünün renk teorisi. Renkle deneyler. Tam renkli ve çeşitli kağıtlardaki resimler. İnceleme soruları; sözlük;
+bibliyografya.
+
+46. =Tipografide Harflendirme= Harry L. Gage tarafından
+
+Matbaacının harflendirme kullanımı: uyarlanabilirlik ve dekoratif etki.
+Tarihi yazı ve harflendirmenin gelişimi ve yazı tipi tasarımına etkisi. Harflendirmedeki genel formların sınıflandırılması.
+Tasarımın harflendirmeye uygulanması. Üreme için çizim. Tamamen
+resimli; inceleme soruları; sözlük; bibliyografya.
+
+47. =Reklamcılıkta Tipografik Tasarım= Harry L. Gage tarafından
+
+Reklamcılıkta matbaacının işlevi. Reklamcılığın
+dayandığı ilkeler. Matbaacının metnini analiz etmesi. Vurgu,
+okunabilirlik, dikkat, renk. Reklam tipografisini inceleme yöntemi. İllüstrasyonlar; inceleme soruları; sözlük;
+bibliyografya.
+
+48. =Kupürler ve Düzenler Yapmak= Harry L. Gage tarafından
+
+Bir düzen: mimari plan. Bir kukla: önerilen
+nihai etkinin taklidi. Satış işlerinde kukla kullanımı. Düzenin kullanımı.
+Düzen adamının işlevi. Aptallar için ciltleme şemaları. Aptal
+zarflar. Resimler; inceleme soruları; sözlük; bibliyografya.
+
+KISIM VIII--_Baskı Tarihi_
+
+49. =Tipografiden Önce Kitaplar= F. W. Hamilton Tarafından
+
+Alfabenin icadı ve hareketli tiplerin icadına kadar kitap yapımcılığının tarihi hakkında bilgi içeren bir giriş kitabı. 62 sayfa;
+resimli; 64 inceleme sorusu.
+
+50. =Tipografinin İcadı= F. W. Hamilton Tarafından
+
+Baskının icadı ve nasıl ortaya çıktığına dair kısa bir taslak.
+64 sayfa; 62 inceleme sorusu.
+
+51. =Baskı Tarihi=--Bölüm I F. W. Hamilton Tarafından
+
+Baskının başlangıcı, kitabın gelişimi, matbaacıların malzemelerinin gelişimi ve büyük öncülerin çalışmaları hakkında bilgi içeren bir giriş kitabı. 63 sayfa; 55 inceleme sorusu.
+
+52. =Baskı Tarihi=--Bölüm II F. W. Hamilton
+
+1450'den 1789'a kadar matbaa endüstrisinin ekonomik koşullarının kısa bir taslağı, hükümet düzenlemeleri, sansür,
+iç koşullar ve endüstriyel ilişkiler dahil. 94 sayfa; 128 inceleme
+sorusu.
+
+53. =İngiltere'de Matbaa= F. W. Hamilton'dan
+
+Caxton'dan günümüze İngiltere'de matbaacılığın kısa bir tarihi.
+89 sayfa; 65 inceleme sorusu.
+
+54. =Amerika'da Matbaa= F. W. Hamilton'dan
+
+Gazetenin gelişimine dair kısa bir taslak ve matbaaya özellikle katkıda bulunan yayıncılar hakkında bazı notlar. 98 sayfa;
+84 inceleme sorusu.
+
+55. =Amerika'da Tipo ve Matbaalar= F. W. Hamilton'dan
+
+Amerika Birleşik Devletleri'nde tipo dökümünün ve matbaa yapımının gelişimine dair kısa bir tarihsel taslak. 52 sayfa; 61 inceleme sorusu.
+
+BÖLÜM IX--_Maliyet Bulma ve Muhasebe_
+
+56. =Baskıda Maliyet Unsurları= Henry P. Porter tarafından
+
+Standart Maliyet Bulma Formları ve kullanımları. Neyi
+göstermeleri gerektiği. Verdikleri bilginin nasıl
+kullanılacağı. İnceleme soruları.
+Sözlük.
+
+57. =Bir Maliyet Sisteminin Kullanımı= Henry P. Porter tarafından
+
+Standart Maliyet Bulma Formları ve kullanımları. Neyi
+göstermeleri gerektiği. Verdikleri bilginin
+nasıl
+kullanılacağı. İnceleme soruları.
+Sözlük.
+
+58. =Tüccar Olarak Matbaacı= Henry P. Porter tarafından
+
+Baskı için malzeme ve sarf malzemelerinin seçimi ve satın alınması.
+Hammadde maliyeti ile bitmiş ürünün satış fiyatı arasındaki ilişki. İnceleme soruları. Sözlük.
+
+59. =Tahmin Etmenin Temel İlkeleri= Henry P. Porter tarafından
+
+Tahmin eden ve çalışmaları; kullanılacak formlar; tahmin
+için genel kurallar. İnceleme soruları. Sözlük.
+
+60. =Tahmin ve Satış= Henry P. Porter'dan
+
+Tahmin yapmada kullanılan yöntemlere ve bunların satışla ilişkisine dair bir içgörü. İnceleme soruları. Sözlük.
+
+61. =Matbaacılar İçin Muhasebe= Henry P. Porter'dan
+
+Matbaacılar için bir muhasebe sisteminin kısa bir taslağı; gerekli
+kitaplar ve yardımcı kayıtlar. İnceleme soruları. Sözlük.
+
+BÖLÜM X--_Çeşitli_
+
+62. =Sağlık, Sıhhi Tesisat ve Güvenlik= Henry P. Porter'dan
+
+Baskıcılık sektöründe hijyen; eski ve yeni koşulların incelenmesi;
+iyileştirme için pratik öneriler; koruyucu cihazlar ve
+güvenlik kuralları.
+
+63. =Konu Dizini= F. W. Hamilton'dan
+
+Tipografik Teknik Serisinde ele alınan konuları kapsayan, alfabetik olarak düzenlenmiş bir referans kitabı.
+
+64. =Çalışma Kursları= F. W. Hamilton'dan
+
+Öğretmenler için, sınıf ve atölye çalışmaları için taslaklar ve öneriler içeren bir rehber.
+
+TEŞEKKÜR
+
+Bu Tipografik Ders Kitapları serisi, Amerika Birleşik Devletleri'nde matbaacılık işi ve ilgili endüstrilerinde çalışan çok sayıda firma ve bireyin muhteşem
+iş birliğinin
+sonucudur.
+
+Kitapların hazırlanıp yayınlandığı Amerika Birleşik Typothetae Eğitim Komitesi, bu eserle özdeşleşen birçok
+yazar, matbaacı ve diğerlerinin sağladığı cömert yardım için minnettarlığını
+kabul eder.
+
+Her kitaba katkıda bulunanların başlık ve telif hakkı sayfalarında gereken teşekkür yapılırken, Komite yine de iş birliği yapan firmaların bir grup listesinin ilgi çekici olacağını düşündü.
+
+Aşağıdaki liste, yalnızca ciltlerin bir kısmının üretiminde iş birliği yapanları ve ilk baskıyı oluşturanları içerdiğinden eksiksiz değildir. Tipografik Teknik Seri'yi oluşturan kitapların tüm listesi tamamlanır tamamlanmaz (Komite bunun erken bir tarihte
+olmasını umuyor), tam liste her ciltte
+basılacaktır. Komite ayrıca bu Serinin yayınlanmasını sabırla bekleyen birçok abonesine minnettarlığını bildirmek ister.
+
+EĞİTİM KOMİTESİ,
+AMERİKA BİRLEŞİK DEVLETLERİ.
+HENRY P. PORTER, _Başkan_,
+E. LAWRENCE FELL,
+A. M. GLOSSBRENNER,
+J. CLYDE OSWALD,
+TOBY RUBOVITS.
+FREDERICK W. HAMILTON, _Eğitim Müdürü_.
+
+KATKIDA BULUNANLAR
+
+=Kompozisyon ve Elektrotipler İçin=
+
+ISAAC H. BLANCHARD COMPANY, New York, N. Y.
+S. H. BURBANK & CO., Philadelphia, Pa.
+J. S. CUSHING & CO., Norwood, Mass.
+THE DEVINNE PRESS, New York, N. Y.
+R. R. DONNELLEY & SONS CO., Chicago, Ill.
+GEO. H. ELLIS CO., Boston, Mass.
+EVANS-WINTER-HEBB, Detroit, Mich.
+FRANKLIN PRINTING COMPANY, Philadelphia, Pa.
+GAGE PRINTING CO., Ltd., Battle Creek, Mich.
+F. H. GILSON COMPANY, Boston, Mass.
+STEPHEN GREENE & CO., Philadelphia, Pa.
+WILLIAM GREEN, New York, N. Y.
+W. F. HALL PRINTING CO., Chicago, Ill.
+FRANK D. JACOBS CO., Philadelphia, Pa.
+WILSON H. LEE CO., New Haven, Conn.
+J. B. LIPPINCOTT CO., Philadelphia, Pa.
+MACCALLA & CO. INC., Philadelphia, Pa.
+THE PATTESON PRESS, New York. THE PLIMPTON PRESS, Norwood, Mass.
+POOLE BROS., Chicago, Ill.
+REMINGTON PRINTING CO., Providence, R.I.
+EDWARD STERN & CO., Philadelphia, Pa.
+THE STONE PRINTING & İMG. CO., Roanoke, Va.
+STATE JOURNAL COMPANY, Lincoln, Neb.
+THE UNIVERSITY PRESS, Cambridge, Mass.
+
+=Kompozisyon İçin=
+
+BOSTON TYPOTHETAE BASKI OKULU, Boston, Mass.
+WILLIAM F. FELL CO., Philadelphia, Pa.
+THE KALKHOFF COMPANY, New York, N. Y.
+OXFORD-PRINT, Boston, Mass.
+TOBY RUBOVITS, Chicago, Ill.
+
+=Elektrotipçiler=
+
+BLOMGREN BROTHERS CO., Chicago, Ill.
+FLOWER STEEL ELECTROTYPING CO., New York, N. Y.
+C. J. PETERS & SON CO., Boston, Mass.
+ROYAL ELECTROTYPE CO., Philadelphia, Pa.
+H. C. WHITCOMB & CO., Boston, Mass.
+
+=Gravürler İçin=
+
+AMERİKAN TYPE FOUNDERS CO., Boston, Mass.
+C. B. COTTRELL & SONS CO., Westerly, R. I.
+GOLDING MANUFACTURING CO., Franklin, Mass.
+HARVARD UNIVERSITY, Cambridge, Mass.
+INLAND PRINTER CO., Chicago, Ill.
+LANSTON MONOTYPE MACHINE COMPANY, Philadelphia, Pa.
+MERGENTHALER LINOTYPE COMPANY, New York, N. Y.
+GEO. H. MORRILL CO., Norwood, Mass.
+OSWALD PUBLISHING CO., New York, N. Y.
+THE PRINTING ART, Cambridge, Mass.
+B. D. RISING PAPER COMPANY, Housatonic, Mass.
+THE VANDERCOOK PRESS, Chicago, Ill.
+
+=Kitap Kağıdı İçin=
+
+AMERICAN WRITING PAPER CO., Holyoke, Mass.
+BRYANT PAPER CO., Kalamazoo, Mich.
+THE MIAMI PAPER CO., West Carrollton, Ohio.
+OXFORD PAPER COMPANY, New York, N. Y.
+WEST VIRGINIA PULP & PAPER CO., Mechanicville, N. Y.
+
+=Kitap Bezi İçin=
+
+INTERLAKEN MILLS, Providence, R. I.
+
+Yazıcının Notları:
+
+İtalik yazılan pasajlar _alt çizgi_ ile gösterilmiştir.
+
+Kalın yazılmış pasajlar =bold= ile gösterilmiştir.
+
+Aşağıdaki yazım hataları düzeltildi:
+"Gutenberg's" "Gutenberg's" olarak düzeltildi (sayfa 47)
+"realstic" "realistic" olarak düzeltildi (sayfa 71)
+
+Yukarıda listelenen düzeltmelerin dışında, yazıcının yazım ve noktalama işaretlerindeki tutarsızlıkları korundu.
+
+Harry Lawrence Gage'in Yazıcılar İçin Gutenberg Uygulamalı Tasarım Projesinin Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK APPLIED DESIGN FOR PRINTERS ***
+
+***** This file should be named 30804.txt or 30804.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/3/0/8/0/30804/
+
+Produced by Barbara Tozier, Bill Tozier, Stephanie Eason,
+and the Online Distributed Proofreading Team at
+https://www.pgdp.net.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

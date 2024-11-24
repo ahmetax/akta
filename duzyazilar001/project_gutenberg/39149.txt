@@ -1,0 +1,885 @@
+*** START OF AKTAHEADER ***
+Başlık: Ciphers For the Little Folks (Küçük İnsanlar İçin Şifreler)
+Yazar: Dorothy Crain
+Yayın Tarihi: March 15, 2012 [EBook #39149]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/39149
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Ciphers For the Little Folks, by Dorothy Crain
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Ciphers For the Little Folks
+       A Method of Teaching the Greatest Work of Sir Francis Bacon
+
+Author: Dorothy Crain
+
+Release Date: March 15, 2012 [EBook #39149]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CIPHERS FOR THE LITTLE FOLKS ***
+
+*** START OF TURKISH PART ***
+Chris Curnow ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu dosya The Internet Archive tarafından cömertçe sağlanan görsellerden üretilmiştir.)
+
+DOROTHY CRAIN SERİSİ
+
+Şifreler
+Küçük İnsanlar İçin
+
+Bir Öğretim Yöntemi
+Sir Francis Bacon'ın En Büyük Eseri
+Verulam Baronu, St. Alban Vikontu
+
+Gözlemci Bir Gözün Kullanımını Geliştirerek Okuma, Yazma ve Sayı Çalışmalarına İlgiyi Teşvik Etmek İçin Tasarlanmıştır
+
+Alfabenin Kökeni, Tarihi ve Tasarımı Üzerine Bir Ek
+_Helen Louise Ricketts Tarafından
+
+RIVERBANK LABORATORIES
+EĞİTİM DEPARTMANI
+DOROTHY CRAIN, _Anaokulu Müdürü_
+GENEVA, ILLINOIS
+
+Telif Hakkı, 1916
+GEORGE FABYAN
+
+GİRİŞ
+
+Bu dersler, öğretmenin veya ebeveynin küçüklerin ihtiyaçlarının gerektirdiği şekilde uyarlayacağı, uzatacağı, kısaltacağı veya yeniden yapacağı fikriyle öneriler olarak sunulur. Değerleri, çocukların önüne getirilme biçimlerine bağlı olacaktır.
+
+Amaç, çocuklara yetişkin bilgi ve başarılarını empoze etmek değil,
+kendi başlarına kendilerine hitap eden ve aynı zamanda eğitici değer ve öneme sahip deneyimler sağlamaktır.
+
+Çocuklar çok fazla el işi yapmalıdır; elleriyle bir şey yapmayı planlarken en iyi düşüncelerini ortaya koyarlar. Dikkatleri, duydukları veya okudukları bir şeye göre, elleriyle yaptıkları bir şeye çok daha kolay odaklanır. Bloklarla inşa etmek,
+kağıt katlamak ve kesmek, boyamak ve çizmek ve
+yapıcı çalışma olarak bilinen şeyler, hepsi kendini ifade etmenin araçlarıdır.
+
+Her derse açıklayıcı bir paragraf eşlik edecektir. Bu derslerin türetildiği Biliteral Şifrenin işleyişinin daha kolay anlaşılabilmesi için, çocuklara Şifreyi adım adım açıklamanın en iyi yöntemlerini seçmek onlara bırakılan öğretmen veya ebeveynin rehberliğinde kısa bir açıklama yapılacaktır.
+
+Francis Bacon tarafından tasarlanan ve Advancement of Learning adlı eserinde ayrıntılı olarak açıklanan Biliteral Şifre (bkz. Spedding'in Bacon'ın Eserleri'nin İngilizce baskısı, Cilt IV, sayfalar 444-447) iki nesnenin (bloklar, harfler, vb.) yer değiştirmesinin 32 farklı kombinasyon üreteceği ve bunlardan yalnızca 24'ünün alfabemizdeki tüm harfleri (_i_ ve _j_, _u_ ve _v_ 16. yüzyılda birbirinin yerine kullanılıyordu) temsil etmek için gerekli olacağı matematiksel gerçeğe dayanmaktadır. Bu serinin I. Dersi, Bacon tarafından kullanılan 24 kombinasyonu gösterir ve "Kod" veya "Anahtar"ı oluşturur.
+
+I. Derse atıfta bulunarak, _a_ ve _b_'nin gruplandırılmasındaki varyasyonların, her seferinde beş tane olmak üzere, alfabenin her harfini temsil edecek şekilde yapıldığı görülecektir, ancak _i_ ve _j_ ve _u_ ve _v_ birbirinin yerine kullanılabilir olarak kabul edilir. Sonraki tüm derslerde, nesneler _a_ veya _b_'yi temsil edecek şekilde seçilir ve gruplandırılmalarının sırası veya ardışıklığı, kodla (I. Ders) karşılaştırıldığında, temsil ettikleri harfi belirleyecektir.
+
+Bir dildeki kelimeler basitçe harf kombinasyonlarından oluştuğundan, yalnızca iki fark mevcut olduğu sürece, kelimelerin koda göre uygun kombinasyonlar yapılarak oluşturulabileceği açıktır. Herhangi bir
+farklılık yeterli olacaktır ve bu gerçek, bu çalışmada çocukların düşünme güçlerinin, hayal gücünün ve becerilerinin
+uygulanması için olasılıklardan kaynaklanmaktadır. Örneğin VI. Ders, öğretim ve oyun unsurlarını ilginç bir şekilde birleştirir. Kelimelerin ve cümlelerin iletimi, nesneler kullanılmadan bile gerçekleştirilebilir, çünkü parmakların veya ellerin iki farklı hareketi yeterli olacaktır; aynı şekilde iki farklı
+ses--aslında beş duyudan herhangi biriyle algılanabilen herhangi bir
+fark kullanılabilir. ABD Ordusu İşaret Servisi tarafından kullanılan "Peruk sallama" bu Şifreye dayanmaktadır. Bu nedenle, çocuğun sahip olduğu her yeteneği daha yüksek bir
+verimliliğe
+uydurarak eğitsel bir değere sahip olacak birçok oyun planlanabilir. Dersler, artan karmaşıklık sırasına göre bir sıraya göre düzenlenmiştir ve gizli mesajların açık bir iletişimde herhangi bir gizli şeyin varlığına dair şüphe uyandırmadan gönderilme olasılığının sunumuna kadar kademeli olarak ilerlemiştir. Ders XIV'te "İkili Şifre" ifadesi, _a_ biçimi için büyük harf ve _b_ biçimi için küçük harf kullanılarak gizli "Anahtar" sözcüğünü içerecek şekilde yapılmıştır. Elbette _a_ biçimi ile _b_ biçimi arasındaki farklar, büyük ve küçük harfler arasındaki farklardan çok daha az belirgin hale getirilebilir; aslında farklar o kadar küçük hale getirilebilir ki, sıradan bir gözlemci için fark edilemez olabilir, ancak yine de onları ayırt etmek mümkün olur. Harflerin oluşturulmasında doğruluk ve özen, yalnızca yazıda veya el yazısında değil, aynı zamanda her ikisi de artık hızla kaybolan sanatlar haline gelen baskıda da öğretilebilir. Şifreli yazı, düzgün bir şekilde öğretilirse,
+çocuklar için ilginç ve zor olmayacak şekilde el yazısı pratiği sağlayacaktır.
+
+İkili Şifrenin kullanılabileceği çok çeşitli kullanımlara uyarlanabilirliği, pedagojik olanaklarını geniş kapsamlı hale getirir; ve hem öğretmen hem de öğrenci, hem ebeveyn hem de çocuk için yeteneklerin kullanımı alanı, ilkokul çağındaki küçük insanlara açılmış en geniş, en öğretici ve en eğlenceli alanlardan biridir.
+
+Eğitmenin elde etmek isteyebileceği herhangi bir ek bilgi, Riverbank Laboratuvarlarına başvurulması halinde sağlanacaktır.
+
+Dorothy Crain
+
+GÖZÜN GÖRME EĞİTİMİ
+
+Görme yeteneğinin eğitime ihtiyacı olduğu her mantıklı kişi tarafından kabul edilecektir, ancak göze bu avantajın en iyi şekilde nasıl sağlanacağı
+hiçbir zaman çözülememiş bir sorudur. Norveç hakkında bir kitabın yazarı olan bir İngiliz avcı, bu konu hakkında bazı ilginç ipuçları veriyor:
+
+İzlerin farklı özelliklerinin eğitimsiz bir göz tarafından fark edilememesinin nedeni, bunların çok küçük olmaları ve
+görünmeyecek kadar küçük olmaları değil, o göz için fark edilmeyecek kadar göze çarpmamalarıdır. Aynı şekilde, kasabalı da fundalıktaki bir kekliğe veya deredeki çakılların üzerinde duran bir alabalığa dik dik bakacak ve onları
+görmeyecektir; çok küçük oldukları için değil,
+bu pozisyonlarda nasıl göründüklerini bilmediği için. Aslında ne aradığını bilmiyor ve bir büyüteç
+ona hiçbir şekilde yardımcı olmayacaktır. Ne arayacağını bilmeyen bir adam için, mercek bir engel olabilir, çünkü zihninin
+alışkın olduğu oranları değiştirir ve daha da önemlisi alanı çok
+sınırlıdır.--Gençliğin Arkadaşı.
+
+DERS I
+
+Bu ders, kodu veya anahtarı öğretmeyi amaçlamaktadır. Öğretmenin bunu çok basit bir şekilde göstermesini sağlayacak olan
+yapısının matematiksel düzenliliğine dikkat çekilir. Önce 1'den 24'e kadar olan sayıların sütununu yazın. Sonra 1 sayısının karşısına bir sıra halinde beş kırmızı daire yerleştirin. Bu satırdaki sonuncusunun altına ve 2 numaralı satıra mavi bir daire yerleştirin ve sütun boyunca kırmızı ve maviyi dönüşümlü olarak yerleştirmeye devam edin. Sonra 1. sıradaki 4. kırmızı dairenin altına bir kırmızı daha, sonra iki mavi daire yerleştirin, sütun boyunca 2 kırmızı ve 2 maviyi dönüşümlü olarak yerleştirin. 3. sütunda kırmızılar ve maviler dörtlü setler halinde dönüşümlü olarak; 2. sütunda sekizli setler halinde ve 1. sütunda 16'lı setler halinde yer alır. Sadece 24 kombinasyon gerekli olduğundan, olası 32'nin son sekizi atlanmıştır. Şimdi bu 24 kombinasyonun karşısına alfabenin harflerini düzenli sıraya koyun, I ve J, U ve V'nin birbirinin yerine kullanılabileceğini unutmayın.
+
+Kodun kullanımını kolaylaştırmak için kırmızı ve mavi daireler sırasıyla küçük _a_ ve küçük _b_ ile gösterilebilir. Bu dersin sağ tarafı, bu plan üzerinde çalışılan kodu verir ve gelecekte başvurmayı kolaylaştırır. Sonraki tüm derslerde bir form (ister blok, ister boncuk, ister iplik veya başka bir şey olsun) _a_ formu olarak adlandırılacak ve
+diğeri _b_ formu olarak adlandırılacaktır. Kodun doğası gereği,
+_a_ formları her zaman baskındır; ve bu çalışma için materyalleri bir araya getirirken, öğretmen buna göre yönlendirilmelidir.
+
+[Resim:
+
+1 o o o o o A = a a a a a
+2 o o o o o B = a a a a b
+3 o o o o o C = a a a b a
+4 o o o o o D = a a a b b
+5 o o o o o E = a a b a a
+6 o o o o o F = a a b a b
+7 o o o o o G = a a b b a
+8 o o o o o H = a a b b b
+9 o o o o o I-J = a b a a a
+10 o o o o K = a b a a b
+11 o o o o o L = a b a b a
+12 o o o o o M = a b a b b
+13 o o o o o N = a b b a a
+14 o o o o o O = a b b a b
+15 o o o o o P = a b b b a
+16 o o o o o Q = a b b b b
+17 o o o o o R = b a a a a
+18 o o o o o S = b a a a b
+19 o o o o o T = b a a b a
+20 o o o o o U-V = b a a b b
+21 o o o o o W = b a b a a
+22 o o o o o X = b a b a b
+23 o o o o o Y = b a b b a
+24 o o o o o Z = b a b b b
+]
+
+DERS II
+
+[Resim]
+
+Kısa çizgiler _a_ formunu, uzun çizgiler _b_ formunu temsil eder. Şifre
+kelimesi "the"dir. Çeşitli dikiş kartı formları veya farklı renklerde iplikler
+kullanılabilir.
+
+DERS III
+
+[Resim]
+
+Bu dokuma matında açık kareler _a_ formunu, koyu kareler _b_ formunu temsil eder. Ok başlangıç ​​noktasını işaretler ve okuma her satırda soldan sağa doğru ilerler. Şifreli mesaj "Mary'nin küçük bir
+kuzusu
+vardı." Gerekli sayıda harf içeren herhangi bir cümle aynı prensiple eklenebilir.
+
+DERS IV
+
+[Resim]
+
+Bu ders sembolik bir şifre tasarımı olarak adlandırılabilecek bir şeyi içerir.
+Bu tasarım batan güneş fikrini iletir ve bu nedenle içindeki şifreli kelime "günbatımı"dır. Kırmızı çubuklar _b_ formunu, turuncu çubuklar _a_ formunu temsil eder. Ok başlangıç ​​noktasını işaretler ve okuma saat yönünde ilerler.
+
+DERS V
+
+[Resim]
+
+Bu, "Humpty-Dumpty"yi tasvir eden başka bir sembolik şifre tasarımıdır. Mavi kareler _a_ formunu, kırmızı kareler _b_ formunu temsil eder. Şifreli
+mesaj "duvarda oturuyor"dur. Boş kareler renkli
+kalemler veya bloklarla doldurulabilir ve çocuklar böylece Ders I'deki koda başvurarak
+mesajın oluşturulmasını uygulayabilirler.
+
+DERS VI
+
+[İllüstrasyon]
+
+Tavukların _b_ formunu,
+civcivlerin _a_ formunu temsil ettiği başka bir sembolik şifre tasarımı. Şifreli kelime "yumurta"dır ve soldan sağa doğru okunur.
+
+Bu tür sembolik şifre tasarımı sonsuz
+çeşitliliğe açıktır ve şifreli resimler çizme olasılığına dair bir ipucu verir.
+
+Kesildiklerinde tavuklar ve civcivler öğretmenin
+yönetimi altında çeşitli kelimeleri hecelemek için kullanılabilsin diye yeterli miktarda tedarik sağlanır.
+
+DERS VII--ZAMAN ÖĞRETİM SAATİ
+
+Bu saatte dakikaları gösteren hareketli renkli noktalar şifreli zamanı yazmak için kullanılır. Çocuğa verilecek çalışma kartlarında renkli noktalar saatin kadranında bu amaçla açılan deliklere yerleştirilmelidir. Altmış nokta olduğundan, on iki harfi geçmeyen (yani her harf için on iki çarpı beş nokta 60'a eşittir) zamanı ifade eden herhangi bir ifade şifreli zamanı belirtmek için kullanılabilir. Yani, "on buçuk", "dokuz otuz" vb. gibi herhangi bir ifade, seçilen ifadedeki harf sayısının beş katı kadar nokta kullanılarak saat üzerinde gösterilebilir. İfadede on ikiden az harf varsa, kalan delikler boş bırakılmalıdır.
+
+Bu ders, mümkün kıldığı birçok kombinasyon açısından son derece esnektir. Öğretmen veya ebeveyn, saatin en etkili kullanımının, öncelikle çocuğun günlük deneyiminde önemli olan günün bir saatini belirten bir ifade seçmek olduğunu unutmamalıdır - örneğin okulun açılış veya kapanış saati, oyun saati, akşam yemeği saati veya "yatma vakti". Bu ifade, çocuğun ifadenin harflerini temsil eden noktaları saat kadranının etrafına, on iki rakamından başlayarak yerleştirmesiyle şifreye dönüştürülür. Bu yapıldıktan sonra, çocuktan her beş nokta grubunun temsil ettiği harfi adlandırarak ifadeyi "çözmesi" istenmelidir. Bu başarıldığında, saati okuma yeteneği bilinçsiz bir başarıya dönüşür, çünkü saatin kolları daha sonra ebeveyn veya öğretmen tarafından veya onun yönetimi altındaki çocuk tarafından, çözülen ifadeyi gösterecek şekilde doğru konuma yerleştirilir. Örneğin, "dokuz buçuk" ifadesi seçilirse ve çocuk bunu renkli nokta kombinasyonundan çıkarmışsa, saatin kolları dokuz buçuğa getirilir. Çocuk,
+ifade aklında tazeyken, bundan saatin kollarının zamanı temsil eden konumunu öğrenir, çünkü saat kadranının kollarının istenen konumda olduğu zihinsel görüntü, çocuğun zihninde silinmez bir şekilde yer eden bir çağrışım oluşturur.
+
+Burada açıklanan yöntem küçük çocuklar için en iyisidir.
+Daha ileri yaşta ve kendi zihinlerini kullanma yeteneği daha fazla olan çocuklarda, bunun tersi uygulanabilir. Öğretmen, zamanı belirten ifadeyi adlandırabilir ve çocuğa her harf için koda başvurarak ifadenin harflerini temsil eden renkli noktaları yerleştirmesini söyleyebilir. Bu, ilk açıklanan yöntemden daha yüksek düzeyde bir zeka gerektirir.
+
+[Resim]
+
+Kod referans alınarak, saat üzerindeki noktaların düzenlemesinin, kollarla gösterilen zamanı, yani "dört beşi beş geçe"yi gösterdiği görülecektir.
+Kırmızı noktalar _a_'yı, maviler _b_'yi temsil eder.
+
+DERS VIII
+
+[Resim]
+
+Bu şifreli kolyede kare boncuklar _a_ formunu, yuvarlak boncuklar _b_ formunu temsil eder. Şifreli sözcükler "Yankee Doodle"dır. Bu veya başka herhangi bir uygun ifadeyi işlemek için, çocuk boncukları verilen bağcıklardan birine dizmelidir.
+
+DERS IX
+
+[Resim]
+
+Bu, önceki derse benzerdir, ancak bu durumda mavi boncuklar _a_ formunu, turuncu boncuklar _b_ formunu temsil eder. Şifreli sözcükler "Bir Şifre Zinciri"dir.
+
+DERS X
+
+[Resim]
+
+Bu şifreli kolye hem Ders VIII hem de IX'u birleştirir ve iki şifrenin aynı anda nasıl katlanabileceğini gösterir. Boncukları önce şekillerine göre okuyarak ve Ders VIII'dekiyle aynı sistemi kullanarak kolye hala "Yankee Doodle" kelimesini heceler. Daha sonra boncukları renklerine göre okuyarak, Ders IX'daki gibi "Bir Şifre Zinciri" kelimeleri deşifre edilir. Bu ders, aynı anda üç, dört veya beş şifreli mesajı katlama olasılığına dair bir ipucu verir.
+
+DERS XI
+
+[Resim]
+
+Bu derste, bir şifreli mesajın sıradan bir mimari örnekte nasıl gizlenebileceğini göstermenin ilk adımı gelir. Kırmızı daireler _a_ formunu, mavi daireler _b_ formunu temsil eder; okuma, şeklin yazıldığı şekilde tam olarak aynı şekilde ilerler. Şifreli ifade "United
+States"tir. Çocukların oluşturması için herhangi bir şekil seçilebilir, ancak oluşturulduklarında her renkten gerekli sayıda daire içerirler.
+
+DERS XII
+
+[Resim]
+
+Şifre kelimesi "mera"dır, kırmızı daireler _a_ biçimi, mavi
+daireler _b_ biçimidir.
+
+DERS XIII
+
+[Resim]
+
+Şifre kelimesi "Havlama"dır, kırmızı daireler _a_ biçimi, mavi
+daireler _b_ biçimidir.
+
+DERS XIV
+
+[Resim]
+
+"ŞİFRE" kelimesi gizli "Sir Francis Bacon" adını içerir, kırmızı
+daireler _a_ biçimi, mavi
+daireler _b_ biçimidir. Okuma, harflerin el tarafından çizildiği şekilde devam eder. Kenar boşluğundaki tasarım, X. Ders'teki kolyeye benzer bir yapıya sahip çift şifre içeriyor. Kırmızı ve mavi parçalar, daha önce olduğu gibi, sırasıyla _a_ ve _b_ biçimlerini temsil ediyor ve şifre kelimesi "alfabe". Bu, ilk şifreyi oluşturuyor. İkinci şifre, bu parçaların şekillerindeki farka dayanıyor, uzun olanlar _a_ biçimi, daireler ise _b_ biçimi. Şifre kelimesi "decipher".
+
+XV. DERS
+
+[Resim]
+
+"İkili Şifre" ifadesi, _a_ biçimi için büyük harf ve _b_ biçimi için küçük harf kullanılarak gizli "anahtar" sözcüğünü içerecek şekilde yapılmıştır. Çizgilerin kenarları, "harf" şifre kelimesini içerir, mavi çubuklar _a_ biçimi, kırmızı olanlar ise _b_ biçimidir. Okuma
+her satırda soldan sağa doğru ilerler, en üstteki satırdan başlar.
+Çocuklar, örnektekiyle aynı prensipte büyük ve küçük harfleri kullanarak, istedikleri herhangi bir cümleyi oluşturmak için uygun boyuttaki herhangi bir harf setini kesmeye yönlendirilebilir.
+
+DERS XVI
+
+[İllüstrasyon: Peacock Lodge için Tasarım. Albay George Fabyan için.]
+
+ŞİFRE KODU
+
+a a a a = A
+a a a b = B
+a a a b a = C
+a a a b b = D
+a a b a a = E
+a a b a b = F
+a a b b a = G
+a a b b b = H
+a b a a a = I-J
+a b a a b = K
+a b a b a = L
+a b a b b = M
+a b b a a = N
+a b b a b = O
+a b b b a = P
+a b b b b = Q
+b a a a = R
+b a a b = S
+b a a b a = T
+b a a b b = U-V
+b a b a a = W
+b a b a b = X
+b a b b a = Y
+b a b b b = Z
+
+Açıklama
+
+Bu mimarın taslağı İkili Şifrenin
+kullanımına yönelik ilginç bir yöntem sunmaktadır. Beyaz tuğlaların _a_
+form harflerini, gölgeli tuğlaların _b_ formunu temsil etmesi gerekiyor. Duvarın tepesinden, soldan, kulenin altından başlayın, satırları soldan sağa doğru okuyun ve bu prensipte her tuğlaya bir _a_ veya _b_ atayın, ortaya çıkan _a_'ları ve _b_'leri beşli gruplara ayırın. Ardından, her grubun hangi alfabe harfini temsil ettiğini gösterecek olan eşlik eden şifre koduna bakın. Sonuç eğlenceli olduğu kadar ilginç ve öğretici de olacak.
+
+Alfabenin Kökeni, Tarihi ve Tasarımı
+
+HELEN LOUISE RICKETTS
+
+ALFABE HİKAYESİ
+
+BÖLÜM I
+
+Size her gün kullandığınız, onsuz yapamayacağınız, ancak
+hiç düşünmediğiniz veya sahip olmaktan
+memnun olmadığınız bir şey hakkında bir hikaye anlatmak istiyorum. Size bunun hakkında birkaç şey
+söyledikten sonra bile ne olduğunu tahmin edebileceğinize inanmıyorum.
+
+Dünyanın en eski şeylerinden biridir, o kadar eskidir ki
+ilk ne zaman
+kullanıldığını kimse bilmez.
+
+Birçok insan, bunun buharlı gemilerin ve buharlı arabaların veya zeplinlerin ve denizaltıların
+icadından daha harika bir şey olduğunu düşünür.
+
+O kadar önemlidir ki onsuz hiçbir kitabınız olamazdı ve
+eğer kitap olmasaydı, okula gitmezdiniz ve o zaman
+öğrenmek istediğiniz her şeyi nasıl
+öğrenebilirsiniz?
+
+O kadar yaygındır ki onu görür, duyar ve günün neredeyse her dakikasında
+kullanırsınız.
+
+Yirmi altı farklı parçadan oluşur. Bunların ne olduğunu bana bir kalem veya boya kalemiyle
+öğretebilirsiniz. Onlarla konuşur, yazar ve okursunuz.
+Bu parçaları ayrı ayrı tutan veya gruplar halinde
+oluşturan ve
+sonra bunların benzerlerini kağıt üzerinde bırakarak bize kitap ve okunacak hikayeler veren makineler vardır.
+
+Şimdi korkarım size çok fazla şey anlattım! Bu yirmi altı küçük aletin ne olduğunu tahmin ettiniz mi? Biz onlara ne diyoruz ve sizin büyükbabanız, büyük büyükbabanız ve yüzlerce yıl önce yaşamış tüm insanlar da - _Alfabe_ diyorlardı.
+
+Daha önce Alfabenin bu kadar harika bir şey olduğunu hiç bilmiyordunuz, değil mi? Şimdi bununla ilgili hikayeyi duymak ister misiniz?
+
+Uzun, uzun zaman önce, denizin çok ötesinde olan Mısır adlı bir ülkede (haritanızda bulabilirsiniz ve bu sizin için daha da ilginç hale getirecektir)
+çok ilginç bir yazma biçimleri vardı. Bizim A, B, C gibi harfleri yoktu, ama bizim resim yazısı dediğimiz şeyi yapıyorlardı; yani, bugün yaptığımız gibi harf ve kelimeler yazmak yerine resimler çiziyorlardı. Yazıları buna benziyordu--
+
+[İllüstrasyon]
+
+Bu pek yazıya benzemiyor, değil mi? Bunun ne anlama geldiğini de bilmiyorsunuz, değil mi? Yine de o zamanki insanlar resim yazılarını bizim Alfabe yazısını okuyabildiğimiz kadar kolay okuyabiliyorlardı. Bu şekilde birbirlerine mesaj gönderiyor ve hatırlamak istedikleri şeyleri yazıyorlardı. O günlerde, uzun zaman önce, hiç kağıtlarının olmadığını biliyor musunuz? Sizce ne kullanıyorlardı? Resimlerini taşa, binaların duvarlarına ve bazen de tahtaya ve ağaç kabuklarına
+kesiyorlardı. Ayrıca, Mısır bataklıklarında yetişen kamışlardan yapılan papirüs adı verilen bir malzemeleri de vardı. Bu şekilde yazmalarının ne kadar uzun sürdüğünü ve bugün sizin ve benim için ne kadar daha kolay ve hızlı olduğunu düşünün!
+
+Mısır'ın kuzeyinde Fenike adında küçük bir ülke var. Haritanıza bakarsanız denizin bu ülkenin kıyılarına kadar geldiğini göreceksiniz. Fenike'de diğer ülkelerdeki insanların satın almak istediği birçok güzel şey vardı. Bu yüzden Fenikeliler büyük gemiler inşa ettiler ve onları güzel şeylerle doldurup yelken açtılar. Suyun
+karşısına geçtiklerinde Yunanistan adında bir ülkeye geldiler, Herkül ve Ulysses'in yaşadığını bildiğiniz ülke ve gemilerini burada boşalttılar. Elbette Fenikeliler Mısırlılardan öğrendikleri resim yazısını da yanlarında getirdiler. Bu sırada resimlerin çizilmesinin çok uzun sürdüğünü düşünmeye başladılar ve resimleri yavaş yavaş işaretlere dönüştürdüler, böylece daha kolay ve hızlı yazabiliyorlardı. Yani Yunanistan'a getirdikleri yazı, Mısırlılardan öğrendikleri resim yazısından oldukça farklıydı. Şöyle görünüyordu--
+
+[İllüstrasyon]
+
+Biz de bunu anlayamıyoruz, değil mi? Ama daha önce yazdıkları şekilden
+çok daha iyi olduğunu görebilirsiniz.
+
+Yunan halkı, Fenikelilerin beraberlerinde böylesine harika bir yazı
+yazma biçimi getirmelerinden çok mutluydu ve kısa süre sonra bunu kopyalamaya ve kendi ülkelerinde de kullanmaya başladılar. Fenikeliler kendi ülkelerine geri döndüklerinde Yunanlılar işaret yazısını kullanmaya devam ettiler, ancak
+değiştirdiler ve daha güzel hale getirdiler. Ona bir isim de verdiler ve ilk iki işaretin adlarıyla, "öküz" anlamına gelen _Alfa_ ve "ev" anlamına gelen _Beta_ olarak adlandırdılar. Bu iki kelimeyi, _Alfa_ ve _Beta_'yı bir araya getirirseniz,
+ne elde edersiniz? ALPHA-BET--bugün kullandığımız kelime.
+
+Yunanlılar maceracı bir halktı ve bir gün gemilerine binip Romalıların topraklarına gittiler, ki bu topraklar şu anda İtalya olarak adlandırılıyor. Bu yeni ülkeyi beğendiler ve bazıları oraya yerleşti. Tıpkı uzun zaman önce Fenikeliler gibi, yanlarında yeni Alfabelerini getirdiler. Romalılar büyük ve harikulade bir halktı, ancak Yunanlıların kullandığı işaretlerle yazmanın kolay yolunu bilmiyorlardı. Bu Alfabenin ne kadar güzel bir şey olduğunu hemen gördüler ve yazılarında da kullanmaya başladılar. İlk başta işaretleri tam olarak Yunanlıların yaptığı gibi yazdılar, ancak kısa süre sonra onları değiştirdiler ve daha basit ve daha iyi hale getirdiler.
+
+BÖLÜM II
+
+Alfabenin hikayesini çok uzun zaman önce Mısır'da başladığı zamandan Romalılara geldiği zamana ve resimlerden işaretlere ve en sonunda işaretlerden Alfabenin harflerine nasıl dönüştüğüne kadar biliyorsunuz. Ayrıca, insanların papirüs, tahta ve taştan daha iyi bir
+malzemeye sahip olmadıkları o günlerde yazmanın ne kadar zor olduğunu da biliyorsunuz. Bu çok, çok uzun zaman önceydi. Romalılar zamanından bu yana yazının başına gelenler ve Alfabe'nin Avrupa ülkelerindeki seyahatleri sırasında meydana gelen
+değişimler hakkında bir hikaye duymak ister misiniz?
+
+Önemli olan ilk büyük şey, üzerine yazılacak
+yeni bir malzemenin keşfiydi. Sizce neydi? Koyun ve dana derileri! Bu bize garip geliyor ve bugün kullandığımız kağıdı daha çok seviyoruz, ancak düşünün ki
+bu keşif o zamanlar ne kadar büyük bir gelişmeydi ve
+kalem ve mürekkeple
+derinin pürüzsüz yüzeyine yazmanın ne kadar daha kolay
+olduğunu. İtalya hariç tüm ülkelerde bu yazı malzemesi değişikliği
+yazı stilinde de bir değişikliğe yol açtı. Sadece Romalılar
+her zaman kullandıkları basit yazı biçimini korudular ve derilere yazarken bunu
+değiştirmediler. Diğer Avrupa ülkeleri
+bu stili giderek değiştirmeye ve harfleri daha sivri,
+daha kalın ve daha siyah ve bazı durumlarda daha ayrıntılı hale getirmeye başladılar. Bu yazı stiline
+Gotik denirdi. Bu iki alfabe arasındaki farkı görüyor musunuz?
+
+[İllüstrasyon]
+
+Alfabe henüz bu ülkelerde yeterince uzun süre kalmamıştı ki tüm insanlar yazmayı
+öğrenebilsin. Harfleri çok az kişi biliyordu ve tüm yazı elle yazıldığı için, bütün bir
+kitabın yazılması uzun zaman aldı. Yazılan birkaç kitap o kadar değerliydi ki kiliselere ve manastırlara zincirlendiler ve insanların bunları sadece orada okumasına izin verildi. Sonunda Almanya'da Gutenberg adında bir adam daha fazla kitap yapmanın ve onları daha hızlı yapmanın bir yolunu düşündü. Ve bu
+yol baskıydı. Alfabe farklı ülkelere yayıldığı gibi, bu yeni yazı biçimi de yayıldı, ta ki
+Avrupa'nın tüm insanları baskı makineleri kullanıp birçok kitap yapana kadar.
+
+Almanya'da yazı elle yapıldığında Gotik harfler kullanılmıştı ve Gutenberg ilk kitabı basarken bu stili kopyaladı.
+Baskı sanatı farklı ülkelere yayıldığında, Gotik alfabesi elbette onunla birlikte geldi ve doğru harf stili olarak kabul edildi. Ancak
+Romalılar hala kendi Alfabelerinin daha iyi olduğuna inanıyorlardı ve
+baskı tiplerini Roma modeline göre
+kesiyorlardı. Böylece farklı ülkeler arasında hangi Alfabenin, yani Roma veya Gotik'in
+kullanılacağı konusunda büyük bir tartışma
+başladı. İtalya'da Manutius adında bir adam, tüm
+matbaacıların kullanacağı bir harf yaparak tartışmayı çözmeye çalıştı ve kendi
+harflendirme stiline İtalik adını verdi. Gotik ve
+Romen harflerini kullanan matbaacılar da bu İtalik harfleri kullandılar, ancak
+kendi stillerinden vazgeçip tamamen İtalik kullanmaya yanaşmadılar.
+
+Bugün Alfabeyi görmeye ve kullanmaya o kadar alıştık ki
+harflerin şu anki gibi görünmesinin nedenini hiç kendimize sormuyoruz. Ünlü bir Alman sanatçı olan Albert Duerer tarafından yapılmış Gotik harflerden oluşan güzel bir Alfabeyi gösteren
+Resim 1'e bakın. Hepsi birbirinden tamamen farklı yirmi dokuz tane var, ancak yine de hepsinin büyük bir ailede kardeş olduğunu
+görebilirsiniz. Bunun nasıl ortaya çıktığını merak ediyor musunuz? Resim 2'ye bakın ve
+öğreneceksiniz. İlk harf _i_, bir dizi küçük karenin belirli bir şekilde bir araya getirilmesiyle yapılır. Diğer harflerin bu _i_ harfinden nasıl yapıldığını görebiliyor musunuz? - _n_ harfi iki _i_'nin bir araya getirilmesiyle yapılır; _m_, üç _i_ ve _r_, bir _i_ ve en üstte fazladan bir kare. Alfabenin geri kalanını inceleyin ve nasıl yapıldığını bulmaya çalışın.
+
+Şimdi aynı sanatçının Roma harflerinden esinlenerek yaptığı başka bir Alfabeyi gösteren III, IV, V, VI ve VII. Levhalara bakın. Bunların belirli bir kurala ve orana göre yapıldığını
+ve Alfabesini yaparken bunları kullandığını gördü. Burada desenin büyük bir kare olduğunu ve harflerin bunlara çok dikkatli bir şekilde çizildiğini görüyorsunuz. Alfabenin yapımında bir ev inşa etmek kadar hesaplama ve ölçüm yapıldığını biliyor muydunuz? Örneğin _E_ harfine ve onu yapmak için ölçülen ve çizilen tüm dairelere ve karelere bakın. Her harfin aynı şekilde dikkatlice yapıldığını göreceksiniz.
+
+İşte III. Tabloda gördüğünüz üç _A_. Bunların
+birbirlerine tam olarak benzemediğini göreceksiniz. Aralarındaki farkı görebiliyor musunuz?--_A_,
+1, üstte bir eğriyle kesilmiş, _A_, 2, sivri bir
+noktayla düz bir şekilde yukarı doğru gidiyor ve _A_, 3, düz kesilmiş. Harflerin kalınlığındaki farkı da fark ediyor musunuz?
+
+[İllüstrasyon]
+
+Bu Alfabedeki diğer harflere bakın (Tablo III, IV, V, VI ve
+VII) ve bana _A_'lar hakkında anlattığım şekilde anlatıp anlatamayacağınıza bakın.
+
+Uzun, uzun yıllar boyunca, farklı ülkelerdeki matbaacılar, sanatçıların kendileri için yaptığı
+Alfabeleri kullandılar, ancak hangisini en çok beğendikleri konusunda karar veremediler: Roma, Gotik veya İtalik. Tablo VIII'de, Shakespeare'in bu üç Alfabede basılmış küçük bir şiirini bulacaksınız.
+Hangisini en çok beğeniyorsunuz? Eminim ki
+en basit, okunması en kolay ve aynı zamanda en güzel olanı seçeceksiniz - Roma alfabesi. Uzun yıllardır süren kavgada, Roma alfabesi zafer kazandı ve böylece Roma alfabesi bugün tüm gazete ve kitaplarımızın basımında kullanılıyor. Sonunda, yüzlerce yıl sonra diğer ülkelerden bize ulaştı. Çoğu zaman harfleri tanıyamazsınız ve
+modellendikleri Roma modellerinden çok farklı görünürler,
+ama bunun nedeni, ölçüler ve oranlar konusunda Albert Duerer ve o zamanlar diğer Üstatlar kadar dikkatli olmamamızdır.
+
+BÖLÜM III
+
+Artık Alfabenin başlangıcını, nasıl dikkatlice planlandığını ve yapıldığını ve sonunda bu kadar yıl sonra
+bugün sahip olduğumuz şekilde nasıl kullanıldığını biliyorsunuz. Albert Duerer'in Roma harflerinden oluşan Alfabesini yaptığında her harfin birden fazla biçimini yaptığını hatırlıyor musunuz? Örneğin üç tane _A_ vardı. Bunu neden yaptığını bilmek ister misiniz? IX. Levha size uzun zaman önce İspanyol bir sanatçı olan Francisco Lucas tarafından yapılmış iki farklı Alfabe türünü gösteriyor. Bu Levhanın üst kısmındaki İtalik büyük harflere bakın. Aynı harflerin iki farklı biçimi olduğunu kolayca görebilirsiniz, değil mi? Ama şimdi küçük harflere bakın. Her harften hala iki örnek olduğunu görüyorsunuz, ama o kadar benzerler ki, iki biçim arasındaki farkı görmek için çok dikkatli bakmanız gerekecek. Sizce bu sanatçı bu harfleri bu kadar benzer ama yine de farklı yapmak için neden bu kadar zahmete girdi? Bunun iyi bir nedeni olmadığı sürece çok garip bir şey olacağını düşünmüyor musunuz? Levhanın alt kısmına bakın ve küçük Roma harflerinin de iki farklı biçimi olduğunu göreceksiniz. Şimdi XV. Ders'e geri dönün. _a_ biçimi için büyük harf ve _b_ biçimi için küçük harf kullanarak "_İkili Şifre_" ifadesinin içine "_anahtar_" kelimesini gizleyebildiğinizi görüyorsunuz. Bunun bir sırrı gizlemenin iyi bir yolu olmadığını
+kolayca görebilirsiniz, çünkü büyük ve küçük harfler arasındaki fark sadece kolayca görülemez,
+aynı zamanda o kadar garip görünür ki ilk fark ettiğiniz şey olur. Şimdi varsayalım ki
+_a_ biçimi için büyük harf ve _b_ biçimi için küçük harf kullanmak yerine
+Alfabenin her harfi için, hem büyük hem de küçük, çok benzer ama yine de farklı olan iki biçim kullandınız. Aşağıdaki
+satırda--
+
+[İllüstrasyon]
+
+aynı "_İkili Şifre_" ifadesini görüyorsunuz, ama size garip gelmiyor, değil mi? Yine de, dikkatlice incelerseniz,
+ilk _i_'nin ikinciden farklı olduğunu ve
+"_Biliteral_"daki ilk _l_'nin ikinci _l_'den farklı olduğunu göreceksiniz. Bu zamana kadar, burada olduğu gibi "_Biliteral Cipher_" ifadesinin de
+gizli bir kelime içerdiğini tahmin etmişsinizdir. Kelime "_the_"dir. Bu ifade, IX. Levhanın üst kısmında gördüğünüz ve birkaç yüz yıl önce bunları kullanan matbaacılar tarafından "_doubles_" olarak adlandırılan iki harf biçimi kullanılarak "_the_" kelimesini içerecek şekilde yapılmıştır. Şimdi bu iki biçimin ne kadar önemli olduğunu görmeye başlıyor musunuz?
+
+VIII. Levhadaki İtalik alfabesiyle yazılmış küçük Shakespeare şiirine tekrar bakın. Artık _çiftler_ hakkında bilginiz olduğuna göre, gözlerinizi
+kullanmayı öğrendiyseniz, bu şiirin içinde de bir sır sakladığımızı görebilirsiniz. Bunun ne olduğunu bilmek ister misiniz? Size dizeyi _çözmenizi_ kolaylaştıracak _Sınıflandırıcı_ adı verilen şeyi vererek bunu çözmenize yardımcı olacağız. X Levhasında bulacağınız bu Sınıflandırıcıda, IX. Levhada gördüğünüz aynı İtalik harfler, tüm _a_ biçimli harfler gölgeli kısmın üstünde ve tüm _b_ biçimli harfler altta olacak şekilde düzenlenmiştir. Şimdi bu sayfanın tamamını koparır ve bu gölgeli kısımları dikkatlice keserseniz, bu sayfayı şiirin satırlarının üzerine italik harflerle yerleştirebilirsiniz. Bu, şiirin harflerinin hangi biçime ait olduğuna karar vermenize yardımcı olacaktır. Sınıflandırıcıyı şiirin üzerine yerleştirin, böylece ilk harf, _Have_'in büyük =H='si, Sınıflandırıcıda _a_ formu ile _b_ formu büyük =H= arasında olur. _Have_'in bu büyük =H='sinin _a_ formu olduğunu göreceksiniz. Şimdi Sınıflandırıcının altına size daha fazla yardımcı olacak bir şey
+yerleştirilmiştir. Şiirin tüm kelimeleri
+bölünmüş ve beş harfli gruplara yerleştirilmiştir. _Have_'in =H='sinin _a_ formuna ait olduğuna karar verdiğimizden, ilk beş harfli gruptaki =H='nin altına bir _a_
+yerleştirdik. Şimdi Sınıflandırıcıyı, _Have_'deki =a='nin Sınıflandırıcıda _a_ formu =a= ile _b_ formu =a= arasına gelecek şekilde hareket ettirin. Bu harfin de _a_ formuna ait olduğunu göreceksiniz. Aynısını bu ilk grubun geri kalan harflerine de yaparsanız hepsinin _a_ biçiminde
+harfler olduğunu göreceksiniz. Peki beş _a_'dan oluşan bir grup Alfabenin hangi harfini temsil ediyor?--=A=, öyle değil mi? Öyleyse sırrımızdaki ilk harf =A=. Şimdi
+Sınıflandırıcıyı şiirin geri kalan harflerinin üzerine yerleştirin ve
+ilk grupta sizin için yaptığımız gibi hangi biçime ait olduklarına bakın. Eğer
+işinizi dikkatlice yaparsanız gizli sırrı bulacaksınız.
+
+Eğer "_İkili Şifre_"de bir kelimeyi ve kısa bir şiirde bir cümleyi gizleyebiliyorsak, bütün bir hikayenin bir kitabın içinde bu kadar dikkatlice nasıl gizlenebileceğini ve uzun, uzun yıllar boyunca keşfedilemeyeceğini görmüyor musunuz?
+
+Helen Louise Ricketts
+
+[İllüstrasyon: TABLO I
+
+ALPHABET, ALBERT DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO II
+
+ALPHABETİN YAPISI]
+
+[İllüstrasyon: TABLO III
+
+ALPHABET, yapılışıyla: A. DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO IV
+
+ALPHABET, yapılışıyla: A. DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO V
+
+ALPHABET, yapılışıyla: A. DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO VI
+
+ALPHABET, yapılışıyla: A. DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO VII
+
+ALFABE, yapısıyla: A. DUeRER (M.S. 1525)]
+
+[İllüstrasyon: TABLO VIII
+
+Gösterdiğinden fazlasına sahip ol,
+Bildiğinden az konuş,
+Borcundan azını ödünç ver,
+Attığından fazla öğren,
+Attığından azını koy.
+--SHAKESPEARE.
+]
+
+[Resim: TABLO IX
+
+İTALİK ALFABE, FRANCISCO LUCAS
+
+ROMAN ALFABE, FRANCISCO LUCAS]
+
+[Resim: TABLO X
+
+İKİ BİÇİMLİ ALFABE SINIFLANDIRICI
+
+Lucas Alfabeleriyle Kullanım İçin, 1577
+
+_a_ gölgeli kısımların üstünde, _b_ aşağıda
+
+TEKLİF HAKKI, 1916. GEORGE FABYAN
+
+GÖLGELİ KISMINI KESKİN BIÇAKLA KES
+
+TRANSKRİPSİYON
+
+Havem oreth antho ushow estSp eakle sstha nthou knowe
+aaaaa
+A
+
+stLen dless thant houow estLe arnmo retha nthou trowe
+
+stSet lesst hanth outhr owest Shake spear e]
+
+Yazıcının Notları:
+
+İtalik yazılan pasajlar _italik_ ile gösterilir.
+
+Kalın yazılan pasajlar =bold= ile gösterilir.
+
+Dorothy Crain'in yazdığı Gutenberg'in Küçük İnsanlar İçin Şifreleri Projesi'nin sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK CIPHERS FOR THE LITTLE FOLKS ***
+
+***** This file should be named 39149.txt or 39149.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/9/1/4/39149/
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

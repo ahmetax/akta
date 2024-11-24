@@ -1,0 +1,839 @@
+*** START OF AKTAHEADER ***
+Başlık: The Microscope (Mikroskop)
+Yazar: Andrew Ross
+Yayın Tarihi: January 31, 2013 [EBook #41958]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/41958
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Microscope, by Andrew Ross
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Microscope
+
+Author: Andrew Ross
+
+Release Date: January 31, 2013 [EBook #41958]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MICROSCOPE ***
+
+*** START OF TURKISH PART ***
+Chris Curnow, Matthew Wheaton ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu
+dosya The Internet Archive tarafından cömertçe
+sağlanan resimlerden üretilmiştir)
+
+MİKROSKOP.
+
+MAKALENİN KATKIDA BULUNDUĞU
+
+ANDREW ROSS
+
+"PENNY CYCLOPAEDIA" İÇİN, YARARLI BİLGİNİN YAYILMASI İÇİN TOPLUM TARAFINDAN YAYIMLANMIŞTIR.
+
+TAM OLARAK RESİMLENDİRİLMİŞTİR.
+
+NEW YORK:
+ENDÜSTRİYEL YAYIN ŞİRKETİ.
+1877.
+
+MİKROSKOP.
+
+Mikroskop, gözün kendisinden çok kısa bir mesafede bulunan nesneleri belirgin bir şekilde
+görmesini veya küçük nesnelerin büyütülmüş görüntülerini görmesini ve dolayısıyla
+aksi takdirde görülebilecek olandan daha küçük nesneleri görmesini sağlayan bir aletin adıdır. İsim, bu özelliği ifade eden iki Yunanca kelimeden türetilmiştir: MIKROS, _küçük_ ve SKOPEO, _görmek_.
+
+Mikroskobun erken tarihi hakkında çok az şey biliniyor ve merceklerin büyütme gücünün mercekler yapılır yapılmaz keşfedilmiş olması gerektiği o kadar kesin ki, keşif sorusuyla ilgili şüpheli spekülasyonlara girmek için hiçbir neden yok. Bu nedenle, mikroskopların en basit biçimlerini hemen tarif etmeye, daha sonraki ve daha önemli gelişmelerini açıklamaya ve son olarak aleti şu anki mükemmel haliyle sergilemeye devam edeceğiz.
+
+Bunu yaparken, okuyucunun bu çalışmada ele alınan "Işık", "Mercek", "Akromatik", "Sapma" ve Optik biliminin diğer alt bölümlerinde yer alan bilgilere aşina olduğunu varsayacağız.
+
+_Büyütme_ teriminin kullanımı, birçok kişiyi dışbükey merceklerin ürettiği etkinin doğası hakkında yanlış bir anlayışa sürüklemiştir. Bir mikroskopta olduğu gibi göze uygulanan bir merceğin sözde büyütme gücünün, gözün nesnesine aksi takdirde farklı bir görüşle uyumlu olacağından daha fazla yaklaşmasını sağlamasından kaynaklandığı her zaman anlaşılmaz. Bir banknotu okumak için caddeden karşıya geçmenin yaygın bir şekilde gerçekleşmesi, aslında banknotu yaklaşarak büyütmektir; ve gözlemci, attığı her adımda, kendisiyle sorguladığı nesne arasındaki azalan mesafeye uyum sağlamak için gözünün optik düzenlemesinde bir değişiklik yapar. Bu kendiliğinden ayarlama gücü o kadar bilinçsizce kullanılır ki, koşullar tarafından dikkat çekilmediği sürece, bu uygulamanın tamamen farkında olmayız. Az önce bahsedilen durumda, fatura, sokağın karşı tarafında keşfedildiği zamandan çok farklı bir uyum durumundaki gözlerle okunacaktır, ancak bu gerçeğin zihnimizde hiçbir inancı olmayacaktır. Ancak, sözde birey, kağıdın bir yerinde, minik bir böcek olduğundan şüphelendiği küçük bir nokta algılarsa ve şüphesini doğrulamak amacıyla gözünü çok yakından yaklaştırmaya çalışırsa, doğal uyum gücünün bir sınırı olduğunu hemen anlayacaktır; çünkü gözü yaklaşık on inç yakınına geldiğinde, daha fazla yaklaşmanın sadece karışıklığa yol açtığını keşfedecektir. Ancak, yaklaşmaya devam ederken, gözünün önüne bir dizi düzgün şekilde düzenlenmiş dışbükey mercek yerleştirirse, nesnenin yalnızca yaklaşma işleminin devam etmesiyle görünür boyutunun kademeli ve belirgin bir şekilde arttığını görecektir. Ancak, on inçten bir inçe yaklaşırken göze uygulanan gözlükler, gözün daha önce elli feetten bir feete yaklaşırken yaptığından daha fazlasını yapmamış olurdu. Her iki durumda da büyütme
+gerçekten yaklaşma tarafından etkilenir, mercekler yalnızca yaklaşmanın sonraki dönemlerini belirgin görüşle uyumlu hale getirir.
+
+Bu ifadenin çok çarpıcı bir kanıtı, aşağıdaki basit ve öğretici deneyle elde edilebilir. Herhangi bir küçük nesneyi, örneğin bir iğneye tutturulmuş veya bir cam parçasına yapıştırılmış çok küçük bir böceği alın; sonra onu güçlü bir ışığa tutun ve yaklaşık bir inç önüne yerleştirilmiş kararmış bir karttaki en ince iğne deliğinden bakın. Böcek oldukça belirgin ve normal boyutundan yaklaşık on kat daha büyük görünecektir. Sonra aniden nesneyi rahatsız etmeden kartı çekin, nesne anında belirsiz ve neredeyse görünmez hale gelecektir. Bunun nedeni, çıplak gözün bir inç kadar küçük bir mesafeden görememesidir. Ancak deliği olan kart, gözün bir inç yakınına yaklaşmasını ve o mesafeden net bir şekilde görmesini sağladığından, herhangi bir mercek veya mercek kombinasyonu kadar kesinlikle bir büyüteç aracı olduğu kanıtlanmıştır. Büyütme gücünün bu tanımı, nesnenin kendisine değil, gölgesine veya duvardaki resmine baktığımız güneş veya gaz mikroskobu gibi araçlar için geçerli değildir; ve
+tanımlama, bileşik mikroskopta olduğu gibi, bir görüntünün veya resmin bir mercek tarafından oluşturulduğu, bu görüntünün veya resmin başka bir mercek tarafından orijinal bir nesne olarak
+görüldüğü
+mikroskopta bazı değişiklikler gerektirecektir.
+
+Yine de, göze uygulanan bir merceğin ürettiği etkinin gerçek doğası hakkında net bir fikir edinmek o kadar önemlidir ki, konuyu daha aşina hale getirmek için gözlük örneğini kullanacağız.
+Bir faturayı okumak amacıyla caddeyi geçmesi gereken kişi yaşlı olsaydı, ayarlama gücünün sınırı daha uzak bir mesafede ve
+sözde böcek kadar
+sert bir test olmadan keşfedilebilirdi. Çok
+yaşlıların gözleri genellikle on yerine otuz veya kırk inçlik bir mesafede ayarlama gücünü kaybeder ve bunun sonucunda takılan gözlükler onlar için en küçük nesneleri incelemek için daha genç gözlerin kullandığı mercekler kadar büyüteçtir. Gözlükler yaşlılar için büyüteç görevi görür çünkü bu kişilerin
+nesnelerine gençler kadar yakından bakabilmelerini ve bu nedenle nesneleri kendilerinin görebileceğinden daha büyük, ancak
+yardımsız genç gözün gördüğünden daha büyük görmemelerini sağlar.
+
+Bir nesnenin bir anda veya bir kişiye bir başkasından daha büyük göründüğünü söylerken, yanlış anlaşılmaya karşı dikkatli olmak gerekir.
+Bir nesnenin
+görünen boyutuyla, göze düşen açıyı veya
+gözün merkezinden nesnenin uçlarına çizilen iki çizginin oluşturduğu açıyı kastediyoruz. Şekil 1'de, oktan göze çizilen A E ve B E çizgileri, açı küçük olduğunda, benzer bir oktan iki kat daha uzakta çizilen çizgilerle oluşturulan C E D açısından neredeyse iki kat daha büyük olan A E B açısını oluşturur. Bu nedenle A B oku C D'den neredeyse iki kat daha uzun görünecek, iki kat daha fazla açıyla ve daha büyük veya daha küçük mesafe farklarında aynı oranda görülecektir. Söz konusu açıya görüş açısı veya görsel açı denir.
+
+[Resim: Şekil 1.]
+
+Ancak görüş açısı, bir nesnenin
+görüldüğü ve Şekil 2'de açıklanan ışık kaleminin açısıyla karıştırılmamalıdır. Burada daha önce olduğu gibi göze göre yerleştirilmiş iki ok çizdik ve her birinin merkezinden her noktanın göze ilgili mesafelerde göndereceği ışık miktarını gösteren çizgiler çizdik.
+
+[Resim: Şekil 2.]
+
+Şimdi eğer E F göz bebeğinin çapını temsil ediyorsa, E A F açısı göze A noktasından giren ışık konisinin veya kalemin boyutunu gösterir ve benzer şekilde E B F açısı da B'den çıkan ve göze giren kalemin açısıdır. O zaman, E A F iki kat E B F olduğundan, A'nın B'deki eşit şekilde aydınlatılmış bir noktadan alınabilecek ışığın dört katı kadar ışıkla
+görüldüğü açıktır; böylece daha yakın olan cisim daha büyük görünmese daha parlak görünecektir; ancak görünür alanı ve ışığı dört kat arttığından, bu açıdan hiçbir fark keşfedilmemiştir. Ancak, örneğin G A H çizgileriyle gösterilen gibi, göze daha büyük bir ışık kalemi göndermenin bir yolunu bulabilirsek, aynı oranda görünür boyutu artırmadan, artan büyüklükten tamamen farklı bir fayda elde etmemiz gerektiği açıktır ve bu fayda, incelemek istediğimiz şeyin yapısını geliştirmede bazı durumlarda boyuttan bile daha önemlidir. Bunun, bundan sonra bazen yapıldığı gösterilecektir; şimdilik, yalnızca görünür büyüklük veya nesnenin görüldüğü açı ile görünür parlaklık veya her bir noktasının görüldüğü ışık kaleminin açısı arasındaki farkı açıkça açıklamak istiyoruz ve bu açıklamalarla birlikte yaygın ifadeler olan büyüteç ve büyütme gücü ifadelerini kullanmaya devam edeceğiz. [Resim: Şekil 3.]
+
+Tek bir merceğin büyütme gücü, odak uzaklığına bağlıdır,
+nesne aslında neredeyse ana odağında veya öyle bir şekilde yerleştirilmiştir
+ki her noktadan ayrılan ışık, mercek tarafından kırıldıktan sonra göze paralel çizgiler halinde veya belirgin görüş için gerekli olduğu kadar yakın bir şekilde ilerleyebilir. Şekil 3'te, A B çift dışbükey mercektir,
+yakınında incelenen nesneyi temsil eden küçük bir ok vardır
+ve uçlarından çizilen koniler, bu noktalardan ayrılan ve merceğe düşen ışık ışınlarının parçalarıdır. Bu ışınlar, eğer hemen göz bebeğine düşmeye bırakılırsa, gözün optik düzenlemeleri tarafından retinaya odaklanmalarına izin
+vermeyecek kadar
+ayrık olacaktır. Ancak önce
+mercekten geçirildiklerinde, neredeyse paralel çizgilere veya
+belirgin görüş sınırları içindeki bazı noktalardan ayrılan çizgilere, örneğin
+C ve D'den bükülürler. Böylece değiştiğinde, göz bunları tam olarak,
+gözden on inç uzakta olduğunu varsayabileceğimiz C D'ye yerleştirilmiş daha büyük bir oktan
+çıkmış gibi alır ve sonra gerçek ve hayali ok arasındaki farka söz konusu merceğin büyütme gücü denir.
+
+Söylenenlerden,
+belirgin görüş elde ettikleri mesafe açısından farklı olan iki kişinin,
+merceğin büyütme gücü açısından farklı sonuçlar vereceği açıktır.
+Çıplak gözle beş inç mesafeden net bir şekilde görebilen birine, büyütme gücü varsaydığımızın sadece yarısı gibi görünür ve gerçekten de öyle olur. Ancak, bu tür durumlar nadirdir; Gözün odak uzaklığı genellikle altı ila on iki veya on dört inç arasındadır, bu nedenle ilk başta varsaydığımız on inçlik mesafe gerçek ortalamaya çok yakındır ve bir merceğin odak uzaklığını ifade eden kesrin paydasına eklenen bir şifrenin büyütme gücünü vermesi nedeniyle kullanışlı bir sayıdır. Bu nedenle, odak uzaklığı bir inçin on altıda biri olan bir merceğin 160 kat büyüttüğü söylenir.
+
+Bir merceğin odak uzaklığı çok küçük olduğunda, merkeziyle nesnesi arasındaki mesafeyi doğru bir şekilde ölçmek zordur.
+Bu gibi durumlarda, paralel veya neredeyse paralel ışınlar için odak uzaklığını elde etmenin en iyi yolu, söz konusu merceğin oluşturduğu uzak bir nesnenin görüntüsünü, bir inçlik güneş odak uzaklığına sahip başka bir mercekten izlemek, her iki gözü açık tutmak ve iki mercekten gelen görüntüyü çıplak gözle karşılaştırmaktır. Böylece görülen iki görüntü arasındaki oran, gereken odak uzaklığı olacaktır. Bu nedenle
+çıplak gözle görülen görüntü, merceklerin gösterdiğinden on kat daha büyükse, söz konusu merceğin odak uzaklığı bir inçin onda biridir. Bir penceredeki cam levhalar veya bir duvardaki tuğla sıraları bu amaç için uygun nesnelerdir. Merceğin odak uzaklığı hangi şekilde belirlenirse belirlensin, büyütme gücünü çıkarmak için verilen kurallar kesin olarak doğru değildir, ancak tüm pratik amaçlar için yeterince doğrudur, özellikle de bütünün gözün odak uzaklığıyla ilgili bir varsayıma dayanması ve nesnenin gerçek ölçümünü hiçbir şekilde etkilememesi nedeniyle. Belirli bir odak uzaklığına sahip bir merceğin büyütme gücünü büyük bir hassasiyetle hesaplamak için merceğin kalınlığının ve ayrıca gözün odak uzaklığının hesaba katılması gerekir. Şimdiye kadar bir büyüteç merceğini yalnızca nesnenin büyütülmesi veya nesnenin görüldüğü açının artması açısından ele aldık. Bir diğer ve eşit derecede önemli olan husus, nesnenin her noktasının görünür hale getirildiği ışın sayısı veya ışık miktarıdır. Şekil 2'de gösterildiği gibi çıplak göz, her görünür nesnenin her noktasından, tabanı göz bebeği çapında bir ışık konisi kabul eder ve çoğu kişi, aşırı parlaklık durumlarında göz bebeğinin kendiliğinden büzülerek kabul edilen ışık konisini katlanılabilir sınırlara indirdiği o güzel düzenlemeye aşinadır. Bu etki, daha önce açıklanan, bir nesneye bir karttaki iğne deliğinden bakma deneyinde daha da üretilir; bu, göz bebeğini bir iğne deliği boyutuna indirmeye eşdeğerdir. Bu şekilde görülen nesne, nispeten karanlık veya belirsiz hale gelir; çünkü her nokta, çok küçük bir ışık konisi aracılığıyla görülür ve iğne deliği ile mercek tarafından üretilen farklı etkileri açıklamak için biraz düşünmek yeterli olacaktır. Her ikisi de göze sunulan ışık konisinin açısal değerini değiştirir, ancak mercek, belirgin görüşe uygun sınırlar içinde aşırı ışınları bükerek açıyı değiştirirken, iğne deliği, bu sınırları aşan ışınları keserek aynı amaca ulaşır. Parlak bir nesneyi daha uzak bir mesafeye kaldırmanın, her noktanın göze gönderdiği ışık miktarını, onu bir iğne deliğinden görmek kadar etkili bir şekilde azaltacağı gösterilmiştir; ve bir nesneyi bir mercekle büyütmenin, onu daha uzak bir mesafeye kaldırmakla bazı açılardan aynı şey olduğu gösterilmiştir. Büyütülmüş resmi, küçük nesneden yayılan ışıkla görmemiz gerekir ve her noktadan büyük bir büyütme gücünün yayılımını kaldıracak yeterli miktarda ışık elde etmek zor bir konu haline gelir. İğne deliği olan kartı göze uygulamanın tam tersi bir işlem yapmak istiyoruz - bazı durumlarda nesnenin her noktasından göze mümkün olan en büyük ışık kalemini getirmek istiyoruz. Şekil 3'e bakıldığında, göz merceğin müdahalesi olmadan gösterilen mesafedeki küçük oku görebilseydi, uçlarından çekilen ışık konilerinin yalnızca çok küçük bir kısmının göz bebeğine gireceği gözlemlenecektir; oysa mercek tarafından büküldükten sonra bu ışığın tamamının göze, zirveleri C ve D'de olan daha küçük açılı konilerin bir parçası olarak girdiğini varsaydık. Bu koniler, büyük ve küçük ışık kalemleri arasındaki farkı daha da açıklayacaktır; küçük oktan gelenler büyük kalemlerdir; büyük oktan gelen noktalı koniler küçük kalemlerdir. Bu ışığın tamamının göze A B merceğinden girebileceğini varsayarak, okuyucuyu aynı anda çok fazla düşünceyle şaşırtmamak için bunu yaptık. Artık tek bir mercekten geçen bu kadar büyük bir ışık kaleminin merceğin küresel şekli ve camın kromatik dağılımı tarafından çok
+karmaşık ve kusurlu bir görüntü üretecek şekilde çarpıtılacağını öğrenmesi gerekir. Bu karışıklık, örneğin, göze uygulanan iğne deliğinden ne daha fazla ne de daha az olan merceğe bir durdurma uygulanarak, kalemin küçültülmesiyle büyük ölçüde azaltılabilir. Küçük bir ışık kalemi, küresel sapma veya renk dağılımından veya nesnenin şeklini maddi olarak etkileyecek herhangi bir bozulma miktarından etkilenmeden tek bir mercekten geçirilebilir; ancak bu ışık miktarı, büyütülmüş resmin üzerine yayılmaya dayanacak kadar yeterli değildir; bu nedenle, en çok görmek istediğimiz şeyi -bir tür organik maddenin diğerinden ayırt edildiği o güzel ve narin işaretleri- sergilemek için çok belirsizdir. Küçük bir açıklıkla bu işaretler hiç görülmez: büyük bir açıklık ve tek bir mercekle, renk sisi içinde belirsiz, belirsiz bir görünüm sergilerler; bu durum, doğa bilimci için elbette tamamen değersizdir ve amatör için bile eğlenceli değildir. Bu nedenle, büyük bir açıklığı belirginlikle veya _tanımlama_ olarak adlandırıldığı gibi _tarifle_ uzlaştırmak çok önemli bir sorun haline gelir; ve
+bu, bir yerine iki veya daha fazla mercekle gerekli kırılma miktarının sağlanmasıyla önemli ölçüde yapılmıştır, böylece
+geliş ve kırılma açıları azaltılmış ve kısa süre sonra fark edilecek diğer
+etkiler üretilmiştir. Bu ilk olarak
+tatmin edici bir şekilde--
+
+DR. WOLLASTON'S DOUBLET,
+
+adını taşıdığı ünlü filozof tarafından icat edilmiştir;
+
+odak uzunlukları 1'e 3 veya buna yakın oranda olan ve gerçek deneyle en iyi şekilde
+tespit edilebilecek bir mesafeye yerleştirilmiş iki plano-konveks mercekten (Şekil 4) oluşur. Düzlemsel kenarları nesneye doğru yerleştirilir ve en kısa odak uzunluğuna sahip mercek nesnenin yanındadır.
+
+[Resim: Şekil 4.]
+
+Görünüşe göre Dr. Wollaston, bundan sonra
+tanımlanacak olan Akromatik Huyghenean Göz Merceğinin, ters çevrildiğinde basit bir mikroskopla benzer iyi özelliklere sahip olacağını düşünerek bu icada yönelmiş. Ancak göz merceği anlaşıldığında, onu akromatik kılan koşulların basit mikroskop için çok
+eksik bir şekilde uygulanabilir olduğu ve
+durdurucunun güzel bir şekilde ayarlanmadığı takdirde dublenin değersiz olacağı açıkça görülecektir. Dr. Wollaston bir durağa atıfta bulunmuyor ve onu tanıtmayı düşündüğü kesin değil, ancak makalesini sunduktan kısa bir süre sonra ölümcül şekilde sonlanan hastalığı bu ihmali açıklayabilir.
+
+Dublette gerçekleşen düzeltmelerin niteliği ekteki diyagramda (Şekil 5) açıklanmıştır, burada L O L' nesnedir,
+P göz bebeğinin bir kısmıdır ve D D durak veya sınırlayıcı açıklıktır.
+
+Şimdi, nesnenin L L' uçlarından gelen ışık kalemlerinin her birinin durak tarafından eksantrik hale getirildiği ve sonuç olarak her birinin ortak eksenleri O P'nin zıt taraflarındaki iki mercekten geçtiği gözlemlenecektir; böylece her biri zıt hatalardan etkilenir ve bunlar bir dereceye kadar birbirlerini dengeler ve düzeltir.
+Örneğin, göze R B, R B'den giren L kalemini ele alalım; ilk mercekte sağa, ikinci mercekte sola doğru bükülmüştür;
+ve her bükülme mavi ışınların yönünü kırmızıdan daha fazla değiştirdiğinden ve dahası, mavi ışınlar ikinci merceğin kenarına daha yakın düştüğünde, kırılma merkeze yakın olduğundan daha güçlü olduğundan, ikinci merceğin daha büyük odak uzaklığını bir dereceye kadar telafi ettiğinde, mavi ve kırmızı ışınlar neredeyse paralel olarak ortaya çıkacaktır ve sonuç olarak göze renksiz gelecektir. Aynı zamanda, küresel sapma, kalemin eksene en yakın olan bir merceği geçen tarafının kenara en yakın olan diğerini geçmesi koşuluyla azaltılmıştır.
+
+Bu açıklama yalnızca nesnenin uçlarına yakın olan kalemler için geçerlidir. Ortadaki kalemin, her iki merceği de simetrik olarak geçeceği açıktır; ışığın aynı kısımları her iki mercekte de neredeyse aynı göreli yerleri işgal eder. Mavi ışık, ikinci merceğe kırmızıdan daha yakın bir şekilde eksenine girer ve böylece ikinci mercek tarafından kırmızıdan daha az kırılır, bu nedenle eksantrik kalemlerde üretilenden oldukça farklı ve derece olarak daha düşük olan küçük bir telafi miktarı gerçekleşir. Aradaki boşluklarda düzeltmeler daha da kusurlu ve belirsizdir; ve bu, en iyi yapılmış çiftlerde bile zorunlu olarak var olması gereken sapmaların nedenini açıklar. Ancak, tek bir merceğe göre sonsuz derecede daha üstündür ve 35 ila 50 derecelik bir açıya sahip bir kalemi çok belirgin hatalar olmadan iletir. Bu nedenle, olağan test nesnelerinin çoğunu çok güzel bir şekilde sergiler.
+
+[Resim: Şekil 5.]
+
+[Resim: Şekil 6.]
+
+Basit mikroskobun geliştirilmesindeki bir sonraki adım, göz merceğine daha fazla benzemektedir. Bu iyileştirme Bay Holland tarafından yapıldı ve (Şekil 6'da gösterildiği gibi) dubletteki ilk merceğin yerine iki mercek koymaktan ve bunlar ile üçüncü mercek arasındaki durağı korumaktan oluşur. Böylece bir yerine iki mercekle gerçekleştirilen ilk eğilme, daha küçük sapmalarla birlikte gelir ve bu nedenle üçüncü mercek tarafından zıt yöndeki ikinci eğilmede daha
+tam olarak dengelenir veya düzeltilir. Bu kombinasyon, üçlü olarak adlandırılsa da, esasen ön merceğin ikiye bölündüğü bir dublettir. Çünkü ilk mercek çiftinin, daha az hassasiyetle de olsa, bir mercek tarafından yapılabilecek şeyi başardığı unutulmamalıdır; ancak dubletteki iki mercek birbirine zıttır; ikinci mercek, birincinin büyütme gücünü azaltır. Üçlüdeki ilk mercek çifti, belirli bir miktarda büyütme gücü üretmede bir araya gelir, bu miktar azalır ve üçüncü mercekteki sapma, kalemde eksenin pozisyonuna göre gerçekleşen değişiklikle düzeltilir. Bu kombinasyonda hatalar, kırılmaların eksene yakın gerçekleşmesine neden olan nesneye yakın yaklaşımla daha da azaltılır. Böylece, daha büyük açılı bir kalemin, yani 65 derecenin iletimi, belirginlikle uyumlu hale getirilir ve göze daha yoğun bir görüntü sunulur. Mercek sayısındaki her artış, ışın her yeni ortama girdiğinde belirli bir ışık kısmının yansıma ve emilim yoluyla kaybolması durumundan kaynaklanan bir dezavantajla birlikte gelir. Bu kayıp, çapın karesi kadar olan ve hızla çoğalan artan açıklıktan kaynaklanan kazançla makul bir orantıya sahip değildir; veya, kabul edilen kalemin açısına göre tahmin edersek, ki bu daha kolay belirlenir, yoğunluk, açının yarısının tanjantının iki katının karesi olacaktır. Bunu açıklamak için, D
+B'nin (Şekil 7) merceğin çapını veya gerçekten kullanılan kısmının çapını temsil ettiğini varsayalım; C A, merkezinden çizilen dikme ve A B, A D, gelen ışık kaleminin uç ışınlarıdır
+DAB. O zaman çap 2 C B olduğunda, görüş yoğunluğunun orantılı olduğu alan (2 C B) kare olacak ve C B, kabul edilen kalem D A B'nin açısının yarısı olan C A B açısının tanjantıdır. Veya, açısal açıklığı belirtmek için _a_ kullanılırsa, yoğunluk ifadesi (2 tan. 1/2_a_) karedir ve _a_'nın artışıyla o kadar hızlı artar ki, yansıma ve emilim yoluyla ışık kaybını önemsiz hale getirir.
+
+[Resim: Şekil 7. ]
+
+Üç merceğin birleşimi, belirtildiği gibi, nesneye çok
+yaklaşır; hatta üçten fazlasının kullanımını engelleyecek kadar yakın; ve bu, basit mikroskobun geliştirilmesinde bir sınır oluşturur, çünkü buna basit mikroskop denir, üç mercekten oluşmasına rağmen ve bileşik bir mikroskop sadece üç veya iki mercekten
+yapılabilmesine rağmen; ancak bileşik terimine yol açan farklı düzenleme, bu alet açıklandığında daha iyi anlaşılacaktır.
+
+Basit mikroskobu ve eklerini tanımlamaya geçmeden önce, merceklerin biçimi ve malzemeleriyle ilgili olarak en çok ilgi çekici olabilecek diğer noktaları açıklamak iyi olacaktır.
+
+Dr. Wollaston tarafından çok kullanışlı bir mercek biçimi önerildi ve kendisi buna Periskopik mercek adını verdi. Bu, düz yüzeyleriyle birbirine yapıştırılmış iki yarım küre mercekten oluşuyordu ve aralarında açıklığı sınırlamak için bir durdurucu vardı. Benzer bir öneri Bay Coddington'dan da geldi, ancak o, tüm bir kürede bir oluk açarak ve oluğu opak maddeyle doldurarak projeyi daha iyi bir şekilde gerçekleştirdi. İyi bilinen Coddington merceği olan merceği Şekil 8'de gösterilmiştir.
+A A ve B B kalemlerinin tam olarak aynı koşullar altında geçtiği açık olduğundan, her yönde eşit derecede iyi olan geniş bir görüş alanı sağlar.
+Küresel formu, tutulduğu konumu nispeten daha az önemli hale getirme avantajına sahiptir. Bu nedenle el merceği olarak çok kullanışlıdır, ancak tanımı elbette iyi yapılmış bir dublet veya akromatik mercek kadar iyi değildir.
+
+[Resim: Şekil 8.]
+
+Sir John Herschel tarafından, esas olarak Coddington merceği gibi, geniş bir alan uğruna ve esas olarak elde kullanılmak üzere çok kullanışlı bir dublet biçimi önerildi. Şekil 9'da gösterilmiştir; eğrilik yarıçapları 1 ila 6 olan çift dışbükey veya çapraz mercekten ve odak uzaklığı dışbükey merceğin odak uzaklığına eşit olan 13 ila 5 olan düz içbükey mercekten oluşur.
+
+Çeşitli, hatta sayısız başka mercek formları ve kombinasyonları
+yansıtılmıştır, bazıları çok yaratıcılık gösterirken, çok azı pratik bir kullanıma sahiptir. Katadioptrik merceklerde ışık, giriş yönünden dik açılarla çıkar ve eğimli yüzeylerin eksenlerine 45 derecelik bir açıyla kesilmiş bir yüzeyden yansır.
+
+[Resim: Şekil 9.]
+
+Bir zamanlar, değerli taşlar camdan daha kırıcı olduğundan ve artan kırılma gücü, kromatik dağılımda buna karşılık gelen bir artışla birlikte olmadığından, kırılmaların daha sığ eğrilerle ve dolayısıyla daha az küresel sapmayla gerçekleştirileceği için, mercekler için değerli malzemeler sağlayacakları umuluyordu. Ancak bu umutlar boşa çıktı;
+Dr. Goring'in himayesinde Bay Varley ve Bay Pritchard, yaratıcılık ve azmin başarabileceği her şeyi denedi. Ancak, denenen mücevherlerin büyük yansıtma gücü, çift kırılma özelliği, rengi ve heterojen yapısı, daha büyük kırılma güçlerinden kaynaklanan faydaları fazlasıyla dengeledi ve ustalıkla yapılmış cam çift ve üçüzlerin üstünlüğü konusunda hiçbir şüphe bırakmadı. Aslında bu fikir artık terk edildi; ve aynı yorum
+sıvı mercekler inşa etme girişimleri ve küresel yüzeylerden başka camlara
+verme projeleri için de geçerlidir--bunların hiçbiri
+yaygın olarak kullanılmamıştır.
+
+_Basit_ mikroskop terimiyle, nesnenin doğrudan bir mercek veya mercek kombinasyonu aracılığıyla
+görüldüğü, tıpkı bir ok veya böceğin
+elde tutulan bir cam aracılığıyla
+görüldüğünü varsaydığımız gibi, bir mikroskop kastedilmektedir. Ancak, camın büyütme gücü önemli olduğunda, yani odak uzaklığı çok kısa olduğunda ve sonuç nesnesinden uygun uzaklığı da aynı şekilde kısa olduğunda, büyük bir hassasiyetle uygun uzaklığa yerleştirilmesi gerekir: bu nedenle, yardımsız elle yeterli doğruluk ve istikrarla tutulamaz, ancak nesneyi tutan başka bir çerçeveye veya sahneye doğru veya oradan hareket ettirmek için bir raf veya vidaya sahip bir çerçeveye monte edilmelidir. Daha sonra mikroskop olarak adlandırılır ve duruma göre ışığı toplayıp nesneye yansıtmak için mercekler ve aynalarla ve şimdi açıklanacak olan diğer kolaylıklarla donatılır. Basit bir mikroskop için en iyi stand biçimlerinden biri Şekil 10'da gösterilmiştir; burada A, bir tripod tabanına vidalanmış pirinç bir sütundur; B, gövdeye vidalarla sabitlenmiş nesneler için geniş bir sahnedir ve frezelenmiş başları C'dedir. Büyük frezelenmiş baş D vasıtasıyla, bir rafı olan üçgen bir çubuk gövdeden A yükseltilir ve frezelenmiş baş F tarafından çalıştırılan bir raf vasıtasıyla bir yönde yatay bir hareket yapan lens tutucu E'yi taşır ve dairesel bir pimi döndürerek diğer yönde hareket eder. İçbükey bir ayna G, ışığı sahnedeki delikten yukarı doğru yansıtır ve bu tür nesneleri tutmak için kullanılan forseps H'nin takıldığı şekilde, opak bir nesneye ışık tutmak amacıyla sahneye bir lens takılabilir. Bu mikroskop, geniş sahnesi ve genel sağlamlığı sayesinde diseksiyon için özel olarak uyarlanmıştır ve kolları destekleyen ve bilekleri sahnenin seviyesine yükselten iki eğimli maun düzlemi arasına yerleştirilerek bu amaç için daha kullanışlı hale getirilmiştir. Bu cihaza diseksiyon dayanağı denir. Diseksiyon birincil bir nesne olmadığında, gövdenin alt ucuna A bir eklem yapılabilir, böylece bütünün eğimli bir pozisyon alması sağlanır;
+ve daha sonra sahnede gösterilen yay klipsleri nesneyi yerinde tutmak için yararlıdır. Bu tür mikroskoplara eşlik etmek için çok sayıda kullanışlı eklenti yapılabilir, bunlardan ayrıntılı olarak bahsetmek imkansızdır; en yararlıları Bay Varley'in suda hayvancıkları ve su bitkilerinin parçalarını tutmak için kullandığı kılcal kafeslerdir; ayrıca bu tür nesneleri elde etmek ve ayırmak için kullandığı tüpler ve Chara, Nitella ve diğer benzer bitkilerin küçük canlı örneklerini saklamak ve sergilemek ve dolaşımlarını gözlemlemek için kullandığı şişe ve şişe tutucudur. Şişe mikroskop, muhtemelen en ilginç keşiflere yol açacak olan küçük bitki ve hayvan yaşamının işleyişini gözlemlemek için olanaklar sağlar. Transactions of the Society of Arts'ın son ciltleri bu türden muazzam miktarda bilgi içeriyor ve okuyucuyu bunlara yönlendiriyoruz.
+
+[Resim: Şekil 10.]
+
+Nesneleri aydınlatma biçimi, daha fazla bilgi vermemiz gereken bir şeydir, çünkü bir nesnenin aydınlatılma biçimi,
+görüldüğü camın mükemmelliğinden sonra ikinci derecede önemlidir. Herhangi bir yeni veya bilinmeyen örneği incelerken, sırayla, doğrudan ve eğik, şeffaf bir nesne ve opak bir nesne olarak her türlü ışık tanımıyla, güçlü ve zayıf ışıkla, büyük köşeli kalemlerle ve küçük köşeli kalemlerle her olası yöne fırlatılarak incelenmelidir. Her değişiklik muhtemelen nesnenin yapısıyla ilgili yeni bir olguyu geliştirecektir ve bu da her olası şekilde montaj biçiminde değiştirilmelidir. Hem ıslak hem de kuru olarak görülmeli ve su, alkol, yağ ve Kanada balsamı gibi çeşitli kalite ve yoğunluktaki sıvılara batırılmalıdır, örneğin sonuncusu neredeyse camınkine eşit bir kırılma gücüne sahiptir. Nesne hassas bir bitkisel dokuysa, iki cam levha arasına yerleştirilen berrak bir ateşle hafifçe ısıtılarak veya kavrularak bazı açılardan daha görünür hale getirilecektir. Bu şekilde
+kuşkonmaz ve diğer benzer sebzelerin spiral kapları
+güzel bir şekilde sergilenebilir. Nesneleri iyot tentürüyle boyamak
+bazı durumlarda bu amaca daha iyi cevap verecektir.
+
+Ancak aydınlatmayla ilgili temel soru, özellikle şeffaf nesneler söz konusu olduğunda, aydınlatıcı kalemin büyüklüğüdür.
+Genel olarak konuşursak, aydınlatıcı kalem, merceğin alabileceği kadar büyük olmalı ve daha büyük olmamalıdır. Bunun ötesindeki herhangi bir ışık
+belirsizlik ve parlama üretir.
+Aynadan gelen gereksiz ışık, sahnenin altına yerleştirilen çeşitli boyutlarda açıklıklara sahip bir ekranla kesilebilir; ancak en iyi aydınlatma modu
+Dr. Wollaston tarafından önerilen ve Wollaston kondansatörü olarak adlandırılan yöntemdir. Bir tüp, bir mercek içeren aletin sahnesinin altına yerleştirilir A B
+(Şekil 11), bu mercek istendiğinde belirli sınırlar içinde yükseltilebilir veya alçaltılabilir; ve alt uçta sınırlı bir açıklık C D olan bir durak vardır.
+Bir düzlem ayna E F gökyüzünden veya beyaz bir buluttan gelen ışık ışınlarını L L alır, bu sonuncusu ışığın en iyi kaynağıdır ve bunları C D'deki açıklıktan yukarı doğru yansıtır, böylece kırılırlar ve nesnenin bulunduğu yere yakın olduğu varsayılan G'deki açıklığın bir görüntüsünü oluştururlar. Nesne bazen açıklığın görüntüsü de en iyi şekilde görüldüğünde en iyi şekilde görülür; ve bazen A B G konisinin G zirvesini nesnenin üzerine
+yükseltmek ve diğerlerinde
+aşağıya doğru bastırmak en iyisidir: bunların hepsi merceği A B hareket ettirme gücüyle istenildiği gibi yapılır. Yapay ışık (lamba veya mum gibi) kullanılırsa, alev büyük bir ayrı merceğin ana odağına bir stand üzerinde yerleştirilmelidir, böylece ışınlar L L aynaya paralel çizgiler halinde veya buluttan düştükleri gibi düşebilir. Bu, yalnızca Wollaston kondansatörü kullanıldığında değil, aynı zamanda ayna ve diyafram kullanıldığında da bir avantaj sağlayacaktır. Güneşin karşısındaki beyaz bir bulutun ışığını yapay olarak taklit etmenin iyi bir yolu Bay Varley tarafından önerilmiştir; sahnenin altındaki aynanın yüzeyini karbonat veya benzeri bir malzemeyle kaplar ve ardından büyük bir yoğunlaştırıcı mercekle güneşin ışığını yüzeyinde yoğunlaştırır. Sodanın yüzeyinden yayılan yoğun beyaz ışık, beyaz bulut için mükemmel bir ikame oluşturur ve bu bulut, güneşin karşısında ve önemli boyutta olduğunda en iyi gün ışığıdır,
+güneşin karşısındaki saf gökyüzü ise en kötüsüdür.
+
+[Resim: Şekil 11.]
+
+_Bileşik Mikroskop_, daha önce belirtildiği gibi, yalnızca iki mercekten oluşabilirken, basit bir mikroskobun bazen üç mercek içerdiği gösterilmiştir. Ancak basit mikroskop için üçlüde, ilk iki merceğin etkisinin, bir tanesi tarafından başarılmış olabilecek şeyi yapmak olduğu, ancak çok iyi olmadığı ve üçüncünün ise göze girmeden önce ışıkta sadece belirli değişiklikler yaptığı açıklanmıştır. Ancak bileşik mikroskopta iki merceğin tamamen farklı işlevleri vardır; ilki ışınları nesneden alır ve onları yeni odaklara getirerek bir görüntü oluşturur, ikinci mercek ise bunu orijinal bir nesne olarak ele alır ve tek mikroskop nesnenin kendisini büyüttüğü gibi büyütür.
+
+[Resim: Şekil 12.]
+
+Ekteki şekil (12), ışınların iki mercekli bileşik bir mikroskoptan geçiş yolunu gösterir. Nesneden çıkan ışınlar, yakındaki C D merceği tarafından öyle etkilenir ve bu nedenle nesne camı olarak adlandırılır, böylece A' B'deki odaklara yakınsarlar ve orada nesnenin büyütülmüş bir görüntüsünü oluştururlar, bu da onları almak için oraya bir parça yağlı kağıt veya buzlu cam yerleştirilmiş olsaydı açıkça görülebilirdi. Bu şekilde kesilmezler ve bu nedenle görüntü o yerde görünür hale gelmez; ancak daha sonraki ilerlemeleri, A' B'deki bir nesneden gerçekten çıkmış olsalardı olacağı şeye benzerdir. Sonunda, üzerlerinde basit bir mikroskobun nesnelerinden çıkan ışığa etki ettiği gibi etki eden göz merceği L M tarafından alınırlar. Bunlar, göze E noktasından paralel çizgiler halinde veya belirgin görüş için gerekli olana yakın bir şekilde girebilecek şekilde bükülmüştür. Işınların göze neredeyse paralel çizgiler halinde girdiğini söylediğimizde, yalnızca orijinal nesnenin bir noktasından çıkanları kastediyoruz. Böylece iki paralel ışın M E, okun A noktasından çıkan C A D ışın konisinden çıkmıştır ve onun bir parçasıdır; ancak gözde iki resim oluşturmazlar, çünkü göz bebeğinin alabileceği herhangi bir sayıda paralel ışın göz tarafından bir noktaya yakınsayacak ve zihne bir noktanın izlenimini iletecektir. Aynı şekilde ışınlar L E, B noktasından çıkan ışın konisinin bir parçasıdır ve L E M açısı, gözün okun büyütülmüş görüntüsünü göreceği açıdır; bu, okun belirgin görüş sınırları içinde herhangi bir mesafede çıplak gözle kaplayabileceğinden açıkça çok daha büyüktür. Büyütme gücü iki duruma bağlıdır: birincisi, ön mesafe A C veya B D ile arka odak uzaklığı C B' veya D A' arasındaki orana; ve ikincisi, göz merceği L M gücüne. İlk oran, nesne A B ile görüntü A' B' arasındaki orana eşittir; bu ve göz merceğinin odak uzaklığı veya gücü kolayca elde edilebilir ve bunların ürünü bileşik aletin gücüdür.
+
+Güç, nesne camının ön ve arka odakları arasındaki orana bağlı olduğundan, bu oranı artırarak herhangi bir gücün elde edilebileceği açıktır, aynı gözlük kullanıldığında;
+veya birincisi belirlendikten sonra, gözlük camının gücünü artırarak daha fazla güç elde edilebilir; ve böylece, büyütme gücünün nesne camı ile gözlük camı arasında bölüneceği göreceli oranların önceden düzenlenmesiyle, birinci ile nesnesi arasındaki hemen hemen herhangi bir mesafe (belirli sınırlar dahilinde) güvence altına alınabilir. Bu, bileşik aletin değerli bir özelliğidir; diğeri ise elde edilebilecek geniş alan veya geniş görüş açısıdır; bunun her parçası neredeyse eşit derecede iyi olacaktır; oysa en iyi basit mikroskoplarda alan küçüktür ve yalnızca merkezde iyidir. Bileşik aletin alanı, göz ucunda iki cam kullanılarak daha da artırılır; birincisi, amacından dolayı, alan camı olarak adlandırılır ve ikisi de göz merceği olarak adlandırılır. Bu, şu anda verilen akromatik bileşik mikroskop figüründe daha ayrıntılı olarak açıklanacaktır.
+
+Yukarıda belirtilen avantajlara rağmen, bileşik mikroskop, ışığın katetmesi gereken mesafe ve buna bağlı olarak kromatik ve küresel sapmaların artması nedeniyle, bir asırdan fazla bir süre boyunca nispeten zayıf ve etkisiz bir aletti. Bunu açıklamak için Şekil 12'de A' B' yakınında ikinci bir görüntü çizdik, gerçek şu ki, nesne camı varsayıldığı gibi tek bir görüntü oluşturmayacaktı, ancak iki noktalı ok arasındaki alanı kaplayan sonsuz sayıda çeşitli renklerde ve çeşitli boyutlarda görüntü oluşturacaktı. Nesne camına en yakın olanlar kırmızı, gözlük camına en yakın olanlar ise mavi olacaktı. Bunun etkisi o kadar fazla karışıklığa yol açtı ki, alet sadece bir oyuncak haline geldi, ancak bu hatalar, nesne camının açıklığını sınırlayarak ve böylece ışığın kalemin açısını nesnenin her noktasından sınırlayarak mümkün olan en üst düzeyde azaltıldı. Ancak bu, daha önce açıklanan, resmi belirsiz hale getirme kusurlarını içeriyordu, böylece genel olarak en iyi bileşik aletler, geçen yüzyılın tüm önemli gözlemlerinin yapıldığı tek mercekli basit mikroskoplardan daha düşüktü. Basit mikroskobun dublet ve triplet kullanımıyla geliştirilmesinden sonra bile, ışınların uzun seyri ve bileşik alet için gereken büyük köşeli kalem, en iyimserleri bile küresel ve kromatik hatalardan arınmış böyle bir yoldan iletilecekleri dönemi tahmin etmekten alıkoydu. Mevcut dönemden yirmi yıl sonra, M. Blot ve Dr. Wollaston'dan daha az önemli olmayan filozoflar, bileşiğin basit mikroskopla asla rekabet edemeyeceğini ve nesne camını akromatize etme fikrinin umutsuz olduğunu öngördüler. Akromatik teleskobun, prensiplerini bileşik mikroskoba uygulama girişimi olmadan kaç yıl var olduğunu düşündüğümüzde bu görüşlere şaşırmamak gerekir. Teleskopun gerektirdiği kalemin küçüklüğünü ve kalemin her büyütülmesinde ortaya çıkan muazzam zorluk artışını düşündüğümüzde, bu zorluklarla başa çıkılması ve neredeyse mikroskobik nesneler olan cam parçaları üzerinde yapılan işlemlerle ortadan kaldırılması gerektiğini daha da düşündüğümüzde, Dr. Wollaston gibi ihtiyatlı bir filozofun ve en yetenekli manipülatörün bile iyileştirmeye sınırlar koymasına şaşırmayacağız. Neyse ki bilim ve özellikle hayvan ve bitki fizyolojisi bölümleri için bu tahminlerin asılsız olduğu gösterildi. Son on beş yıl, bileşik mikroskobu, tanımladığımız durumdan, sanatın doğa araştırmacısına bahşettiği en önemli araç seviyesine yükseltmek için yeterli oldu. Artık felsefi araçlar arasında çok yüksek bir rütbeye sahipken, doğanın küçük eserlerinde bize gösterdiği biçim, renk ve organizasyonun aşkın güzellikleri onu en keyifli ve öğretici arayışlara tabi kılıyor. Dikkatimizi çeken bu iddialara, daha da yüksek bir öneme sahip üçte bir daha eklemesi muhtemel görünüyor. Kanın ve diğer insan organik maddelerinin mikroskobik incelemesi, büyük olasılıkla hastalığın doğası ve yeri hakkında şimdiye kadar başvurulanlardan daha tatmin edici ve kesin kanıtlar sağlayacak ve sonuç olarak ilaçların seçimi ve uygulanmasında benzer bir kesinliğe yol açacaktır. Modern akromatik mikroskobun iddialarını okuyucunun dikkatine bu şekilde geniş bir şekilde ifade etmenin, yakın tarihini anlatacağımız ve yapısını açıklayacağımız uzunluğun bir gerekçesi olarak gerekli olduğunu düşündük; ve bu yola daha fazla teşvik edilmemizin sebebi, konunun tamamen yeni bir alan olması ve şu anda İngiltere'de iki veya üçten fazla akromatik mikroskop üreticisinin olmamasıdır.
+
+1820 yılından kısa bir süre sonra Fransa'da M. Selligues tarafından bir dizi deney başlatıldı, bunları Münih'te Frauenhofer, Modena'da Amici, Paris'te M. Chevalier ve Londra'da merhum Bay Tulley izledi. 1824'te son adı geçen mükemmel sanatçı, Kıta'da ne yapıldığını bilmeden, bileşik bir mikroskop için akromatik bir nesne camı inşa etme girişiminde bulundu ve üç mercekten oluşan ve on sekiz derecelik bir kalemi ileten dokuz onda bir inç odak uzaklığına sahip bir tane üretti. Bu, İngiltere'de yapılmış olan ilk şeydi; ve Bay Tulley'in, alandaki doğru düzeltme açısından, camın daha sonra üç merceğin herhangi bir kombinasyonuyla
+geçilmediğini söylemesi gerekir.
+Böylesi
+açılı bir kalem ve böylesi bir odak uzaklığı,
+yüz yirmilik bir brüt büyütme gücü üretmek için uyarlanmış bir göz merceği taşıyacaktır.
+Bay Tulley daha sonra,
+ilk bahsedilenin önüne yerleştirilecek bir kombinasyon yaptı, bu da iletilen kalemin açısını
+otuz sekiz dereceye çıkardı ve üç yüzlük bir güce sahipti.
+
+Bu pratik araştırmalar devam ederken,
+akromatizm konusu İngiltere'deki en derin
+matematikçilerin bazılarının dikkatini çekti. Sir John Herschel, Profesör Airy,
+Profesör Barlow, Bay Coddington ve diğerleri, konunun teorik incelemesine büyük ölçüde katkıda bulundular; ve çalışmalarının sonuçları mikroskop için hemen uygulanabilir olmasa da, esasen gelişimini desteklediler.
+
+1829'dan önceki bir süre boyunca konu, birincisi gibi tamamen pratik olmayan, sonuncusu gibi tamamen matematiksel olmayan bir beyefendinin zihnini meşgul etti ve daha önce gözlemlenmemiş olan akromatik kombinasyonlarda belirli özelliklerin keşfine yol açtı. Bunlar daha sonra deneysel olarak doğrulandı; ve 1829 yılında, keşfedici Bay Joseph Jackson Lister tarafından konu hakkında yazılan bir makale, Kraliyet Derneği tarafından okundu ve yayınlandı. Böylece elde edilen ilkeler ve sonuçlar, Bay Lister'ın her yerinde doğru geniş bir alanla elli derecelik bir kalemi ileten bir mercek kombinasyonu oluşturmasını sağladı; bu makale
+akromatik mikroskoplardaki son gelişmelerin temeli olduğundan ve sonuçları bu aleti yapacak veya anlayacak herkes için vazgeçilmez olduğundan, daha önemli kısımlarını ayrıntılı olarak ve Bay Lister'ın kendi sözleriyle vereceğiz.
+
+"Düzeltici çakmaktaşı mercek için plano-içbükey formun bu niteliğiyle güçlü bir tavsiye olduğunu, özellikle de iki eğriyi merkezlemede var olan hata tehlikesini ortadan kaldırdığı ve böylece daha kısa bir odak için doğru işçiliğe izin verdiği için, öne sürerim. Camın iki yüzeyini birbirine yapıştırmak, yansımadan kaynaklanan ışık kaybını neredeyse yarı yarıya azaltır, bu da bir kombinasyonun çok sayıda yüzeyinde önemlidir. Bunu yaparak alanın netliğinin ve resmin parlaklığının açıkça arttığını düşündüm; iç yüzeylerde herhangi bir çiy veya bitki örtüsünün oluşmasını önler; ve aynı eğrilere sahip olmaları ve sıkıca birbirine bastırılmaları ve yapıştırma ortamının kalıcı olarak homojen olması durumunda bundan beklenebilecek hiçbir dezavantaj görmüyorum.
+
+"Bu iki koşul, çakmaktaşı merceğin plano-içbükey olması ve dışbükey olana bir miktar çimento ile birleştirilmesi, bir temel olarak alınması arzu edilir görünüyor mikroskobik
+nesne camı, büyük bir kalemin
+küresel ve renk sapmalarının tahribatıyla uzlaştırılabildikleri sürece.
+
+"Şimdi benim tarafımdan denenmiş, İsviçre veya İngiliz camından, çift dışbükey plakalı, düzeltme merceği olan ve dışbükeyin dış eğrisine verilen formla akromatik hale getirilmiş her camda, merceklerinin kırılma ve dağıtma güçleri arasındaki oran, eksenindeki bir noktadan, düzlem tarafındaki ana odak noktasından çok da uzak olmayan bir yerden çıkan ve bir mikroskop tüpü içinde eşlenik bir odak oluşturmaya yönelen veya neredeyse paralel olarak çıkan ışınlar için doğru olmuştur.
+
+"A B'nin (Şekil 13) böyle bir nesne camı olduğunu varsayalım ve bunun, küresel ve kromatik hataların düzeltildiği, içinden geçen bir A C B eğrisine sahip, kabaca bir düzlemsel-dışbükey mercek olarak düşünülmesine izin verelim; bu hatalar iki dış yüzeyde üretilir; ve camın
+böylece ışınım noktası F'den çıkan F D E G ışınları için sapmadan arınmış olmasına izin verin, H E dışbükey yüzeye dik ve I D düzlem bire diktir. Bu koşullar altında, çıkış açısı G E H
+geliş açısı F D I'den çok daha fazladır ve muhtemelen yaklaşık üç
+kat daha büyüktür.
+
+"Eğer ışınım şimdi cama yaklaştırılırsa, böylece ışının seyri F D E G eksenden daha fazla uzaklaşır, çünkü geliş ve
+geliş açıları birbirine daha yakın hale gelir, ikisinin ürettiği küresel sapmanın tek düzeltme eğrisi A C B'nin karşıt hatasına daha az oranda sahip olduğu görülecektir; bu nedenle böyle bir odak için ışınlar
+aşırı düzeltilmiş olacaktır.
+
+[Resim: Şekil 13. ]
+
+"Fakat eğer F hala cama yaklaşırsa, geliş açısı
+ışının artan sapmasıyla birlikte artmaya devam eder, ta ki
+bu arada azalan
+çıkış açısını aşana kadar ve sonunda onların ürettiği küresel hata
+düzeltme eğrisinin zıt hatasına göre orijinal oranını geri kazanır. F bu noktaya ulaştığında F'' (burada geliş açısı, ilk başta ona yaklaştığı kadar
+çıkış açısını aşmaz), ışınlar tekrar küresel sapmadan camdan geçer.
+
+"Eğer F buradan cama doğru veya orijinal yerinden dışarıya doğru taşınırsa, ilk durumda geliş açısı veya ikinci durumda çıkış açısı orantısız bir şekilde etkili olur ve
+her iki durumda da sapma düzeltmeyi aşar.
+
+"Bu gerçekler dikkatli deneylerle belirlenmiştir: bunlar, benim dikkatimi çeken plano-konveks camların bu tür kombinasyonlarındaki her görünümle uyuşmaktadır ve inanıyorum ki, genel olarak iç yüzeyleri temas halinde veya neredeyse temas halinde olan akromatik bir nesne camının, ekseninde bir tarafında iki odak noktası olacağı ve bu odak noktalarından gelen ışınlar için orta düzeyde bir açıklıkta gerçekten düzeltileceği; bu iki nokta arasındaki boşluk için küresel sapmasının aşırı düzeltileceği ve bunların ötesinde her iki şekilde de yetersiz düzeltileceği kuralına kadar genişletilebilir.
+
+"Daha uzun aplanatik odak, plano-konveks nesne camlarından biri bir mikroskoba yerleştirildiğinde, cam aşırı düzeltme gösteriyorsa tüpü kısaltarak; yetersiz düzeltme gösteriyorsa uzatarak veya ışınları paralel veya ıraksak olmaları durumunda çok küçük ve iyi bir teleskopla bir araya getirerek bulunabilir. Daha kısa odak, camı yeterli uzunlukta ve ince bir şekilde düzeltilmiş büyük bir açıklığa sahip bir diğerinin önünde kaydırarak ve cam ile nesne arasındaki mesafe alınabildiğinde, cıva küresinden parlak bir noktanın yansımasını verene kadar öne getirerek elde edilir.
+
+"Daha uzun odak, cama verilebilecek en büyük
+açıklığın belirleneceği ve küresel hata olmadığında, renk açısından tam düzeltme durumunun en belirgin şekilde görülebileceği yerdir.
+
+"Kromatik sapmanın düzeltilmesi, küresel sapmanın düzeltilmesi gibi, marjinal ışınlarda aşırılığa eğilim gösterir; böylece orta düzeyde bir açıklığa sahip akromatik bir camın hücresi daha geniş açılırsa, kaleme eklenen ışın çemberi renk açısından oldukça
+aşırı düzeltilmiş olacaktır.
+
+"Aynı aşırı düzeltme eğilimi, açıklığı değiştirmeden, gelen ışınların diverjansı çok artırılırsa, bir nesne camının önüne yerleştirildiği gibi, üretilir; ancak genellikle bu konumda, açıklığının yalnızca bir kısmı kullanılır; böylece belirtilen iki özellik birbirini nötrleştirir ve kromatik durumu değişmeden kalır. Örneğin, daha uzun odakta öne çıkan renklerin yeşil ve bordo olduğu gözlemlenirse, bu da spektrumun birleşimine en yakın uygulanabilir yaklaşımın yapıldığını gösterir, genellikle odaklar arasındaki tüm alan boyunca ve her iki yönde de belirli bir mesafe boyunca neredeyse aynı şekilde devam ederler.
+
+"Bu iki odak noktasının yerleri ve birbirlerine olan oranları çeşitli koşullara bağlıdır. Deneme amaçlı yaptırdığım, iç yüzeyleri çimentolanmış, çapları çakmak taşı merceğinin yarıçapı kadar ve renkleri oldukça iyi düzeltilmiş, plano-konveks birkaç objektif camında, yoğun çakmak taşı ve hafif plakadan oluşanların ışınları daha uzun odaktan neredeyse paralel olarak çıkmıştır; ve bu odak, camdan daha kısa olanın tam üç katı uzaklıkta olmamıştır: İngiliz çakmak taşında ışınlar daha fazla yakınsamaya sahip olmuştur ve daha kısa odak, daha uzun olana göre daha az bir orana sahiptir.
+
+"Yüzeyler çimentolanmamışsa, eğrilerindeki küçük farklar çarpıcı bir etki yaratır. Bu konuda biraz fikir verebilir,
+neredeyse tüm diskin merceklerin temasıyla renkle kaplı olduğu bir camda, o kadar ince bir vernik tabakasının eklenmesi
+ki bu renk onunla yok edilmedi, küresel düzeltmede hissedilir bir değişikliğe neden oldu.
+
+"Daha uzun aplanatik odağı genişleten ve ışınlarının yakınsamasını artıran her şeyin, daha kısa olanın göreli uzunluğunu azalttığını buldum. Böylece, yarıçapları birbirine göre 31 ila 35 olan dışbükey bir merceğin daha derin tarafı yerine daha düz olan içbükey merceğe dönerek, daha uzun aplanatik odak kalemi, büyük ölçüde
+farklı olmaktan çıkıp, camın arkasında çok küçük bir mesafede birleşmeye getirildi; ve daha kısa odak uzunluğu, daha uzun olanın yarısıyken, bunun sadece altıda biri oldu.
+
+"Aplanatik kalemlerin yönü, renk durumları aynıysa, camların kalınlığındaki farklılıklardan neredeyse hiç etkilenmiyor gibi görünüyor.
+
+"Çift objektif camının bir diğer özelliğinden daha bahsedilmesi gerekir, o da daha uzun aplanatik odak kullanıldığında, camın ekseniyle çakışmayan bir kalemin marjinal ışınlarının çarpıtılmasıdır, böylece bir koma dışarı doğru atılır; alanın merkezine doğru yönlendirilmiş bir komanın zıt etkisi ise daha kısa odaktan gelen ışınlar tarafından üretilir. Komanın bu özellikleri, iki odakta ayrılmaz bir şekilde birlikte bulunur ve akromatik menisküste, plano-dışbükey objektif camında olduğu kadar belirgindir.
+
+[Resim: Şekil 14.]
+
+"Az önce verilen ayrıntıların uygulanabilir göründüğü birkaç amaçtan, şimdilik kendimi en belirgin olanla sınırlamalıyım.
+Bunlar, büyük bir odak kalemindeki her iki sapmayı da en kolay şekilde yok etmenin ve böylece mikroskobun mükemmelleşmesinin önündeki en büyük engeli aşmanın yollarını sağlar. Ve küçük nesne camlarının eğrilerinin, parlak bir noktanın görüntüsünü eşit derecede keskin ve renksiz vermek için en azından büyük bir teleskopun eğrileri kadar tam orantılı olması gerektiği ve bir sapmayı düzeltmek için yapılan herhangi bir değişikliğin diğerini bozmaya meyilli olduğu düşünüldüğünde, bu engelin miktarının ne olması gerektiği hakkında bir fikir oluşturulabilir. Ancak, herhangi bir nesne camı akromatik yapılırsa, mercekleri gerçekten işlenmiş ve çimentolanmışsa, böylece eksenleri çakışırsa, aynı gerekliliklere ve uygun odaklamaya sahip başka biriyle kesinlikle bağlantılı olabileceği ve böylece kombinasyonun alanının merkezinde de küresel hatadan arınmış olacağı açıktır. Bunun için
+ışınların yalnızca ön cam B (Şekil 14) tarafından daha kısa aplanatik odak F''den alınması ve diğer cam A'nın daha uzun doğru kalemi F A yönünde iletilmesi gerekir. İkinci kalemin çok kısa bir odakta birleşmemesi veya
+eğer varsa çok hafiften fazla ıraksamaması istenir; ve başlangıçta kullanılan cam türüne biraz dikkat etmek onu bu aralıkta tutacaktır, daha yoğun çakmaktaşı daha kısa odak ve daha büyük açıklık açısına sahip camlar için uygundur.
+
+"Daha sonra mikroskopun ayarlanması, gerekirse, nesne camları arasındaki mesafeyi hafifçe değiştirerek mükemmelleştirilir; ve bu yapıldıktan sonra, göz merceklerini taşıyan tüpün uzunluğu, düzeltmeyi bozmadan büyük ölçüde değiştirilebilir, değişiklikle birbirini dengeleyen zıt hatalar üretilir.
+
+"Eğer diyagramda belirli bir mesafede çizilmiş olan iki cam birbirine yakınlaştırılırsa (örneğin, A'nın yeri noktalı şekle taşınırsa), B'nin A'nın daha uzun aplanatik kalemi yönünde ilettiği ışınlar, açıkça F'den daha uzak bir Z noktasından türetilecektir ve B'nin aplanatik odakları arasında yer alacaktır; bu nedenle (belirtilenlere göre) bu cam ve dolayısıyla kombinasyon, küresel olarak aşırı düzeltilecektir. Öte yandan, A ve B arasındaki mesafe artırılırsa, elbette zıt etkiler ortaya çıkar.
+
+"Birkaç camı bir araya getirirken, genellikle ön camdan az düzeltilmiş bir kalemi geçirmek ve ortadaki camda aşırı düzeltme yaparak hatasını telafi etmek uygundur.
+
+"Renkteki hafif hatalar aynı şekilde zıt olanlarla ortadan kaldırılabilir; ve açıklanan ilkeler üzerine sadece
+merkezi ışın için ince bir düzeltme elde etmekle kalmıyoruz, aynı zamanda
+enine kalemdeki iki odaktaki zıt etkilerle, tüm virgüller yok edilebilir ve
+tüm alan güzel bir şekilde düz ve belirgin hale getirilebilir."
+
+Bay Lister'ın makalesi, konunun anlaşılması için
+esas olmayan daha fazla ayrıntıya giriyor. Araştırmalarının ve sonuçlarının pratik gözlükçü için
+en yüksek değerde olduğunu ve
+sonuç olarak iyileştirme ilerlemesinin son derece hızlı olduğunu söylemek yeterlidir. Yeni ilkeler Bay Hugh Powell ve Bay Andrew Ross tarafından
+hiç öngörülmemiş bir başarı derecesiyle
+uygulandı ve sergilendi; akromatik nesne camına verilen düzeltmeler gerçekten o kadar mükemmeldi ki - küresellik ve dağılım hataları o kadar tamamen dengelendi veya yok edildi ki - nesneyi en ince cam veya talktan yapılmış bir plakayla örtme durumu, eğer uyarlanmış olsalardı, düzeltmeleri bozdu
+örtülü olmayan bir nesneye ve bir nesne camını bir koşulda mükemmel hale getirdi
+diğer koşulda makul derecede kusurlu.
+
+Bu kusur, eğer buna iyileştirmeden kaynaklanan bir kusur denecekse, ilk olarak Bay Ross tarafından keşfedildi. Ross, derhal bunu düzeltmenin yollarını önerdi ve 1837'de Sanat Derneği'ne konuyla ilgili bir makale sundu. Bu makale, Transactions'ın 51. cildinde yayınlandı ve Bay Lister'ınki gibi, aletin nihai inceliklerini tam olarak anlamak için olmazsa olmazdır. Neredeyse tamamını çıkaracağız:
+
+"Bir bileşik mikroskobun nesne camı için, hem merkezi hem de eğik büyük açılı kalemler için sapma etkilerinden arınmış bir mercek kombinasyonu oluşturma amacıyla (Bay Ross'un söylediğine göre) pratik bir araştırma sırasında, nesne ile nesne camı arasındaki mümkün olan en büyük mesafe koşulunu birleştirdim; çünkü kısa odak uzaklığına sahip nesne camlarında, nesneye yakınlıkları birçok durumda bir engel olmuştur yüksek büyütme güçlerinin
+kullanımına bağlıdır ve sürekli bir
+rahatsızlık kaynağıdır.
+
+"Geliştirilmiş kombinasyonda, çap yalnızca uygun kalemin girmesine
+yeterlidir; dışbükey mercekler bir kenara işlenmiştir ve içbükey mercekler yalnızca şekillerini desteklemek için yeterli kalınlığa sahiptir;
+sonuç olarak kombinasyon mümkün olan en ince olanıdır ve bundan nesne ile nesne camı arasında en büyük mesafenin olacağı sonucu çıkar. Odak uzaklığı bir inçin sekizde biridir, 60 derecelik bir açısal açıklığa, 1-25 inçlik bir mesafeye ve 970 kat doğrusal bir büyütme gücüne sahiptir ve en zor Podura ölçeklerinde mükemmel bir tanıma sahiptir. 1-16 inçlik odak uzaklığına sahip nesne camları yaptım; ancak açısal açıklık nesne ile nesne camı arasındaki en büyük mesafe korunursa avantajlı bir şekilde artırılamayacağından, bunların kullanımı çok sınırlı olacaktır.
+
+"Akromatik bir bileşik mikroskop tarafından üretilen tanımın kalitesi, hem kromatik hem de küresel sapmalar, işçiliğin genel mükemmelliğiyle birlikte dengelenmiştir. Şimdi, Wollaston'un çiftlerinde ve Holland'ın üçüzlerinde, sapmaların dengesini üretmenin bir yolu yoktur, çünkü bunlar yalnızca dışbükey merceklerden oluşur; bu nedenle yapılabilecek en iyi şey sapmaları en aza indirmektir; bu formlardaki kalan pozitif sapma, nesneler (özellikle ince şeffaf sınıfın ayrıntıları) üzerinde kendine özgü bir etki yaratır, bu da gerçek yapılarının yanlış anlaşılmasına yol açabilir; ancak sapmaların doğru şekilde dengelendiği akromatik nesne camında, bir nesnenin en küçük parçaları doğru bir şekilde görüntülenir, böylece karakterleri hakkında tatmin edici bir yargı oluşturulabilir. [Resim: Şekil 15.]
+
+[Resim: Şekil 16.]
+
+"Şekil 15'te görüleceği gibi, belirli bir açılı kalem A O A'
+nesne O'dan çıktığında ve ilk merceğin düzlem tarafına düştüğünde, eğer bileşim nesneden Şekil 16'daki gibi çıkarılırsa, kalemin uç ışınları camın daha marjinal kısımlarına
+çarpar ve burada kırılmalar daha büyük olduğundan, sapmalar da daha büyük olur. Şimdi, iki bileşik nesne camının sapmaları dengelenirse, biri Şekil 15'teki gibi, diğeri Şekil 16'daki gibi yerleştirilirse ve her ikisine de aynı rahatsız edici güç uygulanırsa, olay açıları ve sapmaların küçük olduğu
+yerler, açıların büyük olduğu ve
+sonuç olarak sapmaların hızla arttığı yerler kadar rahatsız edilmeyecektir.
+
+"Bir nesne camı, opak bir nesneyi görüntülemek için sapmalarını dengeler ve bu nesnenin iletilen ışıkla incelenmesi gerekirse, düzeltme kalır; ancak nesneyi bir sıvıya daldırmak veya cam veya talkla örtmek gerekirse, bu koşullardan bir sapma ortaya çıkar ve bu da önceki düzeltmeyi bozar ve sonuç olarak tanımı bozar; ve bu etki, nesne ile nesne camı arasındaki mesafenin artmasıyla daha belirgin hale gelir. [Resim: Şekil 17.]
+
+"Bir nesneyi örtmek için kullanılacak düz ve paralel bir cam parçası tarafından yayılan ışınlarla üretilen sapma, Şekil 17'de gösterilmiştir. Burada G G G G, kırıcı ortam veya nesneyi örten cam parçasıdır. O P, kalemin ekseni, düz yüzeylere diktir. O T, eksene yakın bir ışın ve O T', kalemin camın alt yüzeyine düşen uç ışını; o zaman T R, T' R', ortamdaki ışınların yönleri ve R E, R' E', ortaya çıkan ışınların yönleri olacaktır. Şimdi, bu ışınların seyri, noktalı çizgilerle olduğu gibi devam ettirilirse, eksenle camın yüzeyinden farklı mesafelerde, X ve Y, kesiştikleri görülecektir. X Y mesafesi ise, daha önce belirtildiği gibi, Daha önce
+nesne camını oluşturan çeşitli merceklerin dengelenmiş sapmaları. Bunun birçok örneği vardır, ancak burada seçilen örnek
+ilkesini en iyi şekilde açıklamak için hizmet eder. Bu miktarın teorik olarak belirlenmesiyle açıklamayı meşgul etmeme gerek yok, çünkü bu miktar, tam olarak kontrol edemediğimiz son derece küçük koşullara göre değişir; örneğin, nesnenin camın alt tarafına olan uzaklığı ve camın kendi kalınlığındaki en ufak fark; ve eğer bu veriler kolayca elde edilebilirse, bu bilgi düzeltmeyi yapmakta hiçbir işe yaramaz, çünkü bu tamamen pratik bir niteliktedir.
+
+"Eğer bir nesne camı Şekil 1'de gösterildiği gibi inşa edilirse, 16, burada
+arka kombinasyon P ve orta M birlikte aşırı negatif sapmaya sahiptir ve bu, aşırı pozitif sapmaya sahip olan ön kombinasyon A tarafından düzeltilirse, o zaman bu son kombinasyon, P ve M üzerinde daha fazla veya daha az güçlü bir şekilde etki edebilir, onlara yaklaşmasını veya onlardan uzaklaşmasını sağlayarak; çünkü üçü yakın temas halinde olduğunda, nesnenin nesne camından uzaklığı en fazladır; ve sonuç olarak nesneden gelen ışınlar, kombinasyonlar ayrıldığında olduğundan daha büyük bir mesafedeki bir noktadan uzaklaşır; ve bir mercek ışınları daha fazla büktüğü veya daha büyük bir etkiyle hareket ettiği için, ışınların
+uzaklaştığı nesne ne kadar uzaksa, ön kombinasyon A'nın diğer ikisi, P ve M üzerindeki etkisi, oradan uzaklığına göre değişecektir. Bu nedenle,
+ön ve orta kombinasyon arasında belirli bir mesafe olan opak bir nesne için bütünün düzeltilmesi yapıldığında, bunlar daha sonra temas ettirilirse, nesne ile nesne camı arasındaki mesafe artacaktır; sonuç olarak ön kombinasyon daha güçlü bir şekilde etki edecek ve bütünün pozitif sapması fazla olacaktır. Şimdi, düz ve paralel bir cam parçasının ürettiği sapmanın etkisi negatif karakterde olduğundan, yukarıdaki düşüncelerin,
+mercekleri birbirine yaklaştırarak düzeltmenin yollarını önerdiği açıktır, ta ki böylece üretilen pozitif sapma, ortamın neden olduğu negatif sapmayı dengeleyene kadar.
+
+"Önceki yalnızca küresel sapmaya atıfta bulunur, ancak kromatiğin etkisi bir nesne bir cam parçasıyla
+kapatıldığında da görülür; çünkü deneylerim sırasında bunun Podura'nın ve diğer hassas pulların ana hatlarının kromatik kalınlaşmasına neden olduğunu gözlemledim; ve eksene yakın ve kenarda
+ayrılan ışınlar düz paralel bir cam parçasından yansıtılırsa, farklı renkler için çeşitli kırılma
+indisleri ile, her ışının ışının bileşen renklerinden oluşan bir ışına ayrılmış olarak çıkacağı ve her ışının form olarak
+çok farklı
+olacağı görülecektir. Bu fark, mikroskobun gücüyle
+büyütüldüğünde,
+az önce bahsedilen ana hatların kromatik kalınlaşmasını kolayca açıklar. Bu nedenle, son derece hassas ve küçük nesnelerin en iyi tanımını elde etmek için, bunlar bir örtü olmadan görülmelidir;
+bunları bir sıvıya batırmak isteniyorsa,
+mümkün olan en ince talk, kromatik sapmanın karakterinden, kombinasyonların mesafelerinin değiştirilmesinin düzeltmeyi belirgin şekilde etkilemeyeceği görülecektir; ancak nesne mercekleri renk düzeltmelerinde belirli bir sıvı veya katı ortamı dahil edecek şekilde yapılabilir.
+
+[Resim: Şekil 18.]
+
+"Bu prensipleri çeşitli koşullar altında bir nesne camının düzeltilmesine uygulama mekanizması, Şekil 18'de gösterilmiştir. Burada ön mercek, kombinasyonun geri kalanını içeren silindir B üzerinde kayan bir tüp A A'nın ucuna yerleştirilmiştir;
+Merceği nesneye en yakın tutan tüp A A, daha sonra, vidalı halka C C'yi çevirerek veya daha basit bir şekilde birini diğerinin üzerine kaydırarak ve ayarlandığında bunları birbirine kenetleyerek, nesneyi kaplayan camın kalınlığına göre mesafeyi değiştirme amacıyla silindir B üzerinde hareket ettirilebilir. Tüp A'da, içinde silindir üzerine kazınmış bir işaretin görüldüğü ve kenarında tüp üzerine kazınmış daha uzun ve daha kısa iki işaretin bulunduğu bir açıklık yapılır. Silindir üzerindeki işaret tüp üzerindeki daha uzun işaretle çakıştığında, ayar açık bir nesne için mükemmeldir; ve çakışma kısa işaret, bir inçin yüzde biri kalınlığındaki camın ürettiği sapmaları dengelemek için uygun mesafe elde edilir ve bu tür cam kolayca tedarik edilebilir. "Bu düzeltmenin gerekliliğinin, nesne camının herhangi bir özel yapısından tamamen bağımsız olduğunu gözlemlemek neredeyse gerekli değildir; çünkü nesne camının örtülmemiş bir nesne için düzeltildiği tüm durumlarda, camın herhangi bir şekilde kaplanması, daha önce diğer merceklerden kaynaklanan sapmayı dengeleyen ilk merceğe göre farklı bir sapma değeri yaratacaktır; ve bu bozulma ilk kırılmada gerçekleştiğinden, kombinasyonun diğer kısmından bağımsızdır. Etkinin görünürlüğü, nesnenin nesne camından uzaklığına, iletilen kalemin açısına, kombinasyonun odak uzaklığına, nesneyi kaplayan camın kalınlığına ve kromatizm ve eğik kalemler için düzeltmelerin genel mükemmelliğine bağlıdır.
+
+"Bu ayarlı nesne camıyla, bu nedenle, nesne ile nesne camı arasındaki mümkün olan en büyük mesafenin, iletilen büyük kalemden alan boyunca yoğun ve keskin bir şekilde tanımlanmış görüntünün ve sapmaların
+düzeltilmesi; Ayrıca, ayarlamayla, bir nesneyi gözlem amacıyla yerleştirmenin gerekli olabileceği tüm çeşitli koşullar altında bu düzeltmeyi korumanın araçları."
+
+Ekli gravürde, Şekil 19'da, üçlü akromatik
+nesne camını, alan camı F F ve gözlük camı E E'den oluşan göz merceğiyle birlikte gösterdik ve birlikte modern akromatik mikroskobu oluşturduk. Işığın seyri, nesnenin merkezinden üç ışın ve O'nun her iki ucundan üç ışın çizilerek gösterilmiştir.
+Bu ışınlar, kendi başlarına bırakılsalardı, nesnenin A A'daki bir görüntüsünü oluştururlardı, ancak alan camı F F tarafından bükülüp bir araya getirildiklerinde, görüntüyü B B'de oluştururlar, burada görüntünün oluşumu için gerekenler dışında tüm ışığı kesecek bir durdurucu yerleştirilir. Bu nedenle ışınlar, B B'den gözlüğe tam olarak basit mikroskop ve iki cam bileşiğine atıfta bulunularak açıklandığı gibi ilerler.
+
+[Resim: Şekil 19.]
+
+Burada durursak, göz merceğinin gerçekleştirdiği ve ilk olarak Bay Varley tarafından Transactions of the Society of Arts'ın 51. cildinde yayınlanan konuyla ilgili bir makalede ayrıntılı olarak belirtilen
+güzel düzeltme serisinin çok eksik bir fikrini iletmiş oluruz. Söz konusu göz merceği, Huyghens tarafından teleskoplar için icat edildi ve tek amacı küresel sapmayı azaltmak ve görüş alanını artırmaktı. Huyghens'in bu düzenlemeyle renk sapmasının büyük bir kısmını yanlışlıkla düzelttiğine işaret etmek Boscovich'e kalmıştı ve bu konu, matematik okuyucusunu yönlendirdiğimiz
+_Cambridge Philosophical Transactions_ adlı kitapta Profesör Airy tarafından daha fazla ustalıkla araştırılmıştır. Bu araştırmalar, esas olarak teleskop için geçerlidir; burada küçük ışık kalemleri ve nesnenin büyük mesafesi, mikroskopta önemli hale gelen ve Bay Varley'nin daha önce belirtilen makalesinde iyi bir şekilde belirtilen hususları dışlar.
+
+[Resim: Şekil 20.]
+
+Şekil 20'nin bir mikroskobun Huyghenean göz merceğini temsil ettiğini varsayalım; F F
+ve E E, dürbün ve gözlük camı ve L M N, üç kalemin her birinin, nesnenin merkezinden ve uçlarından yayılan iki uç ışını olup, dürbün olmasaydı, R R'den B B'ye kadar bir dizi renkli görüntü oluşurdu; R R'ye yakın olanlar kırmızı, B B'ye yakın olanlar mavi ve ara olanlar yeşil, sarı vb. prizmatik spektrumun renklerine karşılık gelir. Bu renk sırasının, ortak bileşik mikroskopta (Şekil 12) anlatılanın tersi olduğu görülecektir; burada tek bir nesne camı kırmızı görüntüyü mavi görüntünün ötesine yansıtır. Az önce açıklanan, mavi görüntüyü kırmızı görüntünün ötesine yansıtma etkisi, şu anda verilecek sebeplerden dolayı kasıtlı olarak üretilir ve buna nesne camının renk açısından aşırı düzeltilmesi denir. Ayrıca, B B ve R R görüntülerinin dışbükey bir göz merceği tarafından açıkça görülemeyecek şekilde yanlış yönde eğrildiği ve bunun iki mercekli bileşik mikroskobun bir başka kusuru olduğu da gözlemlenmelidir. Ancak, alan camı, ışınları büküp onları B' B' ve R' R' odaklarına yakınlaştırırken, aynı zamanda orada gösterilen görüntülerin eğriliğini de tersine çevirir ve bunlara gözlük E E tarafından belirgin bir şekilde görülebilecek en iyi şekli verir. Alan camı aynı zamanda mavi ve kırmızı görüntüleri birbirine yaklaştırmıştır, böylece gözlük camından renksiz olarak geçmeye uyarlanmıştır. Bu önemli noktayı daha anlaşılır kılmak için, nesne camının aşırı düzeltilmemiş, tamamen akromatik olduğu varsayılsın; ışınlar daha sonra alan camından geçer geçmez renklenirdi; örneğin, mavi ışınlar _b_ noktasında ve kırmızı ışınlar _r_ noktasında birleşirdi ki bu da göz merceğinin gerektirdiğinin tam tersidir; çünkü mavi odağı da kırmızısından daha kısa olduğundan, mavi görüntünün _r_ noktasında ve kırmızının _b_ noktasında olmasını isterdi. Bu etkinin, mavi odakları B B'yi, alan merceğinin ve göz merceğinin kırmızı ve mavi odakları arasındaki mesafelerin toplamı kadar kırmızı odakların R R ötesine çıkaran nesne camının aşırı düzeltilmesinden kaynaklandığını gösterdik; Böylece B R ayrımı tam olarak bu iki mercekten geçerken alınır ve tüm renkler, ışınlar göz merceğinden geçer geçmez odak uzaklığı açısından çakışır. Ancak mesafe açısından çakışırken, başka bir açıdan farklılık gösterirler; mavi
+görüntüler, mavi ışınlar üzerindeki alan camının üstün kırılma
+gücüyle kırmızıdan daha küçük hale getirilir. Örneğin, L kalemini çizerken, alan camından geçtikten sonra, biri bütün, biri noktalı olmak üzere iki çizgi dizisinin çizildiği fark edilecektir; birincisi kırmızıyı, ikincisi mavi ışınları temsil eder. Bu, Boscovich'in işaret ettiği Huyghenean göz merceğindeki
+kazara etkidir. Alan camındaki bu renk ayrımı, nesne camının aşırı
+düzeltmesine benzer; daha sonra tam bir
+düzeltmeye yol açar. Çünkü farklı renkteki ışınlar göz camına ulaşana kadar bir arada tutulursa, o zaman renkli hale gelir ve göze renkli görüntüler sunar; Ancak neyse ki ve en güzeli, dürbünle yapılan ayırma, mavi ışınların gözlük camının merkezine çok daha yakın düşmesine neden olur, burada, küresel şekil nedeniyle, kırılma gücü kenardakinden daha azdır, böylece göz merceğinin küresel hatası, dürbünün kromatik dağılımına neredeyse mükemmel bir denge oluşturur ve kırmızı ve mavi ışınlar L' ve L'' belirgin şekilde paralel olarak ortaya çıkar, sonuç olarak göze tek bir noktanın mükemmel bir tanımını sunar. Aynı mantık, ara renkler ve diğer kalemler için de geçerlidir.
+
+Açıklananlardan, akromatik bir nesne camıyla, olağan dağılım sırasının o kadar tersine çevrildiği, ışığın, göz merceği tarafından yapılan benzersiz güzellikteki bir dizi değişiklikten sonra göze renksiz geleceği bir nesne camını kastettiğimiz açıktır. Bu sonuçları üretmek için belirli kurallar veremeyiz.
+Alıntıladığımız ünlü matematikçiler tarafından verilen akromatizmanın formüllerinin yakından incelenmesi çok işe yarayacaktır, ancak ilkeler tekrarlanan deneylerin testine tabi tutulmalıdır. Ayrıca, eğriler en doğru şekilde ölçülüp çalıştırılmadığı ve mercekler, yalnızca teleskoplara aşina olanlar için eşi benzeri görülmemiş bir hassasiyetle merkezlenip ayarlanmadığı sürece deneylerin hiçbir değeri olmayacaktır. Açıkladığımız Huyghenean göz merceği yalnızca optik amaçlar için en iyisidir, ancak büyütülmüş görüntüyü ölçmek gerektiğinde Bay Ramsden tarafından icat edilen ve amacından dolayı mikrometre göz merceği olarak adlandırılan göz merceğini kullanırız. Bazen hayvansal veya bitkisel maddelerin herhangi bir ölçüm cihazında yapay olarak yapılabilecek bölümlerden yüz kat daha küçük kısımlarını ölçmemiz gerektiği belirtildiğinde, ölçeği büyütülmüş görüntüye uygulamanın avantajı, aletin sahnesine kazınmış veya mekanik mikrometrelerin uygulanmasıyla karşılaştırıldığında açık olacaktır. Düzenleme, Şekil 21'de gösterilmiştir, burada E E ve F F göz ve alan camıdır, ikincisinin düzlem yüzü artık nesneye dönüktür. Nesneden gelen ışınlar burada alan camının hemen önünde A A'da birleştirilir ve burada ayrıca üzerine yüzde bir inç veya daha az kazınmış bölümler olan bir düzlem cam yerleştirilir. Bu bölümlerin işaretleri, bu nedenle nesnenin görüntüsüyle aynı anda
+odaklanır ve ikisi de belirgin bir şekilde birlikte görülür.
+Böylece, büyütülmüş görüntünün ölçüsü yalnızca incelemeyle verilir ve
+bu tür ölçümlerin gerçek nesneye göre değeri şu şekilde elde edilebilir, ki bir kez elde edildiğinde aynı nesne camı için sabittir. Aletin sahnesine değeri bilinen bölünmüş bir ölçek yerleştirin ve bu ölçeği mikroskobik nesne olarak
+görüntüleyerek, göz merceğine bağlı ölçekteki bölümlerden kaçının büyütülmüş görüntüdeki bölümlerden biriyle
+karşılaştığını gözlemleyin. Örneğin, göz merceğindekilerden on tanesi görüntüdeki bölümlerden biriyle
+karşılaşıyorsa ve bölümlerin eşit olduğu biliniyorsa, görüntü nesneden on kat daha büyüktür ve nesnenin boyutları mikrometrenin gösterdiğinden on kat daha küçüktür. Mikrometre ve büyütülmüş ölçekteki bölümler eşit olmasaydı, bu sadece üç kuralı toplamı haline gelir, ancak genel olarak bu sorun, her bir nesne camı için mikrometrenin her bölümünün değerini gösteren bir tablo sağlayan aletin üreticisi tarafından üstlenilir.
+
+[Resim: Şekil 21.]
+
+Ölçme konusuna değinirken, bileşik mikroskobun büyütme gücünü belirleme modunu açıklamak iyi olabilir, bu genellikle daha önce belirtilen varsayıma göre, çıplak gözün on inç mesafede en belirgin şekilde gördüğü varsayımına dayanır.
+
+Daha önce olduğu gibi, aletin sahnesine bilinen bölünmüş bir ölçek yerleştirin ve belirgin şekilde görüldüğünde, cetveli, diğer ölçeğin büyütülmüş resminin üzerine binecek veya yan yana olacak şekilde, serbest gözden on inç uzaklıkta tutun. Daha sonra kuralı bilinen bölümlerinden bir veya daha fazlası büyütülmüş ölçekteki bölümlerden birkaçına denk gelene kadar hareket ettirin ve ikisinin karşılaştırılması büyütme gücünü verir.
+
+Akromatik bileşik mikroskobun optik prensiplerini açıkladıktan sonra, geriye sadece bu prensiplere tam etkisini vermek için mekanik düzenlemeleri tanımlamak kalır. Bir mikroskobun mekanizması, konuyu incelememiş olanların hayal edebileceğinden çok daha önemlidir. İlk olarak, sabitlik veya titreşimden arınmışlık ve özellikle de incelenen nesneye ve görüntülendiği merceklere eşit olarak iletilmeyen herhangi bir titreşimden arınmışlık, en önemli noktadır. Örneğin, mercekleri içeren gövde alt ucundan yatay bir kola vidalandığında, düşünülebilecek en titreşimli formlardan birine sahip oluruz; bu, aksi takdirde duyarsız titreşimleri belirtmek için açıkça tasarlanmış olan ters sarkaç formudur. Böyle bir düzenlemeye zorunlu olarak eşlik eden titreme, aletin tüm gücüyle büyütülür;
+ve sahnedeki nesne bu titremeden nispeten duyarsız bir derecede pay aldığından, görüntünün o kadar hızlı sallandığı görülür ki, bazı durumlarda tamamen ayırt edilemez olur. Bu tür mikroskoplar, arabaların geçtiği herhangi bir asfalt yola bitişik sıradan evlerde yüksek güçlerle kullanılamaz, ayrıca sıradan iç sarsıntı kaynaklarının olduğu evlerde kullanılmaya da uygun değildir.
+
+Bir bileşik mikroskobu monte etmenin en iyi yollarından biri, tüm ayrıntıları göstermek için çok küçük olsa da, düzenlemenin temel özelliklerini açıklamaya hizmet edecek olan ekteki görünümde (Şekil 22) gösterilmiştir.
+
+Büyük bir sütun A, sağlam bir tripod B'ye vidalanır ve C'de tüm aletin döndüğü, böylece mükemmel bir yatay veya dikey pozisyon veya örneğin gravürde gösterilen herhangi bir ara açı almasını sağlayan güçlü bir eklemle taçlandırılır.
+
+Aletin bu hareketli kısmı, tek bir sağlam döküm D
+E F G'den oluşur; F'den G'ye kadar sahneyi ve uzantılarını taşıyan kalın bir delikli plakadır. Bileşik gövde H, D E çubuğuna tutturulur ve üzerinde frezelenmiş kafalardan K'nin çalıştırdığı bir kremayer ve pinyonla yukarı ve aşağı hareket eder. D E F G parçası, aletteki gerekli hareketin kaynağı olan ve açıkça en zayıf parçası olan ve etrafında şüphesiz önemli bir titreşimin meydana geldiği C eklemiyle sütuna tutturulur. Ancak D E F G parçası zorunlu olarak bu titreşimleri eşit olarak mikroskop gövdesine ve sahnedeki nesnelere ilettiği için, her zaman aynı göreli konumu korurlar ve gerçekte ne kadar
+var olursa olsun, hiçbir _görünür_ titreşim oluşmaz. Sahnenin alt tarafına, ışığı sahnedeki açıklıktan yansıtmak için bir tarafı düz, diğer tarafı içbükey olan ayna M'nin kaydığı dairesel bir sap L tutturulmuştur. Sahnenin altında, incelenen nesneye düşmesine izin verilecek ışık kaleminin açısını sınırlamak için çeşitli boyutlarda üç açıklık içeren dairesel bir döner plaka vardır. Bu kolaylıkların yanı sıra, sahnenin birbirine dik iki raf tarafından üretilen ve altındaki frezelenmiş kafalar tarafından çalıştırılan çift hareketi vardır. Ayrıca, küçük nesneleri tutmak için forseps gibi olağan uzantıları ve üzerlerindeki ışığı yoğunlaştırmak için bir merceği vardır; bunların hepsi iyi anlaşılır ve eğer anlaşılmazlarsa, en uzun açıklamadan daha fazla mikroskopla birkaç dakikalık bir incelemeyle daha anlaşılır hale getirilecektir. Dikkat edilmesi gereken bir nokta daha var. Frezelenmiş kafa K tarafından üretilen hareket, çok güçlü merceklerin odağını ayarlamak için yeterince hassas değildir, aslında hiçbir raf hareketi de öyle değildir. Sadece en iyi vidalar bu amaca uyarlanmıştır; ve bunlar bile vidanın hareketinin hızını azaltmak için araçlarla iyileştirilmiştir. Bu amaçla, nesne camını taşıyan bileşik gövde H'nin alt ucu, ana gövdedeki paralel kılavuzlarda kayan daha küçük bir tüp parçasından oluşur ve bir spiral yay tarafından sürekli olarak yukarı doğru bastırılır, ancak gövdeyi geçen bir kolla aşağı doğru çekilebilir ve N'de görülen frezelenmiş başı olan ve inceliği nesne camına etki ettiği kol aracılığıyla üç katına çıkarılan son derece ince bir vida tarafından hareket ettirilir. Alet, elbette raf hareketiyle kabaca ayarlanır ve vidayla veya amaç için seçilen diğer araçlarla tamamlanır. Bay Powell tarafından icat edilen, mikroskop gövdesi yerine sahneye uygulanan çok
+ustaca bir düzenek, Transactions of the Society of Arts'ın 50. cildinde açıklanacaktır. [Resim: Şekil 22.]
+
+Basit mikroskopla ilgili olarak verilen nesnelerin görüntülenmesi ve aydınlatılmasıyla ilgili talimatların büyük kısmı
+bileşik için geçerlidir. Büyük, ayrı bir merceğin odağına yerleştirilen ve aynaya paralel ışınlar
+atacak şekilde bir argand lambası en iyi yapay ışıktır; ve opak nesneler için bu şekilde yayılan ışık, nesne camlarına takılı metal spekulumlar (mucidi Lieberkhuns'tan dolayı) tarafından yansıtılabilir.
+
+Yakın zamanda Sir David Brewster ve M. Dujardin tarafından Wollaston kondansatörünün akromatik hale getirilmesi önerildi ve buna göre daha önce açıklanan tek mercek yerine üç çift akromatik mercek kullanıldı ve bu da çok
+mükemmel bir etki yarattı. Son olarak adı geçen beyefendi ayrıca, büyütülmüş resmi dikmek amacıyla göz merceğine takılan, Hiptiyoskop adı verilen
+ustaca bir cihaz da tasarladı.
+
+Genellikle bileşik mikroskopa uygulanan dikleştirici, teleskobun dikleştirici göz merceği gibi hareket eden bir çift mercekten oluşur. Ancak bu, diseksiyon amacıyla kullanışlı olsa da, aletin optik performansını çok fazla bozar.
+
+[Resim: Şekil 23.]
+
+Mikroskop tarafından sunulan görüntüleri çizmek için en iyi cihaz, gözlük camının önünde 45 derecelik bir açıyla eğimli bir levha cam parçasına yapıştırılmış ince bir koyu renkli cam parçasından oluşan bir ayna M'den (Şekil 23) oluşur. Gözlük camından kaçan ışığın, koyu cam tarafından yukarıya doğru göze yansımasına yardımcı olunur ve bu da kağıdı daha az parlak hale getirme ve böylece gözün yansıyan görüntüyü daha iyi görmesini sağlama gibi daha yararlı bir amaca hizmet eder. Reflektörün altındaki lens L, kağıt ve kalemden gelen ışığın gözlük camından alınanla aynı mesafeden sapmasına neden olur; başka bir deyişle, göze paralel çizgiler halinde ulaşmasını sağlar.
+
+[Resim: Şekil 24.]
+
+Resim 24'te gösterildiği gibi Dr. Wollaston'ın camera lucida'sı bazen aynı amaçla mikroskobun göz merceğine takılır. Bu alette ışınlar, "Camera Lucida" makalesinde açıklandığı gibi, cam prizma içinde iki iç yansımaya maruz kalır.
+Bu küçük resimde, yalnızca karışıklığı önlemek için yansıyan ışınları izlemeyi ihmal ettik.
+
+[Resim: Şekil 25.]
+
+[Resim: Şekil 26.]
+
+[Resim: Şekil 27.]
+
+Eklerde, gerçek karakterini ahşapta vermek imkansız olan ve herhangi bir
+resimle elde edilmesi gerçekten zor olan mikroskobik nesnelerin dört gravürü yer almaktadır.
+
+[Resim: Şekil 28.]
+
+Şekil 25, Podura Plumbea adı verilen küçük böceğin, yani yaygın Skiptail'in yaklaşık beş yüz kez büyütülmüş bir pulunu göstermektedir. Bu
+skaladaki işaretleri açıkça tanımlamak, derin
+akromatik bir nesne camının en yüksek testidir; ve bu çizim, gözlemcinin ne araması gerektiğini açıklamak için verilmiştir, çok doğru bir
+temsil olmaktan ziyade. Şekil 26, Menelaus
+Kelebeğinin bir pulu veya tüyüdür; Şekil 27, tekil bir böcek olan Dermestes'in kılıdır;
+ve Şekil 28, iğne yapraklı ağaçları ayıran damarlardaki dairesel bezleri gösteren köknarın uzunlamasına bir kesimidir. Bu son nesneler yarım inç veya çeyrek inç akromatik camlarla görülebilir.
+Opak nesneler genellikle, genel bir görünüme ihtiyaç duyulduğunda inç ve iki inçlik camlarla ve dakik yapılarını incelemek istediğimizde daha yüksek güçlerle daha iyi sergilenir. İkinci durumda, ışık
+metalik
+spektula yerine yoğunlaştırıcı merceklerle elde edilmelidir.
+
+Yansıtıcı mikroskop artık çok az kullanılıyor olsa da, bundan bahsetmemiz
+beklenebilir. Bu alette, Şekil 29'da,
+nesne O, aynanın eğimli yüzü M tarafından yansıtılır ve
+ışınlar tekrar elipsoidal
+reflektör R R tarafından yansıtılır ve birleştirilir, bu da bileşik mikroskobun nesne camıyla aynı işlevi görür. Daha önce açıklanan renk açısından aşırı düzeltmeye maruz kalmayan ve bu nedenle
+göz merceğinden geçerken renklenen bir görüntü oluşturur. Bu gerçek ve yansımayla ışığın kaybı, muhtemelen yansıtıcı mikroskobu her zaman akromatik kırılmaya göre daha düşük hale getirecektir.
+
+[Resim: Şekil 29.]
+
+Güneş mikroskobu neredeyse oksi-hidrojen tarafından
+yerinden edilmiştir, bu nedenle ikincisinin kısa bir açıklaması yeterli olacaktır,
+özellikle de optik prensipleri benzer olduğundan.
+
+Her ikisindeki temel amaç, bazen aynalar, bazen de mercekler kullanılarak nesneye yoğun bir ışık yansıtmaktır.
+
+Şekil 30'da, L yanan kireç silindirini, R R ışığı nesnenin üzerine
+yoğunlaştıran reflektörü temsil eder; bu reflektör, iki plano-dışbükey mercekten geçerek,
+çok uzak bir mesafeye yerleştirilmiş bir ekran üzerinde
+odaklanır ve büyütülmüş görüntü
+oluşturulur.
+
+[Resim: Şekil 30.]
+
+Şekil 31, ışığı nesnenin üzerine yoğunlaştırmak için bir mercek kombinasyonunu göstermektedir. Her iki durumda da görüntünün oluşturulduğu optik düzenlemeler, bileşik mikroskoplar için açıklananlarla aynı mükemmelliğe sahiptir. Oksi-hidrojen mikroskopları için birkaç akromatik cam yapılmıştır ve bunlar nihayetinde doğa tarihi ve fizyoloji üzerine derslerin resimlenmesinde değerli araçlar haline gelecektir. Bay Ross tarafından yapılan bir tanesi birkaç ay önce Sanat Derneği'nde orman fizyolojisi üzerine bir dersi resimlemek için sergilendi. Ancak, oksi-hidrojen veya güneş mikroskobunun küresel bir ekrana veya nesnelerin küresel camlar arasına yerleştirilmesine ihtiyaç duyduğu, böylece bütünü tek seferde odak noktasına getirebileceği belirtilmelidir. Bu son plan, az önce bahsedilen olayda mükemmel bir başarıyla benimsenmiştir.
+
+[İllüstrasyon: Şekil 31.]
+
+Andrew Ross'un The Microscope adlı Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MICROSCOPE ***
+
+***** This file should be named 41958.txt or 41958.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/1/9/5/41958/
+
+Produced by Chris Curnow, Matthew Wheaton and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
