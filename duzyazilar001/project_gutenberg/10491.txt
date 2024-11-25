@@ -1,0 +1,3269 @@
+*** START OF AKTAHEADER ***
+Başlık: Practice Book (Uygulama Kitabı)
+Yazar: Leland Powers
+Yayın Tarihi: December 18, 2003 [EBook #10491]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/10491
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: din
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Practice Book, by Leland Powers
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Practice Book
+
+Author: Leland Powers
+
+Release Date: December 18, 2003 [EBook #10491]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRACTICE BOOK ***
+
+*** START OF TURKISH PART ***
+Afra Ullah, Leonard D Johnson ve PG Distributed Proofreaders tarafından üretilmiştir
+
+PRATİK
+KİTABI
+
+LELAND POWERS OKULU
+
+1909
+
+TEŞEKKÜRLER.
+
+* * * * *
+
+Telif hakkı alınmış seçmelerin yeniden basılmasına cömertçe izin veren yayıncılara minnettarlığımı burada kamuoyuna açıklamak istiyorum. Little, Brown & Company'ye, Daniel Webster'ın bir söylevinden alınan "Eloquence" adlı alıntıyı kullandığım için; Small, Maynard & Company'ye, Bayan Gilman'ın "In This Our World" adlı kitabından alınan "A Conservative" adlı şiiri kullandığım için; Lothrop, Lee & Shepard Company'ye, Bay Burton'ın şiirleri için; Longmans, Green & Company'ye, John Ruskin'in eserlerinden alıntılar için minnettarım. Sill ve Emerson'dan seçmeler, eserlerinin yayıncıları olan Houghton, Mifflin & Company'nin izniyle ve özel bir anlaşmayla kullanılmıştır.
+
+"Elemental Vokal
+İfade İçin Egzersizler" ve "Geçiş İçin Egzersizler" başlıkları altındaki alıntılar, birkaç istisna dışında, merhum Lewis B. Monroe'nun "The Sixth Reader" adlı eserinden alınmıştır ve burada American Book Company'nin izniyle yeniden basılmıştır.
+
+LELAND POWERS.
+
+DİZİN
+
+* * * * *
+
+TARLALAR ARASINDA ANNE, _Richard Burton_
+
+BROOK, _Alfred, Lord Tennyson_
+
+SAVAŞÇI MÜZİKLERİ _Robert Browning_
+I. Give a Rouse.
+II. Bot ve Eyer.
+
+COLUMBUS _Joaquin Miller_
+
+ARTHUR'UN GELİŞİ, _Alfred, Lord Tennyson_
+
+MUHAFAZAKAR, _Charlotte Perkins Gilman_
+
+HER BİRİ VE TÜM _Ralph Waldo Emerson_
+
+ELAINE _Alfred, Lord Tennyson_
+
+BELAGAT _Daniel Webster_
+
+TEMEL SES İFADESİ İÇİN EGZERSİZLER
+
+GEÇİŞ İÇİN EGZERSİZLER
+
+FEZZIWIG BALL, _Charles Dickens_
+
+BEŞ YAŞAM _Edward Rowland Sill_
+
+YEŞİL ŞEYLER BÜYÜYOR _Dinah Mulock Craik_
+
+HERVE RIEL _Robert Browning_
+
+ZAMANIMIZ OLSA _Richard Burton_
+
+SHALOTT'UN HANIMEFENDİSİ, _Alfred, Lord Tennyson_
+
+GÜLEN KORO, A
+
+YAŞAM VE ŞARKI _Sidney Lanier_
+
+LOCHINVAR _Sir Walter Scott_
+
+MONT BLANC GÜNEŞ DOĞMADAN ÖNCE _S.T. Coleridge_
+
+SON DÜŞESİM _Robert Browning_
+
+YILDIZIM _Robert Browning_
+
+PIPPA GEÇİYOR, _Robert Browning_'den alıntılar
+I. Gün.
+II. Yılın Baharı.
+
+RHODORA, _Ralph Waldo Emerson_
+
+YÜZÜK VE KİTAP, _Robert Browning_'den alıntı
+
+DAVID COPPERFIELD'DAN SAHNE, I. _Charles Dickens_
+
+DAVID COPPERFIELD'DAN SAHNE, II. _Charles Dickens_
+
+KRAL IV. HENRY'DEN BİR SAHNE--"Falstaff'ın Askerleri" _William Shakespeare_
+
+SHAUGHRAUN'DAN BİR SAHNE _Boucicault_
+
+ÖZGÜVEN _Ralph Waldo Emerson_
+
+HİKAYE, THE--Croisic'in İki Şairinden _Robert Browning_
+
+SERVETİN GERÇEK KULLANIMI, THE _John Ruskin_
+
+SONUNDA GERÇEK _Edward Rowland Sill_
+
+ÇALIŞMA _John Ruskin_
+
+TEMEL SES İFADESİ İÇİN EGZERSİZLER.
+
+Her bölümün altındaki egzersizler _öncelikle_ o bölümün özelliklerini, _ikincil olarak_ diğer iki bölümün özelliklerini taşır.
+
+BÖLÜM I.
+
+CANLILIK.
+
+ZİHİNSEL FAALİYETLER _Güç, Büyüklük,
+Özgürlük, Canlandırma, Hareket_ BİLİNCİNİN HÂKİM OLDUĞU.
+
+1. "Hadi! Bayrak direğini derinden vurun, Şövalye Bey--hadi! Çiçekleri dağıtın, güzel
+
+kızlar:
+Hadi! Topçular, yüksek sesle selamlayın--hadi! Yiğitler, kılıçlarınızı çekin."
+
+* * * * *
+
+2. "Uyanın, Kral Bey, kapılar açılıyor!
+Kalkın ve hem hızlı hem de uzaklara doğru sürün!
+Deniz sürgü ve çubuktan akıyor."
+
+* * * * *
+
+3. "Yeni İngiltere'nin tüm gerçek oğullarını insan yasaları ve cennetin adaletiyle
+iş birliği yapmaya çağırıyorum."
+
+* * * * *
+
+4. "Sicilyalı Robert, Papa Urbane'nin kardeşi,
+Ve Allemaine imparatoru Volmond,
+Muhteşem kıyafetler giymiş,
+Birçok şövalye ve silahtarın maiyetiyle,
+Aziz John'un akşam duasında gururla oturmuş,
+Ve rahibin Magnificat'ı söylediğini duymuş."
+
+* * * * *
+
+5. "Sonra efendi,
+Bir emir hareketiyle,
+Elini salladı;
+Ve bu söz üzerine,
+Yüksek ve ani bir şekilde duyuldu
+Etraflarında ve aşağıda
+Çekiç sesleri, darbe üstüne darbe,
+Kıyıları ve mahmuzları deviriyordu.
+Ve bakın! O kıpırdandı!
+Başladı,--hareket etti,-- sanki hissediyordu
+Omurgası boyunca hayatın heyecanını,
+Ve ayağıyla yeri tekmeleyerek,
+Coşkulu, neşeli bir sıçrayışla,
+Okyanusun kollarına atladı!"
+
+* * * * *
+
+6. "Onun tekmeleyen ayaklarının altında, yol
+Ok gibi akıyordu Alplerden bir nehir,
+Ve manzara hızla uzaklaştı,
+Rüzgarın önünde uçan bir okyanus gibi."
+
+* * * * *
+
+7. "Rüzgar, bir sabah uykudan fırladı,
+'Hadi eğlenceye! Hadi sıçramaya!
+Hadi çılgınca dörtnala koşmaya!
+Her yerde bir kargaşa yaratacağım!'"
+
+* * * * *
+
+8. "Ah, dinle! Ah, duy! Ne kadar ince ve berrak,
+Ve daha ince, daha berrak, daha uzağa gidiyor!
+Ah, tatlı ve uzak, uçurumdan ve yaradan,
+Elf diyarının boynuzları hafifçe esiyor!"
+
+* * * * *
+
+9. "Tamamlandı!
+Çan çınlaması ve top kükremesi!
+Haberleri yukarı aşağı gönder.
+Çan kuleleri nasıl sallanıyor ve sarsılıyor!
+Büyük toplar, nasıl da çınlıyor,
+Şehri kasabadan kasabaya fırlatıyor!"
+
+* * * * *
+
+10. "Ey kutsal formlar, ne kadar gururlu görünüyorsunuz!
+Başlarınızı göğe ne kadar da kaldırıyorsunuz!
+Ne kadar da büyük, ne kadar kudretli ve ne kadar özgürsünüz!
+Sizler yükselen, parlayan şeylersiniz; gülümsemeniz
+Mutlu eder--kaş çatmanız korkunçtur; formlarınız,
+Cübbeli veya cübbesiz, tüm izlenimler
+İlahi bir korkunun."
+
+BÖLÜM II.
+
+ZİHNİYET.
+
+_Yansıma_ BİLİNCİ VEYA _Düşünce, Berraklık, Kesinlik_ _Süreçleri_ TARAFINDAN HÂKİM EDİLDİĞİ ZİHİN FAALİYETLERİ.
+
+1. "Caddenin ötesinde bir kule,--kulenin ötesinde bir ay,--ayın ötesinde
+bir yıldız,--Yıldızın ötesinde, ne?"
+
+* * * * *
+
+2. "Bir kez daha: Konuşacaksanız, açık konuşun;
+Her kelimeyi düşürmeden önce kazıyın;
+Bir konuşmacı veya tiyatro yıldızı gibi,
+İngiliz R'sini yuvarlamak için fazla uğraşmayın;
+Aksanlarınızı doğru yere koyun;
+Yalvarırım, 'Ne?' yerine 'Nasıl?' demeyin.
+Ve konuşmanın pürüzlerine takılıp kaldığınızda,
+Yolunuzu o korkunç ur'larla doldurmayın."
+
+* * * * *
+
+3. "Olmak ya da olmamak; işte bütün mesele bu:--
+Zihinsel olarak acı çekmek mi daha asildir
+Çılgın talihin sapan taşlarına ve oklarına;
+Ya da bir dertler denizine karşı silah almak mı,
+Ve onlara karşı koyarak onları sonlandırmak mı? Ölmek: uyumak,--
+Artık yok:"
+
+* * * * *
+
+4. "Samimiyet, derin, büyük, gerçek bir samimiyet, herhangi bir şekilde kahramanca olan tüm insanların ilk karakteristiğidir. Kendini samimi olarak adlandıran samimiyet değil; bu ... çoğunlukla kendini beğenmişliktir. Büyük adamın samimiyeti,
+konuşamayacağı, bilincinde olmadığı türdendir."
+
+* * * * *
+
+5. "_Brutus_. Çalışma odamda bana bir mum getir, Lucius.
+
+_Lucius_. Yaparım, efendim. (_Çıkış_.)
+
+_Brutus_. Ölümüyle olmalı: ve benim açımdan,
+Onu hor görmem için hiçbir neden bilmiyorum,
+Ama general için. Taç giydirilecekti:--
+Bu onun doğasını nasıl değiştirebilir, işte soru bu.
+Engereği doğuran parlak gündür;
+Ve o, dikkatli yürümeyi arzular. Taç giydirmek mi?--
+Ve sonra, kabul ediyorum, ona bir iğne batırırız,
+İstediği zaman tehlike yaratabilir."
+
+* * * * *
+
+6. "Başlangıçta Söz vardı ve Söz Tanrı'yla birlikteydi ve Söz
+Tanrı'ydı. Başlangıçta Tanrı'yla birlikteydi."
+
+* * * * *
+
+7. "Yazarın amacı, bilinçli veya bilinçsiz olarak,
+dünyanın değil, salt gerçeklerin değil,
+onun bu konudaki duygusunun kopyalanması haline geldiği oranda, bir sanatçı olur; eseri _güzel_ bir sanattır ve
+o duygunun sunumunun doğruluğuna orantılı olarak iyi bir sanattır.
+Gerçek! O olmadan hiçbir değer, hiçbir zanaat olamaz. Ve dahası,
+tüm güzellik uzun vadede yalnızca gerçeğin _inceliği_ veya bizim ifade dediğimiz şeydir, konuşmanın o iç vizyona daha iyi uyumu."
+
+* * * * *
+
+8. "Çünkü Evrenin aynı anda doğan üç çocuğu vardır ve bunlar,
+farklı isimler altında, her düşünce sisteminde yeniden ortaya çıkarlar, ister
+neden, işlem ve sonuç olarak adlandırılsınlar; ister teolojik olarak
+Baba, Ruh,
+ve Oğul; ama biz burada, Bilen, Yapan ve Söyleyen olarak adlandırıyoruz.
+Bunlar sırasıyla hakikat sevgisini, iyi sevgisini ve
+güzellik sevgisini temsil eder. Bu üçü eşittir. Bu üçünün her biri,
+diğerlerinin gücünü kendisinde gizli olarak taşır ve kendi patenti."
+
+BÖLÜM III.
+
+AHLAK.
+
+_Amaç, Sevgi, Uyum,
+Denge, Değerler_ BİLİNCİNİN HÂKİM OLDUĞU ZİHİN FAALİYETLERİ.
+
+1. "Dostum, eğer Woolwich'in tüm topçuları senin sırtında haksız bir şeyi desteklemek için yuvarlanıyor olsaydı ve önünde yüzyıllar boyunca zaferini yakmak için gözle görülür şekilde sonsuz şenlik ateşleri
+bekliyor olsaydı, sana durmanı, sopanı fırlatmanı ve 'Cennetin adına, Hayır!' demeni tavsiye ederdim."
+
+* * * * *
+
+2. "Çatlak duvardaki çiçek,
+Seni çatlaklardan çıkarıyorum;--
+Seni burada, kökün ve her şeyinle, elimde tutuyorum,
+Küçük çiçek--ama eğer anlayabilseydim
+Ne olduğunu, kökün ve her şeyinle,
+Tanrı'nın ve insanın ne olduğunu bilirdim."
+
+* * * * *
+
+3. "Böyle bir müziği çilingirden başka kim yapabilirdi?
+Çerçevesiz pencereden içeri süzülen ve karanlık atölyeyi
+geniş bir ışık parçasıyla aydınlatan bir güneş ışığı,
+sanki güneşli kalbinin
+çektiği gibi tam üstüne düştü."
+
+* * * * *
+
+4. "_Portia_ Beni görüyorsun, Lord Bassanio,
+Ben olduğum gibi duruyorum;
+Yalnızca kendim için,
+Hırslı olmazdım,
+Kendimi daha iyi dilemek için; yine de, senin için,
+Kendimi yirmi kat üçe katlardım;
+Bin kat daha güzel, on bin kat daha zengin;"
+
+* * * * *
+
+5. "Su değirmenini dinleyin;
+Uzun gün boyunca,
+Tekerleklerinin tıkırtısı
+Saatleri nasıl da aşındırıyor!
+Sonbahar rüzgarı uyuşuk bir şekilde
+Orman yapraklarını hareketlendiriyor,
+Tarlalardan biçerdöverler şarkı söylüyor,
+Demetlerini bağlıyor;
+Ve bir atasözü zihnimi meşgul ediyor,
+Bir büyü yapılmış gibi;
+'Değirmen asla öğütemez
+Geçmiş suyla.'"
+
+* * * * *
+
+6. "Evrende düşüncelerle dolaşırken, iyi olan az şeyin
+ölümsüzlüğe doğru hızla ilerlediğini gördüm. Ve kötülük denen engin şeyin
+birleşmek, kaybolmak ve ölmek için acele ettiğini gördüm."
+
+* * * * *
+
+7. "Bir gün, uzakta sürüklenen şekilsiz bir nesne gördük.
+Denizde, çevredeki genişliğin tekdüzeliğini bozan her şey
+dikkat çeker. Tamamen enkaz haline gelmiş bir geminin direği olduğu ortaya çıktı; çünkü mürettebatın bazılarının dalgalar tarafından yıkanmasını önlemek için
+kendilerini bu direğe bağladıkları mendillerin kalıntıları vardı.
+
+"Geminin adının doğrulanabileceği hiçbir iz yoktu.
+Enkazın aylarca sürüklendiği belliydi; etrafına
+kabuklu deniz ürünleri kümeleri yapışmıştı ve yanlarında uzun deniz yosunları sallanıyordu. Ama mürettebat nerede, diye düşündüm? Mücadeleleri çoktan
+bitti. Fırtınanın uğultusu arasında battılar. Kemikleri
+derinliklerin
+mağaraları arasında beyazlaşmış bir şekilde yatıyor. Sessizlik, unutuluş, dalgalar gibi üzerlerine kapandı ve kimse onların sonunun hikayesini anlatamıyor. "
+
+* * * * *
+
+8. "Günbatımı ve akşam yıldızı ve benim için tek bir net çağrı!
+Ve denize açıldığımda barın inlemesi olmasın;
+Ama hareket eden böyle bir gelgit uykuda gibi görünür, ses ve köpük için fazla dolu,
+Sınırsız derinlikten çeken tekrar evine döndüğünde."
+
+* * * * *
+
+9. "Efendim, sen tüm nesiller boyunca bizim meskenimiz oldun. Dağlar
+doğmadan önce, ya da sen dünyayı ve dünyayı
+oluşturmadan önce, hatta ezelden ebede kadar, sen Tanrı'sın."
+
+GEÇİŞ İÇİN EGZERSİZLER.
+
+1. "Ah, orgumuz nasıl da çok sayıda ve harika sesleriyle konuşabiliyor!--
+Aşkın yumuşak lavtasını çal, savaşın gürültülü trompetini üfle,
+Yüksek bir sesquialtro ile şarkı söyle, ya da tüm diyapazonunu çekerek,
+Pedallarının ve stoplarının görkemli fırtınasıyla bütün havayı salla."
+
+* * * * *
+
+2. "Savaş derinleşiyor. Hadi, yiğit,
+Şan veya mezara koşanlar!
+Dalga geç, Münih! Bütün sancakların dalgalansın,
+Ve bütün şövalyeliğinle hücum et!
+
+"Ah! Çokların buluştuğu yerde azı ayrılacak!
+Kar onların kefeni olacak,
+Ve ayaklarının altındaki her çimen
+Bir askerin mezarı olacak."
+
+* * * * *
+
+3. "Bak, yıldız ışığında loş beyaz çadırları görünüyor!
+Yavaşça sür! Yavaş sür! Saldırı yaklaşıyor
+Daha yavaş! Daha yumuşak! Nöbetçi duyabilir!
+Şimdi düşmanın üzerine bir alev fırtınası gibi düş!
+Zaferi utanç olan sahte sancağı indir!
+Gerçek bayrak için, özgürlük ve şöhret için vur, vur!"
+
+* * * * *
+
+4. "Şşş! Dinle! Çalan adımlar geçti mi?
+Yakına zayıf fısıltılar gelmedi mi?
+Hayır!--Vahşi rüzgarın iç çekişleri var
+Kurumuş yaprakların arasında."
+
+* * * * *
+
+5. "Onun dev biçimi
+Öfkeli dalganın üzerinden, kararan fırtınanın içinden,
+Görkemli bir şekilde sakin, giderdi,
+Derin karanlığın ortasında, kar kadar beyaz!
+Ama şimdi daha nazik küçük dalgalar süzülüyor,
+Bir dağın yamacındaki şakacı kuzular gibi.
+Duruşu o kadar görkemli, dizilişi o kadar gururlu ki,
+Ana yelkeni sonsuza dek geçecek ve evet.
+Birçok liman direğinin parıltısıyla sevinecek.
+Şşş! Şşş! Sen boş hayalperest! Bu saat onun son saati!"
+
+* * * * *
+
+6. "Dinle! Sessizliği hafifçe
+Dalgalandıran uzak sesler!
+Hayır; kuğular ki, geceleyin daireler çizerek,
+Gümüş suların arasından süpürürler.
+
+"Görmüyorum, orada, beyaz bir ışıltı?
+Soluk ipeksi bir türbesi olan bir şey?
+Hayır; sütunun parıltısıdır,
+'Kasvetli çam çitinin karşısında."
+
+* * * * *
+
+7. "Dinle, kapıların altından açılıyor!
+Adamların ayak sesleri ve hızlı emirler!
+''Lordum avdan döndü,'' Ve Düşes ellerini çırpıyor.
+
+"Avcılar yavaş ve yorgun geldiler;
+Avluda karanlıkta durdular.
+'Hey, bu taraftan, ey tembel avcılar!
+Salona! Ne oyun, ne oyun.'
+
+"Efendileriyle birlikte yavaşça girdiler;
+Salonda onu yatırdılar. Ceketinde yapraklar ve kan lekeleri vardı,
+Alnında öfkeli bir kaş çatma."
+
+* * * * *
+
+8. "Şimdi berrak, saf, sert, parlak ve birer birer, dolu taneleri gibi,
+Kısa sözcükler dudaklarından bir sağanak yağmurun ilk sözcükleri kadar hızlı dökülüyor,--
+Şimdi iki katlı sütun halinde, Spondee, Iamb ve Trochee,
+Kırılmamış, sağlam, ileri, geri, çiğneyerek,--
+Şimdi daha canlı bir esneklikle, üçlü hecelerde sıçrayarak,
+Elastik Dactylics'i müzikal kadanslarla dans ettir;
+Şimdi, hacimli kıvrımları devasa anakondalar gibi birbirine dolanıyor,
+Sesquipedalian sözcükleri ezici bir şekilde ileri doğru yuvarla."
+
+SEÇİMLER.
+
+* * * * *
+
+HERVE RIEL. Denizde ve Hogue'da, bin altı yüz doksan iki,
+İngilizler Fransızlarla savaştı mı, -vay Fransa'ya!
+Ve otuz bir Mayıs, mavilikte başıboş,
+Korkmuş yunusların kalabalığı gibi, bir köpekbalığı sürüsü kovaladı,
+Rance'deki Saint Malo'ya gemi gemi geldi,
+İngiliz filosu görüş alanındaydı.
+
+Kaçan filoydu, galip tam kovalamacadaydı;
+Sürünün ilk ve en önemlisi, büyük gemisi Damfreville'de;
+Yakınına kaçtı, büyük ve küçük,
+Toplam yirmi iki iyi gemi;
+Ve oraya işaret ettiler,
+"Bir yarışın galiplerine yardım edin!
+Bize rehberlik edin, bize liman verin, bizi hemen götürün -ya da daha da çabuk,
+İşte İngilizler yapabilir ve yapacaktır!"
+
+Sonra yerin pilotları hızla çıkıp gemiye atladılar;
+"Neden, bu tür gemilerin geçmesi için ne umut ya da şans var?" güldüler:
+"Sancakta kayalar, limanda kayalar, tüm geçit yara bere içinde ve çizik içinde,
+Burada 'Formidable' on iki seksen topuyla,
+Nehir ağzına tek dar yoldan girmeyi mi düşünecek,
+Yirmi tonluk bir tekne için gıdıklayıcı olan yere girmeyi mi umacak,
+Ve akıntı tam da yanındayken?
+Şimdi gelgitin en durgun hali.
+Rıhtıma mı ulaşacağız? Daha doğrusu,
+Kayalar durduğu veya su aktığı sürece,
+Körfezden hiçbir gemi ayrılmayacak!"
+
+Sonra hemen bir konsey toplandı.
+Kısa ve acı bir tartışma:
+"İşte peşimizde İngilizler var; filodan bize kalan her şeyi, kıç ve pruva birbirine bağlı,
+Plymouth Sound'a bir ödül için mi çekmelerini istersiniz?--
+Gemileri karaya oturtmak daha iyi!"
+(Damfreville konuşmasını bitirdi.)
+"Beklemek için bir dakika bile yok!
+Kaptanların hepsi ve her biri
+Kıyıya çıksın, sonra havaya uçurun, sahildeki gemileri yakın!
+Fransa kaderini yaşamalı.
+Söz verin!"--Ama böyle bir söz
+Hiçbir zaman söylenmedi veya duyulmadı;
+Çünkü ayağa kalktı, dışarı çıktı, çünkü tüm bunların ortasında vuruldu
+Bir kaptan? Bir teğmen? Bir tayfa--birinci, ikinci, üçüncü?
+Böyle önemli bir adam yok ve
+Kendisinden daha iyi olanlarla rekabet edecek!
+Ama filo için Tourville tarafından sıkıştırılan basit bir Breton denizci--
+Zavallı bir kıyı kılavuzu, Croisickese Herve Riel.
+
+Ve "Burada ne alay konusu veya kötü niyet var?" diye haykırır Herve Riel;
+
+"Çıldırdınız mı Malouinler? Korkak mısınız, aptal mısınız yoksa düzenbaz mı?
+Bana kayalardan ve sığlıklardan bahsedin, sondaj yapan ben, anlatın
+Parmaklarımda her kıyı, her sığlık, her dalga,
+Burada ve Greve'de, nehrin aktığı yerde?
+İngiliz altınıyla mı satın alındınız? Yalanlarınız aşk için mi?
+Sabah ve akşam, gece ve gündüz,
+Körfezinize kaptanlık ettim mi,
+Serbestçe girip Solidor'un eteğinde sıkıca demirledim.
+Donanmayı yakıp Fransa'yı mahvetmek mi? Bu elli Hogue'dan daha kötüydü!
+Beyler, gerçeği söylediğimi biliyorlar! Beyler, inanın bana bir yol var!
+Sadece çizgiyi ben yöneteyim,
+Dümende en büyük gemi olsun,
+Bu 'Formidable'ı temizlesin,
+Diğerlerinin benimkini takip etmesini sağlasın,
+Ve ben onları, çoğunu ve en azını, iyi bildiğim bir geçitten yönlendiririm,
+Doğrudan Solidor'a, Greve'i geçerek,
+Ve orada onları sağ salim;
+Ve eğer bir gemi yaramazlık yaparsa,--
+Omurga yere değecek kadar,
+Neden, hayatımdan başka bir şeyim yok,--ve işte başım!" diye bağırır Herve Riel.
+
+Beklemek için bir dakika daha yok.
+"Bizi içeri sokun, o zaman, küçük ve büyük!
+Dümeni alın, hattı yönetin, filoyu kurtarın!" diye bağırdı şefi.
+"Kaptanlar, denizciye yer verin!
+O, kısaca Amiral."
+Kuzey rüzgarı dursun, Tanrı'nın lütfuyla!
+Asil adamın yüzünü görün
+Büyük gemi sıçrayarak,
+Girişi bir tazı gibi temizler,
+Geçidi, engin denizin derinliği kadar bir santimlik yol tutar!
+Bakın, sığlık ve kayaların arasından güvenle,
+Bir sürü halinde nasıl takip ediyorlar. Kötü davranan bir gemi değil, yere çarpan bir omurga değil,
+Kötüye giden bir direk değil!
+Tehlike, bak, geçti,
+Herkes sonuna kadar barındırıldı,
+Ve Herve Riel "Çapa!" diye bağırırken -kader kadar kesin,
+İngilizler geldi, çok geç.
+
+Böylece, fırtına yatıştı ve sakinleşti;
+Yeşil ağaçların dalgalandığını gördüler
+Greve'e bakan tepelerde.
+Kanayan kalpler merhemle desteklendi.
+"Sadece coşkumuzu artırmak için,
+İngilizler körfezi tarasın,
+Dişlerini gıcırdatsın ve yan yan baksın
+Top atışları yaparken!
+Aşağıda çılgınca ilerleyen Solidor Rance'de keyifli bir yolculuk!"
+Şimdi umut, umutsuzluğun yerini aldı her kaptanın yüzünde!
+Hepsi bir ağızdan haykırdı,
+"Bu cehennemin cenneti!
+Fransa, Fransa kralı,
+Bunu yapan adama teşekkür etsin!"
+Ne bir haykırış ve tek bir kelime,
+"Herve Riel!"
+Bir kez daha öne çıktığında,
+Şaşkınlık belirtisi yok
+Açık mavi Breton gözlerinde,
+Daha öncekiyle aynı adam.
+
+Sonra Damfreville dedi ki, "Dostum,
+Sonunda konuşmalıyım,
+Konuşmayı zor bulsam da.
+Övgü dudaklardan daha derindir;
+Kral'ı gemilerinden kurtardın,
+Kendi ödülünü kendin belirlemelisin.
+İnan, güneşimiz tutulmak üzereydi!
+Ne istersen iste,
+Fransa hala borçlun
+Kalbinin içeriğine göre iste ve al! Yoksa adım Damfreville değil!"
+
+Sonra bir eğlence ışını patladı
+Konuşan sakallı ağızda,
+Dürüst kalp gülerken
+O açık sözlü Breton mavisi gözlerle:
+"Söyleyeceklerimi söylemem gerektiğinden,
+Gemide görev bittiğine göre,
+Ve Malo yollarından Croisic Point'e kadar, bu bir koşudan başka ne olabilir?--
+İsteyip istediğime göre, yapabilirim--
+Diğerleri karaya çıktığına göre--
+Gel! İyi bir tatil!
+Gidip karımı görmeye izin ver, ona Belle Aurore diyorum!"
+Bunu istedi ve aldı-- daha fazlası değil.
+İsim ve eylem aynı şekilde kayboldu:
+Ne bir sütun ne de bir direk
+Croisic'inde yaşananları olduğu gibi canlı tutuyor;
+Beyaz ve siyah bir kafa yok
+Tek bir balıkçı teknesinde,
+Enkaza giden adamın anısına
+Fransa'nın İngiltere'nin çanı taşıdığı savaştan kurtardığı her şey.
+Paris'e git; rütbe rütbe
+Kahramanları ara karmakarışık savrulmuş
+Louvre'da, yüz ve yan!
+Herve Riel'e gelmeden önce yeterince uzun süre bakacaksın.
+Bu yüzden, iyi günde ve kötü günde,
+Herve Riel, şiirimi kabul et!
+Benim şiirimde, Herve Riel, bir kez daha yap
+Filoyu kurtar, Fransa'yı onurlandır, karın Belle Aurore'u sev!
+
+ROBERT BROWNING.
+
+* * * * *
+
+LOCHINVAR.
+
+I.
+
+Ah, genç Lochinvar Batı'dan geldi,--
+Bütün vahşi sınır boyunca atı en iyisiydi!
+Ve iyi kılıcı dışında, silahı yoktu,--
+Silahsız ve tek başına sürdü.
+Aşkta çok sadık ve savaşta çok korkusuz,
+Genç Lochinvar gibi bir şövalye hiç olmadı.
+
+II.
+
+Ne durmak için durdu, ne de taş için;
+Geçit olmayan Eske nehrini yüzerek geçti.
+Ama, Netherby kapısına varmadan önce,
+Gelin razı olmuştu, yiğit adam geç geldi;
+Aşkta bir geri kalmış ve savaşta bir korkak
+Cesur Lochinvar'ın güzel Ellen'ıyla evlenecekti.
+
+III.
+
+Netherby salonuna o kadar cesurca girdi ki,
+'Nedimeler, akrabalar, kardeşler ve hepsi:
+Sonra gelinin babası, eli kılıcında konuştu
+(Zavallı korkak damat tek kelime etmedi)
+"Ah, buraya barış için mi geldin, yoksa savaş için mi,
+Ya da düğünümüzde dans etmek için, genç Lord Lochinvar?"
+
+IV.
+
+"Kızına uzun zamandır kur yapıyordum - sen benim teklifimi reddettin;
+Aşk Solway gibi kabarır, ama gelgiti gibi alçalır;
+Ve şimdi, bu kayıp aşkımla geldim,
+Sadece bir ölçüyü idare etmek, bir kadeh şarap içmek için.
+İskoçya'da çok daha güzel kızlar var
+Genç Lochinvar'a memnuniyetle gelin olacaklar."
+
+V. Gelin kadehi öptü; şövalye kadehi aldı;
+Şaraptan bir yudum aldı ve kadehi yere attı.
+Kızarıklık için aşağı baktı ve iç çekmek için yukarı baktı,
+Dudağında bir gülümseme ve gözünde bir damla yaşla.
+Annesi engel olmadan önce onun yumuşak elini tuttu;
+"Şimdi bir ölçü alalım mı?" dedi genç Lochinvar.
+
+VI.
+
+O kadar görkemli bir vücudu ve o kadar güzel bir yüzü vardı ki,
+Hiçbir salon böyle bir şatafatla süslenmezdi;
+Annesi telaşlanırken ve babası öfkelenirken,
+Ve damat başlığını ve tüyünü sallayarak ayakta duruyordu,
+Ve nedimeler fısıldaşıyorlardı, "'Çok daha iyiydi,'Güzel kuzenimizi genç Lochinvar'la eşleştirmek."
+
+VII.
+
+Elini bir kez tutup kulağına bir söz,
+Salon kapısına ulaştıklarında ve şarap yakında duruyordu;
+O kadar hafifti ki güzel hanımın kuyruğu
+Önündeki eyere o kadar hafif sıçradı:
+"Kazandı! Gittik! Kıyı, çalılık ve yara izlerini aştık;
+Arkalarından hızlı atlar gelecek," dedi genç Lochinvar.
+
+VIII.
+
+Netherby klanından Graemes'ler arasında binicilik vardı;
+Forsters, Fenwicks ve Musgraves, bindiler ve koştular;
+Cannobie Lee'de yarış ve kovalamaca vardı;
+Ama Netherby'nin kayıp gelinini hiç görmediler.
+Aşkta bu kadar cesur ve savaşta bu kadar yılmaz,
+Genç Lochinvar gibi bir yiğit duydunuz mu hiç?
+
+SIR WALTER SCOTT.
+
+* * * * *
+
+PIPPA PASSES'TAN ALINTILAR.
+
+1. "GÜN."
+
+Gün!
+Daha hızlı ve daha hızlı;
+Gecenin kenarında, gün sonunda kaynar:
+Kaynar, saf altın, bulut-kupasının kenarında
+Fışkırarak ve bastırılarak yattığı yerde,
+Çünkü tek bir köpük tanesi bile
+Şu katı griliğin içindeki boşluğun kenarına değmedi,
+Bir saat uzaklıktaki doğu bulutunun;
+Ama bir dalgacık, sonra bir diğeri kıvrıldı,
+Bütün gün doğumu, bastırılmayacak şekilde,
+Kızıllaştı, ve kaynayan göğsü
+Sınırlarda titredi, altın oldu, sonra dünyayı taştı.
+
+Ey Gün, eğer senden bir dalgacık israf ettiysem,
+On iki saatlik hazinemin bir zerresi,
+Bakışlarının veya bakışlarının en küçüğü,
+(Bağlı olduğun ihsanlardan veya ölçüsüz armağanlardan olsun)
+Seçimlerinden veya şanslarından biri,
+(Tanrı'nın sana yüklediği görevler veya isteğine göre kaçanlar olsun)
+--Günüm, eğer böyle bir emeği veya boş zamanı israf edersem,
+O zaman utansın Asolo, bana yazık olsun!
+
+ROBERT BROWNING.
+
+II. "YIL BAHARDA."
+
+Yıl baharda
+Ve gün sabahta;
+Sabah yedide;
+Yamacın çiy incileri;
+Tarlakuşu kanatta;
+Salyangoz dikende:
+Tanrı cennetinde--
+Dünyada her şey yolunda!
+
+ROBERT BROWNING.
+
+* * * * *
+
+FEZZIWIG TOPU.
+
+Yaşlı Fezziwig kalemini bıraktı ve saate baktı, saat yediyi gösteriyordu. Ellerini ovuşturdu; geniş
+yeleğini düzeltti; ayakkabılarından iyilikseverlik organına kadar her yerinde güldü; ve rahat, yağlı, zengin, şişman, neşeli bir sesle seslendi: "Yo ho, orada! Ebenezer! Dick!"
+
+Scrooge'un eski halinin canlı ve hareketli bir resmi, genç bir adam, çırak arkadaşı eşliğinde
+hızla içeri girdi.
+
+"Yo ho, oğullarım!" dedi Fezziwig. "Bu gece başka iş yok. Noel arifesi,
+Dick. Noel, Ebenezer! Bir adam Jack Robinson diyemeden önce kepenkleri kapatalım! Temizleyin, çocuklar, ve burada bolca yer olsun!"
+
+Temizleyin! Temizleyemeyecekleri veya temizleyemeyecekleri hiçbir şey yoktu, yaşlı Fezziwig'in bakışları altında. Bir dakikada yapıldı.
+Her taşınabilir eşya, sanki sonsuza dek kamu hayatından
+kovulmuş gibi paketlendi; zemin süpürüldü ve sulandı, lambalar düzeltildi, yakıt
+ateşe yığıldı; ve depo, bir kış gecesinde görmek isteyeceğiniz kadar rahat, sıcak, kuru ve aydınlık bir balo salonuydu.
+
+Bir kemancı elinde bir müzik kitabıyla içeri girdi, yüksek masaya çıktı ve
+onu bir orkestra gibi yaptı ve elli mide ağrısı gibi akort etti. Bayan
+Fezziwig, kocaman, önemli bir gülümsemeyle içeri girdi. Üç Bayan Fezziwig,
+ışıltılı ve sevimli bir şekilde içeri girdi. Kalplerini
+kırdıkları altı genç takipçi geldi. İşyerinde çalışan tüm genç erkekler ve kadınlar geldi. İçeri
+hizmetçi, kuzeni fırıncıyla birlikte girdi. Aşçı, kardeşinin özel arkadaşı sütçüyle birlikte geldi. Hepsi birbiri ardına geldi; bazıları utangaçça, bazıları cesurca, bazıları zarifçe, bazıları beceriksizce, bazıları iterek, bazıları çekerek; hepsi içeri girdi, her neyse ve her şekilde. Hepsi gitti, aynı anda yirmi çift; eller yarı yarıya dönüp tekrar diğer yöne; ortada aşağı ve tekrar yukarı; çeşitli şefkatli gruplaşma aşamalarında dönüp durdu; eski üstteki çift her zaman yanlış yerde belirdi; yeni üstteki çift oraya varır varmaz tekrar başladı; sonunda hepsi üstteki çift oldu ve onlara yardım edecek tek bir alttaki bile yoktu. Bu sonuç ortaya çıktığında, yaşlı Fezziwig dansı durdurmak için ellerini çırparak, "Aferin!" diye bağırdı ve kemancı sıcak yüzünü özellikle bu amaç için hazırlanmış bir
+porter kabına daldırdı.
+
+Daha fazla dans vardı ve cezalar vardı ve daha fazla dans vardı ve
+kek vardı ve negus vardı ve büyük bir Soğuk Kızartma parçası vardı ve büyük bir Soğuk Haşlanmış parça vardı ve kıymalı
+börekler vardı ve bol miktarda bira vardı. Ancak akşamın büyük etkisi
+Kızartma ve Haşlama'dan sonra, kemancı "Sir Roger de Coverley"i çaldığında geldi.
+Sonra yaşlı Fezziwig, Bayan Fezziwig ile dans etmek için öne çıktı. Ayrıca en iyi çiftti;
+onlar için biçilmiş kaftan; üç veya yirmi dört çift, hafife alınmayacak insanlar; dans edecek ve yürümeyi
+hiç düşünmeyen insanlar.
+
+Ancak iki katı kadar çok olsalardı, --dört kez-- yaşlı Fezziwig onlara denk olurdu ve Bayan Fezziwig de öyle. _Ona_ gelince, o
+terimin her anlamıyla onun partneri olmaya layıktı. Fezziwig'in baldırlarından pozitif bir ışık
+çıktı. Dansın her yerinde parlıyorlardı. Herhangi bir anda, onların
+sonra ne olacağını tahmin edemezdiniz. Ve yaşlı Fezziwig ve Bayan Fezziwig dansın tamamını tamamladıklarında, -ilerleyin ve geri çekilin, eşinizi çevirin, eğilin ve nezaket gösterin,
+tirbuşon çevirin, iğneyi geçirin ve tekrar yerinize dönün, -Fezziwig
+"kesti"- o kadar ustaca kesti ki, sanki bacaklarıyla göz kırpıyormuş gibi göründü.
+
+Saat on bire vurduğunda bu ev balosu dağıldı. Bay ve Bayan Fezziwig kapının iki yanında yerlerini aldılar ve dışarı çıkarken her biriyle tek tek el sıkışarak ona Mutlu Noeller dilediler. İki çırak dışında herkes emekli olduğunda,
+onlara da aynısını yaptılar; ve böylece neşeli sesler kesildi ve
+çocuklar arka dükkândaki bir tezgahın altında bulunan yataklarına bırakıldılar.
+
+* * * * *
+
+DEREYE.
+
+I.
+
+Ben sutavuğu ve balıkçıl yuvalarından geliyorum,
+Aniden bir çıkış yapıyorum,
+Ve eğrelti otlarının arasında parıldıyorum,
+Bir vadide çekişmek için.
+
+II.
+
+Otuz tepeden aşağı aceleyle iniyorum,
+Ya da sırtların arasından kayıyorum;
+Yirmi thorps, küçük bir kasaba,
+Ve yarım yüz köprü.
+
+III.
+
+Taşlı yollarda gevezelik ediyorum,
+Küçük keskin ve tiz seslerle,
+Girdaplı koylara doğru köpürüyorum,
+Çakıl taşlarının üzerinde gevezelik ediyorum.
+
+IV.
+
+Kıyılarım birçok eğriyle endişeleniyorum
+Birçok tarla ve nadasla,
+Ve birçok peri ön arazisi
+Söğüt otu ve ebegümeciyle.
+
+V.
+
+Çilek, gevezelik ediyorum, akarken
+Dolup taşan nehre katılmak için;
+Çünkü insanlar gelebilir ve insanlar gidebilir,
+Ama ben sonsuza dek devam ediyorum.
+
+VI.
+
+Dolanıp duruyorum, içeri ve dışarı,
+Burada bir çiçek yelken açarken,
+Ve burada ve orada şehvetli bir alabalık,
+Ve burada ve orada bir kefal.
+
+VII.
+
+Ve burada ve orada köpüklü bir kar tanesi
+Seyahat ederken üzerimde
+Birçok gümüşi su dalgasıyla
+Altın çakılların üstünde.
+
+VIII.
+
+Çimenliklerin ve çimenli alanların yanından gizlice geçiyorum,
+Fındık örtülerinin arasından kayıyorum,
+Mutlu aşıklar için büyüyen
+Tatlı unutma beni çiçeklerini hareket ettiriyorum.
+
+IX.
+
+Kayıyorum, kayıyorum, kasvetleniyorum, bakıyorum,
+Sığ sularıma karşı
+Ağlanmış güneş ışınlarını dans ettiriyorum.
+
+X.
+
+Ay ve yıldızların altında mırıldanıyorum
+Çileklerle dolu vahşi doğada,
+Çakıllı çubuklarımda oyalanıyorum,
+Tereyağımın etrafında dolaşıyorum.
+
+XI. Ve tekrar dışarı doğru kıvrılıp akıyorum
+Dolup taşan nehre katılmak için;
+Çünkü insanlar gelebilir ve insanlar gidebilir,
+Ama ben sonsuza dek gidiyorum.
+
+* * * * *
+
+ALFRED, LORD TENNYSON.
+
+GÜLÜMSEYEN BİR KORO.
+
+[Silver,
+Burdett & Company tarafından 1895'te telif hakkı alınmış "Nature in Verse"den izin alınarak kullanılmıştır.]
+
+Ah, yer altında ne büyük bir kargaşa
+Mart, "Ho, there! ho!" diye bağırdığında
+Uzaklara ve genişlere yayılan kökler,
+İleri geri fısıldamalar.
+Ve "Hazır mısın?" diye sordu Kardelen;
+"Başlama zamanı, biliyorsun."
+"Neredeyse, canım," diye cevapladı Scilla;
+"Sen gider gitmez ben de seni takip edeceğim."
+Sonra, "Ha! ha! ha!" bir koro geldi
+Yumuşak ve alçak kahkahalarla
+Yer altındaki milyonlarca çiçekten--
+Evet--milyonlarca--büyümeye başlıyor.
+
+"Çiçeklerimi vaat ediyorum," dedi Çiğdem,
+"Mavi kuşların şarkı söylediğini duyduğumda."
+Ve hemen ardından Narcissus haykırdı,
+"Gümüşümü ve altınımı getireceğim."
+"Ve onlar solmadan önce," dedi bir diğeri,
+"Sümbül çanları çalacak."
+Ve menekşe sadece mırıldandı, "Ben buradayım,"
+Ve baharın nefesi tatlılaştı.
+Sonra, "Ha! ha! ha!" bir koro geldi
+Yumuşak ve alçak kahkahalarla
+Yer altındaki milyonlarca çiçekten--
+Evet--milyonlarca--büyümeye başlıyor.
+
+Ah, güzel, cesur şeyler! en soğuk günlerde,
+Kahverengi duvarlara hapsedilmiş,
+Patlamanın yüksek sesle çığlık atmasına rağmen asla cesaretlerini kaybetmediler,
+Ve sulu kar ve dolu yağdı,
+Ama her biri sabırla güzel elbisesini yaptı,
+Ya da güzel tacını yaptı;
+Ve şimdi dünyayı aydınlatmaya geliyorlar,
+Hâlâ kışın somurtkanlığıyla gölgelenmiş;
+Ve neşeyle gülebilirler, "Ha! ha!"
+Yumuşak ve alçak bir koro halinde,
+Milyonlarca çiçek toprağın altına saklandı--Evet--milyonlarca--büyümeye başladı.
+
+* * * * *
+
+ŞÖVALYE EZGİLERİ.
+
+1. BİR HAREKET VER.
+
+Kral Charles, ve şimdi onu kim yapacak?
+Kral Charles, ve şimdi kim kavga etmeye hazır?
+Bir hareket ver: işte, cehennemin inatında şimdi,
+Kral Charles!
+
+Bana o zamandan beri giden malları kim verdi?
+Bir zamanlar batan evi bana kim yükseltti?
+Kim bana harcadığım altını geri kazandırdı?
+Bir zamanlar içtiğin şarapta beni kim buldu?
+
+_Cho_. Kral Charles ve şimdi onu kim bitirecek?
+Kral Charles ve şimdi kavgaya hazır mı?
+Bir heyecan ver: işte, cehennemin inatında şimdi,
+Kral Charles!
+
+Oğlum George başka kimlere içti,
+Onu doğuran o yaşlı aptalın yanında?
+Başka kimler için neşelendi ve güldü,
+Noll'un lanet askerleri onu vururken.
+
+_Cho_. Kral Charles ve şimdi onu kim bitirecek?
+Kral Charles ve şimdi kavgaya hazır mı?
+Bir heyecan ver: işte, cehennemin inatında şimdi,
+Kral Charles!
+
+II. ÇİZME VE EYER.
+
+Çizme, eyer, ata ve uzaklaş!
+Sıcak günden önce kalemi kurtar
+Gümüş grisinden maviye döner.
+
+_Cho_. Çizme, eyer, ata ve uzaklaş!
+
+Banliyölerin yanından geç, senin dediğin gibi uykuda;
+Birçok arkadaş orada dinleyecek ve dua edecek
+"Tanrı, bu oyunu oynayan yiğitlere şans versin!"
+
+_Cho_. Bot, eyer, ata ve uzaklaş!
+
+Kırk mil ötede, bir koyun gibi,
+Brancepeth Şatosu'nun Roundhead'inin dizisini hiçe sayıyor:
+Kim gülüyor, "Buradan önce iyi adamlar, canım,
+
+_Cho_. Bot, eyer, ata ve uzaklaş!"
+
+Kim? Karım Gertrude; dürüst ve neşeli,
+Teslim olmaktan bahsettiğinde gülüyor, "Hayır!
+Daha iyi danışmanlarım var; onlar ne öğüt veriyor?
+
+_Cho_. Bot, eyer, ata ve uzaklaş!"
+
+ROBERT BROWNING.
+
+* * * * *
+
+TARLALARIN ÖTESİNDEN ANNE'YE.
+
+Stratford-on-Avon'dan batıya doğru tarlaların arasından bir mil uzaklıktaki Shottery adlı küçük köye kadar uzanan bir şerit var. Bu köyde Shakespeare'in sevgilisi ve karısı Anne Hathaway'in kulübesi bulunuyor. Yaz gelgitlerinde ne sıklıkla,
+Daha ciddi işlerini bir kenara bıraktı,
+Genç Will, düşünceli gözlü,
+Pan'ın piposuna gelince,
+Sevgilinin gururuyla neşeyle yürüdü
+Tarlalardan Anne'e!
+
+Mutlu bir mil olmalı,
+Bu yaz çit ve çitin arasında yürüyüş,
+Her zaman tatlı bir ön bilgiyle
+Yol ne kadar emindi
+Öpücük ve gülümsemenin sevgili zevklerine,
+Tarlalardan Anne'e.
+
+Bugün otlayan aptal koyunlar,
+Biliyorum, onu kendi yoluna bıraktılar,
+Bir kere bile bakmadılar, sanki kim şöyle diyebilirdi:
+"Bu uygun bir adam."
+Çünkü birçok delikanlı kur yapmaya gitti
+Tarlalardan Anne'e.
+
+Meşeler, daha bilge görünüyorlar;
+Belki de dereye fısıldadılar:
+"Dünya onun yüzünden sarsılacak,
+Bu doğanın planında var;
+Şimdi herhangi bir karga gibi uçup gitse de
+Tarlalar boyunca Anne'e."
+
+Ve eminim ki, bir saat
+Güneş ve sağanak arasında yumuşakça cilveleşerek,
+Eğildi ve bir papatya çiçeği kırdı
+Küçücük bir kalple,
+Ve onu bir sevgilinin çeyizi olarak
+Tarlalar boyunca Anne'e taşıdı.
+
+Kulübesinin bahçesinden
+Bir yasemin çiçeği kopardı,
+Bunun yerine ceketinin kahverengisini koklamak için;
+Şimdi o aşk başladığından beri,
+Tarlalar boyunca Anne'e koşan kişiden daha şanslı bir sevgili olabilir mi?
+
+Üzerinde dolaştığım kıvrımlı yol,
+Yeşil çalılar, yazın zarafeti,
+Hâlâ karşımda yüz yüze;
+Sanırım neredeyse
+Şair olup, şarkı söyleme yarışına katılabilirim
+Tarlalar boyunca Anne'e!
+
+RICHARD BURTON.
+
+* * * * *
+
+YEŞİL ŞEYLER BÜYÜYOR.
+
+Yeşil şeyler büyüyor, yeşil şeyler büyüyor,
+Yeşil şeylerin büyümesinin hafif tatlı kokusu!
+Yaşamak istiyorum, gülümsesem de üzülsem de,
+Sadece yeşil şeylerin büyümesinin mutlu hayatını izlemek için.
+
+Ah, o yeşil şeylerin büyümesinin çırpınışları ve patırtıları!
+Hiçbirimiz bilmezken, her biri diğerine nasıl konuşuyor;
+Garip ay ışığının harika beyazında
+Ya da horozlar öttüğünde loş, düşsel şafak vakti.
+
+Seviyorum, onları çok seviyorum--yeşil şeylerim büyüyor!
+Ve bence onlar da beni seviyor, sahte göstermeden;
+Çünkü birçok şefkatli dokunuşla, beni çok rahatlatıyorlar,
+Yeşil şeylerin büyümesinin yumuşak, sessiz rahatlığıyla.
+
+Ve çiçeklerinin zengin deposunda,
+On tanesi bire bir, sanırım bana bahşediyorlar:
+Ah, Tanrı'nın isteği olursa görmek isterim,
+Yeşil şeylerimin büyüdüğü birçok yaz!
+
+Ama eğer meleklerin ekimi için toplanmam gerekiyorsa,
+Yeşil şeyler büyürken bir süre gözden uzak uyu,
+Toz toza dönse bile, sanırım yas tutmayacağım,
+Yeşil şeylere dönüşebilirsem.
+
+DİNAH MULOCK CRAIK.
+
+* * * * *
+
+SERVETİN GERÇEK KULLANIMI.
+
+1. Tüm iyi insanların ağzında bir söz vardır; yani, kendilerine emanet edilen yeteneklerin
+yöneticileri veya hizmetkarlarıdırlar. Ancak,
+bu sözün anlamını az çok kabul etsek de, mecazi olarak kabul edildiği sürece, kendi terimleriyle asla anlamını kabul etmememiz garip değil midir? Dersin bize parayla ilgili bir hikaye biçiminde verildiğini biliyorsunuz. Para, hizmetçilere kullanmaları için verildi:
+Kârsız hizmetçi toprağı kazdı ve Efendisinin parasını sakladı. Biz,
+bunun şiirsel ve ruhsal uygulamasında, şunu söylüyoruz:
+Elbette para, para anlamına gelmez -- zekâ anlamına gelir, akıl anlamına gelir, yüksek mevkilerde etki anlamına gelir, dünyadaki her şey anlamına gelir, kendisi hariç.
+
+2. Ve bu ruhsal uygulamada çoğumuz için ne kadar hoş ve hoş bir sonuç olduğunu görmüyor musunuz? Elbette, zekâmız olsaydı, onu diğer yaratıkların iyiliği için kullanırdık; ama bizde zekâ yok.
+Elbette, piskoposlar üzerinde etkimiz olsaydı, onu kilisenin iyiliği için kullanırdık; ama piskoposlar üzerinde hiçbir etkimiz yok. Elbette,
+siyasi gücümüz olsaydı, onu ulusun iyiliği için kullanırdık; ama
+siyasi gücümüz yok; bize herhangi bir tür veya şekilde emanet edilen hiçbir yeteneğimiz yok. Doğru, biraz paramız var, ancak bu benzetme
+muhtemelen para kadar bayağı bir şey ifade edemez; paramız bizimdir.
+
+3. İnanıyorum ki, bu konuyu ciddi bir şekilde düşünürseniz,
+ilk ve en gerçek uygulamanın diğer herhangi biri kadar gerekli olduğunu hissedeceksiniz - hikayenin çok özel olarak söylediği şeyi kastettiği - düz para;
+ve buna hemen inanmamamızın sebebinin, düşünce, zekâ ve zeka ve tüm doğum gücü ve konum bize verilmiş olsa da ve bu nedenle Veren için harcanması gerektiği yönündeki bir tür zımni fikir olduğunu düşünüyorum - servetimiz bize verilmemiştir; ancak bunun için çalıştık ve onu istediğimiz gibi harcama hakkımız var. Sanırım bu konudaki anlayışımızın gerçek özünün bu olduğunu göreceksiniz. Güzellik, diyoruz ki,
+Tanrı tarafından verilir - bir yetenektir; güç Tanrı tarafından verilir - bir yetenektir;
+ancak para günlük işimiz için uygun bir ücrettir - bir yetenek değil, bir haktır. Eğer bunun için çalıştıysak, onu kendimiz için harcayabiliriz.
+
+4. Ve bunun için bir bahane gölgesi olurdu, eğer parayı kazanma gücünün kendisi yetenekler olduğunu itiraf ettiğimiz
+o zekanın veya gücün uygulamalarından sadece biri olmasaydı. Neden bir adam diğerinden daha zengindir? Çünkü daha çalışkan, daha azimli ve daha
+zekidir. Peki, onu diğerlerinden daha azimli ve daha
+zeki yapan kimdir? Başkalarının kaybettiği fırsatları yakalamasını ve başkalarının başarısız olduğu davranış çizgilerinde ısrar etmesini sağlayan o dayanıklılık gücü, o kavrayış hızı, o
+kararlılık sakinliği - bunlar yetenekler değil midir? - bunlar, dünyanın şu anki durumunda, en seçkin ve en etkili zihinsel yetenekler arasında değil midir?
+
+5. Ve zayıf arkadaşlarımızı avantajlı bir yerden uzaklaştırmak için bedenimizin üstünlüğünü kullanmaktan tamamen utanırken, tereddüt etmeden zihin üstünlüklerimizi kullanarak onları zihnin gücünün elde edebileceği her türlü iyilikten uzaklaştırmamız harika değil mi? Güçlü bir adamın bir tiyatroya veya konferans salonuna girdiğini ve sakince en iyi yeri seçip, zayıf komşusunu omzundan tutup onu oradan arka koltuklara veya sokağa fırlattığını görseydiniz öfkelenirdiniz. Şişman bir adamın aç çocukların beslendiği bir masaya
+çıktığını ve kolunu başlarının üzerine uzatıp ekmeklerini onlardan aldığını görseydiniz de aynı şekilde öfkelenirdiniz. 6. Fakat bir adam sağlam düşünceye ve hızlı bir kapasiteye sahipse ve sadece uzun kollu olmak yerine, uzun kafalı olma gibi çok daha büyük bir yeteneğe sahipse, onun zekasını kullanarak şehirdeki kendisiyle aynı işi yapan diğer tüm adamların ağzından ekmeği almasını veya görüş alanını ve genişliğini kullanarak ülkenin ticaret dallarından birini tek bir büyük örümcek ağına toplamasını, kendisinin de bu ağın merkezi örümceği olmasını, her ipliği pençelerinin uçlarıyla titretmesini ve her caddeyi gözlerinin köşeleriyle kontrol etmesini tamamen adil buluyorsanız, hiç de öfkelenmiyorsunuz. Bunda hiçbir adaletsizlik görmüyorsunuz.
+
+7. Fakat bir adaletsizlik var; ve güvenelim ki, onurlu insanlar bundan çok uzak olmayan bir zamanda suçlu olmaktan
+kaçınmayacaklardır. Ancak, bir dereceye kadar, bu gerçekten de adaletsiz değildir; bir dereceye kadar gereklidir ve amaçlanmıştır. Tembelliğin enerjiyle aşılması kesinlikle doğrudur; en geniş etki, onu en iyi kullanabilenler tarafından ele geçirilmelidir; ve kariyerinin sonundaki akıllı bir adam, bir aptaldan daha iyi durumda olmalıdır. Fakat bu nedenle, aptal, perişan edilmeli, tamamen yıkılmalı ve davranışlarının ve kapasitesinin doğal olarak verdiği tüm acılarla baş başa mı bırakılmalıdır? Hayır.
+
+8. Sizce aptallar ne için yaratılmıştır? Üzerlerine basmak, onları aç bırakmak ve mümkün olan her şekilde onlardan daha iyi olmak için mi?
+Kesinlikle hayır. Akıllı insanlar onlara baksın diye yaratılmışlardır. Bu, her güçlü ve akıllı adamın etrafındaki dünyayla olan ilişkileriyle ilgili gerçek ve açık gerçektir. Ona verilen güç, zayıfları ezmek için değil, onları desteklemek ve yönlendirmek için verilmiştir. Kendi evinde çocuklarının rehberi ve desteği olmalıdır; evinin dışında hala zayıfların ve fakirlerin babası, yani rehberi ve desteği olmalıdır; sadece erdemli zayıfların ve masum fakirlerin değil, suçlu ve cezalandırılabilir fakirlerin; daha iyisini bilmesi gereken adamların - kendilerinden utanması gereken fakirlerin. 
+
+9. Oğlunu kaybeden dul kadına emekli maaşı ve kulübe vermek hiçbir şey değildir; kolunu kıran işçiye veya hastalıktan bitkin düşen yaşlı kadına yiyecek ve ilaç vermek hiçbir şey değildir. Ancak, zamanınızı ve gücünüzü, insanlığın inatçılığı ve düşüncesizliğiyle savaşta, onu yanılmaz hale getirene kadar, hatalı işçiyi hizmetinizde tutmak için kullanmanız gereken bir şeydir; ve tüccar arkadaşınızı, donukluğunun kaybedeceği fırsata yönlendirmek.
+
+10. Bu çoktur; ancak daha da fazlasıdır, size hak ettiğiniz üstünlüğü tam olarak elde ettiğinizde ve zekânızın uygun ödülü olan zenginliği elde ettiğinizde, eğer bunun sorumluluğunu ciddiyetle kabul ederseniz, çünkü bu, uzak ve yakın emeğin dümeni ve rehberidir. Çünkü
+elinizde olanlar, gerçekte Devletin gücünün ve çabasının pilotlarıdır. Size, iyi veya kötü amaçla kullanılacak bir otorite olarak emanet edilmiştir,
+tıpkı bir prense krallık otoritesinin veya bir kaptana askeri komuta yetkisinin verildiği gibi. Ve elinizdeki miktarına göre, ulusun iradesi ve işinin hakemleri olursunuz;
+ve Devletin işinin Devlet için yeterli olup olmayacağı konusunun tamamı size bağlıdır.
+
+11. Asanı işçilerin başlarının üzerine uzatabilir ve
+onlara, sallanmasına eğildiklerinde şöyle diyebilirsin: "Babalarımızı şaşkına çeviren bu engeli ortadan kaldır; çocuklarımızı tüketen bu belayı ortadan kaldır;
+bu kurak yerleri sula, bu çölleri sür, bu yiyeceği
+aç olanlara götür; bu ışığı karanlıkta olanlara götür; bu hayatı
+ölmekte olanlara götür;" ya da diğer tarafta şöyle diyebilirsin:
+"İşte buradayım; bu güç benim elimde; gel, burada taht kuracağım
+yüksek ve geniş bir höyük inşa et; gel, başıma taçlar yap ki, insanlar
+uzaktan parlasınlar; gel, ayaklarıma duvar halıları ör ki, ipek ve morun üzerinde yumuşakça yürüyebileyim; gel, önümde dans et ki,
+uyuyabileyim; böylece sevinç içinde yaşayıp, onur içinde öleyim." Ve böyle onurlu bir ölümden daha iyi olurdu, doğduğumuz günün yok olması.
+
+12. Kısa bir süre sonra, zenginlerimizden, dikkatsizlik veya açgözlülük yüzünden, ellerine verilmesi amaçlanan
+şanlı görevi böyle kaybedenlerin sayısının az olacağına inanıyorum. Az önce, kötü kullanılan servetin, örümceğin ağı gibi olduğunu, dolaştırıp yok ettiğini söyledim; ama iyi kullanılan servet, insanların ruhlarını
+derinlerden toplayan kutsal Balıkçının ağı gibidir. Bir zaman gelecek --sanırım bizden çok da uzak değil-- dünyanın servetinin bu altın ağı, sabah bulutunun gökyüzünün üzerindeki alevli ağları gibi yayılacak; yanlarında ışığın sevincini ve sabahın çiyini, ayrıca onurlu ve huzurlu çalışmaya çağrıyı taşıyacak.
+
+JOHN RUSKIN.
+
+* * * * *
+
+HAYAT VE ŞARKI.
+
+[Bu şiir, 1891'de telif hakkı alınan ve Charles Scribner's Sons tarafından yayınlanan "Sidney Lanier Şiirleri"nden alınmıştır. ]
+
+Hayat bir klarnete yakalansa,
+Ve kamışta atan vahşi bir kalp,
+Sevincini coşturup perdesini titretse,
+Ve her eylemde yüreğini dile getirse,
+
+"O zaman bu nefes alan klarnet,
+Şairin istediği şeyi yazardı;
+Çünkü şarkıcıların hiçbiri
+O zamanlar ozanlığını tam olarak yaşamamıştır,
+
+"Ya da gerçek, gerçek düşüncesini açıkça söylememiştir,
+Ya da hayatını tümüyle bedenlememiştir,
+Ya da hayat ve şarkıdan
+Kusursuz bir erkek ve kadın yaratmıştır;
+
+"Ya da yaşanmış ve söylenmiş, Hayat ve Şarkı
+Her biri diğerinin her şeyini ifade edebilsin,
+Hayat veya sanatın uzun olup olmadığına aldırmadan
+İkisi de bir olduğu için, ayakta kalmak veya düşmek:
+
+"Böylece kalabalığı hayrete düşürdü,
+Ülke hakkında bağıran:
+Şarkısı sadece yüksek sesle yaşıyordu,
+Eseri, eliyle şarkı söylemekti_!"
+
+SIDNEY LANIER.
+
+* * * * *
+
+BELAGAT.
+
+1. Kamu kurumlarına önemli durumlarda hitap edilmesi gerektiğinde,
+büyük çıkarlar söz konusu olduğunda ve güçlü tutkular harekete geçtiğinde,
+konuşmada yüksek entelektüel ve ahlaki yeteneklerle bağlantılı olduğu sürece hiçbir şey daha değerli değildir.
+
+Açıklık, güç ve samimiyet, inancı
+üreten niteliklerdir. Gerçek belagat, gerçekten de,
+konuşmada oluşmaz. Uzaktan getirilemez. Emek ve öğrenme bunun için çaba sarf edebilir,
+ama boşuna çaba sarf edeceklerdir. Kelimeler ve ifadeler her şekilde, ama onu kuşatamazlar. İnsanda, konuda ve durumda var olmalıdır.
+
+2. Yapmacık tutku, yoğun ifade, nutuk ihtişamı, hepsi ona
+özlem duyabilir; ama ona ulaşamazlar. Eğer gelirse, o,
+spontane, orijinal, doğal bir güçle, volkanik yangınların
+patlaması gibi gelir.
+Okullarda öğretilen zarafet, pahalı süslemeler ve çalışılmış
+konuşma düzenekleri, kendi hayatları ve
+eşlerinin, çocuklarının ve ülkelerinin kaderi, saatin kararına bağlı olduğunda, insanları şok eder ve iğrendirir. O zaman kelimeler güçlerini yitirir, retorik boşunadır ve
+tüm ayrıntılı konuşmalar aşağılıktır. O zaman dehanın kendisi bile, daha yüksek niteliklerin varlığında olduğu gibi
+azarlanmış ve bastırılmış hisseder.
+
+3. O zaman vatanseverlik belagatlidir; o zaman özveri belagatlidir. Net
+kavrayış, mantığın hızlı çıkarımları, yüksek amaç, sağlam
+kararlılık, yılmaz ruh, dilde konuşmak, gözlerden ışıldamak, her özelliği bilgilendirmek ve tüm insanı ileriye, doğruca
+amacına doğru teşvik etmek, işte bu belagattir; ya da daha doğrusu
+tüm belagatlerden daha büyük ve daha yüce bir şeydir, eylemdir, asil, yüce,
+tanrısal eylemdir.
+
+DANIEL WEBSTER.
+
+* * * * *
+
+SONUNDA GERÇEK.
+
+İnsan hiç umudunu yitirir mi, merak ediyorum,--
+Acı gerçekle yüzleşip, onu gün gibi açık bir şekilde görerek? Bennen karın kaydığını gördüğünde, onun gök gürültüsünü duydu
+Alçak, daha yüksek, etrafında kükreyen, hızı hissetti
+Çığ aşağı doğru savrulurken daha da hızlandı,
+Sadece bir kalp çarpıntısı için mi--gerçekten mi
+Tüm kesinliğiyle biliyordu, onlar ilerlerken,
+Sonun olduğunu, kayanın düştüğü yeri?
+Yoksa, dalıp düşene kadar,
+Bir mucizenin onları durduracağını mı düşündü? Hayır, onlar
+Döndüğünü, yüzünü öne doğru, sakin ve solgun,
+Kollarını memleketine doğru uzattığını söyledi.
+Sanki dilsiz, tarifsiz bir veda gibi,
+Ve böylece aşağı indi.--En sonunda bir şey varsa
+Bir anlığına da olsa, bir adam
+Geçmişi gördüğü gibi geleceği de net bir şekilde görebilir,
+Şüpheden, korkudan veya umudun yanılsamasından özgür.
+
+EDWARD ROWLAND SILL.
+
+* * * * *
+
+İŞ.
+
+1. Akıllıca iş nedir ve aptalca iş nedir? Günlük uğraşlarda mantık ve saçmalık arasındaki fark nedir? Akıllıca işin üç testi vardır: dürüst, yararlı ve neşeli olması gerekir.
+
+_Dürüst_tür. Oyunda dürüstlüğü fark etmen ve işte fark etmemen kadar garip bir şey bilmiyorum. En hafif oyunlarınızda bile, "adil oyun" dediğin şeyi görecek birileri her zaman vardır. Boksta, adil vurmalısın; yarışta, adil başlamalısın. Senin İngilizce sloganın "fair-_play_", senin İngilizce nefretin "foul-_play_". "Başka bir slogan daha istediniz mi hiç, "adil-_iş_" ve
+başka ve daha acı bir nefret,--"çirkin-_iş_"?
+
+2. O zaman akıllıca iş _Yararlıdır_. Hiçbir insan, eğer bir şeye
+varsa, zor olmasına aldırmaz veya aldırmamalıdır; ama zor olduğunda ve hiçbir şeye
+varmadığında, tüm arılarımızın işi örümceklere döndüğünde ve
+bal peteği için sadece bir sonraki esintiyle uçup giden bir örümcek
+ağımız olduğunda, bu işçi için acımasız bir şeydir. Yine de, kişisel olarak veya hatta ulusal olarak, işimizin bir şeye
+varıp varmadığını kendimize hiç soruyor muyuz?
+
+3. O zaman akıllıca iş _Neşelidir_, tıpkı bir çocuğun işi gibi. Bu odadaki herkese her gün "Krallığın gelsin" diye dua etmeleri öğretildi. Şimdi, eğer bir adamın sokakta küfür ettiğini duyarsak, bunu çok yanlış buluruz ve o
+" Tanrı'nın adını boş yere anmak." Fakat O'nun adını boş yere anmanın bundan yirmi kat daha kötü bir yolu vardır. Bu, Tanrı'dan istemediğimiz şeyi istemektir. Eğer bir şeyi istemiyorsanız, onu istemeyin: böyle bir istek, Kralınızla
+hakaret edebileceğiniz en kötü alaydır. Eğer O'nun krallığını
+istemiyorsanız, onun için dua etmeyin. Fakat istiyorsanız, onun için dua etmekten daha fazlasını yapmalısınız; onun için çalışmalısınız. Ve onun için çalışmak için, onun ne olduğunu bilmelisiniz.
+
+4. Gözlemleyin, bize gelecek bir Krallık; biz ona gitmeyeceğiz.
+Ayrıca, birdenbire değil, sessizce gelecek; kimse nasıl olacağını
+bilmiyor. "Tanrı'nın Krallığı gözlemle gelmez." Ayrıca, bizim dışımıza değil, kalbimize gelecek: "Tanrı'nın Krallığı içinizdedir." Şimdi
+eğer bu Krallık için çalışmak, onu getirmek ve içine girmek istiyorsak, önce kabul edilmesi gereken ilginç bir koşul var. Çocuklar gibi girmeliyiz, ya da hiç girmemeliyiz; "Kim onu ​​küçük bir çocuk gibi kabul etmezse, içeri giremez." Ve yine, "Küçük çocukların bana gelmesine izin verin ve onları engellemeyin, _çünkü Cennetin Krallığı böylelerinindir_."
+
+5. _Böyleleri_ için, gözlemleyin. Çocukların kendileri için değil, bu tür
+çocuklar için. İstediğimiz ve kazanmamız gereken çocukların _karakteri_dir. O, mütevazı, sadık, sevgi dolu ve tüm bu karakterleri nedeniyle neşelidir. Babasına güvenerek, hiçbir şey için dikkatli değildir - her yaratığa karşı sevgiyle doludur, ister oyununda ister görevinde her zaman mutludur. İşte büyük işçinin karakteri de budur. Yarını düşünmez; sadece günün görevini düşünür; emeğin ne olduğunu gerçekten bilmek, ama üzüntünün ne olduğunu bilmemek; ve
+her zaman oyuna hazır--güzel oyun.
+
+JOHN RUSKIN.
+
+* * * * *
+
+"YÜZÜK VE KİTAP"TAN BİR ALINTI.
+
+İnsan konuşmamız hiçbir şeydir,
+İnsan tanıklığımız sahtedir, ünümüz
+Ve insan takdiri sözcükler ve rüzgardır.
+Neden bu kadar çok şeyi kanıtlamak için sanatsal yolu seçiyoruz?
+Çünkü, Sanatın ihtişamı ve iyiliğidir,
+Sanat, en azından benimki gibi ağızlara gerçeği söylemenin
+mümkün olan tek yoludur.
+Bir kardeşin yüzüne nasıl bakıp
+"Doğruların yanlış, gözlerin var, ama körsün,
+Kulakların tıkalı ve tıkalı, uzunluklarına rağmen,
+Ve, oh, sen inanç saydığın aptallık!" diyebilirsin?
+Bunu dilin alabildiğince gümüş gibi söyle--
+Adamın öfkesine katlanılabilir,
+Omuz silkmesi, hayal kırıklığına uğramış bakışları
+Tahammül edilemeyecek kadar kötü değil--ama veba şu,
+Bütün bu sıkıntı gerçeği söylemekten gelir,
+Bu gerçek, ona ulaştığında, sahte görünür,
+Tam da yerini alacağı şeymiş gibi görünür,
+Ne de bıraktığı kişi tarafından tanınabilir;
+Oysa yalan gerçeğin işini yapmış olurdu.
+Ama Sanat,--insanın hiçbir zaman insanlara konuşmadığı,
+Sadece insanlığa,--Sanat gerçeği söyleyebilir
+Dolaylı olarak, düşünceyi doğuracak şeyi yapar,
+Ne de düşünceyi yanlışlar, aracı sözcüğü kaçırır. Böylece resmini çizebilirsin, gerçeği iki kez göster,
+Duvardaki basit imgelerin ötesinde,--
+Bu yüzden, nota nota, zihninden müzik getir,
+Adante'nin her zamankinden daha derine daldığı,--
+Bu yüzden bir kitap yazmak, gerçeklerin ötesinde,
+Gözün yeteceği ve ayrıca ruhun kurtarılacağı anlamına gelir.
+
+* * * * *
+
+ÖZGÜVEN.
+
+1. Kendi düşüncenize inanmak, sizin özel kalbinizde doğru olanın tüm insanlar için doğru olduğuna inanmak, dehadır.
+
+Gizli inancınızı dile getirin, o evrensel duyu olsun; çünkü
+zamanı geldiğinde en içteki en dıştaki olur ve ilk düşüncemiz Son Yargı'nın trompetleriyle bize geri döner. Zihnin sesi her biri için tanıdık olduğu kadar, Musa, Platon ve Milton'a atfettiğimiz en büyük değer, hepsinin kitapları ve gelenekleri hiçe saymaları ve insanların
+düşündüklerini değil,
+kendilerinin_ düşündüklerini söylemeleridir.
+
+2. Bir insan, ozanların ve bilgelerin gök kubbesinin parıltısından daha çok, zihninin içinden geçen o ışık parıltısını algılamayı ve izlemeyi öğrenmelidir. Yine de düşüncesini fark etmeden reddeder, çünkü
+düşüncesi kendisine aittir. Her deha eserinde kendi reddedilmiş düşüncelerimizi tanırız;
+onlar bize belli bir yabancılaşmış ihtişamla geri dönerler.
+
+3. Büyük sanat eserleri bizim için bundan daha etkileyici bir ders vermez. Bize, tüm sesler diğer taraftayken çoğu kişiden daha iyi huylu bir esneklikle kendiliğinden oluşan izlenimimize uymayı öğretir. Aksi takdirde yarın bir yabancı, ustaca sağduyusuyla, her zaman düşündüğümüz ve hissettiğimiz şeyi tam olarak söyleyecek ve biz de kendi fikrimizi başkasından utançla kabul etmek zorunda kalacağız. 
+4. Her insanın eğitiminde, kıskançlığın cehalet olduğu; taklidin intihar olduğu; kendini iyiye ve kötüye kendi payı olarak alması gerektiği; geniş evren iyilikle dolu olsa da, kendisine verilen toprak parçasında bahşedilen emeği olmadan besleyici bir tahıl tanesinin ona gelemeyeceği kanaatine vardığı bir zaman vardır. İçinde bulunan güç, doğası gereği yenidir ve onun ne yapabileceğini ondan başka kimse bilmez ve denemeden de bilmez. 
+
+5. Bir yüzün, bir karakterin, bir gerçeğin onda çok fazla etki bırakması boşuna değil, diğeri ise hiç etki bırakmaz. Hafızadaki bu heykel önceden belirlenmiş bir uyumdan yoksun değildir. Göz, bir ışının düşmesi gereken yere yerleştirilmiştir, böylece o belirli ışına tanıklık edebilir.
+
+6. Kendimizi ancak yarı yarıya ifade ediyoruz ve her birimizin temsil ettiği o ilahi fikirden utanıyoruz. Orantılı ve iyi konular olarak güvenle güvenilebilir, bu yüzden sadakatle aktarılabilir, ancak Tanrı işinin korkakların
+tarafından ortaya çıkarılmasına izin vermez. Bir insan, kalbini işine koyduğunda ve elinden gelenin en iyisini yaptığında rahatlar ve neşelenir; ancak başka türlü söylediği veya yaptığı şeyler ona huzur vermez. Bu, teslim etmeyen bir kurtuluştur. Girişiminde dehası onu terk eder; hiçbir ilham perisi dost olmaz; hiçbir icat, hiçbir umut.
+
+7. Kendine güven: her kalp o demir telin titreşmesine uyar. İlahi takdirin sizin için bulduğu yeri, çağdaşlarınızın toplumunu, olayların bağlantısını kabul edin. Büyük adamlar her zaman bunu yapmışlardır,
+ve kendilerini çocukça çağlarının dehasına emanet ettiler,
+mutlak güvenilir olanın
+kalplerinde oturduğunu, elleriyle çalıştığını, tüm varlıklarında baskın olduğunu algıladıklarına ihanet ettiler.
+
+8. Ve şimdi biz insanlarız ve en yüksek zihinde aynı
+aşkın kaderi kabul etmeliyiz; ve korunaklı bir köşedeki küçükler ve sakatlar değil,
+bir devrimden kaçan korkaklar değil, rehberler, kurtarıcılar ve hayırseverler, Yüce çabaya itaat eden ve Kaos ve Karanlık'ta ilerleyenler.
+
+RALPH WALDO EMERSON.
+
+* * * * *
+
+RHODORA.
+
+BU ÇİÇEK NEREDEN? diye sorulduğunda
+
+Mayıs ayında, deniz rüzgarları yalnızlıklarımızı deldiğinde,
+Ormanda taze bir Rhodora buldum,
+Yapraksız çiçeklerini nemli bir köşeye yayarak,
+Çölün ve durgun derenin hoşuna gitmek için.
+Havuza düşen mor yapraklar,
+Siyah suyu güzellikleriyle şenlendirdi;
+Kızıl kuş buraya gelip tüylerini serinletebilir,
+Ve dizilimini ucuzlatan çiçeğe kur yapabilir. Rhodora! Eğer bilgeler sana neden diye sorarsa
+Bu tılsım yeryüzünde ve gökyüzünde boşa harcanıyor,
+Söyle onlara canım, eğer gözler görmek için yaratılmışsa,
+O zaman Güzellik kendi varoluş bahanesidir:
+Neden oradaydın, ey gülün rakibi!
+Hiç sormayı düşünmedim, hiç bilmiyordum:
+Ama basit cehaletimle, varsayalım ki
+Beni oraya getiren aynı Güç seni de getirdi.
+
+RALPH WALDO EMERSON.
+
+* * * * *
+
+HER BİRİ VE HEPSİ.
+
+Küçük bir şey düşünüyor, tarlada, şu kırmızı pelerinli palyaço,
+Tepeden aşağı bakarken seni;
+Yayla çiftliğinde böğüren düve,
+Uzaklarda duyuluyor, senin kulağın büyüye alçalamıyor;
+Öğlen vakti çanını çalan kilise bekçisi,
+O kadar büyük görmüyor Napolyon
+Atını durduruyor ve zevkle şakıyor,
+Dosyaları şu Alp dağlarının zirvesinde dolanırken;
+Ve sen komşunun inancına verdiğin argümanı bilmiyorsun.
+Herkesin ihtiyacı vardır;
+Hiçbir şey tek başına adil veya iyi değildir.
+
+Serçenin gökten gelen notasını düşündüm,
+Şafakta kızılağaç dalında şarkı söylerken;
+Onu eve getirdim, yuvasında, akşam vakti;
+Şarkıyı söylüyor, ama şimdi neşelendirmiyor,
+Çünkü ne nehri ne de gökyüzünü eve getirmedim;--
+Kulağıma söyledi,--gözüme söylediler.
+
+Narin deniz kabuğu kıyıda yatıyordu;
+Son dalganın kabarcıkları
+Minelerine taze inciler verdi,
+Ve vahşi denizin böğürmesi
+Güvenli kaçışlarını bana selamladı.
+Otları ve köpükleri sildim,
+Denizden gelen hazinelerimi eve getirdim;
+Ama zavallı, çirkin, iğrenç şeyler
+Güzelliklerini kıyıda bırakmışlardı
+Güneşle, kumla ve vahşi kargaşayla.
+
+Sevgili zarif hizmetçisini izliyordu,
+Bakire kuyruğunun ortasında başıboş dolaşırken,
+Güzelliğinin en güzel kıyafetinin
+Hala kar beyazı koro tarafından dokunduğunu bilmiyordu.
+Sonunda onun inziva yerine geldi,
+Ormandan kafese gelen kuş gibi;--
+Şen büyü bozulmuştu;
+Nazik bir eş, ama peri değildi.
+
+Sonra dedim ki, "Gerçeği arzuluyorum;
+Güzellik olgunlaşmamış çocukluğun hilesidir;
+Onu gençliğin oyunlarıyla geride bırakıyorum:"--
+Konuşurken, ayaklarımın altında
+Yer çamı güzel çelengini kıvırıyordu,
+Sokak yosunu dikenlerinin üzerinden koşarak;
+Menekşenin nefesini içime çektim;
+Etrafımda meşeler ve köknarlar duruyordu;
+Çam kozalakları ve meşe palamutları yerde yatıyordu;
+Üzerimde sonsuz gökyüzü yükseliyordu,
+Işık ve ilahiyatla dolu;
+Tekrar gördüm, tekrar duydum,
+Akan nehir, sabah kuşu;--
+Duyularımla gelen güzellik çaldı;
+Kendimi mükemmel bütüne teslim ettim.
+
+RALPH WALDO EMERSON
+
+* * * * *
+
+KOLOMBUS.
+
+[Bu şiir Joaquin Miller'ın tüm eserlerinden alınmıştır,
+telif hakkı saklıdır, Whitaker Ray Şirketi, San Francisco tarafından yayınlanmıştır.]
+
+Arkasında gri Azorlar uzanıyordu,
+Herkül'ün kapılarının ardında;
+Önünde kıyıların hayaleti yoktu,
+Önünde sadece kıyısız denizler vardı.
+İyi kaptan dedi ki, "Şimdi dua etmeliyiz,
+Çünkü işte! Yıldızlar bile gitti.
+Cesur Amiral, konuş, ne diyeyim!"
+"Neden, 'Yelken aç! Yelken aç! ve aç!' de."
+
+"Adamlarım gündüzleri isyan ediyor,
+Adamlarım korkunç derecede solgun ve güçsüz oluyor."
+Güçlü kaptan evini düşündü; Bir tuz dalgasının serpintisi esmer yanağını yıkadı.
+"Ne diyeyim, cesur Amiral, söyle,
+Şafakta sadece denizler görürsek?"
+"Neden, gün doğarken,
+'Yelken aç! Yelken aç! Yelken aç! Ve devam et!' diyeceksin."
+
+Yelken açtılar ve açtılar, rüzgarlar estiği gibi,
+Ta ki sonunda solgun kaptan şöyle diyene kadar:
+"Neden, şimdi, Tanrı bile bilmez
+Ben ve bütün adamlarım ölürse.
+Bu rüzgarlar yollarını unutur,
+Çünkü Tanrı bu korkunç denizlerden gitti.
+Şimdi konuş, cesur Amiral, konuş ve söyle"--
+Dedi ki, "Yelken aç! Yelken aç! Ve devam et!"
+
+Yelken açtılar. Yelken açtılar. Sonra kaptan konuştu:
+"Bu çılgın deniz bu gece dişlerini gösteriyor.
+Dudaklarını kıvırıyor, pusuda bekliyor
+Sanki ısıracakmış gibi dişlerini kaldırarak!
+Cesur Amiral, sadece bir güzel söz söyle:
+Umut tükendiğinde ne yapacağız?"
+Sözcükler sıçrayan bir kılıç gibi sıçradı,
+"Yelken aç! Yelken aç! Yelken aç! Ve aç!"
+
+Sonra, solgun ve yıpranmış bir şekilde güvertesini korudu,
+Ve karanlığın içinden baktı. Ah, o gece
+Tüm karanlık gecelerden! Ve sonra bir leke--
+Bir ışık! Bir ışık! Bir ışık! Bir ışık!
+Büyüdü, yıldızlı bir bayrak açıldı!
+Zamanın şafağı oldu,
+Bir dünya kazandı; o dünyaya
+En büyük dersini verdi: "Hadi! Yelken aç!"
+
+JOAQUIN MILLER.
+
+* * * * *
+
+SON DÜŞESİM.
+
+FERRARA.
+
+Duvara resmedilmiş son Düşesim,
+Sanki yaşıyormuş gibi.
+O parçaya bir harika diyorum, şimdi; Fra Pandolf'un elleri
+Bir gün boyunca yoğun bir şekilde çalıştı ve işte orada duruyor.
+Ona oturup bakmanızı rica etmem, dedim. "Fra Pandolf" tasarımı gereği,
+Sizin gibi yabancılar asla okumadı,
+Ciddi bakışının derinliğini ve tutkusunu resmeden,
+Ama bana döndüler (çünkü kimse
+Sizin için çektiğim perdeyi benden başkası kapatamaz)
+Ve bana sorar gibi göründüler, eğer cesaret edebilirlerse,
+Böyle bir bakışın oraya nasıl geldiğini; öyleyse, dönüp böyle soracak ilk kişi
+O değil misiniz? Efendim, o değildi
+Sadece kocasının varlığı, o noktayı
+Düşesin yanağında sevinç olarak adlandırdı: belki
+Fra Pandolf şöyle demişti, "Onun pelerini Leydimin bileğini çok fazla sarıyor," ya da "Boya
+Boğazında ölen o soluk
+Yarı kızarıklığı asla yeniden üretmeyi ummamalıyım;" böyle şeyler
+Nezaket olduğunu düşündü ve
+O sevinç noktasını hatırlamak için yeterli sebepti.
+Bir kalbi vardı - nasıl desem? - çok çabuk sevinen,
+Çok kolay etkilenen; o ne sevdiyse
+Baktı ve bakışları her yere gitti
+Efendim, hepsi birdi! Göğsünde benim lütfum,
+Batı'da gün ışığının düşüşü,
+Bir resmiyetçi aptalın kiraz dalı
+Onun için meyve bahçesini kırdı, beyaz katır
+Terasın etrafında dolandı--hepsi ve her biri
+Ondan aynı şekilde onaylayıcı konuşmalar çıkarırdı,
+Ya da en azından kızarırdı. Erkeklere teşekkür etti,--iyi! ama teşekkür etti
+Bir şekilde--nasıl olduğunu bilmiyorum--sanki
+Dokuz yüz yıllık bir isim armağanımı
+Herhangi birinin armağanıyla
+sıralamış gibi. Kim bu tür önemsiz şeyleri suçlamaya tenezzül ederdi ki? Hatta
+Konuşmada--(benim sahip olmadığım)--iradenizi
+Böyle birine oldukça açık bir şekilde ifade etme ve "Sadece bunu" deme becerisine sahiptiniz ve
+Ya da içinizdeki bu beni iğrendiriyor; burada kaçırıyorsun,
+"Ya da hedefi aş"--ve eğer o izin verirse
+Kendisinin böyle ders almasına, ya da açıkça
+Zekasını seninkine koymasa, doğrusu, ve bahane uydurursa,
+--O zaman biraz eğilmek olurdu; ve ben
+Asla eğilmemeyi seçiyorum. Ah, Efendim, gülümsedi, şüphesiz,
+Ne zaman yanından geçsem; ama kim
+Aynı gülümseme olmadan geçer ki? Bu büyüdü; emirler verdim;
+Sonra bütün gülümsemeler bir arada durdu. Orada duruyor
+Sanki canlıymış gibi. Sizi memnun etmeyecek mi, kalkın?
+Aşağıdaki toplulukla buluşacağız, o zaman. Tekrar ediyorum
+Efendinizin bilinen cömertliği
+Çeyiz için hiçbir haklı bahanemin
+reddedilmeyeceğine dair yeterli bir garantidir;
+Her ne kadar itiraf ettiğim gibi,
+güzel kızının kendisi,
+Başlarken, benim hedefim. Hayır, birlikte ineceğiz
+Aşağı, Efendim. Dikkat edin Neptün,
+Bir deniz atını evcilleştiriyor, nadir bir şey olsa da,
+Innsbruck'lu Claus'un benim için bronzdan döktüğü!
+
+ROBERT BROWNING.
+
+* * * * *
+
+"HİKAYE."
+
+Bana ne güzel bir hikaye anlatmıştın
+Bir zamanlar
+--Bir yerde bulduğunu söylemiştin (azarla beni!)
+Düzyazı mıydı, kafiye miydi,
+Yunanca mı, Latince mi? Yunanca, dedin,
+Omuzun başımı desteklerken.
+
+Neyse, unutmak yok
+Bu kadar, hatta daha fazlası değil,
+Bir şair (lütfen okşama!)
+Evet, bir ozan, efendim, eskiden ünlüydü,
+Böylelerinin gittiği yerlere giderdi,
+Bir ödül için şarkı söylerdi, bilirsin.
+
+Eh, şarkı söylemek zorundaydı, sadece
+Şarkı söylemek, ama lir çalmak;
+Çalmak açıkça önemliydi
+Şarkı söylemek kadar; Arzu ediyorum,
+Efendim, gerçeği aklınızda tutun
+Arkada kalan bir amaç için. Orada öylece duruyordu, derin bir dikkatle
+Hakimleri çevreledi,
+-- Hakimler yetenekli, belirtmeliyim ki,
+En ufak bir sesi
+Söylenen veya yanlış çalınan sesi tespit etmek için: böyle kulaklar
+Eski hakimler varmış, öyle görünüyor!
+
+Yine de cesurca şarkı söyledi,
+Zamanında ve akortta çaldı
+Hakimler, soğukça tartana kadar
+Her notanın değeri, geç veya erken görünüyordu,
+Gülümseyeceklerinden emindi "Boşuna çabalamak
+Hataları seçmek: ödülü al!"
+
+Ne zaman, bir yaramazlık! Lirin sahip olduğu yedi
+Tel miydi?
+Ah, ve sonra on bir,
+Teşekkür ederim! Peki, efendim-- kim tahmin etmişti
+Böyle bir talihsizlik olacağını?-- oldu
+Aynı yedi telden biri koptu.
+
+O zaman her şey kaybolmuştu! Hayır! bir cırcır böceği
+(Hangi "ağustos böceği"? Pooh!)
+--Çalılığını terk eden çılgın bir şey
+Sadece müzik aşkı için--uçtu
+Küçük kalbi alev alev
+Sakat lirde yandı.
+
+Böylece (Ah, sevinç!) şarkıcımız
+Geç kalmış teli için
+Rahatsız parmağıyla hisseder,
+Cırcır böceği başka ne fırlatır
+Ateşli kalbi dışarı atar, notayı çalar
+Atışlı boğaz tarafından istenen?
+
+Ay ve, her zaman sona kadar,
+Cırcır böceği ihtiyaç halinde cıvıldar,
+Elin niyetini yerine getirir,
+Hemen, mükemmel bir şekilde,--gerçekten
+Şarkıcıyı yenilgiden kurtarır
+Alçak ve tatlı cıvıltısıyla.
+
+Ta ki, sona erdiğinde, tüm jüri üyeleri
+Tek bir onayla haykırdı
+"Ödülü al--bir ödül ki kin tutan
+Böyle bir ses ve enstrüman?
+Neden, senin lirini arp sanmıştık,
+Böylece bizi Fa diyez diye bağırdı!"
+
+Fatih yaratığı hor mu gördü,
+Bir kere hizmeti bitince?
+Bu o kadar da sıra dışı bir özellik değil
+Müzik'in oğlunun
+Lotte'sinin gücünü çok fazla tükettiğini
+Bulması durumunda
+Ruh gelişimine yardımcı olmak için.
+
+Hayır! Bu diğeri, eve dönerken, ödül elinde,
+Göğsünün özlemini giderdi:
+(Efendim! Umarım anlarsınız!)
+--"Bir kayıt olmalı
+Bu cırcır böceğinin bana yardım ettiğine dair!" dedi
+
+Böylece kendine bir heykel yaptı:
+Mermer duruyordu, gerçek boyutlarda;
+Lirin üzerinde, sana işaret etti,
+Ödülün ortağını tünedi;
+Daha ayrı bir yerde bulamadın
+Onu, tahtına oturttu, ondan, taçlandırdı.
+
+İşte hikaye: Uygulaması?
+Tanıdığım biri
+Bir gün ün kazanmayı umuyor
+Şiirleriyle--Oh,
+Hepsi çok bilgili ve çok bilge
+Ve bir ödülü hak ediyor!
+
+Eğer bir tane kazanırsa, bir bilet,
+Heykeli inşa edildiğinde,
+Bakan kişiye "'Bir cırcır böceğiydi,
+Sakat lirimin,
+Tatlı ve alçak, güç,
+Yumuşaklığın gamdaki yerini gasp ettiğinde, cıvıldadı, yardımcı oldu?
+
+"Zafer yaklaşırken,
+Ben şarkı söyleyip çalarken,--
+Lirim en alçak, en yüksekte,
+Aynı şekilde,--'Aşk'ı yumuşak seslendiren bir tel,
+Bir daha asla duyulmamak üzere,--
+
+"Nazik bir cırcır böceği kanat çırpmamış mıydı,
+Boş kalan yere
+tünemiş ve
+'Aşk, Aşk, Aşk,' diye düzgünce söylenmemiş miydi, bas,
+Tizden biraz kasvetli uğultusunu telafi etmesini istediğinde."
+
+Ama sen müzikten anlamıyorsun! Neden
+Bir şaire
+İnci atmaya devam ediyorsun? Tek umursadığım
+- Ona bir kızın
+"Aşk"ının, sert
+Şarkısını
+Büyüttüğünde uygun bir şekilde içeri girdiğini söylemek. (İşte, yeter!)
+
+ROBERT BROWNING.
+
+* * * * *
+
+GÜNEŞ DOĞMADAN ÖNCE MONT BLANC.
+
+Sabah yıldızını dik yolunda tutmak için bir çekiciliğin var mı? O kadar uzun süre duruyor gibi görünüyor
+Kel, korkunç başında, ey egemen Blanc!
+Arve ve Arveiron senin tabanında
+Durmadan çılgınca bağırıyor; ama sen, en korkunç biçim,
+Sessiz çam denizinden yükseliyorsun,
+Ne kadar sessizce! Etrafında ve üstünde,
+Derin ve karanlık, sağlam, siyah hava,
+Abanoz bir kütle: Sanırım onu
+Bir kama ile deliyorsun. Ama tekrar baktığımda
+Bu senin kendi sakin evin, senin kristal tapınağın,
+Sonsuzluktan beri yaşadığın yer.
+
+Ey korkunç ve sessiz Dağ! Sana baktım
+Sen, hala bedensel duyuma hazır olana kadar,
+Düşüncelerimden kayboldun: duaya kapılmış
+Yalnızca Görünmez'e taptım.
+Yine de, tatlı, baştan çıkarıcı bir melodi gibi,--
+O kadar tatlı ki, onu dinlediğimizi bilmiyoruz,--
+Sen, bu arada, düşüncemle harmanlanıyordun.
+Evet, hayatımla ve hayatın kendi gizli sevinciyle;
+Genişleyen ruh, büyülenmiş, aktarılana kadar,
+Orada geçen güçlü vizyona,
+Doğal haliyle, cennete kadar genişledi. Uyan, ruhum! Sadece pasif övgü değil
+Sen borçlusun! Sadece bu şişkin gözyaşlarını değil,
+Sessiz teşekkürleri ve gizli coşkuyu! Uyan,
+Tatlı şarkının sesi! Uyan, kalbim, uyan!
+Yeşil vadiler ve buzlu uçurumlar! Hepsi ilahime katılıyor!
+
+Sen ilk ve baş, vadinin tek hükümdarı!
+Ah, bütün gece karanlıkla mücadele eden,
+Ve bütün gece yıldız orduları tarafından ziyaret edilen,
+Ya da gökyüzüne tırmandıklarında, ya da battıklarında,--
+Şafak vakti sabah yıldızının yoldaşı,
+Kendin yeryüzünün pembe yıldızı ve şafağın
+Ortak habercisi--uyan! Ey uyan! Ve tam övgü!
+Güneşsiz sütunlarını toprağın derinliklerine kim batırdı?
+Yüzünü pembe ışıkla kim doldurdu?
+Seni sürekli akarsuların ebeveyni yapan kim?
+
+Ve sen, beş vahşi sel şiddetle sevinen!
+Seni geceden ve mutlak ölümden kim çağırdı,
+Karanlık ve buzlu mağaralardan seni çağırdı,
+O sarp, siyah, engebeli kayalardan aşağı,
+Sonsuza dek paramparça ve sonsuza dek aynı?
+Sana yenilmez hayatını kim verdi,
+Gücünü, hızını, öfkeni ve neşeni,
+Kesintisiz gök gürültüsünü ve sonsuz köpüğü?
+Ve kim emretti,--ve sessizlik geldi,--"Burada dalgalar sertleşsin ve dinlensin?"
+
+Ey buz şelaleleri! Ey dağın tepesinden
+Muazzam vadilerden aşağı amain--
+Sel, bence, güçlü bir ses duyan,
+Ve en çılgın düşüşlerinin ortasında hemen duran!
+Hareketsiz seller! Sessiz çağlayanlar!
+Seni cennetin kapıları kadar görkemli yapan kim
+Azgın dolunayın altında? Güneşi kim emretti
+Seni gökkuşağıyla giydirdi? Kim, canlı çiçeklerle
+En güzel mavi renkte, ayaklarına çelenkler serdi?
+
+"Tanrım!" Seller, ulusların haykırışı gibi,
+Cevap versin! Ve buz ovası yankılansın, "Tanrım!"
+"Tanrım!" diye şarkı söyleyin, çayır dereleri, neşeli bir sesle
+Yine çam koruları, yumuşak ve ruha benzer sesinizle
+Ve onların da bir sesi var, şu kar yığınları,
+Ve tehlikeli düşüşlerinde, "Tanrım!" diye gürleyecekler.
+
+Ey sonsuz donu çevreleyen canlı çiçekler!
+Ey kartal yuvasının etrafında dolaşan yaban keçileri!
+Ey kartallar, dağ fırtınasının oyun arkadaşları!
+Ey şimşekler, bulutların korkunç okları!
+Ey elementlerin işaretleri ve harikaları!
+"Tanrım!" diye haykırın ve tepeleri övgüyle doldurun!
+
+Sen de, ak dağ! gökyüzünü işaret eden zirvelerinle
+Çoğu zaman ayaklarından çığ, duyulmamış
+Aşağıya doğru fırlar, saf dinginliğin içinden parıldayarak
+Göğsünü örten bulutların derinliklerine,--
+Sen de, yine, muhteşem dağ! sen
+Başımı kaldırdığımda, bir süre alçak eğilen
+Hayranlıkla, tabanından yukarı doğru
+Yavaş seyahat eden, yaşlarla dolu bulanık gözlerle,
+Ciddi bir şekilde, bir buhar bulutu gibi
+Önümde yükselmek için,--yüksel, ah, her zaman yüksel!
+Yerden, bir tütsü bulutu gibi yüksel!
+Sen, tepelerin arasında taht kuran kral ruh,
+Yerden göğe korkunç elçi,
+Büyük Hiyerarşi! Sessiz gökyüzüne söyle,
+Ve yıldızlara söyle, ve şu yükselen güneşe söyle,
+Yer, binlerce sesiyle Tanrı'yı ​​övüyor.
+
+S.T. COLERIDGE.
+
+* * * * *
+
+YILDIZIM.
+
+Bildiğim tek şey
+Belirli bir yıldız hakkında
+Atabileceği
+(Açılı direk gibi)
+Şimdi kırmızı bir ok,
+Şimdi mavi bir ok,
+Arkadaşlarım
+Onlar da görmek isterler diyene kadar
+
+Kırmızı ve maviyi oklayan yıldızım!
+Sonra bir kuş gibi durur; bir çiçek gibi, kıvrılmış şekilde asılı kalır;
+Kendilerini üstündeki Satürn ile teselli etmeliler.
+Yıldızlarının bir dünya olması benim için ne önem taşıyor?
+Benimki ruhunu bana açtı; bu yüzden onu seviyorum.
+
+ROBERT BROWNING.
+
+* * * * *
+
+MUHAFAZAKAR.
+
+Gezdiğim bahçe yatakları
+Bir parlak ve neşeli sabah,
+Yeni doğmuş bir kelebek bulduğumda
+Bir dikenin üzerinde oturuyordu,
+Siyah ve kızıl bir kelebek,
+Hepsi kederli ve terk edilmiş.
+
+Hayatın acıtmadığını düşünmüştüm
+Bebek kelebeklere,
+Bu yüzden bu mutsuz şeye baktım
+Hayret ve şaşkınlıkla,
+Üzgün ​​bir şekilde sallanan kanadıyla
+Ağlayan gözlerini sildi.
+
+Dedim ki, "Ne olabilir?
+Neden bu kadar çok ağlıyorsun?
+Güzel ve güneş ışığı olmayan bir bahçeyle
+Ve çiçekler güzelce saklanmışken--"
+Ama o sadece benden uzaklaştı
+Ve bir kükremeyle patladı. "Bacaklarım ince ve az
+Bir zamanlar bir sürünün olduğu yerde!
+Yumuşak tüylü kürk--görüntülemek bir zevk--
+Bir zamanlar vücudumu sıcak tutuyordu,
+Bu çırpınan kanatlı şeyler büyümeden önce,
+Engellemek ve deforme etmek için!"
+
+O korkunç böceğe
+Gözümün öfkesini vurdum;
+Dedim ki, alay ederek, hepsi sıcak,
+Öfke ve kızgınlıkla,
+"Seni aşağılık aptal!
+O kanatlar uçmak için yaratılmış!"
+
+"Uçmak istemiyorum," dedi,
+"Sadece kıvranmak istiyorum!"
+Ve kanatlarını üzgün bir şekilde indirdi,
+Ama sesi hala kararlıydı;
+"Sinek olmak istemiyorum!
+Solucan olmak istiyorum!"
+
+Ah, bilinmeyen eksikliğin dünü!
+Bilinmeyen mutluluğun bugünü!
+Aptalımı kırmızı ve siyaha bürünmüş halde bıraktım,
+En son gördüğüm şey buydu,--
+Çılgın bir şekilde geri tırmanan yaratık
+Krizalitine.
+
+CHARLOTTE PERKINS GILMAN.
+
+* * * * *
+
+BEŞ YAŞAM.
+
+Güneşin altında bir havuzun kenarındaki bir yaprağın üzerinde parıldayan yuvarlak bir damlada beş monad yaşıyordu.
+Çıplak gözle görünmez bir şekilde yaşıyorlardı;
+Boş bir hardal tohumu kabuğunun
+içi boş bir gökyüzü olduğu bir dünya için lekeler.
+
+Biri bilge denen meditatif bir monaddı;
+Ve tüm zihnini içine çekerek şöyle düşündü:
+"Saatlerce ve saatlerce aktarılan gelenek,
+Küremizin, bu titreyen kristal dünyanın,
+Yavaşça öldüğünü söyler. Ya, saniyeler sonra,
+Çok yaşlandığımda, şu parıldayan kubbe,
+Aşağı ve aşağı inerse, her şey sona erene kadar?"
+Sonra, zayıf bir sırıtışla gururla hissetti
+Tanrı'nın başka hiçbir zerresi,
+Evrensel gerçeği böylesine devasa bir şekilde kavramamıştı.
+
+Biri aşkın bir monaddı; ince
+Ve uzun ve ince zihinde; ve şöyle düşündü:
+"Ah, engin, anlaşılmaz monad-Ruhlar!
+Sanki görüntüde yaratılmış"--boğuk bir kurbağa havuzdan vıraklıyor--
+"Dinleyin! Bu bir tanrıydı, görkemli düşüncesini seslendiriyordu
+Gök gürültüsü müziğinde! Evet, seslerini duyuyoruz,
+Ve zihinlerini bizimkinden, işlerinden tahmin edebiliriz.
+Bizimkine benzeyen bazı zevkleri var, biraz
+Kıvrılmaya ve bir miktar pislik yemeye eğilimleri."
+Bir iğne ucu büyüklüğünde gaz kabarcığının üzerinde yüzdü
+Bu havayla delinip patladı ve o gitti.
+
+Biri çorak zihinli bir monaddı, adı
+Pozitivist; ve kesin olarak biliyordu:
+"Bu belirli düşüşün ötesinde bir dünya yok.
+Bana bir tane daha kanıtla! Hayalperestler hayal etsin
+Sönük parıltılarını ve dışarıdan gelen sesleri,
+Ve daha yükseğe ve daha alçaklara; hayat yeterince hayattır."
+Sonra yarım saç teli genişliğinde, açgözlülükle
+Bir böcek atomunu yakaladı ve beslendi.
+
+Biri şair denen yırtık bir monaddı;
+Ve tiz bir sesle coşkuyla şöyle şarkı söyledi:
+"Ah, küçük dişi monadın dudakları!
+Ah, küçük, küçük, dişi, dişi monad!"
+
+Sonuncusu güçlü fikirli bir monaddı,
+İnfusoria'nın ortasında fırlayan,
+Yüksek ve alçak dans eden, çılgınca dönen ve dalan
+Başları dönen diğerleri görmek için nefeslerini tutana kadar.
+
+Ama onlar harikulade küçük hayatlarını yaşarken
+Eonian anları teker teker geçip gitmişti.
+Yanan damla korkutucu bir hızla küçülmüştü;
+Parıldayan bir film--gitmişti; yaprak kurumuştu.
+Duyulmayan bir gıcırtıdan gelen küçük hayalet
+Taşından gözlerini kırpıştıran kurbağaya kaybolmuştu;
+Düşünceli bir öküzün büyük, yavaş adımlarıyla
+İçmeye gelen, şişmanca yana doğru kıpırdanan, dalan,
+İki kez geriye doğru fırlatılan ve tüm havuz durgunlaşan.
+
+EDWARD ROWLAND SILL.
+
+* * * * *
+
+ARTHUR'UN GELİŞİ.
+
+[_Kısaltılmış_.]
+
+Cameliard Kralı LEODOGRAN'ın
+Bir güzel kızı ve başka çocuğu yoktu;
+Ve dünyadaki tüm etlerin en güzeliydi,
+Guinevere ve onda onun tek zevki.
+
+Arthur gelmeden önce birçok küçük kral
+Bu adada hüküm sürdü ve sürekli savaşarak
+Birbirlerine karşı, tüm toprakları harap etti;
+Ve yine de zaman zaman putperest orduları
+Denizleri aştı ve kalanları taciz etti.
+Ve böylece büyük vahşi alanlar büyüdü,
+İçlerinde canavar gittikçe daha fazlaydı,
+Ama insan gittikçe daha azdı. . . . * * * * *
+
+Ve böylece Cameliard toprakları çoraklaştı,
+Islak ormanlarla doluydu ve içinde birçok hayvan vardı,
+Ve hayvanı korkutacak veya kovalayacak hiç kimse yoktu veya çok azı vardı;
+Böylece vahşi köpek, kurt, yaban domuzu ve ayı
+Gece gündüz gelip tarlalarda kök saldı,
+Ve Kralın bahçelerinde yuvarlandı.
+
+* * * * *
+
+. . . . . Ve Kral Leodogran
+Buradaki Roma lejyonları için tekrar inledi
+Ve Sezar'ın kartalı için. . . . .
+
+* * * * *
+
+Yardım için nereye dönmesi gerektiğini bilmiyordu.
+
+Ama--Arthur'un yeni taç giydiğini duyduğu için,
+. . . . . . . . . --Kral
+Ona, 'Kalk ve bize yardım et!
+Çünkü burada insanla hayvan arasında ölürüz.' diye haber gönderdi.
+
+Ve Arthur henüz hiçbir silah kullanmamıştı,
+Ama çağrıyı duydu ve geldi; ve Guinevere
+Onun geçişini izlemek için kale duvarlarının yanında durdu;
+Ama ne miğfer ne de kalkan takmıştı
+Krallığının altın sembolü,
+Ama şövalyeleri arasında basit bir şövalye olarak at sürdü,
+Ve bunların çoğu ondan daha zengin silahlara sahipti,
+Onu görmedi ya da gördüyse bile fark etmedi,
+Birçoğundan biri, yüzü çıplak olmasına rağmen.
+Ama Arthur geçerken aşağıya baktı,
+Gözlerinin ışığını hayatına hissetti
+Ansızın gelen darbeye çarptı, yine de atını sürdü ve
+Çadırlarını ormanın yanına kurdu. Sonra
+Paganı sürdü; sonra canavarı öldürdü ve
+Ormanı devirdi, güneşi içeri aldı ve
+Avcı ve şövalye için geniş yollar açtı
+Ve böylece geri döndü.
+
+Çünkü orada oyalandığı sürece,
+Krallığının o büyük lordları ve baronlarının
+kalplerinde her zaman için için yanan bir şüphe
+yanıp savaşa dönüştü; çünkü bunların çoğu,
+Bir sürü küçük kralla işbirliği yaparak,
+Ona karşı başlarını eğerek bağırıyorlardı: "Kim o bizi yönetmeli? Kim onu
+Kral Uther'in oğlu olarak kanıtladı?"
+
+Ve Arthur, oradan savaşa geçerken,
+Çaba, sancı ve hayatın ızdıraplarını hissetti,
+Guinevere'e katılmayı arzulayarak,
+Ve at sürerken şöyle düşündü: "Babası dedi ki
+İnsanla hayvan arasında ölürler.
+Onu bu hayvanlar diyarından
+tahtıma ve benimle yan yana kaldırmaz mıyım?
+Yalnız bir kralın hüküm sürmesi ne mutluluktur?
+
+* * * * *
+
+. . . Ama eğer onunla birleşirsem,
+O zaman tek bir hayat olarak birlikte yaşayabiliriz,
+Ve her şeyde tek bir iradeyle hüküm sürebiliriz,
+Bu karanlık diyarda onu aydınlatmak için güce sahip olabiliriz,
+Ve bu ölü dünyada onu yaşatmak için güce sahip olabiliriz."
+
+* * * * *
+
+Arthur, düşmanının dikili çadırlarıyla
+parlak bir savaş alanına ulaştığında, dünya
+Onun etrafında o kadar netti ki
+En silik tepedeki en küçük kayayı,
+Ve hatta yüksek bir günde sabah yıldızını gördü.
+
+* * * * *
+
+. . . . Ama dünyada yürüyen Güçler,
+Üzerinde şimşekler ve büyük gök gürültüleri yarattılar,
+Ve tüm gözleri kamaştırdılar, ta ki Arthur ana gücüyle,
+Ve her darbede ellerinden daha da güçlü,
+Ve tüm şövalyeliğini yöneterek kralları devirene kadar.
+
+* * * * *
+
+Böylece savaş resmedilmiş bir savaş gibi durdu
+Susturuldu, yaşayanlar ölüler kadar sessiz,
+Ve Arthur'un kalbinde sevinç efendiydi.
+
+* * * * *
+
+Sonra savaş alanından hemen
+. . . . . . . . . Sir Bedivere'yi
+. . . . . . . . . . Kral Leodogran'a gönderdi,
+"Eğer sana iyi hizmet ettiysem,
+Kızın Guinevere'yi bana eş olarak ver." dedi.
+
+Leodogran yüreğinde şunu duyduğunda,
+"Ben bir kralken,
+İhtiyacım konusunda bana ne kadar destek olursa olsun,
+Kızımı bir krala,
+Ve bir kralın oğluna bağışlasam bile"?--sesini yükseltti ve
+Yaşlı bir adama, uşağına,
+Her şeyine güvendiği ve ondan öğüt beklediği birine seslendi: "Arthur'un doğumuyla ilgili bir şey biliyor musun?"
+
+* * * * *
+
+Sonra Kral kendi kendine tartışırken,
+
+* * * * *
+
+. . . . . Cameliard'a geldi,
+
+* * * * *
+
+Lut'un karısı, Orkney Kraliçesi, Kavgacı;
+O . . . . . . . . Kral
+Ziyafet hazırladı, yemek yerken:
+
+* * * * *
+
+'Arthur'un sarayından geliyorsunuz. Adamlarını zaferle vurun
+Onu ihbar edin! Evet, ama siz--bu kralı düşünün--
+Ondan nefret eden çok fazla ve çok güçlü,
+Şövalyeleri çok az, ne kadar cesur olurlarsa olsunlar--
+Düşmanını aşağıda tutmaya yetecek kadar bedenleri var mı?'
+
+'Ey Kral,' diye haykırdı, 've sana söyleyeceğim: az,
+Az, ama hepsi cesur, hepsi onunla aynı fikirde;
+Çünkü vahşi çığlıklar atıldığında ben onun yanındaydım
+Uther'in soyluluğunun öldüğü ve Arthur'un
+Kürsüde taç giydiği ve tüm savaşçılarının
+"Sen Kral ol, biz de seni sevenler senin isteğini yerine getireceğiz," diye bağırdığı zaman, Kral alçak, derin tonlarda,
+Ve büyük otoritenin basit sözleriyle,
+Onları kendi kendine öylesine açık yeminlerle bağladı ki
+Kalkıştıklarında, diz çökmekten şövalye ilan edildiklerinde, bazıları
+Bir hayaletin geçişi gibi solgundu,
+Bazıları kızarmıştı ve diğerleri sersemlemişti, uyanan biri gibi
+Bir ışığın gelişiyle yarı kör.
+
+'Ama konuştuğunda ve masasını
+Büyük, ilahi ve rahatlatıcı sözlerle neşelendirdiğinde,
+Sana söylemek için dilimin ötesinde--Gördüm
+Göz göze, tüm Düzenleri boyunca
+Kralın bir anlık benzerliği;
+
+* * * * *
+
+'Ve orada büyücü Merlin'i gördüm, onun engin zekâsı
+Ve yüzlerce kışı, efendileri için çalışan sadık vasalların elleri gibidir.
+
+'Ve onun yanında, kendisininkinden daha ince bir büyü bilen Gölün Hanımı duruyordu--
+Beyaz samite giyinmiş, mistik, harika.
+Kral'a kocaman, çapraz saplı kılıcını verdi,
+Bununla putperestleri kovacaktı:
+Etrafında bir tütsü sisi kıvrılmıştı ve yüzü
+Neredeyse tapınağın karanlığında gizliydi;
+Ama kutsal ilahiler arasında duyuluyordu
+Suların sesi gibi bir ses, çünkü o
+Derin bir yerde oturuyor--sakin, hangi fırtınalar
+Dünyayı sarsarsa sarsın--ve yüzey yuvarlandığında,
+Efendimiz gibi sularda yürüme gücüne sahiptir.'
+
+Bunun üzerine Leodogran sevindi, ama
+Şüphelerini sonuna kadar elemeyi düşündü ve sordu,
+Yüzüne soru dolu bakışlar dikerek,
+'Kırlangıç ​​ve ebabil birbirine çok yakındır,
+Ama sen bu asil prense daha yakınsın,
+Kendi sevgili kız kardeşi olduğun için;'
+
+* * * * *
+
+. . . . . . . . . 'Ne biliyorum?
+Çünkü annemin gözleri ve saçları koyuydu,
+Ve saçlarım ve gözlerim koyu; . . . . . . evet ve Uther de koyuydu,
+Siyahlığa yakındı; ama bu kral güzel
+Britanyalıların ve insanların ırkının ötesinde.
+
+'Ama şimdi sana başka bir hikaye anlatayım:
+
+* * * * *
+
+. . . . . . . . . gecede
+Uther Tintagil'de vefat ettiğinde
+Bir varis için inleyip ağlayan, Merlin
+Hareketsiz Kralı bırakıp, nefes almak için dışarı çıktı,
+
+* * * * *
+
+Bakıldı, kasvetli derinliklerde çok yüksekte
+Cennette bir gemi gibi görünüyordu, şekli
+Kanatlı bir ejderha ve baştan kıça kadar her şey
+Güvertelerde parlayan insanlarla parlak,
+Ve görüldüğü anda gitti. . . . . . O
+. . . . . büyük denizin düşüşünü izledi,
+Dalga üstüne dalga, her biri bir öncekinden daha güçlü,
+Sonuna kadar, dokuzuncusu, derinliğin yarısını topladı
+Ve seslerle dolu, yavaşça yükseldi ve daldı
+Kükredi ve tüm dalga alevler içindeydi:
+Ve dalganın aşağısında ve alevlerin içinde taşındı
+Çıplak bir bebek ve Merlin'in ayaklarına bindi,
+Eğildi ve bebeği yakaladı ve bağırdı, "Kral!"
+
+* * * * *
+
+Ve hemen ardından sakinlik geldi,
+Özgür gökyüzü ve yıldızlar: "Ve bu aynı çocuk," dedi,
+"Hüküm süren odur." . . . .
+
+* * * * *
+
+. . . . . . Ve o zamandan beri Lordlar
+Kendi aralarında vahşi hayvanlar gibi savaştılar,
+Böylece krallık yıkıldı; ama şimdi,
+Bu yıl, Merlin -zamanı geldiğinde-
+Arthur'u dışarı çıkardı ve onu salona oturttu,
+"İşte Uther'in varisi, Kralınız," diye haykırdı,
+Yüzlerce ses haykırdı: "Onu götürün!
+Bizim kralımız yok!" . . . . .
+
+* * * * *
+
+. . . . Yine de Merlin, zanaatı boyunca,
+Ve halk bir kral için haykırırken,
+Arthur taç giydirdi; ama sonra, büyük lordlar
+Çetelendi ve böylece açık savaşa girdiler.
+
+* * * * *
+
+. . . . ve Merlin bizim zamanımızda da konuştu, . . . . .
+İnsanlar onu yaralayıp ölmesini engelleseler de,
+Ama gelip, o zaman veya şimdi
+Padişahları ayaklar altına alıp tamamen vurun,
+Bunlar ve bütün insanlar onu kralları olarak selamlayana kadar.'
+
+. . . . . Kral Leodogran sevindi,
+Ama 'Evet mi yoksa hayır mı diye düşünerek'
+Şüpheli ve uykulu, başını salladı ve uyudu ve gördü,
+Sürekli büyüyen bir yamaç düşledi,
+Tarla tarla, bir yüksekliğe kadar, zirve
+Sisle gizlenmiş ve orada bir hayalet kral,
+Kalıpta beliren ve şimdi kaybolan; ve yamaçta
+Kılıç kalktı, geyik düştü, sürü sürüldü,
+Ateş göründü; ve çatıdan ve setten tüm toprak,
+Yuvarlanan bir rüzgarın önünde duman yığınları halinde,
+Zirveye aktı ve sisle karıştı
+Ve onu daha da yoğunlaştırdı; hayalet kral ise
+Bazen bir ses gönderdi; ve burada veya orada
+Sese işaret eden biri durdu, gerisi
+Dönüp durdu ve yandı, 'Bizim kralımız yok,
+Uther'in oğlu yok ve bizim kralımız yok;' diye haykırdı;
+Ta ki bir göz kırpmasıyla rüyası değişene kadar, sis
+Alçalan ve katı toprak
+Hiçbir şey gibi, ama kral cennette duruyordu,
+Taç giymişti. Ve Leodogran uyandı ve gönderdi
+
+* * * * *
+
+Evet diye cevaplayarak Arthur'un sarayına geri döndü.
+
+Sonra Arthur sevdiği savaşçısını görevlendirdi
+Ve en çok onurlandırdığı, Sir Lancelot, dışarı at sürmesini
+Ve Kraliçeyi getirmesini ve onu kapılardan izlemesini söyledi:
+Ve Lancelot çiçeklerin arasında geçti--
+Çünkü o zamanlar Nisan ayının sonlarıydı--ve geri döndü--
+Çiçeklerin arasında, Mayıs ayında, Guinevere ile. Dubric yüce aziz tarafından,
+Britanya'daki kilisenin şefi ve
+En görkemli sunak-tapınaklarının önünde, Kral geldi
+O sabah, beyazlar içinde evlendi,
+Asil bir zamanın güzel yeni başlayanları,
+Ve yeminleriyle övünüyorlardı ve şövalyeleri
+Etrafında duruyorlardı ve onun sevincinden sevinç duyuyorlardı.
+Mayıs tarlaları açık kapıdan uzakta parlıyordu,
+Kutsal sunak Mayıs'la beyaz çiçek açmıştı,
+Mayıs güneşi Krallarının üzerine indi,
+Kraliçelerinde dünyanın tüm güzelliğine baktılar,
+Tütsü sardılar ve orada ilahiler boyunca geçtiler,
+Suların sesi gibi bir ses, ikisi
+Mesih'in tapınağında ölümsüz bir aşka yemin ederken.
+Ve Arthur dedi ki, 'İşte, senin kaderin benim.
+Ne olursa olsun, seni ölümüne seviyorum!'
+Kraliçe gözlerini indirerek cevap verdi,
+'Kral ve efendim, seni ölümüne seviyorum!'
+Ve kutsal Dubric ellerini açtı ve konuştu:
+'Hüküm sür, yaşa ve sev ve dünyayı
+Başka kıl, ve Kraliçe seninle bir olsun,
+Ve tüm bu Masa Düzeni
+Krallarının sınırsız amacını yerine getirsin!'
+
+* * * * *
+
+Ve Arthur'un şövalyeliği Kral'ın önünde şarkı söyledi:--
+
+'_Trompet çal, çünkü dünya Mayıs'la beyazlaştı!!
+Trompet çal, uzun gece sona erdi!
+Yaşayan dünyayı üfle--"Kral hüküm sürsün_!"
+
+'_Arthur'un ülkesinde Roma mı yoksa Pagan mı hüküm sürecek?
+Mızrak ve mızrağı parlat, miğfere savaş baltasını indir,
+Savaş baltasını indir ve markayı parlat! Kral hüküm sürsün_!
+
+'_Kral için vur ve yaşa! Şövalyeleri duydu
+Tanrı'nın Kral'a gizli bir söz söylediğini.
+Savaş baltasını düşür ve ateşle! Kral hüküm sürsün_!
+
+* * * * *
+
+'_Kral için vur ve öl! ve eğer ölürsen,
+Kral kraldır ve her zaman en yüceyi ister.
+Savaş baltasını şaklat ve ateşle! Kral hüküm sürsün_!
+
+* * * * *
+
+'_Kral Mesih'i takip edecek ve biz Kral,
+Yüce Tanrı'nın gizli bir şey üflediği.
+Savaş baltasını düşür ve ateşle! "Kral hüküm sürsün_!"
+
+Ve Arthur ve şövalyeleri bir süreliğine
+Hepsi tek bir irade olsaydı ve o güçle Kral
+Küçük prenslikleri altına çekti,
+Savaştı ve on iki büyük savaşta
+Pagan ordularını yendi ve bir krallık kurdu ve hüküm sürdü.
+
+ALFRED, LORD TENNYSON.
+
+* * * * *
+
+ELAINE. Güzel Elaine, sevimli Elaine,
+Astolat'ın zambak kızı Elaine,
+Doğuya doğru bir kulenin tepesindeki odasında
+Lancelot'un kutsal kalkanını koruyordu;
+Önce sabahın ilk ışınlarının vurabileceği ve onu parıltıyla uyandırabileceği yere yerleştirdi;
+Sonra pas veya toprak korkusuyla,
+İpekten bir kutu yaptı ve üzerine ördü
+Kalkanın üzerine tüm desenleri
+Kendi renkleriyle ve onun zekâsıyla ekledi,
+Dal ve çiçeğin bir sınır fantezisi,
+Ve yuvada sarı boğazlı yavru. Ne de böyle tatmin olmuş bir şekilde dinlendi, ama günbegün
+Ev halkını ve iyi babasını terk ederek,
+Doğu kulesine tırmandı ve içeri girip kapıyı kilitledi,
+Kılıfı çıkardı ve çıplak kalkanı okudu,
+Şimdi kollarında gizli bir anlam olduğunu tahmin etti,
+Şimdi kendine güzel bir tarih yazdı
+İçine bir kılıcın sapladığı her çukurun,
+Ve bir mızrağın yaptığı her çizik,
+Ne zaman ve nerede olduğunu tahmin ederek: bu kesik taze;
+On yıl önce; bunun ona Caerlyle'de yapıldığını;
+Cearleon'da olduğunu; bunun Camelot'ta olduğunu;
+Ve ah, Tanrı'nın merhameti orada ne bir vuruştu!
+Ve burada öldürebilecek bir darbe, ama Tanrı
+Güçlü mızrağı kırdı ve düşmanını aşağı yuvarladı,
+Ve onu kurtardı; böylece hayal dünyasında yaşadı.
+
+ALFRED, LORD TENNYSON
+
+* * * * *
+
+SHALOTT'UN HANIMEFENDİSİ.
+
+BÖLÜM I.
+
+Nehrin her iki yakasında
+Uzun arpa ve çavdar tarlaları uzanır,
+Yeryüzünü kaplar ve gökyüzüyle buluşur;
+Ve tarlanın içinden yol geçer
+Çok kuleli Camelot'a
+Ve insanlar yukarı aşağı yürür,
+Zambakların savruldukları yere bakarlar
+Aşağıda bir adanın etrafında,
+Shalott Adası.
+
+Söğütler beyazlar, kavaklar titrer,
+Küçük esintiler, alacakaranlık ve titrer
+Sonsuza dek akan dalganın içinden
+Nehirdeki adanın yanından
+Camelot'a doğru akar.
+Dört gri duvar ve dört gri kule,
+Çiçeklerle dolu bir alana bakar,
+Ve sessiz ada,
+Shalott hanımını kucaklar.
+
+Söğütlerle örtülü kenardan,
+Yavaş atların çektiği ağır mavnalar kayar; ve selamlanmamış
+Şalgam ipek yelkenlerle uçuşuyor
+Camelot'a doğru kayarak:
+Ama elini salladığını kim gördü?
+Ya da pencere kenarında durduğunu kim gördü?
+Yoksa tüm ülkede tanınıyor mu,
+Shalott Hanımı?
+
+Sadece erken biçen orakçılar
+Sakallı arpaların arasında,
+Neşeyle yankılanan bir şarkı duyar,
+Açıkça kıvrılan nehirden,
+Kuleli Camelot'a doğru;
+Ve ayın yanında yorgun orakçı,
+Havalı yaylalarda demetler yığıyor,
+Dinliyor, "Bu peri
+Shalott Hanımı." diye fısıldıyor.
+
+BÖLÜM II.
+
+Orada gece gündüz örüyor
+Şen renklerle büyülü bir ağ.
+Bir fısıltı duymuş,
+Eğer kalırsa
+Camelot'a bakmak için. Lanetin ne olduğunu bilmiyor,
+Ve böylece istikrarlı bir şekilde dokuyor,
+Ve başka pek bir kaygısı yok,
+Shalott'un Hanımı.
+
+Ve yıl boyunca önünde asılı duran
+Aydın bir aynadan geçerken,
+Dünyanın gölgeleri beliriyor.
+Orada yakındaki otoyolu görüyor
+Camelot'a doğru kıvrılıyor;
+Orada nehir girdabı dönüyor,
+Ve orada asık suratlı köy kabadayıları,
+Ve pazarcı kızlarının kırmızı pelerinleri,
+Shalott'tan ileriye geçiyor.
+
+Bazen bir grup genç kız sevinçli,
+Gezici bir yaylada bir başrahip,
+Bazen kıvırcık saçlı bir çoban çocuğu,
+Ya da kızıl giysili uzun saçlı bir uşak,
+Kuleli Camelot'a doğru gidiyor;
+Ve bazen mavi aynadan
+Şövalyeler ikişer ikişer geliyor;
+Onun sadık ve gerçek bir şövalyesi yok,
+Shalott'un Hanımı.
+
+Ama ağında hala zevk alıyor
+Aynanın büyülü görüntülerini örmek için,
+Çünkü sık sık sessiz gecelerde
+Bir cenaze, tüyler ve ışıklarla,
+Ve müzikle, Camelot'a gitti:
+Ya da ay tepedeyken,
+Geçenlerde evlenen iki genç aşık geldi:
+"Gölgelerden yarı bıktım" dedi
+Shalott'un Hanımı.
+
+BÖLÜM III.
+
+Çardak saçaklarından bir yay atışı,
+Arpa demetlerinin arasından at sürdü,
+Güneş yaprakların arasından göz kamaştırıcı bir şekilde geldi,
+Ve cesur Sir Lancelot'un tunçtan greaves'lerine alev saçtı.
+Sonsuza dek diz çöken bir kızıl haçlı şövalye,
+Kalkanındaki bir hanıma,
+Sarı alanda parıldayan,
+Uzak Shalott'un yanında.
+
+Mücevherli dizginler özgürce parladı,
+Altın Galaksi'de asılı duran gördüğümüz bir yıldız dalına benzer şekilde. Dizgin çanları neşeyle çaldı
+Camelot'a doğru at sırtında giderken;
+Ve arması kel askılı
+Kudretli bir gümüş boru sarkıyordu
+Ve zırhını sürerken çınladı,
+Uzaktaki Shalott'un yanında.
+
+Hepsi mavi bulutsuz havada
+Eyer derisi kalın mücevherlerle parlıyordu.
+Miğfer ve miğfer tüyü
+Birlikte yanan tek bir alev gibi yanıyordu,
+Camelot'a doğru at sırtında giderken;
+Mor gecede sık sık olduğu gibi,
+Parlak yıldız kümelerinin altında,
+Sakallı bir meteor, ışık saçarak,
+Hala Shalott'un üzerinden geçiyor.
+
+Güneş ışığında geniş, berrak alnı parlıyordu;
+Cilalı toynaklarının üzerinde savaş atı yürüyordu;
+Miğferinin altından akıyordu
+Kömür karası bukleleri,
+Camelot'a doğru at sırtında giderken. Kıyıdan ve nehirden
+Kristal aynaya parladı,
+Nehir kenarındaki "Tirra lirra"
+Sang Sir Lancelot.
+
+Ağdan ayrıldı, dokuma tezgahından ayrıldı,
+Odada üç adım attı,
+Nilüferin çiçek açtığını gördü,
+Miğferi ve tüyü gördü,
+Aşağı Camelot'a baktı.
+Ağ dışarı fırladı ve genişçe yüzdü;
+Ayna bir yandan diğer yana çatladı;
+"Lanet üzerime geldi," diye haykırdı
+Shalott'un Hanımı.
+
+KISIM IV.
+
+Fırtınalı doğu rüzgarında,
+Soluk sarı ormanlar azalıyor,
+Kıyılarındaki geniş akarsu şikayet ediyor,
+Alçak gökyüzü şiddetli bir şekilde yağmur yağıyor
+Kuleli Camelot'un üzerine;
+Aşağı indi ve bir tekne buldu
+Yüzer halde bırakılmış bir söğüdün altında,
+Ve pruvanın etrafına yazdı
+Shalott'un Hanımı.
+
+Ve nehrin loş genişliğinden aşağı
+Bir trans halindeki cesur bir kahin gibi,
+Bütün talihsizliklerini görerek--
+Cam gibi bir yüzle
+Camelot'a baktı.
+Ve günün sonunda
+Zincirini çözdü ve yere uzandı;
+Geniş dere onu çok uzağa taşıdı,
+Shalott'un Hanımı.
+
+Yatarken, kar beyazı cübbesiyle
+Sola ve sağa gevşekçe uçan--
+Düşen ışığının üzerindeki yapraklar--
+Gecenin gürültüleri arasında
+Camelot'a doğru süzüldü;
+Ve tekne başı kıvrılırken
+Söğütlü tepeler ve tarlalar arasında,
+Son şarkısını söylediğini duydular,
+Shalott'un Hanımı.
+
+Bir ilahi duydular, hüzünlü, kutsal,
+Yüksek sesle, alçak sesle söyledi,
+Kanını yavaşça dondurana kadar,
+Ve gözleri tamamen kararana kadar,
+Kuleli Camelot'a döndü. Çünkü gelgite ulaşmadan önce
+Su kenarındaki ilk eve,
+Şarkısını söyleyerek öldü.
+Shalott'un Hanımı.
+
+Kule ve balkonun altında,
+Bahçe duvarı ve galerinin yanında,
+Parıldayan bir şekille yüzdü,
+Yüksek evlerin arasında soluk soluk,
+Sessizce Camelot'a.
+Rıhtımlara geldiler,
+Şövalye ve kasabalı, lord ve hanım,
+Ve pruvada onun adını okudular
+_Shalott'un Hanımı_.
+
+Bu kim? Ve burada ne var?
+Ve yakınlardaki aydınlık sarayda
+Kraliyet neşesinin sesi öldü;
+Ve korkudan haç çıkardılar,
+Camelot'taki tüm şövalyeler:
+Ama Lancelot biraz düşündü;
+"Güzel bir yüzü var;
+Tanrı merhametiyle ona lütufta bulunsun,
+Shalott'un Hanımı." dedi.
+
+ALFRED, LORD TENNYSON.
+
+* * * * *
+
+EĞER ZAMANIM OLSA.
+
+Bir yer bulmaya zamanım olsaydı
+Ve tam yüz yüze otursam
+Daha iyi benliğimle, bu gösterilemez
+Bu kadar aceleci olan günlük hayatımda:
+O zaman belki ruhumu
+Parlayan hedefe doğru tökezlerken görürdüm,
+Yüce düşünce beni tedirgin edebilirdi,--
+Eğer zamanım olsaydı!
+
+Kalbimin konuşmasına ve hayatımın bir kısmını içine almasına izin verecek zamanım olsaydı
+Etrafıma bakmak ve bir el uzatmak için
+Şanssız topraklarda karargâh kurmuş bir yoldaşa;
+Ah, Tanrım! Sadece öylece oturabilsem
+Ve kırlangıç-sözü notasını duyabilsem,
+Sanırım Tanrı'nınkiyle dileğim uyak olurdu--
+Eğer zamanım olsaydı!
+
+Senden öğrenecek zamanım olsaydı
+Sözlerimin ne kadar rahatlatıcı olabileceğini;
+Ve sana o zaman aniden gelen isteğimden bahsetmiştim
+Sana kötülük ettiğimde ayaklarını öpmek için;
+Eğer soğukluğun ardındaki gözyaşları sahte olsaydı
+Akabilseydi ve yanlış tam olarak açıklanabilseydi,--
+Kardeşlerim, hepimizin ruhları şakırdı,
+Eğer zamanımız olsaydı!
+
+RICHARD BURTON.
+
+* * * * *
+
+KRAL IV. HENRY'DEN BİR SAHNE.
+"FALSTAFF'IN ERLERİ."
+
+_Giriş_. --Sir John Falstaff, Kral'ın savaşlarında savaşmak üzere bir asker bölüğü yetiştirmek için Kral'dan bir görev almıştır. Kendisine hizmet etmek yerine yüklü miktarda para ödeyeceklerini bildiği bir dizi zengin çiftçiyi askere aldıktan sonra, paralarını cebine indirir ve bölüğünün parasını geçtiği ülkenin ayaktakımından toplar.
+
+Sahne, Yargıç Shallow'un evinin önündeki bir köy meydanıdır. Yargıç, Sir John'dan kendisini ziyaret etmek üzere olduğunu ve köylülerden birkaçını bir araya getirmesini ister.
+
+Bu köylüler şimdi meydanda toplanmışlardır ve Yargıç Shallow da yakınlarda durmaktadır.
+
+Sir John Falstaff'ın onbaşısı Bardolph içeri girer ve Yargıç Shallow'a hitap eder.
+
+_Bardolph_.--Günaydın, dürüst beyler. Size yalvarıyorum, hangisi Yargıç Shallow?
+
+_Shallow_.--Ben Robert Shallow, efendim; bu bölgenin zavallı bir uşağıyım,
+ve Kral'ın sulh yargıçlarından biriyim. Benimle ilgili
+neyi beğeniyorsunuz?
+
+_Bardolph_.--Kaptanım, efendim, onu size tavsiye ediyor; kaptanım, Sir
+John Falstaff, Tanrı aşkına, uzun boylu bir beyefendi ve çok yiğit bir lider.
+
+_Shallow_.--Beni iyi karşıladı, efendim. Onu iyi bir kılıç ustası olarak tanıyordum.
+İyi Şövalye şimdi nasıl? Bakın! İşte iyi Sir John geliyor. _(Falstaff_ girer.) Bana iyi elinizi verin, bana maiyetinin iyi elini verin.
+Sözümü tutun, iyi görünüyorsunuz ve yıllarınızı çok iyi geçiriyorsunuz; hoş geldiniz, iyi Sir
+John.
+
+_Falstaff_.--Sizi iyi gördüğüme sevindim, iyi Efendi Robert Shallow.
+Aman, hava çok sıcak, beyler. Bana yarım düzine yeterli adam sağladın mı?
+
+_Shallow_.--Evlendik mi efendim.
+
+_Falstaff_.--Onları görmeme izin ver, yalvarıyorum.
+
+_Shallow_.--Rulo nerede? Rulo nerede? Rulo nerede?
+Bakayım, bakayım, bakayım. Öyleyse, öyleyse, öyleyse, öyleyse, öyleyse, öyleyse; evet, evlen
+efendim.--Ralph Mouldy! Dediğim gibi görünsünler; öyle olsunlar, öyle olsunlar. Bir bakayım; Mouldy nerede?
+
+_Mouldy_.--Burada, seni memnun etmem.
+
+_Shallow_.--Ne düşünüyorsun, Sir John? İyi uzuvlu bir adam: genç,
+güçlü ve iyi dostlardan.
+
+_Falstaff_.--Adın Mouldy mi?
+
+_Küflü_.--Evet, seni memnun etmiyor.
+
+_Falstaff_.--Daha çok zaman harcadığın için.
+
+_Sığ_.--Ha, ha, ha! İnanıyorum ki en mükemmel! Küflü olan şeyler
+kullanımdan yoksundur; çok eşsiz bir şekilde iyidir! Güzel söyledin, Sir John, çok güzel söyledin.
+Onu deleyim mi, Sir John?
+
+_Falstaff_.--Evet, del.
+
+_Küflü_.--Daha önce yeterince deldim ve beni rahat bırakabilirdin; yaşlı kadınım şimdi birinin onun çiftçiliğini ve angaryasını yapması için mahvolacak; beni delmiş olmana gerek yoktu; dışarı çıkmaya benden daha uygun başka adamlar var.
+
+_Sığ_.--Sakin ol, dostum, sakin ol! Kenara çekil; nerede olduğunu biliyor musun? Bir sonraki için, Sir John; bir bakayım.--Simon Shadow?
+
+_Falstaff_.--Evet, evlen, altına oturmasına izin ver. Soğuk bir asker gibi
+gibi.
+
+_Sığ_.--Gölge nerede?
+
+_Gölge_.--Burada, efendim.
+
+_Falstaff_.--Gölge, kimin oğlusun sen?
+
+_Gölge_.--Annemin oğlu, efendim.
+
+_Falstaff_.--Annenin oğlu! Yeterince ve babanın gölgesi.
+Onu del. Gölge yaz boyunca işe yarayacak.
+
+_Sığ_.--Thomas Wart!
+
+_Falstaff_.--Nerede?
+
+_Siğil_.--Burada, efendim!
+
+_Falstaff_.--Adın Wart mı?
+
+_Siğil_.--Evet, efendim.
+
+_Falstaff_.--Sen çok pürüzlü bir siğilsin.
+
+_Sığ_.--Ha, ha, ha! Onu deleyim mi, Sir John?
+
+_Falstaff_.--Gereksiz olurdu; çünkü giysileri sırtına
+yapılı ve tüm vücudu iğneler üzerinde duruyor; onu daha fazla delmeyin.
+
+_Sığ_.--Ha, ha, ha! Bunu başarabilirsiniz, efendim; bunu başarabilirsiniz; sizi takdir ediyorum.--Francis Zayıf.
+
+_Zayıf_.--Buraya, efendim.
+
+_Falstaff_.--Ne iş yapıyorsun, Zayıf?
+
+_Zayıf_.--Ben bir kadın terzisiyim, efendim.
+
+_Falstaff_.--İyi kadın terzisi, bir düşman savaşında
+bir kadının eteğine açtığın kadar delik açacak mısın?
+
+_Zayıf_.--İyi niyetimi yapacağım, efendim; daha fazlasına sahip olamazsın.
+
+_Falstaff_.--İyi söyledin, iyi kadın terzisi! İyi söyledin, cesur
+Zayıf! Öfkeli güvercin veya en yüce gönüllü
+fare kadar yiğit olacaksın. Kadının terzisini iyi del, Efendim Shallow; derin, Efendim
+Shallow.
+
+_Feeble_.--Ben de Wart'ın gitmesini isterdim, efendim.
+
+_Falstaff_.--Keşke bir adamın terzisi olsaydın da onu onarıp
+gitmeye hazır hale getirseydin. Bu yeterli olsun, en güçlü Zayıf.
+
+_Feeble_.--Yeterli olacak, efendim.
+
+_Falstaff_.--Sana bağlıyım, saygıdeğer Zayıf. Sırada kim var?
+
+_Shallow_.--Peter Bullcalf, yeşil.
+
+_Falstaff_.--Evet, evlen, Bullcalf'ı görelim.
+
+_Bullcalf_.--Buraya, efendim.
+
+_Falstaff_.--Tanrı aşkına, iyi bir adam! Gel, beni Bullcalf'a
+tekrar kükreyene kadar del.
+
+_Bullcalf_.--Aman Tanrım! İyi efendim kaptanım,--
+
+_Falstaff_.--Ne, deldirilmeden önce mi kükredin?
+
+_Bullcalf_.--Aman Tanrım, efendim! Ben hasta bir adamım.
+
+_Falstaff_.--Ne hastalığın var?
+
+_Bullcalf_.--Korkunç bir soğuk algınlığı, efendim, bir öksürük, efendim.
+
+_Falstaff_.--Gel, savaşlara bir elbiseyle gideceksin. Soğuk algınlığını
+gideceğiz. Hepsi burada mı?
+
+_Shallow_.--Burada senden iki kişi daha var. Burada sadece dört kişi olmalı, efendim; ve bu yüzden, rica ediyorum, benimle yemeğe gel.
+
+_Falstaff_.--Gel, seninle içmeye gideyim.
+
+(_Sir John ve Yargıç Shallow çıkar.)
+
+_Bullcalf_.--(_Bardolph'a yaklaşıyor_.) İyi Üstat Şirket
+Bardolph, ayağa kalk dostum; işte sana Fransız kronu olarak dört Harry on şilin.
+Gerçekten efendim, asılmaktansa gitmek isterim;
+ama yine de kendi adıma, efendim, umursamıyorum; ama daha çok
+isteksiz olduğum ve kendi adıma arkadaşlarımla kalmak istediğim için;
+yoksa efendim, kendi adıma, bu kadar umursamazdım.
+
+_Bardolph_.--(_Parayı cebime atıyor_.) Git; kenara çekil.
+
+_Zayıf_.--Valla umursamıyorum.
+
+WILLIAM SHAKESPEARE.
+
+* * * * *
+
+DAVID COPPERFIELD'DAN BİR SAHNE.
+
+BAY VE BAYAN MICAWBER'IN EVİNDE.
+
+_Giriş_.--Sahne Bay ve Bayan Micawber'ın evinde açılıyor. Bay Micawber şu anda, kendi deyimiyle, "Geçici bir parasal yükümlülük baskısı" altında acı çekiyor ve
+bir şeyler bulmak için dışarıda.
+
+Bayan Micawber evde ikizlerle ilgileniyor, birini kucağında tutuyor, diğeri yakındaki beşikte ve çocukların birçoğu yere dağılmış durumda.
+
+Bayan Micawber sabah boyunca alacaklıların
+araması yüzünden rahatsız oldu;--sonunda bebeği kucağında gezdirirken haykırdı:--
+
+(_Bayan Micawber_.) Acaba daha kaç kez arayacaklar! Ancak, bu onların suçu. Bay Micawber'ın alacaklıları ona zaman vermezse, sonuçlarına katlanmak zorundalar. Ah! Kapıyı çalan biri var! Sanırım Bay Heep'in kapıyı çaldığını düşünüyorum. Bay Heep _o_! İçeri gelin, Bay Heep. Sizi gördüğümüze çok sevindik. Hemen içeri gelin.
+
+_Heep_.--Bay Micawber içeride mi?
+
+_Bayan Mic_.--Hayır, Bay Heep. Bay Micawber dışarı çıktı. Sizi yabancılaştırmıyoruz, Bay Heep, bu yüzden Bay Micawber'ın işlerinin bir krize girdiğini söylemekten çekinmiyorum. Genç bir ailenin ihtiyaçlarına uygun olmayan bir Hollanda peyniri topuğu hariç--ve ikizler de dahil olmak üzere--evde yiyecek hiçbir şey yok.
+
+_Heep_.--Ne kadar korkunç! (_Aside_.) Tam da benim amacım için adam.
+(_Açıklama_. Tam bu sırada inişte bir ses duyulur.
+Micawber odaya dalıp kapıyı arkasından çarpar.)
+
+_Micawber_.--(_Heep'i görmeden_.) Bulutlar toplandı, fırtına
+kırıldı ve Wilkins Micawber'ın sadık
+başına yıldırım düştü! Emma, ​​canım, zar atıldı. Her şey bitti. Beni
+sefaletimle baş başa bırak!
+
+_Bayan Mic_.--Micawber'ımı asla terk etmeyeceğim!
+
+_Mic_.--Ölümsüz Platon'un sözleriyle, "Öyle olmalı, Cato!"
+
+Ama cesaret ve tıraş malzemelerine sahip olduğunda hiçbir adam arkadaşsız kalmaz! Emma, ​​aşkım, bana tıraş bıçaklarımı getir! (_Kendini toparlar_)
+Şşş! Yalnız değiliz! (_Neşeyle_) Ah, Bay Heep! Seni
+gördüğüme sevindim, genç dostum! Ah, sevgili genç başsavcım, gelecekte,
+eğer seni sorunlarım başladığında tanısaydım, alacaklılarım
+şimdikinden çok daha iyi yönetilirdi!
+Yakın zamanda bir hukuk adamıyla çarpışması sonucu hassaslaşan yaralı bir ruhun anlık
+yarılmasını mazur görün, kısacası, su tesisatına bağlı
+bir küstahça
+bir muslukla. Emma, ​​aşkım, su kaynağımız
+kesildi. Umut ufukta kayboldu! Bana bir pint afyon getirin!
+
+_Heep_.--Bay Micawber, bana borcunuzun miktarını
+söylemeye gönüllü olur musunuz?
+
+_Mic_.--Bu sadece küçük bir besin meselesi, sığır eti, koyun eti, vb.,
+bir önemsiz şey, yedi ve altı peni ha'penny.
+
+_Heep_.--Ben öderim.
+
+_Mic_.--Sevgili dostum! Beni yükümlülükle alt ediyorsun! Memuru içeri alayım mı? (_Döner ve kapıya gider, açar_.)
+Myrmidon girer! Şapkalar çıkar, ödeme gücü olan bir borçlu ve bir hanımın huzurunda.
+(_Heeps memura ödeme yapar ve onu kovar_.)
+
+_Heep_.--Şimdi, Bay Micawber, sanırım bana bu miktar için
+senetinizi vermeye itirazınız yoktur.
+
+_Mic_.--Kesinlikle hayır. Yirmi şilinden başlayarak her türlü kıymetli evraka adımı yazmaya her zaman hazırım. Affedersiniz,
+Heep, ben yazarım. (_Bunu bir notun veya kitabın sayfasına yazma hareketi yapar. Yırtar ve Heep'e verir_.) Sanırım bu normal vadede yenilenebilir?
+
+_Heep_.--Daha iyi. Sen halledebilirsin. Sana ortağımın ofisinde -Wickfield ve Heep firmasında-
+katip pozisyonunu teklif etmeye geldim.
+
+_Mic_.--Ne! Bir katip! Emma, ​​sevgilim,
+en sonunda bir şeylerin ortaya çıktığını söylemekte tereddüt etmeyeceğimi düşünüyorum!
+
+_Heep_.--Affedersiniz Bayan Micawber, ama kocanızla
+özel olarak birkaç kelime konuşmak istiyorum.
+
+_Bayan Mic_.--Elbette! Wilkins, sevgilim, devam et ve başarılı ol!
+
+_Mic_.--Canım, bunu sınırsız bir şekilde yapmaya çalışacağım! Ah, güneş tekrar doğdu--bulutlar geçti--gökyüzü açık ve
+kasapta yirmi tane daha başlayabilir.--Heep, önüme geç. Emma, ​​aşkım. _Au Revoir_.
+
+(_Mrs. Micawber'a cesurca bir reverans_.)
+
+* * * * *
+
+DAVID COPPERFIELD'DAN BİR SAHNE.
+
+KARAKTERLER.
+
+YAŞLI BALIKÇI PEGGOTTY,
+
+HAM PEGGOTTY,
+
+DAVID COPPERFIELD.
+
+_Giriş_.--Sahne "Eski Gemi"nin içidir; zaman
+akşamdır. Dışarıda yağmur yağmaktadır, ancak eski geminin içi
+sıcacık ve rahattır. Ocakta ateş parlak bir şekilde yanmaktadır ve
+Anne Gummidge onun yanında oturup örgü örmektedir. Ham, küçük Em'ly'yi işinden eve getirmek için dışarı çıktı ve yaşlı balıkçı, pencerenin yanındaki masada akşam piposunu
+tüttürüyor. Steerforth ve Copperfield'ın akşamı geçirmek üzere gelmesini bekliyorlar. Tam o sırada bir vuruş sesi duyuluyor ve David içeri giriyor. Yaşlı Peggotty onu karşılamak için ayağa kalkıyor.
+
+_Yaşlı Peg_.--Neden! Bay Davy mi? Sizi gördüğüme sevindim, Bay Davy, siz
+ilk gelensiniz! Eğer ıslaksa o pelerinini çıkarın ve
+ateşe doğru çekilin. Mawther Gummidge'i aldırmayın, Bay Davy; o yaşlıyı düşünüyor. Fırtına yaklaşırken, denizde boğulduğunu
+düşündüğünde, o hep yaşlıyı düşünüyor.
+Şimdi, geleneklere göre gidip bir sigara yakmalıyım. (_Bir mum yakıp pencerenin yanındaki masaya koyar_.) İşte buradayız! İşte buradayız! Geleneğe göre yakılmışız. Şimdi, Bay Davy, o küçük mumun ne için olduğunu merak ediyorsun, değil mi? Pekala, sana söyleyeyim. Küçük Em'ly'im için. Görüyorsun ya, yol aydınlık ya da neşeli ana arter karanlık değil, bu yüzden ben evde olduğumda, Küçük Em'ly işinden
+eve geldiğinde, ben her zaman küçük mumu yakar ve onu
+sarma makinesindeki masanın üzerine koyarım ve iki amaca hizmet eder, birincisi, Em'ly görür ve der ki: "Theer evde," ve aynı şekilde, "Theer'in amcası," çünkü ben burada olmazsam
+hiçbir zaman ışık yanmaz. Theer! Şimdi bana gülüyorsun, Bay Davy! Bebeğim gibi bir şey söylüyorsun. Aslında bilmiyorum ama bebeğim.
+(_Masaya doğru yürür_. ) Bakılacak bir bebek değil, ama üzerinde düşünülecek bir bebek. Deniz Domuz Çamı biçiminde bir bebek.
+
+Mumun parıldadığını gör! "Em'ly bana bakıyor! Küçük Em'ly geliyor!" dediğini duyabiliyorum. Haklıyım çünkü o burada! (_Onu karşılamak için kapıya gider; kapı açılır ve Ham sendeleyerek içeri girer_.)
+
+_Ham_.--Gitti! Öldüğüm ve şimdi bile öleceğim o! Gitti!
+
+_Peggotty_.--Gitti!!
+
+_Ham_.--Gitti! Kaçtı! Ve iyi ve merhametli Tanrıma onu ölüme mahkûm etmesi için dua ettiğimde, onu rezil ve utanç içinde bırakmaktansa
+nasıl kaçtığını düşünün.
+
+_Peggotty_.--Em'ly gitti! İnanmayacağım. Kanıtım olmalı--kanıtım.
+
+_Ham_.--O yazıyı oku.
+
+_Peggotty_.--Hayır! O yazıyı okumayacağım--sen oku, Bay Davy.
+Yavaş ol lütfen. Anlayabildiğim kadar bilmiyorum.
+
+_David_.--(_Okur_) "Bunu gördüğünde ben çok uzakta olacağım."
+
+_Peggotty_.--Dur, Bay Davy! Dur! Uzaklaş! Küçük
+Em'ly'm uzaklaş! Ee?
+
+_David_.--(_Okur_) "Bana bir hanım
+getirmediği sürece asla geri
+dönmeyeceğim. Hatırlamıyorum, Ham, evleneceğimizi ama
+sanki uzun zaman önce ölmüşüm ve bir yerlere
+gömülmüşüm gibi düşünmeye çalış. Amcam için
+son aşkım ve son gözyaşlarım."
+
+_Peggotty_.--Adam kim? Adı ne? Adamın adını bilmek istiyorum.
+
+_Ham_.--Bilmem senin suçun değil, Bay Davy.
+
+_Peggotty_.--Ne! Adının Steerforth olduğunu mu kastediyorsun?
+
+_Ham_.--Evet! Adı Steerforth ve o lanetli bir kötü adam!
+
+_Peggotty_.--Ceket nerede? Ceketimi ver! Bana yardım et,
+Bay Davy. Şimdi şapkamı tutup elini uzat.
+
+_David_.--Nereye gidiyorsun, Bay Peggotty?
+
+_Peggotty_.--Küçük Em'ly'mi aramaya gidiyorum. İlk olarak,
+o tekneyi batırıp onu boğduğum yere batıracağım, çünkü
+ben yaşayan bir ruhum; eğer onda ne olduğunu bilseydim! Onu boğmuş olurdum,
+ve doğru yaptığımı düşünürdüm! Şimdi Küçük Em'ly'mi
+geniş wurrety boyunca arayacağım!
+
+* * * * *
+
+SHAUGHRAUN'DAN BİR SAHNE.
+
+_Giriş_.--Bu sahne şu karakterleri tanıtıyor:--Conn, Shaughraun, pervasız, umursamaz,
+gerçek kalpli genç bir serseri, sürekli bir arkadaşına yardım etme arzusu ve eğlence sevgisi yüzünden sıkıntıda; annesi Bayan O'Kelly; sevgilisi, Moya Dolan, mahalle rahibinin yeğeni.
+
+Akşam vakti. Moya mutfakta yalnız. Tam çaydanlığı ateşe koymuştu ki, Bayan O'Kelly, Conn'un annesi içeri girdi.
+
+_Bayan O'K_.--Sen misin, Moya? O serserinin buralarda olup olmadığını görmeye geldim.
+
+_Moya_.--Neden burada olsun, Bayan O'Kelly? Kendine ait bir evi yok mu?
+
+_Bayan O'K_.--Hapiste olmadığı zamanlar evi Shebeen'dir.
+Babası içkiden öldü ve Conn da aynı şekilde gidecek.
+
+_Moya_.--Kocanızın denizde boğulduğunu sanıyordum?
+
+_Bayan O'K_.--Ve Tanrı onu korusun, öyle de oldu.
+
+_Moya_.--Eh, içkiden ölmenin tam bir yolu bu.
+
+_Bayan O'K_.--Ayıkken en iyi adamdı--bir beter
+asla hayat nefesi almadı.
+
+_Moya_.--Ama sen hiç ayık olmadığını söylüyorsun.
+
+_Bayan O'K_.--Niver! Ve Conn da ona benziyor!
+
+_Moya_.--Anne, korkarım ki ben de Conn'a benzeyeceğim.
+
+_Bayan O'K_.--Tanrı korusun ve seni ona karşı savunacağım! Sen iyi ve namuslu bir kızsın ve en iyi kocaları hak ediyorsun.
+
+_Moya_.--En kötüsünü sadece onlar yaşıyor. Daha da önemlisi,
+sizin için, Bayan O'Kelly.
+
+_Bayan O'K_.--Conn hayatında hiç dürüst bir günlük iş yapmadı--ama
+içki içmek, balık tutmak, atıcılık yapmak, spor yapmak ve sevişmek.
+
+_Moya_.--Elbette, kaliteli insanlar hayatlarını böyle geçiriyorlar.
+
+_Bayan O'K_.--İşte bu. Bir zencinin tenine sahip olan
+fakir bir adama serseri denir.
+
+(_Bu anda Conn kapıda belirir_.)
+
+_Conn_.--(_Solda_.) Biri benden bahsediyor! Ah, Moya,
+Canım, buraya gel. (_Sanki ellerini Moya'ya uzatmış gibi,
+onu karşılamak için öne çıkıyor ve onu soluna geçiriyor, böylece
+soldaki Moya ile sağdaki Bayan O'Kelly'nin ortasında duruyormuş gibi görünüyor_. )
+Yaşlı Anne beni küçümsemeye mi çalışıyordu? Ondan çıkan tek bir kelimeye bile inanmıyorsun! Beni kıskanıyor. (_Annesine parmağını sallarken gülüyor_.) Evet, öylesin! Şu anda boğuluyorsun! Ah, sevgilim, kollarımı etrafında görmekten kıskanıyor. Ama
+benimle gurur duyuyor. Ah, tavuk yerine ördek kullanan yaşlı bir adam olarak benimle gurur duyuyor. Şimdi ıslık çal Anne! Ağzını sil ve bana bir öpücük ver.
+
+_Bayan O'K_.--Ah, Conn, daha sonra ne yaptın? Bugün kulübede senin hakkında anketler yapıldı. Squire Foley'in atını çaldığını söylüyorlar.
+
+_Conn_.--Atını çaldın! Elbette ki bu anda
+otlakta güvende ve sağlam.
+
+_Bayan O'K_.--Ama onu avlanmak için gün boyu çaldığını söylüyor?
+
+_Conn_.--Bu güzel bir şey, bir atın böyle bir adam karakteriyle
+kaçması! Ah, Wurra! Umarım günah içinde asla ölmem, ama bu
+işin yolu buydu. Baykuş Foley'in kapısının yanında duruyordum, tazıların bataklığın kuyruğundan geldiğini duydum ve orada duruyorlardı,
+canım, bir maaşlı horozun kuyruğu gibi yayılmışlardı ve şimdiye kadar gördüğün en iyi köpek tilkisi, önünden geçerek
+çadıra ve kilise avlusunun tam karşısına doğru yelken açıyordu.
+Bu, sakinleri yerden kaldırmaya yetiyordu! Peki, baktığımda, kim gelip başını kapının üzerinden bana doğru uzatabilirdi ki, Squire'ın kahverengi kısrağı, onun için küçük bir suç. Ona tek bir kelime söylemedim, o da bana, çünkü tazılar kokularını kaybetmişti, mezar taşları arasında avlanırken çıkardıkları havlamalardan ve inlemelerden anlamıştık. Tilki yanımızdan geçtiğinde, kapıya atladım ve kırbaca bir bakış-merhaba çığlığı attım; bir dakika içinde sürü tekrar kokuyu aldı ve tüm tarla kükreyerek geçti. Kısrak başını tamamen kaybetti ve kapıya doğru koştu. "Dur," dedim, "ey divil!" ve bir ipin tadına bakarak başının üzerinden ağzına kadar kaydırdım. Şimdi, süvarinin kurnazlığına dikkat edin, bir dakika içinde sessizleşti. "Hadi eve gel," dedim. "Aisy!" ve bacağımı onun üzerinden attım.
+
+Saçmalama! Sırtına biner binmez--Vay canına! Vay canına! Kapının
+üzerine geldi ve deli gibi
+avcıların peşinden koştu. "Yoicks!" dedim;
+"Dünyadan geri dön, beni nereye götürüyorsun?" beni av alanından
+taşıyıp tazıların efendisi Squire Foley'in yanına indirdiğinde.
+
+Deri pantolonunun rengini değiştirdi.
+
+"Musa Ana!" dedi, "Kahverengi kısrağımdaki Conn, Shaughraun mu?"
+
+"Bana kötü şans!" dedim, "Başka kimse değil!"
+
+"Atımı çaldın," dedi Squire.
+
+"Bu bir yalan!" dedim, "çünkü beni çalan senin atındı!"
+
+_Moya_.--(_Gülüyor_.) Peki Conn buna ne dedi?
+
+_Conn_.--Dinlemeye dayanamadım, Moya, çünkü tam o sırada birlikte bir taş duvar
+yaptık ve onu hendekte bıraktım.
+
+_Bayan O'K_.--Bunun için bir ay hapis yatacaksın.
+
+_Conn_.--Eh, değdi.
+
+BOUCICAULT.
+
+Leland Powers'ın Project Gutenberg E-Kitabının Uygulama Kitabı'nın Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PRACTICE BOOK ***
+
+***** This file should be named 10491.txt or 10491.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/0/4/9/10491/
+
+Produced by Afra Ullah, Leonard D Johnson and PG Distributed Proofreaders
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     https://www.gutenberg.org/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     https://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     https://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     https://www.gutenberg.org/GUTINDEX.ALL
+
+
