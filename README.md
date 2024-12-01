@@ -12,6 +12,9 @@ Herhangi bir aşamada, arşivimizde yer alan, ancak telif hakkıyla korunduğunu
 
 Lütfen projemizi destekleyin.
 
+(Özel işlerim nedeniyle projeyle bir süreliğine ilgilenemeyebilirim.
+Lütfen mazur görün.)
+
 ## Open Source Turkish Documents Archive
 
 Within the scope of this project, we will compile Turkish documents that are copyright-free and have been audited.
