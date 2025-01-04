@@ -1,0 +1,1234 @@
+*** START OF AKTAHEADER ***
+Başlık: Craphound (Crapound'un)
+Yazar: Cory Doctorow
+Yayın Tarihi: November 20, 2005 [EBook #17026]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/17026
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: edebiyat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Craphound, by Cory Doctorow
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+
+
+
+
+Title: Craphound
+
+Author: Cory Doctorow
+
+Release Date: November 20, 2005 [EBook #17026]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CRAPHOUND ***
+
+*** START OF TURKISH PART ***
+Telif Hakkı (C) 1998 Cory Doctorow
+
+Craphound
+
+Cory Doctorow
+
+"A Place So Foreign and Eight More" adlı kısa öykü koleksiyonundan, Four Walls Eight Windows Press (ISBN 1568582862) tarafından Eylül 2003'te yayınlanmıştır. Daha fazla bilgi için bkz.
+http://craphound.com/place.
+
+İlk olarak Science Fiction Age'de yayınlandı, Mart 1998
+
+Yeniden basıldı:
+
+* Northern Suns
+(Tor, 1999, David Hartwell ve Glenn Grant, editörler)
+
+* Yılın En İyi Bilimkurgu XVI
+(Morrow, 1999, Gardner Dozois, editör)
+
+* Hayakawa Science Fiction Magazine (Japonya)
+Eylül 2001
+
+"İnsan toplumuyla kaynaşan uzaylıların çoğu hikayesi gibi, Doctorow'un hikayesi de
+çoğunlukla insan doğasına bir ayna tutmaya yarıyor, ancak incelediği insan doğasının tuhaf köşesi
+büyüleyici ve hikaye akıcı ve uzmanca yazılmış, bazı iyi ayrıntılar ve yerel renkler ve insan doğası ve insan kültürü hakkında bazı zekice içgörüler ve neredeyse Bradburyvari zengin bir nostalji damarı var
+(ancak nostalji o kadar tuhaf ki belki de R.A. Lafferty veya Terry Bisson'dan Bradbury'ye)."
+
+- Gardner Dozois
+Editör, Asimov's Science Fiction Magazine
+
+--
+
+Tanıtım yazıları ve alıntılar:
+
+* Cory Doctorow madenci kaskını takıyor ve sizi Pop Kültürünün
+mağaralarına ve yeraltı nehirlerine götürüyor, burada SF renkli gözlüklerden süzülmüştür.
+
+- Neil Gaiman
+American Gods ve Sandman'in yazarı
+
+* Çok az yazar gerçeklik algımı Cory Doctorow kadar şaşırtıyor.
+Vizyonu o kadar uçsuz bucaksız ki, geri dönüş yolunu bulmak için GPS'inize ihtiyacınız olacak.
+
+- David Marusek
+Theodore Sturgeon Ödülü sahibi, Nebula Ödülü adayı
+
+* Cory Doctorow en iyi yeni yazarlarımızdan biri: akıllı, cesur, bilgili,
+eğlenceli, hırslı, bağlantıda ve önümüzde uzanan yirmi birinci yüzyılın kablolu dünyasına
+bulabileceğiniz kadar iyi bir rehber.
+
+- Gardner Dozois
+Editör, Asimov's SF
+
+* Parıldıyor! Köpürüyor! Geri taklalar atıyor ve mobilyaları kırıyor! Bilimkurguya Cory Doctorow lazım!
+
+- Bruce Sterling
+The Hacker Crackdown ve Distraction'ın yazarı
+
+* Cory Doctorow, gomi krallarının geekspeedfreak patlamasıyla, Pleasure Island'dan tuhaf şekil değiştiricilerle ve zıplayan otomobil caz parçalarıyla duyuları tarıyor. Eğer bu Kanada bilimkurgusuysa, bana daha fazlasını verin.
+
+- Nalo Hopkinson
+Midnight Robber ve Brown Girl in the Ring'in yazarı
+
+* Cory Doctorow bilimkurgu edebiyatının geleceğidir. Greg Bear, Rudy Rucker, Bruce Sterling ve Groucho Marx'ın en iyilerinin n'inci nesil melezi olan Doctorow, tekno müzik kadar BPM dolu, NEW SCIENTIST'in son sayısı kadar fikir zengini ve insanlığın kendini geliştirme çabaları kadar komik hikayeler besteliyor. Ütopik, içgörülü, bir şekilde aynı anda hem ironik hem de içten olan bu dokuz hikaye bazal metabolizmanızı yükseltecek, korteksinizi yeni ve etkili alt rutinlerle
+dolduracak ve genel olarak hayatınızı onlarla nasıl geçindiğinizi merak edeceğiniz noktaya kadar iyileştirecek. Gerçekten, bu kitabı sindirmek için bir
+reçeteye ihtiyacınız olmalı. Yaşamın ve toplumumuzun bize verdiği tüm o gösterişli saçmalıklar arasında, pislik avcısı Doctorow endüstriyel
+sınıfta bir sanat eseri yaratmayı başardı."
+
+- Paul Di Filippo
+Steampunk Üçlemesi'nin Yazarı
+
+* Gelecek kadar korkutucu ve iki kat daha komik. Bu eklektik ve elektrikli
+koleksiyonda Doctorow, yarını aydınlatmak için bugün kıvılcımlar çakıyor ve bu da SF'nin yapması gereken şey. Ve bunu ondan daha iyi yapan yok.
+
+- Terry Bisson
+Bears Discover Fire'ın Yazarı
+
+--
+
+Bu hikaye hakkında bir not
+
+Bu hikaye, Eylül 2003'te Four Walls Eight Windows Press tarafından yayınlanan "A Place So Foreign and Eight More" adlı koleksiyonumdan, ISBN 1568582862. Bu hikayeyi, beş hikayeyle birlikte, size, okuyucuya, telif hakkının normalde bana, yaratıcıya saklı tuttuğu bir dizi hak veren bir Creative Commons lisansı kapsamında yayınladım. Yakın zamanda "Down and Out in the Magic Kingdom" (http://craphound.com/down) adlı romanımın tüm metniyle aynı şeyi yaptım ve bu tam bir
+başarıydı. Yüz binlerce kişi kitabı indirdi -- iyi haber -- ve binlerce kişi kitabı satın aldı -- bu da iyi haber. Anlaşılan o ki, neredeyse herkesin söyleyebileceği gibi, kitapların ücretsiz elektronik versiyonlarını dağıtmak, daha fazla kağıt baskı satmanın ve aynı anda kitabı, aksi takdirde çalışmalarımla karşılaşmayacak olan okuyucuların eline ulaştırmanın harika bir yolu.
+
+İnternet çağında sanatçıların nasıl geçimini sağlayacaklarını hâlâ bilmiyorum, ancak bunu öğrenmenin yolunun temel bilim yapmak olduğuna ikna oldum: yani, bir şeyler yapmak ve sonucu gözlemlemek. Ben de burada bunu yapıyorum. Hatırlanması gereken şey, bir sanatçı olarak bana yapabileceğiniz en *kötü* şeyin eserlerimi okumamak -- karanlıkta kalmasına ve
+sonraki nesillerden kaybolmasına izin vermek olmasıdır. Büyüdüğüm kurgu eserlerin çoğu basımı tükenmiş durumda ve bu, kısa öyküler için iki kat daha geçerli. Kitabı satın alabilecek kişilere birkaç dolar kaybetmek,
+ücretsiz elektronik metinlerin bulunması dışında
+önemli bir sorun değil, en azından alakasız ve okunmamış olan dehşetle karşılaştırıldığında. Ve benim için şans eseri, metni ücretsiz olarak vermek bana
+kaybettiğimden daha fazla ödeyen müşteri kazandırıyor.
+
+Bu dosyanın kanonik versiyonunu şu adreste bulabilirsiniz
+http://craphound.com/place/download.php
+
+Bu dosyayı başka bir biçime dönüştürmek ve dağıtmak isterseniz, şu koşullar sağlandığı takdirde iznim var:
+
+* Dağıtım için ücret talep etmiyorsunuz
+
+* Bu bildirim, aşağıdaki lisans ve dosyanın sonundaki meta veriler dahil olmak üzere tüm metni olduğu gibi koruyorsunuz
+
+* "DRM" veya "kopya koruması" veya başka bir kullanım kısıtlaması
+şeklinin açık olduğu bir dosya biçimi kullanmıyorsunuz
+
+İsterseniz, http://craphound.com/place/000012.php adresine bir bağlantı göndererek sürümünüzün varlığını duyurabilirsiniz
+
+--
+
+İşte lisansın özeti:
+
+http://creativecommons.org/licenses/by-nd-nc/1.0
+
+Atıf. Lisans veren, başkalarının eseri kopyalamasına, dağıtmasına,
+görüntülemesine ve gerçekleştirmesine izin verir. Karşılığında, lisans sahipleri orijinal yazara kredi vermelidir.
+
+Türev Eser Yok. Lisans veren, başkalarının eserin yalnızca değiştirilmemiş kopyalarını kopyalamasına,
+dağıtmasına, görüntülemesine ve icra etmesine izin verir
+-- buna dayalı türev eserlere değil.
+
+Ticari Olmayan. Lisans veren, başkalarının eseri kopyalamasına,
+dağıtmasına,
+görüntülemesine ve icra etmesine izin verir. Karşılığında, lisans sahipleri eseri ticari amaçlarla kullanamaz -- lisans verenin iznini almadıkları sürece.
+
+Ve işte lisansın kendisi:
+
+http://creativecommons.org/licenses/by-nd-nc/1.0-legalcode
+
+ESER (AŞAĞIDA TANIMLANDIĞI GİBİ) BU CREATIVE COMMONS KAMU LİSANSI ("CCPL" VEYA "LİSANS") ŞARTLARI ALTINDA SAĞLANMIŞTIR. ESER, TELİF HAKKI VE/VEYA DİĞER UYGULANABİLİR YASALARLA KORUNMAKTADIR. BU LİSANS ALTINDA YETKİLİ OLMAYAN
+HERHANGİ BİR İŞ KULLANIMI YASAKTIR.
+
+BURADA SAĞLANAN İŞE İLİŞKİN HERHANGİ BİR HAK KULLANARAK, BU LİSANSIN ŞARTLARINI KABUL ETMİŞ VE ONLARA BAĞLI OLMAYI KABUL ETMİŞ OLUYORSUNUZ. LİSANS VEREN, BU ŞARTLARI VE KOŞULLARI KABUL ETTİĞİNİZİ DİKKATE ALARAK SİZE BURADA YER ALAN HAKLARI VERİR.
+
+1. Tanımlar
+
+a. "Toplu İş", bir periyodik sayı, antoloji veya ansiklopedi gibi, İşin tamamının değiştirilmemiş haliyle, kendi başlarına ayrı ve bağımsız işler oluşturan bir dizi başka katkıyla birlikte, toplu bir bütün halinde bir araya getirildiği bir iş anlamına gelir. Toplu İş oluşturan bir iş, bu Lisansın amaçları doğrultusunda Türev İş (aşağıda tanımlandığı şekilde) olarak kabul edilmeyecektir.
+
+B. "Türev Eser", Eser veya Eser ve diğer önceden var olan eserlere dayalı bir eser anlamına gelir, örneğin bir çeviri, müzik düzenlemesi, dramatizasyon, kurgulama, sinema versiyonu, ses kaydı, sanat reprodüksiyonu, kısaltma, yoğunlaştırma veya Eserin yeniden düzenlenebileceği, dönüştürülebileceği veya uyarlanabileceği başka bir form, ancak bir Toplu Eser oluşturan bir eser, bu Lisansın amacı doğrultusunda Türev Eser olarak kabul edilmeyecektir.
+
+c. "Lisans Veren", Eseri bu Lisansın şartları uyarınca sunan kişi veya kuruluş anlamına gelir.
+
+d. "Orijinal Yazar", Eseri yaratan kişi veya kuruluş anlamına gelir.
+
+e. "Eser", bu Lisansın şartları uyarınca sunulan telif hakkına tabi yazarlık eseri anlamına gelir.
+
+f. "Siz", bu Lisans kapsamındaki hakları kullanan ve daha önce Eserle ilgili olarak bu Lisansın şartlarını ihlal etmemiş veya daha önceki bir ihlale rağmen bu Lisans kapsamındaki haklarını kullanmak için Lisans Verenden açık izin almış bir birey veya kuruluş anlamına gelir.
+
+2. Adil Kullanım Hakları. Bu lisanstaki hiçbir şey, telif hakkı sahibinin telif hakkı yasası veya diğer geçerli yasalar kapsamındaki münhasır hakları üzerindeki adil kullanım, ilk satış veya diğer sınırlamalardan kaynaklanan hakları azaltmayı, sınırlamayı veya kısıtlamayı amaçlamaz.
+
+3. Lisans Verilmesi. Bu Lisansın hüküm ve koşullarına tabi olarak, Lisans Veren, aşağıda belirtildiği şekilde Eserdeki hakları kullanmanız için size dünya çapında, telifsiz, münhasır olmayan, sürekli (geçerli telif hakkının süresi boyunca) bir lisans verir:
+
+a. Eseri yeniden üretmek, Eseri bir veya daha fazla Toplu Esere dahil etmek ve Eseri Toplu Eserlere dahil edildiği şekilde yeniden üretmek;
+
+b. Çalışmanın kopyalarını veya fon kayıtlarını dağıtmak, kamuya açık olarak görüntülemek, kamuya açık olarak icra etmek ve dijital bir ses iletimi yoluyla kamuya açık olarak icra etmek, Toplu Çalışmalar'a dahil edildiği gibi dahil olmak üzere;
+
+Yukarıdaki haklar, şu anda bilinen veya bundan sonra tasarlanacak tüm medya ve formatlarda kullanılabilir. Yukarıdaki haklar,
+diğer medya ve formatlarda hakları kullanmak için teknik olarak gerekli olan değişiklikleri yapma hakkını içerir.
+Lisans Veren tarafından açıkça verilmeyen tüm haklar saklıdır.
+
+4. Kısıtlamalar. Yukarıdaki Bölüm 3'te verilen lisans, aşağıdaki kısıtlamalara açıkça tabidir ve bunlarla sınırlıdır:
+
+a. Çalışmayı yalnızca bu Lisansın şartları uyarınca dağıtabilir, kamuya açık olarak görüntüleyebilir, kamuya açık olarak icra edebilir veya
+kamuya açık olarak dijital olarak icra edebilirsiniz ve her kopya veya fon kaydına bu Lisansın bir kopyasını veya Tekdüzen Kaynak Tanımlayıcısını eklemelisiniz.
+
+Dağıttığınız, kamuya açık olarak görüntülediğiniz, kamuya açık olarak icra ettiğiniz veya
+kamuya açık olarak dijital olarak icra ettiğiniz Çalışma. Bu Lisansın şartlarını veya alıcıların burada verilen hakları kullanmasını değiştiren veya kısıtlayan hiçbir şartı Eser üzerinde teklif edemez veya dayatamazsınız. Eseri alt lisanslayamazsınız. Bu Lisansa ve garantilerin reddine atıfta bulunan tüm bildirimleri olduğu gibi tutmalısınız. Eseri, bu Lisans Sözleşmesinin şartlarıyla tutarsız bir şekilde Eserin erişimini veya kullanımını kontrol eden herhangi bir teknolojik
+önlemle dağıtamaz, kamuya açık olarak görüntüleyemez, kamuya açık olarak icra edemez veya kamuya açık olarak dijital olarak icra edemezsiniz. Yukarıdakiler, Toplu Eserde yer alan Eser için geçerlidir, ancak bu, Toplu Eserin Eserin kendisinden ayrı olarak bu Lisansın şartlarına tabi olmasını gerektirmez. Bir Toplu Eser yaratırsanız, herhangi bir Lisans Verenin bildirimi üzerine, mümkün olduğu ölçüde, talep edildiği şekilde Toplu Eserden söz konusu Lisans Verene veya Orijinal Yazara yapılan her türlü atıfı kaldırmalısınız.
+
+b. Yukarıdaki 3. Bölümde size verilen hakların hiçbirini, öncelikli olarak ticari avantaj veya özel parasal tazminata yönelik veya bu amaca yönelik herhangi bir şekilde kullanamazsınız. Eserin dijital dosya paylaşımı veya başka bir şekilde telif hakkıyla korunan diğer eserlerle değiştirilmesi, telif hakkıyla korunan eserlerin değiştirilmesiyle bağlantılı olarak herhangi bir parasal tazminat ödenmediği sürece, ticari avantaj veya özel parasal tazminat için amaçlanmış veya yönlendirilmiş olarak kabul edilmeyecektir.
+
+c. Eseri veya herhangi bir Toplu Eseri dağıtırsanız, kamuya açık olarak görüntülerseniz, kamuya açık olarak icra ederseniz veya kamuya açık olarak dijital olarak icra ederseniz, Eser için tüm telif hakkı bildirimlerini olduğu gibi tutmalı ve Orijinal Yazara, sağlanmışsa Orijinal Yazarın adını (veya varsa takma adını) ileterek kullandığınız ortam veya araç için makul bir şekilde kredi vermelisiniz; sağlanmışsa Eserin başlığı. Bu tür kredi, makul herhangi bir şekilde uygulanabilir; ancak, bir Toplu Eser söz konusu olduğunda, en azından bu kredi, diğer benzer yazarlık kredisinin göründüğü yerde ve en azından diğer benzer yazarlık kredisi kadar belirgin bir şekilde görünecektir.
+
+5. Beyanlar, Garantiler ve Feragatname
+
+a. Bu Lisans kapsamında Eseri kamuya açık olarak sunarak, Lisans Veren, makul bir soruşturmadan sonra, Lisans Verenin bilgisi dahilinde, şunları beyan ve garanti eder:
+
+i. Lisans Veren, burada belirtilen lisans haklarını vermek ve burada belirtilen hakların yasal olarak kullanılmasına izin vermek için gerekli olan Eser üzerindeki tüm hakları, Sizin herhangi bir telif hakkı, zorunlu lisans ücreti, kalan ücret veya başka herhangi bir ödeme yapma yükümlülüğünüz olmadan güvence altına almıştır;
+
+ii. Eser, herhangi bir üçüncü tarafın telif hakkını, ticari markasını, tanıtım haklarını, genel hukuk haklarını veya başka herhangi bir hakkını ihlal etmemektedir veya herhangi bir üçüncü tarafa iftira, mahremiyet ihlali veya başka bir haksız fiil teşkil etmemektedir.
+
+b. BU LİSANS'TA AÇIKÇA BELİRTİLMİŞ OLAN VEYA YAZILI OLARAK BAŞKA ŞEKİLDE ANLAŞILMIŞ OLAN VEYA UYGULANABİLİR KANUN GEREKTİRDİĞİ DURUMLAR HARİÇ, ÇALIŞMA, İÇERİK VEYA ÇALIŞMANIN DOĞRULUĞU İLE İLGİLİ HERHANGİ BİR GARANTİ DAHİL ANCAK BUNLARLA SINIRLI OLMAYAN, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ OLMADAN "OLDUĞU GİBİ" TEMELİNDE LİSANSLANMIŞTIR.
+
+6. Sorumluluğun Sınırlandırılması. UYGULANABİLİR KANUN TARAFINDAN GEREKTİRİLEN ÖLÇÜDE VE 5. BÖLÜMDEKİ GARANTİLERİN İHLALİNDEN KAYNAKLANAN ÜÇÜNCÜ BİR TARAF SORUMLULUĞUNDAN KAYNAKLANAN ZARARLAR HARİÇ, HİÇBİR DURUMDA LİSANS VEREN, BU LİSANSTAN VEYA ESERİN KULLANIMINDAN KAYNAKLANAN HERHANGİ BİR ÖZEL, ARIZİ, SONUÇ OLARAK OLUŞAN, CEZAİ VEYA ÖRNEK OLAN ZARARLAR İÇİN SİZE KARŞI HİÇBİR HUKUKİ TEORİYE GÖRE SORUMLU OLMAYACAKTIR, LİSANS VEREN BU TÜR ZARARLARIN OLASILIĞI KONUSUNDA BİLGİLENDİRİLMİŞ OLSA BİLE.
+
+7. Fesih
+
+a. Bu Lisans ve bu kapsamda verilen haklar, sizin tarafınızdan bu Lisansın şartlarının ihlal edilmesi halinde otomatik olarak sona erecektir. Ancak, bu Lisans kapsamında Sizden Toplu Eserler alan bireyler veya kuruluşların lisansları, söz konusu bireyler veya kuruluşlar bu lisanslara tam olarak uymaya devam ettikleri sürece feshedilmeyecektir. 1, 2, 5, 6, 7 ve 8. Bölümler bu Lisansın herhangi bir şekilde feshedilmesinden sonra da geçerliliğini koruyacaktır.
+
+b. Yukarıdaki hüküm ve koşullara tabi olarak, burada verilen lisans süreklidir (Eserdeki geçerli telif hakkının süresi boyunca). Yukarıdakilere rağmen, Lisans Veren, Eseri farklı lisans koşulları altında serbest bırakma veya Eseri herhangi bir zamanda dağıtmayı durdurma hakkını saklı tutar; ancak, bu tür bir seçimin bu Lisansı (veya bu Lisansın koşulları kapsamında verilmiş veya verilmesi gereken başka bir lisansı) geri çekmek anlamına gelmeyeceği ve bu Lisansın yukarıda belirtildiği şekilde feshedilmediği sürece tam olarak yürürlükte kalacağı şartıyla.
+
+8. Çeşitli
+
+a. Her seferinde Eseri veya Toplu Eseri dağıttığınızda veya kamuya açık olarak dijital olarak icra ettiğinizde, Lisans Veren, alıcıya Eser için bu Lisans kapsamında Size verilen lisansla aynı şartlar ve koşullar altında bir lisans sunar.
+
+b. Bu Lisansın herhangi bir hükmünün geçerli yasalar uyarınca geçersiz veya uygulanamaz olması, bu Lisansın geri kalan hükümlerinin geçerliliğini veya uygulanabilirliğini etkilemeyecektir ve bu sözleşmenin tarafları tarafından daha fazla işlem yapılmadan, bu hüküm, bu hükmü geçerli ve uygulanabilir kılmak için gereken asgari ölçüde yeniden düzenlenecektir.
+
+c. Bu Lisansın hiçbir hükmü veya hükmü feragat edilmiş sayılmayacak ve bu tür bir feragat veya onay, bu tür bir feragat veya onayla suçlanacak tarafça yazılı olarak imzalanmadığı sürece hiçbir ihlale onay verilmeyecektir.
+
+d. Bu Lisans, burada lisanslanan Eserle ilgili olarak taraflar arasındaki tüm sözleşmeyi oluşturur. Burada belirtilmeyen Eserle ilgili olarak hiçbir anlayış, anlaşma veya beyan yoktur. Lisans Veren, Sizden gelen herhangi bir iletişimde görülebilecek hiçbir ek hükme bağlı olmayacaktır. Bu Lisans, Lisans Veren ve Sizin karşılıklı yazılı
+mutabakatınız olmadan değiştirilemez.
+
+###
+
+Craphound
+=========
+
+Craphound, çürümüş, pis bir uzaylı piç için kötü bir garaj satışı karmasına sahipti. Benim için işe yaramazlığın
+azgın nehrinde tek bir altın tanesini bile
+temizlemekte o kadar iyiydi ki, ondan hoşlanmamam -- en azından ona saygı duymamam mümkün değildi. Ama sonra
+kovboy sandığını buldu. Benim için iki aylık kiraydı ve Craphound için sinsi bir uzaylı kitsch-fetişinden başka bir şey değildi.
+
+Bu yüzden düşünülemez olanı yaptım. Kuralları ihlal ettim. Bir
+arkadaşımla açık artırma savaşına girdim. Asla kadınların arkadaşlıkları zehirlediğini söylemelerine izin vermeyin: benim deneyimime göre,
+kadın kavgalarından kaynaklanan yaralar çabuk iyileşir; çöp yüzünden yapılan kavgalar geride hiçbir şey bırakmaz
+sadece kavrulmuş toprak.
+
+Craphound işareti gördü -- karması ve dış iskeletindeki gözlükler,
+kırsal bir arazide 80 km/s hızla giderken ona avantaj sağladı. Ben araba kullanırken o ön koltukta oturuyordu ve radyoda CBC'nin yaz-cumartesi programını dinliyorduk: sekiz hafta sonu sekiz saat eski radyo dramaları: "The Shadow", "Quiet Please", "Tom Mix", "The Crypt-Keeper" ve Bela Lugosi. Saat üçtü ve Bogey, _The African Queen_'in radyo uyarlamasındaki performansını telefonla bildiriyordu. Eski kamyonetin camlarını indirmiştim, böylece Craphound'un nefesini kirletmeden sigara içebiliyordum. Kolum
+pencereden sarkıyordu, radyo cızırtılıydı ve Craphound "Dön! Dön, şimdi, Jerry, şimdi, dön!" dedi.
+
+Craphound bu kadar heyecanlandığında, zengin bir damar gördüğünün bir işaretidir.
+Yan aynaya hızla baktım, frene bastım ve döndüm. Şanzıman gıcırdadı, tekerlekler gıcırdadı ve sonra geldiğimiz
+yolda sürünerek ilerliyorduk.
+
+"İşte," dedi Craphound, uzun, ince koluyla işaret ederek. Gördüm. Ahşap bir
+A-çerçeveli emlak tabelası, emlakçının adının üstüne yapıştırılmış elle yazılmış bir
+mukavva parçası:
+
+DOĞU MUSKOKA GÖNÜLLÜ İTFAİYE DEPARTMANI
+
+BAYANLAR İÇİN YARDIMCI EŞYA SATIŞI
+
+CUMARTESİ 25 HAZİRAN
+
+"Hoo-eee!" diye bağırdım ve kamyonu toprak yola çevirdim. Ağaçlarla çevrili yolda ilerlerken motoru çalıştırdım, Craphound'un herhangi bir geyiği, tabelayı veya yürüyüşçüyü felaketi önlemek için zamanında tespit edeceğine güvendim. Gökyüzü mükemmel bir maviydi ve
+yaz kokuları her tarafımızı sarmıştı. Radyoyu kapattım ve kamyonun içinden esen
+rüzgarı dinledim. Ontario yazın _güzel_ oluyor.
+
+"İşte!" diye bağırdı Craphound. Dönüşe girdim ve vitesi düşürdüm ve sonra tekrar asfalt yola çıktık. Kısa süre sonra, çirkin bir tuğla ahır olan kırsal bir itfaiye istasyonuna girdik. Koridor, yüksekçe istiflenmiş uzun, katlanır masalarla doluydu. Ana maden!
+
+Craphound her zamanki gibi beni kapıdan önce çıkardı. Dış iskeleti programlanabiliyor, bu yüzden bunun için küçük komut dosyaları kaydedebiliyor: sol kolu kapı koluna götür, aç,
+bacakları koşu tahtasına doğru salla, yere atla, kapıyı kapat, ileri git.
+Bu arada, hala farları kapattığımdan ve
+cüzdanımın yanımda olduğundan emin oluyorum. İki mavi saçlı büyükanne, salonun önüne büyük bir teneke sürahi limonata ve üç kutu Tim Horton donut ile bir iskambil masası kurmuştu. Bu, ikimizi de durdurdu çünkü biz, _her zaman_ yaşlı kadınlardan ve küçük çocuklardan, pislik tanrılarına kurban olarak yiyecek satın aldığımıza dair batıl inancı paylaşıyoruz. Yaşlı kadınlardan biri limonatayı dökerken diğeri gülümseyerek bizi selamladı.
+
+"Hoş geldiniz, hoş geldiniz! Aman Tanrım, bizim için uzun bir yol kat ettiniz!"
+
+"Toronto'dan yeni geldim, hanımefendi," dedim. Bu eski bir şaka ama aynı zamanda ritüelin bir parçası ve yapılması gerekiyor.
+
+"Arkadaşınızı kastettim efendim. Bu beyefendi."
+
+Craphound diş etlerini göstermeden gülümsedi ve limonatasını yudumladı. "Elbette geldim, sevgili hanımefendi. Bunu dünyalara bedel ödemeden kaçırmam!" Aksanı oldukça iyi,
+ama bu tür klişe ifadelere gelince, o kadar cilalı ki
+haber okuyormuş gibi hissediyorsunuz.
+
+Kız kızardı ve kıkırdadı, ben de kendimi hafif hasta hissettim. Acele etmemeye çalışarak
+masalara doğru yürüdüm. İlk yerimi seçtim, aşağı yukarı yarı yolda,
+her şeyin bu kadar titizlenemeyeceği yerde. Altından boş bir kutu aldım
+ve içine bir şeyler koymaya başladım: altın çapraz bowling pinleri ve kenarı boyunca siyah bir çizgi olan dört adet eşleşen highball bardağı; biraz bile solmamış bir Expo '67
+duvar süsü; altmışların sonlarına ait O-Pee-Chee hokey kartlarıyla dolu bir ayakkabı kutusu; bir boğayı kesebileceğiniz yıpranmış, tahta saplı çelik bir satır.
+
+Kutumu alıp devam ettim: '57'de telif hakkı alınmış, arkasında Royal Canadian Dairy, Bala Ontario logosu bulunan bir deste iskambil kağıdı; pirinç rozeti o kadar kararmış ki okuyamadım; 1974 Doğu Bölgesi Curling Şampiyonası için üç katlı bir düğün pastası kupası. Zihnimdeki kasa çalıyordu, çalıyordu, çalıyordu. Tanrı Doğu Muskoka Gönüllü İtfaiye Departmanı Kadın Yardımcılarını korusun.
+
+O masayı yeterince uzun süre kazmıştım. Salonun diğer ucuna geçtim.
+Eskiden, en baştan başlar, her bir öğeyi çevirir, bir yığın belki ve bir yığın kesinlik oluşturur, strateji geliştirmeye çalışırdım. Zamanla, içgüdülerime ve her fırsatta saygılarımı sunduğum kaderlere güvenmeye başladım.
+
+Kaderler için alkışlayalım: gerçek bir katlanabilir silindir şapka; beyaz uçlu
+bir akşam bastonu; elle oyulmuş kiraz ağacından bir baston; güzel siyah dantelli
+bir şemsiye; üstünde bir horoz olan ferforje bir paratoner; hepsi bir
+fil bacağı şemsiyelik içinde. Kutuyu doldurdum, katladım ve bir tane daha yapmaya başladım.
+
+Craphound'la çarpıştım. Doğal sırıtışını yaptı, ıslak, sümüksü diş etlerinin sıra sıra göründüğü, kıvrılan, zehirli vantuzlarla kaplı sırıtışını. "Altın!
+Altın!" dedi ve ilerledi. Tam kovboy sandığına eğildiği sırada başımı ona doğru çevirdim.
+
+Dişlerimin arasından hava çektim. Muhteşemdi: deri kaplı minyatür bir vapur sandığı, kementlerle işlenmiş deri, Stetson şapkalar, savaş başlıkları ve altıpatlar. Ona doğru ilerledim ve mandalı açtı. Nefesimi tuttum.
+
+En üstte bir çocuğun kovboy kostümü vardı: minyatür deri pantolonlar, minik bir Stetson, topuklarına uzun, yıpranmış mahmuzlar takılmış bir çift yıpranmış beyaz deri kovboy çizmesi. Craphound onu saygıyla masaya taşıdı ve
+sandığın derinliklerinden daha fazla sihir çıkarmaya devam etti: bir karton kapaklı Hopalong
+Cassidy 78'ler yığını; silah kemeri ve kılıfları olan bir çift teneke altıpatlar; üzerinde Şerif yazan bir gümüş yıldız; sicimle bağlanmış, mükemmel durumda bir deste Roy Rogers çizgi romanı; ve Alamo'yu yeniden canlandırmaya yetecek kadar plastik kovboy ve Kızılderiliyle dolu bir deri çanta.
+
+"Aman Tanrım," diye fısıldadım, ganimeti masaya sererken.
+
+"Bunlar ne, Jerry?" diye sordu Craphound, 78'leri kaldırarak.
+
+"Eski plaklar, LP'ler gibi, ama onları dinlemek için özel bir plak çalara ihtiyacınız var." Bir tanesini kolundan çıkardım. Üstteki floresanlarda çiziksiz parlıyordu.
+
+"Burada 78'lik bir oyuncum var," dedi Doğu Muskoka Gönüllü İtfaiye Departmanı Kadın Yardımcıları'ndan bir üye. Craphound'un gözlerinin içine bakabilecek kadar kısaydı,
+beş fitin altında bir saç ve zayıf, kemikli bir görünümü vardı. "Bunlar benim
+Billy'nin eşyalarım, ona Billy the Kid derdik. Çocukken kovboylara karşı delirmişti. O aptal kıyafetini çıkarmasını sağlayamadım -- neredeyse okuldan atılacaktı. Şimdi Toronto'da avukat, Bay Street'te şık bir ofisi var. Onu arayıp kovboy eşyalarını satışa koymamda sakınca olup olmadığını sordum ve biliyor musun? Neyden bahsettiğimi bilmiyordu! Bu her şeyi yenmiyor mu? Çocukken kovboylara karşı delirmişti."
+
+Gülümsemek, başımı sallamak ve satın almaya çalıştığım
+çöplerin eski sahiplerine karşı olabildiğince nazik olmak benim ritüellerimden biridir, bu yüzden gülümsedim, başımı salladım ve
+ürettiği 78'lik çaları inceledim. Üstte, lariyat yazısıyla, "Resmi Bob Wills Küçük Plak Çalar" yazıyordu ve ön tarafında Bob Wills ve Texas Playboy'larının sırıttığı kaba bir suluboya vardı. Kullanılmadığında bavul gibi katlanan bir plak çalardı. Çocukken bir tane vardı, önünde Yogi Bear serigrafi baskı vardı.
+
+Billy'nin annesi sararmış kabloyu prize taktı ve 78'liği benden aldı,
+pimini plağa dokundurdu. Küçük bir ukulele, at nallarıyla birlikte çalıyordu ve sonra derin, viski gibi bir sesle bir anlatıcı, "Merhaba,
+Pardners! Ben de az önce eski kamp ateşinin yanına oturuyordum. Neden kalıp biraz fasulye yemiyorsunuz, size Hopalong Cassidy'nin Santa Fe'yi soymaya geldiklerinde Duke Çetesi'ni nasıl yendiğinin hikayesini anlatayım." dedi.
+
+Kafamda, kovboy sandığını ve içindekileri parçalara ayırıyordum,
+Sotheby's'de her bir parça için vereceğim minimum teklifi düşünüyordum. Tek tek satıldığında, içindekiler için iki bin dolardan fazla kazanabileceğimi düşündüm. Sonra, müzayede evine göndermeden önce, sadece bir şaka olsun diye, bazı Japon koleksiyoncu dergilerine ilan vermeyi düşündüm. Asla bilemezsiniz.
+Tanıdığım bir arkadaşım, Welcome Back, Kotter aksiyon figürlerinin komple bir setini bu şekilde yaklaşık sekiz bin dolara satmıştı. Belki de yeni bir kamyon alabilirdim...
+
+"Bu harika," dedi Craphound, hayal dünyamı bölerek. "Koleksiyon için ne kadar istiyorsun?"
+
+İçimde bir bıçak hissettim. Craphound kovboy sandığını bulmuştu, bu da onun sandığı olduğu anlamına geliyordu. Ama genelde sokak değerindeki şeyleri almama izin verirdi -- _her şeyle_ ilgilenirdi, bu yüzden geçimimi sağlamak için birkaç parçayı almam pek önemli değildi.
+
+Billy'nin annesi eşyalara baktı. "Yirmi dolar almayı umuyordum ama bu çok fazlaysa, aşağı inmeye razıyım."
+
+"Sana otuz veririm," dedi ağzım, beynimin müdahalesi olmadan.
+
+İkisi de dönüp bana baktılar. Craphound gözlüklerinin ardında okunamıyordu.
+
+Billy'nin annesi sessizliği bozdu. "Aman Tanrım! Bu eski karmaşa için otuz dolar mı?"
+
+"Elli öderim," dedi Craphound.
+
+"Yetmiş beş," dedim.
+
+"Aman Tanrım," dedi Billy'nin annesi.
+
+"Beş yüz," dedi Craphound.
+
+Ağzımı açtım ve kapattım. Craphound, klorofilsiz fotosentez için karmaşık bir biyokimyasal işlemi
+bir Suudi bankacısına satarak Dünya'daki hissesini inşa etmişti. Onu bir açık artırmada asla yenemezdim. "Bin dolar,"
+dedi ağzım.
+
+"On bin," dedi Craphound ve dış iskeletinin bir yerinden yüzlerce bir rulo çıkardı.
+
+"Aman Tanrım!" dedi Billy'nin annesi. "On bin dolar!"
+
+Diğer toplayıcılar, itfaiyeciler, mavi saçlı hanımlar hepsi buna baktılar ve
+ağızları açık bir şekilde bize baktılar.
+
+"İyi bir amaç için." dedi Craphound.
+
+"On bin dolar!" dedi Billy'nin annesi tekrar.
+
+Craphound'un parmakları bir krupiyenin tezgahı kadar hızlı bir şekilde ruloyu karıştırdı,
+kahverengi banknotların büyük bir parçasını ayırdı ve Billy'nin annesine uzattı.
+
+İtfaiyecilerden biri, orta yaşlı, göbekli, taranmış saçlı bir adam
+Billy'nin annesinin omzunda belirdi.
+
+"Neler oluyor, Eva?" dedi.
+
+"Bu... beyefendi Billy'nin eski kovboy eşyaları için on bin dolar ödeyecek, Tom."
+
+İtfaiyeci parayı Billy'nin annesinden aldı ve baktı. En üstteki notayı ışığın altında tuttu ve bu şekilde çevirdi, holografik
+damganın yeşilden altına, sonra tekrar yeşile dönüşmesini izledi. Seri
+numarasına, sonra bir sonraki banknotun seri numarasına baktı. İşaret parmağını yaladı ve
+onluk desteler halinde banknotları saymaya başladı. On deste olduğunda,
+tekrar saydı. "Bu on bin dolar, tamam. Çok
+teşekkür ederim, beyefendi. Bunu arabanıza götürmenize yardım edebilir miyim?"
+
+Bu arada Craphound bagajı yeniden doldurmuş ve 78'lik çaları
+üzerine dengelemişti. Önce bana, sonra da itfaiyeciye baktı.
+
+"Acaba beni en yakın otobüs durağına götürmeniz için sizden rica edebilir miyim? Sanırım
+kendi yolumu kendim bulacağım."
+
+İtfaiyeci ve Billy'nin annesi bana baktılar. Yanaklarım kızardı. "Hadi canım," dedim. "Seni eve bırakacağım."
+
+"Sanırım otobüsü tercih ederim," dedi Craphound.
+
+"Seni arabayla bırakmak hiç sorun değil, dostum," dedi itfaiyeci.
+
+O gün için işi bıraktım ve kamyonu sadece yarı dolu halde eve tek başıma sürdüm. Arabayı araba evine çektim ve yükün üzerine bir branda örttüm ve
+içeri girip bir bira açtım ve kanepeye oturup Arizona'daki bir çöl ıslah projesi hakkında bir doğa gösterisi izledim. Eyalet meclisi, terk edilmiş bir mega alışveriş merkezini ve özel olarak yapılmış bir yaşam alanını, yerel bir hava kontrol makinesi karşılığında bir uzaylıya satmıştı.
+
+#
+
+Ertesi perşembe günü, King Street'teki küçük hurda müzayede evine gittim.
+Hafta sonundan kalan eşyalarımı satışa çıkardım: daha düşük minimum teklif ve Sotheby's'den daha düşük komisyon aldılar. Küçük eşyaları taşımak iyi.
+
+Elbette Craphound da oradaydı. Orada olacağını biliyordum. Lincoln Logs'un bir kasasını bir yangın satışında bulduğumda teklif verdiğinde tanıştığımız yerdi.
+
+Onları satın aldığında onunla ruh eşim olduğunu biliyordum ve daha sonra, hurdalık köpeklerinin havladığı, havladığı, havladığı, bir grup otomobil hurdalığının ortasındaki geniş, iki katlı bir depo olan evinde konuşmuştuk.
+
+İçeride cennet vardı. Zevki tapınaklara kadar uzanıyordu -- içkiye tapınan ellili yılların bar kitsch'lerinden oluşan bir koleksiyon; yetmişli yılların bekar pad-inalia'sının altında neredeyse gömülü olan yükseltilmiş bir podyumun üzerindeki dairesel bir su yatağı; neredeyse kullanılamaz halde olan, eski ahır tahtası mobilyalar ve kırsal hatıralarla dolu bir mutfak; Viktorya dönemi beyefendi kulübünden fırlamış deri döşenmiş bir kütüphane; hasır, bambu ve tiki-idollerle kaplı bir solaryum. Cehennem gibi bir yerdi.
+
+Craphound, Goodwill'ler, Sally Ann'ler, müzayede evleri ve Queen Street'teki kitsch butikler hakkında her şeyi biliyordu ama hâlâ bunların nereden geldiğini çözememişti.
+
+"Bahçe satışları, hurda satışları, garaj satışları," dedim, titreşen bir naughahyde koltuğuna yaslanmış, güzel şişesinde satın aldığı pahalı tek malt viskisinden bir bardak içerken.
+
+"Ama bunlar nerede? Bunları kim üretebilir?" Craphound karşıma eğildi, dış iskeleti kıvrılmış, yarı oturur bir pozisyonda kilitlenmişti.
+
+"Kim? Eh, herhangi biri. Bir gün bodrumu temizlemeniz gerektiğine karar veriyorsunuz, _Star_'a bir ilan veriyorsunuz, birkaç tabelayı bantlıyorsunuz ve işte, bahçe
+satışı. Bazen bir okul veya kilise eski hurda bağışları alır ve hepsini bir bağış toplama etkinliği olarak aynı anda satar."
+
+"Peki bunları nasıl buluyorsun?" diye sordu, heyecanla hafifçe yukarı aşağı zıplayarak.
+
+"Hafta sonu gazetelerindeki ilanları okuyan veya sadece
+bir mahalle seçip etrafta dolaşan amatörler var, ama bu şekilde yapılamaz. Benim yaptığım şey, bir kamyona binmek, havayı koklamak, bok kokusu almak ve
+_vroom!_, bir tazı gibi iz üzerinde yola çıkmak. Zamanla bir şeyler öğreniyorsun: mesela
+Yuppie garaj satışlarından uzak dur, orada asla satın almaya değer bir şey olmaz, sadece
+herhangi bir alışveriş merkezinden satın alabileceğin aynı boklar."
+
+"Bir gün sana eşlik edebileceğimi düşünüyor musun?"
+
+"Elbette. Önümüzdeki cumartesi mi? Cabbagetown'a gideceğiz -- o eski araba
+evleri, insanların nelerden kurtulduğuna şaşırırsın. Neredeyse suç. "
+
+"Seninle gelecek cumartesi çok isterim Bay Jerry Abington." Eskiden böyle konuşurdu, virgül veya soru işareti olmadan. Sonradan düzeldi,
+ama sonra, hepsi tek bir büyük cümleydi.
+
+"Bana Jerry de. O zaman bir randevu. Ama sana ne diyeyim: dışarı çıkmadan önce öğrenmen gereken bir Kural var. Craphound'un Kuralı."
+
+"Craphound nedir?"
+
+"Birine bakıyorsun. Tahminimde yanılmıyorsam sen de bir tanesin. Yerel craphound'lardan bazılarını
+tanıyacaksın, benimle yeterince uzun süre takılırsın. Onlar
+rekabet, ama aynı zamanda senin arkadaşların ve bizim bazı kurallarımız var."
+
+Sonra ona bir garaj satışında asla bir pislik tacirine karşı teklif vermemeniz gerektiğini, diğer arkadaşların zevklerini nasıl öğreneceğinizi, onların beğenebileceği bir şey gördüğünüzde onu onlar için nasıl çıkaracağınızı ve onların da sizin için aynısını yapacağını ve başka bir pislik tacirinin aradığı bir şeyi asla satın almamanız gerektiğini, eğer onu sadece ona geri satmak için satın alıyorsanız. Sadece iyi bir form ve
+sağduyu, aslında, ama kaç amatörün profesyonelliğe geçişi başaramadığına şaşırırsınız, çünkü bunu kavrayamazlar.
+
+#
+
+Müzayedede bir sürü başka şey daha vardı, diğer pislik tacirlerinin hafta sonu hazineleri. Bu, güneşin çıktığı ve insanların kulübeyi, bodrumu, garajı temizlemeye başladığı yoğun sezondu. Kalabalıkta birkaç koleksiyoncu ve bir sürü antika ve hurda vardı satıcılar, birkaç toplayıcı, ben ve Craphound. Açık artırmayı isteksizce izledim, eşyalarımın gelmesini bekledim ve partiler arasında sigara içmek için gizlice dışarı çıktım. Craphound bana bir kez bile bakmadı veya varlığımı fark etmedi ve onun gözünü yakalamakla
+ilgili saplantılı bir şekilde takıntılı hale geldim, bu yüzden öksürdüm, kıpırdandım ve birkaç kez yanından geçtim, ta ki müzayedeci bana dik dik bakana ve görevlilerden biri boğaz pastili isteyip istemediğimi sorana kadar.
+
+Benim partim geldi. Bowling bardakları Queen Street'teki hurda satıcılarından birine beş dolara gitti; fil ayağı, bir antika satıcısı ile bir koleksiyoncu arasındaki ateşli bir açık artırma savaşından sonra 350 dolara geldi -- koleksiyoncu kazandı; satıcı silindir şapkayı 100 dolara aldı. Geri kalanı geldi ve satıldı veya satılmadı ve sonunda, aylık kira, hafta sonu bira ve kamyon için benzin olmak üzere 800 dolardan fazla kazandım.
+
+Craphound teklif verdi ve daha fazla kovboy eşyası satın aldı -- bir kutu süper sekiz kovboy filmi, kutular küflenmiş, stokun kendisi sümüğe dönüşmüş; bir Navajo battaniyesi; kıçından sigara dağıtan plastik bir eşek; büyük bir neon armadillo
+tabela.
+
+Sotheby's'e göre o yerin diğer güzel yanlarından biri de, çek almak için otuz gün beklemenin olmamasıydı. Teklif verme bittikten sonra diğer toplayıcılarla birlikte sıraya girdim, bir tomar para topladım ve kamyonuma doğru yöneldim.
+
+Craphound'un mallarını engelli plakalı bir minibüse yüklediğini gördüm. Kaputun ve yan panellerin üzerinde bir tür mantar büyümüş gibi görünüyordu. Daha yakından incelediğimde, vücudun sıkıca yapıştırılmış Lego ile kaplı olduğunu gördüm.
+
+Craphound bagaj kapağını açtı ve ekipmanlarını içeri attı, sonra sürücü tarafı kapısını açtı ve minibüsünün bacaksız bir sürücü için donatılmış olduğunu gördüm, fren ve gaz kolları vardı. Tanıdığım bir felçli tıpkı buna benzer bir tane kullanıyordu.
+Craphound'un dış iskeleti onu koltuğa oturttu ve arabayı çalıştıran makroyu ürkütücü derecede hassas bir şekilde nasıl uyguladığını, omuz kemerini nasıl çektiğini, sürüşe nasıl geçirdiğini ve stereo'yu nasıl açtığını izledim. Teyp tıslaması duydum, sonra, Yonge Caddesi'nde dolaşan bir b-boy kadar yüksek, eski zaman kovboy sesi: "Merhaba, ortaklar! Eyerleyin, gidiyoruz!" Sonra minibüs geri gitti ve hızla park yerinden çıktı.
+
+Kamyonete bindim ve eve sürdüm. Doğrusunu söylemek gerekirse, o küçük piçi özledim.
+
+#
+
+Bazı insanlar Craphound ve akrabalarını gezegenden,
+Güneş Sistemi'nden kovmamız gerektiğini söyledi. Uzaylıların bizi
+teknolojileri hakkında karanlıkta tutmasının adil olmadığını söylediler. Bir
+gemiyi ele geçirip tersine mühendislik yapmamız, kendi gemimizi inşa etmemiz ve kıç tekmelememiz gerektiğini söylediler. Bazı insanlar!
+
+Öncelikle, insan DNA'sına sahip hiç kimse o gemilerden birinde yolculuktan sağ çıkamaz.
+Anladığım kadarıyla, onlar Craphound halkının bedenlerinin bir parçası ve biz sadece
+doğru parçalara sahip değiliz. İkincisi, teknolojilerini bizimle paylaşıyorlardı -- sadece vermiyorlardı. Her seferinde adil ticaret.
+
+Sanki uzay bizim için yasak değilmiş gibi. Hepimiz onların ana gezegenlerini ziyaret edebiliriz, sadece nasıl yapacağımızı anladığımız anda. Sadece onlar yol boyunca ellerimizden
+tutmazlardı.
+
+#
+
+Haftayı Jarvis'teki "Gizli Butik", namıdiğer Goodwill As-I Merkezi'nde dolaşarak geçirdim. Bahçe satışları arasında yapılacak tek şey orası ve bazen iyi bulgulara sebep oluyor. Bahçe satışları karması teorimin bir parçası, ikinci el mağazalarında bir günü kaçırırsam, o gün büyük ödülün çıktığı gün olacak. Bu yüzden mağazalara gayretle gittim ve saçmalıklar buldum. Kaderleri gücendirdiğimi biliyordum ve onları yatıştırana kadar bir daha asla bir şey yapmayacaktım. Yalnız bir işti, yine de, Craphound'un iyi gözünü ve takıntılı zevkini özledim.
+
+Goodwill'de birkaç eşyayla kasadaydım ki arkamdaki takım elbiseli bir adam omzuma dokundu.
+
+"Sizi rahatsız ettiğim için özür dilerim," dedi. Takım elbisesi pahalı görünüyordu, manikürü de, saç kesimi de, tel çerçeveli gözlükleri de. "Bunu nereden bulduğunu merak ediyordum." Gövdesine kovboy şapkası
+işlenmiş, yapay elmaslarla süslenmiş bir ukulele'ye işaret etti. Suçluluk dolu küçük bir heyecanla almıştım,
+Craphound'un bir sonraki müzayedede satın alabileceğini düşünmüştüm.
+
+"İkinci katta, oyuncak bölümünde."
+
+"Başka buna benzer bir şey yoktu, değil mi?"
+
+"Korkma," dedim ve kasiyer onu alıp
+gazeteye sarmaya başladı.
+
+"Ah," dedi ve yavru köpek sahibi olamayacağı söylenmiş küçük bir çocuğa benziyordu. "Sanırım satmak istemezsin, değil mi?"
+
+Bir elimi kaldırdım ve kasiyerin onu diğer eşyalarımla birlikte poşete koymasını bekledim, kullanılmış kitapçıda satabileceğimi düşündüğüm birkaç eski bez ciltli roman ve üzerinde Olivia Newton John yazan bir Grease kemer tokası. Onu pahalı takım elbisesinin dirseğinden tutarak kapıdan dışarı çıkardım.
+
+"Ne kadar?" Bir dolar ödemiştim.
+
+"On dolar mı?"
+
+"Satıldı!" diyecektim neredeyse ama kendimi tuttum. "Yirmi."
+
+"Yirmi dolar mı?"
+
+"Queen Street'teki bir butikte bu kadar ücret alırlardı."
+
+İnce bir deri cüzdan çıkardı ve yirmilik çıkardı. Ukuleleyi ona uzattım. Yüzü bir ampul gibi aydınlandı.
+
+#
+
+Yetişkinliğimin özellikle mutsuz olduğu söylenemez. Aynı şekilde, çocukluğumun özellikle mutlu olduğu da söylenemez.
+
+Ancak, serin bir su bardağına benzeyen anılarım var. Milton yakınlarındaki büyükbabamın evi, kedinin sütlü bir kaseden su içtiği eski bir Viktorya dönemi çiftlik evi; ve tüm dairem kadar büyük, kaba bir çam masanın etrafında oturduğumuz; ve oyun odamın çiftlik çöpleriyle ve Tarzan ipleriyle dolu, saman dolu tavan araları olan cereyanlı bir ahır olduğu yer.
+
+Büyükbabamın arkadaşı Fyodor vardı ve her akşamı onun hurdalığında geçirirdik, o ve büyükbabam sohbet eder ve sigara içerken ben alacakaranlıkta koşturur, otomobil hurdalarından oluşan dağlara tırmanırdık. Eldiven kutuları hazineler sunardı:
+üniversiteli çocukların tabelaların önünde soyulurken çekilmiş buruşuk fotoğrafları, uzak yerlerin yol haritaları. Bir keresinde 1964 New York Dünya Fuarı'ndan bir rehber kitap, krom mermi gibi bir ruj ve bir çift beyaz deri kadın eldiveni bulmuştum.
+
+Fyodor da hurda ticareti yapıyordu ve bir keresinde bir atlıkarıncanın yarısı, birkaç at ve kanopinin bir kısmı, boyası dökülüyordu ve keskin yırtık kenarları dışarı çıkıyordu;
+yanında, tareti ve paletleri olmayan bir Kore Savaşı tankı ve tankın içinde soyulan eski pinup kızlar, bir rotasyon programı ve kaba bir Kilroy vardı.
+
+Atlıkarıncanın ortasındaki kontrol odasında bir yığın ciltsiz bilimkurgu romanı vardı, Ace Doubles, sırt sırta ciltlenmiş iki kitaptan oluşuyordu ve ilkini bitirdiğinizde, ters çevirip diğerini okuyordunuz. Fyodor onları bana bıraktı ve
+birinde Macon, Georgia'dan transistörlü bir radyo için bir rehin fişi vardı. Annem ve babam on dört yaşımdayken beni yalnız bırakmaya başladılar ve
+odalarına gizlice girip onları karıştırmaktan kendimi alamadım. Annemin mücevher kutusunda Acapulco'daki balayından kalma kibrit kutuları vardı,
+üzerinde kötü palmiyeler vardı. Babam çorap çekmecesinde kendisinin kas plajında, üstü çıplak, pazılarını esnetirken çekilmiş eski bir fotoğrafını saklıyordu.
+
+Büyükannem annemin hayatının her parçasını bodrumunda, tozlu
+ordu sandıklarında saklıyordu. Kendimi eğlendiriyordum, çıkarıp içine bakıyordum: '57'de Disneyland'a yaptıkları büyük aile tren gezisinden Fare
+Kulakları, plakları ve
+on altı yaşındaki tatlısından kalma simli karton levha. İyi çiğnenmiş
+doldurulmuş hayvanlar ve sayfa sayfa imzasının varyasyonlarını
+çalıştığı okul defterleri vardı.
+
+Hepsi bir hikaye anlatıyordu. Tanktaki kalemle çizilmiş Kilroy, Kore'deki o Kanadalı askerlerden birini görmemi sağladı, tıraşsız ve M*A*S*H'deki bir figüran gibi kısa saçlı, saatlerce oturup, pin-up kızlara bakan, bir bulmacayla uğraşan, sonunda bir kenara koyup, kimse görmeden önce Kilroy'unu hemen çizen.
+
+Babamın poz verdiği fotoğraf beni zamanda savurdu, Toronto'nun doğu ucundaki Muscle Beach'e ve gençler Mustang'lerinde uzanırken ve kızlar göğüslerini torpidoya dönüştüren bikinilerle güneşlenirken, teneke AM radyolarının garip psikedelik rock çaldığını duydum.
+
+Hepsi şiirler oluşturdu. Eski ucuz romanlar ve rehin senedi, onları televizyonun önüne serdiğimde ve tam olarak düzenlediğimde, nefesimi
+kesen bir şiir oluşturdular.
+
+#
+
+Kovboy sandığı olayından sonra, Upper Canada Brewing Company'deki Rotary Kulübü'nün yıllık yardım amaçlı eşya satışına kadar Craphound ile tekrar karşılaşmadım.
+Kovboy şapkasını, altıpatlar tabancasını ve kovboy sandığından gümüş yıldızı takıyordu.
+Gülünç görünmesi gerekirdi ama sonuç saf ve bir şekilde
+sevimliydi, sanki saçını karıştırmak isteyeceğiniz küçük bir çocukmuş gibi.
+
+Çeşitli yeşil tonlarında güzel eski melamin tabaklar dolu bir kutu buldum -- dört
+kare tabak, kaseler, salata tabakları ve bir servis tepsisi. Bunları getirdiğim
+spor çantasına attım ve Craphound'un deri ciltli kitap kutusunu okşarken tuzlu yaşlı bir Rotaryen'i büyülemesini görmezden gelerek göz gezdirmeye devam ettim.
+
+Bir yığın eski Çalışma Bakanlığı ruhsatına göz gezdirdim -- berber, ayak bakım uzmanı,
+barmen, saatçi. Hepsinin güzel mühürleri vardı ve koyu yeşil kurumsal metalle çerçevelenmişlerdi. Hepsinin farklı isimleri vardı ama hepsi aynı ailedendi ve
+Kendimi eğlendirmek için gururlu annenin oğullarının akreditasyonlarını kurtarıp diplomalarıyla birlikte yedek odaya astığıyla ilgili küçük bir hikaye uydurdum. "Ah, George Junior yeni kendi berber dükkanını açtı ve küçük Jimmy hala saat tamir ediyor..."
+
+Onları satın aldım.
+
+Bir kutu berbat plastik Küçük Midilli, Barbie ve Sevimli Ayıcık'ın içinde deri bir Kızılderili başlığı, tahta bir yay ve ok takımı ve püsküllü geyik derisi bir yelek buldum. Craphound hala deri kitapların sahibine yağ çekiyordu. Onları beş dolara hızlıca satın aldım.
+
+"Çok güzeller," dedi dirseğimin dibinde bir ses. Arkamı döndüm ve Secret Boutique'ten ukulele satın alan şık giyimli kadına gülümsedim. Hafta sonu için pahalı, L.L. Bean düğmeli gömleğiyle rahat bir şeyler giymişti.
+
+"Ama öyle değil mi?"
+
+"Onları Queen Street'te mi satıyorsun? Yani bulduklarını mı?"
+
+"Bazen. Bazen müzayedede. Ukulele nasıl?"
+
+"Ah, her şeyini ayarladım," dedi ve Goodwill'de eline aldığında bana verdiği aynı gülümsemeyle gülümsedi. "Üzerinde 'Don't Fence Me In' çalabilirim."
+Ayaklarına baktı. "Aptalca, değil mi?"
+
+"Hiç de değil. Kovboy işlerine meraklısın, değil mi?" Bunu söylerken, bunun kovboy sandığının orijinal sahibi olan "Billy the Kid" olduğunu bilmek beni ele geçirdi. Neden böyle hissettiğimi bilmiyorum ama kesinlikle öyle hissettim.
+
+"Sanırım çocukluğumun bir parçasını yeniden yaşamaya çalışıyorum. Ben Scott'ım," dedi ve elini uzattı.
+
+_Scott?_ Çılgınca düşündüm. _Belki de ikinci adıdır?_ "Ben Jerry'im. "
+
+Upper Canada Brewery satışında, ürünlerini deneyebileceğiniz ve iyi bir barbekü burger yiyebileceğiniz bir bira bahçesi de dahil olmak üzere birçok şey var. Yavaşça oraya doğru yöneldik, giderken masalara baktık.
+
+"Sen bir profesyonelsin, değil mi?" diye sordu plastik bardaklarda bira içtikten sonra.
+
+"Böyle de diyebilirsin."
+
+"Ben amatörüm. Sıradan bir amatörüm. Bilgelik dolu bir söz var mı?"
+
+Güldüm ve biraz bira içtim, bir sigara yaktım. "Bunun bir sırrı yok, bence. Sadece çalışkanlık: Her fırsatta dışarı çıkmalısın, yoksa büyük
+olayı kaçırırsın."
+
+Kıkırdadı. "Bunu duydum. Bazen ofisimde oturuyorum ve Goodwill'de saf altın bir parça çıkardıklarını ve
+öğle yemeğimden önce başka birinin ona ulaşacağını _biliyorum. O kadar heyecanlanıyorum ki,
+oraya gidip onu avlayana kadar iyi değilim. Sanırım bağımlı oldum, ha?"
+
+"Diğer bazı bağımlılıklardan daha ucuz."
+
+"Sanırım öyle. Şu Kızılderili işi hakkında -- bunun için bir Queen Street butiğinde ne kadar alacağını düşünüyorsun?"
+
+Gözlerinin içine baktım. Belki de doğal ortamında güçlü, havalı ve kendine hakim biri olabilirdi, ama o anda, yüksek bahisli bir oyunda
+bir mutfak masası poker oyuncusu kadar istekli ve gergindi.
+
+"Belki elli dolar," dedim.
+
+"Elli, ha?" diye sordu.
+
+"Onun hakkında," dedim.
+
+"Bir kere satıldıktan sonra," dedi.
+
+"Bir de şu var," dedim.
+
+"Bir ay, bir yıl sürebilir," dedi.
+
+"Bir gün sürebilir," dedim.
+
+"Olabilir, olabilir." Birasını bitirdi. "Sanırım kırk almazsın?"
+
+Daha on dakika önce beş ödemiştim. Uyacak gibi görünüyordu
+Craphound, sonuçta Scott/Billy'nin kendi çocukluğunu giyiyordu hazineler
+konuştuğumuzda. Yüzde sekiz yüz
+kazançlar yüzünden suçluluk duyarak geçimini sağlayamazsın. Yine de, kaderleri kızdırmıştım ve kendimi kurtarmam gerekiyordu.
+
+"Beş olsun," dedim.
+
+Bir şeyler söylemeye başladı, sonra ağzını kapattı ve bana teşekkür edercesine baktı.
+Cüzdanından bir beş çıkarıp bana uzattı. Yeleğimi, fiyonkumu ve başlığımı spor çantamdan çıkardım.
+
+Craphound'un minibüsünün yanına park edilmiş, altın detaylı parlak siyah bir Jeep'e doğru yürüdü. Craphound, Lego gövdesine bir şeyler inşa ediyordu ve kaputun üzerinde bir
+minyatür Lego kasabası vardı.
+
+Craphound geçerken etrafına baktı ve ganimete karşı gizlenmemiş bir ilgiyle öne doğru eğildi. Yüzümü buruşturdum ve biramı bitirdim.
+
+#
+
+O hafta Gizli Butik'te Scott/Billy ile üç kez daha karşılaştım.
+
+Uzaylı teknolojisi patentleri konusunda uzmanlaşmış bir avukattı. Bay Caddesi'nde iki ortağıyla bir muayenehanesi vardı ve genç olmasına rağmen kıdemli adamdı.
+
+Billy the Kid ve annesini Doğu Muskoka Gönüllü İtfaiye Departmanı Kadın Yardımcıları'nda tanıdığımı belli etmedim. Ama sanki aramızda gizli bir sır varmış gibi onunla bir bağ hissettim. Onun için kovboy buluntularını çıkardım ve o da benim ne aradığımı çok iyi anladı ve iyiliğimi karşılıksız bırakmadı.
+
+Kader yine benimleydi ve bu konuda ikilem yoktu. Eve, daha yakından incelendiğinde 19. yüzyıldan kalma el dokuması bir Pers halısı olduğu anlaşılan eski, yıpranmış bir Doğu halısı götürdüm;
+döşemeli bir Türk ayak dayanağı; el boyaması ipek Hawaiian yastıklar koleksiyonu ve oyulmuş bir Lületaşı pipo. Scott/Billy sonuncusunu benim için buldu ve bana iki dolara mal oldu. Göz açıp kapayıncaya kadar otuz ödeyecek bir koleksiyoncu tanıyordum
+ve o andan itibaren, benim açımdan, Scott/Billy bir pislik herif oldu.
+
+Kasa sırasında ona "Yarın gece müzayedeye gidiyor musun?" diye sordum.
+
+"Kaçırmam," dedi. Perşembe gecesi müzayedelerinden ve oradaki pazarlıklardan bahsettiğimde heyecanını zar zor saklayabilmişti. Kesinlikle tutkusu vardı.
+
+"Önceden akşam yemeği için bir araya gelmek ister misin? Rotterdam'ın güzel bir verandası var."
+
+İstedi ve biz de yaptık ve ben de müthiş bir tat veren bir kadeh framboise içtim
+ve köpüklü ahududulu limonata gibiydi; ve kapı durdurucu patates kızartması ve bir kulüp
+sandviçi.
+
+Masanın altından ayağımı tekmelediğinde burnum bardağımdaydı. "Şuna
+bakın!"
+
+Kamyonetinde bir park yeri arayan Craphound'du. Lego köyüne, çatıda kırmızı ve mavi bir kale, futbol topu büyüklüğünde bir uçan daire ve gözleri kırpışan bir palyaço kafası olan postmodern bir uzay limanı eklenmişti.
+
+İçeceğime geri döndüm ve iştahımı geri kazanmaya çalıştım.
+
+"Bu bir extee sürüşü müydü?"
+
+"Evet. Eskiden bir arkadaşımdı."
+
+"O bir toplayıcı mı?"
+
+"Hı-hı." Patates kızartmalarıma geri döndüm ve konuyu öldürmeye çalıştım.
+
+"Payı nasıl kazandığını biliyor musun?"
+
+"Suudi Arabistan'daki klorofil olayı."
+
+"Harika!" dedi. "Çok harika. O konudan bazı ikincil patentleri olan bir müşterim var. Neyin peşinde?"
+
+"Ah, hemen hemen her şey," dedim, sonuçta konuyu tartışmaya kendimi razı ederek. "Ama son zamanlarda, senin gibi -- kovboylar ve Kızılderililer."
+
+Güldü ve dizine vurdu. "Peki, sen ne biliyorsun? O şeyle ne istiyor olabilir ki?"
+
+"Onlar ne istiyorlar? Bir gün Muskoka'larda gezinirken başladı," dedim dikkatlice, yüzünü izleyerek. "Bir bit pazarında eski kovboy
+eşyalarıyla dolu bir sandık buldum. Doğu Muskoka Gönüllü İtfaiye Departmanı Kadın Yardımcıları." Bağırmasını veya ürkmesini bekledim. Bağırmadı.
+
+"Öyle mi? Sanırım iyi bir buluş. Keşke ben de yapabilseydim."
+
+Buna ne diyeceğimi bilemedim, bu yüzden sandviçimden bir ısırık aldım.
+
+Scott devam etti. "Bununla ne elde ettiklerini çok düşünüyorum. Burada
+kendileri için yapamayacakları hiçbir şey yok. Yani, bugün kalkıp gitseler bile, bize verdikleri her şeyin anlamını hala çıkarıyor olurduk. Biliyorsunuz, silikondan yaptığımız her şeyden 10.000 kat daha hızlı olan bir biyokimyasal bilgisayar için anlaşmayı yeni kapattım. Extee'nin karşılığında ne aldığını biliyor musunuz? Calgary'nin dışında kullanılmayan bir panayırın tapusu -- on yıl önce kapattılar çünkü orta yol binmek için çok güvenli değildi. Bu her şeyden daha iyi değil mi? Bu şey başlangıçta bir milyar dolar değerinde, yani anlaşmanın kapanmasından sonraki yirmi dört saat içinde, satıcı bunu Bolivya'nın GSYİH'sine dönüştürebilir. Beş bin dolara alamayacağınız
+zavallı bir emlakçı köpeği için!"
+
+Billy/Scott işinden bahsettiğinde her zaman şoke olurdum -- yaşlı pislikler gibi çene çalıp
+saçmaladığımızda onun güçlü bir avukat olduğunu unutmak kolaydı. Acaba o Billy the Kid değil miydi diye merak ettim;
+her şeyi bu kadar yakınına çekmesinin bir sebebini düşünemedim.
+
+"Bir extee panayırda ne yapacak?"
+
+#
+
+Pislik, ortaya çıktığında check-in sırasında Lisa'dan bedava bir kola aldı.
+Yüksek teklif verdi, ancak kurnazca ve asla on bin dolarlık numaralar yapmadı.
+Teklif verenler
+o haftanın stoklarını önceden inceleyerek ve kendilerine notlar alarak
+ortalıkta dolaşıyorlardı.
+
+Eski teneke kutularla dolu bir kutuyu karıştırdım ve Calgary Stampede'de bir kovboyun, zıplayan bir at üzerinde olduğunu gördüm. Onu aldım ve incelemek için ayağa kalktım. Craphound arkamdaydı.
+
+"Güzel bir parça, değil mi?" dedim ona.
+
+"Çok beğendim," dedi Craphound ve yanaklarımın kızardığını hissettim.
+
+"Sanırım bu gece biraz rekabet edeceksin," dedim ve
+Scott/Billy'ye başımı salladım. "Sanırım o Billy; annesinin bize -- sana -- kovboy sandığını
+satan kişi."
+
+"Gerçekten mi?" dedi Craphound ve sanki tekrar ortak olmuşuz gibi hissettik, rekabeti
+gözden geçiriyorduk. Birden utançtan bir bıçak hissettim, sanki bir şekilde
+Scott/Billy'ye ihanet ediyormuşum gibi. Bir adım geri çekildim.
+
+"Jerry, tartıştığımız için çok üzgünüm."
+
+İçimde tuttuğumu fark etmediğim bir nefesi dışarı verdim. "Ben de."
+
+"Teklif vermeye başlıyorlar. Seninle oturabilir miyim?"
+
+Ve böylece üçümüz bir araya oturduk ve Craphound, Scott/Billy'nin elini sıktı ve
+müzayedeci nutuk atmaya başladı.
+
+Alışılmadık olayların yaşandığı bir geceydi. Bir parça için teklif verdim, kendime asla
+yapmayacağımı söylediğim bir şeydi. Dört adet eşleşen Li'l Orphan Annie Ovaltine gözlük takımıydı, tıpkı büyükanneminkiler gibi ve bunları müzayedecinin elinde görmek beni tekrar mutfağına götürdü ve boyama kitaplarım, garip yaşlı kadın sert şekerlerim ve Liberace albümlerim oturma odasında çalarken sonsuz öğleden sonraları geçti.
+
+"On," dedim, açık artırmayı açarken.
+
+"On aldım, on, on, on aldım, kim yirmi diyecek, kim yirmi diyecek, dördü için yirmi."
+
+Craphound açık artırma kartını salladı ve sanki sokulmuşum gibi sıçradım.
+
+"Uzay kovboyundan yirmi aldım, yirmi aldım, efendim otuz der misiniz?"
+
+Kartımı salladım.
+
+"Sizin için otuz efendim."
+
+"Kırk," dedi Craphound.
+
+"Elli," dedim müzayedeci bana işaret etmeden önce. Eski bir profesyonel,
+oturdu ve işi bize bıraktı.
+
+"Yüz," dedi Craphound.
+
+"Yüz elli," dedim.
+
+Oda tamamen sessizdi. Fazla uzatılmış MasterCard'ımı düşündüm ve
+Scott/Billy'nin bana borç verip vermeyeceğini merak ettim.
+
+"İki yüz," dedi Craphound.
+
+Tamam, diye düşündüm. Bunlar için iki yüz öde. Queen Street'ten otuz dolara bir set alabilirim.
+
+Müzayedeci bana döndü. "Teklif ikide. İki-on der misiniz, efendim?"
+
+Başımı iki yana salladım. Müzayedeci uzun bir an durakladı, çekilme kararım konusunda ter dökmeme izin verdi.
+
+"İki tane var -- salondan başka teklif var mı? Başka teklif var mı? Satıldı,
+200 dolar, 57 numaraya." Bir görevli Craphound'a bardakları getirdi. Onları aldı
+ve koltuğunun altına sıkıştırdı.
+
+#
+
+Ayrılırken öfkeden kuduruyordum. Craphound dirseğimin dibindeydi. Ona yumruk atmak istiyordum --
+Hayatımda hiç kimseye yumruk atmamıştım ama ona yumruk atmak istiyordum.
+
+Serin gece havasına girdik ve bir sigara yakmadan önce birkaç ciğer çektim.
+
+"Jerry," dedi Craphound.
+
+Durdum ama ona bakmadım. Bunun yerine taksilerin yan taraftaki garaja girip çıkmasını izledim.
+
+"Jerry, dostum," dedi Craphound.
+
+"_Ne_?" dedim, kendimi bile korkutacak kadar yüksek sesle. Yanımda olan Scott da
+irkildi.
+
+"Gidiyoruz. Veda etmek ve sana yanımda götürmeyeceğim bazı şeyler vermek istedim."
+
+"Ne?" Tekrar söyledim, Scott hemen arkamdaydı.
+
+"Halkım -- gidiyoruz. Karar verildi. Geldiğimiz şeyi aldık."
+
+Başka bir şey söylemeden minibüsüne doğru yola koyuldu. Biz de arkasından,
+şok içinde, takip ettik.
+
+Craphound'un dış iskeleti bir makro daha uyguladı ve panel kapıyı yana kaydırarak
+kovboy sandığını ortaya çıkardı.
+
+"Bunu sana vermek istedim. Gözlükleri saklayacağım."
+
+"Anlamıyorum," dedim.
+
+"Hepiniz mi gidiyorsunuz?" diye sordu Scott, acil bir tonla.
+
+"Karar verildi. Önümüzdeki yirmi dört saat içinde gideceğiz."
+
+"Ama _neden_?" dedi Scott, neredeyse huysuz bir sesle.
+
+"Kolayca açıklayabileceğim bir şey değil. Bildiğin gibi, sana verdiğimiz şeyler bizim için biblolardı -- neredeyse değersizdi. Bunları senin için neredeyse değersiz olan bir şeyle takas ettik -- adil bir takas, kabul edeceksin -- ama artık devam etme zamanı."
+
+Craphound bana kovboy sandığını uzattı. Onu tutarken,
+dış iskeletinden gelen yağlayıcıyı ve ellerine ulaşmadan önce mumyalandığı tavan arasının kokusunu aldım. Neredeyse anladığımı hissettim.
+
+"Bu benim için," dedim yavaşça ve Craphound cesaretlendirici bir şekilde başını salladı. "Bu benim için ve sen bardakları saklıyorsun. Ve ben buna bakıp hissedeceğim..."
+
+"Anlıyorsun," dedi Craphound, bir şekilde rahatlamış görünerek.
+
+Ve ben _anladım_. Kovboy şapkası ve altıpatlar takan ve bunları
+veren bir uzaylının bir şiir ve bir hikaye olduğunu ve otuzlu yaşlarda bir bekarın, büyükannesinin mutfağını
+hatırlayabilmek için dört bardak için yarım aylık kirayı harcamaya çalışmasının bir hikaye ve bir şiir olduğunu ve Calgary'nin dışındaki kullanılmayan panayırın da bir hikaye ve bir şiir olduğunu anladım.
+
+"Sizler pisliksiniz!" dedim. "Hepiniz!"
+
+Craphound gülümsedi, böylece diş etlerini görebildim ve kovboy sandığını yere koydum ve
+ellerimi çırptım.
+
+#
+
+Scott geceyi ofisinde geçirerek, telefonda konuşarak
+rakamları ezberleyerek ve genelde iyi olduğunda elde ederek şoktan kurtuldu. Bir üstünlüğü vardı -- başka kimse onların gideceğini bilmiyordu.
+
+O hafta profesyonel oldu, Queen Street'te bir chi-chi butiği açtı ve
+beni baş toplayıcı ve factum factotum olarak işe aldı.
+
+Scott, Billy the Kid değildi. Sadece kovboy jones'lu bir Bay Street dolandırıcısıydı. Aşağı inip harcama şekillerine bakılırsa, onlardan milyonlarca olmalı.
+
+Vitrindeki çekmecemizde, ellilerden kalma, The Beaver adını verdiğimiz küçük bir çocuk bulduğum güzel bir manken var. Pantolon, Şerif rozeti, altıpatlar, minyatür bir Stetson ve yıpranmış mahmuzlu kovboy çizmeleri giyiyor ve
+bir ayağını derisi kovboy motifleriyle işlenmiş güzel bir minyatür vapur sandığının üzerine koyuyor.
+
+Hiçbir fiyata satılık değil.
+
+--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://craphound.com/place/Cory_Doctorow_-_Craphound.txt">
+<dc:title>Craphound</dc:title>
+<dc:date>1998-3-1</dc:date>
+<dc:description>Four Walls Eight Windows Press tarafından Eylül ayında yayınlanan "A Place
+So Foreign and Eight More" adlı kısa öykü koleksiyonundan, uzaylı ikinci el mağaza meraklıları hakkında Cory Doctorow'un yazdığı bir bilimkurgu kısa öyküsü, 2003 (ISBN: 1568582862)</dc:description>
+<dc:creator><Agent>
+<dc:title>Cory Doctorow</dc:title>
+</Agent></dc:creator>
+<dc:rights><Agent>
+<dc:title>Cory Doctorow</dc:title>
+</Agent></dc:rights>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<license rdf:resource="http://creativecommons.org/licenses/by-nd-nc/1.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-nd-nc/1.0/">
+<permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+<permits rdf:resource="http://web.resource.org/cc/Distribution" />
+<requires rdf:resource="http://web.resource.org/cc/Notice" />
+<requires rdf:resource="http://web.resource.org/cc/Attribution" />
+<prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+</License>
+
+</rdf:RDF>
+
+Cory Doctorow'un Craphound'un Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK CRAPHOUND ***
+
+***** This file should be named 17026.txt or 17026.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/7/0/2/6/17026/
+
+Cory Doctorow
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
