@@ -1,0 +1,1143 @@
+*** START OF AKTAHEADER ***
+Başlık: The Engineering Contributions of Wendel Bollman (Wendel Bollman'ın Mühendislik Katkıları)
+Yazar: Robert M. Vogel
+Yayın Tarihi: October 20, 2010 [EBook #33912]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/33912
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: tarih
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Engineering Contributions of Wendel
+Bollman, by Robert M. Vogel
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Engineering Contributions of Wendel Bollman
+
+Author: Robert M. Vogel
+
+Release Date: October 20, 2010 [EBook #33912]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ENGINEERING ***
+
+*** START OF TURKISH PART ***
+Colin Bell, Joseph Cooper, Louise Pattison ve
+http://www.pgdp.net adresindeki
+Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+Yazıcının Notları:
+
+Bu, Smithsonian Enstitüsü Birleşik Devletler Ulusal Müzesi Bülteni 240'ın 36. Kağıdıdır ve 34-44 Numaralı Kağıtları içerir ve ayrıca
+tam bir e-kitap olarak da mevcut olacaktır.
+
+Bültenin ön materyali, giriş ve ilgili dizin girişleri her tek sayfalık e-kitapta yer almaktadır.
+
+Noktalama işaretlerindeki tutarsızlıklar not olmaksızın düzeltilmiştir.
+Tutarlı olmayan tireleme orijinaline uygundur.
+
+SMITHSONIAN ENSTİTÜSÜ
+
+AMERİKA BİRLEŞİK DEVLETLERİ MÜZESİ
+
+BÜLTEN 240
+
+[İllüstrasyon]
+
+SMITHSONIAN PRESS
+
+TARİH VE TEKNOLOJİ MÜZESİ
+
+TARİH VE TEKNOLOJİ MÜZESİ'NDEN
+KATKILAR
+
+_Makaleler 34-44_
+_Bilim ve Teknoloji Üzerine_
+
+SMITHSONIAN ENSTİTÜSÜ . WASHINGTON, D.C. 1966
+
+_Amerika Birleşik Devletleri Ulusal Müzesi Yayınları_
+
+Amerika Birleşik Devletleri Ulusal Müzesi'nin akademik ve bilimsel yayınları arasında _Amerika Birleşik Devletleri Ulusal Müzesi Bildirileri_ ve _Amerika Birleşik Devletleri Ulusal Müzesi Bülteni_ adlı iki seri yer almaktadır.
+
+Bu serilerde Müze, kurucu müzelerinin koleksiyonları ve çalışmalarıyla ilgili orijinal makaleler ve monografiler yayınlar - Doğa Tarihi Müzesi ve Tarih ve Teknoloji Müzesi - antropoloji, biyoloji, tarih, jeoloji ve teknoloji alanlarında yeni edinilen gerçekleri ortaya koyar. Her yayının kopyaları kütüphanelere, kültürel ve bilimsel kuruluşlara ve farklı konularla ilgilenen uzmanlara ve diğer kişilere dağıtılır.
+
+1878'de başlayan _Tutanaklar_, Doğa Tarihi Müzesi'nden daha kısa makalelerin ayrı bir biçimde yayınlanması için tasarlanmıştır.
+
+Bunlar, sekizlik ciltler halinde toplanır ve her makalenin yayın tarihi, cildin içindekiler tablosuna kaydedilir.
+
+1875'te ilki yayınlanan _Bulletin_ serisinde, monografilerden (bazen birkaç bölümden) ve ilgili konulardaki
+toplanmış çalışmaların yer aldığı ciltlerden oluşan daha uzun, ayrı yayınlar yer almaktadır. _Bulletin_'ler, sunumun ihtiyaçlarına bağlı olarak sekiz veya dörtlü boyuttadır. 1902'den beri Doğa Tarihi Müzesi'nin botanik koleksiyonlarıyla ilgili makaleler _Bulletin_ serisinde _Amerika Birleşik Devletleri Ulusal Herbaryumu'ndan Katkılar_ başlığı altında yayınlanmıştır ve 1959'dan beri "Tarih ve Teknoloji Müzesi'nden Katkılar" başlıklı _Bulletin_'lerde, söz konusu Müzenin koleksiyonları ve araştırmalarıyla ilgili daha kısa makaleler toplanmıştır.
+
+Mevcut Katkılar koleksiyonu, 34-44 Numaralı Makaleler, 240 Numaralı Bülten'i içerir. Bu makalelerin her biri daha önce ayrı bir biçimde yayınlanmıştır. Yayın yılı her makalenin son sayfasında gösterilir.
+
+FRANK A. TAYLOR
+_Amerika Birleşik Devletleri Ulusal Müzesi Müdürü_
+
+TARİH VE TEKNOLOJİ MÜZESİNDEN KATKILAR:
+MADDE 36
+
+WENDEL BOLLMAN'IN
+MÜHENDİSLİK KATKILARI
+
+_Robert M. Vogel_
+
+KARİYERİNİN İLK DÖNEMİ 80
+
+BOLLMAN KAFESİ 85
+
+W. BOLLMAN VE ŞİRKETİ 91
+
+BOLLMAN KAFESİNİN SON KULLANIMI 95
+
+BİLİNEN BOLLMAN ÇALIŞMALARI 99
+
+KAYNAKÇA 104
+
+[İllüstrasyon: Şekil 1.--WENDEL BOLLMAN, C.E. (1814-1884). (_Fotoğraf
+Dr. Stuart Christhilf'in izniyle._)]
+
+_Robert M. Vogel_
+
+WENDEL BOLLMAN'IN MÜHENDİSLİK KATKILARI
+
+_Yapısal mühendisliğin gelişimi her zaman teorik kavramların
+genişlemesine olduğu kadar malzemelerin
+bulunabilirliğine de bağımlı olmuştur. Belki de inşaat mühendisliği tarihindeki en büyük tek adım, 19. yüzyılda demirin birincil yapı malzemesi olarak tanıtılmasıydı; köprüyü ve binayı, duvarcılık ve ahşabın sınırlı mukavemetine dayalı bir teknolojinin sınırlarından hızla kurtardı._
+
+_Kendi kendine yetişmiş Baltimore inşaat mühendisi olan Wendel Bollman, Amerikan demiryollarında sürekli olarak kullanılmak üzere demirden köprüleme sistemi geliştiren ilk kişiydi ve modern yapı mühendisliği dönemini başlatan öncülerden biri oldu._
+
+YAZAR: _Robert M. Vogel, Smithsonian Enstitüsü Tarih ve Teknoloji Müzesi'nde inşaat mühendisliği küratörüdür._
+
+Wendel Bollman'ın adı bugün sadece Bollman makasıyla ilişkilendirilerek varlığını sürdürüyor ve bu açıdan bile sadece birkaç eski inşaat ve demir yolu mühendisi tarafından biliniyor. Bollman kafes sistemi, Whipple ve Fink'inkilerle birlikte, metal köprünün büyük çağını ve dolayısıyla doğrudan modern inşaat mühendisliği dönemini başlatmış sayılabilir.
+
+İlk örneği 1850'de inşa edilen Bollman'ın köprü kafesi, demiri tüm ana yapısal elemanlarında kullanan ve bir demir yolunda sürekli olarak kullanılan dünyadaki ilk köprü sistemi olma gibi çok önemli bir ayrıcalığa sahiptir.
+
+Ahşaptan demire geçişin yapısal ve köprü inşa malzemesi olarak önemi genel olarak kabul edilmektedir, ancak bu değişimin belirli yönlerinden bahsetmek iyi olabilir.
+
+Duvarcılık köprü inşa geleneği, bir dizi önemli istisnaya rağmen, bu ülkede Avrupa'da sahip olduğu büyük güce asla ulaşamadı.
+Bunun birkaç nedeni vardı. Kolonileşmenin en başından itibaren sermaye kıttı, bu durum 19. yüzyıla kadar devam etti ve aşırı yüksek işçilik ve ulaşım maliyetleri nedeniyle duvar işçiliğinin kullanımını yasakladı. Daha da önemli bir ekonomik husus, öncü yıllarında demiryollarının inşasının genişletilmesinin ne kadar hızlı olması gerektiğiydi. İlk İngiliz ve Avrupa demiryollarının aksine, her zaman yoğun nüfuslu ve endüstriyel faaliyetin olduğu bölgeleri geçerdi ve böylece ilk rayın yıkıldığı andan itibaren önemli bir mali getiri elde ederlerdi. Baltimore ve Ohio ve çağdaşları tamamen farklı bir ticari beklentiye girdiler. Başlıca işleri, hat boyunca yapılan işlemlerden çok, büyük ve büyük ölçüde ıssız alanlarla ayrılmış ana terminaller arasındaki nakliyeydi. Bu, gelirin hat uçtan uca neredeyse tamamlanana kadar ciddi şekilde sınırlı olduğu ve ilk yatırımdan elde edilen getirinin tamamen araştırma, derecelendirme, tünel açma ve köprüleme hızına bağlı olduğu anlamına geliyordu.
+
+[İllüstrasyon: Şekil 2.--B. H. LATROBE'NİN 1838'de Patapsco Nehri üzerinde Elysville'de (şimdi Daniels), Maryland'de inşa edilen KİRİŞİNİN MODELİ. (_Fotoğraf
+Baltimore ve Ohio Demiryolu izniyle._)]
+
+Hız ihtiyacı, sermayenin genel olarak azalması ve tüm erken demiryollarının yoğun ormanlık alanlardan geçmesi
+ahşabı köprü ve diğer inşaatlar için hem geçici hem de kalıcı en mantıklı malzeme haline getirdi.
+
+Ahşabın köprü malzemesi olarak kullanılması elbette demiryollarıyla veya bu ülkede ortaya çıkmadı. Yoğun ormanlık Avrupa ülkeleri -özellikle İsviçre- Rönesans'tan itibaren keresteden köprü inşa etme konusunda güçlü bir geleneğe sahipti ve doğal olarak bu tekniğin belirli bir miktarı sömürgeciler ve göçmenlerle Yeni Dünya'ya ulaştı. Amerika'nın karayolu sistemi, demir yolu çağının başladığı zamana kadar yetersizdi. Ancak 1812'de doğu kıyısı boyunca gerçekten dikkate değer yapısal incelik ve işçiliğe sahip çok sayıda güzel kereste köprü vardı. Bu ülkedeki otoyol köprülerinin inşası demiryollarının ortaya çıkmasından hemen önce bir sanattan bilime dönüşmeye başladı. Ve bu sanat, büyük ölçüde sezgisel bir orantı, stres ve genel "şeylerin uygunluğu" duygusuyla inşa eden yetenekli ancak eğitimsiz usta marangozlar ve duvar ustaları grubunun elindeydi. İlk başta Avrupa'nın bilimsel ve teknik okullarında ve yaklaşık 1820'den sonra Amerika'da o zamanlar teknik eğitim veren birkaç kurumda eğitilen az sayıdaki adamın rehberliğinde kesin bir bilime dönüştü. Eğitimli mühendislerin sayısının artması, ilk başta otoyol köprüsü yapımını kullanılan malzemelerden çok, bunların bir araya getirilme biçiminde etkiledi. Kendi kendine eğitim almış bir inşaatçı tarafından tasarlanan bir köprüde, ahşabın ucuzluğu, elemanların yapısal yeterliliği konusunda hiçbir soru işareti kalmayacak şekilde genişletilerek orantılanmasını tamamen mümkün kıldı. Eğitimli mühendis ise, tüm yükü belirleme ve ardından her bir elemanı üzerindeki stres artışına ve malzemenin birim kapasitesine göre oranlama açısından tasarım yapabilirdi.
+
+Demiryolları Batı'ya doğru genişlemeye başladığında, o zamana kadar geliştirilen yarım düzine pratik ahşap kafes sistemiyle ilgili yeterli deneyim olmuştu, bunları başlangıçtaki hafif raylı trafiği destekleyebilecek köprülere dönüştürmekte pek zorluk yaşanmadı.
+
+Doğal eksikliklerine rağmen, ahşap o kadar uyumluydu ki, yoğun genişlemelerinin ilk on yıllarında demiryollarının ihtiyaçlarını neredeyse mükemmel bir şekilde karşıladı ve aslında Kuzeybatı'da hala sınırlı bir kullanım alanı buluyor.
+
+Erken Kariyer
+
+Wendel Bollman, 1814'te Alman ebeveynlerden Baltimore'da doğdu. Babası bir fırıncıydı ve aynı yıl şehrin İngilizlere karşı savunmasına yardım etmişti. Wendel'in eğitimi, yaklaşık 11 yaşına kadar, az çok geleneksel olarak Baltimore'daki kamu ve özel okullarda alındı. Daha sonra, önce Virginia'daki Sheperdstown'da (şimdiki Batı Virginia) bir eczacıya ve ardından Harpers Ferry'deki bir eczacıya gayri resmi çıraklığa başladı. 1826 veya 1827'de hastalandı ve tedavi için Baltimore'a döndü. O zamandan sonra eğitimi tamamen kendi kendine edinildi.
+
+[Resim: Şekil 3.--KİRİŞLİ KİRİŞ.]
+
+Daha sonraki kariyeri ışığında, 4 Temmuz 1828'de, Baltimore ve Ohio Demiryolu'nun temel taşı koyma töreninin bir parçası olan bir alayda diğer çocuklarla birlikte yürüdüğünü belirtmek ilginçtir. Kısa bir süre sonra, bir marangozun yanında kısa bir süre çıraklık yaptı, ancak işler aksadığında B. & O'da iş buldu.
+O zamana kadar yaklaşık beş mil boyunca geçiş hakkı tesviye edilmişti, ancak
+hiçbir ray döşenmemişti. Çocuğa ilk başta elle iş verildi, ancak kısa süre sonra
+rodman'a geçti ve ölçüm cihazında ustalaştıkça hızla yükseldi. 1829 sonbaharında ilk rayın döşenmesine katıldı. Annesi marangozluk eğitimine devam etmesini istediği için, 1830 baharında tekrar çıraklığa başlamak için demiryollarından ayrıldı. İşini bitirdi, kalfa oldu, Natchez'de bir çiftçi malikanesi inşa etmeye yardım etti ve 1837'de kendi marangozluk işini kurmak için Baltimore'a döndü. Ertesi yıl, Harpers Ferry'de bir ev inşa ederken, yaklaşık bir yıllık kullanımdan sonra çeşitli kusurlara kurban giden Potomac üzerindeki büyük ahşap köprüsünün parçalarını yeniden inşa etmek için B. & O.'ya tekrar katılması istendi.
+
+[İllüstrasyon: Şekil 4.--Üç bağımsız kafes sistemine sahip 50 fitlik açıklığa sahip BASİT KİRİŞ. Bollman'ın bu destek yöntemini kullanması, köprü kafesinin geliştirilmesine yol açtı. Bu çizim, İç Savaş sırasında Harpers Ferry'deki ahşap köprünün yıkılmasından sonra kullanılan geçici bir açıklığa aittir. (Baltimore ve Ohio Koleksiyonu, Tarih ve Teknoloji Müzesi.)]
+
+Harpers Ferry köprüsünün yeniden inşasından kısa bir süre sonra Bollman, köprülerin ustabaşı oldu. Açıkça görülüyor ki, yoğun öz çalışmayla edindiği teorik bilgiyle geliştirilmiş pratik
+yetenekleri temelinde, sonunda Baş Mühendis Benjamin H.
+Latrobe'a köprü tasarımında yardımcı oldu. Daha sonra, Cumberland ve Wheeling arasındaki hattın yeri ve uzantısında
+Latrobe'un dikkati ve yetenekleri talep edildiğinden bu işi tamamen üstlendi.
+
+[İllüstrasyon: Şekil 5.--BOLLMAN'IN ORİJİNAL PATENT ÇİZİMİ, 1851. (Ulusal Arşivler, Washington, D.C.)]
+
+B. & O. mantıksal varış noktasına, Ohio'ya (aslında
+Wheeling, Batı Virginia, Ohio Nehri'nin doğu kıyısında) 1853'e kadar ulaşamadı.
+Bollman'ın demir yoluna dönmesini izleyen yıllarda, köprülerin tasarımı, hattın kendisinden sonra gelen ikinci derecedeki mühendislik personeli mesleğiydi. Bu süre zarfında Bollman yükselmeye ve daha büyük sorumluluklar almaya devam etti ve 1848'de Latrobe tarafından yol şefi olarak atandı. Bu pozisyonda, hareket etmeyen tüm demir yolu mülklerinden, özellikle de geçiş hakkı ve köprüler dahil olmak üzere yapılarından sorumluydu. Bollman'ın yeteneklerinin tanınması, uzun süredir Amerika'nın ilk "mühendislik okulu" olarak bilinen ve tahrik gücü, ray çalışmaları ve demir yolu mühendisliğinin diğer temel unsurlarında birçok erken deneyi destekleyen B. & O.'nun köklü geleneğindeydi. Knight, Wright, Whistler, Latrobe ve Winans gibi adamlar için ifade araçları sağladı. [Resim: Şekil 6.--Latrobe tarafından inşa edilen HARPERS FERRY KÖPRÜSÜ'NÜN PLANI. İkinci Winchester rayı daha sonra kaldırıldı.] Bu öncü inşaat ve makine mühendislerinden bazıları resmi olarak eğitilmişti ancak çoğu kendi kendine eğitim almıştı. Bollman'ın B. & O.'daki kariyeri, yalnızca ikinci sınıfın en başarılısı olması nedeniyle değil, aynı zamanda muhtemelen sonuncusu olması nedeniyle de özel ilgi çekicidir. Sezgisel ve kesin mühendislik arasındaki geçiş döneminin gerçek bir temsilcisi olduğu söylenebilir. Aslında, tasarımları bu iki yöntemin bir bileşimiydi. Matematiksel analizi tutarlı bir şekilde kullanırken, aynı zamanda az çok deneysel yöntemlere bağımlıydı. Yıllarca, B. & O. çalışanları, Baltimore'daki Mount Clair'deki demir yolunun ana onarım tesisinin teneke atölyesindeki seanslarının hikayelerini anlattılar. Burada, metal parçalarından köprü modelleri inşa etti ve ardından zayıflıkları bulmak için onları yıkıma kadar test etti. Ancak, deneysel çalışmaların yalnızca matematiksel çalışmalara karşı kontroller olarak kullanılmış olması daha olası görünüyor. [İllüstrasyon: Şekil 7.--Bollman'ın Winchester açıklığının SON MODELİ. Üç kiriş hattından sadece ikisi gösterilmiştir. Model, Bollman'ın yayınlanmış yapı tanımı ve çizimlerine dayanmaktadır. (USNM
+318171; Smithsonian fotoğrafı 46941.)]
+
+Bollman'ın tasarım yapmaya başladığı dönemde (yaklaşık 1840) ülkede bilimsel olarak doğru analitik yöntemlerle köprü tasarlayan ondan az kişi vardı, Whipple ve Roebling bu grubun en dikkat çekenleriydi.
+Bollman'ın öldüğü yıl olan 1884'te, sezgisel tasarım çağı
+on yıl veya daha uzun süredir ölmüştü.
+
+[Resim: Şekil 8.--BALTIMORE VE OHIO DEMİRYOLLARI'NIN Potomac
+Nehri'nin Harpers Ferry'deki geçişi, yaklaşık 1860. Bollman'ın 1851 tarihli demir "Winchester
+kapısı", Latrobe'un 1836 tarihli ahşap yapısının sağ ucunda görülüyor ve köprünün gövdesini oluşturuyor. (_Fotoğraf Harpers
+Ferry Ulusal Tarih Parkı'nın izniyle._)]
+
+B. & O. her bakımdan gerçek bir öncü girişimdi. Amerika'daki ilk pratik demir yoluydu; Amerikan lokomotifi kullanan ilk demir yoluydu; Alleghenies'i geçen ilk demir yoluydu. Yenilikçilik ruhu, demir yolunun yöneticileri tarafından en başından itibaren teşvik edilmişti. Projenin temel cüretkarlığı ışığında başka türlü olması pek mümkün değildi. Baltimore'daki Pratt Caddesi'ndeki hattın başlangıç ​​noktasının ötesindeki ilk birkaç büyük köprü oldukça ayrıntılı bir duvar işçiliğine sahipti, ancak bu, projeksiyoncuların demir yolunun öneminin bilincinde olmaları ve kalıcılık istekleriyle açıklanabilir. Ancak, yukarıda belirtilen ekonomik faktörler kısa süre sonra bu sistemden ayrılmanın gerekliliğini açıkça ortaya koydu ve bundan sonra Harpers Ferry ve ötesine kadar hat üzerindeki çoğu uzun açıklıkta ahşap kullanıldı. Sadece en küçük menfezler ve kısa açıklıklar ve yalnızca uygun taş ocaklarına yakın yerlerde olanlar taştan inşa edildi. Şirketi büyük köprüler için keresteye geri dönmeye iten ekonomik hususlara ek olarak, duvar işçiliğinin pratik nedenlerle uygun olmadığı birkaç durum vardı. Eğer
+taş kemerler, hattın eğiminin geçilecek akarsuyun yüzeyinden nispeten kısa bir mesafede olduğu yerlerde
+kullanılsaydı,
+çok düz tek bir kemerden kaçınmak için birkaç kısa kemer gerekli olurdu. Kemer yapımında, kemerin temsil ettiği dairenin parçası ne kadar küçükse (yani kemer ne kadar düzse),
+kemer halkasındaki gerilim ve bunun sonucunda dayanaklarda oluşan yatay itme o kadar büyük olurdu.
+
+[Resim: Şekil 9.--Bollman SKEW KÖPRÜSÜ, Elysville'de (şimdi Daniels), Maryland, 1853-1854'te inşa edilmiştir. (_Fotoğraf Maryland Tarih Derneği'nin izniyle._)]
+
+Açıklığa göre optimum miktarda yükselmeye izin vermek için gereken çok sayıda kemer için iskeleler, sel zamanında akarsu akışında tehlikeli bir kısıtlama oluştururdu. Ahşap kirişlerin kullanımıyla bu tür geçişler, en fazla derede bir iskeleyle bir veya iki açıklıkta yapılabilirdi, böylece sorun önlenebilirdi.
+
+Cumberland'a kadar batıdaki başlıca ahşap köprüler Latrobe'un
+tasarımına aitti. Bunlar, birleşim yerlerinde belirli miktarda dökme demir ve belirli gerilim elemanlarında dövme demir kullanılan, kompozit yapıda iyi, sağlam yapılardır. Ancak, verimli olmaktan çok deneyseldi ve çoğunlukla yalnızca aşırı tasarımlı değil, aynı zamanda kesinlikle zor bir üretim ve inşaydı.
+
+Ancak Latrobian ahşap kirişleri hakkında ilginç olan şey, Bollman'ın kendi kirişinin tasarımında daha sonraki çalışmaları üzerindeki etkisidir. Bu etki, iki türün birincil yapısal elemanları arasındaki belirgin benzerlikle kanıtlanmaktadır. Elysville'deki Latrobe kirişi (şekil 2) sadece kısmen bir kirişti, çünkü yükün büyük kısmı panelden panele taşınmıyordu, sonunda dayanaklarda saf bir dikey tepki olarak ortaya çıkmıyordu, ancak her panelden (ortadaki dört panel hariç) Grubenmann'ların 18. yüzyıldaki ünlü İsviçre kirişlerinin tarzında ağır çapraz desteklerle doğrudan iskelelerdeki yatak noktalarına taşınıyordu. Bu meşru bir yapısal cihazdı ve bir açıklık sisteminin kapasitesini genişletmenin en basit yoluydu. Ancak, desteklerin dayanaklara önemli ölçüde yatay itme uygulaması ve aksi takdirde gerekenden daha ağır bir duvar işçiliği gerektirmesi nedeniyle kusurluydu. Latrobe'un Town, Long ve diğerleri tarafından daha önceden patentlenmiş çeşitli saf kafes sistemlerine mutlak bir güven duymamış olması ve bu tür stratejik hizmet için panel üyelerinin az çok birbirinden bağımsız hareket ettiği bir yapıyı tercih etmiş olması oldukça olasıdır. Benzer şekilde Bollman'ın kafes sistemindeki bireysel panel yüklerinin, birbirlerinden bağımsız hareket eden üyeler tarafından çerçevenin uçlarına taşındığı görülecektir. Bollman Kafesi
+
+Ahşabın köprü malzemesi olarak birçok ciddi yetersizliği hakkında hiçbir zaman soru sorulmamıştı. Çürüme ve yangın riski, her zaman mevcuttu ve arızalı üyelerin değiştirilmesi ve yangın nöbetleri için sürekli harcama yapılmasını içeriyordu. Aslında, B. & O.'nun yönetimi ve mühendislik personeli tarafından anlaşılmıştı. kereste köprü üst yapılarının, ülkedeki en iyileri olarak kabul edilmelerine rağmen, az çok uygun olduğu ve sonunda değiştirileceği. Bu bağlamda, önemli bir öngörüye sahip olan Latrobe'un, erken bir tarihte, burada demirin olası
+uygulanması konusunda ciddi şekilde düşünmesi şaşırtıcı değildir.
+
+[Resim: Şekil 10.--1856'da inşa edilen Maryland, North Branch'teki Baltimore ve Ohio'nun POTOMAC NEHRİ GEÇİŞİ. Üç Bollman
+güverte kirişi vardır. (_Fotoğraf Baltimore ve Ohio Demiryolu izniyle._)]
+
+[Resim: Şekil 11.--FINK KİRİŞİ. (_Smithsonian fotoğrafı
+41436._)]
+
+[Resim: WENDEL BOLLMAN'IN
+
+Patentli Demir Askılı Demiryolu Köprüsü.
+
+İmza sahibi, Demiryolu yetkililerine ve diğerlerine, Bollman'ın Patenti'nin planında Köprüler, Çatılar, vb. için Çizimler ve Tahminler sunmaya hazır olduğunu bildirir.
+
+Bazıları altı yıldır kullanımda olan bu köprülerin performansı tamamen tatmin edici olmuştur. Yapılarının basitliği, onarımları kolay ve ucuz hale getirir ve Ana ve Panel Çubuklarının Direklerin altındaki özel bir bağlantısıyla, şimdiye kadar Demir Köprülere karşı başlıca itiraz olan
+genleşmenin etkilerinden kaynaklanan tüm tehlike tamamen ortadan kaldırılmıştır.
+
+J. H. TEGMEYER,
+Baltimore, Md.
+
+Şekil 12.--Railroad Advocate'daki REKLAM, Ağustos 1855.]
+
+Dünyanın ilk büyük demir köprüsü, İngiltere'deki Coalbrookdale'deki ünlü dökme demir kemer, 1779'da inşa edilmişti. İnşasından sonra, malzemenin bu kullanımına yönelik oldukça seyrek bir ilgi
+geldi. Bu ülkede demirin ilk önemli kullanımı, 60 yıl sonra, 1840'ların başında Squire Whipple tarafından Erie Kanalı üzerine inşa edilen bir dizi küçük kafesli otoyol kemeriydi. Bunlarda, daha önceki demir yapıların çoğunda olduğu gibi, dökme demirden bir kemer birincil destekti.
+Kemerlerin itme kuvveti, kafes hareketine katkıda bulunan diğer dövme ve dökme demir elemanlarla birlikte açık dövme demir bağlantılarla dengeleniyordu.
+
+Whipple köprüleri, malzemeye karşı belli bir ilgiyi teşvik etti. B. & O.'nun 1849 mali yılı yıllık raporunda, Latrobe'un bu önemli konuya olan ilgisinin ilk kaydı yer alıyor.
+Başkanın mesajında, oldukça yüzeysel bir şekilde, şu ifade yer alıyor:
+
+6.183,19 dolar, 7 Ekim 1847'deki selde yıkılan Washington Şubesi'ndeki Taş Köprülerin yenilenmesi için harcandı.
+Birkaç ay içinde gerçekleştirilecek olan Little Patuxent ve Bladensburg'daki büyük Köprülerin yeniden inşası için hazırlıklar yapıldı ve sözleşmeler imzalandı... Gelecekteki sellere karşı daha fazla güvenlik sağlamak için her yerde, taş dayanaklar üzerine Demirden bir üst yapı inşa edilmesi önerildi.
+
+Demiryolu başkanının gerçekten de Bollman kirişlerinden bahsettiğini belirtmek ilginçtir. Bollman'ın kendine özgü kafes sistemini bundan ne kadar önce geliştirdiği açık değildir. Latrobe'un radyal destek kafes sisteminin kesin etkisinden
+bahsedilmiştir. Muhtemel bir etki, basit bir ahşap kirişin kapasitesini artırmak için yaygın olarak kullanılan başka bir temel teknikti - kafes kirişi - yani kirişin altına, kirişin uçlarına sabitlenmiş ve ortada dikey bir destek veya direkle belirli bir mesafede tutulan bir demir çubuk yerleştirmekti. Bu kombinasyon böylece bir kafes kiriş haline geldi, çünkü ahşap kısım artık bir eğilme gerilimine değil, basit bir sıkıştırma gerilimine maruz kalıyordu, çubuk kombinasyonun çekme gerilimini
+emiyordu. Etki, kirişi derinleştirmek, uç lifleri arasındaki mesafeyi artırmak ve böylece eğilme momentini azaltarak içlerindeki gerilimi azaltmaktı (bkz. şekil 3).
+
+[Resim: Şekil 13.--İç Savaş'tan sağ çıkan Harpers Ferry'deki DÖRT BOLLMAN AÇILIMI. Açılımlar 1862-1863'te tamamlandı. (_Fotoğraf
+Baltimore ve Ohio Demiryolu izniyle. _)]
+
+Bollman'ın aklına, çubukların sayısını uzunlamasına yönde artırarak, bu etkinin önemli mesafeleri kapsayacak şekilde pratik olarak
+artırılabileceği geldi.
+Başta kesinlikle tamamen demirden bir sistem düşünmedi,
+daha ziyade tarif edilen gibi kompozit bir sistem düşündü.
+Çok sayıda gergi çubuğu sistemine sahip bu tür kafes kirişlerin, Bollman tarafından 1845 gibi erken bir tarihte hat boyunca geçici bir köprü olarak
+kullanılmış olması oldukça olasıdır (bkz. şekil 4).
+
+Bollman'ın kendisinin mi yoksa Latrobe'un mu sistemi daha fazla ayrıntılandırma ve aynı anda kereste basınç elemanını
+dökme demirden birine dönüştürme mantığına
+şaşırdığını söylemek imkansızdır.
+Dökme demir, dövme demirden önemli ölçüde daha ucuz olduğu için, basınç stresine dayanıklı bir eleman için doğal olarak seçilmiş olurdu. Ancak daha da önemlisi, o zamanlar dövme demir, uzun basınç elemanlarında oluşan önemli burkulma gerilimlerine dayanacak kadar kesit alanına sahip şekillerde mevcut değildi. O zamanlar haddelenmiş olan çok sınırlı sayıda küçük şekil arasından yeterli büyüklükte elemanlar oluşturmanın maliyeti çok yüksek olurdu.
+
+Gerilmeye maruz kalan kiriş çubukları, kesit alanının yalnızca birincil eksenel gerilime dayanacak kadar olması gerektiği için dövme demirdendi.
+
+İlk tamamen demir Bollman kirişi, 1850 yılında Maryland, Laurel yakınlarındaki Savage Fabrikası'nda Little Patuxent Nehri üzerinde inşa edildi.
+1850 yılı için baş mühendis raporunda Latrobe, kirişin tamamlandığını ve "çok memnuniyet" verdiğini belirtebildi. "Değerli mekanik özellikleri" uzun uzun övdü ve demirin inşaat mühendisliği alanında makine mühendisliğinde olduğu kadar önemli bir malzeme olacağına dair büyük bir güven duyduğunu ifade etti.
+
+[İllüstrasyon: Şekil 14.--İç Savaş'tan sonra tamamlanan HARPERS FERRY KÖPRÜSÜ. 1894'e kadar Baltimore ve Ohio tarafından ve 1936'ya kadar bir otoyol köprüsü olarak kullanıldı. (Fotoğraf 690, Baltimore ve Ohio Koleksiyonu, Tarih ve Teknoloji Müzesi.)]
+
+Bu ilk büyük Bollman köprüsünün maliyeti 23.825,00 dolardı. Açıklığı 76 feetti. Latrobe'un güveni yerindeydi. Savage köprüsü ve Bladensburg'daki bir diğeri başarılı pilot modeller olarak düşünülebilir, çünkü mühendislik mesleğinde demir köprülere karşı belirli bir güvensizlik olmasına rağmen - esas olarak uygunsuz şekilde tasarlanmış köprülerin bir dizi başarısızlığından dolayı - Latrobe, B. & O.'daki tüm sonraki büyük köprü yapılarında demirin niteliksiz olarak benimsenmesi için yeterli gerekçe olduğunu düşünüyordu. Savage Köprüsü'nün tamamlanmasının hemen ardından Bollman, Elysville'deki (şimdi Daniels), Maryland'deki büyük Patapsco Nehri köprüsünün ve B. & O.'nun en büyük ve en önemli köprüsü olan Harpers Ferry'deki Potomac'ın üzerindeki Winchester köprüsünün tasarımını üstlendi. Ahşap bir yapı olan Harpers Ferry köprüsü, Latrobe tarafından tasarlanmış ve 1836-1837'de ünlü köprü yapımcısı Lewis Wernwag tarafından inşa edilmişti. Virginia kıyısına yakın bir noktada Winchester'a giden bir yan yolun
+(bkz. şekil 6) ayrılması nedeniyle tuhaftı. Bu hattaki tek açıklık, orta sürücü anahtarı ile kıyı arasında yer alıyordu ve köprünün diğer yedi açıklığı, tarihlerinin yaklaşık on yılında neredeyse yeniden inşa edilmiş ve o zamanlar sağlam durumda oldukları için değiştirilmek üzere planlanmıştı.
+
+Prototip olarak kabul edilebilecek kadar ayrıntılı bir
+inceliği bünyesinde barındıran ilk Bollman kirişi olan Winchester kirişi (şekil 8), 1851'de tamamlandı. Bollman, bu işten son derece gurur duyuyordu ve bunun için haklı olduğu söylenebilir. 124 fitlik açıklık, demir yolunun geniş Mount Clair atölyelerinde üretildi. Yedi destek ve yedi çift kiriş çubuğu ile sekiz panele bölündü. Bu açıklık ile Bollman'ın sonraki köprüleri arasındaki ilginç bir fark, kuleler için dökme demir yerine granit kullanmasıydı. Açıklık, tek hatlı Winchester hattına ek olarak ortak bir yolu barındırmak için üç paralel kafes hattından oluşuyordu. Bollman sisteminin ayırt edici özelliği, Bollman'ın "gergi" adını verdiği dökme demir sıkıştırma akoruyla birlikte daha önce bahsedilen çapraz kafes bağlantı serisiydi. Akor ile her bağlantı çiftinin birleşim noktası arasındaki boşluk, yine dökülmüş bir dikey direk veya payanda ile korunuyordu. [Resim: Şekil 15.--NORTH STREET (şimdi Guilford Avenue) köprüsü,
+Baltimore. Bu geçiş kompozit yapısında dökme demir yalnızca üst akorun nispeten kısa bölümlerinde kullanıldı. Web sisteminin uzun desteksiz sıkıştırma elemanları için, standart dövme demir
+açıları ve kanalları büyük bir bölüm halinde inşa edildi. Dekoratif
+dökme demir uç direkleri yapısal değildi. (Fotoğraf L. N. Edwards
+Koleksiyonu, Tarih ve Teknoloji Müzesi'nde.)]
+
+Bu tasarımın çekiciliğinin çoğu, şüphesiz, her bir sistemin yükünü abutmentlere taşımak için bağımsız olarak hareket etmesinden kaynaklanan
+güvenlik duygusunda yatıyordu. Aslında birincil yapıda işlevsiz olan alt kirişler, yalnızca desteklerin alt uçları arasındaki uygun uzunlamasına aralığı korumak için dahil edildi. Sistemde, eylemini karakterize eden o süreksizlik nedeniyle belirli bir rijitlik eksikliği vardı; ancak bu, her paneli geçen bir çift hafif çapraz destek çubuğu ile telafi edildi. Bu çubuklar, bir binadaki döşeme kirişleri arasındaki köprüleme gibi, yoğun yükleri bitişik desteklere dağıtmak gibi ek bir işleve sahipti.
+
+Winchester açıklığında, kat sistemi ekonomiklik nedeniyle kerestedendi. Bu, herhangi bir çubuğun hızla değiştirilebilmesi ve yapının işlevini bozmaması nedeniyle çok küçük bir zayıflıktı.
+Bollman, kirişi için Ocak 1852'de bir patent aldı ve aynı yıl, genel olarak sistemini ve özellikle Harpers Ferry açıklığını anlatan bir kitapçık yayınladı. Burada, buna ilk olarak "askı ve kirişli köprü" adını verdi; bu, aktif alt akoru olmadığı için kesinlikle bir kiriş olmayan bir sistem için gerçekten doğru bir tanımlamadır. (Askı köprüsüne benzetme oldukça açıktır, birincil çubukların her çifti bir askı kablosuna benzetilebilir.) Bundan sonra,
+Bollman'ın icadına genel olarak askı kirişi adı verildi.
+
+KİRİŞİN ETKİSİ
+
+Bollman'ın 1852 tarihli yayını burada ve yurtdışında yaygın bir şekilde dağıtıldı ve mühendislik mesleği tarafından saygılı bir ilgiyle incelendi. Yapının çizimleri İngiltere ve Almanya'daki birçok önde gelen teknik
+dergide kopyalandı. Bu tipin Avrupa'da yeniden üretildiğine dair bir kayıt olmasa da, ABD'deki en seçkin demir yolunun demiri bu şekilde başarılı bir şekilde yapısal olarak kullanması ve Latrobe statüsündeki bir mühendis tarafından onaylanmasının, malzemenin genel olarak benimsenmesine büyük bir ivme kazandırdığı konusunda çok az şüphe olabilir. Bu etki, kesinlikle Stephenson'ın 1850'de Menai Boğazı üzerindeki boru şeklindeki demir köprüsü veya Roebling'in 1855'te Niagara geçidi üzerindeki demir telli asma köprüsüyle aynıydı. Bollman tasarımı belki de daha büyük bir etkiye sahipti, çünkü B. & O. kereste açıklıklarını değiştirmek için sistemi hemen büyük bir enerjiyle ve büyük sayılarla başlattı; Öte yandan, Roebling'in yapısı demir yolu hizmetinde asla kopyalanmadı ve Stephenson'ınki yalnızca bir kez.
+
+[Resim: Şekil 16.--_Sol:_ Bollman'ın segmental dövme demir kolonunun yaklaşık 1860'taki VARSAYILAN KESİTİ ve standart Phoenix kolonunun kesiti; _sağ:_ Phoenix kolonu, kafes köprü basınç elemanlarında kullanıldığı şekliyle.]
+
+KAFESİN DEĞERLENDİRİLMESİ
+
+1850'lerin sonlarına doğru demir, dünya çapında bir köprü malzemesi olarak iyice yerleşmişti. Demirle ilgili önceki korkular yatıştırıldıktan ve mühendislerin dikkati mevcut ve yeni germe yöntemlerinin metale yorumlanmasına çevrildikten sonra, Bollman makası karşılaştırmadan biraz
+zarar görmeye başladı. Bileşenleri
+üretimi basit ve analizi ve tasarımı basit olmasına rağmen, Pratt ve Whipple tipleri gibi daha geleneksel panel makaslarından
+daha az ekonomik bir malzemeydi. Ek olarak, stabilite ve sertlik için gerekli olan alt kirişlerde ve desteklerde
+gerekli miktarda ikincil metal vardı.
+
+Değerlendirilmesi zor bir faktör, Bollman'ın 1866'da yenilenen patentini ele alış biçimidir. Patentin sağlam bir tasarıma dayandığı için değerli olduğunu düşündüğü sonucuna varmak için yeterli kanıt vardır.
+Bu nedenle, muhtemelen makasın diğer eksiklikleriyle birlikte diğer demiryolları tarafından kullanımını caydırmak için yeterli olan yüksek bir lisans ücreti koymuştur. Patron olarak, B. & O. doğal olarak
+kullanımına ilişkin tam haklara sahipti.
+
+Bollman tarafından bile kabul edilen ek bir kusur, merkezdeki hariç her gruptaki bağlantıların eşit olmayan uzunluğundan kaynaklandı. Bu, çerçevenin termal genleşmesinde ve büzülmesinde bir dengesizliğe neden oldu ve bunun sonucunda köprülerin ayarlanması zorlaştı. Bunun pratik etkisi, sistemi yaklaşık 150 feet'e kadar olan ara açıklık uzunluklarıyla sınırlamaktı. Daha uzun açıklıklar için B. & O., Latrobe'un yardımcılarından birinin, Alman doğumlu ve teknik olarak eğitilmiş Albert Fink'in kirişini kullandı. Fink kirişi, Bollman'ınkiyle aynı zamanda geliştirildi ve alt kirişi olmayan bir süspansiyon kirişi olduğu için yapısal olarak oldukça benzerdi. Başlıca fark, Fink'in planının simetrisiydi; bu, bireysel panel yüklerini panel noktalarından giderek daha uzun panel birimlerine taşıyarak ve ardından uç yataklarında görünmelerini sağlayarak elde edildi. Bu, eşit olmayan gerilmelerin zayıflığını ortadan kaldırdı. Tasarım temelde daha rasyoneldi ve 250 feet'e kadar açıklıklarda, genellikle güverte tipi bir kafes kiriş olarak yaygın bir şekilde kullanılmaya başlandı (bkz. şekil 11).
+
+W. Bollman ve Şirketi
+
+Bollman, 1858'de Baltimore ve Ohio'daki görevinden istifa ederek, eski B. & O. asistanlarından ikisi olan John H. Tegmeyer ve John Clark ile birlikte Baltimore'da W. Bollman ve Şirketi olarak bilinen bir köprü inşa firması kurdu. Bu, görünüşe göre Amerika Birleşik Devletleri'nde demir köprüler ve yapılar tasarlayan, üreten ve kuran ilk kuruluştu ve 25 yıl sonra muazzam bir endüstri haline gelen şeye öncülük etti. Firmanın temeli en azından 1855'te, Bollman köprüleri için tasarım ve tahminler sağlayan reklamların Tegmeyer'in adıyla birlikte birkaç demir yolu dergisinde
+görünmesiyle atıldı (bkz. şekil 12).
+
+Bollman'ın B. & O.'dan ayrılması tam bir ayrılık değildi. Demiryolu, ahşap köprüleri Bollman kirişleriyle değiştirme programına devam etti ve tasarım ve belirli miktarda üretim için W. Bollman and Company ile sözleşme yaptı. Muhtemelen sonunda Mount Clair'de üretim tamamen durduruldu ve tüm parçalar daha sonra Bollman'dan satın alındı. Şirket, Meksika, Küba ve Şili'de bir dizi büyük demiryolu köprüsü inşa ederek gelişti. Sınır şehri Baltimore'daki zorlu savaş koşulları nedeniyle 1861'den 1863'e kadar faaliyetler durduruldu. Bunun ardından Bollman, Patapsco Köprüsü ve Demir İşleri'nin tek sahibi olarak işe geri döndü. [Resim: QUINCY BAY KÖPRÜSÜ
+
+Şekil 17.--CHICAGO, BURLINGTON VE QUINCY DEMİRYOLU KÖPRÜSÜ Quincy, Illinois'deki Quincy Körfezi (Mississippi Nehri'nin kolu) üzerinde. Pivot çekme açıklığı, dış uçlarında domuz zincirleriyle desteklenen iki Bollman güverte kirişinden oluşuyordu. Köprü 1867-1868'de Bollman lisanslı Detroit Köprüsü ve Demir Şirketi tarafından inşa edildi. (Clarke, _Account of the
+Iron Railway Bridge ... at Quincy, Illinois_.)]
+
+Bollman'ın bu dönemdeki en dikkat çekici eseri Harpers Ferry'deki bir dizi açıklıktı. B. & O. 'nin ahşap köprüsü Haziran 1861'de Konfederasyon güçleri tarafından yıkılmıştı ve bundan sonra geçiş geçici bir köprüyle yapıldı. Bu, yüksek su, su taşkınları ve askeri eylemler nedeniyle bağlantının sürekli olarak kesilmesiyle sürekli bir sorun kaynağıydı. Bunun yarattığı sıkıntı ve masraf o kadar büyük oldu ki şirket geçişte demir bir köprü yapma riskini göze aldı. Temmuz ve Ağustos 1862'de Bollman kirişinin iki bölümü, 4 ve 5 numaralı açıklıklar tamamlandı. Bu, W. Bollman ve Şirketi'nin çalışmadığı bir zamanda gerçekleştiğinden, iş Mount Clair'de Bollman'ın tasarımına göre üretildi ve şüphesiz onun gözetimi altında inşa edildi. Beş hafta sonra, 24 Eylül'de, bunlar ve Bollman'ın 1851'deki ünlü Winchester açıklığı Konfederasyonlular tarafından havaya uçuruldu ve hattın işi tekrar
+trestling'in insafına bırakıldı.
+
+B. & O. yönetiminin ruhu, bu tür yürek parçalayıcı aksiliklerle karşı karşıya kaldığında, düşmanlıkların en yoğun olduğu dönemde bile nehri tekrar demirle köprülemeye karar verdiğinde gerçekten sarsılmaz görünüyordu. Kasım ayında, 5 numaralı açıklık ve Nisan 1863'te 3, 4 ve 6 numaralı açıklıklar da dikildi. Bunlar, "geniş" (veya "dal" veya "y") açıklık ile Chesapeake ve Ohio Kanalı üzerindeki Maryland kıyısındaki açıklık arasındaki orta sürücüdeki dört düz açıklıktı (bkz. şekil 13). Bu açıklıkların ahşap döşeme sistemi 1863'te ABD birlikleri tarafından stratejik nedenlerle yakılmış olsa da savaştan sağ çıktılar.
+
+1868'de kalan trestlework Bollman makaslarıyla değiştirildi.
+
+Bu muhteşem yapı, 1894'te Harpers Ferry'de geçiş hakkı yeniden düzenlenene kadar demir yoluna hizmet etti. Ancak, ortak yolun kullandığı yarısı 1936'daki felaketli sel tarafından taşınana kadar kullanılmaya devam etti. İskeleler hala görülebilir.
+
+Savaş öncesi yıllarda Bollman, genellikle Phoenix Demir İşleri ve kurucusu Samuel J. Reeves ile ilişkilendirilen, en derin öneme sahip yapısal bir gelişme geliştirdi. Havana Demiryolu için yüksek bir trestlework viyadüğünün inşasında Bollman, uzun, desteksiz kolonlara uygulandığında dökme demirin çekme zayıflığından endişelenmiş gibi görünüyor. Bir sütun normalde basınç gerilmelerine maruz kalsa da, incelik oranı, yani uzunluğun kesitin dönme yarıçapına bölünmesiyle elde edilen değer büyük olduğunda, ikincil bir eğilme gerilmesi oluşabilir. Bu gerilme yeterince büyük olursa, sütunun bir tarafındaki çekme gerilmesinin değeri aslında ana basınç gerilmesini aşabilir ve net bir gerilim etkisi ortaya çıkabilir.
+
+[Resim: Şekil 18.--1870'te tamamlanan Batı Virginia, Benwood'daki Baltimore ve Ohio'nun OHIO NEHRİ GEÇİŞİ. Her iki taraftaki yaklaşımlarda Bollman güverte kirişleri kullanılmıştır. (Fotoğraf 693, Baltimore ve Ohio Koleksiyonu, Tarih ve Teknoloji Müzesi.)]
+
+[Resim: Şekil 19.--Thistle ve Ilchester, Maryland arasındaki Baltimore ve Ohio'nun PATAPSCO NEHRİ geçişi. (Fotoğraf 695, Baltimore ve Ohio Koleksiyonu, Tarih ve Teknoloji Müzesi.)]
+
+Daha önce de belirtildiği gibi, mevcut birkaç haddelenmiş demir şekli
+nispeten küçük bir alana sahipti ve karmaşık imalatlarda birleştirilip inşa edilmediği sürece sütun olarak kullanılmaya uygun değildi. O zamanki normal uygulama, kesit alanları uzunluğa göre o kadar orantılı olan demir köprülerde ve yapılarda döküm basınç elemanları kullanmaktı
+ki
+gerilim durumu
+olamazdı. Uzun elemanlar söz konusu olduğunda, bu doğal olarak aşırı miktarda malzeme kullanıldığı anlamına geliyordu.
+
+[Resim: Şekil 20.--Baltimore'daki Jones Şelalesi'nin üzerinden Lombard Caddesi'ni taşıyan BOLLMAN YAPIMI "su borusu kirişinin" İKİ GÖRÜNÜMÜ. 1877'de inşa edilmiştir.]
+
+Bollman, kirişinin gergileri ve destekleriyle ilgili deneyiminden dolayı sorunun farkındaydı ve bu tür elemanların, çekme direncinin basınca eşdeğer olduğu
+dövme demirde pratik bir şekilde oluşturulmasıyla elde edilecek büyük avantajın farkında olmalıydı. Sonunda, Morris, Tasker and Company of Philadelphia tarafından özel segmentli dövme demir şekillerin haddelenmesiyle Phoenix formu olarak bilinen öncülü geliştirdi, bu şekiller perçinleme için olağanüstü flanşlara sahip dairesel bir kesite birleştirildi. Dairesel kesit, basınç yükünü taşımak için teorik olarak en verimli olanıdır. Herhangi bir çapa sahip bir kolon, bireysel boyutları asla çağdaş haddeleme değirmeni kapasitesini aşmayan segmentlerin sayısını artırarak üretilebilir (bkz. şekil 16). Tasarım, çoğu büyük icadı karakterize eden işlevsel mükemmellik ve sadeliğin ilham verici birleşimini sergiler.
+
+[Resim: Şekil 21.--HARPERS FERRY KÖPRÜSÜ kariyerinin sonuna doğru, Potomac üzerinde ortak bir yol taşıyordu. En batıdaki kafes hattı ve 1 numaralı açıklık çok daha önce kaldırılmıştı. 1933'te Winchester açıklığından Maryland'e doğru bakış. (_Fotoğraf
+Harpers Ferry Ulusal Tarih Parkı izniyle._)]
+
+Bollman'ın fikrini Reeves'e iletmesinin nedeni, yuvarlama için hiçbir tesisi olmaması olabilir, ancak bu mantıksız görünüyor. Her neyse, Reeves ve ortakları sistemi kapsamlı bir şekilde patentledi ve
+Phoenix sütunu sonunda dökme demir ve diğer dövme demir sütun türlerinin neredeyse tamamen dışlanmasıyla
+kullanıldı. 19. yüzyılın sonunda, değirmenler sütun kullanımına nispeten daha uygun özelliklere sahip daha büyük bölümler üretme ve diğer elemanlarla bağlantıya daha uygun hale geldikçe kullanımdan kalkmaya başladı.
+
+Bollman Truss'ın Son Kullanımı
+
+Bollman truss, B. & O. hatları dışında başka yerlerde de ara sıra kullanıldı, ancak genellikle yalnızca Patapsco Köprüsü ve Demir İşleri tarafından sözleşmeli olarak dikildiğinde. Ancak, Bollman'ın bu köprüyü
+çok rekabetçi 1870'lerde karlı bir şekilde inşa edebilmesi, Whipple gibi otoritelerin sisteme yönelik sert eleştirilerinin
+mutlaka haklı olmadığını gösteriyor. Bollman'ın reklamları, aslında,
+Herman Haupt ve M. C. Meigs gibi diğer ünlü mühendislerin olumlu önerilerine atıfta bulunuyor.
+
+[İllüstrasyon: Şekil 22.--Bollman Güverte KİRİŞLERİ, Virginia, Mount Crawford'da 1873'te inşa edilen North River Köprüsü, Virginia Valley Demiryolu
+(B. & O.). Her uç açıklığı 98 ft. 6 inçtir; nehir açıklığı
+148 ft. 9 in. (Fotoğraf 756, Baltimore ve Ohio Koleksiyonu, Tarih ve Teknoloji Müzesi.)]
+
+Sistemin ilginç bir uygulaması, Quincy, Illinois'de Mississippi'nin bir kolu üzerinde iki Bollman güverte açıklığından oluşan bir açılır köprüdeydi (bkz. şekil 17). Meksika'daki ilk demir köprü, Bollman tarafından Medellin Nehri üzerinde 1864 civarında inşa edildi. Bu dönemde önemli ilgi gören bir diğer eser, Bollman'ın 1867-1868'de Kuzey Carolina'daki Cape Fear Nehri üzerinde inşa ettiği bir çift köprüydü.
+Bu köprüler, pnömatik olarak batırılan dökme demir silindirler üzerine inşa edilmiş olmaları nedeniyle dikkat çekiciydi. Bu, Amerika'da bu işlemin ilk kullanımlarından biriydi ve bir silindirin su yüzeyinin 80 fit altına
+ulaştığı derinlik, yıllar sonra bile dikkate değer olarak kabul edildi.
+
+Kariyerinin son aktif on yılında Bollman yüzlerce küçük köprü ve diğer yapılar üretti. 1873'te Baltimore Belediye Binası'nın görkemli demir kubbesinin dökümlerini sağladı ve o şehirdeki Lombard Caddesi'ni Jones Şelalesi'nin üzerinden taşıyan
+usta işi su şebekesi kirişini
+dikti. Bu yapıda, kirişin merkezi hattının üst ve alt kirişleri, dayanaklarda ikiye ayrılan ve dökme ve dövme demir ağ elemanlarıyla birleştirilen dökme demir su şebekeleridir (bkz. şekil 20).
+
+1870'lerin ortalarında Bollman kirişinin eskidiğini gördü. Bunun başlıca nedeni, kırılganlığı nedeniyle dökme demirin büyük yapısal elemanlar için genel olarak artan güvensizliğiydi, ancak yapısal teorideki ilerlemeler, daha fazla çeşitlilikte haddelenmiş yapısal şekillerin bulunması ve dönemin artan yükleme düzenleri de buna katkıda bulundu. [Resim: Şekil 23.--Savage, Maryland'de HAYATTA KALAN TEK BOLLMAN KİRİŞ KÖPRÜSÜ. Köprü 1852'de başka bir yerde inşa edilmiş ve yaklaşık 1888'de
+bu terk edilmiş Baltimore ve Ohio endüstriyel yan yoluna taşınmıştır.]
+
+Bollman veya B. & O. tarafından 1875'ten sonra hiçbir Bollman kirişi inşa edilmemiş olsa da, kullanımda olanlar yalnızca daha ağır tahrik gücü gerektirdiğinde
+kaldırılmıştır. Belirtildiği gibi Harpers Ferry açıklığı 1894'e kadar tam ana hat hizmetinde kalmıştır. Besleyici hatlardaki Bollman kirişleri çok daha sonraya kadar kullanılmaya devam edilmiştir; Virginia'daki Valley Demiryolu'ndaki birçoğu (bkz. şekil 22) 1923'e kadar kaldırılmamıştır. Ancak, yalnızca en
+izole mahmuzlarda Bollman kirişinin gerçekten
+olgunlaşmasına
+izin verilmiştir. Bilinen tek kalan örnek (şekil 23) böyle bir dalda duruyor - ironik bir şekilde, Savage'da, Little Patuxent'in üzerinde, ilk Bollman açıklığının bulunduğu yerde. Bu 1850 köprüsü değil, 1852'de inşa edilen ve 30 yıl sonra bugünkü yere taşınan bir köprü. İlk açıklığın kaderi bilinmiyor.
+
+[İllüstrasyon: Şekil 24.--Bollman'a 1858'de Baltimore ve Ohio'dan istifa ettiğinde meslektaşları tarafından hediye edilen 10 parçalık gümüş çay takımının SICAK SU VE ÇİKOLATA SÜRAHİLERİ. Her yerde bir demiryolu motifi kullanılmış, her parça üstte ve altta raylarla çevrelenmiş, doğru kesitli ray ve bağlarla tamamlanmış.
+Dişler, dikişleri perçinlenmiş altıgen sac bacaların simülasyonudur ve kulplar bir arazi ölçüm teleskopu biçimindedir. Çeşitli
+parçalarda daha önemli B. & O. köprülerinin tasarımları kazınmıştır. Her tarafta, alçak kabartma, yüksek kabartma ve tamamen modellenmiş demir yolu
+parçaları ve nesnelerinin harika bir bolluğu vardır. Yönetim Kurulu Odası, Baltimore ve Ohio Demiryolu Şirketi, Baltimore, Md.
+(_Fotoğraf Baltimore ve Ohio Demiryolu izniyle._)]
+
+Bilinen Bollman Çalışmaları
+
+(Listelenen tüm B. & O. çalışmaları, aksi belirtilmediği sürece Bollman tarafından tasarlanmış ve demir yolu tarafından inşa edilmiştir.)
+
+Yer Tarihleri ​​Tür No. açıklıklar Açıklamalar
+her birinin hizmeti / uzunluğu
+
+1850-? Savage, Md., Little Bollman 1/76' İlk Bollman kirişi
+Patuxent Nehri'nden dikildi; granit kuleler; kiriş maliyeti, 23.825$. B. & O. RR.
+
+1851-? Bladensburg, Md., Bollman 1/? İkinci Bollman kirişi
+Anacostia Nehri boyunca dikildi; granit kuleler;
+kiriş maliyeti, 19.430 $. B. & O. RR.
+
+1851-1862 Harpers Ferry, Va., Bollman 1/124' Winchester açıklığı; ilk
+Potomac Nehri boyunca büyük Bollman kirişi; üç kiriş hattı; granit
+kuleler; 24 Eylül 1862'de
+Konfederasyon Ordusu tarafından havaya uçuruldu.
+B. & O. RR.
+
+1851-? Baltimore, Md., Trestle -- Carey Caddesi dövme demir köşegenleri olan ahşap
+kirişler.
+Trestlework'te demir yapı elemanlarının ilk kullanımı.
+Toplam uzunluk
+76 feet. B. & O. RR.
+
+1852- Savage, Md., Little Bollman 2/+-80' Hala ayakta. 1888'de Savage üzerinden Patuxent Nehri'ne taşındı; orijinal
+kiriş yeri bilinmiyor. Bu ve sonraki
+Bollman kirişleri
+demir kuleler kullanıyor. B. & O. RR.
+
+1852 (veya Marriottsville, Bollman 1/50' İlk Bollman'lardan biri
+1853)-? Md., Patapsco Nehri kafes kirişleri demir kulelerle.
+B. & O. RR.
+
+1853-? Zanesville, Ohio, Bollman 4/124' Çift hat, Orta Ohio
+Muskingum Nehri kafes kirişi (veya RR. Bollman tarafından tasarlanmıştır;
+5/160') Douglas, Smith &
+Co., Zanesville tarafından inşa edilmiştir.
+
+1854- Elysville (şimdi Bollman 3/97'9" Üst köprü, eğik. Maliyet,
+1870(?) Daniels), Md., 24.477,59$'a kadar. B. & O. RR.
+Patapsco Nehri kirişi
+
+1854-1862 Monocacy, Md., Bollman 3/119' 8 Eylül'de havaya uçuruldu,
+Monocacy Nehri kirişi 1862; 1864'te yeniden inşa edildi.
+Maliyet, 22.722,59$.
+B. & O. RR.
+
+1854-? Doğu Ohio Bollman 1/40' C. O. RR. Bölüm 76
+kirişi(?) 300 ft.'lik
+tünele bitişik.
+
+1855-? Bridgeville, Ohio, Bollman 1/71' C. O. RR.
+Salt Creek güverte kirişi
+
+1855 Öncesi-? Buffalo, N.Y. -- -- Tanımlanamadı.
+George Vose tarafından Railroad
+Advocate'da (9 Haziran 1855) bahsedilmiştir.
+
+1856-? Elysville, Md., Bollman 3/111' Alt Köprü. B. & O. RR.
+yaklaşık 1-1/4 mil
+1854 kirişinin doğusunda
+Patapsco
+Nehri
+
+1856 Öncesi-? Marriottsville, Bollman 1/48'9" B. & O. RR.
+yıllık raporunda "Tünel
+Md. kafesli(?) Köprü" olarak anılır, 1856.
+
+1856-? Ijamsville Yakınlarında, "Demir 3/23'9" Muhtemelen kafesli kirişler;
+Md., Bush Creek kirişleri" B. & O. RR.
+yıllık raporunda anılır, 1856.
+
+1856-? Ijamsville Yakınlarında, "Demir 2/23'9" Yukarıdaki gibi. Md., Bush Creek kirişleri"
+
+1856- North Branch, Md., Bollman 3/142' Kısmen yıkıldı
+c.1862 Potomac Nehri güverte kirişi İç Savaş. B. & O. RR.
+
+1860-1906 Şili, Angostura Bollman 4/115' Şili Demiryolları.
+Nehir kirişi(?) Bollman tarafından tasarlandı ve inşa edildi.
+Fransız firması Schneider, Cruesot & Co. tarafından inşa edilen köprü ile değiştirildi.
+
+1860-1910 Şili, Paine Nehri Bollman 1/? Yukarıdaki gibi.
+kiriş(?)
+
+Post- Ilchester, Md., Bollman 1/? B. & O. RR.
+1860-? Patapsco Nehri kirişi
+
+1861 Öncesi-? Küba Köprüleri -- Havana'daki tüm köprüler
+ve RR., Guines'teki demir
+istasyon istasyonu ve köprü
+evi dahil. Bollman tarafından tasarlanmış ve
+inşa edilmiştir.
+
+1861 Öncesi-? Küba Köprüleri -- Cienfuegos'taki tüm köprüler
+RR., Cardenas RR. ve
+Havana & Matanzas RR. Bollman tarafından tasarlanmış ve inşa edilmiştir.
+
+1861 Öncesi-? Küba Trestle -- Dövme demir sütunlu Trestle (şimdiye kadar inşa edilen ilk
+). Havana
+RR. Bollman tarafından tasarlanmış ve inşa edilmiştir.
+
+1862-1862 Harpers Ferry, Va., Bollman 2/160' Açıklık no. 3 (24 Temmuz) ve
+Potomac Nehri açıklığı no. 4 (21 Ağustos).
+kiriş 24 Eylül 1862'de havaya uçuruldu. B. & O. RR.
+
+1862-1936 Harpers Ferry, Va., Bollman 1/160' Açıklık no. 5 (Kasım).
+Potomac Nehri B. & O. RR. kiriş
+
+1863-1936 Harpers Ferry, Va., Bollman 3/160' Açıklıklar no. 3, 4 ve 5.
+Potomac Nehri'nden Geçiyor
+kiriş Nisan 1863'te inşa edildi. B. & O. RR.
+
+1863-? Berwyn, Md., Paint Bollman ? Demir köprü,
+Branch kiriş(?) B. & O. RR. yıllık raporunda belirtilmiştir,
+1863.
+
+1863(4?)-? Clinton, Iowa, Pivot 1/360' Detroit Köprüsü tarafından inşa edildi
+Mississippi Nehri çekme ve Demir İşleri. Tamamlandığı
+
+zamanda dünyanın en uzunuydu.
+Bollman tarafından tasarlandı.
+
+1864-? Laurel, Md., Bollman ? Taş kemer değiştirildi
+Patuxent Nehri kirişi yıkanmıştı. B. &
+O. RR.
+
+c. 1864-? Veracruz Yakınları, Bollman 1/115' Veracruz & Jucaro RR.
+Meksika, Medellin üzerinden İlk demir köprü
+Nehir makası Meksika. Bollman tarafından tasarlanmış ve
+inşa edilmiştir.
+
+1864-? Bollman Noktası Yakınları 1/80'(?) Rocks, Md., Back truss(?)'da belirtilen demir köprü B. & O. RR. yıllık
+Creek raporu, 1864. Verilen açıklık
+uzunluğu önceki taş kemerin uzunluğudur.
+
+1864-? Bladensburg, Md., Bollman 1/? İkinci ray için açıklık, Anacostia Nehri makası 1851 açıklığına uymaktadır. B. & O.
+RR.
+
+1868-? Cape Fear, Kuzey Karolina, Bollman 2/146'6" Wilmington Demiryolu Köprüsü
+Kuzeydoğu Kolu, kiriş(?) 1/164' Co. Bu köprü
+Cape Fear Nehri pivotu, Kuzeybatı Kolu üzerindeki
+2-1/2 mil kereste
+sehpasıyla
+150'lik
+Cape Fear Nehri pivotuna bağlandı. Bollman tarafından
+tasarlandı ve
+inşa edildi.
+
+1868-? Cape Fear, Kuzey Karolina, Bollman 1/217'(?) Yukarıya bakın.
+Kuzeybatı Kolu, kiriş(?) pivot
+Cape Fear Nehri çekmecesi/150'
+
+1868-? Quincy, Ill., Bollman 4/85' Chicago, Burlington ve
+Quincy Koyu (güverte pivotu Quincy RR. Pivot çekmecesi
+Mississippi Nehri) kiriş çekmecesi/190' iki adet 85 fitlik basit Bollman güverte açıklıkları
+dış uçları domuz zincirlerinden
+sarkıyordu. Bollman tarafından
+tasarlandı; Detroit
+Bridge & Iron Works tarafından
+inşa edildi.
+
+1869- Baltimore, Md., Warren 2/100' North Avenue Köprüsü. c.1892 Jones Şelalesi üzerinde, kiriş 2/55'6" Kompozit çift
+B. & O. RR. ve kesişim kirişi;
+Kuzey Merkez ahşap üst kiriş ve
+RR. direkler, dövme demir alt kiriş ve bağlar. 55 ft.
+açıklıklarda, her iki kiriş
+kereste. Maliyet, 73.588 $.
+Bollman tarafından yapılmıştır.
+
+c.1869- Harpers Ferry, Va., Bollman 4/? Kanal açıklığı (no. 8), Geniş
+1936 Potomac Nehri açıklığı (no. 2), Winchester
+kiriş açıklığı ve West End açıklığı.
+1936'da selde yıkılmıştır. B. & O. RR.
+
+1870- Baltimore, Md., Demir 1/108' Charles Street Köprüsü. c.1895 Jones Falls "İzometrik Üç sıra kiriş.
+kiriş" Maliyeti, 20.297 $. Yapan
+(muhtemelen Bollman.
+Pratt tipi)
+
+1870- Bellaire, Ohio- Bollman 9/107'- Yaklaşımlarda; 2 açıklık
+1893 & Benwood W. Va., güverte 125' Ohio tarafı; 7 Batı
+1900 Ohio Nehri kirişi Virginia tarafı. B. & O. RR.
+
+1870- Belpre, Ohio- Bollman 16/? Yaklaşımlarda; 7 açıklık
+c.1895 Parkersburg, B. güverte Ohio tarafı; 9 Batı
+Va., Ohio Nehri kirişi Virginia tarafı. B. & O. RR.
+
+1870-? Elysville, Md., Bollman 4/? Eğim; Patapsco Nehri'nin Üst Köprü'den geçmesiyle değiştirilmesi(?). B. & O.
+kiriş RR.
+
+1871- Baltimore, Md., Timber ? Decker Street (şimdi
+c.1895 Jones Falls ve demir Maryland Avenue) Köprüsü.
+kiriş Maliyeti, 24.975 $. Bollman tarafından yapılmıştır.
+
+1871- Baltimore, Md., Warren 1/100' Kuzey Bulvarı Köprüsü.
+c.1892 Kuzey kirişi üzerinde Kompozit çift
+Orta RR. kavşak kirişinde;
+Jones Falls dökme demir üst kiriş ve
+direkler; dövme demir
+alt kiriş ve bağlar.
+Batı açıklığı. Bollman tarafından yapılmıştır.
+
+1873-1923 Cave Station, Va., Bollman 1/98'7" Valley Railroad of
+Middle River güverte 1/63'5" Virginia (B. & O.) Köprüsü
+kiriş no. 120. Ana açıklık
+Whipple güverte kirişiydi.
+Plaka kirişlerle
+değiştirildi. Bollman tarafından
+tasarlandı.
+
+1873-1923 Mount Crawford, Bollman 2/98'6" Valley Railroad of
+V. , North River güvertesi 1/148'9" Virginia (B. & O.) Köprüsü
+kiriş no. 117. Bollman tarafından tasarlanmıştır.
+
+1873-1923 Verona, Va., North Bollman 3/98'7" Valley Railroad of
+River güvertesi Virginia (B. & O.) Köprüsü
+kiriş no. 129. Ana açıklık
+147 ft. Whipple
+güverte kirişiydi. Bollman tarafından tasarlanmıştır.
+
+1873-? Wadesville, Va., Bollman 1/147'8" Verilen açıklık uzunluğu, 1862'de yanan önceki ahşap açıklık
+kirişinin Opequon Creek'ten geçmesidir. B.
+& O. RR.
+
+c. 1873- Baltimore, Md. Demir çatı ? İlk Presbiteryen
+kirişleri Kilisesi. Bollman tarafından inşa edildi;
+muhtemelen kendisi tarafından tasarlandı.
+
+1873- Baltimore, Md. Dökme demir Belediye Binası. Maliyet, 12.840 $.
+merdivenler Mimar George A.
+Frederick tarafından tasarlandı;
+Bollman tarafından inşa edildi.
+
+1873- Baltimore, Md. Belediye Binasının dökme demir kubbesi.
+iskelet Maliyet, 70.525 $. George
+A. Frederick tarafından tasarlandı;
+Bollman tarafından inşa edildi.
+
+1875- Baltimore, Md., Demir kiriş 1/? Fayette Street Köprüsü. c.1913 Jones Falls Maliyeti, 9.396 $. Bollman tarafından yapılmıştır.
+
+1876- Baltimore, Md., "Single- 1/? Canton Avenue (şimdi Fleet
+c.1913 Jones Falls kiriş demir Caddesi) Köprüsü. Maliyeti,
+köprü" 8.904 $. Bollman tarafından yapılmıştır.
+(kiriş?)
+
+1876- Baltimore, Md., "Single- 1/? Eastern Avenue Köprüsü.
+c.1913 Jones Falls kiriş demir Maliyeti, 12.382 $. Bollman tarafından yapılmıştır.
+köprü". (kiriş?)
+
+1877- Baltimore, Md., Pratt ve 1/88'6" Lombard Street Köprüsü.
+Jones Falls kirişi Üç sıra kiriş;
+kiriş iki dış kiriş,
+kompozit döküm ve
+dövme demir çokgen
+Pratt tipi; merkez
+kompozit kiriş ve
+Pratt sistem ağı. Her iki
+kiriş de dökme demir su şebekesi, uç yataklarda çatallı;
+dökme demir direkler ve
+dövme demir bağlar.
+Hizmette. Maliyet, 7.632 $.
+Jas. Curran, Baltimore su departmanı tarafından
+tasarlandı; Bollman tarafından
+inşa edildi.
+
+1877- Baltimore, Md., Demir kiriş 1/? Bath Street Köprüsü. Maliyet,
+c. 1913 Jones Falls 4.172 $. Bollman tarafından inşa edildi.
+
+1879-? Baltimore, Md. Açılır köprü 1/? Şehir
+Rıhtımının girişinin üzerinde. Maliyet, 13.182 $.
+Bollman tarafından inşa edildi.
+
+1879- Baltimore, Md., Warren 2/173'9" North Street (şimdi
+c.1930 Jones Falls kirişi Guilford Avenue üzerinde) Köprüsü.
+ve demir yolu Kompozit kirişler;
+raylar dökme demir üst kiriş ve
+uç direkler; dövme demir
+alt kiriş ve ağ
+elemanları. Maliyet, 38.772,45 $.
+Bollman tarafından inşa edildi;
+Latrobe tarafından tasarlandı.
+
+1881-1960 Baltimore, Md., Dövme- 1/? Union Avenue Köprüsü.
+(Woodberry), demir Pratt Bollman tarafından inşa edildi;
+Jones Falls kirişi muhtemelen kendisi tarafından tasarlandı.
+
+?-? Harpers Ferry, Va., Bollman 1/148' Arsenal Branch, B. & O.
+Arsenal Kanalı RR'den geçiyor. Eğik tip. Açıklık
+kiriş uzunluğu önceki
+ahşap açıklığın uzunluğudur.
+
+?-? Baltimore, Md., Bollman 2/? B. & O. RR.
+Gwynns Falls through
+truss
+
+KAYNAKÇA
+
+_Baltimore ve Ohio Demiryolu'nun bir Baltimore vatandaşı tarafından yazılmış tarihi ve açıklaması._ Baltimore, 1853.
+
+Baltimore ve Ohio Demiryolu Şirketi. _Baltimore ve Ohio Demiryolu'nun Kasım 1857'deki memur ve çalışanlarının listesi._
+Baltimore, 1857.
+
+----. _Baltimore ve Ohio Demiryolu Şirketi'nin hissedarlarına başkan ve yöneticilerinin üçüncü yıllık raporu._ Baltimore:
+1829. (Ayrıca dördüncü ila 38. yıllık raporlar. Baltimore,
+1830-1864.)
+
+----. _Baltimore ve Ohio, Century of Progress'te sergileniyor._ Chicago,
+1934.
+
+_Maryland ve Columbia Bölgesi'nin temsilci adamlarının biyografik ansiklopedisi._ Baltimore, 1879.
+
+BOLLMAN, WENDEL. _Baltimore ve Ohio Demiryolu Şirketi için Harper's Ferry'de ve bu yolun Washington kolunda
+inşa edilen demir askı ve kafesli köprü._ Baltimore, 1852.
+
+----. John W. Garrett'a 17 Haziran 1862 tarihli mektup.
+Mekanik ve İnşaat Mühendisliği Bölümü, Amerika Birleşik Devletleri Ulusal Müzesi, Washington, D.C.
+
+---- dosyalarında. _Bay Bollman'ın Central Ohio Demiryolu ile ilgili raporu._
+Baltimore, 1854.
+
+BRYANT, WILLIAM C. _Pitoresk Amerika._ New York, 1874.
+
+CLARKE, THOMAS CURTIS. _Mississippi Nehri üzerindeki Quincy, Illinois'deki demir demiryolu köprüsünün bir anlatımı._ New York, 1869.
+
+COLBURN, ZERAH. Amerikan demir köprüleri. _Makine Mühendisleri Kurumu'nun tutanakları_ (1863), cilt 22, s. 540-573.
+
+CONDIT, CARL. _Amerikan yapı sanatı:--On dokuzuncu yüzyıl._ New York: Oxford Press, 1960.
+
+GRAY, GEORGE E. Köprü yapımında erken dönem uygulamalarına dair notlar. _Transactions of the American Society of Civil Engineers_ (1897), cilt 37, s. 2-16.
+
+GREINER, JOHN E. Amerikan demiryolu viyadüğü--Kökeni ve
+evrimi. _Transactions of the American Society of Civil Engineers_ (1891), cilt 25, s. 349-372.
+
+LANG, PHILIP GEORGE. Virginia Branch Vadisi'ndeki Bollman kirişleri
+yakında anılar olacak. _Baltimore ve Ohio Dergisi_ (Ekim 1923), s. 18-19.
+
+----. Harpers Ferry, Batı [sic] Virginia'da Potomac Nehri'ni geçen eski Baltimore ve Ohio köprüsü. _Engineering News-Record_ (17 Eylül 1931), s. 446.
+
+MALEZIEUX, EMILE. _Travaux publics des Etats-Unis d'Amerique en 1870._
+Paris, 1873.
+
+MCDOWELL, W.H. Yayımlanmamış mühendis raporu, Wilmington Railway Bridge Company, Wilmington, Kuzey Carolina, 12 Mart 1868 tarihli. ABD Ulusal Müzesi, Makine ve İnşaat Mühendisliği Bölümü dosyalarında daktilo edilmiş kopyası, Washington, D.C.
+
+SMITH, CHARLES SHALER. _Fink, Murphy,
+Bollman ve üçgen kirişlerin karşılaştırmalı analizi._ Baltimore, 1865.
+
+SMITH, WILLIAM P. _1857'deki büyük demiryolu kutlamalarının kitabı._
+Baltimore, 1858.
+
+TYRRELL, HENRY G. _Köprü mühendisliğinin tarihi._ Chicago, 1911.
+
+WHIPPLE, SQUIRE. _Köprü binası._ Albany, New York, 1869.
+
+ABD HÜKÜMET BASIM OFİSİ: 1964
+
+ABD Hükümet Basım Ofisi Belgeler Müdürü tarafından satılık
+Ofis Washington D.C. 20402 - Fiyat 70 sent
+
+DİZİN
+
+Bollman, W. ve Şirketi, 91, 92
+
+Bollman, Wendel, 79, 80, 85, 88, 94
+
+Clark, John, 91
+
+Fink, Albert, 79, 91
+
+Grubenmann, Hans, 85
+
+Grubenmann, Johann Ulrich, 85
+
+Haupt, Herman, 96
+
+Knight, ----, 83
+
+Latrobe, Benjamin H., 82, 83, 85, 87
+
+Long, Stephen H., 85
+
+Meigs, M. C., 96
+
+Morris, Tasker ve Şirketi, 94
+
+Mount Clair mağazaları, 83, 89, 92
+
+Patapsco Köprüsü ve Demir İşleri, 92, 95
+
+Phoenix Demir İşleri, 92
+
+Pratt, Thomas W., 91
+
+Reeves, Samuel J., 92, 95
+
+Roebling, John A., 83, 90
+
+Savage Fabrikası, 88
+
+Stephenson, Robert, 90
+
+Tegmeyer, John H., 91
+
+Town, Ithiel, 85
+
+Wernwag, Lewis, 89
+
+Whipple, Squire, 79, 83, 87, 91, 95
+
+Whistler, George W., 83
+
+Winans, Ross, 83
+
+Wright, Benjamin, 83
+
+Robert M. Vogel'in Wendel Bollman'ın Mühendislik Katkıları adlı Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ENGINEERING ***
+
+***** This file should be named 33912.txt or 33912.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/9/1/33912/
+
+Produced by Colin Bell, Joseph Cooper, Louise Pattison and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
