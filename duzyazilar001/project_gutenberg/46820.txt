@@ -1,0 +1,1747 @@
+*** START OF AKTAHEADER ***
+Başlık: Experiments and Observations (Deneyler ve Gözlemler)
+Yazar: Richard Fowler
+Yayın Tarihi: September 9, 2014 [EBook #46820]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/46820
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Experiments and Observations Relative to
+the Influence Lately Discovered by M. Ga, by Richard Fowler
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+Title: Experiments and Observations
+Relative to the Influence Lately Discovered
+by M. Galvani and Commonly Called Animal Electricity
+
+Author: Richard Fowler
+
+Release Date: September 9, 2014 [EBook #46820]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EXPERIMENTS AND OBSERVATIONS ***
+
+*** START OF TURKISH PART ***
+Elizabeth Oscanyan ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu dosya The Internet Archive tarafından cömertçe sağlanan resimlerden üretilmiştir)
+
+Yazıcının Notu: Bu kitap, orijinal metinde italik olarak basılan öğelerin _bu_ gibi alt çizgilerle çevrelenmesi ve vurgu için küçük harflerle basılan öğelerin tümü büyük harflerle işlenmesi kuralını kullanır.
+
+DENEYLER
+
+VE
+
+GÖZLEMLER
+
+SON ZAMANLARDA M. GALVANI TARAFINDAN
+
+KEŞFEDİLDİĞİ VE
+GENEL OLARAK
+
+HAYVAN ELEKTRİĞİ OLARAK
+
+ADLANDIĞI
+ETKİYLE İLGİLİ
+
+R.
+
+RICHARD FOWLER TARAFINDAN.
+
+EDİNBURG:
+
+T. DUNCAN, P. HILL, ROBERTSON & BERRY VE G. MUDIE İÇİN BASILMIŞTIR; VE J. JOHNSON
+ST PAUL'S CHURCH-YARD, LONDRA.
+
+1793.
+
+----------------------------------------------------------------------------------
+
+ÖNSÖZ.
+
+Aşağıdaki deneylerin konusu, genel bir merak uyandırmıştır ki, bu konuyla ilgili her yeni gerçek, bir miktar
+tatmin sağlayabilir; ve sunduğum birkaç tanesi, birçok kişinin çok önemli olduğunu
+düşünebileceği sonuçlara beni götürmemiş olsa da, umarım tamamen dikkate değer bulunmayacaklardır. Deneyler, M.
+Galvani tarafından keşfedilen etkinin bilinen herhangi bir doğa yasasına mı yoksa kendisinin yeni bir yasa mı olduğunu saptamak amacıyla başlatıldı.
+
+Kasların kasılma gücünün çok küçük derecelerinin varlığını makul bir doğrulukla gösterdiğini, ancak elektrik ve diğer çoğu uyaranın asla yapmadığı gibi bu gücü en ufak bir şekilde azalttığını fark ettim; fizyolojideki bazı önemli konuların araştırılmasında bir test olarak kullanılabileceğini düşündüm; ve bu nedenle onu bu şekilde kullandım.
+
+Bu deneyler sırasında gözlemlenen her durum, gerçekleştiği anda dikkatlice not edildi ve bunların çoğu, doğruluğunun kendimden kaçabilecek herhangi bir yanılgıyı tespit edeceğini umduğum beyefendilerin huzurunda yapıldı. York'lu Bay George Hunter'a, böyle bir yardımı gerekli kılan hemen hemen her deneyde bana sağladığı çok samimi yardım için olan yükümlülüğümü ifade etmekten özel bir memnuniyet duyuyorum.
+
+Edin. _28 Mayıs_. }
+1793. }
+
+--------------------------------------------------------------------------------
+
+BÖLÜM I.
+
+_Bazı farklı Metallerin Hayvanlara Uygulanmasıyla
+ortaya Çıkan Olaylar
+Elektriğe atfedilebilir mi?_
+
+Bu keşiften önceki tüm koşullar dizisi,
+elektrikle ilişkisine dair inancın oluşmasına neden olma eğilimindeydi. Kesinlikle elektriksel olan bazı tesadüfi görünümler, yenilikleriyle, Bologna'daki Anatomi Profesörünün dikkatini, hayvanların hareketlerinin elektrik üzerindeki olası ama bilinmeyen bağımlılıklarının araştırılmasına; ve bu etkinin, özellikle felçli hastalıklarda, ister sinirlerin ister kasların düzensizliğinden kaynaklansın, insan vücudu üzerindeki şaşırtıcı etkilerine; hayvanların sıvılarının sudan daha iyi elektrik iletkeni olduğunu kanıtlayan deneylere yöneltti; ve "eğer bir elektrik
+şoku canlı bir hayvanın belirli bir bölümünden geçerse, aynı şok,
+hayvan öldükten sonra,
+parçanın yüzeyinden gözle görülür şekilde iletilecektir, ancak içinden iletilmez[1]:" ayrıca, _torpido_, _gymnotus electricus_ ve _silurus electricus_ gibi bazı hayvanların sahip olduğu, elektrik sıvısını istenildiği zaman toplayıp boşaltma gibi o eşsiz gücün anısı; ancak, her şeyden önce, yakın zamanda vatandaşı Cotugno tarafından anlatılan,
+bir farenin diseksiyon sırasında aldığı elektrik şokunun
+harika ama tek örneği;
+bu koşullar, Profesörün başarısına ilişkin beklentilerini biraz olsun iyimser hale getirmiş gibi görünüyor.
+
+Sonunda, yapay elektrik ile hayvanların istemsiz hareketleri arasındaki ilişkileri gösteren birçok yaratıcı ve ilginç deneyden sonra, mutlu bir kaza, o zamandan beri çok fazla merak uyandıran araştırmanın konusu olan ve ölümsüzlüğe _Galvani_ adını veren fenomenleri keşfetti. Bir gün, sırt omurgasından kancalanmış ve bahçesini çevreleyen demir palisadlara asılmış bazı kurbağaların sık sık ve istemsizce kasıldığını gözlemledi. Bu kasılmaların nedenini ayrıntılı olarak inceleyerek, hayvanları aynı anda birbirleriyle temas halinde iki farklı metalle dokundurarak bunları istediği zaman üretebileceğini keşfetti.
+
+Daha önce M. Galvani'yi meşgul eden bu tür gözlemler ve deneylerle hazırlanmış bir zihin için, bu yeni keşfin daha önce gözlemlediği olgulara olan benzerliği, bunların nedenlerinin özdeşliği konusunda bir kanaat oluşturmuş olmalı; ve o zamandan beri hem kendisi hem de Dr. Valli tarafından yapılan deneyler, bu görüşe azımsanmayacak derecede makullük kazandırdı. Bu deneylerin bazılarının tekrarlanması, bunlardan çıkarılan sonuçların meşruluğu konusunda şüphelerimi uyandırdı ve beni uzun uzadıya şu araştırmaya yöneltti. İlk hedefim, bu yeni fenomenlerin üretimi için esasen gerekli olan çeşitli koşulları ve bunların en belirgin hale getirilebileceği koşulları tespit etmekti. Burada sonuçtan daha fazlasını anlatmanın gereksiz olacağı çok çeşitli deneylerden sonra, Galvani'nin tarif ettiği görünümleri, metaller dışında herhangi bir maddeyle, ister katı ister sıvı olsun, bir hayvanda uyandıramayacağımı ve iki farklı metalin birbirleriyle karşılıklı temasının, belirleyebildiğim kadarıyla, her durumda etki için gerekli olduğunu gördüm. Metaller kalsine edildiğinde veya asitlerle birleştirildiğinde, artık kasılmayı uyaramazlar. Farklı metallerin uyarıcı olarak karşılaştırmalı güçlerini tahmin ederken, özellikle altın, gümüş, molibden, çelik veya bakırla temas ettiğinde çinkonun[2] açık ara en etkili olduğunu buldum, ancak bunlar yalnızca birbirleriyle temas ettiğinde zayıf kasılmalar uyarıyor. Çinkodan sonra, kalay folyo ve kurşun en iyi uyarıcılar gibi görünüyor. Ancak çinko ve altın, gümüş veya molibden ile, siniri kalay folyoyla donatarak ve iletken olarak başka bir metal kullanarak, genellikle deneyin yapıldığı şekilde, uyarılmaları sona erdikten bir günden fazla bir süre sonra, bir kurbağanın ayağında kasılmaları uyarmayı sıklıkla başardım. Metallerin büyük kısmı büyük olduğunda ve temas halinde oldukları bir hayvanın yüzey miktarı önemli olduğunda, bence kasılmalar bunun tersinin olduğu zamandan daha güçlü ve daha kolay uyarılır. Bu nedenle, küçük bir çinko parçası ve gümüş bir probun herhangi bir etki yaratmamasından çok sonra, geniş bir çinko levha üzerine koyarak ve bir uyarıcı olarak yarım taç parçası kullanarak neredeyse her zaman bir uzvun kasılmasını sağlayabildim. Kasılmaları uyarmak için, uyarılacak parçayla iletişim kuran iki farklı metalin birbirleriyle temas halinde olmasının gerekli olduğuna inanıyorum. Bunun tersini kanıtlayan birkaç örnek gözlemlendi. Geçtiğimiz Ekim ayında Londra'dan Dr. Baillie'nin Galvani'nin keşfinden bahsettiği bir konferansta, sanırım, sadece bir metalin uygulanmasıyla iki veya üç kez kasılmalar meydana getirdiğini söylediğini hatırlıyorum: ve Dr. Valli, bu konu hakkındaki 9. mektubunda, kötü çelikten yapılmış bir makasla ve yakın zamanda öldürülmüş bir kurbağada aynı şeyi yaptığından bahsediyor. Bu durumlarda fark edilmemiş bir yanılgı olabileceğini düşünüyorum. Bir gün, gümüş bir kutudan kaydırılan küçük bir altın kürdanla bir kurbağanın bacak sinirine dokundum ve bacak anında kasıldı; tekrar dokundum ve tekrar kasıldı. Başka bir zamanda, bir sinire gümüş bir kanülle dokunduğumda ve başka bir zamanda bir gümüş zincirin kıvrımlarına bir kanül yerleştirdiğimde kasılmalar gözlemledim. Tüm bunlar o zamanlar, bir metalin uygulanmasından kaynaklanan çok sayıda kesin kasılma örneği gibi görünüyordu, ta ki sonraki deney farklı bir açıklama sağlıyormuş gibi görünene kadar. Gümüş bir probun bir ucunu, yüzeyden birkaç santim aşağıda suda yatan bir kurbağanın siyatik sinirine yerleştirdikten sonra, hiçbir kasılmanın olmadığını gözlemledim, ayrıca probun yüzeyin üstündeki kısmına bir çinko parçasıyla dokunduğumda da olmadı. Ancak yüzeye dokunduğumda, böylece hem çinko hem de gümüş suyla temas halindeyken, çinko aynı anda kurbağadan birkaç santim uzakta olmasına rağmen, kasılmalar eşit derecede şiddetliydi, sanki her iki metal de kurbağayla hemen temas halindeymiş gibi. Artık altın kürdanın ürettiği kasılmaları açıklamakta zorluk çekmiyordum, çünkü hem o vakanın hem de ilgili deneyin koşulları muhtemelen aynıydı, birbirleriyle temas halinde olan iki metal. Sinirle hemen temas halinde olan altın; ve onunla iletişim kuran gümüş kasa ve kaslar, belki de bütünün çevrelendiği
+nem ortamı aracılığıyla.
+Bu beni zinciri ve kanülü incelemeye yöneltti. Birinin hem halkalarını hem de diğerinin yanlarını farklı bir
+metalle lehimlenmiş olarak buldum[3]. Yani, bu durumlarda, iki metal aynı anda bir sinirle, nemle ve birbirleriyle temas halindeydi.
+
+Ancak bu, kasılmaları uyarmak için iki farklı metal arasında karşılıklı temasın gerekliliğiyle ilgili olabilir, uzun zaman önce, bir hayvanda, onunla temas halinde olan birden fazla metal olmadığında bile kasılmaların uyarılabileceğini
+buldum[4].
+
+Bu gerçeği ilk fark ettiğimde, bir bacakta kasılmaları uyaran etkiyi, ondan biraz uzakta olan ve onunla iletişim kuran bir başkasına, yalnızca tek bir iletken madde (örneğin gümüş) aracılığıyla iletmenin mümkün olup olmadığını belirlemek için deneyler yapıyordum. Bu amaçla,
+yakın zamanda öldürülmüş bir kurbağanın arka bacaklarını gövdeden ve birbirlerinden ayırdım ve sinirlerini dizlerine kadar söktüm.
+Daha sonra onları birbirlerinden biraz uzakta, bir cam tabak üzerine koydum ve bir bacağın sinirini ve diğerinin ayağını gümüş bir zincirin katlanmış uçlarına dahil ettim. Bir elimle, gümüş bir probun ucundaki kaslardan, ayağı zincire katlanmış olan bacağın sinirini kaldırdım; ve diğer elimdeki bir parça çinkoyla, aynı anda sinire ve proba dokundum. Bu bacak güçlü kasılmalara girdi; ancak diğerinde hiçbiri uyarılmadı. Sonra zincire ve diğerinin sinirine dokundum ve şaşırtıcı bir şekilde, her iki bacak da anında kasıldı. Geçtiğimiz
+Kasım ayının başında, metallerin kaslarda kasılmaları uyarmak için sinir dışında herhangi bir şeyle temas halinde olmasının gerekmediğini gözlemlemiştim; ve bu gerçeği hemen ardından, Dr. Valli'nin Galvani'nin keşfinden oluşturduğu teorinin yeterli bir çürütmesi olarak buradaki Tıp Derneği'ne bildirmiştim. Bu nedenle, bir çinko parçasının ve probun sinirle karşılıklı temasıyla uyarılan etki, ilk olarak kasılmaları uyardığı bacaktan zincirin
+ortamından geçerek uzaktaki bacakta kasılmalar üretseydi, beklentilerimi aşmazdı. Ancak, şimdi etkiyi yalnızca bir bacaktan diğerine değil, aynı zamanda sinirlerinin seyrine ters yönde bir bacaktan birine geçirdiğimi düşündüm. Siniri zincirle iletişim kuran bacağın çıkarılması, beni
+yanlışlığım konusunda ikna etti: ancak aynı zamanda, daha önce aşina olduğum herhangi bir şeyden çok daha büyük bir gerçeği keşfettim. Şimdi, sadece çinkoyla zincire dokunduğumda, hala ayağını da içerdiği ve sinirini bir proba asılı tuttuğum bacağın, daha önce olduğu kadar güçlü bir şekilde kasıldığını gördüm. Diğer bacağın siniriyle temas halinde olan iki metalin etkisi, bu nedenle, buna geçmemiş ve onu uyarmamıştı.
+
+Başından beri, kasılmaların, biri sinirle, diğeri kaslarla olmak üzere iki farklı metalin temas ettirilmesiyle ve aralarında bir iletişim kurulmasıyla uyarılabileceği biliniyordu: ancak bu
+deneyde, sinirle veya kasla temas halinde olan tek metal gümüştü. Etki, çinko ile ayak arasında ve gümüş zincirle ayak arasında nem yoluyla bir iletişim olması sonucunda, zincirden geçmemiş ve bacak boyunca sinirin seyrine karşı yukarı çıkmamıştı; çünkü zincir çıkarıldığında ve ayak tamamen kuru bir gümüş tabağa konulduğunda deney eşit derecede başarılı oldu. Ancak, çinko veya prob benimle iletişim kurmayan başka bir kişi tarafından tutulduğunda; veya bunlardan herhangi biri bir mühür mumu çubuğuyla yalıtıldığında; hiçbir şekilde kasılma gerçekleşmedi. Aslında, prob sinirden çekildiğinde, ayak hariç, bacağın hiçbir yerinde kasılmalar uyarılmadı; ve ayak ve gümüş her ikisi de çinko ile temas ettirildi. O zaman, önceki durumda tüm bacağı kasılmaya teşvik eden etkinin, vücudumun ortamından geçmiş olması gerektiği açıktır. Gümüşün ayağın altına serilmesi gerekmez; gereken tek şey, onunla nem yoluyla iletişim kurmasıdır; daha sonra neredeyse ondan herhangi bir mesafeye serilebilir[5].
+
+Ancak, bu etkinin seyri henüz belirsizdi: kaslardan sinire olabilir: sinirden kaslara olabilir. Bunu tespit etmek ve bir uzvu kasılmaya teşvik eden etkinin, yabancı bir ortamdan geçip başka bir uzvu kasılmaya teşvik edebileceğini kanıtlamak için şu deneyi yaptım.
+
+Bir kurbağanın bacağı, önceki deneydeki gibi yerleştirildi. Siniri askıya alan prob benim tarafımdan tutuluyordu; çinko uyarıcı başka bir kişi tarafından tutuluyordu; ve başka bir kurbağanın bacağı aramızdaki iletişimi oluşturuyordu. Siniri tuttuğum ve bana yardım eden kişi bu araya giren bacağın ayağını tuttuğu sürece, içinden geçen ve diğer bacağı uyaran etkiyle, sinirde hiçbir kasılma uyarılmadı. Ancak çinkoyu tutan kişi araya giren bacağın sinirini tuttuğunda; ve ben ayağı tuttuğumda, her iki bacak da eşit
+güçle kasıldı. Bu deneyden, Galvani'nin etkisinin
+ya kaslardan ya da çinko ve gümüşten geçtiği; ve her iki bacağın sinirlerinin doğrudan
+yolunda olduğu açıktır.
+
+Artık bu yeni etkiye geçiş sağlayan veya sağlamayan farklı maddeleri tespit etmenin kolay bir yöntemine sahiptim.
+
+Saf olduklarında tüm metaller mükemmel iletkenler gibi görünüyor; cevherdeyken pek de iyi değiller; ve bence asitlerle birleşip metalik tuzlar oluşturduklarında en azından öyleler. Ancak, bu durumda, yüzeylerine en ufak bir nem yapışmasına dair şüphe bırakmayacak kadar dikkatli bir şekilde kurutulduklarında bile, kesinlikle kötü iletkenler değillerdir. Ancak metaller kalsine edildiğinde, iletken olarak kapasiteleri tamamen yok olur: en azından bu,
+çinko, bizmut, demir ve cıva kalsları için geçerliydi; deneyi yapma fırsatı bulduğum tek kalslar bunlardı. Taşlar aracılığıyla veya baritler aracılığıyla hiçbir kasılmanın uyarıldığını gözlemleyemedim.
+
+Elektriğin farklı iletken olmayanları da aynı şekilde bu etkiyi iletmeyenlerdir: odun, kömür ve keten bile
+ıslanmadıkları sürece iletken değildir.
+Ancak elde edebildiğim tüm canlı sebzeler ona hazır bir geçiş sağladı: muhtemelen
+içerdikleri sıvılardan. Siniri destekleyen probu tutarken,
+kurbağanın ayağının altındaki gümüşe çinko uygulayan bir beyefendinin ayakkabısına dokundum. Güçlü kasılmalar uyarıldı, ancak
+ayakkabısını çıkardığında ve ellerimizin arasında tuttuğumuzda, hiçbir kasılma uyarılmadı. İlk durumda, etki ayakkabının kalınlığından daha fazla geçmemeliydi: ikinci durumda, eşit derecede nemli olmayabilecek tüm uzunluğu boyunca. Bu beyefendinin
+iplik çorapları vardı. Pamuklu çoraplar
+giyen bir başkasının ayağına dokunduğumda, hiçbir kasılma olmadı. Pamuk, elektriği
+iletmez.
+
+Her türlü yağ, iletken olmaktan o kadar uzaktır ki,
+probu veya çinkoyu tutan kişinin parmakları çok terlemişse,
+bu bile etkinin geçişine tam bir engel olarak işlev görür: terli madde silindiği ve
+parmaklar suya batırıldığı anda, tekrar geçer ve kasılmaları
+uyarır. Bir kurbağanın bağırsakları çıkarıldığında ve
+karnı yağla doldurulduğunda,
+bir metali siyatik sinirlerinin üzerine yerleştirip,
+diğerini yağın yüzeyinin üstünde veya altında temas ettirerek hiçbir kasılma meydana getirilemez.
+
+Bu konuda, cıva ile ilgili olarak, tuhaf bir şey var.
+Bir kurbağanın
+karnı onunla doluysa,
+içinden geçirilen bir parça çinko, siyatik sinirlerine dokunacak şekilde kasılmaları harekete geçirir. Fakat
+onlara geçirilen bir parça gümüş, kasılmaları harekete geçirmez.
+Cıvanın yüzeyinin altındaki gümüşe bir parça çinkoyla
+dokunmakla da hiçbiri harekete geçmez. Fakat daha önce, cıva yerine su kullanıldığında, kasılmaların bu şekilde harekete geçebileceğini göstermiştim; yine de
+cıva, sudan çok daha iyi bir elektrik iletkeni olarak kabul edilir.
+Bu etkiyi, ince pirinç telden yapılmış büyük bir uzunluktan ve aralarındaki su dolu leğenlere parmaklarını batırarak birbirleriyle iletişim kuran beş kişinin vücudundan defalarca geçirdim; ancak bu uzun ve dağınık geçişte gücünden hiçbir şey kaybetmiş gibi görünmüyordu: çünkü kurbağanın bacağında oluşan kasılmalar
+sadece bir kişiden geçmiş gibi eşit derecede güçlüydü.
+Vitriol asidi ve alkol, sudan daha iyi iletkenler gibi görünüyor.
+
+Yüzeyin üzerinden mi yoksa metallerin
+maddesinden mi geçtiğini tespit etmek isteyerek, farklı metallerden yapılmış birkaç çubuğu
+mühür mumuyla kapladım, sadece uçlarını, yani tutundukları yerleri
+açıkta bıraktım. Kasılmalar,
+bunların medyası aracılığıyla, sanki kaplanmamışlar gibi kolayca uyarıldı. Birkaç zincirin bir halkadan diğerine geçerken, kendi ağırlıkları dışında hiçbir basınç kullanılmasa bile, hiçbir engelle karşılaşmıyor gibi görünüyor.
+Bundan, onu çok ince bir hava tabakasından geçirebileceğim umuduna kapıldım. Bu nedenle, bir
+mühür mumu çubuğunu bir kalay folyo tabakasıyla kapladım ve sonra keskin bir kalem bıçağıyla neredeyse fark edilmeyecek bir bölme yaptım. Ancak iletkendeki bu süreklilik kesintisi bile, onun geçişini etkili bir şekilde engellemek için yeterliydi.
+
+En kolay geçtiği zincirler, altın ve gümüştü. Çok uzun ve ince bir pirinç zincirden geçemezdi,
+ancak zinciri kırmadan, halkalarını yakın temasa getirmek için
+kullanılabilecek en fazla kuvvet kullanılmadığı sürece.
+
+Daha sonra farklı maddelerin iletken veya iletken olmayan kapasitelerinin sıcaklıklarındaki farklılıklardan etkilenip etkilenmediğini incelemeye devam ettim. Ancak bu, deneyi denediğim tek maddeler olan çinko, demir, su, kömür veya ortak bir pota için geçerli değildi. Kızgın bir demir ve kaynar su, ısıtılmamış demir ve su kadar iyi iletkenlik gösterdi: ve ne pota ne de kömür, herhangi bir ısı eklenmesiyle iletken oldu.
+
+İlk başta buzun iletken olduğunu düşündüm; ancak bazı denemelerde, ortamından hiçbir büzülme uyarılmadığı ve yüzeyinin kuruluğuna göre düzgün bir şekilde kötü iletkenlik gösterdiği için, tamamen kuruysa hiç iletkenlik göstermeyeceğinden şüpheleniyorum.
+
+Yüzeyinin bir kısmı odanın ısısıyla çözüldüğü anda, büzülmeler genellikle bir su leğeninden geçerken olduğu gibi kolayca uyarıldı. Bu nedenle, Dr. Valli'nin iddia ettiği gibi, ne çok sıcak ne de çok soğuk su bu etkiyi dağıtmaz ve kasılmaları üretme gücünü en ufak bir şekilde azaltmaz[6].
+
+Genel olarak, bu etkinin kasılmaları harekete geçirmek için çok yoğun bir halde bir parçaya geçmesinin gerekli olduğu görülmektedir: ancak, düşünmeden, dağınık bir halde bile geçse, onları harekete geçireceğini varsaymaya yol açabilecek bazı gerçekler vardır. Bir kurbağanın ayağının altındaki çinko parçasının çinko ile temas ettirildiği ve krural sinirinin gümüş bir prob ile desteklendiği bu deneyi yaparken; prob uyluk kaslarıyla temas edecek şekilde alçaltıldığında veya ayağın altındaki gümüşe temas ettirildiğinde hiçbir kasılma gerçekleşmez.
+
+Tekrar, biri sondayı, diğeri çinkoyu tutan iki kişi,
+işsiz ellerini bir
+havuzun içine daldırarak birbirleriyle iletişim kurarlarsa; ve çinkoyu kullanan kişi, suyun yüzeyinin altındaki sinirinden parmaklarının arasında asılı duran bir kurbağanın diğer bacağını tutarsa; diğerinin altındaki gümüş çinkoyla temas ettiğinde, aynı anda diğerinde güçlü olanlar uyarıldığında, bu bacakta hiçbir kasılma meydana gelmeyecektir. Ancak, siniri suyun yüzeyinin üzerine çıkarılırsa, o zaman diğeri kadar canlı bir şekilde kasılır. Görünüşe göre, bu örneklerin sonuncusunda, en azından etkinin büyük bir kısmı, onu tutan kişinin parmaklarından doğrudan sinirden geçmek yerine, sudan yayılmış ve her ikisinde de bacaklara, onları kasılmaya
+uyaracak kadar yayılmış bir durumda geçmiştir.
+
+Ben de sık sık gözlemledim ki, neredeyse bitkin bir kurbağa bacağının siniri bir çinko parçasının üzerine konulduğunda ve her ikisi de gümüşle temas ettirildiğinde, uyarılan kasılmalar çok belirgindi:
+Ancak çinko, kasla ve sinirle temas ettirildiğinde, ya hiç kasılma uyarılamıyordu ya da o kadar zayıftı ki neredeyse algılanamıyorlardı. Ancak kasılmalar, kesinlikle, kurbağanın farklı kısımlarında, derisinde herhangi bir bölünme yapmadan, uyarılacak kurbağa kısmını bir çinko veya kalay folyo üzerine koyarak ve üzerinden bir parça gümüş geçirerek, üçü de birbiriyle temas edene kadar uyarılabilir[7]. Yine de burada bile etki, ilk bakışta göründüğü gibi, parçaya bu kadar dağınık bir halde geçmez. Çünkü bu hayvanların derileri, gövdeleri farklı yerlerde kasları besleyenlerle iletişim kuran sinirlerle bol miktarda beslenir. Ve kasılmalar, gümüş, kaslara giden herhangi bir sinirin üzerinden geçirildiğinde her zaman en güçlü ve en kolay şekilde uyarılır.
+
+Daha önce bahsettiğim bir olgudan, metallerin siniri dışında hiçbir kısmıyla görünürde hiçbir iletişimi olmadığında, bir uzvun kasılması sağlanabilir; kaslar, sinirler ve metaller arasında bir iletişimin, kasılmaların uyarılması için gerekli olup olmadığı makul olarak şüpheli olabilir.
+
+Ancak, birkaç düşünce, böyle bir iletişimin kesinlikle gerekli olduğuna inanmama neden oluyor. İki farklı metalin teması tek başına kasılmaları uyarmak için yeterliyse; kasılmalar, metaller ve sinir arasına iyi bir iletken yerleştirildiğinde her zaman gerçekleşmelidir.
+Ancak, hiçbir durumda, bunun böyle olduğunu gözlemlemedim.
+Krural sinirin bir gümüş prob üzerine desteklenmesi gereken deneyde, çinkonun temas ettirildiği gümüş parçasının, herhangi bir kasılma gerçekleşmeden önce, ya hemen ya da iyi bir iletken ortam aracılığıyla, ayak veya bacak kaslarıyla iletişim kurması gerekir. Ve hatta suyun metaller arasındaki tek iletişimi ve siyatik sinirlerin kökenini oluşturduğu deneyde bile, aynı suyun, metaller ve bu sinirlerin dağıtıldığı kaslar arasında da bir iletişim oluşturduğu gözlemlenmelidir. Ancak bana bu soruda en belirleyici görünen gerçek şudur: Bir süredir çevresindeki parçalardan ayrılmış bir sinir, ya ince bir muslin parçasıyla dikkatlice tamamen kurulanırsa ya da (bunun yapısına zarar verdiği düşünülmesin diye) nemi buharlaşana kadar askıda kalmasına izin verilirse; dağıtıldığı kaslarda, birbirine temas eden iki metalle tek başına temas ettirilerek hiçbir kasılma uyarılamaz. Ancak, tekrar birkaç damla suyla nemlendirilirse, kasılmalar anında gerçekleşir: ve bu şekilde, siniri dönüşümlü olarak kurutup nemlendirerek, kasılmalar, istendiğinde, dönüşümlü olarak askıya alınabilir ve önemli bir süre boyunca yenilenebilir. Gerçekten de, nemin yumuşadığı ve böylece, sinirin gövdesini oluşturan lifleri çevreleyen kurumuş hücre zarına elektrik ve serbest genişlemeyi geri kazandırdığı; ve böylece, kısıtlamayı ortadan kaldırarak, bunların organizasyonuna serbest hareket kazandırdığı iddia edilebilir[8].
+
+Ancak, kasılmaların metallerin karşılıklı temasıyla üretildiği her diğer durumda, bunlar ile kaslar arasında ve ayrıca bunlar ile sinir arasında bir iletken maddenin yerleştirildiğini gözlemleyerek; söz konusu durumda, sinirin yüzeyine yapışan nemin, metaller ile kaslar arasında gerekli iletişimi oluşturduğunu kabul etmemenin felsefi olmayacağını düşünüyorum.
+
+Bu noktada şu gerçeği aktarıyorum, çünkü bu aynı zamanda yukarıdaki görüşü daha da doğrularken, yalıtımın metallerin etkisini azalttığına dair bir örnek de sunuyor. Bir gün, neredeyse bitkin bir kurbağa bacağını elime koymuştum, sadece sinirine bir parça çinko temas ediyordu; ve bunlara gümüş bir probla dokunduğumda, sinir kuru görünse bile, oldukça güçlü kasılmalar meydana geliyordu: ancak hem bacak hem de bu şekilde yerleştirilmiş metaller, cam ve sızdırmazlık mumuyla yalıtıldığında, kasılmalar neredeyse fark edilemiyordu. Görünüşe göre, elim, bu durumlarda, diğerindeki nemin yerini dolduruyordu; ve kaslar ile metaller arasında iletken ortam oluyordu.
+
+Kasların sinirle, metaller aracılığıyla bu şekilde iletişimi, Dr. Valli'ye, Galvani'nin fenomenlerinin üretimi için o kadar önemli bir durum gibi görünmüştü ki (elektrik sıvısının etkisiyle meydana geldiklerini varsayarak), bunları açıklamak için sunduğu hipotezi öne sürmüş gibi görünüyor.
+
+Hiçbir elektriksel olayın, pozitif ve negatif elektriğin zıt durumları arasında veya başka bir deyişle, elektrik sıvısının dağılımında bir denge ihlali olduğu
+yer dışında mümkün olamayacağının farkındadır; sinirlerin bir görevinin, sürekli olarak kasların iç kısımlarından elektrik sıvısını pompalayarak (kendi ifadesini kullanmak gerekirse) ve bu şekilde onları dış yüzeye göre negatif hale getirerek bu denge ihlalini üretmek olduğunu varsayar. Beyni, bu sıvı için ortak bir kap haline getirir. Metalleri, kasların dışı ile sinirleri arasında bir iletken olarak düşünür. Ve kasılmaların nedeni olarak, sıvının dengeyi yeniden sağlamak için hızlı bir şekilde iletilmesi.
+
+Hipotezinin aşağıdaki düşüncelerden kanıtlandığını varsayar:
+
+I. Kasılmalar arasında genellikle gerçekleşen aralık;
+ona göre, bu aralık, denge ihlalinin yeniden sağlanması için gereklidir.
+
+II. Balıkçıların balıklarını çürümekten korumak için beyinlerini ezdiklerini ve böylece kasların dış ve iç yüzeyleri arasındaki ortamı keserek, Dr. Valli'ye göre çürümelerini hızlandıran elektrik sıvısının tekrarlanan deşarjlarını engellediklerini gözlemleyerek.
+
+III. Genel olarak, canlı bir kurbağanın bir tarafındaki siyatik siniri
+bölündüğünde, diğer tarafı bütün bırakıldığında, hem silahlı hem de eşit derecede uyarılmış beyinle iletişim kurduğunda, sinirin bölündüğü uzvun diğerinden daha uzun süre kasılma gücünü koruduğunu
+bularak. Bu iyi tasarlanmış deneyden, aynı şekilde, hayvan elektriğinin yaşamın ilkesi olduğu sonucuna varmıştır. Sinirin bütün kaldığı tarafta, kaslardan çekilip beyne bırakılmıştır. Sinirin bölündüğü diğer tarafta bunun gerçekleşmesinin imkansızlığından, uzuvda devam etmiş ve kasılmasını sağlamıştır.
+
+Bir zamanlar inandığım gibi, metallerin bir sinir aracılığıyla dışında herhangi bir iletişimi olmadan bir uzuvda kasılmaların uyarılabileceği tartışmasız bir şekilde doğru olsaydı; bu durum tek başına Dr. Valli'nin hipotezini çürütmek için yeterli olurdu: ancak, daha önce gösterdiğim gibi, kasılmalar, metaller ve kaslar arasında bir iletişim oluşturan hiçbir nem sinirin yüzeyine yapışmamışken yaptığım hiçbir deneyde bu şekilde üretilmedi, daha az şüpheli argümanlara başvurmak gerekli hale gelir. Dr., elektrik sıvısının dağılımında denge ihlali durumunda, dağılım eşitliğini yeniden sağlamak için gereken tek şeyin, bol olduğu yerle eksikliği olan yer arasına tek bir iletken maddenin sokulması olduğunu hatırlamalıydı. Oysa, açıklamaya çalıştığı olguda, etki için iki iletken madde gereklidir. Ayrılmış bir uzuv suyun altına yerleştirildiğinde, doğal olarak, kasların ve sinirlerin dış yüzeyleri arasında oluşan mükemmel iletişimden, hiçbir denge ihlalinin meydana gelmeyeceğini hayal ederdik: yine de Galvani'nin fenomenlerinin, hem kasların hem de sinirlerin çevredeki nemden arınmış olduğu durumdan daha kolay bir şekilde bu durumda üretildiğini görüyoruz.
+
+Aşağıdaki deney, kurbağaların farklı kısımlarındaki elektrik sıvısının dengesini mümkün olduğunca mükemmel hale getirmek amacıyla yapılmıştır.
+
+Bir kurbağanın başı gövdesinden ayrılmışken, ikincisi, bir elektrik makinesinin ana iletkeniyle iletişim kuran yalıtımlı bir sandalyede oturan bir kişi tarafından tutulan bir çinko plakanın üzerine yatırıldı. Makine harekete geçirildi ve hem kişi hem de kurbağa pozitif olarak elektriklendi. Bu koşullar altında, onu tutan kişi tarafından kurbağadan kıvılcım çıkarılamazdı: aralarında başka bir elektriksel görünüm de gerçekleşemezdi. Ancak, bir gümüş parçası kurbağanın farklı kısımlarının üzerinden geçirildiğinde ve aynı zamanda çinko levhayla temas ettirildiğinde, kasılmalar tekdüze bir şekilde uyarıldı ve yapay elektrik olmadığında uyarılmış olanlardan ne güç ne de frekans olarak en ufak bir şekilde farklı olmadı. Sonuç, kurbağa ve onu tutan kişi negatif olarak elektriklendirildiğinde tam olarak aynıydı. Bu deney sık sık tekrarlandı. Aşağıdaki deney, bir kurbağanın vücudunun herhangi bir kısmından yapay elektrik geçirilerek kurbağada oluşan etkinin, iletken olarak iki farklı metal kullanılarak artırılıp artırılmayacağını görmek için yapıldı. Bir kurbağa, cam üzerine yalıtılmış bir dizi farklı metalin üzerine ardışık olarak yatırıldı ve bir elektrik makinesinin ana iletkeniyle iletişim kurarak pozitif olarak elektriklendirildi. Kurbağada, üzerine yerleştirildiği metallerden farklı metallerle kıvılcımlar çekilerek oluşturulan kasılmalar, aynı metalden iletkenlerle benzer kıvılcımlar çekilerek oluşturulan kasılmalardan daha güçlü değildi.
+
+İki zıt elektrik arasında, örneğin yüklü bir şişenin iki tarafı arasında bir iletişim kurarken, iletkenin önce hangi
+elektriğe
+uygulandığı önemli değildir. Ancak kaslar ve silahlı sinirler söz konusu olduğunda durum kesinlikle böyle değildir. Çünkü, bir iletkenin bir dalı, diğer dal kaslara uygulanmadan önce, bir siniri silahlandıran kalay folyoya uygulanırsa, sıklıkla kasılmaları
+uyaramaz. Önce kaslara uygulanırsa, bu çok
+nadiren olur.
+
+Kasılmalarla dönüşümlü olarak gerçekleşen ve Doktorun, kasların iç yüzeyleri ile dış yüzeyleri arasındaki dengenin
+bozulmasını
+geri getirmek için sinirler tarafından kullanıldığını düşündüğü dinlenme aralıklarına gelince; bunlar muhtemelen farklı bir açıklamaya izin verebilir.
+
+Bunları, ne kadar heyecanlı olursa olsun, kasılmalarla dönüşümlü olarak buluyoruz. Şiddetli kasılmaların, kas liflerinin samimi organizasyonunu bir dereceye kadar, ne kadar hafif olursa olsun, bozmaması gerektiğini kavramak zordur: ve elastikiyetlerinin, kendilerini oluşturan organize parçacıkları, tekrar kasılmaya uygun hale getirecek şekilde, birbirlerine göre göreceli duruma geri döndürmesi için mutlaka bir süre geçmesi gerekir.
+
+Bu açıklama, aşağıdaki gerçeklerin gözlemlenmesinden çıkarılmıştır.
+Canlı göğüsten alınan ve güçlü bir uyaranın etkisine maruz bırakılan kalpler, bir süre canlı bir şekilde kasılır ve sonra herhangi bir başka uygulamayla etkilenmeyi bırakır. Daha sonra uyarandan çıkarılırlarsa ve bir süre soğuk suya veya açık havaya yerleştirilirlerse, uyaranların etkisine karşı duyarlılıklarını yeniden kazandıkları ve tekrar kasıldıkları gözlemlenmiştir. Bay Coleman, Askıda Solunum üzerine yazdığı mükemmel tezinde, sık sık doğrulama fırsatı bulduğum bir gözlemde bulunuyor: Kanla şişmiş ve yüzeyleri sivri uçlu bir aletle çizilerek kasılma sağlanamayan kalpler, büyük damarlardan biri, onlardan biraz uzakta kesilerek kanın bir kısmı boşaltılırsa kendiliğinden kasılır. Bu durumda, düzen, onu bozan uyaranın (gerginliğin) ortadan kaldırılmasıyla düzelir. Hatta, canlı ve tüm hayvanda bile, kalp ilk kan akışında kasılmalarını yenilemez. Önceki kasılmanın neden olduğu bozukluktan kurtulması için bir süre geçmesi gerekir.
+
+Üç günden fazla bir süre önce başı gövdesinden ayrılmış bir kurbağanın bacağında çinko ve gümüş kullanarak kasılmalar meydana getirdim. Elektrik sıvısı için olan kap, bu durumlarda
+çıkarılmıştır. Şimdi, sinirler ya onu kasların iç kısımlarından çıkarmaya devam etmiştir ya da çıkarmamıştır. Eğer çıkarmışlarsa, artık elektriklerini depolayabilecekleri bir kapları olmadığından, pozitif olarak elektriklenmiş kalmış olmalılar; ve böylece,
+kasların dış yüzeyiyle aynı durumda olduklarından, hipoteze göre, metallerin uygulanmasıyla hiçbir kasılma uyarılmamış olmalıdır. Ancak bu gerçeğe aykırıdır.
+
+Öte yandan, pompalama güçlerinin
+durduğu iddia edilirse; o zaman kasılmaya neden olan metallerin ilk uygulaması, daha sonra bozulamayan dengeyi yeniden sağlayarak, daha fazla kasılma olasılığını engellemiş olmalıdır. Ancak bu da gerçeğe aykırıdır.
+
+Bana göre bu argüman, daha önce alıntılanan, metalleri her iki siyatik sinire, biri bölündükten sonra eşit olarak uygulama deneyinden türetilmiş gibi görünen hipotezin tüm desteğini ortadan kaldırıyor; ancak şunu belirtmeliyim ki, beyinle iletişimi kesilmemiş bir siniri silahlandırmanın zorunlu olarak uyandırdığı ağrı, bu kadar güçlü bir ek uyaranla harekete geçirilmemiş kaslara kıyasla, ait olduğu kasların daha hızlı tükenmesini tamamen açıklayacaktır. Ancak, gerçek her zaman argümandan daha tatmin edici olduğundan, yukarıdaki gözlemin alakalılığını kanıtlamak için aşağıdaki kazara deneyi anlatacağım.
+
+Yumurta dolu bir dişi kurbağanın krural sinirini böldükten dört gün sonra onu ölü buldum; bir önceki gece canlı olarak gözlemlenmişti. Siniri bölünmemiş olan bacağa metallerin uygulanması en ufak bir kasılmaya neden olmadı, ancak sinirin bölündüğü bacağa uygulandığında, bulunduğu andan itibaren on iki saatten fazla bir süre boyunca oldukça güçlü kasılmalar uyarılabilirdi. Yumurtlama mevsimi, bu olaydan bir haftadan fazla bir süre önce sona ermişti ve bu kurbağa uzun süredir ona yardım edecek bir erkekten yoksun olduğu için, ölümünün, çok çözünmüş bir halde bulunan yumurtasının tutulmasından kaynaklanmış olması muhtemeldir. Böyle bir ölümden önce gelen acı, hayvanın farklı kısımlarını yalnızca sinirleri aracılığıyla etkileyebilirdi; ve bu nedenle sinirler aracılığıyla iletişimin kesildiği kısım, bu etkilerden muaftır. Aynı gözlem, Dr. Valli'nin hipotezini desteklemek için balıkçıların uygulamalarından çıkardığı argüman için de geçerli olacaktır. Beyni yok ederek, tüm acı hissini ortadan kaldırırlar ve
+sonuç olarak, çürümeye yol açmasıyla meşhur olan o bitkinliği engellerler.
+
+Bu nedenle, Galvani tarafından keşfedilen fenomenlerin elektriğin etkisinin etkileri olduğu
+kanıtlanırsa, Dr. Valli'nin hipotezinin bunları üretme biçiminin tatmin edici bir açıklaması olarak kabul edileceğini sanmıyorum. Ancak, bu etkinin birçok ayrıntıda elektriğe yaptığı benzetme ne kadar güçlü olursa olsun, bence, kimlikleri konusunda hala önemli şüpheler var.
+
+Bu şüphelerin temelleri, bu etki, elektrik ve torpido, gymnotus ve silurus'u ayıran güç arasındaki hem benzerlik hem de farklılık noktalarının doğru ve eksiksiz bir şekilde ifade edilmesiyle en iyi şekilde ortaya çıkacaktır; ancak, burada bunların çok
+eksik ve dağınık bir taslağından daha fazlasını vaat edemem.
+
+Yapay elektriği biriktirmek için, eğer böyle bir ifade kullanmama izin verilirse, iki madde, bir elektrik ve bir iletken arasında hareket olması gerekli görünüyor. Ancak,
+ne hareketin ne de elektriklerin söz konusu olguya neden olan o etkiyi üretmede hiçbir payı yoktur. Buradaki hareket, birikimin nedeni değil, sonucudur: ve herhangi bir türde tek bir iletken madde yerine, iki metalik madde
+vazgeçilmez bir şekilde gerekli görünmektedir[9].
+
+Torpidonun, vb. sahip olduğu etki, her ne olursa olsun, tamamen bu hayvanların iradesine bağlı gibi görünmektedir, hem üretimi hem de yönetimi için, sadece şok vermek istediklerinde gözlerini yuvalarına çekmelerinden değil, aynı zamanda her şokun artmasından, azalmasından veya engellenmesinden, tahriş olmalarından veya iletiminde bir engel olduğunun farkında olmalarından da anlaşılmaktadır. Ancak bir hayvanın iradesinin, Galvani tarafından keşfedilen fenomenlerin üretiminde hiçbir payı yoktur.
+
+Elektrik iletkenleri ölçeğinde, kömür hayvan vücutlarının sıvılarından ve buz da metalik tuzlardan daha yüksek bir yere sahiptir. Ancak söz konusu etkiyle ilgili olarak, hayvansal sıvılar ve metal tuzları gibi mükemmel iletkenler buldum, ancak bunların kömürden veya hatta kurutulmuş tahtadan geçtiğini hiç gözlemlemedim. Aynı şekilde, buzdan geçmediğine inanmak için de nedenlerim var. Buz,
+gerçekten de, hava kabarcıklarından arındığında ve deneyler çok düşük bir sıcaklıkta yapıldığında, elektriğin çok
+kusurlu bir iletkenidir. Yine de Bay Achard, Reaumur Termometresi 0'ın 6 derece altında olduğunda bile elektriği ileteceğini söylüyor.
+
+Ancak deneylerimi yaptığım odanın sıcaklığı, Fahrenheit ölçeğine göre 0'ın en az 55 derece üzerindeydi. Ayrıca, okuyucuya bir kurbağanın karnının cıva ile doldurulduğu ve içinden siyatik sinirlerine bir gümüş çubuğun geçirildiği deneyi hatırlatabilirim. Hem cıva hem de gümüşe değen bir çinko parçası hiçbir kasılmayı tetiklemedi; oysa en kuvvetli olanlar cıva yerine su konulduğunda tetiklendi. Benim anladığım kadarıyla, suyun bu etkiyi cıvadan çok daha iyi ilettiğinin bir kanıtı: ancak elektrikte cıvanın sudan daha iyi bir iletken olduğu kabul edilir.
+
+Bay Cavendish'in bize söylediğine göre, Bay Walsh torpidonun şokunun küçük bir pirinç zincirden geçmeyeceğini keşfetti: ancak Galvani'nin keşfettiği etki, birkaç inç uzunluğundaki küçük bir pirinç zincirden, halkalarını birbirine yakın temas edecek şekilde gerildiğinde, etkilerinde hissedilir bir azalma olmadan geçer: ve iki kişi arasında tutulduğunda ve önemli bir bükülmeyle asılı kalmasına izin verildiğinde altın bir zincirden geçer. Yine de, iki etkinin karşılaştırmalı gücünü, hayvanlar üzerinde ürettikleri etkilere göre değerlendirmemize izin verilirse, torpidonun kesinlikle en güçlü olduğu kabul edilmelidir; ve onun iletiminde aşılmaz bir engel bulmasını, diğerinin neredeyse hiç engel bulmadığı yerde, ancak onların gerçekte doğaları bakımından farklı olduklarını varsayarak açıklayabileceğim başka bir yol göremiyorum. Dr. Valli, bir farenin kıllarının, onları çevreleyen kalay folyo ile kurbağaların sinirlerine bağlı olduğunu ve başka bir metalin kurbağalarda kasılmalara neden olacak şekilde uygulandığında, dönüşümlü olarak birbirlerini çektiğini ve ittiğini gözlemlediğini söyler.
+
+Bu deneyi, hem Dr.'un tarif ettiği şekilde hem de tasarlayabildiğim her türlü kıl düzenlemesiyle birçok kez tekrarladım: ancak bunlar metallere, sinirlere veya kaslara veya aynı anda hepsine yerleştirilse de, ne ben ne de bana yardım eden arkadaşlarım, hiçbir durumda bunların en ufak bir şekilde hareket ettiğini gözlemleyemedik.
+
+Bir köpek ve büyük ve hareketli bir vatoz üzerinde, bir farenin kıllarına uyguladığım şekilde, en iyi keten, kuğu tüyü ve altın yaprağı pullarını yerleştirerek benzer deneyler yaptım; ancak
+metallerin temasıyla patende oluşan kasılmalar hayvanı masadan sıçratacak kadar güçlü olsa da, en ufak bir elektrik
+görünümü bile yoktu.
+
+Daha sonra, tavana sabitlenmiş bir cam çubuktan, önceki deneyde kullandığım ketenden beş fit uzunluğunda birkaç iplik astım; ve yakın zamanda öldürülmüş ve mümkün olduğunca yakınlarına camla yalıtılan birkaç kurbağaya yaklaştım, dokunmadan:
+ancak iplikler kurbağalarda oluşan kasılmalardan hiçbir şekilde etkilenmedi.
+
+Bu bakımdan, bu etki torpidonun etkisine benzer.
+Bildiğim kadarıyla, M. Volta'nın çok küçük derecede elektriği toplamak,
+yoğunlaştırmak ve hissedilebilir hale getirmek için kullandığı alet
+her ikisinin de incelenmesinde kullanılmamıştır.
+
+Ve gerçekten de, yeni keşfedilen etkiyi böyle bir testle incelerken, hayvanların hareketiyle yeterli miktarda elektrik üretilemeyeceğinden ve sonuçta bir yanılgıya yol açabileceğinden emin değilim. Ancak, bu etkinin bu deneylerdeki elektrometreyi etkilememiş olmasına rağmen, bir hayvan üzerinde, bir elektrometreyi çok yüksek derecede etkilemeye yetecek miktarda elektrikle üretilebilecek olanlardan sonsuz derecede daha güçlü etkiler ürettiği kesindir. Kurbağaların krural sinirlerini sık sık bir miktar ayırdım; ve bunları gümüş bir çubukla destekledikten sonra, bu çubuğun tüm uzunluğuna uyarılmış bir cam parçası veya mühür mumu uyguladım. En kaba elektrometreler bile bununla, önemli mesafelerde gerçekleştirildi: ancak bu şekilde, çubuğu güçlü bir elektrik makinesinin uyarılmış silindiri üzerine koymadığım sürece, kasılmaları asla uyaramadım. Bu yeni etki, hem kendisi hem de etki ettiği nesne çevredeki iletkenlerden yalıtılmış olduğunda etkilerini neredeyse eşit derecede iyi üretmesi bakımından torpidonun etkisine benzer. Ancak, anlattığımla benzer bir deney, hem kurbağayı hem de ona uygulanan metalleri yalıtma ve pozitif olarak elektriklendirme, torpidoyla hiç (bildiğim kadarıyla) denenmemiştir.
+
+Bu iki etki de, etki ettikleri nesne suya batırıldığında, açık havadayken olduğu kadar güçlü bir etki üretmemesi bakımından hemfikirdir. Bir kurbağanın ayrılmış bacağı suyun altında tutulduğunda ve bu etkinin geçmesi gereken devrenin bir parçası olduğunda, başka bir bacağı uyarmak için; asla büzülmez, ancak yüzeyin üzerinde tutulduğunda, daha önce fark ettiğim gibi, güçlü bir şekilde büzülür. Ve Bay Walsh bize torpidonun şokunun havada, su altında verildiğinden dört kat daha güçlü olduğunu söyledi.
+
+Bu etki, hem torpidonun etkisinden, hem de elektrikten farklıdır, çünkü (en azından insanda) elektrik şokuna benzer hiçbir his yaratmaz.
+
+M. tarafından anlatılan tek örnekle ilgili olarak Cotugno, hem kendisinin hem de bu doğadaki deneyleri tekrarlayan herkesin, uzun zaman önce, kestiği hayvanın mücadelelerinin ürettiği hissin etkisiyle bir şoka inandığına ikna olmuş olması muhtemeldir. Kurbağalarda bile, tahrişten ve kaslarının kasılmasından kaynaklanması gerekenlerden bağımsız olarak, bunun bir tür rahatsız edici hissin ortaya çıkmasına neden olduğu, huzursuzluklarından ve tedirginlik ifadelerinden açıkça anlaşılmaktadır. Diğer hayvanlarda, daha sonra gösterme fırsatım olacağı gibi, bu ifadeler daha da az belirsizdir: ve insanda, hem derecelerini hem de türlerini tespit edebiliriz. Elektrikle üretilenlerden önemli ölçüde farklı oldukları, bu etkinin duyularımız üzerindeki etkilerinden bahsetmeye başladığımda kanıtlanacaktır. Ancak bu yeni etki ile elektrik arasındaki en önemli ve karakteristik fark,
+hayvanların ve bitkilerin kasılma gücü üzerindeki etkilerinden oluşur. Elektrikle uyarılan hayvanların kasılmaları, kasılmaların dayandığı gücü yok etme eğilimindedir. Ancak, metallerin uygulanmasıyla uyarılan kasılmalar, tüm
+deneylerimde, tam tersi bir etki yarattı. Kasılmalar bu şekilde ne kadar sık ​​uyarılırsa, o kadar uzun süre uyarılabilir kalırlar: ve bu tür deneylerin yapıldığı kısımlar çürümeden o kadar uzun süre korunur. Kasılmaları harekete geçirebilen, yorgunluğa yol açmayan bir etki, bulmayı çok az beklediğim ve Galvani ve Dr. Valli tarafından verilen karaktere o kadar aykırı olan bir şeydi ki, ilk başta kendi gözlemime güvenmedim: ancak daha sonra, söz konusu noktayı tespit etmekten farklı görüşlere sahip olsalar da, yapma fırsatı bulduğum karşılaştırmalı deneylerin sayısı, bu etkinin kasların kasılabilirliğini yok etmekten çok, onu koruma eğiliminde olduğuna beni ikna etti. Bildiğim kadarıyla, oksijen, etkileri benzer olan doğadaki tek uyarıcıdır.
+
+Bir kurbağa uzun süre önce öldüğünde, bazen metallerin uygulanmasıyla tek bir kasılmayı harekete geçiremeden çeyrek saatten fazla zaman geçirdim: ancak bundan sonra, kullanılan araçları hiç değiştirmeden, kasılmalar ortaya çıktı ve giderek daha şiddetli hale geldi.
+
+Denir ki, (çünkü hiç
+deneyi yapma fırsatım olmadı), hassas bir bitkiden geçen bir elektrik akımı neredeyse anında yapraklarının çökmesine neden olur. Ancak Galvani tarafından keşfedilen etki, sonraki
+deneyde böyle bir etki yaratmadı. Bir kurbağanın bacağını gövdesinden ayırdıktan sonra, krural sinirini çevredeki parçalardan ayırdım ve bir elimle bir probun ucuna destekledim. Bir yardımcı, ayağının altına bir parça gümüş koydu ve dokunulacak olan çinkoyu tuttu. Hassas bir bitki aramızdaki iletişim ortamını oluşturdu. O, sapının alt kısmını parmaklarının arasında tutarken ben de üst kısmını tuttum: böylece gümüş çinkoya dokunduğunda, etki bitkiye ve tüm sapına geçti. Kurbağanın bacağı anında kasıldı ve gümüş ve çinko her temas ettiğinde kasılmalarını tekrarladı: ancak bitkinin yaprakları çökmedi; dallarından herhangi biri devrenin bir parçası olduğunda da yapmadılar.
+
+Ancak itiraf etmeliyim ki, bu deneyin yapıldığı bitki kış boyunca bekletilmişti. Genç bir bitkide sonuç muhtemelen farklı olabilir; ancak henüz böyle bir bitkiyi elde etme
+gücüm olmadı.
+
+Torpido, kendisinin ürettiği etkiden hiç etkilenmiş görünmüyor. Galvani'nin fenomenlerinin üretildiği hayvanlar
+güçlü bir şekilde etkileniyor. Bu durumdan ve daha da fazlası, metallerin varlığının bunların üretimi için kesinlikle gerekli olmasından, bazıları, bunlara neden olan etkinin hayvanların dışında bir şey olduğuna ve yalnızca metallerin karşılıklı temasından kaynaklandığına inanmaya yönlendirilebilir. İtiraf etmeliyim ki, bir süre bu görüşü benimsemeye meyilliydim; ve etkilerinin kullanılan metallere göre farklılık gösterdiğini ve yüzeyleri uzatıldığında ve birbirlerine yatay olarak uygulandığında en güçlü olduğunu gözlemleyerek, olasılığının biraz daha arttığını gördüm. Bu nedenle, bunun metallerin daha önce keşfedilmemiş bir özelliği olabileceğinden şüphelenmeye başladım; çünkü bunun elektriksel bir olgu olmadığı, yukarıda belirtilen durumla daha da kanıtlandı. M. Volta'nın çok ilginç keşifleriyle, 'elektrik tutma kapasitesinin daha fazla olduğu yerde, elektriğin yoğunluğunun daha az olduğu' gösterilmiştir: --'ve bir iletkenin kapasitesi, tamamen yalıtılmış kalmak yerine, yalıtılmamış başka bir iletkene sunulduğunda artar; ve bu artış, bu iletkenlerin yüzeyleri daha büyük ve birbirine daha yakın olduğu için daha belirgindir[10].'
+
+Bu nedenle, bir kurbağanın bacağıyla iletişim kuran bir gümüş levha camın üzerine konulduğunda ve üzerine yatay olarak bir çinko levha indirildiğinde, her ikisinin de içerebilecekleri herhangi bir elektrik için kapasiteleri o kadar artmış olmalı ki, hiç kimse kurbağanın bacağının kasılmasının, bunlardan herhangi bir elektrik sıvısının boşalmasından kaynaklandığından şüphelenmeyecektir.
+
+Aynı şekilde, kasılmaların metallerin bacaktan elektrik sıvısını çekmesi sonucu oluştuğunu varsayma yetkisine de sahip değiliz: çünkü bacak yalıtılmış olduğundan, metaller tarafından doğal olarak sahip olduğu şeyden mahrum bırakıldıktan sonra yeni bir elektrik kaynağı alması imkansızdır; ve sonuç olarak, bir veya iki kez kasıldıktan sonra, başka kasılmalar meydana gelmemeliydi: ancak bu gerçeğe aykırıdır.
+
+Daha önce, metallerin arasına yerleştirilen altın varak pullarının birbirlerine yaklaşmalarından etkilenmediğini; ve ayrıca, bir elektrometreyi etkilemeye yetecek kadar güçlü bir elektrik miktarının, bir kurbağanın kaslarında kasılmaları harekete geçiremeyecek kadar zayıf olduğunu göstermiştim.
+
+Ancak, bu etkinin, ne olursa olsun, yalnızca metallerden kaynaklanmadığı, hayvanların en azından üretimine katkıda bulunduğu ve varlığını gösterdiği, metaller ile kaslar ve metaller ile sinirler arasında bir iletişimin gerekliliğiyle ilgili olarak, daha önce ileri sürdüğüm şeyle oldukça olası hale geldiğini düşünüyorum. Aynı şekilde, hayvanların, tamamen kendilerine dışsal bir etki üzerinde sahip olmalarını beklediğimizden çok daha fazla, etkileri üzerinde tam bir kontrole sahip gibi göründüğünü de gözlemleyebilirim.
+
+Canlı ve bütün kurbağalar bir çinko veya kalay folyo levha üzerine yerleştirildiğinde ve bir parça gümüş veya altın, levha ile temas edene kadar bacaklarının ve uyluklarının farklı kısımlarının üzerinden geçirildiğinde; kasılmalar çok nadiren üretilir ve kurbağalar sağlıklı ve tetikteyse neredeyse hiç gerçekleşmez. Ancak siyatik sinirleri bölündüğü anda, üretilen kasılmalar, bacaklar vücuttan tamamen ayrılmış gibi, serbest ve kuvvetlidir. Bu fark, siniri bölmek için zorunlu olarak yapılan gümüşün yarayla temas etmesinden kaynaklanmaz; çünkü her zaman bunun olmamasına dikkat ettim ve gerçekten de olduğunda, sinir bölünmediği sürece hiçbir kasılma üretilmedi. Bir hayvanın başını koparmak veya herhangi bir şekilde, onun iradesinin uyarılmış kısmın kasları üzerindeki etkisini engellemek, tam olarak aynı etkiye sahiptir. Ancak irade, elektrik aksi takdirde kasları kasılmaya teşvik edecek kadar güçlü olduğunda, elektriğin etkilerini kontrol edemez. Tekrar tekrar şunu buldum ki, kolumdaki kasların en güçlü gönüllü kasılmalarıyla bile, elektrik kıvılcımlarıyla oluşan
+istemsiz kasılmaları tamamen etkisiz hale getiremedim, ayrıca kurbağaların bunlara
+etkisiz hale getirebileceğini de bulamadım.
+
+Canlı kurbağaların bacaklarındaki kasların durumuna metaller uygulandığı anda dikkatlice baktığımda, birçok kurbağada, ama kesinlikle hepsinde değil, kaslarının
+mükemmel derecede yumuşak ve gevşemiş olduğunu dokunarak algılayabildim: Bu, metallerin üretme eğiliminde olduğu istemsiz kasılmaları etkisiz hale getirmenin, kaslarını kalıcı ve gönüllü bir kasılma durumunda tutmanın yanı sıra başka yollarının da olduğunun kanıtıdır.
+
+-----
+
+Dipnot 1:
+
+Cavallo.
+
+Dipnot 2:
+
+Bu metal hakkında Cronstedt'in şu çok ilginç yorumu vardır: "Sürtünmeyle elektriksel hale geliyor gibi görünüyor ve daha sonra daha küçük parçacıkları mıknatıs taşı tarafından çekiliyor; bu etkiler henüz tam olarak araştırılmadı." Çinko, elektrikli makinelerin kauçuklarını
+bulaştırmak için en iyi amalgamın bir bileşenidir: Ancak, bir çinko çubuğunu sürtünmeyle elektriksel hale getiremedim veya daha küçük parçacıklarının mıknatıs taşı tarafından çekildiğini
+bulamadım, ancak bunlar demir bir aletle
+kazınmışsa. Ancak, bu şekilde, herhangi bir metalin tozu mıknatıs taşının etkisine karşı hassas hale getirilir.
+
+Dipnot 3:
+
+Eğer daha ileri deneyler, iki farklı metalin karşılıklı temasının Galvani fenomenlerinin üretimi için kesinlikle gerekli olduğunu kesin olarak ortaya koyarsa, bu durum değerli metallerin saflığı için yararlı bir test sağlamaz mı? Örneğin,
+saflığını saptamak istediğimiz bir altın veya gümüş parçasının, saf olduğu bilinen aynı metalden bir parçayla temasıyla oluşan bir hayvandaki kasılmalar, o zaman tartışmasız bir şekilde alaşımın varlığını kanıtlayacaktır.
+
+Dipnot 4:
+
+Dr. Monro'nun yakın zamanda verdiği, esas olarak bu konu üzerine olan yetenekli bir derste, kullandığı metallerden hiçbirinin onunla temas halinde olmaması veya nemli bir madde ortamı dışında onunla başka bir iletişiminin olmaması durumunda, bir kurbağanın uzuvlarında kasılmalar meydana getirme olasılığını gösterdi.
+Bu deneyi değiştirerek, bir kurbağanın siyatik sinirlerinin başlangıcının hemen üzerinde iki parçaya bölünüp bir su leğenine konulduğunda, çinko veya kalay folyo ve gümüşün, bölünmüş omurgadan en az bir inç uzaklıkta, neredeyse aynı hizada tutulduğu sürece, birbirleriyle temas ettirilmesiyle arka bacakların güçlü kasılmalara girebileceğini
+buldum. Su, bu durumda, metaller ile sinirlerin kaynağı arasındaki tek iletişimdir.
+
+Dipnot 5:
+
+Üretilen kasılmalar, temas halindeki metallerin yüzeylerinin genişliğine orantılı olarak güçlü görünmektedir, büyük bir çinko levha büyük bir gümüş veya altın levhanın üzerine yatay olarak yerleştirildiğinde en güçlüdür. Çinkonun gümüşle bir süre temas halinde kalmasına izin verilirse, bacağın kasılmaları durur.
+Çinko daha sonra, kasılmaları yenilemeden, bacağa değene kadar gümüşün üzerinden kaydırılabilir: ancak, gümüşü çekerken, bacak, gümüş ondan ayrıldığı anda kasılır!
+
+Dipnot 6:
+
+'Su çok sıcaktır, ya da kaynar, elektriği dağıtır, fenomenleri yok eder.'
+
+'Soğukluğun fazlası, söz konusu akışkanı iletme yetkisine sahip olan suyun memesinden kaynaklanır.'--_Dr. Valli, Mektup 9me._
+
+Dipnot 7:
+
+Aslında, hayvanları etkilemenin bu yeni yolunu, herhangi bir yerindeki kalan yaşamı test etmek için kullandığımda, her zaman kasılmaları bu şekilde uyandırdım. Deney altında oldukları süre boyunca, kendileri için en doğal durum olan
+sürekli olarak taze suda tutuldular; ve derilerinin mümkün olduğunca sağlam kalması sağlandı, çünkü kaslarının kasılma güçlerini birkaç saat içinde kaybettiğini ve derilerinden mahrum bırakıldıklarında suyun etkisine maruz kaldıklarında sertleştiklerini gördüm.
+
+Dipnot 8:
+
+M. Fontana, Zehirler üzerine yaptığı çalışmanın birinci cildinde, bazılarına göre bu açıklamaya önemli ölçüde destek sağlayabilecek bazı gerçeklerden bahseder.
+Kuru ve isli buğdayda bulunan mikroskobik yılan balıkları; Linnaeus'un seta equina veya gordius'u; ve kabarık polip,
+hepsi kuruduğunda görünüşte ölü hale gelir: ancak suyla nemlendirildiğinde tekrar hareket ve yaşam kazanır. Bunlardan biri, M. Fontana tarafından bir cam parçasının üzerine konuldu ve tüm bir yaz boyunca öğle güneşine maruz bırakıldı. O kadar kurudu ki
+sertleşmiş bir tutkal parçası gibiydi. Ancak birkaç damla su onu hayata döndürmeyi başaramadı. Bir diğeri de benzer bir şekilde bir buçuk yıl maruz kaldıktan sonra bu şekilde iyileşti. Aynı yazar, Cizvit Peder Gumillo ve Perulu Kızılderililer'in, Bonguer'in yetkisine dayanarak, 'büyük ve zehirli bir yılanın ölüp
+açık havada veya bir bacanın dumanında kurutulmasıyla, durgun ve bozulmuş bir suda birkaç gün güneşe maruz kaldığında tekrar canlanma özelliğine sahip olduğunu' söylediğini aktarıyor.
+
+Ancak Cizvit'in tanıklığına inanmak için neredeyse bir Kızılderilinin saflığı gerekir.
+
+Dipnot 9:
+
+Bu konu hakkında daha önce yazdıklarım basına gittiğinden beri,
+bir arkadaşımdan öğrendiğime göre, Windsor'lu Dr. Lind,
+bir kurbağada kasılmaların sadece demirle dokunulduğunda
+uyarılabileceğini bulmuş. Çok yakın zamanda öldürülmüş bir kurbağada, bazen, sinirlerine demir ve çelikle dokunarak kasılmaları tetiklediğimi gördüm. Ancak, bunu kasılmaların yalnızca bir metalin temasıyla tetiklenebileceğine dair tatmin edici bir kanıt olarak kabul edemem; çünkü, uzun süredir ölü olan ve kasılmaların mekanik tahrişten kaynaklandığına dair hiçbir şüphe
+kalmayan bir kurbağaya uygulanan, aynı kalitede bir demir parçasıyla kasılmaları tetikleyemedim. Dr. Valli'nin, kötü çelikten makaslarla, yakın zamanda öldürülmüş bir kurbağa üzerinde yaptığı
+deneyde, bu koşullar yeterince dikkate alınmamış gibi görünüyor.
+
+Dipnot 10:
+
+Phil. Trans. cilt 72. bölüm i. Ek.
+
+--------------------------------------------------------------------------
+
+BÖLÜM II.
+
+_Galvani tarafından keşfedilen Olaylarda Manyetizma'nın herhangi bir ilgisi var mıdır?_
+
+Bu soruya cevap olarak söyleyecek çok az şeyim var, çünkü önerdiği ve yapma fırsatı bulduğum deneyler
+çok azdı.
+
+Hem doğal hem de yapay mıknatıs taşıyla kasılmaları tekrar tekrar uyardım, ancak aralarında hiçbir fark göremedim ve mıknatıslanmamış demir veya doğal mıknatıs taşıyla eşit miktarda demir içeren bir cevherle uyarılmış olanlar arasında.
+
+Bir kurbağanın ayrılmış bacağı bir demir levhanın üzerine konulduğunda ve bir mıknatıs taşı hem siniriyle hem de levhayla temas ettirildiğinde, hiçbir kasılma uyarılmadı. Kurbağaları, her türlü hazırlık durumunda, mümkün olduğunca çok hassas bir manyetik
+iğneye yaklaştırdım,
+ama metaller tarafından uyarılan kurbağaların kasılmaları hiçbir durumda yönünde bir değişiklik meydana getirmedi.
+
+------------------------------------------------------------------------------
+
+BÖLÜM III. _Galvani tarafından keşfedilen etki ile hayvanların kasları, sinirleri ve damar sistemleri arasında var olan ilişkiler nelerdir?_
+
+Kendime bu kadar kapsamlı bir soru sorduğumda,
+bunu tamamen çözebileceğime dair boş bir beklentiye sahip olduğum bana atfedilemez. Aşağıdaki deneylere, yalnızca Galvani tarafından keşfedilen etki hakkında daha fazla söyleyeceklerimi değil, aynı zamanda bu etkinin yalnızca bir test olarak kullanıldığı çeşitli fizyolojik konular hakkında da düzenleyebileceğim en uygun genel başlık olarak eklenmiştir.
+
+KASLARIN.
+
+Kas liflerinin sinirlerden tamamen ayrıldığından emin olabileceğimiz hiçbir kriter bilmediğimden, onları doğru bir deney için çok küçük nesneler haline getirmeden; Yargılayabildiğim kadarıyla, bu yeni etkinin kas lifi üzerinde hemen etki edip etmediğini
+kendimizi tatmin etmek asla bizim elimizde olamaz. Sinirin
+mevcut olup olmadığı konusunda her zaman bir şüphe kalır; ve bu şüpheden, metallerin
+ürettikleri veya uyardıkları etkinin sinirden kaslara geçip geçmediği veya sadece sinire bir uyarıcı olarak etki edip etmediği, sinirlerin belirli
+durumlarda kasları kasılmaya teşvik ettiği bilinen o bilinmeyen enerjiyi uyandırmaya hizmet edip etmediği konusunda çözülmesi daha da zor bir şüphe doğar.
+
+Anatomistler tarafından genel olarak sinirlerden yoksun olarak kabul edilen hayvanlar üzerinde yapılan aşağıdaki deneyler, bazılarına bu soru için kesin gibi görünebilir, ancak itiraf ediyorum ki, kesinlikle öyle değiller. Çok daha fazla sayıda hayvanda, sinirleri
+küçücüklükleri nedeniyle keşfetme olasılığından mahrum bırakılıyoruz; Yine de bu hayvanların, sadece mekanik tahrişle uyarılmayıp, aynı zamanda açıkça bir amaca ulaşmaya yönelik eylemleri, en iyi gözlüklerin yardımıyla duyularımızın onları algılamamıza
+izin vermediği yerlerde bile, onların varlığını çıkarsamaya bizi zorlar.
+
+Bir çinko levhanın üzerine birkaç toprak solucanı koyduktan sonra, uzunluklarının farklı kısımlarından bir gümüş çubuk geçirerek, levhayla temas edene kadar onlarda kasılmalar uyandırmaya çalıştım; ancak uzun
+bir süre hiçbir etki yaratmadı. Metallerin yeni bölünmüş bir parçaya uygulanması da pek az etki yaratmış gibi görünüyordu. Sonunda, gümüş, bölünmüş ve yeniden birleştirilmiş bir parçanın yanından karnının altından geçirildiğinde, bunlardan birinin öne doğru fırladığını algıladım. Deneyi tekrar ve daha dikkatli bir şekilde tekrarladığımda, (kurbağada olduğu gibi) hayvan tamamen canlı ve tetikte olduğunda, bu şekilde hiçbir kasılmanın uyandırılamayacağını buldum; ancak
+bir kısım önceki bir hastalık, yakın zamandaki bir tahriş vb. nedeniyle daha duyarlı hale geldiğinde veya solucan bir probun üzerine asılarak ve her ikisi de aynı anda plakaya indirilerek hazırlıksız yakalandığında; ani ve istemsiz bir hareket, solucanın uzunluğunun büyük bir kısmından başa doğru dokunulan kısımdan hızla geçiyormuş gibi
+görünüyordu; diğer hayvanlarda meydana geldiği yönün
+ters bir yönü. Sülükler üzerinde asla aynı etkiyi yaratamadım. Deneyi değiştirdiğimde,
+çok tuhaf ama tatmin edici bir fenomen kendini gösterdi.
+Büyük bir çinko plakanın ortasına yerleştirilmiş bir taç gümüş parçasının üzerine bir sülük koymuştum. Hayvan ağzını en ufak bir rahatsızlık
+duymadan gümüşün yüzeyinde gezdirdi; ama uzanıp
+onun ötesine geçip ağzıyla çinko levhaya dokunduğunda, anında
+geri çekildi, sanki çok şiddetli bir acı içindeymiş gibi ve böylece dönüşümlü olarak
+çinkoya dokunup geri çekilmeye devam etti, ta ki
+tamamen yorgun gibi görünene kadar. Tamamen çinkonun üzerine yerleştirildiğinde,
+tamamen rahat görünüyordu; ama, ağzı herhangi bir zamanda çinkonun üzerinde yatan
+gümüşle temas ettiğinde, daha önce olduğu gibi aynı acı ifadesi sergileniyordu. Toprak solucanıyla bu deney daha da kesin bir şekilde başarılı oldu.
+Hayvan kıvranarak çinkodan fırladı; solucan öne doğru uzandığında kıvrımlarından biri çinkoya değdiğinde, başının ucu çinkoya değdiğinde gösterdiği şeye kıyasla çok az rahatsızlık
+du.
+
+Ancak bu olağanüstü etkiler, metallerin kurbağaların ve diğer hayvanların uzuvlarında oluşturduklarından önemli ölçüde farklıydı.
+Bunlar, istemsiz, anlık kasılmalar görünümünden çok, uzun süreli acı ve iğrenme ifadeleriydi; tıpkı bir çocuğun diline çinko ve gümüş uygulanmasıyla
+üretilenler gibi.
+
+Benim mütevazı fikrime göre, bu hayvanların
+çok mükemmel bir duyu organına sahip olduklarına ve dolayısıyla
+sanıldığı gibi sinir sisteminden yoksun olmadıklarına dair güçlü bir varsayımsal kanıt.
+
+Bu nedenle, bu etkinin kas lifleri üzerinde sinirler aracılığıyla etki edebileceğinden şüpheliyim, sinirlerle ilgili bazı gerçekleri anlatana kadar belirli kaslar hakkında söyleyeceklerimi saklı tutacağım.
+
+SİNİRLER HAKKINDA.
+
+Galvani'nin keşfinin kovuşturulmasında yapılan her deneyden, sinirlerin sergilediği tüm olgularda çok temel bir şekilde ilgili olduğu anlaşılıyor. Bu nedenle, vücudun tüm sinirlerinin bu yeni etkinin eşit derecede konusu olup olmadığını veya etkilerinin gönüllü hareket kaslarına özgü olanlarla sınırlı olup olmadığını belirlemek son derece ilginç bir araştırma konusu haline geliyor.
+Bu görüşle, kalplerinin kulakçıkları hala kasılırken birkaç ineğin ve koyunun parvagum ve kaburgalar arası sinirlerini kalay folyoyla çevreledim ve bükülmüş bir gümüş çubuğun bir ucunu bir keresinde kalbin kendisine, bir keresinde bitişik kaslara ve bazen de sinirlere yerleştirdim; ancak bunların hepsi kalbin kasılmalarında en ufak bir fark edilebilir değişiklik veya kasılmalar durduğunda bunların yenilenmesi olmadan.
+
+Aynı şekilde karotlu atardamarı kalay folyoya dahil ettim; ve başka bir
+zamanda, folyoyu sinirlerde yapılan uzunlamasına kesilere yerleştirdim,
+ki böylece onların özleriyle daha doğrudan temas edebilsin;
+ama
+yine de kasılmalar olmadı. Benzer deneyleri bir köpek, kediler, tavşanlar, kümes hayvanları ve kurbağalar üzerinde yaptığımda da pek başarılı olamadım; yine de,
+tüm bu hayvanlarda, iradeye itaat eden kısımların sinirlerini silahlandırarak, genel olarak kuvvetli kasılmalar uyandırabildim: genel olarak diyorum,
+çünkü tavşanlarda bazen tamamen başarısız oldum; özellikle çok soğuk suda
+boğulduklarında. Bu deneyleri yaptıktan kısa bir süre sonra, Dr. Valli'nin Journal de Physique'te yayınlanan mektuplarından birinden, bir köpeğin
+kalbi üzerinde benzer bir deney yaptığını ve aynı sonucu aldığını fark ettim. Kalp, sinirleri aracılığıyla uyarılamaz, bu nedenle, diğer kasları kasılmaya teşvik etmede etkili bulunan aynı araçlarla uyarılabilir. Bu sonucu beklemediğimi itiraf ediyorum. Aslında, ilk isimdeki birçok fizyolog[11] tarafından, kalbin sinirlerine veya beyne bir uyarı uygulanmasıyla hiçbir şekilde etkilenemeyeceği ileri sürülmüştür; ancak birçok düşünce bu konuda şüphelerimi uyandırdı ve bir yıldan fazla bir süre önce burada yaptığım bazı deneyler, beni zıt bir görüşte doğrulamaya eğilimliydi. Kalbin kasılmalarının hem frekansının hem de gücünün zihnin tutkularından etkilendiği, herkesin bildiği bir gerçektir; ancak daha da önemlisi, zihin veya bedeni etkileme biçimi hakkında çok az şey bildiğimizden, apopleksi, hidrosefali, frenit vb. gibi birçok beyin bozukluğunun her türlü
+mekanik yaralanmayla birlikte (ve bunlar nedir ki, beyni ve dolayısıyla kalbe gönderilen sinirleri
+tahriş eden çok sayıda uyarandan başka?)
+kalbin hareketlerini en önemli ve belirgin şekilde etkiler. Kalbin kasılmaları, beyin bütün kaldığı sürece, mideye atılan binlerce farklı maddeden etkilenebilir; ancak Bay Kite'ın deneyinden, beynin işlevleri asılarak veya boğularak askıya alındığında bunun kesinlikle böyle olmadığı anlaşılıyor[12]. Dr. Whytt'ın bu konudaki deneyi, aşina olduğum en kesin deneylerden biridir. Afyonun, beyinleri ve omurilikleri olmayan kurbağalarda kalbin hareketini yok etmede, bu hayvanlar tamamen yediklerinde olduğundan çok daha yavaş çalıştığını buldu. Bu görüşle açıkça yapılmamış olsa da, kendi deneylerimden birkaçı, Dr. Whytt'ınkilerle aynı sonucu verdi. M. Fontana, bize, tekerlek poliplerinin kalbinin gönüllü bir kas olduğunu keşfettiğini söylüyor. Muhtemelen bu keşif, onu iradesinin kendi kalbi üzerindeki etkilerini denemeye yöneltti. Deneyinin başarısı için, Parma Üniversitesi'nde Anatomi Profesörü olan arkadaşı Dr. Gerardi'nin tanıklığına sahibiz. Kendisi, geçen Eylül ayında Journal de Physique'te yayınlanan Intercostal Sinirlerin Kökeni üzerine çok bilgili bir küçük tezinde, bundan şu kısa şekilde bahsetmektedir; 'M. Fontana'nın kaslarının kasılmasını hızlandırma veya yavaşlatma yeteneğinden dolayı sizi rahatsız etmiyorum.'
+
+Kalbin sinirlerinin mekanik tahrişinden etkilenebileceği fikrini ilk olarak benimsememe yol açan doğrudan deneyler, çok genç kediler ve tavşanlar üzerinde yapıldı; bazıları şu anda Philadelphia'da yaşayan arkadaşım Dr. Physick'in yardımıyla; diğerleri ise bu üniversitede eğitim gören birkaç beyefendinin huzurunda yapıldı. Bu deneylerden iki veya üçünden,
+kalbin kasılmalarının,
+omurilik iliğinin kökenindeki
+beyni tahriş ederek hızlandığı çok kesin bir şekilde ortaya çıktı. Diğerlerinde ise sonuç hiç de o kadar açık değildi. Ancak, tek bir doğru ve pozitif deneyin kanıtının, özellikle sıcak kanlı hayvanlar üzerinde yapılan yirmi başarısız deneyle,
+en ufak bir şekilde geçersiz kılınmadığı unutulmamalıdır;
+kaslarının tahrişi çok geçicidir ve sonuç henüz bilinmeyen birçok nedenden dolayı
+değişmeye açıktır.
+Örneğin, atardamarların tahrişi artık tamamen
+tespit edilmiştir, ancak Haller'in deneyleri onu bunu inkar etmeye yöneltmiştir. Ve hatta
+bu konudaki en iyi deney serisini şüphesiz borçlu olduğumuz doğru Verschnir'in deneyleri bile, burada Fakülte'nin bazılarının önünde tekrarlandığında başarısız olmuştur (Dr. Dennison'ın, doğruluğunu doğrulayan mükemmel bir Tez'de bize söylediği gibi). Dolayısıyla, hemen, çinkonun ve molibdenin, heyecan verici kasılmalarda üstün güçlerini keşfettikten sonra, bu metallerle kurbağaların kalbine giden sinirler üzerindeki deneyleri tekrarlamaya başladım;
+ama uzun süre ne kendimi ne de başkalarını tatmin etmeden,
+gerçekten bir etki üretilip üretilmediği. Ancak sonunda, tamamen başardığım için o kadar mutluydum ki. Geçtiğimiz 18 Mart'ta, arkadaşlarım Bay Hunter ve Bay Thomson'ın huzurunda, bir kurbağanın kalbinden, bir saat önce kendiliğinden kasılmayı bırakmış olan perikardı ayırdıktan sonra, kasları, sinirlerini
+kapsayan hücre zarını ve büyük kan damarlarını çıkardım. Daha sonra, saf gümüşten bir çubuğun bir ucunu bu sinirlerin ve kan damarlarının bir tarafına, diğer ucunu da çinkodan bir çubuğun diğer tarafına, her ikisini de kalbin kulakçıklarından yaklaşık bir inçin üçte biri kadar uzaklıkta olacak şekilde yerleştirdim. Bu çubukların zıt uçlarını birbirine temas ettirince, önce kulakçık, sonra da kalbin karıncığı
+hemen kasıldı ve kasılmalarını metal çubukların uçları birbirine değdirildikçe tekrarladı. Metallerden birinin yerine cam, balmumu veya tahtadan bir çubuk kullanıldığında,
+kasılma olmadı. Ancak kasılmalar,
+kalbin kendisini keskin bir aletin ucuyla tahriş ederek uyarıldı.
+Kasılmalar, metaller kalbin kendisiyle temas ettiğinde, yalnızca kan damarlarına ve sinirlerine dokunduğunda olduğundan hem daha şiddetli hem de daha sabitti. Bir kurbağanın kalbinin büyük kan damarlarının yakınında görülebilen sinirlerden bazılarını, onları diğer kısımlardan ayırmak için kalbin kendisine doğru izlemeye birkaç kez çalıştım; ancak kısmen çok küçük olmaları, kısmen de gözlerimin zayıf olması nedeniyle, küçük nesnelere dikkatle bakmama izin vermediği için,
+hiçbir zaman başarılı olamadım.
+
+Bu son deneyi yaptıktan sonra, bunu yirmiden fazla kez tekrarladım. Tamamen başarılı olması için,
+kalbin kendiliğinden kasılmalarının neredeyse, hatta tamamen
+durması gerekir; ve bu durumdayken, deney kurbağanın
+gövdesinden kalbi çıkarıp
+bir çinko levha üzerine koyarak daha da tatmin edici hale getirilir. O zaman kasılmalarının
+göğüs kaslarının kasılmalarından kaynaklanan herhangi bir mekanik tahrişle
+uyarılmış olamayacağından emin oluruz.
+
+Yeterli boş zaman ve uygun fırsatların olmaması nedeniyle,
+kediler ve tavşanlar hariç,
+sıcak kanlı herhangi bir hayvan üzerinde bu deneyi yapmayı ihmal ettim.
+Çinko ve
+sinirlerine uygulanan gümüş sayesinde kalbi kasılmaya teşvik etme olasılığını keşfettikten birkaç gün sonra, normal büyüklükte bir kedi edindim ve
+onu mümkün olduğunca kendi sıcaklığındaki suya boğdum.
+Suya daldırıldıktan dört dakika sonra, sudan çıkarıldı ve kurutuldu.
+Göğsü hemen açıldı, ancak
+sağ kulakçık dışında kalbinin hiçbir yerinde kasılma gözlemlenmedi ve bunlar bile
+çok hafifti. Daha sonra bir çinko levha, trakeanın bir tarafında parvagum ve interkostal sinirlerle temas edecek şekilde yerleştirildi ve diğerinin sinirleriyle temas edecek şekilde yarım taç parçası yerleştirildi; her ikisi de kulakçıklardan yaklaşık üçte bir inç uzaklıktaydı. Çinko ve gümüş her temas ettiğinde, sağ kulakçıkta tam kasılmalar ve bazen sol kulakçıkta hafif kasılmalar meydana geldi, ancak ventriküllerde hiçbiri olmadı. Kasılmaların, metaller kalbe yaklaştıkça daha güçlü hale geldiği ve kulakçıkla temas halinde olanlardan biri veya her ikisi olduğunda en güçlü olduğu gözlemlendi. Bence kasılmalar, molibden kullanıldığında, gümüş kullanıldığında olduğu kadar güçlüydü. Bu kedide, istemli kasların sinirlerinden herhangi birini harekete geçirerek hiçbir kasılma uyarılamazdı.
+
+Bir sonraki deney, yavruları çoktan ölmüş dişi bir kedi üzerinde yapıldı. Çok soğuk suda boğuldu ve göğüs kafesi, suya daldırıldıktan sonra dört dakikadan daha kısa bir süre sonra, mücadele etmeyi bıraktığı anda açılmış olmasına rağmen, kalbi kasılmayı bırakmıştı; kasılmaları, ne son deneyde tarif edilen şekilde metallerin uygulanmasıyla, ne de yüzeyinin delinmesi veya başka şekilde tahriş edilmesiyle yenilenemedi: ancak diyafram, kaburgalar arası kaslar, ön bacaklar ve kulaklar, metaller her zamanki gibi sinirlerine uygulandığında, uzun ve kuvvetli bir şekilde kasılmaya devam etti. Ancak, rahmi kesip yavrulardan birini çıkardığımda, kalbinin hem kulakçıklarının hem de karıncıklarının, annenin artık yirmi dakikadan fazla bir süredir ölmüş olmasına rağmen, en kuvvetli şekilde kasıldığını gördüm. Şimdi, ihmal edilmemesi gereken bir fırsat, bu etkiyi göbek kordonu aracılığıyla anneden fetüse aktarmanın mümkün olup olmadığını denemek için kendini gösterdi. Bu nedenle, daha önce tarif ettiğim şekilde iki metali uyguladım, 1. önce annenin
+rahmine ve kotiledanlara; daha sonra da onun çeşitli
+bölgelerine; ancak ne rahim ne de fetüs hiçbir durumda
+etkilenmedi. Fetüs de, kordonun kendisini silahlandırarak çok az etkilendi. Yavru kedilerin kalpleri, annelerinden alındıktan sonra bir saatten fazla bir süre boyunca kendiliğinden kasılmaya devam ettikçe, tekrar tekrar gözlemleme ve bu deneylerde bana yardımlarını esirgemeyen Bay Thomson ve Bay Simpson'a, metallerin parvagum ve enterkostal sinirlerle temas halindeyken, hem kendiliğinden devam eden kalp kasılmalarının tekrarını hızlandırma hem de artık kasılmadıklarında onları yeniden uyarma etkilerini gösterme zevkini yaşadım. Bu deney, doğumdan birkaç gün sonra bir yavru kedi üzerinde tekrarlandı, başarılı oldu, ancak önceki kadar tatmin edici bir şekilde değil, ancak kalp, göğüs açıldıktan sonra bir buçuk saatten fazla bir süre kasılmaya devam etti. Kasılmaları, yüzeyine en ufak bir mekanik dokunuşla hızlandı ve titreşti; bu nedenle, metallerin uygulanmasının bunların üretimindeki kesin payını belirlemek zordu. Bunlar sona erdiğinde, metallerin uygulanmasıyla onları canlandırabileceğimi
+bulamadım. Bu deneyi
+denediğim bazı genç tavşanların kalplerinde, kasılmalar metallerin uygulanmasıyla
+kedilerdekinden bile daha belirgin bir şekilde
+ortaya çıkıyordu.
+
+Bu önemli gerçeği, yani iradenin etkisine tabi olmayan bir kasın, sinirlerine çinko ve gümüş uygulanmasıyla kasılabileceğini
+tespit ettikten sonra; aynı şeyin tüm istemsiz kaslar için geçerli olup olmadığını incelemeye devam ettim.
+Ancak, metalleri bir kedide mide fleksusu ve yarımay ganglionunun yakınına
+yerleştirerek midede veya bağırsaklarda herhangi bir kasılma meydana geldiğini gözlemleyemedim. Daha sonra metallerin farklı duyu organları üzerindeki etkilerini incelemeye devam ettim.
+
+M. Volta'nın dilin ucunda, üst ve alt yüzeylerini farklı metallerle kaplayarak oluşan hissi keşfetmesi, beni bu hissi elektrikle oluşan hisle karşılaştırmaya yöneltti. Aralarında çok önemli bir fark buldum. İkisi de aslında
+subasittir, ancak birbirlerinden sirkenin tadı ile seyreltilmiş vitriolik asidin tadı kadar farklıdır. Metallerin neden olduğu his,
+alışılmış bir şekilde metalik tat olarak adlandırılan şeyle birlikte gelir; ve
+kullanılan metallere göre değişir. Daha fazla metalle
+çok zor algılanır. Çinko ve altınla, sanırım,
+en güçlüsüdür; sonra çinko ve gümüş veya molibden gelir ve bunların hiçbiriyle dayanılmaz
+bir şekilde uyuşmaz.
+
+His, dil normal sıcaklığındayken ve metaller dille aynı sıcaklıktayken en belirgindir. Dil veya metaller veya her ikisi de ısıtıldığında veya soğutulduğunda, rahatsızlık vermeden dayanılabildiği ölçüde, neredeyse hiç his oluşmaz. Etkideki bu farkın, metallerin sıcaklığındaki değişiklikten değil, dilin durumunda oluşan değişiklikten kaynaklandığı, daha önce anlattığım
+deneylerden açıkça anlaşılmaktadır; bu deneylerden, metallerin ne iletkenlik ne de uyarma güçlerinin sıcaklıklarındaki farklılıklardan etkilenmediği anlaşılmaktadır. Ancak, birçok deneyin tekdüze sonucu olarak, en güçlü kurbağaların bile hem yaşamlarının hem de sinirliliklerinin, onları 106 derece Fahrenheit'e ısıtılmış suya
+koyarak birkaç dakika içinde tamamen yok olduğunu buldum.
+
+Ancak, soğuk, dilin duyarlılığını ısı kadar etkiliyor gibi görünse de, denediğim bir veya iki örnekte, bir kurbağanın kaslarının sinirliliğini etkilemedi. Bazı ayrılmış bacaklar, bir buz parçasının üzerinde birkaç saat yattıktan sonra, o
+durumda bulunmadan önce olduğu gibi aynı şekilde kasıldı.
+
+Dilin duyarlılığını köreltme eğilimi olan her şey, örneğin
+laudanum, suda güçlü bir afyon çözeltisi, damıtılmış içkiler,
+asitler, vb. metallerin etkisini azaltır. Asitler, sanırım,
+en azından azaltır.
+
+Her iki kulağımın meatus auditorius externus'una farklı metaller yerleştirip
+aralarında yalıtılmış metalik bir iletişim kurduğumda, başımın rahatsız edici bir şekilde sarsıldığını hissettim veya hissettiğimi düşündüm.
+Kullanılan metaller gümüş bir prob, bir rulo kalay folyo ve elektrikli bir makineye ait sıradan bir pirinç iletkendi. Bunları
+kulaklarımdan çıkardığımda, suyun altından çıktıktan sonra hissedilen hisse benzer bir his
+yaşadım. Deneyden dolayı kulaklarımın
+zarar gördüğünü hissetmedim, ayrıca sonrasında herhangi bir rahatsızlık
+hissetmedim; ancak,
+ertesi sabah yataktan kalktığımda, hem yastığımın hem de
+yüzümün kanla lekelendiğini fark ettim; ve incelediğimde, bunun
+kulaklarımdan birinden geldiğini buldum. Daha önce bu bölgeden bir kanama hiç olmamıştı. Bu kaza her ne sebeple olursa olsun (ve büyük olasılıkla o sırada fark edilmeyen bir acıdan kaynaklanmıştır), deneyi hiç tekrarlamadığımı ve kesinlikle tekrarlamayacağımı söylememe gerek yok.
+
+Dokunma veya koku alma duyularının metallerden en ufak şekilde etkilendiğini hiç fark edemedim; ancak gözde oluşturdukları etki çok dikkat çekicidir. Dilimin ucuna bir parça kalay folyo koyduktan sonra, gümüş bir kalem kutusunun yuvarlak ucunu gözümün iç köşesine koydum ve parçalar onlara alışana kadar bu durumda kalmalarına izin verdim; böylece oluşan hisleri inceleyebilirdim; sonra metalleri birbirleriyle temas ettirdim ve şaşırtıcı bir şekilde, soluk bir ışık parıltısının gözümün tamamına yayıldığını
+aldım. Dilim aynı zamanda her iki metalin de onunla temas ettiğinde oluşan hisse benzer bir hisle etkilendi.
+Oda karardığında, ışık daha belirgin ve daha güçlü bir renge dönüştü. Bu his, Sir Isaac Newton'un deneyinde olduğu gibi, göz üzerindeki basıncın etkisi değildir; çünkü hiçbir
+baskı
+kullanılmamalıdır. Tek gereken, gümüşün göz kapaklarının arasında ve topun herhangi bir parçasıyla temas halinde olmasıdır.
+Deney, kalay folyo ve gümüş yerine çinko ve altınla yapılırsa, ışık
+kıyaslanamayacak kadar daha canlıdır. Bu deneyi, iltihaplı bir durumda olan gözlerimden birinde deneme fırsatım oldu; ve,
+bu durumda, ışığın iltihapsız gözdekinden çok daha güçlü olduğunu gördüm. Aynısını, amaurozdan etkilenen bir hastada da denedim; ancak adam o kadar aptaldı ki,
+kesin sonucu kendimden emin olamadım.
+
+İnce sinir dallarının siliyer veya oftalmik gangliondan, gözün sklerotik tabakasından geçerek koroid tabakasına ve üveaya geçtiğini ve bu ganglionun büyük ölçüde beşinci sinir çiftinin burun dalının bir dalından, üçüncünün bir dalıyla birlikte oluştuğunu hatırlayarak, mümkün olduğunca burnuma gümüş bir çubuk sokarak ve böylece bu burun dalını güçlendirerek, gümüşü dilimin üzerine yerleştirilen bir çinko parçasıyla temas ettirerek, bu yeni etkiyi sinirin seyri boyunca geçirip gözde parıltıyı üretebilir miyim diye denemeye başladım. Deney en iyimser beklentimi karşıladı. Bu şekilde üretilen parıltı, bence, eğer varsa, göz küresinin kendisi güçlendirildiğindekinden daha güçlüdür. Artık Galvani'nin etkisinin, çok önemli, istemsiz bir kas olan insan irisi üzerindeki etkisini tespit edebileceğim belirli bir
+yöntem keşfettiğimi düşünüyordum.
+Düşündüm ki
+dâhiyane fizyolog Dr. Whytt, beşinci çift sinirin burun dalı aracılığıyla, hidrosefalinin son aşamasında olan bir çocuğun büzülen göz bebeğinin, istediği zaman, genişlemesini, su uygulayarak üretebilmişti. burun deliklerine amonyak; ve
+bu istemsiz kasın, sinirleri aracılığıyla, etkilenmesi örneği, daha önce konu üzerinde herhangi bir deney yapmadan önce,
+kalbin kasılmalarının benzer bir şekilde etkilenebileceği yönündeki güçlü bir varsayımsal argüman olarak
+benimle her zaman işliyordu.
+
+Bu nedenle, yukarıda anlattığım deneyi tekrarlarken, arkadaşlarımdan bazılarının göz bebeğimi gözlemlemesini istedim.
+Dış ışık güçlü olduğunda, göz bebeğinin daralıp daralmadığını belirlemede biraz zorluk çektiler;
+ancak göz bebeğini ayırt etmek için yeterli olandan daha fazla ışık verilmediğinde,
+metaller birbirleriyle her temas ettirildiğinde çok belirgin bir daralma algıladılar. Bu deneyin tatmin edici bir şekilde
+başarabilmesi için biraz dikkat gerekiyor; ama bunu başkalarının gözlerinde defalarca tekrarlamış olsam da, sabit bir ışıkta yapıldığında ve gümüş burundan yeterince yukarı çıkarıldığında nadiren başarısız olmuştur.
+
+Dr. Whytt'in anlattığı vakada olduğu gibi, sinirlerine bir uyarı uygulandığında göz bebeğinin daralması yerine genişlemesi, ilk başta varsayılabileceği kadar nadir bir durum değildir. Ben bunun üç örneğini baş hastalıklarında gördüm. Bunlardan biri, nöbetlerinin aralıklarında, gözleri güçlü bir ışığa maruz kaldığında göz bebeklerinin aniden genişlediği epilepsi hastasıydı.
+
+Yorklu arkadaşım Bay George Hunter, bir gün bu deneylerden bazılarını tekrarlayarak eğlenirken, metallerden birini diş etleri ile üst dudak arasında mümkün olduğunca yükseğe, diğerini de alt dudağa benzer bir konuma yerleştirerek, metallerden birini burundan geçirip diğerini dilin üzerine yerleştirerek elde edilen kadar canlı bir ışık
+üretildiğini keşfetti. Ancak, başka bir şekilde üretilen ışıktan farklıdır, tek farkı sadece gözle sınırlı olmayıp, yüzün tamamına yayılmış olmasıdır. Metallerin bu şekilde yerleştirilmesiyle oluşan eşzamanlı hislere dikkat ettiğimde, temas ettikleri anda bir sıcaklık hissinin dilin tüm üst yüzeyine yayıldığını, kökten uca doğru ilerlediğini fark ettim. Bay Hunter'ın bu deneyi ilettiği Dr. Rutherford, deneyi tekrarladığında, sadece metaller temasa geçtiği anda değil, aynı zamanda ayrıldıkları anda da bir şimşek
+üretildiğini belirtti. Temas halinde kaldıkları sürece hiçbir şimşek
+gözlenmedi.
+
+Bu gerçek, daha önce bahsedilen bir olguya tam olarak benzemektedir; bir kurbağanın bacağında, temas halindeki metallerden biri diğer metalle bacaktan çekildiği anda kasılmalar meydana gelir.
+
+Bu ilginç fenomenlerin tüm ayrıntılarından sonra, bunların beşinci çift sinirin çeşitli dalları arasında var olan serbest iletişimi gösterdiğini ve sonuç olarak sinirsel sempati veya farklı parçaların sinirler aracılığıyla birbirlerine uyguladığı karşılıklı etki doktrinine güçlü bir destek, hatta kesin bir doğrulama sağladığını belirtmeme gerek yok.
+
+Eğer kanıta başvuramayacağımız bir varsayımda bulunmama izin verilirse, yukarıdaki deneylerde gözlemlenen şimşeğin, sinirlerine bir uyaran uygulanmasıyla istemsiz kaslarda uyarılan kasılmaların etkisi olduğunu; veya başka bir deyişle, metallerin beşinci sinir çiftinin birinci bölümünün burun dalına uygulanmasının etkilerinin, siliyer gangliyondan, siliyer sinirler boyunca ve damarlarını anında harekete geçirdiği koroid kaplamaya yayıldığını; ve tekrar etkilerinin (basınçla veya göze gelen bir darbeyle uyarılan etki durumunda olduğu gibi) retinayı uyararak ışık hissini meydana getirdiğini söyleyebilirim. Bu varsayım, bence, birkaç düşünceyle olası hale getirildi. Bu etkinin, sinirleri aracılığıyla, istemsiz kaslarda kasılmalara neden olabileceğini daha önce gösterdim. Ve kesinlikle, _a priori_, neden her türlü istemsiz kas üzerinde eşit şekilde etki etmemesi gerektiğine dair hiçbir neden gösterilemez; vücuttaki en küçük damarların bir parçası olanlarda, kalpte veya iriste olduğu gibi.
+
+Dildeki atardamarları, metallerin dudaklara uygulanmasıyla yüzeyinde bir sıcaklık hissi üretilen deneyde, artan bir eyleme teşvik ettiği neredeyse
+gösterilmiş gibi görünüyor; çünkü bu durumda, atardamarların artan eyleminin yanı sıra, ısının evrimine neden olabilecek başka bir nedenin varlığına işaret etmek zor olurdu: ve bu nedenin, burada ayrıntılı olarak açıklanması gerekmeyecek kadar aşina olduğumuz sayısız deneyden bildiğimiz etkiyi yapmaya yeterli olduğu.
+
+Ancak metallerin kan damarlarının hareketini etkileyip etkilemediği, deneyle çözülebilecek bir sorudur.
+İtiraf ediyorum, aşağıdakiler pek tatmin edici değildi ve henüz tüm dikkatimle tekrarlamak için boş zaman ve fırsat bulamadım.
+
+Çok yüksek güçlere sahip bir mikroskopla canlı bir kurbağanın ayağını inceledim. Ayağı, ağın geniş kalmasını sağlayacak şekilde sabitlerken, her türlü önleme rağmen, önemli derecede bir iltihaplanma meydana geldi.
+Kanın akışı birkaç damarda belirgin bir şekilde görüldü, bazen hızla, bazen yavaş ve bazen de ilk gözlemlendiği yönün tersine, ama aynı hızla akıyordu. Ayağın etli kısmı ile destekçisi arasına ince bir çinko levha sokuldu ve uyarıcı olarak gümüş bir prob kullanıldı. Bana göre, metaller birbirine değdirildiğinde dolaşım birkaç kez belirgin bir şekilde hızlandı: ama bana yardım eden beyefendiler hiçbir değişiklik göremediler. Bacak kaslarındaki kasılmaların herhangi bir yanılgıya yol açmasını önlemek için, krural arter açığa çıkarılmalı ve aralarından ince bir cam levha veya mühür mumu geçirilerek çevredeki kısımlardan yalıtılmalıdır.
+
+Flaşın, koroid tabakasını oluşturan damarların böylesi artan bir hareketinin etkisi olduğu kanıtlanması biraz daha zor olabilir. Ancak, herkesin bildiği gibi, bir darbe ve göze uygulanan o basınç, daha önce de belirttiğim gibi, benzer bir etki yaratabilir. Ve Bonetus'un Hermannus Cummius'tan alıntıladığı aşağıdaki vaka, eğer inanılırsa, görmenin gözün bir bölümündeki kan damarlarının aktivitesiyle retinaya verilen uyarana bağlı olduğuna dair neredeyse kesin bir kanıt sunar. 'Quando theologus, plaga dolorifica, a rupta instrumentsi musici chorda
+kabul et, sonraki gece yetişkin reçeli, e somno evgilans, cuncta clare,
+bu arada, video, video, en küçük resimler ve kasetler
+Traktus Observare, Karakteresk Ex Libro Legere Posset. Okul vero
+laeso clauso, tenebras densissimas adesse ille algısı, eodemque iterum
+aperto, conclave illustratum visum est, lucem tamen candelae allatae
+solisque splendorem de die, aegre tulit oculus effectus, quod per
+kısım duravit ölür, tandemque sensim remisit.'
+
+Haller bu tür vakalardan hiç de nadir olmayan bir şekilde bahsediyor ve benzer vakaları anlatan birkaç yazarın isimlerini aktarıyor.
+
+Bu etkinin yönü, doğal seyrini izlemesine izin verildiğinde, diğer çoğu uyaranın yönüyle aynı görünüyor, yani
+ilk olarak bir siniri etkilediği yerden, o sinirin
+sonlandığı yere doğru. Kendi ulnar sinirime, humerusun iç kondilinin üzerinden geçerken defalarca elektrik kıvılcımları gönderdim, ancak hem hisler hem de bunların
+ürettiği kasılmalar tamamen el ve ön kolla sınırlıydı. Hem Dr. Monro'nun hem de Yorkshire'daki Halifax'tan Dr. William Alexander'ın deneylerinden de anlaşıldığı üzere, bir kurbağanın gövdesi ile arka ekstremiteleri arasında siyatik sinirleri dışında hiçbir iletişim
+kalmadığında, arka ekstremitelerinin derisinin altına enjekte edilen güçlü bir afyon solüsyonu, ikisini de duyarlılıklarından ve kasılma güçlerinden mahrum bırakıyor; ancak vücudun gövdesini en ufak şekilde etkilemiyor. Aksine, gövdeye uygulanırsa, hem gövdeyi hem de ekstremiteleri yoruyor.
+
+M. Galvani'nin, metaller yalnızca çıplak bir sinire uygulandığında, çevredeki kısımlardan bölünmeden veya ayrılmadan, keşfettiği etkinin etkilerini bir kurbağanın tüm vücuduna yayıldığını gözlemlediği söyleniyor. Hayvanın ifade ettiği huzursuzluktan bu etkinin yayılımını çıkarsamamıza izin verilirse, M. Galvani'nin gözlemi haklı olabilir. Kasılmalardan şüpheleniyorum ki, kesinlikle öyle değil; çünkü, konu üzerinde yaptığım her deneyde, kasılmalar, metallerin dokunduğu sinirin dağıldığı kısımlarla sınırlıydı.
+
+Ancak, bu etkinin, sinirlerin seyrine ters bir yönde geçebileceği, duyular üzerindeki etkileriyle ilgili olarak anlattığım bazı deneylerden açıkça anlaşılıyor, ancak aşağıdakilerle daha da
+açıkça gösteriliyor.
+
+Eğer, yakın zamanda öldürülen bir kurbağanın pelvisinden ayrıldıktan sonra, siyatik sinirler, omurgadan kökenlerine kadar hücre zarından serbest bırakılırsa ve bunun altındaki tüm kısımlar, kendileri hariç, kesilirse, omurganın her iki tarafındaki kaslar, biraz yukarı doğru, sadece sinirlere temas eden iki metalle dokunarak kasılmaya getirilebilir. Bu deney, bende her zaman başarılı olmadı ve kurbağa yakın zamanda öldürülmediği sürece asla başarılı olmadı. Arka bacaklar sinirlerden ayrılmadığı sürece, asla başarılı olmadı;
+Tek kasılmalar bacaklarda meydana gelir.
+
+KAN DAMARLARININ.
+
+Dr. Valli bize kan damarlarını silahlandırarak hiçbir kasılmanın uyarılmadığını söyledi; ancak bize deneylerinin kan hala içlerinden akarken mi yoksa kanları kesildikten sonra mı yapıldığını söylemediği için, aşağıdaki deneyi yapmaya karar verdim.
+
+Tam yetişkin bir kurbağanın uyluğundaki krural arteri ve siniri açığa çıkarıp, çevreleyen kısımlardan ve birbirlerinden ayırdıktan sonra,
+pelvis ile diz arasındaki sinirin tamamını kestim.
+Daha sonra arterin altına, kağıda yayılmış ve arterin büyük bir bölümünü uyluğun geri kalanından tamamen ayrı tutacak kadar geniş, ince bir mühür mumu tabakası yerleştirdim. Kan, arterin tüm seyri boyunca azalmayan bir akışla akmaya devam etti. Böylece kısmen yalıtılmış olan arter, gümüş ve çinko ile temas ettirildi ve daha sonra birbirleriyle temas ettirildi; ancak uzuvdaki hiçbir kasta herhangi bir kasılma meydana gelmedi. Bu
+deney, sinirin bölündüğü ve bölünmediği birçok farklı kurbağa üzerinde sık sık tekrarlandı. Sonuç
+tekdüze aynıydı. Ancak, bir elektrik kıvılcımı veya hatta auranın tam bir akışı atardamara iletildiğinde, tüm uzuvda canlı kasılmalar meydana geldi.
+
+Ancak, bu deneyden, hayvanların kanlı sisteminin Galvani tarafından keşfedilen etkiyle hiçbir şekilde ilişkili olmadığı sonucu çıkmaz. Kalbin bundan etkilenebileceğini daha önce gösterdim ve vücudun en küçük atardamarlarının bile bu etkiden muaf olmadığına inanmak için sebep verdim. Eğer bunun hayvanlara özgü bir özellik olduğu kanıtlanırsa, kökeninin bile onların kanlı sistemine kadar izlenmesi imkansız değildir. -----
+
+Dipnot 11:
+
+Bu doktrinin ilk yazarının kim olduğunu kendime bildirmek için çaba sarf etmedim; ancak Caldani, Haller ve Fontana tarafından ve deneyime inanan herkes tarafından benimsenmesi, Willis, Lower, Kaau, Boerhaave, Laghi ve hatta dahi Whytt'unkine karşıt olarak, kesinlikle geçerlilik kazandırmaya yeterliydi.
+
+Dipnot 12:
+
+Mem. Med. Soc. Lond. cilt iii.
+
+----------------------------------------------------------------------------------
+
+BÖLÜM IV.
+
+_Sinirlerin ve Kasların ilgili Güçlerinin türetildiği Kaynağı araştırma girişimi._
+
+Hala, hayvanların sinirlerinin ve kaslarının ilgili özelliklerini nereden türettiği sorusu şüpheli bir durumda. Birçok kişi tarafından,
+beyin, yalnızca sinirler tarafından uygulanan çeşitli enerjilerin, duyuma, iradeye tabi kasların uyarılmasına veya etkisinden muaf organlara dağıtılmasına tahsis edilmiş olsun, kaynağı olarak değil; aynı zamanda, kasların bir uyarının uygulanmasıyla kasıldığı
+belirsiz gücün de kaynağı olarak kabul edilmiştir.
+
+Başkaları tarafından, bu çeşitli özelliklerin, sinirlerin ve kasların kendi işlevlerini yerine getirmeleri için uygun olan
+o zarif ve özel organizasyonun malzemelerini ve yapısını sağlayabilen
+atardamarlardan türetildiği varsayılmaktadır veya kandan, M. Fontana'nın orada var olduğuna inandığı veya şu anda incelediğimiz gibi, farklı kısımlarda farklı şekilde değiştirilen, hayvanların sergilediği tüm fenomenlerin gizli nedeni olabilecek bazı ince ilkeler sağlayabilen
+kandan türetildiği varsayılmaktadır.
+
+İlk görüşün savunucuları, beyin önemli ölçüde hasar gördüğünde veya sinirler aracılığıyla hareket eden parçalarla serbest iletişimi kesildiğinde, hem duyu hem de hareketten yoksun kalmanın tekdüze bir sonuç olduğunu gözlemlemektedir: ve ayrıca, hem duyu hem de hareketten oluşan çeşitli
+organların, düşünme sırasında beynin aşırı zorlanmasından, kendi çabalarından deneyimlediklerine eşit derecede zarar gördükleri görülmektedir.
+
+İkinci görüş, daha az önemli olmayan gerçekler ve gözlemlerle desteklenmektedir. Haller'in deneylerinden; Bazıları Felsefi İşlemler'in erken ciltlerinden birinde ve diğerlerinde kaydedilmiştir, hayvanların arka ekstremitelerinin felcinin aortlarının bağlanmasıyla indüklendiği anlaşılmaktadır.
+
+Hem Dr. Monro hem de Halifax'lı Dr. Alexander, kurbağaların arka ekstremitelerini besleyen tüm kan
+damarları bölündüğünde ve bu ekstremitelerin derisinin altına afyon solüsyonu enjekte edildiğinde, yarım saatten kısa bir sürede hem hareketsiz hem de duyarsız hale geldiklerini belirtmişlerdir; oysa vücudun ön kısmı altı saat sonra gözle görülür şekilde etkilenmemiştir; ve Dr. Monro'nun deneylerinde, kurbağalar ertesi güne kadar yaşamıştır. Bu nedenle Dr. Monro, 'eşzamanlı atardamarların, bir şekilde veya başka bir şekilde, sinirleri, izlenimi iletmeye uygun hale getirecek şekilde ayarladığını' sonucuna varmıştır[13]. Öte yandan, sinirlerin izlenimleri büyük bir doğrulukla iletmesi amaçlandığında, tüm duyularda olduğu gibi ve bazılarının altıncı duyu organı olarak düşünerek eğlendiği bölümde çok dikkat çekici bir şekilde, kan damarlarının dağılımı neredeyse diğer eşit bölümlerden daha fazladır. Aynı şekilde, bir bölümdeki vasküler eylemin artışının her zaman orada orantılı bir duyarlılık artışıyla birlikte geldiği evrensel olarak doğrudur. Bay Cruikshanks tarafından yapılan ve o zamandan beri M. Fontana ve diğerleri tarafından tekrarlananlardan tam olarak doğrulanan değerli deneylerden, beyin ve sinirler arasındaki ilişki ne olursa olsun, sinirlerin çıkarıldıktan sonra kesinlikle yeniden canlandırılabileceği ve işlevlerinin tamamen geri kazanılabileceği anlaşılıyor. Şimdi, bunun atardamarlar aracılığıyla olmadığı sürece nasıl başarılabileceği, sanırım, belirtmesi kolay bir iş olmayacaktır. Galvani'nin keşfettiği etki bana, hayvanların fizyolojisindeki bu önemli noktalarla ilgili olarak kesin bir şeyin tespit edilebileceği takdire şayan bir test gibi göründü ve bu nedenle aşağıdaki deneylerde kullandım.
+
+Bu nedenle, bir yandan beyni, diğer yandan kanlı sistemi, sinirlerin ve kasların güçlerini elde edebilecekleri olası kaynaklar olarak ele alarak, önce beyinle, sonra da atardamarlarla iletişimlerinin kesilmesinden kaynaklanan etkileri karşılaştırarak başladım. Bu işlem biçimi, göz önünde bulundurduğum her nesneyle ilgili olarak en iyi bilgi olasılığını sağlıyordu, ancak özellikle bu etkinin incelenen çeşitli parçalarla ilgili
+olabileceği ilişkilerle ilgili olarak.
+
+Deneyleri anlatmadan önce, karşılaştırmanın yalnızca kısmen kesintiye uğramış iletişimin etkileri arasında yapıldığını belirtmeliyim; çünkü bir hayvanın herhangi bir parçası ile vücudunun geri kalanı arasındaki sinirsel veya atardamarsal iletişimin tamamen kesilmesinin, hayvana zarar vermeden, sonucu yanıltıcı hale getirmeden gerçekleştirilemeyeceği açıktır.
+
+_Kurbağaların Siyatik Sinirlerinin Bölündüğü Deneyler._
+
+DENEY I.
+
+Siyatik siniri sadece bir taraftan dört büyük kurbağaya böldüm.
+Bölme, uyluklarının en üstünde ve sinir uyluk kaslarına ilk büyük dalı vermeden önce yapıldı.
+Bu sinir, ince ama çok güçlü bir hücresel zar kılıfıyla sıkıca bağlı olduğu büyük krural arterin hemen altında yer alır. Uyluğun alt tarafındaki kasların bazılarını besleyen küçük bir sinir bölünmeden bırakıldı. Sinirleri bölünmüş olan bacaklar, diz altında tamamen felç oldu ve neredeyse diz üstünde de felç oldu. Bu bacaklar da, sinirlerinin bölünmesinden hemen sonra, çinko üzerine konulduğunda kuvvetlice kasıldı ve dizin alt kısmıyla temas halinde olan bir gümüş çubuk geçirilerek çinkoya değene kadar uyarıldı; ancak, bir bacağın kasılabilirliğinin diğerinin kasılabilirliğiyle karşılaştırılabilmesi için doğal hallerinde bırakılan diğer bacaklar, metaller üzerlerine benzer şekilde uygulandığında kasılmadı.
+
+Bu kurbağaların hepsi başları kesilerek öldürüldü; birincisi, sinirin bölünmesinden sonraki iki günün sonunda; ikincisi, beş günün sonunda; üçüncüsü, yedi günün sonunda; dördüncüsü, dokuz günün sonunda. Bacakları, başları kesildikten sonra, herhangi bir kasılmanın uyarılabileceği sürece, her gün dört veya beş kez, tarif ettiğim şekilde dikkatlice incelendi; Ancak bu örneklerden hiçbirinde, kasılma gücünün, sinirlerin bölünmediği bacaklarda, bölündüğü bacaklardan daha uzun veya daha güçlü olduğunu algılayamadım.
+
+Hem bu deneylerde hem de aynı kurbağanın iki bacağı arasında bir karşılaştırmanın yapıldığı diğer tüm deneylerimde, kasların suya eşit olmayan bir şekilde maruz kalmasına neden olmamak için her iki uyluktaki deriyi eşit parçalara böldüm; bu da sonuçta bir yanılgıya yol açabilirdi.
+
+DENEY II.
+
+Geçtiğimiz 31 Mart'ta, bacaklarından birinde, krural atardamar ve siniri açığa çıkararak, dört ay önce iltihap uyandırdığım bir kurbağayı ikiye böldüm. İltihaplanma o kadar şiddetli ve geneldi ki, kurbağa bunun sonucunda kütikülünü kaybetti ve sağlıklı bir kurbağayla karşılaştırıldığında, solunumunun dikkat çekici derecede sık olduğu görüldü. Bundan üç hafta sonra, uyluğundaki yara mükemmel bir şekilde kapandığında, onu tekrar açtım ve siyatik siniri ayırdım. Bu sefer genel bir iltihaplanma olmadı, yara da tekrar kapanmadı; ancak öldürülmesinden yaklaşık bir ay önce, sinirin bölünmesinin hemen üzerinde büyük bir ülser oluşmuştu, ancak oraya doğru ilerlememişti. Kurbağayı öldürdüğüm sırada, uzuv hem hareketten hem de histen yoksundu, tıpkı sinirin bölündüğü ilk anda olduğu gibi, ancak ülsere çinko ve gümüşle dokunarak kasılmalar uyarılmıştı. Ancak kurbağa öldüğünde, kasılmaların bu bacakta diğer bacaktan çok daha zayıf olduğu görüldü.
+
+Metaller şimdi karın içindeki siyatik sinirlere uygulandı.
+Sağlam bacakta şiddetli kasılmalar uyarıldı, ancak siniri bölünmüş olan bacakta hiçbiri uyarılmadı. Dolayısıyla gerçek bir
+yenilenmenin gerçekleşmediği açıktı. Siniri bölünmüş kısımda dikkatlice incelediğimde, birbirinden önemli ölçüde uzaklaşmış olan bölünmüş uçların şeffaf jelatinimsi bir maddeyle birbirine bağlı olduğunu gördüm. Üst uçtan, konik bir forma uzamış gibi görünen, araya giren maddeye birkaç kırmızı çizgi
+çıktı. Alt uç
+opak, kalınlaşmış ve yuvarlaktı. Bu kısımlar bir mikroskop yardımıyla
+incelendiğinde, araya giren maddede veya bölünmenin altındaki sinir kısmında spiral bantların görünümü
+tespit edilemedi. Bu madde, üst kısım bir çift forsepsle
+kaldırıldığında, sinirin alt kısmını desteklemek için yeterli kıvama ulaşmıştı. Sinirin
+bölündüğü bacak, diğeri kadar uzun süre kasılmaya devam etti, ancak çok daha az
+şiddetli bir şekilde ve kasılmaları en uzun süre
+uyarabildiğim kısım ülserdi.
+
+DENEY III.
+
+Geçtiğimiz 14 Nisan'da, arka ekstremitelerini vücutlarından ayırarak iki kurbağayı daha öldürdüm. Birinde, sağ siyatik sinir, ölümünden altı haftadan daha uzun süre önce
+bölünmüştü. Diğerinde, siyatik sinirlerden biri üç hafta ile bir ay arasında bölünmüştü.
+
+Bu kurbağaların bacakları, vücutlarından ayrılmadan önce ve sonra metaller tarafından incelendiğinde, daha önce bahsedilenlerden çok farklı bir durumda bulundu. Kasılmalar neredeyse fark edilemiyordu. Sinirlerine ulaşmak için deriden yapılan kesiler, yapıldıktan bir haftadan kısa bir süre sonra tamamen kapanmıştı.
+
+Sinirleri bölünmüş olan bacaklardaki kasların görünümü, hiçbir şey yapılmamış olanlarla tam olarak aynıydı; ancak bu duruma rağmen, güçlü elektrik kıvılcımları bile çok zayıf kasılmalara neden oluyordu. Sinirler incelendiğinde, en uzun süre bölünmüş olanın uçlarının, sinire hiç benzemeyen, ancak önceki deneyde bulunana benzeyen ve açıkça üst bölünmeden kaynaklanan bir maddeyle birbirine bağlı olduğu görüldü. Çok uzun süre bölünmemiş olan sinirde, bu durum daha da belirgindi, çünkü madde alt bölüme kadar uzanmamıştı. Bu üst bölümleri çevreleyen hücre zarı, ince bir şekilde enjekte edilmiş sayısız damar görünümündeydi ve sanki sinirin kendisinden geliyormuş gibi jelatinimsi yapıya doğru uzanan bazı kırmızı çizgiler görülüyordu. Sağlam sinirlerde, alternatif opaklık ve şeffaflığın eğik enine çizgileri veya Fontana'nın adlandırdığı gibi sinirlerin beyaz spiral bantları, ilk bakışta ve bir camın yardımı olmadan belirgin bir şekilde görülüyordu; ancak bunların hiçbiri, bölümün altındaki bölünmüş sinirlerin kısımlarında bulunamadı; bunlar tekdüze opaktı. Ancak, hacimleri en ufak bir şekilde azalmamıştı. Uzun süredir bölünmüş olan sinirlerin organizasyonu, bu nedenle, çok belirgin bir değişime uğrar, ancak bu sinirlerin dağıldığı kaslarda aynı değişimin gerçekleştiği kesinlikle açık değildir. Yine de, elektrik etkisine ve bu yeni etkiye karşı duyarlılıkları neredeyse kaybolmuştur. Bazıları bunu, uyaranların kaslar üzerinde yalnızca sinirler aracılığıyla etki ettiği yönündeki ek bir argüman olarak düşünebilir.
+
+Daha önce, derileri soyulmuş kurbağaların kaslarının suyun etkisine maruz kaldığında kısa bir süre
+içinde sertleştiğini gözlemlemiştim. Bu nedenle, sinirleri bölünmüş olan bu bacaklarla diğerleri arasında bu açıdan bir fark olup olmadığını görmek isteyerek onları suya koydum ve her on dakikada bir inceledim, ancak ikisi de neredeyse aynı anda sertleşti. Fizyolojik uğraşlarda oldukça bilgili bir beyefendi olan Bay Allen, bu sinirlerden birinde uzun süre bölünmüş kalması sonucu meydana gelen
+değişimi incelerken yanımdaydı ve daha sonra bunu Dr. Rutherford'a gösterme fırsatım oldu. Sinirlerini böldüğüm tüm kurbağalarda, bölünmüş uçların,
+birbirlerine tam temas edecek şekilde yerleştirilmelerine rağmen, bir süre sonra
+birbirlerinden en az 1/12 inç gerilediğini gözlemledim.
+
+_Kurbağaların Kravral Atardamarlarının,
+önceki Deneylerde Sinirlerin bölündüğü kadar,
+vücutlarının Gövdelerine yakın bağlandığı Deneyler._
+
+DENEY I.
+
+Yetişkin bir kurbağanın her iki kravral atardamarı açığa çıkarıldıktan sonra,
+biri bağlandı. Bunun yapıldığı bacak, diğerinden anında zayıfladı ve hayvan suya konduğunda sürüklendi.
+Ancak kurbağa hala büyük bir çeviklikle zıplayabiliyordu. Bu operasyondan dört
+saat sonra, beyni ezilerek öldürüldü. Bundan sonra iki günden fazla bir süre boyunca, dokunulduğunda bacaklarını kendiliğinden hareket ettirmeye devam etti ve kasılmalar, metallerin uygulanmasıyla iki gün daha uyarılabilirdi. Bazen, hangi bacağın en şiddetli şekilde kasıldığı oldukça şüpheli görünüyordu, ancak genel olarak, atardamarın serbest kaldığı bacak kasıldı ve kasılmalar, diğer bacakta onları uyarmak için kullanılan tüm yöntemler başarısız olduktan bir saatten fazla
+bir süre sonra bile onda uyarılabilirdi.
+
+DENEY II.
+
+Diğer iki kurbağanın krural atardamarlarının etrafına bağlar geçirildi ve bunlardan birinin, başı ezilmeden önce otuz altı saat daha yaşamasına izin verildi: diğer dört gün. Bunlarda, karşılaştırılan bacaklardaki kasılmaların şiddeti ve devamlılığı arasındaki orantısızlık, önceki deneydekinden o kadar daha fazlaydı ki, bir atardamarın bağlanmasıyla oluşan etkiler konusunda hiçbir şüpheye yer bırakmıyordu. Atardamarları dört gün bağlı kalan bacak, diğer bacak kadar güçlü bir şekilde asla kasılmadı ve kasılmalar, atardamarı bağlanmamış bacakta durmadan yirmi saatten fazla önce uyarılabilir olmaktan çıktı.
+
+Bu deneylerden, kasılmanın bağlı olduğu uzuv durumuna, beyinle iletişimini kesmektense dolaşımının kesilmesiyle çok daha fazla zarar verildiği kesin olarak ortaya çıkıyor.
+
+Ancak yine de, beynin ve dolaşımın etkisinin kesilmesinden kaynaklanan etkiler, aynı hayvanda değil, yaşları, göreceli güçleri vb. muhtemelen farklı olabilecek farklı hayvanlarda karşılaştırıldığı için, karşılaştırmayı aşağıdaki şekilde tekrarlamanın uygun olacağını düşündüm.
+
+_Siyatik Sinirin bir taraftan kesildiği,
+ve Crural Arterin diğer taraftan bağlandığı deneyler._
+
+DENEY I.
+
+Bir bacağın siyatik sinirini böldüm ve diğerinin crural arterini büyük bir kurbağaya bağladım. İkisini de yaparken neredeyse hiç kan
+kaybetmedim. Bundan iki gün sonra onu boğdum. İlk 24 saat boyunca,
+sinirin bölündüğü bacak en güçlü şekilde
+kasılıyor gibi göründü; bu süreden sonra, aralarındaki fark daha
+şüpheli hale geldi; ancak kasılmalar,
+arterinin bağlandığı bacakta, sinirinin bölündüğü bacaktan daha güçlü değildi.
+
+DENEY II. Aynı işlemler yumurta dolu büyük bir dişi kurbağaya uygulandı. Dört saat sonra, benzer şekilde tedavi edilmiş bir erkek kurbağa tarafından örtülü olarak görüldü. Bu durumdan bahsediyorum çünkü
+bu, operasyonun neden olduğu acının muhtemelen çok fazla yanılgıya yol açacak kadar büyük olmadığını kanıtlıyor.
+
+Ertesi gün, yumurtlamıştı ve operasyonlardan sonraki altıncı günde boğuldu. Çinko bir plaka üzerine yatırıldığında ve gümüş bir çubukla uyarıldığında, kasılmaların atardamarı bağlanmış olan bacakta son derece zayıf olduğu ve ölümünden yaklaşık yirmi iki saat sonra tamamen durduğu görüldü. Siniri kesilmiş olan bacakta, daha önce hiçbir yaralanma olmamış bacaklarda olduğu kadar kuvvetli görünüyorlardı ve diğerinde artık böyle olmamaya başladıktan sonra iki günden fazla uyarılmaya devam ettiler.
+
+DENEY III.
+
+Üç yetişkin erkek kurbağanın krural arterini bir tarafa bağlayıp, siyatik sinirini diğer tarafa böldükten sonra, hepsini takip eden altıncı günde boğdum. Bu tür deneylere tabi tutulan kurbağaları, ya bu şekilde ya da kafalarını ezerek öldürmemin sebebi açık olacaktır. Dolaşımlarını mümkün olduğunca eksiksiz korumak ve aynı zamanda, beyinle iletişimi kesilmemiş vücudun tüm kısımlarını yorarak, deneylerin sonucunu önemli ölçüde etkileyebilecek olan ağrının devam etmesini önlemek önemliydi. Metaller aracılığıyla uyarılan kasılmalar, tüm bu durumlarda, sinirleri bölünmüş bacaklarda, atardamarları bağlanmış bacaklardakinden, önceki deneyde bulduğum kadar güçlü ve dayanıklıydı. Böylece, bir bölümün dolaşımındaki azalmanın, o bölümdeki sinirlerin ve kasların ilgili güçlerinde orantılı bir azalmayla birlikte olduğunu bulduktan sonra, daha sonra artan bir dolaşımın bu güçlerde orantılı bir artışla birlikte olup olmayacağını incelemeye devam ettim. Sinirler açısından durumun gerçekten böyle olduğunu, iltihaplı bir durumdaki göz hakkında anlattığım birkaç gerçek kanıtlama eğilimindedir; ve hepimiz, vasküler eylemin artmasıyla vücudun her bölümünün duyarlılığının ne kadar arttığını biliyoruz. Artan atardamar eylemi ile kasların kasılma gücü arasında benzer bir ilişkinin var olduğunu, sanırım, aşağıdaki deneyle kanıtlanmıştır. _İltihaplanmanın Bazı Etkilerini
+belirlemek amacıyla yapılan deneyler._
+
+DENEY I.
+
+Daha önce canlı ve bütün bir kurbağanın bir çinko levha üzerine
+konulduğunda, üzerinden gümüş bir çubuk geçirilerek vücudunun herhangi bir yerinde kasılmaların çok nadiren meydana gelebileceğini söylemiştim, böylece gümüş, kurbağa ve çinko birbirleriyle temas halinde olabilir. Ancak, yirmiden fazla deneyde, bir kurbağanın arka bacaklarından birinde bir fırçayla tahriş edilerek iltihap uyarıldığında, metaller uygulandığında o bacakta düzgün bir şekilde kasılmalar meydana geldiğini, ancak iltihaplanmadan önce hiçbirinin oluşmadığını ve doğal halinde kalan diğer bacakta hala oluşamadığını
+buldum.
+
+DENEY II.
+
+Daha önce sağlıklı ve büyük bir kurbağanın ayağında ve bacağında bir fırça vasıtasıyla iltihap uyardıktan sonra, başını kestim. İltihaplı bacaktaki metaller tarafından uyarılan kasılmalar şiddetli
+ve ani hareketler halindeydi; sağlam bacaktakiler daha uyuşuk ve
+zorlukla uyarılmıştı. Bu sırada kendiliğinden oluşan hareketler her ikisinde de neredeyse aynı şekilde devam etti. İkinci günün sonuna kadar, bu kurbağanın başı alındıktan sonra, iltihaplı bacakta oluşan kasılmalar tekdüze bir şekilde devam etti ve sağlam bacakta herhangi bir şekilde oluşturabileceğimden çok daha şiddetliydi. Ancak, bu süreden sonra iltihaplı bacak bir tahta parçası kadar sertleşti; muhtemelen iltihabın yol açtığı
+efüzyonun sonucu olarak.
+
+Beş benzer deneyin olayı o kadar birbirine yakındı ki, bunları ayrıntılı olarak anlatsam gereksiz yere önemsiz sayılırdım.
+
+Şimdi belki de siyatik sinirleri üç hafta ile bir ay arasında, diğeri altı hafta arasında bölünmüş olan bacaklardaki kasılma gücünün eksikliğini, siniri üç aydan uzun süre bölünmüş olan bacaktakiyle karşılaştırarak açıklamaya hazırız. Bu deneylerin koşullarından, kurbağaların siyatik sinirlerinin beslenmesine tahsis edilen bazı atardamarların, sinirlerin kendisiyle aynı rotayı izlediği anlaşılıyor; çünkü yeni maddenin birikimi sinirlerin üst bölümünden izlenebiliyordu. Bu nedenle, sinirlerin bölümün altındaki kısmının, zamanla yapılarında ve dolayısıyla güçlerinde bir miktar değişikliğe neden olacak kadar, olağan atardamar beslenmelerinin önemli bir kısmından mahrum bırakılmış olması gerektiği açıktır. Buna göre, bu tür bir yapı değişikliğinin ve bu tür bir güç eksikliğinin gerçekten gerçekleştiğini görüyoruz. Ayrıca, atardamarlardan gelen beslenmenin geri gelmesiyle orantılı olarak, üç ay bölünmüş olan sinirin güçlerinin de geri gelmesi olasıdır. Bu varsayım, sinirlerin yeniden üretildiği her örnekte desteklenmektedir; Bölündükleri kısımların işlevlerinin hemen değil, kademeli olarak geri kazanıldığını görüyoruz.
+
+M. Fontana, bölündüklerinde siyatik sinirlerin muhtemelen asla gerçek sinirsel yapıyla yeniden birleşmediği görüşünü aceleyle benimsemiş gibi görünüyor, çünkü bölünmeleri ile sonraki incelemeleri arasında geçmesine izin verdiği çok kısa
+sürede hiçbir yeniden birleşme gerçekleşmedi. Anlattığım deneylerde, yeniden birleşmeye doğru ilerleme, sinirlerin bölünmüş kaldığı süreye çok kesin bir oranda olmuş gibi görünüyor; ve Dr. Monro'nun anlattığı, bir kurbağanın siyatik sinirinin hayvanın ölümünden bir yıl önce
+bölündüğü bir deneyde, üreme mükemmel bir görünüme sahip olacak kadar ilerlemiştir. Ayrıca, hayvanın yeterli bir süre yaşamasına izin verilmiş olsaydı, hem duyarlılığın hem de uzuv hareketinin
+yeniden kazanılacağından da şüphem yok. Aşağıdaki gerçek, varsayımı en azından son derece olası hale getirir.
+
+Edinburgh Tıbbi Denemeleri'nin ilk cildinde, bir savaş gemisinin Yüzbaşısının, boynundan aldığı bir kurşun yarası sonucu sağ kolunun kullanımını tamamen kaybettiği anlatılır.
+Davanın koşulları, bu beyefendinin kolundaki hareket gücünün kaybının, kola giden servikal sinirlerin bölünmesinden kaynaklandığına dair hiçbir şüpheye yer bırakmayacak şekildedir: yine de bu kolun hem tam kullanımı hem de gücü, yaklaşık iki buçuk yıllık bir süreden sonra geri kazanılmıştır. Bu durumda, sinirlerin gerçek bir
+yenilenmesinin gerçekleştiğine dair tamamen tatmin edici bir kanıt; ve eğer bu durumda, vücudun başka bir yerinde de aynı şekilde gerçekleşmemesi için hiçbir neden görülmemektedir.
+
+Diğerlerinin yeniden üretilmesi için gereken uzun zamanla karşılaştırıldığında, interkostal, parvagum ve tekrarlayan sinirlerin çok
+hızlı yeniden üretilmesinin tatmin edici bir nedenini belirlemek zor olabilir. Bu, muhtemelen hem yükselen hem de alçalan bir yönde atardamarlarla beslendikleri çok bol miktardaki tarzdan kaynaklanmıyor mu; yukarıdan üstten, alttan ise alt laringeal atardamarlar tarafından?
+
+Bu nedenle, genel olarak, kanlı sistemin, kasılma fenomenlerinin bağlı olduğu kas ve sinir durumunun desteklenmesine beyinden daha doğrudan katkıda bulunduğu oldukça kesin görünüyor; çünkü bu durum, birincisinin etkisini engellemekle ikincisinden çok daha fazla zarar görüyor.
+
+Beslenme ve parçaların yeniden üretimi konusunda yapılmış olan her deney ve gözlem, sinirlerin ve kasların, vücudun diğer her parçasıyla birlikte, yapılarını atardamarlardan aldığını açıkça gösteriyor; ve çeşitli özelliklerinin bir ölçüde bu yapıya bağlı olması gerektiği açıktır. Ancak M. Galvani'nin, bir hayvanın bir bölümünden diğerine yabancı bir ortam aracılığıyla iletilebilen ince bir etki keşfi, sinirler ve kaslar tarafından sergilenen fenomenlerin belki de daha doğrudan böyle bir etkiye bağlı olabileceği varsayımına makul bir şekilde yol açabilir; ve bazılarının bunun bile kandan kaynaklandığından şüphelenmesine yol açabilecek nedenler vardır.
+
+_M. Fontana'nın bazı görüşlerine göre önerilen deneyler._
+
+Belki de bir fizyolog tarafından yapılmış en fazla deneyden, M. Fontana, incelediği engerek zehri, afyon ve diğer birkaç zehirin, doğrudan sinirlere ve kaslara uygulandığında hiçbir etki yaratmadığı, ancak kanda var olan ince bir ilke üzerinde etki göstererek yaşamı yok ettiği sonucuna varmıştır.
+
+M. Fontana'nın bu konu üzerinde yayınladığı deneylerden bağımsız olarak, böyle bir ilkenin varlığına ilişkin görüşünün, Harvey ve Bay Hunter'ın kanın yaşamı hakkındaki görüşlerinden ve Bay Hewson'ın, zihnin tutkuları ve kalbin ve atardamarların eylemini etkileyen diğer şeylerle kanın pıhtılaşabilirliğinde anında değişiklikler meydana geldiğini gösterdiği deneylerden önemli ölçüde destek aldığı düşünülebilir. Halifax'lı Dr. Alexander tarafından yapılan ve 1790 yılında burada yayınlanan, mükemmel Tezi 'De
+partibus corporis quae viribus opii parent' adlı bir deney, ilk bakışta M. Fontana'nın görüşünün yeterli bir çürütmesi gibi görünebilir.
+
+Büyük bir tavşanın şah damarına enjekte edilen suda kuvvetli bir afyon çözeltisinin otuz üç damlasının, M. Fontana'nın deneylerinde olduğu gibi, onu dört buçuk dakikada yok ettiğini buldu; oysa,
+aynı miktar, iki enjeksiyon arasında yirmi altı dakika arayla başka bir tavşanın bacaklarındaki crural vene enjekte edildiğinde, hayvanı birkaç saat boyunca uykulu ve aptal hale getirmesine rağmen, ona maddi veya kalıcı bir zarar vermedi. Bu nedenle, Dr. Alexander, şah damarına enjekte edilen afyonun, yalnızca kan üzerinde etki ederek hayvanı yok etmediği sonucuna varıyor, çünkü etseydi, vücudun herhangi bir başka damarına eşit miktarda enjekte edilerek aynı etki elde edilebilirdi; ancak şah damarına enjekte edildiğinde ölüme neden olan miktarın iki katı, crurallara enjekte edildiğinde ölüme neden olmadı.
+
+Ancak, M. Fontana tarafından yarışmaya getirilen sayısız konakçının tek bir deneyle, kabul edilmesi gerektiği kadar
+zorlu olduğu kabul edilmeli
+değildir. Ayrıca, buna bile itiraz edilebilir,
+afyonun damarlara verildiği, oradan atardamar kanına geçmesinin juguler venden çok daha uzun sürdüğü ve dolayısıyla oraya ulaşmadan önce çok daha seyreltilmiş ve belki de doğası gereği çok fazla değişmiş olması gerektiği, bu da karşılaştırılan iki vakadaki sonuç farkını açıklamak için yeterli olabilir.
+
+M. tarafından sağlanan fırsat Galvani'nin, M. Fontana'nın savunduğu görüşün doğruluğunu daha kapsamlı bir şekilde teste tabi tutması ve eğer kanda olduğunu varsaydığı gibi herhangi bir ilkenin gerçekten orada bulunduğu tespit edilirse, bunun M. Galvani tarafından keşfedilenle aynı olabileceği olasılığı, beni şu deneyleri yapmaya yöneltti.
+
+DENEY I.
+
+Mümkün olduğunca aynı büyüklükte ve canlılıkta iki kurbağa seçtikten sonra, önce krural damarlarından birini, sonra krural atardamarını ve en son da kalbini açarak kanından mahrum bıraktım. Kanının tamamen boşaldığından emin olmak için, kalbine su enjekte ettim ve hemen ardından kırk damla kuvvetli bir afyon sulu çözeltisi[14] enjekte ettim.
+
+Daha sonra diğer kurbağanın göğüs kemiğini çıkardım ve kalbinin ventrikülüne bir
+açıklık açtıktan sonra, ona da aynı şekilde
+kırk damla solüsyon enjekte ettim. Bunu yaparken ilk başta beklenenden daha az kan
+fışkırdı; çünkü ventrikül, kesiden hemen sonra o kadar güçlü bir şekilde kasılır ki, diğer kurbağada olduğu gibi kesi kasıtlı olarak büyük yapılmadığı sürece, fazla kanın dışarı
+çıkmasını engeller.
+
+Her enjeksiyonun yapıldığı an doğru bir şekilde not edildi ve
+ilk kurbağadan kanı boşaltmak için harcanan zaman hesaba katıldı. Kanı çekilmiş olan kurbağa, tahriş olduğunda, diğerinden çok yaklaşık bir saat önce kasılmayı bıraktı, hatta
+enjeksiyon zamanından değil, onu
+kanatmaya başladığım andan itibaren hesaplandı; metaller aracılığıyla kasılmaları harekete geçiremedim, diğer kurbağada uyarılabilir olmaktan çıkmalarından bir gün öncesine kadar.
+
+DENEY II.
+
+Canlı bir hayvandan kan boşaltmak oldukça ciddi bir işlem olduğundan ve son deneyde, bunun yapıldığı kurbağayı diğerinin maruz kaldığından daha fazla acıya ve dolayısıyla bitkinliğe maruz bırakarak bazı yanılgılara yol açabileceğinden, önceki deneyde olduğu gibi, birinden kan almaya başlamadan önce diğer iki kurbağanın beynini ezdim. Kırk yerine, bu kurbağaların her birinin kalbine güçlü afyon çözeltisinden en fazla on üç damla enjekte ettim. Enjeksiyon girdiği anda, her iki kalp de beyazlaştı ve kasılmaları durdu. Afyonun enjeksiyonundan kırk sekiz saat sonra, kurbağanın kanından mahrum bırakılan metallerin uyardığı kasılmalar, özellikle atardamarı ve damarı açılan uzuvda çok hafif hale gelmişti. Diğer kurbağa hala o kadar şiddetli bir şekilde kasılmaya devam ediyordu ki, vücudunu üzerine yatırıldığı çinko plakadan kaldırıyordu. Enjeksiyondan yetmiş iki saat sonra, kanı çekilmiş olan kurbağada, atardamarı ve damarı açılmamış bacaktaki çok hafif kasılmalar hariç, hiçbir kasılma uyarılamıyordu. Diğer kurbağanın bacaklarındaki kasılmalar, vücudunu plakadan kaldıracak kadar şiddetli bir şekilde devam etti ve bazıları mekanik tahrişle bile meydana geliyordu. Afyon enjekte edildikten doksan altı saat sonra (her iki kurbağa da bütün gece suyun dışında yatmıştı), kan olmadan oldukça
+çürümüş bulundu. Diğerinde, bacakları uyararak oluşan kasılmalar
+ayakları hareket ettirmeye yetecek kadar güçlüydü: ancak vücut
+çürümüş ve saldırgan hale geldiğinden, atıldı.
+
+DENEY III.
+
+Diğer iki tam yetişkin ve canlı kurbağanın başları ezildikten sonra, kalpleri açığa çıkarıldı ve kan, önceki deneylerde olduğu gibi,
+birinden boşaltıldı. Daha sonra her birinin kafatasının küçük bir kısmı çıkarılarak, beyinlerine sekiz damla güçlü afyon çözeltisi
+enjekte edildi. Miktarın en az yarısı yaradan geri dönmüş gibi görünüyordu. Her iki kurbağa da enjeksiyondan sonra anında hareketsiz hale geldi, ancak yaklaşık bir saat içinde önemli ölçüde iyileştiler. Kendiliğinden hareketler, kan alınmamış olanın bacaklarında elli saatten fazla devam etti ve kasılmalar, kan alınmış olanda, artık böyle olmayı bıraktıktan 24 saat sonra bile metaller tarafından uyarılabilir hale geldi.
+
+Aşağıdaki deneyler, afyonun aynı kurbağanın farklı, ancak benzer kısımları üzerindeki etkileri arasında karşılaştırmanın yapılmış olması nedeniyle, öncekilerden daha tatmin edici sayılabilir.
+
+DENEY IV.
+
+Bir kurbağanın krural atardamarlarından biri, vücuda mümkün olduğunca yakın bir şekilde sıkı bir bağla bağlandıktan sonra, dört gün geçmesine izin verdim ve sonra kafatasındaki bir delikten beynine ve omurilik iliğine doğru sekiz damla güçlü çözelti enjekte ettim. Bu kurbağa bir saatten fazla şiddetli bir şekilde kasılmaya devam etti ve iki saat sonra görünüşe göre ölmüştü. Çinko üzerine yatırılıp gümüşle uyarıldığında, kasılmalar ilk başta bir bacakta diğerinden belirgin şekilde daha güçlü değildi. Ancak sekiz saat sonra, atardamarı serbest kalan bacakta açıkça daha güçlüydüler. 21 saat sonra, bu fark daha da belirginleşti. 34 saatin sonunda, atardamarı bağlanan bacakta neredeyse hiç kasılma uyarılamazdı; ancak diğerinde kuvvetli bir şekilde devam ettiler; ve 46 saatin sonunda, atardamarı bağlanan bacakta tamamen uyarılabilir olmaktan çıktılar. Diğerinde, birkaç saat daha devam ettiler.
+
+DENEY V.
+
+Başka bir kurbağanın krural atardamarlarından birini bağladıktan sonra, hemen ardından midesini suyla doymuş bir afyon çözeltisiyle doldurdum. Bu kurbağanın iki bacağında metaller tarafından uyarılan kasılmaların gücü ve devamı arasındaki fark,
+ilkteki kadar büyük değildi; ancak yine de fark,
+atardamarın serbest kaldığı bacak lehine önemliydi.
+
+DENEY VI.
+
+Her birinde bir krural arteri bağlanmış ve
+afyon çözeltisi (miktarına bakılmaksızın)
+hemen ardından tekrar tekrar kafataslarının altına enjekte edilmiş iki başka kurbağada; kasılmalar,
+atardamarları bağlanmış bacaklarda, bağlanmamış bacaklardakinden çok daha zayıf görünüyordu ve her ikisinde de eşit süre boyunca uyarılabilirliğini sürdürdü.
+
+DENEY VII.
+
+Başka bir kurbağanın krural arterini bağladıktan sonra, hem midesini hem de karnını hemen güçlü bir afyon çözeltisiyle doldurdum. Bundan bir saat sonra, tamamen ölmüş gibi görünüyordu. Sekiz saatin sonunda, metaller tarafından uyarılan kasılmalar, atardamarı bağlanan bacakta, diğer bacaktakine kıyasla çok zayıflamıştı; ve on iki saatin sonunda, atardamarı serbest kalan bacak dışında, kurbağanın hiçbir yerinde kasılma uyarılamıyordu. Bu durumda, yaklaşık bir saat daha uyarılabilir durumda kaldılar.
+
+Atardamarların bağlandığı bacakların daha hızlı yorulmasının, bir ölçüde bu operasyondan kaynaklanan
+ağrıdan kaynaklanmış olması mümkün olduğundan, deneyi aşağıdaki varyasyonla tekrarladım.
+
+DENEY VIII.
+
+İlk önce, iki kurbağanın her iki bacağındaki siyatik sinirleri böldüm ve sonra her birinin bir bacağındaki krural atardamarı bağladım. Hemen ardından beyinlerine sekiz damla afyon çözeltisi
+enjekte edildi. Ancak, bu deneyin olayı, daha önce akraba olanların
+çoğuyla tam olarak aynıydı. Metallerin, atardamarları bağlı olan bacaklarda uyandırdığı kasılmalar, diğer bacaklarda uyandırılanlardan daha zayıf ve daha kısa süreliydi: ancak, tüm bu deneylerde, M.'nin söylediği gibi, bunun tam tersinin gerçekleşmesi gerektiği açıktır. Fontana, afyonun, kan aracılığıyla olmadığı sürece, vücudun hiçbir yerinde etkisi olmadığını ileri sürmüştür.
+
+Ancak, şimdi anlatacağım deneyler belki de daha tatmin edici görünebilir.
+
+DENEY IX.
+
+Bir kurbağanın uyluklarının üst kısmındaki her iki siyatik sinirini eşit şekilde açığa çıkardıktan sonra, bunlardan birinin etrafına bir bağ geçirdim ve siniri bölmeden olabildiğince sıkı bir şekilde çektim.
+
+Daha sonra kafatasının bir kısmını çıkardım ve küçük bir fırçayla birkaç saat boyunca sürekli olarak afyonla ıslak tuttum. Kurbağa kısa sürede kasılmaya başladı ve on veya on iki saat boyunca afyonun bu hayvanlarda asla üretmeyi başaramadığı o mükemmel duyarlılık halini sürdürdü. Burada, bu durumdayken, bir tüyün en ufak bir dokunuşunun veya hatta üzerlerine nefes almanın bile anında kasılmalara neden olduğunu belirtmekte fayda olabilir. Siniri bağlanan bacak, bu süre boyunca felçli kaldı, ancak çinko üzerine yatırılıp gümüşle uyarıldığında, diğeri kadar güçlü bir şekilde kasıldı. Kırk üç saat sonra, siniri bağlanmamış bacaktaki kasılmalar çok zayıftı, ancak diğerinde hala şiddetliydi. Elli üç saat sonra, siniri bağlanan bacak hariç, kurbağanın hiçbir yerinde kasılmalar meydana gelemedi. Bu durumda, ayağı hareket ettirecek kadar güçlüydüler ve bir saatten fazla bir süre böyle devam ettiler. DENEY X. Başka bir kurbağanın krural sinirlerinden biri benzer şekilde bağlandıktan sonra, beynine sekiz damla güçlü afyon çözeltisi enjekte edildi. Hayvan anında hareketsiz hale geldi, ancak bir saatten kısa bir süre sonra önemli ölçüde iyileşti. Metallerin uyardığı, siniri serbest olan bacaktaki kasılmalar, siniri bağlanmış olan bacaktaki kasılmalardan kısa sürede daha zayıf hale geldi. Aralarındaki bu orantısızlık, afyon enjekte edildikten sonra doksan altı saat boyunca artarak devam etti, siniri serbest kalan bacakta kasılmalar artık uyarılamaz hale geldi. Sinirin bağlandığı bacakta, kasılmalar 4 saatten fazla devam etti.
+
+DENEY XI.
+
+Sadece bir uylukta, üç kurbağanın siyatik sinirini böldükten hemen sonra, kafataslarının altına mümkün olduğunca güçlü afyon solüsyonundan enjekte ettim. Sinirleri bölünmüş olan bacaklar, diğerleri kasılmayı bıraktıktan birkaç saat sonra bile kasılmaya devam etti.
+
+Dolayısıyla, o zaman, krural arterlerin bağlandığı bacaklardaki kasılmaların, hiçbir operasyon yapılmayan bacaklardaki kasılmalardan daha hızlı durmasının, bu tür operasyonların neden olduğu ağrıdan kaynaklandığından şüphelenmek için hiçbir neden görmüyoruz, çünkü siyatik sinirleri bağlama veya ayırma gibi daha ağrılı operasyonlar bile böyle bir etkiyle birlikte gelmiyordu.
+
+Dolayısıyla, genel olarak, M. Fontana'nın afyonla yaptığı sayısız deneyden çıkardığı, 'Hayvan makinesindeki kan ve vücut sıvılarının dolaşımı afyonun taşıyıcısıdır ve bu dolaşım olmadan canlı vücut üzerinde hiçbir etkisi olmazdı' sonucunun, az önce anlattığım deneylerden çıkarmam gerekenin tam tersi olduğu anlaşılıyor; çünkü afyonun etkisinden en çok etkilenen kısımlar, dolaşımın en eksiksiz kaldığı kısımlar değil, dolaşımın neredeyse tamamen kesildiği kısımlardı; ve dolaşımın eşit ve tam kaldığı iki bölümden, afyonun etkisi, sinirler aracılığıyla afyonun uygulandığı bölümlerle olan iletişiminin kesilmesiyle eşitsiz hale getirildi.
+
+Sonuç olarak, kanda, M. tarafından varsayılan herhangi bir ilkenin varlığı. Fontana'nın orada var olması, çok
+sorunlu hale getirilmiştir, hatta bunun kanıtlanabileceğini beklememe bile izin vermeyecek kadar:
+M.
+Galvani tarafından keşfedilenle veya sinirlerin ve kasların fenomenlerinin bağlı olabileceği şeyle aynı olması daha da az olasıdır.
+
+-----
+
+Dipnot 13:
+
+Fiziksel ve Edebi Denemeler.
+
+Dipnot 14:
+
+Daha sonraki tüm deneylerimde kullandığım bu çözelti, Dr. Alexander'ın daha büyük sayıdaki deneylerinde kullandığıyla aynı güçteydi, yani bir havanda iki ons ve yarım su ile karıştırılmış bir ons ham afyon ve on iki saat bekletildikten sonra kağıttan süzüldü, bir oda ateşinin yakınında, ağzı kapalı bir şişede.
+
+--------------------------------------------------------------------------
+
+EK.
+
+Önceki deneylerin anlatımını, bana gözlemleme fırsatı veren şu gerçeklerden bahsederek kesmek istemedim, çünkü bunlar deneylerin başlatıldığı nesnelerle doğrudan bağlantılı değildi;
+ve bu sayfaların baskıya hazırlanmasındaki aceleden dolayı, uygun yerlerine koymayı unuttuğum birkaç tane daha anlatacağım.
+
+1. İlk deneylerimden birinde, bir kurbağanın vücudunun herhangi bir yerinde kasılmalar uyarılana kadar tolere edilebilir bir şekilde bütün kalmasına izin verdiğimde, göğüs kemiğini çıkardığımda, kalbinin kasılmayı bıraktığını ve metaller tarafından uyarılan arka bacaklarındaki kasılmaların hala güçlü olmasına ve birkaç saat sonrasına kadar devam etmesine rağmen, herhangi bir uyaran uygulanmasıyla uyarılmadığını görünce şaşırdım. Beynine afyon enjekte edilen başka bir kurbağada bu duruma özellikle dikkat ettiğimde, bacaklarının kalbinden kırk saatten fazla daha uzun süre uyarılabilir kaldığını gördüm. Bu keşif,
+arka ekstremitelerin kaslarındaki kasılma gücünün, kalpteki kaybolmasından çok uzun süre sonra bile devam ettiği,
+bu konu hakkında genel olarak kabul edilen görüşe o kadar aykırıdır ki,
+fizyologlar arasında uzun zamandır yerleşiktir ki,
+kendileri gözlemleme fırsatı bulamayanlar tarafından buna inanılmasını pek bekleyemem. Ancak, bu deneyler sırasında, hem afyonun etkisi altında olan hem de olmayan kurbağalarda en tatmin edici ve tekdüze kanıtları elde ettiğim bir gerçektir. Bu konu üzerinde şimdiye kadar deneyciler tarafından farklı bir görüş benimsenmişse, şunun hatırlanması gerekir ki, Galvani'nin yaptığı keşfe kadar, kasların kasılma gücünün varlığını tespit etme imkânımız yoktu; bu güç, devam ettiğini gösterirken, onu yok etme eğilimi gösteriyordu ve dolayısıyla doğal gelişimini yok olma yönünde izlememizi imkansız kılıyordu.
+
+Aynı durumu hem kedilerde hem de tavşanlarda birden fazla kez gözlemledim.
+
+2. Dr. Alexander, daha önce alıntılanan mükemmel Tezinde, kurbağaların tüm gönüllü kaslarının kasılmasının, beyinlerinin yüzeylerine sekiz damla güçlü bir afyon çözeltisi (benim kullandığıma benzer) enjekte edilerek birkaç dakika içinde yok edildiğini söyler. Ancak kalplerinin kasılmalarının bu tedaviden pek etkilenmediği görülmektedir. Yaptığım tüm benzer deneylerde, olay
+çok farklıydı.
+Kurbağaların beyinlerine enjekte edilen
+sulu veya ispirtolu afyon çözeltisinin herhangi bir miktarının, Dr. Alexander'ın bahsettiği, gönüllü kaslarının kasılma gücünün
+hızlı bir şekilde yok olmasını sağlamasını mümkün bulamadım. Genellikle, afyon enjeksiyonuyla ilk kez oluşan tam duyarsızlık ve felçten bir saatten daha kısa bir sürede iyileşirlerdi ve o zamandan sonra, kendiliğinden hareketleri neredeyse her zaman birkaç saat daha devam ederdi ve metallerin uygulanmasıyla kasılmalar günlerce bile uyarılabilirdi. Kalpleri, daha önce de söylediğim gibi, arka uçlarından çok önce, uyaranların etkisine karşı duyarlılıklarını tamamen yitirdiler.
+
+3. Canlı bir vücudun parçaları aracılığıyla, eski transüdasyon doktrinine karşı argümanlar, zaten o kadar çok ve tatmin edicidir ki, bu noktada, en azından kurbağaların derisiyle ilgili olarak, daha önce belirtilen olgudan çıkarılabilecek, kesin bir tanesini fark etmenin gereksiz olduğu düşünülebilir; kurbağaların uzuvlarında deri kaldığı sürece, onları suya
+yerleştirdiğinizde, kaslarının kasılabilirliğini açıkça koruduğu,
+oysa deri çıkarıldığında, kasların birkaç saat içinde sertleştiği ve kasılamaz hale geldiği. Deriden su geçme olasılığı olsaydı, bu farkın
+olması mümkün olmazdı.
+
+4. Galvani tarafından keşfedilen etki ile sinirler arasındaki bazı ilişkilerden bahsederken, aşağıdaki gerçeklerden bahsetmeyi atladım.
+
+Metallerin kurbağaların beynine veya omuriliklerine uygulanmasıyla, sinirlerine uygulanmasıyla elde edilenden çok farklı bir etki
+üretilir. İkinci durumda, temas edilen kısmın altındaki bir sinirin dağıtıldığı her kasın anında kasıldığını gözlemledim. Ancak metaller beyne veya omurilik iliğine uygulandığında, sinirlerini metallerle doğrudan temas halinde olan kısımdan
+alanlar hariç, hiçbir kas kasılmaz.
+Etki, bir sinirin gövdesi boyunca olduğu gibi omurilik iliğini uyarmaz veya oradan geçmez ve ondan ayrılan diğer tüm
+sinirleri etkilemez.
+
+Bu gerçeği ilk olarak, aşağıdaki deneyi yaparken öğrendim.
+Yaşayan bir kurbağanın beynini açığa çıkarıp, beyne hafifçe bastırarak kendiliğinden hareketlerini durdurduktan sonra, kafatasının çıkarılmamış bir kısmının altına iki katlanmış uzun bir kalay folyo parçası yerleştirdim ve dilinin üzerine gümüş bir prob yerleştirdim.
+Kalay folyo kurbağanın burnunun üzerine büküldüğünde, probla temas edecek şekilde kasılan tek kaslar,
+gözleri hareket ettiren kaslar ve onları koruyan şeffaf zar olan dil ve boğaz kaslarıydı. Alüminyum folyo
+ince bir rulo haline getirildiğinde ve omurgadan biraz aşağı doğru geçirildiğinde,
+üst ekstremitelerin ve göğüs kasları kasıldı;
+biraz daha ilerlediğinde, sırt ve karın kasları kasıldı; ve
+siyatik sinirlerin omurgadan ayrıldığı yere daha da sokulduğunda, arka ekstremiteler ilk kez güçlü bir şekilde
+kasıldı. Bu deneyi çok sık tekrarladım; ve
+her zaman, kurbağaların kendiliğinden hareketleri
+durur durmaz, metallerin harekete geçirdiği kasılmaların baştan aşağı doğru düzgün bir şekilde ilerlediğini ve metallerin omurga boyunca ilerlemesine tam olarak karşılık geldiğini
+gördüm. Deney bazen ne beyin ne de omurilik
+çıplak bırakılmadığında ve hatta deri bile bölünmediğinde, kurbağa bir çinko levha üzerine yerleştirildiğinde ve bükülmüş bir gümüş telin uçlarından biri omurgasının herhangi bir yerine yerleştirildiğinde, diğerinin levhaya değmesi sağlandığında başarılı olur.
+
+---------------------
+
+5. Çok yakın bir zamana kadar bir elektrofer elde edemediğim için, bununla ilgili henüz çok az deney yaptım; ancak sonuçları, Galvani tarafından keşfedilen etkinin elektrikle hiçbir ilgisi olmadığı
+fikrimi daha da doğrular niteliktedir. Öncelikle, aleti, silerek toplanan az miktardaki elektriği, sapının tahta kısmından sarkan keten iplikten yapılmış çok hassas bir elektrometrenin göstereceği şekilde serbest bıraktıktan sonra, üzerine yakın zamanda öldürülmüş bir kurbağayı destekleyen bir çinko levha yerleştirdiğim ve karnındaki siyatik sinirleri açığa çıkan bir cam standın birkaç santim yakınına yerleştirdim. Bir çinko çubuk, kurbağa ile elektroferusun metal levhası arasındaki iletişimi oluşturdu. Daha sonra, bükülmüş bir gümüş telin bir ucunu mühür mumuyla yalıtılmış olarak kurbağanın sinirlerine, diğer ucunu da çinko çubuğuna yerleştirerek kurbağada kasılmalar uyarıldı. Bu şekilde yaklaşık yarım dakika boyunca güçlü kasılmalar sürdürüldükten sonra, eğer toplanmış olsaydı, elektriğin kaçma olasılığı olmaması için bir mum çubuğuyla çinko çubuğu dikkatlice çıkardım. Metal plaka daha sonra vernikli yüzeyden kaldırıldı. Sapına bağlı elektrometre çok
+hafif etkilenmişti; ancak plakaya sunulan ince bir iplik,
+fark edilebilir şekilde ona doğru çekiliyordu.
+
+Bu şekilde toplanan elektriğin, yalnızca kasılma sırasında kurbağanın bacaklarının, üzerinde yattığı yalıtılmış çinko plakaya sürtünmesiyle
+uyarıldığına dair güçlü bir şüphem vardı; ve
+kısa süre sonra tahminimin doğru olduğunu gördüm; çünkü benzer şekilde yerleştirilmiş başka bir kurbağadan, yalnızca mekanik tahrişle kasılmalar uyarıldığında, eşit miktarda elektrik elde ediliyordu.
+
+Bu kurbağalar, elektroferusun metal plakasının üzerine ardışık olarak yerleştirildiğinde ve uyarıldığında, M.
+Galvani'nin yöntemindeki, diğeri yalnızca mekanik tahrişle uyarıldığında sonuç aynıydı.
+
+Bu deneyler çok sık tekrarlandı, ancak toplanan elektrik miktarı, kasılmaların veya başka bir deyişle sürtünmenin en önemli olduğu yerlerde her zaman daha fazlaydı ve hiçbir durumda kasılmaları uyarmak için kullanılan araçlara bağlı görünmüyordu. 
+
+Bu şekilde toplanan elektriğin, üretimi için kurbağaya metallerin uygulanmasına hiçbir şekilde bağımlı olmadığını, ancak kurbağanın diğer iletken maddelerle birlikte doğal olarak sahip olduğu elektrik kısmı olduğunu daha da kanıtlayan şey, ilk kasılmalarından toplanan elektriğin plakadan çekilmesinden sonra, metaller tarafından uyarılan kasılmalar her zamanki gibi güçlü bir şekilde devam etmesine rağmen, daha sonra daha fazla toplanamamasıydı. 
+
+6. Elektroferus, sürtünmeyle mümkün olduğunca yüksek bir şekilde elektrikle yüklendiğinde, hazırlanmış bir kurbağadaki yalıtılmış metallerin, elektroferusun metal plakasına yatırılmasıyla oluşan kasılmalar, onu vernikli yüzeyden kaldırmakla hiç etkilenmedi. Söz konusu fenomenlerin, ne hayvanda ne de metallerde elektriğin yoğunlaşması veya seyrelmesinden etkilenmediğinin bir kanıtı.
+
+Elektroferusun metal plakasında biriktirebildiğim herhangi bir miktarda elektriğin, bir kurbağanın sinirine verildiğinde, çinko ve gümüşün uygulanmasıyla uyarılan kadar güçlü kasılmalar yarattığını hiç bulamadım; ve
+beş yalıtılmış kurbağadan, yakın zamanda vücudundan ayrılmış ve dolayısıyla çok zayıf güçteki uyaranlarla uyarılabilen bir kurbağanın tek bir bacağında kasılmaları uyarmaya yetecek kadar yeterli miktarda elektrik toplayamadım. ---------------------
+
+Bu Üniversitede Doğa Felsefesi Profesörü olan çok bilgili Bay Robison'un nezaketi, kamuoyuna aşağıdaki iletişimi sunmama olanak sağlıyor; bu, içsel değerinden bağımsız olarak, konuya olan büyük ilgiyi, yetenekleri ve kapsamlı bilgisi onu tam bir araştırma yapmaya
+çok uygun kılan birinin ortaya koymasıyla ek bir tatmin sağlıyor.
+
+BAY FOWLER'A,
+
+EDİN. _28 Mayıs 1793._
+
+EFENDİM,
+
+Yaklaşık iki hafta önce, oğlum bana diline bir parça çinko ve bir parça gümüş uygulandığında, tadı andıran güçlü bir tahrişin oluştuğunu ve bunlardan birinin göze uygulanmasıyla parlak bir parıltının oluştuğunu anlattı. Bunları derhal onun talimatları doğrultusunda tekrarladım ve merakım onları çeşitli
+koşullarda kovuşturmak için büyük ölçüde
+heyecanlandı. Bu deneylerin, bir süre önce İtalya'da yapılan ve bana geçen kış bildirilen ilginç keşiflerden kaynaklandığını anlıyorum. Ancak, birkaç yıldır dünyadan o kadar uzaktım ki, bundan sonra ne olacağını bilme fırsatım olmadı.
+
+Bu konuda uzun zamandır deneyler yaptığınızı ve bunları kamuoyuna duyurmak üzere olduğunuzu öğrendikten sonra, aklıma gelen birkaç gerçeği sizinle paylaşma özgürlüğünü aldım, bunlardan bazıları belki de sizin için yeni olabilir.
+
+1. Bir çinko parçasının dile uygulanması ve ağız, burun delikleri, kulak, üretra veya anüsün herhangi bir yerine temas eden bir gümüş parçasıyla temas etmesi durumunda, dilde tat benzeri bir his
+hissedildiğini görüyorum. Deney tersine çevrilirse, gümüş dile uygulanırsa, çinkonun ürettiği tahriş, ağız ve üretra dışında hissedilmez ve çok hafiftir. Çinkonun tahrişini, temas çok hafif olduğunda ve dar bir alanla sınırlı olduğunda ve gümüşün teması çok geniş olduğunda, örneğin dil gümüş bir kaşığın boşluğuna uygulandığında, en güçlü buluyorum. Çinko geniş bir yüzeye temas ettiğinde, gümüşün dar bir temasıyla üretilen tahriş, özellikle dilin üst tarafında ve kenarlarında çok belirgindir. Bu tahriş, tada hiçbir benzerliği olmayan, sadece keskinlik gibi görünür ve yakıcı alkalinin yaptığı gibi kalıcı bir izlenim bırakır. 2. Çinko (ince cilalanmış) göz küresine uygulanırsa, parıltının parlaklığı, gümüşün dil, damak, burun veya yanakla temas ettiği yüzeye karşılık gelir. Aynı şey, gümüş göze uygulandığında da olur.
+
+3. Bir çinko çubuk ve bir gümüş çubuk ağız çatısına mümkün olduğunca geriye uygulandığında, dış uçlarını temas ettirerek oluşan tahrişler çok güçlüdür ve bu, çinkonun tadına benzer, tıpkı dile uygulandığında olduğu gibi.
+
+4. Ayak tırnaklarımı makasla kesiyordum ve kalın derinin önemli bir kısmını kesmiştim, böylece kan yaranın ortasından _sızmaya_ başlamıştı. Oraya çinkoyu ve dile geniş bir gümüş yüzeyi uyguladım. Metalleri her temas ettirdiğimde, yarada çinkonun çok keskin bir tahriş
+yarattığını hissettim.
+
+5. Ucundan yanlara doğru çıkıntı yapan sivri uçlu bir çinko parçası yaptım. Bu ucu bazen biraz ağrıyan bir dişteki deliğe uyguladım ve gümüşü yanağın iç kısmına geniş bir yüzeye uyguladım. Metaller temas ettiğinde, dişimde çok keskin ve acı verici bir seğirme hissettim, diş kemiğinin seğirmesine çok benziyordu. Bu seğirmenin iki katı olduğunu ve bunlardan birinin metaller mutlak temasa geçmeden önce gerçekleştiğini düşündüm. Artık neredeyse ikna oldum ki, bu böyledir, çünkü gümüşü kuru bir dişin üzerine koyduğumda, dile veya boğaza dokunmadan, metallerin dış uçlarını bir araya getirirken hiçbir seğirme olmuyor: bu da kuru bir diş aracılığıyla uygun bir iletişim olmadığını gösteriyor. Dış uçlar temas halindeyken, gümüşe dil ucuyla dokunursam, dişte hala hiçbir seğirme hissedilmiyor. Şimdi metallerin dış uçlarını ayırıp, dili gümüşe değdirirsem, ayrılma anında hafif bir seğirme, tekrar temasa getirildiklerinde ise güçlü bir çift seğirme hissediliyor. Not: Bu seğirme, dilin veya dudağın çinkonun herhangi bir
+parçasına dokunmasına izin verilerek önlenir.
+
+6. Bir şilin büyüklüğünde birkaç çinko parçası yaptırdım ve bunları aynı miktarda şilinle bir rulo haline getirdim. Bu değişimin bazı durumlarda tahrişi önemli ölçüde artırdığını görüyorum ve bu tür bir ilkeye göre daha da büyük bir artışa yol açmasını bekliyorum. Rulonun kenarı dile uygulanırsa, böylece tüm parçalar ona dokunursa, tahriş çok güçlü ve tatsız olur. Bu, sıklıkla gözlemlediğim, lehimlenmiş metal dikişlerinin güçlü tadını açıklıyor. Artık dil ile pirinç ve bakır kaplardaki dikişleri algılayabiliyorum,
+ki bunlar gözle görülemez ve altın ve gümüş biblolarda bol miktarda bulunan temel karışımları ayırt edebiliyorum.
+
+Yukarıdaki gerçeklerden herhangi biri bu konuda edindiğiniz bilgi birikimine katkıda bulunabilirse, bu bana büyük bir memnuniyet verecektir,
+ve daha sonra olabilecek hiçbir şeyi iletmekten geri kalmayacağım. Rahatsızlığım, bu harika ve önemli keşfin teşvik ettiği araştırmalara aktif olarak katılmamı engelliyor;
+ama bu ilginç arayışa katılan her beyefendiye zayıf yardımımla katkıda bulunmak hem görevim hem de içten isteğimdir.
+
+Sıradan gümüş ipliğin çok iyi bir iletken olduğunu ve
+bunun her mesafede geçerli olduğunu düşünüyorum.
+
+Yukarıdakileri yazdığımdan beri, çok mantıklı kasılmalar üretmenin çok kolay bir yolunu buldum (bence kaslı) ve benim fikrimi doğrulayarak, iletişimin (tüm etkinin bu kısmının) temastan önce gerçekleştiğini doğruladım.
+
+Bir yanağa çinko bir plaka, diğerine gümüş bir plaka (bir taç parçası) koyun, her birinden biraz uzakta. Yanakları mümkün olduğunca geniş bir şekilde uygulayın. Çinko ve yanak arasına çinko bir çubuk ve gümüş ve diğer yanak arasına gümüş bir çubuk sokun. Dış uçlarını yavaşça temas ettirin ve aralarında bulunan diş etlerinin kısımlarında akıllı bir kasılma seğirmesi hissedilecek, buna gözlerde parlak şimşekler eşlik edecektir. Ve bunlar temastan önce belirgin bir şekilde algılanacaktır,
+ve ikinci kez çubukların uçları ayrıldığında veya tekrar çarpma mesafesi denebilecek mesafeye ulaştıklarında. Çubuklar dönüşümlü olarak kullanılırsa, hiçbir etki oluşmaz.
+
+Parçaları diş etlerine sertçe bastırmamaya dikkat edilmelidir; bu, kasılmayı algılamamızı engeller veya engeller. Ayrıca, çinko veya gümüş olsun, bir çubuğun iletişim için yeterli olduğunu ve hatta iki parçayı bir araya getirmenin bile aynı işi göreceğini veya belki daha iyi olacağını düşünüyorum.
+Ama çubukların yönetimi daha kolaydır.
+
+Tanışıklığınızın şerefine erişemeden aldığım özgürlük için özür dilerim,
+
+Büyük saygılarımla,
+
+SIR,
+
+En itaatkar
+
+Alçakgönüllü hizmetkarınız,
+
+JOHN ROBISON.
+
+--------------------------------------
+
+F I N I S.
+
+------------------------------------------------------------------------------
+
+Yazıcının notları:
+
+Belirgin tipografik hatalar düzeltildi. Bunlara sayfa sınırları boyunca tekrarlanan bir kelime de dahildi.
+
+Belirgin olmayan "yazım yanlışları" olduğu gibi bırakıldı. Alıntıların içindeki olası eski yazım biçimleri olduğu gibi bırakıldı.
+
+Richard Fowler'ın Son Keşfedilen Etkiye İlişkin
+Proje Gutenberg Deneyler ve Gözlemler E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK EXPERIMENTS AND OBSERVATIONS ***
+
+***** This file should be named 46820.txt or 46820.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/8/2/46820/
+
+Produced by Elizabeth Oscanyan and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
