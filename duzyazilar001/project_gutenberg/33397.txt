@@ -1,0 +1,884 @@
+*** START OF AKTAHEADER ***
+Başlık: LRL Accelerators (LRL Hızlandırıcılar)
+Yazar: Lawrence Radiation Laboratory
+Yayın Tarihi: August 10, 2010 [EBook #33397]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/33397
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+Project Gutenberg's LRL Accelerators, by Lawrence Radiation Laboratory
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: LRL Accelerators
+       The 184-Inch Synchrocyclotron
+
+Author: Lawrence Radiation Laboratory
+
+Release Date: August 10, 2010 [EBook #33397]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LRL ACCELERATORS ***
+
+*** START OF TURKISH PART ***
+Erica Pfister-Altschul, Mark C. Orton ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+_LRL Hızlandırıcılar_
+
+184 İNÇLİK SENKROSİKLOTRON
+
+LAWRENCE RADYASYON LABORATUVARI
+
+KALİFORNİYA ÜNİVERSİTESİ, BERKELEY, KALİFORNİYA
+
+Yayın. No. 2d
+
+5M
+Haziran 1964
+
+[İllüstrasyon: Senkrosiklotron Binası]
+
+_İçindekiler_
+
+Sayfa
+
+184 İNÇLİK SENKROSİKLOTRON 2
+
+KONVANSİYONEL BİR SİKLOTRONUN ÇALIŞMA PRENSİBİ 3
+
+FAZ STABİLİTESİ PRENSİBİ 6
+
+184 İNÇLİK SENKROSİKLOTRONUN TASARIMI VE YAPIMI 8
+
+Mıknatıs 8
+
+Vakum Sistemi 9
+
+İyon Kaynağı 10
+
+Radyofrekans Sistemi 10
+
+Dahili Hedefler ve Işın Çıkarıcı 12
+
+SİKLOTRON DENEYLERİ 15
+
+Nükleer Fizik 15
+
+Biyofizik 18
+
+Nükleer Kimya 19
+
+KAYNAKÇA 20
+
+EK 21
+
+184 İNÇLİK SENKROSİKLOTRON
+
+1939'da 60 inçlik siklotronla elde ettiği başarı, Dr. E. O. Lawrence'ı çok daha güçlü bir hızlandırıcı önermeye yöneltti; bu hızlandırıcı yeni nükleer düzenlemeler üretebilir ve hatta parçacıklar yaratabilirdi. Toplam 1.225.000 $'lık hibeler, 184 inçlik siklotron üzerinde çalışmanın Ağustos 1940'ta başlamasına izin verdi.[1] Atomik parçacıkları 60 inçlik makineyle mümkün olanın beş katı olan 100 milyon elektron volt (Mev) enerjisine hızlandırmak için tasarlanmıştı.
+
+[Resim: Şekil 1. 1940-1942 döneminde inşa edilen elektromıknatıs.]
+
+Yeni siklotron tamamlanamadan II. Dünya Savaşı başladı.
+Bu nedenle siklotron üzerindeki inşaat durduruldu. Ancak, uranyum izotoplarını elektromanyetik yöntemle ayırmaya olan ilgi nedeniyle, dev mıknatıs üzerindeki çalışmalar daha da hızlı bir şekilde devam etti. Bu mıknatıs, boyunduruğunda ve kutup parçalarında 3700 ton çelik ve heyecan verici bobinlerinde 300 ton bakır içerecekti (Şekil 1). Mayıs 1942'de mıknatıs tamamlandı. O yaz, şimdiye kadar elde edilen ilk önemli miktarda U^{235}'i ayırmak için bir pilot tesiste kullanıldı. 184 inçlik mıknatıs, savaşın sonuna kadar Berkeley'deki bir araştırma ve geliştirme programında kullanılmaya devam etti ve büyük bir ayırma tesisinin inşa edildiği Oak Ridge, Tennessee'ye bilgi sağladı. Siklotronun geri kalanındaki inşaat 1945'te yeniden başlatıldı. O zamana kadar, başlangıçta umulandan çok daha yüksek enerjili iyon ışınları elde etmeyi mümkün kılan yeni bir ilke keşfedilmişti. Yine de
+önemli ölçüde daha düşük bir
+ivme voltajı kullanılabilir. Bu önemli
+keşif, Rusya'da Dr. V. Veksler ve Lawrence Radyasyon Laboratuvarı'nın şu anki Müdürü olan
+Dr. Edwin M. McMillan tarafından bağımsız olarak yapılmıştır. Bu prensibi tartışmaya başlamadan önce, öncelikle geleneksel bir siklotronun
+işlemini gözden geçirmeliyiz.
+
+GELENEKSEL BİR SİKLOTRONUN ÇALIŞMA PRENSİBİ
+
+[Resim: Şekil 2. Bir siklotronun temel parçaları.]
+
+Bir siklotronun ana parçaları Şekil 2'de gösterilmiştir. Yüklü
+parçacıklar (iyonlar) boşaltılmış bir tankın içinde hızlandırılır. Bu, ışının hava molekülleriyle çarpışmasını ve dağılmasını önlemek içindir.
+Vakum tankı, alanı iyon ışınını dairesel bir yörüngeye
+büken bir elektromıknatısın kutupları arasına yerleştirilir.
+
+İşlem, iyonların iki hızlandırıcı elektrot veya "dee" arasındaki bölgeye sokulmasıyla başlar. "[2] İyonlar pozitif bir elektrik yükü taşıdığından, o anda elektriksel olarak negatif olan dee'ye doğru çekilirler. Manyetik alan olmasaydı, iyonlar düz bir çizgide ivmelenirdi; bunun yerine dee boşluğuna doğru dairesel bir yola saptırılırlar. İyonlar tekrar dee boşluğuna ulaştığında, dee'lerdeki elektrik potansiyelinin işareti tersine döner, böylece iyonlar artık zıt dee'ye doğru çekilir.
+
+Bu elektrik potansiyelini değiştirme süreci tekrarlandıkça, iyonlar her dönüşte hız ve enerji kazanır. Bu, onların dışarı doğru sarmal şekilde hareket etmelerine neden olur. Son olarak, yollarına yerleştirilen bir hedefe çarparlar veya
+dış ışın olarak kullanılmak üzere siklotrondan çıkarılırlar.
+
+Bir iyonun bir döngüyü tamamlaması için gereken süre, dışarı doğru sarmal şekilde hareket ederken sabit kalır. Bunun nedeni, hızının her dönüşte kat ettiği artan mesafeyi telafi edecek kadar artmasıdır. Bu, iyonlara uygulanan elektrik potansiyelinin dees sabit bir
+frekansta dönüşümlü olmalıdır, buna "rezonans frekansı" denir.
+
+Rezonans frekansı f, şu ilişkiyle verilir:
+
+He
+f = --------- , (1)
+2[pi]mc
+
+burada H, e, [pi], c ve m sabitlerdir. H, siklotronun
+manyetik alanının gücüdür, e iyon tarafından taşınan elektrik
+yüküdür, [pi] 3,14'e eşittir, c bir dönüşüm faktörüdür ve m iyonun kütlesidir. Örneğin, 15.000 gauss'luk bir manyetik alanda
+hızlandırılan protonlar için rezonans frekansı 23,7 megasikldir (Mc).[3] Bu tür
+hızlı dönüşümlü bir potansiyele "radyofrekans voltajı" ve onu
+üreten elektronik devreye "radyofrekans osilatörü" adını veriyoruz.
+
+Siklotrondan çıkan bir iyonun enerjisi E şu şekilde verilir
+
+H^2 R^2 e^2
+E = ------- ---- , (2)
+2 mc^2
+
+burada H, e ve m yukarıda tanımlandığı gibidir ve R ışının çıkarıldığı
+yarıçaptır. Bu denklemden, belirli bir
+iyon türü için (e ve m sabittir) enerjinin mıknatısın çapına ve gücüne bağlı olduğunu, ancak doğrudan
+dees'e uygulanan voltaja bağlı olmadığını görüyoruz.
+
+Bir iyonun geleneksel bir
+siklotronda yapabileceği devir sayısı yaklaşık 70 ila 100 ile sınırlıdır. Bunun nedeni çok ilginç bir
+etkidir: bir iyon ivmelendikçe kütlesi artar! [Bu fenomen
+Einstein'ın özel görelilik
+teorisiyle açıklanmaktadır (bkz. Şekil 3).]
+Denkleme geri dönersek (1), iyon kütlesi (m) sabit kalmazsa, aksine artarsa, rezonans frekansının (f) azaldığını görüyoruz. Ancak dee potansiyeli sabit bir frekansta değişmeye devam ettiğinden, bir iyon kısa süre sonra dee boşluğuna "geç" gelmeye başlar. Yaklaşık 70 ila 100 dönüş yaptığında, bir iyon o kadar kötü faz dışıdır ki artık ivmelenmez.
+
+Şimdi 10 Mev'lik bir enerji elde etmek istediğimizi varsayalım. Bir iyon maksimum yaklaşık 100 dönüş yapabileceğinden, ivmelenme potansiyeli yaklaşık 100.000 volt olmalıdır. Ancak Profesör Lawrence, yeni 184 inçlik siklotronla 100 Mev'e ulaşmayı umuyordu. Bu, ivmelenme voltajının yaklaşık 1.000.000 volt olması gerektiği anlamına geliyordu. Böylesine yüksek bir voltajın kıvılcımlanmasını önlemek, birçok zorlu mühendislik probleminden biri olacaktı.
+
+[Resim: Şekil 3. Bir nesnenin kütlesinin, hızı ışığınkine yaklaştıkça nasıl arttığını gösteren grafik.]
+
+DİPNOTLAR:
+
+[1] Hibeler şu şekildeydi: Rockefeller Vakfı--1.150.000$; John
+ve Mary Markle Vakfı--25.000$; Araştırma Şirketi--50.000$.
+Kaliforniya Üniversitesi, toplam inşaat fonunu 1.400.000$'a çıkarmak için 175.000$'lık bir garanti ekledi.
+
+[2] İlk siklotronlarda elektrotlar "D" harfi şeklindeydi.
+
+[3] H = 15.000 gauss, e = 4,8 x 10^{-10}
+elektrostatik birim ve m = 1,6 x 10^{-24} gram değerlerine sahibiz. f'yi bulmak için şunu yazarız
+
+15.000 (4,8) 10^{-10}
+f = ----------------------------------- ,
+2 (3.14)(1. 6) 10^{-24} (3) 10^{10}
+
+f = 23,7 Mc.
+
+FAZ KARARLILIĞI İLKESİ
+
+Neyse ki, Dr. Veksler ve McMillan nispeten düşük dee
+voltajlarının iyonları çok yüksek enerjilere hızlandırmak için kullanılabileceğini gösterdiler. Bu, osilatör frekansının iyonların azalan dönme frekansıyla senkronize tutulması için sürekli olarak azaltılmasıyla mümkündür.
+Bu, bir iyonun faz dışına çıkmadan birçok
+dönüşüm yapmasına olanak tanır. Bu faz kararlılığı ilkesi, 184 inçlik makinenin tasarımına dahil edilmeden önce 37 inçlik siklotronla deneysel olarak doğrulandı. Bu ilkeyi kullandığı için, bu makine genellikle "senkrosiklotron" veya "frekans modülasyonlu siklotron" olarak anılır. Ancak, bazen sadece "siklotron" olarak adlandırılır.
+
+184 inçlik senkrosiklotron ilk olarak Kasım 1946'da çalıştırıldı. Sadece 20.000 voltluk maksimum DE voltajıyla döteryumları 190 Mev'e ve alfa parçacıklarını 380 Mev'e hızlandırdı.[4] 1949'da 350 Mev protonların da üretilmesine izin verecek şekilde değiştirildi.
+
+1955 ile 1957 yılları arasında senkrosiklotron yeniden inşa edildi, böylece artık şu enerjiler elde edilebilir:
+
+Protonlar Döteryumlar Alfa Parçacıkları Helyum-3 çekirdekleri[5]
+------- ---------- --------------- ---------------
+730 Mev 460 Mev 910 Mev 1140 Mev
+
+Örneğin, bir proton 730 Mev'lik bir enerjiye ulaştığında sadece 6 milisaniyede (msec) 75.000
+dönme yapar. 450
+millik bir mesafe kat eder ve saniyede 152.000 mil veya ışık hızının %82'si olan bir hıza ulaşır! Bu kısa yolculuk sırasında kütlesi %75 artar ve bu da Einstein'ın teorisinin geçerliliği için çok ikna edici bir kanıt oluşturur. Diğer iyonlar için benzer
+veriler ekte bulunabilir.
+
+DİPNOTLAR:
+
+[4] Bir döteryum, ağır hidrojen atomunun çekirdeğidir ve
+bir proton ve bir nötron içerir; tek bir pozitif elektrik
+yükü taşır. Bir alfa parçacığı, bir helyum atomunun çekirdeğidir ve
+iki proton ve iki nötrondan oluşur; iki pozitif yük taşır.
+
+[5] Makine helyum-3 işlemi için donatılmıştır, ancak bugüne kadar
+bu amaçla kullanılmamıştır.
+
+184 İNÇLİK SENKROSİKLOTRONUN TASARIMI VE YAPIMI
+
+_Mıknatıs_
+
+Siklotronun yeniden inşası sırasında, mıknatıs kutup parçalarının çapı 184'ten 188-3/4 inçe çıkarıldı. Ayrıca, merkezdeki kutup aralığı 21'den 14 inçe düşürüldü. Bu değişiklikler mıknatıstaki çeliğin ağırlığını 3700 tondan 4000 tona çıkardı.
+
+Her biri 1300 tur bakır çubuk iletken içeren ana heyecan verici bobinler değiştirilmedi. Her biri 425 tur içeren iki yardımcı bobin eklendi. Bu, bakırın toplam ağırlığını 300'den 340 tona çıkardı. Bobinler, kutup boşluğuna yakın kutup parçalarının etrafına katman olarak sarılır. Bobinler hakkında diğer veriler ekte verilmiştir.
+
+Bu değişikliklerin etkisi, kutup boşluğunun merkezindeki alan kuvvetini 15.000'den 23.400 gauss'a çıkarmaktı. Bu artış, daha yüksek enerjili iyonların elde edilmesini mümkün kıldı.
+
+Bobinlere güç, sabit bir manyetik alan için gereken doğru akımı üreten iki motor jeneratör seti tarafından sağlanır. Motor jeneratörlerinden gelen doğru akım, manyetik alan dalgalanmasının 10.000'de bir parçadan daha az olması için düzenlenir. Bu, neredeyse tekdüze enerjiye sahip harici bir ışın isteniyorsa gereklidir. Işının dengesiz hale gelmesini ve dee'ye çarpmasını önlemek için, manyetik alan merkezde en güçlü olmalı ve radyal olarak azalmalıdır (Şekil 4a). Düz kutup yüzeylerinde alan tekdüze olarak azalmaz. İstenen azalma oranını sağlamak için, kutup yüzeyleri Şekil 4b'de gösterildiği gibi farklı kalınlıklarda eşmerkezli çelik halkalarla desteklenir. Radyal olarak azalan bir manyetik alanda, manyetik akı çizgileri Şekil 4b'de gösterildiği gibi dışarı doğru eğilir. Manyetik alanda hareket eden iyonlar bu akı çizgilerine dik açıyla saptırılır. Siklotronun orta düzleminin üstündeki iyonlar aşağıya doğru yönlendirilir; orta düzlemin altındakiler ise yukarıya doğru yönlendirilir. Bu şekilde bir iyon orta düzlemin etrafında salınır ve dikey odaklama elde edilir.
+
+[Resim: Şekil 4.
+
+(a) Manyetik alan kuvvetinin yarıçapa göre grafiği. Alan kuvveti yaklaşık 83 inçlik bir yarıçapa kadar kademeli olarak azalır, ardından keskin bir şekilde düşer. Bu nokta parçacık yörüngeleri için
+kullanılabilir maksimum yarıçapı işaretler. Daha uzakta kararsızdırlar.
+
+(b) Manyetik akı çizgileri kesik oklarla ve odaklama kuvvetleri dolu oklarla gösterilir. Orta düzlemin üstündeki bir iyon aşağıya doğru yönlendirilirken, orta düzlemin altındaki bir iyon yukarıya doğru yönlendirilir.]
+
+Radyal odaklama biraz benzer bir şekilde gerçekleştirilir. Manyetik alan yarıçapla birlikte azalırsa, radyal geri yükleme kuvvetleri
+oluşur. Çok büyük bir yarıçapa sahip bir iyon içeriye, çok küçük bir yarıçapa sahip bir iyon ise dışarıya yönlendirilir. Bu şekilde, iyon senkron yörünge etrafında salınır. Böylece radyal odaklama
+elde edilir.
+
+_Vakum Sistemi_
+
+Vakum tankı (ivme odası) 20 x 25 ft ve 4 ft yüksekliğinde bir çelik kutudur. 10^{-5} milimetre cıva basıncına kadar boşaltılır
+(atmosferik basıncın yaklaşık 100 milyonda biri). Pompalama ekipmanı
+altı yağ difüzyon pompası ve dört mekanik vakum pompasından oluşur.
+Altı adet 20 inçlik yağ difüzyon pompasının pompalama hızı toplam
+20.000 litre/sn'dir.
+
+_İyon Kaynağı_
+
+İyon kaynağı basit bir ark tipidir. Hidrojen gazının, akkor hale gelene kadar ısıtılan bir tungsten filamentin yakınındaki iyon kaynağı muhafazasına sızmasına izin verilir. Filament tarafından yayılan elektronlar, hidrojen atomlarından elektronları koparır ve serbest protonlar bırakır. Protonlar daha sonra iyon kaynağı muhafazasındaki bir delikten hızlanma odasına kaçar. İçeri girdiklerinde, protonlar dee potansiyeli tarafından hızlandırılır.
+
+Döteryum veya alfa parçacıkları, hidrojen yerine döteryum veya helyum gazı kullanılarak benzer şekilde elde edilir.
+
+_Radyo Frekans Sistemi_
+
+184 inçlik senkrosiklotron, yukarıda örnek amaçlı açıklanan çift dee
+düzenlemesi yerine tek bir dee'ye sahiptir. Hızlanan elektrik alanı, dee ile vakum tankına topraklanmış bir sahte dee arasında oluşturulur. Tek bir dee kullanmak, çalışma prensibini değiştirmez, ancak vakum tankının içinde yardımcı ekipman için daha fazla alan sağlama avantajı sunar. Ayrıca,
+yapı çok daha basittir. Sahte dee, çalışma için gerekli değildir, ancak performansı artırır.
+
+[Resim: Şekil 5. Protonları hızlandırmak için radyofrekans döngüsü.
+Her saniye bu tür altmış dört döngü tekrarlanır.]
+
+Radyofrekans gücü, dee'ye bir vakum tüplü osilatör tarafından sağlanır. Salınım frekansı, yukarıda belirtildiği gibi,
+hızlanma döngüsü sırasında azalmalıdır. Protonlar için,
+hızlanmanın başlangıcındaki frekans 36 mega döngüdür (Mc).
+Hızlanmanın
+sonunda frekans yalnızca 18 Mc'dir (bkz. Şekil 5). Frekanstaki bu değişiklik, osilatörün ayarlanmış
+devresindeki elektrik kapasitansını değiştirerek elde edilir. (Bu, bir radyoda farklı bir istasyonu aradığınızda yaptığınız şeydir.) Siklotron rezonatörü olarak adlandırılan bu ayarlanmış devre, Şekil 6'da gösterilmiştir.
+
+[İllüstrasyon: Şekil 6. Siklotron rezonatörü.]
+
+Frekans bu kadar geniş bir aralıkta (36 ila 18 Mc) değiştiğinden, elektrik kapasitansı 20 ila 1 faktörüyle değiştirilmelidir.
+Bu, benzersiz tasarıma sahip değişken bir kapasitörle yapılır. İki
+dev
+ayar çatalına benzer. Ayar çatalının kanatları titreştikçe,
+kapasitans dönüşümlü olarak gereken miktarda artırılır ve azaltılır.
+
+Bu iki ayar çatalı büyük bir hassasiyetle uyumlu tutulmalıdır. Bu, osilatörün yanal rf rezonanslarını uyarmasını önlemek içindir. Bu boyutta bir
+siklotronla bu bir sorundur. Bu rezonanslar uyarılırsa,
+ışın kaybına neden olur. Bıçakların birlikte hareket etmesini sağlama yöntemi şu şekildedir: Bıçaklar rezonans
+frekanslarında titreştirilir, bu da saniyede yaklaşık 64 döngüdür. Bir bıçak seti, doğal frekansında bir akort çatalı osilatörü olarak çalışır. İkinci bıçak seti, birinciden gelen sinyalin yükseltilmiş bir örneğinden tahrik edilir; doğal periyodu otomatik olarak birincininkine eşit olacak şekilde ayarlanır. Her setin genliği 0,003 inç'e kadar ayarlanır; bıçaklar arasındaki faz açısı 1 derece'ye kadar ayarlanır. İyonlar yalnızca radyofrekans azaldığında hızlandırılır (Şekil 5). Döngünün kalan kısmı "ölü zamandır". Bu nedenle, her biri yaklaşık 500 mikrosaniye süren 64 darbe her saniye elde edilir. Darbeli bir ışının ortalama iyon akımı, geleneksel bir siklotrondan elde edilen gibi sürekli bir ışına göre çok daha azdır (Tablo I'e bakın). Bu, daha yüksek enerjiler için ödenen bedelin bir parçasıdır.
+
+_Dahili Hedefler ve Işın Çıkarıcı_
+
+En basit hedef, dolaşan ışının çarpacağı vakum tankının içine yerleştirilen hedeftir. Hedef, fizikçinin veya kimyagerin ışınlamak istediği herhangi bir madde olabilir. Hedef malzeme, hareketli bir proba bağlanır. Deneyci tam enerjili ışını kullanmak isterse, hedefi dolaşan ışının
+maksimum kullanılabilir yarıçapına (82 inç) yerleştirir. Ancak, maksimum enerjiden daha az iyon kullanmak isterse, hedefi daha erken kesilebilmesi için siklotrona daha fazla yerleştirir.
+
+TABLO I
+
+= ... (Mev) 730 460 910
+
+Işın yoğunluğu --
+tepe akımı ([mu]a)[6] 120 120 40
+
+Işın yoğunluğu --
+ortalama akım ([mu]a) 0,75 0,75 0,25
+
+60-inç Siklotron
+-----------------
+Işın enerjisi --
+maksimum (Mev) 12 24 48
+
+Işın yoğunluğu --
+tepe akımı ([mu]a) 100 150 100
+
+Işın yoğunluğu --
+ortalama akım ([mu]a) 70 80 60
+--------------------------------------------------------------------
+[6] [mu]a = mikroamper
+================================================================
+
+[Resim: Şekil 7. Proton, döteryum veya alfa parçacıklarının harici bir ışınını elde etme yöntemini gösteren siklotronun plan görünümü.]
+
+Bazı deneyler, proton, döteryum veya alfa parçacıklarının harici bir ışınını gerektirir. Bu tür bir ışın, bir LeCouteur rejeneratörü aracılığıyla makineden çıkarılabilir (Şekil 7). Rejeneratörün yapısı çok basittir. Çeşitli boyutlarda bir dizi çelik laminasyondan yapılır. Rejeneratörün yaptığı şey, siklotronun manyetik alanını bir radyal konumda bozmaktır. Işın rejeneratörden her geçtiğinde bir tekme alır. Her tekmeyle ışın radyal genliğini artırır ve sonunda manyetik bir kanala girer. Bu kanal ışını odaklar ve onu ana manyetik alanın dışına yönlendirir. Dışarı çıktığında ışın, ana vakum tankıyla entegre olan boşaltılmış bir tüpten geçer. Yönlendirme mıknatısı aracılığıyla ışın, fizik mağarasına veya tıbbi mağaraya gönderilebilir. (Bu deneysel alanlara "mağara" denir çünkü bunlar büyük beton kalkan duvarının içindeki odalardır.)
+
+Diğer deneyler, mezonların harici bir ışınını gerektirebilir.[7] Bir mezon ışını şu şekilde elde edilir (Şekil 8): Karbon bloğu gibi hareketli bir hedef, siklotronun içine, dışa doğru spirallenen proton ışınının sonuna yakın bir yere yerleştirilir. Proton ışını bu hedefe çarptığında, bir mezon duşu üretilir. Bu mezonlar, ana manyetik alan tarafından çeşitli yönlere bükülür. Bazıları vakum tankı duvarındaki ince bir metal pencereden geçer ve manyetik bir mercek tarafından bir ışına odaklanır. Bu mezon ışını daha sonra beton koruma duvarındaki bir delikten mezon mağarasına doğru ilerler. Çıkarılan bu mezon ışınının maksimum yoğunluğu, hem yüke hem de istenen enerjiye bağlıdır. Koruma duvarındaki 4 x 4 inçlik bir açıklık aracılığıyla saniyede 100.000'den fazla mezondan oluşan ışınlar elde edilmiştir. SİKLOTRON DENEYLERİ
+
+_Nükleer Fizik_
+
+184 inçlik senkrosiklotronun çalışma süresinin yaklaşık %86'sı nükleer fizikteki deneylere ayrılmıştır. Deneylerin çoğu [pi] mezonlarının üretimini ve etkileşimini inceler. Bu parçacıkların çekirdeği bir arada tutan yoğun ancak kısa menzilli kuvvetlerde temel faktörler olduğu düşünülür. Üç tür [pi] mezonu elektrik yüklerine göre [pi]^+, [pi]^0 ve [pi]^- olarak adlandırılır.[8] Bu mezonlar yalnızca yüksek enerjili nükleer çarpışmalarda maddeleşir.
+
+[Resim: Şekil 8. Harici mezon ışını elde etme yöntemi.]
+
+Bir nükleer çarpışmada üç tür mezonun her birinin üretilme olasılığını belirleyen deneyler büyük önem taşır. Bu tür deneyler farklı ışın
+enerjileri ve hedef elemanlar için tekrarlanır. Diğer deneyler, bir hedeften [pi] mezonlarının enerjisini ve emisyon yönünü ölçer.
+
+[Resim: Şekil 9. Tipik bir deney. A, B, C, D ve E'deki sintilasyon sayaçları yüklü parçacıkların geçişini kaydeder.]
+
+Tipik bir [pi]-mezon deneyi Şekil 9'da gösterilmiştir. Bu deneyin amacı, bir [pi]-mezon ışınıyla sıvı hidrojen hedefinden
+çıkarılan protonların dönüş yönlerini tespit etmekti. (Dünya gibi, bir proton da kendi ekseni etrafında döner.) Siklotrondan çıkarılan bir proton ışını, fizik mağarasına soldan girerek bir polietilen hedefe
+çarparak [pi] mezonları üretir. Bu mezonlardan oluşan bir ışın, bir dizi iki bükme mıknatısı ve üç odaklama mıknatısı tarafından oluşturulur.
+Bu ışın, istenmeyen parçacıkları gidermek için bir karbon soğurucudan geçer.
+Mezon ışını daha sonra sıvı hidrojen hedefine çarpar. Gelen mezonların birkaçı dağılarak sıvı hidrojenden protonları dışarı atar. A ve B'deki sintilasyon sayaçları bir protonun geçişini kaydeder ve böylece yönünü belirler. Dağılmış mezonlar C'deki bir sintilasyon sayacı tarafından sayılır. Birkaç proton karbon hedefinden dağılır ve E ve D'deki sayaçlar tarafından tespit edilir. Bu tür olayların tespitinden, geri tepme protonlarının dönüş yönleri (polarizasyon) analiz edilebilir. Bu şekilde, temel [pi]-proton etkileşimi hakkında daha fazla şey öğrenilir. [pi] mezonlarının etkileşimleri hakkında daha fazla çalışma mezon mağarasında yapılır. Orada yapılan diğer deneyler [mu] mezonlarıyla ilgilidir. [mu] mezonu (müon), bir [pi] mezonunun bozunmasıyla oluşan bir parçacıktır ve dünyanın yüzeyine çarpan kozmik ışınların temel bileşenidir. Müon kararsızdır ve sonunda radyoaktif bir bozunma geçirerek bir elektrona dönüşür. Müon nükleer kuvvetler yaşamasa da çekirdeklerle zayıf bir şekilde etkileşime girebilir. Müonun davranışı iyi anlaşılmıştır ancak temel parçacıklardan biri olarak rolü bilinmemektedir. Yani, müon olmasaydı bunun maddenin yapısı üzerinde ne gibi bir etkisi olurdu? Bu sorunun cevabı, diğerlerinin yanı sıra, fizikçiler tarafından 184 inçlik siklotron kullanılarak aranmaktadır.
+
+_Biyofizik_
+
+Biyofizikteki deneyler tıbbi mağarada yürütülür. Bunlarda ilgi nükleer etkileşimlerde değil, iyonlaştırıcı radyasyonun canlı doku üzerindeki etkisindedir. Yüksek enerjili parçacık ışınları beynin belirli bölgelerinin seçici olarak yok edilmesi için kullanılabilir. Bu,
+deney hayvanlarında beynin işlevlerinin fizyolojik haritalanmasına izin verir. Ayrıca beyin tümörlerinin tedavisine terapötik bir yaklaşım sunar. Önemli araştırma programlarından biri, hipofiz bezinin belirli kanserlerin büyüme hızı ve bazı endokrin bozukluklarıyla ilişkisiyle ilgilidir.
+
+_Nükleer Kimya_
+
+Radyokimya tekniklerinin başarılı bir şekilde kullanılabilmesi için yüksek
+etkileşim oranlarına (ve dolayısıyla yüksek ışın yoğunluklarına) ihtiyaç vardır.
+Bu nedenle, kimya hedefleri genellikle doğrudan siklotrona yerleştirilir, böylece doğrudan dolaşan ışın tarafından
+bombardıman edilebilirler. Bombardıman tamamlandıktan sonra hedef siklotrondan
+çıkarılır. Daha sonra bir kimya laboratuvarına götürülür ve ayrıntılı kimyasal prosedürlere tabi tutulur. Tek tek elementler çıkarılır ve her bir elementin radyoaktif izotopları kantitatif sayım
+teknikleriyle tanımlanır. Bazı durumlarda ürünleri analiz etmek için bir kütle spektrometresi kullanılır. Hedef çekirdeğin parçalanmasının doğası hakkında birçok çıkarım, gözlemlenen radyoaktif ürünlerin örüntüsünden çıkarılabilir. Bazen çekirdek neredeyse ikiye bölünür. Buna fisyon denir. Daha sıklıkla çekirdeğin daha küçük parçaları ayrılır. Parçalanma ve parçalanma olarak bilinen iki genel reaksiyon türü ayırt edilir. Bu araştırmanın hedeflerinden biri çekirdeğin yapısı ve çekirdeğin iç kısmındaki parçacıkları birbirine bağlayan kuvvetler hakkında daha fazla bilgi edinmektir.
+
+DİPNOTLAR:
+
+[7] Mezonlar, elektron ve proton arasında kütleye sahip temel parçacıklardır.
+
+[8] [pi]^0 mezonunun 1950'de bu siklotronla keşfedildiğini belirtmek ilginç olabilir. Bu, bir hızlandırıcıyla keşfedilen ilk parçacıktı. Daha önce keşfedilen tüm parçacıklar ilk olarak kozmik ışınlarda veya başka bir doğal radyasyon biçiminde
+gözlemlendi.
+
+BİBLİYOGRAFYA
+
+1. Gerald A. Behman, Parçacık Hızlandırıcıları: I. Bibliyografya, II. Hızlandırıcı Kurulumlarının
+Listeleri, UCRL-8050, 1 Ocak 1958.
+
+2. Samuel Glasstone, Yüklü Parçacıkların Hızlanması,
+_Atom Enerjisi Kaynak Kitabı_, İkinci Baskı (Van Nostrand,
+Princeton, 1958), Bölüm IX.
+
+3. M. S. Livingston, _Yüksek Enerjili Hızlandırıcılar_ (Interscience
+Publishers, New York, 1954).
+
+4. M. Stanley Livingston ve Edwin M. McMillan, Siklotron Tarihi, Fizik Bugün _12_, 18-34 (Ekim 1959).
+
+5. E. M. McMillan, Parçacık Hızlandırıcıları, _Deneysel Nükleer Fizik_, Emilio Segre, Editör, Cilt III (Wiley, New York, 1959),
+Bölüm XIII.
+
+6. Bob H. Smith _ve diğerleri_, UCRL 740-Mev Senkrosiklotronunun Elektriksel Yönleri, UCRL-3779 Rev., 2 Ekim 1957.
+
+7. Robert L. Thornton, Değiştirilmiş Berkeley Siklotronu için Frekans Modülasyonu ve Radyo Frekans Sistemi, UCRL-3362, 3 Nisan 1956.
+
+8. Robert R. Wilson, Parçacık Hızlandırıcıları, Scientific American _198_,
+64-76 (Mart 1958).
+
+EK
+
+ÖZELLİKLERİN ÖZETİ
+
+Mevcut araştırma alanları % zaman
+--------------------------- ---------
+Nükleer fizik 86
+Nükleer kimya 2
+Biyofizik 12
+
+_Planlanmış operasyon_ 156 saat/hafta
+
+_Performans_
+
+_Dahili Işınlar_
+
+Alfa Helyum-3
+Protonlar Döteryumlar parçacıklar iyonlar
+------- --------- --------- ---------
+Maksimum enerji (Mev) 730 460 910 1140
+Enerji yayılımı (Mev) 55
+Işın yoğunluğu
+Ortalama akım ([mu]a) 0,75 0,75 0,25
+Tepe akımı ([mu]a) 120 120 40
+Işın yarıçapı, maksimum (inç) 82 82 82 82
+İvmelenme için gereken süre
+(msn) 6 4,5 4. 5
+Hızlanma sırasındaki
+dönme sayısı 75.000 60.000 60.000
+Hızlanma sırasında kat edilen mesafe (mil) 450 360 360
+Maksimum enerjideki hız
+(% ışık hızı) 82 60 60 69
+Maksimum enerjideki kütle artışı (% dinlenme kütlesi) 75 25 25 40
+Tam enerjili
+parçacıkların aralığı (inç alüminyum) 37 12 7
+
+_Dış Işınlar_
+
+Fizik mağarası Mezon mağarası
+----------------------- ------------------
+Protonlar Nötronlar [pi]^+ [pi]^+ [pi]^-
+-------- -------- ------- ------- ---------
+Enerji (Mev) 730 310 100|250 100|300
+Enerji yayılımı (Mev) 14 10|20 10|30
+Işın alanı (cm^2) 25 40 100|100 100|100
+Akı (parçacık/cm^2-sn) 2x10^10 5x10^5 5x10^4 1000|100 1500|1000
+
+_İvme odası (vakum tankı)_
+
+Boyut
+uzunluk (ft) 25
+genişlik (ft) 20
+yükseklik (ft) 4
+
+Malzeme: yumuşak çelik
+
+Çalışma basıncı (mm Hg) 10^-5
+
+Vakum pompaları: 8 inçlik altı adet 20 inçlik yağ difüzyon pompası güçlendiriciler:
+bir Beach-Russ 750-cfm; bir Kinney 300-cfm; iki
+Kinney 105-cfm.
+
+Yağ difüzyon pompalarının pompalama hızı (litre/sn) 20.000
+
+_Mıknatıs_
+
+Çekirdek çapı (inç) 184
+Kutup ucu çapı (inç) 188,75
+Merkezdeki kutup boşluğu (inç) 14
+Manyetik alan şiddeti (gauss)
+merkezde 23.400
+82,2 inç yarıçapında, burada n = 0,2 22.275
+Çelik ağırlığı (ton) 4.000
+Mıknatıs bobinleri Ana bobinler Yardımcı bobinler
+---------- ---------------
+malzeme katı bakır içi boş bakır
+(1/4 x 4 inç) (1-3/16 x 1-1/16 inç)
+bakır ağırlığı (ton) 300 40
+dönüş sayısı (toplam) 2.600 425
+amper dönüş 1,9 x 10^6 1.1 x 10^6
+akım (amper) 1600 2800
+voltaj (v) 550 560
+güç (kw) 900 1600
+soğutma sıvısı yağ su
+
+_Radyofrekans sistemi_
+
+Dee sistemi
+dee sayısı 1
+boyut
+uzunluk (inç) 126
+genişlik (inç) 180
+yükseklik (inç) 48
+malzeme: 1/64 inç kalınlığında bakır, paslanmaz çelik bir çerçeve üzerine gerilmiş
+
+dee açıklığı (inç) 4-3/16
+
+Osilatör
+tip: kendiliğinden uyarılmış topraklanmış ızgara 10
+tüp: bir Machlett ML5681
+dc girişi, çalışma koşulu (kw) 10
+dee önyargısı, maksimum dc (v) 2000
+
+Protonlar Döteryumlar Alfa parçacıkları
+------- --------- ---------------
+rf görev döngüsü (%) 38 28 28
+dee-toprak voltajı,
+tepe (kv) 9 6 6
+
+Frekans modülasyon sistemi
+tip: titreşimli kamış (diyapazon) kapasitör
+ünite sayısı: iki (her biri iki bıçak)
+bıçaklar
+boyut
+genişlik (inç) 45
+uzunluk (inç) 32
+kalınlık: 1,4 ila 0,06 inç arasında konik ağırlık (lb) 500
+titreşim frekansı (cps) 64
+elektrik kapasitansı ([mu][mu]f) 300 ila 6.500
+tepe-tepe sapma (inç) 1
+kanat ve statorun minimum ayrılması (mil) 50
+
+Protonlar Döteryumlar Alfa parçacıkları
+------- --------- ---------------
+frekans taraması (Mc) 36-18 18-13,5 18-13,5
+
+İyon kaynağı: geleneksel açık ark tipi
+
+_Işın çıkarıcı_
+
+Manyetik kanalla birleştirilmiş LeCouteur tipi rejeneratör
+
+_Bina ve tesisler_
+
+Oda boyutları
+çap (ft) 160
+yükseklik (ft) 90
+
+Vinç
+tipi: radyal
+kapasite (ton) 30
+baş üstü açıklığı (ft) 77
+
+Beton kalkanlama: Yanlarda 15 ft kalınlığında, üstte 4 ft
+
+_Tarih_
+
+Tasarım başladı: Ocak 1940.
+İnşaat başladı: Ağustos 1940.
+İlk operasyon
+döteryumlar ve alfa parçacıkları için: Kasım 1946.
+protonlar için: Aralık 1948.
+Yeniden inşa: 1955-1957.
+
+[İllüstrasyon: Senkrosiklotron Binası]
+
+[Yazıcının Notu:
+Basılı metinde aşağıdaki değişiklikler yapıldı:
+Sayfa 15, kapanış tırnak işareti eklendi (bunlara "mağaralar" denmesinin nedeni)
+Sayfa 19, "iyostoplar" "izotoplar" olarak düzeltildi]
+
+Lawrence Radyasyon Laboratuvarı tarafından Project Gutenberg'in LRL Hızlandırıcılarının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK LRL ACCELERATORS ***
+
+***** This file should be named 33397.txt or 33397.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/3/9/33397/
+
+Produced by Erica Pfister-Altschul, Mark C. Orton, and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
