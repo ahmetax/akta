@@ -1,0 +1,657 @@
+*** START OF AKTAHEADER ***
+Başlık: The Einstein Theory of Relativity (Einstein'ın Görelilik Kuramı)
+Yazar: H.A. Lorentz
+Yayın Tarihi: February 27, 2004 [EBook #11335]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/11335
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+Project Gutenberg's The Einstein Theory of Relativity, by H.A. Lorentz
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Einstein Theory of Relativity
+
+Author: H.A. Lorentz
+
+Release Date: February 27, 2004 [EBook #11335]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE EINSTEIN THEORY OF RELATIVITY ***
+
+*** START OF TURKISH PART ***
+Jeroen Hellingman ve Distributed Proofreaders Ekibi tarafından üretilmiştir
+
+Einstein Görelilik Kuramı
+
+Özlü Bir Açıklama
+
+
+Leyden Üniversitesi'nden Prof. H.A. Lorentz
+
+NOT
+
+Dünyada en fazla on iki kişinin Einstein'ın Kuramını anlayabildiği doğru olsun ya da olmasın, yine de bu çok tartışılan görelilik konusu hakkında sürekli bir bilgi talebi olduğu bir gerçektir. Bu konuda yayınlanan kitaplar o kadar tekniktir ki, yalnızca saf fizik ve yüksek matematik alanında eğitim almış bir kişi bunları tam olarak anlayabilir. Bu kapsamlı kuramın popüler bir açıklamasını
+mevcut kılmak için, bu kitap yayınlanmıştır.
+
+Profesör Lorentz, Einstein tarafından kuramının gelişimini paylaştığı için takdir edilmektedir. Bu bilimsel keşfi açıklamakta şüphesiz diğer herkesten daha yeteneklidir --kendisi hariç.
+
+Yayıncılar, sayfalarından makaleleri yeniden basmak için nezaketli
+izinleri için New York Times, The Review of Reviews ve The Athenaeum'a teşekkür etmek isterler. Profesör Lorentz'in
+makalesi ilk olarak 19 Kasım 1919'da The Nieuwe Rotterdamsche Courant'ta yayınlanmıştır.
+
+GİRİŞ
+
+Royal Society'nin 6 Kasım'da Londra'da yaptığı toplantıda Dr. Albert Einstein'ın "görelilik teorisini" tanıması, Atlantik'in her iki yakasındaki bilimsel çevrelerde büyük bir karışıklığa neden oldu. Dr. Einstein teorisini yaklaşık on beş yıl önce
+ortaya koydu. Bu teoriye olan ilginin günümüzde yeniden canlanması, geçen Mayıs ayındaki güneş tutulması sırasında yapılan gözlemlerin raporunda, güneşe yakın geçen ışık ışınlarının rotasından saptırılıp saptırılmadığını belirlemek için alınan dikkate değer
+onaydan kaynaklanmaktadır.
+
+Gökbilimciler tarafından keşfedilen ışınların gerçek sapması, Einstein tarafından uzun yıllar önce teorik olarak öngörülen şeydi. Bu çarpıcı teyit, bazı Alman bilim insanlarının Newton'un kütle çekim teorisinin
+yayımlanmasından bu yana bu kadar önemli bir bilimsel keşif yapılmadığını iddia etmesine yol açtı. Ancak bu öneri, Dr. Einstein tarafından Berlin'deki evinde New York Times'ın bir muhabiri tarafından röportaj yapıldığında bir kenara bırakıldı. Bu muhabire, kendi anlayışı ile kütle çekim yasası arasındaki farkı şu şekilde ifade etti:
+
+"Lütfen dünyanın kaldırıldığını ve yerine bir oda veya bütün bir ev büyüklüğünde bir kutunun asıldığını ve içinde doğal olarak ortada yüzen bir adamın olduğunu ve onu çeken hiçbir kuvvetin olmadığını hayal edin. Ayrıca, bu kutunun bir ip veya başka bir düzenekle aniden bir tarafa doğru çekildiğini hayal edin; bu, bilimsel olarak 'düzgün hareket' yerine 'difform hareket' olarak adlandırılır. Kişi daha sonra doğal olarak karşı taraftaki
+dibe ulaşırdı. Sonuç, Newton'un yerçekimi yasasına uymuş gibi olurdu, oysa aslında
+hiçbir şekilde yerçekimi uygulanmaz, bu da difform
+hareketin her durumda yerçekimiyle aynı etkileri üreteceğini kanıtlar.
+
+"Bu yeni fikri her türlü difform harekete uyguladım ve böylece Newton'un teorisine dayalı olanlardan daha kesin sonuçlar verdiğine ikna olduğum matematiksel formüller geliştirdim. Newton'un
+formülleri, ancak, o kadar yakın yaklaşımlardır ki, gözlem yoluyla deneyimle herhangi bir açık
+uyuşmazlık bulmak zordu."
+
+Unutulmamalıdır ki, Dr. Einstein bir fizikçidir ve bir
+astronom değildir. Teorisini matematiksel bir formül olarak geliştirmiştir. Bunun
+doğrulanması astronomlardan gelmiştir. Kendisinin de söylediği gibi,
+kritik test son tam güneş tutulması tarafından sağlanmıştır. Daha sonra yapılan gözlemler, sabit yıldızların ışınlarının, Dünya'ya ulaşmak için Güneş'in yakınından geçmek zorunda kaldıkları için, Einstein'ın formüllerinin gerektirdiği
+tam miktarda saptırıldığını kanıtlamıştır. Saptırma da onun
+öngördüğü yönde olmuştur. Birçok kişinin aklına şu soru gelmiş olmalı: Tüm bunların görelilikle ne alakası var? Bu soru Times muhabiri tarafından Dr. Einstein'a yöneltildiğinde şu şekilde cevap verdi:
+
+"Görelilik terimi zaman ve uzayı ifade eder. Galileo ve Newton'a göre zaman ve uzay mutlak varlıklardı ve evrenin hareket eden sistemleri bu mutlak zamana ve uzaya bağımlıydı. Mekanik bilimi bu anlayış üzerine inşa edildi. Ortaya çıkan formüller yavaş yapıdaki tüm hareketler için yeterliydi; ancak bunların elektrodinamikte görülen hızlı hareketlere uymayacağı bulundu.
+
+"Bu, Hollandalı profesör Lorentz ve beni özel görelilik teorisini geliştirmeye yöneltti. Kısaca, bu teori mutlak zaman ve uzayı bir kenara atıyor ve onları her durumda hareket eden sistemlere göreli hale getiriyor. Bu teoriyle, elektrodinamikteki ve mekanikteki tüm fenomenler, eski formüllerle indirgenemezdi ve bunlar çoktur, tatmin edici bir şekilde açıklanmıştır.
+
+"Şimdiye kadar, zaman ve uzayın, başka hiçbir şey olmasa bile, güneş, dünya, yıldızlar olmasa bile, kendi başlarına var olduğuna inanılıyordu; oysa şimdi, zaman ve uzayın evrenin taşıyıcısı olmadığını, ancak içerikler, yani güneş, dünya ve diğer gök cisimleri olmasaydı, hiç var olamayacaklarını biliyoruz.
+
+"Teorimin ilk bölümünü oluşturan bu özel görelilik, tekdüze hareketle hareket eden tüm sistemlerle ilgilidir; yani, eşit hızla düz bir çizgide hareket eden.
+
+"Yavaş yavaş, bilimde çok paradoks gibi görünen, bunun eşit olarak tüm hareket eden sistemlere, hatta farklı hareket eden sistemlere bile uygulanabileceği fikrine yönlendirildim ve böylece teorimin ikinci bölümünü oluşturan genel görelilik kavramını geliştirdim."
+
+Princeton'dan Amerikalı bir gökbilimci olan Profesör Henry Norris
+Russell'ın 29 Kasım tarihli Scientific American'da özetlediği gibi,
+Einstein'ın katkısı şu şekildedir:
+
+"Kanıtlanmış olan ve büyük ilgi ve öneme sahip olan temel gerçek şudur ki, yerçekimi ve eylemsizliği içeren doğal olaylar (gezegenlerin hareketleri gibi) ile elektrik ve manyetizmayı içeren olaylar (ışığın hareketi dahil)
+birbirlerinden bağımsız değil, birbirleriyle yakından ilişkilidir, böylece her iki olay kümesi de tüm Doğa'yı kapsayan geniş bir sistemin parçaları olarak görülmelidir. Ancak ikisinin ilişkisi öyle bir karakterdedir ki, yalnızca birkaç durumda algılanabilir ve o zaman da yalnızca rafine gözlemlerle."
+
+Savaştan önce bile, Einstein fizikçiler arasında ve görelilik ilkesi nedeniyle bilim felsefesiyle ilgilenen herkes arasında büyük bir üne sahipti.
+
+Clerk Maxwell ışığın elektromanyetik olduğunu göstermiş ve elektromanyetizma teorisinin tamamını, sonraki tüm çalışmalarda temel olan az sayıda denkleme indirgemişti. Ancak bu denklemler, eter hipotezi ve eterle ilişkili hareket kavramıyla iç içe geçmişti. Eterin hareketsiz olduğu varsayıldığından, bu hareket mutlak hareketten ayırt edilemezdi. Dünyanın etere göre hareketi, yörüngesinin farklı noktalarında farklı olmalıydı ve bu farktan ölçülebilir fenomenler ortaya çıkmalıydı. Ancak hiçbiri olmadı ve etere göre hareketlerin etkilerini tespit etmeye yönelik tüm girişimler başarısız oldu. Görelilik teorisi bu gerçeği açıklamada başarılı oldu. Ancak, tek evrensel zamanı bir kenara atmak ve hareket eden cisimlere bağlı ve hareketlerine göre değişen yerel zamanları ikame etmek gerekiyordu. Görelilik kuramının dayandığı denklemler Lorentz'e aittir, ancak Einstein bunları genel ilkesiyle ilişkilendirmiştir, yani gözlemlenebilir olgularda gözlemcinin mutlak hareketine atfedilebilecek hiçbir şey olmamalıdır. Ortodoks Newton dinamiğinde görelilik ilkesinin daha basit bir biçimi vardı ve genel zaman yerine yerel zamanın kullanılmasını gerektirmiyordu. Ancak şimdi Newton dinamiğinin yalnızca kendimizi ışıktan çok daha düşük hızlarla sınırladığımızda geçerli olduğu ortaya çıktı. Galileo-Newton sisteminin tamamı böylece ilk yaklaşım seviyesine düştü ve söz konusu hızlar ışık hızına yaklaştıkça giderek daha az kesin hale geldi. Einstein'ın ilkesini kütleçekimini açıklayacak şekilde genişletmesi savaş sırasında yapıldı ve astronomlarımız uzun bir süre Alman basılı materyali elde etmenin zorluğu nedeniyle bununla tanışamadılar. Ancak, çalışmalarının kopyaları sonunda dış dünyaya ulaştı ve insanların bunun hakkında daha fazla şey öğrenmesini sağladı. Newton'dan beri kütleçekim doğadaki diğer kuvvetlerden
+yalıtılmıştı; bunu açıklamak için çeşitli girişimlerde bulunuldu, ancak başarısızlıkla sonuçlandı. Elektromanyetizma tarafından gerçekleştirilen muazzam birleşme, kütleçekimini kapsamının dışında bırakmış gibi görünüyor. Doğanın fizikçilere hiçbirinin karşılayamadığı bir meydan okuma sunduğu görülüyordu.
+
+Bu noktada Einstein, daha sonraki doğrulamalar hariç, insan dehasının en büyük anıtlarından biri olarak kabul edilmeyi hak eden bir hipotezle araya girdi. Newton'u düzelttikten sonra, sıra Euclid'i düzeltmeye geldi ve yeni teorisini Euclid dışı geometri açısından ifade etti. Euclid dışı geometri, birincil amacı mantıksal ve felsefi olan bir çalışmadır;
+bunun savunucularından çok azı, bunun fizikte uygulanabileceğini hayal etmiştir. Euclid'in bazı aksiyomlarının "zorunlu gerçekler" değil, sadece deneysel yasalar olduğu düşünülüyordu; bu görüşü oluşturmak için, Euclid'in varsayımları dışındaki varsayımlar üzerine kendi kendine tutarlı geometriler inşa edildi. Bu geometrilerde bir üçgenin açılarının toplamı iki dik açı değildir ve iki dik açıdan sapma üçgenin boyutu arttıkça artar. Genellikle Öklid dışı geometride uzayın bir eğriliği olduğu söylenir, ancak konuyu bu şekilde ifade etmek yanıltıcıdır, çünkü bu sistemlerde ima edilmeyen dördüncü bir boyutu ima ediyor gibi görünmektedir. Einstein, uzayın maddeden yeterince uzak olduğu yerde Öklid olduğunu, ancak maddenin varlığının onu biraz Öklid dışı hale getirdiğini varsayar - civarda ne kadar çok madde varsa, uzay Öklid'den o kadar çok uzaklaşacaktır. Bu hipotezin ve önceki görelilik teorisinin yardımıyla, kütle çekimini çıkarır - Newton'un ters kare yasasına göre çok yaklaşık olarak, ancak tam olarak değil. Teorisinden çıkarılan etkilerle Newton'dan çıkarılan etkiler arasındaki küçük farklar belirli durumlarda ölçülebilir. Şimdiye kadar yeni teorinin ve eskisinin göreceli doğruluğunun üç kritik testi vardır.
+
+(1) Merkür'ün perihelyonu, uzun zamandır astronomları şaşırtan bir tutarsızlığı göstermektedir. Bu tutarsızlık, Einstein tarafından tamamen açıklanmıştır. Teorisini yayınladığı zaman, bu onun tek deneysel doğrulamasıydı.
+
+(2) Modern fizikçiler ışığın yerçekimine tabi olabileceğini varsaymaya istekliydiler - yani, güneş gibi büyük bir kütlenin yanından geçen bir ışık ışınının, aynı hızla hareket eden bir parçacığın ortodoks yerçekimi teorisine göre saptırılacağı ölçüde saptırılabileceğini. Ancak Einstein'ın teorisi, ışığın bundan sadece iki kat daha fazla saptırılmasını gerektiriyordu. Madde ancak bir dizi parlak yıldız arasındaki bir tutulma sırasında test edilebilirdi. Neyse ki geçen yıl tuhaf bir şekilde olumlu bir tutulma meydana geldi. Gözlemlerin sonuçları artık yayınlandı ve Einstein'ın tahminini doğruladığı görüldü. Doğrulama, elbette, tam olarak kesin değil; bu kadar hassas gözlemlerde bu beklenmezdi. Bazı durumlarda sapma önemlidir. Ancak en iyi gözlem serisinin ortalaması alındığında, güneşin kenarındaki sapmanın yaklaşık %6'lık olası bir hatayla 1,98'' olduğu bulundu. Buna karşın Einstein'ın teorisiyle hesaplanan sapmanın 1 olması gerekir. 75''. Einstein'ın teorisinin, ortodoks teorinin öngördüğünden iki kat daha büyük bir sapma verdiği ve gözlemlenen sapmanın Einstein'ın öngördüğünden biraz daha büyük olduğu fark edilecektir. Sapma, ölçümlerin dakikliği göz önünde bulundurulduğunda beklenebilecek olanın oldukça içindedir. Bu nedenle, astronomlar tarafından sonucun Einstein için bir zafer olduğu genel olarak kabul edilmektedir.
+
+(3) Bu sansasyonel doğrulamanın heyecanı içinde,
+Einstein'ın teorisinin tabi tutulacağı üçüncü deneysel testi göz ardı etme eğilimi olmuştur. Eğer teorisi olduğu gibi doğruysa, bir kütle çekim alanında, spektrum çizgilerinin kırmızıya doğru bir yer değiştirmesi
+gerekir. Böyle bir etki
+keşfedilmemiştir. Spektroskopistler, şu anda görülebildiği kadarıyla, Einstein'ın teorisinin mevcut haliyle varsayılması durumunda bu başarısızlığı açıklamanın bir yolu olmadığını savunmaktadırlar. Bazı
+telafi edici nedenlerin uyumsuzluğu açıklamak için keşfedilebileceğini kabul ediyorlar, ancak
+Einstein'ın teorisinin bazı temel değişikliklere ihtiyaç duymasının çok daha olası olduğunu düşünüyorlar. Bu arada, belirli bir yargı gerginliği
+gerekiyor. Yeni yasa üç testten ikisinde o kadar şaşırtıcı derecede başarılı oldu ki, henüz tam olarak doğru olmasa bile,
+bu konuda geçerli bir şeyler olmalı.
+
+Einstein'ın teorisi en yüksek estetik değere sahip:
+güzelliğin her aşığı bunun doğru olmasını istemelidir. Doğanın işleyişinin kapsamlı bir birleşik incelemesini,
+çıkarımların zenginliğini
+şaşırtıcı kılan kritik varsayımlardaki teknik bir sadelikle sunar. Bu, saf teoriyle ulaşılan bir ilerlemenin örneğidir: Einstein'ın çalışmalarının tüm etkisi, fiziği daha felsefi hale getirmek (iyi anlamda) ve on yedinci ve on sekizinci yüzyılların büyük bilimsel sistemlerine ait olan, ancak artan uzmanlaşma ve ezici ayrıntılı bilgi kütlesi nedeniyle kaybolan entelektüel birliğin bir kısmını geri kazandırmaktır. Bazı açılardan, içinde yaşadığımız çağ yaşamak için iyi bir çağ değildir, ancak fizikle ilgilenenler için büyük telafiler vardır.
+
+EINSTEIN'IN GÖRELİLİK TEORİSİ
+
+Leyden Üniversitesi'nden Prof. H. A. Lorentz'in Özlü Bir Açıklaması
+
+29 Mayıs'taki tam güneş tutulması, Albert Einstein tarafından geliştirilen evrensel çekim gücü
+teorisinin çarpıcı bir şekilde doğrulanmasıyla sonuçlandı ve böylece bu teorinin tanımlanmasının doğa bilimi alanında atılmış en önemli adımlardan biri olduğu inancını güçlendirdi. Editörün bir talebine cevaben, aşağıdaki satırlarda genel takdirine bir şeyler
+katmaya çalışacağım.
+
+Newton'un kütle çekiminin çekiciliği doktrini yüzyıllardır
+doğa biliminin en belirgin
+örneği olmuştur.
+Temel fikrinin sadeliği, iki cisim arasındaki çekim, kütleleriyle orantılı ve ayrıca mesafenin karesiyle orantılı;
+güneş sistemini oluşturan cisimlerin hareketindeki birçok tuhaflığı açıkladığı eksiksizlik; ve son olarak, evrensel geçerliliği,
+çok uzak gezegen sistemleri durumunda bile, herkesin hayranlığını
+sağlamıştır.
+
+Ancak, matematikçilerin becerisi, bunun yol açtığı sonuçların daha kesin hesaplamalarını yapmaya adanmış olsa da,
+kütle çekimi biliminde gerçek bir ilerleme kaydedilememiştir. Cavendish'in laboratuvar çalışmalarının yapılabileceği cisimler arasındaki ortak çekimi göstermedeki başarısının ardından, soruşturmanın fizik alanına aktarıldığı doğrudur, ancak doğa felsefesinin evrensel çekim gücü üzerinde hiçbir
+kavrayışı olmadığı her zaman açıktır. Elektriksel etkilerde cisimler arasına yerleştirilen madde tarafından uygulanan bir etki hızla gözlemlenirken - yeni ve verimli bir elektrik doktrininin başlangıç ​​noktası - kütle çekim durumunda ara madde tarafından uygulanan bir etkinin izi bile keşfedilemedi. Görünüşte, diğer doğa felsefesi fenomenleriyle hiçbir bağlantısı olmadan, erişilemez ve değiştirilemezdi ve öyle de kaldı. Einstein bu izolasyona son verdi; kütle çekimin yalnızca maddeyi değil, ışığı da etkilediği artık iyice yerleşmiş durumda. Dolayısıyla teorisinin zaten ilham verdiği inançla güçlenerek, onunla birlikte kütle çekimin etkisini hissetmeyen tek bir fiziksel veya kimyasal fenomen olmadığını - çok büyük olasılıkla fark edilmez bir derecede de olsa - ve diğer yandan bir cisim tarafından uygulanan çekimin ilk etapta içerdiği madde miktarıyla ve ayrıca bir dereceye kadar hareketle ve hareket ettiği fiziksel ve kimyasal koşullarla sınırlı olduğunu varsayabiliriz. Bir kişinin eski ezberlenmiş yolları takip etmeye devam ederek böylesine kapsamlı bir görüş değişikliğine ulaşamayacağı, ancak yeni bir fikir ortaya koyarak ulaşabileceği anlaşılır bir durumdur. Gerçekten de, Einstein teorisine büyük bir özgünlükte bir düşünce dizisiyle ulaşmıştır. Bunu özlü bir şekilde yeniden ifade etmeye çalışayım.
+
+HAREKET EDEN BİR VAGON OLARAK DÜNYA
+
+Herkes, bir kişinin herhangi bir tür araçta oturduğunu, hareketin yönü veya hızı değişmediği sürece, ilerlemesini fark etmediğini bilir; hızlı bir ekspres trenin vagonunda nesneler, duran bir vagondakiyle aynı şekilde düşer. Sadece trenin dışındaki nesnelere baktığımızda veya hava vagona girebildiğinde hareketin belirtilerini fark ederiz. Dünyayı, güneşin etrafındaki rotasında dikkate değer bir hıza sahip olan ve önemli bir süre boyunca yönü ve hızı sabit olarak kabul edilebilecek böylesi hareket eden bir araçla karşılaştırabiliriz. Havanın yerine, daha önce düşünüldüğü gibi, evrenin boşluklarını dolduran ve ışığın ve elektromanyetik olayların taşıyıcısı olan eter gelir; dünyanın eter için tamamen geçirgen olduğunu ve eterin içinden hareket ettirilmeden geçebileceğini varsaymak için iyi nedenler vardı. Yani burada her tarafı açık bir tren vagonunun durumuna benzer bir durum vardı. Kesinlikle dünyanın ve tüm aletlerimizin içinden esen güçlü bir "eter rüzgarı" olmalıydı ve bunun bazı işaretlerinin bir deneyle veya başka bir şeyle bağlantılı olarak fark edilmesi bekleniyordu. Ancak bu doğrultudaki her girişim sonuçsuz kaldı; incelenen tüm fenomenler açıkça dünyanın hareketinden bağımsızdı. Bunların bu şekilde işledikleri, Einstein tarafından ilk veya "özel" görelilik teorisinde öne çıkarıldı. Ona göre eter işlev görmez ve doğal olayların çizdiği taslakta bu ara maddeden hiç söz edilmez.
+
+Evrenin uzayları bir eterle, varsayalım ki bir maddeyle doluysa, ki bu maddede, olası titreşimler ve diğer hafif hareketler dışında, bir kısmın diğerinin yanında asla sıkışması veya akması olmaz, o zaman içinde sabit noktaların var olduğunu hayal edebiliriz;
+örneğin, bir metre arayla yerleştirilmiş düz bir çizgideki noktalar,
+bir satranç tahtasındaki açılar veya kareler gibi, sonsuza kadar uzanan düz bir düzlemdeki noktalar ve son olarak, bu düz noktayı ona dik yönde bir metrelik bir mesafe boyunca tekrar tekrar kaydırarak elde edilen uzaydaki noktalar. Sonuç olarak, noktalardan biri "orijinal nokta" olarak seçilirse, o noktadan hareketle, noktaların düzenlendiği ortak dik yönlerde üç adımla başka bir noktaya ulaşabiliriz. Her bir adımda kaç metre olduğunu gösteren rakamlar, ulaşılan yeri belirtmek ve onu diğerlerinden ayırt etmek için kullanılabilir; bunlar, söylendiği gibi, bu yerlerin "koordinatları"dır, örneğin,
+bir haritada enlem ve boylamı veren sayılarla karşılaştırılabilir. Her noktanın, konumunu veren üç sayıyı işaretlediğini varsayalım, o zaman numaralandırılmış alt bölümlere sahip bir ölçüyle karşılaştırılabilir bir şeye sahip oluruz; sadece şimdi, diyebiliriz ki,
+üç ortak dik yöndeki pek çok hayali ölçüyle uğraşmamız gerekiyor. Bu "koordinat sisteminde", bir veya diğerinin konumunu sabitleyen sayılar artık her an okunabilir.
+
+Bu, gökbilimcilerin ve matematik yardımcılarının gök cisimlerinin hareketiyle uğraşırken her zaman kullandıkları araçtır. Belirli bir anda her cismin konumu, üç koordinatıyla sabitlenir. Bunlar verilirse, o zaman kişi ortak mesafeleri ve bağlantı çizgilerinin oluşturduğu açıları da bilir ve bir gezegenin hareketi, koordinatlarının bir andan diğerine nasıl değiştiğini bilir bilmez bilinir. Dolayısıyla, fenomenlerin oluşturduğu resim, hareketsiz eterin tuvaline çizilmiş gibi orada durur.
+
+EINSTEIN'IN AYRILIŞI
+
+Einstein eterden kurtulduğu için, bu tuvalden yoksundur ve bununla birlikte, ilk bakışta, gök cisimlerinin konumlarını sabitleme ve hareketlerini matematiksel olarak tanımlama olasılığını da kaybeder - yani, her anki konumları tanımlayan
+karşılaştırmalar yaparak. Einstein'ın bu zorluğun üstesinden nasıl geldiği, basit bir örnekle bir şekilde açıklanabilir.
+
+Dünyanın yüzeyinde, kütle çekiminin çekimi, tüm cisimlerin dikey çizgiler boyunca düşmesine neden olur ve aslında, havanın direncini hesaba katmadığımızda, eşit derecede ivmeli bir hareketle; Hız, bu ülkede saniyenin sonunda ulaşılan hızı saniyede 981 santimetre (32,2 fit) olarak veren bir oranda, eşit ardışık zaman bölümlerinde eşit derecelerde artar. 981 sayısı "kütleçekim alanındaki ivmeyi" tanımlar ve bu alan tamamen bu tek sayıyla karakterize edilir; onun yardımıyla, keyfi bir yöne fırlatılan bir cismin hareketini de hesaplayabiliriz. İvmeyi ölçmek için, cismin yere sağlam bir şekilde yerleştirilmiş dikey bir ölçünün yanına düşmesine izin veririz; bu ölçekte, her an, bu doğrusal harekette önemli olan tek koordinat olan yüksekliği belirten rakamı okuruz. Şimdi, ölçünün yere sağlam bir şekilde bağlı olmadığını, varsayalım ki, bulunduğu yerle ve bizim olduğumuz yerle birlikte aşağı veya yukarı hareket ettiğini
+soruyoruz. Eğer
+bu durumda hız sabit olsaydı, o zaman, ve bu özel görelilik kuramına uygundur, hiç hareket gözlemlenmeyecekti; düşen bir cisim için yine 981'lik bir ivme bulmalıyız. Ölçü değişken bir hızla hareket etseydi farklı olurdu.
+
+Kendisi 981'lik sabit bir ivmeyle aşağı inerse, o zaman bir cisim ölçü üzerindeki aynı noktada kalıcı olarak kalabilirdi,
+veya sabit bir hızla onun yanında yukarı veya aşağı hareket edebilirdi. Cismin ölçüye göre bağıl hareketi
+ivmesiz olmalı ve sadece bulunduğumuz ve kendisi düşen
+noktada gözlemlediklerimize göre karar vermek zorunda kalsaydık, o zaman hiç yerçekimi olmadığı izlenimini edinirdik. Eğer ölçüm, daha önce olduğu ivmenin yarısına veya üçte birine eşit bir ivmeyle aşağı inerse, o zaman cismin göreli hareketi
+elbette ivmelenecektir, ancak saniyedeki hız artışını 981'in yarısı veya üçte ikisi olarak bulmalıyız. Son olarak,
+ölçünün eşit ivmeli bir hareketle yükselmesine izin verirsek, o zaman cismin kendisi için 981'den daha büyük bir ivme bulacağız. Böylece, ölçü dünyaya bağlı olmadığında bile, yer değiştirmesini göz ardı ederek, cismin ölçüye göre hareketini her zaman aynı şekilde, yani, yerçekimi küresinin ivmesine ara sıra sabit bir değer, özel bir durumda sıfır değeri atfettiğimiz gibi, tekdüze bir şekilde ivmelenen bir
+ölçü olarak tanımlayabileceğimizi görüyoruz. Elbette, burada ele alınan durumda, dünyaya sabitlenmiş bir ölçünün kullanımı her türlü tavsiyeyi hak etmelidir. Ancak, güneş sisteminin uzaylarında, artık eterden vazgeçtiğimize göre, böyle bir desteğe sahip değiliz. Evrensel bir ara maddede, az önce bahsedilene benzer bir koordinat sistemi artık kuramayız ve bir şekilde üç yönde birbirini kesen belirli bir çizgi sistemine ulaşırsak, o zaman birincisine göre şu veya bu şekilde hareket eden başka bir benzer sistemi de kullanabiliriz. Koordinat sistemini her türlü şekilde, örneğin uzatma veya sıkıştırma yoluyla yeniden şekillendirebilmeliyiz. Tüm bu durumlarda, sistemin hareketine veya yeniden şekillendirilmesine katılmayan sabit cisimler için diğer koordinatların tekrar tekrar okunacağı açıktır.
+
+YENİ SİSTEM VEYA KOORDİNATLAR
+
+Einstein'ın hangi yolu izlemesi gerektiği artık açıktır. Kesin, özel durumları hesaplarken -bunu söylemeye gerek yok- seçilmiş bir koordinat sistemi kullanmalıdır, ancak seçimini önceden ve genel olarak sınırlamanın bir yolu olmadığından, bu konuda tam bir hareket özgürlüğünü saklı tutmak zorundaydı. Bu nedenle, hedefi, seçim nasıl yapılırsa yapılsın, kütle çekimi fenomenlerinin, çekim cisimleri tarafından etkileri ve uyarılması açısından, her zaman aynı şekilde, yani kütle çekimi alanını işaretleyen sayılara tekrar tekrar belirli değerler verdiğimiz gibi, aynı genel formdaki karşılaştırmalar yoluyla tanımlanabilmesiydi. (Basitleştirme adına, burada Einstein'ın zamanın ölçülme ve rakamlarla gösterilme biçiminin, karşılaştırmaların merkezi değeri üzerinde hiçbir etkisinin olmamasını istediği gerçeğini göz ardı ediyorum.) Bu hedefe ulaşılıp ulaşılamayacağı matematiksel bir soruşturmanın sorusuydu. Gerçekten de, oldukça dikkat çekici bir şekilde, ve diyebiliriz ki, Einstein'ın kendisini bile şaşırtacak şekilde, matematiksel formda önemli bir basitlik pahasına; Yerçekimi alanının uzaydaki bir veya diğer noktada sabitlenmesi için, yukarıda belirtilen örnekte meydana gelenin yerine en az on nicelik daha eklemek gerekli görünüyordu.
+
+Bu bağlamda, daha da büyük karmaşıklığa yol açacak belirli olasılıkları hariç tuttuğumuzda, Einstein'ın teoriyi sunmak için kullandığı karşılaştırma biçiminin tek olası biçim olduğunu belirtmek önemlidir; koordinatlarda seçim özgürlüğü ilkesi, kendisine rehberlik etmesi gereken tek ilkeydi. Böylece Newton teorisiyle bir bağlantıya ulaşmak için özel bir çaba sarf edilmemiş olsa da, neyse ki, deneyin sonunda bağlantının var olduğu ortaya çıktı. Gök cisimlerinin hızlarının ışığınkine kıyasla hafif olduğu basitleştirici durumdan yararlanırsak, o zaman Newton teorisini yeni teoriden, Einstein'ın adlandırdığı gibi "evrensel" görelilik teorisinden çıkarabiliriz. Böylece
+Newton teorisine dayalı tüm sonuçlar geçerlidir,
+doğal olarak gerekli olduğu gibi. Ancak şimdi daha da ilerledik.
+Newton teorisi artık tüm
+durumlarda kesinlikle doğru olarak kabul edilemez; ondan küçük sapmalar vardır, ki bunlar kural olarak
+fark edilmez olsa da, ara sıra gözlem aralığına girer.
+
+Şimdi, Merkür gezegeninin hareketinde çözülemeyen
+bir zorluk vardı. Diğer gezegenlerin çekiminin neden olduğu tüm rahatsızlıklar hesaba katıldıktan sonra bile, açıklanamayan bir fenomen kaldı - yani Merkür'ün kendi düzleminde tanımladığı elips'in son derece yavaş dönmesi; Leverrier bunun yüzyılda kırk üç saniyeye denk geldiğini bulmuştu. Einstein, formüllerine göre bu hareketin gerçekten de tam olarak buna denk gelmesi gerektiğini buldu. Böylece tek bir darbeyle astronominin en büyük bulmacalarından birini çözdü. Daha da dikkat çekici olanı, daha önce hayal edilemeyen bir fenomenle ilişkisi olması nedeniyle, Einstein'ın kütle çekiminin ışık ışınlarının seyri üzerindeki etkisine ilişkin öngörüsünün doğrulanmasıdır. Böyle bir etkinin var olması gerektiği basit bir incelemeyle öğretilir; sadece kendimizi gözlemlerimizi yapmak için hayal ettiğimiz şu karşılaştırmaya bir anlığına geri dönmemiz yeterlidir. Bölmenin 981 ivmesiyle düştüğünde, içindeki olayların
+sanki yer çekimi yokmuş gibi
+olacağı kaydedildi. O zaman
+bir nesnenin, A, açık uzayda bir yerde hareketsiz durduğunu görebiliriz. Bir mermi,
+B, yatay bir çizgi boyunca sabit bir hızla hareket edebilir,
+en ufak bir şekilde bile değişmeden.
+
+Bir ışık ışını da aynısını yapabilir; herkes her durumda,
+yer çekimi yoksa, ışığın kesinlikle doğrusal bir şekilde
+uzayacağını kabul edecektir. Işığı en ufak bir
+süreli titremeyle sınırlarsak, böylece sadece küçük bir ışık ışını, C, ortaya çıkarsa,
+ya da dikkatimizi tek bir ışık titreşimine, C, odaklarsak,
+diğer taraftan mermiye, B, ışığın hızına eşit bir hız verirsek, o zaman B ve C'nin sürekli hareketlerinde
+her zaman yan yana kalabilecekleri sonucuna varabiliriz. Şimdi tüm bunları hareketli bölmeden değil de dünyadaki bir yerden izlersek, o zaman A nesnesinin olağan düşme hareketini fark edeceğiz, bu da bize bir
+kütleçekim küresiyle uğraşmamız gerektiğini gösteriyor. B mermisi,
+eğik bir yolda, yatay düz bir çizgiden giderek daha fazla değişecek ve ışık da aynısını yapacaktır, çünkü hareketleri başka bir bakış açısından gözlemlersek, bunun B ve C'nin yan yana kalanları üzerinde hiçbir etkisi olamaz.
+
+IŞIĞIN SAPMASI
+
+Böylece tanımlanan bir ışık ışınının bükülmesi, dünyanın yüzeyinde gözlemlenemeyecek kadar hafiftir. Ancak güneşin yüzeyinde uyguladığı kütleçekim çekimi, büyük kütlesi nedeniyle,
+yirmi yedi kat daha güçlüdür ve güneşin yüzeylerine yakın geçen bir ışık ışını kesinlikle belirgin şekilde bükülmüş olmalıdır. Güneşin kenarından kısa bir mesafede görülen bir yıldızın ışınları,
+güneş boyunca ilerlerken, orijinal yönden o kadar sapacaktır ki,
+bir gözlemcinin gözüne,
+yıldızın gerçek konumundan biraz daha uzaktaki bir noktadan düz bir çizgide gelmiş gibi
+çarpacaktır. Yıldızı gördüğümüzü düşündüğümüz nokta tam da burasıdır;
+işte burada, yıldızın güneşe daha yakın gözlemlendiği ölçüde artan, güneşten görünen bir yer değiştirme vardır.
+Einstein
+teorisi, yer değiştirmenin yıldızın güneşin merkezinden görünen uzaklığıyla ters orantılı olduğunu ve
+tam kenarındaki bir yıldız için 1'.75'e (1.75 saniye) denk geleceğini öğretir.
+Bu, güneşin görünen çapının yaklaşık binde biridir.
+
+Doğal olarak, bu fenomen yalnızca güneşin tam tutulması olduğunda gözlemlenebilir; sonra komşu yıldızların fotoğrafları çekilebilir
+ve plakayı,
+güneşin o noktadan çok uzakta olduğu bir zamanda çekilmiş,
+göklerin aynı bölümünün bir resmiyle karşılaştırarak
+bir tarafa doğru aranan hareket belirgin hale gelebilir.
+
+Bu nedenle, Einstein teorisini teste tabi tutmak,
+29 Mayıs tutulmasını gözlemlemek için gönderilen İngiliz keşif gezilerinin başlıca amacıydı,
+biri Gine kıyılarındaki Prens Adası'na, diğeri ise
+Brezilya'daki Sobral'a. İlk adı geçen keşif ekibinin gözlemcileri Eddington ve Cottingham, ikincisinin gözlemcileri ise Crommelin ve Davidson'dı. Koşullar özellikle elverişliydi, çünkü fotoğraf plakasında çok sayıda parlak yıldız gösterildi; Sobral'daki gözlemciler iyi hava koşullarına sahip oldukları için özellikle şanslıydılar. Tam tutulma beş dakika sürdü, dört dakika boyunca hava tamamen açıktı, bu sayede iyi fotoğraflar çekilebildi. Sonuçlarla ilgili olarak yayınlanan raporda, yedi yıldızın yer değiştirmeleri için, yedi levhadan yapılan ölçümlerin ortalaması olan şu rakamlar verilmiştir:
+
+1''.02, 0''.92, 0''.84, 0''.58, 0''.54, 0''.36, 0''.24, oysa,
+teoriye göre, yer değiştirmeler şu şekilde olmalıydı:
+0''.88, 0''.80, 0''.75, 0''.40, 0''.52, 0''.33, 0''.20.
+
+Teoriye göre, yer değiştirmelerin
+güneşin merkezine olan uzaklıkla ters orantılı olması gerektiğini düşünürsek,
+gözlemlenen her yer değiştirmeden,
+güneşin kenarındaki bir yıldız için yanlara doğru hareketin ne kadar büyük olması gerektiğini çıkarabiliriz. Dolayısıyla, en olası sonuç olarak, 1''.98 sayısı tüm gözlemlerden birlikte bulunmuştur. Yukarıda verilen yer değiştirmelerin sonuncusu, yani 0''.24 bunun yaklaşık sekizde biri olduğundan, güneşin ışık üzerindeki çekiminin ışın üzerinde, merkezinden sekiz kat uzakta hissedildiğini söyleyebiliriz.
+
+Teoriye göre hesaplanan yer değiştirmeler, hesaplanma biçimleri nedeniyle, merkeze olan mesafeyle ters orantılıdır. Gözlemlenen sapmalar da aynı kurala uyduğuna göre, bunların kesinlikle hesaplanan yer değiştirmelerle orantılı olduğu sonucu çıkar. İlk ve son gözlemlenen yanal hareketlerin oranı 4,2'dir ve hesaplanan sayıların en uçtaki ikisinin oranı 4,4'tür.
+
+Bu sonuç önemlidir, çünkü bu sayede teori dışlanır veya en azından son derece olasılık dışı hale getirilir, kırılma olgusunun, Güneş'i büyük bir mesafeden çevreleyen bir buhar halkasına atfedilmesi. Gerçekten de, böyle bir kırılma, gözlenen yönde bir sapmaya neden olmalı ve gözlemlenen yıldızlardan birinin yer değiştirmesini sağlamak için buhar halkasının hafifçe yakın olması yeterli olmalıdır, ancak eğer sadece Güneş'in etrafında bir gaz kütlesi söz konusu olsaydı, Güneş'ten uzaklaşmaya eşlik eden azalan etkinin gerçekte olduğundan çok daha hızlı kendini göstermesini beklemek için her türlü nedenimiz var. Burada kesin bir şekilde konuşamayız, çünkü
+bir güneş atmosferindeki yoğunluk dağılımını etkileyebilecek tüm faktörler yeterince iyi bilinmiyor, ancak
+tanıdığımız gazlardan birinin yalnızca güneşin çekiminin etkisiyle dengede tutulması durumunda, fenomenin
+güneşin kenarından biraz daha uzaklaştığımızda çok daha az olması gerektiğini kesinlikle gösterebiliriz.
+1,02 saniyeye denk gelen ilk yıldızın yer değiştirmesi böyle bir gaz kütlesine atfedilecekse, o zaman
+ikinci yıldızın yer değiştirmesi zaten tamamen takdir edilemez olmalıdır.
+
+Yer değiştirmelerin mutlak kapsamı söz konusu olduğunda, yukarıda verilen rakamlarla gösterildiği gibi, biraz fazla büyük bulunmuştur; ayrıca, nihai sonuçtan,
+güneşin kenarı için 1,98 olduğu anlaşılmaktadır --yani, %13, teorik değer olan 1,75'ten daha büyüktür. Gerçekten de tutarsızlıkların gözlemlerdeki hatalara atfedilmesi mümkün görünüyor, bu varsayım, yukarıda belirtilenler kadar iyi sonuç vermediği doğru olan Prens Adası'ndaki gözlemlerin, Einstein'ın rakamından biraz daha düşük olan 1,64 sonucunu vermesi gerçeğiyle destekleniyor.
+
+(Sobral'daki ikinci bir cihazla yapılan gözlemler 0,93 sonucunu verdi, ancak gözlemciler, ışınları yansıtan aynanın kayması nedeniyle buna hiçbir değer verilmemesi gerektiği görüşünde. )
+
+ZORUNLULUK ABARTILMIŞTIR
+
+Kraliyet Cemiyeti ve Kraliyet Astronomi Cemiyeti'nin yakın zamanda Londra'da bu amaçla düzenlediği ortak bir toplantıda elde edilen sonuçların tartışılması sırasında, genel kanı
+Einstein'ın tahmininin haklı görülebileceği yönündeydi ve dehasına her taraftan sıcak övgüler yağdırıldı. Yine de, bundan bahsederken, The Times'daki habere göre yeni teorinin anlaşılmasının zorluğu hakkında bu kadar çok şikayet
+olması karşısında şaşkınlığımı dile getirmekten kendimi alamıyorum. Einstein'ın küçük kitabı "Özel ve Genel Görelilik Teorisi Hakkında Basit Terimlerle"nin savaş sırasında İngiltere'ye
+girmediği açıktır. Bence bunu okuyan herkes, teorinin temel fikirlerinin gerçekten açık ve basit olduğu sonucuna varacaktır; ancak bunları oldukça karmaşık matematiksel terimlerle
+kapsamaktan kaçınmanın imkansız olması üzücüdür, ancak bunun için endişelenmemeliyiz.
+
+Einstein'ı takip ettiğimizde, daha önce kazanılmış olan şeylerin çoğunu koruyabileceğimizi eklememe izin veriyorum. Newtoncu teori, astronominin gelişimini hayal edemeyeceğimiz ve şimdi atılmış olan ikinci adımın neredeyse imkansız olacağı ilk büyük adım olarak tam değerinde kalır. Dahası, ilk ve çoğu durumda yeterli bir yaklaşım olarak kalır. Einstein'ın teorisine göre, fenomenleri temsil etme biçimimiz konusunda bizi tamamen özgür bıraktığı için, gezegenlerin kendine özgü biçimli yollar izlediği ve ışık ışınlarının keskin bir şekilde bükülmüş çizgiler boyunca parladığı bir güneş sistemi fikri hayal edebiliriz - bükülmüş ve çarpıtılmış bir planetaryumu düşünün - ancak bunu somut sorulara uyguladığımız her durumda, gezegenlerin neredeyse tam elipsler ve ışık ışınlarının neredeyse düz çizgiler çizdiği şekilde düzenleyeceğiz. Eterden bile tamamen vazgeçmek gerekli değildir. Birçok doğa filozofu, ışığın titreşimlerinin gerçekleştiği maddi bir ara madde fikrinde tatmin bulur ve Einstein teorisine göre kütle çekiminin kendisinin anında yayılmadığını, ancak ilk tahminde ışığınkiyle karşılaştırılabilecek bir hızla yayıldığını öğrendiklerinde, böyle bir ortamı hayal etmeye çok daha meyilli olacaklardır. Özellikle eski yıllarda bu tür yorumlar yaygındı ve eterin doğası ve içinde meydana gelebilecek mutasyonlar ve hareketler hakkında spekülasyonlar yapılarak elektromanyetik olayların ve ayrıca kütle çekiminin işleyişinin açık bir sunumuna varmak için tekrarlanan girişimlerde bulunuldu. Bana göre, şu anda terk edilmiş olan bu yolun gelecekte bir kez daha iyi sonuçlarla izlenmesi imkansız değildir, çünkü bu sadece yeni deneysel testlerin düşünülmesine yol açabilir. Einstein'ın teorisi bizi bundan alıkoymamalıdır; yalnızca eter hakkındaki fikirler onunla uyumlu olmalıdır. Bununla birlikte, eter teorilerinin ve diğer modellerin verebileceği renk ve berraklık olmasa bile ve hatta, bunu bu şekilde hissedebilsek bile, sadece yokluklarının neden olduğu ayıklık nedeniyle, Einstein'ın çalışmalarının, şimdi olumlu bir şekilde, bir bilim anıtı olarak kalacağını bekleyebiliriz; teorisi, fenomenlerin seyrini kesin ilkelerden ve en küçük ayrıntılara kadar çıkarsamak olan ilk ve temel talebi tamamen yerine getirir. Kendisinin eter'i arka plana koyması kesinlikle şanslıydı; bunu yapmasaydı, muhtemelen tüm incelemelerinin temeli olan fikre asla ulaşamazdı. Yorulmak bilmez çabaları ve azmi sayesinde, çünkü girişimlerinde üstesinden gelmesi gereken büyük zorluklar vardı, Einstein, henüz gençken taslağını çizmeye çalıştığım sonuçlara ulaştı; şu anda 45 yaşında. İlk araştırmalarını İsviçre'de tamamladı,
+önce Bern'deki Patent Bürosu'nda ve daha sonra Zürih'teki Politeknik'te profesör olarak çalıştı. Prag Üniversitesi'nde kısa bir süre profesörlük yaptıktan sonra,
+Kaiser Wilhelm Enstitüsü'nün kendisine kendisini tamamen bilimsel çalışmalarına adama fırsatı verdiği
+Berlin'e yerleşti. Ülkemizi tekrar tekrar ziyaret etti ve aralarında birçok iyi arkadaşının da bulunduğu Hollandalı meslektaşlarını
+çalışmalarında ve sonuçlarında ortak yaptı.
+Kraliyet Bilimler Akademisi'nin doğa felsefesi bölümünün son toplantısına katıldı ve üyeler daha sonra onun kendi büyüleyici, açık ve basit
+üslubuyla, teorisinin ortaya çıkardığı temel sorulara ilişkin yorumlarını açıklama ayrıcalığına sahip oldu.
+
+Proje Gutenberg'in Einstein Görelilik Teorisi'nin sonu, H.A. Lorentz
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE EINSTEIN THEORY OF RELATIVITY ***
+
+***** This file should be named 11335.txt or 11335.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/1/3/3/11335/
+
+Produced by Jeroen Hellingman and the Distributed Proofreaders Team
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     https://www.gutenberg.org/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     https://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     https://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     https://www.gutenberg.org/GUTINDEX.ALL
+
+
