@@ -1,0 +1,1688 @@
+*** START OF AKTAHEADER ***
+Başlık: Optical Projection (Optik Projeksiyon)
+Yazar: Lewis Wright
+Yayın Tarihi: October 31, 2010 [EBook #33899]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/33899
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+Project Gutenberg's Optical Projection, by Lewis Wright and Russell S. Wright
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Optical Projection
+       Part 1: Projection of Lantern Slides
+
+Author: Lewis Wright
+        Russell S. Wright
+
+Release Date: October 31, 2010 [EBook #33899]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OPTICAL PROJECTION ***
+
+*** START OF TURKISH PART ***
+Chris Curnow, Keith Edkins ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu
+dosya The Internet Archive tarafından cömertçe
+sağlanan görsellerden üretilmiştir)
+
+OPTİK PROJEKSİYON
+
+Fenerin Sergi ve Bilimsel Gösterimde
+Kullanımı Üzerine Bir İnceleme
+
+LEWIS WRIGHT
+
+'LIGHT: A COURSE OF EXPERIMENTAL OPTICS'
+
+5. BASKI
+
+YENİDEN YAZILMIŞ VE GÜNCELLEŞTİRİLMİŞ
+
+RUSSELL S. WRIGHT, M.I.E.E.
+
+İKİ BÖLÜMDEN OLUŞUR
+
+BÖLÜM I
+
+_FENER SLAYTLARININ PROJEKSİYONU_
+
+_RESİMLİ_
+
+LONGMANS, GREEN VE CO.
+39 PATERNOSTER ROW, LONDRA, E.C. FOURTH AVENUE & 30TH STREET, NEW YORK
+BOMBAY, CALCUTTA VE MADRAS
+
+1920
+
+(_Tüm hakları saklıdır_)
+
+* * * * *
+
+{v}
+
+BEŞİNCİ BASKIYA ÖNSÖZ
+
+Bu eserin ilk baskısı babam merhum Bay Lewis Wright tarafından yazılmış ve 1890'da yayınlanmıştır.
+
+Aldığı tepkiler, uzun zamandır hissedilen bir ihtiyacı karşıladığının kanıtıdır ve 1895, 1901 ve 1906'da ardışık baskılar yayınlanmıştır.
+
+Babam, ne yazık ki, bir tren kazasında hayatını kaybetti 1905'te, ve
+son baskıya yapılan düzeltmeler ve eklemeler, ki bunlar bir dereceye kadar
+kendisi tarafından hazırlanmıştı, benim tarafımdan tamamlanıp yazıldı ve
+o zaman yayınlanmış olan çalışma 1911'de tekrar basıldı.
+
+Orijinal metin artık otuz yaşında olduğundan,
+tamamen yeniden yazmak, yeni revizyonlar yapmaktan daha iyi göründü, özellikle de
+son on yılda Fener Projeksiyonu biliminde ve özellikle Asetilen ve Elektrik Aydınlatması gelişmelerinde büyük ilerlemeler kaydedildiği için.
+
+Ayrıca, şu anki durumda kitabı iki bölüm halinde yayınlamak en iyisi gibi göründü, birinci bölüm yalnızca Fener Slaytlarının Projeksiyonu ile ilgiliydi ve ikinci bölüm ise Opak ve Mikroskobik Nesnelerin,
+Bilimsel Olayların ve Sinematograf Projeksiyonu dahil olmak üzere
+ekipmanların Gösterimi ile ilgiliydi.
+
+Bu ikinci cildin üretilmesi için aylar geçmesi gerekir, çünkü Optik {vi} Enstrüman Üreticileri savaştan sonra dönüp yeni modellerini üretmeye henüz vakit bulamadılar ve bu nedenle şu anda yazılmış herhangi bir kitap 1914'ten önce piyasada olan cihazları tanımlamaktan daha fazlasını yapamaz.
+
+Bu nedenle, mevcut çalışma yalnızca Optik Fenerdeki Fener Slaytları sergisiyle ilgilidir ve bu nedenle Okul Müdürleri, Sosyal Hizmet Görevlileri, Öğretim Görevlileri ve aslında feneri bir çizim aracı olarak kullanan herkes için değerli bulunacağını umuyorum.
+
+RUSSELL S. WRIGHT.
+_Ocak 1920._
+
+* * * * *
+
+{vii}
+
+İÇİNDEKİLER
+
+BÖLÜM SAYFASI
+
+I. GİRİŞ 1
+
+II. AYDINLATICI 3
+
+III. PARAFİN-YAĞ LAMBALARI, AKKAR GAZ VE İÇKİ YAKICILARI 6
+
+IV. ASETİLEN IŞIĞI 11
+
+V. KİREÇ IŞIĞI VE ASETİLEN PATLAMASI 16
+
+VI. ELEKTRİK IŞIĞI 39
+
+VII. BİR FENERİN OPTİK SİSTEMİ 57
+
+VIII. FENERİN GÖVDESİ 70
+
+IX. FENER KUTULARI, STANDLARI, OKUMA LAMBALARI, VB. 76
+
+X. EKRANLAR VE EKRAN STANDLARI 79
+
+XI. BİR FENERİN PRATİK MANİPÜLASYONU 82
+
+{viii}
+
+RESİMLER
+
+ŞEKİL SAYFA
+
+1. Yağ Lambası 6
+2. Ters Akkor Lamba 8
+3. Metillenmiş Ruh Brülörü 9
+4. Ay Lambası 10
+5. Yosun Jeneratörü 12
+6. A.L. veya 'Popüler' Model 14
+7. Asetilen Jet 15
+8. Kenevir kılıflı oksijen silindiri 17
+9. Çift kollu anahtar 18
+10. İnce ayar vanası 19
+11. Beard'ın regülatörünün yapısı 20
+12. Beard'ın regülatörü 21
+13. regülatör ve gösterge 22
+14. gaz torbaları 24
+15. 'Üfleme' nozulları 25
+16. 'Üfleme' jeti 25
+17. karışık jet 27
+18. karışık jet, Gwyer deseni 27
+19. jetin karıştırma odası 28
+20. 'Enjektör' jeti 30
+21. 'Gridiron' doyurucu 32
+22. 'Kolye' doyurucu 33
+23. Fallot hava üfleme 37
+24. Fallot hava üfleme ve silindir 37
+25. Kireç maşası 39
+26. Evrensel El Beslemeli Ark Lambası 45
+27. 46
+28. Direnç 49
+29. 'Makas' Ark Lambası 51
+30. 'Dik Açılı' Ark Lambası 52
+31. 'Westminster' Ark Lambası 53
+32. İndüksiyon Halkalı Ark Lambası 56
+33. Bir Fenerin Optik Sistemi _yüzey s._ 57
+33A. Fenerin Optik Sistemi 57
+34. Kondansatörsüz Optik Sistem 59
+35. Kondansatörün Etkisi 59
+36. Kondansatör Formları 60
+37. Çift Kayar Taşıyıcı 62
+38. Beard'ın Çözünen Taşıyıcısı 63
+39. Merceğin Odaklama Etkisi 64
+40. Akromatik Mercek 65
+41. Petzval Kombinasyonu 66
+42. Hughes'un Kısa Menzilli Feneri 71
+43. Uzun Menzilli Fener 72
+44. İkili Fener İçin Bağlantılar 73
+45. Beard'ın Dolaşımlı Su Tankı 75
+46. Dörtlü Fener Standı 78
+47. Okuma Lambası 79
+48. Silindir Ekran 80
+49. Taşınabilir Ekran Standı 81
+50. Işık 84
+
+* * * * *
+
+{1}
+
+OPTİK PROJEKSİYON
+
+OPTİK FENERİN KULLANIMI ÜZERİNE BİR İNCELEME
+
+BÖLÜM I
+
+GİRİŞ
+
+Genellikle anlaşıldığı şekliyle Fener Projeksiyonu, genel olarak iki dala ayrılabilir: (A) Fener Slaytlarının Projeksiyonu ve (B) Bilimsel Olayların, Opak Nesnelerin, Mikroskobik Numunelerin, vb. Projeksiyonu,
+genellikle genel olarak 'Bilimsel Gösterim' başlığı altında anılır.
+
+Bu iki sınıfa şimdi belki de üçüncüsü eklenebilir, yani Sözde Canlı Resimlerin Projeksiyonu, veya başka bir deyişle Sinematograf. Bu eserin daha önceki baskılarında hem A hem de B aynı ciltte ele alınmıştı, ancak yalnızca fener slaytlarının gösterimi için bir fener kullanması gereken ve Bilim Projeksiyonu ile hiçbir ilgisi veya kaygısı olmayan binlerce kişi olduğu için, yazara göre eser, yalnızca slaytlarla ilgilenen Cilt I ve bilim fenerinin çeşitli uyarlamalarıyla ilgilenen Cilt II olmak üzere iki bölüme ayrılabilir. Bu nedenle bu kitap yalnızca fener slaytlarının sergilenmesiyle ilgilidir ve bu nedenle, din adamları, okul müdürleri, ordu ve öğrenci subayları ve bir fenerin satın alınması veya kullanımı konusunda tavsiye ve talimata ihtiyaç duyan diğer kişiler de dahil olmak üzere optik fenerin sıradan kullanıcılarına gerçek bir yardım sağlayacağına inanıyorum. Bir fenerin temel parçaları şunlardır: (_a_) Slaytı tutmak için bir slayt tutucu veya taşıyıcı; (_b_) Ekranda 'odaklamak' için bir mercek; (_c_) Slayt ve mercek üzerinde ışığı birleştirmek için bir kondansatör; (_d_) Gerekli aydınlatmayı sağlamak için bir ışık veya _ışıldayan_ kaynak; ve (_e_) Bütünü bir arada tutmak için bir gövde veya çerçeve. Uygun bir
+fener seçimindeki tüm olası varyasyonlar yukarıdaki parçalardan biriyle veya diğeriyle ilgilidir ve sırayla ele alınacaktır; Ancak, neyse ki, her sıradan İngiliz fener slaydının aynı _standart boyutta_, yani 3-1/4 inç kare olduğu gibi çok önemli bir basitleştirmemiz var. Bazı Kıta ve Amerikan slaytları yukarıdakilerden bir boyutta farklılık gösterir, ancak ciddi bir
+zorluğa neden olacak kadar değil ve kullanışlı İngiliz standardı tüm dünyada kademeli olarak benimseniyor.
+
+Bu nedenle slayt tutucu veya taşıyıcı çeşitleri nispeten azdır
+ve esas olarak slaytları hızlı ve kolay bir şekilde değiştirme sorusuyla ilgilidir. Odaklama merceği veya objektif seçimi esas olarak gereken resmin boyutu ve fenerin yerleştirileceği ekrandan en uygun
+uzaklık meselesidir. Nispeten küçük olan kondansatörlerdeki varyasyonlar genellikle yalnızca bunların kullanılacak objektifin boyutu veya türüyle uyumlu hale getirilmesi meselesidir ve üreticinin takdirine bırakılmalıdır. Uygun bir radyant sorusu kısmen gerekli aydınlatma miktarıyla, kısmen de pratik olasılıklarla ilgilidir; örneğin, elektrik akımı mevcutsa, bir tür elektrik ışığı genellikle en uygun ve en ucuz olanıdır, ancak durum böyle olmadığında, parafin yağı, metillenmiş ispirto, akkor gaz, asetilen, spot ışığı vb. hepsi kendi kullanım alanlarına sahip ve kendi değerlerine göre değerlendirilmesi gereken alternatiflerdir.
+
+Bazen, örneğin seyahat eden bir öğretim görevlisinin durumunda olduğu gibi, farklı boyutlardaki {3} salonlar için bir dizi mercek ve ayrıca çeşitli aydınlatıcılarla donatılmış bir fener gerekir ve bu, çoğu fenerde kolayca sağlanabilir.
+
+Gövde genellikle sadece zevk ve fiyat meselesidir ve basit ama etkili bir Rus demir gövdesinden pirinç önlü, vidalı eğme düzenlemeleri ve diğer süslemelere sahip ayrıntılı bir maun enstrümana kadar değişebilir; ancak son yıllarda gereksiz
+sonradan
+sonraya karşı sağlıklı bir tepki oluştu ve bir şekilde basit bir metal gövde artık
+gündemin başlıca konusu. Önceki açıklamalarda bir fenerin çeşitli parçaları
+slayt ve slayt tutucusundan başlayarak ve tabiri caizse aletin geri kalanını bu parçaların etrafında inşa ederek doğru sırayı düşünmem gereken şekilde
+bahsedildi; ancak şimdi prosedürü biraz değiştirmeyi ve kolaylık olması açısından önce
+Işıldayan veya _Aydınlatıcı_ ile ayrıntılı olarak ilgilenmeyi öneriyorum.
+
+* * * * *
+
+BÖLÜM II
+
+AYDINLATICI
+
+Fener projeksiyonu için ilk gereklilik güçlü bir ışıktır ve bu çeşitli kaynaklardan elde edilebilir, yaygın olarak kullanılan başlıca araçlar mükemmellik sırasına göre yaklaşık olarak şu şekildedir: parafin yağı,
+akkor ispirto, akkor gaz, asetilen, asetilen hava üflemesi,
+oksihidrojen (kireç ışığı), oksieter ve çeşitli biçimlerde elektrik ışığı.
+Aranması gereken ideal özellikler şunlardır: (1) büyük içsel
+parlaklık; (2) minimum _boyut_ ışık noktası; (3) titreşimden uzaklık;
+(4) kokudan uzaklık; (5) baskın bir rengin olmaması; (6)
+ucuzluk; ve (7) kolaylık. Mevcut ışık kaynaklarından hangisinin yukarıdakilerin hepsini en mükemmel şekilde birleştirdiği konusunda hiçbir soru yoktur, yani. elektrik arkı. Binada bir akım kaynağı varsa, bu aydınlatma biçimi diğerlerinin hepsinden kolayca üstündür, ancak titreme konusunda
+muhtemelen çok az kusur vardır ve bu konuda bile çok az kusur vardır.
+
+Diğer tüm bakış açılarından bakıldığında, neredeyse mükemmeldir, çünkü
+son derece yoğun ve yoğun ışıklı bir nokta, neredeyse mükemmel beyazlıkta (eğer biraz mavimsiyse), kokusuz, nispeten az ısı, kullanışlı ve ucuzdur. Elektrik arkının avantajı o kadar büyüktür ki, akım kaynağının olmadığı yerlerde akümülatörlerden kullanılması için girişimlerde bulunulmuştur, ancak bu özel durumlar dışında
+ciddi olarak tavsiye edilemez. Ancak bir elektrik kaynağı varsa, fenerin büyük bir salonda mı yoksa küçük bir sınıfta mı kullanılması gerektiği konusunda gerçek bir seçim
+olamaz. Arkı kullanmanın avantajları o kadar büyüktür ki başka hiçbir yöntemin ciddi olarak
+değerlendirilmesine gerek yoktur.
+
+Duyduğum tek gerçek itiraz, ilginç bir şekilde, onun mükemmelliğinden kaynaklanıyor ve bu da, slayttaki en ufak bir kusurun ekranda çok sadık bir şekilde yeniden üretildiği aşırı keskin bir tanımlamaya olanak vermesidir; bu nedenle bazen operatörün odaktan en az
+keskinlikte çalışması önerilir; ancak bu kişisel zevk ve yargı meselesidir.
+
+Ancak, elektrik akımını kullanma olasılığı yoksa, diğer aydınlatma kaynaklarından biri zorunlu olarak benimsenmelidir ve büyük bir salon için bu, ancak birçok biçiminden biriyle, yani oksihidrojen, oksieter, oksiasetilen vb. ile spot ışığı olabilir. Ekrandaki sonuçlara gelince, bu ışık elektrik arkıyla bile iyi karşılaştırılabilir, ancak sıkıştırılmış gaz silindirlerinin masrafını ve sıkıntısını veya artık kullanılmayan gaz torbalarını doldurma yöntemine sonsuz derecede daha kötü bir şekilde başvurmayı gerektirir.
+
+Bu nedenle, büyük salonların çoğunluğu elektrik akımıyla donatılmış olduğundan ve daha küçük binalar için gereksiz ve çok pahalı görüldüğünden, bu ülkede artık pek fazla ışık kullanılmamaktadır.
+
+ASETİLEN, şüphesiz elektrik ışığının yanında en çok tercih edilen aydınlatıcıdır, çünkü ışık, ekrandan 30 feet'e kadar bir mesafeden 12 feet çapındaki bir resmi aydınlatmaya yetecek kadar parlaktır ve bu, vakaların büyük çoğunluğunda yeterlidir ve asetilen nispeten ucuzdur ve çalışması oldukça basittir.
+
+AKOR GAZI genellikle küçük sınıflar için kullanılır ve çapı 9 veya 10 feet'i aşmayan bir resim için oldukça etkilidir ve aynı şey metillenmiş ispirtoyla ısıtılan aynı tip brülör için de söylenebilir.
+
+PARAFİN YAĞI, günümüzdeki tüm fener aydınlatıcılarının en zayıfıdır. Alev büyüktür, tanımı bozar, sarı renktedir, aydınlatmada düzensizdir, duman ve kokuya meyillidir ve aydınlatma gücünde akkor gaza neredeyse eşittir.
+
+Bu nedenle bu ülkede giderek kullanımdan kalkmaktadır, ancak özellikle yurtdışında, ücra yerlerde bazen tek uygulanabilir ışıktır ve bu nedenle en iyi nedenlerden biri olan zorunluluktan dolayı hala kullanılmaktadır.
+
+Yazarın amacı, farklı firmalar tarafından üretilen yukarıdaki aydınlatıcıların tüm çeşitleri için kesin çalışma talimatları vermek değildir.
+Bu tür aydınlatmalar için okuyucu genellikle üreticilerin kendileri tarafından verilen talimatlara yönlendirilmelidir, ancak seçim için sunulan çeşitli türlerin genel bir açıklaması yersiz olmayacaktır ve en zayıf olanla, yani parafin yağıyla başlamak ve en mükemmel olanla, elektrik arkıyla bitirmek daha uygun olacaktır.
+
+* * * * *
+
+{6}
+
+BÖLÜM III
+
+PARAFİN-YAĞ LAMBALARI, AKKAR GAZ VE İÇKİ YAKICILARI
+
+[Resim: ŞEKİL 1.--Yağ Lambası. ]
+
+Piyasada çeşitli yağ lambaları çeşidi vardır, ancak hemen hemen her durumda aynı genel biçimi alırlar, fener gövdesindeki oluklarda kayan ve yaklaşık bir pint yağ tutan metal bir hazne, (genellikle) dört fitil _neredeyse_ paraleldir, ancak arkadan öne doğru hafifçe birleşir, bunlar Rus demirinden bir alev odasının içine yerleştirilmiştir, gevşek_
+iyi tavlanmış levha cam uçları ve arkada ayarlanabilir bir reflektör vardır,
+veya bazen reflektör alev odasının arka ucunu oluşturur.
+Baca uzun olmalı ve artık genellikle ayarlanabilir hale getiriliyor, ancak bu komplikasyondan gerçek bir avantaj elde
+edemedim {7}
+(Şekil 1). Bu lambalardan en iyi sonuçları elde etmenin tüm sırrı şu şekilde özetlenebilir: _iyi yağ ve mükemmel temizlik_; ve bu noktalara uygun şekilde dikkat edildiğinde neler yapılabileceği harikadır.
+
+Fitilleri keserken, fitil tutucuların arasına kömürleşmiş parçaların düşmemesine dikkat edilmelidir, ancak kesmenin makasla mı yoksa parmakla ovalayarak mı yapıldığı pek fark etmez. Tüm üreticiler, kesilen kısımları yakalamak için bir tarafında büyük bir düzlük bulunan özel lamba makasları satarlar. Bu lambalar, kullanımdan önce son şeyin üzerine iyice sürülmelidir, çünkü parafin yağı 'sürünmeye' meyillidir ve operatör, cihazının kızarmış balık dükkanını andırdığının söylenmesini istemez. Bu lambalarla çalışırken, iki orta fitil arasındaki boşluğu temsil eden, çarşafın ortasında koyu bir çizgi oluşmasını önlemek zordur; bu, reflektör ayarlanarak bir dereceye kadar önlenebilir ve her durumda, slayt yerindeyken çok belirgin değildir. Üç veya beş fitilli lambalar bu açıdan daha iyidir, ancak ilki genellikle aydınlatma gücü açısından çok zayıf kabul edilir ve ikincisi aşırı ısı nedeniyle levha cam uçlarını çatlatmaya meyillidir.
+
+AKOR GAZI.--Akkor gaz brülörleri, genel olarak ev aydınlatmasında kullanılanlara benzer oldukları için fazla açıklamaya ihtiyaç duymazlar.
+Dik veya ters formda olabilirler, ikincisi ışığın daha yoğun olması nedeniyle tercih edilir ve aydınlatmayı artırmak için bir reflektör sağlanır (Şekil 2).
+
+Bu reflektörler _küresel_ olmalı ve radyantın eğriliğin merkezinde olacak şekilde ayarlanmalıdır, böylece reflektörden gelen ışığın tekrar orijinal kaynaktan geçmesi sağlanır. Bu nokta dikkate alınmazsa, tanımın zararına olacak şekilde, esasen bir yerine iki ışık kaynağıyla uğraşmış oluruz.
+
+Aynı açıklama, bir reflektörle desteklenen her fener aydınlatıcısı {8} için geçerlidir ve üretici tarafından ne kadar sıklıkla ihmal edildiği olağanüstüdür. Elbette aydınlatıcının opaklığı, reflektörün verimliliğinin çoğunu yok eder ve bu nedenle akkor gaz mantoları durumunda bunları kullanmanın pek gerçek bir kazancı yoktur, ancak bu nispeten zayıf aydınlatıcılarda her kesir önemlidir ve reflektör maliyete çok fazla katkıda bulunmaz.
+
+[Resim: ŞEKİL 2.--Ters Akkor Lamba.]
+
+Işıkta ters gaz brülörü yağdan çok az üstündür, ancak daha beyazdır, biraz daha yoğun ve kokusuzdur ve bu nedenle gaz tedariki mevcutsa tercih edilebilir olarak kabul edilir.
+
+METİLE EDİLMİŞ İÇKİ YAKICILARI.--Metile edilmiş ispirto ile ısıtılan akkor mantolar da büyük ölçüde kullanılır ve gazdan kesinlikle daha üstün ve asetilene neredeyse eşit bir ışık sağlar. İspirtonun buharlaştırılması ve buharın basınç altında dışarı atılması için bazı düzenlemeler yapılmalıdır ve en yaygın düzenek Şekil 3'te gösterildiği gibidir.
+
+Bu cihazda ispirto arkada metal bir haznede tutulur
+ve hava basıncı tıbbi bir sprey gibi bir çift kauçuk top ve valf tarafından sağlanır. Yeterli {9} basınç elde edildikten sonra,
+sıvı ruh, manto arkasındaki bir buharlaştırma odasına
+zorlanır ve uçları asbest yününe sarılmış bir tür minyatür dirgen
+ruha batırılır ve brülörün pirinç bağlantı parçasının üzerine, yakıldığında alevin odayı ısıtması ve
+ruhu uçurması için itilir. Brülör artık yakılabilir ve çatal bir dakika veya daha kısa bir sürede
+yansa da, mantodan gelen ısı daha sonra ruhu gerektiği kadar hızlı bir şekilde buharlaştırmak için yeterlidir.
+Bu lamba pratikte son derece iyi çalışır, ancak bir dezavantajı vardır, yani.
+çok fazla basınç elde etmek ve brülörden _sıvı_ ruh
+fışkırtmak mümkündür, doğal olarak alev aldığında ve hatta yere
+akışabilir.
+
+[Resim: ŞEK. 3.--Metile Edilmiş Ruh Yakıcı.]
+
+Bu tür bir kaza nadirdir ve meydana gelse bile genellikle zararsızdır, ancak bir izleyici kolayca korkar ve bu nedenle bu brülör yalnızca _deneyimli bir operatör_ tarafından kullanılmalıdır. Tamamen daha iyi bir düzenleme, Kingsland'lı Baylar Hughes tarafından yapılan ve 'Luna' Lambası olarak bilinen düzenlemedir (Şekil 4).
+
+Bu brülörde pompa ve buharlaştırma odası yoktur; {10} ruh daha önce olduğu gibi metal bir haznede tutulur ve altındaki ayrı bir brülör ruhu buharlaştırmak ve gerekli basıncı sağlamak için yeterince sıcak tutar. Isı, brülöre takılan ayarlanabilir bir kılıf vasıtasıyla düzenlenebilir ve basit bir emniyet valfi aşırı buhara karşı koruma sağlar.
+
+Daha önce bahsedilen türden bir kazanın bu brülörle bile imkansız olduğunu söylemiyorum, ancak bunun olduğunu hiç duymadım ve lamba kesinlikle tanıdığım türünün en iyi cihazı.
+
+[Resim: ŞEKİL 4.--Luna Lambası.]
+
+AKKOR ELEKTRİKLİ LAMBALAR.--Sıradan metal veya karbon filamentli akkor elektrik lambaları da küçük sınıflarda sıklıkla kullanılır ve burada bahsedilmelidir, çünkü bir gaz mantosuyla yaklaşık olarak aynı aydınlatmayı veya bazı durumlarda daha iyi aydınlatmayı sağlarlar.
+Ancak, elektrik aydınlatmasının bir bütün olarak ele alınması, buna ayrılmış bölümde daha uygun olacaktır.
+
+Burada lambaların, yoğun bir ışık sağlamak üzere düzenlenmiş özel bir filamentle yapıldığını, sıradan tipin bu açıdan neredeyse işe yaramadığını ve uygun bir akümülatörle çalıştırılan küçük pil lambalarının da kullanılabileceğini, ancak çok özel koşullar dışında pilleri şarjlı tutmanın zahmetine değmediğini söylemek yeterli olacaktır.
+
+* * * * *
+
+{11}
+
+BÖLÜM IV
+
+ASETİLEN
+
+Şüphesiz ki asetilen, optik fener çalışmaları için popülerlikte şu anda elektrik ışığının ardından ikinci sırada yer almaktadır. Işık iyidir; doğru, spot ışığı veya elektrik arkı kadar iyi değildir, ancak yine de ekrandan 30 feet'ten fazla olmayan bir çalışma mesafesinde 12 feet çapa kadar bir resim için yeterlidir ve bu, salonların büyük çoğunluğu için yeterlidir.
+
+Işıklandırmaya göre kolaylık ve ucuzluk açısından büyük avantajları vardır,
+ancak bu iki noktada da elektrik arkına yer vermesi gerekir,
+her zaman akım mevcut olduğu sürece ve bu nedenle esas olarak kırsal bölgelerde ve büyük şehirlerdeki gazla aydınlatılan salonlarda kullanılır.
+
+Asetilen gazı, iyi bilindiği gibi, suyun kalsiyum karbürü üzerindeki etkisiyle oluşur ve fener çalışması için inşa edilen jeneratörler, diğer amaçlar için inşa edilen jeneratörlerle esasen aynıdır.
+
+Yapılan değişiklikler, esas olarak nispeten küçük bir jeneratörden mümkün olduğunca _sabit_ bir ışık elde etmeye ve
+ikinci olarak, örneğin bir motorlu araçtan çok daha ciddi olan bir ders salonundaki kokunun tamamen ortadan kaldırılmasına yöneliktir.
+En yaygın kullanılan jeneratörler iki sınıfa ayrılabilir, yani Bunlar
+gazometre prensibine göre karbürün yavaş yavaş suya indirildiği ve suyun karbüre yavaşça erişmesine izin verilenlerdir. İlkine iyi bir örnek belki de Birmingham'dan Baylar Moss tarafından yapılanıdır, ancak aynı derecede iyi ve açık ve belirgin çalışma talimatları üreticiler tarafından sağlanmalıdır. Moss Jeneratörü (Şekil 5), altta bir gaz musluğu bulunan uzun bir demir kap A'dan oluşur, bu musluğun kap içindeki dikey bir demir boruyla iletişim kurması {12} sağlanır. Bu kabın içine, birbirinden tamamen ayrılmış iki eşmerkezli parçaya bölünmüş, ancak P P borusu ve T musluğuyla birbirine bağlı olan iç çan veya kap B yerleştirilir. Çanın içindeki bir kılavuz, dış tanktaki demir boruyu çevreler ve
+dönmeyi önler. İç kısma tekrar karbür kabı yerleştirilir (solda ayrı olarak gösterilmiştir), yerine oturduğunda yarım tur döndürülerek kilitlenir, çanın içindeki bir kanca karbür kabının alt kenarıyla birleşerek düşmesini önler.
+
+Karbür kabı bir dizi rafla donatılmıştır ve 2 lb'lik bir karbür kutusunun içeriği kabaca bunlar arasında bölünmelidir; herhangi bir kesin
+bölüm
+yapmaya gerek yoktur. Kullanılan karbür, 1/2 inçlik gözenek olarak bilinen ve _saf_ olmalıdır. 'Kimyasal olarak'
+işlenmiş olarak tanımlanan, bu gazometrelerde aşırı üretim yoluyla sorun çıkarmaya meyillidir ve titizlikle
+önlenmelidir.
+
+[Resim: ŞEK. 5.--Yosun Jeneratörü.]
+
+Karbür haznelere yerleştirildikten sonra, bunlar gevşek kapak vasıtasıyla kapatılmalı ve tamamı çanın içine itilerek sabitlenmelidir.
+
+Su, demir borudaki bir işarete kadar dış kaba dökülmeli ve
+zil yerine yerleştirilmelidir. Daha sonra alt musluk açılıp
+üst musluk kapatıldığında, çanın dış kısmından gelen hava, demir boru ve alt musluk vasıtasıyla yavaş yavaş kaçabilir ve çan, dibe inene kadar kendi ağırlığıyla yavaş yavaş
+batar, ancak yine de {13} su
+karbüre ulaşamaz, hava çanın iç kısmında hapsedilir ve
+etkili bir şekilde onu dışlar.
+
+Alt musluk şimdi, kauçuk veya esnek
+metalik borular vasıtasıyla fenerdeki brülöre (daha sonra daha fazla bilgi verilecek) bağlanmalı ve jeneratördeki
+üst musluk açılmalı, brülördeki musluk veya musluklar da aynı şekilde
+açılmalıdır. Çanın iç kısmından gelen hava artık P P borusundan dış kısma ve oradan da demir borudan ve
+boru ve jetten dışarı kaçabilir ve bunu yaparken su içeride yükselecek ve karbüre saldıracaktır.
+
+Birkaç dakika içinde brülör yakılabilir; ancak, gereksinimden çok daha fazla üretilen ve çanın hem iç hem de dış kısımlarını kaçabileceğinden daha hızlı dolduran gaz, karbür tamamen sudan çıkana kadar çanı yukarı kaldırır, birkaç dakika içinde üretim durur.
+
+Jet yanmaya devam ederse, gaz tükendikçe çan yavaş yavaş tekrar batar ve bundan sonra dikkatsizce otomatik bir dengeyi korur.
+
+Çan, karbürü sudan çıkarmak için yeterince yükseldiğinde, jetteki muslukları veya daha iyisi, jeneratördeki alt musluğu kapatarak herhangi bir anda kapatılabilir; ancak jeneratörün uzun bir süre yanmadan bırakılması gerekiyorsa, önce üstteki musluğu kapatmak daha iyidir. Bu, çanın iç kısmının kaçamayan gazla dolmasına neden olur ve dış kısımdaki yandıkça, çan dibe çöker ve orada kalır, gazın kendisi karbürden suyu dışarıda bırakarak iç bölmede hapsedilir. Kesin düzenleme, jeneratörün farklı modellerinde değişir, ancak yukarıdakiler eylemi kabaca belirtmek için alınabilir ve daha fazla bilgi her zaman üreticiden veya satıcıdan alınabilir. _Boşaltma_ her zaman açık havada yapılmalıdır, çünkü asetilen gazının kokusu en rahatsız edici olanıdır ve aynı nedenle kauçuk borular vb. ,
+güvenli bir şekilde bağlanmalıdır, böylece en ufak bir kaçış önlenebilir.
+{14}
+
+Eğer sergi kısa sürdüyse, genellikle
+üst hücrelerin sudan etkilenmediği görülecektir, bu durumda
+teneke geri koyulup tekrar kullanılabilirler, ancak başlangıçta tam şarjdan daha azını koymak genellikle tavsiye edilmez, çünkü karbürün ağırlığı cihazın düzgün çalışmasını sağlamada kesin bir rol oynar.
+Çamur atılmalıdır (bahçe için iyi bir gübre oluşturur) ve
+tüm jeneratör iyice kurutulmalıdır, aksi takdirde paslanma hızla ortaya çıkar.
+
+[Resim: ŞEKİL 6.--A.L. veya 'Popüler' Model.]
+
+Teorik olarak bu jeneratörlerden biri doldurulup süresiz olarak bırakılabilir, ancak pratikte tavsiye edilmez, çünkü
+atmosferdeki nem çok yavaş bir gaz üretimine neden olur, bu da genellikle belirgin bir kokuya neden olur.
+
+Karbüre su alarak hareket eden jeneratörler arasında belki de en iyi bilineni A.L. veya 'Popüler' Model'dir (Şekil 6), bu aslında motorlu araç farları için tasarlanmış bir modeldir, ancak fener çalışmaları için iyi bir çözümdür.
+
+Tam çalışmasının burada ayrıntılı olarak açıklanmasına gerek yoktur. Suyun karbüre iki eşmerkezli bakır koni arasından 'sürünerek' ulaştığını ve aşırı üretim durumunda gazın basıncının akışı otomatik olarak kontrol ettiğini söylemek yeterli olacaktır.
+
+Bu jeneratör gazometre modelinden daha küçüktür ve bu nedenle taşınabilirlik için
+önerilebilir; ancak benim deneyimime göre ışık o kadar sabit değildir ve kontrol daha az hassastır, bu nedenle özellikle uzun süre bekletildiğinde bazen algılanabilir bir kokuya neden olur.
+
+'Su {15} damlatma'
+çeşidi gibi başka jeneratör tipleri de vardır, bu türde su karbüre damlar ve tersi, ince taneli karbür bir seferde azar azar suya düşer; ancak
+bu tiplerle çok sık karşılaşılmaz ve bunların açıklanmasına gerek yoktur.
+
+Asetilenin patlayıcı bir gaz olduğu ve buna göre ele alınması gerektiği asla unutulmamalıdır. Bir sızıntıyı yanan bir kibritle aramak, operatör işini bildiğinde belki de izin verilebilir olsa da, tam tersi durumda tehlikeli bir işlem olabilir.
+
+[Resim: ŞEKİL 7.--Asetilen Jeti.]
+
+Asetilen brülörleri genellikle 'Batswing' tipindedir ve kural olarak dört adettir, arkalarında bir reflektör olacak şekilde bir sıra halinde monte edilir, her brülör kendi musluğuyla ayrı ayrı kontrol edilir (Şek. 7). Bir asetilen alevi çok dumanlıdır ve brülörlerin çok fazla açılmamasına dikkat edilmelidir. Kısa bir sapta ince bir telden oluşan bir meme ucu temizleyicisi genellikle herhangi bir satıcıdan temin edilebilir ve çok kullanışlıdır.
+
+Asetilen gazı ayrıca fener aydınlatması için tamamen farklı bir şekilde de kullanılabilir, yani bir üfleme borusundan hava veya oksijenle birlikte, bu amaç için sağlanan özel bir 'Pastille'e püskürtülerek veya sıradan bir kireç ışığı jeti kullanılabilir. Bu yöntemler asetilenin _basınç altında_ kullanılmasını gerektirir ve kireç ışığına o kadar benzerdir ki, kolaylık olması açısından bu aydınlatıcıya ayrılmış bölümde bunlarla ilgileneceğim.
+
+* * * * *
+
+{16}
+
+BÖLÜM V
+
+KİREÇ IŞIĞI VE ASETİLEN PATLAMASI
+
+Bu ışıkla mümkün olan aydınlatma neredeyse sınırsızdır ve daha önce belirtildiği gibi gerçekten büyük salonlar için elektrik arkının _tek_ ikamesidir. Esas olarak oksihidrojen, oksieter, oksispirit, oksi-asetilen vb. veya asetilen hava
+patlamasından oluşan bir üfleme borusu alevinden oluşur, bir kireç bloğunu veya diğer refrakter
+malzemeyi akkor hale gelene kadar ısıtır ve temel özellik bu gazlardan en az birinin _basınç_ altında olmasıdır. Otuz yıl önce bu genellikle gazı kauçuk torbalarda depolayarak ve ağır ağırlıklar vasıtasıyla gerekli basıncı elde ederek elde edilirdi; ancak çok az sayıdaki dış bölge dışında bu yöntem artık tamamen sıkıştırılmış gaz
+silindirlerinin kullanımıyla yer değiştirmiştir. Bu çalışmanın önceki baskıları, torbalarda depolama için gaz üretimine yönelik çok ayrıntılı talimatlar içeriyordu, ancak bu yöntemi kullanan bir operatör bulmak artık o kadar istisnai ki, buna fazla yer ayırmaya gerek kalmıyor ve aynı şey otomatik oksijen 'jeneratörleri' için de söylenebilir. Bu nedenle, mevcut çalışma esas olarak sıkıştırılmış gaz silindirleriyle ilgilenecektir.
+
+Ticaret Kurulu, bunların mutlak güvenliğini sağlamak için artık en ayrıntılı önlemleri uyguluyor ve yıllar önce meydana gelen kazalardan kaynaklanan herhangi bir şüphe derhal giderilebilir. İnsani açıdan bakıldığında, günümüzde bir kaza, üreticinin veya doldurucunun kasıtlı ihmali dışında, suçluyu neredeyse cezai kovuşturmaya tabi tutacak şekilde _olamaz_.
+
+Sıkıştırılmış gaz silindirleri, oksijen siyah, kömür gazı veya hidrojen kırmızısı gibi belirgin bir renge boyanır; pompalara ve tüm nozul {17} ve regülatör bağlantı parçalarına vida bağlantıları tamamen farklı bir vidayla yapılır ve bu nedenle değiştirilemez; silindirlerin kendileri düzenli aralıklarla hidrolik basınç altında yeniden tavlanmalı ve yeniden test edilmelidir; çeliğin kendisi garantili bir
+kalitede olmalıdır; ve aslında olası her riske karşı korunmalıdır.
+
+Fener sergileri için tedarik edilen en yaygın silindir boyutları
+6, 12, 20 veya 40 kübik feet içerenlerdir ve genellikle
+tahta veya kenevir kutularda gönderilir.
+
+[Resim: ŞEKİL 8.--Kenevir kılıflı Oksijen Silindiri.]
+
+Şek. 8, kenevir kutusunda 12 fitlik bir silindiri göstermektedir, kutu hariç yaklaşık boyutu 22 inç x 4 inçtir. Bu boyuttaki silindir, iki saatten biraz fazla bir süre boyunca ortalama bir ışık jeti sağlayacaktır. Sinematograf çalışması veya çok büyük bir ekranı aydınlatmak için kullanılan ekstra güçlü jetler çok daha fazla zaman alır, ancak sıradan fener amaçları için sağlanan olağan cihazlar için bu oldukça güvenli bir rakamdır.
+
+Bu nedenle 12 fitlik bir silindir, bir saatten bir buçuk saate kadar süren bir fener sergisi için en çok tercih edilen boyuttur, çünkü aleti ayarlamak için kullanılan gaz için makul bir marj bırakır ve 20 fitlik bir silindir genellikle _iki_ sergi için yeterli olur.
+
+Gazın kübik fit başına fiyatı, silindirin boyutuna göre değişir, büyük silindirler için küçük olanlardan daha azdır ve taşıma maliyeti de orantılı olarak daha azdır - bu nedenle büyük bir silindiri kiralayıp birkaç sergi için tutmak genellikle ekonomiktir. Öte yandan çoğu tedarikçi, bir silindir belirli bir süreden fazla tutulursa küçük bir kira talep eder, bu nedenle bu her kullanıcının kendi değerlerine göre karar vermesi gereken bir sorudur.
+
+Alternatif olarak, elbette, silindirler _satın alınabilir_ ve kira sorunu o zaman gündeme gelmez; ayrıca gaz, bir müşterinin kendi silindirinde kiralandığından biraz daha ucuza tedarik edilir. Satın almaya karar verilirse, genellikle _iki_ veya kömür gazı silindirleri de gerekiyorsa her gazdan iki tane satın almak ekonomiktir.
+
+[Resim: ŞEKİL 9.--Çift Kol Anahtarı.]
+
+Silindirlerin tüm içeriği daha sonra israf olmadan kullanılabilir, çünkü
+bir silindir bir ders sırasında tükenirse,
+yedek olana geçmek sadece bir veya iki dakika meselesidir, oysa
+kompresörler yasa gereği yeniden doldurulmak üzere kendilerine iade edilen her silindiri boşaltmak zorundadır ve kalan gaz da böylece israf edilir.
+
+En azından söylemek gerekirse, bir silindirde 8 fit gaz kaldığını gösteren basınç göstergesini bulmak ve bunu boşa harcamak veya bir sonraki sergi için yetersiz kalma riskini göze almak zorunda kalmak son derece cezbedicidir ve kayıptan kaçınmanın tek yolu, yedek silindirlerdir.
+
+Silindirler 120 atmosfer veya inç kare başına 1800 lb. basınca kadar doldurulur ve güçlü vida nozullarıyla kapatılır. Bunları açmak veya kapatmak için kullanılan anahtarlar üç tiptir: 'T' deseni, 'Anahtar' deseni ve 'Çift Kol' tipi olarak bilinen. İkincisi, valfi kapatırken uzunluğunun yarısına kadar kapanacak ve {19} dışarı açılarak silindiri _açmak_ için kullanıldığında kaldıracı iki katına çıkaracak şekilde yapılmıştır (Şekil 9). Buradaki fikir, bilinen bir şekilde, silindir valfinin güçlü bir bilek tarafından aşağı vidalanması ve umutsuz fenercinin onu açma çabalarına meydan okuması olasılığını önlemektir.
+
+[Resim: Şekil 10.--İnce Ayar Valfi.]
+
+Silindir nozulları ne yazık ki henüz standartlaştırılmadı, ancak bu ülkede en sık karşılaşılanlar, British Oxygen Company tarafından benimsenenlerdir, hem oksijen hem de kömür gazı silindirleri, oksijen için olanlar _sağ elli_ ve kömür gazı için olanlar _sol elli_ olmak üzere 7/8 inç çapında karşılık gelen dahili vidalarla donatılmıştır ve her iki durumda da altta içi boş bir metal koni ile sonlandırılmıştır.
+
+Böyle bir iç vidanın bir kauçuk boru parçasına bağlanamayacağı aşikar olduğundan, bir tür vida bağlantısı kullanılmalıdır ve bu üç formdan birini alabilir: (1) Basit bir bağlantı memesi, (2) ince ayar vanası veya (3) bir regülatör. Birincisi, pratikte fener çalışması için nadiren kullanılır, çünkü dolu bir silindirin (120 atmosfer) doğrudan basıncı, jet üzerindeki bir muslukla kontrol edilemez veya denetlenemez, çünkü araya giren kauçuk boru patlar veya patlar ve bu nedenle silindir nozulunun kendisinde düzenlenmeli ve basınç azaldıkça kademeli olarak yeniden ayarlanmalıdır. Bu düzenlemeyi sıradan silindir anahtarıyla başarmak zordur, ancak dikkatli bir operatör için mümkündür, ancak biraz daha fazla masrafla birleştirilmiş bir nozul ve _ince ayar vanası_ (Şekil 10) elde edilebilir ve bununla düzenleme {20} sonsuz derecede daha kolaydır. Ancak en iyi plan, sadece jet musluklarında gerekli ayarlamaların yapılmasına izin verecek şekilde basıncı azaltmakla kalmayıp aynı zamanda silindir boşaldıkça pratik olarak sabit bir tedarik sağlayan ve böylece sürekli yeniden ayarlamaları önleyen otomatik bir regülatör kullanmaktır. Regülatörler artık o kadar ucuz ki neredeyse evrensel olarak kullanılmaya başlandı ve genellikle bir spot ışığı feneri ekipmanının vazgeçilmez bir parçası olarak kabul ediliyorlar. En yaygın kullanılan regülatör biçimi genellikle 'Beard's' olarak bilinir ve başlangıçta Baylar R. Beard & Sons tarafından tasarlanıp patentlenmiştir, ancak patent artık sona erdiğinden herhangi bir firmanın arzu ederse aynı ürünü üretmesi mümkündür. 
+[Resim: ŞEK. 11.--Beard Regülatörünün Yapısı.]
+
+Beard Regülatörünün yapısı Şekil 11'de gösterilmiştir. Gaz, aşağıdan bir kauçuk torbaya, C, girer ve buradan nozuldan dışarı çıkabilir.
+
+Herhangi bir gaz birikimi, körükleri aşağı bastıran bir spiral yayın basıncına karşı yükseltir ve bu da küçük bir konik valfi aşağı bastıran ve silindirden gelen beslemeyi kapatan, bu valfin basınç azaldığında hemen tekrar açılmasını sağlayan 'Tembel Kollar' adı verilen bir düzenlemeyi harekete geçirir.
+
+Bu regülatörün dış şekli, Şekil 12'de {21} gösterilmiştir; bu, daha sonra değinilecek olan silindire olan olağan bağlantı şeklini de gösterir.
+
+Beard Regülatöründe gazın iletilebileceği basınç, spiral yayın kuvvetiyle belirlenir ve yalnızca bu yay değiştirilerek değiştirilebilir.
+
+[Resim: Şekil 12.--Beard'ın Regülatörü.]
+
+Uygulamada Beard'ın Regülatörleri, sıradan karışık veya 'üflemeli' jetler için düşük bir basınca ve 'enjektör' jetleri için daha yüksek bir basınca (14-16 inç) ayarlanmış olarak tedarik edilir. Bu son basınçta kullanılan kauçuk boru oldukça kalın ve güçlü olmalı ve iyi bağlanmalıdır ve buna rağmen jetin muslukları, silindirdeki gaz hemen kapatılmadığı sürece tamamen kapatılmamalıdır. British Oxygen Company, istenen herhangi bir basınca ayarlanabilen bir regülatör üretiyor, ancak Beard'ınki kadar hassas bir eyleme sahip değil ve Baylar Clarkson da yaygın olarak kullanılan ve hakkında iyi konuşulan bir desen regülatörü üretiyor. Bu bağlantı parçalarından herhangi birinin silindire bağlanması, Şekil 10 veya Şekil 12'ye referansla görülebileceği gibi, biraz tuhaf bir işlemdir. Regülatör veya nozul, alt ucunda bir vida ve koni ile son bulur, ikincisi silindirdeki iç koni ile gaz geçirmez bir bağlantı yapmak üzere tasarlanmıştır ve bunun üzerine gevşek bir kanat parçası başka bir dış vida ile vidalanır, bu sonuncusu silindirdeki dişi takar. Bağlantıyı yaparken, kanat parçasının iç vidaya çok fazla vidalanmamasına dikkat edilmelidir, aksi takdirde koni aşağı uzanmaz ve {22} yuvasına sıkıca oturmaz; doğru konumunda, kanat parçası kelepçelendiğinde, koninin düzgün bir şekilde oturmasını sağlamak için dişinin bir veya iki turunu açıkta bırakmalıdır.
+
+[Resim: Şekil 13.--Regülatör ve Gösterge.]
+
+Bu bağlantı parçalarından herhangi birini takmadan önce silindirin nozulunun tozdan arındırılmış olmasına dikkat edilmelidir: en iyi plan önce içine üflemek ve
+son olarak parmağınızla silmektir. Çoğu profesyonel operatör kanat parçasını bir anahtar veya başka bir uygun aletle
+_çekiçle_ yerine oturtur; bu barbarca bir yöntemdir ve koniler iyi durumdaysa gerçekten gereksizdir,
+ancak yine de pratikte neredeyse her zaman kullanılır.
+
+BASINÇ GÖSTERGELERİ.--Bunlar bir silindirde kalan gaz miktarını belirlemede faydalıdır ve çok yaygın bir türdür; ya çalışmaya başlamadan önce silindire vidalanabilir ve regülatörü vidalamak için tekrar çıkarılabilir veya regülatörün kendisine takılı olarak tedarik edilebilir, bu durumda sergi sırasında gözlemlenebilirler (Şekil 13). Aynı gösterge farklı boyutlardaki silindirler için kullanılabildiğinden (ancak _asla_ {23} farklı gaz içerenler için kullanılmaz),
+sadece atmosfer cinsinden kaydedilirler ve dolu bir silindirin 120 atmosferlik bir basınç gösterdiği bilindiğinden, kullanılmayan kaç kübik feet olduğunu belirlemek için gerekli hesaplama yapılmalıdır.
+
+Oksijen silindirleri durumunda, kalan gaz miktarı hakkında yaklaşık bir fikir, tamamen dolu veya tamamen boş olduğu bilindiğinde dikkatlice _tartılarak_ ve bilgi gerektiğinde tekrar tartılarak elde edilebilir. Oksijen, kübik feet başına yaklaşık 1,4 oz. ağırlığındadır ve bu, ortalama bir
+ölçekle kolayca tespit edilebilir. Kömür gazı bu şekilde ölçülemeyecek kadar hafiftir.
+
+GAZ TORBALARI VE JENERATÖRLER.--Daha önce, dikkat çekmek amacıyla basınç altında gaz elde etmenin iki alternatif yöntemi olduğu belirtilmişti,
+yani gaz torbaları ve jeneratörler (ikincisi yalnızca oksijen için: bildiğim kadarıyla iyi bir hidrojen jeneratörü yok). Her iki durumda da oksijen, klorat potasyum ve manganez siyah oksit karışımının ısıtılmasıyla üretilir. Gaz torbaları durumunda gaz önceden hazırlanır ve uygun arıtıcılardan geçirilerek kauçuk bir gaz torbasına aktarılır. Bir jeneratörle oksijen sergi sırasında açığa çıkar; ancak bu yöntem
+hiçbir zaman çok genel kullanıma girmemiştir.
+
+Kömür gazı veya hidrojen çok nadiren evde üretilir; bir gaz torbası gerekirse birkaç mil öteden doldurulup sergi alanına dolu olarak getirilebilir veya gaz konursa yerinde doldurulabilir; veya bu mümkün olmazsa, bunun yerine asetilen veya eter veya hatta metillenmiş ispirto kullanılabilir.
+
+Kullanılan torbalar çift basınç levhaları arasına yerleştirilir (eğer _her iki_ gaz da basınç altında gerekliyse) ve üstüne yeterince ağır ağırlıklar yerleştirilir (Şekil 14) veya bir 'üflemeli' jet ile sadece oksijenin bir torbada depolanması ve kömür gazının besleme şebekesinden kullanılması gerekir.
+
+Ancak, silindirler bu cihazların yerini o kadar evrensel olarak almıştır ki, özellikle işlemi benimsemek isteyen herhangi bir operatör herhangi bir sorumlu satıcıdan tam talimatlar alabileceğinden, bunları tam olarak tanımlamak için yer neredeyse hiç gerekmemektedir.
+
+IŞIK JETLERİ.-- Bunlar üç genel tiptedir: 'Üflemeli', 'Karışık' ve 'Enjektör. '
+
+Bunlardan 'Blow-through' artık çok az üretiliyor, büyük ölçüde 'Enjektör' deseni tarafından yerinden edilmiş durumda, ancak bu ülkede yaygın olarak kullanılan yüzlercesi olduğu için, bunlar henüz geçmişte kalmış bir şey olarak kabul edilemez.
+
+[Resim: ŞEKİL 14.--Gaz torbaları.]
+
+Bu jetin kesin tasarımı önemli ölçüde değişir, ancak hepsi şu konuda aynıdır: bir kömür gazı jeti az çok açık bir nozulun deliğinde yakılır ve bir oksijen akımı bunun içinden _üflenir_ ve bu sayede akkor hale getirdiği bir kireç silindirine
+
+üflenir. Şekil 15, bu jet için esas olarak benimsenen çeşitli tasarımları temsil eder, A ile işaretlenen belki de en yaygın olanıdır, ancak C ile de sıklıkla karşılaşılır.
+
+Işık verme gücünde çeşitli tipler arasında seçim yapmak için fazla bir şey yoktur; Muhtemelen D genel olarak bu açıdan en iyisidir, ancak çok şey iki nozülün tam konumuna ve oksijen patlaması için sağlanan _pürüzsüzlüğe_ veya
+diğerine bağlıdır, bu nedenle tam
+karşılaştırmalar zordur.
+
+[Resim: ŞEK. 15.--'Üflemeli' Nozullar.]
+
+'Üflemeli' jetler günümüzde kullanılan en zayıf ışıklandırma biçimidir ve asetilenden yaklaşık %50 daha iyi veya başka bir deyişle, yaklaşık 40 ila 50 fit mesafeden 12 fitlik bir resmi aydınlatmaya yeterli olarak alınabilir; ancak avantajları, basınç altında yalnızca bir gaza (oksijen) ihtiyaç duymaları, kömür gazı tedarikinin normal ev ana hattından elde edilmesidir.
+
+[Resim: ŞEK. 16.--'Üfleme' Jeti.]
+
+Bu avantaj artık daha yakın zamanda tanıtılan ve çok daha iyi bir ışık veren ve bu nedenle 'Üfleme' tipini neredeyse ortadan kaldıran 'Enjektör' jetleri tarafından paylaşılıyor.
+
+'Üfleme' jetinin genel yapısı Şekil 16'da gösterilmiştir ve kireç silindirini taşımak için kısa bir dikey milin {26} sağlandığı ve bunun aynı anda mili yukarı ve aşağı vidalayan eğimli dişli çarklar vasıtasıyla arkadan döndürülebildiği görülecektir.
+Bu milin üzerine yerleştirilen olağan desendeki bir kireç silindiri, kullanımda olan yüzey patlamayla kademeli olarak 'çukurlaşırken', vida ise tam bir dönüşün aynı konuma tekrar dönmemesini sağlamak için yeterli dikey hareket sağlarken, zaman zaman taze bir yüzey ortaya çıkarmak için döndürülebilir.
+
+Genel olarak, kireç mili ile jet arasındaki mesafenin ayarlanabileceği bir düzenleme de sağlanır. Bunun tam konumu makul bir marj dahilinde önemli değildir, ancak limonlar boyut olarak değişir ve
+'Pastilles' ve daha sonra değinilecek olan limonların diğer ikameleri, en azından bu ayarlama açısından daha da fazla değişir.
+En iyi sonucu veren ortalama mesafe genellikle yaklaşık yarım inçtir ve
+bir kez ayarlandıktan sonra, farklı boyutta bir limon kullanılmadığı sürece, o belirli jetle değiştirilmesi gerekmez;
+limonların merkezden hafifçe dışarı delinmesi vb. nedeniyle oluşan küçük değişiklikler ciddi şekilde önemli değildir.
+
+Silindirlere göre jet musluklarının renklendirilmesi için kabul edilmiş bir kural yoktur ve bazen bu şekilde boyanmış jetlerle karşılaşılsa da, _yani_ kömür gazı için kırmızı ve oksijen için siyah, kömür gazı musluklarının _siyah_ ve oksijen _parlak_ veya bazen ikisinin de siyah veya ikisinin de parlak olması daha yaygındır. Bu nedenle, doğru silindirin jet üzerindeki doğru musluğa bağlı olmasına dikkat edilmelidir, ancak hangisinin hangisi olduğunu söylemekte zorluk yaşanmamalıdır ve neyse ki herhangi bir hata, yapılsa bile, oldukça zararsızdır.
+
+KARIŞIK GAZ VEYA ÇİFT BASINÇLI JET.--Bu jet, iki gazın yanmadan önce bir karıştırma odasında birleştirilmesi ve doğru oranlarda bir memede yanması bakımından 'üfleme' formundan temelde farklıdır.
+
+Genellikle bu jetin her iki gazın da eşit veya yaklaşık olarak eşit basınç altında olmasını gerektirdiği belirtilir, ancak bu {27} tam olarak doğru değildir ve bu jetlerden biriyle, normal tedarikten gelen kömür gazı ve bir silindirden gelen oksijen kullanarak birçok fener gösterisi yaptım. Bu şekilde karışık bir jet kullanmak dikkat gerektirir, çünkü çok az miktarda oksijen ışığı bir 'pop' sesiyle söndürür, bu tehlikeli olmasa da rahatsız edicidir, bu koşullar altında elde edilen ışık ise 'üflemeli' bir jetten çok daha iyidir ve daha sonra açıklanacak 'Enjektör' jetlerinden çok daha düşüktür.
+
+[Resim: ŞEKİL 17.--Karışık Jet.]
+
+[Resim: ŞEKİL 18.--Karışık Jet, Gwyer deseni.]
+
+Karışık gaz jeti, basınç altındaki her iki gazla birlikte kullanılmak üzere tasarlanmıştır ve gerçekten güçlü bir ışığın gerekli olduğu durumlarda ciddi olarak {28} dikkate alınması gereken _tek_ jettir. Bu jetin gücü gerçekten de neredeyse sınırsızdır ve örneğin sinematograf işlerinde kullanılanlar gibi büyük çaplı olanlar genellikle yaklaşık iki veya üç bin muma denk gelen bir ışık sağlar ve muazzam miktarda gaz tüketir; ancak
+sıradan desen, bir yirmide bir ila on altıda bir inçlik bir delik çapına sahip meme ucu ve saatte her gazdan yaklaşık 5 fit veya belki de kömür gazı için biraz daha fazla kullanılması, tüm sıradan işler için yeterli olacaktır.
+
+[Resim: ŞEKİL 19.--Jet Karıştırma Odası.]
+
+Karışık gaz jeti, 'üflemeli' gibi birçok formda yapılır, ancak
+bunlar kabaca iki ana türe ayrılabilir, yani meme ucunun hemen altında küçük karıştırma odaları olanlar (Şek. 17) ve jetin yatay kısmında 'Gwyer' deseninde olduğu gibi daha büyük odalar olanlar (Şek. 18).
+
+Karıştırma odasının yapısı da değişir, ancak bu çalışmanın orijinal yazarı olan babamın savunduğu şey genellikle takip edilir, oda Şekil 19'daki gibi delinmiş alternatif disklerle doldurulur ve bu da gazların iyice karışmasını sağlar. Bir veya iki kat gazlı bez
+genellikle daha fazla iyileştirme yoluyla eklenir. Kireç ile meme ucu arasındaki mesafe 'üflemeli' jete göre çok daha azdır ve
+ayar daha kesin yapılmalıdır. Orta güçte bir jet için yaklaşık 1/8 inç doğrudur ve daha büyük bir delik için daha fazladır; ayrıca kireci sık sık çevirmeye dikkat edilmelidir, çünkü bu jetlerle
+kirecin oldukça hızlı bir şekilde 'çukurlaşması' söz konusudur ve ihmal edilirse
+jet, kademeli olarak oluşan delikten geri fışkırabilir ve kondansatörü çatlatabilir. {29}
+
+Bu jetlerin tehlikeli olduğu konusunda hala yanlış bir görüş vardır ve eğer operatör artık kullanılmayan gaz torbalarıyla çalışıyorsa, dikkatsiz ellerde bir kaza _mümkün_ olduğu kesindir; ancak bildiğim kadarıyla
+silindirlerde, normal koşullar altında bir kaza olasılığı bile yoktur.
+
+Çok fazla oksijen açılırsa jetin aniden yüksek bir 
+çatlama veya patlamayla sönebileceği doğrudur ve bu aslında karıştırma bölmesinde minyatür bir
+patlamadır; ancak her durumda önemli olacak kadar ciddi olmayabilir, ancak böyle bir çıtlamadan sonra yukarıda belirtilen bölmenin içindeki gazlı bez dolgusunun delindiğini ve daha sonra ilk yakıldığında jetin birkaç dakika boyunca gazda ince bakır veya pirinç parçacıklarının varlığını gösteren karakteristik yeşil bir alevle yandığını gördüm.
+
+Bu jetlerle ve aslında _tüm_ jetlerle iyi bir ışık elde etmek için, meme ucunun kesinlikle pürüzsüz olmasına büyük özen gösterilmelidir, aksi takdirde alev tıslamaya mahkumdur. En basit plan, uygun büyüklükte bir iğneyi zımpara kağıdıyla hafifçe pürüzlendirmek ve bununla zaman zaman meme ucunun içini parlatmaktır. Özellikle bahsedilen 'çatlamalardan' biri olmuşsa, meme ucunun içinin tamamen pürüzsüz ve cilalı olduğunu görmek arzu edilir.
+
+KARIŞIK GAZ JETİNİN MANİPÜLASYONU.--Bu noktada söylenecek fazla bir şey yok. İyi bir sert kireç taşı kullanılmalıdır--'yumuşak' kireçler bu jet için işe yaramaz--ve önce kömür gazı alevi yakılmalı ve oksijen yavaşça açılmadan önce kireç bununla iyice ısıtılmalıdır.
+Oksijen arttıkça alev kademeli olarak kaybolacak ve ışık artacaktır,
+ta ki o belirli miktardaki kömür gazı için maksimuma ulaşana kadar. Bu
+sonra biraz daha açılabilir ve jet 'kükremeye' başlayana kadar onu dengelemek için daha fazla oksijen geçirilebilir, bu da o belirli boyuttaki meme ucu için maksimum ışığı aldığımız zamandır. Ancak iki gaz en iyi ışığı vermek için uygun oranda olduğunda, her zaman kireçte oynayan hafif bir kömür gazı alevi fazlalığı görülecektir. {30}
+
+ENJEKTÖR JETİ.--Bu esasen karışık bir jettir ve dış
+görünüşte sıradan tiplerden (Şekil 20) çok az farklıdır, ancak oksijen basıncının kömür gazını karıştırma odasına 'emmesi' ve böylece ikincisinin basınç altında olması için tüm gerekliliği ortadan kaldıracak şekilde tasarlanmıştır.
+
+Bu jetle, jetin oksijen fazlalığı nedeniyle 'çatlaması' tehlikesi çok azdır veya hiç yoktur, çünkü bu gazın akışı ne kadar fazlaysa, kömür gazı tarafındaki emiş de o kadar fazla olur.
+
+Işık iyi bir karışık jete tam olarak eşit değildir, ancak çok yakındır ve
+bu nedenle bu jet her geçen gün haklı olarak popülerlik kazanmaktadır.
+
+[Resim: ŞEKİL 20.--'Enjektör' Jeti.]
+
+Bir noktaya dikkat edilmelidir: En iyi ışık elde edilecekse oksijenin kendisi
+sıradan karışık jete göre daha fazla basınç altında olmalıdır ve
+bu nedenle özel bir regülatör kullanılmalı veya sıradan tipte bir regülatör değiştirilmelidir (bu üretici tarafından kolayca yapılabilir) ve kauçuk bağlantılar hem jete hem de regülatöre sıkıca bağlanmalıdır, çünkü bu jeti avantajlı hale getirmek için gereken basınç, bir kauçuk boruyu patlatmaya yetmese de, kolayca takılan bir bağlantıyı patlatmaya yeter.
+
+OKSİJEN IŞIĞI.--Bu pratik olarak oksihidrojene benzer, ancak
+hidrojen veya kömür gazı yerine eter buharı kullanılır. Benimsenen yöntem, esas olarak, eterle doymuş gözenekli bir malzemeyle (pamuk yünü veya pamuklu gazlı bez gibi) dolu bir kapta oksijen akımı geçirmekten oluşur. Oksijen {31} eter buharıyla doymuş hale gelir ve karışım daha sonra çift basınçlı bir jette kömür gazı beslemesinin yerine kullanılır, normal oksijen musluğundan ek bir serbest oksijen beslemesi hala gereklidir.
+
+Düzenleme ucuzdur, çünkü bir kömür gazı tüpüne olan ihtiyacı ortadan kaldırır ve etkilidir, çünkü ışık çok azdır, hatta oksihidrojenden daha düşüktür, ancak ikincisinden şu şekilde farklıdır: dikkatsizce
+kullanıldığında bir kaza _mümkündür_.
+
+Yetkin ellerde hiçbir tehlike yoktur ve ben eter doyurucuları tek bir olumsuzluk yaşamadan defalarca kullandım; ancak bu _hiçbir şans amatörüne_ emanet edilmemelidir.
+
+Eter ışığının kullanımının ilginç bir geçmişi vardır. Daha önceki günlerde, eter doyurucuların uygun yapısı anlaşılmadan ve gaz torbaları hala revaçtayken, büyük ölçüde tehlike nedeniyle kınanıyordu. Cihazlardaki modern gelişmeler, onu aşırı dikkatsizlik veya beceriksizlik dışında her şeye karşı tamamen güvenli hale getirdi ve Londra İlçe Konseyi ve diğer benzer kuruluşlar, derhal ilkokullara (benim ve başkalarının yaptığı uyarıları dikkate almayarak) yayınladılar ve burada genellikle beceriksiz operatörlere veya hatta son sınıf öğrencilerine emanet edildi. Bildiğim kadarıyla hiçbir ciddi kaza olmadı, ışığın gerçekten güvenli olduğuna dair oldukça kesin bir kanıt, ancak zamanla Londra İlçe Konseyi, bu aydınlatıcının evrensel olarak benimsenmesinin tavsiye edilmediğini fark etti ve _şimdi_ eğlence için lisans verdikleri salonlarda tamamen yasaklanması gerektiğine inanıyorum. Zamanla, şüphesiz, iki uç arasında mantıklı bir politika benimsemeyi öğreneceklerdir, ancak şu anda birçok bölgedeki resmi tutum eter doyurucuları devre dışı bırakmıştır ve bir tane satın almadan önce, potansiyel operatör bunu kullanmasına izin verilip verilmeyeceğini belirlemelidir. Günümüzde üretilen eter doyurucuları iki ana desene ayrılabilir, yani: doygunlaştırıcı ve jetin fenere tam olarak uyan tek bir cihaz parçasında bir araya getirildiği {32} ve
+dışarıda kullanılan ve herhangi bir sıradan oksihidrojen çift basınçlı jete borularla bağlanan doygunlaştırıcılar.
+
+Her iki formun da avantajları ve dezavantajları vardır; ilk desen fenerdeki konumundan dolayı
+çok fazla ısınma eğilimindedir ve çok hızlı bir şekilde eter
+buharı üretir, ikinci desen ise çok fazla soğuma hatasına sahiptir (eterin buharlaşması nedeniyle) ve bu nedenle yeterince hızlı buharlaşmaz.
+
+[Resim: ŞEKİL 21.--'Gridiron' Doygunlaştırıcı.]
+
+Üreticilerin savaş işinin stresinden sonra normal işlerine yavaş yavaş dönmeye başladığı günümüzde,
+tam olarak hangi modellerin yapılacağını veya yapılmayacağını söylemek imkansızdır, ancak
+savaş öncesi günlerde yapılmış her desenin tipik bir örneğinden bahsedeceğim.
+
+Bunlardan ilki, bahsettiğim günlerde Londra İlçe Meclisi tarafından büyük ölçüde benimsenen ve kesinlikle
+piyasaya sürülen en iyi tasarlanmış doyuruculardan biri olan 'Gridiron'dur (Şekil 21).
+
+'Gridiron' doyurucusunda üç musluk vardır: ikisi {33} arkada ve biri önde, doyurucu ile karıştırma odası arasında.
+Arka musluklar arasında oksijen girişi vardır ve bu giriş iki kanala ayrılır,
+soldaki kanal, şekilde gösterilen U borusundan yukarı doğru geçer (sağdaki karşılık gelen boru sadece bir kukladır) ve
+oradan doyurucudan geçip yatay boru ve musluktan
+karıştırma odasına gider, buradan doymuş oksijen akımı sonunda
+memeye geçer ve kombinasyon, kömür gazının ürettiğine çok benzeyen beyazımsı bir alevle yanar.
+
+[Resim: Şekil 22.--'Pendant' Doyurucu.]
+
+Oksijen için diğer kanal sağda, orada gösterilen dikey borunun aşağısındadır (soldaki alt dikey boru da bir kukladır),
+doyurucunun altında ve son olarak aşağıdan karıştırma odasına gelerek beyaz alevi yoğun bir şekilde sıcak bir üfleme borusuna dönüştürür
+tıpkı bir kömür gazı jetinde olduğu gibi. Ön musluk, karıştırma odasına doymuş eter tedarikini kontrol eder ve başlangıçta yeterli eter almak için iyi bir oksijen akışına ihtiyaç duyulurken, alet fenerde ısındıkça,
+doyurucudan geçen oksijen
+tamamen kesilebilir ve o zaman bile sıcak eterin çok hızlı çıkmasını önlemek için ön musluk kademeli olarak kapatılmalıdır.
+
+Bunu yaparken 'emniyet valfinin üzerinde oturma' gibi rahatsız edici bir his vardır,
+ama gerçekte basıncın tehlikeye neden olacak kadar büyük olması asla olası değildir.
+
+Fenerin dışında kullanılan doyurucuların en bilineni muhtemelen 'Pendant'tır (Şekil 22). Bu aletle oksijen kaynağı A ile işaretlenen girişe bağlanır; B herhangi bir sıradan karışık gaz jetinin oksijen musluğuna doğrudan gider {34}; doymuş akımın çıktığı C ise jetin kömür gazı musluğuna bağlanır. Hangi desen kullanılırsa kullanılsın, önemli olan iyi bir oksijen kaynağını iyi doymuş halde tutmaktır. Kireç serbest oksijen olmadan akkor hale gelirse veya bunun kademeli olarak kapatılması gerektiği bulunursa, bu doygunluğun bozulduğunu gösterir ve devam etmek jetin patlama riskini almaktır. 'Pendant' gibi bir dış doyurucu durumunda, bu, yüksek bir sesle bağlantı tüplerini bile patlatabilir, ancak daha kötü bir kaza olması muhtemel değildir ve bu nedenle dış doyurucu, lastik tüpün kısa tutulabilmesi için jete mümkün olduğunca _yakın_ yerleştirilmelidir ve bu arada bu doyurucuyu sıcak tutar ve buharlaşmayı hızlandırır. 
+Eter buharı genellikle büyük ölçüde buharlaşmayan belirli bir miktarda nem içerdiğinden, bu yavaş yavaş birikir ve aletin kapasitesi azalır. Bu nedenle, doyurucuyu yeniden paketlemek için ara sıra üreticilere geri göndermek genellikle gereklidir. Modern bir doyurucuyla ilgili tek gerçek tehlike kullanımda değil, _doldurmada_dır. Bu mümkünse açık havada yapılmalı ve en azından
+asla bir ışığın yakınında yapılmamalıdır. 720-730 özgül ağırlığa sahip sıradan sülfürik eter
+genellikle en iyisi olarak kabul edilir ve çeyrek pintlik bir su, sıradan bir küçük çaplı jeti yaklaşık iki saat boyunca çalıştırabilir.
+
+Genellikle üreticiler tarafından daha kesin talimatlar gönderilir ve kullanılan
+doyurucunun çeşitli desenleri oldukça fazla olduğundan, burada çalışma için daha ayrıntılı talimatlar vermeye çalışmak faydasız olacaktır.
+
+OKSİ-ASETİLEN JETLERİ.--Herhangi bir iyi karışık gaz jeti, kömür gazı yerine asetilenle kullanılabilir, ancak bunun oksijen silindirinden gelene benzer şekilde az çok basınç altında olması gerekir ve günümüzde, en azından medeni ülkelerde, sıkıştırılmış veya daha doğru bir ifadeyle 'çözünmüş' asetilen silindirleri aracılığıyla bunu elde etmekte hiçbir zorluk yoktur, daha sonra bahsedilecektir.
+
+Bir 'Enjektör' jetiyle, asetilen gazının hiç basınç altında olmasına gerek yoktur ve 12. sayfada açıklanan gibi basit bir jeneratör mükemmel bir şekilde cevap verecektir, ancak pratikte çok nadiren kullanılır. Böyle bir jeneratörle basınç o kadar düşüktür ki, birçok durumda jet _biraz_ oksijen açılana kadar yanmaz bile; ancak bu gerçek bir
+zorluk yaratmaz, çünkü iyi bir 'Enjektör' ile bir çıt sesi pratik olarak imkansızdır,
+yeterli asetilen üretecek kadar büyük bir jeneratör olması koşuluyla.
+Ancak, asetileni bir silindirden kullanmak her açıdan çok daha iyidir,
+tıpkı kömür gazında olduğu gibi. Sadece bu durumda silindir tamamen gözenekli bir malzeme ile doldurulur ve bu da tekrar sıvı aseton veya diğer uygun bir sıvı ile doldurulur, bu sıvıda asetilen silindire pompalandığı kadar hızlı bir şekilde
+çözülür.
+
+Asetileni olağan şekilde sıkıştırmak ne güvenli ne de uygulanabilirdir;
+ancak bu 'çözünmüş' silindirler artık hem oksi-asetilen kaynak hem de otomobil aydınlatması için yaygın olarak
+kullanılıyor ve tamamen güvenilebilir.
+
+D.A. (Çözünmüş Asetilen) Şirketi bu ülkede endüstrinin öncüleriydi ve iş yapma yöntemleri özgün ve yaratıcıydı. Kullanıcıdan ilk olarak bir silindir satın alması istenir ve daha sonra _bir_ silindirin sahibi olur, ancak _belirli_ bir silindirin değil. Şirketin silindirlerinin depolandığı ülkedeki çeşitli depoların bir listesi kendisine verilir ve boş olduğunda, sabit bir
+meblağ ödeyerek boş silindirini dolu bir silindirle değiştirebilir, bu da daha sonra _onun_ silindiri _geçici_ olur.
+
+Bu, bir silindiri Londra'ya geri göndermenin gecikmesini ve masrafını önler ve ayrıca müşteriyi herhangi bir bozulma sorunundan muaf tutar, bu da her bir değişimle derece derece kapsanır. Sistem ilk olarak arabaların aydınlatılmasıyla bağlantılı olarak tanıtıldı ve yalnızca bu amaç için standart boyuta, yani 20 fit küp kapasiteye uygulanır, {36} ancak bu, genel olarak fener çalışması için de en uygun boyut olduğundan, sınırlama bir dezavantaj değildir. Düzenleme, 6 feet kapasiteli silindirlerde (bazen motor _bisikletleri_ için kullanılan bir boyut) daha az rağbet görmektedir, ancak değişim depoları şu anda bu boyut için çok daha azdır.
+
+Oksi-asetilen patlaması, sıradan oksihidrojenden çok daha _sıcaktır_ ve bu nedenle daha yoğun bir ışık üretir. Bu nedenle, sıradan spot ışığının bile başarısız olacağı durumlarda bunu başarıyla kullandım ve seçim, muazzam çaplı bir oksihidrojen jeti (ve tabii ki buna karşılık gelen gaz tüketimi) ile oksi-asetilen arasında kaldı.
+
+Tam da bu nedenle, yalnızca en sert kireçleri kullanmaya ve o zaman bile kireç çevirme hareketini sık sık kullanmaya büyük özen gösterilmelidir, aksi takdirde kireç çukurlaşır veya çatlar ve ardından kırık bir kondansatör gelir.
+
+FALLOT ASETİLEN IŞIĞI. --Bu ışık, oksijensiz, basınç altında bir asetilen jetinden oluşur, ancak 'Enjektör' jetinin yaptığı gibi, ancak tam tersi şekilde, atmosferden emme yoluyla kendi _hava patlamasını_ üretir.
+
+Işık, sıradan bir asetilen jetinden daha iyidir, ancak 'üflemeli' jet kadar iyi değildir; ancak yalnızca
+çözünmüş asetilen silindiri veya hatta bir 'Basınç' jeneratörü gerektirdiğinden, hızla popülerlik kazanmaktadır.
+
+Fallot cihazının özelliği, ekrana doğru doğrudan bir ışık huzmesi sağlamak yerine, huzmeyi _geriye doğru_ içbükey bir aynaya yansıtması ve kullanılan şeyin bu aynadan yansıyan ışık olmasıdır (Şekil 23).
+
+Kireç yerine, kendine özgü bir bileşime sahip küresel bir 'Pastille' kullanılır ve kullanımdan önce her pastil, akkor bir gaz mantosu gibi yakılmalıdır, bundan sonra son derece kırılgan ve kullanımı zor olur.
+
+Bu aydınlatıcıyı kullanmak için kondansatörün bir merceği çıkarılmalı,
+aynanın eğriliği onun yerini alır ve hemen görülecektir ki
+pastilin kendisi kendi ışığına girecek ve bir gölge oluşturacaktır,
+bu gerçekten olur, ancak özel olarak aranmadığı sürece neredeyse fark edilemez.
+
+[Resim: ŞEKİL 23.--Fallot Hava Patlaması.]
+
+Silindir, ince ayar valfi,
+basınç göstergesi ve brülör ve iki yedek pastil ile birlikte komple bir Fallot Hava Patlaması Takımı, Şekil 24'te gösterilmiştir,
+ancak tercih edilirse oksijen için daha önce açıklanan türden bir
+regülatör, ince ayar valfi yerine kullanılabilir.
+
+[Resim: ŞEKİL 24.--Fallot Hava Patlaması ve Silindir.]
+
+{38}
+
+FALLOT OKSİ-ASETİLEN PATLATMASI.--Bu, yukarıdakine benzerdir, hava yerine bir silindirden oksijen kullanır ve ışık güçlü bir
+ışığa eşittir ve etkili bir ikame olarak düşünülebilir, ancak
+_uzun menzilli_ çalışma için daha önce bahsedilen gölge daha belirgin hale gelir (burada tartışılması gerekmeyen
+optik nedenlerle). Fallot Şirketi ayrıca bir D.A. Silindiri yerine kullanılabilen özel bir 'Basınç Jeneratörü' yapar; ancak benim bu konudaki deneyimim, tamamen güvenli olmasına rağmen, ondan gelen patlamanın bir silindire kıyasla biraz dengesiz olduğudur.
+
+LİMONLAR VE AKSESUARLAR.--Optik Fener çalışmaları için limonlar genellikle silindir şeklinde tedarik edilir, 'sıradan' boyut 7/8 inç çapındadır
+ve yaklaşık 1-1/2 inç uzunluğundadır ve limon pimini takmak için uzunlamasına delinmiş bir delik vardır. Daha güçlü jetler için 2 inçe kadar çapa sahip ekstra büyük limonlar tedarik edilir.
+
+Sözde 'yumuşak' limonlar, 'sert' limonlardan daha iyi ışık verdiği için 'üflemeli' jetler için önerilirdi, ancak herhangi bir avantajı varsa, çok azdır ve bu limonlar artık çok nadiren duyulmaktadır, muhtemelen 'üflemeli' jetlerin kendileri giderek daha az kullanıldığı ve 'yumuşak' limonlar karışık veya 'Enjektör' jetinin ısısına uzun süre dayanamayacağı için.
+
+'Sert' kireçler en sert taş kireçten yapılır ve havaya maruz kaldıklarında hızla parçalandıkları için kullanılana kadar
+kapalı kutularda saklanmalıdır. Fener amaçlı en iyi kireci sağladığı bilinen bir veya iki taş ocağı vardır ve piyasadaki çeşitli iyi markalar, farklı ticari isimlerle anılsalar da, hammadde açısından pratik olarak aynı kökene sahiptir; ve birkaç yıl önce tanınmış bir toptancı firma tarafından piyasaya sürülen ve kısa süre sonra 'Hardastil' (daha da sert) markasıyla karşılanacak olan 'Hardazion' (demir kadar sert) kireçler, bence, fonetik reklamın meşru ancak eğlenceli örnekleridir.
+
+En iyi kireçler bile güçlü bir jetin ısısı altında çatlamaya meyillidir {39} ve bu nedenle her zaman bir çift kireç maşası sağlanmalıdır ve Şekil 25'te gösterilen ve tüm satıcılar tarafından satılan veya satılması gereken basit formdan daha iyisi yoktur.
+
+[Resim: ŞEKİL 25.--Limon maşası.]
+
+LİMON YERİNE KULLANILACAKLAR. --Kireç yerine aynı ışığı verecek, ısıya eşit derecede dayanıklı ve atmosfere maruz kaldığında bozulmayacak iyi bir alternatif uzun zamandır aranmaktadır ve daha yakın zamanda keşfedilen refrakter malzemelerden bazıları az çok tatmin edicidir. Örneğin 'Mabor' kireçleri bu sınıfa aittir ve savaştan önce esas olarak Fransa'dan ve daha az ölçüde Almanya'dan gelen 'pastillerin' bazıları da öyledir.
+
+* * * * *
+
+BÖLÜM VI
+
+ELEKTRİK IŞIĞI
+
+Elektrik akımı optik bir fener için _ışığı_ sağlar, ancak çeşitli biçimlerde olabilir, örneğin akkor lamba, nispeten yeni Ediswan 'Pointolite' lambası, kapalı ark
+ve açık ark. Bu küçük kitap elektrik üzerine bir inceleme değildir, ancak birkaç temel not yersiz olmayabilir ve teknik olmayan fenercilere yardımcı olabilir.
+
+O halde, fener projeksiyonu amacıyla elektrik ışığını benimsemede dikkate alınması gereken ilk nokta, kaynağın karakteridir ve gereken
+bilgiler şu şekilde özetlenebilir: (1) _E.M.F._, _voltaj_ veya _gerilim_ (bu üç ifadenin tam olarak aynı anlamı vardır); (2) _amperaj_ veya mevcut akım miktarı; (3) akımın (_a_) _sürekli_, _sabit_ veya _doğrudan_ (yine aynı şeyi ifade eden üç kelime) veya (_b_) _değişken_ olup olmadığı. E.M.F. veya gerilim, su borusunun mekanik benzetmesini kullanmak için
+_basınca_ karşılık gelir ve
+_amperaj_ hacme ve bu ülkedeki besleme akımlarının voltajı genellikle 100 ile 250 volt arasındadır. Özel aydınlatma setleri
+sık sık 50 kadar düşüktür ve akümülatörlerden elde edilen akım
+birkaç volttan yukarı herhangi bir şey olabilir. _Güç_ akımları, tramvaylar vb. için yaygın olarak
+kullanılanlar gibi, genellikle yaklaşık 500 volttur, ancak bu akımların aydınlatma amacıyla kullanımı, uygulanabilir olsa da,
+savunulmamalıdır.
+
+Amper ve volt bir anlamda dönüştürülebilir terimlerdir; yani, 100 voltta 10 amperlik bir akım, 200 voltta 5 amper veya 50 voltta 20 amper üretmek için gereken beygir gücüyle aynıdır, ancak bunlar amacımız için _verimli_ kullanımları açısından kesinlikle dönüştürülebilir değildir. Kullanılan amper, volt sayısıyla çarpıldığında tüketilen toplam gücü _watt_ olarak verir ve bir saat boyunca kullanılan 1000 watt, korkunç aydınlatma faturalarımızda tahsil edilen 1 _birim_ anlamına gelir. Amacımız açısından kamusal bir kaynaktan elde edilebilen akımın sınırsız olduğu söylenebilir ve gerçekte kullanılan miktar yalnızca devremizin toplam elektrik direncine bağlıdır ve bu _ohm_ olarak ölçülür, üç faktör, yani volt, amper ve direnç, iyi bilinen ve basit denklem C = E / R ile bağlanmıştır, C amper cinsinden akımı, E volt cinsinden gerilimi veya E.M.F.'yi (elektromotor kuvveti) ve R ohm cinsinden direnci temsil eder. Ancak, kullanabileceğimiz toplam akım, binaya döşenen kablonun boyutuyla sınırlıdır ve bu, genellikle bilindiği gibi, bir sigorta panosuna kolayca erişilebilen bir yerde sabitlenmiş ince tellerden veya kalay veya kurşun şeritlerinden oluşan ve akım amper cinsinden güvenli bir miktarı aştığında doğrudan eriyen _sigortalar_ tarafından otomatik olarak güvence altına alınır (veya alınmalıdır). Bu nedenle hangi aydınlatma yöntemini kullanırsak kullanalım, devrede her zaman _yeterli_
+direnç bulundurulmalı ve böylece sağlanandan daha fazla akım geçemez ve bir ark lambası durumunda bu genellikle devrede arkın kendisine ek olarak bir _direnç_ veya reostanın tutulması anlamına gelir, ki bu da akımın geçtiği ve kesinlikle israf edildiği yerdir, ancak neyse ki para israfı önemsizdir ve daha sonra tartışılacak nedenlerden dolayı böyle bir direnç her durumda optik fener ark lambası için gereklidir. Bir kızdırma lambası durumunda, tüm direnç lambanın kendi filamanı tarafından sağlanır ve bu nedenle, diyelim ki 200 voltluk sıradan bir metal veya karbon filamanlı lambanın son derece uzun ve ince ve bu nedenle kırılgan bir filamanla üretilmesi gerekirken, genellikle sadece 3 veya 4 voltluk bir kuru pilden akımla beslenen sıradan bir cep fenerinde filaman kısa ve kalın olabilir.
+
+Genel olarak konuşursak, düşük voltajlı bir akımdaki kızdırma lambaları yüksek bir akımdakinden daha verimli hale getirilebilir ve ayrıca çok açık nedenlerle daha uzun ömürlüdür; ancak diğer yandan, uzun mesafelerde akımın iletimi gerilim ne kadar yüksekse o kadar ucuzdur, çünkü belirli bir watt sayısı için amperaj daha azdır ve bu nedenle daha küçük kablolar kullanılabilir. Genel olarak, 200 ila 250 voltluk akımlar, lambaların yapımındaki daha büyük zorluklara rağmen, son yıllarda 100'den daha yaygın hale geldi; ancak ara sıra iki veya daha fazla lambanın seri olarak bağlandığı bir salonla karşılaşılır, örneğin iki 100 voltluk lamba 200 voltluk bir devrede seri olarak birbirine bağlanır. Fenerimiz için sıradan bir lamba soketinden akım kullanıyorsak, bu akılda tutulması gereken bir olasılıktır.
+
+Aynı hususlar, yani gücü yüksek gerilimde iletmenin ve daha düşük gerilimde kullanmanın ekonomisi, özellikle seyrek nüfuslu bölgelerde, artık karşılaşılan alternatif akım devrelerinin hızla artmasından esas olarak sorumludur. Alternatif akım ana akımı, akımın yönünü tersine çevirdiği, genellikle bu ülkede 50, ancak bazen saniyede 60, 80, 90 veya hatta 100 kez {42} (Ne yazık ki Büyük Britanya'da standart bir 'Periyodiklik' veya saniyedeki döngü sayısı yoktur) ve burada girilmesi gerekmeyen teknik nedenlerden dolayı, bu alternatif akımlarla gerilim ve amperaj _transformatörler_ aracılığıyla karşılıklı olarak dönüştürülebilir, böylece akım 10.000 volt gibi yüksek bir gerilimde iletilebilir ve 50 veya 100 veya ne gerekiyorsa o voltajda kullanılabilir, gerilim azaldıkça mevcut amperaj ters oranda artar. Aynı hazır dönüşüm gücü ne yazık ki sürekli akım için geçerli değildir, aksi takdirde alternatif akımlar muhtemelen hiç duyulmamış olurdu, ancak olduğu gibi çok yaygındırlar. Kızdırma lambaları için hangi akımın mevcut olduğu önemli değildir, ancak ark lambaları için sürekli akım çok daha fazla tercih edilir, ancak her ikisi de kullanılabilir.
+
+Bu ilk açıklamalarla, şimdi optik fener çalışması için elektrik akımının çeşitli kullanım yöntemlerini aydınlatma sırasına göre ele alacağım.
+
+ELEKTRİKLİ KIVIRCIK LAMBASI.--Sıradan metal filamanlı lamba fener çalışması için pek uygun değildir, ışık yeterince yoğun değildir,
+ancak daha önce söylenenlerden, bu aydınlatma yönteminin düşük voltajlı akımların mevcut olduğu yerlerde daha uygun olduğu anlaşılacaktır.
+
+Elde kolayca taşınabilen nispeten küçük bir akümülatör pilinden ve güçlü bir elektrik
+el feneriyle sağlananlara benzer kısa ve kalın bir metal filamanlı lambadan son derece iyi ve yoğun bir ışık elde edilebilir; ve bu düzenleme aslında seyahat eden öğretim görevlileri tarafından bir ölçüde kullanılır, ancak akümülatörleri düzende tutmanın karmaşası ve sıkıntısı, yöntemin genel olarak benimsenmesini engellemiştir.
+
+_Alternatif_ akım mevcut olduğunda, böyle bir lamba voltajı gereken dereceye düşürmek için bir
+transformatörle iyi çalışacaktır ve düzenleme basit, ucuz ve etkilidir ve en azından {43} asetilenden gelenle eşit bir ışık üretir. Akımın alternatif olduğu nispeten küçük salonlarda, bu şüphesiz en iyi çalışma yöntemidir, çünkü arktan daha basittir ve tüm pratik amaçlar için yeterince parlaktır. Sürekli akımla sorun o kadar basit değildir, çünkü
+gerilim dönüşümü kolay bir konu değildir ve örneğin 200 voltluk bir
+devrede bir kızdırma lambası uzun ve kırılgan bir filament içerir ve bunu küçük bir alana yerleştirmek zordur.
+
+Yıllar önce Ediswan Şirketi bu amaçla bir 'Focus' lambası üretti,
+filament kare bir ızgara şeklinde düzenlenmişti ve bu lamba yaklaşık 100 mumluk bir ışık verdi ve küçük bir oda için oldukça başarılıydı.
+Daha yakın zamanda Osram Şirketi koni şeklinde düzenlenmiş metal bir filamente sahip benzer bir lamba tanıttı ve bu lamba da küçük bir sınıf için yeterliydi. Sanırım Almanya'da yapılmıştı ve savaş sırasında neredeyse elde edilemiyordu. Osram Şirketi'nin şu anda bunu bu ülkede üretmeyi planladığını anlıyorum, ancak yazının yazıldığı zamana kadar
+henüz ortaya çıkmadı.
+
+Bu lambaların hiçbiri doğrudan bir kamu aydınlatma devresinde çalıştırıldığında gerçekten tatmin edici olarak kabul edilemez, çünkü şimdiye kadar _yoğunlaştırılmış_ bir ışık elde etmenin imkansız olduğu görülmüştür; 100 voltluk lambalar, elbette, 200 veya 250 için üretilenlerden daha üstündür, ancak hepsi fener amaçlıdır, uygun bir akım elde edilebildiğinde gerçekten iyi olan düşük voltajlı lambaların çok gerisindedir.
+
+POINTOLİT LAMBA.--Ediswan Şirketi tarafından üretilen bu lamba, gerçekte, çok tükenmiş bir vakum ampulünde tungsten elektrotlu minyatür bir arktır. Teknik bir açıklama yapmaya çalışmak bu kitabın kapsamının ötesinde olacaktır; eylemin çeşitli kablosuz vakum valfleri veya Coolidge X-ışını tüpüyle aynı prensibe dayandığını söylemek yeterli olacaktır.
+
+Bu lamba, kendisine verilen özel bir başlatma cihazına ihtiyaç duyar
+ve sıradan ark veya spot ışığına eşit olmayan ancak diğer herhangi bir aydınlatma
+formuyla iyi karşılaştırılabilir iyi, yoğun ve konsantre bir ışık verir. Yalnızca sürekli akımla kullanılabilir.
+
+NERNST LAMBASI.--Bu lamba şu anda bu ülkede neredeyse
+yoktur, yalnızca Almanya'da üretilmiştir. Ayrıca
+metal filaman lambalardaki son gelişmeler onu sıradan aydınlatma amaçları için neredeyse
+modası geçmiş hale getirdiğinden, bence
+bu ülkede bile hala üretilip üretilmediği çok şüphelidir ve bu nedenle kapsamlı bir
+açıklamada yer israf etmeyi önermiyorum.
+
+Lambanın, sıcakken elektrik akımına yarı iletken, ancak soğukken iletken olmayan bir veya daha fazla düz çubuktan veya refrakter malzemeden yapılmış filamandan oluştuğunu söylemek yeterli olacaktır. Başlamak için
+filament ısıtılmalıdır ve fener çalışması için sağlanan lambalarda
+bu genellikle akım geçmeye başlar başlamaz çıkarılabilen bir ispirto lambasıyla yapılır, çünkü
+filament bundan sonra otomatik olarak beyaz ısıda tutulur.
+
+Üç filamanlı bir Nernst lambası 1000 mum kadar ışık verir, ancak
+aşırı sıcaktır ve ışık oldukça dağınıktır. Filamentler de çok
+kırılgandır, bu nedenle lamba genel olarak pek tercih edilmemiştir; ancak
+diğer yandan çok az akım tüketir ve herhangi bir
+sıradan ev aydınlatma şebekesinden çalıştırılabilir, bu noktalar belirli
+durumlarda benimsenmesine yol açmıştır.
+
+ELEKTRİK ARK.--Şimdi optik fener çalışması için _ışığa_ geliyoruz, en
+parlak, en yoğun, en ucuz, çalışması en kolay, aslında, tüm erdemleri ve birkaç dezavantajı birleştiren aydınlatıcı,
+ancak elbette vazgeçilmez bir koşul gerektirir, yani. elektrik akımı
+üzerine serilir. Bu akım 70-250 veya daha yüksek herhangi bir voltajda olabilir; sürekli veya alternatif olabilir, ancak ilki tercih edilmelidir; ve
+en az 5 amperlik bir kablo ve büyük bir salon için 10 veya 12 amperlik bir kablo gerektirir.
+
+Fener amaçlı ark lambasının en basit biçimi, Şekil 26'da gösterildiği gibi {45} elle beslenen
+tiptir. Temel özellik, karbon çubuk çiftidir, cihazın geri kalanı, bunları yanarken 'beslemek' ve doğru konumlarında ve fenerin optik merkezinde doğru şekilde tutmak için mekanik ayarlamalardan oluşur. Elektrik arkı çok küçük ve yoğun bir ışık sağladığı için, merkezlemenin tam olması son derece önemlidir; ve bu nedenle, diğer aydınlatıcılarda gereksiz olan mekanik hareketler genellikle bunun için sağlanır. 
+
+[Resim: ŞEKİL 26.--Elle Beslenen Ark Lambası.]
+
+Ancak, optik ayarlamaların tüm sorusu, kullanılan aydınlatıcıya az çok uygulandığı için, gelecek bir bölüme bırakıldı.
+
+Resim, sürekli akım için düzenlenmiş bir lambayı göstermektedir, üst karbon, _pozitif_ tele bağlanması gereken, alttan (negatif) daha büyük ve çok az arkasındadır. Sürekli akım ark lambasından gelen ışık, esas olarak bu üst veya pozitif karbondan gelir, {46} bu karbon kullanıldığında 'krater' oluşturur ve bu düzenleme ışığı istenen yönde yayma etkisine sahiptir (Şekil 27).
+
+Pozitif karbon genellikle 'çekirdeklenmiş' tiptedir, yani daha yumuşak karbon çekirdeğiyle sağlanır, çünkü bu 'kraterleşme' eylemine yardımcı olur, negatif ise genellikle 'katı' olarak kullanılır, yani tamamen homojendir.
+
+Ark, ilk etapta karbonları sağlanan mekanik araçlarla bir an için birbirine dokundurarak ve sonra yaklaşık 1/8 inç olan çalışma mesafesine ayırarak 'vurulmalıdır'. Daha sonra yavaşça yanarken 'besleme' yoluyla o mesafede tutulmaları gerekir ve bu 'besleme' genellikle el ile yapılır,
+Şekil 26'da gösterilen lambada olduğu gibi, ancak daha sonra açıklanacağı gibi otomatik bir düzenlemeyle de yapılabilir.
+
+[Resim: Şekil 27.]
+
+Akım ark boyunca gerçekten _konveksiyon_ yoluyla taşınır veya başka bir deyişle, sürekli olarak pozitif karbondan negatife doğru akan beyaz sıcak karbon parçacıklarından oluşan bir köprü tarafından iletilir ve
+bu köprü akımı iletirken çok önemli bir
+_direnç_ oluşturur (aksi takdirde elbette ısınmazdı).
+
+Bu nedenle, belirli bir akımın sürdürülmesi için belirli bir potansiyel veya gerilim gereklidir ve bu potansiyel ark ne kadar uzunsa o kadar büyük olmalıdır
+ve ayrıca (doğru orantılı olmasa da) karbonlar ne kadar küçükse o kadar büyük olmalıdır.
+
+Ancak her şey en iyi oranda olduğunda, yani ark uzunluğu, karbonların boyutu ve geçen akım, ark lambası terminallerindeki gerekli potansiyel yaklaşık 45 volttur ve bu herhangi bir akım için sabit bir rakam olarak alınabilir. En iyi sonuçları verecek ark uzunluğu ayrıca {47} yaklaşık olarak 1/8 inç olarak alınabilir ve farklı akımlar için gerekli olan _değişken_ faktör kullanılan karbonların boyutlarını değiştirerek sağlanır.
+
+Ancak, 45 voltluk bir E.M.F.'nin bir ark lambasını çalıştırmak için yeterli olduğunu varsayma hatası yapılmamalıdır, çünkü pratikte minimum en az 65 volttur ve 100 veya hatta 200 volt avantajlıdır.
+
+Masum sahibinin 45 veya 50 voltluk bir dinamo taktığı, bunun yeterli olduğuna dair dikkatsizce yazılmış bir ifadeye bağlı olarak birden fazla özel üretim tesisiyle karşılaştım.
+
+_Neden_ daha yüksek bir E.M.F.'nin gerekli olduğu basitçe açıklanabilir.
+
+Örneğin, fener çalışması için kullanılan ve diyelim ki 10 amper tüketen ortalama bir elle beslenen ark lambasını ele alalım.
+
+Ayrıca, ark lambasının gerçek terminallerindeki gerekli E.M.F.'nin 45 voltta sabit olarak kabul edilebileceği yönündeki yukarıda verilen ifadeyi de bir gerçek olarak ele alalım ve 40. sayfada verilen denkleme geri dönersek, C = E / R ve bu rakamları yerine koyarsak şunu elde ederiz:
+
+Akım (10 amper) = E (45 volt) / R (Ark Direnci).
+
+Dolayısıyla, bu kesin koşullar altında direncin veya geri E.M.F.'nin Arkın, tabir edildiği gibi, 4,5 ohm'a eşit olması gerekir. Şimdi, karbonlar yanarken ve ark uzarken lambanın birkaç saniye gözetimsiz bırakıldığını varsayalım; çok kısa bir süre sonra, karbonlar arasındaki mesafenin artması nedeniyle direnç artacak ve 4,5 yerine 5 ohm olduğunu varsayacağız.
+
+Geçen akım şimdi sadece 45 / 5 = 9 amper olacaktır.
+
+Başka bir deyişle, arkın çok hafif bir şekilde uzaması akımı ve dolayısıyla ışığı %10 oranında azaltmıştır.
+
+Sadece bu değil, normal uzunlukta bir arkı korumak için 45 volta ihtiyaç duyulduğu için, daha uzun bir arkı korumak için yeterli değildir ve pratikte, bu koşullar altında bir arkı birkaç saniye bile kendi haline bırakmanın etkisi, öğretim görevlisinin canını sıkacak ve operatörün kafasını karıştıracak şekilde _sönmesidir_.
+
+Toplam E.M.F.'ye sahip bir ark lambasını çalıştırmak _mümkündür_. 45 voltluk
+tüm dikkatini ona vererek ve elini asla besleme kolundan çekmeden; ancak pratikte herhangi bir deneyimi olan hiç kimse bunu denemez. Ark, sergi sırasında neredeyse kesinlikle birkaç kez sönerdi.
+
+Şimdi, 10 amper tüketen ancak 200 voltluk bir
+kaynakla çalışan benzer bir ark lambasının örneğini ele alalım.
+
+C = E / R denklemimiz o zaman açıkça şu hale gelmelidir
+
+C (10 amper) = E (200 volt) / Toplam Direnç (20 ohm).
+
+Arkın kendisinin direnci öncekiyle aynı olduğundan, yani 4,5 ohm olduğundan, 20 ohm'luk toplamı oluşturmak için seri olarak 15,5 ohm'a eşit _ekstra_ sabit bir direnç koymak açıkça gereklidir.
+
+_Şimdi_ 4,5 ohm'luk direnç tekrar 5 ohm olana kadar arkı gözetimsiz bırakın; tek etkisi, akımımızın 10 amperde kalmak yerine 200 / 20,5 veya 9,8'e yakın hale gelmesidir, bu fark algılanamaz.
+
+Hepsi bu kadar değil, çünkü elektrik biliminde temel bir kuraldır ki, herhangi bir devrenin toplam E.M.F.'si, direnç dağılımına orantılı olarak o devre boyunca dağılır.
+
+Başka bir deyişle, 200 voltluk orijinal E.M.F.'miz, tabiri caizse, ark için 45 voltluk bir E.M.F. ayıracak şekilde dağılırken, bunun direnci 4,5 ohm'da kalır, ancak bu direnç doğrudan artarsa, ark lambası terminallerindeki E.M.F. otomatik olarak yükselir ve bu nedenle akımdaki gerçek azalma yukarıda alıntılanan rakamlardan bile daha azdır. {49}
+
+Ark 'kopma' veya sönme eğiliminde olursa, üzerindeki direnç
+otomatik olarak sonsuz hale gelir ve o anda _tüm_ 200 volt
+oluşumu önlemek için kullanılabilir.
+
+Bu koşullar altında, operatör arkı güvenli bir şekilde
+bir seferde dakikalarca terk edebilir. Deneysel çalışma yaparken sıklıkla
+feneri bıraktım, ekrana yürüdüm, sonuçları bir arkadaşımla tartıştım
+ve geri yürüdüm ve arkta herhangi bir kötü davranış belirtisi görülmedi.
+
+[Resim: Şekil 28.--Direnç.]
+
+Uygulamada, 100 volttan 250 volta kadar herhangi bir akım, uygun bir dirençle fener çalışması için
+tatmin edici olarak kabul edilebilir. Bundan daha azı
+arkı oldukça sık beslemeyi gerektirir ve daha fazlası, operatör yanlışlıkla canlı bir tele dokunursa kötü bir şoka neden olabilir, ancak
+500 volta kadar bir akımda bir ark lambası çalıştırdım.
+
+_Direnç_ genellikle yüksek dirençli uygun uzunlukta bir telden oluşur (Demir, Alman Gümüşü veya Platinoid, Eureka, Manganin, Beacon, vb. olarak bilinen alaşımlar en yaygın kullanılanlardır) bir çerçeve üzerine spiraller halinde sarılır ve genellikle ayarlanabilir olarak tedarik edilir (Şekil 28), böylece istenildiği gibi daha fazla veya daha az akım kullanılabilir. Bu dirençler kullanım sırasında oldukça ısınır ve bunların ahşap işçiliğini, vb. yakmayacakları bir yere yerleştirilmelerine dikkat edilmelidir ve fenerin bir fikstür olduğu durumlarda direncin bir kez ve herkes için bir duvara cıvatalanması iyi bir plandır. Direnç, akım içinden geçtiği sürece devrenin herhangi bir yerine yerleştirilebilir, ardından ark lambasından (veya tam tersi) ve besleme ana hattının diğer {50} kutbuna geri döner; nereden geldiğinin en ufak bir önemi yoktur.
+
+Ancak, besleme ana hattının bir kutbunun _topraklandığı_ durumlarda, direnci 'canlı' tarafa yerleştirmek iyi bir şeydir, çünkü bu, ark lambasını çalışırken toprak potansiyelinin 45 volt içinde tutar, operatörün bir terminale veya kabloya dokunması durumunda rahat etmesini sağlar, ancak sıradan bir aydınlatma ana hattında her durumda tehlikeli bir şok korkusu yoktur.
+
+_Gereken akım miktarı_ elbette levhanın boyutuna, koridorun uzunluğuna ve slaytların yoğunluğuna veya yoğunluğuna bağlıdır; ancak pratikte genellikle sürekli akımlı bir ark lambasından gelen verimli ışığın amper başına 100 mum olduğu ve bu nedenle 10 amperlik bir arkın 1000 mum vereceği kabul edilir. Bu, tüm sıradan salonlar ve slaytlar için yeterlidir, ancak bunların çok yoğun olduğu yerlerde, örneğin Lumiere üç renkli işlemde olduğu gibi, 20 veya 25 amper kadar gerekebilir.
+
+Bu durumlarda slaytları serin tutmak için bazı özel önlemler alınmalıdır, aksi takdirde sonuç felaket olabilir, ancak bu daha sonraki bir bölümde ele alınacak bir sorudur. 10 amperlik bir akım tüm sıradan slaytlar için oldukça güvenlidir ve büyük salonlarda kullanılan normal akım olarak alınabilir, ancak kablolamanın düzenlenmesinde en az 12 veya hatta 15 amperlik bir şart koşmak daha iyidir, özellikle de ark 'vurulduğunda' anında akımda mutlaka anlık bir artış olması gerektiğinden.
+
+ELLE BESLENEN ARK LAMBALARININ ÇEŞİTLERİ.-- Şekil 26'da gösterilen elle beslenen ark lambasının deseni, aynı genel tasarıma sahip birçok lambanın tipik bir örneğidir ve tasarımın kendisinin temelde farklı olduğu başka lambalar da vardır.
+Bunlardan birkaç firma tarafından yapılan 'Makas' ark lambası, sadeliği ve ucuzluğu nedeniyle anılmayı hak ediyor. Adından da anlaşılacağı gibi, mekanizma bir makas çiftine benziyor, karbonlar birbirine menteşelenmiş bir çift kolun uçlarına tutturulmuş {51} (Şekil 29). Bu lamba merkezleme
+hareketlerinde genellikle vazgeçilir, ark bir
+limit ışığı jetinde olduğu gibi bir
+tepsi pimine kelepçelenir. Bu, elbette, o kadar
+kullanışlı değildir ve bu desen ark lambasının bir diğer dezavantajı,
+besleme işleminin karbonların konumunu ve açısını kademeli olarak değiştirmesidir.
+Aslında, lambanın en büyük meziyeti ucuzluğudur ve masraf bir konu olduğunda, kesinlikle dikkate alınmalıdır.
+
+[Resim: ŞEKİL 29.--'Makas' Ark Lambası.]
+
+Bahsedilmeye değer bir diğer ark lambası da yine çok yerinde bir şekilde seçilmiş bir isim olan 'Paralel'dir, çünkü iki karbon birbirine tam olarak paraleldir veya çok hafif eğimlidir. İlk durumda ark, karbon çubuklarının uçlarına bir parça metal veya
+karbonla dokunarak 'vurulmalıdır'. Bu lambanın gerçek manipülasyonu hakkında çok az pratik deneyimim oldu, ancak bunun hakkında iyi konuşulduğunu duydum, ancak inanıyorum ki
+şimdiye kadar sadece 5 amper veya buna yakın akımlar için yapılmıştır.
+
+Göz ardı edilmemesi gereken bir diğer tür ise 'Dik açılı' desendir
+(Şekil 30), yine kendi kendini tanımlayan bir isimdir. Yatay karbon pozitiftir ve dikey {52} negatiftir ve bu lamba yine birkaç üretici tarafından biraz farklı biçimlerde yapılmıştır.
+
+Bu desen lamba, benim deneyimime göre _küçük_ akımlar için en iyisidir,
+diyelim ki, 5 amper veya buna yakın, ancak 10 amper veya daha fazla akımlar için Şekil 26'dan daha düşüktür. Bu son açıklama belki de _alternatif_ akımlar için pek geçerli değildir,
+ancak bunları henüz tartışmadım. Bu kısa ark lambası kategorisini, _kapalı_ desene atıfta bulunmadan sonlandıramam; bunların arasında 'Westminster' muhtemelen en iyi bilineni ve en popüler olanıdır (Şekil 31).
+
+[Resim: Şekil 30.--'Dik açılı' Ark Lambası. ]
+
+Bu dik açılı tipte bir lambadır, ancak ark hava geçirmez olmayan ancak kısmen hava geçirmez olan silindirik bir cam bölmede yanar. Birkaç dakika yandıktan sonra bu bölmedeki oksijen tükenir ve yerini karbonik asit gazı ve diğer yanma ürünleri alır, bundan sonra karbonlar çok daha yavaş yanar ve bu nedenle çok daha uzun aralıklarla beslenmeleri gerekir.
+
+Bu lamba yine esas olarak 5 amperi aşmayan küçük akımlar için yapılmıştır (ve bu nedenle herhangi bir sıradan lamba soketinden kullanılabilir) ve orta büyüklükteki bir salon için genel olarak {53} bildiğim herhangi bir lamba kadar ucuz, verimli ve basittir. Gerektiğinde mekanik merkezleme hareketleriyle veya hareketsiz olarak beslenebilir ve genellikle kullanılacağı belirli akım için kendi direnciyle gönderilir, böylece yalnızca en yakın lamba soketine bağlanması gerekir ve kullanıma hazırdır.
+
+[Resim: ŞEK. 31.--'Westminster' Ark Lambası.]
+
+12 fitlik bir levhadan daha büyük bir şey için veya diyelim ki 40 fitten daha büyük bir mesafede çalışmak için yeterli değildir, ancak bu sınırlar dahilinde
+lamba ve aslında _herhangi bir_ iyi 5 amperlik ark lambası oldukça
+tatmin edici bulunacaktır ve özel bir kablo koyma masrafından tasarruf sağlayacaktır.
+
+OTOMATİK ARK LAMBALARI.--Beslemenin otomatik olarak yapıldığı fener çalışmaları için ark lambaları da yapılır. Elle beslenen lambalar gibi, tam tasarımda farklılık gösterirler, ancak hepsi veya hemen hemen hepsi, karbonların yaylar veya ağırlıklar aracılığıyla bir araya getirilmesi ve bir elektromıknatıs sistemi tarafından kontrol edilen bir tür 'fren'in {54} hareketi kontrol etmesi için tasarlanmıştır. Karbonlar
+yakıldıkça ark uzar, akım zayıflar,
+elektro-mıknatıslar tutuşlarını kaybeder ve karbonlar artan akım tekrar fren yapana kadar birlikte hareket eder. Bu lambaların bazıları
+sadece 'yarı otomatik'tir, yani arkın elle vurulması gerekir,
+diğerleri ise bu işlemi otomatik olarak gerçekleştirir, genellikle ark vurulduktan sonra karbonları doğru miktarda geri çeken
+ek bir mıknatısla.
+
+Fenerci olmak isteyenlere açık sözlü tavsiyem, bu lambaları olduğu gibi bırakmalarıdır.
+Bazıları bir noktaya kadar tatmin edicidir, ancak hepsi 'zıplamaya' meyillidir ve genel olarak elle beslenen tipin
+tercih edilmesi gerektiğini düşünüyorum.
+
+ALTERNATİF AKIMLARDA ARK LAMBALARI.--Alternatif akım, ark lambalarıyla fener çalışması için sürekli akım kadar iyi değildir: amper başına ışık o kadar iyi değildir, ışığın karbonların etrafında dolaşma gibi rahatsız edici bir alışkanlığı vardır ve her zaman hafif bir 'vızıltı' vardır.
+
+Bu dezavantajların toplamı, uygun düzenlemeler yapıldığı sürece çok ciddi bir şey değildir ve alternatif devrelerde ark lambalarını o kadar iyi sonuçlarla sık sık manipüle ettim ki profesyonel öğretim görevlileri ilk başta devrenin gerçekten _alternatif_ olduğuna inanmayı reddettiler.
+
+Alternatif akımla sabit bir ışık elde etmenin imkansız olduğu sık sık belirtildiği için, onların şaşkınlığını anlayabiliyorum ve söz konusu ifadeyi de anlayabiliyorum, çünkü sorun genellikle tamamen yanlış yollarla ele alınıyor.
+
+Alternatif akımlar için ark lambalarının karbonları _dikey_ olacak şekilde düzenlenmesi gerektiği neredeyse her zaman belirtilir ve birçok üretici aslında lambalarını buna izin verecek şekilde yapar.
+
+Bu koşullar altında sabit bir ışık elde etmek _imkansızdır_ ve bunu deneyen
+herkese acıyorum; ancak bunun en iyi çalışma yöntemi olduğu ifadesi o kadar sık ​​tekrarlandı ki, sanki kabul edilmiş gibi görünüyor.
+
+En iyi düzenleme (en azından benim elimde) karbonları sürekli akımda olduğu gibi eğmek ve ayrıca üst karbonun çekirdekli, alt karbonun ise dolu olması, ancak ana sürekli olsaydı doğru olacak olandan daha büyük bir alt karbon kullanmaktır.
+
+Ayrıca üst karbon, D.C.'de olduğu gibi _tam_ geride olmamalıdır. ;
+İki karbonun ön kenarlarının pratik olarak aynı hizada olması yaklaşık olarak doğrudur, ancak en sabit ışığı elde etmek için _tam_ konum dikkatlice ayarlanmalıdır ve ufak bir değişikliğin önemli bir
+fark yarattığı görülecektir.
+
+Ayrıca zayıf bir elektro-mıknatıs veya eşdeğerinin, etkisiyle arkı önde tutma eğiliminde olacak şekilde düzenlenmesi de büyük bir yardımdır.
+Bazı lambalarda bu sağlanır, çünkü sürekli bir akımla bile oldukça zararsızdır ve her şeyden önce faydalıdır; ancak değilse, herhangi bir yetenekli
+makinist, gereken her şeyi yapmak için yeterli manyetik etkiye sahip, tek bir tur kalın bakır telden oluşan bir 'İndüksiyon Halkası'nı kolayca takabilir (Şekil 32).
+
+Bu halka arkın kendisiyle seri olarak bağlanmalıdır ve içinden geçen akım arkla senkronize olarak otomatik olarak tersine döndüğünden, etkisi arkı her zaman aynı yönde saptırmaktır ve elbette sapmanın geriye değil ileriye doğru olması için kablolanması gerekir. Benim de benimsediğim düzenleme tam olarak budur ve arkın gezinmesinde hiçbir zorluk yaşamam.
+
+52. ve 53. sayfalarda açıklandığı gibi dik açılı ark lambaları da A.C. şebekelerinde çok etkilidir ve sıklıkla bu lambalar gerekli amaç için elektromıknatıslarla donatılmıştır. Alternatif akımın 'vızıltısı' tamamen ortadan kaldırılamaz, ancak voltajı mümkün olduğunca azaltarak en aza indirilebilir.
+
+Daha önce de söylendiği gibi, A.C. voltajın dönüştürülmesine kolayca uygundur ve pratikte 90-100 ila {56} ideal olduğunu görüyorum. Bundan fazlası
+gürültülü olma eğilimindedir ve daha azı dengesiz bir arkla sonuçlanma eğilimindedir.
+
+Bu nedenle, uzun deneyimlerimden önerdiğim düzenleme, E.M.F.'yi 100 volta veya buna yakın bir değere düşürmek için bir transformatör kullanmak ve
+daha sonra normal şekilde bir dirençle çalışmaktır (eğer orijinal akım 100 voltsa, elbette _hiçbir_ transformatöre gerek yoktur) ve bir indüksiyon halkası veya elektromıknatısla donatılmış düzgün bir şekilde inşa edilmiş bir ark lambasıyla. Daha sonra iyi, sabit ve
+oldukça sessiz bir ışık elde etmekte hiçbir zorluk yaşanmamalıdır.
+
+[Resim: ŞEK. 32.--İndüksiyon Halkalı Ark Lambası.]
+
+Geriye kalan herhangi bir küçük 'vızıltı', fenerin tamamını eyerci keçesi bloğunun üzerine yerleştirerek önemli ölçüde susturulabilir, ancak
+pratikte bunu sıradan akımlarda hiç gerekli bulmadım, ancak 'periyodikliğin' çok yüksek olduğu birkaç anormal devre diğerlerinden daha gürültülüdür.
+
+[Resim: ŞEKİL 33.--BİR FENERİN OPTİK SİSTEMİ.]
+
+{57}
+
+Aşağıdaki tablo, gerçek uygulamada en iyi bulduğum çeşitli akımlar için karbonların boyutlarını ve ayrıntılarını verir:
+
+SÜREKLİ AKIM
+
+Amper. + Karbon _Çekirdek_. - Karbon _Katı_.
+
+7-10 12 mm. 7 mm. 10-15 13 ,, 8 ,,
+15-20 16 ,, 10 ,,
+
+ALTERNATİF AKIM
+
+Amper. Üst Karbon _Çekirdeklenmiş_. Alt Karbon _Katı_.
+
+7-10 12 mm. 10 mm.
+10-15 13 ,, 11 ,,
+15-20 16 ,, 13 ,,
+
+* * * * *
+
+BÖLÜM VII
+
+BİR FENERİN OPTİK SİSTEMİ
+
+[Resim: ŞEKİL 33A.--Fenerin Optik Sistemi.]
+
+Daha önce belirtildiği gibi, bir Optik Fenerin temel parçaları, arkadan öne doğru şu şekildedir: (1) Aydınlatıcı; (2) kondansatör; (3)
+slayt ve slayt aşaması; (4) eklenmesi gereken objektif, (5) bütünü bir arada tutan gövde veya çerçeve. Şekil 33, tüm optik sistemin diyagramatik bir gösterimidir ve Şekil 33A, tüm çeşitli parçaları _yerinde_ gösterir: A, Şekil 33 {58}'de bir ark lambası olarak gösterilen aydınlatıcı, B kondansatör, C kayar sahne ve D objektif. Tabiri caizse, tüm enstrümanın temeli elbette slayttır, bu ülkede yapıldığı haliyle 3-1/4 inç çapında bir cam kareden oluşur, slaytın kendisi bağlama vb. nedeniyle bundan biraz daha küçüktür, hesaplamalar yaparken genellikle 3 inçlik bir daire olarak alınır. Slaytlar genellikle kağıt veya bez şeritleriyle iki kareyi birbirine bağlayarak yapılır, bunlardan birinde resmi oluşturan fotoğraf filmi veya resim bulunur, diğeri ise slayt yüzeyinin üzerine onu korumak için yerleştirilen sade bir kapak camıdır ve ikisinin arasına istenen boyut veya şekilde bir açıklığa sahip bir kağıt maske yerleştirilir, yukarıda belirtilen 3 inçlik daireninki genellikle bu açıklık için standart veya normal boyut olarak alınır. Önceki bölümlerde tartışılan çeşitli yöntemlerden biriyle aydınlatılan slayt, istenen resim boyutuna ve fener ile ekran arasındaki mesafeye göre seçilmesi gereken objektif tarafından ekrana odaklanır.
+
+Bu noktalara daha sonra değinilecek ve ayrıca çeşitli objektif tipleri ve bunların avantajları hakkında ayrıntılar verilecek; ancak burada şunu söyleyebiliriz ki, bir fener objektifi genellikle 'odak' uzunluğuna göre slayttan 6 inç ila 18 inç uzaklıkta bir raf odaklama sistemine monte edilmiş 2 inç veya 2-1/2 inç çapındaki merceklerin bir kombinasyonundan oluşur.
+Slaydımız 3 ila 3-1/4 inç çapında olduğundan, buradan yayılan tüm ışığın, objektifin üzerine _yakınsamadan_ geçmesinin mümkün olmadığı açıktır ve bunu yapmak kondansatörün işlevidir. Aşağıdaki iki diyagram, Şekil 34 ve 35, konuyu netleştirecektir.
+
+S, 3 inçlik net çaplı cam slaydımızı, R, parlak veya aydınlatıcıyı ve L, burada basitlik adına tek bir mercek olarak gösterilen objektifimizi temsil eder.
+
+Slayt, {59} R'den yayılan ışıkla iyi aydınlatılmıştır, ancak bu ışığın büyük kısmının asla mercekten geçmeyeceği ve aslında bu koşullar altında slaydın yalnızca tam merkezinin ekranda görüneceği açıktır.
+
+[Resim: ŞEK. 34.--Yoğuşturucusuz Optik Sistem.]
+
+[Resim: ŞEK. 35.--Yoğuşturucunun Eylemi.]
+
+Açıkça istenen şey bu dış ışınları _birleştirmek_ veya başka bir deyişle onları objektiften de geçecek şekilde bükmektir ve bu, Şekil 35'te gösterildiği gibi yoğunlaştırıcının işlevidir. Yoğunlaştırıcı burada da tek bir mercekle temsil edilmiştir, ancak pratikte hem optik hem de mekanik nedenlerle değişmez bir şekilde iki veya hatta üç mercekten yapılır. Yukarıdaki diyagramlardan, yoğunlaştırıcının slaydın kendisinden biraz daha büyük çaplı olması gerektiği ve sıradan fener çalışmaları için yoğunlaştırıcıların genellikle 4 inç ila 4-1/2 inç çapında olduğu açıktır. Yoğunlaştırıcı slayda çok yakın yerleştirilirse önceki boyut {60} yeterli olacaktır, ancak özellikle aydınlatıcı güçlü bir ışık kaynağıysa, nem yoğunlaşmasının kolayca buharlaşıp kaçmasına izin vermek için genellikle biraz ara boşluk bırakılması önerilir. Bu nedenle uzun menzilli çalışmalar için fenerler (ki bu elbette iyi bir aydınlatma gerektirir) genellikle 4-1/2 inç çapında kondansatörlerle yapılır. Günümüzdeki fener kondansatörleri genellikle Şekil 36'da gösterilen iki formdan birini alır, ancak kondansatörün odak noktasının objektifin odak noktasıyla kesin bir ilişkisi olması gerektiğinden kesin eğri üreticiye bırakılmalıdır. Ancak, hepsinden daha yaygın olan E'nin tasarımını ele alırsak, objektif oldukça kısa bir odak noktasına sahip olmadıkça veya başka bir deyişle, bir yandan aydınlatıcının diğer yandan objektifin mesafesi yaklaşık olarak eşit olmadıkça iki mercek tam olarak aynı olmamalıdır. Fener uzun menzilli çalışmalar için tasarlanmışsa, yani uzun odaklı bir objektifle donatılmışsa, kondansatörün ön bileşeni de arkadakinden daha uzun odaklı (yani daha sığ bir eğriyle) inşa edilmelidir ve üreticilerin bu konuda ne kadar dikkatsiz oldukları şaşırtıcıdır. Eğer, genellikle olduğu gibi, fener farklı odaklara sahip birkaç objektifle donatılmışsa, genellikle alternatif kondansatörler de tedarik etmek veya en azından değiştirilebilir bir ön bileşen tedarik etmek gerekir.
+
+[Resim: ŞEKİL 36.--Kondansatörlerin Şekilleri.]
+
+Eğer tüm kondansatör odakta çok uzunsa, ışık kaybolur; eğer çok kısaysa, ortada veya kenarlarda her zaman koyu bir leke olduğundan, düzgün bir disk elde etmek imkansızdır.
+
+Kondansatörün montajı da farklı üreticilere göre değişir; ancak her durumda, özellikle arka bileşenin aşırı derecede ısındığı ve bu nedenle camın hücresinde _gevşek_ olarak monte edilmesi gerektiği unutulmamalıdır, aksi takdirde çatlama tehlikesi yüksektir. Ayrıca, bileşenler arasındaki boşluk, genellikle bir fener sergisinin başlangıcında cama biriken nemin kaçmasını sağlamak için iyi havalandırılmalı ve gerçek ders başlamadan önce bu nemden kurtulmalıdır.
+
+Her ne kadar tüm özen gösterilse de, bir kondansatörün arka bileşeni bazen çatlayacaktır,
+ancak böyle bir kaza nadir görülür; ve bu nedenle profesyonel bir operatör genellikle kendisine yedek bir lens sağlayacaktır ve
+kondansatör kolayca ve mümkün olduğunca az gecikmeyle değiştirilebilecek şekilde yapılmalıdır.
+
+Bu ülkede üretilen kondansatör lensler genellikle 'İngiliz Tacı' olarak bilinen camdan öğütülür ve nispeten nadiren çatlar; ancak çok hafif yeşil renktedirler. Öte yandan Fransız kondansatörleri daha beyazdır,
+ancak cam daha kırılgandır ve kırılma daha yaygın bir durumdur.
+Fransız çeşidi (savaştan önce) daha ucuzdur ve genellikle
+daha ucuz aletlerde bulunur. Daha pahalı fenerler genellikle
+İngiliz kondansatörleriyle donatılır, çünkü yeşil renk tonu neredeyse fark edilmez ve
+daha fazla güvenlik açısından avantajı oldukça önemlidir.
+
+SLAYT TAŞIYICISI VE SLAYT SAHNESİ.--Fenerin optik sistemini arkadan öne doğru ele alırsak, şimdi slayt, slayt
+taşıyıcısı ve slayt sahnesine geliyoruz. Slaytın kendisi daha önce tanımlanmıştır ve
+taşıyıcı, genellikle tahtadan yapılmış, resimleri kolayca değiştirme amacıyla tasarlanmış ve
+sırasıyla fenerin sahnesine uyan mekanik bir düzenektir. Slaytlar artık her zaman standart bir boyutta yapılıyorsa, slayt taşıyıcısının neden fenerin içine yerleştirilip sahneyi oluşturmaması gerektiği sorulabilir; ancak cevap, ilk olarak, farklı boyuttaki kaydıraklarla, _yani_ Amerikan veya Kıtasal,
+_karşılaşılabileceğidir, {62} ve ayrıca piyasada çeşitli mekanik kaydıraklar vardır--örneğin, kromotroplar veya bilimsel modeller, örneğin gezegensel gövdelerin hareketlerini göstermek için yapılmış olanlar--ve bu kaydıraklar kalıcı olarak bir taşıyıcıya yerleştirilemeyen ahşap çerçevelere monte edilmiştir. Taşıyıcının en yaygın biçimi, 'Çift Kayar' deseni olarak bilinen ve kaydırak için iki açıklığı olan bir çerçeveden ve bunun içinden kaydığı ve fenerin sahnesine uyan bir dış çerçeveden oluşan modeldir.
+
+[Resim: ŞEK. 37.--Çift Kayar Taşıyıcı.]
+
+Görüleceği üzere bu taşıyıcı, bir sonraki resmin ikinci açıklıkta, öncekinin yansıtıldığı sırada yerleştirilmesine
+izin verir ve öğretim görevlisinin bir sinyaliyle, iç çerçeve dış çerçeveden düzgünce kayar ve slaytlar böylece değişir. Bu taşıyıcı basit,
+ucuz ve hareketinde sessizdir; tek dezavantajı, her alternatif slaydın fenerin zıt taraflarından yerleştirilmesi gerektiğidir ve operatör oldukça uzun değilse bu neredeyse bir asistan gerektirir. Bununla birlikte, taşıyıcı en popüler olanıdır, diğer avantajları, özellikle fiyat açısından, çok büyüktür. Genellikle, sürgü merkezi konumdan dışarı hareket ettikçe, hızlı çıkarmayı kolaylaştırmak için
+oluğunda otomatik olarak yükselecek şekilde inşa edilir.
+
+Haklı olarak popüler olan bir diğer desen, {63} 'Beard'ın Çözünen Taşıyıcısı' olarak bilinen ve Şekil 38'de gösterilendir. Bu yaratıcı taşıyıcıda, tüm
+slaytlar aynı taraftan yerleştirilir, yaklaşan slayt selefinin
+_önüne_ itilir ve bu nedenle biraz odak dışı olduğundan
+ekranda bulanıklık oluşturur.
+
+Hareket, çıkıntılı bir kulpu iterek gerçekleştirilir ve bu
+geri çekildiğinde,
+tamamlanmış olan slayt onunla birlikte gelir ve
+hareketin
+tamamlanması, yeni slaydı doğru
+konumuna ve odakta olana kadar geriye doğru bastırır.
+
+[Resim: Şekil 38.--Beard'ın Çözünen Taşıyıcısı.]
+
+Tüm eylem kulağa geldiğinden daha basittir ve değiştirme işlemi sırasında ekrandaki görüntünün geçici olarak bulanıklaşmasının bir nebze 'Çözünen Görünümler' etkisi vermesi ve dolayısıyla 'Çözünen Taşıyıcı' adını alması beklenir.
+
+Bu cihaz 'Çift Kayar' modelinin üç katı fiyata sahiptir,
+ancak yalnızca bir taraftan çalıştırılması kesin bir avantajdır,
+ancak diğer yandan (çok dikkatli olunmadığı sürece) 'Çift Kayar' tipi kadar sessiz çalışmaz.
+
+Bu taşıyıcının bir başka modifikasyonu, onu tanınan 'yabancı' slayt boyutlarından herhangi birini alacak şekilde uyarlar, böylece örneğin İngiliz üretimi bir koleksiyonda birkaç Amerikan slaytla karşılaşılırsa, taşıyıcıyı değiştirmeye gerek kalmaz. {64}
+
+Piyasada, özellikle
+tanımlamaya gerek olmayan başka taşıyıcı çeşitleri de vardır, örneğin, bir perdenin yukarı doğru kıvrılması etkisini vermek için rulo perdelerle donatılmış taşıyıcılar, yirmi dört veya daha fazla slaydı tutup bunları dönüşümlü olarak sergilemek için dergi taşıyıcıları ve saymakla bitmeyecek kadar çok sayıda başka desenler. Bunlar arasında okuyucunun kendisi karar vermelidir, ancak genel olarak konuşursak, bir taşıyıcıda _basitlik_ aranması gereken en önemli noktadır ve ne kadar yaratıcı olursa olsun
+karmaşıklıklardan kaçınılmalıdır.
+
+[Resim: ŞEKİL 39.--Merceğin Odaklama Eylemi.]
+
+Fener sahnesi de dikkate alınmalıdır, ancak bunu fenerin mekanik yapısının bir parçası olarak tartışmak daha iyi olacaktır.
+
+AMAÇ, bir fenerin gerçekten en hayati parçasıdır, çünkü resmin tanımı neredeyse tamamen bu merceğin mükemmelliğine veya mükemmelliğine bağlıdır. Bu, objektifin nispeten küçük fener slaydının büyük ölçüde büyütülmüş bir görüntüsünü uzaktaki ekrana yansıtması gerektiği ve alıcının bu öğeden ziyade neredeyse her yerde tasarruf etmesi şiddetle tavsiye edildiğinde hemen anlaşılacaktır.
+
+Bir merceğin görüntüyü odaklama eylemi belki de en iyi şekilde basit bir diyagramla (Şekil 39) açıklanabilir; burada, nesnenin herhangi bir noktasından çıkan tüm ışınların (mercek odakta olduğunda) görüntüdeki belirli bir noktaya yeniden yakınsadığı ve resmin mükemmelliğinin merceğin bu işlevi doğru bir şekilde yerine getirmesine bağlı olduğu görülecektir. {65}
+
+Kusurlar başlıca iki tanedir, yani sırasıyla kromatik ve küresel sapma olarak bilinenler. Kromatik sapma, basitçe, orijinal beyaz ışık huzmesini oluşturan tüm renklerin eşit şekilde kırılmaması veya birleşmemesi ve bu nedenle aynı
+noktada (iyi bilinen prizma veya parlaklık etkisi) tekrar bir araya gelmemesi ve resimdeki çeşitli ayrıntıların kenarlarındaki renkli saçaklarla kendini göstermesi anlamına gelir.
+
+[Resim: ŞEK. 40.--Akromatik Mercek. ]
+
+Küresel sapma ile, bir merceğin merkezine düşen ışığın, marjinal ışınlarla tam olarak aynı noktada odaklanmaması ve genel bir tanımlama eksikliğinin, genellikle görüntüde bir 'düzlük' eksikliğiyle birlikte ortaya çıkması, yani resmin kenarlarının merkezle aynı anda odaklanmaması kastedilmektedir.
+
+Kromatik sapma, Şekil 40'ta olduğu gibi, sırasıyla taç ve çakmak taşı camından iki merceği birbirine yapıştırarak yapılan akromatik veya bileşik bir mercek kullanılarak kolayca tedavi edilebilir.
+
+Çakmak taşı cam bileşeninin kendi başına bir _içbükey_ mercek olduğu ve bu nedenle dışbükey taç merceği kısmen veya tamamen nötrleştirdiği görülecektir.
+Çakmak taşı camı, taç camından hem daha büyük dağıtıcı güce hem de daha büyük kırılma gücüne sahiptir, ancak neyse ki aynı _derecede_ değildir; dolayısıyla bu şekilde yapılmış ve eğrileri dikkatlice işlenmiş bir bileşik mercek, çok önemli bir kırılma veya 'odaklama' gücünü korurken kromatik etkisini tamamen nötrleştirebilir ve bu türdeki basit akromatik
+objektifler oldukça ucuzdur.
+
+Bilimsel gösteriler için tasarlanan fenerlerde, slaytların basit projeksiyonundan farklı olarak, bu desendeki mercekler çok sık kullanılır, çünkü gerektiğinde ikincisini makul derecede iyi yansıtırlar ve ekranda deneylerin veya cihazların gösterilmesi için burada tartışılması gerekmeyen avantajlara sahiptirler.
+
+Çok uzun odaklı mercekler için de bazen kullanılırlar, çünkü küresel sapmadan kaynaklanan sorun uzun odaklı merceklerde kısa odaklı merceklerden çok daha az belirgindir ve masraf farkı ilk durumda ikincisinden çok daha fazladır. Ancak, orta büyüklükteki salonlarda kullanılan kısa odaklı mercekler için bunlar yeterli değildir ve neredeyse evrensel olarak kullanılan mercek türü 'Petzval' kombinasyonu olarak bilinir (Şekil 41).
+
+[Resim: Şekil 41.--Petzval Kombinasyonu.]
+
+Bu mercek aslında iki akromatik kombinasyondan oluşur, öndeki çift birbirine yapıştırılmış ve arkadakinin arasında bir hava boşluğu vardır.
+Birleşim, bir çiftin küresel sapmasının diğerininkini nötrleştirecek şekilde tasarlanmıştır ve sonuç hem kromatik hem de küresel sapma için düzeltilmiş bir mercektir veya olmalıdır.
+
+Ancak bu mercekler sonuçlarının mükemmelliği açısından çok farklılık gösterir ve şu anda genellikle Fransa'dan toplu olarak ithal edildikleri için, müşterinin kabulden önce kendi özel fenerinin gösterilmesinde ısrar etmesi yerinde olur.
+
+Bir merceğin büyütme gücü, 'odak' değerinin ekrandan uzaklığıyla çarpılmasına bağlıdır ve basit bir mercek durumunda odak, bilinen 'yakma camı' deneyi ile kolayca belirlenir, yani
+güneşin bir görüntüsünü bir kağıt parçasına odaklayarak ve merceğin en yoğun noktayı üretmek için
+uzak olması gereken mesafeyi doğru bir şekilde ölçerek.
+
+Uygulamada, uzak bir pencereyi veya başka bir ışıklı nesneyi kağıda odaklamak yeterince doğrudur, bu yöntemle elde edilen herhangi bir hata
+sıradan amaçlar için ihmal edilebilir bir hatadır.
+
+'Petzval' kombinasyonu gibi bileşik bir mercek için, bu yöntem geçerli değildir, çünkü böyle bir merceğin optik merkezi iki bileşeninin arasında olmak zorunda değildir.
+
+Gerçek odak, daha önce olduğu gibi bir pencereyi veya başka bir nesneyi odaklayarak ve belirli bir noktadan (örneğin mercek hücrelerinden birinin ön kenarı) kağıda olan mesafeyi ölçerek, sonra onu döndürerek ve aynı noktadan ikinci bir ölçüm alarak, iki ölçüm arasındaki ortalama gerçek odağı vererek oldukça yaklaşık olarak elde edilebilir. Uygulamada, bir fener merceğinin 'basit eşdeğer odak noktası' olarak adlandırılan şey, genellikle ekrana yansıtılan görüntünün büyütmesinin ölçülmesiyle belirlenir; slaydın orijinal boyutunu (genellikle 3 inç çapında 'standart' bir slayt alınır) ve fener ile ekran arasındaki mesafeyi bildiğimizde, odağı aşağıdaki çok basit denklemden elde ederiz:
+
+Ekrandaki resmin çapı Mercek ile ekran arasındaki mesafe (fit cinsinden) (fit cinsinden)
+------------------------------ = ---------------------------------
+Slaydın çapı (inç cinsinden) Merceğin odağı (inç cinsinden)
+
+veya belki daha da basitçe:
+
+Merceğin arasındaki mesafe x Slaydın çapı
+ve ekran (fit cinsinden) (inç cinsinden)
+------------------------------------------- = Merceğin odağı inç cinsinden;
+Resmin çapı (fit cinsinden)
+
+veya, merceğin odağını biliyorsak ancak belirli büyüklükte bir resim üretmek için
+ekrandan ne kadar uzağa gitmemiz gerektiğini bilmek istiyorsak, formül şu şekilde olacaktır:
+{68}
+
+Resmin çapı x Merceğin odağı
+(fit cinsinden) (inç cinsinden)
+------------------------------------- = Gereken mesafe (fit cinsinden). Slayt çapı (inç cinsinden)
+
+Fenercinin, standart bir
+3 inç slaytla uğraşırken, 6 inçlik bir merceğin _her zaman_ çapının mercekten ekrana olan mesafenin _yarısı_, 12 inçlik bir merceğin bunun yarısı kadar
+veya _dörtte biri_ ve 9 inçlik bir merceğin ikisinin ortasında bir resim vereceğini hatırlaması kullanışlıdır.
+
+Bu basit rakamları akılda tutarak, yaklaşık mesafe genellikle ilk deneme için yeterince yakın _tahmin edilebilir_ ve ardından fener gerektiği gibi biraz daha yakına veya tersine kaydırılabilir.
+
+Ancak aşağıdaki tablo, belirli odaklardaki merceklerin farklı mesafelerde ürettiği büyütmeyi kolayca gösterdiği için yararlı olabilir:
+
++------+----------+---------+---------+---------+---------+---------+---------+---------+
+| Disk | Odak | Odak | Odak | Odak | Odak | Odak | Odak |
+|isteniyor|4-1/2 inç| 6 inç | 8 inç | 10 inç| 12 inç| 15 inç| 18 inç|
++------+---------+---------+---------+--------+--------+--------+
+| ayaklar.| ft. inç | ft. inç| ft. inç| ft. inç| ft. inç| ft. inç| ft. inç| ft. inç|
+| 9 | 13 6 | 18 0 | 24 0 | 30 0 | 36 0 | 45 0 | 54 0 |
+| 12 | 18 0 | 24 0 | 32 0 | 40 0 ​​| 48 0 | 60 0 | 72 0 |
+| 15 | 22 6 | 30 0 | 40 0 ​​| 50 0 | 60 0 | 75 0 | 90 0 |
+| 18 | 27 0 | 36 0 | 48 0 | 60 0 | 72 0 | 90 0 |108 0 |
+| 20 | 30 0 | 40 0 | 53 4 | 66 8 | 80 0 |100 0 |120 ​​0 |
+  |  25 | 37 6 | 50 0 | 66 8 | 83 4 |100 0 |125 0 |150 0 |
+  |  30 | 45 0 | 60 0 | 80 0 |100 0 |120 ​​0 |150 0 |180 0 |
+  +------+----------+---------+---------+--------+--------+--------+
+
+OBJEKTİFİN ÇAPI.--Bir çift kombinasyon örneğinde olduğu gibi, objektifin çapı bir dereceye kadar odak noktasına bağlı olmalıdır.
+Bu lensler, daha önce de söylendiği gibi, birbirinden biraz uzakta bulunan iki
+akromatik bileşenden oluşur ve burada tartışılması gerekmeyen teknik hususlar için, bu bileşenler arasındaki _mesafe_ genellikle odak uzunluğunun yaklaşık üçte ikisi kadardır. Bu, farklı üreticilerin lensleri oldukça fazla değiştiği için evrensel bir kural değildir;
+ancak genel olarak bir gerçektir ki {69} lensin odak noktası ne kadar uzunsa, iki lens sistemi arasındaki
+ayrım genellikle o kadar fazla olur.
+
+Bu nedenle, tüpüne monte edilen tüm mercek, odağına göre değişen uzunlukta bir _tünel_e benzer ve bu tünelden bir _koni_ ışık ışınları geçirilmelidir. Bu nedenle, pratikte uzun bir tüp uzunluğu anlamına gelen uzun odaklı bir merceğin de büyük çaplı yapılması gerektiği açıktır, aksi takdirde koninin bir kısmı kesilecek ve sonuç olarak ışık kaybı yaşanacaktır.
+
+Pratikte, 6 inçe kadar odak uzaklığı olan mercekler genellikle 2 inç çapında yapılır ve daha büyük bir boyutta hiçbir avantaj yoktur. 8 inç odaklı bir mercekle, çapı 2-3/8'e (bir sonraki 'standart' boyut) çıkarmakta hafif bir kazanç vardır ve bundan daha uzun odaklı mercekler, 3 inç çapında bir mercek tercih edildiğinde, 12 inç odak noktasına kadar kesinlikle 2-3/8 inç olmalıdır. Ancak bu büyük mercekler, hem kendi başlarına hem de ağırlıklarının ağır ve pahalı pirinç montaj gerektirmesi nedeniyle çok pahalıdır ve bu nedenle 14 veya 15 inç odaklı mercekler genellikle ekonomiklik nedeniyle 2-3/8 boyutunda tedarik edilir. Özetlemek gerekirse, _kısa menzilli_ fenerler, _genellikle 2 inç çapında merceklerle, _uzun menzilli_ aletler ise 3 inçlik merceklerle veya 2-3/8 inçlik ara boyutta merceklerle donatılır. Bir fener uzun veya kısa menzilli çalışma için satın alınırsa, genellikle büyük bir mercek için pirinç bir ön yüze takılır ve aynı pirinç montajı kullanarak 2 inç çapında daha kısa bir odak merceğinin kolayca değiştirilebileceği şekilde düzenlenir. _Değişken_ odaklı mercekler de tasarlanmıştır; bunlara odak uzunluğunu artırmak veya azaltmak için ek bir mercek eklenebilir veya çıkarılabilir;
+ancak bu yönde henüz çok pratik bir şey elde edilememiştir ve bu nedenle bu 'Çok odaklı' mercekler genel olarak kabul görmemiştir.
+
+Yoğuşturucular gibi objektifler zaman zaman temizlenmeye ihtiyaç duyar ve her bir bileşenin içbükey merceği çakmaktaşı camından ve çok yumuşak olduğundan camı çizmemeye dikkat edilmelidir. {70} Temiz bir güderi kullanmak en iyisidir, ancak yumuşak bir bez veya hatta bir mendil dikkatli bir şekilde kullanılabilir. Bir merceğin temizlendikten sonra doğru şekilde yeniden birleştirilmesi çok önemlidir, çünkü tek bir merceğin ters çevrilmesi tanımı tamamen bozar.
+Ön bileşen genellikle birlikte balsamlanır ve bu nedenle gereken tek şey tüm kombinasyonun ters çevrilmediğinden emin olmaktır. Petzval
+sisteminde bu merceğin dışbükey bileşeni ekrana doğru olmalıdır (Şekil 41). Arka kombinasyon genellikle gevşektir ve iki mercek bazen ince bir pirinç halka ile ayrılır. Petzval mercekte içbükey eleman içeride olmalı, içbükey yüzeyi dışarıya doğru, diğer merceğin derin eğrisi bu içbükeyliğe oturmalı ve daha düz eğri kondansatöre doğru bakmalıdır. Ancak bir veya iki üretici, bu arka kombinasyonun tamamının ters çevrildiği bir Petzval sistemi modifikasyonu sunmuştur ve bu nedenle merceği parçalara ayırırken tam düzenleme çok dikkatli bir şekilde not edilmelidir.
+
+* * * * *
+
+BÖLÜM VIII
+
+FENERİN GÖVDESİ
+
+Şimdi optik fenerin mekanik yapısına geliyoruz ve fiyata, türe (_yani_
+kısa menzilli veya uzun menzilli) ve çeşitli üreticilerin bireysel fikirlerine göre çok çeşitli tasarımlar kendini gösteriyor.
+
+Fener gövdeleri kural olarak artık metalden yapılıyor, ancak oldukça yakın zamana kadar daha iyi sınıftaki aletler genellikle içten demirle kaplı cilalı maun ağacından yapılıyordu; ancak son zamanlarda yalnızca metal lehine bir fikir birliği oluştu.
+
+Daha ucuz fenerlerde bu metal gövde genellikle Rus demirinden veya kalaylanmış ve japonlanmış sacdan yapılır, {71} iki çeşit arasında fiyat veya kalite açısından seçim yapmak için çok az şey vardır ve en ucuz aletler hariç hepsinde ön kısım genellikle pirinçtir.
+
+Daha iyi fenerlerde gövde genellikle emaye çelikten yapılır, ön kısım daha önce olduğu gibi pirinçtir; ancak pirinç, bakır veya alüminyum da ara sıra fenerin gövdesi için kullanılır.
+
+[Resim: ŞEKİL 42.--Hughes'un Kısa Menzilli Feneri. ]
+
+Satın alınacak gövde türüne karar verirken akılda tutulması gereken başlıca hususlar şunlardır: (1) Kullanılacak aydınlatıcı türü veya türleri, örneğin daha zayıf bir radyant için gerekenden daha büyük bir gövde gerektiren güçlü bir ark lambası; (2) taşınacak merceğin boyutu ve konumu, uzun menzilli çalışmalar için uzun bir pirinç montajın ucunda desteklenmesi gereken 3 inç çapında bir Petzval objektif, 2 inç çapında 6 inçlik bir odak merceği için gerekenden daha fazla mukavemet ve sertliğe sahip bir gövde gerektirir; (3) fiyat.
+
+Şekil 42, Baylar Hughes tarafından yapılan kısa menzilli çalışmalar için son derece iyi bir fener gövdesini göstermektedir, çizim aleti bir 'Luna' metillenmiş ispirto lambasıyla birlikte tasvir etmektedir, ancak elbette bunun yerine küçük bir fener için uygun olan herhangi bir başka aydınlatıcı da kullanılabilir. {72}
+
+Bu fener, daha önce önemli olarak vurgulanan bir noktayı, yani kondansatörün havalandırmasını iyi bir şekilde göstermektedir. Bunun, daha büyük gövdelerde olduğu gibi enstrümanın gövdesinin içine değil, _dışarısına_ yerleştirildiği ve buharın serbestçe kaçmasına izin vermek için kondansatör montajında ​​geniş yuvaların açıldığı fark edilecektir.
+
+Bu mükemmel tasarımın diğer noktaları, kızak kademesine vida ayarı (örneğin, bazen ekstra kalın çerçevelerin kullanımını gerektiren gezegensel gövdelerin hareketlerini gösterenler gibi özel kızakların kullanımını kolaylaştırır) ve tabana basit ama etkili bir eğme düzenlemesidir.
+
+[Resim: ŞEK. 43.--Uzun Menzilli Fener.]
+
+Böyle bir fener güçlü bir ark lambası veya spot ışığı jeti veya ağır uzun menzilli mercekler için pek uygun değildir, ancak orta büyüklükteki salonlarda kullanım için çok iyi bir tipik araçtır ve bu genel tipteki bir fener genellikle fener kataloglarında bulunur, ancak elbette kesin tasarımlar üreticinin fikirlerine göre değişir. Uzun menzilli işler için fenerlere iyi bir örnek belki de Baylar Newton & Co.'nun 'Ara' modelidir (Şekil 43).
+
+Bu yine çeşitli üreticiler tarafından üretilen diğer birçok fenere özgüdür, ancak temel noktalar hepsinde ortaktır. Bunlar şunlardır: (1) Büyük ve iyi havalandırılan gövde; (2) uzun {73} süpürgelik; (3) büyük uzun menzilli mercekleri taşımak için gereken güçlü ve masif pirinç ön; (4) güçlü bir ark lambasından gelen herhangi bir dağınık ışığı kapatmak için arkadaki kadife perde.
+
+[Resim: ŞEKİL 44.--Bi-unial Fener için Bağlantılar.]
+
+Yukarıdaki iki tasarım, genel olarak fener gövdeleri için yeterince tipiktir ve bireysel tasarımların daha ayrıntılı bir şekilde açıklanmasını gereksiz kılar; ancak özel gereksinimlerin tavsiye edilebilir hale getirebileceği özelliklere atıfta bulunulmalıdır.
+
+Bu başlık altında, bir zamanlar ünlü olan 'Çözünen Görünümler' için kullanılan _Bi-unial_ veya Çift Fenerlerden bahsedilmelidir.
+
+Bi-unial fener, esasen iki farklı aletten oluşur ve her biri, genellikle tek bir gövdeye monte edilmiş spot ışığı jeti veya diğer aydınlatıcılarla (ön, kondansatörler, objektif vb.) birlikte gelir ve her fenerdeki ışığı kademeli olarak açıp kapatmak için bir düzenleme vardır.
+
+Şekil 44, iki adet spot ışığı jeti ve çözülen musluğa sahip böyle bir fenerin arkadan görünümünü gösterir, bu mekanizma parçası (aşağıdaki çizimde gösterilmiştir) kol yatay olduğunda _her iki_ fener de tam olarak açık olacak şekilde düzenlenmiştir, ancak kolu her iki yöne hareket ettirmek bir fenere giden gaz beslemesini keser. Spot ışığı durumunda, musluk her zaman kömür gazından önce oksijen beslemesini keserek çalışmalıdır (bir 'çatlama'yı önlemek için) ve ikincisi asla tamamen kesilmemeli, ancak bir sonraki slayt için fener gerekene kadar jeti yanık tutmak için küçük bir alev boncuğu bırakılmalıdır. {74}
+
+Bu genellikle bir baypas yoluyla ayarlanır ve bazen oksijen tarafında da bir baypas sağlanır, ancak uygulamada genellikle atılır. İkili bir fener asetilen gazıyla aynı şekilde çalıştırılabilir, ancak elektrik arkıyla ışığı kademeli olarak açıp kapatmak imkansızdır ve pratikte çözünme her iki feneri de tamamen açık tutarak ve her bir objektifi dönüşümlü olarak kapatan hareketli bir deklanşör olan çözünen bir deklanşör kullanılarak yapılmalıdır. Aynı düzenleme yağ gibi diğer aydınlatıcılarla da kullanılmalıdır, ancak bu durumda fenerler yüksek bacalar nedeniyle yan yana monte edilmelidir. Yağ lambalarında düzenleme oldukça iyi yanıt verir, çözünen fan, _kademeli_ yok oluşu sağlayan tırtıklı kenarlarla yapılmıştır; ancak elektrik arkıyla son derece keskin tanımlama ciddi bir zorluk haline gelir ve bu aydınlatıcı için iyi bir çözündürücü henüz bulunamamıştır, ancak çözünen görüşlerin az çok geçmişte kalmış olması nedeniyle bu konu önemli olarak kabul edilemez. Çift fener için iddia edilen avantajlar iki tanedir: birincisi, bir resmin kademeli olarak diğerine dönüştüğü ve bir taşıyıcının hareketinden daha hoş olduğu varsayılan bir 'Çözünme' efekti; ve ikincisi, bir manzarayı gündüz sergileyip onu ay ışığı sahnesine dönüştürmek veya bir kar fırtınasının görünümünü getirmek gibi 'Çözünme Etkileri' gösterilebilir; bu, ikinci fener tarafından hareket halinde gösterilen küçük deliklerle ve manzara ilkinden itibaren ekranda kalırken, bir silindir kaydırağıyla kolayca yapılabilir. Çözünen manzaraların moda olduğu günlerde, daha karmaşık efektler için üçüncü veya hatta dördüncü bir fener eklenirdi ve yıllar önce yapılan ünlü Politeknik gösterilerinde, bazen altı tane kadarının kullanıldığına inanıyorum. Sinematografinin olduğu bu günlerde bu tür efektlere olan ilginin ne kadar canlandırılabileceği şüphelidir ve bir fener {75} giderek öğretim görevlisinin istediği gibi çizimleri göstermek için bir araç olarak görülmeye başlandı ve kendi başına hoş bir sergi olarak görülmeye başlandı ve dağılan görüntüler çekiciliğini yitirdikçe, çift veya üçlü fener antik çağın belirsizliğine itildi.
+
+[Resim: ŞEKİL 45.--Beard'ın Dolaşan Su Tankı.]
+
+Diğer 'özel' fenerler arasında, çok hassas slaytlarla kullanılmak üzere su soğutmalı aşamalarla yapılmış modeller de belirtilmelidir. Bu ayrıntılandırma, orta güçteki sıradan slaytlar ve aydınlatıcılar için gerekli değildir, ancak doğal renk fotoğrafçılığı örnekleri gibi çok hassas slaytların gösterilmesi gerektiğinde, ısıyı emmek için ışık huzmesini önce bir su tankından geçirmek tavsiye edilir. Bu iş için tasarlanan fenerler genellikle bir tür
+çift aşamalı olarak yapılır, arka açıklığa takılan bir cam su oluğu ve
+ön taraftakine kaydırak taşıyıcısı. Böyle bir düzenleme çoğu amaç için oldukça iyi yanıt verir, ancak aşırı durumlarda fenerler, bir gaz motorunun soğutma tankının tarzında, büyük bir dış tanka ve tam bir dolaşım sistemine bağlı bir oluk ile donatılır.
+
+Bay Beard tarafından yapılan böyle bir fener, Şekil 45'te gösterilmiştir ve bu alette su oluğunun kondansatörün mercekleri arasına yerleştirildiği görülecektir. {76} Bu çok iyi bir konumdur, çünkü
+bu noktada ışık huzmesi paraleldir veya paralel olmalıdır, oysa
+yoğuşturucu ile kaydırak arasında yakınsaktır ve bu nedenle, oluk önemli ölçüde genişse, ikinci durumda kaydıraktan daha büyük çaplı bir kondansatör kullanılmalıdır.
+
+'Özel' fener gövdeleriyle ilgilenirken, belki de burada hem fener slaytlarının hem de Bilimsel Olayların, örneğin böcek yaşamının veya diğer mikroskobik nesnelerin projeksiyonu, polarize ışık deneyleri, elektrikli cihazlar, opak nesneler vb.'nin gösterimi için yapılmış çok sayıda desen fenerinden bahsetmeliyiz. Bu fenerlerin ve bunların nasıl kullanılacağının ayrıntılı bir açıklaması, popüler sinematografın da olduğu gibi, bu çalışmanın ikinci bölümüne aittir; ancak eğitim kurumları ve hatta erkek kulüpleri, bir fener satın almayı düşündüklerinde, çeşitli amaçlar için kullanılabilecek bir enstrümanın satın alınması için biraz daha fazla para harcamanın
+tavsiye edilip edilmeyeceğini
+düşünebilirler.
+
+* * * * *
+
+BÖLÜM IX
+
+FENER KUTULARI, STANDLAR, OKUMA LAMBALARI, VB.
+
+Şimdi bir fenerin tüm temel parçalarını tartıştıktan sonra, dikkate alınacak bir sonraki noktalar fener kutuları ve standlarıdır. Bunları birlikte ele almak en iyisidir, çünkü çoğu zaman bir fener kullanım sırasında kutusunun üzerinde duracak şekilde düzenlenir ve plan hem kullanışlı hem de basittir. Tüm soru, her bir bireysel durumda kendi değerlerine göre kararlaştırılacak bir sorudur.
+Bazen ne kutu ne de stand istenmez. Fener kilitli bir dolaba veya başka güvenli bir yere kaldırılır ve kalıcı bir destek üzerinde veya (genellikle bir kilisede olduğu gibi) arkadaki bir galeriden kullanılır.
+{77}
+
+Ancak çoğu durumda bir tür kutu tercih edilir ve iki ana husus sağlamlık ve sadeliktir.
+
+Örneğin kutunun yanlarının aşağı düştüğü ve slaytlar için tepsiler sağladığı gibi tüm patentli düzenlemeler teoride güzeldir ancak pratikte önerilemez. İyi, basit ve sağlam bir kutu gereklidir, tercihen siyah boyalı ve sağlam kulplarla donatılmıştır.
+
+Bir eklemeye izin verilebilir, yani eğimli bir üst kısım. Feneri eğmek için bazı araçlar her zaman tavsiye edilir, çünkü aleti ekranın ortasına kadar yükseltmek nadiren uygundur ve hafifçe yukarı doğru bir yükseltme görüntüyü önemli ölçüde bozmaz. Bu eğme düzenlemesi, örneğin Şekil 42'de gösterilen cihazda olduğu gibi, fenerin kendisinde somutlaştırılabilir veya bir stand kullanılıyorsa kutuda veya standda sağlanabilir.
+
+Belki de, fener tabanının altına gerektiğinde bir veya iki kitap veya başka bir eşya yerleştirilebileceği için kesinlikle gerekli sayılmayan bir ayrıntıdır; ancak eğme düzenlemesi o kadar kullanışlıdır ki şiddetle tavsiye edilebilir ve ekleme pahalı değildir.
+
+Büyük, uzun menzilli fenerler için, fenerin üzerinde durabileceği sağlam bir kutu, genellikle bir destek olarak satın alınması gereken tek şeydir. Genellikle iyi ve sağlam bir masa bulunabilir, bu da geri kalan her şeyi halledecektir, çünkü uzun menzilde hafif bir eğimin toplamda önemli bir yükseklik anlamına geldiği unutulmamalıdır.
+
+Bunun sağlanamadığı durumlarda bir stand sağlanmalıdır ve bu büyük bir fener için sağlam ve sert olmalıdır. Katlanabilir bir üçayaklı sehpadan kaçınılmalıdır, ancak Şekil 46'daki gibi bir düzenleme oldukça iyidir ve tüm pratik amaçlar için yeterince sağlamdır.
+
+Küçük bir fener için bir üçayaklı sehpa oldukça uygundur, ancak bacaklardan birinin kazara veya tasarım nedeniyle tekmelenmemesine dikkat edilmelidir, aksi takdirde sonuç bir felaket olabilir. {78}
+
+_Slayt Kutuları._--Bu konuda fazla bir şey söylemeye gerek yok. Piyasadaki desen çeşitliliği sonsuzdur, bazıları postayla güvenli bir şekilde taşınma açısından, diğerleri ise depolama ve sınıflandırma kolaylığı açısından tasarlanmıştır. Temelde her bir kullanıcının kendi zevkini kullanması gereken bir durumdur ve her durumda kutunun sorunu fenerciden ziyade slaytların sahibine aittir.
+
+[Resim: Şekil 46.--Dörtlü Fener Standı.]
+
+OKUMA MASALARI, LAMBALAR VE SİNYALLER.--Öğretmen için bir okuma lambası türü
+genellikle bir fenercinin ekipmanının bir parçası olarak kabul edilir ve
+en yaygın model, bir araba lambası tarzında bir mumla donatılır veya
+kolza veya diğer bitkisel yağları yakmak için yapılır,
+örneğin bisiklet lambaları için tedarik edilir. Yağ daha parlak ışık verir, ancak
+taşıma sırasında dökülmeye meyillidir, bu nedenle seyahat eden bir öğretim görevlisi için bir mum lambası daha {79} uygundur,
+taşıma dikkate alınması gereken bir faktör değilse yağ tercih edilmelidir.
+
+Bu lambalar genellikle arkada kırmızı bir yanıp sönen sinyalle yapılır,
+öğretim görevlisinin fenerciye slayt değiştirme isteğini iletebileceği basit bir kolla çalıştırılır (Şekil 47).
+
+[Resim: Şekil 47.--Okuma Lambası.]
+
+Aynı amaç için kullanılan çeşitli başka cihazlar da vardır, örneğin öğretim görevlisinin elinde tutulup gerektiğinde tıklatılması gereken bir kastanyet, fener kutusunda çalmak için bir elektrikli zil, vb. Eğer bu sonuncusu kullanılıyorsa
+gongu çıkarmak normaldir, çünkü çekicin vızıltısı onsuz yeterince yüksektir. Bazı öğretim görevlileri yine böyle bir aparat kullanmamayı tercih ediyor,
+sadece gerektiği gibi 'Sonraki slayt' demeyi veya bir işaretçiyle yere vurmayı tercih ediyor ve öğretim görevlisi ile fenerci arasındaki uygun bir iletişim aracının seçimi büyük ölçüde bireysel bir seçim meselesi olmalı.
+Daha ayrıntılı _okuma masaları_ da çoğu üretici tarafından sağlanıyor, ancak burada
+teknik bir konu olmayan
+bir konuda yine büyük ölçüde yargı devreye girmelidir.
+
+* * * * *
+
+BÖLÜM X
+
+PARAGRAFLAR VE PARARAGRAF STANDLARI
+
+Fener amaçları için en iyi paravan şüphesiz pürüzsüz beyaz badanalı bir duvardır ve bu artık fener sergilerinin olağan olduğu birçok salonda sağlanmaktadır. Bunun mümkün olmadığı yerlerde bir sonraki en iyi alternatif yukarı aşağı hareket eden bir kanvas {80} paravandır (Şekil 48).
+Bu herhangi bir iyi üreticiden temin edilebilir, ancak yine de yalnızca fenerin kullanılacağı salonda bir _donanım_ olarak kullanılabilir. Ancak, diğer mimariye uyacak şekilde boyanabilen veya verniklenebilen ahşap bir kutuya yerleştirilebilir ve mümkün olduğunda böyle bir ekranın sağlanması şiddetle tavsiye edilir. Taşınabilirlik gerekiyorsa, katlanabilen bir keten veya patiska çarşaf gereklidir, ancak bu asla tamamen düz bir şekilde asılamaz ve ayrıca iletim yoluyla önemli miktarda ışık kaybeder.
+
+[Resim: ŞEK. 48.--Silindir Perde.]
+
+Sözde 'şeffaf' bir çarşaf çok ince ketenden yapılır ve arkasındaki fenerle birlikte çalışmak, resmi ketenin içinden diğer taraftaki izleyiciye göstermek için tasarlanmıştır, ancak bu nadiren dini veya politik toplantılar vb. için açık havada kullanılır.
+
+_Opak_ bir çarşaf 9 fit kareye kadar tek parça halinde bulunabilir; bundan daha büyük boyutlarda
+en azından bir dikiş olmalı ve özellikle birkaç şeridin birbirine dikilmesinden oluşan büyük çarşaflarda
+çok yetenekli bir dikiş gereklidir.
+
+Bu tür çarşaflar genellikle kenarlarında delikli delikler veya dikilmiş keten bantlarla birlikte verilir ve asma yöntemi koşullara bırakılmalıdır. {81}
+
+Küçük bir çarşaf durumunda, onu dört köşesinden germek yeterli olacaktır ve bu genellikle duvarlara veya bazı uygun kirişlere iki vida gözü ve zemine benzer gözler vidalanarak yapılabilir, dördü de çarşafın boyutundan önemli ölçüde daha uzaktadır.
+
+[Resim: ŞEK. 49.--Taşınabilir Ekran Standı.]
+
+Daha sonra iki üst gözden, her iki ucu da zemine yakın bir yere ulaşacak kadar uzun, kalın bir kordon geçirilir, her birinin bir ucu
+çarşafın iki üst köşesine tutturulabilir ve ikincisi yukarı çekilebilir, daha sonra iki alt köşe gerilir ve sıkıca alt gözlere bağlanır.
+Büyük
+çarşaflar söz konusu olduğunda bu pek yeterli olmaz ve
+çarşafı her tarafta aralıklarla tutturmak gerekecektir, aksi takdirde garip kırışıklıklar ortaya çıkar ve bu yine fenercinin olasılıklara göre kendi inisiyatifini kullanması gereken bir konudur.
+
+Bazı salonlarda, yukarıda açıklanan şekilde bir
+çarşaf dikmek tamamen imkansızdır ve bu gibi durumlarda bir çerçeve, tahta şeritleri birbirine çivileyerek veya daha iyisi taşınabilir bir ekran standı kullanarak yapılmalıdır (Şekil 49). Bu standlar genellikle kısa pirinç bağlantı borularıyla bambudan yapılır ve bunları kullanma yöntemi o kadar açıktır ki bir açıklama yapılmasına gerek yoktur. Ekran çerçeveleri tüm önde gelen optikçiler tarafından sağlanır, ancak satın almak isteyen birinin sipariş vermeden önce kurulu bir tane görmesi iyi olur. Aslında satışa sunulan 12 fitlik bir ekran çerçevesi gördüm, ancak bu
+kendi ağırlığını, hatta levhanın ağırlığını bile taşıyamayacak kadar zayıftı!
+
+* * * * *
+
+{82}
+
+BÖLÜM XI
+
+BİR FENERİN PRATİK KULLANIMI
+
+Artık optik feneri çeşitli formlarında ve daha önemli aksesuarlarında tanımladıktan sonra, pratik kullanım sorusuna geliyoruz.
+Bir sergi için düzenlemeler yaparken ilk dikkat edilmesi gereken şey, ihtiyaç duyulacak her aksesuarın orada olduğundan emin olmaktır ve en iyi plan, sağlanacak tüm çeşitli eşyaların eksiksiz bir listesini yapmaktır. İp (çarşaf için), kireç maşası, ark aydınlatıcı olacaksa karbonları değiştirmek için pense, tornavida, kibrit, fener kutusunun anahtarı ve benzeri diğer eşyalar, böyle bir liste yapılmadığı ve dikkatlice kontrol edilmediği sürece geride bırakılma olasılığı yüksektir. Salona varıldığında, kural olarak yapılacak ilk şey çarşafı kaldırmaktır, bundan sonra profesyonel operatör genellikle tekrar mutlu hissetmeye başlar.
+
+Daha önce yapılmamışsa, bir sonraki şey fenerin konumunu belirlemektir ve bu, VII. Bölümde açıklandığı gibi, gösterilecek resmin boyutu ve objektifin odak noktasıyla ilgilidir.
+
+Çok büyük bir resim göstermek bir hatadır; kenarlarda biraz 'beyaz' olması iyi bir şeydir ve daha az parlak büyük bir diskten daha iyi aydınlatılmış küçük bir diske sahip olmak daha iyidir. Ancak, kolaylık da göz önünde bulundurulmalıdır ve feneri bir galeriye veya yolunuzdan uzak başka bir yere yerleştirmek için diğer hususların gerektirdiğinden birkaç adım daha geriye gitmek genellikle haklı görülebilir.
+
+Fenerin konumu sabitlendikten sonra, yerine yerleştirilmeli, kullanılacak aydınlatıcıya göre kablo veya boru veya başka ne gerekiyorsa bağlanmalıdır. Daha sonra yakılmalı, merceğin flaşörü açılmalı ve ışık {83} ekranda bir tür disk oluşturacak kadar ortalanmalıdır. (Elbette, merceklerin vb. daha önce temizlendiği varsayılır.)
+
+Şimdi sahneye bir taşıyıcı yerleştirilmeli ve içine bir slayt yerleştirilmelidir ve bunu yapmanın yöntemi biraz açıklama gerektirir. Slayt, VII. Bölümü incelemiş olan herkes için açık olacağı gibi, taşıyıcıya ters çevrilmiş şekilde yerleştirilmelidir, ancak buna ek olarak doğru şekilde çevrilmelidir, aksi takdirde resim soldan sağa ters çevrilecektir. Bu, bir resmin kopyası gibi belirli konular söz konusu olduğunda çok önemli olmayabilir; ancak izleyicinin aşina olabileceği binaları veya manzaraları tasvir eden slaytlarda veya daha da kötüsü, yazdırma veya yazma ciddi bir hatadır. Ticari bir firma tarafından yapılan slaytlar genellikle 'benekli' olacaktır, yani, ikincisi doğru konumunda ve üstte görüntülendiğinde slaydın yüzünde iki beyaz nokta olacaktır. Slaytlar ters çevrilmeli ve taşıyıcıya, elbette noktalar şimdi altta ve _yoğuşturucuya doğru_ olacak şekilde yerleştirilmelidir.
+
+Bir slayt fark edilmezse, ekranda göründüğü gibi görüntülenmeli ve ardından operatöre bakan yüzü kondansatöre dönük ve tabii ki ters çevrilmiş şekilde taşıyıcıya yerleştirilmelidir.
+
+Yukarıdaki açıklamalar yalnızca görüntünün ekrana _atıldığı_ durumlarda geçerlidir; görüntünün _sonradan_ gösterildiği nispeten nadir durumlarda slaytlar yanlamasına döndürülmelidir, ancak tabii ki yine de ters çevrilmelidir. Slayt sahneye yerleştirildikten sonra, objektif içeri veya dışarı çekilerek ve gerekirse çekme tüpü de çekilerek ekrandaki görüntü keskin bir şekilde tanımlanana kadar 'odaklanmalıdır'. Şimdiye kadar
+ışık sadece kabaca merkezlenmiştir, slaydın odaklanmasını sağlayacak kadar ve işlemi tamamlamak için hem slaydı hem de taşıyıcıyı fenerden çıkararak ekranda net bir disk bırakmalıdır ve
+bu disk Şekil 50'de gösterilen görünümlerden herhangi birine benzeyebilir. {84}
+
+A'ya benziyorsa ışık sola hareket ettirilmelidir, B'ye benziyorsa sağa hareket ettirilmelidir, C'ye benziyorsa alçaltılmalıdır, D'ye benziyorsa yükseltilmelidir, her zaman koyu gölgenin zıt tarafına hareket ettirilmelidir, ta ki bu diskin merkezi olana kadar. Şimdi E'ye benziyorsa, ışık kondansatöre daha yakın hareket ettirilmelidir;
+eğer tam tersine, merkez karanlıksa, daire mümkün olduğunca her yerde net ve parlak olana kadar geri çekilmelidir, tıpkı F'de olduğu gibi.
+
+[Resim: Şekil 50.--Işığın Ayarlanması.]
+
+Bu ayarın bir slayt konumundayken düzgün bir şekilde yapılamayacağını ve fener odaklanana kadar da yapılamayacağını belirtmek önemlidir, bu nedenle yukarıdaki prosedür tatmin edici bir sonuç elde etmenin tek yoludur. Parafin-yağ lambası gibi daha büyük aydınlatıcıların bazılarında merkezleme ayarlaması yoktur, radyantın boyutu kesin merkezlemeyi gereksiz kılar ve genel olarak konuşursak, ışık noktası ne kadar küçükse, işlem o kadar kesin olmalıdır.
+
+Asetilen veya spot ışığı gibi aydınlatıcılar durumunda {85} merkezlemeden önce tamamen açık olmalarına dikkat edilmelidir, aksi takdirde daha sonra daha fazla açmak ışık noktasının konumunu yükseltecektir.
+
+Merkezleme sağlandıktan sonra, slayt taşıyıcısı değiştirilebilir, ilk slaytlar yerlerine yerleştirilebilir, kalanlar uygun sıralarına göre düzenlenebilir, konuşmacıyla sinyal sistemi belirlenebilir ve her şey hazırdır.
+
+Başlamadan önce hala bir aralık varsa, ışık kapatılabilir veya söndürülebilir veya örneğin spot ışığı durumunda, istenildiği kadar çok düşük bir seviyeye düşürülebilir.
+
+Tüm slaytların doğru sırada olduğundan emin olmak son derece önemlidir, ancak bunu yapma görevi genellikle operatörden ziyade konuşmacıya aittir. Kraliçe Victoria'nın hayatıyla ilgili bir konferansta konuşmacının, 'Bir sonraki resim, uzun yıllar boyunca tahtı lütufkar Hükümdarımızla paylaşan Kraliyet Prensi'nin bir fotoğrafı olacak,' dediğini duyduğumu hatırlıyorum. Operatör bu sözler üzerine bir sonraki slaydı getirdi ve bunun _tarih öncesi bir canavarın restore edilmiş bir örneği_ olduğu ortaya çıktı (tablolar!). Bu tür hatalar 'evi yıkar', ancak ciddi derslerde ve özellikle dini ayinlerde, buna karşı çok dikkatli olunamaz.
+
+Daha önce, nemin kondansatörlerin veya kaydırakların yüzeylerinde yoğunlaşma olasılığından bahsedilmişti ve bundan kaçınmak için, kondansatörler söz konusu olduğunda, fenerin gerçekten istenmesinden on dakika önce yakmak veya alternatif olarak kondansatörleri çıkarıp bir sobanın önünde iyice ısıtmak veya sıcak su borularının üzerine bir beze sararak yerleştirmek iyi olur. Kaydıraklar da aynı şekilde kullanılmadan önce ısıtılmalı ve son olarak fenerin üzerine tutulmalı veya düzse, taşıyıcıya yerleştirilmeden önceki son şey olan tepeye yerleştirilmelidir. Bu önlemler atlanırsa, soğuk bir gecede kondansatörün ilk yüzeyi neredeyse kaydırağı kapatacak kadar nemle kaplanır ve bu, fenerin ısısıyla hızla kaybolur {86}. Sonra, kondansatörlerin iki iç yüzeyi sırayla aynı şekilde davranacak ve özellikle kondansatörün havalandırması zayıfsa temizlenmesi önemli ölçüde daha uzun sürecektir; sonra dördüncü yüzey çalışmaya başlayacak ve son olarak, fenerci sorunun bittiğini
+tebrik ettiğinde, her bir ardışık slayt aynı şekilde etkilenecektir. İşini bilen bir operatörle, bu sorunların hiçbiri
+olmamalıdır.
+
+KAZALAR. --Bunlar bazen, en iyi yönetilen
+sergilerde bile meydana gelir; bir ışık jetini besleyen kauçuk boru kıvrılır veya
+üzerine basılır veya elektrik ışığı kullanılıyorsa bir sigorta erir, vb. ve ışık söner. Bu gibi durumlarda, 'Lütfen bir dakikalığına ışığı açabilir misiniz?' gibi yüksek sesli bir istek, iyi huylu bir kahkaha eşliğinde, genellikle 'gergin' insanların korkularını yatıştırır. Bir operatör asla 'gergin' olmamalıdır. Küçük bir aksaklık yaşandığı ve iki veya üç çekingen kadının etrafını sararak 
+endişeli sorular sorması nedeniyle birden fazla fiyaskoyla karşılaştım, ta ki fenerci kafasını kaybedene kadar. Böyle bir durumda, çocuk eğlencesindeki temkinli müdür, bir regülatörün gaz kaçağını önlemek için bir silindire yeterince sıkı vidalanmaması nedeniyle, serginin hiç yapılmamasının daha güvenli olacağına karar verdi, sadece operatör (biraz genç olan) standart tipteki sürekli sorularla delirmenin eşiğine gelmişti, 'Güvenli olduğundan emin misin?' 'Patlayacak mı?' 'Anladığından emin misin?' vb., vb. Daha ciddi kazalar, örneğin fenerin tamamının devrilmesi asla meydana gelmemeli ve fenercinin aletini korumak için gerekli gördüğü önlemleri alması gerekir. Örneğin, genç bir izleyici kitlesi için, fenerin etrafına bir barikat kurmak ve kimsenin içeri girmemesini sağlamak genellikle iyi bir şeydir. Son olarak, 'yapmaya değer olan her şey iyi yapmaya değerdir' ve bu, fener sergilemesi için de diğer her şey için olduğu kadar doğrudur {87}. Katlanmış çarşaflarla, kirli merceklerle, kötü ayarlanmış ve ortalanmış ışıkla ve ara sıra
+baş aşağı gösterilen slaytlarla verilen çok sayıda fener sergilemesi vardır. Vicdanlı bir fenerci _her_
+ayrıntıya dikkat etmelidir; her şeyde olduğu gibi özensiz yöntemler de kötü sonuçlar anlamına gelir.
+
+SPOTTISWOODE, BALLANTYNE & CO. LTD. tarafından basılmıştır.
+Colchester, Londra ve Eton, İngiltere
+
+Lewis Wright ve Russell S. Wright tarafından yazılan Project Gutenberg EBook of Optical Projection'ın sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK OPTICAL PROJECTION ***
+
+***** This file should be named 33899.txt or 33899.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/8/9/33899/
+
+Produced by Chris Curnow, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,1019 @@
+*** START OF AKTAHEADER ***
+Başlık: Robinc (Robin)
+Yazar: H.H. Holmes
+Yayın Tarihi: March 1, 2020 [EBook #61540]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/61540
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: siyaset
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Robinc, by H.H. Holmes
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Robinc
+
+Author: H.H. Holmes
+
+Release Date: March 1, 2020 [EBook #61540]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ROBINC ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Mary Meehan ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+Robinc
+
+H. H. Holmes tarafından
+
+Politika ve robotlar, benzer şekilde, çok merak
+uyandırıcı şeylerdir. Ancak başka bir şekilde de benzerler--eğer
+şeylere doğrudan
+bakarsanız ve biraz
+garip görünseler bile
+cevapları
+atmazsanız, onları etkili bir şekilde
+kullanabilirsiniz--
+
+[Yazıcının Notu: Bu e-metin
+Eylül 1943'te
+Astounding Science-Fiction'dan üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının
+yenilendiğine dair hiçbir kanıt ortaya çıkarmamıştır.]
+
+Belki de Konsey'in
+O.K.'sini aldıktan sonra bunun temiz bir yelken açma anlamına geldiğini düşünürdünüz. Belki de bunun sorunlarımızın sonu ve
+dünya için android robotların sonu anlamına geldiğini düşünürdünüz.
+
+Dugg Quinby de böyle düşünüyordu zaten. Ama Quinby'nin sorunlara, şeylere ve robotlara doğru bakma ve doğru cevabı alma konusunda mucizevi bir yeteneği olabilir; ama insanlara doğru bakma konusunda her zaman fazla umutluydu. Çünkü, ona sürekli söylediğim gibi, insanlar doğru değil, kendilerine bile. Ve gelecekteki beklentilerimiz onun düşündüğü kadar iyi değildi.
+
+Konsey Başkanı, o sabah Konsey yasa tasarısını geçirdikten hemen sonra onu gördüğümüzde vurguladığı şey buydu. Siyah yüzü
+ayıktı--televizyon yayınlarında çok tanıdık olan o parlayan beyaz sırıtmadan eser yoktu. "Yasa tasarısını geçirdim çocuklar," diyordu. "Tanrı
+biliyor ki minnettarım--tüm İmparatorluk, Mars maden imtiyazlarının yenilenmesinde bana yardım ettiğin için sana minnettar olmalı ve bana verdiğin o alışılmış meyhaneci benim en büyük hazinem; ama artık sana yardım edemem. Artık kendi başınasın."
+
+Bu Quinby'yi rahatsız etmedi. "Geri kalanı kolay olmalı. İnsanlar
+normal robotların onlar için neler yapabileceğini anladığında--" dedi.
+
+"Korkarım Bay Quinby, siz tam olarak anlamıyorsunuz. Buradaki arkadaşınız
+şüphesiz anlıyor; olaylara daha gerçekçi bir bakış açısına sahip.
+Ama siz--insanları idealleştirdiğinizi söyleyemem ama onlara iltifat ediyorsunuz. Onların da olayları sizin kadar net görmelerini bekliyorsunuz. Korkarım ki genelde bunu
+yapmıyorlar."
+
+"Ama Konsey'e usuformların avantajlarını açıkladığınızda--"
+
+"Konsey'in yasa tasarısını yalnızca bu avantajları gördükleri için mi geçirdiğini düşünüyorsunuz? Bunu, benim desteklediğim ve Marslı imtiyazlarının yenilenmesinin beni şu an için güçlü bir konuma getirdiği için geçirdiler. Ah, biliyorum, daha önceki devletlerin siyasi yozlaşmasının ötesinde ölçülemeyecek kadar ilerlememiz gerekiyordu; ama mağara adamından sınırsız geleceğe kadar ilerleme ne olursa olsun, insanların her zaman yaptığı ve her zaman yapacağı üç şey vardır: aşk, müzik ve siyaset. Ve benimle eski zamanların siyasi liderleri arasında herhangi bir fark varsa, o da siyasi becerilerimi insanlığın hizmetine sunmaya çalışmamdır."
+
+Bütün bunları çok dikkatli dinlemiyordum. İnsanlığa hizmet etmek
+benim için tam olarak bir hobi değildi. Quinby ve Başkan, hepsi usuformlar için dışarıdaydı çünkü bunlar insana ve Dünya İmparatorluğuna bir hizmetti;
+Ben de bunun içindeydim çünkü iyi bir şey gibi görünüyordu. Elbette Quinby gibi bir aziz, bir dahi ve bir aptalın karışımının etrafında
+olmadan bir şeyler yakalayamazsınız; ama zihnimi
+bunun benim için ne ifade ettiğine dair net tutmaya çalıştım.
+
+Ve bu yeterliydi. Son birkaç yüzyıldır medeniyetimiz robotlara dayanıyordu --android robotlar. Quinby'nin usuform robotları --Q.U.R.--mekanik insanlar olarak değil, doğrudan amaçlanan işlevlerinden oluşan bağımsız düşünen makineler olarak şekillendirilmiş robotlar--tüm robot düzenini tehdit ediyordu. Zwergenhaus'un mekanik beyni icat etmesinden bu yana en büyük şeydi ve ben
+zemin kattaydım.
+
+Altımda bodrum sallanıyordu.
+
+Burada konferansı bölen bir android muhafızdı. Henüz alışılagelmiş üretime gerçekten başlamamıştık ve zaten Quinby androidlerin bazı yerlerde muhafızlar ve kişisel görevliler için tutulabileceğini düşünmeye meyilliydi. "Bay Grew sizin onu göreceğinizi söylüyor." dedi.
+
+Baş kaşlarını çattı. "Robinc her zaman imparatorluğun kendisine ait olduğunu düşünmüştür. Şimdi Bay Grew bana ait olduğunu düşünüyor. Hadi, onu içeri alın." Muhafız ayrılırken bize "Bu Grew-Quinby toplantısının bir ara yapılması gerekiyor. Görmeyi tercih ederim." diye ekledi.
+
+* * * * *
+
+Robinc'in başkanı-sahibi--Robots Incorporated, ama hiç kimse bunu tam olarak söylemedi--gümüş saçlı ve nazik, hüzünlü bir gülümsemesi olan sessiz, yaşlı bir adamdı. Bugün her zamankinden daha hüzünlü görünüyordu. Baş'ı selamladı ve
+sonra adımı neredeyse beni incitecek kadar şefkatli bir sitemle söyledi.
+
+"Sen," dedi. "Robinc'in sahip olduğu en iyi sorun çözücüydün ve
+şimdi seni düşman kampında buldum."
+
+Ama ben onun tekniğini biliyordum ve bundan etkilenmemeye karşı silahlanmıştım.
+"Düşmanın kampında mı?" dedim. "Ben düşmanım. Ve senin en iyi sorun çözücün olduğum için
+Robinc'in androidleriyle ilgili gerçek sorunu öğrendim: Onlar çalışmıyor ve tek çözüm
+onları geçersiz kılmak."
+
+"Geçersiz kılmak nazik bir kelimedir," dedi hüzünle. "Ama bu acımasız eylem
+yıkımdır. Cinayet. Robinc'in kendisinin öldürülmesi, İmparatorluğumuzun yaşam kanını
+sömürmek."
+
+Baş araya girdi. "Sökmek değil, Bay Grew, kan nakli. Kendi metaforunu devam ettirecek olursak, kan akışı
+kirlenmiştir; taze kana ihtiyacımız var ve Bay Quinby bunu sağlıyor."
+
+"Çaresiz değilim, biliyorsun," diye mırıldandı yaşlı adam nazikçe.
+
+"Korkarım ki siz de öylesiniz, efendim, ve hayatınızda ilk kez.
+Ama durumu biliyorsunuz: Geçtiğimiz birkaç ayda
+bir robot arızası salgını yaşandı. Gereksiz ve kullanılmayan parçalar,
+ama bizim android şekli konusundaki saçma ısrarımız yüzünden
+takıldı,
+köreldi. Bazen beyin bile etkilendi; benim
+kendi gizli kriptoanalistim tamamen delirdi. Quinby'nin usiformları böyle
+herhangi bir sorunu önler."
+
+"İnsanlar onları kabul etmeyecek. Onlar androidlere şartlanmışlar."
+
+"Onları kabul etmeliler. İmparatorluğun karşı karşıya olduğu tedarik sorunlarını çoğu kişiden daha iyi biliyorsun. Mineral kaynaklarının korunması temel hedeflerimizden biridir. Ve normal şartlarda, androidlerinize giren metalin yüzde yetmişinden sadece otuzuna kadar çeşitli miktarlarda ihtiyaç duyulacaktır. Bu sadece bir iş rekabeti meselesi değil; İmparatorluğu tüketen eski ile onu güçlendiren yeni arasındaki bir çatışmadır."
+
+"Ve eski bir kenara atılmalı ve reddedilmeli mi?"
+
+"Sen," diye başladım, "elbette, iş rekabetine her zaman böyle şefkatli bir merhamet gösterdin--" ama Quinby sözümü kesti.
+
+"Bay Grew, bunun sana karşı adil olmadığının farkındayım. Ama senden çok daha önemli konular var."
+
+"Teşekkür ederim." Nazik yaşlı ses buz gibiydi.
+
+"Ama eğer siz, sizin dediğiniz gibi, bir kenara atılıp reddedilirseniz kendimi iyi hissetmem. Eğer gelip bizi görmeye ve meseleleri konuşmaya gelirseniz, eminim ki biz--"
+
+"Efendim!" Sanford Grew tam kısa boyuna ulaştı. "Yavrulardan iyilik istemem. Tek bir isteğim var." Baş'a döndü. "Robinc'i İmparatorluğun güvenliğini sağlayan asırlardır süren tekelinden mahrum eden bu saçma yasa tasarısının iptali."
+
+"Üzgünüm Bay Grew. Bu imkansız."
+
+Saçlar hala gümüş rengindeydi ve gülümsemesi hala hüzünlü ve nazikti. Ama
+bize söylediği sözler, "O zaman bunun bir savaş olduğunu anlıyor musunuz?" oldu.
+
+Sonra gitti. Kendimi pek rahat hissetmedim. İmparatorluğu kurtarmak
+çok güzel. Büyük bir yeni girişimde büyük bir adam olmak harika. Ama Robinc büyüklüğünde bir şeyle savaşmak genellikle doktorun önerdiği bir şey değildir.
+
+"Zavallı adam," dedi Quinby.
+
+Baş, meşhur sırıtmanın yankısını gösterdi. "Üzgün ​​olmasına şaşmamalı.
+Sadece güç kaybı tehdidi değil, dün onun
+android aşçısının tamamen bozulduğunu duydum. Ve onun
+yoğunlaştırılmamış yemeğe ne kadar bağlı olduğunu biliyorsun."
+
+Quinby neşelendi. "O zaman belki biz--"
+
+Baş güldü. "Tek umudun, yoğun bir diyete geri dönmenin onu zehirlemesi. Sanford Grew'u ikna etme şansın yok."
+
+* * * * *
+
+Oradan Sunspot'a gittik. "Komik," derdi Quinby. "Ben
+içki içmeyi pek sevmem ama bir bar her zaman ağır düşünceler için iyidir."
+Ve ben kimdim ki tartışacaktım?
+
+Barmenlerin en büyüğü olan Guzub içeri girdiğimizde bizi gördü ve her zamanki arka masamıza ulaştığımızda
+bir süt ve bir de viski koydu. Bunları bize kendisi servis etti, dokunaçlarını mutlu bir şekilde sallayarak.
+
+"Neden bu kadar neşelisin?" diye sordum sertçe.
+
+Guzub orta gözünü Marslıların mutluluk ifadesiyle kapattı.
+"Çünkü siz çocuklar uxuvorm
+robod'larınızla büyük bir zugzezz yapacaksınız ve siz onları tam burada Zunzbod'da icat ettiniz." Düz vuzd'un bir sümüklü 
+tutan başka bir dokunaç çıkardı ve onu mideye indirdi. "İyi
+lugg!"
+
+Arkasından sert sert baktım. "Şansa ihtiyacımız var. Yeminli düşmanımız Grew ile
+biz--"
+
+Quinby önüne kağıt sermişti. Şimdi başını kaldırdı, bir yudum
+süt aldı ve "Yemek yapıyor musun?" dedi.
+
+"Pek değil. Çoğu zaman konsantreler bana yetiyor."
+
+"Grew'u anlayabiliyorum. Ben de eski usul yemekleri severim ve
+yemek pişirmede oldukça iyiyim. Sadece birkaç fikrin olabileceğini düşündüm."
+
+"Ne için?"
+
+"Neden, tabii ki usiform bir aşçı. Grew'un android aşçısı pes etti. Ona bir usiform
+sunacağız ve bu onu da dönüştürecek--"
+
+"Dönüştürme cehennemi!" diye homurdandım. "Hiçbir şey o tatlı gülümseyen yaşlıyı değiştiremez--Ama belki orada bir şeyin vardır; bir adama hobisi aracılığıyla
+ulaş--İşe yarayabilir."
+
+"Şimdi genellikle," diye devam etti Quinby, "androidler bozulur çünkü tüm insan şeklindeki vücutlarını
+kullanmazlar. Ama bir android aşçı
+çıldırır çünkü insan vücudu yeterli değildir. Ben yemek pişirdim; biliyorum. Bu yüzden
+usuform'a daha fazlasını vereceğiz. Örneğin, ona kollar yerine Martoid dokunaçlar ver.
+Belki de bacaklar yerine ona otomatik kayan bir yükseklik ayarı ver
+tüm eğilme ve kamburlaşmayı önlemek için, hızlı hareket için bir rulo taban. Ve dokunaçları işlevsel olarak özelleştir."
+
+Sonuncuyu tam olarak anlayamadım ve öyle söyledim.
+
+"Yemek pişirmede harcadığınız zamanın yarısı, bir sonraki ihtiyacınız olan şeye ulaşmak için etrafta dolaşmakla boşa harcanır. Bu tür şeylerin çoğunu yapabiliriz. Örneğin, bir dokunaç
+kaydedici bir termometre olabilir. İnce bir noktaya doğru sivrilerek--bir kızartmaya
+sokun ve--Biri karıştırmak için geniş bir kaşıkla bitebilir--ısıya dayanıklı,
+elbette. Biri bir tür elle sonlanabilir, her bir rakamı farklı boyutlarda bir ölçüm kaşığıdır. Ve en iyisi--yemeği tatmak için ağza götürmenin sıkıntısı neden?
+Bir dokunacın ucuna tat tomurcukları yerleştirin."
+
+Başımı salladım. Quinby'nin kalemi kağıdı geçici bağlantılarla kaplıyordu. Aniden durakladı. "Android aşçıların neden
+asla çok başarılı olmadığını biliyorum. Hiç kimse beyinlerine Verhaeren faktörünü dahil etmemiştir."
+
+Verhaeren faktörü, eğer bu konuyu biraz olsun incelediyseniz, robotları bağımsız yaratıcı eylemde bulunmaya muktedir kılan şeydir. Örneğin
+popüler kurgular üreten robotlarda kullanılır--elbette çok küçük bir oranda.
+
+"Evet, sorun bu. Bir aşçının bir hizmetçi olduğu kadar bir sanatçı olduğunu da asla fark etmediler. Peki, ona beyninde yaratması için ihtiyaç duyduğu şeyi, vücudunda da bunu gerçekleştirmesi için ihtiyaç duyduğu araçları vereceğiz. Ve
+Bay Grew ilk yemeğini alışılmış bir aşçıdan yediğinde--"
+
+Bu bir fikirdi. Kabul ediyorum, bu herkeste işe yarayabilirdi ama
+Sanford Grew--bir adama ulaş ve onu kalbinin en değerli
+şeyi aracılığıyla dönüştür. Ama ben Grew için çalışmıştım. Onu tanıyordum. Ve hiçbir hobinin, hatta konsantre olmayan yiyeceklere olan tutkusunun bile Robinc'in başkanı olarak sahip olduğu güçten duyduğu gururdan daha güçlü olamayacağını biliyordum.
+
+Quinby usoform pişirme aleti üzerinde çalışırken ve ustabaşımız Mike Warren 
+ilk büyük gösteri için dowser'ımızı hazırlarken, ben
+Robinc karşıtı kampanyaya devam ettim.
+
+"Dört çarpıcı noktamız var," diye açıkladım Quinby'ye. "Android
+robotlar körelir veya çıldırır; usoformlar güvenlidir. Android robotlar, araçlar ve aksesuarlar olmadan yapabilecekleri şeyler açısından neredeyse insan kadar sınırlıdır;
+usuformlar her şeyi yapabilecek şekilde inşa edilebilir. Android robotlar
+pahalıdır çünkü ihtiyacınızdan fazlasını yapabilen çok amaçlı bir tane satın almanız gerekir;
+usuformlar uzmanlaşmış oldukları için paradan tasarruf sağlar. Android
+robotlar mineral kaynaklarını tüketir; usuforms onları kurtarır."
+
+"Son sebep önemli olanıdır." dedi Quinby.
+
+Kendi kendime gülümsedim. Elbette öyleydi, ama insanları koruma gibi soyut bir şeye
+satabilir misiniz? Kesinlikle hayır. Onlara kredi
+tasarruf edeceklerini, daha iyi hizmet alacaklarını söyleyin ve onları
+zaten kaydettirmiş olursunuz. Ama onlara torunlarını ciddi bir kıtlıktan
+kurtardıklarını söyleyin ve yüzünüze
+güleceklerdir.
+
+Bu yüzden her zamanki gibi, Quinby'yi fikirlere bıraktım ve insanlar konusunda kendi yargımı takip ettim ve aşçıyı Grew'e gönderdiğinde ben de Grew ve Robinc'i İmparatorluk'tan
+fırlatabilecek kampanyayı ayarlamıştım.
+En büyük üç telekomünikasyoncunun hepsi usuforms'a satılmıştı. Önemli bir tekli
+yapımcı onlar hakkında bir belgesel yapmaya karar vermişti. Siparişler, Mike Warren'ın onları üretmeye
+başlamasının iki katı hızla birikiyordu.
+
+Sonra büyük test.
+
+Hiçbir androidin rekabet edemeyeceği büyük ve yeni bir şeyle başlamak istiyorduk ve Mike'ın kayınbiraderiyle karşılaşacak kadar şanslıydık. O, robot beyinlerinde su bulucuların su bulmasını sağlayan o _n_inci duyunun algısını uyandırmıştı. Bizim olağan
+suyucumuz, Tanrı'nın kaşiflere hediyesi ve heyecan verici yeni bir kopyaydı. Bu yüzden Başkan, özel olarak hazırlanmış bir alanda büyük bir gösteri düzenlemişti.
+
+Tribünler, havai fişekler ve iki grup -bir insan, bir android- ve
+tüm süslemeler.
+
+Kulübemizde oturuyorduk, Mike, Quinby ve ben. Mike, olağan barmenimiz tarafından karıştırılan bir şişe dolusu Three Planet kokteyli içiyordu; ayaktayken pek iyi değillerdi ama yine de onu ayakta tutmaya yetecek kadar güçlüydüler. Sadece irade gücümle idare etmeye çalışıyordum ama sırtımdan ter damlaları akıyordu ve tırnaklarım avuçlarımda desenler çiziyordu.
+
+Quinby rahatsız olmuş gibi görünmüyordu. Android grubu izlemeye ve notlar almaya devam etti. "Görüyorsun ya," diye açıkladı, "bir robotu bir enstrüman çalması için eğitmek aptalca bir israf, çünkü bir
+robot olan bir enstrüman
+yapabilirsin. Gerçek robot grubun sıradan olurdu ve kendilerini çalabilen bir
+sürü enstrümandan başka bir şey olmazdı. Hatta insan veya android parmaklarının ve akciğerlerinin kapasitesinin ötesinde bir menzil, çok yönlülük ve esneklikle yeni enstrümanlar bile üretebilirdin.
+Yapabilirsin--"
+
+"Oh, oh," dedim. Sanford Grew locamıza giriyordu.
+
+Gülümsemesi hala nazik ve hüzünlüydü ama beni şaşırtan bir tür sıcaklık vardı. Grew'un yüzünde daha önce hiç böyle bir ifade görmemiştim.
+Quinby'ye doğru ilerledi ve elini uzattı. "Efendim," dedi, "az önce
+yemek yedim."
+
+Quinby hevesle ayağa kalktı, sarı başı küçük yaşlı yöneticinin üzerinde yükseldi. "Benim usiform'umu mu kastediyorsun--"
+
+"Usuform'unuz, efendim, şüphesiz, konsantrelerin şeytanca tanıtılmasından önceki Altın Çağ'dan bu yana en büyük aşçıdır. Bu büyük sergi için kutunuzu paylaşmama
+izin verir misiniz?"
+
+Quinby gülümsedi ve onu Mike'a tanıttı. Grew ustabaşımızla sıcak bir şekilde el sıkıştı, sonra bana döndü ve hatta adımı bile dostça bir
+zevkle söyledi. Daha kimse bir şey söyleyemeden, yüzümdeki uyuşuk parıltıyı bile silemeden, Başkan'ın sesi hoparlörden gelmeye başladı.
+
+Sözleri azdı--sadece usiform'ların harikaları ve medeniyetimiz için önemleri hakkında kısa bir söz--ve bitirdiğinde
+su bulma uzmanı sahada yerini almıştı.
+
+İzleyen herkes için, bizden başka, robota daha az benzeyen hiçbir şey yoktu. Android özelliğinin izi bile yoktu. Sadece tırtıl paletler üzerine monte edilmiş ağır bir duralit kutuya benziyordu.
+
+Ancak yasal tanımı gereği bir robottu. Zwergenhaus beynine sahipti ve
+insan komutları veya yönlendirmesi altında bağımsız hareket edebiliyordu. O kutu, beyni, _n_inci duyusal algısını, gözlerini ve kulaklarını ve çivi çakma aparatını barındırıyordu. Çünkü su bulucunun su algısı belirli bir yoğunluk seviyesine ulaştığında,
+zemine bir metal çivi çakıyordu. Bir keşif ekibi, bölgeyi incelemek için onu kendi başına gönderebilir, sonra izlerini rahatça takip edebilir ve
+çivilerin olduğu yeri kazabilirdi.
+
+Başkan'ın konuşmasından sonra sessizlik oldu. Sonra Quinby, kutumuzdaki
+mikrofona doğru eğildi ve "Git su bul" dedi.
+
+Su bulucu tarlanın üzerinde hareket etmeye başladı. Sadece Baş'ın kendisi,
+suyun çeşitli seviyelerde ve çeşitli miktarlarda nerede saklandığını biliyordu. Su bulucu bir süre hızla ilerledi, görünüşe göre hiçbir şey
+bulamadı. Sonra tereddüt etmeye ve yön değiştirmeye başladı. Bir kez, fark edilir saniyeler
+için durakladı. Quinby bile gergin görünüyordu. Sanford Grew'dan keskin nefesler duydum ve Mike neredeyse çalkalayıcısını boşaltacaktı.
+
+Sonra su bulucu yoluna devam etti. Su vardı, ama delmeye
+uğraşacak kadar değildi. Biraz daha hızla ilerledi, sonra aniden ve
+kesinlikle durdu. Gerçek bir hazine bulmuştu.
+
+Mekanizmasını biliyordum. Zihnimde Zwergenhaus beyninin ihtiyaçlarını kaydedip
+sfinkter mekanizmasının metal kaslarına ilettiğini görebiliyordum, bu da çiviyi
+yerleştirecekti. Çubukçu orada
+görünüşte hareketsiz duruyordu, ama bunu anladığınızda
+yumurtlamak için çabalayan bir tavuk izlenimi ediniyordunuz.
+
+Sonra patlama geldi. Gözlerim çöken parçaların arasından tekrar
+görebildiğinde, alanda kocaman bir kraterden başka bir şey yoktu.
+
+Elbette, ne olduğunu hemen fark eden Quinby'di.
+"Birisi," dediğini zar zor duydum, "çivi yerine temaslı bir fitil ucu olan patlayıcı bir mermi koymuş."
+
+Sanford Grew başını salladı. "Akıllı, genç adam. Akıllı. Ama bence genel izlenim, usiformların işe yaramadığı yönünde olacak." Geri çekildi, nazikçe gülümsedi.
+
+Mike'ı, çalkalayıcının kalanını boğazından aşağı dökerek geri tuttum.
+Mayhem bize hiçbir fayda sağlamazdı.
+
+"Yani onu sen mi dönüştürdün?" dedim Quinby'ye sertçe. "Kardeşim, bir sonraki inşa edeceğin şey, iyi ve garantili çalışan bir usiform dönüştürücüsü olmalı."
+
+Bir sonraki hafta Q.U.R. tarihinin en düşük noktasıydı. Şimdi biliyorum ki,
+Quinby'nin usiformları dünyayı hareket ettiren şey olduğunda, Q.U.R.'un en düşük noktaya
+ulaşabileceğini hayal etmek zor. Ama bunu anlatmamın bir nedeni, hiçbir büyük şeyin kolay olmadığını ve birçok büyük şeyin başarısının, az önce alıntıladığım o şans eseri sözüm gibi, çok küçük bir şeye bağlı olduğunu anlamanızı sağlamak.
+
+O zamanlar hiçbirimiz o sözün ne kadar önemli olduğunu tahmin etmemiştik. Endişelenecek
+başka şeylerimiz vardı. O gösterinin fiyaskosu
+bizi neredeyse
+pişirmişti. Elbette, bunun bir sabotaj olduğunu açıkladık ve Başkan bizi destekledi; ancak ukalalar başlarını salladılar ve
+"Bir mazeret için fena değil, _ama_--" diye mırıldandılar.
+
+Bizi destekleyen üç telekomünikasyoncudan ikisi
+Grew'a geçti. Tek yapımcı belgesel planlarından vazgeçti. Bunun dürüst bir inanç mı yoksa Robinc'in gücü mü olduğunu bilmiyorum; her iki şekilde de
+aynı etkiyi yaptı. İnsanlar artık sıradan şeylerden korkuyordu;
+_patlayabilirlerdi_! Ve geçen yüzyılın en büyük ve en akıllı tanıtım ve reklam kampanyası
+çaresiz gözlerimizin önünde _ffft_ sönüyordu.
+
+Bize ilk yükselişimizi sağlayan paha biçilmez Guzub'du. Sunspot'ta içki içerken, "Ah, çocuklar--Sizde işler ters gidiyor, bud you zdill gome 'here. Kök boya yok, beoble
+zdill değnek üç şey: yemek ve içmek ve--" dedi.
+
+Quinby yeni bir fikrin verdiği keskin zevkle başını kaldırdı. "Üçüncüsüyle yapabileceğimiz hiçbir şey yok," dedi. "Ama yemek ve içmek--Guzub, usiformların devrilmesini görmek istiyorsun, değil mi?"
+
+"Ve unutma," diye ekledim pratik bir şekilde, "robot barmenimizde kraliyet payına sahipsin."
+
+Guzub gözlerini bir kez yukarı bir kez aşağı yuvarladı--Marslıların onaylayan
+başını sallama numarası.
+
+"Tamam," dedi Quinby. "Neredeyse tüm barmenler Marslıdır,
+dokunaçlar mesleki olarak çok faydalıdır. Birçoğu sizin iyi arkadaşlarınız olmalı?"
+
+"Lodz," diye kabul etti Guzub.
+
+"O zaman dinleyin--"
+
+Gerçekten çekici kampanyayı böyle başlattık. Kelimeler mi? Elbette,
+insanlar milyonlarca ve milyarlarca kelime okuyup duydu ve bunların bir seti diğerine çok benziyor. Ama Guzub'un üç temel
+elzemesine indiğinizde--
+
+İki hafta içinde, etkili metropol bölgelerindeki beş bardan birinde bizim usform barmenlerimizden biri vardı. Guzub'un
+arkadaşları içki siparişleri aldı, bunları usformlara verdi, içecekleri servis etti ve sonra memnun müşterilere nasıl yapıldığını açıkladı--ayrıca bir patlama _olmadığını_ belirtti. Müşteriler meraklanırdı. Usformun çalışmasını izlemek için daha fazla sipariş verirlerdi. (Martoid dokunaçları vardı ve kendi vücudu çalkalayıcıydı.) Kurulum iş için harikaydı--ve bizim için.
+
+Bu adamlara ulaştı. Bu arada, yerleşim bölgelerini dolaşan ve eski moda yemekleri ücretsiz olarak hazırlamayı teklif eden sıradan aşçılarımız vardı.
+Kocası haftada bir kez düzenli olarak "Neden tüm bu konsantreler yerine daha fazla eski moda yemeğimiz olmuyor?" demeyen bir ev kadını yoktu. Neden, annem eskiden--"
+
+Kadınların çok azı bu sanatı biliyordu. Android aşçıları karşılayabilenler onları pek tatmin edici bulmamıştı. Ve kocalar anne hakkında
+mırıldanıp duruyordu. Mutlu bir yuva şansı bu korkunç
+tehlikeli yeni şeylerin riskine değerdi. Bu yüzden her zamanki aşçılarımız işlerini yaptı ve
+kocalar coşkuyla memnun oldu ve her şey harika görünmeye başladı.
+(Üç çeyrek saat sonra birkaç istatistiği kontrol etmeyi hatırladık--Guzub'un üçüncü itirazını bir şekilde dahil etmiş gibiydik
+sonuçta.)
+
+Bir gün Güneş Lekesi'nde yukarı bakıp bir ziyaretçimiz olduğunu görene kadar her şey tatlı bir şekilde ilerliyordu. "Seni burada bulabileceğimi duydum,"
+Sanford Grew gülümsedi. Guzub'a işaret etti ve "En eski
+konyak" dedi.
+
+Guzub onu görerek tanıyordu. Bir dokunaçın tereddütle bir
+mikifin şişesine doğru titrediğini gördüm, bu esprili bir şekilde adlandırılmış ama yine de etkili
+nakavt içkisi. Başımı salladım ve Guzub istifa ederek omuz silkti.
+
+"Ee?" diye sordu Quinby doğrudan.
+
+"Beyler," dedi Sanford Grew, "Size son bir çağrıda bulunmak için buraya geldim."
+
+"Çağrınızı kabul edebilirsiniz," dedim, "ve--"
+
+Quinby beni susturdu. "Evet, efendim?"
+
+"Bu bir iş çağrısı değil, gençler. Bu sizin vicdanlarınıza, Dünya İmparatorluğu'nun vatandaşları olarak görevinize bir çağrı."
+
+Quinby'nin biraz rahatsız göründüğünü gördüm. Gülümseyen yaşlı çocuk kurnazdı;
+Quinby'ye bir darbe vurmak için vicdanın nerede olduğunu biliyordu. "Vicdanlarımız temiz--düşünüyorum ve güveniyorum."
+
+"Öyle mi? Konseyde kurcaladığınız, benim tekelimi yok eden bu yasa - bundan daha fazlasını yaptı. O 'tekel', robotları güvenli kılan ve canlılara zarar vermelerini engelleyen faktörler üzerindeki kontrolümüze dayanıyordu. Bu kontrolü kaldırdınız."
+
+Quinby rahatlayarak güldü. "Hepsi bu mu? Bu cümleyi reklamlarda kullandığınızı biliyordum ama buna inanmamızı beklediğinizi sanmıyordum.
+Sizinkinin dışında başka güvenlik faktörleri de var. Bunları kullanıyoruz ve yasa hala bazılarının kullanılmasında ısrar ediyor, ancak Robinc'inkiler değil.
+Korkarım vicdanım dokunulmamış."
+
+"Bilmiyorum," dedi Sanford Grew, "sizi satın almaya çalışmanın hiçbir faydası olmadığını bildiğimde sizi pohpohluyor muyum yoksa hakaret mi ediyorum.
+Akıldan yoksunsunuz--"
+
+"Çünkü bizim tarafımızda," dedi Quinby sessizce.
+
+"Tek bir çarem kaldı." Ayağa kalktı ve nazikçe
+veda etti. "İyi günler, beyler."
+
+Brendiyi olduğu gibi bırakmıştı. Bitirdim ve Guzub'un mikisini veto ettiğim için mutluydum.
+
+"Tek çare--" diye düşündü Quinby. "Bu demek oluyor ki--"
+
+Başımı salladım.
+
+* * * * *
+
+Ama beklediğimizden daha çabuk başladı. Aslında, Güneş Lekesi'nden
+ayrılır ayrılmaz başladı. Duralit kollar vücudumu sardı ve
+duralit bir diz sırtımın alt kısmına saplandı. Dugg Quinby ile ilk tanıştığımda, çocuk bir kasırga gibi olduğu gerçekten büyük ve harikulade bir sokak kavgasındaydı. Quinby çoğunlukla sessiz biriydi, ancak bir şey onu harekete geçirdiğinde -ve bunu genellikle yapan kıvılcım adaletsizlikti- putlarını savunan on dört Marslı dağcı gibi dövüşebilirdi.
+
+Ama duralitle kim savaşabilir? Benim biraz mantığım var; denemedim bile.
+Quinby'nin öfkesi bir anlığına net görüşünü kör etti. Tek sonuç
+kırık bir eklem ve biraz kan ve deri kaybıydı.
+
+Bir sonraki şey, duralit parmakların başımın arkasındaki uygun noktaları yoklamasıydı. Sonra aniden ustaca bir baskı ve kararma.
+
+* * * * *
+
+Bir tür atölyedeydik. İlk tahminim, Robinc bitkisinin peteklerini delen gizli atölyelerden biriydi, Grew'un en titiz adamı dışında hiç kimse oraya giremezdi. Duvara kelepçelenmiştik.
+Bizi koruması için sadece bir android bırakmışlardı.
+
+Onunla konuşan Quinby'di ve direkt konuya girdi. "Bize ne olacak?"
+
+"Bir sonraki emrimi aldığımda," dedi android duygusuz sesiyle, "seni öldüreceğim."
+
+Ben de onun kadar kayıtsız görünerek moralimi yüksek tutmaya çalıştım. Başaramadım.
+
+"Son çare--" dedi Quinby.
+
+Başımı salladım. Sonra, "Ama bak!" diye bağırdım, "Bu göründüğü gibi olamaz. Bir Robinc androidi olamaz çünkü," bir yudum aldım, "bizi öldürmeye gidiyor. Robinc'in ürünleri, başka bir varlığın emriyle bile olsa, canlı bir varlığa zarar vermelerini engelleyen bir güvenlik faktörüne sahiptir."
+
+"Hayır," dedi Quinby yavaşça. "Robinc'in İmparatorluk ordusu için androidler ürettiğini hatırlıyor musun? Açıkçası bunlar güvenlik faktörüne sahip olamaz.
+Ve Bay Grew görünüşe göre kendi kaçak haydutları için birkaç tane saklamış."
+
+İnledim. "Sana güveniyorum," dedim. "Bir katil
+android ile zincirlendik ve orada sakince durup şeylere
+doğrudan bakacağına güveniyoruz. Peki, bizi bundan
+kurtaracak kadar doğru görebilecek misin?"
+
+"Elbette," dedi basitçe. "Grew'un usiformların
+geleceğini mahvetmesine izin veremeyiz."
+
+Beni daha fazla endişelendiren en azından bir gelecek daha vardı, ama bu kadar kişisel bir şeyi
+konuşmanın bir anlamı olmadığını biliyordum. Sadece orada durdum
+ve Quinby'yi düşündüm--androidin kılıfının etrafında dolaşan elini ve bir sonraki
+emrini ne zaman alacağını merak ettiğim zamanı ne zaman izlediğimi.
+
+Ve ben beklerken ve izlerken, yarı korkmuş terlemiş, yarı Quinby'ye körü körüne güvenerek, yarı kişisel olmayan bir şekilde ölümün neye benzediğini merak ederken - evet, bunun üç yarım olduğumu biliyorum ama doğru sayacak durumda değildim - beklerken çok garip bir şey fark etmeye başladım. En çok endişelendiğim kişi ben değildim. Dugg Quinby'di. Bana karşı bencil olmayan ben! Quinby ilk kez androidlerdeki saçmalıkları gördüğünden beri - hayır, bunun arkasında, o ilk muhteşem
+sokak kavgasından beri, o çocuğu bir oğul gibi sevmeye başlamıştım - ki bu beni oldukça erken olgunlaştıracaktı.
+
+Onda bir şey vardı - neredeyse aptalca masumiyetin o lanet olası karışımı, herhangi bir sorunu kendi yeteneğiyle çözme yeteneğiyle birleşmişti - tam olarak yaratıcılık değil, sadece şeylere doğrudan bakma yeteneği.
+
+Burada bencil hissetmiyordum. Ve işte burada
+ilk kez onun yaptığını bildiğim en zor veya dolaylı şeyle ortaya çıkıyordu.
+Belki de evlilik gibiydi--iki kişinin bir şekilde birlikte büyümesi ve
+ortalamanın yükselmesi gibi.
+
+Neyse, şimdi androide, "Siz askeri robotların
+oldukça iyi nişancılar olduğunuza bahse girerim, değil mi?" dedi.
+
+"Ben şimdiye kadarki en iyi Robinc'im," dedi android.
+
+Robinc için çalışıyordum; her birinin kendisinin en iyisi olduğuna dair bir inançla şartlandırıldığını biliyordum. Bu onlara güven veriyordu.
+
+Quinby serbest elini uzattı ve çalışma masasından plastik bir disk aldı. "Emirleri beklerken, neden bize biraz
+nişancılık göstermiyorsun? Zaman geçireceğiz."
+
+Robot başını salladı ve Quinby diski havaya fırlattı. Android
+kılıfını kavradı. Ve silah sıkıştı. Kılıfın metali bizi kaçırma mücadelesinde
+ezilmişti. Quinby bunu fark etmiş olmalı; tüm planı o küçük noktadan
+gelişti.
+
+Robot kılıf hakkında yorumlar yaptı; askeri androidlerin bir askerin kelime dağarcığına sahip olması sebebiyle, bunu atlayacağız.
+
+Quinby, "Bu çok kötü. Buradaki arkadaşım bir Robinc tamircisi, ya da eskiden öyleydi. Eğer onu serbest bırakırsanız, bunu tamir edebilir." dedi.
+
+Robot kaşlarını çattı. Tamiri istiyordu, ama aptal değildi. Sonunda
+elimi serbest bırakmadan önce ayağımı zincirlemeye ve
+kendi parmaklarını sürekli bileğimde tutmaya karar verdi, böylece silahı kapmak ve kullanmakla ilgili
+komik bir fikrim olursa beni sıkıştırabilirdi. Quinby'nin planının
+söndüğünü düşünmeye başladım, ama devam ettim ve çalışma masasındaki aletlerle kılıfı hemen tamir ettirdim.
+
+"Bu sık sık oluyor mu?" diye sordu Quinby.
+
+"Biraz fazla sık." Androidin sesinde bir pürüz vardı. Sorun gidermede sık sık karşılaştığım şeyi fark ettim; bir androidin kusursuz çalışmadığı gerçeğine duyduğu kızgınlık.
+
+"Anlıyorum," diye devam etti Quinby, sanki sosyal şartlarda buradaymışız gibi rahat bir şekilde. "Elbette sorun, bir silah kullanmak zorunda olman."
+
+"Ben bir askerim. Elbette bir silah kullanmak zorundayım."
+
+"Anlamıyorsun. Yani sorun, bir silah _kullanmak_
+zorunda olman. Şimdi, eğer bir silah _olabilirsen--"
+
+Biraz açıklama gerektirdi. Fakat android, bir usuform olmanın, bir kılıfı kapmak zorunda olmayan bir kola sahip olmanın ne anlama gelebileceğini anladığında, göz hücreleri yeni bir parlaklığa bürünmeye başladı.
+
+"Bunu bana yapabilir misin?" diye sordu benden.
+
+"Elbette," dedim. "Bana silahını ver ve ben de--"
+
+Güvensizce geri çekildi. Sonra odanın etrafına baktı,
+başka bir silah buldu, boşalttı ve bana uzattı. "Devam et," dedi.
+
+Kötü bir işti. Bir durumdaydım ve acelem vardı ve alnımdan akan ve kaşlarımdan
+dayan ter hiç yardımcı olmuyordu.
+Atölye de çok iyi donanımlı değildi ve kafamdan
+çalmaktan nefret ediyorum. Bakmak için güzel bir diyagramı severim.
+
+Ama bir şekilde yaptım, çok kaba bir şekilde, bir elimi hazne ve namlunun yerine koydum ve tetiği, ayrı bir silahı ateşlemek için parmak hareketlerini harekete geçiren aynı sinir akımlarıyla
+çalışacak şekilde taktım.
+
+Android kendini beceriksizce doldurdu. Bir kenara çekildim ve Quinby
+diski havaya fırlattı. Anlık tuzak atışının bundan daha güzel bir örneğini hiç görmediniz. Android yüzünü o çok nadir şeye, bir robot sırıtışa doğru uzattı ve kendini keskin bir şekilde sevinçli bir
+askeri dille ifade etti.
+
+"Beğendin mi?" diye sordu Quinby.
+
+Robotun cevabından alıntılayabileceğim tek şey "Evet" oldu, ama bunu
+çok vurgulu yaptı.
+
+"O zaman--"
+
+Ama ben araya girdim. "Bir dakika. Bunu geliştirmek için bir fikrim var."
+
+Quinby muhtemelen muhafızımızın minnettarlığına güveniyordu; onu daha
+güvenli bir şekilde tutmak istiyordum. "Bunu bir saniye çıkarayım--" Hazneyi ve namluyu çıkardım; hala eli bendeydi. "Şimdi," dedim, "çıkmak istiyoruz."
+
+Diğer elindeki silahı kaldırdı, ama ben "Ah, ah! Yaramaz!
+Emir alana kadar bizi öldürmemen gerekiyor ve eğer öldürürsen
+seni burada tek elle bulurlar. Bir asker için iyi bir durum. Kendini
+onaramazsın; bunun için iki ele ihtiyacın var. Ama eğer dışarı çıkarsak,
+bizimle gelip istediğin kadar
+ilk ve en iyi verimli mutlu, düzenli askere dönüştürülebilirsin."
+
+Biraz tartışma gerekti, ama aklında o mükemmel atışın anısı varken çok da uzun sürmedi. Quinby'nin daha sonra söylediği gibi,
+"Robinc robotlarına özgüven kazandırmak için gurur aşıladı. Ama
+bu gurur onlara kibir ve mükemmellikten daha az olan her şeye karşı memnuniyetsizlik de verdi. Kullanabileceğimiz şey buydu. Her şey mükemmel
+bir şekilde
+basitti--"
+
+"--doğrudan baktığınızda," diye koro halinde söyledim.
+
+"Ve ayrıca," dedi, "şimdi Robinc'i sonsuza dek nasıl yeneceğimizi biliyoruz."
+
+* * * * *
+
+Bu biraz rahatlatıcıydı sanırım, ama bunu açıklamak için
+başka bir kelime söylemedi. Ve teselliye ihtiyacım vardı, çünkü tam o sırada işler yine
+kötü bir hal aldı. Fabrikamıza yakın durduk ve dışarı çıkmaya cesaret edemedik. Quinby yeni ilhamını
+tamamlamadan önce daha fazla kaçırma riskine girmiyorduk.
+
+Quinby tek başına bunun üzerinde çalıştı, bizden bile gizli. Artık bizim korumamız olan usuform askerde birkaç
+ekstra mükemmellik dokunuşu buldum - Grew hırsızlıktan şikayet etmeye asla cesaret edemezdi çünkü zaten böyle bir android'e sahip olma hakkı yoktu. Mike ve yardımcıları, hem yaşayan hem de usuform, barmenler, su bulucuları ve aşçılar ürettiler - şu ana kadarki en başarılı üç usuform tasarımımız.
+
+Dışarı çıkmadık ama yeterince duyduk. Grew'un kampanyasındaki en yeni ve en
+kötü adımdı. Aşçılarımızı ve barmenlerimizi takip eden ve ürünlerine yoğun dozlarda ptomain
+alkaloidleri sokmayı başaran adamları vardı. Ciddi bir zehirlenme yok, anlıyor musunuz;
+sadece anormal derecede yüksek oranda insan
+usuform-hazırlanmış yiyecek veya içecek aldıktan sonra hastalanıyor. Ve
+usuformların zehirli bir sıvı salgıladığına dair etrafta dolaşan bir söylenti var, bu nesnel bir saçmalıktı ama
+birçok insanı korkutmaya yetecek kadar.
+
+"Hiçbir faydası yok." Mike bir gün bana söyledi. "Biz yendik. Bir haftada iki yeni sipariş. Bittik. Üretimi sürdürmenin bir faydası yok."
+
+"Cehenneme kadar yendik," dedim.
+
+"Beni cesaretlendirmek istiyorsan, buna kendin inanmış gibi görünmen gerekir. Hayır, battık. _O_ orada otururken ve--ben Güneş Lekesi'ne gidip bu dönene kadar Üç Gezegen içeceğim. Ve eğer
+Grew beni kaçırmak isterse, bana hoş geldin."
+
+Tam o sırada Baş'tan mesaj geldi. Okudum ve devenin o son
+bardak hakkında ne hissettiğini anladım. Şöyle yazıyordu:
+
+Halkın baskısına sonsuza dek direnemem. Ben biliyorum ve sen de biliyorsun
+Grew ne yapıyor; ancak halk Robinc'e özel haklar veren yasanın yeniden yürürlüğe girmesini talep ediyor. Quinby şapkanın içinden tavşanı göremezse, bu yeniden yürürlüğe girme kabul edilecek.
+
+"Bununla ilgili ne söyleyeceğini göreceğiz," dedim Mike'a. Kapıya doğru yürüdüm ve ben
+kapıya doğru giderken Quinby dışarı çıktı.
+
+"Buldum!" dedi. "Tamamlandı." Müdür'ün mesajını tek bir bakışta okudu ve bu onu rahatsız etmedi. Beni omuzlarımdan yakaladı
+ve gülümsedi. Adımın bu kadar sıcak bir şekilde söylendiğini hiç duymamıştım. "Mike da. Gel
+ve şu ana kadar gördüğümüz en büyük usformu gör. Sorunlarımız
+bitti."
+
+İçeri girdik. Baktık. Ve ağzımız açık baktık. Çünkü Quinby'nin en büyük usformu, gözlerimizin görebildiği kadarıyla, sadece bir başka android robottu.
+
+* * * * *
+
+Mike, bu gezegeni döndürme tehdidini yerine getirmek için kararlı bir şekilde Güneş Lekesi'ne gitti. Kendi kendime, gerginliğin Quinby'nin net gören zihnini etkilediğini düşünmeye başladım. Özellikle de bana bu fikri kendim verdiğimi söylediğinde dinlemedim. Usiform-android'in gizemli görevine gitmesini izledim ve hatta askerimi de yanına almasına izin verdim. Ve umursamadım. Dugg Quinby bile kayıyorsa, şimdilik işimiz bitmişti.
+
+Ama o sabah fazla endişelenmeye vaktim yoktu. Tamir isteyen androidlerle çok meşguldüm. Çok kapsamlı
+onarımlar da, onları benim askerim gibi, neredeyse usuform'lara dönüştürüyordu. Her zaman böyle birkaç isteğimiz olurdu - sanırım hepsinin mükemmel olmak istediğinden bahsetmiştim - ama bu bir
+sağanak yağmura dönüşmeye başladı. Fabrika hatlarını durdurdum ve her adamı ve robotu tamire gönderdim.
+
+Öğleden sonraya doğru kafam karışmaya başladı. Anlamam biraz zaman aldı ve sonra beni vurdu. Onardığım son üç tanesi
+yepyeniydi. Robinc fabrikasından yeni çıkmışlardı ve
+yeniden yapılmak üzere buraya aceleyle geliyorlardı... usuformlara!
+
+Robot madencideki matkap kollarını ayarlamayı bitirir bitirmez,
+Quinby'nin kamuflaj tespit etmek için bir askere
+kızılötesi renk algısı yerleştirdiği yere koştum. Beni görünce başını kaldırıp gülümsedi. "Şimdi anladın mı?"
+
+"Ne olduğunu anlıyorum. Ama nasıl... kim--"
+
+"Az önce tavsiyeni dinledim. İhtiyacımız olan şeyin garantili çalışan bir usiform dönüştürücü olduğunu söylemedin mi?"
+
+* * * * *
+
+"Açıklamama gerek yok, değil mi? Bir kere doğrudan baktığınızda yeterince basit."
+
+Güneş Lekesi'nde oturuyorduk. Guzub çok mutluydu; Başkan'ın kuruluşuna ilk kez saygı duymasıydı.
+
+"Daha iyi olur," dedim, "ben çarpık görüşlü bir budala olduğumu unutma."
+
+"Ama hepsi senin söylediklerinden kaynaklanıyor. Her zaman iyi olduğumu söylüyorsun
+şeyler ve robotlar konusunda, ama insanlar doğru görmediği veya doğru davranmadığı için insanlar konusunda berbatım. Eh, insanlar yüzünden engellendik. Grew'un ortaya attığı tüm sis perdelerinden usiformların gerçek önemini göremiyorlardı. Ama sen de robotların doğru gördüğünü kabul ediyorsun, bu yüzden doğrudan onlara gittim. Ve bize bir usiform dönüştürücüye ihtiyacımız olduğunu söyledin, bu yüzden ben de bir tane yaptım."
+
+Baş gülümsedi. "Ve bir dönüştürücünün kullanışlı biçimi nedir?"
+
+"Bir android gibi görünmeliydi, aksi takdirde onu kabul etmezlerdi. Ama o şimdiye kadar yapılmış en sağlam, en güçlü androiddi, birkaç
+harika, yeni kasları vardı. Eğer dövüşmeye gelirse, o şekilde
+insanları ikna edeceğinden emindi. Ayrıca, daha önce bir robot beynine hiç
+yerleştirilmemiş bir şeye sahipti --tartışma ve ikna etme yeteneği.
+Bununla birlikte, usiform askerini bir koruma ve örnek kombinasyonu olarak kullanmıştı. Bu yüzden androidlerin arasına, hatta Robinc'teki ve o andan itibaren içerideki muhafızlara kadar
+gitti; ve usiform dönüştürücü olduğu için,
+iyi--inandı."
+
+Baş, o meşhur sırıtmanın siyah yüzünde oynamasına izin verdi. "İyi iş,
+Quinby. Ve Grew sonunda yenildiğini görme sağduyusuna sahip olmasaydı, Dünya'da tek bir android kalmayana kadar usiform dönüştürücülerinizle devam edebilirdiniz. Robinc termitlerle dolu ahşap bir bina gibi devrilirdi."
+
+"Peki Grew?" diye sordum. "Ona ne oldu?"
+
+"Sanırım bir bakıma, kaybına razı oldu. Bana en büyük tutkusu
+gittiğinden, ikinci en büyük tutkusundan en iyi şekilde yararlanacağını söyledi. Dağlardaki evine, ona verdiğin usiform aşçıyla gitti ve kendini
+yiyerek öldüreceğine yemin ediyor."
+
+"Ben," dedi Mike, uygun bir tavırla, "Daha nemli bir ölüm isterim."
+
+"Ve bundan sonra, istatistikçilerim bana, metal stoklarımızı
+asla tüketme tehlikesiyle karşı karşıya olmadığımızı temin ediyor. Usiformlardaki tasarruflar bizi
+kurtaracak. Quinby, sen bugün İmparatorluktaki en önemli
+adamsın, farkında mısın?"
+
+O zaman grubun yaklaştığını ilk duydum. Quinby kızarıp yutkunurken ses daha da yükseldi. Sonunda "Biliyor musun, bunu hiç düşünmüş olsaydım, ben... sanırım bunu
+yapamazdım." dediğinde her şey yolunda gidiyordu.
+
+Bunu kastetmişti de. Kalabalık Güneş Lekesi'ne dalıp "Quinby!" ve "Q.U.R." diye bağırdığında onunkinden daha mutsuz bir yüz görmediniz.
+
+Ama benimkinden daha gururlu bir yüz görmediniz, o zaman bar aynasında gördüm. Kendimle gurur duyuyorum, elbette, ama sadece Dugg Quinby'yi
+keşfeden ben olduğum için.
+
+Robinc'in Project Gutenberg E-Kitabının Sonu, H.H. Holmes
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ROBINC ***
+
+***** This file should be named 61540.txt or 61540.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/1/5/4/61540/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
