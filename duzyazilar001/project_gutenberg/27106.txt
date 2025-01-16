@@ -1,0 +1,1580 @@
+*** START OF AKTAHEADER ***
+Başlık: Kinematics of Mechanisms from the Time of Watt (Watt Zamanından Mekanizmaların Kinematiği)
+Yazar: Eugene S. Ferguson
+Yayın Tarihi: October 31, 2008 [EBook #27106]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/27106
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Kinematics of Mechanisms from the Time of
+Watt, by Eugene S. Ferguson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Kinematics of Mechanisms from the Time of Watt
+
+Author: Eugene S. Ferguson
+
+Release Date: October 31, 2008 [EBook #27106]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KINEMATICS OF MECHANISMS ***
+
+*** START OF TURKISH PART ***
+Chris Curnow, Viv, Joseph Cooper ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[Yazıcının notları:
+
+1) Peaucillier bir yazıcı hatasıdır ve Peaucellier olarak değiştirilmiştir.
+
+2) 'Pafnuti[)i] kelimesinin sonundaki 4 karakter,
+'i' harfini, kısa bir vurguyla belirtir.]
+
+KATKILAR
+
+TARİH VE TEKNOLOJİ MÜZESİ
+
+MAKALE 27
+
+WATT ZAMANINDAN MEKANİZMALARIN KİNEMATİĞİ
+
+_Eugene S. Ferguson_
+
+JAMES WATT, KİNEMATİK SENTEZCİ 187
+
+DÜZ BİR ÇİZGİ ÇİZMEK 199
+
+BİLİM İNSANLARI VE MAKİNALAR 209
+
+MAKİNİSTLER VE MEKANİZMALAR 216
+
+AMERİKA'DA MEKANİZMALAR, 1875-1955 223
+
+EK KAYNAKLAR 229
+
+WATT ZAMANINDAN MEKANİZMALARIN KİNEMATİĞİ
+
+_Bir James Watt, parlaklığı ve geniş kapsamlı sonuçları bakımından nadiren, hatta hiç eşi benzeri görülmemiş yaratıcı bir güç gösterisiyle, buhar makinesini yalnızca ayrı bir kondansatör ekleyerek değil, aynı zamanda tamamen yeni bir bağlantı ailesi yaratarak kökten değiştirdi. Yaklaşımı büyük ölçüde
+bugün kullandığımız kelimeyle
+deneyseldi._
+
+_Bu çalışma, günümüzün karmaşık hesaplama yöntemlerinin ihtişamına rağmen, geçmişe dair bilgiyle
+desteklenen oldukça gelişmiş bir sezgisel duygunun hala başarılı mekanizmaların tasarımı için vazgeçilmez olduğunu öne sürüyor._
+
+YAZAR: _Eugene S. Ferguson, eskiden Amerika Birleşik Devletleri Ulusal Müzesi, Smithsonian Enstitüsü'nde makine ve inşaat mühendisliği küratörüydü, şimdi Iowa Eyalet Bilim ve Teknoloji Üniversitesi'nde makine mühendisliği profesörüdür._
+
+Bugünkü mühendislik okullarında, bir öğrenciye mekanizmaların kinematiği, mekanizmalarda meydana gelen hareketlerin altında yatan ilkelerle ilgilenen bir kinematik analiz dersi aracılığıyla tanıtılır. Bu ilkeler, geri çekilebilir iniş takımlarının bağlantısı, hesaplama mekanizmaları, bir otomobilde kullanılan mekanizmalar ve benzerleri gibi halihazırda var olan mekanizmaların incelenmesiyle gösterilir. Böyle bir kursta, dişlilerin ve kamların tasarımına sistematik, hatta titiz bir yaklaşım da sunulur. Ancak yakın zamana kadar, kinematik analizde geliştirilen prensipleri, bağlantıların kinematik sentezi gibi daha karmaşık bir soruna uygulamak için ciddi bir girişimde bulunulmamıştır. Kinematik sentez, belirli bir amaç için belirli bir hareket serisi üretmek üzere bir bağlantının tasarlanmasıdır. Kinematik senteze rasyonel - sayısal veya geometrik - bir yaklaşımın mümkün olduğu nispeten yeni bir fikirdir, henüz tam olarak kabul edilmemiştir; ancak bu fikir, son 10 yılda bu ülkede mekanizmaların kinematiğine yönelik yoğun akademik ilginin sorumlusudur. Bu akademik faaliyet, konuyla ilgili daha önceki birçok çalışmanın yeniden keşfedilmesiyle sonuçlanmıştır ve bu alanda çalışan neredeyse tüm akademisyenler, kendilerinden daha erken bir zamanda sahneye çıkanlara olan borçlarını bir şekilde kabul etmişlerdir. Gelişmelerin sırası ve doğası hakkında ara sıra incelemeler yapıldı, ancak
+doğal olarak
+vurgu yakın geçmişe yapıldı. Bana öyle geliyor ki
+kendi neslimizin ötesine, hatta
+genellikle mekanizma analizi ve tasarımının birçok modern kavramının kökeni olarak kabul edilen Franz Reuleaux'nun (1829-1905) zamanının ötesine bakmakta ve Reuleaux'nun katkılarını mümkün kılan
+fikirleri sorgulamakta kazanılacak bir şeyler var.
+
+_Kinematiğe yönelin. Size karşılığını verecektir. Geometriden daha verimlidir; uzaya dördüncü bir boyut ekler._
+
+--Chebyshev'den Sylvester'a, 1873
+
+Tamamlanmışlık iddiası yapılmasa da, bu makalede hem akademik çevrelerde hem de atölyede kinematik analiz ve sentezin gelişimindeki en önemli noktaları izlemeye çalıştım ve mümkün olduğunca birinin diğerine olan etkisini not ettim. Eğer konuya modern yaklaşıma yaptıkları katkıların gerektirdiğinden daha fazla yer ayırdıysam, bunun nedeni mekanizmaların kinematiğinin tarihinin, mühendisliğin diğer dallarının tarihi gibi, evrimsel gelişiminin insan faaliyetinin bir sonucu olduğu kabul edilirse daha ilginç ve daha makul olduğunu bulmamdır. Bu tarih, bizim gibi, çevreye, şeylere öznel bir bakış açısına ve fikir ve inanç mirasına bizden daha az tabi olmayan, daha az zeki olmayan insanlar tarafından yazılmıştır. Watt zamanından itibaren dönemi seçtim çünkü modern mekanizmalar onunla birlikte ortaya çıktı ve dönemin birinci yüzyılını vurguladım çünkü 1885'e gelindiğinde modern mekanizmaların kinematiğine dair fikirlerin çoğu iyi gelişmişti. Bağlantılar, dişliler ve kamlar hariç tutularak tartışılmaktadır, çünkü kinematik sentezdeki akademik çalışmaların çoğu şu anda bağlantıların tasarımına yöneliktir ve bağlantılar, dişliler ve kamların ayrıntılı bir şekilde ele alınması durumunda gereksiz yere karmaşık hale gelebilecek bir anlatı için uygun bir konu sağlar. Amerikan mühendislik okullarında öğretildiği şekliyle kinematiği izleyerek anlatıyı günümüze kadar getirdim ve 1950'den bu yana bu ülkedeki kinematik alanındaki akademik faaliyetlerden kısaca bahsederek bitirdim. Konunun tarihinde daha fazla çalışmaya teşvik etmek için ek referansların açıklamalı bir listesi eklenmiştir.
+
+James Watt, Kinematik Sentezci
+
+Buhar makinesinin geliştiricisi olan James Watt (1736-1819), geçmişinde mekanizmalar hakkında resmi bir çalışma olmamasına rağmen, oldukça yetenekli bir mekanizma tasarımcısıydı. Gerçekten de, mekanizmaların incelenmesi, kullanıldıkları makinelere doğrudan bakılmadan, Watt'ın önemli çalışması tamamlanana kadar başlatılmadı, oysa mekanizmaların gerçek tasarımı Watt'ın zamanından birkaç yüzyıl önce devam ediyordu. Vidalar, kamlar ve dişliler kullanan mekanizmalar kesinlikle Hristiyan döneminin başlangıcında kullanılıyordu. 16. yüzyıldan önce dört çubuklu bağlantıların varlığına dair kesin bir kanıttan haberdar olmasam da, o zamana kadar yaygın olarak kullanılmaları muhtemelen çok daha önce ortaya çıktıklarını gösteriyor. 13. yüzyıldan kalma, yukarı aşağı çalışan bir kereste fabrikasının baştan çıkarıcı bir taslağı (şekil 1), dört çubuklu bağlantının o zamanlar kullanıldığını gösteriyor, ancak bunu kanıtlamıyor. Leonardo da Vinci (1452-1519), kendisi inşa etmemiş olsa bile, bir kereste fabrikası için de bir krank ve sürgü mekanizması çizdi (şekil 2). 16. yüzyılda, döner hareketin karşılıklı harekete (kesin bir ifadeyle, büyük bir dairenin küçük bir yayı boyunca salınım) ve tam tersinin, rijit elemanların bağlantılarının kullanımıyla dönüştürülmesi bulunabilir (şekil 3 ve 4), ancak döner hareketin karşılıklı harekete dönüştürülmesi o zamanlar daha sık olarak kamlar ve aralıklı dişlilerle gerçekleştiriliyordu. Bununla birlikte, bağlantı fikri 1600'den önce makine üreticisinin repertuarının sağlam bir şekilde yerleşmiş bir parçasıydı. Aslında, Agostino Ramelli'nin makineler hakkındaki kitabını yayınladığı 1588'de[1], bağlantıların gerçekten de nihai gelişim aşamasına ulaşıp ulaşmadığını merak etmiş olabiliriz. Anlatmak istediğimi açıklamak için, bana en çok hitap eden Ramelli plakasını seçtim (şekil 5), ancak kitap, karşılaştırılabilir karmaşıklıkta ve yaratıcılıkta 200'den fazla başka makine sergiliyor.
+
+[Dipnot 1: Agostino Ramelli, _Le Diverse et Artificiose Machine_,
+Paris, 1588.]
+
+[Resim: Şekil 1.--13. yüzyıla ait yukarı aşağı kereste fabrikası.
+Alt soldaki, testere bıçağına bağlı kılavuz mekanizması, 4 çubuklu bir bağlantı gibi görünüyor. Robert Willis'in çevirisi ve editörlüğünü yaptığı _Wilars de Honecort'un Eskiz Defterinin Faksimi_ (Londra, 1859, s. 43).]
+
+[Resim: Şekil 2.--Leonardo da Vinci'nin (1452-1519) el yazması defterlerinden yeniden çizilmiş kranklı kayar mekanizması. Kılavuzların alt ucunda bir çerçeve testeresi tasvir edilmiştir. Theodor Beck'ten, _Beitraege
+zur Geschichte des Maschinenbaues_ (Berlin, 1899, s. 323).]
+
+[Resim: Şekil 3.--Vanuccio Biringuccio'nun üfleme motoru, yaklaşık
+1540, su çarkı milinin hareketinin
+dönmeden salınıma dönüşümünü gösteriyor. Theodor Beck'ten, _Beitraege zur Geschichte des
+Maschinenbaues_ (Berlin, 1899, s. 120).]
+
+[Resim: Şekil 4.--Tahıl değirmeni, 1588, çalışma çubuklarının hareketinin
+dönmeden salınıma dönüşümünü gösteriyor. Volanın öncülleri olan
+uç ağırlıklarına dikkat edin. Agostino Ramelli'den, _Le
+Diverse et Artificiose Machine_ (Paris, 1588, pl. karşı sayfa 199).]
+
+[İllüstrasyon: Şekil 5.--Su yükseltme makinesi. Böyle bir makine 16. yüzyılda İspanya'da inşa edildi ve yaklaşık 80 yıl çalıştırıldı. Agostino Ramelli'den, _Le Diverse et Artificiose Machine_ (Paris, 1588, s. 199).]
+
+Ramelli'nin bağlantıları ile yaklaşık 200 yıl sonra James Watt'ın bağlantıları arasında hem tasarım hem de uygulama açısından büyük bir fark vardı.
+Watt, mekanik teknolojide köklü değişiklikler başlatmaktan sorumluydu, ancak mekanik sanatların, yüzyıllar süren yavaş gelişimle, onun dehasının gelişebileceği aşamaya ulaştığı kabul edilmelidir. Watt'ın araştırmaları için gerekli olan
+malzemeleri ve araçları sağlama bilgisi ve yeteneği el altındaydı ve
+ortağı Matthew Boulton'ın iyimserliği ve sabırlı teşvikiyle bunlar onun emrine verildi.
+
+Watt'ın dehası hiçbir yerde bağlantıların sentezinde olduğu kadar belirgin değildi.
+Ancak Watt'ın bağlantılarının başarısındaki temel bir bileşen,
+ortağının talep ettikleri tamamen yeni
+incelik düzenini takdir etmesiydi.
+Watt ile ortaklığı kurulmadan çok önce düğme ve metal yeniliklerin başarılı bir üreticisi olan Matthew Boulton, Watt'ın buhar makinesinin yapımında özen gösterilmesi gerektiğini hemen fark etmişti. 7 Şubat 1769'da Watt'a şunları yazmıştı:[2] "Motorunuzun en iyi şekilde çalışması için para, çok hassas işçilik ve kapsamlı yazışmalar gerektireceğini ve itibarını korumak ve icadı adaletli bir şekilde yapmanın en iyi yolunun, bunun yürütme kısmını cehalet, deneyim eksikliği ve gerekli kolaylık eksikliği nedeniyle kötü ve yanlış işçilik üretmeye çok yatkın olacak çok sayıda deneysel mühendisin elinden uzak tutmak olacağını varsaydım; tüm bu eksiklikler icadın itibarını etkileyecektir." Boulton, motorları kendi atölyesinde "demirci ile matematiksel alet üreticisi arasındaki kadar büyük bir doğruluk farkıyla" üretmeyi bekliyordu. İngiltere, Birmingham'daki Boulton ve Watt'ın Soho Works'ü, Watt için tasarladığı mekanizmaları "büyük" (yani buhar makinelerinde kullanılabilecek kadar büyük) üretme sorununu çözdü.[3]
+
+[Dipnot 2: Henry W. Dickinson, _James Watt, Craftsman & Engineer_,
+Cambridge, Cambridge University Press, 1936, s. 52-53.]
+
+[Dipnot 3: James P. Muirhead, _The Origin and Progress of the
+Mechanical Inventions of James Watt_, Londra, 1854, cilt 1, s. 56, 64.
+Üç ciltten oluşan bu eser, mektuplar, diğer belgeler ve patent spesifikasyon çizimlerinin plakalarını içerir.]
+
+Boulton ve Watt'ın pratik mekaniğe "büyük" katkıları
+fazla abartılamaz. 18. yüzyılda şaşırtıcı derecede doğru işler üreten alet
+üreticileri ve zaman tutucu üreticileri vardı, ancak bu tür işler nispeten küçük parçalardan oluşuyordu ve hepsi bir tezgah torna tezgahı, el aletleri ve mükemmel el işçiliği kapsamındaydı. Makine yapım sanatının kapsamını büyük ölçüde genişleten makine aletlerinin hızlı ilerlemesi, Boulton ve Watt ortaklığı sırasında başladı (1775-1800). Nisan 1775'te Concord'da Amerikan sömürgecileri ile İngiliz kırmızı ceketliler arasındaki çatışma, Batı Yarımküre'deki siyasi olayların gidişatını gelecekte belirleyecek bir savaşın başlangıcını işaret etti. Nisan 1775'te Birmingham'da meydana gelen bir başka olay, şimdi teknolojik ilerlemenin yeni bir döneminin başlangıcını işaret ediyor gibi görünüyor. Bu ayın sonuna doğru, Soho Works'te Boulton, ortağına John Wilkinson'ın delme
+değirmeninde tamamlanmış dökme demir buhar motoru silindirini aldıktan sonra şu yorumu yazdı:
+
+... oldukça doğru görünüyor, ancak bir inç kalınlığında ve yaklaşık 10 cwt ağırlığında. Çapı, teneke olanın altında olduğu 18 inçten yaklaşık olarak daha fazla ve bu nedenle pistona yaklaşık iki inç genişliğinde yapılmış bir pirinç çember eklemek gerekli hale geldi.[4]
+
+[Dipnot 4: _Aynı_, cilt 2, s. 84.]
+
+Bu silindir, Watt'ın 10 yıl boyunca neredeyse tüm düşüncelerini ve geçimini sağlamak için ayırabildiği tüm zamanı işgal eden Watt buhar makinesinin cesaret kırıcı derecede uzun gelişiminde dönüm noktasını işaret ediyordu. Boulton ve Watt firmasının buhar makinesini daha fazla geliştirmesi ve mükemmelleştirmesi için önünde birçok deneme olmasına rağmen, silindirdeki pistondan buhar sızıntısı sorunu artık Wilkinson'ın hem yuvarlak hem de düz bir silindir delme yeteneğine sahip ilk büyük makine aleti olan yeni delme değirmeni tarafından çözülmüştü.
+
+Delme değirmeni, "büyük" bağlantıların geliştirilmesinde önemlidir,
+sonraki 50 veya 60 yıl içinde bugün kullanılan neredeyse tüm temel ağır talaş kaldırma aletlerini içeren yeni bir makine aleti sınıfının ilkidir. Aletlerin geliştirilmesi, Watt tarafından ortaya çıkarılan bağlantıların gerektirdiği doğal doğrulukla hızlandırıldı. Buhar makinesi gibi büyük ve karmaşık bir makinenin, nispeten sorunsuz bir şekilde çalışacak kadar doğru bir şekilde inşa edilebileceği gösterildikten sonra, birçok seçkin beyin makine ve aletlerin geliştirilmesiyle ilgilenmeye başladı. Ancak, Watt ve diğerlerinin buhar makinesinin ilerlemesinden kaynaklanan sorunların çözümleriyle nasıl boğuştuklarını görmek ilginçtir. 1770'lerde, dönen bir şafta uygulanan sürekli, güvenilir güç talebi ısrarcı hale geliyordu ve Boulton ve Watt'ın çabalarının çoğu bu talebi karşılamaya yönelikti. Her tür değirmen "tekerlek işini" döndürmek için su veya at kullanıyordu, ancak bu güç kaynakları küçük operasyonlar için yeterli olsa da, mevcut su miktarı genellikle sınırlıydı ve muazzam at kaprislerinin kullanımı sıklıkla uygulanamazdı. O zamanlar var olan tek buhar motoru türü, 1712'de yine bir İngiliz olan Thomas Newcomen tarafından tanıtılan Newcomen kiriş motoruydu. Bu tip motor yaygın olarak kullanılıyordu, çoğunlukla madenlerden su pompalamak için ama bazen de bir su çarkını beslemek için bir rezervuara su pompalamak için. Büyük bir pivotlu çalışma kirişinin bir ucunun altına yerleştirilmiş dikey bir buhar silindiri ve diğer ucunun altına yerleştirilmiş dikey bir piston tipi pompa ile düzenlenmişti. Ağır, düz zincirler, çalışma kirişinin her iki ucundaki bir sektöre ve motor ve pompa piston çubuklarına, çubukların her zaman kiriş pivotunda merkezi olan bir daireye teğet olacak şekilde sabitlenmişti. Pistonlu pompa parçalarının ağırlığı, kirişin pompa ucunu aşağı çekiyordu; buhar silindirindeki pistonun açık üst kısmına etki eden atmosfer, pistonun altındaki buhar yoğunlaştığında kirişin motor ucunun aşağı çekilmesine neden oluyordu. Zincirler elbette kuvveti pistondan kirişe yalnızca gerginlikle iletecekti. Artık bir bağlantı çubuğu, bir krank ve yeterince ağır bir volanın, dönen bir şafta güç sağlamak için geleneksel bir Newcomen motorunda kullanılabileceği açıktır, ancak çağdaş kanıtlar, bu çözümün Watt veya çağdaşları için hiçbir şekilde açık olmadığını açıkça ortaya koymaktadır. Watt, 1769'da ilk motor patentini aldığında, toroidal bir odanın alt kısmında sıvı cıva kullanarak, odanın içindeki kapaklı kapılar tarafından ardışık olarak oluşturulan buhar boşlukları için bir sınır sağlayan bir "buhar çarkı" veya döner motor tasarlamıştı. İnşaatın pratik zorlukları, sonunda dönen bir güç kaynağı sorununa bu çözümün olasılığını ortadan kaldırdı, ancak Boulton ve Watt bunun için önemli miktarda çaba ve para harcadıktan sonra.[5]
+
+[Dipnot 5: Henry W. Dickinson ve Rhys Jenkins, _James Watt ve Buhar Motoru_, Oxford, Clarendon Press, 1927, s. 146-148, pls. 14, 31.
+Bu çalışma, Watt'ın mekanik teknolojiye yaptığı birçok katkının gelişimine ilişkin, birincil malzemeye dayalı, eksiksiz ve bilgili bir tartışma sunmaktadır. Dickinson, _op. cit._ (dipnot 2).]
+
+1777'de Londra'daki Kraliyet Cemiyeti'nde bir konuşmacı,
+bir alternatif buhar makinesinden döner çıkış elde etmek için bir krankın
+"teoride doğal olarak oluştuğunu", ancak aslında krankın, motorun düzensiz çalışma hızı ve değişken strok uzunluğu nedeniyle
+pratik olmadığını gözlemledi. Strok uzunluğunun ilk varyasyonunda makinenin "ya parçalanacağını ya da geri döneceğini" söyledi.[6] Zamanının İngiliz buhar mühendislerinin ön saflarında yer alan John Smeaton'a, 1781'de Majestelerinin Yiyecek-İçecek Ofisi tarafından, buharla çalışan bir tahıl değirmeninin bir krank mı yoksa bir pompayla sağlanan bir su çarkı mı tarafından çalıştırılması gerektiği konusunda fikri soruldu. Smeaton'ın sonucu, krankın, çalışma düzenliliğinin bir faktör olduğu bir makine için
+tamamen uygun olmadığıydı. "Bir itfaiye aracının karşılıklı kirişinden iletilen hiçbir hareketin, bir su çarkını döndürürken suyun düzenli olarak dışarı akması gibi, dairesel bir hareket üretmede asla eşit ve istikrarlı olamayacağını düşünüyorum." Bu arada, su çarkına su sağlamak için bir Boulton ve Watt buhar makinesinin kullanılmasını önerdi.[7] Smeaton bir volan düşünmüştü, ancak gözlemlediği buhar motorlarının durup duran, sarsıntılı çalışmasını yumuşatacak kadar büyük bir volanın bir pompa, rezervuar ve su çarkından daha fazla bir külfet olacağını düşündü.[8]
+
+[Dipnot 6: John Farey, _A Treatise on the Steam Engine_, Londra, 1827,
+s. 408-409.]
+
+[Dipnot 7: _Reports of the Late John Smeaton, F.R.S._, Londra, 1812,
+cilt 2, s. 378-380.]
+
+[Dipnot 8: Farey, _op. cit._ (dipnot 6), s. 409.]
+
+Bu sırada Watt için sorunun nihai çözümünün basitliği açık değildi. Gelenek olduğu gibi, basit bir krank için bir patentin varlığı onu engellemiş ve böylece
+bir alternatif olarak başka bir cihaz icat etmeye zorlanmamıştı.
+
+Bristol'den, genellikle krank patenti ile tanınan mühendis Matthew Wasbrough, patent açıklamasında bir krank'tan bahsetmedi,
+daha ziyade "dişli raflar" veya "bir veya daha fazla kasnak, tekerlek, tekerlek parçası, bunlara sabitlenmiş rotchet'ler ve klikler veya paletler..." kullanmayı amaçladı. Ancak, "hareketi daha düzenli ve tekdüze hale getirmek için bir veya daha fazla sinek eklemeyi" önerdi. Bizim için talihsiz bir şekilde, patent açıklamasıyla birlikte hiçbir çizim sunmadı.[9]
+
+[Dipnot 9: British Patent 1213, 10 Mart 1779.]
+
+Boulton gibi, düğme üreticisi olan Birmingham'dan James Pickard, 1780'de, değişen kaldıraçla ve dolayısıyla düzensiz güçle çalışan bir krank'a olan itirazı ortadan kaldırması beklenen karşı ağırlıklı bir krank cihazı (şekil 6) patenti aldı. Şekil 6'da, krankın her dönüşü için iki kez dönen karşı ağırlıklı tekerlek (A), krank ölü merkez konumunu geçerken karşı ağırlığın alçalmasına izin verecek ve krank maksimum kaldıraca sahipken kaldırılacaktır. Bu patentte bir volandan bahsedilmemiştir.[10]
+
+[Dipnot 10: İngiliz Patenti 1263, 23 Ağustos 1780.]
+
+[Resim: Şekil 6.--James Watt'ın ilerlemesini engelleyen buhar makinesi "Krank Patentlerinden" biri. James Pickard'a 1780'de verilen bu patent, krank değil, sadece karşı ağırlıkların düzenlemesini talep ediyordu. Bağlantı çubuğunun bağlandığı krank pimi _Aa_ konumundadır. 23 Ağustos 1780 tarihli İngiliz Patenti 1263'ten.]
+
+Wasbrough, "rotchets ve clicks"inin işe yaramadığını fark ederek,
+aslında 1780'de bir volanlı krank kullandı. Watt bunun farkındaydı,
+ancak krankın diğer cihazlara göre üstünlüğüne ikna olmamıştı ve bir volanın düzenleme yeteneğini hemen takdir edemedi.[11] Nisan 1781'de Watt, o sırada şehir dışında olan Boulton'a şöyle yazdı: "Deneylerimden, denediğimi gördüğünüz diğer düzeneğin en azından aynı performansı gösterdiğini ve aslında krank üzerinde birçok avantaja sahip olduğunu biliyorum."[12] "Diğer düzenek" muhtemelen kendisinin inşa ettiği ve bir sonraki önemli patent açıklamasında görünen savurgan çarkıydı (şekil 7a). Ayrıca bu patentte dört cihaz daha vardı, bunlardan biri krank olarak kolayca tanınabilirdi ve ikisi eksantrikti (şekil 7a, b). Dördüncü cihaz iyi bilinen güneş ve gezegen dişlisiydi (şekil 7e).[13] Basit krankın Watt tarafından tasarlanan çeşitli varyasyonlara benzerliğine rağmen, bu patent Wasbrough veya Pickard'dan hiç tepki almadı, belki de makul bir kişi krankın kendisinin patentlenebilir bir özellik olduğunu iddia etmeyeceğinden veya belki de o zamanlar benzerlik o kadar belirgin olmadığından. Ancak Watt, krankların doğrudan fark edilebilir uygulamasından uzak durdu çünkü kendisinin veya diğer patentlerinin geçersiz kılınabileceği bir davadan kaçınmayı tercih etti. Örneğin, Wasbrough ve Pickard patentleri iptal edilmiş olsaydı, kamu malı haline gelirlerdi; ve Watt, bunların Boulton ve Watt'a Wasbrough ve Pickard'dan daha fazla rekabet sağlayacak "daha yaratıcı adamların eline geçebileceğinden" korkuyordu.[14]
+
+[Dipnot 11: Dickinson ve Jenkins, _op. cit._ (dipnot 5), s. 150,
+154.]
+
+[Dipnot 12: _Aynı eser._, s. 154.]
+
+[Dipnot 13: Bu düzenlemeyi o sıralarda Boulton ve Watt'ın kurucusu olan William Murdock önermiş olabilir. _Aynı eser._, s. 56.]
+
+[Dipnot 14: Muirhead, _op. cit._ (dipnot 3), 3. cilt, s. 39'daki not.]
+
+[Resim: Şekil 7.--James Watt'ın bir buhar makinesinde karşılıklı hareketi döner harekete
+dönüştürmek için kullandığı beş alternatif cihaz.
+(İngiliz Patenti 1306, 25 Ekim 1781). James P. Muirhead, _The
+Origin and Progress of the Mechanical Inventions of James Watt_ (Londra,
+1854, cilt 3, pls. 3-5, 7).]
+
+[Resim: (a) "Eğik tekerlek." _D_'deki dikey şaft, kam veya eğik plaka _ABC_ üzerindeki _H_ ve _J_ tekerleklerinin hareketiyle döndürülür.
+Boulton ve Watt bu cihazı denediler ancak sonra vazgeçtiler.]
+
+[Resim: (b) Karşı ağırlıklı krank tekerleği.]
+
+[Resim: (c) Çalışma kirişine asılan harici boyunduruğu olan "Eksantrik tekerlek". Tekerlek _C_ noktasında döner.]
+
+[Resim: (d) Çalışma kirişine asılan dahili tahrik tekerleği olan "Eksantrik tekerlek". Tekerlek _B_, şaft _A_'nın merkezinde döndürülmüştür.]
+
+[Resim: (e) Güneş ve gezegen dişlisi. Bu aslında Boulton ve Watt motorlarında kullanılan fikirdir. İsteğe bağlı bağlantı _JK_ dişli çark merkezlerini her zaman eşit mesafede tuttuğu için, halka şeklindeki kılavuz _G_ kullanılmamıştır.]
+
+Eşit büyüklükte dişlilere sahip güneş ve gezegen düzenlemesi, Watt tarafından "krank patentleri" süresi boyunca inşa ettiği neredeyse tüm döner motorlar için
+benimsenmiştir.
+Bu düzenleme, pistonun tek bir çalışma çevrimi sırasında volanı iki devir döndürme avantajına sahipti, böylece basit bir krank kullanılırsa ihtiyaç duyulan volanın sadece dörtte biri büyüklüğünde bir volan gerekiyordu. İsteğe bağlı bağlantı (Şekil 7e'deki JK), inşa edildiği haliyle motorlarda kullanılmıştır.
+
+İlk baştan itibaren, döner motorlar çift etkili olarak yapılmıştı - yani,
+iş, silindirin her iki ucunda dönüşümlü olarak buharla yapılıyordu.
+Çift etkili motor, tek etkili pompalı motorun aksine,
+hem iten hem de çeken bir piston çubuğu gerektiriyordu. Watt'ın özgünlüğü ve kesin yargısı en açık şekilde bu sorunun çözümünde
+gösterildi. Bazı motorlarda kremayer ve sektör düzenlemesi (şekil 8) kullanılmıştır. Watt'a göre, ilki "kremayerin birkaç dişini kırmış, ancak istikrarlı bir şekilde çalışıyor."[15] Kısa bir süre sonra bir muhabire, çift etkili motorunun "o kadar güçlü bir şekilde çalıştığını ki, tüm takımlarını tekrar tekrar kırdığını" söyledi. Ancak, şimdi onu evcilleştirdik."[16]
+
+[Dipnot 15: James Watt, 31 Mart 1783, Dickinson ve Jenkins'ten alıntı, _op. cit._ (dipnot 5), s. 140.]
+
+[Dipnot 16: Watt'tan De Luc'a, 26 Nisan 1783, Muirhead'den alıntı, _op. cit._ (dipnot 3), 2. cilt, s. 174.]
+
+[Resim: Şekil 8.--1782 Watt motoru (İngiliz Patenti 1321,
+12 Mart 1782) piston çubuğunun üst ucunu yönlendirmek ve kuvveti pistondan çalışma kirişine iletmek için kullanılan kremayer ve sektörü göstermektedir.
+30 inçlik bir silindire ve 8 fitlik bir stroka sahip olan bu motor, pompalama için düzenlenmiştir. Pompa çubuğu _SS_ çalışma kirişinin sektöründen asılmıştır.
+James P. Muirhead, _The Origin and Progress of the Mechanical Inventions
+of James Watt_ (Londra, 1854, cilt 3, sayfa 15) adlı eserden.]
+
+Düz hatlı bağlantı[17] yaklaşık bir yıl sonra düşünülmüştür. Watt, ortağına "Yeni bir tavşana başladım," diye yazmıştır. "Piston çubuğunun yukarı ve aşağı hareket etmesini sağlayan bir yöntemin, sadece onu kiriş üzerindeki bir demir parçasına sabitleyerek, zincirler, dik kılavuzlar veya uygunsuz sürtünmeler, kemer başlıkları veya diğer beceriksizlik parçaları olmadan, bir anlık görüntüsünü yakaladım... Bunu henüz sadece küçük bir modelde denedim, bu yüzden üzerine inşa edemem, ancak bunun başarılı olma ihtimalinin çok yüksek olduğunu ve tasarladığım en yaratıcı basit mekanizma parçalarından biri olduğunu düşünüyorum..."[18]
+
+[Dipnot 17: Watt'ınki dört çubuklu bir bağlantıydı. Kayan çiftleri olmayan tüm dört çubuklu düz hatlı bağlantılar yalnızca yaklaşık olarak düz bir hat izler. Tek bir düzlemdeki tam düz hatlı bağlantı 1864'e kadar bilinmiyordu (bkz. s. 204). 1853'te Strazburg'da Fransız matematik profesörü olan Pierre-Frederic Sarrus (1798-1861), gerçek bir düz çizgiyi izleyen akordeon benzeri bir uzamsal bağlantı tasarladı. Açıklanan ancak çizilmeyen (Academie des Sciences, Paris, _Comptes rendus_, 1853, cilt 36, s. 1036-1038, 1125) mekanizma unutuldu ve iki kez yeniden icat edildi; son olarak, orijinal icat 1905'te bir İngiliz yazar tarafından yeniden keşfedildi. Kronoloji için bkz. Florian Cajori, _A History of Mathematics_, 2. baskı, New York, 1919, s. 301.]
+
+[Dipnot 18: Muirhead, _op. cit._ (dipnot 3), cilt 2, s. 191-192.]
+
+Watt'ın harikulade derecede basit düz hat bağlantısı hemen hemen büyük bir kiriş motoruna dahil edildi ve genellikle karamsar ve çekingen mucit, Boulton'a "yeni merkezi dik hareketin beklentilerin ötesinde yanıt verdiğini ve bir sesin gölgesini bile çıkarmadığını" söylediğinde sevinçten uçuyordu.[19] 1784 tarihli kapsamlı bir patentte yer alan bu bağlantı ve iki alternatif cihaz burada gösterilmiştir (şekil 9). Alternatiflerden biri yönlendirilmiş bir çapraz kafadır (şekil 9, sağ üst).
+
+[Dipnot 19: _Aynı eser._, s. 202.]
+
+[Resim: Şekil 9.--Watt'ın çift etkili bir motorun piston çubuğunun üst ucunu yönlendirme mekanizmaları (İngiliz Patenti 1432, 28 Nisan 1784). _Sol üst_, düz hat bağlantısı; _sağ üst_, çapraz kafa ve
+kılavuz düzenlemesi; _sol alt_, piston çubuğu _A_, esnek kordonlarla asılı _D_ ve _E_ sektörleri tarafından yönlendirilir. James P. Muirhead'den, _The
+Origin and Progress of the Mechanical Inventions of James Watt_ (Londra,
+1854, cilt 3, pls. 21, 22).]
+
+Bu bağlantının kavramı ne kadar parlak olsa da, inanılmazdan çok daha
+az bir sentezle takip edildi. Watt, motorlarının kirişine bağlı bağlantıyı daha kompakt hale getirmek için
+deneyimlerini kullanarak fikirler üretmişti; deneyimi, bir pantograf kullanan
+bir çizim makinesinde çok daha önce yapılmış işi ortaya çıkarmıştı.[20] Watt, düz hat bağlantısını bir pantografla birleştirdi ve bir bağlantı pantografın bir üyesi oldu. [Dipnot 20: "Sadece bir kusuru var," demişti 24 Aralık 1773'te çizim makinesini ona tarif ettikten sonra bir arkadaşına, "işe yaramayacak, çünkü düz çizgiler yerine konik kesitler tarif ediyor." _Aynı eser._, s. 71.]
+
+Doğru hat bağlantısının her bir salınımlı bağlantısının uzunluğu böylece kiriş uzunluğunun yarısı yerine dörtte birine düşürüldü ve tüm mekanizma, çalışan kirişin ucunun ötesine uzanmayacak şekilde inşa edilebildi. Bu düzenleme kısa süre sonra Watt'ın "paralel hareketi" olarak bilinmeye başlandı (şekil 10).[21] Yıllar sonra Watt oğluna şöyle dedi: "Ün peşinde aşırı endişeli olmasam da, paralel hareketle şimdiye kadar yaptığım herhangi bir mekanik icattan daha fazla gurur duyuyorum."[22]
+
+[Dipnot 21: 19. yüzyıl boyunca "paralel hareket" terimi, herhangi bir düz çizgi bağlantısını belirtmek için ayrım gözetmeksizin kullanıldı. Terimin kökenini keşfetmedim. Watt bunu patent açıklamasında kullanmadı ve 1808'den önce yazılarında veya başka bir yerde bulamadım (bkz. dipnot 22). _The Cyclopaedia_ (Abraham Rees, ed.,
+Londra, 1819, cilt 26) paralel hareketi "pratik mekanikte bir piston çubuğunun uzunluğu yönünde doğrusal hareketini belirtmek için kullanılan bir terim; ve bu tür alternatif doğrusal hareketlerin sürekli döner hareketlere dönüştürüldüğü düzenekler veya _tam tersi_..." olarak tanımlamıştır. Robert Willis _Principles of
+Mechanism_ (Londra, 1841, s. 399) adlı eserinde paralel hareketi "birbirine eklemli çubukların birleşimine biraz garip bir şekilde uygulanan bir terim, amacı bir noktanın düz bir çizgiyi tanımlamasını sağlamaktır..." olarak tanımlamıştır. A. B. Kempe _How to Draw a Straight Line_ (Londra, 1877, s. 49) adlı eserinde şöyle yazmıştır: "Birden fazla kez, itiraz edilebilir terim
+'paralel hareket.' Nasıl kullanıldığını bilmiyorum ve kesinlikle
+amaçlananı ifade etmiyor. Ancak, ifade
+şimdi kristalleşti ve ben şahsen bir çözücü bulmayı üstlenemiyorum."]
+
+[Dipnot 22: Muirhead, _op. cit._ (dipnot 3), cilt 3, s. 89'daki not.]
+
+[Resim: Şekil 10.--Watt'ın "paralel hareketi." Motorun çalışma kirişi _A_ noktasında döndürülmüştür. Pivot _F_ motor gövdesine bağlanmıştır.
+Dyonysius Lardner, _The Steam Engine_ (Philadelphia, 1852), pl. 5
+(Londra ed. 5'ten Amerikan ed. 5).]
+
+Watt dört çubuk bağlantısı, 1861'de ilk yüksek hızlı motor göstergesini tasarladığında Amerikalı Charles B. Richards tarafından kullanılmaya başlanmasından 75 yıl sonra kullanıldı (şekil 11). Ertesi yıl İngiltere'ye tanıtılan Richards Göstergesi anında başarıya ulaştı ve sonraki 20 veya 30 yıl boyunca binlercesi satıldı.[23]
+
+[Dipnot 23: Charles T. Porter, _Engineering Reminiscences_, New York,
+1908, s. 58-59, 90.]
+
+[Resim: Şekil 11.--Watt düz hat bağlantısının uygulanmasını gösteren 1861 Richards yüksek hızlı motor göstergesi. (_USNM 307515_;
+_Smithsonian fotoğrafı 46570_).]
+
+Düz hat bağlantısını tasarlamak ve bunu bir pantografla birleştirmek için gereken sentetik yetenek sırasını göz önünde bulundururken, bunun uzun bir mekanizmalar dizisinin ilki olduğu akılda tutulmalıdır.[24] Fikir yaygınlaştıktan sonra, birçok varyasyon ve alternatif çözümün ortaya çıkması bekleniyordu. Ancak, Watt bu kadar açık bir şekilde yolu göstermeseydi, sonraki çalışmanın hangi yöne gideceğini merak ediyor insan.
+
+[Dipnot 24: En azından bir önceki düz hat bağlantısı, daha sonra Richard Roberts'a atfedilen bir düzenleme, Watt'ın patentinden önce tasvir edilmişti (Pierre Patte, _Memoirs sur les objets les plus importants de l'architecture_, Paris, 1769, s. 229 ve pl. 11). Ancak bu bağlantının
+(burada şekil 18'de yeniden üretilmiştir) Watt veya sonraki uygulama üzerinde tespit edilebilir bir etkisi olmamıştır.]
+
+1827'de John Farey, buhar makinesinin kapsamlı çalışmasında, Watt'ın çalışmalarının
+muhtemelen en iyi çağdaş görüşünü yazmıştır. Farey genç bir adamken yaşlanan Watt ile birkaç kez konuşmuştu ve Watt'ın kendi yaşamı boyunca dahi bir dâhi olarak tanınmasına neden olan
+zekânın doğası üzerine düşünmüştü. Watt'ın
+dehasını açıklamaya çalışırken, Farey yalnızca kinematik sentezle değil, aynı zamanda şu anda moda olan "yaratıcılık" terimiyle de alakalı bazı gözlemler ortaya koydu.
+
+Farey'e göre Watt'ın yaratıcı yeteneği çağdaşlarınınkinden çok daha üstündü; ancak onun çok sayıda ve çeşitli fikirleri, çok yüksek bir yargı yeteneğine sahip olmasaydı pek işe yaramazdı, "fikirler arasında ayrım yapma; bileşik fikirleri daha basit öğelere ayırma; onları sınıflara ayırma ve onları bir arada karşılaştırma..." Farey, Watt gibi bir zihnin parlak yeni fikirler üretebileceği görüşündeydi, ancak yine de "topluluklar ve meslekler arasında geçerli olan ortak fikir stoğunun, genellikle, herhangi bir bireyin kendi zihninin işleyişinden, başkalarından yardım almadan üretebileceği bu yeni fikirlerin ortalamasından daha iyi kalitede olacağı" görüşündeydi. Farey, "bu ortak stoka en yararlı eklemeler, genellikle tüm seriye aşina olan bireylerden gelir."[25]
+
+[Dipnot 25: Farey, _op. cit._ (dipnot 6), s. 651, 652.]
+
+Düz Bir Çizgi Çizmek
+
+James Watt'ın paralel hareketini üretmesinden sonraki yüzyılın büyük bölümünde, bir noktası düz bir çizgiyi tanımlayacak bir bağlantı tasarlama sorunu, matematikçilerin, yaratıcı mekanikçilerin ve beyefendi fikir meraklılarının ilgisini çeken bir sorundu. Watt'ınkinden daha doğru bir düz çizgi mekanizması arayışı, böyle bir cihaza olan acil pratik ihtiyaçtan çok daha uzun sürdü.
+Büyük metal planya makineleri 1830'da iyi biliniyordu ve yüzyılın ortalarına gelindiğinde, çapraz kafalar ve çapraz kafa kılavuzları, Atlantik'in her iki yakasında, çalışma kirişli ve kirişsiz motorlarda kullanılıyordu.
+
+1819'da John Farey, en azından İngiltere'de birçok başka planın denendiğini ve eksik bulunduğunu ve "orijinal motor kadar iyi bir yöntem bulunmadığını; ve buna göre, en köklü ve deneyimli üreticilerin Bay Watt'ın orijinal motorundan hiçbir büyük özellikte değiştirilmemiş motorlar ürettiğini..."[26]
+
+[Dipnot 26: Rees'te, _op. cit._ (dipnot 21), cilt 34 ("Buhar Motoru"). John Farey bu makalenin yazarıydı (bkz. Farey, _op. cit._, s. vi).]
+
+Boulton ve Watt tekelinin 1800'de sona ermesinden önce, düz bir çizgi üretmek için iki mekanizma tanıtıldı. Belki de ilki, bir güç dokuma tezgahı için orijinal fikrin sahibi olduğu söylenen Edmund Cartwright (1743-1823) tarafından yapıldı. Bu dişli cihaz (şekil 12), çağdaş bir Amerikalı editör tarafından küçümseyici bir şekilde "mekanik çalışmalarla kendi eğlencesi için uğraşan bir beyefendiye atfedilebilecek en fazla değere" sahip olarak nitelendirildi.[27] Patent altında yalnızca birkaç küçük motor yapıldı.[28]
+
+[Dipnot 27: _Emporium of Arts and Sciences_, Aralık 1813, yeni seri,
+cilt 2, no. 1, s. 81.]
+
+[Dipnot 28: Farey, _op. cit._ (dipnot 6), s. 666.]
+
+[Resim: Şekil 12.--Cartwright'ın yaklaşık 1800 tarihli dişli düz hat mekanizması. Abraham Rees'ten, _The Cyclopaedia_ (Londra, 1819,
+"Buhar Makinesi", s. 5).]
+
+Bir hiposikloidin özellikleri, bir İngiliz mühendis olan James White tarafından, bir iç dişlinin içinde dönen bir mahmuz dişlisinin eğim dairesinde bulunan bir pivot kullanan dişli tasarımında fark edildi. Mahmuz dişlisinin eğim dairesinin çapı, iç dişlinin çapının yarısıydı ve bunun sonucunda piston çubuğunun bağlandığı pivot, büyük eğim dairesinin çapını izliyordu (şek. 13). White, 1801'de Paris'teki bir endüstriyel fuarda sergilendiğinde bu buluş için Napolyon Bonapart'tan bir madalya aldı. [29] White'ın mekanizmasını kullanan bazı buhar makineleri inşa edildi,
+ancak gözle görülür bir ticari başarı elde edilmedi. White'ın kendisi de
+icadının "ilginç özelliklere sahip olmasına ve
+güzel bir şey olmasına izin verilirken, görüşlerin hepsinin onu esasen ve genel olarak
+iyi bir şey olarak ilan etme konusunda hemfikir olmadığı" konusunda hemfikirdi.[30]
+
+[Dipnot 29: H. W. Dickinson, "James White ve 'Yeni İcatlar Yüzyılı'," _Transactions of the Newcomen Society_, 1949-1951, cilt. 27, s. 175-179.]
+
+[Dipnot 30: James White, _A New Century of Inventions_, Manchester,
+1822, s. 30-31, 338. İngiltere, Stourbridge'de kullanılan bir hiposikloidal motor
+Henry Ford Müzesi'ndedir.]
+
+[Resim: Şekil 13.--James White'ın hiposikloidal düz hat mekanizması, yaklaşık 1800. Sinek ağırlıkları (diyagonal kolun uçlarında)
+bir volan işlevi görüyordu. James White'dan, _Yeni Bir İcatlar Yüzyılı_ (Manchester, 1822, s. 7).]
+
+Watt olmayan dört çubuklu bağlantıların ilki 1800'den kısa bir süre sonra ortaya çıktı.
+Çekirge kiriş hareketinin kökeni biraz belirsizdir, ancak
+yüksek basınçlı buharın kullanımında Amerikalı öncü
+Oliver Evans'ın adıyla ilişkilendirilmiştir.
+İkizkenar bağlantı kullanan benzer bir fikir, 1803'te İngiliz saatçi William Freemantle tarafından patentlendi (şekil 14).[31] Bu, çok daha sonra önde gelen gemi
+mimarı John Scott Russell'a (1808-1882) atfedilen bağlantıdır.[32] Evans'ın 1805'te düz hat bağlantısını tasarladığına dair kesin olmayan bir ipucu, _Genç Buhar Mühendisi Rehberinin Kürtajı_ (Philadelphia, 1805) adlı eserini gösteren
+bir levhada yer aldı ve kesinlikle 1813'ten önce inşa edilen Kolombiya motorunda kullanıldı (şekil 15). Değiştirilmiş haliyle Freemantle bağlantısı, Rees'in 1819 tarihli _Cyclopaedia_ adlı eserinde yer aldı (şekil 16), ancak bunun bile Evans bağlantısıyla aynı olduğu kolayca fark edilebilir miydi, çünkü bağlantı çubuğu, yerleşik kullanıma uygun olarak, piston çubuğunun çalışma kirişinin zıt ucundayken, Evans bağlantısında krank ve bağlantı çubuğu kirişin aynı ucundaydı. Evans'ın fikrini daha önceki bir İngiliz dergisinden almış olması mümkün, ancak somut kanıt yok.
+
+[Dipnot 31: İngiliz Patenti 2741, 17 Kasım 1803.]
+
+[Dipnot 32: William J. M. Rankine, _Makine ve Değirmencilik El Kitabı_,
+6. basım, Londra, 1887, s. 275.]
+
+[Resim: Şekil 14.--Freemantle düz hat bağlantısı, daha sonra
+Scott Russell bağlantısı olarak adlandırıldı. İngiliz Patenti 2741'den, 17 Kasım 1803.]
+
+[Resim: Şekil 15.--Oliver Evans'ın "Kolombiyalı" motoru, 1813,
+Evans veya "çekirge" düz hat bağlantısını gösteriyor. Kaynak
+_Emporium of Arts and Sciences_ (yeni seri, cilt 2, no. 3, Nisan 1814,
+pl. karşı sayfa 380).]
+
+[İllüstrasyon: Şekil 16.--Değiştirilmiş Freemantle bağlantısı, 1819, kinematik olarak Evans bağlantısıyla aynıdır. Pivotlar _D_ ve _E_ motor şasisine
+bağlıdır. Abraham Rees, _The Cyclopaedia_ (Londra,
+1819, "Parallel Motions," pl. 3).]
+
+Fikir gerçekten Evans'tan geldiyse, patent taleplerinde veya motorlarının
+yayınladığı açıklamalarda bundan bahsetmemesi gariptir.[33] Evans bağlantısının Watt veya Freemantle motorlarından çok daha hafif bir çalışma kirişi kullanması Oliver Evans'ın gözünden kaçmazdı ve o kendi icatları söz konusu olduğunda aşırı mütevazı bir adam değildi.
+
+[Dipnot 33: Greville ve Dorothy Bathe, _Oliver Evans_, Philadelphia,
+1935, s. 88, 196 ve _passim_.]
+
+İyi bilinen bir diğer dört çubuklu düz hat bağlantısı, 1820 civarında ilk metal planya makinelerinden birini inşa eden Manchester'lı Richard Roberts'a (1789-1864) atfedildi ve bu makineler düz hat bağlantıları arayışını büyük ölçüde akademik hale getirdi. Roberts bağlantısının tanıtılmasına neyin sebep olduğunu keşfetmedim ama 1841'den öncesine dayanıyordu. Roberts birçok karmaşık tekstil makinesinin patentini almış olsa da, tüm patent çizimlerinin incelenmesi Roberts bağlantısının mucidi olduğuna dair bir kanıt sağlamada başarısız oldu.[34] Aynı bağlantının 1769 tarihli bir gravürde (şekil 18) gösterilmesi konuyu daha da karıştırıyor.[35]
+
+[Dipnot 34: Robert Willis (_op. cit._ [Dipnot 21] s. 411) bağlantıyı Richard Roberts'a atfetti. Roberts'ın 15 İngiliz patent çizimi kamların, kolların, kılavuz çubukların, kordonların vb. karmaşık uygulamalarını sergiliyor, ancak düz hat mekanizması yok. Patent no. 13 Nisan 1832 tarihli 6258 sayılı buharlı motor ve lokomotif vagonu için Roberts,
+Watt'ın dikey bir silindir tarafından sürülen bir kiriş üzerindeki "paralel hareketini" kullandı.]
+
+[Dipnot 35: Bu gravür, Pierre Patte'nin 1769 tarihli eserinde (_op. cit._ dipnot 24) 11 numaralı levha olarak yer aldı. Patte, 11 numaralı levhada tasvir edilen makinenin M. de Voglie tarafından icat edildiğini ve aslında 1756'da kullanıldığını belirtti.]
+
+[Resim: Şekil 17.--Düz hatlı bağlantı (1841'den önce)
+Robert Willis tarafından Richard Roberts'a atfedildi. A. B. Kempe, _Düz Bir Çizgi Nasıl Çizilir_ (Londra, 1877, s. 10) adlı eserden.]
+
+[Resim: Şekil 18.--De Voglie tarafından tasarlanan, yaklaşık 1760'ta su altında kazık kesmek için kullanılan makine. Roberts bağlantısı, operatörlerin altında makinenin arkasındaki çubuğu çalıştırır.
+(_Q_ ayrıntılı çizimde).
+Bağlantının önemi görünüşe göre genel olarak fark edilmemiştir.
+Diderot'nun _Encyclopedie_ adlı eserinde tasvir edilen ve birkaç yıl sonra yayınlanan benzer bir makine, düz hat bağlantısını kullanmamıştır.
+Pierre Patte, _Memoirs sur les objets plus importants de l'architecture_ (Paris, 1769, s. 11) adlı eserden.]
+
+Peaucellier'in tam olarak doğru olan düz hat bağlantısının 1864'te ortaya çıkması neredeyse fark edilmeden kaldı. On yıl sonra, icadının haberi Kanal'ı geçip İngiltere'ye ulaştığında, bu bağlantı bir ilgi dalgası yarattı ve
+çeşitleri birkaç yıl boyunca matematiksel zihinleri meşgul etti.
+Problemin nihai çözümünden en az 10 yıl önce ve 20 yıl sonra, St. Petersburg Üniversitesi'nden tanınmış bir matematikçi olan Profesör Chebyshev[36] konuyla ilgilendi.
+Yayınlanmış eserlerine ve yurtdışındaki ününe bakılırsa, Chebyshev'in ilgisi
+bir saplantıya dönüştü.
+
+[Dipnot 36: Bu, Kongre Kütüphanesi'nin yazımıdır]
+
+Pafnuti[)i] L'vovich Chebyshev 1821'de Moskova yakınlarında doğdu ve
+1837'de Moskova Üniversitesi'ne girdi. 1853'te Fransa ve İngiltere'yi ziyaret edip bu ülkelerdeki uygulamalı mekaniğin gelişimini dikkatlice gözlemledikten sonra, yaklaşık düz hatlı bağlantılar hakkındaki ilk makalesini okudu ve sonraki 30 yıl boyunca soruna en az bir düzine kez yeni bir güçle saldırdı. O zamanlar kullanılan iki ana düz hatlı bağlantının Watt ve Evans'a ait olduğunu buldu. Chebyshev
+bu bağlantıların düz bir hattan ayrıldığını fark etti ve sapmayı beşinci dereceden veya kiriş uzunluğunun her bir inçinde yaklaşık 0,0008 inç olarak hesapladı. Watt bağlantısının doğruluğunu iyileştirmek için bir değişiklik önerdi ancak çalışma kirişinin uzunluğunu iki katından fazla artırması gerektiğini gördü. Chebyshev, değişikliğinin "büyük pratik zorluklara yol açacağı" sonucuna vararak pişmanlık duydu.[37]
+
+[Dipnot 37: _Oeuvres de P. L. Tchebychef_, 2 cilt, St. Petersburg,
+1899-1907, cilt 1, s. 538; cilt 2, s. 57, 85.]
+
+Sonunda Chebyshev'in aklına, gerçek bir düz çizgiye yaklaşmasını, hatta tam olarak ulaşmasını sağlayacak bir fikir geldi. Bir mekanizma
+iyiyse, ikisinin daha iyi olacağını, _ve benzeri, sonsuza kadar_ düşündü. Fikir basitçe dört bağlantılı yaklaşık bağlantıları birleştirmek veya birleştirmek,
+bunları hataların art arda azaltılacağı şekilde düzenlemekti. Önce Watt ve Evans bağlantılarının bir kombinasyonunu düşünen (şekil 19), Chebyshev, Watt bağlantısının D noktasının neredeyse düz bir çizgiyi takip etmesi durumunda Evans bağlantısının A noktasının düz bir çizgiden daha da az sapacağını fark etti. Bu durumda sapmayı 11. dereceden hesapladı. Daha sonra Watt'ın bağlantısını genellikle Chebyshev düz hat mekanizması (şekil 20) olarak adlandırılan bir bağlantıyla değiştirdi ve bunun sonucunda hassasiyet 13. dereceye çıkarıldı.[38] 1873'te Viyana Sergisi'nde sergilediği buhar makinesi bu bağlantıyı kullanıyordu - Chebyshev mekanizması Evans veya yaklaşık ikizkenar bağlantıyla birleştirilmişti. Sergiyi ziyaret eden bir İngiliz "hareketin pratikte pek bir faydası yok, çünkü yağlanması gereken çok sayıda eklem ve takılması gereken çok sayıda pim olan bu kadar karmaşık bir kaldıraç sistemini kullanmanın, bir tür sağlam kılavuzdan daha avantajlı olacağı koşulları hayal bile edemiyoruz; ancak aynı zamanda düzenleme çok yaratıcı ve bu açıdan tasarımcısına büyük itibar kazandırıyor."[39]
+
+[Dipnot 38: _Aynı eser_, cilt. 2, s. 93, 94.]
+
+[Dipnot 39: _Engineering_, 3 Ekim 1873, cilt 16, s. 284.]
+
+[Resim: Şekil 19.--Pafnuti[)i] L'vovich Chebyshev (1821-1894),
+Doğrusal hat mekanizmalarının analizi ve sentezinde aktif olan
+Rus matematikçi. _Ouvres de P. L. Tchebychef_'ten (St. Petersburg, 1907,
+cilt 2, ön sayfa).]
+
+[Resim: Şekil 20.--Chebyshev'in (yaklaşık 1867) Watt ve Evans'ın bağlantılarını her birinde bulunan hataları azaltmak için birleştirmesi. Noktalar
+_C_, _C'_ ve _C"_ sabittir; _A_ izleme noktasıdır. _Oeuvres
+de P. L. Tchebychef_'ten (St. Petersburg, 1907, cilt 2, s. 93).]
+
+[İllüstrasyon: Şekil 21.--_Üst_: Çebyshev düz çizgi bağlantısı, 1867;
+A. B. Kempe'den, _Düz Bir Çizgi Nasıl Çizilir_ (Londra, 1877, s. 11).
+_Alt_: Çebyshev-Evans kombinasyonu, 1867; _Oeuvres de P. L.
+Tchebychef_'ten (St. Petersburg, 1907, cilt 2, s. 94). Noktalar _C_, _C'_ ve
+_C"_ sabittir. _A_ izleme noktasıdır.]
+
+Profesör Çebyshev'in, bağlantı sayısı ne olursa olsun, düz bir çizgi
+üretecek herhangi bir bağlantının inşa edilmesinin imkansızlığını göstermeye çalıştığına dair ısrarcı bir söylenti var; ancak ben
+19. yüzyılın sonlarındaki _Grande Encyclopedie_[40]'de yalnızca şüpheli bir ifade ve bir İngiliz olan James Sylvester'ın Rus ile yaptığı bir konuşmanın raporunda Çebyshev'in "mükemmel bir paralel hareket üretebilen beş çubuklu bir bağlantının
+varolmadığını kanıtlamayı başardığı" yönünde bir rapor buldum.[41] Çebyshev'in söyledikleri hakkında gelenek ne derse desin, elbette ki
+Kaptan Peaucellier'in adını taşıyan tam olarak doğru düz çizgi mekanizmasını
+sentezleyen kişi olduğu iyi bilinmektedir.
+
+[Dipnot 40: _La Grande Encyclopedie_, Paris, 1886 ("Peaucellier").]
+
+[Dipnot 41: James Sylvester, "Mekanik
+Dönüşüm Hareketindeki Son Keşifler," _Büyük Britanya Kraliyet
+Kurumu Bildirileri_, 1873-1875, cilt 7, s. 181. Sabit bağlantı
+Sylvester tarafından sayılmamıştır; modern tabirle bu bir
+altı-bağlantılı mekanizma olurdu.]
+
+[Resim: Şekil 22.--Peaucellier kesin düz çizgi bağlantısı,
+1873. A. B. Kempe'den, _Düz Bir Çizgi Nasıl Çizilir_ (Londra, 1877, s.
+12).]
+
+[Resim: Şekil 23.--Peaucellier "Compas Compose" modeli,
+Paris, 1875'te Conservatoire National des Arts et Metiers'e emanet edilmiştir.
+Fotoğraf Conservatoire izniyle.] [Resim: Şekil 24.--James
+Joseph Sylvester (1814-1897), matematikçi ve
+düz çizgi bağlantıları üzerine öğretim görevlisi. _Londra Kraliyet Cemiyeti'nin Tutanakları'ndan (1898, cilt 63, karşı sayfa 161).]
+
+Ecole Polytechnique mezunu ve Fransız mühendisler birliğinde kaptan olan Charles-Nicolas Peaucellier, 1864'te 32 yaşındayken Paris'teki _Nouvelles Annales de
+mathematiques_ (ser. 2, cilt 3, s. 414-415) editörüne kısa bir mektup yazdı. Dikkatleri, Watt'ın paralel hareketi, pantograf ve kutupsal
+planimetreyi içeren bir bağlantı sınıfı olan "bileşik pusulalar" olarak adlandırdığı şeye çekti. Düz bir çizgiyi, ne kadar büyük olursa olsun herhangi bir yarıçapa sahip bir daireyi ve konik kesitleri tanımlamak için bağlantılar tasarlamayı önerdi ve mektubunda bir çözüme ulaştığını belirtti. Bu mektup cevap olarak hiçbir kalem çekmedi ve sonraki 10 yıl boyunca sorun yalnızca Peaucellier ve Amedee Mannheim (1831-1906) tarafından birkaç akademik sayfanın doldurulmasına yol açtı. Mantık profesörü ve Mannheim sürgülü cetvelinin tasarımcısı olan Ecole Polytechnique mezunuydu. Son olarak, 1873'te Kaptan Peaucellier çözümünü _Nouvelles Annales_ okuyucularına sundu. Geriye dönüp bakıldığında belirgin bir keşif tadı olan mantığı, bir bağlantının cebirsel olarak ifade edilebilen bir eğri
+oluşturması nedeniyle, herhangi bir cebirsel
+eğrinin uygun bir bağlantıyla
+oluşturulabileceği sonucuna varılması gerektiğiydi - yalnızca uygun bağlantıyı bulmak gerekiyordu. Daha sonra düzgün bir geometrik kanıt verdi,
+Düz çizgi "bileşik pusulası" için Mannheim tarafından önerildi.[42]
+
+[Dipnot 42: Charles-Nicholas Peaucellier, "Note sur une Question de
+geometrie de compas," _Nouvelles Annales de mathematiques_, 1873, ser.
+2, cilt. 12, s.71-78. Mannheim'ın çalışmalarının bir taslağı Florian Cajori,
+_Logaritmik Hesap Cetvelinin Tarihi_, New York, yaklaşık 1910,
+_İplik Rakamları ve Diğer Monografiler_, New York, Chelsea
+Yayıncılık Şirketi, 1960'ta yeniden basılmıştır.]
+
+Ocak 1874'te bir Cuma akşamı Londra'daki Albemarle Caddesi, her biri Kraliyet Enstitüsü'nün saygıdeğer salonunun kapısında beyefendiler ve hanımlarından oluşan yükünü boşaltmak için manevra yapan arabalarla
+dolmuştu. "İpeklerin güçlü hışırtısı" arasında, zarif
+kalabalık ünlü haftalık derslerden biri için oditoryuma doğru ilerledi. Bu seferki konuşmacı, Amerika'daki Virginia Üniversitesi'nde ve daha yakın zamanda Woolwich'teki Kraliyet Askeri Akademisi'nde matematik profesörü olan, küçük, yoğun bir adam olan James Joseph Sylvester'dı. Davy, Faraday, Tyndall, Maxwell ve diğer birçok önemli bilim insanının işgal ettiği aynı kürsüden konuştu. Profesör Sylvester'ın konusu "Hareket Mekanik Dönüşümünde Son Keşifler" idi.[43]
+
+[Dipnot 43: Sylvester, _op. cit._ (dipnot 41), s. 179-198. Bu derste yapılan bir yorumdan, Sylvester'ın "bağlantı" kelimesinden sorumlu olduğu anlaşılıyor. Sylvester'a göre, bir bağlantı çift sayıda bağlantıdan, tek sayıda bir "bağlantı işinden" oluşur. Sabit üye Sylvester tarafından bir bağlantı olarak kabul edilmediğinden, bu ayrım
+Reuleaux'nun çalışması 1876'da yayınlandığında tamamen kafa karıştırıcı hale geldi.
+"Bağlantı" Watt tarafından bir patent spesifikasyonunda kullanılmış olsa da, onun "bağlantı-iş" terimini kullanmış olması
+muhtemel değildir--her neyse, onun bu terimi
+kullanımına yönelik araştırmam sonuçsuz kaldı. "Bağlantı işi" Willis tarafından
+(_op. cit._ dipnot 21) kullanılmıştır, ancak terim büyük olasılıkla
+ondan kaynaklanmamıştır. "Bağlantı" kelimesinin Sylvester'dan önce kullanıldığını görmedim.]
+
+Çoğu dersin popüler cazibesine dikkat çeken çağdaş bir gözlemci, birçok dinleyicinin Profesör Tyndall'ın atmosferin akustik opaklığı hakkında açıklama yapmasını tercih edebileceğini, ancak "zihniyeti daha yüksek ve daha kuru olanların Profesör Sylvester dairesel hareketin paralel harekete dönüştürülmesi hakkında konuştuğunda tarifsiz bir zevk deneyimlediğini" belirtti.[44]
+
+[Dipnot 44: Bernard H. Becker, _Scientific London_, Londra, 1874, s.
+45, 50, 51.]
+
+Sylvester'ın amacı, Peaucellier bağlantısını İngilizce konuşan dünyanın dikkatine getirmekti, çünkü bu bağlantı Rus'un yakın zamanda İngiltere'ye yaptığı bir ziyaret sırasında Chebyshev tarafından kendisine iletilmişti ve dinleyicilerine, kendisinin Fransız askerinin keşfiyle
+açıldı.[45]
+
+[Dipnot 45: Sylvester, _op. cit._ (dipnot 41), s. 183; _Nature_,
+13 Kasım 1873, cilt 9, s. 33.]
+
+"Peaucellier'in mükemmel paralel hareketi o kadar basit görünüyor ki," diye gözlemledi, "ve o kadar kolay hareket ediyor ki, onu iş başında gören insanlar
+neredeyse evrensel olarak, keşfedilmek için bu kadar uzun süre beklemesine hayret ediyorlar." Ama onun tepkisi hiç de bu değildi. Sylvester, sorun üzerinde ne kadar çok düşünürse, "o kadar çok merak ettiğini ve neden yüz yıl sonra keşfedilmesi gerektiğini göremediğini" söyledi. _A priori_ bakıldığında, buna yol açacak hiçbir şey yoktu. Watt'ın paralel hareketine veya onun türevlerinden herhangi birine (çift merkezleme gerçeği hariç) en ufak bir benzetme taşımaz."[46]
+
+[Dipnot 46: Sylvester, _op. cit._ (dipnot 41), s. 181.]
+
+En azından parantez içinde, James Watt'ın yalnızca sorunu elinden geldiğince çözmek zorunda kalmadığı, aynı zamanda deneyim açısından çözülebilir bir sorunun var olduğuna dair hiçbir fikri olmadığı belirtilmelidir.
+
+Sylvester, Peaucellier bağlantısının bazı pratik sonuçlarını saymak için övgüsünü yeterince uzun bir süre yarıda kesti. St. Paul Katedrali'nin seçkin mimarı ve araştırmacısı olan Bay Penrose'un, "piston çubuğuna bağlı askının her zamanki gibi bir yandan diğer yana sallanmak yerine gerçek bir dikey çizgide hareket ettiğini gördüğünde duyularına inanamayan" tesisatçının büyük şaşkınlığına "negatif Peaucellier hücresiyle çalışan bir ev pompası kurduğunu" söyledi. Sylvester, "mükemmel paralel hareketin sıradan tuvaletlerin yapımında da eşit avantajla kullanılmaması için" hiçbir neden göremiyordu. Bağlantı, "bir servet beyefendisi" tarafından yatında kullanılan bir deniz motorunda kullanılacaktı ve "Parlamento Binaları'nın havasının havalandırılması ve filtrelenmesi için yeni bir cihazla bağlantılı belirli makinelerde" bir piston çubuğunu yönlendirmek için kullanılmasından söz ediliyordu. Zamanı gelince, "Evlerin mühendisi" Bay Prim, Peaucellier bağlantısının yeni üfleme motorlarına uyarlanmasını göstermekten memnuniyet duydu ve bu motorların çalışması
+sırasında olağanüstü sessiz olduğu kanıtlandı (şekil 25).[47] Ayrıca, biraz gülünç olan şey, bağlantının iki sabit merkezini birleştiren hat boyunca düz bir çizgi izleyen Sylvester'ın 78 bar bağlantısıydı.[48]
+
+[Dipnot 47: _Aynı eser_, s. 182, 183, 188, 193.]
+
+[Dipnot 48: Kempe, _op. cit._ (dipnot 21), s. 17.]
+
+[Resim: Şekil 25.--Bay Prim'in Avam Kamarası'nı havalandırmak için kullandığı üfleme motoru, 1877.
+Karşılıklı hava pompasının çapraz kafası, ortada gösterilen bir Peaucellier bağlantısıyla yönlendirilir. Arduvaz astarlı hava silindirleri, kauçuk kanatlı giriş ve çıkış valflerine ve çevresi iki sıra fırça kılıyla oluşturulmuş bir pistona sahipti. Prim'in makinesi bir buhar motoruyla çalıştırılıyordu.
+Fotoğraf:
+Bilim Müzesi, Londra.]
+
+Ancak, Viktorya dönemi atalarımızın tuhaf fikirlerini bir gülümsemeyle reddetmeden önce, 88 yıl sonra, düz çizgi mekanizmalarının sentezi hakkında yakın zamanda bildirilen oldukça ayrıntılı bir çalışmanın, temel amaç "hoş, genişletilmiş" (yani, ezilmiş düz) bir radyo kadranındaki bir göstergeyi hareket ettirmek gibi göründüğünde, daha yerinde olup olmadığını sormak yerinde olur.[49]
+
+[Dipnot 49: _Makine Tasarımı_, Aralık 1954, cilt 26, s. 210.]
+
+Ancak Profesör Sylvester, şüphesiz modern araştırmacılarımızın da olduğu gibi, Peaucellier bağlantısının matematiksel olasılıklarıyla daha çok ilgileniyordu. Peaucellier mekanizmalarının birleştirilmesiyle, karekök ve küpkök çıkarıcıları, bir açı
+üçektörü ve bir ikinci dereceden-binom kök çıkarıcısı tasarlamıştı ve henüz keşfedilmemiş bağlantıların hesaplama yeteneklerinde hiçbir sınır göremiyordu.[50]
+
+[Dipnot 50: Sylvester, _op. cit._ (dipnot 41), s. 191.]
+
+Sylvester, dersinin bir dipnotunda, Kraliyet Topluluğu Felsefe Kulübü'nün daha önceki bir akşam yemeği toplantısında Peaucellier bağlantısının küçük bir mekanik modeliyle yaşadığı deneyimi sevgiyle anıyordu. Peaucellier modeli, "akşam yemeğinden sonra, üyelerin birbirlerine en son bilimsel yenilikleri duyurma geleneğine uygun olarak, tatlıyla birlikte getirildiğinde" üyeler tarafından canlı hayranlık ifadeleriyle karşılanmıştı. " Ve Sylvester, zeki arkadaşı Sir William Thomson'ın (daha sonra Lord Kelvin) Athenaeum Kulübü'nde aynı model kendisine verildiğinde verdiği tepkiyi asla unutamayacaktı. Sir William bir süre kullandıktan sonra Sylvester modele uzandı, ancak "Hayır!" ünlemiyle geri çevrildi. Bundan yeterince alamadım - hayatımda gördüğüm en güzel şey."[51]
+
+[Dipnot 51: _Aynı eser._, s. 183.]
+
+Profesör Sylvester'ın Kraliyet Enstitüsü'ndeki performansının ardından, sınırlı sayıda ilgili matematikçi arasında önemli bir heyecan oluştu. Peaucellier düz çizgi bağlantısına birçok alternatif, bilgili dergiler için makale yazan birkaç yazar tarafından önerildi.[52]
+
+[Dipnot 52: Gelişmelerin ve referansların bir özeti için Kempe, _op. cit._ (dipnot 21), s. 49-51'e bakın. Kempe'nin atıfta bulunduğu Hart'ın altı bağlantılı kesin düz çizgi bağlantılarından ikisi Henry M. Cundy ve A. P. Rollett, _Mathematical Models_, Oxford, Oxford
+University Press, 1952, s. 204-205. Peaucellier'in bağlantısı sekiz bağlantıdan oluşuyordu.]
+
+1876 yazında, Sylvester, Baltimore'daki yeni Johns Hopkins Üniversitesi'nde matematik profesörü olarak görev almak için İngiltere'den ayrıldıktan sonra, matematiği hobi olarak yapan genç bir avukat olan Alfred Bray Kempe, Londra'daki South Kensington Müzesi'nde kışkırtıcı başlığı "Düz Bir Çizgi Nasıl Çizilir" olan bir konferans verdi.[53]
+
+[Dipnot 53: Kempe, _op. cit._ (dipnot 21), s. 26.]
+
+Peaucellier bağlantısını haklı çıkarmak için Kempe, mükemmel bir dairenin bir döner çubuk ve bir kalemle oluşturulabileceği, düz bir çizginin oluşturulmasının ise Kaptan Peaucellier gelene kadar
+çok zor, hatta imkansız olduğu noktasını ısrarla vurguladı. Düz bir çizgi
+düz bir kenar boyunca çizilebilir; ancak
+düz kenarın düz olup olmadığı nasıl belirlenecekti? Bir ip parçası kullanmanın bariz olasılığını öne sürerek argümanını zayıflatmadı. Kempe
+Sylvester'ın konuyla ilgili ilk düşüncelerini takip etmede onunla işbirliği yapmıştı ve bana göre düşüncelerinin genel yönünü örnekleyen bir sonuç Sylvester-Kempe "paralel hareketi"ydi
+(şekil 26).
+
+[Resim: Şekil 26.--Sylvester-Kempe bağlantıyı çevirirken, 1877.
+Üst ve alt plakalar paralel ve eşit uzaklıkta kalır. A. B.
+Kempe, _Düz Bir Çizgi Nasıl Çizilir_ (Londra, 1877, s. 37) adlı eserden.]
+
+[İllüstrasyon: Şekil 27.--Gaspard Monge (1746-1818), 1794'ten itibaren Ecole Polytechnique'te matematik profesörü ve
+makine kinematiği akademik disiplininin kurucusu, _Livre du Centenaire,
+1794-1894, Ecole Polytechnique_ (Paris, 1895, cilt 1, ön sayfa) adlı eserden.]
+
+Kempe ne kadar coşkulu olsa da, dersine
+özür dileyen bir not ekledi. "Bu sonuçların değerli olduğundan şüphe edilemez diye düşünüyorum," dedi, "ancak büyük güzelliklerinin bazılarının onlara gerçekte sahip olmadıkları bir önem atfetmesine yol açmış olması da mümkün..." Gerçek düzlem yüzeylerin üretimindeki büyük gelişmelerden 50 yıl önce, düz hat mekanizmalarının 1876'dakinden daha önemli olacağını söyledi, ancak "bağlantıların şu anda, bence, mekanikçinin önüne yeterince konulmadığını ve onlara gerçekte ne kadar değer verilmesi gerektiğini söyleyebileceğimizi" ekledi.[54]
+
+[Dipnot 54: _Aynı eser_, s. 6-7. Benzer bağlantılar konusunu araştırmadım (Watt ve Evans bağlantıları benzerdir) çünkü Roberts-Chebyshev teoremi daha önceki araştırmalarımdan kaçmıştı, görünüşe göre 1958'e kadar diğerlerinin çoğundan kaçmıştı. Bkz. R. S. Hartenberg ve J. Denavit, "The Fecund Four-Bar," _Transactions of the Fifth Conference on Mechanisms_, Cleveland, Penton Publishing Company, 1958, s. 194-206,
+
+Machine Design_, 16 Nisan 1959, cilt 31, s. 149-152'de yeniden basılmıştır. Ayrıca bkz. A. E. R. de Jonge, "Roberts Teoremi ve Sonrakinin Yeni Bir İspatı Aracılığıyla Menteşeli Dört Çubuklu
+Düz Çizgi Hareket Cihazlarının Korelasyonu," _New York Bilimler Akademisi Yıllıkları_,
+18 Mart 1960, cilt 84, sanat 3, s. 75-145 (ayrı olarak yayınlanmıştır).]
+
+Aynı 1876 yazında, Güney Kensington Müzesi'ndeki Bilimsel Cihazların Ödünç Verilmesi Sergisi'nde, her yerde kinematik üzerinde önemli ve kalıcı bir etki
+yapan
+Franz Reuleaux'nun eseri ilk kez İngiliz mühendislere tanıtıldı. Berlin'deki Kraliyet Endüstri Okulu, Berlin kinematik
+modelleri olarak bilinen yaklaşık 300 güzelce inşa edilmiş öğretim yardımcısını sergiye ödünç verdi ve Reuleaux bu okulun müdürüydü. Bu modeller, Londra Üniversitesi Koleji'nden Prof. Alexander B. W. Kennedy tarafından Reuleaux'nun yeni ve devrim niteliğindeki makine teorisini açıklamak için kullanıldı.[55]
+
+[Dipnot 55: Alexander B. W. Kennedy, "Berlin Kinematik Modelleri", _Engineering_, 15 Eylül 1876, cilt 22, s. 239-240.]
+
+Bilim İnsanları ve Makineler
+
+1829'da Andre-Marie Ampere (1775-1836) College de France için teorik ve deneysel fizik dersi hazırlaması için çağrıldığında, ilk olarak fizik alanının sınırlarını belirlemeye koyuldu. Bu egzersiz, onun geniş kapsamlı zekasına yalnızca fiziğin tanımını değil, aynı zamanda tüm insan bilgisinin sınıflandırılmasını da önerdi. Sınıflandırma şemasını hazırladı, fizik
+öğrencileri üzerinde denedi, eksik buldu, çalışmasına geri döndü ve
+sonunda kinematiğin alanının ilk olarak herkesin görüp değerlendirebileceği şekilde belirlendiği iki ciltlik bir eser üretti.[56] Kinematik gibi uzmanlaşmış bir dala sadece birkaç satır ayrılabilirdi, ancak Ampere konunun
+ana fikrini yakalamayı başardı.
+
+[Dipnot 56: Andre-Marie Ampere, _Essai sur la philosophie des
+sciences, une exposition analytique d'une classification naturelle de
+toutes les connaissances humaines_, 2 cilt, Paris, 1838 (projenin kökeni için bkz. cilt 1, s. v, xv).]
+
+Cinematique (Yunanca hareket kelimesinden gelir), Ampere'e göre,
+"hareketlerin kendi başlarına ele alındığı bilimdi [bunları üreten kuvvetlerden bağımsız olarak], etrafımızdaki katı cisimlerde ve özellikle de makineler olarak adlandırılan topluluklarda gözlemlediğimiz gibi."[57] Çalışma alanı kısa süre sonra İngilizcede kinematik olarak bilinir hale geldi[58], temel mekaniğin iki dalından biriydi, diğeri ise statikti.
+
+[Dipnot 57: _Aynı eser_, cilt 1, s. 51-52.]
+
+[Dipnot 58: Willis (_op. cit._ dipnot 21) "kinematik" kelimesini benimsedi ve bu İngilizleştirme daha sonra mekaniğin bu dalı için standart terim haline geldi.]
+
+Ampere kinematik tanımında, Paris'teki Ecole Polytechnique'teki matematik fakültesinin, okulun yaklaşık 40 yıl önce açılmasından bu yana neye doğru ilerlediğini belirtti. Mekanizmaların entelektüel bir disiplin olarak incelenmesi, kesinlikle Seine Nehri'nin sol yakasında, bu okulda, bir Fransız tarihçinin önerdiği gibi,[59] Diderot ve d'Alembert'in büyük _Encyclopedie_'sinden türemiştir.
+
+[Dipnot 59: G. Pinet, _Histoire de l'Ecole Polytechnique_, Paris, 1887, s. viii-ix. Kinematik sentez üzerine çıkacak olan kitaplarında, R.
+S. Hartenberg ve J. Denavit, 18. yüzyıldan Jacob
+Leupold ve Leonhard Euler'in tohum fikirlerini izleyecekler.]
+
+Çünkü Ecole Polytechnique, Watt'tan yaklaşık bir asır sonra bilim insanları tarafından mekanizmaların düşünüldüğü bakış açısı üzerinde ve daha da uzun bir süre boyunca mekanik hareketler sözlüklerinin derleyicileri tarafından çok geniş kapsamlı bir etkiye sahipti,
+bir an için orada yapılan erken çalışmalara bakmak iyi olur. Eğer biri
+kökenlerle ilgileniyorsa, onun için Paris'in yaklaşık 150 mil kuzeydoğusundaki
+Mezieres antik kasabasındaki askeri okulu araştırmak karlı olabilir. Ecole Polytechnique'in başlıca kurucularından biri olan Lazare Carnot, 1783'te makineler üzerine yazdığı makaleyi[60] burada yayınladı. Bu makale, diğer şeylerin yanı sıra "sürekli hareketin" imkansızlığını göstermekle ilgiliydi; Gaspard Monge ve Jean Hachette[61], Lanz ve Betancourt'un isimleriyle ilişkilendirilen mekanizma sınıflandırma sistemini geliştirmek için Paris'e Mezieres'ten geldiler. [Dipnot 60: Lazare N. M. Carnot, _Essai sur les machines en general_,
+Mezieres, 1783 (daha sonra _Principes fondamentaux de
+l'equilibre et du mouvement_ olarak yayınlandı, Paris, 1803).]
+
+[Dipnot 61: Monge ve Hachette'in biyografik duyuruları
+_Encyclopaedia Britannica_, ed. 11'de yer almaktadır. Ayrıca bkz. _L'Ecole Polytechnique,
+Livre du Centenaire_, Paris, 1895, cilt 1, s. 11ff.]
+
+Mezieres'te bir çizer iken betimleyici geometri yöntemlerini
+ilklendiren Gaspard Monge (1746-1818), 1794'te, Fransız Cumhuriyeti'nin ikinci yılında kurulduğunda
+Ecole Polytechnique'e matematik profesörü olarak geldi. Monge'den betimleyici geometri bölümünde kıdemsiz olan Jean Nicolas Pierre Hachette'e (1769-1834) göre Monge, makinelerin unsurlarına ayrılmış iki aylık bir ders vermeyi planlıyordu. Ancak bölümünü yeni başlatmış olan Monge, Napolyon'un Mısır'a yönelik iddialı bilimsel görevine dahil oldu ve ailesinden ve öğrencilerinden veda ederek uzak kıyılara doğru yola çıktı.
+
+"Sorumluluk bana bırakıldığında," diye yazmıştı Hachette, "Monge'nin yalnızca ilk fikrini verdiği dersi hazırladım ve makineleri analiz edip sınıflandırmak ve geometrik ve mekanik prensipleri yapılarına bağlamak için makinelerin incelenmesini sürdürdüm." Müfredattaki değişiklikler dersin 1806'ya kadar ertelenmesine neden oldu ve ders kitabı ancak 1811'de hazır oldu, ancak fikirlerinin ana hatları derslerine grafik biçiminde sunuldu (şekil 28). Bu çizelge, mekanik hareketlerin yaygın olarak
+popüler sinoptik tablolarının ilkiydi.[62]
+
+[Dipnot 62: Jean N. P. Hachette, _Traite elementaire des machines_,
+Paris, 1811, s. v.]
+
+[İllüstrasyon: Şekil 28.--Hachette'in temel mekanizmalar sinoptik çizelgesi, 1808. Bu, 100 yıldan fazla bir süre boyunca yaygın olarak
+popülerlik kazanan birçok mekanik hareket çizelgesinin ilkiydi.
+
+Jean N. P. Hachette, _Traite Elementaire des Machines_ (Paris,
+1811, s. 1) adlı eserden.]
+
+Hachette, tüm mekanizmaları bir hareketin diğerine dönüşümünü dikkate alarak sınıflandırdı. Temel hareketleri sürekli dairesel, dönüşümlü dairesel, sürekli doğrusal ve dönüşümlü doğrusaldı. Bir hareketi diğeriyle birleştirerek -örneğin, bir pedal ve krank, dönüşümlü dairesel hareketi sürekli dairesel harekete dönüştürdü- mekanizmaların incelenmesi için bir referans çerçevesi sağlayan bir sistem tasarladı. West Point'teki ABD Askeri Akademisi'nde, Hachette'in orijinal Fransızca'daki incelemesi 1824'te ve belki de daha önce ders kitabı olarak kullanıldı.[63]
+
+[Dipnot 63: Bu eser, Sylvanus Thayer'in 1816'da Fransız ordusu öğrencilerinin eğitimini gözlemlemek için Fransa'yı ziyaret ettiğinde geri gönderdiği kitaplar arasındaydı. Thayer'in ziyareti, ABD Askeri Akademisi'nin yeniden düzenlenmesinde Ecole Polytechnique'in felsefesini benimsemesiyle ve tesadüfen Hachette'in dersini Akademi müfredatına dahil etmesiyle sonuçlandı (ABD Kongresi, _American State Papers_,
+Washington, 1832-1861, Class v, Military Affairs, cilt 2, s. 661: Sidney
+Forman, _West Point_, New York, 1950, s. 36-60). Bu dönemdeki ABD Askeri Akademisi'ne ilişkin çeşitli makalelerden oluşan bir koleksiyon var (Sylvanus Thayer ve William McRee, ABD Ulusal Arşivleri, RG 77, Ofis, Mühendisler Şefi, Kutular 1 ve 6 altında indekslenmiştir), ancak bu koleksiyonda kinematikten hiç bahsedildiğini bulamadım. ]
+
+İspanya'dan Ecole Polytechnique'teki bilim insanları Lanz ve Betancourt, Hachette'in sistemindeki boşlukların bazılarını, işlenecek kombinasyon sayısını iki katına çıkaran sürekli ve alternatif eğrisel hareket ekleyerek doldurdular, ancak çalışmalarının Hachette'inkinden ilerlemesi, türe göre değil, dereceye göreydi.[64]
+
+[Dipnot 64: Phillipe Louis Lanz ve Augustin de Betancourt, _Essai sur
+la composition des machines_, Paris, 1808. Hachette'in çizelgesi ve makinelerle ilgili temel dersinin taslağı, Lanz ve Betancourt çalışmasının Princeton Üniversitesi Kütüphanesi kopyasıyla birlikte ciltlenmiştir. Bu kopya, muhtemelen kinematiğin ilk ders kitabını temsil etmektedir. Betancourt, 1760'ta Teneriffe'de doğdu, Madrid'deki askeri okula gitti ve İspanyol yolları ve kanallarının genel müfettişi oldu. 1789'dan önce İngiltere'deydi, Watt motorlarının nasıl yapılacağını öğreniyordu ve 1790'da motorları Paris'e tanıttı (bkz. Farey, _op. cit._, s. 655). 1808'de Rus hizmetine girdi ve 1826'da St. Petersburg'da öldü. J. C. Poggendorff, _Biographisches-literarisches Handwoerterbuch fuer Mathematik
+..._, Leipzig, 1863, cilt 1.]
+
+[Resim: Şekil 29.--Robert Willis (1800-1875), Cambridge Üniversitesi'nde Jacksonian Profesörü ve mekanizmaların kinematiğinin geliştirilmesinde çığır açan kitaplardan biri olan _Principles of Mechanism_ kitabının yazarı. Fotoğraf Gonville ve Caius College, Cambridge Üniversitesi'nin izniyle.]
+
+İtalyan "mühendis ve birçok akademinin üyesi" ve İtalya'daki Pavia Üniversitesi'nde mekanik profesörü olan Giuseppe Antonio Borgnis, dokuz ciltlik anıtsal _Traite complet de mechanique
+appliquee aux arts_ adlı eserinde, altı makine elemanı düzenini tanıttığında ve bunları sınıflara ve türlere böldüğünde, Hachette'in sınıflandırma temeli üzerine inşa edilen yapının ikiye ayrılmasına neden oldu. Onun altı düzeni _recepteurs_ (ilk hareket ettiriciden hareket alan), _communicateurs_, _modificateurs_ (hız değiştiricileri), _supports_ (örneğin, rulmanlar), _regulateurs_ (örneğin, valiler) ve _operateurs_ idi ve bunlar nihai etkiyi üretti.[65]
+
+[Dipnot 65: Giuseppe Antonio Borgnis, _Theorie de la mecanique
+usuelle_ in _Traite complet de mecanique appliquee aux arts_, Paris,
+1818, cilt 1, s. xiv-xvi.]
+
+Zekice Gaspard-Gustave de Coriolis (1792-1843) -özellikle adını taşıyan ivmenin doğasını açıklayan bir düzine sayfalık
+bir makalesiyle
+anılır[66]--makineler konusu üzerine yazan
+Ecole Polytechnique'in bir başka mezunuydu. 1829'da yayınlanan kitabı[67],
+makine tasarımcısının Ecole Polytechnique'teki lisans çalışmasının ona kazandıracağından
+daha fazla bilgiye ihtiyaç duyduğunu fark etmesiyle tetiklendi. Borgnis'in yaklaşımının bir kısmını benimsemiş olmasına rağmen, _alıcılar_, _iletişimciler_ ve _operatörler_ kavramlarını benimsemiş olmasına rağmen,
+Coriolis kitabının başlığında, göreceli yer değiştirmelerden çok kuvvetlerle ilgilendiğini belirtmiştir. Ancak, Coriolis'in çekici derecede basit üç elemanlı şeması Fransız düşüncesinde iyice yerleşmiştir.[68]
+
+[Dipnot 66: Gaspard-Gustave de Coriolis, "Memoire sur les equations du
+mouvement relatif des systems de corps," _Journal de l'Ecole
+Polytechnique_, 1835, cilt. 15, s. 142-154.]
+
+[Dipnot 67: Gaspard-Gustave de Coriolis, _De Calcul de l'effet des
+machines_, Paris, 1829. Coriolis bu kitapta artık genel olarak kabul gören denklemi önerdi, iş = kuvvet x mesafe (s. iii, 2).]
+
+[Dipnot 68: Ünlü Jean Victor Poncelet bu şemaya ağırlık verdi. (Bkz. Franz Reuleaux, _Theoretische Kinematik: Grundzuege einer
+Theorie des Maschinenwesens_, Braunschweig, 1875, Alexander B. W. Kennedy tarafından _The Kinematics of Machinery: Outlines of a
+Theory of Machines_, Londra, 1876, s. 11, 487 olarak çevrilmiştir. Kennedy çevirisini bu çalışma boyunca Reuleaux referanslarında kullandım. )]
+
+Ecole Polytechnique'in bir diğer mezunu olan Michel Chasles (1793-1880),
+1830'larda yayınlanan anlık merkezler[69]
+hakkındaki makalelerinde bazı keskin fikirlere katkıda bulunmuştur, ancak bunların kinematik analizdeki muazzam önemi
+çok daha sonra fark edilmiştir.
+
+[Dipnot 69: Anlık merkez muhtemelen ilk olarak Jean
+Bernoulli (1667-1748) tarafından "De Centro Spontaneo Rotationis" (_Johannis
+Bernoulli ... Opera Omnia ..._, Lozan, 1742, cilt 4, s. 265ff.) adlı eserinde fark edilmiştir.]
+
+[Resim: Şekil 30.--Franz Reuleaux (1829-1905). 1875'te yayınlanan _Theoretische
+Kinematik_ adlı eseri modern kinematik
+analizin temelini oluşturmuştur. Fotoğraf izniyle Deutsches Museum, Münih.]
+
+Ampere'in kinematik alanının açık bir şekilde açıklanması ve Ampere'in yaptığı gibi kuvvetlerin dikkate alınmasının hariç tutulması üzerine, bir İngiliz olan Robert Willis, mekanizmaların analizinde bir sonraki büyük adımı attı. Willis, 1837'de Cambridge'de doğa ve deneysel felsefe profesörü olarak atandığında 37 yaşındaydı. Aynı yıl, muazzam bir enerji ve çalışkanlığa sahip, arkeoloji ve mimari tarihin yanı sıra mekanizmalar konusunda da bir otorite olan Profesör Willis, İnşaat Mühendisleri Kurumu'ndan önce önemli makalesi "Tekerleklerin Dişleri Üzerine"yi okudu[70] ve Cambridge'de mekanizmaların kinematiği üzerine derslerine başladı ve bu dersler 1841 tarihli _Mekanizma Prensipleri_ adlı kitabıyla sonuçlandı.[71]
+
+[Dipnot 70: Robert Willis, "On the Teeth of Wheels," _Transactions of the Institution of Civil Engineers of London_, 1838, cilt 2, s. 89-112.]
+
+[Dipnot 71: Willis, _op. cit._ (dipnot 21). Sahibinin (Massachusetts, North Andover'dan Bay Warren G. Ogden) nezaketi sayesinde, Willis'in 1841 baskısı _Principles of Mechanism_'in kendi kopyasına erişebildim. Kitap iç içe geçmiştir ve en azından ikinci baskının yayınlandığı 1870 yılına kadar Willis tarafından zaman zaman alınan notları içerir. Düzeltmeler, düzeltmeler, bazı kaynaklarının notasyonları (örneğin, yukarıdaki 35 numaralı dipnotta belirtilen De Voglie bağlantısı), "genel durumu incelemek" ve "düz çizgi düzeneklerinin modern biçimlerini incelemek" için kendisine yazdığı notlar, eserinden alıntı yapan yazarlara atıflarla serpiştirilmiştir. Willis bir yazar için öfkeyle "Çalışmamı görmezden geliyor." diye yazmıştır.]
+
+Willis'e göre, belirli bir amaç için bir mekanizma tasarlama sorunu, tasarımcının en basit veya en uygun kombinasyonu seçebileceği "istenen amaca uygulanabilir tüm biçim ve düzenlemeleri" belirlemek için sistematik olarak, belki de matematiksel olarak ele alınmalıdır. "Şu anda," diye yazmıştır, "bu tür sorular ancak, bir konuyla uzun süre aşina olmanın genellikle deneyimli kişilere verdiği, ancak başkalarına iletmekte tamamen aciz oldukları türden bir sezgiyle çözülebilir."
+
+Bir makinenin tasarlandığı süreci analiz ederken, Willis şunları gözlemledi: "Bir mekanikçinin zihni bir makinenin
+icadıyla meşgul olduğunda, meditasyonlarının ortasında, amacına hizmet edebilecek mutlu bir kombinasyon aklına gelene kadar beklemelidir." Tasarım sürecinin bu aşamasında "makinenin hareketlerinin, ona uygulanan kuvvetlerden veya yapması gereken işten ziyade, esas tefekkür konusu olduğu" fikrini ileri sürdü. Bu nedenle, Ampere'in kinematik görüşünü çekinmeden benimsemeye ve mümkünse, daha önce uygulanan sınıflandırma ve tanımlama sistemlerinin çerçevesine eldeki problemi uydurmak zorunda kalmadan uygulanabilecek ilkeleri belirterek bilimi mühendisler için yararlı hale getirmeye hazırdı. Lanz ve Betancourt'un "ünlü sistemini" "planın görünüşte bilimsel basitliğine rağmen, sadece popüler bir düzenleme" olarak değerlendirdi. "Bu planı reddetti çünkü "hareketleri hesaplamaya tabi tutmak veya bu yasaları genel formüllere indirgemek için hiçbir girişimde bulunulmuyor, ki sistem buna tamamen uygun değil."
+
+Borgnis, Willis'in düşüncesine göre, makineyi gerçekten tarif etmede daha iyi bir iş çıkarmıştı, makine elemanlarının veya makinenin içindeki mekanizmaların işlevlerine dayanan "emirleri" vardı, ancak yine de mekanizmaların kinematiğinin sistematik olarak araştırılabileceği hiçbir yol önerilmedi.
+
+Willis incelemesine saf mekanizmanın temel kombinasyonlarının bir başka "sinoptik tablosu" ile başlamasına rağmen, görüşü hızla tariften analize kaydı. "Saf mekanizma" için analitik yöntemlerin peşinde koşarken tutarlıydı, kuvvetler ve mutlak hızlar alanına herhangi bir
+çıkıştan kaçındı. Makine elemanlarının göreli yer değiştirmelerinin önemli kavramını kavradı ve
+tedavisini parçaların hızları ve yönleri arasındaki "oranlar ve ilişkiler" üzerine kurdu, gerçek ve
+ayrı hareketler."[72]
+
+[Dipnot 72: _Aynı eser._, s. iv, x-xii, xxi, 15.]
+
+Öğrencinin "istenen amaca uygulanabilir tüm formları ve düzenlemeleri" belirlemesini sağlayacak "formülleri" geliştirmeyi başaramamış olması - senteze rasyonel bir yaklaşım sunmamış olması - şaşırtıcı değildir. Bir asırdan fazla bir süre sonra hala sorunun kenarlarını kemiriyoruz. Willis, yine de, düşünceli okuyucuya kinematik sentez için şimdiye kadar tasarlanmış en güçlü araca bir bakış sağladı; yani, argümanın bir mekanizmanın bağlantılarındaki noktaların göreli yer değiştirmeleriyle sınırlı olduğu ve tasarımcının herhangi bir özel sorunun çözümü için elindeki araçların doğasını kavrayabileceği kinematik analiz.
+
+Bir nesil sonra Reuleaux'nun belirttiği gibi, Profesör Willis'in kitabında çok fazla yanlış vardı, ancak bu, öncüllerinden ruhen olmasa da yöntem olarak her zaman ayrılan özgün, düşünceli bir çalışmaydı. _Mekanizma Prensipleri_, makine kinematiğinin rasyonel bir disiplinine giden yolda önemli bir dönüm noktasıydı. 
+19. yüzyılın olağanüstü bir mühendisi, Glasgow Üniversitesi'nde inşaat mühendisliği profesörü olan William John MacQuorn Rankine'di. Üniversitede sadece 17 yıl kalmasına rağmen (1872'de 52 yaşında öldü) o süre zarfında inşaat mühendisliği, gemi yapımı, termodinamik ve makine ve değirmen işçiliği gibi çeşitli konularda dört kalın kılavuz ve bilimsel dergiler ve teknik basın için kelimenin tam anlamıyla yüzlerce makale, makale ve not üretti. Görünüşte sınırsız bir enerjiye sahip olan Rankine, çalışmalarından zaman bulup
+bir tüfek gönüllü taburuna komuta etti ve
+komik ve vatansever şarkılar besteleyip söyledi. Genellikle ders kitabı olarak kullanılan kılavuzları yaygın olarak dağıtıldı ve birçok baskı yaptı.
+Rankine'in çalışması, genellikle eğitim dergilerinde görülen muameleden rahatsız olan insanların anlayabileceği bir biçimde prensipler ortaya koyarak mühendislik uygulamaları üzerinde derin bir etki yarattı.
+
+Rankine'in _Makine ve Değirmencilik El Kitabı_ adlı kitabı 1869'da yayınlandığında, bir eleştirmen tarafından doğru bir şekilde _"makine ve değirmencilik _ilkeleriyle_ ilgili olduğu ve bu nedenle _bu tür ilkelerin pratik uygulamalarını _ilkelerin kendisinden daha fazla ele alan [aynı konu üzerindeki diğer çalışmalardan] tamamen farklı olduğu" şeklinde nitelendirildi.[73]
+
+[Dipnot 73: _Engineering_, Londra, 13 Ağustos 1869, cilt 8, s. 111.]
+
+Rankine, Willis'in _Mekanizma Prensipleri_ ve diğer kaynaklardan yararlı görünen şeyleri ödünç aldı. Kinematiğe ilişkin yaklaşımı, aşağıda ele alınacak olan Reuleaux ve Kennedy'nin daha sonraki incelemeleri kadar yakından akıl yürütülmemişti. Ancak Rankine, yalnızca bir bağlantının sabit bağlantısını içeren anlık
+merkezleri kullanmasına rağmen, hız analizinde anlık merkezlerin faydasını ilk kez gösterdi. Kendisinden öncekiler gibi, bir mekanizmanın sabit bağlantısını hareketli bağlantılardan oldukça farklı bir şey olarak gördü ve iki hareketli bağlantının anlık
+merkezini belirleyerek açılan olasılıkları algılamadı.
+
+Yüzyılın orta üçte birinde mekanizmalarla ilgili birçok başka kitap yayınlandı, ancak bunların hiçbiri kinematik fikirlerin ilerlemesi üzerinde fark edilebilir bir etkiye sahip değildi.[74] Araştırmanın merkezi 1860'lara gelindiğinde Fransa'dan Almanya'ya kaymıştı. Sadece İngiltere, İtalya ve Fransa'daki dağınık kişiler tarafından makine yapım sanatının yerleşik, genel anlayışına karşı bir sabırsızlık vardı.
+
+[Dipnot 74: Bu tür kitaplardan birkaçına Reuleaux, _op. cit._
+(dipnot 68), s. 12-16.]
+
+Öte yandan Almanya'da, makinelerin nasıl inşa edilmesi gerektiği sorunlarına bazı çok yetenekli adamları çeken bir endüstriyel faaliyet artışı vardı. Bunlardan ilki, Heidelberg'den çok uzak olmayan Karlsruhe'deki politeknik okulunda makine mühendisliği profesörü olan Ferdinand Redtenbacher'dı (1809-1863). Redtenbacher, "mekanizmaların incelenmesini temellendirecek gerçek bir sistem" bulma olasılığından umutsuzluğa kapılmış olsa da, yine de böyle bir sistemin geliştirilmesinde bir etkendi. 1850'den itibaren iki yıl boyunca genç Franz Reuleaux'yu derslerinde tuttu. O dönemde yaşlı adamın baskın varlığı, bir öğretim görevlisi olarak yeteneği ve mevcut düzene karşı bulaşıcı sabırsızlığı, Reuleaux'yu birinci sınıf bir otorite olarak onu öne çıkaran bilginin yolunu izlemeye yöneltti.[75]
+
+[Dipnot 75: Bkz. Carl Weihe, "Franz Reuleaux ve Kinematik'in Yapısı," Deutsches Museum, Münih, _Abhandlung und Berichte_, 1942,
+s. 2; Friedrich Klemm, _Technik: Eine Geschichte ihrer Probleme_,
+Freiburg ve Münih, Verlag Karl Alber, 1954, Dorothea W.
+Singer tarafından çevrildi _A History of Western Technology_, New York, Charles
+Scribner's Sons, 1959, s. 317.]
+
+Franz Reuleaux, 25 yaşına gelmeden önce, bir sınıf arkadaşıyla işbirliği yaparak, çevrilmiş başlığı _Makine Atölyesi İçin Yapıcı Dersler_ olacak bir ders kitabı yayınladı.[76] Redtenbacher'in etkisi altına girmeden önce ve sonra atölyede geçirdiği birkaç yıl, eserlerine pratik, basit ve doğrudan bir tat verdi. Bir gözlemciye göre, Reuleaux'nun kitabı "İngilizlerin genellikle bir Alman bilim profesörünün yazılarıyla ilişkilendirmediği türden uygulama iddialarının kabul edildiğini" gösteriyordu.[77]
+
+[Dipnot 76: Bkz. Weihe, _op. cit._ (dipnot 75), s. 3; Hans Zopke,
+"Profesör Franz Reuleaux," _Cassier's Magazine_, Aralık 1896, cilt 11, s. 133-139; _Transactions of the American Society of Mechanical Engineers_, 1904-1905, cilt 26, s. 813-817.]
+
+[Dipnot 77: _Engineering_, Londra, 8 Eylül 1876, cilt 22, s. 197.]
+
+Reuleaux'nun kinematikle ilgili orijinal fikirleri, ki bu fikirler bugün mekanizmalara bakış şeklimizden sorumludur, 1864'te bunlar hakkında ders verebilecek kadar şekillenmişti.[78] 1871'den başlayarak bulgularını Prusya'daki Verein zur Befoerderung des Gewerbefleisses in Preussen'in (Sanayinin İlerlemesi Derneği) yayınında seri olarak yayınladı. 1875'te bu makaleler ününü sağlayan kitapta bir araya getirildi--_Theoretische
+Kinematik...._[79]
+
+[Dipnot 78: A. E. Richard de Jonge, "Kinematik ve Mekanizmalarda Ne Yanlış?" _Mekanik Mühendisliği_, Nisan 1942, cilt. 64, s. 273-278
+(bu makaleye ilişkin yorumlar _Mechanical Engineering_, Ekim 1942,
+cilt 64, s. 744-751'de yer almaktadır); Zopke, _op. cit._ (dipnot 76), s. 135.]
+
+[Dipnot 79: Reuleaux, _op. cit._ (dipnot 68). Bu, Reuleaux'nun kitaplarının
+sonuncusu değildi. Kinematik ve makine tasarımı üzerine üçlemesi De Jonge, _op. cit._ (dipnot 78) tarafından tartışılmıştır. ]
+
+Bu kitabın girişinde Reuleaux şunları yazmıştır:
+
+Her kesin bilimin gelişiminde, içeriği genellemeyi mümkün kılacak kadar
+büyüdüğünde, bir dizi değişikliğin onu netleştirdiği bir zaman vardır. Bu zaman kinematik bilimi için kesinlikle gelmiştir. Mekanizmaların sayısı neredeyse ölçüsüzce artmıştır ve bunların
+uygulandığı yolların sayısı da hiç az değildir. Mevcut yöntemlerle bu labirentten herhangi bir şekilde geçebilecek ipliği tutmak
+kesinlikle imkansız hale gelmiştir.[80]
+
+[Dipnot 80: Reuleaux, _op. cit._ (dipnot 68), s. 23.]
+
+Reuleaux'nun karmaşadan düzeni çıkaracak olanın kendi eseri olacağı konusundaki güveni yerindeydi. Kitabı İtalyancaya çevrilmişti ve Fransızcaya çevriliyordu, yayınlanmasından sadece bir yıl sonra Prof. Alexander B. W. Kennedy tarafından İngilizceye çevrilerek sunuldu.[81]
+
+[Dipnot 81: _Aynı eser._, s. iii.]
+
+Kitap, Londra'daki haftalık dergi _Engineering_ tarafından coşkuyla incelendi,[82] ve rakip dergi _The Engineer_ tarafından uzun bir duyuru yapıldı. _The Engineer_'ın editörü, tamircinin kitapta birçok yeni fikir bulacağını, "şimdiye kadar gizli kalmış benzerlikleri tespit etmeyi öğreneceğini ve eski fikirlerinin çoğundan -belki de isteksizce- vazgeçmek zorunda kalacağını" düşünüyordu. "Ancak," diye ekledi editör, büyük bir adaletle, "o [makinist] aniden Profesör Reuleaux'nun 'kinematik notasyonunda', 'analizinde' ve 'sentezinde', profesyonel varoluşunun uzun zamandır hissedilen eksikliğini fark edecekti, bir an bile inanmıyoruz."[83] Gerçekten de, Reuleaux'nun taze ve keskin fikirleri uzun (600 sayfalık) bir sunumla biraz gölgelenmişti; ve başka bir sınıflandırma girişimi gerektiren kinematik notasyonu, kökten yeni fikirlerin sunumunu basitleştirmedi.[84]
+
+[Dipnot 82: _Engineering_, _loc. cit._ (dipnot 77).]
+
+[Dipnot 83: _The Engineer_, Londra, 30 Mart ve 13 Nisan 1877, cilt. 43, s. 211-212, 247-248.]
+
+[Dipnot 84: Purdue Üniversitesi'ndeki Mekanizmalar Üzerine İlk Konferans'ın ilk makalesinin Allen S. Hall'un Aralık 1953'te _Machine
+Design_, cilt 25, s. 174-180'de yayınlanan "Mekanizmalar ve Sınıflandırmaları" olması belki de önemlidir. Kinematik sentezde sınıflandırmanın yeri Ferdinand Freudenstein'ın Eylül 1959'da _Uygulamalı Mekanik İncelemeleri_, cilt 174-180'de önerilmiştir. 12, s. 587-590.]
+
+[Resim: Şekil 31.--Alexander Blackie William Kennedy
+(1847-1928), Reuleaux'nun _Theoretische Kinematik_ adlı eserinin çevirmeni ve
+Kennedy'nin "Üç Merkez Yasası"nın keşfedicisi. _Minutes of the
+Proceedings of the Institution of Civil Engineers_ (1907, cilt 167,
+ön sayfa) adlı eserinden.]
+
+Bununla birlikte, daha önceki hiçbir yazar kinematik
+analiz sorununu bu kadar net görmemiş veya bu kadar taze, yeni ve
+kalıcı değere sahip bir şey ortaya koymamıştı.
+
+Reuleaux, çift kavramını ilk ortaya atan kişiydi; çiftlerin genişlemesi kavramıyla, görünürde hiçbir ilişkisi olmayan mekanizmalardaki benzerlikleri gösterebilmişti. Bir mekanizmanın sabit bağlantısının hareketli bağlantılarla kinematik olarak aynı olduğunu ilk fark eden kişiydi. Bu onu, bağlantıların ters çevrilmesi, çeşitli bağlantıları sırayla sabitleme ve böylece mekanizmanın işlevini değiştirme gibi önemli bir kavrama götürdü. 40 sayfayı, döner buhar motorlarının birbiri ardına gelen tasarımlarının kinematik özdeşliğini açıkça keyifle göstermeye ayırdı ve mekanizma tasarımındaki iyileştirmelerin ve ilerlemelerin çarpıtma ve karmaşıklıktan oluştuğunu düşünen yaratıcı ama bilgisiz mucitlerin coşkulu umutlarını sonsuza dek yıktı. Sentezle ilgili bölüm de aynı şekilde yeniydi, ancak bir sistemden değil, bir tartışmadan oluşuyordu; ve Reuleaux, yukarıda Willis'in kitabıyla bağlantılı olarak bahsettiğim, sentezin tasarımcının analiz anlayışı ve takdirine orantılı olarak başarılı olacağı fikrini vurguladı. Reuleaux, tasarımcıyı doğru yola sokmaya çalıştı, ona "çalışmak zorunda olduğumuz araçların temel sadeliğini" açıkça göstererek ve ona "yapılması gereken birçok şeyin ancak birkaç araçla yapılabileceğini ve bunların altında yatan ilkelerin açıkça önümüzde yattığını" göstererek.[85]
+
+[Dipnot 85: Reuleaux, _op. cit._ (dipnot 68), s. 582.]
+
+Kinematik analize esasen modern şeklini verecek unsurları Reuleaux'nun çalışmalarına eklemek Sir Alexander Blackie William Kennedy (1847-1928) ve Robert Henry Smith'e (1852-1916) kaldı.
+
+Reuleaux'nun kitabının çevirmeni olan Kennedy, 1874'te Londra'daki University College'da mühendislik profesörü oldu ve sonunda hem Makine Mühendisleri Enstitüsü'nün hem de İnşaat Mühendisleri Enstitüsü'nün başkanlığını yaptı. Japonya İmparatorluk Üniversitesi'nde ders veren Smith, İngiltere'deki Birmingham Üniversitesi'nin bir parçası olan Mason Koleji'nde mühendislik profesörüydü.
+
+Reuleaux, anlık merkezleri neredeyse yalnızca sentrodların (bir anlık merkezin ardışık konumlarının yolları) inşası için kullanırken, Profesör Kennedy anlık merkezlerin hız analizinde kullanılabileceğini fark etti. _Makinelerin Mekaniği_ adlı kitabı 1886'da yayınlandı ("kısmen işin baskısı ve kısmen de sağlıksızlık nedeniyle, bu kitap ancak şimdi yayınlanıyor"). Bu kitapta, günümüzde Kennedy teoremi olarak bilinen üç merkez yasasını geliştirdi. Üç merkezli yasasının "ilk olarak Aronhold tarafından verildiğini düşünüyorum, ancak daha önceki yayınını derslerimde vermemden birkaç yıl sonrasına kadar bilmiyordum."[86] Aslında yasa, Siegfried Heinrich Aronhold (1819-1884) tarafından "Kinematik Geometri Anahatları" adlı eserinde yayınlanmıştı ve bu eser 1872'de Reuleaux'nun editörlüğünü yaptığı dergide Reuleaux'nun serisinin yanında yayınlanmıştı. Görünüşe göre Reuleaux o zamanlar bunun özel önemini kavrayamamıştı.[87]
+
+[Dipnot 86: Alexander B. W. Kennedy, _Makinelerin Mekaniği_, ed. 3, Londra, 1898, s. vii, x.]
+
+[Dipnot 87: Siegfried Heinrich Aronhold, "Kinematik
+Geometrinin Anahatları," _Verein zur Befoerderung des Gewerbefleisses in Preussen_,
+1872, cilt 51, s. 129-155. Kennedy'nin teoremi s. 137-138'dedir.]
+
+[Resim: Şekil 32.--Robert Henry Smith (1852-1916), kinematik analiz için
+hız ve ivme poligonlarının yaratıcısı. Fotoğraf
+Birmingham Referans Kütüphanesi, İngiltere'deki Kütüphanecinin izniyle.]
+
+Kennedy, anlık merkezleri bulduktan sonra hızları hesaplamayla, ivmeleri ise hızların grafiksel farklılaşmasıyla belirledi ve önsözünde çeşitli sebeplerden dolayı Smith'in son çalışmalarını kitabında kullanamadığını belirtti.
+En azından Profesör Kennedy, Smith'in şaşırtıcı derecede ileri fikirlerinin farkındaydı ve bu fikirler hem Amerikalılar hem de İngilizler tarafından genel olarak göz ardı edilmiş gibi görünüyor.
+
+Profesör Smith, 1885'te Edinburgh Kraliyet Cemiyeti'nde verdiği bir bildiride, bağlantıların hız ve ivme diyagramlarının oluşturulmasına ilişkin fikirleri ve yöntemleri açıkça belirtti.[88] İlk kez, bağlantıların hız ve ivme "görüntüleri" (şekil 33) sunuldu. Smith'in fikirlerinin bu kadar uzun süre göz ardı edilmesine izin verilmesi talihsiz bir durumdur.
+
+[Dipnot 88: Robert H. Smith, "Mekanizmaların Kinematiğinin Yeni Bir Grafik Analizi," _Transactions of the Royal Society of Edinburgh_, 1882-1885, cilt 32, s. 507-517 ve sayfa 82. Smith bu makaleyi _Graphics or the Art of Calculating by Drawing Lines_ adlı eserinin bir bölümünün temeli olarak kullandı, Londra, 1889, s. 144-162. Makalesinin bir dipnotunda, Smith Fleeming Jenkin'e (1833-1885) "görüntü" terimini önerdiği için teşekkür etti. Kennedy'nin grafiksel farklılaşmasını "pratik olarak işe yaramaz" olarak nitelendirdikten sonra Smith, Reuleaux'nun "ağırlık merkezleri yöntemi", daha uygun bir şekilde aksoidler olarak adlandırılan yöntem için "pratik bir kullanım bulamadığından" şikayet etti. "Bu tür ifadeler Kennedy ve Reuleaux'nun Smith'in ününü duyurmalarını teşvik etmek için hesaplanmamıştı; ancak, ikisinin de eleştiriye alınmadığına dair hiçbir belirti bulamadım. Smith'in hız ve ivme diyagramları (görünüşe göre Amerikan mühendisleri açısından mumyalanmış) _Encyclopaedia Britannica_, ed. 11, 1910, cilt 17, s. 1008-1009'da yer alıyordu.]
+
+[Resim: Şekil 33.--Smith'in hız görüntüsü (üstteki iki şekil) ve hız, mekanizma ve ivme diyagramları, 1885. BACD bağlantısının görüntüsü şekil _bacd_ olarak gösterilmiştir. _pa_, _pb_, _pc_ ve _pd_ çizgileri hız vektörleridir. Bu yeni, özgün ve güçlü analitik yöntem, İngiliz veya Amerikan okullarında, ortaya çıkmasından yaklaşık 50 yıl sonrasına kadar genel olarak benimsenmedi. başlangıç. _Transactions of the Royal Society of Edinburgh_ (1882-1885, cilt 32, sayfa 82)'den.]
+
+1885'e gelindiğinde modern kinematik analiz için neredeyse tüm araçlar
+üretilmişti. Ancak analiz ve sentezdeki sonraki gelişmeleri tartışmadan önce, tüm bu entelektüel çaba harcanırken
+makinelerin tasarımcısı ve üreticisi olan
+makinistin ne yaptığını sorgulamak karlı olacaktır.
+
+Mekanikçiler ve Mekanizmalar
+
+Mekaniklerin kinematiğinin gerçek prensiplerini tanıma ve ifade etme
+tümevarımsal süreci üç nesil Fransız, İngiliz ve son olarak Alman bilim insanları tarafından ilerlerken, mekanizmaların gerçek tasarımı bilim insanlarının ne yaptıkları ve söylediklerine pek aldırmadan ilerledi.
+
+Boulton ve Watt'ın büyük mekanizmaların yararlı olmak için yeterli hassasiyetle işlenebileceğini göstermesinden sonra, İngiliz alet üreticileri Maudslay, Roberts, Clement, Nasmyth ve Whitworth giderek artan boyutta ve doğrulukta makine aletleri geliştirdiler. Diğer makinelerin tasarımı, makine aletlerinin kapasitesi ve kabiliyetiyle aynı hızda ilerledi - bazen hemen arkasında, bazen hemen önünde. Genel olarak, yalnızca bireysel tasarımcının başlayabileceği bilgi artışıyla açıklanabilen mekanizmalarda artan bir karmaşıklık vardı. Reuleaux, 1875'te "teknik çalışma alanlarında kaydedilen neredeyse ateşli ilerlemenin" "ırktaki entelektüel eylem kapasitesinin artmasının bir sonucu olmadığını, yalnızca zekanın çalıştığı aletlerin mükemmelleştirilmesi ve genişletilmesinin bir sonucu olduğunu" belirtti. Bu aletlerin, "tıpkı modern mekanik atölyedekiler gibi sayıca arttığını - bunları kullanan adamların aynı kaldığını" söyledi. Reuleaux, makine kinematiğinin teorisi ve pratiğinin "yan yana ayrı bir varoluş sürdürdüğünü" söyledi. Teoriyi pratiğe ve tam tersini uygulamadaki bu başarısızlığın nedeninin teorinin kusurlarında aranması gerektiğini düşündü, çünkü "mekanizmaların kendileri, doğrudan ve uygun bir teorik tanıma sahip olup olmadıklarına bakılmaksızın, icat ve iyileştirme yoluyla pratik makine tasarımında sessizce geliştirildi." Teorilerin şu ana kadar "yeni bir mekanizma sağlamadığını" belirtti.[89]
+
+[Dipnot 89: Reuleaux, _op. cit._ (dipnot 68), s. 8.]
+
+Bu nedenle, yeni mekanizmaların ortaya çıkmasından neyin sorumlu olduğunu sormak ve ardından bu dönemde ne tür mekanizmaların ortaya çıktığını görmek mantıklıdır.
+
+Bir tasarımcı için mekanizmalardaki ilerlemenin, daha önce yapılmış olan şeylerin bilgisinin yayılmasıyla gerçekleştiği hemen anlaşılır; ancak geçen yüzyılın tasarımcıları, en son gelişmeleri gözlemlemek ve incelemek için yakın ve uzaktaki diğer atölyeleri sürekli ziyaret edecek ne boş zamana ne de araçlara sahipti. 1800'lerde, tıpkı şimdi olduğu gibi, kelime
+çoğunlukla basılı sayfayla yayılmalıydı.
+
+Hachette'in çizelgesi (şekil 28), pratik dergilerde ve bu tür bilgilere yönelik belirgin talebi karşılamak için derlenen çok sayıda mekanik
+sözlükte mekanik düzeneklerin sergilenmesi için bir model oluşturmuştu. Ancak, Hachette'in kafatasının en üst yüzeysel katmanından gelebilecek bazı fikirlerinin ne kadar ısrarcı olduğunu bulmak biraz şaşırtıcıdır. Örneğin, "demirli feribot"una bakın (şekil 34). Hachette'in sürekli doğrusal hareketin alternatif dairesel harekete dönüşümünü göstermek için kullandığı bu cihaz, 19. yüzyıl boyunca birbiri ardına yayınlarda yer aldı. 1903'e kadar feribot, gelgit değişmiş olmasına rağmen Hiscox'un _Mekanik Hareketler_ adlı eserinde hala demirliydi (şekil 35).[90]
+
+[Dipnot 90: Gardner D. Hiscox, ed., _Mekanik Hareketler_, ed. 10,
+New York, 1903, s. 151. Vapur 1917 baskısında yer almamıştır.]
+
+[İllüstrasyon: Şekil 34.--Hachette'in 1808 tarihli vapuru, sürekli doğrusal hareketi alternatif dairesel harekete
+dönüştüren bir "makine". Phillipe Louis Lanz ve Augustin de Betancourt'tan, _Essai sur
+la composition des machines_ (Paris, 1808, pl. 2).]
+
+[İllüstrasyon: Şekil 35.--Gardner D. Hiscox'un ed.,
+_Mechanical Movements_ (ed. 10, New York, 1903, s. 151) adlı eserinden feribot.]
+
+1820'lerde Lyceum--veya işçi enstitüsü--hareketi yükselişe geçtiğinde,
+Harvard Üniversitesi'nde Rumford uygulamalı bilim profesörü olan Jacob Bigelow, Boston'daki kapasite dolu izleyici kitlesine "Teknolojinin Öğeleri" konulu popüler derslerini verdi. Bigelow, makine elemanları üzerine dersini hazırlarken, otoriteleri olarak Hachette, Lanz ve Betancourt ile Olinthus Gregory'nin mekanik sözlüğünü, Hachette'in sınıflandırma şemasının kopyalandığı ve çizelgesinin yeniden üretildiği bir İngilizce eseri kullandı.[91]
+
+[Dipnot 91: Jacob Bigelow, _Elements of Technology_, 2. basım, Boston, 1831, s. 231-256; Olinthus Gregory, _A Treatise of Mechanics_, 3 cilt, ed. 3, Londra, 1815.]
+
+Lanz ve Betancourt'un[92] eserinin
+_Makinelerin İnşası Üzerine Analitik Deneme_ başlığı altında bir çevirisi, yaklaşık
+1820'de Londra'da Rudolph Ackermann (Ackermann dümen bağlantısına onun adı verilmiştir) tarafından yayınlanmış ve sinoptik çizelgeleri 1822'de Durham'da tekrar basılmıştır.[93] Amerika Birleşik Devletleri'nde, _Appleton'ın Makineler Sözlüğü_[94] (1851) aynı sistemi benimsemiş ve aynı rakamları kullanmıştır.
+Görünüşe göre ahşap oymacısı, Lanz ve Betancourt'un çizelgesinin yeniden basımlarından birindeki rakamları doğrudan bloğuna çizmiştir çünkü
+bu rakamlar her durumda orijinallerin tam ayna görüntüleridir.
+
+[Dipnot 92: Rudolph Ackermann, _Makinelerin İnşası Üzerine Analitik Deneme_, Londra, yaklaşık 1820, Lanz ve Betancourt'un çevirisi, _op. cit._ (dipnot 64).]
+
+[Dipnot 93: Thomas Fenwick, _Pratik Mekanik Üzerine Denemeler_, 3. basım,
+Durham, İngiltere, 1822.]
+
+[Dipnot 94: _Appleton'ın Makineler, Mekanik,
+Motor-Çalışma ve Mühendislik Sözlüğü_, 2 cilt, New York, 1851 ("Hareket").]
+
+_Mühendislik Sözlüğü_nde_[95] (Londra, 1873), rakamlar yeniden çizildi ve mekanik hareketler repertuarına düzinelerce mekanizma eklendi; sonuç, sağlam fikirlerden oluşan adil bir katalog oldu. Ancak, feribot hala çapa kablosunu çekiyordu.[96] _Knight's
+American Mechanical Dictionary_,[97] bir ABD patent inceleme görevlisi tarafından derlenen ayrıntılı resimli bilgilerin klasiği, çeşitli mekanik düzeneklerin 10.000'den fazla ayrıntılı resmini içeriyordu. Knight'ın mekanizmalar hakkında ayrı bir bölümü yoktu, ancak Hachette türünden birine pek gerek yoktu, çünkü tüm sözlüğü sentetik zihinde saklanacak devasa ve büyüleyici bir fikir derlemesiydi. Çeşitli resimli çalışmaların popülerliğinin ve kullanışlılığının bir nedeni, ahşap veya çelik gravürün hassas mekanik bilgileri iletme konusundaki tuhaf yeteneğiydi, bu modern yarı tonlu işlemlerin sahip olmadığı bir avantajdı.
+
+[Dipnot 95: E. F. ve N. Spon, _Dictionary of Engineering_, Londra
+1873, s. 2421-2452.]
+
+[Dipnot 96: _Aynı eser_, s. 2447.]
+
+[Dipnot 97: Edward H. Knight, _Knight's American Mechanical
+Dictionary_, 3 cilt, New York 1874-1876.]
+
+[Resim: Şekil 36. --E. F. ve N. Spon'dan tipik mekanizmalar,
+_Dictionary of Engineering_ (Londra, 1873, s. 2426, 2478).]
+
+19. yüzyılın başından itibaren İngilizce olarak mekanikle ilgili birçok patent dergisi ve diğer mekanik süreli yayın mevcuttu, ancak bunlardan çok azı 1820'den sonrasına kadar Amerikalı mekanikçilerin eline geçti. Oliver Evans (1755-1819) "icatçı mekanikçilerin kendilerinden önce olanlara dair yayınlanmış kayıtların olmaması ve yeni başlayanlara yardımcı olacak referans çalışmalarının olmaması nedeniyle karşılaştıkları zorluklar" hakkında çok şey söyledi.[98] 1817'de _North American Review_ da Amerika'daki mühendislik kitaplarının kıtlığına dikkat çekti.[99]
+
+[Dipnot 98: George Escol Sellers, _American Machinist_, 12 Temmuz 1884, cilt. 7, s. 3.]
+
+[Dipnot 99: _North-American Review and Miscellaneous Journal_, 1819,
+yeni seri, cilt 8, s. 13-15, 25.]
+
+1845'te patent destekçisi Rufus Porter tarafından düzenlenen bir patent dergisi olarak çıkan _Scientific American_, neredeyse
+başlangıcından itibaren "Mekanik Hareketler" başlıklı bir köşe yazısı yayınlamıştı; bu yazıda bir veya iki mekanizma -bir Fransız eserinden ödünç alınmış bir İngiliz eserinden ödünç alınmış- resimlendirilmiş ve açıklanmıştır. _American Artisan_
+1864'te benzer bir seriye başladı ve 1868'de serinin bir derlemesini _Beş Yüz Yedi Mekanik Hareket_ adıyla yayınladı,
+"dinamik, hidrolik,
+hidrostatik, pnömatik, buhar makineleri ... ve çeşitli
+makinelerde en önemli olanların hepsini kapsıyordu."[100] Bu koleksiyon birçok baskıdan geçti; en son 1943'te _Mekanik Hareketler Kılavuzu_ başlığı altında yeniden canlandırıldı.
+Bu 1943 baskısı kinematik modellerin fotoğraflarını içeriyordu.[101]
+
+[Dipnot 100: Henry T. Brown, ed., _Five Hundred and Seven Mechanical
+Movements_, New York, 1868.]
+
+[Dipnot 101: Will M. Clark, _A Manual of Mechanical Movements_, Garden
+City, New York, 1943.]
+
+Birçok okuyucu, _Ingenious Mechanisms for Designers and Inventors_[102] adlı eserin üç cildiyle zaten aşinadır. Bu eser, _Machinery_ (cilt 33, s. 405) tarafından 1927'de duyurulan ve yayınlanmamış yaratıcı mekanizmalar hakkında en iyi yedi makaleye yedi ödül verilen bir yarışmanın sonucudur.
+
+[Dipnot 102: _Tasarımcılar ve Mucitler İçin Yaratıcı Mekanizmalar_ (1. ve 2. ciltler F. D. Jones tarafından düzenlendi, 3. cilt H. L. Horton tarafından düzenlendi), New York,
+Industrial Press, 1930-1951.]
+
+19. yüzyılın ortalarında verilen çok sayıda patenti kapsayan, "Mekanik Hareketler" adlı ilginç bir ABD patent sınıfı vardı. Bu patentlerden bir örneklem, bazılarının belirli makinelerde kullanılan cihazlar için olduğunu gösteriyor - numaralandırma makinesi için bir mandal cihazı, silah yapım makineleri için bir kilitleme
+endeksi ve birkaç dişli takımı gibi - büyük çoğunluğu ise karşılıklı hareketi döner harekete dönüştürmek içindi. Bu patentlerin yüzeysel bir incelemesi bile, sağlam bir mekanik duyunun korkunç bir şekilde yokluğunu ortaya koyuyor ve bunların çoğu, böyle bir niyetin ara sıra reddedilmesine rağmen, "sürekli hareket" girişimleri gibi görünüyor.
+
+Bu patentli cihazların çoğunun tipik özelliği, 1841'de Illinois, Amity'den Charles Johnson tarafından önerilen bir volanın hareketini "çoğaltmak" için bir bağlantıydı (şekil 37). Bay Johnson, "Gerçek bir güç kazanımı olduğu iddia edilmiyor" diye yazdı; ve muhtemelen bunu kastetti.
+Bağlantısının ilan edilen amacı, bir volanın hızını artırmak ve böylece boyutunu küçültmekti.[103]
+
+[Dipnot 103: ABD Patenti 2295, 11 Ekim 1841.]
+
+[Resim: Şekil 37.--Johnson'ın "dönüştürme hareketi", 1841. Bağlantı, volanın motor piston çubuğunun her çift vuruşu için iki devir yapmasını sağlar.
+ABD Patenti 2295, 11 Ekim 1841'den. ]
+
+Birkaç yıl önce "yeni bir Hareket" icat eden bir İngiliz, cihazının "buhar makinelerinde sıradan krank", kiriş, paralel hareket ve "harici volan"ın yerini alacağını, sürtünmeyi azaltacağını, "tüm ekstra mücadele gücünü" nötralize edeceğini ve pistonun "yapılması amaçlanan iş dışında" yapacağı hiçbir şey bırakmayacağını iddia etmişti.
+
+_Repertory of Patent Inventions_ muhabiri bu cihaz hakkında kısa bir çalışma yaptı: "Kanıtla desteklenebilecek neredeyse hiçbir iddia yok," diye yazdı, "ve bunların çoğu da apaçık yanlış ifadeler." Yazar, "[mucit] hepimizin bir volan olduğunu algılayamayacak kadar böcek kafalı olduğunu düşündüğü 'böcek itme tekerleği'ne" saldırdı ve şu ifadeyle bitirdi: "Kısacası, tüm üretim, patent sahibi gerçekten iddia ettiği şeye inanıyorsa makine hakkında veya inanmıyorsa insanlık hakkında büyük bir cehalet gösteriyor."[104]
+
+[Dipnot 104: _Repertory of Patent Inventions_, ser. 3, Ekim 1828,
+cilt 7, s. 196-200 ve Aralık 1828, cilt 7, s. 357-361.]
+
+Patent alınan mekanizmaların çoğu, o zamanlar bu ilkeler açıkça belirtilebilse bile, söz konusu ilkeleri kullanmayacak kişiler tarafından tasarlanmış olsa da, değersiz mekanizmaların patent dergilerinde sağlam olanlar kadar yer alması üzücü bir gerçektir ve yukarıdaki gibi itirazlar nadirdir. Bu şekilde, ilk kinematik repertuarını biriktirmekte olan genç tamirciye iletilen çarpık bilgiler, bazen üzücü bir şekilde yanıltıcıydı.
+
+Konuyla ilgili literatürün bu kaba taslağından bile, tamircinin mekanik bağlantılar ve diğer cihazlar hakkında muazzam miktarda bilgiye erişebildiği oldukça açıktır. Kişi edebiyatın kalitesi hakkında ne düşünürse düşünsün, şüphesiz sadece tasarımcılara bilgi sağlamakla kalmayıp, zihnin belirli bir amaç için gerekli mekanizmayı bir araya getirmesini ve sentezlemesini sağlayacak arka planı nasıl sağlaması gerektiğine dair bir gelenek oluşturmada da etkili olmuştur.[105]
+
+[Dipnot 105: "Mekanik hareketler"in bazı ek katalogları bu makalenin sonundaki seçilmiş referanslarda listelenmiştir.]
+
+Watt düz hat bağlantısı ve Cenevre durağı gibi isimler verilen mekanizmalardan bazıları ders kitaplarında yer almıştır. Bunların var olmalarının tek bahanesi yazarların bunları dahil etmeleri veya meslektaşları tarafından kınanma riskini göze almaları gibi görünüyor. Bu tür mekanizmalar, okuyucu için daha ilginçtir, özellikle de ismin mekanizmayla ne ilgisi olduğu ve kimin
+ilk ortaya çıkardığı hakkında bir fikri olduğunda. Bu tür mekanizmalardan biri de çekme bağlantısıdır.
+
+Sürükleme bağlantısını öğrendikten sonra (çoğu Amerikan mühendislik öğrencisinin yaptığı gibi), bir süre merak ettim ve sonunda bu terimden bir anlam çıkarmaktan umudumu kestim. Sürüklenmek neydi, bilmek istiyordum?
+Son zamanlarda, Nicholson'ın _Operative Mechanic and British Machinist_ (1826) adlı kitabında, burada şekil 38 olarak yeniden üretilen taslağa rastladım. Bay Nicholson'ın (1. cilt, s. 32) açıkladığı gibi, bu şekil "Baylar Boulton ve Watt'ın taşınabilir buhar makinelerinde kullandıkları bağlantı bağlantısını temsil ediyor. A, volan B'nin kollarından birinden çıkan güçlü bir demir pim; D, şaft C'ye bağlı bir krank; ve E, pim A ile krank D'yi birbirine bağlayan ve böylece hareketin şaft C'ye iletilmesini sağlayan bir bağlantı." Yani, sürükleme bağlantısı aslında bir bağlantının bağlantısıydı. Bundan daha mantıklı bir şey olamazdı. Bir çekme bağlantı mekanizması artık bana mantıklı geliyor.
+
+[Resim: Şekil 38.--Boulton ve Watt taşınabilir motorlarında kullanılan çekme bağlantı kuplajı. Bağlantı E, diğeri döndüğünde bir şaftı sürükler.
+John Nicholson, _The Operative Mechanic, and British Machinist_
+(Philadelphia, 1826, cilt I, pl. 5).]
+
+Direksiyon bağlantı kuplajıyla doğrudan ilişkili olan, esas olarak adını taşıyan kuplajla hatırlanan İrlandalı bir mühendis olan John Oldham'ın (1779-1840) patentleriydi (şekil 39). Çeşitli buharlı gemi tüy kürek tekerlekleri için olan üç patenti, Oldham'ın benzerliği fark etmiş olması pek olası olmasa da, sürtünme bağlantı kuplajına kinematik olarak benzer bağlantılar içeriyordu. Ancak, eliptik trammel mekanizmasının tersine çevrilmesini kullanan iyi bilinen kuplajı için bir patent kanıtı bulamadım. Muhtemelen, Oldham'ın uzun yıllar yöneticiliğini yaptığı Bank of Ireland'ın matbaası için tasarladığı makinenin bir parçasıydı. "Bay Oldham ve onun güzel sistemi" 1836'da Bank of England'a getirildi ve Oldham 1840'taki ölümüne kadar orada kaldı.[106]
+
+[Dipnot 106: Oldham'ın çark patentleri, İngiliz Patentleri 4169
+(10 Ekim 1817), 4429 (15 Ocak 1820) ve 5445'ti (1 Şubat 1827). Robert Willis (_op. cit._ dipnot 21, s. 167) kuplajın varlığını fark etti. Banknot makinesinin çizimleri veya açıklamaları görünüşe göre yayınlanmamış olsa da muhtemelen
+hala bankaların arşivlerinde bulunmaktadır. Alıntı Frederick G. Hall'dan alınmıştır,
+_İrlanda Bankası 1783-1946_, Dublin, 1949. John Francis
+_İngiltere Bankası Tarihi_ (Londra, 1848, cilt 2, s. 232) adlı eserinde şöyle yazmıştır:
+"Bay Oldham tarafından tanıtılan banknot basımı için yeni makine ... ziyaret etmeye değer, ancak tasvir etmek ilginç olmayacaktır."]
+
+[Resim: Şekil 39.--_Üst_, Robert Willis'in _Mekanizma Prensipleri_ (Londra, 1841,
+s. 167) adlı eserinin kişisel kopyasında çizdiği gibi, bir merkez disk yerine bir çarpı kullanılarak 1840'tan önce yapılmış orijinal Oldham kuplajı. _Alt_, Alexander B. W. Kennedy, _Makine Kinematiği_, Franz Reuleaux'nun _Theoretische Kinematik_ (Londra, 1876, s. 315-316) çevirisinde gösterildiği gibi Oldham bağlantısı.]
+
+Cenevre durdurma mekanizması (şekil 40) Willis tarafından uygun şekilde şu şekilde tanımlanmıştır:
+yıldız çarkının tam bir dönüşünden daha azına izin veren ve
+bu nedenle bir saat yayının aşırı sarılmasını önleyen bir cihaz. Cenevre durdurma olarak adlandırılmıştır
+çünkü Cenevre saatlerinde kullanılmıştır. Yıldız çarkının tam dönüşüne izin veren ve aralıklı tahrikler için sıklıkla kullanılan Cenevre çark mekanizması, muhtemelen terimin mantıksal kökeni kaybolduğu için yakın tarihli bir ders kitabında uygunsuz bir şekilde Cenevre durdurma olarak adlandırılmıştır.
+
+[Resim: Şekil 40.--Cenevre durdurma mekanizması ilk olarak Cenevre saatlerinde aşırı sarılmayı önlemek için kullanılmıştır. Yıldız tekerlek B'nin bir dışbükey yüzeyi vardı
+(_g-f_, noktalı) bu yüzden tekerlek tam bir
+turdan daha az döndürülebilirdi. Robert Willis'in _Principles of Mechanism_ (Londra,
+1841, s. 266) eserinden sonra.]
+
+İskoç boyunduruğunun adı oldukça yakın bir zamanda ortaya çıkmış gibi görünüyor, bağlantı 1869'da bir İskoç tarafından "krank ve yuva başlı
+sürgülü çubuk" olarak adlandırılmıştı (şekil 41). Sanırım artık bir İskoç boyunduruğu olarak biliniyor
+çünkü en azından Amerika'da, bir "İskoç", bir bölüm eklenirken onları desteklemek için bir dizi kuyu delme aletinin yakasının altına kaydırılan
+yuvalı bir çubuktu (şekil 42).
+
+[Resim: Şekil 41.--"krank ve yuva başlı
+sürgülü çubuk" olarak tanımlanan İskoç boyunduruğu. W. J. M. Rankine, _A Manual of Machinery
+and Millwork_ (6. basım, Londra, 1887, s. 169) adlı eserden.]
+
+[İllüstrasyon: Şekil 42.--Bir bölüm eklenirken bir dizi kuyu delme aletinin üst elemanını destekleyen bir "Scotch", 1876.
+Edward H. Knight, _Knight's American Mechanical Dictionary_ (New York,
+1876, s. 2057) adlı eserden.]
+
+Bugün çoğu otomobilde kullanılan Ackermann direksiyon bağlantısının, Detroit'in hala bir sınır kasabası olduğu 1818 yılında patentlendiğini bulmak benim için şaşırtıcıydı.[107] Ayrıca, patenti alan kişi kendini yayıncı ve baskıcı Rudolph Ackermann olarak tanımladı. Bağlantının kökenine dair gerekli ipucuna sahip olduğumu
+düşündüm, çünkü
+Lanz ve Betancourt incelemesinin ilk İngilizce çevirisinin
+Ackermann tarafından yayınlandığını fark ettim, ancak bağlantının daha az doğrudan olsa da
+daha mantıklı olduğu sonunda ortaya çıktı. Bavyera'lı bir araba üreticisinin oğlu olan Ackermann (1764-1834), Londra'da İngiliz beyefendileri için araba tasarlamak için birkaç yıl geçirmişti ve burada yuva kurmuştu. En dikkat çekici
+işlerinden biri, 1805'te Amiral Nelson'ın cenaze arabasının tasarımıydı.
+Ackermann dümen bağlantısı aslında Ackermann'ın icadı değildi,
+ancak İngiliz patentini kendi adına aldı ve bağlantının bir parçası olduğu yürüyen aksamın tanıtımını destekledi (şekil. 43). Gerçek mucit, Ackermann'ın arkadaşı Münih'li George Lankensperger'di, Bavyera Kralı'nın araba üreticisiydi. Sınırlı bir alanda bir arabayı devrilme tehlikesi olmadan döndürebilmenin avantajı hemen belli oldu ve İngiliz araba üreticilerinin prim ödenmesi gereken bir yeniliğe karşı önemli muhalefeti olsa da, icat kısa sürede Ackermann'ın öngördüğü gibi "kendi içsel değerinden yola çıktı".[108]
+
+[Dipnot 107: British Patent 4212, 27 Ocak 1818.]
+
+[Dipnot 108: Rudolph Ackermann, _Ackermann'ın Taşınabilir Aks Patentleri Üzerine Gözlemler_, Londra, 1819. W. A. ​​Wolfe'un _Mechanical Engineering_, Eylül 1958, cilt 80, s. 103'teki "Ackermann Direksiyon Bağlantısının Analitik Tasarımı" adlı makalesinin bir özetini not etmek benim için ilginçti. 92.]
+
+[Resim: Şekil 43.--1818'de Ackermann direksiyon bağlantısı, şu anda
+otomobillerde kullanılıyor. Bu bağlantı, Bavyera Kralı'nın araba yapımcısı olan George Lankensperger tarafından icat edildi. _Dinglers Polytechnisches
+Journal_'dan (1820, cilt 1, sayfa 7).]
+
+Whitworth hızlı dönüş mekanizması (şekil 44) ilk olarak 1849'da bir
+slotter veya dikey şekillendiriciye uygulandı ve 1851'de Londra'daki Büyük Sergi'de sergilendi.[109] Willis'in mekanizma hakkındaki yorumları
+şekil 44'te yeniden üretilmiştir. Sir Joseph Whitworth'un (1803-1887) bundan daha sağlam mekanik düzeneklerle hatırlanmasını umuyorum.
+
+[Dipnot 109: Hızlı geri dönüş mekanizması (İngiliz Patenti 12907,
+19 Aralık 1849) muhtemelen ilk olarak Charles
+Tomlinson, ed., _Kullanışlı Sanatlar ve Üretim Ansiklopedisi_, Londra,
+1854, cilt 1, s. cxliv'de kamuoyuna açıklanmıştır.]
+
+[Resim: Şekil 44.--Hızlı geri dönüş mekanizması. _Üst_, Whitworth tarafından 1849'da patentlenen hızlı geri dönüş mekanizmasının erken
+görüntüsü, William Johnson, ed., _Makinelerin İmparatorluk Ansiklopedisi_
+(Glasgow, yaklaşık 1855, s. 88). _Orta_, Robert Willis'in _Principles of Mechanism_ (Londra, 1841, s. 264) adlı eserinden taslağı,
+"Whitworth'u daha basit bir forma parçalanmış olarak gösteriyor"; bu, bu mekanizmayı şematik bir diyagram olmadan açıklamaya yönelik
+sonraki girişimlerin çoğu kadar belirsiz. _Alt_, Kinematik olarak Whitworth'unkine eşdeğer olan bağlantı, Robert Willis'in _Principles of Mechanism_ (Londra, 1841, s. 264) adlı eserinden.]
+
+Amerika'daki Mekanizmalar, 1875-1955
+
+Amerika Birleşik Devletleri'ndeki mühendislik kolejleri, 1940'ların sonlarına kadar Willis, Rankine, Reuleaux, Kennedy ve Smith tarafından önerilen
+analiz araçlarını genişletmek, geliştirmek ve keskinleştirmekle meşguldü. Kinematik sentezin gerçek uygulaması hızla devam etti, ancak
+tasarımcılar genellikle analitik yöntemlerin kendilerine sağlayabileceği yardımı reddettiler ve akademisyenler ile uygulayıcılar arasında çok az fikir alışverişi oldu.
+
+Bu dönemde, merkezsiz taşlama makinesi hariç olmak üzere, önemli yeni tipte aletler ortaya çıkmasa da, takım tezgahlarının kabiliyetleri ve hassasiyeti büyük ölçüde arttı.
+Takım tezgahlarıyla yapılan makineler karmaşıklık kazandı ve karmaşık mekanik ürünlerin seri üretimini ekonomik olarak mümkün kılan fikirlerin ortaya çıkmasıyla birlikte, miktar olarak hızlanan bir artış oldu. Her türlü bileşen parçası için standartların benimsenmesi, bir tasarımcının umduğu gibi çalışan mekanizmaları ekonomik olarak üretme kabiliyeti üzerinde de önemli bir etkiye sahipti. Kinematik çalışması, yıllar içinde yayınlanan düzinelerce ders kitabının yeterince açık bir şekilde ortaya koyduğu gibi, yaklaşık 80 yıldır makine mühendisinin eğitiminin gerekli bir parçası olarak kabul edilmiştir. Ancak yakın zamana kadar, mekanizmaların analizi veya rasyonel sentezi konusunda Amerika'da orijinal çalışmalar aramak boşuna olurdu. Kinematiğin en eski Amerikan ders kitaplarından biri, İç Savaş sırasında _Monitor_'un tasarımcısı John Ericsson'a baş çizimci olarak hizmet ettikten sonra Hoboken'daki Stevens Teknoloji Enstitüsü'nde mekanik çizim profesörü olarak atanan Charles W. MacCord'un (1836-1915) 1883 tarihli çalışmasıydı.[110] Willis ve Rankine'in bulgularına dayanarak, MacCord'un _Kinematiği_, Kennedy'nin Reuleaux'nun çalışmaları üzerindeki iyileştirmelerinden etkilenmek için çok erken geldi.
+
+[Dipnot 110: MacCord'un biyografik bir duyurusu ve bibliyografyası _Morton Memorial: A History of the Stevens Institute of Technology_, Hoboken, 1905, s. 219-222'de yer almaktadır.]
+
+St. Louis'deki Washington Üniversitesi'ndeki öğretim üyeleri, 1885'te mühendisliğin geleneksel dallarından duyulan memnuniyetsizliği yansıtan "dinamik mühendislik" müfredatını başlattığında, kinematik
+kıdemli bir dersti ve Rankine'in _Machinery and Millwork_ kitabından öğretiliyordu.[111]
+
+[Dipnot 111: _Transactions of the American Society of Mechanical Engineers_, 1885-1886, cilt 7, s. 757.]
+
+Massachusetts Teknoloji Enstitüsü'nde, makine tasarımı profesörü olan Peter Schwamb, 1885'te Reuleaux ve Rankine'in çalışmalarına dayanarak mekanizmaların kinematiği üzerine bir dizi basılı not hazırladı. Bu notlardan, ilk olarak 1904'te yayınlanan en dayanıklı Amerikan ders kitaplarından biri ortaya çıktı.[112] Bu eserin ilk baskısında, ivme
+sadece bir kez (sayfa 4'te) kısaca bahsedildi. Bağlantılardaki hızlar, bağlantıdan bağlantıya aktarılan ortogonal bileşenlerle belirlendi. Anlık merkezler yalnızca aynı bağlantıdaki çeşitli noktaların hızlarını belirlemek için kullanıldı. Açısal hız oranları sıklıkla belirtildi. 1921'de yayınlanan üçüncü baskıda, doğrusal ve açısal ivmeler tanımlandı, ancak ivme analizleri yapılmadı. Hız analizleri, temel bir değişiklik olmadan değiştirildi. Dördüncü baskı (1930), bir öncekinden temelde değişmedi. Hız
+analizinin tedavisi beşinci baskıda (1938) iyileştirildi ve ivme
+analizi eklendi. Teksas Üniversitesi'nden Prof. V. L. Doughtie tarafından daha da gözden geçirilen altıncı baskı 1947'de çıktı.
+
+[Dipnot 112: Peter Schwamb ve Allyne L. Merrill, _Elements of
+Mechanism_, New York, 1904. Reuleaux ve
+Rankine'in çalışmalarına ek olarak, yazarlar
+Charles MacCord, Stillman W. Robinson, Thomas W. Goodeve ve William C. Unwin'in yayınlarını kullandıklarını kabul ettiler. Tam başlıklar için seçilmiş referansların listesine bakın.]
+
+1900'den önce, mekanizmalar üzerine birkaç kitap daha yayınlanmıştı ve
+hepsi seleflerinin bir veya diğer modelini takip ediyordu. 1885'te _Elementary Mechanism_ adlı eserlerini yayınlayan Illinois ve Purdue Üniversitelerindeki Profesörler Woods ve Stahl, önsözlerinde birçok başka Amerikalı yazarın söylediği ve daha birçoklarının söylemesi gereken şeyi söyledi. Woods ve Stahl, "Konuyla ilgili özgünlük iddiasında bulunmuyoruz," diye yazdılar, "konuyla ilgili tüm mevcut materyallerden serbestçe yararlanıldı... Dikkate alınma iddiamız neredeyse tamamen konunun sunulma biçimine dayanıyor." Bu feragatnameyle yetinmeyip şöyle devam ettiler: "Aslında, böyle bir özgünlüğe çok az yer var,
+zemin neredeyse tamamen önceki yazarlar tarafından
+kapsanmıştı."[113]
+
+[Dipnot 113: Arthur T. Woods ve Albert W. Stahl, _Elementary
+Mechanism_, New York, 1885.]
+
+Bu ülkedeki kinematik ders kitaplarının 1910'lardan kalma benzerliği ve çoraklığı en çarpıcı olanıdır. MacCord, Woods ve Stahl, Cornell'den Barr, Ohio State'ten Robinson ve Schwamb ve Merrill'i izleyen ders kitabı yazarları nesli, konuyla ilgili kalan suyu
+sıkmayı başardı ve ders kitaplarının kurutulması ve sterilizasyonu
+benim neslim 1930'larda bunları kullandığında neredeyse tamamlanmıştı.
+O zamanlar kinematik, birden fazla okulda, 1942'de bir gözlemci tarafından karakterize edildiği gibi neredeyse aynıydı - "mekanik çizimle entelektüel olarak eşitti."[114] Bir ders kitabının konuyla ilgili bilinen her şeyi içerdiğine dair kendi saf inancımı hatırlıyorum; ve kendi ders kitabım veya öğretmenim tarafından inancım konusunda yanıltılmadım. Sanırım birkaç yeni kitapta mekanizmaların kinematiğinin taze, daha az kesin ve daha az düzenli bir şekilde ele alındığını tespit ediyorum, ancak yine de bir ders kitabı yazmayı düşünen herkese, yalnızca biriktirdiği kitapların masa nüshalarını değil, en azından son yüzyılı kapsayan bir veya daha fazla sayıda eski eseri dikkatlice ve ilk elden incelemeye zaman ayırmasını öneririm. Böyle bir çalışma, bilgiye bir katkının ne olduğu ve yalnızca başka bir değişikliğin çınlaması olan şeyin daha iyi anlaşılmasıyla sonuçlanmalıdır.
+
+[Dipnot 114: _Mechanical Engineering_, Ekim 1942, cilt 64, s. 745.]
+
+1942'de _Mechanical Engineering_ dergisinde "Kinematik ve Mekanizmalarda Ne Yanlış?" başlığıyla çıkan tartışmalı makalenin yazarı Çeşitli okuyucular tarafından sorgulanan birkaç açıklama yaptı, ancak kinematik derslerinin yetersizliği ve ders kitaplarının "tuhaf bir şekilde birbirine benzemesi" "ilginç gerçeği" hakkındaki açıklamaları itiraz görmedi ve aslında oldukça zamanında oldu.[115]
+
+[Dipnot 115: De Jonge, _op. cit._ (dipnot 78).]
+
+1940'ların başlarında ivmelerin genel sınıf içi muamelesinin, konuyla ilgili mevcut bilginin çok altında bir seviyede olduğu anlaşılıyor, çünkü Purdue'daki iki öğretmenin bir dizi makalesinde, Coriolis bileşeninin atlanmasıyla meydana gelen ivme analizindeki hataların ciddi sonuçlarına dikkat çekildi.[116] Bu yazarlar, seleflerinden biri olan Henry N. Bonis tarafından 1920'de yazılan bir makaleyle ivme kazanan bir eğilimi tersine çeviriyorlardı. Daha önce pratik ve bununla gurur duyan bir teknik dergide yayınlanan makale, bir volan regülatöründeki bir noktanın ivmesinin "Coriolis'in hayali ivmesi kullanılmadan" nasıl belirlenebileceğini gösterdi. Yazarın analizi yeterince doğruydu ve makalesini şu kusursuz ifadeyle kapattı: "Öğrenci için psikolojik olarak ve mühendis için pratik olarak temelleri iyice anlamak, yanlış uygulanabilecek karmaşık bir formül kullanmaktan daha iyidir." Ancak, birçok okuyucu şüphesiz sadece giriş paragrafını okudu, "hayali" kelimesine geldiklerinde bilgece başlarını salladılar, bu da Coriolis bileşeni kadar anlaşılması zor bir şeyin pratik bir sorunla hiçbir ilgisi olamayacağına dair yarı oluşmuş inançlarını doğruladı ve sayfayı "pratik kıvrımlar" bölümüne çevirdi.[117]
+
+[Dipnot 116: A. S. Hall ve E. S. Ault, "İvme Analizi Nasıl Geliştirilebilir," _Machine Design_, Şubat 1943, cilt 15, s. 100-102, 162, 164; ve Mart 1943, cilt 15, s. 90-92, 168, 170. Ayrıca bkz. A. S.
+Hall, "Coriolis Yasasını Öğretmek," _Journal of Engineering Education_, Haziran
+1948, cilt 38, s. 757-765.]
+
+[Dipnot 117: Henry N. Bonis, "Coriolis Yasası," _American
+Machinist_, 18 Kasım 1920, cilt 53, s. 928-930. Ayrıca bkz.
+"İvme Belirlemeleri", _American Machinist_, 25 Kasım ve
+2 Aralık 1920, cilt 53, s. 977-981 ve 1027-1029.]
+
+20 yıldan daha kısa bir süre önce _Makine Mühendisliği_
+kitabında "Pratik makineler matematiksel formüllerden kaynaklanmaz
+ne de güzel vektör diyagramlarından. "Bu açıklama bir makaleden esinlenerek yazılmış bir mektupta yer alsa da ve yayın politikasının bir yansıması olmasa da, yine de Amerikan mühendislik geleneğindeki bir unsurun temsilcisiydi. "Pratik" tasarımcının inancının bu ifadesinde sergilenen bilinçsiz kibir, akademik çalışmanın değerinin tanınmasına yol açıyor. Ancak akademisyen başka bir tür kibir geliştirmesin diye, ifadenin yazarını dinlemek iyi olur. "Bir çizim makinesi yararlı bir araçtır," diye yazmıştı. "Bir çizimcinin yerini tutmaz."[118]
+
+[Dipnot 118: _Mechanical Engineering_, Ekim 1942, cilt 64, s. 746.]
+
+Bir konuya yönelik akademik ilgi, profesyonel toplulukların
+tutanaklarında yayınlanan makalelerle ve daha yakın zamanda, uzmanlaşmış dergilerde çıkan orijinal makalelerle oldukça iyi temsil edilmektedir.
+1900'den 1930'a kadar çok az mekanizmalar üzerine makaleler ve bunların çoğu yeni "mekanik hareketlerin" açıklamalarıyla ilgiliydi. 1930'larda _Engineering
+Index_'te bildirilen makalelerin sayısı keskin bir şekilde arttı, ancak bunun tek nedeni editörlerin yabancı dil listelemeleri eklemeye başlamasıydı.
+
+Almanya'da Reuleaux'dan bu yana mekanizmaların kinematiğinde bir süreklilik zinciri olmuştur. Çalışmaların çoğu analizle ilgili olsa da, Reuleaux'nun çalışmasında gündeme getirdiği sentezle ilgili kışkırtıcı soru asla göz ardı edilmemiştir. Almanya'daki ve diğer yerlerdeki gelişmeler başkaları tarafından yetenekli bir şekilde incelenmiştir[119] ve burada yalnızca 1939'da _Maschinenbau_'da yayınlanan iki Alman makalesinin, kapsamı ve yoğunluğu hala artan yangının kıvılcımları olduğu belirtilmelidir. _Engineering Index_'teki özetlere göre, çift krank mekanizmasının sentezi üzerine yazan R. Kraus, 1940'ta Kraus'un makalelerini eleştirel bir şekilde tartışan ve "sorunun doğru analizi"nin ana hatlarını ve "herhangi bir dört çubuk bağlantısının" sentezi için genel bir sayısal çözümü veren Rus Z. S. Bloch'tan ateş aldı.[120] Çebiçev'e kadar uzanan ve cebirsel yöntemlerin belirli bir eğriden minimum sapma yollarını belirlemek için kullanıldığı "Çebiçev sentez teorisini" izleyen mekanizmalar üzerine Rus çalışmaları da başka yerlerde incelendi[121] ve ben değerli hiçbir şey ekleyemem.
+
+[Dipnot 119: Grodzinski, Bottema, De Jonge ve Hartenberg ve
+Denavit. Tam başlıklar için seçili referanslar listesine bakın.]
+
+[Dipnot 120: Belirtildiği gibi kaynağım _Engineering Index_'tir. Kraus'un
+makaleleri 1939'da ve Bloch'un
+makaleleri 1940'ta, her ikisi de "Mekanizmalar" başlığı altında bildirilmiştir.]
+
+[Dipnot 121: A. E. Richard de Jonge, "Are the Russians Ahead in
+Mechanism Analysis?" _Machine Design_, Eylül 1951, cilt 23, s. 127,
+200-208; O. Bottema, "Recent Work on Kinematics", _Applied Mechanics
+Reviews_, Nisan 1953, cilt. 6, s. 169-170.]
+
+II. Dünya Savaşı'ndan sonra, kinematik sentezin bazı olasılıkları Amerika Birleşik Devletleri'nde fark edildiğinde, birkaç anlayışlı
+öğretmen çırayı açık bir aleve dönüştürdü.
+
+Bu ülkede bağlantıların sentezi üzerine dikkat çeken ilk yayın pratik bir yayındı, ancak kavramsallaştırma ve girişimde cesur bir girişimdi. John A. Hrones ve G. L. Nelson'ın _Dört Çubuk Bağlantısının Analizi_ (1951) adlı kitabında, dört çubuklu krank ve rocker mekanizması mekanik olarak ayrıntılı bir şekilde analiz edildi ve sonuçlar grafiksel olarak sunuldu. Bu çalışma, "üç çubuklu [sic] eğrinin karmaşık analitik teorisinin şüphesiz mühendisi bunu kullanmaktan alıkoyduğunu" gözlemleyen ve "Hrones ve Nelson tarafından binlerce yörünge içeren ve birçok tasarım probleminde çok faydalı olması gereken bir atlasın yayınlanmasını tamamen anlıyoruz" diyen Hollandalı bir bilim insanı olan O. Bottema tarafından hafifçe övüldü.[122] Yine de, yazarlar tasarımcılara hemen hemen anında anlaşılabilen bir araç sağladılar (şekil 45) ve atlas geniş bir dolaşıma girdi. [123] Senteze geometrik bir yaklaşım fikri daha yakın tarihli yayınlarda başkaları tarafından kullanılmıştır[124] ve bu tema üzerinde daha birçok varyasyonun ortaya çıkması muhtemeldir.
+
+[Dipnot 122: Bottema, _op. cit._ (dipnot 121).]
+
+[Dipnot 123: 1851'de Robert Willis, Hrones ve Nelson'ınkine benzer bir eser üretmek için kullanılabilecek bir kuplör noktası yolu üreten makine (şekil 46) tasarlamıştı.]
+
+[Dipnot 124: R. S. Hartenberg ve J. Denavit, "Sistematik Mekanizma Tasarımı", _Makine Tasarımı_, Eylül 1954, cilt 26, s. 167-175 ve
+Ekim 1954, cilt 26, s. 257-265; A. S. Hall, A. R. Holowenko ve H.
+G. ​​Laughlin, "Dört Çubuklu Kol Krank Mekanizması", _Design News_, 15 Eylül 1957, cilt 12, sayfa 130-139, 1 Ekim 1957, cilt 12, sayfa 145-154,
+ve 15 Ekim 1957, cilt 12, sayfa 132-141. Nomografik bir yaklaşım için, özellikle bilgisayarlara yönelik bir uygulama için, Antonin Svoboda, _Computing Mechanisms and Linkages_, New York, 1948'e bakın.]
+
+[Resim: Şekil 45.--Kuplördeki (yatay) bağlantıdaki 11 noktanın yolları bir döngü boyunca çizilmiştir.
+Kısa çizgiler eşit zaman aralıklarını gösterir. John A. Hrones ve G. L. Nelson'dan, _Dört Çubuk Bağlantısının Analizi_ (New York, 1951, s. 635).]
+
+[Resim: Şekil 46.--Dört çubuk bağlantısı için kuplör-nokta yol üreten makine. Profesör Willis tarafından düz hat bağlantılarını göstermek için bir öğretim aracı olarak inşa edilen bu cihaz, şekil 45'te gösterilene benzer bir plaka üretmek için uyarlanabilirdi. Robert Willis'ten, _A
+System of Apparatus for the Use of Lecturers and Experimenters_ ...
+(Londra 1851, s. 3).]
+
+Bağlantıların "karmaşık analitik teorisi"ne yönelik çözümlerin arayışı, Ferdinand Freudenstein'ın 1954'te "Dört Bağlantılı Mekanizmaların Tasarımına Analitik Yaklaşım" adlı eserinin yayınlanmasıyla teşvik edildi[125] ve son beş yılda ortaya çıkan kapsamlı literatür, bu soruna olan ilginin arttığını gösteriyor.
+
+[Dipnot 125: _Transactions of the American Society of Mechanical
+Engineers_, 1954, cilt 76, s. 483-492. Ayrıca bkz. _Transactions of the
+American Society of Mechanical Engineers_, 1955, cilt 77, s. 853-861,
+ve 1956, cilt 78, s. 779-787.]
+
+Rasyonel yöntemlerin mekanizmaların sentezindeki uygun rolü henüz net değil. Alanında bugünün iki lideri "Kinematik sentezden bahsediyor olabiliriz," diye yazmıştır, "aslında
+şimdiki zamanın büyük bir gerçekliğinden ziyade geleceğe dair bir umuttan bahsediyoruz."[126] Ancak kinematik sentez sorunlarına zaman ayıran akademisyenlerin zihinsel donanımı ve coşkusu düşünüldüğünde,
+yeni fikirlerin üretilememesinin ne kadar önemli olduğunu görmek zordur.
+
+[Dipnot 126: R. S. Hartenberg ve J. Denavit, "Kinematik Sentez,"
+_Makine Tasarımı_, 6 Eylül 1956, cilt 28, s. 101-105.]
+
+Purdue Üniversitesi ve _Makine Tasarımı_ tarafından desteklenen Mekanizmalar üzerine yıllık bir Konferans 1953'te başlatıldı ve canlı bir
+tepkiyle karşılandı. Mekanizmalara olan güncel ilginin diğer tezahürleri arasında, Amerikalıların mekanizmalar üzerine uluslararası konferanslara katkıları, hemen somut sonuçlar üretmeyi umması zor olan türden akademik araştırmaların değerinin giderek daha fazla kabul görmesini yansıtıyor.
+
+Geleceğe bakarken, geçmişe dair uzun bir bakışın nasıl haklı çıkarılabileceği sorulabilir. Bana öyle geliyor ki, şimdiki zamanın neredeyse ateşli faaliyetinde, operasyonel teoriyle o kadar meşgul olma tehlikesi var ki, hedefler bulanıklaşabilir ve mekanizmaların sentezi (daha az zarif bir şekilde ifade edelim: tasarım)
+asla tam olarak odaklanamayabilir. Geçmiş hakkında hiçbir şey bilmeyen birinin
+geleceğe bakmak için
+hangi yöne dönmesi gerektiğine nasıl güvenle karar verebileceğini merak ediyorum.
+
+Teşekkür
+
+Profesörler Richard S. Hartenberg ve Allen S. Hall, Jr.'a, el yazmasını okudukları, yararlı yorumlarda bulundukları ve
+benim bulamadığım materyalleri önerdikleri için minnettarım. Ancak hatalar bana aittir. Ek Referanslar
+
+Kinematik üzerine ek referans materyalinin aşağıdaki listesi, bağımsız araştırma yapmak isteyen okuyuculara yardımcı olabilir.
+
+Malzeme, mevcut makalenin metnindeki bölüm başlıklarına göre listelenmiştir.
+
+DÜZ BİR ÇİZGİ ÇİZMEK
+
+KEMPE, A. B. _Düz Bir Çizgi Nasıl Çizilir._ Londra, 1877.
+
+Yararlı bir bibliyografya içerir. _Squaring the Circle and
+Other Monographs_, New York, Chelsea Publishing Company, 1953'te yeniden basılmıştır.
+
+Kempe'nin zamanından bu yana düz çizgi mekanizmalarına çok dikkat edilmiştir; 1950'den bu yana Amerika Birleşik Devletleri'nde en az yarım düzine makale yayınlanmıştır, ancak 1877'den sonra yayınlanan literatürü incelemedim.
+
+BİLİM İNSANLARI VE MAKİNALAR
+
+BECK, THEODOR. _Beitraege zur Geschichte des Maschinenbaues._ Berlin,
+1899.
+
+Leonardo da Vinci, Biringuccio,
+Besson, Zonca, vb. gibi erken dönem eserlerinin incelemeleri.
+
+BORGNIS, GIUSEPPE ANTONIO. _Traite complet de mecanique appliquee aux
+arts._ Paris, 1818-1821, 9 cilt.
+
+Birkaç yüz tane ince ayrıntılı makine plakası içerir.
+
+LABOULAYE, CHARLES. _Traite de cinematique ou theorie des mecanismes._
+Paris, 1861 (2. basım).
+
+Bu eser Laboulaye'nin çağdaşları tarafından sık sık alıntılanmıştır.
+
+ROYAL SOCIETY OF LONDRA. _Bilimsel Makaleler Kataloğu, 1800-1900,
+Yazar Dizini._ Londra, 1867-1902 ve Cambridge, 1914-1925.
+
+----. _Bilimsel Makaleler Kataloğu, 1800-1900, Konu Dizini._
+Londra, 1909, cilt 2.
+
+Bu konu dizini 1908'de başlatıldı ve 1914'e kadar üç cilt (iki bölümden oluşan
+üçüncü cilt) yayımlandı; ancak, bu konu dizini
+hiçbir zaman tamamlanmadı. _Mechanics_ başlıklı 2. Ciltte "Bağlantılar" başlığı altında yaklaşık 200 giriş var. Royal Society'nin anıtsal kataloglarının her ikisinin de Joseph Henry'nin 1855'te Glasgow'da düzenlenen bir İngiliz Derneği toplantısında yaptığı bir öneriden ortaya çıktığını belirtmek ilginçtir.
+
+WEISBACH, JULIUS. _Transmisyon Makinelerinin Mekaniği_, cilt 3, bölüm 1, bölüm 2, _Mühendislik ve Makine Mekaniği_, J. F. Klein tarafından çevrilmiştir. New York, 1890 (2. baskı).
+
+MEKANİZMALAR VE MEKANİKÇİLER
+
+BARBER, THOMAS W. _Engineer's Sketch-Book._ Londra, 1890 (2. baskı).
+
+HERKIMER, HERBERT. _Engineer's Illustrated Thesaurus._ New York, 1952.
+
+DERGİLER. _Artizan_, 1843'ten itibaren; _Practical Mechanic and Engineer's
+Magazine_, 1841'den itibaren; _Repertory of Arts and Manufactures_, 1794'ten itibaren;
+_Newton's London Journal of Arts and Science_, 1820'den. (Önceki
+süreli yayınlarda patent spesifikasyon çizimlerinin bulunduğu birçok levha vardır.) _The
+Engineer_, 10 Kasım 1933, cilt 156, s. 463 ve _Engineering_,
+10 Kasım 1933, cilt 136, s. 525. (Kinematiğin yararlılığını sorgulayan
+son İngilizce görüşler.)
+
+TATE, THOMAS. _Elements of Mechanism._ Londra, 1851.
+
+Lanz ve Betancourt'tan (1808) şekiller içerir.
+
+WYLSON, JAMES. _Mechanical Inventor's Guide._ Londra, 1859.
+
+Henry Adcock, _Adcock's Engineers' Pocket-Book,
+1858_'den şekiller içerir.
+
+AMERİKA'DA MEKANİZMALAR, 1875-1955
+
+ALBERT, CALVIN D. VE ROGERS, F. D. _Makinelerin Kinematiği._ New York, 1931.
+
+Mevcut makalede bahsedilmeyen çalışmaları içeren bir bibliyografya içerir.
+
+BARR, JOHN H. _Makinelerin Kinematiği._ New York, 1899.
+
+Erken dönem ders kitabı. Yazar Cornell Üniversitesi'nde ders vermiştir.
+
+BEGGS, JOSEPH S. _Mekanizm._ New York, 1955.
+
+Kapsamlı ve yararlı bir bibliyografya içerir.
+
+BOTTEMA, O. "Kinematik Üzerine Son Çalışmalar," _Uygulamalı Mekanik İncelemeleri_,
+Nisan 1953, cilt 6, s. 169-170.
+
+MEKANİZMALAR KONFERANSI.
+
+Bu konferans Purdue Üniversitesi ve _Machine Design_ tarafından desteklenmiştir.
+İlk iki konferansın tutanakları _Machine Design_, Aralık 1953, cilt 25, s. 173-220, Aralık 1954, cilt 26, s. 187-236'da özel bölümler olarak ve toplu yeniden basımlarda yer almıştır. Üçüncü ve dördüncü konferansların (Mayıs 1956 ve Ekim 1957) bildirileri her konferansı izleyen aylar boyunca _Machine Design_'da ve toplu yeniden basımlarda yer almıştır. Beşinci konferansın (Ekim 1958) bildirileri toplandı
+ve konferans katılımcıları için önceden basıldı; daha sonra tüm bildiriler
+_Machine Design_'da yayınlandı. Toplanan yeniden basımlar ve ön basımlar
+(Mayıs 1960) Penton Publishing Company, Cleveland, Ohio'dan temin edilebilir.
+
+DE JONGE, A. E. RICHARD. "Kinematic Synthesis of Mechanisms,"
+_Mechanical Engineering_, Temmuz 1940, cilt 62, s. 537-542.
+
+----. "A Brief Account of Modern Kinematics," _Transactions of the American Society of Mechanical Engineers_, 1943, cilt 65, s. 663-683.
+
+GOODEVE, THOMAS M. _The Elements of Mechanism._ Londra, 1903.
+
+Erken dönem ders kitabı.
+
+GRODZINSKI, PAUL VE MCEWEN, EWEN. "Modern Kinematikte Bağlantı Mekanizmaları," _Journal and Proceedings of the Institution of Mechanical Engineers_, 1954, cilt 168, s. 877-896.
+
+Bu makale ilginç tartışmalara yol açtı. Grodzinski'nin 1956-1957'de Londra'da yayınlanan ve ölümünden kısa bir süre sonra sona eren _Mechanism, An International Bibliography_ adlı süreli yayınının yeniden canlandırılmamış olması talihsizdir. Grodzinski'nin keskin görüşleri ve bilgilendirici denemeleri değerli ve ilgi çekicidir.
+
+HARTENBERG, R. S. "Complex Numbers and Four-Bar Linkages," _Machine
+Design_, 20 Mart 1958, cilt 30, s. 156-163.
+
+Bu mükemmel bir temel kitap. Yazar karmaşık sayıları her zamanki gibi anlaşılır bir şekilde açıklıyor.
+
+HARTENBERG, R. S. VE DENAVIT, J. "Kinematik Sentez," _Makine
+Tasarım_, 6 Eylül 1956, cilt 28, s. 101-105.
+
+MACCORD, CHARLES. _Kinematik._ New York, 1883.
+
+Erken bir ders kitabı.
+
+ROBINSON, STILLMAN W. _Mekanizma Prensipleri._ New York, 1896.
+
+Erken bir ders kitabı. Yazar Ohio Eyalet Üniversitesi'nde ders verdi.
+
+UNWIN, WILLIAM C. _Makine Tasarımının Elemanları._ New York, 1882 (ed. 4).
+
+Erken bir ders kitabı. Yazar İngiltere'deki Royal Indian Mühendislik Koleji'nde ders verdi.
+
+DEVLET BASIM OFİSİ: 1962
+
+ABD Devlet Basımevi Belgeler Müdürü tarafından satışa sunulmuştur
+Ofis Washington 25, D. C.--Fiyat 40 sent
+
+Eugene S. Ferguson'un Watt Zamanından Mekanizmaların Kinematiği Projesi Gutenberg E-Kitabının Sonu
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK KINEMATICS OF MECHANISMS ***
+
+***** This file should be named 27106.txt or 27106.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/1/0/27106/
+
+Produced by Chris Curnow, Viv, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
