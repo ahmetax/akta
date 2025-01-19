@@ -1,0 +1,740 @@
+*** START OF AKTAHEADER ***
+Başlık: Houlihan's Equation (Houlihan Denklemi)
+Yazar: Walt Sheldon
+Yayın Tarihi: June 19, 2009 [EBook #29168]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/29168
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Houlihan's Equation, by Walt Sheldon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Houlihan's Equation
+
+Author: Walt Sheldon
+
+Release Date: June 19, 2009 [EBook #29168]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HOULIHAN'S EQUATION ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Stephen Blundell ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+_Her yazar hayal gücünün geniş topraklarında kendi Çiçekli Krallığını aramalıdır ve eğer bu arayış Dünya'da başlayıp bitebiliyorsa
+onun sorunu büyük ölçüde basitleştirilmiştir. Savaş sonrası Japonya'da Walt Sheldon sadece dinginliği değil, aynı zamanda en çok değer verdiği şeyler hakkında rahatsız edilmeden yazmak için tam bir özgürlük bulmuştur. Bir zamanlar Hava Kuvvetleri subayı olan
+Walt Sheldon, daha hafif anlarında bu kadar parlak ve ışıltılı küçük mücevherleri bize getirmek için fanteziye yönelmiştir._
+
+houlihan'ın
+denklemi
+
+_Walt Sheldon tarafından_
+
+Küçük uzay gemisi bir yıldıza yolculuk için inşa edilmişti. Ancak
+küçük, yaramaz pilotları kaderle bir randevuya çıkmışlardı -- Dünya'da.
+
+İlk başta o sesleri duyduğumdan emin olmadığımı itiraf etmeliyim. Nükleer tahrik merkezine yakın bir parktaydı - serin, yeşil bir yer,
+yaprakların birbirlerine susmalarını, sessiz olmalarını söylediği ve yumuşak esintinin onları tekrar harekete geçirdiği. Çocukken Bay Riordan'ın çiftliğinin hemen ötesindeki tepede tam olarak böyle tenha, küçük, yeşil bir sığınak biliyordum.
+
+Şimdi, çözmem gereken bir sorunum olduğunda geldiğim bir yerdi. O sabah, yanmadaki maddenin deşarj katsayısını veren bir denklem bulmaya çalışıyordum. İsterseniz buna gaz diyebilirsiniz, çünkü merkezde kolaylık olması için gaz gibi ele aldık - çünkü motorumuzdaki roket tüplerinden geliyordu.
+
+Bize kontrol sağlayan bu katsayı olmadan, hala geliştirilmemiş taslak aşamasında olan o olağanüstü motorlarımızın etrafına ilk ay roketini yerleştirmeye başladığımızda uygulanabilir bir denklemden yoksun kalacaktık.
+
+Bunu açıklamam gerektiğini görüyorum, her ne kadar hikayemle doğru bir şekilde ilerlemeyi ummuş olsam da. Sıfırdan başladığınızda, herhangi bir delikten boşaltılan maddenin hızı, onu
+hareket ettiren basınç kafasının kareköküne doğru orantılıdır. Ancak, şeyleri
+bir araya getirdiğinizde, gazdaki büzülmeler veya genleşmeler, yüzey pürüzlülüğü ve
+diğer faktörler hızı biraz daha küçültür.
+
+Nükleer patlamanın korkunç deşarj hızında--sürücünün, daha önce nükleer tuzların
+eridiği
+sadece su olmasına rağmen--bu küçük faktör oldukça büyük bir fark yaratır. Her şeyi buna dahil etmem gerekiyordu--nozulun çapı, kenarın keskinliği, deşarj noktasına yaklaşma hızı, atom ağırlığı ve yapı-- Oh, bundan o kadar çok var ki
+eğer kendiniz bir nükleer mühendis değilseniz, sizi kesinlikle yoracaktır.
+
+Belki de bu denklem olmadan -doğru bir şekilde ifade edilmiş, aklınızda bulunsun- insanlığın aya ilk yolculuğunu yapmaması gerektiği konusunda bana güvenseniz iyi olur. Ve katsayılar ve
+denklemler hakkında tüm bu konuşmalar, Kevin Francis Houlihan adında bir adamın
+dilinde garip duruyor diyebilirsiniz. Ama sonuçta ben bir bilim insanıyım.
+Alanımda uzman olmasaydım kendimi merkezde hayati bir araştırma yaparken bulamazdım.
+
+Neyse, parkta bu küçük sesleri duydum. Küçük
+çalışma sesleri gibi geliyorlardı, küçük seslerin korosuyla ürkütücü derecede gizemli bir şekilde karışıyorlardı. İlk başta bunun oyun oynayan çocuklar olabileceğini düşündüm, ama sonra
+o sırada biraz dalgındım. Küçük haylazları zevklerinden mahrum etmek istemeyerek ağaçların kenarına kadar ayak uçlarımda yürüdüm ve
+dalların arasından dışarı baktım. Ve ne gördüğümü sanıyorsunuz? Çocuklar değil, ama sıkı çalışan küçük bir grup insan.
+
+Bir lider vardı, yaşlıca, krank suratlı biri. Kollarıyla
+havayı dövüyor ve şöyle diyordu: "Buraya, hemen! Tamam, şu elektrik bağlantılarını buraya getirin ve bu konuda
+çok yavaş olmadığınızı görün!"
+
+Belki elli kadar küçük insan vardı. Ben de bundan fazlasıyla
+şaşırmıştım. Küçük insanları - oh, neredeyse otuz yıldır görmemiştim.
+Onları ilk önce sekiz yaşında bir çocukken görmüştüm ve sonra, yine çok kısa bir süre,
+onuncu doğum günümde. Ve ben onların Amerika'da asla görülemeyeceğine ikna olmuştum. Onları hiç bu kadar meşgul görmemiştim. Açıklığın ortasında bir şeyler inşa ediyorlardı. Uzun, parlak, dik ve beş fitten biraz daha yüksekti.
+
+"Hadi gelin, millet!" dedi bu huysuz adam bana doğru bakarak. "Bakmayı bırakın ve işe koyulun! Orada duran o adama aldırış etmenize gerek kalmayacak! Bizi ne görebildiğini ne de duyabildiğini biliyorsunuz!"
+
+Ah, o zengin eski dili tekrar duymak güzeldi. Gülümsedim ve cinlerin ustabaşı--eğer oysa--benim gülümsediğimi gördü ve bir anlığına kaskatı kesildi ve tetikte oldu, sanki onu gerçekten görebildiğimden şüpheleniyormuş gibi. Sonra omuzlarını silkti ve arkasını döndü, açıkça böyle bir şeyin imkansız olduğunu düşündü.
+
+"Bir dakika dostum, özür dilerim. Öyle oldu ki
+seni görebiliyorum." dedim.
+
+Tekrar bana doğru döndü, ağzı açık bir şekilde bakıyordu. Sonra "Ne?
+Bu da ne şimdi?" dedi.
+
+"Seni görebiliyorum," dedim.
+
+"Ohhh!" dedi ve avuçlarını elmacık kemiklerine koydu. "Azizler bizimle olsun!
+O bir mümin! Herkes koşsun - canınızı kurtarmak için koşun!"
+
+Ve hepsi koşmaya başladı, küçük ruhların olduğu her yöne doğru. Ağaçların ve çalıların ve yakındaki eğimli bir setin arkasına doğru koşturmaya başladılar.
+
+"Hayır, bekle!" dedim. "Uzaklaşmayın! Size zarar vermeyeceğim!"
+
+Koşmaya devam ettiler.
+
+Neden korktuklarını biliyordum. "Sizden birini yakalamayı düşünmüyorum!" dedim. "Geri dönün, aptal küçük yaratıklar!"
+
+Ama orman sessizdi ve hepsi kaybolmuştu. Elbette
+altın dolu çömleğimi istediğimi düşünüyorlardı. Birini yakalayıp saklayabilirsem
+ona hakkım olurdu. Ya da efsaneler öyle söylüyordu, gerçi ben
+onların gerçekliğini sık sık merak ettim. Ama ben altın peşinde değildim. Sadece
+İrlanda dilinin müziğini duymak istiyordum. Amerika'da yalnızdım, neredeyse
+utanç verici derecede cömert bir ücret karşılığında
+güzel bir işe tutunmuş olsam bile. Görüyorsunuz ya, nükleer tahrik merkezi gibi bilimle dolu bir yerde
+eski şeylere pek zaman kalmıyor. Küçük insanlarla
+konuşmak istiyordum.
+
+Meraklı parlak nesnenin
+durduğu ormanın merkezine yürüdüm. Cam kadar pürüzsüzdü ve kocaman bir puroya benziyordu.
+Altında bir çift üçgen yüzgeç ve geminin ortasında kısa kanatlar vardı. Elbette bir uzay gemisiydi ya da birinin
+minyatür bir kopyasıydı. Daha yakından baktım. Her şey neredeyse mucizevi bir şekilde tamamlanmış ve işleyebilir görünüyordu.
+
+Başımı hayretle salladım, sonra uzay gemisinden geri çekildim ve
+alanın etrafına baktım. Hepsinin yakınlarda saklandığını, beni endişeyle izlediğini biliyordum. Başımı onlara doğru kaldırdım.
+
+"Şimdi beni dinleyin, küçük insanlar!" diye seslendim. "Benim adım Roscommon Houlihan'lardan Houlihan. Ben Kral Niall'ın soyundan geliyorum - ya da en azından babam öyle derdi! Hadi dışarı çık ve zaman geçir!"
+
+Sonra bekledim ama cevap vermediler. Küçük insanlar her zaman
+utangaç olmuşlardı. Yine de bu kadar çok kelimeyle bir karara varmadan, aniden onlarla konuşmam gerektiğini
+bildim. Çirkin bir sorunu çözmek için vadiye gelmiştim ve bomboş bir duvarla karşı karşıyaydım. Sadece o kadar yalnızdım ki
+zihnim tıkanmıştı.
+
+Biliyordum ki, eğer eski dili bir kez daha duyabilir ve eski şeyler hakkında konuşabilirsem, sorunu tatmin edici bir sonuca kadar düşünebilirdim.
+
+Bu yüzden küçük uzay gemisine geri döndüm ve bu sefer yumruğumla ona
+güçlü bir darbe indirdim. "Şimdi beni dinleyin, küçük insanlar! Eğer kendinizi göstermez ve dışarı çıkıp benimle konuşmazsanız, bu uzay gemisini baştan kıça mahvederim!"
+
+* * * * *
+
+Sadece yaprakların hafifçe hışırdadığını duydum.
+
+"Anlıyor musun? Ortaya çıkman için sana üçe kadar süre veriyorum! Bir!"
+
+Açıklık ölümcül bir sessizlik içinde kaldı.
+
+"İki!"
+
+Bir yerlerde bir kıpırtı duyduğumu sandım, sanki çalılıklarda küçük, kırılgan bir dal
+kırılmış gibiydi.
+
+"_Üç!_"
+
+Ve bununla birlikte küçük insanlar aniden belirdi. Lider -öncekinden daha buruşuk ve eğilmiş görünüyordu-
+orada dururken bana yavaşça ve temkinle yaklaştı. Diğerleri güvenli bir mesafeden beni takip ettiler. Onları rahatlatmak için gülümsedim ve sonra dostça bir selamlama hareketi olarak kolumu salladım.
+
+"Günaydın," dedim.
+
+"Günaydın," dedi ustabaşı biraz temkinli bir şekilde. "Benim adım Keech."
+
+"Ve benimki de Houlihan, daha önce de söylediğim gibi. Şimdi size
+zarar verme niyetim olmadığına ikna oldunuz mu?"
+
+"Bay Houlihan," dedi Keech, kendi etrafında bir tür biberli onur ifadesi takınarak, "bu tür konularda asla tam olarak ikna olmam. Yüzyıllarca
+yaşadıktan sonra insan doğasının sapkınlığının fazlasıyla farkındayım."
+
+"Evet," dedim. "Eh, hemen göreceğiniz gibi, tek istediğim konuşmak." Konuşurken başımı salladım ve çimenlerin üzerine bacak bacak üstüne atarak oturdum.
+
+"Herhangi bir İrlandalı konuşmak ister, Bay Houlihan."
+
+"Ve çoğu zaman _tek_ istediği şey budur," dedim. "Şimdi yanıma otur ve
+sanki Ada'ya geri dönmüş bir yılanmışım gibi bakmayı bırak."
+
+Başını salladı ve ayakta kaldı. "Sözünü söyle, Bay Houlihan.
+Ve sonra da gidersen ve bizi işimizle baş başa bırakırsan memnun oluruz."
+
+"Hadi, şimdi işin," dedim ve uzay gemisine baktım. "Beni meraklandıran tam da bu."
+
+Diğerleri biraz yaklaşmışlardı ve bir daire şeklinde durmuşlardı,
+dikkatle bana bakıyorlardı. Pipomu çıkardım. "Neden," diye sordum, "bir grup küçük insan burada, Amerika'da - bu ıssız yerde - bir uzay gemisi inşa ediyor olabilir?"
+
+Keech ifadesiz bir şekilde baktı ve şöyle dedi, "Bunun bir uzay gemisi olduğunu nasıl tahmin ettiğini merak ediyordum. Bizi görebildiğini
+söylediğinde yeterince şaşırmıştım ama çok da fazla değil. Daha önce küçük insanları görebilen inananlarla karşılaştım. Bu arada bir oluyor ama bir asır önce olduğu kadar sık ​​değil. Ama bir uzay gemisini ilk bakışta tanımak! İtiraf etmeliyim ki bu beni _şaşırtıyor_."
+
+"Ve bir uzay gemisi gördüğümde neden tanıyayım ki?" dedim. "Ben bir bilim doktoruyum."
+
+"Şimdi bir bilim doktoruyum," dedi Keech.
+
+"Amerikan hükümeti tarafından nükleer tahrik merkezindeki ilk ay roketi üzerinde çalışmak üzere davet edildim. Bu bir sır olmadığı için sana tavsiyede bulunabilirim."
+
+"Bir bilim adamı, öyle mi," dedi Keech. "Şimdi, bu çok ilginç."
+
+"Bunun için özür dilemeyeceğim," dedim.
+
+"Ah, özür dilemeye gerek yok," dedi Keech. "Aslında şairleri bilim insanlarına tercih ediyoruz. Ama az önce aklıma geldi, Bay Houlihan, bir bilim insanı olarak bize yardımcı olabilirsiniz."
+
+"Nasıl?" diye sordum.
+
+"En baştan başlamayı deneyebilirim," diye cevapladı.
+
+"Öyle yapabilirsiniz," dedim. "Genellikle bir erkek bunu yapar."
+
+Keech kendi piposunu çıkardı -bir kil dudeen- ve umutlu görünüyordu. Kesemden ona bir tutam tütün verdim. "Şimdi," dedi, "her şeyden önce, bizi burada Amerika'da bulduğuna şaşırmışsındır."
+
+"Ben de zaman zaman kendimi burada bulduğuma şaşırıyorum," dedim. "Ama devam et."
+
+"Uzay gemisi yapmayı öğrenmek için," dedi Keech, "buraya gelmek zorundaydık."
+
+"Bir uzay gemisi," dedim, farkında olmadan eski bir tavır takınarak.
+
+"Leprechaunlar gerçekten mekanik eğilimli değiller," dedi Keech. "Herkesin bildiği gibi, onların en büyük tutkuları müzik, kahkaha ve yaramazlıktır."
+
+"Ben de dahil," diye kabul ettim. "O zaman neden bir uzay gemisine ihtiyacın var?"
+
+"Eski bir deyim kullanmama izin verirseniz, son zamanlarda bu dünyada uzun süre kalmayacağımızı hissediyoruz. Ya da şöyle söyleyeyim. Dünyanın kendisi için uzun süre kalmadığını hissediyoruz."
+
+Yanağımı kaşıdım. "Bir adam böyle bir ifadeyi nasıl çürütebilir?"
+
+"Çok basit. Siz ölümlülerin geliştirdiği tüm süper silahlarla, kendinizi yok etme sürecinde hepimizi havaya uçurma olasılığınız var."
+
+"Böyle bir olasılık _var_," dedim.
+
+"Peki, o zaman, dediğim gibi," dedi Keech, "küçük insanlar
+gezegeni bir uzay gemisinde terk etmeye karar verdiler. Biz de onu burada ve şimdi inşa ediyoruz.
+Sizi gözetledik ve nasıl yapılacağını öğrendik. Eh--neredeyse nasıl yapılacağını. Gücü nasıl kontrol edeceğimizi henüz öğrenmedik--"
+
+"Dur bakalım," dedim. "Gezegeni terk ediyorsun, diyorsun. Peki
+nereye
+gideceksin?"
+
+"Bunun üzerinde çalışan başka bir komite var. Bu bizim sorunumuz değil.
+Orion takımyıldızını önermeye meyilliydim, kulağa hoş bir İrlanda ismiymiş gibi geliyor ama
+yuhalandım. Öyle ya da böyle, benim
+işim nükleer merkezinize girmek, gemiyi nasıl yapacağımı öğrenmek ve
+inşaatına devam etmekti. Doğal olarak, sizin yüksekten uçan biliminizin tamamını anlamadık ama bazılarımız şeylerin
+kopyalarını çıkarmada oldukça akıllı."
+
+"Yani bunca zamandır merkezde bizi gözetliyor muydun? Biliyor musun, sık sık izlendiğimizi hissediyorduk ama bunun
+Ruslar tarafından olduğunu düşünüyorduk. Yine de kafamı karıştıran bir şey var. Eğer
+sürekli
+bizim etrafımızdaysan--ve ben hala küçük insanları
+görebiliyorsam--neden seni daha önce hiç görmedim?"
+
+"Belki de hiç seninle karşılaşmamışızdır. Belki de bizi sadece
+bizi düşündüğünde ve tabii ki gerçekten bize inandığında görebiliyorsundur. Bilmiyorum--bu zihinle ilgili bir şey ve şu anda önemli değil. Önemli olan
+ilk gemimizi düzgün bir şekilde çalışır hale getirmemiz ve sonra
+yolumuza devam edeceğiz."
+
+"Gitmeye kararlısın."
+
+"Gerçekten öyleyiz, Bay Houlihan. Şimdi--işe geçelim. Tam bu son birkaç dakikada aklımdan belli bir konu geçti. Bu yüzden seninle
+bu kadar zaman harcıyorum, efendim. Bilim insanı olduğunuzu söylüyorsunuz."
+
+"Bir nükleer mühendis."
+
+"Peki, o zaman, burada olduğumuzu bildiğinize göre bize yardım edebilirsiniz."
+
+"Size yardım mı?"
+
+"Güç kontrolü, Bay Houlihan. Anladığım kadarıyla, arkadaki küçük deliklerden her an ne kadar itme gücü verildiğini tam olarak bilmek gerekiyor. Ve kağıt üzerinde yeterince basit görünüyor - bir şeyin karesi. İhtiyaç duyduğumda rakamları bir deftere not ediyorum. Ama yapmaya başladığınızda kağıtta olduğu gibi çıkmıyor."
+
+"Bir deşarj katsayısının gerekliliğinden bahsediyorsunuz."
+
+"Adına ne denirse densin," dedi Keech omuz silkerek. "Eksik olduğumuz tek şey bu. Sanırım sonunda siz insanlar buna sıra gelecek. Ama bu arada, gemimizi hareket ettireceksek, buna hemen ihtiyacımız var."
+
+"Ve bunun için sana yardım etmemi mi istiyorsun?"
+
+"Aklımdan geçen tam olarak buydu."
+
+Başımı salladım, ciddi bir ifadeyle baktım ve çenemi bir an hafifçe ovuşturdum.
+"Hadi, Keech," dedim sonunda, "sana neden yardım edeyim?"
+
+"Ha!" dedi Keech sırıtarak ama mizahla değil, "insanların açgözlülüğü!
+Biliyordum! Pekala, Bay Houlihan, sana yeterince sebep vereceğim. Altın
+çömleği, Bay Houlihan!"
+
+"Gökkuşağının sonundaki mi?"
+
+"Gökkuşağının sonunda değil. Bu bir büyükannenin hikayesi. Aslında
+bir
+çömleğin içinde de değil. Ama altın var, tamam, seni hayatının geri kalanında
+zengin etmeye yetecek kadar. Ve sana bir
+teklif yapacağım."
+
+"Devam et."
+
+"Gideceğimiz yerde altına ihtiyacımız olmayacak. Eğer bize gemimizi nasıl çalıştıracağımızı gösterirsen senindir."
+
+"Eh, şimdi, bu oldukça iyi bir teklif," dedim. Keech, ben bir süre oturup düşünürken sessiz kalma nezaketini gösterdi. Pipom sönmüştü ve tekrar yaktım. Sonunda, "Geminin tahrik sistemine bir bakalım ve ne görebileceğimize bakalım," dedim.
+
+"Öneriyi kabul ediyor musun?"
+
+"Bir bakalım," dedim ve hepsi bu kadardı.
+
+Eh, bir baktık ve sonra birkaç kez baktık ve sabah olmadan
+uzay gemisinin yarısını ayırmıştık ve tüm proje hakkında derin bir tartışmaya girmiştik.
+
+Çok büyüleyici bir oturumdu. Genellikle merkezde gerçek bir çalışan
+model olmasını dilemiştim ama bütçeye bunun için hiçbir ödenek konulmamıştı. Keech bana kağıt ve kalem getirdi ve mühendislerin yapmaya meyilli olduğu gibi
+diyagramların yardımıyla konuştum. Kalemler küçük olmasına
+rağmen onları başparmağımın arasında tutmak zorundaydım ve işaret parmağım, bir
+iğne gibi, birçok mantıklı gözlem ve hatta birkaç
+yenilik
+yapabildim.
+
+Ertesi gün tekrar geri döndüm ve sonraki iki
+hafta boyunca her gün. Birkaç kez yağmur yağdı, ama Keech ve halkı dallardan ve yapraklardan bir gölgelik
+yaptılar ve ben yeterince rahattım. Arada sırada
+kasabadan veya merkezden birileri gelip beni izlemek için
+dururdu. Ama tabii ki cinleri veya cinlerin
+inançlı olmadıkları için yaptıkları hiçbir şeyi görmezlerdi.
+
+Çalışmayı bırakır, günün vaktini geçirir ve sonra, ince bir şekilde,
+davetsiz misafiri yoluna gönderirdim. Keech ve küçük insanlar sadece
+yanlarında durur ve bu arada sırıtırlardı.
+
+On altı günün sonunda tüm sorun neredeyse çözülmüştü.
+Nedenini anlamak zor değil. Çalışma modeli ve
+küçük insanların hızlı gözleri ve becerikli parmaklarıyla her türlü küçük eksikliği
+görebilmesi büyük bir yardımdı. Ve her gün eski dili duyuyor ve eski şeylerden bahsediyordum ve gerçekten bu,
+zihnimdeki karmaşayı
+ortadan kaldırmak için çok işe yaradı. Artık o kadar yalnız değildim ki düzgün düşünemiyordum.
+
+On altıncı gün bir kağıt parçasını minik matematiksel sembollerle kapladım ve Keech'e uzattım. "İşte denkleminiz," dedim. "Bu, herhangi bir anda, herhangi bir
+koşulda, yerçekiminin içinde veya dışında ve tüm sürtünme ve yanma koşullarında itiş gücünüzü bilmenizi sağlayacak."
+
+"Teşekkür ederim, Bay Houlihan," dedi Keech. Tüm halkı, bir ayine katılır gibi gevşek bir
+çember halinde toplanmıştı. Hepsi bana sessizce bakıyorlardı.
+
+"Bay Houlihan," dedi Keech, "cinler tarafından unutulmayacaksınız. Başka bir dünyada tekrar karşılaşırsak, dostluğumuzun her zaman istekli ve hazır olduğunu göreceksiniz."
+
+"Teşekkür ederim," dedim.
+
+"Ve şimdi, Bay Houlihan," dedi Keech, "bu gece odalarınıza bir miktar altının teslim edilmesini sağlayacağım ve böylece pazarlığın benim payıma düşen kısmını saklayacağım."
+
+"Altına ihtiyacım olmayacak," dedim.
+
+Keech'in kaşları yukarı kalktı. "Şimdi bu ne?"
+
+"İhtiyacım olmayacak," diye tekrarladım. "Bunu böyle bir hizmet için almanın doğru olmayacağını düşünüyorum."
+
+"Eh," dedi Keech şaşkınlıkla ve biraz da hayranlıkla, "eh, şimdi, musha
+Tanrı yardımcımız olsun! Bir ölümlüden böyle bir konuşma ilk kez duyuyorum." Halkına döndü. "Şimdi üç kez tezahürat edeceğiz, duyuyor musunuz, Bay Houlihan için - yaşadığı sürece küçük insanların dostu!"
+
+Ve tezahürat ettiler. Ve bazılarının gözlerinin köşelerine küçük gözyaşları
+süründü.
+
+Hepimiz el sıkıştık ve ben ayrıldım.
+
+* * * * *
+
+Parkta yürüdüm ve nükleer tahrik merkezine geri döndüm.
+Yine serin, yeşil bir sabahtı,
+yaprakların sadece hafif sesler çıkarması ve
+esintiler geliyordu. Tıpkı Roscommon'da bildiğim bir orman gibi kokuyordu.
+
+Ve pipomu yaktım ve yavaşça içtim ve küçük insanların
+en iyisini nasıl elde ettiğime kendi kendime güldüm. Elbette bunu başarabilen her ölümlü olamazdı. Onlara yanlış denklemi vermiştim,
+elbette. Uzay gemilerini şimdi asla çalıştıramayacaklardı ve daha sonra, doğru bilgiyi gözetlemeye çalışırlarsa, onları görebilme avantajına sahip olduğum için bunu önlemek için özel önlemler alacaktım.
+
+Bizim roket gemimize gelince, bir sonraki St. Patrick Günü'ne kadar yola çıkmış olacak. Çünkü ben gerçekten de gerçek deşarj katsayısını belirlemiştim, bunu Keech ve onun çalışma modeliyle ormanda geçirdiğim o
+seanslar olmadan asla bu kadar çabuk yapamazdım.
+
+Sanırım şimdi bilimsel literatüre Houlihan'ın Denklemi olarak geçecekti ve bu benim için yeterince onur ve şandı.
+Keech'in altın dolu kazanı olmadan da yapabilirdim, gerçi değişiklik olsun diye gerçekten zengin olmak
+hoş olurdu.
+
+Üstelik onu altınından da mahrum etmenin bir anlamı yoktu, çünkü
+cinler bu tür konularda çok akıllıdır ve o da altını yeterince çabuk geri alırdı - ya da bir şekilde onu bir yüke dönüştürürdü.
+
+Gerçekten de, hem benim hem de insanlığın yararına büyük bir iş yapmıştım ve bir insan birincisini yapıp ikincisini de talihli bir yan ürün olarak eklediğinde bu çok mutlu bir kazadır. Çünkü eğer küçük insanlara bir uzay gemisi yapmayı gösterseydim
+dünyamızı terk ederlerdi. Ve bu dünya, var olduğu sürece--bu durumda ne olurdu? Şimdi size soruyorum, ara sıra inanmamız için burada olan küçük insanlar olmadan kendimizi Kingdom Come'a ​​uçurmamız _daha_ olası olmaz mıydı?
+
+Yazarın Notu:
+
+Bu e-metin _Fantastic Universe_'den Eylül 1955'te üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının
+yenilendiğine dair herhangi bir kanıt ortaya çıkarmamıştır. Küçük yazım ve tipografik hatalar not alınmadan düzeltilmiştir.
+
+Walt Sheldon'ın Houlihan Denklemi'nin Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HOULIHAN'S EQUATION ***
+
+***** This file should be named 29168.txt or 29168.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/1/6/29168/
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
