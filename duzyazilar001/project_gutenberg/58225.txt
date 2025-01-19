@@ -1,0 +1,654 @@
+*** START OF AKTAHEADER ***
+Başlık: Primes to One Trillion (Asal Sayılardan Bir Trilyona)
+Yayın Tarihi: November 3, 2018  [eBook #58225]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/58225
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg eBook, Primes to One Trillion, Edited by Don Kostuch
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Primes to One Trillion
+
+
+Editor: Don Kostuch
+
+Release Date: November 3, 2018  [eBook #58225]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK PRIMES TO ONE TRILLION***
+
+*** START OF TURKISH PART ***
+Bir Trilyona Kadar Asal Sayılar
+
+Gutenberg metni "İlk 100.000 Asal Sayı", E-Kitap #65, 
+1.318.699'a kadar asal sayıları listeler. Biraz daha iddialı olan bu 
+versiyon, bir trilyona kadar (1.000.000.000.000 veya 
+1E12) asal sayıları listeler.
+
+Giriş
+
+Goldbach Varsayımı'nı duyduktan sonra asal sayılarla ilgilenmeye başladım,
+
+"2'den büyük her çift tam sayı, iki asal sayının toplamı olarak ifade edilebilir".
+
+Bunu doğrulamak için bir asal sayı kaynağı gerekir. Kısa listeler (veya bunları oluşturmak için 
+programlar) yaygın olarak mevcuttur. Gerçekten uzun 
+listeler, primos.mat.br hariç, nadirdir.
+
+Bu listeleri daha erişilebilir hale getirmek için, bunları sıradan metin editörleri ve 
+görüntüleyiciler tarafından kolayca yönetilebilecek bir boyuta yeniden biçimlendirdim - yaklaşık 55 MB. Dosya adları, dosyanın içerdiği asal sayı aralığına karşılık gelir:
+00000000000_to_00100000000.txt Sıfırdan 100 Milyona
+00100000000_to_00200000000.txt 100 Milyondan 200 Milyona
+vb.
+
+Baştaki sıfır rakamları, dosya adlarının içeriklerine göre sıralanmasına neden olur. Daha uzun listeler DOS copy komutuyla oluşturulabilir. Gerekli asal sayı txt dosyalarını geçici bir 
+dizine taşıyın ve şunu kullanın:
+
+copy *.txt longList.txt
+
+Asal Metin Dosyaları
+
+Bu, sıkıştırılmamış yerel txt biçiminde yaklaşık 486 GB disk alanı kaplayan 10.000 dosyadan oluşan bir koleksiyondur. Bitişik asal sayıların yaklaşık %90'ı aynı öndeki rakamlara sahip olduğundan, sıkıştırılmış 
+(zip) sürümleri toplam 61 GB'tır. Her zip dosyası 100 txt dosyası içerir.
+
+Çok sayıda dosyayı aynı anda kopyalamak veya taşımak için Windows Gezgini'ni kullanmayın. Büyük kopyalar için DOS copy veya xcopy kullanın. Çok sayıda dosyayı takip etmek için 
+Beyond Compare'i (Scooter Yazılımı) kullanışlı buluyorum.
+
+0000.zip 000G ila 010G (0 ila 1E10)
+0010.zip 010G ila 020G
+0020.zip 020G ila 030G
+0030.zip 030G ila 040G
+0040.zip 040G ila 050G
+0050.zip 050G ila 060G
+0060.zip 060G ila 070G
+0070.zip 070G ila 080G
+0080.zip 080G ila 090G
+0090.zip 090G ila 100G
+
+0100.zip 100G ila 110G
+0110.zip 110G 120G'ye kadar
+0120.zip 120G ila 130G
+0130.zip 130G ila 140G
+0140.zip 140G ila 150G
+0150.zip 150G ila 160G
+0160.zip 160G ila 170G
+0170.zip 170G ila 180G
+0180.zip 180G ila 190G
+0190.zip 190G ila 100G
+
+0200.zip 200G ila 210G
+0210.zip 210G ila 220G
+0220.zip 220G ila 230G
+0230.zip 230G ila 240G
+0240.zip 240G ila 250G
+0250.zip 250G ila 260G
+0260.zip 260G ila 270G
+0270.zip 270G ila 280G
+0280.zip 280G ila 290G
+0290.zip 290G ila 200G
+
+0300.zip 300G ila 310G
+0310.zip 310G ila 320G
+0320.zip 320G ila 330G
+0330.zip 330G ila 340G
+0340.zip 340G ila 350G
+0350.zip 350G ila 360G
+0360.zip 360G ila 370G
+0370.zip 370G ila 380G
+0380.zip 380G ila 390G
+0390.zip 390G ila 300G
+
+0400.zip 400G ila 410G
+0410.zip 410G ila 420G
+0420.zip 420G ila 430G
+0430.zip 430G ila 440G
+0440.zip 440G ila 450G
+0450.zip 450G ila 460G
+0460.zip 460G ila 470G
+0470.zip 470G ila 480G
+0480.zip 480G ila 490G
+0490.zip 490G ila 400G
+
+0500.zip 500G ila 510G
+0510.zip 510G ila 520G
+0520.zip 520G ila 530G
+0530.zip 530G ila 540G
+0540.zip 540G ila 550G
+0550.zip 550G ila 560G
+0560.zip 560G ila 570G
+0570.zip 570G ila 580G
+0580.zip 580G ila 590G
+0590.zip 590G ila 500G
+
+0600.zip 600G ila 610G
+0610.zip 610G ila 620G
+0620.zip 620G ila 630G
+0630.zip 630G ila 640G
+0640.zip 640G ila 650G
+0650.zip 650G ila 660G
+0660.zip 660G ila 670G
+0670.zip 670G ila 680G
+0680.zip 680G ila 690G
+0690.zip 690G ila 600G
+
+0700.zip 700G ila 710G
+0710.zip 710G ila 720G
+0720.zip 720G ila 730G
+0730.zip 730G ila 740G
+0740.zip 740G ila 750G
+0750.zip 750G ila 760G
+0760.zip 760G ila 770G
+0770.zip 770G ila 780G
+0780.zip 780G ila 790G
+0790.zip 790G ila 700G
+
+0800.zip 800G ila 810G
+0810.zip 810G ila 820G
+0820.zip 820G ila 830G
+0830. zip 830G ila 840G
+0840.zip 840G ila 850G
+0850.zip 850G ila 860G
+0860.zip 860G ila 870G
+0870.zip 870G ila 880G
+0880.zip 880G ila 890G
+0890.zip 890G ila 800G
+
+0900.zip 900G ila 910G
+0910.zip 910G ila 920G
+0920.zip 920G ila 930G
+0930.zip 930G ila 940G
+0940.zip 940G ila 950G
+0950.zip 950G ila 960G
+0960.zip 960G ila 970G
+0970.zip 970G ila 980G
+0980.zip 980G ila 990G
+0990.zip 990G ila 1000G
+
+Ek asal sayılar dosyaları buraya eklenecektir.
+
+PrimeC Dosya Biçimi ve
+Çeşitli C++ Programları
+
+Asal sayılarla çalışırken, sıkıştırılmış (ziplenmiş) txt gösteriminin yaklaşık olarak aynı boyutunda olan ve hem ardışık hem de doğrudan hızlı erişimi destekleyen bir dosya veya dizi gösterimi olan primec biçimini geliştirdim. Dosyadaki (veya bellek dizisindeki) herhangi bir sayının asal sayı özelliğinin tam konumu birkaç talimatla ve herhangi bir arama yapılmadan hesaplanır.
+
+Bu asal sayı listelerini yeniden biçimlendirmek ve Goldbach Varsayımını test etmek için kullanılan C++ programlarını incelemek ve denemek istiyorsanız, "programs.zip" paketini indirin. Bu paket, Primec dosya biçimi de dahil olmak üzere bu dosyaların içeriği ve kullanımının açıklaması olan Asal Sayıların Üretilmesi ve Analizi'ni içerir.
+
+Primec Biçimi
+
+Primec biçimi, 5'ten büyük tüm asal sayıların 1, 3, 7 veya 9 ondalık basamaklarıyla 
+son bulduğu gerçeğinden yararlanır. Bu nedenle, 20 ardışık sayının asallığı 
+bir 8 bitlik baytta belirtilebilir. Dosya, aşağıdakilerin tam ikili gösterimiyle başlar:
+
+Dizinin başlangıcı
+Dizinin sonu
+Tüm veri baytlarının bir kontrol toplamı
+(Bu uygulama için üçü de 8 bayttır).
+
+İlk ve son değerler yirminin katıdır, bu nedenle asla asal değildir. İlk dosyanın üst sınırı ve ikinci dosyanın alt sınırı için aynı sayıyı kullanan ardışık dosyalar arasında asal sayıların çakışması yoktur.
+
+Dosyanın aralığındaki herhangi bir sayının asallığı şu şekilde belirlenir:
+
+Sayı 0, 2, 4, 5, 6 veya 8 ile bitiyorsa asal değildir.
+
+Aksi takdirde, belirten baytın konumu ofsettir:
+
+( değer - başlangıç ​​) / 20
+
+Bu bayt içinde, değerin asallığı aşağıdaki tabloda gösterildiği gibi bit tarafından belirlenir.
+
+Tek sıkıcı programlama görevleri şunlardı:
+
+2 ve 5'i içeren ve 1 ve 9'u hariç tutan 20'den küçük değerler için özel durum kodu. Tüm daha büyük değerler aynı basit 
+deseni izler.
+
+Karşılık gelen yineleyiciler için artırma ve azaltma operatörleri, bir sonraki asal sayıyı belirterek bir sonraki gerçek bit için ileri (veya geri) arama yapmalıdır.
+
+Bu tablo, 20 ila 60 içeren bir dosyanın düzenini ve içeriğini gösterir. İlk 24 bayt (başlangıç ​​değeri, bitiş değeri, kontrol toplamı) 
+gösterilmez.
+
+Bayt 0-------------------------------| 1-----------------------------
+Bit 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7
+Değer 21 23 27 29 31 33 37 39 41 43 47 49 51 53 57 59
+Asal F T F T T F T T T F F T T F T
+Hex 5A E5
+
+Asal sayılar büyüdükçe, asal sayıların yoğunluğu 
+1/ln(n) olarak küçülür. Böylece gerçek bitlerin yoğunluğu da azalır. Asal sayıları temsil eden basamak sayısı (ikili veya ondalık) 
+ln(n) olarak büyür. Böylece, primec olarak temsil edilen bir asal sayı dizisi, ASCI metnindeki veya ikilideki karşılık gelen diziyle her zaman 
+rekabetçidir ve ayrıca değere göre hızlı doğrudan erişim sağlar:
+
+bool isPrime(value).
+
+En büyük 64 bit asal sayı dizisinin sonuçları 
+(18446744073707000000 ila 18446744073709551558) şöyledir:
+
+Biçim Boyutu
+(KB)
+64 Bit İkili 445
+Txt 1150
+Zip Txt 114
+PrimeC 125
+
+Programlar
+
+"program.zip" paketindeki programlar arasında şunlar yer alır:
+
+BuildTxtPrime Asal sayı dosyası oluştur, txt biçimi
+TxtToPrimeC Txt'yi primec biçimine dönüştür. Goldbach Sıfırdan 1E12'ye kadar Goldbach varsayımını doğrulayın
+
+15'ten fazla sınıf ve yardımcı program arasında şunlar yer alır:
+
+PrimeGenerator Belirli bir aralıkta asal sayılar oluşturun.
+
+Directory Bir dosya dizinindeki dosyaların adlarını içeren dizelerden oluşan bir vektör.
+
+Progress Program etkinliğinin periyodik raporlamasını
+yönetmek için bir sınıf.
+
+PrimeCVector Primec verilerine erişmek için algoritmalar sağlayan soyut sınıf.
+
+PrimeCFileWriter Bir primec dosyası oluşturun.
+
+PrimeCFileReader Bir primec dosyasını okuyun.
+
+Umarım bunları yararlı bulursunuz.
+
+C++ programlama veya asal sayı dosyalarının içeriğiyle ilgili herhangi bir sorunuz, gözleminiz veya hata raporunuz varsa, bir e-posta gönderin (''at''i '@'' olarak değiştirdikten sonra).
+
+primes1e12 at earthlink.net
+
+Bu projeye bir programlama meydan okuması olarak başladım. Ben bir matematikçi değilim. Asal sayı teorisine dair derin bir anlayışım yok.
+Lütfen mesajları programlama sorunlarıyla sınırlayın. İşte bazı 
+referanslar:
+
+Asal Sayılar: http://www.primos.mat.br/indexen.html
+Vikipedi: Asal Sayılar Listesi (çok sayıda referansla): https://en.wikipedia.org/wiki/List_of_prime_numbers
+Matematik Forumu: http://mathforum.org/dr.math/faq/faq.prime.num.html
+Asal Sayfalar https://primes.utm.edu
+
+Program dosyaları da yayınlanmıştır http://home.earthlink.net/~primes1E12 adresinde.
+Düzeltmeler ve eklemeler meydana geldikçe orada yayınlanacaktır.
+
+Don Kostuch
+Ekim, 2018.
+
+.
+*** END OF TURKISH PART ***
+***END OF THE PROJECT GUTENBERG EBOOK PRIMES TO ONE TRILLION***
+
+
+******* This file should be named 58225.txt or 58225.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/8/2/2/58225
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

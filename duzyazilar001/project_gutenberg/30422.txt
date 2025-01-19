@@ -1,0 +1,1353 @@
+*** START OF AKTAHEADER ***
+Başlık: The Internet and Languages (İnternet ve Diller)
+Yazar: Marie Lebert
+Yayın Tarihi: November 8, 2009 [EBook #30422]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/30422
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Internet and Languages, by Marie Lebert
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: The Internet and Languages
+       [around the year 2000]
+
+Author: Marie Lebert
+
+Release Date: November 8, 2009 [EBook #30422]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE INTERNET AND LANGUAGES ***
+
+*** START OF TURKISH PART ***
+Al Haines tarafından üretilmiştir
+
+İNTERNET VE DİLLER
+
+[2000 yılı civarı]
+
+MARIE LEBERT
+
+NEF, Toronto Üniversitesi, 2009
+
+Telif hakkı (C) 2009 Marie Lebert. Tüm hakları saklıdır.
+
+TABLO
+
+Giriş
+"Dil ulusları" çevrimiçi
+"Dilsel demokrasiye" doğru
+Kodlama: ASCII'den Unicode'a
+İlk çok dilli projeler
+Çevrimiçi dil sözlükleri
+Çevrimiçi dil öğrenme
+Web'de azınlık dilleri
+Çok dilli ansiklopediler
+Yerelleştirme ve uluslararasılaştırma
+Makine çevirisi
+Kronoloji
+Web siteleri
+
+GİRİŞ
+
+İnternet'in zaman, mesafe ve sınır sınırlarını aştığı doğrudur, peki ya diller? İngilizce konuşmayan
+internet kullanıcıları Temmuz 2000'de %50'ye ulaştı.
+
+# "Dil Milletleri"
+
+"İnternetin ulusal sınırları olmadığından, kullanıcıların organizasyonu
+ortamın kendisi tarafından yönlendirilen diğer kriterlerle sınırlıdır. Çok dillilik açısından, örneğin, 'Dil Milletleri' dediğim sanal topluluklarınız var... internetteki tüm bu insanlar
+nerede olurlarsa olsunlar, belirli bir dilin anadilleri olduğu kişilerdir. Dolayısıyla, İspanyolca konuşan ulus yalnızca İspanyol ve Latin Amerikalı kullanıcıları değil, aynı zamanda ABD'deki milyonlarca Hispanik kullanıcıyı ve İspanyolca konuşan Fas gibi garip yerleri de içerir." (Randy Hobler,
+çeviri ürünleri ve hizmetleri için internet pazarlama danışmanı,
+Eylül 1998)
+
+# "Dilsel Demokrasi"
+
+"1950'lerin başında UNESCO raporuna göre 'ana dilde eğitim' dünyadaki her çocuk için bir insan hakkı olarak kabul edilirken, 'ana dilde gezinme' Bilgi Çağı'nın eşdeğeri olabilir. İnternet gerçekten de tanıtıldığı gibi Küresel Ağ olacaksa, dil geçmişine bakılmaksızın tüm kullanıcılar buna erişebilmelidir. İnterneti, tarihsel bir kaza, pratik zorunluluk veya siyasi ayrıcalık nedeniyle İngilizce bilenlerin tekelinde tutmak, bilmeyenlere karşı haksızlıktır." (Brian King,
+WorldWide Language Institute müdürü, Eylül 1998)
+
+# Dünya için bir ortam
+
+"Çeşitli dillerde iletişim kurabilmek çok önemlidir. Hatta bunun zorunlu olduğunu bile söyleyebilirim, çünkü
+internet üzerinde verilen bilgiler tüm dünya içindir, öyleyse neden bu bilgileri kendi dilimizde veya istediğimiz dilde almayalım? Dünya çapında bilgi, ancak diller için geniş bir seçenek yok, bu oldukça bir
+çelişki olurdu, değil mi?" (Maria Victoria Marinetti, İspanyolca öğretmeni ve çevirmen, Ağustos 1999)
+
+# İyi yazılım
+
+"Yazılım insanların web üzerinde gerçek zamanlı olarak farklı dillerde sohbet etmesi veya konuşması için yeterince iyi olduğunda, o zaman önümüzde bambaşka bir dünya belirecek. Bilim insanları, siyasi aktivistler, işletmeler ve daha birçok grup, aracılar veya çevirmenler olmadan hemen iletişim kurabilecek." (Tim McKenna, yazar ve filozof, Ekim 2000)
+
+***
+
+Aksi belirtilmediği sürece, alıntılar NEF
+röportajlarından alıntılardır. Bu kitapta alıntı yapılan ve yıllar boyunca çok dillilik hakkında soruları nazikçe yanıtlayan herkese çok teşekkürler.
+Röportajların çoğu çevrimiçi olarak mevcuttur <http://www.etudes-francaises.net/entretiens/>. Bu kitap ayrıca Fransızca olarak da mevcuttur,
+farklı bir metinle. Her iki versiyon da çevrimiçi olarak mevcuttur
+<http://www.etudes-francaises.net/entretiens/multi.htm>. Ana dili Fransızca olan yazar, İngilizcedeki kalan tüm hatalardan sorumludur.
+
+Marie Lebert, kitaplar, diğer medya ve diller için teknoloji konusunda uzmanlaşmış bir araştırmacı ve editördür. Kitapları NEF (Net
+des etudes francaises / Net of French Studies), Toronto Üniversitesi, Kanada tarafından yayınlanmakta ve çevrimiçi olarak <http://www.etudes-
+francaises.net> adresinden ücretsiz olarak temin edilebilmektedir. "DİL MİLLETLERİ" ÇEVRİMİÇİ
+
+= [Alıntı]
+
+Dil çeviri yazılımı ve hizmetleri konusunda uzmanlaşmış bir şirket olan Globalink'te internet pazarlaması danışmanı olan Randy Hobler, Eylül 1998'de şunları yazdı: "İnternetin ulusal sınırları olmadığından, kullanıcıların organizasyonu, ortamın kendisi tarafından yönlendirilen
+başka kriterlerle sınırlıdır. Çok dillilik açısından, örneğin 'Dil Milletleri' dediğim sanal topluluklar vardır...
+internette nerede olurlarsa olsunlar, belirli bir dilin anadilleri olduğu tüm bu insanlar. Dolayısıyla, İspanyolca konuşan ulus yalnızca İspanyol ve Latin Amerikalı kullanıcıları değil, aynı zamanda ABD'deki milyonlarca İspanyol kullanıcıyı ve İspanyolca konuşulan Fas gibi garip yerleri de içerir."
+
+= [Metin]
+
+İlk başlarda, internet neredeyse %100 İngilizceydi. 1969'da Pentagon tarafından bir ağ kuruldu ve Vinton Cerf ve Bob Kahn'ın TCP/IP'yi (iletim kontrol protokolü/internet protokolü) icat etmesinden sonra 1974'ten itibaren ABD hükümet kurumlarına ve üniversitelere yayıldı. 1989-90'da Tim Berners-Lee tarafından İsviçre Cenevre'deki Avrupa Parçacık Fiziği Laboratuvarı'nda (CERN) World Wide Web'in oluşturulmasından ve Kasım 1993'ten itibaren Netscape'in atası olan ilk tarayıcı Mosaic'in dağıtılmasından sonra internet gerçekten de ilk olarak ABD ve Kanada'da, ardından da dünya çapında yaygınlaştı. 
+İnternet neden önce Kuzey Amerika'da yayıldı? ABD ve Kanada bilgisayar bilimi ve iletişim teknolojisinde öncüydü ve o zamanlar çoğunlukla bir telefon hattı üzerinden internete bağlanmak çoğu ülkeden çok daha ucuzdu. Avrupa'da, hevesli internet
+kullanıcılarının, harcamalarını azaltmak için, dakika başına telefon ücretlerinin daha ucuz olduğu
+gece saatlerinde web'de gezinmeleri gerekiyordu. 1998'de, bazı Fransız,
+İtalyan ve Alman kullanıcılar yüksek ücretlerden o kadar bıkmışlardı ki, internet sağlayıcılarının ve telefon şirketlerinin kendileri için özel bir aylık ücret belirlemesi için haftada bir gün interneti boykot etme hareketi başlattılar. Bu işe yaradı ve sağlayıcılar aylık "internet
+ücretleri" sunmaya başladı.
+
+1990'larda, İngilizce'nin yüzdesi neredeyse %100'den %80'e düştü. Dünyanın dört bir yanından insanlar internete erişmeye ve kendi dillerinde daha fazla web sayfası yayınlamaya başladı.
+
+Web'de dil dağılımıyla ilgili ilk büyük çalışma, dil çeviri hizmetleri konusunda uzmanlaşmış bir şirket olan Alis Technologies ve İnternet
+Topluluğu'nun ortak girişimi olan Babel tarafından yürütüldü. Sonuçlar Haziran 1997'de "Web Dilleri Hit Geçidi" adlı bir web sayfasında yayınlandı. Ana diller %82,3 ile İngilizce, %4,0 ile Almanca, %1,6 ile Japonca, %1,5 ile Fransızca, %1,1 ile İspanyolca, %1,1 ile İsveççe ve %1,0 ile İtalyancaydı.
+
+21 Temmuz 1998'de ZDNN'de (ZDNetwork News) yayınlanan "Web Dil Çevirisini Benimsiyor" adlı makalede Martha L. Stone şöyle açıklıyor: "Bu yıl, siber dünya gerçek anlamda bir 'World Wide Web' haline geldikçe, İngilizce olmayan yeni web sitelerinin sayısının İngilizce sitelerin sayısından daha hızlı artması bekleniyor."
+
+Uluslararası bir pazarlama danışmanlığı olan Euro-Marketing Associates'in bir kolu olan Global Reach'e göre, Temmuz 1998'de 56 milyon İngilizce konuşmayan kullanıcı vardı ve bunların %22,4'ü İspanyolca, %12,3'ü Japonca, %14'ü Almanca ve %10'u Fransızca konuşuyordu. Ancak tüm web sayfalarının %80'i hala İngilizce iken, dünya nüfusunun yalnızca %6'sı ana dili olarak İngilizce konuşurken, %16'sı ana dili olarak İspanyolca konuşuyordu. Avrupa'nın yarım milyarlık nüfusunun %15'i ana dili olarak İngilizce konuşuyordu, %28'i hiç İngilizce konuşmuyordu ve %32'si web'i İngilizce kullanıyordu.
+
+Jean-Pierre Cloutier, internet haberlerinin haftalık Fransızca çevrimiçi raporu olan "Chroniques de Cyberie"nin editörüydü. Ağustos 1999'da şöyle yazmıştı: "Bu yaz bir dönüm noktasını geçtik. Artık internet kullanıcılarının
+yarısından fazlası Amerika Birleşik Devletleri dışında yaşıyor. Gelecek yıl, tüm kullanıcıların yarısından fazlası İngilizce
+konuşmayan kişiler olacak, beş yıl önce ise bu oran sadece %5'ti. Harika değil mi? (...) Web, İngilizce
+konuşmayan bölgelerde büyüyecek. Bu yüzden bu 'yeni' kullanıcılara ulaşmak istiyorsak
+ortamın teknik yönlerini hesaba katmalıyız.
+Web'de yayınlanan önemli
+belgelerin ve denemelerin çok az çevirisinin olması üzücü - İngilizceden diğer dillere ve tam tersi. (...) Aynı şekilde, internetin yeni bölgelerde son zamanlarda yayılması, hakkında okunması iyi olacak soruları gündeme getiriyor. İspanyolca konuşan iletişim teorisyenleri ve diğer dilleri konuşanlar ne zaman tercüme edilecek?"
+
+Web, gezegenimizde konuşulanlar kadar çok dili barındıracak mı?
+Bu, SIL International (SIL: Yaz Dilbilim Enstitüsü) tarafından yayınlanan ve 1990'ların ortalarından beri web'de serbestçe erişilebilen yetkili bir katalog olan "The Ethnologue: Languages ​​of the World"de listelenen 6.700 dil ile oldukça zorlu bir iş olacak.
+
+2000 yılı, kullanıcıları açısından çok dilli bir internet için bir dönüm noktasıydı. İngilizce konuşmayan kullanıcılar 2000 yazında %50'ye ulaştı. Global Reach'e göre, 2001 yazında %52,5, Aralık 2001'de %57, Nisan 2002'de %59,8, Eylül 2003'te %64,4'tü (İngilizce konuşmayan Avrupalılar ve %29,4 Asyalı) ve Mart 2004'te %64,2 (İngilizce konuşmayan Avrupalıların %37,9'u ve Asyalıların %33'ü dahil).
+
+Bazı İngilizce konuşmayan entelektüellerin kendi dillerini tanıtmak için fazla bir şey yapmadan şikayet ettiği sözde İngilizce dil hegemonyasına rağmen, internet aynı zamanda Caoimhin O Donnaile'nin belirttiği gibi azınlık dilleri için de iyi bir ortamdı. Caoimhin, Skye Adası'ndaki (İskoçya) Sabhal Mor Ostaig Enstitüsü'nde bilgisayar dersleri verdi. Ayrıca, İskoç Galcesi hakkında bilgi içeren dünya çapındaki ana site olan kolej web sitesini oluşturdu ve sürdürdü ve Avrupa azınlık dillerinin iki dilli (İngilizce, Galce) bir listesini yayınladı. Mayıs 2001'de şöyle yazmıştı: "Öğrenciler her şeyi bilgisayarla yapıyor,
+Gaelic yazım denetimini, bir Gaelic çevrimiçi terminoloji veritabanını kullanıyor.
+Web sitemizde daha fazla hit var. Daha fazla ses kullanılıyor.
+Gaelic radyosu (hem İskoç hem de İrlanda) artık internet üzerinden dünya çapında sürekli olarak mevcut.
+Büyük bir proje, Opera web tarayıcısının
+Gaelic'e çevrilmesiydi - bu boyuttaki ilk yazılım, Gaelic dilinde mevcuttu."
+
+"DİLSEL DEMOKRASİ"YE DOĞRU
+
+= [Alıntı]
+
+Dünya Dil Enstitüsü (WWLI) müdürü Brian King,
+Eylül 1998'de "dilsel demokrasi" kavramını gündeme getirdi:
+"1950'lerin başında UNESCO raporuna göre 'anadilde eğitim' dünyadaki her çocuk için bir insan hakkı olarak kabul edilirken, 'anadilde gezinme' Bilgi Çağı'nın eşdeğeri olabilir. İnternet gerçekten de tanıtıldığı gibi Küresel Ağ olacaksa, dil geçmişine bakılmaksızın tüm kullanıcılar buna erişebilmelidir. İnterneti, tarihsel bir kaza, pratik zorunluluk veya siyasi ayrıcalık nedeniyle İngilizce bilenlerin tekelinde tutmak, bilmeyenlere karşı haksızlıktır."
+
+= [Metin]
+
+Fujisawa'daki Asya Bilgi Ağı'nda (Japonya) bilgisayar bilimcisi olan Yoshi Mikami, Aralık 1995'te "Bilgisayarlar ve İnternetle Dünya Dilleri" adlı web sitesini başlattı. Bu web sitesi aynı zamanda Logos Ana Sayfası veya Kotoba Ana Sayfası olarak da bilinir. (Web sitesi Eylül 2001'e kadar güncellendi.)
+Yoshi ayrıca (Kenji Sekine ve Nobutoshi Kohara ile birlikte) Ağustos 1997'de O'Reilly Japan tarafından yayınlanan ve 1998'de İngilizce, Fransızca ve Almanca'ya çevrilen basılı bir kitap olan "Çok Dilli Web Rehberi"nin (Japonca baskısı) ortak yazarıydı.
+
+Yoshi Mikami Aralık 1998'de şöyle açıkladı: "Ana dilim Japonca.
+ABD'de lisansüstü eğitimimi aldığım ve bilgisayar sektöründe çalıştığım için Japonca ve Amerikan İngilizcesi'nde iki dilli oldum.
+Her zaman dillere ve farklı kültürlere ilgi duydum, bu yüzden bu arada biraz Rusça, Fransızca ve Çince öğrendim. 1995'in sonlarında, internette 'Bilgisayarlar ve İnternetle Dünya Dilleri'ni oluşturdum ve orada dünyanın altı büyük dilinin her biri için kısa geçmişi, dilbilimsel ve fonetik özellikleri, yazı sistemi ve bilgisayar işleme yönlerini İngilizce ve Japonca olarak özetlemeye çalıştım. Daha fazla deneyim kazandıkça, iki ortağımı çok dilli web sayfalarını görüntüleme, anlama ve oluşturma hakkında bir kitap yazmama yardım etmeye davet ettim ve bu kitap Ağustos 1997'de Japonca baskısında 'Çok Dilli Web Rehberi' olarak yayınlandı ve bu tür bir konu hakkında dünyanın ilk kitabı oldu." 
+
+Yoshi aynı e-posta röportajında ​​şunları ekledi: "Binlerce yıl önce, Mısır, Çin ve diğer yerlerde, insanlar yasalarını ve düşüncelerini yalnızca bir dilde değil, birkaç dilde iletmekle daha fazla ilgileniyorlardı. Modern dünyamızda, çoğu ulus devlet kendi kullanımları için bir dil benimsemiştir. İnternette farklı dillerin ve çok dilli sayfaların daha fazla kullanılacağını, Amerikan İngilizcesine basit bir
+çekim olmayacağını ve ayrıca çok dilli bilgisayar çevirisinin daha yaratıcı bir şekilde kullanılacağını öngörüyorum. Japonya'da oluşturulan web sitelerinin %99'u Japonca yazılmıştır." 
+
+Robert Ware, OneLook Dictionaries web sitesini Nisan 1996'da yüzlerce çevrimiçi sözlükte "hızlı bulucu" olarak başlattı. 2 Eylül 1998'de, hızlı bulucu çeşitli konuları kapsayan 425 sözlükte 2.058.544 kelimeyi "tarayabilirdi": iş, bilgisayar/internet,
+tıbbi, çeşitli, din, bilim, spor, teknoloji, genel,
+ve argo. OneLook Dictionaries, Englewood, Colorado'daki Study Technologies şirketi tarafından ücretsiz bir hizmet olarak sağlandı. 
+
+Robert Ware Eylül 1998'de şöyle açıkladı: "Kişisel açıdan, neredeyse tamamen tek bir dil konuşan ve dil becerilerini
+genişletmek için fazla teşviki olmayan insanlarla temas halindeydim. Tüm dünyayla temas halinde olmak bunu değiştirmenin bir yolunu buluyor. Ve bunu daha iyiye doğru değiştirmek! (...) İngilizce olmayan sözlükleri eklemeye başlamakta yavaş davrandım (kısmen tek dilli olduğum için). Ama şimdi birkaç tane eklediğimi göreceksiniz."
+
+Aynı e-posta röportajında ​​Robert, internetin hem ortak bir dili hem de çok dilliliği teşvik edebileceğini gösteren kişisel bir deneyimden bahsetti: "1994'te bir üniversitede çalışıyordum ve belirli bir bilgisayar türüne bir yazılım paketi yüklemeye çalışıyordum. Aynı sorun üzerinde çalışan birini buldum ve e-posta alışverişine başladık. Aniden aklıma geldi... yazılım sadece 30 mil uzakta yazılmıştı ama dünyanın diğer ucundaki bir kişiden yardım alıyordum. Mesafe ve coğrafya artık önemli değildi! Tamam, bu harika! Ama bu nereye
+yol açıyor? Sadece İngilizce iletişim kurabiliyorum ama neyse ki diğer kişi ana dili olan Almancanın yanı sıra İngilizce de kullanabiliyordu. İnternet bir engeli (mesafeyi) ortadan kaldırdı
+ama bununla birlikte dil engeli de geldi. İnternetin insanları aynı anda iki farklı yöne doğru hareket ettirdiği görülüyor. İnternet (başlangıçta İngilizceye dayalı) dünyanın dört bir yanındaki insanları birbirine bağlıyor. Bu, insanların iletişim için kullanabileceği ortak bir dili daha da teşvik ediyor. Ama aynı zamanda farklı dillere sahip insanlar arasında temas yaratıyor ve çok dilliliğe daha fazla ilgi yaratıyor. Ortak bir dil harika ama hiçbir şekilde bu ihtiyacın yerini almıyor. Bu yüzden internet hem ortak bir dili *hem de*
+çok dilliliği teşvik ediyor. İyi haber şu ki çözümler sunmaya yardımcı oluyor. Artan ilgi ve ihtiyaç, dünyanın dört bir yanındaki insanların daha iyi dil kursları ve diğer yardımlar oluşturması için teşvikler yaratıyor ve internet, bunları erişilebilir kılmak için hızlı ve ucuz fırsatlar sağlıyor."
+
+İnternet ayrıca "kültürel kimlik" geliştirmek için bir araç olabilir.
+Uluslararası Çalışma Ofisi (ILO) tarafından Ocak 1997'de düzenlenen Multimedya Yakınlaşması Sempozyumu sırasında, Japonya Müzisyenler Birliği (MUJ) genel sekreteri Shinji Matsumoto şunları açıkladı:
+"Japonya yabancı kültüre ve yabancı teknolojiye oldukça açık.
+(... ) Yabancı kültür Japonya'ya akıyor ve aslında iç pazar yabancı ürünler tarafından domine ediliyor. Buna rağmen, Japon kültürünü korumak ve daha da geliştirmek söz konusu olduğunda, hükümetten yeterli destek
+
+sağlanmadı. (...) Bilgi ağlarının
+geliştirilmesiyle birlikte dünya küçülüyor ve
+çok uzak mesafelerde kültürel alışverişlerde bulunabilmek ve insanlar arasındaki karşılıklı anlayışı derinleştirmek harika bir şey. Ulusal kültürlere ve sosyal sistemlere saygı duymayı unutmamalıyız."
+
+Aralık 1997, çok dilli bir web için bir dönüm noktasıydı. Önde gelen bir arama motoru olan AltaVista, Babel Fish (veya AltaVista Translation) adlı ücretsiz bir çeviri yazılımı başlatan ilk web sitesiydi. Bu yazılım, üç sayfaya kadar İngilizce'den Fransızca, Almanca, İtalyanca, Portekizce veya İspanyolca'ya ve tam tersine çeviri yapabiliyordu. İngilizce konuşmayan kullanıcılar çok heyecanlanmıştı. Yazılım, makine çevirisinde uzmanlaşmış öncü bir şirket olan Systran tarafından geliştirildi. Daha sonra, Alis Technologies, Globalink, Lernout & Hauspie, Softissimo, Wordfast ve Trados tarafından başka çeviri yazılımları geliştirildi ve web'de ücretsiz ve/veya ücretli sürümleri mevcuttu.
+
+WorldWide Language Institute (WWLI) direktörü Brian King, Eylül 1998'de "dilsel demokrasi" kavramını gündeme getirdi:
+"Ana dilde eğitim" 1950'lerin başında UNESCO tarafından yayınlanan bir raporda dünyadaki her çocuk için bir insan hakkı olarak kabul edilen 'ana dilde gezinme' Bilgi Çağı'nın eşdeğeri olabilir. İnternet gerçekten de tanıtıldığı gibi Küresel Ağ olacaksa, dil geçmişine bakılmaksızın tüm kullanıcılar ona erişebilmelidir. İnterneti, tarihi bir kaza, pratik zorunluluk veya siyasi ayrıcalık nedeniyle İngilizce bilenlerin koruması altında tutmak, bilmeyenlere karşı haksızlıktır."
+
+Geoffrey Kingscott, uygulamalı diller alanında bir dil danışmanlığı olan Praetorius'un yönetici müdürüydü. Eylül 1998'de şunları yazdı: "Web'in en belirgin özellikleri site oluşturucularının çokluğu ve mesaj oluşturmanın ucuzluğu olduğundan, web olgunlaştıkça aslında çok dilliliği teşvik edecektir. Web'in ABD'de ortaya çıkmış olması, hala ağırlıklı olarak İngilizce olduğu anlamına gelir
+ancak bu yalnızca geçici bir olgudur. Bunu daha detaylı açıklayabilirsem,
+baskı ve görsel-işitsel (film, televizyon, radyo,
+video, kaset) medyaya güvendiğimizde, almak istediğimiz bilgi veya eğlencenin bize ticari bir dünyada veya --kamu hizmeti yayıncılığında olduğu gibi-- ciddi bütçe kısıtlamaları altında yaşamak zorunda olan acenteler (yayıncılar, televizyon ve radyo istasyonları, kaset ve video
+üreticileri) tarafından getirilmesine güvenmek zorundaydık. Bu, müşteri tabanının büyüklüğünün çok önemli olduğu ve her yerde bulunan İngilizce dışındaki dillerin ne ölçüde kabul edilebileceğini belirlediği anlamına gelir. Bu kısıtlamalar
+web ile ortadan kalkar. Kendi deneyimimizden sadece küçük bir örnek vermek gerekirse, Language Today'in [dilbilimciler için bir dergi,
+Praetorius tarafından yayınlanmıştır] basılı versiyonunu yalnızca okuyucularımızın ortak paydası olan İngilizce olarak yayınlıyoruz. Orijinal olarak İngilizce dışındaki bir dilde yazılmış bir makale kullandığımızda veya İngilizce dışındaki bir dilde yapılmış bir röportajı bildirdiğimizde, İngilizceye çevirir ve yalnızca İngilizce versiyonunu yayınlarız. Bunun nedeni, basabileceğimiz sayfa sayısının müşteri tabanımız (reklam verenler ve aboneler) tarafından yönetilmesidir. Ancak web baskımız için orijinal versiyonu da veriyoruz."
+
+Euro-Marketing Associates ve sanal şubesi Global Reach'in kurucusu Bill Dunlap, ABD'deki meslektaşları arasında Avrupa'daki e-ticaretin varlıklarını savunuyordu. Bill, Aralık 1998'de şunları yazdı:
+"ABD'de birçok dilde iletişim kurmakla ilgilenen çok az insan var -- çoğu Amerikalı hala dünyanın geri kalanının İngilizce konuştuğu yanılgısında. Ancak, Avrupa'da (Fransa'dan yazıyorum) ülkeler o kadar küçük ki, yüzyıllardır uluslararası bir bakış açısına ihtiyaç duyuluyor."
+
+İnternet hızla dünya çapında yayıldıkça, ABD'deki giderek daha fazla insan, İngilizcenin her türlü değişim için ana uluslararası dil olarak kalmasına rağmen, insanların bilgileri kendi dillerinde okumayı tercih ettiğini fark etti. Mümkün olduğunca geniş bir kitleye ulaşmak için, şirketler ve kuruluşlar, içeriklerini belirli bir kitleye uyarlarken, iki dilli, üç dilli, hatta çok dilli web siteleri sunmalıydı. Dolayısıyla, sonraki yıllarda yalnızca ABD'de değil, birçok ülkede büyük bir trend haline gelen hem yerelleştirme hem de uluslararasılaştırma ihtiyacı, şirketlerin daha geniş bir kitleye ulaşmak ve daha fazla müşteri edinmek için kendi dillerinde ve İngilizce olarak iki dilli web siteleri kurmasıyla arttı.
+
+WorldWide Language Institute (WWLI) müdürü Brian King, Eylül 1998'de şöyle açıkladı: "Uygun teknolojinin mevcut olmasının yanı sıra, İngilizce konuşmayanlar gidebilir, siber uzay için çok dilliliği en doğal yol haline getirebilecek büyük bir güç olarak 'elektronik ticaretin' etkisi vardır. İngilizce konuşmayan bilgisayar kullanıcılarının çekimi ve küresel pazarlar için rekabet eden teknoloji şirketlerinin itmesi, yerelleştirmeyi yazılım ve donanım geliştirmede hızla büyüyen bir alan haline getirmiştir." 
+
+1998'de Avrupa Dil ve Konuşma Ağı (ELSNET), 100'den fazla Avrupa akademik ve endüstriyel kurumundan oluşan bir ağdı.
+ELSNET üyeleri, hem konuşulan hem de yazılı dili kapsayan çok dilli konuşma ve doğal dil sistemleri oluşturmayı amaçlıyordu.
+ELSNET koordinatörü Steven Krauwer, Eylül 1998'de şöyle açıkladı: "Bir Avrupa vatandaşı olarak, web'de çok dilliliğin kesinlikle gerekli olduğunu düşünüyorum, çünkü uzun vadede yalnızca makul düzeyde İngilizce bilgisine sahip olanların web'in avantajlarından tam olarak yararlanabileceği bir durumun sağlıklı olduğunu düşünmüyorum. Bir araştırmacı olarak (makine çevirisinde uzmanlaşmış) çok dilliliği büyük bir zorluk olarak görüyorum: Web'deki tüm bilgilerin dil farklılıklarından bağımsız olarak herkes tarafından erişilebilir olmasını nasıl sağlayabiliriz?"
+
+Steven Ağustos 1999'da şunları ekledi: "Çok dillilik sorununu izole bir şekilde ele almamaya dikkat etmemiz gerektiğine giderek daha fazla ikna oldum. Fransa'da geçirdiğim harika bir yaz tatilinden yeni döndüm ve Fransızca bilgim mütevazı olsa bile (hafifçe söylemek gerekirse), zayıf Fransızcamı jestler, yüz ifadeleri, görsel ipuçları ve diyagramlarla birleştirerek başarılı bir şekilde iletişim kurmayı başardığımı görmek şaşırtıcı. Web'in (eski moda metin tabanlı e-postanın aksine) farklı kanallar (veya yöntemler) üzerinden bilgi aktarımının, her bir kanal için süreç yalnızca kısmen başarılı olsa bile, yine de işe yarayabileceği gerçeğinden yararlanmak için mükemmel fırsatlar sunduğunu düşünüyorum."
+
+Gerçekten çok dilli bir web için hangi pratik çözümleri önerebilirdi?
+"Yazar tarafında: dil engelleri arasında iletişimi daha etkili hale getirmek için yöntemlerin kombinasyonlarını kullanmaları için web yazarlarının daha iyi eğitilmesi (ve sadece kozmetik nedenlerle değil). Sunucu tarafında: AltaVista'ya benzer daha fazla çeviri olanağı (kalite etkileyici değil, ancak hiç yoktan iyidir). Tarayıcı tarafında: daha entegre
+çeviri olanakları (özellikle daha küçük diller için) ve daha
+hızlı entegre sözlük arama olanakları."
+
+Dilsel çoğulculuk ve çeşitlilik herkesin işidir, Avrupa'da Kültürlere ve Dillere Saygı Komitesi'nin (ECRCLE) "kültürel çeşitliliğiyle zengin, hümanist ve çok dilli bir Avrupa" için başlattığı bir dilekçede açıklandığı gibi: "Dilsel
+çoğulculuk ve çeşitlilik, insanların, fikirlerin, malların ve hizmetlerin serbest dolaşımına engel değildir, bilinçli veya bilinçsiz, baskın dil ve kültürün bazı nesnel müttefiklerini öne sürmek istiyorum. Gerçekten de, standardizasyon ve hegemonya, bireylerin, toplumların ve yarının işlerinin ana kaynağı olan bilgi ekonomisinin özgürce gelişmesinin önündeki engellerdir. Aksine, dillere saygı, Avrupa'nın vatandaşlara daha yakınlaşması için son umuttur, her zaman iddia edilen ve neredeyse hiç uygulamaya konulmayan bir hedeftir. Birlik bu nedenle bir grubun diline ayrıcalık tanımaktan vazgeçmelidir." Dilekçenin tam metni Avrupa Birliği'nin on bir resmi dilinde mevcuttu. Dilekçede, diğer şeylerin yanı sıra, Avrupa Birliği Antlaşması'nı gözden geçirenlerden, antlaşma metnine ulusal kültürlere ve dillere saygıyı dahil etmeleri ve ulusal hükümetlerden "gençlere en az iki, tercihen üç yabancı Avrupa dili öğretmeleri; ulusal görsel-işitsel ve müzik endüstrilerini teşvik etmeleri" isteniyordu. ve Avrupa çalışmalarının yayılmasını destekliyor."
+
+Henk Slettenhaar, İsviçre'nin Cenevre kentindeki Webster Üniversitesi'nde iletişim teknolojisi profesörüdür. Henk üç dilli bir Avrupalıdır.
+Felemenkçe'dir, İngilizce bilgisayar bilimi dersleri verir ve komşu Fransa'da ikamet ettiği için Fransızca'yı akıcı bir şekilde konuşmaktadır. Düzenli olarak, hem orijinal dilde hem de İngilizce olarak iki dilli web sitelerine ihtiyaç olduğunu vurgulamıştır. Aralık 1998'de şunları yazmıştır: "Çok dilliliği çok önemli bir konu olarak görüyorum. Web'de bulunan yerel topluluklar, bilgi için öncelikle yerel dili kullanmalıdır. Bilgilerini dünya topluluğuna da sunmak istiyorlarsa, bilgileri İngilizce olmalıdır. İki dilli web sitelerine gerçek bir ihtiyaç olduğunu görüyorum. (...) Diller söz konusu olduğunda, artık orijinal dillerde çok sayıda teklif olması beni çok mutlu ediyor. Kötü bir çeviri almaktansa orijinalini zorlukla okumayı tercih ederim."
+
+Henk Ağustos 1999'da şunları ekledi: "Bence iki ana web sitesi kategorisi var. Birincisi, iş ve bilgi için küresel erişim. Burada dil kesinlikle öncelikle İngilizce, uygun yerlerde yerel
+versiyonlar. İkincisi, en uzak yerlerdeki her türden yerel bilgi. Bilgi, bir etnik ve/veya dil grubundan insanlara yönelikse, öncelikle o dilde olmalı, belki de İngilizce bir özeti olmalı. Son zamanlarda bu yerel web sitelerinin ne kadar önemli olduğunu gördük -- en son olanları saymak gerekirse Kosova ve Türkiye'de. İnsanlar bu siteler aracılığıyla
+akrabaları hakkında bilgi edinebiliyorlardı."
+
+Marcel Grangier, İsviçre Federal Hükümeti'nin Merkezi Dil Hizmetleri'nin Fransız Bölümü'nün başkanıydı, yani İsviçre hükümeti için Fransızcaya çeviriler düzenlemekten sorumluydu. Ocak 1999'da şunları yazdı: "İnternette çok dilliliği mutlu ve geri döndürülemez bir
+kaçınılmazlık olarak görebiliyoruz. Bu yüzden sadece İngilizcenin üstünlüğünden
+şikayet eden felaket tellallarına gülmek zorundayız. Böyle bir üstünlük kendi başına yanlış değildir, çünkü esas olarak istatistiklere dayanmaktadır (kişi başına daha fazla PC, daha fazla insanın İngilizce konuşması,
+vb.). Cevap İngilizceyle 'mücadele etmek' değil, bundan sızlanmak değil,
+diğer dillerde daha fazla site oluşturmaktır. Bir çeviri hizmeti olarak,
+web sitelerinin çok dilli olmasını da öneriyoruz. İnternetteki dil sayısının artması kaçınılmazdır ve yalnızca çok kültürlü alışverişleri artırabilir. Bunun mümkün olan en iyi
+koşullarda gerçekleşmesi için, uyumluluğu iyileştirmek için araçlar geliştirmeye devam etmemiz gerekiyor.
+Aksanlarla ve diğer karakterlerle tam olarak başa çıkmak, yapılabileceklerin sadece bir örneğidir."
+
+Bilgi sistemleri danışmanı ve yazar Alain Bron, Ocak 1999'da şunları yazdı: "Farklı diller uzun süre daha kullanılmaya devam edecek ve bu, farklı olma hakkı için sağlıklıdır. Risk, elbette bir dilin diğerlerinin zararına işgal edilmesi ve bununla birlikte kültürel standardizasyon riskidir. Bence çevrimiçi hizmetler, bu sorunu aşmak için
+yavaş yavaş ortaya çıkacaktır. Öncelikle, çevirmenler
+talep üzerine metinleri çevirebilecek ve yorumlayabilecekler, ancak esas olarak
+geniş bir kitleye sahip siteler, tıpkı görsel-işitsel endüstrinin şu anda yaptığı gibi, farklı dil sürümleri sunacaklar."
+
+Haiti kültürü hakkında bir referans web sitesi olan Windows on Haiti'nin kurucusu Guy Antoine, Kasım 1999'da şöyle yazmıştı: "Her ne kadar İngilizce'nin web'e hakim olmaya devam edeceği doğru. Bölgesel görüşlere rağmen, bence bu o kadar da kötü değil,
+çünkü dünyanın dört bir yanındaki insanlar arasında iletişimi teşvik etmek için ortak bir dile ihtiyacımız var. Bunu söyledikten sonra, diğer dillerin teslim olarak devrileceği kıyamet görüşünü benimsemiyorum. Tam tersine. İnternet, her şeyden önce, aksi takdirde iz bırakmadan yok olabilecek azınlık dilleri hakkında yararlı bilgilerin bir deposu olarak hizmet edebilir. Bunun ötesinde, insanların bilgi toplamaya çalıştıkları kültürlerle ilişkili dilleri öğrenmeleri için bir teşvik sağladığına inanıyorum. Kişi, bir halkın dilinin, kültürünün temel ve ayrılmaz bir parçası olduğunu
+kısa sürede fark eder. (...)
+
+Bu açıdan, kelimeleri ve ifadeleri ileten ancak bir halkın ruhunu aktarmada
+zayıf bir iş çıkaran mekanize dil çeviri araçlarına çok daha az inanıyorum. Örneğin, kölelik döneminde Haiti'ye nakledilen çeşitli Afrika kabilelerini birbirine bağlayan ve evrimleştiren dil olan "Kreyol" (başlangıçta olmayanlar için Creole) olmadan Haiti halkı kimdir? Bizi bir halk olarak tanımlayan ortaklığın en elle tutulur örneğidir. Ancak, öncelikle yaygın olarak yazılmış bir dil değil, konuşulan bir dildir. Web'in bu durumu, herhangi bir geleneksel dil yayma aracından daha fazla değiştirdiğini görüyorum.
+Haiti'deki Windows'ta, sitenin birincil dili İngilizce'dir, ancak "Kreyol"da yürütülen canlı bir tartışma merkezi de bulacaksınız. Ayrıca, Haiti ile ilgili belgeleri Fransızca, eski sömürge kreolünde bulabilirsiniz ve diğerlerini İspanyolca ve diğer dillerde yayınlamaya açığım. Herhangi bir çeviri sunmuyorum,
+ancak sitede çok dillilik canlı ve iyi durumda ve bunun giderek web genelinde norm haline geleceğini öngörüyorum."
+
+KODLAMA: ASCII'DEN UNICODE'A
+
+= [Alıntı]
+
+WorldWide Language Institute (WWLI) müdürü Brian King,
+Eylül 1998'de şöyle açıkladı: "İlk adım ASCII'nin Genişletilmiş ASCII olmasıydı. Bu, bilgisayarların çoğunlukla Avrupa dilleri tarafından kullanılan
+İngilizce alfabesinin varyantlarında kullanılan aksanları ve sembolleri tanımaya başlayabileceği anlamına geliyordu. Ancak bir sayfada aynı anda yalnızca bir dil
+görüntülenebiliyordu. (...) En son
+geliştirme Unicode'dur. Hala gelişmekte ve en son yazılıma yeni dahil edilmiş olsa da, bu yeni kodlama sistemi her karakteri 16 bayta çevirir. 8 baytlık genişletilmiş ASCII en fazla 256 karakteri işleyebilirken, Unicode 65.000'den fazla benzersiz karakteri işleyebilir ve bu nedenle potansiyel olarak bilgisayardaki tüm
+yazı sistemlerini barındırabilir. Yani artık araçlar az çok
+yerinde. Hala mükemmel değiller, ancak sonunda en azından Çince, Japonca, Korece ve Batı alfabesini kullanmayan diğer birçok dilde internette gezinebiliyoruz. İnternet, İngilizcenin nadiren kullanıldığı dünyanın bazı bölgelerine yayıldıkça - örneğin Çin gibi - etkileşim için Çincenin ve İngilizcenin tercih edilmesi doğaldır. Çin'deki kullanıcıların çoğunluğu için ana dilleri tek seçenek olacaktır."
+
+= Project Gutenberg'de Kodlama
+
+Bilgisayarın başlangıcından beri kullanılan ASCII (American Standard Code for Information Interchange), İngilizce'de bilgi alışverişi için 7 bitlik kodlanmış bir karakter kümesidir. 1968'de ANSI (American National Standards Institute) tarafından yayınlanmış ve 1977 ve 1986'da güncellenmiştir. 7 bitlik düz ASCII, aynı zamanda Düz Vanilya ASCII olarak da adlandırılır, 95 adet basılabilir vurgusuz karakter (A-Z, a-z,
+sayılar, noktalama işaretleri ve temel semboller) içeren 128 karakterlik bir kümedir, yani İngilizce/Amerikan klavyesinde bulunanlardır. Diğer
+Avrupa dillerinin kullanımıyla, ASCII uzantıları (ISO-8859 veya ISO-Latin olarak da adlandırılır) Fransızca, İspanyolca ve Almanca'da bulunan vurgulu karakterleri eklemek için 256 karakterlik kümeler halinde oluşturulmuştur, örneğin Fransızca için ISO 8859-1 (ISO-Latin-1).
+
+Michael Hart tarafından Temmuz 1971'de oluşturulan Project Gutenberg, internetteki ilk bilgi sağlayıcısıydı. Michael'ın amacı mümkün olduğunca çok sayıda edebi metni dijitalleştirmek ve bunları herkese açık bir
+dijital kütüphanede ücretsiz olarak sunmaktı. Michael Ağustos 1998'de şöyle açıkladı: "E-metni, kağıtla gerçek bir ilişkisi olmayan yeni bir ortam olarak görüyoruz,
+aynı materyali sunmaktan başka, ancak insanlar e-metinlere kendi rahat yollarını bulduklarında,
+kağıdın nasıl rekabet edebileceğini göremiyorum, özellikle okullarda."
+
+Yıllar önce veya şimdi dijitalleştirilmiş olsun, tüm Project Gutenberg kitapları
+Plain Vanilla ASCII adı verilen 7 bitlik düz ASCII'de oluşturulur. Fransızca veya Almanca gibi aksanlı karakterlere sahip kitaplar için 8 bitlik ASCII kullanıldığında,
+Project Gutenberg ayrıca aksanların çıkarıldığı 7 bitlik bir ASCII sürümü üretir. (Bu, Çince gibi ASCII'ye "dönüştürülemeyen" diller için geçerli değildir, Big-5'te kodlanmıştır.)
+
+Project Gutenberg, Plain Vanilla ASCII'yi açık ara en iyi format olarak görür ve
+onu "en düşük ortak payda" olarak adlandırır. Herhangi bir elektronik cihazda herhangi bir basit metin düzenleyici veya kelime işlemciyle okunabilir, yazılabilir, kopyalanabilir ve yazdırılabilir. Donanım ve yazılımların %99'uyla uyumlu tek formattır. Olduğu gibi kullanılabilir veya birçok başka formatta sürümler oluşturulabilir. Diğer formatlar eskimişken veya 1999'dan beri piyasaya sürülen birkaç kısa ömürlü okuma cihazının formatları gibi zaten eskimişken bile kullanılmaya devam edecektir. Koleksiyonların asla eskimeyeceği ve gelecekteki teknolojik değişikliklere dayanacağı güvencesidir. Amaç, metinleri yalnızca on yıllar boyunca değil, yüzyıllar boyunca korumaktır. Project Gutenberg ayrıca HTML, XML veya RTF gibi iyi bilinen formatlarda e-kitaplar yayınlar. Unicode dosyaları da vardır. Gönüllüler tarafından sağlanan diğer formatlar (PDF, LIT, TeX ve diğerleri) genellikle kabul edilir, mümkün olduğunda bir ASCII versiyonu da sağladıkları sürece.
+
+Başlangıçta kitaplar çoğunlukla İngilizceydi. Orijinal Project
+Gutenberg ABD'de bulunduğundan, ilk odak noktası ülkedeki ve dünyadaki İngilizce konuşan topluluktu. Ekim
+1997'de Michael Hart, diğer dillerdeki e-kitapları dijitalleştirme niyetini dile getirdi. 1998'in başlarında, katalogda Fransızca (10 başlık), Almanca, İtalyanca, İspanyolca ve Latince birkaç başlık vardı. Temmuz 1999'da Michael şunları yazdı: "Şu anda her ay bir yeni dilde yayın yapıyorum ve mümkün olduğu kadar uzun süre devam edeceğim."
+
+2000'lerde çok dillilik, Project Gutenberg Australia (Ağustos 2001'de oluşturuldu), Project Gutenberg Europe (Ocak 2004'te oluşturuldu), Project Gutenberg Canada (Temmuz 2007'de oluşturuldu) ve daha sonra gelecek diğerleriyle birlikte Project Gutenberg için bir öncelik haline geldi.
+
+Project Rastko tarafından Project Gutenberg Europe ve Distributed Proofreaders
+Europe'un (DP Europe) başlatılması önemli bir adımdı. 1997'de kurulan Project Rastko, hükümet dışı bir kültürel ve eğitimsel
+projedir. Hedeflerinden biri Sırp kültürünün çevrimiçi olarak yayınlanmasıdır. Güneydoğu Avrupa'daki Balkan yarımadası için bölgesel bir kültürel ağ olan Balkans Cultural Network Initiative'in bir parçasıdır.
+
+DP Europe, 2000 yılında başlatılan orijinal Distributed Proofreaders'ın yazılımını, çok sayıda gönüllü arasında düzeltmeyi paylaşmak için kullanmıştır. DP Europe, başlangıcından bu yana, ana sayfaları gönüllü çevirmenler tarafından çeşitli Avrupa dillerine çevrilmiş çok dilli bir
+web sitesidir. Nisan 2004'te DP Europe 12
+dilde mevcuttu. Uzun vadeli hedef, ana Avrupa dillerinde 60 dil ve 60 dil ekibiydi. DP Europe, çok sayıda dilde e-kitapları düzeltmek için ASCII yerine Unicode'u destekler.
+
+İlk olarak Ocak 1991'de yayınlanan Unicode, "platform, program ve dil ne olursa olsun her karakter için benzersiz bir sayı sağlar" (web sitesinden alıntı). Bu çift baytlık platformdan bağımsız kodlama, herhangi bir dildeki ve herhangi bir modern yazılım ve bilgi teknolojisi protokolündeki metin verilerinin işlenmesi, depolanması ve değiş tokuşu için bir temel sağlar. Unicode, Unicode Konsorsiyumu tarafından korunur ve W3C (World Wide Web Konsorsiyumu) ​​spesifikasyonlarının bir bileşenidir. 2008'de internetteki mevcut belgelerin %50'si Unicode'da, diğer %50'si ise ASCII'de kodlanmıştır.
+
+ABD'deki orijinal Project Gutenberg'de, Şubat 2004'te 25 dilde, Temmuz 2005'te Sanskritçe ve Maya dilleri de dahil olmak üzere 42 dilde ve Aralık 2006'da 50 dilde e-kitap vardı. En çok okunan on dil İngilizce, Fransızca, Almanca, Fince, Felemenkçe, İspanyolca, Çince, İtalyanca, Portekizce ve Tagalog'du.
+
+[Bu bölümün önceki sürümlerini revize ettikleri için Russon Wooldridge ve Mike Cook'a çok teşekkürler.]
+
+İLK ÇOK DİLLİ PROJELER
+
+= [Alıntı]
+
+İnsan Dilleri Sayfası ve İnternet Sözlük Projesi'ni oluşturan Tyler Chambers, Eylül 1998'de şunları yazdı: "Çevrimiçi olarak, 
+çalışmalarım web tabanlı projelerimden birkaçı aracılığıyla dil bilgilerini daha fazla kişiye ulaştırmaktı. Çok dilli olmasam da, hatta iki dilli bile olmasam da, dil ve çok dilliliğin çok az alanda gördüğüm bir öneme sahip olduğunu görüyorum. İnternet, milyonlarca insana ulaşmamı ve aradıklarını bulmalarına yardımcı olmamı sağladı, bunu yapmaktan mutluluk duyuyorum. (...) Genel olarak, web'in dil farkındalığı ve kültürel konular için harika olduğunu düşünüyorum -- başka nerede 20 dakika boyunca rastgele gezinip, potansiyel olarak bilmek isteyebileceğiniz bilgilerle üç veya daha fazla farklı dille karşılaşabilirsiniz?"
+
+= Travlang
+
+Travlang, 1994 yılında Michael C. Martin tarafından fizik öğrencisiyken üniversitesinin web sitesinde oluşturulan, hem seyahat hem de dillere adanmış bir web sitesidir. Travlang, 60 dili öğrenmek için çevrimiçi araçlara bağlantılar içeren, Gezginler İçin Yabancı Diller adlı bir bölüm içeriyordu. Sözlükleri Çevirme adlı başka bir bölüm, bir dizi dilde (Afrikaans, Çekçe, Danca, Felemenkçe, Esperanto, Fince, Fransızca, Frizce, Almanca, Macarca, İtalyanca, Latince, Norveççe, Portekizce, İspanyolca) ücretsiz sözlüklere erişim sağlıyordu. Diğer bölümler, dil sözlüklerine, çeviri hizmetlerine, dil okullarına ve çok dilli kitapçılara bağlantılar sunuyordu. 1998'de Travlang, Kaliforniya'daki Lawrence Berkeley Ulusal Laboratuvarı'nda deneysel fizik alanında araştırmacı olan kurucusu tarafından hala yönetiliyordu.
+
+Michael C. Martin Ağustos 1998'de şunları yazdı: "Bence web, farklı kültürleri ve insanları bir araya getirmek için ideal bir yer ve buna çok dilli olmak da dahil. Travlang sitemiz bu yüzden çok popüler ve insanlar dünyanın diğer bölgeleriyle temas halinde hissetmek istiyor.
+(...) İnternet, aksi takdirde etkileşimde bulunma fırsatınız
+olmayacak insanlarla iletişim kurmak için gerçekten harika bir araç. Yabancı Diller Gezginler sayfalarımızı mümkün kılan küresel iş birliğinden gerçekten keyif alıyorum." İnternet ve genel olarak diller hakkında, "Bilgisayarlı tam metin çevirilerinin daha yaygın hale geleceğini ve daha fazla insanla birçok temel iletişimi mümkün kılacağını düşünüyorum.
+Bu ayrıca interneti İngilizce konuşmayan dünyaya daha eksiksiz bir şekilde getirmeye yardımcı olacak."
+
+= İnsan Dilleri Sayfası
+
+Tyler Chambers tarafından Mayıs 1994'te oluşturulan İnsan Dilleri Sayfası (H-LP), 100 dilde 1.800 dil ile ilgili internet kaynağının kapsamlı bir kataloğuydu. Eylül 1998'de altı konu listesi ve iki kategori listesi vardı. Altı konu listesi şunlardı:
+diller ve edebiyat, okullar ve kurumlar, dilbilim
+kaynaklar, ürünler ve hizmetler, kuruluşlar, işler ve stajlar.
+İki kategori listesi şunlardı: sözlükler ve dil dersleri.
+
+Tyler Chambers'ın dil ile ilgili diğer projesi, 1995'te başlatılan İnternet Sözlük Projesi'ydi (IDP). Eylül 1998'de projenin web sitesinde açıklandığı gibi: "İnternet Sözlük Projesi'nin hedefi, internet vatandaşlarının yardımıyla telifsiz çeviri sözlükleri oluşturmaktır. Bu site, dünyanın dört bir yanından kişilerin İngilizce sözcüklerin diğer dillere çevrilmesine yardımcı olmalarını sağlar. Elde edilen İngilizce sözcüklerin ve bunların çevrilmiş karşılıklarının listeleri daha sonra bu site aracılığıyla herkesin kullanımına sunulur ve bunların kullanımında herhangi bir kısıtlama yoktur. (...) İnternet Sözlük Projesi, 1995'te internet topluluğuna ve genel olarak bilişime gözle görülür şekilde eksik bir kaynak olan ücretsiz çeviri sözlükleri sağlama çabasıyla başladı. Çevrimiçi topluluğun World Wide Web üzerinden sözlük aramalarına parmaklarının ucunda erişebilmesi yalnızca yardımcı olmakla kalmaz, aynı zamanda bu tür sözlüklerden faydalanabilen bilgisayar yazılımlarının büyümesini de destekler -- çeviri programlar
+yazım denetleyicilerinden dil eğitimi kılavuzlarına ve daha fazlasına. İnternetin dört bir yanındaki binlerce isimsiz gönüllünün bu sözlükleri çevrimiçi olarak oluşturmasını kolaylaştırarak ve sonuçları herkese ücretsiz olarak sağlayarak, İnternet Sözlük Projesi
+internette iz bırakmayı ve başkalarına bir şirketin brüt gelirinden daha fazla fayda sağlayacak projeler
+yaratmaları için ilham vermeyi umuyor."
+
+Tyler, Eylül 1998'de bir e-posta röportajında ​​şöyle yazmıştı: "Web'de çok dillilik
+ortam 'havaya uçmadan' önce bile kaçınılmazdı. 1994, web ile gerçekten tanıştığım yıldı ve bu, vaftiz edilmesinden biraz sonraydı ama ana akıma girmesinden çok önceydi.
+Bu aynı zamanda ilk çok dilli web projemi başlattığım yıldı ve
+çevrimiçi olarak zaten önemli sayıda dil ile ilgili kaynak vardı. Bu, Netscape'in var olmasından önceydi -- Mosaic neredeyse
+tek web tarayıcısıydı ve web sayfaları köprü metin belgelerinden biraz daha fazlasıydı. Tarayıcılar ve kullanıcılar olgunlaştıkça, şu anda konuşulan hiçbir dilin web'de bir nişi olmayacağını düşünüyorum,
+Yerli Amerikan dillerinden Orta Doğu lehçelerine ve ayrıca çevrimiçi olarak akademisyenler ve diğerleri gibi yeni bir kitle bulma şansına sahip olacak çok sayıda 'ölü' dil. Bildiğim kadarıyla, şu anda çevrimiçi olmayan çok az dil türü var: tarayıcılar şu anda Roma karakterlerini, Asya dillerini, Kiril alfabesini, Yunancayı, Türkçeyi ve daha fazlasını görüntüleme yeteneğine sahip. Accent
+Software'in 30'dan fazla farklı dil kodlamasını görüntüleyebildiğini iddia eden 'Internet with an Accent' adlı bir ürünü var. Şu anda web'de belirli bir dilin bulunmasına yönelik herhangi bir engel varsa, bunlar uzun sürmeyecek. (...)
+
+Çevrimiçi olarak, işim dil bilgilerini birkaç web tabanlı projem aracılığıyla daha fazla kişiye ulaştırmak oldu. Çok dilli veya hatta iki dilli olmasam da, dil ve çok dilliliğe çok az alanda gördüğümden daha fazla önem veriyorum.
+İnternet milyonlarca insana ulaşmamı ve aradıklarını bulmalarına yardımcı olmamı sağladı, bunu yapmaktan mutluluk duyuyorum. Ayrıca beni bir nevi ünlü veya en azından belirli çevrelerde tanıdık bir isim yaptı
+-- Az önce web projelerimden birinin Time Dergisi'nin Asya ve Uluslararası sayılarında kısa bir şekilde yer aldığını öğrendim. Genel olarak, web'in dil farkındalığı ve kültürel konular için harika olduğunu düşünüyorum --
+başka nerede 20 dakika boyunca rastgele gezinebilir ve potansiyel olarak bilmek isteyebileceğiniz bilgilerle üç veya daha fazla farklı dilde karşılaşabilirsiniz? İletişim araçları insanları birbirine yakınlaştırarak dünyayı küçültüyor; bence web, ortalama bir kişi için ulusal ve kültürel sınırları gerçekten aşan ilk araçtır (posta, telgraf, telefon, radyo, TV). İsrail artık binlerce mil uzakta değil, birkaç tık ötede -- dünyamız artık bir bilgisayar ekranına sığacak kadar küçük olabilir."
+
+Ya gelecek? "Bence internetin geleceği, daha önce gördüğümüzden daha fazla çok dillilik ve kültürlerarası keşif ve anlayış olacak. Ancak internet yalnızca bu bilgilerin taşındığı ortam olacak; bir kitabın yazıldığı kağıt gibi, internetin kendisi bilginin içeriğine çok az şey katıyor, ancak bu bilgileri iletme yeteneğiyle değerine muazzam bir değer katıyor. İnternetin çok dilliliği teşvik ettiğini söylemek biraz yanlış bir kanı, bence -- çok dilliliği ve kültürlerarası değişimi teşvik eden şey iletişimdir, internet sadece (az çok) sıradan insana ulaşan en son iletişim biçimidir. İnternetin dünyanın her yerinde yaygınlaşması için daha uzun bir yol kat etmesi gerekiyor, ancak muhtemelen o veya ilgili bir nesli olacak. Tüm gezegen herkesle iletişim kurabildiğinde (web, sohbet, oyunlar, e-posta ve henüz icat edilmemiş
+gelecekteki uygulamalar aracılığıyla) dil, şu an olduğundan daha da önemli hale gelecek, ancak bunun daha güçlü dil bağlarına veya birkaç veya sadece bir tanesi kalana kadar dillerin konsolidasyonuna yol açıp açmayacağını bilmiyorum. Kesin olduğunu düşündüğüm bir şey var ki internet, dil çeşitliliği de dahil olmak üzere çeşitliliğimizin sonsuza dek bir kaydı olacak, bu çeşitlilik ortadan kalksa bile. Ve internette sevdiğim şeylerden biri de bu -- 'birisi hatırladığı sürece aslında kaybolmaz' sözünün küresel bir modeli olması. Ve insanlar hatırlıyor."
+
+2001 ilkbaharında, İnsan Dilleri Sayfası, WWW Sanal Kütüphanesi'nin bir bölümü olan Diller Kataloğu ile birleşerek
+iLoveLanguages ​​oldu. Eylül 2003'te, iLoveLanguages ​​100 dilde 2.000 dil kaynağının bir dizinini sağladı. İnternet
+Sözlük Projesi'ne gelince, Tyler bu projeyi yönetmek için zaman bulamadı ve
+Ocak 2007'de sözlükleri güncelleme yeteneğini kaldırdı.
+İnsanlar
+hâlâ mevcut sözlüklerde arama yapabilir veya arşivlenmiş
+dosyaları indirebilir.
+
+= NetGlos
+
+1995'te, web üzerinden dil eğitimi sağlayan bir kurum olan WorldWide Language Institute (WWLI) tarafından başlatılan NetGlos (anlamı: Çok Dilli İnternet Terminolojisi Sözlüğü), bir dizi çevirmen ve diğer dil profesyoneli tarafından gönüllü, işbirlikçi bir proje olarak derlendi. Eylül ayında 1998,
+NetGlos şu dillerde mevcuttu: Çince, Hırvatça,
+İngilizce, Felemenkçe/Flamanca, Fransızca, Almanca, Yunanca, İbranice, İtalyanca, Maori,
+Norveççe, Portekizce ve İspanyolca.
+
+WorldWide Language Institute müdürü Brian King,
+Eylül 1998'de bir e-posta röportajında ​​şunları yazdı: "İngilizce hala web'de ve genel olarak internette kullanılan
+en önemli dil olmasına rağmen,
+çok dilliliğin siber uzayın gelecekteki yönünün kaçınılmaz bir parçası olduğuna inanıyorum. Çok dilli bir web'in gerçeğe dönüşmesini sağlayacak önemli gelişmelerden
+bazıları şunlardır:
+
+1. <Bilgi teknolojisinin popülerleşmesi.> Bilgisayar teknolojisi,
+geleneksel olarak hem karmaşık programlama dillerinde hem de bilim ve teknolojinin evrensel dili olan
+İngilizcede akıcı olan bir 'teknoloji meraklısı' seçkinin tek alanı olmuştur. Bilgisayarlar, ASCII'ye çevrilemeyen
+yazı sistemlerini işlemek için asla tasarlanmamıştır. Başlangıçta keskin aksanları ve umlautları bile tanıyamayan bir kodlama sisteminde, İngilizce alfabesinin 26 harfinden başka bir şeye pek yer yoktu -- Çince gibi alfabetik olmayan sistemlerden bahsetmiyorum bile. Ancak gelenek tersine döndü. Teknoloji popülerleşti. Windows ve Macintosh gibi GUI'ler (grafiksel kullanıcı arayüzleri) süreci hızlandırdı (ve aslında Microsoft'un pazarlama stratejisinin, bilgisayarları ortalama bir kişi için kullanımı kolaylaştırmak için işletim sistemlerini kullanmak olduğu bir sır değil). Günümüzde bu kullanım kolaylığı PC'nin ötesine, internetin sanal, ağ alanına yayıldı, böylece artık programcı olmayanlar bile tek bir satır kod anlamadan web sayfalarına Java uygulamaları ekleyebiliyor. 2. <Büyük endüstri oyuncuları tarafından 'küresel pazarın' bir parçası için rekabet.> (Yerel) popülerleşmenin bir uzantısı, bilgi teknolojisinin
+dünya çapında ihraç edilmesidir. Popülerleşme artık
+küresel ölçekte gerçekleşti ve İngilizce artık kullanıcının lingua francası değil. Belki de gerçek bir lingua franca yoktur,
+sadece kullanıcıların bireysel dilleri vardır. Kesin olan bir şey var -- artık bir bilgisayarı kullanmak için İngilizceyi anlamak gerekmiyor,
+veya bilgisayar biliminde bir dereceye sahip olmak gerekmiyor. İngilizce konuşmayan bilgisayar kullanıcılarının çekilmesi ve
+küresel pazarlar için rekabet eden teknoloji şirketlerinin itmesi, yerelleştirmeyi yazılım ve donanım geliştirmede
+hızlı büyüyen bir alan haline getirdi. Bu gelişme olabileceği kadar hızlı olmadı. İlk adım, ASCII'nin
+Genişletilmiş ASCII olmasıydı. Bu, bilgisayarların çoğunlukla Avrupa dilleri tarafından kullanılan
+İngilizce alfabesinin varyantlarında kullanılan aksanları ve sembolleri tanımaya başlayabileceği anlamına geliyordu. Ancak bir sayfada aynı anda yalnızca bir dil görüntülenebiliyordu.
+
+3. <Teknolojik gelişmeler.> En son gelişme
+Unicode'dur. Hala gelişmekte ve en son yazılıma yeni dahil edilmiş olsa da, bu yeni kodlama sistemi her karakteri
+16 bayta çevirir. 8 baytlık Genişletilmiş ASCII yalnızca en fazla 256 karakteri işleyebilirken, Unicode 65.000'den fazla benzersiz karakteri işleyebilir ve bu nedenle potansiyel olarak bilgisayardaki tüm
+yazı sistemlerini barındırabilir. Yani artık araçlar az çok
+yerinde. Hala mükemmel değiller, ancak sonunda en azından Çince, Japonca, Korece ve Batı alfabesini kullanmayan diğer birçok dilde web'de gezinebiliyoruz. İnternet, İngilizcenin nadiren kullanıldığı dünyanın bazı bölgelerine yayıldıkça -- örneğin Çin gibi, Çincenin ve İngilizcenin değil -- onunla etkileşim kurmak için tercih edilen seçenek olması doğaldır. Çin'deki kullanıcıların çoğunluğu için, ana dilleri tek seçenek olacaktır. Elbette bir geçiş süreci vardır. Web'deki teknik terminolojinin çoğu hala diğer dillere çevrilmemiştir. Ve Çok Dilli İnternet Terminolojisi Sözlüğümüzde -- NetGlos olarak bilinir -- gördüğümüz gibi, bu terimlerin çevirisi her zaman basit bir süreç değildir. Yeni bir terim 'doğru' olarak kabul edilmeden önce, bir dizi rakip adayın kullanıldığı bir istikrarsızlık dönemi vardır. Genellikle İngilizce bir ödünç kelime başlangıç ​​noktası olur -- ve birçok durumda bitiş noktası olur. Ancak sonunda, yayınlanmış teknik sözlüklere ve teknik olmayan kullanıcının günlük etkileşimlerine kodlanan bir kazanan ortaya çıkar. NetGlos'un en son sürümü Rusça'dır ve birkaç hafta içinde [Eylül 1998'in sonunda] kullanılabilir hale gelmesi gerekir. Şüphesiz ki bu, web terminolojisinin 'Ruslaştırılması' sürecinin devam eden, dinamik bir örneği olacaktır.
+
+4. <Dilsel demokrasi.> 'Ana dilde eğitim' UNESCO'nun 50'li yılların başındaki raporuna göre dünyadaki her çocuk için bir insan hakkı olarak kabul edilirken, 'ana dilde gezinme' Bilgi Çağı'nın eşdeğeri olabilir. İnternet gerçekten de tanıtıldığı gibi Küresel Ağ olacaksa, dil geçmişine bakılmaksızın tüm kullanıcılar buna erişebilmelidir. İnterneti, tarihsel bir kaza, pratik zorunluluk veya politik ayrıcalık sonucu İngilizce bilenlerin koruması altında tutmak, bilmeyenlere karşı haksızlıktır. 
+5. <Elektronik ticaret.> Çok dilli bir web ahlaki ve etik gerekçelerle arzu edilebilir olsa da, bu tür yüksek idealler onu küçük ölçekte bir gerçeklikten başka bir şey haline getirmek için yeterli değildir. İngilizce konuşmayanların gidebilmesi için uygun teknolojinin mevcut olmasının yanı sıra, çok dilliliği siber uzay için en doğal yol haline getirebilecek büyük bir güç olarak 'elektronik ticaretin' etkisi vardır. İnternetin gelişmekte olduğu sanal küresel pazaryerindeki ürün ve hizmet satıcıları, fiziksel dünya kadar çok dilli bir sanal dünyayla başa çıkmaya hazır olmalıdır. Başarılı olmak istiyorlarsa, müşterilerinin dillerini konuştuklarından emin olmalılar!"
+
+Ya WorldWide Language Institute'un geleceği? "Dillere verilen önemden varlığını alan bir şirket olarak, geleceğin heyecan verici ve zorlu olacağına inanıyorum. Ancak başarılarımız ve başardıklarımız konusunda rehavete kapılmak imkansız olacak. Teknoloji zaten çılgın bir hızla değişiyor.
+Ömür boyu öğrenme, önde kalmak ve rekabetçi olmak istiyorsak hepimizin kullanması gereken bir stratejidir. Bu, İngilizce konuşulan bir ortamda yeterince zor bir görevdir. Çok dilli/çok kültürlü bir siber alanda etkileşimin karmaşıklıklarını eklersek, görev daha da zorlayıcı hale gelir. Rekabetin yanı sıra, belki de her zamankinden daha fazla işbirliğine ihtiyaç vardır. İnternet genelindeki işbirliğinin tohumları kesinlikle
+ekilmiştir. NetGlos Projemiz Kanada, ABD, Avusturya, Norveç, Belçika, İsrail, Portekiz, Rusya, Yunanistan, Brezilya, Yeni Zelanda ve diğer ülkelerden gelen gönüllü çevirmenlerin iyi niyetine dayanıyordu. NetGlos sayfalarına her gün gelen yüzlerce ziyaretçinin bu tür çalışma ilişkilerinin başarısının mükemmel bir kanıtı olduğunu düşünüyorum. Geleceğin daha çok 
+işbirlikçi ilişkilere bağlı olduğunu görüyorum -- her ne kadar gönüllülük esasına dayanmasa da."
+
+= Logos
+
+Logos, merkezi İtalya'nın Modena kentinde bulunan küresel bir çeviri şirketidir. 1997'de Logos'un Modena'da 200 şirket içi çevirmeni ve dünya çapında günde yaklaşık 200 metin işleyen 2.500 serbest çevirmeni vardı. Şirket cesur bir hamle yaptı ve çevirmenlerinin kullandığı dil araçlarını internet topluluğunun da özgürce kullanabilmesi için web'e koymaya karar verdi. Dil araçları, 7 milyar kelimelik çok dilli bir sözlük olan Logos Sözlüğü (1998 sonbaharında); çevrilmiş romanlardan, teknik kılavuzlardan ve diğer metinlerden çıkarılan 300 milyar kelimelik çok dilli bir kütüphane olan Logos Wordtheque; 500 sözlükten oluşan bir veritabanı olan Logos Dil Kaynakları; ve 17
+dil.
+
+Aralık 1997'de Fransız günlük gazetesi Le
+Monde için Annie Kahn tarafından röportaj yapıldığında, Logos'un başkanı Rodrigo Vergara şöyle açıkladı: "Tüm
+çevirmenlerimizin aynı
+çeviri araçlarına erişmesini istedik. Bu yüzden
+bunları internette kullanıma sunduk ve bunu yaparken
+siteyi halka açık hale getirmeye karar verdik. Bu bizi son derece popüler hale getirdi ve
+ayrıca bize çok fazla görünürlük kazandırdı. Bu hamle aslında birçok
+müşteri çekti ve ayrıca girişimin ardından yapılan bağlantılar sayesinde
+çevirmen ağımızı genişletmemize olanak sağladı."
+
+Aynı makalede, "Les mots pour le dire" (Anlatılacak Sözcükler),
+Annie Kahn şunları yazdı: "Logos sitesi, basit bir sözlükten veya diğer çevrimiçi sözlüklere bağlantılar koleksiyonundan çok daha fazlasıdır. Temel taşı,
+web'de ücretsiz olarak bulunan edebi metinlerden oluşan bir külliyatı işleyen belge arama programıdır. Bir kelimenin tanımını veya çevirisini (örneğin 'didactique' [didactic]) ararsanız, yalnızca aranan cevabı değil, aynı zamanda kelimeyi içeren edebi eserlerden birinden bir alıntıyı da alırsınız (bizim durumumuzda Voltaire'in bir denemesi). Tek yapmanız gereken, tüm metne erişmek veya kitabı sipariş etmek için fareye tıklamaktır, hatta ünlü çevrimiçi kitapçı Amazon.com ile yapılan bir ortaklık anlaşması sayesinde yabancı çeviriler de dahil. Ancak, istenen kelimeyi içeren bir metin bulunamazsa, program bir arama motoru gibi davranarak kullanıcıyı bu kelimeyi içeren diğer web kaynaklarına gönderir. Belirli kelimeler söz konusu olduğunda, telaffuzunu bile duyabilirsiniz. Şu anda mevcut bir çeviri yoksa, sistem halkı katkıda bulunmaya çağırır. Herkes önerilerde bulunabilir, ardından Logos çevirmenleri aldıkları önerilen çevirileri kontrol eder."
+
+ÇEVRİMİÇİ DİL SÖZLÜKLERİ
+
+= [Alıntı]
+
+WordReference.com, 1999 yılında Michael Kellogg tarafından oluşturuldu ve projesinin web sitesinde şunları yazdı: "Bu siteyi 1999 yılında, dünyaya internette ücretsiz olarak iki dilli sözlükler ve araçlar sağlamak amacıyla başlattım. Site o zamandan beri giderek büyüyerek en çok kullanılan çevrimiçi sözlüklerden biri ve İngilizce-İspanyolca, İngilizce-Fransızca, İngilizce-İtalyanca, İspanyolca-Fransızca ve İspanyolca-Portekizce dil çiftleri için en iyi çevrimiçi sözlük haline geldi. Bugün, sözlükleri, araçlarını ve dil forumlarını iyileştirmeye devam etmekten mutluluk duyuyorum. Siteyi daha da kullanışlı hale getirmek için yeni özellikler oluşturmaktan gerçekten keyif alıyorum."
+
+= Basılı sürümlerden
+
+İlk çevrimiçi dil sözlükleri,
+1990'ların ortalarında başlatılan web siteleriyle
+basılı sürümlerden kaynaklanmıştır.
+
+"Merriam-Webster Online: The Language Center" web sitesinde, İngilizce sözlüklerin ana yayıncısı olan Merriam-Webster, basılı yayınlarından kaynaklanan çevrimiçi kaynaklara ücretsiz erişim sağlamıştır.
+Çevrimiçi kaynaklar şunlardır: Webster Dictionary, Webster Thesaurus, Webster's
+Third (bir sözcüksel dönüm noktası), Guide to International Business
+Communications, Vocabulary Builder (etkileşimli kelime bilgisi
+sınavlarıyla) ve Barnhart Dictionary Companion (yeni popüler kelimeler).
+Ayrıca amaç,
+tanımları, yazım biçimlerini,
+telaffuzları, eşanlamlıları, kelime bilgisi alıştırmalarını ve kelimeler ve dil hakkında diğer önemli gerçekleri
+bulmaya yardımcı olmaktı.
+
+"Dictionnaire Francophone en Ligne", "Dictionnaire Hachette, önemli bir Fransız yayıncı ve Frankofoni Üniversitesi Ajansı (AUF:
+Agence Universitaire de la Francophonie, ayrıca AUPELF-UREF olarak da bilinir) tarafından yayınlanan "Evrensel Frankofon".
+Sözlük yalnızca standart Fransızcayı değil, aynı zamanda dünya çapında kullanılan Fransızca sözcükleri ve ifadeleri de içeriyordu. Fransızca, birçoğu Afrika'da olmak üzere 49 devletin resmi dilidir ve dünya çapında 500 milyon kişi tarafından konuşulmaktadır. AUF'yi de içeren Fransızca Konuşan Ülkeler Ajansı (Agence de la Francophonie), 1970 yılında uluslararası düzeyde çok taraflı bir işbirliği aracı olarak kurulmuştur. Bir yan not olarak, İngilizce ve Fransızca beş kıtada yaygın olarak
+yayılmış olan tek resmi ve/veya kültürel dillerdir.
+
+= Sözlük dizinleri
+
+Sözlük dizinleri de yararlı olmuştur, örneğin
+"Dictionnaires Electroniques" (Elektronik Sözlükler), İsviçre Federal İdaresi'nin Merkezi Dil Hizmetleri'nin Fransız Bölümü tarafından tutulan elektronik sözlüklerin çevrimiçi kataloğu (SLC-f:
+Section Francaise des Services Linguistiques Centraux). Katalog beş ana bölümden oluşuyordu: kısaltmalar ve akronimler, tek dilli sözlükler, iki dilli sözlükler, çok dilli sözlükler ve coğrafi bilgiler. Katalogda ayrıca
+anahtar sözcüklerle arama yapılabiliyordu.
+
+Marcel Grangier, Merkezi Dil Hizmetleri'nin Fransız Bölümü'nün başkanıydı, yani İsviçre hükümetinin dil hizmetleri için Fransızcaya çeviri konularını organize etmekten sorumluydu. Ocak 1999'da şunları yazdı: "Web sitemiz ilk olarak İsviçre'deki çevirmenler için bir intranet hizmeti olarak tasarlandı. Çevirmenler genellikle Federal hükümetin çevirmenleriyle aynı tür materyallerle ilgilenir. Bazı bölümleri, nerede olurlarsa olsunlar, tüm çevirmenler için faydalıdır. "Dictionnaires Electroniques" bölümü web sitesinin yalnızca bir bölümüdür. Diğer bölümler yönetim, hukuk, Fransızca ve genel bilgilerle ilgilidir. Site ayrıca Avrupa Devletleri Çeviri Hizmetleri Konferansı'nın (COTSOES) sayfalarını da barındırır.
+(...) İnternet olmadan çalışmak artık imkansız. Kullanılan tüm araçların (e-posta, elektronik basın, çevirmenlere yönelik hizmetler) yanı sıra, internet bizim için web'in 'yapılandırılmamış sektörü' olarak adlandırdığım alanda hayati ve sonsuz bir bilgi kaynağıdır.
+Örneğin, bir çeviri sorununun cevabı, bilgileri düzenli bir şekilde sunan web sitelerinde bulunamadığında, çoğu durumda arama motorları, Ağın bir yerindeki eksik halka."
+
+Peki ya gelecek? "İnternette çok dilliliği mutlu ve geri döndürülemez bir
+kaçınılmazlık olarak görebiliriz. Bu yüzden sadece İngilizcenin üstünlüğünden
+şikayet eden
+felaket tellallarına gülmek zorundayız. Böyle bir
+üstünlük kendi başına yanlış değildir, çünkü esas olarak
+istatistiklere dayanmaktadır (kişi başına daha fazla PC, daha fazla insan İngilizce konuşuyor,
+vb.). Cevap 'İngilizceyle savaşmak' değil, bundan sızlanmaktan çok daha fazlası,
+diğer dillerde daha fazla site oluşturmaktır. Bir çeviri hizmeti olarak,
+web sitelerinin çok dilli olmasını da öneriyoruz. (...) İnternetteki artan dil sayısı kaçınılmazdır ve yalnızca çok kültürlü alışverişleri artırabilir. Bunun mümkün olan en iyi
+koşullarda gerçekleşmesi için, uyumluluğu iyileştirmek için araçlar geliştirmemiz gerekiyor.
+Aksanlarla ve diğer karakterlerle tam olarak başa çıkmak,
+yapılabileceklerin sadece bir örneğidir."
+
+"Dictionnaires Electroniques" bölümü daha sonra COTSOES kendi web sitesini başlattığında
+Avrupa Devletleri Çeviri Hizmetleri Konferansı'nın
+(COTSOES) web sitesine taşındı.
+
+= yourDictionary.com portalı
+
+Lewisburg,
+Pennsylvania'daki Bucknell Üniversitesi'nde dil öğretmeni olan Robert Beard, 1995'te "Çevrimiçi Sözlükler Ağı" (WOD) web sitesini oluşturdu. Eylül 1998'de web sitesi 150 dilde 800 çevrimiçi sözlüğün yanı sıra çok dilli sözlükler, uzmanlaşmış İngilizce sözlükleri, eş anlamlılar sözlüğü
+ve diğer kelime yardımcıları, dil tanımlayıcıları ve tahmin edicileri, sözlük dizinleri
+dizini, Çevrimiçi Dilbilgisi Ağı'nı ve Dil Eğlencesi Ağı'nı (yani uzman olmayanlar için dilbilim) içeren belirli bölümler içeriyordu.
+
+Robert Beard Eylül 1998'de şunları yazdı: "İlk başta web'in web'deki çok dilliliğe bir tehdit oluşturduğuna dair bir korku vardı, çünkü HTML ve diğer programlama dilleri İngilizce'ye dayanıyor ve İngilizce'de diğer dillerden daha fazla web sitesi var. Ancak, web sitelerim çok dilliliğin hala canlı olduğunu ve web'in aslında birçok tehlike altındaki dili korumak için bir araç olarak hizmet edebileceğini gösteriyor. Şu anda 150 dilde sözlüklere ve 65 dilde dilbilgisine bağlantılar var. Dahası, tarayıcı geliştiricilerinin dünyanın farklı dillerine gösterdiği yeni ilgi, farklı dillerde daha fazla web sitesi yapılmasını teşvik edecektir."
+
+Birkaç ay sonra, Robert Beard daha büyük bir proje olan 
+yourDictionary.com'u kurdu. Bu proje önceki web sitesini içeriyordu ve Şubat 2000'de başlatıldı. Ocak 2000'de şunları yazdı: "Yeni web sitesi 200'den fazla dilde 1.200'den fazla sözlüğün bir
+indeksidir. Yeni web sitesi WOD'un yanı sıra bir günlük kelime özelliği, kelime oyunları, bir
+dil sohbet odası, eski 'Çevrimiçi Dilbilgisi Web'i (artık ek dil kaynakları içerecek şekilde genişletilmiştir), 'Dil Eğlencesi Web'i, çok dilli sözlükler; özel İngilizce sözlükleri; eş anlamlılar sözlüğü
+ve diğer kelime yardımcıları; dil tanımlayıcıları ve tahmin edicileri ve diğer
+özellikler; sözlük dizinleri içerir. yourDictionary. com'un
+web'deki en büyük dil
+kaynak sitesi ve
+birinci sınıf dil portalı olması umulmaktadır. Şu anda özellikle tehlike altındaki dillere odaklanarak tüm dillerin sözlüklerini ve dilbilgilerini aktif olarak edinmektedir. Dünyanın dört bir yanından dilbilim uzmanlarından oluşan mavi kurdeleli bir panel tarafından denetlenmektedir. (...) Gerçekten de yourDictionary.com'un birçok yeni fikri var. Vakfın çalışmaları için para toplamak ve sonuçları sitemizde yayınlamak için ABD ve İngiltere'deki Tehlike Altındaki Diller Fonu ile çalışmayı planlıyoruz. Dil sohbet odalarımız ve ilan panolarımız olacak. Eğlendirmek ve dilbilimin temellerini öğretmek için tasarlanmış dil oyunları olacak. Linguistic Fun sayfası, dünyanın dört bir yanından uzmanların sağlam dilbilimine dayanan dil üzerine kısa, ilgi çekici, evet, hatta eğlenceli parçalar için çevrimiçi bir dergi olacak."
+
+Peki ya web'in geleceği? "Web, dünyanın dünya tarafından dünya için bir ansiklopedisi olacak. Kimsenin ihtiyaç duyduğu ve erişilemeyen hiçbir bilgi veya bilgi
+olmayacak. Uluslararası ve kişilerarası anlayışa, kişisel ve kurumsal gelişime yönelik en büyük engel ortadan kaldırılacak. Bu gelişmenin insanlık doğası üzerindeki etkisini tahmin etmek için benimkinden daha çılgın bir hayal gücü gerekir."
+
+= Terminolojik veritabanları
+
+Bazı terminolojik veritabanları, kendi uzmanlık alanlarındaki uluslararası kuruluşlar tarafından işletilmektedir ve ücretsiz çevrimiçi sürümleri vardır, örneğin
+Uluslararası Çalışma Örgütü (ILO) tarafından yönetilen
+ILOTERM,
+Uluslararası Telekomünikasyon Birliği (ITU) tarafından yönetilen
+TERMITE (ITU Telekomünikasyon Terminoloji Veritabanı),
+Dünya Sağlık Örgütü (WHO) tarafından yönetilen WHOTERM (WHO Terminoloji Bilgi Sistemi)
+ve
+Avrupa Komisyonu tarafından yönetilen Eurodicautom.
+
+ILOTERM, İsviçre, Cenevre'deki Uluslararası Çalışma Ofisi'nin (ILO) Resmi Belgeler Şubesi'nin (OFFDOC) Terminoloji ve Referans Birimi tarafından yönetilen dört dilli (İngilizce, Fransızca, Almanca, İspanyolca) bir terminoloji veritabanıdır.
+Web sitesinde açıklandığı gibi,
+ILOTERM'in temel amacı, terminolojik sorunlara güncel kullanımı yansıtan çözümler sunmaktır sosyal ve çalışma alanlarında. Terimler
+Fransızca, İspanyolca ve Almanca karşılıklarıyla İngilizce olarak girilir. Veritabanı ayrıca ILO yapısı ve programları, uluslararası kurumların, ulusal kuruluşların ve işveren ve işçi örgütlerinin resmi adları ve uluslararası toplantıların başlıklarını da içerir.
+
+TERMITE (Telekomünikasyon Terminolojisi Veritabanı anlamına gelir) İsviçre Cenevre'deki Uluslararası Telekomünikasyon Birliği'nin (ITU) Konferans Departmanı Terminoloji, Referanslar ve Çeviriye Bilgisayar Yardımları Bölümü tarafından tutulur. 1980'den beri tüm ITU basılı sözlüklerinin içeriği üzerine inşa edilmiş dört dilli (İngilizce, Fransızca, İspanyolca, Rusça) bir terminolojik
+veritabanıdır ve son girdilerle güncellenir.
+
+WHOTERM (WHO Terminoloji Bilgi Sistemi anlamına gelir) İsviçre Cenevre'deki Dünya Sağlık Örgütü (WHO) tarafından tutulur. Şunları içerir: (a) WHO Genel Sözlük Dizini (İngilizce, Fransızca ve İspanyolca karşılıklarıyla); (b) İngilizce üç sözlük: Herkes İçin Sağlık, Program Geliştirme ve Yönetimi ve
+Sağlık Tanıtımı; (c) WHO TermWatch, Teknik Terminoloji'den bir farkındalık hizmeti, mevcut WHO kullanımını yansıtır, ancak WHO tarafından
+resmi olarak onaylanmış terimler olmayabilir ve sağlıkla ilgili terminolojiye bağlantılar.
+
+Avrupa Komisyonu Tercüme Servisi tarafından tutulan çok dilli bir terminoloji veritabanı olan Eurodicautom, başlangıçta şirket içi
+tercümanlara yardımcı olmak için
+geliştirildi. Ücretsiz çevrimiçi sürüm, Avrupa Birliği yetkilileri ve dünya genelindeki dil uzmanları tarafından
+kullanıldı. İçeriği, Avrupa Birliği'nin on bir resmi dilinde (Danca, Felemenkçe, İngilizce, Fince, Fransızca, Almanca, Yunanca, İtalyanca, Portekizce, İspanyolca, İsveççe) ve ayrıca Latince'de mevcuttu. Eurodicautom, esas olarak Avrupa Birliği'ndeki ekonomi, bilim, teknoloji ve mevzuatla ilgili olan "geniş bir insan bilgisi yelpazesini" kapsıyordu. 2003'ün sonlarında, web sitesi mevcut veritabanının, diğer resmi Avrupa kurumlarından veritabanlarını da içerecek daha büyük bir terminolojik veritabanına dahil edileceğini duyurdu. Yeni terminolojik veritabanı 20'den fazla dilde mevcut olacaktı, çünkü yakın gelecekte bir dizi Doğu Avrupa ülkesinin Avrupa Birliği'ne katılması bekleniyordu, bu nedenle on bir orijinalden daha fazla dile ihtiyaç duyuluyordu. Avrupa Birliği, Mayıs 2004'te 15 ülke üyesinden 25 ülke üyesine ve Ocak 2007'de 27 ülke üyesine geçti. IATE'nin (Avrupa için Etkileşimli Terminoloji) web sitesi, 24 dilde 1,4 milyon girişle, web üzerinde merakla beklenen ücretsiz bir hizmet olarak Mart 2007'de başlatıldı. = Wikipedia
+
+Vikipedi, Ocak 2001'de Jimmy Wales ve Larry Sanger tarafından başlatıldı
+(Larry daha sonra istifa etti). Bağışlarla finanse edilen ve reklam içermeyen, internetteki en büyük referans web sitesi haline geldi. Çok dilli içeriği ücretsizdir ve dünyanın dört bir yanından insanlar tarafından, takma adla katkıda bulunarak
+işbirliğiyle yazılmıştır.
+Web sitesi bir wiki'dir, yani herkes ansiklopedi boyunca bilgileri düzenleyebilir, düzeltebilir ve
+geliştirebilir. Makaleler yazarlarının mülkiyetinde kalır ve GFDL'ye (GNU Özgür Belgeleme Lisansı) göre serbestçe kullanılabilir.
+
+Wikipedia'da Aralık 2004'te 100 dilde 1,3 milyon madde (13.000 katılımcı tarafından), Aralık 2006'da 250 dilde 6 milyon madde ve Mayıs 2007'de 192 dilde 7 milyon madde vardı. Bunlara 1,8 milyon İngilizce madde, 589.000 Almanca madde, 500.000 Fransızca madde, 260.000 Portekizce madde ve 236.000 İspanyolca madde dahildir. Ağustos 2009'da Wikipedia, ayda toplam 330 milyon ziyaretçiyle dünyanın en iyi beş web sitesi arasındaydı.
+
+Wikipedia, Haziran 2003'te kurulan Wikimedia Vakfı tarafından barındırılmaktadır.
+Vikisözlük'ten başlayarak bir dizi başka proje yürüten
+(Aralık 2002'de piyasaya sürüldü) ve Vikikitap'lar (Haziran 2003'te piyasaya sürüldü),
+ardından Wikiquote, Wikisource (kamu malı metinler), Wikimedia
+Commons (multimedya), Wikispecies (hayvanlar ve bitkiler), Vikihaber,
+Wikiversity (ders kitapları) ve Wiki Arama (arama motoru).
+
+
+
+ÇEVRİMİÇİ DİL ÖĞRENİMİ
+
+= [Alıntı]
+
+Lewisburg, Pennsylvania'daki Bucknell Üniversitesi'nde dil öğretmeni olan Robert Beard, Eylül 1998'de şunları yazdı: "Bir dil öğretmeni olarak, web
+hedef kültür tarafından üretilen yeni kaynakların bolluğunu, ders verme (etkileşimli Java ve Shockwave alıştırmaları) ve test etme için yeni araçları temsil eder ve bunlar öğrencilere zamanları veya ilgileri olduğunda her zaman, günde 24 saat, haftada 7 gün kullanılabilir. Ayrıca, meslektaşlarım ve benim için neredeyse sınırsız bir yayın çıkış noktasıdır, kurumumdan bahsetmiyorum bile. (...) Sonuç olarak, ders notları, alıştırmalar, tartışma ve kredi testleri, notlandırma
+ve etkileşimli alıştırmalar dahil olmak üzere tüm ders materyalleri, henüz hayal bile etmediğimiz kavramları iletmede çok daha etkili olacaktır."
+
+= CTI Modern Diller Merkezi
+
+1989'daki kuruluşundan bu yana, Birleşik Krallık'taki Hull Üniversitesi Dil Enstitüsü'nde bulunan CTI (Bilgisayar Öğretim Girişimi) Modern Diller Merkezi,
+bilgisayarların dil öğrenimi ve öğretiminde kullanımını teşvik etmeyi ve desteklemeyi amaçlamaktadır. CTI Merkezi,
+bilgisayar destekli dil öğreniminin (CALL)
+mevcut derslere nasıl etkili bir şekilde entegre edilebileceği hakkında bilgi sağlar.
+
+Öğretimlerinde bilgisayar kullanan veya kullanmak isteyen dil öğretim görevlilerine destek sunar.
+
+CTI Merkezi müdürü June Thompson, Aralık 1998'de şunları yazdı: "İnternet, yabancı dillerin kullanımını artırma potansiyeline sahiptir ve kuruluşumuz kesinlikle internetin dili olarak İngilizcenin hakimiyetine yönelik herhangi bir eğilime karşı çıkmıştır. İnternetin kullanımı, dil öğretmenlerinin öğretimde teknolojiyi kullanmalarını destekleme çalışmalarımıza muazzam bir yeni boyut kazandırdı."
+
+Ya gelecek? "Bir süre daha, diller için internetle ilgili faaliyetlerin kullanımının diğer teknolojiyle ilgili faaliyetlerle birlikte (örneğin CD-ROM kullanımı --
+tüm kurumlarda yeterli ağ donanımı yoktur) gelişmeye devam edeceğinden şüpheleniyorum. Gelecekte internet kullanımının çok daha büyük bir rol oynayacağını öngörebiliyorum, ancak yalnızca bu tür faaliyetler pedagoji odaklıysa. Kuruluşumuz, bu konulara kendini adamış olan WELL projesiyle yakından ilişkilidir."
+
+WELL (Web Geliştirilmiş Dil Öğrenimi) projesi, EUROCALL'un (Avrupa Bilgisayar Destekli Dil Öğrenimi Derneği) bir projesiydi. 1997'den 2000'e kadar Birleşik Krallık'ta 12 dilde yüksek kaliteli web kaynaklarına erişim sağlamak için yürütüldü. Kaynaklar, konu uzmanları tarafından seçilip tanımlandı ve bunların öğretim ve öğrenim için nasıl kullanılacağına dair bilgiler ve örnekler verildi.
+
+Daha genel olarak, EUROCALL'un hedefi, Avrupa'da yabancı dillerin kullanımını teşvik etmek, dil öğrenimi için teknolojinin kullanımının tüm yönlerine Avrupa odaklı bir yaklaşım sağlamak ve CALL materyallerinin kalitesini, dağıtımını ve verimliliğini artırmaktır. EUROCALL'un bir diğer projesi ise, bu alanda bilgisayar kullanmakla ilgilenen bir grup araştırmacı ve uygulayıcı tarafından yürütülen CAPITAL'dir (Bilgisayar Destekli Telaffuz Araştırma Öğretimi ve Öğrenimi).
+
+= LINGUIST Listesi
+
+LINGUIST Listesi, 1990 yılında Anthony Rodriques Aristar tarafından Batı Avustralya Üniversitesi'nde kuruldu ve 1991 yılında Avustralya'dan Teksas A&M Üniversitesi'ne taşındı. 1997 yılında, dağıtım listesine gönderilen e-postalar, listenin kendi web sitesinde şu bölümlerde mevcuttu: meslek (konferanslar, dil dernekleri, programlar), araştırma ve araştırma desteği (makaleler, tez özetleri, projeler, bibliyografiler, konular, metinler), yayınlar, pedagoji, dil kaynakları (diller, dil aileleri, sözlükler, bölgesel bilgiler) ve bilgisayar desteği (yazı tipleri ve yazılımlar). LINGUIST Listesi, dilbilim için WWW Sanal Kütüphanesi'nin bir bileşenidir.
+
+LINGUIST List'in moderatörü Helen Dry, Ağustos 1998'de şunları yazdı: "Benim moderatörlüğünü yaptığım LINGUIST List, dilbilimciler için bir liste olduğu için herhangi bir dilde gönderi yapma politikasına sahiptir. Ancak, editör kadromuza ek mesajların bindirdiği yük nedeniyle aynı mesajı birkaç dilde göndermeyi önermiyoruz. (Biz geri dönen bir liste değiliz, moderatörlü bir listeyiz. Bu nedenle her mesaj, gönderilmeden önce öğrenci editörlerimiz tarafından benzer mesajların olduğu bir sayıya düzenlenir.) Deneyimlerimize göre neredeyse herkes İngilizce gönderi yapmayı tercih ediyor. Ancak sayfalarımızı beş dilden herhangi birinde sunacak bir çeviri tesisine bağlantı veriyoruz; bu nedenle bir abonenin LINGUIST'i istemediği sürece İngilizce okuması gerekmiyor. Ayrıca, okuyucuların bizimle İngilizce dışındaki dillerde yazışabilmesi için en azından bir öğrenci editörümüzün gerçekten çok dilli olmasını sağlamaya çalışıyoruz." Temmuz 1999'da şunları ekledi: "Bazı birincil verileri toplamaya başlıyoruz.
+Örneğin, dilbilimle ilgili tez özetlerinin, lisans ve lisansüstü dilbilim programları hakkında bilgilerin ve bireysel dilbilimcilerle ilgili mesleki bilgilerin aranabilir veritabanlarımız var. Tez özetleri koleksiyonu, bildiğim kadarıyla,
+var olan tek özgürce erişilebilir elektronik derlemedir."
+
+İNTERNETTEKİ AZINLIK DİLLERİ
+
+= [Alıntı]
+
+Caoimhin O Donnaile, İskoçya'daki Skye Adası'ndaki Sabhal Mor Ostaig Enstitüsü'nde Galce dili aracılığıyla bilgisayar dersleri verdi. Ayrıca, İskoç Galcesi hakkında bilgi içeren dünya çapındaki ana site olan iki dilli (İngilizce, Galce) kolej web sitesini de yönetti. Mayıs 2001'de şunları yazdı: "Öğrenciler her şeyi bilgisayarla yapıyor, Galce yazım denetimini, bir Galce çevrimiçi terminoloji
+veritabanını kullanıyor. Web sitemizde daha fazla hit var.
+Ses daha fazla kullanılıyor. Gal radyosu (hem İskoç hem de İrlanda) artık internet üzerinden dünya çapında sürekli olarak mevcut. Önemli bir proje, Opera web tarayıcısının Galce'ye çevrilmesiydi -- Galce'de bu boyuttaki ilk yazılımdı."
+
+= The Ethnologue
+
+SIL International tarafından yayınlanan (SIL başlangıçta Yaz Dilbilim Enstitüsü olarak biliniyordu), "The Ethnologue: Languages ​​of the World", dünyanın bilinen 6.909
+yaşayan dilini kataloglayan ansiklopedik bir referans çalışmasıdır. 16. baskı 2009'da basılı olarak ve web'de yayınlandı. The Ethnologue elli yıldan uzun süredir aktif bir araştırma projesidir. Binlerce dilbilimci, Ethnologue'a dünya çapında katkıda bulunmuştur. Yaklaşık her dört yılda bir yeni bir baskı yayınlanmaktadır.
+
+The Ethnologue, 1951'de Richard Pittman tarafından kurulmuştur. Pittman, SIL International'daki meslektaşları ve diğer dil araştırmacılarıyla dünya çapında dil gelişimi ihtiyaçları hakkında bilgi paylaşma arzusuyla motive olmuştur. Richard Pittman, 1. ila 7. baskıların (1951-1969) editörüydü.
+
+Barbara Grimes, 8. ila 14. baskıların (1971-2000) editörüydü.
+Ocak 2000'de şunları yazdı: "Dünya dillerinin bir kataloğudur, nerede konuşuldukları, konuşanların sayısının tahmini, hangi dil ailesinde oldukları, alternatif isimler, lehçelerin isimleri, diğer sosyo-linguistik ve demografik bilgiler, yayınlanmış İncillerin tarihleri, bir isim dizini, bir dil ailesi dizini ve dil haritaları." 1971'de, bilgiler öncelikle azınlık dillerinden dünyanın bilinen tüm dillerini kapsayacak şekilde genişletildi.
+1967 ile 1973 arasında, Afrika, Amerika, Pasifik ve Asya'nın birkaç ülkesi hakkındaki bilgilerin derinlemesine bir revizyonunu tamamladı. Editörlük yaptığı yıllarda, tanımlanan dillerin sayısı
+4.493'ten 6.809'a çıktı. Her dil için kaydedilen bilgiler
+böylece yayınlanan çalışma üç katından fazla büyüdü.
+
+2000 yılında, Raymond Gordon Jr. Ethnologue'un üçüncü editörü oldu
+ve 15. baskıyı (2005) hazırladı. 15. baskının yayınlanmasından kısa bir süre sonra, Paul Lewis genel denetim ve araştırma politikasından sorumlu editör oldu. Operasyonlar ve veritabanı yönetiminden sorumlu yönetici editör olarak Conrad Hurd'u ve bölgesel ve dil ailesine odaklanmış araştırma editörlerinden oluşan bir ekibi yöneten kıdemli araştırma editörü olarak Raymond Gordon'ı atadı.
+
+Son baskısının (16. baskı, 2009) Giriş bölümünde, Ethnologue bir dili şöyle tanımlıyor: "Bir kişinin bir
+dili nasıl tanımlayacağı, o dili diğerlerinden farklı olarak tanımlamadaki amaçlarına bağlıdır. Bazıları tanımlarını tamamen dilsel temellere dayandırır. Diğerleri ise sosyal, kültürel veya politik faktörlerin de hesaba katılması gerektiğini kabul eder. Ek olarak,
+konuşanların kendilerinin de genellikle belirli bir dili kendilerine özgü kılan şeyle ilgili kendi bakış açıları vardır. Bunlar sıklıkla söz konusu dilin/dillerin dilsel özelliklerinden çok miras ve kimlik konularıyla ilgilidir."
+
+Giriş bölümünde açıklandığı gibi, veritabanının kuruluşundan bu yana bir özelliği, yayının kendisinde 10. baskıdan (1984) itibaren görülen üç harfli dil tanımlayıcıları sistemi olmuştur. "1998'de Uluslararası Standardizasyon Örgütü (ISO), üç harfli dil tanımlayıcıları için bir standart olan ISO 639-2'yi kabul etti. Standart, ISO 639-1'in (1988'de kabul edilen iki harfli dil tanımlayıcıları için daha önceki bir standart) ve ANSI Z39.53'ün (aynı zamanda MARC dil kodları olarak da bilinir, kütüphane topluluğu içinde geliştirilen ve 1987'de Amerikan Ulusal Standardı olarak kabul edilen bir dizi üç harfli tanımlayıcı) birleşmesine dayanmaktadır. ISO 639-2 standardı, 400'den az bireysel dil için tanımlayıcılara sahip olduğundan birçok amaç için yetersizdi. Böylece 2002'de ISO TC37/SC2, Ethnologue'da kullanılan kodların tamamını daha önceki ISO standardında kullanılan kodlarla uzlaştıracak yeni bir standart hazırlaması için SIL International'ı resmen davet etti. Ek olarak, Linguist List tarafından eski ve yapılandırılmış dilleri ele almak için geliştirilen kodlar dahil edilecekti. 2006'da abone olan ulusal standart kuruluşları tarafından resmen onaylanan ve 2007'de yayınlanan sonuç, yaklaşık 7.500 dili tanımlamak için standartlaştırılmış üç harfli kodlar sağlayan ISO 639-3 adlı bir standarttır (ISO 2007). SIL International, ISO 639-3 standart dil tanımlayıcıları envanteri için kayıt otoritesi olarak atandı ve değişiklikler ve güncellemeler için yıllık döngüyü yönetiyor. Ethnologue'un bu baskısı, ISO 639-3 dil tanımlayıcılarını kullanan ikinci baskıdır. On beşinci baskıda
+Taslak Uluslararası Standart statüsüne sahiptiler. Bu baskıda
+aslen kabul edilen standarda, ayrıca 2006
+serisi kabul edilen değişiklik taleplerine (Ağustos 2007'de yayımlandı) ve 2007
+serisi kabul edilen değişiklik taleplerine (Ocak 2008'de yayımlandı) dayanmaktadırlar. ISO 639-3 standardı ve ISO 639-3 envanterinde tanımlanan dillere ilişkin eklemeler, silmeler ve diğer değişiklikler talep etme prosedürleri hakkında bilgi ISO 639-3 web sitesinde bulunabilir: http://www.sil.org/iso639-3."
+
+= Deneyimler
+
+Caoimhin O Donnaile, İskoçya'daki Skye Adası'ndaki Sabhal Mor Ostaig Enstitüsü'nde - Galce dili aracılığıyla - bilgisayar dersleri vermiştir. Ayrıca, İskoç Galcesi hakkında bilgi içeren dünya çapındaki ana site olan iki dilli (İngilizce, Galce) kolej web sitesini ve azınlık dillerinin alfabetik sıraya ve dil ailesine göre bir listesi olan iki dilli Avrupa Azınlık Dilleri web sayfasını da korumuştur. Mayıs 2001'de şunları yazmıştır: "Kolejimizde bilgi teknolojisinin kullanımında büyük bir
+genişleme olmuştur. Çok daha fazla
+bilgisayar, daha fazla bilgisayar personeli, düz ekranlar. Öğrenciler her şeyi
+bilgisayarla yapıyor, Galce yazım denetimi ve Galce çevrimiçi terminoloji
+veri tabanını kullanıyor. Web sitemizde daha fazla hit var. Daha fazla
+ses kullanılıyor. Galce radyo (hem İskoç hem de İrlanda) artık internet üzerinden dünya çapında sürekli olarak mevcut. Büyük bir proje
+Opera web tarayıcısının Galce'ye çevrilmesiydi -- Galce'de bu boyuttaki ilk yazılım."
+
+İnternet ve tehlike altındaki diller hakkında ne düşünüyorsunuz? "Tehlike altındaki dillerin geleceğiyle ilgili olarak internetin her şeyi
+hızlandırdığını vurgulamak isterim. İnsanlar dilleri korumayı umursamıyorsa,
+internet ve beraberindeki küreselleşme onların
+sonunu büyük ölçüde hızlandıracaktır. İnsanlar bunları korumayı önemsiyorsa, internet
+muazzam bir yardım olacaktır."
+
+Guy Antoine, Haiti kültürü hakkında bir referans web sitesi olan Windows on Haiti'nin kurucusudur. Kasım 1999'da şunları yazmıştır: "Windows on Haiti'de,
+sitenin birincil dili İngilizce'dir, ancak kişi aynı şekilde 'Kreyol'da yürütülen
+canlı bir tartışma merkezi bulacaktır. Ayrıca, kişi
+Haiti ile ilgili belgeleri Fransızca, eski sömürge Kreolü'nde bulacaktır ve diğerlerini İspanyolca ve diğer dillerde yayınlamaya açığım. Herhangi bir çeviri sunmuyorum, ancak çok dillilik
+sitede canlı ve iyi durumda ve bunun web genelinde giderek norm haline geleceğini öngörüyorum."
+
+Guy Haziran 2001'de şunları ekledi: "Kreyol, Haiti'nin tek ulusal dilidir ve iki resmi dilinden biridir, diğeri Fransızcadır. Sekiz ila on milyon kişi tarafından
+konuşulduğu için Karayipler bağlamında neredeyse bir azınlık dili değildir. (...) Kreyol'un tanıtımını kişisel bir amaç olarak aldım, çünkü bu dil, tüm Haitilileri birleştiren en güçlü bağlardan biridir, buna rağmen küçük ama orantısız derecede etkili Haiti elitleri Kreyol'un yazımında standartlar benimsemeye ve bu dilde kitap ve resmi iletişimlerin yayınlanmasını desteklemeye karşı küçümseyici bir tavır sergilerler. Örneğin, yakın zamanda Haiti'nin Başkentinde iki haftalık bir kitap etkinliği düzenlendi ve 'Livres en Folie' ('Kitaplar için çılgın bir şölen') olarak tanıtıldı. Haitili yazarların yaklaşık 500 kitabı sergilendi ve bunların arasında belki 20 tanesi Kreyol'da yazılmıştı. Bu, Fransa'nın eski kolonileri arasında Frankofoni'yi kutlamak için yaptığı büyük çabanın bağlamında. Bu, Haiti'de oldukça iyi işliyor ancak doğrudan Kreolofoni pahasına. Bu tutumlara yanıt olarak, web sitem Windows on Haiti'de yalnızca Kreyol'da düzenlenen iki tartışma forumu oluşturdum. Biri hemen hemen her şey hakkında genel tartışmalar için ancak açıkça Haiti'nin mevcut sosyo-politik sorunlarına daha fazla odaklanıyor. Diğeri yalnızca Kreyol için yazım standartları tartışmalarına ayrılmıştır. Bu tartışmalar oldukça coşkuluydu ve çok sayıda dil uzmanının katılımıyla gerçekleşti. Bu forumların benzersizliği akademik olmayan yapılarıdır."
+
+yourDictionary.com portalının kurucu ortağı Robert Beard, Ocak 2000'de şunları yazdı: "İngilizce hala web'e hakim olsa da, tek dilli İngilizce olmayan web sitelerinin büyümesi, yazı tipi sorunlarına yönelik çeşitli çözümlerle güç kazanıyor. Tehlike altındaki diller,
+öncelikle hiç yazı sistemi olmayan dillerdir (dünyadaki 6.000'den fazla dilin yalnızca 1/3'ünde yazı sistemi vardır). Web'in dil kimliğinin kaybına katkıda bulunduğunu hâlâ görmüyorum ve uzun vadede onu güçlendirmeye katkıda bulunabileceğinden şüpheleniyorum. Örneğin, giderek daha fazla Yerli Amerikalı dilbilimcilerle iletişime geçiyor ve onlardan dillerinin gramerlerini yazmalarını ve sözlükler oluşturmalarına yardımcı olmalarını istiyor. Bu insanlar için web, kültürel ifade için uygun fiyatlı bir nimettir."
+
+YERELLEŞTİRME VE ULUSLARARASILAŞTIRMA
+
+= [Alıntı]
+
+OECD'nin (Ekonomik İşbirliği ve Kalkınma Örgütü) Merkez Kütüphanesi'nin başkan yardımcısı (ve daha sonra başkanı) olan Peter Raggett, Ağustos 1999'da şunları yazdı: "Avrupa örgütlerinin ve işletmelerinin, kaynaklar izin veriyorsa, üç veya dört dilde web siteleri sunmaya çalışmasının bir görev olduğunu düşünüyorum. Küreselleşme ve elektronik ticaretin olduğu bu çağda, işletmeler birçok ülkede iş yaptıklarını görüyorlar. Fransızca, Almanca, Japonca konuşanların web sitenizi İngilizce konuşanlar kadar kolayca okumasına izin vermek, bir işletmeye elektronik ticaret alanında rekabet avantajı sağlayacaktır."
+
+= [Metin]
+
+1999'da Babel'in web sitesinin alt başlığı şuydu: "İnternette herhangi bir dilde iletişim kurmaya doğru..." Babel, Alis
+Technologies ve İnternet Topluluğu'nun internetin uluslararasılaşmasına katkıda bulunmak için ortak bir projesiydi. Babel, dünya dilleri hakkında bilgi ve tipografik ve dilbilimsel bir sözlük içeren çok dilli bir web sitesi (İngilizce, Fransızca, Almanca, İtalyanca, Portekizce, İspanyolca ve İsveççe) sunuyordu. "İnternet ve Çok Dillilik" bölümü, çok dilli bir web sitesinin nasıl geliştirileceği ve "dünyanın yazısının" nasıl kodlanacağı hakkında bilgi veriyordu.
+
+San Francisco ve Paris merkezli bir şirket olan Euro-Marketing Associates'in kurucusu Bill Dunlap, uluslararası pazarlama danışmanlığı şirketi Global Reach'i bir metodoloji olarak başlattı ABD şirketleri
+internet varlıklarını
+uluslararası bir çerçeveye genişletmek için. Buna
+bir web sitesini diğer dillere çevirmek, aktif olarak tanıtmak ve
+yerel web sitesi trafiğini artırmak için yerel çevrimiçi banner reklamcılığı kullanmak dahildir.
+
+Bill Dunlap Aralık 1998'de şöyle açıklamıştır: "Web sitenizi tanıtmak
+en azından onu oluşturmak kadar önemlidir, hatta daha da önemlidir. Web sitenizi tanıtmak için en azından onu oluştururken harcadığınız kadar zaman ve para harcamaya hazır olmalısınız.
+Global
+Reach programıyla, İngilizcenin konuşulmadığı ülkelerde tanıtımını yaptırabilir ve daha geniş bir kitleye... ve daha fazla satışa ulaşabilirsiniz.
+Çevrimiçi uluslararası pazarı ciddiye almak için birçok iyi neden vardır. Global Reach, web sitenizi birçok ülkeye yaymanız, çevrimiçi ziyaretçilerle kendi dillerinde konuşmanız ve oradaki çevrimiçi pazarlara ulaşmanız için bir araçtır. (...)
+
+Profesyonel hayatımın başladığı 1981 yılından bu yana, Amerikan şirketlerini Avrupa'ya getirmekle ilgileniyorum. Bu büyük ölçüde bir dil sorunudur, çünkü ürünlerin ve pazarlamalarının burada görünür olabilmesi için Avrupa dillerinde olması gerekir. Web 1995 civarında popüler hale geldiğinden beri, bu faaliyetleri çevrimiçi boyutlarına çevirdim ve Amerikalı vatandaşlarım arasında Avrupa e-ticaretini savundum. En son New York'taki Internet World'de Avrupa e-ticareti ve bir web sitesinin Avrupa'daki çeşitli pazarlara hitap etmek için nasıl kullanılacağı hakkında konuştum."
+
+Bill Temmuz 1999'da şunları ekledi: "Bir web sitesinin ana sayfası birkaç dilde mevcut olduktan sonraki adım, her dilde içerik geliştirmektir. Bir web yöneticisi, hangi dillerin diğerlerinden daha fazla ziyaretçi (ve satış) çektiğini fark edecektir ve bunlar çok dilli bir web tanıtım kampanyasına başlamak için gereken yerlerdir. Aynı zamanda, bir web sitesinde mevcut dil sayısını artırmak her zaman iyidir: sadece diğer dillere çevrilmiş bir ana sayfa, bir web sitesinde belirli bir dil dalını geliştirmek için daha fazla şey yapılması gerektiği aşikar hale gelmeden önce, başlangıç ​​için yeterli olacaktır."
+
+World Wide Web Konsorsiyumu (W3C), Ekim 1994'te web için birlikte çalışabilir teknolojiler (belirtimler, yönergeler, yazılımlar ve araçlar) geliştirmek, örneğin işaretleme dilleri (HTML, XML ve diğerleri) için belirtimler ve bilgi, ticaret, iletişim ve kolektif anlayış için bir forum görevi görmek amacıyla kuruldu. 1998'de Uluslararasılaştırma/Yerelleştirme bölümü, uluslararasılaştırma/yerelleştirme için kullanılan protokollerin bir tanımını yaptı: HTML, temel karakter kümesi, yeni etiketler ve nitelikler, HTTP, dil müzakeresi, ASCII olmayan karakterler dahil olmak üzere URL'ler ve diğer tanımlayıcılar, vb. Ayrıca çok dilli bir web sitesi oluşturma konusunda biraz yardım teklif etti.
+
+Yerelleştirme Endüstrisi Standartları Derneği (LISA) 1990'ların ortalarında "yazılım yayıncıları, donanım üreticileri, yerelleştirme hizmeti sağlayıcıları ve ilgili BT sektörlerinden giderek artan sayıda şirket" için bir forum olarak kuruldu. LISA misyonunu "yerelleştirme ve uluslararasılaştırma sektörünü teşvik etmek ve şirketlerin yerelleştirme, uluslararasılaştırma ve ilgili konularla bağlantılı süreçlerin, araçların, teknolojilerin ve iş modellerinin geliştirilmesi hakkında bilgi alışverişinde bulunmalarını ve paylaşmalarını sağlayacak bir mekanizma ve hizmetler sunmak" olarak tanımladı. Web sitesi ilk olarak İsviçre'deki Cenevre Üniversitesi tarafından barındırıldı ve yönetildi. Ocak 1999'da Avrupa Komisyonu tarafından başlatılan
+HLTCentral (HLT: İnsan Dili Teknolojileri) web sitesi dil mühendisliğinin kısa bir tanımını yaptı: "Dil mühendisliği sayesinde teknolojiyle rahat bir şekilde yaşamanın yollarını bulabiliriz. Dil hakkındaki bilgimiz,
+konuşmayı ve yazıyı tanıyan,
+metni bilgi seçebilecek kadar iyi anlayan,
+farklı diller arasında çeviri yapan ve basılı dünyanın yanı sıra konuşma üreten sistemler geliştirmek için kullanılabilir. Bu tür
+teknolojileri uygulayarak dil kullanımımızın mevcut sınırlarını genişletme yeteneğine sahibiz. Dil destekli ürünler günlük yaşamın
+temel ve ayrılmaz bir parçası haline gelecektir."
+
+MAKİNE ÇEVİRİSİ
+
+= [Alıntı]
+
+Tim McKenna, akışkan bir dünyada gerçeğin karmaşıklığı hakkında düşünen ve yazan bir yazardır. Ekim 2000'de şöyle yazmıştı: "Yazılım insanların gerçek zamanlı olarak web'de sohbet edebilecekleri veya konuşabilecekleri kadar iyi olduğunda, önümüzde yepyeni bir dünya belirecek. Bilim insanları, siyasi aktivistler, işletmeler ve daha birçok grup, aracılar veya tercümanlar olmadan hemen iletişim kurabilecek."
+
+= Bir tanım
+
+Makine çevirisi, bir metni bir dilden başka bir dile çevirmenin otomatik süreci olarak tanımlanabilir. MT, kaynak dildeki metni analiz eder ve hedef dilde karşılık gelen metni otomatik olarak üretir. Çeviri süreci sırasında herhangi bir insan müdahalesinin olmaması nedeniyle, makine çevirisi (MT), çevirmen ve bilgisayar arasında bir miktar etkileşim içeren bilgisayar destekli çeviriden (CAT) farklıdır.
+
+Çeviri yazılımları konusunda uzmanlaşmış bir şirket olan SYSTRAN'ın web sitesinde açıklandığı gibi, "makine çevirisi yazılımı bir doğal dili başka bir doğal dile çevirir. MT, her dilin dilbilgisi yapısını hesaba katar ve kaynak dilin (çevrilecek metin) dilbilgisi yapısını hedef dile (çevrilen metin) aktarmak için kurallar kullanır. MT, bir insan çevirmenin yerini alamaz ve böyle bir amacı da yoktur."
+
+Avrupa Makine Çevirisi Derneği'nin (EAMT) web sitesi şu tanımı veriyor: "Makine çevirisi (MT), bilgisayarların metinleri bir doğal dilden diğerine çevirme görevine uygulanmasıdır. Bilgisayar bilimindeki en eski arayışlardan biri olan MT, ulaşılması zor bir hedef olduğunu kanıtladı, ancak bugün, mükemmel olmasa bile, genellikle teknik dokümantasyon alanında belirli özel uygulamalar için yararlı olacak kadar yeterli kalitede çıktı üreten bir dizi sistem mevcuttur. Ayrıca, temel olarak insan çevirmenin çeviri üretiminde yardımcı olmak üzere tasarlanmış çeviri yazılım paketleri, profesyonel çeviri kuruluşları arasında giderek daha fazla popülerlik kazanmaktadır." Makine çevirisi, dil çeviri yazılımı ve hizmetleri sunan bir şirket olan Globalink'in web sitesinde belirtildiği gibi, doğal dil işlemenin en eski türüdür: "En başından beri, makine çevirisi (MT) ve doğal dil işleme (NLP), modern hesaplamalı teknolojinin evrimiyle el ele gitmiştir. II. Dünya Savaşı sırasında ilk genel amaçlı programlanabilir bilgisayarların geliştirilmesi, Müttefiklerin Alman Enigma makinesini ve diğer savaş kodlarını kırmak için yaptığı kriptografik çabalarla yönlendirilmiş ve hızlandırılmıştır. Savaşın ardından, doğal dil metninin çevirisi ve analizi, yeni ortaya çıkan Bilgi Teorisi alanı için bir test ortamı sağlamıştır. 1950'lerde, Otomatik Çeviri (bugün Makine Çevirisi veya 'MT' olarak bilinir) üzerine yapılan araştırmalar, herhangi bir dil kuralı kullanılmadan, daha yaygın olarak kelime kelime çeviriler olarak bilinen gerçek çeviri anlamında şekillenmiştir. 1950'lerin başında Georgetown Üniversitesi'nde başlatılan Rus projesi, İlk sistematik
+kanıtlanabilir bir makine çeviri sistemi yaratma girişimi.
+On yıl boyunca ve 1960'lara kadar, Amerika Birleşik Devletleri ve Avrupa'da bir dizi benzer üniversite ve hükümet tarafından finanse edilen araştırma çabası gerçekleşti. Aynı zamanda, Teorik Dilbilim alanındaki hızlı gelişmeler, Noam Chomsky'nin "Sözdizimi Teorisinin Yönleri" (1965) adlı eserinin yayınlanmasıyla doruğa ulaştı ve insan dilinin fonolojisi, morfolojisi, sözdizimi ve semantiğinin tartışılması ve anlaşılması için çerçeveyi kökten değiştirdi.
+
+1966'da, ABD hükümeti tarafından yayınlanan ALPAC (Otomatik Dil İşleme Danışma Komitesi) raporu, pratik makine çeviri sistemlerinin değeri ve beklentileri hakkında erken bir olumsuz değerlendirme sunarak, bu alandaki fonlama ve deneylere bir sonraki on yıl boyunca son verdi. 1970'lerin sonlarına kadar, bilgisayar ve dil teknolojisinin büyümesiyle birlikte, ciddi çabalar
+bir kez daha başladı. Bu yenilenen ilgi döneminde ayrıca
+makine çevirisinin Transfer modelinin geliştirilmesi ve
+ilk ticari MT sistemlerinin ortaya çıkışı görüldü. SYSTRAN ve METAL gibi ticari girişimler
+makine çevirisinin uygulanabilirliğini, faydasını ve talebini göstermeye başlarken, bu ana bilgisayar bağlantılı sistemler ayrıca
+MT ürün ve hizmetlerini pazara sunmada karşılaşılan birçok sorunu da gösterdi. Yüksek geliştirme maliyeti, emek yoğun sözlükbilim ve dilsel uygulama, yeni dil çiftlerinin geliştirilmesinde yavaş ilerleme, ortalama kullanıcıya erişilememesi ve yeni platformlara kolayca ölçeklenememe, bu ikinci nesil sistemlerin tüm özellikleridir." 
+
+USC/ISI'deki (Güney Kaliforniya Üniversitesi/Bilgi Bilimleri Enstitüsü) Doğal Dil Grubu başkanı Eduard Hovy tarafından Ağustos 1998'de açıklandığı gibi, makine çevirisi "çeviri olmayan dil ile ilgili uygulamalar/işlevler, örneğin bilgi alma (IR) ve otomatik metin özetleme (SUM) anlamına gelir. IR olmadan Web'de hiçbir şey bulamazsınız! -- tüm arama motorları (AltaVista, Yahoo!, vb.) IR teknolojisi üzerine kurulmuştur. Benzer şekilde, çok daha yeni olmasına rağmen, yakında birçok kişinin tek (uzun) belgeleri veya çok sayıda (herhangi bir uzunluktaki) belgeleri bir araya getirmek için (veya en azından bunların ana içeriklerini çıkarmak için) otomatik özetleyicileri kullanması muhtemeldir."
+
+= Deneyimler
+
+Aralık 1997'de, önde gelen bir arama motoru olan AltaVista, Babel Fish ile ücretsiz bir çeviri yazılımı başlatan ilk şirketti -- AltaVista Translation olarak da bilinir -- ve bu yazılım web sayfalarını (aynı anda en fazla üç sayfa) İngilizceden Fransızcaya, Almancaya, İtalyancaya, Portekizceye veya İspanyolcaya ve tam tersine çevirebiliyordu. Yazılım, makine çevirisi yazılımında uzmanlaşmış bir şirket olan SYSTRAN (System Translation'ın kısaltması) tarafından geliştirildi. SYSTRAN'ın genel merkezi, Fransa, Paris yakınlarındaki Soisy-sous-Montmorency'de bulunmaktadır. Satış, pazarlama ve araştırma ve geliştirme, Kaliforniya, La Jolla'daki yan kuruluşunda yer almaktadır.
+
+Bu girişim, diğer çeviri yazılımları tarafından takip edildi Alis Technologies, Globalink, Lernout & Hauspie ve Softissimo tarafından geliştirilmiştir ve web'de ücretsiz ve/veya ücretli sürümleri mevcuttur.
+
+Quebec, Montreal merkezli Alis Technologies, dil işleme çözümleri ve hizmetlerinin geliştirilmesi ve pazarlanması konusunda uzmanlaşmıştır,
+özellikle bilgi teknolojisi
+endüstrisinde dil uygulaması. Alis Translation Solutions (ATS), birçok dilde uygulamalar ve çevirilerin kalitesini
+artırmak için araçlar ve hizmetler sunmuştur. Language Technology Solutions (LTS), dil mühendisliği ve bilgi teknolojisi için gelişmiş araçlar ve hizmetler pazarlamıştır
+(90 dil kapsanmaktadır).
+
+Belçika, Ieper ve Massachusetts, Burlington merkezli Lernout & Hauspie (L&H), otomatik konuşma tanıma (ASR), metinden konuşmaya (TTS), metinden metne (TTT) ve dijital konuşma sıkıştırma (DSC) olmak üzere dört temel teknolojiyle ticari uygulamalar ve ürünler için gelişmiş konuşma teknolojisinde liderdir. ASR, TTS ve DSC teknolojileri
+telekomünikasyon, bilgisayar ve
+multimedya, tüketici elektroniği ve otomotiv elektroniği şirketlerine lisanslanmıştır. TTT
+çeviri hizmetleri BT şirketlerine ve dikey ve
+otomasyon pazarlarına sağlanmıştır. Lernout & Hauspie tarafından oluşturulan Makine Çeviri Grubu, L&H Dil Teknolojisi, AppTek, AILogic, NeocorTech
+ve Globalink'i içeriyordu. Lernout & Hauspie daha sonra Nuance Communications tarafından satın alındı.
+
+1990 yılında ABD'de kurulan bir şirket olan Globalink, dil
+çeviri yazılımları ve hizmetlerine, yani yazılım ürünleri, çevrimiçi seçenekler ve
+profesyonel
+çeviri hizmetleri etrafında oluşturulmuş özelleştirilmiş
+çeviri çözümlerine odaklanmıştır. Yazılım ürünleri,
+bireyler, küçük işletmeler, çokuluslu şirketler ve
+hükümetlere yönelik olarak, hızlı taslak çeviri sağlayan bağımsız bir üründen
+profesyonel çevirileri yöneten tam bir sisteme kadar İspanyolca, Fransızca, Portekizce, Almanca, İtalyanca ve İngilizce olarak mevcuttu.
+
+Şirketin 1998'deki web sitesinde açıklandığı gibi, "Globalink'in çeviri uygulamalarıyla, bilgisayar üç veri kümesi kullanır: giriş metni, çeviri programı ve kalıcı bilgi kaynakları (kaynak dilin kelime ve ifadelerinden oluşan bir sözlük içerir) ve sözlüğün çağrıştırdığı kavramlar ve cümle geliştirme kuralları hakkında bilgi. Bu kurallar sözdizimi ve dilbilgisi için dilbilimsel kurallar biçimindedir ve bazıları fiil çekimini, sözdizimi ayarlamasını, cinsiyet ve sayı uyumunu ve kelime yeniden sıralamasını yöneten algoritmalardır. Kullanıcı metni seçip makine çeviri sürecini harekete geçirdiğinde, program giriş metnindeki kelimeleri sözlüğünde saklanan kelimelerle eşleştirmeye başlar. Bir eşleşme bulunduğunda, uygulama kelimenin olası anlamları ve aynı cümlede geçen diğer kelimelerle bağlamsal ilişkisi hakkında bilgi içeren eksiksiz bir kayıt getirir. Çeviri için gereken süre metnin uzunluğuna bağlıdır. Üç sayfalık, 750 kelimelik bir belgenin ilk taslak çevirisini oluşturmak yaklaşık üç dakika sürer."
+
+İsviçre, Cenevre'deki Dünya Sağlık Örgütü'nün (WHO) merkezinde, Bilgisayar Destekli Çeviri ve Terminoloji Birimi (CTT), 1997'den beri çeviri belleğine (TM) dayalı bilgisayar destekli çeviri (CAT) sistemlerinin kullanılması için teknik seçenekleri değerlendirmede öncü olmuştur. Bu tür sistemlerle, çevirmenler metnin bölümlerinden önceki çevirilere erişebilir; bunları kabul edebilir, reddedebilir veya değiştirebilir; ve yeni çeviriyi belleğe ekleyerek gelecekte başvurmak üzere zenginleştirebilir. Çevirmen, günlük çıktıyı arşivleyerek kapsamlı bir çeviri belleği oluşturmaya ve bir dizi çeviri sorununu çözmeye yardımcı olur. CTT'de elektronik belge arşivleme ve alma, iki dilli/çok dilli metin hizalama, bilgisayar destekli çeviri, çeviri belleği ve terminoloji veritabanı yönetimi ve konuşma tanınma.
+
+Washington, D.C.'deki Pan Amerikan Sağlık Örgütü (PAHO), kendi bilgisayar dilbilimcileri, çevirmenleri ve sistem programcılarının ortak çalışması olarak kendi makine çeviri yazılımını geliştirdi.
+PAHO Çeviri Birimi, 1980'den itibaren SPANAM (İspanyolcadan İngilizceye) ve 1985'ten itibaren ENGSPAN (İngilizceden İspanyolcaya) kullanarak 1980 ile 1998 arasında 25 milyondan fazla kelimeyi işledi. Kadrolu çevirmenler ve serbest çevirmenler, üretkenlikte %30-50 artışla yüksek kaliteli çeviriler üretmek için ham çıktıyı sonradan düzenler. Yazılım, PAHO Genel Merkezi'nin LAN'ında (Yerel Alan Ağı) mevcuttur ve teknik ve idari birimlerin personeli tarafından düzenli olarak kullanılır. Yazılım ayrıca bir dizi PAHO saha ofisinde de mevcuttur ve ABD, Latin Amerika ve İspanya'daki kamu ve kar amacı gütmeyen kuruluşlara lisanslanmıştır. Yazılım daha sonra PAHOMTS olarak yeniden adlandırıldı ve Portekizce ile yeni dil çiftleri eklendi.
+
+= Yorumlar
+
+# ZDNN'den Yorumlar
+
+21 Temmuz 1998'de ZDNN'de (ZDNetwork News) yayınlanan "Web Dil Çevirisini Benimsiyor" adlı makalede Martha Stone şunları açıkladı: "10 milyar dolarlık dil çeviri işindeki yeni ürünler arasında
+web siteleri, sohbet odaları, e-posta ve kurumsal
+intranetler için anında çevirmenler yer alıyor. Önde gelen çeviri firmaları fırsatları yakalamak için harekete geçiyor. Örneğin:
+
+*SYSTRAN, AltaVista ile ortaklık kurdu ve babelfish.altavista.digital.com'da günde 500.000 ila 600.000 ziyaretçi ve günde yaklaşık 1 milyon çeviri -- tariflerden tam web sayfalarına kadar -- bildiriyor. Yaklaşık 15.000 site, Fransızca, İtalyanca, Almanca, İspanyolca ve Portekizce'ye çeviri yapabilen babelfish'e bağlantı veriyor. Site yakında Japonca'yı da eklemeyi planlıyor. 'Popülerlik basit. İnternet sayesinde, artık ABD içeriğini kullanmanın bir yolu var. Bunların hepsi
+bu artan talebe katkıda bulunuyor,' dedi SYSTRAN'ın grup
+CEO'su Dimitros Sabatakakis, Paris'teki evinden konuşurken.
+
+*Alis teknolojisi, Los Angeles Times'ın yakında sitesinde başlatılacak olan
+dil çeviri özelliğini destekliyor. Çeviriler
+İspanyolca ve Fransızca ve sonunda Japonca olarak mevcut olacak. Bir fare tıklamasıyla
+tüm bir web sayfası istenen
+dile çevrilebilir. *Globalink, ücretsiz bir e-posta hizmeti ve sohbet odalarındaki metinlerin çevrilmesini sağlayan bir yazılım da dahil olmak üzere çeşitli yazılım ve web çeviri olanakları sunar.
+
+Ancak bu sözde 'makine' çevirileri dünya çapında popülerlik kazanırken, şirket yöneticileri bunların her durum için olmadığını kabul ediyor.
+Globalink, Alis ve SYSTRAN temsilcileri, çevirilerin kalitesini tanımlarken 'mükemmel değil' ve 'yaklaşık' gibi ifadeler kullanıyorlar; ancak çeviri için gönderilen cümlelerin basit, dil bilgisi açısından doğru ve deyimsiz olması gerektiği uyarısında bulunuyorlar. Greenwich, Connecticut'taki bir web endüstrisi analisti olan Vin Crosbie, 'Makine çevirisindeki ilerleme Moore Yasası'na göre ilerliyor -- her 18 ayda bir iki kat daha iyi oluyor,' diyor. 'Mükemmel değil, ancak bazı [İngilizce konuşmayan] kişiler çeviri yazılımı kullandığımı fark etmiyor.'
+
+Bu çevirilerle sözdizimi ve kelime kullanımı zarar görüyor, çünkü
+sözlük tabanlı veri tabanları eş anlamlılar arasında ayrım yapamıyor -- örneğin, 'ışık' (güneş veya ampuldeki gibi) ve 'ışık' (ağır kelimesinin tersi).
+Yine de, insan çevirisinin web sayfası başına 50 ila 60 dolar veya kelime başına yaklaşık 20 sente mal olacağını
+SYSTRAN'dan Sabatakakis söyledi. Bu, statik 'kurumsal bilgi' sayfaları için uygun olabilirken, makine çevirileri web üzerinde ücretsizdir ve genellikle çevrilen dil sayısına ve özel özelliklere bağlı olarak yazılım için 100 dolardan azdır."
+
+# RALI'den Yorumlar
+
+1940'ların sonunda duyurulan evrensel bir çeviri makinesinin yakın zamanda patlak vermesine rağmen, makine çevirisi henüz iyi çeviriler üretmedi. Montreal, Quebec'teki RALI Laboratuvarı'ndan (Hesaplamalı Dilbilimde Uygulamalı Araştırma Laboratuvarı - Laboratoire de Recherche Appliquee en Linguistique Informatique) iki bilim insanı Pierre Isabelle ve Patrick Andries, bu başarısızlığın nedenlerini 1998'de Fransızca çevrimiçi bir dergi olan Multimedium tarafından yayınlanan "La Traduction Automatique, 50 Ans Apres" (Makine Çevirisi, 50 Yıl Sonra) adlı makalede açıklıyor: "Bir İnsan çevirmenle rekabet edebilen bir makine, araştırmadaki yavaş ilerleme nedeniyle
+elde edilemiyor. (...) İstatistiksel veya analojik yöntemler kullanılarak, corpora adı verilen büyük metin koleksiyonlarına dayanan son araştırmalar, bir
+makine çevirisi (MT)
+sistemi oluşturmak için gereken manuel iş miktarını azaltmayı vaat ediyor, ancak makine çevirisinin kalitesinde önemli bir
+iyileşmeyi kesin olarak vaat edemiyor. (...) MT kullanımı, az çok bilgi özümseme görevleriyle veya kısıtlı alt dillerde metin dağıtımı görevleriyle sınırlı olacaktır."
+
+Yehochua Bar-Hillel'in 1951'de yayınlanan "Makine Çevirisinin Durumu" adlı makalesinde ifade edilen fikirlerine göre, Pierre Isabelle ve Patrick Andries, makine çevirisi için üç uygulama stratejisi tanımlıyor: (a) çok dilli verileri tarayıp kaba çeviri sağlamak için bir bilgi özümseme aracı, (b) 1977'den beri Kanada Çevre Bakanlığı'nın hava tahminlerini çeviren METEO sistemi gibi "kısıtlı dil" durumları, (c) makine çevirisi sürecinden önce, sırasında ve sonrasında insan/makine bağlantısı, geleneksel çeviriyle karşılaştırıldığında para tasarrufu sağlamayabilir.
+
+Pierre Isabelle ve Patrick Andries, "robot çevirmenden" daha çok "insan çevirmen için bir iş istasyonu"nu tercih ediyor: "Son Olasılıkçı yöntemler üzerine yapılan araştırmalar, iki metin arasındaki çeviri ilişkisinin bazı basit yönlerini etkili bir şekilde modellemenin mümkün olduğunu gösterdi. Örneğin, metin cümleleri ile çevirileri arasındaki doğru hizalamayı hesaplamak için yöntemler oluşturuldu, yani çevirinin her cümlesine karşılık gelen kaynak metnin cümlesini/cümlelerini belirlemek için. Geniş ölçekte uygulandığında, bu teknikler, önceki çevirilerden parçaları geri dönüştürmek için bir çeviri hizmetinin arşivlerini kullanarak bir çeviri belleği oluşturabilir. Bu tür sistemler
+çeviri pazarında halihazırda mevcuttur (IBM Translation
+Manager II, Trados'un Trados Translator's Workbench'i, RALI TransSearch,
+vb.) En son araştırmalar, cümle düzeyinden daha ince bir düzeyde, yani sözdizimleri ve sözcüklerde otomatik olarak
+karşılıklılıklar kurabilen modellere odaklanmaktadır. Sonuçlar, terminoloji çalışması,
+dikte ve çeviri yazımında ve çeviri
+hatalarının algılanması için insan çevirmen için bir dizi yeni araç için umut vermektedir."
+
+# Randy Hobler'den Yorumlar
+
+Randy Hobler, Eylül 1998'de IBM, Johnson & Johnson, Burroughs
+Wellcome, Pepsi ve Heublein'da çalıştıktan sonra Globalink'te internet pazarlama danışmanıydı. Bir e-posta röportajında ​​şunları yazdı: "Metnin ve konuşmanın son derece doğru makine çevirisinin
+bilgisayar platformlarına ve hatta çeşitli şekillerde çiplere yerleştirilecek kadar yaygın olacağı noktaya hızla yaklaşıyoruz. O noktada ve web'in büyümesi yavaşladıkça, dil çevirisinin doğruluğu %98'in üzerine çıkar ve dil çiftlerinin doygunluğu pazarın büyük çoğunluğunu kapladığından, dil şeffaflığı (herhangi bir dilden herhangi bir dile iletişim) bu teknolojiyi satanlar için çok kısıtlayıcı bir vizyon olacaktır. Bir sonraki gelişme, insan iletişiminin, ticaretin ve işlemlerin yalnızca dilin ötesindeki diğer yönlerinin devreye gireceği 'kültürlerarası, ulusötesi şeffaflık' olacaktır. Örneğin, jestlerin bir anlamı vardır, yüz hareketlerinin bir anlamı vardır ve bu toplumlar arasında değişir. Baş parmak-işaret parmağı dairesi Amerika Birleşik Devletleri'nde 'Tamam' anlamına gelir. Arjantin'de ise müstehcen bir jesttir. 
+Multimedyanın, çok dilli görüntülü konferansın kaçınılmaz büyümesi gerçekleştiğinde, jestleri anında 'görsel olarak düzenlemek' gerekecektir. MIT (Massachusetts Teknoloji Enstitüsü) Medya Laboratuvarı, Microsoft ve diğer birçok kuruluş, yüz ifadelerinin bilgisayarla tanınması, yüz üzerinden biyometrik erişim tanımlaması vb. üzerinde çalışıyor. Bir ABD iş insanının, bir Arjantinliye web tabanlı çok dilli bir video konferansta harika bir noktaya değinmesi ve sözlerinin mükemmel bir Arjantin İspanyolcasına çevrilmesi, aynı anda 'O' işaretini yaparsa, hiçbir işe yaramayacaktır. Bilgisayarlar bu tür şeyleri yakalayabilir ve anında düzenleyebilir. Kültürlerin ve ülkelerin farklılık gösterdiği binlerce yol vardır ve bunların çoğu, bir kültürden diğerine geçerken değiştirilebilecek şekilde bilgisayarlaştırılabilir. Bunlara yasalar, gelenekler, iş uygulamaları, etik, para birimi dönüşümleri, giyim beden farkları, metrik ve İngiliz sistem farkları vb. dahildir. Girişimci şirketler bu farklılıkları yakalayıp programlayacak ve dünya halklarının daha iyi iletişim kurmasına yardımcı olmak için ürün ve hizmetler satacaklardır. Bu tür şeyler yaygınlaştığında, uluslararası anlayışa gerçekten katkıda bulunacaktır."
+
+= Makine çevirisi Ar-Ge
+
+Quebec'teki dört araştırma merkezinin çalışmalarına genel bir bakış
+(RALI Laboratuvarı), Kaliforniya (Doğal Dil Grubu), İsviçre
+(ISSCO) ve Japonya'da (UNDL Vakfı).
+
+# RALI Laboratuvarı
+
+Quebec, Montreal'deki RALI Laboratuvarı (Uygulamalı Hesaplamalı Dilbilim Araştırmaları Laboratuvarı - Laboratoire de Recherche
+Appliquee en Linguistique Informatique) otomatik metin hizalaması, otomatik metin oluşturma, otomatik vurgulama,
+dil tanımlama ve sonlu durum dönüştürücüleri üzerinde çalışmıştır. RALI, "yeni nesil" çeviri destek araçlarının "TransX ailesini" üretir (TransType, TransTalk, TransCheck ve TransSearch), bunlar bir çevirmen tarafından üretilen metin ile kaynaktaki orijinal metin arasındaki
+uyuşmaları otomatik olarak hesaplayan olasılıksal çeviri modellerine dayanır dil.
+
+1998'de RALI'nin web sitesinde açıklandığı gibi: "(a) TransType, bir çevirmenin seçimlerini önceden tahmin ederek ve uygun olduğunda bunları eleştirerek
+bir çevirinin tuşlanmasını hızlandırır. Önerilerini sunarken,
+TransType hem kaynak metni hem de çevirmenin daha önce ürettiği kısmi çeviriyi hesaba katar. (b) TransTalk, ses tanıma modelinin performansını iyileştirmek için olasılıksal bir
+çeviri
+modeli kullanan otomatik bir dikte sistemidir. (c) TransCheck, bir taslağın bölümleriyle kaynak metnin bölümleri arasındaki
+ilişkilerin iyi bir
+çevirinin bilinen özelliklerine saygılı olduğunu doğrulayarak belirli
+çeviri hatalarını otomatik olarak tespit eder. (d) TransSearch,
+çevirmenlerin her türlü çeviri sorununa hazır çözümler bulmak için önceden var olan çevirilerin veritabanlarını aramasına olanak tanır.
+Gerekli veritabanlarını üretmek için, çeviriler ve
+kaynak dil metinleri önce hizalanmalıdır."
+
+# Doğal Dil Grubu
+
+Güney Kaliforniya Üniversitesi (USC) Bilgi Bilimleri Enstitüsü'ndeki (ISI) Doğal Dil Grubu (NLG), hesaplamalı/doğal dil işlemenin çeşitli yönleriyle ilgilenmektedir:
+makine çevirisi, otomatik metin özetleme, çok dilli fiil erişimi ve metin yönetimi, büyük kavram taksonomilerinin geliştirilmesi
+(ontolojiler), söylem ve metin üretimi, çeşitli diller için büyük sözlüklerin oluşturulması ve multimedya iletişimi.
+
+Doğal Dil Grubu başkanı Eduard Hovy, Ağustos
+1998'de şöyle açıklamıştır: "İnsanlar kendi dillerini çeşitli nedenlerle yazacaklardır --
+kolaylık, gizlilik ve yerel uygulanabilirlik -- ancak bu,
+diğer insanların onların söyleyeceklerini okumakla ilgilenmediği anlamına gelmez! Bu özellikle teknoloji izlemeyle ilgilenen şirketler için geçerlidir
+(örneğin, yaptıkları işle ilgili tüm Japon gazetelerini ve diğer makaleleri günlük olarak bilmek isteyen bir bilgisayar şirketi) veya bazı
+Hükümet İstihbarat teşkilatları (hükümet yetkililerinin politika oluşturmada vb. kullanması için en güncel bilgileri sağlayan kişiler). Bu tür insanların karşılaştığı temel sorunlardan biri bilgi selidir, bu nedenle gelen metni hızla tarayabilen ve alakalı olmayanları atabilen
+'zayıf' iki dilli kişileri işe alma eğilimindedirler, alakalı şeyleri profesyonel çevirmenlere verirler. Açıkçası, SUM (otomatik metin özetleme) ve MT (makine çevirisi) kombinasyonu burada yardımcı olacaktır; MT yavaş olduğundan, yabancı dilde SUM yapabilir ve ardından sonuç üzerinde hızlı ve basit bir MT yapabilirseniz, bir insan veya otomatik IR tabanlı metin
+sınıflandırıcısının makaleyi tutmaya veya reddetmeye karar vermesine olanak tanır. Bu tür sebeplerden dolayı, ABD Hükümeti son beş yıldır MT, SUM ve IR (bilgi alma) alanındaki araştırmaları finanse ediyor ve Çok Dilli IR alanında yeni bir araştırma programı başlatmakla ilgileniyor. Bu şekilde bir gün Netscape veya Explorer'ı veya benzerini açabilir, sorgunuzu (diyelim ki) İngilizce yazabilir ve motorun dünyanın *tüm* dillerindeki metinleri döndürmesini sağlayabilirsiniz. Bunları alt alanlara göre kümelendirebilir, kümelere göre özetleyebilir ve yabancı özetleri çevirebilirsiniz, yani istediğiniz her türlü şeyi." 
+
+Eduard Hovy Ağustos 1999'da şunları ekledi: "Son 12 ayda şaşırtıcı sayıda yeni bilgi teknolojisi (BT) şirketi ve girişimle iletişime geçtim. Çoğu, elektronik ticaretin bir çeşidini (çevrimiçi alışveriş, takas, bilgi toplama, vb.) sunmayı planlıyor. Mevcut araştırma dışı düzeydeki doğal dil işleme teknolojisinin oldukça zayıf performansı göz önüne alındığında (bir sorunun doğru cevabını web'de, alakasız bilgileri elemek için çok fazla zaman harcamadan, gerçekten kolayca ve doğru bir şekilde bulduğunuz son zaman ne zamandı?), bu biraz şaşırtıcı. Ancak bence herkes otomatik metin özetleme, soru analizi vb. alanındaki yeni gelişmelerin önemli bir fark yaratacağını düşünüyor. Umarım öyledir!--ancak performans seviyesi henüz mevcut değil. Bana öyle geliyor ki büyük bir atılım elde edemeyeceğiz, ancak
+biraz kabul edilebilir bir performans seviyesi elde edeceğiz ve sonra yavaş ama emin adımlarla
+artışlı bir iyileşme göreceğiz. Bunun nedeni, bilgisayarınızın gerçekten ne demek istediğinizi 'anlamasını' sağlamanın çok zor olmasıdır -- bunun için bilgisayara bir 'kavramlar' ağı ve bunların karşılıklı ilişkileri kurmamız gerekir ki bu (bir düzeyde) en azından ilgi duyduğunuz konu alanlarında sizin zihninizdekileri yansıtır. Yüzeysel (kelime) düzey yeterli değildir -- 'İsviçre'nin başkenti' yazdığınızda, mevcut
+sistemler 'başkent' mi yoksa 'finansal başkent' mi demek istediğinizi bilmenin bir yolunu bulamaz. Yine de insanların büyük çoğunluğu, ifadeye ve web'de ne tür şeyler sorulabileceği ve hangi şekilde sorulabileceği hakkındaki bilgiye dayanarak eski okumayı seçer. Birkaç proje şu anda bu tür büyük 'kavram' ağları oluşturuyor veya oluşturmayı öneriyor. Bu iki yılda yapılabilecek bir şey değil ve doğru bir sonucu olan bir şey de değil. Hem ağı hem de onu yarı otomatik ve kendi kendine uyarlanabilir şekilde inşa etmek için teknikleri geliştirmeliyiz. Bu büyük bir meydan okuma." 
+
+Eduard Hovy Eylül 2000'de şunları ekledi: "Küçük şirketlerin dil teknolojisini bir şekilde veya başka bir şekilde kullanmasında sürekli bir artış görüyorum: ya
+arama, çeviri, rapor veya başka bir iletişim işlevi sağlamak için. Dil teknolojisinin uygulanabileceği nişlerin sayısı beni şaşırtmaya devam ediyor: hisse senedi raporlarından
+işletmeler arası iletişimlere ve pazarlamaya kadar güncellemeler... 
+
+Araştırma açısından gördüğüm en büyük atılım ISI'daki bir meslektaşım (söylemekten gurur duyuyorum) Kevin Knight tarafından yönetildi. Geçtiğimiz yaz Maryland'deki Johns Hopkins Üniversitesi'nde bir bilim insanı ve öğrenci ekibi, IBM tarafından yaklaşık 12 yıl önce geliştirilen (ve tescilli tutulan) bir yöntemin daha hızlı ve başka açılardan geliştirilmiş bir versiyonunu geliştirdi. Bu yöntem, bir makine çevirisi (MT) sisteminin otomatik olarak oluşturulmasına olanak tanır, yeter ki kişi ona yeterli iki dilli metin versin. Esasen yöntem, iki dildeki tüm kelime ve kelime konumlarındaki benzerlikleri bulur ve ardından neyin neye çevrileceği ve nasıl ifade edileceğine dair büyük kurallar tabloları oluşturur.
+
+Çıktı kalitesi hala düşük olsa da -- kimse bunu nihai bir ürün olarak görmez ve kimse çevrilen çıktıyı olduğu gibi kullanmaz --
+ekip 24 saat içinde (düşük kaliteli) Çince-İngilizce MT sistemi oluşturdu. Bu olağanüstü bir başarı -- daha önce hiç yapılmadı. (Elbette eleştirmenler şöyle diyor: Kanada, Hong Kong veya diğer iki dilli ülkelerin parlamentolarından alabileceğiniz 3 milyon cümle çiftine ihtiyacınız var; ve tabii ki kalitenin düşük olduğunu söylüyorlar. Ancak gerçek şu ki her gün daha fazla iki dilli ve yarı eşdeğer metin çevrimiçi olarak mevcut hale geliyor ve kalite en azından elle yapılmış MT motorlarının mevcut seviyelerine kadar iyileşmeye devam edecek. Bundan eminim.)
+
+Diğer gelişmeler daha az gösterişli. "Yarasa" gibi belirsiz bir kelimenin "uçan memeli", "spor aleti" veya "vurmak" anlamına gelip gelmediğine karar verebilen sistemlerin performansında istikrarlı bir iyileşme var; Çapraz dil bilgi alma konusunda sağlam bir çalışma var (bunu yakında web'de yalnızca İngilizce sorgular yazsanız bile Çince ve Fransızca belgeleri bulabildiğinizde göreceksiniz) ve basit soruları otomatik olarak yanıtlayan sistemlerde oldukça hızlı bir gelişme var (popüler web sistemi AskJeeves'e benzer, ancak bu sefer bilgisayarlar tarafından yapılıyor, insanlar tarafından değil). Bu sistemler, 'Uganda'nın başkenti neresidir?' veya 'Başkan Clinton kaç yaşında?' veya 'fotokopi işlemini kim icat etti?' gibi sorulara yanıt olarak 'olguları' (görüşler, nedenler veya olay zincirleri değil) bulmak için büyük bir metin koleksiyonuna başvuruyor ve bunu beklediğimden daha iyi yapıyorlar. "
+
+# ISSCO
+
+İsviçre, Cenevre'de bulunan ISSCO (Dalle Molle Semantik ve Bilişsel Çalışmalar Enstitüsü - Institut Dalle Molle pour les Etudes Semantiques et Cognitives), bir dizi İsviçre ve Avrupa araştırma projesi için hesaplamalı dilbilim (CL) ve yapay zeka (AI) alanlarında temel ve uygulamalı araştırmalar yürüten bir araştırma laboratuvarıdır. Cenevre Üniversitesi idari destek ve altyapı sağlamıştır. Araştırma, kamu ve özel kuruluşlarla yapılan hibeler ve sözleşmelerle finanse edilmektedir.
+
+1972'de Dalle Molle Vakfı tarafından biliş ve semantik alanında araştırma yapmak üzere kurulan ISSCO, makine çevirisi, dilsel ortamlar, çok dilli üretim, söylem işleme, veri toplama vb. gibi çok dilli dil işleme de dahil olmak üzere doğal dil işleme konusunda uzmanlaşmıştır.
+ISSCO çok disiplinli ve çok ulusludur. Web sitesinde açıklandığı gibi 1998, "personeli ve ziyaretçileri bilgisayar bilimi, dilbilim, matematik, psikoloji ve felsefe disiplinlerinden gelmektedir. Enstitünün uzun vadeli personeli nispeten az sayıdadır; bir aydan iki yıla kadar değişen sürelerde kalmak için gelen çok daha fazla ziyaretçi vardır. Bu, fikirlerin sürekli olarak paylaşılmasını sağlar ve Enstitü ile ilişkili olanlar arasında yaklaşım esnekliğini teşvik eder." 
+
+# UNDL Vakfı 
+
+UNL (evrensel ağ dili) projesi, 1990'ların ortalarında Tokyo, Japonya'daki Birleşmiş Milletler Üniversitesi'nin (UNU) İleri Araştırmalar Enstitüsü (IAS) tarafından ana dijital metadil projesi olarak başlatıldı. 1998'de iki dilli (İngilizce, Japonca) web sitesinde açıklandığı gibi: "UNL, eşlik eden 'dönüştürücü' ve 'dönüştürücü olmayan' yazılımlarıyla birlikte farklı ana dillere sahip insanlar arasında iletişimi sağlayan bir dildir. Popüler web tarayıcıları için bir eklenti olarak internette bulunacak ve standart ağ sunucularıyla uyumlu olacak. Teknoloji, Birleşmiş Milletler'in üye devletleri arasında paylaşılacak. İnternete erişimi olan herhangi bir kişi, bir üye devletin herhangi bir yerel dilinden metni UNL'ye 'dönüştürebilecek'. Aynı şekilde, herhangi bir UNL metni UNL'den yerel dillere 'dönüştürülebilecek'. Birleşmiş Milletler Üniversitesi'nin UNL Merkezi, ortaklarıyla birlikte popüler ağ sunucuları ve bilgi işlem platformlarıyla uyumlu olacak UNL yazılımını oluşturmak ve tanıtmak için çalışacak."
+
+2000 yılında, dünya çapında 120 araştırmacı 16 dilde (Arapça, Brezilya, Çince, İngilizce, Fransızca, Almanca, Hinduca, Endonezyaca, İtalyanca, Japonca, Letonca, Moğolca, Rusça, İspanyolca, Svahiki ve Tayca) çok dilli bir proje üzerinde çalışıyordu. UNDL Vakfı (UNDL: Evrensel Ağ Dijital Dili), UNL projesini geliştirmek ve tanıtmak için Ocak 2001'de kuruldu.
+
+KRONOLOJİ
+
+[Her satır yıl veya yıl/ay ile başlar.]
+
+1968: ASCII ilk karakter kümesi kodlamasıdır.
+1971: Gutenberg Projesi ilk dijital kütüphanedir.
+1974: İnternet yükselişe geçti.
+1990: Web, Tim Berners-Lee tarafından icat edildi.
+1991/01: Unicode, tüm diller için evrensel bir karakter kümesi kodlamasıdır.
+1993/11: Mosaic ilk web tarayıcısıdır.
+1994/05: Human-Languages ​​Page, dil ile ilgili internet kaynaklarının bir kataloğudur.
+1994/10: World Wide Web Konsorsiyumu, uluslararasılaşma ve yerelleştirme ile ilgilenecektir.
+1994: Travland, hem seyahat hem de dillere adanmıştır.
+1995/12: Kotoba Ana Sayfası, klavyemizi kullanarak dil sorunlarıyla ilgilenir.
+1995: İnternet Sözlüğü Projesi, ücretsiz çeviri sözlükleri oluşturmak için çalışır.
+1995: NetGlos, internet terminolojisinin çok dilli bir sözlüğüdür.
+1995: Global Reach, Euro-Marketing Associates'ten kaynaklanan sanal bir danışmanlık şirketidir.
+1995: LISA, yerelleştirme endüstrisi standartları derneğidir.
+1995: "The Ethnologue: Languages ​​of the World" ücretsiz bir çevrimiçi sürüm sunuyor.
+1996/04: OneLook Dictionaries çevrimiçi sözlüklerde hızlı bir bulucudur. 1997/01: UNL (evrensel ağ dili) dijital bir metadil projesidir.
+1997/12: AltaVista, Babel Balığı olarak da adlandırılan AltaVista Çeviri'yi başlatır.
+1997: Logos Sözlüğü ücretsiz olarak çevrimiçi olur.
+1999/12: Britannica.com ilk ana İngilizce çevrimiçi ansiklopedidir.
+1999/12: WebEncyclo ilk ana Fransızca çevrimiçi ansiklopedidir.
+1999: WordReference.com ücretsiz çevrimiçi iki dilli çeviri sözlükleri sunar.
+2000/02: yourDictionary.com büyük bir dil portalıdır.
+2000/07: İngilizce konuşmayan internet kullanıcıları %50'ye ulaşır.
+2001/01: Wikipedia ana ücretsiz çok dilli kooperatif ansiklopedisidir.
+2001/01: UNDL Vakfı, dijital bir metadil projesi olan UNL'yi geliştirir.
+2001/04: İnsan Dilleri Projesi iLoveLanguages ​​portalı olur.
+2004/01: Gutenberg Avrupa Projesi çok dilli bir proje olarak başlatılır.
+2007/03: IATE, Avrupa Birliği'nin yeni terminolojik veritabanıdır.
+2009: "Ethnologue" ansiklopedik bir referans çalışması olarak 16. baskısını başlatır.
+
+WEB SİTELERİ
+
+Alis Technologies: http://www.alis.com/
+Aquarius.net: Yerelleştirme Uzmanları Rehberi: http://www.aquarius.net/
+ASCII Tablosu: http://www.asciitable.com/
+Asya-Pasifik Makine Çevirisi Derneği (AAMT): http://www.aamt.info/
+Hesaplamalı Dilbilim Derneği (ACL): http://www.aclweb.org/
+Amerika'da Makine Çevirisi Derneği (AMTA): http://www.amtaweb.org/
+CALL@Hull: http://www.fredriley.org.uk/call/
+ELRA (Avrupa Dil Kaynakları Derneği): http://www.elra.info/
+ELSNET (İnsan Dili Teknolojilerinde Avrupa Mükemmellik Ağı): http://www.elsnet.org/
+Encyclopaedia Britannica Online: http://www.britannica.com/
+Encyclopaedia Universalis: http://www.universalis-edu.com/
+Ethnologue: http://www.ethnologue.com/
+Ethnologue: Tehlike Altındaki Diller: http://www.ethnologue.com/nearly_extinct.asp
+EUROCALL (Avrupa Bilgisayar Destekli Dil Öğrenme Derneği): http://www.eurocall-languages.org/
+Avrupa Makine Çevirisi Derneği (EAMT): http://www.eamt.org/
+Avrupa Az Kullanılan Diller Bürosu (EBLUL): http://www.eblul.org/
+Avrupa Komisyonu: Avrupa Dilleri: http://ec.europa.eu/education/languages/languages-of-europe/
+Avrupa Azınlık Dilleri (Sabhal Mor Ostaig Enstitüsü listesi): http://www.smo.uhi.ac.uk/saoghal/mion-chanain/en/
+Google Çeviri: http://translate.google.com/
+Büyük Sözlük Terminoloji (GDT): http://www.granddictionnaire.com/
+  IATE: Avrupa için İnteraktif Terminoloji: http://iate.europa.eu/
+  ILOTERM (ILO: Uluslararası Çalışma Örgütü): http://www.ilo.org/iloterm/
+  iLoveLanguages: http://www.ilovelanguages.com/
+  Uluslararası Hesaplamalı Dilbilim Komitesi (ICCL): http://nlp.shef.ac.uk/iccl/
+  İnternet Sözlüğü Projesi (IDP): http://www.june29.com/IDP/
+  İnternet Topluluğu (ISOC): http://www.isoc.org/
+  Laboratoire CLIPS (Communication Langagiere et Interaction Personne-Systeme): http://www-clips.imag.fr/
+  Laboratoire CLIPS: GETA (Groupe d'Etude pour la Traduction Automatique): http://www-clips.imag.fr/geta/
+  DİL bilimci listesi (The): http://linguistlist.org/
+Yerelleştirme Endüstrisi Standartları Derneği (LISA): http://www.lisa.org/
+Logolar: Çok Dilli Çeviri Portalı: http://www.logos.it/
+MAITS (Telematik Hizmetler için Çok Dilli Uygulama Arayüzü): http://wwwold.dkuug.dk/maits/
+Merriam-Webster Online: http://www.merriam-webster.com/
+USC/ISI'deki Doğal Dil Grubu (NLG): http://www.isi.edu/natural-language/
+Nuance: http://www.nuance.com/
+OneLook Sözlük Arama: http://www.onelook.com/
+Oxford İngilizce Sözlüğü (OED): http://www.oed.com/
+Oxford Referans Çevrimiçi (ORO): http://www.oxfordreference.com/
+PAHOMTS (PAHO: Pan Amerikan Sağlık Örgütü): http://www.paho.org/english/am/gsp/tr/machine_trans.htm
+Palo Alto Araştırma Merkezi (PARC): http://www.parc.com/
+Palo Alto Araştırma Merkezi (PARC): Doğal Dil İşleme: http://www. parc.com/work/focus-area/NLP/
+RALI (Recherche Appliquee en Linguistique Informatique): http://www-rali.iro.umontreal.ca/
+Reverso: Ücretsiz Çevrimiçi Çevirmen: http://www.reverso.net/
+SDL: http://www.sdl.com/
+SDL: FreeTranslation.com: http://www.freetranslation.com/
+SDL Trados: http://www.trados.com/
+Softissimo: http://www.softissimo.com/
+SYSTRAN: http://www.systranlinks.com/
+SYSTRANet: Ücretsiz Çevrimiçi Çevirmen: http://www.systranet.com/
+TEI: Metin Kodlama Girişimi: http://www.tei-c.org/index.xml
+TERMITE (Telekomünikasyon Terminolojisi): http://www.itu.int/terminology/index.html
+*tmx Vokabeltrainer: http://www.tmx.de/
+Transparent Language: http://www.transparent.com/
+TransPerfect: http://www.transperfect.com/
+Travlang: http://www.travlang.com/
+Travlang'ın Çeviri Sözlükleri: http://dictionaries.travlang.com/
+UNDL (Evrensel Ağ Dijital Dili) Vakfı: http://www.undl.org/
+Unicode: http://www.unicode.org/
+Yahoo! Babel Fish: http://babelfish.yahoo.com/
+YourDictionary.com: http://www.yourdictionary.com/
+YourDictionary.com: Tehlike Altındaki Diller: http://www.yourdictionary.com/elr/index.html
+W3C: World Wide Web Konsorsiyumu: http://www.w3.org/
+W3C Uluslararasılaştırma Etkinliği: http://www.w3.org/International/
+WELL (Web Geliştirilmiş Dil Öğrenimi): http://www.well.ac.uk/
+Wordfast: http://www.wordfast.org/
+Xerox XRCE (Xerox Araştırma Merkezi Avrupa): http://www.xrce.xerox.com/
+Xerox XRCE: Diller Arası Teknolojiler: http://www.xrce.xerox.com/competencies/cross-language/
+
+Telif Hakkı (C) 2009 Marie Lebert. Tüm hakları saklıdır.
+
+Marie Lebert'in Project Gutenberg'in İnternet ve Diller kitabının sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE INTERNET AND LANGUAGES ***
+
+***** This file should be named 30422.txt or 30422.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/0/4/2/30422/
+
+Produced by Al Haines
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
