@@ -1,0 +1,3085 @@
+*** START OF AKTAHEADER ***
+Başlık: Zen and the Art of the Internet (Zen ve İnternet Sanatı)
+Yazar: Brendan P. Kehoe
+Yayın Tarihi: June, 1992
+Dil: English
+Link: https://www.gutenberg.org/ebooks/34
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+Project Gutenberg's Zen and the Art of the Internet, by Brendan P. Kehoe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Zen and the Art of the Internet
+
+Author: Brendan P. Kehoe
+
+Posting Date: December 17, 2011 [EBook #34]
+Release Date: June, 1992
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ZEN AND THE ART OF THE INTERNET ***
+
+*** START OF TURKISH PART ***
+Bölüm A
+
+Zen ve İnternet Sanatı
+
+Telif Hakkı (c) 1992 Brendan P. Kehoe
+
+Bu kılavuzun birebir kopyalarının yapılması ve dağıtılması için izin verilmiştir, ancak telif hakkı bildirimi ve bu izin bildirimi tüm kopyalarda korunmalıdır.
+
+Bu kitapçığın değiştirilmiş sürümlerinin birebir kopyalama koşulları altında kopyalanması ve dağıtılması için izin verilmiştir, ancak türetilen tüm çalışmanın bununla aynı bir izin bildiriminin şartları altında dağıtılması şartıyla.
+
+Bu kitapçığın çevirilerinin, değiştirilmiş sürümler için yukarıdaki koşullar altında başka bir dile kopyalanması ve dağıtılması için izin verilmiştir, ancak bu izin bildirimi yazar tarafından onaylanmış bir çeviride belirtilebilir.
+
+Zen ve İnternet Sanatı
+İnternete Yeni Başlayanlar İçin Bir Kılavuz
+Birinci Baskı
+Ocak 1992
+
+Brendan P. Kehoe tarafından
+
+Bu, 2 Şubat 1992 tarihli 1.0 revizyonudur.
+Telif hakkı (c) 1992 Brendan P. Kehoe
+
+Bu kitapçığın oluşturulmasına başlangıçta, Widener Üniversitesi'ndeki Bilgisayar Bilimleri bölümünün elde ettiğimiz bu "harika yeni
+İnternet bağlantısının" yeteneklerini açıklayan belgelere acilen ihtiyaç duyması nedeniyle başlanmıştı.
+
+O zamandan beri okuyucuyu İnternet üzerinden şu anda mevcut olan şeylerin çoğuyla tanıştırma çabasına dönüştü. Acemi
+kullanıcılara yönelik olan bu kitapçık, işletim sistemi "tarafsız" kalmaya çalışıyor ---buradaki çok az bilgi Unix, VMS veya başka herhangi bir
+ortama özgüdür. Bu kitapçığın, umarız, hemen hemen herkes tarafından
+kullanılabilir olacaktır.
+
+Bir kullanıcının oturumu genellikle paragrafın geri kalanından farklıdır, örneğin:
+
+prompt> command
+Sonuçlar genellikle burada görüntülenir.
+
+Bu kitapçığın amacı iki yönlüdür: birincisi, birinin anında kolayca yakalayıp bir şey araştırabileceği bir referans parçası olarak hizmet etmesi amaçlanmıştır. Ayrıca, insanların İnternet'in uçsuz bucaksız alanını keşfedebileceği bir temel oluşturur. Zen ve İnternet Sanatı, herhangi bir noktada önemli miktarda zaman harcamaz;
+daha ziyade, insanların yerel sistemlerinin ne sunduğuna dair ayrıntıları öğrenmeleri için yeterli bilgi sağlar.
+
+Belki de bir uyarıda bulunmak gerekir---girdiğimiz bu alan harika bir zaman kaybı olabilir. Saatler geçebilir, insanlar gelip gidebilir ve Siber Uzay'a kilitlenirsiniz. Çalışmanızı yapmayı unutmayın!
+
+Bununla birlikte, yeni kullanıcı olarak sizi Net'e davet ediyorum.
+
+brendan@cs.widener.edu
+Chester, PA
+
+Teşekkürler
+
+Bu kitapçıktaki belirli bölümler benim özgün çalışmam değildir---daha ziyade,
+İnternette mevcut olan ve
+konsantrasyon alanlarını zaten uygun bir şekilde belirten belgelerden türetilmiştir.
+Usenet'teki bölüm, büyük ölçüde,
+news.announce.newusers'a aylık olarak gönderilenlerden oluşur ve bazı düzenlemeler ve yeniden yazımlar içerir. Ayrıca,
+archie'deki ana bölüm, McGill Üniversitesi Bilgi İşlem Merkezi'nden Peter
+Deutsch'un whatis.archie'sinden türetilmiştir.
+archie.mcgill.ca'dan anonim FTP yoluyla erişilebilir.
+Telnet bölümündekilerin çoğu, SuraNet tarafından bir araya getirilen etkileyici bir giriş belgesinden alınmıştır. Birindeki bazı tanımlar, Colorado Eyalet Üniversitesi tarafından bir araya getirilen
+mükemmel bir sözlükten alınmıştır.
+
+Bu kılavuz, The Net'teki birçok kişinin ve halihazırda mevcut olan kaynak sağlayıcılarının yardımı olmadan aynı olmazdı. Bunu okuyup mükemmel yorumlar, öneriler ve eleştiriler getiren ve anında çok ihtiyaç duyulan bilgileri sağlayan kişilere teşekkür etmek istiyorum. Glee Willis, tüm çalışmaları için özel olarak anılmayı hak ediyor; bu rehber onun yardımı olmadan çok daha az cilalı olurdu.
+
+Andy Blankenbiller <rablanke@crdec7.apgea.army.mil>
+Andy Blankenbiller, Army at Aberdeen
+
+bajan@cs.mcgill.ca
+Alan Emtage, McGill Üniversitesi Bilgisayar Bilimleri Bölümü
+
+Brian Fitzgerald <fitz@mml0.meche.rpi.edu>
+Brian Fitzgerald, Rensselaer Politeknik Enstitüsü
+
+John Goetsch <ccjg@hippo.ru.ac.za>
+John Goetsch, Rhodes Üniversitesi, Güney Afrika
+
+composer@chem.bu. edu
+Jeff Kellem, Boston Üniversitesi Kimya Bölümü
+
+kraussW@moravian.edu
+Bill Krauss, Moravian College
+
+Steve Lodin <deaes!swlodin@iuvax.cs.indiana.edu>
+Steve Lodin, Delco Electronics
+
+Mike Nesel <nesel@elxsi.dfrf.nasa.gov>
+Mike Nesel, NASA
+
+Bob <neveln@cs.widener.edu>
+Bob Neveln, Widener Üniversitesi Bilgisayar Bilimleri Bölümü
+
+wamapi@dunkin.cc.mcgill.ca (Wanda Pierce)
+Wanda Pierce, McGill Üniversitesi Bilgisayar Merkezi
+
+Joshua.R.Poulson@cyber.widener.edu
+Joshua Poulson, Widener Üniversitesi Bilgisayar Hizmetleri
+
+de5@ornl.gov
+Dave Sill, Oak Ridge National Laboratuvar
+
+bsmart@bsmart.tti.com
+Bob Smart, CitiCorp/TTI
+
+emv@msen.com
+Ed Vielmetti, MSEN Başkan Yardımcısı
+
+Craig E. Ward <cew@venera.isi.edu>
+Craig Ward, USC/Bilgi Bilimleri Enstitüsü (ISI)
+
+Glee Willis <willis@unssun.nevada.edu>
+Glee Willis, Nevada Üniversitesi, Reno
+
+Charles Yamasaki <chip@oshcomm.osha.gov>
+Chip Yamasaki, OSHA
+
+Ağ Temelleri
+
+Gerçekten bir bilgi toplumundayız. Şimdi her zamankinden daha fazla, büyük miktarda bilgiyi büyük mesafeler boyunca hızla taşımak en acil ihtiyaçlarımızdan biri. Küçük tek kişilik girişimci çabalardan en büyük şirketlere kadar, giderek daha fazla profesyonel insan 90'larda ve sonrasında başarılı olmanın tek yolunun teknolojinin baş döndürücü bir hızla ilerlediğini fark etmek olduğunu keşfediyor ve bir şekilde ayak uydurmaları gerekiyor. Aynı şekilde, dünyanın dört bir yanından araştırmacılar çalışmalarının ağ bağlantılı bir ortamda geliştiğini keşfediyorlar. Meslektaşlarının çalışmalarına anında erişim ve milyonlarca cilt ve binlerce makaleden oluşan "sanal" bir kütüphane, onlara daha önce düşünülemez olan bir bilgi birikimini dahil etme olanağı sağlıyor. Çalışma grupları artık fiziksel konuma aldırmadan birbirleriyle etkileşimli konferanslar düzenleyebiliyorlar; olasılıklar sonsuz. Parmaklarınızın ucunda Japonya'daki biriyle "gerçek zamanlı" konuşma, bunu yapmanın verdiği haz için eleştirecek bir grup insana 2.000 kelimelik kısa bir hikaye gönderme, Kanada'daki bir laboratuvarda bulunan bir Macintosh'un açık olup olmadığını görme ve Avustralya'da birinin bilgisayarının başında oturup (oturum açmış) olup olmadığını öğrenme yeteneği var, hepsi otuz dakika içinde. Hiçbir havayolu (veya tardis, bu konuda) bu seyahat güzergahına asla erişemez.
+
+İnsanların bir ağı ilk kez kullandıklarında karşılaştıkları en büyük sorun,
+mevcut olan her şeyi kavramaktır. Deneyimli kullanıcılar bile
+daha önce varlığından bile haberdar olmadıkları yeni bir hizmet veya özellik keşfettiklerinde şaşırırlar. Terminolojiye aşina olduktan ve ara sıra hata yapmaktan yeterince rahat olduktan sonra,
+öğrenme süreci önemli ölçüde hızlanacaktır.
+
+Alan Adları
+
+Gitmek istediğiniz yere ulaşmak genellikle ağları kullanmanın en zor yönlerinden biri olabilir. Yerlerin adlandırılma biçimlerinin çeşitliliği muhtemelen ilk başta yüzünüzde boş bir ifade bırakacaktır. Endişelenmeyin;
+bu apaçık deliliğin bir yöntemi vardır.
+
+Birisi bir ev adresi sorsaydı muhtemelen bir
+sokak, apartman, şehir, eyalet ve posta kodu beklerdi. Postanenin postayı makul bir
+hızda teslim etmesi için ihtiyaç duyduğu tüm bilgiler bunlardır. Aynı şekilde, bilgisayar adreslerinin de bir yapısı vardır.
+Genel biçimi şöyledir:
+
+bir kişinin bilgisayardaki e-posta adresi: user@somewhere.domain
+bir bilgisayarın adı: somewhere.domain
+
+Kullanıcı kısmı genellikle kişinin sistemdeki hesap adıdır, ancak olmak zorunda değildir. somewhere.domain size bir sistemin veya konumun adını ve ne tür bir organizasyon olduğunu söyler. Son alan adı genellikle aşağıdakilerden biridir:
+
+com
+Genellikle bir şirket veya diğer ticari kurum veya kuruluş,
+örneğin Convex Computers (convex.com).
+
+edu
+Eğitim kurumu, örneğin New York Üniversitesi, nyu.edu.
+
+gov
+Bir hükümet sitesi; örneğin NASA, nasa.gov'dur.
+
+mil
+Askeri site, örneğin Hava Kuvvetleri (af.mil).
+
+net
+Bir ağ için ağ geçitleri ve diğer idari ana bilgisayarlar (ağdaki tüm
+ana bilgisayarlar anlamına gelmez). {The Matrix, 111. Bu tür bir
+ağ geçidi near.net'tir.}
+
+org
+Bu, diğer alan adı sınıflarına rahatça uymayan özel kuruluşlar için ayrılmış bir alandır. Bir örnek, eff.org adlı
+Electronic Frontier Foundation'dır.
+
+Her ülkenin ayrıca kendi üst düzey alanı vardır. Örneğin,
+us alanı elli eyaletin her birini içerir. Alan adlarıyla temsil edilen diğer ülkeler şunlardır:
+
+au Avustralya
+ca Kanada
+fr Fransa
+uk Birleşik Krallık. Bunların ayrıca akademik siteler için
+ac.uk ve ticari siteler için co.uk gibi alt alan adları da vardır.
+
+FQDN (Tam Nitelikli Alan Adı)
+
+Bir sitenin alan adı için uygun terminoloji (somewhere.domain
+yukarıda) Tam Nitelikli Alan Adı'dır (FQDN). Genellikle sitenin kuruluşunu veya sponsor acentesini net bir şekilde belirtmek için seçilir. Örneğin, Massachusetts Teknoloji Enstitüsü'nün FQDN'si mit.edu'dur; benzer şekilde, Apple Computer'ın alan adı
+apple.com'dur. Bu tür bariz isimler genellikle norm olsa da, yanıltıcı olabilecek kadar belirsiz istisnalar da vardır---örneğin, ilk bakışta Vermont'ta bir tür eğitim kurumu olduğu düşünülebilecek vt.edu gibi; öyle değil. Aslında bu
+Virginia Tech'in alan adıdır. Çoğu durumda bir alan adının anlamını çıkarmak nispeten kolaydır---bu tür
+karışıklıklar normdan çok uzaktır.
+
+İnternet Numaraları
+
+İnternet'teki her bir makinenin benzersiz bir adresi vardır, {En az
+bir adres, muhtemelen iki veya hatta üç --- ama buna girmeyeceğiz.} buna İnternet numarası veya IP Adresi denir. Aslında bu bir 32 bitlik sayıdır, ancak en yaygın olarak noktalarla (.) birleştirilmiş dört sayı olarak gösterilir, örneğin 147.31.254.130. Buna bazen noktalı dörtlü de denir; kelimenin tam anlamıyla binlerce farklı
+olası noktalı dörtlü vardır. ARPAnet (bugünün İnternetinin annesi)
+başlangıçta her sistemin adreslenme şekli nedeniyle
+üzerinde yalnızca 256 sisteme kadar kapasiteye sahipti. Seksenlerin başında,
+bu kadar küçük bir sınırın hızla aşılacağı açıkça görüldü;
+32 bitlik adresleme yöntemi doğdu ve binlerce ana bilgisayar
+numarası serbest bırakıldı.
+
+İnternet adresinin her parçasına (192 gibi) "sekizli" denir ve sekiz bitlik dört setten birini temsil eder. İlk iki veya üç parça (örneğin 192.55.239) bir sistemin üzerinde bulunduğu ağı temsil eder ve buna alt ağ denir. Örneğin, Wesleyan Üniversitesi'ndeki tüm bilgisayarlar 129.133 alt ağındadır. 129.133.10.10, 129.133.230.19 gibi numaralara sahip olabilirler, 65 bine kadar olası kombinasyon (olası bilgisayarlar).
+
+IP adresleri ve alan adları keyfi olarak atanmaz --- bu inanılmaz bir karışıklığa yol açar.
+
+Ağ Bilgi Merkezi'ne (NIC) elektronik olarak (hostmaster@nic.ddn.mil adresine) veya normal posta yoluyla bir başvuru yapılmalıdır.
+
+İsim ve Numaraların Çözümlenmesi
+
+Tamam, bilgisayarlara FQDN'leri veya İnternet adresleri ile başvurulabilir. Bir kullanıcının hepsini hatırlaması nasıl beklenebilir?
+
+Beklenmezler. İnternet, her iki yöntemin de kullanılabilmesi için tasarlanmıştır. İnsanlar çoğu durumda kelimelerle uğraşmayı sayılarla uğraşmaktan çok daha doğal bulduklarından, her bir ana bilgisayarın FQDN'si İnternet numarasına eşlenir. Her etki alanı, bir etki alanı adından bir IP adresine ve tam tersine gitmek için gerekli tüm bilgileri sağlayan o etki alanı içindeki bir bilgisayar tarafından hizmet alır. Örneğin, biri foosun.bar.com'a atıfta bulunduğunda, çözücü foosun.bar.com sistemine bar.com'daki sistemler hakkında soru sorması gerektiğini bilir. foosun.bar.com'un hangi
+İnternet adresine sahip olduğunu sorar; foosun.bar.com adı gerçekten varsa, foovax numarasını geri gönderir. Tüm bu
+"sihir" sahne arkasında gerçekleşir.
+
+Bir kullanıcının bir sitenin İnternet numarasını hatırlaması nadiren gerekir
+(ancak genellikle kendinizi sadece sisteme sık sık eriştiğiniz için görünüşte belirsiz bir numarayı hatırlarken bulursunuz). Ancak, önemli sayıda
+FQDN'yi hatırlayacaksınız. Sonunda, belirli bir kolej, üniversite veya şirketin sadece adı verildiğinde hangi alan adına sahip olabileceğine dair makul derecede doğru bir tahminde bulunabileceğiniz bir noktaya ulaşacaksınız.
+
+Ağlar
+
+İnternet
+İnternet, büyük bir "ağlar ağıdır." İnternet olarak bilinen tek bir ağ yoktur; bunun yerine, SuraNet,
+PrepNet, NearNet vb. gibi bölgesel ağlar, hepsi birbirine bağlıdır
+(hayır, "ağlar arası") ve TCP/IP protokolüyle inanılmaz hızlarda iletişim kurarak tek bir büyük canlı şeye dönüşür.
+Tüm
+etkinlikler "gerçek zamanlı" olarak gerçekleşir.
+
+UUCP
+UUCP ağı, UUCP protokolüyle iletişim kuran sistemlerin gevşek bir birleşimidir. (UUCP, `Unix-to-Unix Copy
+Program' anlamına gelir.) İki sistemin birbirine belirli aralıklarla bağlanmasına dayanır, buna yoklama denir ve her ikisi için planlanan herhangi bir işi yürütür. Tarihsel olarak UUCP'nin çoğu Unix ekipmanıyla yapılırdı, ancak yazılımlar daha sonra diğer platformlarda (ör. VMS) uygulandı. Örneğin, sistem oregano
+sistem basil'i her iki saatte bir yoklar.
+Oregano'yu bekleyen herhangi bir posta varsa, basil o anda gönderir;
+benzer şekilde, oregano o anda basil'i bekleyen tüm işleri gönderir.
+
+BITNET
+BITNET ("Zamanı Geldiği İçin Ağ"), NJE protokolünü çalıştıran, noktadan noktaya bağlantılarla birbirine bağlı sistemlerden oluşur.
+Büyümeye devam etti, ancak İnternet bağlantılarının düşen maliyetleri yüzünden zarar gördü. Ayrıca, diğer ağlardaki kullanıcılara ulaşmak için bir dizi posta
+ağ geçidi bulunmaktadır.
+
+Fiziksel Bağlantı
+
+Çeşitli ağlar arasındaki gerçek bağlantılar çeşitli biçimler alır. İnternet bağlantıları için en yaygın olanlar 56k kiralık hatlardır
+(saniyede 56 kilobit bağlantı taşıyan özel telefon hatları)
+ve T1 bağlantılarıdır (1Mbps bağlantıya sahip özel telefon hatları). Ayrıca, büyük konumlar arasında omurga görevi gören ve 45Mbps'lik büyük bir trafik yükü taşıyan T3 bağlantıları da kuruludur.
+
+Bu bağlantılar her kurum tarafından yerel bir taşıyıcıya ödenir (örneğin, Bell Atlantic, Pensilvanya'daki ana sağlayıcı olan PrepNet'in sahibidir). Ayrıca, yüksek hızlı modemler üzerinden İnternet trafiğini (paketleri) taşıyan SLIP bağlantıları da mevcuttur.
+
+UUCP bağlantıları (çoğunlukla) 1200 baud'dan 38,4Kbps'ye kadar çıkan modemlerle yapılır.
+Ağlar'da belirtildiği gibi, bağlantılar depola ve ilet türündedir. Ayrıca, İnternet tabanlı UUCP bağlantıları da kullanılmaktadır (sanki işler yeterince kafa karıştırıcı değilmiş gibi!). Sistemler UUCP trafiğini TCP/IP bağlantıları üzerinden gerçekleştirir ve bu da UUCP tabanlı ağa göz kamaştırıcı derecede hızlı "atlamalar" sağlar ve bu da ağın tamamı için daha iyi bağlantıyla sonuçlanır. UUCP bağlantıları ilk olarak 1970'lerde popüler oldu ve o zamandan beri yaygın olarak kullanılmaya devam ediyor. Joe Smith yalnızca UUCP ile ülkenin diğer ucundaki veya dünyanın diğer ucundaki biriyle yerel bir telefon görüşmesi fiyatına haberleşebilir. BITNET bağlantıları çoğunlukla siteden siteye bağlı 9600 bps modemler şeklindedir. Genellikle yerlerde üç veya daha fazla bağlantı vardır; ancak çoğunluk ağa tek bağlantıları için "yukarı akış" sitelerine bakar. 
+
+"Bir İsmin Görkemi ve Hiçbir Şeyi" 
+Byron, {Churchill'in Mezarı} 
+
+-----------
+Elektronik Posta 
+
+İletişim kurma arzusu ağ kurmanın özüdür. İnsanlar her zaman normal bir konuşmanın dışında mümkün olan en hızlı şekilde birbirleriyle haberleşmek istemişlerdir. Elektronik posta (veya
+e-posta) bunun bilgisayar ağlarındaki en yaygın uygulamasıdır. İnsanların, mesajın nasıl iletildiği konusunda endişelenmek için fazla zaman harcamadan, ileri geri yazışmalarına olanak tanır. Teknoloji günlük yaşamın ortak bir parçası olmaya giderek daha da yaklaştıkça, bunun birçok şekilde nasıl kullanılabileceğini ve en azından bir dereceye kadar nasıl çalıştığını anlama ihtiyacı hayati önem taşır. günlük yaşamın bir parçası (ISDN çabasıyla kanıtlandığı gibi, en azından bir düzeyde, bunun nasıl kullanılabileceği ve nasıl çalıştığı konusunda birçok yolu anlama ihtiyacı hayati önem taşır.
+
+E-posta Adresleri
+
+Elektronik posta, bir adres kavramı etrafında döner; Ağ Temelleri bölümü, alan adlarını tanıtırken buna biraz değinmiştir. E-posta adresiniz, dünyanın herhangi bir yerinden size bir mesaj göndermek için gereken tüm bilgileri sağlar.
+Bir adresin mutlaka bir insana gitmesi gerekmez.
+Bir arşiv sunucusu, {Açıklama için Arşiv Sunucularına bakın.} bir kişi listesi veya hatta birinin cep çağrı cihazı olabilir.
+Bu durumlar normun istisnasıdır---çoğu adrese gönderilen postalar
+insanlar tarafından okunur.
+
+%@!.: Sembolik Kakofoni
+
+E-posta adresleri genellikle iki biçimden birinde görünür---@ içeren İnternet biçimini, bir "at" işaretini veya !, bir ünlem işareti, ayrıca "bang" olarak da adlandırılır. İkisinden ikincisi olan UUCP "bang" yolları daha kısıtlayıcıdır, ancak postanın nasıl seyahat edeceğini daha net bir şekilde belirler.
+
+South.america.org sisteminde Jim Morrison'a ulaşmak için, postaya jm@south.america.org adresi verilir. Ancak Jim'in hesabı brazil adlı bir UUCP sitesindeyse, adresi brazil!jm olur.
+Mümkünse (ve varsa), bir adresin İnternet biçimini kullanmayı deneyin; yoldaki bir ara site çökerse bang yolları başarısız olabilir. UUCP sitelerinin, yol başarısızlıkları sorununu hafifletmek için İnternet alan adlarını kaydetme yönünde büyüyen bir eğilim vardır.
+
+Kavgaya giren bir diğer sembol ise %'dir---ekstra bir "yönlendirme" yöntemi olarak işlev görür. Örneğin, UUCP sitesi dream
+south.america.org'a bağlıysa, ancak kendi İnternet alan adı yoksa, dream'deki debbie adlı kullanıcıya şu adrese yazılarak ulaşılabilir
+küçükörnek değil!
+
+debbie%dream@south.america.org
+
+Biçim önemlidir. Bu adres, yerel sistemin
+öncelikle postayı south.america.org'a göndermesi gerektiğini söyler. Orada
+debbie%dream adresi debbie@dream'e dönüşür ve bu da umarız geçerli bir adres olur. Sonra south.america.org postayı
+ana bilgisayar dream'e ulaştırır ve orada yerel olarak debbie'ye iletilir.
+
+E-posta adresleme yöntemlerinin tüm incelikleri, O'Reilly and Associates tarafından Nutshell Handbook serisinin bir parçası olarak yayınlanan "!%@@:: A Directory of Electronic Mail Addressing and
+Networks" adlı kitapta tam olarak ele alınmıştır. Herhangi bir aktif e-posta kullanıcısı için olmazsa olmazdır. Sipariş bilgisi için nuts@ora.com adresine yazın.
+
+Posta Gönderme ve Alma
+
+Burada işletim sistemi tarafsızlığımızı bir kenara bırakarak size Unix sisteminde posta mesajı göndermenin ve almanın
+nasıl görüneceğini göstereceğiz. Sitenizdeki postayla ilgili özel
+talimatlar için sistem yöneticinize danışın.
+
+Yazara posta gönderen kişi muhtemelen buna benzer bir şey yapacaktır:
+
+% mail brendan@cs.widener.edu
+Konu: yazdırma işi takıldı
+
+`print babe.gif' yazdım ve işe yaramadı! Neden??
+
+Yazar bir dahaki sefere postasını kontrol ettiğinde, posta kutusunda şu şekilde listelendiğini görecekti:
+
+% mail
+"/usr/spool/mail/brendan": 1 mesaj 1 yeni 1 okunmamış
+U 1 joeuser@foo.widene Sal 5 May 20:36 29/956 yazdırma işi takıldı
+?
+
+e-postanın göndericisine, ne zaman gönderildiğine ve
+mesajın konusuna ilişkin bilgi verir. Muhtemelen bu yanıtı göndermek için Unix postasının
+reply komutunu kullanırdı:
+
+? r
+Kime: joeuser@@foo.widener.edu
+Konu: Ynt: yazdırma işi takıldı
+
+GIF'ler gibi ikili dosyaları yazıcıya yazdırmamalısınız!
+
+Brendan
+
+Sisteminizin postacısına alışmak için kendinize birkaç kez posta göndermeyi deneyin. Hem sizin hem de sistem yöneticinizin çok fazla aspirin israfından tasarruf etmesini sağlar.
+
+Bir Posta Başlığının Anatomisi
+
+Bir elektronik posta mesajının her tür bilgisayar sisteminde ortak olan kendine özgü bir yapısı vardır. {Standart
+RFC-822'de yazılmıştır. Ayrıca çeşitli RFC'lerin kopyalarını nasıl edineceğiniz hakkında daha fazla bilgi için RFC'lere bakın.} Bir örnek şöyle olabilir:
+
+>From bush@hq.mil Sat May 25 17:06:01 1991
+Alındı: hq. mil by house.gov with SMTP id AA21901
+(4.1/SMI for dan@house.gov); Sat, 25 May 91 17:05:56 -0400
+Tarih: Sat, 25 May 91 17:05:56 -0400
+Kimden: Başkan <bush@hq.mil>
+Mesaj Kimliği: <9105252105.AA06631@hq.mil>
+Kime: dan@senate.gov
+Konu: Toplantı
+
+Merhaba Dan .. Ortak Genelkurmay Başkanları ile sabah 9:30'da bir toplantımız var. Lütfen
+bu sefer fazla uyumayın.
+
+İlk satır, From ve iki satır Received: genellikle
+çok ilgi çekici değildir. Postanın geldiği "gerçek" adresi (cevap vermeniz gereken adresin aksine, ki bu çok farklı görünebilir) ve postanın size ulaşmak için hangi yerlerden geçtiğini verirler. İnternet üzerinde her zaman en az bir tane
+Received: başlığı vardır ve genellikle dört veya beşten fazla olmaz. UUCP kullanılarak bir mesaj gönderildiğinde, postanın geçtiği her sistem için bir Received: başlığı eklenir. Bu genellikle bir düzineden fazla Received: başlığıyla sonuçlanabilir. Posta dağıtımındaki sorunları incelemeye yardımcı olsalar da, ortalama bir kullanıcının bunları asla görmek istemeyeceği ihtimali yüksektir. Çoğu posta programı bu tür "çöpleri" bir başlıkta filtreler.
+
+Tarih: başlığı, mesajın gönderildiği tarihi ve saati içerir. Benzer şekilde, "iyi" adres ("gerçek" adresin aksine) From: başlığında belirtilir. Bazen kişinin tam adını (bu durumda Başkan) içermez ve farklı görünebilir, ancak her zaman bir tür e-posta adresi içermelidir.
+
+Bir mesajın Mesaj Kimliği: esas olarak posta yönlendirmesini izlemek için tasarlanmıştır ve normal kullanıcıların ilgisini nadiren çeker. Her
+Mesaj Kimliği: benzersizdir.
+
+Kime: mesajın alıcılarının e-posta adresini (veya adreslerini) listeler. Ek adresleri listeleyen bir Cc: başlığı olabilir. Son olarak, mesaj için kısa bir konu
+Konu: başlığına girer.
+
+Bir mesajın başlıklarının tam sırası sistemden sisteme değişebilir, ancak her zaman düzgün teslimat için hayati önem taşıyan bu temel başlıkları içerecektir.
+
+Geri Dönen Posta
+
+Bir e-posta adresi bir şekilde yanlış olduğunda (sistemin adı yanlışsa, alan adı yoksa, her neyse), posta sistemi
+mesajı gönderene geri gönderir, tıpkı Posta Servisi'nin kötü bir sokak adresine mektup gönderdiğinizde yaptığı gibi.
+Mesaj, geri dönme nedenini içerecektir; yaygın bir hata
+postayı var olmayan bir hesap adına adreslemektir. Örneğin,
+Widener Üniversitesi Bilgisayar Bilimleri bölümündeki Lisa Simpson'a
+yazmak başarısız olacaktır, çünkü bir hesabı yoktur. {Ancak
+eğer
+isterse, kesinlikle ona bir tane veririz.}
+
+Gönderen: Mail Delivery Subsystem <MAILER-DAEMON>
+Tarih: Cum, 25 May 91 16:45:14 -0400
+Kime: mg@gracie.com
+Cc: Postmaster@cs.widener.edu
+Konu: İade edilen posta: Kullanıcı bilinmiyor
+
+----- Oturumun dökümü şu şekildedir -----
+cs.widener.edu ile görüşürken:
+>>> RCPT Kime:<lsimpson@cs.widener.edu>
+<<< 550 <lsimpson@cs.widener.edu>... Kullanıcı bilinmiyor
+550 lsimpson... Kullanıcı bilinmiyor
+
+Gördüğünüz gibi, mesajın bir karbon kopyası (Cc: başlık
+girişi) Widener'ın CS bölümünün posta müdürüne gönderildi. Posta müdürü, sisteminde güvenilir bir posta
+sistemini sürdürmekten sorumludur. Genellikle sitelerdeki postacılar postanızı gitmesi gereken yere ulaştırmanıza yardımcı olmaya çalışırlar. Bir yazım hatası yapılmışsa, mesajı yeniden göndermeyi deneyin. Adresin doğru olduğundan eminseniz, doğrudan sitenin postacısıyla iletişime geçin ve ona nasıl düzgün bir şekilde adres yazacağınızı sorun.
+
+Mesaj ayrıca postanın metnini de içerir, böylece yazdığınız her şeyi yeniden yazmanız gerekmez.
+
+----- Gönderilmemiş mesaj şu şekildedir -----
+Alındı: cs.widener.edu tarafından AA06528 kimliği; Cum, 25 May 91 16:45:14 -0400
+Tarih: Cum, 25 May 91 16:45:14 -0400
+Gönderen: Matt Groening <mg@gracie.com>
+Mesaj Kimliği: <9105252045.AA06528@gracie.com>
+Kime: lsimpson@cs.widener.edu
+Konu: Gelecekteki bölümlerinizi senaryolaştırma
+Yanıtla: writing-group@gracie.com
+
+.... laf kalabalığı ...
+
+Mesajın tam metni, eklenen başlıklar dahil olmak üzere olduğu gibi döndürülür. Bu, bir editörle kesilebilir ve uygun bir adresle doğrudan posta sistemine geri beslenebilir, böylece yeniden teslimat nispeten zahmetsiz bir süreç haline gelir.
+
+Posta Listeleri
+
+Ortak ilgi alanlarına sahip kişiler, her fırsatta hobilerini veya ilgi alanlarını tartışmaya eğilimlidir. Bu bilgi alışverişine yardımcı olmanın modern bir yolu, genellikle kendisine gönderilen tüm postaları bir adres listesine yeniden dağıtan bir e-posta adresi olan bir posta listesi kullanmaktır. Örneğin, Sun Yöneticileri posta listesi (Sun tarafından üretilen bilgisayarları yöneten kişiler için ilgi çekicidir) sun-managers@eecs.nwu.edu adresine sahiptir. Bu adrese gönderilen herhangi bir posta, Northwestern Üniversitesi'ndeki bir bilgisayarda tutulan bir dosyada adı geçen her kişiye "patlayarak" gönderilir.
+
+İdari görevler (bazen administrivia olarak adlandırılır) genellikle diğer adresler aracılığıyla, genellikle -request ekiyle
+işlenir. Yukarıdakileri sürdürmek için, Sun Yöneticileri listesine eklenme veya listeden silinme isteği
+sun-managers-request@eecs.nwu.edu adresine gönderilmelidir.
+
+Şüpheye düştüğünüzde, önce bir posta listesinin -request sürümüne yazmayı deneyin; listedeki diğer kişiler eklenme veya silinme isteğinizle ilgilenmezler ve isteğinizi hızlandırmak için kesinlikle hiçbir şey yapamazlar. Genellikle bir listenin yöneticisi meşgulse (unutmayın, bu gerçek işler ve gerçek çalışmayla ilgili değildir), birçok
+kullanıcı, genellikle daha sert bir dil kullanarak, bir listeden çıkarılmayı tekrar tekrar istemeyi gerekli bulur. Bu, trafiği boşa harcamaktan ve mesajları alan diğer herkesi rahatsız etmekten başka bir işe yaramaz. Makul bir süre sonra bile bir posta listesinden çıkarılmayı başaramadıysanız, o sitedeki posta yöneticisine yazın ve yardımcı olup olamayacaklarına bakın.
+
+Bir posta listesi tarafından gönderilen bir mesaja yanıt verirken dikkatli olun. Eğer
+sadece yazara yanıt vermek istiyorsanız, yanıtladığınız tek adresin o kişi olduğundan ve tüm liste olmadığından emin olun.
+Genellikle "Evet, seninle tamamen aynı fikirdeyim!" türünden mesajlar bir listede görünecek ve diğer okuyucuları sıkacaktır. Benzer şekilde,
+mesajı açıkça tüm listeye göndermek istiyorsanız,
+gerçekten tüm listeye gönderildiğinden ve tek bir kişiye gönderilmediğinden emin olmak için kontrol ederek kendinize biraz zaman kazandırabilirsiniz.
+
+Şu anda mevcut olan posta listelerinin listesi en az iki yerde mevcuttur; ilki ftp.nisc.sri.com'da netinfo/ dizininin altındaki interest-groups adlı bir dosyadadır. Oldukça düzenli olarak güncellenir, ancak büyüktür (şu anda yaklaşık 700K), bu nedenle yalnızca ara sıra alın. Diğer liste Gene Spafford tarafından tutulur
+(spaf@cs.purdue.edu) ve yarı düzenli olarak newsgroup
+news.lists'e parçalar halinde gönderilir. (Bunun ve diğer haber gruplarının nasıl okunacağı hakkında bilgi için Usenet News'e bakın.)
+
+Listserv'ler
+
+BITNET'te tartışma listelerini tutmak için listserv adı verilen otomatik bir sistem vardır. Zaten yorgun ve aşırı çalışan bir insanın bir listeden eklemeler ve çıkarmalar yapması yerine, bir program bunları ve diğer görevleri bir dizi kullanıcı
+yönlendirmeli komuta yanıt vererek gerçekleştirir.
+
+İlgi alanları geniş ve çeşitlidir---ETHICS-L bilgi işlemdeki etikle ilgilenirken ADND-L rol yapma oyunuyla ilgilidir. Mevcut BITNET listelerinin tam listesi, LISTSERV@BITNIC.BITNET adresine şu komutu içeren bir gövdeyle yazılarak elde edilebilir: 
+
+list global
+
+Ancak, bunu kullanırken tutumlu olun---sisteminizde bir yerde olup olmadığına bakın.
+
+Yanıt oldukça büyük.
+
+En temel komut subscribe'dır. Bu, liste
+serv'ine göndereni belirli bir listeye eklemesini söyler. Kullanım şekli
+
+subscribe foo-l Gerçek Adınız
+
+Ya listeye eklendiğinizi veya isteğin listenin aslında tutulduğu sisteme iletildiğini söyleyen bir mesajla yanıt verir.
+
+Abone olma eşi, doğal olarak, unsubscribe'dır. Bu, bir BITNET
+listesinden belirli bir adresi kaldırır. Diğer tüm listserv
+komutlarıyla birlikte kısaltılabilir---subscribe olarak sub, unsubscribe olarak unsub, vb. Mevcut listserv komutlarının tam listesi için, LISTSERV@BITNIC.BITNET adresine yazın ve ona help komutunu verin.
+
+Ayrıca, listserv sisteminin BITNET olmayan ana bilgisayarlar için (daha spesifik olarak, Unix sistemleri) uygulamaları olmuştur.
+En kapsamlı olanlardan biri cs.bu.edu adresinde pub/listserv dizininde mevcuttur.
+
+"Bu mektubu normalden daha uzun yazdım çünkü daha kısa yapmak için zamanım yok."
+Pascal, Provincial Letters XVI
+
+--------------
+
+Anonim FTP
+
+FTP (Dosya Aktarım Protokolü), dosyaları İnternet üzerinden aktarmanın birincil yöntemidir. Birçok sistemde, protokolü uygulayan
+programın adıdır. Uygun izin verildiğinde, Güney Afrika'daki bir bilgisayardan Los Angeles'taki bir bilgisayara çok hızlı bir şekilde (saniyede 5-10K mertebesinde) bir dosya kopyalamak mümkündür.
+Bu genellikle her iki sistemde de bir kullanıcı kimliği veya sistem yöneticisi(leri) tarafından ayarlanan özel bir yapılandırma gerektirir.
+
+Bu kısıtlamayı aşmanın iyi bir yolu vardır: anonim FTP
+hizmeti. Esasen dünyadaki herkesin belirli bir disk alanına tehdit oluşturmayan bir şekilde erişmesine izin verecektir. Bununla,
+insanlar dosyaları çok az güçlük çekerek herkese açık hale getirebilirler.
+Bazı
+sistemler, kaynak kodu ve bilgilerin kapsamlı arşivlerini tutmak için ayrılmış tüm disklere veya hatta tüm bilgisayarlara sahiptir.
+Bunlara
+gatekeeper.dec.com (Dijital), wuarchive.wustl.edu (Saint Louis'deki Washington Üniversitesi) ve archive.cis.ohio-state.edu (Ohio Eyalet Üniversitesi) dahildir.
+
+İşlem, "yabancı" kullanıcının (sistemin kendisinde olmayan birinin) bir FTP bağlantısı oluşturmasını ve sisteme anonim kullanıcı olarak, keyfi bir parola ile giriş yapmasını içerir:
+
+Ad (foo.site.com:siz): anonim
+Parola: jm@south.america.org
+
+Özel ve netiquette, insanların
+Parola: sorgusuna bir e-posta adresiyle yanıt vermesini gerektirir, böylece siteler isterlerse FTP kullanım seviyesini izleyebilir. (E-posta adresleri hakkında bilgi için adresler).
+
+Aktarım hızı, altta yatan bağlantının hızına bağlıdır. 9600bps SLIP bağlantısı olan bir site, 56k kiralık hatlı bir sistemle aynı verimi elde edemez (Ağda hangi tür bağlantıların olabileceği hakkında daha fazla bilgi için Fiziksel Bağlantı). Ayrıca, bu bağlantıdaki diğer tüm kullanıcıların trafiği performansı etkileyecektir. Aynı anda bir siteden FTP yapan otuz kişi varsa, sistemdeki yük (ağ bağlantısına ek olarak) transferin genel verimini düşürecektir.
+
+FTP Davranış Kuralları
+
+Unutmayalım, İnternet insanların iş yapması için vardır. Ağı ve üzerindeki sistemleri kullanan insanlar bunu bir amaç için yaparlar,
+ister araştırma, ister geliştirme,
+ne olursa olsun. Herhangi bir yoğun aktivite
+ağın genel performansını düşürür.
+
+Bir FTP bağlantısının bir site ve bağlantısı üzerindeki etkileri değişebilir;
+genel kural, yaratılan herhangi bir ekstra trafiğin o sitenin kullanıcılarının görevlerini yerine getirme yeteneğini azaltmasıdır. Bunu dikkate almaya yardımcı olmak için, FTP oturumlarının o site için normal mesai saatlerinden sonra, tercihen gece geç saatlerde yapılması şiddetle tavsiye edilir. Büyük bir transferin olası etkileri, öğleden sonra 2'den daha az yıkıcı olacaktır. Ayrıca, Maine'de akşam yemeği saati geçmişse, Kaliforniya'da hala öğleden sonra erken saatler olduğunu unutmayın ---
+ziyaret edilen sitedeki mevcut saat açısından düşünün, yerel saat açısından değil.
+
+Temel Komutlar
+
+Çeşitli FTP istemcilerine birçok uzantı getirilmiş olsa da, herkesin çalışmasını beklediği fiili bir "standart" set vardır. Daha spesifik bilgiler için, kendi FTP programınızın kılavuzunu okuyun. Bu bölüm yalnızca bir FTP oturumunu çalıştırmak için gereken en az komutu gözden geçirecektir. Bağlantıyı Oluşturma
+
+FTP'yi kullanmak için gerçek komut işletim sistemleri arasında farklılık gösterecektir;
+netlik açısından, en genel biçim olduğu için burada FTP kullanacağız.
+
+Bir sisteme bağlanmanın iki yolu vardır: ana bilgisayar adını
+veya İnternet numarasını kullanarak. Genellikle ana bilgisayar adını kullanmak tercih edilir.
+Ancak, bazı siteler ana bilgisayar adlarını düzgün bir şekilde çözemez
+ve alternatifleri yoktur. Basitlik adına ana bilgisayar adlarını
+kullanabildiğinizi varsayacağız. Biçim şudur:
+
+ftp somewhere.domain
+
+Alan adlarını okuma ve kullanma konusunda yardım için Domains
+(aşağıdaki örnekte somewhere.domain ftp.uu.net'tir).
+
+Önce bağlanmak istediğiniz sistemin adını bilmelisiniz.
+Örnek olarak ftp.uu.net'i kullanacağız. Sisteminizde şunu yazın:
+
+ftp ftp.uu.net
+
+(gerçek sözdizimi, bağlantının yapıldığı sistemin türüne bağlı olarak değişecektir). Kısa bir süre duraklayacak ve
+
+ftp.uu.net'e bağlandı.
+
+mesajıyla yanıt verecek ve ilk istem şu şekilde görünecek:
+
+220 uunet FTP sunucusu (Sürüm 5.100 Pazartesi Şubat 11 17:13:28 EST 1991) hazır.
+Ad (ftp.uu.net:jm):
+
+buna anonim olarak yanıt vermelisiniz:
+
+220 uunet FTP sunucusu (Sürüm 5.100 Pazartesi Şubat 11 17:13:28 EST 1991) hazır.
+Ad (ftp.uu.net:jm): anonim
+
+Sistem daha sonra sizden bir parola isteyecektir; daha önce belirtildiği gibi,
+iyi bir yanıt e-posta adresinizdir:
+
+331 Misafir girişi tamam, kimliği parola olarak gönder.
+Parola: jm@south.america.org
+230 Misafir girişi tamam, erişim kısıtlamaları uygulanıyor.
+ftp>
+
+Parolanın kendisi yankılanmayacaktır. Bu, bir kullanıcının makineler arasında FTP dosyaları için gerçek bir hesap kullandığında güvenliğini korumak içindir. ftp> istemine ulaştığınızda, oturum açtığınızı ve gitmeye hazır olduğunuzu bilirsiniz.
+
+Name: isteminde ftp.uu.net:joe'yi fark ettiniz mi? Bu, anonim FTP'nin özel olduğuna dair bir başka ipucudur: FTP, transferler için normal kullanıcı hesaplarının kullanılmasını bekler.
+
+dir
+ftp> isteminde, çeşitli işlevleri gerçekleştirmek için bir dizi komut yazabilirsiniz. Bir örnek dir---geçerli dizindeki dosyaları listeler. Yukarıdaki örneğe devam edelim:
+
+ftp> dir
+
+200 PORT komutu başarılı.
+150 /bin/ls için ASCII modu veri bağlantısı açılıyor. toplam 3116
+drwxr-xr-x 2 7 21 512 21 Kas 1988 .forward
+-rw-rw-r-- 1 7 11 0 23 Haz 1988 .hushlogin
+drwxrwxr-x 2 0 21 512 4 Haz 1990 Nüfus Sayımı
+drwxrwxr-x 2 0 120 512 8 Oca 09:36 ClariNet
+... vb vb ...
+-rw-rw-r-- 1 7 14 42390 20 May 02:24 newthisweek.Z
+... vb vb ...
+-rw-rw-r-- 1 7 14 2018887 21 May 01:01 uumap.tar.Z
+drwxrwxr-x 2 7 6 1024 11 Mayıs 10:58 uunet-info
+
+226 Transfer tamamlandı.
+1,1 saniyede 5414 bayt alındı ​​(4,9 Kbytes/sn)
+ftp>
+
+newthisweek.Z dosyası özellikle eklenmiştir çünkü daha sonra kullanacağız. Sadece genel bilgi için, bu dosya UUNET arşivlerine geçen
+hafta boyunca eklenen tüm dosyaların bir listesidir.
+
+Gösterilen dizin Unix işletim sistemini çalıştıran bir makinededir---dir komutu diğer işletim sistemlerinde (ör. TOPS, VMS, vb.) farklı sonuçlar üretecektir. Farklı
+formatları tanımayı öğrenmek biraz zaman alacaktır. Birkaç hafta
+İnternette dolaştıktan sonra, örneğin,
+alışık olmadığınız bir işletim sistemindeki bir dosyanın ne kadar büyük olduğunu görmek daha kolay hale gelir.
+
+Birçok FTP uygulamasında, dir'in çıktısını alıp yerel sistemdeki bir dosyaya
+
+ftp> dir n* outfilename
+
+koymak da mümkündür; bu dosyanın içeriği daha sonra canlı FTP bağlantısının dışında okunabilir; bu özellikle çok uzun dizinleri olan sistemler için faydalıdır (örneğin ftp.uu.net). Yukarıdaki örnek, n ​​ile başlayan her dosyanın adını yerel dosyaya
+
+outfilename
+koyar.
+
+cd
+
+Bir FTP oturumunun başlangıcında, kullanıcı "en üst düzey" bir
+dizindedir. Çoğu şey bunun altındaki dizinlerdedir (örneğin /pub).
+Geçerli dizini
+değiştirmek için cd komutu kullanılır. Örneğin, pub dizinine geçmek için,
+
+ftp> cd pub
+
+yazmak gerekirdi ve bu da şu yanıtı alırdı:
+
+250 CWD komutu başarılı.
+
+"Çalışma Dizinini Değiştir" komutu (cd) düzgün çalıştı.
+
+Bir dizinde "yukarı" gitmek daha çok sisteme özgüdür --- Unix'te cd .. komutunu ve VMS'de cd [-] komutunu kullanın.
+
+get ve put
+
+Gerçek transfer get ve put
+komutlarıyla gerçekleştirilir. Uzak bilgisayardan yerel sisteme bir dosya almak için, komut şu biçimi alır:
+
+ftp> get filename
+
+burada filename uzak sistemdeki dosyadır. Yine örnek olarak
+ftp.uu.net'i kullanarak, newthisweek.Z dosyası şu şekilde alınabilir:
+
+ftp> get newthisweek.Z
+200 PORT komutu başarılı.
+150 newthisweek.Z için ASCII modu veri bağlantısı açılıyor (42390 bayt). 226 Transfer tamamlandı.
+yerel: newthisweek.Z uzak: newthisweek.Z
+6,9 saniyede 42553 bayt alındı ​​(6 Kbayt/sn)
+ftp>
+
+ASCII yerine ikili modun kullanılmasıyla ilgili aşağıdaki bölüm, bu özel seçimin neden bozuk ve daha sonra
+kullanılamaz bir dosyayla sonuçlanacağını açıklayacaktır.
+
+Herhangi bir nedenle, bir dosyayı farklı bir ad altında kaydetmek istiyorsanız
+(örneğin, sisteminiz yalnızca 14 karakterli dosya adlarına sahip olabilir veya adında yalnızca bir nokta olabilir), get'e ek bir argüman sağlayarak yerel dosya adının ne olması gerektiğini belirtebilirsiniz
+
+ftp> get newthisweek.Z uunet-new
+
+bu, newthisweek.Z dosyasının içeriğini yerel sisteme
+uunet-new olarak yerleştirecektir.
+
+Transfer diğer şekilde de çalışır. Put komutu, bir dosyayı yerel sistemden uzak sisteme
+aktarır.
+İzinler, uzak bir dizine yazmak için bir FTP oturumu için ayarlanmışsa, bir dosya 
+ftp> put filename
+
+ile gönderilebilir. Get'te olduğu gibi, put üçüncü bir argüman alır ve uzak sistemdeki dosya için farklı bir ad belirtmenize olanak tanır.
+
+ASCII ve İkili
+
+Yukarıdaki örnekte, newthisweek.Z dosyası aktarıldı, ancak
+sözde doğru bir şekilde değil. Bunun nedeni şudur: normal bir ASCII
+transferinde (varsayılan), metin dosyalarını daha okunabilir hale getirmek için sistemler arasında belirli karakterler çevrilir. Ancak, ikili
+dosyalar (ASCII olmayan karakterler içerenler) aktarıldığında, bu
+çeviri gerçekleşmemelidir. Bir örnek ikili
+programdır---birkaç değiştirilmiş karakter onu tamamen işe yaramaz hale getirebilir.
+
+Bu sorunu önlemek için, iki moddan birinde olmak mümkündür---ASCII
+veya ikili. İkili modda, dosya hiçbir şekilde çevrilmez. Uzaktaki sistemde olan şey tam olarak alınan şeydir. İki mod arasında geçiş yapmak için komutlar şunlardır:
+
+ftp> ascii
+200 Türü A olarak ayarlandı. (ASCII modunu belirten A'ya dikkat edin.)
+
+ftp> binary
+200 Türü I olarak ayarlandı. (Saf ikili aktarımlar için Görüntü biçimine ayarlandı.)
+
+Her komutun etkili olması için yalnızca bir kez yapılması gerektiğini unutmayın; kullanıcı ikili yazarsa, o oturumdaki tüm aktarımlar ikili modda yapılır (yani daha sonra ascii yazılmadığı sürece).
+
+newthisweek.Z'nin aktarımı şu şekilde yapılırsa çalışacaktır:
+
+ftp> binary
+200 Türü I olarak ayarlandı.
+ftp> get newthisweek.Z
+200 PORT komutu başarılı.
+150 newthisweek.Z için BINARY modu veri bağlantısı açılıyor (42390 bayt).
+226 Aktarım tamamlandı. yerel: newthisweek.Z uzak: newthisweek.Z
+7,2 saniyede alınan 42390 bayt (5,8 Kbayt/sn)
+
+Not: Dosya boyutu (42390), ASCII modunda yapılandan (42553) bayttan farklıdır; ve 42390 sayısı, UUNET'in en üst dizinindeki listelemedeki sayıyla eşleşir. Dosyayı herhangi bir sorun olmadan aldığımızdan nispeten emin olabiliriz.
+
+mget ve mput
+
+Mget ve mput komutları, tek tek elle yapmak yerine, birden fazla dosyayı veya bir dizi dosyayı aynı anda almak için joker karakterler kullanılarak birden fazla dosya
+aktarımına izin verir. Örneğin, f harfiyle başlayan tüm dosyaları almak için, kişi şunu yazabilir:
+
+ftp> mget f*
+
+Benzer şekilde, .c ile biten tüm yerel dosyaları koymak için:
+
+ftp> mput *.c
+
+Daha önce yüzlerce kez yazılmış olanı tekrarlamak yerine,
+joker karakter eşleştirme hakkında daha fazla bilgi için yerel bir kılavuza başvurun
+(örneğin, her DOS kılavuzunda bununla ilgili bir bölüm vardır). Normalde, FTP bir kullanıcının bir
+mget veya mput işlemindeki her dosya için kendisine sorulmasını istediğini varsayar. Genellikle bir dizi
+dosyayı almanız ve bunların her birinin onaylanmaması gerekir---hepsinin doğru olduğunu bilirsiniz. Bu durumda, sorguları kapatmak için komut istemi komutunu kullanın.
+
+ftp> komut istemi
+Etkileşimli mod kapalı.
+
+Aynı şekilde, tekrar açmak için komut istemi
+tekrar verilmelidir.
+
+Joe Granrose'un Listesi
+Aylık olarak, Joe Granrose (odin@pilot.njin.net) Usenet'e (Usenet Haberleri) anonim FTP hizmeti sunan sitelerin kapsamlı bir listesini gönderir. Birkaç şekilde kullanılabilir:
+
+Usenet grupları comp.misc ve comp.sources.wanted
+
+pilot.njin.net'ten [128.6.7.38] anonim FTP, /pub/ftp-list.
+
+odin@pilot.njin.net adresine, listserv-request satırında bir Konu: ve yardım gönder mesaj gövdesiyle yazın. Lütfen Joe'yu isteklerinizle rahatsız etmeyin --- sunucu size listeyi sağlayacaktır.
+
+archie Sunucusu
+archie her zaman küçük harflerle yazılır
+
+Kanada'daki McGill Üniversitesi'nde bir grup insan bir araya gelerek archie adlı bir
+sorgu sistemi oluşturdu. Başlangıçta, dünyanın dört bir yanında tutulan birçok anonim FTP sitesinin tekliflerini taramanın hızlı ve kolay bir yolu olarak oluşturulmuştu. Zamanla
+archie diğer değerli hizmetleri de içerecek şekilde büyüdü.
+
+archie hizmetine etkileşimli bir telnet
+oturum, e-posta sorguları ve komut satırı ve X-window istemcileri aracılığıyla erişilebilir.
+E-posta yanıtları, İnternet'te olmayanlar için FTPmail sunucularıyla birlikte kullanılabilir. (FTP-by-Mail Sunucuları, FTPmail sunucularını kullanma hakkında bilgi için.)
+
+Archie'yi Bugün Kullanma
+
+Şu anda archie, İnternet genelinde depolanan bir milyondan fazla dosya içeren 800'den fazla anonim FTP
+arşiv sitesinin içeriğini izliyor. Bu dosyalar toplu olarak 50 gigabayttan fazla bilgiyi temsil ediyor ve her gün yeni girişler ekleniyor.
+
+Archie sunucusu, her siteden listeleme bilgilerini ayda bir kez otomatik olarak günceller. Bu, ağ kaynaklarını israf edebilecek veritabanlarının sürekli olarak güncellenmesini önler, ancak her sitenin
+elindeki bilgilerin makul ölçüde güncel olmasını sağlar.
+
+Archie'ye etkileşimli olarak erişmek için mevcut sunuculardan birine telnet yapın. {Telnet programını kullanma notları için Telnet'e bakın.} Bunlar şunları içerir
+
+archie.ans.net (New York, ABD)
+archie.rutgers.edu (New Jersey, ABD)
+archie.sura.net (Maryland, ABD)
+archie.unl.edu (Nebraska, ABD)
+archie.mcgill.ca (ilk Archie sunucusu, Kanada'da)
+archie.funet.fi (Finlandiya)
+archie.au (Avustralya)
+archie.doc.ic.ac.uk (Büyük Britanya)
+
+Sunuculardan birinin oturum açma isteminde, oturum açmak için archie girin.
+Archie projesinde devam eden çalışmalar hakkında ayrıntılı bilgi veren bir selamlama görüntülenecektir; kullanıcı, komutları girebileceği bir archie>
+isteminde bırakılacaktır. Yardımı kullanmak,
+sorgulama yapmak, sunucunun çalışmasının çeşitli yönlerini kontrol etmek için prog komutunu kullanma talimatları verecektir. archie'den ayrılmak için komut isteminde quit yazın. prog vine.tar.Z sorgusunu yazmak, X-windows
+program vine'a kaynak sunan sistemlerin bir listesini verecektir; döndürülen bilgilerin bir parçası şöyle görünüyor:
+
+Host ftp.uu.net (137.39.1.9)
+Son güncelleme 10:30 7 Ocak 1992
+
+Konum: /packages/X/contrib
+DOSYA rw-r--r-- 15548 8 Ekim 20:29 vine.tar.Z
+
+Host nic.funet.fi (128.214.6.100)
+Son güncelleme 05:07 4 Ocak 1992
+
+Konum: /pub/X11/contrib
+DOSYA rw-rw-r-- 15548 8 Kasım 03:25 vine.tar.Z
+
+archie İstemcileri
+
+İki ana akım archie istemcisi var, biri (doğal olarak) archie, diğeri xarchie (X-Windows için). Archie veritabanlarını sorgularlar ve sunucuya etkileşimli bir oturum gerektirmeden, istenen
+dosya(lar)ın anonim FTP için mevcut olduğu sistemlerin bir listesini verirler. Örneğin, sunucu komutu prog ile denediğiniz aynı bilgileri bulmak için şunu yazabilirsiniz:
+
+% archie vine.tar.Z
+Ana bilgisayar athene.uni-paderborn.de
+Konum: /local/X11/more_contrib
+DOSYA -rw-r--r-- 18854 15 Kasım 1990 vine.tar.Z
+
+Ana bilgisayar emx.utexas. edu
+Konum: /pub/mnt/source/games
+DOSYA -rw-r--r-- 12019 7 Mayıs 1988 vine.tar.Z
+
+Ana bilgisayar export.lcs.mit.edu
+Konum: /contrib
+DOSYA -rw-r--r-- 15548 9 Ekim 00:29 vine.tar.Z
+
+Sistem yöneticinizin archie istemcilerini henüz yüklememiş olabileceğini unutmayın; kaynak, archie sunucularının her birinde, archie/clients dizininde mevcuttur.
+
+X-windows istemcisini kullanmak çok daha sezgiseldir---yüklüyse,
+sadece man sayfasını okuyun ve bir deneyin. Ağ
+bağlantılı masaüstü için olmazsa olmazdır.
+
+archie'ye posta gönderme
+
+İnternete e-posta bağlantısıyla sınırlı olan kullanıcılar, mesajın gövdesinde tek kelimelik help ile archie@archie.mcgill.ca adresine bir mesaj göndermelidir. E-posta archie sunucusunun nasıl kullanılacağını ve FTPmail'in nasıl kullanılacağını açıklayan bir e-posta mesajı döndürülecektir. Telnet arayüzünün sunduğu komutların çoğu posta sunucusuyla kullanılabilir.
+
+Whatis veritabanı
+
+Anonim FTP listelerine erişim sağlamanın yanı sıra, archie ayrıca
+whatis açıklama veritabanına erişime izin verir.
+İnternet'te bulunan 3.500'den fazla kamuya açık yazılım paketi, veri kümesi ve bilgilendirici belgenin adlarını ve kısa özetlerini içerir.
+
+Gelecekte ek whatis veritabanlarının eklenmesi planlanmaktadır. Planlanan teklifler arasında çevrimiçi kütüphane katalog programlarının adları ve konumları, halka açık
+elektronik posta listelerinin adları, Sıkça Sorulan Sorular
+listelerinin derlemeleri ve en popüler Usenet haber grupları için arşiv siteleri yer almaktadır.
+Ek açıklamalar veya konum veritabanları için öneriler memnuniyetle karşılanır ve archie geliştiricilerine
+archie-l@cs.mcgill.ca adresinden gönderilmelidir.
+
+"Was f@"ur pl@"undern!"
+("Yağmalamak için ne güzel bir yer!")
+Gebhard Leberecht Bl@"ucher
+
+------
+Usenet Haberleri
+
+Orijinal kaynak: chip@count.tct.com (Chip Salzenberg)
+[En son değişiklik: 19 Mayıs 1991, spaf@cs.purdue.edu (Gene Spafford)]
+
+Usenet hakkında anlaşılması gereken ilk şey, yaygın olarak
+yanlış anlaşıldığıdır. Usenet'te her gün "kör adamlar ve fil" fenomeni, küreklerle ortaya çıkar. Yazarın
+görüşüne göre, Usenet'in doğasının başka herhangi bir kaynaktan daha fazla anlaşılmaması nedeniyle daha fazla alev savaşı (çılgınca tartışmalar) ortaya çıkar. Ve bu tür alev savaşlarının, Usenet'te olan insanlar arasında, zorunluluktan
+çıktığını düşünün. Öyleyse, Usenet'in dışarıdakiler tarafından ne kadar
+kötü anlaşıldığını hayal edin!
+
+Usenet'in doğası üzerine hiçbir makale, birçok Usenet'in
+sahip olduğu hatalı izlenimleri göz ardı edemez kullanıcılar. Bu nedenle, bu bölüm öncelikle
+yanlışlıkları ele alacaktır. Gerçek için okumaya devam edin. (Ne yazık ki güzellik Usenet ile alakalı değildir.)
+
+Usenet Nedir
+
+Usenet, haber grupları (veya kısaca "gruplar") adı verilen bir veya daha fazla evrensel olarak tanınan etiketle etiketlenen makaleleri değiştiren makineler kümesidir. (Haber grubu teriminin doğru olduğunu,
+alan, taban, pano, pano, konferans, yuvarlak masa, SIG vb. terimlerinin ise yanlış olduğunu unutmayın. Anlaşılmak istiyorsanız, doğru olun.)
+
+Usenet'in Çeşitliliği
+
+Yukarıdaki Usenet tanımı belirsiz geliyorsa, bunun nedeni belirsiz olmasıdır.
+Bütün Usenet sitelerini herhangi bir önemsiz olmayan şekilde genellemek neredeyse imkansızdır. Usenet, hükümet kurumlarını, büyük
+üniversiteleri, liseleri, her büyüklükteki işletmeyi, her türlü ev bilgisayarını vb. kapsar.
+
+Her yönetici kendi sitesini kontrol eder. Hiç kimse kendi sitesi dışında hiçbir site üzerinde gerçek bir kontrole sahip değildir. Yönetici gücünü, yönettiği sistemin sahibinden alır. Yönetici, yaptığı işten memnun olduğu sürece, Usenet'i tamamen kesmek de dahil olmak üzere istediğini yapabilir. C'est
+la vie.
+
+Usenet Ne Değildir
+
+Usenet bir organizasyon değildir.
+Usenet'in merkezi bir otoritesi yoktur. Aslında, merkezi bir şeyi yoktur.
+Yüksek hacimli haber akışının yönüyle ilgili olarak belirsiz bir "yukarı akış" ve "aşağı akış" kavramı vardır. Bundan, "yukarı akış" siteleri "aşağı akış" komşuları için hangi trafiği taşıyacaklarına karar verdiği ölçüde, "yukarı akış" sitelerinin komşuları üzerinde bir miktar etkisi olduğu sonucu çıkar. Ancak bu tür bir etkiyi aşmak genellikle kolaydır ve sert manipülasyon genellikle bir tepkiyle sonuçlanır.
+
+Usenet bir demokrasi değildir.
+Demokrasi, gevşek bir şekilde "halkın, halk tarafından, halk için yönetimi" olarak tanımlanabilir. Ancak, yukarıda açıklandığı gibi, Usenet bir organizasyon değildir ve yalnızca bir organizasyon demokrasi olarak yönetilebilir. Bir demokrasi bile organize edilmelidir, çünkü halkın isteklerini yerine getirmenin bir yolu yoksa, o zaman var olmayabilir.
+
+Bazı insanlar Usenet'in bir demokrasi olmasını ister. Birçok insan da öyle olduğunu iddia eder. Her iki grup da ne yazık ki aldanmaktadır.
+
+Usenet adil değildir.
+Sonuçta, neyin adil olduğuna kim karar verecek? Bu konuda, eğer biri
+haksızca davranıyorsa, onu kim durduracak? Ne sen ne de ben,
+bu kesin.
+
+Usenet bir hak değildir.
+Bazı insanlar yerel "konuşma özgürlüğü" haklarını,
+başkalarının bilgisayarlarını istedikleri şekilde dilediklerini söylemek için kullanma yasal hakları olduğu ve söz konusu bilgisayarların sahiplerinin onları durdurma hakkı olmadığı şeklinde yanlış anlıyorlar.
+
+Bu insanlar yanılıyor. Konuşma özgürlüğü aynı zamanda konuşmama özgürlüğü anlamına da gelir; eğer ben bilgisayarımı senin konuşmana yardımcı olmak için kullanmamayı seçersem, bu benim hakkımdır.
+
+Basın özgürlüğü, basına sahip olanlara aittir.
+
+Usenet kamu hizmeti değildir.
+Bazı Usenet siteleri kamu tarafından finanse edilir veya sübvanse edilir. Çoğu,
+açıkça söylemek gerekirse, değildir. Usenet üzerinde bir hükümet tekeli yoktur ve
+çok az veya hiç kontrol yoktur.
+
+Usenet ticari bir ağ değildir.
+Birçok Usenet sitesi akademik veya hükümet kuruluşlarıdır; aslında,
+Usenet akademide ortaya çıkmıştır. Bu nedenle, ticari trafiği minimumda tutma konusunda bir Usenet geleneği vardır. Bu tür ticari trafik
+genel olarak taşınmaya değer görülüyorsa, o zaman gönülsüzce
+tolere edilebilir. Yine de, genellikle ticari olmayan trafikten bir şekilde ayrılır; bkz. comp.newprod.
+
+Usenet İnternet değildir.
+İnternet, çeşitli hükümetler tarafından sübvanse edilen
+birçok bölümü olan geniş kapsamlı bir ağdır. İnternet birçok türde trafik taşır;
+Usenet bunlardan sadece biridir. Ve İnternet, Usenet trafiğini taşıyan
+çeşitli ağlardan sadece biridir.
+
+Usenet bir Unix ağı değildir, hatta bir ASCII ağı bile değildir.
+
+Herkesin bir Unix makinesinde "rn" kullandığını varsaymayın.
+VMS çalıştıran Vaxen, IBM ana bilgisayarları, Amigalar ve Usenet'e okuyan ve gönderen MS-DOS PC'ler vardır. Ve evet, bazıları (titriyor) EBCDIC kullanır.
+İsterseniz onları görmezden gelin, ama onlar oradalar.
+
+Usenet bir yazılım değildir. Çeşitli sitelerde Usenet makalelerini taşımak ve okumak için düzinelerce yazılım paketi kullanılıyor. Bu nedenle hiçbir program veya paket "Usenet yazılımı" olarak adlandırılamaz. Usenet trafiğini desteklemek için tasarlanmış yazılımlar, genellikle ikisini karıştırma riski olmadan diğer iletişim türleri için kullanılabilir (ve kullanılmaktadır). Bu tür özel iletişim ağları, evrensel olarak tanınanlardan farklı haber grubu adlarının icadıyla Usenet'ten ayrı tutulur. Usenet bir UUCP ağı değildir. UUCP, genellikle çevirmeli modemler kullanılarak noktadan noktaya bağlantılar üzerinden veri göndermek için bir protokoldür (bazıları protokol paketi diyebilir, ancak bu teknik bir konudur). Usenet, UUCP üzerinden taşınan çeşitli trafik türlerinden yalnızca biridir ve UUCP, Usenet trafiğini taşıyan çeşitli taşımalardan yalnızca biridir.
+
+Neyse, yeterince olumsuzluk.
+
+Haberlerin Yayılması
+
+Eskiden, uzun mesafeli çevirmeli hatlar üzerinden UUCP makale iletiminin baskın yoluyken, birkaç iyi bağlantılı site
+hangi haber gruplarının nereye taşınacağını belirlemede gerçek bir etkiye sahipti. Bu siteler kendilerine "omurga" adını verdiler.
+
+Ancak işler değişti. Günümüzde, en küçük İnternet sitesi bile
+geçmişin omurga yöneticilerinin ancak hayal edebileceği
+bir bağlantıya sahip. Ayrıca, ABD'de , daha ucuz
+uzun mesafeli aramaların ve yüksek hızlı modemlerin ortaya çıkması, uzun mesafeli
+Usenet beslemelerini daha küçük şirketler için düşünülebilir hale getirdi. Bugün ABD'de yalnızca bir tane
+önde gelen UUCP taşıma sitesi var, o da UUNET. Ancak
+UUNET yayılma savaşlarında bir oyuncu değil, çünkü hiçbir zaman
+trafik reddetmez---sonuçta dakika başına ödeme alır;
+içeriğe dayanarak reddetmek, gelişmiş bir hizmet sağlayıcı olarak yasal statüsünü tehlikeye atar.
+
+Yukarıdakilerin hepsi ABD için geçerlidir. Avrupa'da, farklı maliyet
+yapıları, merkezi kayıt defterlerine sahip, kesinlikle kontrol edilen hiyerarşik
+organizasyonların oluşturulmasını destekledi. Bunların hepsi, ABD sitelerinin geleneksel modundan çok farklıdır (bir isim seçin, yazılımı edinin, bir besleme alın, işte hazırsınız). Avrupa'nın uzun süredir itiraz edilmeyen "iyi huylu tekelleri", artık ABD modeline göre şekillenmiş daha gevşek örgütlerle rekabet ediyor.
+
+Grup Oluşturma
+
+Yukarıda tartışıldığı gibi, Usenet bir demokrasi değildir. Yine de,
+şu anda yeni bir haber grubu oluşturmanın en popüler yolu, önerilen bir haber grubuna yönelik popüler desteği (ve muhalefeti) belirlemek için bir "oylama" içerir. Haber grubu oluşturma sürecine ilişkin ayrıntılı talimatlar ve yönergeler için Haber Grubu Oluşturma.
+
+Yönergeleri takip ederseniz, grubunuzun oluşturulması ve yaygın olarak yayılması muhtemeldir. Ancak, Usenet'in doğası gereği, hiçbir kullanıcının bir haber grubu oylamasının (veya başka bir kararın) sonuçlarını zorlamasının bir yolu yoktur. Bu nedenle,
+yeni haber grubunuzun yaygın olarak yayılması için, yalnızca yönergelerin harfine uymakla kalmamalı; aynı zamanda ruhuna da uymalısınız. Ve karanlık işlerin veya kirli oyunların en ufak bir kokusunun bile oylamayı gölgelemesine izin vermemelisiniz.
+
+Bu yüzden şunu sorabilirsiniz: Yeni bir kullanıcı yönergelerin "ruhu" hakkında nasıl bir şey bilebilir? Açıkça, bilemez. Bu gerçek kaçınılmaz olarak şu öneriye yol açar:
+
+Yeni bir kullanıcıysanız, tek başınıza yeni bir haber grubu oluşturmaya çalışmayın.
+
+İyi bir haber grubu fikriniz varsa, işlerin nasıl yürüdüğünü öğrenmek için bir süre (en az altı ay) news.groups
+newsgroup'u okuyun. Altı ay beklemek için fazla sabırsızsanız, o zaman gerçekten öğrenmeniz gerekir; bunun yerine bir yıl news.groups okuyun.
+Bekleyemiyorsanız, sizin adınıza oylamayı yönetecek eski bir Usenet elemanı bulun.
+
+Okurlar bu tavsiyenin gereksiz yere katı olduğunu düşünebilir. Bunu kendi riskinize görmezden gelin. Öğrenmeden konuşmak utanç vericidir. Anlamadığınız bir
+topluma ağzınız açık bir şekilde atlamak aptallıktır. Ve
+bir tuşa basarak sizi susturabilecek insanlara iradenizi
+zorlamaya çalışmak boşunadır.
+
+Mutsuzsanız...
+Mülkiyet hakları olduğu gibi kaldığından, Usenet'te Usenet trafiğinin taşındığı makinelerin sahibi olan insanlardan daha yüksek bir otorite yoktur. Kullandığınız makinenin sahibi, "Bu makinede alt.sex
+taşımayacağız" derse ve siz bu emirden
+memnun kalmazsanız, Usenet'te başvurabileceğiniz hiçbir yer yoktur. Sonuçta biz dışarıdakiler ne yapabiliriz?
+
+Bu, seçeneklerinizin olmadığı anlamına gelmez. Sitenizin yapısına bağlı olarak, bazı dahili politik başvuru yollarınız olabilir. Ya da
+dış baskıyı faydalı bulabilirsiniz. Ya da, asgari bir yatırımla,
+başka bir yerden kendi yayınınızı alabilirsiniz. Usenet beslemelerini alabilen bilgisayarlar artık 500 dolar aralığında, Unix uyumlu kutular 2000 doların altında ve 100 dolar fiyat aralığında en az iki Unix benzeri var.
+
+Ne olursa olsun, "Usenet"e başvurmak işe yaramayacak. Sistem yönetimiyle ilgili böyle bir başvuruyu okuyanlar davanıza sempati duysalar bile, sitenizde sizden daha az etkiye sahip olacaklardır.
+
+Aynı şekilde, başka bir sitedeki bir kullanıcının yaptığı şeyden hoşlanmazsanız, yalnızca o sitenin yöneticisi ve/veya sahibi bu konuda bir şey yapma yetkisine sahiptir. Onları söz konusu kullanıcının onlar için bir sorun olduğuna ikna edin ve bir şeyler yapabilirler (eğer isterlerse). Söz konusu kullanıcı, gönderi yaptığı sitenin yöneticisi veya sahibiyse, unutun; kazanamazsınız.
+Haber okuma yazılımınızın, mümkünse ondan gelen makaleleri görmezden gelmesini ayarlayın ve
+birini deneyime bağlayın.
+
+Usenet'in Tarihi (ABC'ler)
+
+Başlangıçta, konuşmalar vardı ve iyiydi. Sonra
+1979'da, UUCP ile V7 Unix'in piyasaya sürülmesinden kısa bir süre sonra Usenet geldi;
+ve daha iyiydi. Kuzey Karolina'daki Duke Üniversitesi'nden iki lisansüstü öğrenci, Tom Truscott ve Jim Ellis, Unix topluluğuyla bilgi alışverişinde bulunmak için
+bilgisayarları birbirine bağlamayı düşündüler. Kuzey Karolina Üniversitesi'nde lisansüstü öğrencisi olan Steve
+Bellovin, kabuk komut dosyalarını kullanarak haber yazılımının ilk sürümünü bir araya getirdi
+ve ilk iki siteye kurdu: unc ve duke. 1980'lerin başında ağ, bu iki siteden ve phs'den (Duke'deki başka bir makine) oluşuyordu ve Ocak 1980'de Boulder, CO'daki Usenix konferansında anlatıldı. {Usenix konferansları, Unix meraklılarından oluşan bir grup olan Usenix Derneği üyelerinin bir araya gelip not alışverişinde bulunduğu altı ayda bir yapılan toplantılardır.} Steve Bellovin daha sonra betikleri C programlarına yeniden yazdı, ancak bunlar unc ve duke'tan sonra asla yayınlanmadı. Kısa bir süre sonra Steve Daniel, kamuya açık dağıtım için C programlama dilinde başka bir uygulama yaptı. Tom Truscott daha fazla değişiklik yaptı ve bu "A" haber bülteni oldu.
+
+1981'de Berkeley'deki California Üniversitesi'nde lisansüstü öğrencisi Mark Horton ve lise öğrencisi Matt Glickman, işlevsellik eklemek ve giderek artan haber hacmiyle başa çıkmak için haber yazılımını yeniden yazdılar. "A" haberleri, günde grup başına yalnızca birkaç makale için tasarlanmıştı. Bu yeniden yazma "B" haber sürümüydü. İlk genel sürüm 1982'de 2.1 sürümüydü; 2.1'den önceki tüm sürümler beta testinde değerlendirildi. Net büyüdükçe, haber yazılımı genişletildi ve değiştirildi. Esas olarak Mark tarafından sürdürülen ve yayınlanan son sürüm 2.10.1'di.
+
+O zamanlar Sismik Çalışmalar Merkezi'nde olan Rick Adams, 1984'te 2.10.2 sürümüyle haber yazılımının bakım ve geliştirme koordinasyonunu devraldı. Bu sırada, artan haber hacmi bir endişe kaynağı haline geldi ve 2.10.2'de yazılıma denetlenen gruplar için bir mekanizma eklendi. Denetlenen gruplar ARPA posta listelerinden ve diğer ilan panosu sistemleriyle ilgili deneyimlerden ilham aldı. 1986'nın sonlarında, haber grupları için yeni bir adlandırma yapısını, gelişmiş toplu işleme ve sıkıştırmayı, gelişmiş ihave/sendme denetimini ve diğer özellikleri destekleyen bir dizi değişiklik içeren haberin 2.11 sürümü yayınlandı. Haberin mevcut sürümü 2.11,
+patchlevel 19'dur.
+
+"C" haberleri olarak bilinen yeni bir haber sürümü, Geoff Collyer ve Henry Spencer tarafından Toronto Üniversitesi'nde
+geliştirildi. Bu sürüm, makale işleme hızını artırmak, makale son kullanma tarihini azaltmak ve daha iyi kilitleme vb. yoluyla haber sisteminin güvenilirliğini
+geliştirmek için haberin en düşük seviyelerinin yeniden yazılmasıdır. Paket 1987 sonbaharında The Net'te yayınlandı. Daha fazla bilgi için, Kış 1987 Usenix Teknik Konferansı bildirilerinde yayınlanan News Need Not Be
+Slow makalesine bakın.
+
+Usenet yazılımı ayrıca Amiga ve IBM PC'lerden mini bilgisayarlara ve ana bilgisayarlara kadar birçok platforma taşınmıştır.
+
+Hiyerarşiler
+Haber grupları, belirli yoğunlaşma alanlarına göre düzenlenir.
+
+Gruplar bir ağaç yapısında olduğundan, çeşitli alanlara hiyerarşiler denir. Yedi ana kategori vardır:
+
+comp
+Hem bilgisayar profesyonelleri hem de hobicilerin ilgisini çeken konular, bilgisayar bilimi, yazılım kaynakları ve
+donanım ve yazılım sistemleri hakkında bilgiler dahil.
+
+misc
+Diğer başlıklardan hiçbirine kolayca sınıflandırılamayan veya birden fazla kategoriden temaları içeren temaları ele alan grup.
+Konular arasında fitness, iş arama, hukuk ve yatırımlar yer alır. sci
+Yerleşik bilimlerdeki araştırma veya uygulamayla ilgili özel bilgiyle işaretlenmiş tartışmalar.
+
+soc
+Öncelikle sosyal sorunları ve sosyalleşmeyi ele alan gruplar. Dahil
+birçok farklı dünya kültürüyle ilgili tartışmalar.
+
+talk
+Gruplar büyük ölçüde tartışma odaklıdır ve çözümsüz ve önemli miktarda
+genel olarak yararlı bilgi olmadan uzun tartışmalara eğilimlidir.
+
+news
+Haber ağı, grup bakımı ve yazılımla ilgilenen gruplar.
+
+rec
+Hobilere ve eğlence aktivitelerine yönelik gruplar
+
+Bu "dünya" haber grupları (genellikle) tüm Usenet'te dolaştırılır---bu dünya çapında dağıtım anlamına gelir. Ancak tüm gruplar
+aslında bu kadar geniş bir dağıtıma sahip değildir. Avrupa Usenet
+ve Eunet siteleri daha "teknik" grupların yalnızca seçilmiş bir alt kümesini alır ve tartışmalı "gürültü" grupları genellikle ABD ve Kanada'daki birçok site tarafından taşınmaz (bu gruplar öncelikle konuşma
+ve soc sınıflandırmaları altındadır). Birçok site, içindeki gönderilerin genellikle büyük boyutu nedeniyle comp.binaries gruplarının bir kısmını veya tamamını taşımaz (gerçekten yürütülebilir programlar olmaları nedeniyle).
+
+Ayrıca bir dizi "alternatif" hiyerarşi de mevcuttur:
+
+alt
+Gerçek anarşi; her şey ve her şey görünebilir ve görünür;
+konular arasında seks, Simpsonlar ve gizlilik bulunur.
+
+gnu
+Özgür Yazılım Vakfı'nın GNU Projesi ile ilgi alanlarına ve yazılıma odaklanan gruplar. FSF'nin ne olduğu hakkında daha fazla bilgi için, FSF.
+
+biz
+İşle ilgili gruplar.
+
+Denetlenen ve Denetlenmeyen
+
+Bazı haber grupları, tartışmanın odaklanmış ve hedefte kalması konusunda ısrarcıdır; bu ihtiyaca hizmet etmek için denetlenen gruplar ortaya çıkmıştır. Denetlenen bir gruba gönderilen tüm
+makaleler grubun
+moderatörüne gönderilir. O, periyodik olarak (umarım daha erken)
+gönderileri inceler ve sonra bunları ayrı ayrı Usenet'e gönderir veya son bir veya iki gün içindeki makalelerin birleşik bir özetini gönderir. Birçok posta listesi ağ geçidi bu şekilde çalışır (örneğin,
+Risks Digest).
+
+news.groups ve news.announce.newgroups
+
+İyi bir net.citizen olmak, Usenet sisteminin devam eden
+büyümesine ve evrimine dahil olmayı içerir. Bu katılımın bir parçası
+news.groups gruplarındaki tartışmaları ve news.announce.newgroups'daki notları takip etmeyi içerir. Orada
+yeni grupların oluşturulması ve
+etkin olmayanların yok edilmesi hakkında tartışmalar devam eder. Usenet'teki her kişi bir haber grubunun oluşturulması konusunda oy kullanmaya izinlidir ve teşvik edilir.
+
+Usenet Nasıl Çalışır
+
+Usenet haberlerinin iletimi tamamen işbirlikçidir. Beslemeler
+genellikle iyi niyet ve haberleri her yere dağıtma isteğinden dolayı sağlanır. Ücret karşılığında besleme sağlayan yerler vardır (örneğin
+UUNET), ancak büyük oranda para alışverişi söz konusu değildir.
+
+İki ana taşıma yöntemi vardır, UUCP ve NNTP. Birincisi
+çoğunlukla modem tabanlıdır ve normal telefon görüşmeleri ücretlerini içerir.
+İkincisi olan NNTP, haberleri İnternet üzerinden dağıtmanın birincil yöntemidir.
+
+UUCP ile haberler, komşu makaleleri almak için arayana veya besleme sitesi arayana kadar bir sitede gruplar halinde saklanır.
+Komşunun almak istediği grupların bir listesi besleme sitesinde tutulur.
+Cnews sistemi gruplarını sıkıştırır, bu da nispeten yoğun bir haber akışı için gereken iletim süresini önemli ölçüde azaltabilir.
+
+Öte yandan NNTP, haberlerin nasıl gönderileceği konusunda biraz daha fazla esneklik sunar. Geleneksel depola ve ilet yöntemi elbette
+mevcuttur. İnternetin "gerçek zamanlı" doğası göz önüne alındığında,
+başka yöntemler de geliştirilmiştir. Programlar artık haber komşularıyla sürekli bağlantı kurarak
+neredeyse anında haber gönderiyor ve hem gelen hem de giden düzinelerce eşzamanlı beslemeyi işleyebiliyor.
+
+Bir Usenet makalesinin iletimi benzersiz
+Message-ID: başlığı etrafında merkezlenir. Bir NNTP sitesi bir makaleyi bir komşuya sunduğunda, o belirli Mesaj Kimliğine sahip olduğunu söyler. Komşu henüz makaleyi almadığını fark ederse, beslemeye göndermesini söyler; bu, komşuyu bekleyen her makale için tekrarlanır. Benzersiz kimlikler kullanmak, örneğin bir sistemin beş haber komşusunun her birinden bir makalenin beş kopyasını almasını önlemeye yardımcı olur. Usenet'in çeşitli taşımalarla ilgili olarak nasıl çalıştığına dair daha fazla bilgi, Cnews ve NNTP
+paketlerinin belgelerinde ve ayrıca USENET Mesajlarının Değişimi için Standart olan RFC-1036 ve Haberlerin Akış Tabanlı İletimi için Önerilen Standart olan Ağ Haber Aktarım Protokolü RFC-977'de mevcuttur. RFC'ler, özellikle yeni kullanıcılar için oldukça sıkıcı bir okuma olma eğilimindedir. Posta Ağ Geçitleri Usenet haberlerinin ve elektronik posta listelerinin bir şekilde birleşmesi doğal bir ilerlemedir ve bunu haber ağ geçitleri şeklinde yapmışlardır. Birçok posta listesi, mesajları yalnızca listenin okuyucularına değil, aynı zamanda bir haber grubuna da "yansıtmak" için kurulur. Aynı şekilde, bir haber grubuna gönderilen gönderiler posta listesinin moderatörüne veya tüm posta listesine gönderilebilir. Bunun eylem halindeki bazı örnekleri comp.risks (Risk Özeti) ve
+comp.dcom.telecom'dur (Telekom Özeti).
+
+Posta listesi trafiğini yaymanın bu yöntemi, tek bir mesajın aynı sitedeki birçok kişiye iletilmesi sorununu çözmeye yardımcı olmuştur --- bunun yerine, herkes gruba abone olabilir.
+Ayrıca, moderatörlerin sürekli olarak listeden kullanıcı ekleyip çıkarması gerekmediğinden posta listesi bakımı önemli ölçüde azaltılır. Bunun yerine, kişiler haber grubunu istedikleri zaman okuyabilir veya okumayabilir.
+
+Brad Templeton'ın "Sevgili Emily Postnews" adlı yazısından
+Usenet "Netiquette"
+
+Usenet'te pek çok gelenek vardır, bunların en önemlisi de
+netiquette olarak adlandırılan şeydir---başkalarına karşı nazik ve düşünceli olmak. Birkaç temel yönergeyi izlerseniz, siz ve yazılarınızı okuyan herkes uzun vadede çok daha mutlu olacaktır.
+
+İmzalar
+
+Çoğu makalenin sonunda bir kişinin
+imzası adlı küçük bir tanıtım yazısı bulunur. Unix'te bu dosya, kişinin giriş dizininde .signature olarak adlandırılır---diğer işletim sistemlerinde farklılık gösterir.
+Makaleyi yayınlayan kişiyle nasıl iletişime geçileceğine dair bilgi sağlamak için vardır; e-posta adresi, telefon numarası, adresi veya nerede bulunduğu gibi. Yine de imzalar
+bilgisayarların grafitisi haline gelmiştir. İnsanlar ".sigs"lerine şarkı sözleri, resimler, felsefi alıntılar ve hatta reklamlar koyarlar. (Ancak, imzanızda reklam yapmanın, imzanızı çıkarana kadar sizi çoğunlukla yerden yere vuracağını unutmayın.)
+
+Dört satır yeterli olacaktır---daha fazlası, Usenet sitelerinin makalenizle birlikte taşıması gereken fazladan çöptür ve okuyucunun odaklandığı nokta budur. Netiquette, kişinin kendisini bu dörtlük "kota" ile sınırlamasını emreder---bazı kişiler on satır veya daha fazla imza atarlar, bunlara elle yazılmış imzalarının veya yüzlerinin veya hatta uzay mekiğinin ayrıntılı ASCII çizimleri de dahildir. Bu hoş değildir ve insanları sonsuza kadar rahatsız edecektir.
+
+Benzer şekilde, imzanızı eklemeniz gerekmez---eğer bir makaleye eklemeyi
+unutursanız, endişelenmeyin.
+Makale her zamanki kadar iyidir ve söylemek isteyebileceğiniz her şeyi içerir. Sadece imzayı eklemek için makaleyi yeniden yayınlamayın.
+
+Kişisel Mesajlar Gönderme
+
+Bir kişiye gönderilen posta ulaşmazsa, mesajı bir haber grubuna göndermekten kaçının. O kişinin grubu okuma olasılığı çok yüksek olsa bile, makaleleri okuyan diğer kişilerin hiçbiri Jim Morrison'a söyleyeceklerinizi zerre kadar umursamaz. Sadece o kişinin tekrar göndermesini bekleyin ve adresi iki kez kontrol edin veya sistem yöneticinizle iletişime geçip yerel e-posta dağıtımında bir sorun olup olmadığını öğrenin. Ayrıca sitelerinin kapalı olduğu veya sorun yaşadığı ortaya çıkabilir, bu durumda Jim ile iletişime geçmeden önce her şeyin normale dönmesini beklemek gerekir. Posta Gönderme
+
+Gizlilik adına, birinin göndermiş olabileceği herhangi bir e-postayı, size açıkça yeniden dağıtma izni vermediği sürece göndermek son derece kötü bir zevk olarak kabul edilir. Yasal konular yoğun bir şekilde tartışılabilse de, çoğu kişi e-postanın normal posta yoluyla alınan herhangi bir şey gibi ele alınması gerektiği konusunda hemfikirdir, {Normal kara ve hava posta hizmeti için kullanılan argo}, ve beraberinde getirdiği tüm varsayılan haklarla birlikte.
+
+Test Mesajları
+
+Birçok kişi, özellikle yeni kullanıcılar, tartışmalara katılmadan önce göndermeyi denemek ister. Genellikle mesajları göndermenin mekaniği Usenet'in en zor kısmıdır. Bu amaçla, birçok kullanıcı testlerini "normal" gruplara (örneğin news.admin veya comp.mail.misc) göndermeyi gerekli bulur. Bu, Usenet dünyasında büyük bir netiquette gaf olarak kabul edilir. Test grupları adı verilen, yalnızca bir haber sistemini, okuyucuyu veya hatta yeni bir imzayı denemek amacıyla var olan bir dizi grup vardır. Bunlara şunlar dahildir:
+
+alt.test
+gnu.gnusenet.test
+misc.test
+
+bazıları gönderilerinize otomatik sihirli yanıtlar üreterek
+geçtiklerini bildirir. Usenet'in yeni kullanıcılara yardımcı olmak için test gruplarını sık sık ziyaret eden belirli sakinleri vardır. Gönderilere yanıt verirler, genellikle gönderen kişinin makaleyi
+kişinin sitesine nasıl ulaştığını görebilmesi için eklerler. Ayrıca, birçok bölgesel hiyerarşide, Philadelphia'daki phl.test gibi
+test grupları vardır.
+
+Kesinlikle deneyin ve test edin---sadece uygun yerinde yapın.
+
+Ünlü Kişiler Ortaya Çıkıyor
+
+Arada sırada, birileri bir ünlünün "İnternet" aracılığıyla erişilebilir olduğunu söyler; veya daha da eğlenceli olanı, bir makalenin o ünlüden geliyormuş gibi görünmesi için
+sahtelenmesidir. Bir örnek Stephen
+Spielberg'dir--- rec.arts.movies okuyucuları, Bay Spielberg tarafından yapıldığı iddia edilen birkaç gönderinin ardından iki hafta boyunca ayaklandı. (Birkaç dedektiflik çalışması bunun bir aldatmaca olduğunu ortaya çıkardı.)
+
+Usenet ve genel olarak bilgisayarlarla tanışan birkaç tanınmış kişi var---ama ezici çoğunluk sadece normal insanlar. Bir haber grubunda önemli bir kişilik "görüldüğünde" şüpheyle yaklaşılmalıdır.
+
+Özetleri
+
+Makale yazarları bazen okuyucuların e-postayla yanıt vermeleri gerektiğini ve özetleyeceklerini söyler. Buna göre, okuyucular tam olarak bunu yapmalıdır---e-postayla yanıtlamalıdır. Böyle bir makaleye bir takip makalesiyle yanıt vermek yazarın niyetini boşa çıkarır. Birkaç gün içinde, aldığı yanıtların önemli noktalarını içeren bir makale yayınlayacaktır. Yazar, tüm grubu takip ederek, söylediklerinizi okumayabilir.
+
+Bir gönderiye gelen yanıtların özetini oluştururken, bunu mümkün olduğunca
+okuyucu dostu hale getirmeye çalışın. Alınan tüm mesajları tek bir büyük dosyaya koymaktan kaçının. Bunun yerine, biraz zaman ayırın ve
+mesajları diğer okuyucuların ilgisini çekecek temel bilgileri içeren bir
+forma düzenleyin.
+
+Ayrıca, bazen insanlar yanıt verir ancak anonim kalmayı isterler
+(bir örnek, bilgilerin özel olmadığını düşünen ancak aynı zamanda kendilerini
+siyasi tepkilerden korumak isteyen bir şirketin çalışanlarıdır). Özetler, bu talebi, Kimden: adresini anonim veya (Adres talep üzerine saklı tutulmuştur) olarak listeleyerek uygun şekilde karşılamalıdır.
+
+Alıntılama
+
+Bir makalenin ardından, birçok haber okuyucusu, her satırın başına > ekleyerek orijinal makaleyi alıntılama olanağı sağlar, örneğin
+
+<1232@foo.bar.com> makalesinde, sharon@foo.bar.com şunları yazdı:
+> Katılıyorum, sepet örmenin özellikle Pensilvanya'da gerçekten popüler olduğunu düşünüyorum.
+> Şu anda PA'da bunu alenen yapan herkesin bir listesi:
+
+satır ... vb ...
+
+Bu ciddi bir örnek (muhtemelen korkunç derecede uzun bir makale), ancak
+bir noktayı kanıtlıyor. Başka bir kişiden alıntı yaptığınızda, doğrudan yanıtınıza
+uygulanmayan her şeyi düzenleyin. {Ancak
+elbette kelimelerini değiştirmeyin. } Bu, yeni makalenin okuyucusuna hangi noktalara değindiğinize dair daha iyi bir fikir verir. Tüm makaleyi dahil ederek, yalnızca okuyanları rahatsız edersiniz. Ayrıca, orijinaldeki imzalar gerekli değildir; okuyucular bunu kimin yazdığını (atıf yoluyla) zaten bilirler.
+
+Cevaplarda sıkıcı olmaktan kaçının --- bir makaleyi parçalara ayırmak yerine, onu parçalara veya bir bütün olarak ele alın. Bir makaledeki neredeyse her kelimeye değinmek, yalnızca yanıt veren kişinin zamanını daha iyi harcayacak hiçbir şeyi olmadığını kanıtlar.
+
+Bir "savaş" başlarsa (hakaretler ve kişisel yorumlar ileri geri atılırsa), bunu e-postaya taşıyın --- tartıştığınız kişiyle e-posta alışverişinde bulunun. Hiç kimse insanların durmadan
+tartışmasını izlemekten hoşlanmaz.
+
+Çapraz gönderi
+
+Haber Grupları: satırı yalnızca bir grupla sınırlı değildir --- bir makale bir grup listesine gönderilebilir. Örneğin,
+
+Newsgroups: sci.space,comp.simulation
+
+satırı makaleyi hem sci.space hem de
+comp.simulation gruplarına gönderir. Genellikle en fazla üç veya dört gruba çapraz gönderi yapmak güvenlidir. Bundan daha fazlasını listelemek "aşırı
+gürültü" olarak kabul edilir.
+
+Ayrıca, bir makale çapraz gönderilirse bir
+Followup-To: başlığının eklenmesi önerilir. Bu, tüm ek tartışmaların yönlendirileceği grubu belirtmelidir. Yukarıdaki
+örnek için olası bir Followup-To:
+
+Followup-To: sci.space
+
+olurdu; bu, tüm takiplerin otomatik olarak hem sci.space hem de comp.simulation'a değil, sadece
+sci.space'e gönderilmesini sağlardı. Bir haber okuyucusunun "followup" komutuyla verilen her yanıt, ne olursa olsun makaleyi gönderen kişiye gitmeliyse, buna uyum sağlamak için
+işlenmiş bir mekanizma da vardır. Followup-To: başlığı tek kelimelik posteri içermelidir:
+
+Followup-To: poster
+
+Bazı haber okuyucuları bunu bir cevabın asla Net'e geri gönderilmemesi gerektiğini hissetmek için kullanır. Bu genellikle daha sonra bir bilgi özeti, bir oy veya bir
+reklam verecek sorularla kullanılır.
+
+Son Haberler
+
+"Son" olayları yayınlamaktan kaçınılmalıdır --- spor skorları, bir uçak kazası veya insanların akşam haberlerinde göreceği veya sabah gazetesinde okuyacağı her neyse. Makale tüm Usenet'e yayıldığında, makalenin "haber" değeri bayatlayacaktır.
+
+(Bu, Usenet haberlerinin yanlış bir adlandırma olduğu iddiasına dair bir durumdur.
+{Clarinet Haber servisinin (Clarinet) sabah gazetesine kesin bir alternatif olarak haber öğelerini Usenet formatında sunduğunu unutmayın.
+
+Gönderilerin Kalitesi
+
+Makalelerinizde kendinizi nasıl yazdığınız ve sunduğunuz önemlidir. Eğer
+kötü bir yazımınız varsa, yanınızda bir sözlük bulundurun. Eğer
+dil bilgisi ve noktalama işaretleri konusunda sorun yaşıyorsanız, İngilizce
+dil bilgisi ve kompozisyon hakkında bir kitap edinmeye çalışın (birçok kitapçıda ve bit pazarlarında bulunur). Kesinlikle söylediklerinize dikkat edin---sizi
+İnternette olduğunuz kişi yapar.
+
+Aynı şekilde, ne sorduğunuzda net olmaya çalışın. Belirsiz veya muğlak sorular genellikle hiç yanıt alamamanıza yol açar ve göndereni cesaretsiz bırakır. İnsanların size yardım edebilmesi için gerekli olduğunu düşündüğünüz kadar temel bilgi verin, ancak bunu sınırlar içinde tutun.
+Örneğin, gerekirse muhtemelen bilgisayarınızın işletim sistemini gönderiye eklemelisiniz, ancak üzerinde hangi
+çevre birimlerinin asılı olduğunu herkese söylemeyin.
+
+Yararlı Konular
+
+Bir makalenin Konu: satırı, insanların onu okumasını ilk sağlayacak şeydir---eğer belirsizse veya içindekileri
+açıklamıyorsa, kimse makaleyi okumayacaktır. Aynı zamanda,
+Konu: çok fazla sözcük içeren satırlar sinir bozucu olma eğilimindedir. Örneğin:
+
+İyi
+Konu: 4.1'in altındaki bir Sun Sparc'ta Emacs Oluşturma
+
+İyi
+Konu: NJ'de Waldo'yu bulmaya çalışıyorum.
+
+Kötü
+Konu: Emacs'ı çalıştıramıyorum!!!
+
+Kötü
+Konu: ... eyaletindeki onurlu Bay Waldo'yu umutsuzca arıyorum.
+
+Basitçe söylemek gerekirse, okuyucunun bir haber okuma oturumunda makalenizle karşılaştığında ona en iyi neyin yardımcı olacağını düşünmeye çalışın. Ses Tonu
+
+Genel bilgisayarlar bir kişinin sesindeki tonlamayı veya tonu yansıtamadığından, makalelerin nasıl ifade edildiği doğrudan onlara verilen tepkiyi etkileyebilir. Eğer
+
+Vic-20 kullanan herkes kendine bir hayat satın alsın.
+
+derseniz kesinlikle bazı yanıtlar alırsınız --- size bir sıçrama yapmanızı söylerler.
+
+Kışkırtıcı olmaktansa, makalelerinizi fikrinizi mantıklı bir şekilde ifade edecek şekilde ifade edin, örneğin
+
+Bugünlerde Vic-20'nin pratik kullanımları nelerdir?
+
+bu da kendinizi çok daha aklı başında bir birey olarak gösterir.
+
+Ayrıca, hangi durumu (büyük veya küçük) kullandığınız nasıl konuşmaya çalıştığınızı gösterebilir ---netik kuralları, TÜMÜYLE BÜYÜK HARFLER KULLANIRSANIZ, insanların "bağırdığınızı" düşüneceğini belirtir.
+
+Bir arkadaşınıza normal bir mektup yazar gibi yazın, geleneksel İngilizce kurallarını izleyin.
+(veya konuştuğunuz herhangi bir dil)
+
+Bilgisayar Dini
+
+Kişi ne tür bir bilgisayar kullanıyor olursa olsun, onunki her zaman
+en iyisi ve en verimlisidir.
+Hangi bilgisayarı satın almalıyım? Bir Atari ST mi yoksa bir
+Amiga mı? gibi sorular soran makaleler yayınlamak, her markanın artıları ve eksileri hakkında hararetli tartışmalara yol açacaktır. Net'e bile sormayın---yerel bir kullanıcı grubuna gidin veya dergi incelemelerini okumak gibi kendi araştırmanızı yapın. Bir bilgisayarın bir şekilde diğerinden daha iyi olduğunu söylemeye çalışmak
+anlamsız bir konudur.
+
+Bir Makalenin Anatomisi
+
+Sık Sorulan Sorular
+
+Birçok grup, bir haber grubunda tekrar tekrar gündeme getirilen soruların veya noktaların yanıtlarını veren Sık Sorulan Sorular (SSS) listelerini içerir. Bunlar, bir gruptaki gereksiz trafiği azaltmaya yardımcı olmayı amaçlar. Örneğin, alt.tv.simpsons haber grubunda, tekrar eden sorulardan biri şudur: Her Simpsons bölümünün başında farklı bir tahta açılışı olduğunu fark ettiniz mi? Sonuç olarak, bu, o grubun SSS'sinin bir parçasıdır.
+
+Genellikle, SSS listeleri her ayın başında yayınlanır ve bir ay sonra (sözde bir sonraki SSS'nin yayınlanacağı zaman) sona erecek şekilde ayarlanır. Neredeyse her SSS, onlar için bir Usenet deposu olarak kullanılan news.answers'a çapraz olarak gönderilir.
+
+Pit-Manager Arşivi
+
+MIT, Jonathan Kamens ile birlikte, çeşitli Usenet gruplarına serpiştirilmiş çeşitli periyodik gönderilerin arşivlenmesi ve depolanması için bir makineyi nezaketle tahsis etti. Bunlara erişmek için, pit-manager.mit.edu sistemine FTP ile bağlanın ve /pub/usenet dizinine bakın.
+
+"Doğru veya yanlış olsun, haber olsun." Ben Jonson, Yeni Dünya'dan Haberler
+
+-----
+Telnet
+
+Telnet, uzak bir makineyle bağlantı
+oluşturmak için kullanılan ana İnternet protokolüdür. Kullanıcıya bir bilgisayar sisteminde olma ve sokağın karşısında veya binlerce kilometre uzakta olabilecek başka bir bilgisayarda çalışma fırsatı verir. Modemlerin çoğunlukla telefon hatlarının kalitesi ve tek bir bağlantıyla sınırlı olduğu yerlerde, telnet
+hatasız ve neredeyse her zaman en son geleneksel modemlerden daha hızlı bir bağlantı sağlar.
+
+Telnet Kullanımı
+
+FTP'de (Anonim FTP) olduğu gibi, bir telnet bağlantısı için gerçek komut sistemden sisteme değişir. Ancak en yaygın olanı
+telnet'in kendisidir. Şu şekildedir:
+
+telnet somewhere.domain
+
+Güvenli olmak için, çalışan bir örnek olarak yerel sisteminizi kullanacağız. Şu ana kadar, umarız sitenizin alan adını biliyorsunuzdur. Bilmiyorsanız, sorun veya bulmaya çalışın. Onsuz yapamazsınız.
+
+Bağlantıyı açmak için şunu yazın
+
+telnet your.system.name
+
+Örneğin, sistem wubba.cs.widener.edu olsaydı, komut şöyle olurdu
+
+telnet wubba.cs.widener.edu
+
+Sistem şuna benzer bir şeyle yanıt verir
+
+Trying 147.31.254.999...
+Connected to wubba.cs.widener.edu.
+Kaçış karakteri '^]'dir.
+
+Kaçış karakteri, bu örnekte ^] (Control-]), bağlantıyı kapatmak, askıya almak vb. için yerel sisteme geri dönmenizi sağlayacak karakterdir. Bu bağlantıyı kapatmak için, kullanıcı ^] yazar ve telnet> istemine 
+close komutuyla yanıt verir. Yerel belgeler, 
+kullanılabilecek belirli komutlar, işlevler ve çıkış karakteri hakkında bilgi için kontrol edilmelidir.
+
+Telnet Bağlantı Noktaları
+
+Birçok telnet istemcisi, bağlantının gerçekleşmesi gereken
+bağlantı noktasını da içeren üçüncü bir seçenek içerir. Normalde, 23 numaralı bağlantı noktası varsayılan telnet bağlantı noktasıdır; kullanıcı bunu asla düşünmek zorunda kalmaz. Ancak
+bazen, bir hizmetin mevcut olabileceği veya bir
+sorunun ayıklanmasına yardımcı olmak için bir sistemde farklı bir bağlantı noktasına telnet yapmak
+istenir.
+
+telnet somewhere.domain bağlantı noktasını
+
+kullanmak, kullanıcıyı sistemde belirtilen bağlantı noktasına
+somewhere.domain bağlar. Birçok kütüphane, genel İnternet topluluğuna olanaklarını sunmak için bu bağlantı noktası yöntemini kullanır; diğer hizmetler de mevcuttur. Örneğin, Michigan Üniversitesi'ndeki coğrafi sunucuya bağlanmak için
+
+telnet martini.eecs.umich.edu 3000
+
+yazılabilir.
+(Coğrafi Sunucu). Diğer bu tür bağlantı noktaları
+aynı kullanımı izler.
+
+Genel Erişimli Kütüphaneler
+
+Son birkaç yıldır, çoğu üniversite kütüphanesi
+manuel (kart) katalog sisteminden bilgisayarlı kütüphane kataloglarına geçti.
+Otomatik sistemler, kullanıcılara bu kütüphanelerde bulunan kitaplar hakkında kolayca erişilebilir ve
+güncel bilgiler sağlıyor.
+Bu, yerel alan ağlarının, çevirmeli modemlerin ve geniş alan ağlarının ortaya çıkmasıyla daha da iyileştirildi. Artık çoğumuz
+yerel kütüphanemizin veya dünyanın diğer ucundaki bir kütüphanenin
+elindekileri kontrol edebiliyoruz!
+
+Birçok, birçok yüksek öğrenim kurumu, kütüphane
+kataloglarını internetteki herkesin aramasına açık hale getirdi. Bunlara
+Boston Üniversitesi, Colorado Araştırma Kütüphaneleri İttifakı
+(CARL) ve Londra Üniversitesi King's College dahildir.
+
+Mevcut sitelerden bazılarının bir listesini eklemek, bu belge için yalnızca çok uzun olmakla kalmaz, aynı zamanda kısa sürede güncelliğini yitirir.
+Bunun yerine, birkaç liste tutuluyor ve posta yoluyla veya FTP yoluyla erişilebilir. Ayrıca, İnternet Kaynak Rehberi (IRG) de erişilebilir birkaç kütüphaneyi açıklar ---daha fazla bilgi için IRG.
+
+Art St. George ve Ron Larsen, genellikle "St. George dizini" olarak adlandırılan İnternet erişimli kütüphanelerin ve veritabanlarının bir listesini tutuyor. Sadece kütüphane kataloglarıyla başladı
+ancak kampüs genelindeki bilgi sistemleri ve hatta İnternet'te olmayan ilan panosu sistemleriyle ilgili bölümleri de içerecek şekilde genişledi. Kütüphane katalog bölümleri ücretsiz olanlar, ücretli olanlar ve uluslararası (yani ABD dışı)
+kataloglar olarak ayrılır; her bölümde eyalet, il veya ülkeye göre düzenlenirler. Ayrıca bazı kütüphane katalogları için çevirmeli bağlantı bilgileri veren bir bölüm de vardır. FTP (Anonim FTP) için nic.cerf.net dizininde
+cerfnet/cerfnet_info/library_catalog adresinde mevcuttur. internet-catalogs dosyasının bir
+tarih eki vardır; en güncel tarihi kontrol edin. Bilgiler periyodik olarak
+güncellenir.
+
+Kuzey Teksas Üniversitesi'nde Sistem Yöneticisi olan Billy Barron,
+kullanıcı topluluğuna yardımcı olması için bir dizin üretir. Bu dizin, tüm sistemler için standart bir format sağlayarak St. George rehberini tamamlar.
+İnternet adresini, oturum açma talimatlarını, sistem satıcısını ve oturum kapatma bilgilerini listeler. Düzenleme, kuruluş adına göre alfabetiktir.
+Vaxb.acs.unt.edu'da FTP için, alt dizin kütüphanesinde, libraries.txt dosyası olarak kullanılabilir.
+
+Yeni kütüphanelerin kullanıma sunulduğuna dair duyurular ve ilgili konularla ilgili tartışmalar için Usenet haber grubuna
+comp.internet.library (haberleri nasıl okuyacağınızı öğrenmek için Usenet Haberleri) başvurun.
+
+Duyuru Panosu Sistemleri
+
+Cleveland Freenet
+
+Freenet'ler açık erişimli, ücretsiz, topluluk bilgisayar sistemleridir. Bu sistemlerden biri de CWRU (Case Western Rezerv Üniversitesi) tarafından desteklenen Cleveland Freenet'tir. Herkes ve herkes heyecan verici bir projeye katılmaya ve katılmaya davetlidir --- herkesin faydalandığı Ulusal Telebilgisayar Kamu Ağı. Kayıt işlemi için herhangi bir ücret yoktur ve sistemi kullanmak için de herhangi bir ücret yoktur. Kayıt olmak için,
+
+freenet-in-a.cwru.edu
+freenet-in-b.cwru.edu
+freenet-in-c.cwru.edu adreslerinden herhangi birine telnet yapın
+
+Bağlandıktan sonra, menüde misafir kullanıcı olduğunuzu belirten girişi seçin. Başka bir menü daha gelecek; Hesap için
+Başvuru'yu seçin ve FreeNet üyesi olma yolunda ilerleyeceksiniz.
+
+Bir formu doldurup Posta Servisi aracılığıyla onlara göndermeniz gerekecek---oturum açma kimliğiniz ve şifreniz birkaç
+gün içinde oluşturulacak. O noktada sistemi dilediğiniz gibi kullanabilirsiniz.
+Çok kullanıcılı sohbet, e-posta, Usenet haberleri ve sizi saatlerce meşgul edecek çeşitli başka şeyler sağlarlar.
+
+Dizinler
+
+İnternet topluluğuna bilgi listelerine erişim sağlamak için sürdürülen birkaç sistem vardır --- kullanıcılar, kuruluşlar,
+vb. Bunlar, makalelere ve araştırma sonuçlarına erişim sağlayan tamamen özel bilgisayarlardan, bir üniversitenin öğretim üyeleri hakkında bilgi edinme sistemine kadar uzanır.
+
+Knowbot
+
+Knowbot, NIC WHOIS veritabanından (Whois), PSI White Pages Pilot Projesi'nden, NYSERNET X.500 veritabanından ve MCI Mail'den e-posta adresi bilgilerini içeren bir "ana dizindir". Bu hizmetlerin çoğu e-posta kayıtlarıdır, ancak Knowbot, hepsine tek bir yerden erişmek için çok rahat bir yol sağlar.
+185 numaralı porttan nri.reston.va.us'a telnet yapın.
+
+Beyaz Sayfalar
+
+PSI, kişilerle ilgili bir bilgi dizini tutar.
+Verilirse kişinin adını, kuruluşunu ve e-posta adresini listeler.
+wp.psi.net'e telnet yapın ve fred olarak oturum açın. Beyaz Sayfalar
+Projesi ayrıca Xwindows'u uzaktan kullanmak için bir arayüz içerir.
+
+Fakülte ve Personel Listeleri
+
+Birçok üniversite mevcut fakülte ve personel hakkında bilgilere erişim sağlar. Bunlara şunlar dahildir:
+
+Cornell Telnet'i cuinfo.cornell.edu'ya 3000 numaralı porttan.
+NC State Telnet'i ccvax1.cc.ncsu.edu'ya ve info olarak oturum açın.
+Rutgers Telnet'i hangout.rutgers.edu'ya 98 numaralı porttan.
+U of Maryland Telnet'i umail.umd.edu'ya ve lookup olarak oturum açın.
+UNC Chapel Hill Telnet'i info.acs.unc.edu'ya ve info olarak oturum açın.
+Yale Telnet'i yalevm.ycc.yale.edu'ya 300 numaralı porttan.
+
+Veritabanları
+
+Veritabanı hizmetleri hakkında bilgi için Ticari Veritabanları.
+Ancak internetteki tüm veritabanları kullanım için ödeme gerektirmez. Bazı, büyük ölçüde araştırma odaklı veritabanları mevcuttur ve bunlara
+kamu tarafından erişilebilir. Düzenli olarak yenileri ortaya çıkar.
+
+Bu bölümdeki veritabanları hakkında daha fazla bilgi edinmek için, doğrudan sorumlu kişilerle iletişime geçin. Yoğunlaşma alanları ve bunları uygulamak için kullanılan yazılımlar oldukça farklıdır ve muhtemelen yazarın uzmanlığının ötesindedir. Ayrıca, yerel kütüphanenizle görüşmeyi unutmayın---oradaki referans kütüphanecisi geleneksel kaynaklar ve hatta muhtemelen İnternet üzerinden erişilebilenler hakkında bilgi sağlayabilir (daha yaygın hale geliyorlar).
+
+Colorado Araştırma Kütüphaneleri İttifakı (CARL)
+
+Colorado Araştırma Kütüphaneleri İttifakı (CARL), CARL Systems Inc. ile birlikte, kamuya açık bir hizmet kataloğu işletmektedir. Devlet dergileri, kitap incelemeleri, güncel makaleler için dizinler ve ülke genelindeki diğer kütüphane veritabanlarına erişim dahil olmak üzere bir dizi kütüphane veritabanı sunulmaktadır. CARL üyelerine çevrimiçi bir ansiklopedi de dahil olmak üzere başka hizmetler de sunulmaktadır. Telnet ile pac.carl.org adresine ulaşın veya daha fazla ayrıntı için help@carl.org adresine yazın.
+
+PENpages
+
+PENpages, Pennsylvania Eyalet Üniversitesi tarafından yönetilen tarım odaklı bir veritabanıdır.
+PENpages'e girilen bilgiler, Pennsylvania Tarım Bakanlığı, Rutgers Üniversitesi ve Penn State dahil olmak üzere çok sayıda kaynak tarafından sağlanır. Kullanımı kolay menüler, kullanıcıları sığır ve tarım fiyatlarından güncel hava durumu bilgilerine, sağlık bilgilerinden ülke çapındaki tarım haberlerine kadar çeşitli bilgilere yönlendirir. Anahtar kelime arama seçeneği, kullanıcıların veritabanında ilgili bilgileri ve makaleleri aramasına da olanak tanır. Veritabanı günlük olarak güncellenir ve oturum açtıktan sonra en son eklenenlerin bir listesi görüntülenir. Telnet ile psupen. psu.edu
+ve PNOTPA kullanıcısı olarak oturum açın.
+
+Clemson Univ. Ormancılık ve Tarım Ağı
+
+Clemson, içerik olarak PENpages'e benzer bir veritabanı tutar, ancak sağlanan
+bilgiler genellikle Güneydoğu Amerika Birleşik Devletleri'ne yerelleştirilir. Menü odaklı bir veritabanı hava durumu,
+yemek, aile ve insan kaynaklarıyla ilgili sorgular sunar. Telnet ile eureka.clemson.edu adresine bağlanın ve
+PUBLIC olarak oturum açın. İyi bir VT100 emülatöründe (veya gerçek bir
+VT terminalinde) olmanız gerekir.
+
+Maryland Üniversitesi Bilgi Veritabanı
+
+Maryland Üniversitesi Bilgisayar Bilimleri bölümü
+çok çeşitli konularda bir bilgi deposu tutar.
+Ağ teknolojisinin onu kullananlara mümkün olduğunca fazla bilgi sağlayabileceğinin (ve sağlaması gerektiğinin) çalışan bir örneğini vermek istiyorlar. Telnet ile info.umd.edu adresine bağlanın ve info olarak oturum açın. Veritabanında bulunan bilgilere ekran odaklı bir arayüz aracılığıyla erişilebilir ve içindeki her şey anonim FTP aracılığıyla kullanılabilir.
+
+UMD Bilgi Veritabanını tartışmak, yeni bilgiler için önerileri, sistemin sağladığı arayüzle ilgili yorumları ve diğer ilgili konuları karşılamak için kullanılan bir posta listesi vardır.
+
+listserv@umdd.umd.edu adresine gövdesi
+
+INFO-L'ye abone olun Tam Adınız
+
+Listserv sistemini kullanma hakkında daha fazla bilgi için Listserv'ler ile posta gönderin.
+
+Michigan Üniversitesi Hava Durumu Yeraltı
+
+Michigan Üniversitesi Atmosfer, Okyanus ve Uzay Bilimleri Bölümü, Amerika Birleşik Devletleri ve Kanada için hava durumu ve ilgili bilgilerin bir veritabanını tutar. ABD'deki şehirler için güncel hava koşulları ve tahminleri, ulusal hava durumu özeti, kayak koşulları, deprem ve kasırga güncellemeleri
+ve şiddetli hava koşullarının bir listesi mevcuttur. Sistemi kullanmak için 3000 numaralı portta madlab.sprl.umich.edu adresine telnet yapın.
+
+Coğrafi Ad Sunucusu
+
+Amerika Birleşik Devletleri ve bazı uluslararası konumlardaki şehirler için bilgileri listeleyen bir coğrafi veritabanı Merit, Inc. tarafından yönetilmektedir.
+Veritabanında şehir adı, posta kodu vb. ile arama yapılabilir.
+Birçok bilgiyle yanıt verecektir: alan kodu,
+rakım, saat dilimi ve enlem ve boylam dahildir. Örneğin, 19013 sorgusu şunu verir:
+
+0 Chester
+1 42045 Delaware
+2 PA Pennsylvania
+3 ABD Amerika Birleşik Devletleri
+F 45 Nüfuslu yer
+L 39 50 58 K 75 21 22 B
+P 45794
+E 22
+Z 19013
+Z 19014
+Z 19015
+Z 19016
+..
+
+Sunucuyu kullanmak için martini.eecs.umich.edu adresine 3000 numaralı bağlantı noktasından telnet yapın. help komutu, bir yanıttaki her alan için bir açıklama ile birlikte daha fazla talimat verecektir.
+
+FEDIX---Azınlık Bursu Bilgileri
+
+FEDIX, araştırma, eğitim ve hizmetleri kolaylaştırmak için yüksek öğrenim topluluğunu ve federal hükümeti birbirine bağlayan çevrimiçi bir bilgi hizmetidir. Sistem, kolejlere, üniversitelere ve diğer araştırma kuruluşlarına doğru ve zamanında federal kurum bilgileri sağlar. FEDIX için hiçbir kayıt ücreti ve erişim ücreti yoktur.
+
+FEDIX, Siyah ve Hispanik kolejler ve üniversiteler hakkında güncel bilgileri listeleyen bir veritabanı olan Azınlık Çevrimiçi Bilgi Hizmeti'ni (MOLIS) sunar.
+
+Federal eğitim ve araştırma
+programları, burslar, burslar ve hibeler, mevcut kullanılmış
+araştırma ekipmanları ve FEDIX'in kendisi hakkında genel bilgiler hakkında günlük bilgi güncellemeleri yapılır.
+Veritabanına erişmek için, fedix.fie.com adresine telnet yapın ve
+fedix olarak oturum açın.
+
+Bilim ve Teknoloji Bilgi Sistemi
+
+STIS, Ulusal Bilim Vakfı (NSF) tarafından sürdürülür ve
+birçok NSF yayınına erişim sağlar. Yayınların tam metinleri çevrimiçi olarak aranabilir ve aynı anda on kullanıcıya kadar barındırabilen sistemden kopyalanabilir. Stis.nsf.gov adresine telnet yapın ve
+kamu olarak oturum açın. Sistemdeki her şey ayrıca
+anonim FTP üzerinden de mevcuttur. Daha fazla bilgi için şuraya başvurun:
+
+STIS, Bilgi Sistemleri Ofisi, Oda 401
+Ulusal Bilim Vakfı
+1800 G. Street, N.W.
+Washington, D.C. 20550
+stis-request@nsf. gov
+(202) 357-7492
+(202) 357-7663 (Faks)
+
+Okyanus Ağı Bilgi Merkezi
+
+Delaware Üniversitesi Deniz Çalışmaları Koleji, OCEANIC lakaplı, deniz çalışmalarının tüm yönlerini kapsayan
+etkileşimli bir araştırma bilgisi veritabanına erişim sağlar. Buna Dünya Okyanus Dolaşım Deneyi (WOCE) bilgileri ve program bilgileri,
+araştırma gemisi programları ve bilgileri ve okyanus çalışmaları için e-posta ve posta adreslerinin Kim Kimdir'i dahildir. Araştırma çalışmalarına dayalı çeşitli akademik kurumlardan gelen veriler de mevcuttur.
+Delocn.udel.edu adresine telnet yapın ve INFO olarak oturum açın.
+
+NASA/IPAC Galaksi Dışı Veritabanı (NED)
+
+NASA/IPAC Galaksi Dışı Veritabanı (NED), NASA tarafından finanse edilen, galaksi dışı nesnelerle ilgili verileri ve literatürü bilgisayar ağları üzerinden kullanılabilir hale getirmek için devam eden bir projedir. NED, yaklaşık 132.000 galaksi dışı nesne için kapsamlı bilgi içeren nesne odaklı bir veritabanıdır. Galaksiler, kuasarlar, kızılötesi ve radyo kaynaklarının yaklaşık büyük kataloglarından alınmıştır. NED, konumlar, adlar ve diğer temel verileri (örneğin, büyüklük türleri, boyutlar ve kırmızıya kaymalar ile bibliyografik referanslar ve özetler) sağlar. Aramalar, ada göre, bir adın etrafında ve bir astronomik konumda yapılabilir. NED, kullanıcıyı alma süreci boyunca yönlendiren bir öğretici içerir. Telnet
+ipac.caltech.edu adresine gidin ve ned olarak oturum açın.
+
+ABD Deniz Gözlemevi Otomatik Veri Hizmeti
+
+Washington, D.C.'deki ABD Deniz Gözlemevi tarafından işletilen bu otomatik veri hizmeti, güncel navigasyon uydu konumlandırmasından, astronomik
+verilere ve yazılım yardımcı programlarına kadar uzanan bilgilere veritabanı erişimi sağlar. Çok çeşitli veritabanlarında arama yapılabilir ve dosya aktarımı için talimatlar verilir. Telnet ile
+tycho.usno.navy.mil adresine bağlanın ve reklam olarak oturum açın.
+
+"Bilincim aniden hayatımda ilk kez
+başımın ve vücudumun çevresinden dünyayı normalde gördüğüm yerden yaklaşık yirmi fit uzaktaki bir noktaya yer değiştirdi." Howard
+Rheingold, Sanal Gerçeklik s.255
+
+------------------
+Çeşitli Araçlar
+
+İnternet'i kullanmanın yeni ve ilginç yolları her gün hayal ediliyor. Yaygın olarak kullanıldıkça, bazı yöntemler İnternet kullanıcılarının faydalanabileceği
+neredeyse standart (veya gerçek yazılı standart) araçlar haline geliyor. Birkaçı burada ayrıntılı olarak anlatılıyor; şüphesiz başkaları da var ve her zaman yeni fikirler ortaya çıkıyor. İnternet'in aktif bir kullanıcısı zamanla en yaygın olanların çoğunu keşfedecektir. Genellikle, bu hizmetler
+ücretsizdir. İnternet üzerinden ticari olarak sunulan uygulamalar için Ticari Hizmetler.
+
+Usenet genellikle İnternet'te yeni bir hizmeti veya yeteneği duyurmak için kullanılır. Özellikle, comp.archives ve
+comp.protocols.tcp-ip grupları bakmak için iyi yerlerdir. Bilgiler
+yayıldıkça diğer alanlara kayacaktır. Haber okuma hakkında bilgi için Usenet Haberleri.
+
+Finger
+
+Birçok sistemde, şu anda oturum açmış olan her kullanıcı hakkında bilgi veren finger komutu vardır. Bu komutun ayrıca İnternet üzerinden kullanım için uzantıları da vardır.
+Normal
+koşullar altında, komut yerel sisteme kimin oturum açtığına dair bir özet için finger veya bir kullanıcı hakkında belirli
+bilgiler için finger kullanıcı adıdır. Bir adım daha ileri gidip
+ağa geçmek de mümkündür. Genel kullanım şu şekildedir
+
+finger @hostname
+
+Örneğin, Widener Üniversitesi'nde şu anda kimlerin oturum açtığını görmek için şunu kullanın
+
+% finger @cs.widener.edu
+[cs.widener.edu]
+Giriş Adı TTY Boşta Ne Zaman Nerede
+brendan Brendan Kehoe p0 Fri 02:14 tattoo.cs.widene
+sven Sven Heinicke p1 Fri 04:16 xyplex3.cs.widen
+
+Belirli bir kullanıcı hakkında bilgi edinmek için, bu kullanıcıya özel olarak parmak atılabilir
+(ve oturum açmış olmaları gerekmez):
+
+% finger bart@cs.widener.edu
+[cs.widener.edu]
+Giriş adı: bart Gerçek hayatta: Bart Simpson
+Dizin: /home/springfield/bart Kabuk: /bin/underachiever
+Bağlantı: Lisa'nın Kardeşi Home Sistem: channel29.fox. org
+Son giriş Per May 23 12:14 (EDT) ttyp6'da channel29.fox.org'dan.
+Okunmamış e-posta yok
+Proje: "Hafif" bir çizgi film karakteri olmak.
+Plan:
+Bir ineğiniz olmasın, dostum.
+
+Lütfen bazı sitelerin güvenlik konusunda çok bilinçli olduğunu ve
+sistemleri ve kullanıcıları hakkında dış dünyaya açık bilgileri kısıtlamaları gerektiğini anlayın. Bu amaçla, genellikle dış sitelerden gelen parmak izi isteklerini engellerler --- bu nedenle bir bilgisayarı parmak iziyle işaretlediğinizde veya bir kullanıcı Bağlantı reddedildi ile geri dönerse şaşırmayın.
+
+İnternet Röle Sohbeti
+
+Lamont View Sunucu Sistemi
+lamont.ldgo.columbia.edu adresinde pub/gb.tar.Z'de.
+
+Ping
+
+Ping komutu, kullanıcının başka bir sistemin şu anda "çalışıp" çalışmadığını kontrol etmesini sağlar.
+Komutun genel biçimi
+ping system'dir. {Kullanım yine değişecektir.}
+Örneğin,
+
+ping cs.widener.edu
+
+Widener Üniversitesi Bilgisayar Bilimleri laboratuvarındaki ana makinenin şu anda çevrimiçi olup olmadığını söyleyecektir (umarız öyledir!).
+
+Ping'in birçok uygulaması ayrıca bir bağlantının ne kadar hızlı çalıştığını görmenizi sağlayan bir seçenek içerir (size ağdaki yük hakkında bir fikir vermek için). Örneğin:
+
+% ping -s cs.swarthmore.edu
+PING cs.swarthmore.edu: 56 veri baytı
+130.58.68.1'den 64 bayt: icmp_seq=0 ttl=251 zaman=66 ms
+130.58.68.1'den 64 bayt: icmp_seq=1 ttl=251 zaman=45 ms
+130.58.68.1'den 64 bayt: icmp_seq=2 ttl=251 zaman=46 ms
+^C
+--- cs.swarthmore.edu ping istatistikleri ---
+3 paket iletildi, 3 paket alındı, %0 paket kaybı
+gidiş-dönüş min/ort/maks = 45/52/66 ms
+
+Bu durum bize cs.swarthmore.edu için yaklaşık 46
+milisaniye bir paketin Widener'dan Swarthmore College'a gidip
+tekrar geri gitmesi. Ayrıca ortalama ve en kötü durum hızlarını ve meydana gelmiş olabilecek herhangi bir paket kaybını (örneğin ağ tıkanıklığı nedeniyle) verir.
+
+Ping genellikle ağ performansını etkilemese de, bunu çok sık kullanmamalısınız---genellikle bir veya iki kez kullanmak diğer sistemin durumundan nispeten emin olmanızı sağlar.
+
+Konuşma
+
+Bazen e-posta beceriksizdir ve birinin gerçekten etkileşimli bir konuşma yapması gerektiğinde yönetilmesi zordur. İnternet bunu da konuşma biçiminde sağlar. İki kullanıcı birbirlerinin yazdıklarını binlerce mil öteden görebilir.
+
+Widener'da Bart Simpson ile konuşmak için,
+
+talk bart@@cs.widener.edu
+
+yazmak gerekirdi. Bu, Bart'ın terminalinde aşağıdakine benzer bir mesajın görüntülenmesine neden olurdu:
+
+Talk_Daemon@cs.widener.edu'dan 21:45'te gelen mesaj ...
+talk: joe@ee.someplace.edu tarafından bağlantı istendi
+talk: talk joe@ee.someplace.edu ile yanıtla
+
+Bart, muhtemelen talk joe@ee.someplace.edu yazarak yanıt verirdi.
+Daha sonra, e-postanın yazma ve bekleme stili yerine, anında yanıt süresiyle istedikleri şey hakkında sohbet edebilirlerdi.
+Talk'tan çıkmak için, birçok sistemde Ctrl-C (Control tuşunu basılı tutup C'ye basmak) yazılırdı. Emin olmak için yerel belgeleri kontrol edin.
+
+Günümüzde yaygın olarak kullanılan iki farklı talk sürümü vardır. "Eski konuşma" olarak adlandırılan ilki, bir dizi Unix sistemi tarafından desteklenir (en önemlisi, şu anda Sun tarafından satılanlar). İkincisi, ntalk (diğer adıyla "yeni konuşma"), daha standarttır. Başka bir kullanıcıyla konuşmaya çalışırken, protokol aileleri hakkında bir hatayla yanıt verirse, büyük olasılıkla konuşma sürümleri arasındaki uyumsuzluklar suçludur. Eski konuşmayı kullanan sitelerin sistem yöneticilerinin, kullanıcıları için ntalk'ı yüklemesi gerekir.
+
+Geniş Alan Bilgi Sunucuları (WAIS)
+
+WHOIS Veritabanı
+
+Ana WHOIS veritabanı, Ağ Bilgi Merkezi'nde (NIC) çalıştırılır. whois komutu, kayıtlı her alan adının (ör. mit.edu) ve kayıtlı kullanıcıların veritabanında arama yapmanızı sağlar.
+Öncelikle sistem posta yöneticileri veya liste sahipleri tarafından bir sitenin İrtibat Noktalarını bulmak, onlara bir sorun bildirmek veya bir nedenle onlarla iletişime geçmek için kullanılır. Ayrıca posta adreslerini de öğrenebilirsiniz. Örneğin:
+
+% whois mit.edu
+Massachusetts Teknoloji Enstitüsü (MIT) MIT.EDU 18.72.2.1
+Massachusetts Teknoloji Enstitüsü (MIT-DOM) MIT. EDU
+
+mit.edu için iki giriş olduğunu unutmayın; ikinciye
+gidelim.
+
+% whois mit-dom
+Massachusetts Institute of Technology (MIT-DOM)
+Cambridge, MA 02139
+
+Alan Adı: MIT.EDU
+
+İdari İrtibat Kişisi, Teknik İrtibat Kişisi, Bölge İrtibat Kişisi:
+Schiller, Jeffrey I. (JIS) JIS@MIT.EDU
+(617) 253-8400
+
+Kayıt son olarak 22-Haz-88 tarihinde güncellendi.
+
+Listelenen sıradaki etki alanı sunucuları:
+STRAWB.MIT.EDU 18.71.0.151
+W20NS.MIT.EDU 18.70.0.160
+BITSY.MIT.EDU 18.72.0.3
+LITHIUM.LCS.MIT.EDU 18.26.0.121
+
+Bu ana bilgisayar kaydını kayıtlı kullanıcılarla görmek için, komutu adından önce bir yıldız ('*') ile tekrarlayın; veya SADECE kayıtlı kullanıcıları göstermek için '%' kullanın.
+
+Çok daha iyi! Artık bu bilgi (muhtemelen bir sistem yöneticisi tarafından aranmıştır) MIT'ye bir güvenlik sorunu veya bağlantıyla ilgili bir sorun hakkında nasıl bildirimde bulunulacağını bulmak için kullanılabilir.
+
+Ayrıca bireyler için de sorgular yapılabilir; Aşağıdakiler yazar için bir giriş oluşturur:
+
+% whois brendan
+Kehoe, Brendan (BK59) brendan@cs.widener.edu
+Widener Üniversitesi
+Bilgisayar Bilimleri Bölümü
+Kirkbride 219
+P.O. Box 83 Widener Üniversitesi
+Chester, PA 19013
+(215)/499-4011
+
+Kayıt en son 02-May-91 tarihinde güncellendi.
+
+Yazarın adı, takma adı (harf ve sayılardan oluşan benzersiz bir dizi), kendisiyle nasıl iletişime geçileceğine dair bilgiler ve kaydın en son ne zaman değiştirildiği dahildir.
+
+Herkes whois veritabanına kayıt olabilir. Alan adları için idari veya teknik kişiler, alan adı başvuruları işlendiğinde otomatik olarak kaydedilir.
+Normal kullanıcılar için, NIC'den FTP'ye bir form doldurmanız ve netinfo/user-template.txt dosyasını almanız yeterlidir. Tamamlanan
+form registrar@nic.ddn.mil adresine postalanmalıdır.
+
+WHOIS'in Diğer Kullanımları
+
+Ayrıca, birçok eğitim sitesi, şu anda kurumda çalışan veya kuruma devam eden kişiler hakkında bilgi sunmak için kendi WHOIS sunucularını çalıştırır. Bir WHOIS sunucusunu belirtmek için, birçok
+uygulama bir tür seçenek veya niteleyici içerir --- MultiNet altındaki VMS'de /HOST, Unix'te -h. Stanford sunucusunu kullanma hakkında bilgi almak için şu komut kullanılabilir
+
+whois -h stanford.edu help
+
+WHOIS hizmetleri sunan sistemlerin büyük bir listesi MIT'den Matt Power (mhpower@stan.mit.edu) tarafından tutulmaktadır.
+sipb.mit.edu adresinden, pub/whois dizininden anonim FTP yoluyla erişilebilir. Dosyanın adı whois-servers.list'tir.
+
+Mevcut sistemler arasında şunlar bulunur, ancak bunlarla sınırlı değildir:
+Syracuse Üniversitesi (syr.edu), New York Üniversitesi
+(acfcluster.nyu.edu), San Diego'daki Kaliforniya Üniversitesi
+(ucsd.edu) ve Stanford Üniversitesi (stanford.edu).
+
+"Çataldan önce parmaklar yapılırdı."
+Jonathan Swift, Kibar Konuşma
+
+-------
+Ticari Hizmetler
+
+Birçok hizmete İnternet üzerinden erişilebilir. Zaman ilerledikçe ve ticari faaliyet için daha fazla çıkış noktası ortaya çıktıkça, bir zamanlar kısıtlanmış olan trafik (NSFnet Kabul Edilebilir Kullanım Politikası tarafından) artık serbestçe akabilir. Artık bu bilgilerin taşınabileceği başka ağlar
+olduğuna göre, işletmeler harekete geçiyor.
+
+İnternet Servis Sağlayıcıları
+
+Sağlayıcılar (AlterNet, PSI, vb.)...
+
+Süper Bilgisayarlar
+İnternet Kaynak Kılavuzu (IRG), ücret karşılığında kullanılabilen bilgisayar süresiyle ilgili bir bölüm içerir. Bunu burada yeniden üretmek yerine, bu tür hizmetler ilgi çekiciyse okuyucunun IRG'ye başvurması önerilir.
+
+Elektronik Dergiler
+
+Araştırma Kütüphaneleri Derneği (ARL), elektronik dergiler, haber bültenleri ve akademik tartışma listelerinin basılı bir dizinini yayınlar. Yüzlerce
+
+stüdyo, düzinelerce dergi ve haber bülteni ve haber bülteni özetleri de dahil olmak üzere birçok "diğer" başlık için girişlerin tek bir referans
+kaynağı içinde derlenmesidir. Her giriş, referanslı yayına veya listeye nasıl erişileceğine dair talimatlar içerir.
+
+Belgeler, LISTSERV@OTTAWA.BITNET adresindeki sunucuya
+
+get ejournl1 directry
+get ejournl2 directry
+
+komutlarını göndererek elektronik olarak kullanılabilir. Listserv'leri bir listserv'ü kullanma hakkında daha fazla talimat için ziyaret edin.
+
+Dizin, Diane Kovacs'ın
+Directories of Academic E-Mail Conferences adlı derlemesiyle birlikte, şu adresten basılı ve disket (DOS WordPerfect ve MacWord) olarak edinilebilir:
+
+Bilimsel ve Akademik Yayıncılık Ofisi
+Araştırma Kütüphaneleri Derneği
+1527 New Hampshire Avenue, NW
+Washington, DC 20036
+ARLHQ@UMDC.BITNET
+(202) 232--2466
+(202) 462--7849 (Faks)
+
+ARL, Amerika Birleşik Devletleri ve Kanada'daki yüzlerce araştırma kütüphanesini temsil eden kar amacı gütmeyen bir kuruluştur. Yayın, ARL üyelerine 10$, üye olmayanlara ise 20$ karşılığında (yabancı adresler için dizin başına 5$ posta ücreti ekleyin) sunulmaktadır. Altı veya daha fazla kopya siparişlerinde %10 indirim uygulanır; tüm siparişler önceden ödenmeli ve ARL'ye gönderilmelidir.
+
+Ticari Veritabanları
+
+Amerikan Fizik Enstitüsü Fizik Bilgi Ağı'nı sürdürmektedir. Bibliyografik SPIN ve Genel Fizik Gelişmiş Özetler veritabanlarını içerir. Ayrıca ilan panolarına ve çeşitli aranabilir listelere (iş ilanları, duyurular, vb.) erişim de mevcuttur.
+pinet.aip.org'a telnet; yeni kullanıcılar YENİ olarak oturum açmalı ve kayıt bilgilerini vermelidir.
+
+WAIS (WAIS) üzerinden erişilebilen veritabanlarından bazıları ücrete tabidir.
+
+Klarnet Haberleri
+
+Klarnet, Usenet dosya biçiminde canlı UPI haber servisi haberleri de dahil olmak üzere profesyonel haberler ve bilgiler sağlayan elektronik bir yayın ağı hizmetidir.
+
+Klarnet, yerel sistemde doğrudan "elektronik bir gazete" okumanızı sağlar; Güncel sektör haberleri, teknolojiyle ilgili
+telgraf hikayeleri, sendikasyonlu köşe yazıları ve özellikler, finansal bilgiler,
+hisse senedi fiyat teklifleri ve daha fazlasını alabilirsiniz.
+
+Klarnet, Usenet mesaj değişim biçimi kullanılarak sağlanır
+ve UUCP ve NNTP dahil diğer dağıtım protokolleri aracılığıyla kullanılabilir.
+
+Ana özellik, United Press International'ın (UPI) telgraf servislerinden canlı olarak toplanan bir "elektronik gazete" olan ClariNews'dir.
+
+ClariNews makaleleri, konularına göre 100 haber grubunda dağıtılır ve ek konular ve hikayenin
+coğrafi konumu için anahtar kelimelerle belirtilir. ClariNews, manşetler,
+sektör haberleri, maç sonuçları, ağ TV programları ve daha fazlasını içerir. ClariNews'in ana ürünleri şunlardır:
+
+ClariNews General, günde ortalama 400 hikaye yayınlayan, haberler,
+sporlar ve özellikler içeren genel haber "gazetesidir".
+
+TechWire, bilim,
+teknoloji ve etraflarındaki sektör hikayeleri hakkında hikayeler için özel gruplardır.
+
+ClariNews-Biz, iş ve finans hikayeleri.
+
+Newsbytes, günlük bir bilgisayar endüstrisi haber dergisi.
+
+Dave Barry (mizah) ve Mike
+Royko (görüş) dahil olmak üzere sendikalı köşe yazıları.
+
+Abonelik bilgileri de dahil olmak üzere ClariNet hakkında tüm bilgiler şu adresten edinilebilir:
+
+Clarinet Communications Corp.
+124 King St. North
+Waterloo, Ontario N2J 2X8
+info@@clarinet.com
+(800) USE-NETS
+
+veya ftp.uu.net adresindeki /Clarinet dizininde anonim FTP ile (Anonim FTP).
+
+"Söylemeye gerek yok, Aristoteles modern finansı öngörmemişti."
+Frederick Copleston, S.J.
+A History of Philosophy: Vol 1 Greece & Rome Part II, s95
+
+---------
+Duyacağınız Şeyler
+
+İnterneti aktif olarak kullanmaya başladıktan kısa bir süre sonra duyacağınız bazı şeyler vardır. Çoğu insan, herkesin bunlara aşina olduğunu ve ek bir açıklamaya ihtiyaç duymadıklarını varsayar. Keşke bu doğru olsaydı!
+
+Bu bölüm, yeni bir kullanıcı Siber Uzayı keşfederken sıklıkla karşılaşılan ve sorulan birkaç konuyu ele almaktadır. Bunlardan bazıları
+günümüzde ağların nasıl çalıştırıldığıyla doğrudan ilgilidir; diğer noktalar
+sadece okumak için ilginçtir.
+
+İnternet Solucanı
+
+Severo M. Ornstein'ın ACM Haziran 89 Cilt 32 No6'daki bir mektubundan ve itiraz bildiriminden
+
+2 Kasım 1988'de, Cornell'de Bilgisayar Bilimi'nde lisansüstü öğrencisi olan Robert Morris, Jr. solucan adı verilen deneysel, kendini kopyalayan, kendini yayan bir program yazdı ve bunu İnternet'e
+ekledi. Solucanın Cornell'den geldiği gerçeğini gizlemek için bunu MIT'den yayınlamayı seçti. Morris kısa süre sonra programın
+kendisinin tahmin ettiğinden çok daha hızlı bir şekilde
+kopyalandığını ve makineleri yeniden enfekte ettiğini keşfetti---bir hata vardı. Sonuç olarak, ülkenin dört bir yanındaki birçok
+makine ya çöktü ya da "katatonik" hale geldi.
+Morris ne olduğunu anladığında, bir çözüm
+görüşmek üzere Harvard'daki bir arkadaşıyla iletişime geçti. Sonunda, Harvard'dan ağ üzerinden anonim bir mesaj göndererek programcılara solucanı nasıl öldüreceklerini ve yeniden enfeksiyonu nasıl önleyeceklerini
+öğrettiler. Ancak, ağ rotası tıkalı olduğundan, bu mesaj çok geç olana kadar iletilmedi. Üniversiteler, askeri tesisler ve tıbbi araştırma tesisleri de dahil olmak üzere birçok tesisteki bilgisayarlar etkilendi. Her kurulumda solucanla başa çıkmanın tahmini maliyeti 200 dolardan 53.000 doların üzerine kadar değişiyordu. {Kısmen Severo M. Ornstein'ın ACM İletişimleri, Cilt 32 No 6, Haziran 1989'daki bir mektubundan türetilmiştir.}
+
+Program, bir sistemde çalışan ve diğer sistemlerin ona bağlanıp e-posta göndermesini bekleyen Unix sendmail programının hata ayıklama modundaki bir açıktan ve parmak isteklerini karşılayan parmak daemonu fingerd'deki bir açıktan faydalandı (Finger).
+Berkeley'deki California Üniversitesi ve MIT'deki insanlar programın kopyalarına sahipti ve nasıl çalıştığını anlamaya çalışmak için aktif olarak parçalarına ayırıyorlardı (programı kaynak formuna geri döndürüyorlardı).
+
+Programcı ekipleri, solucanın sürekli yayılmasını önlemek için en azından geçici bir çözüm bulmak için durmaksızın çalıştılar.
+Yaklaşık on iki saat sonra, Berkeley'deki ekip virüsün yayılmasını geciktirmeye yardımcı olacak adımlar buldu. Başka bir yöntem de Purdue'de keşfedildi ve yaygın olarak yayınlandı. Ancak, birçok sitenin ağdan tamamen
+kopması nedeniyle bilgi olabildiğince çabuk yayılmadı.
+
+Birkaç gün sonra, işler yavaş yavaş normale dönmeye başladı ve
+herkes bunu kimin yaptığını bilmek istiyordu. Morris daha sonra The New York Times'da yazar olarak adlandırıldı (bu henüz resmi olarak
+kanıtlanmamış olsa da, Morris'i işaret eden önemli miktarda kanıt vardı).
+
+Robert T. Morris, Bilgisayar Dolandırıcılığı ve Kötüye Kullanımı Yasası'nı (Başlık 18) ihlal etmekten suçlu bulundu ve üç yıl denetimli serbestlik, 400 saat toplum hizmeti, 10.050 dolar para cezası ve gözetim masraflarına çarptırıldı. Aralık 1990'da yaptığı itiraz, ertesi Mart ayında reddedildi.
+
+Guguk Kuşu Yumurtası
+
+İlk olarak "Kurnaz Hacker'ı Takip Etmek" başlıklı bir makalede ve daha sonra
+Guguk Kuşu Yumurtası kitabında, Clifford Stoll, Kaliforniya'daki Lawrence Berkeley Laboratuvarı'nda bir sisteme giren birini takip etmeye çalışırken yaşadığı deneyimleri ayrıntılı olarak anlattı. {Tam alıntılar için bibliyografyaya bakın.}
+
+Laboratuvarın muhasebe kayıtlarındaki 75 sentlik bir tutarsızlık, Stoll'u Kaliforniya, Virginia ve Avrupa'da bir kovalamacaya sürükledi ve Batı Almanya, Hannover'deki küçük bir dairede sona erdi. Stoll, birçok düzeyde bürokrasi ve bürokrasiyle uğraştı ve hacker'ını takip etmeye çalışırken FBI, CIA ve Alman Bundespost ile çalıştı.
+
+Stoll'un deneyimleri ve özellikle konuşmalarındaki mesajları, ağlar ağı üzerindeki taraflar arasındaki iletişime olan acil ihtiyacı ortaya koydu. Herkesin Siber Uzayda barışçıl bir şekilde bir arada var olabilmesinin tek yolu, var olan sorunların hızla tanınmasını sağlamaktır.
+
+Kuruluşlar
+
+İnsanların bir araya gelip ortak ilgi alanlarını paylaşmaları için duyulan yılmaz ihtiyaç, bilişim dünyasında da mevcuttur. Kullanıcı grupları, insanların fikir ve deneyimlerini paylaştığı dünyanın dört bir yanında mevcuttur.
+Benzer şekilde, kullanıcı gruplarından bir adım "üstünde" olan kuruluşlar vardır; yani, belirli bir bilgisayarı veya bilgisayar uygulamasını desteklemekten ziyade, bir fikri veya fikir kümesini teşvik etmek veya tanıtmak için var olurlar.
+
+Bilgisayar Makineleri Derneği
+
+Bilgisayar Makineleri Derneği (ACM), Eckert ve Mauchly'nin 1946'da ilk elektronik bilgisayarlardan biri olan ENIAC'ı tanıtmasının hemen ardından 1947'de kurulmuştur. O zamandan beri ACM, bilgisayar endüstrisindeki önde gelen eğitim ve bilim topluluklarından biri haline gelerek hızla büyüdü.
+
+ACM'nin belirtilen amaçları şunlardır:
+
+Bilgi işleme bilimlerini ve sanatlarını ilerletmek;
+
+Hem uzmanlar hem de halk arasında bilgi işleme bilimleri ve
+sanatları hakkında bilginin serbestçe değişimini teşvik etmek;
+
+Bilgi işleme bilimleri ve
+sanatları uygulamalarıyla uğraşan kişilerin dürüstlüğünü ve yeterliliğini geliştirmek ve sürdürmek.
+
+ACM'deki üyelik, Eylül 1947'de yetmiş sekizden bugün 77.000'in üzerine çıktı. Dünya çapında yerel şubeler var ve birçok kolej ve üniversite öğrenci şubelerini destekliyor. Öğretim görevlileri, normal "kullanıcı grubu" toplantılarının bir adım ötesinde olma eğiliminde olan bu toplantılara sık sık katılırlar. Dernek üyeleri için ayrıca indirimli fiyatlarla çok çeşitli yayınlanmış materyaller mevcuttur.
+
+ACM'de grafiklerden Ada programlama diline ve güvenliğe kadar belirli bir bilişim alanına odaklanan bir dizi Özel İlgi Grubu (SIG) vardır. SIG'lerin her biri ayrıca kendi bültenini yayınlar. ACM konularının tartışılması için comp.org.acm adında bir Usenet grubu vardır. Haber okuma hakkında daha fazla bilgi için Usenet Haberleri. Daha fazla bilgi ve üyelik başvurusu için şu adrese yazın:
+
+Association for Computing Machinery
+1515 Broadway
+New York City, NY 10036
+ACMHELP@ACMVM.BITNET
+(212) 869-7440
+
+Sosyal Sorumluluk İçin Bilgisayar Profesyonelleri
+olası üyelere yazdıkları mektuptan
+
+CPSR, bilgisayar teknolojisinin toplum üzerindeki etkisinin belirli alanlarına odaklanan bilgisayar profesyonellerinden oluşan bir ittifaktır. Tarihi, Palo Alto, California'daki birkaç araştırmacının, bilgisayar ile nükleer silahlanma yarışı arasındaki bağlantı hakkındaki ortak endişelerini tartışmak için bir öğle yemeği toplantısı düzenlediği 1981 sonbaharına kadar uzanıyor. Bu toplantı ve ardından gelen tartışmalardan CPSR doğdu ve o zamandan beri aktif. {Bu bölüm CPSR'nin olası üyelere yazdığı mektubun bir parçasıdır.}
+
+Ulusal CPSR programı aşağıdaki proje alanlarına odaklanmaktadır:
+
+Güvenilirlik ve Risk Bu alan, bilgisayar teknolojisine aşırı bağımlılığın toplum için kabul edilemez risklere yol açabileceği endişesini yansıtmaktadır. SDI gibi askeri sistemlerin analiz edilmesiyle ilgili çalışmaları içerir, ancak bunlarla sınırlı değildir.
+
+Sivil Özgürlükler ve Gizlilik Bu proje, FBI Ulusal Suç Bilgi Merkezi, hem hükümet hem de özel sektör tarafından veritabanlarının artan kullanımı, kamusal bilgilere erişim hakkı, Birinci Değişiklik haklarının elektronik iletişime genişletilmesi ve bilgisayarlı bilgilerin gizliliği için yasal korumaların oluşturulması gibi konularla ilgilenmektedir. İşyerinde Bilgisayarlar CPSR İşyeri Projesi, dikkatini işyeri için yazılım tasarımına ve özellikle de yazılım tasarımcılarının kullanıcılarla birlikte çalışarak sistemlerin o işyerinin gerçek ihtiyaçlarını karşılamasını sağladığı "katılımcı tasarım" felsefesine yoğunlaştırmıştır. 
+
+21. Yüzyıl Projesi Bu, ulusal araştırma önceliklerini askeri konulara odaklanmaktan, bilim ve teknoloji gelecek yüzyıla girerken gelecekteki sorunları öngörmeye ve bunlarla başa çıkmaya yönlendirmek için çalışan diğer profesyonel kuruluşlarla bir koalisyondur. 
+CPSR hakkında daha fazla bilgi için şu adresten onlarla iletişime geçin: 
+
+Sosyal Sorumluluk İçin Bilgisayar Profesyonelleri 
+P.O. Box 717
+Palo Alto, CA 94302
+cpsr@csli.stanford.edu
+(415) 322--3778
+(415) 322--3798 (Faks)
+
+Elektronik Sınır Vakfı
+
+Elektronik Sınır Vakfı (EFF), günümüz toplumunda her zaman mevcut olan "elektronik sınırı" --- Siberuzay ortamını uygarlaştırmaya yardımcı olmak; onu yalnızca teknik bir seçkinler için değil, herkes için gerçekten yararlı ve faydalı hale getirmek; ve bunu toplumun en yüksek bilgi ve iletişim akışı gelenekleriyle uyumlu bir şekilde yapmak için kurulmuştur. {Bu bölüm eff.about'tan türetilmiştir, ftp.eff.org'dan anonim FTP yoluyla diğer materyallerle birlikte kullanılabilir}
+
+EFF'nin misyonu, bilgi işlem ve telekomünikasyondaki gelişmelerin getirdiği fırsatlar ve zorluklar konusunda halkın anlayışını artıran eğitim faaliyetlerinde bulunmak ve bunları desteklemektir;
+
+politika yapıcılar arasında özgür ve açık telekomünikasyonun altında yatan
+sorunlar hakkında daha iyi bir anlayış geliştirmek ve toplum tarafından bu yeni teknolojilerin özümsenmesini kolaylaştıracak yasal ve yapısal yaklaşımların oluşturulmasını desteklemek;
+
+yeni bilgisayar tabanlı iletişim medyası alanındaki hızlı ilerlemeden kaynaklanan medeni haklar
+konusunda kamuoyunun farkındalığını artırmak ve gerektiğinde, bilgi işlem ve telekomünikasyon teknolojisi alanındaki Birinci Değişiklik haklarını korumak, kollamak ve genişletmek için kamu yararına dava açılmasını desteklemek;
+
+teknik olmayan kullanıcılara bilgisayar tabanlı telekomünikasyonlara tam ve kolay erişim sağlayacak yeni araçların geliştirilmesini teşvik etmek ve desteklemek;
+
+Usenet haber grupları comp.org.eff.talk ve comp.org.eff.news, EFF ile ilgili tartışmalara adanmıştır. Ayrıca Usenet'e erişimi olmayanlar için eff-talk-request@eff.org ve eff-news-request@eff.org adreslerinde posta listesi muadilleri de vardır. Birincisi, herkesin kendi görüşlerini dile getirebileceği gayriresmi bir arenadır (diğer adıyla normal bir haber grubu). İkincisi, comp.org.eff.news, EFF'den EFFector Online şeklinde düzenli gönderiler için denetlenen bir alandır. EFFector Online için bir gönderi göndermek veya EFF hakkında genel bilgi edinmek için eff@eff.org adresine yazın. Ayrıca ftp.eff.org adresinde anonim FTP aracılığıyla çok sayıda bilgi mevcuttur. EFF ile şu adresten iletişime geçilebilir
+
+The Electronic Frontier Foundation, Inc.
+155 Second St. #1
+Cambridge, MA 02141
+eff@eff.org
+(617) 864-0665
+(617) 864-0866 (Faks)
+
+Özgür Yazılım Vakfı
+
+Özgür Yazılım Vakfı, Richard Stallman (popüler GNU Emacs düzenleyicisinin yaratıcısı) tarafından başlatıldı. Yazılım kopyalama, yeniden dağıtma ve değiştirme
+kısıtlamalarını ortadan kaldırmaya adanmıştır.
+
+İsimlerindeki "özgür" kelimesi fiyatla ilgili değildir; özgürlükle ilgilidir. Birincisi, bir programı kopyalayıp komşularınıza yeniden dağıtma özgürlüğü, böylece onlar da sizin kadar iyi kullanabilirler. İkincisi, bir programı değiştirme özgürlüğü, böylece siz onu kontrol edebilirsiniz, o sizi kontrol etmez; bunun için kaynak kodu size sunulmalıdır.
+
+Vakıf, tescilli yazılımlar için ücretsiz uyumlu yedekler geliştirerek bu özgürlükleri sağlamak için çalışır. Özellikle, Unix ile yukarı doğru uyumlu olan "GNU" adlı eksiksiz, entegre bir yazılım sistemi oluşturuyorlar. {Bir parantez olarak, GNU projesinin editörü olan emacs, yerleşik bir LISP yorumlayıcısı içerir ve işlevselliğinin büyük bir kısmı LISP'te yazılmıştır. GNU adı kendi başına yinelemelidir (LISP dilinin dayanağı); "Gnu Unix Değildir" anlamına gelir.}
+
+Yayınlandığında, herkesin onu kopyalamasına ve başkalarına dağıtmasına izin verilecektir. Ayrıca, kaynak koduyla birlikte dağıtılacak, böylece onu okuyarak işletim sistemleri hakkında bilgi edinebilecek, kendi makinenize taşıyabilecek ve değişiklikleri başkalarıyla paylaşabileceksiniz.
+
+Özgür Yazılım Vakfı ve GNU Projesi'nin durumu hakkında daha fazla bilgi için veya hala yapılması gereken mevcut görevlerin bir listesi için gnu@prep.ai.mit.edu adresine yazın.
+
+IEEE
+
+IEEE'ye ihtiyaç var...
+
+Programlama Özgürlüğü Birliği
+
+Programlama Özgürlüğü Birliği, son birkaç yıldır kaybedildiğini iddia ettikleri program yazma özgürlüğünü "geri getirmeye" adanmış profesörler, öğrenciler, iş adamları, programcılar ve kullanıcılardan oluşan bir taban örgütüdür. Birlik, Kongre'nin amaçladığı yasal sisteme -bireysel programlar üzerindeki telif hakkına- karşı değildir. Amaçları, yargıçların özel çıkarlara yanıt olarak yaptığı son değişiklikleri geri almaktır, genellikle Anayasa'nın kamu yararı ilkelerini açıkça reddederler.
+
+Lig, makaleler yayınlayarak, kamu görevlileriyle görüşerek, ağır suçluları boykot ederek ve gelecekte mahkeme davalarına müdahale ederek yeni tekelleri ortadan kaldırmak için çalışır. 24 Mayıs 1989'da, Lig, davaları nedeniyle Lotus genel merkezine karşı protesto düzenledi ve ardından 2 Ağustos 1990'da tekrar protesto düzenledi. Bu yürüyüşler, konuyla ilgili medyada geniş yer buldu. Diğer faaliyetler için önerileri ve bunların gerçekleştirilmesinde yardımları memnuniyetle karşılıyorlar.
+
+Lig ve nasıl katılacağınız hakkında bilgi için şu adrese yazın:
+
+Lig Programlama Özgürlüğü
+1 Kendall Meydanı #143
+P.O. Box 9171
+Cambridge, MA 02139
+league@prep.ai.mit.edu
+
+Ağ Girişimleri
+
+Araştırma ve geliştirme, ağ alanını tartışırken sıklıkla duyulan iki moda kelimedir---her şeyin daha hızlı, daha uzun mesafelerde ve daha düşük maliyetle gitmesi gerekir. "Güncel kalmak" için, kişi çeşitli ticaret dergilerini ve gazetelerini okumalı veya Usenet'in ağ odaklı haber gruplarını sık sık ziyaret etmelidir. Mümkünse Usenix, Interop vb. gibi ticaret fuarlarına ve sempozyumlara katılın.
+
+ISDN
+
+NREN
+
+Ulusal Araştırma ve Eğitim Ağı (NREN), Kongre tarafından 1991 Sonbaharında onaylanan beş yıllık bir projedir. Ulusal bir elektronik "süper otoyol" yaratmayı amaçlamaktadır. NREN, mevcut en hızlı ağlardan 50 kat daha hızlı olacaktır (bu yazının yazıldığı tarihte). NREN'in savunucuları, Encyclopedia Britannica'nın tüm metninin eşdeğerinin bir saniyede aktarılmasının mümkün olacağını iddia ediyor. Senatör Al Gore (D--TN) tarafından sunulan yasa tasarısının orijinal metni de dahil olmak üzere daha fazla bilgi, nis.nsf.net dizinindeki nsfnet dizininde anonim FTP aracılığıyla edinilebilir. Ayrıca, Vint Cerf, o zamanlar önerilen NREN hakkında RFC-1167, Ulusal Araştırma ve Eğitim Ağı Üzerine Düşünceler'de yazmıştır. RFC'leri edinme hakkında bilgi için RFC'ler.
+
+NREN'i tartışmak için nren-discuss@uu.psi.com adresinde bir posta listesi mevcuttur; eklenmek üzere nren-discuss-request@uu.psi.com adresine yazın.
+
+"Kamuoyunda konuşmak, yalnız başına düşünmek, okumak ve duymak, sorgulamak ve soruları yanıtlamak bir akademisyenin işidir." Samuel Johnson
+Bölüm VIII
+Abissinia Prensi Rasselas'ın Tarihi
+
+-----
+Daha Fazla Bilgi Edinin
+
+İnternet Kaynak Rehberi
+
+NSF Ağ Hizmet Merkezi (NNSC) bir İnternet Kaynak Rehberi (IRG) derler ve kullanıma sunar.
+Rehberin amacı, kullanıcıların işlerini daha iyi yapmalarına yardımcı olabilecek çeşitli İnternet kaynaklarının görünürlüğünü artırmaktır. Henüz kapsamlı bir liste olmasa da, rehber birçok kaynağın yararlı bir derlemesidir ve yeni bir kullanıcı için faydalı bir referans olabilir.
+
+Listelenen kaynaklar türlerine göre bölümlere ayrılmıştır. Mevcut bölümlerde çevrimiçi kütüphane katalogları, veri arşivleri, çevrimiçi beyaz sayfalar dizin hizmetleri, ağlar, ağ bilgi merkezleri ve süper bilgisayarlar gibi hesaplama kaynaklarının açıklamaları yer alır. Her giriş kaynağı açıklar, kaynağı kimlerin kullanabileceğini belirtir, İnternet üzerinden yerel ağa nasıl ulaşılacağını açıklar ve daha fazla bilgi için kişileri listeler. Liste NNSC tarafından elektronik olarak dağıtılır. Bir rehber almak veya güncellendiğinde sizi uyaran bir e-posta listesine kaydolmak için
+resource-guide-request@nnsc.nsf.net adresine bir mesaj gönderin.
+
+IRG'nin güncel sürümü anonim FTP aracılığıyla
+nnsc.nsf.net adresinden /resource-guide dizininde mevcuttur.
+
+Yorum İstekleri
+
+İnternet'in iç işleyişi RFC (Yorum İsteği) adı verilen bir dizi belgeyle tanımlanır.
+RFC oluşturmanın genel süreci, resmileştirilmiş bir şey isteyen birinin sorunu açıklayan bir belge yazması ve bunu Jon Postel'e (postel@isi.edu) göndermesidir. O, teklif için hakem görevi görür. Daha sonra, tartışmaya katılmak isteyen herkes tarafından yorumlanır (elbette elektronik olarak). Birden fazla revizyondan geçebilir. Genel olarak iyi bir fikir olarak kabul edilirse, bir numara atanacak ve RFC'lere kaydedilecektir.
+
+RFC'ler beş gruba ayrılabilir: gerekli, önerilen,
+yönlendirici, bilgilendirici ve eski. Gerekli RFC'ler (örneğin,
+RFC-791, İnternet Protokolü) İnternet'e bağlı herhangi bir ana bilgisayarda uygulanmalıdır.
+
+Önerilen RFC'ler genellikle ağ ana bilgisayarları tarafından uygulanır. Bunların olmaması İnternet'e erişimi engellemez, ancak
+kullanılabilirliğini etkileyebilir. RFC-793, İletim Kontrol Protokolü, TCP uygulayanlar için bir zorunluluktur.
+
+Yönlendirici RFC'ler tartışıldı ve kabul edildi, ancak bunların uygulaması
+hiçbir zaman yaygın olarak kullanılmadı. Bunun nedeni, belirli uygulamaya yönelik yaygın bir ihtiyaç olmaması (RFC-937, Postane Protokolü) veya teknik olarak üstün olmasına rağmen diğer yaygın yaklaşımlara (RFC-891, Merhaba) karşı çıkması olabilir. Tesisin belirli bir site tarafından gerekmesi halinde, RFC'ye uygun bir uygulama yapılması önerilir. Bu, fikrin zamanı geldiğinde, uygulamanın bir standarda uygun olacağını ve genel olarak kullanılabilir olacağını garanti eder.
+
+Bilgilendirici RFC'ler İnternet ve işleyişi hakkında gerçek bilgiler içerir (RFC-990, Atanmış Numaralar).
+
+Ayrıca, FYI (Bilginize) adı verilen bir RFC alt kümesi de vardır.
+Diğer standart RFC'lerde kullanılandan çok daha gayri resmi bir dilde yazılmıştır. Konular, yeni ve deneyimli kullanıcılar için ortak sorulara verilen yanıtlardan önerilen bir bibliyografyaya kadar uzanır.
+
+Son olarak, İnternet büyüdükçe ve teknoloji değiştikçe, bazı RFC'ler gereksiz hale gelir. Ancak, bu eski RFC'ler göz ardı edilemez. Sık sık, bazı RFC'lerde yeni bir RFC'nin diğerlerini geçersiz kılmasına neden olan bir değişiklik yapıldığında, yeni RFC yalnızca açıklamaları ve değişiklik için motivasyonları içerir. Tüm tesisin dayandığı modeli anlamak, konuyla ilgili orijinal ve sonraki RFC'leri okumayı gerektirebilir.
+
+RFC'ler ve FYI'ler, aşağıdakiler de dahil olmak üzere birçok kaynaktan FTP aracılığıyla edinilebilir:
+
+nic.ddn.mil arşivi, /rfc/rfc-xxxx.txt biçiminde, burada
+xxxx, RFC numarasıdır.
+
+ftp.uu.net'ten, /RFC dizininde.
+
+Ayrıca, yine xxxx'in RFC numarası olduğu, RFC-xxxx.TXT gönderilecek Konu: satırıyla
+service@nic.ddn.mil adresine yazılarak posta yoluyla da edinilebilir.
+
+"Bilgi iki türdür. Bir konuyu kendimiz biliriz veya
+bu konu hakkında bilgiyi nerede bulabileceğimizi biliriz."
+
+Samuel Johnson
+Lord Chesterfield'a Mektup
+Şubat, 1755
+alıntılar kitabında 18 Nisan 1775 yazıyordu... Johnson'ın eserlerinin kitabında 1755 yazıyordu; ben ikincisini seçeceğim.
+
+-------
+Sonuç
+
+Bu rehber eksiksiz olmaktan uzaktır---İnternet günlük (hatta saatlik) olarak değişir. Ancak bu kitapçık, İnternet'in inanılmaz genişliğini ve karmaşıklığını biraz daha az etkileyici hale getirmek için yeterli bilgi sağlamalıdır. Biraz keşif ve
+denemeyle birlikte, her kullanıcı, mevcut olanakları en iyi şekilde kullanarak yetenekli bir internet vatandaşı olma potansiyeline sahiptir.
+
+Siz okuyucular, bu kitapçığın herhangi bir bölümünde iyileştirmeler önermeniz için şiddetle teşvik ediliyorsunuz. Eğer bir şey belirsizse, sizde şüphe uyandırdıysa veya ele alınmadıysa, düzeltilmelidir. Herhangi bir
+sorun, yanlışlık, yazım hatası vb. bulursanız lütfen bunları şu adrese bildirin:
+
+Brendan Kehoe
+Bilgisayar Bilimleri Bölümü
+Widener Üniversitesi
+Chester, PA 19013
+
+İnternet: guide-bugs@cs.widener.edu
+UUCP: ...!widener!guide-bugs
+
+Bu kılavuza yönelik gelecekteki güncellemelerle (normal yeni sürümler hariç), dahil edilecek veya kaldırılacak bilgilerle ilgili tartışmalarla vb. ilgileniyorsanız, bu tür şeyler için bir e-posta listesine eklenmek üzere guide-request@cs.widener.edu adresine yazın.
+
+@dots aslında `. . . .'
+"Başlangıcı ve son @dots'u ektim,
+şimdi sonunu görüyorum."
+William Faulkner
+The Sound & The Fury
+8 Nisan 1928
+
+--------
+
+Diğer Ağlara Ulaşma
+
+Karşılıklı bağlantı, bilgisayar ağlarındaki en büyük hedeflerden biri olmuştur ve her zaman da öyle olacaktır. Nihai arzu, bir kişinin
+nerede olursa olsun başka biriyle iletişim kurabilmesini sağlamaktır. Ağlar arasında bir dizi "ağ geçidi" kurulmuştur. Bunlar şunları içerir:
+
+AppleLink
+Quantum Services, Commodore bilgisayarlar için QuantumLink ve IBM PC'ler ve uyumlu bilgisayarlar için PCLink'e benzer olan AppleLink'e erişim satar. Ayrıca
+user@applelink.apple.com adresi üzerinden e-posta erişimi sağlar.
+
+ATTMail
+AT&T, ATTMail adlı ticari bir e-posta hizmeti satar. Kullanıcılarına
+user@attmail.com adresine yazarak ulaşılabilir.
+
+BIX
+BIX'teki (Byte Information eXchange) kullanıcılara
+user@cibix.das.net adresindeki DAS ağ geçidi üzerinden ulaşılabilir.
+
+CompuServe (CI$)
+Ticari hizmet CompuServe'deki bir kullanıcıya ulaşmak için,
+postayı xxxxx.xxx@compuserve.com olarak adreslemeniz gerekir; burada
+xxxxx.xxx CompuServe kullanıcı kimliğidir. Normalde CompuServe
+kimlikleri virgülle ayrılmış olarak gösterilir (örneğin
+71999,141); çoğu postacı adreslerde virgül olmasına
+iyi tepki vermediğinden, bir noktayla değiştirildi. Yukarıdaki
+adres için, posta 71999.141@compuserve.com adresine gönderilebilir.
+
+EasyNet
+Digital, EasyNet adlı bir hizmet satıyor; bu hizmete abone olan kullanıcılara user@host.enet.dec.com veya
+user%host.enet@decwrl.dec.com adresleriyle ulaşılabilir.
+
+FidoNet
+FidoNet bilgisayar ağına özel bir
+adresleme yöntemi kullanılarak ulaşılabilir. John Smith, FidoNet'te 1:2/3.4 düğümündeyse, e-posta adresi
+john.smith@p4.f3.n2.z1.fidonet.org
+olurdu (sayıların nasıl yerleştiğine dikkat edin?).
+
+MCI Mail
+MCI ayrıca e-posta hesapları da satar (ATTMail'e benzer). Kullanıcılara user@mcimail.com adresinden ulaşılabilir.
+
+PeaceNet
+PeaceNet ağındaki kullanıcılara user@igc.org adresine yazarak ulaşılabilir.
+
+The Well
+The Well hizmetindeki kullanıcılara user@well.sf.ca.us adresine yazarak ulaşılabilir. The Well doğrudan İnternet'e bağlıdır.
+
+Bu tablo henüz tamamlanmamıştır. Sitelerin listelenmemiş olmasına ek olarak, bazı hizmetlere "dışarıdan" (Prodigy gibi) erişilemez (veya erişilmesi planlanmaz); GEnie gibi diğerleri ise sistemlerine bir ağ geçidi oluşturma olasılığını aktif olarak araştırmaktadır. En son bilgiler için Inter-Network Mail Guide adlı listeye bakın. UUNET; Anonymous FTP gibi bir dizi FTP sitesinden, anonim FTP kullanarak bir kopyasını edinme hakkında daha fazla bilgi için erişilebilir.
+
+E-postayla Dosya Alma
+
+İnternete bağlı olup FTP kullanamayanlar için, çok ihtiyaç duyduğunuz dosyaları almak için birkaç alternatif mevcuttur. Dosya talep ederken, talebinizin boyutunu aklınızda bulundurmanız zorunludur; bağlantınızı kullanan diğer kişilerin normalde sakin olan bağlantılarında aniden oluşan yoğun trafiğe karşı çok duyarlı olma olasılığı yüksektir.
+
+Arşiv Sunucuları
+
+Şu anda aşırı kullanılan FTPmail sistemine bir alternatif, şu anda bakımı yapılan birçok arşiv sunucusundan yararlanmaktır. Bunlar, komutlar içeren e-posta mesajları alan ve bunlar üzerinde işlem yapan programlardır. Örneğin, bir arşiv sunucusuna komut yardımı göndermek, genellikle sunucunun sahip olduğu çeşitli komutların nasıl kullanılacağına dair bir e-posta parçası biçiminde bilgi verir.
+
+Bu tür arşiv sunucularından biri service@nic.ddn.mil'dir.
+Chantilly, VA'deki Ağ Bilgi Merkezi (NIC) tarafından yönetilen sunucu, FTP'ye erişimi olmayan kişiler için NIC'deki tüm bilgileri kullanılabilir hale getirmek üzere ayarlanmıştır. Buna WHOIS hizmeti de dahildir.
+(Whois).
+NIC sunucusuna yapılan sorgular için bazı örnek Konu: satırları şunlardır:
+
+Konu: yardım Kullanılabilir komutları açıklar.
+Konu: rfc 822 RFC-822'nin bir kopyasını gönderir.
+Konu: rfc dizini Kullanılabilir RFC'lerin bir dizinini gönderir.
+Konu: netinfo domain-template.txt Bir alan adı başvurusu gönderir.
+Konu: whois widener `widener' hakkında WHOIS bilgisi gönderir.
+
+Arşiv sunucularını kullanma hakkında daha fazla bilgi,
+sunucu adreslerine service@nic.ddn yazarak elde edilebilir. mil ile
+Konu: yardım.
+
+Her biri kendi komut ve hizmet kümesine sahip farklı "markalar" arşiv sunucusu vardır. Bunların arasında genellikle ortak bir komut ve hizmet kümesi bulunur (örneğin dizin, yardım, vb.).
+Öyle olsa bile, sözdizimini varsaymadan önce her zaman belirli bir sunucu için bireysel yardıma danışılmalıdır---100K sürprizler bir sistem için
+zor olabilir.
+
+FTP-by-Mail Sunucuları
+Bazı sistemler insanlara e-posta yoluyla sahte FTP arayüzü üzerinden dosya alma olanağı sunar. Genel bir bakış için Anonim FTP
+FTP nasıl yapılır. Böyle bir hizmet sağlamanın etkileri değişir, ancak
+bir kural olarak muhtemelen bir sistemdeki mevcut kaynakların önemli bir miktarını kullanacaktır.
+
+"Orijinal" FTP-by-Mail hizmeti olan BITFTP, Princeton düğümü PUCC'den BITNET
+kullanıcıları için kullanılabilir. Bir zamanlar herkesin erişimine açıktı, ancak sistemdeki
+ağır yük nedeniyle BITNET dışındaki kullanıcılar için kapatılması gerekiyordu.
+
+Bu kapatmaya yanıt olarak, Paul Vixie Digital'in ağ geçidi bilgisayarlarından biri olan
+decwrl.dec.com'a FTPmail adlı bir sistem tasarladı ve kurdu. Kullanım talimatları için ftpmail@decwrl.dec.com adresine mektubun gövdesinde yardımla birlikte yazın. Yazılım
+sürekli olarak geliştiriliyor; kararlı bir duruma ulaştığında,
+diğer siteler de onu benimsemeye ve hizmeti sağlamaya teşvik edilecek.
+
+Haber Grubu Oluşturma
+
+Herkes Usenet'te Oylama Çağrısı yapma ve genel okuyucu kitlesine
+yarar sağlayacağını düşündüğü bir haber grubu oluşturma fırsatına sahiptir. Haber grubu oluşturmayı yöneten kurallar yıllar içinde genel olarak kabul görmüş bir yönteme dönüştü.
+Sadece "dünya" gruplarını yönetirler; bölgesel veya diğer alternatif hiyerarşilere
+uygulanamazlar.
+
+Tartışma
+
+Öncelikle grubun adlandırılması, grup ağacında nereye gitmesi gerektiği (örn. rec.sports.koosh ile rec.games.koosh?) ve ilk etapta oluşturulup oluşturulmaması gibi konuları ele almak için bir tartışma yapılmalıdır. Resmi Tartışma Talebi
+(RFD), önerilen konuyla ilgili diğer gruplar veya posta listeleriyle birlikte news.announce.newgroups'a gönderilmelidir.
+news.announce.newgroups denetlenmektedir. Bunu önce Newsgroups: başlığına yerleştirmelisiniz, böylece yalnızca moderatöre gönderilir. Makale, listelenen diğer haber gruplarına hemen gönderilmeyecektir; bunun yerine, moderatörün RFD'nizdeki tutarsızlıkları veya hataları düzeltmesi için size fırsat verecektir.
+O, makaleyi belirttiğiniz haber gruplarına göndermekle ilgilenecektir. Ayrıca Followup-To: başlığı, gerçek tartışmanın yalnızca news.groups'ta gerçekleşmesi için ayarlanacaktır. Bir kullanıcı denetlenen bir gruba gönderi yapmada zorluk çekiyorsa, news.announce.newgroups'a yönelik gönderileri
+announce-newgroups@rpi.edu adresine gönderebilir.
+
+Grubun nihai adı ve tüzüğü ve denetlenip denetlenmeyeceği tartışma
+süresi içerisinde belirlenecektir. Denetlenecekse, tartışma ayrıca moderatörün kim olacağına karar verecektir. 30 günün sonunda yeni bir grup lehine olanlar arasında bu noktalarda genel bir fikir birliği olmazsa, tartışma news.groups'a gönderi yapmaya devam etmek yerine postaya alınacaktır; bu şekilde, grubun savunucuları farklılıklarını giderebilir ve uygun bir teklifle geri dönebilir ve yeni bir Tartışma Talebi oluşturabilirler.
+
+Oylama
+Tartışma süresinden sonra (ki bu zorunludur), yeni bir grubun gerçekten istendiği belirlenirse, bir isim ve tüzük üzerinde anlaşmaya varılır ve grubun moderatörlüğünün yapılıp yapılmayacağı (ve kim tarafından) belirlenirse, orijinal Tartışma Talebinin gönderildiği diğer gruplarla birlikte news.announce.newgroups'a bir Oy Çağrısı (CFV) gönderilmelidir. CFV, tartışma sona erdikten sonra mümkün olan en kısa sürede yayınlanmalıdır (veya news.announce.newgroups moderatörüne postalanmalıdır) (böylece herkesin aklında taze kalır).
+
+Oy Çağrısı, oy kullanma konusunda net talimatlar içermelidir. Hem bir gruba nasıl oy verileceğinin hem de bir gruba karşı nasıl oy verileceğinin açıkça açıklanması önemlidir (ve aynı zorlukta veya kolaylıkta olmalıdır). Sizin veya yöneticinizin daha kolayı varsa, evet ve hayır oylarını göndermek için iki ayrı adres kullanılabilir, ancak bunlar aynı makinede olmalıdır. Yöntem ne olursa olsun, herkesin oyunun nasıl sayılacağına dair çok özel bir fikri olmalıdır.
+
+Oylama süresi, oylamanın ön sonuçları ne olursa olsun 21 ila 31 gün arasında sürebilir. Sadece 400 "hayır" oyu geldiği ve sadece iki "evet" oyu olduğu için oylama iptal edilemez. Oy Çağrısı, oylama süresinin sona ereceği kesin tarihi içermelidir; yalnızca bu tarihten önce oy verenin makinesine gelen oylar sayılabilir.
+
+Farkındalığı yüksek tutmak için, oylama sırasında CFV tekrarlanabilir, ancak orijinal oylamayla aynı net, tarafsız talimatları vermesi gerekir; ayrıca ilk yayınlanan teklifle aynı teklif olması gerekir. Tüzük oylama sırasında değiştirilemez. Ayrıca, yayınlanan oylar sayılmaz; yalnızca oy verene postalananlar sayılabilir. Kısmi sonuçlar asla dahil edilmemelidir; yalnızca belirli teklifin bir ifadesi, bunun üzerinde oylama yapıldığı ve nasıl oy kullanılacağı belirtilir. Toplu bir onay ("Toplu ACK" veya "Oy ACK") izin verilir; ancak, bir kişinin hangi şekilde oy kullandığına dair hiçbir gösterge vermeyecek şekilde sunulmalıdır. Bunu önlemenin bir yolu, oy kullanan herkesin büyük bir listesini oluşturmak ve alfabetik sıraya göre sıralamaktır. İki sıralı liste olmamalıdır (sırasıyla evet ve hayır oyları). Her oy özerktir. Bir grup lehine veya aleyhine verilen oylar, benzer başka bir teklife aktarılamaz. Bir oy, yalnızca yanıt olarak verildiği teklif için sayılabilir. Özellikle, bir haber grubu lehine veya aleyhine verilen oy, farklı bir isim veya tüzüğe, farklı bir denetlenen/denetlenmeyen statüye veya denetleniyorsa farklı bir denetmen veya denetmen grubuna sahip başka bir grup lehine veya aleyhine oy olarak sayılmaz. Aman Tanrım!
+
+Son olarak, oy açık olmalıdır; önerilen şekilde foo.bar grubuna oy veriyorum veya önerilen şekilde foo.bar grubuna oy veriyorum şeklinde olmalıdır. Kelimelerin kesin olması gerekmez, sadece niyetiniz açık olmalıdır.
+
+Bir Oylamanın Sonucu
+
+Oylama süresinin sonunda, oy alan kişi alınan oyların sayısını ve e-posta adreslerini (news.announce.newgroups adresine) göndermelidir. Tekrar, orijinal CFV'de listelenen gruplardan herhangi birine de gönderilebilir. Sayım, bir kişinin hangi yönde oy kullandığını açıkça belirtmelidir, böylece gerekli olduğu kanıtlanırsa sonuçlar doğrulanabilir.
+
+Oylama sonucu news.announce.newgroups'a gönderildikten sonra, zorunlu beş günlük bir bekleme süresi vardır. Bu, herkese seçmen listesindeki veya oylama prosedüründeki hataları veya tutarsızlıkları düzeltme fırsatı verir.
+
+Grubun Oluşturulması
+
+Bekleme süresinden sonra, oyu geçersiz kılabilecek ciddi bir itiraz yoksa, oy "su testine" tabi tutulur.
+100 geçerli EVET/oluştur oyu HAYIR/oluşturma oyundan fazlaysa ve toplam oy sayısının en az üçte ikisi oluşturma lehineyse, bir yeni grup kontrol mesajı gönderilebilir (genellikle news.announce.newgroups moderatörü tarafından). 100 oyluk fark veya üçte ikilik yüzdeye ulaşılamazsa, grup başarısız olur ve oluşturulamaz.
+
+Teklif başarısız olursa, her şey kaybedilmiş olmaz --- altı aylık bir bekleme süresinden sonra (bir "soğuma"), news.groups'a yeni bir Tartışma Talebi gönderilebilir ve tüm süreç yeniden başlayabilir. Birkaç denemeden sonra grubun istenmediği veya ihtiyaç duyulmadığı anlaşılırsa, oy veren kişi alçakgönüllülükle geri çekilmeli ve çoğunluğun fikrini kabul etmelidir. (Hayat nasıl akarsa Usenet de öyle akar.)
+
+--------
+
+Sözlük
+
+Bu sözlük, insanların İnternette düzenli olarak kullandığı çeşitli terimlerin ve diğer şeylerin yalnızca küçük bir alt kümesidir. Daha kapsamlı (ve çok eğlenceli) bir referans için, Jargon Dosyası adlı ÇOK büyük bir metin dosyasına dayanan The New Hacker's Dictionary'nin bir kopyasını edinmeniz önerilir. Eric Raymond tarafından düzenlenen (eric@snark.thyrsus.com) MIT Press, Cambridge, Massachusetts, 02142 adresinden edinilebilir; ISBN numarası 0-262-68069-6'dır. Ayrıca bkz. RFC-1208, Ağ Terimleri Sözlüğü.
+
+:-)
+Bu garip sembol, bir kişinin bilgisayarların çok düz ortamında "ruh halini" tasvir etmesinin yollarından biridir --- "gülümseyen ifadeler" kullanarak. Bu, "metailetişim"dir ve açık olandan belirsiz olana kadar yüzlercesi vardır. Bu özel örnek "mutluluğu" ifade eder. Göremiyor musunuz? Başınızı 90 derece sola doğru eğin.
+Gülüntüler ayrıca alaycılığı belirtmek için de kullanılır.
+
+Ağ adresleri genellikle iki türdür:
+
+bir ağ arayüz kartının fiziksel veya donanım adresi;
+ethernet için bu 48 bitlik adres 0260.8C00.7666 olabilir.
+Donanım
+adresi, paketleri fiziksel bir ağ içinde iletmek için kullanılır.
+Neyse ki, ağ kullanıcılarının donanım
+adresleri hakkında endişelenmelerine gerek yoktur çünkü bunlar ağ
+yazılımları tarafından otomatik olarak işlenir.
+
+Mantıksal veya İnternet adresi, fiziksel ağlar arasında veri taşımayı kolaylaştırmak için kullanılır.
+32 bitlik İnternet adresi bir
+ağ numarası, bir alt ağ numarası ve bir ana bilgisayar numarasından oluşur.
+İnternetteki her ana
+bilgisayarın benzersiz bir adresi vardır. Örneğin, Colorado Eyaletindeki tüm
+İnternet adreslerinin 129.82'lik bir ağ numarası, 1-254 aralığında bir alt ağ numarası ve 1-254 aralığında bir ana bilgisayar numarası vardır. Tüm İnternet ana bilgisayarlarının sayısal bir adresi ve İngilizce tarzı bir adı vardır. Örneğin, UCC'nin CYBER 840'ının İnternet adresi
+129.82.103.96'dır; İnternet adı csugreen.UCC.ColoState.EDU'dur.
+
+adres çözünürlüğü
+Bir İnternet adresinin karşılık gelen fiziksel adrese dönüştürülmesi.
+Bir ethernet üzerinde, çözünürlük yerel alan ağında yayın yapmayı gerektirir.
+
+administrivia
+Genellikle posta listelerinin, özetlerin, haber ağ geçitlerinin vb. bakımıyla ilgili idari görevler.
+
+anonim FTP
+"Anon FTP" olarak da bilinir; dosyaları genel İnternet topluluğuna
+erişilebilir kılmak için sağlanan bir hizmettir---Anonim FTP.
+
+ANSI
+Amerikan Ulusal Standartlar Enstitüsü, ASCII gibi temel standartları yayar ve Amerika Birleşik Devletleri'nin ISO'ya temsilcisi olarak hareket eder. Standartlar ANSI Satış Departmanına, 1430 Broadway, New York, NY 10018 adresine yazarak veya (212) 354-3300 numaralı telefonu arayarak ANSI'den sipariş edilebilir.
+
+archie
+Sayısız anonim FTP sitesinin tekliflerinin bir veritabanında paketler için arama sağlayan bir hizmet.
+tam bir açıklama için archie.
+
+arşiv sunucusu
+Bazı sistemler tarafından sunulan e-posta tabanlı bir dosya aktarım tesisi.
+
+ARPA (Gelişmiş Araştırma Projeleri Ajansı)
+ARPAnet'i ve daha sonra DARPA İnternet'i finanse eden hükümet kuruluşu olan DARPA'nın eski adı.
+
+ARPAnet
+ARPA tarafından finanse edilen öncü bir uzun mesafe ağı.
+İnternet'in geliştirilmesi sırasında hem erken ağ araştırmalarının temeli hem de merkezi bir omurga görevi gördü.
+ARPAnet, kiralık hatlarla birbirine bağlanan bireysel paket anahtarlama bilgisayarlarından oluşuyordu. ARPAnet artık tek bir varlık olarak mevcut değil.
+
+asenkron
+Ayrı baytlar üzerinden iletim, ileten taraftaki belirli zamanlamayla ilişkili değildir.
+
+otomatik-sihir
+Sahte otomatik olarak gerçekleşen ve genellikle "otomatik-sihirli" olarak gerçekleştiğini söylemekten daha fazla
+daha fazla ayrıntıya girmek için çok karmaşık olan bir şey.
+
+omurga
+Daha kısa, genellikle daha yavaş devreleri birbirine bağlayan bir ağ içindeki yüksek hızlı bağlantı. Ayrıca, etkinlik için bir "merkez" görevi gören bir sisteme atıfta bulunmak için de kullanılır (ancak bunlar on yıl öncesine göre artık çok daha az yaygın hale geliyor).
+
+bant genişliği
+Bir ortamın bir sinyali iletme kapasitesi. Daha gayri resmi olarak, Net'in efsanevi "boyutu" ve onu kullananların dosyalarını ve mesajlarını taşıma yeteneği. Bazıları belirli trafik türlerini (örneğin yüzlerce grafik görüntüsünü FTP'lemek) "bant genişliği israfı" olarak görür ve bunlara tepeden bakar.
+
+BITNET (Çünkü Zamanı Geldi Ağı)
+NJE tabanlı uluslararası bir eğitim ağı.
+
+bounce
+Tesliminde bir hata nedeniyle bir posta parçasının geri dönmesi.
+
+btw
+"Bu arada" ifadesinin kısaltması.
+
+CFV (Oy Çağrısı)
+Bir Usenet haber grubu için oylama sürecini başlatır. En az bir
+(bazen iki veya daha fazla) e-posta adresi oylar için bir
+depo olarak dahil edilir. Usenet oylama sürecinin tam açıklaması için Haber Grubu Oluşturma'ya bakın.
+
+ClariNews
+ClariNet Communications'dan edinilebilen ücretli Usenet haber akışı.
+
+client
+Bir ağ hizmetinin kullanıcısı; ayrıca kaynaklarının bir kısmı veya tamamı için başka bir bilgisayara güvenen bir bilgisayarı tanımlamak için kullanılır.
+
+Siberuzay
+William Gibson'ın fantastik romanı Neuromancer'da bilgisayarların "dünyasını" ve etraflarında toplanan toplumu tanımlamak için türettiği bir terim.
+
+datagram
+İnternet üzerinden iletilen temel bilgi birimi.
+Verilerle birlikte bir kaynak ve hedef adresi içerir. Büyük mesajlar
+bir dizi IP datagramına bölünür.
+
+parçalama
+İkili bir programı insan tarafından okunabilen makine dili koduna dönüştürme.
+
+DNS (Alan Adı Sistemi)
+İnternet adlarını karşılık gelen İnternet numaralarına
+dönüştürmek için kullanılan yöntem.
+
+alan
+Adlandırma hiyerarşisinin bir parçası. Sözdizimsel olarak, bir alan adı
+noktalarla ayrılmış bir ad veya diğer kelimeler dizisinden oluşur.
+
+noktalı dörtlü
+Bir İnternet adresini oluşturan noktalarla birbirine bağlı dört sayı kümesi; örneğin, 147.31.254.130.
+
+e-posta
+Elektronik posta için kullanılan yerel kısaltma.
+
+e-posta adresi
+Kullanıcının yönlendirildiği UUCP veya alan adı tabanlı adres. Örneğin, yazarın adresi brendan@cs.widener.edu'dur.
+
+ethernet
+Başlangıçta Xerox Corporation tarafından geliştirilen saniyede 10 milyon bitlik bir ağ şeması. Ethernet, LAN'lar için yaygın olarak kullanılır çünkü
+çok çeşitli bilgisayarları ağa bağlayabilir, tescilli değildir ve
+bileşenleri birçok ticari kaynaktan yaygın olarak temin edilebilir.
+
+FDDI (Fiber Dağıtılmış Veri Arayüzü)
+ANSI tarafından oluşturulan, fiber optiğe dayalı ağ teknolojisi için ortaya çıkan bir standart. FDDI, saniyede 100 milyon bitlik bir veri hızı belirtir.
+Erişim kontrol mekanizması, token ring teknolojisini kullanır.
+
+flame
+Şiddetli bir şekilde tartışmacı olan bir posta parçası veya Usenet gönderisi.
+
+FQDN (Tam Nitelikli Alan Adı)
+FQDN, bir sistemin yalnızca ana bilgisayar adı değil, tam site adıdır. Örneğin, Widener Üniversitesi'ndeki lisa sisteminin lisa.cs.widener.edu şeklinde bir FQDN'si vardır.
+
+FTP (Dosya Aktarım Protokolü)
+Dosyaları bir bilgisayardan diğerine aktarmak için kullanılan
+İnternet standardı üst düzey protokol.
+
+FYI
+"Bilginize" ifadesinin kısaltması. Ayrıca, Ağ Bilgi Merkezi tarafından yayınlanan bir dizi RFC vardır
+FYI'ler; yeni kullanıcıların ortak sorularını ve diğer birçok yararlı şeyi ele alırlar. FYI'leri alma talimatları için RFC'ler.
+
+ağ geçidi
+İki veya daha fazla ağa bağlanan ve paketleri bir ağdan diğerine yönlendiren özel amaçlı özel bir bilgisayar.
+Özellikle, bir İnternet ağ geçidi, IP veri paketlerini bağlandığı ağlar arasında yönlendirir. Ağ geçitleri, paketleri doğrudan bir fiziksel ağ üzerinden nihai hedefe ulaştırılıncaya kadar diğer ağ geçitlerine yönlendirir.
+
+başlık
+Gerçek verilerden önce gelen, kaynak ve hedef adreslerini ve hata kontrol alanlarını içeren paketin bölümü. Ayrıca bir
+mesajın veya haber makalesinin bir parçası.
+
+hostname
+Bir makineye verilen ad. (Ayrıca bkz. FQDN.)
+
+IMHO (Benim Mütevazı Görüşüme Göre)
+Bu genellikle kişisel
+kırgınlık veya güçlü bir
+karşıtlığa yol açabilecek bir ifadeye eşlik eder.
+
+İnternet
+Birçok bireysel TCP/IP kampüs, eyalet, bölgesel ve
+ulusal ağın (NSFnet, ARPAnet ve Milnet gibi) tek bir mantıksal ağda bir araya getirilmesi, hepsi ortak bir adresleme şemasını paylaşıyor. İnternet numarası
+Belirli bir sistemi belirtmek için kullanılan noktalı dörtlü adres. cs.widener.edu sitesinin İnternet numarası 147.31.254.130'dur. Bir
+çözücü, ana bilgisayar adları ile İnternet
+adresleri arasında çeviri yapmak için kullanılır.
+
+birlikte çalışma
+Çok satıcılı bilgisayarların ortak bir protokol kümesi kullanarak birlikte çalışabilme yeteneği. Birlikte çalışabilirlik sayesinde, PC'ler, Mac'ler, Sun'lar, Dec VAXen,
+CDC Cyber'ler vb. birlikte çalışarak bir ana bilgisayarın diğeriyle iletişim kurmasını ve kaynaklarından yararlanmasını sağlar.
+
+ISO (Uluslararası Standardizasyon Örgütü)
+Bugün kullanılmaya başlanan ana ağ standartlarının koordinatörü.
+
+çekirdek
+Kullanıcıdan gizlenen sistem düzeyindeki komutları veya tüm işlevleri içeren bir işletim sistemi veya ağ sisteminin düzeyi.
+Bir Unix sisteminde çekirdek, aygıt sürücülerini,
+bellek yönetim rutinlerini, zamanlayıcıyı ve sistem çağrılarını içeren bir programdır. Bu
+program sistem çalışırken her zaman çalışır.
+
+LAN (Yerel Alan Ağı)
+Kısa mesafelerde (birkaç bin metreye kadar) yüksek hızda çalışan herhangi bir fiziksel ağ teknolojisi.
+
+posta ağ geçidi
+İki veya daha fazla elektronik posta sistemine bağlanan
+(özellikle iki farklı ağdaki farklı posta sistemleri) ve
+posta mesajlarını bunlar arasında aktaran bir makine.
+
+posta listesi
+Tartışmaya dahil olan kişilerin listesini tutan merkezi bir bilgisayardan e-posta yoluyla dağıtılan, muhtemelen denetlenen bir tartışma grubu.
+
+posta yolu
+Elektronik postayı bir kullanıcıdan diğerine yönlendirmek için kullanılan bir dizi makine adı.
+
+ortam
+Veri iletimini desteklemek için kullanılan malzeme. Bu,
+bakır tel, koaksiyel kablo, optik fiber veya elektromanyetik dalga (mikrodalga gibi) olabilir.
+
+multipleks
+Tek bir iletim ortamının, birçok eşzamanlı oturumu destekleyen birden fazla mantıksal
+kanala bölünmesi. Örneğin, bir
+ağda aynı anda giden FTP, telnet, rlogin ve SMTP
+bağlantıları olabilir.
+
+net.citizen
+Siberuzay sakini. Genellikle iyi bir
+net.citizen olmaya çalışılır, aksi takdirde birileri alevlenir.
+
+netiquette
+"Etiket" üzerine bir kelime oyunu; İnternette uygun davranış. Usenet Netiquette.
+
+network
+Birbirlerine bilgi iletebilmek için birbirine bağlanmış bir grup makine. İki tür ağ vardır: yerel ağlar ve
+uzak ağlar.
+
+NFS (Ağ Dosya Sistemi)
+Sun Microsystems tarafından geliştirilen, bilgisayarların dosyaları bir ağ üzerinden paylaşmasına olanak tanıyan bir yöntem, böylece
+sistem için "yerel" gibi görünürler.
+
+NIC
+Ağ Bilgi Merkezi.
+
+node
+Bir ağa bağlı bilgisayar; ana bilgisayar olarak da adlandırılır.
+
+NSFnet
+Ulusal Bilim Vakfı tarafından finanse edilen ve Merit Corporation tarafından işletilen ulusal omurga ağı, WestNet gibi bölgesel (orta düzey) ağları birbirine bağlamak için kullanılır.
+
+paket
+Bir paket anahtarlama ağı üzerinden gönderilen veri birimi. Terim
+gevşek bir şekilde kullanılır. Bazı İnternet literatürü bunu özellikle fiziksel bir ağ üzerinden gönderilen
+verilere atıfta bulunmak için kullanırken, diğer literatür
+İnternet'i bir paket anahtarlama ağı olarak görür ve IP
+datagramlarını paketler olarak tanımlar.
+
+yoklama
+Posta veya haber gibi şeyleri kontrol etmek için başka bir sisteme bağlanma.
+
+posta yöneticisi
+Bir sitede posta sorunlarıyla ilgilenmekten, kullanıcılarla ilgili soruları yanıtlamaktan ve diğer ilgili işlerden sorumlu kişi.
+
+protokoller
+İki bilgisayarın bu mesajları değiş tokuş etmek için uyması gereken kuralların ve ileti biçimlerinin resmi açıklaması. Protokoller, makineden makineye arayüzlerin düşük seviyeli ayrıntılarını (örneğin, bitlerin ve baytların bir kablo üzerinden gönderilme sırası) veya tahsis programları arasındaki yüksek seviyeli değişimleri (örneğin, iki programın bir dosyayı İnternet üzerinden aktarma şekli) tanımlayabilir.
+
+yineleme
+Bir programlama dilinin kendi içinden fonksiyonları çağırabilme kolaylığı.
+
+çözüm
+Bir İnternet adını eşdeğer IP adresine veya diğer DNS
+bilgilerine çevirme. RFD (Tartışma Talebi)
+Genellikle haber grubu oluşturma ayrıntılarının tartışıldığı iki ila üç haftalık bir dönemdir.
+
+Rota
+Ağ trafiğinin kaynağından hedefine kadar izlediği yol.
+
+Yönlendirici
+Ağın mevcut durumuna dikkat ederek paketleri bir yerden diğerine gönderen özel bir bilgisayar (veya başka bir cihaz).
+
+RTFM (The Fantastic Manual'ı Oku).
+Bu kısaltma genellikle birisi basit veya genel bir soru sorduğunda kullanılır. `Fantastic' kelimesi genellikle çok daha kaba bir kelimeyle değiştirilir.
+
+SMTP (Basit Posta Aktarım Protokolü)
+Elektronik posta mesajlarını bir bilgisayardan diğerine aktarmak için kullanılan İnternet standart protokolü. SMTP, iki posta sisteminin nasıl etkileşime girdiğini ve postayı aktarmak için değiş tokuş ettikleri kontrol mesajlarının biçimini belirtir.
+
+Sunucu
+Yazıcılar ve dosyalar gibi kaynaklarını ağdaki diğer bilgisayarlarla paylaşan bir bilgisayar. Bunun bir örneği, disk alanını diğer bilgisayarlarla paylaşan bir Ağ Dosya Sistemi (NFS) sunucusudur.
+
+sinyal-gürültü oranı
+Usenet etkinliğine atıfta bulunulduğunda, sinyal-gürültü
+oranı, bir tartışmadaki gerçek bilgi miktarı ile miktarları arasındaki ilişkiyi tanımlar. Çoğu zaman, bir haber grubunda önemli bir etkinlik olur, ancak bu makalelerin çok azı gerçekten yararlı bir şey içerir.
+
+imza
+Bir e-postanın veya bir Usenet makalesinin altındaki küçük, genellikle dört satırlık mesaj.
+Unix'te, kullanıcının ana dizininde bir dosya
+...imza oluşturularak eklenir. Büyük imzalar
+hayır-hayırdır.
+
+özet
+Bir dizi yanıtı tek bir tutarlı, kullanılabilir
+mesajda kapsüllemek. Genellikle bant genişliğini azaltmaya yardımcı olmak için kontrollü posta listelerinde veya etkin haber gruplarında yapılır.
+
+senkron
+İletimlerin sabit bir hızda gönderildiği,
+gönderen ve alan cihazların senkronize edildiği veri iletişimleri.
+
+TCP/IP (İletim Kontrol Protokolü/İnternet Protokolü)
+ARPA çabalarının bir sonucu olarak İnternet tarafından uzaktan oturum açma (telnet), dosya aktarımı (FTP) ve posta (SMTP) gibi hizmetleri desteklemek için kullanılan bir protokol kümesi.
+
+telnet
+Uzak terminal bağlantı hizmeti için İnternet standart protokolü.
+Telnet, bir sitedeki kullanıcının, kullanıcının terminali doğrudan uzak bilgisayara bağlıymış gibi başka bir sitedeki uzak zaman paylaşım
+sistemi ile etkileşime girmesini sağlar.
+
+terminal sunucusu
+Birçok terminali tek bir ağ bağlantısıyla bir LAN'a bağlayan küçük, özel, ağa bağlı bir bilgisayar. Daha sonra ağdaki herhangi bir kullanıcı çeşitli ağ ana bilgisayarlarına bağlanabilir.
+
+TeX
+Donald Knuth tarafından yapılmış ücretsiz bir dizgi sistemi.
+
+bükülü çift
+Elektrik gürültüsünün etkilerini ortadan kaldırmak için birbirinin etrafına sarılmış bir çift yalıtılmış bakır telden oluşan kablo.
+
+UUCP (Unix'ten Unix'e Kopyalama Programı)
+Öncelikle Unix sistemleri için olan ancak şu anda diğer platformlarda (örneğin VMS ve kişisel bilgisayarlar) desteklenen bir depolama ve iletme sistemi.
+
+WAN (Geniş Alan Ağı)
+Yüzlerce veya binlerce mil uzunluğunda bir ağ.
+
+iş istasyonu
+Standart bir IBM PC veya Macintosh'tan daha fazla güce sahip ağa bağlı kişisel bilgisayar cihazı. Genellikle bir iş istasyonunun aynı anda birkaç görevi çalıştırabilen unix gibi bir işletim sistemi vardır.
+Birkaç megabayt belleğe ve büyük, yüksek çözünürlüklü bir ekrana sahiptir.
+Örnek olarak Sun iş istasyonları ve Dijital DEC istasyonları verilebilir.
+
+solucan
+Kendini çoğaltan bir bilgisayar programı. İnternet solucanı
+(İnternet Solucanı) belki de en ünlüsüydü; İnternet genelindeki sistemlerde
+başarılı bir şekilde (ve yanlışlıkla) kendini çoğalttı.
+
+wrt
+İlgili olarak.
+
+"Tanımlardan nefret ediyorum." Benjamin Disraeli
+Vivian Grey, bk i chap ii
+
+------
+Kaynakça
+
+Aşağıda, bu kılavuzu okuyan herkes için faydalı olacak
+bilgilere sahip kaynakların bir derlemesi yer almaktadır. Bunların çoğu
+kitapçığın yazımında kullanılmıştır, diğerleri ise sadece
+herhangi bir iyi net.citizen kitaplığında bulunması gereken bir şey oldukları için not edilmiştir.
+
+Kitaplar
+
+Comer, Douglas E.
+Internetworking With TCP/IP, 2. baskı , 2v
+Prentice Hall
+Englewood Cliffs, NJ
+1991
+
+Davidson, John
+TCP/IP'ye Giriş
+Springer-Verlag
+Berlin
+1988
+
+Frey, Donnalyn ve Adams, Rick
+!@%:: Elektronik Posta Adresleme ve Ağlar Rehberi
+O'Reilly ve Ortakları
+Newton, MA
+1989
+
+Gibson, William
+Neuromancer
+Ace
+New York, NY
+1984
+
+LaQuey, Tracy
+Bilgisayar Ağları Kullanıcı Rehberi
+Digital Press
+Bedford, MA
+1990
+
+Levy, Stephen
+Hackerlar: Bilgisayar Devriminin Kahramanları
+Anchor Press/Doubleday
+Garden City, NY
+1984
+
+Partridge, Craig
+İnternet Ağlarında Yenilikler
+ARTECH House
+Norwood, MA
+1988
+
+Quarterman, John S.
+The Matrix: Dünya Çapında Bilgisayar Ağları ve Konferans Sistemleri
+Digital Press
+Bedford, MA
+1989
+
+Raymond, Eric (ed)
+The New Hacker's Dictionary
+MIT Press
+Cambridge, MA
+1991
+
+Stoll, Clifford
+The Cuckoo's Egg
+Doubleday
+New York
+1989
+
+Tanenbaum, Andrew S.
+Computer Networks, 2. baskı
+Prentice-Hall
+Englewood Cliffs, NJ
+1988
+
+Todinao, Grace
+Using UUCP and USENET: A Nutshell Handbook
+O'Reilly and Associates
+Newton, MA
+1986
+
+The Waite Group
+Unix Communications, 2. baskı. Howard W. Sams & Company
+Indianapolis
+1991
+
+Dergiler ve Makaleler
+dergi: Barlow, J
+Ülkeye Giriş
+ACM İletişimleri 34:3
+2
+Mart 1991
+"Siber Uzay"ı Ele Alır---John Barlow, EFF'nin kurucu ortağıydı.
+
+tutanaklar: Collyer, G. ve Spencer, H
+Haberler Yavaş Olmak Zorunda Değil
+1987 Kış USENIX Konferansı Tutanakları
+181--90
+USENIX Derneği, Berkeley, CA
+Ocak 1987
+
+dergi: Denning, P
+İnternet Solucanı
+American Scientist
+126--128
+Mart--Nisan 1989
+
+dergi: Bilgisayar Bilimi: Bilgisayar Ağları
+American Scientist
+127--129
+Mart--Nisan 1985
+
+dergi: Frey, D. ve Adams, R
+USENET: Başarıyla Ölüm? UNIX İNCELEMESİ
+55--60
+Ağustos 1987
+
+dergi: Gifford, W. S
+ISDN Kullanıcı-Ağ Arayüzleri
+IEEE İletişimde Seçilmiş Alanlar Dergisi
+343--348
+Mayıs 1986
+
+dergi: Ginsberg, K
+Buradan Oraya Gitmek
+UNIX İNCELEMESİ
+45
+Ocak 1986
+
+dergi: Hiltz, S. R
+Bilgisayarlı Konferans Sistemlerinde İnsan Unsuru
+Bilgisayar Ağları
+421--428
+Aralık 1978
+
+tutanaklar: Horton, M
+Alan Nedir?
+Yaz 1984 USENIX Konferansı Tutanakları
+368--372
+USENIX Derneği, Berkeley, CA
+Haziran 1984
+
+dergi: Jacobsen, Ole J
+TCP/IP Hakkında Bilgi
+ConneXions---The Interoperability Report
+14--15
+Temmuz 1988
+
+dergi: Jennings, D., ve diğerleri
+Bilim İnsanları İçin Bilgisayar Ağları
+Science
+943--950
+28 Şubat 1986
+
+makale: Markoff, J
+"Bilgisayar `virüsü'nün yazarı, ABD'li elektronik güvenlik uzmanının oğludur."
+New York Times
+5 Kasım 1988
+A1
+
+makale: "Bilgisayar karmaşası: Aralık bir `arka kapı'."
+New York Times
+7 Kasım 1988
+B10
+
+dergi: McQuillan, J. M. ve Walden, D. C
+ARPA Ağ Tasarım Kararları
+Bilgisayar Ağları
+243--289
+1977
+
+dergi: Ornstein, S. M
+İnternet solucanıyla ilgili bir mektup
+ACM İletişimleri 32:6
+Haziran 1989
+
+tutanaklar: Partridge, C
+Alan Adlarını Kullanarak Posta Yönlendirme: Gayriresmi Bir Tur
+1986 Yaz USENIX Konferansı Tutanakları
+366--76
+USENIX Derneği, Berkeley, CA
+Haziran 1986
+
+dergi: Quarterman, J
+Etiket ve Etik
+ConneXions---İşler Arası Uyumluluk Raporu
+12--16
+Mart 1989
+
+dergi: Önemli Bilgisayar Ağları
+İletişimleri ACM 29:10
+Ekim 1986
+Bu, The Matrix'in öncülüydü.
+
+dergi: Raeder, A. W. ve Andrews, K. L
+İnternette Kütüphane Kataloglarını Arama: Bir Araştırma
+Veritabanı Araştırmacısı 6
+16--31
+Eylül 1990
+
+tutanaklar: Seeley, D
+Solucanın turu
+1989 Kış USENIX Konferansı Tutanakları
+287--304
+USENIX Derneği, Berkeley, CA
+Şubat 1989
+
+dergi: Shulman, G
+USENET Sorumluluk Sorunları Üzerine Yasal Araştırma
+;giriş: USENIX Derneği Bülteni
+11--17
+Aralık 1984
+
+dergi: Smith, K
+Her Yere E-Posta
+PC World
+220--223
+Mart 1988
+
+dergi: Stoll, C
+Kurnaz Hacker'ı Takip Etmek
+ACM İletişimleri 31:5
+14
+Mayıs 1988
+Bu makale The Guguk Kuşu Yumurtası.
+
+bildiriler: Taylor, D
+Postacı Her Zaman İki Kere Çalar: Çok Dağıtılmış Bir
+Ortamda Elektronik Posta
+1988 Kış USENIX Konferansı Bildirileri
+145--153
+USENIX Derneği, Berkeley, CA
+Aralık 1988
+
+dergi: U.S.Gen'l Accounting Ofc
+Bilgisayar Güvenliği: Virüs, İnternet Yönetiminin Geliştirilmesine Olan İhtiyacı Vurguluyor
+GAO/IMTEC-89-57,
+1989
+İnternet solucanını ele alıyor.
+
+"Ve diğer her şey edebiyattır."
+Paul Verlaine
+The Sun, New York
+1873--1890 yıllarında şehir editörü iken.
+
+--
+Bill Walther, Carleton Üniversitesi, Ottawa, Kanada
+
+Zen ve İnternet Sanatı Projesi Gutenberg E-Kitabının Sonu, 
+Brendan P. Kehoe
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ZEN AND THE ART OF THE INTERNET ***
+
+***** This file should be named 34.txt or 34.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/34/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
