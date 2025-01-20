@@ -37,6 +37,10 @@ Please support our project.
 
 ## Gelişmeler
 
+2025-01-19
+
+100 belgeyi aştık.
+
 2025-01-09
 
 12300 belgeyi aştık.
@@ -125,6 +129,10 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
  
 
 ## Developments
+
+2025-01-19
+
+We have exceeded 15000 documents.
 
 2025-01-09
 
