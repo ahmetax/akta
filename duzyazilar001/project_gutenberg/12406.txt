@@ -1,0 +1,921 @@
+*** START OF AKTAHEADER ***
+Başlık: Kepler (Kepler)
+Yazar: Walter W. Bryant
+Yayın Tarihi: May 21, 2004 [EBook #12406]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/12406
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Kepler, by Walter W. Bryant
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Kepler
+
+Author: Walter W. Bryant
+
+Release Date: May 21, 2004 [EBook #12406]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KEPLER ***
+
+*** START OF TURKISH PART ***
+Clare Boothby, Ben Beasley ve PG Distributed Proofreaders tarafından üretilmiştir
+
+[İllüstrasyon: KEPLER]
+
+İlerlemenin Öncüleri
+
+Bilim Adamları
+S. Chapman, M.A., D.Sc., F.R.S. tarafından düzenlenmiştir
+
+KEPLER
+
+WALTER W. BRYANT tarafından
+Greenwich Kraliyet Gözlemevi'nden
+
+1920
+
+İÇERİK.
+
+I. Kepler'den Önce Astronomi
+
+II. Kepler'in İlk Yaşamı
+
+III. Tycho Brahe
+
+IV. Kepler Tycho'ya Katılıyor
+
+V. Kepler Yasaları
+
+VI. Kapanış Yılları
+
+Ek I.--Tarih Listesi
+
+Ek II.--Bibliyografya
+
+Sözlük
+
+BÖLÜM I.
+
+KEPLER'DEN ÖNCE ASTRONOMİ.
+
+Kepler'in astronomiye getirdiği reformların önemini vurgulamak için, onun yıkmak zorunda kaldığı
+teorilerin tarihini kısaca özetlemek iyi olacaktır. Çok erken dönemlerde, Güneş ve Ay'ın yıldızlar arasında sürekli olarak yer değiştirdiği fark edilmiş olmalı. Gün, ay ve yıl, zamanın belirgin bölümleriydi ve tutulmaların tablolaştırılmasıyla daha uzun süreler önerildi. Tutulmaların tahmin edilebileceğini ilk keşfeden Keldani bilgelerine gösterilen saygıyı ve Mezopotamya filozoflarının yeni periyodik yasaların kanıtlarını nasıl hevesle aradıklarını hayal edebiliriz. Geziyormuş gibi görünen ve bu nedenle gezegen olarak adlandırılan bazı yıldızlar, bu spekülasyonlar için geniş bir alan sağladı. Keldaniler ve Babilliler arasında, giderek edinilen bilgi muhtemelen rahiplerle sınırlıydı ve esas olarak astrolojik tahmin veya dini törenlerin belirlenmesi için kullanılıyordu. Aralarında ve ayrıca Mısırlılar ve bilgilerini paylaşmaya gelen diğerleri arasında yaygın olan bu tür spekülasyonlar neredeyse tamamen mitolojiye adanmıştı ve takımyıldızlara hayali karasal kökenler atfediyordu ve ara sıra dünyanın uzayda nasıl desteklendiğine dair tartışmalar oluyordu. Yunanlılar da büyük ölçüde komşularından uyarlanmış ayrıntılı bir mitolojiye sahipti, ancak bununla yetinmediler ve gök cisimlerinin görünür hareketlerini geometrik yasalara indirgemek için ısrarlı girişimlerde bulundular. Pisagorcuların bazıları, hatta Pisagor'un kendisi, dünyanın bir küre olduğunu ve güneşin ve yıldızların görünürdeki günlük dönüşünün aslında dünyanın bir hareketinden kaynaklandığını savundu, ancak ilk başta dünyanın bu hareketinin bir eksen etrafında dönme hareketi olduğu düşünülmüyordu. Bu kavramlar ve ayrıca gezegenlerin genel olarak yıldızlara göre batıdan doğuya doğru hareket ettiği, Platon'un yazıları aracılığıyla daha geniş bir çevre tarafından biliniyordu. Platon'a ayrıca gökbilimcilere, gök cisimlerinin tüm hareketlerini tekdüze tanımlanmış dairelerle temsil etme zorluğu atfedilir; bu zorluk genellikle çok fazla miktarda boşa harcanan çabadan ve gerçek ilerlemenin yüzyıllarca ertelenmesinden sorumlu tutulur. Knidoslu Eudoksus, gezegenlerin dünyanın etrafındaki her görünür dönüşünde iki kez durduğunu ve bu "durağan noktalar" arasındaki daha kısa aralıkta ters yönde hareket ettiğini açıklamaya çalışırken, fenomenleri, her biri kendi hızıyla dönen ve kendi özel gezegenini kendi ekvatoru etrafında taşıyan, en dıştaki küre sabit yıldızları taşıyan eşmerkezli kürelerden oluşan bir sistemle oldukça iyi bir şekilde temsil edebileceğini buldu. Çeşitli kürelerin etrafında döndüğü eksenlerin de dairesel hareketlere sahip olması gerektiğini varsaymak gerekiyordu ve giderek artan sayıda küre ortaya çıktı; Aristoteles'in ihtiyaç duyduğu toplam sayı elli beşe ulaştı. Aristoteles'in Dünya'yı düz bir disk değil de küre olarak düşünmesi onun lehine sayılabilir, ancak Eudoxus'un matematiksel kürelerinin gerçek bir katı varlığa sahip olduğunu ve yalnızca meteorların, kayan yıldızların ve auroranın değil, aynı zamanda kuyruklu yıldızların ve Samanyolu'nun da atmosfere ait olduğunu düşünmüş gibi görünüyor. Bilime, bilinen tüm doğa bilimlerini bir araya getirip eleştirerek yaptığı gerçekten büyük hizmet, tartışmaların büyük kısmı fenomenlerin gerçekleri ve nedenleri yerine, fenomenleri tanımlamak için kullanılan kelimelerin tam anlamı üzerine olmasaydı daha da büyük olurdu.
+
+Samoslu Aristarkus, gezegenlerin Dünya etrafında değil Güneş etrafında döndüğünü öne süren ilk kişi gibi görünüyor, ancak bu fikir o kadar imkansız görünüyordu ki, özellikle Aristarkus'un kendisi bunu bir incelemeye dönüştürmediği için neredeyse hiç fark edilmedi.
+
+Bu sıralarda, Güneş ve Ay'ın daha doğru yerlerine duyulan ihtiyaç ve Mısır'ı yöneten Batlamyusluların cömertliği, İskenderiye'de düzenli gözlemler sağlamak için bir araya geldi, böylece Hipparchus sahneye çıktığında kullanabileceği önemli miktarda malzeme vardı. Keşifleri, astronomi biliminde büyük bir ilerlemeyi işaret ediyordu. Güneşin düzensiz hareketini fark etti ve bunu açıklamak için, tam olarak dünyanın etrafında değil, "eksantrik" adı verilen, bir miktar uzaktaki bir nokta etrafında düzgün bir şekilde döndüğünü varsaydı.[1] Dünyanın merkezini eksantrikle birleştiren çizgi, güneşin yörüngesinin apsislerinden geçer ve burada dünyadan uzaklığı en büyük ve en küçüktür. Aynı sonucu, güneşin küçük bir daire etrafında hareket ettiğini varsayarak da elde edebilirdi; bu dairenin merkezi dünyanın etrafında daha büyük bir daireyi tanımlardı; diğerini taşıyan bu daha büyük daireye "deferent" adı verilirdi: böylece güneşin gerçek hareketi bir episikldeydi. İki ifade yönteminden Hipparkos sonunda ikincisini tercih etti. Aynı işlemi aya uyguladı ancak yalnızca yeni ve dolunayda doğru olmasına güvenebileceğini gördü. Birinci ve üçüncü çeyrekteki düzensizliği haleflerinin araştırmasına bıraktı. Ayrıca, emrindeki gezegensel gözlemleri yetersiz buldu ve bu nedenle eksiksiz bir gezegensel teori oluşturma girişiminden vazgeçti. Güneş ve ayın hareketlerinin bazı unsurlarının daha iyi belirlenmesini sağladı ve İskenderiye gözlemlerinden, her yıl güneşin ilkbahar ekinoksunda ekvatoru geçerken bunu ekliptikte yaklaşık elli saniyelik bir yaydan daha erken bir noktada yaptığını ve böylece 150 yılda birkaç derecelik veya güneşin çapının dört katı kadar belirgin bir değişiklik meydana getirdiğini gösteren Ekinoksların Presesyonunu keşfetti. Ayrıca trigonometriyi de icat etti. Yıldız kataloğu, onu olası önceki benzer olayları araştırmaya ve ayrıca gelecekteki olayları kontrol etmeye hazırlayan yeni bir yıldızın ortaya çıkmasından kaynaklanıyordu. Hipparchus ile İskenderiyeli Batlamyus arasındaki 260 yıllık süre boyunca teorik astronomide hiçbir ilerleme kaydedilmedi. Batlamyus, dünyanın küresel biçimini kabul etti ancak dönüşünü
+veya başka bir hareketi reddetti. Güneş konusunda Hipparchus'tan daha fazla ilerleme kaydetmedi, ancak zamanın geçmesi, ikincisinin benimsediği elementlerin hatalarını büyük ölçüde artırmıştı. Ancak ay söz konusu olduğunda,
+Batlamyus, Hipparchus'un bazen ilk ve son çeyrekte fark ettiği değişken eşitsizliği
+izledi ve bu eşitsizlik, ay apoje veya perigedeyken ortadan kalktı. Buna eveksiyon adını verdi ve bunu temsil etmek için başka bir episikl
+tanı ortaya koydu. Gezegen teorisinde, benimsediği
+eksantrik tarafından verilen yerlerin uyuşmadığını, bir şekilde apojede ve diğer şekilde perigede olduğunu buldu; böylece mesafe merkezi dünyaya daha yakın olmalıydı. Mesafe merkezini dünyanın merkezi ile eksantrik arasında yarı yolda varsaymanın en iyisi olduğunu buldu, böylece "eksantrikliği ikiye böldü". Bu bile Merkür'ün durumuna uymuyordu ve genel olarak teori ile gözlem arasındaki uyum, tüm yörünge düzlemlerinin Güneş yerine Dünya'nın merkezinden geçmesi zorunluluğuyla bozuldu ve böylece iyi bir uyum pratik olarak imkansız hale geldi.
+
+[Dipnot 1: Bu ve diğer teknik terimler için Sözlüğe bakın. ]
+
+Ptolemy'nin zamanından sonra yüzyıllar boyunca herhangi bir
+yeni gezegen teorisinden çok az şey duyuldu, ancak bazı ayrıntılarda ilerlemeler kaydedildi, özellikle de daha iyi aletler kullanarak bazı elementler için gelişmiş
+değerler elde eden bazı Arap filozoflar tarafından. Zaman zaman
+Ptolemy'nin teorisinde çeşitli değişiklikler önerildi, ancak
+hiçbiri gerçek bir değere sahip değildi. İspanya'daki Mağribiler, Doğulu dindaşları tarafından yürütülen işin kendi paylarına düşen kısmını yaptılar ve Hipparchus'un zamanından bu yana ilk bağımsız
+yıldız kataloğu, on beşinci yüzyılda Semerkand'da güzel bir
+gözlemevi
+inşa eden başka bir Doğulu, Timurlenk'in torunu Uluğ Bey tarafından yapıldı. İspanya'da bu iş
+Mağribilerin tekelinde değildi, çünkü 13. yüzyılda
+Kastilyalı Alphonso, Yahudi ve Hristiyan bilgisayarların yardımıyla
+1252'de tamamladığı Alphonsine tablolarını derledi ve bu yıl
+X. Alphonso olarak tahta çıktı. Bunlar elyazmalarında uzun süre dolaşımda kaldı ve ilk olarak
+durgunluk döneminin sona ermesinden kısa bir süre önce, 1483'te basıldı.
+
+Kopernik 1473'te Polonya Prusyası'ndaki Thorn'da doğdu.
+Krakow'daki ve birkaç İtalyan üniversitesindeki çalışmaları sırasında,
+Ptolemaios astronomisi hakkında bilinen her şeyi öğrendi ve onu yeniden şekillendirmeye karar verdi.
+Anne tarafından amcası olan Ermland Piskoposu, ona Frauenburg Katedrali'nde
+laik bir kanonluk sağladıktan sonra, kendini Bilime adamak için boş zaman buldu. Antik Yunanlıların önerilerini gözden geçirirken, yıllık hareketin her gezegen ve güneş için ayrı bir yıllık episikl yerine dünyanın kendisine atfedilmesi fikrinin yeniden canlandırılmasıyla ortaya çıkacak basitleştirmeden etkilendi. Ptolemaios sisteminin son biçiminin gerektirdiği yetmiş küsur daire veya episiklden Kopernik, yarısından fazlasını ortadan kaldırmayı başardı, ancak yine de Aristoteles'ten önce varsayılan tam sayı olan otuz dördüne ihtiyaç duyuyordu. Düşünceleri neredeyse tamamen matematikseldi, fiziğe tek müdahalesi, dünyanın hareket etmesi durumunda gevşek nesnelerin uçup gideceği ve kulelerin yıkılacağı şeklindeki
+klişe itiraza karşı "hareket eden dünya"yı savunmaktı. Eski tekdüze dairesel hareket geleneğinden yeterince uzaklaşmadı. Batlamyus'un kesinlik çabaları, gördüğümüz gibi, tüm yörünge düzlemlerinin
+dünyadan geçmesinin varsayılan zorunluluğu tarafından engellendi ve Kopernik bu sorumluluğu
+güneşe aktarmış olsaydı daha iyi bir iş yapmış olurdu. Ancak eski fetişi feda etmeyecekti ve böylece dünyanın yörüngesi güneşe göre açıkça dairesel olmadığından, tüm gezegensel düzlemlerinin
+güneşten geçmek yerine dünyanın yörüngesinin merkezinden geçmesini sağladı ve böylece
+kendisini Batlamyus'la aynı şekilde ama aynı derecede
+olmayarak engelledi. Otuz dört dairesi veya episiklleri, dördü dünya için, üçü ay için, yedisi Merkür için (çok eksantrik yörüngesi nedeniyle) ve beşi diğer gezegenler içindi.
+
+Mevcut kabul görmüş sistemi Kopernik sistemi olarak adlandırmak biraz abartılıdır, çünkü bu aslında Kopernik'in ölümünden yarım yüzyıl sonra Kepler'e aittir, ancak Batlamyus sistemine gerçek bir alternatif sunma yönündeki başarılı girişimi için ikincisine çok fazla kredi verilmelidir, onunla uğraşmak yerine. Eski jeosantrik sistem bir kez sarsıldığında, Kopernik'in hala gelenek tarafından engellendiği için tam olarak ulaşamadığı güneş merkezli sistem için yol yavaş yavaş açıldı. Gözlemsel anlamda pratik bir astronom değildi. Aldebaran'ın örtülmesiyle ilgili ilk kayıtlı gözlemi 1497'de yapıldı ve elli kadar astronomik gözlem yaptığı bilinmiyor, ancak yaptığı ve kullandığı birkaç gözlemden en az biri yarım dereceden fazla hata içeriyordu ve bu da Hipparchus gibi bir gözlemci için tahammül edilemez olurdu. Kopernik aslında
+elindeki aletlerle doğru gözlemlerin
+elde edilmesinin imkansız olduğunu düşünmüş gibi görünüyor. Güneş ve ayın hareketlerinin yeterli doğrulukla bilinmediği gerekçesiyle, takvimin öngörülen reformu hakkında herhangi bir görüş bildirmeyi reddetti. Daha iyi verilerle çok daha fazla ilerleme kaydedebileceği olasıdır. Herhangi bir şeyi yayınlamak için acelesi yoktu, belki de olası muhalefet nedeniyle. Elbette, Kutsal Yazıların sözlü doğruluğuna olan inatçı inancıyla Luther, hareket eden bir dünya fikrini sadece bir delilik olarak reddetti ve Melanchthon bu tür görüşlerin yasaklanması gerektiğini düşündü, ancak Wittenberg Protestan Üniversitesi'nde profesör ve Kopernik'in hevesli bir öğrencisi olan Rheticus, yayınlanmasını istedi ve eserin basımını üstlendi. Ancak bunu tamamlayamadı ve emanet ettiği bir diğer Lutherci Osiander, muhalefeti etkisizleştirme niyetiyle bir önsöz yazdı ve burada ortaya konulan ilkelerin yalnızca hesaplama amaçları için uygun soyut hipotezler olduğunu belirtti. Bu yetkisiz ekleme, kitabın Roma Kilisesi tarafından yasaklanmasının ertelenmesinde payı olmuş olabilir. Kopernik'e göre dünya, diğerleri gibi yalnızca bir gezegendir ve hatta en büyüğü bile değildir; güneş ise sistemdeki en önemli cisimdir ve yıldızlar muhtemelen dünyanın herhangi bir hareketinin görünür yerlerini etkilemesi için çok uzaktadır. Dünya, yıldızların mesafesine kıyasla aslında çok küçüktür; bu, dünyanın herhangi bir yerindeki bir gözlemcinin evrenin ortasında görünmesi gerçeğiyle kanıtlanmıştır. Dünya'nın dönüşünün mevsimleri ve gezegenlerin durağan noktalarını ve geriye doğru hareketlerini açıklayacağını gösterir. Güneş'ten dışarı doğru gezegenlerin sırasını kesin olarak düzeltir, bu tartışmalı bir konudur. Dikkat çekici bir kusur, bir cismin ancak başka bir cisim veya bir nokta etrafında, sanki ona sıkıca bağlıymış gibi dönebileceği fikrinden kaynaklanır, böylece, Dünya'nın eksenini uzayda sabit bir yönde tutmak için üçüncü bir hareket icat etmek zorunda kalır. Dünya'nın ekseninin yavaş hareketine haklı olarak atfettiği presesyon tartışması, presesyonun değişken olduğu fikriyle gölgelenir. Kısmen kötü gözlemlere güvenmekten kaynaklanan tüm kusurlarına rağmen, çalışma gezegenlerin hareketlerinin yorumlanmasında büyük bir ilerleme gösterdi; ve hem
+dünya hem de yıldızlarla ilgili dönemlere ilişkin tespitleri, Wittenberg'deki Astronomi Profesörü Reinhold tarafından, on üçüncü yüzyılın eski Alphonsine Tabloları'nın yerini alacak olan yeni Pruten veya Prusya Tabloları için benimsendi.
+
+Dünyanın hareketi sorusuyla karşılaştırıldığında, o dönemin başka hiçbir astronomik ayrıntısı çok önemli görünmüyor. Zaman zaman ortaya çıkan kuyrukluyıldızlar, çıplak gözle gözlemlenebilecek kadar parlak olsalar da, hala atmosferik fenomenler olarak kabul ediliyorlardı ve tutulmalar ve gezegensel kavuşumlar gibi, onların temel ilgi alanları astrolojiyle ilgiliydi. Ancak, reformun havada olduğu açıktı. Kopernik'in doktrini, Lutherci liderlerin yanı sıra, çok yakında başkalarını da bölmeye mahkumdu. Soruşturma mayası çalışıyordu ve Kopernik'in ölümünden kısa bir süre sonra gerçek ilerlemeler geldi, ilk olarak gözlemlerin doğruluğunda ve bunların zorunlu bir sonucu olarak gezegen teorisinin kendisinde.
+
+BÖLÜM II.
+
+KEPLER'İN İLK YILLARI.
+
+21 Aralık 1571'de, Würtemberg Dükalığı'ndaki Weil'de, zayıf ve hasta yedi aylık bir çocuk doğdu ve anne babası Henry ve Catherine Kepler ona John adını verdi. Henry Kepler, hüküm süren Dük'ün hizmetinde bir astsubaydı ve 1576'da Hollanda'da görev yapan orduya katıldı. Karısı onu takip etti ve küçük oğlunu büyükbabasının bakımına Leonberg'de bıraktı ve burada ciddi bir çiçek hastalığı
+ataklarından zar zor kurtuldu. John, o zamanın yaygın uygulamasına uygun olarak
+Latinceleştirilmiş Leonmontanus adını buradan türetti, ancak bu adla pek tanınmıyordu. 1577'de okula gönderildi, ancak ertesi yıl babası, kefil olduğu bir tanıdığının kaçmasıyla neredeyse mahvolmuş bir halde Almanya'ya döndü. Henry Kepler, evini ve eşyalarının çoğunu satmak ve Elmendingen'de bir meyhane işletmek zorunda kaldı, oğlunu okuldan alarak kaba işlerde ona yardım etti. 1583'te genç Kepler, Elmendingen'deki okula gönderildi ve 1584'te şiddetli bir hastalıktan dolayı ölümden kıl payı kurtuldu. 1586'da Dük'ün sorumluluğuyla Maulbronn manastır okuluna gönderildi; oradan,
+okul yönetmeliklerine uygun olarak, ilk yılının sonunda Tübingen'deki lisans derecesi sınavını geçti,
+Tübingen'e yerleşik öğrenci olarak kabul edilmeden önce Maulbronn'a iki yıl daha "kıdemli" olarak döndü. Maulbronn'da geçirdiği bu üç yıl, çocukluğunda geçirdiği hastalıkların birçoğunun tekrarlaması ve ayrıca evindeki ailevi sorunlarla damgalandı. Babası, karısı Catherine ile kavga ettikten sonra gitti ve
+yurt dışında öldü. Çok sevimsiz bir mizaca sahip olduğu anlaşılan Catherine'in kendisi de daha sonra kendi akrabalarıyla kavga etti. Bu nedenle, Kepler'in Ağustos 1591'de M.A. derecesini aldıktan sonra sınav listelerinde ikinci olarak, evden ayrılmayı gerektirse bile, kendisine teklif edilen ilk görevi kabul etmeye hazır olması
+şaşırtıcı değildir. Bu, Steiermark'ın ana şehri olan Gratz'daki astronomi öğretim üyeliğiydi. Kepler'in astronomi bilgisi zorunlu okul dersleriyle sınırlıydı ve henüz bilime karşı özel bir eğilimi yoktu; üstelik bu görev yetersiz ve önemsizdi. Öte yandan, arkadaşlarının birbiri ardına Dük'ün eğitim planı kapsamında kendileri için ayarlanmış olan "yabancı" atamaları reddetmelerinden sık sık iğrendiğini dile getirmişti. Öğretmenleri de onu öğretim üyeliğini kabul etmeye şiddetle teşvik ettiler ve evden ayrılma konusunda her zamanki isteksizliğini göstermedi. Bu nedenle, daha umut verici bir fırsat ortaya çıktığında, iddiasını kaybetmediğini söyleyerek Gratz'a gitti. Astronomi öğretmeni Maestlin, kendisini yeni benimsediği bilime adaması için teşvik etti ve bu tavsiyenin ilk sonucu çok geçmeden Kepler'in "Mysterium Cosmographicum" adlı eserinde ortaya çıktı. Zihninin eğilimi, Scaliger'in "Eksoterik Egzersizleri" üzerine gençliğinde yaptığı çalışmalarda ilgi duyduğu felsefi spekülasyona yönelikti. "Cennetin, ruhların, cinlerin, elementlerin, ateşin özünün, çeşmelerin nedeninin, gelgitlerin gelgitlerinin, kıtaların ve iç denizlerin şeklinin ve bu tür şeylerin" incelenmesine çok zaman ayırdığını söylüyor. Öğretmeninin Kopernik teorisine olan hayranlığını izleyerek, birincil hareket üzerine bir deneme yazdı ve bunu Kopernik'in öne sürdüğü matematiksel sebeplerden değil, kendisinin de söylediği gibi fiziksel veya metafizik sebeplerden dolayı dünyanın dönüşüne bağladı. 1595'te derslerden daha fazla boş zaman bulduğunda, spekülatif zihnini gezegen yörüngelerinin sayısına, boyutuna ve hareketine yöneltti. Önce basit sayısal ilişkileri denedi, ancak bunların hiçbiri diğerinden iki, üç veya dört kat daha büyük görünmüyordu, yine de hareketler ve mesafeler arasında bir ilişki olduğuna ikna olmuştu, çünkü bir seride bir boşluk belirdiğinde, diğerinde de buna karşılık gelen bir boşluk vardı. Bu boşlukları Mars ve Jüpiter ile Merkür ve Venüs arasındaki varsayımsal gezegenlerle doldurmaya çalıştı, ancak bu yöntem aradığı düzenli oranı sağlamada başarısız oldu, ayrıca aynı ilkeye göre serinin her iki ucunda da eşit derecede görünmez çok daha fazla gezegen olabileceği itirazına açıktı. Yine de Rheticus'un altı sayısının kutsal olduğu görüşünü benimsemeye isteksizdi, sayının "kutsallığının" dünyaların yaratılışından çok daha yakın bir tarihe ait olduğunu ve bu nedenle bunu açıklayamayacağını savundu. Daha sonra, bir dairenin kadranının farklı noktalarından gelen dikmeleri, ucundaki bir teğet üzerinde karşılaştırarak yaratıcı bir fikir denedi. Bunlardan en büyüğü olan teğet, kadran tarafından kesilmediği için, güneş çizgisi adını verdi ve sonsuz kuvvetle ilişkilendirdi. En kısası, kadranın diğer ucundaki nokta olduğu için sabit yıldızlara veya sıfır kuvvete karşılık geliyordu; ara olanlar altı gezegenin "kuvvetlerine" orantılı olarak bulunacaktı. Neredeyse bütün bir yaz süren
+bir sürü tamamlanmamış deneme hesaplamasından sonra, başarının bu şekilde olmadığına kendini ikna etti. Temmuz 1595'te, büyük gezegensel kavuşumlar üzerine ders verirken, dairesel bir zodyakta yarı üçgenler çizdi ve bu kavuşum noktalarının 240 dereceden biraz daha fazla aralıklarla veya sekiz işaretle yavaş ilerlemesini gösterdi. Ardışık akorlar, teğet oldukları daha küçük bir çemberi işaretliyordu, çizildiği haliyle zodyak çemberinin çapının yaklaşık yarısıydı ve Kepler hemen Satürn ve Jüpiter'in yörüngelerine benzer olduğunu gördü, bir eşkenar üçgenin iç teğet çemberinin yarıçapı, çevrelenmiş çemberin yarıçapının yarısıydı. Doğal fikir dizisi onu, Jüpiter ve Mars'ın yörüngeleri için benzer bir "benzerlik" sağlayabileceği umuduyla bir kare denemeye yöneltti. Daha sonra bir beşgen denedi
+ve benzeri, ancak kısa süre sonra bu şekilde asla güneşe ulaşamayacağını fark etti
+ve altı gibi bir sınırlama da bulamayacağını, "olası" sayısının açıkça sonsuz olduğunu fark etti. Ayrıca gerçek gezegenler altı bile değildi
+sadece bildiği kadarıyla beşti, bu yüzden daha sonra bunların sadece beş farklı şeklinin mümkün olduğu
+ne tür şeyler olabileceği sorusunu düşündü ve aniden beş düzenli katıyı düşündü.[2] Hemen bu fikre atladı ve sonunda şu şemayı geliştirdi. "Dünya küredir, her şeyin ölçüsüdür; etrafına
+bir on iki yüzlü çizin; bunu da içeren küre Mars olacaktır. Mars'ın etrafına
+bir tetrahedron çizin; bunu da içeren küre Jüpiter olacaktır.
+Jüpiter'in etrafına bir küp çizin; bunu da içeren küre Satürn olacaktır.
+Şimdi, dünyaya bir ikosahedron çizin, içine çizilen küre
+Venüs olacaktır: Venüs'e bir oktahedron çizin: içine çizilen daire
+Merkür olacaktır." Kepler bu sonuçtan aşırı derecede memnun oldu ve
+bize bu "Mysterium Cosmographicum"un bilinen gezegenlere daha yakın zamanda eklenenler olmasa bile
+sadece işe yaramaz görünmesine rağmen, bunu elde etmek için harcanan zamandan bir an bile pişman olmadı. Güneş'ten birkaç gezegenin en büyük ve en küçük mesafelerini kapsayacak şekilde araya giren kürelere belirli bir kalınlık atanması gerektiğini kabul etti,
+ancak o zaman bile elde edilen sayıların bazıları karşılık gelen gezegen yörüngelerine pek uymuyor. Kepler'in uyumsuzluklar için önerdiği açıklama, bunların gezegensel mesafelerin hatalı ölçümlerinden kaynaklanması gerektiğiydi ve bu, o kaba ve seyrek gözlemlerin olduğu günlerde, kolayca çürütülemezdi. Daha sonra, beş düzenli katının neden tam olarak verilen sırayla ve başka hiçbir şekilde oluşmaması gerektiğine dair çeşitli nedenler düşündü ve bundan, zodyağın 360 dereceye bölünmesini açıklamak için incelikli ve pek de anlaşılır olmayan bir akıl yürütme sürecine saptı. Sonraki konu daha önemliydi ve gezegenlerin mesafeleri ile güneş etrafındaki dönüş süreleri arasındaki ilişkiyle ilgileniyordu. Periyodun mesafeyle basitçe orantılı olmadığı açıktı, çünkü dış gezegenler bunun için çok yavaştı ve "ya gezegenlerin hareket eden zekalarının güneşten en uzak olanlarda en zayıf olduğu ya da güneşte hareket eden tek bir zekanın, ortak merkezin, hepsini
+etrafta dönmeye zorladığı, ancak en yakın olanları en şiddetli şekilde zorladığı ve uzaklık ve erdemin zayıflaması nedeniyle en uzakta bir şekilde zayıfladığı ve zayıfladığı" sonucuna vardı. Bu, yerçekimi teorisine dair varsayılabileceği kadar yakın bir tahmin değil, çünkü Kepler gezegenlerin bazen güneşten daha uzak olmasını açıklamak için itici bir kuvvetin gerekli olduğunu düşündü ve böylece sabit bir çekici kuvvet fikrini bir kenara bıraktı. Gezegenlerin mesafelerini ve periyotlarını birbirine bağlayan bir yasa bulmak için birkaç girişimde daha bulundu, ancak o zamanlar başarılı olamadı ve ancak bilinçsizce bir daire içinde tartışarak iki tamamen farklı hipotezden aynı sonucu elde ettiği ortaya çıktığında vazgeçti. Kitabının kopyalarını birkaç önde gelen astronomlara gönderdi, Galileo onun yaratıcılığını ve iyi niyetini övdü, Tycho Brahe ise çalışmadan açıkça çok etkilendi ve ona Kopernik sistemi yerine Tychonic sisteme benzer bir şey uyarlamasını tavsiye etti. Ayrıca Uraniborg gözlemlerinin gezegen yörüngelerinin daha doğru belirlenmesini sağlayacağını ima etti ve böylece Kepler'i onu ziyaret etmeye heveslendirdi, göreceğimiz gibi bu proje fazlasıyla tamamlandı. Kitabın bir başka kopyası, Reymers'e, Reymers'in eserini çaldığını iddia eden Tycho'nun çok öfkelendiği, dolayısıyla Kepler'den uzun bir özür mektubu aldığı, İmparatorluk astronomu Reymers'e çok dolu bir mektup gönderdi. Aynı zamanlarda Kepler, iki kez dul kalmış bir hanımla evlendi ve akrabalarıyla mali sebeplerden ve o zamanlar patlak veren dini anlaşmazlıklarla bağlantılı olarak Steiermark yetkilileriyle zorluklara girdi. Bu sonuncular nedeniyle, evliliğinden sonraki yıl Macaristan'a çekilmeyi uygun gördü ve oradan Tuebingen'e kısa incelemeler gönderdi, "Mıknatıs Üzerine" (Colchester'lı Gilbert'in fikirlerini takip ederek), "Ekliptik eğriliğinin nedeni Üzerine" ve "Yaratılışta gösterilen İlahi bilgelik Üzerine". Bir sonraki önemli adımı, Tycho Brahe'nin kısa bir bildirisine bir bölüm ayırmayı arzu edilir hale getiriyor. [Dipnot 2: Düzenli bir katının bir köşesindeki düzlem açılarının toplamı dört dik açıdan az olması gerektiğinden, birkaç düzenli katının mümkün olduğu kolayca görülebilir. Altıgen yüzler açıkça imkansızdır veya
+beşten fazla kenarı olan çokgen yüzler. Olası biçimler şunlardır:
+on iki beşgen yüze sahip dodekahedron, her köşede üçü birleşir; küp, altı kare yüze sahip, her köşede üçü birleşir; ve
+üçgen yüze sahip üç şekil, dört yüze sahip tetrahedron, her köşede üçü birleşir; sekiz yüze sahip oktahedron, her köşede dörtü birleşir; ve yirmi yüze sahip ikosahedron, her köşede beşi birleşir.]
+
+BÖLÜM III.
+
+TYCHO BRAHE.
+
+Kopernik'in çağını izleyen çağ, o zamanlar Profesör Forbes'un çok yerinde bir şekilde geometrik dönem olarak adlandırdığı dönemin sonuna ulaşan
+astronomi bilimiyle ilişkili üç olağanüstü figür üretti. Bu üç kişi Sir David Brewster tarafından "Bilim Şehitleri" olarak adlandırılmıştır; büyük İtalyan filozof Galileo'nun "Bilim Öncüleri" arasında kendi yeri vardır; ve Tycho Brahe'nin çalışmaları paha biçilmez olsa da, ikincisinin diğer ikisiyle aynı anlamda bir öncü olduğu iddia edilemez. Bununla birlikte, üçlünün üçüncü üyesi Kepler, Tycho'nun gözlemleri olmadan en değerli keşiflerini yapamazdı. Soylu bir aileden gelen, 14 Aralık 1546'da Scania'daki Knudstrup'ta (o zamanlar Danimarka krallığının bir parçası olan İsveç'in en güney kısmı) ikiz olarak doğan Tycho, bir yıl sonra çocuksuz bir amcası tarafından kaçırıldı. Bu amca onu kendi oğlu gibi yetiştirdi, yedi yaşındayken ona bir öğretmen verdi ve 1559'da onu Kopenhag Üniversitesi'ne, retorik ve felsefe dersleri alarak siyasi bir kariyer için eğitim alması için gönderdi. Ancak 21 Ağustos 1560'ta Portekiz'de tam ve dolayısıyla Danimarka'da küçük oranlarda bir güneş tutulması gerçekleşti ve Tycho'nun yoğun ilgisi, olaydan çok, tahmin edildiği gibi gerçekleşmiş olması gerçeğiyle uyandı. Kısa bir süre sonra, Kopenhag'daki üç yıllık eğitiminin geri kalan kısmının çoğunu adadığı astronomi ve matematiğe ilişkin konuları okumak için Batlamyus'un bir baskısını satın aldı. Amcası daha sonra onu hukuk okuması için Leipzig'e gönderdi, ancak astronomik araştırmalarına devam etmeyi başardı. Alphonsine ve yeni Prutenik
+Tablolar'ı elde etti, ancak kısa süre sonra ikincisinin, birincisinden daha doğru olmasına rağmen, gezegenlerin gerçek konumlarını temsil etmediğini keşfetti ve gerçek hareketleri belirlemek için sürekli gözlemin gerekli olduğunu kavradı. Ağustos 1563'te Jüpiter ve Satürn'ün birleşmesini gözlemleyerek başladı ve Prutenik Tablolar'ın birkaç gün, Alphonsine'in ise bir ay hatalı olduğunu gördü. Kendine yıldızlar veya diğer nesneler arasındaki açısal mesafeyi belirlemek için bir çapraz asa sağladı ve ölçeğin bölümlerini yanlış bularak bir düzeltme tablosu oluşturdu, bu da kesin bir yenilik gibi görünen bir iyileştirmeydi, önceki uygulama en iyi mevcut aleti kullanmak ve hatalarını görmezden gelmekti. Yaklaşık olarak bu sıralarda Danimarka ve İsveç arasında savaş çıktı ve Tycho, kralın maiyetine bağlı olan amcasının yanına döndü. Amcası ertesi ay öldü ve Tycho ertesi yılın başlarında tekrar yurtdışına gitti, bu sefer Wittenberg'e. Ancak beş ay sonra bir veba salgını onu uzaklaştırdı ve Rostock'a kaydoldu, burada çok az astronomi ama epeyce astroloji buldu. Orada karanlıkta bir düello yaptı ve burnunun bir kısmını kaybetti, yerine altın ve gümüşten oluşan bir bileşim koydu. Düzenli gözlemlerini çapraz personeliyle sürdürdü ve vatandaşlarının itirazlarına ve sempati eksikliğine rağmen astronomik çalışmalarına devam etti.
+Ancak, bilimin değerine dair daha yüksek bir görüşe sahip olan Danimarka Kralı, Tycho'ya Roskilde katedral bölümünde boşalacak ilk kanonluğu vaat etti.
+Böylece maddi olarak verimsiz bir işe kendini adarken bir gelir elde etmesini garanti altına alabilirdi. 1568'de Tycho, Rostock'tan ayrıldı ve Basel'e kaydoldu, ancak kısa süre sonra Augsburg'a geçti.
+Burada astronomiye daha fazla ilgi duydu ve yeni arkadaşlarından birini ağır meşe kirişlerden oluşan 19 fitlik büyük bir kadranın inşasını emretmeye ikna etti. Bu, Tycho'nun adıyla ilişkilendirilen büyük aletler serisinin ilkiydi ve beş yıl boyunca kullanımda kaldı,
+1574'te büyük bir fırtınada yok oldu. Bu arada Tycho 1570'te Augsburg'dan ayrıldı ve babasının, o sırada Helsingborg Kalesi valisi olan babasının yanına, babasının ertesi yıl ölümüne kadar geri döndü.
+Tycho daha sonra annesinin kardeşi Steen Bille'e katıldı, akrabaları arasında bilimsel bir kariyer arzusuna sempati gösteren tek kişiydi.
+
+11 Kasım 1572'de Tycho, Cassiopeia takımyıldızında alışılmadık parlak bir yıldız fark etti ve onu bir sekstantla gözlemlemeye devam etti.
+Bu, Kasım ayının geri kalanında en parlak halindeki Venüs'e eşit, dört ay boyunca ilk kadirin altına düşmeyen ve sonrasında bir yıldan fazla süre görünür kalan çok parlak bir nesneydi. Tycho, yeni yıldız hakkında küçük bir kitap yazdı ve bunun neredeyse hiç paralaksı olmadığını ve bu nedenle bazılarının varsaydığı gibi bir kuyruklu yıldız olamayacağını savundu. Yazarlığı asil bir kişinin onuruna yakıştıramadığı için yayınlamaktan çok çekiniyordu, ancak gözlemlerin sayısını ve doğruluğunu artırmanın önemine ikna olmuştu, ancak zamanının tüm hatalı fikirlerinden
+hiçbir şekilde arınmış değildi. Küçük kitapta belli bir miktar astroloji vardı, ancak Tycho bunu çok büyük bir öneme sahip olarak görmüyordu. Yeni bir yıldız fenomeninin çok nadir olmasının, onun önemini belirlemek için kesin kuralların formüle edilmesini ve benimsenmesini engellemesi gerektiği görüşünü benimsedi. Kopenhag Üniversitesi'nde vermeye ikna edildiği derslerden, gezegensel kavuşumların ve bu tür fenomenlerin insan olaylarının seyri üzerindeki etkisine ilişkin astrolojinin kabul görmüş kurallarıyla hemfikir olmasına rağmen, herhangi birinin burçlarının öngördüğü kaderin kaçınılmaz olduğunu düşünmediğini, ancak astrolojinin büyük değerinin, inananın tehdit edici felaketlerden kaçınmasını sağlayacak bu tür hesaplamalardan türetilen uyarılarda yattığını düşündüğünü anlıyoruz. 1575'te Danimarka'dan bir kez daha ayrıldı ve Cassel'e doğru yola çıktı ve orada, astronomik uğraşları 1567'de Hesse hükümetine katılmasıyla kesintiye uğrayan çalışkan Landgrave, Hesse'li IV. William'da kendisine benzer bir ruh buldu. Tycho bir süre onunla birlikte gözlem yaptı, ikisi sıkı bir dostluk kurdu ve ardından sırasıyla Frankfurt, Basel ve Venedik'i ziyaret etti, Augsburg, Ratisbon ve Saalfeld üzerinden Wittenberg'e döndü; Yolda çeşitli astronomik el yazmaları edindi,
+pratik astronomlar arasında arkadaşlar edindi ve yeni aletler inceledi.
+Görünüşe göre ziyaret ettiği çeşitli yerlerin avantajlarını düşünmüş ve Basel'e karar vermiş, ancak ailesini Basel'e nakletmek amacıyla Danimarka'ya döndüğünde, arkadaşı Landgrave'in onun adına Kral Frederick'e mektup yazdığını,
+Tycho'nun astronomik çalışmalarını sürdürebilmesi için gerekli araçları sağlaması için onu teşvik ettiğini, yalnızca kral ve Danimarka için değil, bilimin kendisi için de büyük ilerlemeler kaydedileceğini vaat ettiğini gördü.
+Bu mektubun nihai sonucu, çeşitli
+teklifleri reddettikten sonra Tycho'nun kraldan, Sound'daki küçük Hveen adasını, hazineden büyük bir meblağın yanı sıra, saray hayatının dikkat dağıtıcı unsurlarından uzak bir yerde, adada bir gözlemevi inşa etmek için garantili bir gelirle birlikte hibe olarak kabul etmesiydi. Tycho burada Uraniborg'daki ünlü gözlemevini inşa etti ve Aralık 1576'da gözlemlere başladı, o zamanlar teleskopun icadıyla büyük ölçüde kolaylaştırılacak olan gözlem doğruluğuna ulaşmak için gerekli görülen büyük aletleri kullandı. Burada ayrıca öğrencilerinin bağımsız olarak gözlem yapabilmeleri için birkaç küçük gözlem odası inşa etti. Yirmi yıldan fazla bir süre boyunca Uraniborg'daki gözlemlerine ailesiyle birlikte devam etti ve çok sayıda öğrenci çekti. Sürekli amacı yüksek doğrulukta büyük bir gözlem deposu biriktirmek ve böylece astronominin tam reformu için veri sağlamaktı. Gördüğümüz gibi, Danimarkalı soyluların çok azı Tycho'nun uğraşlarına sempati duyuyordu ve çoğu Kral'ın hazinesinin sürekli olarak karşıladığı masraftan şiddetle rahatsızdı. Tycho ayrıca bilimsel uğraşlarına o kadar dalmıştı ki
+iyi bir ev sahibi olma zahmetine girmiyordu, ne de gelir hibelerinin bir kısmı karşılığında kendisine verilen tüm görevleri yerine getirmek istiyordu.
+Yaptığı binalar arasında bir kimya laboratuvarı da vardı ve çeşitli tıbbi amaçlar için iksirler yapma alışkanlığı vardı; bunlar oldukça popülerdi, özellikle de bunlar için hiçbir ücret talep etmediği için. Bir tür homeopatist gibi görünüyor, çünkü "Aurora Borealis'in kükürtlü buharlarının neden olduğu" bulaşıcı hastalıkları tedavi etmek için kükürt öneriyor!
+
+Kral Frederick, Tycho'ya yaptığı çeşitli bağışları göz önünde bulundurarak, bilimsel konularda ve özellikle astrolojik hesaplamalarda onun yardımına güvendi; örneğin, 1577'de doğan veliaht Prens Christian'ın burçları, Tycho'nun yazıları arasında
+korunmuştur. Ancak, Kral için hazırladığı tahminler içeren yıllık almanaklardan herhangi birinin bilinen bir kopyası
+yoktur. Kasım 1577'de, Tycho'nun sekstantıyla dikkatlice gözlemlediği parlak bir kuyruklu yıldız belirdi ve bunun algılanabilir bir paralaksı olmadığını
+ve bu nedenle aydan daha uzakta olması gerektiğini kanıtladı. Böylece, kuyruklu yıldızların atmosferik kökenine dair yaygın inancı kesin olarak
+çökertti; bu inancı
+kendisi de bugüne kadar paylaşmıştı. Giderek artan bir doğrulukla, 1585'te tam teçhizatlı bir alet ve geniş bir yardımcı kadrosuna sahip olduğu bir tanesi de dahil olmak üzere, birkaç kuyrukluyıldızı daha gözlemledi. Kraliyet hayırseverinin öldüğü 1588 yılında, Tycho'nun büyük eseri "Yeni Astronomiye Giriş"in bir cildi de yayımlandı. 1572'deki yeni yıldıza adanmış ilk cilt, gözlemlerin azaltılması, yıldız yerlerini kırılma, presesyon vb. açısından düzeltmek için çok fazla araştırma gerektirdiğinden
+hazır değildi; aslında Tycho'nun ölümüne kadar tamamlanmadı, ancak 1577'deki kuyrukluyıldızla ilgili ikinci cilt Uraniborg'da basıldı ve bazı kopyaları 1588'de yayımlandı.
+Kuyrukluyıldız gözlemlerinin yanı sıra Tycho'nun dünya sisteminin bir hesabını da içeriyordu. Kopernik sistemini kabul etmeyecekti, çünkü
+dünyanın hareket etmek için çok ağır ve yavaş olduğunu düşünüyordu ve ayrıca
+Kutsal Yazıların otoritesi böyle bir hipoteze karşıydı. Bu nedenle
+diğer gezegenlerin Güneş etrafında döndüğünü, Güneş, Ay ve yıldızların ise bir merkez olarak Dünya etrafında döndüğünü varsaydı. Geometrik olarak bu, Kopernik sistemiyle hemen hemen aynıdır, ancak fiziksel olarak tüm yıldız sisteminin her yirmi dört saatte bir önemsiz küçük Dünyamızın etrafında dönmesi gibi grotesk bir talebi içerir. Tycho, kuyruklu yıldızla ilgili önceki küçük kitabından bu yana, onun olası astrolojik önemini açıkça daha ayrıntılı olarak ele almıştı, çünkü bir dini savaşı önceden haber vermiş, başlangıç ​​tarihini ve ayrıca büyük bir Protestan şampiyonun yükselişini vermişti. Bu tahminler, görünüşe göre on altıncı yüzyılın sonlarına doğru patlak veren büyük dini savaşlar ve Gustavus Adolphus'un şahsında neredeyse harfiyen yerine getirilmişti.
+
+Kral Frederick'in ölümü ilk başta Tycho'nun konumunu etkilemedi, çünkü yeni kral Christian henüz on bir yaşındaydı ve birkaç yıl boyunca naipler kurulunda onun iki destekçisi vardı. Ancak onların ölümünden sonra, ekonomiklik bahanesiyle maaşları kesilmeye başlandı ve bilimsel görevler dışında başka hiçbir şey yapmak için çok az çaba sarf ettiği için düşmanlarının kusur bulması yeterince kolaydı. Birbiri ardına gelir kaynakları kesildi, ancak o, yıldızların bir kataloğu da dahil olmak üzere bilimsel çalışmalarına devam etti. 777 yıldızın bol miktarda iyi gözlemini elde etmişti, ancak kataloğunun 1000 yıldız içermesi gerektiğini düşündü, bu yüzden Hveen'den ayrılışına kadar aceleyle olabildiğince çok daha fazla yıldız gözlemledi, ancak o zaman bile programını tamamlamamıştı. Kral Christian on sekiz yaşına geldiğinde, Tycho yeni bir patron aramaya ve kendisini enstrümanları ve faaliyetleriyle birlikte İmparator II. Rudolph'un himayesine
+aktarmanın sunduğu olasılıkları değerlendirmeye başladı. 1597'de,
+Kraliyet hazinesinden aldığı emekli maaşı bile kesildiğinde, aceleyle
+enstrümanlarını ve kütüphanesini topladı ve Kopenhag'da birkaç haftalık bir konaklamadan sonra Mecklenburg'daki Rostock'a gitti ve oradan Kral Christian'a bir
+temyiz gönderdi. Bunu Hveen'den ayrılmadan önce yapmış olsaydı daha etkili olabilirdi, ancak kralın olumsuz cevabının tonundan, ayrılışının önceki eksikliklerin daha da kötüleşmesi olarak
+görüldüğü kolayca görülebilir. Veba nedeniyle Rostock'tan
+kovulan Tycho, geçici olarak Holstein'daki Wandsbeck'e yerleşti, ancak
+1598'in sonlarına doğru İmparator'la Prag'da buluşmak üzere yola çıktı. Bir kez daha veba araya girdi ve Dresden'de biraz zaman geçirdi, ardından kış için
+Wittenberg'e gitti. Sonunda Haziran 1599'da Prag'a ulaştı. Rudolph ona en az 3000 florin maaş verdi ve ayrıca Tac'a geçecek ilk miras mülkünü ona vermeyi vaat etti. Ayrıca, Tycho'nun Benatek'i seçtiği Prag dışındaki üç kale arasında bir seçim teklif etti. Orada, aletleri için hazır hale getirmek üzere binaları değiştirmeye koyuldu ve bunları Uraniborg'a gönderdi. Kendisine ulaşmadan önce, birçok can sıkıcı gecikmeden sonra, inşaat masrafları için söz verilen fonları beklemekten vazgeçti ve Benatek'ten Prag'a taşındı. Bu süre zarfında, Tycho ile yazışmış olan Kepler, önemli müzakerelerden sonra, ona asistan olarak katılmayı kabul etti.
+Uraniborg'da Tycho ile birlikte olan bir diğer asistan, Longomontanus, uzun Mars gözlemleri serisinde zorluk çekiyordu ve enerjilerini ay gözlemlerine aktarması ve Mars'ın enerjilerini Kepler'e bırakması kararlaştırıldı. Ancak, onlarla çok fazla şey yapılamadan önce Tycho, Ekim 1601'in sonunda öldü. Bohemya'nın hızla içine girdiği sıkıntıları göz önünde bulundurarak, huzurlu Hveen adasına pişman olmuş olabilir, ancak kendi kendine sürgüne gitmeseydi, gözlemlerinin Kepler'in eline geçmeyeceği ve büyük
+değerlerinin kaybolacağı konusunda çok az şüphe var. Her halükarda, Tycho Brahe'nin ününün dayandığı gözlemlerin kütlesi Uraniborg'da üretildi. Kendi keşifleri, kendi başlarına astronomide yüzyıllardır yapılan en önemli keşifler olsa da, gözlemlerinin materyal sağladığı keşiflerden çok daha az değerlidir. Ay'ın boylamdaki üçüncü ve dördüncü eşitsizliklerini, sırasıyla varyasyon ve yıllık denklem olarak adlandırılan, ayrıca ay düğümlerinin hareketinin değişkenliğini ve yörüngesinin ekliptiğe olan eğimini keşfetti. Presesyon sabitinin geliştirilmiş bir değerini elde etti ve değişken olduğu fikrini reddederek iyi bir hizmette bulundu, bu fikir, tedirginlik adı altında yüzyıllardır kabul edilmişti. Kırılmanın etkisini keşfetti, ancak sadece yaklaşık olarak miktarı kadardı ve birçok başka astronomik sabitin geliştirilmiş değerlerini belirledi, ancak tuhaf bir şekilde güneşin uzaklığını belirlemedi, bunun yerine Hipparchus tarafından verilen eski ve hatalı değeri benimsedi.
+
+Dünyanın bugüne kadar gördüğü astronomik amaçlar için en iyi bina olan muhteşem Uraniborg Gözlemevi'nin çürümesine izin verildi ve artık sitenin sadece basit belirtilerinden daha fazlası görülebiliyor.
+
+BÖLÜM IV.
+
+KEPLER TYCHO'YA KATILIYOR.
+
+Kepler'in Tycho ile ilişkisi astronomi tarihindeki en önemli dönüm noktalarından biriydi. Genç adam, Tycho'nun gezegen gözlemlerinin yardımıyla, hayal ürünü spekülatif teorilerinden bazılarını daha iyi destekleyebileceğini umuyordu; Danimarka'dan ayrılarak kesinlikle prestij kazanmamış olan ikinci adam ise yetenekli bir yardımcı kadrosuna çok ihtiyaç duyuyordu. İkisinden Tycho'nun kendisini daha çok kazanan olarak gördüğü neredeyse anlaşılıyordu, çünkü kabalık ve düşüncesizlik konusundaki ününe rağmen, sadece Kepler'in Reymers konusundaki özürünü hafife almakla kalmadı, aynı zamanda büyük kabalık ve nankörlük karşısında ona tekdüze bir nezaket gösterdi. Kepler, kendi astronomik güçleri konusunda çok hassas olmasına rağmen, onun sadece bir asistan olarak görülebileceğinden korktuğunu belirterek, "hoş karşılanan bir arkadaş" olarak gelmesini rica etti. Kepler'in, Prag'daki yaşam maliyetinin daha yüksek olması nedeniyle İmparator tarafından tamamlanması gereken, Gratz'dan tam maaşla iki yıl izin alması için bir düzenleme önerildi; ancak bu sonuçlanmadan önce Kepler, profesörlüğünden vazgeçti ve Prag'a gitme şansını da kaybettiğini düşünerek, Maestlin ve Tübingen'deki diğer arkadaşlarına, Würtemberg Dükü'ne faiz teklif etmeleri ve tıp profesörlüğü alması için başvurdu. Ancak Tycho, yine de onu Prag'a gelmeye zorladı ve ona kalıcı bir randevu sağlamak için elinden geleni yapacağına veya en azından gelerek kaybeden olmamasını sağlayacağına söz verdi. Kepler yolda hastalık nedeniyle gecikti, ancak sonunda Prag'a ulaştı,
+karısının eşliğinde ve bir süre tamamen Tycho'nun masrafıyla yaşadı, Reymers ve Tychonic sisteminin itibarını iddia eden başka bir adama karşı dönüş denemeleri yazdı. Bu Kepler'in
+temiz bir vicdana ihtiyacı vardı, çünkü bu sadece bir öncelik meselesiydi
+ve Kopernik'inkinden çok daha aşağı gördüğü sistemin hiçbir desteğini içermiyordu. Ertesi yıl iki astronom arasında sürtüşme yaşandı ve Kepler'in acınası özür mektubundan
+tamamen haksız olduğunu öğreniyoruz. Para meseleleriyle ilgiliydi, ki bu Kepler'in hayatının geri kalanını bir şekilde
+kötüleştirdi ve Prag'dan
+uzaklığında ortaya çıktı. Eylül 1601'de döndüğünde Tycho onu İmparator'a sundu ve İmparator ona, Tycho'ya hesaplamalarında yardımcı olması şartıyla İmparatorluk Matematikçisi ünvanını verdi; Kepler'in yapmasına izin verilmesini en çok istediği şey buydu: çünkü dünyanın başka hiçbir yerinde astronominin tüm teorisini yeniden şekillendirme amacına yetecek kadar iyi gözlem koleksiyonu yoktu. İmparator'un ilgisi hala esas olarak astrolojiyle ilgiliydi, ancak isminin, Kastilyalı Alphonso'nunki gibi, yeni Gezegen Tabloları ile bağlantılı olarak gelecek nesillere aktarılacağını düşünüyordu ve masrafları ödemek için cömertçe söz verdi. Tycho'nun diğer baş yardımcısı Longomontanus, Mars gözlemlerini Kepler'e bıraktıktan sonra uzun süre kalmadı, ancak yeni ay teorisi üzerinde çalışmak yerine aniden memleketi Danimarka'da astronomi profesörlüğü yapmak üzere ayrıldı. Çok kısa bir süre sonra Tycho'nun kendisi akut distemper'dan öldü; Kepler, el yazmalarının büyük kısmını yayın için hazırlamaya başladı, ancak Brahe ailesi her şeyi talep ettiği için, işi bitirmesine izin verilmedi. İmparatorun baş matematikçisi Tycho'nun görevini, İmparatorluk hazinesinin boş olması nedeniyle neredeyse her zaman gecikmiş olan resmi maaşı düşürülerek devraldı. Giderlerini karşılamak için doğum haritalarının dökümüne başvurdu, bu sayede önemli bir ün kazandı ve çok iyi bir ücret aldı. Astrolojinin geleneksel kurallarına göre çalıştı ve bunu yaparken ücret almaya oldukça hazırdı, ancak bunlara çok az inanıyordu, kendi hayali fikirlerini tercih ediyordu. 1604'te Cassiopeia takımyıldızı, bazıları tarafından Tycho'nun novasından daha parlak, diğerleri tarafından ise Jüpiter'den iki kat daha parlak olduğu söylenen yeni bir yıldızın ortaya çıkmasıyla bir kez daha geçici olarak zenginleştirildi. Kepler hemen bunun hakkında kısa bir açıklama yazdı, bundan onun astrolojiye karşı tutumu hakkında bir fikir edinilebilir. İki novayı karşılaştırarak şöyle diyor: "Şuradaki, görünümü için hiç de dikkate değer olmayan bir zamanı seçti ve
+tıpkı bir düşmanın bir kasabaya
+saldırması ve vatandaşlar onun yaklaştığını fark etmeden
+önce pazar yerine girmesi gibi beklenmedik bir şekilde dünyaya geldi; ancak bizimki tam olarak astrologların içinde gerçekleşen ateşli üçgen hakkında çok şey
+yazdığı yılda geldi; tam da (Cyprian'a göre) Mars'ın diğer iki üstün gezegenle çok
+mükemmel bir kavuşuma geldiği ayda; tam da Mars'ın Jüpiter'e katıldığı gün ve tam da bu kavuşumun gerçekleştiği bölgede. Bu nedenle bu yıldızın
+görünümü, 1572'deki gibi gizli bir düşmanca patlamaya benzemiyor, ancak
+kamu zaferinin veya güçlü bir hükümdarın girişinin gösterisi;
+kuryeler onun konaklama yerini hazırlamak için bir süre önce geldiğinde ve genç sokak çocukları kalabalığı uzun süre beklemek, sonra
+birbiri ardına cephane ve para ve yük arabaları ve hemen ardından atların çiğnenmesi ve insanların her taraftan sokaklara ve pencerelere doğru koşuşturması; ve kalabalık
+çeneleri açık bir şekilde şövalye birliklerine baktığında; sonra sonunda
+borucular, okçular ve uşakları hükümdarın kişiliğini öyle ayırt ederler ki, onu işaret etmelerine gerek kalmaz, ama herkes
+kendiliğinden bağırır--'İşte onu yakaladık'. Bunun neye işaret ettiğini belirlemek zordur ve kesin olan tek şey, insanlığa
+ya hiç bir şey ya da insan duyusunun ve anlayışının çok ötesinde
+yüksek ve güçlü haberler anlatacağıdır. Politik ve
+toplumsal ilişkiler üzerinde önemli bir etkisi olacaktır; aslında kendi doğası gereği değil, sanki
+insanlığın eğilimiyle
+kazara. İlk olarak, kitapçılara büyük karışıklıklar ve tahammül edilebilir kazanımlar haber verir; çünkü neredeyse her
+_Theologus_, _Philosophicus_, _Medicus_ ve _Mathematicus_ veya başka kim varsa, kendisine emanet edilmiş zahmetli bir uğraşı olmadan, zevkini _studiis_'te arar, bunun üzerine özel açıklamalar yapar ve bu açıklamaları gün ışığına çıkarmak ister. Aynı şekilde, bilgili ve bilgisiz başkaları da bunun anlamını bilmek ister ve kendilerine anlattığını iddia eden yazarları satın alırlar. Bunları sadece örnek olarak belirtiyorum çünkü bu kadarı büyük bir beceri olmadan kolayca tahmin edilebilirken, aynı şekilde, kaba veya kolay inanca sahip olan veya belki de deli olan birinin kendini büyük bir peygamber olarak yüceltmek istemesi de aynı şekilde ve kolayca gerçekleşebilir; veya hatta
+iyi bir temele ve büyük onurlara sahip güçlü bir efendinin, bu fenomen tarafından yeni bir plana girişmesi için cesaretlendirilmesi bile olabilir, tıpkı Tanrı'nın bu yıldızı karanlıkta sadece onları aydınlatmak için yerleştirmiş gibi." Geleneksel astroloji hakkındaki görüşlerini gizlemedi, bu konuda prensiplerine tamamen aşina birinin yetkisiyle konuştuğunu iddia etti, ancak yine de gezegenlerin kavuşumlarının ve açılarının kesinlikle dünyadaki şeyleri etkilediğine dair samimi inancını dile getirdi ve bu inanca "en yanılmaz deneyimler" tarafından iradesi dışında sürüklendiğini savundu.
+
+Bu arada, öngörülen Rudolphine Tabloları para eksikliği nedeniyle sürekli olarak ertelendi. Kepler'in nominal maaşı, büyüyen ailesi tarafından artırılmış olsa da, masrafları için yeterli olmalıydı, ancak hazinenin tükenmiş durumunda, bu tür "pratik olmayan" amaçlar için herhangi bir ödemeye itiraz eden birçok kişi vardı. Bu özel tutum
+herhangi bir özel dönem veya ülkeyle sınırlı değildi, ancak Kepler'in durumundaki bariz sonuç, kendisini Gezegen Tablolarından daha az maliyetli konulara adamaya zorlamasıydı ve bunların arasına yalnızca itibarı nedeniyle her zaman talep gören burçlar veya doğum tarihleri ​​değil, aynı zamanda muhtemelen o kadar iyi para kazandırmayan diğer yazılar da dahil edilmeliydi. 1604'te optik ve özellikle diyoptri veya mercekler aracılığıyla görme konusunda bilinen en eski makul teoriyi içeren "Vitellion'a Bir Ek"i yayınladı. Gözün mekanizmasını Porta'nın "Camera Obscura"sı ile karşılaştırdı, ancak retinada oluşan görüntünün beyin tarafından nasıl anlaşıldığını açıklamaya
+çalışmadı. Kırılma sorununu dikkatlice ele aldı, Tycho'nun önemini fark eden ilk astronom olmasına rağmen, bunu yalnızca düşük irtifalarda uyguladı ve gerçek bir teoriye veya doğru değerlere
+ulaşamadı. Kepler deneme teorileri için çok fazla zaman ve yaratıcılık harcadı. Her zaman bir hipotezle başlar ve etkiyi hesaplardı. Daha sonra bunu deneyle test eder ve başarısız olduğunda, hipotezinin _a priori_ başarısızlığa mahkum olduğunu hemen anlardı. Nadiren ölümcül itirazları zamanında fark etmiş gibi görünüyor. Daha sonra hemen yeni bir hipoteze başlardı, eşit derecede yersiz ve eşit derecede
+temelsiz. Bir soruna yaklaşmanın daha iyi bir yolu olabileceği hiç aklına gelmemiş gibi görünüyor. Bu özel araştırmada izlediği çizgiler arasında, birincisi, kırılmanın yalnızca geliş açısına bağlı olduğu, ki bu doğru olamaz çünkü tüm
+kırılan maddeler için aynı olacaktır; ikincisi, ortamın yoğunluğuna da bağlı olduğuydu. Bu iyi bir vuruştu, ancak ne yazık ki daha yoğun bir ortama geçen tüm ışınların, yalnızca ortama bağlı bir derinliğe kadar nüfuz edeceğini varsaydı, bu da gelen ve kırılan ışınların normale göre eğiminin teğetleri arasında sinüsler yerine sabit bir oran olduğu anlamına gelir. Deney, bunun ufukta kaybolanlara kıyasla dikeye yakın kırılma için çok yüksek değerler verdiğini kanıtladı, bu yüzden Kepler "bir teğete gitti" ve ufukta kaybolan bir kırılmanın saçmalığına indirgenen tamamen yeni bir fikir seti denedi. Bunları, sabit miktarda kırılma veya sonsuza dönüşen bir kırılma içeren başka bir set izledi. Daha sonra, kırılan görüntünün gerçek olmadığı için bu geometrik yöntemlerin başarısız olması gerektiği sonucuna vardı ve yalnızca benzetme yoluyla denemeye karar verdi, bir aynanın oluşturduğu eşit derecede gerçek olmayan görüntüyü suda kırılmayla oluşan görüntüyle karşılaştırdı. Su içeren bir kabın tabanının dikeyden giderek daha fazla yükseldiğini fark etti ve hemen görüntüyü büyüten içbükey bir ayna benzetmesine atladı, dışbükey bir ayna ise daha nadir bir ortama benziyordu. Bu saldırı hattı da onu başarısızlığa uğrattı, tıpkı kırılma ve konik kesit ölçümleri arasındaki ilişkileri bulmaya yönelik çeşitli girişimler gibi ve aniden Tycho'nun eleştirmenlerine karşı bir nutuk
+suyla
+başladı, onları renkler hakkında tartışan kör adamlara benzetti. Çok uzun yıllar geçmeden Snell kırılmanın gerçek yasasını
+keşfetti, ancak Kepler'in konuya katkısı, gerçek yasayı
+keşfetmeyi başaramamış olsa da, kabul edilen "yasalardan" birkaçını içerir.
+Atmosferik kırılmanın atmosferin yüksekliği ve sıcaklıkla değişeceğini belirtti ve ayrıca
+gökkuşağı renklerinin, gökkuşağının kendisinde veya çiğde, camda, suda veya benzeri herhangi bir ortamda görülsün, kırılma açısına bağlı olduğunu fark etti. Böylece
+Newton'u tahmin etmeye yaklaştı. Kepler'in
+optiği konusunu kapatmadan önce, Galileo'nun
+teleskopunu duyduktan birkaç yıl sonra Kepler'in, astronomik amaçlar için iki
+dışbükey mercek kullanılması gerektiğini, böylece ölçüm tellerinin referans olarak yerleştirilebileceği gerçek bir
+görüntü olması gerektiğini önerdiğini
+hatırlamak iyi olacaktır. Bu fikri kendisi
+uygulamadı ve bu "Kepler" prensibine dayanan ilk aleti üretmek, evrensel olarak Astronomik Teleskop olarak bilinen
+İngiliz Gascoigne'e bırakıldı. 1606'da yeni yıldız hakkında ikinci bir inceleme geldi, görünümünü açıklamak için çeşitli teorileri tartışıyordu ve bunun "atomların tesadüfi bir araya gelmesi" olduğu fikrini kabul etmeyi reddediyordu. Bunu 1607'de, o yıl ortaya çıkan ve bir sonraki dönüşünden sonra Halley kuyruklu yıldızı olarak bilinen kuyruklu yıldızın önerdiği kuyruklu yıldızlar hakkında bir inceleme izledi. Kuyruklu yıldızları düz çizgilerde hareket eden "gezegenler" olarak görüyordu, yollarının eğri olduğuna ikna olmak için hiçbir kuyruklu yıldızın yeterli gözlemini incelememişti. Bunların sistemin dışında olduğunu ve bu nedenle geri dönmelerinin beklenemeyeceğini varsaymasaydı, Halley'nin keşfini tahmin edebilirdi. Onun bir diğer ima edici yorumu da gezegenlerin kendiliğinden ışıklı olması gerektiğiydi, aksi takdirde Merkür ve Venüs'ün her halükarda evreler göstermesi gerekirdi. Bu, çok geçmeden Galileo'nun teleskopu aracılığıyla test edildi. 1607'de Kepler, Merkür'ün güneşi geçtiğine dair iddia edilen bir gözlemle baskıya girdi, ancak Galileo'nun güneş lekelerini keşfetmesinden sonra Kepler, "Merkür" hakkındaki gözlemini hemen neşeyle geri çekti ve görüşlerinde rahatsız olmaktan veya bağnaz olmaktan o kadar uzaktı ki, yeni keşifler tarafından görüşleri devrilmeye meyilli olanların çoğunun aksine, Galileo'nun tarafını sıcak bir şekilde benimsedi. Maestlin ve Kepler'in diğer arkadaşları tam tersi görüşü benimsedi.
+
+BÖLÜM V.
+
+KEPLER'İN KANUNLARI.
+
+Colchester'lı Gilbert, manyetizma üzerine yaptığı araştırmalara dayanan "Yeni Felsefe"sinde gelgitlerle ilgilenirken, ayın suyu çektiğini değil, "ay ile birlikte yükselen yeraltı ruhlarının ve mizahlarının denizin de yükselmesine ve kıyılara ve nehirlere doğru akmasına neden olduğunu" öne sürdü. Görünüşe göre, bu şekilde sunulan bir fikir,
+düz bir ifadeden daha kolay kabul ediliyordu. Bu sözde felsefi yöntem aslında çok
+genel olarak uygulanıyordu ve Galileo'nun Gilbert'in çalışmalarına olan hayranlığını
+paylaşan Kepler, manyetik çekim fikrini gezegenlere
+genişletme girişiminde bunu benimsedi. "Yerçekimi"nin genel fikri, dünyanın yerde dönmesi hipotezine karşı çıkıyordu; bu hipoteze göre, gevşek nesneler uçup gidecekti: ayrıca, eski gezegen hareketleri sisteminin son iyileştirmeleri, yörüngelerinin
+sadece boş bir nokta etrafında tanımlanmasını gerektiriyordu. Kepler, bu kavramlara karşı çok güçlü bir şekilde mücadele etti,
+eğildikleri sonuçların saçmalığına işaret etti ve
+kendi teorisini tanımlamak için belirli terimler kullandı.
+
+"Her cismani madde, cismani olduğu sürece, kendisiyle akraba bir cismin etki alanının ötesinde kendi başına
+yerleştirilebileceği her yerde dinlenmek için doğal bir uygunluğa sahiptir. Yerçekimi, akraba cisimler arasında birleşme veya birleşme yönünde karşılıklı bir sevgidir (manyetik erdeme benzer şekilde), böylece dünya
+bir taşı, taşın dünyayı aramasından çok daha fazla çeker. Ağır cisimler (dünyanın dünyanın merkezinde olduğunu varsayarak başlarsak) dünyanın merkezine, dünyanın merkezi olma niteliğiyle değil, akraba yuvarlak bir cismin, yani dünyanın merkezine taşınırlar; böylece dünya nereye yerleştirilirse yerleştirilsin veya hayvansal yeteneğiyle
+nereye taşınırsa taşınsın, ağır cisimler her zaman ona doğru taşınır. Dünya yuvarlak olmasaydı, ağır cisimler her taraftan dünyanın merkezine doğru düz bir çizgide değil, farklı taraflardan farklı noktalara doğru yönelirdi. Eğer iki taşlar
+dünyanın herhangi bir yerine, birbirine yakın ve üçüncü bir akraba cismin etki alanının ötesinde yerleştirilse, bu taşlar, iki
+manyetik iğne gibi, ara noktada bir araya gelir, her biri diğerine, diğerinin karşılaştırmalı kütlesine orantılı bir
+uzayda yaklaşırdı. Ay ve Dünya, hayvansal güçleri veya eşdeğer başka bir şey tarafından yörüngelerinde tutulmasaydı, Dünya Ay'a mesafelerinin elli dörtte biri kadar yükselirdi ve Ay diğer elli üç parçadan Dünya'ya doğru düşerdi ve orada buluşurlardı, ancak ikisinin de özünün aynı yoğunlukta olduğunu varsayarsak. Dünya sularını kendine çekmeyi bıraksaydı, denizin tüm suları yükselir ve Ay'ın gövdesine akardı. Ay'daki çekici erdemin küresi Dünya'ya kadar uzanır ve suları yukarı çeker; ancak Ay tepe noktasından hızla uçtuğu ve sular o kadar hızlı takip edemediği için, okyanusun batıya doğru sıcak bölgede bir akışı meydana gelir. Ay'ın çekici erdemi Dünya'ya kadar uzanıyorsa, Dünya'nın çekici erdeminin Ay'a kadar ve çok daha uzağa uzanması daha büyük bir nedene dayanır; ve kısacası, herhangi bir yüksekliğe fırlatılmış olsa bile,
+herhangi bir şekilde dünyevi maddeden oluşan hiçbir şey, bu
+çekici erdemin güçlü işleyişinden asla kaçamaz.
+Cismi maddeden oluşan hiçbir şey
+kesinlikle hafif değildir, ancak nispeten daha hafif olan,
+kendi doğası gereği veya kazara ısıyla daha nadir olan şey. Ve hafif cisimlerin yukarı doğru taşınırken
+evrenin yüzeyine kaçtıkları veya
+dünya tarafından çekilmedikleri düşünülmemelidir.
+Çekilirler, ancak daha az derecede ve bu nedenle ağır cisimler tarafından
+dışarıya doğru itilirler; bu yapıldığında dururlar ve
+dünya tarafından kendi yerlerinde tutulurlar. Ancak,
+dünyanın çekici erdemi, söylendiği gibi, yukarı doğru çok uzağa uzansa da, yine de herhangi bir
+taş, dünyanın çapıyla karşılaştırıldığında
+duyarlı hale gelebilecek kadar büyük bir mesafede olsa bile,
+dünyanın hareketinde böyle bir taşın tamamen takip etmeyeceği doğrudur; kendi direnç kuvveti
+dünyanın çekici kuvvetiyle birleşecek ve böylece
+bir dereceye kadar kendini dünyanın hareketinden kurtaracaktı." Kepler'in "Mars'ın Hareketi Üzerine Yorumlar" adlı eserinin Giriş bölümünden yukarıdaki pasaj, her zaman onun en değerli eseri olarak kabul edilir ve Newton tarafından
+bilinmiş olmalı, böylece Evrensel Yerçekimi Teorisi'nin oluşumunun gerekli ve yeterli bir açıklamasını sağlamak için bir elmanın düşmesi gibi bir olaya gerek duyulmamıştır. Kepler'in böyle bir teoriye bakışı, bir bakıştan daha fazlası olamazdı, çünkü bununla daha ileri gidemedi. Bu üzücü görünüyor, çünkü Gilbert'in "ruh ve mizaçlarına" karşılık gelen "erdemlerden" ve "hayvansal yeteneklerden" arınmış olmasa da, birçok fikrinden çok daha az hayal ürünü. Ancak, daha önce belirtildiği gibi, Mars konusuna geçmeliyiz. Kepler'e Prag'a vardığında emanet edildi.
+
+Mars'ın bir karşıtlığından diğerine geçen süre yörüngesinin farklı kısımlarında kesinlikle eşitsizdir, bu nedenle ortalama hareketi belirlemek için birçok karşıtlık kullanılmalıdır. Eskiler, şu anda bildiğimiz gibi dünyanın yörüngesel hareketinden kaynaklanan "ikinci eşitsizlik" olarak adlandırılan şeyin, yalnızca dünya, güneş ve gezegen aynı hizada olduğunda, yani gezegenin karşıtlığında ortadan kalktığını fark etmişlerdi; bu nedenle ortalama hareketi belirlemek için karşıtlıkları kullandılar, ancak gerçek karşıtlığa bir düzeltme uygulayarak ortalama karşıtlığa indirgemeyi gerekli gördüler, böylece karşıtlıkları kullanmanın avantajının bir kısmını feda ettiler. Tycho ve Longomontanus, Tycho'nun yirmi yıllık gözlemlerinden yaptıkları hesaplamalarda bu yöntemi izlediler. Amaçları, bu gözlemlerin etrafında sabit bir açısal hareket göstereceği şekilde "ekvant"ın bir konumunu bulmaktı; ve hesaplanan konumların enlem ve boylamda gerçek gözlemlenen konumlarla uyuşacağı. Kepler geldiğinde ona
+boylamlarının birkaç dakikalık yay içinde uyuştuğu,
+ancak enlemlerde bir sorun olduğu söylendi. Ancak, boylamda bile konumlarının kabul ettiklerinden on kat daha büyük uyumsuzluklar gösterdiğini buldu ve bu nedenle varsayımları mümkün olduğunca ortadan kaldırmak için gerçek karşıtlıkları kullanmaya karar verdi. Tycho buna itiraz etti ve Kepler onu yeni hareketin herhangi bir iyileştirme olacağına ikna etmekte büyük zorluk çekti, ancak ona gerçek örneklerle yörüngenin yanlış bir konumunun denklemi ayarlayarak beş dakikalık yay içindeki boylamlara uyacak şekilde yapılabileceğini, ancak enlemlerin ve ikinci eşitsizliklerin oldukça hatalı değerlerini verdiğini kanıtlamayı üstlendi. Daha fazla itiraz olasılığını önlemek için bu gösteriyi Batlamyus, Kopernik ve Tycho'nun her sistemi için ayrı ayrı gerçekleştirdi. Yeni yöntem için, Mars'ın gözlemlenen yerlerinin ekliptik'e indirgenmesinde büyük bir doğruluk gerektiğini fark etti ve bu amaçla Tycho'nun asistanları tarafından paralaks için elde edilen değer, gerekli doğruluktan çok uzaktı. Kepler, bu nedenle, paralaksı orijinal gözlemlerden yeniden hesaplamak zorunda kaldı, ayrıca düğüm çizgisinin konumunu ve yörüngenin eğimini de. Sonuncusunun sabit olduğunu buldu, böylece yörünge düzleminin güneşten geçtiği teorisini doğruladı. Hesaplamalarını en az yetmiş kez tekrarladı (ve bu, logaritmaların icadından önceydi) ve sonunda ortalama boylam ve aphelion boylamı için değerler benimsedi. Tycho'nun gözlemlediği boylamlarda iki yay dakikasından daha büyük bir uyumsuzluk bulamadı, ancak enlemler ve yörüngenin diğer kısımlarındaki boylamlar çok daha uyumsuzdu ve dört yıllık çalışmanın neredeyse boşa gittiğini üzüntüyle gördü. Yeni bir başlangıç ​​yapmadan önce emeğin biraz basitleştirilmesini aradı; ve eksantrikliğin ikiye bölünmesi ilkesi olarak bilinen Batlamyus'un varsayımını benimsemeye karar verdi. Şimdiye kadar Batlamyus bu varsayım için hiçbir neden belirtmediğinden, Kepler bunu yapmamayı tercih etmişti, yalnızca merkezin eksantriklik adı verilen çizginin bir noktasında olduğunu varsaydı (bkz. Şekil 1, 2). Bu adımın sonucu olarak kalıntılarda belirgin bir iyileşme oldu ve Batlamyus ilkesinin şu ana kadar doğru olduğunu kanıtladı, ancak hala sekiz yay dakikasına denk gelen uyumsuzluklar vardı. Gözlemlerde elde edilebilecek doğruluk hakkında hiçbir fikri olmayan Kopernik, muhtemelen böyle bir uyuşmayı oldukça iyi olarak değerlendirirdi; ancak Kepler, Tycho'nun gözlemlerinden herhangi birinde sekiz dakikalık bir hata olasılığını kabul etmeyi reddetti. Bunun üzerine bu sekiz dakikadan, hepsini açıklayacak yeni bir gezegen teorisi inşa etmeye yemin etti. Tekrarlanan başarısızlıkları, bu zamana kadar onu, tekdüze bir şekilde tanımlanmış bir dairenin Mars'ın hareketini temsil edemeyeceğine ikna etmişti. Ya yörünge dairesel olamazdı ya da açısal hız herhangi bir nokta etrafında sabit olamazdı. "İkinci eşitsizliğe", yani Dünya'nın yıllık hareketinin neden olduğu optik yanılsamaya saldırmaya karar verdi, ancak önce, tekdüzelik uğruna Güneş'in veya onun tercih ettiği şekilde Dünya'nın gezegenler gibi bir eşitliğe sahip olması gerektiği şeklindeki eski bir fikrini yeniden canlandırdı. Güneş hareketinin düzensizliklerinden, bunun böyle olduğunu ve hareketin, güneşten dünyanın yörüngesinin merkezine kadar olan çizgideki bir nokta etrafında tekdüze olduğunu, böylece merkezin güneşten "Ekvant"a olan mesafeyi ikiye böldüğünü buldu; bu, Batlamyus'un ilkesini tamamen destekliyordu. Açıkça, dünyanın doğrusal hızı sabit olamazdı ve Kepler, daha büyük mesafelerde daha zayıf olan bir kuvvetle ilgili spekülasyonlarından birini canlandırmaya teşvik edildi. Hızın daha yakın apsiste daha büyük olduğunu, böylece her iki apsiste eşit bir yay üzerindeki zamanın mesafeyle orantılı olduğunu buldu. Bunun yörüngenin tüm kısımlarındaki yaylar için doğru olabileceğini varsaydı ve bunu test etmek için yörüngeyi 360 eşit parçaya böldü ve bölme noktalarına olan mesafeleri hesapladı. Arşimet, bir dairenin alanına yaklaşık olarak onu çok sayıda üçgene radyal olarak bölerek ulaşmıştı ve Kepler'in aklında bu cihaz vardı. 360 noktasından ardışık mesafelerin toplamlarının noktadan noktaya olan sürelerle yaklaşık olarak orantılı olduğunu buldu ve böylece Mars'ın ikinci eşitsizliğini üreten Dünya'nın yıllık hareketini çok daha doğru bir şekilde temsil edebildi ve şimdi hareketine geri döndü. Bir daireyi tanımlamak için üç nokta yeterlidir, bu yüzden Mars'ın üç gözlemlenen konumunu aldı ve bir daire buldu; sonra üç konum daha aldı, ancak farklı bir daire elde etti ve üçüncü bir set daha bir daire verdi. Böylece yörüngenin bir daire olamayacağı ortaya çıkmaya başladı. Daha sonra, Dünya'da yaptığı gibi 360 eşit parçaya bölmeyi denedi, ancak mesafelerin toplamları zamanlara uymadı ve mesafelerin toplamlarının ardışık üçgenlerin alanının iyi bir ölçüsü olmadığını fark etti. Ancak, apsislerdeki hataların artık merkezi dairesel bir yörüngeye sahip olanlardan daha küçük ve zıt işaretli olduğunu fark etti, bu nedenle, Merkür'ün yörüngesi Mars'ınkinden bile daha eksantrik olmasına rağmen, herhangi bir teorinin temelini oluşturmak için gözlemler çok yetersiz olmasına rağmen, Purbach'ın Merkür durumunda yaptığı bir öneriyi izleyerek, oval bir yörüngenin daha iyi uyup uymayacağını denemeye karar verdi. Kepler, episiklik hareketle ilgili bazı fikirleri tatmin etmeye çalışarak, bir ucu diğerinden daha büyük olan bir ovali seçme konusunda hayal gücünü kullandı, ancak tatmin edici bir eğri bulamadı. Daha sonra, geçici ovaliyle aynı eksene sahip bir elips deneme fikri geldi. Mars artık apsislerde çok hızlı değil, çok yavaş görünüyordu, bu yüzden deneme elipsi ile aynı eksendeki daire arasında bir ara elips
+aramak gerektiği açıktı. Bu noktada "uzun tesadüf kolu" devreye girdi.
+Apsislerin ortasında ortalama mesafe vardı ve bu konumdaki hata elips ile daire arasındaki mesafenin yarısıydı,
+yarıçapın .00429'una denk geliyordu. Kepler bu rakamları aklında tutarak
+Mars'ın en büyük optik eşitsizliğine, Mars'tan Güneş'e ve dairenin merkezine giden düz çizgiler arasındaki açıya baktı.[3]
+Bu açının kesantı 1.00429'du, bu yüzden daireden 1.00429'a 1 oranında küçültülmüş bir elipsin Mars'ın hem ortalama mesafedeki hem de apsislerdeki hareketine uyacağını fark etti.
+
+[Dipnot 3: Bu, Şekil 2'deki AMC'de açıkça bir maksimumdur, çünkü teğeti AC/CM = eksantrikliktir.]
+
+Böyle bir tesadüfün yalnızca "şansını hak eden" birinin başına geldiği sıklıkla söylenir, ancak bu sadece tesadüf için tanınmanın elzem olduğu anlamına gelir. Aynı şekilde, adı geçen çok sayıda kişiden birinin ortaya çıkması, görünmeyen tüm insanları görmezden gelerek eski bir atasözü olan "Şeytandan bahset, vb." örneği olarak selamlanır.
+Ancak, hiç kimse Kepler'i haksız yere kayırılmış olarak görmeyecektir. Onun dehası, onun durumunda kesinlikle "sonsuz bir zahmet çekme kapasitesi", onu, büyük ölçüde sağlam olmayan hipotezler
+karmaşasından, muazzam emek ve sabırla, "Cennetlerin Yasama Organı" unvanını oluşturan ilk iki yasaya ulaşmasını sağlamıştır.
+
+KEPLER'İN MARS'IN HAREKETİ TEORİSİNİ AÇIKLAYAN ŞEKİLLER.
+
+[Resim: ŞEKİL 1.]
+
+_______
+/ \
+/ \
+| |
+|___________|
+Q| E C A |P
+| |
+\ /
+\_______/
+
+[Resim: ŞEKİL 2.]
+
+___M___
+/___|\__\
+// N|\\ \\
+|/ | \\ \|
+|_____|__\\_|
+Q| E C A |P
+|\ | /|
+\\___|___//
+\___|___/
+
+[Yazıcının Notu: Bu şekillerin yaklaşık gösterimleri verilmiştir. Şekil 1 bir dairedir. Şekil 2, Q ve P'de daireye teğet olan bir elips içeren bir dairedir. M'den (çember üzerinde) ve N'den (elips üzerinde) gelen doğru parçaları A noktasında kesişir.]
+
+ŞEKİL 1.--Batlamyus'un eksantrik teorisinde, A dünyayı, C bir gezegenin yörüngesinin merkezini ve E ekuantı, P (perige) ve Q (apoge) yörüngenin apsislerini temsil eder. Batlamyus'un fikri, bir çemberde tekdüze hareketin sağlanması gerektiğiydi ve hareket dünya etrafında tekdüze olmadığı için A, C ile çakışamazdı; ve hareket A veya C etrafında hala tekdüze olmadığı için, hareketin tekdüze olması gereken bir E noktası bulunmalıdır.
+
+ŞEKİL 2.--Bu ölçekli olarak çizilmemiştir, ancak Kepler'in Batlamyus'un eksantrikliğini değiştirmesini göstermek için tasarlanmıştır. Kepler, P ve Q'daki hızların AP ve AQ'ya değil, AQ ve AP'ye veya EP ve EQ'ya orantılı olduğunu buldu
+eğer EC = CA (eksantrikliğin ikiye bölünmesi). M'deki hız yanlıştı
+ve AM çok büyük görünüyordu. Kepler'in ilk elipsinde M, C'ye çok yakın hareket etmişti. Şekilde AC mesafesi çok abartılmış, MN de öyle.
+AN = CP, dairenin yarıçapı. MN, yarıçapın .00429'u olmalı
+ve MC/NC, 1.00429 olmalı. N'deki hız EN'ye (= AN) orantılı görünüyordu. Kepler, Mars'ın PNQ etrafında hareket ettiği sonucuna vardı,
+bu nedenle A (güneş) etrafında tanımlanan alan eşit zamanlarda eşitti, A
+elipsin PNQ odağıydı. Açısal hız E, ekuant veya boş odak etrafında tam olarak sabit değildi, ancak fark Kepler'in zamanında
+belirlenmiş olamazdı.
+
+Kepler'in Dünya yörüngesinin gelişmiş tespiti, Mars'ın ardışık dönüşlerine karşılık gelen Dünya'nın farklı konumlarının, yani 687 günlük aralıkların çizilmesiyle elde edildi. Bunların her birinde, yılın tarihi MSE (Mars-Güneş-Dünya) açısını, Tycho'nun gözlemi ise MES açısını verirdi. Böylece üçgen ölçek hariç çözülebilirdi ve SE'nin SM'ye oranı, Mars'ın Güneş'ten Dünya'nınki cinsinden uzaklığını verirdi. Mars'ın sabit bir konumundan (örneğin, perihelion) ölçüldüğünde, bu SE'nin değişimini verirdi ve Dünya'nın eşitsizliğini gösterirdi. Dünya'nın sabit bir konumundan ölçüldüğünde, benzer şekilde Mars'ın bir dizi konumunu verirdi; bu konumlar, çapı Mars'ın yörüngesinin ekseni olan ve perihelion ile aphelion'u birleştiren çemberden çok uzakta olmasa da, bu iki nokta hariç her zaman çemberin içine düşerdi. Kepler'in, çapın iki ucu hariç dairenin içine düşen en basit şeklin bir elips olduğunu anlaması uzun zaman aldı ve elipsle yaptığı ilk denemenin, dairenin çok geniş olması kadar dar olmasının nedeni açık değildir. Gerçek şu ki, bu hatayı yarıya indirmenin, daireyi, eksantrikliği eski teorininki olan, yani güneşin bir odakta ve ekuantın diğerinde olacağı elipse indirgemekle aynı şey olduğunu aniden fark etti. Artık elipsin hem büyük hem de küçük eksenlerinin uçlarını yerleştirdikten sonra, yörüngenin her yere uyacağı sonucuna vardı. "İkinci eşitsizliği" temizlemesinin pratik etkisi, Mars'ın yörüngesini doğrudan güneşe yönlendirmekti ve Mars'ın güneşe olan ardışık uzaklıkları arasındaki alanın (mesafelerin toplamı yerine) kesinlikle geçen zamana orantılı olduğunu buldu, kısacası, elipsin odağındaki güneşe yönlendirildiğinde eşit alanlar eşit zamanlarda tanımlanıyordu (2. Yasa) (1. Yasa). (1) Gezegenin bir elips tanımladığını, güneşin bir odakta olduğunu ve (2) Gezegeni güneşe birleştiren düz çizginin herhangi iki eşit zaman aralığında eşit alanlar süpürdüğünü duyurdu. Bunlar
+Kepler'in birinci ve ikinci Yasalarıydı, ancak bu sırayla keşfedilmemişti ve
+Ptolemy'nin "eksantrikliğin ikiye bölünmesi"nin
+sadece bir elipsin merkezinin odaklar arasındaki mesafeyi ikiye böldüğü, güneşin bir odakta olduğu ve açısal hızın boş odak etrafında tekdüze olduğu gerçeğine tekabül ettiği hemen anlaşıldı. Dairesel hareket fetişi yüzyıllar boyunca keşfi ertelemişti. Kepler'in yasalarının tüm gezegenlere eşit olarak uygulanacağını varsayması doğaldı, ancak bunun kanıtı ve yasaların altında yatan neden, konuya tamamen farklı bir bakış açısıyla yaklaşan Newton tarafından verildi.
+
+Mars hakkındaki bu yorum, teleskobun icat edildiği yıl olan 1609'da yayınlandı ve Kepler, diğer gezegenlerin çalışmasını tamamlamasını sağlayacak daha fazla fon için İmparator'a dilekçe verdi, ancak bir kez daha gecikme oldu; 1612'de Rudolph öldü ve kendisinden sonra gelen kardeşi Matthias, Kepler İmparatorluk Matematikçisi görevine yeniden atanmasına rağmen, astronomi veya astrolojiyle pek ilgilenmedi. Prag'dan ayrılıp Linz Üniversitesi'nde kalıcı bir profesörlük yaptı.
+Kendisinin koşullar hakkındaki açıklaması yeterince kasvetli. "Öncelikle
+Saray'dan para alamadım ve uzun süredir moral bozukluğu ve umutsuzluk çeken karım, 1610'un sonlarına doğru Macar ateşi,
+epilepsi ve frenitle şiddetli bir şekilde hastalandı. Daha iyileşmeye yeni başlamıştı ki, üç çocuğum da aynı anda çiçek hastalığına yakalandı. Leopold ordusuyla
+nehrin ötesindeki kasabayı işgal etti, en sevdiğim oğullarımı kaybettiğimde, onun doğum yerini yeni yıldız hakkındaki kitabımda bulabilirsiniz.
+Nehrin bu yakasındaki yaşadığım kasaba, yeni birlikleri itaatsiz ve küstah olan
+Bohem birlikleri tarafından taciz ediliyordu;
+tamamlamak gerekirse, Avusturya ordusu vebayı şehre
+getirdi. Avusturya'ya gittim ve şu anda içinde bulunduğum durumu
+sağlamaya çalıştım. Haziran ayında döndüğümde, karımı oğlunun ölümüyle ilgili üzüntüsünden dolayı çökmüş bir halde buldum, ve bulaşıcı bir
+ateşin arifesinde, ve onu da dönüşümden on bir gün sonra kaybettim. Sonra
+taze bir rahatsızlık geldi, elbette, ve serveti üvey kız kardeşlerimle
+paylaşılacaktı. İmparator Rudolph benim ayrılmamı kabul etmedi; bana Saksonya'dan ödeme yapılacağına dair boş
+umutlar verildi; Zamanım ve param birlikte
+boşa gitti, ta ki İmparator'un 1612'deki ölümünden sonra, halefi tarafından yeniden
+adlandırıldım ve Linz'e gitmek zorunda kaldım."
+
+Böylece on yaşında bir kızı Susanna ve onun yarı yaşındaki bir oğlu Louis ile dul kalan Kepler, onlara bakacak ikinci bir eş aradı. Uygunluğunu düşündüğü on bir hanımın hesabını verdi. İlki, ilk karısının yakın bir arkadaşıydı ve sonunda
+reddetti; biri çok yaşlıydı, diğeri sakattı, bir diğeri doğumundan ve yaşadığı yerden çok gurur duyuyordu, bir diğeri hiçbir işe yaramıyordu, vb.
+Sekiz numara, onun sürekli kararsızlığından bıkana ve hayal kırıklığını dokuz numaraya itiraf edene kadar üç ay boyunca onu merakta bıraktı, o da etkilenmedi. Bir arkadaşı tarafından tanıtılan on numarayı Kepler,
+aşırı çirkin ve aşırı şişman, on bir numarayı ise görünüşe göre çok
+genç buldu. Kepler daha sonra, daha öncekiler, onun aşağılık konumuna itiraz eden
+arkadaşlarının tavsiyelerini hiçe sayarak. O, bir marangozun
+yetim kızıydı, Stahrenburg Leydisi'nin
+lütfuyla on iki yıl eğitim gördü ve Kepler onun hakkında şunları yazıyor: "Kişiliği ve tavırları benimkine uygun; gurur yok, savurganlık yok; çalışmaya
+dayanabilir; bir aileyi nasıl idare edeceği konusunda makul bir bilgiye sahip;
+orta yaşlı ve hala istediğini elde edebilecek bir mizaca ve yeteneğe sahip".
+
+Avusturya bağlarından gelen şarap, evlilik sırasında bol ve ucuzdu ve Kepler, hane halkı için birkaç fıçı satın aldı. Satıcı miktarı tespit etmeye geldiğinde, Kepler şişkin kısımlar için uygun bir
+ödenek ayrılmadığını fark etti ve itirazlarının sonucu, modern analizin en eski örneklerinden biri olan yeni bir ölçüm yöntemi hakkında bir kitap yazması oldu; bu, düz şekillerin özelliklerini koni ve silindir parçalarına "birleştirilmiş
+daireler" olarak genişletiyordu. Ratisbon'daki Diyet'e, Takvimin Gregoryen Reformu hakkındaki fikrini bildirmek üzere çağrıldı ve kısa bir süre sonra, Gratz'da olduğu gibi Linz'deki Roma Katolik partisinin
+kötülüğüne uğrayarak aforoz edildi; bunun nedeni, görünüşe göre kendi kendine düşünmek istemesiydi. Bu arada maaşı, eskisinden daha düzenli olarak ödenmiyordu ve maaşını, "dilenmekten daha saygın olmayan, ancak beni tamamen terk eden ve konseydeki tüm sık ve yakın tarihli emirleriyle açlıktan ölmeme izin veren İmparator'un itibarını kurtardığı için" yayınlayarak tamamlamak zorunda kaldı.
+
+1617'de, Magini'nin yerine Bologna'da Matematik Profesörü olarak İtalya'ya davet edildi. Galileo onu görevi kabul etmeye zorladı, ancak o, bir Alman olduğunu ve İtalya'da başını derde sokabileceğini düşündüğü
+Almanlar arasında konuşma özgürlüğüyle büyüdüğünü söyleyerek kendini mazur gösterdi. 1619'da Matthias öldü ve yerine Ferdinand III geçti, Ferdinand Kepler'i görevinde tekrar tuttu. Aynı yıl Kepler "Mysterium Cosmographicum" adlı eserini yeniden bastı ve ayrıca İngiltere Kralı I. James'e ithaf edilen beş kitapta "Harmonics" adlı eserini yayınladı. "Birincisi
+geometrik, uyumlu oranlar üreten şekillerin yasalarının kökeni ve gösterimi üzerine; ikincisi, mimari, figürlü geometri ve düz ve katı düzenli şekillerin uyumu üzerine; üçüncüsü, tam olarak Harmonik, müzikal oranların şekillerden türetilmesi üzerine ve şarkıyla ilgili şeylerin doğası ve ayrımı üzerine, eski teorilerin aksine; dördüncüsü, metafizik, psikolojik ve astrolojik, Harmoniklerin ve dünyadaki türlerinin zihinsel özü üzerine, özellikle gök cisimlerinden dünyaya yayılan ışınların uyumu üzerine ve bunların doğadaki etkisi üzerine ve ay altı ve insan ruhu üzerine; beşincisi, astronomik ve metafizik, göksel hareketlerin çok zarif Harmonikleri üzerine ve uyumlu oranlardaki dış merkezliliklerin kökeni üzerine." Hayallerinin
+aşırılığı, astrolojik görüşlerini doğrudan ve pozitif gözlemden edinmeye zorlandığı ifadesini yinelediği dördüncü kitaba kadar ortaya çıkmaz. O,
+"Yıldızların işleyişini
+sanki bir tür tanrıymış, cennetin ve dünyanın efendileriymiş ve
+her şeyi kendi isteklerine göre üretiyorlarmış gibi anlatan
+"sıradan kehanetçi sürüsünü" hor görür.
+"Yıldızların gökyüzünde kaldıkları ve bize ışık ışınları dışında duyulara açık hiçbir şey
+göndermedikleri sürece, yeryüzünde aramızda herhangi bir etki yaratmanın ne anlama geldiğini düşünmek için asla kendilerine zahmet etmezler." Onun kendi kavramı şudur: "Tatlı bir melodik şarkıyı dinleyen ve yüzünün neşesiyle, sesiyle ve elinin veya ayağının müziğe uyum sağlamasıyla, uyumu algıladığını ve onayladığının işaretini verir: tıpkı dünyanın bağırsaklarının belirgin ve belirgin duygularıyla birlikte, ay altı doğasının da aynı şekilde aynı duygulara tanıklık etmesi gibi, özellikle gezegenlerin ışınlarının dünyada uyumlu yapılandırmalar oluşturduğu zamanlarda," ve yine "Dünya, her baş sallamaya hazır bir köpek gibi bir hayvan değildir; daha çok bir boğa veya fil gibidir, öfkelenmekte yavaştır ve öfkelendiğinde çok daha fazla öfkelenir." Dünyanın aslında canlı bir hayvan olduğuna inanmış gibi görünüyor, buna tanıklık edenler şunlardır: "En yüksek dağların zirvelerine
+çıkan biri, çok derin yarıklarından aşağı bir taş atarsa, onlardan bir ses duyulur; ya da şüphesiz dipsiz olan dağ göllerinden birine atarsa, hemen bir fırtına
+çıkacaktır, tıpkı gıdıklanan bir hayvanın kulağına veya burnuna bir saman çöpü soktuğunuzda başını sallaması veya titreyerek kaçması gibi. Nefes almak, özellikle de ağızlarına su çekip solungaçlarından tekrar dışarı püskürten balıklarınkine ne kadar da benzer, tıpkı o harikulade gelgit gibi! Çünkü her ne kadar ayın seyrine göre düzenlenmiş olsa da, 'Mars Üzerine Yorumlar' kitabımın önsözünde, suların ay tarafından, demirin mıknatıs tarafından çekilmesi gibi, çekilmesinin muhtemel olduğunu belirtmiş olsam da, eğer biri dünyanın nefes almasını, hayvanların günlük ve gecelik uyku ve uyanıklık değişimleri gibi, güneş ve ayın hareketine göre düzenlediğini savunursa, onun felsefesinin dinlenmeye değer olmadığını düşünmem; özellikle de dünyanın derinliklerinde akciğerlerin veya solungaçların işlevlerini yerine getirmek için esnek parçalar keşfedilirse."
+
+Aynı kitapta Kepler, astrolojinin doğumlarla ilgili temelleri ve gezegensel kavuşumların önemiyle ilgili görüşlerini tekrar genişletir. Kendi doğumuyla ilgili ayrıntılar verir.
+"Jüpiter, en küçük olmayana en yakın olan Satürn'ün üçgenini dört derece geçmişti; Güneş ve Venüs kavuşumda, ikincisinden birincisine doğru, her ikisiyle de neredeyse sekstil açıyla hareket ediyorlardı: ayrıca, Merkür'ün yaklaştığı Mars'la kare açılardan uzaklaşıyorlardı: Ay, aynı gezegenin üçgenine, enlemde bile Boğa Gözü'ne yakındı. İkizler'in 25. derecesi yükseliyordu ve Kova'nın 22. derecesi doruğa ulaşıyordu. O gün bu üçlü konfigürasyonun var olduğu -yani Satürn ve Güneş'in sekstili,
+Mars ve Jüpiter'in sekstili ve Merkür ve Mars'ın karesi-
+hava değişimiyle kanıtlanmıştır; çünkü birkaç günlük dondan sonra, o gün daha sıcak oldu, bir çözülme ve yağmur yağdı." Bu iddia edilen "kanıt" ilginçtir çünkü belirsiz bir doğum saatinin düzeltilmesini, daha sonra karşılaşılan hastalıklara vb. atıfta bulunarak haklı çıkarmak için kullanılan aynı ilkeye dayanmaktadır. Ancak Kepler şöyle devam eder: "Çalışmalarımın sonuçlarından bahsedeceksem, gökyüzünde, uzaktan da olsa buna atıfta bulunan ne bulabilirim? Öğrenilmişler, felsefenin
+birkaç aşağılık olmayan dalının benim tarafımdan yeniden ortaya çıkarıldığını,
+düzeltildiğini veya mükemmelleştirildiğini itiraf ederler: ancak burada benim takımyıldızlarım
+yedinci açıda Doğu'dan Merkür değil ve
+Mars'la kareler halinde değil, Kopernik değil, Tycho Brahe idi, gözlem kitapları olmadan
+şimdi benim tarafımdan en net ışıkta
+belirlenen her şey karanlıkta gömülü kalmış olmalıydı; Merkür'e hakim olan Satürn değil,
+efendilerim İmparatorlar Rudolph ve Matthias, Satürn'ün evi Oğlak değil, İmparator'un evi Yukarı Avusturya ve onun soylularının dilekçeme hazır ve
+eşsiz cömertliği. İşte o köşe, burçların
+batı köşesi değil, fakat İmparatorluk efendimin izniyle, kendimi çok
+tedirgin edici bir Saray'dan
+aldığım yeryüzünde; ve hayatımın bu yıllarında, ki şu anda batmaya doğru gidiyor, bu Harmonikler ve üzerinde çalıştığım diğer konular buradan yayılıyor."
+
+Beşinci kitap, kürelerin uyumu hakkında bir sürü saçmalık içeriyor; çeşitli gezegenlerin katkıda bulunduğu notalar ciddi bir şekilde
+belirtilmiş, Merkür'ün notası bir melodiye en çok benziyor,
+ancak belki de bir trompet çağrısını daha çok andırıyor. Yine de kitap tamamen değersiz değil çünkü Kepler'in yıllardır gayretle aradığı Üçüncü Yasasını içeriyor. Kendi sözleriyle, "Herhangi iki gezegenin periyodik zamanları arasındaki oran, yörüngelerin ortalama mesafelerinin tam olarak sesquiplicate oranıdır" veya genel olarak verildiği gibi,
+"periyodik zamanların kareleri, ortalama mesafelerin küplerine orantılıdır. "Kepler açıkça sevinçten uçup gitmişti ve şöyle yazdı: "Yirmi iki yıl önce, göksel yörüngeler arasında beş katıyı keşfettiğim anda kehanet ettiğim şey, Batlamyus'un 'Harmonikler'ini görmeden çok önce kesin olarak inandığım şey, bu kitabın başlığında arkadaşlarıma söz verdiğim şey, keşfimden emin olmadan önce adını verdiğim şey, on altı yıl önce aranması gereken bir şey olarak ısrarla dile getirdiğim şey, Tycho Brahe'ye katıldığım şey, Prag'a yerleştiğim şey, hayatımın en iyi bölümünü astronomik hesaplamalara adadığım şey, sonunda gün ışığına çıkardım ve en iyimser beklentilerimin ötesinde gerçeğini fark ettim. Üçüncü kitabımda belirtilen tüm ayrıntılarıyla
+Harmoniklerin mutlak doğası ne kadar büyük olursa olsun, hepsi göksel hareketler arasında bulunur, aslında
+hayal ettiğim şekilde değil (bu benim zevkimin en küçük parçası değil), ama çok farklı, ama yine de en mükemmel ve en mükemmel şekilde. Işığın ilk bakışını aldığımdan beri on sekiz ay, şafaktan beri üç ay, üzerime
+bakması en hayranlık verici olan
+güneşin ortaya çıkmasından bu yana çok az gün geçti. Hiçbir şey beni tutamaz;
+Kutsal öfkeme kapılacağım; Mısırlıların altın vazolarını çaldığımı dürüstçe itiraf ederek insanlığa galip geleceğim,
+Mısır'ın sınırlarından uzakta Tanrım için bir çadır inşa edeceğim.
+Eğer beni affederseniz, sevinirim, eğer kızarsanız, buna katlanabilirim;
+zar
+atıldı, kitap yazıldı; şimdi veya gelecek nesiller tarafından okunacak, hangisi olduğu umurumda değil; Bir okuyucu için bir asır bekleyebilir, tıpkı Tanrı'nın bir gözlemci için altı bin yıl beklemesi gibi." Keşfinin tamamlanması için 15 Mayıs 1618 tarihini verir. "Kopernik Astronomisinin Özeti"nde, bu Üçüncü Yasanın nedeni konusunda kendi fikrini verir. "Periyodik zamanın uzaması için dört neden bir araya gelir. Birincisi, yolun uzunluğu; ikincisi, taşınacak maddenin ağırlığı veya miktarı; üçüncüsü, hareket eden erdemin güç derecesi; dördüncüsü, taşınacak maddenin yayıldığı hacim veya alan. Gezegenlerin yörünge yolları, mesafelerin basit oranındadır; farklı gezegenlerdeki madde ağırlıkları veya miktarları, daha önce kanıtlandığı gibi, aynı mesafelerin alt-kopya oranındadır; böylece
+her mesafe artışıyla bir gezegen daha fazla maddeye sahip olur ve
+bu nedenle daha yavaş hareket eder ve
+dönüşünde daha fazla zaman biriktirir, zaten daha uzun bir yol nedeniyle daha fazla zaman gerektirir.
+Üçüncü ve dördüncü nedenler birbirlerini telafi eder
+farklı gezegenlerin karşılaştırılması; basit ve alt duplikat oranı, sesquiplikat oranını birleştirir, bu nedenle periyodik zamanların oranıdır." Bu "açıklamanın" doğru olan tek kısmı, yolların mesafelerin basit oranında olmasıdır, bu kadar güvenle iddia edilen "kanıt", yaygın olarak "soruyu dilemek" olarak bilinen dairesel türdendir. Newton'a Hareket Yasalarını oluşturmak, bir gezegeni Kepler'in birinci ve ikinci Yasalarına uymaya zorlayacak kuvvet yasasını bulmak ve bu nedenle üçüncüsüne de uyması gerektiğini kanıtlamak kalmıştı.
+
+BÖLÜM VI.
+
+SON YILLAR.
+
+Yayınlanmasından kısa bir süre sonra Kepler'in "Özeti", Kopernik kitabıyla birlikte Roma'daki Endeks Cemaati tarafından yasaklanan kitaplar listesine yerleştirildi ve bunun kitaplarının Avusturya'da da yayınlanmasını veya satışını engelleyebileceğinden korktu, ancak Galileo'nun şiddetinin onu sorun, eğitimli kişilerin yasaklanmış kitapları okuması için izin almada
+hiçbir zorluk olmayacaktı ve o (Kepler) sessiz kaldığı sürece hiçbir şeyden korkmasına gerek yoktu.
+
+Kuyrukluyıldızlar üzerine yaptığı çeşitli çalışmalarda, onların değişen hızlarda düz çizgiler halinde hareket ettikleri görüşüne bağlı kalmıştır. Kuyrukluyıldızların, balinalar ve canavarlar gibi, eterin en uzak yerlerinden geldiğini ve belki de ipekböceklerinin doğasına benzer bir şey olduğunu ve kendi kuyruklarını
+eğirmek için harcanıp tüketildiğini öne sürdü. Napier'in logaritmaları icadı Kepler'in hemen dikkatini çekti. Keşfin, hesaplamalarda kendisine büyük miktarda emek kazandıracak kadar erken yapılmamış olmasından pişmanlık duymuş olmalı, ancak kendisi için bazı logaritma tabloları hesaplamak için zaman bulmayı başardı, ancak Napier'in ne yaptığını tam olarak anlamamış gibi görünüyor ve her zamanki dürüstlüğüyle icadı için İskoç baronuna tam kredi verdi. Öjenistler, Napier'in parlaklığını ebeveynlerinin aşırı gençliğiyle uzlaştırmakta zorluk çekseler de, en azından Kepler'in ara sıra yaşadığı kötü huysuzlukları kalıtımla ilişkilendirebilirler. Huysuz annesi Catherine Kepler, birkaç yıldır kendisini zehirli bir iksir vermekle suçlayan bir kadına karşı iftira davası açmıştı. Dame Kepler, kendi sebepleriyle davayı o kadar uzun süre "bakan" genç bir avukat tuttu ki, beş yıl geçmesine rağmen hiçbir sonuca ulaşılamayınca, savcının iğneleyici dilinden kendisi de muzdarip olan ve bu yüzden ona karşı önyargılı olan başka bir yargıç atandı. Bunu bilen sanık, rakibine karşı cadılık suçlaması getirerek durumu tersine çevirdi ve Catherine Kepler hapse atıldı ve Temmuz 1620'de işkenceye mahkûm edildi. Cezayı duyan Kepler, Linz'den aceleyle geri döndü ve cezanın tamamlanmasını durdurmayı başardı ve annesinin ertesi yıl serbest bırakılmasını sağladı, çünkü aleyhindeki davanın tek dayanağının kendi ölçüsüz dili olduğu açıkça ortaya çıktı. Kepler Linz'e döndü ve annesi hemen eski rakibine karşı masraf ve tazminat davası açtı, ancak dava görülmeden önce öldü.
+
+Bundan birkaç ay önce, Venedik'teki İngiliz Büyükelçisi Sir Henry Wotton, Kepler'i ziyaret etti ve onu her zamanki gibi neredeyse parasız bularak, İngiltere'ye gitmesi için onu teşvik etti ve orada ona sıcak bir karşılama sözü verdi. Ancak Kepler, o sırada Almanya'dan ayrılmak istemedi, bunun birkaç nedeni vardı, bunlardan biri de bir adanın
+sınırlandırılmasından korkmasıydı. Daha sonra, Rudolphine Tabloları yayınlanır yayınlanmaz gitmeye ve Almanya'da yapamazsa ve yeterince iyi bir maaş alırsa, İngiltere'de bile bunlar hakkında ders vermeye istekli olduğunu ifade etti.
+
+1624'te Viyana'ya gitti ve Hazine'den Tablolarla ilgili masraflar nedeniyle 6000 florin çıkarmayı başardı, ancak daha fazla hibe yerine, İmparatorluk hazinesine borcu olan Swabia Eyaletlerine mektuplar verildi. Bunlardan bazılarını toplamayı başardı, ancak Tablolar o zamanlar şiddetlenen dini karışıklıklar nedeniyle daha da gecikti. Cizvitler, Kepler'in kütüphanesini mühürlemeyi başardılar ve İmparatorluk koruması olmasa onu da hapse atacaklardı; ayrıca köylüler ayaklandı ve Linz'i abluka altına aldı. Ancak 1627'de, geleneksel dairesel hareketi ilk kez ortadan kaldıran uzun zamandır vaat edilen Tablolar, sonunda Ulm'da dört bölüm halinde yayınlandı. Bu bölümlerden ikisi logaritmaların ve diğer hesaplama aygıtlarının yardımcı Tablolarından oluşuyordu, bir diğeri Güneş, Ay ve gezegenlerin elementlerinin Tablolarını içeriyordu ve dördüncüsü Tycho tarafından belirlenen bin yıldızın yerlerini, Tycho'nun Güneş, Ay ve yıldızların kırılması için farklı değerler kullanma özelliğine sahip kırılma Tablolarıyla veriyordu. Tabloların bazı kopyalarına eklenen bir haritadan, Kepler'in Ay'ın kenarındaki yıldızların örtülmesiyle boylam farklarını belirleme yöntemini öneren ilk kişilerden biri, hatta belki de ilk kişi olduğunu çıkarabiliriz. Bir Ek'te, astrologların tahminleri için Tablolarının nasıl kullanılabileceğini göstererek, "Astronomi, Astrolojinin kızıdır ve bu modern Astroloji yine Astronominin kızıdır ve büyükannesinin soy çizgilerinden bir şeyler taşır; ve daha önce de söylediğim gibi, bu aptal kız, Astroloji, bilge ama muhtaç annesi Astronomiyi, genellikle itibarlı sayılmayan bir mesleğin karlarından geçindirir". Kepler'in, geliri için kesinlikle itibarlı saymadığı bu tür yöntemlere bu kadar bağımlı olmak zorunda kalmasından şiddetle rahatsız olduğu şüphesizdir.
+
+Muhtemelen yeni Tablolar'ı öven Galileo, Toskana Büyük Dükü'nün, bunların yayınlanmasından kısa bir süre sonra Kepler'e bir altın zincir göndermesine neden oldu ve belki de bunu İmparator Ferdinand'ın Kepler'in, şu anda Friedland Dükü olan ve Astroloji'ye sıkı sıkıya bağlı olan büyük Wallenstein'a bağlanmasına izin vermesinin bir lütuf işareti olarak görebiliriz. Dük, üç ardışık İmparator'dan daha iyi bir ödeme
+alıcısıydı. Kepler'e bir asistan ve bir
+matbaa makinesi sağladı; ve onun için Mecklenburg'daki Rostock Üniversitesi'nde Astronomi Profesörlüğü'nü elde etti. Ancak görünüşe göre İmparator, Wallenstein'ı, Rudolphine Tabloları nedeniyle İmparatorluk hazinesinden hala borçlu olduğu 8000 kronun sorumluluğunu almaya ikna edemedi. Kepler, Ratisbon'da ödemeyi güvence altına almak için son bir girişimde bulundu, ancak oraya yaptığı yolculuk hayal kırıklığı ve yorgunluk getirdi ve onu öyle bir durumda bıraktı ki, hızla bir ateş krizine yenik düştü ve Kasım 1630'da, elli dokuzuncu yılında öldü. Cesedi Ratisbon'a gömüldü, ancak mezar taşı o zamanlar devam eden savaş sırasında tahrip edildi. Kızı Susanna, Kepler'e Ephemeris'inde yardımcı olan bir doktor olan Jacob Bartsch'ın karısı, babasının ölümünden kısa bir süre sonra kocasını kaybetti ve Tycho'nun el yazmalarını saklamakla tehdit ederek Kepler'in maaşının bir kısmını almayı başardı, ancak üvey annesi beş küçük çocuğuyla neredeyse parasız kaldı. Louis Kepler, onların yararına, önce babasının, sonra da kayınbiraderinin kendi ölümleri sırasında yayına hazırladıkları "Ay Astronomisi Rüyası" adlı eserini bastırdı. Ay'dan incelenen astronomi
+yoluyla biraz bilim içeren destan ve masalın ilginç bir karışımıdır ve Ay'ı ziyaret etme hipotezinin pratik zorluklarının üstesinden gelmek için bir rüya
+şeklinde sunulmuştur. Çok sayıda diğer yazı yayınlanmadan bırakılmıştır. Kepler'in eserlerinin tam bir baskısı için uzun süre hiçbir girişimde bulunulmamıştır. 1714'te biyografi yazarı Hantsch tarafından bir tane tasarlanmıştır ancak ortaya çıkan tek şey bir cilt mektuptur. Çeşitli bilginler konuyla ilgili
+hareket etmeyi reddettikten sonra el yazmaları İmparatorluk Rus kütüphanesi için satın alınmıştır. C. Frisch tarafından Frankfurt'ta sekiz cilt halinde bir baskı çıkarılmış ve 1858-1870 arasında aralıklarla yayınlanmıştır.
+
+Kepler'in ünü hacimli eserlerine dayanmamaktadır. Sorunlara
+yaklaşmadaki kendine özgü yöntemiyle tahıla aşırı miktarda saman karışmış olması kaçınılmazdı ve hiçbir savurma makinesi kullanmamıştır. Basitliği ve şeffaf dürüstlüğü onu her şeyi dahil etmeye yöneltti, aslında zahmetle takip ettiği sahte yolların sayısıyla övünüyor gibiydi. Samanlıkta iğne aramayı deyim yerindeyse bekleyecek biriydi, ancak ne yazık ki iğne her zaman orada değildi. Delambre şöyle diyor: "Ateşli, huzursuz, keşifleriyle kendini
+fark etmek için yanıp tutuşan o her şeyi denedi ve bir keresinde bir tanesini
+gözden geçirdiğinde, onu takip etmek veya doğrulamak onun için hiçbir iş
+zor olmadı. Tüm girişimleri aynı başarıyı elde edemedi ve aslında bu imkansızdı. Başarısız olanlar bize sadece hayal ürünü gibi görünüyor;
+daha şanslı olanlar ise yüce görünüyor. Gerçekten var olan şeyi ararken, bazen onu bulmuştur; kendini bir kimeranın peşine adadığında, başarısız olmaktan başka bir şey yapamazdı, ama o zaman bile aynı nitelikleri ve tüm zorlukların üstesinden gelmesi gereken o inatçı azmi ortaya koydu, ancak bunlar aşılamaz olanlar hariç." Berry, "Kısa Astronomi Tarihi"nde şöyle diyor: "Birisi, bölüm bölüm, berrak, daha da az doğru bir fikir olmadan okuduğunda, Kepler'in zekasının bu kadar boşa harcanmış olmasına pişman olmaktan kaçınmak imkansızdır ve bu büyük sıkıcı spekülasyon kütlesinde gömülü olan değerli sonuçlardan bazılarının sadece bir kaza sonucu elde edildiğinden şüphelenmemek zordur. Öte yandan, bu tür kazaların yalnızca büyük adamların başına gelme alışkanlığı olduğu ve Kepler'in hayal gücüne dizgin vermeyi seviyorsa, spekülatif sonuçları gözlemlenen gerçeklerle titizlikle karşılaştırmanın ve bu teste dayanamazsa en sevdiği hayallerinden çekinmeden vazgeçmenin gerekliliğinden de aynı şekilde etkilendiği unutulmamalıdır. Kepler bastıklarının dörtte üçünü yakmış olsaydı, büyük olasılıkla entelektüel kavrayışı ve yargısal ayıklığı hakkında daha yüksek bir görüşe sahip olurduk, ancak olağanüstü coşku ve çalışkanlık izlenimini ve şimdi eserlerinin incelenmesinden edindiğimiz neredeyse eşsiz entelektüel dürüstlüğü büyük ölçüde kaybederdik." 
+
+Profesör Forbes daha coşkuludur. "Astronomi Tarihi" adlı eserinde, Kepler'den "genel olarak kabul edildiği üzere, astronomik bilginin ilerlemesine katkıda bulunanlar arasında yerini doldurması en zor olan adam" olarak bahseder ve yine Kepler'in büyük kitabıyla ilgili olarak, "o zamanlar yasalarının - evrensel çekimin - anlamı hakkında bir fikri olduğu açık olmalı. O andan itibaren evrensel çekim fikri havadaydı ve birçok kişi tarafından ipuçları ve tahminler ortaya atıldı; ve zamanla
+yerçekimi yasası şüphesiz keşfedilecekti, ancak muhtemelen
+bir adamın çalışmasıyla değil, Newton yaşamamış olsaydı bile. Ancak, Kepler
+yaşamasaydı, onun Yasalarını kim keşfedebilirdi?"
+
+EK I.
+
+TARİHLER LİSTESİ.
+
+Johann Kepler, 1571'de doğdu; Maulbronn'da okul, 1586; Tuebingen
+Üniversitesi, 1589; Tuebingen'de M.A., 1591; Gratz'da Profesör, 1594;
+"Prodromus", "Mysterium Cosmographicum" ile birlikte, 1596'da yayınlandı; ilk
+evlilik, 1597; Tycho Brahe'ye Prag'da katıldı, 1600; Tycho'nun ölümü, 1601;
+Kepler'in optiği, 1603; Nova, 1604; Kuyrukluyıldızlar Üzerine, 1607; Mars Üzerine Yorumlar,
+Birinci ve İkinci Yasalar dahil, 1609; Linz'de Profesör, 1612; ikinci
+evlilik, 1613; Üçüncü Yasa keşfedildi, 1618; Kopernik Astronomisinin Özeti, 1618-1621; Rudolphine Tabloları yayınlandı, 1627; öldü, 1630.
+
+EK II.
+
+KAYNAKÇA.
+
+Kepler ve seleflerinin çeşitli sistemlerinin tam bir açıklaması için
+okuyucu, Dr. J.L.E. Dreyer'in (Cambridge Univ. Press, 1906) "Gezegensel Sistemlerin Tarihi, Thales'ten Kepler'e" adlı kitabına başvurmaktan daha iyisini yapamaz. Aynı yazarın "Tycho Brahe" adlı eseri, Kepler'in ona taktığı adla, "Astronomların Anka Kuşu" hakkında çok sayıda ayrıntı verir. Kepler ile ilgili literatürün büyük bir kısmı Almancadır, ancak Delambre ve daha modern R. Wolfs'un "Geschichte" adlı eserinden A. Berry'nin "History of Astronomy" (Üniversite Genişletme Kılavuzları, Murray, 1898) ve Profesör G. Forbes'un "History of Astronomy" (Bilim Tarihi Serisi, Watts, 1909) adlı eserlerine kadar astronomi tarihlerinde kendine yer edinmiştir.
+
+SÖZLÜK.
+
+Apogee: Bir gök cisminin yörüngesinde dünyadan en uzak olduğu nokta.
+
+Apsis: Bir cismin yörüngesinin büyük ekseninin bir ucu; bir cisim, bir veya diğer apsiste olduğunda, etrafında döndüğü cisimden en büyük ve en küçük uzaklıklardadır. Kavuşum: Dünya'nın eksenini içeren ve Güneş'in merkezinden geçen bir düzlem, Ay'ın veya bir gezegenin merkezinden de geçtiğinde, Dünya'nın aynı tarafında, Ay veya gezegen kavuşumdadır veya Dünya'nın zıt taraflarındaysa, Ay veya gezegen karşıt konumdadır. Merkür ve Venüs karşıt konumda olamazlar, ancak Güneş'e daha yakın veya daha uzak olmalarına göre alt veya üst kavuşumdadırlar.
+
+Deferent: Episikl teorisinde, düzensiz hareket, merkezi başka bir dairenin etrafında dönen bir dairenin etrafındaki hareketle temsil edilir, ikincisine deferent denir.
+
+Ekliptik: Dünya'nın Güneş etrafındaki yörünge hareketinin, gökleri büyük bir daire şeklinde kesen düzlemi. Buna böyle denmesinin sebebi, tutulmaların ancak Ay'ın Güneş ile kavuşumda veya karşıt konumda olmasının yanı sıra, yaklaşık olarak bu düzlemde olması durumunda meydana gelebilmesidir.
+
+Episikl: Merkezi başka bir daireyi tanımlayan bir dairenin çevresinde hareket eden bir nokta, ikinci dairenin merkezine göre bir episikl izler.
+
+Ekuant: Batlamyus'un eksantrik teorisinde, bir gezegen dünya olmayan bir merkez etrafında bir daire tanımladığında, hareketin tekdüze olması gerektiği kuralını karşılamak için, hareketin görünüşte tekdüze olduğu bir nokta
+bulundu[4] ve bu noktaya ekuant adı verildi.
+
+[Dipnot 4: Yani ekuant etrafındaki _açısal_ hareket tekdüzeydi.]
+
+Ekinoks: Güneş dünyanın ekvatorunun düzleminde olduğunda, gece ve gündüzün uzunlukları eşittir. Bu yılda iki kez gerçekleşir ve güneşin ekvatoru geçtiği zamanlara sırasıyla ilkbahar ekinoksu ve sonbahar ekinoksu denir.
+
+Eveksiyon: Yeni ve dolunayda kaybolan ve ilk ve son çeyrekte maksimum olan ayın ikinci eşitsizliği.
+
+Eksantrik: Episikllere alternatif olarak, dünyanın etrafında hareketi tekdüze olmayan gezegenler, eksantrik adı verilen dünyadan belirli bir uzaklıktaki bir noktanın etrafında hareket ediyormuş gibi gösterilebilir.
+
+Jeosantrik: Dünyanın merkezine atıfta bulunur; örn. Batlamyus'un teorisi.
+
+Güneş merkezli: Güneşin merkezine atıfta bulunur; örn. Kopernikçi
+olarak adlandırılan teori.
+
+Eşitsizlik: Bir gezegenin gerçek konumu ile tekdüze dairesel hareket hipotezindeki teorik konumu arasındaki fark.
+
+Düğüm: Ay'ın veya bir gezegenin yörüngesinin ekliptik düzlemini kestiği noktalar. Yükselen düğüm, gezegen kuzeye doğru hareket ederkenki düğümdür ve yörünge düzleminin ekliptikle kesiştiği çizgi düğümler çizgisidir.
+
+Örtülme: Genellikle bir gezegen veya yıldızın ay tarafından gizlenmesi anlamına gelir,
+ancak bir yıldızın bir gezegen tarafından veya bir uydunun bir gezegen tarafından veya bir gezegenin başka bir gezegen tarafından "örtülmesini" de içerir.
+
+Karşıtlık v. Kavuşum.
+
+Paralaks: Teoride gerekli olandan farklı bir noktadan gözlem yapmanın getirdiği hata,
+örneğin, gözlemler merkezden değil de dünyanın yüzeyinden yapıldığı için jeosantrik yerlerde veya gözlemler güneşten değil dünyadan yapıldığı için güneş merkezli yerlerde.
+
+Perigee: Bir gök cisminin yörüngesinde dünyaya en yakın olduğu nokta.
+
+Presesyon: Dünya kutbunun ekliptik kutbu etrafındaki yavaş hareketi nedeniyle, ekvator ekliptiği her yıl biraz daha erken keser, böylece her yıl ekinoks, yıldızlar açısından, bir önceki yılın ekinoksundan biraz önce gelir.
+
+Walter W. Bryant'ın yazdığı Kepler'in Gutenberg Projesi E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK KEPLER ***
+
+***** This file should be named 12406.txt or 12406.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/2/4/0/12406/
+
+Produced by Clare Boothby, Ben Beasley and PG Distributed Proofreaders
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     https://www.gutenberg.org/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     https://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     https://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     https://www.gutenberg.org/GUTINDEX.ALL
+
+
