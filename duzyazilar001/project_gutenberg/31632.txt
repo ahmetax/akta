@@ -1,0 +1,710 @@
+*** START OF AKTAHEADER ***
+Başlık: Project Gutenberg (1971-2009) (Gutenberg Projesi (1971-2009))
+Yazar: Marie Lebert
+Yayın Tarihi: March 13, 2010 [EBook #31632]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/31632
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: edebiyat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Project Gutenberg (1971-2009), by Marie Lebert
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Project Gutenberg (1971-2009)
+
+Author: Marie Lebert
+
+Release Date: March 13, 2010 [EBook #31632]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PROJECT GUTENBERG (1971-2009) ***
+
+*** START OF TURKISH PART ***
+Al Haines tarafından üretilmiştir
+
+PROJECT GUTENBERG (1971-2009)
+
+MARIE LEBERT
+
+NEF, Toronto Üniversitesi, 2009
+
+Telif Hakkı (C) 2009 Marie Lebert
+
+GENEL BAKIŞ
+
+İlk e-kitap, Temmuz 1971'de, Michael Hart'ın edebi eserlerin elektronik versiyonlarını oluşturmak ve bunları dünya çapında yaymak için başlattığı vizyoner bir proje olan Project Gutenberg'in eText #1'i olarak piyasaya sürüldü.
+16. yüzyılda Gutenberg, herkesin küçük bir
+maliyet karşılığında basılı kitaplara sahip olmasını sağladı. 21. yüzyılda Project Gutenberg, herkesin
+ücretsiz olarak dijital bir kütüphaneye sahip olmasını sağlayacaktı. Eleştirmenleri uzun süre Project Gutenberg'in büyük ölçekte imkansız olduğunu düşündüler. Ancak Michael, ara sıra bazı gönüllülerin yardımıyla, yıllarca kitap üstüne kitap yazmaya devam etti. Project Gutenberg ilk ivmesini 1990'da web'in
+icadıyla, ikinci ivmesini ise 2000'de kitapların kamusal alandan dijitalleştirilmesine yardımcı olmak için
+Dağıtılmış Düzeltmenlerin
+oluşturulmasıyla elde etti. 2008'de Project Gutenberg her ay 340 yeni kitap, dünya çapında 40 ayna sitesi ve her gün on binlerce kitap indiriliyordu. ABD, Avustralya, Avrupa ve Kanada'da Project Gutenberg
+web siteleri vardı ve diğer ülkelerde daha fazla web sitesi olacak.
+
+1971'DEN BUGÜNE KADAR
+
+# Başlangıç
+
+Michael Hart'ın Ocak 2009'da bir e-posta röportajında ​​hatırladığı gibi: "4 Temmuz 1971'de, Illinois Üniversitesi'nde (UI) hala birinci sınıf öğrencisiyken, yaz sıcağında eve kilometrelerce yürümektense, UI Malzeme Araştırma Laboratuvarı'ndaki Xerox Sigma V ana bilgisayarında geceyi geçirmeye karar verdim, sadece saatler sonra okula başlamak için geri dönmek için. Geceyi ve gündüzü atlatmak için biraz alışveriş yapmak üzere yolda durdum ve yiyeceklerle birlikte, Project Gutenberg'in tam anlamıyla temel taşı haline gelen 'ABD Bağımsızlık Bildirgesi'nin sahte parşömen kopyasını koydular. O gece, ortaya çıktığı gibi, ilk bilgisayar hesabımı aldım - gece vardiyasında bilgisayarı çalıştıran kardeşimin en iyi arkadaşının adıyla otostop çekiyordum. İlk Bana verilen devasa miktardaki
+bilgisayar parasına bakın, bana verilenin hakkını vermek için
+son derece değerli bir şey yapmam gerektiğine karar verdim. Bu, üniversite birinci sınıf öğrencisi için o kadar ciddi ve yoğun bir düşünce süreciydi ki,
+ilk düşüncem, tüm o bilgisayar zamanının maliyetini karşılayacak kadar değerli bir şey düşünmek için
+yeterince enerji toplamak için bir şeyler yemem gerektiğiydi. Bakkaldan aldıklarımı boşaltırken, sahte parşömen
+Bağımsızlık Bildirgesi düştü ve ışık tam anlamıyla
+çizgi filmlerdeki ve çizgi romanlardaki gibi başımın üstünde yandı... Bilgisayarların ve
+internetin geleceğinin ne olacağını biliyordum... 'Bilgi
+Çağı.' Gerisi, dedikleri gibi, tarih."
+
+Michael, kütüphanelerimizde bulunan kamu malı kitapları aramaya, bu kitapları dijitalleştirmeye ve elektronik kitapları (e-kitapları) en basit şekilde, herhangi bir donanım ve yazılımda okunabilmeleri için, düşük ASCII kümesini (Plain
+Vanilla ASCII) kullanarak depolamaya karar verdi. Bir
+kitap, basılı
+sürümde italik, kalın veya altı çizili terimler için büyük harflerle bir sayfa kümesi yerine sürekli bir metin dosyası haline gelecekti. Bir metin dosyası olarak, bir kitap kolayca kopyalanabilir, dizine eklenebilir, aranabilir, analiz edilebilir ve diğer kitaplarla karşılaştırılabilirdi. (Bu tür aramaları yapmak
+çeşitli işaretleme biçimlerinde çok daha zordur.)
+
+Project Gutenberg'in misyonu şu şekilde olacaktı: herkesin kullanımına, mümkün olduğunca çok sayıda kamu malı edebi eseri, elektronik sürümlerde, ücretsiz olarak sunmak. Yıllar sonra, Ağustos 1998'de,
+Michael bir e-posta röportajında ​​şunları yazdı: "E-metni, yeni
+ortam, kağıtla gerçek bir ilişkisi olmayan, aynı materyali sunmaktan başka, ancak insanların e-metinlere kendi rahat yollarını bulduklarında, özellikle okullarda,
+kağıdın nasıl rekabet edebileceğini göremiyorum."
+
+1971'de "ABD Bağımsızlık Bildirgesi"ni tuşladıktan sonra, Michael
+1972'de "ABD Haklar Bildirgesi"ni yazdı. Bir gönüllü 1973'te "Amerika Birleşik Devletleri Anayasası"nı yazdı.
+
+# Azim
+
+Bir yıldan diğerine, disk alanı o zamanın standartlarına göre daha da büyüyordu - henüz sabit disk yoktu - ve daha büyük dosyaların depolanmasını mümkün kılıyordu. Gönüllüler İncil'i yazmaya başladı,
+her seferinde bir kitap ve her kitap için bir dosya. Michael, gönüllülerin yardımıyla Shakespeare'in toplu eserlerini yazdı,
+her seferinde bir oyun ve her oyun için bir dosya. Shakespeare'in bu baskısı, telif hakkı yasasındaki değişiklikler nedeniyle, ne yazık ki
+hiç yayınlanmadı. Shakespeare'in eserleri kamuya aittir, ancak
+yorumlar ve notlar yayın tarihine bağlı olarak telif hakkıyla korunabilir. Shakespeare'in kamuya açık diğer baskıları birkaç yıl sonra yayınlandı.
+
+# 10 ila 1.000 e-kitap
+
+Ağustos 1989'da, Project Gutenberg 10. e-kitabını, "The King
+James Bible" (1769), her iki vasiyetname ve tüm dosyalar için 5 M'yi tamamladı.
+
+1990'da, 250.000 internet kullanıcısı vardı. Web henüz emekleme aşamasındaydı.
+Standart 360 K disklerdi.
+
+Ocak 1991'de Michael, Lewis Carroll'ın "Alice's Adventures in Wonderland" (1865) adlı kitabını yazdı. Temmuz 1991'de, James M. Barrie'nin "Peter Pan" (1904) adlı kitabını yazdı. Çocukluk edebiyatının bu iki klasiği tek bir
+diske
+sığdı.
+
+İlk tarayıcı olan Mosaic, Kasım 1993'te piyasaya sürüldü. E-metinleri dağıtmak ve gönüllü toplamak daha kolay hale geldi. 1991'den 1996'ya kadar, e-kitap sayısı her yıl iki katına çıktı, 1991'de ayda bir kitap, 1992'de ayda iki kitap, 1993'te ayda dört kitap ve 1994'te ayda sekiz kitap.
+
+Ocak 1994'te, Project Gutenberg "The Complete Works of
+William Shakespeare"i eBook #100 olarak yayınladı. Shakespeare eserlerinin çoğunu 1590 ile 1613 arasında yazdı.
+
+İstikrarlı büyüme devam etti, 1994'te ayda ortalama 8 kitap, 1995'te ayda 16 kitap ve 1996'da ayda 32 kitap.
+
+Haziran 1997'de, Project Gutenberg Howard Pyle'ın "The Merry Adventures of Robin
+Hood" (1883) adlı kitabını yayınladı.
+
+Project Gutenberg'in Ağustos 1997'de 1.000 e-kitabı vardı. 1000 numaralı e-kitap, orijinal dili olan İtalyanca "La
+Divina Commedia" de Dante Alighieri (1321) idi.
+
+Giderek daha fazla e-kitap çıktıkça, bunlar üç ana
+bölüme
+sınıflandırıldı: (a) "Alice Harikalar Diyarında", "Aynanın İçinden", "Peter Pan" ve "Ezop'un Masalları" gibi "Hafif Edebiyat"; (b) İncil, Shakespeare'in
+eserleri, "Moby Dick" ve "Kayıp Cennet" gibi "Ağır Edebiyat"; (c) "Roget's Thesaurus", almanaklar ve bir dizi ansiklopedi ve sözlük gibi "Referans Edebiyatı". (Üç bölümden oluşan bu sınıflandırma daha sonra daha ayrıntılı bir sınıflandırmayla değiştirildi.)
+
+"Hafif Edebiyat" e-kitap sayısındaki ana bölümdü. 1998'de web sitesinde açıklandığı gibi, "Işık Edebiyatı Koleksiyonu,
+kişilerin ilk etapta bilgisayara geçmesini sağlamak için tasarlanmıştır, ister okul öncesi çocuk isterse büyük büyük ebeveyn olsun. Çocukların veya büyük ebeveynlerin, sinemada Hook'u izledikten sonra veya televizyonda izledikten sonra 'Alice Harikalar Diyarında'yı okuduklarında birbirlerini 'Peter Pan'ın e-metnine götürmelerini duyduğumuzda çok seviniyoruz. Ayrıca, neredeyse her Star Trek filminin güncel Project Gutenberg e-metin sürümlerinden alıntılar yaptığını ('Khan'ın Gazabı'ndaki 'Moby Dick'ten; en sonuncusu Peter Pan'dan bir alıntı vb.) ve JFK'deki 'Aynanın İçinden'e bir gönderme olduğunu duyduk. Bu, kütüphanelerimiz için kitapları seçerken birincil endişemizdi. İnsanların konuşmalarda, filmlerde, müziklerde,
+diğer kitaplarda duydukları alıntıları arayabilmelerini istiyoruz. kolayca, tüm bu alıntıları kolayca bulunabilen bir e-metin biçiminde içeren bir kütüphaneyle."
+
+Project Gutenberg, genel halk için tasarlanmış kitapları seçmiştir.
+Yetkili baskılar sağlamaya odaklanmamıştır. "Biz, Shakespeare'deki belirli bir ifadenin cümleleri arasında ':' veya ';' olup olmadığını umursayan okuyucu için yazmıyoruz. Genel okuyucunun gözünde %99,9 oranında doğru olan e-metinler yayınlama hedefine odaklandık. Düzeltmenlerimizin tercihleri ​​ve halkın şu anda sahip olduğu bildirilen genel okuma yeteneği eksikliği göz önüne alındığında, muhtemelen bu gereklilikleri önemli ölçüde aşıyoruz. Ancak, 'yetkili bir baskı' isteyen kişi için, bunun daha uygulanabilir hale gelmesi için biraz beklememiz gerekecek. Ancak, Shakespeare ve diğer klasiklerin birçok baskısını akademik düzeyde karşılaştırmalı çalışma için yayınlamayı planlıyoruz."
+
+Ağustos 1998'de Michael Hart bir e-posta röportajında ​​şunları yazdı: "Benim kişisel hedefim 10.000 e-metini internete koymak [bu hedefe Ekim 2003'te ulaşıldı] ve eğer önemli bir destek alabilirsem, bunu 1.000.000'e çıkarmak ve ayrıca ortalama e-metin için potansiyel kitlemizi dünya nüfusunun %1,x'inden %10'un üzerine çıkarmak istiyorum, böylece hedefimizi 1.000.000.000.000 e-metin dağıtmaktan 1.000 katına, yani ABD terminolojisinde bir trilyon ve bir katrilyona çıkarmak istiyorum."
+
+# 1.000 ila 10.000 e-kitap
+
+1998'den 2000'e kadar, "çıktı" ayda ortalama 36 kitaptı.
+
+Project Gutenberg, Mayıs 1999'da 2.000 e-kitaba ulaştı. e-Kitap #2000, orijinal dili İspanyolca olan
+Cervantes'in "Don Quijote" (1605) adlı eseriydi.
+
+Project Gutenberg, Aralık 2000'de 3.000 e-kitaba ulaştı. e-Kitap #3000, orijinal dili Fransızca olan
+Marcel Proust'un "A l'ombre des jeunes filles en fleurs" (Genç Kızların Gölgesinde) adlı 3. cilt (1919) adlı eseriydi.
+
+Project Gutenberg, Ekim 2001'de 4.000 e-kitaba ulaştı. e-Kitap #4000, İngilizce olan
+"The French Immortals Series" (1905) adlı eseriydi. Bu kitap, Fransız Akademisi'nden (Academie francaise) yazarların kısa öykülerinden oluşan bir antolojidir: Emile Souvestre, Pierre Loti, Hector Malot, Charles de Bernard, Alphonse Daudet ve diğerleri.
+
+Project Gutenberg, Nisan 2002'de 5.000 e-kitaba ulaştı. 5000 numaralı e-kitap
+"Leonardo da Vinci'nin Defterleri" (16. yüzyılın başları) idi. Yayımlanmasından bu yana, bu e-kitap indirilen kitaplar arasında ilk 100'de kaldı.
+
+1988'de Michael Hart, her biri o zamanın standardı olan 360 K'lık bir diske sığacağı için "Alice'in Harikalar Diyarındaki Maceraları" ve "Peter Pan"ı yazmayı seçti. 2002'de standart disk 1,44 M'dı
+ve bir ZIP dosyası olarak sıkıştırılabiliyordu.
+
+Pratik bir dosya boyutu yaklaşık 3 milyon karakterdir, ortalama bir kitap için
+fazlasıyla uzundur. 300 sayfalık bir romanın ASCII versiyonu 1 M'dir. Hacimli bir kitap, olduğu gibi veya ZIP formatında indirilebilen iki ASCII dosyasına sığabilir. Bir e-kitabın seçilmesi, telif hakkının temizlenmesi, taranması, düzeltilmesi, biçimlendirilmesi ve birleştirilmesi için ortalama 50 saat gerekir.
+
+"Özel" kitaplar için birkaç sayı ayrılmıştır. Örneğin, eBook #1984, 1949'da yayınlanan ve kamu malı olmaktan hala çok uzak olan George Orwell'in klasiği için ayrılmıştır.
+
+2001 ve 2002'deki "çıktı" ayda ortalama 100 kitaptı.
+
+2002 ilkbaharında, Project Gutenberg'in e-kitapları web'de serbestçe erişilebilen tüm kamu malı eserlerin %25'ini temsil ediyordu.
+Birkaç ülkede binlerce gönüllü tarafından taranan ve düzeltilen
+tüm sayfaları düşünürsek etkileyici bir sonuç.
+
+Ağustos 1997'de 1.000 e-kitap, Mayıs 1999'da 2.000 e-kitap, Aralık 2000'de 3.000 e-kitap, Ekim 2001'de 4.000 e-kitap, Nisan 2002'de 5.000 e-kitap, Ekim 2003'te 10.000 e-kitap. 10000 numaralı e-kitap, 1215'te imzalanan ve ilk İngilizce anayasa metni olarak bilinen Magna Carta'ydı.
+
+Nisan 2002'den Ekim 2003'e kadar, 18 ayda koleksiyonlar iki katına çıktı,
+5.000 e-kitaptan 10.000 e-kitaba çıktı ve aylık ortalama 300 yeni e-kitap yayımlandı. Hızlı büyüme, Charles Franks tarafından Ekim 2000'de kitapların düzeltmesini birçok gönüllü arasında paylaşmak için başlatılan bir web sitesi olan Distributed Proofreaders'ın çalışmasıydı. Gönüllüler sitede bulunan kitaplardan birini seçip belirli bir sayfayı düzeltiyorlardı. Mümkünse günde bir sayfa düzeltmeleri önerilir. Kitaplar ayrıca CD'lere ve DVD'lere kopyalanıyordu. Boş CD'ler ve DVD'ler neredeyse hiçbir şeye mal olmadığından, Project Gutenberg, isteyen herkese ücretsiz bir CD veya DVD yazdırmaya ve göndermeye başladı. İnsanlar bir arkadaş, bir kütüphane veya bir okul için kopyalar yapmaya teşvik edildi. Ağustos 2003'te yayınlanan "Best of
+Gutenberg" CD'si 600 e-kitap içeriyordu. İlk Project Gutenberg DVD'si, ilk 10.000 e-kitabı kutlamak için Aralık 2003'te yayınlandı ve çoğu başlık yakıldı (9.400 e-kitap).
+
+# 10.000 ila 20.000 e-kitap
+
+Aralık 2003'te, 110 G'yi temsil eden 11.000 e-kitap vardı ve çeşitli formatlardaydı (ASCII, HTML, PDF ve diğerleri, olduğu gibi veya sıkıştırılmış). Mayıs
+2004'te, 135 G'yi temsil eden 12.600 e-kitap vardı. Ayda
+300'den fazla yeni kitap eklendiğinde (2004'te ayda 338 kitap), gigabayt sayısının her yıl iki katına çıkması bekleniyordu.
+
+Project Gutenberg Konsorsiyum Merkezi (PGCC), 2003'te
+Project Gutenberg'e bağlandı ve resmi bir Project Gutenberg
+sitesi oldu. PGCC, 1997'den beri, e-kitap üretimine odaklanan Project Gutenberg'e bir tamamlayıcı olarak mevcut e-kitap koleksiyonlarını toplamak için çalışıyordu.
+
+Ocak 2005'te Project Gutenberg'de 15.000 e-kitap vardı. 15000 numaralı e-kitap
+George Santayana'nın
+"The Life of Reason" (1906) adlı eseriydi.
+
+Peki ya diller? Şubat 2004'te 25 dilde, Temmuz 2005'te ise Sanskritçe ve Maya dilleri dahil 42 dilde e-kitap vardı. 50'den fazla kitapla en çok okunan yedi dil İngilizce (27 Temmuz 2005'te 14.548 e-kitap), Fransızca (577 e-kitap), Almanca (349 e-kitap), Fince (218 e-kitap), Felemenkçe (130 e-kitap), İspanyolca (103 e-kitap) ve Çince (69 e-kitap) idi. Aralık 2006'da 50 dilde e-kitap vardı. En çok okunan on dil İngilizce (16 Aralık 2006'da 17.377 kitapla), Fransızca (966 kitap), Almanca (412 kitap), Fince (344 kitap), Felemenkçe (244 kitap), İspanyolca (140 kitap), İtalyanca (102 kitap), Çince (69 kitap), Portekizce (68 kitap) ve Tagalogca (51 kitap) idi.
+
+Project Gutenberg de dünya çapında yayılıyordu.
+
+Temmuz 2005'te Project Gutenberg Avustralya'da (2001'de başlatıldı) 500 e-kitap vardı.
+
+Avrupa'da, Sırbistan, Belgrad merkezli Project Rastko, Aralık 2003'te
+Distributed Proofreaders Europe (DP Europe) ve Ocak 2004'te
+Project Gutenberg Europe (PG Europe)'u başlattı. Project Gutenberg
+Europe, ilk 100 e-kitabını Haziran 2005'te yayınladı. Bu kitaplar, Avrupa dil çeşitliliğinin bir yansıması olarak
+birkaç dildeydi ve
+uzun vadede 100 dil planlanıyordu.
+
+Yeni ekipler Project Gutenberg Canada, Project Gutenberg Portugal ve Project Gutenberg Philippines'i başlatmak için çalışıyordu.
+
+Aralık 2006'da Project Gutenberg'in 20.000 e-kitabı vardı. e-Kitap #20000, Jules Verne'in "Twenty Thousand Leagues Under the Seas" (Vingt mille
+lieues sous les mers, 1869) adlı eserinin İngilizce versiyonu olan sesli kitabıydı.
+
+İlk 10.000 kitabı dijitalleştirmek için 32 yıl gerekiyorsa (Temmuz 1971 ile Ekim 2003 arasında), sonraki 10.000 kitabı dijitalleştirmek için 3 yıl 2 ay gerekiyordu (Ekim 2003 ile Aralık 2006 arasında).
+
+Project Gutenberg PrePrints bölümü Ocak 2006'da Project Gutenberg'e gönderilen ve çevrimiçi olarak bulunabilecek kadar ilginç ancak henüz ana Project Gutenberg koleksiyonlarına eklenmeye hazır olmayan öğeleri toplamak için kuruldu. Bunun nedeni eksik veriler, düşük kaliteli dosyalar, kullanışlı olmayan formatlar vb. idi. Bu yeni bölüm Aralık 2006'da 379 dosyaya sahipti.
+
+# On binlerce e-kitap
+
+Aralık 2006'da Mike Cook, Project Gutenberg News'i "gutenberg.org için haber portalı" olarak başlattı. Bu web sitesi, mevcut haftalık ve aylık bültenler. Örneğin 2001'den bu yana haftalık, aylık ve yıllık üretim istatistiklerini göstermiştir.
+
+Haftalık üretim 2001'de 24 e-kitap, 2002'de 47 e-kitap, 2003'te 79 e-kitap, 2004'te 78 e-kitap, 2005'te 58 e-kitap, 2006'da 80 e-kitap ve 2007'de 78 e-kitaptı.
+
+Aylık üretim 2001'de 104 e-kitap, 2002'de 203 e-kitap, 2003'te 348 e-kitap, 2004'te 338 e-kitap, 2005'te 252 e-kitap, 2006'da 345 e-kitap ve 2007'de 338 kitaptı. Yıllık üretim 2001'de 1.244 e-kitap, 2002'de 2.432 e-kitap, 2003'te 4.176 e-kitap, 2004'te 4.058 e-kitap, 2005'te 3.019 e-kitap, 2006'da 4.141 e-kitap ve 2007'de 4.049 e-kitap oldu.
+
+Project Gutenberg Australia, Nisan 2007'de 1.500 e-kitaba ulaştı.
+
+Project Gutenberg Canada (PGC), 1 Temmuz 2007'de, Kanada Günü'nde Michael Shepard ve David Jones tarafından kuruldu. Distributed Proofreaders
+Canada (DPC) Aralık 2007'de üretime başladı. Mart 2008'de İngilizce, Fransızca ve İtalyanca olmak üzere 100 e-kitap vardı.
+
+Project Gutenberg 2007'de 15 milyon e-kitabı posta yoluyla CD ve DVD'ler aracılığıyla gönderdi. Temmuz 2006'da yayınlanan yeni bir DVD'de 17.000 e-kitap vardı.
+CD ve DVD dosyaları ayrıca (2005'ten beri) bir CD veya DVD yazıcıda CD veya DVD yazmak için indirilmek üzere ISO dosyaları olarak da üretildi.
+
+Project Gutenberg Nisan 2008'de 25.000 kitaba ulaştı. 25000 numaralı e-kitap
+William Younger Fletcher'ın "English Book Collectors" (1902) adlı eseriydi.
+
+Gutenberg herkesin düşük maliyetle basılı kitaplara sahip olmasını sağladıysa,
+Project Gutenberg herkesin USB sürücü gibi ucuz bir cihazda ücretsiz olarak bir elektronik kitap kütüphanesine sahip olmasını sağlamıştır.
+
+Şubat 2009'da PG Avustralya'daki (1.750 e-kitap), PG Avrupa'daki (600 e-kitap) ve PG Kanada'daki (250 e-kitap) e-kitaplar dahil olmak üzere 32.500 Project Gutenberg (PG) e-kitabı vardı ve diğer ülkelerde daha fazla Project Gutenberg
+web sitesi açılacak. Her gün on yeni e-kitap ekleniyor.
+
+Michael Hart'ın açıkladığı gibi: "Ek olarak, PG e-kitabı olarak nitelendirileceğinden emin olmadığımız her şeyi koyduğumuz 'PrePrints' var. Bu, anında görünürlük kazanıyor ve işlerin akışını sürdürmeye yardımcı olmak için yaratıldı.
+PrePrints'te 2.020 e-kitap mevcut. Project Gutenberg
+Consortia Center (PGCC), PDF dosyaları olarak işlenmiş 75.000'den fazla e-kitaba sahip.
+Fark nedir? Bu dosyalar, Project Gutenberg tarafından değil, diğer e-Kütüphaneler tarafından hazırlandı ve görülmek için dünya çapındaki dağıtım ağımızı kullanıyor. Dolayısıyla, bu 75.000'den fazlasını 32.500'den fazla diğer e-kitabımızla birlikte sayarsak, toplamda 100.000'den fazla e-kitap ürettik."
+
+KAMU MALLARININ KÜÇÜLMESİ
+
+Michael Hart, Temmuz 1971'de edebi eserlerin elektronik versiyonlarını yapmak ve bunları ücretsiz olarak dağıtmak için Project Gutenberg'i yarattı. 2009'da,
+Project Gutenberg her gün on binlerce indirme aldı.
+Michael'ın Ocak 2009'da hatırladığı gibi, "Bilgisayarın ve internetin geleceğinin... 'Bilgi Çağı' olacağını [Temmuz 1971'de] biliyordum. O gün, Kongre Kütüphanesi'nin tamamını tek elde taşıyabileceğimizi ve sistemin bunu kesinlikle yasadışı hale getireceğini söylemiştim... Kitlelerin eline bırakılamayacak kadar fazla güç."
+
+Project Gutenberg'in tanımına göre, "kamu malı, telif hakkından muaf ve herkese eşit şekilde ait olan kültürel eserler kümesidir", yani kitaplar için, dijitalleştirilebilen ve internette ücretsiz olarak yayınlanabilen eserlerdir. Ancak, Project Gutenberg'in görevi, kamu malına yönelik artan kısıtlamalarla daha da kolaylaşmadı. Eskiden, eserlerin %50'si kamu malıydı ve herkes tarafından serbestçe kullanılabilirdi. Yüzyıllar boyunca, özellikle 20. yüzyılda, sözde "bilgi toplumu"muza rağmen, adım adım çok daha sert bir mevzuat yürürlüğe konuldu. 2100'de, eserlerin %99'u telif hakkıyla yönetilebilirken, kamu malı için sadece %1'lik bir oran söz konusu olabilir.
+
+Project Gutenberg, web sitesinin "Telif Hakkı Nasıl Yapılır" bölümünde, kitapların kamu malı statüsünün ABD telif hakkı yasalarına göre nasıl doğrulanacağını açıklıyor. İşte bir özet: (a) 1923'ten önce yayımlanan eserler telif hakkı tarihinden itibaren en geç 75 yıl sonra kamu malı haline gelmiştir: tüm bu eserler kamu malına aittir; (b) 1923 ile 1977 arasında yayımlanan eserler 95 yıl boyunca telif hakkını korur: bu tür eserler 2019'a kadar kamu malı haline gelmeyecektir; (c) 1978'den sonra yaratılan eserler, yazar gerçek bir kişiyse, yazarın ölümünden 70 yıl sonra kamu malı haline gelir: 2049'a kadar hiçbir şey kamu malı haline gelmeyecektir; (d) 1978'den sonra yaratılan eserler, yayımlanmasından 95 yıl sonra veya yazar tüzel kişiyse, yaratılmasından 120 yıl sonra kamu malı haline gelir: 2074'e kadar hiçbir şey kamu malı haline gelmeyecektir.
+
+Her telif hakkı mevzuatı bir öncekinden daha kısıtlayıcıdır. Dijital kütüphaneler için büyük bir darbe, 27 Ekim 1998'de imzalanan 1976 Telif Hakları Yasası'ndaki değişiklikti. Michael Hart'ın Temmuz 1999'da açıkladığı gibi: "Hiçbir şey 20 yıl daha sona ermeyecek. Eskiden 75 yıl beklemek zorundaydık. Şimdi 95 yıl. Ve ondan önce 28 yıl (+ yalnızca talep üzerine olası 28 yıllık bir uzatma) ve ondan önce 14 yıl (+ olası 14 yıllık bir uzatma) vardı. Yani, görebileceğiniz gibi, bu devam eden bir politika meselesi olarak kamusal alanın ciddi şekilde aşağılanmasıdır." 1993'te The Online Books Page'in kurucusu olan John Mark Ockerbloom da 1998 değişikliğinden derinden endişelendi. Ağustos 1999'da şöyle yazmıştı:
+"Bence web'deki insanların şunu anlamaları önemlidir:
+Telif hakkı kamu yararı için tasarlanmış bir toplumsal sözleşmedir--kamu hem yazarları hem de okuyucuları içerir. Bu, yazarların yaratıcı eserlerini sınırlı süreler için münhasır olarak kullanma hakkına sahip olması gerektiği anlamına gelir, bu da mevcut telif hakkı yasasında ifade edilir. Ancak bu aynı zamanda okuyucularının telif hakkı sona erdiğinde eseri istedikleri gibi kopyalama ve yeniden kullanma hakkına sahip olduğu anlamına gelir. Şu anda ABD'de, adil kullanımı kısıtlayarak, telif hakkı sürelerini uzatarak (hatta bazılarının onları sürekli hale getirme önerileri olsa bile) ve fikri mülkiyeti yaratıcı eserlerden ayrı gerçekleri kapsayacak şekilde genişleterek (örneğin 'veritabanı telif hakkı' önerilerinde bulunanlar gibi) okuyucuların haklarını ellerinden almaya yönelik çeşitli çabalar vardır. Hatta telif hakkı yasasını tamamen potansiyel olarak çok daha külfetli bir sözleşme yasasıyla etkili bir şekilde değiştirmeye yönelik öneriler bile vardır. (...)
+Bu tartışmadaki paydaşlar gerçekle yüzleşmeli ve eserlerin hem üreticilerinin hem de tüketicilerinin kullanımlarında meşru çıkarları olduğunu kabul etmelidir. Fikri mülkiyet daha sonra güç oyununun çok sık olduğu gibi ('büyük paralar ve haydut korsanlar') değil de, prensipler dengesi üzerinden müzakere edilirse, bazı makul düzenlemeler bulabiliriz." 
+
+Michael Hart Temmuz 1999'da şöyle yazmıştır: "Telif hakkı uzantılarına benden daha fazla karşı çıkan olmamıştır, ancak Hollywood ve büyük yayıncılar Kongremizin bundan kamuoyunda bahsetmemesini sağladı. 
+Sürmekte olan telif hakkı tartışması türü tamamen pratik değildir. 'Bilgi Çağı'nın 'Toprak Sahipleri' tarafından ve onlar için yürütülmektedir. 'Bilgi Çağı' mı? Kimin için?"
+
+Elbette. İçinde yaşadığımız büyük "bilgi çağı" hakkında düzenli olarak duyuyoruz, ancak bilginin yayılmasıyla ilgili yasaların sıkılaştırıldığını görüyoruz. Çelişki açıktır. Bu sorun, telif hakkı yasasının "yazarın ömrü artı 50 yıl"dan "yazarın ömrü artı 70 yıl"a geçtiği birkaç Avrupa ülkesini de etkiledi, bu da "pazarın küreselleşmesine" yanıt olarak ulusal telif hakkı yasalarının "uyumlaştırılması" için başarılı bir şekilde lobi yapan içerik sahiplerinin baskısının ardından gerçekleşti. Dijital sürümlerin telif hakkını düzenlemek için ilgili WIPO uluslararası anlaşmalarının ardından, Ekim 1998'de Amerika Birleşik Devletleri'nde Dijital Milenyum Telif Hakkı Yasası (DMCA) onaylandı ve Avrupa Birliği Telif Hakkı Direktifi (EUCD) Mayıs 2001'de Avrupa Komisyonu tarafından onaylandı. Michael Hart ve Project Gutenberg CEO'su Greg Newby'ye göre, "Ocak 2009 itibariyle, dünyadaki ayrı kamu malı kitapların toplam sayısı 20 ila 30 milyon arasındadır ve bu 5 milyon halihazırda internettedir ve tüm kolay bulunabilen kitaplar tamamlanana kadar her yıl bir milyon daha bekliyoruz. İnsanlar oranın ikiye katlanmaya devam edemeyeceğini söyleyen gerçekleri düşünmeye başlamadan önce yaklaşık 10 milyon tamamlanmış olacaktır. ABD'de neredeyse sonsuza kadar sürecek yeni telif hakları, Mickey Mouse telif hakkı yasaları, tam anlamıyla Mickey Mouse ve Winnie-the-Pooh vb. üzerindeki telif hakkı yasaları, tüm mevcut telif haklarının öngörülebilir gelecekte sona ermesini engellediğinde büyüme sürecini aniden durduracaktır." 
+
+GEÇMİŞTEN GELECEĞE
+
+Project Gutenberg'in sonuçları yalnızca sayılarla ölçülmez. Sonuçlar ayrıca projenin sahip olduğu büyük etkiyle de ölçülebilir. İnternetteki en eski ücretsiz kitap üreticisi olan Project Gutenberg, yalnızca ikisini saymak gerekirse, klasik İskandinav (İskandinav) edebiyatı için
+Projekt Runeberg ve klasik Alman edebiyatı için
+Projekt Gutenberg-DE gibi birçok başka dijital kütüphaneye ilham kaynağı olmuştur.
+Bunlar sırasıyla 1992 ve 1994'te başlamıştır.
+
+Projekt Runeberg, kamu malı olan kitapların ilk İsveç dijital kütüphanesiydi ve Project Gutenberg'in ortağıydı. Aralık 1992'de öğrencilerin bilgisayar kulübü Lysator tarafından, Linkoeping Üniversitesi ile işbirliği içinde, klasik İskandinav edebiyatı ve sanatının ücretsiz elektronik baskılarını oluşturmak ve toplamak için gönüllü bir proje olarak başlatıldı. 1998'de yaklaşık 200 e-kitap tam metin olarak mevcuttu. Ayrıca, daha fazla koleksiyon geliştirme aracı olarak 6.000 İskandinav yazarından oluşan bir liste de vardı.
+
+Projekt Gutenberg-DE, 1994 yılında Project Gutenberg'in ortağı olarak oluşturulan, kamu malı kitapların ilk Alman dijital kütüphanesiydi. Metinler, kısa metinler için bir web sayfası ve daha uzun çalışmalar için bölüm başına bir tane olmak üzere birkaç web sayfasıyla çevrimiçi okumaya açıktı. Yazarların ve başlıkların alfabetik bir listesi ve her yazar için kısa bir biyografi ve bibliyografya vardı. Project Gutenberg, idari ve mali yapısını asgari düzeyde tutuyor. Sloganı şu üç kelimeye uyuyor: "Az, çoktur." Asgari kurallar, gönüllülere ve yeni fikirlere çok yer veriyor. Amaç, politikacılardan ve diğerlerinden gelen baskıyı önlemek için kredilerden ve diğer fonlardan ve geçici kültürel önceliklerden bağımsızlığını sağlamaktır. Amaç ayrıca, çalışmalarının sadece on yıllar boyunca değil, yüzyıllar boyunca kullanılacağından emin olabilen gönüllülere saygı gösterilmesini sağlamaktır. Gönüllüler, posta listeleri, haftalık veya aylık haber bültenleri, tartışma listeleri, forumlar ve vikiler aracılığıyla ağ kurabilirler.
+
+Bağışlar, çoğunlukla bilgisayarlar, tarayıcılar ve boş CD'ler ve DVD'ler olmak üzere ekipman ve malzeme satın almak için kullanılır. 2000 yılında kurulan PGLAF'ın (Project
+Gutenberg Edebiyat Arşivi Vakfı) yalnızca üç yarı zamanlı çalışanı vardır.
+
+Daha genel olarak, Michael Hart'a elektronik kitabın (e-kitap) mucidi olarak daha fazla itibar edilmelidir.
+E-kitabı etimolojik anlamıyla ele alırsak - yani elektronik bir dosya olarak dağıtılmak üzere dijitalleştirilmiş bir kitap - Temmuz 1971'de Project
+Gutenberg ile doğmuştur. Bu, 2000'lerin başında yaygınlaşan tescilli formatlardaki çeşitli ticari lansmanlardan çok daha rahatlatıcı bir babalıktır. "E-kitap" teriminin Amazon, Barnes & Noble, Gemstar ve diğerlerinin tekeli olması için hiçbir neden yoktur. Ticari olmayan
+e-kitap, tam bir e-kitaptır ve "kötü" bir versiyon değildir, tıpkı ticari olmayan
+elektronik yayıncılığın tam teşekküllü bir
+yayınlama yolu olması ve ticari elektronik yayıncılık kadar değerli olması gibi.
+Project Gutenberg e-metinleri--aslen kullanılan terim--alandaki son terminolojiyi kullanmak için
+e-kitaplar olarak yeniden adlandırıldı.
+
+Temmuz 1971'de, 100 kişiye 5K'lık bir dosya göndermek o zamanın
+ağını çökertirdi. Kasım 2002'de, Project Gutenberg, Şubat 2001'de ilk kez kamu malı bir eser olarak yayınlanmasından kısa bir süre sonra, düzinelerce veya yüzlerce megabaytlık dosyalar içeren "İnsan Genomu Projesi"nin 75 dosyasını yayınlayabildi. 2004'te, 140 ABD doları değerindeki bir bilgisayar sabit diski, Kongre Kütüphanesi'nin tamamını barındırabilirdi. Ve muhtemelen gezegenimizdeki tüm kitapları barındırabilecek bir USB sürücüye veya eşdeğer bir depolama diskine sadece birkaç yıl uzağız. Peki ya metin dışındaki belgeler? Eylül 2003'te Project Gutenberg, insan tarafından okunan e-kitaplar içeren Project Gutenberg Sesli E-Kitaplar'ı başlattı. Bilgisayarda oluşturulan e-kitaplar, ana koleksiyonlardaki mevcut elektronik dosyalardan talep edildiğinde "dönüştürülür". Gelecekte sesle etkinleştirilen talepler mümkün olacaktır. Aynı zamanda başlatılan
+Nota Alt Projesi, dijitalleştirilmiş müzik notaları ve birkaç müzik kaydı içerir. Bazı durağan resimler ve hareketli resimler de mevcuttur. Bu koleksiyonlar gelecekte hızla yaygınlaşacaktır.
+
+Ancak kitapların dijitalleştirilmesi öncelik olmaya devam ediyor ve her gün indirilen on binlerce kitapla
+doğrulandığı gibi büyük bir talep var.
+
+Örneğin, 31 Temmuz 2005'te, gün için 37.532 indirme, hafta için 243.808 indirme ve ay için 1.154.765 indirme vardı.
+
+6 Mayıs 2007'de, gün için 89.841 indirme, hafta için 697.818 indirme ve ay için 2.995.436 indirme vardı.
+
+8 Mayıs 2008'de, gün için 115.138 indirme, hafta için 714.323 indirme ve ay için 3.055.327 indirme vardı.
+
+Bu sayılar, ana dağıtım sitesi olan ve gutenberg.org web sitesine de ev sahipliği yapan ibiblio.org'dan (Kuzey Karolina Üniversitesi, Chapel Hill'de) yapılan indirmelerdir. İnternet Arşivi, yedek dağıtım sitesidir ve depolama ve işleme için sınırsız disk alanı sağlar. Project Gutenberg'in birçok ülkede 40 ayna sitesi vardır ve yenilerini aramaktadır. Ayrıca kitaplarını paylaşmak için P2P kullanımını teşvik eder.
+
+İnsanlar ayrıca "En İyi 100"den, yani bir önceki gün, son 7 gün ve son 30 gün için en iyi 100 e-kitap ve en iyi 100 yazardan e-kitap seçebilirler.
+
+Project Gutenberg e-kitapları ayrıca "dijital uçurumu" kapatmaya yardımcı olabilir.
+Eski bir bilgisayarda veya sadece birkaç dolara mal olan ikinci el bir PDA'da okunabilirler. Güneş enerjisiyle çalışan PDA'lar uzak bölgelerde iyi bir çözüm sunar.
+
+Makine çeviri yazılımının kitapları 100 dilden birinden diğerine
+dönüştürebileceği umulmaktadır. Bundan on yıl sonra (Ağustos 2009), makine çevirisi %99 oranında
+tatmin edici olarak değerlendirilebilir - bu konuda araştırmalar devam ediyor - edebi klasiklerin birçok dil seçeneğiyle
+okunmasına olanak tanır. Project Gutenberg ayrıca
+çeviri yazılımları ve insan çevirmenleri bir araya getirmekle ilgileniyor,
+tıpkı OCR yazılımının artık düzeltmenlerin çalışmalarıyla bir araya gelmesi gibi.
+
+Project Gutenberg'in başlamasından 38 yıl sonra, Michael Hart
+kendisini tüm hayatını projesine adamış bir işkolik olarak tanımlıyor. Kendisini pragmatik ve ileri görüşlü bir fedakar olarak görüyor.
+Yıllarca bir deli olarak görüldü ama artık saygı görüyor. Sonsuza dek kullanılıp kopyalanabilen
+serbestçe erişilebilir e-kitaplar ve herkes için asgari maliyetle okuma ve kültür yoluyla dünyayı değiştirmek istiyor.
+
+Project Gutenberg'in misyonu sekiz kelimeyle ifade edilebilir: "Herkes tarafından ve mümkün olan her yolla e-kitapların yaratılmasını ve dağıtılmasını teşvik etmek", yeni fikirler, yeni yöntemler ve yeni yazılımlar uygularken.
+
+Telif Hakkı (C) 2009 Marie Lebert
+
+Project Gutenberg'in Project Gutenberg'inin (1971-2009) sonu, Marie Lebert
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PROJECT GUTENBERG (1971-2009) ***
+
+***** This file should be named 31632.txt or 31632.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/1/6/3/31632/
+
+Produced by Al Haines
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
