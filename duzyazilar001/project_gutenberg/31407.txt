@@ -1,0 +1,1137 @@
+*** START OF AKTAHEADER ***
+Başlık: Delco Manuals: Radio Model 633, Delcotron Generator (Delco Kılavuzları: Radyo Model 633, Delcotron Jeneratör)
+Yazar: Delco-Remy Division
+Yayın Tarihi: February 26, 2010 [EBook #31407]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/31407
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: ekonomi
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Delco Manuals: Radio Model 633, Delcotron
+Generator, by Delco-Remy Division
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Delco Manuals: Radio Model 633, Delcotron Generator
+       Delco Radio Owner's Manual Model 633, Delcotron Generator Installation
+
+Author: Delco-Remy Division
+
+Release Date: February 26, 2010 [EBook #31407]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DELCO MANUALS ***
+
+*** START OF TURKISH PART ***
+Gerard Arthus, Meredith Bach ve https://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[Yazıcının Notu: Bu e-kitap, Delco'nun iki kılavuzunu içerir: Delco Radyo
+Kullanıcı Kılavuzu Model 633 ve Delcotron Jeneratör Kurulumu. Bunlar
+bir ayırıcıyla ayrılmıştır.
+
+Delco Radyo
+Kullanıcı Kılavuzu Model 633'ün 10. ve 11. sayfalarındaki listede,
+Tulsa için ikinci istasyon satırı (ki bu CFRB 690'dır) kaldırılmıştır,
+çünkü bunun aşağıdaki istasyon satırının yanlışlıkla yeniden basıldığına inanılmaktadır. Bu sayfalardaki gereksiz başlıklar ve (dip)notlar da
+kaldırıldı.]
+
+DELCO RADYO
+KULLANICI KILAVUZU
+
+MODEL 633
+
+KURULUM VE ÇALIŞTIRMA TALİMATLARI
+
+Delco Radyo'nun bu modeli, HEADER tipi hoparlörle çalışmak üzere tasarlanmış altı tüplü bir süperheterodin alıcıdır.
+Otomotiv radyo mühendisliğindeki en iyileri içerir, Syncro-Tuning--şimdiye kadar geliştirilmiş en yeni, en verimli anten devresi ve Hassasiyet Kontrolü içerir.
+
+Hoparlör ve uzaktan kumanda ünitesi ayrı paketlerde tedarik edilir
+ve ünitenin kullanılacağı aracın markasına ve modeline bağlı olarak çok çeşitli tip ve stillerde mevcuttur.
+
+Paket şunları içerir:
+
+_Parça No._
+
+1 Alıcı Ünitesi, tüplerle birlikte
+
+1 Hoparlör Ünitesi (Adaptör hariç) 1210934
+
+1 Kombine Delme Şablonu ve Radyo-Gösterge Paneli Ara Parçası
+
+2 Şasi Montaj saplaması, 1/4--20 x 2-1/2 1207562
+
+2 Şasi Montaj Sarsıntıya Dayanıklı Rondela 1208565
+
+2 Şasi Montaj Somunu, 1/4--20 120375
+
+1 Anten Kablosu 1209622
+
+1 Distribütör Bastırıcı 1207818
+
+1 Jeneratör Kondansatörü 1849014
+
+1 Ampermetre Kondansatörü 1209333
+
+KURULUM
+
+=Anten--=
+
+Anten paketindeki Talimatlara bakın.
+
+=Şasi--=
+
+Bu alıcı, herhangi bir kablolama değişikliği olmadan Pozitif veya Negatif topraklamalı herhangi bir araca takılabilir.
+
+Mümkün olduğunda, şasiyi gösterge panelinin sürücü tarafına, direksiyon kolonunun üzerine, çıkarılabilir kapak plakası zemine bakacak şekilde yerleştirin.
+Bu konum, kasanın ucundaki kontrol millerini aracın merkezine bakacak şekilde yerleştirir.
+
+Pakete dahil olan şablon aracılığıyla montaj deliklerinin konumunu bulun. 3/8" matkap kullanarak delikleri açın ve gösterge panelinin motor tarafındaki deliklerin etrafındaki boyayı kazıyın, böylece bu alıcı için başka bir toprak bağlantısı olmadığından iyi bir toprak bağlantısı sağlayın.
+
+Tüm tüplerin ve vibratörün yuvalarına iyice yerleştirildiğinden ve tüm ızgara klipslerinin ilgili tüplerin üst kapaklarına düzgün şekilde yerleştirildiğinden emin olun.
+
+Altı voltluk bir akü varsa, alıcıyı kalıcı olarak araca takmadan önce normal çalışıp çalışmadığını kontrol edin.
+Anten kablosu ve kontrol ünitesi bu test için geçici olarak bağlanabilir.
+
+İki alıcı montaj saplamasını alıcı kasasının arkasına, "pürüzlü" dişleri alıcıya en yakın olacak şekilde yerleştirin, böylece bu saplamaların alıcı parçalarına zarar verecek kadar kasaya girmediğinden emin olun.
+
+Alıcıyı, gösterge paneli ile alıcı kasası arasında bir ara parça olarak delme şablonunu kullanarak takın. Şasi montaj saplamalarının üzerine iki adet sarsıntıya dayanıklı rondela takın. Ardından montaj saplamalarını sıkın. somunları, alıcı kasasının gösterge paneline iyice topraklanmasını sağlamak için.
+
+=Anten Kablosu--=
+
+Siyah anten kablosunu araç antenine takın ve anten kablosundaki konektörü
+Kurulum Diyagramlarında gösterildiği gibi alıcı şasisine takın. Anten kablosu kalkanının pigtailini uygun bir gövde cıvatasına topraklayın. Anten kablosunu motor bölmesinden uzak tutun, böylece giriş tarafından ateşleme girişiminin alınması
+olasılığını önleyin.
+
+=Hoparlör--=
+
+Hoparlör paketindeki Talimatlara bakın. =Uzaktan Kumanda Ünitesi--=
+
+Uzaktan kumanda paketindeki Talimatlara bakın.
+
+KONTROL ÜNİTESİ AYARI
+
+Ses kontrolü ve istasyon seçici milleri aşağıdaki şekilde OTOMATİK
+olarak ayarlanır:
+
+1. Kontrol kablolarını kasadaki ilgili burçlarına yerleştirin
+(ses kontrolü, alıcı arabaya takıldığında üst burçtur),
+kendilerine oturana kadar ve ardından ayar vidalarını sıkın.
+
+2. İstasyon seçici düğmesini durana kadar sağa (saat yönünde) çevirin--sonra durana kadar düğmeyi saat yönünün tersine çevirin. Kadran artık
+kaydedilmiştir.
+
+3. Düğme sertçe dönene kadar ses kontrol düğmesini saat yönünde çevirin. Ses kontrolü artık tam olarak açıktır.
+
+=Motor Girişimini Ortadan Kaldırma--=
+
+Ampermetre kondansatörünü, yay klipsinin yanındaki kendinden dişli vida aracılığıyla sigorta tutucusunu içeren telin ucundaki yay klipsine bağlayın. Kondansatörün diğer terminalini uygun bir
+noktada topraklayın.
+
+Jeneratör kondansatörünü jeneratörün jeneratör tarafına Bağlantı Şemasında gösterildiği gibi takın. Esnek kabloyu jeneratörün alan terminaline BAĞLAMAYIN.
+
+Orta dağıtıcı kablosunu çıkarın ve dağıtıcı bastırıcıyı yerine
+yerleştirin. Ardından dağıtıcı kablosunu bastırıcıya takın.
+
+=Delco Syncro-Tuning'i Ayarlama--=
+
+Alıcıyı açın.
+
+Kadranda 55 ile 65 arasında kayıt yapan ve radyoya hoparlörde SES kontrolü TAM AÇIKKEN, 
+zor duyulabilen bir sinyal veren bir radyo istasyonunu ayarlayın. Alıcı kasasının ucunda anten kablosu bağlantısının yanında küçük bir çıtçıt düğmesi kapağı bulunur. Küçük bir tornavidayla kaldırarak çıtçıt düğmesini
+çıkarın.
+
+Küçük kapakla kapatılan deliğe yerleştirilen küçük bir tornavidayla Delco Syncro-Tuning kondansatör ünitesini hoparlörde maksimum çıkış için ayarlayın. Aynı istasyonda kalarak, maksimum ses için istasyon seçiciyi yeniden ayarlayın ve maksimum çıkış için Delco Syncro-Tuning
+Condenser ünitesini yeniden ayarlayın. Alıcı artık araç anteninizle en iyi şekilde çalışacak şekilde ayarlandığı için bu ünitenin daha fazla ayarlanmasına gerek kalmayacaktır. Çıtçıtlı düğme kapağını değiştirin.
+
+ÇALIŞTIRMA
+
+= Alıcıyı Açmak İçin--=
+
+Bazı kontrol ünitelerinde kadranın ortasının altında küçük bir düğme bulunur. Alıcınız bu tür bir kontrolle donatılmışsa, bu küçük düğmeyi
+gittiği kadar içeri itin. Diğer kontrol ünitelerinde bir
+açma-kapama anahtarı ve ses kontrol düğmesi kombinasyonu bulunur. Bu tür bir kontrolü açmak için, anahtar tıklayana ve kadran aydınlanana kadar düğmeyi saat yönünde çevirin.
+
+= Ses Kontrolü--=
+
+Ses kontrol düğmesini sağa doğru çevirmek alıcının çıkışını artırır ve sola doğru çevirmek çıkışı azaltır.
+
+= Alıcı Nasıl Ayarlanır--=
+
+Ses kontrol düğmesini yaklaşık olarak yarıya kadar sağa çevirin. İstasyon seçme düğmesini yavaşça döndürün, ta ki bir istasyon duyulana kadar. Bu istasyonu, en az miktarda arka plan gürültüsü duyulana kadar ayarlayın.
+Ses seviyesini, ses kontrol düğmesini ayarlayarak istediğiniz seviyeye yükseltin veya azaltın. Dikkatli ayarlama, tüm istasyonlardan daha iyi ton kalitesiyle sonuçlanacaktır.
+
+Alınan program güçlü bir yerel istasyondan geliyorsa, yerel
+parazit, hassasiyet kontrolünü LOCAL konumuna getirerek pratik olarak ortadan kaldırılabilir. Daha sonra, o istasyonun programının mümkün olan en iyi
+reprodüksiyonunu elde edersiniz.
+
+[Resim: =KURULUM DİYAGRAMLARI=
+
+TOPRAKTAN PANEL
+
+KASA ARA PARÇASI VE DELME ŞABLONU
+
+PANEL
+
+AMPERMETRE KLİPSİ
+
+AMPERMETRE KONDANSER NO. 1209333
+
+ANTEN KABLOSU (SİYAH)
+
+SES KONTROL BURCU
+
+SİGORTA
+
+BOBİN
+
+ANTEN KOMPANSATÖR KONDENSERİNİ AYARLAMAK İÇİN TIRNAKLI DÜĞME KAPAĞINI ÇIKARIN
+
+İSTASYON SEÇİCİ BURCU
+
+DAĞITICI BASTIRICI NO. 1207818
+
+TOPRAKTAN ARABAYA
+
+GÜÇ KABLOSU
+
+DUYARLILIK KONTROLÜ
+
+TON KONTROLÜ
+
+ARMATÜR TERMİNALİ
+
+SAHA TERMİNALİNE BAĞLAMAYIN
+
+SES KONTROLÜ
+
+İSTASYON SEÇİCİ
+
+JENERATÖR KONDENSER 1849014
+
+ÖNERİLEN JENERATÖR KONDENSER BAĞLANTILARI
+
+AÇMA-KAPAMA ANAHTARI]
+
+=Duyarlılık Kontrolü--=
+
+Duyarlılık kontrolü alıcı kasasının alt sol ön köşesinde bulunur ve LOCAL konumuna çevrildiğinde alıcının duyarlılığını sokak arabalarından, elektrikli tabelalardan, X-Ray makinelerinden, elektrikli makinelerden, elektrik hatlarından vb. kaynaklanan paraziti büyük ölçüde azaltacak kadar azaltır. Ayrıca zayıf istasyonlardan kaynaklanan paraziti de ortadan kaldırır.
+
+Kontrol MESAFE konumuna çevrildiğinde alıcının maksimum hassasiyette çalışmasına izin verilir.
+
+=Ton Kontrolü--=
+
+Ton kontrolü, alıcı kasasının alt, sağ ön köşesinde bulunur. Bu kontrol, operatörün isteğine göre ayarlanır.
+Ancak, çoğu deneyimli operatör, araç yüksek hızlarda çalıştırıldığında maksimum tiz tepkisi için ayarlamayı tercih eder.
+
+=Alıcıyı Kapatmak İçin--=
+
+Kontrol kafasının ortasında bir anahtar düğmesi varsa, düğmeyi kapalı konuma gelene ve alıcı çalışmayı durdurana kadar çekin.
+Alıcıyı kilitlemek istiyorsanız, düğmeyi kontrol ünitesinden tamamen çıkarın ve yanınızda taşıyın.
+
+Açma-kapama düğmesi ve ses kontrol düğmesi kombinasyonuna sahip bir kontrol ünitesi kullanıyorsanız, alıcı çalışmayı durdurana kadar düğmeyi sola çevirin.
+
+SERVİS
+
+Alıcınız çalışmazsa, önce ampermetre kablosundaki sigorta yuvasında bulunan sigortayı kontrol edin. Tüplerinizi ve vibratörünüzü test amacıyla çıkarmak istiyorsanız, konumları aşağıda belirtilmiştir.
+
+[Resim: _Tube Complement_
+
+2 Tip 6D6
+1 Tip 6A7
+1 Tip 6B7
+1 Tip 6B5
+1 Tip 84]
+
+Alıcınızda yapılacak herhangi bir ek servis çalışması için
+yetkili bir radyo servis istasyonuna başvurulmalıdır.
+
+Evdeyken yerel
+
+BAYİNİZİ arayın.................................
+
+AT.....................................
+
+TELEFON....................................
+
+RADYO KURULUM TARİHİ...................
+
+ANA YAYIN İSTASYONLARI[A]
+
+ŞEHİRLERE GÖRE ALFABETİK OLARAK DÜZENLENMİŞTİR
+
+=Abilene, Kans.=
+KFBI 1050
+
+=Albuquerque, N. M.=
+KOB 1180
+
+=Alexandria, Va.=
+WJSV 1460
+
+=Amarillo, Tex.=
+KGRS 1410
+WDAG 1410
+
+=Ames, Iowa=
+WOI 640
+
+=Asheville, N. C.=
+WWNC 570
+
+=Atlanta, Ga.=
+WSB 740
+
+=Atlantic City, N. J.=
+WPG 1100
+
+=Baltimore, Md.=
+WBAL 1060
+
+=Belle Plaine (Moose Jaw), Sask.=
+CJRM 540
+
+=Billings, Mont.=
+KGHL 950
+
+=Birmingham, Alabama=
+WAPI 1140
+
+=Bismarck, N. D.=
+KFYR 550
+
+=Boise, Idaho=
+KIDO 1350
+
+=Boston, Mass.=
+WBZ 990
+WBZA 990
+WEEI 590
+WHDH 830
+WNAC 1230
+
+=Brookings, S. D.=
+KFDY 550
+
+=Brooklyn, N. Y.=
+WBBR 1300
+
+=Buffalo, N. Y.=
+WBEN 900
+WGR 550
+WKWB 1480
+
+=Chattanooga, Tenn.=
+WDOD 1280
+
+=Chicago, Ill.=
+WBBM 770
+WCFL 970
+WENR 870
+WGN 720
+WJJD 1130
+WLS 870
+WMAQ 670
+WMBI 1080
+KYW 1020
+
+=Charlotte, Kuzey Karolina=
+WBT 1080
+
+=Cincinnati, Ohio=
+WLW 700
+
+=Clay Center, Nebr.=
+KMMJ 740
+
+=Cleveland, Ohio=
+WHK 1390
+WTAM 1070
+
+=Colorado Springs, Col.=
+KVOR 1270
+
+=Council Bluffs, Ia.=
+KOIL               1260
+
+ =Covington, Ky.=
+   WCKY 1490
+
+ =Dallas, Teksas.=
+   KRLD1040
+   WFAA800
+
+ =Denver, Colo. =
+   KLZ 560
+   KOA 830
+
+ =Des Moines, Ia.=
+   WOC 1000
+
+ =Detroit, Michigan=
+   WWJ 920
+   WJR 750
+   WXYZ1240
+
+ =Eau Claire, Wis.=
+   WTAQ1330
+
+ =Edmonton, Alta.=
+   CJCA 730
+
+ =Elmira, N. Y.=
+   WESG1040
+
+ =Fargo, N.D.=
+   WDAY 940
+
+ =Fayetteville, Ark.=
+   KUOA 1260
+
+ =Fort Wayne, Ind.=
+   vay be 1160
+
+ =Fort Worth, Teksas=
+   KTAT 1240
+   WBAP800
+
+ =Gainesville, Fla.=
+   WRUF 830
+
+=Gary, Ind.=
+RÜZGÂR 560
+
+=Great Falls, Mont.=
+KFBB 1280
+
+=Harrisburg, Pa.=
+WBAK 1430
+
+=Hartford, Conn.=
+WDRC 1330
+WTIC 1060
+
+=Havana, Küba=
+CMCQ 780
+CMK 730
+CMW 590
+CMX 890
+
+= Hollywood, Cal.=
+KFWB 950
+
+=Honolulu, Hawaii=
+KGU 750
+
+=Hot Springs Milli Parkı, Ark.=
+KTHS 1040
+
+=Houston, Teksas=
+KPRC 920
+
+=Indianapolis, Ind.=
+WFBM 1230
+
+=Jackson, Miss.=
+WJDX 1270
+
+=Jacksonville, Fla.=
+WJAX 900
+
+=Kalamazoo, Mich.=
+WKZO 590
+
+=Kansas City, Mo.=
+KMBC 950
+WDAF 610
+WOQ 1300
+
+=Knoxville, Tenn.=
+WNOX 560
+
+=La Crosse, Wis.=
+WKBH 1380
+
+=La Prairie ( Montreal), Que.=
+CRCM 910
+
+=Lawrence, Kansas=
+WREN 1220
+
+=Lansing, Mich.=
+WKAR 1040
+
+=Lincoln, Nebr.=
+KFAB 770
+
+=Little Rock, Ark.=
+KLRA 1390
+
+=Long Beach, Cal.=
+KFOX 1250 KGER 1360
+
+=Los Angeles, Kal.=
+   KECA 1430
+   KFAC 1300
+   KFI 640
+   KHJ 900
+   KNX 1050
+
+ =Louisville, Ky.=
+   DALGA 940
+   820 NEDİR
+
+ =Lulu Adası (Vancouver Adası), B. C.=
+   CRCV1100
+
+ =Madison, Wis.=
+   WHA 940
+
+ =Mexico City, Meksika=
+   XEB1030
+   XEN711
+   XEW 910
+   XFG 638
+   XFI 818
+   XEFO 940
+   XETR 610
+
+ =Miami Sahili, Fla.=
+   WMBF1300
+
+ =Miami, Fla.=
+   WIOD 1300
+   WQAM560
+
+ =Milwaukee, Wis.=
+   WTMJ 620
+
+ =Minneapolis, Minn.=
+   WCCO 810
+   WDGY1180
+   WLB 1250
+   WRHM1250
+
+ =Montreal, Que.=
+   CKAC 730
+
+ =Nashville, Tenn.=
+   WLAC 1470
+   WSM650
+
+ =Newark, N.J.=
+   WAAM 1250
+   YENİ 1250
+   WOR 710
+
+ =New Orleans, Los Angeles=
+   WDSU 1250
+   WWL 850
+
+ =New York, N. Y.=
+   WABC 860
+   WEAF 660
+   WFAB1300
+   WJZ 760
+   WLWL1100
+   WOV 1130
+
+ =Norfolk, Nebr.=
+   WJAG1060
+
+ =Kuzey alanı, Minn.=
+   WCAL1250
+
+ =Oakland, Cal.=
+   KLX 880
+
+ =Oklahoma, Oklahoma.=
+   WKY 900
+   KOMA 1480
+
+ =Omaha, Nebr.=
+   Vay 590
+
+ =Ottawa, Ontario=
+   CRCO 880
+
+ =Philadelphia, Pa.=
+   WCAU 1170
+
+ =Piedras Negras, Coahuila=
+   XEPN 585
+
+ =Pittsburgh, Pa.=
+   KDKA 980
+   WCAE1220
+   WJAS 1290
+
+ =Portland, Ben.=
+   WCSH 940
+
+ =Portland, Cevher.=
+   KEX 1180
+   KGW620
+   KOIN 940
+
+ =Pullman, Yıkama.=
+   KWSC 1220
+
+=Raleigh, Kuzey Karolina=
+WFTF 680
+
+=Reading, Pa. =
+   WEEU 830
+
+ =Reynosa, Tamaulipas=
+   XEAW 956
+
+ =Richmond, Va.=
+   WRVA1110
+
+ =Rochester, N. Y.=
+   WHAM 1150
+
+ =Salt Lake City, Utah=
+   KDYL 1290
+   KSL1130
+
+ =San Antonio, Teksas=
+   KTSA 1290
+   WOAI 1190
+
+ =San Diego, Kal.=
+   KFSD 600
+   KGB1330
+
+ =San Francisco, Cal.=
+   KFRC610
+   KGO 790
+   KPO 680
+   KTAB 560
+   KYA 1230
+
+ =San Juan, Porto Riko=
+   WKAQ1240
+
+ =Schenectady, N. Y.=
+   WGY 790
+
+ =Seattle, Washington=
+   KJR 970
+   KOL 1270
+   KOMO 920
+   KTW 1220
+
+ =Shreveport, La.=
+   KTB 1450
+   KWKH 850
+
+ =Sioux Şehri, Iowa=
+   KSCJ1330
+
+ =Sioux Falls, S.D.=
+   KSOO 1110
+
+ =Spokane, Yıkama.=
+   KFPY1340
+   KGA 1470
+   KHQ 590
+
+ =Stevens Noktası, Wis.=
+   WLBL 900
+
+ =St. Joseph, Mo.=
+   KFEQ 680
+
+ =St. Louis, Mo.=
+   KMOX 1090
+   KWK 1350
+   WEW 760
+
+ =St. Paul, Minn.=
+KSTP 1460
+
+=Strathmore (Calgary), Alta.=
+CFCN 1030
+
+=Superior, Wis.=
+WEBC 1290
+
+=Syracuse, N. Y.=
+WFBL 1360
+
+=Tallmadge, Ohio=
+WADC 1320
+
+=Tampa, Fla.=
+WDAE 1220
+
+=Toledo , Ohio=
+WSPD 1340
+
+=Topeka, Kansas=
+WIBW 580
+
+=Toronto, Ontario=
+CRCT 960
+
+=Tulsa, Okla.=
+KVOO 1140
+
+=Twp. Kingston (Toronto), Ontario=
+CFRB 690
+
+=Villa Acuna, Coahuila=
+XER 735
+
+=Wheeling, Batı Virginia=
+WWVA 1160
+
+=Wichita, Kansas=
+KFH 1300
+
+=Windsor, Ontario=
+CKLW 840
+
+=Winnipeg, Man. =
+CKY 910
+
+=Yankton, S. D.=
+WNAX 570
+
+=York, Pa.=
+WORK 1000
+
+=Zion, Ill.=
+WCBD 1080
+
+[A] Listelenen istasyonlar yalnızca 1000 watt gücündeki (veya daha yüksek) istasyonları içerir.
+
+NOT: Çağrı harflerini izleyen numaralar yaklaşık kadran ayarı.
+
+GARANTİ
+
+(_Bu Garanti ABD dışında geçerli değildir._)
+
+Delco Radyonuz Arabanızla Aynı Garantiyi Taşır
+
+"Üretici, kendisi tarafından üretilen her yeni radyo alıcı setinin normal kullanım ve servis altında malzeme ve işçilik kusurlarından ari olduğunu garanti eder, bu garanti, orijinal alıcı için söz konusu otomatik radyo alıcı setinin kurulumundan sonra, doksan (90) gün veya 4.000 mil (hangisi önce sona ererse) içinde, herhangi bir parçanın veya parçalarının
+fabrikasında veya belirlenmiş Şubelerinde
+iyi hale getirilmesiyle sınırlıdır, nakliye ücretleri önceden ödenmiş ve muayenesi sonucunda kusurlu olduğu anlaşılan
+bu garanti açıkça diğer tüm
+açık veya zımni garantilerin ve kendi tarafındaki tüm diğer yükümlülüklerin veya sorumlulukların yerine geçer ve üretici ne üstlenir ne de yetkilendirir herhangi bir başka kişinin, ürünlerinin satışı ile bağlantılı olarak herhangi bir başka sorumluluğu üstlenmesi."
+
+"Bu garanti, üreticinin yetkili Servis İstasyonları dışında, üreticinin takdirine göre kararlılığını etkileyecek şekilde herhangi bir şekilde onarılmış veya değiştirilmiş olan veya üretici tarafından yapılmamış veya yetkilendirilmemiş parçalar üzerinde olan herhangi bir radyo alıcı setine uygulanmaz. değiştirme veya başka amaçlar için kullanılmamış veya
+kötüye kullanım, ihmal veya kazaya maruz kalmamış."
+
+UNITED MOTORS SERVICE, INC.
+
+DETROIT, MICH.
+
+Form No. 2095 ABD'de basılmıştır. =================================================================================
+======================================================================================
+
+Delco
+
+Yeniden inşa edildi 1 55-D
+Delcotron Jeneratör 1845985
+
+Delco-Remy tarafından yeniden inşa edildi. General Motors Bölümü, Anderson, Indiana,
+46011
+ABD'de Üretildi 275829 ABD'de Basıldı
+
+12-17-71 DR-7086
+
+SERVİS DELCOTRON(R) JENERATÖRÜNÜN KURULUMU
+
+1. TOPRAKLANMIŞ KABLOYU AKÜDEN AYIRTIN.
+
+2. Değiştirilen üniteyle eşleşmesi için kayar halka uç çerçevesini döndürmek gerekirse, geçmeli cıvataları çıkarın, çerçeveleri istenen
+pozisyona döndürmek için yeterince ayırın ve geçmeli cıvataları değiştirin.
+
+DİKKAT: Uç çerçeveyi çok fazla ayırmak, fırçaların yağlanmış şafta düşmesine neden olur. Bu olursa, uç çerçeveyi tamamen çıkarın, fırçaları temiz bir bezle temizleyin, yayları ve fırçaları bir pimle (kürdan) konumlarında tutarak yeniden monte edin.
+Çerçeveler yeniden monte edildikten sonra pimi çıkarın.
+
+DELCOTRON(R) JENERATÖRÜNÜN ENTEGRE REGÜLATÖRLÜ KURULUMU SIRASINDA, KAYMA HALKASI UÇ ÇERÇEVE MONTAJ PARÇASINA GEREK YOKTUR.
+
+3. Orijinal fanı, kasnağı ve bileziği yeniden kullanırken, şaft somununu 40 ila 60 lb. ft'ye kadar sıkın. Tork anahtarı yoksa, şaftın ucuna 5/16" altıgen anahtar takın ve yaylı rondela düzleşene kadar somunu sıkın.
+
+4. Delcotron(R) Jeneratörünü takın ve kayış gerginliğini, montaj cıvatasının sıkılığını kontrol edin ve tüm elektrik bağlantılarının temiz ve güvenli olduğundan emin olun.
+
+ÖNEMLİ: Delcotron(R) Jeneratörünü asla aküye bağlı olmadan çalıştırmayın. Delcotron(R) Jeneratörünü asla polarize etmeye çalışmayın.
+
+DELCO-REMY General Motors Bölümü Anderson, Indiana BPI
+
+Proje Gutenberg E-Kitabının Sonu Delco Kılavuzları: Radyo Model 633,
+Delcotron Jeneratörü, Delco-Remy Bölümü tarafından
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK DELCO MANUALS ***
+
+***** This file should be named 31407.txt or 31407.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/3/1/4/0/31407/
+
+Produced by Gerard Arthus, Meredith Bach, and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

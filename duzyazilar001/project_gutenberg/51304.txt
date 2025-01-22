@@ -1,0 +1,999 @@
+*** START OF AKTAHEADER ***
+Başlık: A Touch of E Flat (Mi Bemolün Bir Dokunuşu)
+Yazar: Joe Gibson
+Yayın Tarihi: February 26, 2016 [EBook #51304]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/51304
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of A Touch of E Flat, by Joe Gibson
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: A Touch of E Flat
+
+Author: Joe Gibson
+
+Release Date: February 26, 2016 [EBook #51304]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A TOUCH OF E FLAT ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Mary Meehan ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+A Touch of E Flat
+
+JOE GIBSON tarafından
+
+DICK FRANCIS tarafından resimlendirilmiştir
+
+[Yazıcının Notu: Bu e-metin
+Mayıs 1957'de Galaxy Science Fiction'dan üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının yenilendiğine dair hiçbir kanıt ortaya çıkarmamıştır.]
+
+Uyarı: Kimsenin size
+silah doğrultmasına asla izin vermeyin; su tabancası gibi
+zararsız görünen bir şey bile olsa--bu bir Soğutma tabancası olabilir!
+
+Çoğu insan dünyada bir şeylerin yanlış olduğunu bulabilir ve bazıları bunu bir
+uygulama haline getirir, ancak çok az insan bununla ilgili bir şeyler yapma şansı yakalar--ve bu az sayıdaki kişi genellikle tarihe yankılanan bir
+çarpışmayla geçer.
+
+Buralarda işler oldukça gürültülü.
+
+En başından beri, bu hesabı yazmayı
+amaçlamıştım. Ama kesinlikle St. Luke's Memorial Hastanesi'nin İyileşme Koğuşu'nda polis gözetimi altındayken bunu yazmayı planlamamıştım. Beni buraya
+götüren polis memurunun ilgisini ve teşvikini de beklemiyordum. Yine de, Ohio Eyalet Polisi'nden Çavuş Nicolas Falasca, hem yaptığımız uzun tartışmalarda hem de bu el yazmasının hazırlanması için laboratuvarımdan notları ve verileri edinmemde çok yardımcı oldu.
+
+Ama korkarım ki bu el yazmasında benden çok fazla olacak -- ki aceleyle iddia ediyorum ki, amacı hiç de bu değil. Bunun için özür dilerim. Gerçek şu ki, herkesin görebileceği gibi benden çok fazla var. Benim kullanmayı tercih ettiğim terim ise tombul.
+
+Ancak kayıtlara geçmesi açısından, Albert Jamieson Cooling olarak Doğumdan Onaylı'yım ve buna kendi mütevazı çabalarımla, M.S. ve Ph.D. gibi birkaç garip alfabetik sembol eklendi. Şu anda küçük, özel olarak bağışlanmış bir Teknoloji kolejinde profesörlük yapıyorum, hem nükleer fizik hem de biyokimyada kayda değer bir geçmişim var, oldukça iyi caz plaklarından oluşan seçkin bir koleksiyonum var, barbekü kaburgalara karşı özel bir düşkünlüğüm var ve son zamanlarda bir mucit oldum.
+
+Eğer bir şeyi, örneğin boynuz çerçeveli gözlükleri atladıysam, o zaman, küçük siyah sakalımın ucuna bakılırsa, 36 spor ceketten oluşan gardırobum olmalı. Eşler mi? Eh, cazip geldi ama bir profesörün maaşı nafakayı karşılayamaz.
+
+* * * * *
+
+Soğutma Etkisi'ni keşfetmem tamamen tesadüf eseri oldu.
+Ama bu kaza beni iki kez neredeyse öldürüyordu. Bunun beklediğimden daha fazlası olmadığı iddia edilebilir, ancak "doğal olarak gerçekleşen"
+icat yalnızca bir şey olarak adlandırılabilir.
+
+Yeni bir silah icat ettim.
+
+Doğru - bir Soğutma tabancası.
+
+Ancak bir zamanlar bir savaş bilimcisi olduğum için,
+icadımın silahlara doğru yönelmesi gerektiği ve
+en yakın olana uzanmak için güçlü bir şekilde cazip gelmem gerektiği söylenmelidir. Savaş bilimcisi terimi o kadar çok kullanıldı ve o kadar yaygınlaştı ki,
+eski AEC'de altı hafta kadar az zaman geçiren herkes için evrensel olarak kabul edildi. Ben altı yıl oradaydım ve
+gönüllü olarak ayrıldım.
+
+O dönemin resmi politikaları ve kurumlar arası siyaseti, Dünya'nın etrafında dönen üç kalıcı uzay uydumuz varken ve bunlardan biri Rusken, artık pek önemli görünmüyor. Artık bir silah yarışında değiliz; her iki taraf da o yarışmada
+Nihai Silah'a ulaştı. Artık kimse gizli sırları saklamıyor veya ifşa etmiyor.
+Ay'da ucuza işlenmeyi bekleyen o kadar çok silikon zengini bazalt var ki, eğer oraya gidebilirsek...
+
+69'da, resmi haber bültenleri hala atölyeden çıkardığımız her yeni oyuncağın ne kadar
+büyük olduğunu, bir öncekinden ne kadar
+daha korkunç yıkımlara yol açacağını övüyordu. Bu, halkla ilişkiler uzmanlarımız (ve diğer tarafta Kızılların Propaganda Bakanlığı) tarafından ortaya atılan saçmalıktı, çünkü insanlar daha iyisini bilmiyordu. Aslında, en büyük patlamayı yapan oyuncaklarımız, silah olarak en kötü fiyaskolardı.
+
+Bir düşmanı yok ederek onu yenemezsiniz. Yüz milyon ceset sorun değil, sadece buldozerleri kullanın ve onlar yoldan çekilsin.
+Ama yüz milyon yaşayan, nefes alan, donan, aç, pis ve perişan insan cehennem gibi bir kargaşaya yol açabilir. Ve genellikle de açarlar. Bazılarımız Rusya'nın büyük şehirlerinin üçte birini bile yok etmemize gerek olmadığını düşündük. Aslında çok daha az.
+
+Dr. Charles Whitney bunu söyleme hatasını yaptı. Ve onu kovdular.
+Dedikoduya göre Doc'un vicdanı ters tepti. Ben daha iyisini biliyorum; patlamayı
+gördüm. Sabrıydı, vicdanı değil.
+
+Neyse, iki hafta sonra istifamı verdim. Çıktım,
+ağzımı kapalı tuttum ve küçük bir üniversite profesörlüğüne yerleştim. Şimdi bu olaylardan bahsediyorum çünkü Soğutma silahının gelişiminin aslında orada başladığına inanıyorum.
+
+* * * * *
+
+Yıkıcı silahların asla başaramayacağı şeyleri görmeye başlamıştım.
+En azından 1969 Ağustos'una kadar, tamamen yok olma tehdidiyle savaşı caydırmışlardı --ve belki de Whitney kovulmayı hak ediyordu--ama gelecek için hiçbir garanti vermiyorlardı. Ve fethedilmiş bir ulusu özgürleştiremez veya insanları bir diktatörün gizli polisinden koruyamazlardı.
+
+Daha iyi bir şeye sahip olmamızın zamanı gelmişti. (Elbette sahiptik ama AEC'nin sadece küçük bir kısmı atom roketlerinin geliştirilmesinde yer alıyordu.)
+Bunu yapana kadar, sadece hareket ettiğimizi hissedebiliyordum.
+
+Ama her şey geçen dönem uğraştığımız o soğuk araştırmayla hızla ilerlemeye başladı. Aslında, General Atomics'in o küçük problemi Webster Tech'teki Soğuk Laboratuvarımıza atması benim hatamdı - AEC'deki geçmiş hizmetim, nükleer fizik ve biyokimyayı birleştiren alışılmadık geçmişim ve profesörlük kanadım altında biriktirmeyi başardığım lisansüstü ekibim. Tüm anlaşma nazikçe Noel çorabıma tıkıştırıldı ve öğretim üyelerinin geri kalanı nazikçe bununla oynamam için beni yalnız bıraktı - tabii ki normal derslerimi vermeye devam etmem şartıyla. Belki de elimi tutmam iyi oldu çünkü bu araştırma hattı hızla hiçbir yere varamadı. Sıcaklıkları neredeyse mutlak sıfıra düşürülmüş malzemelerin düpedüz soğuk olduğunu bulduk. Onları oda sıcaklığına getirin ve bazen garip şeyler oluyor - sadece ısınmaya çalışmaktan ibaret değil. Bu sürtünme kaybı değil, radyasyon hasarı değil ve entropi değil.
+
+Gösteriyor.
+
+Ultrasonik ve radyant ısı arasında bir yerde hızla çarpan ve derinlere giden ve aynı hızla çıkan bir radyant enerji bandı var ve oda sıcaklığına maruz kalan neredeyse mutlak sıfır nesnelerle olan her neyse onunla tetikleniyor. Ama bütün bunlar o kadar önemsiz ki çoğu pratik amaç için göz ardı edilebilir.
+
+_Bunu_ bulmak General Atomics'e otuz bin dolara mal oldu,
+ama Cold Lab'daki çocuklarımız Mad Scientist'in fenomeni yeniden üreten süper parçalayıcı aletini kurmakta çok eğlendiler.
+
+Sonra, o gece -- neredeyse dört ay oldu -- laboratuvarda yalnızdım, ışıkları kapattım, kapatıp eve gitmek üzereydim. Ve şeyin köşesine takıldım. Tırmanırken bir şekilde ayağımı içine
+attım. Ve çerçevesini kavramak, kendimi sabitlemek için uzandığımda,
+elim düğmeye bastı. Çalıştı ve ben dışarı çıktım.
+
+Hala açıktı--sanırım--bilincimi yeniden kazandığımda,
+beton zemine yayılmış bir şekilde. Düğmeyi açtım ve kabloyu
+duvar prizinden çektim.
+
+* * * * *
+
+Eve vardığımda, kafamda ne bir çürük ne de bir şişlik vardı. Ne de ayağımda, bacağımda veya hatta ayakkabımın tabanında
+en ufak bir yanık belirtisi.
+
+Salı gecesiydi.
+
+Ertesi gün, laboratuvar kapalı kaldı. Ama o gece içeri girdim,
+ışıkları açtım ve makineyi inceledim. Kesinlikle
+hiçbir hasar belirtisi, yanık yalıtım, hiçbir şey yoktu. Elimi içine
+soktum ve şalteri kapattım. Her zamanki sessiz uğultusu ile açıldı. Hiçbir şey
+olmadı.
+
+Halletmecinin Salı gecesi kampüsün tüm sigortalarını kimin
+attığını hala merak ettiğini duymam neredeyse bir hafta sürdü. Sonra
+bilincimi yeniden kazandığımda ışıkları tekrar
+açmadığımı hatırladım.
+
+Söndürdüğümde kör olmuştum, makineye
+tökezlemiştim, düşmüştüm, geri kalan her şey. Ama gece görüşüne
+doğal olarak kavuşmuştum. O zamanlar laboratuvar pencerelerinden içeri sızan ay ışığında yeterince iyi görüyordum.
+Tüm ışıklar--makine de--sönmüş, sigortalar atmış ve ben fark etmemiş olabilirdim. Makinenin açık olduğunu varsaymıştım çünkü anahtarı kapalıydı, anahtarı açtım ve fişi çektim.
+
+Bu yüzden olanlar devrelerde muazzam bir güç fışkırmasını veya laboratuvar prizlerimizde taşıdığımız güçten çok daha az güç gerektirmişti. Bu yüzden teçhizat üzerindeki baskıları eve götürdüm ve değişiklikler yapmaya başladım. Bu da daha fazla değişikliğe yol açtı. Bu da üniversitelerde öğrettiğimiz türden bir şey doğru çalışmadığında bilim adamlarının başvurduğu oldukça karmaşık bir matematiğe yol açtı. Anladım: çok
+düşük bir güç girişi. Ve daha fazlasını elde ettim.
+
+Bu şey bir tür görünmez ışın. Sadece çok şık görünümlü bir elektronik teçhizatın namlu bobinlerinden dar bir ışın olarak yayılabilir veya yayınlanabilir. Düşük güç şarttır; daha fazla güç sadece teçhizatı ısıtmakla ve yalıtımı dumanlamakla kalmaz, aynı zamanda ışını da ateşlemez.
+
+Bunu geçen yıl Güneş'e değil, saate göre yakınlaştırdığım siyah lalelerde (Biyokimyasal Araştırma Projesi 187) denedim
+(Proje 187-A) ve ışınların her dokunuşunda çiçekleri kapandı. Radyoaktivite nedeniyle tepeleri kabaran mor mantarlar
+hiçbir etki göstermedi.
+
+Basit bir "A" piliyle çalışıyor. Ancak transistörsüz gibi davranan bir transistör bağlantısı var. Moleküler yapısı titreşiyor, ki titreşmemesi gerekirdi ve Mi bemol civarında keskin, tiz bir nota yayıyor. Korkarım ki o gürültüden kurtulmak için
+oldukça hantal bir susturucu gerekecekti.
+
+Ancak teknik olarak en tuhaf şey, o görünmez ışın demeti.
+Elektrik şokunun hiçbir etkisi yok. Bunun elektro-nörolojik yönlerine girmeyeceğim - kimse bunu anlayamaz - belki bir nörolog hariç - ama basit gerçek şu ki bu ışın kurbanı anında uyutur _ve başka hiçbir şey yapmaz_!
+
+Sinir ganglionlarında tıkanıklık veya kasılma yok, hatta "hafif" şokun geçici bir katarsisi bile yok! Görünüşe göre sinir sisteminin "beyaz maddesine" oldukça zararsız bir şekilde dörtnala tırmanıyor, sonra "gri maddeye" -beyin, omurga- iyi bir darbe indiriyor. Acısız bir şekilde.
+
+Kısacası, kurban sadece yere yığılıp yarım saat kadar horluyor
+ve sonra sanki kısa bir şekerlemeden uyanıyor, ama belki biraz şaşkınlıkla. Hiçbir yaralanma yok.
+
+* * * * *
+
+Doğal olarak Soğutma Etkisinin nasıl çalıştığını ve neden olduğunu öğrenmek istedim - ama bunun _ne_ olduğunu asla öğrenemeyebilirim. Hipnoz mu? Yapay olarak
+uyandırılan, anında uyku? (Kurbanlar uyanmadan
+ele alınabilir.) Elbette, merak ediyordum. Başkası daha önce yapmış olsa bile, kendi memnuniyetim için adım adım yapardım.
+
+Kimse yapmamıştı ve bu kolay değildi. Dönemin geri kalanında, hatta
+final sınavlarında bile, her boş anımı Soğutma
+Etkisi'ne adadım. Yine de, o son diyagramları çizim
+tahtama
+almam için iki ay daha sıcak ter dökmem gerekti -yaz
+tatili neredeyse bitti.
+
+Ama bir kere yaptığımda, işte oradaydı, en azından temel devreleri ve bileşenleri. Tek yapmam gereken onları etrafta dolaştırmak, onları ince, tüp şeklindeki bir kutuya
+yerleştirmek, "A" pilini içeren oyulmuş bir dipçik koymak ve ona bir düğmeli tetik vermekti. Bu verilerle, bir elektrik tamirhanesindeki herhangi bir iyi tezgah işçisi işi yapabilirdi. Bunu bodrum laboratuvarımda plastik ve ıvır zıvırdan yaptım.
+
+Telefonun Kırmızı Kitabına bir göz attığımda yerel bir
+üreme çiftliğinin numarasını aldım ve bir çağrı kısa süre sonra küçük, tel örgülü bir taşıma kafesinde bir çift şişman, meraklı
+kobay getirdi. Veranda duvarının ötesinde, evim doğrudan açık otlaklara bakıyor ve bunun ötesinde,
+vadinin aşağısında, yonca tarlası başlıyor. Bir temel çizgiden hızlı bir şekilde yürüyerek ve biraz kaba, yayvan üçgenlemeyle,
+yeni silahımın etkinliğini çok yakın mesafeden bin yardaya kadar --yani kobaylar üzerinde--belirledim.
+
+Dokuz yüz yardada bile onları devirdi.
+Bin yardada, dürbünden anlayabildiğim kadarıyla,
+hiçbir etkisi olmadı.
+Hayvanlar bunu fark ettiklerine dair hiçbir işaret vermediler. Bu ve mekanizmanın doğası, uygulamasının kesinlikle sınırlı olduğunu gösteriyor. İster bir bayanın çantasına sığacak kadar küçük, ister bir atom topu kadar büyük yapın, maksimum etkili menzili
+yine de 900 yard olarak kalacaktır. Ve sadece kobaylarda değil.
+
+Yakın mesafeden bir adama ne yaptığını kendi deneyimimden biliyordum. Ancak, tüm kampüsteki sigortaların atması oradaki gerçek tehlikeydi. O büyük makinedeki ayağımın pozisyonunda bile en ufak bir değişiklik olsaydı, o gece kesinlikle elektrik çarpmış olurdum.
+
+Beni neredeyse öldürdüğü ilk seferdi.
+
+* * * * *
+
+Soğutma Etkisi, ameliyat için anestezi olarak işe yaramaz. Uyuyan kobaylar, onları kafeslerinden alıp tuttuğumda, hatta bacaklarını çektiğimde bile uyanmasalar da, mücadele ediyorlar. Uyuyan hayvanlar gibi, rahatsız edilmek istemedikleri için direniyorlar. Yine de, onları çimdikledim ve zıplattım ve her zaman yaklaşık yarım saat uyudular. Bu şok ve değil. Bu uyku ve değil.
+
+Ama bunun bir silah olduğunu kesinlikle biliyordum. Yeni bir silah. Ve canlı adam,
+_ne_ bir silah!
+
+Kobayları verandaya saldım, kaçmalarına izin verdim, sonra ikisini de
+hızlı bir ışın darbesiyle devirdim.
+
+* * * * *
+
+Pusuya düşen bir adam, yürüyen bir birliğin tamamını devirebilir!
+
+Silahlar, sürekli olarak alanı taramalarını sağlayan dönen bir mekanizmaya sahip üçayaklara monte edilebilirdi. 900 yarda yaklaşan herkes
+aşağı inerdi--sonra uyanır, tekrar ayağa kalkar ve her yarım saatte bir tekrar aşağı inerdi. İnsan veya hayvan. Silahlar tüm bir sektörü kapsayacak şekilde dizilebilir, sonra tek bir ana şaltere bağlanabilir ve tek bir gözlemci piyadenin ilerlemesini durdurabilir.
+
+Ancak güdümlü füzeleri veya havan toplarını bile durduramazlar. Ayrıca bir tank veya sığınaktaki gözetleme deliklerinden saptıramazlar. Sert bir yüzeyden yansıyan ışından o kadar fazla "dağılma" olmaz.
+Ancak, biraz var - kafesin tel örgülü açıklıklarından ateş ettim ve ışının doğrudan arka duvardan yansımasını sağladım, genellikle kobayları doğrudan vurmadan yere serdi.
+Bir mendili kolayca deldi, kalın katlandığında bile.
+Ancak ince bir cam bardak onu durdurdu.
+
+Neredeyse her yerden siper alabilirdiniz - eğer ne zaman vurulacağınızı biliyorsanız. Hafif plastik bir zırh giyebilirdiniz - eğer
+ek yerleri kapatılmışsa ve yaklaşık elli poundluk bir klima ünitesine bağlı tutarsanız. Eğer bir motorsiklet kullanıyorsanız hiç sorun değil.
+
+Bir işgalci orduyu durdurmazdı ama işgalle birlikte kesinlikle
+şeytanı uyandırabilirdi. Neredeyse herkes silah yapabilirdi. Bir cep radyosunun bileşenleri, birkaç parça bakır tel, birkaç sakız ve bir çakı göz önüne alındığında, tahtadan bir tane kesebilir veya
+plastik bir oyuncak su tabancasına koyabilirdim.
+
+Ama Silahlı Kuvvetler'in şu anda _istemediği_ şey yeni bir gizli
+silah! Şu anda Dünya'nın cephaneliklerini gözetleyen insanlı bir uyduları var, önceden belirlenmiş hedeflere
+atılmaya hazır büyük atom füzeleri var - ama derin uzayın korkutucu bilinmezliği
+sıkıntılarını ürpertiyor. Ve ayrıca, o Generallere bir tankı bile durduramayacak bir şeyi satmaya çalıştığımı hayal edebiliyorum.
+
+Korkarım o gece mutfak monitörünü kapatmayı unuttum.
+Servolar öğleden önce aradığım akşam yemeği menüsünü dağıttı, sonra soğuduğunda
+alıp götürdü. Atık işlemcisinin kekeleyen uğultusu normalden biraz daha uzun sürdüğünde fark ettim.
+
+* * * * *
+
+Ne kadar zor bir durumda olduğumu çok net bir şekilde anladım.
+
+Silahlı Kuvvetler şüphesiz icadımı bastırırdı. Hayatları
+zaten yeterince kabus gibiydi -- uzayda ne bulacaklarını veya bunun işleri nasıl etkileyeceğini
+bilmiyorlardı. Dahası, beni
+bastırırlardı! AEC ile imzaladığım sözleşmede işi tamamen yasal olarak yapacak bazı geriye dönük maddeler vardı. O zaman, kilometrelerce güvenlik görevlisi,
+radar tuzakları, tuzak telleri ve elektrikli çitler dışında hiçbir şeyin olmadığı hoş, küçük bir saklanma yeri.
+
+Ama bu bekleyebileceğim en nazik kaderdi. Bir sürü
+büyük ve küçük diktatör kafamın uçmasını isteyebilir.
+
+En bariz alternatif icadı kendim bastırmaktı.
+Deneylerimin tüm izlerini yok etmek ve unutmak.
+Kendimi
+dünyanın buna hazır olmadığına ikna etmek.
+
+Bunu yapmış olmam oldukça mümkündü --eğer sürekli olarak her şeyi kapatmayı unutmasaydım--ve eğer tatsız bir küçük grup olmasaydı.
+
+Büyük Jake Claggett ve üç adamının
+bilime ve insanlığın geleceğine istemeden yaptıkları katkılarla
+anılmaları için küçük bir şans var. Aslında, onların katkısı en büyük tesadüf olarak kabul edilebilir --Büyük Jake'in yabancı spor arabalara olan düşkünlüğünü saymazsak.
+
+Ama bu daha sonra oldu.
+
+Suçlular ve suç her zaman oldu ve sadece
+Claggett'ın çetesi o gün büyük haberdi. Başka bir
+dolandırıcı grubu da olabilirdi.
+
+Neyse, saat dokuz olduğunda, duvar televizyonum her zamanki ses ve renk serenatına
+başladı, tam da açılış reklamının bitmesine yetecek kadar zamanlanmıştı, Bay Winkle'ın haber yorumunu izlemek için yerleşmeme izin verdi. 23 Ağustos 1979'du. O öğleden sonra saat ikide,
+Big Jake Claggett ve çetesi Bellefontaine County Savings
+Bank'ı soydu ve 23.000 dolarla kaçtı.
+
+Çeteden biri yaşlı banka görevlisini tabancasının namlusuyla bayılttı. Görevli, olası bir kafatası kırığı nedeniyle hastaneye kaldırıldı. Tanıklar, Big Jake'in görevliye vuran silahlı adama küfür ettiğini ve onu "kendine gel!" diye uyardığını söyledi.
+
+Bu benim için yeterliydi. Dünyaya yeni silahımı vermek zorundaydım. (Çavuş Falasca ile görüştükten sonra buna daha da ikna oldum.
+Bu ülkedeki hemen hemen her profesyonel suçlu, Soğutma tabancası için neredeyse her şeyini verirdi. O zaman cinayetten yargılanma riski olmadan silahlı soygun yapabilirlerdi!) Hem suçluların hem de polis memurlarının bunu memnuniyetle karşılayacağını görebiliyordum ve bunun basit bir nedeni vardı.
+
+Öldürmüyor, sakat bırakmıyor veya yaralamıyor. Soygunlarda ve benzeri suçlarda muazzam bir artışa neden olsa bile, kurbanları ölmemiş olurdu.
+Bir adamın ölümündense yüz soygun daha iyidir.
+
+Ayrıca, bunun suç amaçlı kullanımını engelleyebileceğime dair bir fikrim vardı.
+
+* * * * *
+
+Öncelikle bunun bastırılmasını engellemeliydim. Bu sorunu çözersem, tabancaları üretmemem, reklamını yapmamam ve herhangi bir ateşli silah şirketinin .22 tüfekleri satabildiği gibi satmam için hiçbir neden kalmazdı. Ancak muhtemelen bunların üretimini yerleşik bir firmaya yaptırmam daha iyi olur.
+
+O zaman bunu yazmayı planlamaya başladım. Hiçbir sırrın bastırılamayacağı tek bir koşul vardır: _sır olmaktan
+çıktığı zaman!_
+
+Hazırlık gerektirdi. Bir adamın araştırmada kullandığı taslak diyagramlar ve karalanmış notlar yayınlanmaya pek uygun değil. Teknik
+özelliklerin açık ve anlaşılır terimlerle ifade edilmesi gerekiyordu.
+Tam verilerin son taslağa ulaşması yaklaşık iki hafta sürdü. Ayrıca, bu yayının önemini ortaya koymak ve en azından olası sonuçlarını ima etmek en iyisi gibi görünüyordu.
+
+Ve sonra, tabii ki, bir yayıncı bulmam gerekiyordu.
+
+Bu beni şaşırttı.
+
+Dahası, şu anda Vali ve Ohio Eyalet Polisi'nin tam desteğine sahip olmasam bile, yine de şaşıracağımı düşünüyorum.
+_Bu polis memurları Soğutma silahları istiyor!_ Ama o zamanlar bile,
+Dünya'da bunu bilen tek kişi benken,
+bir tür çözüm
+formüle etmeyi başardım.
+
+Herhangi bir yayıncı, bundan korkardı, oysa sadece o, ben ve
+matbaacılar bunu biliyordu. En azından, yayınlamayı düşünmek için bile, Federal bir ihtiyati tedbir riskiyle karşı karşıya kalırdı.
+
+Ama artık bir sır değilse ve henüz _genel bilgi_ değilse, çoğu yayıncı onu kapardı. Örneğin, bir
+üretim firması bunu daha önce düşünmüş ve
+Soğutma tabancalarını üretime sokmayı planlıyorsa...
+
+Dr. Charles Whitney şu anda
+Ortabatı'daki nükleer enerji şirketleri, radyasyon laboratuvarları
+ve üniversiteler için özel aletler ve ekipmanlar tasarlayan ve üreten
+Cleveland Atomic Equipment Company'nin başkanı ve baş hissedarıdır.
+İşi AEC'den kovulduktan sonra kurmuş ve sonraki on yıl boyunca kademeli olarak
+büyütmüştür. Webster Tech'te bazı aletlerimiz var.
+
+Ayrıca, Whitney ve ben yıllar boyunca yüzeysel ama dostça bir temas sürdürmüştük, bu yüzden doğal olarak ilk önce onu düşündüm.
+İş için üretim düzenine sahipti; dahası, bunu yapacak
+cesareti de vardı. Tek yapmam gereken onu ikna etmekti.
+
+Ne yazık ki, o zamana kadar aptalca korkmuştum. Ben, icadı dünyayı değiştirecek olan gizli, sinsi küçük adamdım. Dr. Whitney ile basit bir televizyon görüşmesi yaptım--ama ofisinde tamamen normal bir randevu önermek yerine, ona gizlilik yemini ettirmek ve kırsalda gizli bir toplantı ayarlamak zorunda kaldım! O gece dolunay olup olmadığını görmek için bir takvime bakmadığını merak ediyorum.
+
+Aslında, hiç gelmediğini merak ediyorum. Yağmur yağıyordu.
+
+* * * * *
+
+Kuru havada Indian Lake'e ulaşmak için en az altı saat gerekiyor, Federal Otoyolu'nun 125 mil hız sınırına rağmen.
+Columbus Dönüşü'nden geçtikten sonra, kıvrımlı ilçe yollarıyla engebeli, kırsal bir ülkeden batıya ve kuzeye doğru geri dönmeniz gerekiyor. O labirent gibi yollarda ortalama 30 milden fazla hız yapabilmek için mükemmel bir sürüş yeteneğine sahip olmalısınız--ve bundan çok daha fazlası olmayacaktır.
+Islak olduklarında, sadece üzerlerinde kalabilmek için bile sürüş yeteneğine ihtiyacınız var.
+
+Önceki gece geç saatlere kadar çalışmıştım, bu toplantı için materyalimi ayarlamıştım ve öğlene kadar kalkmamıştım. Gökyüzünün yoğun bulutlarına bir bakış
+ne beklemem gerektiğini söyledi. Hava durumu raporları bunu doğruluyordu.
+
+Dünya elbette kendi işine devam etti, geç kahvaltısını yiyen endişeli bir adama karşı tamamen kayıtsızdı.
+Tamamen _yalnız_
+dım! Eğer bir önsezi hissiyatı hissetsem,
+ceplerime makaleler doldururken, kobayların kutusunu alıp
+arabaya giderken, bunu kasvet hissimden ayırt edemiyordum.
+Belki de öyleydi, çünkü o gece dünyanın işleri beni oldukça
+zorla yakaladı.
+
+Otoyolun yarısına gelmeden yağmurla karşılaştım ve
+hız sınırını 85'e düşürmek zorunda kaldım.
+
+Indian Gölü'ndeki eski otel,
+terk edilmiş ormanlık alanda harap bir harabe olduğu için buluşmak için doğal tercihimdi--ancak "terk edilmiş"
+tam olarak doğru değil. Yerel halk hala gölde balık tutuyor ve kıyı bölgesinde birkaç ev var.
+
+Kesinlikle söylemek gerekirse, bölge zamanla değişti. Bugün,
+Federal Sürücü Belgeniz ve Araç Muayene etiketiniz güncel değilse,
+gişelerden geçip Federal Otoyola giremezsiniz--ki bence nükleer enerjiden ve
+endüstriyel otomasyondan daha çok şeyi değiştirdi. * * * * *
+
+İnsanlar aniden direksiyonda bir fındıkla ülkeyi bir uçtan bir uca geçemediklerinde, sadece _yaşamak_
+bir ayrıcalık işareti haline geldi. Bu, daha fazla kırsal işi yarattı - küçük topluluk alışveriş merkezlerinin ortaya çıkması, ürünlerin onlara gönderilmesi gerekmesi, kırsal elektrik ve su sistemlerinin büyümesi - şehirlerdeki işlerin kıtlaşması ve otomasyonun fabrikaları ele geçirmesiyle.
+
+Ancak bu durum özellikle küçük tatil bölgelerini sert vurdu. Artık daha fazla insan
+şehirlerde deniz kıyısında veya dağlarda olduğundan daha fazla tatil yapıyor!
+
+Yıllardır göle gitmemiştim ama bu sefer yolumu bulmakta her zamankinden daha az sorun yaşadım. Yeni ev inşaatçılarının akını, oradaki yol işaretlerini hem sayı hem de doğruluk açısından önemli ölçüde iyileştirdi ve bir Porsche Apache'de ihtiyacınız olan tek şey bu. Küçük mavi
+hızlı arabam, yepyeni on dolarlık bir banknotla bar turu yapan bir Skid Row serserisi gibi dar, yağmurdan kayganlaşmış ilçe yollarını geçiyor.
+Tek gerçek sorun, hangi tarafın ön olduğuna karar veremeyen o zırhlı Detroit mastodonlarının etrafından dolaşmak.
+
+Neyse, araba kullanmak beni başka bir şey düşünemeyecek kadar meşgul etti.
+Ama
+iyi vakit geçirdim - beklediğimden daha iyi - ve hava karardıktan kısa bir süre sonra farlarım yağmurun altında otelin yangından kararmış yıkıntısını seçti.
+
+Küçük Porsche'yi derin çukurlu yolun etrafından dolaştırdım ve
+bir zamanlar restoran ve bar olan
+boş çerçeveli binanın yanına park ettim.
+
+Dr. Whitney iki saat sonra geldiği için düşünmek için bolca vaktim oldu.
+
+Claggett çetesi, Lima'nın hemen dışındaki bir polis barikatını
+parçalayarak geçti, silahları makineli tüfek mermilerine
+karşılık verdi. İki polis memuru ağır yaralandı; biri hastaneye giderken öldü.
+
+Kısa bir süre sonra, kurşunlarla delik deşik olmuş sedan yol kenarında bulundu,
+ama çetenin sadece bir üyesi içindeydi. O da ölmüştü.
+
+Ve bir süre sonra, Çavuş Falasca'yı derin uykusundan uyandıran bir çağrı geldi.
+Eyalet Polisi üniformasını giymeye bile vakit ayırmadı, sadece
+pijamasının üzerine bir trençkot giydi, çekmeceden tabancasını çıkardı ve ön kapıdan çıkarken karısını öptü.
+Lima'daki toplanma noktasına gitmeden önce, görev dışı olmasına rağmen, alması gereken üç Eyalet Polisi daha vardı.
+
+Claggett çetesi dağılmıştı, bazıları muhtemelen yaralı, her biri silahlı ve her zamankinden daha tehlikeliydi. Şimdi cinayetten aranıyorlardı.
+
+* * * * *
+
+Dr. Whitney yolculuğu helikopterle yaptı, elbette - bilimsel bir cihaz şirketinin başkanı görünüşleri korumak zorundaydı. Havanın açılmasını umarak
+olabildiğince bekledi, sonra cihazlarla
+havalandı ve ADF şebeke haritasına göre göle ulaştı. Göl yüzeyine yerleşti ve kıyıya doğru süründü, iniş ışıkları kalın yağmur perdelerini araştırıyordu.
+
+Rotor kanatlarının titreşiminden ziyade türbininin boş uğultusunu duydum ve onunla buluşmak için eski otelin eğik kanadının etrafından hızla dolaştım. Göl kıyısı hafızamı
+yırıp parçalayan korkunç bir manzara sunuyordu. Yanımda moloz yığınlarından yükselen
+pencerelerinin kara delikleriyle ıssız, çatlak sıvalı duvarlar, yabani otlarla kaplı bir çimenlik
+ve gölü yarı yarıya maskeleyen bir ağaç kümesi -şimdi 'helikopterin iniş ışıklarında' çıplak görünen ağaçlar- ve yarı yarıya
+siyah suya yaslanmış küçük bir tekne iskelesi.
+
+Bir zamanlar, oldukça itici bir lise öğrencisiyken, tam da böyle bir gecede bu göl kıyısını görmüştüm. Sürekli bir yağmur yağıyordu, şimşekler
+titriyordu ve gök gürültüsü öfkesini
+çaldı... ve bir an için, onu olduğu gibi gördüm, uzay uçuşlarının o görkemli eski İngiliz öncüsü
+Arthur C. Clarke, orada, şiddetli yağmurda kamerasıyla
+durup şimşeklerin fotoğraflarını çekiyordu!
+
+Dr. Whitney, şık teknesini ağaç tepelerinin üzerinden geçirdi ve çimenlerin kalan küçük alanına düzgünce yerleşti, pervane uçları otelin yıkılmış duvarlarını neredeyse sıyırıyordu. Pleksi burunlu, üç kişilik bir yönetici gemisiydi - sanırım bir Bell. Birçok kişi uçmayı tercih ediyor. Belirli hava rotalarında ve havaalanı trafik düzenlerinde uçmaları gerekiyor; ve havaalanı o kadar kalabalık ki park edecek yer bulmakta zorluk çekiyorlar. Benim için değil.
+
+Ama Dr. Whitney çıkarken haber bültenlerini duymuştu. Toplantımızda ne söylendiğini hatırlamıyorum. Koşullar altında oldukça rahatsız ediciydi - sanırım benim için daha da rahatsız ediciydi, çünkü bu koşullar
+benim kendi yarattığım şeylerdi. Ama otelin etrafından dolaşıp eski restoran-bara girdiğimizde Whitney'nin şakacı onayını hatırlıyorum.
+
+"Eh, burada yeterince rahatız," dedi. "Claggett çetesi
+bizi
+yakalamazsa!"
+
+Gecenin olaylarını böyle duydum. Sözlerinin beni
+şaşırttığını gördüğünde, konferansımız için her şeyi
+hazırlarken haberi anlattı. Bir zamanlar
+bar olan arka odadaydık -ön bölüm, eskiden restorandı, her tarafta
+pencereler vardı ve şimdi
+içeriden ıslık çalan
+soğuk bir rüzgarla
+kesintisiz bir boşluk oluşturuyorlardı. Mekan eski demirbaşlarından sıyrılmıştı, ancak
+bilinmeyen bir balıkçı eski bar odasına harap bir masa
+ve oturmak için birkaç preslenmiş tahta kutu sağlamıştı. Tavan teli kancasından sarkıttığım bir Coleman radyant ısıtma
+fenerim, masanın üzerine
+attığım plastik bir örtü ve kutular için birkaç
+balkon sandalyesi minderi vardı.
+
+Birkaç çatı sızıntısının yolundan her şeyi çıkarmak için biraz kıpırdanmam gerekti ve kendime sağlam bir kutu seçmek zorunda kaldım, önce birkaçını test ettim.
+
+* * * * *
+
+Dr. Whitney'nin zihninde mücadele eden düşünceleri ve duyguları çok iyi hayal edebiliyorum, ama bunların hiçbirini göstermedi. Daha ziyade, beceriksiz hareketlerimle, gözlüklerimi parlatmak için verdiğim aralarla, yutmaya çalıştığım yumruyla, onunla yüzleşmem uzun sürdü.
+
+Ama sonunda hazırdık. Defterimi çıkardım ve önümdeki
+masanın üzerine açtım. Whitney'nin buz gibi kaşları kalktı. Sonra sessizce kendi pardösüsünün içine uzandı, defterini ve kalemini çıkardı ve defteri önüne koydu. Neredeyse unutulmuş bir geçmişin jestiydi, ama ikimizin de hiç terk etmediği bir alışkanlıktı. Bununla ilgili bir şey -ikimizin de katıldığı sayısız AEC konferansının hatırlatıcısı- üzerimde dengeleyici bir etki bıraktı.
+
+Tabancamı masanın ortasına koydum. Kişme, benden önce ne anladım. "Dedi ve kafeste değiştirdi. Notlarımın üzerine baktığımızda, izleyen tüm sorgulamayı kapsamak için önemli bir alanın gerekli olacağını görüyorum. Ayrıca, eski arkadaşımın tavrındaki neredeyse kademeli bir değişikliği not edemediğimi görüyorum-ilk başta, hızlı soruları, hızlı sorularının, tartışmalarının, tartışmalarına, tartışmalarına, tartışmalarına, tartışmalarına dikkat çekemediğimi görüyorum. "Her zaman yarım saat?" Asla çok değişmez. " _NO_ bunun son etkilerini göster? " Her seferinde tabancayı onlara doğrulttuğumda, çılgına dönüyorlar--"
+
+"Öfkeli mi demek istiyorsun? Bundan _korkmuyorlar_ mı?"
+
+"Kesinlikle korkmuyorlar! Cebimde olan biri köşelere
+girmeye çalışıyor, öfkeli homurtu sesleri çıkarıyor. Diğeri genelde
+durup bana dik dik bakıyor."
+
+"Peki uyandıklarında?"
+
+"Genellikle ilk tepkileri bana ve tabancaya
+dikkat etmek oluyor."
+
+"Telaşlı, ha? Sanırım sürekli uyuyakalmak çok rahatsız edici.
+Ama kesinlikle onlara zarar vermiyor gibi görünüyor. Peki ya zihinsel
+bozukluk?"
+
+"Belirgin bir anormallik yok. Ama bilmiyorum--"
+
+"Evet, onlar sadece kobay. Diğerlerinin yanı sıra Amerikan Tabipler Birliği'ni
+tatmin edecek kadar değil. Kesin güvenliğini belirlemek için yıllar süren araştırmalar yapın--"
+
+"Ama şimdi kamuoyuna açıklanmalı!"
+
+"Neden?"
+
+"Çünkü zararlı etkileri varsa, bunların çok büyük olasılıkla önemsiz olması muhtemeldir--yoksa varlıklarından hiç şüphemiz olmazdı."
+
+"Bu varsayım tehlikeli olabilir."
+
+"Evet. Ama başka bir şey daha var. Bu yeni silah, kesinlikle yaralanmaya, hatta ölüme yol açan
+ateşli silahların yerini alacak."
+
+"Ah, toplumun bunu uygulaması--" Ve Dr. Whitney'nin bu yönü sindirmesi birkaç dakika sürdü.
+
+Planlarımı ona özetledim.
+
+* * * * *
+
+İlk başta inanmaz oldu, sonra da açıkçası dehşete düştü. "Benden o şeyi
+_seri üretmemi_ mi bekliyorsun?"
+
+Umarım öyle yapar dedim.
+
+Sonra beni en uygun ve en doğru şekilde
+kömürlerin üzerinde gezdirmeye başladı. Ne yarattığımı fark etmemiş miydim? Bunun insanları polis devleti köleliğinden kurtarması
+görüşlerim gayet iyiydi ve böyle bir
+sonuç elde edebilirdi; ama burada sahip olduğum şey insan
+toplumuna
+uygulanmış en şeytani araçtan başka bir şey değildi!
+
+Saldırganların elinde ne işe yarayacağını düşünmüştüm, seks suçlular, yankesiciler, hırsızlar veya daha kötüsü? Neden, tüm medeni kültürümüz
+kaosa sürüklenirdi! Hiç kimse pusuya düşme korkusuyla
+yalnız kalmaya cesaret edemezdi. Kimse başka biri nöbet tutmadan uyuyamazdı! Hiçbir erkek
+kendi mallarını savunamazdı, hiçbir kadın iffetini koruyamazdı,
+etraflarında insanlar olmadıkça, hayatlarının _her anını_ izlemedikçe!
+
+Artık mallar ağır muhafızlar olmadan taşınamazdı.
+Zengin olanlar--bunu karşılayabilenler--büyük,
+iyi korunan kalelerde yaşamak zorunda kalırdı. Geri kalanımız feodal serf gibi olurduk, çalınmaya değer hiçbir şeyi olmazdı ve kızlarının
+tecavüze uğramasına oldukça alışkın olurduk. _Karanlık Çağlara geri dönerdik!_
+
+Söylediği her şeye onaylayarak başımı salladım.
+
+Sonra kobayı cebimden çıkardım, kıvranırken tuttum ve
+boynuna küçük bir tasma taktım. Tasmadaki plastik diskten bir teli çözdüm, böylece Dr. Whitney görebildi. Teldeki minik düğümü anında minyatür bir mikrofon olarak tanıdı.
+
+"Diğer domuzun uyuduğunu nasıl belirlediğini hatırlıyor musun?" diye sordum.
+Küçük düğümü domuzun boynundaki atardamara bantladım,
+kafese taşıdım ve içine yerleştirdim. "Ben buna 'Hey, Rube!' diyorum."
+Sırıtarak açıkladım. "Ama bunu, polis yayın frekansına ayarlanmış, talep eden herkesin taktığı küçük bir bilek radyo vericisi olarak hayal edin.
+Radyo DF saniyeler içinde yeri belirleyebilir."
+
+Masaya geri dönüp tabancayı aldım. "Bu sadece
+gösteri amaçlı," diye ekledim ve kafese ateş ettim.
+
+Denek domuzu arkadaşının yanına yığılırken, tasmasındaki disk
+sert, vızıltılı bir ses çıkardı.
+
+Whitney kıkırdadı. "Yavaşlamış kalp atışı, ha? Bu kadar basit!"
+
+"Ve herhangi bir hırsız alarmından daha iyi," diye belirttim. "Bu, bir
+dolandırıcı onu devre dışı bırakırken hareketsiz oturmak zorunda değil!"
+
+* * * * *
+
+Elbette, bunun bir polis devletindeki insanlar için
+kullanışlılığını yok edebileceğini belirtti. Diktatörün polisi ve askerleri de
+"Hey, Rube!" radyoları takabilirdi. Ben de insanların yeraltı savaşçılarının tek ihtiyacının bir Soğutma tabancası ve bir testere ağızlı et bıçağı olduğunu söyledim. Bir adam bütün bir müfrezeyi devirip topuk tendonlarını dakikalar içinde kesebilirdi. "Amerikan yerlileri eskiden daha kısa sürede kafa derisi toplardı!" dedim. "Ama yaralı bir adam ölü bir adamdan daha fazla sorun çıkarır düşmana. Bence topuk tendonu en kolayı olurdu."
+
+Belki de benim karakterime biraz aykırıydı. Whitney bana uzun bir süre
+baktı ve gözlerini kırpıştırdı. İki gözü de sımsıkı kapalıydı.
+
+Ama yine de planlarım hakkında pek bir şey düşünmüyordu.
+
+Ancak daha sonraki önerileri, korkudan
+geliştirdiklerimden çok daha mantıklıydı.
+
+İlk olarak, Silahlı Kuvvetlerin bu silahı bastıracağını gerçekten bilmiyorduk.
+Uzay uçuşu ve askeri uydularla ilgili sorunlarıyla tamamen meşguldüler; muhtemelen Washington'da şu anda gizli silah arayan kimse kalmamıştı. Ve biz sadece
+onlar bakmıyorken bu silahı geçirebiliriz.
+
+Bu nedenle, icadımı patentlemeyi denememi önerdi. Ancak
+yeterli güvenlik önlemlerini almamız gerektiğini: Tüm patent yazışmalarını
+onun ofisi aracılığıyla halletmeliyim. Daha sonra, Silahlı Kuvvetler baskı yaparsa, önce onlar gelirdi ve o da bana kaçmam için zamanında haber verebilirdi. Ülkeden kaçmak zorunda kalırdım. Ancak en azından özgür olurdum ve silahı
+çıkarmak için başka önlemler alabilirdik.
+
+Şimdi yaptığımız diğer planları ve düzenlemeleri açıklamanın bir anlamı olmazdı.
+Kabul ettiğimi söylemek yeterli. Tartışma daha sonra
+Soğutma silahıyla geleceğin ne olabileceğine dair daha fazla spekülasyona döndü.
+
+Whitney bunun iyi olacağına hiç ikna olmamıştı, daha ziyade
+ne bizim ne de herhangi bir grup insanın insanlığın ne yapması veya yapmaması gerektiğine karar verme hakkına sahip olmadığına inanıyordu.
+
+Bunun diktatörlüğün sonu olacağından güçlü şüpheleri vardı.
+"Diktatörler dünyayı fethetmeyi hayal eder ve bu tür hayaller savaş doğurur," dedi. "Ama suçlanacak tek kişiler onlar değil. Diktatörlükleri
+_seven_ insanlar bulacaksınız!"
+
+Ama gerçek şu ki insanlığın çoğu dahil olmak istemiyordu,
+bunun onları her şeyden daha fazla ilgilendirdiğini asla fark etmediler.
+
+Anladığım kadarıyla, tam da bu sıralarda, Büyük
+Jake Claggett ve adamlarından biri, bir Porsche hız aracının benzin aldığı bir servis istasyonuna
+gidip durdular. İstasyon görevlisini bayılttılar, sürücüyü küçük spor arabadan
+çıkardılar
+ve arabaya binip uzaklaştılar.
+
+Dr. Whitney beni bir sorunla baş başa bıraktı. İnsanları
+tetikte tutmak için ne yapılabilirdi? Soğutma silahının dünya üzerindeki etkisini belirleyecek olan şey budur -- suç aracı mı yoksa zayıflar, masumlar için
+koruma aracı mı.
+
+İnsanların kayıtsız olduğu yerlerde, hırsızlar ve
+devrimciler için bir nimet olacaktır.
+
+İnsanların tetikte olduğu yerde--
+
+Ama bizi tetikte tutacak ne olabilir?
+
+* * * * *
+
+Geri dönerken, meşguldüm, küçük arabanın kaygan yollarda ustaca ilerleyişinin neredeyse farkında değildim. Tepenin dibindeki siyah patinaj izlerini gördüğümde neredeyse ilgisiz bir hisle gördüm--sonra, ürpertici bir şokla, hendekte yan yatmış sedanın karanlık kütlesi.
+
+Arabadan dışarı doğru bir el feneri ışığı çaktığında yavaşlıyordum, buruşmuş metal ve kırık farlar görünüyordu. Arkasında bir, belki de iki kişi duruyordu. Bir diğeri, neredeyse kalçalarına kadar çamur sıçramış, trençkot giymiş bir adam, önümdeki yola yürüyordu, beni durduruyordu.
+
+"Şu arabadan in!"
+
+Sesinde bıkkınlık ve öfke, yüzünde tam bir öfke ifadesi vardı. Tam farlarımın parıltısının kenarında duruyordu,
+doğrudan içinde değildi, ellerini ceplerine sokmuştu.
+
+İşte o. Sedanın hızı, patinaj izlerinden de anlaşılacağı üzere. Zihnim anında sinir bozucu bir sonuca
+atladı --
+
+Ve kendimi tamamen sakin hissettim. Bunu açıklayamıyorum. Belki de
+gecenin olayları gergin duygularımı çoktan tüketmişti.
+
+_Onlar silahlı_, diye düşündüm, _ama ben de öyleyim! Ve hepsini tek hamlede alabilecek bir silahım var --_
+
+Bu, kapıyı açıp dışarı çıkarken. Elimi
+kendi cebime sokarken. Küçük tabancayı çıkardım.
+
+Bir an, ellerini ıslak trençkotunun içine sokmuş bir şekilde hareketsiz duruyordu. Bir sonraki anda, kalçasında ağır bir tabanca patladı. Bir balyoz sağ tarafıma isabet etti, beni sersemletti.
+
+O zaman, yolda yatarken, soğuk yağmur yüzüme
+vururken, ılık bir ıslaklık yanlarıma yayılırken aklıma geldi. Tabanca taşıyan bir toplumda asla kaçamayacağımız tek tuzakla karşılaşmıştım: Silahı senden
+daha hızlı kullanan adam!
+
+Üzerime eğilen Çavuş Nicolas Falasca küçük plastik
+Soğutma tabancasını aldı ve doğruldu, ona baktı, kaşlarını çattı. "Ne oluyor!" diye mırıldandı.
+
+Ben de katılmaya meyilliydim.
+
+* * * * *
+
+Doğal olarak, bunun söylenmesi gerekiyordu. Ohio Eyaleti, polis memurları için Soğutma silahları istiyor; bundan sonra, diğer Eyaletler de şüphesiz
+aynı yolu izleyecek. Silahlı Kuvvetler bunu bastırmak istemiyor. Ve Dr. Whitney bir hafta içinde üretime başlayacak.
+
+Hastane faturalarımı ödeme ve
+başka hiçbir şey olmaması konusunda çok iyi davrandılar.
+
+Çavuş Falasca ikinci sorumlulukla yüklenmiş olsa da,
+bana çok iyi davrandığını tekrarlamalıyım. Gelecek büyük ölçüde onun gibi adamlara bağlı olacak.
+
+Geri kalanına gelince, kobayların onurlu bir şekilde
+üretim çiftliğine emekliye ayrıldığına dair güvence aldım; Hemşire onları burada tutmama izin vermedi.
+Herkes Claggett çetesinin şiddet dolu sonunu biliyor.
+
+Bu noktada, yaygın kamuoyu inancına rağmen, ne benim ne de Soğutma tabancasının bununla hiçbir ilgisi olmadığını şiddetle belirtmek istiyorum. Claggett'ı veya çetesinin herhangi bir üyesini hiçbir zaman görmedim. Onların istemeden katkısı Çavuş'u uyarmaktı. Falasca ve
+polisin geri kalanı ve bu hesabın başında bahsettiğim gibi, Claggett benimki gibi bir Porsche çalıyor çünkü
+spor arabalara düşkün.
+
+Hikayenin tamamı bu, tek bir ek madde hariç:
+
+Bunun Soğutma tabancası için planlar ve
+özelliklerle aynı anda yayınlanması planlanıyor. Bunları güvenlik tıraş bıçakları, kahvaltılık gevrekler, sigaralar ve diğer ürünlerle birlikte prim olarak verildiğini göreceksiniz.
+Üreticilere nazik işbirlikleri için teşekkür etmek istiyorum.
+
+Joe Gibson'ın A Touch of E Flat adlı Project Gutenberg E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A TOUCH OF E FLAT ***
+
+***** This file should be named 51304.txt or 51304.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/3/0/51304/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

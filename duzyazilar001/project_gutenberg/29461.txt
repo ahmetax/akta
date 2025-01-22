@@ -1,0 +1,1584 @@
+*** START OF AKTAHEADER ***
+Başlık: Preliminary Specifications: Programmed Data Processor Model Three (PDP-3) (Ön Özellikler: Programlanmış Veri İşlemcisi Model Üç (PDP-3))
+Yazar: Digital Equipment Corporation
+Yayın Tarihi: July 20, 2009 [EBook #29461]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/29461
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: psikoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Preliminary Specifications: Programmed Data
+Processor Model Three (PDP-3), by Digital Equipment Corporation
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Preliminary Specifications: Programmed Data Processor Model Three (PDP-3)
+       October, 1960
+
+Author: Digital Equipment Corporation
+
+Release Date: July 20, 2009 [EBook #29461]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PDP MODEL THREE (PDP-3) ***
+
+*** START OF TURKISH PART ***
+Gerard Arthus, Katherine Ward ve https://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+ÖN ÖZELLİKLER
+
+---
+
+PROGRAMLANMIŞ VERİ İŞLEMCİSİ
+ÜÇÜNCÜ MODEL
+(PDP-3)
+
+---
+
+Ekim 1960
+
+Digital Equipment Corporation
+Maynard, Massachusetts
+
+İÇİNDEKİLER
+
+GİRİŞ 1
+
+Genel Açıklama 1
+Sistem Blok Diyagramı 1
+Elektriksel Açıklama 4
+Mekanik Açıklama 4
+Çevresel Gereksinimler 5
+
+MERKEZİ İŞLEMCİ 6
+
+Çalışma Hızları 6
+Talimat Formatı 6
+Sayı Sistemi 7
+Dizinleme 8
+Dolaylı Adresleme 8
+Talimat Listesi 9
+Manuel Kontroller 20
+
+DEPOLAMA 22
+
+STANDART GİRİŞ-ÇIKIŞ 23
+
+Kağıt Bant Okuyucu 23
+Kağıt Bant Delgeç 24
+Daktilo 24
+
+İSTEĞE BAĞLI GİRİŞ-ÇIKIŞ 26
+
+Sıra Kesme Sistemi 26
+Yüksek Hızlı Giriş-Çıkış Kanalı 26
+Manyetik Bant 27
+CRT Ekran 33
+Gerçek Zamanlı Saat 33
+Satır Yazıcı 34
+
+YARDIMCI PROGRAMLAR 35
+
+FRAP Sistemi 35
+DECAL Sistemi 35
+Kayan Nokta Alt Rutinleri 36
+Bakım Rutinleri 37
+Çeşitli Rutinler 37
+
+GİRİŞ
+
+GENEL AÇIKLAMA
+
+DEC Programlanmış Veri İşlemcisi Model Üç (PDP-3), ilk maliyet, bakım ve kullanımda ekonomiyle birlikte işletimde güvenilirlik sunan yüksek performanslı, büyük ölçekli bir dijital bilgisayardır.
+Bu kombinasyon, sistem tasarım kısıtlamasıyla birlikte çok hızlı, güvenilir, katı hal devrelerinin kullanılmasıyla elde edilir. Sistem tasarımının basitliği, birçok marjinal veya gereksiz özelliği ve dolayısıyla bunlara eşlik eden maliyet ve bakım sorunlarını ortadan kaldırır.
+
+Ortalama dahili talimat yürütme hızı saniyede yaklaşık 100.000 işlemdir ve saniyede 200.000 işlemlik bir zirve oranına sahiptir. Bu hız, ekonomikliği ve güvenilirliğiyle birlikte PDP-3'ü
+karmaşık gerçek zamanlı kontrol uygulamaları için mükemmel bir araç
+ve modern bir bilgi işlem tesisinin merkezi olarak önermektedir.
+
+PDP-3, depolanmış bir program, genel amaçlı dijital bilgisayardır. 36 bitlik sayılarda paralel olarak çalışan tek adresli, tek talimatlı bir makinedir. Adreslerin çoklu adımlı dolaylı adresleme ve dizinleme özelliğine sahiptir. Ana bellek, 511 kaydı dizin
+kaydı olarak kullanılabilir hale getirir.
+
+Ana depolama, her biri 4096 kelimelik çakışan akım manyetik çekirdek modülleridir. Bilgisayar, 8 modülü adreslemek için yerleşik bir tesise sahiptir ve 64 modülü çalıştırmak için genişletilebilir. Belleğin çevrim süresi beş mikrosaniyedir.
+
+SİSTEM BLOK DİYAGRAMI
+
+PDP-3'ün çeşitli kayıtları arasındaki bilgi akışı Sistem Blok Diyagramı'nda (Şekil 1) gösterilmiştir. 36 bit uzunluğunda dört kayıt vardır. İşlevleri aşağıda açıklanmıştır.
+
+Bellek Tamponu
+
+Bellek Tamponu, merkezi anahtarlama kaydıdır. Bellekten gelen veya belleğe giden kelime bu kayıtta tutulur. Aritmetik
+işlemlerde toplananı, çıkarılanı, çarpanı veya böleni tutar.
+Bu kaydın sol 6 biti Talimat Kaydı ile iletişim kurar. Bellek Tampon Kaydının adres kısmı Endeks Toplayıcı, Bellek Adres Kaydı ve Program
+Sayacı ile iletişim kurar. Bazı talimatlarda, kontrol kelimesinin adres kısmı belleğe atıfta bulunmaz, ancak bir talimatın varyasyonlarını belirtir, bu nedenle Bellek Tamponunun adres kısmı Kontrol Elemanına bağlanır.
+
+Akümülatör
+
+Akümülatör, Aritmetik Elemanın ana kaydıdır. Toplamlar ve
+farklar Akümülatörde oluşturulur. Çarpma
+tamamlandığında, ürünün yüksek sıralı rakamlarını tutar.
+Bölme
+işleminde başlangıçta bölünenin yüksek sıralı rakamlarını içerir ve
+kalan kalır.
+
+Mantıksal işlevler AND, kapsayıcı OR ve özel OR, Akümülatörde oluşturulur.
+
+Taşıma Depolama Kaydı
+
+Taşıma Depolama Kaydı, yüksek hızlı çarpmayı kolaylaştırır ve Akümülatörün
+uygun bir parçasıdır.
+
+Giriş-Çıkış Kaydı
+
+Giriş-Çıkış Kaydı, harici ekipmanla iletişimin ana yoludur. Ayrıca Aritmetik Elemanın bir parçasıdır.
+Çarpma
+işleminde, ürünün düşük sıralı rakamlarıyla son bulur. Bölme
+işleminde, bölünenin düşük sıralı kısımlarıyla başlar ve bölümle son bulur.
+
+Giriş-Çıkış Kaydı, tam bir kaydırma özelliği kümesine (aritmetik
+ve mantıksal) sahiptir.
+
+* * * * *
+
+Yalnızca adreslerle ilgilenen 15 bit uzunluğunda üç kayıt vardır. Tasarım 18 bite kadar genişlemeye izin verir. Bu kayıtlar şunlardır:
+
+Bellek Adresleme
+
+Bellek Adres Kaydı, şu anda sorgulanan bellek konumunun numarasını tutar. Bu numarayı Program Sayacı, Dizin Toplayıcı veya Bellek Tamponundan alır.
+
+Program Sayacı
+
+Program Sayacı, yürütülecek bir sonraki talimatın bellek konumunu tutar.
+
+Dizin Toplayıcı
+
+Dizin Toplayıcı, 15 bitlik bir halka biriktiricidir. Bir talimat
+taban adresi, Y, ve bir dizin kaydının, C(x), içeriklerinin toplamı bu kayıtta oluşturulur.
+Bu kayıt, "JPS, "Program Sayacını atla ve kaydet" talimatındaki Program Sayacının önceki içeriğini tutar. Dizin Toplayıcı ayrıca kaydırma, çarpma ve bölmede adım sayacı olarak işlev görür.
+
+* * * * *
+
+Kontrol Elemanı iki altı bitlik kayıt ve birkaç
+çeşitli flip-flop içerir. İkincisi, dizinleme, dolaylı adresleme, bellek kontrolü vb. ile ilgilenir. Altı bitlik kayıtlar şunlardır:
+
+Talimat Kaydı
+
+Talimat Kaydı, bellekten talimatı alan döngü sırasında Bellek Arabellek Kaydının ilk altı bitini alır (döngü sıfır). Bu bilgi, Kontrol Elemanı'na birincil girdidir.
+
+Program Bayrakları
+
+Altı Program Bayrağı, kullanışlı program anahtarları olarak işlev görür. Bir programın ayrı durumlarını belirtmek için kullanılırlar. Program, ayrı flip-flop'ları ayarlayabilir, temizleyebilir veya algılayabilir. Program ayrıca "Tüm Bayraklar SIFIR" durumunu algılayabilir veya yapabilir. Ayrıca, rastgele zamanlarda oluşan çeşitli giriş aygıtlarını senkronize etmek için de kullanılabilirler (bkz. Giriş-Çıkış, Daktilo Girişi).
+
+* * * * *
+
+Merkezi İşlemciye üç geçiş anahtarı kaydı bağlanır (bkz. Manuel Kontroller).
+
+Test Adresi
+
+On beş Test Adresi Anahtarı, başlangıç ​​noktalarını belirtmek ve manuel inceleme veya değişiklik için bellek kayıtlarını seçmek için kullanılır.
+
+Test Sözcüğü
+
+Otuz altı Test Sözcüğü Anahtarı, belleğe manuel olarak
+yerleştirme için yeni bir sayıyı belirtir. Ayrıca, bir program çalıştırma talimatı aracılığıyla çalışırken sabitlerin
+eklenmesi için de kullanılabilirler.
+
+Algılama Anahtarları
+
+Altı Algılama Anahtarı, operatörün program seçeneklerini manuel olarak seçmesine veya bellekteki başka bir programa atlamasına olanak tanır. Program, bireysel
+anahtarları veya "Tüm Anahtarlar SIFIR" durumunu algılayabilir.
+
+ELEKTRİKSEL AÇIKLAMA
+
+PDP-3 devresi, doyurucu transistör flip-flop'ları ve çoğunlukla transistör anahtar elemanlarını kullanan statik tiptir. Birincil aktif elemanlar Mikro Alaşımlı ve Mikro Alaşımlı Dağıtılmış transistörlerdir. Flip-flop'larda yerleşik gecikme vardır, böylece bir mantık ağı aynı anda örneklenebilir ve değiştirilebilir.
+
+Makine zamanlaması bir gecikme hattı zinciri tarafından gerçekleştirilir. Yardımcı gecikme hattı zincirleri, adım sayacı talimatlarını (çarpma, bölme, vb.) zamanlar. Makine böylece adım sayacı talimatlarının asenkron olmasıyla dahili olarak senkronizedir. Makine, içeri-dışarı işlemleri için asenkrondur, yani bir içeri-dışarı işleminin tamamlanması aşağıdaki talimatı başlatır. MEKANİK AÇIKLAMA
+
+PDP-3, Konsol ve Ekipman Çerçevesi olmak üzere iki mekanik düzenekten oluşur. Şekil 3, PDP-3'ün 18 bitlik bir versiyonu olan PDP-1'in bir fotoğrafıdır.
+
+Konsol
+
+Konsol yaklaşık yedi fit uzunluğunda bir masadır. Makinenin çalışması ve bakımı için gerekli
+kontrolleri ve göstergeleri içerir. Bir kablo Konsolu Ekipman Çerçevesine bağlar.
+
+Ekipman Çerçevesi
+
+Ekipman Çerçevesi yaklaşık altı fit yüksekliğinde ve iki fit derinliğindedir.
+Uzunluk, dahil edilen isteğe bağlı özelliklerin miktarının bir fonksiyonudur.
+Merkezi İşlemci beş buçuk fit uzunluğa ihtiyaç duyar.
+Güç
+kabini yirmi iki inç uzunluğundadır. Bir bellek
+kabini otuz iki inç uzunluğundadır ve üç bellek modülü (kabin başına 12.288 kelime) tutacaktır. Bellek
+kabinleri herhangi bir zamanda eklenebilir.
+
+Manyetik bant üniteleri taşıma başına yirmi iki inç gerektirir. Bir bant ünitesi
+kabini Ekipman Çerçevesinin bir uzantısı olarak bağlanabilir veya serbest duran bir
+çerçeve olabilir.
+
+ÇEVRESEL GEREKLİLİKLER
+
+PDP-3 için özel bir oda hazırlığı gerekmez. Bilgisayar
+normal oda sıcaklığı aralığında düzgün bir şekilde çalışacaktır.
+
+Merkezi İşlemci ve bellek birlikte otuz amper 110 volt tek fazlı 60 çevrim ac gerektirir. Her etkin olmayan bant taşıması iki amper ve bir etkin taşıma 10 amper gerektirir.
+
+MERKEZİ İŞLEMCİ
+
+PDP-3'ün Merkezi İşlemcisi Kontrol Elemanı, Bellek
+Arabellek Kaydı, Aritmetik Eleman ve Bellek Adresleme Elemanını içerir. Kontrol Elemanı, bellek zamanlaması, talimat performansı ve giriş-çıkış komutlarının başlatılması dahil olmak üzere bilgisayarın tüm çalışmasını yönetir. Akümülatör, Giriş-Çıkış Kaydı ve Taşıma Depolama Kaydı'nı içeren Aritmetik Eleman, aritmetik işlemleri gerçekleştirir. Dizin Toplayıcı, Program Sayacı ve Bellek Adres Kaydı'nı içeren Bellek Adresleme Elemanı, adres muhasebesi ve değişikliği gerçekleştirir.
+
+ÇALIŞMA HIZLARI
+
+PDP-3 talimatlarının çalışma süreleri normalde 5 mikrosaniyelik bellek döngüsünün katlarıdır. İki döngülü talimatlar iki kez belleğe atıfta bulunur ve bu nedenle tamamlanması için 10 mikrosaniye gerekir. Bunun örnekleri
+toplama, çıkarma, yatırma, yükleme vb.'dir. Bir döngülü talimatlar belleğe atıfta bulunmaz ve 5 mikrosaniye gerektirir. İkincilere örnek olarak
+atlama talimatları, atlama talimatları ve çalıştırma grubu verilebilir. Değişken döngülü talimatların çalışma süreleri
+talimatlara bağlıdır. Örneğin, bir kaydırma veya döndürme talimatının çalışma süresi 5 +0,2N mikrosaniyedir, burada N gerçekleştirilen kaydırma sayısıdır. Çarpma ve bölme için çalışma süreleri sırasıyla çarpan ve bölümdeki bir sayısının fonksiyonlarıdır.
+Çarpma için maksimum süre 25 mikrosaniyedir. Bu, çarpma talimatını bellekten almak için gereken süreyi içerir. Bölme işlemi en fazla 90
+mikrosaniye sürer.
+
+İsteğe bağlı bekleme
+fonksiyonunu içermeyen Giriş-Çıkış Aktarım talimatları 5 mikrosaniye gerektirir. Giriş-çıkış aygıtının tamamlanması için bir bekleme
+süresi gerekiyorsa, çalışma süresi kullanılan aygıta bağlıdır.
+
+Bir talimat bir dizin kaydına referans içeriyorsa, ek
+5 mikrosaniye gerekir. Dolaylı adreslemenin her adımı da ek
+5 mikrosaniye gerektirir.
+
+TALİMAT BİÇİMİ
+
+PDP-3 talimatları üç sınıfa ayrılabilir:
+
+1. Dizinlenebilir bellek talimatları
+2. Dizinlenemeyen bellek talimatları
+3. Bellek dışı talimatlar.
+
+Talimat kelimesinin düzeni Şekil 2'de gösterilmiştir.
+
+0 ve 1 sekizli rakamları talimat kodunu tanımlar, bu nedenle 64 olası talimat kodu vardır, bunların hepsi kullanılmaz. Sekizli basamak 2'nin ilk biti dolaylı adres bitidir. Bu bit BİR ise, dolaylı adresleme gerçekleşir.
+
+Dizin adresi, X, sekizli basamaklar 3, 4 ve 5'tir. Bu basamaklar, bellek tipi talimatlar için bir dizin kaydını adresler. Bu basamakların hepsi SIFIR ise, dizinleme gerçekleşmez. Ana bellekte, kayıtların 511'i otomatik dizin kayıtları olarak kullanılabilir.
+
+Talimat tabanı adresi, Y, 7'den 11'e kadar sekizli rakamlardan oluşur. Bu rakamlar, 32.768 bellek sözcüğünü adreslemek için yeterlidir. Sekizli rakam 6, daha fazla bellek genişletmesi için ayrılmıştır. Bu genişletme için ekipman çerçevesinde yer mevcuttur, istenirse.
+
+Belleğe atıfta bulunmayan talimatlarda, bellek adresi rakamları, Y ve bazı durumlarda dizin adresi rakamları da herhangi bir talimat grubundaki varyasyonları belirtmek için kullanılır. Bunun bir örneği, bellek adresi rakamlarının kaydırma sayısını belirlediği kaydırma ve döndürme talimatlarıdır.
+
+SAYI SİSTEMİ
+
+PDP-3, ikili aritmetik kullanan "sabit" nokta makinesidir. Negatif
+sayılar, pozitif sayıların 1'li tamamlayıcısı olarak gösterilir.
+0 biti, pozitif sayılar için SIFIR olan işaret bitidir. 1 ila 35 arasındaki bitler, 1. bitin en önemli, 35. bitin ise en az önemli olduğu büyüklük bitleridir.
+
+İkili noktanın gerçek konumu, eldeki soruna en uygun şekilde
+rastgele atanabilir. İkili noktanın yerleştirilmesinde iki yaygın kural vardır:
+
+1. İkili nokta en önemsiz basamağın sağındadır,
+bu nedenle sayılar tam sayıları temsil eder.
+
+2. İkili nokta işaret basamağının sağındadır,
+bu nedenle sayılar +-1 arasında bulunan bir kesri temsil eder.
+
+Ondalık sayıların makine tarafından kullanılmak üzere ikili sisteme dönüştürülmesi, alt rutinler tarafından otomatik olarak gerçekleştirilebilir.
+Benzer şekilde, ikili sayıların ondalık sayılara dönüştürülmesi alt rutin tarafından yapılır.
+Kayan nokta sayıları için işlemler programlama tarafından gerçekleştirilir.
+Yardımcı program sistemi, kayan nokta işlemlerini ve sayı tabanı dönüşümünü gerçekleştirmek için gereken rutinlerin otomatik olarak eklenmesini sağlar.
+(Yardımcı Programlara bakın).
+
+ENDEKSLEME
+
+PDP-3'te, ana manyetik çekirdek belleğinin 511 kaydı otomatik
+endeks kayıtları olarak kullanılmak üzere mevcuttur. Adresleri, talimat sözcüğünün 3 ila 5 sekizli rakamlarıyla belirtilir. Bu kayıtlar bellek konumlarıdır 001-777 (sekizli). 000 adresi, talimatlarla birlikte hiçbir
+endeks kaydının kullanılmayacağını belirtir. Seçilen endeks kaydının 7 ila 11 sekizli rakamlarının içerikleri değiştirilmemiş adrese (talimatların 7 ila 11 sekizli rakamları) eklenir.
+
+Bu toplam, işleneni bulmak için kullanılır. Toplama, 15 bitlik 1'in tamamlayıcısı toplayıcı olan
+Endeks Toplayıcıda yapılır.
+Akümülatörün ve Giriş-Çıkış Kaydının içerikleri
+endeksleme işleminden etkilenmez.
+Endeksi kullanan bir talimat, orijinal adresi değiştirilmemiş şekilde bellekte tutulur. Bellek kayıtları 1-777 (sekizli) dizin kayıtları olarak kullanılmıyorsa normal bellek kayıtları olarak kullanılabilir. Bu kayıtların sol yarısı, 7'den 11'e kadar olan sekizli basamaklar dizin kayıtları olarak işlev gördüğünde sabitlerin, tabloların vb. depolanması için kullanılabilir.
+
+Dizin kayıtlarının sıfırlanmasını, ilerletilmesini ve örneklenmesini kolaylaştırmak için snx, spx ve lir olmak üzere üç özel talimat mevcuttur. Dizin kayıtları normal bellek kayıtları olduğundan, içerikleri standart bilgisayar talimatlarıyla da işlenebilir.
+
+DOLAYLI ADRESLEME
+
+Dolaylı bir adres kullanacak bir talimat, talimat kelimesinin altıncı bitinde ONE'a sahip olacaktır. Talimatın orijinal adresi Y, talimatın işlenenini bulmak için kullanılmayacaktır, normal durumda olduğu gibi. Bunun yerine, içeriği 7'den 11'e kadar olan sekizli basamaklarda orijinal talimatın adresi olarak kullanılacak bir bellek kaydını bulmak için kullanılır. Bu yeni adres, talimat için dolaylı adres olarak bilinir ve işleneni bulmak için kullanılır. Dolaylı adresi içeren bellek kaydında ayrıca bit altıda 1 varsa, dolaylı adresleme prosedürü tekrarlanır ve üçüncü bir adres bulunur. Bu işlemin tekrarlanabileceği zaman sayısında bir sınır yoktur. Dizin kayıtları dolaylı adreslemeyle birlikte kullanılabilir.
+Bu durumda, seçilen dizin kaydı tarafından değiştirildikten sonra adres dolaylı adresi bulmak için kullanılır.
+
+Dolaylı adres bir dizin kaydı tarafından işlenebilir ve istenirse tekrar ertelenebilir. Bir dizin kaydının veya dolaylı bir adresin her kullanımı, orijinal talimatın çalışma süresini 5 mikrosaniye uzatır.
+
+TALİMAT LİSTESİ
+
+Bu liste talimatın başlığını, talimatın normal yürütme süresini, yani dizinleme ve erteleme olmayan süreyi, talimatın anımsatıcı kodunu ve işlem kodu numarasını içerir. Kullanılan gösterim aşağıdaki tanımları gerektirir. Bir kayıt Q'nun içerikleri C(Q) olarak belirtilir. Talimatın adres kısmı Y ile belirtilir. Bir talimatın dizin kayıt adresi x ile belirtilir. Bir işlenenin etkin adresi Z ile gösterilir. Z, Y'ye eşit olabilir veya erteleme veya dizinleme yoluyla değiştirildiği gibi Y olabilir.
+
+Dizinlenebilir Bellek Talimatları
+
+Aritmetik Talimatları
+
+_Add_ (10 usec.)
+add x Y İşlem Kodu 40
+
+Yeni C(AC), C(Z) ve orijinal C(AC)'nin toplamıdır. C(Z)
+değiştirilmez. Toplama, 1'in tamamlayıcı aritmetiği ile yapılır.
+
+Toplam, Akümülatör Kaydının kapasitesini aşarsa, taşma flip-flopu ayarlanır (Grup Atlama talimatlarına bakın).
+
+_Subtract_ (10 usec.)
+sub x Y İşlem Kodu 42
+
+Yeni C(AC), orijinal C(AC) eksi C(Z)'dir. C(Z)
+değiştirilmez. Çıkarma, 1'in tamamlayıcı aritmetiği
+kullanılarak yapılır.
+
+Fark, Akümülatörün kapasitesini aşarsa, taşma
+flip-flopu ayarlanır (Grup Atlama talimatlarına bakın).
+
+_Çarp_ (yaklaşık 25 usec.)
+mul x Y İşlem Kodu 54
+
+C(AC)'ler C(Z) ile çarpılır. Ürünün en önemli
+basamakları Akümülatörde ve en az önemli
+basamakları Giriş-Çıkış Kaydında kalır. Önceki C(AC)'ler kaybolur.
+
+_Böl_ (yaklaşık 90 usec.)
+div x Y İşlem Kodu 56
+
+Akümülatör ve Giriş-Çıkış Kaydı birlikte 70 bitlik bir temettü oluşturur.
+Temettü'nün yüksek dereceli kısmı Akümülatördedir. Temettü'nün düşük dereceli kısmı Giriş-Çıkış Kaydındadır. Bölen (Z)'dir.
+
+Bölme işlemi tamamlandığında, bölüm Giriş-Çıkış Kaydındadır.
+Kalan Akümülatördedir. Kalanın işareti, temettü işaretiyle aynıdır. Temettü C(Z)'den büyükse, taşma flip-flopu ayarlanır ve bölme işlemi gerçekleşmez.
+
+Mantıksal Talimatlar
+
+_Mantıksal AND_ (10 usec.)
+ve x Y İşlem Kodu 02
+
+C(Z) bitleri, mantıksal AND'yi oluşturmak için Akümülatörün karşılık gelen bitleri üzerinde çalışır. Sonuç Akümülatörde bırakılır. C(Z)
+bu talimattan etkilenmez.
+
+Mantıksal AND İşlev Tablosu
+
+AC Bit C(Z) Bit Sonucu
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+
+_Özel VEYA_ (10 usec.)
+xor x Y İşlem Kodu 06
+
+C(Z) bitleri, özel VEYA'yı oluşturmak için Akümülatörün karşılık gelen bitleri üzerinde çalışır. Sonuç Akümülatörde bırakılır. C(Z)
+bu sıralamadan etkilenmez.
+
+Özel VEYA Tablosu
+
+AC Biti C(Z) Biti Sonuç
+0 0 0
+0 1 1
+1 0 1
+1 1 0
+
+_Kapsayan VEYA_ (10 usec.)
+ior x Y İşlem Kodu 04
+
+C(Z) bitleri, kapsayıcı VEYA'yı oluşturmak için Akümülatörün karşılık gelen bitleri üzerinde işlem yapar. Sonuç Akümülatörde bırakılır. C(Z)
+bu sıralamadan etkilenmez.
+
+Kapsayan VEYA Tablosu
+
+AC Biti C(Z) Biti Sonuç
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+
+Genel Talimatlar
+
+_Akümülatörü Yükle_ (10 usec.)
+lac x Y İşlem Kodu 20
+
+C(Z) Akümülatöre yerleştirilir. C(Z) değiştirilmez. Orijinal C(Z) kayboldu.
+
+_Mevduat Akümülatörü_ (10 usec. )
+dac x Y İşlem Kodu 24
+
+C(AC), bellekteki C(Z)'yi değiştirir. C(AC), bu talimatla
+değiştirilmeden bırakılır. Orijinal C(Z) kaybolur.
+
+_Para Yatırma Adresi Parçası_ (10 usec.)
+dap x Y İşlem Kodu 26
+
+Akümülatörün 6 ila 11 arasındaki sekizli basamakları, bellek kaydı Z'nin karşılık gelen
+basamaklarını değiştirir.
+
+C(AC), Z'nin 0 ila 5 arasındaki sekizli basamaklarının içerikleri gibi değişmez. Z'nin 6 ila 11 arasındaki sekizli basamaklarının orijinal içerikleri kaybolur.
+
+_Depozito Talimatı Parçası_ (10 usec.)
+dip x Y İşlem Kodu 30
+
+Akümülatörün 0'dan 5'e kadar olan sekizli rakamları, bellek kaydı Z'nin karşılık gelen
+
+rakamlarını değiştirir. Akümülatör, Z'nin 6'dan 11'e kadar olan rakamları gibi değişmez. Z'nin 0'dan 5'e kadar olan sekizli rakamlarının orijinal içerikleri kaybolur.
+
+_Yükleme Giriş-Çıkış Kaydı_ (10 usec.)
+lio x Y İşlem Kodu 22
+
+C(Z)'ler Giriş-Çıkış Kaydına yerleştirilir. C(Z)'ler değişmez. Orijinal C(IO)'ler kaybolur.
+
+_Depozito Giriş-Çıkış Kaydı_ (10 usec.)
+dio x Y İşlem Kodu 32
+
+C(IO)'ler bellekteki C(Z)'yi değiştirir. C(IO)'ler bu talimattan etkilenmez. Orijinal C(Z)'ler kaybolur.
+
+_Jump_ (5 usec.)
+jmp x Y İşlem Kodu 60
+
+Program Sayacı Z adresine sıfırlanır. Yürütülecek bir sonraki talimat
+bellek kaydı Z'den alınır. Program Sayacının orijinal
+içeriği kaybolur.
+
+_Jump and Save Program Counter_ (5 usec.)
+jsp x Y İşlem Kodu 62
+
+Program Sayacının içerikleri İndeks Toplayıcısına aktarılır.
+Aktarım gerçekleştiğinde, Program Sayacı jsp'yi
+takip eden talimatın adresini tutar. Program Sayacı daha sonra Z adresine sıfırlanır. Yürütülecek bir sonraki talimat
+bellek kaydı Z'den alınır.
+
+_Akümülatör ve Z farklıysa atla_ (10 usec.)
+sad x Y İşlem Kodu 50
+
+C(Z) C(AC) ile karşılaştırılır. İki sayı farklıysa, Program Sayacı bir pozisyon daha indekslenir ve dizideki bir sonraki talimat atlanır. C(AC) ve C(Z) bu işlemden etkilenmez.
+
+_Akümülatör ve Z aynıysa atla_ (10 usec.)
+sas x Y İşlem Kodu 52
+
+C(Z) C(AC) ile karşılaştırılır. İki sayı aynıysa, Program Sayacı bir ekstra pozisyona
+indekslenir ve dizideki bir sonraki talimat atlanır. C(AC) ve C(Z) bu işlemden etkilenmez.
+
+İndekslenemeyen Bellek Talimatları
+
+Bu talimatlar, indekslenebilir talimatlarla aynı kelime formatına sahiptir. İndeks kayıt yeri x üzerinde çalıştıkları için
+indekslenemezler.
+
+_Negatif dizinde atla_ (10 usec.)
+snx x Y İşlem Kodu 46
+
+Talimat kelimesinin 7 ila 11 arasındaki sekizli basamaklarındaki sayı C(x)'e eklenir. Bu ekleme, 15 bitlik Dizin Toplayıcıda 1'li tamamlayıcı aritmetiği kullanılarak yapılır. Eklemeden sonra toplam negatifse, Program Sayacı bir pozisyon daha ilerletilir ve dizideki bir sonraki talimat atlanır. Dizin kayıt yerinin 0-5 sekizli rakamlarının içerikleri bu talimattan etkilenmez.
+
+_Pozitif dizinde atla_ (10 usec.)
+spx x Y İşlem Kodu 44
+
+Talimat kelimesinin 7 ila 11 sekizli rakamlarındaki sayı C(x)'e eklenir.
+
+Bu ekleme, 15 bitlik Dizin Toplayıcıda 1'li tamamlayıcı aritmetiği kullanılarak yapılır.
+
+Eklemeden sonra toplam pozitifse, Program Sayacı bir pozisyon daha ilerletilir ve dizideki bir sonraki talimat atlanır. Dizin kayıt yerinin 0-5 sekizli rakamlarının içerikleri bu talimattan etkilenmez.
+
+_Yükleme Dizini Kaydı_ (10 usec.)
+lir x Y İşlem Kodu 14
+
+Talimattaki 7 ila 11 (Y) arasındaki sekizli basamaklar, x ile belirtilen bellek kaydının karşılık gelen basamaklarını değiştirecektir. Bellek kaydının sekizli basamağı
+6 boş bırakılacaktır. Bellek kaydının 0-5 basamakları
+değiştirilmez.
+
+_Yatırma Dizini Toplayıcısı_ (10 usec.)
+dia x Y İşlem Kodu 16
+
+C(IA), bellek konumu Y'nin sekizli basamakları 7 ila 11'i değiştirir.
+Y'nin sekizli basamağı 6 temizlenir. Y'nin 0'dan 5'e kadar olan rakamları değiştirilmeden bırakılır. Talimatın x kısmı göz ardı edilir.
+
+Bellek Dışı Talimatlar
+
+Döndürme ve Kaydırma Grubu
+
+Bu talimat grubu Akümülatörü ve/veya Giriş-Çıkış Kaydını döndürür veya kaydırır. İki kayıt birlikte çalıştığında, Giriş-Çıkış Kaydı Akümülatörün sağ ucunun 36 bit büyüklüğünde bir uzantısı olarak kabul edilir.
+
+Döndürme, aritmetik olmayan döngüsel bir kaydırmadır. Yani, kaydın iki ucu mantıksal olarak birbirine bağlanır ve bilgi, kayıt bir halkaymış gibi döndürülür.
+
+Kaydırma, aritmetik bir işlemdir ve aslında kayıttaki sayının 2^{+N} ile çarpılmasıdır; burada N kaydırma sayısıdır. 33'ten fazla adım içeren kaydırma veya döndürme talimatları zaman gecikmelerini simüle etmek için kullanılabilir. Akümülatörün 36 döndürme adımı tüm bilgileri orijinal konumuna döndürür.
+
+_Akümülatörü Sağa Döndür_ (36 kaydırma için en fazla 13 usec)
+rar N İşlem Kodu 671
+
+Bu talimat, Akümülatörün bitlerini sağa N
+konumunda döndürecektir, burada N, talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_Akümülatörü Sola Döndür_ (36 kaydırma için en fazla 13 usec)
+ral N İşlem Kodu 661
+
+Bu talimat, Akümülatörün bitlerini sola N
+konumunda döndürecektir, burada N, talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_Akümülatörü Sağa Kaydır_ (36 kaydırma için en fazla 13 usec)
+sar N İşlem Kodu 675
+
+Bu talimat, Akümülatörün içeriğini sağa N
+konumunda kaydıracaktır, burada N, talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_Akümülatörü Sola Kaydır_ (36 kaydırma için en fazla 13 usec.)
+sal N İşlem Kodu 665
+
+Bu talimat, Akümülatörün içeriğini N
+konum sola kaydıracaktır, burada N talimat sözcüğünün sekizli basamakları 7-11'dir.
+
+_İçeride-Dışarıda Kaydı Sağa Döndür_ (36 kaydırma için en fazla 13 usec.)
+rir N İşlem Kodu 672
+
+Bu talimat, İçeride-Dışarıda Kaydın bitlerini N
+konum sağa döndürecektir, burada N talimat sözcüğünün sekizli basamakları 7-11'dir.
+
+_İçeride-Dışarıda Kaydı Sola Döndür_ (36 kaydırma için en fazla 13 usec.)
+ril N İşlem Kodu 662
+
+Bu talimat, İçeride-Dışarıda Kaydın bitlerini N
+konum sola döndürecektir, burada N talimat sözcüğünün sekizli basamakları 7-11'dir.
+
+_Giriş-Çıkış Kaydını Sağa Kaydır_ (36 kaydırma için en fazla 13 usec)
+sir N ​​İşlem Kodu 676
+
+Bu talimat Giriş-Çıkış Kaydının içeriğini N
+pozisyon sağa kaydıracaktır, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_Giriş-Çıkış Kaydını Sola Kaydır_ (36 kaydırma için en fazla 13 usec)
+sil N İşlem Kodu 666
+
+Bu talimat Giriş-Çıkış Kaydının içeriğini N
+pozisyon sola kaydıracaktır, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_AC ve IO'yu Sağa Döndür_ (36 kaydırma için en fazla 13 usec)
+rcr N İşlem Kodu 673
+
+Bu talimat birleşik kaydın bitlerini tek bir halkada N
+pozisyon sağa döndürecektir, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_AC ve IO'yu Sola Döndür_ (36 kaydırma için maksimum 13 usec)
+rcl N İşlem Kodu 663
+
+Bu talimat, birleşik kayıtların bitlerini tek bir halka N pozisyonunda sola döndürecektir, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_AC ve IO'yu Sağa Kaydır_ (36 kaydırma için maksimum 13 usec)
+scr N İşlem Kodu 677
+
+Bu talimat, birleşik kayıtların içeriklerini N pozisyon sağa kaydıracaktır, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+_AC ve IO'yu Sola Kaydır_ (36 kaydırma için maksimum 13 usec)
+scl N İşlem Kodu 667
+
+Bu talimat, birleşik kayıtların içeriklerini N pozisyon sola kaydıracaktır, burada N talimat kelimesinin sekizli rakamları 7-11'dir.
+
+* * * * *
+
+_Skip Group_ (5 usec.)
+skp Y İşlem Kodu 64
+
+Bu talimat grubu, makinedeki çeşitli flip-flop'ların ve
+anahtarların durumunu algılar. Belleğe herhangi bir referans gerektirmez.
+Talimatların adres kısmı, algılanacak belirli işlevi seçer. Bu grubun tüm üyeleri aynı işlem koduna sahiptir.
+
+_SIFIR Akümülatörde Atla_ (5 usec.)
+sza Adresi 100
+
+Akümülatör artı SIFIR'a eşitse (tüm bitler SIFIR'dır) Program Sayacı bir ekstra pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır.
+
+_Artı Akümülatörde Atla_ (5 usec.)
+spa Adresi 200
+
+Akümülatörün işaret biti SIFIR ise, Program Sayacı bir ekstra pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır.
+
+_Eksi Akümülatörde Atla_ (5 usec.)
+sma Adresi 400
+
+Akümülatörün işaret biti BİR ise, Program Sayacı bir ekstra pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır.
+
+_SIFIR Taşmada Atla_ (5 usec.)
+szo Adresi 1000
+
+Taşma flip-flopu bir SIFIR ise Program Sayacı bir
+fazla pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır.
+Taşma flip-flopu bu talimatla temizlenir. Bu flip-flop, Akümülatörün kapasitesini aşan
+toplama, çıkarma veya bölme ile ayarlanır. Taşma flip-flopu, taşmaya neden olmayan aritmetik
+işlemlerle temizlenmez. Böylece, bir dizi
+aritmetik işlemin doğruluğu tek bir szo ile kontrol edilebilir.
+Taşma flip-flopu "Başlat" Anahtarı ile temizlenir.
+
+_Artı Giriş-Çıkış Kaydında Atla_ (5 usec.)
+spi Adres 2000
+
+Giriş-Çıkış Kaydının işaret basamağı SIFIR ise Program Sayacı
+bir ekstra pozisyon indekslenir ve dizideki bir sonraki talimat atlanır.
+
+_SIFIR Anahtarında Atla_ (5 usec.)
+szs Adresler 10, 20, ... 70
+
+Seçilen Algılama Anahtarı SIFIR ise Program Sayacı bir ekstra pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır. Adres 10, Algılama Anahtarı 1, Adres 20
+Anahtar 2, vb.'nin konumunu algılar. Adres 70 tüm anahtarları algılar. 70 seçilirse atlamanın gerçekleşmesi için
+tüm 6 anahtar SIFIR olmalıdır.
+
+_SIFIR Program Bayrağında Atla_ (5 usec.)
+szf Adresler 0 ila 7 dahil
+
+Seçilen program bayrağı SIFIR ise, Program Sayacı bir ekstra
+pozisyon ilerletilir ve dizideki bir sonraki talimat atlanır. Adres 0 seçim değildir. Adres 1 program bayrağını bir seçer,
+vb. Adres 7 tüm program bayraklarını seçer. Atlamaya neden olmak için tüm bayraklar SIFIR olmalıdır.
+
+Tek Döngü Atlama grubundaki talimatlar, ayrı atlamaların dahil OR'sini oluşturmak için birleştirilebilir. Bu nedenle, adres 3000 seçilirse, taşma flip-flopu SIFIR'a eşitse veya Giriş-Çıkış Kaydı pozitifse atlama gerçekleşir. Birleştirilmiş talimat yine de 5
+mikrosaniye sürer.
+
+* * * * *
+
+_İşletim Grubu_ (5 usec.)
+opr Y İşlem Kodu 76
+
+Bu talimat grubu çeşitli Merkezi İşlemci Kayıtları üzerinde çeşitli işlemler gerçekleştirir. Talimatın adres kısmı gerçekleştirilecek eylemi belirtir.
+
+_Giriş-Çıkış Kaydını Temizle_ (5 usec.)
+cli Adresi 4000'e eşit
+
+Bu talimat Giriş-Çıkış Kaydını temizler.
+
+_Test Sözcüğünden Akümülatörü Yükle_ (5 usec.)
+lat Adresi 2000
+
+Bu talimat C(AC) ve Test Sözcüğünün içeriğinin kapsayıcı VEYA'sını oluşturur. Bu talimat genellikle adres 200 ile birleştirilir (Akümülatörü temizle), böylece C(AC) Test Sözcüğü Anahtarlarının içeriğine eşit olur.
+
+_Tamamlayıcı Akümülatör_ (5 usec.)
+cma Adresi 1000
+
+Bu talimat Akümülatörün içeriğini tamamlar (negatif yapar).
+
+_Halt_
+hlt Adres 400
+
+Bu talimat bilgisayarı durdurur.
+
+_Akümülatörü Temizle_ (5 usec.)
+cla Adres 200
+
+Bu talimat Akümülatörün içeriğini temizler (artı 0'a eşitler).
+
+_Seçili Program Bayrağını Temizle_ (5 usec.)
+clf Adres 01 ila 07 dahil
+
+Seçili program bayrağı temizlenecektir. Adres 00 program bayrağı seçmez, 01 program bayrağı 1'i temizler, 02 program bayrağı 2'yi temizler, vb. Adres
+07 tüm program bayraklarını temizler.
+
+_Seçili Program Bayrağını Ayarla_ (5 usec. )
+stf Adres 11 ila 17 dahil
+
+* * * * *
+
+_Giriş-Çıkış Transfer Grubu_ (giriş-çıkış beklemesi olmadan 5 kullanım)
+iot x Y İşlem Kodu 72
+
+Bu talimat grubundaki varyasyonlar tüm giriş-çıkış
+kontrol ve bilgi aktarım işlevlerini gerçekleştirir. Altıncı bit (normalde Dolaylı Adres biti) BİR ise, bilgisayar durur ve cihazdan gelen
+tamamlama darbesinin etkinleştirilmesini bekler. Bu cihaz tamamlanmasını sağladığında, bilgisayar talimat dizisinin
+işlemini sürdürür.
+
+Belirli bilimsel veya gerçek zamanlı kontrol uygulamalarında önemli olabilecek bir tesadüfi gerçek, giriş-çıkış tamamlama darbesini
+takip eden işlemlerin zaman kökeninin o darbenin zamanıyla aynı olmasıdır.
+
+Çoğu giriş-çıkış işlemi tamamlanmadan önce bilinen bir asgari süre gerektirir.
+Bu süre programlama için kullanılabilir. Uygun Giriş-Çıkış
+Transferi giriş-çıkış beklemesi olmadan verilir (altıncı bit SIFIR). Talimat dizisi daha sonra devam eder. Bu dizi, yalnızca giriş-çıkış beklemesi gerçekleştiren bir
+iot talimatı içermelidir. Bu son talimat, güvenli minimum zamandan önce gerçekleşmelidir. Tüm giriş-çıkış aygıtları için minimum zamanların bir tablosu bilgisayarla birlikte verilir.
+Tamamlanma darbesinden önceki minimum süreyi ve Giriş-Çıkış Kayıt serbest süresini listeler.
+
+Giriş-Çıkış Transfer varyasyonlarının ayrıntıları
+Giriş-Çıkış altında listelenmiştir.
+
+Standart ekipman için anımsatıcı kodlar ve adresler şunlardır:
+
+_Kağıt Bant Alfanümerik Modunu Oku_
+rpa Adresi 1
+
+_Kağıt Bant İkili Modunu Oku_
+rpb Adresi 2
+
+_Daktilo Çıkışı_
+tyo Adresi 3
+
+_Daktilo Girişi_
+tyi Adresi 4
+
+_Delme Kağıt Bant Alfanümerik Modunu Delme_
+ppa Adresi 5
+
+_Delme Kağıt Bant İkili Modunu Delme_
+ppb Adresi 6
+
+MANUEL KONTROLLER
+
+PDP-3 Konsolu, operatörün kullanımı için kontrollere ve göstergelere sahiptir. Şekil 4, PDP-3'ün 18 bitlik versiyonu olan PDP-1'in kontrol panelinin yakın çekimidir. Tüm bilgisayar flip-flop'larının Konsol'da gösterge ışıkları vardır. Bu göstergeler öncelikle makine durduğunda veya makine adım adım çalıştırıldığında kullanılır. Makine çalışırken, bir göstergenin parlaklığı, o flip-flopun göreli görev faktörüyle bir miktar ilişki taşır.
+
+Konsol'da üç adet geçiş anahtarı kaydı bulunur. Bunlar
+Test Adresi (15 bit), Test Sözcüğü (36 bit) ve Algılama
+Anahtarlarıdır (6 bit). İlk ikisi, çalıştırma basmalı düğmeleriyle birlikte kullanılır. Algılama Anahtarları, manuel müdahale için mevcuttur. Bu anahtarların kullanımı program tarafından belirlenir (bkz. Sistem Blok Diyagramı ve Atlama Grubu Talimatları).
+
+Çalıştırma Basmalı Düğmeleri
+
+_Başlat_ - Bu anahtar çalıştırıldığında, bilgisayar başlayacaktır. İlk talimat, Test Adresi Anahtarlarında belirtilen bellek konumundan gelir.
+
+_Durdur_ - Bilgisayar, geçerli bellek döngüsünün tamamlanmasıyla
+durur.
+
+_Devam_ - Bilgisayar, ışıkların gösterdiği durumdan başlayarak çalışmaya devam eder.
+
+_İncele_ - Test Adresinde belirtilen bellek kaydının içeriği Akümülatör ve Bellek Arabellek
+ışıklarında görüntülenir.
+
+_Para_ - Test Kelime Anahtarları tarafından seçilen kelime, Test Adresi Anahtarları tarafından belirtilen
+bellek konumuna konur.
+
+_Okuma_ - Bu anahtar çalıştırıldığında, fotoelektrik kağıt bant okuyucusu Okuma modunda çalışmaya başlar. (Giriş-Çıkış'a bakın).
+
+Çalışma basmalı düğmelerine ek olarak, birkaç ayrı geçiş anahtarı vardır.
+
+_Tek Döngü Anahtarı_ - Tek Döngü Anahtarı açıkken, bilgisayar her bellek döngüsünün tamamlanmasıyla
+durur. Bu anahtar
+özellikle program hata ayıklamada faydalıdır.
+Devam Anahtarı düğmesinin tekrar tekrar çalıştırılması, programı birer döngü halinde ilerletir.
+Programcı böylece her adımda makine durumlarını inceleyebilir.
+
+_Test Anahtarı_ - Test Anahtarı açıkken, bilgisayar
+Test Adresi konumunda belirtilen talimatı gerçekleştirir. Tek Döngü Anahtarı açıksa, bu talimatı normal hız oranında veya tek bir döngü oranında tekrarlayacaktır. Bu anahtar öncelikle bakım amaçları için faydalıdır.
+
+_Algılama Anahtarları_ - Konsolda manuel müdahale için mevcut olan altı anahtar vardır.
+
+DEPOLAMA
+
+PDP-3 için dahili Bellek Sistemi, 4096 sözcükten oluşan çakışan akım manyetik çekirdek depolama modüllerinden oluşur. Her sözcük 36 bit içerir. Bellek modülleri 5 mikrosaniyelik bir okuma-yeniden yazma döngü süresiyle çalışır.
+Belleğin tahrik akımları normal oda sıcaklığı değişikliklerini telafi etmek için otomatik olarak ayarlanır.
+
+Her çekirdek bellek modülü bellek yığınından, gerekli X ve Y anahtarlarından, X ve Y akım kaynaklarından ve o yığın için algılama amplifikatörlerinden oluşur.
+
+Bellek Adres Kaydı, Bellek Arabellek Kaydı ve Bellek
+Zamanlama Kontrolleri Merkezi İşlemcinin bir parçası olarak kabul edilir. Standart PDP-3 Bellek Adres Kaydı yapılandırması, çekirdek belleğin 8 modülüne kadar (32.768 kelime) izin verecek şekilde oluşturulmuştur. Makinenin adresleme bölümünde, adreslemenin sekiz kat genişletilmesine ve toplam 262.144 bellek kaydı adresleme kapasitesine izin verecek bir alan vardır. Çekirdek Bellek, Manyetik Bant Depolama ile desteklenebilir. Bu, Giriş-Çıkış altında açıklanmıştır. STANDART GİRİŞ-ÇIKIŞ
+
+PDP-3, çeşitli giriş-çıkış
+ekipmanlarını barındıracak şekilde tasarlanmıştır. Standart giriş-çıkış üniteleri arasında bir Kağıt Bant Okuyucu,
+Kağıt Bant Delgeç ve bir Elektrikli Daktilo bulunur.
+
+Tek bir talimat olan Giriş-Çıkış Transferi (Merkezi İşlemciye bakın), tüm giriş-çıkış işlemlerini 36 bitlik Giriş-Çıkış Kaydı aracılığıyla gerçekleştirir. Bu talimatın adres bölümü, giriş-çıkış işlevini belirtir. Talimatın bir biti, gerektiği gibi bir giriş-çıkış durdurma seçer.
+
+KAĞIT BANT OKUYUCU
+
+PDP-3'ün Kağıt Bant Okuyucusu saniyede 300 satır okuyabilen bir fotoelektrik cihazdır. İkili delinmiş sekiz delikli bant okunurken altı satır standart 36 bit kelimeyi oluşturur. Beş, altı ve yedi delikli bantlar da okunabilir.
+
+Okuyucu iki temel moddan birinde veya üçüncü bir özel
+modda çalışacaktır.
+
+Alfanümerik Mod
+rpa iot 1
+
+Bu modda, her Giriş-Çıkış Transferi için bir bant satırı okunur. Satırın tüm sekiz deliği okunur. Bilgi Giriş-Çıkış Kaydının sağ sekiz bitinde bırakılır, kaydın geri kalanı boş bırakılır. Standart PDP alfanümerik kağıt bant kodu, program tarafından kontrol edilebilen tek parite biti içerir. Standart olmayan genişlikteki bant bu modda okunur.
+
+İkili Mod
+rpb iot 2
+
+Her Giriş-Çıkış Transfer talimatı için, altı satır kağıt bant okunur
+ve tam bir bilgisayar sözcüğü oluşturmak için Giriş-Çıkış Kaydında birleştirilir. Bu modda bir satırın tanınması için sekizinci delik delinmelidir;
+yani sekizinci deliği olmayan satırlar atlanır. Yedinci delik
+yok sayılır. İkili banttaki deliklerin düzeni, makine talimatı açısından görsel olarak
+kolayca yorumlanabilecek şekilde düzenlenir.
+
+Okuma Modu
+
+Bu, Konsoldaki "Okuma" Anahtarı tarafından etkinleştirilen özel bir moddur.
+Bu, bellekteki okuma programlarına güvenmeyen veya bir fiş kartı gerektirmeyen programları girmenin bir yolunu sağlar. "Okuma" Anahtarına basmak, okuyucuyu ikili modda başlatır. Altı satırlık ilk grup ve altı satırlık alternatif gruplar "Okuma" modu talimatları olarak yorumlanır. 6 satırlık çift sayılı gruplar veridir. "Read-In" modu talimatları "deposit in-out" (dio Y) veya "jump" (jmp Y) olmalıdır. Talimat dio Y ise, bir sonraki altı ikili satır grubu Y bellek konumunda saklanır ve okuyucu hareket etmeye devam eder. Talimat jmp Y ise, "Read-In" modu sonlandırılır ve bilgisayar atlama talimatının adresinde çalışmaya başlar.
+
+KAĞIT BANT DELME MAKİNESİ
+
+Standart PDP-3 Kağıt Bant Delme Makinasının nominal hızı saniyede 20 satırdır. Alfanümerik modda veya ikili modda çalışabilir. Alfanümerik Mod
+ppa iot 5
+
+Her Giriş-Çıkış Transfer talimatı için bir satır bant delinir. Giriş-Çıkış
+Kayıt biti 35 koşulları delik #1. Bit 34 koşulları delik #2, vb. Bit
+28 koşulları delik #8.
+
+İkili Mod
+ppb iot 6
+
+Her Giriş-Çıkış Transfer talimatı için bir satır bant delinir. Giriş-Çıkış
+Kayıt biti beş koşulları delik #1. Bit dört koşulları delik #2, vb.
+Bit sıfır koşulları delik #6. Delik #7 boş bırakılır. #8 deliği bu modda her zaman delinir.
+
+DAKTİLO
+
+Daktilo giriş modunda veya çıkış modunda çalışacaktır.
+
+Çıkış Modu
+tyo iot 3
+
+Her Giriş-Çıkış Transfer talimatı için bir karakter yazılır.
+Karakter, Giriş-Çıkış Kaydının sağ altı biti tarafından belirtilir.
+
+Giriş Modu
+tyi iot 4
+
+Bu işlem tamamen eşzamansızdır ve bu nedenle önceki giriş-çıkış işlemlerinden farklı şekilde işlenir.
+
+Bir Daktilo tuşuna basıldığında, Program Bayrağı Bir ayarlanır. Aynı anda, basılan tuşun kodu Giriş-Çıkış Kaydının sağ altı bitine bağlı kapılara sunulur. Bu bilgi, yavaş mekanik eylem sayesinde nispeten uzun bir süre kapıda kalır. Yazılan verileri kabul etmek üzere tasarlanmış bir program, Program Bayrağı Bir'in durumunu periyodik olarak kontrol eder. Herhangi bir zamanda Program Bayrağı Bir'in ayarlandığı bulunursa, bilgilerin aktarılması için adres dört olan bir Giriş-Çıkış Aktarım talimatı yürütülmelidir. Bu Giriş-Çıkış Aktarımı normalde isteğe bağlı giriş-çıkış durdurmayı kullanmamalıdır. Daktilonun kodlayıcısında bulunan bilgiler daha sonra Giriş-Çıkış Kaydının sağ altı bitine okunur.
+
+İSTEĞE BAĞLI GİRİŞ-ÇIKIŞ
+
+PDP-3, çeşitli giriş-çıkış
+ekipmanlarına uyum sağlayacak şekilde tasarlanmıştır. Özellikle ilgi çekici olan, makineye yeni ve belki de alışılmadık harici ekipmanların ne kadar kolay eklenebildiğidir.
+İsteğe bağlı giriş-çıkış cihazları arasında Katot Işın Tüpü Ekranı, Manyetik Bant,
+Gerçek Zamanlı Saat, Satır Yazıcısı ve Analogdan Dijitale Dönüştürücüler bulunur.
+PDP-3'ün bu isteğe bağlı cihazlarla çalışma yöntemi,
+standart giriş-çıkış ekipmanına benzerdir.
+
+SIRALI KESİM SİSTEMİ
+
+PDP-3 için isteğe bağlı bir giriş-çıkış kontrolü mevcuttur.
+Sıralı Kesim Sistemi olarak adlandırılan bu kontrol, birkaç giriş-çıkış cihazının ve ana dizinin eş zamanlı çalışmasına olanak tanır. Sistem, nominal olarak, bir öncelik zincirinde düzenlenmiş 16 otomatik kesme kanalına sahiptir.
+
+Belirli bir diziye yapılan bir kesme, bir giriş-çıkış cihazının, programın veya harici bir sinyalin tamamlanmasıyla başlatılabilir. Bu dizinin önceliği varsa, C(AC), C(IO), C(PC) ve C(IA) o diziye özgü üç sabit bellek konumunda saklanır. C(PC) ve
+C(IA) her biri on sekiz bit olduğundan, bu iki kayıt tek bir bellek konumunda saklanır. Bir sonraki talimat dördüncü bir konumdan alınır.
+Bu talimat genellikle uygun bir rutine atlamaktır. Program artık yeni dizide çalışmaktadır. Bu yeni dizi daha yüksek öncelikli bir diziyle kesilebilir. Bir giriş-çıkış
+dizisini işlemek için tipik bir program döngüsü, uygun
+iot dahil olmak üzere 3 ila 5 talimat içerir. Bunları sabit konumlardan AD yükleme ve IO yükleme ve önceki C(PC) konumundan özel bir dolaylı atlama izler.
+Bu özel atlama ayrıca IA'yı yükler. Bu son talimat diziyi sonlandırır.
+
+YÜKSEK HIZLI GİRİŞ-ÇIKIŞ KANALI
+
+Bir giriş-çıkış kanalına bağlı cihaz, Bellek Arabellek Kaydı aracılığıyla doğrudan bellekle iletişim kurar. Her
+makine talimatının tamamlanmasında, giriş-çıkış kanalının bellek için bir
+kelimeye sahip olup olmadığını veya bellekten bir kelimeye ihtiyaç duyup duymadığını görmek için bir kontrol yapılır. Gerektiğinde, kanala hizmet etmek için bir bellek
+döngüsü alınır. İşlem bir
+in-out komutuyla başlatılır. In-out transfer komutu,
+transferin niteliğini belirtir. In-Out Register'ın sol yarısı,
+transferin başlangıç ​​adresini ve sağ yarısı da
+transfer edilecek kelime sayısını içermelidir. Sıra Kesme Sistemi bağlıysa, transferin tamamlanması doğru sırayı işaret eder. Sıra Kesme Sistemi bağlı değilse, giriş-çıkış kanal transferinin tamamlanması bir program bayrağı ayarlar.
+
+MANYETİK BANT
+
+Sistem, bir bant kontrolü (TC) aracılığıyla PDP-3'e bağlı bant ünitelerinden oluşur. Bu bant IBM 729I formatında okunur veya yazılır. Her biri 6 bit ve bir parite biti olan iki yüz karakter, her bir bant inçine yazılır ve bant saniyede 75 inç hareket eder. Bant kontrolünün görevi, belirli bir üniteyi PDP-3'e bağlamaktır ve bir anahtardır. Ayrıca, bantta okunan veya yazılan bilgilerin formatını kontrol etme işlevi de vardır. Giriş-çıkış sınıfı komutları, TC'ye bilgi transferinin türünü bildirir ve bant ünitesini seçer. Başka bir IOT komutu, TC aracılığıyla bilginin bilgisayara aktarılmasını senkronize eder.
+
+Birim ve işlevi seçmek için IOT emri şu şekilde çözülür: 1)
+Üç bit TC'nin işlevini belirtir. 2) Kalan 6 bit
+birimi seçer.
+
+_Manyetik Bant Birimleri için IOT Hareket Komutları_
+
+_IOT Kodu_ _Kısaltma_ _İşlev_
+
+73....nn 60 mrb İkili bir kaydı oku.
+73....nn 61 mra Alfanümerik (BCD) bir kaydı oku.
+73....nn 62 mbb İkili bir kaydı geri al.
+73....nn 63 mba Alfanümerik bir kaydı geri al.
+73....nn 64 mwb İkili bir kaydı yaz.
+73....nn 65 mwa Alfanümerik bir kaydı yaz.
+73....nn 66 mlp Bandı başlangıç ​​noktasına taşı (geri sar).
+
+Sekizli basamaklar, nn, birim numarasını belirtir.
+
+Hareket komutları ertelenmiş bit içerir, bu nedenle program durur.
+TC boşsa, komut eylem için bant denetimine aktarılır ve program hemen yeniden başlar. Bant denetimi şu anda bir talimatla meşgulse, yani önceki bir
+komutu bitirmemişse, hareket komutu TC yeni komutu yürütmek için serbest kalana kadar bekletilir.
+
+Bilgilerin bilgisayardan TC'ye aktarımı duraklatma ve atlama komutu, MPS veya IOT 70 ile gerçekleştirilir.
+Bu komut ertelenmiş bit içerir ve TC aktarımı işleyebilene kadar programı durdurur.
+Tamamlandığında, aktarım gerçekleşir ve program yeniden başlar. Bu, yalnızca bir bant birimi ile bilgisayar arasındaki bilgi akışını senkronize etmek için kullanılır.
+Bu komut normalde aşağıdaki
+talimatları atlar. TC'de yanlış bilgi akışını belirten bir bayrak ayarlanırsa, atlama gerçekleşmez.
+
+TC, bilgi okunurken veya yazılırken tam bir kelime tutan 36 bitlik bir arabellek içerir. Bir MPS emri verildiğinde ve ünite okurken, TC arabelleği IO'ya okunur. Yazma sırasında verilen MPS emri, IO'nun TC arabelleğine aktarılmasına neden olur.
+
+TC'de meydana gelen çeşitli koşullar, bir MPS verildiğinde atlamama koşuluna neden olur. Bant kontrol bayrakları, incele
+ve temizle bayrakları, MEC veya IOT 71 komutuyla incelenir. MEC verildiğinde, bayraklar program sorgulaması için IO'ya yerleştirilir ve bayraklar temizlenir. Bayraklar şunlardır: parite, bant sonu, kayıt sonu bayrağı ve okuma-yazma
+kontrolü.
+
+Parite bayrağı, bant okunurken (MWA, MWB, MRA veya MRB sırasında) parite koşulu karşılanmazsa ayarlanır.
+
+Bant sonu bayrağı, bant her iki yönde hareket ederek bandın sonuna geldiğinde ayarlanır.
+
+Üç koşul okuma-yazma kontrol bayrağını ayarlar: 1) TC etkin değilse, yani hiçbir birim veya işlev seçilmemişse ve bir MPS talimatı verilmişse. MPS, işlem yok, durma yok talimatı haline gelir. 2) Bilgi okurken ve TC tamponunu boşaltmazken, banttan daha fazla bilgi gelmeden önce bir MPS vererek. 3) Bir birim normal bir dizi sırasında kullanılamaz hale gelir.
+
+Kayıt sonu bayrağı, bant kayıt boşluğunun sonuna geldiğinde okuma veya geri alma sırasında ayarlanır.
+
+_Bilgi Kaydı Yazma_
+
+Bilgi, MWB veya MWA komutu verilerek banda yazılır. Bu, TC'ye bir ikili yazma veya alfanümerik yazma ayarlar ve birimi seçer. TC boşsa bir hareket seçme komutu hemen yürütülür, aksi takdirde komut yürütülebilene kadar bekler. Normal programlama, MWA veya MWB verildikten sonra yaklaşık 5 milisaniye devam edebilir. Bu sırada bir MPS emri verilir ve program, bilgi yazılabilene kadar duraklar. MPS yeniden başlatıldığında, bilgi IO'dan TC tamponuna aktarılır. Hiçbir bayrak ayarlanmamışsa, aşağıdaki talimat atlanır.
+
+Üç çeyrek inçlik boş bant, MWA veya MWB emri verilerek yazılır. Bir dosya sonu şu şekilde yazılır: 1) Dört MWA komutu
+üç inçlik boş bant yazar. 2) Daha sonra dosya sonu karakteri MPS emri verilerek yazılır.
+
+Yazma sırasında bilgi okunur ve doğru parite açısından kontrol edilir.
+
+Hareket seçme komutu,
+MWA veya MWB ile ilk MPS arasında çok fazla program adımı verilirse, ünite seçimi kaldıracaktır (veya bağlantısını kesecektir).
+MPS daha sonra bir işlemsiz komuttur.
+
+_Program Yazma_
+
+Örneğin, depolama alanından ikili formatta k kelimeyi
+kayıt A'dan başlayarak, bant ünitesi numarası 04 kullanılarak yazmak için bir program gösterilmiştir.
+Aşağıdaki program standart FRAP dilinde yazılmıştır. Program
+kayıt enterwrite'da başlar.
+
+enterwrite mec, başlangıçta bayrakları temizle
+mwb 400, 73000000464
+lir x/-k+1, dizin kaydı x'i başlat
+b lio x/a+k-1, döngüyü başlat
+mps, TC'yi bekle ve sonra C(Z)'yi yaz
+jmp c, hata
+spx x/1, dizin kaydı x'e 1 ekle
+jmp b, döngünün dönüşü
+jmp bitti, kayıt yazıldı
+
+c mec, bant hatası
+ril 1
+spi
+jmp rwcstop, okuma-yazma hatası veya bant arızası
+ril 1
+spi
+jmp b+3, bant sonu
+hlt, bant paritesi
+
+bitti, programlamaya devam
+
+_Bilgi Okunuyor_
+
+Bilgi, MRA veya MRB emri verilerek okunur. Yaklaşık 10 ms.
+Bilgiler TC tamponuna girmeden önce bir okuma emri verildikten sonra kullanılabilir.
+
+Bilinmeyen uzunlukta bir kaydı okumak için önce okuma emri verilir.
+MPS emri, TC bilgi tamponunda altı karakter bir araya getirilene kadar programı durdurur. MPS'den sonraki bir sonraki talimat, bir atlama
+talimatıdır, herhangi bir bayrak ayarlandığında kontrolü döngüden aktarır.
+Bir sonraki talimat IO'yu depolar. Kayıt uzunluğu, kayıt sonu bayrağının ayarında MPS emrinden sonra atlama yapılmamasıyla belirlenir.
+Daha sonra okuma-yazma kontrol bayrağı veya kayıt sonu bayrağı sorgulanır ve
+bantın gerçekten kaydın sonunda olup olmadığı görülür.
+Bir bant kaydın sonunda değilse, bant ya makara sonundadır ya da
+bir parite kontrolü gerçekleşmiştir.
+
+_Okuma Programı_
+
+Kayıt d'den başlayarak j ikili sözcüğünü depolamaya okuyan program,
+bant birimi 10'u kullanarak, j bilinmiyor. Program kayıt
+enterread'de başlar.
+
+enteread mec, başlangıçta bayrakları temizle
+mrb 1000, 730000001060
+dzm x, bellek konumuna x sıfır koy
+e mps
+jmp outcheck
+dio x/d, x tarafından değiştirilen konuma kaydet
+snx x/+1, C(x)'e 1 ekle
+jmp e
+
+outcheck mec, bayrakları incele
+spi, kaydın sonu?
+jmp recordend, evet
+hlt, hata
+
+recordend snx x/+1, j değerini bulmak için
+" , programlamaya devam et C(IA) = j
+"
+"
+"
+
+_İleri Aralık_
+
+İleri aralık, bir MRB veya MRA emri verilerek yapılır. Bu, bandı, okuma-yazma kafası takip eden kaydın sonunda konumlandırılmış şekilde ileri doğru hareket ettirir. n okuma emri verilirse, bant n kayıt ileri doğru aralıklandırılır. MEC emri verilerek, banttaki bilgilerin doğru şekilde okunup okunmadığını görmek için eşlik işaretleri incelenir.
+
+_Geri Alma_
+
+MBA veya MBB emri verilerek, bant bir önceki kayıt sonu boşluğunda konumlandırılmış okuma-yazma kafalarıyla bir kayıt geriye doğru hareket ettirilir.
+Kayıt sonu bayrağı, bant bir kayıt geriye doğru hareket ettirildiğinde ayarlanır.
+
+_Geri Sarma_
+
+Geri sarma, bandı yükleme noktasına taşı, MLP, geri sarma emri verilerek gerçekleştirilir. Geri sarma emri bir birim geri sarmaya başlar ve TC'yi bağlamaz. Geri sarma yapan bir birimi çağıran bir hareket komutu verilirse, komut yürütülür, ancak eylem birim kullanılabilir olana kadar gerçekleşmez.
+
+_Birim Kullanılabilirliği_
+
+Bir birim aşağıdaki koşullar altında program tarafından kullanılamaz:
+
+1. Birim geri sarıyor. 2. Bant uygunsuz şekilde yüklenmiş.
+3. Kapak kapısı açık.
+4. Ünite aşırı yüklenmiş.
+5. Ünite manuel kontrol altında.
+6. Güç kapalı.
+
+Seçili ancak kullanılamayan bir ünite, ünite için bir hareket emri verilirse TC'yi tutar. TC, ünite hazır olana kadar tutulur.
+
+_Bayrak Pozisyonları_
+
+_IO Bit_ _Bayrak_
+
+0 EOR - Kayıt sonu
+1 RWF - Okuma-Yazma
+2 EOT - Bant Sonu
+3 Parite
+
+_Yüksek Hızlı Kanalla Bağlantı_
+
+Yüksek hızlı kanal, bant kontrolünü ve kelime transferini, tıpkı bir program gibi yönlendirir. Bir ünite önce okumaya veya yazmaya başlar. Yüksek hızlı kanala bilginin bellek konumu ve okunan veya yazılan kelimelerin kaplayacağı kayıt sayısı verilir. Kanal, bilgi transferini etkiler. Bu nedenle, bir bant kontrolüne bağlı yüksek hızlı bir kanal, ünite kelime transferleri için programlamayı yönetir.
+
+Blok transferinin tamamlanması, bir
+program bayrağı ayarlayarak veya sıra kesintisi girerek belirtilir.
+
+_Sıra Kesintisi Sistemiyle Bağlantı_
+
+TC, Sıra Kesintisi Sistemine bağlandığında, program her MPS komutu verilmesi gerektiğinde otomatik olarak kesilir.
+
+Programlama okuma sırasında etkilenmez ve bir kayıt hiçbir bayrak ayarlanmadan okunabilir. TC, bir MPS'nin zamanında verilebilmesi için kesintileri başlatır.
+
+Benzer şekilde, kesinti, bir MPS verilmesi gerektiğinde her yazma sırasında başlatılır.
+
+_Hareket Komutu Özeti_
+
+_İlk MPS_ MPS'nin_ Kaydının seçimi kaldırılacak_ Bayrakların Sonu_ arasındaki _Zaman_ süresi ayarlanabilir_
+
+MWA 3 ms. 400 us. 10 ms. RWF (eğer birim
+MWB (daha uzun süre seçili değilse
+seçimsizliğe neden olur) ve MPS verilirse,
+veya birim
+kullanılamaz hale gelirse),
+Parite, EOT.
+
+MRA 7 ms. < 400 us. 5 ms. RWF, (eğer
+MRB (daha uzun süre bilgisi
+bilgiyi kaçırırsa, kaçırılırsa veya
+ve birim
+rwc ayarlanırsa) kullanılamaz hale gelirse),
+EOT, EOR,
+Parite.
+
+MBA - - 10 ms. RWF (eğer birim
+MBB
+kullanılamaz hale gelirse),
+EOR, EOT.
+
+KATOT IŞINI TÜPÜ EKRANI
+
+PDP-3 Katot Işın Tüpü Ekranı, operatöre grafiksel veya tablosal bilgilerin sunulması için kullanışlıdır. Manyetik sapmaya sahip 16 inçlik yuvarlak bir tüp kullanır. Her Giriş-Çıkış transfer emri için, Giriş-Çıkış Kaydı tarafından belirtilen konumda bir nokta görüntülenir. IO'nun 0-9 bitleri konumun X koordinatını, 18-27 bitleri ise Y koordinatını gösterir. Görüntüleme 60 mikrosaniye sürer.
+
+Ek bir görüntüleme seçeneği Işık Kalemidir. Bu cihazın kullanımıyla bilgisayara operatörün görüntülenen son noktayla ilgilendiği bildirilir. Böylece program, görüntülemeyi değiştirme veya işlemi başka bir programa kaydırma gibi uygun eylemi gerçekleştirebilir.
+
+Daha küçük bir ekran mevcuttur. Bu ekran beş inçlik, yüksek çözünürlüklü bir katot ışın tüpü kullanır. Tüp, bir kamera veya fotoçoğaltıcı cihazı kabul etmek için bir montaj çerçevesiyle donatılmıştır. Bu ekranın çalışması, her eksen için 12 bitin kod çözülmesi dışında 16 inçlik ekrana benzerdir.
+
+GERÇEK ZAMANLI SAAT
+
+Gerçek Zamanlı Saat olarak çalışmak üzere özel bir giriş kaydı bağlanabilir. Bu, kristal kontrollü bir osilatör tarafından çalıştırılan bir sayma kaydıdır. Saat, manuel işlemle sıfırlanabilir. Bir geçiş anahtarı kilidi, kazara sıfırlamayı önler. Bu sayacın durumu, uygun Giriş-Çıkış Transfer talimatı ile herhangi bir zamanda okunabilir.
+
+SATIR YAZICI
+
+PDP-3 için 72 sütunlu bir Anelex yazıcı ve kontrol
+seçeneği olarak mevcuttur. Kontrol, bir satırlık bir arabellek içerir. Bu arabellek,
+kağıdı bir konum arayla yerleştirme emrinin (psp) tamamlanmasıyla temizlenir.
+Arabellek, Giriş-Çıkış Kaydından ardışık 12 yükleme arabellek emri (plb) ile doldurulur. İlk plb, C(IO) ile temsil edilen altı karakteri arabelleğin öndeki (sol taraftaki) sütun konumlarına yerleştirir.
+Arabellek yüklendikten sonra, print (pnt) emri verilir.
+
+YARDIMCI PROGRAMLAR
+
+FRAP-3 - Derleme Programı
+
+Bir derleyici veya derleyici, operatör dilindeki bir program bandından bilgisayar tarafından doğrudan yorumlanmaya uygun bir makine dili bandı
+hazırlar. Genel olarak, FRAP tarafından kabul edilen bir ifade
+makine için bir talimat üretir.
+PDP-3 derleyicisi DECAL-3 için yazılan tek bir ifade, birkaç talimatın yazılmasına neden olabilir.
+Bu nedenle, FRAP ifadeler için talimatların 1'e 1 eşlenmesine neden olurken
+DECAL bir ifadeden birçok talimat üretebilir.
+
+Çevrimdışı ekipmanla program bantlarının hazırlanmasına izin vermenin yanı sıra, bir montaj programının başka işlevleri de vardır.
+Normalde, makinede kullanılan her talimat için 36 bit veya 12 sekizli rakamın
+yazılması gerekir. FRAP, talimatlar için anımsatıcı sembollerin
+kullanılmasına izin verir. Bu anımsatıcı semboller, talimatı kolayca hatırlanabilen bir biçimde temsil ederek programcıya yardımcı olur.
+
+Anımsatıcı sembollerin talimatları temsil etmesine izin vermenin yanı sıra,
+alfasayısal karakterlerin değişken uzunluklu dizileri, bellek adreslerini sembolik biçimde temsil etmek için kullanılabilir. Montaj programı, programcı için adres muhasebesini yapar. FRAP
+programının kısa bir örneği 29. sayfadadır.
+
+FRAP-3 dilinde yazılan talimatların formatını sınırlayan veya kontrol eden birkaç karakter olduğundan, talimatları hemen hemen her
+format veya stilde yazmak mümkündür.
+
+FRAP-3 ayrıca, işlem kodu sembolleri için keyfi tanımlara izin verildiğinden, yorumlayıcı programlama için bantları hazırlamak için de kullanılabilir.
+
+Hem programlama kolaylığı hem de makine simülasyonu için yararlı bir özellik, bir dizi talimatın (makro talimat)
+yazılmasını isteme yeteneğidir. Bu nedenle, sık kullanılan talimat dizilerinin yalnızca bir kez tanımlanması gerekir.
+
+DECAL - Derleyici Programı
+
+DECAL-3 (PDP-3 için Dijital Ekipman Derleyicisi, Montajcı ve Bağlantı Yükleyicisi), PDP-3 için entegre bir programlama sistemidir. Gelişmiş montajcıların,
+derleyicilerin ve yükleyicilerin tüm temel özelliklerini tek bir sistemde birleştirir.
+
+DECAL hem bir montajcı hem de bir derleyicidir. Bir derleyicinin bire bir çeviri olanaklarını ve bir formül çeviri derleyicisinin bire çok çeviri olanaklarını birleştirir. Sorun odaklı dil ifadeleri sembolik makine dili talimatlarıyla serbestçe karıştırılabilir. Program konumunun yükleme zamanında belirtilmesine olanak sağlayan esnek bir yükleyici mevcuttur. Programcı, belirli değişkenlerin ve sabitlerin "sistem" değişkenleri ve sabitleri olduğunu belirtebilir. Bu şekilde tanımlanan semboller, birçok rutinin olduğu bir sistemde evrensel olarak kullanılır. Bu nedenle, büyük bir programın parçaları arasındaki iletişimler, bu parçalar ayrı ayrı derlenebilse bile kolaylaştırılır. Büyük bir program için depolama gereksinimleri bu teknikle azaltılır.
+
+DECAL, açık uçlu bir programlama sistemidir ve dahili işlemin ayrıntılı bir şekilde anlaşılması olmadan değiştirilebilir. Bu, küçük bir mantıksal yetenek kümesine sahip bir iskelet derleyiciye dayalı yinelemeli bir tanımlama tesisi aracılığıyla elde edilir. İskelet derleyici, daha karmaşık tesislerin tanıtılması için bir önyükleme işlevi görür.
+
+Derleyici, formül çeviri operatörlerinin tam olarak tanımlanmış bir alt kümesiyle birlikte teslim edilecektir. Kullanıcı, kaynak diline en iyi şekilde uyması için ek alt kümeler tanımlayabilir.
+
+KAYNAYAN NOKTA ALT RUTİNLERİ
+
+Kayan nokta aritmetiğini gerçekleştirmek için PDP-3 ile bir dizi alt yordam sağlanır. Bunlarda, PDP-3 36 bitlik sözcük, 27 bitlik bir mantis, a ve 9 bitlik bir üs, b oluşturmak üzere bölünür. Böylece sayılar şu şekilde görünür: k = ax2^b, burada a, 1/2 <= a < 1 aralığında kesirli formda kabul edilir ve b bir tam sayıdır, 0 <= b < 29. Bu, 10^{-76} < k < 10^{+76} aralığındaki sayıyı, k, verir.
+
+Alt yordamlar, akümülatörde bir işlenenle çağrılır.
+Alt yordam yürütüldükten sonra, akümülatör cevabı içerir.
+Bu nedenle, kayan nokta sayıları esasen normal mantıksal
+işlemler olarak işlenir. Sayının biçimi, büyüklük karşılaştırmalarının geleneksel aritmetikle yapılmasına olanak tanır, çünkü bit 0 sayının işareti, 1 ila 9 arasındaki bitler üs ve kalan 26 bit, işaret bitiyle birlikte, mantis birler tamamlayıcısı aritmetiğidir. Aritmetik alt rutinler şunlardır: toplama, çıkarma, çarpma, bölme, kayan nokta sayısını ikiliye dönüştürme, ikili sayıyı kayan nokta sayısına dönüştürme. Ek rutinler şunlardır: [x'in karekökü], e^x, ln x, sine(~pi~/2)x,
+cos(~pi~/2)x, tan^{-1}x. Kayan noktalı ondalık sayılarla PDP-3 kayan noktalı sayılar arasında dönüşüm yapmak için de programlar vardır.
+
+İki işlenen gerektiren rutinler, örneğin toplama, çıkarma, çarpma ve bölme, ikinci işlenenin adresini belirtmek için bir dizin kaydı gerektirir. Bir endeks kaydı ayrıca veri dönüşümlerindeki parametreleri belirtir, örneğin ikili bir sayıyı standart bir kayan noktalı sayıya dönüştürürken ikili noktanın konumu. Kayan nokta alt rutinleri kullanılarak, karmaşık kayan noktalı sayılar ve vektör ve matris cebirini işleyen ek rutinler yazılabilir. BAKIM RUTİNLERİ
+
+Bakım Rutinleri yalnızca makinenin çalışmasını kontrol etmek için kullanılır. Bu rutinler, önyargı besleme voltajları değiştirilirken çalıştırılır ve böylece makinenin çalışmasını etkileyebilecek tüm bileşenlerin olası bozulması kontrol edilir.
+
+ÇEŞİTLİ RUTİNLER
+
+PDP-3 ile çeşitli ek programlar sağlanır.
+
+Daha önemli programlardan biri Daktilo Sorgulayıcı Programı'dır (TIP). TIP, daktilonun programların ve verilerin incelendiği ve değiştirildiği bir giriş-çıkış bağlantısı olarak en etkili şekilde kullanılmasını sağlar. Özellikler arasında bir dizi
+kayıt yazdırma isteği, kayıtların içeriklerinin sorgulanması ve değiştirilmesi
+ve programlar uygun şekilde değiştirildikten sonra yeni bantlar isteme yeteneği yer alır. İletişim tamamen daktilo aracılığıyla sekizli sayılar, ondalık sayılar veya alfanümerik kodlar şeklinde yapılır. Kayıt içerikleri
+benzer bir biçimde sunulur.
+
+Diğer çeşitli rutinler aritmetik işlemleri, örneğin sayı
+dönüştürmelerini ve giriş veya çıkış aygıtlarıyla iletişimi ele alır. Bu
+rutinler çeşitli formatlı çıktıları, kağıt bant ve manyetik bant okuma programlarını ve görüntüleme alt rutinlerini içerir. * * * * *
+
+[Resim: SİSTEM BLOK DİYAGRAMI ŞEKİL 1]
+
+[Resim: TALİMAT BİÇİMİ ŞEKİL 2]
+
+[Resim: ŞEKİL 3]
+
+* * * * *
+
+Yazıcının Notları:
+
+C (X) ve C(X), C(X) olarak standartlaştırılmıştır.
+
+usec ve usec., metin boyunca usec. olarak standartlaştırılmıştır.
+
+Orijinal metindeki diğer değişiklikler aşağıda listelenmiştir.
+
+Şekil 4, metinde referans alınmıştır, ancak bir kopyası bulunamamıştır.
+
+Altı çizili metin, alt çizgilerle çevrelenmiştir.
+
+Üst simgeler, x^2 ve y^{-3} karatlarıyla işaretlenmiştir.
+
+Yunan sembolleri ~tilda~ ile çevrelenmiştir.
+
+Transkriptör Değişiklikleri:
+
+İÇİNDEKİLER: Başlangıçta 'İşlem' (=İşletim= Hızları)
+
+İÇİNDEKİLER: Başlangıçta 'Frap' (=FRAP=)
+
+İÇİNDEKİLER: Başlangıçta 'Rutinler' (=Alt yordamlar=)
+
+Sayfa 4: Başlangıçta 'theoperate' (bir program =the operate= talimatı aracılığıyla çalışırken.)
+
+Sayfa 7: Virgül eklendi (Talimat tabanı adresi, =Y,= sekizli
+
+rakamlarda 7'den 11'e kadardır.)
+
+Sayfa 8: 'Alt yordamlar'dan standartlaştırılmıştır (Ondalık sayıların makine tarafından kullanılmak üzere ikili sisteme dönüştürülmesi =subroutines= tarafından otomatik olarak gerçekleştirilebilir.)
+
+Sayfa 8: 'Alt yordam'dan standartlaştırılmıştır (ikili sayıların ondalıklara çıktı dönüşümü =subroutine= tarafından yapılır.)
+
+Sayfa 16: Virgül eklendi (Bu talimat, birleşik kayıt defterinin içeriğini sağa kaydıracaktır
+N = konumlar,= burada N, talimat kelimesinin sekizli rakamlarıdır
+7-11.)
+
+Sayfa 16: Virgül taşındı. 'sol, N konum' idi (Bu talimat, birleşik kayıtların içeriğini kaydıracaktır =sol N konum,=
+burada N, talimat kelimesinin sekizli basamakları 7-11'dir.)
+
+Sayfa 19: 'biliniyordu' (Çoğu giriş-çıkış işlemi tamamlanmadan önce =biliniyordu= minimum
+zaman gerektirir.)
+
+Sayfa 20: Tutarsız virgül kaldırıldı (Bunlar Test Adresi (15 bit), Test Kelimesi (36 bit) ve Anlam =Anahtarları= (6 bit)'dir.)
+
+Sayfa 21: Virgül nokta olarak değiştirildi (bilgisayar her bellek =döngüsü tamamlandığında duracaktır.= Bu anahtar özellikle
+programları hata ayıklamada faydalıdır.)
+
+Sayfa 28: 'tpae' idi (okuma veya geri alma sırasında =bant=
+kayıt boşluğunun sonuna geldiğinde.)
+
+Sayfa 29: 'seçimi kaldır'dan standartlaştırıldı (birim =seçimi kaldıracak= (veya
+Bağlantıyı kes).)
+
+Sayfa 35: Was 'propares' (Bir derleyici veya montajcı =hazırlayan= bir makine dili bandı doğrudan yorumlamaya uygundur)
+
+Sayfa 35: Virgül kaldırıldı (Sık kullanılan talimat =diziler= bu nedenle
+sadece bir kez tanımlanması gerekir.)
+
+Sayfa 37: Was 'Rutinler' (=Rutinler= iki işlenen gerektirir, örneğin,
+topla, çıkar, çarp ve böl)
+
+Proje Gutenberg Ön Spesifikasyonlar E-Kitabının Sonu: Programlanmış
+Veri İşlemci Modeli Üç (PDP-3), Digital Equipment Corporation
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PDP MODEL THREE (PDP-3) ***
+
+***** This file should be named 29461.txt or 29461.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/9/4/6/29461/
+
+Produced by Gerard Arthus, Katherine Ward, and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
