@@ -1,0 +1,2268 @@
+*** START OF AKTAHEADER ***
+Başlık: Email 101 (E-posta 101)
+Yazar: John Goodwin
+Yayın Tarihi: July 17, 1993
+Dil: English
+Link: https://www.gutenberg.org/ebooks/75
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Email 101, by John Goodwin
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Email 101
+
+Author: John Goodwin
+
+Posting Date: February 9, 2012 [EBook #75]
+Release Date: July 17, 1993
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EMAIL 101 ***
+
+*** START OF TURKISH PART ***
+E-POSTA 101 John Goodwin tarafından, bu bir Alfa test sürümüdür, önerileriniz Beta test sürümlerine ve son sürümlere dahil edilecektir.
+
+Bu taslak sürümde 28 bölümden 8'i ve 5 ekten 1'i eksiktir.
+
+Telif Hakkı (c) 1993 John E. Goodwin. Tüm Hakları Saklıdır.
+
+Bu ders notlarının birebir kopyalarını, bu telif hakkı bildirimi tüm kopyalarda saklandığı sürece, ticari olmayan amaçlar için herhangi bir yolla yapabilir ve dağıtabilirsiniz.
+
+İnternet bağlantısı kursuna katılma hakkında bilgi için şu kişiyle iletişime geçin:
+
+John Goodwin (jgoodwin@adcalc.fnal.gov)
+P.O. Box 6022
+St. Charles, IL 60174, ABD
+1
+
+<title> E-POSTA 101
+
+Banka hesabınıza 24 saat erişim sağlayan o küçük makineleri seviyorsanız, İnternet'i seveceksiniz. Sanırım hala, bir seçenek verildiğinde, bir makine yerine "canlı bir insanla" muhatap olabilmek için araçtan inmeden gişeye gidecek insanlar var. Ama bu insanlar bile, kendi programlarına göre, her yerde kendi işlerini yapma seçeneğinin olmasının güzel olduğunu kabul edecekler. Otomatik gişelerden önce nasıl olduğunu hatırlıyor musun? Hafta içi bankalar saat 15:00'te kapanıyordu. Her cumartesi, bir sonraki hafta için ne kadar paraya ihtiyacın olacağını tahmin etmen gerekiyordu. Yanılıyorsan, bir yiyecek mağazasında çek bozdurman (ve belki de istemediğin bir şey satın alman) gerekiyordu. Ve eğer şehir dışındaysan? Eh, her zaman kredi kartları vardı.
+
+Artık bunu yapmıyoruz. Bence birçok insan otomatik gişeye gidiyor çünkü işlerini başkasına açıklamak zorunda kalmadan kendi işlerini yapmanın gizliliğini seviyor. Ve biz istediğimiz zaman "kendi" hesabımıza erişebilme yanılsamasını seviyoruz. Otomatik vezne kartı kullanmanın dezavantajları da vardır - her ay veya her işlem için bir ücret ödemeniz gerekebilir - ve bu ücretleri hesap bakiyenizden düşmeyi unutmamalısınız, aksi takdirde çekleriniz karşılıksız kalır. Ancak otomatik vezne kullanırken kendinizi oldukça yeterli hissettiğinizden ve ücretler konusunda endişelenerek fazla uyku kaybetmediğinizden eminim.
+
+Bu kurs, otomatik vezne makinesi veya telefonla sahip olduğunuz aynı özgürlük ve İnternet yeterliliğini size vermek için tasarlanmıştır. Bir ev bilgisayarı, bir modem ve bir iletişim yazılımıyla, telefon hattı üzerinden diğer bilgisayarlara bağlanarak elektronik posta (E-posta) alışverişinde bulunabilir, dosya alışverişinde bulunabilir veya bilgi arayabilirsiniz. Bu bilgisayarların çoğu İnternet adı verilen dünya çapındaki ağa bağlıdır. Birkaç tanesi ücret karşılığında İnternete bağlanmanıza izin verecektir. Oradan 900.000 veya daha fazla bilgisayardan herhangi birini arayabilir, 25 milyon kişiden herhangi birine E-posta gönderebilir ve yüzlerce ücretsiz, bilgilendirici hizmete erişebilirsiniz.
+
+Kısacası, "internetworking" adı verilen insanlarla ve makinelerle iletişim kurmanın yeni bir yönteminin eşiğindesiniz.
+İnternetworking şunları yapmanızı sağlar:
+
+o Telefonda etiket oynamaktan kaçının;
+
+o Özel ilgi alanlarına yönelik elektronik haber bültenleri ve dergiler almak için kaydolun;
+
+o Yüzlerce bilgi hizmetine ve belge koleksiyonuna tam olarak aynı şekilde erişin -- yüzlerce farklı talimat setine veya yüzlerce (pahalı) özel amaçlı yazılım paketine gerek yok;
+
+o İlgi alanlarınızı paylaşan diğer insanları bulun ve onlarla iletişim kurun.
+
+İnternetworking 90'lar için olmazsa olmaz bir beceridir. Çocuklarınız bunu televizyon izlemek veya telefon kullanmak kadar yaygın bulacaktır.
+Hala birkaç pürüzlü tarafı var -- ama bunları açıklayacağız.
+
+Aslında İnternet adında tek bir şirkete ait tek bir ağ yoktur. Bunun yerine, birçok orta ölçekli ağ, yaklaşık bir milyon bilgisayarı birbirine bağlayan bir "telefon sistemi" oluşturmak için bir araya geldi. Bu bilgisayarların yüzlercesi bir tür kamusal erişime izin veriyor. En son haberleri veya hava durumunu alabilir, Hükümet programları veya yüksek teknoloji ürünleri hakkında bilgi indirebilir, çevrimiçi kütüphane kataloglarını ve veritabanlarını arayabilir, ücretsiz yazılım indirebilir ve ev bilgisayarınızın maliyetinin ötesinde çok az veya hiç parasal yatırım yapmadan birçok başka şey yapabilirsiniz. İnterneti kullanmak pahalı olmak zorunda değil: (1) bir ev bilgisayarı, (2) 50 dolarlık bir modem ve (3) bazı iletişim yazılımlarına (100 doların altında) sahipseniz, ayda 10 dolar kadar düşük bir ücretle İnternete bağlanabilirsiniz. Elbette İnternete bağlanmanın daha pahalı yolları da var. Bu yollar, ağı yoğun olarak kullanan işletmeler veya kuruluşlar için mantıklıdır. Ancak bu kursta, aylık 10-40 dolar aralığında maliyeti olan yöntemleri ele alacağız. Bu yöntemler, mesai saatleri dışında ve günlük kullanım için interneti keşfetmek için uygundur. Gelecekte ağ gereksinimleriniz artarsa ​​bilinçli kararlar alabilmeniz için daha pahalı bağlantı yöntemleri hakkında bazı temel bilgiler vereceğiz (Ek C). İyi bir şekilde İnternete bağlanmak, bir dizi beceride ustalaşmak anlamına gelir; İnterneti kullanarak iki bilgisayarı birbirine bağlamak sadece başlangıçtır. Uzaktaki bilgisayardan kendi bilgisayarınıza bilgi aktarma yöntemlerini öğrenmelisiniz. Bu, bir dosya aktarım protokolü ve sıkıştırma teknikleri kullanmayı içerebilecek karmaşık bir görevdir.
+
+Bilgi dünyası çok geniş olduğundan, en büyük sorununuz büyük olasılıkla İnternet'e bağlanmak olmayacaktır. Aradığınızı bulmak olacaktır. Bu nedenle, bu kurs yalnızca bağlantı kurma ve dosyaları aktarma mekaniğini değil, aynı zamanda materyali bulma tekniklerini de kapsar. Ve elbette farklı bağlantı yöntemlerinin maliyetleri konusunda bilgili olmak isteyeceksiniz. Bu, bilgileri aktarmanın veya size dost canlısı bir kütüphaneci tarafından fakslanmasının Megabayt başına daha mı fazla maliyetli olacağını tahmin etmek anlamına gelir.
+
+Bu kurs genel halk için tasarlanmıştır - öğrenciler, iş adamları, kütüphaneciler, öğretmenler, yazarlar, gazeteciler - aslında bilgi bulması ve başkalarıyla iletişim kurması gereken herkes.
+İster bir makale araştırıyor olun, ister bir makale yazıyor olun veya bir ürün hakkında teknik bilgi almaya çalışıyor olun, bu teknikleri tekrar tekrar kullanacaksınız.
+
+Yıldız işaretiyle işaretlenen bölümler bu baskıdan çıkarılmıştır.
+
+DERS İÇERİĞİ
+
+1 : İnternet Çalışmasının Geçmişi ve Geleceği
+
+2 : İnternet Nedir?
+
+3 : İnternete Nasıl Bağlanırım?
+
+4 : İnternetin Parasını Kim Öder?
+
+5 : İnternet Temelleri
+
+6 : İnternete Adım Adım Giriş
+
+7 : Programlar ve Resimler
+
+8 : Daha Hızlı Transfer İçin Dosya Sıkıştırma Yöntemleri
+
+9 : Sadece E-postanız Olduğunda Ne Yapmalısınız
+
+10 : Çalışan Gelişimi: Çalışanlarınızın İnternet Üzerinde Çalışmasını Nasıl Sağlarsınız
+
+Bölüm II Özel Endişeler
+
+11 : İşletmeler İçin Özel
+
+12 : Öğrenciler ve Ebeveynleri İçin Özel
+
+13 : Yazarlar, Gazeteciler, Yayıncılar ve Matbaacılar İçin Özel
+
+14 : İlkokul ve Lise Öğretmenleri İçin Özel
+
+15 : Kütüphaneciler İçin Özel
+
+16 : Bilim İnsanları İçin Özel
+
+17 : Kiliseler, Sinagoglar ve Camiler İçin Özel
+
+Bölüm III Araştırma, Organizasyon ve Yazma
+
+18 : Araştırma Yöntemleri I: Temel Gezinme Yöntemleri
+
+*19 : Araştırma Yöntemleri II: Usenet Haber Grupları
+
+20 : Araştırma Yöntemleri III: Gelişmiş Teknikler
+
+*21 : Bilgileri Düzenleme
+
+*22 : Bilgi Yapıları
+
+*23 : Boole Mantığı
+
+*24 : İnternet Bağlantılı Bir Dünya İçin Yazmak: Temel Sorunlar
+
+*25 : İnternet Bağlantılı Bir Dünya İçin Yazmak: Hedef Kitlenize Ulaşmak
+
+Bölüm IV Kaynaklar
+
+*26 : İnternet Adres Defteri
+
+27 : Kaynakça
+
+*28 : Sözlük
+
+Ek A. *Gerçekten* Yeşil Olanlar İçin Bilgisayar İpuçları
+
+Ek B. Modem Kullanmak
+
+*Ek C. İnternet Bağlantısının Teknik Ayrıntıları
+
+Ek D. Yeterince UNIX
+
+Ek E. Yalnızca E-Postanız Varsa Alabileceğiniz En İyi On Şey
+
+<Bölüm 1> İnternet Bağlantısının Geçmişi ve Geleceği
+
+Diğer bilgisayarlara bağlanmanın ve bilgi paylaşmanın eski moda bir yolu olduğu gibi modern bir yolu da vardır. Zaten bildiğiniz yöntemlerle bağlantı kurmak ve İnternet kullanmanın avantajlarını göstermek için iki yöntemi kısaca karşılaştırmak yararlı olacaktır.
+
+Diğer bilgisayarlarla iletişim kurmanın eski moda (yaklaşık 1980) yöntemi, bir ilan panosu hizmeti (BBS) aracılığıyladır. Duyuru panosu
+hizmetleri, 70'lerin sonlarında kişisel bir bilgisayarla yazılım paylaşma,
+konuşma, oyun oynama vb. için bir yöntem olarak ortaya çıktı. Boyutları, yerel bir takipçi kitlesine sahip küçük özel ilgi Duyuru Panolarından
+CompuServe, GEnie ve The Source gibi dev ulusal panolara kadar değişir. Bir telefon numarasını çevirerek bir modem ve iletişim yazılımına sahip bir duyuru panosuna erişirsiniz. Elbette, BBS'nin yerel bölgesinde yaşamıyorsanız, uzun mesafeli bir taşıyıcı kullanmanız gerekir. Bu, bağlantı ücretine saat başına birkaç dolar ekleyebilir.
+
+Bir Duyuru Panosu ve İnternet tarafından sunulan temel hizmetler
+benzerdir:
+
+(1) Bir ana bilgisayara erişim (İnternet TELNET komutu)
+
+(2) Dosya aktarım yeteneği (İnternet FTP komutu)
+
+(3) Diğer BBS üyeleriyle bireysel olarak iletişim kurma yeteneği (İnternet
+E-postası)
+
+(4) Herhangi bir kategoride genel tüketim için mesaj gönderme yeteneği. (Usenet Haber Grupları)
+
+Fark, her BBS'nin kendi çevirmeli bağlantı prosedürü, menü arayüzü, dosya transfer yöntemleri, faturalama politikaları vb. olmasına rağmen, İNTERNET'İN DÜNYADAKİ TÜM BİLGİSAYARLAR İÇİN TEK BİR YÖNTEM KULLANMASIDIR. "Öğrenme eğrisi" açısından tasarruf şaşırtıcıdır. Anonim FTP'yi nasıl kullanacağınızı öğrendikten sonra *yüzlerce* sağlayıcıdan nasıl bilgi alacağınızı bilirsiniz. Bu, posta hizmetini kullanmakla mektup yazdığınız her kişi için özel bir kurye kullanmak arasındaki farka benzer. Zarfı nasıl adresleyeceğinizi ve pulu nasıl yapıştıracağınızı öğrendikten sonra, herhangi birine yazabilirsiniz.
+
+İnternet, satın aldığınız herhangi bir iletişim yazılımının tüm sağlayıcılarla çalışması gibi ek tasarruflara sahiptir. Her bilgi sağlayıcısı için özel bir yazılım satın almanız (veya özelleştirmeniz) gerekmez. Böylece herhangi bir bilgisayara bağlanmak için tek bir tanıdık grafiksel kullanıcı arayüzü ("windows" programı) kullanabilirsiniz. Her tür "sunucuya" bağlanmak için özel bir "istemci" programı satın almanız gereken olağan durum, oradaki herhangi bir "sunucunun" uyması gereken tek bir programa sahip olduğunuz bir durumla değiştirilir. Bu standardizasyon, İnternet'i kullanmanın
+en büyük avantajıdır.
+
+İlan Panoları hala mevcuttur. Aslında, İnternet'e bağlanmanın
+en kolay yollarından biri ulusal bir ilan panosu hizmetidir.
+Bu yöntemin bir dezavantajı, bu yazının yazıldığı tarih itibariyle CompuServe gibi ulusal
+BBS'lerin yalnızca E-posta sunmasıdır. Bunlardan FTP veya Telnet yapamazsınız. Ve genellikle E-posta için mesaj başına ücret alırlar, bu nedenle bunları kullanmak oldukça
+pahalı olabilir. Daha iyi yollar vardır.
+
+<Bölüm 2> İnternet nedir?
+
+İnternet'i Telefon, Televizyon veya Posta Hizmeti gibi bir iletişim ortamı olarak düşünmenin en iyi yolu budur. İnternet'i kullanarak
+herhangi bir yazılı metni E-posta ile gönderebilirsiniz. Bu, bir mektubu postalayıp saniyeler içinde ulaşmasına benzer - dünyanın en geri kalmış bölgelerinde üç gün. Dosya Aktarım Protokolü adı verilen özel bir protokol kullanarak, postalanması çok uzun olan metin dosyalarını (yaklaşık 50 sayfadan fazla) veya hatta grafik ve programları aktarabilirsiniz. E-posta bir kişiyle "konuşmak" anlamına geliyorsa, üçüncü ana İnternet hizmeti olan Telnet bir bilgisayarı telefonla aramak anlamına gelir. Bir bilgisayara giriş yapmak için kullanılan şifreyi bildiğiniz sürece, yaklaşık bir milyon bilgisayara erişebilir ve arama yapabilirsiniz. E-posta, FTP ve Telnet'in ayrıntıları 5. Bölüm, İnternet Temelleri'nde yer almaktadır. Bu bölüm İnternet'i bağlamına oturtmaktadır. Sonraki bölümlerde bizi meşgul edecek ağaçlara odaklanmak yerine, İnternet'in evrimleştiği bilgi işlem dünyasının büyük bir resmini çizmektedir. Bir telefon
+ahizesini kaldırdığınızda, evleri,
+işyerlerini veya devlet dairelerini arayabileceğinizi bilirsiniz. Bilgi için 800 numaralarını veya 411'i arayabilirsiniz. Saati veya hava durumunu nasıl alacağınızı, kredi
+kartı bakiyenizi nasıl alacağınızı veya telesekretere mesaj nasıl bırakacağınızı biliyorsunuz. Kısacası, hattın diğer ucunda ne olabileceğine dair iyi bir fikriniz var
+ve çeşitli karmaşıklıklarını müzakere etme konusunda oldukça fazla deneyiminiz var. Ancak İnternet'e yenisiniz. Farklı satıcılar tarafından geliştirilen kısaltmalar, sayılar ve prosedürlerin çalılıklarında kaybolmamak için bu yeni dünyada "orada ne olduğunu" biraz olsun bilmek gerekir.
+
+90'ların ortalarına yaklaşırken, ofislerdeki normal çalışma durumu şuna benzer bir şeye yaklaşıyor: farklı markalardaki kişisel bilgisayarları, iş istasyonlarını ve ana bilgisayarları birbirine bağlayan bir Yerel Alan Ağı (LAN) var. LAN (d harfi olmadan "land" gibi telaffuz edilir) Geniş Alan Ağı'nın (WAN) bir parçası olarak diğer LAN'lara bağlanabilir.
+WAN, İnternet adı verilen küresel ağın bir parçası olabilir veya olmayabilir. Kolejlerde, üniversitelerde ve araştırma laboratuvarlarında muhtemelen İnternet'in bir parçasıdır; ticari dünyada, birkaç yüksek teknoloji şirketi hariç, muhtemelen öyle değildir. Ancak akademi ile ticari dünya arasındaki fark hızla belirsizleşiyor.
+
+LAN ve WAN'lara ek olarak, modem-ana bilgisayar bağlantısı kullanarak küresel ağın bir parçası olabilecek çok sayıda ev ve ofis bilgisayarı var. Bu bilgisayarlar, bir rapor dosyalamak için merkez ofise bağlanan dış satış temsilcilerinin taşınabilir bilgisayarları,
+bir haber bülteni için grafik almak üzere
+kısa süreliğine İnternet'e bağlanan ev tabanlı bir masaüstü yayıncılık şirketindeki bilgisayar veya üniversitedeki çocuğuna E-posta gönderen bir ebeveyn olabilir.
+
+<Bölüm 2.1> Kabuk Şokundan Kurtulmak
+
+Kabul edelim. Halkın pek çoğu -bilgisayar okuryazarı halk bile-
+İnternette değil. İnterneti ilk kez kullanmanın, aslında kullanımı oldukça basit olmasına rağmen, internetin inceliklerine indiğinizde, oldukça korkutucu olabilmesinin üç nedeni vardır:
+
+o İnternete girmek biraz karmaşık olabilir;
+
+o Daha önce hiç kullanmadığınız bilgisayarlara giriş yapabilme yeteneği, doğası gereği, alışılmadık ve dolayısıyla rahatsız edici durumlarla karşılaşmak anlamına gelir; ve
+
+o Dünya çok büyük bir yerdir.
+
+İlk sorunu, yani İnternete girmeyi, Bell tekelinin dağılmasından önce "alternatif" bir uzun mesafe hizmeti kullanmanın nasıl bir şey olduğunu hatırlayarak düşünmeyi seviyorum.
+Alternatif taşıyıcıları kullanan kişiler, her türlü erişim kodunu çevirmek zorundaydı; çoğu zaman yerel bir erişim numarası, bir kredi kartı numarası, bir güvenlik kodu ve *ve* aradıkları tarafın numarası. Bundan sonra ne gelirse gelsin, bunun daha kolay olacağını biliyorlardı.
+
+İnternete girmek böyle bir şeydir. Yerel bir erişim numarası çevirmeniz, modem ayarlarınızı doğru yapmanız ve doğru
+sihirli kelime kombinasyonunu yazmanız gerekebilir; ancak tüm bunlardan sonra, İnterneti *kullanmak* basittir. Size ilk adımları anlatacağız - bir süre sonra (ve biraz hayal kırıklığıyla) ön kapınızı açmak veya televizyonu ayarlamak kadar bilinçsiz olacaktır.
+
+İkinci sorun biraz daha önemlidir. İnterneti kullanarak, kendinizi deneysel olan durumlara sokabilirsiniz.
+İnternet size "her yere gitme" ve "her şeyi yapma" özgürlüğü verdiği için -en azından şifreleri biliyorsanız- garip
+uyumsuzlukları ve alışılmadık sistemleri ortaya çıkarabilirsiniz. Ben bu deneyime "kabuk şoku" diyorum. Bir noktada, muhtemelen bilmediğiniz bir komutu yazmanızı bekleyen bir bilgisayar programıyla karşı karşıya kalacaksınız.
+
+Bu tür durumlardan çoğunlukla yalnızca hakkında iyi bilginiz olan şeyleri deneyerek kaçınabilirsiniz. Durum, bir
+telefon kullanmaktan çok da farklı değildir: yerel numaralar veya basit uzun mesafeli aramalar gibi
+kötü bilinen yollara bağlı kalırsanız, pek sorun yaşamazsınız; ancak
+diğer ülkeleri veya özel numaraları aramaya başlarsanız, bir veya iki
+sürprizle karşılaşabilirsiniz.
+
+Yeni (daha önce bilinmeyen) bir bilgisayara giriş yaptığınızda,
+"kabuk istemi" adı verilen bir şeyle karşılaşmayı bekleyebilirsiniz. Kabuk istemleri şu şekilde görünür:
+
+% (veya dolar işareti gibi başka bir belirsiz sembol)
+
+veya şu şekilde:
+
+mail> (bir favori - bir tür posta programında olduğunuz anlamına gelir)
+
+veya şu şekilde:
+
+prez23:
+
+(bilgisayara "prez" giriş yaptığınızdan beri 23. komut anlamına gelir).
+
+Bir istem, diğer bilgisayarın sizden "kabuğu" veya "komut yorumlayıcısı" için bir komut yazmanızı beklediği anlamına gelir. Kabuk, sizin, kullanıcının etkileşime girdiği
+dış katmandır.
+
+Karşılaşabileceğiniz diğer iki tür "kullanıcı arayüzü" şunlardır:
+
+o size sayı seçeneği sunan menü sistemleri
+
+o "pencere" sistemleri veya grafiksel kullanıcı arayüzleri (GUI'ler, "gooey" olarak telaffuz edilir).
+
+Menü sistemleri ilan panosu hizmetlerinde popülerdir ve genellikle acemiler için
+sorun teşkil etmez. Zayıflıkları, yaklaşık beş dakika sonra sıkıcı hale gelmeleridir. Çoğu menü sistemi, o süre veya daha uzun süre kullanılmak üzere tasarlanmış bir "komut moduna" sahiptir ve burada -tahmin ettiniz- bir kabuk istemi alırsınız.
+
+Hatta pencere sistemleri (bunlardan birine sahipseniz bilirsiniz) bile size sıklıkla "bir terminali taklit eden" bir pencere verir, yani size içeride bir kabuk istemi verir.
+
+Yani, gördüğünüz gibi, üç yaygın kullanıcı arayüzünün her birinde -komut satırı, menü odaklı veya grafiksel kullanıcı arayüzü- hayatınızın bir noktasında bir kabuk istemiyle karşılaşacaksınız. Başlamanız için muhtemelen işe yarayacak şeylerle ilgili tavsiyeler burada ve Ek A'da verilmiştir. Diğer bilgisayar türleriyle, özellikle UNIX işletim sistemini kullanan bilgisayarlarla ilgili bazı deneyimler faydalıdır. UNIX ve daha önce karşılaşmamış olabileceğiniz
+diğer işletim sistemlerini kullanma hakkında bazı ipuçları
+Ek D'de verilmiştir.
+
+Deneysel olarak veya sadece kazara takılıp kalırsanız,
+birkaç noktayı hatırlamak faydalı olacaktır:
+
+o İletişim yazılımınızı kullanarak her zaman uzak bir hizmetten "kapatmak" için bağlantıyı kesebilirsiniz.
+
+o Bilgisayar size yüzde işareti veya dolar işareti gibi garip bir sembol verirse ve sadece oturup size bakarsa, bilgisayarın ne beklediğini öğrenmek için "yardım" veya "?"
+deneyebilir veya daha önce olduğunuz yere geri dönmek için "çıkış", "çıkış", "güle güle", "çıkış" veya benzeri bir şey
+deneyebilirsiniz.
+
+o Çoğu zaman, bir sisteme giriş yaptığınızda, daha fazla yardım
+almak veya kendi sisteminize nasıl "kaçmak" konusunda talimatlar alırsınız.
+Bunları hatırlamalı veya yazmalısınız!
+
+o Son çare olarak, iletişim programından (ve diğer tüm etkin programlardan) çıkın ve bilgisayarınızı kapatın, modeminizi kapatın ve
+telefon hattından çıkarın. Bu adımları belirtilen sırayla yaptığınızdan emin olun. Bilgisayarınızı kapatıp açmak veya bilgisayarınız çalışırken modeminizin fişini çekmek akıllıca değildir (ancak caziptir).
+
+Deneyimsizler için daha fazla öneri Ek A'da verilmiştir.
+
+İnternet'i kullanmanın önündeki son engel, dünyanın, hatta İnternet dünyasının gerçekten çok büyük bir yer olmasıdır.
+İnternet'i kullanırken şunlara karar vermelisiniz:
+
+o nereye gideceğiniz;
+
+o hangi bilgileri istediğiniz (ve nerede olabileceği); ve
+
+o bunlara nasıl ulaşacağınız (ve bunları sağlam bir şekilde eve nasıl geri getireceğiniz).
+
+İnternet gibi geniş bir sistem için bunlar zor kararlardır. Genellikle,
+işe yarayan tek strateji farklı şeyler keşfetmek ve denemektir. Bu kurs, başlangıçtaki engelleri aşmanızı, işe yarayan yöntemlerde adil bir temel oluşturmanızı ve sizi doğru yöne yönlendirmenizi sağlamak için tasarlanmıştır. Keşif size kalmış. Başlangıç ​​oryantasyonu olarak, bir sonraki bölümde "bilinen İnternet'in üç dünyasını" açıklıyoruz.
+
+<Bölüm 2.2> Bilinen İnternet'in Üç Dünyası
+
+İnternet, antik Galya gibi, üç bölüme ayrılmıştır. Bu bölümler, her biri kendi varsayım kümelerine, favori lehçelerine ve favori ekipmanlarına sahip olan, bölgeler olmaktan çok dünyalardır. Bunlara "PC dünyası", "UNIX dünyası" ve "Ana bilgisayar dünyası" diyebiliriz. İşte üç dünyanın her biri hakkında bir dosya:
+
+Dünya: Kişisel Bilgisayar (PC)
+Tipik Ekipman: IBM PC ve klonları (%85), Macintosh (%15)
+Geleneksel İşletim Sistemleri: MS-DOS, OS/2
+Pencereleme Sistemleri: Windows, MacOS
+Tipik Boyut: PC (tipik olarak 1.000 ila 5.000 dolar; birkaç 100 dolarlık kullanılmış)
+Müşteri Kitlesi: Karma - İş, Ev kullanıcıları, hemen hemen herkes
+
+Dünya: (çoğunlukla UNIX) iş istasyonu
+Tipik Ekipman: Sun İş İstasyonu, VAXStation'lar, diğer satıcılar
+Geleneksel İşletim Sistemleri: UNIX (iki büyük lehçe), VMS
+Pencereleme Sistemi: X Windows
+Tipik Boyut: İş İstasyonu (5.000 dolar ve üzeri)
+Müşteri Kitlesi: Mühendislik/Bilimsel kullanıcılar; giderek daha fazla işletme
+
+Dünya: Ana Bilgisayar veya Mini Bilgisayar
+Tipik Ekipman: IBM (çeşitli), Dijital Ekipman VAX'leri
+Geleneksel İşletim Sistemleri: VM, VMS, UNIX
+Pencereleme Sistemleri: X Windows, varsa
+Tipik Boyut: Mini Bilgisayar veya Ana Bilgisayar (10.000 ila milyonlarca dolar)
+Müşteri Kitlesi: Büyük İşletmeler, Üniversiteler, Hükümet
+
+Üç dünyanın düzgün resmi, her bir dünyanın ekipman, işletim sistemi veya satıcı seçiminde iki (veya birkaç) ana seçeneğe sahip olma eğilimiyle biraz çarpıtılıyor. Bu nedenle, örneğin,
+PC dünyası iki kampa ayrılıyor, MS-DOS insanları ve Mac insanları.
+Benzer şekilde, UNIX dünyası "BSD" iş istasyonları ve "Sistem V" (yani "5") iş istasyonları olarak ikiye ayrılıyor.
+
+Üç dünya, ağlarda bir şekilde yansıtılıyor. İnternet, UNIX ve VMS çalıştıran mini bilgisayarlar ve iş istasyonları tarafından domine ediliyor ve MS-DOS ve Mac çalıştıran PC'lerin sayısı giderek artıyor. Diğer işletim sistemlerini çalıştıran makineler genellikle "UNIX benzeri" bir adım öne çıkıyor, bu nedenle kullanıcı neredeyse UNIX makineleriyle uğraştığına inanabiliyor. UNIX yazılımının İnternet için standart olduğu konusunda belirli bir his var. Yazılımlar genellikle önce UNIX makinelerinde görünür ve sonra diğer makinelere "taşınır". Tüm bu farklı makinelerin birbirleriyle konuşmasını mümkün kılan şey "İnternet Protokolü"dür (daha resmi olarak TCP/IP olarak bilinir, yani Taşıma Kontrol Protokolü/İnternet Protokolü). TCP/IP, aynı satıcıdan olmasalar bile iki bilgisayarın birbirleriyle iletişim kurarken kullanacağı bir dizi kural olarak düşünülebilir. Bilgisayar sistemlerinin "yazılım" ve "donanım" içerdiğini düşünmeye alışkınız, ancak İnternet gibi karmaşık sistemlerin birçok seviyesi olduğunu söylemek gerçeğe daha yakındır - İnternet örneğinde olduğu gibi yediye kadar - "çok yazılım"dan "çok donanım"a kadar değişir. Her seviyenin kendi protokolü adı verilen kendi kuralları vardır. TCP/IP protokolü orta seviyelerden ikisine aittir. Şu anda, en "çok donanım" seviyeleri için en yaygın protokol "Ethernet"tir (kablo TV için kullanılan koaksiyel kabloya benzer) ve "çok yazılım" seviyeleri tamamen satıcıya bağlıdır. Aslında, İnternet'in hemen hemen her tür donanımda ve birçok farklı satıcıdan gelen yazılımla çalışmasını sağlayan bu seviye bolluğudur.
+
+Neyse, İnternet, hepsi farklı "çok donanım" ve "çok yazılım"a sahip olan ancak orta katmanları için TCP/IP protokolünü kullanan birkaç orta ölçekli ağın birbirine bağlanmasıyla büyüdü. İnternet Protokolünü benimseyen ilk ve en büyük ağlardan ikisi ARPAnet'ti - İnternet ilk olarak bunun için tasarlanmıştı - eskiden DARPA (ABD Savunma Bakanlığı'nın Savunma İleri Araştırma Projeleri Ajansı) olarak adlandırılan ağ ve ABD Ulusal Bilim Vakfı için üniversiteleri ve hükümet laboratuvarlarını birbirine bağlayan bir ağ olan NSFnet. Bu ve diğer büyük ağlar İnternet'in "omurgasını" oluşturur. Ancak bugün omurgalara bağlı yüzlerce daha küçük ağ var. TCP/IP kullanmayan büyük ağlar *vardır*. Örneğin, büyük üniversitelerde ve araştırma kurumlarında IBM ana bilgisayarları bağlamında, BITnet ("Zamanı Geldiği İçin" Ağı) ortaya çıktı. Bu
+büyük dünya çapındaki ağ İnternet protokolünü kullanmaz. BITnet'e İnternet'ten ağ geçitleri adı verilen özel çeviriciler aracılığıyla ulaşılabilir, ancak kesinlikle farklı bir ağdır. Bazen bu gerçeğe kadar izlenebilecek sorunlarla karşılaşılır.
+
+<Bölüm 2.3> İnternetin Geleceği
+
+Herhangi bir teknolojinin geleceğini tahmin etmek zordur ve İnternet'in geleceğinin ne olacağını bildiğimi iddia etmiyorum.
+
+Çeşitli tahmincilerin internet bağlantısı (ve genel olarak telekomünikasyon) için yaptığı bazı tahminler şunlardır:
+
+o NREN (Ulusal Araştırma ve Eğitim Ağı) adı verilen bir veri "otoyolu" önerisi ABD Kongresi'nden geçecek. Bu, İnternet için bir
+yükseltmedir.
+
+o İnternetin ticari kullanımı daha yaygın hale gelecek ve kullanımı için ücretlendirmeye yönelik yeni planlar ortaya çıkacaktır.
+
+o İnternet hükümet tarafından AT&T ve diğer "telekomünikasyon" şirketlerine devredilecek ve onlar da erişim için o kadar fazla ücret talep edecek ki tüm plan çökecek.
+
+o Optik Fiber, LAN'lar için en yaygın standart olan Koaksiyel Kablo'nun (Ethernet protokolü) yerini alacak.
+
+o İnternet, normal telefon hatları üzerinden eve girecek.
+
+o İnternet, mevcut Kablo TV koaksiyel
+kablosu üzerinden eve girecek.
+
+o İnternet, Telefon, Kablo TV ve veri iletişimi için birleşik bir sistemin parçası olarak yeni dizilmiş optik fiber üzerinden eve girecek ve [buraya en sevdiğiniz protokolü ekleyin] standart olarak kullanılacak.
+
+o Kişisel Bilgisayarlar, ev kullanımı için tek, evrensel bir cihaz olarak telefonların, telesekreterlerin, stereoların, CD çalarların ve VCR'lerin -hatta belki de TV'nin!- yerini alacak. NREN'e bağlanmak için iyi bir şey gibi görünüyor.
+
+o Bilgisayar ve telefon teknolojisi o kadar iç içe geçecek ki
+arasındaki farkı söylemek zor olacak. Zaten piyasada olan bir ürün, "[taşınabilir] alfanümerik çağrı cihazı, arkadan aydınlatmalı ekrana ve PCMCIA Tip III yuvasına sahip XT uyumlu bir bilgisayar, bir faks/modem, bir cep ve sabit telefon ve bir ses kayıt cihazı" olarak tanımlanıyor!
+
+Bu tahminlerin hepsine veya hiçbirine inanabilirsiniz.
+
+<Bölüm 3> İnternete Nasıl Bağlanırım?
+
+İnternete bağlanmak birkaç adımdan oluşur:
+
+(1) Modeminizi ve iletişim yazılımınızı birlikte çalıştırmak
+
+(2) Telefon hatları (veya bir LAN) üzerinden bir sağlayıcıya bağlanmak
+
+(3) İnternet hizmetlerini kullanmak
+
+İlk adım için modeminiz ve yazılımınızla birlikte gelen kılavuzlara güvenmeniz gerekecektir. Ek B, modem ayarlarıyla ilişkili daha belirsiz terminolojinin bir kısmını ele almaktadır. Kılavuzunuz iyi yazılmamışsa bunu okumak isteyebilirsiniz.
+
+Aslında, ikinci adım hakkında ayrıntılı bilgi sahibi olmanız gerekmez. Çoğunlukla akıllıca bir sağlayıcı seçmek için yeterli bilgiye sahip olmak meselesidir. Her sağlayıcının, sizden sağlayıcıya ulaşmanız için izlemeniz gereken belirli bir dizi adımı olacaktır: modem ayarları, erişim numaraları, parolalar, vb. Umutsuzluğa kapılmayın! Oraya vardığınızda en zor kısmı bitirmiş olursunuz. 6. Bölüm, belirli bir hizmete, DELPHI'ye bağlanmak için çok açık talimatlar içerir.
+
+3. Adım, bu kursun geri kalanının konusudur: bağlandıktan sonra neler yapabilirsiniz. Temel bilgiler bir sonraki bölümde ele alınacaktır.
+
+<Bölüm 3.1> Bağlantı Yöntemleri
+
+Teoride, kişisel bir bilgisayardan veya iş istasyonundan İnternet'e bağlanmanın üç yolu vardır:
+
+(1) Bilgisayarınızın doğrudan bir bağlantısı olabilir. Bu, İnternet'in Geniş Alan Ağlarından birine bağlı olan bir Yerel Alan Ağı'nın (LAN) parçası olduğu anlamına gelir. Bilgisayarınızın kendi İnternet Protokolü (IP) Adresi olacaktır. Bu tür bir bağlantı
+ofislerde, özellikle yüksek teknolojili firmaların ofislerinde yaygındır, ancak kesinlikle
+ev kullanımı için değildir.
+
+(2) Doğrudan internete bağlı bir "ana" bilgisayara bağlantınız olabilir. Ev bilgisayarınızı ofisteki ana bilgisayara bağlamak için bir modem kullanabiliyorsanız ve ana bilgisayar ağdaysa, o zaman
+bu şekilde bir İnternet bağlantısı elde edebilirsiniz. Peki ya ofisinizin
+net üzerinde bir ana bilgisayarı yoksa?
+Hâlâ bir ana bilgisayarı halka açık hale getiren bir
+hizmete abone olabilirsiniz. Bu
+şu anda
+net'e halka açık erişim için en ucuz ve en yaygın yöntemdir.
+
+(3) (1) ve (2) durumları arasında Seri Hat İnternet Protokolü (SLIP) bağlantısı adı verilen bir bağlantı yöntemi vardır. Özel bir ana bilgisayarı--tıpkı (2) durumunda olduğu gibi--bir SLIP sunucusu olarak adlandırılan bir
+çevirirsiniz.
+Fark, SLIP sunucusunun size geçici bir IP adresi vermesi ve
+İnternet Protokolünü kullanarak
+bilgisayarınızla konuşmasıdır. Bu, bilgisayarınızın yazılımının SLIP konuşmasını gerektirir. Bilgisayarınız, gerçek bağlantınız 2. adıma daha yakın olmasına rağmen,
+durum (1) kullandığını düşünür.
+Terminalinizi doğrudan bir bağlantısı olduğunu düşünmeye
+aldırmanın avantajı, doğrudan bağlantıları olan
+bilgisayarlar için geliştirilmiş tüm süslü, ücretsiz yazılımları kullanabilmesidir.
+
+SLIP bağlantısı için yazılım tüm yeni iletişim yazılımlarına entegre ediliyor. Yazılımınızı yeni satın aldıysanız veya yükselttiyseniz, muhtemelen SLIP yeteneğiniz zaten vardır. İşin püf noktası nedir? SLIP ucuz bir 2400 baud modemde çok yavaştır. Ancak hızlı bir FAKS modemi satın alırsanız iyi çalışır. 350$'lık bir FAKS modemin iyi bir yatırım olmasının bir nedeni de budur. SLIP için yeterince hızlıdır ve size FAKS gönderme ve alma yeteneği de verir. 
+
+SLIP teknolojisi hala oldukça yeni ve biraz deneyseldir, bu nedenle bu tartışma eski güvenilir yönteme odaklanacaktır - 2. yöntem. Halkın İnternet'e erişimini sağlayacak bir hizmeti nasıl bulursunuz?
+
+Yaşadığınız yere bağlı olarak, yerel alan kodunuzla arayabileceğiniz bir sağlayıcınız olabilir. Yoksa, sorunlarınızın çoğu uzun mesafeli bir telefon görüşmesi yapmanın en ucuz yolunu bulmak olacaktır. Bu kitapta sağlayıcıların bir listesi yoktur, çünkü böyle bir liste hızla güncelliğini yitirir. Bunun yerine, size İnternet'e girmenin ucuz bir yolunu sunar,
+sonra sağlayıcıların kim olduğunu ve
+ücretlerinin ne olduğunu nasıl bulacağınıza dair talimatlar verir. Size sadece eski tavsiyeler vermektense kendinize nasıl bakacağınızı öğretmeyi tercih ederim. Bu yöntemin ayrıca
+bir talimat setinin herkes için işe yaraması avantajı vardır. 20 veya 30 sağlayıcı listeleseydim bu doğru olmazdı. Talimatlar "İnternete Adım Adım Giriş"te verilmiştir.
+
+<Bölüm 3.2> İnternet Sağlayıcı Türleri
+
+Dediğim gibi, internete girme sorunlarının çoğu, YEREL bir sağlayıcının olmadığı bir bölgede yaşadığınızda ortaya çıkar. Temel olarak üç tür sağlayıcı ve bunlara ulaşmanın üç yolu vardır:
+
+(1) Doğrudan bağlantı sağlayıcıları. Bir iş kuruyorsanız
+ve ofisinizin Yerel Alan Ağı için yüksek hacimli doğrudan bir bağlantıya ihtiyacınız varsa ve yılda en azından birkaç bin doları karşılayabiliyorsanız, bu üst düzey sağlayıcıları dikkate almak isteyeceksiniz. Bunlar tartışmamızla alakalı değil. (Ancak daha fazla bilgi için Ek C'ye bakın).
+
+(2) Düşük maliyetli PC-host veya SLIP bağlantılarında uzmanlaşmış birkaç bölgesel ağ ve bir ulusal ağ vardır. Maliyetler, ihtiyaç duyduğunuz hizmetlere bağlı olarak ayda 20-40 dolardan yılda 2000 dolara kadar değişir.
+Performance Systems International (PSI) bu tür hizmetlerin büyük bir sağlayıcısıdır. Diğer ağlar PSI'ye benzer hizmetler sunar, ancak PSI şu anda en kapsamlı ülke çapında hizmete sahiptir. Bu hizmet, interneti sık kullanıyorsanız veya ara sıra birden fazla E-posta mesajı göndermeniz gerekiyorsa BBS türü hizmetle (aşağıya bakın) çok rekabetçi olabilir. Kesinlikle bir göz atmaya değer.
+
+(3) Birçok bilgisayar ilan panosu hizmeti, ayda yaklaşık 10-20 dolara E-posta veya hatta İnternet bağlantısı sunar. Bağlantı ücretlerini kontrol etmek için çok dikkatli olun. Dikkatli olmazsanız ilan panosunu kullanmak (saat başına), İnternet'i kullanmak, uzun mesafeli bağlantı, gündüz kullanımı için ek ücret ve E-posta için mesaj başına ücret ödemeniz gerekebilir! Bu kitabın amaçlarından biri de yanmamanız için ücret mayın tarlasını açıklamak. Önerilen hizmet, tüm ücretleri önceden bir araya getirir, böylece sürpriz olmaz.
+
+Genel olarak, bir BBS aracılığıyla İnternete bağlanmak, gezgin için en iyi
+yöntemdir. İnternete düzenli olarak ihtiyacınız olduğunu belirledikten sonra, bölgesel ağlardan veya PSI'dan biri muhtemelen en ekonomik yoldur.
+
+İnternet sağlayıcısının yerel bir arama uzağınızda olduğu bir bölgede yaşayacak kadar şanslı değilseniz, uzun mesafe ücretleriyle uğraşmanız gerekecektir. Aslında, bunlar saatte 2 dolar kadar düşük olabilir ve bazen ağ bağlantı ücretiyle birlikte gelir.
+
+<Bölüm 3.3> En Ucuz Uzun Mesafe Yöntemini Bulma
+
+Uzun mesafe için ödeme yapmanın üç temel yöntemi vardır:
+
+(1) Sadece başka bir alan koduna yapılan bir arama için ödeme yaparsınız. Bu çok
+pahalıdır ve önerilmez.
+
+(2) Ücretsiz (800) numaralı bir sağlayıcı kullanırsınız ve arama için daha yüksek bir bağlantı ücreti ödersiniz. Bu da çok pahalıdır.
+
+(3) Mesai saatleri dışında bir Kamu Veri Ağı kullanırsınız ve saat başına yaklaşık 2 dolar ödersiniz (dahil olabilir).
+
+Aslında, son yöntem tek işe yarar yöntemdir. Birkaç PDN vardır.
+
+CompuServe'in bir veri ağı vardır. Kullanmak için CompuServe'e katılmanız gerekmez.
+
+PSI'ın ABD ve yurtdışında birçok varlık noktasına sahip kendi veri ağı vardır. Bunlar, sağlanan hizmet seviyesine bağlı olarak Sınıf A ve Sınıf B olarak ayrılır.
+
+Tymenet ve SprintNet diğer iki kamu veri ağıdır. SprintNet hizmeti PC Pursuit'i duymuş olabilirsiniz. Aylık bir ücret karşılığında bu size ülke çapında birçok BBS ve SprintNet tarafından ulaşılabilen herhangi bir bilgisayar sağlar.
+
+Genel olarak, ilk deney için DELPHI BBS ve SprintNet'i öneriyoruz. DELPHI, SprintNet ek ücretini aylık 13 dolarlık faturasına dahil eder (sadece mesai saatleri dışında kullanım--gündüz her yerde pahalıdır). Bu yazıda
+ilk ay 5 saat ve sonrasında ayda 4 saat ücretsiz alırsınız. Ek saatler her biri 4 dolardır. Ayrıca 20 saatlik 20 dolarlık bir plan da vardır. Bu planda ek saatler her biri 2 dolardır. Kayıt olmayla ilgili ayrıntılı talimatlar "Adım Adım İnternete Bağlanma"da verilmiştir.
+
+<Bölüm 4> İnternetin Ücretini Kim Öder?
+
+Tüm bu maliyet konuşmaları sizi gerginleştiriyor olabilir. Sonunda, İnternet kullanan herkes şu korkuyla yüzleşmelidir: İsviçre'deki bir bilgisayarı ararsam arama için bana fatura kesilmeyecek mi?
+İnternetle ilgili harika şey, buna bağlanmanın çok masraflı olmasına rağmen, bağlandıktan sonra yaptığınız şeylerle ilgili ek bir masraf olmamasıdır. TÜM DÜNYA YERELDE. Bu nedenle, Massachusetts'e PC'niz, modeminiz ve yazılımınız için saatte 2 dolar ve İnternet sağlayıcınıza bağlantı ücreti ödemeniz gerekebilir. Ancak
+HER BİR İNTERNET ARAMASININ ÜCRETİNİ ÖDEMEK ZORUNDA DEĞİLSİNİZ.
+
+Çoğu insan dünyanın herhangi bir yerine posta gönderebileceğinize veya dünyanın diğer ucundaki bir bilgisayarı özel bir ücret ödemeden arayabileceğinize inanmakta zorluk çektiğinden, İnternet için kimin ödeme yaptığını ve bu maliyetlerin kullanıcıya nasıl yansıdığını açıklamak için biraz zaman harcayacağım. Bir şekilde ağ kullanımı için ödeme yaparsınız, ancak bu ödemeler her arama için doğrudan faturalandırma şeklinde değildir.
+
+Öncelikle, tüm aramaları izleyen ve müşterilere fatura kesen bir İnternet A.Ş. olmadığını zaten biliyorsunuz. Bunun yerine, röle görevi gören yüzlerce daha küçük ağ vardır. Bu ağlar, müşterilerinden her arama için ne kadar zaman aldığına ve nereye gittiğine göre ücret alabilir, ancak kimse onlardan ücret almadığı için maliyetleri yansıtmak için gerçek bir teşvikleri yoktur. Bunun yerine sabit bir ücret alırlar - genellikle bağlantı süresine göre, ancak 24 saatlik bir bağlantı için yalnızca sabit bir yıllık ücret.
+
+Şimdi ağ trafiği kaynakları tüketir. Temel olarak, İnternet
+bir yemekli toplantı gibi çalışır. Doğrudan bağlantısı olan herkes
+sistem kaynaklarının bir kısmının sadece
+"geçen" mesajlar tarafından kullanılmasına izin verir. Buna izin verirler çünkü diğer sistemler de onlara aynı ayrıcalığı
+verir. Bu nedenle, kaynaklarının bir kısmının diğer kişilerin mesajları tarafından tüketilmesine izin vermek herkesin çıkarınadır, çünkü herkes bundan kazançlı çıkar.
+
+Dolayısıyla, doğrudan bağlantıları olan siteler kaybedilen
+bilgisayar çevrimleri, ekstra kablolama, daha gösterişli ekipman ve kaybedilen disk alanı açısından gerçek maliyetler öderler.
+Bu maliyetler müşterilerine yansıtılır veya hükümet sübvansiyonu tarafından karşılanır. Ancak sistemin kullanımıyla ilişkili doğrudan bir ücret yoktur.
+
+İnternet'in ilk günlerinde, omurga ağlarının hükümet sübvansiyonu çok önemliydi. Omurga hükümet fonlarıyla inşa edildi ve üniversiteler ve laboratuvarların ihtiyaç duyduğu ekstra ekipmanın bedeli hükümet fonlarıyla ödendi ve ürettiklerinden daha fazla trafik taşıdılar. Ticari ağların geliştirilmesiyle birlikte, hükümet destekli omurgaya alternatifler ortaya çıktı. Hükümet sübvansiyonu hala önemlidir, ancak her yıl daha az önemli hale geliyor.
+
+Yani, kısa cevap, ağ için ödeme yapmanızdır. Sağlayıcınıza sabit bir ücret ödersiniz veya Hükümet tarafından sübvanse edilen ağ kaynakları için vergi mükellefi olarak ödeme yaparsınız. Gerçekte gördüğünüz maliyetin çoğu kendi ekipmanınızda, bir telefon görüşmesi yapmanın maliyetinde ve sağlayıcınızın sizden talep ettiği
+her neyse olacaktır.
+
+<Bölüm 5> İnternet Temelleri
+
+İnternet hakkında çok konuştuk, ancak onu nasıl kullanıyorsunuz?
+Tüm İnternet kullanımının dayandığı üç temel beceri vardır:
+
+Elektronik Posta (E-posta)
+
+Dosya Aktarım Protokolü (FTP)
+
+Telnet
+
+Üç komut da İnternet adresleme şemasına dayanır. Başka bir bilgisayarın İnternet "telefon numarası", İnternet Protokolü (IP) adresidir ve şu şekilde görünür:
+
+225.225.12.38
+
+"Noktalı ondalık" adı verilen bu form, bazı bilgisayarlar tarafından hala gereklidir. Ancak, IP adreslerini insanlar için daha kolay hale getirmek için, bu telefon numarasının hatırlaması daha kolay olan başka bir biçimi vardır:
+
+hoople.usnd.edu
+
+Bu, "hoople" adlı bilgisayarın ("düğüm") Güney Kuzey Dakota Üniversitesi'nde bulunduğu anlamına gelir. Son bileşen olan ".edu", kurumun eğitim alanında olduğu anlamına gelir. Diğer alan adları şöyle görünür:
+
+.edu : eğitim kurumları
+
+.gov : hükümet (araştırma laboratuvarları ve
+
+.com : ticari işletmeler
+
+.org : kar amacı gütmeyen kuruluşlar
+
+.mil : askeri tesisler
+
+Bu alan adlarına ek olarak, birçok iki harfli ülke
+kodu vardır, örneğin
+
+.ca : Kanada
+
+.jp : Japonya
+
+.uk : Birleşik Krallık
+
+.us : Amerika Birleşik Devletleri
+
+ve daha fazlası.
+
+İnternet üzerinden birine elektronik posta göndermek için, bilmeniz gereken tek şey
+"kullanıcı adı" veya "kullanıcı adı"dır. Bunu bir at işareti,
+düğüm adı ve herhangi bir alan adı izler. Bu nedenle
+
+joe@locoweed.chi.il.us
+
+ABD'de, Illinois, Chicago'da yaşayan özel bir vatandaşı belirtir. Joe'nun
+bilgisayarına "locoweed" denir.
+
+Başka bir (gerçek) örnek olarak,
+
+president@whitehouse.gov
+
+ABD Başkanı'nın e-posta adresi.
+
+Aşağıdaki örneklerde tipik bir
+karakter odaklı bilgisayar için ayrıntılar vereceğiz. Menüler, iletişim kutuları vb. içeren pencere sistemleri bu ayrıntıların çoğunu gizleyecektir, ancak bunlar
+perde arkasında gerçekleşir. Ayrıca, bağlandığınızda,
+eski moda bir komut satırı sistemiyle karşılaşabilirsiniz.
+
+<Bölüm 5.1> Elektronik Posta (E-posta)
+
+Posta sistemini kullanmanın ayrıntıları sisteminize bağlıdır, ancak
+temel olarak şöyle görünür:
+
+% mail <posta programına MAIL komutuyla veya
+herhangi bir şeyle girin>
+
+Mail'e Hoş Geldiniz, Sürüm 99.3 . . .
+
+mail> gönder
+
+Kime: president@whitehouse.gov
+Cc: vice.president@whitehouse.gov <veya kimseye
+karbon gönderilmesini istemiyorsanız geri gönderin>
+Konu: İnternetteyim
+
+Mesajınızı yazın. Çıkmak için Control-Z
+
+Bill--
+
+Bugün internet bağlantım geldi. Adresim
+pdq@hoople.usnd.edu.
+
+Al'a en iyi dileklerimi iletin,
+
+PDQ
+
+<control-Z yazın veya sisteminizin mesajın sonunu bildirmek için ihtiyaç duyduğu şeyi yapın>
+
+% <sisteminiz artık bir sonraki komutunuz için hazır>
+
+<Bölüm 5. 2> Telnet
+
+E-posta göndermek için bir İnternet adresi kullanmanın yanı sıra, bir bilgisayarı aramak için de kullanabilirsiniz. Bu, bir bilgisayarı modemle aramaya benzer, ancak yerel bilgisayar (*sizin* modeminizle aradığınız) uzak bilgisayarı arar:
+
+PC'niz veya Mac'iniz --> "yerel bilgisayar" --> "uzak bilgisayar"
+
+Örnek, "home>"nin yerel bilgisayarınız tarafından verilen kabuk istemi ve "%"nin uzak bilgisayar tarafından verilen istem olduğunu varsayar (bkz. Bölüm 2.2 "kabuk istemleri"). Bu nedenle, bunları yazmayacağınızı unutmayın.
+
+home> telnet hoople.usnd.edu <bunu "ev" bilgisayarınızda yazın>
+
+HOOPLE düğümüne hoş geldiniz. Şu anda Opus 2.0 çalışıyor
+
+kullanıcı adı: pdq
+şifre: <şifrenizi buraya yazın>
+
+Son oturum açma 23:14:55 15-HAZ-1752
+Postanız var.
+
+% <şimdi istediğiniz komutları . . . >
+
+% logoff <ya da bye ya da quit ya da exit ya da her neyse>
+
+hoople.usnd.gov ile oturum 21:19'da sonlandırıldı.
+
+ana sayfa> <şimdi ev bilgisayarınızda komut vermeye devam edin>
+
+Başka bir bilgisayara bağlanma yöntemine "telnet" denir.
+Esasında, yerel bilgisayarı uzak bilgisayarı aramak için kullanmış olursunuz.
+Artık uzak bilgisayarda (belirli kısıtlamalarla) "gerçekten" oturum açmış olsaydınız yapabileceğiniz her şeyi yapabilirsiniz.
+
+TELNET İLE İLGİLİ ÖZEL SORUNLAR
+
+Bazen telnet sizi menü tipi bir programa veya hatta "ekran odaklı" bir programa sokar. Buradaki özel bir sorun, diğer bilgisayarın ne tür bir ekrana sahip olduğunuzu tanımasını sağlamaktır. Çoğu iletişim yazılımı "bir terminali taklit ettiğinden", bu, diğer sisteme iletişim sisteminizin hangi tür terminali taklit ettiğini söylemek anlamına gelir.
+
+Örn., bir UNIX sisteminde şunu yazabilirsiniz:
+
+% set term vt100
+
+diğer sisteme iletişim yazılımınızın kendisinin bir VT100 terminali olduğunu düşündüğünü söylemek için (emülasyon programları için çok yaygın bir seçim).
+
+Bunu tam olarak doğru yapmazsanız, telnet oturumunuz "bir şekilde
+çalışacaktır". Diğer bilgisayarla kısa bir temas için bu soruna çok fazla zaman harcamaya değmez. Ancak, her gün
+uzak bilgisayarda çalışacaksanız, bunu doğru yapmak isteyeceksiniz. En "kararsız" davranış bu soruna kadar izlenebilir.
+
+<Bölüm 5.3> Dosya Aktarım Protokolü (FTP)
+
+FTP adı verilen özel bir protokol kullanarak
+İnternet üzerinden dosya aktarmak kolaydır. FTP, bir ilan panosu hizmeti kullanıyorsanız size tanıdık gelebilecek XModem veya Kermit gibi programların yerini alır. Şimdi, FTP bir dosyayı aktarıyorsa, E-posta göndermekle FTP göndermek arasındaki farkın ne olduğunu sorabilirsiniz; neden birini diğerine tercih etmelisiniz?
+
+Öncelikle, FTP gönderilen dosya türünde belirli kısıtlamalardan kaçınır;
+özellikle, programlar ve resimler gibi ikili (metin olmayan) dosyalar gönderebilirsiniz; ve posta programlarında sıklıkla olduğu gibi belirli bir uzunlukla sınırlı değilsiniz.
+
+Sadece bu değil, FTP ile bir dosya seçmeden önce bir dosya dizinine "göz atabilirsiniz". Dizin hiyerarşisinde yukarı aşağı hareket edebilir ve istediğinizi bulmak için dosyaları listeleyebilirsiniz.
+
+Son olarak, FTP hesabınızın olmadığı (veya size posta gönderecek bir arkadaşınızın olmadığı) yerlere ulaşmanızı sağlar. Bunu yapmanın "anonim
+FTP" adı verilen yöntemi bir sonraki bölümde açıklanmıştır. Dünya çapında büyük program, metin dosyası ve grafik koleksiyonlarına sahip birkaç yüz "anonim FTP sitesi" vardır. Anonim FTP, yayınlamanın İnternet eşdeğeridir - gerçekten çok önemli bir konudur.
+
+<Bölüm 5.4> Anonim FTP
+
+Anon. ile daha fazla kolaylık. FTP, UNIX
+işletim sistemi hakkında biraz bilgi gerektirir. Giriş için Ek D'ye bakın.
+
+<Bölüm 6> İnternete Adım Adım Giriş
+
+Bu kurs, . yerine farklı bir yaklaşım benimser.
+
+Özellikle, bilgi için aşağıdakilerle iletişime geçmelisiniz.
+
+ADIM 1. BİR SAĞLAYICIYA KAYDOLUN (örneğin DELPHI)
+
+İnternete girmek için şunlara ihtiyacınız var:
+
+1. bir ev bilgisayarı,
+
+2. AT komutlarını anlayan bir 1200 veya 2400 baud modem ("Hayes
+Komut Seti Uyumlu"),
+
+3. iletişim yazılımı ve
+
+4. bir kredi kartı.
+
+Bu örnek, DELPHI bülten panosu hizmetine kaydolduğunuzu varsayar. DELPHI'nin yazarla ticari bir ilişkisi yoktur.
+Örnek olarak seçilmesinin nedeni, oranlarının piyasanın düşük ucuna özgü olması, ülke çapında hizmet sunması, temel ücretine SprintNet tarafından mesai sonrası erişimi dahil etmesi ve şu anda yeni abonelere 5 saatlik ücretsiz İnternet erişimi sunmasıdır.
+
+Kesinlikle diğer sağlayıcıları düşünmelisiniz. İnternete bağlandığınızda diğer sağlayıcılar hakkında bilgi edinebilirsiniz. Aslında, bu aşağıdaki ilk adımlarınızdan biri olacaktır.
+
+1. Modeminizi 2400 (veya 1200) baud, 8 bit, parite YOK, 1 durdurma biti, tam çift yönlü, yerel yankı ve otomatik hat beslemeleri kapalı, XON/XOFF açık, VT100 emülasyonuna ayarlayın. (modeminizin kılavuzuna, iletişim yazılımınızın kılavuzuna ve yardıma ihtiyacınız varsa Ek A'ya bakın)
+
+Bazı seçenekler eksikse endişelenmeyin. Genellikle, örneğin,
+tam çift yönlü yerel yankıyı kapatır ve tam tersi anlamına gelir, bu nedenle yazılımınız bunları ayrı seçenekler olarak listelemeyebilir.
+
+2. İletişim yazılımınızı kullanarak ATDT 1 800 365 4656 komutunu verin (veya doğrudan modeminize yazın). Darbeli çevirmeli bir telefonunuz varsa ATDT yerine ATDP kullanacaksınız.
+
+3. DELPHI size açık talimatlar verecektir, ancak referans olması açısından bunlar şu şekilde görünecektir:
+
+A. Akşam 6 veya 7'den sonra veya hafta sonu olduğundan emin olun; tabii ki gündüz erişimi için 9$ ek ücret ödemek istemiyorsanız.
+
+B. Yerel SprintNet erişim numaranızı çevirin (yerel arama!): ATDT 123
+4567.
+
+C. "CONNECT 2400"den sonra @D yazın ("D" büyük harf olmalıdır)
+
+D. "terminal="den sonra <CR> yazın, yani satır başı.
+
+E. @ işaretine şunu yazın
+
+@C DELPHI
+
+F. Kullanıcı Adından sonra şunu yazın:
+
+Kullanıcı Adı: YOURNAME
+Şifre: OPENSESAME
+
+Elbette kendi kullanıcı adınızı ve şifrenizi yazın.
+
+4. Herhangi bir zamanda Sprintnet erişim numaranızı unutursanız veya şehir dışındaysanız, SprintNet numaralarını aşağıdaki şekilde arayabilirsiniz.
+
+ADIM 2. İlk E-postanız
+PDIAL, NIXPUB, İNTERNET KAYNAK REHBERİ, PSI Hakkında Bilgi
+LISTSERV Hakkında Bilgi ve E-postaya Kaydolma
+
+ADIM 3. İlk Anonim FTP'niz
+
+İnternette gezinmeye başlayın
+
+ADIM 4. İlk Telnet'iniz
+
+Genel Erişimli UNIX'i edinin ve Usenet haberlerini okuyun
+
+ADIM 5. İlk E-posta
+PSI Hakkında Bilgi Edinme
+LISTSERV Hakkında Bilgi Edinme
+
+İnternet ile birçok şey yapabilirsiniz. Özellikle İnternet Rehberleri olmak üzere, aldığınız bilgiler size başka
+fikirler verecektir. Bu dersin III. Bölümünde bazı alma yöntemlerinden bahsedeceğiz. Şimdilik, başlangıç ​​noktası olarak sahip olduğunuz bilgileri kullanarak denemeler yapmalı ve keşfetmelisiniz. Kazandığınız deneyim, daha sonra İnternet araştırma yöntemlerinin daha sistematik çalışmasına geldiğimizde faydalı olacaktır.
+
+<Bölüm 7> Programlar ve Resimler
+
+Hatta, bilgi bulma ve aktarma konusunda deneyim kazandıkça,
+wustl.edu gibi büyük FTP arşivlerinden
+birinden resim veya özgür yazılım içeren ikili dosyaları aktarmayı denemek isteyeceksiniz
+
+sumex-aim.stanford.edu (Macintosh yazılımı)
+
+simtel-20.mil (IBM ve uyumlu yazılım)
+
+Aslında, edinmek isteyeceğiniz ilk yazılımlardan bazıları
+dosyaları sıkıştırma ve sıkıştırmayı açma (bir sonraki Bölüme bakın), grafikleri işlemek ("görüntü dosyaları") ve belki de bazı oyunlar için yazılımlardır.
+
+İlk olarak, ikili dosya nedir? İkili dosya, okuyamayacağınız bir dosyadır.
+"a", "b" vb. gibi sekiz bitlik kod harflerinden oluşan metinden farklı olarak, ikili dosyalar yalnızca programlar tarafından okunmak üzere tasarlanmış bitlere sahiptir. Bunları yazarak veya bir kelime işlemciyle "bakamazsınız" - kelime işlemci dosyanın biçimini anlamadığı sürece. Pahalı kelime işlemci programları - Word Perfect ve Microsoft Word gibi en popüler olanlar da dahil - giderek daha fazla sayıda ikili dosyayı okuyabilmektedir.
+
+Sık karşılaşılan ikili dosyalar şunlardır:
+
+1. Kelime işleme programları, elektronik tablolar, veritabanı programları vb. gibi tescilli formatlar kullanan dosyalar. Bu dosyalar
+biçimlendirme (italik, alt çizgi vb. gibi) ve belki de grafikler ve
+basit metnin ötesinde başka güzellikler içerir.
+
+2. "Uygulama Programları". Bunlar, bilgisayarınızın anladığı (ikili) makine dilinde
+yazılmış programlardır. Bunlar, bir programlama dilinde yazılmış "kaynak kodu" metin dosyalarından
+"derlenir". Satıcılar kaynak kodlarını neredeyse hiç kullanıma sunmazlar --
+kendiniz derlemeniz gerekebilecek
+ücretsiz yazılımlar hariç.
+
+3. Popüler sıkıştırma programlarından biriyle boyutlarının yaklaşık yarısına kadar sıkıştırılmış metin dosyaları. Sıkıştırma, metin dosyalarını
+ikili hale getirir. Sıkıştırma, zaten ikili olan dosyalar için pek bir şey yapmaz
+içerdikleri veriler çok tekrarlı olmadığı sürece.
+
+4. GIF, TIFF, PICT veya JPEG dosyaları gibi grafik içeren dosyalar.
+Bu konuda daha fazla bilgi aşağıda.
+
+İkili dosyaları aktarmak, olası sorunları anladığınızda metin dosyalarını aktarmak kadar kolaydır:
+
+1. Çoğu FTP programı sizi TEXT modunda başlatır. Bu, metin dosyalarının size doğru giderken bilgisayardan bilgisayara geçerken *çevrildiği* anlamına gelir. Bu, ikili dosyalar için ölümcüldür çünkü bit desenlerinin metni oluşturan sekiz bitlik gruplarla hiçbir ilgisi yoktur.
+
+2. Metin dosyalarında bile hafif uyumluluk sorunları vardır çünkü üç "dünya" --IBM, Macintosh ve UNIX-- "return", "enter" veya "newline"ı temsil etmek için farklı bir kontrol karakteri kullanır.
+
+Farklı lehçeler arasındaki çeviri TEXT modu
+transferlerinde otomatik olarak işlenir. Ayrıca metin dosyalarının BINARY modunda aktarılamamasının ana nedeni de budur.
+
+İlgili iki kontrol karakteri "satır besleme" (LF) ve
+"satır başı" (CR) olarak adlandırılır:
+
+IBM PC ve uyumluları: <LF> <CR>
+
+Macintosh ve VAX: <CR>
+
+UNIX: <LF>
+
+3. Yukarıda belirtildiği gibi, metin dosyaları genellikle yerden tasarruf etmek için sıkıştırılır.
+Bu, onları okumadan önce sıkıştırmayı açmak için bir programa ihtiyacınız olduğu ve bunları BINARY modunda aktarmanız gerektiği anlamına gelir.
+
+En yaygın sıkıştırma programları ve yaygın dosya uzantıları şunlardır:
+
+IBM PC ve uyumluları: PKZIP ve PKUNZIP (.ZIP)
+
+Macintosh: Stuffit ve UnStuffit arşivleri (.sit)
+
+UNIX: sıkıştırma ve sıkıştırmayı açma (.Z) ve bant arşivi (.tar)
+ikisi birlikte en yaygın olanlardır (.tar.Z veya .taz). Büyük "Z"ye dikkat edin.
+
+UNIX'te ayrıca gzip/gunzip komut çifti vardır. gzip dosyaları genellikle ".z" (*küçük* z) veya bant arşiv dosyalarıysa ".tgz" uzantısına sahiptir.
+
+Neyse ki, bilgisayarınız için genellikle diğer bilgisayar modellerinden formatları sıkıştıracak ücretsiz yazılımlar bulabilirsiniz.
+Sıkıştırma yazılımları hakkında güncel bilgiler için, comp.compression (ftp://rtfm.mit.edu/xxx) haber grubunun SSS bölümüne bakın.
+
+4. Tersine, bazen ikili dosyalar, TEXT modunda postalanabilmeleri veya aktarılabilmeleri için anlamsız görünen bir tür ASCII'ye dönüştürülürler - ancak yine de bunları ikiliye geri çeviren bir programa ihtiyacınız vardır. Bazen en büyük saçmalıkla karşılaşırız, sıkıştırılmış ve ardından postalanmak üzere ASCII olarak yeniden kodlanmış bir metin dosyası.
+Aslında, çok sayıda ilgili metin dosyası sıkıştırılmış bir "arşivde" saklanıyorsa bu mantıklıdır.
+
+Bunun için en yaygın programlar şunlardır:
+
+UNIX için uuencode/uudecode (ikili dosyaların Usenet haber gönderileri ve posta programları için kullanılır) Dosya uzantısı (bu formatta dosyaları depolamak için pek bir neden olmadığı için nadiren karşılaşılır) ".uue"dir.
+
+Macintosh için BinHex (.hqx) Genellikle Stuffit ile birleştirilir
+(.sit.hqx). Bu, bir programla birlikte gelen tüm dosyaları tek bir dosya olarak dağıtmak için yaygın bir yöntemdir.
+
+uuencode edilmiş dosyalar, her satırın büyük "M" ile başlaması ve tam olarak aynı uzunlukta olmasıyla tanınır. Dosya "begin" kelimesiyle başlar ve "end" ile biter. Çeviri programının bu kelimelere ihtiyacı vardır, ancak bunların üstünde veya altında hiçbir şey yoktur. Genellikle uuencoded bir dosya iletim için birkaç parçaya bölünür ve kod çözülmeden önce bir kelime işlem programında yeniden birleştirilmesi (ve posta başlıklarından vb. arındırılması) gerekir. Bunu yaparsanız, ortaya çıkan dosyayı bir metin dosyası olarak kaydettiğinizden ve kelime işlem programının tescilli biçiminde kaydetmediğinizden emin olun!
+
+<Bölüm 7.2> Grafiklerle Ne Yapılmalı
+
+Bu bölümün ikinci konusu grafik resimlerdir. Grafikler Masaüstü Yayıncıları için çok önemlidir -- haber bülteni yazarları, kendi broşürlerini hazırlayan işletmeler ve küçük baskı atölyeleri. Resimler ayrı dosyalarda saklanabilir veya bazı durumlarda Microsoft Word dosyalarının tescilli biçimi gibi diğer biçimlere gömülebilir. Resim dosyaları çok fazla yer kaplar -- özellikle yüksek çözünürlükteki büyük resimler. 1 Megabayt, orta çözünürlükteki küçük bir resim için tipik bir boyuttur. Bu nedenle, bir resim yaklaşık 500 sayfa metin değerindedir!
+
+Tipik bir grafiğin yaşam döngüsü aşağı yukarı şöyledir:
+
+ADIM 1. Fotoğrafın optik tarayıcıyla veya
+özel bir "video" kamerayla yakalanması (taranması)
+
+Daha iyi bir optik tarayıcı türü küçük bir fotokopi makinesine benzer.
+Daha ucuz elde taşınabilir modeller de vardır. Düz yataklı tarayıcılar 1000$+ aralığındadır, bu nedenle bu işte değilseniz bir tane edinmeniz pek olası değildir.
+Büyük olasılıkla, sıradan kullanıcı bir grafiği başkasından, bir "klip sanatı" koleksiyonundan alacaktır veya
+grafikleri bir çizim programında sıfırdan oluşturacaktır.
+
+ADIM 2. Bir değişim formatı kullanarak bir dosyada depolama
+
+Görüntü nasıl elde edilirse edilsin, kullanılmadan önce diske kaydedilmesi gerekir. Belki yirmi kadar yaygın format vardır, ancak
+İnternette ve Usenet haber gruplarında en sık bulunanlar şunlardır:
+
+GIF (Grafik Değişim Formatı) oldukça eski moda ancak çok
+yaygın bulunan bir grafik dosyası türüdür. Hemen hemen her yazılım bu formatı okuyabilir. Bu, Anonim FTP arşivlerindeki en yaygın formattır.
+
+TIFF (Etiketli Görüntü Dosyası Formatı) Teknik olarak GIF'ten daha çok yönlüdür ve hemen hemen aynı derecede yaygındır. Farklı programlar arasında dosya alışverişi için
+çok iyi bir seçimdir.
+
+JPEG () Daha yeni yazılımlarda yaygınlaşan özel bir sıkıştırılmış görüntü formatıdır.
+
+EPS (Kapsüllenmiş PostScript) Aslında tam olarak bir grafik dosyası değil,
+bir görüntü çizmek için bir dizi talimattır. Lazer yazıcılar için Postscript sayfa açıklama dilinin başarısı, kelime işleme dosyalarına grafik eklemek için yeni bir
+stratejiye yol açmıştır. Microsoft Word gibi birçok üst düzey kelime işleme programı, şekli içeren
+harici bir Postscript dosyasına bir referans eklemenize olanak tanır.
+
+Masaüstü yayıncılık ve üst düzey kelime işleme programları genellikle bu formatlardan herhangi birinde, özellikle TIFF ve EPS'de grafikleri kaydedebilir ve içe aktarabilir.
+
+Ayrıca, Macintosh PICT dosyaları gibi tescilli formatlarda dosyalar bulabilirsiniz. Bu formatlar, kendi bilgisayar serileri için standart görevi görür ancak farklı markalar arasında değildir. Neyse ki TIFF'i PICT'ye veya _tersine_ dönüştürecek
+ücretsiz bir yazılım bulabilirsiniz.
+
+ADIM 3. Kullanım noktasına iletim
+
+Broşürünüzü içeren bir grafik dosyanız veya bir kelime işlem dosyanız olduğunu varsayalım. Bu dosyayı birine nasıl gönderirsiniz?
+
+Akademik bir ortamda çalışıyorsanız, bir veya diğer kurumun Anonim bir FTP sitesi olması oldukça olasıdır.
+Anon. FTP sitesini dosyayı ikili modda aktarmak için bir "posta kutusu" olarak kullanabilirsiniz - veya her ikisinin de İnternet'e doğrudan bağlantısı varsa, şifreleri değiştirip dosyayı doğrudan aktarabilirsiniz.
+
+Daha yaygın olarak, dosyayı E-posta ile göndermeniz gerekecektir. Diyelim ki bir
+broşürü yeni bitirdiniz ve ülke çapında göndermek istiyorsunuz. Diyelim ki işletmenizin iki şubesi var - biri New York'ta, diğeri Los Angeles'ta ve her iki ofiste de Microsoft Word yüklü Macintosh'lar var
+ve her ikinizin de Macintosh için ücretsiz "Usenet yazılım kitlerinden" biri var (mutlaka aynısı olması gerekmez). Sonra, şu şekilde ilerlersiniz:
+
+A. UUENCODE (veya isterseniz BINHEX) kullanarak Microsoft
+Word dosyasını kodlanmış bir metin dosyasına dönüştürürsünüz.
+
+B. Postanızın bir boyut sınırı varsa, dosyayı bölmeniz ve
+parçalar halinde göndermeniz gerekebilir.
+
+C. Alıcı tarafta, dosyayı yeniden birleştirin ve posta sistemi tarafından eklenen tüm başlıkları ve
+kısayolları çıkarın. Dosya şöyle görünmelidir
+
+begin <ilk satır>
+M
+M
+M
+
+M
+end <son satır>
+
+ve bir TEXT dosyası olarak kaydedilmelidir.
+
+D. UUDECODE'u (veya BINHEX'i) çalıştırın ve ikili dosyayı kurtarın.
+
+E. Microsoft Word'ü çalıştırın, ikili dosyayı (MS Word!) açın ve yazdırın.
+
+Küçük bir aksaklık olabilir. Macintosh dosyalarının iki bölümü vardır, bir
+"kaynak" bölümü ve bir "veri" bölümü. Kaynak kısmı, dosyaya tıkladığınızda çalıştırılacak uygulamanın adı ve sevimli küçük simge resimlerinin nasıl çizileceği gibi bilgileri içerir. Daha basit programlardan bazıları kaynak kısmını kodlamaz, bu nedenle üzerine tıklayarak açamayacağınız genel bir belge alabilirsiniz (kötü şöhretli "uygulama meşgul veya eksik" mesajı). Sorun değil. Bunu Word'den açın ve ardından Word belgesi olarak kaydedin. Eksik parçaları kurtarması gerekir. Ve daha akıllı bir yazılım edinin.
+
+Elbette bu prosedür karmaşıktır ve saat 5'teki bir teslim tarihini geçmeye çalışmadan önce bir deneme yapmak isteyebilirsiniz ancak bir bilgisayar dosyasını saniyeler içinde ülke çapında aktarma yeteneği bir işletme için çok önemli olabilir. Bunun ücretsiz bir yazılım ve aylık 10$'lık sıradan bir E-posta bağlantısıyla yapılabilmesi şaşırtıcıdır. Deneyin ve bunu yapmayı öğrenin. Gelecekte, yazıcılar genellikle E-posta ile veya telefon hatları üzerinden doğrudan transfer yoluyla gönderileri kabul edebilir. Yağmurlu bir günde kamera hazır kopyanızı nasıl kuru tutacağınızı bulmak zorunda olmadığınızı veya
+teslim tarihinizden dakikalar önce şehrin bir ucundan diğerine aceleyle gitmek zorunda olmadığınızı hayal edin!
+
+ADIM 4. Görüntü iyileştirme ve/veya renk ayrımı
+
+Bir bilgisayar dosyasında bir grafik bulundurmanın en büyük avantajlarından biri,
+görüntüyle oynamak için ücretsiz yazılım (veya paylaşım yazılımı) kullanabilmenizdir.
+Kırpma, döndürme, germe, yakınlaştırma vb. hepsi
+yaygındır. Ayrıca, rengi siyah beyaza veya gri tonlamaya dönüştürebilir, görüntüyü iyileştirebilir, yarı tonlar veya renk ayrımları yapabilir ve
+isterseniz mekansal frekans spektrumuyla bile oynayabilirsiniz. (Renk
+ayrımları, yazıcıların ihtiyaç duyduğu dört görüntüdür--Camgöbeği, Sarı, Macenta ve Siyah mürekkep için ayrı olanlar).
+
+ADIM 5. Bir kelime işleme veya masaüstü
+yayınlama programına içe aktarma veya yerleştirme
+
+Resimden memnun kaldığınızda, onu bir grafik olarak DTP'nize veya kelime işleme programınıza içe aktarırsınız. Programınız resmin bulunduğu formatı okuyorsa, bu kolaydır. Aksi takdirde, sahip olduğunuz formattan ihtiyacınız olan formata dönüştüren ücretsiz bir yazılım edinmeniz gerekecektir. Bu süreç çok deneyseldir. Belirsiz bir formattan, tescilli bir hedef formata dönüştürmeden önce GIF veya TIFF gibi standart ve yaygın bir formata dönüştürdüğümde daha iyi sonuçlar aldığımı gördüm. Yazılım belirsiz formatı doğrudan okuduğunu söylese bile bu doğrudur.
+
+ADIM 6. Lazer yazıcıda veya diğer ekipmanlarda yazdırma
+
+Bir grafik yalnızca bir (renkli) monitörde, örneğin bir slayt sunumunda görüntülenmek üzere tasarlanmamışsa, yazdırılmalıdır. İşte karşınızda.
+Baskı halindeki resminiz.
+
+<Bölüm 8> Yalnızca E-postanız Olduğunda Ne Yapmalısınız?
+
+Yapmanız gereken ilk şey daha iyi bir
+İnternet bağlantısı edinme hakkında bilgi edinmektir! Ancak bunun dışında, yalnızca E-posta gerektiren geçici çözümler bilmeniz gereken birçok neden vardır: İnternet erişiminin olmadığı bir yerde (iş gibi) sıkışmış olabilirsiniz veya bir arkadaşınızdan erişim ödünç alıyor olabilirsiniz. İnternet iletişimi başkalarıyla iletişim kurmakla ilgili olduğundan, birçok açıdan bu, bu kurstaki en önemli bölümdür.
+
+Öncelikle şu yöntemleri ele alacağız:
+
+<Bölüm 8.1> Posta Sunucularıyla FTP
+
+<Bölüm 8.2> Postayla Archie
+
+<Bölüm 8.3> Posta Sunucuları ve Dosya Sunucuları
+
+<Bölüm 8.4> Posta listeleri ve bunların nasıl bulunacağı
+
+<Bölüm 8. 5> E-postadan FAX'a
+
+Faks, bir şey hariç, E-posta kadar kullanışlı değildir.
+
+<Bölüm 8.6> E-posta Listesiyle Elde Edilebilecek En Eğlenceli On Şey
+
+Artık teknikleri öğrendiğinize göre, Ek E'deki "En İyi 10" listesindeki şeylerden bazılarını edinmeyi deneyin.
+
+<Bölüm 9> Çalışan Gelişimi: Çalışanlarınızın
+İnternet
+Çalışmasını Nasıl Sağlarsınız
+
+Bu kısa Bölüm, İnternet hakkında nasıl bilgi edineceğinize dair küçük tavsiyeler içerir. Önceki Bölümlerden, İnternet'i
+nasıl kullanacağınızı öğrenmenin birçok işletme için bir hayatta kalma becerisi olduğu açıkça anlaşılmalıdır.
+Elektronik ortamın etkili kullanımı
+
+o Çalışanların zamanından tasarruf sağlar--telefon görüşmelerinde kaybedilen zaman, kaybolan mesajlar ve
+yüzey postasının üç günlük gecikmesi.
+
+o Belge yazdırma, fakslama ve ardından alıcı tarafta verileri yeniden klavyeleme gibi dolambaçlı veri aktarma yollarından kaçınır
+
+o İşletmelerin ve bireylerin kendi çalışmalarını yayınlamalarına ve verimli bir şekilde dağıtmalarına olanak tanır, ister metin ister grafik görünüm birincil olsun.
+
+o Bilgiye erişim sağlar, belgelerin tek ve tekdüze bir şekilde iletilmesine ve dağıtılmasına olanak tanır.
+
+Ayrıca, İnternet çalışmasının henüz pürüzsüz, kolayca öğrenilebilen bir süreç olmadığı da açık olmalıdır. Şu anda İnternet'in kendisi dışında hiçbir yerde öğretilmeyen bilgi ve beceriler gerektirir.
+
+Bir sonraki bölüm, farklı insan kesimlerinin özel ihtiyaçlarını ele almaktadır. Son bölüm, İnternet çalışmasının etkili bir şekilde yapılması için gereken yöntemlerin ve becerilerin oldukça sistematik bir açıklamasını içerir. Ancak bu bölümleri konuyla ilgili son söz olarak sunmaktan uzak, İnternet çalışmasını öğrenmenin tek yolunun İnternet'in yönlendirilmemiş keşfi olduğunu vurgulamak istiyorum.
+
+Bu, çalışanlarınızın en azından kendi zamanlarında oynamasına izin vermeniz gerektiği anlamına gelir: programlarla oynayın, Anonim FTP ile oynayın ve Usenet haberleriyle oynayın. Bu etkinliklerin hiçbiri doğrudan üretken değildir, ancak yeni bir programa ihtiyacınız olduğunda ve ofisinizdeki biri bunu
+
+o doğru Usenet haber grubunu seçip SSS'sini alabildiği zaman
+
+o SSS'yi okuyup sorununuzu çözecek ücretsiz yazılımlar ve en son sürümün nerede bulunacağı hakkında bilgi edinin
+
+o yazılım arşivine bağlanın ve (doğru şekilde) programı
+aktarın--araya giren makine "yanlış" yapıda olsa bile.
+
+o yazılımı düzgün bir şekilde sıkıştırın ve yükleyin.
+
+Tüm bunlar yarım saatten kısa bir sürede yetkin bir şekilde yapıldığında, çalışan gelişimi hedefinize
+ulaşmış olacaksınız.
+
+Son bir uyarı: *Usenet haberlerini ihmal etmeyin.* Usenet haberleri, "temel İnternet hizmetleri" arasında edinilmesi en zor olanıdır çünkü
+gerçekten bir İnternet hizmeti değildir. Genellikle İnternet bilgisayarlarında bulunur ve genellikle İnternet üzerinden iletilir, ancak E-posta-FTP-telnet şemasına uymaz. İnternet sağlayıcınız haberleri sağlamıyorsa, (1) genel erişimli bir UNIX sisteminde bir hesap edinerek ve (2) UNIX kullanmayı öğrenerek bunları ortaya çıkarmanız gerekebilir. Komut satırı UNIX, komut satırı MS-DOS'tan daha kolay değildir, ancak yalnızca "rn" (readnews) komutu için bir UNIX sistemine nasıl girileceğini öğrenmeye değer. Bu kadar uzağa (ve daha fazlasına) ulaşmak için bilmeniz gereken her şey Ek D'de yer almaktadır. Bu tür herhangi bir kılavuz, bilgi kaynakları, teknikler ve yazılımlar açısından yakında eskiyecektir. Ancak Usenet son dakikaya kadar günceldir. Orada, alt., talk. ve soc. hiyerarşilerinin birçok farklılığı arasında, modern İnternet ağının bilgi işlem ortamı hakkında en son bilgiler gizlidir. Bu yazarın görüşüne göre, bir haber okuyucusu kullanmayı öğrenmek ve ağ haberlerini düzenli olarak okumak *en önemli İnternet
+çalışması becerisidir*. Usenet haber grupları, gerçek dünya kütüphanesinin Dewey
+Ondalık Sistemidir. Bilgi başka yerlerde bolca bulunabilir, ancak bilgi kılavuzları nadir ve paha biçilemezdir-- ve Usenet haberleri İnternet'e kılavuzdur.
+
+<Bölüm II> Özel Endişeler
+
+Bu Bölüm, çeşitli insan gruplarının internetçalışması becerilerini kullanma yollarından bazılarını kısaca listeler. <Bölüm 11> İşletmelere Özel
+
+Keşke işletmelerin İnternet kullanımına ilişkin daha iyi haberlerim olsaydı. *İşletmelerin* ilgisini çeken yüzlerce ücretsiz hizmeti tanımlayıp
+İnternet'i kar amacıyla nasıl kullanacağınızı söyleyebilseydim. Ama henüz orada değil.
+Ancak, yüzünüzde üzgün ama bilgili bir gülümsemeyle başınızı sallayıp başka bir olası olmayan teknolojik rüyaya bakmadan önce -daha önce gördünüz- şunu düşünün: İnternet'in ana potansiyeli bir
+iletişim ortamıdır. Radyo ve televizyon işletmeler için önemli midir?
+Peki gazeteler ve dergiler? Ya da doğrudan posta? Çok az işletme
+gazete satarak veya radyo istasyonları işleterek para kazanır,
+ama birçok, birçok işletme bu medyayı reklam için kullanır. Siz ve çalışanlarınız, gazete reklamlarının düzeninde ve form mektupları yazmada ustalaştığınız aynı sebeplerden dolayı bu medyayı kullanmada ustalaşmalısınız.
+
+İnternet'in bir yayın ortamı olmadığını, daha çok telefon veya posta sistemi gibi olduğunu anlamak çok önemlidir. Kişilerle tek tek iletişime geçmekte uzmanlaşmıştır. Başka bir deyişle, 25 milyon e-posta adresinin bir listesini alıp her 10 dakikada bir 30 saniyelik bir ses kaydıyla onları bombardımana tutmayacaksınız. Ayrıca 100 kişiye 100 kişiyle iletişime geçmelerini isteyen bir mektup göndermeyeceksiniz. Öte yandan, bu ortamı müşterilerinizin bir posta listesine ulaşmak veya kendi kendinize bir tanıtım broşürü yayınlamak için kullanabilirsiniz.
+
+İnternetteki ticari trafik miktarı hayal kırıklığı yaratacak kadar az -- ama önemli. Çoğunlukla bunun tarihi nedenleri var. Amerika Birleşik Devletleri'ndeki omurga ağı NSFnet (Ulusal Bilim Vakfı için) üzerinden taşınan trafik için "kabul edilebilir kullanım" politikasına sahiptir.
+Bu, trafiği belirli hükümet laboratuvarlarının ve üniversitelerin Ar-Ge çabalarını destekleyen mesajlarla sınırlar. Açıkça, doğrudan NSFnet'e bağlıysanız ticari trafiğe yer yoktur.
+
+Ancak günümüzde doğrudan NSFnet'e bağlanmadan İnternet'e girilebiliyor ve ticari trafiğin miktarı artıyor. Şunları göz ardı etmeyin:
+
+o Ürün bilgilerini ve broşürleri E-posta ve posta hizmetiyle birlikte kullanılabilir hale getirmek.
+
+o Müşteri destek taleplerinin E-postayla iletilmesine izin vermek.
+
+o Müşterileriniz veya danışanlarınız için bir posta listesi başlatmak.
+
+o Müşterilerin ürününüz hakkında otomatik olarak bilgi almasını sağlamak için bir "posta sunucusu" kurmak, oturum açmanızı beklemek zorunda kalmadan
+(İnternete doğrudan bağlantı gerektirir).
+
+o Ürün bilgilerinizi anonim bir FTP sunucusuna koymak
+(internette bir dosya sunucunuz olması veya bilgileri almaya istekli bir FTP sitesi bulmanız gerekir).
+
+Şaşırtıcı bir şekilde, bildiğim kadarıyla posta sunucularını veya anonim FTP sitelerini destekleyen hiçbir ücretli reklam hizmeti yok. Daha fazla kişi internete katıldıkça bu reklam ortamının gelişeceği adil bir tahmindir. Bilgilerinizi ilan panolarına koyabilirsiniz,
+elbette, ancak yalnızca üyeler görecektir; E-posta erişimi olan 25 milyon kişi değil.
+
+Ancak, bilgi veya kağıt yoğun (örneğin yayıncılık, bilgi işlem, bilgi alma vb.) çok belirli sektörlerde değilseniz veya hava durumu haritaları gibi hükümet bilgilerine erişmeniz gerekmiyorsa, İnternet kullanımınız
+program indirmekten veya en son teknik bilgileri edinmekten oluşacaktır.
+
+Bütün bunlar, işletmeler için İnternet'in en önemli yönünü göz ardı ediyor. İnternet çok hızlı bir şekilde gelişiyor. Çok yakın bir gelecekte hangi sektörde olursanız olun, iş yapmak, müşteri hizmetleri ve
+reklamcılık için önemli bir ortam olması muhtemeldir. Yayıncılık, yüksek teknoloji sektörleri ve medya gibi bazı sektörler için kritik olacaktır. İnternet'i kullanmada yetenekli bir çalışan havuzuna sahip olan işletmeler, olmayan firmalara göre rekabet avantajına sahip olacaktır. Bu nedenle çalışanlarınızı kişisel İnternet bağlantıları edinmeye ve mesai saatleri dışında İnternet hakkında bilgi edinmeye teşvik etmelisiniz.
+
+<Bölüm 12> Öğrenciler ve Ebeveynleri İçin Özel
+
+İnternet akademik bir ortamda geliştiğinden, üniversite
+öğrencileri muhtemelen herhangi bir işletmenin kıskanacağı bir erişim
+düzeyine sahip olacaktır. Tüm hizmetler ve araştırma araçları--sadece E-posta,
+FTP ve telnet değil, aynı zamanda gopher,
+WW, WAIS ve geri kalanı öğrencilere yerel "kümedeki" herhangi bir terminalden veya yurt odalarından çevirmeli bağlantıyla
+erişilebilir.
+
+Öğrenciler özellikle şunlara meraklı olacaklardır:
+
+o kütüphaneye gitmeden önce bir kitabın olup olmadığını görmek için üniversite kütüphane kataloğunu kontrol etmek.
+
+o gopher veya okul ilan panoları aracılığıyla kampüs etkinlikleri (diğer üniversitelerde bile!) hakkında bilgi edinmek
+
+o bilgisayar ekipmanları, arabalar, konutlar, vb. için alım satım duyuruları yayınlamak.
+
+o kendi üniversitelerindeki veya E-posta yoluyla yardım için potansiyel eğitmenlerle iletişime geçmek. (Usenet Üniversitesi adı verilen, çeşitli konulardaki soruları E-posta yoluyla yanıtlamaya hazır bir ağ çapındaki eğitmen "üniversitesi" Usenet haber gruplarında zaten mevcuttur. alt.uu.*
+hiyerarşisine bakın).
+
+o kütüphaneler arası ödünç verme veya bibliyografyaları derlemek için diğer üniversite kütüphanelerinin çevrimiçi kataloglarını kullanmak
+
+o ücretsiz yazılım ve bilgi indirmek
+
+o burs bilgisi bulmak
+
+Ebeveynler üniversitedeki çocuklarıyla E-posta yoluyla iletişim kurabilir ve muhtemelen evden ara sıra gelen mektupları beklemekten daha hızlı bir yanıt alabilirler. Ancak endişeli ebeveynler çocuklarının en son ne zaman oturum açtığını veya postalarını ne zaman okuduğunu öğrenmek için "parmak" komutunu kullanmaktan kaçınmak zorunda kalacaklar!
+
+<Bölüm 13> Yazarlar, Gazeteciler, Yayıncılar ve Matbaacılar İçin Özel
+
+Bilginin medya ve yayıncılık endüstrileri kadar kritik olduğu başka bir endüstri muhtemelen yoktur. Ağları
+araştıran gazeteciler,
+ilk bölümde açıklanan araçları
+bilgiyi takip etmek, posta yoluyla anında "röportajlar" yapmak vb. için tekrar tekrar kullandıklarını göreceklerdir. Yayıncılar, el yazmalarının elektronik olarak iletilmesiyle ilgileneceklerdir (ancak yayın talebinde bulunan yazarlar yine de basılı kopya göndermek isteyeceklerdir - elektronik çağda bu, kendinden adresli, pulu yapıştırılmış bir zarf göndermenin eşdeğeridir). Yayıncılar ayrıca,
+diğer yayıncılarla ücretsiz görüntü işleme yazılımı paylaşmak veya geliştirmek ve
+grafikler iletmekle ilgileneceklerdir.
+
+Ağ geliştikçe, kütüphane araştırmaları giderek daha sık olarak
+ağlar arası iletişimi içerecektir. Kitap aramak, çevirmeli bağlantı veya İnternet üzerinden zaten kolaydır. Ayrıca,
+kağıt üzerinde asla
+dolaştırılmayan bilgi miktarı artacaktır. Bu,
+baskının bir zorunluluktan ziyade bir lüks olduğu bilimsel ve teknik toplulukta zaten böyledir. Tek bir 8 mm video kasetinin 500.000 sayfa metin tutabildiği göz önüne alındığında, asla yazdıramayacağınız muazzam miktarda bilgiyi istiflemek (ve aramak) mümkündür. Böyle bir teknolojinin Hükümetin veya başka bir bürokrasinin elinde neler yapabileceğini hayal edin. Son olarak, bir editörün posta hizmetiyle olduğu kadar E-posta yoluyla da çok sayıda basın bülteni alacağı günü hayal etmek zor değildir.
+
+İnternet bağlantısı teknolojisi, hemen hemen her işletmenin veya bireyin kendi "haber servisini" kurmasına ve yönetmesine, belirli bir abone grubuna işletmeleri veya özel ilgi alanları hakkında bilgi sağlamasına olanak tanır.
+Bu yetenek, düşük kaliteli baskıyı herhangi bir işletmenin veya bireyin eline veren Masaüstü Yayıncılık ile tamamen aynıdır.
+
+Gazeteciler ve diğer yazarlar, Usenet'teki teknik tartışmaların, ürün duyurularının, dedikoduların ve genel sızlanmaların kaleidaskopik karışımını göz ardı etmek istemeyecektir. Usenet'in halihazırda tipik bir uydudan daha fazla kanalı var ve günde yaklaşık on kanal daha büyüyor. Bulması zor ama sohbet ve programların arasında İnternet Dünyası'na dair son dakika bilgileri yer alıyor. Elbette bilimsel veya teknik köşe yazılarının tüm yazarları bu bilgi kaynağından yararlanmak isteyecektir.
+
+<Bölüm 14> İlkokul ve Lise Öğretmenleri İçin Özel
+
+Hükümet tarafından, çoğunlukla araştırma laboratuvarlarının eğitim ofisleri aracılığıyla sağlanan, İlkokul ve Ortaokul öğretmenleri için birçok özel İnternet hizmeti vardır. Öğretmenler için en iyi genel kaynak, Ulusal Süper Bilgisayar Yönetimi Merkezi Eğitim Ofisi tarafından yayınlanan _NCSA İnternet Rehberi_'dir. Kağıt versiyonu şu adresten edinilebilir:
+
+Ağ versiyonu ftp.ncsa.uiuc.edu adresinde bulunur. Ne yazık ki, yalnızca Microsoft Word formatında mevcuttur (ikili aktarım gerektirir).
+Bu formatı doğrudan kullanamıyorsanız veya kullanabileceğiniz bir formata dönüştüremiyorsanız, kağıt versiyonunu sipariş etmeniz gerekecektir.
+
+NCSA Rehberi, İnternet'e bağlanmak için bilmeniz gereken her şeyi kapsar - hem teknik ayrıntılar hem de görgü kuralları - ve ayrıca çocukları internete tanıtmak için önerilen projeler. Uzay programı hakkında bilgi edinmenin veya Argonne Ulusal Laboratuvarı'ndaki Fen ve Matematik öğretmenleri için Newton
+Bülten Panosu Hizmeti gibi programlara nasıl erişebileceğinizi öğreneceksiniz.
+
+Ayrıca, Usenet'in K12 ağına bir geçit sağlayan bir k12.* hiyerarşisi vardır. K12'nin yanı sıra, özellikle öğretmenler ve öğrenciler için birkaç bölgesel ağ daha vardır.
+
+Öğretmenler için daha heyecan verici olasılıklardan biri de
+çalışma kağıtları, el ilanları ve diğer materyalleri diğer öğretmenlerle paylaşmaktır.
+Bu tür paylaşımlar öğretmenlere yönelik bülten panolarında ve bölgesel ağlarda rutin olsa da, anonim FTP siteleri bu tür materyallerin dünya çapında bir koleksiyonunun olasılığını taşır. Katkıda bulunulan materyalleri
+(elektronik formatta) şu adrese gönderin:
+
+ftp.cs.city.ac.uk:/freelore/incoming
+
+xx. Bölümdeki, anonim FTP ile dosya gönderme talimatlarını izleyerek veya bir disketi (ve geri istiyorsanız ön ödemeli posta ücretiyle bir iade postası!) şu adrese gönderin:
+
+The FreeLore Project
+P.O. Box 6022
+St. Charles, IL 60174.
+
+Bu kurs gibi materyallerinizde telif hakkı bildirimi olduğundan emin olun, böylece herkes bunları ücretsiz olarak kopyalayıp dağıtabilir (eğitim amaçlı).
+
+<Bölüm 15> Kütüphaneciler İçin Özel
+
+Elbette, uzun yıllardır kütüphaneler kataloglama veya kullanıcı taleplerini karşılamak için bilgi hizmetlerinin en yoğun kullanıcıları arasında yer almıştır.
+
+Artık birkaç şirket, örneğin ACCESS veya DRAnet, kütüphanelere İnternet erişimi sağlama konusunda uzmanlaşmıştır. Kütüphaneler bu hizmetleri giderek daha fazla kullanacak çünkü şu avantajları vaat ediyorlar:
+
+o Dünya çapında yüzlerce çevrimiçi kütüphane kataloğuna ucuz erişim.
+
+o Özel yazılım paketleri yerine telnet kullanarak bilgi hizmetlerine tek tip ve genellikle daha ucuz erişim.
+
+o WAIS, WWW ve GOPHER gibi net genelinde arama araçlarına erişim.
+
+o Diğer kütüphanecilerle e-posta yoluyla tartışma, konferans raporları ve duyuruları vb.
+
+Bir kütüphanecinin bana söylediği gibi, kütüphanecilerin İnternet'i kurmadığını söyleyebilirsiniz. Arşivler parça parça büyüdü ve içerikleri kalite açısından tek tip olmaktan uzak. Ayrıca, tüm İnternet o kadar büyük ki muhtemelen kataloglanamaz. Yine de, "orada" bulunan bilgilere bir tür erişim sağlamak için kaba ve hazır araçlar ve gelenekler gelişti. Kütüphanecilerin şüphesiz onları gelecek bin yılda da istihdam edecek çok fazla
+işleri var.
+
+Kütüphaneciler için en büyük nimet, ağın düğümler, dizinler ve alt dizinler halinde hiyerarşik olarak
+düzenlenmesidir. Bunlar, *elektronik dünyadaki her şeye* örtük
+ve evrensel bir çağrı numarası sağlar.
+
+Ota.ox.ac.uk:/pub/HistoricalDocs/Political/US/constitution
+
+gibi bir çapraz referansın, bir bibliyografik alıntı veya
+bir kart kataloğunda referansa bakın kadar yaygın olacağı gün çok da uzak değil. İnternet ayrıca kütüphaneler için bir dizi gizli masraf ve tehlike taşır:
+
+o Kütüphanelerin ihtiyaç duyduğu bilgisayar ekipmanı,
+teknik personel, yazılım vb. masraflarını bir miktar artıracaktır
+
+o Özellikle İnternet'e bir tür kamu erişimi düşünülüyorsa, ek telefon hatları gerekebilir
+
+o Personel eğitim ihtiyaçları daha fazla olacaktır
+
+o Yerel bilgisayar sisteminin virüs koruma yazılımına ve düzenli yedeklemelere ihtiyacı olacaktır (her neyse, iyi bir fikir ama benim deneyimime göre kütüphaneciler tarafından nadiren uygulanıyor. Kitap koruma konusunda eğitim almış kişiler daha iyi bilmelidir!).
+
+o İnternetteki bazı materyaller, popüler olmayan azınlıkların (örneğin
+liberaller, eşcinseller, feministler ve aydınlar) görüşlerini temsil ettiği için halktan şikayetler alacaktır. Ayrıca, E-posta veya Usenet haber grupları aracılığıyla çok miktarda pornografik materyal (metin ve grafik) mevcuttur. Sansür, kamu fonlaması ve reşit olmayanların erişimi konuları henüz elektronik iletişim alanında ele alınmadı.
+
+Sağlayıcınızın standart hizmet paketine ek olarak, kütüphaneciler Usenet Haber Gruplarını ihmal etmemelidir, bu farklı bir hizmetle özel bir hesap almak (ve birincil hizmetiniz üzerinden çevirmeli veya telnetle erişmek) anlamına gelse bile.
+Usenet Haber Gruplarını ve paha biçilmez SSS'lerini (Sıkça Sorulan Sorular) kullanmayı öğrenmek, personelinizin mesleki gelişimi için *en önemli beceridir.* Bu, bilgisayar sisteminizle mesai saatleri dışında "oynamayı" teşvik etmek isteyebileceğiniz anlamına gelir. Usenet Haber Gruplarını İnternetin
+Referans Bölümü olarak düşünün.
+
+<Bölüm 16> Bilim İnsanları İçin Özel
+
+Eskiden sadece bilim insanları ve teknoloji uzmanları akademik ağları kullanırdı. Ama artık kullanmıyor. Günümüzde birçok hümanist ve sosyal bilimci, diğer üniversitelerdeki arkadaşlarıyla (oops... demek istediğim meslektaşlarıyla) neşeyle gevezelik ediyor, E-postayla işbirliği yapıyor, E-dergilere abone oluyor ve yazıyor, vb. Bu, elbette, Öğrenciler için
+Bölümde açıklanan akademik bilgi işlem ortamına ek olarak.
+
+Bu dünyaya girişinizin ana yolu bir tür E-posta erişimi ve alanınız için bir posta listesi veya haber grubu bulmaktır. Oradan, katılabileceğiniz ilginç materyaller veya gruplar hakkında ipuçları alacaksınız - kısacası ağ kurmaya başlayabilirsiniz. Bu tür posta listeleri için iki ana kaynak LİSTE SUNUCULARI
+(BITNET'te geleneksel) ve giderek artan şekilde Usenet Haber Gruplarıdır. Aslında, haber grupları şu anda *beşeri bilimler* için listeler kadar yararlı değil. Bunun nedeni, akademik hiyerarşinin bilgisayar bilimi hiyerarşisi kadar alt bölümlere ayrılmamış olmasıdır. Bu nedenle, bilgisayar bilimi için bütün bir hiyerarşi vardır, ancak dilbilimin tamamı sci.lang'a uyar! Bu tartışma grupları ya sadece birkaç katılımcıya sahiptir ya da o kadar kapsamlıdır ki işe yaramazlar. Bu, Usenet'i görmezden gelmeniz gerektiği anlamına gelmez - bilgisayar ve ağ bilgisi paha biçilmezdir - sadece onu alanınızla *doğrudan*
+ilgili bulmayacağınız anlamına gelir.
+
+Liste sunucuları başka bir konudur. Makalelerin herkes tarafından tüm listeye dağıtılmasına izin verirler (liste denetlenmediği, yani listenin sahibi tarafından hakemlik yapılmadığı sürece) ve makalelerin listedeki herkesin erişebileceği bir yerde arşivlenmesine izin verirler. Kısacası, *çok* büyük bir okuyucu posta sütunu olan bir tür Elektronik Dergi oluştururlar. Alanınızdaki bir listeyi bulmak için herhangi bir liste sunucusuna "INDEX GLOBAL" mesajını gönderin. Bunların genellikle "listserv@hoople.usnd.edu" gibi bir adresi vardır. Daha sonra liste sunucusuna "SUBSCRIBE PDQFAN" gibi bir mesaj göndererek PDQFAN listesine katılın.
+Daha sonra yayın için mesajları "pdqfan@hoople.usnd.edu" adresine ve (insan) hizmet isteklerini "pdqfan-
+request@hoople.usnd.edu" adresine göndereceksiniz. Bir liste sunucusunu kullanmanın en iyi yolu, "SET PDQFAN
+DIGEST" veya "SET <whateverlist> DIGEST" komutunu kullanmaktır, böylece günlük postaları bir gazete olarak alırsınız ve gün boyunca serpiştirilmiş elli veya daha fazla posta mesajından oluşan bir seri olarak almazsınız. Özet, *kendi* yazışmalarınızı içerir, böylece bunların bir kaydına sahip olursunuz. DIGEST seçeneği olmadan bu olmaz. Tam talimatlar için "HELP" mesajını "listserv@whereever.edu" adresine gönderin.
+
+Sonuç olarak Beşeri Bilimler, Fen Bilimleri'nde halihazırda oluşan aynı hizmet altyapısına sahip olacaktır:
+
+o dergi makalelerinin ön baskılarına ve koleksiyonlarına kolay erişim
+
+o veri kümeleri arşivleri, özel amaçlı ücretsiz yazılımlar ve metin
+veritabanları.
+
+o ilgiliyse E-metin kaynak materyalleri koleksiyonları. Bunlar, özel istatistiksel çalışmalar için "etiketli" metin içerebilir.
+
+o rutin akademik görevler için bir dizi ücretsiz programlama aracı, örneğin
+makaleleri dizmek, bibliyografik veri tabanları oluşturmak vb.--alanınıza özgü formatta.
+
+Beşeri bilimler alanındaki akademisyenler, Georgetown Üniversitesi'ndeki E-metin arşivlerinin listesini kontrol etmelidir (300'den fazla) (başlamak için "" adresine E-posta mesajı gönderin). Bu arşivlerde, akademik amaçlar için nominal bir
+maliyetle kullanıma sunacakları alanınıza ait materyaller olabilir. Ayrıca, black.ox.ac.uk adresindeki Oxford Metin Arşivlerini kontrol edin.
+(Bilgi için "anonim" olarak giriş yapın--bu yazının yazıldığı tarih itibariyle arşivler
+telnet ile çevrimiçi olarak aranabilir değil, ancak bir dizin mevcuttur).
+
+<Bölüm 17> Kiliseler, Sinagoglar ve Camiler İçin Özel
+
+Dini örgütlerin İnternet gibi yeni bir iletişim ortamının önemini
+anlamada bu kadar yavaş olmaları şaşırtıcıdır. Birçok dini örgüt, haber bültenleri veya muhasebe ve diğer ofis işleri üretmek için bilgisayar kullanır; ancak çok azı telekomünikasyon ve internet bağlantısı için etkili bir şekilde kullanır.
+
+İnternet, Televizyon veya Radyo gibi değildir; bir yayın
+ortamı değildir. Birçok yönden İnternet, din örgütleri için "medyadan" daha uygun bir iletişim
+ortamıdır. Daha az
+maliyetlidir, merkezi olarak kontrol edilmez ve bilgiyi vaka bazında almak isteyen kişilere ulaşır.
+
+Bir dini örgütün ticari ağlardan birinde bir dosya sunucusu kurmasını engelleyen hiçbir şey yoktur (kabul ediyoruz ki pahalıdır, ancak dünya çapında yalnızca bir tane gerekir). Oradan örgütünüzün herhangi bir üyesi bilgi yükleyebilir ve indirebilir. Böylece bölgesel veya yerel haber bültenleri, özel yazılımlar, yerel grupların bir dizini, iş ilanlarının listeleri vb. içeren bir kütüphane tutabilirsiniz. Birçok kuruluşta zaten bu tür şeyler var, ancak FTP arşivleri ve E-posta, yalnızca yerel bir bölgeye veya tek bir alan koduna değil, dünyanın her yerine ulaşabilen daha az maliyetli bir bilgi yayma yöntemi sağlar. Ancak internet bağlantısının vaadi, kuruluşunuzun "ofis ortamının" ötesine geçer -ki eminim ki zaten iyi gelişmiştir-
+eğitim ve evanjelik misyonunuza dokunur. Kuruluşunuz ve inançları hakkındaki bilgileri, isterlerse 25 milyon kişiye anında ulaştırabilirsiniz.
+
+Ek olarak, E-metinleri hazırlamada "hayır işi"ne büyük ihtiyaç vardır. Çoğu E-metin telif hakkıyla korunmaktadır veya tescilli veritabanlarında kilitlidir. Bu, serbestçe paylaşılamayacakları anlamına gelir. Ücretsiz E-metinler, özellikle de sade "vanilya" ASCII ile yazılanlar, metni sese dönüştürmek için özel yazılım kullanabilen kör insanlar ve uzak bölgelerdeki veya üçüncü dünyadaki kişiler arasında büyük talep görmektedir.
+
+Ücretsiz E-metnin dağıtımı hiçbir şekilde İnternet ile sınırlı değildir.
+Ücretsiz E-metin binlerce ilan panosuna yolunu bulacak ve
+disketler aracılığıyla ağa bağlı olmayan makinelere iletilecektir. Bir kez basıldıktan sonra
+fotokopi veya "kameraya hazır" kopya kullanan herhangi bir ucuz baskı yöntemiyle
+yayılabilir. İnternet, bu nedenle, bir tür baskı (veya dağıtım) teknolojisine sahip olabilecek kadar gelişmiş
+her yere ulaşabilen dünya çapında bir dağıtım ağının omurgasıdır.
+
+Ücretsiz E-metin oluşturmanın temelde iki yolu vardır: kamuya açık alanda (75 yaşında veya daha büyük) bir şey yazabilir veya tarayabilirsiniz veya
+bunun gibi herkesin metni kopyalayıp dağıtmasına izin veren bir telif hakkı bildirimi olan yeni bir metin
+oluşturabilirsiniz. Bilgiyi yalnızca nominal bir maliyetle satmak yeterli değildir. Başkalarına bilgiyi daha fazla dağıtma hakkı vermediğiniz sürece, bazen bir diskette ücretsiz olarak verseniz bile, bu gerçekten "ücretsiz" değildir.
+
+Aslında, tek *ücretsiz* dini edebiyat (ve bunu yazmak bile
+oldukça büyük bir başarıydı) şunlardan oluşur: _Kral James İncili_
+(Apokrifa olmadan), _Kuran_, _İznik İnanç Bildirgesi_, _Mormon Kitabı_ ve ilgili metinler, İbranice İncil ve _Kama Sutra_.
+Elbette çeşitli mezhepler temel ayin metinlerini ve dini edebiyatlarının bir kısmını
+ücretsiz E-metin biçiminde yayınlamayı düşünmelidir. İncil'in modern versiyonları telif hakkı kısıtlamaları nedeniyle bir sorundur. Herhangi birinin kopyalayıp dağıtabileceği anlamında modern bir versiyonu "ücretsiz" hale getirmek bazı kuruluşlar için kesinlikle bir nimet olacaktır.
+
+<Bölüm III> İleri Teknikler
+
+<Bölüm 18> Araştırma Yöntemleri I: Temel Gezinme Yöntemleri
+
+İnternet kesinlikle çok geniş bir yerdir. Yeni başlayanlar veya ara sıra bir FTP sitesine bibliyografik çapraz referans yapmaktan daha fazlasını yapmak isteyen deneyimli kullanıcılar için bir gezinme aracı neredeyse olmazsa olmazdır. En yaygın üç gezinme aracı burada tartışılmaktadır. Strateji, hedef kitle, hedef materyaller ve kullanıcı arayüzüne (gördüğünüz programın parçası) yönelik üç farklı yaklaşımı temsil ederler. Üç hizmet GOPHER, GENİŞ ALAN BİLGİ HİZMETİ (WAIS, telaffuzu "yollar") ve DÜNYA ÇAPINDA WEB (WWW veya W3) olarak bilinir. Üç hizmet de istemci-sunucu teknolojisine dayanmaktadır. Bilgileri başkalarının kullanımına *sunmak* için sunucu adı verilen özel bir yazılıma ihtiyacınız vardır. Kullanıcı daha sonra bilgilere erişmek için bir "istemci" programı kullanır. "İstemciler" genellikle ücretsizdir; ilk projeyi finanse eden kişi veya gönüllü bilgisayar korsanları tarafından yazılırlar. Bir istemci kullanmanın püf noktası, İnternet'e *doğrudan* (genellikle pahalı) bir bağlantınızın olması gerektiğidir. Bir SLIP bağlantısının giderek daha önemli hale gelmesinin ana nedeni budur. Bilgisayarınızı bir Yerel Alan Ağı'na ve ardından İnternet'e bağlamanın maliyeti olmadan doğrudan bir bağlantınız olduğunu düşünmesi için ağı "kandırır". Bir SLIP bağlantınız varsa, kendi evinizde veya ofis bilgisayarınızda bir istemci programı kullanabilirsiniz.
+
+Henüz bir SLIP bağlantınız olmasa bile (hala biraz deneyseldirler) burada listelenen hizmetleri kullanabilirsiniz. Bu yazının yazıldığı tarih itibariyle üç hizmet de bir istemciye gösteri amaçlı ücretsiz erişime izin verir. Bu gezinme araçlarını deneyebileceğiniz birkaç telnet adresi vardır. Ağdaki trafik arttıkça bu genel erişim sitelerinin kapanacağını tahmin ediyorum. Ancak o zamana kadar iletişim programları rutin olarak SLIP'i ve muhtemelen ana "istemcilerin" bir versiyonunu da içerecektir.
+
+Bir uyarı: Buradaki tüm hizmetler telnet ve FTP üzerine kurulmuştur. Bunlar yalnızca İnternet bağlantıları kurmanın farklı ve belki de daha kullanışlı bir yolunu sağlar. Bu nedenle, aynı hizmet, bağlanmak için kullandığınız araca bağlı olarak çeşitli biçimlerde görünebilir. Ayrıca, bir hizmete diğerinden erişmenizi sağlayan ağ geçitleri de vardır; ancak bunlar genellikle kullanılabilirlik açısından bir bedele tabidir. Yazılım, örneğin WWW üzerinden Gopher tabanlı bir hizmete baktığınızı size söylemeyebileceğinden, en güvenilir bağlantıyı sağlayanı bulmak için üç hizmeti de denemeniz gerekebilir. Dikkate alınması gereken bir diğer faktör de, doğrudan veya SLIP bağlantınız olmadığı sürece, yalnızca bir komut satırı arayüzü kullanmakla sınırlı kalacağınızdır. En azından WWW veya WAIS'in gerçek gücünü deneyimleyemezsiniz.
+Yine de faydalıdırlar. Genel olarak, yeni başlayan biri önce gopher'ı kullanmalı, sonra sizin için yararlı olup olmadıklarını görmek için diğer iki hizmeti denemelidir.
+
+Yaşayacağınız asıl sorun, bulduğunuz bilgileri *almaktır*.
+İstemci programınız yoksa, bu zordur.
+Bilgileri ekranınızdan kesip yapıştırabilir veya depolamak için iletişim programınızın "tamponunu" kullanabilirsiniz. WAIS, aramanızın sonuçlarını size E-posta ile gönderecektir. Genellikle, bilgileri bulduktan sonra almak için FTP'ye başvurmanız gerekecektir --eğer nerede olduğunuzu anlayabilirseniz. Gopher veya WAIS gibi arama araçlarına yönelik eleştirilerimden biri,
+bulduğunuz bilgilerin fiziksel olarak nerede olduğuna dair size genellikle çok zayıf bir gösterge vermeleridir. Bu özellikle herkesin erişebildiği sürümler için geçerlidir.
+
+<Bölüm 18.1> Gopher
+
+Gopher, Minnesota Üniversitesi'nde xx ve xx adlı iki öğrenci tarafından yaratıldı. İnternet'in Gopher sunucularının bulunduğu "gopherspace" bölümünün menü benzeri bir görünümünü sağlar. Gopher birçok üniversiteye yayılmıştır. Öğrenci dizinlerinde ve kampüs takvimlerinde ve ayrıca normal internet kaynaklarında arama yapabilirsiniz. Çok sayıda FTP ve telnet komutu girmeden internette gezinmenin en kolay yoludur.
+
+Gopher en eski ve en merkezsizleştirilmiş hizmet olduğundan, faydalı hizmetlere en kapsamlı erişimi sağlar. Çevrimiçi kütüphane katalogları, Project Gutenberg kütüphanesi, FTP arşivleri ve telnet'e çok sayıda çıkış.
+
+Gopher gösteri sistemlerine (ve bunlar aracılığıyla *herhangi* bir kampüsteki Gopher sunucularına) telnet erişimi şu şekildedir:
+
+xxx.xxx.xxx
+
+Öğrenciler elbette Gopher'ı doğrudan okullarının sisteminden kullanmak isteyeceklerdir. Herhangi bir komutta "gopher" yazmayı deneyin.
+
+<Bölüm 18.2> Geniş Alan Bilgi Hizmetleri (WAIS)
+
+WAIS, Gopher'dan çok farklı bir ortamda geliştirildi. Thinking Machines, Inc.'in
+(Yapay Zeka teknolojisi), Dow Jones Haber Alma
+(Bilgi sistemleri) ve Apple Computer'ın (Kullanıcı arayüzü) ortak işbirliğiyle geliştirildi. İstediğiniz şeyin sade bir İngilizce açıklaması verildiğinde bilgi bulma yeteneği
+("hey, Kişisel Bilgisayarlar ve Sağlık'ta her şeyi bul") gerçekten akıl almaz. İstediğinizi içerme olasılığıyla birlikte bir "sonuç" listesi döndürüyor. Ayrıca, örnek bir belgeye "benzeyen" belgeleri de arayabilir.
+
+Kullanıcı arayüzü kullanımı keyiflidir - ancak İnternet'e doğrudan veya SLIP bağlantısı gerektirir.
+Genel olarak erişilebilen satır odaklı sürüm, gerçek şeyin soluk bir taklididir.
+
+WAIS'in gücü, yalnızca FTP sitelerinden değil, hemen hemen her kaynaktan bilgi alabilmesidir. Tüm WAIS kaynaklarının listesi, bir dizinler dizininde tutulur (think.com adresinde mevcuttur). Kendi kişiselleştirilmiş kaynak listenizi oluşturmak için belirli bir bilgi sunucusuna nasıl erişeceğinize dair bir dizi talimatı içe aktarırsınız.
+
+Bu hizmet muhtemelen iş (yani akademik olmayan ve kütüphane olmayan) kullanıcıları için en çok ilgi çeken hizmettir. WAIS'i denemek için, telnet think.com
+ve SWAIS olarak oturum açın.
+
+<Bölüm 18.3> World Wide Web (WWW veya W3)
+
+Üç hizmetin en yenisi World Wide Web'dir.
+Avrupa Avrupa Yüksek Enerji Fiziği Merkezi'nde (CERN) oluşturulmuştur.
+FTP ve istemci-sunucu dışında başka bir teknolojiye daha dayanır - hipermetin. World Wide Web, FTP sitelerinin tüm kompleksini çapraz referanslı tek bir "belge" olarak görür.
+
+Bir WWW sunucusu, bu belgeyi okumanıza ve bulduğunuz herhangi bir çapraz referansa atlamanıza olanak tanır - bu nedenle "hipermetin" terimi. Sonuç, menü odaklı bir sisteme benzer ancak (en azından grafiksel arayüz sürümlerinde)
+bir metin düzenleyicisinin tanıdık bağlamı içinde kalırsınız.
+Bir çapraz referansa tıkladığınızı ve metin düzenleyicinizin belgeyi bir FTP sitesinden aldığını hayal edebiliyorsanız, fikri anlayacaksınız. WWW tarafından görüntülenebilen belgeler, "köprü metin bağlantılarının" adreslerini veren özel
+"etiketlere" sahip ASCII metinleridir. Etiketler, Standart Genelleştirilmiş İşaretleme Dili'nin (SGML) sözdizimini kullanır. SGML, akademisyenlerin akademik araştırmalar için metinleri işaretlemek için kullandıkları bir dildir. WWW'nin geleceğin kütüphanesi vizyonu, dünyanın dört bir yanına yayılmış, tamamına herhangi birinden başlanarak bakılabilen
+bir belge koleksiyonudur. Masaüstünüzde tüm dünyayı bulundurmak gibi bir şey.
+
+Web'e "en üst" düğüm yoktur, ancak giriş noktalarını şu adreste bulabilirsiniz:
+
+telnet info.cern.ch (WWW'nin "evi" olan İsviçre, Cenevre'deki Avrupa Yüksek Enerji Fiziği Merkezi).
+
+<Bölüm 18.4> Gezinme Araçları Özeti
+
+Özetle, aşağıda tartışılan üç sistem, temel teknolojileri ve "seçmenleri" ile birlikte verilmiştir:
+
+Gopher : Basit FTP ve Telnet : Kampüs Bilgileri
+
+WAIS : Yapay Zekalı Aramalar : İş
+
+World Wide Web : Köprü Metni ve SGML İşaretlemesi : Ac. Araştırma
+
+<Bölüm 19> Araştırma Yöntemleri II: Usenet Haber Grupları
+
+[Bu bölüm yapım aşamasındadır]
+
+<Bölüm 20> Araştırma Yöntemleri III: Gelişmiş Teknikler
+
+Önceki iki bölüm, internette yolunuzu bulmak için az çok standart teknikleri ele aldı. Bu bölüm daha fazlasını ele alıyor
+
+İnternet kullanan her araştırmacının sonunda karşılaşacağı üç temel "sorun durumu" vardır:
+
+(1) Bilginin kimde olduğunu biliyorsunuz ancak "adresini" bilmiyorsunuz.
+
+(2) Bilgi internette, yalnızca nerede olduğunu bilmiyorsunuz.
+
+(3) İstenen bilgi ağda değildir, ancak ağ dışı bir kaynaktan nasıl alınacağına dair bilgidir.
+
+Bu bölümde açıklanan yöntemler önceki iki bölümdekinden daha belirsizdir. Her zaman işe yaramazlar.
+
+<Bölüm 20.1> Kişileri ve Bilgisayarları Bulma
+
+E-posta adreslerini kontrol etmek ve doğrulamak için birkaç standart yöntem vardır.
+
+% ping rtfm.mit.edu
+
+(Bilgisayarın size verdiği istemin "%" olduğunu unutmayın. Sistem isteminiz farklı görünebilir). "rtfm.mit.edu hayatta" veya buna benzer bir şey söyleyen bir mesaj almalısınız.
+
+Birçok makine, makinenin adı verildiğinde noktalı ondalık adresi döndüren "nslookup" adlı bir komutu destekler
+
+% nslookup rtfm.mit.edu
+
+noktalı ondalık adres olarak "xxx" döndürür.
+
+Kişinin veya kurumun adını tahmin edebiliyorsanız -bu zor değil- o zaman hedeflediğiniz kurbanı "parmaklayarak" geçerli bir adresiniz olup olmadığını deneyebilirsiniz:
+
+% finger pdq@hoople.usnd.edu
+
+Sistem "parmak" özelliğini destekliyorsa (ve çoğu desteklemiyor),
+herhangi bir sayıda tahmin veya olasılık
+deneyebilirsiniz. Başarılı olursanız, kişi hakkında birçok bilgi
+bulabilirsiniz: telefon numarası,
+son oturum açtığı zaman,
+son postasını ne zaman okuduğu,
+hangi departmanda çalıştığı, vb. Birçok sistem,
+".plan" adlı bir dosya bırakmanıza izin verir--başlangıçtaki noktaya dikkat edin--bu dosyada daha fazla iletişim bilgisi bulunur.
+
+İsimler için iyi tahminler:
+
+o soyadı (bach),
+
+o bir veya daha fazla baş harfli soyadı (pbach, pdqbach),
+
+o üç (veya daha fazla!) baş harf (pdqb)
+
+o takma adlar, sevimli takma adlar, vb. (tüylü,aragorn)
+
+o iş kimlik numaraları (bach2378@bigblue.com)
+
+Son çareniz "netfind" adlı bir arama programıdır. Anahtar kelimeyle bir makine veya kişi bulmanızı sağlar. Hedefinizin USND olduğunu biliyorsanız,
+PDQ, USND, EDU anahtar kelimelerini deneyebilir ve pdq@hoople.usnd.edu adresini bulabilirsiniz. Genellikle "alan adını" tahmin etmeniz gerektiğini unutmayın, ancak bu zor olmamalıdır.
+Ayrıca, USND yeterince belirgin değilse PDQ, "University of Southern North Dakota",
+EDU ile de arama yapabilirsiniz. Şehir ve eyalet adları da işe yarar.
+Deneyin.
+
+"Netfind"in başlıca eksiklikleri şunlardır:
+
+(1) hedef bilgisayar "finger" komutunu desteklemiyorsa sıklıkla başarısız olur; ve
+
+(2) yalnızca İnternet'te çalışır, Bitnet veya diğer posta sistemlerinde çalışmaz.
+
+"Netfind"i kullanmak için çeşitli standart konumlardan herhangi birine telnet yapmanız ve "netfind" olarak oturum açmanız gerekir. Bir sunucu meşgulse, denemeniz için alternatif sunucuların bir listesini vermelidir.
+
+İnternette birini nasıl bulacağınıza dair ayrıntılı bilgi Usenet SSS'de (ftp://rtfm.mit.edu/ xxxx ) verilmiştir. Bu SSS, her sonbaharda arkadaşlarının E-posta adreslerini bulmak için ağları dolduran Üniversite öğrencilerine yardımcı olmaya yöneliktir.
+
+<Bölüm 20.2> Bilgi ve Yazılım Bulma
+
+Şu ana kadarki en kolay yol
+
+İnternet erişiminiz yoksa, E-posta ile FTP kullanmanız gerekecektir (hedefinizi bulmak için önce "Archie by E-posta" arşiv sunucusunu kullanın!).
+
+Bilgi ve Yazılım Bulma
+Usenet Haber SSS Arşivleri
+Archie
+
+<Bölüm 20.3> Kağıt Belgelere Referans Bulma
+
+Bu son çare, değil mi? Çoğu bilgi hala kağıtta,
+ancak kağıdın yüksek maliyeti bu şekilde giderek daha az bilginin
+bulunacağı anlamına gelecektir.
+
+(1) Özellikle kütüphane katalogları olmak üzere bibliyografik veri tabanlarına erişmek için İnternet'i kullanın
+
+(2) Colorado Araştırma Kütüphaneleri İttifakı (CARL) tarafından sağlanan
+gibi bir belge alma hizmeti kullanın.
+
+(3) Birinin size bir fotokopi veya faks göndermesini sağlamaya çalışın.
+
+<Bölüm 21>
+<Bölüm 22>
+<Bölüm 23>
+<Bölüm 24>
+<Bölüm 25>
+Bu bölümler, belirli talimatlardan ziyade soyut teoriyle daha çok ilgilenen bu özel baskıdan çıkarılmıştır.
+
+<Bölüm IV> Kaynaklar
+
+İnternetteki ana kaynaklar, bizzat internette bulunabilir:
+özellikle Usenet haberleri ve PDIAL ve NIXPUB listeleri ve çeşitli İnternet kaynak kılavuzları dahil olmak üzere birçok SSS. Burada sağlanan kaynaklar ikinci en iyisidir. Yine de, yeni başlayanların başlaması için birkaç adres ve birkaç kitap başlığı sağlamanın önemli olduğu düşünüldü. Bu bölümdeki bilgiler bir başlangıç ​​noktasıdır, kesin bir özet değildir.
+
+<Bölüm 26> İnternet Adres Defteri:
+
+[Bu Bölüm yapım aşamasındadır]
+
+<Bölüm 27> Kaynakça
+
+Aşağıdaki kitapların çoğu Ağ'a bağlanma hakkında çok fazla nasıl yapılır bilgisi içermez. Bu kurs bu boşluğu doldurmayı amaçlamaktadır. Ancak bağlandığınızda ne yapmanız gerektiğini söylerler.
+İnternet üzerinden erişilebilen ilk birkaç tanesi özellikle yararlıdır.
+Ağın "kendini tanımlayan" olmasını sağlarlar.
+
+İNTERNETTE MEVCUTTUR
+
+_İnternete İlişkin Eksik Kılavuz_ (yalnızca Microsoft Word ile Macintosh için - kağıt versiyonu için aşağıya bakın)
+
+Ulusal Süper Bilgisayar Ajansı (NCSA) Eğitim Ofisi tarafından yazılmış çok kapsamlı bir kılavuz. K12 öğretmenleri için İnternet ve sınıf İnternet projelerine çok kapsamlı bir giriş içerir. Bu, devlet okulu öğretmenleri için en iyi kılavuzdur.
+
+Kağıt versiyonu için şunu yazın: Chuck Farmer, 152 CAB, 605 E. Springfield
+Ave., Champaign, IL 61820. 300 sayfa için maliyet yaklaşık 22,00 dolardır.
+
+Polly, Jean Armour. _İnternette Sörf_
+
+nysernet.org:/pub/resources/guides (192.77.173.2). Bu, İnternet'e en iyi giriş için genel olarak benim tercihimdir.
+
+Diğer birçok iyi bilgi kaynağına referanslar ve bunlara nasıl ulaşılacağına dair talimatlar içerir. Özellikle kütüphanecilerin ilgisini çekecek
+bilgiler vermede eksiksizdir.
+
+Kehoe, Brendan. _Zen and the Art of the Internet_ (1. basım)
+
+Nasıl yapılır bilgileri için çok iyi bir rehber. Ne yazık ki, FTP
+sürümlerinin hepsi TeX dizgi sisteminin bir lehçesinde işaretlenmiştir.
+
+TeX sisteminiz olmasa bile yine de biraz okunabilirdirler. Bir Postscript sürümü de sağlanmıştır.
+
+ftp.uu.net:/inet/doc (137.39.1.9)
+ftp.cs.toronto.edu:/pub/zen (147.31.254.132)
+ftp.cs.widener.edu:/pub/zen (147.31.254.132) dosyaları zen-
+1.0.tar.Z, zen-1.0.dvi ve zen-1.0.PS olarak adlandırılır
+ftp.sura.net:/pub/nic/zen-1.0.PS
+
+YAYIMLANMIŞ ESERLER
+
+Kehoe, Brendan. (1993). Zen and the Art of the Internet: a Beginner's Guide (2. basım). Englewood Cliffs, NJ: Prentice-Hall. ISBN 0-13-010778-
+6. Dizin.
+
+Krol, Ed. (1992). Tüm İnternet Kullanıcı Kılavuzu ve Kataloğu. Sebastopol,
+CA: O'Reilly & Associates. ISBN 1-56592-025-2.
+
+LaQuey, Tracey, & Ryer, J. C. (1993). İnternet Arkadaşı: Küresel Ağ Oluşturmaya
+Başlangıç ​​Rehberi.. Reading, MA: Addison-Wesley.
+ISBN 0-201-62224-6
+
+Marine, Nisan. (1992). İNTERNET: Başlarken. Menlo Park, CA: SRI
+Uluslararası. ISBN 0-944604-15-3
+
+Tennant, Roy, Ober, J. ve Lipow, A. G. (1993). İnternet Eşiğini Geçmek: Bir Eğitim El Kitabı. Berkeley, CA: Kütüphane Çözümleri
+Basın. ISBN: 1-882208-01-3 (Library Solutions Institute and Press,
+2137 Oregon Street, Berkeley, CA 94705. Ses: 510/841-2636 FAX:
+510/841-2926)
+
+<Bölüm 28> Sözlük
+
+[Bu bölüm yapım aşamasındadır]
+
+<Ek A> *GERÇEKTEN* YEŞİL İÇİN BİLGİSAYAR İPUÇLARI
+
+1. (açma) Bilgisayarın fişinin takılı ve açık olduğundan emin olun. Ekranda
+bir şey var mı? Bir fan sesi duyuyor musunuz? Yazarken veya fareyi hareket ettirirken
+bir şey oluyor mu? Işıklar yanıyor veya yanıp sönüyor mu? Ekran bir "tut" düğmesiyle dondurulabilir ("kaydırma kilidi" veya benzeri bir şey etiketli bir ışık arayın. Klavyedeki sol üst düğmeye dokunmayı deneyin--
+F1, "escape", "hold", "break", her neyse). Bilgisayar açık değilse
+arkada bir anahtar veya "açık" etiketli veya üzerinde üçgen olan bir tuş arayın.
+
+2. (fare kullanarak) Bir karakter terminaline mi yoksa pencere odaklı bir ekrana mı baktığınızı belirleyin.
+Pencere odaklıysa, fareyi
+hareket ettirmek bir işaretçinin belirmesine ve etrafta hareket etmesine neden olmalıdır. Pencerelere, düğmelere vb. tıklamak için bu işaretçiyi kullanın. Fareye, düğmesine basarak (üç tane varsa en soldaki)
+tıklarsınız.
+Fare düğmesini basılı tutarsanız, şeyleri "yakalayabilir" ve etrafta sürükleyebilirsiniz.
+Pencerelere tıklamak onları aktif hale getirir (komutlar için hazır) ve onları öne getirir.
+
+3. (değiştirici ve işlev tuşları) "shift", "alt", "meta",
+"option", "command", "ctrl" etiketli veya belirli komik sembollerle işaretlenmiş tuşlar değiştirici tuşlardır. Daktilodaki shift tuşları gibi çalışırlar ve bir tuşa basmanın veya bir fare düğmesine tıklamanın etkisini değiştirebilirler. F1, F2 vb. olarak etiketlenen işlev tuşları, bastığınızda hemen bir şeyler yaparlar--düzenleme, bir sonraki sayfaya gitme veya programdan çıkma gibi. Tuş takımındaki tuşlar (sağ tarafta, hesap makinesi tuş takımı gibi görünür) bazı programlarda işlev
+tuşları olarak işlev görür.
+
+4. (açılır menüler ve menü çubukları). Ekranın en üstünde bir kelime dizisi varsa ("menü çubuğu"), fareyi kullanarak işaretçiyle kelimelerden birine dokunun ve ardından fare düğmesini basılı tutun. Bir menü açılmalıdır. Fare düğmesini basılı tutmaya devam edip menüyü aşağı sürüklerseniz ve sonra bırakırsanız, komutlardan birini seçersiniz. Bir komutu etkinleştirmek istemiyorsanız, işaretçiyi komutlardan uzağa sürükleyin (örneğin ekranın ortasına doğru) ve bırakın.
+
+5. (bilgisayarın dikkatini çekmek) Şansınız yok mu? "Return" veya "enter" tuşlarına birkaç kez basmayı deneyin, "break" veya "escape" etiketli tuşları arayın, "control-C"yi deneyin ("CTRL" etiketli tuşu basılı tutun - daktilodaki shift tuşu gibi çalışır - ve sonra "c"ye basın, sonra her iki tuşu da bırakın).
+
+6. (satır başı) Sistem yanıt verdiğinde genellikle
+satır başı tuşuna (kancalı ok veya "return" veya "enter" veya "CR" veya "yeni satır" ile işaretlenmiştir) basmanız veya kalıcı bir şey olmadan önce fareye tıklamanız gerekir (üç tane varsa en soldaki düğme) - bilgisayara bir komut göndermek gibi.
+
+Bir istisna, bir seçenek listesi yazdıran ve sizden bir sayı veya harf yazmanızı bekleyen "menü odaklı" sistemlerdir (örneğin evet için "y", hayır için "n"). Bazen bir soruyu satır başıyla yanıtlamak size varsayılan bir yanıt verir. Varsayılan genellikle parantez içinde belirtilir:
+
+Gerçekten çıkmak istiyor musunuz [n]?
+
+Burada enter tuşuna basmak çıkış yapmaz.
+
+7. (silme tuşu) Yazım hatası yaparsanız, sağ üst köşede "del", "delete", "backspace" veya üzerinde geri ok veya "x" yazan bir tuş vardır ve yazdıklarınızı siler.
+
+8. (oturum açma) Şuna benzer bir mesaj görürseniz:
+
+Merhaba. FUBAR sistemine hoş geldiniz. Yalnızca yetkili kişiler. Kullanıcı adı: xxx
+Şifre:
+
+sonra bilgisayar sizden bir kullanıcı adı (takma ad, kullanıcı adı) vermenizi ve
+bir şifre yazmanızı ister. Soyadınızı yazın ve enter'a basın; sonra
+şifrenizi yazın ve enter'a basın. Sistemin genel halk için tasarlandığından eminseniz--diyelim ki Kızıl Haç tarafından işletilen bir bağışçı veritabanı--"redcross", "anonim" veya "genel" gibi belirgin isimler deneyin.
+Hesap genel kullanım için tasarlanmışsa: (1) şifre gerekmez veya (2)
+herhangi bir şifre işe yarar veya (3) şifre "redcross" (tekrar) veya "bağışçı" veya "misafir" gibi
+kolay bir şey olur.
+
+9. (sistem istemleri ve yardım) Bilgisayar komik bir sembol yazdırırsa
+(istem denir--genellikle dolar işareti, yüzde işareti, soru işareti, dik açılı parantez veya benzeri bir şeydir) ve orada size göz kırparak oturursa,
+bir komut bekliyor demektir. "Yardım" veya "?" deneyin Neyin mümkün olduğunu bulmak için. Veya çevrimiçi kılavuzu okumak için "man intro"yu (sadece UNIX sistemleri) deneyin. Bir menüde yardım tuşu veya yardım komutu olabilir.
+
+10. (metin arabellekleri) Bir noktada bir mesaj yazıyor olabilirsiniz. Elbette mesajı siz yazarsınız. Her satırın sonuna "return" yazmanız gerekebilir veya gerekmeyebilir - bununla denemeler yapın. Herhangi bir hatayı silme tuşuyla silebilirsiniz. İmlecin (yazdığınız yeri işaretleyen yanıp sönen işaretleyici) ok tuşları veya fare ile hareket ettirilip ettirilemeyeceğine bakın.
+Fare varsa, metni üzerinde "sürükleyerek" seçebilirsiniz (tuşa basılı tutun, fareyi hareket ettirin, fareyi bırakın). Seçildikten sonra büyük bir metin bloğu silme tuşuyla silinebilir veya "kes" komutu ("düzenle" menüsünde bir işlev tuşu veya komutu arayın) ve ardından "yapıştır" komutu verilerek taşınabilir.
+
+11. (kullanıcı adları) birinin kullanıcı adını bilmeniz gerekiyorsa, soyadını (goodwin), adının baş harfini veya her iki baş harfini ve soyadını (jgoodwin,
+jegoodwin) veya üç baş harfini de (jeg) deneyin. Birçok sitenin numaralar eklediğini (goodwin21), seri numaraları kullandığını (g21135) veya sevimli takma adlar kullandığını (thumper) unutmayın. Kullanıcı adları genellikle küçük harflidir.
+
+12. (büyük/küçük harf duyarlılığı) hiçbir şey olması gerektiği gibi çalışmıyorsa, büyük harf kilidinizi kontrol edin. Çoğu sistem büyük/küçük harfe duyarlıdır (UNIX gibi) veya komutları otomatik olarak büyük harfe çevirir. Bu nedenle, "help", "HELP" ve "Help" ya üç farklı komuttur ya da aynıdır.
+
+13. (çalışmanızı kaydetme) Çoğu programda, yaptığınız veya değiştirdiğiniz her şey, değişiklikleri diske yazmadığınız sürece kalıcı değildir. Çalışmanızı "dosya" menüsünden "kaydet"i seçerek veya başka bir yöntemle "kaydedersiniz". Genellikle çıkış için iki komut vardır: Biri çalışmanızı kaydeder ve diğeri onu atar. Örneğin, "çıkış" değişiklikleri kaydedebilir ve "çıkış" onları yok sayabilir. Programınızın bir "otomatik kaydetme" özelliği yoksa ve varsa bile çalışmanızı en az 15 dakikada bir kaydetmelisiniz.
+
+14. (çıkış veya oturum kapatma) Çalışmanızı düzgün bir şekilde kaydettikten sonra, çıkış komutunu bularak (menü çubuğundaki ilk veya son menünün altına bakın) veya "çıkış", "çıkış", "q", "x", "bye", "lo", "logout", "logoff" veya benzeri bir şey yazarak programınızdan veya sisteminizden çıkabilirsiniz.
+
+EK B. BİR MODEM KULLANMA
+
+Modem ve iletişim yazılımıyla birlikte gelen talimatları izlerseniz, bir modem (modülatör-demodülatör) kullanmak nispeten kolaydır. Bu talimatlar
+
+MODEM SATIN ALMA: TEMEL ÖZELLİKLER
+
+"Hayes uyumlu" bir modem seçmelisiniz. Bu, endüstri standardıdır ve çoğu yazılımla çalışır. Modem, "AT" komutlarına yanıt veren küçük bir bilgisayardır. Bu komutlar, yazılımınız tarafından gönderilen ve "AT" ile başlayan "Attention Modem" komutlarıdır. En yaygın olanları "ATDT 1 800 555 1212"dir. Bu, modeminize şunu söyler
+
+Bu nedenle satın aldığınız modemin AT komutlarına yanıt verdiğinden emin olun. 2400 baud hızındaki
+Hayes uyumlu bir modem posta yoluyla yaklaşık 50 dolara mal olacaktır. Ancak bir FAKS modemi satın almayı düşünmelisiniz (350 dolar). Daha pahalı olan modem daha hızlıdır, daha fazla özelliğe sahiptir ve bilgisayarınızı bir FAKS
+makinesine dönüştürebilir. Dış dünyayla bağlantınız asla modeminizin izin verdiğinden daha iyi olmayacaktır, bu yüzden iyi bir tane satın alın.
+
+FAKS'lar bilgisayar ekranınızda görüntülenebilir. Bunları yalnızca isterseniz
+sıradan bir lazer yazıcıda yazdırabilirsiniz. Üst düzey bir FAKS modeminin diğer özellikleri şunlardır:
+
+(1) 14.440 baud hızına kadar (2400 baud'dan 7 kat daha hızlı)
+
+(2) Veri sıkıştırma (V.32bis standardın adıdır)
+
+(3) Hata düzeltme (V.42bis standardın adıdır)
+
+MODEMİ ​​BAĞLAMA
+
+Modem, bilgisayarınızın seri (bir seferde bir bit)
+iletişim portu ile telefon hattınız arasında gider. Modeminiz muhtemelen doğru türde kabloyu içerir. Değilse, kılavuzu kontrol edin veya modemi size
+satan bayiyi arayın.
+
+Modemden telefona bağlantı, her iki ucunda modüler jaklar bulunan standart telefon kablosunu kullanır. Telefonunuzu duvar prizinden çıkarın
+ve bunun yerine modeminizi takın. Telefonunuzu, telesekreterinizi, faks makinenizi vb. takılı bırakmak istiyorsanız, aynı prize bir veya daha fazla kablonun takılmasına izin veren çift fiş kullanabilirsiniz.
+Her bir ekipmanın (modem dahil) altına bakın.
+Ekipmanın kaç zil eşdeğerine sahip olduğunu belirten küçük bir etiket
+olmalıdır. Herhangi bir telefon hattında sekizi aşmayın.
+
+Ayrıca, fakslar ve ses için tek bir telefon hattı kullanmanıza izin verecek ucuz kutular da satın alabilirsiniz.
+
+UYARI: genellikle modeminiz ve diğer tüm "çevre birimleri" bilgisayarınızı açmadan önce bilgisayarınıza bağlanmalıdır. Bu, bilgisayarın modemi arayıp bağlı olduğunu doğrulayabilmesi içindir. Bilgisayarınıza bir modemi bağlama konusunda kesin talimatlar için
+bilgisayarınızın ve modeminizin kılavuzuna bakın.
+
+Bilgisayarı bir Özel Şube Santrali'nin (PBX) parçası olan bir ofis telefonuna bağlıyorsanız ...
+
+BAĞLANTI KURMA
+
+Genellikle başka bir bilgisayarı telefon numarasını çevirerek ararsınız. Ya "ATDT 1 800 555 1212" gibi bir AT komutu yazarsınız ya da bir menüden "bağlan" komutunu veya buna benzer bir şeyi seçtiğinizde yazılımınız bunu sizin için yapar.
+
+Modemin dikkatini çekmeden önce yazılımınızı uygun "modem ayarlarına" ayarlamanız gerekir. Bu ayarlar hizmetle ilgili literatürde listelenmiştir. Son çare olarak bağlanmaya çalıştığınız bilgisayarın müşteri hizmetlerini arayın. Ya da bağlanmanıza izin veren bir ayar bulana kadar farklı ayarlar deneyebilirsiniz. Günümüzde en yaygın modem ayarları 1200 veya 2400 baud ve "8N1"dir, yani 8 bit, parite yok ve bir durdurma biti.
+
+En önemli ayarlar şunlardır:
+
+BAUD HIZI (300, 1200 ve 2400 tipik düşük hızlı bağlantılardır,
+2400 modern ekipmanlar için en yaygın olanıdır; 9600 veya 14400
+
+Akış kontrolü AÇIK veya KAPALI (genellikle XON/XOFF olarak etiketlenir). Modeminiz bilgisayarınızla telefon hattından daha hızlı bir
+hızda konuşacaksa, akış kontrolü şarttır. Yazılımınızın
+telefon hattı hızının bilgisayar-modem hızından farklı olduğunu anladığından emin olun. Telefon hattı 14.440 Baud'dan daha hızlı gidemez.
+Bilgisayarınız bunun dört katı veya daha fazlasını yapabilir.
+
+Tam veya yarım dubleks bağlantı (YEREL EKHO AÇIK veya KAPALI). Yarım dubleks
+bağlantıda iki bilgisayar sırayla aynı kanalda iletişim kurar. Bu, bilgisayarınızın ekranınızda yazdıklarınızı "EKHO" edecek kişi olacağı anlamına gelir (yerel yankı AÇIK), çünkü mantıklı değil
+bir şey söyle, diğer bilgisayara okut, sonra geri gönder, sadece
+yazdıklarını görebilmen için. Tam çift yönlü bağlantıda her iki
+bilgisayar aynı anda konuşabilir, bu yüzden yerel yankı KAPALI'dır.
+
+Karakter başına 7 veya 8 bit. Birçok bilgisayar sistemi bir karakteri belirtmek için her baytın son yedi bitini kullanır (128 karaktere kadar).
+Sekizinci bit parite, akış kontrolü veya başka bir önemli
+sinyal için kullanılır. Günümüzde 8 bit daha yaygındır.
+
+Çift, Tek veya PARİTESİZ. İletimdeki hataları kontrol etmenin bir yolu
+her baytı "çift veya tek" anlamına gelen bir bitle, parite bitiyle etiketlemektir. Bir bit yanlış iletilirse, parite biti gönderilen baytla uyuşmaz ve yazılım o baytı veya veri bloğunu tekrar isteyebilir. Ancak, günümüzde en yaygın ayar HİÇBİR paritedir.
+
+0,1 veya 2 DURDURMA BİTLERİ. Günümüzde 1 durdurma biti olağan ayardır.
+
+Modeminizin hoparlörü açıksa, bir çevir sesi duyacaksınız, ardından modem çevirecek ve ardından iki bilgisayar iletim hakkında "pazarlık ederken" çok fazla gıcırtı sesi duyulacaktır. Şanslıysanız, her iki bilgisayar da daha sonra veri göndermek için modüle edilen bir "taşıyıcı" tonu veya uğultu oluşturacaktır. Bu noktada çoğu modem hoparlörü kapatır, ancak bir "taşıyıcı algılama" ışığı yanmalıdır. Taşıyıcınız olduğu sürece bağlantınız vardır. Taşıyıcı mevcuttur - en azından modeminizde - yazılımınıza bir süre "çevrimdışı" olmasını söyleseniz bile. Ancak
+kapatırsanız, taşıyıcı düşer.
+
+Artık bir taşıyıcınız olduğuna göre, yazdığınız her şey diğer
+bilgisayara gönderilir (ve "iletim" ışığı yanıp söner) ve siz de veri alabilirsiniz. Bağlandığınız hizmetin yazdırabileceği herhangi bir pankarta dikkat edin. Özellikle, sisteminizin hangi "kaçış karakterini" tanıdığını bilmeniz gerekir. Bu karakteri veya karakter dizisini yazmak, her şeyi iletmeyi durdurmanıza ve kendi sisteminize bir
+komut vermenize olanak tanır. Bu, özellikle bir dosya aktarıyorsanız ve gelen verilerle ne yapacağını söylemek için "kendi sisteminize geri kaçmanız" gerekiyorsa önemlidir.
+
+YENİ BİR SİSTEMDE İLK ADIMLAR
+
+Birçok hizmet, bilgisayarınızı bir
+
+VERİ AKTARMA
+
+Bir bilgisayardan diğerine veri almak, *iki*
+programı çalıştırma meselesidir -- her bilgisayarda bir tane. Bu programlar iletişim kurmak için ortak bir protokol veya prosedür kullanır. En yaygın protokoller XMODEM,
+YMODEM, ZMODEM ve KERMIT'tir (UNIX sistemleri ve diğerleri için). Örnek olarak KERMIT'i kullanarak dahil olan adımlar şunlardır:
+
+1. Gönderen makinede KERMIT'i çalıştırın
+
+2. Alıcı makineye kaçış
+
+3. Alıcı makinede KERMIT'i çalıştırın
+
+4. Transferin bitmesini bekleyin.
+
+Doğrudan internet bağlantınız veya SLIP bağlantınız yoksa daha spesifik talimatlar için yazılım kılavuzunuzu okumanız gerekecektir. Bu durumlarda, istediğiniz bilgisayara bir Dosya Aktarım Protokolü (FTP)
+komutu verebilirsiniz ve diğer uçtaki ayrıntılar otomatik olarak halledilir. Veri aktarımı hakkında daha fazla ayrıntı için Bölüm X'e bakın.
+
+BAĞLANTIYI KESMEK
+
+Uzak bilgisayarın istediği "çıkış" prosedürünü kullanmak isteyeceksiniz. Eğer kılavuzunuz veya diğer literatürünüz size bunu söylemiyorsa ve "help" veya "?" komutunu deneyerek herhangi bir bilgi alamıyorsanız, şu komutları deneyin: "logout", "logoff", "lo", "bye", "exit", "quit".
+
+Eğer tüm bunlar başarısız olursa, "hangup" komutunu kullanarak taşıyıcıyı bırakabilirsiniz
+(veya sisteminize geri dönüp modeminize "ATH" gönderebilirsiniz - dikkat,
+hangup).
+
+Son çare olarak fişi çekin ve telefon şirketiniz bağlantınızı kesecektir
+, ardından yazılımınızdan çıkın ve bilgisayarınızı kapatın.
+
+Modemden modeme veya bağlantıdan bağlantıya değişen "escape" dizisini yazarak modeminizin dikkatini çekmeniz gerekebilir.
+
+<Ek C> İnternet Bağlantılarının Teknik Ayrıntıları
+
+[Bu bölüm yapım aşamasındadır]
+
+<Ek D> Tam yeterli UNIX
+
+UNIX işletim sistemi çoğunuz için yabancı olabileceğinden ve
+internetteki birçok iş istasyonu UNIX kullandığından, bazı okuyucuların UNIX'in bazı özelliklerini
+özetlemelerine yardımcı olabilir. Bir gün bir UNIX makinesinde oturum açmış olabilirsiniz. Günümüzde, birçok işletim sistemi gibi UNIX de
+X Windows sistemi gibi grafiksel bir kullanıcı arayüzünün arkasına gizlenmiştir.
+Bazen -ve ağ oluşturma ne yazık ki bu durumlardan biridir-
+dosya adlandırma ve dizin hiyerarşisi gibi tuhaflıkları göze çarpar.
+
+Bu Ek, bazı tuzaklardan kaçınmanız ve
+dosyaları aktarmak için gereken komutları vermeniz için tam yeterli UNIX sağlar. Herhangi bir sistem için bilmeniz gereken temel komutlar, dizinleri nasıl görüntüleyeceğiniz ve dosyaların içeriklerini nasıl listeleyeceğiniz, dosyaları nasıl adlandıracağınız ve sistem hakkında nasıl yardım alacağınızdır. UNIX komutları, MS-DOS, VMS, RSX, VM veya komut dili kullanan diğer herhangi bir işletim sistemi kadar tuhaftır. Neyse ki, daha
+zor değillerdir.
+
+<Bölüm D.1> Gezinmek İçin Temel Komutlar
+
+ls : geçerli dizini listele
+
+ls -l : dosya uzunluğu bayt cinsinden daha uzun listeleme
+
+cd mydir : hiyerarşide bir seviye aşağı "mydir" dizinine git
+
+cd .. : hiyerarşide bir dizin yukarı git
+
+<Bölüm D.2> Hiyerarşik Dosya Sistemi
+
+UNIX'teki dosyalar bir hiyerarşi veya ağaç yapısı içinde düzenlenir.
+
+<Ek E> E-postayla Alınabilecek En İyi 10 Şey
+
+Bu Ek, bu dersin geri kalanından ayrı olarak dağıtılabilir.
+
+----------(buradan kesin)----------
+THE FREELORE PROJECT'İN E-POSTA İLE ALINABİLECEK EN İYİ 10 ŞEY LİSTESİ
+
+Telif Hakkı (c) 1993 John E. Goodwin. Tüm Hakları Saklıdır.
+Bu bildirim tüm kopyalarda saklandığı sürece, bu belgenin ticari olmayan amaçlar için birebir kopyalarını çıkarabilir ve dağıtabilirsiniz.
+
+Bu, elektronik postayla alabileceğiniz on eğlenceli ve faydalı şeyin bir listesidir. Her durumda, isteğiniz materyalleri iade postasıyla gönderen otomatik bir sistem tarafından işlenir. Sistemler sık ​​sık değiştiğinden, bazı
+komutlar güncelliğini yitirmiş olabilir. Hepsi test edildi ve Haziran 1993 ortasından itibaren çalışıyor.
+
+Tipik, eski moda bir E-posta sistemi şu şekilde çalışır
+
+% mail <E-posta programına girmek için komutu yazın>
+
+mail> send <veya hangi komutların çalıştığını öğrenmek için "help" yazın>
+
+Kime: president@whitehouse.gov <Bu bir İnternet adresidir
+--sisteminizde farklı görünebilir>
+
+Cc: vice.president@whitehouse.gov
+
+Konu: Nükleer Enerji Konusundaki Tutumunuz
+
+Mesajı Girin. Bittiğinde, çıkmak için Control-Z, Control-C tuşlarına basın:
+Sayın Başkan:
+
+Bunu görünce hayal kırıklığına uğradım . . . <vb., CTRL-Z'ye basana kadar>
+
+Mesaj 14-HAZ-1993 23:05:44'te gönderildi.
+
+mail> çıkış
+
+Modern otomatik posta sunucuları, komutu mesajın gövdesinde bekler. Ancak bazı eski moda olanlar, *konu* satırının bir parçası olarak bekler! Eğer durum buysa her zaman söylerim.
+
+Çoğu durumda birkaç dakika içinde bir yanıt alırsınız. Yanıt göndermek için yoğun olmayan saatlere kadar bekleyen sistemler için bir
+gün beklemeniz gerekebilir.
+
+İşte birkaç ipucu daha:
+
+o Çoğu otomatik sistem tek bir "yardım" komutuna yanıt verir.
+
+o Görünüşe göre insanlar dizin sistemlerini her gün değiştiriyor. Verilen
+komutlar işe yaramazsa, postayla talep etmeden önce Archie'de (aşağıya bakın) istediğinizi bulmaya çalışın.
+
+o Bazı komutların etrafındaki çift tırnak işaretleri komutun kendisinin bir parçası değildir (bu yüzden onları yazmayın!).
+
+Bu tavsiyeyle birlikte, işte liste. . . .
+
+[10] CPET (Elektronik Metindeki Projeler Kataloğu), akademisyenler için E-metin arşivleri hakkında bilgi sağlar. Çevrimiçi bir
+veritabanları vardır. Ayrıntılı talimatlar için şu mesajı gönderin:
+
+connect guvax.acc.georgetown.edu
+cd cpet_projects_in_electronic_text
+get cpet_user_guide.txt
+
+to "ftpmail@decwrl.dec.com". [Bu, E-posta ile İnternet Dosya Aktarım Protokolü (FTP) sağlayan bir hizmettir. Sonraki girişe bakın].
+
+CPET kullanıcı kılavuzu için anonim FTP referansı:
+
+"guvax.acc.georgetown.edu:/cpet_projects_in_electronic_text/cpet_user_gu
+ide.txt"
+
+[9] Archie by Mail ve FTP by Mail'i kullanma talimatları.
+
+Archie, İnternet'teki anonim FTP arşivlerinde yazılım veya belgeleri bulmak için bir arama hizmetidir. Anonim FTP, belirli bilgisayarlardaki materyalleri herkese açık hale getirmek için kullanılan bir yöntemdir. Herkes "anonymous" kullanıcı adıyla oturum açabilir. Gerçek adınızı şifre olarak verirsiniz. Sadece
+E-postanız varsa, tam bir İnternet bağlantısı yoksa, Anonim FTP kullanılamaz.
+
+E-posta kullanıcılarının Anonim FTP arşivlerine erişmesine yardımcı olmak için, decwrl.dec.com adresinde bir FTP by Mail
+sunucusu kurulmuştur. Archie kullanarak bulduğunuz
+materyalleri size gönderecektir. İkili dosyalar (resimler ve programlar) "btoa" veya "uuencode" programları kullanılarak
+metin dosyaları olarak kodlanır. Metin dosyaları dışında bir şey elde etmek istiyorsanız, yani
+ASCII, bu
+ücretsiz programlara ihtiyacınız vardır.
+
+A. Archie ile başlamak için, "help" mesajını
+"archie@archie.rutgers.edu" adresine gönderin. Dünya çapında birçok Archie sunucusu vardır. Herhangi bir Archie size tam bir liste verecektir.
+
+B. FTP Mail ile başlamak için,
+
+help
+quit
+
+mesajını "ftpmail@decwrl.dec.com" adresine gönderin.
+
+[8] Project Gutenberg tarafından üretilen kitap uzunluğundaki Kamusal Alan metinlerinin listesi.
+
+Bu metinleri "oes.orst.edu" adresindeki Almanac sunucusundan veya "mrcnext.cso.uiuc.edu" adresindeki Project Gutenberg'den doğrudan alabilirsiniz.
+
+"help" mesajını "almanac@oes.orst.edu" adresine gönderin. Kılavuzu okuduktan sonra,
+"send gutenberg catalog" mesajını gönderin. E-metin'i posta yoluyla almak için
+(örneğin _Alice in Wonderland_), şu mesajı gönderin:
+
+send etext alice
+
+Project gutenberg archivesj'nin içeriğini görmek için, şu mesajı gönderin
+
+connect mrcnext.cso.uiuc.edu
+cd etext/articles
+get index
+quit
+
+to "ftpmail@decwrl.dec.com".
+
+Gerçek metinleri almak için,
+
+connect mrcnext.cso.uiuc.edu
+cd etext/etext93
+get
+quit
+
+Anonim FTP Arşiv referansları:
+
+oes.orst.edu:/pub/data/etext
+
+mrcnext.cso.uiuc.edu:/etext/articles (genel bilgi)
+
+mrcnext.cso.uiuc.edu:/etext/etext93 (metinler)
+
+[7] Usenet haber gruplarının "Sık Sorulan Sorular" veya SSS bölümüne gönderilen bir E-posta posta listeleri listesi.
+
+Tipik bir posta listesi şu şekilde çalışır: örneğin, siyaset üzerine bir posta listesine katılmak için "abone ol" isteğini "politics-
+request@whitehouse.gov" adresine gönderirsiniz. Bundan sonra, "politics@whitehouse.gov" adresine gönderilen herhangi bir mesaj, listenin tüm üyelerine mesaj gönderecektir. Diğer üyelerden gelen tüm gönderileri de alırsınız [Whitehouse'un siyaset hakkındaki listesi sahte bir örnektir].
+
+Konu dışı: Usenet haber grubu SSS'leri "rtfm.mit.edu" adresinde arşivlenmiştir. Bunlar, düşünülebilecek her konuyu kapsar (ancak özellikle bilgisayarlarla iyidir). Arşive E-posta ile erişmek için "help" mesajını "mail-server@rtfm.mit.edu" adresine gönderin. Mevcut materyallerin bir dizini için "index" mesajını gönderin.
+
+İşte Posta Listelerini almak için özel komutlar:
+
+send mail/mailing-lists/part1
+send mail/mailing-lists/part2
+send mail/mailing-lists/part3
+send mail/mailing-lists/part4
+send mail/mailing-lists/part5
+
+to "mail-server@rtfm.mit.edu".
+
+Aynı konumdaki diğer iyi yayınlar:
+
+Sosyal Haber Grupları ve Posta_Listeleri Rehberi:
+
+send social-newsgroups/part1
+
+Periyodik Bilgilendirme Gönderileri Listesi:
+
+send periodic-postings/part1
+
+(altı bölüm).
+
+Daha eksiksiz bir SSS listesi için şu komutları gönderin:
+
+send usenet/news.answers/index
+send usenet/news.announce.newusers/index
+
+Anonim FTP arşiv referansı:
+
+rtfm.mit.edu:/pub/usenet-by-group/news.answers; ve
+rtfm.mit.edu:/pub/usenet-by-group/news.announce.newusers.
+
+Ayrıca Usenet haber grubu news.answers'a SSS olarak gönderildi.
+
+[6] LİSTE SUNUCULARI, E-postası olan ancak
+tam İnternet hizmeti olmayan kişiler için en iyi şeydir. Tüm bir listeye posta gönderebilir ve belirli bir günde yayınlanan "makalelerin" özetini alabilirsiniz. Listeler özellikle
+Beşeri Bilimler'e ilgi duyan herkes için iyidir. Herhangi bir liste sunucusunun bildiği tüm liste sunucularının listesi, o liste sunucusuna bir mesaj göndererek elde edilebilir (aşağıya bakın).
+
+Başlamak için herhangi bir liste sunucusu adresine "help" mesajını gönderin, örn.
+
+"listserv@brownvm.brown.edu"
+
+.
+
+Brown'daki liste sunucusu genel komuta yanıt vermez (ancak yine de değerlidir). "lists global" komutunu "listserv@auvm.american.edu" gibi diğer liste sunucularından birine göndermeyi deneyin.
+
+Çok fazla trafiği olan listeler için, bir makaleler derlemesi içeren günde *bir* e-posta mesajı almak için "set <listname>
+digest" komutunu düşünmelisiniz. [5] PSI'nin İnternet hizmeti hakkında otomatik olarak sağlanan bilgi:
+
+Herhangi bir mesajı "all-info@psi.com" adresine gönderin. Hizmetlerinde anında erişilebilen birçok başka dosya var. Örn.
+telnet sürümleri hakkında bilgi için herhangi bir mesajı "gds-
+info@psi.com" adresine gönderin; FTP sürümleri için herhangi bir mesajı "psilink-
+info@psi.com" adresine gönderin.
+
+[4] Scott Yanoff'un İnternet Kaynakları listesi. Son sayıma göre,
+İnternette yapılacak 75 ücretsiz şey vardı.
+
+Mesajı gönderin:
+
+send usenet/news.answers/internet-services/faq
+send usenet/news.answers/internet-services/list
+
+to "mail-server@rtfm.mit.edu".
+
+Başka bir yöntem, materyalleri gecikmeli FTP ile şu mesajla talep etmektir:
+
+connect csd4.csd.uwm.edu
+cd pub
+get inet.services.txt
+quit
+
+to "ftpmail@decwrl.dec.com".
+
+Yukarıdaki iki e-posta sistemi arasında e-posta gönderirken dosya isteğine "get internetwork-mail-guide" satırını eklemek de faydalı olacaktır
+(dosya 22k'dır).
+
+Anonim FTP arşiv referansları:
+
+csd4.csd.uwm.edu:/pub/inet.services.txt
+
+rtfm.mit.edu:/pub/usenet-by-group/news.anwsers/internet-services
+
+[3] SURFING THE INTERNET, kütüphaneci Jean Armour Polly tarafından. Bu olmazsa olmaz yayın, hala İnternet'e yönelik en iyi temel yönelimdir. Çocukluğumuzda bize o başka dünyayı açan "kütüphane kart kataloğu nasıl kullanılır" konuşmasına en yakın şey.
+
+Mesajı gönder
+
+connect nysernet.org
+cd pub/resources/guides
+get surfing.2.0.3.txt <bu bir sıfır, "oh" değil>
+quit
+
+to "ftpmail@decwrl.dec.com". Aynı dizindeki diğer ilginç dosyalar şunlardır:
+
+ftp.list
+whatis.internet
+new.user.guide.v2.2.txt
+speakers_on_internet.txt
+
+Anonim FTP arşiv referansı:
+
+nysernet.org:/pub/resources/guides
+
+[2] Genel erişimli UNIX sistemlerinin NIXPUB listesi (böylece Usenet haberlerini okuyabilirsiniz!):
+
+Mesajı
+
+connect vfl.paramax.com
+cd pub/nixpub
+get long
+quit
+
+to "ftpmail@decwrl.dec.com" adresine gönderin.
+
+Anonim FTP arşiv referansı:
+
+vfl.paramax.com:pub/nixpub/long
+
+Ayrıca Usenet haber grubu alt.bbs'ye SSS (Sıkça Sorulan Sorular) olarak da gönderildi.
+
+Ve eleştirmenlerin tercihi . . .
+
+[1] PDIAL listesi, genel halk için İnternet'e bağlanmanın çevirmeli yöntemlerinin bir listesi.
+
+"info-deli-server@netcom.com" adresine *konu* satırına "send pdial" komutunu ekleyerek bir mesaj gönderin.
+
+Alternatif olarak, "send usenet/news.answers/pdial" mesajını "mail-server@rtfm.mit.edu" adresine gönderin.
+----------
+
++ + +
+
+"Bu ülkenin ihtiyacı olan şey iyi bir 50 sentlik eğitim."
+
+John Goodwin'in Project Gutenberg E-posta 101 E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK EMAIL 101 ***
+
+***** This file should be named 75.txt or 75.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/7/75/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
