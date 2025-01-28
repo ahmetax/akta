@@ -1,0 +1,1425 @@
+*** START OF AKTAHEADER ***
+Başlık: Sentiment, Inc. (Duygu, A.Ş.)
+Yazar: Poul William Anderson
+Yayın Tarihi: October 7, 2011 [EBook #37653]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/37653
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Sentiment, Inc., by Poul William Anderson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Sentiment, Inc.
+
+Author: Poul William Anderson
+
+Release Date: October 7, 2011 [EBook #37653]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SENTIMENT, INC. ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Dianna Adair ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[İllüstrasyon: Kapak]
+
+[İllüstrasyon: Dr. Kennedy'nin muayene odası]
+
+[İllüstrasyon: makine]
+
+_Başka bir kişi veya nesneler hakkında hissettiklerimiz genellikle
+o kişi veya nesneyle doğrudan hiçbir bağlantısı olmayan çağrışımlarla bağlantılıdır. Genellikle, "kalp değişikliği" dediğimiz şey,
+sadece mevcut bakış açımızı oluşturan birçok çağrışımdaki bir değişiklikten kaynaklanır. Şimdi, bu çağrışımların
+süreci yöneten kişinin tercihine bağlı olarak yapay olarak değiştirilebileceğini varsayalım...._
+
+_Sentiment, Inc._
+
+_by_ POUL ANDERSON
+
+Yirmi iki yaşındaydı, üniversiteden yeni mezundu, hayat ve umut doluydu ve dünyayı fethetmeye hazırdı. Colin Fraser, Cape Cod'da tatildeydi, orada yazlık şovlarda çalıyordu ve planladığından daha fazla gösteriye gitti. Tanışmak zor değildi ve çok geçmeden Judy Sanders ile sık sık görüşmeye başladılar.
+
+Bir öğleden sonra sahilde ona "Elbette," dedi, "gerçek adım
+Harkness."
+
+Kolunu kaldırdı, kumun parmaklarının arasından akmasına izin verdi.
+Etraflarındaki sahil büyük ve göz kamaştırıcı beyazdı, deniz sabit bir kükremeyle dörtnala geliyordu ve bir martı başlarının üzerinden esen rüzgarda uçuyordu. "Nesi yanlıştı?" diye sordu. "Mesleki bir lakap için, yani."
+
+Güldü ve uzun saçlarını omuzlarının üzerinden geriye doğru salladı. "Sanders adıyla
+yaşamak istiyordum," diye açıkladı.
+
+"Ah--ah, evet, tabii. Winnie the Pooh." Sırıttı. "Ruh eşleri,
+biz böyleyiz." O sıralarda bekar olarak yeterince uzun süre kaldığına karar verdi.
+
+Sonbaharda New York'a giderek yükselmeye başladı - dublör, figüran, kısıtlı bütçeli tiyatrolar ve düpedüz hindi rolleri.
+Fraser bir süreliğine Boston'a döndü, ancak işi aksadı, onu görmek için
+sürekli koşmak zorundaydı.
+
+İlkbaharda işler bulmaya başlamıştı; yetenekliydi ve herkes kahverengi gözlü bir sarışına bakmaktan
+hoşlanırdı. Haftalık teklifleri de
+gerçekten ilerlemeye başlamıştı ve bir veya iki aylık sürekli kuşatmanın kampanyayı bitirebileceğini düşündü. Bu yüzden işinden izin aldı
+ve kendisi New York'a gitti. Yeterince para biriktirmişti ve işinde yeterince iyiydi, bunu karşılayabilecek kadar; zaten kendi patronuydu - matematiksel analiz konusunda uzmanlaşmış danışman mühendis.
+
+Brooklyn'de mobilyalı bir oda aldı ve boş zamanlarını -kendisi öyle sanıyordu- Columbia'da bazı özel matematik dersleriyle doldurdu. Ve şehirde
+birçok ilginç meslekten bir sürü arkadaşı vardı.
+Judy'nin yanında, çalışmalarının çoğu bahsedilemeyecek kadar gizli olmasına rağmen eğlenceli bir arkadaş olan fizikçi Sworsky'nin çoğunu gördü.
+Mutlu bir dönemdi.
+
+Her zaman sarsıcı bir not vardır, elbette. Bu durumda, Fraser'ın
+bir sürü rakibi olmasıydı. Kendisi de yakışıklı değildi - yirmi sekiz yaşında, uzun boylu, zayıf bir adamdı, koyu renk bir balta suratı ve sürekli buruşuk giysileri vardı. Ama yine de Judy onu başkalarından daha fazla görüyordu ve onun teklifini ciddi olarak düşündüğünü ve başka hiçbir şeyi düşünmediğini itiraf etti.
+
+Bir keresinde onu bir randevu için aradı. "Üzgünüm," diye cevapladı. "Çok isterdim,
+Colin, ama bu gece için söz verdim bile. Endişelenme diye, bu
+Matthew Snyder."
+
+"Hm--sanayici?"
+
+"Hı-hı. Bana öyle bir şekilde sordu ki reddetmek zordu. Ama kıskanmana gerek olduğunu sanmıyorum, tatlım. 'Hoşça kal."
+
+Fraser belli bir kendini beğenmişlikle piposunu yaktı. Snyder birkaç kez
+milyoner olmuştu ama altmışına yakındı, oldukça sıkıcı bir
+sohbetin dul eşiydi. Judy değildi--Endişelenme, dediği gibi. Bir akşam satranç ve boğa
+avı için
+Sworsky'nin dairesine uğradı.
+
+* * * * *
+
+Mayıs ayının başlarında, dünya tekrar yeşile dönmeye başladığında, Judy
+Fraser'ı aradı. "Merhaba," dedi nefes nefese. "Bu gece meşgul müsün?"
+
+"Şey, meşgul olmayı umuyordum, ne demek istediğimi anlıyorsan," dedi.
+
+"Bak, seni bir değişiklik olsun diye dışarı çıkarmak istiyorum. Beklenmedik bir miktar
+para aldım ve kahretsin, bir akşam için kendimi zengin hissetmek istiyorum."
+
+"Hmmm--" Telefona kaşlarını çatarak baktı. "Bilmiyorum--"
+
+"Ah, bırak artık, Galahad. Saat yedide Dixie lobisinde buluşuruz.
+Tamam mı?" Tellerin üzerinden ona bir öpücük yolladı ve daha fazla
+tartışamadan telefonu kapattı. Adam içini çekti ve omuz silkti. Eğer isterse neden olmasın?
+
+Küçük bir Macar restoranındaydılar, birkaç Tzigani tek başlarına
+onlar için çalıyordu, öyle görünüyordu, ayrıntıları sorduğunda. "Bir ikramiye mi aldın, yoksa ne?"
+
+"Hayır." İçkisini içerken ona güldü. "Kobay oldum."
+
+"Umarım evlenmeden önce o işi bırakırsın!"
+
+"Komik bir anlaşma," dedi düşünceli bir şekilde. "İlgini çekerdi. Bu Snyder'la birkaç kez dışarı çıktım, bilirsin, ve eğer beni kollarına
+almak için bir şeye ihtiyaç varsa, Colin, o da onun siyasi
+dersleridir."
+
+"Cumhuriyetçi Parti'ye şükürler olsun!" Elini onun elinin üzerine koydu, Colin elini
+çekmedi, ama hafifçe kaşlarını çattı.
+
+"Colin, evlenmeden önce bir yere varmak istediğimi biliyorsun--dünyayı, tiyatro dünyasını biraz görmek, ev kadını olmadan önce. Öyle
+olma--Önemli değil. Seni zaten seviyorum."
+
+İçkisini yudumlayıp tekrar masaya koydu: "Hikayeye devam edelim. Sonunda Yoldaş Snyder'ı tamamen geçiştirdim ve söylemeliyim ki bunu çok hoş karşıladı. Ama bugün, bu sabah aradı ve benimle öğle yemeği yemeyi istedi ve o açıkladıktan sonra ben de katıldım. Araştırma yapan, beyin fırtınalarını veya başka bir şeyi ölçen bir psikiyatrist arkadaşı varmış gibi görünüyor ve--Fırtınaları mı kastediyorum? Dalgaları, sanırım. Neyse, mümkün olduğunca çok sayıda farklı insanı ölçmek istiyor ve Snyder beni önermişti. Üç öğleden sonra koşarak gelmem gerekiyordu--her seferinde yaklaşık iki saat--ve seans başına yüz dolar alacaktım."
+
+"Hımm," dedi Fraser. "Psikolojik araştırmanın bu kadar zengin olduğunu bilmiyordum.
+Bu çılgın bilim adamı kim?"
+
+"Adı Kennedy. Bu arada, kimseye söylememem gerekiyor;
+dünyaya sürpriz yapmak istiyorlar ya da bir şey. Ama
+sen farklısın, Colin. Heyecanlıyım; bunun hakkında biriyle konuşmak istiyorum."
+
+"Elbette," dedi. "Zaten bir seansın oldu mu?"
+
+"Evet, ilk seansım bugündü. Araştırma yapmak için komik bir yer--Kennedy'nin
+Beşinci Cadde'de, tam şık semtte büyük bir süiti var.
+Güzel bir ofis. Şirketinin adı Sentiment, Inc."
+
+"Hm. Bir araştırma ekibi neden böyle bir isim alsın ki? Hadi, devam et."
+
+"Ah, anlatacak başka pek bir şey yok. Kennedy çok nazikti. Beni
+her türlü kadran, metre, yanıp sönen ışık ve os'larla dolu bir laboratuvara götürdü--bunlara ne ad veriyorsunuz? Kıvrımlı
+resimler yapan şeyler."
+
+"Osiloskoplar. Senden asla bilim adamı olmaz canım."
+
+Sırıttı. "Ama bunu yapmak isteyen bir bilim adamı tanıyorum--Önemli değil!
+Neyse, beni bir sandalyeye oturttu ve bileklerime ve ayak bileklerime bantlar
+-tıpkı sıcak çömelme gibi--ve başımın üstüne de bir güzellik salonu
+saç kurutma makinesi gibi büyük bir şey
+taktı. Sonra bir süre kadranlarıyla oynayıp
+notlar aldı. Sonra bana kelimeler söylemeye ve
+resimler göstermeye başladı. Bazıları çok güzeldi; bazıları çirkindi; bazıları komikti; bazıları
+tamamen korkunçtu... Neyse, hepsi bu kadardı. Birkaç saat sonra bana yüz dolarlık bir çek verdi ve
+yarın tekrar gelmemi söyledi."
+
+"Hımm." Fraser çenesini ovuşturdu. "Görünüşe göre zevk ve hoşlanmamaya karşılık gelen elektrik
+ritimlerini ölçüyordu. Kimsenin
+bu kadar hassas bir ensefalograf
+yapabileceğini hiç düşünmezdim."
+
+"Pekala," dedi Judy, "Neden kutladığımızı anlattım. Hadi,
+normal orkestra akort yapıyor. Hadi dans edelim."
+
+Oldukça harika bir akşam geçirdiler. Sonrasında Fraser uzun süre uyanık kaldı,
+uykuda mutluluk halini kaybetmek istemiyordu.
+Uykuyu korkunç bir zaman kaybı olarak görüyordu: doksan yaşına kadar yaşasaydı,
+neredeyse otuz yılını bilinçsiz geçirmiş olurdu. * * * * *
+
+Judy önümüzdeki birkaç akşam için nişanlıydı ve Fraser'ın kendisi de bir sonraki gece Sworsky'de akşam yemeğine davet edildi. Bu yüzden onu tekrar araması haftanın sonuna kadar sürdü.
+
+"Merhaba, tatlım," dedi coşkuyla. "Nasılsın? Elbette
+Charles Addams'ın Şeyleri'nden bahsediyorum."
+
+"Ah--Colin." Sesi çok kısık ve titriyordu.
+
+"Bak, _H. M. S. Pinafore_ için iki biletim var. O yüzden kendi
+pinafore'unu giy ve benimle buluş."
+
+"Colin--Üzgünüm, Colin. Yapamam."
+
+"Ha?" Ne kadar tuhaf ses çıkardığını fark etti ve içinde bir sertlik oluştu.
+"Hasta değilsin, değil mi?"
+
+"Colin, ben--ben evleneceğim."
+
+"_Ne?_"
+
+"Evet. Şimdi aşığım; gerçekten aşığım. Birkaç ay içinde evleneceğim."
+
+"Ama--ama--"
+
+"Seni incitmek istemedim." Kadının ağlamaya başladığını duydu.
+
+"Ama kim--nasıl--"
+
+"Matthew," diye yutkundu. "Matthew Snyder."
+
+Kadın hala hatta olup olmadığını sorana kadar uzun süre sessizce oturdu. "Evet," dedi duygusuzca. "Evet, hala buradayım, bir şekilde." Kendini sallayarak: "Bak, seni görmem gerek. Seninle konuşmak istiyorum."
+
+"Yapamam."
+
+"Elbette yapabilirsin," dedi sertçe.
+
+Sık sık buluşma noktaları olan sessiz, küçük bir barda buluştular. Kadın, Martini sipariş ederken onu korkmuş gözlerle izledi.
+
+"Tamam," dedi sonunda. "Hikaye nedir?"
+
+"Ben--" Onu zar zor duyabiliyordu. "Hikaye yok. Birdenbire Matt'i sevdiğimi fark ettim. Hepsi bu."
+
+"_Snyder!_" Bunu bir küfür haline getirdi. "Bana onun hakkında daha önce ne söylediğini hatırlıyor musun?"
+
+"O zamanlar farklı hissediyordum," diye fısıldadı. "Onu tanıdığında harika bir adam."
+
+_Ve zengin._ Sözcükleri ve düşünceyi bastırdı. "Özellikle bu kadar
+harika olan ne?" diye sordu.
+
+"O--" Kısa bir süreliğine, yüzü büyülenmişti. Fraser onun ara sıra ona bu şekilde
+baktığını görmüştü.
+
+"Devam et," dedi sert bir şekilde. "Bay Snyder'ın iyi özelliklerini say. Bir
+liste yap. Nazik, kültürlü, zeki, genç, yakışıklı,
+eğlenceli - Cehenneme! _Neden_, Judy?"
+
+"Bilmiyorum," dedi yüksek, neredeyse korku dolu bir tonda. "Sadece onu seviyorum, hepsi bu." Masanın üzerinden uzanıp yanağını okşadı. "Senden
+çok
+hoşlanıyorum, Colin. Kendine iyi bir kız bul ve mutlu ol."
+
+Ağzı dar bir çizgiye dönüştü. "Burada komik bir şey var," dedi. "Şantaj mı?"
+
+"Hayır!" Ayağa kalktı, içkisini döktü ve öfke patlaması ona ne kadar
+aşırı sinirli olduğunu gösterdi. "O sadece benim sevdiğim adam.
+Bu kadar yeter, elveda, Bay Fraser."
+
+Onun gidişini izleyerek oturdu. Hemen içkisini aldı,
+barbarca bir yudum aldı ve bir tane daha istedi.
+
+2
+
+Juan Martinez çocukken Porto Riko'dan gelmişti ve o zamandan beri kendi yolunu çizmişti. Fraser onu orduda tanımıştı ve o zamandan beri
+zaman zaman birbirlerini görmüşlerdi. Martinez özel dedektiflik işine girmişti ve bundan iyi bir şey çıkarmıştı; Fraser onu görmek için
+çok şık görünümlü bir resepsiyonistin yanından geçmek zorundaydı.
+
+"Merhaba, Colin," dedi Martinez el sıkışırken. Küçük, esmer bir adamdı,
+büyük bir burnu ve onu sempatik bir fareye
+benzeten boncuk gibi siyah gözleri vardı. "Tam bir şeytana benziyorsun."
+
+"Ben de öyle hissediyorum," dedi Fraser bir sandalyeye çökerek. "Üç günlük sarhoşluğa
+gitmeden bunu gösteremezsin."
+
+"Peki, sorun ne? Sigara mı?" Martinez bir paket uzattı.
+"Kız arkadaşın sana hava mı verdi?"
+
+"Aslında, evet; seni bu konuda görmek istiyorum."
+
+"Burası yalnız kalpler kulübü değil," dedi Martinez. "Ve sana defalarca söyledim
+özel bir pislik esprili bir süpermen değildir. İşimiz
+yüzde doksan dokuz rutindir; ve kalan yüzde bir için
+polisi ararız."
+
+"Sana hikayeyi anlatayım," dedi Fraser. Anlatırken yorgunca gözlerini ovuşturdu. Sonunda, yere bakarak oturdu.
+
+"Eh," dedi Martinez, "çok kötü ve tüm bunlar. Ama ne cehennem,
+başka kadınlar da var. New York'ta, Paris hariç
+herhangi bir şehirdekinden daha fazla güzel kadın var. Başka birine bağlan. Ya da istersen sana bir telefon numarası verebilirim--"
+
+"Anlamıyorsun," dedi Fraser, "Bunu araştırmanı istiyorum; neden yaptığını bilmek istiyorum."
+
+Martinez duman bulutunun arasından gözlerini kısarak baktı. "Snyder zengin ve güçlü bir adam," dedi. "Bu yeterli değil mi?"
+
+"Hayır," dedi Fraser, ipucuna kızamayacak kadar yorgundu. "Judy o tür bir kız değil. Birkaç gün içinde aşırıya kaçacak türden de değil, özellikle de ben oradayken. Elbette, bu kendini beğenmişlik gibi geliyor ama kahretsin, bana değer verdiğini
+_biliyorum_."
+
+"Tamam. Baskı uygulandığından mı şüpheleniyorsun?"
+
+"Evet. Ne olduğunu hayal etmek zor. Judy'nin Maine'deki ailesini aradım,
+ve iyi olduklarını, endişelenmeme gerek olmadığını söylediler. Ben de onun kendi hayatındaki hiçbir şeyin bir şantajcıya veya gaspçıya devam edecek bir şey vereceğini düşünmüyorum. Yine de bilmek istiyorum."
+
+Martinez gergin parmaklarıyla masaya vurdu. "Eğer ısrar edersen araştırırım," dedi, "ama sana epey bir paraya mal olacak. Zengin
+adamların hayatlarına, saklamak istedikleri bir şeyleri varsa
+dokunmak kolay değildir. Ama pek bir şey öğrenebileceğimizi sanmıyorum; senin davan geçen yılki benzer davalardan sadece biri gibi görünüyor."
+
+"Ha?" Fraser sertçe yukarı baktı.
+
+"Evet. Tüm haberleri takip ediyorum; ve garip gerçekleri hatırlıyorum. Son zamanlarda güzel genç kadınların aniden zengin adamlarla
+evlendiği veya onların metresi olduğu bir düzine kadar dava oldu. Hepsi gazetelere çıkmıyor ama
+benim bağlantılarım var. Biliyorum. Her durumda, belirgin bir
+neden yoktu; aslında, hanımlar babaya
+çok aşık görünüyorlardı."
+
+"Ve altın avcılarının dönemi çoktan bitti--" Fraser pencereden dışarı bakarak oturdu.
+Gökyüzünün bu kadar güneş ışığıyla
+dolu olması doğru görünmüyordu.
+
+"Pekala," dedi Martinez, "bana ihtiyacın yok. Bir psikoloğa ihtiyacın var."
+
+_Psikolog!_
+
+"Aman Tanrım, Juan, sana yine de bir iş vereceğim!" Fraser ayağa fırladı.
+"Sentiment, Inc. adında bir şirkete gideceksin."
+
+* * * * *
+
+Bir hafta sonra, Martinez, "Evet, kolayca bulduk. Telefon rehberinde yok ama Beşinci Cadde'deki yüksek kiralı bölgede büyük bir daireleri var. Adresi burada, yazılı raporumda. Binadaki hiç kimse onlar hakkında pek bir şey bilmiyor, sadece sessiz, iyi huylu bir grup olduklarını ve kendilerine araştırma psikologları dediklerini biliyorlar. Dört kişilik bir kadroları var: bir sekreter-resepsiyonist; tam zamanlı bir sekreter; ve patronun koruması olabilecek birkaç iri yarı oğlan. İşte bu
+Kennedy, Robert Kennedy. Adamım ofisine giremedi; kız
+çok meşgul olduğunu ve birkaç düzenli müşteri dışında kimseyi görmediğini söyledi.
+Kızlardan hiçbiriyle de çıkamadı ama onları araştırdı.
+
+"Resepsiyonist sadece rutin işler için çalışan bir kız, evli,
+neler olup bittiğini pek bilmiyor veya umursamıyor. Steno evli değil,
+psikoloji alanında derecesi var, yalnız yaşıyor ve patronu dışında hiç arkadaşı yok gibi görünüyor. Bu arada, sevgilisi olmayan kim."
+
+"Peki ya Kennedy'nin kendisi?" diye sordu Fraser.
+
+"Biraz şey öğrendim ama hepsi meşru," dedi Martinez. "Yaklaşık elli yaşında, dul, çok istikrarlı bir özel hayatı var. Chicago'da pratik yapan lisanslı bir psikiyatrist ve orada Gavotti adında bir fizikçiyle birlikte araştırma yaptı, Gavotti o zamandan beri öldü. Bu olaydan kısa bir süre sonra--
+
+"Hayır, kötü niyetli bir oyun şüphesi yok; fizikçi yaşlı bir adamdı ve kalp krizinden öldü. Neyse, Kennedy New York'a taşındı. Hala resmi olarak pratik yapıyor ama herkesi kabul etmiyor; araştırmasının ona sadece birkaç kişi için zaman bıraktığını iddia ediyor." Martinez gözlerini kıstı.
+"Ona karşı kullanabileceğin tek şey, ara sıra Amtorg ile bazı işleri olan bir şirkette çalışan Bryce adında bir adam görmesi."
+
+"Rus ticaret şirketi mi? Hımm."
+
+"Ah, bu oldukça uzak bir suç ortaklığı, Colin. Amtorg'un meşru bir işi var, biliyorsun. Biz onlardan manganez alıyoruz, diğer şeylerin yanı sıra. Ve Kennedy'nin diğer bağlantıları tamamen mavi
+kurdele. _Creme de la creme_--iş, finans, siyaset ve muhafazakar olduğu bilinen büyük bir sendika lideri. Aslında, Kennedy'nin
+arkadaşları o kadar güçlü ki, ona karşı bir şey yapmakta
+gerçekten zorluk çekersiniz."
+
+Fraser sandalyesinde yığıldı. "Sanırım benim fikrim oldukça çılgıncaydı," diye itiraf etti.
+
+"Şey, bir tuhaf açı var. Bu kadar arzulanan kadınlarla
+aniden öpüşen bu zengin adamları biliyor musun?
+Öğrenebildiğim kadarıyla, hepsi Kennedy'nin müşterisi."
+
+"Eh?" Fraser irkildi.
+
+"Gerçek bu. Ayrıca, adamım bina personeline, asansör pilotlarına ve
+diğerlerine bu kadınların fotoğraflarını gösterdi ve birkaçının Kennedy'yi görmeye
+geldiği hatırlandı."
+
+"Aşık olmadan hemen önce mi?"
+
+"Şey, bundan emin değilim. İnsanların tarihleri ​​nasıl hatırladıklarını
+biliyorsun. Ama bu mümkün."
+
+Fraser koyu renk başını salladı. "İnanılmaz," dedi. "Svengali'nin eski melodram olduğunu
+düşünüyordum."
+
+"Hipnoz hakkında bir şeyler biliyorum, Colin. O kızların başına gelen
+sandığın şeye benzemeyecek."
+
+Fraser piposunu çıkardı ve içine tütün koydu. "Sanırım," dedi,
+"Dr. Robert Kennedy'yi kendim arayacağım."
+
+"Rahat ol, evlat," dedi Martinez. "Çok fazla garip
+hikaye okudun; "Sadece çöpe atılacaksın."
+
+Fraser gülümsemeye çalıştı. Zordu--Judy artık aramalarına ve
+mektuplarına cevap vermiyordu. "Eh," dedi, "değerli bir amaç için olacak."
+
+* * * * *
+
+Asansör onu on dokuzuncu kattan indirdi. Aralarında koridor bulunan dört büyük süit vardı. Buzlu cam kapıları inceledi. Bir tarafta Eagle Publishing Company ve
+Frank & Dayles, Brokers vardı. Diğer tarafta Messenger Advertising
+Service ve Sentiment, Inc. vardı. Kapılarından içeri girdi ve sessiz, meşe kaplamalı bir resepsiyon odasında durdu. Korkuluğun arkasında birkaç masa, her birinde çalışan genç bir kadın ve sıkılmış bir şekilde dergi okuyan iki iri yarı adam vardı.
+
+Güzel kız, belli ki resepsiyonist, Fraser yaklaşırken başını kaldırdı ve ona profesyonel bir şekilde gülümsedi. "Evet, efendim?" diye sordu.
+
+"Lütfen Dr. Kennedy'yi görmek istiyorum," dedi, rahat olmaya çalışarak.
+
+"Randevunuz var mı efendim?"
+
+"Hayır, ama acil."
+
+"Üzgünüm efendim; Dr. Kennedy çok meşgul. Düzenli hastaları ve araştırma konuları dışında
+kimseyi göremez."
+
+"Bakın, onu bu notta götürün, olur mu? Teşekkürler."
+
+Fraser birkaç dakika huzursuz bir şekilde oturdu, notu doğru bir şekilde yazıp yazmadığını merak etti. _Bayan Judy Harkness hakkında sizinle görüşmeliyim._ _Önemli._ Peki,
+başka ne söyleyebilirdiniz ki?
+
+Resepsiyonist tekrar dışarı çıktı. "Dr. Kennedy size birkaç dakika ayırabilir, efendim," dedi. "Hemen içeri girin."
+
+"Teşekkürler." Fraser iç kapıya doğru eğildi. İki adam dergilerini indirip onu dikkatli gözlerle takip ettiler.
+
+İçeride büyük, şık döşenmiş bir ofis vardı, arkasında laboratuvara açılan bir kapı vardı. Kennedy bazı kağıtlardan başını kaldırıp
+ayağa kalktı, elini uzattı. Orta boylu, oldukça tombul,
+gri saçları çerçevesiz gözlüklerin arkasındaki geniş, ağır yüzünden kalınca geriye doğru taranmıştı. "Evet?" Sesi alçak ve hoştu. "Sizin için
+ne yapabilirim?"
+
+"Adım Fraser." Ziyaretçi oturdu ve bir sigara aldı. En iyisi
+nezaketli davranmak. "Bayan Harkness'ı iyi tanırım. Onun
+ensefalografik incelemelerini yaptığınızı duydum."
+
+"Gerçekten mi?" Kennedy sinirlenmiş görünüyordu ve Fraser, Judy'den kimseye söylememesinin
+istendiğini hatırladı. "Emin değilim; Önce
+kayıtlarıma danışmam gerekecek." Hiçbir şey itiraf etmiyordu, diye düşündü Fraser.
+
+"Bakın," dedi mühendis, "Bayan
+Harkness'ta son zamanlarda belirgin bir değişiklik oldu. Psikolojiden yeterince anlarım, bu tür değişikliklerin sebepsiz yere bir gecede gerçekleşmeyeceğinden eminim. Size danışmak istedim."
+
+"Ben onun psikiyatristi değilim," dedi Kennedy soğuk bir şekilde. "Şimdi beni mazur görürseniz, gerçekten yapmam gereken çok şey var--"
+
+"Tamam," dedi Fraser. Ses tonunda tehdit yoktu, sadece bir
+yorgunluk. "Eğer ısrar ederseniz, kirli oynarım. Bu tür ani değişimler
+zihinsel dengesizliğe işaret eder. Ama öncesinde gayet aklı başında olduğunu biliyorum.
+Sanki deneyleriniz onun zihnine zarar vermiş gibi görünmeye başlıyor. Eğer öyleyse, sizi ihmalkarlıktan ihbar etmem gerekir."
+
+Kennedy kızardı. "Ben lisanslı bir psikiyatristim," dedi, "ve herhangi bir başka
+doktor Bayan Harkness'ın hala akıl sağlığında olduğunu doğrulayacaktır. Eğer bir soruşturma başlatmaya çalışırsanız, sadece kendi zamanınızı ve yetkililerin zamanını boşa harcamış olursunuz. Kendisi kendisine hiçbir zarar verilmediğine; hiçbir zorlamanın uygulanmadığına; ve sizin kendi sanrılarınız olan cehennem gibi bir meraklı olduğunuza tanıklık edecektir. İyi günler."
+
+"Ah," dedi Fraser, "demek ki o _burada_ymış."
+
+Kennedy bir düğmeye bastı. Adamları içeri girdi. "Bu beyefendiye çıkış yolunu gösterin lütfen," dedi.
+
+Fraser kavga edip etmemeyi düşündü, bunun boşuna olduğuna karar verdi ve
+diğer ikisinin arasına girdi. Sokağa çıktığında,
+titrediğini ve bir içkiye çok ihtiyacı olduğunu fark etti.
+
+* * * * *
+
+Fraser, "Jim, hiç _Trilby_'yi okudun mu?" diye sordu.
+
+Sworsky'nin yuvarlak, çilli yüzü ona bakmak için yukarı kalktı. "Yıllar önce," diye cevapladı. "Ne olmuş yani?"
+
+"Bana bir şey söyle. Svengali'nin yaptığını yapmak mümkün mü - hatta teorik olarak mümkün mü? Duygusal tutumları değiştir, işte böyle." Fraser
+parmaklarını şıklattı.
+
+"Bilmiyorum," dedi Sworsky. "Nükleer kesitler daha çok ilgi alanıma giriyor. Ama ilk bakışta, bunun ... çok uzak bir gelecekte yapılabileceğini hayal ediyorum. Düşünce alışkanlıkları, ilişkisel kalıplar, bunun iyi, şunun kötü olarak etiketlenmesi, yerleşik sinir yollarının meseleleri gibi görünüyor.
+Bireysel nöronların polarizasyonunu seçici olarak değiştirebilseydiniz--Ama bu oldukça uzak bir ihtimal; "Bugün beyin hakkında neredeyse hiçbir şey bilmiyoruz."
+
+Arkadaşını anlayışla inceledi. "Terk edilmenin zor olduğunu biliyorum," dedi, "ama bu konuda çılgına dönme."
+
+"Başka biri onu her zamanki gibi elde etseydi dayanabilirdim," dedi Fraser zayıf bir sesle. "Ama bu--Bak, öğrendiğim her şeyi sana anlatayım."
+
+Sworsky hikayenin sonunda başını iki yana salladı. "Bu çok çılgınca bir spekülasyon," diye mırıldandı. "Ben olsam unuturdum."
+
+"Kennedy'nin eski ortağını tanıyor muydun? Chicago'daki Gavotti."
+
+"Elbette, onunla birkaç kez karşılaştım. İyi yaşlı bir adamdı, çok dünyadışıydı, tamamen işine dalmıştı. Hayatının sonuna doğru nörolojiye fizik açısından ilgi duymaya başladı ve sibernetiğe çok katkıda bulundu. Ne olmuş yani?"
+
+"Bilmiyorum," dedi Fraser; "Sadece bilmiyorum. Ama bana bir iyilik yap, olur mu, Jim? Judy beni hiç görmeyecek ama seni tanıyor ve senden hoşlanıyor. Onu
+akşam yemeğine veya başka bir şeye davet et. Gelmesi için ısrar et. Sonra sen ve karın
+öğrenin --ne kadar öğrenebilirsiniz. Tüm bu iş hakkında tam olarak ne hissettiğini. Her şeye karşı tavrının ne olduğunu."
+
+"Adım Sworsky, Holmes değil. Ama tabii ki elimden geleni yapacağım, eğer
+bu saplantıdan kurtulmaya söz verirsen. Sen de bir 
+kafa delicisine görünmelisin, biliyorsun."
+
+_In vino veritas_--bazen çok fazla _veritas_.
+
+* * * * *
+
+Akşamın sonuna doğru, Judy, tam olarak tutarlı olmasa da serbestçe konuşuyordu. "Colin'e çok değer veriyordum," dedi. "Onun etrafta olması oldukça
+harikaydı. Harika bir adam. Sadece Matt--bilmiyorum.
+Matt, Colin'in sahip olduğu şeylerin yarısına bile sahip değil; Matt tek yönlü bir zihin. Korkarım ki onun için sadece süs amaçlı bir kolaylık olacağım. Sadece
+biri etraftayken başınız dönüyorsa ve
+o uzaktayken sürekli onu düşünüyorsanız--işte, o böyle biri. Başka hiçbir şeyin önemi yok."
+
+"Colin'in komik bir takıntısı var," dedi Sworsky ihtiyatlı bir şekilde. "Kennedy'nin seni Snyder için hipnotize ettiğini düşünüyor. Ona bunun imkansız olduğunu söyleyip duruyorum,
+ama bu fikrin üstesinden gelemiyor."
+
+"Ah, hayır, hayır, hayır," dedi fazlaca hararetle. "Öyle bir şey değil. Sana tam olarak ne olduğunu anlatayım. İki ölçüm seansı yaptık; biraz sıkıcıydı ama başka bir şey değildi. Ve sonra üçüncü kez
+Kennedy beni hipnoz altına aldı--en azından buna öyle diyordu. Uyudum ve yaklaşık bir saat sonra uyandım ve beni eve gönderdi. İçimde kendimi iyi, mutlu ve yavaş hissediyordum. Matt'in benim için ne ifade ettiğini yavaş yavaş görmeye başladım.
+
+"O akşam onu ​​aradım. Kennedy'nin makinesinin insanların zihinlerini bazen kısa bir süreliğine hızlandırdığını, bu yüzden ne yapacaklarına hemen karar verdiklerini söyledi. Kennedy--bilmiyorum. İlk başta ne kadar sıradan göründüğü komik. Ama onu tanıdıkça, neredeyse Tanrı gibi. Güçlü, bilge ve iyi. O--" Sesi
+azaldı ve aptalca bardağına bakarak oturdu.
+
+"Biliyor musun," dedi Sworsky, "belki de Colin haklıdır."
+
+"Böyle söyleme!" Ayağa fırladı ve yüzüne tokat attı. "Kennedy _iyi_,
+sana söylüyorum! Burada oturup onun arkasından
+sahte yorumlar yapan tüm küçük bitler ve o hepinizden çok daha büyük ve--" Gözyaşlarına boğuldu ve daireden fırtına gibi çıktı.
+
+Sworsky olayı Fraser'a bildirdi. "Acaba," dedi. "Doğal görünmüyor, katılıyorum. Ama kim ne yapabilir? Polis mi?"
+
+"Denedim," dedi Fraser donuk bir şekilde. "Güldüler. Israr ettiğimde, neredeyse
+kendimi vuruyordum. Bunun bir faydası yok. Sorun şu ki, makineye
+alışmış olanların hiçbiri Kennedy'ye karşı tanıklık etmeyecek. O, onu tapınmaları için
+düzeltiyor."
+
+"Hala deli olduğunu düşünüyorum. Daha basit bir hipotez _olmalı_; gerçek bir kanıt olmadan
+senin
+çılgınca düşüncelerine inanmayı reddediyorum. Ama
+şimdi ne yapacaksın?"
+
+"Şey," dedi Fraser gergin bir sesle, "biriktirdiğim birkaç bin dolarım var ve Juan Martinez yardım edecek. Aslan hakkındaki masalı hiç duydun mu? Ayıyı, kaplanı ve gergedanı cehenneme kadar yaladı ama sonunda küçük bir sivrisinek onu çileden çıkardı. Belki ben sivrisinek olabilirim." Başını iki yana salladı. "Ama acele etmem gerekecek. Düğüne sadece altı hafta var."
+
+3
+
+Sürekli takip edilmek; çalıştığınız ve yaşadığınız yerlerde sizinle ilgili kötü dedikoduların yayılması; lastiklerinizin kesildiğini görmek; hızlı bir içki içmek için uğradığınızda kaba sarhoşların sizi rahatsız etmesi; her gece pencerenizin altından yüksek sesli korna sesleri duyulması can sıkıcı olabilir. Ve polisi aramanın pek bir faydası olmaz; küçük işkencecileriniz her zaman
+görünmezden
+kaybolur.
+
+Fraser, yaklaşık iki hafta sonra odasında oturmuş, matris cebirine konsantre olmaya çalışırken
+başarısız bir şekilde, telefon çaldı.
+Telefonu hiç açmazdı, Judy olabileceğine dair ufak bir umutla
+ve hiç açmadı. Bu sefer bir erkek sesiydi: "Bay Fraser?"
+
+"Evet," diye homurdandı. "Ne istiyorsun?"
+
+"Ben Robert Kennedy. Seninle konuşmak istiyorum."
+
+Fraser'ın yüreği kaburgalarında atıyordu, ama sesini sert tuttu. "Hadi,
+o zaman. Konuş."
+
+"Benim evime gelmeni istiyorum. Uzun bir
+sohbet ediyor olabiliriz."
+
+"Mmmm--peki--" Kendine umut etmesine izin verdiğinden daha fazlasıydı ama
+kısa kesti: "Tamam. Ama bu işin ve senin yaptığını
+düşündüğüm şeyin tam bir raporu birkaç kişinin elinde. Bana bir şey
+olursa--"
+
+"Çok fazla sert
+haşlanmış yazı okuyorsun," dedi Kennedy. "Hiçbir şey
+olmayacak. Neyse, o insanların kim olduğunu oldukça iyi biliyorum; kendi dedektiflerimi
+kiralayabilirim, biliyorsun."
+
+"O zaman gelirim." Fraser telefonu kapattı ve aniden terlediğini
+fark etti.
+
+Sokakta yürürken gece havası serindi. Bir an durakladı, şehrin etrafında devasa, kişiliksiz bir makine gibi olduğunu hissetti,
+gıcırdıyordu. İnsan medeniyeti çok büyümüştü, diye düşündü.
+Kimsenin kontrolü dışındaydı; kendi iradesini edinmişti ve
+artık onu yönlendiremeyecek bir ırkı taşıyordu. Bazen - gazete okurken, radyo dinlerken veya trafiğin çelik bir nehir gibi akıp gitmesini izlerken - bir adam korkunç derecede çaresiz hissedebilirdi.
+
+Kennedy'nin adresine, ellilerin alt kesiminde gösterişli bir apartmana gitmek için metroya bindi. Psikiyatrist tarafından şahsen kabul edildi; etrafta başka kimse yoktu. "Sanırım," dedi Kennedy, "bana silah çekmek gibi çılgın bir fikrin yok. Bu seni belaya sokmaktan başka bir işe yaramaz."
+
+"Hayır," dedi Fraser, "iyi olacağım." Gözleri oturma odasında dolaştı. Bir duvar kullanılmış gibi görünen kitaplarla kaplıydı; birkaç kaliteli reprodüksiyon, bir Capehart ve güzel, devasa mobilyalar vardı. Zevkli bir düzenlemeydi. Şöminenin üzerindeki üç resme biraz daha yakından baktı: orta yaşlı bir kadın ve üniformalı iki genç adam.
+
+"Karım," dedi Kennedy, "ve oğullarım. Hepsi öldü. Bir içki ister misin?"
+
+"Hayır. Konuşmaya geldim."
+
+"Ben Şeytan değilim, biliyorsun," dedi Kennedy. "Kitapları ve müziği, iyi şarabı, iyi sohbeti severim. Senin kadar insanım, sadece bir amacım var."
+
+Fraser oturdu ve piposunu doldurmaya başladı. "Devam et," dedi. "Dinliyorum."
+
+Kennedy, ona doğru bir sandalye çekti. Çerçevesiz gözlüklerinin arkasındaki büyük, pürüzsüz yüz ifadesi pek de ifadesiz değildi. "Neden beni
+rahatsız ediyorsun?" diye sordu.
+
+"Ben mi?" Fraser kaşlarını kaldırdı.
+
+Kennedy sabırsız bir hareket yaptı. "Sözcükleri kesmeyelim. Bu gece
+tanık yok. Ben özgürce konuşmayı düşünüyorum ve senin de aynısını yapmanı istiyorum.
+Martinez'i bu çok çocukça zulüm kampanyasında sana yardım edecek kadar ikna ettiğini biliyorum. Bundan ne elde etmeyi umuyorsun?"
+
+"Kızımı geri istiyorum," dedi Fraser duygusuzca. "Rahatsızlık değerimin-- olmasını umuyordum"
+
+* * * * *
+
+Kennedy biraz irkildi. "Biliyor musun, bunun için çok üzgünüm. Bu, işimin nefret ettiğim tek yönü. Sadece bilimsel bir tedarikçi olmadığıma inanmanı istiyorum. Aslında, müşterilerimin küçük isteklerini tatmin etmeliyim, böylece mutlu kalırlar ve benim büyük isteklerimi kabul ederler. Bu kadınların işimin sadece çok küçük bir kısmını oluşturduğu apaçık bir gerçek."
+
+"Yine de, sen serbest bir oğulsun, böyle bir şey yapıyorsun--"
+
+"Gerçekten, şimdi, bunda bu kadar korkunç olan ne? O kızlar aşık--normal, gerçek bir şey. Bu, zombi durumu veya aşırı ısınmış hayal gücünün
+düşündüğü her neyse o değil. Tamamen aklı başında,
+zarar görmemiş ve mutlular. Aslında, bu tür bir mutluluk bu dünyada o kadar nadirdir ki, istesem, onların hayırseveri gibi davranabilirim."
+
+"Bir makinen var," dedi Fraser; "zihni değiştirir. Bana kalırsa, bu özgürlüğün birini toplama kampına atmak kadar büyük bir ihlalidir."
+
+"Sence herhangi biri ne kadar özgürdür? Sabit bir kalıtımla doğarsın.
+Çevre seni kil gibi şekillendirir. Toplumun sana neyi ve nasıl düşüneceğini öğretir. Kör, kontrol edilemeyen
+şansa bağlı bir milyon küçük etken hayatının gidişatını belirler --aşk hayatın da dahil...
+Eh, felsefeye zaman harcamamıza gerek yok. Hadi, birkaç soru sor. Seni incittiğimi kabul ediyorum --istemeden, kesinlikle--ama telafi etmek istiyorum."
+
+"O zaman makinen," dedi Fraser. "Onu nasıl elde ettin? Nasıl
+çalışıyor."
+
+"Chicago'da pratik yapıyordum," dedi Kennedy, "ve Gavotti ile birlikte çalışıyordum. Sibernetik hakkında ne kadar bilginiz var? Sadece alanın bir yönü olan
+bilgisayarlar ve otomatlardan bahsetmiyorum; hem hayvanlarda hem de makinelerde
+kontrol ve iletişimden bahsediyorum."
+
+"Eh, Wiener'ın kitaplarını okudum ve Shannon'ın çalışmalarını da inceledim."
+Fraser, istemeden de olsa, biraz olsun eriyordu. "Heyecan verici
+bir şey. İletişim teorisi, biyoloji ve psikolojide olduğu kadar elektronikte de temel görünüyor."
+
+"Oldukça. Gelecek Wiener'ı nörolojinin Galileo'su olarak hatırlayabilir.
+Gavotti'nin çalışması yayınlanırsa, Newton olarak kabul edilecektir. Açıkçası, şimdiye kadar bunu bastırdım. Tam da makinesi
+tamamlandığında ve sonuçlarını yayınlamaya hazırlandığında aniden öldü.
+Benden başka kimse söylentilerden fazlasını bilmiyordu; elinde bir _oldu bitti_ olana kadar
+gizli kalmaya meyilliydi. Bana ne gibi bir
+fırsat verildiğini fark ettim ve değerlendirdim; makineyi
+kimseye fazla bir şey söylemeden buraya getirdim."
+
+Kennedy sandalyesine yaslandı. "Sanırım Gavotti ve beni bu noktaya getiren şey çoğunlukla şanstı," diye devam etti. "Uzun bir dizi
+olası olmayan iyi tahminlerde bulunduk ve böylece bir asırlık işi bir
+on yıla sığdırdık. Eğer dindar olsaydım, dizlerimin üzerinde çöker, Tanrı'ya bu geleceği
+ellerime verdiği için şükrederdim."
+
+"Ya da şeytan," dedi Fraser.
+
+Kennedy'nin yüzünde kısa bir süre öfke belirdi. "Kabul ediyorum, makine
+korkunç bir güç, ama doğru şekilde kullanılırsa bir insana zararsızdır--benim kullandığım gibi. Size tam olarak nasıl
+çalıştığını
+söylemeyeceğim; dürüst olmak gerekirse, teorisinin ve devrelerinin sadece bir kısmını
+anlıyorum. Ama bakın, ensefalografi hakkında bir şeyler biliyorsunuz. Beynin çeşitli temel ritimleri
+ölçüldü. Standart yöntem zaten o kadar hassas ki
+gelişen bir tümör veya güçlü bir duygusal bozukluk gibi
+düzeltilmediği takdirde sorun yaratacak anormallikleri
+tespit edebiliyor. Gavotti'nin makinesinin yarısı daha da hassas bir ensefalograf. Temel duygusal durumlara karşılık gelen elektriksel darbelerdeki
+dakik değişimleri
+ölçebilir ve analiz edebilir. Düşünceleri okumaz, hayır; ama bir kişi için kalibre edildiğinde, onun mutlu, kederli, öfkeli,
+tiksinmiş, korkmuş olup olmadığını--herhangi bir temel nöro-bez rahatsızlığı veya bunların herhangi bir
+kombinasyonunu- size söyleyecektir."
+
+Durakladı. "Tamam," dedi Fraser. "Başka ne işe yarıyor?"
+
+"Canavar _yaratmıyor_," dedi Kennedy. "Bakın, normal bir bireyde belirli bir
+uyarana karşı belirli duygusal tepki, büyük ölçüde sosyal çevre tarafından aşılanan
+veya hayatının tesadüfi çağrışımları olan şartlandırılmış refleks meselesidir.
+
+"Sağlığı yerinde olan herkes, tehlikenin varlığında korku, cinsel bir nesnenin varlığında arzu vb. deneyimleyecektir. Bu temel biyolojidir ve makine bunu değiştiremez. Ancak değerlendirmelerimizin çoğu öğrenilmiştir. Örneğin, bir Amerikalı için 'anne' kelimesi
+güçlü duygusal çağrışımlara sahipken, bir Samoalı için pek heyecan verici bir şey ifade etmez. İçki, tütün,
+kahve -aslında tükettiğiniz şeylerin çoğu- için bir tat geliştirmeniz gerekir. Eğer belirli bir
+kadına aşıksanız, bu genel cinsel libidonun ona odaklanması demektir,
+zihninizin sembolize eden kısmı tarafından ortaya çıkarılır: o sizin için _bir şey_ ifade eder. Romantik aşk olmayan kültürler de vardır, biliyorsunuz.
+Ve benzeri. Tüm bu belirli, şartlandırılmış tepkiler değiştirilebilir."
+
+"Nasıl?"
+
+* * * * *
+
+Kennedy bir an düşündü "Makinenin ensefalografik kısmı,
+bireydeki çeşitli duygusal tepkilere karşılık gelen tam nabızları ölçer. Bunları gerekli hassasiyetle belirlemem yaklaşık dört saatimi alır; sonra verilerin istatistiksel
+analizlerini yapıp rastgele varyasyonları ayıklamam gerekir. Daha sonra deneği hafif hipnoz durumuna sokarım--bu sadece telkine açıklığı artırmak ve süreci hızlandırmak içindir. İlgi duyduğum kelimeleri ve isimleri telaffuz ettiğimde, makine istediğim duygulara karşılık gelen dürtüleri geri bildiriyor: ilgili beyin merkezine keskin bir şekilde odaklanmış bir ışın.
+
+"Örneğin, bir alkolik olduğunuzu ve sizi iyileştirmek istediğimi varsayalım.
+Sizi hipnoza sokup orada durup 'şarap, viski, bira,
+cin' vb. diye fısıldardım; bu arada, makine beyninize nefret, korku ve iğrenme tepkilerinize karşılık gelen dürtüleri
+beslerdi. Değişmeden çıkarsınız, sadece alkole olan iştahınız
+kaybolurdu; aslında, o şeyden o kadar nefret ederek
+çıkabilirsiniz ki Yasak Partisi'ne katılırsınız--ancak gerçekte, bu muhtemelen size hafif bir tiksinti vermeye
+yeter."
+
+"Mmmm--Anlıyorum. Belki." Fraser kaşlarını çattı. "Ve--özne--senin
+ne yaptığını hatırlamıyor mu?"
+
+"Ah, hayır. Her şey daha düşük bilinçaltı düzeylerinde gerçekleşir. Yeni bir dizi
+şartlandırılmış sinir yolu açılır, görüyorsun, ve eski olanlar
+kapatılır. Beyin bunu kendi başına, normal sembolleştirme mekanizmasıyla yapar. Olan tek şey, verilen sembolün -örneğin içki- verilen duygusal durumla, örneğin hoşlanmamayla, yansıtıcı bir şekilde ilişkilendirilmesidir."
+
+Kennedy acil bir tavırla öne doğru eğildi. "Sonuç, sıradan ikna yöntemlerinden hiçbir şekilde farklı değildir. Propaganda, aynı şeyi sadece tekrarla yapar. Eğer bir kıza kur yapıyorsanız, uygun davranışlarla, onun zihninde kendinizi onun arzuladığı şeylerle özdeşleştirmeye çalışırsınız.... Üzgünüm; o örneği kullanmamalıydım.... Makine, bunu yapmanın doğrudan ve hızlı bir yoludur, daha istikrarlı bir sonuç üretir."
+
+"Yine de kurcalama," dedi Fraser. "Yan etkiler yaratmadığınızı, onarılamaz uzun menzilli hasarlar vermediğinizi nereden biliyorsunuz?"
+
+"Aman Tanrım!" diye patladı Kennedy. "Zihninizi o raftan kaldırın, olur mu? Sana bütün bunların ne kadar hassas olduğunu söyledim. Birkaç mikrowatt güç, yüzde birden daha az bir frekans kayması ve hiç işe yaramıyor. Hiçbir etkisi yok." Hızlıca sakinleşti ve düşünceli bir şekilde ekledi: "Verilen konu üzerinde, yani. Başka biri üzerinde işe yarayabilir. Bu titreşimler oldukça bireysel bir konu; her vakayı ayrı ayrı kalibre etmeliyim."
+
+Uzun bir sessizlik dönemi oldu. Sonra Fraser öne doğru eğildi ve
+çirkin bir sesle şöyle dedi:
+
+"Tamam. Bana nasıl yaptığını söyledin. Şimdi bana _neden_ olduğunu söyle.
+Tanrıyı oynama arzundan başka hangi olası sebep veya mazeret olabilir? Bu şey
+tarihin en büyük psikiyatrik aracı olabilir ve sen onu
+pezevenklik yapmak için kullanıyorsun!"
+
+"Sana bunun önemsiz olduğunu söylemiştim," dedi Kennedy sessizce. "Çok daha fazlasını yapıyorum. Birkaç yıl önce New York'ta muayenehanemi kurdum. Bir zamanlar
+kontrolüm altında birkaç şans insanım vardı--hayır, tekrar söylüyorum, onları robot yapmadım. Sadece kendimi, onların zihinlerinde,
+baba imgesiyle ilişkilendirdim. Bu, makine altına giren herkese yaptığım bir şey, başka bir şey değilse bile, sadece bir önlem olarak, Kennedy her şeyi bilen, her şeye gücü yetendir; Kennedy hiçbir yanlış yapamaz. Bu bilinçli bir farkındalık değildir;
+uyanık zihin için, ben sadece kurnaz bir danışman ve harika bir adamım.
+Ama bilinçaltı zihin başka türlü biliyor. Tebaalarımın bana karşı hareket etmesine _izin vermezdi_; hatta istemelerine bile izin vermezdi.
+
+"Eh, nasıl gittiğini görüyorsun. İlk birkaç kişiden beni belirli seçilmiş
+arkadaşlara tavsiye etmelerini sağladım ve onlar da beni başkalarına tavsiye ettiler.
+Mutlaka bir psikiyatrist olarak değil; çeşitli zamanlarda bir doktor, bir danışman veya sadece veri arayan bir araştırmacı oldum. Ama istediğim insanlardan oluşan bir grup oluşturuyorum. Beni destekleyecek, tavsiyelerimi takip edecek insanlar -- egemenlik altına alınma bilgisine sahip olarak değil, fakat kendi bilinçaltı zihinlerinin işleyişi onları kaçınılmaz olarak tavsiyelerimin izlenecek tek sağlam politika olduğunu ve isteklerimin her iyi adamın yerine getirmesi gereken şeyler olduğunu düşünmeye yönlendireceği için."
+
+"Evet," dedi Fraser. "Anladım. Büyük iş adamları. İşçi liderleri.
+Politikacılar. Askerler. Ve Sovyet casusları!"
+
+* * * * *
+
+Kennedy başını salladı. "Sovyetler ile bağlantılarım var; ajanları
+benim onların tarafında olduğumu düşünüyor. Ama bu ihanet değil, zaman zaman onlara yardım etsem de.
+
+"Bu yüzden önemli müşterilerim için bu hizmetleri yapmak zorundayım, örneğin
+onlara istedikleri kadınları bulmak gibi--ya da aslında daha sık yaptığım gibi
+rakiplerini ve ortaklarını etkilemek. Görüyorsunuz ya, bilinçaltı
+zihin benim her şeye gücü yeten biri olduğumu biliyor, ama bilinçli zihin bilmiyor. Benim _paha biçilmez_ olduğumun ara sıra kanıtlarıyla tatmin olması gerekiyor; aksi takdirde
+çatışmalar başlayacak, adamlarım dengesizleşecek ve sonunda
+psikopatlaşacak ve artık bana bir faydası olmayacak.
+
+"Elbette," diye ekledi, neredeyse bilgiççe, "adamlarım benim bu diğer insanları nasıl ikna ettiğimi bilmiyorlar - onlar sadece bir şekilde bunu yaptığımı biliyorlar ve kendi egolarına ve bana olan saygıları, kendilerinin de egemen olduğu gerçeğini akıl yürütmelerini engelleyen bir blok oluşturuyor. Yardımımın sonuçlarını kabul etmekten oldukça memnunlar,
+kolayca 'ikna edici bir kişiliğe' sahip olduğum gerekçesinden daha fazla araştırmadan
+daha fazla araştırmadan.
+
+"Yaptığım şeyden hoşlanmıyorum, Fraser. Ama yapılması gerekiyor."
+
+"Hala _ne yapılması_ gerektiğini söylemedin," diye cevapladı mühendis
+soğuk bir şekilde.
+
+"Bana inanılmaz bir şey verildi," dedi Kennedy. Sesi artık
+çok yumuşaktı. "Eğer bunu kamuoyuna açıklasaydım, ne olacağını hayal edebiliyor musun? Psikiyatristler bunu kullanırdı, evet; ama suçlular,
+diktatörler, her türden güç açlığı çeken adamlar da kullanırdı. Bu ülkede bile, özgürlükçü ilkelerin uzun süre hayatta kalabileceğini sanmıyorum. Çok
+basit olurdu--
+
+"Ve yine de makineyi kırıp Gavotti'nin notlarını
+yakmak korkakça olurdu. Şans bana nehirdeki bir yongadan daha fazlası olma gücünü verdi -- hızla bir şelaleye, savaşa, yıkıma, tiranlığa yaklaşan bir nehir, Pyrrhic galibi kim olursa olsun. İnandığım
+nedenler için bir şeyler yapabilecek konumdayım."
+
+"Peki bunlar ne?" diye sordu Fraser.
+
+Kennedy şöminenin üzerindeki resimleri işaret etti. "İki oğlum da son savaşta öldürüldü. Karım kanserden öldü -- silahlanmaya harcanan paranın bir kısmı araştırmaya yönlendirilmiş olsaydı şimdi yenilecek bir hastalık. Bu bana şunu gösterdi; ama daha kötü durumda olan yüz milyonlarca insan var. Ve savaş tek kötülük değil -- yoksulluk, baskı, eşitsizlik, yoksulluk ve acı var. Bunlar
+değiştirilebilir.
+
+"Kendi lobimi kuruyorum diyebilirsiniz. Birkaç yıl içinde, bu ülkeyi gerçekten yöneten tüm adamların vazgeçilmez danışmanı olmayı umuyorum. Ve evet, Sovyet ajanlarıyla temas halinde oldum - hatta çalıntı bilginin ileticiliğini bile yaptım. Casusluğun temel sorunu, biliyorsunuz, ilk etapta bilgiyi elde etmek değil, onu vatana ulaştırmaktır. Vatana ihanet mi? Hayır. Bence hayır. Dünya komünizminde yer ediniyorum. Zaten bazı
+ajanlarım var; er ya da geç, gerçekten önemli olan adamlara ulaşacağım. O zaman
+komünizm artık bir tehdit olmayacak."
+
+İç çekti. "Bu zor bir iş. En azından ömrümü alacak;
+ama hayatımı vereceğim başka ne var?"
+
+Fraser sessizce oturdu. Piposu soğuktu, onu çaldı ve yeniden doldurmaya başladı. Kibritinin çıtırtısı doğal olmayan bir şekilde yüksekti. "Bu
+çok fazla," dedi. "Bir adamın üstesinden gelemeyeceği kadar büyük bir iş. Dünya
+bir şekilde tökezleyecek ama sen sadece işleri daha da kötü bir
+karmaşaya
+sürükleyeceksin."
+
+"Denemek zorundayım," dedi Kennedy.
+
+"Ve hala kızımı geri istiyorum."
+
+"Bunu yapamam; Snyder'a çok ihtiyacım var. Ama sana
+bir şekilde telafi edeceğim." Kennedy içini çekti. "Tanrım, bunları anlatmayı ne kadar çok istediğimi bir bilsen!"
+
+Ani bir tedirginlikle: "Tekrarlanmayacak. Aslında,
+beni rahat bırakacaksın; köpeklerini geri çağıracaksın. Sana
+söylediklerimi başkasına anlatmaya çalışma. Sana asla inanılmayacak ve hikayeyi bastırmak için zaten yeterince gücüm var, eğer bir şekilde
+söylersen. Ve bana
+daha fazla sorun çıkarırsan, seni--durduracağım."
+
+"Cinayet mi?"
+
+"Ya da bir akıl hastanesine yatırılma. Onu da ayarlayabilirim."
+
+Fraser içini çekti. Garip bir şekilde heyecansız, boş hissediyordu, sanki röportaj onu direnme isteğinden
+etmiş gibiydi. Pipoyu parmaklarının arasında gevşekçe tuttu,
+sönmesine izin verdi.
+
+"Benden bir iyilik iste," diye ısrar etti Kennedy. "Eğer kendi programıma zarar
+vermeyecekse, bunu yapacağım. Sana söylüyorum, işleri yoluna koymak istiyorum."
+
+"Şey--"
+
+"Bunu düşün. Bana haber ver."
+
+"Tamam." Fraser ayağa kalktı. "Bunu yapabilirim." İyi geceler demeden
+kapıdan çıktı.
+
+4
+
+Ayaklarını masaya koymuş, sandalyesini geriye yatırmış ve tehlikeli bir şekilde sallanıyordu, ellerini başının arkasında birleştirmişti, piposu odayı
+mavi sisle dolduruyordu. Bu, bir soruna saldırmak için kullandığı olağan duruşuydu.
+
+Ve kahretsin, diye düşündü yorgunca, bu onun geçimini sağladığı bir soruydu. Bir endüstri mühendisi ofise gelir. Bunu istiyoruz
+ve şunu--çok özel bir amaç için bir makine diyelim. Ne yapmalıyız, Bay. Fraser? Fraser fabrikanın etrafında dolaşıyor, endüstri hakkında okuyor ve sonra oturup düşünüyor. Sorunun unsurları şöyle: Bunlar bir çözüm üretmek için nasıl birleştirilebilir?
+
+Normalde, özellikle makine tasarımında matematiksel yaklaşımı kullanır. Çoğu çalışan mühendisin acınası bir matematik geçmişi vardır; üç vektör denkleminin çözebileceği bir şeyi bulmak için on sayfa ayrıntılı cebir ve paslı kalkülüs kullanırlar. Ancak denklemlerinizi kurmadan önce mantıksal temelleri düzeltmeniz gerekir.
+
+Peki, sorun nedir? Judy'yi geri almak. Bu, Kennedy'yi normal duygusal tepkilerini geri vermeye zorlamak anlamına gelir; hayır, Judy'nin ona aşık olmasını istemiyordu; sadece olduğu gibi olmasını istiyordu.
+
+Sorunun unsurları nelerdir? Kennedy yasanın dışında hareket ediyor, ancak tüm resmi kanalları engelledi. Hatta Demir Perde'nin ötesine uzanan bağlantıları bile var.
+
+Hmmmm--FBI'a mı başvuracaklar? Kennedy henüz
+onları kontrol edemiyordu. Ancak, Fraser FBI'a haber vermeye çalışırsa, soruşturma yaparlarsa bile, dikkatli davranırlardı. Yavaş gitmeleri gerekirdi. Ve
+Kennedy bir şeyler yapmak için zamanında öğrenirdi.
+
+Martinez daha fazla yardımcı olamazdı. Sworsky'nin Washington ile daha yakın teması vardı. O kadar iyi aklanmıştı ki,
+söylediği her şeye güvenmeye meyilli olurlardı. Ancak Sworsky tüm hikayeden şüphe ediyordu; sorumsuz Kongre suçlamalarına maruz kalmış birçok erkek gibi,
+birini herhangi bir şeyle suçlamadan önce kanıta sahip olma konusunda neredeyse fanatikti.
+Dahası, Kennedy, Sworsky'nin Fraser'ın arkadaşı olduğunu biliyordu; muhtemelen fizikçiyi yakından takip ediyor ve yardım etmek için yapabileceği herhangi bir girişimi engellemeye hazırdı. Snyder gibi bir adamın desteğiyle Kennedy
+istediği kadar dedektif tutabilirdi.
+
+Aslında, karşı saldırı ne olursa olsun, dikkatli olmak gerekiyordu.
+Kennedy'nin, mühendis ona karşı çalışmaya devam ederse Fraser'dan kurtulma tehdidi boş yere gevezelik etmek değildi. Bunu yapabilirdi ve bir fanatik olduğu için yapardı.
+
+Ancak Kennedy, efsanedeki iblis gibi, sadece vicdanını rahatlatmak için bir dilek hakkı verirdi. Dilek ne olmalıydı? Başka bir kadın mı?
+Ya da sadece, yapay olarak, aksi takdirde tahammül edilemez bir
+durumla uzlaştırılmak mı?
+
+_Judy, Judy, Judy!_
+
+Fraser kendine küfretti. Kahretsin, bu mantıkta bir sorundu.
+Duygulara yer yoktu. Elbette, çözümü olmayan bir sorun olabilirdi. Bunlardan bolca vardı.
+
+Gözlerini kıstı, ofisi gözünde canlandırmaya çalıştı. Hırsızlık,
+delil çalmayı düşündü--aptalca bir düşünce. Ama bakalım, şimdi.
+Tam olarak düzen neydi? Gökdelenin bir katında dört daire, üçü önemsiz adamların önemsiz ofisleri. Ve--
+
+_Aman Tanrım!_
+
+Fraser uzun süre oturdu, neredeyse hiç kıpırdamadı. Sonra kendini toparladı ve
+aşağıya, sokağa ve en yakın ankesörlü telefona koştu. Kendi
+hattı dinleniyor olabilirdi--
+
+"Merhaba, merhaba, Juan?... Evet, seni yataktan kaldırdığımı biliyorum ve
+üzgün değilim. Bu çok önemli... Tamam, tamam... Bak, Messenger Reklam Hizmeti hakkında
+tam bir rapor istiyorum... Ne zaman?
+Hemen, daha erken değilse. Ve _tam_ demek istiyorum... Doğru,
+Messenger... Tamam, tamam. Sana bir ara içki ısmarlarım."
+
+"Merhaba Jim? Sen de uyuyor muydun?... Özür dilerim... Ama bak,
+çok iyi tanıdığın tüm önemli adamların bir listesini yapar mısın? Çok ihtiyacım var...
+Hayır, gelme. Sanırım seni bir süre görmesem iyi olacak. Sadece
+bana postala.... Tamam, paranoyak oldum..."
+
+* * * * *
+
+Jerome K. Ferris iri bir adamdı, kendi öneminin daha da büyük bir duygusu vardı.
+Sandalyede kamburlaşmış bir şekilde oturuyordu, başı alüminyum kaskın yanında cüceleşmişti,
+nefesi sığdı. Etrafında dans ediyor ve
+yüz metre titreşiyordu, gösterge ışıkları, tüpler. Odada alçak bir uğultu vardı, aksi takdirde tamamen sessizdi, engellenmiş ve dış dünyaya karşı
+korunmuştu. Floresan ışıklar kısık bir
+parıltıydı.
+
+Fraser, devasa osiloskop ekranındaki yeşilimsi izi izleyerek oturuyordu. Karmaşık bir kıvrımlar dizisiydi, her şeyden çok bir
+tabak spagettiye benziyordu. Kaç
+frekansın dahil olduğunu merak etti. En azından birkaç bin.
+
+"Fraser," Kennedy hipnotize olmuş adamın kulağına yumuşakça tekrarladı.
+"Colin Fraser. Colin Fraser." Sonsuz bir özenle bir kadrana dokundu.
+"Colin Fraser. Colin Fraser."
+
+Yeniden ayarlarken osiloskop titredi, yeni bir iz belirdi.
+Kennedy bir süre bekledi, sonra: "Robert Kennedy. Sentiment, Inc.
+Robert Kennedy. Sentiment, Inc. Robert Kennedy. Sentiment--"
+
+Makineyi kapattı, mırıltısı ve parıltısı söndü. Fraser'a
+sıkı bir gülümsemeyle bakarak şöyle dedi: "Tamam. İşin bitti. Şimdi
+eşit miyiz?"
+
+"Sanırım, olabileceğimiz kadar eşit," dedi Fraser.
+
+"Keşke bana güvenseydin," dedi Kennedy bir parça hüzünle. "İşi dürüstçe yapardım; izlemek zorunda kalmazdın."
+
+"Eh, ilgilenmiştim," dedi Fraser.
+
+"Açıkçası, bu Ferris'in köpek gibi bağlılığından ne kazanacağını hâlâ anlamıyorum. Zengin ama lider olmak için çok zayıf ve dar görüşlü. Onu kendi amaçlarım için şartlandırmayı asla planlamamıştım."
+
+"Bunu açıkladım," dedi Fraser sabırla. "Ferris birçok şirkette büyük bir hissedar. Etkisi birçok işi benim lehime çevirebilir."
+
+"Evet, biliyorum. Dileğini körü körüne yerine getirmedim, farkındasındır. Ferris'i
+incelemiştim; bana zarar veremez." Kennedy, Fraser'a sert
+gözlerle baktı. "Ve hala aptalca düşüncelere sahip olman durumunda, lütfen
+ona kendimle ilgili olarak baba şartlandırması verdiğimi hatırla.
+Senin için çok şey yapacak, ama bana herhangi bir şekilde zarar vermeyecekse."
+
+"Ne zaman yenildiğimi anlarım," dedi Fraser kasvetli bir şekilde; "Şehirden
+çıkacağım, kaydolduğum kursları bitirir bitirmez."
+
+Kennedy parmaklarını şıklattı. "Tamam, Ferris, şimdi uyan."
+
+Ferris gözlerini kırpıştırdı. "Neler oluyor?" diye sordu.
+
+"Önemli bir şey yok," dedi Kennedy, elektrotları çözerek. "Okumalarımı aldım. Yardımınız için çok teşekkür ederim, efendim. Araştırmam
+yayınlandığında hak ettiğiniz değeri görmenizi sağlayacağım."
+
+"Ah--evet. Evet." Ferris kendini şişirdi. Sonra kolunu
+Fraser'ın omzuna doladı. "Eğer meşgul değilseniz," dedi, "belki öğle yemeğine gidebiliriz."
+
+"Teşekkürler," dedi Fraser. "Seninle birkaç şey konuşmak istiyorum."
+
+Ferris odadan ayrıldıktan sonra bir an oyalandı. "Sanırım bu bizim için bir veda," dedi.
+
+"En azından hoşça kalın. Muhtemelen tekrar haberleşiriz."
+Kennedy, Fraser'ın elini sıktı. "Kırgınlık yok mu? Senin için çok uğraştım - Ferris'e adını verdiğinde seni tanıştırmak ve adamlarımdan birini buraya gelmeye ikna etmek. Ve tam da
+benim de cehennem gibi meşgul olduğum bir zamanda."
+
+"Elbette," dedi Fraser. "Önemli değil. Yaptığın şey için seni sevdiğimi iddia edemem ama sen kötü biri değilsin."
+
+"Senden daha kötü değilim," dedi Kennedy kısa bir kahkaha atarak. "Makineyi artık kendi amaçların için kullandın."
+
+"Evet," dedi Fraser. "Sanırım kullandım."
+
+* * * * *
+
+Sworsky, "Neden eczanelerden beni aramakta ısrar ediyorsun? Ve neden
+ofisimden? Ev telefonum var, biliyorsun." diye sordu.
+
+"Emin değilim ama bizim hatlarımız dinleniyor," dedi Fraser.
+"Kennedy zeki bir kurabiye ve bunu unutma. Sanırım
+beni bir tehlike olarak görmezden gelmeye hazır ama kesinlikle izleniyorsun;
+senin onun listesindesin."
+
+"Bir zulüm kompleksin var. Dürüst ol, Colin, endişeleniyorum."
+
+"Bir süre sabret. Şimdi, son aradığımdan beri Kennedy hakkında herhangi bir bilgin oldu mu?"
+
+"Hm, hayır. Thomson'a, benden istediğin gibi, bazı devrim niteliğindeki ensefalografi tekniklerine dair söylentiler duyduğumu ve
+çalışmaları görmek istediğimi söyledim. Bunu neden yapmamı istedin?"
+
+"Thomson," dedi Fraser, "Kennedy'nin adamlarından biri. Şimdi bak, Jim,
+çok geçmeden Kennedy'yi ziyaret etmeye davet edileceksin. Sana araştırmaları hakkında bir konuşma yapacak ve
+beyin dalgalarını ölçmek isteyecek. Evet demeni istiyorum. Sonra sana vereceği üç randevunun tam saatlerini bilmek istiyorum -en azından ilk ikisini."
+
+"Hmmm--Kennedy iddia ettiğin şeyi yapıyorsa--"
+
+"Jim, bu gerekli bir risk, ama _ben_ onu alan kişiyim. İyi olacaksın, sana söz veriyorum; ama belki daha sonra beni nehirde
+bulunduğumu okursun. Görüyorsun ya, Kennedy'yi benim için büyük bir hisse senedi sahibini
+etkilemeye ikna ettim. Onun sesinin yüksek olduğu daha küçük şirketlerden biri de
+Messenger. Sanırım Kennedy bunu bilmiyor. Umarım bilmiyordur!"
+
+* * * * *
+
+Sworsky sanki kum torbasına konmuş gibi görünüyordu. Bembeyazdı ve içki
+dolduran eli titriyordu.
+
+"Tanrım," diye mırıldandı. "Tanrım, Colin, haklıymışsın."
+
+Fraser'ın dişleri dudaklarından çekildi. "Bunu yaptın, ha?"
+
+"Evet. Oğlumun beni hipnotize etmesine izin verdim ve sonrasında bana söylediğin gibi
+hayalperest bir ifadeyle uzaklaştım. Sadece üç saat önce, şahsen
+buraya geldi. Bana askeri gizliliğin
+aptallığı ve Sovyetler Birliği'nin barış ve adaleti nasıl savunduğu hakkında uzun bir gevezelik etti. Umarım etkilenmişimdir; pek de iyi bir oyuncu değilim."
+
+"Olmak zorunda değilsin. Sadece abartma diye söylüyorum. Kennedy'nin kurbanlarından biri için, onun tavsiyesine uymak o kadar doğal ki,
+hayranlık uyandıran bir hayrete gerek yok."
+
+"Ve benden veri istiyordu! Bombardıman kesitleri. Kritik
+değerler. Rezonans seviyeleri. Tanrım, eğer Ruslar bunu casuslar aracılığıyla
+öğrenirse, üç yıllık araştırmadan tasarruf etmiş olurlar. Bu bir FBI
+vakası, tamam."
+
+"Hayır, henüz değil." Fraser elini Sworsky'nin koluna koydu. "Şimdiye kadar
+bana sadık kaldın, Jim. Biraz daha ileri git."
+
+"Ne yapmamı istiyorsun?"
+
+"Neden--" Fraser'ın kahkahası titredi. "Elbette ona istediğini ver."
+
+* * * * *
+
+Kennedy masasından başını kaldırıp kaşlarını çatarak baktı. "Tamam, Fraser," dedi.
+"Lanet olası bir baş belasıydın ve seni tekrar görmek için
+çok sabırlı olmam gerek. Ama bu son kez. Ne istiyordun?"
+
+"Belki de seni son kez görmem gerekecek." Fraser oturmadı. Kennedy'nin karşısında dikildi. "Yeter artık, dostum; "Düzgün."
+
+"Ne demek istiyorsun?" Kennedy'nin eli ziline doğru hareket etti.
+
+"Bir şey yapmadan önce dinle," dedi Fraser sertçe. "Jim Sworsky'yi etkisi altına almaya çalıştığını biliyorum. Ondan çok gizli
+veriler istedin. Birkaç saat önce, sana getirdiği dosyayı Bryce'a verdin,
+şüphesiz şu anda Amtorg ofislerindedir. Bu büyük bir ihanettir,
+Kennedy; bunu yapan insanları idam ederler."
+
+Psikolog geriye yaslandı.
+
+"Zorba çocuklarının benden kurtulmasını sağlamaya çalışma," dedi Fraser. "Sworsky
+telefonun başında oturuyor, FBI'ı aramayı bekliyor. Onu durdurabilecek tek kişi benim."
+
+"Ama--" Kennedy'nin dili dudaklarında dolaştı. "Ama kendisi ihanet etti.
+Bana kağıtları verdi!"
+
+Fraser sırıttı. "Bunların gerçek olduğunu düşünmüyorsun, değil mi? Sovyetler Birliği'nde de çok popüler olacağınızdan şüpheliyim, çünkü
+verilerinizi kullanarak makineler
+yapmaya çalıştılar."
+
+Kennedy yere baktı. "Bunu nasıl yaptın?" diye fısıldadı.
+
+"Ferris'i hatırlıyor musun? Bana ayarladığın adam?
+Komşunun, Messenger Reklamcılık Servisi'nin bir hissesine sahip. Ona önemli bir iş yapmak için bir ofise ihtiyaç duyduğunu
+söyledim, sadece
+nerede olduğumun gizli olması gerekiyordu. Messenger ekibi kimsenin haberi olmadan
+taşındı. Bir gece kendimi oraya yerleştirdim, ayrıca basit bir
+elektrikli osilatör.
+
+"Ensefalografi çok hassas bir iştir; birkaç milyona kadar
+amplifikasyon içerir. Cihaza sert bir bakış atarsanız kötü davranır.
+Doğal olarak, laboratuvarınız ve makine çok fazla korumalıydı, ancak buna rağmen,
+yan taraftaki bir radyo vericisi sizi kesinlikle şaşırtacaktır. Benim asıl
+sorunum sizi birazcık mahvetmekti, sizi herhangi bir şeyden şüphelendirecek kadar değil.
+
+"Ben sadece Sworsky ile kalibrasyon seanslarınız sırasında bununla uğraştım. Sen ona
+ışığı çevirdiğinde orada olmak zorunda değildim, çünkü
+yanlış verilerden hesaplanacaktı ve onun
+kalıbından o kadar uzak olacaktı ki
+hiçbir etkisi olmayacaktı. Bana ne kadar hassas bir ayarlamanın
+gerektiğini kendin söyledin. O zaman Sworsky de oyuna katıldı. Şimdi kanıtımız var--insan hayatlarına
+karıştığın değil, bir casus olduğun."
+
+Kennedy kıpırdamadan oturdu. Sesi kırık bir mırıldanmaydı. "Dünyayı
+değiştirecektim. Tüm insanlık için umutlarım vardı. Ve sen,
+bir kadın uğruna--"
+
+"Mesih kompleksi olan hiç kimseye güvenmedim. Dünya tek başına
+değiştirilemeyecek kadar büyük; sen onu olduğundan daha
+kötü bir şekilde becerirdin. Birçok diktatör reformcu olarak başladı ve
+toplu infazcılar olarak son buldu; sen de aynısını yapardın."
+
+Fraser masasının üzerine eğildi. "Ancak bir anlaşma yapmaya hazırım," diye devam etti. "Dişlerin çekildi; seni ihbar etmenin bir anlamı yok.
+Sworsky, Martinez ve ben sadece Bryce hakkında rapor vermeye ve
+tüm konularını geri değiştirirsen seni serbest bırakmaya hazırız. Dosyalarını okuyacağız ve bunu yapmanı izleyeceğiz. Herkes."
+
+Kennedy dudağını ısırdı. "Ve makine--?"
+
+"Bilmiyorum. Bunu daha sonra hallederiz. Tamam, Tanrım, işte Judy Harkness'ın
+telefon numarası. Özel bir muamele için ona gelmesini söyle. Hemen."
+
+* * * * *
+
+Bir ay sonra gazetelerde, Gavotti'nin kafa karıştırıcı makinesinin incelendiği Columbia Üniversitesi laboratuvarlarına
+konuşarak giren ve bir çekiç
+çıkarıp durdurulamadan
+parçalayan makul bir manyakla ilgili bir hikaye vardı. Hapishaneye götürülen adam, hücresinde
+intihar etti. Adı Kennedy'ydi.
+
+Fraser belirsiz bir pişmanlık duydu, ancak bunu unutması uzun sürmedi; düğünü için planlar yapmakla
+çok meşguldü.
+
+SON
+
+* * * * *
+
+Yazar Notları:
+
+Bu e-metin, 1953 Bilimkurgu Hikayeleri'nden üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının
+yenilendiğine dair hiçbir kanıt ortaya çıkarmadı.
+
+Açık noktalama hataları düzeltildi.
+
+sayfa 17 orijinal: şöminenin üzerinde: orta yaşlı bir kadın ve iki genç
+
+erkek
+
+yerine: şöminenin üzerinde şömine rafı: orta yaşlı bir kadın ve iki genç adam
+
+sayfa 20 orijinal: nefret, korku ve tiksinti tepkilerinize karşılık gelen dürtüler
+
+yerine koyma: nefret, korku ve tiksinti tepkilerinize karşılık gelen dürtüler
+
+sayfa 25 orijinal: Başka bir kadın mı? Yoksa sadece,
+yapay olarak, aksi takdirde tahammül edilemez bir durumla uzlaştırılmak mı?
+
+yerine koyma: Başka bir kadın mı? Yoksa sadece,
+yapay olarak, aksi takdirde tahammül edilemez bir durumla uzlaştırılmak mı?
+
+sayfa 26 orijinal: "Sanırım, olabileceğimiz kadar eşit," dedi
+Fraser.
+
+"Eh, ilgilendim," dedi Fraser.
+
+"Keşke bana güvenseydin," dedi Kennedy, bir parça hüzünle.
+"İşi dürüstçe yapardım; izlemek zorunda kalmazdın."
+
+yerine koyma: "Sanırım, olabileceğimiz kadar eşit," dedi Fraser.
+
+"Keşke bana güvenseydin," dedi Kennedy, biraz hüzünlü bir ifadeyle.
+"İşi dürüstçe yapardım; izlemek zorunda kalmazdın."
+
+"Eh, ilgilenmiştim," dedi Fraser.
+
+sayfa 29 orijinal: "Bilmiyorum. Bunu daha sonra hallederiz. Tamam,
+Tanrım, işte telefon numarası
+
+yerine: "Bilmiyorum. Bunu daha sonra hallederiz. Tamam, Tanrım,
+işte telefon numarası (10. sayfada tire kullanılmamış)
+
+Project Gutenberg's Sentiment, Inc.'in sonu, Poul William Anderson
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SENTIMENT, INC. ***
+
+***** This file should be named 37653.txt or 37653.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/6/5/37653/
+
+Produced by Greg Weeks, Dianna Adair and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
