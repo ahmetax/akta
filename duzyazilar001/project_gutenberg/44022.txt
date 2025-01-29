@@ -1,0 +1,1484 @@
+*** START OF AKTAHEADER ***
+Başlık: On the Development and Distribution of Primitive Locks and Keys (İlkel Kilit ve Anahtarların Gelişimi ve Dağıtımı Üzerine)
+Yazar: Augustus Pitt-Rivers
+Yayın Tarihi: October 25, 2013 [EBook #44022]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/44022
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: tarih
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of On the Development and Distribution of
+Primitive Locks and Keys, by Augustus Pitt-Rivers
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On the Development and Distribution of Primitive Locks and Keys
+
+Author: Augustus Pitt-Rivers
+
+Release Date: October 25, 2013 [EBook #44022]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRIMITIVE LOCKS AND KEYS ***
+
+*** START OF TURKISH PART ***
+Chris Curnow ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu dosya The Internet Archive tarafından cömertçe sağlanan
+resimlerden üretilmiştir)
+
+Yazıcının Notu: Küçük tipografik hatalar not alınmadan
+düzeltilmiştir. Metindeki düzensizlikler ve tutarsızlıklar
+basıldığı haliyle korunmuştur. İtalik olarak basılan kelimeler alt çizgilerle belirtilmiştir: _italik_.
+
+İLKEL KİLİT VE ANAHTARLARIN GELİŞİMİ VE DAĞITIMI HAKKINDA.
+
+YÜZBAŞI
+PITT-RIVERS, F.R.S.
+
+_PITT-RIVERS KOLEKSİYONUNDAKİ ÖRNEKLERLE RESİMLENDİRİLMİŞTİR._
+
+[_Bu makalenin materyalleri, Müzenin geri kalanıyla birlikte,
+1851 yılından beri Koleksiyonda yer almaktadır ve
+resimlenen örneklerin bazıları Bethnal Green ve South Kensington'da birkaç yıldır halka sergilenmektedir._]
+
+LONDRA:
+CHATTO VE WINDUS, PICCADILLY.
+
+1883.
+
+LONDRA:
+HARRISON VE SONS, MAJESTELERİNE ORJİNAL MATBAACILAR,
+ST. MARTIN'S LANE.
+
+İLKEL KİLİTLERİN VE ANAHTARLARIN GELİŞİMİ VE DAĞITIMI HAKKINDA.
+
+Kilit ve Anahtarlar için kelimelerin etimolojisi:--"Klu", Greko-İtalyanca kökenli,
+kilitlemek (FICK), Sanskritçe "Klu"dan, hareket ettirmek (BENFEY ve MONIER
+WILLIAMS); "Klavi", anahtar (FICK); "[Yunanca: kleis]," Yunanca, bir anahtar;
+"[Yunanca: kleistron]," Yunanca, bir sürgü veya çubuk; "Claustrum", Latince, bir
+kilit, çubuk veya sürgü; "Claudo", Latince, kapatmak veya kapamak; "Clausum", Latince, kapalı bir alan; "Clausura", Latince, bir kale; "Clavis", Latince, bir anahtar; "Clavus", Latince, bir çivi; "Clef", Fransızca, bir anahtar; "Clou", Fransızca, bir çivi; "Clo", Galce, bir çivi, pim veya çivi; "Clo", İrlandaca, bir
+çivi veya pim; "Glas", İrlandaca, bir kilit; "Clo", Galce, bir kilit; "Clar", Bourguignon, bir anahtar; "Clau", Fransız taşra kelimesi, bir anahtar; "Clav", eski
+İspanyolca, bir anahtar; "Chiave", İtalyanca, bir anahtar; "Chave", Portekizce, bir anahtar;
+"Close", İngilizce, kapatmak. Aynı kökten, "Klu", hareket etmek, "Sklu" (SKEAT) gelir, ayrıca "Sklu" (SKEAT) gelir, bundan da kapatmak anlamına gelen
+Teutonic "Slut", ve oradan da bir kilit ve ayrıca bir kale olan
+Felemenkçe "Slot", "Sluiten"den türemiştir; kapatmak anlamına gelen eski Frizce "Slot", "Sluta"dan;
+Aşağı Almanca "Slot". Böylece aynı zamanda İngiliz taşra kelimesi "Slot", bir
+cıvata; "Schloss", Almanca, bir kilit ve ayrıca bir kale; "Schluessel,"
+Almanca, bir anahtar. Latince "Sero"dan, "Sera", Latince, hareketli bir çubuk veya sürgü; "Serrure", Fransızca, bir kilit; "Serratura", İtalyanca,
+bir kilit. Fransızca "Verrou" kelimesi, bir sürgü; Wallon "Verou" veya "Ferou;"
+Bourguignon "Varullo;" İl "Verroth," "Berroth," ve "Ferroth;"
+Portekizce "Ferrolho." "f" harfindeki biçimler, Latince "ferrum", demir kelimesinden türemiş gibi görünüyor. İngilizce "Lock" kelimesi, "Luck", yani kilitlemek (FICK) kelimesinden türemiştir; "Loc,"
+Anglosakson, bir kilit; "Lock", Frizce, bir kilit; "Lukke", Danca, bir kilit;
+"Loca", İzlandaca, bir kilit veya mandal veya bir sandığın kapağı; "Lock", İsveççe, bir kapak; "Loke", Valonca; "Luycke", Flamanca; "Loquet", Fransızca, bir
+tutturma. Erken İngilizcede "loke" (SKEAT) olarak telaffuz ediliyordu. İngilizce
+"Latch" kelimesi muhtemelen Danca "Laas", bir kilit; "Las", İsveççe, bir kilit; "Luchetto", İtalyanca, bir mandal ile aynıdır. SKEAT, bunu Anglosaksonca "loeccan", ele geçirmek kelimesinden türetmiştir; Erken İngilizcede "Lacche" olarak telaffuz edilirdi ve bunun bir tuzak olan
+Latince "Laqueus" kelimesinden türetilmiş olma olasılığını öne sürer, ancak bu şüphelidir.
+"Hasp", İngilizce, Cermen kökü olan "Hapsa"dan türetilmiştir; "Haepsa", Anglosaksonca; "Hespa", İzlandaca; "Haspe", Danca; "Haspe", İsveççe;
+"Haspe", Almanca. "Hasp" için Fransızca kelime olan "Moraillon", belirsiz bir kökene sahiptir, ancak LITTRE, bunun taşradaki "Mor", bir ağızlıktan, muhtemelen Fransızca "Mors", bir parça kelimesinden türediğini varsayar;
+"Morsum", Latince, bir parça veya küçük bir parça; "Morsus", Latince, bir ısırık, ayrıca İngilizce "Muzzle" ve "Nozzle", hepsi aynı
+kökten türemiştir. "Clef benarde", borulu (foree) (HAMILTON ve LEGROS) veya oluklu olmayan ve her iki taraftan açılabilen bir anahtardır, eski Fransızcada aptal anlamına gelen "Bernard"dan gelir,
+bu nedenle "clef bernarde" veya "benarde" daha düşük bir anahtar türüdür
+(LITTRE). İngilizce "Key" kelimesi, "g"nin "y"ye dönüştürülmesiyle Anglosakson "Caeg" kelimesinden türetilmiştir; eski Frizce "Kai" ve "Kei". Günümüzde mekanizmanın en ilkel biçimine uygulanan ve muhtemelen diğerlerinin de kökenini aldığı İngilizce "Bolt" kelimesi, bir mancınık olan Anglosakson "Bolt" kelimesinden türetilmiş gibi görünüyor. Böylece, bir demir pim olan Danca "Bolt"; bir cıvata veya pim olan Felemenkçe "Bout"; "Bolz", Almancadır ve mancınıkla kullanılan cıvata veya oka benzemesinden dolayı benimsenmiş gibi görünmektedir. CRABB ('Teknik Sanat ve Bilim Sözlüğü'), bunun Latince "Pello", sürmek ve Yunanca "Ballo", atmak kelimelerinden geldiğini ve bu nedenle bir kapı cıvatası veya bir kuş cıvatası gibi atış yapan herhangi bir şeye uygulandığını düşünürken, SKEAT ise bunun yuvarlaklığından dolayı "bolster" gibi adlandırıldığını varsaymaktadır.
+
+"Asma kilit" kelimesi konumuzla ilgili olarak önemlidir. Bu tür kilitler özellikle sepet ve eyer çantaları için bir bağlantı elemanı olarak uygundur; asılı bir kilit olduğundan, sabit bir kilitten daha az darbelerden kaynaklanan yaralanmalara maruz kalır ve günümüzde seyahat amaçlı olarak tercih edilir. "Pad" kelimesi, "Pannier" (HALLIWELL ve SKEAT) için kullanılan bir Norfolk taşra kelimesidir. Erken seyahat biçimleriyle ilgili tüm sözcüklerde asılıdır, bu nedenle, at sırtında bir sepet taşımak için doldurulmuş bir eyer olan "Pad"; yol atı olan "Pad-nag"; ana yoldaki bir hırsız olan "Pad"; Felemenkçe bir yol olan "Paeth", Anglosaksonca bir yol; Almanca bir yol olan "Pfad", bu son İngilizce sözcük de pad ile aynı köktendir; at sırtında taşınan bir çanta olan "Pod"; seyyar satıcı olan "Pedlar". Bu nedenle "Padlock" sözcüğü "Yol kilidi" anlamına gelir ve bu, benzer formdaki asma kilitlerin erken dönemlerde geniş alanlara nasıl dağıtılmış olabileceğiyle ilgili olarak önemlidir. Fransızca "Cadenas" sözcüğü, bir asma kilit, Latince bir zincir olan "Catena"dan gelir ve bağlantı açıktır; İtalyanca "Catenaccio"; "Candado"
+ve "Cadena", İspanyolca; "Cadenat", Fransızca taşra; Berry "Chadaine", bir kordon; Picard "Cagne" ve "Caine"; dolayısıyla Fransızca "Chaine" ve İngilizce "Chain" kelimeleri de buradan gelir.
+
+Bundan, benzer durumlarda her zamanki gibi, kelimelerin kendi hatlarını takip ettiğini ve uygulandıkları nesnelerin biçimlerine dair çok az kanıt sağladığını görüyoruz; ancak, kilit ve pim için kullanılan yaygın "Klu" veya "Clo" kelimesi ve hareket etmek için kullanılan "Klu" tabanıyla bağlantısı, en eski biçimin hareketli bir cıvatadan oluştuğunu ima ediyor. Ancak, her durumda, ister koymak anlamına gelen Latince "Sero" kelimesini, ister hareket etmek anlamına gelen Sanskritçe "Klu" kelimesini, kilitler için bağımsız
+köken olarak alalım, bir kapıyı kapatmak için
+zımbaların arasından geçirilen veya takılan basit bir çubuk veya sürgüden oluşan bir zamana geri götürülürüz. Yunan kapı kilitlerinin yapımıyla ilgili olarak sıklıkla alıntılanan 'Odysseia'daki pasaj, arkeolojik keşiflerden yardım almadığı sürece konuya pek fazla ışık tutmaz. Çeşitli şekillerde tercüme edilmiştir[1] ve
+eski eser koleksiyonlarımızda kalıntıları bulunanlardan önce gelen en ilkel kilit türlerinin formları için çok fazla varsayımda bulunmak zorunda kalıyoruz. Ancak, metal kapı kilitleriyle bağlantılı en eski aparat kalıntılarının, keşfedilen anahtarlardan oluşması dikkat çekicidir; bu da, kilitlerin kendilerinin tahtadan yapılmış olabileceği ve bu nedenle yok olmuş olabileceği sonucuna varılmasına yol açar. Ancak, şu anda farklı ülkelerde kullanılan ilkel ahşap kilitlerin kalıntılarına sahibiz ve bunlar, büyük olasılıkla, anahtarların hangi amaçlarla kullanıldığını bize gösteriyor ve mekanizmanın başlangıcından itibaren geçmişini izlemek için herhangi bir girişimde bulunmamız gerekenler bunlardır. Süreç, 
+değerleri ve dezavantajları çok sık tartışıldığı için burada yorum yapmaya gerek kalmayacak şekilde bir süreçtir. Doğrudan arkeolojik kanıtların yokluğunda, mümkün olduğunca hayatta kalanlardan yararlanmaktan başka alternatifimiz yoktur.
+Ancak, kilitler söz konusu olduğunda malzemeler o kadar bol ki,
+eksik bulunan bağlantıları doldurmak için hayal gücümüzü gereksiz yere zorlamamıza gerek kalmayacaktır.
+
+[1] 'Odyssey', xxi., 46-50. POPE ve BUTCHER ve LANG'ın çevirilerine bakın. Bay SYER CUMING'in gözlemlediği gibi ('Journal of the British Archaeological Association', cilt xii., s. 117)
+çadırlarda yaşayanlar tarafından kullanılan bağlantı elemanlarını oluşturmuş olması gereken düğümler ve iplerle ilgili tüm sözleri bir kenara bırakıyorum ve Gordion düğümü bunların karmaşık bir örneğiydi. Erken dönemlerde mühürler sıklıkla kilitlerin yerine kullanılmış olmalı, bildiğimiz gibi
+eski Mısır ve Asur'da sıklıkla böyleydi. Ahşap kapı tamamen farklı bir
+düzeneğe yol açmış olmalı. Ancak,
+Resim 1, Levha I'de gösterilen Japon kitap tutturma sistemine benzer bir şeyin her iki sistemde de kullanılmış olması mümkündür.
+
+Kapıyı içeriden tutturmak için kullanılan tahta veya demir çubuk hakkında pek bir şey söylenemez, ayrıca
+ortak kapı sürgüsüne bir başlangıç ​​yapmakta da zorluk çekmiyoruz.
+Resim 2 ve 3, Levha I,
+Avusturya'daki Gastein'da ahırlarda ve müştemilatlarda kullanılan ahşap bir sürgünün iç görünümünü ve kesitini temsil ediyor ve çoğu ülkede artık metalden yapılan birçok sıradan cihaz gibi, tamamen ahşaptan yapılmış ve toplumun en ilkel durumunda bile kullanılmış olabilecek bir sürgü. Dışarıdan açılması amaçlanmıştır, burada düz dikdörtgen bir tahta parçasından oluşan sap (şekil 3, _a_, Levha I.), bir tahta boyun vasıtasıyla içerideki _b_ sürgüsüne bağlanır ve kapıyı sabitlemek için içeri itildiğinde, boyun noktalı çizgiyle gösterilen kapıdaki bir yarık boyunca hareket eder, şekil 2, _c c_, Levha I. Böyle bir sürgü elbette içeriden veya dışarıdan herhangi biri tarafından açılabilir ve kapalıyken yerinde güvenli bir şekilde tutmak için içeride hiçbir sabitleme olmadığından, kolu yakalayabilen herhangi bir şey tarafından yanlışlıkla zorla açılma olasılığı daha da güvensizdir. Bu son kusuru gidermek için en basit düzenek, kapı açıkken bir zımbaya tutturulmuş bir iple asılı bırakılabilecek bir mandal veya pimi cıvataya yerleştirmek ve cıvata takıldığında, cıvatanın içinden geçtiği dik kılavuz veya zımbanın önündeki cıvatanın tepesindeki bir deliğe dikey olarak yerleştirmek olacaktır, Şekil 4 ve 5, Plaka I'de gösterildiği gibi, ve kapıdaki bir delikten dışarıdan erişilebilir. Bu sayede, cıvata kapatıldığında güvenli bir şekilde yerinde tutulacaktır, ancak kapıyı hem açarken hem de kapatırken iki hareket gerekecektir. Kapının açılıp kapanması gibi sıradan bir işlemde zamandan tasarruf etmek için hesaplanmış herhangi bir şey hızla benimsenirdi ve pimi bir sürgüye dikey olarak sabitleyerek, serbestçe düşmesini sağlayarak ve alt ucunu pürüzsüz hale getirerek, sürgü geri çekilirken sürgü üst yüzeyi boyunca kaymasını sağlayarak, kapatıldığında kendi ağırlığıyla sürgüdeki deliğe düşmesi kolayca sağlanabilirdi, Şekil 6, 7, 8, Levha I'de gösterildiği gibi; ilkinde açık, Şekil 7'de ise kapalı olarak gösterilmiştir, pim delikte aşağıda olacak şekilde, böylece pim kaldırılıncaya kadar geri çekilmesini önler, bu da kapıda bir delik vasıtasıyla dışarıdan yapılabilir, ipin geçmesi sağlanabilir, Şekil 1'de gösterildiği gibi. 8. Bu
+düzenek sayesinde, sürgüyü güvenli bir şekilde kapatmak için yalnızca bir hareket yeterli olacaktır ve ayrıca içeriye de yerleştirilebilir; ancak tekrar açmak için
+daha önce olduğu gibi iki hareket gerekecektir. Ancak yine de, bağlantı herkes tarafından erişilebilir olurdu ve mülkiyetin her zaman güvensiz olduğu bir toplum koşulunda, yalnızca sahibinin yanında taşıyabileceği ve böylece tarlalarda veya av alanlarında olmadığında mallarını ve eşyalarını güvence altına alabileceği bir anahtar kullanılarak geri çekilebilen bir sürgü yapmak büyük bir ihtiyaç haline gelirdi. Günlük yaşamın bu kadar gerekli bir gereksinimi, insanlığın büyük bir kısmının dikkatini çekmiş olmalı ve bu nedenle, kilidin gelişiminin bu aşamasının, üç ayrı gelişme dalının üçe ayrılma noktasını oluşturması şaşırtıcı değildir. Bunlardan ikisi, sürgülü kilitlerin doğasındadır ve sürgüyü, üst yüzeyinde kendileri için sağlanan deliklere düştüklerinde sabitleyen pimi veya pimleri kaldırmak için kullanılan bir cihazdan oluşur. Bu nedenle bunlara _tumblers_ denildi, çünkü kilit kapatıldığında deliklere yuvarlanıyorlar. Üçüncü dal başka bir yöne doğru gidiyordu.
+
+Zihnin süreklilik çizgilerinden sapmaması için, bu üç dalın her birini ayrı ayrı ele alırken, bunları diyagramlarda A, B ve C olarak sınıflandıracağım, aynı zamanda rakamların sayılarının bu
+başlangıç ​​noktasından itibaren sürekli olarak devam etmesine izin vereceğim. Bu sayede, bu mekanizmanın, bu makalelerin ilişkili olduğu tüm benzer düzenekler gibi, karmaşıklıkları arttıkça ayrıldığı sonuçları en iyi şekilde gösterebileceğim.
+
+Ortak kapı sürgüsü (Şekil 2 ve 3, Levha I.) kapıları sabitlemek için daha karmaşık düzeneklere ek olarak iç bağlantı elemanı olarak kullanılmaya devam etmiş olup, günümüze kadar evrensel olarak kullanılmaya devam etmiştir ve doğası gereği, çevrelerine asla uyumsuz olmamış, ardışık jeolojik dönemler boyunca varlığını sürdürmüş fosil türlere benzetilebilirken, Şekil 4 ila 8, Levha I.'de temsil edilen formlar, geçici çözümler olduklarından, yerlerini aldıkları anda ortadan kaybolmuşlardır ve bu nedenle gelişimsel serimizin "eksik halkalarını" oluştururlar. Şu anda ele aldığımız kilit aşamasındaki iki büyük arzu, güvenlik ve hızdı; her ikisi de ilkel ev sahibinin kapısının eşiğinden her geçişinde dikkatini çekmiş olmalı. Sadece güvenliğin amaçlandığı görünen A şubesiyle başlayacağım ve sonra
+güvenlik ve hızın birleştirildiği şubelere geçeceğim. Aklıma gelen ilk fikir, bir kutuya bir sürgü koymaktı, böylece hiç kimse
+kutuya girip onu kaldırmak için özel olarak uyarlanmış bir anahtar olmadan
+tumbler'ı kaldıramazdı, ancak yalnızca bir sürgü kullanıldığı sürece
+deliğe sokulabilecek herhangi bir sivri uçlu aletle sürgüyü kaldırarak böyle bir kilidi açmak çok kolay olmalıydı. İki adet mandal kullanarak, çentiklere veya deliklere uyacak şekilde çıkıntılar veya dişlerle yapılmış bir anahtar dışında, ikisini birden kaldırmak imkansız olurdu; bu dişlerin çentiklerle aynı mesafede olması gerekir ve mandallar kutunun içinde saklı olduğundan, bu düzenekle tanışmamış olan hiç kimse kilide uyacak bir anahtar yapamazdı; bu sayede kilide bir dereceye kadar gerekli olan güvenlik sağlanmış olurdu. İskandinavya, bu tür kilitlerin merkezi gibi görünüyor veya en azından şu anda esas olarak hayatta kaldıkları dünya parçası; bunların en basitlerinden biri, Faroe Adaları'ndan alınan Şekil 9A, 10A ve 11A, Levha I'de gösterilmiştir. _e_, cıvata _a_ için yatay bir oluğun kesildiği tahta blok ve pimlerin veya
+tumblers'ların, _d d_, oynadığı ve cıvata kapatıldığında kendiliğinden _f f_ deliklerine düştüğü iki dikey oluktur. Anahtar, _c_, blokta cıvata için olanın üstünde ve paralelinde kesilmiş başka bir oluğa yatay olarak geçirilir. Anahtarın geçmesini sağlamak için mandallarda iki çentik açılır ve yatay olarak
+gittiği kadar bastırıldığında, anahtarın dişleri, _b b_, mandallardaki çentiklerle tam olarak çakışır, böylece anahtar daha sonra dikey olarak kaldırıldığında, mandalları çentikler aracılığıyla cıvatanın üst yüzeyindeki deliklerden, _f f_, dışarı kaldırır ve mandal daha sonra elle çekilebilir. Bu kilidin, mandal kadar çok hareket gerektirdiği görülecektir (Şekil 6, 7 ve 8, Tablo I.). İki mandal deliklere düştüğünde kapatmak için yalnızca bir hareket gerekir, ancak açmak için iki elin kullanılması gerekir, biri anahtarı kaldırmak için diğeri de cıvatayı çıkarmak için. Bu nedenle, ayırt edici özelliği olarak elle çekilmiş kilit olarak adlandırılabilir. Bu işlemle zamandan tasarruf edilmez, ancak kilit, artık buna sürgü yerine denmeye başlamalıyız, daha güvenli hale getirilir. Bu kilitlerin farklı türleri, ancak hepsi aynı prensipte, İskoçya'nın ücra köşelerinde kullanılmaktadır. Şekil 12A ila 17A, Levha I, sonuncusuna benzer ancak çentiklerin şeklinde hafif bir fark olan, Güney Kensington'daki Patent Müzesi'nde bulunan bir İskoç ahşap kilididir, bunun bir kopyası koleksiyonumdadır. Şekil 18A ila 22A, Levha II, yine Patent Müzesi'nde bulunan bir başkasıdır, burada da bölümlerde gösterildiği gibi, iki yerine üç mandal aynı anahtarla kaldırılmıştır, Şekil 21A ve 22A, Levha II. İskoçya Antikacılar Derneği'nin 2. cildi Yeni Seri'de
+İskoç kilitleri hakkında bir makale yazan Bay ROMILLY ALLEN, aynı sınıftan birkaç tane daha olduğunu söylüyor. Kuzey Ronaldsay'dan olan birinde sıralı dört kilit var; Faroe Adaları'ndan olan birinde sıralı üç kilit var; Skye'daki Snizort'tan olan bir diğerinde birbirinden bağımsız çalışan ancak aynı anahtarla kaldırılan altı kilit var ve
+sadece aralarındaki sürgüyle yüz yüze konulmuş iki sıradan kilitten oluşuyor; Harris'ten olan bir diğerinin yapısı daha da karmaşık ve tamamında iki delik bulunan sıralı beş kilitten oluşuyor ve anahtarın her delik sırası için bir tane olmak üzere iki kolu var.
+
+Bu kilitlerin hepsini ayrıntılı olarak anlatmam şu anki amacım için gereksiz. Karakterleri farklı olsa da hepsi tek bir ilkeye göre inşa edilmiş. Metaldeki daha karmaşık düzeneklerde olduğu gibi, bundan sonra fark edileceği üzere, çeşitlilik bir güvenlik unsurudur, çeşitlilik ne kadar büyükse, hepsine uyan bir anahtar yapmak o kadar zor olur; ve bu, sanat süreçlerinin doğa süreçlerine benzediği bir başka noktadır, çeşitlilik mekanizmayı daha geniş bir fayda alanına uyarlar ve değişimi teşvik ederek gelişmeyi destekler. Birinde olduğu gibi diğerinde de çeşitlilik gerekli bir ilerleme unsurudur.
+
+Bu kilit sınıfının İskoçya veya İskandinavya ile sınırlı olduğunu varsaymak için hiçbir neden göremiyorum. Muhtemelen Avrupa'nın diğer bölgelerinde de var olmuş olabilirler, burada tamamen ahşaptan yapılmış oldukları için çoktan çürümüşlerdir ve temsilleri yalnızca medeniyetin dış kesimlerinde hayatta kalmış olabilir. Coğrafi dağılım yasası
+kaçınılmazdır--hiçbir şey İskoçya'nın Kuzeyini, Norveç'i veya İrlanda'nın Batısını sanat merkezleri haline getiremez ve ilkel düzeneklerin varlığını bu yerlerde aramalıyız. Burada tanımlananlara tam olarak benzeyen, ancak demirden yapılmış bir anahtar, Gloucester yakınlarında Roma kalıntılarıyla
+bulundu ve LYSONS'UN 'Magna Britannia', cilt ii., Levha 11'de tasvir edilmiştir ve bu tür bir ahşap kilidin o dönemde İngiltere'de
+kullanılmış olması gerektiğini göstermektedir. Şekil 23A ila 25A, Levha II., Norveç'te kullanılan benzer bir kilittir ve benim tarafımdan Stockholm'deki Hazilius Müzesi'ndeki bir örnekten kopyalanmıştır.[2] Şekil 26 ila 28A, Levha II., Kew Bahçeleri Müzesi'ndeki bir diğer kilittir ve Sir JOSEPH HOOKER'ın izniyle kopyalanmıştır; Jamaika'daki zenciler tarafından yapılmıştır. Şekil 29A ila
+31A, Levha II., CHRISTY
+Koleksiyonunda Britanya Guyanası'ndan benzer bir tanesidir. Batı Hint Adaları'ndaki bu kilitlerin varlığı, bunların zenci tarafından Afrika evlerinden taşınmış olabileceğini ve bunlara genellikle atfedilen, neredeyse aynı prensiple inşa edilmiş Mısır ahşap kilidine benzerliğin, Batı Hint Adaları'na bu şekilde geçmiş olabileceği sonucuna varılmasına yol açabilir; ancak bundan sonra bunların Mısır pimli kilitlerinden ayrıntılı olarak farklı olduğu görülecektir. Bunlar İskoç veya İskandinav tipindedir ve büyük olasılıkla Yeni Dünya'ya zenci değil İskoçlar tarafından ithal edilmiştir.
+
+[2] Bay JOHN CHUBB, 9 Nisan 1850'de İnşaat Mühendisleri Kurumu'nda okunan bir makalede, L. MOLINUS'un "De Clavibus veterum" adlı eserinden alıntı yapar; ancak tarihi belirtilmemiştir; yazar, anahtar kullanımının kendi zamanında İsveç'in birçok yerinde hala bilinmediğini belirtmektedir.
+
+Şimdi, Sınıf B'nin kökenini ve gelişimini izlemek için, tek pimli veya mandallı cıvatayı temsil eden Şekil 6 ve 7, Plaka I'e geri dönmek gerekiyor. İskandinavya'da ve Avrupa'nın kuzeyinde, anahtar, elle çizilmiş kilidin önceki örneklerinde gösterildiği gibi, mandalların üst kısmına, mandalın üstüne uygulanıyordu; Mısır, Asya ve muhtemelen Avrupa'nın bazı bölgelerinde de, hızı güvenlikle birleştiren başka bir sistem tanıtıldı. Tek dişli bir anahtar, mandalın altına yerleştirildi ve diş dikey olarak kaldırılıp mandalın alt ucuna uygulanarak, mandal delikten dışarı bastırıldı ve mandaldan uzağa kaldırıldı ve delikteki yerini işgal eden diş, anahtarın kendisinin mandalı geri kancalaması sağlandı, böylece tüm işlem tek elle anahtarı tutarak gerçekleştirildi. Şekil 9B, Levha II., elle çekilen bir
+kilitten farklı olarak anahtarla çekilen olarak adlandırılabilecek bu tür bir kilidi temsil eder. Avrupa'nın kuzeyindeki silindir kilitlerde olduğu gibi, güneydeki türde de güvenlik, silindir sayısını çoğaltarak ve konumlarını değiştirerek elde edilirdi. Şekil 10 ila 12B, Levha II., Mısır'da benim tarafımdan elde edilen, şu anda orada yaygın olarak kullanılan türden bir ahşap pim kilidi ve anahtarın çizimleridir. Sıralı iki silindiri vardır. Şekil 10B'de kilit, içinde anahtar, A, ve silindirler kaldırılmış olarak, sürgüyü çekmeye hazırlık olarak
+temsil edilir. Şekil 11B anahtardır ve şekil 12B'de kilit, silindirler aşağıda ve anahtar kilitten çekilmeye hazırlık olarak
+indirilmiş olarak gösterilir. Bay ROMILLY ALLEN, daha önce bahsi geçen makalede,
+İran'da elde ettiği tam olarak benzer bir kilidin örneğini veriyor. Şekil 13B ve 14B, Levha III., Sir DOUGLAS FORSYTH tarafından Yarkand'da elde edilen ve bir kopyası
+benim koleksiyonumda bulunan Hindistan Müzesi'ndeki tam olarak benzer bir kilidi gösteriyor. Bu tür kilitler Türkiye'de de kullanılıyor; burada bahsedilen bölgedeki kimlikleri, birbirlerinden kopyalanmış olduklarına dair hiçbir şüphe bırakmayacak şekildedir ve
+daha sonra bir şeyler söylenecek olan
+yayılım alanlarını gösterir.
+
+Bu pim kilidinin eski Mısırlılar tarafından bilinip bilinmediği şüpheli görünüyor. RHIND[3], eski bir Mısır mezarının iç kısmındaki bir kapıda bir tane keşfettiğini belirtiyor, ancak metinde verilen
+tanıma göre tarihi şüpheli görünüyor. Mezar, daha sonra değilse bile kesinlikle Roma döneminde açılmıştı. DENON ayrıca
+Carnac Tapınağı'nda bir tane heykel gördüğünü, ancak
+çizimini yapmadığını ve bu tür bir kilidin
+eski Mısır zamanlarında var olduğuna dair kanıtın kesinlikle doğrulanması gerektiğini söylüyor.[4] Sir
+GARDNER WILKINSON, pimli kilitle birlikte kullanılabilecek pimlere sahip bir anahtarın en eski örneğinin
+MS 90'da TRAJAN dönemindeki Roma dönemine ait olduğu ve herhangi bir anahtardan
+en erken söz edildiği görüşündedir.
+Hâkimler kitabının üçüncü bölümünde, yani
+M.Ö. 1336'da. [5] Eğer pimli kilit eski Mısır'da kullanılıyorsa, kesinlikle istisnai bir durumdur, çünkü tüm heykeller kapıları basit sürgülerle
+bağlanmış olarak tasvir eder.
+
+[3] A. H. RHIND'in 'Thebes, Mezarları ve Kiracıları',
+F.S.A., Londra, 1862, s. 94.
+
+[4] Bay BONOMI, Khorsabad'daki Saraylardan birinde benzer bir kilit bulduğunu belirtir. Kutsal Yazılarda kilit için kullanılan 'Muftah' kelimesinin, günümüzde Doğu'da aynı şekilde kullanıldığını söyler. ('Nineveh and its Palaces', JOSEPH BONOMI, F.R.S.L.)
+
+[5] WILKINSON'IN 'Antik Mısırlıların Davranışları ve Gelenekleri', cilt i, s. 355. Bu pasajın Hakimler'deki tarihi tartışmaya açıktır. INMAN ('Antik İnançlar', cilt ii., s. 193) Yahudiler arasında kilitlerin en erken tanıtılmasının MÖ 300 civarında olduğunu belirtir.
+
+Modern Mısır kilidi, eski bir Mısır formunun kalıntısı mı yoksa Roma kökenli mi, Avrupa'nın çeşitli yerlerinde bulunan Roma bronz ve demir anahtar ve sürgü kalıntılarından, Roma kilidinin aynı prensiple inşa edildiği kesindir.
+Resim 15B ila 20B, Levha III., bir araya getirildiğinde Roma kilidinin örnekleri olarak alınabilir. Mainz Müzesi'nde saklanan orijinal parçalardan bir reprodüksiyondur.
+Resim 20B bronz anahtardır; değişken mesafelerde olmasının yanı sıra farklı biçimlerde olan dört dişi vardır, bazıları üçgen, diğerleri karedir.
+Resim 19B, anahtara uyması için açıklıklarla yapılmış ve ayrıca şekilde gösterilen benzer şekilde biçimlendirilmiş bardaklara izin veren bronz sürgüsüdür. 18B. Bunların bir araya getirilme şekli, kilit bölümünde, şekil 16B ve 17B'de gösterilmiştir. Anahtar _a_, şekil 15B'deki
+anahtar deliğine _d_ yerleştirilir, noktalı çizgi _a_ ile gösterildiği gibi, dişleri içeren anahtar çubuğu dikey konumdadır.
+Daha sonra döndürülür ve dişler cıvatanın altına getirilir
+_b_. Dikey olarak yukarı bastırıldığında, mandallar cıvatadan yukarı doğru sürülür ve cıvatayı tutan anahtarın dişleriyle değiştirilir, böylece anahtar sağa doğru hareket ettirilerek geri zorlanabilir.
+Cıvata geri çekildiğinde, mandalı _e_ serbest bırakır, şekil 15B. Bu tür mandallardan,
+şekil 21B, koleksiyonumdaki bir orijinalin Hetternheim'da bulunan bir çizimidir. Şekile atıfta bulunarak 16B'de, _f f_'nin dikey olduğu ve bu nedenle Mısır ve İskandinav örneklerindeki gibi cıvatadaki yerlerine düşeceği görülecektir; ancak çok küçük oldukları ve muhtemelen tahtadan yapıldıkları için, yalnızca ağırlığa bağlıysa, ağırlıkları eylemin kesinliğini sağlamak için yeterli olmayacaktır; bu nedenle, bir yayın _g_, 16B ve 17B etkisi altında hareket eden düz bir plaka _h_, 16B ve 17B tarafından aşağı bastırılırlar. Bu önemli bir eklemedir, çünkü yay kullanılır kullanılmaz, _f_'nin yan taraftaki bir yay vasıtasıyla cıvataya yatay olarak kolayca bastırılabileceği ve böylece kilidin ihtiyaç duyulabilecek herhangi bir
+pozisyonda kullanılabilmesinin mümkün olduğu açıktır; ve bazı cıvataların ve _tumblers'ın Roma kilitlerinde bu şekilde inşa edildiği konusunda çok az şüphe var gibi görünüyor. Roma kilitlerinde bir yayın varlığı, M. LIGER'in 'La Ferronnerie' adlı eserinde tasvir edilen, içinde yay bulunan bir yayın keşfiyle belirlenir.[6]
+
+[6] 'La Ferronnerie, Ancienne et Moderne', F. LIGER tarafından,
+Paris, 1875, cilt i., s. 266, şekil 213. Yukarıda anlatılan Roma kilidinin anahtarının dişleri, görülecektir ki, cıvatadaki deliklere tam olarak uyacak şekilde yapılmıştır; ve bu, daha sonraki zamanlarda güvenlik için çokça güvenilen koğuş sistemi hakkında ilk fikri vermeye hizmet etmiş olabilir; ancak aynı yanılgı, genel olarak koğuş sistemine takılan bu uyumlu dişlerin kullanımına da uygulanır, çünkü deliklere girecek kadar küçük ve uygun uzunlukta herhangi bir diş formunun, silindirleri kaldırmak ve cıvatayı çekmek için yeterli olacağı açıktır; ve buna göre, genellikle keşfedilen Roma anahtarında, dişlerin yalnızca yuvarlak pimler olduğunu ve bunlara uyum amacıyla belirli bir form verilmediğini görüyoruz. Bu kilit sınıfının dağılımı, anahtarların ve cıvataların bulunduğu yerlere göre belirlenebilir. Şekil 22B, Levha III, koleksiyonumda bulunan bu tarifte bir bronz cıvatadır, Oppenheim'dan ve benim tarafımdan Mayence'den alınmıştır. Şekil 23B, Levha III.,
+Heddernheim'dan, koleksiyonumda bulunan bir diğer bronz anahtardır. Benzerleri Fransa, İtalya, Almanya, İsviçre ve İngiltere'de tekrar tekrar bulunmuştur. Dişli anahtarlar daha da yaygın olarak
+dağıtılmıştır ve Romalılar tarafından işgal edilen tüm ülkelerde
+bulunmuştur. Şekil 24B, Levha III., koleksiyonumda bulunan bu tarifteki büyük bir demir anahtardır, Ren Nehri'nde, Mayence'de bulunmuştur.
+M. LIGER'e göre dişli bir anahtarın bilinen en eski örneği, M.Ö. 2. yüzyılın sonlarına tarihlenen PAPIA ailesinin bir sikkesinde tasvir edilmiştir.[7]
+
+[7] 'La Ferronnerie', cilt i., s. 261, şekil 208.
+
+Ancak koğuş sistemi, bu kilitlerle bağlantılı olarak ve döner anahtar tanıtılmadan önce daha da gelişmiş gibi görünüyor. Şekil 25B, Levha III., sıklıkla Roma kalıntılarıyla keşfedilen, pimlere dik açıyla bir plakanın tutturulduğu bir anahtar sınıfının örneğidir. Bu plaka, cıvatanın altına dikey olarak yerleştirilen ve yalnızca uygun anahtarın
+kalkıp silindirleri kaldırmasını önleyen çeşitli biçimlerde yarıklarla delinmiştir. Bu anahtarların
+kalktığı yön, anahtarın sapının düz kısmının pimlere dik açıyla ve silindir plakasıyla aynı düzlemde olmasıyla gösterilir.
+
+İçlerinde birkaç silindir deliği olan cıvataların yanı sıra, tek silindirler için uyarlanmış olanlar da keşfedilmiştir. Bunlardan Şekil 26B, Levha III., M. LIGER'in eserinden alınmış ve Compiegne ormanında bulunmuştur, bir örnektir ve Şekil Aynı eserden 27B, Levha III., İsviçre'deki Nonfous'ta (Bonstetten) bulunan, böyle bir cıvataya uyacak şekilde uyarlanmış bir anahtardır.
+
+İngiltere ve Fransa'da başka demir anahtarlar da bulunur, bunların uygulanması daha şüphelidir. Bunlar esas olarak Kelt kalıntılarıyla bağlantılı olarak bulunur ve bazılarına göre içeride basit bir mandalla tutturulmuş kapıları açmak için anahtarlar olduğu varsayılmıştır.[8] Bu tür mandallar kesinlikle en eski kapı tutturma sistemleri arasında kullanılmıştır ve söz konusu anahtarlar onları açma amacına hizmet etmiş olabilir, ancak tek bir tahta mandalla kilitleri açmak için de kullanılmış olabilirler; daha basit olanlar, örneğin 28B, Levha III. olan modern
+açma kilitlerimize biraz benzer. Koleksiyonumdaki 29B, Levha III., Niderolm yakınlarındaki bir Germen-Roma mezarından alınmıştır ve Mayence'de elde edilmiştir; olası kullanımı, Şekil 9B, Levha II'de gösterilen şekilde açıktır. Şekil 30B ve 31B, Levha III, Kent'teki Sarr'da bulunan iki Anglosakson anahtarıdır.[9] Şekil 32B, 33B, Levha III, M. VIDEL tarafından M.S. 3. veya 4. yüzyıla atfedilen Baltık'taki Bornholm'dan gelen Demir Çağı'na ait iki anahtardır.[10] Şekil 34B, Levha IV, Galler'deki Caerwent'ten gelen benzer bir anahtardır.[11] Düz bir sapı vardır ve bir mandalı açmak için
+aşağıya doğru bastırılmaya uyarlanmış gibi görünmektedir. Şekil 35B, 36B, Levha IV, neredeyse benzer olanlardır ve Kent'teki Hartlip'teki Roma Villası'nda keşfedilmiştir.[12]
+
+[8] Aynı eser, s. 320. [9] JOHN BRENT, Av. tarafından yazılan makale, beşinci ciltte
+          'Archaeologia Cantiana', s. 312.
+
+          [10] 'Memoires de la Societe Royale des Antiquaries du
+          Nord,' 1872-77, Levha VIII., şek. 1 ve 2.
+
+          [11] 'Isca Silurum', JOHN E. LEE, F.S.A., Levha XXXVI.,
+          incir. 1.
+
+          [12] C. ROACH SMITH'İN 'Collectanea Antiqua'sı, cilt. ii., Plaka
+          VI., şek. 2 ve 3, s. 20.
+
+İncir. 37B ve 38B, Levha IV., benim tarafımdan
+Musee de Saint Germain'de çekilen çizimlerdendir ve St. Pierre-en-Chastre, Oise'de bulunmuştur;
+diğerleri M. LIGER'in 'La Ferronnerie'sinde tasvir edilmiştir.[13] Şekil 39B, Levha
+IV., British Museum'dadır ve Blandford yakınlarındaki Spettisbury'deki siperlerde bulunmuştur; Müzeye Bay
+J. Y. AKERMAN tarafından sunulmuştur. Şekil 40B ve 41B, Levha IV., iki Lewes yakınlarındaki Mount Caburn Kampı'nın iç kısmındaki
+çukurlarda benim tarafımdan bulundu.[14] Şekil 41B
+büyük boyutta, 8 inç uzunluğunda ve orak şeklindedir. Bu kampta
+keşfedilen tüm nesneler, bunun geç Kelt dönemi; bu kalıntılarla ilişkili
+bulunan kalay paralar, kemik taraklar,
+çömlek ve diğer nesneler Roma fethinden önceki bir döneme aittir.
+Şekil 42B, Levha IV., Bay PARK
+HARRISON tarafından benzer çukurlarda bulunan benzer bir tanesidir Sussex'teki Cissbury'nin komşu kampı,[15], Mount Caburn ile aynı yaştaki insanların
+işgal ettiği gösterilmiştir, yani: geç Kelt dönemi. Bu anahtarların bazılarının, hepsinin demirden olanların ucunda küçük bir
+dönüş veya pim vardır, bu bir deliğe sığacak şekilde uyarlanmıştır ve Cissbury örneğinde bu uç, sanki özel boyutlarda bir
+açıklığa sığmasını sağlayacak şekilde düzleştirilmiştir.
+
+[13] 'La Ferronnerie,' cilt i., s. 320.
+
+[14] 'Archaeologia,' cilt. xlvi., Levha XXIV., "General PITT-RIVERS, F.R.S. tarafından Eylül ve Ekim 1877'de ve Temmuz 1878'de yürütülen Mount Caburn'daki Kazılar."
+
+[15] 'Antropoloji Enstitüsü Dergisi', cilt vii. ,
+s. 425, Levha XI., şekil 12.
+
+Ancak bu eğri anahtarlar hangi amaçla kullanılırsa kullanılsın,
+mandal anahtarları, tekli sürgü pimleri için anahtarlar veya düz demir veya tahta bir sürgüyü geri çekmek için kancalar olarak, Bunlardan bazılarının büyük boyutu, özellikle Caburn'dan olan, şekil 41B ve orak şekli, EUSTATHIUS tarafından verilen ve PARKHURST'S 'Hebrew Lexicon'da alıntılanan bir Yunan anahtarının tanımına
+dikkat çekici bir doğrulukla karşılık gelir. O, bunların "orak şeklinde olduğunu ve el altında taşınmasının
+elverişsiz biçimleri nedeniyle kolay olmadığını, omuzda taşındığını, tıpkı bugün orakçılarımızın oraklarını omuzlarında taşıdıklarını gördüğümüz gibi, "Birleştirilmiş ve birbirine bağlanmış." CALLIMACHUS, CERES'e yazdığı ilahide, tanrıçanın NICIPPE biçimini aldığını,
+rahiplerinin bir anahtar, [Yunanca: katomadios], yani omuzda taşınmaya uygun
+olduğunu söyler.[ 16] Bu, sanırım, İşaya'daki şu pasajı da açıklıyor: "Ve DAVUT'un Evi'nin anahtarını onun omzuna koyacağım; o açacak, ama kimse kapatamayacak; o kapatacak, ama kimse açamayacak."[ 17] Mount Caburn'da benim tarafımdan bulunan numunenin yukarıdaki alıntılarda verilen açıklamayla tam olarak örtüştüğü görülecektir, anahtarın kavisli kısmı 7-1/4 inç çapındadır, bunların bir araya bağlanmış bir demeti tam olarak Şekil 43B, Plaka IV'te gösterildiği gibi omuza uygundur. Bay EVANS ve diğerlerinin araştırmalarından bildiğimiz gibi, Yunanistan'ın madeni paralarının taklitleri Galya ve Britanya'nın her tarafına yayılmış, bunlardan bazıları çok
+aşağılanmış bir biçimde ve kalaydan dökülmüş olarak Caburn'daki kampta orakla birlikte bulunmuştur -şekilli anahtarlar ve diğerleri aynı döneme ait kalıntılarla bağlantılı olarak başka yerlerde bulunmuş olsa da, anahtarların benzer bir rotayı takip etmiş olabileceği varsayımında doğal bir olasılıksızlık yoktur. [18] Daha fazla keşif bu bağlantıyı doğrulamaya yönelirse, 'Odyssey'deki PENELOPE'nin anahtarıyla ilgili bilinen pasajın kesin yorumunu Sussex kıyılarında bulması arkeolojik araştırmanın değerine dair dikkate değer bir tanıklık olacaktır.[19]
+
+[16] Bu pasaj, Bay JOHN CHUBB tarafından 9 Nisan 1850'de İnşaat Mühendisleri Kurumu önünde okunan "Kilit ve Anahtarların İnşası Üzerine" adlı bir makaleden alıntılanmıştır ve PARKHURST'UN 'İbranice Sözlüğü', 5. baskı, s. 600'den alınmıştır. Londra, 1807.
+
+[17] Yeşaya xxii, 22. Yeşaya'daki bu pasajın kitabın geri kalanına sonradan eklendiği ve anahtarların Yahudiler arasında genel olarak kullanılmaya başlandığı bir döneme ait olduğu öne sürülmüştür.
+
+[18] Bu nesnelerin anahtar olduğu keşfedildiğinden beri, aynı yerde bulunan ve aynı plakada gösterilen diğer şeylerin, örneğin
+9 ve 14 numaralı resimlerin, kapı kilitleri olabileceğini düşünmek için nedenlerim var.
+'Archaeologia', cilt xlvi., XXIV numaralı resim.
+
+[19] Bay BONOMI, modern Mısır anahtarlarının günümüzde Kahire'deki tüccarlar tarafından omuzda nasıl taşındığına dair bir örnek veriyor; ancak bu anahtarlar
+düzdür ve omuzun üzerinden bir çubuğa asılır ve EUSTATHIUS'un anlattığı gibi orak şeklinde değildir.
+
+Şimdi, yaylı mandalla tutturulan kilitlerin ve asma kilitlerin üçüncü sınıfı olan C'yi izlemek için 2 numaralı resme, I numaralı resme geri dönmeliyiz. Sabit kilitlerin asılı kilitlerden önce gelmiş olması muhtemeldir, ancak diğer yandan, bazı mülkleri güvence altına almak için bir düzenek eksikliği, eyer çantaları, sepetler ve göçebe yaşamın diğer araçlarıyla ve sabit meskenlerin kullanımından önceki bir toplum koşuluyla bağlantılı olarak hissedilmiş olmalıdır. Her ne olursa olsun, yaylı kilitlerin kullanımını ortak kapı sürgüsünden kalan kalıntılar aracılığıyla izlemek mümkün görünüyor.
+
+Yaylı asma kilidin kökeni, konu hakkındaki bilgimin şu anki durumunda şüphelidir. Burada varsaydığım sıra yalnızca geçicidir ve daha ilkel düzeneklerle bağlantı halkalarının bundan sonra sağlanabileceği olasıdır. Ortak sürgünün kusuru, daha önce gösterdiğim gibi, dışarıda bir tutturucu olarak güvensiz olmasıydı; aslında hiçbir güvenlik sağlamıyordu ve bu kusuru gidermek ve bir anahtar vasıtasıyla erişilemez hale getirmek için ilkinden itibaren birkaç farklı düzenek kendini önermiş gibi görünüyor; diğerlerinin arasında en basitlerinden biri İskandinav cıvatasıyla bağlantılı olarak benimsendi, muhtemelen eski bir formun modern bir kalıntısı olan bir örneği 1867 Sergisinin İskandinav Bölümünde sergilendi ve M. LIGER'İN eserinde tasvir edildi.[20] Şekil 2, Plaka I'deki kulbun ve onu cıvataya bağlayan boynunun, sadece kulpun boynunun kaydığı kapıdaki yarığı bırakarak çıkarıldığını ve sürgüde de benzer bir yarık açıldığını varsaymalıyız. Demirden olan anahtar T şeklindeydi; kapıdaki yarıktan ve sürgüye dışarıdan, T'nin kolları yatay bir düzlemde olacak şekilde sokuldu; daha sonra T'nin kolları dikey bir düzleme getirilene kadar çeyrek tur döndürüldü ve daha sonra geri çekildi, T'nin dönüşleri cıvatanın içindeki yarığın her iki tarafında kendilerine ayrılmış iki deliğe oturtulduğunda, Şekil 1C ve 2C, Levha IV. Bu sayede anahtar cıvatayı kavradı ve onu ateşlemek için sadece bir tarafa bastırmak gerekiyordu. M. LIGER'in eserinden alınan bu cıvata, tarif edilecek bir sonraki cıvataya o kadar çok benziyor ki, daha az dikkatli bir yazar olsaydı, bunun aynı kilit olduğunu ve Şekil 3C, 4C ve 5C'de gösterilen iyileştirmeyi tek başına oluşturan yayı temsil etmeyi ihmal ettiğini varsayabilirdi. , Kopenhag'da Dr. ENGELHARDT tarafından bana takdim edildi. Norveç'te ahır ve dış mekan tuvaletlerinde hala kullanılıyor ve ilk olarak Christiania'dan Profesör O. RYGH tarafından fark edildi. Sonuncusuyla aynı formda olan anahtar, aynı şekilde yarığa girer ve çeyrek tur döndükten sonra
+sonuncusu gibi
+sürgü iç yüzeyindeki deliklere
+bastırılır. Bunu yaparken, sıkıca geri çekildiğinde, sabit ucu kapı ile sürgü arasına tutturulmuş düz bir çelik yayı aşağı bastırır ve serbest bırakıldığında serbest ucu sürgüdeki bir çentiğe takılır, böylece
+kapatıldığında güvenli bir şekilde yerinde kalır. Bu yayın serbest ucu anahtarın dönüşleri tarafından aşağı bastırıldığında, çentiğin kenarlarını temizler ve sürgü daha sonra anahtarı yana doğru bastırarak geri çekilebilir. Bu iki örnek de bu nedenle B Sınıfı'ndaki gibi anahtarla çekilmiştir. Bu modern Norveç kilidinin eski bir formun kalıntısı olduğunu varsayarsak, doğal olarak eski kilitlerin ahşap kısımlarının yok olmasını bekleyebiliriz. Bu kilidin tek metal kısımları olan yaylar kesinlikle ahşaptan ayrılırdı; ayrı ayrı keşfedildiklerinde kullanımları tanınmazdı ve mekanizmayı bir kapı sabitlemesiyle özdeşleştirecek tek şey demir anahtarlar kalırdı.
+
+[20] 'La Ferronnerie', cilt ii., s. 229.
+
+Bu nedenle bu kilit sınıfının dağılımını bu formdaki anahtarların bulunduğu yerlere göre değerlendirmemiz gerekir. Bunlar iki türdür, biri önceki örneklerdeki gibi T şeklindedir ve diğeri aynı amaca hizmet eder, ancak iki dişi şaftın bir tarafındadır; ikisi de çoğunlukla İskandinav etkisine maruz kalmış kuzey ülkelerinde birlikte bulunur. Bununla birlikte,
+ancak, kanıtlar İskandinav kökenli oldukları gerçeğini ortaya koymak için yetersizdir. Kesinlikle İngiltere'de ve başka yerlerde Roma döneminde kullanılmış gibi görünüyorlar ve güney medeniyetinin demir çağının İskandinav sanatları üzerindeki etkisi iyi bir şekilde
+belirlenmiştir. Formların en yaygın olarak
+dağıtıldıkları bölgelerde zorunluluktan kaynaklandığı sonucuna varmaktan her zaman kaçınmak gerekir, çünkü gördüğümüz ve inanmak için
+nedenimiz olduğu gibi, ahşap İskoç kilidi Batı Hint Adaları'na
+taşınmış ve inşa edildiği kolaylık ve
+yapımında kullanılan malzemeler nedeniyle zenciler tarafından kullanılmıştır, bu nedenle her çağda daha basit düzenek formları kabul görmüş olmalı ve medeniyetin dış bölgelerinde, yeni gelişmelerle
+hızla yer değiştirdikleri ülkelerden daha uzun süre hayatta kalmış olmalıdır.
+
+Şekiller. 6C ve 7C, Levha IV., benim tarafımdan Fransa'nın Auvergne kentindeki Clermont-Ferrand'da elde edilen bu iki tür demir anahtarlardır. Şekiller 8C ve 9C, Levha IV., Colchester'dan iki benzer örnektir ve WRIGHT'IN 'Uriconium'unda tasvir edilmiştir, burada bunların sürgü anahtarları olduğunu varsayar ve Wroxeter'da iki benzer tanesinin bulunduğunu söyler.[21]
+Şekil 10C, Levha IV., koleksiyonumdaki bir diğeri, Weymouth yakınlarındaki Jordan Hill'den. Şekil 11C, Levha IV., 1864'te Abbe COCHET tarafından Caudebec-les-Elbeuf'taki bir Roma binasında keşfedildi,[22] bir demir kilit levhasıyla birlikte, Şekil 12C, Levha IV., anahtarın girdiği yarığı gösterir ve yukarıda açıklanan modern İskandinav örneğine benzerdir. Şekiller 13C ve 14C, Levha IV., Kent'teki Hartlip'te bir Roma villasında keşfedilen iki benzer örnektir ve
+ROACH SMITH'İN 'Collectanea'sından alınmıştır.[23] Şekil 15C, 16C ve 17C, Levha IV., Kent'teki Sarr'daki Anglosakson mezarlarında bulunan benzer anahtarlardır; bu anahtarların iskeletin sol tarafında bulunması genellikle bir kadın mezarını gösterir.[24] Kadın mezarlarında da benzer bir anahtar
+bulunumu Bjoerkoe Adası'nda fark edilmiştir. Eski bir İskandinav geleneğine göre, bunlar evin hanımının rozetleriydi ve kilit ve anahtarlarla evli olduğu söyleniyordu.
+Ve Orta Çağ'ın bazı hukuk metinlerinden, ikisinin
+kemerden sarktığı anlaşılıyor.[25] Hem bronz hem de demirden yapılmış bu şekildeki anahtarlar Sarr'da birbirine aşınmış halde bulundu. Bu Sakson mezarlarında, daha erken Roma döneminin etkisine işaret eden bazı Roma çanak çömlek parçalarının
+bulunduğuna dikkat çekmek gerekir.
+Şekil 18C, Levha IV., Gotland'dan bir bronz anahtardır ve Bay MONTELIUS'UN 'Antiquites Suedoises' adlı eserinden alınmıştır.[26] Burada, geç demir çağına, belki de 10. yüzyıla ait olduğu belirtilmektedir. Şekiller. 19C,
+ve 20C, Levha IV., Bothnia Körfezi'ndeki Bjoerkoe'dendir.
+çağımızın 8. yüzyılın kalıntılarıyla ilişki.
+
+          [21] 'Uriconium', T. WRIGHT, s. 270; ayrıca bakınız
+          'Archaeologia Cambrensis', cilt. vi., 1860, s. 312.
+
+          [22] 'La Seine Inferieure', M. L'Abbe COCHET, s. 223.
+
+          [23] 'Collectanea Antiqua,' cilt. ii., Levha VII., şek. 2
+          ve 4.
+
+          [24] J. BRENT'in makalesi, 'Archaeologia Cantiana', cilt. vi., s.
+          175, cilt. vii., Levha XIII.
+
+          [25] HANS HILDEBRAND'ın 'İskandinav Sanatları', s. 129.
+Romalılar arasında da anahtarlar,
+karısının kocasının evindeki otoritesinin sembolü olarak kabul edilirdi.
+
+[26] 'Antiquites Suedoises', s. 145.
+
+Önceki paragrafta anlatılan kilidin, tamamen metalden yapılmış yaylı asma kilidin kökeni olup olmadığı belki şüpheli olabilir; ancak
+yapımının ilkesinin aynı olduğu açıktır. Her iki sistemde de sürgü, bir yay mandalının ucuyla sabitlenmiştir. Sadece yayın sabit ucunu kapıdan sürgüye ve çentiği sürgüden kapıya aktarmak, böylece
+tarif edilecek olan Roma asma kilidinin yay mandalına benzetmek yeterlidir.
+
+Resimlerde gösterilen Roma demir asma kilidi ve anahtarı. 21C ila 22C, Levha
+V., kısmen Weymouth yakınlarındaki Jordan Hill'den ve diğer kaynaklardan elde ettiğim koleksiyonumdaki örneklerden bir araya getirilmiştir,
+üstünde ve ona paralel bir çubuk, _d_, bulunan kare bir kutudan oluşuyordu,
+bu çubuk, kavisli bir kısım vasıtasıyla kutunun bir ucuna tutturulmuştu.
+Cıvata _a_, iki dik çubukla, _b b_,
+uçlarında paralel çubuğa
+_d_ kayan halkalar, _c c_ vardı. Cıvatanın ucunda bir okun dikenleri gibi yerleştirilmiş iki veya daha fazla yakalama yayı, _e_ vardı. Bunlar, halkalar çubuk boyunca kaydırılırken aynı anda, _f_ borusunun deliğine yerleştirildiğinde,
+açığı geçtikten sonra çöktü ve tekrar açıldı,
+böylece cıvata boruya sabitlendi. Kilidi açmak için, ucunda yaylara uyacak şekilde yapılmış bir yarık bulunan bir pim veya anahtar,
+_g_, yayları kapatmak için karşı uçtan bastırılırdı, ardından cıvata kutudan çıkarılabilirdi. Bu eylem, aynı türden modern yaylı kilitlerin sonraki örneklerinde daha iyi gösterilir. Yukarıdakine benzer bir asma kilit, 1878'de Rev. R. BAKER tarafından Wellingborough, Northampton yakınlarındaki Irchester'da Roma kalıntıları arasında bulundu ve 1879'da Associated Architectural Society's Reports, cilt xv, levha iv'te resmedildi.
+
+Bu nedenle bu asma kilit elle çekilmiş bir kilitti, anahtarla çekilmiş bir kilit değildi.
+Kökeni şu anda belirsizdir, ancak burada şüphesiz daha önceki değişikliklerden geçtikten sonra daha eksiksiz ve gelişmiş haliyle temsil edilmektedir. Aynı türden daha basit düzeneklerin yokluğu, öncüllerinin bozulabilir malzemelerden yapılmış olabileceği sonucunu akla getiriyor. Öyle veya böyle, bu mükemmellik noktasından itibaren ilerlemesi bir miktar kesinlikle takip edilebilir. Zaten Roma döneminde değişikliklere uğramıştı. 1854 yılında Sayın RICHARD NEVILLE (Lord BRAYBROOKE'tan beri) tarafından Essex'teki Great Chesterford'da keşfedilen Roma antikaları arasında[27] bu asma kilidin iki türü vardı: biri,
+Şekil 23C, Levha V'de gösterilen, daha önce açıklanan biçimdedir;
+diğeri (Şekil 24C ve 25C, Levha V) kendisinden sonra gelenlere bakılırsa muhtemelen geliştirilmiş bir biçim olarak kabul edilmiş veya sadece farklı bir amaca uyarlanmış olabilir. Sürgü _a_, paralel çubuğun üzerinden kayması için dik çubuklara ve halkalara sahip olmak yerine, ona tutturma yayları takılı düz bir sürgüydü. Kilitin yatay paralel çubuğu, kutunun veya tüpün üstünden geçtikten sonra, kilidin ağzının üzerinden, ondan kısa bir mesafede aşağı doğru kıvrıldı ve bir halkada son buldu, zincir veya zımba veya asma kilit vasıtasıyla sabitlenmesi amaçlanan her neyse onun geçmesine izin vermek için borunun ağzı ile arasında bir boşluk bıraktı, Şekil 25C'de gösterildiği gibi, Levha V. Sürgü bu halkadan kaydırıldı ve tüpe doğru ilerledi, dikenli yaylar kutuya girdikten sonra dışarı fırladı ve takıldı, böylece bu boşluğu doldurdu ve sürgüyü sabitledi, Şekil 24C'de gösterildiği gibi, Levha V'de gösterildiği gibi, daha önce olduğu gibi açıldı ve geri çekildi. 
+
+[27] 'Arkeoloji Dergisi', cilt xiii., s. 7, Levha II.,
+şek. 24 ila 27. 
+
+Bunun daha ileri bir değişikliği İsveç asma kilidinde,
+şek. 26C ve 27C, V. Levha, paralel çubuk _d_, bir fikstür olmak yerine, _h_'deki bir menteşe üzerinde döndürülür. Kapatıldığında, çubuğun diğer ucu, önceki Roma asma kilidi örneğinde olduğu gibi, borunun ağzından aşağı inmek yerine ve ondan uzakta, borunun _j_ tarafına girecek şekilde yapılır ve sürgü, kilidin ağzına ve içine girdikten sonra, dışarısı yerine çubuğun halkasından geçer. Bu sayede, günümüzde bu ülkede halı çantalarda kullanılan, daha fazla biçim ve mekanizma değişikliğiyle asma kilidin sıradan menteşesine ulaşırız. Bu İsveç yaylı asma kilit, İskandinavya'da geçen yüzyılın sonuna kadar kullanılıyordu. 11. yüzyıldan kalma demir mızrak uçlarıyla birlikte Kiel Müzesi'nde bulunan bir tane var;
+diğerleri o ülkede 15. yüzyıla atfediliyor. Şekiller 31C
+ve 32C, Levha V., Londra yakınlarındaki Epping'de elde edilen İsveç kilidiyle aynı yapıya sahip bir İngiliz kelepçesinin bir örneğidir ve
+bu ilkeye göre inşa edilmiş bir kilidin Orta Çağ boyunca kullanılmaya devam ettiğine dair kanıtlarımız var. 1829'da, paralel çubuğuyla birlikte bir tüp veya kutudan oluşan bir demir asma kilit parçası, İrlanda'nın Meath bölgesindeki Dunshaughlin yakınlarındaki Lagore'da bazı uzatılmış iskeletlerle birlikte bulundu. 'Arkeoloji Dergisi'nin altıncı cildinde, görünüşe göre yazar tarafından kullanımı bilinmeyen bir demir boru olarak tanımlandığı
+şekilde tasvir edilmiştir. Demir yaprak şeklindeki mızrak uçları, geniş çift ağızlı kılıçlar, bronz iğneler ve emaye süslemelerle birlikte bulunmuştur ve
+bulgunun Roma sonrası dönemi, ilişkili hayvan kalıntıları arasında geyiklerin varlığıyla doğrulanmıştır. Şekiller. 28C, 29C,
+30C, Levha V., 1. ve 4. yüzyıllar arasına tarihlendiği düşünülen, bundan sonra anlatılacak olan Doğu asma kilitlerine çok benzeyen Rus bronz asma kilididir. St. Petersburg Müzesi'ndedir ve M. LIGER'in eserinden kopyalanmıştır. Şekil 33C, Levha V., Folkestone'daki Norman Kampı'nda yaptığım kazılarda bulduğum, yayları ve kavisli çubuğu içeren bir parçanın parçasıdır. Surun gövdesinde keşfedilmiştir ve kampın inşa edildiği yaşta veya erken işgal döneminde olduğunu kanıtlayacak bir konumdadır.[28] Şekil 34C, Levha V., Rus asma kilidine çok benzeyen daha sonraki bir örnektir, şekil 29C, Levha V., ve sonuncusuyla aynı türdedir. Cıvatanın kavisli çubuğu, paralel çubuktaki bir yuvaya oturur ve bu açıdan bundan sonra açıklanacak olan Kızılderili kilitlerinden bazılarını andırır. Kent'teki Swanscombe'da bulunmuştur ve muhtemelen 15. yüzyıldan kalmadır. 'Arkeoloji Dergisi'nden alınmıştır.[29] Buna benzer bir asma kilit parçası yakın zamanda Bedford Kalesi'nin hendeğinde Bay JAMES WILSON tarafından bulunmuştur ve Antikacılar Derneği'nde sergilenmiştir. Benzer bir kilit daha Devizes yakınlarında bulunmuştur ve Dekan MEREWETHER'IN 'Bir Dekanın Günlüğü' adlı eserinde tasvir edilmiştir, şekil. 18. Bunlardan son ikisi de, şekil 29C'de gösterilen Rus bronz kilit gibi, kasanın dış tarafında Norman oymacılığına benzeyen zikzak çizgilerle süslenmiştir; ve kilitlerin yapımındaki kesin benzerlikle birleştiğinde, bu süsleme
+dönemimizin ilk dört yüzyılında doğu bağlantısını kanıtlıyor gibi görünüyor. Kelepçe, 15. yüzyıldan kalma Wraxall'lı LONGS ailesinin
+armasında yer alır ve şu anda Grenadier Muhafızlarının 14. Bölüğünün
+armasındadır ve buna ait bir resim, eşlik eden tahta baskıda verilmiştir. EDWARD IV. tarafından üstlenilen
+armalardan biriydi ve bununla ilgili bir açıklama, Sir F. HAMILTON'S history of that Regiment'ta verilmiştir.[30]
+
+[28] 'Archaeologia', cilt xlvii.
+
+[29] 'Archaeological Journal', cilt xxxi., 1874, s. 78.
+
+[30] 'Grenadier Muhafızlarının Tarihi', Korgeneral
+Sir F. HAMILTON, K.C.B., cilt i., s. 61.
+
+[İllüstrasyon: 14. Bölük Grenadier Muhafızlarının Rozeti.]
+
+Şimdiye kadar anlatılan tüm yaylı asma kilitlerin iki parçadan oluşma kusuru vardır; sürgü, açıkken tüpten tamamen ayrıldığından, kaybolma olasılığı vardır ve bu kusuru gidermek için sürgü tüpte bir sabitleyici haline gelerek bir
+anahtar vasıtasıyla açılabilen değişiklikler yapılmıştır.
+
+Şekil 35C, V. Levha, Güney Wilts'teki Rushmore'daki kapılarımdan birine takılı bulduğum bir kilittir. Dışarıdan bakıldığında yaylı kelepçeye tam olarak benzer, ancak içeride, yarım daire şeklindeki çubuğu kilitlendiğinde pozisyonunda sabitleyen cıvata, bir spiral yay tarafından orada tutulur. Kilidi açmak için, dişi vidalı bir anahtar, Roma kilidinin anahtarıyla aynı pozisyondaki uca yerleştirilir ve içerideki erkek vidayı tuttuktan sonra, cıvata yay üzerine geri vidalanır, böylece yarım daire şeklindeki çubuk veya zımba serbest bırakılır, bu da daha sonra menteşesi üzerinde döndürülür ve borunun yanındaki açıklıktan dışarı çekilir.
+
+Şekil 36C, Plaka V, Paris'ten gelen tam olarak benzer bir kilittir. Şekil 37C, Plaka V, Almanya'dan gelen bir diğer kilittir. Modern kelepçelerimiz, kilit için boru şeklindeki bir kasaya sahip olan kelepçenin formunu korur, aksi takdirde insan bileğine tam olarak uymayan bir formdur. Şekil 38C, V. Levha, Wiltshire'da elde edilen eski bir kelepçenin kesitidir, cıvatası bir vidayla değil, borunun yan tarafına yerleştirilen, normal kapı anahtarı biçiminde bir anahtarla gözden dışarı çıkarılmıştır, bu anahtar çevrildiğinde cıvatayı spiral yaya doğru geri iter ve yarım daire şeklindeki çubuğu serbest bırakır. Bazı daha modern düzeneklerde Roma yaylı asma kilidinin dış biçimi korunurken, iç mekanizmada değişiklikler olmuştur, diğerlerinde ise iç mekanizma korunur, dış biçim daha modern kullanımlara uyarlanmıştır. Şekiller. 39C, 40C ve 41C, Levha VI., Paris'te edindiğim eski bir asma kilittir, tarihini belirleyemedim, ancak 1665 yılında Derneğe sunulan ve bilgisini Dr. JOHN EVANS, F.R.S.'ye borçlu olduğum Kraliyet Derneği'nin demir sandığına tam olarak benzeyen bir asma kilit takılmıştır. Dışarıdan modern asma kilide benzemektedir, ancak yarım daire şeklindeki zımbanın her iki ucu da Roma asma kilidi prensibine göre yaylarla donatılmıştır. Modern formda bir
+döner anahtar vasıtasıyla açılır, bu anahtar asma kilidin yan tarafına yerleştirilir ve çeyrek tur döndürüldüğünde cıvatalardaki üç yayı geriye doğru bastırır ve zımba daha sonra kilit gövdesinden tamamen çekilir. Bu durumda, zımba kilitten tamamen ayrı olduğundan, Roma asma kilidinin yayında olduğu gibi kaybolmaya meyilli olur; bu kusuru gidermek için Auvergne'deki Clermont-Ferrand'da elde edilen 42C ve 43C numaralı Levha VI'da, zımbanın kollarından birinin asma kilidin içinden aşağı doğru geçtiği ve altından dışarı çıktığı, bir düğmeyle sonlandığı, tamamen dışarı çekilmesini ve kilitten ayrılmasını önlemek için tasarlanmış bir iyileştirme görüyoruz. Diğer kol, son örnekte olduğu gibi bir yay ile donatılmıştır ve
+onun gibi, dönen bir anahtarla açılır. Yay geriye doğru bastırıldığında
+geri çekilir ve sadece daha uzun kolu üzerinde bir pivot olarak döndürülür.
+
+Bu noktaya kadar, Avrupa asma kilidinin en eski Roma zamanlarından günümüze kadar olan kademeli gelişimini izlemeye çalıştım.
+Dağılımını ve dünyanın diğer bölgelerinde geçirdiği
+çeşitleri göstermek için şimdi
+en eski haliyle yaylı asma kilide geri dönmeliyiz. Şekiller 44C, 45C ve
+46C, Levha VI., Hindistan'daki Moultan Kapısı'ndan alınmış, şu anda Hindistan Müzesi'nde bulunan bir demir asma kilidi temsil ediyor. Her bakımdan, Şekiller 21C ila 23C'de gösterilen, Levha V. Roma kilidine benzer ve daha fazla
+açıklamaya ihtiyaç duymaz. Şekiller 47C ve 48C, Levha VI., 1881'de Kahire sokaklarında eski demir satan bir satıcıdan aldığım
+bir asma kilittir. Sonuncusuyla tam olarak aynı prensiple yapılmıştır ve
+tüpün ucunda uzunlamasına bir anahtar itilmesiyle açılır, tıpkı Roma anahtarı gibi, ancak kilidin diğer ucu, kilidin paralel çubuğu boyunca kayan bir halka tarafından yönlendirilmek yerine
+eğilip paralel çubuktaki bir tüpe veya sokete yerleştirilir, tıpkı Rus örneği ve Kent'teki Swanscombe'dan alınan örnek gibi. Şekiller 49C ve 50C, Levha VI., Kahire'de aldığım bir diğer örnektir; Ayrıca, anahtar
+tüpün ucuna sokulmak yerine,
+tüpün altına dik olarak yerleştirilir ve yayları sıkıştırmak için anahtarın yan tarafında açılan bir açıklık vasıtasıyla kapatarak,
+tüp boyunca yanlara doğru itilir, boyun,
+tüpün tabanı boyunca bir yarıktan yönlendirilir. Şekil 51C ve 52C, Levha VI.,
+Hindistan'dan elimde bulunan ve sonuncusuna o kadar benzeyen başka bir örneği gösterir ki, eğer onu Hint olarak tanımlayan bazı özellikler
+olmasaydı, ikisinin de aynı yerde yapılmış olması gerektiğini varsaymak cazip gelir. Yayları kapatırken anahtar,
+tüpün altındaki bir yerine iki yarıktan yönlendirilir ve
+tüpün altında, anahtardaki karşılık gelen yarıklara uyan Yunan haçı biçiminde çıkıntılı bir parça vardır, böylece yayları sıkıştırmak için
+doğru anahtardan başkası geçemez. Bu düzenek,
+bu nedenle bir koğuşun doğasındadır. Şekil 53C, 54C ve 55C, VI. Levha,
+Hindistan'dan bir diğeridir ve şu anda Hindistan Müzesi'ndedir,
+yani Myhere, ona bağlıdır. Şekil 56C ve 57C, VI. Levha,
+koleksiyonumda bulunan ve aynı şekilde tutturulmuş bir Mısır kelepçesidir. Şekil 58C, 59C ve 60C, VII. Levha, Habeşistan'dan gelen benzer bir kilittir ve şu anda British Museum'dadır ve kilide dik açıyla yerleştirilmiş yanal hareketle anahtarın hem Afrika'ya hem de Hindistan'a ait olduğuna dair ek kanıt sağlar. Buna tam olarak benzeyen iki asma kilit,
+Afrika'nın Batı Kıyısı'ndaki Mogadore'dan koleksiyonumdadır ve üzerlerinde o ülkenin karakteristik özelliği olan pirinçten yapılmış tuhaf Mağribi süslemeleri vardır.
+
+Şimdi bu özel türdeki yan anahtarlı yaylı asma kilidin doğuya doğru sürekli dağıtımının kanıtı için Çin'e gitmemiz gerekiyor. Şekil 61C, 62C ve 63C, Levha VII., koleksiyonumdaki pirinçten yapılmış bir Çin asma kilidi ve anahtarıdır. Hindistan'ın kuzeyinde, Sir DOUGLAS FORSYTH tarafından elde edilen ve şu anda Hindistan Müzesi'nde bulunan Yarkand'dan bir asma kilidi temsil eden 64C, 65C, 66C, 67C, VII. Levha resimlerimiz var. Ayrıca, yanal eylemli
+anahtar da var. Bay THOMAS WRIGHT, Jacmel'deki İngiliz Başkonsolosu tarafından kendisine verilen ve Hayti'den alınan benzer bir asma kilide sahip olduğunu söylüyor. Bu kilidin muhtemelen bir asma
+yıl öncesine ait olduğunu ve İspanyol kolonilerinden birinde yapıldığını veya İspanya'dan ithal edildiğini söylüyor.[31] Sir GARDNER WILKINSON ayrıca Mısır'daki Meroe Adası'ndan birinden bahsediyor[32] ve Bay H. SYER CUMING Batı Afrika'dan elde edildiğinden bahsediyor, ancak yeri belirtilmiyor.[33]
+
+[31] T. WRIGHT'ın 'Wroxeter ve Uriconium'daki Kazılar',
+F.S.A., s. 273.
+
+[32] 'Caillaud, Voyage a Meroe,' Levha LXVI., Sir G.
+WILKINSON, cilt i., s. 355.
+
+[33] H. SYER CUMING'in "Anahtarların Tarihi", Esq., 'Journ.
+British Archaeological Association', cilt xii., s. 117. Makalede Teb'de bulunduğu belirtilen bu tarifteki anahtarlar, modern formlara olan tüm benzerliklerine bakılırsa, büyük olasılıkla moderndir.
+
+Bu kilidin doğu göçleri sırasında geçirdiği değişiklikleri göstermek için, Hindistan'ın Indore kentinden bir çelik kilidi temsil ettim (Şekil 68C, 69C ve 70C,
+Tablo VII.). Avrupa örneğine benzer iki kollu bir zımba ile donatılmıştır, Şekil 39C, Tablo VI.,
+biri yalnızca yaylara sahiptir; şu anda Hindistan Müzesi'ndedir. Şekil 71C, 72C, 73C, 74C, Tablo VII.--aynı zamanda Hindistan Müzesi'ndedir: yayları olan sürgü, kilidin bir tarafına dış bir kasa oluşturan plakalara tutturulmuştur, bu sayede açıklık gizlenir ve anahtar için olan açıklık da diğer taraf için bir kasada gizlenir ve ayrıca kilidin altındaki bir delikten geçirilen düz bir pim veya telin basıncıyla serbest bırakılan bir tutma yayı ile açılır. Şekil 75C, 76C ve 77C, VIII. Levha, başka bir çeşittir,
+Burma'dan; anahtar, bir pervaneli vapurun pervanesine benzer şekilde oluşturulmuş bir erkek vida vasıtasıyla borunun ucuna sokulur.
+Bu vida, yalnızca anahtarı boruya yarım bir bükümle sokmak içindir; bir kez sokulduğunda, düz bir şekilde öne doğru bastırılır ve
+yayları her zamanki gibi sıkıştırır. Şekil 78C, VIII. Levha,
+Nürnberg'de benim tarafımdan elde edilen benzer bir kilidin açılışı ve anahtarıdır.
+Sonuncusuyla tam olarak aynı prensip üzerine ve benzer bir
+nesneyle inşa edilmiştir; Avrupa'ya özgü gibi görünmektedir, ancak Hindistan'dan ithal edilmemiş olabileceğine dair kesin bir kanıtım yoktur. Hindistan'ın Indore kentinden gelen Şekil 79C, 80C ve 81C, VIII. Levha'da, vida prensibinin geliştirildiğini görüyoruz. Bunun son bahsedilen formdaki bir kilitten mi kaynaklandığını ve vidanın başlangıçta bir koğuş olarak kullanıldıktan sonra, sonunda bir vida hareketiyle sürgüyü serbest bırakmak için mi kullanıldığını bilmiyorum; ancak yapısı bakımından Rushmore, Wilts'teki kapıdan alınan Şekil 35C, Levha V'de gösterilen kilide ve daha önce şekil verilmiş ve tanımlanmış olan Fransa ve Almanya'daki benzer formdaki kilitlere tam olarak benziyor. Sürgü, spiral bir yay ile kilitlendiğinde yerinde tutulur ve uca yerleştirilen bir vida anahtarı ile geri çekilir. Bunun iki yarım kürede bağımsız bir büyüme olup olmadığını veya birini diğerinden kopyalayıp kopyalamadığını belirlemek için şu anda hiçbir yolum yok. Ne yazık ki, Güney Kensington'daki Hindistan Müzesi'ndeki nesneler eski Hindistan Müzesi'nden taşındığında tarihleri ​​kayboldu; ancak yerelliklerin kendilerine bağlı olduğu
+kiler dışında hiçbirini bulamadım. Şekiller 82C, 83C ve 84C, Levha VIII., Hindistan'dan bir çelik kilittir
+Şekil 71C, Levha VII'ye benzer dış yapıya sahiptir. ; ancak vida
+ilkesi burada tamamen yaydan daha üstün görünüyor, yay tamamen eksik ve eylemi tamamen ucuna yerleştirilen bir vida anahtarına bağlı ve cıvatanın (kendisi zımbayı oluşturan) gerektiği gibi vidalanması veya tekrar vidalanması için. Buna paralel olarak, koleksiyonumdaki 85C, 86C, 87C, 88C ve 89C, VIII. Levhada gösterilen örnek verilebilir. Brüksel'den tarafımdan elde edildi ve boru şeklindeki kilide yalnızca dış formda benziyor. Zımba, borunun her iki ucuna, borunun yan tarafına açılan deliklerle sabitlenir, bu deliklerden bir pim geçirilir ve borunun ucuna yerleştirilen bir anahtarla vidalanır veya gevşetilir. Söküldüğünde pim geri çekilir ve zımba tamamen çıkarılır. Bunda, son açıklanan Hint örneğinde olduğu gibi, orijinal yay mekanizması tamamen ortadan kalkmıştır; ancak, bu açıdan birbirlerine benzemelerine rağmen, iki sistemde benzer hiçbir şey yoktur ve bu iki sistem, yapılarındaki
+ayrıntılardan dolayı, oldukça bağımsız düzenekler gibi görünmektedir. Şekil 90C, 91C ve 92C, Levha VIII., Hindistan, Mysore, Toomkoor'dan bir asma kilit ve anahtarı temsil eder. Bu, sıradan türden dikenli bir yaylı asma kilittir, ancak
+yaylar, yan tarafa yerleştirilen ve döner plakanın ortasında geniş bir yarık bulunan ortak bir döner anahtar vasıtasıyla geri çekilmeye hazırlık olarak kapatılmıştır. Anahtara çeyrek tur attırıldığında, anahtar plakasındaki yarık yayları sıkıştırır ve daha sonra bunlar kilitten çekilir. Bu örnekteki anahtarın hareketi, Paris'teki asma kilidin (Şekil 39C, Levha VI.) ve Royal Society sandığının hareketine tam olarak benzemektedir, ancak Paris ve Royal Society örneklerinde iki yay katı bir levha vasıtasıyla sıkıştırılırken, Toomkoor örneğinde tek dikenli bir yay, anahtardaki bir yarığın hareketiyle sıkıştırılır. Çin'dekilerle tam olarak aynı formdaki dikenli boru şeklindeki yaylı kilitler Japonya'da da kullanılır, bunlardan Şekil 93C, 94C, 95C ve 96C, Levha IX., koleksiyonumdaki bir örneği temsil eder. Bunlardan bazı anahtarlar tüpün ucuna sokulur; diğerleri Şekil 97C, Levha IX'da gösterildiği gibi yan tarafa yerleştirilir. Anahtar, kilit gibi pirinçtendir ve taşıma kolaylığı için bir bıçağın sapı gibi kapanan bir sapa yerleştirilmiştir (Resim 96C, Levha IX'da gösterildiği gibi). Japonya'dan bir başka örnek (Resim 98C ve 99C, Levha IX'da gösterilmiştir.) Hindistan'dan gelen Toomkoor örneğine tam olarak benzemektedir, yaylar dönen bir anahtar vasıtasıyla sıkıştırılmıştır. Bu kesinlikle orijinal Roma kilidine göre ilk iyileştirme aşaması olarak kabul edilmelidir ve Avrupa, Hindistan ve Japonya'da kullanımı dikkate değerdir. Geniş alanlarda bağlantı kanıtı gösteren bu boru şeklindeki yaylı kilit örnekleri arasında hayvan formlarında yapılmış olanlar da vardır. Resim 100C ve 101C, Levha IX., şu anda Paris'teki Louvre Müzesi'nde bulunan ve M. LIGER tarafından tasvir edilen balık biçiminde bir bronz asma kilit tasviridir. Orada, tereddütsüz olmasa da, bir Mısır kilidi olarak tanımlanmıştır; eğer öyleyse, muhtemelen Roma-Mısır dönemine aittir: yaylar balığın ağzından girer ve kuyruğa yerleştirilen bir anahtarla serbest bırakılır. Şekil 102C, 103C, 104C, Levha IX., Hindistan'dan gelen ve şu anda Hindistan Müzesi'nde bulunan, tam olarak benzer bir balık biçimli demir asma kilidi temsil eder. Şekil 105C ve 106C, Levha IX., Dr. JOHN EVANS, F.R.S.'nin elinde bulunan ve burada onun izniyle kopyalanan, aslan veya at biçiminde bir Roma bronz kilididir; buna benzer bir kilit British Museum'dadır. Şekil 107C,
+108C ve 109C, Levha IX., yine aslan biçiminde ve yaklaşık aynı boyutta olan, Çin'den, tanınmış çilingir Bay CHUBB'ın koleksiyonunda bulunan bir diğeridir. Bunların hepsinde yaylar hayvanın kıçından girer ve cıvatanın diğer ucu kuyruk şeklinde yukarı ve geriye döner ve hayvanın başının arkasından boynuna girer. Çin örneğindeki
+anahtar, yapısıyla aşina olmayan birinin
+anahtar deliğine girmesini önlemek için
+özel bir gizli düzeneğe sahiptir. Anahtarın başı, sap ucu önce yerleştirilip anahtarın sapı boyunca kaydırılmadığı sürece anahtar deliğine girmeyecektir, çizimde gösterildiği gibi, şekil 109C, Levha IX. Bay ROMILLY ALLEN, İskoç ahşap kilitler üzerine çalışmasından daha önce alıntıladığım, makalesinde tesadüfen yaylı kilitlere atıfta bulunur ve bunların İran'da hayvan biçimlerinde kullanıldığını gördüğünü söyler. Bu nedenle, bunları bu biçimlerde yapma uygulamasının, söz konusu bölge boyunca sürekli olarak var olmuş olabileceği veya hala var olabileceği ve mekanizmanın kendisi ve diğer birçok ticari ürün gibi, bunların bir yerden bir yere trafikten geçmiş olabileceği ve bulundukları yerlerde kopyalanıp benimsenmiş olabileceği sonucuna varırız. Şekil 110C, Levha IX, Kahire'de benim tarafımdan elde edilen bir asma kilittir; benzerleri Napoli'deki dış tuvaletlerde yaygın olarak kullanılır, üstteki uzun çubuk, kilit yapısının farklı olmasına rağmen, Roma asma kilidinden geldiğini gösterir.
+
+Şimdi, günümüzde yaygın olarak kullanılan döner anahtarın ilkesine geliyoruz. Roma kilidinin kullanımında, pimleri içeren anahtarın parçasının dikey olarak yerleştirilmesi ve ardından çeyrek daire döndürülmesi gerektiği daha önce gösterilmiştir, böylece dişler, onları kaldırmadan önce silindirlerin altına yatay olarak getirilir. Bunun, cıvatanın atılması için anahtara verilen bükülmeyi kullanma fikrini ilk kez önermiş olması mümkündür. M. LIGER'in eserinden alınan Şekil III, Levha IX,[34], Londra'da bulunan bir Roma anahtarını temsil eder; dişlerle donatılmış bir plakaya sahiptir, açıkça bardakları kaldırmak için tasarlanmıştır ve anahtarın sapı bir broşa veya pime uyması amacıyla borulanmıştır, böylece
+dişli plaka, anahtar pivotu üzerinde döndürüldüğünde, cıvatanın altındaki uygun yerine oturabilir ve bardakları kaldırabilir.
+Şekil 112, Plaka IX., benzer şekilde oluşturulmuş, iki dişi ve borulu bir sapı olan başka bir anahtarın çizimidir; Londra'daki Lothbury'de, yüzeyin 16 fit altında bulunmuştur ve Bay SYER CUMING'in 'Arkeoloji Derneği Dergisi'ndeki anahtarlar hakkındaki makalesinde tasvir edilmiştir.[35] Bu anahtarlar, kullanım biçimleri konusunda herhangi bir şüpheye yer bırakmayacak şekilde görünür ve bu nedenle, kendi zamanımızın döner anahtarından farklı bir amaç için uygulanmış olsalar da, döner anahtarların en eski örneği olarak kabul edilebilirler. Karşılaştığım döner anahtarlı en ilkel kilit türü, 113, 114, 115, 116 numaralı Levha X'te gösterilendir. Hindistan'dandır ve Hindistan Müzesi'ndedir. Anahtar, sürgüdeki iki çentiğe uyacak şekilde iki kolu olan İskandinav tipi kare bir dikey silindire uygulanır; silindirin alt ucu, yarım daire biçiminde, sürgü arkasında sonlanır; anahtar, duruma göre, broş veya pimi üzerine çevrildiğinde, yarım daire şeklindeki kısmın yanlarına çarpar ve silindiri sürgü üstündeki çentiklerden kaldırır ve daha sonra anahtar plakasının ucu, sürgünün alt tarafındaki bir dizi çentikten birine geçer ve onu hareket ettirir, bu sırada silindir aynı anda sürgüden
+uzaklaştırılır. Anahtar birkaç kez çevrildiğinde hareket devam eder, anahtarı çentik çentik ileri iter, ta ki silindir tekrar kendisi için sağlanan diğer deliklere düşene ve sürgüyü güvenli tutana kadar. Buradaki her şey ahşaptır, ancak anahtar metaldir ve anahtar plakasının pivotu üzerindeki dönüşünde bunlara göre ayarlanmış, muhafazaları geçmek için yarıklarla donatılmıştır. Bundan, Çin'de çok benzer ama daha basit bir kilit olmasa da, eski bir dikey silindir sistemine modern bir uyarlama olduğu varsayılabilir. Çin kilidinin çizimi (resim 117, 118, 119, 120, 121, Levha X.) bana Bay ROMILLY
+ALLEN tarafından nazikçe gönderildi. Bu örnekte cıvata, son örnekle neredeyse aynı şekilde vurulur, ancak 
+tumbler'lar, İskandinav kilidiyle kullanılana benzer şekilde (şekil 3C, Levha IV) T şeklinde bir anahtarla (şekil 121, Levha X.) bağımsız olarak kaldırılır.
+Dışarıdan anahtar, T'nin kollarını yatay bir düzleme getirecek şekilde çeyrek daire döndürüldüğünde, 
+tumbler'lar arasındaki dikey yarığa yerleştirilir.
+Daha sonra, T'nin dönüşleri tumbler'larda kendileri için sağlanan çentiklere girdiğinde geri bastırılır. Daha sonra tumbler'lar kaldırılır ve
+anahtar veya sap, _a_, döndürülür. 
+Tumbler'lar, cıvatayı ateşlemeden önce içeriden iki parmakla kaldırılır.
+
+[34] 'La Ferronnerie', cilt ii., s. 236, şekil. 492.
+
+[35] 'Arkeoloji Derneği Dergisi', cilt xii.,
+s. 121, Levha XIV., şekil 1.
+
+M. LIGER, Roma kilidinin kaldırma anahtarının Asya kökenli olduğunu ve döner anahtarın Romalılar arasında çağımızın başlangıcında kullanılmaya başlandığını ve Pompei'den gelen anahtarların çoğunun bu prensip üzerine inşa edildiğini ve koğuşların geçişi için yarıklara sahip olduğunu varsayar. Şekil 122, Levha X., koleksiyonumdaki bu tür bir Roma anahtarıdır. Koğuş sistemi daha sonra genel kullanıma girdi ve Orta Çağ'da başkaları hariç tutularak çokça güvenildi.
+Koğuş sistemi, sürgüyü çevirmek için uygun anahtar dışında herhangi birinin girmesini önlemek için engellerin yerleştirildiği bir kilit sistemi olarak tanımlanabilir; bu nedenle, güvenliğin, sürgüyü anahtar tarafından çekilmesini önlemek için getirilen engellemeye bağlı olduğu
+tumbler sisteminden farklıdır. Tumbler, aslında bir sürgü
+südür. Mısır kilidini temsil eden II. Levha, Şekil 10B'ye yapılan atıf,
+tumbler'ları kaldırmak için anahtarın sağlandığı iki pimin yanı sıra,
+kilit açıklığının alt tarafına takılı ve anahtardaki bir deliğe giren bir pim olduğunu gösterecektir. Bu, bir koğuşun doğasındadır, çünkü yalnızca uygun yerde bir delik olan bir anahtar,
+tumbler'ları sürgüdeki deliklerden kaldıracak kadar yükseğe kaldırılabilir. Bay ROMILLY ALLEN ayrıca Snizort'taki İskoç kilitlerinden birinde, kilidin açılmasını önlemek için anahtara bir çentik ve kilide karşılık gelen bir pim yerleştirildiğini ve anahtar deliğinin, İskoçya'daki ahşap kilitlerin herhangi birinde görülen bir koğuşa yaklaşan tek şey olan ince bir demir plaka ile bölündüğünü belirtir. Daha önce açıklanan, özellikle bunlara uyacak şekilde yapılmış dişlere sahip Roma kilidinin cıvatalarındaki silindirlerin ve silindir deliklerinin tuhaf şekli, silindirlere uygulanmasına rağmen, bir tür koğuş olarak kabul edilmelidir, çünkü bunların amacı, uygun anahtar biçimi dışında herhangi bir anahtarın girmesini önlemektir.
+
+[36] 'La Ferronnerie', cilt i, s. 264.
+
+Roma kilitlerinde koğuş sisteminin daha da geliştirilmesi,
+kesinlikle var olmasına rağmen, belirsizlik içermektedir, çünkü koğuşların hiçbiri
+korunmamış gibi görünmektedir, ancak bir tür koğuşun
+kullanılmış olduğu gerçeği, Şekil 122, Plaka X'te gösterilen anahtarlardaki yarıklardan açıkça anlaşılmaktadır, bunlar yaygın olarak görülür.
+Şekil 53C, 54C ve 55C, Plaka VI ile bağlantılı olarak daha önce açıklanan Hint yaylı asma kilidi altındaki haç şeklindeki koğuşlar,
+görüntüye açık olmalarına ve kilit plakasının altında gizlenmemelerine rağmen, kesinlikle koğuş olarak kabul edilmelidir. Ayrıca Roma kalıntılarıyla ilişkili olarak bulunan anahtarlar da vardır, Şekil 123, Plaka X., Chalons'tan, Şekil 124, Plaka X., Saumur Müzesi'nden ve Şekil 125, Plaka X., Saint Germain Müzesi'nden örneklerdir.[37] Bu anahtarlar, yaylı asma kilitle kullanılan Asya anahtarlarına o kadar çok benziyor ki, aynı şekilde kullanılmadıklarına inanmak zor, ancak dişlerle donatılmış olan Roma delikli kilit anahtarlarına da benzedikleri için, henüz açıklanmayan bir şekilde, silindirleri yükseltmek için tasarlanmış olmaları muhtemeldir. Bildiğim kadarıyla, altına anahtar yerleştirilerek açılabilen ve Hint ve Mısır'daki gibi yanal hareketle açılan boru şeklindeki yaylı kilitler Roma kalıntıları arasında bulunmamıştır.
+Şekil 126, Plaka X., benzer formda, bir koğuş plakasıyla donatılmış ve ortak bir mandalı kaldırmak için kullanılan modern bir İngiliz mandal anahtarıdır:
+güvenli olmadıkları için artık genel olarak kullanılmamaktadırlar.
+Modern forma benzeyen, Pompei ve başka yerlerde bulunan döner anahtarlarda, sabit koğuşlar için yarıklar yaygındır ve bu, mevcut dönemin başlangıcındaki Roma anahtarlarının bizimkilere benzediğini gösterir.
+Orta Çağ boyunca neredeyse tamamen koğuş sistemine güvenildi ve birçok
+karmaşık düzenek tanıtıldı, bunlardan biri de Şekil 127, Levha X.,
+geçtiğimiz yüzyılın sonuna kadar, güvensizlikleri kilitlerin yeniden tanıtılmasına yol açana kadar bir örnektir.
+
+[37] 'La Ferronnerie', cilt ii., Levha LV., E, G, K, s. 238.
+
+Bunun tam olarak ne zaman gerçekleştiği bilinmemektedir, ancak muhtemelen 18.
+yüzyılda bir zamanda ve muhtemelen daha önce. Bu sefer, kilitler dikey olmak yerine (erken kilit dönemi olarak adlandırılabilecek durumda olduğu gibi) yataydı, cıvatanın üzerindeki bir pivotta duruyordu ve bir yay tarafından aşağıda tutuluyordu. Şekiller 128, 129 ve 130,
+Levha X., Bay CHUBB'ın elinde bulunan ve Hants, Funtley'de 200 yaşında olduğu söylenen eski bir evi onarırken bulunan bir kilittir. Eğer öyleyse, ikinci
+tumbler döneminin en erken örneği olarak kabul edilmelidir. Tumbler bir pivot üzerinde hareket eder ve bir
+yay tarafından aşağıda tutulur, dönen anahtar, kendisine bağlı olan kavisli çubuğu yukarı bastırarak tumbler'ı kaldırır, bu da tumbler'ın saplamasını cıvatanın üst tarafındaki çentikten
+çıkarır, böylece cıvatayı serbest bırakır, böylece anahtarı daha fazla çevirerek cıvatayı
+atabilir. Tumbler, görülecektir ki, çok yükseğe kaldırılamaz.
+Anahtarın plakası, tumbler'ın saplamasını çentikten
+çıkarmaya yetecek kadar uzunsa, daha uzun plakalı bir anahtar aynı amaca hizmet edecektir. Bu kusuru gidermek ve tam olarak uygun boyutta bir anahtarın kullanılmasını zorunlu kılmak için, Bay BARRON, 1778 yılı civarında,
+şekilde gösterilen kendi adıyla bilinen bir iyileştirmeyi tanıttı. 131,
+Plaka X., cıvatanın ortasında, saplamanın geçmesine yetecek kadar geniş bir yarık bulunur; yarık hem üstte hem de altta çentiklere sahiptir, böylece saplama çok uzun bir plakaya sahip bir anahtarla çok yükseğe kaldırılırsa üst çentiğe zorlanır ve cıvata hareketsiz kalır. Ayrıca, anahtar plakasının kenarındaki farklı çıkıntılar aracılığıyla cıvatadaki yarıkla çakışacak şekilde farklı yüksekliklere kaldırılması gereken iki mandal da tanıttı, böylece cıvata yalnızca kilide uyacak şekilde özel olarak tasarlanmış bir plakaya sahip ve gerekli uzunlukta iki çıkıntıya sahip bir anahtarla vurulabilirdi. İki veya daha fazla mandal kullanma ilkesi, neredeyse tüm sonraki iyileştirmelerin gerçekleştirildiği ilkedir. Konuyu daha fazla araştırmak isteyenler, koleksiyonumda geçen yüzyılın ikinci yarısı ve mevcut yüzyılın başlangıcında tanıtılan çeşitli modern mandal kilitleri bulacaklar. Bunların hepsi, esas olarak, bir ilkenin çeşitleridir ve günümüzdeki CHUBB ve HOBBS kilitlerinde son bulur. Bu makale yalnızca ilkel kilitlerle ilgili olduğundan, bunları burada tanımlamayı öneriyorum. Modern kilitlerin tüm dallanmalarına nüfuz eden süreklilik, daha önceki formlarda olduğundan daha az eksiksiz değildir ve daha önce tanımladığım şekilde ele alınması daha iyi olacaktır. Bramah kilidi, dış görünüm olarak diğerlerinden farklı olsa da, daha önceki formlara daha az dayanmaz ve _koğuş_ ve _tumbler_ sistemleri arasındaki bir birlik olarak tanımlanabilir. Bu bir koğuş sistemidir, çünkü mekanizmaya sokulan engeller, cıvatayı uygun yapıdaki bir anahtar dışında herhangi bir anahtarla ateşlemek için anahtarın çevrilmesini önlemeyi amaçlamaktadır. Bu bir tambur sistemidir çünkü
+anahtarın dönmesine getirilen engeller aslında
+anahtarın silindiri etrafına sarılmış (yaylarla tutulan)
+tamburlardır ve anahtar plakasının geçişine yalnızca her bir ayrı tamburun
+anahtar plakası için açık bir geçiş sağlamak üzere uyarlandığı çeşitli derinliklere kadar bastırıldığında izin verir. Aynı ticaretin, cihazın veya endüstrinin farklı dallarında ayrı ayrı geliştirilen fikirlerin bu birleşimi, üreme için çok gerekli olan doğada bireylerin ve ırkların çaprazlanmasına karşılık gelir. Benzetme,
+başka bir yerde ima ettiğim gibi, alan izin verirse daha da ileri götürülebilir ve daha da yakınlaştırılabilir. Bu, doğada yaratıcı gücün olmamasının gerekli bir koşuludur ve türler veya fikirler olsun tüm evrim
+süreçlerine eşit olarak uygulanır, ancak konu burada verilebilecek olandan daha geniş bir
+inceleme gerektirir. Bu makaleyi yazmamdaki amacım, genelleme yapmaktan ziyade, belirli formların gelişimini izlemektir, konunun felsefesini ayrı bir incelemeye bırakmalıyım.
+
+Farklı ülkelerde kullanılan çeşitli ilkel kilitlerin yukarıdaki tanımından, sanırım, bazılarının kesinlikle ortak bir
+merkezden türetildiği açıkça ortaya çıkacaktır. Ahşap anahtarlı pimli kilitler, Mısır'dan Yarkand'a kadar uzanan bölgeye yayılmıştır. Aynı türdeki İskandinav ahşap kilitlerinin, yapım detaylarında farklılık gösterse de, Norveç ve İskoçya'da yaygın olduğunu ve bir şekilde Batı Hint Adaları ve Britanya Guyanası'na taşındığını gördük; Avrupa'daki Roma dönemine ait boru şeklindeki yaylı asma kilit ise İtalya'dan doğuda Çin ve Japonya'ya, kuzeyde İngiltere ve İskandinavya'ya, güneyde Habeşistan'a ve batıda Batı Afrika ve Cezayir, İspanya'ya ve Batı Hint Adaları'na kadar uzanan tüm bölgede bulunan kilitle aynıdır. Bazen taş ve bronz silahlar, daha basit süs eşyaları ve ilkel yaşama açıkça uyarlanmış aletler gibi basit düzeneklerin geniş alanlara ve birbirinden çok uzak yerlere yayıldığı görüldüğünde, bunların yapımı ve kullanımı için gerekli olan birkaç fikrin kolayca bağımsız olarak farklı yerlerde ortaya çıkmış olabileceği düşünülür. Sanat biçimlerinin kalıcılığından etkilenen ilkel kültür öğrencisine, bu tür şeylerin bağımsız kökeni en basit düzeneklerde bile o kadar kesin görünmez. Ancak, yay, kasa, paralel çubuk ve anahtar olmak üzere birkaç parçadan oluşan karmaşık bir mekanizma parçasına geldiğimizde, bunların hepsinde benzerlik uzak ülkelerde korunur ve küçük değişikliklerle ve sürekli ilerleyen iyileştirmelerle dünyanın her yerinde aynı şekilde bir araya getirilir. Böyle bir varsayım kabul edilemez, ortak bir kökene olan ihtiyaç açıktır ve bunun dağılımıyla bağlantılı dönemlerin ve koşulların incelenmesi gereksiz olarak bir kenara bırakılamaz.
+
+Tumbler pin-lock ve yaylı asma kilidin Avrupa'da çağımızın başlangıcından daha öncesine kadar izlenemeyeceğini varsayarsak, bunların başka yerlerde daha önce var olmamış olabileceği kesin değildir. Erken dönemlerde Doğu ile yapılan ticaret, malları güvence altına almak için herhangi bir düzenek
+olmasının çok olası olduğunu, malların Çin, Hindistan ve Avrupa arasında ihraç ve ithal
+edilmesiyle birlikte bir yerden bir yere yayılmış olması gerektiğini çok olası kılıyordu. Farklı ülkeler arasındaki ticaret ilişkilerinin kısa bir incelemesi bunu göstermek için yeterli olacaktır.
+
+ALEXANDER'in seferi, Yunan Baktriya krallığı tarafından sürdürülen
+bir ilişkiye yol açtı ve hem madeni paraların hem de heykellerin son Hindistan keşifleri, Yunan sanatının çağımızın başlangıcına kadar Hindistan'da uyguladığı büyük etkiyi giderek daha fazla kanıtlıyor. STRABO, M.Ö. 22, NICOLAUS DAMASCENUS, AUGUSTUS Sarayı'na giderken Antakya Epidafne'de üç Hint elçisiyle karşılaştı ve onların belgelerinin Yunanca olduğunu söyledi.
+DIODORUS, IAMBULUS'tan alıntı yaparak, 1. yüzyılın başlarında Kral PALIBOTHRA'dan Yunanlıları seven biri olarak söz eder.
+DIO CHRYSOSTOM, HOMER'in şiirlerinin Hintliler tarafından söylendiğini ve AELIAN'ın sadece Hintlilerin değil, Pers krallarının da bunları tercüme edip söylediğini söyler.
+APOLLONIUS ve DAMIS'in seyahatlerine itibar edilecekse, Yunanca, MS 500'lü yılların ilk yarısında Pencap'ta konuşuluyordu ve bu ülke ile Mısır arasında sık sık iletişim olduğu görülüyor.[38] MS 1. yüzyılda PLINY, VARRO'nun yetkisiyle, POMPEY'in yönetimi altında, Hindistan'dan Baktri ülkesindeki modern Roscha olduğuna inanılan İkarus Nehri'ne gitmenin yedi gün sürdüğünü ve Hindistan'ın mallarının Hazar Denizi üzerinden Kiros'a taşınarak en fazla beş günde kara yoluyla Pontus'taki Phasis'e getirilebileceğini tespit ettiğini söylüyor.[39] Roma'da kullanılan en iyi çelik Çin'den ithal ediliyordu.[40] MS 2. yüzyılda ARRIAN, Baktriya üzerinden Hindistan'a doğru uzanan sık kullanılan bir yoldan [Yunanca: leophoros odos] bahsediyor; ardından antik yazarlar tarafından Doğu'dan dört elçilik fark ediliyor, biri MS 107'de TRAJAN'a; bir diğeri ANTONINUS
+PIUS'a, M.S. 138-161; üçüncüsü JULIAN'a, M.S. 361; ve dördüncüsü JUSTINIAN'a, M.S. 530. Bunlar, Hindistan ve Roma arasında sık sık gerçekleşmiş olması gereken ve M.S. 3. yüzyılın başında SEVERUS ve CARACALLA'nın
+hükümdarlıkları sırasında en yüksek gelişimine ulaşan bir ilişkinin yalnızca yetersiz anılarıdır.
+
+[38] 'Tyana'lı Apollonius'un Hindistan Seyahatleri', OSMOND
+DE BEAUVOIR PRIAULX.
+
+[39] PLINY, Kitap vi., bölüm 19.
+
+[40] 'Antik Bronz Aletler', JOHN EVANS, D.C.L.,
+&c., s. 19; PLINY'NİN 'Ulusal Tarih'i, Kitap xxxiv., bölüm 41.
+
+Şimdi Hindistan ile güneydeki iletişim yoluna dönersek, PLINY
+Taprobane'yi (Seylan) anlatır ve oradan İmparator CLAUDIUS'a gönderilen bir elçilikten bahseder. 1. yüzyılda musonların keşfi Hindistan ile İskenderiye arasında büyük bir ticaretin
+yaratılmasının aracıydı. STRABO, PTOLEMİLER zamanında yaklaşık 20
+geminin sadece Hint denizlerine girdiğini, ancak bu trafiğin o kadar
+büyük ölçüde arttığını, kendisinin de Arap Körfezi'ndeki Myos Hormos'ta Hindistan'a giden 120 gemi gördüğünü söyler. PLINY, İskenderiye'den Hindistan'a kendi zamanındaki rotayı ayrıntılı olarak verir ve bunun dikkate değer olduğunu söyler çünkü Hindistan her yıl imparatorluğu en az 550 sestertii'den, tahminen 1.400.000 İngiliz parasından mahrum eder ve karşılığında kendi mallarını geri verirdi, bu mallar orijinal maliyetlerinin tam yüz katına satılırdı ve yolculuğun her yıl şu rota üzerinden yapıldığını söyler: İskenderiye'den iki mil uzaklıkta, Nicopolis olduğu düşünülen Juliopolis kasabası vardı. Oradan Nil'e kadar olan mesafe 308 mil idi ve yolculuk 12 günde elverişli bir rüzgarla gerçekleştirildi. Yolculuk Coptos'tan develerle, Mısır'ın güney sınırındaki bir liman olan Berenice'ye, 257 mil, 12 günde daha yapıldı. Burada yolcular genellikle
+yaz ortasında yelken açarlardı ve yaklaşık 30 gün içinde Arabistan'daki Ocelis'e, şimdi
+Gehla olarak adlandırılan yere veya Cava Canim Koyu olduğu varsayılan Cane'ye varırlardı. Buradan,
+hippaulus adı verilen rüzgar esiyorsa,
+40 günde
+Hindistan'daki en yakın nokta olan Muzitis'e, yani modern Mangalore'a varmak mümkündü. Ancak burası
+karaya çıkmak için uygun bir liman değildi ve bu nedenle Barace tercih edilirdi.
+Buraya, Cochin veya Travancore olduğu varsayılan Cottonara'dan tek bir gövdeden yapılmış
+oyulmuş kanolarla biber taşınırdı. Dönüş yolculuğu genellikle güneydoğu musonundan yararlanılarak Ocak ayında yapılırdı, bu sayede aynı yıl gidip dönebiliyorlardı.
+Ancak PLINY yazdığında, Hindistan ile ticaret henüz emekleme aşamasındaydı,
+sonra muhtemelen Hint kıyılarında Yunan fabrikaları kurulmuştu, bu da o kıyıdaki bazı kasabaların Yunanca isimlerini açıklıyor.
+
+Ancak İskenderiye halkı refahlarında küstahlaşınca, HADRIAN Hindistan'a giden en doğrudan yol olan Palmira'dan geçen rotayı teşvik etmeye yönlendirildi. MS 2. yüzyılda bile
+Palmira üzerinden Roma ile Hindistan arasındaki ticaret önemli olmalıydı, çünkü Çinlilerin dikkatini çekmişti. Onların yıllıkları
+bunun esas olarak deniz yoluyla yapıldığını söylüyor; Romalı tüccarların Burma, Tonquin ve Cochin Çin ile ticari ilişkilerinden ve buraları ziyaret etmelerinden bahsederler ve MS 166 yılında Çin hükümdarı tarafından kabul edilen Roma imparatorundan bir elçiliğin anısını korumuşlardır. Arap veya yerel gemilerin Hindistan ürünlerini Basra Körfezi'nden Fırat'ın ağzına kadar getirdiği görülmektedir. Teredon'da yüklerini boşalttılar ve mallar daha sonra develerle Vologesia'ya taşındı; Palmira tüccarları bu yerden bunları aldılar ve burada Avrupa ürünleriyle takas edildi. Hatta 5. yüzyıla kadar Hindistan ve Çin'den gelen gemilerin, Babil'in biraz güneyinde, Fırat üzerindeki Hira'da yattığı belirtilir. Bu ticaretin etkisiyle Palmira hızla zenginleşti ve güçlendi, ta ki GALBERIUS'un dul eşi Roma'ya olan bağlılığını
+kaybedene kadar. Bu, MS 275'te AURELIAN tarafından şehrin yıkılmasına yol açtı,
+bu da Roma'nın Hindistan ile Pers Körfezi üzerinden yaptığı ticarete son verdi. İskenderiye'nin Hindistan ile yaptığı ticaret hemen hemen aynı zamanda azaldı
+ve barbarlar Hindistan'ın gemilere bindiği liman olan Coptos'u işgal etti,
+yaklaşık MS 279.
+
+Palmira'nın düşüşünden sonra Hindistan ticareti Fırat'ın yakınındaki Batne'ye taşındı,
+ancak bu sadece kısa bir süre devam etti ve 4. ve 5. yüzyıllarda Roma tüccarları açısından yok olduğu kabul edilebilir. Ancak ticaret hala Araplar tarafından sürdürülüyordu. MS 375 civarında EPIPHANIUS, Hindistan tüccarlarının mallarını Roma topraklarına ithal ettiği Berenice üzerinden yapılan ticaretin bir hesabını verir ve ayrıca 6. yüzyılda Roma ile Hindistan arasında büyük bir ticaretin
+var olduğuna dair Çin otoritesi de vardır. MA-TOUAN-LIN, M.S. 1317, antik çağlara ilişkin araştırmalarında, M.S. 500-516 yıllarında Hindistan'ın Ta-Tsin, Roma İmparatorluğu ve Ansi Suriyelilerle önemli miktarda deniz ticareti yaptığını,[41] ancak Arap gemilerinin değil, Roma gemilerinin kullanıldığını doğrular. MASOUDI, 7. yüzyılın başlarında Babil ile Hint ve Çin ticaretinin esas olarak Hintlilerin ve Çinlilerin elinde olduğunu söyler. Point de Galle'yi döndükten sonra olağan geçiş, G.B. musonu sırasında Madras kıyısına doğru sürünerek ilerlemek ve
+Masulapatam'dan Ganj'ın ana girişine doğru bir çıkış noktası almaktı.[42] Bu arada, 3. ve 4. yüzyıllarda Avrupa ile Hindistan arasındaki kara ticareti, 4. yüzyılda Çin ile ticari ilişkilere giren Sasaniler tarafından yürütülüyordu, 6. yüzyılda bu ülkeye sık sık elçilikler gönderdiler ve bu yolla ipek Avrupa'ya ithal edildi. MS 712'de Sind Araplar tarafından fethedildi ve Mansurah ve Multan krallığına ek olarak Bania ve Kasdar'da başka bağımsız Müslüman hükümetler kuruldu.[43] Ayrıca, tüccar SULAMIN'in ve Bay EDWARD THOMAS'ın Balhara paraları üzerindeki araştırmalarının kanıtları da var ve bu araştırmalar 9. yüzyılda Arapların Hindistan ile ilişkilerinin devam ettiğini kanıtlıyor.
+
+[41] PRIAULX, s. 244.
+
+          [42] "Hint Balhara'sı ve Arapların Hindistan'la ilişkileri
+          Dokuzuncu ve Sonraki Yüzyıllarda", yazan: E. THOMAS, F.R.S.,
+          'Numismata Orientalia', cilt. iii., 1882. [43] E. THOMAS, F.R.S. tarafından yazılan "Sind'deki Arapların Madeni Paraları", 'Hint Antikacısı'nda.
+
+Tüm bu zaman boyunca İskandinavya ile Roma arasındaki ilişkilerin neredeyse daha az kapsamlı olduğu görülüyor. Romalılar İskandinavya'ya nüfuz etmeyi başaramamış olsalar da, madeni paraların, bronz ve cam vazoların ve diğer sanat eserlerinin keşfi, İskandinav sanatının MS 2. yüzyılın ilk bölümünde Roma ile olan ilişkiden büyük ölçüde etkilendiğini kanıtlamak için yeterlidir. Toplumun erken evrelerinde, deniz yoluyla iletişim, kara yolculuklarından daha fazla trafik kolaylığı sağlıyordu ve bu nedenle, artık çok izole edilmiş ve antikacılar dışında nadiren ziyaret edilen Gotland Adası, Roma ve Doğu mallarının ve medeniyetinin İskandinavya'ya girişi için bir kapı görevi görmüş gibi görünüyor.[44] Roma imparatorluğunun çöküşünden sonra,
+İskandinavya, Bizans ile ara sıra gerçekleşen etkileşimlerin yardımıyla kendi kaynaklarına bırakıldı, ta ki 8. yüzyıldan 11. yüzyılın ortalarına kadar uzanan demir çağının sonlarına doğru, Doğu ile başka bir iletişim hattı kurulana kadar,
+çoğunlukla Gotland Adası üzerinden İskandinavya'ya girdi. Bay HILDEBRAND,
+İsveç ve Gotland'da 20.000 Arap sikkesinin keşfedildiğini kaydeder ve bunların Rus buluntuları tarafından Hazar yakınlarındaki eyaletlerden, Rusya üzerinden Baltık kıyılarına ve oradan da Gotland sakinlerinin kurduğu ticaret sayesinde o adaya iletildiğini izler. Gotland'dan ve muhtemelen Rusya ile doğrudan etkileşim yoluyla, Müslüman sikkeleri İskandinavya'ya yayıldı ve İsveç'in doğu eyaletlerinde, batıda veya Norveç'te olduğundan daha yaygın hale geldi. Bu madeni paraların büyük bir kısmının 880 ile 955 yılları arasında İsveç'e geldiği anlaşılıyor, ancak en sonuncusu 1010 yılına ait. Burada belirtilen iletişim hattında, hem silindir kilit hem de yaylı asma kilide uyarlanmış türde demir anahtarlar, Vladimir ve Jaroslav hükümetlerinde, Neriens'in mezarlarında keşfedildi[45], yaklaşık 8. yüzyıla tarihleniyor ve bu da büyük olasılıkla bu kilitlerin İsveç'e bu hat üzerinden ithal edildiğini gösteriyor. Burada bulunan asma kilidin anahtarı, Roma anahtarı (şek. 21C, Levha V.), Hint anahtarı (şek. 46C, Levha VI.) ve Kahire'den gelen modern anahtar (şek. 47C, Levha VI.) biçimindeydi. Ayrıca İsveç kilidine (şek. 26C, Levha V.) benziyor ve mekanizmanın en ilkel biçimine ait.
+
+[44] O. MONTELIUS'un 'La Suede Prehistorique'i.
+
+[45] "Antiquites du Nord Finno-Ougrien", J. R. ASPELIN, 'Age du Fer', iii., şekil 977, 980, 981.
+
+Bu trafik İskandinavya ile Doğu arasında devam ederken, Vikinglerin ilişkileri 787'de başlayıp 11. yüzyıla kadar devam eden Britanya, İrlanda ve Manş Denizi kıyılarıyla devam etti. Batı'nın bu ilişkileri, Doğu ile olanlar gibi, esas olarak Gotland üzerinden gerçekleşmiş gibi görünüyor; ve bu adada ve İsveç'in doğusunda bulunan Anglosakson sikkelerinin sayısı Norveç ve Batı'da keşfedilenleri büyük ölçüde aşıyor.
+
+Hristiyanlık Dönemi'nin başlarında Güney Avrupa ile Doğu ve Kuzey arasındaki ticari ilişkilere dair kanıtların yukarıdaki özeti, erken kilit ve anahtar biçimlerinin yayılması için yeterli olanakların olduğunu göstermeye yeterlidir. Asma kilit, özellikle de - "pad" kelimesinin etimolojisine atıfta bulunurken söylediğim gibi, taşınabilir mallarla ilişkilendirilen kilit sınıfıydı - dünyanın ticari ilişkilerin kurulduğu tüm bölgelerine taşınmış olmalı. Çeşitli kilit türlerinin hangi zamanda ve hangi kanallar aracılığıyla dağıtıldığı, ancak asma kilitlerin arkeolojisi hakkında daha kapsamlı bir soruşturmadan sonra belirlenebilir. Ancak, bazı noktaların, sunduğum kanıtlarla az çok belirlenmiş olarak kabul edilebileceğini düşünüyorum. Şekil 44C'de gösterilen asma kilitlerin özel biçimi, Hindistan'dan
+Tablo VI. ve Şekil 21C'de gösterilen, Avrupa'nın Roma döneminden
+
+Avrupa'da Roma döneminden sonra bu kesin asma kilit biçiminin kullanıldığını bilmediğimden büyük olasılıkla Roma zamanlarında iletilmiş olmalıdır,
+bu makalede açıklanan daha
+modern gelişmelerle değiştirilmiştir.
+Mısır, İran ve Çin'de hayvan biçiminde asma kilitlerin kullanımı da büyük olasılıkla aynı döneme ait olmalıdır. Çin ve Japon asma kilitleri, mekanizmanın gelişiminin daha ileri bir aşamasına ait gibi görünmektedir ve Orta Çağ'da Avrupa'da kullanılan biçime karşılık gelmektedir; oysa Avrupa, Hindistan ve Japonya'da, şekillerde gösterildiği gibi, yayları sıkıştırmak için döner anahtarın kullanımı 39C, Levha VI., 90C,
+Levha VIII. ve 98C, Levha XI., sanatın daha sonraki bir aşamasına ait olmalı; ve bu ülkelerde bağımsız olarak getirilen iyileştirmeler olarak görülmedikleri sürece, fikir daha yakın bir zamanda olmasa bile Arap tüccarlar aracılığıyla yayılmış olmalı. Benzer şekilde, bu kilitlerle vida prensibinin benimsenmesi ya tüccarlar tarafından iletilmiş ya da farklı ülkelerde halihazırda kullanılan asma kilit biçimine bağımsız olarak uygulanmış olmalı. Şekil 26C ve 31C, Levha V'de görüldüğü gibi, zımbanın menteşesi, geniş bir dağılıma sahip olan paralel çubuğun daha önceki biçiminden türetilmiş olsa da, evrensel olarak benimsenmemiştir, ancak esas olarak İsveç ve Avrupa'da kullanılmaktadır ve şüphesiz modern zamanlarda getirilen bir iyileştirmedir. Bağlantının tarihine ilişkin tatmin edici bir yargıya varılabilmesi için, tüm bu farklı çeşitlerin dağılımını daha sürekli olarak izleyebilmemizi sağlayacak daha fazla bilgiye ihtiyaç vardır. İskandinavya'da asma kilidin Gotland, Bjoerkoe ve İsveç'te kullanıldığını görüyoruz; ve HANS HILDEBRAND, Güney Kensington Müzesi tarafından yayınlanan 'İskandinavya'nın Endüstriyel Sanatları'[46] adlı eserinde, bunların Pagan dönemlerinde o bölgede zaten bilindiğini söylüyor. Bu duyurunun, mevcut makalenin yalnızca ilk giriş olarak kabul edilebileceği bir konu hakkındaki araştırmalarının daha ayrıntılı bir şekilde yayınlanmasının sadece bir ön hazırlığı olması umulmaktadır - daha önce etnolojik ve ticari yönleriyle bildiğim kadarıyla. Yerel arkeologlar geri kalanını çözmeli. Yeterince şey söylendiğine inanıyorum
+kilit ve anahtar arkeolojisi öğrencisi için geniş bir alan açık ve bu mekanizmanın tarihi, benim Avrupa'da izlemeye çalıştığım şekilde
+İskandinavya, İran, Hindistan ve Çin'de izlendiğinde, tarihi olmayan zamanlarda
+uzak ülkelerin ticaret ve ticari ilişkilerinin sonuçlarına çok ışık tutulacaktır.
+
+[46] 'The Industrial Arts of Scandinavia', HANS HILDEBRAND, 1883.
+
+[İllüstrasyon: LEVHA I.
+
+Şekil 1. Ortak pimden türetilen Japon kitap tutturucu.
+
+Şekil 2 ve 3. Günümüzde Avusturya'daki Gastein'da kullanılan ortak ahşap cıvata.
+
+Şekil 2. Ön görünüm.
+
+Şekil 3. A B'nin enine kesiti.
+
+_a._ Sap. _b._ Cıvata. _c c._ Sap için yarık, _a._
+
+Şekil 4 ve 5. Pimli sabitlemeli ahşap cıvata (varsayılan form).
+
+Şekil 4. Ön görünüm.
+
+Şekil 5. A B üzerindeki enine kesit.
+
+Şekil 6 ila 8. Ahşap tekli mandal cıvata (varsayılan form).
+
+Şekil 6. Ön görünüm (açık).
+
+Şekil 7. Ön görünüm (kapalı).
+
+Şekil 8. A B üzerindeki enine kesit.
+
+Şekil 9A ila 11A. Faroe Adaları'ndan ahşap çift mandal kilidi.
+
+Şekil 9A. Ön görünüm.
+
+Şekil 10A. Uzunlamasına kesit.
+
+Şekil 11A. Enine kesit.
+
+_a._ Cıvata. _b b._ Anahtarın dişleri, _c._ _d d._ Mandallar.
+_e e e._ Blok. _f f._ Cıvatadaki delikler.
+
+Şekil 12A ila 17A. Eski İskoç ahşap mandal kilidi (Patent Müzesi).
+
+Şekil 12A. Ön görünüm.
+
+Şekil 13A. Yan görünüm.
+
+Şekil 14A. Uzunlamasına kesit.
+
+Şekil 15A. Enine kesit. Şekil 16A. A'dan B'ye kesit.
+
+Şekil 17A. C'den D'ye kesit.]
+
+[Resim: LEVHA I.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA II.
+
+Şekil 18A ila 22A. Eski İskoç üçlü ahşap kilit (Patent Müzesi).
+
+Şekil 18A. Ön görünüm.
+
+Şekil 19A. Yan görünüm.
+
+Şekil 20A. Uzunlamasına kesit.
+
+Şekil 21A. Enine kesit.
+
+Şekil 22 A. A'dan B'ye kesit (şekil 21A).
+
+Şekil 23A ila 25A. Norveç'ten ahşap kilit (Hazilius Müzesi,
+Stockholm).
+
+Şekil 23A. Ön görünüm.
+
+Şekil 24A. Uzunlamasına kesit.
+
+Şekil 25A. A B'de enine kesit.
+
+Şekil 26A ila 28A. Jamaika'daki zencilerin yaptığı ahşap kilit
+(Müze, Kew Gardens).
+
+Şekil 26A. Ön görünüm.
+
+Şekil 27A. Uzunlamasına kesit.
+
+Şekil 28A. A B'de enine kesit.
+
+Şekil 29A ila 31A. Britanya Guyanası'ndan ahşap kilit (CHRISTY
+Koleksiyonu).
+
+Şekil 29A. Ön görünüm.
+
+Şekil 30A. Uzunlamasına kesit.
+
+Şekil 31A. Enine kesit.
+
+Şekil 9B. Şekil 29B'nin, Plaka III.'te, tek bir kilit için anahtar olarak kullanılması muhtemeldir.
+
+Şekil 10B ila 12B. Günümüzde kullanılan modern Mısır ahşap kilit veya pim kilidi.
+
+Şekil 10B. Anahtar A ile kaldırılmış mandalları gösteren uzunlamasına kesit
+cıvata B'yi çıkarmaya hazırlık.
+
+Şekil 11B. Anahtar A.
+
+Şekil 12B. Mandalları aşağıda ve cıvatayı
+kilitli gösteren uzunlamasına kesit.]
+
+[Resim: LEVHA II.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA III.
+
+Şekil 13B ve 14B. Yarkand'dan modern ahşap bardak veya pim kilidi
+(Hindistan Müzesi).
+
+Şekil 13B. Anahtar A ile kaldırılmış mandalları gösteren uzunlamasına kesit
+cıvata B'yi çıkarmaya hazırlık.
+
+Şekil 14B. Mandalları aşağıda ve cıvatayı
+kilitli gösteren uzunlamasına kesit.
+
+Şekil 15B ila 20B. Roma bardak kilidi reprodüksiyonu (Mainz Müzesi)
+(Lindenschmit).
+
+Şekil 15B. Ön görünüm.
+
+Şekil 16B. Uzunlamasına kesit.
+
+Şekil 17B. C D'deki enine kesit.
+
+Şekil 18B. A B'den geçen kesit.
+
+Şekil 19B. Cıvata (üst görünüm).
+
+Şekil 20B. Anahtar.
+
+_a._ Anahtar. _b._ Cıvata. _c._ Blok, _e._ Kilit. _f f._ Tumbler.
+_g._ Yay. _h._ Yay plakası.
+
+Şekil 21B. Hetternheim'dan antik kilit, Roma.
+
+Şekil 22B. Oppenheim'dan bronz cıvata, Roma.
+
+Şekil 23B. Heddernheim'dan bronz cıvata, Roma.
+
+Şekil 24B. Mayence'de Ren Nehri'nde bulunan demir anahtar,
+Roma.
+
+Şekil 25B. Koğuş plakalı kilit için anahtar, Roma ('La
+Ferronnerie').
+
+Şekil 26B. Compiegne Ormanı'nda bulunan tekli kilit için cıvata, Roma ('La Ferronnerie').
+
+Şekil 27B. Nonfous, İsviçre'de bulunan tekli kilit için anahtar, Roma ('La Ferronnerie').
+
+Şekil 28B. Modern kilit açma.
+
+Şekil 29B. Niderolm'daki Germano-Romen mezarında bulunan anahtar (olası kullanım
+şekil 9B, Plaka II'de gösterilmiştir.).
+
+Şekil 30B. } Kent'teki Sarr'da bulunan Anglosakson anahtarlar ('Archaeologia
+Şekil 31B. } Cantiana').
+
+Şekil 32B. } Baltık'taki Bornholm'dan iki anahtar ('Memoires
+Fig. 33B. } de la Societe Royale es Antiquaries du Nord').]
+
+[İllüstrasyon: TABLO III.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[İllüstrasyon: TABLO IV.
+
+Şekil 34B. Galler'deki Caerwent'te bulunan anahtar ("Isca Silurum").
+
+Şekil 35B. } Kent, Hartlip'teki Roma villasında bulunan iki anahtar
+Şekil 36B. } ('Collectanea Antiqua').
+
+Şekil 37B. } Oise, St. Pierre-en-Chastre'de bulunan iki anahtar.
+Galya. General PITT-RIVERS tarafından çekilen çizimlerden,
+Şekil 38B. } Musee de Saint Germain'de.
+
+Şekil 39B. Blandford yakınlarındaki Spettisbury'de bulunan anahtar. İngiliz.
+(İngiliz Müzesi.)
+
+Şekil 40B. } Lewes yakınlarındaki Mount Caburn Kampı'nda bulunan iki anahtar,
+Şekil 41B. } Yazar tarafından. İngiliz. ('Archaeologia.')
+
+Şekil 42B. Sussex'teki Cissbury Kampı'nda bulunan anahtar. İngiliz. ('Journal
+Anthropological Institute.')
+
+Şekil 43B. Omuzda anahtar taşımanın eski biçimini temsil eder,
+Caburn'da bulunan İngiliz anahtarına uyarlanmıştır. (Şekil 41B.)
+
+Şekil 1C ve 2C. Modern İskandinav cıvatası ve anahtarı ('La
+Ferronnerie').
+
+Şekil 1C. Ön görünüm.
+
+Şekil 2C. A B üzerinde enine kesit.
+
+Şekil 3C ila 5C. Modern İskandinav cıvatası ve anahtarı, yaylı A.
+Dr. ENGELHARDT tarafından sunulan ve Norveç'te kullanılan bir modelden.
+
+Şekil 3C. Uzunlamasına kesit.
+
+Şekil 4C. Enine kesit.
+
+Şekil 5C. Anahtar deliğini gösteren görünüm.
+
+Şekil 6C. } Clermont-Ferrand, Auvergne'den iki demir anahtar,
+Şekil 7C. } Fransa.
+
+Şekil 8C. } Colchester, Essex'ten iki demir anahtar, ("Uriconium"). Şekil 9C. }
+
+Şekil 10C. Weymouth yakınlarındaki Jordan Tepesi'nden demir anahtar.
+
+Şekil 11C. Caudebec-les Elbeuf'ten ('La Ferronnerie') demir anahtar.
+
+Şekil 12C. Yukarıdakilerle birlikte bulunan demir kilit plakası (şekil 11C).
+
+Şekil 13C. } Kent, Hartlip'teki Roma villasından iki demir anahtar
+Şekil 14C. } ('Collectanea Antiqua').
+
+Şekil 15C. } Kent, Sarr'daki Anglosakson mezarlarından üç anahtar
+Şekil 16C. } ('Archaeologia Cantiana').
+Şekil 17C. }
+
+Şekil 18C. Gotland'dan bronz anahtar, Demir Çağı ('Antiquites
+Suedoises').
+
+Şekil 19C. } Botni Körfezi'ndeki Bjoerkoe'den iki anahtar, 8.
+Şekil 20C. } veya 9. Yüzyıl M.S.]
+
+[Resim: LEVHA IV.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA V.
+
+Şekil 21C ve 22C. Jordan Hill, Weymouth'da bulunan Roma asma kilidinin parçaları.
+
+Şekil 21C. Kilit kasasının ve paralel çubuğun yan görünümü.
+
+Şekil 22C. Yaylı mandallı sürgü yan görünümü. _a._ Cıvata. _b b._
+Sürgünün dik çubukları _c c._ Paralel çubuğun üzerine kayması için halkalar _d._ _e._ Tutma yayları. _f._ Sürgünün içinden geçtiği
+borudaki delik. _g._ Anahtar.
+
+Şekil 23C ila 25C. Great Chesterford, Essex'te bulunan Roma asma kilitleri
+('Arkeoloji Dergisi').
+
+Şekil 23C. Varsayılan orijinal formun yan görünümü.
+
+Şekil 24C. Sürgüyü gösteren geliştirilmiş form, _a_.
+
+Şekil 25C. Sürgüsüz geliştirilmiş form.
+
+Şekil 26C ve 27C. Eski İsveç asma kilidi.
+
+Şekil 26C. Uzunlamasına kesit.
+
+Şekil 27C. Sürgü ve yayların yan görünümü. _d._ _h_ noktasında menteşede dönen ve _j_ noktasında tüp kutusuna giren paralel çubuk.
+
+Şekil 28C ila 30C. Eski Rus bronz asma kilidi, St. Petersburg ('La
+Ferronnerie').
+
+Şekil 28C. Sürgü ve yayların yan görünümü.
+
+Şekil 29C. Tüp kutusunun yan görünümü.
+
+Şekil 30C. Yaylar için açıklığı gösteren kutunun ucu.
+
+Şekil 31C ve 32C. Londra yakınlarındaki Epping'den eski İngiliz kelepçe kilidi.
+
+Şekil 31C. Uzunlamasına kesit.
+
+Şekil 32C. Sürgü ve yayların yan görünümü A. Yukarıda gösterilen
+anahtarın yan ve uç görünümleri.
+
+Şekil 33C. Norman Kampı, Folkestone'daki kazılarda surda bulunan yaylı sürgü parçası ('Archaeologia').
+
+Şekil 34C. Kent, Swanscombe'da bulunan demir asma kilit, 15. yüzyıl
+('Arkeoloji Dergisi').
+
+Şekil 35C. Rushmore, Wiltshire'dan modern asma kilidin uzunlamasına kesiti (anahtarla birlikte), spiral yaylı mekanizma.
+
+Şekil 36C. Paris'ten modern asma kilidin yan görünümü, spiral yaylı mekanizma.
+
+Şekil 37C. Almanya'dan modern asma kilidin yan görünümü, spiral yaylı mekanizma.
+
+Şekil 38C. Wiltshire'dan modern kelepçenin uzunlamasına kesiti,
+spiral yaylı, döner anahtarla açılıyor.]
+
+[Resim: LEVHA V.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA VI.
+
+Şekil 39C ila 41C. Asma kilit, Paris'ten, muhtemelen 17. yüzyıl, yaylı kilit, döner anahtarla açılıyor.
+
+Şekil 39C. Ön görünüm.
+
+Şekil 40C. Enine kesit.
+
+Şekil 41C. Uzunlamasına kesit.
+
+Şekil 42C ve 43C. Eski demir asma kilit, Clermont-Ferrand, Fransa.
+
+Şekil 42C. Ön görünüm.
+
+Şekil 43C. Yan görünüm.
+
+Şekil 44C ila 46C. Hindistan'daki Moultan Kapısı'ndan, Roma asma kilidine benzer yapıdaki demir asma kilit (Hindistan Müzesi).
+
+Şekil 44C. Yan görünüm.
+
+Şekil 45C. Yayların yan görünümü.
+
+Şekil 46C. Anahtarın yan görünümü.
+
+Şekiller. 47C ve 48C. Kahire'den modern demir asma kilit; sürgü paralel çubuktaki bir yuvaya giriyor.
+
+Şekil 47C. Uzunlamasına kesit.
+
+Şekil 48C. Anahtarın uç ve yan görünümleri.
+
+Şekil 49C ve 50C. Kahire'den modern asma kilit; yanal
+hareketli anahtar.
+
+Şekil 49C. Yan görünüm.
+
+Şekil 50C. Uç görünümü.
+
+Şekil 51C ve 52C. Hindistan'dan modern asma kilit; yanal
+hareketli ve siperli anahtar; sürgü paralel çubuktaki bir yuvaya giriyor.
+
+Şekil 51C. Yan görünüm.
+
+Şekil 52C. Uç görünümü.
+
+Şekil 53C ila 55C. Hindistan, Myhere'den modern asma kilit (Hindistan Müzesi).
+
+Şekil 53C. Yan görünüm.
+
+Şekil 54C. Uzunlamasına kesit.
+
+Şekil 55C. Enine kesit.
+
+Şekil 56C ve 57C. Eski Mısır kelepçesi.
+
+Şekil 56C. Yan görünüm.
+
+Şekil 57C. Uzunlamasına kesit.]
+
+[Resim: TABLO VI.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: TABLO VII.
+
+Şekil 58C ila 60C. Modern asma kilit, Habeşistan'dan (British Museum),
+paralel çubuktaki bir yuvaya giren sürgü.
+
+Şekil 58C. Yan görünüm.
+
+Şekil 59C. Sürgü ve yayların yan görünümü.
+
+Şekil 60C. Anahtarın ön görünümü.
+
+Şekil 61C ila 63C. Modern pirinç Çin asma kilidi.
+
+Şekil 61C. Yan görünüm.
+
+Şekil 62C. Cıvata ve yayların yan görünümü.
+
+Şekil 63C. Enine kesit.
+
+Şekil 64C ila 67C. Yarkand'dan (Hindistan Müzesi) modern pirinç asma kilit.
+
+Şekil 64C. Yan görünüm.
+
+Şekil 65C. Cıvata ve yayların yan görünümü.
+
+Şekil 66C. Enine kesit.
+
+Şekil 67C. Boyuna kesit (aşağıya bakış).
+
+Şekil 68C ila 70C. Indore, Hindistan'dan modern çelik kilit (Hindistan Müzesi).
+
+Şekil 68C. Yan görünüm.
+
+Şekil 69C. Boyuna kesit.
+
+Şekil 70C. Uç görünüm (anahtar deliğini gösteriyor).
+
+Şekil 71C ila 74C. Hindistan'dan modern çelik kilit (Hindistan Müzesi).
+
+Şekil 71C. Yan görünüm.
+
+Şekil 72C. Boyuna kesit.
+
+Şekil 73C. Uçtan görünüm.
+
+Şekil 74C. Anahtarın uçtan ve yandan görünümü.]
+
+[Resim: LEVHA VII.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA VIII.
+
+Şekil 75C ila 77C. Vidalı koğuşlu, Burma'dan modern asma kilit (Hindistan Müzesi).
+
+Şekil 75C. Yan görünüm.
+
+Şekil 76C. Uzunlamasına kesit.
+
+Şekil 77C. Uçtan görünüm (anahtar deliğini gösterir).
+
+Şekil 78C. Vidalı koğuşlu, Nürnberg'den modern asma kilit parçası.
+Anahtar deliğini gösteren uçtan görünüm, aynı anahtar deliğine ait yan ve uç görünümleri.
+
+Şekil 79C ila 81C. Spiral yaylı, Hindistan, Indore'dan modern çelik kilit (Hindistan Müzesi).
+
+Şekil 79C. Yan görünüm.
+
+Şekil 80C. Uzunlamasına kesit.
+
+Şekil 81C. Uçtan görünüm.
+
+Şekil 82C ila 84C. Hindistan'dan vidalı modern çelik kilit
+(Hindistan Müzesi).
+
+Şekil 82C. Yan görünüm.
+
+Şekil 83C. Uzunlamasına kesit.
+
+Şekil 84C. Uçtan görünüm.
+
+Şekil 85C ila 89C. Brüksel'den vidalı modern demir kilit.
+
+Şekil 85C. Yan görünüm.
+
+Şekil 86C. Uzunlamasına kesit.
+
+Şekil 87C. Zımbanın yan görünümü.
+
+Şekil 88C. Zımbanın uç görünümü.
+
+Şekil 89C. Anahtarın yan görünümü.
+
+Şekil 90C ila 92C. Hindistan, Mysore, Toomkoor'dan dönen bir anahtarla sıkıştırılmış yaylı modern asma kilit (Hindistan Müzesi).
+
+Şekil 90C. Yan görünüm.
+
+Şekil 91C. Uzunlamasına kesit (aşağıya doğru).
+
+Şekil 92C. Anahtarın yan görünümü.]
+
+[Resim: LEVHA VIII.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA IX.
+
+Şekil 93C ila 97C. Modern Japon pirinç asma kilitler.
+
+Şekil 93C. Yan görünüm.
+
+Şekil 94C. Cıvatanın ve yayların yan görünümü.
+
+Şekil 95C. Uç görünümü (anahtar deliğini gösterir).
+
+Şekil 96C. Anahtarın yan ve uç görünümü.
+
+Şekil 97C. Yan görünüm (anahtar deliğini gösterir).
+
+Şekil 98C ve 99C. Modern Japon pirinç asma kilit, yaylar
+dönen bir anahtarla sıkıştırılır.
+
+Şekil 98C. Yan görünüm (anahtar deliğini gösterir).
+
+Şekil 99C. Anahtarın yan görünümüyle uç görünüm.
+
+Şekil 100C ve 101C. Antik bronz balık biçimli asma kilit ('La
+Ferronnerie'), Mısır'dan olduğuna inanılıyor, Paris'teki Louvre'da.
+
+Şekil 100C. Yan görünüm.
+
+Şekil 101C. Uzunlamasına kesit.
+
+Şekil 102C ila 104C. Modern çelik balık biçimli asma kilit, Hindistan'dan
+(Hindistan Müzesi).
+
+Şekil 102C. Yan görünüm.
+
+Şekil 103C. Uzunlamasına kesit.
+
+Şekil 104C. Anahtarın uç görünümü.
+
+Şekil 105 ve 106. Dr. JOHN EVANS, F.R.S.'ye ait, at biçimindeki Antik Roma bronz kilidi.
+
+Şekil 105C. Yan görünüm.
+
+Şekil 106C. Yaylar için açıklıkları gösteren uç.
+
+Şekil 107C ila 109C. Aslan biçiminde, yayları arkadan giren, Bay CHUBB'a ait modern pirinç Çin asma kilidi.
+
+Şekil 107C. Yan görünüm.
+
+Şekil 108C. Cıvatanın ve yayların yan görünümü.
+
+Şekil 109C. Ön görünüm, anahtarı takma yöntemini gösteriyor.
+
+Şekil 110C. Kahire'den demir asma kilidin ön görünümü, günümüzde Napoli'de de yaygın olarak
+kullanılıyor.
+
+Şekil 111. Londra'da bulunan, bardakları kaldırmak için döner anahtar ('La
+Ferronnerie').
+
+Şekil 112. Londra, Lothbury'de bulunan, iki bardağı kaldırmak için döner anahtar ('Arkeoloji Dergisi').]
+
+[Resim: LEVHA IX.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+[Resim: LEVHA X.
+
+Şekiller. 113 ila 116. Hindistan'dan, döner bir
+anahtara uyarlanmış modern ahşap kilit (Hindistan Müzesi).
+
+Şekil 113. Ön görünüm. A, sürgü.
+
+Şekil 114. Uzunlamasına kesit.
+
+Şekil 115. Enine kesit.
+
+Şekil 116. Anahtar.
+
+Şekil 117 ila 121. Modern ahşap Çin kilit, sürgüler
+T şeklinde bir anahtarla kaldırılmış; sürgü, döner bir
+anahtar veya
+kulp, _a_ ile vurulmuştur.
+
+Şekil 117. Ön görünüm.
+
+Şekil 118. Enine kesit, A B.
+
+Şekil 119. Uzunlamasına kesit.
+
+Şekil 120. Sürgünün üstten görünümü.
+
+Şekil 121. Anahtarın üstten görünümü.
+
+Şekil 122. Londra'da bulunan Roma demir anahtarı.
+
+Şekil 123. Chalons'dan anahtar ('La Ferronnerie').
+
+Şekil 124. Saumur Müzesi'nden anahtar ('La Ferronnerie').
+
+Şekil 125. Saint Germain Müzesi'nden anahtar ('La Ferronnerie').
+
+Şekil 126. Modern İngiliz mandal anahtarı.
+
+Şekil 127. Orta Çağ'da kullanılan karmaşık bölmeli kilit.
+
+Şekil 128 ila 130. Bay CHUBB'a ait olan Funtley, Hants'ta bulunan modern mandal kilidi.
+
+Şekil 128. Uzunlamasına kesit.
+
+Şekil 129. Uçtan görünüm ve kesit.
+
+Şekil 130. Sürgünün üstten görünümü.
+
+Şekil 131. BARRON'S kilit (TOMLINSON 'Kilit ve Anahtarlar Üzerine').]
+
+[İllüstrasyon: TABLO X.
+_Wyman & Sons, Matbaacılar, Gt. Queen St. Londra, W.C._]
+
+Proje Gutenberg E-Kitabının Sonu, Augustus Pitt-Rivers'ın
+İlkel Kilit ve Anahtarların Gelişimi ve Dağıtımı
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK PRIMITIVE LOCKS AND KEYS ***
+
+***** This file should be named 44022.txt or 44022.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/0/2/44022/
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
