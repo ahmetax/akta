@@ -1,0 +1,734 @@
+*** START OF AKTAHEADER ***
+Başlık: Learning Theory (Öğrenme Teorisi)
+Yazar: James McConnell
+Yayın Tarihi: October 5, 2019 [EBook #60434]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/60434
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: psikoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Learning Theory, by James McConnell
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Learning Theory
+
+Author: James McConnell
+
+Release Date: October 5, 2019 [EBook #60434]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LEARNING THEORY ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Mary Meehan ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+ÖĞRENME TEORİSİ
+
+JAMES MC CONNELL TARAFINDAN
+
+_Kaderin hileleri bazen oldukça tuhaf olabilir. Ve bununla
+övünmek gerekir. Kozmik bir şaka,
+bir kabusu evcilleştirebilen bir cadı!_
+
+[Yazıcının Notu: Bu e-metin
+Worlds of If Science Fiction, Aralık 1957'den üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının
+yenilendiğine dair hiçbir kanıt ortaya çıkarmamıştır.]
+
+Bunu yazıyorum çünkü O'nun bunu yapmamı istediğini varsayıyorum. Aksi takdirde
+benim kullanmam için elimde kağıt ve kalem bırakmazdı. Ve "O" kelimesini büyük harflerle yazdım çünkü yapılacak tek şey bu gibi görünüyor. Eğer
+ölmüş ve cehennemde isem, o zaman bu çok uygundur. Ancak, eğer sadece bir yerde tutsaksam, o zaman biraz iltifat işleri kesinlikle bozmaz.
+
+Burada bu küçük odada oturup bunu düşündüğümde, en çok
+tüm şeyin ani oluşundan etkilendim. Bir an
+banliyö evimin yakınındaki ormanda yürüyüşe çıkmıştım. Bir sonraki bildiğim şey,
+burada küçük, özelliksiz bir odada, bir alakarga kadar çıplak, delilikle aramda sadece
+mantıksal çıkarım güçlerimle duruyordum.
+"Değişiklik" yapıldığında (ne olursa olsun),
+ormanda yürümekle
+bu odada olmak arasında anlık bir titreşimin bile farkında değildim. Bütün bunlardan kim sorumluysa iltifat edilmeli - ya anında bir anestezi geliştirmiştir
+ya da maddenin anında taşınması sorununu çözmüştür.
+İlkini düşünmeyi tercih ederim, çünkü ikincisi çok fazla
+endişe yaratır.
+
+Hatırladığım kadarıyla, geçiş geldiğinde, başlangıç ​​psikolojisinde sınıfa Öğrenme Teorisi'nin daha anlaşılması zor noktalarından bazılarını nasıl öğreteceğim sorununa dalmıştım. Üniversitedeki hayat şu anda ne kadar uzakta görünüyor: Eğer şimdi birinci sınıf öğrencilerinin Hull veya Tolman'ı nasıl anlamaya ikna edilebileceğinden
+çok daha fazla nerede olduğum ve buradan nasıl çıkacağımla ilgileniyorsam affedilmeliyim.
+
+Sorun #1: Neredeyim? Bir cevap için, sadece bu odayı tarif edebilirim.
+Yaklaşık yirmi fit kare, yaklaşık on iki fit yüksekliğinde, penceresi yok,
+ama duvarlardan birinin ortasında bir kapı olabilecek bir şey var.
+Her şey tekdüze gri renkte ve duvarlar ve tavan oldukça hoş bir akromatik ışık yayıyor. Duvarların kendisi biraz soğuk hissettirdiği için metal olabilecek sert bir malzemeden.
+Yer, üzerinde yürüdüğümde biraz esneyen daha yumuşak, kauçuksu bir malzemeden. Ayrıca, oldukça "karıncalanma" hissi var, bu da sürekli titreşimde olabileceğini düşündürüyor. Duvarlardan biraz daha sıcak, ki bu da iyi bir şey çünkü sanırım yerde uyumam gerekiyor.
+
+Odadaki tek mobilya bir masa olabilecek bir şey ve
+sandalye olarak geçen bir şeyden oluşuyor. Tam olarak öyle değiller ama bu amaca hizmet edecek şekilde yapılabilirler. Masanın üzerinde kağıt ve kalemi buldum.
+Hayır, kendimi düzelteyim. Kağıt dediğim şey alıştığım şeyden çok daha pürüzlü ve kalın ve kalem dediğim şey masaya sürterek
+bilediğim ince yuvarlak bir grafit çubuğundan başka bir şey değil.
+
+Ve çevremdeki her şey bundan ibaret. Keşke O'nun
+giysilerimle ne yaptığını bilseydim. Takım elbise eskiydi ama
+yürüyüş botları konusunda endişeliyim. O botlara çok düşkündüm--oldukça pahalıydılar ve onları kaybetmekten nefret ederdim.
+
+Ancak, cehennemin ta kendisi değilsem, cehennemin tam olarak neresinde olduğum sorusunun cevabı hâlâ cevaplanmayı bekliyor!
+
+Sorun #2 daha da karmaşık bir soru: Neden buradayım? Paranoyak eğilimlere maruz kalsaydım, şüphesiz düşmanlarımın beni kaçırdığı sonucuna varırdım. Ya da belki Ruslar araştırmamla o kadar ilgilenmişlerdi ki beni Sibirya'daki bir saklanma yerine kaçırmışlardı ve yakında ya işbirliği ya da ölüm talep edeceklerdi. Ne yazık ki, ben fazla gerçeklik odaklıyım. Araştırmam benim için ve belki de hayvan öğrenmesinin ezoterik sorunlarıyla uğraşmayı seven birkaç psikolog için oldukça ilgi çekiciydi, ancak kaçırılma gibi bir ilgiyi hak edecek kadar şaşırtıcı değildi.
+
+Bu yüzden daha önce olduğu gibi şaşkın kaldım. Neredeyim ve neden?
+
+Ve O kim?
+
+* * * * *
+
+Bu günlüğü "günlere" veya "saatlere" göre tutma girişimlerinden vazgeçmeye karar verdim.
+Bu tür zaman birimlerinin şu anki koşullarımda hiçbir anlamı yok, çünkü ışık uyanık olduğum her an sabit kalıyor.
+İnsan organizması, bazı alt türler kadar düzgün bir iç saate sahip değil. Çok fazla çalışma, tüm dış uyaranlardan izole edilmiş bir insanın zaman duygusunu kısa sürede kaybettiğini göstermiştir. Bu yüzden sadece anlatıdaki kesintileri belirteceğim ve umarım O, bana kol saatimi bırakacak kadar zeki değilse, benden doğru bir kayıt tutmamı bekleyemeyeceğini anlayacaktır.
+
+Pek bir şey olmadı. Uyudum, beslendim ve su içtim ve mesanemi ve bağırsaklarımı boşalttım. En son uyandığımda yemek masada bekliyordu. Şunu söylemeliyim ki, O'nda gurmelik pek yok.
+Protein topları benim için kraliyet ziyafeti fikri değil. Ancak, bedeni ve ruhu bir arada tutmaya yarayacaklar (elbette, şu anda birlikte olduklarını varsayarak). Ancak sıvı
+yenilenme kaynağıma itiraz etmeliyim. Yemek beni çok susattı ve uyurken duvarda beliren küçük bir meme ucunu fark ettiğimde O'na ve diğer herkese küfür ediyordum. İlk başta
+belki de Freud haklıydı ve libidomun imgelemimi
+ele geçirdiğini düşündüm. Ancak deneyler beni
+şeyin gerçek olduğuna ve şu anki su kaynağım olduğuna ikna etti. Eğer biri o şeyi
+emerse, biraz serin ve biraz tatlı bir sıvı akışı
+sağlar. Ama gerçekten, bu çok onursuz bir işlem. Doğum günü kıyafetimle
+bütün gün oturmak yeterince kötü. Ama tam bir profesörün
+su almak için ayak uçlarında durup yapay bir meme emmesi biraz fazla.
+Şikayetimi kime
+edeceğimi bilseydim, Yönetime şikayet ederdim!
+
+Yemek ve içmenin ardından, doğaya olan çağrı görmezden gelinemeyecek kadar
+güçlendi. Şimdi, iç mekan tesisatıyla yeterli tuvalet eğitimi almıştım ve bunun olmaması çok can sıkıcı. Ancak, odanın bir köşesini seçip
+pek de hoş olmayan bir durumdan en iyi şekilde yararlanmaktan başka yapılacak pek bir şey yoktu. (Bir yan düşünce olarak, bir köşeyi seçmenin herhangi bir şekilde içgüdüsel olup olmadığını merak ediyorum?). Ancak, tüm bunların sonucu, muhtemelen zeminin titreşiminin amacının ne olduğunu öğrenmem oldu. Çünkü atılan madde çok fazla dakika
+sonra zeminden kayboldu. Süreç kademeliydi.
+Şimdi, çok uzun süre uyursam
+başıma ne gelebileceğiyle ilgili her türlü rahatsız edici düşünceyle karşı karşıya kalacağım:
+
+Belki de bu beklenen bir şey, ama sonuçta kendimi biraz
+paranoyaklaşmış buluyorum. 2 Numaralı Sorunumu, yani neden burada olduğumu çözmeye çalışırken, Üniversitedeki meslektaşlarımdan bazılarının beni bir tür deneyde denek olarak kullanıp kullanmadığını merak etmeye başladım.
+Bu, McCleary'nin fantastik bir tür "insan-izole" deneyi hayal edip beni pilot gözlemci olarak kullanması gibi olurdu. Önce benim iznimi isteyeceğini düşünürdünüz. Ancak,
+belki de konunun başına neler geldiğini bilmemesi önemlidir.
+Eğer öyleyse, beni teselli edecek mutlu bir düşüncem var. Eğer McCleary bundan
+_sorumluysa_, şimdilik derslerimin öğretimini
+üstlenmek zorunda kalacak. Ve birinci sınıf öğrencilerine Öğrenme Teorisi öğretmekten
+nasıl da nefret ediyor:
+
+Biliyor musun, burası bana korkunç derecede sessiz görünüyor.
+
+* * * * *
+
+Birdenbire iki sorunumu çözdüm. Hem nerede olduğumu hem de
+O'nun kim olduğunu biliyorum. Ve hareket algısıyla ilgilenmeye başladığım günü kutsuyorum.
+
+Başlamak için şunu söylemeliyim ki, bu odadaki hava normalden daha fazla toz parçacığına sahip gibi görünüyor. Bu, çoğunun özellikle bir duvara karşı zeminde yığıldığını fark edene kadar özellikle dikkat çekici görünmedi. Bir süre bunun havalandırma sisteminden kaynaklandığından emin oldum - belki de bu duvarın zemine birleştiği yerde dışarı çıkan bir hava kanalı vardı.
+Ancak, gidip elimi oraya koyduğumda
+hiçbir esinti hissedemedim. Yine de elimi duvarla zemin arasındaki sınır çizgisi boyunca tuttuğumda, toz zerreleri elimi ince bir tabaka ile kapladı. Aynı deneyi odanın her yerinde denedim
+ama bir faydası olmadı. Bu fenomenin meydana geldiği tek yer burasıydı ve bu duvarın tamamı boyunca meydana geldi.
+
+Ama eğer havalandırma fenomenin sorumlusu değilse, sorumlusu neydi?
+Birden aklıma roketçilerin ilk kez insanlı bir uydu istasyonu önerdiği
+zaman yaptığım bazı hesaplamalar geldi.
+Mühendisler çoğu durumda bir insanın performansına gelince çok saftırlar ve uydunun dönüşünün algılanması sorununun
+kaydırma çubuğu kalabalığı tarafından
+görünüşe göre göz ardı edildiğini hatırladım. Yerçekimi kuvvetinin yerine merkezkaç kuvvetini koymak için donut şeklindeki uyduyu
+döndürmeyi
+planlamışlardı. Böylece donutun dış kabuğu, içindeki herkese "aşağıda" gibi görünecekti. Görünüşe göre insanın
+en azından yerçekiminin çekimindeki değişikliklere olduğu kadar açısal dönüşe de duyarlı olduğunu fark etmemişlerdi. Sorunu o zaman anladığıma göre,
+donutun içindeki bir adam kafasını
+donutun merkezinden üç veya dört fit dışarı doğru hareket ettirirse, oldukça başı dönerdi! Oldukça
+sinir bozucu olurdu, her sandalyeye oturduğunda bir mide bulantısı dalgasıyla
+vurulmuş olması da. Ayrıca, sorunu düşündükçe,
+toz parçacıklarının ve benzerlerinin muhtemelen
+dönme yönünün tersine doğru hareket etme eğilimi göstereceği ve dolayısıyla uçuşlarını
+engelleyen herhangi bir duvara veya benzeri şeye yığılacağı ortaya çıktı.
+
+Toz parçacıklarının davranışını bir ipucu olarak kullanarak,
+masanın üzerine
+çıktım ve atladım. Gerçekten de, yere indiğimde başım bir katırın
+tekmelediği gibi hissediyordu. Hipotezim
+doğrulandı.
+
+Yani bir uzay gemisindeyim:
+
+Düşünce inanılmaz, ama garip bir şekilde rahatlatıcı. En azından
+şimdi cennet ve cehennem hakkında endişelenmeyi erteleyebilirim--ve bir şekilde
+bir uzay gemisinde olma fikrinin kesin bir agnostiğin çok daha hoşuna gittiğini görüyorum. Sanırım McCleary'ye bir özür borçluyum--kendisini
+birinci sınıf öğrencilerine öğrenme hakkında her şeyi öğretmek zorunda kalacağı bir pozisyona asla sokmayacağını bilmeliydim:
+
+Ve tabii ki, "O"nun kim olduğunu biliyorum. Ya da daha doğrusu, O'nun kim _olmadığını_ biliyorum,
+ki bu da yine başka bir şey. Elbette, yine de, artık O'nu insan olarak düşünemiyorum. Bunun beni teselli edip etmemesi gerektiğini
+söylemenin bir yolu yok.
+
+Yine de, _neden_ burada olduğum hakkında hiçbir fikrim yok, ne de bu uzaylının
+uzay gemisine bir ziyarette bulunmak için beni seçmesinin nedenini. Benim
+olası ne gibi bir
+faydam olabilir ki? Elbette, insan ırkıyla temas kurmakla ilgileniyor olsaydı, bir politikacıyı kaçırırdı. Sonuçta, politikacılar bunun için var! Ancak benimle iletişim kurmak için hiçbir çaba sarf edilmediğinden, O'nun amacının _cins
+homo_ ile temas kurmak olduğuna dair beslediğim umutları gönülsüzce terk etmeliyim.
+
+Ya da belki O bir tür galaktik bilim insanı, bir tür biyolog, numune topluyor. Şimdi, bu özellikle kötü bir düşünce. Ya bir fizyolog çıkarsa ve sonunda beni kesip neyin beni harekete geçirdiğini görmekle ilgilenirse? İç organlarım, mikroskop altında onlarca genç Hims'in bakabileceği bir cam slayta mı bulaştırılacak? Brrrr! Hayatımı Bilime adamayı umursamıyorum ama bunu azar azar yapmayı tercih ederim.
+
+Eğer sizin için sorun olmazsa, sanırım bir süre kendimi bastırmaya gideceğim.
+
+* * * * *
+
+Aman Tanrım! Bunu bilmeliydim! Kader küçük oyunlarını oynayacak ve
+tüm şakaların kozmik açıları vardır. O bir _psikolog_! Eğer 
+gerekli önemi verseydim, ne zaman yeni bir türle karşılaşırsanız, önce davranış, sonra fizyoloji hakkında endişelendiğinizi fark ederdim. Bu yüzden en büyük hakareti aldım - ya da en büyük iltifatı. Hangisi olduğunu bilmiyorum. Bir uzaylı psikoloğu için bir örnek oldum!
+
+Bu düşünce ilk olarak son uykumdan sonra uyandığımda aklıma geldi
+(itiraf etmeliyim ki, çok korkutucu rüyalarla doluydu). Odada bir şeylerin değiştiği hemen belliydi. Hemen
+bir anda duvarlardan birinin artık bir tür kolu olduğunu ve kolun bir tarafında duvarda küçük bir delik ve deliğin altında bir kap olduğunu fark ettim. Kolu
+yanına doğru yürüdüm, birkaç saniye inceledim, sonra yanlışlıkla şeye bastım.
+Anında yüksek bir tık sesi geldi ve bir protein topu delikten
+çıktı ve kabın içine düştü.
+Bir anlığına kaşlarım çatıldı. Bu bir şekilde çok
+tuhaf bir şekilde tanıdık geldi. Sonra, birdenbire çılgınca bir kahkaha attım.
+Oda devasa bir Skinner Kutusu'na dönüşmüştü! Yıllardır beyaz fareleri bir Skinner Kutusu'na koyarak ve farelerin davranışlarındaki değişiklikleri izleyerek hayvan öğrenimini inceliyordum. Sıçanlar, hücremin duvarına sabitlenmiş bir aparat aracılığıyla kendilerine ulaştırılan bir yiyecek peletini almak için kolu bastırmayı öğrenmek zorundaydı. Ve şimdi, tüm bu yıllardan ve yaptığım tüm öğrenme çalışmalarından sonra, kendimi bir Skinner Kutusu'nda bir sıçan gibi sıkışmış halde buldum! Belki de bu cehennemdi, dedim kendi kendime ve Yüce Cellat'ın "cezanın suça uymasına izin verin" öğüdüne uyuluyordu.
+
+Açıkçası, bu ani olaylar beni biraz sarstı.
+
+* * * * *
+
+Teoriye göre hareket ediyor gibiyim. Kolu bastırmanın bana bazen yiyecek vereceğini,
+diğer zamanlarda ise tek aldığım şeyin tık sesi ve protein topu olmadığını keşfetmem uzun sürmedi. Görünüşe göre her on iki saatte bir şey bana rastgele sayıda protein topu getiriyor - şu ana kadar sayı beş ile on beş arasında değişti. Cihazın kaç tane pelet -yani protein topları- vereceğini önceden asla bilemem ve bunları aralıklı olarak püskürtür. Bazen bana bir şey vermesi için kolu bir düzine kadar kez basmam gerekirken, diğer zamanlarda her basışta bana bir top verir. Saatim olmadığı için, on iki saatin ne zaman geçtiğinden asla emin olamam, bu yüzden koldan aşağı iner ve beslenme zamanının yaklaştığını düşündüğümde birkaç dakikada bir basarım. Tıpkı farelerimin her zaman yaptığı gibi. Ve peletler küçük olduğu ve asla yeterince alamadığım için, bazen kendimi aptal bir hayvanın tüm zorlantısıyla kolu vururken bulurum. Ancak bir kez beslenme saatini kaçırdım ve kol bir sonraki sefere yiyecek vermeden önce neredeyse açlıktan ölüyordum (öyle görünüyordu). Yaralı gururum için tek teselli, bu açlık hızında, kısa sürede cumbalı penceremi kaybedeceğimdir. En azından beni öldürmek için şişmanlatmıyor gibi görünüyor. Ya da belki
+sadece yağsız eti seviyor!
+
+* * * * *
+
+Terfi ettim. Görünüşe göre O, sonsuz uzaylı bilgeliğiyle
+Skinner tipi aparatı idare edebilecek kadar zeki olduğuma karar vermiş, bu yüzden bir labirenti çözmeye terfi ettim. Durumun ironisini hayal edebiliyor musunuz? Tüm klasik Öğrenme Teorisi metodolojisi
+pratik olarak yüzüme fırlatılıyor. Keşke O'nunla
+iletişim
+edebilseydim! Testlere tabi tutulmayı, hafife alınmayı
+kabul ettiğim kadar umursamıyorum. Neden, O'nun bana fırlattığından
+yüzlerce kat daha karmaşık bulmacaları çözebilirim. Ama O'na nasıl söyleyebilirim?
+
+Görünen o ki, labirent bizim standart T-labirentlerimize çok benziyor ve
+öğrenmesi çok da zor değil. Oldukça uzun bir labirent, doğru, yol boyunca yaklaşık 23 seçim noktası var. Kendimi ilk bulduğumda yarım saatin daha iyi bir kısmını orada dolaşarak geçirdim.
+Şaşırtıcı bir şekilde, ilk seferde ne içinde olduğumu fark etmedim,
+bu yüzden doğru dönüşleri ezberlemek için bilinçli bir girişimde bulunmadım.
+Son dönüşe ulaşana ve beni bekleyen yiyecekleri görene kadar
+ne yapmam gerektiğini fark etmedim. Labirentte bir sonraki sefer performansım çok daha iyiydi ve çok uzun olmayan bir sürede mükemmel bir performans ortaya koyabildim. Ancak, kendi beyaz farelerimin labirenti benden biraz daha erken öğrenebileceğini fark etmek egoma hiç iyi gelmiyor.
+
+Tabiri caizse, "ev kafesimde" hala Skinner aparatı var, ancak
+kol artık sadece ara sıra yiyecek getiriyor. Hala arada sırada bir şans veriyorum, ancak her seferinde labirentin sonunda oldukça iyi bir yiyecek tedariki aldığım için, kolu pek dikkate almıyorum.
+
+Şimdi başıma ne geldiğinden çok emin olduğum için, doğal olarak düşüncelerim bu durumdan nasıl kurtulabileceğime yöneldi. Labirentleri çok fazla zorlanmadan çözebiliyorum, ancak görünüşe göre nasıl kaçacağım
+zihinsel kapasitemin ötesinde. Ama sonra, düşününce, kendi deney hayvanlarımın pençelerimden kurtulma şansı çok azdı. Ve kaçamayacağımı varsayarsak, o zaman ne olacak?
+O beni istediği kadar zorladıktan sonra,
+oradan nereye gideceğiz? Bana insan olmayan deneklerimin çoğuna davrandığım gibi mi davranacak, yani kloroform içeren bir kavanoza mı atılacağım? "Deneyin ardından, hayvanlar kurban edildi," bilimsel literatürde eufemistik bir şekilde bildirdiğimiz gibi. Tahmin edebileceğiniz gibi, bu bana pek çekici gelmiyor. Ya da belki de O'na özellikle zeki görünürsem, beni üreme amaçlı, kendi kolonisini kurmak için kullanabilir. Şimdi, bunun olasılıkları olabilir...
+
+Ah, lanet olsun Freud'a!
+
+* * * * *
+
+Ve lanet olsun O'na da! Labirenti yeni öğrenmiştim ki,
+ve her şeyi değiştirdi.
+Sonunda hedef kutusuna ulaşana kadar uzun süre güneş ışığında bir yarasa gibi sendeledim. Korkarım ki performansım oldukça
+zayıftı. Yaptığı şey, tüm labirenti tersine çevirmekti, böylece eskiden olduğu şeyin bir ayna görüntüsü oldu. Çözümü bulmam sadece iki deneme aldı. Eğer o kadar zekiyse, bunu O bulsun!
+
+* * * * *
+
+Labirenti tersine çevirmedeki performansım O'nu memnun etmiş olmalı, çünkü şimdi yeni bir komplikasyon ekledi. Ve yine, doğru yönde düşünmüş olsaydım, bir sonraki adımı tahmin edebilirdim. Birkaç saat önce uyandığımda kendimi tamamen farklı bir
+odada buldum. Odada hiçbir şey yoktu, ama karşımdaki duvarda iki kapı vardı - biri bembeyaz, diğeri simsiyah. Benimle kapılar arasında suyla dolu derin bir çukur vardı. Durumun görünümünü beğenmedim, çünkü hemen
+benim için bir tür zıplama standı tasarladığını düşündüm. Hangi kapının açık olduğunu ve yiyeceğe
+açıldığını seçmem gerekiyordu. Diğer kapı
+kilitli olacaktı. Yanlış kapıya atlasam ve kilitli bulsam,
+suya düşerdim. Kesinlikle bir banyoya ihtiyacım vardı, ama
+bunu bu şekilde yapmaktan hoşlanmıyordum.
+
+Orada durup izlerken hayatımın şokunu yaşadım. Bunu kastetmiştim
+tam anlamıyla. Piç herif her şeyi düşünmüştü. Eskiden
+zıplama standlarında fareleri koşturduğumda, zıplama isteksizliğini yenmek için,
+onlara şok verirdim. O da tam olarak aynı örüntüyü izliyor. Bu odadaki zemin
+tel ama iyi. Uludum, zıpladım ve
+her zamanki kaygılı davranışlarımı sergiledim. Ancak,
+aklımı başıma toplayıp beyaz kapıya doğru uçarak sıçramam iki saniyeden az sürdü.
+
+Biliyor musun? O su buz gibi soğuk!
+
+* * * * *
+
+Şimdi, kendi hesaplamalarıma göre, zıplama standında en az 87 farklı
+sorunu çözdüm ve bundan bıktım usandım.
+Bir keresinde sinirlendim ve sadece doğru kapıyı işaret ettim--ve devam edip zıplamadığım için
+şaşırdım. Kahrolası cinayet diye bağırdım, yüksek sesle O'na küfür ettim,
+performansımı beğenmediyse,
+kesinlikle kabul edebileceğini söyledim. Elbette yaptığı tek şey,
+şoku artırmaktı.
+
+Açıkçası, buna daha ne kadar dayanabileceğimi bilmiyorum. İşin zor olduğu söylenemez. Bana yeteneklerimi göstermem için yarım bir şans verseydi, aldırmazdım. Sanırım
+binlerce farklı kaçış yolu düşündüm, ama hiçbiri bahsetmeye değmez. Ama eğer buradan yakında çıkmazsam, çılgınca
+çıldıracağım!
+
+* * * * *
+
+Olay olduktan sonra yaklaşık bir saat boyunca bu odada oturdum ve sadece ağladım.
+Yetişkin bir adamın ağlamasının kültürümüzdeki tarz olmadığının farkındayım, ama kültürel tabuların unutulması gereken zamanlar vardır.
+Yine de, aklında olan deneyler hakkında çok fazla düşünmüş olsaydım, büyük ihtimalle bir sonraki adımı tahmin edebilirdim. Yine de, büyük ihtimalle bilgiyi bastırırdım.
+
+Herhangi bir öğrenme psikoloğunun ilgilendiği standart problemlerden biri şudur: Bir hayvan, performansı için onu ödüllendirmezseniz bir şey öğrenir mi? Hull ve Spence gibi, ödülün (veya dedikleri gibi "pekiştirmenin") öğrenmenin gerçekleşmesi için kesinlikle gerekli olduğuna inanan birçok teorisyen vardır. Bu, biraz olsun sağduyusu olan herkesin bildiği gibi, sadece saçmalıktır, ancak yine de "pekiştirme" teorisi yıllardır alanda baskındır. Spence ve Hull ile zorlu bir mücadele verdik ve bir noktada onları köşeye sıkıştırdık, aniden "ikincil pekiştirme" kavramını ortaya attılar. Yani, bir ödülle ilişkilendirilen her şey, kendi başına bir ödül olarak hareket etme yeteneğini kazanır. Örneğin, sadece yiyecek görmek bile başlı başına bir ödül haline gelirdi - aslında, yiyeceği yemek kadar bir ödül. Gerçekten de yiyecek _görmek_! Ama yine de,
+teorilerini şimdilik kurtardı.
+
+Son beş yıldır, bir ödülün _görüntüsünün_ öğrenmenin gerçekleşmesi için yeterli olmadığını
+şüpheye yer bırakmayacak şekilde gösterecek bir deney tasarlamaya çalışıyorum. Ve şimdi
+bana ne olduğuna bakın!
+
+Eminim ki O, teorilerinde Hull ve Spence'e doğru eğiliyor,
+çünkü bugün erken saatlerde, kendimi zıplama standı odasında bulduğumda,
+doğru zıplamayı yaptığımda her zamanki protein toplarımla ödüllendirilmek yerine, ben--üzgünüm ama bunun hakkında yazmak
+şimdi bile zor. Çünkü doğru zıplamayı yaptığımda ve kapı açıldığında ve
+yemek oluğuna doğru yürüdüğümde,
+yemeğin bir
+fotoğrafla değiştirildiğini gördüm. Bir takvim fotoğrafı. Biliyorsunuz ya. Adı, sanırım,
+Monroe.
+
+Yere oturdum ve ağladım. Beş yıl boyunca ikincil güçlendirme teorisinin geçerliliğine saldırdım ve şimdi kendimi O'na teorinin doğru olduğuna dair kanıt sunarken buluyorum! Çünkü
+hangi kapıdan atlamak için doğru kapının
+olduğunu "öğrenmekten" kendimi alamıyorum.
+Alet üzerinde durup hayatımın şoklanmasını
+reddediyorum ve her seferinde yanlış kapıyı seçip
+her seferinde buzlu bir banyo yapmayı reddediyorum. Bu adil değil! Çünkü şüphesiz ki her şeyi fotoğrafın sadece _görüntülenmesinin_ bir ödül işlevi gördüğü ve benim sadece Bayan Ne-adı'nı çıplak teniyle görebilmek için sorunları öğrendiğim gerçeğine bağlayacaktır!
+
+Şimdi O'nu, bu uzay gemisinin başka bir yerinde otururken,
+Ona verdiğim tüm verileri toplarken, her türlü
+öğrenme eğrisini çizerken, tüm
+sevimli teorilerini doğruladığım için Kendi kendine kıkırdarken görebiliyorum. Keşke...
+
+* * * * *
+
+Yukarıdaki bölümü yazalı neredeyse bir saat oldu. Daha uzun gibi görünüyor, ama kesinlikle sadece bir saat olmuştur. Ve ben bu zamanı
+derin düşüncelere dalarak geçirdim. Çünkü buradan bir çıkış yolu keşfettim, sanırım. Soru şu, bunu yapmaya cesaret edebilir miyim?
+
+O'nun oturup kahkaha atması ve teorilerini doğrulaması hakkındaki paragrafı yazarken, birdenbire teorilerin kullanılan ekipmandan doğduğu aklıma geldi. Bu muhtemelen tüm bilimin tarihi boyunca doğruydu, ama belki de en çok psikolojide doğruydu. Eğer Skinner o lanet olası
+kutuyu icat etmemiş olsaydı, labirent ve zıplama standı geliştirilmemiş olsaydı, muhtemelen bugün sahip olduğumuzdan
+tamamen farklı öğrenme teorilerimiz olurdu. Çünkü başka hiçbir şey değilse bile, kullanılan ekipman türü, kişinin deneklerinin gösterebileceği davranış türünü büyük ölçüde azaltır ve kişinin teorileri yalnızca laboratuvarlarda görülen davranış türünü hesaba katmak zorundadır.
+
+Bundan da aynı tür deneysel prosedürleri tasarlayan herhangi iki kültürün neredeyse aynı teorileri ortaya koyacağı sonucu çıkar.
+
+Tüm bunları aklımda tutarak, O'nun
+keskin bir takviye teorisyeni olduğuna inanmam benim için zor değil, çünkü O, onların kullandığı tüm çeşitli
+malzemeleri kullanıyor ve bunları tam olarak aynı şekilde kullanıyor.
+
+Bu nedenle kaçış yolum açıktır. O, benden
+tüm evcil teorilerinin onaylanmasını bekliyor. Eh, artık ona ulaşamayacak! Ben
+tüm teorilerini baştan sona biliyorum ve bu da O'na
+teorilerini yarı yarıya parçalayacak
+sonuçları nasıl vereceğimi bildiğim anlamına geliyor!
+
+Neredeyse sonuçları tahmin edebiliyorum. Herhangi bir öğrenme teorisyeni, düzgün davranmayan, tahmin edilen sonuçları vermeyi
+reddeden bir hayvanla ne yapar? İnsan, oldukça doğal bir şekilde, canavardan kurtulur.
+Çünkü insan, çalışmasında yalnızca sağlıklı, normal hayvanlar kullanmak ister ve
+"alışılmadık" sonuçlar veren herhangi bir hayvan çalışmadan çıkarılır, ama
+çabuk bir şekilde. Sonuçta, beklendiği gibi performans göstermiyorsa, bir şekilde hasta, anormal veya sapkın olmalı...
+
+Elbette, şu anki rahatsız edici varlığımdan kurtulmak için hangi yöntemi kullanacağının garantisi yok. Beni "kurban" mı edecek? Yoksa beni sadece "kalıcı koloniye" mi geri gönderecek? Söyleyemem. Sadece şu anda tahammül edilemez bir durumdan kurtulacağımı biliyorum.
+
+Bundan sonra sonuçlarına bakana kadar bekleyin!
+
+* * * * *
+
+GÖNDEREN: Baş Deneyci, Yıldızlararası Laboratuvar Gemisi PSYCH-145
+
+KİME: Bilim Bürosu Müdürü
+
+Arkadaşım Thlan, bu gayriresmi bir mektup olacak. Resmi raporu daha sonra göndereceğim, ancak önce size öznel
+izlenimlerimi vermek istedim.
+
+Yeni keşfedilen türlerle ilgili çalışmalar şu an için durma noktasında. İlk başlarda her şey çok iyi gidiyordu. Normal, sağlıklı bir hayvan gibi görünen bir şey seçtik ve onu standart test cihazımızın içine serpiştirdik. Size bu yeni türün normal laboratuvar hayvanlarımıza oldukça benzediğini söylemiş olabilirim, bu yüzden ev hayvanlarımızın çok sevdiği birkaç "oyuncak" ekledik: odun hamurundan yapılmış ince malzeme parçaları ve küçük bir grafit çubuğu. Bu yeni numunenin, ev kolonimizdeki tüm numunelerle aynı malzemeleri kullandığını gördüğünüzde yaşadığımız şaşkınlığı ve memnuniyeti hayal edin. Evrenin her yerinde alt türlerde belirli doğuştan gelen davranış kalıpları olabilir mi?
+
+Ben sadece soruyu soruyorum. Cevap bir Öğrenme Teorisyeni için pek önemli değildir. Arkadaşınız Verpk, bu "oyuncakların" kullanımının daha derin bir anlamı olabileceği ve belki de daha fazla araştırma yapmamız gerektiği konusunda ısrar ediyor. Onun ısrarı üzerine, ilk denek tarafından kullanılan materyalleri bu gayrı resmi yazıya ekliyorum. Bana göre, Verpk kaba bir antropomorfizmden suçludur ve soruyla daha fazla bir ilgim olmasını istemiyorum. Ancak, bu davranış bize yeni keşfettiğimiz koloninin, performansları standart teoriye tam olarak uygun olan deneklere
+sahip olacağı konusunda umut verdi.
+
+Ve gerçekte, durum tam olarak böyle görünüyordu. Hayvan, Bfian Kutusu problemini kısa sürede çözdü ve şimdiye kadar gördüğüm en güzel
+veriyi üretti. Daha sonra bunu labirent, labirent ters çevirme ve zıplama standı problemlerine kaydırdık ve verilerde hile yapmış olsaydık sonuçlar teorilerimizi daha iyi doğrulayamazdı. Ancak, hayvanı ikincil takviye problemlerine geçirdiğimizde, garip bir
+tür değişime uğramış gibi görünüyordu. Artık performansı yeterli değildi. Aslında, zaman zaman oldukça çılgına dönmüş gibi görünüyordu. Deneyin bir kısmı için, mükemmel bir performans sergiliyordu. Ama sonra, ona verdiğimiz
+herhangi bir problemi çözüyormuş gibi göründüğü anda, davranışı, normal bir örnekten gelemeyeceği aşikar olan kalıplara gizlice dönüşüyordu. Davranışı, teorilerimizin öngördüğünden radikal bir şekilde uzaklaşana kadar, giderek kötüleşti. Doğal olarak, o zaman hayvana bir şey olduğunu biliyorduk, çünkü teorilerimiz benzer deneklerle yapılan binlerce deneye dayanıyordu ve bu nedenle teorilerimiz doğru olmalıydı. Ancak teorilerimiz yalnızca normal denekler ve normal türler için geçerliydi, bu yüzden kısa sürede anormal bir hayvan türüne rastladığımızı anladık.
+
+Uygun şekilde düşündükten sonra, deneği kendi kolonisine geri gönderdik. Ancak, sizden tüm koloniyi yok etmek için adımlar atma izni istemek için neredeyse oybirliğiyle oy kullandık. Bunun bizim için bilimsel olarak pek bir faydası olmadığı ve yeterli adımlar atmamız gereken potansiyel bir tehlike olduğu aşikar. Tüm koloniler sizin korumanız altında olduğundan, onu yok etmek için izin istiyoruz.
+
+Bu arada, Verpk'in oyu bu prosedüre karşı verilen tek oydu. Davranışı olduğu gibi incelemek gerektiği gibi saçma bir fikri var. Açıkçası, neden beni bu keşif gezisinde onunla birlikte götürmeyi uygun gördüğünüzü anlayamıyorum, ancak belki de sizin de sebepleriniz vardır.
+
+Verpk'in oyu ne olursa olsun, geri kalanımız bu yeni koloninin tamamen yok edilmesi gerektiği ve bunun da hemen yapılması gerektiği konusunda düşünceliyiz. Çünkü teorilerimize atıfların da kanıtladığı gibi, açıkça hastalıklı veya buna benzer bir şey. Ve eğer bir şekilde diğer kolonilerimizle temas ederse ve diğer hayvanlarımızı sahip olduğu herhangi bir hastalık veya anormallikle enfekte ederse, davranışlarını bir daha asla tahmin edemeyiz. Sanırım bu argümanı daha fazla ileri götürmeme gerek yok.
+
+Koloniyi mümkün olan en kısa sürede yok etmemize izin verir misiniz?
+Böylece diğer kolonileri arayıp teorilerimizi diğer sağlıklı hayvanlarla test edebiliriz. Çünkü bilim ancak bu şekilde ilerler.
+
+Saygılarımla,
+
+Iowyy
+
+James McConnell'in Project Gutenberg Öğrenme Teorisi E-Kitabının Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK LEARNING THEORY ***
+
+***** This file should be named 60434.txt or 60434.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/4/3/60434/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

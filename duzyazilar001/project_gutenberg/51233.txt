@@ -1,0 +1,1537 @@
+*** START OF AKTAHEADER ***
+Başlık: The Marching Morons (Yürüyen Moronlar)
+Yazar: C.M. Kornbluth
+Yayın Tarihi: February 16, 2016 [EBook #51233]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/51233
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: tarih
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Marching Morons, by C.M. Kornbluth
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: The Marching Morons
+
+Author: C.M. Kornbluth
+
+Release Date: February 16, 2016 [EBook #51233]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MARCHING MORONS ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Mary Meehan ve http://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+The Marching Morons
+
+C. M. KORNBLUTH tarafından
+
+DON SIBLEY tarafından resimlendirilmiştir
+
+[Yazıcının Notu: Bu e-metin
+Galaxy Science Fiction Nisan 1951'den üretilmiştir.
+Kapsamlı araştırma, bu yayının ABD telif hakkının
+yenilendiğine dair hiçbir kanıt ortaya çıkarmamıştır.]
+
+Körler ülkesinde, tek gözlü adam, elbette, kraldır. Peki ya %100 saf aptallardan oluşan bir medeniyette canlı bir tel, akıllı bir
+iş adamı ne olacak?
+
+Bazı şeyler değişmemişti. Bir çömlekçi çarkı hala bir çömlekçi çarkıydı ve kil hala kildi. Efim Hawkins dükkanını Goose Gölü'nün yakınına kurmuştu; bu gölün dar bir iyi yağlı kil şeridi ve dar bir beyaz kum plajı vardı. Odunluktan aldığı söğüt kömürüyle üç şişe burunlu fırını ateşledi. Odunluk, fırınlar soğurken uzun yürüyüşler yapmak için de kullanışlıydı; eğer onları görebileceği bir yerde kalırsa,
+ateşten yeni bir şekil veya
+sırın nasıl geçtiğini görmek için sabırsızlanarak onları erken açardı ve--_ping!_--yeni şekil veya sır,
+kayma tanklarının arkasındaki kırık yığından başka hiçbir işe yaramazdı.
+
+Dükkanında, mütevazı bir tuğla küpü, kiremit çatılı, Chicago-Los Angeles "roketi" tepede gürlerken bir iş konferansı tüm hızıyla devam ediyordu--çok gürültülü, çok geriye doğru süpürülmüş, çok ateşli jetler, havada uçan bir baraküda kadar şık ve hızlı görünüyordu.
+
+Marshall Fields'tan gelen alıcı, siyah sırlı bir litrelik sürahiyi çevirip, kocaman, yakışıklı başıyla onaylayarak başını sallıyordu. "Bu
+gerçekten güzel," dedi Hawkins'e ve sekreteri Gomez-Laplace'e.
+"Bunda gerçek estetik ilkeler dediğiniz birçok şey var. Evet, gerçekten güzel."
+
+"Ne kadar?" diye sordu sekreter çömlekçiye.
+
+"Her biri düzinelerce partide yedi elli," dedi Hawkins. "Geçen ay on beş düzine
+ürettim."
+
+"Gerçekten estetik," diye tekrarladı Fields'dan alıcı. "Hepsini
+alacağım."
+
+"Bunu yapabileceğimizi sanmıyorum, doktor," dedi sekreter. "Bize 1.350 dolara mal olacaklar. Bu, çeyrek bütçemizde sadece 532 dolar bırakacak.
+Ve hala ucuz yemek takımları almak için East Liverpool'a gitmemiz gerekiyor."
+
+"Yemek takımları mı?" diye sordu alıcı, kocaman yüzü hayretle doluydu.
+
+"Yemek takımları. Departmanda iki aydır yoklar. Bay
+Garvy-Seabright dün epeyce kötü davrandı. Hatırlıyor musun?"
+
+"Garvy-Seabright, o et kafalı mavi burunlu," dedi alıcı
+aşağılayıcı bir şekilde. "Estetik hakkında hiçbir şey bilmiyor. Neden
+kendi departmanımı yönetmeme izin vermiyor?" Gözü
+_Whambozambo Comix_'in bir kopyasına takıldı ve oturdu. Sayfaları çevirirken arada sırada derin bir kıkırdama
+ya da şaşkınlık homurtusu kaçtı.
+
+Kesintisiz bir şekilde, çömlekçi ve alıcının sekreteri hızla
+iki düzine litrelik sürahi için bir anlaşma yaptılar. "Keşke daha fazlasını alabilseydik," dedi sekreter, "ama ona söylediklerimi duydun. Sıradan yemek takımları için müşterileri geri çevirmek zorunda kaldık çünkü son çeyrekteki bütçeyi, aynı derecede hevesli bir ithalatçının ona taktığı Meksika kumbaralarına harcadı. Beşinci kat bunlarla dolu."
+
+"Bahse girerim çok estetik görünüyorlardır."
+
+"Mor kaktüslerle boyanmışlar."
+
+* * * * *
+
+Çömlekçi ürperdi ve örnek sürahisinin sırını okşadı.
+
+Alıcı başını kaldırıp homurdandı, "Siz aptallar daha konuşmayı bitirmediniz mi? Sırtımdaki yükü
+almazsa
+bir sekreterin ne faydası var, ha?"
+
+"Hepimiz bitti, doktor. Gitmeye hazır mısın?"
+
+Alıcı huysuzca homurdandı, _Whambozambo Comix_'i yere bıraktı
+ve binadan çıkıp kütük kadife yoldan aşağı
+otoyola doğru yol aldı. Arabası betonda bekliyordu. Tüm
+çağdaş arabalar gibi kütüklerin üzerinden geçemeyecek kadar alçaktı. Arabaya
+bindi ve motoru muazzam bir ışıltı ve kükremeyle çalıştırdı. "Gomez-Laplace," diye seslendi çömlekçi gürültünün altından, "son görevimde olduğumda üzerinde çalıştıkları radyasyon programından bir şey çıktı mı?"
+
+"Aynı eski yanılgı," dedi sekreter kasvetli bir şekilde. "Bizi mutasyondan, ayıklamadan, ayrımcılıktan ve şimdi de hipnozdan alıkoydu."
+
+"Dokuz gün sonra tekrar işe başlamam planlanıyor. Şu anda başka bir işten çıkarmanın zamanı geldi. Deneyeceğim yeni bir parıltım var..."
+
+"Seni özleyeceğim. 'Tatilde' olacağım -- Denver'daki New Century Engineering Corporation'ın çizim odasını yöneteceğim. İki yüz katlı bir ofis binası inşa edecekler ve doğal olarak birinin orada olması gerekiyor."
+
+"Doğal olarak," dedi Hawkins ekşi bir gülümsemeyle.
+
+Alıcı korna düğmesine bastığında kulakları sağır eden tatlı bir patlama sesi duyuldu. Ayrıca, arabanın radyatör kapağından bir metre uzunluğunda alev gibi görünen bir şey fışkırdı; arabanın güç ünitesi bir gaz türbiniydi ve
+radyatörü yoktu.
+
+"Geliyorum, doktor," dedi sekreter umutsuzca. Arabaya
+bindi ve araba çok fazla alev ve gürültüyle vızıldayarak uzaklaştı.
+
+Depresyonlu çömlekçi kadife yoldan geri döndü ve
+soğuyan fırınlarını düşündü. Dallardaki hışırtılı rüzgar, büzülen refrakter tuğlanın
+gıcırtısını ve mırıltısını gizliyordu.
+Hawkins, iki numaralı fırını merak etti--bir sürü parlak
+kap kupada bir indirgeme ateşi. Çatlayan kil havayı dışarıda mı bırakıyordu? Gerçekten dumanlı bir alev miydi? Sadece bir tane yaksa bir zararı olur muydu?
+
+* * * * *
+
+Sağduyu Hawkins'i ensesinden yakaladı ve
+alet kulübesine doğru çekti. Kazmasını çıkardı ve kararlı bir şekilde
+bir miktar oksit üretebilecek tümsekli bir tarlaya doğru bir araştırma gezisine çıktı. Özellikle bakırı azdı.
+
+Uzun yürüyüş onu terletti,
+fırına bir göz atma arzusu göğsündeydi. Kazmasını neredeyse rastgele
+tümseklerden birine savurdu; kazdığı bir taşa çarptı. Büyük ölçüde
+silinmiş bir yazıtta şöyle yazıyordu:
+
+ŞIK ÜNİVERSİTESİ
+OGİK LABORATUVAR
+EYLEMDE ÖLDÜRÜLEN
+MİŞ
+ANININ
+YÜCE ANISI
+
+Çömlekçi hafifçe küfretti. Tarlanın bir mezarlık, tercihen bir zamanlar moda olan, bir zamanlar devasa bronz tabutlarla dolu, kalay ve bakır oksitlerine dönüşmüş bir mezarlık olmasını umuyordu.
+
+* * * * *
+
+Eh, cehennem, belki de etrafta biraz vardı zaten.
+
+İkinci en büyük tepeciğe doğru kayıtsızca yöneldi ve kazmasıyla
+içini kesti. Altını oyup bir hendeğe
+döndürecek bir taş vardı ve sonra çömlekçi ona saplandığı için çok mutlu oldu.
+Burun delikleri acı kokuyla dolmuştu ve toprak, bakır tuzlarının
+heyecan verici mavisiyle renklenmişti. Kazma _çınladı_!
+
+Hawkins, nefes nefese, oldukça kötü bir şekilde lekelenmiş ve ayrıca kazınmış harflerle işaretlenmiş paslanmaz çelik bir plakayı kaldırdı. Çürüyen bronzdan
+kurtulmuş gibi görünüyordu; arkada yeşil patina pulları
+çıkaran perçinler vardı. Çömlekçi yüzeydeki kiri koluyla sildi, güneş ışığını eğik bir şekilde yakalamak için çevirdi ve şunu okudu:
+
+"DÜRÜST JOHN BARLOW
+
+Üniversite yıllıklarında ünlenen "Dürüst John", tıp biliminin henüz cevaplayamadığı bir meydan okumayı temsil ediyor: bir insanın kazara askıya alınmış bir canlandırma durumuna
+düşmesi.
+
+1988'de Evanston'ın önde gelen emlakçılarından Bay Barlow, gömülü
+yirmilik dişinin tedavisi için diş hekimini ziyaret etti. Diş hekimi, Üniversite'de
+geliştirilen deneysel anestezik
+Cycloparadimethanol-B-7'yi kullanmak için izin istedi ve aldı.
+
+Anestezinin uygulanmasından sonra, diş hekimi
+matkabına başvurdu. Garip bir talihsizlik sonucu, makinesindeki kısa devre hastaya 220 volt 60-periyotluk akım verdi. (Bayan Barlow'un diş hekimine, Üniversiteye ve matkabın
+üreticilerine karşı açtığı bir tazminat davasında, jüri sanıklar lehine karar verdi.) Bay Barlow dişçi koltuğundan hiç kalkmadı ve
+zehirlenme, elektrik çarpması veya her ikisinden öldüğü varsayıldı.
+
+Onu mumyalamaya hazırlayan cenaze levazımatçıları,
+deneklerinin -- kesinlikle canlı olmasa da -- kesinlikle ölü olmadığını keşfettiler. Üniversiteye haber verildi ve gönüllüler üzerinde trans halini taklit etme girişimleri de dahil olmak üzere bir dizi kapsamlı
+test başlatıldı. Ölümle sonuçlanan yedi kötü vakadan sonra,
+girişimler terk edildi.
+
+Dürüst John, uzun süre Üniversite müzesinde sergilendi ve
+Üniversitenin Mavi Kırıcılarının maskotu olarak birçok futbol
+maçına renk kattı. Ancak, '03'te Sigma Delta Chi'ye verilen sözde Dürüst John'u gevşekçe korunan cam müze kasasından "kaçırma" ve
+Rachel Swanson Memorial Kızlar Spor Salonu duş odasına sokma emri verildiğinde zevk sınırları aşıldı.
+
+22 Mayıs 2003'te, Üniversite Yönetim Kurulu şu emri yayınladı: "Oybirliğiyle, Dürüst John Barlow'un kalıntılarının Üniversite müzesinden çıkarılması ve Üniversite'nin Teğmen James Scott III Anıt Biyolojik Laboratuvarları'na götürülmesi ve özel olarak hazırlanmış bir kasada güvenli bir şekilde kilitlenmesi talimatı verilmiştir. Ayrıca, bu kalıntıların korunması için Laboratuvar yönetimi tarafından tüm olası önlemlerin alınması ve bu kalıntılara Kurul tarafından yazılı olarak yetkilendirilmiş nitelikli akademisyenler dışında hiçbir kişinin erişiminin engellenmesi talimatı verilmiştir. Kurul, ulusal basında çıkan son duyurular ve fotoğraflar nedeniyle bu eylemi gönülsüzce gerçekleştirmiştir; bunlar, en azından Üniversite'ye pek itibar kazandırmamaktadır."
+
+* * * * *
+
+Bu onun alanıyla pek alakası yoktu, ancak Hawkins ne olduğunu anlamıştı: Levantman şok anestezisinin temellerine erken ve kazara bir şekilde atılmış ve daha sonra başka yöntemlerle değiştirilmişti. Denekleri Levantman şokundan çıkarmak için, trigeminal sinire
+basit tuzlu su sıktırırsınız. İlginç. Ve şimdi o bronza gelince--
+
+Çürüyen yeşil tuzlara kazmayı fırlattı, hiçbir direnç beklemiyordu ve neredeyse bileğini kırıyordu. Orada _bir şey_
+_katıydı_. Oksitleri dökmeye başladı.
+
+Yarım saatlik bir çalışma onu fosfor bronzuna, neredeyse bozulmaz metalin
+büyük bir dökümüne indirdi. Yüzyıllar boyunca yapısal olarak zayıflamıştı; kazmasının ucunu aşınmış bir çıkıntının altına
+uydurabilir ve büyük gıcırdayan ve homurdanan çizgileri kaldırabilirdi.
+
+Hawkins yanında bir arkeolog olmasını isterdi, ancak dükkanına geri dönüp buluntuyu devralması için birini çağırmayı hayal bile edemezdi. O her şeyi yapabilen bir adamdı: kendi isteğiyle ve boş zamanlarında, kil ve
+sır sanatçısı; zorunluluktan, trafik kontrolü, bireysel ve grup psikolojisi, mimari veya araç tasarımı alanlarında bir projeyi de halledebilen
+otomotiv, elektronik ve atom mühendisi. Alanının dışında bir şey ortaya çıktığında her seferinde bir uzman çağırmazdı; çok fazla işi olan çok az kişi vardı...
+
+Bulgusunun etrafında siper kazdı ve bunun heyecan verici bir şekilde
+boş bir sese sahip büyük bir
+tuğla biçimli bronz kütle olduğunu keşfetti. Uzun dikey yüzeylerden birinden çıkan uzun bir küflenen metal şeridi
+çekildi ve
+kütlenin içine _vınlayan_ kırmızı pası açığa çıkardı.
+
+Hawkins, bunun havası alınmış olduğunu düşündü ve yüzyıllar boyunca kristalleşmiş ve
+seçmesinin ilk şakırtısında sessizce parçalanmış bir
+iç cam ceketi olmalıydı. Bir vakumun Levantman şoku yaşayan bir kişiye ne yapacağını bilmiyordu, ama umutları vardı ve bir emlakçının ne olduğunu da tam olarak anlamamıştı, ama bunun
+çömlekçilikle bir ilgisi olabilirdi. Ve _herhangi bir şeyin_
+Bir Numaralı Konuyla bir ilgisi olabilirdi.
+
+* * * * *
+
+Kazmasını siperden fırlattı, dışarı çıktı ve dükkanına doğru köpek gibi
+yürümeye başladı. Biraz karıştırma bir hipo buldu ve mutfakta
+bir plastik tuz kabı vardı.
+
+Kazısına geri döndüğünde, kapak ve gövdenin birleşme noktasını ortaya çıkarmak için yarım saat daha uğraştı. Menteşeler umutsuzdu; onları kırdı.
+
+Hawkins en iyi kaldıraç için kazmanın teleskopik sapını uzattı, ucunu derin bir çukura yerleştirdi, yerleşik dayanak noktasını ayarladı
+ve kaldırdı. Beş kaldırma daha ve kasanın içinde tozlu bir mermer heykele benzeyen
+bir şey görebildi. On daha ve bunun Evanston emlakçısı Dürüst John Barlow'un çıplak vücudu olduğunu, zamanın
+bozamadığı
+görebildi.
+
+Çömlekçi iğnesinin ucuyla üçüz sinirin tepesini buldu ve ona 60 cc verdi.
+
+Bir saat içinde Barlow'un göğsü pompalanmaya başladı.
+
+Bir saat sonra, "İşe yaradı mı?" diye hırıltılı bir sesle sordu.
+
+"_Yaptım_!" diye mırıldandı Hawkins.
+
+Barlow gözlerini açtı ve kıpırdandı, aşağı baktı, ellerini
+gözlerinin önünde çevirdi--
+
+"Dava açacağım!" diye bağırdı. "Giysilerim! Tırnaklarım!" Yüzünde korkunç bir
+şüphe belirdi ve ellerini tüysüz
+kafasına
+vurdu. "Saçlarım!" diye feryat etti. "Elindeki her kuruş için seni dava edeceğim!
+Bu feragat mahkemede hiçbir şey ifade etmeyecek--saçlarımı, giysilerimi ve tırnaklarımı
+imzalamadım!"
+
+"Tekrar uzayacaklar," dedi Hawkins rahat bir şekilde. "Ayrıca epidermisin. O
+parçaların canlı değildi, bilirsin, bu yüzden geri kalanın gibi
+korunmadılar. Ama korkarım ki giysiler gitti."
+
+"Bu ne--Üniversite hastanesi mi?" diye sordu Barlow. "Bir
+telefon istiyorum. Hayır, sen telefon et. Karıma iyi olduğumu söyle ve Sam
+Immerman'a--avukatım--hemen buraya gelmesini söyle. Greenleaf
+7-4022. Ah!" Ayağa kalkmaya çalışmıştı ve pembe derisinin bir kısmı
+eski kristalleşmiş cam tarafından
+tozlanmış
+tabutun iç yüzeyine sürtündü. "Siz ne yaptınız, beni
+diri diri mi kaynattınız? Ah, bunun bedelini ödeyeceksiniz!"
+
+"İyisin," dedi Hawkins, şimdi birkaç belirsiz terimi açıklığa kavuşturacak bir referans kitabı olmasını dileyerek. "Epidermisin hemen
+büyümeye başlayacak. Hastanede değilsin. Buraya bak."
+
+* * * * *
+
+Barlow'a tabutu etiketleyen paslanmaz çelik levhayı uzattı.
+Şüpheli bir bakıştan sonra adam okumaya başladı. Bitirdikten sonra tabağı dikkatlice
+kasa kenarına koydu ve bir süre sessiz kaldı.
+
+"Zavallı Verna," dedi sonunda. "Mahkeme masraflarıyla
+sıkıştırılıp
+sıkıştırılmadığı yazmıyor. Tesadüfen biliyor musun--"
+
+"Hayır," dedi çömlekçi. "Tek bildiğim tabakta ne olduğu ve seni
+nasıl canlandıracağım. Dişçi yanlışlıkla sana Levantman şok anestezisi dediğimiz bir doz verdi. Yüzyıllardır kullanmıyoruz; güçlüydü ama çok tehlikeliydi."
+
+"Yüzyıllar..." diye düşündü adam. "Yüzyıllar... Sam'in onu dişlerinden
+dolandırdığına bahse girerim. Zavallı Verna. Ne kadar zaman oldu? Hangi yıl?"
+
+Hawkins omuz silkti. "Biz buna 7-B-936 diyoruz. Bu sana yardımcı olmaz. Bu metallerin oksitlenmesi
+uzun zaman alır."
+
+"O film gibi," diye mırıldandı Barlow. "Kimin aklına gelirdi ki? Zavallı
+Verna!" Ağladı ve burnunu çekti, Hawkins'e düz bir kayanın altında bulunduğu gerçeğini güçlü bir şekilde hatırlattı.
+
+Neredeyse öfkeyle, çömlekçi sordu, "Kaç çocuğun oldu?"
+
+"Henüz yok," diye burnunu çekti Barlow. "İlk karım istemedi. Ama Verna bir tane istiyor--bir tane istiyordu--ama biz bekleyeceğiz--biz bekleyeceğiz--"
+
+"Elbette," dedi çömlekçi, ona çıkışmak için vahşi bir istek duyarak,
+onu cehenneme gönderip işine koyulmak. Ama bunu yuttu. Düşünülmesi gereken
+Bir Sorun vardı; her zaman düşünülmesi gereken
+Bir Sorun vardı ve bu zavallı ağlak herif beklenmedik bir şekilde bir ipucu verebilirdi. Hawkins onu
+başkasına devretmek zorunda kalacaktı.
+
+* * * * *
+
+"Gelin," dedi Hawkins. "Zamanım kısa."
+
+Barlow öfkeyle başını kaldırdı. "Nasıl bu kadar duygusuz olabiliyorsun? Ben bir insanım
+gibi--"
+
+Los Angeles-Chicago "roketi" tepemizde gürledi ve Barlow şikayetinin ortasında
+durdu. "Harika!" diye soludu, gözleriyle onu takip etti. "Güzel!"
+
+Kasadan dışarı çıktı, çocuksu tenine değen
+pürüzlülüğünden acı çekmek
+için fazla ilgiliydi. "Sonuçta," dedi hızla,
+"bunun güneşli bir tarafı olmalı. Okumayı pek sevmem ama
+bu tıpkı o hikayelerden biri gibi. Ve bundan biraz para kazanmalıyım, değil mi?" Hawkins'e kurnazca bir bakış attı.
+
+"Para mı istiyorsun?" diye sordu çömlekçi. "Al." Bir avuç
+bozuk para ve banknot uzattı. "Ayakkabılarımı giysen iyi olur. Yaklaşık çeyrek mil. Ah, ve sen--şey, mütevazısın?--evet, doğru kelime buydu.
+Al." Hawkins ona pantolonunu verdi ama Barlow heyecanla
+parayı sayıyordu.
+
+"Seksen beş, seksen altı--ve dolar da! Bunların
+kredi veya her ne diyorlarsa o olacağını düşünmüştüm. 'E Pluribus Unum' ve
+'Liberty'--sadece farklı yüzler. Söyle bakalım, bunun bir püf noktası var mı?
+Bunlar bizimki gibi gerçek, hakiki, dürüst yirmi iki sentlik dolarlar mı yoksa
+sadece duvar kağıdı mı?"
+
+"Tamamen iyiler, sizi temin ederim," dedi çömlekçi. "Keşke siz de gelseniz. Acelem var."
+
+* * * * *
+
+Dükkana doğru sendeleyerek yürürken adam gevezelik etti. "Nereye gidiyoruz--Bilim
+Konseyi , Dünya Koordinatörü veya buna benzer bir şey mi?"
+
+"Kim? Ah, hayır. Biz onlara 'Başkan' ve 'Kongre' diyoruz. Hayır, bu
+hiç işe yaramaz. Sadece sizi birkaç kişiyi görmeye götürüyorum."
+
+"Bundan çok şey çıkarmalıyım. _Çok şey!_ Kitaplar yazabilirim.
+Akıllı bir genç adam bulup bunu benim için kelimelere dökerse bahse girerim
+en çok satan bir kitap çıkarabilirim. Bu tür şeylerin kurulumu nedir?"
+
+"Aynen öyle. Akıllı gençler. Ama artık
+en çok satan kitap yok. İnsanlar artık pek okumuyor. Senin için de aynı şekilde karlı bir şey
+bulacağız."
+
+Dükkana geri döndüğünde, Hawkins Barlow'a bir takım elbise verdi, onu bekleme odasına bıraktı ve Chicago'daki Central'ı aradı. "Götürün onu," diye yalvardı. "Bir kovma daha zamanım var ve o gevezelik edip duruyor.
+Ona hiçbir şey söylemedim. Belki de onu serbest bırakıp
+kendi seviyesini bulmasına izin vermeliyiz, ama bir ihtimal var--"
+
+"Sorun," diye onayladı Central. "Evet, bir ihtimal var."
+
+Çömlekçi, Barlow'a bir küple bir fincan kahve yaparak onu memnun etti. Bu küp, sadece soğuk suda erimekle kalmıyor, aynı zamanda suyu kaynama noktasına kadar ısıtıyordu. Hawkins, zaman öldürmek için Barlow'un hayran olduğu "roket" hakkında sohbet etti ve kendini zor tutmak zorunda kaldı; emlakçıya neredeyse en yüksek hızının ne olduğunu söyleyecekti - hatta neredeyse bunun bir roket olmadığını açıklayacaktı. Ayrıca, Barlow'a bu kadar rahat bir şekilde birkaç yüz dolar verdiği için pişmandı. Adam, Hawkins bir not veya senet veya hatta kesin bir geri ödeme vaadi almayı reddettiği için bunların değersiz olduğu korkusuyla takıntılı görünüyordu. Ancak Hawkins ayrıntılara giremedi ve Central'dan bir yabancı geldiğinde çok sevindi.
+
+"Algeciras'tan Tinny-Peete," dedi yabancı, ikisi kapıda buluşurken ona hemen. "Poprob için psişik. Polasigned özel
+Barlow'u geçti."
+
+"Tanrıya şükür," dedi Hawkins. "Barlow," dedi geçmişten gelen adama, "bu Tinny-Peete. Sana bakacak ve çok para kazanmana
+yardım edecek."
+
+Psişik, Barlow'u
+memnun eden kahveden bir fincan içmek için kaldı ve sonra emlakçıyı kadife yoldan aşağı arabasına götürdü, çömlekçiyi
+fırınlarını sonunda çatlatıp çatlatamayacağı konusunda
+varsayımlarda bulunmaya bıraktı.
+
+Hawkins, Barlow'u ve Sorunu aniden kovup,
+iki numaralı fırının kapısının etrafındaki çatlağı neşeyle açtı, hafifçe araladı. Bir sıcaklık patlaması ve indirgeme ateşinin baş döndürücü, dumanlı kokusu onu
+memnun etti. Gözlerini dikip bir rafın köşesinin kiraz kırmızısı parladığını gördü, açılan kapıdan ısısını
+kaybederken titrek siyah alanlar tarafından gizleniyordu. Kömürleşmiş bir tahta küreği
+raftaki bir kupanın altına kaydırdı ve bir örnek olarak çıkardı, elinin arkasındaki
+tüyler kıvrılıp kavruldu. Kupa çıtırdadı ve çınladı
+ve Hawkins mutlu bir şekilde iç çekti. Bizmut reçinesi parlaklığı mükemmel bir şekilde ateşlenmişti, gözlerinin önünde dönen garip mavimsi ışıklarla
+gümüş-siyah metalden oluşan ürkütücü bir film ve Nüfus Sorunu Hawkins'e o zamanlar çok uzaktaymış gibi geliyordu.
+
+* * * * *
+
+Barlow ve Tinny-Peete, psikoloğun arabasının güvenlik bölmesine park edildiği beton otoyola vardılar.
+
+"Ne--bir--_tekne_!" diye soludu geçmişten gelen adam.
+
+"Tekne mi? Hayır, o benim arabam."
+
+Barlow hayranlıkla inceledi. Geriye doğru taranmış çizgiler, derin çizilmiş bileşik
+eğimler, kilogramlarca krom. Ellerini boşuna kapının üzerinde gezdirdi--yoksa kapı mıydı?--bir kulp bulmak için boşuna bir arayış içindeydi ve saygıyla sordu, "Ne kadar hızlı gidiyor?"
+
+Psikiyatr ona dikkatle baktı ve yavaşça, "İki yüz elli. Hız göstergesinden anlayabilirsin." dedi.
+
+"Vay canına! Benim eski Chevvy'im düz yolda yüz vurabilirdi ama sen
+sınıfımın dışındasın, beyefendi!"
+
+Tinny-Peete bir şekilde büyük, alçak bir kapıyı açtı ve Barlow
+üç basamakla devasa minderlerin içine indi, sağa doğru sendeledi. Derisi soyulmuş derisine ciddi bir şekilde dikkat
+etmek için fazla büyülenmişti.
+Gösterge paneli, kadranlar, fişler, göstergeler, ışıklar,
+ölçekler ve anahtarlarla dolu güzel bir vahşi doğaydı.
+
+Psikiyatr sürücü koltuğuna tırmandı ve ayaklarıyla bir şeyler yaptı. Motor, bir silo kadar büyük bir kaynak makinesini yakmak gibi çalıştı.
+Minderlerin arasında yuvarlanan Barlow, dikiz aynasından
+parlak beyaz ışıltılarla dolu muazzam bir egzoz gördü.
+
+"Beğendin mi?" diye bağırdı psikiyatr.
+
+"Harika!" Barlow karşılık verdi. "Bu--"
+
+Araba koydan yola doğru büyük bir _vuu-uu-uu_ sesiyle çıkarken sustu! Barlow'un başının yanından bir fırtına geçti, ancak
+pencereler kapalı gibi görünüyordu; hız hissi müthişti.
+Gösterge panelindeki hız göstergesini buldu ve 90, 100, 150, 200'ü geçtiğini gördü.
+
+"Benim için yeterince hızlı," diye bağırdı psişik, Barlow'un yüzünün buna karşılık
+düştüğünü fark ederek. "Radyo?"
+
+Futbol kaskı gibi şaşırtıcı derecede hafif bir nesnenin üzerinden geçti,
+sarkan kabloları yoktu ve bir sıra düğmeye işaret etti. Barlow
+havanın kükremesinin durmasına sevinerek kaskını taktı ve bir
+düğmeye bastı. Tatmin edici bir şekilde aydınlandı ve Barlow, cesur yeni dünyanın yaratıcı eğlencedeki süper-modern zevkinin bir örneği için daha da geriye çekildi.
+
+"AL VE SOK!" diye bir ses kulaklarında kükredi.
+
+* * * * *
+
+Kaskını çıkardı ve psikiste yaralı bir bakış attı.
+Tinny-Peete sırıttı ve basmalı düğme düzeniyle ilişkili bir kadranı çevirdi.
+Geçmişten gelen adam kaskı tekrar taktı ve sesin normale döndüğünü gördü.
+
+"Gösterilerin gösterisi! Süper gösteri! Süper-duper gösteri! Sınavların sınavı! _Al ve sok!_"
+
+Arka planda kahkahalar duyuldu.
+
+"Burada yarışmacıları gitmeye hazır hale getirdik. Nasıl çalıştığımızı biliyorsunuz.
+Bir yarışmacıya üçgen şeklinde bir kesik veriyorum ve böylece
+çizgi boyunca. Şimdi bu tahtalarımız var, üçgenler ve şeylerle aynı şekilde kesik yerleri var, sadece hepsi farklı şekillerde,
+ve kesikleri tahtaya yapıştıran ilk yarışmacı
+kazanıyor.
+
+"Şimdi ilk yarışmacıyı göreceğim. Tam burada, tatlım.
+Adın ne?"
+
+"İsim? Şey--"
+
+"Hoddaya böyle mi, millet? Adını hatırlamıyor! Hah? _Bunu bir çeyrek
+karşılığında satın alır mıydınız?_" Soru, büyük bir önemle
+söylenmişti ve dinleyiciler takdirlerini çığlık
+atarak, uluyarak ve ıslık çalarak dile getirdiler.
+
+Şakaları ve sloganları bilmediğiniz zaman sıkıcı bir dinlemeydi. Barlow, serbest eli ses kontrolüne hazır bir şekilde başka bir düğmeye bastı.
+
+"--Washington'dan son haberler. Senatör Hull-Mendoza ile ilgili. Hala Balıkçılık Bürosu'na saldırıyor. Kuzey Kaliforniya Sendikacısı, John Kingsley-Schultz'un çok eskiden beri mavi burunlu olduğuna dair yeminli ifadeler aldığını söylüyor. Affydavitleri yayınlamadı, ancak Kingsley-Schultz'un Oregon Eyalet Koleji'ndeki bluenose toplantılarında
+ve daha sonra Florida Üniversitesi'nde görüldüğünü söylüyor. Kingsley-Schultz itiraf etmesi gerektiğini söylüyor
+Oregon'da sinek atma konusunda uzmanlaştı ve Florida'da av balıkçılığı konusunda doktora yaptı.
+
+"Ve işte Kingsley-Schultz'dan bir alıntı: 'Hull-Mendoza ne hakkında konuştuğunu bilmiyor. Ölmeli." Alıntı dışı. Hull-Mendoza
+kaynaklarını doğrulamak için affydavitleri yayınlamayacağını söylüyor. Kingsley-Schultz tarafından yetersizlik ve uyumsuzluk nedeniyle kovulan Büro'nun üç eski çalışanı tarafından yemin ettirildiklerini söylüyor.
+
+"Başka yerlerde bunlar her zamanki trafik kazalarıydı. Chicago'dan çıkan Route 66'da üç yönlü bir araba kazası on iki can aldı.
+Chicago-Los Angeles sabah roketi Mo-have--Mo-javvy--her ne diyorsanız Çöl'e düştü ve patladı.
+Uçaktaki 94 kişinin hepsi öldü. Olay yerindeki Sivil Havacılık Otoritesi araştırmacısı pilotun koyun sürülerini uğuldattığını ve zamanında
+çıkmadığını söyledi.
+
+"Hey! New York'tan sıcak bir haber! Mürettebat aşağıdayken bir Dizel römorkör limanda çılgınca koştu ve _S. S. Placentia_ adlı _luck-shury gemisinin liman pruvasına itildi. Geminin dolup battığını ve _tahmini 180 yolcu ve 50 mürettebat üyesinin hayatını kaybettiğini söylüyor. 
+Altı dalgıç enkazı incelemek için aşağı gönderildi, ancak giysilerinin küçük deliklerle dolu olduğu ortaya çıkınca onlar da öldü. 
+
+"Ve işte Denver'dan yeni aldığım bir bülten. Görünen o ki--"
+
+* * * * *
+
+Barlow kulaklığını anlamayarak çıkardı. "Çok duygusuz görünüyordu,"
+şoföre bağırdı. "Bir haber dinliyordum--"
+
+Tinny-Peete başını salladı ve kulaklarını işaret etti. Havanın kükremesi sağır ediciydi. Barlow şaşkınlıkla kaşlarını çattı ve pencereden dışarı baktı.
+
+Parlayan bir tabelada şöyle yazıyordu:
+
+MOOGS!
+BUNUN BİR ÇEYREĞE
+ALIR MISINIZ?
+
+Moogs'un ne olduğunu veya ne olduğunu bilmiyordu; çizimde inanılmaz orantılı, %99,9 çıplak,
+tutkuyla kıvranan, animasyonlu, tam renkli bir kız vardı.
+
+Yol kenarı şarkısı hâlâ yanındaydı, ancak yeni bir özellik vardı. Radar
+veya bir şey arabayı tespit etti ve şarkının satırlarını uyardı. Her biri
+sırayla, bir sonraki satır okunmadan önce okunabilmesi için, arabayla birlikte yol kenarındaki bir yolda hızla ilerledi uyarıldı.
+
+EĞER BİR KIZ VARSA
+
+DEFLOKÜLİZE ETMEK
+İSTİYORSUNUZ
+ROMANTİK OLMAYAN TER.
+"A*R*M*P*I*T*T*O"
+
+İki panelden oluşan bir başka animasyon çalışması, tanıdık "Öncesi ve Sonrası."
+İlk panelde, "Sadece Herhangi Bir Puro?" yazıyordu ve kaba ve kırmızı yüzlü kocasının sümüksü görünümlü bir ipi tüttürdüğü, karısının burnunu tuttuğu iki kişilik bir aile trajedisiyle resmedilmişti. İkinci panelde, "Yoksa bir VUELTA ABAJO?" parlıyordu ve--
+
+Barlow kızardı ve tabelayı geçene kadar ayaklarına baktı.
+
+"Chicago'ya geliyoruz!" diye haykırdı Tinny-Peete.
+
+Diğer arabalar da geliyordu, hepsi de hayalperestti.
+
+Onları izlerken, Barlow bir kilometrenin
+tam olarak ne olduğunu bilip bilmediğini merak etmeye başladı. Kulaklarınızın üzerinden geçen kükreyen havayı görmezden gelip, rüya teknelerinin hızlı hatlarının sizi aldatmasına izin vermeseydiniz, çok yavaş seyahat ediyor gibi görünüyorlardı. Yirmi beş yaşında, arada sırada otuza kadar
+çıkan sıçramalarla gerçekten süründüklerine yemin edebilirdi. Zaten bir kilometre ne kadardı?
+
+Şehir önlerinde yükseliyordu ve tam da olması gerektiği gibiydi: yükselen
+gökdelenler, tepe rampaları, helikopterler için iniş platformları--
+
+Yastıkları kavradı. O iki helikopter. Gidiyorlardı--gidiyorlardı--
+
+Ne olduğunu görmedi çünkü görünen çarpışma rotaları onları
+dev bir binanın arkasına götürüyordu.
+
+* * * * *
+
+Kırmızı ışıkta durduklarında etraflarını çığlık çığlığa tatlı sesler sardı. "Burada neler oluyor?" dedi Barlow tiz,
+korkmuş bir sesle, çünkü frenleme süresi neredeyse sıfırdı,
+gösterge paneline fırlatılmadı. "Kim kimi kandırıyor?"
+
+"Neden, sorun ne?" diye sordu sürücü. Işık yeşile döndü ve kamyoneti çalıştırdı. Barlow, kulaklarının üzerinden geçen hava akışının, arabanın gerçekten hareket etmesinden hemen önce, kısa ve gerçek dışı bir an önce başladığını fark ettiğinde kaskatı kesildi. Yan tarafındaki kapı kolunu kavradı. Şehir yavaş yavaş üzerlerine doğru büyüdü: dağınık binalar, daha yoğun binalar, daha yüksek binalar ve önlerinde kırmızı bir ışık. Araba sıfır fren süresinde durdu, hava akışı durduktan hemen sonra kesildi ve Barlow arabadan indi ve bir an sonra kaldırımda çılgınca koşmaya başladı. _Beni takip edecekler_, diye düşündü, soluk soluğa. _Bu gizli bir polis işi. Seni yakalayacaklar - zihin okuma makineleri, televizyon gözleri
+her yerde, kölelerine özgürlük ve benzeri şeyler anlatacağından korkuyorlar. Kimsenin yanlarına geçmesine izin vermiyorlar, bir zamanlar okuduğum o hikaye gibi.
+
+Nefes nefese, yavaş yavaş yürümeye başladı ve geri dönmeyecek kadar
+cesareti olduğu için kendini tebrik etti. Her zaman dikkat ettikleri şey buydu.
+Yürürken, yüzlercesi arasında sadece iş takım elbiseli biriydi.
+Güvende olacaktı, güvende olacaktı--
+
+Büyük, kaba, yakışıklı bir yüzden bir el ona doğru yaklaştı:
+"Wassamatta, kaldırıma sahipmiş gibi insanlara çarpıyor, madenci
+çarpışmaya
+başlıyor!" Ne deli çömlekçiydi ne de deli sürücü.
+
+"Affedersiniz," dedi Barlow. "Ne dediniz?"
+
+"Ah, evet?" diye bağırdı yabancı tehlikeli bir şekilde ve bir cevap bekledi.
+
+Barlow, karmaşık bir arazi tapusu anlaşmasının
+kısa ucuna bir şekilde kandırılmış gibi hissederek, kendisinin
+savaşçı bir şekilde "Evet!" diye cevap verdiğini duydu.
+
+Yabancı omzunu bıraktı ve hırladı, "Ah, evet mi?"
+
+"Evet!" dedi Barlow, ceketini tekrar eski haline getirerek.
+
+"Aaah!" diye hırladı yabancı, vahşetten çok aşağılama ve iğrenmeyle. Barlow'un zamanında standart ama fizyolojik olarak imkansız bir emir olan bir küfür akımı ekledi ve omuzlarını
+yuvarlayıp yumruklarını sıkarak uzaklaştı.
+
+* * * * *
+
+Barlow titreyerek yürümeye devam etti. Belli ki yeterince iyi idare etmişti.
+Kırmızı ışıkta durdu, önünde uzun, alçak rüya tekneleri kükrerken
+ve kaldırımda onunla birlikte akan yayalar arabaların akışında yollarını
+buldular. Frenler çığlık attı, çamurluklar takırdadı ve
+ezildi, sürücüler ve yayalar arasında boğuk çığlıklar duyuldu.
+Bir araba kaldırımın bir yayından diğerini kaçırmak için savrulurken çılgınca geriye sıçradı.
+
+Sinyal yeşile döndü, arabalar yaklaşık otuz saniye boyunca gelmeye devam etti ve sonra ara sıra hafif geçenlere dönüştü. Barlow temkinli bir şekilde karşıya geçti ve bir otomat makinesine yaslandı, derin nefesler aldı.
+
+_Doğal görün_, dedi kendi kendine. _Normal bir şeyler yap.
+Makineden bir şeyler
+al._
+
+Biraz bozuk para çıkardı, bir on sente bir gazete, bir çeyrek
+için bir mendil ve bir çeyrek daha karşılığında bir çikolata aldı.
+
+Hafif çikolata kokusu onu aniden aç bıraktı. "CRIGGLIES" yazan camsı ambalajı birkaç saniye boş yere tırmaladı
+ve sonra kendi kendine düzgünce bölündü. Çikolata üç güzel lokma yaptı
+ve iki tane daha alıp mideye indirdi.
+
+Susamış bir şekilde, makineden bir diğer camsı ambalaja karbonatlı bir portakal suyu daha çekti ve bir on sent daha aldı. El yordamıyla karıştırdığında, düzgünce bölündü ve dizlerinin üzerine döküldü. Barlow orada yeterince uzun süre kaldığına karar verdi ve yürümeye devam etti.
+
+Vitrinler--vitrinlerdi. İnsanlar hala
+giysiler giyiyor ve satın alıyor, hala sigara içiyor ve tütün satın alıyor, hala yiyor ve yiyecek satın alıyorlardı.
+Ve hala sinemaya gidiyorlardı, geçerken
+ve sonra tabelasında
+THE BIJOU yazan
+parıltılı bir yere geri döndüğünde bunu hoş bir şaşkınlıkla gördü.
+
+Mekan beşli bir özellik gösteriyor gibiydi, _Bebekler
+Korkunçtur_, _Çocuk Sahibi Olmayın_ ve _Kanali Çocuğu_.
+
+Karşı konulamazdı; bir dolar ödedi ve içeri girdi.
+
+_Kanali Çocuğu_'nun sonunu üç boyutlu, tam renkli, tam kokulu bir prodüksiyonda yakaladı. Bir kovalamaca sahnesi ve yabancılaşmış
+kahraman ve kadın kahraman arasında bir uzlaşmayla sonuçlanan gezegenler arası bir destan gibi görünüyordu. _Bebekler Korkunçtur_ ve _Çocuk Sahibi Olmayın_ ebeveynliğe karşı harika argümanlardı - acı verici derecede ayrıntılı doğumların, vahşi çocukların, sadist çocukları tarafından dövülen ve aç bırakılan yaşlı ebeveynlerin grotesk
+abartılmış tehlikeleri. Barlow'un hayretle fark ettiği gibi, seyirciler sakin bir şekilde tatlıları
+yemekteydi ve hiçbir tiksinti belirtisi göstermiyorlardı.
+
+_Gelecekteki Cazibe_ onu lobiye sürükledi. Fanfarlar
+parçalayıcıydı, parlak renkler kör ediciydi ve eklenen kokular
+mide bulandırıcıydı.
+
+* * * * *
+
+Gözleri lobinin ılımlı aydınlatmasına tekrar alıştığında, bir banka doğru yolunu buldu ve satın aldığı gazeteyi açtı. Bunun _Yarış Sayfası_ olduğu ortaya çıktı ve bu onu ezici bir kayıp hissiyle
+etkiledi. Ön sayfanın sol alt köşesindeki tanıdık kutulu dizin, neredeyse dayanılmaz bir şekilde
+Churchill Downs ve Empire City'nin hala iş başında olduğunu gösteriyordu--
+
+Gözyaşlarını bastırarak Churchill'deki Geçmiş Performanslara döndü.
+Artık kısaltma kullanmıyorlardı ve bu yüzden sayfalar
+çift yerine tek sütunluydu. Ama hepsi aynıydı--ya da
+aynı mıydı?
+
+İlk yarışa, bin üç yüz dolar için üç çeyrek millik bir bakire yarışçıya gözlerini kısarak baktı. İnanılmaz bir şekilde, pist rekoru iki dakika, on ve üç beşte bir saniyeydi. Onun zamanındaki herhangi bir böcek, üç çeyreği bir on beşte geçebilirdi. Diğer mesafeler için de aynıydı, rota etkinlikleri içinse çok daha kötüydü.
+
+_Her şeye ne olmuştu böyle?_
+
+İkinci yarışta beş yaşında kahverengi bir kısrağın formunu inceledi ve
+ne bir şey çıkarabildi ne de bir şey. Kazanmış, kaybetmiş, yerleşmiş, göstermiş, kaybetmiş ve yerleşmişti. Birkaç yarışta bir
+öncü gibi görünüyordu ve sonra işe yaramaz bir
+domuz gibi göründü ve sonra bir çamurcu gibi göründü ama bir sonraki yağmur yağdığında
+değildi ve sonra bir dayanıklıydı ve sonra yine bir domuz oldu. Hem de beş bin dolarlık bir
+harçlık etkinliğinde!
+
+Barlow diğer katılımcılara baktı ve yavaş yavaş hepsinin beş yaşındaki kahverengi kısrak gibi olduğunu anladı. Koşan tek bir lanet olası
+at bile en ufak bir sınıf izi taşımıyordu.
+
+Birisi yanına oturdu ve "İşte hikaye bu." dedi.
+
+* * * * *
+
+Barlow ayağa kalktı ve bunun sürücüsü Tinny-Peete olduğunu gördü.
+
+"Sana söylemek konusunda şüphelerim vardı," dedi psişikçi, "ama görüyorum ki
+gerçeğe dair giderek artan şüphelerin var. Lütfen heyecanlanma.
+Sorun değil, söylüyorum."
+
+"Yani beni yakaladın," dedi Barlow.
+
+"_Yakaladın mı_?"
+
+"Rol yapma. İkiyle ikiyi bir araya getirebilirim. Sen gizli
+polissin. Sen ve diğer aristokratlar bu ezilen kölelerin teriyle lüks içinde yaşıyorsunuz. Benden korkuyorsun çünkü onları cahil tutmak zorundasın."
+
+Psişikçiden gelen parlak kahkahalar lobideki diğer müşterilerin boş bakışlarına neden oldu. Kahkahalar hiç de uğursuz gelmiyordu.
+
+"Hadi buradan çıkalım," dedi Tinny-Peete, hala kıkırdayarak. "Bundan daha
+yanlış olamazdın." Barlow'un kolunu kavradı ve onu sokağa doğru götürdü. "Gerçek şu ki milyonlarca işçi
+bir avuç aristokratın alın teriyle lüks içinde yaşıyor. Ben
+muhtemelen fazla çalışma zamanımdan önce öleceğim, aksi takdirde--" Barlow'a spekülatif bir bakış attı. "Bize yardım edebilirsin."
+
+"Bu şakayı biliyorum," diye alay etti Barlow. "Zamanımda para kazandım ve para kazanmak için
+insanları kendi tarafına çekmelisin. İstersen beni vur, ama beni aptal yerine koyamayacaksın."
+
+"Seni pis nankör!" diye çıkıştı psişik, ruh halindeki bir kaleidoskopik
+değişimle. "Bu lanet olası karmaşanın hepsi senin ve senin gibilerin
+suçudur! Hadi gel de saçmalıklarını bir daha yapma."
+
+Barlow'u bir ofis binasının lobisine ve asansöre çekti, asansör yükselirken rahatsız edici bir şekilde _vınladı_. Emlakçının dizleri titriyordu, psikolog onu asansörden itip bir koridordan aşağı, bir ofise götürdü. Şahin yüzlü bir adam, kapı arkalarından kapanırken sade bir sandalyeden kalktı. Barlow'a öfkeli bir bakış attıktan sonra, psikiste sordu, "Bunu incelemek için
+Kutuptan mı çağrıldım--?"
+
+"Kızgınlaşma. Yarı şans eseri bir şey bulmak için
+Poprobatak hattını araştırdım," dedi psikiste yatıştırıcı bir şekilde.
+
+"Şüphe," diye homurdandı şahin yüzlü adam.
+
+"Dene," diye önerdi Tinny-Peete.
+
+"Pekala. Bay Barlow, sizin ve yakınınızın
+çocuğunuz olmadığını anlıyorum."
+
+"Ne olmuş?"
+
+"Bu kadar. Ekonomik ve sosyal koşullara tahammül edecek kadar kör, bencil ve aptal bir eşektin, bu da ihtiyatlı ve ileri görüşlü olanların çocuk sahibi olmasını cezalandırıyordu. Bizi bugün olduğumuz hale sen getirdin ve bilmeni istiyorum ki
+hiç memnun değiliz. Kahrolası aptal roketler! Kahrolası aptal otomobiller! Kahrolası aptal şehirler, tepe rampaları!"
+
+"Gördüğüm kadarıyla," dedi Barlow, "zamanın en iyi özelliklerini tüketiyorsun. Sen deli misin?"
+
+"Roketler roket değil. Bunlar turbo jetler--iyi turbo jetler, ama
+etraflarındaki süslü kabuk kötü bir sürüklenmeye neden oluyor. Otomobillerin
+saatte yüz kilometrelik bir azami hızı var--bir kilometre,
+paleolinguistik bilgilerimi hatırlarsam, bir milin üçte beşidir--ve hız göstergelerinin hepsi buna göre ayarlanmış, böylece sürücüler iki yüz elli gittiklerini
+düşünecekler. Şehirler gülünç,
+pahalı, sağlıksız, israfçı, kırsala yayılmış olsalardı daha iyi durumda ve daha üretken olacak insanların bir araya geldiği topluluklar.
+
+"Roketlere, hileli hız göstergelerine ve şehirlere ihtiyacımız var çünkü,
+siz ve sizin gibiler ihtiyatlı ve ileri görüşlü davranıp çocuk sahibi olmazken, göçmen işçiler, gecekondu sakinleri ve kiracı çiftçiler
+kaygısızca ve dar görüşlü bir şekilde çocuk sahibi oluyorlardı--üretiyorlardı, üretiyorlardı. Aman Tanrım, nasıl da üremişler!"
+
+* * * * *
+
+"Bir dakika," diye itiraz etti Barlow. "Kalabalıkta iki veya üç çocuğu olan bir sürü insan vardı."
+
+"Kazalar, hastalıklar, savaşlar ve benzeri şeylerin azalması bununla ilgilendi.
+Zekanız tükendi. Gitti.
+Doğması gereken çocuklar hiç doğmadı. Ortalama, geçinen çoğunluk
+nüfusu ele geçirdi. Ortalama IQ şu anda 45."
+
+"Ama bu çok uzak bir gelecekte--"
+
+"Sen de öylesin," diye homurdandı şahin yüzlü adam ekşi bir şekilde.
+
+"Ama _siz_ insanlar kimsiniz?"
+
+"Sadece insanlar--gerçek insanlar. Birkaç nesil önce, genetikçiler
+en sonunda hiç kimsenin söylediklerine dikkat etmeyeceğini fark ettiler, bu yüzden sözleri bırakıp eylemlere geçtiler. Özellikle,
+cinsi korumak ve geliştirmek için
+kapalı bir şirket kurdular ve eleman topladılar. Biz onların torunlarıyız, yaklaşık üç milyonuz. Diğerlerinden beş milyar kişi daha var, bu yüzden onların köleleriyiz.
+
+"Geçtiğimiz birkaç yıl içinde bir gökdelen tasarladım, Chicago'daki Billings Memorial Hastanesi'ni çalışır durumda tuttum, Meksika ile savaşı
+önledim ve New York'taki LaGuardia Field'da trafiği yönlendirdim."
+
+"Anlamıyorum! Neden onların kendi yollarıyla cehenneme gitmelerine
+izin vermiyorsunuz?"
+
+Adam yüzünü buruşturdu. "Üç ay boyunca bir kez denedik. Güney Kutbu'nda saklandık ve bekledik. Fark etmediler. Bazı çizim odası
+personelleri kayıptı, bazı başhemşireler gelmedi, politika dışı düzeydeki küçük hükümet
+personelleri bulunamadı. Önemi yok gibiydi.
+
+"Bir haftada açlık oldu. İki haftada kıtlık ve veba,
+üç haftada savaş ve anarşi. Deneyi iptal ettik; "Bir sonraki neslin çoğunu tekrar yoluna koymamız için harcadık."
+
+"Ama neden birbirlerini öldürmelerine izin vermedin?"
+
+"Beş milyar ceset yaklaşık beş yüz milyon ton çürüyen et demektir."
+
+Barlow'un aklına başka bir fikir geldi. "Neden onları kısırlaştırmıyorsun?"
+
+"İki buçuk milyar operasyon çok fazla operasyon. Çünkü
+sürekli üredikleri için iş asla bitmez."
+
+"Anlıyorum. Yürüyen Çinliler gibi!"
+
+"Onlar kim şeytan?"
+
+"Bu benim zamanımın bir--şey--paradoksuydu. Birisi, dünyadaki tüm Çinlilerin yan yana dörtlü sıraya girseler, sanırım öyleydi, ve belirli bir noktadan sonra yürümeye başlasalar, o noktayı geçmeden önce doğacak ve büyüyecek bebekler yüzünden asla durmayacaklarını fark etti."
+
+"Doğru. Sadece 'belirli bir nokta' yerine, 'inşa edebileceğimiz ve kadrolayabileceğimiz
+en büyük düşünülebilir ameliyathane sayısı' diyelim.
+Yeterli olamaz."
+
+"Söyle!" dedi Barlow. "Bebeklerle ilgili o filmler--senin propagandan mıydı?"
+
+"Öyleydi. Onlar için hiçbir şey ifade etmiyor gibi görünüyor. Biyolojik bir dürtüye aykırı propaganda yapma fikrinden vazgeçtik."
+
+"Yani biyolojik bir dürtüyle _çalışırsanız--?"
+
+"Üreme engelleyici hiçbir şey bilmiyorum."
+
+* * * * *
+
+Barlow'un yüzü, yıllarca süren dikkatli disiplinin sonucu olarak ifadesizleşti. "Sen yapmıyorsun, ha? Siz büyük beyinlersiniz ve
+hiçbirini düşünemiyor musunuz?"
+
+"Hayır," dedi psişik masumca. "Yapabiliyor musunuz?"
+
+"Bağlı. Rusya'nın bölünmesinden sonra Sibirya tundrasının on bin dönümünü sattım -elbette
+bir sahte firma aracılığıyla. Alıcılar
+Kiev'in eteklerinde
+geliştirilmiş inşaat alanları aldıklarını düşünüyorlardı. Bence bu işten çok daha zordu."
+
+"Nasıl yani?" diye sordu şahin suratlı adam.
+
+"Onlar normal, şüpheci müşterilerdi ve bunlar aptal, doğuştan aptal. Sadece kanacakları bir dolandırıcılık buluyorsun; akıllıca bir kontrol yapmak için
+yeterince şey bilmeyecekler."
+
+Psikiyatr ve şahin yüzlü adam da eğitim almıştı; birbirlerine
+ani bir umutla bakmaktan kendilerini alıkoyuyorlardı.
+
+"Aklında bir şey var gibi görünüyor," dedi psikiyatr.
+
+Barlow'un poker suratı daha da ifadesizleşti. "Belki de ben öyleyimdir. Henüz hiçbir teklif duymadım."
+
+"Dünya'nın kaynaklarının bu kadar yağmalanmasını engellediğinizi bilmenin verdiği bir memnuniyet var," diye belirtti şahin yüzlü adam,
+"ırk yakında yok olacak."
+
+"Bunu bilmiyorum," dedi Barlow açıkça. "Elimde sadece senin sözün var."
+
+"Gerçekten bir yöntemin varsa, hiçbir bedelin çok
+harika olacağını sanmıyorum," diye önerdi psişik.
+
+"Para," dedi Barlow.
+
+"İstediğin her şey."
+
+"İstediğinden fazlası," diye düzeltti şahin yüzlü adam.
+
+"Prestij," diye ekledi Barlow. "Bolca tanıtım. Resmim ve adım
+her gün gazetelerde ve televizyonda, heykeller, parklar ve şehirler
+ve sokaklar ve benim adımın verildiği diğer şeyler. Tarih kitaplarında
+bir bölüm."
+
+Psikiyatr, şahin yüzlü adama "Ah,
+kardeşim!" anlamına gelen bir yüz ifadesi yaptı.
+
+Şahin yüzlü adam, "Sakin ol, evlat!" diye işaret etti.
+
+"Çok fazla şey istemek değil," diye kabul etti psikiyatr.
+
+Barlow, bir satıcı pazarı hissederek, "Güç!" dedi.
+
+"Güç?" diye tekrarladı şahin yüzlü adam şaşkınlıkla. "Kendi hidroelektrik santraliniz
+ya da nükleer santraliniz?"
+
+"Benim diktatör olduğum bir dünya diktatörlüğünden bahsediyorum!"
+
+"Şimdi--" dedi psikiyatr, ancak şahin yüzlü adam sözünü kesti,
+"Kongre'nin özel bir acil durum eylemi yapması gerekecek ancak durum
+bunu gerektiriyor. Bunun garanti edilebileceğini düşünüyorum."
+
+"Bize planınız hakkında biraz ipucu verebilir misiniz?" diye sordu psişik.
+
+"Lemminglerden hiç duydunuz mu?"
+
+"Hayır."
+
+"Onlar - sanırım duymadığınız için öyleydi - Norveç'te küçük
+hayvanlardı ve her birkaç yılda bir kıyıya akın edip boğulana kadar denize doğru yüzerlerdi. Nüfusa biraz lemming
+isteği
+vermeyi düşünüyorum."
+
+"Nasıl?"
+
+"Anlaşma için doğru imzaları alana kadar bunu saklayacağım."
+
+* * * * *
+
+Şahin yüzlü adam, "Bunun üzerinde seninle çalışmak istiyorum, Barlow. Benim
+adım Ryan-Ngana." dedi. Elini uzattı.
+
+Barlow önce ele, sonra adamın yüzüne dikkatle baktı. "Ryan ne?"
+
+"Ngana."
+
+"Bu bir Afrika ismi gibi geliyor."
+
+"Öyle. Annemin babası bir Watusi'ydi."
+
+Barlow elini tutmadı. "Bana oldukça karanlık göründüğünü düşündüm. Duygularını
+incitmek istemiyorum ama seninle çalışırken
+en iyi halimde olacağımı sanmıyorum. Eminim senin kadar kalifiye başka biri daha vardır. "
+
+Psikiyatrist Ryan-Ngana'ya "Sakin ol, evlat!" anlamına gelen bir yüz ifadesi yaptı.
+
+"Pekala," dedi Ryan-Ngana Barlow'a. "Nasıl bir düzenleme
+yapabileceğimize bakacağız."
+
+"Önyargılı olduğumdan değil, anlıyor musun. En iyi
+arkadaşlarımdan bazıları--"
+
+"Bay Barlow, bir daha düşünme. Lemming benzetmesini seçebilen herkes bizim için yararlı olacaktır."
+
+Ve öyle de yapacaktı, diye düşündü Ryan-Ngana, Tinny-Peete Barlow'u helikopter sahnesine çıkardıktan sonra ofiste yalnızken. Öyle de yapacaktı. Poprob her mantıklı girişimi tüketmişti ve yeni Poprobattackline'lar mantıksız veya mantıksız olmak zorundaydı. Lemming efsaneleri ve gelişmiş bina arsalarıyla geçmişten gelen bu yaratık, değerli kötü niyetli kişisel çıkarların bir çeşmesi olacaktı.
+
+Ryan-Ngana iç çekti ve esnedi. San Francisco metrosunu çalıştırmaya gitmesi gerekiyordu. Kutuptan erken çağrılmış ve Barlow'u incelemek için yarım kalmış güzel bir teorem bırakmıştı. Kesintiler arasında, temelleri ve üst yapısı sezgiye hiçbir şekilde borçlu olmayan n boyutlu bir geometriyi yavaşça inşa ediyordu.
+
+* * * * *
+
+Yukarıda, bir helikopter bekleyen Barlow, Tinny-Peete'e Zencilere karşı hiçbir şeyi olmadığını ve Tinny-Peete'in bu çile için Ryan-Ngana'nın sakinliğinden ve mizah anlayışından birazına sahip olmayı dilediğini açıkladı.
+
+Helikopter onları Uluslararası Havaalanına götürdü, Tinny-Peete'in açıkladığına göre Barlow Kutup'a gidecekti.
+
+Geçmişten gelen adam, buz ve soğuğun kasvetli bir israfını isteyip istemediğinden emin değildi.
+
+"Her şey yolunda," dedi psişik. "Medeni bir düzen. Sıcak, hoş. Orada daha verimli çalışabileceksin. Tüm gerçekler parmaklarının ucunda, iyi bir sekreter--"
+
+"Oldukça büyük bir kadroya ihtiyacım olacak," dedi Barlow, binlerce anlaşmadan ilk teklifi asla kabul etmemeyi öğrenmişti.
+
+"Özel, gizli bir şey kastettim," dedi Tinny-Peete hemen, "ama
+istediğin kadar çok olabilir. Gerçekten işe yarar bir planın varsa, doğal olarak en üst-birincil-en üst önceliğe sahip olursun."
+
+"Bu diktatörlük açısını unutmayalım," dedi Barlow.
+
+Psikistin, onu mutlu bir şekilde Kutup'a giden "rokete" bindirmek için ona tanrılaştırma sözü vereceğini bilmiyordu.
+Tinny-Peete'in uzuv uzuv koparılmak gibi bir isteği yoktu; eğer nüfus bu anakronizmden, kendisini baş, omuzlar, gövde ve kasık olarak geri kalanın üstünde gören küçük bir seçkinler topluluğu olduğunu öğrenirse, bunun böyle olacağını çok iyi biliyordu. Bu varsayımın tamamen doğru olduğu ve seçkinlerin en zorlu yaşamdan
+üstünlükleri nedeniyle mahkum edildiği gerçeği dikkate alınmazdı; fark dikkate alınırdı.
+
+Psikiyatrist sonunda Barlow'u otuz kadar kişiyle birlikte "rokete" bindirdi -gerçek insanlar- Kutup'a doğru yola çıktılar.
+
+* * * * *
+
+Barlow, Tinny-Peete'in ona yerleştirdiği hipnoz sonrası bir telkin yüzünden tüm yol boyunca uçak tuttu. Bir fikir onu mümkün olduğunca geri dönüş yolculuğuna karşı koymaktı ve bir diğer fikir de diğer yolcuları onun saldırgan, geveze arkadaşlığından korumaktı.
+
+Kutup'taki ilk gününde Barlow'a ordudaki ilk günü hatırlatıldı. Onlara karşı kesin bir tavır takınana kadar aynı şimdi seni nereye koyacağız? meselesiydi. Sonra ikmal çavuşları gibi davranmak yerine otel katipleri gibi davranmaya başladılar.
+
+Bu harika, harika bir şekilde hesaplanmış bir birikimdi ve bundan şüphelenmeyi başaramadı. Sonuçta, onun zamanında geçmişten gelen bir ziyaretçi
+aslanlaştırılırdı.
+
+Gün sonunda, 60 mil öteden esen fırtınaların altında, rahat bir yeraltı kulübesine uzandı ve ikiyle ikiyi toplamaya çalıştı.
+
+Eski zamanlar gibiydi, diye düşündü - emlakta bir darbe gibiydi,
+rekabeti boğazından yakalamış gibiydin,
+kiracıların taşınabileceği hiçbir yer olmadığını çok iyi bildiğin halde %50 kira artışı gibiydi,
+şehir meclisinin, şehir meclisiyle yaptığın bir anlaşmayla edindiğin araziye bir okul inşa etmeye karar verdiğini kahvaltıda portakal suyu içerken okuduğunda gülümsemek gibiydi. Ve basitti. Tundra inşaat alanlarını hevesle intihar eden lemminglere satacaktı ve bu, bu çift kubbelerin dönmesine neden olan Sorunu çözmek için kesinlikle yapılması gereken tek şeydi. Doğal olarak ayrıntıların çoğunu çözmeleri gerekecekti ama astlar bunun için vardı. Reklamcılık, mühendislik, iletişim konularında uzmanlara ihtiyacı olacaktı - hipnoz hakkında bir şey biliyorlar mıydı? Bu yardımcı olabilirdi. Aksi takdirde, çok fazla rüşvet verilmesi gerekecekti ama -kesinlikle- sınırsız fon olduğundan emin olacaktı. Sadece lemminglere inşaat alanları satmak...
+
+Uykuya dalarken, zavallı Verna'nın da buna dahil olmasını diledi. Bu onun en büyük, en muhteşem anlaşmasıydı. Verna--o kurnaz
+dolandırıcı Sam Immerman onu dolandırmış olmalı....
+
+* * * * *
+
+Ertesi gün, onu ziyarete gelen insanlarla başladı. Yaklaşımı biliyordu. Sadece geçmişten gelen seçkin ziyaretçilerine yardımcı olmak istiyorlardı ve onlara kendi dönemi hakkında bilgi verip vermeyeceğini sordular, ki bu dönem
+maalesef tarihsel olarak biraz belirsizdi ve
+Sorun
+için ne yapılabileceğini düşünüyordu? Onlara artık bağlanamayacak kadar yaşlı olduğunu ve en azından Kutup Başkanı'ndan bir niyet mektubu ve onu diktatör yapma yetkisi olan bir Kutup Kongresi oturumu alana kadar ondan hiçbir bilgi alamayacaklarını söyledi.
+
+Mektubu ve oturumu aldı. Programını sundu, vicdanının duyarsızlığına isyan edip etmediği soruldu, bir anlaşmanın anlaşma olduğunu ve kendini koruyacak kadar akıllı olmayan birinin korunmayı hak etmediğini kısaca açıkladı - "Caveat emptor" dedi, burs için, "Alıcı dikkatli olsun" diye çevirmek zorunda kaldı. Moronları veya onların zeki kölelerini umursamadığını belirtti; onlara fiyatını söylemişti ve tek ilgilendiği buydu. Karşılarlar mıydı, karşılamazlar mıydı?
+
+Kutup Başkanı, gerekli görürse Kutup Kongresi'nin ona oy vereceği bazı geçici acil durum yetkileriyle birlikte kendi lehine istifa etmeyi teklif etti. Barlow, Dünya Diktatörü unvanını, dünya finanslarının tam kontrolünü, maaşın kendisinin kararlaştırmasını, tanıtım kampanyasının ve tarihi yazının hemen başlamasını talep etti.
+
+"Olağanüstü yetkilere gelince," diye ekledi, "bunlar ne geçici ne de sınırlı olacak."
+
+Birisi, Barlow'un taleplerini değiştirebileceği umuduyla, konunun tartışılmasını istedi.
+
+"Öneriyi aldınız," dedi Barlow. "Yüzde on bile düşürmüyorum."
+
+"Peki ya Kongre reddederse, efendim?" diye sordu Başkan.
+
+"O zaman burada Kutup'ta kalıp bunu kendiniz çözmeye çalışabilirsiniz. Ben moronlardan istediğimi alırım. Benim gibi kurnaz bir operatör taviz vermek zorunda değil; bu aptalca
+çağda tek bir rakibim yok."
+
+Kongre tartışmadan vazgeçti ve el kaldırarak oy kullandı. Barlow oybirliğiyle kazandı.
+
+"Beni kaybetmeye ne kadar yaklaştığınızın farkında değilsiniz," dedi ortak Meclislere yaptığı ilk resmi konuşmasında. "Ben pazarlık edecek çocuk değilim;
+ya istediğimi alırım ya da başka yere giderim. İstediğim ilk şey
+benim için yeni bir sarayın tasarımlarını görmek -gösterişsiz hiçbir şey değil- ve en iyi ressamlarınız ve heykeltıraşlarınız
+portrelerim ve heykellerim üzerinde çalışmaya başlasın. Bu arada, ekibimi toplayacağım."
+
+Kutup Başkanı'nı ve Kutup Kongresi'ni görevden aldı ve onlara
+bir sonraki toplantının ne zaman olacağını bildireceğini söyledi.
+
+Bir hafta sonra, program Kuzey Amerika'nın ilk hedef olduğu şekilde başladı.
+
+Bayan Garvy, bulaşık makinesini açma çilesinden önce akşam yemeğinden sonra dinleniyordu. Televizyon, elbette, açıktı ve şöyle diyordu: "Oooh!" -uzun,
+ürpertici ve coşkulu, _Parfum Assault Criminale_ reklamının
+işareti. "Kızlar," dedi spiker kısık bir sesle, "erkeğinizi mi istiyorsunuz? Onu elde etmek kolay - Venüs'e gitmek kadar kolay."
+
+"Ha?" dedi Bayan Garvy.
+
+"Ne oldu?" diye homurdandı kocası, uykudan uyanarak.
+
+"Duydunuz mu?"
+
+"Ne?"
+
+"Venüs'e gitmek kadar kolay" dedi. '"
+
+"Yani?"
+
+"Venüs'e gidemeyeceğini sanıyordum. Ben sadece Ay'a düşen
+bir roket şeyleri olduğunu sanıyordum."
+
+"Ah, kadınlar haberleri takip etmiyor," dedi Garvy haklı bir şekilde,
+tekrar sakinleşerek.
+
+"Ah," dedi karısı belirsiz bir şekilde.
+
+Ve ertesi gün, _Henry's Other Mistress_'te, yeni bir karakter daha geldi: Buzz Rentshaw, Venüs seferinin
+Usta Roket Pilotu. _Henry's Other Mistress_'te, "sizin ve komşularınızın, _halkçı_ insanların, _sıradan_ insanların, _gerçek_ insanların
+hakkındaki
+yayın draması"! Bayan Garvy, Buzz'ın bulanık inançlarını
+söylerken, bir fincan soğuyan kahve eşliğinde hayretle dinliyordu.
+
+MONA: Canım, seni tekrar görmek çok güzel!
+
+BUZZ: O sıkıcı Venüs seferini nasıl özlediğimi bilemezsin.
+
+SES: _Venedik kör, yorgun, anahtar kapı kilidinde._
+
+MONA: Çok sıkıcı mıydı canım?
+
+BUZZ: Sıkıcı işimden bahsetmeyelim canım. Kendimizden bahsedelim.
+
+SES: _Gıcırdayan yatak._
+
+Eh, program sonunda normale döndü. O akşam Bayan Garvy
+kocasının o roketlerden emin olup olmadığını tekrar sormaya çalıştı,
+ama kocası _Take It and Stick It_ boyunca uyukluyordu, bu yüzden ekrana baktı
+ve bulmacayı unuttu.
+
+Her ayın birinde bulaşık makinesini sadakatle doldurduğu deterjan tozu için reklam çıktığında, "Bunu bir çeyrek karşılığında satın alır mısın?" esprisine hala kahkahalarla gülüyordu.
+
+* * * * *
+
+Sunucu, küçük bir parçadan dağlarca köpük gösterdi ve utangaç bir şekilde ekledi: "Elbette, Cleano Venüs'teki sabun kökü gibi alıp götürmeniz için ortalıkta durmuyor, ama oldukça ucuz ve neredeyse aynı derecede iyi. Yani Venüs'te yaşayacak kadar şanslı olmayan bizim gibi sıradan insanlar için, Cleano gerçek temizlik malzemesi!"
+
+Sonra koro "Cleano-şeydir" şarkısına başladı, ama Bayan Garvy bunu duymadı. İnatçı bir kadındı, ama gerçekten çok hasta olduğunu fark etti. Kocasını endişelendirmek istemiyordu.
+Ertesi gün sessizce ailesiyle bir randevu ayarladı.
+
+Bekleme odasında _Readers Pablum_'un yeni bir kopyasını aldı ve hafif bir çarpıntıyla bıraktı. Kapaktaki içerik tablosuna göre, baş makalenin başlığı "Tanıştığım
+En Unutulmaz
+Venüslü" idi.
+
+"Freud şimdi sizi görecek," dedi hemşire ve Bayan Garvy sendeleyerek
+ofisine girdi.
+
+Geleneksel gözlükleri ve bıyıkları güven vericiydi. Ritüeli geveledi: "Freud, beni affet, çünkü nevrozlarım var."
+
+Antikonu söyledi: "Tut, canım kızım, sorun ne gibi görünüyor?"
+
+"Kafamda bir delik var," diye titrek bir sesle söyledi. "Her türlü şeyi unutuyorum gibi görünüyor. Herkesin bildiği ama benim bilmediğim şeyler."
+
+"Eh, bu herkesin başına ara sıra gelir canım. Venüs'te bir
+tatil öneriyorum."
+
+Freud boş sandalyeye ağzı açık bir şekilde baktı. Hemşiresi içeri girdi ve sordu, "Hey, nasıl kaçtığını görüyor musun? _Onun_ sorunu neydi?"
+
+Gözlüklerini ve bıyıklarını düşünceli bir şekilde çıkardı. "Arayabilirsin
+Beni. Ona belki Venüs'te bir tatil denemesi gerektiğini söyledim." Bir anlık
+şaşkınlık yüzüne geldi ve
+mesleğinin dört renkli, bol resimli
+günlüğünü bulana kadar
+çekmecelerini karıştırdı. O sabah gelmişti ve dudaklarını okumuştu,
+ama çoğunlukla resimlere bakıyordu.
+_Dinlenme Tedavilerinde Venüs Gezegeninin Avantajları_ makalesine göz gezdirdi.
+
+"Tam orada," dedi.
+
+Hemşire baktı. "Kesinlikle öyle," diye kabul etti. "Neden olmasın ki?"
+
+"Bu nevrotiklerin sorunu," diye karar verdi Freud, "her zaman gerçeklikle savaşmak zorunda kalmaları. Bir sonraki seğirmede göster."
+
+Gözlüklerini ve bıyıklarını tekrar taktı ve Bayan Garvy'yi ve onun
+tuhaf davranışlarını unuttu.
+
+"Freud, beni affet, çünkü ben nevroz hastasıyım."
+
+"Tut, canım kızım, sorun ne gibi görünüyor?"
+
+* * * * *
+
+Pek çok ruhsal bozukluk tedavisi gibi, Bayan Garvy'ninki de büyük ölçüde
+kendi kendine tedaviyle başarıldı. Kendini sert bir şekilde disipline etti, çılgınca bir düşünceden
+uzaklaştı,
+sadece bir roket gemisi olduğu ve bunun da başarısız olduğu fikrinden.
+En sonunda, Venüs'ün emekli olmak için bir yer olarak arzu edilirliği ve muhteşem çiçek
+bolluğu hakkında herhangi bir sohbete, gözünü kırpmadan katılabildi. Sonunda Venüs'e gitti.
+
+Bütün arkadaşları Evening Star Seyahat ve Emlak Şirketi'nden bilet almaya çalışıyordu,
+ama doğal olarak talep eziciydi.
+Sonunda iki haftalık yaz yolculuğu için bir yer bulduğu için kendini şanslı sayıyordu.
+Uzay gemisi New Mexico, Los Alamos adlı bir yerden havalandı.
+Televizyondaki ve resimli dergilerdeki tüm uzay gemilerine benziyordu,
+ama beklediğinizden daha rahattı.
+
+Bayan Garvy, kalkıştan önce bir araya gelen elli kadar yolcudan çok memnundu.
+Ülkenin her yerinden geliyorlardı ve
+onların zeki olduklarına dair belirgin bir izlenimi vardı. Kaptan, uzun boylu, şahin yüzlü, etkileyici bir adamdı, Ryan-Bir Şey
+veya başkası, onları gemiye aldı ve yolculuklarının unutulmaz olacağına güvendi. Görülecek hiçbir şey olmayacağı için üzgündü, çünkü
+"göktaşı mevsimi nedeniyle" limanlar tıka basa doluydu.
+Hayal kırıklığıydı ama hattın hiçbir risk almaması güven vericiydi.
+
+Kalkışta beklenen anlık rahatsızlık ve ardından iki monoton gün boyunca uzayda yolculuk, salonda kart veya zar oynayarak geçirilecekti. İniş rutin bir sarsıntıydı ve yolculara herhangi bir küçük rahatsızlığa karşı bağışıklık kazandırmak için yutmaları için tabletler verildi. Tabletler etkisini gösterdiğinde, kilit açıldı ve
+Venüs onların oldu.
+
+Dünya'daki tropikal bir adaya çok benziyordu, sadece üstünde bir bulut örtüsü vardı.
+Ama baş döndürücü, başka bir dünyadan gelen, sarhoş edici ve göz alıcı bir niteliği vardı.
+
+Tatilin on günü belirsiz bir sihirle doluydu. Reklamı yapılan sabun kökü bedava ve köpüklüydü. Çoğunlukla Dünya'dan nakledilen tropikal çeşitler olan meyveler harikaydı. Seyahat şirketinin sağladığı basit barınaklar ılık
+günler ve geceler için fazlasıyla yeterliydi.
+
+Yolcular gemiye tekrar binip, Dünya'ya bilmeden bulaştırabilecekleri Venüs hastalıklarını önlemek ve sterilize etmek için dağıtılan daha fazla tableti içten bir pişmanlıkla yuttular.
+
+* * * * *
+
+Tatil yapmak bir şeydi. Güç siyaseti başka bir şeydi.
+
+Kutupta, küçük bir adam ses geçirmez bir odadaydı, yüzü ölümcül derecede solgun ve vücudu dik bir sandalyede gevşekti.
+
+Amerikan Senatosu Odası'nda, Senatör Hull-Mendoza (Synd., N. Cal.) şunları söylüyordu: "Sayın Başkan ve beyler, burada gördüğüm tehlikeli bir durumun tehlikeyle dolu olduğunu
+gördüğümü
+açıkça belirtmezsem, bir yasama organı olarak görevimi ihmal etmiş olurum.
+Bu yüce kurulun üyelerinin de iyi bildiği gibi, uzay uçuşunun mükemmelliği, ancak tehlikeyle dolu olarak tanımlayabileceğim bir durumu beraberinde getirdi. Sayın Başkan ve beyler, artık hızlı
+Amerikan roketleri bu gezegen ile uzaydaki en yakın gezegensel komşumuz arasındaki izsiz boşluğu geçiyor -- ve beyler, şafak yıldızı Venüs'ten, güzel Vulcan'ın diadomundaki en parlak mücevherden bahsediyorum -- şimdi, şunu söylüyorum, Venüs'ü vatansever vatandaşlardan oluşan bir öncü birlikle kolonileştirmek için hangi adımların atıldığını sormak istiyorum o eski dakikacılar.
+
+"Sayın Başkan ve beyler! Bu dünyada kıskanç milletler var, Meksika'yı isimlendirmiyorum, adil veya haksız yollarla Kolombiya'nın elinden uzay özgürlüğü meşalesini almaya çalışabilirler; düşük yaşam standartları ve doğuştan gelen ahlaksızlıkları onlara adil cumhuriyetimizin vatandaşlarına göre
+haksız bir avantaj sağlayan milletler.
+
+"Programım şu: 100.000'den fazla nüfusa sahip bir şehrin
+kurayla seçilmesini öneriyorum. Şanslı şehrin vatandaşlarına Venüs'te özgürce sahip olabilecekleri, tutabilecekleri ve torunlarına devredebilecekleri seçkin topraklar verilecek. Ve ulusal hükümet
+bu vatandaşlar için Venüs'e ücretsiz ulaşım sağlayacak. Ve bu
+program, şehir şehir devam edecek, ta ki Venüs'e o gezegendeki açık haklarımızı korumak için yeterli sayıda vatandaş öncü birliği bırakılana kadar.
+
+"Her zaman yanımızda olan
+sözcü eleştirmenler için itirazlar yükselecek. Yeterli çelik olmadığını söyleyecekler. Buna ucuz bir
+hediye diyecekler. Ben _bir_ şehrin nüfusunun Venüs'e aktarılması için yeterli çelik olduğunu söylüyorum ve gereken tek şey bu. Çünkü ikinci şehrin aktarılma zamanı geldiğinde, boşalan ilk şehir
+gerekli çelik için harap edilebilir! Ve bu bir hediye mi? Evet! Bu, insanlık tarihinin en görkemli
+hediyesi! Sayın Başkan
+ve beyler, vakit kaybetmeye gerek yok--Venüs Amerikalı olmalı!"
+
+* * * * *
+
+Kutuptaki Black-Kupperman gözlerini açtı ve güçsüz bir şekilde, "Stil biraz dengesizdi. Sence bunu fark edecek mi?" dedi.
+
+"İyi iş çıkardın, evlat; gayet iyi," diye güvence verdi Barlow ona.
+
+Hull-Mendoza'nın tasarısı yasalaştı.
+
+Güney Kutbu'ndaki çizim makineleri gece gündüz çalışıyordu ve
+Pittsburgh çelik fabrikaları Evening Star Seyahat ve Emlak Şirketi'nin Los Alamos uzay limanına milyonlarca levha
+fışkırttı.
+Lojistik nedenlerle Los Angeles olacaktı ve en başarılı üç psiko-kinetikçi Washington'a gidip Los Angeles kapsülünün gözleri bağlı Senatörün parmaklarına
+kaydığından emin olmak için çekilişteki kalabalığın arasına karıştı.
+
+Los Angeles bu fikri çok sevdi ve çölde bir uzay gemisi ormanı
+çiçek açmaya başladı. Çok iyi uzay gemileri değillerdi ama olmak zorunda da değillerdi.
+
+Kutuptaki bir ekip, Barlow'un talimatıyla bir posta düzeni üzerinde çalışıyordu. En ufak bir şüphenin ortaya çıkmasını önlemek için Venüs'e ve Venüs'ten mektuplar gönderilmesi gerekiyordu. Neyse ki Barlow, sorunun daha önce Hitler tarafından çözüldüğünü hatırladı. Lublin veya Majdanek fırınlarında yakılan kişilerin akrabaları neşeli
+posta kartları almaya devam etti.
+
+* * * * *
+
+Los Angeles uçuşu, muazzam basın, haber filmi ve televizyon kapsamı altında, planlanan zamanda gerçekleşti. Dünya, süt ve bal diyarına vatansever yolculuklarına çıkan yiğit Angelenos'u alkışladı. Uzay gemileri ormanı, istenmeyen bir olay olmadan, yukarı ve yukarı doğru
+görkemle yükseldi ve gözden kayboldu. Milyarlarca insan, sıkışık ve kısıtlı erzakla geçinmelerine rağmen Angelenos'u kıskanıyordu.
+
+Kapsülü ikinci gelen San Francisco'dan gelen enkazcılar, kendi uçuşlarının gerektireceği hurda çelik için
+hemen melekler şehrine hareket ettiler. Senatör Hull-Mendoza'nın seçmenleri daha azını yapamazdı.
+
+Meksika başkanı, _yanqui imperialismo_'nun stratosferin ötesine uzanması karşısında hipnotik bir şekilde endişelendi ve kendi Venüs kolonisi programını başlattı.
+
+Suyun öte tarafında İngiltere İrlanda'ya, Fransa Almanya'ya,
+Çin Rusya'ya, Hindistan Endonezya'ya karşıydı. Kadim nefretler, her gün yüzlerce roket gemisiyle havaya saldıran
+alevlere dönüştü.
+
+Sevgili Ed, nasılsın? Sam ve ben iyiyiz ve umarım sen de iyisindir.
+Orada, dedikleri gibi, yiyecek ve ağaçlarda yakın bir grone ile hava güzel mi?
+Dün Springfield'dan geçtim ve tüm
+binaların yıkılmış olması gerçekten komik görünüyordu ama tabii ki buna değer, greaser'ları yerlerinde tutmamız gerekiyor. Venüs'te onlarla ilgili bir sorun yaşıyor musun?
+Bana bir ara yaz. Sevgili kız kardeşin Alma.
+
+Sevgili Alma, ben iyiyim ve umarım sen de iyisindir. Burası güzel bir yer
+güzel iklim ve kolay yaşam. Bugün doktor bana on yaş daha genç göründüğümü söyledi.
+Buradaki havada bir şeyler olduğunu düşünüyor
+insanları genç tutuyor. Burada
+greaser'larla pek sorunumuz yok, onlar kendi hallerindeler, sadece bizim onlardan daha fazla olmamız ve Amerikalılar için en iyi yerleri belirlememiz meselesi. South Bay'de senin ve Sam için sakladığım
+çok sayıda battaniye ağacı ve jambon çalısı olan güzel bir ada biliyorum. Seni ve Sam'i yakında görmeyi umuyorum, sevgili kardeşin Ed.
+
+Sam ve Alma kısa süre sonra yola çıkacaklardı.
+
+Poprob, göç yarı yolda olduktan sonra her ülkede bir temettü aldı. Yalnız ev sahipleri düşük nüfus yoğunluğunun melankolisine dayanamadı; şartlanmaları akraba sürülerine olmuştu. O noktadan sonra olası göçmenlere en kaba, en soysuz konaklamaları dayatmak mümkündü; umursamadılar.
+
+Black-Kupperman, Başkan Hull-Mendoza'ya son bir iş yaptı, hipnotik dehanın herhangi bir morona, önemli veya başka bir şekilde yapacağı son iş.
+
+Boşalan bir ulus üzerindeki başkanlığından dolayı paniğe kapılan Hull-Mendoza, seçmenlerine katıldı. Amerika'nın ulusal hükümetinin seyahat ettiği _Independence_, tüm uzay gemilerinin en ayrıntılısıydı - daha büyük, daha rahat, şık ama sıkışık bir salonu ve Senatörler ve Temsilciler için vestiyerleri vardı. Ancak, diğerleriyle aynı yere gitti ve Black-Kupperman "vicdanımla yaşayamam" diyen bir not bırakarak intihar etti.
+
+* * * * *
+
+Amerikan Başkanı ayrıldıktan sonraki gün, Barlow öfkeye kapıldı.
+Özel olarak yaptırdığı masasının üzerinde tüm Poprob
+üst düzey belgelerinin akması gerekiyordu ve bu şey -bu çirkin şey- Poprob_term_ adı verilen şey, görünüşe göre daha ona bir göz atmadan yürütme aşamasına geçmişti!
+
+İstatistikçisi Rogge-Smith'i aradı. Rogge-Smith işin
+en dibinde gibi görünüyordu. Poprobterm, birinci, ikinci ve üçüncü türevlerle ilgili gibi görünüyordu, her neyse. Barlow, "ortalama" dediği şeyden daha karmaşık olan her şeye karşı derin bir güvensizlik duyuyordu.
+
+Rogge-Smith hala kapıdayken, Barlow çıkıştı, "Bunun anlamı ne? Neden bana danışılmadı? Siz insanlar
+ne kadar ilerlediniz ve neden yetki vermediğim bir şey üzerinde çalışıyorsunuz?"
+
+"Sizi rahatsız etmek istemedim, Şef," dedi Rogge-Smith. "Gerçekten teknik bir konuydu, bir tür son temizlikti. Gelip işi görmek ister misiniz?"
+
+Barlow, yumuşayarak istatistikçisini koridorda takip etti.
+
+"Benim onayım olmadan devam etmemeliydin," diye homurdandı.
+"Ben olmadan siz insanlar nerede olurdunuz?"
+
+"Doğru, Şef. Biz kendimiz yapamazdık; zihinlerimiz
+sadece o şekilde çalışmıyor. Ve Hitler'den bildiğiniz tüm o şeyler--bizim aklımıza gelmezdi. Zavallı Black-Kupperman gibi."
+
+Hafifçe yukarı doğru giden bir yokuşun sonundaki orta büyüklükte bir makine atölyesindeydiler.
+Hava soğuktu. Rogge-Smith bir motoru çalıştıran bir düğmeye bastı
+ve çatı yavaşça açılırken içeri bir arktik ışık seli girdi.
+Kapısı açık küçük bir uzay gemisini gösteriyordu.
+
+* * * * *
+
+Rogge-Smith onu dirseğinden tuttuğunda ve diğer çocukları
+göründüğünde Barlow ağzı açık kaldı: Mühendis Swenson-Swenson; itici adamı Tsutsugimushi-Duncan; reklamcı Kalb-French.
+
+"Hadi, Şef," dedi Tsutsugimushi-Duncan. "Bu Poprobterm."
+
+"Ama ben dünya diktatörüyüm!"
+
+"Elbette, Şef. Tarihe geçeceksin, tamam--ama bu
+gerekli, korkarım."
+
+Kapı kapalıydı. Hızlanma Barlow'u acımasızca metal zemine çarptı. Bir şey kırıldı ve sıcak, ıslak, tuzlu tatta bir şey ağzından çenesine doğru aktı. Bir limandan gelen Arktik güneş ışığı aniden gözlerine
+batan şiddetli bir neşter oldu; atmosferin dışındaydı.
+
+Hızlanma altında bükülmüş ve kırılmış bir şekilde yatan Barlow,
+bazı şeylerin değişmediğini, Jack Ketch'in asla yemeğe davet edilmediğini
+kirli işini yapması için ona ne kadar şilin ödersen öde, o cinayetin
+ortadan kalkacağını, suçun sadece geçici olarak karşılığını verdiğini fark etti.
+
+Öğrendiği son şey, ölümün acının sonu olduğuydu.
+
+C.M. Kornbluth'un The Marching Morons adlı eserinin Project Gutenberg E-Kitabının sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MARCHING MORONS ***
+
+***** This file should be named 51233.txt or 51233.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/2/3/51233/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
