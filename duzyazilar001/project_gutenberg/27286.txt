@@ -1,0 +1,1075 @@
+*** START OF AKTAHEADER ***
+Başlık: Gas and Oil Engines, Simply Explained (Gaz ve Petrol Motorları, Basitçe Açıklandı)
+Yazar: Walter C. Runciman
+Yayın Tarihi: November 17, 2008 [EBook #27286]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/27286
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Gas and Oil Engines, Simply Explained, by
+Walter C. Runciman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Gas and Oil Engines, Simply Explained
+       An Elementary Instruction Book for Amateurs and Engine Attendants
+
+Author: Walter C. Runciman
+
+Release Date: November 17, 2008 [EBook #27286]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GAS AND OIL ENGINES ***
+
+*** START OF TURKISH PART ***
+Steven Gibbs, Greg Bergquist ve https://www.pgdp.net adresindeki Çevrimiçi
+Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+GAZ VE YAĞ MOTORLARI
+
+BASİTÇE AÇIKLANMIŞTIR
+
+_Amatörler ve Motor Görevlileri İçin Temel Bir Talimat Kitabı
+
+YAZAR
+WALTER C. RUNCIMAN
+
+_TAMAMEN RESİMLİ_
+
+LONDRA
+
+Model Engineer Serisi. "Model Engineer"
+Serisi, no. 26.
+
+1905
+
+İÇİNDEKİLER
+
+BÖLÜM SAYFA
+
+ÖNSÖZ 5
+
+I. GİRİŞ 7
+
+II. BİR MOTORUN BİLEŞEN PARÇALARI 13
+
+III. BİR GAZ MOTORUNUN ÇALIŞMASI 22
+
+IV. ATEŞLEME CİHAZLARI 33
+
+V. MANYETİK ATEŞLEME 47
+
+VI. YÖNETİM 51
+
+VII. KAMLAR VE VALF AYARLARI 63
+
+VIII. YAĞLI MOTORLAR 81
+
+ÖN SÖZ
+
+Bu el kitabını okuyucunun önüne koymamdaki amacım, ona bir gaz motorunun veya bir yağ motorunun nasıl ve neden
+çalıştığına dair basit ve anlaşılır bir açıklama sağlamaktır. Bu motorların yapımındaki temel özellikler ve özellikler açıklanırken, istenen sonuçlara ulaşmak için gereken yöntemler ve önlemler sınırlı alanın izin verdiği ölçüde ayrıntılı olarak verilmiştir. Deneyimlerimin gösterdiği gibi, kullanıcı ve küçük güç motorlarının amatör yapımcıları tarafından en çok ihtiyaç duyulan bilgileri sağlamayı amaçladım. Yaygın motor sorunlarının ve çözümlerinin yalnızca bir listesini vermek yerine, iyi çalışmanın temel ilkelerini ve esaslarını ayrıntılı bir şekilde açıklamaya çalışmanın daha iyi olacağını düşündüm, böylece herhangi bir zorluk ortaya çıkarsa, motor görevlisi sorunun nedenini kendisi için akıl yürütebilecek ve böylece uygulanacak doğru çözümü bilecektir. Bu, ona motoru üzerinde bir hakimiyet sağlayacak ve bu da onu herhangi bir acil durumda eşit kılacaktır.
+
+WALTER C. RUNCIMAN.
+
+LONDRA, E.C.
+
+GAZ VE PETROL MOTORLARI
+
+BASİTÇE AÇIKLANMIŞ
+
+BÖLÜM I
+
+GİRİŞ
+
+Gaz motorunun tarihi çok eskilere dayanır ve içten yanmalı motorun tarihi daha da eskilere dayanır. Aşağıdaki sayfalarda ele alacağımız motor sınıfının gelişiminin tarihindeki ana noktaları tekrar anlatmak, doğru ve en uygulanabilir teorinin formüle edilmesinden kısa bir süre sonra ne kadar büyük ilerlemeler kaydedildiğini göstermek için ilginç olacaktır.
+
+1678'de Abbe Hautefeuille, yakıt olarak barutla çalışan bir makinenin nasıl inşa edilebileceğini açıkladı. Düzenlemesi, barutu valflerle donatılmış kapalı bir kapta patlatmak ve yanma ürünlerini soğutmak ve böylece kısmi bir vakum oluşturmaktı. Böyle bir
+makinenin yardımıyla su yükseltilebilirdi. Ancak bu mucit
+herhangi bir deney yapmış gibi görünmüyor.
+
+1685'te Huyghens başka bir barut makinesi tasarladı; ve Papin, 1688'de, _Leipsic Akademisi'nin Tutanakları_, 1688'de kendisi tarafından
+tasarlanan, düzenli valflerle donatılmış benzer bir makineyi tanımladı.
+Bu zamandan 1791'e kadar, John Barber havadaki hidrokarbonun yanmasıyla kuvvet üretimi için bir patent alana kadar, pratikte
+hiçbir ilerleme kaydedilmedi. İlginç bir şekilde, ikinci patent
+çok ilkel bir döner motor biçimini içeriyordu. Barber, kömürü,
+petrolü veya diğer yanıcı maddeleri harici ateşleme yoluyla gaza dönüştürmeyi ve
+sonra bu şekilde üretilen gazları patlayıcı adı verilen bir kapta havayla karıştırmayı
+önerdi. Bu karışım daha sonra gemiden çıkarken tutuşturuldu ve
+sonraki parlama bir çarkın dönmesine neden oldu. Ayrıca
+patlayıcıya biraz su enjekte etmek için bir nesne olduğundan,
+parlamanın kuvvetini güçlendirmek için bahsedilmiştir. Robert Street'in 1794 tarihli patenti, silindirinde kömür katranı, ispirto veya terebentin buharlaştırılan, gazların silindirin dışında yanan bir ışıkla tutuşturulduğu bir pistonlu motordan bahseder. Bu motordaki piston yukarı doğru fırlatılır, bu da suyu yükseltmek için çalışan bir pompa pistonunu aşağı doğru zorlar. Bu, ilk gerçek gaz motoruydu, ancak
+kaba ve çok kusurlu bir şekilde düzenlenmişti.
+
+1801'de Franzose Lebon, kömür gazıyla çalıştırılan bir makineyi
+tanımladı. Havayı ve gazı sıkıştırmak için iki pompa kullanıldı ve karışım, mucit tarafından önerildiği gibi, bir elektrik kıvılcımıyla ateşlendi ve
+çift çalışan bir silindirdeki bir pistonu çalıştırdı.
+
+Samuel Brown'un 1823'teki atmosferik motoru, gazın sokulduğu bir silindirde çalışan bir pistona sahipti ve ikincisi, tutuşturulduğunda,
+bir alev gibi yanarken silindirdeki havayı genişletti. Volan
+pistonu strokunun tepesine kadar taşıdı, sonra yanmış gazları soğutmak için su kullanıldı, bu gazlar da valflerden kaçıyordu, piston strokunun tepesine ulaştığında valfler kapanıyordu. Kısmi bir
+vakum oluştu ve atmosferik basınç pistonun aşağı strokunda çalıştı. Bu motorda bir dizi silindir gerekiyordu,
+üç tanesi teknik özelliklerde gösterildiği gibi hepsi aynı krank
+miline bağlıydı. _Mechanic's Magazine_'e göre, tam gaz üretim tesisine sahip böyle bir motor, Thames Nehri üzerinde bir deney olarak çalışan bir tekneye takıldı.
+
+Paris'te bir kiriş üzerinde çalışan iki silindirli bir motor inşa edildi, ancak
+yararlı bir sonuç elde edilemedi.
+
+Wright'ın 1833'teki motoru, bir buhar motorundaki buhar gibi çalışan yanıcı gaz ve hava karışımı kullanıyordu. Bu motorda bir su ceketi,
+santrrifüj regülatörü ve alev ateşlemesi vardı. 1838'de Barnett, sıkıştırma prensibini tek etkili bir motora uyguladı. Ayrıca, sırasıyla motor silindirinin her iki tarafına yerleştirilen bir gaz ve hava pompası kullandı ve pompaların beslendiği alıcı ile şarj ateşlendiğinde çalışan silindir arasında iletişim kuruldu. Barnett'in daha sonra tasarladığı çift etkili motorlar o kadar başarılı olmadı.
+
+Bu zamandan yaklaşık 1860'a kadar çok az pratik gelişme kaydedildi.
+Hidrojen motorlarına atıfta bulunan bir dizi Fransız ve İngiliz patenti alındı, ancak bunların pratik değeri pek fazla değil.
+
+24 Ocak 1860 tarihli Lenoir'in patenti, önemli ticari destek alan ve dolayısıyla çok popüler olan bir motor
+türünü ifade ediyor. Marinoni adlı bir üretici, kısa bir süre sonra Paris'te çalışmaya başlayan bu motorlardan birkaçını inşa etti. Daha sonra,
+ani talep nedeniyle, bu motorların üretimini üstlenmek üzere Lenoir Şirketi kuruldu. 4 beygir gücündeki bir motorun günlük 3,4 şilin maliyetle veya saatte beygir gücü başına 9,9 pound kömür kullanan bir buharlı motorun maliyetinin sadece yarısına çalıştırılabileceği iddia edildi. Tüketimdeki ekonomilerine dair benzer abartılı hesaplar
+dolaştırıldı ve halk bu rakamlara dayanarak
+satın aldı.
+
+Saat başına beygir gücü başına 17,6 kübik ft. gaz gerektiği anlaşıldı, ancak sıklıkla 105 kübik ft. kadar tüketildiği görüldü. Belirtilen rakamlarla motorun gerçek performansı arasındaki tutarsızlık, kullanan halk için bir hayal kırıklığı oldu ve bunun sonucunda Lenoir motoru kötü bir üne kavuştu.
+
+Münihli bir saatçi olan Reithmann ile birlikte Lenoir'ın bu buluşa verdiği önceliğe şiddetle karşı çıkan Paris gaz fabrikasının müdürü Hugon, bu motorun bir modifikasyonunu ortaya çıkardı. Silindiri su enjekte ederek ve su ceketi kullanarak soğuttu ve elektrikli ateşleme yerine alev kullandı. Tüketim artık 87,5 kübik feet'e düşürüldü.
+
+İkinci Paris Uluslararası Sergisi'nde, 1867'de, Otto & Langen tarafından bu sıralarda icat edilen atmosferik bir motor gösterildi. Bu
+motorda, dikey bir silindirde serbest bir piston kullanıldı, ilki patlamanın
+gücüyle yukarı fırlatıldı. Yukarı vuruşta yapılan tek iş, pistonun ve piston çubuğunun ağırlığını yenmekti,
+ikincisi ise bir kremayer şeklinde yapıldı, piston aşağı inerken aks üzerinde dişli bir
+tekerleğe bağlandı ve volan ve
+kasnağın dönmesine neden oldu.
+
+Barsanti ve Matteucci, birkaç yıl önce buna çok benzeyen bir motor tasarlamak ve denemekle meşguldüler, ancak Otto & Langen, şüphesiz, oldukça bağımsız çalıştı. Barsanti'nin motoru asla ticari bir ürün olmadı; Otto & Langen'in firmasının ise on yıl boyunca ayakta kaldığı ve yaklaşık 4000 motor ürettiği söyleniyor. 1862'de Fransız mühendis Beau de Rochas, maksimum verim elde etmek için geçerli olması gereken gerekli koşulları belirledi. Patenti, bir motorda gazın genleşme kuvvetini mükemmel şekilde kullanmak için dört koşul olduğunu söylüyor.
+
+(1) Minimum yüzey tarafından kapsanan mümkün olan en büyük silindir hacmi.
+
+(2) Mümkün olan en yüksek çalışma hızı.
+
+(3) Maksimum genleşme.
+
+(4) Genleşmenin başlangıcındaki maksimum basınç.
+
+Bunlar, kısaca ifade edildiğinde, çoğu gaz motorunun şu anda çalıştığı
+şimdi iyi bilinen döngüyü
+oluşturmak için bir araya gelen koşullar ve ilkelerdir.
+
+Otto, bu ilkelerin sayılmasından on beş yıl sonra, 1876'ya kadar bunları pratik olarak uygulamaya koymadı ve ateşlemeden önce sıkıştırma, daha yüksek
+piston hızı, daha hızlı genleşme ve belirli bir güç için genel olarak
+boyutlarda bir azalma olan yeni bir motor türü çıkardı. Bu başarı nedeniyle, yukarıda belirtilen döngü her zaman "Otto" döngüsü olarak adlandırılmıştır.
+
+BÖLÜM II
+
+BİR MOTORUN BİLEŞEN PARÇALARI
+
+Gaz motorunun başlangıcından itibaren gelişimindeki başlıca noktaları çok kısa bir şekilde anlattıktan sonra, içten yanmalı motorları üretme veya çalıştırma konusunda çok az veya hiç gerçek deneyimi olmadığını varsaydığımız kişiler için belki de daha pratik ilgi
+çekebilecek konulara geçebiliriz.
+
+Modern gaz motoru nispeten az sayıda parçadan oluşur.
+İki ana döküm olan yatak ve silindir dışında, küçük bir motor genel olarak dört temel elemandan oluşur, yani valfler ve bunların çalışma mekanizmaları, kamlar ve kollar; yükü ateşlemek için ateşleme cihazı; ve patlayıcı yükün tedarikini ve kabulünü düzenlemek için yönetim mekanizması. Bu parçaların her birinin sayısız tasarımı vardır ve hiçbir iki üretim, ayrıntılarda tam olarak aynı değildir, çünkü her üretici aynı sonuca ulaşmak için kendi yöntemini kullanır, yani, en az aşınma ve yıpranma ve bakımla en yüksek verimi sağlayan bir motor üretmek. Bu nedenle, bu birincil parçaların her biriyle keyfi bir şekilde ve çalışma döngüsüyle ayrıntılı olarak ilgilenmeden önce, okuyucuyu genellikle daha küçük güçteki motorlarda elde edilen genel düzenleme ve çalışma yöntemiyle tanıştırmayı öneriyoruz. Aşağıdaki resimlerde bu parçalar gösterilmektedir. A (şekil 1), şarjı ateşlemek için ateşleme tüpünü taşıyan ateşleme cihazıdır. H ve I (şekil 2), ana valflerdir ve GC (şekil 1), gaz musluğudur. Yan veya kam mili N (bazen 2'ye 1 mil olarak adlandırılır), kolları M hareket ettiren kamlar, ikincisi sırayla valfleri çalıştırır ve bunların doğru zamanda açılıp kapanmasına neden olur, şekil 11'de gösterilmiştir.
+Silindirin yan tarafına cıvatalanmış bir braket, yan milin bir ucu için bir yatak oluşturur ve ayrıca alt ucunda kolların salındığı ve kamlar tarafından kendilerine verilen hareketi valflere ileten bir mil taşır. Ana silindir dökümü ve yatağın herhangi bir
+tanıma ihtiyacı yoktur. Bazı durumlarda yatak iki bölümden oluşur, ancak artık birçok üretici alt bölümü tamamen atıyor, bunun yerine daha ucuz ve oldukça tatmin edici bir temel oluşturmanın ve gerekirse volanın çalışması için bir oluk açmanın daha iyi olduğunu
+buldular. Ancak bu düzenleme yalnızca daha büyük motorlar söz konusu olduğunda geçerlidir. Egzoz kamının yan şaft üzerinde gerektiği gibi yanal olarak hareket ettirildiği yarım sıkıştırma kolu çok küçük motorlarda gerekli değildir.
+
+[Resim: ŞEKİL 1.--Bir Gaz Motorunun ve Aksesuarlarının Genel Düzenlemesi.]
+
+Buna başka bir bölümde daha fazla değinilecektir ve bu küçük bir motorda bir zorunluluk olmasa da her zaman 2 BHP'nin üzerindeki motorlarda kullanılır. Şekil 1'de HW soğutma suyu çıkışı ve CW girişidir. DC'de küçük bir tahliye musluğu gösterilmiştir,
+bu sayede silindir su ceketindeki su gerektiğinde çekilebilir.
+Bu beslemenin girişine ve çıkışına giden borular, bir çift geniş, düz somun ve kurşun rondela vasıtasıyla soğutma suyu tankına bağlanır, biri tankın içinde diğeri tankın dışındadır,
+ikincisi, iyice sıkıştırıldığında mükemmel bir su geçirmez bağlantı oluşturur.
+Çıkış borusu tankın kenarıyla dar bir açı yapar, orada kullanılan
+rondelalar kesitte kama şeklinde olmalıdır. Ayrıca, boruların motordan tamamen ayrılabilmesi veya su ceketinin tanktan tüm suyu boşaltmadan boşaltılabilmesi için bir SC durdurma musluğu takılması da istenir.
+EP egzoz borusu gaz namlusundan oluşur. Motordan susturucuya veya egzoz kutusuna (gerekli görülürse) mümkün olduğunca doğrudan, yani ihtiyaç duyulandan fazla kıvrım olmadan ve kıvrımlar keskin olmayacak şekilde yönlendirilmelidir. Susturucu, motor bölmesinin içinde veya dışında, hangisi daha uygunsa, olabilir; ancak hem susturucu hem de egzoz boruları ahşap işçiliğiyle doğrudan temastan uzak tutulmalı ve aynı zamanda kolayca erişilebilir bir konumda olmalıdır. Egzoz borusu ve kutusunun ve su deposunun ötesinde, gaz torbası GB ve gaz sayacı (küçük güçler söz konusu olduğunda, sıradan ev veya atölye aydınlatma sayacı rahatsızlık vermeden kullanılabilir) küçük bir kurulumda bulunan tek diğer aksesuarlardır. 
+
+[Resim: ŞEKİL 2.--Bir Gaz Motorunun Kesiti.] 
+
+Şek. 2, silindiri ve gömlekleri gösteren bir kesit görünümü sunar. İkincisi, her tür gaz motorunda çok istenen bir özelliktir, ancak özellikle daha büyük boyutlarda; çünkü gelecekte herhangi bir zamanda, gömleğin yeniden delinmesi gerekirse, nispeten
+kolayca çıkarılabilir ve ayrıca, tüm silindir dökümünden daha kolay bir şekilde tornada işlenebilir.
+
+Gömleğin kendisi, her iki ucunda özel olarak şekillendirilmiş bir flanş bulunan, neredeyse bir dökme demir borudur. Arka uçta, silindir dökümü ile arasındaki bağlantı çok dikkatli bir şekilde yapılmalıdır. Bu bir su _ve_ patlama
+bağlantısıdır; bu nedenle, yalnızca silindire su ceketinden su girmesini önlemekle kalmamalı, aynı zamanda şarj ateşlendiğinde silindirde oluşan basınca dayanacak kadar güçlü olmalıdır. Bu amaçla, hem suya hem de yoğun ısıya dayanacak şekilde özel olarak hazırlanmış bakırlı asbest halkalar kullanılır. Bazen, bağlantıyı yapmak için tek başına bir bakır halka kullanılır. Ön uçta astar tam olarak uyuyor ve yatağa kolayca giriyor ve astar üzerindeki karşılık gelen çıkıntılara takılan birkaç cıvata, silindir dökümünün arka ucundan geçiyor, böylece bunları sıkarak arka uçtaki bağlantı güvenli hale getiriliyor. Bir flanşta küçük bir oluk açılıyor ve yaklaşık 1/4 inç kesit çaplı bir kauçuk halka, astar silindir dökümüne takıldığında buraya yerleştiriliyor. Bu, ön uçtaki su ceketi bağlantısını oluşturuyor.
+
+[Resim: ŞEK. 3.]
+
+[Resim: ŞEK. 5.]
+
+[Resim: ŞEK. 4.]
+
+Yatak ve silindir dökümlerinde çıkıntılar sağlanıyor ve çelik cıvataları almak için deliniyor - bu çıkıntıların içindeki ve etrafındaki metal sıkıştırılmadığı sürece üç tane yeterli oluyor. Bazı durumlarda hem yatakta hem de silindirde sürekli bir flanş sağlanır ve her tarafa bir dizi cıvata yerleştirilir. Ancak bu gereksizdir ve biraz beceriksiz bir görünüme sahiptir. Bu cıvatalar sıkıldığında, silindir ve gömlek yatağa sıkıca kenetlenir; ancak gömlek açık uçta serbest olduğundan, silindir dökümünde gerilime neden olmadan uzunlamasına genişleyebilir. Yanma odası K, silindirin neredeyse bir parçasıdır ve silindirin toplam hacminin yaklaşık dörtte birine eşittir. Şekil, farklı motor markalarında biraz değişir; bazılarında dikdörtgendir ve tüm köşeleri iyice yuvarlatılmıştır; diğerlerinde ise pratik olarak silindirin bir devamıdır, yani kesiti daireseldir ve arka ucu az çok küreseldir; yine kesiti hafifçe ovaldir; ancak her durumda köşeler _iyi_ kavisli ve yuvarlatılmış olmalıdır, böylece dökümün geri kalanıyla orantısız bir şekilde
+ısıtılmaya meyilli olan hiçbir parça
+olmaz; aslında, tüm silindir dökümünde ani bir değişiklik
+olmamalı, ancak kullanılan metalin kalınlığında bir tekdüzelik olmalıdır.
+Bu nokta dikkatlice hatırlanmalıdır, ancak dökümün geri kalanından daha yüksek sıcaklıklara maruz kalan parçaları için daha özel olarak geçerlidir.
+
+Ana yataklar genellikle pirinç veya top metalindendir ve herhangi bir buhar veya diğer motorla aynı şekilde çalışmak üzere
+ayarlanmıştır.
+"Pirinçler" yarıya bölünmüştür ve şekil 1'de gösterildiği gibi
+dökme demir kapaklarla aşağıda tutulur.
+
+Bu yataklar son derece az dikkat gerektirir ve bağlantı çubuğu pirinçleri kadar
+çalışmanın aşınma ve yıpranmasını göstermez.
+Bunlar da genellikle pirinç veya top metalindendir; ancak arka uç veya piston pimi yataklarıyla bağlantılı olarak kullanılan çeşitli yapı biçimleri vardır. Çok küçük motorlarda bağlantı çubuğu dövme sırasında arka uçtan şişirilir ve daha sonra işlenerek delinir, şekil 3'te gösterildiği gibi. Bu deliğe pirinçler, piston pimine iyi bir şekilde oturması için kazındıktan sonra yerleştirilir. Pirinçlerden birinin üzerine düz bir kesim yapılır ve son ayar yapıldıktan sonra ikincisinin hareket etmesini önlemek için gösterildiği gibi bir ayar vidası takılır. Bu ayar vidasıyla birlikte bir kilit somunu kullanılmalıdır. Daha büyük motorlarda daha genel olarak kullanılan başka bir yöntem şekil 4'te gösterilmiştir. Bu durumda pirinçler, neredeyse yarık bir burç olan ilkindekinden daha büyüktür; burada cıvataları almak için içlerine delikler açılmıştır, cıvatalar genellikle ve tercihen şekilde gösterilen şekle döndürülür. 5.
+
+BÖLÜM III
+
+GAZ MOTORU NASIL ÇALIŞIR
+
+Günümüz gaz motoru, yapısal bir bakış açısıyla erken motordan veya hatta on beş yıl öncekinden çok farklı olsa da, çalıştığı prensip açısından çok
+benzerdir. Bu ülkede kullanılan daha küçük güçteki motorların çoğu, Otto veya dört zamanlı prensip olarak bilinen prensiple çalışır; ve biz de bu motor sınıfıyla ilgilenmeyi öneriyoruz.
+
+Metindeki çeşitli diyagramlara başvurmak önemli ölçüde yardımcı olacak ve bu tür motorlarla daha önce hiç tanışmamış herhangi bir okuyucunun neden ve nasıl çalıştıklarını görmesini kolaylaştıracaktır.
+
+Kömür gazı, esas olarak belirli oranlarda karıştırılmış beş başka gazdan oluşur, bu oranlar ülkenin farklı bölgelerinde biraz değişir:--Hidrojen (H), 50; bataklık gazı (CH4), 38;
+karbon monoksit, 4; olefinler (C6H4), 4; azot (N), 4.
+
+Gaz _tek başına_ patlayıcı değildir; ve herhangi bir pratik kullanım yapılmadan önce, önemli miktarda hava eklenmeli ve yaklaşık on parça havaya bir parça saf gaza indirilmelidir. Bu karışım _şimdi_
+oldukça patlayıcıdır.
+
+Okuyucu bu gerçekleri sürekli aklında tutmalıdır,
+özellikle bir gaz motorunu tamir ederken, ayarlarken veya üzerinde deney yaparken. Bunu baştan vurgulamak istiyoruz çünkü bu gerçeklerin bir değerlendirmesi gaz motoruyla olan tüm ilişkilerimizde sürekli olarak karşımıza çıkacak ve gazın belirli ve çeşitli koşullar altında nasıl davranacağına dair oldukça net bir anlayış elde edildiğinde, "sorunlarımız" yarı yarıya, hatta yarıdan fazla ortadan kalkacak; gaz motorunun "bozulmuş" olduğu çığlığı daha az duyulacak ve kullanıcılar kısa süre sonra gaz motorunun gerçekte yaygın olarak kullanılan diğer herhangi bir güç jeneratörü kadar güvenlerine layık olduğunu öğrenecekler. Ancak çalışma döngüsünün açıklamasına geri dönecek olursak, döngü pistonun dört vuruşuyla, yani krank milinin iki turuyla tamamlanır. İlk dış vuruşun (doldurma veya emme vuruşu) başlangıcında gaz ve hava, ilgili valfler aracılığıyla silindire kabul edilir (şekil 6) ve pistonun emme hareketi olarak adlandırılabilecek şeyle içeri çekilmeye devam eder, ta ki bu vuruş tamamlanana kadar (valflerin kapanma ve açılmalarının kesin
+pozisyonuna daha sonra değinilecektir). Bir sonraki vuruş (şekil 7) sıkıştırma vuruşudur. Piston içeri doğru hareket ederken tüm valfler kapalıdır, gazları sıkıştırır, ta ki bu vuruşun sonunda ve maksimum sıkıştırma anında, son derece patlayıcı yük, duruma göre sıcak tüp veya elektrik kıvılcımı aracılığıyla ateşlenene kadar. Sonraki vuruş - döngünün ikinci dış vuruşu - patlamanın sonucudur, genişleyen gazlar pistonu hızla önlerinde hareket ettirir; bu, o zaman, genişleme veya çalışma vuruşudur (şekil 8.)
+
+[Resim: ŞEKİL 6.--İlk dış strok emişinin veya
+doldurma strokunun başlangıcı. Gaz ve hava valfi açılmak üzere.]
+
+[Resim: ŞEKİL 7.--Tüm valflerin
+kapalı kaldığı sıkıştırma stroku.]
+
+Sonuncu--ikinci içe--strok sırasında (şekil 9) egzoz valfi
+açılır ve geri dönen piston tüm yanmış gazları (yanma ürünü) egzoz borusuna ve böylece atmosfere süpürür.
+Bu döngüyü tamamlar ve piston, krank ve valfler eskiden olduğu gibi
+aynı göreli konumlardadır ve aynı işlem serisi tekrar tekrar tekrarlanır. Elbette, her zaman hem hava _hem de_ gaz valfinin
+doldurma strokunda açılması söz konusu değildir; bu,
+motorun hızını yönetmek için kullanılan yönteme bağlıdır. Varsayalım ki
+vur ve ıskala ilkesine göre yönetiliyor (bundan sonra açıklanacaktır), gaz valfi şarj stroku sırasında kapalı kalır ve sadece hava silindire çekilir, sonra sıkıştırılır, ancak patlayıcı olmadığından çalışma
+strokunda tekrar genişler, sıkıştırılırken emilen enerjinin neredeyse tamamını geri verir ve son olarak yanmış gazlarla aynı şekilde dışarı atılır.
+
+[Resim: ŞEKİL 8.--İkinci çıkış stroku, çalışma
+stroku sırasında valflerin konumunu gösterir.]
+
+[Resim: ŞEKİL 9.--İkinci içe doğru strok, egzoz
+stroku sırasında valflerin konumunu gösterir.]
+
+[Resim: ŞEKİL 10.--İlk çıkış stroku, şarj
+stroku sırasında valflerin konumunu gösterir.]
+
+Şek. 10, şarj stroku sırasında krank, piston ve valflerin konumunu şematik olarak gösterir.
+
+[Resim: ŞEKİL 11.--Silindirin Kesiti.]
+
+Şekil 1 ve 2'de, modern uygulamanın tipik örnekleri olan iki gaz motorunun çizimlerini verdik. Son yıllarda, hem işçilik hem de verimlilik açısından gaz motoru işinde büyük ilerlemeler kaydedildi, böylece
+bugün gaz motorunda, mekanik verimliliği diğer herhangi bir güç jeneratörünün verimliliğiyle
+karşılaştırıldığında olumlu olan ve termal verimliliği çok daha fazla olan bir makinemiz var.
+
+[Resim: ŞEKİL 12.--Silindirin Uzunlamasına Kesiti.]
+
+Şekiller Şekil 11 ve 12 sırasıyla silindirin kesitsel uç ve yan görünüşünü göstermektedir, buradan okuyucunun, gaz motoru çalışmasına ne kadar aşina olmasa da, motorun çeşitli gereksinimlerinin ve özelliklerinin nasıl dikkate alınması ve karşılanması gerektiğini görmesi zor olmayacaktır.
+
+Herhangi bir makine veya motordaki en önemli arzu, mümkün olduğunca basit bir yapıya sahip olmasıdır; karmaşık bir mekanizma ancak böyle bir ekleme veya karmaşıklık, zorunlu olarak daha yüksek bir ilk maliyeti ve ayrıca daha fazla aşınma ve yıpranma ve dikkat gerektiren şeyi yeterince telafi ettiğinde kullanılmalıdır. Şekil 11 ve 12 son yıllarda gaz motorunun yapımını basitleştirmek için neler yapıldığını göstermektedir. Bu durumdaki ana özellik, iki ana valfin -hava valfi F ve egzoz E- çok ulaşılabilir konumda olmasıdır. Çizimden görülebileceği gibi, bu valfler yanma odasının kapağı çıkarıldıktan sonra geri çekilebilir.
+İkincisi, kesinlikle sıkı bir bağlantı yapmak için şekillendirilmiş ve yukarı doğru yüzlendirilmiş bir demir dökümdür; bu bağlantıyı yapmak için asbest veya herhangi bir dolgu kullanılmamıştır ve
+gösterildiği gibi dört saplama ile yerinde tutulur. Bu nedenle, gereken tek şey dört somunu çıkarmak, kapağı kaldırmak, ardından spiral yayları yerinde tutan pimleri
+çekmek ve valfleri geri çekmektir.
+İkincisi, doğrudan silindir dökümünün metaline oturtulur,
+tabanca metal burçları A ve B kılavuz görevi görür. İki amaçlı hizmet veren A'ya (karıştırıcıya) daha sonra değinilecektir.
+
+Gaz valfi ve musluğu, birkaç saplama tarafından taşınan ayrı bir döküme monte edilmiştir, bu ve silindir arasındaki bağlantı bir parça kauçuk ekleme ile yapılmıştır. Gaz, gaz musluğundan girer, valf ve port G'den geçer ve daha önce belirtilen burç veya "karıştırıcı" A'daki halka şeklindeki boşluğun etrafından geçer ve oradan hava valfi F'nin yuvasının hemen altındaki birkaç küçük delikten geçer. Aynı
+anda, saf hava hava kutusu _aracılığıyla_ (aşağıda açıklandığı gibi), port L'den (şek. 11) ve oradan burç A'nın ortasından yukarı doğru ve gazın aktığı küçük deliklerin üzerinden çekilir. Daha sonra ikisi iyice karışır ve hava valfi F açıldığında yanma odasına birlikte girer. Bu cihaz, patlama gerçekleştiğinde mükemmel yanmaya yol açan ve motorun verimliliğinin büyük ölçüde bağlı olduğu mükemmel homojen bir karışım üretir. Bu yöndeki olası kayıpların yanı sıra, ortadan kaldırılamayan başka bir atık kaynağı daha vardır ve bu da silindiri çevreleyen soğutma suyunun aldığı ısıdır. Bu kayıp kaçınılmaz olduğundan, yapabileceğimiz en iyi şey
+onu mümkün olduğunca küçük yapmaktır. Teorik olarak, şu anda olduğundan çok daha yüksek sıcaklıklarda çalışabilseydik bu küçük bir avantaj olmazdı ve sadece belirli mekanik zorluklar, motorun zaten yüksek olan termal verimliliğinin büyük ölçüde artırılmasını engelliyor ve etkili bir şekilde engelliyor.
+
+Bu zorlukların tamamen üstesinden gelmek kolay bir iş değil, ancak bu yönde sürekli iyileştirmeler yapılıyor, böylece
+yıllar önce gaz motoru kullanıcısının başına gelen sorunlar artık yok.
+
+Soğutma suyundan tek istediğimiz, motorun belirli çalışma parçalarını makul bir sıcaklıkta tutması; örneğin,
+silindir, yağlama yağının yağlama özelliğini yok edecek kadar sıcak olmamalı, egzoz valfi de çalılıkta sıkışıp kalmasına neden olacak kadar
+sıcak olmamalı; ancak, bu gibi
+düşüncelerin ötesinde, her patlamanın başlangıcında sıcaklık ne kadar yüksekse, motor o kadar verimli olacaktır. Amaç, mümkün olduğunca az soğutma yapmak ve soğutma etkisini doğru kısımlara uygulamaktır; dolayısıyla soğutma suyunun dolaştığı geçitler ve odalar, düşük sıcaklıkta tutulması gerekenlerin soğutma suyuna yakın olacak şekilde düzenlenmelidir. Geçmişteki bazı motorlarda, egzoz valfi büyük bir demir dökümde taşınırdı, bu da silindir dökümüne cıvatalanır ve bir bağlantı noktası aracılığıyla yanma odasıyla iletişim kurardı. Böyle bir düzenlemenin sadece beceriksiz değil, aynı zamanda verimsiz olduğu görüldü; su geçitleri küçüktü ve ulaşılması zordu; kolayca kirleniyorlardı; ayrıca, bu döküm ile silindir arasındaki bağlantı zorunlu olarak bir su _ve_
+patlama bağlantısıydı ve bunlardan ne kadar azımız varsa o kadar iyi.
+
+Egzoz valfinin çok ısınmasını önlemenin veya üstesinden gelmenin yöntemi -eğer buna bir yöntem denilebilirse-
+şekildedir. 11 ve 12,
+sadece akıllıca bir düzenleme ve tasarım. Soğutma suyu K girişinden girer (şekil 11) ve ısınmadan hemen önce egzoz valfi portu X ve valf E etrafında dolaşır, böylece motorun en sıcak çalışan parçaları uygun bir sıcaklıkta tutulur;
+ve valf yuvası, soğuk suyla doğrudan metalik iletişimde olduğundan yanmaz veya çukurlaşmaz. Egzoz valfinin diğer tarafında, sürekli olarak soğuk havanın çekildiği hava valfi ve kanalları bulunur; bu da egzoz valfinin soğuk kalmasına yardımcı olur.
+
+Bundan, iyi tasarımlı bir motor verildiğinde, silindirin aşırı ısınmasının normal koşullar altında gerçekleşmeyeceği sonucuna varabiliriz; ancak,
+bu sorun ortaya çıkarsa, öncelikle soğutma suyu sirkülasyonunda bir kusur olup olmadığını güvenle arayabiliriz. Bazı sular diğerlerinden daha fazla miktarda kirlilik içerir ve sonuç olarak su boşluğu bir bölgede diğerine göre daha hızlı bir şekilde tıkanabilir. Ancak bu tortu,
+en kötü koşullar altında bile, çok yavaş birikmektedir ve
+su ceketinin temizlenmesi işlemi çok nadir bir gerekliliktir. Ancak egzoz valfi, kötü duruma gelmesine izin verilirse, yani sızdırırsa aşırı ısınabilir. Oturduğu yere iyi bakılmalıdır, aksi takdirde sıcak gazlar muhtemelen
+kapatıldığında geçecektir; ve bu kusur, başlangıçta hafif olsa da,
+gelişmesine izin verilirse, hem oturak, hem valf kafası hem de mil aşırı ısıdan dolayı yanacak ve belki de kötü bir şekilde çukurlaşacaktır.
+
+BÖLÜM IV
+
+ATEŞLEME CİHAZLARI
+
+Genellikle kullanılan ateşleme cihazları üç ana sınıfa ayrılabilir: metal boru, porselen boru ve elektrikli ateşleme.
+Bunlar da alt bölümlere ayrılabilir: Birincisi demir veya nikeldir
+(bazen hecknum olarak adlandırılırlar); ikincisi iki türdür - tek uçlu ve çift uçlu; ve üçüncüsü birçok form alır
+ki okuyucularımın çoğunun muhtemelen aşina olduğu, örneğin
+manyeto, indüksiyon bobini ve titreme cihazı ve yüksek gerilimli manyeto ateşlemesi, sonuncu cihaz çeşitli durumlarda başarıyla kullanılmıştır, ancak henüz evrensel olarak benimsenmemiştir.
+
+İlk adı geçenlerin nikel tüpe göre bir veya iki avantajı vardır.
+Çok ucuzdurlar ve gerekli sıcaklığa kolayca ısıtılırlar;
+dahası, talep olursa evde yapılabilirler.
+Öte yandan, çok dayanıklı değildirler, çok belirsiz bir ömre sahiptirler ve
+sonuç olarak sık sık yenilenmeleri gerekir - ortalama ömürleri
+60 çalışma saatinden fazla değildir. Şekil 13, brülörü ve bacası sabitlenmiş bir demir tüpün ana hatlarını gösterir. Tüp, 1/4 inçlik bir parçaya çok benzer. gaz namlusu, bir ucu kapalı ve diğer ucunda konik bir diş (1/4 inç gaz) kesilmiş; aslında, gaz namlusu
+bu tüpleri evde yapmak için kullanılabilir--ve yaklaşık 7 veya 8 inç ölçülerindedir genel olarak
+bir ateşleme bloğuna vidalanır, bu da
+yanma odası ucuna vidalanır, böylece tam yerine oturduğunda
+tüpün oldukça dik durduğu bir konumda olur. Tüpün kesiti, şekil 13,
+bir süre kullanıldıktan sonra girdiği durumu gösterir.
+Delik, görüleceği gibi, neredeyse tamamen kapanmıştır, böylece
+tüpün sıcak kısmı ile yanma odası arasında pratik olarak hiçbir iletişim yoktur.
+Deliğin bu şekilde kapanması çok kademelidir ve
+bu sürecin erken aşamalarında düzensiz ateşlemenin meydana gelmesi muhtemeldir; bazen şarj başarılı bir şekilde ateşlenir, bazen de ateşlenmez. Burada, bir dereceye kadar önemsiz olsa da, tüpün uzunluğunun ne aşırı uzun ne de anormal derecede kısa olması gerektiğini, kesin uzunluğun
+motorun boyutuna göre değiştiğini belirtmekte fayda var. 1/4 inçlik bir tüp, 8 inç uzun, 1/2 ila 6 beygir gücündeki motorlarda, uygun bir brülör takılarak tüpün herhangi bir noktada ısıtılabilmesi sağlandığı takdirde başarıyla kullanılabilir. İlk şarj ateşlendikten ve egzoz
+ortaya çıktıktan sonra, neredeyse tüm yanmış gazlar silindirden temizlenir,
+ancak bunların küçük bir miktarı genellikle tüpte ve ateşleme bloğunun deliğinde kalır. Bunu izleyen sıkıştırma
+strokunda bu inert
+gazlar tüpün en uzak ucuna sıkıştırılır, böylece patlayıcı karışımın sıcak kısma ulaşması ve patlaması için yol açılır, böylece karışımın ana hacmine bir alev jeti gönderilir ve bu da hemen
+ateşlenir. Bu nedenle, çok uzun bir tüpe sahip olmanın bir avantajı yoktur,
+ancak, çok kısa olmamalıdır.
+
+[Resim: ŞEK. 13.]
+
+[Resim: ŞEK. 14.]
+
+[Resim: ŞEK. 15.]
+
+Şekil 13'te gösterilen asbest astarı, bacanın ve borunun boyutuna göre çeşitli kalınlıklarda olabilir; bunun nedeni birçok kişi için açıktır; ancak borunun ısıtılmasında ve dolayısıyla motorun çalışmasında en önemli faktör olduğundan, bu noktayla daha ayrıntılı olarak ilgilenmek tavsiye edilir.
+
+Esas olarak demir boruların ısı ve iç basınç altındaki tuhaf davranışı nedeniyle, motorda eksik ateş belirtileri olduğunda her zaman öncelikle bunlara bakmak ve her zaman yeni bir borunun deliğini incelemek ve takmadan önce tamamen temiz olduğundan emin olmak tavsiye edilir. Ateşleme borusunun ayarlanması, tüm motorda yapılması gereken en önemli ve gerekli olanlardan biri olmasına rağmen, kendi başına tamamen basit bir konudur. Ateşleme borusunun, elimizdeki olağan araçlarla çok yüksek bir sıcaklıkta tutulamayacağı anlaşılmalıdır; ancak alevin _boyutunun_ veya alevin _yandığı_ sürenin, tüpün şarjı başarılı bir şekilde ateşlemek için yeterince sıcak olduğunun veya olması gerektiğinin kesin kanıtı olduğu varsayılmamalıdır. Bir adamın, tüpünün neredeyse soğuk olduğu belirtildikten sonra, "Vay canına, saatlerdir yanıyor!" diye haykırdığını duymak nadirdir.
+
+Eğer sizin durumunuz da böyleyse, okuyucu, brülörün düzgün ayarlanmadığını ve bu nedenle _doğru
+türde alev_ vermediğini çok haklı olarak varsayabilirsiniz.
+
+Mümkün olan en sıcak alevi elde etmek için, gaz ve hava miktarı doğru oranlarda karıştırılmalıdır. Yaygın bir hata, hava deliğinden çekilen hava miktarına kıyasla, memeden çok fazla gaz geçmesine izin verilmesidir, şekil 13. Sonuç olarak, çok uzun bir alev elde ederiz, ancak bu alev gereksinimlerimize hiç uygun değildir; ve ısısını boruya ve bacanın asbest kaplamasına vermek yerine, muhtemelen bacada yaktığımız büyük miktardaki gaz orada hiç yanmıyor, çünkü baca tepesinin hemen üstüne bir ışık uygulandığında, israf ettiğimiz bu gazın bir miktarının titrek mavi bir alevle yandığı görülecektir. İşleri yoluna koymak için, iki şeyden birini yapmak gerekir: ya gaz beslemesini kısmak ya da hava beslemesini artırmak. Hava
+açıklığı normal, yani başlangıçtakiyle aynı boyuttaysa, _gazı_ ayarlamak daha iyidir; bu, büyütülmüş çizimde gösterildiği gibi, şekil 14'te gösterildiği gibi, tam doğru miktarda gaz akana kadar meme ucuna hafifçe vurarak yapılabilir.
+
+Kural olarak, çok fazla hava varsa, alev yüksek bir kükreme sesiyle yanar ve geri ateşlemeye meyillidir. Meme ucu daha sonra küçük bir raybayla açılmalıdır; küçük bir törpünün sapı, uzun bir konik noktaya kadar
+biçildiğinde, bu amaç için takdire şayan bir alet olur. Brülör sıradan bunsen tipinde veya halka veya ocak tipinde olsun, yukarıdaki açıklamalar geçerlidir, çünkü her durumda gaz akışı içinden geçtiği deliğin boyutuna göre belirlenir.
+
+Yeni bir tüp takarken mükemmel sıkı bir bağlantı yapmak için bir miktar yağdan başka bir şey kullanmaya gerek yoktur; beyaz veya kırmızı kurşun
+tamamen gereksizdir ve gelecekteki durumlarda tüpü çıkarmayı zahmetli hale getirebilir. Yeni tüpler takarken de aşırı güç uygulanmamalıdır; ateşleme bloğundaki dişin aşınmasına neden olabilir ve bu da ateşleme deliğinin kısmen tıkanmasına neden olur, Şekil 15'te gösterildiği gibi. Bu özellikle vidalanmış kısmı normalden biraz daha küçük olan bir tüpe rastlarsak geçerlidir.
+
+Bacanın kaplandığı asbest yaklaşık 1/8 inç kalınlığında olmalı ve yenilerken orijinalle aynı kalınlıkta
+kullanılmalıdır. Daha kalın bir tahta, borunun etrafındaki halka boşluğunu azaltacak ve alev üzerinde boğucu bir etkiye sahip olacaktır - yukarıda belirtilenle aynı şekilde, çok fazla gaz ve yeterli hava olmadığında. Bacayı kaplamanın basit bir yöntemi, bacanın iç boyutlarına göre bir tahta bloğu kesmek, genişlik ve kalınlıktan 1/4 inç daha az, sonra asbestli kartonu suya batırarak yumuşatmak ve tahtanın etrafına bükerek gerekli boyuta, yani iki kenar düzgün bir uç uca birleşene kadar kesmektir. Kalıbın üzerinde kuruyana kadar kalmasına izin verilebilir - şeklini koruduğunda - veya hemen kullanılması isteniyorsa hemen bacaya yerleştirilebilir. İkinci durumda,
+ancak, borunun çalışma sıcaklığına ulaşması yaklaşık on beş dakika kadar sürecektir. Asbest astarları giderek aşınır ve
+pürüzlenir ve küçük pullar kendilerini ayırıp brülöre düşmeye eğilimlidir, bu da tabii ki alevin borunun etrafında olması gerektiği gibi oynamasını engeller. Bu gibi durumlarda her zaman yeni bir astar takmak gerekmez; baca çıkarılırsa, gevşek pullar silkelenirse ve
+asbest iyice nemlendirilir ve tahta veya çelik bir ayak cetveli veya başka uygun şekilli bir aletle
+düzeltilirse, bir başka uzun çalışma dönemi için uygun hale gelecektir.
+
+Nikel veya hecknum borular demirle aynı şekilde işlenir,
+ancak daha önce de belirttiğimiz gibi daha dayanıklıdır, ancak
+çalışabilir bir sıcaklığa getirmek için daha fazla ısıtma gerektirir. Daha yüksek olan ilk maliyetleri, bazı durumlarda üreticilerin bunları altı ay boyunca garanti etmesiyle bir dereceye kadar telafi edilir.
+
+Porselen ateşleme cihazlarından, bu ülkede daha yaygın olarak kullanılan çift uçlu boruyla ilgileneceğiz.
+Bu boru formu genellikle yaklaşık 3 inç uzunluğunda, 1/2 inç çapındadır ve her iki ucundan açıktır. Lehimleme demirlerini ısıtmak için kullanılan küçük gaz sobalarına benzemeyen bir formda, metal bir döküme monte edilebilir. Uzunluğunun büyük kısmı birkaç sıra gaz jetiyle ısıtılır ve sıklıkla asbest astarla çevrilidir. Tüm düzenleme aslında küçük bir fırındır. Çalışma pozisyonundayken, borunun bir ucu yanma odasına giden ve onunla iletişim kuran ateşleme geçidine açıktır, diğer ucu ise metal bir kapak veya plakaya dayandırılarak kapatılır. Her iki uçtaki boru ile dayandığı metal arasına bir asbest rondela yerleştirilir, böylece az çok esnek bir bağlantı sağlanır. Borunun dış ucuna, basıncın, boruyu rondelalar arasında istenen ölçüde sıkıştırmak için uygulanabileceği bir başparmak vidası yerleştirilmiştir. Bu boru formunun çalışması için ayarlanmasında biraz dikkat gösterilmelidir. Çalışma sıcaklığına ısıtıldığında, elbette genleşir, bu nedenle soğukken çok fazla sıkılırsa, oldukça yüksek bir sıkıştırma altında olur; ve motor çalıştırıldığında ve patlama gerçekleştiğinde, rondelalarda genleşmeye izin verecek kadar "esneme" yoksa, sık sık patlar. Öte yandan, başlangıçta yeterince sıkı bir şekilde sıkıştırılmamışsa, patlama gerçekleştiğinde, bir veya her iki uçtaki rondela patlar. Bu ayarlama hassas bir şekilde yapılmalıdır ve biraz zor bir konu olmasına rağmen, bir veya iki denemeden sonra başarı elde edilebilir. Yeni bir tüp takıldıktan sonra, motoru yavaşça, yani normalden daha az gazla çalıştırmanız ve çalışırken kademeli olarak tam miktara çıkarmanız önerilir. Bu, başlangıçta motordaki gaz musluğunu kısmen açarak yapılabilir.
+
+Tek uçlu porselen tüp burada kıtada olduğu kadar iyi bilinmemektedir; neden, diyemeyiz; kesinlikle her açıdan tercih edilir.
+Bu tüpün kullanım yöntemini gösteren birkaç örnek veriyoruz.
+
+Şekil 16 ve 17, tüp ve bacanın genel düzenlemesini ve bunların silindire sabitlenme biçimini göstermektedir. Cihaz, temel olarak üç parçadan oluşur: gövde veya baca B, kapak C ve tüpün kendisi T. Gövde, birkaç SS saplamasıyla taşınan hafif bir demir dökümdür; bunlar ya ateşleme bloğuna F vidalanır ya da ateşleme bloğu kullanılmıyorsa doğrudan silindir dökümünün metaline vidalanır;
+İkincisi daha küçük boyutlu motorlarda çok rahatlıkla vazgeçilebilir.
+
+Tüp ince porselenden yapılmıştır, açık ucu hafifçe çan ağızlıdır ve kesitte şekil 18'de gösterildiği gibi kalın bir metal rondela W'ye monte edilmiştir, birleşim yeri nemlendirilmiş biraz asbest kağıdıyla yapılmıştır.
+
+Blok F ve gövde B'nin yüzü (şekil 16) rondela W'yi kolayca almak için girintilidir, ancak her iki girintinin birlikte derinliği rondela W'nin kalınlığından yaklaşık 1/16 inç daha az olmalıdır; bu nedenle, tüp gövde B ile blok F arasına yerleştirildiğinde ve ilki şekil 16'da gösterildiği gibi iki somun aracılığıyla vidalandığında, sonuç tüpü taşıyan _rondela_'yı sıkıştırmak olur, ancak porselen tüpün kendisini _değil_.
+
+[Resim: ŞEK. 16.]
+
+[Resim: ŞEK. 17.]
+
+[Resim: ŞEK. 18.]
+
+İkincisi genişlemek için tamamen serbest bırakılır; ve yine de, özel şekli nedeniyle, sıkıştırma
+ve patlama darbesi sırasında silindirdeki basınç yalnızca tüp ile
+rondela arasındaki bağlantıyı daha güvenli hale getirme eğilimindedir. Bu ateşleme cihazının etkisi, yalnızca küçük bir bunsen brülörü olan tüp ısıtıcısı H'ye bağlıdır; bu brülörün alevi, tüpe belirli bir noktada çarparak onu çok yüksek bir
+sıcaklığa -neredeyse beyaz ısıya-
+yükseltir. Okuyucularımın çoğu bunsen alevinin oluşumunu bilecektir. İki ayrı bölgeden oluşur. Şekil 18'de A ile işaretlenen içteki, alevin tamamen soğuk bir kısmıdır ve soluk mavi renkli bir koni gibi görünür.
+
+Alevlerin sıcak kısmı olan dış bölgedir, bu nedenle bu kısmın tüpte oynamasına _sadece_ izin verilmelidir. Mavi koni A'nın ucu, alevin en sıcak kısmının tam olarak ısının gerektiği yere çarpmasını sağlamak için borunun yaklaşık 1/4 inç altında tutulmalıdır.
+
+Alevin tamamının toplam uzunluğu, bir dereceye kadar önemsizdir;
+ancak genel olarak, iç koni A'nın uzunluğu yaklaşık 1 inç veya 1-1/4 inç olacak şekilde ayarlanmalıdır. Bu bölümün başlarında açıkladığımız aynı yöntemler, bu brülörün ayarlanmasında kullanılabilir, ancak doğru alev uzunluğunu elde etmek için biraz dikkat gösterilmelidir.
+
+Alevin soğuk kısmının boruya çarpmasına izin verilmesinin sonucu, Şekil 18'de görülebilir. Çizimde gösterilen siyah nokta, bu koşullar altında tüpe bakıldığında aslında siyah veya isli bir nokta olarak görünür; ancak gerçekte hiçbir renk değişikliği olmaz,
+koni A kısaltıldığında veya
+brülör H baca B'ye indirildiğinde, böylece A'nın ucu hemen altında olur ve
+tüple hiç temas etmez.
+
+A konisinin uzunluğunun ayarlanması iki şekilde gerçekleştirilebilir--(1) gaz beslemesini sabit tutarak ve K açıklığına giren hava miktarını değiştirerek, şekil 18; (2) hava beslemesini sabit tutarak ve N memesinden giren gaz miktarını değiştirerek.
+Gün boyunca gaz basıncındaki değişiklik nedeniyle herhangi bir küçük
+ayar yapılması gerektiğinde ilk yöntem tercih edilmelidir ve şekillerde gösterildiği gibi küçük bir kayar kalkan G takılarak gerçekleştirilebilir. 16 ve 17, ve onu az çok
+açıklık K'yi kaplayacak şekilde hareket ettirin. Böylece A konisinin uzunluğu birkaç saniye içinde hassas bir şekilde ayarlanabilir. Bu kalkan, volandan gelen tüm hava akımlarını ve esintileri açıklıktan uzak tutar ve alevin çok sabit
+yanmasına yardımcı olur. İlk olarak, elbette, alev, N nozulunun açılması veya yukarı vurulmasıyla düzenlenecektir (büyütülmüş bir taslağı
+şekil 14'te verilmiştir), böylece hava açıklığı tamamen açıkken A konisi yaklaşık 1-1/4 inç uzunluğunda olur; ancak bu yapıldıktan sonra, hava beslemesini kısarak veya brülörü gövdeden kaldırarak veya alçaltarak herhangi bir gelecekteki ayarlama yapılabilir, ayar vidası onu istenen herhangi bir
+pozisyonda tutar (bkz. şekil 17).
+
+Önceki açıklamalardan, bu ateşleme biçiminin en dikkat çekici özelliklerinin, tüpün birkaç dakika içinde sabitlenebilmesinin kolaylığı ve kesinliği olduğu görülecektir; SS saplamalardaki iki somun sıkıldığında, bağlantıların "patlama" olasılığı yoktur, çünkü daha önce söylediğimiz gibi, yalnızca metal rondela sıkıştırılmıştır, porselen tüpün kendisi daha önce olduğu gibi genişlemekte serbesttir. Ayrıca, alevin herhangi bir şekilde ayarlanmasının ne zaman gerekli olduğu hemen anlaşılır; tüpün yeterince sıcak olup olmadığı konusunda hiçbir belirsizlik olmamalıdır.
+
+BÖLÜM V
+
+MANYETİK ATEŞLEME
+
+Uğraşmamız gereken üçüncü ateşleme biçimi elektriklidir.
+
+Çok sayıda farklı tipte üretilmiş ve kullanılmıştır, ancak gaz motoru kullanımı için belki de manyeto ateşleme olarak bilinen en tatmin edici olanıdır. Bu formda, akümülatörler, kuru piller veya kıvılcım bobinleri gerekmez ve sonuç olarak aksi takdirde olacağından daha büyük bir sadeliğe ulaşılır.
+
+Şekil 19'da manyeto makinesinin sıradan formunu şematik olarak gösteriyoruz. Aslında, silindir dökümünün yan tarafına sabitlenmiş ve kısa süre sonra açıklanacak şekilde çalıştırılan küçük bir dinamodur.
+Bu cihazın neden ve nasıl gerekli kıvılcımı üretmek için akım ürettiğine dair kısa bir açıklamadan daha fazlasına girmeyi teklif etmediğimizden,
+belki de basit bir benzetme, elektriksel olaylara aşina olmayan herhangi bir okuyucu için konuları daha anlaşılır hale getirecektir. Bir telde elektrik akımı aktığında ve tel aniden koptuğunda, kopma noktasında bir kıvılcım oluşacağını biliyoruz. Bu gerçek, çalan sıradan bir elektrik zilinde gözlemlenebilir; kontak kesicinin ucunda, devrede akan akımın hızlı bir şekilde
+yapıp kesmesi nedeniyle bir dizi küçük kıvılcımın
+oluştuğu görülebilir. Aynı eylem manyeto-ateşleyicimizde de gerçekleşir, ancak çok sayıda küçük kıvılcım yerine, her patlama darbesinin başlangıcında, belirli aralıklarla, birer birer kıvılcım üretiriz.
+
+[Resim: ŞEK. 19.]
+
+Manyeto makinelerinin sonraki biçiminde, mıknatıs kutupları ile armatür arasında yumuşak bir demir kılıf bulunur.
+İlk kılıf, yan şaftta uygun şekilde düzenlenmiş bir kam vasıtasıyla kendisine ileri geri hareket verilen bir kol sistemine bağlıdır. Manyetik alanın armatür sargısına göre hareket ettirilmesiyle, armatürü sabit bir alandan geçirmekten daha iyi sonuçlar elde edildiği bulunmuştur. Şekil 20 ve 21'deki diyagramlara başvurulması bunu açıklığa kavuşturacaktır.
+
+Şekil 19'da kam C, bir amortisör S'yi oluşturan yayların etkisiyle kol L'nin normal pozisyonuna geri dönmesine izin verdiği noktada gösterilmiştir. Kam dönerken kol L'yi sola doğru iter, manşon (veya neredeyse armatür A) da nispeten yavaş bir şekilde bir devrin bir kısmı boyunca döner; ancak L serbest bırakılır bırakılmaz manşon (veya armatür) neredeyse anında geri döner ve şu anda herhangi bir sıradan sürekli akım dinamosunun yaptığı gibi bir akım üretmektedir.
+
+[Resim: ŞEK. 20.]
+
+[Resim: ŞEK. 21.]
+
+Maksimum akım üretildiği anda, devre, şekil 22'de ayrıntılı olarak gösterdiğimiz, şekil 19'daki kontak kesici D vasıtasıyla kesilir. İkincisi, yanma odasının ucuna monte edilmiştir ve D ve P olmak üzere iki parçadan oluşur.
+
+[Resim: ŞEKİL 22.]
+
+D, onu almak için açılan deliğe kolayca oturur ve gösterildiği gibi bir mantar valf kafası ve yuvasına sahiptir, böylece çubuk R'deki çıkıntı E tarafından vurulduğunda kolayca hareket eder (şekil 19); ancak yine de, geri dönüşsüz bir valf gibi hareket ederek, patlama silindirde gerçekleştiğinde gazın kaçmasına izin vermez. Bu nedenle D, motor şasisi ve toprakla doğrudan metalik
+iletişim halindedir.
+
+P, motor şasisi ve toprakla tüm temaslardan dikkatlice yalıtılmış sabit bir metal pimdir. Bu pine armatür sargısının bir ucu bağlanırken, diğer ucu motor şasisine bağlanır.
+
+Böylece kapalı bir devre oluşur ve akım üretildiğinde manyetonun bir terminalinden telden P pimine, D'ye, D'den toprağa (_yani_, motor şasisi) ve böylece manyetonun diğer terminaline geri akar.
+
+Ve devre D ile P arasında kesildiğinde, daha önce açıklandığı gibi, pistonun pozisyonuna göre yan şafttaki kam C'nin pozisyonunu ayarlayarak zamanlaması ayarlanabilen bir kıvılcım elde ederiz.
+
+Manyeto-ateşleyicinin pozisyonunun önemsiz olduğu söylenebilir;
+farklı motor tiplerinde farklı pozisyonlarda sabitlenecektir ve çalışma mekanizması basit ve etkili olduğu sürece, _yani_,
+uygulanabilir olduğu kadar doğrudan olduğu sürece iyi çalışır ve çok az dikkat gerektirir. Kıvılcımın zamanlaması
+Kamlar ve Valf Ayarları
+bölümünde ele alınacaktır. BÖLÜM VI
+
+YÖNETİM
+
+Motorun hızını yöneten cihazlar, genel olarak iki sınıfa ayrılabilir: atalet veya vur-kaç düzenleyici ve santrifüjlü. İkinci tipten önce bir örnek vereceğiz. Şekil 23 ve 24'te düzenleyici dişli, dikey bir milden asılı duran bir çift ağırlıktan oluşan şematik olarak gösterilmiştir. Bunlar, konik tekerlek dişlisi BB tarafından döndürüldüklerinde birbirinden ayrılır ve manşon S'yi daha fazla veya daha az ölçüde kaldırır.
+İkincisindeki bir girinti, manşon S'nin dikey hareketinin manşon T'nin yatay hareketine dönüştürüldüğü bir kaldıraç kolu L'yi devreye sokar. İkincisi, valf kolu P tarafından taşınır ve motorun hızına göre kam C'nin bir veya diğer basamağıyla devreye giren neredeyse bir silindirdir. Bu düzenlemenin amacı, tüm yük varyasyonlarında hava-gaz oranını tekdüze tutmaktır. Gaz ve hava valfi, her ikisinin de aynı kol P tarafından çalıştırıldığı şekilde gösterilmiştir, ikincisinin doğru zamanlaması ayar vidaları aracılığıyla elde edilmiştir.
+
+[Resim: ŞEK. 23.]
+
+[Resim: ŞEK. 24.]
+
+Messrs Dougill & Co.'nun motorları, buna benzer bir kademeli kam ve regülatör ile donatılmıştır. Santrifüj regülatörü genellikle, yükün yalnızca hacim olarak azaltılması yerine, tüm yükün kesilmesi ve herhangi bir patlamanın gerçekleşmemesi için düzenlenir. (Bu bağlamda, bir vur-kaç regülatörü kullanıldığında elde edilen sonuçlarla aynı sonuçlar elde edilir ve bu nedenle ikinci form, özellikle belirtilen güç ile fren gücü arasındaki farkın her zaman, en iyi koşullar altında bile oldukça büyük olduğu küçük motorlarda tercih edilmelidir.)
+
+Bu durumda regülatör kolu yalnızca gaz valfini çalıştırır; hava valfi, gaz verilip verilmediğine bakılmaksızın her şarj veya emme strokunda açılır.
+
+Santrifüj regülatörünün bir diğer uygulaması, regülatör kolunun ucuna bir mesafe parçası asmaktır, böylece normal hızda bu mesafe parçası gaz valfi mili ile onu çalıştıran kol arasına yerleştirilir. Bu durumda gaz valfi açılır. Ancak hız normalin üzerindeyse, mesafe parçası valf milinden kaldırılır ve açma mekanizması (yan şafttaki bir kam tarafından tahrik edilir) gaz valfine hiç dokunmadan ileri doğru hareket eder ve tekrar geri çekilir.
+
+Aynı sonucu elde etmek için tasarlanmış çok sayıda hareket vardır ve daha da fazlası olabilir; ve esas olarak hangi cihazı benimsediğimiz söz konusu motor biçimine bağlıdır.
+
+Ancak en basit ve en doğrudan eylem her zaman en iyisidir;
+karmaşık mekanizma, özellikle küçük motorlarda kullanımdan kaldırılmalıdır.
+Bu nedenle eylemsizlik regülatörü bu tür motorlara daha genel olarak takılır.
+
+[Resim: ŞEKİL 25.]
+
+Bu regülatörün basit bir biçimi şekil 25'te gösterilmiştir. Gaz valfi V, yuvasında gösterilmiştir. Bir pecker bloğu B'ye vidalanmış ve gösterildiği gibi pimlenmiştir. İkincisi, saman rengine kadar temperlenmiş döküm çelikten olmalıdır;
+veya yumuşak çelik veya demir kullanılıyorsa, aşınmaya karşı direnç göstermesi için iyi bir şekilde yüzey sertleştirilmelidir. Pecker P (aynı zamanda sertleştirilmiş) dökme demir ağırlık W üzerine monte edilmiştir ve bu da valf kolu L üzerinde döndürülmüştür.
+Sadece yay S tarafından gösterilen konumda tutulan ağırlık W'nin, kol L'ye ani bir yukarı hareket verildiğinde geride kalma eğiliminde olacağı görülecektir. Bu nedenle, pecker P'nin kol yukarı doğru hareket ederken ve pecker bloğu B ile temas ederken kolla aynı göreli konumda kalıp kalmayacağı veya onu kaçırıp bloğun yüzeyinin üzerinden kayıp kaymayacağı L'nin hareket ettiği aniliğe bağlıdır. Yay S'nin ayarı, frezelenmiş somunların T vidalanması veya gevşetilmesiyle gerçekleştirilir; ve bu yayın sıkıştırılma derecesine göre regülatörün hassasiyeti ve dolayısıyla motorun hızı değişir. Bu tür bir mekanizmayla doğru ve istikrarlı bir yönetim elde etmek için ağırlığın milinde tamamen serbest olması ve yalnızca yay S'nin onu gösterilen konumda tutması veya tutma eğiliminde olması esastır. Bu nedenle, temas alanını mümkün olduğunca küçük tutmak için gösterildiği gibi, pecker bloğunda bir "dudak" sağlanması tavsiye edilir. Bu, bloğa veya pecker'a fazla yağ girmesi durumunda herhangi bir yapışmayı etkili bir şekilde önler. Benzer nedenlerle A ile pecker arasında bir miktar boşluk olmalıdır, _yani_, ikincisi yalnızca bir noktada dayanmalı ve A'ya karşı düz bir şekilde yatmamalıdır.
+
+Başka bir eylemsizlik regülatörü şekli, Messrs Capel & Co. tarafından birçok motorunda kullanılan, vuruş ve ıskalama tipinin Şekil 26'da gösterilmiştir.
+
+Üç ana parçadan oluşur - serbestçe hareket edebildiği bir saplama D üzerinde taşınan pirinç kol L; ağırlık W, L'nin üst ucunda dönen
+pecker P'yi taşır; ve
+motor gaz şarjı gerektirdiğinde
+pecker'ı devreye sokan pecker bloğu B.
+
+Yönetici eylem, X'ten Y'ye kadar olan çalışma kamının şekline bağlıdır. (Daha önce ele alınan durumda, kol L hem hava hem de gaz valflerini çalıştırmaya yarar ve bu nedenle yalnızca bir kam gereklidir; ancak
+bu durumda gaz valfi ayrı bir kam tarafından çalıştırılır ve
+daha fazla ayar hassasiyeti elde edilebilir.)
+
+[Resim: ŞEKİL 26. ]
+
+Motorun hızı yeterince yüksekse, kol L, ağırlık W'nin geride kalma eğiliminde olduğu bir oranda öne doğru itilir ve bunun sonucunda P, çizimdeki noktalı çizgilerle gösterildiği gibi B'deki çentiğin üzerine çıkar. Öte yandan, hız çok düşük olduğunda, kol L bu kadar ani bir şekilde öne doğru itilmeyecektir, ağırlık W, L ile birlikte hareket etmek için zamana sahip olacak ve W ile P'nin L'ye göre göreceli konumu aynı kalacaktır. Dolayısıyla, ilk durumda, kam tarafından L'ye _daha fazla_ ileri hareket verildiğinde, gaga P, B'den
+uzaktadır ve gaz valfini V açmayı ihmal eder; ikinci durumda, P
+B ile temas eder ve gaz valfi, kam Y'den Z'ye kadar olan kısmı L kolundaki R silindirinin üzerinden geçerken açık tutulur.
+
+Bazı regülatör formlarının en büyük dezavantajı, yeniyken iyi kontrol edememeleri değil, biraz aşındıklarında sabit bir şekilde çalışmalarını sağlayacak bir düzenlemenin olmamasıdır. Kamın şekli, bu regülatör formunun düzenli çalışmasıyla her şeyiyle ilgilidir.
+
+Kamımızın şekil 27'de gösterilen şekilde olduğunu varsayalım, yani,
+kontrol ve açılış kısmı tek bir eğrideyse, bu,
+penkerin hem _ileri_ hem de _yukarı_ yönde _aynı anda_ hareket etmesine neden olur, böylece B'ye temas ettiği anda, P hala yukarı yönde hareket ediyor olabilir ve bu da özellikle
+tutuşturucu elemanların uçları aşınma nedeniyle körelmişse, eylem belirsizliğine neden olur; ve,
+büyük olasılıkla, P gaz valfini kısmen açtıktan sonra B'den uçup gidecektir.
+
+Bu davranış çok istenmeyen bir durumdur, çünkü silindire bu şekilde kabul edilen az miktardaki gaz tamamen işe yaramazdır ve büyük bir israf meydana gelir. Şekil 26'da gösterilen yönetim düzenlemesiyle bu sorun
+yoktur. Kam, X'ten A'ya ilk yükselişin valfin açılıp açılmayacağını belirleyeceği şekilde tasarlanmıştır; A'dan Y'ye eğri yan şaftın merkezinden vurulur; böylece, dönüşün o kısmı sırasında kol L hareketsizdir ve aynı anda çekiç, B'deki çentikte veya onun üstünde belirli bir pozisyon alır ve motorun hızı bir patlama gerektirecek kadar yüksekse valfi açmaya veya basitçe B'nin üstünden kaymaya hazırdır, böylece valfin kapalı kalmasına izin verir. Bu regülatörün eylemini gözlemlemek çok ilginçtir; Bir motor çok yavaş çalışıyorsa, kamın ilgili kısımları küçük silindir R'nin üzerinden geçerken, P'nin üç belirgin hareketi açıkça ayırt edilebilir.
+
+[Resim: ŞEK. 27.]
+
+BÖLÜM VII
+
+KAMLAR VE VALF AYARLARI
+
+Gazla birlikte, diğer tüm motor türlerinde olduğu gibi, valf ayarları birincil öneme sahiptir. Çok küçük motorlarda genellikle yalnızca egzoz valfinin mekanik olarak çalıştırıldığı görülür.
+
+Yine, gazı ve egzozu mekanik olarak çalıştıran ve hava valfini yalnızca emme yoluyla açan birkaç iyi bilinen marka vardır.
+Hangisinin en iyi yol olduğu konusunda görüşler farklı olsa da, üç valfin de mekanik olarak çalıştırılmasıyla, aksi takdirde mümkün olabilecekten daha fazla ayar hassasiyetinin elde edilebileceği konusunda çok az şüphe olabilir. Ve çalışma parçaları düzgün bir şekilde yapılmış ve tamamlanmışsa, bunları çalıştırmak için çok az güç gerekir; ve bu kayıp, tatmin edici ve doğru ayarlama sayesinde motordan elde edilen ek güç ve verimlilikle telafi edilecektir.
+
+Şekil 28'de, normal çalışma
+koşulları altında gaz, hava ve egzoz valfleri sırasıyla açılıp kapandığında krankın tam konumlarını gösteren bir diyagram sunuyoruz. Dolu daire, emiş
+strokunun başlangıcından itibaren krank milinin ilk devrini, noktalı daire ise patlama ve egzoz
+stroklarının gerçekleştiği ikinci devri temsil eder; noktalı
+yatay çizgi, krankın arka ve ön ölü
+merkezlerdeki konumunu gösterir. Belirli şeylerin belirli koşullar altında neden gerçekleştiğine dair net bir anlayış en çok istenen şey olduğundan, öncelikle ilgili valf kollarını çalıştıran kamları işaretleme işlemini açıklayacağız ve ardından valflerin çeşitli "ayarlarının" motorun çalışması üzerindeki etkisini tartışacağız.
+
+[Resim: ŞEK. 28.]
+
+Hala Otto çevrimli motorla uğraştığımızı varsayarsak, kam veya yan şaft krank şaftının hızının tam yarısı hızında dönecektir. Bu 2'ye 1 hareket dişli çarklar veya bir vida dişlisi aracılığıyla elde edilir. Düz veya konik dişli çarkların kullanıldığı ilk durumda, krank şaftına sabitlenen çark, yan şafttaki çarkın çapının tam yarısı kadar olmalıdır, yani diş sayısının yarısı kadar olmalıdır. Öte yandan, bir vida dişlisi kullanılıyorsa, iki tekerleğin göreceli çapları değişebilir, ancak birinin dişlerinin aralığı diğerinin iki katı olmalıdır. Bu tekerlekler bazen dökümde oluşturulmuş dişlere veya dişlere sahiptir ve bazen de düz bir döküm yapıldıktan sonra kesilir. İkinci tür, söylemeye gerek yok, ilkinden daha iyidir, çünkü her dişi aynı yapmak ve sorunsuz çalışmayı sağlamak için genellikle törpüleme gerektirir.
+
+Üç valfin açılıp kapanmasında krankımızın hangi konumlarda olması gerektiğini zaten biliyoruz ve şekil 28'deki diyagramın yardımıyla kamların boyutunu belirleyebiliriz. Şekilde 29, S, kamların kamalanması gereken yan şafttır, R, valf kolundaki silindirdir, ikincisi merkez hatları LL ile temsil edilir, çünkü tek yapmamız gereken bu kolun valfe ileteceği hareketi bulmaktır, mili V'de gösterilmiştir.
+
+Şekil 30, hava valfinin açılıp kapanmasında krankın konumunu şematik olarak gösterir. Buradan, hava valfi açıkken krankın hareket ettiği açının ABC'ye eşit olduğunu görüyoruz. Şimdi, yan şaft S, krankın hızının yarısıyla döndüğünden, birincisinin aynı zaman aralığında bu açının yalnızca yarısını, yani ABD'ye eşit bir açıyı kat edeceği açıktır.
+Şimdi bu açıyı S'ye aktarabiliriz, şekil 29 ve iki çizgi SE, SF çizin, kamın arkasını temsil eden bir daire GHJ kesin, bu da
+kol L'nin herhangi bir
+hareketine neden olmadan
+R silindirinin önünden geçer.
+
+[Resim: ŞEK. 29.]
+
+[Resim: ŞEK. 30.]
+
+[Resim: ŞEK. 31.]
+
+Görüleceği gibi, F'de GHJ dairesine teğet oluşturan bir çizgi ve E'de bir çizgi çizerek ve bunları üreterek, bunların K noktasında birleşeceği görülecektir. Sonuç olarak, yan şaft belirtilen yönde dönerken,
+kol L, kam şekil 29'da gösterilen
+pozisyondayken V valfini açmaya _başlayacak_, K'de maksimum bir açıklığa ulaşacak ve son olarak kam hareket ettiğinde kapanacaktır, böylece E noktası artık F'nin olduğu yerde olacaktır. Ancak bu şekilde bir
+kamla, strokun önemli bir kısmı, valf yuvasından herhangi bir _fark edilebilir_ mesafeye
+kalkmadan önce geçmiş olacaktır; sadece bir an için, yani K R'nin üzerinden geçtiğinde tamamen açık kalır ve doğrudan tekrar kapanmaya başlardı.
+
+Dahası, motor düşük bir hızda bile çalışıyor olsaydı, kol L'ye verilen hareket belirsiz olurdu; ve bu, özellikle de regülatör hava valfi koluna, şekil 25'te olduğu gibi takılmışsa, çok istenmeyen bir durumdur. Bu nedenle, kesin bir açıklık elde etmek için kamı şekil 31'de gösterildiği gibi yerleştirmeliyiz. Bu diyagramda, silindir kamın arkasından yaklaşık 1/16 inç uzakta dururken gösterilmiştir. Daha sonra, sırasıyla F ve O noktalarında hem silindir R'ye hem de daire GHJ'ye teğet oluşturan bir MN çizgisi çizilir. Bu bize kamın açıklık kısmını verir. Daha sonra, yarıçapı SF olan S merkezinden FE yayı (şekil 31'de noktalı olarak gösterilmiştir) tanımlayın ve daha önce açıklandığı gibi gereken açıyı (ABD, şekil 30) ayarlayın. E noktasından GHJ çemberine teğet oluşturan bir çizgi çizin ve onu P'ye doğru çekin. Bu çizgi bize kamın kapanış kısmını verir. Mesafe W elbette değişkendir, valfe verdiğimiz kaldırma kuvvetine göre. Bu iki diyagramı karşılaştırarak, her iki durumda da valfin aynı süre boyunca açık kalacağı, ancak
+ilk durumda hareketin belirsiz ve belirsiz olacağı görülecektir. Pratikte, sabit bir hareket elde etmek için köşeler biraz yuvarlatılır;
+ve hava kamı aynı zamanda yönetim kamı olduğunda, şekil 32'de gösterildiği gibi
+açılma yüzeyini yuvarlatmak tavsiye edilir. Bu
+yüzeyin şekline, hem hassasiyet hem de yönetim dişlisinin ömrü bağlıdır.
+Eğer güzelce yuvarlatılırsa, kademeli bir yükselme sağlanırsa, motora gereken hızı vermek için kontrol yayının çok az gerginliği
+(veya duruma göre sıkıştırması) gerekecektir; oysa, eğer yükselme
+ani ise, yay daha sıkı vidalanmalıdır ve eğer düzensiz
+ve engebeliyse (_yani_, adil bir eğri değilse), sonuç elbette
+düzensiz yönetim olacaktır.
+
+[Resim: ŞEKİL 32.]
+
+Silindir ile kamın arkası arasında her zaman belirli bir miktar boşluk sağlanmalıdır (Şekil 29 ve 31'i karşılaştırın), yani
+silindir kamın üzerine dayanmamalıdır, ancak strokun valfi gerçekten çalıştırdığı kısmı, yani F'den E'ye (Şekil 31). Kol ile motorun yan şaft braket yatağı gibi bazı kullanışlı parçaları arasına yerleştirilen küçük bir durdurucu bu amaca
+uygundur.
+
+[Resim: ŞEKİL 33.]
+
+[Resim: ŞEKİL 34.]
+
+Egzoz kamının boyutu ve şekli yukarıda açıklananla aynı şekilde bulunur; çalıştığı açı hava kamınınkinden daha büyüktür ve şekil 33'te gösterilmiştir. Bu dökümlerin törpülenmesi veya işlenmesi için makul bir pay bırakılmalıdır; yukarıda açıklanan yöntemle elde edilen şekil ve boyutlar tamamlanmış ölçümlerdir. Şekil 34, ayar diyagramından elde edilen bir egzoz kamının ana hatlarını verir, şekil 33.
+
+[Resim: ŞEKİL 35.]
+
+[Resim: ŞEKİL 37.]
+
+[Resim: ŞEKİL 41.]
+
+[Resim: ŞEKİL 42.]
+
+Şimdi bu iki kamın yan şafta takıldığında alacağı göreceli konumları düşünebiliriz. Her iki kamın da uygun şekil ve boyutta tamamlandığını ve yan şaftta kama yuvasının kesildiğini varsayarak, hava kamındaki kama yuvasının konumunu işaretlemeye başlayabiliriz. Krank şekil 3'te gösterilen konumdayken 35, hava kamı yan şafta kaydırılır ve şekilde gösterilen konuma getirilir.
+32. Yan şaftta kama yuvası zaten kesilmiş olduğundan, kamdaki konum noktalı çizgilerle gösterildiği gibi çizilebilir (şekil 32),
+kam çıkarılır ve kama yuvası kesilir. Ancak, krankı şekil 37'de gösterilen konuma
+çevirerek bu işareti kontrol etmek de iyidir,
+_yani_, hava valfinin kapanması. Yan şaft da tam olarak bu açının yarısı kadar döner, böylece kam ikincisine tekrar kaydırıldığında,
+şafttaki kazıma işaretleri ve kama yuvası şekil 32'de olduğu gibi tam olarak aynı hizada olmalıdır ve kamın düşüşü -kapanma kısmı- tam olarak R silindirine değmelidir, ancak valfi açık tutmaya yeterli olmamalıdır (bkz. şekil 38). Krankın bu noktadan ileri yönde en ufak bir hareketi, kamın da çizici işaretlerini mevcut kama yuvasıyla aynı hizada tutacak kadar hareket ettirildiğini varsayarak, kol L'de küçük bir boşluk hissedilmesine neden olmalıdır.
+
+[Resim: ŞEKİL 36.]
+
+[Resim: ŞEKİL 38.]
+
+[Resim: ŞEKİL 39.]
+
+Bu işlemlerle kamın çok büyük mü yoksa çok küçük mü olduğu hemen anlaşılacaktır. Çok küçük olduğunu varsayarak, şekil 39'da gösterildiği gibi kama yuvasının konumunu gösteren iki işaret seti elde edeceğiz ve şekil 11'de gösterilen ayar vidalarını sıkarak kola daha az boşluk vermemiz gerektiği açıktır. Bunun etkisi, boşluk daha büyük olsaydı olacağından daha erken açılıp daha geç kapanacak olan valfe neden olmaktır; kamın çalışma kısmı daha büyük olurdu. Ancak, her zaman asgari miktarda boşluk bırakılmalıdır. İki işaret kümesi elde edildiğinde, ortalama alınmalı ve kama yuvası şekil 39'daki kalın çizgilerle gösterildiği gibi kesilmelidir. Daha büyük motorlardaki egzoz kamı genellikle şekil 40'ta gösterildiği gibi açıklık kısmında bir şişkinlikle yapılır, böylece krank şekil 41'de gösterilen konuma ulaşmadan bir süre önce valf _çok hafifçe_ açılır. Şekil 42, egzoz valfinin kapanışındaki krank konumunu gösterir ve son iki diyagram, egzoz kamının şekil 34'te gösterildiği iki konuma karşılık gelir. Egzoz kamının arkasındaki küçük yumru, şekil 40, yalnızca 3 BHP'nin üzerindeki motorlarda, çalıştırma sırasında sıkıştırma strokunda oluşan sıkıştırmayı gidermek için gereklidir. R silindirini valf kolu üzerinde uzunlamasına hareket ettirerek, kamın her iki parçasını da önünden geçerken birbirine geçirerek, egzoz valfi sıkıştırma strokunun küçük bir kısmı boyunca açık tutulur ve genellikle krank alt merkeze ulaştığında kapanır. Tekrar şekil 26'ya bakıldığında, bu gaz veya regülatör kamı dışarıya yerleştirilebilir ve kama yuvası hava ve egzoz valfleri için daha önce açıklanan prensiple işaretlenebilir. Yan şaftta kama takılmış üç kamın uç görünümü şekil 40A'da verilmiştir. Küçük motorlarda, yalnızca bir kama gerekeceğinde, hava ve egzoz kamlarının tek bir dökümde yapılması uygundur. Bazı motorlarda, hareketli bir silindir veya valf kolu kullanmak yerine, egzoz kamı yan şafta bir "tüy" ile -yani başsız bir anahtar- takılır ve kam uzunlamasına hareket edebilir, bu hareket küçük bir kol veya tutamakla kontrol edilir, buna yarı sıkıştırma kolu denir.
+
+[Resim: ŞEK. 40.]
+
+[Resim: ŞEK. 40A.]
+
+Kamların motorun çalışmasında oynadığı önemli rolü iyice kavradıktan sonra, valf ayarlarını ayarlamak ve bunları doğru şekilde ayarlı tutmak kolay bir konu olacaktır. Yanlış bir ayarın etkisi o zaman çarpıcı bir şekilde belirgin olacaktır. Küçük motorlarda gaz valfini çalıştırmak için ayrı bir kam gerekli değildir; gaz valfi milini (veya gagayı, etkisi aynı olurdu) uzunluğunu artırmak veya azaltmak için bir cihazla
+takma uygulaması da gereksiz ve sağlıksızdır.
+
+İyi tasarlanmış bir gaz valfi çalışma mekanizmasındaki aşınma neredeyse sıfırdır; ve aşınma olsa bile, bunun etkisi valfin biraz daha geç açılmasına ve normalde olduğundan daha erken kapanmasına neden olur, yani her şarj strokunda daha kısa süre açık kalır. Bu da (diğer koşullar aynı kalırsa) bize daha zayıf bir karışım verir; ve çok zayıf bir karışım çok zengin bir karışımdan daha iyi olsa da, karışımın zenginliğini artırmanın bir yolunu benimsememiz gerekir; aksi takdirde motorun maksimum gücünün kısa sürede azaldığı görülür. Karışımı tekrar normale döndürmek için ya gaz girişini genişletmeli ya da hava beslemesini biraz kısmalı ve böylece oranları aynı tutmalıyız. Yani, karışımın kalitesi gaz ve hava girişlerinin göreceli boyutuna bağlıdır. Gerçek denemeyle biliyoruz ki,
+şarj strokunun tamamlanmasında silindirdeki basınç yaklaşık olarak atmosfer basıncına eşitse,
+basınç atmosfer basıncının önemli ölçüde altında olduğunda elde edilenden daha iyi sonuçlar elde edilir. Bu nedenle, giriş portlarını ne kadar büyük yaparsak (ancak yine de doğru göreli boyutları korursak), piston ileri doğru hareket ettikçe karışım silindire o kadar kolay çekilir ve bir vakum
+yaratma eğilimi gösterir. İyi bir karışımı korumak için önümüze açılan iki yoldan
+gaz beslemesini açmak tercih edilir, çünkü hava beslemesini keserek ve oluşan kısmi vakum nedeniyle gazı içeri çekerek, silindire kabul edilen patlayıcı karışımın toplam hacmini (daha kesin bir ifadeyle, yükün yoğunluğunu) azaltma pahasına oranları doğru tutmalıyız. Normal koşullar altında, gazı silindire çekmek için yüksek bir vakum oluşturmak gerekli değildir, ancak bu hatlar üzerinde çalışsaydık hangi sonuçları üretmeye meyilli olacağımızı anlamak da önemlidir. Elbette, emiş hava valfi takılı küçük yüksek hızlı motorlarda vakum, mekanik olarak çalıştırılan valflere sahip düşük hızlı motorlardakinden daha yüksektir. Örneğin, silindire herhangi bir gaz girmesi için hava beslemesinin anormal bir ölçüde kesilmesi veya kısılması gereken aşırı bir durumu ele alırsak, hem havanın hem de gazın çok az bir miktarının içeri çekileceğini ve dolayısıyla karışımın o kadar seyrek olacağını, sıkıştırma strokunda basıncın muhtemelen son derece düşük ve verimli bir çalışma üretmek için tamamen yetersiz olacağını hemen fark ederiz. Dahası, bu kadar yüksek bir vakumda çalışmak, yalnızca silindirde normal bir patlama elde etmemizi engellemekle kalmaz, aynı zamanda egzoz valfinin çalışmasını da bozar. İkincisi, emme stroku sırasında bir spiral yay vasıtasıyla yuvasında tutulursa, emme yoluyla yuvasından kaldırılır (silindirdeki kısmi vakum) ve egzoz portu veya borusunda asılı kalan yanmış gazlar tekrar silindire çekilir ve ardından gelen patlamayı bastırma eğilimi gösterir. Egzozun çok erken kapatılması, çok geç kapatılması kadar titizlikle önlenmelidir. İkincisi, egzozun şarj stroku sırasında emme yoluyla kaldırılmasına benzer şekilde çalışmayı etkileyecektir; diğer yandan, çok erken kapatılırsa, yanmış gazların tüm hacmi silindirden dışarı süpürülmeyecektir ve etki yine sonraki patlamayı bastırmak olacaktır. Gaz valfi, krank arka merkezin üstüne geldikten hemen sonra açılır ve ön merkeze ulaşmadan hemen önce kapanır, yani hava valfinden biraz sonra açılır ve önündeki bir gölge kapanır, böylece gaz valfi kapatıldıktan sonra içeri çekilen hava akımı nedeniyle silindirdeki her gaz parçacığı kullanılır.
+
+Valfin ayarları, hangi boyutta motorla uğraştığımızdan bağımsız olarak birincil öneme sahip olduğundan ve ayrıca gaz motorlarına aşina olmayan herkes için en kafa karıştırıcı konu olduğundan, bu ayarları kontrol etmek için basit bir yöntem önermek yersiz olmayacaktır.
+
+Öncelikle volanı pistonun sıkıştırma strokunda olduğunu hissedene kadar geriye doğru çekerek başlayalım, sonra bu noktadan itibaren - krank ön merkezin yaklaşık 45 derece üzerinde olduğundan - krank egzoz açıklığı pozisyonuna gelene kadar tekerleği çekin (bkz. şekil 28). Bu
+pozisyonda egzoz kolunda yalnızca _en ufak_ bir boşluk olmalı,
+bu da valfin _tam_ açılma noktasında olduğunu gösterir; ve volan _çok
+yavaş_ bir şekilde çekilirken elinizi kolun üzerinde tutarak (çekme işlemini başka birinin yapmasını sağlamak iyi bir plandır), valfin tam olarak
+açıldığı noktayı tespit etmek mümkündür. Daha sonra krank hava valfinin açılması için pozisyona gelene kadar çekin ve doğru şekilde ayarlandığını gözlemleyin. Daha sonra egzoz valfinin kapanması gereken arka merkezin biraz yukarısına gidin ve
+her valfin açılıp kapanması kontrol edilene kadar böyle devam edin. Hava ve bazen gaz valfinin egzoz kapanmadan önce
+açıldığı fark edilecektir. Bu örtüşme gereklidir; ve
+motor ne kadar küçük ve hız ne kadar yüksekse, bu örtüşmenin o kadar büyük olacağı görülecektir
+iyi sonuçlar elde etmek için, ancak örtüşmenin kesin miktarını belirlemek için oldukça fazla bireysel yargı kullanılmalıdır, çünkü en iyi sonuçları elde etmek için gereken miktar, tam olarak aynı boyut ve tipteki farklı motorlarda değişebilir.
+
+Ayrı bir gaz valfi olmayan motorlarla uğraşırken -gazın hava ile birlikte kabul edilmesi, ki bu bazen çok küçük motorlarda olur- gaz ayarına bağımsız olarak atıfta bulunan yukarıdaki notlar, elbette, geçerli olmayacaktır. Egzoz kamının açılış tarafındaki yumruyla ilgili olarak, bunun aşırıya kaçıldığında büyük motorlarda ve hatta küçük motorlarda bile zararlı olduğu söylenebilir. Çok büyükse, yüzeyin genleşen gazların aşırı yüksek sıcaklığına maruz kalması nedeniyle hem egzoz valfinin hem de yuvasının yanmasına ve çukurlaşmasına neden olur. Çok büyükse, egzoz valfini çok erken açmaya eşdeğerdir ve etkisi aynıdır, yani güç israfı ve valfe ve yuvasına hasar.
+
+[Resim: ŞEK. 43.]
+
+[Resim: ŞEK. 44.--Fren Testi.]
+
+Supapları zımpara tozu ve yağla yuvalarına kadar taşlama yöntemi o kadar iyi bilinmektedir ki burada daha fazla açıklamaya gerek yoktur. Ancak, şekil 44'te 43 çok aşınmış veya yanmış yuvalarla başa çıkmanın çok hızlı bir yolunu gösteren bir taslak. Taslak kendini açıklıyor.
+Böyle bir alet kolayca yapılabilir; kesici bile döndürülebilir ve törpülenebilir
+şekillendirilebilir ve sonra evde sertleştirilebilir. Konik pimi azar azar hafifçe vurarak, kesiciye yeterli basınç uygulanır ve eski bir yuvanın tamamen yeniden kaplanması veya yeni bir yuva oluşturulması kolaylaşır.
+Kesici mili çalıştırmak için bir T anahtarı veya "tommy" kullanılabilir.
+İkincisinin alt kısmı mevcut valf miliyle aynı çapta olmalıdır; burç kılavuz görevi görür; ve kesicinin eğimi valfin eğimiyle aynı olduğundan, işi bitirmek için zımpara tozuyla çok az
+taşlama gerekir.
+
+Şekil 44'te Fren H.P. için test yöntemini gösteren bir diyagram veriyoruz. motorun, herhangi bir değişiklik veya ayarlama yapıldıktan sonra böyle basit bir
+test yapmak sıklıkla ilginç olduğundan.
+
+İki yaylı terazi ve bir halat veya kordon (motorun boyutuna göre), şekilde 44'te gösterildiği gibi, halatı volanın kenarında tutmak için birkaç tahta blokla
+takılmış, bu test için gereken tek şeydir. B.H.P.'ye ulaşmak için aşağıdaki formül kullanılabilir:--
+
+B.H.P. = (S1 - S2) 3,14 x D x R / 33000
+
+S1 = 1 numaralı yaylı terazinin lb cinsinden okuması.
+S2 = 2 numaralı yaylı terazinin lb cinsinden okuması.
+D = Volanın çapı ve fren halatının ayak cinsinden çapı.
+R = Dakikadaki volan devri.
+
+3,14 x D / 33000 herhangi bir motor ve dişli için her zaman aynı kalacağından, bu ifadeye C diyebiliriz; o zaman B.H.P. şu şekilde yazılabilir--
+
+B.H.P. = (S1 - S2) C R
+
+BÖLÜM VIII
+
+YAĞ MOTORLARI
+
+Küçük yağ motoru, gaz motoruyla neredeyse aynıdır, ancak
+yağı silindirde patlatılacak gaza veya buhara dönüştürmek için bir buharlaştırıcı eklenmiştir; dolayısıyla,
+biri birçok durumda fazla sorun olmadan diğerine dönüştürülebilir.
+Verimli bir yağ motoru üretmenin zorluğu, esas olarak, tüm
+yükler altında eşit derecede iyi çalışacak
+tatmin edici ve güvenilir bir buharlaştırıcı tasarlamaktır. Hazneye verilen ısı, yağı buharlaştırmak için yeterli olmalı, ancak onu parçalamak için yeterince büyük olmamalıdır.
+Yağı buharlaştırmanın çeşitli yöntemleri vardır ve aynı amaca ulaşmak için birçok türde buharlaştırıcı kullanılır. Bazılarında, bir yağ yükü emme yoluyla sıcak bir bölmeye çekilir ve burada buhara dönüştürülür ve aynı zamanda az miktarda sıcak hava ile karıştırılır; bu zengin karışım daha sonra motorun yanma odasına geçirilir,
+tıpkı kömür gazı gibi,
+hava valfinden daha fazla hava çekilerek daha fazla seyreltilir. Diğer düzenlemeler,
+sıcak hava içeren bir bölmeye, sprey şeklinde bir yağ jetinin enjekte edilmesine neden olur, bu da yağı hemen buhara dönüştürür ve
+sonra silindire geçirilir, sıkıştırılır ve
+ateşlenir. Sonra, yine, silindir emme strokunda hava ile doldurulurken, bir püskürtme memesinden yağı buharlaştırıcıya pompalayabiliriz (uygun bir sıcaklıkta tutulur). Sonraki sıkıştırma strokunda hava, silindirle dar bir boyundan iletişim kuran ve yağ buharıyla sıkı bir şekilde karışan buharlaştırıcıya
+sürülür.
+Yavaş yavaş, sıkıştırma nedeniyle basınç arttıkça, yük giderek daha patlayıcı hale gelir, ta ki bu strokun tamamlanmasıyla
+uygun hava ve yağ buharı oranlarına ulaşana kadar ve buharlaştırıcının sıcaklığı ve yüksek sıkıştırmanın neden olduğu sıcaklıkla ateşlenir;
+yani, yük otomatik olarak ateşlenir; ve motor
+çalıştığında, buharlaştırıcıyı doğru sıcaklıkta tutmak için ısıtma lambası gerekmez.
+Ancak, çalıştırma sırasında çalışabilir sıcaklığa
+yükseltilmesi gerekir. Bu, Hornsby-Akroyd
+yöntemi olarak bilinir.
+
+Capel'in düzenlemesi de basit ve etkilidir ve mevcut gaz motorlarına takılabilir olma gibi ek bir avantaja sahiptir, dönüşüm çok kısa bir sürede yapılır. Bu buharlaştırıcı
+esas olarak, dış tarafında bir dizi dikey kaburganın oluşturulduğu, planda, şekil 46'da gösterilen, kesitte, şekil 45'te gösterildiği gibi, bir uçta flanşa kısa bir mesafede uzanan, böylece kaburgaların üst uçları ile flanş arasında halka şeklinde bir boşluk C sağlayan boru şeklindeki bir döküm A'dan oluşur. Bu döküm, iç borunun üzerine iyi oturan bir dış kasa B ile çevrilidir. Ayrıca, kaburgalar arasındaki kanallarla iletişim kuran alt uca yakın bir yerde delinmiş birkaç küçük deliği vardır. Bu nedenle, gaz vanası açıldığında ve emme gerçekleştiğinde, havanın bu deliklerden içeri çekildiği, üst flanşın altındaki halka şeklindeki boşluğa C geçtiği, oradan buharlaştırıcının karşı tarafına geçtiği ve N'deki küçük bir kıskaç aracılığıyla içeri çekilen yağla karıştığı görülecektir, şekil 45. Her ikisi de daha sonra bir dizi pim arasından geçer, burada iyice karışırlar ve son olarak giriş valfi V'ye geçerler, şekil 47 ve böylece silindire girerler, burada tüm yük karıştırılır, sıkıştırılır ve normal şekilde
+ateşlenir. Demir ateşleme tüpleri kullanılabilir ve bir ısıtma lambası, tüpü ve buharlaştırıcıyı aynı anda sıcak tutmak için çift amaçlıdır.
+Bu lamba, yan şafttan çalıştırılan bir pompa vasıtasıyla beslenir.
+Pompanın pistonu, herhangi bir istenen basıncı verecek şekilde ayarlanabilen ve bir hava kabı vasıtasıyla sabit ve sabit tutulan bir spiral yay ile yüklenir. Bu pompa şekil 48'de gösterilmiştir. Motorun yan şaftından bir çubuk ve kol vasıtasıyla çalıştırılır. Piston P, küçük bir rezervuar R tarafından taşınan bir namlu B'de çalışır, ikincisi boru H vasıtasıyla ana yağ tankıyla iletişim halindedir.
+
+[Resim: ŞEKİL 46.]
+
+[Resim: ŞEKİL 45.]
+
+[Resim: ŞEKİL 47.]
+
+[Resim: ŞEKİL 48.]
+
+[Resim: ŞEKİL 49.]
+
+[Resim: ŞEKİL 50.]
+
+[Resim: ŞEKİL 51.]
+
+Piston, spiral bir yay ile yüklenir ve gösterildiği gibi bir bilyalı vanaya sahiptir. Bu küçük rezervuar ile ana yağ tankı arasında, şekil 49'da gösterilen başka bir vana seti vardır. Pompanın emişinin yağı yukarı çekeceği, küçük ve alt bilyalı vananın ise yağın serbestçe geçmesine izin vereceği görülecektir. Aşağı vuruşta alt vana otomatik olarak kapanacak ve yağ basınç altına alınacaktır, bu, vida S vasıtasıyla ayarlanabilen piston vanasındaki yük tarafından belirlenir, şekil 48. Boru P'de (şekil 45 ve 49) gereken
+basınç elde edildiğinde, piston
+vanası her vuruşta kalkar ve fazla yağ pistondan
+küçük rezervuara akar. İkincisi, diğer daha küçük rezervuar M ile yaklaşık aynı seviyededir (şekil 47 ve 50'de gösterilmiştir), ikisi arasında bir boru Q vasıtasıyla bir yağ akışı sağlanır (bkz. şekil 48 ve 50). Rezervuar R'ye bir taşma borusu takılmıştır, böylece yağ belirli bir seviyenin üzerine çıkamaz; dolayısıyla daha küçük olan M'deki yağın başı her zaman sabittir. Emme strokunda motor silindirinde kısmi bir vakum oluşur, sonuç olarak buharlaştırıcıdaki basınç atmosferinkinden biraz daha aşağıya düşer ve bu küçük basınç farkı yağın küçük geçit X'te, şekil 45, normal seviyesinin üzerine çıkmasına ve daha önce açıklandığı gibi buharlaştırma odasına taşmasına neden olmak için yeterlidir. Valf veya kıskaç N, şekil 45'te açık olarak gösterilmiştir ve çalışırken motoru durdurmak için gereken tek şey, yay S nedeniyle valf kapandığında küçük kulpu L'yi, şekil 45, düşürmektir. Şekil 49'da gösterilen hava kabı, üfleme lambasına giden boruyla iletişim halindedir. Bir basınç göstergesi de takılabilir, ancak bu hiçbir şekilde bir zorunluluk değildir.
+
+Şekil 48'de gösterilen mandal tekerleği ve mandal, yağlayıcının bir parçasıdır. Çark, aralıklı bir dönme hareketi üreten pirinç veya silah metalinden yapılmış bir tapayı çalıştırır. Tapanın çevresinde küçük bir delik vardır ve bu delik, hareketinin en üst kısmındayken yağla dolar ve ters çevrildiğinde yağı bir tahliye borusuna T boşaltır ve ardından uzaklaştırılır ve pistona gereken noktadan uygulanır. Şekil 51, bu düzenlemeyi kesitte gösterir.
+
+Proje Gutenberg Gaz ve Yağ Motorları E-Kitabının Sonu, Basitçe Açıklandı, Walter C. Runciman
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK GAS AND OIL ENGINES ***
+
+***** This file should be named 27286.txt or 27286.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/7/2/8/27286/
+
+Produced by Steven Gibbs, Greg Bergquist and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
