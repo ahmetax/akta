@@ -1,0 +1,1848 @@
+*** START OF AKTAHEADER ***
+Başlık: Lectures on Stellar Statistics (Yıldız İstatistikleri Üzerine Dersler)
+Yazar: Carl Vilhelm Ludvig Charlier
+Yayın Tarihi: July 27, 2007 [EBook #22157]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/22157
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: felsefe
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Lectures on Stellar Statistics, by
+Carl Vilhelm Ludvig Charlier
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Lectures on Stellar Statistics
+
+Author: Carl Vilhelm Ludvig Charlier
+
+Release Date: July 27, 2007 [EBook #22157]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LECTURES ON STELLAR STATISTICS ***
+
+*** START OF TURKISH PART ***
+Susan Skinner ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir (Bu kitabın orijinal kopyası Glasgow Üniversitesi Matematik Bölümü tarafından taranmak üzere cömertçe sağlanmıştır.)
+
+[Yazıcının Notu: Bu metin, metin okuyucularının dosyanın "gerçek" (unicode/utf-8) sürümünü kullanamadığı kullanıcılar için tasarlanmıştır. Yunan alfabesindeki karakterler şu şekilde gösterilir: [alfa], [beta], [gamma],
+vb.
+
+Orijinal metinde, h ve m birimleri ve th ve st sıra sayıları üst simge olarak basılmıştır. Okunabilirlik için, bu dosyada bu şekilde gösterilmemiştir. Benzer şekilde, ara yıldız renklerini tanımlamak için kullanıldığında + ve - işaretleri için de aynı şey geçerlidir.
+
+Diğer üst simgeler karat simgesi ^ ile ve alt simgeler alt çizgi _ ile gösterilir.]
+
+KONFERANSLAR
+YILDIZ İSTATİSTİKLERİ ÜZERİNE
+
+YAZAR
+
+C. V. L. CHARLIER
+
+SCIENTIA YAYIMCISI
+LUND 1921
+
+HAMBURG 1921
+_LUeTCKE & WULFF_ TARAFINDAN YAYIMLANMIŞTIR
+
+BÖLÜM I.
+
+YILDIZLARIN GÖRÜNEN ÖZELLİKLERİ.
+
+1. Yıldızlar hakkındaki bilgimiz, astronomik gözlemlerden elde edilen
+_görünen_ özelliklerine dayanır. Astronominin amacı, buradan yıldızların gerçek veya _mutlak_ özelliklerini çıkarmaktır, bunlar
+uzaydaki konumları, hareketleri ve fiziksel doğalarıdır.
+
+Yıldızların görünen özellikleri,
+_ışınları_ yardımıyla incelenir. Bu ışınımın özellikleri, ışığın doğası tanımlandığı gibi
+farklı şekillerde tanımlanabilir. (Dalgalanma teorisi, Emisyon teorisi.)
+
+İstatistiksel bakış açısından, radyasyonu, ışıyan cisimden (yıldız) küçük parçacıkların yayılmasından oluşan bir şey olarak düşünmek uygun olacaktır. Bu parçacıklar, bir parçacıktan diğerine derece olarak farklılık gösterebilen belirli niteliklerle karakterize edilir.
+Bu nitelikler, örneğin, parçacıkların çapı ve biçimi, dönme biçimleri vb. olabilir. Bu niteliklerle radyasyonun optik ve elektriksel özellikleri açıklanacaktır. Burada böyle bir açıklama yapmaya çalışmayacağım, ancak parçacıkların bir ortamdan diğerine geçerken doğrusal yoldan farklı bir sapma biçimine sahip olma özelliğiyle kendimi sınırlayacağım. Bu sapma, bir şekilde parçacıkların bir veya daha fazla niteliğine bağlıdır. Bunun, HUYGHENS'in dalgalanma teorisinden türetilen bir terminolojiyle, parçacığın _dalga boyu_ ([lambda]) olarak adlandırılabilecek tek bir niteliğe bağlı olduğunu varsayalım.
+
+Radyasyonun istatistiksel özellikleri ilk etapta şunlardır:--
+
+(1) parçacıkların toplam sayısı veya radyasyonun _yoğunluğu_;
+
+(2) radyasyonun _ortalama dalga boyu_ ([lambda]_0), aynı zamanda _etkili_ dalga boyu veya renk olarak da adlandırılır
+(veya neredeyse onlarla aynıdır);
+
+(3) _dalga boyunun dağılımı_. Radyasyonun bu özelliği, radyasyonun [lambda] ile değişimini de veren _spektrumdan_ belirlenebilir ve dolayısıyla radyasyonun
+ortalama dalga boyunu da belirleyebilir.
+
+Dahası, bir yıldızın radyasyonundan gökyüzündeki görünür yerini bulabiliriz.
+
+Yoğunluk, ortalama dalga boyu ve dalga boyunun dağılımı, basit bir şekilde yıldızın _sıcaklığı_
+(_T_) ile bağlantılıdır. STEPHAN ve WIEN'in radyasyon yasalarına göre, gerçekten de (L. M. 41[1] ile karşılaştırın) yoğunluğun _T_'nin dördüncü kuvvetiyle orantılı olduğunu, ortalama dalga boyu ve dalga boyunun dağılımının ise _T_ ile ters orantılı olduğunu görüyoruz. Bundan, artan sıcaklıkla birlikte ortalama dalga boyunun azaldığı, rengin mora dönüştüğü ve aynı anda dalga boyunun dağılımının ve hatta spektrumun toplam uzunluğunun azaldığı (azaldığı) sonucu çıkar.
+
+2. _Bir yıldızın görünen konumu_ genellikle sağ yükselişi ([alfa]) ve sapması ([delta]) ile gösterilir. Ancak, yıldızların uzaydaki görünür dağılımını hesaba katarak, bir yıldızın konumunu galaktik boylamına (_l_) ve galaktik enlemine (_b_) göre tanımlamak daha pratiktir.
+Bu koordinatları tanımlamadan önce, sonraki sayfalarda genel olarak kullanılacak olan,
+yıldızların koordinatlarını da genel olarak belirli bir şekilde vereceğimizi belirtmek gerekir. Bu nedenle, kısaltılmış bir gösterim kullanacağız, böylece örneğin [alpha] =
+17h 44m.7 ve [delta] = +35 derece..84 ise, şunu yazacağız:
+
+([alpha][delta]) = (174435).
+
+[delta] negatifse, örneğin [delta] = -35 derece..84, şunu yazarız
+
+([alfa][delta]) = (1744{35}),
+
+böylece son iki rakam italik olur.
+
+[Yazıcının Notu: Metnin bu versiyonunda, son iki rakam
+italikleri temsil etmek için parantez içine alınmıştır.]
+
+Bu gösterim PICKERING tarafından değişken yıldızlar için tanıtılmıştır ve kendisi tarafından
+Harvard Gözlemevi Yıllıkları'nın her yerinde kullanılır, ancak
+tüm yıldızlar için de uygundur. Bu gösterim, aynı anda,
+yıldızların karakteristik _numero_'sunu verir. İki veya daha fazla
+yıldızın bu şekilde aynı karakteristik _numero_'yu elde edebileceği doğrudur. Ancak,
+diğer nitelikler aracılığıyla birbirlerinden kolayca ayırt edilebilirler.
+
+_Galaktik_ koordinatlar _l_ ve _b_ referans düzlemi olarak Samanyolu'na (Galaksi) atıfta bulunur. Samanyolu'nun kutbunun konumu HOUZEAU ve GOULD'a göre ([alfa][delta]) = (124527)'dir.
+L.M. II, 14[2]'te B tayf türündeki yıldızların dağılımından biraz farklı bir konum buldum. Ancak daha sonra galaktik düzlemin gerçek konumunun değerinin doğru bir şekilde belirlenmesi için daha fazla sayıda yıldıza ihtiyaç duyduğunu tespit ettikten sonra, PICKERING'in Harvard kataloglarında kullandığı konumu kullanmayı tercih ettim, yani ([alfa][delta]) = (124028) veya
+
+[alfa] = 12h 40m = 190 derece, [delta] = +28 derece,
+
+bu konum artık yalnızca Lund Gözlemevi'ndeki yıldız istatistik araştırmalarında ve bu derslerde de
+kullanılıyor.
+
+Galaktik boylam (_l_), ekvatorda Samanyolu'nun yükselen düğümünden hesaplanır ve bu düğüm _Aquila_ takımyıldızında yer alır. Galaktik enlem (_b_), yıldızın Galaksi'den açısal uzaklığını verir. Bu derslerin sonunda, I. levhada, bir yıldızın [alfa] ve [delta] değerlerinin _l_ ve _b_ değerlerine dönüştürülmesinin kolayca yapılabileceği oldukça ayrıntılı bir diyagram
+bulunacaktır. Görünür büyüklüğü 4m'den daha parlak olan tüm yıldızlar doğrudan çizilir.
+
+Bir yıldızın galaktik boylamını ve enlemini vermek yerine, yıldızın
+yerleştiği galaktik _kareyi_ vermekle yetinebiliriz. Bu amaçla, gökyüzünün aynı yüzeye sahip 48 kareye bölündüğünü varsayıyoruz. Bu karelerden ikisi Galaksi'nin kuzey kutbunda yer alır ve GA_1 ve GA_2 olarak adlandırılır. On ikisi galaktik düzlemin kuzeyinde, 0 derece ile 30 derece galaktik enlem arasında yer alır ve GC_1, GC_2, ..., GC_12 olarak adlandırılır. Galaktik ekvatorun (Galaksi düzlemi) güneyindeki karşılık gelen karelere GD_1, GD_2,
+..., GD_12 denir. Güney kutbundaki iki kutup karesine GF_1 ve
+GF_2 denir. Son olarak A ve C kareleri arasında 10 B karesi ve güney yarımkürede karşılık gelen 10 E karesi vardır.
+
+Karelerin gökyüzündeki dağılımı burada FLAMSTEED'in projeksiyonunda grafiksel olarak temsil edilmiştir. Bu, karşılık gelen küresel alanlara orantılı alanlar verme avantajına sahiptir. Bu, tüm yıldız istatistik araştırmaları için gerekli veya en azından oldukça arzu edilen bir düzenlemedir. Ayrıca tüm gökyüzünün sürekli bir temsilini sağlama avantajına sahiptir.
+
+Kareler ve yıldız takımyıldızları arasındaki ilişki
+levha II'den görülmektedir. Takımyıldızların galaktik konumlarına göre düzenlenmesi
+galaktik ekvatorun kuzeyinde (C karelerinde) bulduğumuz boylam
+takımyıldızlar:--
+
+    Herkül, Kuğu, Cepheus, Cassiopaea, Auriga, İkizler, Canis Minor,
+    Pyxis, Vela, Centaurus, Scorpius, Ophiuchus,
+
+ve bu ekvatorun güneyinde (D karelerinde):--
+
+    Aquila, Cygnus, Lacerta, Andromeda, Perseus, Orion, Canis Major,
+    Puppis, Carina, Circinus, Corona australis, Yay,
+
+her kare için yalnızca bir takımyıldızdan bahsediyoruz.
+
+Kuzey galaktik kutbunda (iki A karesinde) şunlar var:--
+
+Canes Venatici ve Coma Berenices,
+
+ve güney galaktik kutbunda (iki F karesinde):--
+
+Cetus ve Sculptor.
+
+3. _Değişiklikler bir yıldızın konumu._ Bir yıldızın iki veya daha fazla durumdaki konumlarından, onun görünür hareketini, ayrıca yıldızın _özgül hareketini_ elde ederiz. Bu hareketin _seküler_ bir parçası ile _periyodik_ bir parçası arasında ayrım yapabiliriz. Her iki durumda da hareket
+ya gözlemcinin hareketinin bir yansıması olabilir ve bu durumda
+_paralaktik_ hareket olarak adlandırılır veya yıldızın gerçek bir hareketinden kaynaklanabilir.
+Yıldızın paralaktik hareketinden onun
+uzaklığını çıkarmak mümkündür Güneş veya onun paralaksı. Periyodik paralaktik öz hareket, dünyanın güneş etrafındaki hareketinden kaynaklanır ve _yıllık paralaksı_ ([pi]) verir. Bir yıldızın mevcut yıllık paralakslarını elde etmek için genellikle yıldızın bize daha yakın olması gerekir 5 siriometreden daha fazla, 0".04'ten daha büyük bir paralaksa karşılık gelir. Bu şekilde daha nadiren 10 siriometreye ([pi] = 0".02) kadar olan bir mesafe için güvenilir değerler elde edebiliriz veya hatta daha da büyük değerler. böyle büyük mesafelerde, uzayda güneşin ilerleyici hareketinden kaynaklanan _seküler_ paralaks, özellikle bir yıldız grubunun ortalama mesafesi aynı anda belirlenirse daha iyi sonuçlar verebilir. Seküler paralaksın böyle bir değerine ayrıca, KAPTEYN tarafından, yıldızların _sistematik_ paralaksı.
+
+Bir yıldızın öz hareketinden bahsettiğimizde, daha fazla ayrıntıya girmeden, her zaman seküler öz hareketten bahsediyoruz.
+
+4. Karasal mesafeler artık, en azından bilimsel araştırmalarda,
+evrensel olarak kilometre olarak ifade ediliyor. Ancak bir kilometre, uygunsuz bir
+birimdir göksel mesafeler için. Gezegen sistemimizdeki mesafelerle uğraşırken, astronomlar, NEWTON'dan beri,
+evrensel mesafe birimi olarak
+her zaman dünyanın güneşe olan ortalama mesafesini kullanmışlardır. Yıldız sistemindeki mesafelerle ilgili olarak
+astronomlar farklı bir uygulama vardı. Alman gökbilimciler, SEELIGER
+ve diğerleri, uzun zamandır yıllık 0".2 paralaksa karşılık gelen bir yıldızsal mesafe birimi kullanmışlardır ve buna "Siriusweite" adı verilmiştir.
+Bu isme, uluslararası bir kullanımı olmadığı yönünde haklı olarak itiraz edilebilir. bilimde
+büyük bir arzu. Bu birimin teorik tanımına karşı
+şöyle de söylenebilir: bir mesafenin bir açıyla değil, başka bir mesafeyle tanımlanması uygundur--bu durumda, _harmonik_ ortalamaya da denk gelen bir açı yıldızın
+uzaklığına değil, aritmetik ortalama uzaklığına. Aynı itiraz
+1912'de TURNER tarafından önerilen "parsek" birimine de yapılabilir.
+
+Benim açımdan, 1911'den beri, hem
+isim hem de tanımı, SEELIGER'in önermesiyle neredeyse örtüşüyor
+ve bu derslerde yalnızca bu kullanılacak. _siriometer_, gezegensel mesafe biriminin 10^6 katına eşitlenir ve 0".206265'lik bir paralaksa (pratikte yeterince tam olarak 0".2) karşılık gelir.
+
+Popüler yazılarda, başka bir birim: _ışık yılı_, çok uzun
+zamandır kullanılıyor. Bu birimler arasındaki ilişki şudur
+
+1 siriometre = 15,79 ışık yılı,
+1 ışık yılı = 0,0633 siriometre.
+
+5. _Zaman_ açısından da, karasal birimler (saniye, gün, yıl)
+çok küçüktür yıldız istekleri. Mesafe birimiyle tutarlı olması açısından, yıldız zaman birimi için 10^6 yıla karşılık gelen bir _yıldız yılı_
+(st.) önerdim. Böylece yıldız ve gezegen uzunluk ve zaman birimleri arasında aynı ilişkiyi elde ederiz, bu da yıldız yılı başına _siriometre_ cinsinden ifade edilen bir yıldızın hızının, yıl başına gezegen uzunluk birimlerinde aynı sayılarla ifade edilmesi avantajına sahiptir.
+
+DOPPLER ilkesine göre hızların spektroskopik tayinleri genellikle saniyede km. olarak ifade edilir. Yıldız birimiyle ilişki şu şekildedir:
+
+1 km./sn. = 0,2111 sir./st.,
+= 0,2111 gezegen birimi yılda,
+1 sir./st. = 4,7375 km./sn.
+
+Böylece güneşin hızı 20 km./sn'dir. veya 4.22 sir./st. (= 4.22
+dünyanın güneşten uzaklığı/yıl).
+
+Yıldız hızının sayısal değerinden aşağıda bahsetme fırsatımız olacak. Şimdilik, çoğu yıldızın güneşinkiyle aynı derecede bir hıza sahip olduğunu (ortalama olarak biraz daha fazla) ve bir yıldızın en yüksek gözlemlenen hızının 72 sir./st. (= 340 km./sn.) olduğunu belirtmek yeterli olabilir. Bir sonraki bölümde en hızlı yıldızları içeren bir tablo vereceğim. Yıldız hızının en küçük değeri açıkça sıfıra eşittir.
+
+6. _Işınım yoğunluğu._ Bu geniş sınırlar içinde değişir. Mount Wilson gözlemevinin en büyük aletinin (100 inçlik reflektör) fotoğrafik plakalarında bir izlenim verebilen en sönük yıldız, kendisi güneşten 10000 milyon kat daha sönük olan Sirius'tan yaklaşık 100 milyon kat daha sönüktür - bu da görünür radyasyondan bahsediyor. Yoğunluk _büyüklük_ (_m_) cinsinden ifade edilir. Bunun nedeni kısmen, yoğunlukla orantılı olmaları durumunda çok büyük sayılarla uğraşmak zorunda kalmamız gerektiği ve kısmen de insan gözünün ışık miktarlarını _m_ ile orantılı olarak algıladığının kanıtlanmış olmasıdır. Bu, FECHNER yasası olarak bilinen psikofizikteki genel bir yasaya bağlıdır. Bu yasa, ışığın görünür izlenimindeki değişikliklerin yoğunluktaki değişikliklere değil, bu değişikliklerin ilkel yoğunluğa bölünmesine orantılı olduğunu söyler. Benzer bir yasa tüm duyumlar için geçerlidir. Bir şelalenin yakınında bir konuşma duyulamaz.
+Eldeki yükün dokuzdan on hektograma çıkması histe büyük bir fark yaratmazken, bir hektogramdan iki hektograma çıkması kolayca fark edilebilir. Gündüz yakılan bir kibrit aydınlatmada
+hiçbir artışa neden olmaz, vb.
+
+Matematiksel bir analiz, FECHNER yasasından şu sonucu çıkar
+
+ki, izlenimin _aritmetik_ ilerlemede (1, 2, 3, 4,
+...) aynı anda _geometrik_ ilerlemedeki yoğunluk artışıyla (_I_, _I_^2, _I_^3, _I_^4, ...) arttığını gösterir. Görmeyle işitme arasındaki fark aynıdır. Bir armonik gamın notalarının titreşim sayılarının geometrik bir ilerlemede birbirini takip ettiği iyi bilinir, ancak kulak için notalar arasındaki aralıklar eşit olarak algılanır. Büyüklükler, ışık miktarlarına göre logaritmaların oynadığı rolün aynısını oynar. Bir yıldızın diğer iki yıldız arasında bir parlaklığa sahip olduğu düşünülürse, her durumda eşit olan şey _fark_ değil, ışık miktarlarının _oranı_dır.
+
+Radyasyon yoğunluklarıyla ilgilenen astronomi (veya fizik) dalına _fotometri_ denir. Büyüklükler için belirli bir ölçek belirlemek amacıyla, ölçeğin _sıfır noktasını_ ve _ölçek oranını_ belirli bir şekilde seçmeliyiz.
+
+Her ikisi de keyfi olarak seçilebilir. _Sıfır noktası_ artık astronomlar tarafından Harvard Gözlemevi tarafından kullanılana uygun olarak neredeyse oybirliğiyle seçiliyor. Gördüğüm kadarıyla, Harvard sıfır noktasının henüz kesin bir tanımı yapılmadı (ancak H. A. ile karşılaştırın 50[3]),
+ancak Kutup yıldızının ([alfa] Ursae Minoris) Harvard'da daha parlak yıldızlar için temel bir karşılaştırma yıldızı olarak kullanıldığını ve
+Harvard'daki ve HERTZSPRUNG'un (A. N. 4518 [1911]) gözlemlerine göre, Kutup yıldızının ışığının neredeyse
+değişmez olduğunu düşünürsek, _fotometrik ölçeğin sıfır noktasının Kutup yıldızı için _m_ = 2.12_ olacak şekilde seçildiğini söyleyebiliriz.
+Büyüklükler Harvard ölçeğinden (H. S.) farklı bir ölçekte verilmişse,
+sıfır noktası düzeltmesini uygulamak gerekir. Bu, Potsdam kataloğu için -0m.16'ya denk gelir.
+
+Ayrıca _ölçek oranını_ belirlemek gerekir. Yıldızlar için büyüklüklerimiz PTOLEMY'den gelir. İki ardışık büyüklük sınıfının ışık yoğunluklarının oranını veren ölçek oranının, büyüklüklerin eski değerlerine göre yaklaşık olarak 21/2'ye eşit olduğu bulundu. Kesin fotometri (büyüklükleri ölçen aletlerle) geçen yüzyılın ortalarında başladığında, ölçek oranı bu nedenle 2,5'e eşitlendi. Daha sonra, 2,512'ye eşit olarak seçilmesinin daha uygun olduğu görüldü, bu sayının logaritması 0,4 değerine sahiptir. Büyüklüklerin kendileri bir tür logaritma olduğundan, yoğunluk oranının logaritmasının basit bir değerini kullanmak, bu oranın kendisini kullanmaktan açıkça daha uygundur. Bu ölçek oranına genellikle POGSON ölçeği denir (POGSON tarafından 1856'da Radcliffe Gözlemevi'nin "53 bilinen değişken yıldız kataloğu"nda kullanılmıştır) ve artık yalnızca bu ölçek kullanılmaktadır.
+
+Ölçek oranının tanımından, ışık yoğunlukları 100:1 oranında olan iki yıldızın tam olarak 5 kadir daha farklı olduğu sonucu çıkar. 6. kadirdeki bir yıldız, 1. kadirdeki bir yıldızdan 100 kat, 11. kadirdeki bir yıldız 10000 kat, 16. kadirdeki bir yıldız bir milyon kat ve 21. kadirdeki bir yıldız 1. kadirdeki bir yıldızdan 100 milyon kat daha sönüktür. Yıldız kadirleri artık sistematik hatalara karşı belirli bir çekinceyle 0m.1'lik ve daha yakın bir doğrulukla belirlenmektedir. Ancak, açıkça,
+ışık oranlarında önemli bir belirsizlik büyüklüğünde 0,1'lik bir hataya karşılık gelecektir, bunlar birbirinden önemli ölçüde farklı olduğunda.
+
+Güneş -26m.60
+Dolunay -11m.77
+Venüs - 4m.28
+Jüpiter - 2m.35
+Mars - 1m.79
+Merkür - 0m.90
+Satürn + 0m.88
+Uranüs + 5m.86
+Neptün + 7m.66
+
+_m_ tanımının bir sonucu olarak, _negatif_ büyüklüklerle (ve negatif logaritmalarla) de ilgilenmemiz gerekir. Dolayısıyla, örneğin, _Sirius_ için _m_ = -1,58. Daha büyük gezegenlerin ve Ay ile Güneş'in büyüklükleri de negatiftir, bu da değerlerin G. MUeLLER'in "Die Photometrie der Gestirne" adlı eserinden alındığı bitişik tablodan görülebileceği gibidir.
+
+Güneş'in görünür büyüklüğü ZOeLLNER (1864) tarafından verilmiştir. Diğer
+değerlerin hepsi Potsdam'da bulunur ve genel olarak Ay ve gezegenlerin görünür büyüklüğünün maksimum değerine işaret eder.
+
+En parlak yıldız, büyüklüğü _m_ = -1.58 olan _Sirius_'tur.
+En sönük görünür yıldızın büyüklüğü açıkça kullanılan aletin nüfuz etme gücüne bağlıdır. WILLIAM
+HERSCHEL'in kendisi ve oğlu tarafından yıldız ölçümlerinde ve diğer yıldız araştırmalarında kullanılan teleskopu, 14. büyüklüğe kadar olan yıldızların ayırt edilmesini sağlamıştır. Zamanımızın büyük aletleri görsel gözlemler için pek de uzağa ulaşamıyor. Ancak, fotoğrafik plakalar kullanıldığında,
+daha mütevazı aletlerle bile daha sönük yıldızların izlenimlerini elde etmek
+kolayca mümkün. Wilson Gözlemevi'nin 100 inçlik büyük aynası,
+20. görünür kadir ve hatta daha sönük yıldızların fotoğrafik gözlemlerini mümkün kılıyor.
+
+Görsel kadirlerin gözlemleri neredeyse yalnızca ZOeLLNER fotometresiyle az çok geliştirilmiş bir biçimde gerçekleştiriliyor.
+
+7. _Mutlak kadir. _ Bir yıldızın görünür büyüklüğü, yıldız gözlemciden uzaklığını değiştirdikçe değişir, yoğunluk
+yıldızın uzaklığının karesi kadar dolaylı olarak artar.
+Yıldızların büyüklüklerini birbirleriyle karşılaştırılabilir hale getirmek için, bunları belirli bir mesafe birimindeki değerlerine
+indirmek uygundur. Bu nedenle bir siriometre seçeriz. Karşılık gelen büyüklüğe _mutlak_ büyüklük denir ve _M_ ile gösterilir.[4] Önceki paragrafta verilen tablodan, ZOeLLNER'in _m_ değerine göre
+güneşin mutlak büyüklüğünün +3,4, ayın ise +31,2 olduğunu kolayca buluruz. Jüpiter için _M_ = +24,6,
+Venüs için _M_ = +25,3 buluruz. Diğer gezegenler yaklaşık olarak _M_ = +30'dur.
+
+Şimdiye kadar belirlenmesi mümkün olan yıldızların mutlak büyüklükleri için -8 ile +13 arasında bir _M_ değeri buluyoruz. Üçüncü bölümde şu anda bilinen
+en parlak ve en sönük yıldızların kısa tablolarını vereceğiz.
+
+8. _Fotoğrafik büyüklükler._ Önceki paragraflarda belirtilen büyüklüklerin hepsi gözle yapılan gözlemlere atıfta bulunur ve _görsel_ büyüklükler olarak adlandırılır. Ancak bir yıldızın toplam yoğunluğu esasen yoğunluğu ölçmekte kullanılan cihaza bağlıdır. Gökbilimciler gözün yanı sıra bir fotoğrafik
+plaka, bolometre, bir fotoelektrik hücre ve diğer cihazları kullanırlar. Bu cihazlarla elde edilen sonuçlardaki fark, radyasyonun farklı kısımlarının hesaba katılması durumundan kaynaklanır.
+
+Spektrumun mor kısımlarında temel duyarlılıkları olan olağan fotoğrafik
+plakalar bize yıldızların _fotografik_ büyüklüklerini verir. Ancak, bu büyüklüklerin, levhanın dağıtım fonksiyonuna göre bir levhadan diğerine değişebileceği belirtilmelidir (L. M. 67 ile karşılaştırın). Henüz yeterince incelenmemiş olan bu değişim, yine de önemsiz görünüyor ve aşağıdakilerde ihmal edilmelidir.
+
+Bu derslerde bir yıldızın fotoğrafik büyüklüğü, görsel büyüklük _m_'ye karşılık gelen _m'_ ile gösterilecektir.
+
+Uygulamalı astronomide, belirli bir hazırlık sonucu (renk banyolarında veya başka şekillerde) gözünkine neredeyse karşılık gelen bir dağıtım fonksiyonu edinmiş ve özellikle aynı dalga boylarında maksimum bir noktaya sahip levhalar da kullanılır. Bu tür büyüklüklere _foto-görsel_ denir (PARKHURST'un A. J. 36 [1912]'deki anılarını karşılaştırın).
+
+Bir yıldızın fotoğrafik büyüklüğü genellikle
+plakadaki yıldızın çapının ölçümlerinden belirlenir. Basit bir
+matematiksel ilişki daha sonra _m'_ değerini belirlememize olanak tanır. Bir
+yıldız görüntüsünün çapı, pozlama süresiyle birlikte artar. Bu artış kısmen teleskobun kırınımından, objektifin kusurlu akromatizmasından veya küresel sapmasından, camın düzensiz
+taşlanmasından ve özellikle
+havanın kırılmasındaki değişikliklerden kaynaklanır ve bu da görüntünün ortalama bir konum etrafında salınımına neden olur.
+
+Fotoğrafik büyüklüklerin _sıfır noktası_ öyle belirlenir ki
+bu büyüklük, 1911'de Bonn'da düzenlenen uluslararası güneş konferansının önerisine göre
+A0 spektral tipine ait ve _m_ = 6.0 olan
+yıldızlar için görsel büyüklükle çakışır.
+
+Fotoğrafik veya foto-görsel büyüklüklerin belirlenmesi artık büyük bir doğrulukla gerçekleştirilebilir. Bunun için birçok yöntem vardır ve 1913 yılındaki R. A. S. Konseyi Raporunda iyi bir şekilde özetlenmiştir. En etkili ve kapsamlı yöntem, SCHWARZSCHILD tarafından önerilen, yarım ızgara yöntemi olarak adlandırılan yöntemdir. Bu yöntemde gökyüzünün aynı bölümünün iki pozu alınırken, pozlardan birinde büyüklükleri sabit bir derece azaltan belirli bir ızgara kullanılır. 9. _Yıldızların rengi._ Bir yıldızın radyasyonu farklı dalga boyları için farklıdır ([lambda]). Diğer kütle fenomenleriyle ilgili olarak, bu nedenle şunları söyleyebiliriz:--(1) _toplam radyasyon_ veya yoğunluk (_I_),
+(2) _ortalama dalga boyu_ ([lambda]_0), (3) _dalga boyunun_ _dağılımını_ ([sigma]). Önceki paragraflarda, yıldızların toplam radyasyonunu, büyüklükleriyle ifade edildiği gibi ele aldık. Ortalama dalga boyu, _renk_ ile oldukça yakından tanımlanırken, dalga boyunun _dağılımını yıldızların _spektrumundan_ bulabilirsiniz.
+
+Mavi (B), beyaz (W), sarı (Y) ve kırmızı (R) yıldızlar ve
+ara renkler vardır. Kesin yöntem, rengi ortalama dalga boyu (tersi değil) veya en yaygın olarak adlandırıldığı gibi _etkili_ dalga boyu veya _renk-indeksinden_ tanımlamaktır. Bu soruya daha sonra geri döneceğiz. Ancak, yıldızların rengine dair çok sayıda doğrudan
+göz tahmini vardır.
+
+_Belirli bir spektruma karşılık gelen renk._
+
+    _Sp._ _Renk_ _Numara_
+     B3 YW-161
+     A0 YW-788
+     A5 YW 115
+     F5 YW, WY-295
+     G5 WY 216
+     K5 WY+, Y-552
+     MY, Y+ 95
+     -----------------------------
+                     Toplam ... 2222
+
+_Belirli bir renge karşılık gelen spektrum._
+
+    _Renk_ _Sp._ _Numara_
+     G, G+ A0 281
+     YW-A0 356
+     YW A5 482
+     YW+, YW- F3 211
+     WY G4 264
+     WY+, Y-K1 289
+Y, Y+ K4 254
+RY-, RY K5 85
+---------------------------------
+Toplam ... 2222
+
++ ve - işaretleri ara renk tonlarını gösterir.
+
+Dr. MALMQUIST tarafından Potsdam'daki MUeLLER ve KEMPF'nin renk
+gözlemlerinden hazırlanan önceki tablo, yıldızların renkleri ile spektrumları arasındaki bağlantıyı gösterir.
+
+Potsdam gözlemleri, gök ekvatorunun kuzeyindeki tüm yıldızları içerir ve görünür kadirleri 7m.5'ten daha parlaktır.
+
+Bu tablolardan spektrumlar ile yıldızların renkleri arasındaki korelasyonda belirgin bir _regresyon_
+olduğunu görüyoruz. Tüm beyaz yıldızları bir araya getirdiğimizde, karşılık gelen ortalama spektral
+tipin A0 olduğunu, ancak A0'ın ortalama olarak sarı-beyaz renge karşılık geldiğini görüyoruz. Sarı yıldızlar ortalama olarak K-tipine aittir, ancak K-yıldızları ortalama olarak sarı renkte beyaz bir gölgeye sahiptir. Bu durumda korelasyon katsayısını (_r_) hesaplamak kolay değildir,
+çünkü niteliklerden biri olan renk, kesin olarak derecelendirilmemiştir
+(_yani_ rengi tanımlayan sayılarla ifade edilmemiştir).[5] PEARSON'ın olasılık katsayısını kullanarak,
+korelasyon katsayısının oldukça güvenilir bir değerini bulmak mümkündür ve
+MALMQUIST bu şekilde _r_ = +0.85'i, oldukça yüksek bir değeri bulmuştur.
+
+Renk ve spektrum arasındaki ilişkinin tartışılmasını kolaylaştırmak için burada yıldızların spektrumları sorusuyla ilgilenmek uygundur.
+
+10. _Yıldızların spektrumları._ Tartışmayı başlatmak için önce
+spektrumdaki FRAUENHOFER çizgilerinin dalga boylarının bir listesini ve karşılık gelen kimyasal elementleri veriyorum.
+
+_FRAUENHOFER çizgisi_ _Element_ [lambda]
+A 759,4
+B 686,8
+C([alfa]) H (hidrojen) 656,3
+D_1 Na (sodyum) 589,6
+D_3 He 587,6
+E Fe (demir) 527,0
+F([beta]) H 486,2
+([gamma]) H 434,1
+G Ca (kalsiyum) 430,8
+h([delta]) H 410,2
+H([epsilon]) Ca(H) 396,9
+K Ca 393,4
+
+İlk sütun her çizginin FRAUENHOFER adını verir. Ayrıca hidrojen çizgileri [alfa], [beta], [gamma], [delta], [epsilon]
+belirtilir. İkinci sütun, her çizginin atfedileceği karşılık gelen
+elemanın adını verir. Üçüncü sütun,
+birim olarak bir milimetrenin milyonda biri cinsinden ifade edilen
+dalga boyunu verir.
+([mu][mu]).
+
+Harvard sistemine göre yıldız spektrumlarının sınıflandırılmasının yeniden üretildiği
+III. levhada, ayrıca ana H ve He çizgilerinin
+dalga boyları da bulunacaktır.
+
+Görsel spektrumdan genellikle FRAUENHOFER çizgileri A ile H arasındaki radyasyon kısmı anlaşılır ([lambda] = 760 ila 400 [mu][mu]),
+fotoğrafik spektrum ise genellikle F ile K arasında yer alır.
+([lambda] = 500 ila 400 [mu][mu]).
+
+Spektroskopinin ilk günlerinde yıldızların spektrumları görsel spektrumlarına göre sınıflandırılıyordu. Bu sınıflandırma SECCHI tarafından tanıtıldı ve daha sonra VOGEL tarafından daha kesin bir şekilde tanımlandı. VOGEL'in I, II, III olmak üzere üç sınıfı yaklaşık olarak beyaz, sarı ve kırmızı yıldızlara göre renk sınıflandırmasına karşılık geliyor. Fotoğrafçılık artık spektrumların görsel gözlemlerinin yerini neredeyse tamamen aldı, bu nedenle SECCHI ve VOGEL'in yıldız spektrumları tanımları artık geçerli değil. Şu anda kullanılan terminoloji PICKERING ve Bayan CANNON tarafından tanıtıldı ve çok sayıda türü kapsıyor, bunların başlıca formlarını burada Harvard Gözlemevi'nin Annals of the Annals'ın XXVIII. Cildinin II. Bölümünde tanımlandığı şekilde tanımlıyoruz. PICKERING'in ilk olarak türleri A, B, C, vb. şeklinde alfabetik sıraya koyduğunu ve bu sıranın yıldızların sıcaklığına karşılık geldiğini varsayarak bunu yaptığını belirtmek gerekir. Daha sonra bunun kısmen yanlış olduğu ve özellikle B yıldızlarının A tipindekilerden daha sıcak olabileceği bulundu. Aşağıda Harvard astronomlarının görüşüne göre spektrumların sıcaklık sıralaması verilmiştir.
+
+_Tip O_ (WOLF-RAYET yıldızları). Bu yıldızların spektrumları çoğunlukla parlak çizgilerden oluşur. Bunlar 463 [mu][mu] ve 469 [mu][mu] dalga boylarındaki parlak bantlarla karakterize edilir ve gaz bulutsularının karakteristiği olan 501 [mu][mu] çizgi bazen mevcuttur.
+
+Bu tip çoğunlukla nispeten düşük görünür parlaklığa sahip yıldızları kapsar.
+En parlak olanı _m_ = 2,22 olan [gamma] Velorum'dur. Bu yıldızların mutlak büyüklüğünün B tipindeki yıldızlarınkiyle neredeyse aynı olduğunu göreceğiz.
+
+Tip, Oa, Ob, Oc, Od ve Oe harfleriyle gösterilen beş alt bölüme ayrılmıştır. Bu alt bölümler, yukarıda adı geçen parlak bantların değişen yoğunluklarıyla koşullandırılmıştır. Bu alt türlerin uygun sıralaması şu an için açık bir sorudur.
+
+Bu türdeki ilginç yıldızlar arasında, PICKERING'in spektrumunda daha önce bilinmeyen bir helyum çizgisi serisi keşfettiği [zeta] Puppis (Od) bulunur. Bunlar ilk başta (RYDBERG tarafından) hidrojene atfedildi ve "ek hidrojen çizgileri" olarak adlandırıldı.
+
+_Tip B_ (Orion tipi, Helyum yıldızları). Buradaki tüm çizgiler koyudur. Hidrojen serisinin yanı sıra burada He-çizgilerini (396, 403, 412, 414, 447,
+471, 493 [mu][mu]) buluyoruz.
+
+Bu türe, Betelgeuze hariç Orion'daki tüm parlak yıldızlar ([beta], [gamma], [delta],
+[epsilon], [zeta], [eta] ve diğerleri) aittir. Ayrıca, Spica ve diğer birçok parlak yıldız.
+
+III. [epsilon] levhada Orionis bu türün temsilcisi olarak alınmıştır.
+
+_Tip A_ (Sirius türü), hidrojen çizgilerinin büyük yoğunluğuyla karakterize edilir (III. levhayla karşılaştırın). Helyum çizgileri kaybolmuştur.
+Diğer çizgiler ancak belirsiz bir şekilde görülebilir.
+
+Çıplak gözle görülebilen yıldızların büyük kısmı burada bulunur.
+Bu türe ait 6. kadirden daha parlak 1251 yıldız vardır. Sirius, Vega, Castor, Altair, Deneb ve diğerleri hepsi
+A-yıldızlarıdır.
+
+_Tip F_ (Kalsiyum türü). Hidrojen çizgileri hala oldukça belirgindir ancak
+önceki türdeki kadar geniş değildir. İki kalsiyum çizgisi H ve K
+(396.9, 393.4 [mu][mu]) oldukça belirgindir.
+
+Bu türdeki yıldızlar arasında Polaris, Canopus, Procyon gibi çok sayıda parlak yıldız bulunur
+(üçüncü bölümle karşılaştırın). _Tip G_ (Güneş tipi). Nispeten soluk hidrojen çizgileriyle birlikte çok sayıda metalik çizgi.
+
+Güneş, Capella, [alfa] Centauri ve diğer parlak
+yıldızlar bu sınıfa aittir.
+
+_Tip K._ Hidrojen çizgileri daha da soluktur. K-çizgisi maksimum yoğunluğuna ulaşır (levha III'teki şekilde özellikle belirgin değildir).
+
+Bu, A-tipinin yanında, parlak yıldızlar arasında en çok sayıda olan tiptir (1142 yıldız).
+
+Burada [gamma] Andromedae, [beta] Aquilae, Arcturus, [alfa]
+Cassiopeiae, Pollux ve sonuncusu bir sonraki tipe geçiş oluşturan Aldebaran'ı buluyoruz.
+
+_Tip M._ Tayf bantlıdır ve SECCHI'nin üçüncü tipine aittir.
+Yivler titanyum oksitten kaynaklanır.
+
+Çıplak gözle görülebilen yıldızların sadece 190'ı bu tipe aittir. Genellikle oldukça sönüktürler, ancak burada Betelgeuze, [alfa]
+Herculis, [beta] Pegasi, [alfa] Scorpii (Antares) ve uzun periyodun çoğu değişkenini buluyoruz, bunlar parlak hidrojen çizgileriyle birlikte yivlerle karakterize edilen özel bir alt tür _Md_ oluştururlar.
+
+Tür M'nin Ma ve Mb olmak üzere iki alt türü daha vardır.
+
+_Tip N_ (SECCHI'nin dördüncü türü). Bantlı spektrumlar. Yivler karbon bileşiklerinden kaynaklanır.
+
+Burada sadece sönük yıldızlar bulunur. Toplam sayı 241'dir. Hepsi kırmızıdır. Bu spektruma sahip 27 yıldız, Md ile aynı tipte uzun periyotlu değişkenlerdir.
+
+Spektral tipler aşağıdaki şekilde özetlenebilir:--
+
+Beyaz yıldızlar:--SECCHI'nin tip I'i:--Harvard B ve A,
+Sarı " :-- " " II:-- " F, G ve K,
+Kırmızı " :-- " " III:-- " M,
+" " :-- " " IV:-- " N.
+
+Harvard gökbilimcileri kendilerini yukarıda belirtilen tiplerle sınırlamazlar, ancak tipler arasındaki aralıkları, tipin adının ardından 0, 1, 2,
+..., 9 rakamıyla belirtilen alt tiplerle doldururlar. Bu nedenle A ve F arasındaki alt tipler A0, A1,
+A2, ..., A9, F0, &c. adlandırmalarına sahiptir. Daha önce belirtildiği gibi,
+uç tipler O ve M için istisnalar yapılır.
+
+11. _Spektral index._ Yukarıdaki açıklamadan,
+tiplerin tanımının birçok belirsiz anı ima ettiği anlaşılabilir. Özellikle
+G-tipi ile ilgili olarak,
+Harvard'da bile
+çok farklı tanımlar kabul edilmiştir.[6] Tanımların spektrumların _niceliksel_ özelliklerini doğrudan vermemesi de bir kusurdur. Yine de
+spektral sınıfların yerine bir yıldızın spektral karakterini ifade eden sürekli bir ölçek koymak mümkündür. Böyle bir ölçek
+Harvard'ın spektrum sınıflandırmasında
+gerçekten örtüktür.
+
+Bir yıldızın spektral karakterini ifade eden bir sayıyı tanımlamak için _spektral indeks_ (_s_) terimini kullanalım. O zaman bu kavramı şu şekilde rahatlıkla tanımlayabiliriz. A0'ın spektral endekse karşılık geldiğini varsayalım
+_s_ = 0.0, F0 ila _s_ = +1.0, G0 ila _s_ = +2.0, K0 ila _s_ = +3.0, M0 ila
+_s_ = +4.0 ve B0 ila _s_ = -1.0. Ayrıca, A1, A2, A3, &c.'nin spektral endeksleri +0.1, +0.2, +0.3, &c. olsun ve diğer ara alt sınıflarla benzer şekilde. O zaman, B0 ile M arasındaki tüm spektral
+sınıflara belirli bir spektral endeks _s_'nin karşılık geldiği açıktır.
+Burada uç tipler O ve N dahil edilmemiştir. Ancak, spektral endeksleri
+belirlenebilir, daha sonra görüleceği gibi.
+
+Bu şekilde tanımlanan spektral endeksler her spektral tip için doğrudan bilinse de, spektral endeksler serisinin yıldızların bazı niteliklerinin sürekli bir değer serisine karşılık geldiği yine de açık değildir. Bunun, oldukça belirgin bir şekilde derecelendirilmiş başka bir nitelikle, yani yıldızların rengiyle
+karşılaştırılmasıyla mümkün olduğu görülebilir. Bu noktayı başka bir paragrafta tartışacağız. Spektrumların iyi derecelendirilmiş bir ölçeğini elde etmek için, spektral tiplerin tanımlarını bir dereceye kadar değiştirmek gerekecektir, ancak bu değişiklik henüz gerçekleştirilmemiştir.
+
+12. Bölümde bulduk. 9 Bir yıldızın ışık radyasyonunun toplam yoğunluk (_I_), ortalama dalga boyu ([lambda]_0) ve dalga boyunun dağılımı ([sigma]_[lambda]) aracılığıyla tanımlandığı. [lambda]_0 ve
+[sigma]_[lambda] spektral gözlemlerden çıkarılabilir. Burada gözlemlerin farklı dalga boylarındaki yoğunlukları değil, bu yoğunlukların kullanılan aletlerle -göz veya fotoğraf plakasıyla-
+algılandığı gibi değerlerini verdiği gözlemlenmelidir. Yoğunluğun gerçek eğrisinin türetilmesi için aletin
+dağıtım fonksiyonunu bilmeliyiz (L. M. 67). Göze gelince, LANGLEY'in bolometrik gözlemlerinden, yoğunluk görsel eğrisinin ortalama dalga boyunun gerçek yoğunluk eğrisininkiyle neredeyse aynı olduğuna inanmak için nedenlerimiz var. Bu sonuç, DARWIN'in evrim ilkelerinden kolayca anlaşılabilir. Bu ilkeler, insan gözünün zamanla, en büyük görsel enerji elde edildiğinde, görsel yoğunluk eğrisinin ortalama dalga boyunun gerçek eğrininkiyle ([lambda] = 530 [mu][mu]) aynı olacak şekilde geliştirilmesini gerektirir (L. M. 67). Dağılım açısından, bu, gerçek yoğunluk eğrisinde, Bölüm 10'a göre yaklaşık 60 [mu][mu]'ya denk gelen görsel eğriden her zaman daha büyüktür. Gerçekten de görsel yoğunluk eğrisinin yaklaşık olarak 400 [mu][mu]'dan 760 [mu][mu]'ya kadar uzandığını, bunun yaklaşık olarak altıncı kısmının görsel eğrinin dağılımına [sigma] karşılık geldiğini bulduk.
+
+Fotoğrafik yoğunluk eğrisi durumunda koşullar farklıdır. Fotoğrafik eğrinin ortalama dalga boyu yaklaşık olarak 450 [mu][mu]'dur ve dağılımı 16 [mu][mu]'dur, bu da görsel eğridekinden önemli ölçüde daha küçüktür.
+
+13. Hem görsel hem de fotoğrafik yoğunluk eğrileri, radyasyon yayan cismin sıcaklığına göre farklılık gösterir ve bu nedenle farklı spektral tipteki yıldızlar için farklıdır. Burada ortalama dalga boyu, bu dalga boyunun sıcaklıkla ters orantılı olarak değiştiğini söyleyen WIEN formülünü izler. Toplam yoğunluk, STEPHAN yasasına göre, sıcaklığın dördüncü kuvveti kadar doğrudan değişir. Dağılım bile sıcaklığın değişimine bağlıdır - doğrudan ortalama dalga boyu, ters olarak yıldızın sıcaklığı (L. M. 41) - böylece ortalama dalga boyu ve dalga boyunun dağılımı, sıcak yıldızlar O ve B için daha soğuk olanlardan (K ve M tipleri) daha küçüktür. Bu şekilde, bir yıldızın sıcaklığını ortalama dalga boyunun ([lambda]_0) belirlenmesinden veya [lambda]'daki dağılımdan belirlemek mümkündür. Bu tür belirlemeler ([lambda]_0'dan) Potsdam'daki SCHEINER ve WILSING, ROSENBERG ve diğerleri tarafından yapılmıştır, ancak bu araştırmaların daha yüksek bir doğruluk derecesine
+geliştirilmesi gerekmektedir.
+
+14. _Etkili dalga boyu._ Bir spektrumun ortalama dalga boyu veya astronomların sıklıkla adlandırdığı gibi _etkili_ dalga boyu, genellikle şu şekilde belirlenir.
+Havadaki kırılma nedeniyle bir yıldızın görüntüsü, bir spektroskop kullanılmadan,
+gerçekten bir spektrumdur. Bir süre pozlamadan sonra, konumu tam olarak ortalama dalga boyu tarafından belirlenen, biraz yuvarlak bir görüntü elde ederiz.
+Bu yöntem özellikle, birbirine eşit aralıklarla paralel olarak gerilmiş bir dizi metalik iplikten oluşan sözde
+_objektif-ızgara_ ile kullanılır. Işığın kırınımı nedeniyle, artık objektifin odak düzleminde, bu ızgaraların kullanımıyla, sadece yıldızın ızgara olmadan ortaya çıkacağı yerdeki daha soluk bir görüntüsünü değil, aynı zamanda bu görüntünün her iki tarafında, merkez yıldızdan uzaklıkları, etkili dalga boylarının teorik olarak bilinen belirli katları olan ikincil görüntüler elde ediyoruz. Bu basit şekilde, etkili dalga boyunu belirlemek mümkündür ve bu, spektral indeksin oldukça iyi bilinen bir fonksiyonu olduğundan, ikincisi de bulunabilir. Bu yöntem ilk olarak HERTZSPRUNG tarafından önerildi ve Upsala gözlemevinde BERGSTRAND, LUNDMARK ve LINDBLAD ve diğerleri tarafından yaygın olarak kullanıldı.
+
+15. _Renk indeksi._ 9. Bölümde, rengin ortalama dalga boyuyla ([lambda]_0) özdeşleştirilebileceğini zaten belirttik. Ayrıca, [lambda]_0'ın spektral indeksle (_s_) yakından bağlantılı olması nedeniyle, rengi temsil etmek için spektral indeksi kullanabiliriz. _s_ yerine, renk için renk indeksi adı verilen başka bir ifade de kullanılabilir.
+Bu ifade ilk olarak SCHWARZSCHILD tarafından tanıtıldı ve şu şekilde tanımlandı.
+
+Fotoğrafik ölçeğin sıfır noktasının, görsel büyüklük _m_ ve fotoğrafik
+büyüklük _m'_'nin spektral indeksi 0.0 (A0) olan yıldızlar için çakışacak şekilde seçildiğini gördük. Daha sonra fotoğrafik büyüklükler kesin olarak belirlenir. Değerlerinin görsel büyüklüklerden sistematik olarak farklı olduğu, böylece B (ve O) tipi için fotoğrafik büyüklüklerin görselden daha küçük olduğu ve diğer tipler için bunun tersi olduğu bulunur. Fark, M tipi için en büyüktür (N yıldızları için daha da büyüktür, ancak burada şu anda yalnızca birkaç belirleme bilinmektedir), bu yıldızlar için yaklaşık iki büyüklüğe ulaşır. Bir fotoğraf plakasındaki kırmızı bir yıldız, gözle
+gözlendiğinde olduğundan çok daha sönüktür. _Fotoğrafik ve görsel büyüklükler arasındaki farka
+renk indeksi (_c_) denir._ Bu indeks ile spektral indeks arasındaki korelasyonun oldukça yüksek olduğu bulunmuştur (_r_ = +0.96). L. M.
+II, 19'da, belirli bir renk indeksine karşılık gelen spektral türü ve tersini veren aşağıdaki tabloları çıkardım.
+
+TABLO 1.
+
+_VERİLİ BİR SPEKTRAL TİP VEYA SPEKTRAL ENDEKSİNE KARŞILIK GELEN ORTALAMA RENK ENDEKSİNİ VERİR._
+
++------------------+----------------+
+| Spektral | Renk indeksi |
+| tür | indeks | |
++----------+---------------+-----+
+|  B0 |   -1.0 |    -0.46 |
+|  B5 |   -0,5 |    -0.23 |
+|  A0 |    0.0 |     0,00 |
+|  A5 |   +0,5 |    +0,23 |
+|  F0 |   +1.0 |    +0,46 |
+|  F5 |   +1,5 |    +0,69 |
+|  G0 |   +2,0 |    +0,92 |
+|  G5 |   +2,5 |    +1,15 |
+|  K0 |   +3.0 |    +1,38 |
+|  K5 |   +3,5 |    +1,61 |
+|  M0 |   +4.0 |    +1,84 |
++-------+------------+-----------------+
+
+TABLO 1*.
+
+_VERİLECEK BİR RENK ENDEKSİNE KARŞILIK GELEN ORTALAMA SPEKTRAL ENDEKSİ VERİLİYOR._
+
++-----------------+-------------------+
+| Renk endeksi | Spektral |
+| | endeks | tür |
++----------------+----------+----------+
+| | | |
+| -0,4 | -0,70 | B3 |
+| -0,2 | -0,80 | B7 |
+| 0,0 | +0,10 | A1 |
+| +0,2 | +0,50 | A5 |
+| +0,4 | +0,90 | A9 |
+| +0,6 | +1,30 | F3 |
+| +0,8 | +1,70 | F7 |
+| +1,0 | +2,10 | G1 |
+| +1,2 | +2,50 | G5 |
+| +1,4 | +2,90 | G9 |
+| +1,6 | +3,30 | K3 |
+| +1,8 | +3,70 | K7 |
+| +2,0 | +4,10 | M1 |
++---------------+---------+---------+
+
+Yıldızların görsel büyüklüklerinin her kataloğundan, renk indeksini ekleyerek
+fotoğrafik büyüklüklerini elde edebiliriz. Bu, yıldızın spektral türünü bildiğimiz anda bilinen bir şey olarak kabul edilebilir (_s_ ve _c_ arasındaki yüksek korelasyon katsayısını hesaba katarak). Doğrudan, 6,0'dan daha parlak bir fotoğrafik kadire sahip yıldız sayısının, bu kadirden görsel olarak daha parlak olan yıldız sayısından önemli ölçüde daha az olduğu sonucuna varabiliriz. Gerçekten de, _m_ < 6,0 olan 4701 yıldız ve _m'_ < 6,0 olan 2874 yıldız vardır.
+
+16. _Yıldızların radyal hızı._ Farklı zamanlardaki [alfa] ve
+[delta] değerlerinden, yıldızların görüş hattına dik olan öz
+hareketlerinin bileşenlerini elde ederiz. Radyal yöndeki üçüncü bileşen (_W_), DOPPLER
+ilkesiyle, spektrumdaki çizgilerin yer değiştirmesini ölçerek bulunur; bu yer değiştirme, yıldızın gözlemciden uzaklaşmasına veya gözlemciye yaklaşmasına göre kırmızıya veya mora doğru olur.
+
+Hız _W_, yıldız yılı başına siriometre cinsinden
+(sir./st.) ve dönüşümlü olarak km./sn cinsinden ifade edilecektir. Bu birimlerin dönüşüm oranı Bölüm 5'te verilmiştir.
+
+17. Burada yıldızların görünür niteliklerine ilişkin verilen açıklamaları özetlersek, bunların aşağıdaki ana gruplara atıfta bulunduğunu görürüz:--
+
+I. _Yıldızların konumu_ burada genellikle galaktik
+boylam (_l_) ve enlem (_b_) olarak verilir. Ayrıca, ekvator
+koordinatları ([alfa] ve [delta]) kısaltılmış bir gösterimle verilir ([alfa][delta]), burada ilk dört sayı saat ve dakika cinsinden sağ yükselişi, son iki sayı ise eğimi derece cinsinden verir, eğim negatifse sonuncusu italik olarak basılır.
+
+Sonunda konum, Bölüm 2'de tanımlandığı gibi galaktik kareler halinde verilir.
+
+II. _Yıldızların görünür hareketi_ sir./st. olarak ifade edilen radyal bileşenlerle (_W_) ve görüş hattına dik hareketleriyle verilecektir. Bu bileşenler galaktik düzleme paralel bir bileşenle
+(_u_0_) ve ona dik bir bileşenle (_v_0_)
+ifade edilecektir. Mesafe (_r_) biliniyorsa bu bileşenleri görüş hattına dik doğrusal hızın bileşenlerine
+(_U_ ve _V_)
+dönüştürebiliriz.
+
+III. Yıldızların _Işığının yoğunluğu_ büyüklüklerle ifade edilir. _Görünür_ büyüklük (_m_) ile _mutlak_ büyüklük (_M_) arasında ayrım yapabiliriz, ikincisi yıldızın bir siriometre
+uzağında
+olduğunu varsayarak görünür büyüklük değerine eşittir.
+
+Görünür büyüklük, bir fotoğraf plakasından elde edilen _fotoğrafik_ büyüklük
+(_m'_) veya gözle elde edilen _görsel_ büyüklük
+(_m_) olabilir.
+
+Bu büyüklükler arasındaki farka _renk-indeksi_
+(_c_ = _m'_-_m_) denir.
+
+IV. _Yıldız radyasyonunun özellikleri_ ortalama
+dalga boyu ([lambda]_0) ve dalga boyundaki
+dağılımdır ([sigma]). _Ortalama dalga boyu_ ya doğrudan belirlenebilir
+(belki de _etkili_ dalga boyu olarak) ya da spektral tipten
+(spektral indeks) veya renk indeksinden bulunabilir.
+
+Yıldızların gözlemlerden bulunabilecek sekiz niteliği vardır:--yıldızın küresel konumu (_l_, _b_), mesafesi (_r_), öz hareketi (_u_0_ ve _v_0_), radyal hız (_W_), görünür kadir (_m_ veya _m'_), mutlak kadir (_M_), spektral tür (_Sp_) veya spektral indeks (_s_) ve renk indeksi (_c_). Bunlardan renk indeksi, spektral tür, mutlak kadir ve ayrıca (belirli bir dereceye kadar) radyal hız, gözlemcinin yerinden bağımsız olarak düşünülebilir ve bu nedenle yalnızca görünür değil aynı zamanda yıldızların _mutlak_ nitelikleri olarak da düşünülebilir.
+
+Bu niteliklerden üçü (_m_, _M_ ve _r_) arasında, diğer ikisi gözlemlerden
+bulunduğu anda birinin bilindiği matematiksel bir ilişki vardır.
+
+DİPNOTLAR:
+
+[Dipnot 1: Meddelanden fran Lunds Gözlemevi, No. 41.]
+
+[Dipnot 2: Meddelanden fran Lunds Astronomiska Gözlemevi, Serie
+II, No. 14.]
+
+[Dipnot 3: Annals of the Harvard Observatory, cilt 50.]
+
+[Dipnot 4: _M_'den 1" paralaksa karşılık gelen bir mesafedeki görünen büyüklüğü çıkarmak için 3m.48 çıkarabiliriz. 0".1 paralaksa karşılık gelen büyüklüğü elde etmek için 1.57 ekleyebiliriz. İkinci mesafe, yıldız istatistikleri üzerine çalışan bazı yazarlar tarafından seçilir.]
+
+[Dipnot 5: İkinci türün en iyi renk skalası OSTHOFF'unki gibi görünüyor.]
+
+[Dipnot 6: H. A. 50 ve H. A. 56 ve L. M. II,
+19.]
+
+BÖLÜM II.
+
+ŞU ANDA YILDIZLAR HAKKINDAKİ BİLGİMİZİN KAYNAKLARI.
+
+18. Bu bölümde, yıldızların nitelikleri hakkında en eksiksiz bilginin
+elde edilebileceği yayınların kısa bir özetini, bu yayınların içerikleri ve oluşumları hakkında kısa notlarla birlikte vereceğim. Ancak, bu araştırmaların bir tarihini vermek niyetinde değilim. Yıldızların konumu, hareketleri, büyüklükleri ve spektrumlarıyla ilgili soruları daha ayrıntılı olarak ele alacağız.
+
+19. _Yıldızların yeri._ _Durchmusterungs._ Yıldızların konumuyla ilgili en eksiksiz veriler, "Durchmusterungs" olarak bilinen yıldız kataloglarından elde edilir. Birlikte tüm gökyüzünü kapsayan iki katalog vardır, biri görseldir ve Bonn'da icra edilmiştir ve _Bonner Durchmusterung_ (B. D.) olarak adlandırılır, diğeri fotoğrafiktir ve Cape _The
+Cape Photographic Durchmusterung_ (C. P. D.)'de icra edilmiştir. Bu katalogların ilki uzun zamandır gökyüzünün incelenmesi için başlıca kaynağımız olmuştur ve bir dereceye kadar hala öyledir ve ayrıca bu türdeki ilk girişimdir, ARGELANDER'in B. D.'nin girişinde anlattığı gibi kökeni ve içeriği hakkında biraz ayrıntılı bir açıklama yapacağım. B. D. İsveçli-Fin ARGELANDER (1799 Memel doğumlu) tarafından planlanmış ve icra edilmiştir. BESSEL'in bir bilgini olarak ilk önce Abo'da,
+sonra Haelsingfors'da yönetmen olarak çağrıldı ve oradan 1836'da Bonn'a gitti ve
+1852-1856 yılları arasında bu büyük _Durchmusterung_'u gerçekleştirdi.
+Enstrüman olarak 76 mm'lik bir açıklığa,
+650 mm'lik bir odak uzaklığına ve 10 kat büyütme gücüne sahip bir FRAUENHOFER kuyrukluyıldız arayıcısı kullandı.
+Görüş alanı 6 derecelik bir uzantıya sahipti.
+
+Odağın odağında ince bir camdan yapılmış yarım daire şeklinde bir parça vardı,
+kenarı (= yarım dairenin çapı) sapma dairesine paraleldi.
+Bu kenar keskin bir şekilde taşlanmıştı, böylece
+yıldız aydınlatmasında algılanabilen dar ve koyu bir çizgi oluşturuyordu.
+Bu çapa dik ("saat çizgisi"), her iki tarafında 7'lik bir mesafeden çizilmiş 10 çizgi vardı. Bu çizgiler siyah yağlı boyayla cam üzerine çizildi.
+
+Gözlemler gözlemci A ve asistanı B tarafından gerçekleştirilir. A karanlık bir odadadır, gözü göz merceğinde olacak şekilde bir sandalyede yatar ve
+kolayca 2 derecelik bir sapmaya bakabilir. Asistan,
+alttaki odada, bir tahta zeminle ayrılmış, _Thiede_ saatinde oturur.
+
+Gözlemlerin başlangıcından itibaren sapma çemberi belirli bir sapmada (tam derece) sabitlenir.
+Orta çizgiden bir dereceden daha küçük bir mesafeden alanı geçen tüm yıldızlar gözlemlenir.
+Bu nedenle "Durchmusterung" adı verilir. Bir yıldız "saat çizgisini" geçtiğinde,
+kadir A tarafından söylenir ve B tarafından saatin zamanı ile birlikte not edilir. Aynı anda sapma karanlıkta A tarafından not edilir.
+Bazı durumlarda bir dakikada 30 yıldız gözlemlenebilir.
+
+İlk gözlem Şubat ayında yapıldı. 25, 1852, sonuncusu 27 Mart 1859. Toplamda 1841 "bölge" ile 625 gözlem gecesi vardı. Toplam yıldız sayısı 324198'di.
+
+Katalog ARGELANDER tarafından 1859, 1861 ve 1862 yıllarında üç bölüm halinde yayınlandı[7] ve kutup ile ekvatorun 2 derece güneyindeki, ARGELANDER ölçeğine göre 9m.5'ten daha parlak tüm yıldızları kapsıyor (amacı 9. kadire kadar tüm yıldızları kaydetmekti).
+Bu ölçeğe daha sonra döneceğiz. Katalog, sapma derecelerine ve her derece için sağ yükselişe göre düzenlenmiştir. B. D.'den yapılan alıntılar B. D. 23 derece..174 biçimindedir ve şu anlama gelir: Bölge +23 derece, yıldız No. 174.
+
+ARGELANDER'ın çalışması, SCHOeNFELD tarafından [delta] = -2 derece ile
+[delta] = -23 derece arasındaki yıldızlar için, hemen hemen aynı plana göre, ancak daha büyük bir
+araçla (diyafram 159 mm, odak uzaklığı 1930 mm, büyütme
+gücü 26 kat) devam ettirildi. Gözlemler 1876 ila 1881 yılları arasında yapıldı
+ve 133659 yıldızı içeriyordu.[8]
+
+B. D.'deki konumlar sağ yükselişte saniyenin onda biri ve deklinasyonda dakikanın onda biri olarak verilir.
+
+20. _Cape Fotoğrafçılığı Durchmusterung_[9] (C. P. D.). Bu, -18 dereceden güney kutbuna kadar tüm güney gökyüzünü kapsar. GILL tarafından planlanan
+fotoğraflar, Cape Gözlemevi'nde 15 cm. açıklığa ve 135 cm. odak uzaklığına sahip bir DALLMEYER lensiyle çekildi. 30 x 30 cm. plakalar, 5 x 5 kare derecelik bir yüzeyin koordinatlarını verir.
+Fotoğraflar 1885 ila 1890 yılları arasında çekildi.
+Plakaların ölçümleri, Groningen'deki KAPTEYN tarafından, bu amaç için özel olarak yapılmış bir "paralaktik" ölçüm cihazıyla yapıldı ve bu, yıldızların sağ yükselişinin ve deklinasyonunun doğrudan elde edilmesini sağlar. Ölçümler 1886 ila 1898 yılları arasında yapıldı. Katalog 1896 ila 1900 yılları arasında üç bölüm halinde yayınlandı.
+
+Pozisyonlar B. D.'dekiyle aynı doğruluğa sahiptir. Toplam yıldız sayısı 454875'tir. KAPTEYN kataloğu en azından 9m.2 kadire kadar tamamlanmış olarak değerlendirir.
+
+B. D. ve C. P. D. adlı iki büyük katalogda tüm yıldızlar 9.0 kadire kadar (görsel olarak) ve bu sınırın çok altında kaydedilmiştir. Muhtemelen 10m'ye kadar.
+
+Üçüncü büyük Durchmusterung bir süredir Arjantin'deki Cordoba'da hazırlanıyor.[10] SCHOeNFELD'in güney bölgelerini devam ettiriyor ve şu anda 62 derece güney eğimine kadar tamamlanmış durumda.
+
+Tüm bu Durchmusterung'lar nihayetinde daha küçük ve büyük hassasiyete sahip yıldız kataloglarına dayanmaktadır. Bu kataloglardan burada bahsetmeyeceğiz (Ancak, Bölüm 23'ü karşılaştırın).
+
+11. kadire kadar tüm yıldızları içerecek olan büyük bir "Durchmusterung", son otuz yıldır 1888'de Paris'teki kongre tarafından önerilen farklı gözlemevlerinde devam ediyor. Gözlemler çok düzensiz ilerliyor ve işin makul bir sürede tamamlanması için çok az olasılık var.
+
+21. _Yıldız haritaları._ Şu anda tüm gökyüzünü kapsayan iki büyük fotoğrafik yıldız haritasına sahibiz: _Harvard Haritası_ (H. M.) ve _FRANKLIN-ADAMS Haritaları_ (F. A. C.).
+
+_Harvard Haritası_, cam üzerine bir kopyası (veya daha doğrusu iki kopyası) Bay PICKERING tarafından Lund Gözlemevi'nin kullanımına nazikçe sunulan
+Harvard Haritası, 11. kadire kadar tüm yıldızları kapsar. Her biri gökyüzünün 900 dereceden fazlasını kapsayan 55 plakadan oluşur.
+Fotoğraflar sadece 2,5 cm. açıklıklı ve yaklaşık 32,5 cm. odak uzaklığına sahip küçük bir mercekle çekilmiştir. Pozlama süresi bir saattir. Bu plakalar Hans HENIE tarafından Lund Gözlemevi'nde sayılmıştır. Bu sayımlara daha sonra döneceğiz.
+
+_FRANKLIN-ADAMS Haritaları_ amatör bir astronom olan
+FRANKLIN-ADAMS tarafından, kısmen İngiltere'deki kendi gözlemevinde (Mervel Hill), kısmen de Cape ve Johannesburg, Transvaal'da 1905-1912 yılları arasında yapılmıştır. Fotoğraflar 25 cm. açıklığa ve 114 cm. odak uzaklığına sahip bir _Taylor_ lensle çekildi, bu da 15 x 15 derecelik bir alanda oldukça iyi görüntüler veriyor.
+
+Tüm gökyüzü burada toplam 206 plakada yeniden üretiliyor. Her plaka 2 saat 20 dakika pozlandırıldı ve 17. kadire kadar yıldızların görüntülerini veriyor. Orijinal plakalar şu anda Greenwich'teki
+gözlemevinde. Kağıt üzerinde bazı kopyaları yapıldı, bunlardan biri Lund Gözlemevi'nde bulunuyor. 14.-15. kadire kadar yıldızları gösteriyor ve tüm gökyüzünün muhteşem bir incelemesini veriyor, hatta şu anda İsveç'te erişilebilen herhangi bir teleskopla gökyüzünün doğrudan gözlemlenmesiyle kuzey gökyüzü için bile elde edilebilecek olandan daha eksiksiz.
+
+F. A. C. Lund Gözlemevi'nin astronomları tarafından sayıldı, böylece 14. büyüklüğe kadar tüm gökyüzü için yıldız sayısının tam bir sayımı elde edildi. Daha sonra bu sayımların sonuçlarını tartışma fırsatımız olacak.
+
+Önceki paragrafta belirtilen Paris kataloğuyla bağlantılı olarak büyük bir yıldız haritası planlanıyor. Bu _Carte du Ciel_ (C. d. C. )
+hala tamamlanmamış durumda, ancak bir gün bu çalışmanın tamamlandığını görme olasılığımız var gibi görünüyor. 14. kadire kadar olan yıldızları kapsayacak ve bu nedenle F. A. C.'ye kadar ulaşmayacak, ancak
+diğer yandan önemli ölçüde daha büyük bir ölçekte gerçekleştiriliyor ve F. A. C.'den daha iyi görüntüler veriyor ve bu nedenle gelecekte, özellikle yıldızların öz hareketlerinin incelenmesi için büyük bir değere sahip olacak.
+
+22. _Yıldızların uzaklığı._ Yıllık paralakstan yıldızların uzaklıklarının belirlenmesi, uzaklık 5'i aşarsa çok tehlikelidir. ([pi] = 0".04), yıldız mesafelerinin kataloglarının sayıca az olması doğaldır. En
+eksiksiz kataloglar BIGOURDAN'ın Bulletin astronomique
+XXVI (1909), KAPTEYN ve WEERSMA'nın Groningen Nr. 24 (1910) yayınlarında 365 yıldızı kapsayan ve WALKEY'in "Journal of the
+British Astronomical Association XXVII" (1917) yayınında 625 yıldızı kapsayan kataloglarıdır.
+ADAMS'ın spektroskopik yöntemi sayesinde bu sayıyı önemli ölçüde artırmak mümkün olacaktır, böylece spektrumu iyi bilinen tüm yıldızların mesafesi makul bir doğrulukla belirlenebilir. ADAMS
+şu ana kadar 1646 paralaks yıldızı yayınlamıştır.
+
+23. _Özgün hareketler._ Yıldızların özgün hareketlerinin mükemmel bir kataloğu LEWIS BOSS'un "6188 Yıldızın Ön Genel Kataloğu" (1910) (B. P. C.). Altıncı büyüklüğe kadar tüm yıldızların (birkaç istisna dışında) ve ayrıca bazı daha sönük yıldızların uygun hareketlerini içerir. Katalog, editör tarafından yalnızca yaklaşık 25000 yıldızı kapsayacak ve artık neredeyse tamamlanmış olan daha büyük bir kataloğa yönelik bir ön çalışma olarak değerlendirilmektedir. 24. _Görsel büyüklükler._ Harvard gözlemevi, PICKERING'in yönetimi altında, ana amacını yıldızların büyüklüklerini incelemek olarak belirlemiştir ve bu gözlemevinin tarihi, aynı zamanda bu sorunun ele alınışının tarihidir. PICKERING, gerçek Amerikan tarzında, Harvard gözlemevinden görülebilen gökyüzünün üçte üçüyle yetinmemiştir, ayrıca Güney Amerika'da Peru'daki Arequipa'da bir yan gözlemevi kurmuştur. Bu nedenle, onun kutuptan kutba tüm göğü kapsayan kataloglar yayınlaması mümkündür. Yıldızların büyüklüklerinin son tam kataloğu (1908) "Annals of the Harvard
+Observatory T. 50"de (H. 50) bulunur. 9110 yıldız içerir ve 6m.5 büyüklüğe kadar tamamlanmış olarak kabul edilebilir. Bu kataloğa genellikle Lund Gözlemevi'nde kabul edilen ve bu derslerde ele alınan büyüklükler atıfta bulunulur.
+
+Çok önemli ve bir açıdan daha da kapsamlı bir görsel büyüklükler kataloğu, H. 50 ile aynı anda yayınlanan MUeLLER ve KEMPF'nin "Potsdam Genel Kataloğu"dur (P. G. C.). 14199 yıldızın büyüklüğünü içerir ve kuzey yarımküredeki 7m.5'ten daha parlak tüm yıldızları kapsar (B. D.'ye göre). H. 50 ve P. G. C.'nin sıfır noktasının biraz farklı olduğunu ve P. G. C.'deki büyüklüklerin Harvard ölçeğine düşürülmeleri için -0m.16 artırılması gerektiğini daha önce görmüştük. Ancak iki katalog arasındaki fark, Baylar MUeLLER ve KEMPF tarafından gösterildiği gibi, bir dereceye kadar yıldızların renginden kaynaklanmaktadır. 25. _Fotoğrafik büyüklükler._ Bu konu hakkındaki bilgimiz hala oldukça
+eksiktir. En kapsamlı katalog, SCHWARZSCHILD'in "Actinometrie"sidir (1912), ekvator ile +20 derecelik bir sapma arasındaki 7m.5 kadire kadar B. D.'deki tüm yıldızların fotoğrafik kadirlerini içerir. Toplamda 3522 yıldız. Ancak fotoğrafik kadirler sıfır noktası için azaltılmaz (Bölüm 6 ile karşılaştırın).
+
+Bunlar ayrıca PARKHURST'un "Yerkes actinometry" (1912) adlı çalışmasında kutba en yakın yıldızların fotometrik fotoğrafik kataloğudur[11], kutup ile 73 derecelik kuzey sapması arasındaki 7m.5'ten daha parlak B. D.'deki tüm yıldızları içerir. Toplam yıldız sayısı 672'dir.
+
+Son birkaç yıldır Harvard ve Mount Wilson gökbilimcileri, sönük yıldızlar için bir "standart fotoğrafik büyüklükler" koleksiyonu ürettiler. _Kutup dizisi_[12] olarak adlandırılan bu yıldızların hepsi
+kutbun hemen yakınında yer alır. Liste 20. büyüklüğe kadar uzatılmıştır. Ayrıca benzer standart fotoğrafik
+büyüklükler H. A. 71, 85 ve 101'de verilmiştir.
+
+_Renk-endeksi_ (_yani_, fotoğrafik ve görsel
+büyüklükler arasındaki fark) hakkında bir tartışma L. M. II, 19'da bulunabilir.
+Görsel büyüklük ve spektrum türü bilindiğinde, yukarıdaki 15. Bölümdeki tablo 1'e göre renk-endeksi eklenerek, genel olarak yeterli bir doğrulukla
+fotoğrafik büyüklük elde edilebilir.
+
+26. _Yıldız spektrumları._ Burada da Harvard Gözlemevi'nin önde gelen olduğunu görüyoruz. Görsel büyüklüklerin en eksiksiz kataloğunu içeren Harvard Gözlemevi'nin Annals'ının (H. 50) aynı cildi, oradaki tüm yıldızların tayf tiplerini de verir, _yani_, 6m.5'e kadar olan tüm yıldızlar için. Harvard Gözlemevi'ndeki Bayan CANNON, bu harika çalışma için başlıca krediyi hak ediyor. Bu sonuçla yetinmeyerek şimdi 200.000'den fazla yıldızı kapsayan daha da büyük bir çalışma yayınlıyor. Bu çalışmanın ilk dört cildi artık yayınlanmış durumda ve sağ yükselişin ilk on iki saatini içeriyor, böylece çalışmanın yarısı artık basılmış durumda.[13]
+
+27. _Radyal hız._ Bu konuda yine Amerika'nın lider ülke olduğunu görüyoruz, ancak bu sefer onurlandırmamız gereken Harvard veya Mount Wilson değil, Lick Gözlemevi. Bu gözlemevinin seçkin müdürü W. W. CAMPBELL, radyal hızların belirlenmesinde doğruluğu büyük ölçüde geliştirdi ve ayrıca bu tür belirlemeleri büyük ölçekte gerçekleştirdi. Lick Gözlemevi'nin 229 (1913) sayılı "Bülteni" 915 yıldızın radyal hızını içerir. Yıldızların niteliklerinin mümkün olduğunca kart kataloglarının toplandığı Lund Gözlemevi'nde, GYLLENBERG radyal hızlar için bu tür bir katalog hazırladı. Bu katalogdaki toplam yıldız sayısı artık 1640'tır.[14]
+
+28. Son olarak daha fazla konuyla ilgili bazı kapsamlı çalışmalardan kısaca bahsedeceğim.
+yıldız sistemi ile ilgili özel sorular.
+
+_Değişken yıldızlar_ hakkında her yıl HARTWIG tarafından şu şekilde yayınlanmaktadır:
+"Vierteljahrschrift der astronomischen Gesellschaft" tüm bunların kataloğu
+minimumları ve c'leri hakkında gerekli bilgilerle birlikte bilinen değişken yıldızlar.
+Bu, bu tür katalogların en eksiksiz ve en güvenilir olanıdır ve
+her zaman güncel. Değişkenlerin tam bir tarihsel kataloğu
+"Geschichte und Literatur des Lichtwechsels der bis Ende 1915"te verilmiştir
+als sicher veraenderlich anerkannten Sterne nebst einem Katalog der
+Elemente ihres Lichtwechsels" von G. MUeLLER ve E. HARTWIG. Leipzig
+1918, 1920.
+
+Bulutsular hakkında DREYER'in mükemmel kataloglarına, 1890 tarihli "Memoirs of the
+Astronomical Society" cilt 49'daki "New
+General Catalogue" (N. G. C.)'a, aynı
+anılarda cilt 51 ve 59'daki (1895 ve 1908) "Index catalogues" (I. C.)'a sahibiz. Bu kataloglar toplamda 13226 nesne içerir.
+
+Diğer özel niteliklerle ilgili olarak ilk olarak Harvard Gözlemevi'nin önemli Annals'ına atıfta bulunuyorum. Diğer referanslar, ihtiyaç duyuldukça aşağıda verilecektir.
+
+DİPNOTLAR:
+
+[Dipnot 7: den Astronomischen'deki "Bonner Sternverzeichnis"
+Beobachtungen auf der Sternwarte zu Bonn, Dritter bis Fuenfter Band. Bonn
+1859-62.]
+
+[Dipnot 8: "Bonner Durchmusterung", Vierte Sektion. Achter Band der
+Astronomischen Beobachtungen zu Bonn, 1886.]
+
+[Dipnot 9: "The Cape Photographic Durchmusterung", DAVID GILL ve J.
+C. KAPTEYN, Cape Gözlemevi Yıllıkları, cilt. III-V (1896-1900).]
+
+[Dipnot 10: "Cordoba Durchmusterung", J. THOME. Sonuçları
+Ulusal Arjantin Gözlemevi, cilt. 16, 17, 18, 21 (1894-1914).]
+
+[Dipnot 11: Aph. J., cilt 36.]
+
+[Dipnot 12: H. A. , cilt 71.]
+
+[Dipnot 13: H. A., cilt 91, 92, 93, 94.]
+
+[Dipnot 14: Bu yıl J. VOUTE tarafından 2071 yıldızı kapsayan bir radyal hız kataloğu yayınlandı. "İlk radyal hız kataloğu", J. VOUTE. Weltevreden, 1920.]
+
+BÖLÜM III.
+
+BİLİNEN YILDIZLARIN BAZI GRUPLARI.
+
+29. Birinci bölümde tartışılan yıldızların sekiz özelliğinin hepsinin bir yıldız için iyi bilindiği durumların sayısı çok azdır ve kesinlikle yüzü geçmez. Bu durumlar esas olarak büyük parlaklık veya büyük bir öz hareketle karakterize edilen yıldızlara atıfta bulunur. Bu yıldızların diğerlerinden daha iyi bilinmesinin başlıca nedeni, güneş sistemimize oldukça yakın olmalarıdır. Yıldızları daha genel istatistiksel bakış açılarından ele almaya geçmeden önce, öncelikle bu iyi bilinen yıldızlarla tanışmak, ancak bu yıldızların istisnai karakterini güçlü bir şekilde vurgulamak ve burada bulacağımız niteliklerden herhangi bir genelleme yapmaktan dikkatlice kaçınmak ilgi çekici olabilir. 30. _Görünüşte en parlak yıldızlar._ Yıldız gökyüzünün her tutkunu tarafından çok iyi bilinen bu nesnelerle başlıyoruz. Aşağıdaki tablo, görünür görsel büyüklüğü 1m.5'ten daha parlak olan tüm yıldızları içerir. İlk sütun mevcut sayıyı, ikinci sütun adı, üçüncü sütun ekvatoral tanımı ([alfa][delta]) verir. İlk dört rakamın sağ yükselişte saat ve dakikayı, son iki rakamın eğimi, italik yazıların negatif eğimi gösterdiğini unutmamak gerekir. Dördüncü sütun galaktik kareyi, beşinci ve altıncı sütunlar galaktik boylam ve enlemi verir. Yedinci ve sekizinci sütunlar yıllık paralaksı ve siriometre cinsinden ifade edilen karşılık gelen mesafeyi verir. Dokuzuncu sütun uygun hareketi verir ([mu]), onuncu sütun sir./st cinsinden ifade edilen radyal hız _W_'dir. (km./sn. elde etmek için 4.7375 ile çarpabiliriz). On birinci sütun görünür görsel büyüklüğü, on ikinci sütun mutlak büyüklüğü verir (_M_), _r_ yardımıyla _m_'den hesaplanır. 13. sütun spektrum türünü (_Sp_) ve son sütun fotoğrafik büyüklüğü verir (_m'_). _m'_ ile _m_ arasındaki fark renk indeksini verir (_c_).
+
+TABLO 2.
+
+_GÖRÜNÜŞE GÖRE EN PARLAK YILDIZLAR._
+
+[Yazıcının Notu: Yerden tasarruf etmek için (ad)
+([alfa][delta]) yerine kullanılır.]
+
++--+---------------------+---------+--------+-------+-------+-------+-------+-------+
+| 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
++--+---------------------+--------+-------+-------+-------+-------+-------+
+| | | Konum | Mesafe |
+| | _İsim_ |-----------+--------+-------+--------+-------+-------+
+| | | (reklam) | Kare | _l_ | _b_ | [pi] | _r_ |
++--+----------------------+---------+--------+-------+-------+-------+
+| | | | | | | | efendim. |
+| 1|Sirius |(0640{16})| GD_7 | 195 derece| - 8 derece. |0".876 | 0,5 |
+| 2|Canopus |(0621{52})| GD_8 | 229 | -24 | 0,007 | 29,5 |
+| 3|Vega |(183338) | GC_2 | 30 | +17 | 0,094 | 2,2 |
+| 4|Capella |(050945) | GC_5 | 131 | + 5 | 0,066 | 3,1 |
+| 5|Arcturus |(141119) | GA_2 | 344 | +68 | 0,075 | 2,7 |
+| 6|[alfa] Centauri |(1432{60})| GD_10 | 284 | - 2 | 0,759 | 0,3  |
+| 7|Rigel |(0509{08})|  GD_6 | 176 | -24 | 0,007 | 29.5 |
+| 8|Procyon |(073405) |  GC_7 | 182 | +14 | 0.324 |  0.6 |
+| 9|Achernar |(0134{57})|  GE_8 | 256 | -59 | 0,051 |  4.0 |
+|10|[beta] Centauri |(1356{59})|  GC_10 | 280 | + 2 | 0,037 |  5.6 |
+|11|Altay |(194508) |  GD_1 |  15 | -10 | 0,238 |  0.9 |
+|12|Betelgeuze           |(054907) |  GD_6 | 168 | - 8 | 0,030 |  6.9 |
+|13|Aldebaran |(043016) |  GD_5 | 149 | -19 | 0,078 |  2. 8 |
+|14|Pollux |(073928) | GC_6 | 160 | +25 | 0,064 | 3,2 |
+|15|Spica |(1319{10})| GB_8 | 286 | +51 | .. | .. |
+|16|Antares |(1623{26})| GC_11 | 320 | +14 | 0,029 | 7,1 |
+|17|Fomalhaut |(2252{30})| GE_10 | 348 | -66 | 0,138 | 1,5 |
+|18|Deneb |(203844) | GC_2 | 51 | + 1 | .. | .. |
+|19|Regulus |(100312) | GB_6 | 196 | +50 | 0,033 | 6,3 |
+|20|[beta] Crucis |(1241{59})| GC_10 | 270 | + 3 | 0,008 | 25,8 |
++--+--------------------+---------+--------+-------+-------+-------+-------+
+| | | | | | | | efendim. |
+| | Ortalama | .. | .. | .. | 23 derece..5|0".134 | 7,3 |
++-----+----------+----------+----------+-----+----------+----------+----------+
+
+
++-----+----------+----------+-----------+-----------+------------+----+------+
+| 1|         2 |   9 |   10 |    11 |    12 | 13 |  14 |
++--+----------------------+--------+---------+--------+-------+------+
+| | | Hareket | Büyüklük | Spektrum |
+| | _İsim_ +-------+---------+---------+-------+------+
+| | | [mu] | _W_ | _m_ | _M_ |_Sp_| _m'_ |
++--+----------------------+--------+---------+--------+-------+------+
+| | | | beyefendi/st.| | | | _m'_ |
+| 1|Sirius | 1".32| - 1.56| -1m.58 | -0m.3 |A |-1.58 |
+| 2|Canopus | 0.02| + 4.39| -0.86 | -8.2 |F |-0.40 |
+| 3|Vega | 0.35| - 2.91| 0.14 | -1.6 |A | 0.14 |
+| 4|Capella | 0.44| + 6.38| 0.21 |   -2.8 |G | 1.13 |
+| 5|Arkturus |  2.28|  - 0.82|   0.24 |   -1.9 |K | 1.62 |
+| 6|[alfa] Centauri |  3.68|  - 4.69|   0.33 |   +3.2 |G | 1.25 |
+| 7|Rigel |  0.00|  + 4.77|   0.34 |   -7.0 |B8p | 0,25 |
+| 8|Procyon |  1.24|  - 0,74|   0,48 |   +1.5 |F5 | 1.17 |
+| 9|Achernar |  0.09|   .. |   0,60 |   -2.4 |B5 | 0,87 |
+|10|[beta] Centauri |  0,04| + 2,53| 0,86 | -2,9 | B1 | 0,45 |
+|11| Altair | 0,66| - 6,97| 0,89 | +1,2 | A5 | 1,12 |
+|12| Betelgeuze | 0,03| + 4,43| 0,92 | -3,3 | Ma | 2,76 |
+|13| Aldebaran | 0,20| +11,63| 1,06 | -1,2 | K5 | 2,67 |
+|14| Pollux | 0,07| + 0,82| 1,21 | -1,3 | K | 2,59 |
+|15| Spica | 0,06| + 0,34| 1,21 | .. | B2 | 0,84 |
+|16|Antares |  0.03|  - 0,63|   1.22 |   -3.0 |Harita | 3.06 |
+|17|Fomalhaut |  0.37|  + 1,41|   1.29 |   +0,4 |A3 | 1.43 |
+|18|Deneb |  0.00|  - 0,84|   1.33 |    .. |A2 | 1.42 |
+|19|Regulus |  0.25|   .. |   1.34 |   -2.7 |B8 | 1.25 |
+|20|[beta] Haç |  0.06|  + 2,74|   1.50 |   -5.6 |B1 | 1.09 |
++--+----------------------+--------+---------+---------+-------+-------+
+| | | | | | | _m'_ |
+| | Ortalama | 0".56| 3.26| +0m.64 | -2m.1 |F1 |+1.13 |
++--+---------------------+---------+---------+---------+--------+-------+-------+
+
+([alpha][delta]), _m_, _Sp_ değerleri H'den alınmıştır. 50.
+_l_, _b_ değerleri, Lund Gözlemevi'nde hazırlanan
+tabloların yardımıyla ([alpha][delta])'dan veya orijinalden
+sondaki
+plaka I'e hesaplanarak ekvatoral
+koordinatların galaktik koordinatlara dönüştürülmesine olanak sağlanmıştır. [pi] değerleri genellikle önceki
+tablolarda belirtilen KAPTEYN ve WEERSMA'nın tablosundan alınmıştır. bölüm.
+[mu] değerleri B. P. C.'den, radyal
+hız (_W_) değerleri ise Lund'daki kart kataloğundan elde edilmiştir.
+
+Gökyüzünde, görünür kadiri 1m.5'ten daha parlak olan toplam 20 yıldız vardır. Bunların en parlağı, parlaklığı ve konumu nedeniyle tüm uygar dünya tarafından görülebilen _Sirius_'tur. _A0 tipinde bir spektruma ve dolayısıyla 0,0'a yakın bir renk endeksine sahiptir (Harvard'daki gözlemler _c_ = +0,06 verir). Görünür büyüklüğü -1m.6'dır, yani Mars'ın karşıtlığındaki büyüklüğüne neredeyse eşittir. _Mutlak büyüklüğü -0m.3'tür, _yani_, görünür kadirden daha sönüktür, bundan da bizden bir siriometreden daha küçük bir mesafede olduğu sonucuna varabiliriz. Gerçekten de, sekizinci sütundan _r_ = 0,5 olduğunu buluyoruz. Sirius'un öz hareketi yılda 1".32'dir, bu oldukça büyüktür ancak yine de aşağıda görüleceği gibi en büyük öz hareketler arasında değildir. 11. sütundan Sirius'un bize doğru 1.6 sir./st. (= 7.6 km./sn.) hızla hareket ettiğini görüyoruz, oldukça küçük bir hız. Üçüncü sütun, sağ yükselişinin 6s 40d ve sapmasının -16 derece olduğunu gösteriyor. GD_7 karesinde yer alır ve galaktik koordinatları 5. ve 6. sütunlarda görülür.
+
+Bir sonraki en parlak yıldız güney gökyüzündeki _Canopus_ veya [alfa] Carinae'dir.
+12. sütundaki _M_ (= -8.2) değerine mutlak bir güven duyabilirsek, bu yıldız gerçekte Sirius'un kendisinden çok daha etkileyici bir
+görüntü olurdu. Ayın görünen büyüklüğünün, Bölüm 6, -11.6'ya denk geliyor, Canopus'un, Sirius'a eşit bir mesafede (_r_ = 0.5 sir.) bizden uzağa yerleştirildiğinde, Ay'ınkinin en az dörtte birine eşit bir parlaklıkla parlayacağını bulmalıyız. Hayalperest bir astronomun Canopus'un aslında tüm yıldız sistemindeki merkezi yıldız olduğunu düşünmesi tamamen şaşırtıcı değil. Ancak, 8. sütundan onun varsayılan mesafesinin 30 sir'den az olmadığını buluyoruz. Yıllık paralakslardan hesaplandığında 4 sir'den daha büyük mesafelerin genellikle oldukça belirsiz olarak kabul edilmesi gerektiğini daha önce belirtmiştik. _M_ değeri _r_ değerine sıkı sıkıya bağlı olduğundan, bu değere dayalı spekülasyonların çok belirsiz olduğunu düşünmeliyiz. Bu yıldızın gerçek parlaklığı için büyük bir değere dair şüphe duymanın bir başka nedeni, son sütuna göre F0 olan spektrum türünden gelir; bu tür, görüleceği gibi, dev yıldızlar arasında nadiren bulunur. Öte yandan, büyük bir mesafe için daha iyi bir destek, bu yıldızın küçük öz hareketinden bulunabilir. Sirius ve Canopus, gökyüzündeki görünür görsel büyüklüğün negatif değerine sahip tek yıldızlardır.
+
+Uzay, bu listeyi yıldızdan yıldıza incelememize izin vermeyecektir. Bazı genel açıklamalarla
+yeterli olabiliriz.
+
+Dördüncü sütunda galaktik kare vardır. Tüm bu karelerin aynı alana sahip olduğunu ve bu nedenle karelerden birinde veya diğerinde bir yıldız bulma olasılığının aynı olduğunu aklımızda tutalım. GC ve GD kareleri galaktik ekvator boyunca (Samanyolu) uzanır. Şimdi 4. sütundan, burada ele alınan 20 yıldızdan en az 15'inin galaktik ekvator karelerinde ve yalnızca 5'inin dışarıda olduğunu, beklendiği gibi galaktik karelerde 10 ve dışarıda 10 yerine, olduğunu görüyoruz. Nesnelerin sayısı, bu dağılımdan herhangi bir kozmolojik sonuç çıkarmamıza izin vermeyecek kadar azdır, ancak aşağıdakilerde, esas olarak Samanyolu boyunca birikmiş ve galaktik kutuplarda az olan nesnelerle ilgili birçok benzer örnek bulacağız. Bu durumlarda, böyle bir bölünmeden, _genel olarak_, o zaman _güneşten uzakta bulunan_ nesnelerle, gökyüzünde eşit olarak dağılmış nesnelerin ise nispeten bize yakın olduğu sonucuna varabiliriz. Bu sonucun, tüm yıldız sayımları tarafından doğrulanan, yıldız sisteminin Samanyolu boyunca kutuplarına göre çok daha uzağa uzandığı varsayımının bir sonucu olduğunu anlamak kolaydır. Burada ele alınan küçük materyalden sonuçlar çıkarmamıza izin verebilseydik, parlak yıldızların bizden nispeten uzakta olduğuna inanmak için bir nedenimiz olurdu. Başka bir deyişle, parlak yıldızların bize yakınlıkları nedeniyle değil, büyük içsel parlaklıkları nedeniyle parlak göründüğü sonucuna varmalıyız. Sütun 8 gerçekten bu yönde eğilim gösterir. Elbette mesafeler bu durumda çok büyük değildir, ancak yine de gökyüzündeki parlak yıldızların bu eşitsiz dağılımını bir dereceye kadar göstermeye yeterlidir. Bu yıldızların ortalama mesafesi 7,5 sir kadar büyüktür. Sadece [alfa] Centauri, Sirius, Procyon ve Altair bir siriometreden daha küçük bir mesafede bulunur. Diğer yıldızlardan sistemimizden 30 siriometre kadar uzakta bulunan iki tane vardır. Bunlar iki dev olan Canopus ve Rigel'dir. Daha önce de söylendiği gibi, bu yıldızların mesafeleri belirsiz olarak kabul edilse bile, onları oldukça büyük olarak kabul etmeliyiz.
+
+8. sütun bu yıldızların bizden oldukça uzakta olduğunu gösterdiğinden, 12. sütundan da mutlak parlaklıklarının oldukça büyük olduğunu buluyoruz. Ortalama mutlak parlaklık gerçekten de -2m.1'dir. Yıldız sistemindeki yalnızca en büyük ve en parlak yıldızların mutlak parlaklığın negatif bir
+değerine sahip olduğunu göreceğiz.
+
+Parlak yıldızların öz hareketlerinin ortalama değeri yılda 0".56'dır ve oldukça büyük olarak kabul edilebilir. Gerçekten de, 6. kadire kadar yıldızların ortalama öz hareketinin bu değerin onda birine bile denk gelmediğini göreceğiz. Öte yandan, bu ortalamanın yüksek değerinin esas olarak büyük öz hareketi olan dört yıldızın etkisinden kaynaklandığını
+tablodan görüyoruz, yani Sirius, Arcturus, [alfa] Centauri ve Procyon. Diğer yıldızların öz hareketi yılda 1"'den küçüktür ve yıldız sayısının yarısı için öz hareket yaklaşık 0".05'tir, bu da onların nispeten büyük mesafelerini gösterir.
+
+Bu yıldızların mutlak hızının gerçekten de oldukça küçük olduğu, ortalama olarak yıldız yılı başına sadece üç siriometreye denk gelen radyal hızlarını veren 10. sütundan bulunabilir. Aşağıdaki yıldızların radyal hızlarının tartışmasından Bunun oldukça küçük bir rakam olduğunu göreceğiz. Bu gerçek, daha sonra döneceğimiz istatistiksel mekanikteki genel yasayla sıkı sıkıya bağlantılıdır; büyük kütleli yıldızların genellikle küçük bir hıza sahip olduğu. Dolayısıyla radyal hızlarda, mesafeden bağımsız olarak, bu parlak yıldızların yıldız sistemimizdeki yıldızlar arasında devler olduğuna dair yeni kanıtlar buluyoruz. Tüm ana spektral tiplerin parlak yıldızlar arasında temsil edildiğini görüyoruz. Helyum yıldızlarına (B) Rigel, Achernar, [beta] Centauri,
+Spica, Regulus ve [beta] Crucis aittir. Sirius tipine (A) Sirius,
+Vega, Altair, Fomalhaut ve Deneb aittir. Kalsiyum tipine (F) Canopus ve
+Procyon. Güneş tipine (G) Capella ve [alfa] Centauri aittir. K-tipine Arcturus, Aldebaran ve Pollux ve M-tipine iki kırmızı
+yıldız Betelgeuze ve Antares aittir. Spektral endeksleri spektral tipler için bir ifade olarak kullandığımızda bu yıldızların ortalama spektral endeksinin F1 spektral tipine karşılık gelen +1.1 olduğunu görüyoruz.
+
+31. _En büyük öz hareketi olan yıldızlar._ Tablo 3'te yılda 3"ten fazla öz hareketi olan yıldızları topladım.
+Tanımlamalar önceki tablodakiyle aynıdır, ancak
+yıldızların adları burada farklı kataloglardan alınmıştır.
+
+Geçtiğimiz yüzyılın astronomi literatüründe 1830 Groombridge yıldızının bilinen en büyük öz hareketi olan yıldız olarak tasarlandığını görüyoruz.
+Şimdi, 1897 yılında KAPTEYN ve INNES tarafından Cape Photographic Durchmusterung için alınan plakalarda keşfedilen C. P. D. 5h.243 adlı iki başka yıldızla
+uzaklaşıyor ve 1916'da keşfedilen Ophiuchus'taki BARNARD yıldızı. Şu anda bilinen en büyük öz harekete sahip olan son bahsedilen yıldız çok sönüktür, sadece 10. kadirdir ve güneşimizden 0,40 sir. uzaklıktadır ve bu nedenle, tablo 5'ten görüleceği gibi, mesafesini bildiğimiz üçüncü en yakın yıldızdır. 10. sütundan öğreneceğimiz gibi doğrusal hızı da çok büyüktür ve güneş yönünde 19 sir./st. (= 90 km./sn.)'ye ulaşır. Bu yıldızın mutlak kadiri 11m.7'dir ve bir tanesi hariç, şu anda bilinen en sönük yıldızdır. Spektral tipi Mb'dir, bu da hafızamızda sabitlenmeye değer bir gerçektir, çünkü çeşitli nedenler, en sönük yıldızları içerenin tam olarak M tipi olduğuna dair inancı desteklemektedir. Görünür hızı (_yani_, öz
+hareket) o kadar büyüktür ki yıldız 1000 yılda 3 derece veya ayın çapının 6 katı kadar hareket eder. Bu yıldız için ve tabloda yer alan en yakın komşuları için, yalnızca bir yıl farklılık gösteren gözlemler, öz hareketin değerinin yaklaşık olarak belirlenmesi için yeterlidir; diğer durumlarda bunun için onlarca yıl gerekir.
+
+Bu yıldızların gökyüzündeki dağılımına ilişkin olarak, en parlak yıldızların aksine, Samanyolu boyunca yoğunlaşmadıklarını görüyoruz. Aksine, galaktik ekvator karelerinde yalnızca 6 ve diğer karelerde 12 tane buluyoruz. Dağılımdaki bu düzensizlik üzerine herhangi bir sonuca varmayacağız, ancak önceki paragrafın genel teziyle desteklenerek yalnızca bu yıldızların bize nispeten yakın olması gerektiği sonucuna varıyoruz. Bu, aslında doğrudan sütun 8'den kaynaklanmaktadır, çünkü bu yıldızlardan en az on biri güneşimizden bir siriometre uzaklıkta yer almaktadır. Ortalama uzaklıkları 0,87 sir'dir.
+
+TABLO 3.
+
+_EN BÜYÜK ÖZ HAREKETE SAHİP YILDIZLAR._
+
+[Yazıcının Notu: Yerden tasarruf etmek için (ad)
+([alfa][delta]) yerine kullanılır.]
+
++--+--------------------+--------+-------+-------+-------+-------+-------+-------+
+| 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
++--+---------------------+---------+--------+-------+-------+-------+-------+
+| | | Konum | Mesafe |
+| | _İsim_ |-----------+--------+-------+-------+-------+
+| | | (reklam) | Kare | _l_ | _b_ | [pi] | _r_ |
++-----+----------+----------+----------+-----+----------+----------+----------+
+|  |                     |          |        |     |       |       | Sayın.  |
+| 1|Barnard yıldızı |(175204) |  GC_12 | 358 derece| +12 derece.  |0".515 | 0.40 |
+| 2|C. Z. 5h.243 |(0507{44})| GE_7 | 218 | -35 | 0.319 | 0.65 |
+| 3|Groom. 1830 |(114738) | GA_1 | 135 | +75 | 0.102 | 2.02 |
+| 4|Lac. 9352 |(2259{36})| GE_10 | 333 | -66 | 0.292 | 0.71 |
+| 5|C. G. A. 32416 |(2359{37})| GF_2 | 308 | -75 | 0.230 | 0.89 |
+| 6|61 Cygni             |(210238) |  GD_2 |  50 | - 7 | 0.311 |  0,66 |
+| 7|Lal. 21185 |(105736) |  GB_5 | 153 | +66 | 0.403 |  0.51 |
+| 8|[epsilon] Hindistan |(2155{57})|  GE_9 | 304 | -47 | 0,284 |  0,73 |
+| 9|Lal. 21258 |(110044) |  GB_4 | 135 | +64 | 0.203 |  1.02 |
+|10|O^2 Eridani |(0410{07})|  GE_5 | 168 | -36 | 0.174 |  1.19 |
+|11|Proxima Centauri |(1422{62})|  GD_10 | 281 | -2 | 0,780 |  0.26 |
+|12|Ör. A.14320 |(1504{15})|  GB_9 | 314 | +35 | 0,035 |  5.90 |
+|13|[mu] Cassiopeiae |(010154) |  GD_4 |  93 | - 8 | 0.112 |  1.84 |
+|14|[alfa] Centauri |(1432{60})|  GD_10 | 284 | -2 | 0,759 |  0.27 |
+|15|Lak. 8760 |(2111{39})|  GE_10 | 332 | -44 | 0,248 |  0.83 |
+|16|Lak. 1060 |(0315{43})|  GE_7 | 216 | -55 | 0.162 |  1.27 |
+|17|Ör. A.11677 |(111466) |  GB_8 | 103 | +50 | 0,198 |  1.04 |
+|18|Van Maanens yıldızı |(004304) |  GD_8 |  92 | -58 | 0.246 |  0. 84 |
++--+----------------------+---------+-------+-------+-------+-------+-------+
+| | | | | | | efendim. |
+| | Ortalama | .. | .. | | 41 derece. |0".298 | 0,87 |
++-----+----------+----------+----------+-----+----------+----------+----------+
+
+
++-----+----------+----------+-----------+-----------+------------+----+------+
+| 1|         2 |   9 |   10 |    11 |    12 | 13 |  14 |
++--+----------------------+--------+---------+--------+-------+------+
+| | | Hareket | Büyüklük | Spektrum |
+| | _İsim_ +-------+---------+---------+-------+------+
+| | | [mu] | _W_ | _m_ | _M_ |_Sp_| _m'_ |
++--+----------------------+--------+---------+--------+-------+------+
+| | | | beyefendi/st.| | | | _m'_ |
+| 1|Barnards yıldızı |10".29| -19 | 9m.7 | +11m.7|Mb |11.5 |
+| 2|C. Z. 5h.243 | 8.75| +51 | 9.2 | +10.1 |K2 |10.6 |
+| 3|Damat. 1830 | 7.06| -20 | 6.5 | +5.0 |G5 | 7.6 |
+| 4|Lac. 9352 | 6.90|   +2 |     7.5 |    +8.2 |K | 8.9 |
+| 5|C. G.A.32416 |  6.11|   +5 |     8.2 |    +8.5 |G | 9.1 |
+| 6|61 Kuğu |  5.27|  -13 |     5.6 |    +6.5 |K5 | 7.2 |
+| 7|Lal. 21185 |  4.77|  -18 |     7.6 |    +9.1 |Mb | 8.9 |
+| 8|[epsilon] Hindistan |  4.70|   -8 |     4.7 |    +5.4 |K5 | 6.3 |
+| 9|Lal. 21258 |  4.47|  +14 |     8.5 |    +8.5 |Ma |10.3 |
+|10|O^2 Eridani |  4.11|   -9 |     4.7 |    +4.3 |G5 | 5.8 |
+|11|Proksima Centauri |  3.85|   .. |    11.0 |   +13,9 |.. |13,5 |
+|12|Ör. A.14320 |  3.75|  +61 |     9.0 |    +5.1 |G0 | 9.9 |
+|13|[mu] Cassiopeiae |  3.73|  -21 |     5.7 |    +4.4 |G3 | 6.8 |
+|14|[alfa] Centauri |  3.68|   -5 |     0.3 |    +3.2 |G | 1.2 |
+|15|Lak. 8760 |  3.53|   +3 |     6.6 |    +7.0 |G | 7.5 |
+|16|Lak. 1060 |  3.05|  +18 |     5.6 |    +5.1 |G5 | 6.7 |
+|17|Ör. A.11677 |  3.03|   .. |     9.2 |    +9.1 |Ma |11.0 |
+|18|Van Maanens yıldızı |  3.01|   .. |    12.3 |   +12,7 |F0 |12,9 |
++-----+----------+----------+-----------+-----------+------------+----+------+
+|  |                     |      |efendim./st.|         |         |    | _m'_ |
+|  |   Ortalama | 5".00| 17.8 | 7m.3 | +7m.6|G8 | 8.7 |
++--+---------------------+--------+---------+---------+--------+-------+-------+
+
+Büyük öz hareketin yalnızca bu yıldızların yakınlığına bağlı olmadığı, radyal hızları veren
+10. sütundan görülebilir. Bazı
+yıldızlar için (4) radyal hız şu an için bilinmezdir,
+ancak diğerleri, birkaç istisna dışında, ortalamada 18 sir./st. (= 85 km./sn.)'ye ulaşan oldukça büyük bir hıza sahiptir, işaret dikkate alınmazsa,
+güneşin mutlak hızının neredeyse beş katı kadar büyük bir değerdir. Bu yalnızca görüş
+hattı, mutlak hız hala daha büyüktür, yaklaşık olarak bileşen hızın [karekök]2 ile çarpılmasına eşittir. Şu sonuca varıyoruz ki
+büyük öz hareketler kısmen yakınlığa, kısmen de yıldızların
+büyük doğrusal hızlarına bağlıdır. Buradaki her iki niteliğin
+gerçekten birlikte çalıştığı mutlak büyüklüklerden (_M_) görülebilir.
+
+Görünür ve mutlak büyüklükler bu yıldızlar için neredeyse eşittir, her ikisi için ortalamalar yaklaşık 7m'dir. Bu, bu yıldızların ortalama mesafesinin bir siriometreye eşit olmasının bir sonucudur, bu mesafede _m_ ve _M_ gerçekten de çakışır. Bu yıldızların
+küçük bir parlaklığa sahip olduğunu ve
+_cüce_ yıldızlar olarak kabul edilebileceğini buluyoruz. İstatistiksel mekaniğin genel yasasına göre
+daha önce bahsedilen küçük cisimlerin ortalama olarak büyük bir mutlak
+hızı vardır, bunu gerçekten de bu yıldızların gözlemlenen radyal
+hızlarından
+daha önce bulduk. Spektral türe gelince, büyük öz hareketleri olan yıldızların hepsi sarı veya kırmızı yıldızlardır. Ortalama spektral indeks +2,8'dir ve G8 tipine karşılık gelir. Farklı tipteki yıldızlar bir araya getirilirse şu tabloyu elde ederiz
+
+_Tür_ _Sayı_ _M'nin ortalama değeri_
+G 8 5,3
+K 4 7,5
+M 4 9,6
+
+En azından bu yıldızlar için, mutlak kadirin ortalama değerinin spektral indeksle birlikte arttığı sonucuna varıyoruz. Ancak bu sonuç
+genel olarak geçerli değildir.
+
+32. _En büyük radyal hızlara sahip yıldızlar._ Çok büyük radyal hız değerlerinin bulunduğu bazı bulutsu türleri vardır. Şimdilik bunlarla ilgilenmeyeceğiz, ancak kendimizi yıldızlarla sınırlayacağız. Şimdiye kadar bulunan en büyük radyal hız, Perseus takımyıldızındaki sekizinci kadirdeki yıldıza (040822) aittir ve bizden 72
+sir./st. veya 341 km./sn. hızla uzaklaşır. En yakın hız, yaklaşık olarak aynı hızla bize yaklaşan yıldızın (010361) hızıdır. Aşağıdaki tablo, radyal hızı 20
+sir./st.'den (= 94.8 km./sn.) büyük olan tüm yıldızları içerir. Yukarıda belirtilen VOUTE
+kataloguna dayanmaktadır.
+
+Gökyüzündeki dağılımlarına gelince, galaktik
+ekvator karelerinde 11 ve dışında 7 tane buluyoruz. Bu nedenle büyük bir radyal hız, galaktik bir fenomen gibi görünüyor ve bizden çok uzak bir mesafeyle ilişkili. Dikkate alınan 18 yıldızdan yalnızca biri bir siriometreden daha küçük bir mesafede ve 2 tanesi de 4 siriometreden daha küçük bir mesafede. Daha yakın olanlar arasında, büyük öz hareketi olan "ikinci" yıldız olan C. P. D. 5h.243 ile aynı olan (050744) yıldızını buluyoruz. Bu yıldızlar aynı anda en büyük öz harekete ve çok büyük doğrusal hıza sahiptir. Genellikle 9. sütundan, büyük radyal hıza sahip bu yıldızların ayrıca büyük bir öz harekete sahip olduğunu görüyoruz. Öz hareketlerin ortalama değeri 1".34'tür, çok yüksek bir değerdir.
+
+Tabloda büyük görünür parlaklığa sahip hiçbir yıldız bulamayız.
+En parlak olanı, tabloda kadiri 5.1 olan 10. yıldızdır.
+Ortalama görünür kadir 7.7'dir. Mutlak kadire (_M_) gelince, bu hızlı yıldızların çoğunun ve tablo 3'teki büyük öz hareketlere sahip yıldızların oldukça büyük bir _pozitif_ kadire sahip olduğunu ve
+bu nedenle kesinlikle sönük yıldızlar olduğunu görüyoruz, ancak belki de doğrudan cüce yıldız olarak kabul edilmeyebilirler. Ortalama mutlak kadirleri +3.0'dır.
+
+Spektruma gelince, bu yıldızların genellikle sarı veya kırmızı tiplere (G, K, M) ait olduğunu görüyoruz, ancak 6 F yıldızı ve ilginç bir şekilde iki A yıldızı var. Tiplerinin (A2 ve A3) belirlenmesinden sonra, _p_ harfi (= tuhaf) gelir ve bu, spektrumun Bazı
+bakımlar bu türdeki spektrumun olağan görünümünden farklıdır.
+Mevcut durumdaki tuhaflık, magnezyumdan yayılan ve Sirius'un spektrumunda III. plakada bulabileceğimiz
+448.1 dalga boyundaki bir çizginin, bu yıldızların spektrumunda oluşmamasıdır, ancak spektrumun Sirius yıldızlarındakiyle aynı görünümü vardır. Bu çizginin yokluğunun bu yıldızlarda düşük bir radyasyon gücüne (düşük sıcaklığa) işaret ettiğini varsaymak için sebepler vardır (ADAMS ile karşılaştırın).
+
+TABLO 4.
+
+_EN BÜYÜK RADYAL HIZA SAHİP YILDIZLAR._
+
+[Yazıcının Notu: Yerden tasarruf etmek için (ad), [alfa][delta]) yerine kullanılır. ]
+
++--+---------------------+---------+-------+-------+-------+-------+-------+-------+
+| 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
++--+---------------------+---------+--------+-------+-------+-------+
+| | | Konum | Mesafe |
+| | _İsim_ |-----------+--------+-------+--------+-------+-------+
+| | | (reklam) | Kare | _l_ | _b_ | [pi] | _r_ |
++--+----------------------+---------+--------+-------+-------+-------+
+| | | | | | | | efendim. |
+| 1|A. G. Berlin 1366 |(040822) | GD_5 | 141 derece| -20 derece. |0".007 | 30,8 |
+| 2|Lal. 1966 |(010361) |  GD_4 |  93 | -2 | 0,016 | 12.9 |
+| 3|A. Ah. 14320 |(1504{15})|  GB_9 | 314 | +35 | 0,035 |  5.9 |
+| 4|C. Z. 5h.243 |(0507{44})|  GE_7 | 218 | -35 | 0.319 |  0.6 |
+| 5|Lal. 15290 |(074730) |  GC_6 | 158 | +26 | 0,023 |  9.0 |
+| 6|53 Cassiop.          |(015563) |  GC_4 |  98 | + 2 |  .. |  .. |
+| 7|A. G. Berlin 1866 |(055719) |  GD_6 | 159 | -2 | 0,021 |  9.8 |
+| 8|W Lyrae |(181136) |  GC_2 |  31 | +21 |  .. |  .. |
+| 9|Patron 1511 |(0559{26})|  GD_7 | 200 | -20 | 0,012 | 17.0 |
+|10|[omega] Pavoniler |(1849{60})|  GD_11 | 304 | -24 |  .. |  .. |
+|11|A. Ah. 20452 |(2017{21})|  GE_10 | 351 | -31 | 0,015 | 13.5 |
+|12|Lal. 28607 |(1537{10})|  GB_10 | 325 | +34 | 0,033 |  6.2 |
+|13|A. G. Leiden 5734 |(161132) |  GB_1 |  21 | +45 | 0,002 | 89.2 |
+|14|Lal. 37120 |(192932) |  GC_2 |  33 | + 6 | 0,050 |  4.1 |
+|15|Lal. 27274 |(1454{21})|  GB_9 | 308 | +34 | 0,013 | 16.2 |
+|16|Lal. 5761 |(030225) | GD_5 | 126 | -28 | 0,039 | 5,1 |
+|17|W. B. 17h.517 |(172906) | GC_12 | 358 | +20 | 0,014 | 14,1 |
+|18|Lal. 23995 |(1247{17})| GB_8 | 271 | +46 | 0,012 | 17,0 |
++--+---------------------+---------+--------+--------+-------+-------+
+| | | | | | | | efendim. |
+| | Ortalama | .. |   .. |     |  23 derece..9|0".041 | 16,7 |
++-----+----------+----------+----------+-----+----------+----------+----------+
+
+
++-----+----------+------+-----------+-----------+------------+----+------+
+| 1|         2 |   9 |   10 |    11 |    12 | 13 |  14 |
++--+----------------------+--------+---------+--------+-------+------+
+| | | Hareket | Büyüklük | Spektrum |
+| | _İsim_ +-------+---------+---------+-------+------+
+| | | [mu] | _W_ | _m_ | _M_ |_Sp_| _m'_ |
++--+----------------------+--------+---------+--------+-------+------+
+| | | | beyefendi/st.| | | | _m'_ |
+| 1|A. G. Berlin 1366 | 0".54| +72 | 8m.9 | +1m.4 |F0 | 9.4 |
+| 2|Lal. 1966 | 0.64| -69 | 7.9 | +2.3 |F3 | 8.5 |
+| 3|A. Oe. 14320 | 3.75| +61 | 9.0 | +5.1 |G0 | 9.9 |
+| 4|C. Z.5h.243 |  8.75|  +51 |   9.2 |  +10.1 |K2 |10.6 |
+| 5|Lal. 15290 |  1.96|  -51 |   8.2 |   +3.4 |G0 | 9.1 |
+| 6|53 Cassiop.          |  0.01|  -44 |   5.6 |    .. |B8 | 5.5 |
+| 7|A. G.Berlin 1866 |  0.76|  -40 |   9.0 |   +4.0 |F0 | 9.9 |
+| 8|W Lyrae | .. |  -39 |   var.  |    .. |Md | var. |
+| 9|Patron 1511 |  0.10|  +39 |   5.2 |   -1.0 |G5 | 6.4 |
+|10|[omega] Pavoniler |  0.14|  +38 |   5.1 |    .. |K | 6.5 |
+|11|A. Ah. 20452 |  1.18|  -38 |   8.1 |   +2.4 |G8p | 9.4 |
+|12|Lal. 28607 |  1.18|  -36 |   7.3 |   +3.3 |A2p | 7.4 |
+|13|A. G.Leiden 5734 |  0.04|  -35 |   8.3 |   -1.5 |K4 | 9.9 |
+|14|Lal. 37120 |  0.52|  -34 |   6.6 |   +3.5 |G2 | 7.6 |
+|15|Lal. 27274 |  0,79|  +34 |   8.3 |   +2.2 |F4 | 8.9 |
+|16|Lal. 5761 |  0.86|  -32 |   8.0 |   +4.4 |A3p | 8.1 |
+|17|W. B.17h.517 |  0.63|  -31 |   8.6 |   +2.8 |F1 | 9.1 |
+|18|Lal. 23995 |  0.88|  +30 |   8.2 |   +2.0 |F3 | 8.8 |
++--+---------------------+--------+--------+-------- -+---------+-----+------+
+| | | | |efendim/st.| | | | _m'_ |
+| | Ortalama | 1".34| 16,7 | 7m.7 | +3m.0 |F9 | 8,5 |
++--+----------------------+---- --+---------+----------+--------+------+
+
+33. _En yakın yıldızlar. _ Centaurus'taki [alfa] yıldızı uzun süre
+tüm yıldızların en yakını olarak kabul edildi. 0".75'lik bir paralaksa sahiptir,
+bu da 0.27 siriometrelik (= 4.26 ışık yılı) bir mesafeye karşılık gelir.
+Bu mesafe yıllık paralakstan elde edilir büyük bir doğrulukla
+ve sonuç ayrıca başka bir şekilde de doğrulanmıştır ([alfa] Centauri'nin yoldaşının
+yörüngesinin incelenmesinden). 1916 yılında INNES, Transvaal'daki Johannesburg gözlemevinde, gökyüzünde [alfa] Centauri'yi takip ediyor gibi görünen ve her durumda aynı mesafede bulunan 10. büyüklükte bir yıldız keşfetti. dünya veya biraz daha yakın. Şu anda _Proxima Centauri_--yıldızın INNES tarafından adlandırıldığı gibi--veya [alfa] Centauri'nin bizim en yakın komşumuz olup olmadığına kesin olarak karar vermek mümkün değil. Sonra
+BARNARD'ın yıldızı (175204) gelir, büyük Öz hareketten daha önce bahsetmiştik. 5 numara olarak Sirius'u, 8 numara olarak Procyon'u, 21 numara olarak Altair'i buluyoruz.
+Diğerleri üçüncü büyüklükte veya daha sönük. No. 10--61 Cygni--özellikle ilgi çekicidir, çünkü astronomların,
+boşa giden uzun ve acılı çabalardan sonra, yıllık paralaks yardımıyla mesafeyi belirlemeyi başardıkları ilk yıldızdır (BESSEL 1841).
+
+Sütundan 4 Bu yıldızların gökyüzündeki dağılımının tahmin edilebileceği gibi oldukça düzgün olduğunu görüyoruz. Tüm bu yıldızların büyük bir öz hareketi vardır, bu da yılda ortalama 3".42'dir. Bu, büyük yakınlıklarından dolayı a
+priori olarak beklenen bir şeydi. Radyal hız, sayısal olarak, varsayılabilecek olandan daha büyüktür. Bu gerçek muhtemelen bu yıldızların genel olarak küçük kütlesiyle ilişkilidir.
+
+Görünür büyüklükleri ortalama 6,3'tür. Yakın
+yıldızların en parlağı Sirius'tur (_m_ = -1,6), en sönük olanı ise Proxima Centauri'dir (_m_ =
+11). Sistematik araştırmalarla astronomlar olarak emin olabiliriz ki
+bir siriometreden daha küçük bir mesafede,
+mesafeleri henüz bilinmeyen ve iyi belirlenmeyen parlak yıldızlar yoktur.
+Aşağıdaki
+tablo şüphesiz ki--bunlara kısaca tüm
+_yakın_ yıldızlar diyebiliriz--tüm bizden bir siriometre uzaklıktaki yıldızlar
+görünür parlaklığı 6m'den daha büyük olan (tabloda 8 tane böyle yıldız var) ve muhtemelen
+ayrıca hepsi 7m'den daha parlak olan yakın yıldızlar (10 yıldız) veya sekizinci kadirden daha parlak olanların hepsi (tabloda 13 tane böyle yıldız ve iki tanesi sınıra yakın)
+olmaktadır. Sekizinci kadir veya daha sönük yıldızlarla ilgili olarak yıllık paralaksın sistematik bir araştırması yapılmamıştır ve
+bu yıldızlar arasında zaman zaman
+güneşin civarındaki siriometre küresine ait yeni bir yıldız elde edebiliriz.
+Bu küre içindeki toplam yıldız sayısını belirlemek
+yıldız istatistiklerindeki temel problemlerden biridir ve bu soruya hemen
+geri döneceğim .
+
+TABLO 5.
+
+_EN YAKIN YILDIZLAR._
+
+[Yazıcının Notu: Yerden tasarruf etmek için (ad)
+([alfa][delta]) yerine kullanılır. ]
+
++--+----------------------+---------+-------+-------+-------+-------+-------+-------+
+| 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
++--+----------------------+--------+--------+-------+-------+-------+
+| | | Konum | Mesafe |
+| | _İsim_ |-----------+-------+-------+--------+-------+-------+
+| | | (reklam) | Kare | _l_ | _b_ | [pi] | _r_ |
++--+-----------------------+---------+--------+-------+-------+-------+
+| | | | | | | | efendim. |
+| 1|Proxima Centauri |(1422{62})| GD_10 | 281 derece| - 2 derece. |0".780 | 0,26 |
+| 2|[alfa] Centauri |(1432{60})| GD_10 | 284 | - 2 | 0,759 | 0,27 |
+| 3|Barnards p. m. yıldızı |(175204) | GC_12 | 358 | +12 | 0,515 | 0,40 |
+| 4|Lal. 21185 |(105736) | GB_5 | 153 | +66 | 0,403 | 0,51 |
+| 5|Sirius |(0640{16})| GD_7 | 195 | - 8 | 0,376 | 0,55 |
+| 6| .. |(1113{57})| GC_6 | 158 | + 3 | 0.337 |  0,60 |
+| 7|[tau] Ceti |(0139{16})|  GF_1 | 144 | -74 | 0.334 |  0,62 |
+| 8|Procyon |(073405) |  GC_7 | 182 | +14 | 0.324 |  0,64 |
+| 9|C. Z. 5h.243 |(0507{44})|  GE_7 | 218 | -35 | 0,319 |  0,65 |
+|10|61 Kuğu |(210238) |  GD_2 |  50 | - 7 | 0.311 |  0,66 |
+|11|Lal. 26481 |(1425{15})|  GB_9 | 124 | -40 | 0,311 | 0,66 |
+|12|[epsilon] Eridani |(0328{09})| GE_5 | 153 | -42 | 0,295 | 0,70 |
+|13|Lac. 9352 |(2259{36})| GE_10 | 333 | -66 | 0,292 | 0,71 |
+|14|Poz. Orta. 2164 |(184159) | GC_2 | 56 | +24 | 0,292 | 0,71 |
+|15|[epsilon] Indi |(215557) | GE_9 | 304 | -47 | 0,284 | 0,73 |
+|16|Damat. 34 |(001243) |  GD_3 |  84 | -20 | 0,281 |  0,73 |
+|17|Ör. A.17415 |(173768) |  GC_8 |  65 | +32 | 0.268 |  0,77 |
+|18|Krueger 60 |(222457) |  GC_3 |  72 |   0 | 0.256 |  0.81 |
+|19|Lak. 8760 |(2111{39})|  GE_10 | 332 | -44 | 0,248 |  0,88 |
+|20|van Maanens s. M. yıldız|(004304) |  GE_3 |  92 | -58 | 0.246 |  0,84 |
+|21|Altair |(194508) | GD_1 | 15 | -10 | 0,238 | 0,87 |
+|22|C. G. A. 32416 |(2359{37})| GF_2 | 308 | -75 | 0,230 | 0,89 |
+|23|Bradley 1584 |(1129{32})| GC_6 | 252 | +28 | 0,216 | 0,95 |
++--+---------------------+---------+--------+--------+-------+-------+-------+
+| | | | | | | | efendim. |
+| | Ortalama | .. | .. | .. | 30 derece..8|0".344 | 0,67 |
++--+---------------------+---------+-------+-------+-------+-------+-------+-------+
+
++--+------------------------+--------+-------+-------+-------+
+| 1| 2 | 9 | 10 | 11 | 12 | 13 | 14 |
++--+------------------------+---------+---------+--------+-------+------+
+| | | Hareket | Büyüklük | Spektrum |
+| | _İsim_ +-------+---------+---------+-------+------+
+| | | [mu] | _W_ | _m_ | _M_ |_Sp_| _m'_ |
++--+------------------------+---------+---------+--------+------+------+
+| | | | beyefendi./st.| | | | _m'_ |
+| 1|Proxima Centauri | 3".85| .. | 11m.0 | +13m.9 |.. |13.5 |
+| 2|[alfa] Centauri | 3.68| - 5 | 0.33 | + 3.2 |G | 1.25 |
+| 3|Barnards p. m. yıldızı | 10.29| -19 | 9.7 | +11.7 |Mb |11.5 |
+| 4|Lal. 21185 |  4.77|  -18 |   7.6 |  + 9.1 |Mb | 8.9 |
+| 5|Sirius |  1.32|  -2 |  -1.58 |  - 0,3 |A |-1,58 |
+| 6|            .. |  2.72|   .. |  .. |  .. |.. |12.5 |
+| 7|[tau] Ceti |  1.92|  - 3 |   3.6 |  + 4.6 |K0 | 4.6 |
+| 8|Procyon |  1.24|  - 1 |   0,48 |  + 1.5 |F5 | 0,90 |
+| 9|C. Z. 5 saat. 243 |  8.75|  +51 |   9.2 |  +10.1 |K2 |10.6 |
+|10|61 Kuğu |  5.27|  -13 |   5.6 |  + 6.5 |K5 | 7.2 |
+|11|Lal. 26481 |  0.47|   .. |   7.8 |  + 8.7 |G5 | 8.9 |
+|12|[epsilon] Eridani |  0.97|  + 3 |   3.8 |  + 4.6 |K0 | 4.8 |
+|13|Lak. 9352 |  6.90|  + 2 |   7.5 |  + 8.2 |K | 8.9 |
+|14|Konum. Med. 2164 |  2.28|   .. |   8.9 |  + 9.6 |K |10.3 |
+|15|[epsilon] Hindistan |  4.70|  - 8 |   4.7 |  + 5.4 |K5 | 6.3 |
+|16|Damat. 34 |  2,89|  + 1 |   8.1 |  + 8.8 |Ma | 9.5 |
+|17|Ör. A.17415 |  1.30|   .. |   9.1 |  + 9.7 |K |10.5 |
+|18|Krueger 60 |  0.94|   .. |   9.2 |  + 9.6 |K5 |10.8 |
+|19|Lak. 8760 |  3.53|  + 3 |   6.6 |  + 7.0 |G | 7.5 |
+|20|van Maanens s. M. yıldız |  3.01|   .. |  12.3 |  +12,7 |F0 |12,9 |
+|21|Altar |  0.66|  - 7 |   0.9 |  + 1.2 |A5 | 1.12 |
+|22|C. G.A.32416 |  6.11|  + 5 |   8.2 |  + 8,5 |G | 9.1 |
+|23|Bradley 1584 |  1.06|  - 5 |   6.1 |  + 6.2 |G | 6.9 |
++-----+---------------+----------+-----------+------ ---+------------+----+------+
+|  |                       |      |efendim./st.|         |         |    | _m'_ |
+| | Ortalama | 3".42| 9,1 | 6m.3 | +7m.3 |G6 | 7,5 |
++--+-------------------------+-- ----+---------+----------+--------+------+
+
+Ortalama mutlak büyüklük yakın yıldızların dağılımı şu şekildedir:--
+
+_M_ 0 1 3 4 5 6 7 8 9 10 11 12 13
+Sayı 1 2 1 2 1 2 1 4 4 1 1 1 1.
+
+Yakın yıldızların mutlak büyüklüğü nedir tabloda yer almayan
+yıldızlar? Açıkça bunlar esas olarak sönük yıldızlar olmalı. Daha da ileri gidebilir ve _mutlak bir büyüklüğe sahip tüm yıldızların 6m'den
+daha parlak_ bu listede yer almalıdır. Çünkü eğer _M_ 6'ya eşitse veya
+daha parlaksa, _m_ 6m'den daha parlak olmalıdır, eğer yıldız bir
+siriometreden daha yakınsa. Fakat görünüşte
+6m'den daha parlak olan tüm yıldızların bilindiğini ve listede yer almaktadır. Dolayısıyla, 6m'den
+_kesinlikle_ daha parlak olan tüm yıldızlar da tablo 5'te bulunmalıdır. Şu sonuca varıyoruz ki
+6m'den
+mutlak parlaklığa sahip yıldızların sayısı
+8'e ulaşır.
+
+Son olarak, yakın yıldızların tayf türü düşünüldüğünde, tablonun son sütunundan bu yıldızların şu şekilde
+dağıtıldığını buluyoruz:--
+
+Spektral tip B A F G K M
+Sayı 0 2 2 5 9 3.
+
+İki yıldız için spektrum şu anki bilinmeyen içindir.
+
+Bulduk yıldız sayısının tayf indeksi arttıkça arttığı. Siriometre küresindeki bilinmeyen
+yıldızlar muhtemelen, çoğunlukla,
+kırmızı tiplere aittir.
+
+Şimdi bu küredeki _toplam_ sayının bir kavramını oluşturmaya çalışırsak
+farklı yollardan ilerleyebiliriz. EDDINGTON, "Yıldız hareketleri" adlı eserinde, Okuyucuyu yönlendirdiğim, uygun hareketleri bir hesaplama ölçeği olarak kullanmış ve bu küredeki 32 yıldızın hepsinde bulmayı bekleyebileceğimizi bulmuştur, kendimizi 9m.5 kadirden daha parlak görünen yıldızlarla sınırlamıştır. Bu, Yavru başına 8 yıldız. efendim.
+
+Sorunu başka şekillerde de ele alabiliriz. Ancak, önemsiz olmayan çok kaba bir yöntem şudur. Varsayalım ki
+Samanyolu yönündeki Galaksi'nin bir uzantısı var 1000 siriometre ve Samanyolu'nun kutupları yönünde 50 sir'lik bir
+uzama. Daha sonra bu uzantının daha kapsamlı tartışmasına geri döneceğiz. Şimdilik bu değerleri varsaymak yeterlidir.
+Galaksinin tüm sistemi o zaman 200 milyon kübik
+siriometrelik bir hacme sahiptir. Ayrıca, Galaksideki toplam yıldız sayısının 1000 milyona ulaştığını varsayalım, bu değere ayrıca
+sonraki bir bölümde geri döneceğiz. Sonra kübik siriometre başına ortalama
+yıldız sayısının 5 olacağı sonucuna varırız. Bu, Galaksi'nin her bir bölümündeki yıldızların yoğunluğunun aynı olduğunu varsayar. Ancak güneş
+sistemin merkezine oldukça yakın bir yerdedir ve burada yoğunluk ortalama yoğunluktan (önemli ölçüde) daha fazladır. Bu derslerin matematiksel kısmında bulunacak bir hesaplama, merkezdeki yoğunluğun ortalama yoğunluğun yaklaşık 16 katına ulaştığını ve güneşin (ve merkezin) civarında kübik siriometre başına 80 yıldız verdiğini gösterir. Bir siriometre yarıçapına sahip bir kürenin hacmi 4 kübik siriometredir, böylece bu şekilde bir siriometre yarıçapına sahip bir küre içinde toplam 320 yıldız elde ederiz. Farklı sebeplerden dolayı bu sayının çok küçük olmaktan ziyade çok büyük olması muhtemeldir ve belki de toplam sayının 200 yıldız gibi bir şey olduğunu tahmin edebiliriz, ki bunların onda birinden fazlası artık astronomlar tarafından bilinmektedir. Ayrıca bu sayının bir değerlendirmesine farklı görünür veya mutlak büyüklüklere sahip yıldızların sayısından yola çıkarak da ulaşabiliriz. Bu sonuncu yol en basit olanıdır. Daha sonraki bir paragrafta
+şu anda bilinen mutlak büyüklüklerin -8 ile +13 arasında değiştiğini göreceğiz.
+Ancak matematiksel istatistiklerden, bir
+istatistiksel serinin toplam aralığının ortalama olarak serinin dağılımının yaklaşık 6 katına denk geldiği kanıtlanmıştır. Dolayısıyla, yıldızların mutlak büyüklüklerinin dağılımının yaklaşık olarak 3 değerine sahip olduğu sonucuna varıyoruz ([sigma] = [13 + 8]: 6 = 3,5 elde etmeliyiz, ancak çok sayıda birey için toplam aralık 6'dan fazla olabilir.
+[sigma]).
+
+Ayrıca, kübik siriometre başına 6'dan daha parlak mutlak kadire sahip yıldız sayısı bilindiği için (kübik siriometre başına 6m'den daha parlak 8: 4 = 2 yıldız elde ettik), kübik siriometre başına toplam yıldız sayısı (_D_0_) ile yıldızların ortalama mutlak kadiri (_M_0_) arasında bir ilişki elde ederiz, böylece _M_0_ bilindiği anda _D_0_ elde edilebilir. _M_0_'ın hesaplanması oldukça zordur ve sonraki bir bölümde tartışılacaktır. Şu an için _M_0_ = 10 olduğunu varsayarak, _D_0_ için 22 değerini elde ederiz, bu da güneşten bir siriometre uzaklıktaki 90 yıldız sayısına karşılık gelir. O zaman bu yıldızların beşte birini bilmeliyiz.
+
+34. _Paralakslı yıldızlar._ Bölüm 22'de, bilinen yıllık paralaksa sahip yıldızların
+kataloglarına dikkat ettim. Bu katalogların en kapsamlısı, 625 yıldızın ölçülen paralakslarını içeren WALKEY'inkidir. Bu yıldızların birçoğu için ölçülen paralaks değeri oldukça belirsiz olarak kabul edilmelidir ve yalnızca 0".04'ten (veya 5 siriometreden daha kısa bir mesafeden) büyük bir paralaksa sahip olan yıldızlar için ölçülen paralaksın en azından genel olarak güvenilir olarak kabul edilebileceğini belirttim. Bu nedenle etkili paralaks yıldız sayısı esasen azalır. Yine de dolaylı olarak, ADAMS'ın yaratıcı spektroskopik yönteminin yardımıyla nispeten büyük bir paralaks yıldızları kataloğu elde etmek mümkündür; bu da yıldız spektrumlarındaki belirli çizgilerin göreceli yoğunluğunun incelenmesi yoluyla daha da uzak yıldızların mutlak büyüklüğünü ve dolayısıyla mesafesini belirlememize olanak tanır. Yöntemin henüz olması gerektiği kadar sağlam bir temele dayanmaması mümkün olabilir[15], ancak izlenen yolun doğru olduğuna ve ADAMS tarafından yayınlanan 500 paralaks yıldızının kataloğunun Mount Wilson'dan Contrib., 142, doğrudan ölçülen paralaks kataloglarından daha
+eksiksiz bir materyal verir. Burada bu
+katalogdaki paralaks yıldızlarının niteliklerinin kısa bir özetini veriyorum.
+
+ADAMS kataloğu F, G, K ve
+M spektral tiplerindeki yıldızları kapsar. Bu materyali mavi yıldızların paralakslarıyla tamamlamak için
+WALKEY'in kataloğundan kataloğundaki B ve A spektral tiplerine ait yıldızları ekliyorum ve kendimi paralaksı oldukça güvenilir kabul edilebilecek yıldızlarla sınırlandırıyorum. Toplamda 61 tane böyle yıldız var, bu yüzden bilinen mesafeye sahip 561 yıldızın toplamı tartışılacak.
+
+Tüm bu yıldızlar için _m_ ve _M_'yi ve bunların büyük bir kısmı için ayrıca öz hareketi [mu] biliyoruz. Bu nedenle her spektral tip için bu özelliklerin ortalama değerlerini ve dağılımını hesaplayabiliriz. Böylece, kendimi özelliklerin ortalama değerleriyle sınırladığım aşağıdaki tabloyu elde ederiz.
+
+TABLO 6.
+
+_m_, _M_'NİN ORTALAMA DEĞERLERİ VE FARKLI SPEKTRAL TİPLERİNDEKİ PARALLAX YILDIZLARIN ÖZ HAREKETLERİ ([mu])._
+
++---+-------+-------+-------+-------+
+|Sp.|Sayı | _m_ | _M_ | [mu] |
++---+--------+-------+-------+-------+
+| B | 15 | +2,03 | -1,67 | 0".05 |
+| A | 46 | +3.40 | +0.64 | 0.21 |
+| F | 125 | +5.60 | +2.10 | 0.40 |
+| G | 179 | +5.77 | +1.68 | 0.51 |
+| K | 184 | +6.17 | +2.31 | 0.53 |
+| M | 42 | +6.02 | +2.30 | 0.82 |
++---+--------+-------+-------+-------+
+
+Daha sonra tüm paralaks yıldızlarını bir arada ele alacağız.
+Tablo 6'dan, görünen kadirin ve mutlak kadirin, tüm sarı ve kırmızı yıldızlar ve hatta F tipi yıldızlar için yaklaşık olarak aynı olduğunu, görünen kadirin yaklaşık olarak +6m
+ve mutlak büyüklük +2m'ye eşittir. B tipi için M'nin ortalama
+değerinin -1m.7 olduğunu ve A tipi için M = +0m.6 olduğunu buluruz. Öz
+hareket de aynı şekilde değişir, F, G, K, M için yaklaşık
+0".5 ve B ve A için 0".1 olur. _M_ ve [mu] ortalama değerlerine gelince, bu materyalden belirgin sonuçlar çıkaramayız, çünkü
+paralaks yıldızları esasen bu ortalama değerleri etkileyen belirli bir şekilde seçilir, bu da aşağıda daha ayrıntılı olarak tartışılacaktır. Paralaks yıldızlarından çıkarılacak en
+ilginç sonuç, _M_'nin farklı değerleri üzerindeki dağılımlarından elde edilir. Bahsedilen
+anıda, ADAMS aşağıdaki tabloyu elde etmiştir (ADAMS tablosundan biraz farklı şekilde düzenlenmiştir),[16] bu tablo farklı spektral tipler için
+mutlak büyüklüğün farklı değerleri için paralaks yıldızlarının sayısını verir.
+
+Bu tabloya bir bakış, bu frekans dağılımlarında tekil ve belirgin bir özelliği belirtmek için yeterlidir. Gerçekten de, G, K ve M tiplerinde frekans eğrilerinin açıkça iki basit dağılım eğrisine
+çözülebilir olduğunu görüyoruz. Tüm bu tiplerde, parlak bir grup ile sönük bir grup arasında ayrım yapabiliriz. HERTZSPRUNG tarafından önerilen bir terminolojiyle, ilk grubun _dev_ yıldızlardan, ikinci grubun ise _cüce_ yıldızlardan oluştuğu söylenir. F tipindeki yıldızlarda bile bu ayrım önerilebilir. Bu ayrım, şekillerde (levha IV) verilen grafiksel gösterimde daha da belirgindir.
+
+TABLO 7.
+
+_FARKLI MUTLAK BÜYÜKLÜKLERDE FARKLI SPEKTRAL TİPLERİNDEKİ PARALLAX YILDIZLARIN DAĞILIMI._
+
++--------------------------------------------------------+
+| | | | | | || |
+| M | B | A | F | G | K | M || Hepsi |
+|--------+-----+-----+-----+------+-----+-----+-----++-------|
+| | | | | | | || | - 4 | .. | .. | .. | .. | 1 || .. |
+| - 3 | .. | .. | .. | .. |  .. |  .. ||  .. |
+|  -2 |  1 |  4 |   1 |   7 |  .. |   2 ||  15 |
+|  - 1 |  2 |  7 |   7 |  28 |  15 |   4 ||  63 |
+|  - 0 |  3 | 10 |   6 |  32 |  40 |  10 ||  91 |
+|  + 0 |  1 | 11 |   6 |   7 |  14 |  11 ||  50 |
+|  + 1 |  1 |  3 |  20 |   9 |   4 |   1 ||  38 |
+|  + 2 | .. |  5 |  48 |  26 |  .. |   1 ||  80 |
+|  + 3 | .. |  1 |  32 |  36 |   2 |  .. ||  71 |
+|  + 4 | .. |  1 |   5 |  25 |  25 |  .. ||  56 |
+|  + 5 | .. |  1 |  .. |   6 |  25 |  .. ||  32 |
+|  + 6 | .. |  2 |  .. |   3 |  10 |  .. ||  15 |
+|  + 7 | .. |  1 |  .. |  .. |  14 |  .. ||  15 |
+|  + 8 | .. | .. |  .. |  .. |   3 |   7 ||  10 |
+|  + 9 | .. | .. |  .. |  .. |   2 |   4 ||   6 |
+|  +10 | .. | .. |  .. |  .. |  .. |  .. ||  .. |
+|  +11 | .. | .. |  .. |  .. | .. | 1 || 1 |
+|-------+----+-----+-----+-----+-----++------++------|
+| Toplam | 8 | 46 | 125 | 179 | 154 | 42 || 554 |
++---------------------------------------------------+
+
+Tüm paralaks yıldızlarının dağılımında bir kez daha yıldızların benzer bir
+bipartition'ını buluyoruz. Bu istatistiklerden yola çıkarak bazı
+astronomlar uzaydaki yıldızların gerçekte yakından ilişkili olmayan iki sınıfa
+ayrıldığı teorisini ortaya attılar. Bir sınıf yoğun ışıklı yıldızlardan, diğeri ise zayıf yıldızlardan oluşur ve iki sınıf arasında çok az veya hiç geçiş yoktur. Paralaks yıldızları görünürdeki öz hareketlerine göre veya hatta mutlak öz hareketlerine göre düzenlenirse, frekans dağılımlarında benzer bir iki bölüm
+ortaya çıkar.
+
+Yine de yıldızların bu şekilde iki ayrı sınıfa bölünmesi belirsiz ve şüpheli olarak kabul edilmelidir. Böyle bir _görünürdeki_
+bir iki bölümleme, aslında, bireyler uzaydaki yıldızlardan paralaks yıldızları seçildiği gibi belirli bir popülasyondan seçildiği anda tüm istatistiklerde gereklidir. Bir popülasyonun bireylerinin _A_, _B_ ve _C_ diyelim üç niteliğini ele alalım ve _C_ niteliğinin _A_ ve _B_ nitelikleriyle _pozitif_ korelasyona sahip olduğunu varsayalım, böylece _A_ veya _B_'nin büyük veya küçük değerleri sırasıyla _C_'nin büyük veya küçük değerlerine karşılık gelir. Şimdi, popülasyondaki
+bireyler istatistiksel olarak böyle bir şekilde seçilirse
+_A_ niteliklerinin büyük değerlerine ve _B_ niteliğinin küçük değerlerine sahip bireyleri seçersek, o zaman _C_ niteliğiyle ilgili iki görünüşte farklı
+normal frekans dağılımından oluşan istatistiksel bir seri elde ederiz. Ancak, paralaks yıldızları da benzer şekilde seçilir. Bu seçimin nedeni şudur. Yıllık paralaks yalnızca yakın yıldızlar için belirlenebilir,
+diyelim ki 5 siriometreden daha yakın. Bu yıldızların doğrudan seçilmesi mümkün değildir. Bu nedenle gökbilimciler soruna şu şekilde saldırmışlardır. Yakın yıldızlar, yakınlıkları nedeniyle,
+diğer yıldızlardan nispeten daha parlak olmalı ve ikinci olarak, onlardan daha büyük öz hareketlere sahip olmalıdır. Bu nedenle paralaks gözlemleri esasen (1) parlak yıldızlar, (2) büyük öz hareketlere sahip yıldızlarla sınırlıdır. Bu nedenle yıldızların seçilen nitelikleri _m_ ve [mu]'dur. Ancak _m_ ve [mu] her ikisi de _M_ ile pozitif olarak ilişkilidir. Küçük _m_ ve büyük [mu] olan yıldızların seçimiyle, _M_ niteliği açısından iki ayrı sınıfa ayrılmış gibi görünen bir dizi yıldız elde ederiz.
+
+Paralaks yıldızlarının dağılımı, K ve M tipindeki yıldızların varsayılan iki sınıfa ayrıldığına inanmak için bize hiçbir neden vermez. Genel olarak dev ve cüce yıldız sınıflarının varlığını varsaymak için hiçbir neden yoktur, tıpkı bir popülasyondaki insanların boyları açısından bu tür bir sınıflandırmanın yapılamayacağı gibi. Paralaks yıldızlarının mutlak büyüklüklerinin dağılımından istatistiksel olarak çıkarılabilecek tek sonuç, _M_'deki _dağılımın_ maviden sarıya veya kırmızı yıldızlara geçişte arttığıdır. "Cüceler" ile "devler" arasındaki boşluğun doldurulması muhtemelen yıldızların
+mesafesine ilişkin bilgimiz genişledikçe gerçekleşecektir, ancak burada yıllık
+paralaks değil, mesafeyi ölçmenin başka yöntemleri kullanılmalıdır.
+
+TABLO 8.
+
+_KESİNLİKLE EN SOLUK YILDIZLAR._
+
+[Yazan Notu: Yerden tasarruf etmek için (ad)
+([alfa][delta]) yerine kullanılır. ]
+
++--+---------------------+---------+-------+-------+-------+-------+-------+-------+
+| 1| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
++--+---------------------+---------+--------+-------+-------+-------+
+| | | Konum | Mesafe |
+| | _İsim_ |-----------+--------+-------+--------+-------+-------+
+| | | (reklam) | Kare | _l_ | _b_ | [pi] | _r_ |
++--+----------------------+---------+--------+-------+-------+-------+
+| | | | | | | | efendim. |
+| 1|Proxima Centauri |(1422{62})| GD_10 | 281 derece| - 2 derece. |0".780 | 0.26 |
+| 2|van Maanens yıldızı |(004304) |  GE_8 |  92 | -58 | 0.246 |  0,84 |
+| 3|Barnard yıldızı |(175204) |  GC_12 | 358 | +12 | 0,515 |  0.40 |
+| 4|17 Lyrae C |(190332) |  GC_2 |  31 | +10 | 0,128 |  1.60 |
+| 5|C. Z. 5h.243 |(0507{44})|  GE_7 | 218 | -35 | 0,319 |  0,65 |
+| 6|Gron. 19 VIII 234 |(161839) |  GB_1 |  29 | +44 | 0.162 |  1.27 |
+| 7|Oe. A.17415 |(173768) |  GB_8 |  65 | +32 | 0.268 |  0,77 |
+| 8|Gron. 19 VII 20 |(162148) |  GB_2 |  41 | +43 | 0.133 |  1.55 |
+| 9|Konum. Med. 2164 |(184159) |  GC_2 |  56 | +24 | 0,292 |  0,71 |
+|10|Krueger 60 |(222457) |  GC_8 |  72 |   0 | 0.256 |  0.81 |
+|11|B. D.+56 derece.532        |(021256) |  GD_8 | 103 | - 4 | 0,195 |  1.06 |
+|12|B. D. +55 derece.581 |(021356) |  GD_8 | 103 | - 4 | 0,185 |  1.12 |
+|13|Gron. 19 VIII 48 |(160438) |  GB_1 |  27 | +46 | 0,091 |  2.27 |
+|14|Lal. 21185 |(105736) |  GB_5 | 153 | +66 | 0.403 |  0.51 |
+|15|Ör. A.11677 |(111466) |  GB_3 | 103 | +50 | 0,198 |  1.04 |
+|16|Walkiy 653 |(155359) |  GB_2 |  57 | +45 | 0,175 |  1.18 |
+|17|Yerkes paralaks yıldızı |(021243) |  GD_8 | 107 | -16 | 0,045 |  4.58 |
+|18|B. D. +56 derece.537 |(021256) |  GD_8 | 103 | - 4 | 0,175 |  1.18 |
+|19|Gron. 19 VI 266 |(062084) |  GC_3 |  97 | +27 | 0,071 |  2.80 |
++--+----------------------+---------+-------+-------+-------+-------+-------+
+| | | | | | | | efendim. |
+| | Ortalama | .. | .. | .. | 27 derece..5|0".244 | 0,99 |
++-----+----------+----------+----------+-----+----------+----------+----------+
+
+
++-----+----------+----------+-----------+-----------+------------+----+------+
+| 1|         2 |   9 |   10 |    11 |    12 | 13 |  14 |
++--+----------------------+--------+---------+--------+-------+------+
+| | | Hareket | Büyüklük | Spektrum |
+| | _İsim_ +-------+---------+---------+-------+------+
+| | | [mu] | _W_ | _m_ | _M_ |_Sp_| _m'_ |
++-----+----------+----------+-----------+-----------+------------+----+------+
+|  |                     |      |efendim./st.|         |         |    | _m'_ |
+| 1|Proksima Centauri | 3".85| .. | 11m.0 |+13m.9 |.. |13.5 |
+| 2|van Maanens yıldızı |  3.01|   .. |  12.3 |  +12,7 |F0 |12,95 |
+| 3|Barnard'ın yıldızı | 10.29|  -19 |   9.7 |  +11.7 |Mb | 8.9 |
+| 4|17 Lyra C |  1,75|   .. |  11.3 |  +10,3 |.. |12,5 |
+| 5|C. Z.5h.243 |  8.75|  +51 |   9.2 |  +10.1 |K2 |10.68 |
+| 6|Gron. 19 VIII 234 |  0.12|   .. |  10.3 |  + 9,8 |.. |  .. |
+| 7|Oe. A.17415 |  1.30|   .. |   9.1 |  + 9.7 |K |10.5 |
+| 8|Gron. 19 VII 20 |  1.22|   .. |  10.5 |  + 9,6 |.. |  ..0 |
+| 9|Konum. Med. 2164 |  2.28|   .. |   8.9 |  + 9.6 |K |10.3 |
+|10|Krueger 60 |  0.94|   .. |   9.2 |  + 9.6 |K5 |10.8 |
+|11|B. D. +56 derece.532 |   .. |   .. |   9.5 |  + 9.4 |.. |  .. |
+|12|B. D. +55 derece.581 |   .. |   .. |   9.4 |  + 9.2 |G5 |10.2 |
+|13|Gron. 19 VIII 48 |  0.12|   .. |  11.1 |  + 9.3 |.. |  .. |
+|14|Lal. 21185 |  4.77|  -18 |   7.6 |  + 9.1 |Mb | 8.9 |
+|15|Ör. A.11677 |  3.03|   .. |   9.2 |  + 9,1 |Ma |11,0 |
+|16|Walki 653 |   .. |   .. |   9.5 |  + 9.1 |.. |  .. |
+|17|Yerkes paralaks yıldızı |   .. |   .. |  12.4 |  + 9.1 |.. |  .. |
+|18|B. D. +56 derece.537 |   .. |   .. |   9.4 |  + 9.0 |.. |  .. |
+|19|Gron. 19 VI 266 |  0.09|   .. |  11.3 | + 9.0 |.. | .. |
++--+--------------------+------+------ --+----------+--------+------+------+
+| | | | beyefendi/st.| | | | _m' _ |
+| | Anlamı | 2".96| 29,3 | 10m.0 | +9m.9 |K1 |10,9 |
++--+----------------------+---- --+---------+---------+--------+------+
+
+Mutlak parlaklıkla ilgili olarak yıldızlarla ilgili bazı
+ilgi çekici sonuçlar çıkarabiliriz. Tablo 7'den paralaks yıldızlarının mutlak büyüklüğünün -4 ile +11 arasında değiştiğini, uç
+yıldızların ise M tipinde olduğunu görüyoruz. Kesinlikle en parlak yıldızlar bizden oldukça
+büyük bir uzaklıkta ve mutlak büyüklükleri kötü bir şekilde belirlenmiştir.
+Tablodaki en parlak yıldız, _M_ = -4.6 olan Antares'tir, bu değer
+ADAMS tarafından bulunan 0".014 paralaksına dayanmaktadır. Bu kadar küçük bir paralaks
+değeri, yıllık
+paralaks gözlemlerinden doğrudan hesaplandığında pek güvenilir değildir, ancak ADAMS'ın
+spektroskopik yöntemiyle türetildiğinde daha güvenilirdir. _B_-yıldızlarının tartışılmasından muhtemeldir, buna daha sonra döneceğiz sonraki bölümde, kesinlikle
+en parlak yıldızların -5m veya -6m mertebesinde bir büyüklüğe sahip olduğu. 0".01'den küçük
+paralakslar hesaba katılırsa,
+Canopus'un kesinlikle en parlak yıldızı temsil edeceğini, _M_ =
+-8.17 ve yanında _M_ = -6.97 olan RIGEL'i bulmalıyız, ancak bu iki değer de 0".007'ye eşit yıllık bir paralaksa dayanmaktadır, bu da mutlak büyüklüğün gerçek değerinin tahminine izin vermek için çok küçüktür .
+
+Aksine _kesinlikle en sönük_ yıldızlar düşünülürse,
+paralakslı yıldızlar daha güvenilir sonuçlar verir. Burada sadece
+yıllık paralaksı iyi belirlenmiş yakın yıldızlarla ilgileniyoruz.
+Tablo 8'de, mutlak
+büyüklüğü 9m'den büyük.
+
+Toplamda 19 tane böyle yıldız var. Bilinen tüm yıldızların en sönüğü
+INNES'in yıldızı "Proxima Centauri" _M_ = 13.9. Üçüncü yıldız
+BARNARD'ın yıldızı _M_ = 11.7, ikisi de, birlikte [alfa]
+Centauri, aynı zamanda bilinen tüm yıldızların en yakınıdır. Tüm
+sönük yıldızların ortalama uzaklığı 1.0'dır efendim.
+
+Sönük yıldızların mutlak büyüklüğünün sınırının bu sönük paralaks yıldızlarından bulunduğuna inanmak için hiçbir neden yoktur:--Elbette
+uzayda _M_ > 13m ve _M_ ortalama değerine sahip birçok yıldız vardır,
+tüm yıldızlar için Galaksi, muhtemelen bu tabloda yer alan sönük paralaks yıldızlarının mutlak değerinden çok da uzak değildir. Bu sorun, bu derslerin daha sonraki bir bölümünde tartışılacaktır.
+
+DİPNOTLAR:
+
+[Dipnot 15: Mount Wilson'dan Katkılar'daki ADAMS'ın anılarını karşılaştırın.] [Dipnot 16: İlk satır mutlak kadiri -4,9 ile -4,0 arasında olan yıldızları, ikinci satır -3,9 ile -3,0 arasındakileri vb. verir. B ve A tipindeki
+yıldızlar WALKEY'in kataloğundandır.]
+
+[İllüstrasyon: LEVHA I.
+
+_EKVATOR KOORDİNATLARININ GALAKTİK KOORDİNATLARA DÖNÜŞTÜRÜLMESİ._]
+
+[İllüstrasyon: LEVHA II.
+
+_Kareler ve Takımyıldızlar._]
+
+[İllüstrasyon: LEVHA III.
+
+_Harvard Sınıflandırması of Stellar Spectra._]
+
+[İllüstrasyon: Levha IV.
+
+_Parlaks yıldızlarının farklı mutlak değerlere göre dağılımı
+büyüklükler._]
+
+
+
+
+SCIENTIA YAYINCI
+
+K. G. MALMQUIST:
+    A.L.M. II, 22 spektral tipteki yıldızların incelenmesi.
+                                                          _Fiyat: 6 Kr._
+
+C. V. L. CHARLIER:
+    Matematik İstatistiklerinin Grundzuege'sini Kullanın.
+                                                         _Fiyat: 10 Kr._
+
+F. ESSCHER:
+    Ueber die Sterblichkeit, Schweden'de. 1886-1914. Eine Stabilitaets- und
+Korelasyon incelemesi. L. M. II, 23. _Fiyat: 6 Kr._
+
+B. FAeNGE:
+Spektral tip G'deki yıldızların öz hareketlerinden türetilen
+uzaklıkları ve parlaklıkları hakkında. L. M. II, 25. _Fiyat: 5 Kr._
+
+C. V. L. CHARLIER:
+Yıldız İstatistiklerine Giriş. _Fiyat: 4 Kr._
+
+NILS H. RASMUSON:
+Hareket eden kümeler üzerine bir araştırma. L. M. II, 26. _Fiyat: 5 Kr._
+
+SIGFRID RAAB:
+Açık kümeler üzerine bir araştırma. L. M. II, 28. _Fiyat: 8 Kr._
+
+CARL WIRTZ:
+566 Nebelflecken ve Sternhaufen'den ışık hüzmeleri. Hayır
+    photometrischen Beobachtungen am 49 cm-Refraktor der
+    Universitaets-Sternwarte Strassburg (Elsass) 1911-1916. L.M. II, 29.
+                                                          _Fiyat: 5 Kr._
+
+C. V. L. CHARLIER:
+    William Herschel (H) ve John Herschel (h) tarafından yazılan Yıldız Ölçerler. L.M. II, 30.
+                                                          _Fiyat: 5 Kr._
+
+
+LUeTCKE & WULFF, HAMBURG TARAFINDAN BASILMIŞTIR
+
+       * * * * *
+
+[Transkriptçinin Notu: Aşağıdaki düzeltmeler yapılmıştır.
+orijinal metin.
+
+Sayfa 4: "Terrestial distances" "Terrestrial distances" olarak değiştirildi
+
+Sayfa 9: "seçmeliyiz", "seçmeliyiz" olarak değiştirildi
+
+Sayfa 12: "acromasie" "achromatism" olarak değiştirildi
+
+Sayfa 15: "in particular" "in particular" olarak değiştirildi
+
+"supposing, that" "supposing that" olarak değiştirildi
+
+Sayfa 16: "393.4 mm" "393.4 [mu][mu]" olarak değiştirildi
+
+Sayfa 20: "for which stars if" "for which stars it" olarak değiştirildi
+
+Sayfa 22: "spherical" "spherical" olarak değiştirildi
+
+Sayfa 23: "principal source" "principal source" olarak değiştirildi
+
+Sayfa 25: "lense with 15 cm" change to "lens with 15 cm"
+
+Sayfa 27: "Through the spectroscopy method" change to "Through
+spektroskopik yöntem"
+
+"esas olarak yapıldı" "esas olarak yapıldı" olarak değiştirildi
+
+"amerikan usulü" "Amerikan usulü" olarak değiştirildi
+
+Sayfa 35: "bir yılın onda biri" "onlarca yıl" olarak değiştirildi
+
+Sayfa 38: "aynı görünüm" "aynı görünüm" olarak değiştirildi
+
+Sayfa 47: "kırmızı stears" "kırmızı yıldızlar" olarak değiştirildi
+
+"_dispersion_ in M" "_dispersion_ in _M_" olarak değiştirildi
+
+Sayfa 49: "daha küçük" "daha küçük" olarak değiştirildi]
+
+Carl Vilhelm Ludvig Charlier'in
+
+Project Gutenberg E-Kitabı Yıldız İstatistikleri Üzerine Dersler'in Sonu.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK LECTURES ON STELLAR STATISTICS ***
+
+***** This file should be named 22157.txt or 22157.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/2/1/5/22157/
+
+Produced by Susan Skinner and the Online Distributed
+Proofreading Team at http://www.pgdp.net (The original
+copy of this book was generously made available for scanning
+by the Department of Mathematics at the University of
+Glasgow.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
