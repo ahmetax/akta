@@ -1,0 +1,3380 @@
+*** START OF AKTAHEADER ***
+Başlık: A Review of Algebra (Cebirin İncelenmesi)
+Yazar: Romeyn Henry Rivenburg
+Yayın Tarihi: January 9, 2012 [EBook #38536]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/38536
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of A Review of Algebra, by Romeyn Henry Rivenburg
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Review of Algebra
+
+Author: Romeyn Henry Rivenburg
+
+Release Date: January 9, 2012 [EBook #38536]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A REVIEW OF ALGEBRA ***
+
+*** START OF TURKISH PART ***
+Peter Vachuska, Alex Buie, Erica
+Pfister-Altschul ve http://www.pgdp.net adresindeki Çevrimiçi Dağıtılmış Düzeltme Ekibi tarafından üretilmiştir
+
+[Yazıcının Notu:
+
+Bu kitap, her zaman düz metinde kolayca temsil edilemeyen kapsamlı matematiksel ifadeler ve denklemler içerir. Okuyucunun, matematiği daha net bir şekilde temsil eden metnin HTML sürümünü indirmesi önerilir.
+
+Düz metin sürümü için aşağıdaki kurallar kullanılır:
+
+Karma kesirler boşluksuz bir çizgiyle gösterilirken,
+çıkarma her iki tarafında boşluk bulunan bir çizgiyle gösterilir.
+Örneğin: 1-1/2 "bir ve bir buçuk"tur. 1 - 1/2 "bir eksi bir buçuk"tur.
+
+Sonsuzluk için "yanlamasına-8" sembolü [sonsuzluk] olarak gösterilir.
+
+Kare, küp ve diğer kökler, bir miktarı uygun kesir kuvvetine yükselterek gösterilir. Örneğin: [4]^(1/2) "4'ün karekökü"dür. [x]^(1/n) "x'in n'inci kökü"dür.
+
+İşlemlerin doğru sırasını açıklamak için gerektiği gibi ek parantezler eklenmiştir.]
+
+CEBİRİN BİR İNCELEMESİ
+
+TARAFINDAN
+ROMEYN HENRY RIVENBURG, A.M.
+
+MATEMATİK BÖLÜMÜ BAŞKANI
+PEDDIE ENSTİTÜSÜ, HIGHTSTOWN, N.J.
+
+[İllüstrasyon]
+
+AMERİKAN KİTAP ŞİRKETİ
+NEW YORK CINCINNATI CHICAGO
+
+TELİF HAKKI, 1914,
+ROMEYN H. RIVENBURG TARAFINDAN.
+
+TELİF HAKKI, 1914, BÜYÜK BRİTANYA'DA.
+
+CEBİRİN BİR İNCELEMESİ.
+
+E. P. 6
+
+ÖN SÖZ
+
+Çoğu lisede İlköğretim Cebiri dersi ikinci yılın sonunda tamamlanır. Son sınıfa gelindiğinde, çoğu öğrenci prensiplerin çoğunu unutmuş olur ve üniversite adaylarını giriş sınavlarına ve üniversitedeki birinci sınıfta etkili bir çalışmaya hazırlamak için kapsamlı bir inceleme gereklidir. Bu ihtiyacı fark eden birçok okul, son sınıfın bir bölümünde haftada en az iki ders saatini cebir incelemesine ayırmaktadır.
+
+Böyle bir inceleme için normal ders kitabı yetersizdir. Öğretmen, zenginlik utancından, uygun örnekleri seçmekte
+zahmetli bulurken, öğrenci dağınık ödevleri aramakla zaman kaybeder. Bu kitabın amacı, gerekirse haftada iki ders saatinde yarım yıl boyunca kolayca tamamlanabilen kapsamlı ve etkili bir inceleme sağlayarak hem öğretmenin hem de öğrencinin zamanından ve çabasından tasarruf etmektir.
+
+Her öğrencinin cebirdeki normal ders kitabını referans olarak kullanması beklenir, tıpkı bir sözlüğü kullandığı gibi, -- unuttuğu bir tanımı, bir kuralı veya bir işlemi hatırlamak için. Ancak, mümkün olan her yerde bir çıkış yolu olarak düşünmesi ve ders kitabına yalnızca son çare olarak _zorunda_ kaldığında başvurması teşvik edilmelidir.
+
+Genel Anahat'ta verilen tanımlar, kullanımları için fırsat
+çıktıkça gözden geçirilmelidir. Tüm Anahat, duruma göre cevabı, yöntemi, örneği veya formülü belirten Anahat bölümünü kapsayarak hızlı sınıf gözden geçirmeleri için karlı bir şekilde kullanılabilir.
+
+Kitabın tüm şeması, genellikle bir sayfa problemin bir günlük çalışmayı temsil etmesidir. Bu, elbette, Anahatlar veya daha hızlı bir şekilde ele alınabilen birkaç sayfa teori için geçerli değildir. Bu planla, bir sonraki paragrafta belirtilen eksikliklerin yalnızca bir kısmını çıkararak, cebirin temelleri gerekirse otuz ila otuz iki derste kolayca işlenebilir, böylece testler için zaman kalır, her biri iki dersten oluşan on sekiz hafta bile kursa ayrılmış olsa bile. Kısa bir kurs isteniyorsa, Çeşitli Örnekler (s. 31 ila 35, 50 ila 52), kitabın sonundaki problemlerin çoğu ve Üniversite Giriş Sınavları, incelemenin sürekliliğini veya kapsamlılığını bozmadan çıkarılabilir.
+
+ROMEYN H. RIVENBURG. İÇİNDEKİLER
+
+SAYFALAR
+
+İLK VE ORTA SEVİYE CEBİRİNİN ANA HATLARI 7-13
+
+İŞLEM SIRASI, DEĞERLENDİRME, PARANTEZLER 14
+
+ÇARPMA VE BÖLME İÇİN ÖZEL KURALLAR 15
+
+ÇARPMADAKİ DURUMLAR 16, 17
+
+ÇARPMA 18
+
+EN BÜYÜK ORTAK ÇARPANI VE EN KÜÇÜK ORTAK ÇARPANI 19
+
+KESİRLER 20
+
+KARMAŞIK KESİRLER VE KESİRLİ DENKLEMLER 21, 22
+
+EŞ ZAMANLI DENKLEMLER VE İNVOLUSİYON 23, 24
+
+KARE KÖK 25
+
+ÜSLÜLER TEORİSİ 26-28
+
+KÖKLÜLER 29, 30
+
+ÇEŞİTLİ ÖRNEKLER, CEBİRDEN KUADRATİK 31-35
+
+KUADRATİK DENKLEMLER 36, 37
+
+KUADRATİK DENKLEMLER TEORİSİ 38-41
+
+EŞ ZAMANLI KUADRATİKLERİN ANA HATLARI 42, 43
+
+EŞ ZAMANLI KUADRATİKLER 44
+
+ORAN VE ORANTI 45, 46
+
+ARİTMETİK İLERLEME 47
+
+GEOMETRİK İLERLEME 48
+
+BİNOM TEORİSİ 49
+
+ÇEŞİTLİ ÖRNEKLER, KUADRATİKLER VE ÖTESİ 50-52
+
+PROBLEMLER - DOĞRUSAL DENKLEMLER, EŞ ZAMANLI DENKLEMLER,
+KUADRATİK DENKLEMLER, EŞ ZAMANLI KUADRATİKLER 53-57
+
+ÜNİVERSİTE GİRİŞ SINAVLARI 58-80
+
+İLK VE ORTA SEVİYE CEBİRİNİN ANA HATLARI
+
+~Önemli Tanımlar~
+
+Faktörler; katsayı; üs; kuvvet; taban; terim; cebirsel
+toplam; benzer terimler; derece; homojen ifade; doğrusal
+denklem; bir denklemin kökü; bir ifadenin kökü; özdeşlik;
+koşullu denklem; asal nicelik; en büyük ortak çarpan (H.
+C.F.); en küçük ortak kat (L.C.M.); involution;
+evrim; sanal sayı; gerçek sayı; rasyonel; benzer
+radikaller; binom surd; saf ikinci dereceden denklem; etkilenen
+ikinci dereceden denklem; ikinci dereceden formdaki denklem; eş zamanlı
+doğrusal denklemler; eş zamanlı ikinci dereceden denklemler;
+ayırıcı; simetrik ifade; oran; orantı; dördüncü
+orantılı; üçüncü orantılı; ortalama orantılı; aritmetik
+ilerleme; geometrik ilerleme; S [sonsuz]
+
+~Çarpma ve Bölme İçin Özel Kurallar~
+
+1. İki niceliğin toplamının karesi.
+(x + y)^2.
+
+2. İki niceliğin farkının karesi.
+(x - y)^2.
+
+3. İki niceliğin toplamının ve farkının çarpımı.
+(s + t)(s - t).
+
+4. Ortak bir terimi olan iki binomun çarpımı.
+(x + r)(x + m).
+
+5. Karşılık gelen terimleri benzer olan iki binomun çarpımı.
+(3x + 2t)(2x - 5t).
+
+6. Bir polinomun karesi.
+(m - n/3 + k)^2.
+
+7. İki küpün toplamı.
+(x^3 + y^3)/(x + y) = x^2 - xy + y^2.
+
+8. İki küpün farkı. (x^3 - y^3)/(x - y) = x^2 + xy + y^2.
+
+9. İki benzer kuvvetin toplamı veya farkı.
+(x^7 + y^7)/(x + y),
+(x^5 - y^5)/(x - y),
+(x^4 - y^4)/(x - y),
+(x^4 - y^4)/(x + y).
+
+~Çarpanlara Ayırmada Durumlar~
+
+1. Ortak tek terimli çarpan.
+mx + my - mz = m(x + y - z).
+
+2. Tam kare olan üç terimli.
+x^2 +- 2xy + y^2 = (x +- y)^2.
+
+3. İki karenin farkı.
+(a) İki terim.
+x^2 - y^2 = (x + y)(x - y).
+(b) Dört terim. x^2 + 2xy + y^2 - m^2 = (x + y + m)(x + y - m).
+(c) Altı terim.
+x^2 + 2xy + y^2 - p^2 - 2pq - q^2
+= [(x + y) + (p + q)][(x + y) - (p + q)].
+(d) Eksik kare.
+x^4 + x^2 y^2 + y^4
+= x^4 + 2x^2 y^2 + y^4 - x^2 y^2
+= (x^2 + y^2 + xy)(x^2 + y^2 - xy).
+
+4. x^2 + bx + c biçimindeki üç terimli. x^2 - 5x + 6 = (x - 2)(x - 3).
+
+5. ax^2 + bx + c biçimindeki üçlü terim.
+20x^2 + 7x - 6 = (4x + 3)(5x - 2).
+
+6. İki küpün toplamı veya farkı. Bkz. "Özel Kurallar", 7 ve 8.
+iki benzer kuvvet. Bkz. "Özel Kurallar", 9.
+
+7. Ortak polinom çarpanı. Gruplama.
+t^2 p + t^2 q - 2mp - 2mq
+= t^2(p + q) - 2m(p + q) = (p + q)(t^2 - 2m).
+
+8. Çarpan Teoremi.
+x^3 + 17x - 18 = (x - 1)(x^2 + x + 18).
+
+~H. C. F. ve L. C. M.~
+
+a^2 + 2a - 3 = (a + 3)(a - 1).
+
+a^2 + 7a + 12 = (a + 3)(a + 4).
+
+a^4 + 27a = a(a + 3)(a^2 - 3a + 9).
+
+H. C. F. = a + 3.
+
+L. C. M. = (a + 3)(a - 1)(a + 4)a(a^2 - 3a + 9).
+
+~Kesirler~
+
+En düşük terimlere indirgeme.
+
+Karma bir sayının tam olmayan bir kesre indirgenmesi.
+
+Tam olmayan bir kesrin tam olmayan bir kesre indirgenmesi.
+
+Kesirlerin toplanması ve çıkarılması.
+
+Kesirlerin çarpılması ve bölünmesi.
+
+Bölmede işaret yasası, çarpanların işaretlerinin değiştirilmesi, vb.
+
+Karmaşık kesirler.
+
+~Eşzamanlı Denklemler~
+
+Toplama veya çıkarma
+ile çözülür.
+ikame
+karşılaştırma.
+
+Grafiksel gösterim.
+
+~İnvolution~
+
+İşaret yasası.
+
+Binom teoremi yasaları.
+
+Tek terimlilerin ve kesirlerin
+genişlemesi.
+iki terimlilerin.
+üç terimlilerin.
+
+~Evrim~
+
+İşaret yasası.
+
+Tek terimlilerin ve kesirlerin evrimi.
+
+Cebirsel ifadelerin karekökü.
+
+Aritmetik sayıların karekökü.
+
+İsteğe bağlı
+Cebirsel ifadelerin küp kökü.
+Aritmetik sayıların küp kökü.
+
+~Üs Teorisi~
+
+İspatlar: a^m x a^n = a^(m + n);
+(a^m)/(a^n) = a^(m - n);
+(a^m)^n = a^(mn);
+[a^(mn)]^(1/n) = a^m;
+(a/b)^n = (a^n)/(b^n);
+(abc)^n = a^n b^n c^n.
+
+Kesirli üs'ün anlamı.
+sıfır üs.
+negatif üs.
+
+Dört kural
+Aynı tabana sahip nicelikleri çarpmak için üsleri topla.
+Aynı tabana sahip nicelikleri bölmek için üsleri çıkar.
+Bir kuvvete yükseltmek için üsleri çarp.
+Bir kökü çıkarmak için kuvvetin üssünü kökün
+
+indeksine böl.
+
+~Kökler~
+
+En basit haliyle kök.
+
+Köklerin dönüşümü
+Kök işareti altındaki kesir.
+Tam bir köke indirgeme.
+Farklı düzendeki köklere dönüştürme.
+En basit biçime indirgeme.
+
+Köklerin toplanması ve çıkarılması.
+
+Köklerin çarpılması ve bölünmesi
+a^(1/n) . b^(1/n) = [ab]^(1/n). ([ab]^(1/n))/(a^(1/n)) = b^(1/n).
+
+Rasyonalizasyon
+Tek terimli payda.
+Binom payda.
+Trinom payda.
+
+Binom surd'ün karekökü.
+
+Köklü denklemler. Yabancı kökleri önlemek için sonuçları _her zaman_ kontrol edin.
+
+~İkinci Dereceden Denklemler~
+
+Saf. x^2 = a.
+
+Etkilenen. ax^2 + bx + c = 0.
+
+Çözme yöntemleri
+Kareyi tamamlama.
+Formül. ax^2 + bx + c = 0'dan geliştirildi.
+Çarpanlara ayırma.
+
+İkinci dereceden formdaki denklemler.
+
+İkinci dereceden denklemlerin özellikleri
+r_1 = -b/2a + ([b^2 - 4ac]^(1/2))/(2a). r_2 = -b/2a - ([b^2 - 4ac]^(1/2))/(2a).
+O zaman
+r_1 + r_2 = -b/a.
+r_1 . r_2 = c/a.
+Ayırıcı, b^2 - 4ac ve tartışması.
+Köklerin doğası veya karakteri.
+
+~Eşzamanlı İkinci Dereceden Denklemler~
+
+DURUM I.
+
+Bir denklem doğrusal.
+
+Diğer ikinci dereceden.
+3x - y = 12,
+x^2 - y^2 = 16.
+
+DURUM II.
+
+Her iki denklem de homojen ve ikinci dereceden.
+x^2 - xy + y^2 = 21,
+y^2 - 2xy = -15.
+
+DURUM III.
+
+x + y, x^2 + y^2, xy, x^3 + y^3,
+x^3 - y^3, x - y, x^2 +- xy + y^2, vb. miktarlarından herhangi ikisi verilmiştir.
+x^2 + y^2 = 41,
+x + y = 9.
+
+DURUM IV.
+Her iki denklem de işaret dışında simetrik veya simetriktir. Genellikle bir denklem yüksek dereceden, diğeri birinci dereceden.
+x^5 + y^5 = 242,
+x + y = 2.
+
+DURUM V. Özel Aygıtlar
+
+I. Önce xy, x + y, (1)/(xy),
+vb. gibi bir bileşik bilinmeyeni çözün.
+x^2y^2 + xy = 6,
+x + 2y = -5.
+
+II. Denklemleri üye üye bölün.
+x^4 - y^4 = 20,
+x^2 - y^2 = 5.
+
+III. İkinci dereceden terimleri eleyin.
+4x + 3y = 2xy,
+7x - 5y = 5xy.
+
+~Oran ve Orantı~
+
+Oranlar
+ortalama,
+üçüncü,
+dördüncü.
+
+Teoremler
+1. Ortalamaların çarpımı uçların çarpımına eşittir. 2. İki sayının çarpımı diğer iki sayının çarpımına eşitse, her iki çift vb.
+3. Değişim.
+4. Ters çevirme.
+5. Bileşim.
+6. Bölme.
+7. Bileşim ve bölme.
+8. Eşit oranlar serisinde, öncüllerin toplamı
+herhangi bir öncül olarak sonuçların toplamına eşittir, vb.
+
+Dört niceliği orantılı olarak kanıtlamanın özel yöntemi.
+a/b = x, a = bx, vb.
+
+~İlerlemeler~
+
+Formüllerin geliştirilmesi.
+{ l = ar^(n - 1).
+{ l = a + (n - 1)d. { S = (ar^n - a)/(r - 1).
+{ S = (n/2)(a + l). { S = (rl - a)/(r - 1).
+{ S = (n/2)[2a + (n - 1)d]. { S[sonsuz] = (a)/(1 - r).
+
+Ortalamaların eklenmesi
+Aritmetik.
+Geometrik.
+
+~Binom Teoremi~
+
+Binom teoremi yasalarının gözden geçirilmesi. Bkz. İnvolution.
+
+(a + b)^n'nin genişletilmesi.
+
+Anahtar sayı yöntemiyle
+herhangi bir terimin bulunması.
+r^(inci) veya (r + 1)^(inci) terim yöntemi.
+
+CEBİRİN GÖZDEN GEÇİRİLMESİ
+
+İŞLEM SIRASI, DEĞERLENDİRME, PARANTEZ
+
+İşlem sırası:
+Öncelikle, bir kuvvete yükseltme ve bir kök çıkarma.
+Sonra, çarpma ve bölme.
+En son, toplama ve çıkarma.
+
+Şunun değerini bulun:
+
+1. 5 . 2^2 - 25^(1/2) / 5 + 2^2 . 8 / 4 - 2.
+
+2. (3 x 6 / 9)/2 - 2[100^(1/2)] / 5 + 4 . 2^3 - (14 . 2)/28.
+
+3. 9 . 2 / 6 + 3 - 2 . 4^2 / 8^(1/3) - 4 + (3 . 2^2)/6.
+
+Değerlendir:
+
+4. (a^4 - a^3 + b^3)/([a^2 b^2]^(1/2)) + (c[a^(1/2)] + a^3bc)/(abc),
+eğer a = 1, b = 2, c = 3.
+
+5. t^(1/3) + [tm]^(1/3) + m^(1/3), eğer t = 8, m = 27.
+
+6. (2[3 + 2d + a]^(1/2))/(3[a + b - cx - c]^(1/2))
++ ((3c - d)x)/(7ad - [abc]^(1/2)), eğer
+a = 5, b = 3, c = -1, d = -2, x = 0.
+
+7. a - {5b - [a - (3c - 3b) + 2c - 3(a - 2b - c)]},
+eğer a = -3, b = 4, c = -5. (_Yale._)
+
+Basitleştirin:
+
+8. m - [2m - {3r - (4r - 2m)}].
+
+9. 2a - [5d + {3c - (a + [2d - 3a + 4c])}].
+
+10. 3c^2 + c(2a - [6c - {3a + c - 4a}]).
+
+ÇARPMAYA VE BÖLMEYE İLİŞKİN ÖZEL KURALLAR
+
+Sonuçları incelemeyle verin:
+
+1. (g + 1/2 k)^2.
+
+2. (s - (2m)/3)^2.
+
+3. (2v + 3w)(2v - 3w).
+
+4. (x + 3ts)(x - 7ts).
+
+5. (2l + 3g)(4l - 11g).
+
+6. (a - (2b)/3 + c - d)^2.
+
+7. (x^3 + 8m^3)/(x + 2m).
+
+8. (y^3 - 27k^(3m))/(y - 3k^m).
+
+9. (c^5 - d^5)/(c - d).
+
+10. (e^5 + d^5)/(e + d).
+
+11. (x^4 - y^4)/(x - y).
+
+12. (x^4 - y^4)/(x + y).
+
+13. (a - .03)(a - .0007).
+
+14. (g^n - 1/2)(g^n + 3/4).
+
+15. (t^7 - v^(7/2))/(t - v^(1/2)).
+
+16. (k^32 + 1)(k^16 +1)(k^8 + 1)(k^4 +1)(k^2 +1)(k + 1)(k - 1).
+
+17. [(a + b) + (c + d)][(a + b) - (c + d)].
+
+18. (p - q + r - s)(p - q - r + s).
+
+19. (3m - n - l + 2r)(3m + n - l - 2r).
+
+20. (x + 5)(x - 2)(x - 5)(x + 2).
+
+21. (a^2 + b^2 - c - 2d + 3e)^2.
+
+22. (s + t - 2v/5 + 3w/6 + z^2)^2.
+
+23. (x^5 + 32)/(x + 2).
+
+~Referanslar:~ Herhangi bir cebirde Çarpma ve Bölmenin Özel Kuralları bölümü.
+Kitabın ön kısmındaki Anahatta
+Çarpma ve Bölmenin Özel Kuralları.
+
+FAKTÖRİZASYONDA DURUMLAR
+
+Bir ifadedeki terim sayısı genellikle ifadenin hangi olası durumlara girebileceğine dair ipucu verir. Her biri için _test_ uygulanarak ve _olası_ durumlar tek tek elenerek, doğru durum
+kolayca bulunur. Dolayısıyla, ifadedeki terim sayısı ve Faktörizasyondaki Durumlar hakkında hazır ve doğru bilgi, cebirin bu hayati derecede önemli bölümünde başarının gerçek anahtarlarıdır.
+
+DURUM I. Ortak bir tek terimli faktör. Herhangi bir terim sayısına uygulanır.
+
+5cx - 5ct + 5cv - 15 c^2 m + 25 c^3 m^2
+= 5c(x - t + v - 3cm + 5c^2 m^2).
+
+DURUM II. Tam kare olan bir üç terimli. Üç terim.
+
+x^2 +- 2xm + m^2 = (x +- m)^2.
+
+DURUM III. İki karenin farkı.
+
+_A._ İki terim. x^2 - y^2 = (x + y)(x - y).
+
+_B._ Dört terim.
+
+x^2 + 2xy + y^2 - m^2 = (x^2 + 2xy + y^2) - m^2
+= (x + y + m)(x + y - m)
+
+_C._ Altı terim. x^2 - 2xy + y^2 - m^2 - 2mn - n^2
+= (x^2 - 2xy + y^2) - (m^2 + 2mn + n^2)
+= (x - y)^2 - (m + n)^2
+= [(x - y) + (m + n)][(x - y) - (m + n)].
+
+_D._ Eksik bir kare. Üç terim ve
+4. kuvvetler veya 4'ün katları.
+
+c^4 + c^2 d^2 + d^4 = c^4 + 2c^2 d^2 + d^4 - c^2 d^2
+= (c^2 + d^2)^2 - c^2 d^2
+= (c^2 + d^2 + cd)(c^2 + d^2 - cd).
+
+DURUM IV. x^2 + bx + c biçiminde bir üç terimli. Üç terimli.
+
+x^2 + x - 30 = (x + 6)(x - 5).
+
+DURUM V. ax^2 + bx + c biçiminde bir üç terimli. Üç terimli.
+
+20x^2 + 7x - 6 = (4x + 3)(5x - 2).
+
+DURUM VI.
+
+_A._ İki küpün toplamı veya farkı. İki terimli.
+
+x^3 + y^3 = (x + y)(x^2 - xy + y^2);
+x^3 - y^3 = (x - y)(x^2 + xy + y^2).
+
+_B._ İki benzer kuvvetin toplamı veya farkı. İki terim.
+
+x^4 - y^4 = (x - y)(x^3 + x^2y + xy^2 + y^3);
+x^5 + y^5 = (x + y)(x^4 - x^3y + x^2 y^2 - xy^3 + y^4).
+
+DURUM VII. Ortak bir polinom faktörü. Herhangi bir _bileşik_ terim sayısı.
+
+t^2 p + t^2 q - t^2 r - g^2 p - g^2 q + g^2 r
+= t^2 (p + q - r) - g^2 (p + q -r)
+= (p + q - r)(t^2 - g^2)
+= (p + q - r)(t + g)(t - g).
+
+DURUM VIII. Faktör Teoremi. Herhangi bir terim sayısı.
+
+x^3 + 17x - 18 = (x - 1)(x^2 + x + 18).
+
+ÇARPANLARA BAĞLAMA
+
+_Çarpanlardaki Durumları_ gözden geçirin (önceki sayfalardaki Ana Hatlara bakın) ve
+aşağıdakilerin asal çarpanlarını yazın:
+
+1. 8a^(13) + am^(12).
+
+2. x^7 + y^7.
+
+3. 4x^2 + 11x - 3.
+
+4. m^2 + n^2 - (1 + 2mn).
+
+5. -x^2 + 2x - 1 + x^4.
+
+6. x^(16) - y^(16). (Beş faktör.)
+
+7. (x + 1)^2 - 5x - 29.
+
+8. x^4 + x^2 y^2 + y^4.
+
+9. x^4 - 11x^2 + 1.
+
+10. x^(2m) + 2 + 1/(x^(2m)).
+
+11. x^(6m) + 13x^(3m) + 12.
+
+12. 4a^2 b^2 - (a^2 + b^2 - c^2)^2.
+
+13. (x^2 - x - 6)(x^2 - x - 20).
+
+14. a^4 - 8a - a^3 + 8.
+
+15. p^3 + 7p^2 + 14p + 8.
+
+16. 18a^2 b + 60ab^2 + 50b^3.
+
+17. x^3 - 7x + 6.
+
+18. 24c^2 d^2 - 47cd - 75.
+
+19. (a^2 - b^2)^2 - (a^2 - ab)^2.
+
+20. a^2 x^3 - (8a^2)/(y^3) - x^3 + 8/(y^3).
+
+21. gt - gk + gl^2 + xt - xk + xl^2.
+
+22. (m - n)(2a^2 - 2ab) + (n - m)(2ab - 2b^2).
+
+23. a^2 - x^2 - y^2 + b^2 + 2ab + 2xy.
+
+24. (2c^2 + 3d^2)a + (2a^2 + 3c^2)d.
+
+25. (n(n - 1))/(1 . 2) a^(n - 2) b^2
++ (n(n - 1)(n - 2))/(1 . 2 . 3) a^(n - 3) b^3.
+
+26. (x - x^2)^3 + (x^2 - 1)^3 + (1 - x)^3. (_M. I. T._)
+
+27. (27y^3)^2 - 2(27y^3)(8b^3) + (8b^3)^2. (_Princeton._)
+
+28. (a^3 + 8b^3)(a + b) - 6ab(a^2 - 2ab + 4b^2). (_M. I. T._)
+
+Çarpanlara ayırarak çözün:
+
+29. x^3 = x.
+
+30. z^2 - 4z - 45 = 0.
+
+31. x^3 - x^2 = 4x - 4.
+
+~Referans:~ Herhangi bir cebirde çarpanlara ayırma bölümü.
+
+EN BÜYÜK ORTAK ÇARPANI VE EN KÜÇÜK ORTAK ÇARPANI
+
+H. C. F. ve L. C. M.'yi tanımlayın.
+
+H. C. F. ve L. C. M.'yi çarpanlarına ayırarak bulun:
+
+1. 3x^2 - 3x,
+12x^2 (x^2 - 1),
+18x^3 (x^3 - 1).
+
+2. (x^2 - 1)(x^2 + 5x + 6),
+(x^2 + 3x)(x^2 - x - 6). (_Harvard._)
+
+3. x^2 - y^2,
+x^2 + y^2,
+x^3 + y^3,
+x^6 + y^6,
+x^6 - y^6. (_Üniversite Giriş Panosu._)
+
+4. x^3 + x^2 - 2,
+x^3 + 2x^2 - 3. (_Cornell._)
+
+5. x^5 - 2x^4 + x^2,
+2x^4 - 4x^3 - 4x + 6. (_Yale._)
+
+6. x^2 + a^2 - b^2 + 2ax,
+x^2 - a^2 + b^2 + 2bx,
+x^2 - a^2 - b^2 - 2ab. (_Harvard._)
+
+7. 2x^2 - x - 15,
+3x^2 - 11x + 6,
+2x^3 - x^2 - 13x - 6. (_Üniversite Giriş Panosu._)
+
+8. (tv - v^2)^3,
+v^3 - t^2v,
+t^3 - v^3,
+v^2 - 2vt + t^2.
+
+Aşağıdakilerin Y. K. F. ve EK. K. M.'sini seçin:
+
+9. 8(x^2 + y)^(32) (t^2 + z)^(19) (m - n^3)^(14),
+12(x^2 + y)^(23) (t^2 + z)^(41) (m - n^3)^(17),
+18(m - n^3)^(11) (x^2 + y)^(39) (t^2 + z)^(37).
+
+10. 17ax^3 (y + z)^(10) (y - x)^(19) (x + z)^(27),
+34a^2 x^4 (y + z)^(11) (y - x)^(21) (x + z)^(13),
+51a^3 x^5 (y + z)^4 (x + z)^(32) (y - x)^(29).
+
+~Referans:~ Herhangi bir cebirde H. C. F. ve L. C. M. ile ilgili bölüm.
+
+KESİRLER
+
+Tanım: kesir, bir kesrin terimleri, bir sayının tersi.
+
+_İşaretler yasasına_ kesirlere uygulandığı şekliyle bakın. Bunun dışında,
+cebirdeki kesirler, aritmetiktekiyle aynı şekilde ele alınır.
+
+1. En düşük terimlere indirgeyin:
+
+(_a_) 32/24;
+
+(_b_) (a^6 - x^6)/(a^4 - x^4);
+
+(_c_) [(a + b)^2 - (c + d)^2]/[(a + c)^2 - (b + d)^2]. (_M. I. T._)
+
+2. Karma bir ifadeye indirgeyin:
+
+(_a_) 756/11;
+
+(_b_) (a^3 + b^3)/(a - b).
+
+3. Yanlış bir kesre indirgeyin:
+
+(_a_) 45-1/8;
+
+(_b_) 9-11/12 qt.;
+
+(_c_) a^2 - ab + b^2 - (b^3)/(a + b).
+
+Ekle:
+
+4. 5/18 + 7/9 + 11/16 + 5/8.
+
+5. 5/(1 + 2x) - (3x)/(1 - 2x) + (4 - 13x)/(4x^2 - 1).
+
+6. 1/[x(x - a)(x - b)] + 1/[a(a - x)(a - b)] + 1/[b(b - x)(b - a)].
+
+Çarp:
+
+7. 72/121 x 55/56 x 77/90.
+
+8. (b - y)/(a^3 + y^3) x (ca + cy)/(b^2 + by)
+x (b^6 + y^6)/(b^2 + y^2) x b/c.
+
+Böl:
+
+9. (12/25) / (6/50).
+
+10. [1 - (ab)/(a^2 - ab + b^2)] [1 - (ab)/(a^2 + 2ab + b^2)]
+/ (a^3 - b^3)/(a^3 + b^3). (_Yale._)
+
+11. [(x^4 - y^4)/(x^2 - y^2) / (x + y)/(x^2 - xy)]
+/ [(x^2 + y^2)/(x - y) / (x + y)/(xy - y^2)]. (_Sheffield._)
+
+Basitleştir:
+
+12. [(4y)/x - (15y^2)/(x^2) + 4] / [4 - (16y)/x + (15y^2)/(x^2)]
+x [3 - (4x + 20y)/(2x + 5y)].
+
+~Referans:~ Herhangi bir cebirdeki Kesirler bölümü.
+
+KARMAŞIK KESİRLER VE KESİRLİ DENKLEMLER
+
+Karmaşık bir kesri tanımlayın.
+
+Basitleştir:
+
+1. (3/7 + 4/5)/(2 - 3/7 . 4/5).
+
+2. (2 - 3/2 + 2/3)/(5 - 2/3 + 3/2).
+
+3. 2 - 2/(1 - 1/[1 - 1/(1 + 1/2)]).
+
+4. a/(b^2) - a/[b^2 + (cb)/(a - c/b)]. (_Harvard._)
+
+5. Eğer m = 1/(a + 1), n ​​= 2/(a + 2), p = 3/(a + 3) ise
+m/(1 - m) + n/(1 - n) + p/(1 - p)'nin değeri nedir? (_Univ. of Penn._)
+
+6.
+{x + y - 1/[x + y - xy/(x + y)]}(x^3 - y^3)/(x^2 - y^2) ifadesini basitleştirin. (_Cornell._)
+
+7. Basitleştirin [1 - (2xy)/((x + y)^2)]/[1 + (2xy)/((x - y)^2)]
+/ {(1 - y/x)/(1 + y/x)}^2.
+
+8. (7y + 9)/4 - [y - (2y - 1)/9] = 7'yi çözün.
+
+9. 2-1/3 - (2/5)(x^2 + 3) = (10x)/3 + 1 - (2x^2)/5'i çözün.
+
+10. %4'lük bir çözelti elde etmek için 80 pound %5'lik bir tuz çözeltisine ne kadar su eklenmelidir? (_Yale._)
+
+~Referans:~ Karmaşık Kesirler'e ve herhangi bir cebirdeki Kesirli Denklemler bölümünün ilk kısmına bakın.
+
+KESİRLİ DENKLEMLER
+
+1. Sırayla her harf için çözün 1/b = 1/p + 1/q.
+
+2. Çözün ve kontrol edin:
+
+(5x + 2)/3 - (3 - (3x - 1)/2) = (3x + 19)/2 - ((x + 1)/6 + 3).
+
+3. Çözün ve kontrol edin:
+
+(1/2)(x - a/3) - (1/3)(x - a/4) + (1/4)(x - a/5) = 0.
+
+4. Çözün (özel _kısa_ yöntemi aradıktan sonra):
+
+(3x - 1)/30 + (4x - 7)/15
+= x/4 - (2x - 3)/(12x - 11) + (7x - 15)/60.
+
+5. Özel _kısa_ yöntemle çözün:
+
+1/(x - 2) - 1/(x - 3) = 1/(x - 4) - 1/(x - 5).
+
+6. Saat 8 ile 9 arasında hangi saatte bir saatin kolları
+(_a_) birbirinin karşısındadır? (_b_) dik açıdadır? (_c_) birliktedir?
+
+(_a_)'yı hesaplayın ve (_b_) ve (_c_) için denklemleri belirtin.
+
+7. F derece Fahrenheit sıcaklığını eşdeğer C derece Santigrat sıcaklığına dönüştürme formülü şudur:
+C = (5/9)(F - 32). F'yi C cinsinden ifade edin ve C = 30 ve C = 28 değerleri için F'yi hesaplayın. (_Üniversite Giriş Sınavı. Kurulu._)
+
+8. 24 sent için 2 eksik yumurtanın fiyatı düzine başına 2 sent arttığında yumurtanın fiyatı nedir? (_Yale._)
+
+9. 2/(x - 2) + 2/(4 - x^2) = 5/(x + 2)'yi çözün.
+
+~Referans:~ Herhangi bir cebirdeki Kesirli Denklemler Bölümü. Özellikle bölümün ortalarında verilen özel _kısa_ yöntemlere dikkat edin.
+
+EŞ ZAMANLI DENKLEMLER
+
+NOT. Bu noktaya kadar sunulan her konu önceki konuları bir ölçüde gözden geçirmiştir. Örneğin, çarpanlara ayırma, çarpma ve bölmenin özel kurallarını gözden geçirir; H. C. F. ve L. C. M.
+çarpanlara ayırmayı gözden geçirir; kesirlerin ve kesirli denklemlerin toplanması ve çıkarılması H. C. F. ve L. C. M.'yi gözden geçirir, vb. Ancak bu
+noktadan sonra, karşılıklı bağımlılık o kadar belirgin değildir ve
+tüm konuyu akılda taze tutmak için daha önce ele alınan çalışmayı gösteren çeşitli örnekler çok sık verilecektir.
+
+1. Üç yöntemle çözün - toplama ve çıkarma, ikame,
+ve karşılaştırma: { 5x + y = 11,
+{ 3x + 2y = 1.
+
+Çözün ve kontrol edin:
+
+2. { 12R_1 - 11R_2 = b + 12c,
+{ R_1 + R_2 = 2b + c.
+
+3. { (r - s)/2 = 25/6 - (r + s)/3,
+{ (r + s - 9)/2 - (s - r - 6)/3 = 0.
+
+4. A'nın bilyelerinin yarısı, B'nin ve C'nin bilyelerinin yarısının toplamından 2 fazladır; B'nin bilyelerinin iki katı, A'nın ve C'nin toplamından 16 eksiktir; eğer C'nin dört bilyesi daha olsaydı, A ve B'nin toplamının dörtte birine sahip olurdu. Her birinin kaç bilyesi vardır? (_Üniversite Giriş Kurulu._)
+
+5. Bir üçgenin kenarları a, b, c'dir. Köşeleri merkez olan ve her biri diğer ikisine dışarıdan teğet olan üç dairenin yarıçaplarını hesaplayın. (_Harvard._)
+
+6. { 2x + 3y = 7, x - y = 1 } denklemini grafiksel olarak çözün; sonra
+cebirsel olarak çöz ve sonuçları karşılaştır. (Koordineli veya kareli
+kağıt kullan.)
+
+Çarpan:
+
+7. x^4 + 4.
+
+8. 2d^(10) - 1024d.
+
+9. 2(x^3 - 1) - 7(x^2 - 1).
+
+~Referanslar:~ Herhangi bir cebirdeki Eşzamanlı Denklemler ve Grafikler hakkındaki bölümler.
+
+EŞZAMANLI DENKLEMLER VE İNVOLUSİYON
+
+1. (3/4)x - (5/3)y = 11-1/2,
+(5/8)x - (3/2)y = 10-1/4'ü çöz.
+
+Bilinmeyenler paydada olduğunda çözüm yöntemine bak. Kesirlerden kurtulmalı mısın?
+
+2. 1/x - 1/y - 1/z = 1/a'yı çözün,
+1/y - 1/z - 1/x = 1/b,
+1/z - 1/x - 1/y = 1/c.
+
+3. Grafiksel ve cebirsel olarak çözün
+2x - y = 4,
+2x + 3y = 12.
+
+4. Grafiksel ve cebirsel olarak çözün
+3x + 7y = 5,
+8x + 3y = -18.
+
+Gözden geçirme:
+
+5. 1'den 25'e kadar olan sayıların kareleri.
+
+6. 1'den 12'ye kadar olan sayıların küpleri.
+
+7. 1'den 5'e kadar olan sayıların dördüncü kuvvetleri.
+
+8. 1'den 3'e kadar olan sayıların beşinci kuvvetleri.
+
+9. Binom teoremi yasaları. (Bkz. İnvolution.)
+
+Genişlet: (Önce belirt, sonra azalt.)
+
+10. (b + y)^7.
+
+11. [(2a)/3 - 1]^5.
+
+12. (x^2 + 2a)^5.
+
+13. (x - y + 2z)^3.
+
+14. Bir tren ilk durakta yolcularının altıda birini, ikinci durakta 25'ini, üçüncü durakta kalanın %20'sini, dördüncü durakta kalanın dörtte üçünü kaybetti; 25 kaldı. Orijinal sayı neydi? (_M. I. T._)
+
+~Referanslar:~ Herhangi bir cebirdeki İnvolution bölümü. Ayrıca önceki sayfadaki
+referanslar.
+
+KARE KÖK
+
+Şunun karekökünü bulun:
+
+1. 1 + 16m^6 - 40m^4 + 10m - 8m^3 + 25m^2.
+
+2. (a^2)/(x^2) + (6a)/x + 11 + (6x)/a + (x^2)/(a^2).
+
+3. x^2 + 5'in üç teriminin karekökünü bulun.
+
+4. 337.561'in karekökünü bulun.
+
+5. 1823.29'un karekökünü bulun.
+
+6. 1'in karekökünü dört ondalık basamağa kadar bulun. 672.
+(_Princeton._)
+
+7. 2/[(x - 1)^3] + 1/[(1 - x)^2] - 2/(1 - x) - 1/x ekleyin.
+
+8. Şunun değerini bulun:
+(64^(1/3) . 12)/24 / 2 x 3 - (2 . 7^2)/(14) / 7
+x 1 + (1^(1/3) . 1^7)/(1 . 1^2) - 4 . 0.
+
+9. [(x + y)^5 + (x - y)^5][(x + y)^5 - (x - y)^5]'i basitleştirin.
+
+10. Kısa yöntemle çözün:
+5/(7 - x) - [(2-1/4)x - 3]/4 - (x + 11)/8 + (11x + 5)/16 = 0.
+
+11. Bir topun atıcıdan tutucuya gitmesi 3/4 saniye, tutucunun topu tutması ve ikinci üsse atması ise 1/2 saniye sürer. Birinci üsten ikinci üsse 90 fit ve tutucunun pozisyonundan ikinci üsse 130 fit mesafe vardır. İkinciyi çalan bir koşucunun, top atıcının elinden çıktığında 13 fitlik bir başlangıcı vardır ve üsse atışı 1/8 saniye geçer. Bir dahaki sefere denediğinde, sadece 3-1/2 fitlik bir başlangıç ​​alır ve 6 fit tarafından yakalanır. Koşma hızı ve tutucunun atışının hızı nedir? (_Cornell._)
+
+~Referans:~ Herhangi bir cebirde Karekök bölümü.
+
+ÜS TEORİSİ
+
+Pozitif integral üsler için şu kanıtları gözden geçirin:
+
+I. a^m x a^n = a^(m + n).
+
+II. (a^m)/(a^n) = a^(m - n).
+
+III. (a^m)^n = a^(mn).
+
+IV. [a^(mn)]^(1/n) = a^m.
+
+V. [a/b]^n = (a^n)/(b^n).
+
+VI. (abc)^n = a^n b^n c^n.
+
+~Kesirli bir üssün anlamını bulmak için.~
+
+Kural I'in _tüm_ üsler için geçerli olduğunu varsayın.
+
+Öyleyse, a^(2/3) . a^(2/3) . a^(2/3) = a^(6/3) = a^2.
+
+Dolayısıyla, a^(2/3), a^2'nin _üç eşit çarpanından biridir_ (dolayısıyla küp kökü).
+
+Dolayısıyla a^(2/3) = [a^2]^(1/3).
+
+Aynı şekilde,
+
+a^(4/5) . a^(4/5) . a^(4/5) . a^(4/5) . a^(4/5) = a^(20/5) = a^4.
+
+Dolayısıyla, a^(4/5), a^4'ün _beş eşit çarpanından biridir_ (dolayısıyla beşinci kökü).
+
+Dolayısıyla a^(4/5) = [a^4]^(1/5).
+
+Aynı şekilde, genel olarak, a^(p/q) = [a^p]^(1/q).
+
+Bu nedenle, _kesirli bir üssün payı kuvveti,
+payda ise kökü gösterir_.
+
+~Sıfır üssünün anlamını bulmak için.~
+
+II. Yasanın _tüm_ üsler için geçerli olduğunu varsayın.
+
+Eğer öyleyse, (a^m)/(a^m) = a^(m - m) = a^0. Ancak bölme yoluyla, (a^m)/(a^m) = 1.
+
+Bu nedenle a^0 = 1. Aksiyom I.
+
+~Negatif bir üssün anlamını bulmak için.~
+
+I. Yasanın _tüm_ üsler için geçerli olduğunu varsayın.
+
+Eğer öyleyse, a^m x a^(-m) = a^(m - m) = a^0 = 1.
+
+Bu nedenle, a^m x a^(-m) = 1.
+
+Bu nedenle a^(-m) = 1/(a^m).
+
+Kurallar:
+
+_Aynı tabana sahip nicelikleri çarpmak için üsleri toplayın._
+
+_Aynı tabana sahip nicelikleri bölmek için üsleri çıkarın._
+
+_Bir niceliği bir kuvvete yükseltmek için üsleri çarpın._
+
+_Bir kökü çıkarmak için kuvvetin üssünü kökün
+
+indisine bölün._
+
+1. 3^2 - 5 x 4^0 + 8^(-2/3) + 1^(2/5) değerini bulun.
+
+2. 8^(-2/3) + 9^(3/2) - 2^(-2) + 1^(-2/5) - 7^0 değerini bulun.
+
+Aşağıdakilerin her birinin değerini verin:
+
+3. (3^0)/5, 3/(5^0), (3^0)/(5^0),
+3^0 x 5, 3 x 5^0, 3^0 x 5^0, 3^0 + 5^0, 3^0 - 5^0.
+
+4. 7^0'ı 7'nin bir kuvvetinin kendisine bölünmesi olarak ifade edin.
+
+Basitleştirin:
+
+5. 16^(1/3) . 2^(1/2) . 32^(5/6). (Önce aynı tabana geçin.)
+
+6. [2/(8^(-3))]^(1/5).
+
+7. [(x^n)^(n + 2)]/[(x^(n + 1))(x^(n - 1))].
+
+8. (x + 3x^(2/3) - 2x^(1/3))(3 - 2x^(-1/3) + 4x^(-2/3)).
+
+9. [(a^2b)/(c^2d)]^(1/2) x [(c^3d)/(ab^3)]^(1/3)
+x [(a^(1/3)c)/(b^(1/4)d^(5/12))]^2.
+
+10. [(a^(-4))/(b^(-2)c)]^(-3/4)
+x [(a^(-1)b[c^(-3)]^(1/2))/(ab^(-1))]^(1/2).
+
+11. [([a^2]^(1/3))/([b^(-1)]^(1/4)) . ([c^(-3)]^(1/2))/(a^(1/3))
+. (b^(-1/4)a^(1/3))/(c^(-1))]^(-6).
+
+~Referans:~ Herhangi bir cebirdeki Üs Teorisi bölümü.
+
+x için çözüm:
+
+1. x^(2/3) = 4.
+
+2. x^(-3/4) = 8.
+
+Çarpan:
+
+3. x^(2/3) - 9.
+
+4. x^(3/5) + 27.
+
+5. x^(2a) - y^(-6).
+
+6. a^(1/3) x^(1/2) - 3a^(1/3) + 5x^(1/2) - 15.
+
+7.
+a^2 + a^(3/2) b^(1/2) + a^(1/2) b^(3/2) - b^2,
+a^2 - a^(3/2) b^(1/2) - a^(1/2) b^(3/2) - b^2'nin Y.K.K. ve EK.K.M.'sini bulun.
+
+8. Şunun ürününü basitleştirin:
+(ayx^(-1))^(1/2), (bxy^(-2))^(1/3),
+ve (y^2a^(-2)b^(-2))^(1/4). (_Princeton._)
+
+9. Şunun karekökünü bulun:
+25a^(4/3)b^(-3) - 10a^(2/3)b^(-3/2) - 49
++ 10a^(-2/3)b^(3/2) + 25a^(-4/3)b^3.
+
+10. [(2^(n + 2))/(4^(-n)) / (8^n)/(2^3)]^(1/5)'i basitleştirin.
+
+11.
+(7 . 13^0 / 7)/(21^0) + 3^0 x (4^0 . 7^0)/[(7a + b)^0] + 8^(-2/3) değerini bulun.
+
+12. 2'nin bir kuvveti olarak ifade edin: 8^3; 4^5; 4^3 . 8^(2/3) . 16^(3/4).
+
+13. Basitleştirin
+{[(x^(a + 1))/(x^(1 - a))]^a
+/ [(x^a)/(x^(1 - a))]^(a - 1)}^(1/(3a - 1)).
+
+14. Basitleştirin
+[(x^(5/2) y^(4/3))/(z^(-5/4)) . (z^4)/(x^(-3) y^(-5/3))
+/ (y^(-2) z^(1/4))/(x^(-1/2))]^(1/5).
+
+15. (a^(1/2) + b^(1/3))^4'ü genişletin, sonucu kesirli üslerle yazın.
+
+~Referans:~ Herhangi bir cebirdeki Üsler Teorisi bölümü.
+
+RADİKALLER
+
+1. Radikallerdeki tüm tanımları ve ayrıca radikalleri dönüştürme ve basitleştirme yöntemlerini gözden geçirin. _a radikali ne zaman en basit
+
+formundadır_?
+
+2. Basitleştirin (en basit forma):
+[2/3]^(1/2);
+[1/11]^(1/2);
+[3/5]^(1/3);
+3[5/6]^(1/2);
+(2a/b)[(8b^2)/(27a)]^(1/2);
+[5/(x^n)]^(1/2n);
+(a + b)^2 [(-a^4)/((a + b)^5)]^(1/3);
+27^(1/2);
+[54]^(1/3);
+-5[125^(1/2)].
+
+3. Tüm köklere indirgeyin:
+2[3^(1/2)];
+2[3^(1/4)];
+6[2^(1/3)];
+a[[b^2]^(1/n)];
+-3[2^(1/3)];
+3a[[(a + 2)/(6a^2)]^(1/3)];
+(a + 2y)[(a - 2y)/(a + 2y)]^(1/2).
+
+4. Daha düşük mertebeden radikallere indirgeyin (veya endeksleri basitleştirin):
+[a^2]^(1/4);
+[a^3]^(1/6);
+[27a^3]^(1/6);
+[81 a^4 x^8]^(1/12);
+[9x^2 y^4 z^10]^(1/2n).
+
+5. Aynı derecedeki (mertebe veya endeksteki) radikallere indirgeyin:
+7^(1/2) ve [11]^(1/3);
+5^(1/3) ve 3^(1/4);
+7^(1/6) ve 3^(1/2);
+[x^m]^(1/n) ve [x^n]^(1/m);
+[c^y]^(1/x), [c^z]^(1/y) ve [c^x]^(1/z).
+
+6. Hangisi daha büyüktür, 3^(1/2) veya 4^(1/3)? [23]^(1/3) veya 2[2^(1/2)]?
+
+7. Hangisi daha büyüktür, 3^(1/2), 5^(1/3) veya 7^(1/4)? İş verin ve
+azalan büyüklük sırasına göre düzenleyin.
+
+Toplayın:
+
+8. 128^(1/2) - 2[50^(1/2)] + 72^(1/2) - 18^(1/2).
+
+9. 2[5/3]^(1/2) + (1/6)60^(1/2) + 15^(1/2) + [3/5]^(1/2).
+
+10. [(m - n)^2a]^(1/2) + [(m + n)^2a]^(1/2) - [am^2]^(1/2)
++ [a(n - m)^2]^(1/2) - a^(1/2).
+
+11. A ve B her biri bir hedefe otuz ok atar. B, A'dan iki kat daha fazla isabet eder ve A, B'den üç kat daha fazla ıskalar.
+Her birinin isabet ve ıskalama sayısını bulun. (_Univ. of Cal._)
+
+~Referans:~ Herhangi bir cebirdeki Radikaller hakkındaki bölüm (bölümün ilk kısmı).
+
+Radikaller'deki en önemli ilke şudur:
+
+(ab)^(1/n) = a^(1/n) b^(1/n).
+
+Bu nedenle [ab]^(1/n) = a^(1/n) . b^(1/n).
+
+Veya, a^(1/n) . b^(1/n) = [ab]^(1/n).
+
+Buradan da ([ab]^(1/n))/(a^(1/n)) = b^(1/n).
+
+Şunu çarpın:
+
+1. 2[4^(1/3)] ile 3[6^(1/3)].
+
+2. 2^(1/2) ile 3^(1/3).
+
+3. 2^(1/4) ile 4^(1/6).
+
+4. [a + x^(1/2)]^(1/2) ile [a - x^(1/2)]^(1/2).
+
+5. 2^(1/2) + 3^(1/2) - 5^(1/2) ile 2^(1/2) - 3^(1/2) + 5^(1/2).
+
+6. -p/2 + ([p^2 - 4q]^(1/2))/2 -p/2 - ([p^2 - 4q]^(1/2))/2.
+
+Böl:
+
+7. 27^(1/2) 3^(1/2) ile.
+
+8. 4[18^(1/2)] 5[32^(1/2)] ile.
+
+9. 3[12]^(1/3) 6^(1/2) ile.
+
+10. 3^(1/2) 3^(1/4) ile.
+
+11. 6[105^(1/2)] + 18[40^(1/2)] - 45[12^(1/2)] 3[15^(1/2)] ile. (_Kısa bölme._)
+
+12. 10[18]^(1/3) - 4[60]^(1/3) + 5[100]^(1/3) 3[30]^(1/3) ile.
+
+Paydayı rasyonelleştirin:
+
+13. 2/(3^(1/2));
+7/(7^(1/2));
+5/(2[5^(1/2)]);
+3/([a^2]^(1/5));
+4/([a^3]^(1/7)).
+
+14. 2/(2^(1/2)) + 3^(1/2));
+(a^(1/2) + b^(1/2))/(a^(1/2) - b^(1/2));
+3/(3 - 3^(1/2)).
+
+15. [3^(1/2) + 2^(1/2)]/[6^(1/2) + 3^(1/2) - 2^(1/2)].
+
+İki terimli bir surd'ün karekökünü bulma yöntemini gözden geçirin. (Tercihen
+inceleme yoluyla.) Ardından şunun karekökünü bulun:
+
+16. 5 + 2[6^(1/2)].
+
+17. 17 - 12[2^(1/2)].
+
+18. 7 - 33^(1/2). ~Referans:~ Herhangi bir cebirdeki Kökler bölümü, şuradan başlar
+Köklerin Toplanması ve Çıkarılması.
+
+ÇEŞİTLİ ÖRNEKLER, CEBİRDEN KUADRATİKLERE
+
+Denetlemeyle elde edilen sonuçlar, örnekler 1-10.
+
+Bölme:
+
+1. (x^(5/17) + y^(5/17))/(x^(1/17) + y^(1/17)).
+
+2. (x - y)/(x^(1/3) - y^(1/3)).
+
+3. (m^2 + n^2)/(m^(2/3) + n^(2/3)).
+
+4. (x - y^2)/(x^(1/3) - [y^2]^(1/3)).
+
+Çarp:
+
+5. [a^(-3/4) + 2/(m^(1/2))]^2.
+
+6. (K^(-2/7) - g^(-11/25))^2.
+
+7. (r^(2s) + l^(-3m))(r^(2s) - l^(-3m)).
+
+8. [a^(-2) + b^(-3) - 1/(c^2)]^2.
+
+9. (3K^x + 4t^(-3))(3K^x - 7t^(-3)).
+
+10. (2y^(2/7) - 40K^3)(3y^(2/7) + 55K^3).
+
+Faktör:
+
+11. x^(2/3) - 64.
+
+12. y^(3/5) + 27.
+
+13. b^(3/2) - 8m^(-1).
+
+14. 3p - 8p^(1/2) - 35.
+
+Üsler yerine kökler kullanılarak çarpan:
+
+15. 60 - 7[3b^(1/2)] - 6b.
+
+16. 15m - 2[[mn]^(1/2)] - 24n.
+
+17. a - b (faktör iki karenin farkı olarak).
+
+18. a - b (faktör iki küpün farkı olarak).
+
+19. a - b (faktör iki dördüncü kuvvetin farkı olarak).
+
+20.
+x^2 + xy^(1/2) - 2y,
+2x^2 + 5xy^(1/2) + 2y,
+2x^2 - xy^(1/2) - y'nin Y.K.K. ve OY.K.M.'sini bulun.
+
+21. Çözün (kısa yöntem)
+(x - 7)/(x - 8) - (x - 8)/(x - 9)
+= (x - 4)/(x - 5) - (x - 5)/(x - 6).
+
+22. Basitleştirin
+(ab/c + bc/a + ca/b)/(a/bc + b/ca + c/ab)
+x [((a + b + c)^2)/(ab + bc + ca) - 2]. (_Princeton._)
+
+1. p'yi çözün: 2^(p - 3) = 128.
+
+2. t'yi çözün: t^(3/2) = -27.
+
+3. 8114.4064'ün karekökünü bulun. Peki, .0081144064'ün karekökü
+nedir? 811440.64'ün? Yukarıdakilerden herhangi birinden .081144064'ün karekökünü
+belirleyebilir misiniz?
+
+4. İki ifadenin Y.K.K.'sı a(a - b)'dir ve EK.K.M.'si
+a^2b(a + b)(a - b)'dir. Bir ifade ab(a^2 - b^2) ise, diğeri
+nedir?
+
+5. Çözün (kısa yöntem):
+5/(7 - x) - [(2-1/4)x - 3]/4 - (x + 11)/8 + (11x + 5)/16 = 0.
+
+6. Çözün
+2/m - 3/n + 10/p = -3,
+4/m + 5/p + 6/n = 15,
+1/m - 1/n + 5/p = -1/2.
+
+7. Basitleştirin
+21[2/3]^(1/2) - 5[4/5]^(1/2) + 6[4-1/6]^(1/2)
+- 10[3-1/5]^(1/2) + (40/3)[11-1/4]^(1/2).
+
+8. [16 x 25]^(1/2) = 4 x 5 mi? [16 + 25]^(1/2) = 4 + 5 mi?
+
+9. 5/(4 + 2[3^(1/2)]) kesrini rasyonel payda ile yazın
+ve değerini iki ondalık basamağa kadar doğru olarak bulun.
+
+10. Basitleştirin
+[{([p + [p^2 - q]^(1/2)]/2)^(1/2)
++ ([p - [p^2 - q]^(1/2)]/2)^(1/2)}^2]/[p + q^(1/2)]. (_Princeton._)
+
+1. Paydayı rasyonelleştirin
+{6^(1/2) + 3^(1/2) - 3[2^(1/2)]}/{6^(1/2) - 3^(1/2) + 3[2^(1/2)]}.
+(_Univ. of Cal._)
+
+2. [2^(n + 4) - 2(2^n)]/[2(2^(n + 3))]'ü basitleştirin. (_Univ. of Penn._)
+
+3. x = 2 olduğunda [1 + 8^(-x/3)]/[(8x)^(1/2) + 10^(x - 2)] değerini bulun.
+(_Cornell._)
+
+4. x değerini bulun eğer
+x^(6/5) = y^4,
+y^(2/3) = 9. (_M. I. T._)
+
+5. Bir balıkçı bir hikayeye yakaladığı bir balıktan bahsetti. Eğer balık söylediğinin yarısı kadar uzun olsaydı, şu ankinden 10 inç daha uzun olurdu. Eğer olduğundan 4 inç daha uzun olsaydı ve 4 inç ekleyerek uzunluğunu daha da abartsaydı, şu ankinden 1/5 daha uzun olurdu. Balık ne kadar uzun ve ilk söylediğinde ne kadar uzundu? (_M. I. T._)
+
+6. Bir ağırlığı _W_ belirli bir makineyle kaldırmak için gereken _P_ kuvveti şu formülle verilir
+
+P = a + bW,
+
+burada _a_ ve _b_ makinedeki sürtünme miktarına bağlı sabitlerdir. 7 poundluk bir kuvvet 20 poundluk bir ağırlığı kaldıracaksa ve 13 poundluk bir kuvvet 50 poundluk bir ağırlığı kaldıracaksa,
+40 poundluk bir ağırlığı kaldırmak için gereken kuvvet nedir? (Önce
+_a_ ve _b_ sabitlerini belirleyin.) (_Harvard._)
+
+7. En basit forma indirgeyin:
+[[4/[2^(n + 2)]]^(1/n);
+[ax(a^(-1)x - ax^(-1))]/[x^(2/3) - a^(2/3)].
+
+8. (xy - y^2)^3 ve y^3 - x^2y'nin Y.Ç.Ç. ve Y.Ç.M.'sini belirleyin.
+(_Üniversite Giriş Panosu._)
+
+1. (a - 8m)/(a^(1/3) - 2m^(1/3)) - 2a^(1/3)m^(1/3)'ü basitleştirin.
+
+2. Sonucu rasyonel payda ile yazarak basitleştirin:
+([a^(1/2) + (1)/(x^(-1/2))]^2 - [(1)/(a^(-1/2)) - x^(1/2)]^2)
+/ (x + [a^2 + x^2]^(1/2)). (_M. I. T._)
+
+3. [7 - 48^(1/2)]^(1/2)'yi bulun.
+
+4. ([a^3]^(1/2) - [b^5]^(1/2))^5'i genişletin.
+
+5. (1 - 2[3^(1/2)] + 3[2^(1/2)])^2'yi genişletin ve basitleştirin.
+
+6. Eşzamanlı denklemleri çözün
+x ^(-1/2) + 2y^(-1/2) = 7/6,
+2x^(-1/2) - y^(-1/2) = 2/3. (_Yale._)
+
+7. Üç ondalık basamağına kadar şu değeri bulun
+{[(a + b)^(-1/3)]/[(11a + b^2)^(1/6)]
+. [({a^3 - b^3)^(-1/2)]/[(a - b)^(1/2)]}^(1/2),
+a = 5 ve b = 3 olduğunda. (_Columbia._)
+
+8. (10 - 4[5^(1/2)])/(5 + 3[5^(1/2)])'nin (10 + 4[5^(1/2)])/(5 - 3[5^(1/2)])'nin tersinin negatifi olduğunu gösterin.
+(_Columbia._)
+
+9. {5}/{[3x + 2]^(1/2)} = [3x + 2]^(1/2) + [3x - 1]^(1/2)'yi çözün ve kontrol edin.
+
+10. Bir elmanın ağaçtan düştüğünde, herhangi bir zamanda (t saniye) düştüğü mesafenin (S metre) S = (1/2)gt^2 (burada g = 9,8) formülüyle verildiğini varsayarak, bir elmanın 15 metre düşmesi için geçen süreyi iki ondalık basamağa kadar bulun.
+(_Üniversite Giriş Kurulu._)
+
+Aritmetik, geometri ve fizikte kullanılan sıradan formülleri _sözlü olarak, her harf için sırayla_ çözerek mükemmel bir pratik elde edilebilir.
+
+ARİTMETİK
+
+p = br
+i = prt
+a = p + prt
+
+GEOMETRİ
+
+K = (1/2) bh
+K = bh
+K = (a^2)/4 3^(1/2)
+K = (1/2) (b + b') h
+K = [pi] R^2
+C = 2 [pi] R
+K = [pi] R L
+S = 4 [pi] R^2
+V = [pi] R^2 H
+V = (1/3) [pi] R^2 H
+V = (4/3) [pi] R^3
+S = ([pi] R^2 E)/(180)
+C/(C') = R/(R')
+K/(K') = (R^2)/(R'^2)
+
+FİZİK
+
+v = gt
+s = (1/2) gt^2
+s = (v^2)/(2g)
+C = E/R
+E = (wv^2)/(2g)
+e = (4Pl^3)/(bh^3 m)
+E = (mv^2)/(2)
+t = [pi] [l/g]^(1/2)
+F = (mV^2)/(r)
+mh = (mv^2)/(2g)
+R = gs/(g + s)
+E = (4n^2l^2w)/(g)
+C = (5/9)(F - 32)
+
+KUADRATİK DENKLEMLER
+
+1. Bir ikinci dereceden denklemi tanımlayın; saf bir ikinci dereceden denklem; etkilenen (veya
+tamamlanmış) bir ikinci dereceden denklem; ikinci dereceden formdaki bir denklem.
+
+2. Saf ikinci dereceden denklemi çözün (7)/(3S^2) - (11)/(9S^2) = 5/6.
+
+Kareyi tamamlamanın ilk (veya olağan) yöntemini gözden geçirin. Aşağıdakileri çözün:
+
+3. x^2 + 10x = 24.
+
+4. 2x^2 - 5x = 7.
+
+5. (x - 1)/2 + 2/(x - 1) = 2-1/2.
+
+6. ax^2 + bx + c = 0.
+
+Çözümü çarpanlarına ayırarak gözden geçirin. Aşağıdakileri çözün:
+
+7. x^2 + 8x + 7 = 0.
+
+8. 24x^2 = 2x + 15.
+
+9. 3 = 10x - 3x^2.
+
+10. -7 = 6x - x^2.
+
+İkinci dereceden olmayan bu denklemleri çarpanlarına ayırarak çözün:
+
+11. x^4 = 16.
+
+12. x^3 = 8.
+
+13. x^3 = x.
+
+Formüle göre çözümü inceleyin. Aşağıdakileri çözün:
+
+14. 5x^2 - 6x = 8.
+
+15. (1/2)(x + 1) - (x/3)(2x - 1) = -12.
+
+16. x^2 + 4ax = 12a^2.
+
+17. 3x^2 = 2rx + 2r^2.
+
+Grafiksel olarak çözün:
+
+18. x^2 - 2x - 8 = 0.
+
+19. x^2 + x - 2 = 0.
+
+~Referans:~ Herhangi bir cebirdeki İkinci Dereceden Denklemler bölümü (bölümün ilk kısmı).
+
+1. Üç yöntemle çözün: formül, çarpanlara ayırma ve kareyi tamamlama: x^2 + 10x = 24.
+
+İkinci dereceden denklemleri gözden geçirin ve çözün:
+
+2. x^4 - 5x^2 = -4.
+
+3. 2[x^(-2)]^(1/3) - 3[x^(-1)]^(1/3) = 2.
+
+4. (x + 3)/(x - 3) + 6 = 5[(x + 3)/(x - 3)]^(1/2). (y = [(x + 3)/(x - 3)]^(1/2) olsun ve yerine koyalım.)
+
+5. 3x^2 - 4x + 2[3x^2 - 4x - 6]^(1/2) = 21.
+
+6. x^2 + 5x - 5 = (6)/(x^2 + 5x).
+
+Çözün ve kontrol edin:
+
+7. [x + 7]^(1/2) + [3x - 2]^(1/2) = (4x + 9)/([3x - 2]^(1/2)).
+
+8. [x^2 - 5]^(1/2) + 6/[[x^2 - 5]^(1/2)] = 5.
+
+9. (10w)/([10w - 9]^(1/2)) - [10w + 2]^(1/2) = 2/([10w - 9]^(1/2)).
+
+Sonuçları incelemeyle verin:
+
+10. (a^(1/2) + b^(1/2))(a^(1/2) - b^(1/2)).
+
+11. ([10 + 19^(1/2)]^(1/2))([10 - 19^(1/2)]^(1/2)).
+
+12. 33% tereyağı yağı içeren krema ve 6% tereyağı yağı içeren sütün her biri kaç galon karıştırılarak 25% tereyağı yağı içeren 10 galon krema elde edilmelidir?
+
+13. 6 dolarım var, on sent, çeyrek ve yarım dolar, toplamda 33
+madeni para. On sent ve çeyrek dolarların toplam sayısı yarım dolar sayısının on katıdır. Her türden kaç tane madeni para vardır? (_Üniversite Giriş Kurulu._)
+
+~Referans:~ Herhangi bir cebirdeki İkinci Dereceden Denklemler bölümünün son kısmı.
+
+İKİNCİ DERECEDEN DENKLEMLER TEORİSİ
+
+~I. Köklerin toplamını ve çarpımını bulmak için.~
+
+Genel ikinci dereceden denklem şudur:
+
+ax^2 + bx + c = 0. (1)
+
+Veya, x^2 + (b/a)x + c/a = 0. (2)
+
+Formülü türetmek için, şunu transpoze ederek elde ederiz:
+
+x^2 + (b/a)x = -c/a.
+
+Kareyi tamamlayarak,
+
+x^2 + (b/a)x + [b/2a]^2 = (b^2)/(4a^2) - c/a = (b^2 - 4ac)/(4a^2).
+
+Karekökü çıkararak, x + b/2a = [+-[b^2 - 4ac]^(1/2)]/(2a).
+
+Transpoze ederek, x = -b/2a +- [[b^2 - 4ac]^(1/2)]/(2a).
+
+Bu nedenle, x = [-b +- [b^2 - 4ac]^(1/2)]/(2a).
+
+Bu iki x değerine _kökler_ diyoruz.
+
+Kolaylık olması açısından bunları r_1 ve r_2 ile gösterelim.
+
+Bu nedenle, r_1 = -b/2a + [[b^2 - 4ac]^(1/2)]/(2a).
+r_2 = -b/2a - [[b^2 - 4ac]^(1/2)]/(2a).
+----------------------------------------------
+Toplama, r_1 + r_2 = -(2b)/(2a) = -b/a. (3)
+
+Ayrıca, r_1 = -b/2a + [[b^2 - 4ac]^(1/2)]/(2a).
+r_2 = -b/2a - [[b^2 - 4ac]^(1/2)]/(2a).
+--------------------------------------------
+Çarpma, r_1 r_2 = (b^2)/(4a^2) - (b^2 - 4ac)/(4a^2)
+= (b^2 - b^2 + 4ac)/(4a^2)
+= (4ac)/(4a^2) = c/a. (4)
+
+Bu nedenle şunu gösterdik
+
+r_1 + r_2 = -b/a,
+ve r_1 r_2 = c/a.
+
+Veya yukarıdaki denklem (2)'ye atıfta bulunarak, şu kurala sahibiz:
+
+_x^2 katsayısı bir olduğunda, köklerin toplamı
+işareti değiştirilmiş x'in katsayısıdır; köklerin çarpımı
+bağımsız terimdir._
+
+ÖRNEKLER:
+
+1. x^2 - 9x + 21 = 0.
+Köklerin toplamı = 9.
+Köklerin çarpımı = 21.
+
+2. 3x^2 - 7x - 18 = 0.
+Köklerin toplamı = 7/3.
+Köklerin çarpımı = -6.
+
+3. -21x = 17 - 4x^2.
+Köklerin toplamı = 21/4.
+Köklerin çarpımı = -17/4.
+
+~II. Köklerin doğasını veya karakterini bulmak için.~
+
+Daha önce olduğu gibi, r_1 = -b/2a + [[b^2 - 4ac]^(1/2)]/(2a),
+r_2 = -b/2a - [[b^2 - 4ac]^(1/2)]/(2a).
+
+[b^2 - 4ac]^(1/2), köklerin _doğasını_ veya _karakterini_ belirler; bu nedenle _discriminant_ olarak adlandırılır.
+
+~Eğer b^2 - 4ac pozitifse, kökler gerçek, eşitsiz ve
+rasyonel veya irrasyoneldir.~
+
+~Eğer b^2 - 4ac negatifse, kökler hayali ve eşitsizdir.~
+
+~Eğer b^2 - 4ac sıfırsa, kökler gerçek, eşit ve rasyoneldir.~
+
+ÖRNEKLER:
+
+1. x^2 - 4x + 2 = 0.
+
+[b^2 - 4ac]^(1/2) = [16 - 8]^(1/2) = 8^(1/2).
+Bu nedenle: Kökler gerçek, eşitsiz ve irrasyoneldir.
+
+2. x^2 - 4x + 6 = 0.
+
+[b^2 - 4ac]^(1/2) = [16 - 24]^(1/2) = -8^(1/2).
+Bu nedenle: Kökler hayali ve eşitsizdir.
+
+3. x^2 - 4x + 4 = 0.
+
+[b^2 - 4ac]^(1/2) = [16 - 16]^(1/2) = 0^(1/2).
+Bu nedenle: Kökler gerçek, eşit ve rasyoneldir.
+
+~III. Kökler verildiğinde ikinci dereceden denklemi oluşturmak için.~
+
+Köklerin 3, -7 olduğunu varsayalım.
+
+O zaman, x = 3, Veya, x - 3 = 0,
+x = -7. x + 7 = 0.
+-------------------
+İkinci dereceden bir denklem elde etmek için çarpıldığında, (x - 3)(x + 7) = 0.
+
+Veya, x^2 + 4x - 21 = 0. _Veya_, önceki sayfada geliştirilen toplam ve ürün fikrini kullanın.
+x^2'nin katsayısı birlik olmalıdır.
+
+Kökleri toplayın ve x katsayısını elde etmek için işareti değiştirin.
+
+Bağımsız terimi elde etmek için kökleri çarpın.
+
+Bu nedenle: Denklem x^2 + 4x - 21 = 0'dır.
+
+Aynı şekilde, kökler [2 + 3^(1/2)]/7, [2 - 3^(1/2)]/7 ise,
+denklem
+
+x^2 - (4/7)x + 1/49 = 0'dır.
+
+Aşağıdakilerin toplamını, çarpımını ve köklerinin doğasını veya karakterini bulun:
+
+1. x^2 - 7x + 12 = 0.
+
+2. 9x^2 - 6x + 1 = 0.
+
+3. x^2 + 2x + 9734 = 0.
+
+4. 16 + 5/x = 17/(x^2).
+
+5. (x - 8)/(x - 3) = x.
+
+6. (x + 7)(x - 6) = 70.
+
+7. x^2 - x(2)^(1/2) = 3.
+
+8. pr^2 + qr + s = 0.
+
+Kökleri şu olan denklemleri oluşturun:
+
+9. 5, -3.
+
+10. 2/3, 5/3.
+
+11. c + d, c - d.
+
+12. -3, -5.
+
+13. [2 +- -3^(1/2)]/5.
+
+14. 8/3 + (2/3)37^(1/2), 8/3 - (2/3)37^(1/2).
+
+15. [-2 +- -2^(1/2)]/2.
+
+16. x^2 - 3x + 4 = 0'ı çözün. x değerlerini yerine koyarak kontrol edin;
+sonra köklerin toplamını ve çarpımını bularak kontrol edin.
+Her durumda gereken emek miktarını karşılaştırın.
+
+17. (x - 3)(x + 2)(x^2 + 3x - 4) = 0'ı çözün.
+
+18. e^(4z) + 2e^(3z) + e^(2z) + 2e^z + 2 + e^(-2z) mükemmel bir kare midir?
+
+19. Karekökü bulun (kısa yöntem):
+(x^2 - 1)(x^2 - 3x + 2)(x^2 - x - 2).
+
+20. (1,2x - 1,5)/(1,5) + (,4x + 1)/(,2x - ,2) = (,4x + 1)/(,5) denklemini çözün.
+
+21. Bir aynanın camı 18 inç x 12 inçtir ve alanı camınkine eşit olan tekdüze genişlikte bir
+çerçeveye sahiptir.
+Çerçevenin genişliğini bulun.
+
+EŞ ZAMANLI KUADRATİKLERİN ANA HATLARI
+
+~Eş Zamanlı Kuadratikler~
+
+DURUM I.
+
+Bir denklem doğrusal.
+Diğeri kuadratik.
+2x + y = 7,
+x^2 + 2y^2 = 22.
+
+YÖNTEM: x'i y cinsinden veya _tam tersi_ olarak doğrusal olarak çözün ve kuadratikte yerine koyun.
+
+DURUM II.
+
+Her iki denklem de homojen ve ikinci dereceden.
+x^2 - xy + y^2 = 39,
+2x^2 - 3xy + 2y^2 = 43.
+
+YÖNTEM: y = vx olsun ve her iki denklemde de yerine koy.
+
+ALTERNATİF YÖNTEM: Bir denklemde x'i y cinsinden çözün ve diğerinde yerine koyun.
+
+DURUM III.
+
+Verilen herhangi iki nicelik
+x + y
+x^2 + y^2
+xy
+x - y
+x^3 + y^3
+x^3 - y^3
+x^2 + xy + y^2
+x^2 - xy + y^2
+.
+
+x + y = 5,
+x^2 - xy + y^2 = 7.
+
+YÖNTEM: x + y ve x - y'yi çözün; sonra x'i elde etmek için toplayın, y'yi elde etmek için
+çıkarın.
+
+DURUM IV.
+
+Her iki denklem de işaret hariç simetrik veya simetriktir.
+Genellikle bir denklem yüksek dereceden, diğeri birinci derecedendir.
+x^5 + y^5 = 242,
+x + y = 2.
+
+YÖNTEM: x = u + v ve y = u - v olsun ve her iki denklemde de yerine koyalım.
+
+~Özel Aygıtlar~
+
+I. İlk başta xy, [x - y]^(1/2),
+[xy]^(1/2), x/y, vb. gibi bir bileşik niceliği bilinmeyen olarak ele alalım.
+Bileşik bilinmeyeni
+çözün ve ortaya çıkan
+denklemi daha basit orijinal denklemle birleştirin.
+
+x^2 y^2 + xy = 6,
+x + 2y = -5.
+
+II. Denklemleri üye üyeye bölün. Sonra
+Durum I, II veya III ile çözün.
+
+x^3 - y^3 = 152,
+x - y = 2.
+
+III. İkinci dereceden terimleri ortadan kaldırın. Sonra Durum I, II veya III ile çözün.
+
+xy + x = 15,
+xy + y = 16.
+
+EŞ ZAMANLI KUADRATİK
+
+Çözün:
+
+1. x + y = 7,
+x^2 + 4xy = 57.
+
+2. 2x^2 = 46 + y^2,
+xy + y^2 = 14.
+
+3. x^2 + y^2 = 25,
+x + y = 1.
+
+4. x^4 + y^4 = 2,
+x - y = 2.
+
+5. x^3 + y^3 = 28,
+x + y = 4.
+
+6. x^2 y^2 + xy - 12 = 0,
+x + y = 4.
+
+7. 2xy - x + 2y = 16,
+3xy + 2x - 4y = 10.
+
+8. (3x - 2y)(2x - 3y) = 26,
+x + 1 = 2y.
+
+9. 4x^2 + 3xy + 2y^2 = 18,
+3x^2 + 2xy - y^2 = 3.
+
+10. x^5 + y^5 = 242,
+x + y = 2.
+
+11. x - y + [x - y]^(1/2) = 6,
+xy = 5.
+
+12. 4x^2 - x + y = 67,
+3x^2 - 3y = 27.
+
+13. x - y - [x - y]^(1/2) = 2,
+x^3 - y^3 = 2044. (_Yale._)
+
+14. x^2 + xy + x = 14,
+y^2 + xy + y = 28. (_Princeton._)
+
+15. x^2 + y^2 = 13,
+y^2 = 4(x - 2). Her denklemin grafiğini çizin. (_Cornell._)
+
+16. x^2 + y^2 = xy + 37,
+x + y = xy - 17. (_Columbia._)
+
+_Cevapları gruplandırırken, her x değerini y'nin karşılık gelen değeriyle ilişkilendirdiğinizden emin olun._
+
+17. Bir yatın rotası 30 mil uzunluğundadır ve bir kolu diğerinden 2 mil daha uzun olan
+dik üçgen şeklindedir. Her bir kenar boyunca mesafe nedir?
+
+~Referans:~ Herhangi bir cebirdeki Eşzamanlı İkinci Dereceden Denklemler bölümü.
+
+ORAN VE ORANTI
+
+1. Oran, orantı, ortalama orantılı, üçüncü orantılı,
+dördüncü orantılıyı tanımlayın.
+
+2. 4 ile 16; 18 ile 50; 12m^2n
+ve 3mn^2 arasında bir ortalama orantılı bulun.
+
+3. 4 ve 7 ile orantılı bir üçüncü bulun; 5 ve 10; a^2 - 9 ve a - 3.
+
+4. 2, 5 ve 4'e orantılı dördüncü bir sayı bulun; 35, 20 ve 14.
+
+5. Aşağıdakilerin kanıtlarını yazın, her durumda teoremi tam olarak belirtin:
+
+(_a_) Uçların çarpımı vs.'ye eşittir.
+
+(_b_) İki sayının çarpımı diğer iki sayının çarpımına eşitse, her iki çift vs.
+
+(_c_) Değişim.
+
+(_d_) Ters çevirme.
+
+(_e_) Bileşim.
+
+(_f_) Bölme.
+
+(_g_) Bileşim ve bölme.
+
+(_h_) Eşit oranlar serisinde, öncüllerin toplamı, sonuçların toplamına eşittir vb.
+
+(_i_) Bir oranın terimlerinin benzer kuvvetleri veya benzer kökleri vb.
+
+6. Eğer x : m :: 13 : 7 ise, bundan türetilebilecek tüm olası oranları yazın. [Yukarıdaki (5)'e bakın.]
+
+7. rs = 161m verildiğinde; bundan türetilebilecek sekiz oranı yazın ve otoritenizi alıntılayın.
+
+8. (_a_) Hangi teorem herhangi bir oranı bir denkleme dönüştürmenize izin verir?
+
+(_b_) Hangi teorem herhangi bir denklemi bir orana dönüştürmenize izin verir?
+
+9. Eğer xy = rg ise, x'in g'ye oranı nedir? y'nin r'ye oranı nedir? y'nin g'ye oranı nedir?
+
+10. Toplamları, farkları ve karelerinin toplamı 5: 3: 51 oranında olan iki sayı bulun. (_Yale._)
+
+~Referans:~ Herhangi bir cebirde Oran ve Orantı bölümü.
+
+Dört ifadenin orantılı olduğunu kanıtlamanın kolay ve etkili bir yöntemi aşağıdaki örnekle gösterilmiştir:
+
+a : b = c : d verildiğinde;
+
+3a^3 + 5ab^2 : 3a^3 - 5ab^2 = 3c^3 + 5cd^2 : 3c^3 - 5cd^2 olduğunu kanıtlayın.
+
+a/b = r olsun. Dolayısıyla a = br.
+
+Ayrıca c/d = r. Dolayısıyla c = dr.
+
+Birinci orandaki a değerini ve ikinci orandaki c değerini değiştirin:
+
+Daha sonra
+
+  (3a^3 + 5ab^2)/(3a^3 - 5ab^2) = (3b^3r^3 + 5b^3r)/(3b^3r^3 - 5b^3r)
+    = [b^3r(3r^2 + 5)]/[b^3r(3r^2 - 5)] = (3r^2 + 5)/(3r^2 - 5).
+
+Ayrıca
+
+  (3c^3 + 5cd^2)/(3c^3 - 5cd^2) = (3d^3r^3 + 5d^3r)/(3d^3r^3 - 5d^3r)
+    = [d^3r(3r^2 + 5)]/[d^3r(3r^2 - 5)] = (3r^2 + 5)/(3r^2 - 5).
+
+Bu nedenle (3a^3 + 5ab^2)/(3a^3 - 5ab^2) = (3c^3 + 5cd^2)/(3c^3 - 5cd^2).
+
+                                                                Aksiyom 1.
+
+Veya, 3a^3 + 5ab^2 : 3a^3 - 5ab^2 = 3c^3 + 5cd^2 : 3c^3 - 5cd^2.
+
+Eğer a : b = c : d ise, şunu kanıtlayın:
+
+1. a^2 + b^2 : a^2 = c^2 + d^2 : c^2.
+
+2. a^2 + 3b^2 : a^2 - 3b^2 = c^2 + 3d^2 : c^2 - 3d^2.
+
+3. a^2 + 2b^2 : 2b^2 = ac + 2bd : 2bd.
+
+4. 2a + 3c : 2a - 3c = 8b + 12d : 8b - 12d.
+
+5. a^2 - ab + b^2 : (a^3 - b^3)/a = c^2 - cd + d^2 : (c^3 - d^3)/c.
+
+6. Üç sayıdan ikincisi diğer ikisi arasında orantılı bir ortalamadır.
+Üçüncü sayı diğer ikisinin toplamını 20 oranında aşar;
+ve birinci ve üçüncünün toplamı ikincinin üç katını 4 kat aşar. Sayıları bulun.
+
+7. Üç sayı 5, 7 ve 9 ile orantılıdır; ve toplamları 14'tür.
+Sayıları bulun. (_Üniversite Giriş Panosu._)
+
+8. Üçgen bir alanın kenarları sırasıyla 15, 18 ve 27 çubuktur.
+Alanı 4 katı olan benzer bir alanın boyutlarını bulun.
+
+~ARİTMETİK İLERLEME~
+
+1. Aritmetik bir ilerleme tanımlayın.
+
+Aritmetik ilerlemedeki üç formülü türetmeyi öğrenin:
+
+l = a + (n - 1)d,
+S = (n/2)(a + l),
+S = (n/2)[2a + (n - 1)d].
+
+2. İlk 50 tek sayının toplamını bulun.
+
+3. 2, 5, 8, ... serisinde 92 olan terim hangisidir?
+
+4. 3, 5, 7, ... serisinden toplam 255 yapmak için kaç terim alınmalıdır?
+
+5. 11 ile 32 arasına 5 aritmetik ortalama ekle.
+
+6. 7-1/2 ile 30 arasına 9 aritmetik ortalama ekle.
+
+7. A.P.'de 3 + 2x, 5 + 6x, 9 + 5x varsa x'i bul.
+
+8. Aritmetik bir dizinin 7. terimi 17 ve 13. terimi 59'dur. 4. terimi bul.
+
+9. A.P.'yi nasıl denkleme dönüştürebilirsin?
+
+10. a = -5/3, n = 20, S = -5/3 verildiğinde d ve l'yi bul.
+
+11. İlk n tek sayının toplamını bul.
+
+12. Aritmetik bir dizi 21 terimden oluşur. Ortadaki
+üç terimin toplamı 129; son üç terimin toplamı
+237'dir. Seriyi bul. (Bu tür problemler için kısa yönteme bakın.) (_Mass. Inst. of Technology._)
+
+13. B ilk gün 3 mil, ikinci gün 7 mil, üçüncü gün 11 mil vb. yol alır. B, aynı noktadan 8 gün önce başlayan ve günde 15 mil sabit yol alan A'yı kaç günde geçer?
+
+~Referans:~ Herhangi bir cebirdeki Aritmetik İlerleme bölümü.
+
+~GEOMETRİK İLERLEME~
+
+1. Geometrik bir ilerleme tanımlayın.
+
+Geometrik ilerlemedeki dört formülü türetmeyi öğrenin:
+
+{ I. l = ar^(n - 1).
+{ II. S = (ar^n - a)/(r - 1).
+
+{ III. S = (rl - a)/(r - 1).
+{ IV. S_{[sonsuz]} = (a)/(1 - r).
+
+2. 9, 18, 36, ... serisinden toplam 567'yi elde etmek için kaç terim alınmalıdır?
+
+3. G. P. 2, 6, 18, ...'de 486 terimi hangisidir?
+
+4. 2x - 4, 5x - 7, 10x + 4 geometrik dizilimdeyse x'i bulun.
+
+5. Bir G. P.'yi nasıl denkleme dönüştürebilirsiniz?
+
+6. 4 ile 972 arasına 4 geometrik ortalama ekleyin.
+
+7. 5/16 ile 5120 arasına 6 geometrik ortalama ekleyin.
+
+8. a = -2, n = 5, l = -32 verildiğinde; r ve S'yi bulun.
+
+9. Geometrik dizinin ilk terimi 12 ve sonsuza kadar olan toplam 36 ise, 4. terimi bulun.
+
+10. 3-1/3, 2-1/2, ... serisi bir A. P. ise, 97. terimi bulun.
+G. P. ise, sonsuza kadar toplamı bulun.
+
+11. Geometrik bir ilerlemenin üçüncü terimi 36'dır; 6. terim ise
+972'dir. Birinci ve ikinci terimleri bulun.
+
+12. 6 ile 16 arasına iki sayı girin, böylece dördün ilk üçü aritmetik ilerlemede, son üçü ise geometrik ilerlemede olsun.
+
+13. Bir lastik top 40 inç yükseklikten düşer ve her geri tepmede önceki yüksekliğinin %40'ı kadar yükselir. Formülle sekizinci inişinde ne kadar düştüğünü bulun. (_Yale._)
+
+~Referans:~ Herhangi bir cebirdeki Geometrik İlerleme bölümü.
+
+~BİNOM TEORİSİ~
+
+1. Binom Teoremi yasalarını gözden geçirin. (Bkz. İnvolution.)
+
+Genişlet:
+
+2. (b - n)^7.
+
+3. (x + x^(-1))^5.
+
+4. [a/x - x/a]^6.
+
+5. [x/2y - [xy]^(1/2)]^5.
+
+6. (x^2 - x + 2)^3.
+
+7. [(2[b^2]^(1/3))/(y) + (3[y^(1/2)])/(b^3)]^4.
+
+8. (a + b)^n = a^n + na^(n - 1)b + [n(n - 1)]/(1.2) a^(n - 2)b^2
++ [n(n - 1)(n - 2)]/(1.2.3) a^(n - 3)b^3
++ [n(n - 1)(n - 2)(n - 3)]/(1.2.3.4) a^(n - 4) b^4 + ....
+
+Gözlemle, formülün
+
+(r + 1)inci terim
+= [n(n - 1)(n - 2)...(n - r + 1)]/[1.2.3.4 ... r] a^(n - r)b^r olduğunu gösterin.
+
+9. (a + b)^n'nin 97. teriminin ne olacağını belirtin.
+
+10. (8)'deki (a + b)^n açılımını kullanarak, her terimin nasıl oluştuğunu gözlemleyerek r'inci terim için bir formül türetin, ardından genelleştirin.
+
+(8) veya (10)'daki formülü kullanarak, hangisine aşinaysanız, şunu bulun:
+
+11. [a + 1/a]^(30)'un 4. terimi.
+
+12. (1 + x[y^(1/2)])^(13)'ün 8. terimi.
+
+13. (2a^(3/4) - y[a^(1/3)])^(10)'un orta terimi.
+
+14. [x^3 - 2/x]^(12)'de x içermeyen terim.
+
+15. [x^2 - a/x]^(15)'te x^(18)'i içeren terim.
+
+~Referans:~ Herhangi bir cebirdeki Binom Teoremi bölümü.
+
+~ÇEŞİTLİ ÖRNEKLER, KUADRATİK VE ÖTESİ~
+
+1. x^2 - 1.6x - .23 = 0 denklemini çözün ve köklerin üç anlamlı rakama kadar doğru değerlerini
+elde edin. (_Harvard._)
+
+2. (x^2 + 2x)(x^2 - 2x - 3)(x^2 - x + 1) = 0'ın köklerini yazın.
+(_Sheffield Bilim Okulu._)
+
+3. Çözün
+2[2x + 2]^(1/2) + [2x + 1]^(1/2) = (12x + 4)/([8x + 8]^{1/2}).
+(_Yale._)
+
+4. V = (H/3)(B + x + [Bx]^(1/2)) denklemini x için çözün,
+H = 6, B = 8 ve V = 28 alın; ve sonucunuzu doğrulayın. (_Harvard._)
+
+5. { x : y = 2 : 3,
+{ x^2 + y^2 = 5(x + y) + 2'yi çözün.
+
+6. 2x^2 - 4x + 3[x^2 - 2x + 6]^(1/2) = 15'i çözün. (_Coll. Ent. Board._)
+
+7. Aşağıdaki denklemleri sağlayan tüm x ve y değerlerini bulun:
+{ x^(1/2) + y^(1/2) = 4,
+{ 1/[[x + 1]^(1/2) - x^(1/2)] - 1/[[x + 1]^(1/2) + x^(1/2)] = y. (_Mass. Inst. of Technology._)
+
+8. Eğer [alpha] ve [beta] px^2 + qx + r = 0'ın köklerini temsil ediyorsa,
+[alpha] + [beta], [alpha] - [beta] ve [alpha][beta]'yı p, q ve r cinsinden
+bulun. (_Princeton._)
+
+9. Kökleri 2 + [3]^(1/2) ve 2 - [-3]^(1/2) olan denklemi oluşturun.
+
+10. Çözmeden, 9x^2 - 24x + 16 = 0'ın köklerinin karakterini belirleyin. (_College Entrance Board._)
+
+11. Eğer a : b = c : d ise, şunu kanıtlayın
+a + b : c + d = [a^2 + b^2]^(1/2) : [c^2 + d^2]^(1/2). (_College Entrance Board._)
+
+12. a : b = c : d verildiğinde. Şunu kanıtlayın
+a^2 + b^2 : (a^3)/(a + b) = c^2 + d^2 : (c^3)/(c + d).
+(_Sheffield._)
+
+13. Aritmetik dizilimdeki 9. terim 1/6'dır; 16. terim
+5/2'dir. İlk terimi bulun. (_Regents._)
+
+Grafiksel olarak çözün:
+
+1. x^2 - x - 6 = 0.
+
+2. x^2 + 3x - 10 = 0.
+
+3. Aritmetik dizilimde ilk ikisinin toplamı 1 ve son ikisinin toplamı -19 olacak şekilde dört sayı bulun.
+
+4. 2, 20, 9, 34'e hangi sayı eklendiğinde sonuçlar orantılı olur?
+
+5. [3a^5 + (b^(3/4))/(2)]^8'in orta terimini bulun.
+
+6. (x + 1)/(3x + 2) = (2x - 3)/(3x - 2) - 1 - 36/(4 - 9x^2)'yi çözün.
+(_Princeton._)
+
+7. Yarım inç kalınlığında ve 29-6/7 fit uzunluğunda bir halı şeridi, çapı dört inç olan bir
+ruloya yuvarlanır. Her bir yuvarlamanın çapı bir inç artırdığını ve bir dairenin çevresinin çapın yaklaşık 22/7 katına eşit olduğunu
+unutmadan kaç tur olacağını bulun. (_Harvard._)
+
+8. Geometrik bir dizinin ilk üç teriminin toplamı
+21'dir ve karelerinin toplamı 189'dur. İlk terim nedir?
+(_Yale._)
+
+9. Sonsuza kadar toplamı 4 ve
+ikinci terimi 3/4 olan geometrik diziyi bulun.
+
+10. 4x + 4[3x^2 - 7x + 3]^(1/2) = 3x^2 - 3x + 6'yı çözün.
+
+11. { 2x^2 + 3xy - 5y^2 = 4,
+{ 2xy + 3y^2 = -3'ü çözün.
+
+12. İki yüz taş, 3 fit arayla yere konur, ilki bir sepetten 3 fit uzaktadır. Sepet ve tüm taşlar düz bir çizgideyse, sepetten başlayıp taşları teker teker sepete getiren kişi ne kadar yol kat eder?
+
+Grafiksel olarak çözün; ve cebirsel olarak çözerek kontrol edin:
+
+1. { x^2 + y^2 = 25,
+{ x + y = 1.
+
+2. x^2 - 3x - 18 = 0.
+
+3. x^2 + 3x - 10 = 0. Denklemin köklerinin eşit olacağı m değerini belirleyin: (İPUCU: 40. sayfaya bakın. Köklerin eşit olması için b^2 - 4ac 0'a eşit olmalıdır.)
+
+4. 2x^2 - mx + 12-1/2 = 0.
+
+5. (m - 1)x^2 + mx + 2m - 3 = 0.
+
+6. 2a + 3b, x^2 - 6bx - 4a^2 + 9b^2 = 0'ın bir kökü ise, denklemi çözmeden diğer kökü bulun. (_Univ. of Penn._)
+
+7. Sıradan bir saat 12 saatte kaç kez çalar?
+
+8. Sonsuza kadar olan toplamını bulun
+2/(2^(1/2)), 1/(2^(1/2)), 1/(2[2]^(1/2)), ....
+
+9. [x/2 + 6/x]^2 - 6[x/2 + 6/x] + 8 = 0'ı çözün.
+
+10. Tekrarlayan ondalık sayının değerini bulun 2.214214...
+
+11. Bir adam aylık 10$ taksit ve borcun faizini ödeyerek 500$ değerinde bir piyano satın alır. Yıllık oran %6 ise, toplam
+faiz tutarı nedir?
+
+12. İki sayı arasındaki aritmetik ortalama 42-1/2'dir ve geometrik
+ortalamaları 42'dir. Sayıları bulun. (_Üniversite Giriş Sınavı. Kurulu._)
+
+13. [3x - (1)/(2[x^(1/2)])]^4'ün orta terimi [2[x^(1/2)] + 1/2x]^7'nin dördüncü terimine eşitse, x değerini bulun.
+(_M. I. T._)
+
+~PROBLEMLER~
+
+~Doğrusal Denklemler, Bir Bilinmeyen~
+
+1. Saatte 30 mil hızla giden bir trenin, saatte 36 mil hızla giden bir trenden belirli bir mesafeyi kat etmesi için 21 dakika daha uzun süreye ihtiyacı vardır. Mesafe
+ne kadardır? (_Cornell._)
+
+2. Bir adam yokuş yukarı saatte 2-1/2 mil ve yokuş aşağı saatte 3-1/2 mil yürüyebilir. Hiçbir kısmı düz olmayan bir yolda 20 saatte 56 mil yürür. Yolun ne kadarı yokuş yukarıdır? (_Yale._)
+
+3. Belirli bir ilacın %6'lık bir çözeltisinden 100 santimetreküp olan bir doktor, bunu %3-1/2'lik bir çözeltiye seyreltmek istiyor. Ne kadar
+su eklemesi gerekiyor? (%6'lık bir çözelti %6 ilaç ve %94 su içerir.) (_Vaka._)
+
+4. Bir memur belirli sayıda ayda 504 dolar kazandı. Maaşı %25 arttı ve daha sonra daha önce 504 dolar kazanması için gereken zamandan iki ay daha az sürede 450 dolar kazandı. Başlangıçtaki aylık maaşı neydi? (_Üniversite Giriş Kurulu._)
+
+5. 15.000 dolara sahip olan bir kişi paranın bir kısmını bir ev inşa etmek için kullanır. Paranın üçte birini %6'da, diğer üçte ikisini ise %9'da yatırır ve bu yatırımlardan yıllık 500 dolar gelir elde eder. Evin maliyeti ne kadardı? (_M. I. T._)
+
+6. İki yolcunun toplam 400 pound bagajı var. Biri 1,20 dolar ödüyor
+, diğeri ise ücretsiz taşınan ağırlığın üzerindeki fazlalık için 1,80 dolar. Eğer
+hepsi tek bir kişiye ait olsaydı, 4,50 dolar ödemek zorunda kalacaktı. Ücretsiz olarak
+gitmesine izin verilen bagaj miktarı nedir? (_Yale._)
+
+7. Durgun suda saatte 4-1/3 mil kürek çekebilen bir adam
+akıntıya karşı kürek çeker ve geri döner. Akıntının hızı saatte 2-1/4 mildir ve yolculuk için gereken süre 13 saattir. Geri dönmek için kaç saate ihtiyacı vardır?
+
+~Eşzamanlı Denklemler, İki ve Üç Bilinmeyen~
+
+1. Kitaplık yapımında manuel eğitim alan bir öğrenci, en alt rafın tepesinden en üst rafın alt tarafına kadar olan mesafenin 4 ft. 6 in. olduğunu
+bulur. Bu dört raf arasına, kitap alanının her raf için alttan üste doğru bir inç azalacağı şekilde inçlik tahtalar koymak ister.
+Raflar arasındaki boşluklar ne kadar olacaktır?
+
+2. Farklı boyutlarda üç kavanozu doldurmaya yetecek miktarda su, en küçük kavanozu 4 kez, en büyük kavanozu iki kez, 4 galon fazladan, ikinci kavanozu üç kez, 2 galon fazladan dolduracaktır. Her kavanozun kapasitesi nedir? (_Case._)
+
+3. Bir polis memuru bir yankesiciyi kovalamaktadır. Polis memuru 80 yard geride olduğunda, yankesici bir ara sokağa sapar; ancak
+sonuna geldiğinde çıkış olmadığını görür, geri döner ve tam
+ara sokaktan
+çıktığı anda yakalanır. Eğer yarı yola kadar koştuktan sonra ara sokakta çıkış olmadığını fark etmiş olsaydı ve sonra geri dönseydi, polis memuru hırsızı yakalamadan önce ara sokaktan 120 yard daha
+uzaklaşması gerekirdi. Ara sokak ne kadar uzundur? (_Harvard._)
+
+4. A ve B birlikte bir işi 14 günde yapabilirler. 6 gün çalıştıktan sonra, A'dan iki kat daha hızlı çalışan C onlara katılır. Üçü işi 4 günde bitirir. Her bir adamın tek başına bunu yapması ne kadar sürer? (_Columbia._)
+
+5. Belirli bir fabrikada işçilerin bazıları günde 1,50 dolar, diğerleri daha fazla alır. Her gün ödenen toplam ücret 350 dolardır. Bir işçi sendikasının 200 dolar toplamak için yaptığı değerlendirme, günde 1,50 dolar alan her adamdan 1,00 dolar ve daha fazla alan her adamdan bir günlük ücretin yarısını gerektirir. Günde 1,50 dolar alan kaç adam var? (_Harvard._)
+
+6. Biri gümüşten iki kat daha fazla bakır, diğeri bakırdan üç kat daha fazla gümüş içeren iki gümüş ve bakır alaşımı vardır. Eşit miktarda gümüş ve bakır içeren bir alaşımın bir kilogramını elde etmek için her birinden ne kadar alınmalıdır? (_M. I. T._)
+
+7. İki otomobil 120 mil mesafede birbirlerine doğru seyahat ediyor. A, B'nin onunla buluşmaya başlamasından 1 saat önce, sabah 9'da yola çıkıyor ve 12:00'de buluşuyorlar. Her biri sabah 9:15'te yola çıkmış olsaydı, yine 12:00'de buluşmuş olurlardı. Her birinin seyahat ettiği hızı bulun. (_M. I. T._)
+
+~İkinci Dereceden Denklemler~
+
+1. Telgraf direkleri eşit mesafelerde yerleştirilir.
+Mil başına iki tane daha az olması için, onları 20 feet daha uzağa yerleştirmek gerekir. Şimdi birbirlerinden ne kadar uzakta olduklarını bulun. (_Yale._)
+
+2. Bir cismin t saniyede hareketsiz halden düştüğü mesafe S, S = 16t^2 formülüyle verilir. Bir adam bir kuyuya bir taş atar ve
+3 saniye sonra sıçrama sesini duyar. Sesin havadaki hızı saniyede 1086 feet ise, kuyunun derinliği nedir? (_Yale._)
+
+3. Bir salonu döşemek için belirli bir boyutta 2000 kare fayans veya
+bir inç daha az boyutları olan 3125 kare fayans gerekir. Salonun alanını
+bulun. Bu problemin denkleminin kaç çözümü vardır?
+Problemin kendisinin kaç çözümü vardır? Görünen tutarsızlığı açıklayın. (_Cornell._)
+
+4. 800 fit uzunluğunda ve 600 fit genişliğinde dikdörtgen bir arazi parçası, içinden dik açıyla geçen eşit genişlikte iki sokakla
+dört dikdörtgen bloğa bölünmüştür. Sokakların genişliğini,
+eğer birlikte 77.500 fit karelik bir alanı kaplıyorlarsa, bulun. (_M. I. T._)
+
+5. (_a_) Saniyede 100 fit hızla dikey olarak yukarı doğru atılan bir topun x saniyede yükseleceği y yüksekliği, y = 100x - 16x^2 formülüyle verilir. Top kaç saniyede 144 fit yüksekliğe yükselir?
+
+(_b_) y = 100x - 16x^2 denkleminin grafiğini çizin.
+(_College Entrance Board._)
+
+6. İki tekne 12 mil uzunluğunda bir parkurda yarışıyor. İlk tekne saatte 7-1/2
+mil hızla gidiyor. Diğerinin 10 dakikalık bir başlangıcı var, parkurun ilk yarısını belirli bir hızla
+geçiyor, ancak parkurun ikinci yarısında hızını saatte 2 mil artırarak
+yarışı bir dakika farkla kazanıyor. İkinci fırlatmanın hızı nedir? Olumsuz cevabın anlamını açıklayın.
+(_Sheffield Scientific School._)
+
+7. Belirli bir vagonun arka tekerleğinin çevresi, ön tekerleğin çevresinden 3 fit daha fazladır. Arka tekerlek, 6000 fitlik bir mesafeyi kat ederken ön tekerlekten 100 devir daha az
+dönüyor. Tekerlekler ne kadar büyük? (_Harvard._)
+
+8. Bir adam, 1 saniyede 1
+yardalık bir hızla yürüyerek trene yetişmek için evden yola çıkıyor ve 2 dakika geç kalıyor. 3 saniyede 4
+yardalık bir hızla yürüseydi, 2-1/2
+dakika erken varmış olurdu. Evinden istasyona olan mesafeyi bulun.
+(_Üniversite Giriş Panosu._)
+
+~Eşzamanlı İkinci Dereceden Denklemler~
+
+1. İki kübik kömür bidonu birlikte 280 kübik fit kömür tutuyor ve
+uzunluklarının toplamı 10 fit. Her bir bidonu uzunluğunu bulun.
+
+2. İki dairenin yarıçaplarının toplamı 25 inç ve
+alanlarının farkı 125[pi] inç karedir. Yarıçapları bulun.
+
+3. Bir dik üçgenin alanı 150 fit kare ve hipotenüsü 25 fittir. Üçgenin kollarını bulun.
+
+4. İki kübik tankın toplam kapasitesi 637 fit küptür ve
+birinin kenarı ile diğerinin kenarının toplamı 13 fittir.
+
+(_a_) Her küpün herhangi bir yüzünün köşegeninin uzunluğunu bulun.
+
+(_b_) Her iki küpte de sol üst köşeden sağ alt köşeye olan mesafeyi bulun.
+
+5. A ve B bir mil koşar. İlk seride A, B'ye 20 yardalık bir başlangıç ​​verir
+ve onu 30 saniye geride bırakır. İkinci seride A, B'ye 32 saniyelik bir başlangıç ​​verir
+ve onu 9-5/11 yarda geride bırakır. Her birinin
+koşma hızını bulun. (_Sheffield._)
+
+6. Sokak iyileştirmesinden sonra, belirli bir köşe dikdörtgen arsanın uzunluğunun 1/10'unu ve genişliğinin 1/15'ini kaybettiği görülür.
+Çevresi 28 fit azaltılmış ve yeni alan 3024 fit karedir. Arsanın küçültülmüş boyutlarını bulun. (_Kolej Giriş Panosu._)
+
+7. Bir adam koyunlar için 539 dolar harcıyor. Satın aldığı sürünün 14'ünü tutuyor ve kalanını başı 2 dolar avansla satıyor ve işlemden 28 dolar kazanıyor. Kaç koyun satın aldı ve her birinin maliyeti ne kadardı? (_Yale._)
+
+8. Bir teknenin mürettebatı, normal hızlarının yarısıyla kürek çekerek, 3 mil kürek çekiyor
+akıntıya doğru ve 2 saat 40 dakikada geri dönüyor. Tam hızda
+aynı rotayı 1 saat 4 dakikada geçebiliyorlar. Mürettebatın hızını ve akıntının hızını mil/saat cinsinden bulun.
+(_Üniversite Giriş Kurulu._)
+
+9. Uzunluğu 4 fit artırılıp genişliği 3 fit azaltıldığında alanı değişmeyen, ancak uzunluğu 16 fit artırılıp genişliği 10 fit azaltıldığında alanının üçte birini kaybeden bir dikdörtgenin kenarlarını bulun. (_M. I. T._)
+
+ÜNİVERSİTE GİRİŞ SINAVLARI
+
+~CALIFORNIA ÜNİVERSİTESİ~
+
+İLKÖĞRETİM CEBİR
+
+1. Eğer a = 4, b = -3, c = 2 ve d = -4 ise, şunun değerini bulun:
+(_a_) ab^3 - 3cd^2 + 2(3a - b)(c - 2d). (_b_) 2a^3 - 3b^4 + (4c^3 + d^3)(4c^2 + d^2).
+
+2. Karma sayıya indirgeyin:
+(3a^4 - 4a^3 - 10a^2 + 41a - 28)/(a^2 - 3a + 4).
+
+Basitleştirin:
+
+3. (a + 2)/(a^2 + 3a - 40) - (b - 2)/(ab - 5b + 3a - 15).
+
+4. [1 - (2 - 3b - 2c)/(a + 2)]
+/ (a^2 - 4c^2 + 9b^2 + 6ab)/(2a^2 + a - 6).
+
+5. A'nın 10 yıl sonraki yaşı, B'nin 11 yıl önceki yaşının 4 katı olacak ve A'nın yaşının B'nin yaşını aşma miktarı, 8 yıl önceki yaşlarının toplamının üçte biri kadardır. Şimdiki yaşlarını bulun.
+
+6. 3x - 2y = 13 ve 2x + 5y = -4 denklemleriyle gösterilen çizgileri çizin ve kesiştikleri noktanın koordinatlarını cebirle bulun.
+
+7. { bx - ay = b^2 - ab,
+{ y - b = 2(x - 2a) denklemlerini çözün.
+
+8. (2x + 1)(3x - 2) - (5x - 7)(x - 2) = 41'i çözün.
+
+~COLORADO MADEN OKULU~
+
+İLKOKUL CEBİR
+
+1. Faktörize ederek çözün: x^3 + 30x = 11x^2.
+
+2. 1 - [(a^2 + b^2 - c^2)/(2ab)]^2 = (a + b + c)(a + b - c)(a - b + c)(b + c - a) / 4a^2b^2 olduğunu gösterin.
+
+3. Kaç çift sayı aynı anda iki denklemi de tatmin edecektir
+{ 3x + 2y = 7,
+{ x + y = 3?
+
+Cevabınızın doğru olduğunu bir grafikle gösterin.
+
+Yukarıdaki denklemlerde x'i ikameyle mi yoksa karşılaştırmayla mı yoksa çıkarmayla mı ortadan kaldırmakla ne kastedilmektedir?
+
+4. 223.728'in karekökünü bulun.
+
+5. Basitleştirin: (_a_) [1/3]^(1/2) + [12]^(1/2) - [3/4]^(1/2).
+(_b_) (-[-3[-4]^(1/2)]^(1/2))^4.
+
+6. Denklemi çözün. .03x^2 - 2.23x + 1.1075 = 0.
+
+7. Birbirinden d feet uzaklıkta düz bir çizgide n patates varsa ve birincisi sepetten a feet uzaklıktaysa, bir çocuk patates yarışında ne kadar koşmalıdır?
+
+~COLUMBIA ÜNİVERSİTESİ~
+
+İLKOKUL CEBİR TAMAMLAMA
+
+SÜRE: ÜÇ SAAT
+
+Altı soru gereklidir; ikisi Grup _A_'dan, ikisi Grup _B_'den ve ikisi de Grup _C_'den. Altıdan fazla soru için ekstra puan verilmeyecektir.
+
+_Grup A_
+
+1. (_a_) Aşağıdakileri asal çarpanlarına ayırın:
+(1) (x^2 - y^2)^2 - y^4. (2) 10x^2 - 7x - 6.
+
+(_b_)
+x^3 - 3x^2 + x - 3,
+x^3 - 3x^2 - x + 3'ün Y.K.K.'sini ve EK.K.M.'sini bulun.
+
+2. (_a_)
+[x/y + y/x - 2]/[1/x + 1/y] + [x/y + y/x + 2]/[1/x - 1/y]'yi basitleştirin.
+
+(_b_) Eğer x : y = (x - z)^2 : (y - z)^2 ise, z'nin x ve y arasında ortalama orantılı olduğunu kanıtlayın.
+
+3. Bir mürettebat 50 dakikada aşağı doğru 10 mil, bir buçuk saatte yukarı doğru 12 mil kürek çekebilir. Akıntının ve mürettebatın durgun suda
+hızını bulun.
+
+_Grup B_
+
+4. (_a_) Denklemin
+(2 + k)x^2 + 2kx + 1 = 0
+eşit kökleri olacak şekilde k değerlerini belirleyin.
+
+(_b_) Denklemleri çözün
+x^2 - xy + y^2 = 7,
+2x - 3y = 0.
+
+(_c_) Aşağıdaki iki denklemi çizin ve grafiklerden
+ortak çözümlerinin yaklaşık değerlerini bulun:
+x^2 + y^2 = 25,
+4x^2 + 9y^2 = 144.
+
+5. İki tam sayı 4:5 oranındadır. Her birini 15 artırırsanız
+karelerinin farkı 999 olur. Tam sayılar nelerdir?
+
+6. Bir adamın koyun için harcayabileceği 539 doları vardır. Satın aldığı sürünün 14'ünü elinde tutmak istiyor, ancak geri kalanını baş başına 2$ karla satmak istiyor. Bunu yapıyor ve 28$ kazanıyor. Kaç koyun satın aldı ve her biri için
+hangi fiyattan?
+
+_Grup C_
+
+7. (_a_) [a + 1/a]^(13)'ün yedinci terimini bulun.
+
+(_b_) Aritmetik ilerlemenin n teriminin toplamı için formülü türet.
+
+8. 60 feet yükseklikten düşen bir top, her düşüşten sonra son inişinin üçte birini geri
+sektirir. Sekizinci kez yere çarptığında ne kadar mesafe kat etmiştir?
+
+~CORNELL ÜNİVERSİTESİ~
+
+İLKÖĞRETİM CEBİR
+
+1. H. C. F.'yi bulun:
+x^4 - y^4,
+x^3 - xy^2 + x^2y - y^3,
+x^4 + 2x^2y^2 - 3y^4.
+
+2. Aşağıdaki denklem setini çözün:
+x + y = -1,
+x + 3y + 2z = -4,
+x - y + 4z = 5.
+
+3. Genişletin ve basitleştirin:
+[2x^3 - 1/x]^7.
+
+4. Bir otomobil 80 mil gidip geri 9 saatte gidiyor. Dönüş hızı, gidiş hızından saatte 4 mil daha hızlıydı. Her iki yöndeki hızı
+bulun.
+
+5. Basitleştirin:
+{[(x + 1)/(x - 1)]^2 - 2 + [(x - 1)/(x + 1)]^2}
+/{[(x + 1)/(x - 1)]^2 - [(x - 1)/(x + 1)]^2}.
+
+6. x için çözüm:
+(2x + 3)/(x - 1) - 6 = 5/(x^2 + 2x - 3).
+
+7. A, B ve C birlikte çalışarak bir işi 2-2/3 günde yapabilir. A, C'den iki kat daha hızlı çalışır ve A ile C birlikte işi 4 günde yapabilir. Üçünden her birinin işi tek başına yapması ne kadar sürer?
+
+~CORNELL ÜNİVERSİTESİ~
+
+ORTA SEVİYE CEBİR
+
+1. Aşağıdaki denklem kümesini çözün:
+x + y = -1,
+2z + 5w = 1,
+x + 3y + 2z = -4,
+x - y + 4z + 4w = 5.
+
+2. Basitleştirin:
+(_a_) [6 - 20^(1/2)]^(1/2).
+(_b_) [1 + [x^2 + 1]^(1/2)]/[1 + [x^2 + 1]^(1/2) + x^2].
+
+3.
+[(2x^2)/(3) - 3/4]^(28) açılımındaki 23. terimi bulun ve basitleştirin.
+
+4. Bir cismin ağırlığı, dünyanın yüzeyinin altındayken dünyanın merkezine olan uzaklığıyla doğru orantılı olarak değişir ve
+yüzeyin üstündeyken merkeze olan uzaklığının karesiyle ters orantılı olarak değişir.
+Bir cisim yüzeyde 10 pound ağırlığındaysa,
+yüzeyin ne kadar üstünde ve ne kadar altında 9 pound ağırlığında olacaktır? (Dünyanın yarıçapı 4000 mil olarak alınabilir.)
+
+5. Aşağıdaki denklem çiftini x ve y için çözün:
+x^2 + y^2 = 4,
+x = (1 + 2^(1/2))y - 2.
+
+6. [1 + 8^(-x/3)]/[(8x)^(1/2) + 10^(x - 2)] değerini bulun,
+x = 2.
+
+7. Bir kenarı 12 inç olan bir mukavva karesinden kare köşeler kesilir ve kenarlar dikdörtgen bir kutu oluşturmak için yukarı doğru çevrilir. Köşelerden kesilen kareler bir tarafta 1 inç daha büyük olsaydı, kutunun hacmi 28 kübik inç artardı. Kesilen kare köşelerin boyutu nedir? (Tahtadaki
+şekle bakın.)
+
+~HARVARD ÜNİVERSİTESİ~
+
+İLKÖĞRETİM CEBİR
+
+SÜRE: BİR BUÇUK SAAT
+
+Çalışmanızı düzgün ve açık bir şekilde düzenleyin, her soruya ayrı bir
+sayfada başlayın.
+
+1. Aşağıdaki ifadeyi basitleştirin:
+[[1/a + 1/(b + c)]/[1/a - 1/(b + c)] [1 + (b^2 + c^2 - a^2)/(2bc)].
+
+2. (_a_) (a - b)^14'ün binom teoremiyle genişlemesinin orta terimini yazın.
+
+(_b_) Eğer
+a = x^(2/7)y^(-3/2) ve b = (1/2) x^(-1/7)y^(1/2) ise,
+a^7b^7 değerini bulun ve sonucu yalnızca pozitif üslere sahip bir forma
+indirin.
+
+3. Denklemin negatif kökünü üç anlamlı rakama kadar doğru olarak bulun
+1 - 2/(x + 1) + 4x/{(x + 1)^2} = 0.
+
+4. İlk terimi a ve sabit oranı r olan bir geometrik ilerlemenin n teriminin toplamını bulma kuralını kanıtlayın.
+
+5 + 3-1/3 + 2-2/9 + .... ilerlemesinin 8 teriminin toplamını bulun.
+
+5. Bir kuyumcunun iki altın alaşımı vardır, birincisi 3/4 saf altın,
+ikincisi 5/12 saf altındır. 2/3'ü saf altın olan 100 onsluk bir alaşım üretmek için her birinden ne kadar alması gerekir?
+
+~HARVARD ÜNİVERSİTESİ~
+
+İLKÖĞRETİM CEBİR
+
+SÜRE: BİR BUÇUK SAAT
+
+1. Eş zamanlı denklemleri çözün
+x + y = a + b,
+(y + b)/(x + a) = a/b,
+ve sonuçlarınızı doğrulayın.
+
+2. x^2 - 1.6x - 0.23 = 0 denklemini çözün, köklerin üç anlamlı rakama doğru değerlerini elde edin.
+
+3. (a - b)^7'nin ilk dört terimini yazın. Bu genişlemenin dördüncü terimini
+
+a = [x^(-1) y^(1/2)]^(1/3), b = [9xy^(-4)]^(1/6) olduğunda,
+sonucu tek bir radikal cinsinden ve kesirli veya negatif üsler olmadan ifade edin.
+
+4. Aşağıdaki ifadeyi a ve b'deki bir polinoma indirgeyin:
+(6a^3 + 7ab^2 + 12b^3)/(3a^2 - 5ab - 4b^2)
+- 1/[3/19b - (5a + 4b)/(19a^2)].
+
+5. Bir kitabı yayınlamanın maliyeti iki ana kalemden oluşur: birincisi,
+yazı tipini kurmanın sabit gideri; ikincisi,
+kopya sayısına orantılı olduğu varsayılabilecek baskı işi, ciltleme vb.'nin işletme giderleri. Belirli bir kitabın maliyeti, 1000 kopya aynı anda basıldığında 35 senttir, ancak 5000 kopya aynı anda basıldığında yalnızca 19 senttir. (_a_) Kitabın yazı tipini kurmanın maliyetini ve (_b_) bin kopya başına baskı, cilt vb. maliyetini bulun.
+
+~HARVARD ÜNİVERSİTESİ~
+
+İLKÖĞRETİM CEBİR
+
+SÜRE: BİR BUÇUK SAAT
+
+1. Üç ifadenin en büyük ortak çarpanını ve en küçük ortak katını bulun
+
+a^4 - b^4; a^3 + b^3; a^3 + 2a^2 b + 2ab^2 + b^3.
+
+2. İkinci dereceden denklemi çözün
+x^2 - 1.6x + 0.3 = 0,
+üç anlamlı rakama göre doğru olan daha büyük kökün değerini hesaplayın.
+
+3. İfadede
+x^2 - 2xy + y^2 - 4[2^(1/2)](x + y) + 8,
+x ve y yerine
+x = (u + v + 1)/[2^(1/2)], y = (u - v + 1)/[2^(1/2)] değerlerini koyun ve ortaya çıkan ifadeyi en basit haline getirin.
+
+4. a'nın ilk terim ve r'nin sabit oran olduğu bir geometrik ilerlemenin ilk n teriminin toplamının formülünü belirtin ve kanıtlayın.
+
+5. Bir eyalet meclisi, bir seçim için gerekli olan tüm oyların çoğunluğuyla
+bir Amerika Birleşik Devletleri senatörü seçecektir. A, B ve C olmak üzere üç aday vardır ve 100 üye oy kullanır. İlk oylamada
+A en fazla oyu alır ve en yakın rakibi B'den 9 oy daha fazla alır; ancak gerekli çoğunluğu sağlayamaz. İkinci oylamada C'nin adı geri çekilir ve C'ye oy veren tüm üyeler şimdi B'ye oy verir, bunun üzerine B çoğunlukla seçilir
+2. İlk oylamada her aday için kaç oy kullanıldı?
+
+~MASSACHUSETTS TEKNOLOJİ ENSTİTÜSÜ~
+
+CEBİR A
+
+SÜRE: BİR SAAT ÜÇ ÇEYREK
+
+1. İfadeleri çarpanlarına ayırın:
+x^3 + x^2 = 2x. x^3 + x^2 - 4x - 4.
+
+2. İfadeyi basitleştirin:
+[1 - (b^2)/(a^2)][1 - (ab - b^2)/(a^2)](a^4)/(a^3 + b^3)
+. (a - b)/(a^2 + b^2).
+
+3. x + [1 + x^2]^(1/2) değerini bulun,
+x = (1/2)[[a/b]^(1/2) - [b/a]^(1/2)].
+
+4. Denklemleri çözün:
+(7x + 6)/11 + y - 16 = (5x - 13)/2 - (8y - x)/5,
+3(3x + 4) = 10y - 15.
+
+5. Denklemleri çözün:
+A + C = 2,
+-A + B + C + D = 1,
+2A - B + 2C + D = 5,
+B + D = 1.
+
+6. Toplam çevresi 16 inç olan iki kare oluşturulmuştur. Bir kare diğerinden 4 inç kare daha fazladır. Her birinin alanını
+bulun.
+
+7. Bir adam saatte 4 mil hızla bir tren istasyonuna yürüdü
+ve saatte 30 mil hızla trenle seyahat etti ve varış noktasına 20 saatte ulaştı. Eğer saatte 3 mil yürümüş ve saatte 35 mil hızla bisiklet sürmüş olsaydı, yolculuğu 18 saatte tamamlardı. Kat edilen toplam mesafeyi gerektirir.
+
+~MASSACHUSETTS TEKNOLOJİ ENSTİTÜSÜ~
+
+CEBİR B
+
+ZAMAN: BİR SAAT ÜÇ ÇEYREK
+
+1. 2, 5, 8, 11, ... serisinde toplamın 345 olması için kaç terim alınmalıdır?
+
+2. x = [-b +- [b^2 - 4ac]^(1/2)]/(2a) formülünü ispatlayın ve
+
+ax^2 + bx + c = 0 olan ikinci dereceden denklemi çözün.
+
+3. [\sq]a'nın x^2 + x + 20 =
+2a'nın bir kökü olduğu tüm a değerlerini bulun ve sonuçlarınızı kontrol edin.
+
+4. {x^2 + 3y^2 = 10, x - y = 2,}'yi çözün ve grafikleri çizin.
+
+5. İki sayı x ve y'nin toplamı 5'tir ve (x + y)^3'ün genişlemesindeki iki orta terimin toplamı, ilk ve son terimlerin toplamına eşittir. Sayıları bulun.
+
+6. x^4 - 2x^3 + 3x^2 - 2x + 1 = 0'ı çözün.
+
+(İPUCU: x^2'ye bölün ve x + 1/x = z'yi koyun.)
+
+7. Bir tüccar tatil beklentisiyle 50$'lık bir harcama yapar,
+bu yağmur durumunda toplam bir kayıp olacaktır, ancak gün güzelse harcamanın 150$ üzerinde net bir kar getirecektir.
+Zarara karşı sigorta yaptırmak için, belirli bir miktar para için yağmura karşı bir sigorta poliçesi yaptırır ve bunun için belirli bir yüzde ödemesi gerekir. Daha sonra gün yağmurlu veya güzel olsun 80$ net kazanacağını görür. Poliçe tutarı nedir ve şirket ona hangi oranı
+uyguladı?
+
+~MASSACHUSETTS TEKNOLOJİ ENSTİTÜSÜ~
+
+CEBİR A
+
+SÜRE: İKİ SAAT
+
+1. Basitleştirin
+[m + 1/m]^2 + [n + 1/n]^2 + [mn + 1/mn]^2
+- [m + 1/m][n + 1/n][mn + 1/mn].
+
+2.
+(_a_) (x - x^2)^3 + (x^2 - 1)^3 + (1 - x)^3'ün asal çarpanlarını bulun.
+(_b_) (2x + a - b)^4 - (x - a + b)^4.
+
+3. (_a_) Basitleştir
+[(x^q)/(x^r)]^(q + r) [(x^r)/(x^p)]^(r + p)[{x^p/{x^q}]^(p + q).
+
+(_b_) Şunu göster:
+([[x]^[1/(n+1)]]^(1/n))/([[x]^[1/(n+2)]]^[1/(n+1)]) =
+{x^(1/n) . [x]^[1/(n+2)]}/{[x^2]^[1/(n+1)]}.
+
+4. _Homojen terimleri_ tanımla. n'nin hangi değeri için x^n y^(5 - n/2) + x^(n + 1) y^(2n - 6) homojen bir iki terimli olur?
+
+5.
+x(x - 2^(1/2))(x - 8^(1/2))(x - 18^(1/2)) + 4'ün karekökünü çıkarın.
+
+6. İki kapta şarap ve su karışımı vardır. İlk kapta şarap miktarı su miktarına göre 1: 3,
+ikinci kapta ise 3: 5'tir.
+5 galon şarap ve 9 galon su içeren üçüncü bir karışım oluşturmak için her birinden ne kadar miktar alınmalıdır?
+
+7. Her bir a,
+b, c, d miktarına eklendiğinde orantılı olarak dört miktar elde edilecek bir miktar bulun.
+
+8. (3a + 2b + 17)/2,
+(2a - 3b + 25)/3, 4 - 5a - 13b'nin eşit olabilmesi için a ve b'ye hangi değerler verilmelidir?
+
+~MOUNT HOLYOKE COLLEGE~
+
+İLKÖĞRETİM CEBİR
+
+SÜRE: İKİ SAAT
+
+1. Aşağıdaki ifadeleri çarpanlarına ayırın:
+
+(_a_) a^(3/4) - b^(3/4).
+
+(_b_) x^2 y^2 z^2 - x^2 z - y^2 z + 1.
+
+(_c_) 16(x + y)^4 - (2x - y)^4.
+
+2. (_a_) Basitleştir
+
+(a^2 + b^2){(b^4)/(b^2 - a^2) - a^2}/{a/(a + b) + b/(a - b)}}.
+
+(_b_) x^4 - 2x^3 + 5x^2 - 4x + 4'ün karekökünü çıkar.
+
+3. Aşağıdaki denklemleri çöz:
+
+(_a_) 1/x + 1/y = 5, 1/(x^2) + 1/(y^2) = 13.
+
+(_b_) x^2 - 5x + 2 = 0.
+
+(_c_) [27x + 1]^(1/2) = 2 - 3[3x^(1/2)].
+
+4. Basitleştir:
+
+(_a_) 7[54]^(1/3) + 256^(1/6) + [432/(-250)]^(1/3).
+
+(_b_) 1/[(a - b)(b - c)] + 1/[(c - a)(b - a)].
+
+(_c_) [19 - 8[3^(1/2)]]^(1/2)'yi bul.
+
+5. Aşağıdaki sistemin grafiklerini çizin ve kesişim noktasından çözümü belirleyin:
+{ x - 2y = 0,
+{ 2x - 3y = 4.
+
+6. (_a_) ax^2 + bx + c = 0'ın çözümü için formülü türetin.
+
+(_b_) 2x^2 + 4x + m = 0'ın köklerinin (i) eşit, (ii) gerçek, (iii) sanal olduğu m değerini belirleyin.
+
+(_c_) Kökleri 2 + 3^(1/2) ve 2 - 3^(1/2) olan ikinci dereceden denklemi oluşturun.
+
+7. Bir sayfanın kenar boşluğu 1 inç olacak ve 35 inç kare baskı içerecektir. Sayfanın uzunluğu genişliği 2 inç aşacaksa, sayfa ne kadar büyük olmalıdır?
+
+8. (_a_) Aritmetik bir dizide ilk altı terimin toplamı 261 ve ilk dokuz terimin toplamı 297'dir. Ortak farkı bulun.
+
+(_b_) Toplamları 27 olan üç sayı aritmetik dizidedir.
+Birincisine 1, ikincisine 3 ve üçüncüsüne 11 eklenirse toplamlar geometrik dizide olacaktır.
+Sayıları bulun.
+
+(_c_) Geometrik bir dizinin _n_ teriminin toplamı için formülü türetin.
+
+9. (_a_) (2a^2 - 3x^3)^7'yi genişletin ve basitleştirin.
+
+(_b_) 7 + x : 12 + x oranı hangi x değeri için 5 : 6 oranına eşit olacaktır?
+
+~PENNSYLVANIA ÜNİVERSİTESİ~
+
+TEMEL CEBİR
+
+SÜRE: ÜÇ SAAT
+
+1. Basitleştirin: [(a + x)/(a - x) - (a - x)/(a + x)] / (4ax)/(a^2 - x^2).
+
+2. 10ab^2(x^2 - 2ax), 15a^3b(x^2 - ax - 2a^2), 25b^3(x^2 - a^2)^2'nin Y. C. F. ve Y. C. M.'sini bulun.
+
+3. Bir bakkal 4'ü 7 sente satın alır. 1/4'ünü 5'i 12 sente, kalanını 6'sı 11 sente satar ve işlem sonunda 27 sent elde eder. Kaç tane
+yumurta satın alır?
+
+4. t'yi çözün:
+(t + 4a + b)/(t + a + b) - (4t - a - 2b)/(t + a - b) = -3.
+
+5.
+a^2 - (3/2)a^(3/2) - (3/2)a^(1/2) + (41/16)a + 1'in karekökünü bulun.
+
+6. (_a_) m'nin hangi değerleri için 2x^2 + 3mx = -2'nin kökleri eşit olacaktır?
+
+(_b_) 2a + 3b, x^2 - 6bx - 4a^2 + 9b^2 = 0'ın bir kökü ise,
+denklemi çözmeden diğer kökü bulun.
+
+7. (_a_) x için çözüm: [2x - 3a]^(1/2) + [3x - 2a]^(1/2) = 3[a^(1/2)].
+
+(_b_) m için çözüm: 1 - (1)/(2 - m) = 1/(m + 2) + (m - 6)/(4 - m^2).
+
+8. Sistemi çözün: x^2 + 2y^2 = 17; xy - y^2 = 2.
+
+9. İki tekne aynı anda 2-1/4 mil genişliğindeki bir nehrin zıt kıyılarından ayrılıp 15 dakikada birbirlerini geçiyorlar. Daha hızlı olan tekne yolculuğunu diğerinin karşı kıyıya ulaşmasından 6-3/4 dakika önce tamamlıyor. Teknelerin hızlarını mil/saat cinsinden bulun.
+
+10. [x/(2[y^2]^(1/3)) - (y^(1/2))/x]^9
+'un altıncı terimini, önceki terimleri yazmadan yazın.
+
+11. Bir A. P.'nin 2. ve 20. terimlerinin toplamı 10'dur ve bunların
+çarpımı 23-47/64'tür. On altı terimin toplamı kaçtır?
+
+~PRINCETON ÜNİVERSİTESİ~
+
+CEBİR A
+
+SÜRE: İKİ SAAT
+
+Şu anda hem Cebir A hem de Cebir B'yi alan adaylar
+Cebir A'dan 4, 5 ve 6 numaralı soruları ve Cebir B'den 1 (_a_), 3 ve 4 numaralı soruları çıkarabilirler.
+
+1. Basitleştirin
+(a^3 + a^2b + ab^2)/(a^2 - 3ab - 4b^2) / {(a^2 + 6ab - 7b^2)/(a^2 +
+8ab - 9b^2) . (a^3 - b^3)/(a^2 - 7ab + 12b^2)}.
+
+2. (_a_) a^(5/2) + ab^(3/2) + b^(5/2) - 2a^(1/2)b^2 - a^(3/2)b'yi a^(3/2) - b^(3/2) + a^(1/2)b - ab^(1/2)'ye böl.
+
+(_b_) (1)/(x^(-1) + y^(-1)}'i basitleştirin. (x^(1/4)y^(1/2))^3 + 1.
+
+3. Çarpan: (_a_) (x^2 + 3x)^2 - (2x - 6)^2.
+
+(_b_) a^2 + ac - 4b^2 - 2bc.
+
+4. 1/(x + 1) - (1)/(x - 1) - (1)/(x - 3) + (1)/(x - 5) = 0'ı çözün.
+
+5. x ve y için çözün: mx + ax = my - by, x - y = a + b.
+
+6. A'dan B'ye giden yol 5 mil yokuş yukarı, 4 mil düz ve sonra
+6 mil yokuş aşağıdır. Bir adam B'den A'ya 4 saat; daha sonra A'dan B'ye yarı yolda yürür ve 3 saat 55 dakikada tekrar A'ya döner; ve
+daha sonra A'dan B'ye 3 saat 52 dakikada yürür. Yokuş yukarı, yokuş aşağı ve düz yolda yürüme oranları
+eğer bunlar değişmiyorsa nelerdir?
+
+CEBİR B
+
+1. Çöz
+
+(_a_) (x + 1)/(x - 2) + (2x + 1)/(x + 1) + (3x + 3)/(1 - x) = 0.
+
+(_b_) [2x + 7]^(1/2) + [3x - 18]^(1/2) - [7x + 1]^(1/2) = 0.
+
+(_c_) 6/(x^2 + 2x) = 5 - 2x - x^2.
+
+2. Birini kontrol ederek x ve y'yi çözün her problemdeki çözüm:
+
+(_a_) 2x + 3y = 1, 6/x + 1/y = 2.
+
+(_b_) x^2 = x + y, y^2 = 3y - x.
+
+3. Bir adam 3600 dolarlık borcunu 40 aylık taksitle ödemeyi planlıyor ve bu taksitler bir A.P. oluşturuyor. 30 taksit ödedikten sonra hala borcunun 1/3'ünü borçlu oluyor. İlk ödemesi neydi?
+
+4. Eğer 4 miktar orantılıysa ve ikincisi üçüncü ile dördüncü arasında ortalama orantılıysa, üçüncünün birinci ile ikinci arasında ortalama bir pay olacağını kanıtlayın.
+
+5. [2x + 1/3x]^6 açılımında dördüncü terimin beşinciye oranı 2: 1'dir. x'i bulun.
+
+6. İki adam A ve B birlikte bir işi 12 günde yapabilir; B'nin tüm işi yapması için A'dan 10 gün daha fazla zamana ihtiyacı olacaktır. A'nın tek başına işi yapması kaç gün sürer?
+
+CEBİRDEN KUADRATİKE
+
+1. Basitleştir
+(ab^(-2)c^2)^(1/2) . (a^3b^2c^(-3))^(1/3) + [(a^6)/(b)]^(1/3).
+
+2. Basitleştir
+a/[(a - b)(a - c)] + b/[(b - c)(b - a)] + c/[(c - a)(c - b)].
+
+3. (_a_) x^4 - 10x^2 + 9'u çarpanlarına ayır.
+
+(_b_) x^2 + 2xy - a^2 - 2ay.
+
+(_c_) (a + b)^2 + (a + c)^2 - (c + d)^2 - (b + d)^2.
+
+4. x^4 - x^3 + 2x^2 + x + 3 ve (x + 2)(x^3 - 1)'in H. C. F.'sini bulun.
+
+5. Çözün
+x/(x - 2) + (x - 9)/(x - 7) = (x + 1)/(x - 1) + (x - 8)/(x - 6).
+
+6. Üç sayının toplamı 51'dir; ilk sayı ikinciye
+bölündüğünde bölüm 2 ve kalan 5 olur; ikinci sayı üçüncüye
+bölündüğünde bölüm 3 ve kalan 2 olur.
+
+Sayılar nelerdir?
+
+~SMITH COLLEGE~
+
+İLKÖĞRETİM CEBİR
+
+1. e^(2x) - 2 + e^(-2x), x^(12) - 8, x^2 - x - y^2 - y,
+18a^2x^2 -24axy - 10y^2 çarpanlarına ayırın.
+
+2. [7 + 4x + 3[2x^2 + 5x + 7]^(1/2)]^(1/2) - 3 = 0'ı çözün.
+
+3. Geometrik bir ilerlemenin ikinci terimi 3[2^(1/2)]'dir ve
+beşinci terim 3/16'dır. İlk terimi ve oranı bulun.
+
+4. Aşağıdaki denklemleri çözün ve sonuçlarınızı çizerek kontrol edin:
+
+{ x^2 + y^2 - xy = 7,
+{ x + y = 4.
+
+5. Çözün
+
+1/(x^3) + 1/(y^3) = 243/8,
+1/x + 1/y = 9/2.
+
+6. Aritmetik bir dizide d = -11, n = 13, s = 0. a
+ve l'yi bulun.
+
+7. Binom teoremine göre genişletin ve basitleştirin:
+
+[(2x)/(y^3) - (y^4)/(x^5 [-6]^(1/2))]^5.
+
+8. Bir dikdörtgenin köşegeni 13 ft. uzunluğundadır. Her bir kenar 2 ft. daha uzun olsaydı, alan 38 ft. kare artardı. Kenarların
+uzunluklarını bulun.
+
+~SMITH COLLEGE~
+
+İLKÖĞRETİM CEBİR
+
+1. 8x^3 - 27, 32x^5 - 243 ve
+6x^3 - 9x^2 + 4x - 6'nın Y.K.F.'sini bulun.
+
+2. Çözün:
+
+(_a_) (2x + 5)^(-5) + 31(2x + 5)^(-5/2) = 32.
+
+(_b_) (x - 1)^(1/2) + (3x + 1)^(1/2) = 4.
+
+3. Bir çiftçi x dolar ödediği bir atı 75 dolara sattı. Satışından %x kar elde etti. X'i bulun.
+
+4. Aritmetik ilerlemenin 13. terimini ve 13 teriminin toplamını bulun
+
+(2^(1/2) - 1)/2, (2^(1/2))/2, (1)/[2([2]^(1/2) - 1)], ....
+
+5. İki sayı arasındaki fark 48'dir. Aritmetik ortalamaları
+geometrik ortalamalarını 18 aşar. Sayıları bulun.
+
+6. Binom teoremine göre genişletin ve basitleştirin
+
+[3a^(-2) - a/[-2]^(1/2)]^5.
+
+7. Çözün:
+
+1/x + 1/y = 3/2,
+1/(x^2) + 1/(y^2) = 5/4.
+
+8. Aşağıdaki denklemleri çözün ve iki denklemin grafiklerinin kesişimlerini bularak sonuçları kontrol edin:
+
+{ x^2 = 4y,
+{ x + 2y = 4.
+
+~VASSAR COLLEGE~
+
+İLK VE ORTA SEVİYE CEBİR
+
+Altı soruyu cevaplayın.
+
+1.
+
+[1 + 2a/3 - (5a^2)/(6)] ve [2 - 3a/4 + (a^2)/(3)]'ün ürününü bulun.
+
+2. Doğrusal faktörlere çözün:
+
+(_a_) 4x^2 - 25;
+
+(_b_) 6x^2 - x - 12;
+
+(_c_) a^2b^2 + 1 - a^2 - b^2;
+
+(_d_) y^3 + (x - 3)y^2 - (3x - 2)y + 2x.
+
+3. En basit forma indirgeyin:
+
+(_a_) z/(1/x - 1/y) + y/(1 - y/x) - x/(1 - x/y).
+
+(_b_) [-(x^3)^(1/2)]^(1/3) x (4y^(-3))^(1/2).
+
+4. (_a_) x^(3/2) - x^(-3/2)'yi x^(1/2) - x^(-1/2)'ye bölün.
+
+(_b_) Bir ondalık basamağına kadar doğru olan
+[5^(1/2) + 7^(1/2)]/[2 - 3^(1/2)] değerini bulun.
+
+5. (_a_) Eğer a/b = c/d ise, (a^2 + c^2)/(b^2 + d^2) = ac/bd olduğunu gösterin.
+
+(_b_) İki sayı 3:4 oranındadır ve her birinden 7 çıkarılırsa kalanlar 2:3 oranında olur. Sayıları bulun.
+
+6. Denklemleri çözün:
+
+(_a_) (x + 1)/(2) - 3/x = x/3 - (5 - x)/(6).
+
+(_b_) 11x^2 - 11-1/4 = 9x.
+
+(_c_) { x^2 - 2y^2 = 71,
+{ x + y = 20.
+
+7. Bir tarla, uzunluğu 10
+feet azaltılıp genişliği 5
+feet artırılarak kareye dönüştürülebilir, ancak alanı o zaman 210
+feet kare azalır. Tarlanın uzunluğunu ve genişliğini bulun.
+
+~VASSAR COLLEGE~
+
+İLKOKUL VE ORTA SEVİYE CEBİR
+
+5 ve 7 veya 8 numaralı sorular dahil olmak üzere altı soruyu cevaplayın. Orta Seviye Cebirdeki adaylar 5-9 numaralı soruları cevaplayacaktır.
+
+1. Oranı 3 olan ve daha büyük olanın iki yedide biri, daha küçük olanın yarısından 15 fazla olan iki sayı bulun.
+
+2.
+3x^4 (x^3 - y^3), 15 (x^4 - 2x^2y^2 + y^4) ve
+10y (x^4 + x^2y^2 + y^4)'ün en küçük ortak katının çarpanlarını belirleyin.
+
+3.
+[4a^(-2/5) + b^0[ab^(-1)]^(1/2)]^(1/2) değerini iki ondalık basamağa kadar bulun, a = -32 ve b = -8 olduğunda.
+
+4. Denklemleri çözün: 2x + 5y = 85, 2y + 5z = 103, 2z + 5x = 57.
+
+5. Bu denklemlerden herhangi 3'ünü çözün:
+
+(_a_) x^2 + 44 - 15x = 0.
+
+(_b_) 2/x - x/5 = x/20 - 223/30.
+
+(_c_) x^2 + 8x - [4x^2 + 32x + 12]^(1/2) = 21.
+
+(_d_) 5/(x + 1) + 8/(x - 2) = 12/(40 - 2x).
+
+6. İki sayının toplamı 13'tür ve küplerinin toplamı 910'dur.
+İkinci ondalık basamağına kadar doğru olan daha küçük sayıyı bulun.
+
+7. Aritmetik bir ilerlemenin 9 teriminin toplamı 46'dır; ilk 5 terimin toplamı 25'tir. Ortak farkı bulun.
+
+8. Terimleri açıklayın ve dört sayı orantılıysa, bunların _alternasyon_, _inversiyon_ ve _bileşim_ ile orantılı olduğunu kanıtlayın. 
+(3 + x)/(3 - x) = (40 + x^3)/(40 - x^3) olduğunda x'i bulun.
+
+9. Bu denklemlerin her birinde x değerini bulun:
+
+(_a_) 7x^(1/4) - 3x^(1/2) = 2.
+
+(_b_) (x^2 + 2)^(5/2) + 3/{[x^2 + 2]^(1/2)} = 4x^2 + 8.
+
+~YALE ÜNİVERSİTESİ~
+
+CEBİR A
+
+SÜRE: BİR SAAT
+
+Grup II'deki bir soruyu ve Grup III'teki bir soruyu atlayın. Sadece
+_altı_ soru için kredi verilecektir.
+
+_Grup I_
+
+1. Asal çarpanlara ayırın: (_a_) 6x^2 - 7x - 20;
+(_b_) (x^2 - 5x)^2 - 2(x^2 - 5x) - 24; (_c_) a^4 + 4a^2 + 16.
+
+2. Basitleştirin
+[5 - (a^2 - 19x^2)/(a^2 - 4x^2)] / [3 - (a - 5x)/(a - 2x)].
+
+3. Çözün
+[2(x - 7)]/(x^2 + 3x - 28) + (2 - x)/(4 - x) - (x + 3)/(x + 7) = 0.
+
+_Grup II_
+
+4. [2^(1/2) + 2[3^(1/2)]]/[2^(1/2) - 12^(1/2)]'yi basitleştirin ve
+kesrin değerini iki ondalık basamağa kadar hesaplayın.
+
+5. Eşzamanlı denklemleri çözün
+{ x^(-1/2) + 2y^(-1/2) = 7/6,
+{ 2x^(-1/2) - y^(-1/2) = 2/3.
+
+_Grup III_
+
+6. İki sayı c : d oranındadır. Eğer birinciye a eklenip ikinciden çıkarılırsa, sonuçlar 3:2 oranında olacaktır. Sayıları bulun.
+
+7. Bir satıcının pound başına 30 ve 40 sent değerinde iki çeşit kahvesi vardır.
+Pound başına 36 sent değerinde 70 poundluk bir karışım yapmak için her birinden kaç pound alınmalıdır?
+
+8. A, B ve C bir işi 30 saatte yapabilir. A, B'nin yarısı kadar, B ise C'nin üçte ikisi kadar iş yapabilir. Her birinin işi tek başına yapması ne kadar zaman alır?
+
+~YALE ÜNİVERSİTESİ~
+
+CEBİR B
+
+SÜRE: BİR SAAT
+
+Grup I'deki bir soruyu ve Grup II'deki bir soruyu atlayın. Sadece
+_beş_ soruya kredi verilecektir.
+
+_Grup I_
+
+1. (x + a)/(x + b) + (x + b)/(x + a) = 5/2'yi çözün.
+
+2. Eş zamanlı denklemleri çözün
+{ x^2y^2 + 28xy - 480 = 0,
+{ 2x + y = 11.
+Kökleri karşılık gelen çiftlere yerleştirin.
+
+3. 3x^(-3/2) + 20x^(-3/4) = 32'yi çözün.
+
+_Grup II_
+
+4. 7500 yard giderken bir vagonun ön tekerleği arkadakinden 1000 devir daha fazla yapar. Tekerleklerin her biri 1 yard daha büyük olsaydı, ön tekerlek arkadakinden 625 devir daha fazla yapardı. Her birinin çevresini bulun.
+
+5. Eşit hızdaki iki araba A ve B'den 20 mil uzaklıkta ayrılıyor. ayrı, farklı
+zamanlarda. Arabalar birbirlerini geçerken bir kaza
+gücü azaltır ve hızları saatte 10 mil azalır. Bir araba
+A'dan B'ye 56 dakikada, diğeri ise B'den A'ya 72 dakikada yolculuk yapar. Ortak hızları nedir?
+
+_Grup III_
+
+6. (4a^(3/2) - a^(1/2) x^(1/3))^8'in genişlemesinin
+son üç terimini en basit biçimde yazın.
+
+7. (_a_) Bir A. P'nin toplamı için formülü türetin.
+
+(_b_) 1, -1/2, 1/4, -1/8, .... serisinin sonsuza kadar toplamını bulun. Ayrıca pozitif terimlerin toplamını bulun.
+
+Project Gutenberg'in Romeyn Henry Rivenburg'un Cebir İncelemesi kitabının sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A REVIEW OF ALGEBRA ***
+
+***** This file should be named 38536.txt or 38536.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/5/3/38536/
+
+Produced by Peter Vachuska, Alex Buie, Erica
+Pfister-Altschul and the Online Distributed Proofreading
+Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
