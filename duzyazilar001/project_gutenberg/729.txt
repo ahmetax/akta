@@ -1,0 +1,1100 @@
+*** START OF AKTAHEADER ***
+Başlık: Hackers, Heroes of the Computer Revolution (Bilgisayar Devriminin Kahramanları, Hackerlar)
+Yazar: Stephen Levy
+Yayın Tarihi: November, 1996
+Dil: English
+Link: https://www.gutenberg.org/ebooks/729
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Hackers, Heroes of the Computer Revolution, by 
+Stephen Levy
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Hackers, Heroes of the Computer Revolution
+
+Author: Stephen Levy
+
+Posting Date: April 11, 2013 [EBook #729]
+Release Date: November, 1996
+First Posted: December 5, 1996
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HACKERS, HEROES OF COMPUTER REV. ***
+
+*** START OF TURKISH PART ***
+Bilgisayar Devriminin Kahramanları Hackerlar, Steven Levy
+(C)1984 Steven Levy
+
+Bilgisayar Devriminin Kahramanları Hackerlar'ın 1. ve 2. Bölümleri
+Steven Levy
+Kim Kimdir
+Sihirbazlar ve Makineleri
+
+Bob Albrecht
+Gençleri bilgisayarlarla tanıştırmaktan içgüdüsel bir zevk alan
+People's Computer Company'nin kurucusu.
+
+Altair 8800
+Donanım hacker'larını harekete geçiren öncü mikrobilgisayar.
+Bu seti yapmak size hacker'lığı öğretti. Sonra
+ne YAPACAĞINIZI anlamaya çalıştınız.
+
+Apple II ][
+Steve Wozniak'ın dost canlısı, tuhaf, güzel görünümlü bilgisayarı,
+çılgınca başarılı ve gelişen bir endüstrinin kıvılcımı ve ruhu.
+
+Atari 800
+Bu ev bilgisayarı John Harris gibi oyun hacker'larına harika grafikler verdi,
+ancak onu üreten şirket size nasıl çalıştığını anlatmaktan çekiniyordu.
+
+Bob ve Carolyn Box
+Dünya rekoru sahibi altın arayıcıları, Sierra On-Line için
+çalışarak yazılım yıldızlarına dönüştüler.
+
+Doug Carlston
+Broderbund yazılım şirketini kurmak için her şeyi bırakan şirket avukatı.
+
+Bob Davis
+İçki dükkanındaki işini bırakıp Sierra On-Line bilgisayar oyunu "Ulysses and the Golden Fleece"in
+en çok satan yazarı oldu.
+Başarı onun çöküşü oldu.
+
+Peter Deutsch
+Sporda kötü, matematikte harika olan Peter, MIT'de TX-0'a
+tökezlediğinde ve onu
+ustalarla birlikte hacklediğinde
+hala kısa pantolon giyiyordu.
+
+Steve Dompier
+İlk olarak Altair'i şarkı söyleten
+ve daha sonra Tom Snyder'ı büyüleyen Sol'daki "Targe" oyununu yazan
+ev yapımı bira üyesi.
+
+John Draper
+Telefon sistemlerini korkusuzca araştıran, hapse giren, mikroişlemcileri hackleyen
+kötü şöhretli "Kaptan Crunch".
+Sigaralar onu şiddet yanlısı yaptı.
+
+Mark Duchaineau
+On-Lines disklerini keyfine göre kopyalayan
+genç Zindan Ustası.
+
+Chris Esponosa
+Steve Wozniak'ın 14 yaşındaki takipçisi
+ve ilk Apple çalışanı.
+
+Lee Felsenstein
+Berkeley Barb'ın eski "askeri editörü"
+ve hayali bir bilimkurgu romanının kahramanı,
+"hurdalık" yaklaşımıyla bilgisayarlar tasarladı
+ve yetmişlerde Bay Area donanım
+hack'lemesinde merkezi bir figürdü.
+
+Ed Fredkin
+Information International'ın nazik kurucusu,
+Stew Nelson ile tanışana kadar
+kendisini dünyanın en büyük programcısı olarak görüyordu. Hacker'ların baba figürü.
+
+Gordon French
+Garajında ​​arabalar değil
+ama kendi yaptığı Chicken Hawk bilgisayarı olan gümüş saçlı donanım hacker'ı, daha sonra ilk Homebrew Bilgisayar Kulübü toplantısını düzenledi.
+
+Richard Garriott
+Lord British olarak
+bilgisayar disklerinde Ultima dünyasını yaratan astronotun oğlu.
+
+Bill Gates
+Küstah büyücü, Harvard terk, Altair BASIC'i yazdı,
+ve hacker'lar kopyaladığında şikayet etti.
+
+Bill Gosper
+Bilgisayar klavyelerinin Horwitz'i, matematik ustası ve MIT AI laboratuvarında LIFE hacker'ı, Hacker Etiği'nin gurusu ve Çin restoranı menülerinin öğrencisi.
+
+Richard Greenblatt
+Ana fikirli, bakımsız, üretken ve kanonik MIT hacker'ı, o kadar sık ​​gece evresine girdi ki
+akademik kariyerini mahvetti. Hacker'ların hacker'ı.
+
+John Harris
+Sierra On-Line'ın yıldız programcısı olan, ancak kadın arkadaşlığı özleyen genç Atari 800 oyun hacker'ı.
+
+IBM-PC
+IBM'in kişisel bilgisayar pazarına girişi
+inanılmaz bir şekilde Hacker Etiği'nin bir kısmını içeriyordu,
+ve devraldı. [H.E. açık mimari olarak.]
+
+IBM 704
+IBM Düşmandı ve bu onun makinesiydi,
+MIT'nin 26. Binasındaki Dev Dev bilgisayar.
+Daha sonra IBM 709'a, sonra IBM 7090'a dönüştürüldü.
+Toplu işlenmiş ve dayanılmaz.
+
+Jerry Jewell
+Sirius Software'i kuran Vietnam gazisi, programcı oldu.
+
+Steven Jobs
+Wozniak'ın Apple II ]['sini alan, çok sayıda anlaşma yapan,
+bir milyar dolar kazanacak bir şirket kuran vizyon sahibi, boncuklu, hacker olmayan genç.
+
+Tom Knight
+On altı yaşında, Uyumsuz Zaman Paylaşım Sistemi'ne
+adını verecek olan bir MIT hacker'ı. Daha sonra LISP makine bölünmesi yüzünden Greenblatt'ın düşmanı.
+
+Alan Kotok
+TMRC'deki ray düzeninin altında çalışan
+Jersey'li tombul MIT öğrencisi, Western Electric'te telefon sistemini öğrendi
+ve efsanevi bir TX-0 ve PDP-1 hacker'ı oldu.
+
+Effrem Lipkin
+Makineleri seven
+ama kullanımlarından nefret eden New York'lu hacker-aktivist. Topluluk Hafızasını Ortak Kurdu;
+Felsenstein'ın arkadaşı.
+
+LISP Makinesi
+Çoğunlukla Greenblatt tarafından icat edilen nihai hacker bilgisayarı
+ve MIT'de sert bir anlaşmazlığın konusu.
+
+"Amca" John McCarthy
+Dalgın ama zeki MIT [daha sonra Stanford] profesörü
+bilgisayar satrancının, yapay zekanın, LISP'in öncülüğünü yapan kişi.
+
+Bob Marsh
+Felsenstein ile garajı paylaşan ve Sol bilgisayarını yapan Processor Technology'yi kuran Berkeley'li ve Homebrewer.
+
+Roger Melen
+Altair için devre kartları yapmak üzere Cromemco şirketini ortak kuran homebrewer. "Dazzler"ı mutfak masasında LIFE
+programları çalıyordu.
+
+Louis Merton
+Katatonik olma eğilimiyle hacker topluluğunu bir araya getiren AI satranç hacker'ının takma adı.
+
+Jude Milhon
+Lee Felsenstein ile Berkeley Barb'daki bir ilan aracılığıyla tanıştı ve bir arkadaştan daha fazlası oldu - Topluluk Hafızası kolektifinin bir üyesi.
+
+Marvin Minsky
+Yapay zeka laboratuvarına başkanlık eden ve
+hackerların serbestçe dolaşmasına izin veren
+şakacı ve zeki MIT profesörü.
+
+Fred Moore
+Paradan nefret eden, teknolojiyi seven
+ve Homebrew Kulübü'nü kuran serseri pasifist.
+
+Stewart Nelson
+Çakmak dişli, ufak tefek ama ateşli AI laboratuvar hacker'ı
+Telefon sistemini hacklemek için PDP-1 bilgisayarını bağladı.
+Daha sonra Systems Concepts şirketini kurdu.
+
+Ted Nelson
+Kendini "yenilikçi" olarak tanımlayan ve etkili Computer Lib kitabını kendi kendine yayınlayan
+bilinen huysuz adam.
+
+Russel Noftsker
+Altmışlı yılların sonlarında MIT AI laboratuvarının telaşlı yöneticisi;
+daha sonra Symbolics şirketinin başkanı.
+
+Adam Osborne
+Bangkok doğumlu yayıncı-bilgisayar üreticisi
+kendisini bir filozof olarak görüyordu. "Yeterli" makineler yapmak için Osborne
+Computer Company'yi kurdu.
+
+PDP-1
+Digital Equipment'ın ilk mini bilgisayarı ve 1961'de
+MIT hacker'larına etkileşimli bir lütuf ve IBM faşizmine tokat.
+
+PDP-6
+Kısmen Kotok tarafından tasarlanan bu ana bilgisayar
+muhteşem talimat seti ve on altı seksi kayıt defteriyle AI laboratuvarının temel taşıydı.
+
+Tom Pittman
+Karısını kaybeden dindar Homebrew hacker'ı
+ama Tiny Basic'iyle inancını korudu.
+
+Ed Roberts
+Altair bilgisayarıyla dünyayı
+sarsan MITS şirketinin gizemli kurucusu. İnsanların
+zihinsel piramitler inşa etmelerine yardımcı olmak istiyordu.
+
+Steve [Slug] Russell
+McCarthy'nin "amelesi", Spacewar programını hackleyen,
+ilk video oyunu, PDP-1'de. Bundan asla bir kuruş bile kazanamadı.
+
+Peter Samson
+MIT hacker'ı, ilklerden biri, sistemleri, trenleri,
+TX-0'ı, müziği, parlamento prosedürlerini, şakaları ve hacklemeyi severdi.
+
+Bob Saunders
+Erken evlenen, kel TMRC hacker'ı neşeli,
+gece geç saatlere kadar hacker'lık yaptı, "limonlu gofret" yedi,
+ve "Uzay Savaşı'ndaki CBS Stratejisi"nde ustalaştı.
+
+Warren Schwader
+Wisconsin kırsalından, montaj hattından yazılım yıldızlığına geçen ama
+bu değişimi Yehova'nın Şahitleri'ne olan bağlılığıyla bağdaştıramayan iri yarı sarışın hacker.
+
+David Silver
+On dört yaşında okulu bırakıp AI laboratuvarının maskotu oldu;
+yasadışı anahtarların üreticisi ve imkansızı başaran
+küçük bir robotun yapımcısı.
+
+Dan Sokol
+Homebrew Kulübü'nde teknolojik sırları ifşa etmekten zevk alan uzun saçlı şakacı.
+Alair BASIC'i kağıt bantta "özgürleştirmeye" yardımcı oldu.
+
+Les Solomon
+Popular Electroics'in editörü,
+bilgisayar devrimini harekete geçiren ipleri çeken kişi.
+
+Marty Spergel
+Ev yapımı ürünler tedarik eden Junk Man, devreler
+ve kablolar ve size her şey için bir anlaşma sağlayabilir.
+
+Richard Stallman
+Hackerizm ilkelerini sonuna kadar savunmaya yemin eden
+Son Hacker.
+Çin yemeği yiyecek kimse kalmayana kadar MIT'de kaldı.
+
+Jeff Stephenson
+Sierra On-Line'a katılmanın
+Yaz Kampı'na kaydolmak anlamına geldiğine şaşıran
+otuz yaşında dövüş sanatları gazisi ve hacker.
+
+Jay Sullivan
+"Herhangi bir" kelimesinin anlamını bilerek
+Ken Williams'ı etkileyen
+Bilişim'de inanılmaz derecede sakin büyücü seviyesinde programcı.
+
+Dick Sunderland
+Tebeşir tenli MBA, katı yönetimsel
+bürokrasinin değerli bir hedef olduğuna inanıyordu, ancak Sierra On-Line'ın başkanı olarak
+hackerların böyle düşünmediğini gördü. Gerry Sussman
+Genç MIT hacker'ı pipo içtiği
+ve programlarını "bozduğu" için "kaybeden" olarak damgalandı; daha sonra algoritmik sihirle "kazanan" oldu.
+
+Margot Tommervik
+Kocası Al ile birlikte, uzun saçlı Margot yarışma
+kazançlarını Apple Bilgisayar'ı yücelten bir dergiye yatırdı.
+
+Tom Swift Terminal
+Lee Felsenstein'ın efsanevi, asla inşa edilmeyecek bilgisayar terminali
+kullanıcıya dünyaya el atması için nihai izni verecekti.
+
+TX-0
+Küçük bir odayı dolduruyordu, ancak ellili yılların sonlarında bu 3 milyon dolarlık makine
+dünyanın ilk kişisel bilgisayarıydı--etrafında oluşan MIT hacker topluluğu için.
+
+Jim Warren
+Homebrew'da "teknoloji dedikodusu"nun yakışıklısı,
+hippi tarzı Dr. Dobbs Journal'ın ilk editörüydü,
+daha sonra kazançlı Bilgisayar Fuarı'nı başlattı.
+
+Randy Wigginton
+Steve Wozniak'ın çocuk birliğinin on beş yaşındaki üyesi,
+Woz'un Apple II'yi Homebrew'a taşımasına yardım etti.
+Apple'ın ilk yazılım çalışanı olduğunda hala lisedeydi.
+
+Ken Williams
+CRT'deki yazıyı gören ve oyun satarak para kazanmak ve toplumu iyileştirmek için Sierra On-Line'ı kuran kibirli ve zeki genç programcı.
+
+Roberta Williams
+Ken Williams'ın çekingen karısı, en çok satan bilgisayar oyunlarından ilki olan "Mystery House"u yazarak
+kendi yaratıcılığını yeniden keşfetti.
+
+Steven "Woz" Wozniak
+San Jose banliyölerinden açık yürekli, teknolojik olarak cesur donanım korsanı. Woz, Apple Bilgisayarını
+kendisi ve arkadaşlarının zevki için yaptı.
+
+BİRİNCİ KISIM Gerçek Hackerlar
+CAMBRIDGE: Elliler ve Altmışlar
+
+BÖLÜM 1 TEKNOLOJİ MODELİ DEMİRYOLU KULÜBÜ
+
+Peter Samson'ın gecenin bir vakti 26 Numaralı Bina'da neden
+dolaştığını açıklamakta
+zorlanacağı bir konu. Bazı şeyler konuşulmaz. Eğer siz de
+Peter Samson'ın 1958-59 kışında Massachusetts Teknoloji Enstitüsü'ndeki
+birinci yılında tanıştığı ve arkadaş olduğu kişiler gibiyseniz, hiçbir açıklamaya gerek kalmaz.
+Laboratuvarların ve depoların labirentinde dolaşmak,
+makine odalarında telefon anahtarlama sırlarını aramak,
+yeraltı buhar
+tünellerinde kablo veya röle yollarını izlemek... bazıları için bu yaygın bir davranıştı ve
+arkasında dayanılmaz derecede merak uyandırıcı bir ses olan
+kapalı bir kapıyla karşılaşıldığında davetsizce kapıyı açma dürtüsünü haklı çıkarmaya gerek yoktu. Ve sonra, o ilgi çekici sesi çıkaran şeye fiziksel olarak erişimi engelleyecek kimse yoksa, makineye dokunacak, anahtarları çevirmeye ve tepkileri not etmeye başlayacak ve sonunda bir vidayı gevşetecek, bir şablonu çıkaracak, birkaç diyotu oynatacak ve birkaç bağlantıyı ayarlayacak kimse yoksa. Peter Samson ve arkadaşları, dünyayla belirli bir ilişki kurarak büyümüşlerdi. Şeylerin ancak nasıl çalıştıklarını öğrendiğinizde bir anlamı vardı. Ve bunlara elinizi sürmezseniz bunu nasıl yapardınız? Samson ve arkadaşları, EAM odasını 26 Numaralı Bina'nın bodrumunda keşfettiler. 26 Numaralı Bina, MIT'nin daha yeni binalarından biri olan uzun bir cam ve çelik yapıydı ve Enstitü'nün Massachusetts Bulvarı'ndaki cephesini oluşturan saygıdeğer sütunlu yapılarla tezat oluşturuyordu. Kişilikten yoksun bu binanın bodrumunda EAM odası vardı. Elektronik Muhasebe Makineleri. Bilgisayarlar gibi çalışan makineleri barındıran bir oda. 1959'da pek çok kişi bir bilgisayar görmemişti, hatta dokunmamıştı bile. Tel gibi, kıvırcık saçlı, kızıl saçlı Samson, ünlü harflerini uzatarak kelimenin ortasındaki ifadelerin olası anlamlarını içeren listeler arasında yarışıyormuş gibi görünmeyi başarmıştı. Kampüse otuz milden daha az uzaklıktaki memleketi Lowell, Massachusetts'ten MIT'ye yaptığı ziyaretlerde bilgisayarlara bakmıştı. Bu onu, sanki yerçekimiyle Cambridge kampüsüne çekilmiş gibi bölgedeki onlarca bilim delisi liseliden biri olan "Cambridge çocuğu" yapmıştı. Hatta eski pinbol makinelerinin atılmış parçalarıyla kendi bilgisayarını yapmaya bile çalışmıştı: bulabildiği en iyi mantık öğelerinin kaynağı onlardı. MANTIK ÖĞELERİ: Terim, bir değirmen makinesi tamircisinin oğlu olan Peter Samson'ı elektroniğe çeken şeyi özetliyor gibi görünüyor. Konu mantıklıydı. Şeylerin nasıl çalıştığına dair doymak bilmez bir merakla büyüdüğünüzde, tüm bağlantıların döngülerini tamamlaması gereken devre mantığı gibi zarif bir şeyi keşfettiğinizde bulduğunuz zevk son derece heyecan vericidir. Bu şeylerin matematiksel basitliğini erkenden takdir eden Peter Samson, Boston'un kamu TV kanalı WGBH'de bir bilgisayarı kendi dilinde programlamaya dair temel bir giriş sunan bir televizyon programı gördüğünü hatırlayabiliyordu. Hayal gücünü ateşledi: Peter Samson için bir bilgisayar kesinlikle Aladdin'in lambası gibiydi - onu ovalayın ve sizin emrinize amade olurdu. Bu yüzden alan hakkında daha fazla şey öğrenmeye çalıştı, kendi makinelerini yaptı, bilim proje yarışmalarına ve müsabakalarına katıldı ve kendi türünden insanların özlem duyduğu yere gitti: MIT. Baykuş gözlükleri ve gelişmemiş göğüs kasları olan, matematik öğretmenlerini büyüleyen ve beden eğitiminde başarısız olan, balo gecesinde puan almayı değil, General Electric Bilim Fuarı yarışmasının finallerine kalmayı hayal eden o tuhaf liseli çocukların en zekilerinin bulunduğu yer. MIT, sabahın ikisinde koridorlarda dolaşıp ilginç bir şey aradığı ve gerçekten de kendisini yeni bir yaratıcı süreç biçimine ve yeni bir yaşam tarzına derinlemesine çekecek bir şey keşfedeceği ve onu yalnızca birkaç ılımlı
+bilimkurgu yazarının öngördüğü bir toplumun ön saflarına koyacağı yer. Oynayabileceği bir
+bilgisayar keşfedecekti. Samson'un tesadüfen girdiği EAM odası, bodur dosya dolapları büyüklüğünde büyük
+delme makineleriyle doluydu. Kimse onları korumuyordu: Oda sadece gündüzleri çalışıyordu. Resmi izin almış seçkin bir grup, uzun manila kartlarını operatörlere sunacak kadar ayrıcalıklıydı. Operatörler de bu makineleri kullanarak kartlara girmek istedikleri verilere göre delikler açıyorlardı. Karttaki bir delik, bilgisayara bir veri parçasını bir yere koymasını veya bir veri parçası üzerinde bir işlevi gerçekleştirmesini veya bir veri parçasını bir yerden başka bir yere taşımasını söyleyen bir talimatı temsil ediyordu. Bu kartların bir destesi, bir bilgisayar programı oluşturuyordu. Program, bir tarifteki talimatların tam olarak uygulandığında bir pastaya yol açması gibi, beklenen bir sonucu veren bir dizi talimattı. Bu kartlar, kartları deliklerin nerede olduğunu not edecek ve bu bilgiyi Bina 26'nın birinci katındaki IBM 704 bilgisayarına gönderecek olan bir "okuyucuya" besleyecek olan üst kattaki başka bir operatöre götürülürdü. Devasa Dev. IBM 704 birkaç milyon dolara mal oluyordu, tüm bir odayı kaplıyordu, profesyonel makine operatörlerinden oluşan bir kadronun sürekli ilgisine ihtiyaç duyuyordu ve içindeki parlayan vakum tüplerinin verileri yok eden sıcaklıklara kadar ısınmaması için özel bir klimaya ihtiyaç duyuyordu. Klima bozulduğunda -oldukça yaygın bir olay- yüksek bir gong sesi duyulurdu ve üç mühendis yakındaki bir ofisten fırlayıp makinenin iç kısımlarının erimemesi için telaşla kapaklarını açardı. Kart delme, okuyuculara yerleştirme ve makinedeki düğmelere ve anahtarlara basma gibi görevlerden sorumlu olan tüm bu kişiler, yaygın olarak Rahiplik olarak adlandırılan kişilerdi ve bu en kutsal rahiplere veri gönderme ayrıcalığına sahip olanlar, resmi rahip yardımcılarıydı. Neredeyse ritüelistik bir alışverişti.
+
+RAHİP: Ah makine, programımı çalıştırman ve belki de bana bir hesaplama yapman için bilgi teklifimi kabul eder misin?
+
+RAHİP (makine adına): Deneyeceğiz. Hiçbir şey
+söz vermiyoruz.
+
+Genel bir kural olarak, bu en ayrıcalıklı rahip yardımcılarının bile
+makinenin kendisine doğrudan erişmesine izin verilmezdi ve makinenin
+kartlarının "toplu"sunu
+yutmasının sonuçlarını saatlerce, bazen günlerce göremezlerdi. Samson'un bildiği bir şeydi ve tabii ki bu, lanet olası makineye ulaşmak isteyen Samson'u çok sinirlendiriyordu. Çünkü hayat bundan ibaretti.
+
+Samson'un bilmediği ve keşfetmekten çok memnun olduğu şey, EAM odasında ayrıca 407 adında özel bir delgeç makinesinin olmasıydı. Sadece kartları delebilmekle kalmıyor, aynı zamanda kartları okuyabiliyor, sıralayabiliyor ve listelere yazdırabiliyordu. Bilgisayar olan bu makineleri kimse korumuyor gibiydi.
+Elbette, bunları kullanmak hiç de kolay olmayacaktı: aslında fiş panosu denen, içinde bir sürü delik olan iki inçlik iki inçlik plastik bir kareyi kablolamak gerekiyordu. Deliklerden belirli bir sırayla yüzlerce kablo geçirirseniz, fare yuvasına benzeyen ama bu elektromekanik makineye uyan ve kişiliğini değiştiren bir şey elde ederdiniz. İstediğiniz şeyi yapabilirdi.
+
+Yani, hiçbir yetkilendirme olmadan, Peter Samson, model trenlere özel ilgi duyan bir MIT
+organizasyonundan birkaç arkadaşıyla birlikte bunu yapmaya koyuldu. Bu, bilimkurgu geleceğine atılan sıradan, düşüncesiz bir adımdı, ancak bu, garip bir alt kültürün kendi kendine
+yükselip yeraltında öne çıkmasının tipik bir yoluydu - bilgisayar dünyasının kaba, onaylanmamış ruhu olacak bir kültüre dönüşmek için. Bu, Tech Model Railroad Club veya TMRC'nin ilk bilgisayar korsanı kaçamaklarından biriydi.
+
+* * *
+
+Peter Samson, 1958 sonbaharında MIT'deki ilk haftasından beri Tech Model Railroad Club'ın bir üyesiydi. MIT'ye yeni başlayan birinci sınıf öğrencilerinin katıldığı ilk etkinlik, MIT'de herkesin hatırlayabildiğinden beri verilen geleneksel bir karşılama konferansıydı. SOLUNUZDAKİ KİŞİYE BAKIN... SAĞINIZDAKİ KİŞİYE BAKIN... ÜÇÜNÜZDEN BİRİ
+ENSTİTÜDEN
+MEZUN OLMAYACAK. Konuşmanın amaçlanan etkisi,
+kolektif birinci sınıf öğrencilerinin boğazının arkasında benzeri görülmemiş bir korkuyu işaret eden o korkunç hissi yaratmaktı. Bu birinci sınıf öğrencileri, hayatları boyunca neredeyse akademik
+baskıdan muaf tutulmuşlardı. Muafiyet, zekaları sayesinde kazanılmıştı.
+Şimdi her birinin sağında ve solunda en az onlar kadar zeki bir kişi vardı. Belki de daha zeki.
+
+Ancak bazı öğrenciler için bu hiç de zorlayıcı değildi. Bu gençler için, sınıf arkadaşları bir tür dostça sis içinde algılanıyordu:
+Belki de şeylerin nasıl çalıştığını bulma ve sonra bunlarda ustalaşma yolundaki
+tükenen arayışta yardımcı olabilirlerdi. Öğrenmenin önünde zaten yeterince engel vardı--neden yağcılık yapan öğretmenler ve notlar için çabalamak gibi
+aptalca şeylerle uğraşalım ki? Peter Samson gibi öğrenciler için bu arayış, dereceden daha fazlasını ifade ediyordu.
+
+Dersten bir süre sonra Freshman Midway geldi. Tüm kampüs
+organizasyonları (özel ilgi grupları, kardeşlikler ve benzeri) yeni üyeler almaya çalışmak için büyük bir spor salonunda stantlar kurdular.
+Peter'ı yakalayan grup Tech Model Railroad Kulübü'ydü.
+Üyeleri, aceleyle kelimelerin ortadan kaldırılmasını isteyen insanların spazmodik ritimleriyle konuşan, parlak gözlü ve kısa saçlı üst sınıf öğrencileriydi.
+Bina 20'deki kalıcı bir kulüp odasında bulunan HO ölçülü trenlerin muhteşem bir gösterisini sergilediler. Peter Samson
+uzun zamandır trenlere, özellikle de metrolara hayrandı. Bu yüzden II. Dünya Savaşı sırasında inşa edilen zona kaplı geçici bir yapı olan binaya yürüyüş turuna çıktı. Koridorlar
+mağara gibiydi ve kulüp odası ikinci katta olmasına rağmen
+bir bodrumun nemli, loş hissini veriyordu.
+
+Kulüp odası devasa tren düzeniyle kaplıydı. Odayı
+tam olarak dolduruyordu ve "çentik" adı verilen küçük kontrol alanında durursanız küçük bir kasaba, küçük bir
+endüstriyel alan, minik bir çalışan tramvay hattı, bir kağıt hamuru
+dağı ve tabii ki çok sayıda tren ve ray görebiliyordunuz. Trenler, tam ölçekli muadillerine benzeyecek şekilde titizlikle tasarlanmıştı ve rayların kıvrımları ve dönüşleri boyunca resimli kitap mükemmelliğinde ilerliyorlardı.
+
+Ve sonra Peter Samson, düzeni tutan göğüs hizasındaki tahtaların altına baktı. Nefesini kesti. Bu düzenin altında, Peter Samson'ın hayal edebileceğinden daha büyük bir kablo ve röle matrisi ve çapraz çubuk
+anahtarları vardı. Düzenli alay anahtarları dizileri ve acı verici derecede düzenli donuk bronz röle sıraları ve uzun, dağınık bir kırmızı, mavi ve sarı kablo karmaşası vardı - Einstein'ın saçlarının gökkuşağı renklerinde patlaması gibi bükülüp dönüyorlardı. İnanılmaz derecede karmaşık bir sistemdi ve Peter Samson bunun nasıl çalıştığını bulmaya yemin etti.
+
+Teknoloji Model Demiryolu Kulübü, düzen üzerinde kırk saat çalıştıktan sonra üyelerine kulüp odasının anahtarını verdi.
+Birinci sınıf Midway Cuma günüydü. Pazartesi günü, Peter Samson
+anahtarını almıştı.
+
+* * *
+
+TMRC'nin iki fraksiyonu vardı. Bazı üyeler zamanlarını tarihi ve duygusal değeri olan belirli trenlerin kopyalarını inşa edip boyamak veya düzen için gerçekçi
+manzaralar yaratmakla geçirme fikrini seviyordu. Bu, bıçak ve boya fırçası
+grubuydu ve demir yolu dergilerine abone oluyor ve kulübü eski tren hatlarında geziler için rezerve ediyordu. Diğer fraksiyon, kulübün Sinyal ve Güç Alt Komitesi'ne odaklanmıştı ve düzenin altında neler olup bittiğiyle çok daha fazla ilgileniyordu. Bu, Rube Goldberg ve Wernher von Braun arasındaki bir işbirliği gibi çalışan Sistem'di ve sürekli olarak iyileştiriliyor, yenileniyor, mükemmelleştiriliyor ve bazen "gronked" -kulüp jargonuyla- berbat ediliyordu. S&P çalışanları Sistemin çalışma şekli, artan karmaşıklıkları, yaptığınız herhangi bir değişikliğin diğer parçaları nasıl etkileyeceği ve parçalar arasındaki bu ilişkileri en iyi şekilde nasıl kullanabileceğiniz konusunda takıntılıydı. Sistem için parçaların çoğu, doğrudan telefon şirketinden Western Electric College Hediye Planı tarafından bağışlanmıştı. Kulübün öğretim görevlisi danışmanı ayrıca kampüs telefon sisteminden sorumluydu ve model trenciler için gelişmiş telefon ekipmanlarının mevcut olmasını sağlamıştı. Bu ekipmanı bir başlangıç ​​noktası olarak kullanan Demiryolu Çalışanları, aynı rayın farklı kısımlarında olsalar bile, birkaç kişinin aynı anda trenleri kontrol etmesini sağlayan bir plan tasarlamışlardı. TMRC "mühendisleri", telefonlardan alınan kadranları kullanarak, hangi ray bloğunu kontrol etmek istediklerini belirleyebiliyor ve oradan bir treni çalıştırabiliyorlardı. Bu, çapraz çubuk yürütücüleri ve adım anahtarları dahil olmak üzere çeşitli telefon şirketi röleleri kullanılarak yapıldı. Bunlar, gücün bir bloktan diğerine aktarıldığını
+başka bir dünyadan gelen chunka-chunka-chunka sesiyle gerçekten duymanızı sağlar.
+
+Bu şeytanca yaratıcı planı tasarlayan S&P grubuydu ve bilgisayarlara erişmenin yollarını aramak için kampüs binalarını
+çalmaya yönelten o tür huzursuz merakı barındıran da S&P grubuydu. Onlar,
+Ellerinde Bir Zorunluluğun hayat boyu müritleriydi. S&P'nin başkanı, kırmızı, şişkin yüz hatlarına,
+bulaşıcı bir kahkahaya ve anahtarlama donanımına sahip Bob Saunders adında bir üst sınıf öğrencisiydi.
+Chicago'da bir çocukken, bir lise projesi için yüksek frekanslı bir transformatör yapmıştı; bu, 1800'lerde bir mühendis tarafından tasarlanan ve şiddetli elektrik gücü dalgaları göndermesi beklenen Tesla bobininin altı fit yüksekliğindeki versiyonuydu. Saunders, bobin projesinin televizyon sinyallerini bloklarca patlatmayı başardığını söyledi. S&P'ye yönelen bir diğer kişi de Samson'ın sınıfında olan, tombul, çenesiz, kalın gözlüklü New Jerseyli Alan Kotok'tu. Kotok'un ailesi, onu üç yaşındayken bir tornavidayla duvardaki fişi çekip tıslayan bir kıvılcım yağmuruna neden olduğunu hatırlıyordu. Altı yaşındayken lambalar inşa ediyor ve kablolarını bağlıyordu. Lisedeyken bir keresinde yakınlardaki Haddonfield'daki Mobil Araştırma Laboratuvarı'nı gezmiş ve ilk bilgisayarını görmüştü; bu deneyimin verdiği heyecan MIT'ye girmeye karar vermesine yardımcı olmuştu. Birinci sınıftayken TMRC'nin en yetenekli S&P çalışanlarından biri olarak ün kazandı. S&P çalışanları, cumartesi günlerini Somerville'deki Eli Heffron'un hurdalığına gidip parça arayan, "ranza" adını verdikleri küçük tekerlekli sandalyelerde saatlerce sırt üstü uzanarak anahtarlama sistemindeki dar noktaların altına girmek için çalışan, gece boyunca TMRC telefonuyla Doğu Kampüsü arasındaki tamamen yetkisiz bağlantıyı kuran kişilerdi. Teknoloji onların oyun alanıydı. Çekirdek üyeler kulüpte saatlerce takılırdı; Sürekli
+Sistemi iyileştirmek, daha sonra ne yapılabileceği hakkında tartışmak,
+dışarıdan gelenler için anlaşılmaz görünen kendi jargonlarını geliştirmek,
+kareli kısa kollu gömlekleri, ceplerinde kalemleri,
+chino pantolonları ve her zaman yanlarında bir şişe Coca-Cola'ları olan bu genç fanatiklerle karşılaşabilecekler.
+(TMRC kendi Coca-Cola makinesini o zamanlar yasaklayıcı olan 165 dolara satın aldı; şişe başına beş sentlik bir tarifeyle, harcama üç ayda değiştirildi; satışları kolaylaştırmak için Saunders, Coca-Cola alıcıları için on yıl sonra hala kullanılan bir
+bozuk para makinesi yaptı.) Bir ekipman parçası çalışmadığında,
+"kaybediyordu"; bir ekipman parçası bozulduğunda, "parçalanıyordu"
+(Hiç İyi Olmayana Kadar Ez); odanın köşesindeki iki masaya
+ofis değil, "delik" deniyordu; Ders çalışmakta ısrar eden biri "araç"tı; çöp "çöp" olarak adlandırıldı;
+ve sadece yapıcı bir hedefi yerine getirmek için değil, aynı zamanda sadece dahil olmaktan alınan çılgınca bir zevkle üstlenilen bir proje veya üretilen bir ürün "hack" olarak adlandırıldı.
+
+Bu son terim eski MIT jargonuyla önerilmiş olabilir-- "hack" kelimesi uzun zamandır MIT öğrencilerinin düzenli olarak tasarladığı ayrıntılı üniversite şakalarını tanımlamak için kullanılıyordu, örneğin
+kampüsün üzerine bakan kubbeyi yansıtıcı folyoyla
+kapatmak gibi. Ancak TMRC çalışanları bu kelimeyi kullanırken, ciddi bir saygı ima ediliyordu. Birisi röleler arasındaki akıllıca bir bağlantıyı "sadece hack" olarak adlandırabilirken, bir hack olarak nitelendirilebilmesi için, bu başarının yenilik, stil ve teknik ustalıkla
+dolu olması gerektiği anlaşılacaktır. Kişi kendini küçümseyerek "Sistemi hacklediğini" söylese bile (tıpkı bir balta kullananın kütükleri hacklemesi gibi), hacklediği sanatın hatırı sayılır olduğu kabul ediliyordu.
+
+Sinyal ve Güç üzerinde çalışan en üretken kişiler kendilerine büyük bir gururla "hacker" diyorlardı. 20 Numaralı Bina'daki kulüp odasının ve "Alet Odası"nın (bazı çalışmalar ve birçok tekno boğa seansının gerçekleştiği yer) sınırları içinde, kendilerine tek taraflı olarak İzlanda efsanesinin kahramanca özelliklerini bahşetmişlerdi. Peter Samson, kulüp bülteninde Sandburgvari bir şiirde kendisini ve arkadaşlarını şöyle görüyordu:
+
+Dünya İçin Anahtar Atıcı,
+Fuze Testçisi, Rotaların Yapımcısı,
+Demiryolları ve Sistemin İleri Chopper'ıyla Oynayan;
+Kirli, tüylü, yayılan,
+Nokta Fonksiyonu Hattı-o-lite'ın Makinesi:
+Bana kötü olduğunu söylüyorlar ve ben de onlara inanıyorum; çünkü
+lucite altında boyalı ampullerinin sistem hamallarını cezbettiğini gördüm. . . . Kulenin altında, her yerde toz, çatallı yaylarla hackleme. ... Samson ve diğerleri, fırsat bulduklarında fiş panolarıyla EAM odasına kaçıp, makineyi düzenin altındaki anahtarları takip etmek için kullanmaya çalışıyorlardı. En az bunun kadar önemli olan, elektromekanik sayacın neler yapabileceğini görüyorlardı.
+
+1959 baharında, MIT'de yeni bir ders açıldı. Bu, birinci sınıf öğrencilerinin alabileceği ilk bilgisayar programlama dersiydi.
+Öğretmen, çılgın bir tutam saç ve eşit derecede asi bir sakalı olan mesafeli bir adamdı: John McCarthy. Usta bir matematikçi olan McCarthy, klasik olarak dalgın bir profesördü; bir soruyu ilk sorulduktan saatler,
+bazen günler sonra aniden cevaplama alışkanlığı hakkında bolca hikaye vardı. Koridorda size
+yaklaşırdı ve selam vermeden
+robot gibi kesin diksiyonuyla konuşmaya başlardı, sanki konuşmadaki duraklama bir saniyenin kesri kadarmış ve bir hafta değilmiş gibi. Büyük olasılıkla, gecikmiş cevabı muhteşem olurdu.
+
+McCarthy, bilgisayarlarla tamamen yeni bir bilimsel araştırma
+biçimi üzerinde çalışan çok az kişiden biriydi. Çalışma alanının değişken ve
+tartışmalı doğası, McCarthy'nin ona verdiği ismin kibrinden bile belliydi:
+Yapay Zeka. Bu adam aslında
+bilgisayarların AKILLI olabileceğini düşünüyordu. MIT gibi bilimin yoğun olduğu bir yerde bile, çoğu insan bu düşünceyi saçma buluyordu: Bilgisayarları, devasa hesaplamalar yapmak ve füze savunma sistemleri tasarlamak için (MIT'nin en büyük bilgisayarı olan Whirlwind'in erken uyarı SAGE sistemi için yaptığı gibi) yararlı, hatta biraz saçma bir şekilde pahalı araçlar olarak görüyorlardı; ancak bilgisayarların kendilerinin aslında bilimsel bir çalışma alanı olabileceği fikriyle alay ediyorlardı, Bilgisayar Bilimi ellili yılların sonlarında MIT'de resmen mevcut değildi ve McCarthy ve bilgisayar uzmanları, Kotok, Samson ve birkaç başka TRMC üyesinin o baharda aldığı 641 numaralı dersi veren Elektrik Mühendisliği Bölümü'nde çalışıyorlardı. McCarthy, IBM 704'te devasa bir program başlatmıştı; bu program ona satranç oynama gibi olağanüstü bir yetenek kazandıracaktı. Yapay Zeka'nın yeni filizlenen alanının eleştirmenleri için bu, John McCarthy gibi insanların aptalca iyimserliğinin sadece bir örneğiydi. Ancak McCarthy'nin bilgisayarların neler yapabileceğine dair belirli bir vizyonu vardı ve satranç oynamak sadece bir başlangıçtı. Hepsi büyüleyici şeylerdi, ancak Kotok'u, Samson'ı ve diğerlerini harekete geçiren vizyon bu değildi. Lanet makineleri NASIL ÇALIŞTIRACAKLARINI öğrenmek istiyorlardı ve McCarthy'nin 641'de bahsettiği LISP adlı bu yeni programlama dili ilginç olsa da, programlama eylemi veya çıktınızı Rahiplikten geri aldığınız o harika an kadar ilginç değildi - kaynaktan gelen bir söz! - ve sonra programın sonuçlarını, neyin yanlış gittiğini, nasıl iyileştirilebileceğini saatlerce inceleyebiliyordunuz. TMRC hacker'ları IBM 704 ile daha yakın temas kurmanın yollarını tasarlıyordu ve bu da kısa süre sonra 709 adı verilen daha yeni bir modele yükseltildi. Sabahın erken saatlerinde hesaplama merkezinde vakit geçirerek, Rahipliği tanıyarak ve gereken sayıda eğilip tırmalayarak, Kotok gibi insanlar sonunda makinede birkaç düğmeye basmalarına ve çalışırken ışıkların yanmasını izlemelerine izin verildi. 
+
+MIT'deki 704'e erişimi olan ve Rahiplik arasında arkadaşları olan yaşlı kişiler tarafından özenle öğrenilen IBM makinelerinin sırları vardı. Şaşırtıcı bir şekilde, McCarthy ile çalışan lisansüstü öğrencilerden birkaçı, küçük ışıklardan birini kullanan bir program bile yazmıştı: ışıklar, küçük bir topun sağdan sola doğru geçtiği gibi görünecek şekilde yakılırdı: bir operatör tam doğru zamanda bir düğmeye basarsa, ışıkların hareketi tersine çevrilebilirdi - Bilgisayar Ping-Pong'u! Bu, açıkça, akranlarınızı etkilemek için göstereceğiniz türden bir şeydi, daha sonra onlar da yazdığınız gerçek programa bakıp nasıl yapıldığını görürlerdi. Programın üstüne, başka biri aynı şeyi daha az talimatla yapmayı deneyebilirdi - değerli bir çaba, çünkü o günlerin bilgisayarlarının küçük "hafızasında" çok az yer vardı
+ve bunlara çok fazla talimat sığmıyordu, John McCarthy
+bir keresinde 704'ün etrafında dolaşan lisansüstü öğrencilerinin
+en az talimattan en iyi şekilde yararlanmak için bilgisayar programları üzerinde nasıl çalıştıklarını ve
+programı sıkıştırdıklarını fark etmişti, böylece makineye daha az kart beslenmesi gerekiyordu.
+Bir veya iki talimatı tıraşlamak onlar için neredeyse bir saplantıydı.
+McCarthy bu öğrencileri kayak serserilerine benzetiyordu. "Kodu en üst düzeye çıkarmaktan" fanatik kayakçıların
+bir tepeden çılgınca aşağı kaymaktan aldıkları türden ilkel bir heyecan alıyorlardı. Yani bir bilgisayar programını alıp
+sonucu etkilemeden talimatları kesmeye çalışma uygulamasına "program bumming" denmeye başlandı ve insanların
+"Belki birkaç talimatı kesip sekizli düzeltme kartı yükleyicisini dört yerine üç karta indirebilirim" gibi şeyler mırıldandığını sık sık duyardınız.
+
+McCarthy 1959'da ilgisini satrançtan, bilgisayarla konuşmanın
+yeni bir yoluna, LISP adı verilen yepyeni bir "dile" yöneltiyordu.
+
+Alan Kotok ve arkadaşları satranç projesini devralmak için fazlasıyla istekliydiler. Toplu olarak işlenen IBM üzerinde çalışarak, 704'e ve daha sonra 709'a ve hatta ondan sonra da yerini alan 7090'a kral oyununun nasıl oynanacağını öğretmek gibi devasa bir projeye giriştiler. Sonunda Kotok'un grubu, tüm MIT hesaplama merkezindeki
+en büyük bilgisayar zamanı kullanıcıları oldu.
+
+Yine de IBM makinesiyle çalışmak sinir bozucuydu. Kartlarınızı teslim ettiğiniz andan sonuçlarınızın size geri verildiği ana kadar geçen uzun süreden daha kötü bir şey yoktu. Eğer bir talimatta tek bir harfi bile yanlış yerleştirmiş olsaydınız, program çökerdi ve tüm süreci tekrar başlatmak zorunda kalırdınız. Bu, hesaplama merkezinin atmosferine
+işleyen lanet olası KURALLARIN boğucu yayılmasıyla el ele gitti. Kuralların çoğu, Samson, Kotok ve Saunders gibi çılgın genç bilgisayar hayranlarını
+makinenin kendisinden fiziksel olarak uzak tutmak için tasarlanmıştı. En katı kural ise, hiç kimsenin makineye gerçekten dokunamama veya kurcalayamama kuralıydı. Elbette, Sinyal ve Güç insanlarının dünyadaki her şeyden daha çok yapmak istediği şey buydu ve kısıtlamalar onları çileden çıkardı.
+
+Gece vardiyasındaki bir rahip -aslında düşük seviyeli bir yardımcı rahip- bu kuralı uygulamada özellikle kötüydü, bu yüzden Samson uygun bir intikam
+tasarladı. Bir gün Eli'nin elektronik hurda dükkanında dolaşırken, IBM'in içinde bulunan hantal vakum tüplerini tutan panoya benzeyen bir elektrik panosuna rastladı. Bir gece, sabah 4'ten önce, bu özel yardımcı rahip bir dakikalığına dışarı çıktı; geri döndüğünde, Samson ona makinenin çalışmadığını ama sorunu bulduklarını söyledi ve Eli'den aldığı eski 704'ün tamamen parçalanmış modülünü kaldırdı.
+
+Yardımcı rahip kelimeleri zorlukla çıkarabiliyordu. "N-nereden aldın bunu?"
+
+Kolayca çılgınca görünebilen kocaman yeşil gözlere sahip olan Samson,
+elbette hiçbir panonun olmadığı, ancak alanın hala üzücü bir şekilde
+boş göründüğü makine rafındaki açık bir yeri yavaşça işaret etti. Yardımcı rahip nefesini tuttu. Bağırsaklarının dışarı çıkmak üzere olduğunu gösteren suratlar yaptı. Tanrıya 
+yakarışlarda bulundu. Şüphesiz maaşından bir milyon dolarlık kesinti vizyonları gözlerinin önünde belirmeye başladı. Ancak Model Demiryolu Kulübü'ndeki bu genç akıllı adamların zihniyetini biraz anlayan başrahip olan amiri gelip durumu açıkladıktan sonra sakinleşti.
+
+Erişim arayışında engellenen bir hacker'ın gazabını hisseden son yönetici değildi.
+
+* * *
+
+Bir gün, şu anda MIT öğretim görevlisi olan eski bir TMRC üyesi kulüp odasını ziyaret etti. Adı Jack Dennis'ti. 1950'lerin başında lisans öğrencisiyken, düzenin altında çılgınca çalışmıştı. Dennis son zamanlarda, MIT'nin Enstitü'ye bağlı bir askeri geliştirme laboratuvarı olan Lincoln Lab'dan yeni aldığı bir bilgisayarda çalışıyordu. Bilgisayar TX-0 olarak adlandırıldı ve dünyadaki ilk transistörlü bilgisayarlardan biriydi. Lincoln Lab, onu özellikle TX-2 adlı dev bir bilgisayarı test etmek için kullanmıştı. Bu bilgisayarın hafızası o kadar karmaşıktı ki, yalnızca bu özel olarak yapılmış küçük kardeşle sorunları teşhis edilebilirdi. Artık orijinal işi bittiğine göre, üç milyon dolarlık TX-0 Enstitüye "uzun vadeli ödünç" olarak gönderilmişti ve görünüşe göre Lincoln Lab'daki hiç kimse bir takvime iade tarihini işaretlememişti. Dennis, TMRC'deki S&P çalışanlarına onu görmek isteyip istemediklerini sordu.
+
+Hey rahibeler! Papa ile tanışmak ister misiniz?
+
+TX-0, 26 Numaralı Bina'da, ikinci kattaki Elektronik Radyo Laboratuvarı'nda (RLE), devasa IBM 704'ü barındıran birinci kattaki Hesaplama Merkezi'nin hemen üzerindeydi. RLE laboratuvarı, antika bir uzay gemisinin kontrol odasına benziyordu. TX-0 veya bazen Tixo olarak da bilinirdi, o zamanlar bir cüce makineydi, çünkü el büyüklüğündeki vakum tüpleri yerine parmak büyüklüğündeki transistörleri kullanan ilk bilgisayarlardan biriydi. Yine de, on beş tonluk destekleyici klima
+ekipmanıyla birlikte odanın çoğunu kaplıyordu. TX-O'nun işleyişi, karışık teller ve transistörlerin yerleştirildiği küçük, şişe benzeri kapların düzgün sıraları olan, sağlam metal kitap rafları gibi birkaç uzun, ince şasiye monte edilmişti. Başka bir rafın, kasvetli görünümlü göstergelerle benekli, sağlam bir metal ön yüzü vardı. Rafların karşısında, dirsekleriniz ve kağıtlarınız için mavi bir tezgahı olan, bu H. G. Wells
+uzay gemisinin kontrol paneli olan L şeklinde bir konsol vardı. L'nin kısa kolunda, alt kısmı askeri gri bir muhafazaya sabitlenmiş, tank savaşları için dönüştürülmüş bir daktiloya benzeyen bir Flexowriter duruyordu. En üstte, kurumsal sarıya boyanmış kutu benzeri çıkıntılar olan kontrol panelleri vardı. Kullanıcıya bakan kutuların yanlarında birkaç gösterge, birkaç sıra çeyrek inçlik yanıp sönen ışık, büyük pirinç taneleri büyüklüğünde çelik anahtarlardan oluşan bir matris ve en iyisi, yuvarlak ve duman grisi gerçek bir katot ışın tüpü ekranı vardı. TMRC çalışanları hayrete düşmüştü. BU MAKİNE KART KULLANMIYORDU.
+Kullanıcı önce uzun, ince bir kağıt şeride bir Flexowriter ile bir program girerdi (yan odada birkaç tane fazladan Flexowriter vardı), sonra konsola oturur, bandı bir okuyucudan geçirerek programı girer ve program çalışırken orada oturabilirdi. Programda bir sorun olursa, hemen anlardınız ve bazı anahtarları kullanarak veya hangi ışıkların yanıp söndüğünü veya yandığını kontrol ederek sorunu teşhis edebilirdiniz. Bilgisayarın bir ses çıkışı bile vardı: Program çalışırken, konsolun altındaki bir hoparlör, notaları bulanık, uhrevi bir uğultuyla titreşen, kötü ayarlanmış bir elektrikli org gibi bir tür müzik yapardı. Bu "org"daki akorlar, makinenin herhangi bir mikrosaniyede hangi verileri okuduğuna bağlı olarak değişirdi; tonlara aşina olduktan sonra, bilgisayarın programınızın hangi bölümünde çalıştığını GERÇEKTEN DUYABİLİRDİNİZ. Ancak, Flexowriter'ın tıkırtıları arasında bunu fark etmeniz gerekirdi, bu da sizi bir makineli tüfek savaşının ortasında olduğunuzu düşündürebilirdi. Daha da
+şaşırtıcı olanı, bu "etkileşimli" yetenekler sayesinde ve ayrıca kullanıcıların TX-0'ı kendi başlarına kullanmaları için belirli zaman dilimlerine izin verildiği için, BİLGİSAYAR BAŞINDA OTURURKEN bile bir programı değiştirebiliyordunuz. Bir mucize!
+
+Kotok, Saunders, Samson ve diğerlerinin o makineden uzak tutulmasının hiçbir yolu yoktu.
+Neyse ki, IBM 704'ün etrafında olduğu gibi TX-0'ın etrafında bir bürokrasi yok gibiydi. Resmi
+rahiplerden oluşan bir kadro yoktu. Sorumlu teknisyen John McKenzie adında kurnaz beyaz saçlı bir İskoç'tu. Lisansüstü öğrencilerin ve fonlu projelerde çalışanların (Resmi Olarak Yaptırım Uygulanan Kullanıcılar) makineye erişimini sürdürdüğünden emin olurken, McKenzie, TX-0'ın bulunduğu RLE laboratuvarında takılmaya başlayan TMRC çılgınlarından oluşan ekibe tahammül etti. Samson, Kotok, Saunders ve Bob Wagner adında bir birinci sınıf öğrencisi, 26 Numaralı Bina'da takılmak için en iyi zamanın, aklı başında hiçbir insanın her cuma RLE laboratuvarındaki klimanın yanına asılan kağıt parçası üzerinde bir saatlik bir oturum için kaydolmayacağı geceler olduğunu kısa sürede anladı. TX-0 kural olarak günde yirmi dört saat çalışır durumda tutulurdu; o zamanki bilgisayarlar, gece boyunca boşta bırakılarak zamanlarının boşa harcanması için çok pahalıydı ve ayrıca, kapatıldıktan sonra tekrar çalışır hale getirmek zor bir işlemdi. Böylece, kısa süre sonra kendilerine TX-0 hacker'ları diyen TMRC hacker'ları, bilgisayara uyum sağlamak için yaşam tarzlarını değiştirdiler. Mümkün olan zaman dilimlerini talep ettiler ve 3 AM seansı için planlanmış birinin gelmeme ihtimaline karşı laboratuvara gece ziyaretleri yaparak "zamanı değerlendirdiler".
+
+"Oh!" dedi Samson, günlükte belirtilen zamanda gelmeyen birinin ardından bir dakika kadar sonra. "Boşa gitmediğinden emin ol!"
+
+Hiçbir zaman gitmemiş gibi görünüyordu çünkü hacker'lar neredeyse her zaman oradaydı. Eğer RLE laboratuvarında bir açılışın olmasını beklemiyorlarsa, TMRC kulüp odasının yanındaki sınıfta, Tool Room'da, Samson'ın "Come Next Door" adını verdiği "adam asmaca" tarzı bir kelime oyunu oynuyorlardı ve TX-0'ın yakınında olan birinden bir çağrı bekliyorlardı, bir oturum için gelip gelmediğini görmek için onu izliyorlardı. Bilgisayar korsanları, bilgisayarda olası açılışlar hakkında önceden haber vermek için bir muhbir ağı kurdular - bir araştırma projesi programı zamanında hazır değilse veya bir profesör hastaysa, haber TMRC'ye iletilirdi ve bilgisayar korsanları TX-0'da nefes nefese ve konsolun arkasındaki boşluğa sıkışmaya hazır bir şekilde belirirdi.
+
+Jack Dennis teorik olarak operasyondan sorumlu olsa da, Dennis o sırada dersler veriyordu ve zamanının geri kalanını makine için kod yazarak geçirmeyi tercih ediyordu. Dennis, hackerlara karşı hayırsever bir vaftiz babası rolünü oynadı:
+Onlara makineye dair kısa bir uygulamalı tanıtım yaptı,
+onları belirli yönlere yönlendirdi,
+çılgın programlama girişimlerine eğlendi. Ancak, yönetim konusunda pek bir zevki yoktu ve John McKenzie'nin işleri yönetmesine izin vermekten de aynı derecede mutluydu.
+McKenzie, TX-0'ın etkileşimli yapısının yeni bir bilgisayar programlama biçimine ilham verdiğini ve
+hackerların bunun öncüleri olduğunu erken fark etti. Bu yüzden çok fazla
+ferman koymadı.
+
+1959'da atmosfer, Peter Samson gibi MIT'deki laboratuvarların keşfedilmemiş labirentlerini
+keşfeden, merakları açlık gibi yanan bilim delisi
+serseriler olan başıboşları barındıracak kadar gevşekti.
+Klimanın, ses çıkışının ve matkap-çekiç Flexowriter'ın gürültüsü, bu gezginleri cezbederdi ve onlar da
+yavru kediler gibi başlarını laboratuvara uzatıp
+iplik sepetlerine bakarlardı.
+
+Bu gezginlerden biri de Peter Deutsch adında bir yabancıydı. TX-0'ı keşfetmeden önce bile, Deutsch bilgisayarlara karşı bir hayranlık
+geliştirmişti. Bir gün, birinin
+elinden çıkardığı, hesaplamalar yapmak için kullanılan belirsiz bir bilgisayar dili için bir kılavuz aldığında başladı. Bilgisayar talimatlarının düzenliliğiyle ilgili bir şey ona
+çekici geldi: daha sonra bu hissi, bir sanatçının kendisi için kesinlikle doğru olan ortamı keşfettiğinde yaşadığı aynı türden ürkütücü derecede aşkın tanıma olarak tanımlayacaktı. BENİM AİT OLDUĞUM YER BU.
+Deutsch küçük bir program yazmaya çalıştı ve rahiplerden birinin adı altında zaman ayırarak bunu bir bilgisayarda çalıştırdı.
+Haftalar içinde, programlamada çarpıcı bir
+yeterlilik kazandı. Daha on iki yaşındaydı.
+
+Utangaç bir çocuktu, matematikte güçlüydü ve diğer her şeyden emin değildi. Rahatsız edici derecede fazla kiloluydu, sporda yetersizdi ama
+entelektüel bir yıldız oyuncuydu. Babası MIT'de profesördü ve Peter bunu laboratuvarları keşfetmek için bir giriş olarak kullandı.
+
+TX-0'a çekilmesi kaçınılmazdı. Önce küçük "Kluge Odası"na girdi (bir "kluge", düzgün çalışarak mantığa meydan okuyan, zarif olmayan bir şekilde inşa edilmiş bir ekipmandır), burada üç çevrimdışı Flexowriter, daha sonra TX-0'a beslenecek olan kağıt bantlara programlar delmek için
+kullanılabilirdi. Birisi bir bant delmekle meşguldü.
+Peter bir süre izledi, sonra zavallı ruhu yan odadaki garip görünümlü küçük bilgisayar hakkında sorularla bombardımana tutmaya başladı.
+Sonra Peter TX-0'ın kendisine gitti, onu yakından inceledi ve diğer bilgisayarlardan nasıl farklı olduğunu fark etti: daha küçüktü, bir CRT ekranı ve diğer şık oyuncakları vardı. Hemen orada bulunmaya hakkı varmış gibi davranmaya karar verdi. O, bir kılavuz ele geçirdi ve kısa süre sonra gerçek mantıklı bilgisayar konuşmaları yaparak insanları şaşırtmaya başladı ve sonunda gece ve hafta sonu oturumlarına kaydolmasına ve kendi programlarını yazmasına izin verildi. McKenzie, birinin onu bir tür yaz kampı işletmekle suçlayabileceğinden endişe ediyordu. Kısa pantolonlu bu küçük çocuk, TX-O'nun konsolunun üzerinden başını uzatabilecek kadar uzundu ve Resmen Yaptırım Uygulanmış Bir Kullanıcının, belki de kendini beğenmiş bir lisansüstü öğrencinin Flexowriter'a
+çarptığı koda bakıyordu ve gıcırtılı, ergenlik öncesi sesiyle "Senin sorunun şu ki buradaki kredi yanlış... şuradaki diğer talimata ihtiyacın var," gibi bir şeyler söylüyordu ve kendini beğenmiş lisansüstü öğrenci delirecekti -BU KÜÇÜK KURT KİMDİR?- ve dışarı çıkıp bir yerde oynaması için ona bağırmaya başlayacaktı. Ancak Peter Deutsch'un yorumları her zaman doğru çıkıyordu. Deutsch ayrıca şu anda mevcut olanlardan daha iyi programlar yazacağını ve gidip bunu yapacağını da açıkça duyuruyordu.
+
+Samson, Kotok ve diğer hacker'lar Peter Deutsch'u kabul ettiler: Bilgisayar bilgisi sayesinde eşit muameleyi hak ediyordu. Deutsch, Resmi Olarak Yaptırım Uygulanmış Kullanıcılar arasında pek de gözde değildi, özellikle de Flexowriter'da bir hata yaptıklarında harekete geçmeye hazır bir şekilde arkalarında oturduğunda.
+Bu Resmi Olarak Yaptırım Uygulanmış Kullanıcılar, TX-0'da düzenli olarak yolcularla birlikte belirdi. Çalıştırdıkları programlar istatistiksel analizler, çapraz korelasyonlar, bir hücrenin çekirdeğinin iç kısmının simülasyonlarıydı.
+Uygulamalar. Kullanıcılar için bu iyiydi ama hacker'ların zihninde bir tür israftı. Hackerların aklından geçen şey, TX-0'ın konsolunun arkasına geçmekti, tıpkı bir uçağın gaz kolunun arkasına geçmek gibi. Ya da, klasik müzik hayranı Peter Samson'ın dediği gibi, TX-0 ile bilgisayar kullanmak bir müzik aleti çalmak gibiydi: doğaçlama yapabileceğiniz, beste yapabileceğiniz ve Harvard Meydanı'ndaki bir mil ötedeki beatnikler gibi, tamamen yaratıcı bir şekilde bir cadı gibi haykırabileceğiniz, saçma derecede pahalı bir müzik aleti. Bunu yapmalarını sağlayan bir şey de Jack Dennis ve bir diğer profesör Tom Stockman tarafından tasarlanan programlama sistemiydi. TX-0 MIT'ye geldiğinde, Lincoln Lab'daki günlerinden beri
+soyulmuştu: bellek önemli ölçüde azaltılmıştı, her biri on sekiz bitten oluşan
+4.096 "kelime"ye. (Bir "bit", bir veya sıfır olan
+ikili bir rakamdır. Bu ikili sayılar, bilgisayarların anladığı
+tek şeydir. Bir dizi ikili sayıya "kelime" denir.) Ve TX-0'ın neredeyse hiç yazılımı yoktu. Bu yüzden Jack Dennis, TMRC ekibine TX-0'ı tanıtmadan önce bile, kullanıcıların makineyi
+kullanmalarına yardımcı olan yazılımlar olan "sistem programları" yazıyordu.
+
+Dennis'in üzerinde çalıştığı ilk şey bir montajcıydı. Bu, makineye talimatları temsil eden üç harfli sembolik kısaltmalar kullanan montaj dilini, ikili sayılar 0 ve 1'den oluşan makine diline çeviren bir şeydi. TX-0'ın oldukça sınırlı bir montaj dili vardı: tasarımı, her on sekiz bitlik kelimenin yalnızca iki bitinin bilgisayara talimatlar için kullanılmasına izin verdiğinden, yalnızca dört talimat kullanılabilirdi (her olası iki bitlik varyasyon - 00, 0 1, 10 ve 11 - bir talimatı temsil ediyordu). Bilgisayarın yaptığı her şey, bu dört talimattan birinin yürütülmesine ayrılabilirdi: iki sayıyı toplamak için bir talimat, ancak iki sayıyı çarpmak için belki de yirmi talimatlık bir dizi gerekiyordu. İkili sayılar olarak yazılmış uzun bir bilgisayar komutu listesine bakmak - örneğin, 10011001100001 - sizi birkaç dakika içinde geveze bir zihinsel duruma sokabilirdi. Ancak aynı komut montaj dilinde şöyle görünebilir: ADD Y. Bilgisayarı Dennis'in yazdığı montajcıyla yükledikten sonra, bu daha basit sembolik formda programlar yazabilir ve bilgisayar sizin için ikiliye çeviriyi yaparken kendini beğenmiş bir şekilde bekleyebilirdiniz. Sonra bu ikili "nesne" kodunu bilgisayara geri verirdiniz. Bunun değeri hesaplanamazdı: programcıların sonsuz, baş döndürücü birler ve sıfırlar dizisi yerine, kod gibi GÖRÜNEN bir şey yazmalarını sağladı.
+
+Dennis'in Stockman ile birlikte çalıştığı diğer program daha da yeni bir şeydi: bir hata ayıklayıcı. TX-0, UT-3 adlı bir hata ayıklama programıyla geldi. Bu program, komutları doğrudan Flexowriter'a yazarak çalışırken bilgisayarla konuşmanızı sağlıyordu. Ancak korkunç sorunları vardı. Birincisi, yalnızca sekizlik sayı sistemini kullanan yazılmış kodları kabul ediyordu. "Octal", sekiz tabanlı bir sayı sistemidir (ikili sayı sisteminin aksine, ki bu ikili sayı sistemidir, ki bu da bizimkidir, on tabanlıdır) ve kullanımı zor bir sistemdir. Bu yüzden Dennis ve Stockman, kullanıcıların sembolik, kullanımı daha kolay montaj dilini kullanmasını sağlayacak UT-3'ten daha iyi bir şey yazmaya karar verdiler. Bu, FLIT olarak adlandırıldı ve kullanıcıların bir oturum sırasında program hatalarını bulmasını, düzeltmesini ve programı çalışır durumda tutmasını sağladı. (Dennis, "FLIT"in FLexowriter Interrogation Tape anlamına geldiğini açıkladı, ancak ismin gerçek kökeninin bu marka adıyla böcek ilacı olduğu açıktı.) FLIT, programcıların makinede orijinal besteler yapmasını sağladığı için kuantum sıçramasıydı, tıpkı müzisyenlerin müzik aletlerinde beste yapması gibi. TX-O'nun hafızasındaki 4.096 kelimenin üçte birini kaplayan hata ayıklayıcının kullanımıyla, hacker'lar daha cesur bir programlama stili yaratmakta özgürdüler.
+
+Peki bu hacker programları NE YAPARDI? Aslında, bazen ne yaptıklarının pek bir önemi yoktu. Peter Samson, Arap rakamlarını anında Roma rakamlarına
+dönüştüren bir program üzerinde gece boyunca hack yaptı ve Jack Dennis, Samson'ın bu başarıyı elde etme becerisine hayran kaldıktan sonra, "Aman Tanrım, neden biri böyle bir şey yapmak istesin ki?" dedi. Ama Dennis nedenini biliyordu. Samson'ın kağıt bandı içeri soktuğunda, ışıkları ve anahtarları izlediğinde ve bir zamanlar düz eski tahta Arap rakamlarının Romalıların hacklediği rakamlar olarak geri döndüğünü gördüğünde hissettiği güç ve başarı hissinde bolca haklılık payı vardı. Aslında, TX-O'nun ses hoparlörüne gürültü gönderme yeteneğinin önemli kullanımları olduğunu Samson'a öneren Jack Dennis'ti. Perde, genlik veya ton karakteri için yerleşik kontroller olmasa da, hoparlörü kontrol etmenin bir yolu vardı - sesler, TX-0'ın akümülatöründe belirli bir mikrosaniyede bulunan on sekiz bitlik sözcüklerdeki on dördüncü bitin durumuna bağlı olarak yayılırdı. Ses, on dördüncü bitin bir veya sıfır olmasına bağlı olarak açık veya kapalıydı. Bu yüzden Samson, farklı perdeler üretmek için o yuvadaki ikili sayıları farklı şekillerde değiştiren programlar yazmaya koyuldu. O zamanlar, ülkede yalnızca birkaç kişi
+herhangi bir tür müziği çıkarmak için bilgisayar kullanma konusunda deneyler yapıyordu
+ve kullandıkları yöntemler, makine bir nota bile çıkaramadan önce büyük hesaplamalar gerektiriyordu, Samson, imkansızı denediği konusunda uyaranlara sabırsızlıkla tepki göstererek, hemen müzik çalan bir bilgisayar istiyordu. Bu yüzden, akümülatördeki o tek biti o kadar ustalıkla kontrol etmeyi öğrendi ki, saksafonda Charlie Parker'ın yetkisiyle ona hükmedebiliyordu. Bu müzik derleyicisinin daha sonraki bir sürümünde, Samson, programlamanızda bir hata yaparsanız, Flexowriter'ın kırmızı bir şeride geçip "Hata yapmak, affetmek ilahidir." yazmasını sağlayacak şekilde ayarladı.
+
+Dışarıdan gelenler, Johann Sebastian Bach'ın melodilerini tek sesli, monofonik kare dalgada, armoni olmadan duyduklarında, genel olarak etkilenmediler. Büyük olay! Bu devasa makine parçası için üç milyon dolar ve neden en azından beş dolarlık bir oyuncak piyano kadar iş yapmasın? Bu
+dışarıdakilere Peter Samson'ın müziğin asırlar boyunca yapıldığı süreci neredeyse atladığını açıklamanın bir faydası yoktu. Müzik her zaman doğrudan ses olan titreşimler yaratılarak yapılmıştı. Samson'ın programında olan şey, bir bilgisayara girilen bir sürü sayı, bilgi parçasının, müziğin bulunduğu bir kodu oluşturmasıydı. Kodlara saatlerce bakabilir ve müziğin nerede olduğunu tahmin edemezdiniz. Sadece milyonlarca göz kamaştırıcı derecede kısa veri alışverişi, TX-0'ı oluşturan metal, tel ve silikon raflardan birinde oturan akümülatörde gerçekleşirken müzik oldu. Samson, sesin nasıl kullanılacağına dair hiçbir bilgisi olmayan bilgisayardan, şarkı söyleyerek kendini yükseltmesini istemişti ve TX-0 buna uymuştu.
+
+Yani bir bilgisayar programı sadece mecazi olarak bir müzik bestesi değildi - GERÇEKTEN bir müzik bestesiydi! Karmaşık aritmetik hesaplamalar ve istatistiksel analizler üreten aynı tür programa benziyordu ve aynıydı. Samson'un bilgisayara sıkıştırdığı bu rakamlar, HER ŞEYİ üretebilen evrensel bir dildi - bir Bach fügü veya bir uçaksavar sistemi. Samson, bu başarısından etkilenmeyen dışarıdakilere bunların hiçbirini söylemedi. Hacker'lar da bunu tartışmadı - fenomeni böylesine kozmik terimlerle analiz ettikleri bile belli değil. Peter Samson bunu yaptı ve meslektaşları bunu takdir etti çünkü açıkça düzgün bir hack'ti. Bu yeterli bir gerekçeydi. * * *
+
+Bob Saunders gibi hackerlar için - kel, tombul ve TX-0'ın neşeli müridi, TMRC'nin S&P grubunun başkanı, sistemler öğrencisi - bu mükemmel bir varoluştu. Saunders, Chicago'nun banliyölerinde büyümüştü ve hatırlayabildiği kadarıyla elektrik ve telefon devrelerinin işleyişi onu büyülemişti. MIT'ye başlamadan önce, Saunders hayalindeki yaz işini bulmuştu, telefon şirketinde merkez ofis ekipmanı kurulumu yapıyordu. Lehimleme demiri ve pense ile elinde sekiz mutlu saat, çeşitli sistemlerin bağırsaklarında çalışarak, öğle tatillerinde telefon şirketinin kılavuzlarını derinlemesine inceleyerek geçirdiği bir pastoral tatil geçirirdi. Saunders'ı Model Demiryolu Kulübü'nde aktif olmaya ikna eden şey, TMRC düzeninin altındaki telefon şirketi ekipmanıydı. Üst sınıf öğrencisi olan Saunders, TX-0'a üniversite kariyerinde Kotok ve Samson'dan daha sonra gelmişti: nefes alma alanını aslında sosyal bir hayatın temellerini atmak için kullanmıştı, buna Marge French'le flört etmek ve sonunda onunla evlenmek de dahildi, Marge French bir araştırma projesi için bilgisayar korsanlığı olmayan bazı işler yapmıştı. Yine de TX-0 üniversite kariyerinin merkeziydi ve kaçırdığı derslerden dolayı notlarının etkilendiğini görmek gibi ortak bir hacker deneyimini paylaşıyordu. Bu onu çok rahatsız etmiyordu, çünkü gerçek eğitiminin Tixo konsolunun arkasındaki 26 Numaralı Bina'nın 240 Numaralı Odasında gerçekleştiğini biliyordu. Yıllar sonra kendini ve diğerlerini "seçkin bir grup" olarak tanımlayacaktı. Diğer insanlar ders çalışıyor, günlerini dört katlı binalarda iğrenç buharlar üreterek veya fizik laboratuvarında şeylere parçacıklar fırlatarak veya ne yapıyorlarsa onu yaparak geçiriyorlardı. Ve biz diğer insanların ne yaptıklarına dikkat etmiyorduk çünkü buna hiç ilgi duymuyorduk. Onlar çalıştıkları şeyleri çalışıyorlardı ve biz de çalıştığımız şeyleri çalışıyorduk. Ve bunların çoğunun resmi olarak onaylanmış müfredatta olmaması büyük ölçüde önemsizdi."
+
+Bilgisayar korsanları geceleri ortaya çıkıyordu. TX-0'ın kritik "mesai dışı" saatlerinden tam olarak yararlanmanın tek yolu buydu. Saunders gündüzleri genellikle bir veya iki derse katılmayı başarıyordu. Sonra "temel bakım" yapmakla vakit geçiriyorlardı -- yemek yemek ve tuvalete gitmek gibi şeyler. Bir süreliğine Marge'ı görebilirdi. Ama sonunda
+26 Numaralı Bina'ya geçerdi.
+Bir önceki gecenin, Flexowriter'ın kullandığı dokuz buçuk inç genişliğindeki kağıda basılmış programlarından bazılarını gözden geçirirdi.
+Kodu, operasyonun bir sonraki aşaması olarak gördüğü şeye göre güncellemek için listeyi ekler ve değiştirirdi.
+Belki daha sonra Model Demiryolu Kulübü'ne geçer ve programını biriyle takas eder, aynı anda hem iyi fikirler hem de olası hatalar olup olmadığını kontrol ederdi.
+Sonra
+26 Numaralı Bina'ya, TX-0'ın yanındaki Kluge Odası'na geri döner ve kodunu
+güncelleyeceği çevrimdışı bir Flexowriter bulurdu. Bu arada
+birisinin makinede bir saatlik bir seansı iptal edip etmediğini kontrol ederdi; kendi seansı sabahın iki veya üçü gibi bir saatte planlanmıştı.
+Kluge Odası'nda beklerdi veya Demiryolu Kulübü'nde biraz briç oynardı, ta ki
+zamanı gelene kadar.
+
+Konsolda oturan, bilgisayarın transistörlerini tutan metal raflara bakan, her transistör biraz hafıza tutan veya tutmayan bir yeri temsil eden Saunders, onu "WALROS" kelimesiyle karşılayan Flexowriter'ı kurardı. Bu, Samson'ın Lewis Carroll'ın "Zamanı geldi, Walrus dedi ki . . ." dizesiyle şiirinin onuruna hacklediği bir şeydi. Saunders, montaj programını tutan kağıt bandı almak için çekmeceye girerken ve bunu bant okuyucusuna beslerken buna kıkırdayabilirdi. Artık bilgisayar programını birleştirmeye hazır olacaktı, bu yüzden üzerinde çalıştığı Flexowriter bandını alır ve onu bilgisayara gönderirdi. Bilgisayarın kodunu "kaynak"tan (sembolik montaj dili) "nesne" koduna (ikili) geçirmesini izlerken ışıkların yanmasını izlerdi ve bilgisayar bunu başka bir kağıt banda
+çakardı. O bant TX-0'ın anladığı nesne kodunda olduğundan, programın muhteşem bir şekilde çalışmasını umarak
+onu beslerdi.
+
+Muhtemelen arkasında gevezelik eden, gülen, şakalaşan, kola içen ve aşağıdaki makineden çıkardıkları
+biraz abur cubur yiyen birkaç hacker daha olurdu.
+Saunders, diğerlerinin "limonlu jöle" dediği limonlu jöle dilimlerini tercih ederdi.
+Ama sabahın dördünde her şey
+güzeldi. Program çalışmaya başladığında, ışıkların yandığını, hoparlörden gelen uğultunun akümülatördeki Bit 14'te ne olduğuna bağlı olarak yüksek veya düşük kayıtta uğultu yaptığını
+ve program bir araya getirilip çalıştırıldıktan sonra CRT ekranında gördüğü ilk şeyin programın çökmüş olması olduğunu görürlerdi. Bu yüzden
+FLIT hata ayıklayıcısı olan kaseti almak için çekmeceye uzanırdı
+ve BUNU bilgisayara beslerdi. Bilgisayar daha sonra bir
+hata ayıklama makinesi olurdu ve o da programı geri gönderirdi. Şimdi
+işlerin nerede yanlış gittiğini bulmaya çalışabilirdi ve
+belki şanslıysa bulur ve konsoldaki bazı anahtarları kesin bir sırayla çevirerek
+bazı komutlar vererek veya Flexowriter'a bazı kodlar yazarak işleri değiştirebilirdi.
+Her şey çalışmaya başladığında--ve her zaman inanılmaz derecede tatmin ediciydi
+bir şey çalıştığında, o oda dolusu transistörü, kabloları, metali ve elektriği bir araya getirip tasarladığı kesin bir çıktıyı oluşturduğunda--ona bir sonraki ilerlemeyi eklemeye çalışırdı. Saat dolduğunda -birisi ondan sonra makineye binmek için can atıyordu- Saunders, sonraki birkaç saati programın neden battığını anlamaya çalışarak geçirmeye hazırdı.
+
+En yoğun saatin kendisi inanılmaz yoğundu, ancak öncesindeki
+saatlerde ve hatta sonrasındaki saatlerde, bir bilgisayar korsanı
+saf bir konsantrasyon durumuna ulaşırdı. Bir
+bilgisayarı programladığınızda, binlerce bit bilginin bir talimattan diğerine nereye gittiğinin farkında olmanız ve
+tüm bu hareketin etkisini tahmin edip bundan faydalanabilmeniz gerekirdi.
+Tüm bu bilgiler beyinsel varlığınıza yapıştırıldığında,
+sanki kendi zihniniz bilgisayarın ortamına
+kaynaşmış gibiydi. Bazen düşüncelerinizin o toplam resmi içerebileceği noktaya gelmeniz saatler alıyordu ve o noktaya geldiğinizde, onu maraton patlamalarıyla sürdürmeye çalışmak o kadar utanç vericiydi ki, alternatif olarak bilgisayarda çalışarak veya Kluge Odası'ndaki çevrimdışı Flexowriter'lardan birinde yazdığınız kodu inceleyerek devam ettirmeye çalışıyordunuz. Bu konsantrasyonu bir sonraki güne "sararak" sürdürürdünüz. Kaçınılmaz olarak, bu zihin çerçevesi bilgisayar korsanlarının bilgisayar dışındaki rastgele varoluş parçalarına da taştı. TMRC'deki bıçak ve boya fırçası ekibi, Tixo-mania'nın kulübe sızmasından hiç memnun değildi: bunu kulübün odak noktasında, demiryollarından bilgisayara geçiş için bir tür Truva atı olarak görüyorlardı. Ve her Salı saat beş on beşte düzenlenen kulüp toplantılarından birine katılsaydınız, şu endişeyi görebilirdiniz: bilgisayar korsanları, TX-0'da hackledikleri programlar kadar karmaşık bir toplantı yaratmak için parlamento prosedürünün her olası ipliğini kullanırlardı. Öneriler, öneri yapmak için öneri yapmak için yapılırdı ve itirazlar, sanki çok sayıda bilgisayar hatasıymış gibi, usule aykırı olarak reddedilirdi. 24 Kasım 1959'daki toplantının tutanaklarındaki bir not, "kulübe daha fazla S&P yaparak ve Robert'ın Düzen Kuralları'nı daha az okuyarak daha fazla iyilik yapacak olan bazı üyeleri hoş görmediğimizi" öne sürüyor. Samson en kötü suçlulardan biriydi ve bir noktada, çileden çıkmış bir TMRC üyesi "Samson'ın ağız ishali için bir mantar satın alma" önerisi yaptı. Parlamento prosedürünü hacklemek bir şeydi, ancak programlama için gereken mantıksal zihin çerçevesi daha sıradan faaliyetlere taştı. Bir hacker'a bir soru sorabilir ve
+zihinsel biriktiricisinin, sorduğunuz soruya kesin bir cevap verene kadar bitleri işlediğini hissedebilirsiniz. Marge Saunders
+her cumartesi sabahı Volkswagen ile Safeway'e gider ve döndüğünde kocasına, "Bana bakkaldan alışverişi getirmeme yardım etmek ister misin?" diye sorardı. Bob Saunders, "Hayır" diye cevap verirdi. Şaşkına dönen Marge, bakkaldan alışverişi kendisi getirirdi. Aynı şey birkaç kez daha yaşandıktan sonra, patlar, ona küfürler
+yakar ve sorusuna neden hayır dediğini sorardı.
+
+"Bu sorulacak aptalca bir soru," dedi. "Elbette bakkaldan alışverişi getirmene yardım etmek
+İSTEMEM. Bana onları getirmene yardım edip etmeyeceğimi sorarsan, o başka bir konu."
+
+Sanki Marge, TX-0'a bir program göndermiş ve program, sözdizimi uygun olmadığında programların yaptığı gibi çökmüş gibiydi. Bob Saunders, sorusunu hata ayıklayana kadar
+sorunun kendi zihinsel bilgisayarında başarılı bir şekilde çalışmasına izin vermeyecekti.
+
+BÖLÜM 2
+HACKER ETİĞİ
+
+TX-0 etrafında yeni bir şey bir araya geliyordu: yeni bir yaşam biçimi,
+bir felsefe, bir etik ve bir rüya.
+
+TX-0
+hacker'larının, teknik yeteneklerini nadiren manastırların dışında görülen bir bağlılıkla
+bilgisayar işine adayarak, insan ve makine arasındaki
+cüretkar bir simbiyozun öncüsü olduklarını fark ettikleri tek bir an bile olmadı. Motorları güçlendirmeye odaklanmış genç yarışçılarınkine benzer bir şevkle, neredeyse benzersiz çevrelerini hafife almaya başladılar. Bir kültürün unsurları oluşurken, efsaneler birikmeye başlarken, programlamadaki ustalıkları daha önce kaydedilmiş beceri seviyelerini aşmaya başlarken, bir düzine kadar hacker, TX-0 ile yakın ilişkiler içinde olan küçük toplumlarının yavaş yavaş ve örtük olarak bir kavramlar, inançlar ve gelenekler bütünü oluşturduğunu kabul etmekte isteksizdi. Bu devrimci Hacker Etiğinin ilkeleri tartışılıp konuşulmadı, sessizce kararlaştırıldı. Hiçbir manifesto yayınlanmadı. Hiçbir misyoner yeni üyeler toplamaya çalışmadı. Bilgisayar
+dönüştürmeyi yaptı ve Hacker Etiği'ni en sadık şekilde takip edenler Samson, Saunders
+ve Kotok gibi insanlardı. MIT'den önceki hayatları, TX-0'ın konsolunun arkasında kendilerini gerçekleştirdikleri o anın sadece bir ön hazırlığı gibiydi. Daha sonra, TX-0 hacker'larından daha da fazla örtük Etiği ciddiye alan hacker'lar, efsanevi Greenblatt veya Gosper gibi hacker'lar geldi. Ancak hacker'lığın ilkelerinin açıkça belirlenmesi için daha yıllar gerekecekti.
+
+Yine de, TX-0 günlerinde bile platformun temelleri
+yerindeydi. Hacker Etiği:
+
+BİLGİSAYARLARA ERİŞİM--VE DÜNYANIN İŞLEYİŞİ HAKKINDA SİZE BİR ŞEYLER ÖĞRETEBİLECEK HER ŞEY--SINIRSIZ VE TAM OLARAK OLMALIDIR. HER ZAMAN ELİNİZDEKİ ZORUNLULUĞA GEÇİN!
+
+Bilgisayar korsanları, şeyleri parçalara ayırarak, nasıl çalıştıklarını görerek ve bu bilgiyi yeni ve daha da ilginç şeyler yaratmak için kullanarak sistemler hakkında --dünya hakkında-- önemli dersler çıkarılabileceğine inanırlar. Bunu yapmalarını engellemeye çalışan herhangi bir kişiden, fiziksel engelden veya yasadan nefret ederler.
+
+Bu, özellikle bir bilgisayar korsanı, (kendi bakış açısına göre) bozuk olan veya iyileştirilmesi gereken bir şeyi düzeltmek istediğinde geçerlidir.
+
+Kusurlu sistemler, ilkel içgüdüsü onları hata ayıklamak olan bilgisayar korsanlarını çileden çıkarır. Bilgisayar korsanlarının genellikle araba kullanmaktan nefret etmelerinin bir nedeni de budur -- rastgele programlanmış kırmızı ışıklar ve garip bir şekilde düzenlenmiş tek yönlü sokaklar sistemi, o kadar kahrolası GEREKSİZ gecikmelere neden olur ki dürtü, işaretleri yeniden düzenlemek, trafik ışığı kontrol kutularını açmak... tüm sistemi yeniden tasarlamak olur.
+
+Mükemmel bir hacker dünyasında, trafik ışığının yakınındaki bir kontrol kutusunu açıp daha iyi çalışması için parçalara ayıracak kadar sinirlenen herkes bu girişimi yapmaya kesinlikle davet edilmelidir. Bu tür konuları kendi elinize almanızı engelleyen kurallar, uymayı bile düşünemeyecek kadar saçmadır. Bu tutum, Model Demiryolu Kulübünün son derece gayri resmi bir şekilde Midnight Requisitioning Komitesi adlı bir şey başlatmasına yardımcı oldu. TMRC, Sisteme yeni bir özellik eklemek için bir dizi diyota veya birkaç ekstra röleye ihtiyaç duyduğunda, birkaç S&P çalışanı karanlık çökene kadar bekler ve bu şeylerin saklandığı yerlere girerdi. Kural olarak diğer konularda titizlikle dürüst olan hackerların hiçbiri bunu "çalmak"la eş tutmuyor gibiydi. Kasıtlı bir körlük. TÜM BİLGİLER ÜCRETSİZ OLMALIDIR. Şeyleri iyileştirmek için ihtiyaç duyduğunuz bilgilere erişiminiz yoksa, bunları nasıl düzeltebilirsiniz? Bilginin özgürce değiş tokuşu, özellikle de bilginin bir bilgisayar programı biçiminde olması, genel olarak daha fazla yaratıcılığa olanak sağladı. TX-0 gibi neredeyse hiç yazılım olmadan gelen bir makinede çalışırken, herkes programlamayı kolaylaştırmak için öfkeyle sistem programları yazardı - Makineyi kullanan herkesin kolayca erişebilmesi için konsolun yanındaki çekmecede saklanan Araçlar Yapmak İçin Araçlar. Bu, tekerleği yeniden icat etmenin korkunç, zaman kaybettiren ritüelini engelledi: Herkes aynı programın kendi versiyonunu yazmak yerine, en iyi versiyon herkese açık olurdu ve herkes kodun içine dalıp onu geliştirmekte özgür olurdu. Özelliklerle dolu programlarla dolu, en azından hayal kırıklığına uğramış, mükemmel bir şekilde hata ayıklanmış bir dünya. Bazen koşulsuz olarak alınan, bilginin ücretsiz olması gerektiği inancı, muhteşem bir bilgisayarın veya bilgisayar programının çalışma biçimine doğrudan bir övgüydü - karmaşık işlerini yapmak için gereken en basit, mantıksal yolda hareket eden ikili bitler. Bilgisayar, bilginin özgürce akışından faydalanan bir şey değil miydi? Diyelim ki, akümülatör, bant okuyucu veya anahtarlar gibi giriş/çıkış (i/o) aygıtlarından bilgi alamazsa, tüm sistem çöker. Hacker bakış açısına göre, herhangi bir sistem bu kolay bilgi akışından faydalanabilir.
+
+YETKİYE GÜVENMEYİN - MERKEZİ OLMAYANLIĞI TEŞVİK EDİN.
+
+Bu özgür bilgi alışverişini teşvik etmenin en iyi yolu, bir hacker ile bilgi, gelişme ve çevrimiçi zaman arayışında ihtiyaç duyduğu bir bilgi parçası veya bir ekipman parçası arasında hiçbir sınır oluşturmayan açık bir sisteme sahip olmaktır. İhtiyacınız olan son şey bir bürokrasidir.
+Bürokrasiler, ister kurumsal, ister hükümet veya üniversite olsun, kusurlu sistemlerdir ve gerçek hackerların keşif dürtüsüne uyum sağlayamadıkları için tehlikelidirler. Bürokratlar keyfi kuralların arkasına saklanırlar (makinelerin ve bilgisayar programlarının çalıştığı mantıksal algoritmaların aksine): bu kuralları iktidarı pekiştirmek için kullanırlar ve bilgisayar korsanlarının yapıcı dürtüsünü bir tehdit olarak algılarlar. Bürokratik dünyanın en iyi örneği, International Business Machines--IBM adlı çok büyük bir şirkette bulunurdu. Bilgisayarlarının toplu olarak işlenmesinin nedeni yalnızca kısmen vakum tüp teknolojisiydi. Gerçek neden IBM'in bilgisayar korsanlığı dürtüsünü anlamayan beceriksiz, hantal bir şirket olmasıydı. IBM'in istediği olsaydı (TMRC bilgisayar korsanları böyle düşünüyordu), dünya toplu olarak işlenirdi, o sinir bozucu küçük delikli kartlara yerleştirilirdi ve yalnızca en ayrıcalıklı rahiplerin bilgisayarla etkileşime girmesine izin verilirdi. IBM dünyasındaki birine bakmanız ve
+düğmeli beyaz gömleği, düzgünce iğnelenmiş siyah kravatı,
+dikkatlice yerinde tutulan saçı ve
+elindeki delikli kart tepsisini fark etmeniz yeterliydi. 704, 709 ve daha sonra 7090'ın depolandığı Hesaplama Merkezi'ne girebilirdiniz - IBM'in sunabileceği en iyi şeydi - ve yetkisiz kişilerin ötesine geçemeyeceği iplerle çevrili alanlara kadar boğucu düzeni görebilirsiniz. Ve
+bunu, kirli giysilerin norm olduğu ve neredeyse herkesin girebildiği TX-0'ın etrafındaki son derece gayri resmi atmosferle karşılaştırabilirsiniz.
+
+Şimdi, IBM hesaplamayı ilerletmek için birçok şey yapmıştı ve yapmaya devam edecekti. Sadece büyüklüğü ve güçlü etkisiyle, bilgisayarları Amerika'daki yaşamın kalıcı bir parçası haline getirmişti. Birçok kişi için,
+IBM ve bilgisayar kelimeleri neredeyse eşanlamlıydı. IBM'in
+makineleri, iş adamlarının ve bilim insanlarının
+kendilerine yatırım yaptığı güvene layık, güvenilir işgücüydü. Bu kısmen IBM'in muhafazakar yaklaşımından kaynaklanıyordu: En
+teknolojik olarak gelişmiş makineleri
+yapmayacaktı, ancak
+kanıtlanmış kavramlara ve dikkatli, agresif pazarlamaya güvenecekti. IBM'in bilgisayar alanındaki hakimiyeti
+kurulunca, şirket kendi başına bir imparatorluk haline geldi, gizli ve kendini beğenmiş.
+
+Hacker'ları gerçekten çileden çıkaran şey, IBM'in tek "gerçek" bilgisayarlara sahip olduğunu ve geri kalanların hepsinin çöp olduğunu düşünen IBM rahiplerinin ve yardımcı rahiplerinin tutumuydu. Bu insanlarla konuşamazdınız - ikna edici olmaktan öteydiler. Onlar toplu olarak işlenen insanlardı ve bu sadece makinelere olan tercihlerinde değil, bir hesaplama merkezinin ve bir dünyanın nasıl işletilmesi gerektiğiyle ilgili fikirlerinde de kendini gösteriyordu. Bu insanlar, emir veren kimsenin olmadığı, merkezi olmayan bir sistemin bariz üstünlüğünü asla anlayamadılar: insanların ilgi alanlarını takip edebildiği ve bu süreçte sistemde bir kusur keşfederlerse iddialı bir ameliyata girebildikleri bir sistem. Talep formu almaya gerek yok. Sadece bir şeyler yapma ihtiyacı. Bu bürokratik olmayan eğilim, çocukluklarından beri bilim projeleri oluşturmaya alışmış olan ve sınıf arkadaşlarının geri kalanı spor sahasında kafalarını birbirine vurarak sosyal beceriler öğrenen birçok hacker'ın kişiliğiyle tam olarak örtüşüyordu. Bir zamanlar dışlanmış olan bu genç yetişkinler, bilgisayarı harika bir dengeleyici olarak gördüler, Peter Samson'a göre "sanki kapıyı açıp bu muhteşem yeni evrene girmişsiniz gibi" bir his yaşadılar.
+Bir kere o kapıdan geçip bir milyon dolarlık bilgisayarın konsolunun arkasına oturduklarında, hacker'ların gücü oldu. Bu yüzden, bu gücün kapsamını sınırlamaya çalışabilecek herhangi bir güce güvenmemek doğaldı.
+
+HACKER'LAR, DERECE, YAŞ, IRK VEYA POZİSYON GİBİ SAHTE KRİTERLERE GÖRE DEĞİL, HACKLEMELERİNE GÖRE YARGILANMALIDIR.
+
+On iki yaşındaki Peter Deutsch'un TX-0 topluluğunda (hacker olmayan lisansüstü öğrenciler tarafından olmasa da) kolayca kabul görmesi iyi bir örnekti. Benzer şekilde, etkileyici kimlik bilgileriyle içeri giren kişiler, bir bilgisayarın konsolunda kendilerini kanıtlayana kadar ciddiye alınmıyordu. Bu liyakatçi özellik, hacker kalplerinin doğal iyiliğinden kaynaklanmıyordu - esas olarak hacker'ların birinin yüzeysel özelliklerinden çok, hacker'lığın genel durumunu ilerletme, hayran olunacak yeni programlar yaratma, sistemdeki yeni özellik hakkında konuşma potansiyeliyle ilgilenmeleriydi.
+
+BİR BİLGİSAYARDA SANAT VE GÜZELLİK YARATABİLİRSİNİZ.
+
+Samson'ın müzik programı buna bir örnekti. Ancak hacker'lar için, programın sanatı çevrimiçi hoparlörden çıkan hoş seslerde bulunmuyordu. Programın kodu kendi başına bir güzelliğe sahipti. (Ancak Samson, kaynak koduna belirli bir zamanda ne yaptığını açıklayan yorumlar eklemeyi reddetmesi nedeniyle özellikle belirsizdi. Samson'ın yazdığı iyi dağıtılmış bir program, 1750 sayısını içeren bir talimatın yanında yalnızca bir yorumla yüzlerce montaj dili talimatı içeriyordu. Yorum RIPJSB idi ve insanlar 1750'nin Bach'ın öldüğü yıl olduğunu ve Samson'ın Huzur İçinde Yat Johann Sebastian Bach için bir kısaltma yazdığını anlayana kadar bunun anlamı hakkında kafa patlattılar.) Programlama stilinin belirli bir estetiği ortaya çıkmıştı. TX-0'ın sınırlı bellek alanı nedeniyle (o dönemin tüm bilgisayarlarına yayılan bir dezavantaj), bilgisayar korsanları programların çok az talimatla karmaşık görevler yapmasına izin veren yenilikçi teknikleri derinden takdir etmeye başladılar. Bir program ne kadar kısaysa, diğer programlar için o kadar fazla alanınız kalıyordu ve program o kadar hızlı çalışıyordu. Bazen hıza veya alana çok ihtiyacınız olmadığında,
+ve sanat ve güzellik hakkında düşünmüyorsanız,
+çirkin bir program
+bir araya getirir, soruna "kaba kuvvet" yöntemleriyle saldırırdınız. "Bunu yirmi sayı ekleyerek yapabiliriz,"
+diyebilirdi Samson kendi kendine, "ve bunu yapmak için talimatlar yazmak, başlangıçta bir döngü düşünüp
+sonunda aynı işi yedi veya sekiz talimatla yapmaktan daha hızlıdır."
+Ancak ikinci program diğer hacker'lar tarafından beğenilebilirdi ve
+bazı programlar o kadar az satıra sahipti ki
+yazarın meslektaşları ona bakıp neredeyse hayranlıkla eriyip gideceklerdi. Bazen program bumming rekabetçi hale geldi, kişinin sisteme o kadar hakim olduğunu kanıtlamak için bir maço yarışması ki, bir veya iki talimatı tıraşlamak için zarif kısayollar tanıyabiliyordu, veya daha iyisi, tüm sorunu yeniden düşünüp, bir dizi talimattan tasarruf sağlayacak yeni bir algoritma tasarlayabiliyordu. (Bir algoritma, karmaşık bir bilgisayar sorununu çözmek için uygulanabilen belirli bir prosedürdür; bir tür matematiksel iskelet anahtarıdır.) Bu, soruna daha önce hiç kimsenin düşünmediği, ancak geriye dönüp bakıldığında tamamen mantıklı gelen sıra dışı bir açıdan yaklaşarak en belirgin şekilde yapılabilirdi. Bu Mars'tan gelen dahi tekniklerini, kara büyü, vizyon sahibi niteliği kullanabilenlerde, dünyadaki en iyi beyinlerin bayat bakış açısını bir kenara atıp tamamen beklenmedik yeni bir algoritma ortaya koymalarını sağlayan kesinlikle sanatsal bir dürtü vardı. Bu, ondalık baskı rutin programında oldu. Bu, bazen birçok farklı programa entegre edebileceğiniz bir program içindeki alt rutinler programıydı - bilgisayarın size verdiği ikili sayıları normal ondalık sayılara çevirmek için. Saunders'ın sözleriyle, bu sorun "programlamanın piyonunun kıçına" dönüştü - eğer çalışan bir ondalık baskı rutini yazabilirseniz, kendinize bir tür programcı diyecek kadar bilgisayar hakkında bilginiz vardı." Ve eğer HARİKA bir ondalık baskı rutini yazabilirseniz, kendinize bir hacker diyebilirsiniz. Bir yarışmadan daha fazlası, ondalık baskı rutininin nihai başarısızlığı bir tür hacker Kutsal Kasesi haline geldi.
+
+Ondalık baskı rutinlerinin çeşitli versiyonları birkaç aydır ortalıktaydı. Eğer bu konuda kasıtlı olarak aptalca davranıyorsanız veya gerçek bir aptalsanız - tam bir "kaybeden" - bilgisayarın makine dilini ondalığa dönüştürmesi için size yüzlerce talimat gerekebilir. Ancak tuzuna layık herhangi bir hacker bunu daha az zamanda yapabilirdi ve sonunda, programların en iyisini alarak,
+burada ve orada bir talimat vererek, rutin yaklaşık elli talimata düşürüldü.
+
+Bundan sonra işler ciddileşti. İnsanlar saatlerce çalışırdı,
+aynı şeyi daha az satır kodla yapmanın bir yolunu arardı. Bu bir
+yarışmadan daha fazlası oldu; bir arayıştı. Harcanan tüm çabaya rağmen, hiç kimse elli satırlık bariyeri
+aşamadı. Daha az zamanda bunu yapmanın mümkün olup olmadığı sorusu ortaya çıktı. Bir programın
+söndürülemeyeceği bir nokta var mıydı?
+
+Bu ikilemle uğraşan insanlar arasında, Maine'den uzun boylu, sessiz bir hacker olan Jenson adında biri vardı. Kluge Odası'nda sessizce oturur ve bir ormancının
+oyma yaptığı sakin tavırlarla
+çıktılara karalamalar yapardı. Jenson her zaman programlarını zaman ve mekanda sıkıştırmanın yollarını arıyordu; kodu, genellikle aynı on sekiz bitlik "kelimenin" farklı bölümlerinde birkaç farklı hesaplamanın gerçekleşmesine neden olan, birbirine karışmış Boole ve aritmetik fonksiyonların tamamen tuhaf bir dizisiydi. Şaşırtıcı şeyler, büyülü numaralar. Jenson'dan önce, ondalık basım rutini için tek mantıksal algoritmanın, sayıları doğru dijital sütunlarda tutmak için makinenin tekrar tekrar çıkarma yapması ve onluk kuvvetleri tablosunu kullanması gerektiği konusunda genel bir fikir birliği vardı. Jenson, bir şekilde onluk kuvvetleri tablosunun gerekli olmadığını düşündü; rakamları ters sırada dönüştürebilen ancak dijital bir el çabukluğuyla doğru sırada yazdıran bir algoritma buldu. Diğer hacker'lar için, Jenson'ın programını bir ilan panosuna astıklarında ancak gördüklerinde açık olan karmaşık bir matematiksel gerekçelendirme vardı. Bu, Jenson'ın onlara ondalık baskı rutinini sınırına kadar götürdüğünü söyleme şekliydi. KIRK ALTI TALİMAT. İnsanlar koda bakardı ve ağızları açık kalırdı. Marge Saunders, hacker'ların
+sonrasında günlerce alışılmadık şekilde sessiz kaldıklarını hatırlıyor.
+
+Bob Saunders daha sonra "Bunun son olduğunu biliyorduk," dedi. "Bu
+Nirvana'ydı."
+
+BİLGİSAYARLAR HAYATINIZI DAHA İYİ ŞEKİLDE DEĞİŞTİREBİLİR.
+
+Bu inanç, ince bir şekilde belirgindi. Nadiren bir hacker, bilgisayar bilgi yolunun sayısız avantajına dair bir görüşü bir yabancıya empoze etmeye çalışırdı. Yine de bu öncül, TX-0 hackerlarının ve onlardan sonra gelen hacker nesillerinin günlük davranışlarına hakim oldu.
+
+Elbette bilgisayar ONLARIN hayatlarını değiştirmiş, hayatlarını zenginleştirmiş, hayatlarına odak kazandırmış, hayatlarını macera dolu hale getirmişti. Onları kaderin belirli bir diliminin efendileri yapmıştı. Peter Samson daha sonra şöyle dedi: "Bunu yüzde yirmi beş ila otuz oranında, yapabileceğimiz ve iyi yapabileceğimiz bir şey olduğu için yaptık ve yüzde altmış oranında da, mecazi olarak canlı bir şeye sahip olmak, yani işimizi bitirdiğimizde kendi kendine bir şeyler yapacak bir yavrumuz olması için yaptık. Programlamanın en güzel yanı, sahip olduğu büyülü çekiciliktir... Bir davranış sorununu [bir bilgisayar veya program] çözdüğünüzde, sonsuza dek düzelir ve tam olarak kastettiğiniz şeyin bir yansımasıdır."
+
+ALADDİN'İN LAMBASI GİBİ, İSTEDİĞİNİZİ YAPTIRABİLİRSİNİZ.
+
+Elbette herkes bu gücü deneyimlemekten faydalanabilir.
+Elbette herkes Hacker Etiğine dayalı bir dünyadan faydalanabilir. Bu, bilgisayar korsanlarının örtük inancıydı ve bilgisayar korsanları, bilgisayarların neler yapabileceği ve yapması gerektiği konusundaki geleneksel bakış açısını saygısızca genişlettiler ve dünyayı bilgisayarlara bakmanın ve onlarla etkileşim kurmanın yeni bir yoluna yönlendirdiler. Bu kolayca yapılamadı. MIT gibi gelişmiş bir kurumda bile, bazı profesörler bilgisayarlara karşı çılgınca bir yakınlığı anlamsız, hatta bunaklık olarak görüyorlardı. TMRC bilgisayar korsanı Bob Wagner bir keresinde bir mühendislik profesörüne bilgisayarın ne olduğunu açıklamak zorunda kalmıştı. Wagner, bilgisayar ile bilgisayar karşıtı arasındaki bu çatışmayı, profesörün her öğrenciden takırdayan, hantal elektromekanik hesap makineleri kullanarak ödev yapmasını istediği Sayısal Analiz dersine girdiğinde daha da canlı bir şekilde deneyimledi. Kotok aynı sınıftaydı ve ikisi de bu düşük teknolojili makinelerle çalışma ihtimali karşısında dehşete düşmüştü. "Neden," diye sordular, "bu bilgisayara sahipken?"
+
+Böylece Wagner, bir hesap makinesinin davranışını taklit edecek bir bilgisayar programı üzerinde çalışmaya başladı. Fikir çok uçuktu. Bazıları için, bu değerli makine zamanının kötüye kullanılmasıydı. Bilgisayarlar hakkındaki standart düşünceye göre, zamanları o kadar değerliydi ki, yalnızca bilgisayardan maksimum şekilde yararlanan, aksi takdirde bir oda dolusu matematikçinin günlerce anlamsız hesaplamalar yapmasını gerektirecek şeyler denenmeliydi. Bilgisayar korsanları ise farklı düşünüyordu: İlginç veya eğlenceli görünen her şey, bilgisayar için bir yemdi ve etkileşimli bilgisayarlar kullanarak, omzunuzun üzerinden bakıp belirli projeniz için izin talep eden kimse olmadan, bu inanç doğrultusunda hareket edebilirdiniz. Basit bir çarpma işlemini gerçekleştirmek için basit bir yöntemi olmayan bir makinede, kayan nokta aritmetiğinin (programın ondalık noktayı nereye koyacağını bilmesini sağlamak için gereklidir) karmaşıklıklarıyla iki veya üç ay uğraştıktan sonra, Wagner işi yapan üç bin satır kod yazmıştı. Gülünç derecede pahalı bir bilgisayarı, bin kat daha az maliyetli bir hesap makinesinin işlevini yerine getirecek şekilde
+yapmıştı. Bu ironiyi onurlandırmak için,
+programa Pahalı Masa Hesap Makinesi adını verdi ve gururla
+sınıfının ödevini bununla yaptı.
+
+Notu sıfırdı. "Bilgisayar kullandın!" dedi profesör ona.
+"Bu DOĞRU OLAMAZ."
+
+Wagner açıklama zahmetine bile girmedi. Bilgisayarın bir zamanlar inanılmaz olasılıklar olan şeylerden gerçeklikler yarattığını öğretmenine nasıl iletebilirdi? Ya da başka bir hacker'ın TX-0'ı üzerine metin yazabileceğiniz, yazınızı karakter dizileri halinde işleyebileceğiniz ve Flexowriter'da yazdırabileceğiniz bir şeye dönüştüren Expensive Typewriter adlı bir program yazdığını nasıl iletebilirdi? Bir profesörün BİLGİSAYAR TARAFINDAN YAZILMIŞ bir sınıf çalışması
+raporunu kabul ettiğini hayal edebiliyor musunuz? Bu profesör -aslında, bu keşfedilmemiş insan-makine evrenine
+dahil olmamış herhangi biri- Wagner ve diğer hacker'ların, Wagner'e göre, "başka türlü hayal bile edilemeyecek garip durumları" simüle etmek için bilgisayarı nasıl kullandıklarını nasıl anlayabilirdi? Profesör zamanla, herkes gibi, bilgisayarın açtığı dünyanın sınırsız olduğunu öğrenecekti. Daha fazla kanıta ihtiyaç duyan varsa,
+Kotok'un Bilgisayar Merkezi'nde üzerinde çalıştığı, sakallı Al profesörü "Amca" John McCarthy'nin, hacker öğrencileri tarafından tanınmaya başlandığı satranç programı olan projeyi örnek gösterebilir.
+Kotok ve programda ona yardım eden diğer birkaç hacker, makineye ve etrafındaki insanlara nüfuz eden IBM toplu işleme zihniyetine karşı sadece küçümseme duysalar da,
+etkileşimli olarak kullanmak için gece geç saatlerde vakit bulmayı başarmışlardı ve 704'teki sistem programcılarıyla, hangi grubun bilgisayar zamanının en büyük tüketicisi olarak bilineceğini görmek için gayri resmi bir mücadeleye girmişlerdi. Liderlik bir ileri bir geri gidiyordu ve beyaz gömlekli ve siyah kravatlı 704'lüler, Kotok ve grubunun 704'teki düğmelere ve anahtarlara dokunmasına izin verecek kadar etkilenmişlerdi: övülen bir IBM canavarıyla nadir görülen duyusal temas.
+
+Kotok'un satranç programını hayata geçirmedeki rolü, Yapay Zeka'daki hacker rolünün ne olacağını gösteriyordu: McCarthy veya meslektaşı Marvin Minsky gibi Ağır Kafalı biri bir projeye başlar veya yüksek sesle bir şeyin mümkün olup olmadığını merak ederdi ve hackerlar, eğer ilgilerini çekerse, bunu yapmaya başlardı. Satranç programı, ilk bilgisayar dillerinden biri olan FORTRAN kullanılarak başlatılmıştı. Bilgisayar dilleri, montaj dilinden ziyade İngilizce'ye daha çok benzer, yazılması daha kolaydır ve daha az talimatla daha fazla şey yapar; ancak, FORTRAN gibi bir bilgisayar dilinde her talimat verildiğinde, bilgisayar önce bu komutu kendi ikili diline çevirmelidir. Derleyici adı verilen bir program bunu yapar ve derleyici işini yapmak için zaman alır ve bilgisayar içinde değerli bir yer kaplar. Aslında, bir bilgisayar
+dilini kullanmak sizi bilgisayarla doğrudan temastan bir adım daha uzaklaştırır ve bilgisayar korsanları genellikle daha az zarif, "daha yüksek seviyeli" FORTRAN
+dilleri yerine, montaj dilini veya dedikleri gibi "makine" dilini tercih ederler.
+
+Ancak Kotok, bir satranç programında işlenmesi gereken çok sayıda sayı
+olması nedeniyle, programın bir kısmının FORTRAN'da, bir kısmının da montajda yapılması gerektiğini fark etti. Bunu, "hamle üreteçleri", temel veri yapıları ve strateji için her türlü yenilikçi algoritmayla parça parça hacklediler. Makineye her
+parçayı hareket ettirme kurallarını verdikten sonra, konumunu değerlendirmek, çeşitli hamleleri değerlendirmek ve onu en avantajlı duruma getirecek hamleyi yapmak için bazı parametreler verdiler. Kotok yıllarca devam etti, program MIT IBM bilgisayarlarını yükseltmeye devam ettikçe büyüdü ve unutulmaz bir gece birkaç hacker programın gerçek bir oyunda ilk hamlelerinden bazılarını görmek için bir araya geldi. Açılışı oldukça saygındı, ancak sekiz veya daha fazla değişimden sonra gerçek bir sorun çıktı, bilgisayar şah mat olmak üzereydi. Herkes bilgisayarın nasıl tepki vereceğini merak ediyordu. Bir süre (herkes, bu duraklamalar sırasında bilgisayarın aslında "düşündüğünü" biliyordu, eğer düşünme fikriniz çeşitli hamleleri mekanik olarak göz önünde bulundurmayı, onları değerlendirmeyi, çoğunu reddetmeyi ve nihayetinde bir seçim yapmak için önceden tanımlanmış bir parametre kümesini kullanmayı içeriyorsa). Sonunda, bilgisayar bir piyonu iki kare ileri taşıdı - yasadışı olarak başka bir taşın üzerinden atladı. Bir hata! Ama akıllıca bir hata - bilgisayarı kontrolden çıkardı. Belki de program satrancı fethetmek için yeni bir algoritma buluyordu.
+
+Diğer üniversitelerde, profesörler bilgisayarların satrançta asla bir insanı yenemeyeceğine dair kamuya açık duyurular yapıyorlardı.
+Bilgisayar korsanları daha iyisini biliyordu. Bilgisayarları herkesin beklediğinden daha yüksek seviyelere taşıyacak olanlar onlardı. Ve bilgisayar korsanları, bilgisayarla verimli, anlamlı bir ilişki kurarak, yararlananlar arasında en önde gelenler olacaktı.
+
+Ancak tek yararlananlar onlar olmayacaktı. Herkes, entelektüel olarak
+otomatikleştirilmiş bir dünyada düşünen bilgisayarların kullanımıyla bir şeyler kazanabilir. Ve herkes, dünyaya aynı meraklı yoğunlukla,
+bürokrasiye karşı şüphecilikle, yaratıcılığa açıklıkla,
+başarıları paylaşmada özveriyle,
+geliştirme isteğiyle
+ve Hacker Etiği'ni izleyenler gibi inşa etme arzusuyla yaklaşarak daha da fazla fayda sağlamaz mıydı?
+Bilgisayarların bir Flexowriter'a kod giren herkesi kabul ettiği gibi, başkalarını da aynı önyargısız temelde kabul ederek?
+Bilgisayarlardan mükemmel bir sistem
+yaratmanın yollarını öğrenirsek fayda sağlamaz mıydık? HERKES, bilgisayarlarla
+hackerların yaptığı gibi aynı masum, üretken, yaratıcı dürtüyle
+etkileşime girebilseydi, Hacker Etiği toplumda hayırsever bir dalga gibi yayılabilirdi ve bilgisayarlar gerçekten de
+dünyayı daha iyiye doğru değiştirebilirdi.
+
+Massachusetts Teknoloji Enstitüsü'nün manastır sınırları içinde,
+insanlar bu rüyayı -hacker rüyasını- yaşama özgürlüğüne sahipti. Hiç kimse bu rüyanın yayılabileceğini öne sürmeye cesaret edemedi. Bunun yerine, insanlar
+tam orada, MIT'de,
+bir daha asla kopyalanamayacak
+bir hacker Xanadu inşa etmeye koyuldular.
+
+Hackers, Bilgisayar Devriminin Kahramanları, Steven Levy
+(C)1984, Steven Levy
+
+Project Gutenberg E-Kitabının Sonu, Hackers, Bilgisayar Devriminin Kahramanları, Stephen Levy
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HACKERS, HEROES OF COMPUTER REV. ***
+
+***** This file should be named 729.txt or 729.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/7/2/729/
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
