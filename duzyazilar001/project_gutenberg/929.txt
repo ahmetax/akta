@@ -1,0 +1,1133 @@
+*** START OF AKTAHEADER ***
+Başlık: The Real Cyberpunk Fakebook (Gerçek Cyberpunk Sahte Kitabı)
+Yazar: St. Jude, R. U. Sirius, Bart Nagel
+Yayın Tarihi: June, 1997
+Dil: English
+Link: https://www.gutenberg.org/ebooks/929
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Real Cyberpunk Fakebook, by 
+St. Jude, R. U. Sirius, Bart Nagel
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: The Real Cyberpunk Fakebook
+
+Author: St. Jude, R. U. Sirius, Bart Nagel
+
+Posting Date: April 14, 2013 [EBook #929]
+Release Date: June, 1997
+First Posted: June 11, 1997
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE REAL CYBERPUNK FAKEBOOK ***
+
+*** START OF TURKISH PART ***
+The Real Cyberpunk Fakebook, St. Jude, R.U. Sirius
+ve Bart Nagel (C)1995 Ken Goffman ve Jude Milhon
+
+Bu dosya ilk üç buçuk bölümü içerir.
+
+Michael'dan
+
+>>Ekranda daha iyi görünmesi için burada ve orada birkaç boşluk değiştirdim,
+>>Herhangi bir öneriniz, düzeltmeniz, eklemeniz vb. varsa bana bildirin.
+
+Jude'dan
+
+ya da tamam, michael: biçimlendirmeyle oynadım. ASCII'de şeyleri iyi göstermek
+CEHENNEM, ama daha iyi görünüyor.
+
+***
+
+tamam, michael, geri çekil... işte geliyor...
+
+cybpunk fakebook'u MIME kodlu bir ek olarak gönderiyorum
+VE bir yapıştırma...
+
+dikkat edin... çok saçma....
+
+***
+
+Sevgili Michael Hart ve Project Gutenberg:
+
+Bu metin ASCII'de biraz garip görünüyor. MONDO2000 gibi--kötü şöhretli dergimiz--bu kitap, anlamının büyük bir kısmı için çılgın düzenine ve tuhaf çizimlerine güveniyor, çekiciliğinden bahsetmiyorum bile.
+
+Ve neyin ilk bölüm olarak kabul edilmesi gerektiğini anlamak zordu, bunun bariz sebepleri var. Bence ilk bölüm gerçekten II. Bölümü içeriyor,
+ama boş verin. İşte, başlangıcı...
+
+*********************************************************
+*********************************************************************************************************************
+*****
+******* *****
+***** GERÇEK
+*****
+*****
+***** SİBERPUNK
+*****
+***** SAHTE KİTAP
+*****
+*****
+***** St. Jude, R.U.Sirius ve Bart Nagel tarafından
+*****
+************************************************************************************************************************************************************************************************************************************************************************
+
+İthaf:
+Tüm ebeveynlerimize, sevgililerimize, ev arkadaşlarımıza,
+çocuklarımıza ve arkadaşlarımıza, Cypherpunk'lara,
+Kevin Crow, Nesta Stubbs, The Omega, Phiber'a,
+ve her yerde hackerlar.
+
+===========================================================
+| |
+| The Real Cyberpunk Fakebook'a GİRİŞ |
+| Bruce Sterling tarafından, |
+| Ünlü Bir Cyberpunk Yazarı |
+| |
+===========================================================
+
+Bu kitabı o kadar çok beğendim ki adımı St. Erling olarak değiştirmeyi düşünüyorum. Bu iki tamamen yetenekli Bay Area dolandırıcısından daha iyi cyberpunk
+sahteciliği rehberleri isteyemezsiniz. Bu iki karakter o kadar mükemmel bohem
+dolandırıcılar ki Aleister Crowley'i Sunnybrook Çiftliği'nden Rebecca'ya benzetiyorlar.
+
+Ben akıllı ilaçlara inanmıyorum ve hiçbir zaman da inanmadım, ancak şuna inanıyorum. Toplum için, test edilmemiş ve bilinmeyen cihazları ve maddeleri tüketmeye istekli, küçük, sınırlı bir grup pervasız aptalın olması gerçekten faydalıdır. Elbette, çoğunun
+kalbi patlayacak veya büyük mor kanamalı talidomid siğillerine dönüşecek. Ama kim bilir, belki bir gün bu jasperlardan biri bir hippi eczanesinden avuç dolusu psikoaktif
+çöp yiyecek ve o kişi altı gün içinde aniden orijinalinden Japonca okumayı öğrenecek. Bu hiç olası değil, ancak olabilir-- bana
+olasılık verin.
+
+Bu merkezsizleştirilmiş, liberteryen, serbest piyasa biyomedikal araştırma rejiminin tek dezavantajı, bazı insanları acımasızca feda etmeye hazır olmanız gerektiğidir - sadece onları NIMH'deki bir kafes dolusu kontrol hamsterı gibi yazın. Ve eğer hayattaki bu özel, keskin uçlu role benzersiz bir şekilde uyan bir adamla tanıştıysam, o R.U. Sirius'tur. R.U. Sirius, mor bir fötr şapka ve ağzına Andy Warhol rozeti iliştirilmiş Gomez Addams'a benzer. R.U. ile tanıştığım anda, onu süzmek ve iç organlarını incelemek için güçlü bir ihtiyaç hissettim. Aynı entelektüel dürtüyü hissedecek başka birçok serbest biyomedikal araştırmacı olduğundan eminim. Bu kitabı okuyun ve ne demek istediğimi anlayacaksınız. Sonra bu aziz kişi var. Asla içten bir şeye yönelmeyin. Asla Mom's adlı bir yerde yemek yemeyin. Ve asla
+gerçek adı bile olmayan bir Kaliforniyalı sarışından bir torba efedrin ve bir balkabağı turtası ("sebzelerin *kırbaç*ı!") yemeyin. Bu kadın karakter o kadar korkunç derecede ketum ki
+en yakın arkadaşı bile NSA'yı kriptografik olarak
+şaşırtmaktan zevk alıyor. Pat Buchanan hiç de gizli olmayan isteğini gerçekleştirir ve karşı kültür düşünce suçluları için yerel bir Amerikan gulağı kurarsa, Judester listede çok, çok *çok* yukarıda olacak -- belki de Bob Dobbs'tan hemen sonra ikinci sırada. Ancak, davasının oldukça ilginç olması muhtemel çünkü o sadece henüz tanımlanmamış, hatta başarılı bir şekilde suç sayılmayan
+sosyal aktivite alanlarında "suç" işliyor. Bu kadının aktivite yelpazesinin ciddi bir yasal çalışması, Amerikan bilinçaltının CAT taraması gibi olurdu.
+
+Ayrıca, bu insanlarla birlikte olmak için fazla iyi bir adam olan Bart Nagel da var.
+
+Bu harika kitaptaki hemen hemen her şey tamamen gerçek.
+Benim hakkımdaki her şey hariç. Ve en yakın suç ortaklarım. Biz gerçek siberpunk'lar - bununla *bilimkurgu yazarları* demek istiyorum, kahretsin, c-kelimesinin icat edildiği kişiler, zamanımızın ötesinde profesyonel olan ve *on iki yıl önce* siberpunk olan kişiler - asla alay etmiyoruz
+ve asla, Tanrı korusun, Tom Wolfe gibi giyinmiyoruz. Sadece uygunsuz zamanlarda (örneğin Kongre'de tanıklık ederken) gülüyoruz ve tıpkı endüstriyel tasarım profesörleri gibi giyinip davranıyoruz.
+
+Umarım bu kısa giriş herhangi bir karışıklığı giderir. Bu kitapla ilgili herhangi bir sorun yaşarsanız, çevrimiçi deneyiminizi sonuna kadar kullanın ve e-posta gönderin. "Aptalca" sorular sormaktan korkmayın - İnternet bunun için var! Güzel, büyük, geniş, açık uçlu sorular sorun. "Bir dönem ödevi yapıyorum, lütfen bana siber uzay hakkında bildiğiniz her şeyi anlatın" veya "Bulgaristan'dan bir siberpunk hayranıyım ve İngilizcem pek iyi değil, ama lütfen Sanal Gerçeklik hakkında daha fazla şey söyleyin?" gibi şeyler.
+
+Elbette bana e-posta göndermeyin. Onlara e-posta gönderin. Bu kitaptan sonra, bunu hak ediyorlar! Sizi şaşırtacak
+hızlı cevaplar alacağınızdan eminim.
+
+................................................
+
+................................................................
+===================================================================
+| |
+| Yazarlar |
+| Açıklayın: |
+| |
+| Bu Teknik Kılavuza Teknik Bir Kılavuz |
+| | =========================================================
+
+KALIN YAZILI KELİMELER
+(ASCII sürümü için çift <<açı parantezi>> içine alınmıştır)
+
+Bunlar *Siber Kelime Gücünüzü Oluşturma* bölümünde tanımlanmış terimlerdir. Sizi şaşırtan bir şey olup olmadığını kontrol edin.
+
+Bazen metinde bir bölüm alt başlığına atıfta bulunan çift açılı parantez içine alınmış bir terim olur ve sonra onu bulmak için <<haqr zekanızı>> kullanmalısınız.
+
+Başka hiçbir şey işe yaramazsa, Bruce Sterling'e gizli e-posta adresinden sorabilirsiniz-- bruces@well.com. O bilecektir.
+
+SHURIKEN ÖDÜLLERİ
+
+Bazen küstah eleştirmenlerin yaptığı gibi, yıldız vererek şeyleri derecelendirme cazibesine kapılabiliriz. Ancak, bunlara *shuriken*, siber bir yıldız türü olarak ödül vereceğiz:
+
+^ ^ ^
+< X > < X > < X >
+v v v
+
+Bir shuriken, Japonya'dan gelen parlak çelik, keskin kenarlı, sivri uçlu bir silah olan fırlatma yıldızıdır (siberpunk'ın bazı sisli şehir efsanelerinde
+orijinal evidir). Bir saldırı silahı olarak shuriken, dört üzerinden bir ölçekte yarım shuriken olarak derecelendirilir. Bir hidrojen bombası beş shuriken olarak derecelendirilir.
+Anladınız sanırım. Zaman zaman Shuriken'e Propeller Beanies ekleyebiliriz:
+
+<<<o>>> <<<o>>> <<<o>>>
+__|__ __|__ __|__
+/_____\ /_____\ /_____\
+
+Bu, bir cyberpunk
+derecesinin ötesinde nerd ilgisini gösterir. Propeller head, <<nerd>> için kullanılan eski bir terimdir.
+Macintosh'taki bu tuşun gerçek adı COMMAND değil,
+PROPELLER'dır ve bu yüzden.
+
+_________________
+/| |\
+| | ||
+| | _/_ O ||
+| | ( C O/ \O ||
+| | \__/ O ||
+| /\_________________/\|
+\/____________________\/
+
+=============================================================
+=============================================================
+===========================================================
+İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK
+İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK İÇERİK ========================================================
+=============================================================
+=================================================================
+
+************************************************************
+*** BÖLÜM I: CYBERPUNK... NEDEN?? TAMAM-- NASIL??? ***
+******************************************************
+Bölüm 1/ CYBERPUNK: A ZORLU POSTMODERN YAŞAM TARZI!
+/Neden Uğraşalım? Büyük Kazanımlar! (ve Beklenmedik Küçük Şeyler)/
+
+Bölüm 2/ SİBERPUNK'A ULAŞMAK
+/Olmak ya da Sahtekarlık Yapmak/
+
+Bölüm 3/ SİBER TİPLERE YÖNELİK BİR STİL REHBERİ
+/Onları Tanımak ve Uyum Sağlamak/
+
+*********************************************************
+***** BÖLÜM II: SİBERPUNK... BİLMEK! *****
+*********************************************************
+
+Bölüm 4/ SİBER KELİME GÜCÜNÜZÜ OLUŞTURMAK
+
++ Son Derece Havalı Jargon ve Faydalı
+İfadeler Sözlüğü
+
++ İpucu Olmadan Kazanmak İçin Havalı Konuşma
+Ploys'lu Bir Siberpunk Deyim Kitabı
+
+Bölüm 5/ OKUMANIZ GEREKEN KİTAPLAR İÇİN HİLE KARTLARI
+/Ama Okumadınız/
+
+Bölüm 6/ İZLEMEDİĞİNİZ FİLMLER/TV DİZİLERİ İÇİN HİLE KARTLARI
+/Ama Bilmeniz Gerekenler/
+
+Bölüm 7/ BİLMENİZ GEREKEN ÇEVRİMİÇİ ŞEYLER
+/Hiç Çevrimiçi Olmasanız Bile/
+
+*********************************************************
+***** BÖLÜM III: SİBERPUNK... YAPIYORUM! *****
+*********************************************************
+
+Bölüm 8/ BAŞLANGIÇLAR İÇİN HACK SANATI
+/Bir Çocuğun İlk Korsanlık, Tecavüz ve Casusluk Kitabı/
+
++ Yeni Başlayanlara Tavsiyeler
++ Haqr Mind, Haqr Smarts
++ Eğlence ve Kar İçin Sosyal Mühendislik
+
+Bölüm 9/ GERÇEKTEN İHTİYAÇ DUYDUĞUNUZ DONANIM/YAZILIM
+/Veya Nasıl Sahte Yapılır/
+
++ Bilgisayarlar, Modemler, Şifreleme Programları
++ Artı Son Derece Şık Ekstralar:
+Dizüstü Bilgisayarlar, Heads-up Ekranları, Kişisel İletişim Cihazları,
+Çağrı Cihazları... Veya
++ Bütçenizi Memnun Edecek Gerçekçi Balsa Maketleri
+
+Bölüm 10/ ÇEVRİMİÇİ KİŞİLİĞİNİZ
+/Arkadaş Kazanma, Bilgi Toplama ve Merak Uyandırma
+Uygun Cinsiyet/
+
++ Doğru Başlamak
++ Kewl dot.plan Yazmak,
++ Tasarım a Non-lame dot.sig
++ Konum, Konum, Konum-- Adresinizin Sizin Hakkınızda
+Ne Söylediği.
++ Tutumun Ötesinde-- Ne???
++ Nezaket Kuralları
++ Alev Sanatı
++ Çevrimiçi Denge: Bir ÇAMURDA Soğukkanlı, Bir MOO'da Korkmamış
+
+Bölüm 11/ İFLASTAN NASIL KAÇINILIR
+/Üzgünüm, bu sadece küçük bir şaka/
+
+Bölüm 12/ NEREDE TAKILMALISINIZ
+/Siber Uzayda Soğukkanlı Yerleri Bulmak/
+
++ İnternet Hack'lemeyi Öldürecek mi? Giriş Serzenişi
++ IRC'ler, BBS'ler, MUD'ler, MOO'lar ve MUSE'ler, Özel İlgi
+Grupları, alt.sex.bestiality Hakkında Özel Bir Söz
+
+*********************************************************
+***** BÖLÜM IV: CYBERPUNK... SAHNE *****
+******************************************************
+
+Bölüm 13/ YÜZ YÜZE
+/Seni Etmekten Memnun Muyum?/
+
++ Face2face IRL Persona'nızı Hacklemek
++ Zorunlu Siyah Deri Ceket
++ Deri Pantolonlar?
++ Botlar, Saçlar
++ Giyilebilir Elektronikler: Şık Olan Nedir, Bayat Olan Nedir?
+Ve Düğmeler/Rozetler/Amblemler, Özel Bir Uyarıyla
+StarFleet Ekipmanı Hakkında
++ Sokak Saygınlığı ve Dövüş Sanatları
+
+Bölüm 14/ SON DERECE HAVALI ARAÇLAR
+/Ve Yüksek Teknolojili ToyZ/
+
++ Cep Telefonunuzla Eğlence
++ Lazer İşaretçiniz İçin Yüzlerce Kullanım
++ Laminatör 2: Kimlik Hackleme
++ Neden Bir Sersemletici Silah veya Sinir Gazı Dağıtıcısı veya
+
+TASER Satın Almamalısınız
+
+Bölüm 15/ OYUNLAR!
+
++ Video Oyunları ve Bilgisayar Oyunları
+Hızlı kasılan kas oyunları, keşif oyunları,
+Garip veya X dereceli oyunlar, Tembel bilgisayar oyunları
++ Çevrimdışı oyunlar
+Sihir, Hacker, Cam boncuk oyunu, DD&D
+
+Bölüm 16/ CYBERPUNK YAŞAM TARZI İPUÇLARI
+/Trendler, Favoriler ve Nefret Edilenler/
+
++ İç Dekorasyon İpuçları ve Şık Mobilyalar,
+Eğlenceli Saksı Bitkileri, Çıkartmalar, Posterler ve Logolar
++ Bilgisayar Monitörünüzün Üzerine Ne Koymalısınız ve Neden
++ Nerd çizgi romanları
++ Haqr temel diyeti, akrobasi yiyecekleri ve korkutucu meşrubatlar
++ Berbat olmayan müzik
++ Gerçekten iyi gerekçelendirmeleri olan gıcırtılı/sevimli oyuncaklar
++ Rubik'in hiperküpleri veya Rubik'in dodekahedronları veya Rubik'in
+Diğer garip şekiller ve yüksek teknolojili entelektüel yetişkin
+Şekildeki transformatörler
+İç içe geçmiş halkalar, Zincirler, Bloklar, Helisler ve Platonik
+Katılar, Halkaların, Zincirlerin, Vb. Vb. Diğer Yapılandırmalarına
+Şekil Değiştirir Ama Sadece
+Onları Tam Olarak
+Yaparsanız, Bu Çok Zor
+Ya da İmkansızdır, Ama Toz Toplar, Monitörünüzde Çok
+Yer
+Kapar ve
+Her Baktığınızda
+Size Alay Eder ve Sizi Alay Eder.
+
+*********************************************************
+***** BÖLÜM V: SİBERPUNK... İÇ SAHNE *****
+*********************************************************
+
+Bölüm 17/ SİBERPUNK SIRLARI AÇIĞA ÇIKTI! (Evet, Söz Verdiğimiz Gibi - AÇIKLANDI!)
+
++ Cyberpunk'ların Organlarına Nadiren Delinme Nedeni
++ Cyberpunk'ların E-postalarını Şifrelemelerinin Gerçek Nedeni
++ Cyberpunk'lar O Çöp Kutusunda Sabahın 3'ünde Ne Yapıyorlar
++ Cyberpunk'lar Neden Değişmiş Durumlardan Kaçınıyorlar
++ Nörotoksinlerle Başa Çıkma
++ Bazı Cyberpunk'lar Berbat Olmasına Rağmen Star Trek'i Neden Seviyorlar,
++ Cyberpunk'lar Her Zaman Zayıf ve Yararsız Olanı Aşağıladıklarında
++ Cyberpunk'ların Aslında Hayran Olduğu Şey ve Nedeni
++ Gizli Cyberpunk El Sıkışmaları, İşaretler ve Baş Hareketleri
+
+Bölüm 18/ CYBERPUNK: İÇ OYUN
+/Punk'ın Tao'su; Cyber'ın Gizli Dans Ustaları; Ve Bilmek İstediğiniz Her Şey
+Siber Hakkında Ama
+Sormaya
+Çok
+Sakat
+Olduğumuz/
+
++ Cyberpunk'ın Gizli Hiyerarşisi, Aşağıdan Yukarıya
+
+Bölüm 19/ CYBERPUNK: EBEVEYN TAKDİRİ ÖZELİ
+/Mezhepler ve Politika... ve Tarifler/
+
++ Feragatname ve Tüm Haklardan Feragat
++ Yaş Beyanı >> 21 ve İntihar Karşıtı Bir Anlaşma
+
+************************************************************
+*****BÖLÜM VI: CYBERPUNK... YETERİNCE SİBER MİSİNİZ?*****
+***************************************************************
+
+Bölüm 20/ BU *BİR* ZEKA TESTİ!
+/Cyberpunk Skull-Tweakers ve Eğlenceli Ücretler/
+
++ Tamamen Siber Gizemli Bulmaca
++ O Takma Adı Adlandır! + H.E.C.K.'den Üç Harfli Kısaltmalar Cryptic Bulmaca
+Bulmacalar, Twister'lar ve Max Headroom Anma Bulmacaları
+
+Bölüm 21/ 22/ ve Elbette 23/ SONUÇ SÜRESİ
+/Başarmak mı Yoksa Sahtekarlık mı Yapmak?/
+
+Sizi Hazırlayacak Bir Cyberpunk İncelemesi ve Sonra
+
+******************SON SINAV *****************
+Doğru/Yanlış Değil, Eğriye Göre Not Vermiyoruz,
+Sızlanmayı
+Bırakın.
+......................................................
+***** RESMİ CYBERPUNK HIPNESS KONTROL LİSTESİ *****
+Bunu da Beğenmeyeceksin Ama Bu Senin İyiliğin İçin,
+Punk.
+
+......................................................
+................................................................
+................-..Hepsi Bu Kadar..-.....................
+.................................................. .....
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+EK A: Cyberpunk Değerlendirildi:
+Yapım Aşamasındaki Kariyerler
+
+Siyah Deri, Krom, Aynalı Gölgeliklerin Semiyosis'i
+ve Modemler
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+EK B: ASCII Tabloları
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+......................................................
+......................................................
+......................................................
+......................................................
+
+Şimdi, Metne Hoş Geldiniz....................................
+
+*********************************************************
+*********************************************************************
+************************************************************
+*****
+***** *****
+***** GERÇEK
+*****
+***** SİBERPUNK
+*****
+***** SAHTE KİTAP
+*****
+*****
+*****
+***** St. Jude, R.U.Sirius ve Bart Nagel tarafından
+*****
+***************************************************************
+***************************************************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ BÖLÜM I: +
++ SİBERPUNK...NEDEN?? +
++ Tamam... NASIL??? +
++ +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+==========================================================
+Bölüm 1:
+CYBERPUNK: ZORLU BİR POSTMODERN YAŞAM TARZI SEÇİMİ
+Neden Uğraşalım? Büyük Kazanımlar! (ve Beklenmedik Küçük Şeyler)
+===========================================================
+
+Cyberpunk son derece havalı. Son derece havalı olmak, parası ve gücü olmayan insanlar için son umuttur. Havalı olmak, statü oyununda size büyük
+kazançlar kazandırır. Havalılık, düşmanlarınızı ezebilir ve uygun cinsiyeti çekebilir. En iyisi, siberpunk, bir sonraki büyük şeyden SONRAKİ büyük şeydir. Siberpunk akımına atlayıp uzun, uzun bir süre yolunuza devam edebilirsiniz. Gardırop yenilemelerinde tasarruf edeceğiniz parayı düşünün! Yaşam tarzı kararlarında tasarruf edeceğiniz endişeyi düşünün!
+
+Siberpunk henüz benimsenmedi. Aslında, bu el kitabı, bu havalı yeni yeraltı akımının ilk sömürüsüdür. Bu, zemin kattır. Katılın!
+
+=======================================================
+Bölüm 2: SİBERPUNK'A ULAŞMAK
+Olmak ya da Sahtekarlık
+===========================================================
+
+Siberpunk olmak hakkında bilinmesi gereken ne var? Deri
+ceket, aynalı gözlükler-- bunlar yeterli, değil mi? Bu tür
+kümser gömlekler ÖLMEK zorunda.*
+
+*Bu kitabı aile çevreleri için satın alabilecek
+*ebeveyn birimlerini gücendiremeyeceğimizden, tüm tedirgin fiiller
+*ve isimler ustaca şifrelenmiştir. Bu, gerçek siberpunk ruhuna uygundur, bkz. <<Şifreleme>>.
+
+Siberpunk'ın sadece bir deri ceket, birkaç krom
+çivi ve tamamen yansıtıcı güneş gözlüğü olduğunu mu düşünüyorsunuz? Hepsinin bu kadar olduğunu mu düşünüyorsunuz? Hah! Bunları Kansas City bisikletçilerinde ve
+tüm California Karayolu Devriyesi'nde bulabilirsiniz. Gerçek siberpunk
+dizginli deri bir kolun altına bir *hücresel modem dizüstü bilgisayar* ve üst fermuarlı cebe bir *lazer işaretçi* sıkıştırabilir. Ya da gerçek bir siberpunk
+tıpkı SİZİN gibi görünebilir. Ama bilen kişi söylemez ve söyleyen kişi bilmez.
+
+**Zamir feragatnamesi:
+**Bu kitaptaki tüm zamirler hayatlarına sağlam erkekler olarak başladı--
+**o, onun ve ona. Onlara kötü bir şey olursa
+**sonrasında, Riot Grrrls Bobbitt Squad'ı suçlayın.
+
+Gerçek siberpunk'ın yaşam tarzı ve hedefleri, *tamamen* havalılığa ve gizliliğe adanmış bir yaşamda dikkatlice
+korunan sırlardır. PERDEYİ DELİP o ​​SIRLARI AÇIĞA ÇIKARACAĞIZ.
+Size İÇİMİZDEKİ SİBERPUNK'ı göstereceğiz.
+Bu zorlu yaşam tarzına
+başlamak için bilmeniz gereken her şeyi vereceğiz. Bu
+KOLAY el kitabının sonuna kadar okuduğunuzda, eğer hiplik testini geçemezseniz... eh,
+tekrar okuyun. Ama televizyonunuzun sesini biraz daha açın.
+
+==========================================================
+Bölüm 3: SİBER TİPLERE İLİŞKİN BİR STİL REHBERİ
+Onları Tanımak ve Uyum Sağlamak
+==========================================================
+
+Bir siberpunk genellikle çok fazla elektrona sahip orta sınıf beyaz bir erkek olsa da, siberpunk'ın çeşitli çeşitleri vardır. Tüm türlerin ve türlerin altında yatan Temel Siber Stil, fiziksel donanım ve zihinsel tutuma ayrılır:
+
+--->Temel Siberpunk Donanımı
+basittir. Siyah deri ceket. Botlar. Aynalı gözlükler. Lazer işaretçi. (Neden tüm siberpunkların lazer işaretçiye ihtiyacı olduğunu bilmiyoruz, ancak zorunludur.)
+Size temel siberpunk donanımına dair daha ayrıntılı bir rehber vereceğiz. Daha sonra.
+
+--->Temel Siberpunk Tavrı
+sessiz güvencedir. Bastırılmış kılıç dövüşü. Belki biraz tehdit.
+
+Bu siberpunk temelleriyle tüm alt türlerde gezinebilirsiniz. Ancak
+belirli bir siber alt sahnede alay konusu olmadan veya dövülmeden yerli gibi görünmek istiyorsanız, aksesuarlar takmalı ve
+ayrıntılara çok dikkat etmelisiniz.
+
+>>>>Motorpsycho Maniacs
+Cyberbikers her iki dünyanın gizemini de taşır: yüksek teknoloji ve büyük yağlı gürültülü motorlar. Standart siberpunk kostümü motosiklet sürmek için idealdir ve aynalı kask siber görünüm için büyük bir artıdır--mega robotik havalılık.
+Motosikletler tehlikelidir ve sizi öldürebilir. Bu da havalı.
+
+>>>>Gotikler, Deathcore ve Vampire-Wannabes
+İdeal olarak, bu alt sahne için, bir grup olan The Cure hakkında bilgi sahibi olmalısınız. Uyum sağlamak için saçınızı uzatın ve
+mavi siyaha boyayın. Üzerine <<Aquanet White>> sıkın ki medusa gibi
+çıksın.
+Bir çocuk mağazasına gidin ve plastik dişler satın alın.
+(Karanlıkta parlayan türden olanlar komiktir. Buradaki amaç komiklik DEĞİLDİR.) Tüm cinsiyetler, etini göstermek için açık duran Viktorya dönemi bir gömlek--bluz--beyaz veya siyah--- giymeli. İşkence görmüş, uzun ve zayıf görünmeyi
+pratik etmelisiniz. İdeal olan,
+mavi siyah göz çukurlarına sahip tebeşir beyazı yüz makyajıdır. Blueblack
+makyajı beyaz göz çukurlarıyla denenmemiştir, ancak bir minstrel görünümünden kaçınırsanız çok iyi iş görebilir. Her zaman
+yoğunluk ve işkence düşünün. İşkence... ve ironik bir acı. Kıkırdama veya kıkırdama yok, şaka değil.
+
+>>>>Riot Grrrls!
+Bunlar teknolojiyi seven sert kızlar. Bu cinsiyetçi bir
+kategori, ancak işte buradayız: sadece kızlar. Bir kıza her zaman "d00d" ve "erkek" denebilir, ancak kadın olmayan bir erkek
+kız değildir. İşler böyle yürüyor.
+Eğer bir kızsanız, istediğiniz her şeyi giyebilirsiniz,
+çünkü onu savunmak için oradasınız. Bu herkes için geçerlidir,
+gerçekten-- istediğiniz kadar sert görünün ve bunu desteklemeye
+hazır olun. Sertlik iyidir. Teknoloji uzmanlığına sahip kızlar
+karşı konulamazdır. Şu anda vahşi, ateşli, ninja tipi bir kızdan daha çekici hiçbir şey yok ve eğer UNIX veya telefonsuz
+bir kral biliyorsa, dünya onundur. Hrrrs.
+
+>>>>Teknopaganlar/Ravers/Neohippiler
+Bunun için endişelenmeyin. Bu sahne özgür, sevgi dolu,
+uyumsuz, spontane. Herhangi bir şekilde giyinebilir
+ve hemen uyum sağlayabilirsiniz...
+Tabii havalı görünmüyorsanız.
+
+Belki de temel siberpunk'a sadık kalmalısınız.
+Deri içinde dans etmek çok ateşli ama terlemek havalı görünmemekten daha iyidir.
+Siber ravers olmayanlar geniş şapkaları, beş
+tür ekose ve paisley'i ve çoklu organ piercing'lerini tercih ederler.
+Bazen raver uyuşturucuları alırlar. Bu uyuşturucular sizi gerçekten istediğinizden daha fazla diğer insanlara düşkün yapar. (Sabahki Revulsion akşamdan kalmalıkları iğrenç olabilir.) Bu sahnede, raver uyuşturucuları kullanıyormuş gibi davranmak önerilir ve kolaydır. Gözlerinizi odaklamayın ve sevgiyle gülümseyin. Siyah deri giydiğinizde
+sarılmak konusunda çok fazla endişelenmenize gerek kalmaz.
+
+>>>>Akademik Siber-Adayları
+Öğrenciler, öğretmenler, her neyse, sade giyinin. Sanki her zaman
+bir garaj satışına gidiyormuşsunuz gibi... belki de giydiklerinizi bağışlamak için. Rahat. Kot pantolon, siyah deri ceket, lazer
+işaretçi. Tweed, uyarı ve Birkenshtocken yok. Arthur Kroker, Paul Virilio ve Jean Baudrillard'ın ciltsiz kitaplarını okuyorsanız, bu ciddi olduğunuz anlamına gelir. Mark Leyner ve Kathy Acker'ın ciltsiz kitapları ise ciddiliğin *çok ötesinde* olduğunuz anlamına gelir.
+
+>>>>Cybercowboys/grrrls
+Bu insanların bazıları Teksas veya Oklahoma'dan geliyor. Bu ekipte, siber temellerinize bir kovboy şapkası, kovboy çizmeleri ekliyorsunuz ve varsa saçınızı gerçekten UZUN bırakıyorsunuz. Erkekler yüzlerinde bir yerde saç bırakmaya çalışmalılar.
+
+>>>>Bilim Kurgu Yazarları
+Tam gaz, düz, sert, sürekli bir alaycı bakış. Sadece kafaları çevirmek için, bazı erkek yazarlar Tom Wolfe'un zayıf görünümünü tercih ediyor - mavi ceket ve
+uçlu ayakkabılar. Yine de alay ediyorlar.
+
+>>>>Web Tarayıcıları ve Diğer Burjuva Tipleri
+Bununla pek ilgilenmiyorsunuz, değil mi? İlgileniyor musunuz? WIRED'a abone olun.
+Sonraki.
+
+>>>>Derin Geek:
+Süper İnek, Bilgisayar Korsanı, Büyücü, Telefon Korsanı
+Burada işler zorlaşıyor. Derin geek yazılımları standart dışıdır.
+Çok ağır Büyücüler muhasebeci veya
+sokak insanı gibi görünebilir. Yüz kılları ve Goodwill Casual çok sık olur.
+Bu adamlar deri pantolonla yeterince dans etmedikleri için tombulluk da olur.
+Bu sahnede başarılı olmak için
+gerçekten çok zeki, çok komik veya çok seksi olmanız gerekir.
+En azından kendinizi
+zeki hale getirmek için UNIX öğrenin. Ya da
+2600 dergisini arka cebinizde taşıyın ve onu okuyun.
+Teknik olmayı
+alıştırın. Ancak iyi olana kadar
+siber temellerinizi takın ve lazer işaretçiniz olmadan asla evden çıkmayın. Bu, daha iyisini bilmeyen insanların hayranlığını çekecektir, ki bunun da kendine has ödülleri vardır. Bizi kaçınılmaz olarak
+son kategoriye götürür...
+
+>>>>Sahtekarlar, Pozcular ve Sahtekârlar:
+Kolay Yolu Seçmek
+Şöyle düşünme: plan! Kitap okumayı unut, bilgisayar veya
+ekipman satın alma. Hiçbir şey yapma veya satın alma. Tüm
+paranı
+giysilere ve sanat malzemelerine sakla.
+Kız/erkek arkadaşının hi-tek modellerini birleştirmene yardım etmesini sağla-- bir dizüstü bilgisayarın, kişisel bir
+iletişim cihazının, bir çağrı cihazının, hatta belki de sahte bir sersemletici silahın maketlerine ihtiyacın olacak.
+Gerçekçilik
+anahtardır. Sonra hepsini *tavırla* giy. Gerçek
+olmaktan daha iyisin.
+Gösteriş. Alay etme. 3 aşağılamayı hatırla: güvensizlik,
+saygısızlık, yok etme. Dur, bu doğru değil, değil mi?
+
+Bu kategori hakkında mırıldanmalar olacağını biliyoruz. Pozcu olmanın düşündüğümüz kadar kolay olmadığına dair homurdanmalar.
+Pozcu olmanın çok fazla ek yükü vardır-- endişe içinde, sadece başlangıç ​​için--
+ya <<bir ipucu>> olarak ifşa edilirseniz? Ve taklit etmeniz gereken şeyi yakalamak için
+HOTWIRED Web Sitesine kilitli kalmak? Kahretsin.
+
+___ ___
+| |
+| |
+
+[Billy Idol'ün Fotoğrafı
+Buraya Gelir]
+
+| |
+|__ __|
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ BÖLÜM II: +
++ CYBERPUNK... +
++ +
++ BUNU BİLMEK! +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+==========================================================
+Bölüm 4: Siber Kelime Gücünüzü Oluşturma
+============================================================
+
+Bölüm 1:
+Son Dönemin Kalça Argo Sözlüğü ve
+Yararlı İfadeler
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<<kısaltma>>: Bir ismin veya ifadenin baş harflerinden oluşturulan bir kelime. Örneğin
+TLA. Üç Harfli Kısaltma. Doğru.
+
+<<AFAIK>>: Bildiğim kadarıyla. <<kısaltma>>, <<haqrese>>'de.
+
+<<AI>>: Yapay Zeka. Gerçeğe en yakın şey.
+
+<<aka>>: Ayrıca şu şekilde bilinir. FBI'ın popüler En Çok Arananlar listelerinde türettiği bir kısaltma.
+
+<<alliance>>: <<phreakers>> arasında, telekonferans sistemlerine atıfta bulunan eski bir AT&T ticari markası.
+
+<<anarchist>>: Hükümetlerin özgür insanların varlığına mantıksız bir
+kısıtlama olduğunu düşünen kişi. <<anarşist-şifreleyici>>: Herkesi e-postalarını <<şifrelemeye>> ikna ederek yerleşik düzeni yıkmayı uman bir anarşist.
+
+<<anonimlik>>: HİÇBİR kulp gibi bir kulp yoktur. Tamamen bilinmemek
+izlenemeyeceğiniz anlamına gelir. Belki. E-postanızı veya gönderilerinizi <<remailers>> aracılığıyla geri göndererek
+çevrimiçi olarak anonim olabilirsiniz. Siz kimsiniz? Bunu yalnızca penet.fi
+kesin olarak biliyor.
+
+<<Aquanet White>>: Bu, o BÜYÜK <<goth>> saçlar için gezegendeki en yoğun saç spreyidir. Bu kadar dikkatli olduğunuz için, işte size bir bonus goth
+haiku:
+
+Güneş! Beyaz tenini sakla, koş--
+Yanan, pelerinli, koşuyorum... gündüz gökyüzü!...
+Bulmak zorundayım... Aquanet
+
+<<ASCII>>: Bir <<kısaltma>> için... şey, kimse bunun ne için bir kısaltma olduğunu hatırlamıyor
+ama sadece düz klavye karakterleri anlamına geliyor, senin <<dot.sig>>'in
+yapıldığı gibi. Bu, R.U. Sirius'un ascii sanatıyla işlenmiş bir portresi:
+
+#################
+# ____ #
+# __/=$==\_) #
+# //-OO-\\ #
+# >>( _ )<L #
+# J>>>\ /<<<L #
+#################
+
+Yani çizgi film karakteri Cathy'ye benziyor-- evet,
+ama bu ortamın doğası. St.Jude tam olarak aynı görünürdü,
+sadece şapkası yok. ASCII'de incelikli veya zarif olmak gerçek bir meydan okumadır.
+
+<<attitude>>: Hava atmak. Alay etmek. KÖTÜ olmak. Tavır, tüm primatların düşmanlarını yetersiz hissettirmek için yaptığı şeydir. Bunu aklınızda bulundurun.
+
+<<bah>>: Hoşnutsuzluktan korkunç küçümsemeye kadar tüm haqr olumsuz duygu yelpazesini ifade eder, örneğin <<saçmalık>>'a yanıt olarak.
+
+<<bahaha>>: Haqr kötü kahkahası. Diğer yaygın kötü kahkahalar BYaa-hahah ve
+pchtkwaaahahahaha'dır.
+
+<<bang>>: Ünlem işareti için eski haqr terimi. Bazen bang'ler vurgu eklemek için bir dizi karakterdir: w00t@%$%$@!
+
+<<BBS>>: Bilgisayarlı bir ilan panosu sistemi. Gökyüzünde bir ilan panosu hayal edin. Konu etiketleriyle alt bölümlere ayrılmıştır. Her konu altında görüntülenen kartlar e-posta gönderileridir. Konuşmaları takip etmek için bunları okursunuz. Kendi yorumlarınızı veya itirazlarınızı ekleyebilirsiniz. Bazı panolarda gerçek zamanlı konuşabileceğiniz bir sohbet alanı vardır, bir nevi amatör telsiz gibi. Yeraltı BBS sohbet
+alanları, sıkılmış hacker/phreaker tiplerinin espriler ve hakaretler alışverişinde bulunduğu takılma yerleridir. İyi H/P panolarında, mesleğin araçları hakkında güncel bilgi kütüphaneleri bulunur.
+
+<<beta sürümü, beta testinde>>: En iyi zaman için hazır değil. Bu, program testinin beta aşamasından gelir, bu aşamada hatalar sabırlı kullanıcılardan toplanır ve büyük <<kayıp>> için hazırdır. "Beta'da", hoş olmayan veya çatallanmış her şeyi tanımlayabilir. Gerçekten <<FUBARed>> ise, buna ALPHA sürümü denebilir, bu da programcılar ve şanssız iştirakçiler tarafından hala şirket içinde test edilen yazılımdır.
+
+<<Büyük Oda, The>>: Dışarı çıktığınız, orada tek bir büyük parlak ışık veya başka birçok küçük ışık olan yeri ifade etmek için kullanılır, biliyor musunuz? Şimdi, GİRDİĞİNİZ yer, yeni Büyük Oda - Siber Uzay anlamına geliyor.
+
+<<bogus>>: Gerçek dışı. Gerçek dışı. Bir parodi. Ayrıca, sahte olma durumu olan
+bogosity ve bogon, bir bogosity birimi. Sonra bogometre var...
+
+<<boho>>: Bohem. Karşı-kültürel gibi bir anlama geliyor. Yeraltı.
+Alternatif, siyah giysili insanlarla.
+
+<<boks>>: Ücretsiz telefon görüşmeleri yapmak için bir alet kullanma. Kırmızı Kutu, bir
+anahtar telefonda kayıtlı jetonların tonlarını çalar. Gökkuşağı Kutusu, Hollandalı dostlarımız sayesinde, birçok önceki kutuyu tek bir şeytani
+araçta birleştirir.
+
+<<köprü>>: Telefon şirketinin kendisine yapılan bir <<hack>>, birden fazla
+<<phreaker>>'ın yüksek teknolojili, yasadışı bir parti hattı gibi çapraz konuşmasına izin verir. Telefon şirketinin kendi <<PBX>> sistemlerini sahiplenmek iyi olarak kabul edilir
+<<phun>>.
+
+<<btw>>: Bu arada, <<hackerese>> olarak.
+
+<<carding>>: Sahte veya çalıntı bir kredi hesabından alışveriş yapmak. Fiziksel bir plastik parçası olarak kart, az çok önemsiz hale geldi.
+
+<<bekar>>: Hack yapmayan hacker. Bazen bu,
+<<newtered>> olmuş bir haqr'dır.
+
+<<clueless, a>>: ("evsiz"den benzetmeyle??) Anlamayan ve mahvolmuş olan kişi. <<codez>>: Ücretsiz telefon aramaları yapmanıza olanak sağlayan telefon numaraları ve yetkilendirme kodları.
+
+<<codez kid>>: Hayatındaki amacı ücretsiz telefon aramaları yapmanın yollarını bulmak olan kişi. Birini aramak için korkunç bir şey. <<punk>>'tan çok daha kötü.
+
+<<coldlist>>: Unutulmak için kısa liste. Hotlist'e benzetilerek.
+
+<<Con>>: Kongre veya belki de Konferanstı-- artık kimse umursamıyor.
+Con, haqrz'ların bir araya gelmesidir. Her yıl birkaç tane düzenlenir. En ünlüsü, eski Hac-tic'in Amsterdam'da düzenlediği
+Hacking at the End of the Universe'dir. Sırada Hacking On Planet Earth, HOPE ve Austin TX'te iki kötü şöhretli Con var-- SummerCon, yazın ve HoHoCon, çöz.
+
+<<cookbook guyz>>: Kendi başlarına bir şeyler yapmayı beceremeyen Haqr wannabe'leri. Bilgisayarları veya telefonları hacklemek için prosedürleri kopyalarlar ve
+yemek kitabı kullanmak gibi talimatları izlerler. Herkes bu şekilde
+başlamak zorundadır. Bunu aşın.
+
+<<kültür korsanı>>: Ham maddesi toplumun kendisi olan bir korsan. Kültürün <<memlerini>> çılgınca
+yollara
+sokarak
+bir <<yoldan çıkma>> uzmanı.
+
+<<cracker, kraqr>>: Bilgisayar oyunlarındaki kopyalama korumasını kıran veya diğer insanların bilgisayarlarına
+giren kişi. Veya siber uzaya
+tuhaf yollarla giren kişi. Veya herhangi bir medyayı korsanlar. Bkz. <<korsanlık>> ve <<hack>>
+ve <<spoof>>.
+
+<<kriyonik>>: Vücudunuzu (veya bütçe planında sadece başınızı) dondurmak, böylece
+1. bunu yapabilecekleri ve
+2. sizin gibi donmuş kafalar için bunu gerçekten İSTEDİKLERİ gelecekte bir zamanda
+canlandırılabilmeniz (veya tüm vücut nakli sağlanabilmesi)
+için. Bkz.
+<<gelecek sahtekarlığı>>.
+
+<<kriptografi, kriptoloji>>: Kriptoloji, <<şifreleme>> çalışmasıdır.
+Kriptografi bunu yapıyor. Tam bir özet için <<genel anahtar şifrelemesi>>'ne bakın.
+
+<<siberpunk>>: 1. Siber uzayın bir vatandaşı. 2. Geceleri içeride aynalı gözlük takan bir siber uzay vatandaşı.
+
+<<siber uzay>>: Telefon hatları ve uydularla birbirine bağlanan, düğümleri bilgisayarlar ve insanlar olan gezegensel Ağ. Artık pencerenizin dışındakinden daha gerçek olan bir çevrimiçi meta evren.
+
+<<cyber-yup>>: Bilgi otoyolunda bir turist. Bir <<Netcrawler>>, bir Web
+Tarayıcısı. Sanatçılar ve inekler ana sayfalarını bir nevi işgal ediyor veya kendilerine ait bir yer ediniyorsa, siber-yup'lar kendi sayfalarını yatırım amaçlı mülk olarak oluştururlar.
+
+<<cypherpunk>>: Gizlilik ve çok daha fazla
+şifreleme için savaşan bir gerilla>>.
+
+<<cypherpunks>>: Kriptoloji ve
+kriptografiyle ilgilenen kişilerin bir <<listesi>>.
+
+<<darqside>>: Antisosyal. Kötü. Garip. Sizin yapmayacağınız veya yapamayacağınız şeylere cesaret eden biri.
+
+<<data>>: Bunun çoğul olması gerekiyordu. Bu veriler. Bunlarla
+uğraşmak
+istemiyorsanız, <<information>>'a bakın.
+
+<<deck>>: NEUROMANCER'daki siberpunkların yazıp bağlandığı...
+SİZİN için telefon jaklarına sahip bir klavye gibi.
+
+<<deep geek>>: Deep geek'in özellikleri için Üçüncü Bölüme bakın.
+
+<<defect>>: <<roll over>> to <<narqside>>.
+
+<<detournement>>: Kültürel gasp. Her zamanki bir anlamı olan bir şeyi alıp kendi istediğiniz gibi
+oynatmak. Bir detournement kültürel bir <<hack>>'tir.
+
+<<dharma combat>>: Standartlar ve protokoller üzerinde çekişme, örneğin
+<<IETF>>'de olduğu gibi. Dharma, evrenin işleyiş prensipleri için Budisttir. Birçok <<deep geek>> Budist, Budist olmak isteyen veya
+jack-Budisttir.
+
+<<digital cash>>: Doksanların Felsefe Taşı. Veya belki
+Brooklyn Köprüsü. Ve bununla iyi şanslar.
+
+<<kendin yap>>: Kendin yap. Haqr mind'in bir parçası, Sekizinci Bölüme bak.
+
+<<alan adı>>: Bu, insanların kullandığı eddress'in bir parçasıdır. US Online gibi bir çevrimiçi hizmete abone olursanız, alan adınız
+onların olur. Tüm eddress'iniz, kullanıcı adınız neyse odur -- diyelim ki skulldrool --
+artı sunucunun alan adı, örneğin: skulldrool@usol.com. Üst düzey
+alan adları, Avustralya için .au gibi ülkeler veya şirket için .com, kuruluş için .org, hükümet için .gov, ordu için .mil gibi kategorilerdir, vb. Alan adları satın alınabilir ve belki de hacklenebilirler.
+Örneğin, bir askeri-endüstriyel kompleksim olsaydı, dark.satanic.mil gibi bir adresi hackleyebilirdim.
+
+<<dot.plan>>: Bu, UNIX içindeki ana dizininizde bulunan ve insanların sizi <<parmakla>> okuyabildiği bir dosyadır. Dot.plan dosyanız (aslında sadece
+.plan'dır) kendiniz için reklamlarınızı koyduğunuz yerdir. Tipik bir dot.plan
+bir slogan veya favori bir alıntı ile başlayabilir, örneğin, "Teoride, teori ile pratik arasında
+bir fark yoktur. Ama pratikte vardır."
+Ardından, olabildiğince ilgi çekici ve iltifat dolu bir profil gelir.
+
+<<dot.sig>>: Bu, çevrimiçi imzanız, tüm çevrimiçi görünümlerinizin sonuna
+ekleyebileceğiniz dijital grafiğinizdir. Bir dot.sig genellikle düşündürücü alıntılardan ve ascii grafiklerinden oluşur. Birisi sizin <<dot.plan>>'ınızı almak için sizi
+<<parmaklamak>> zorundayken, herkes sizin gönderilerinizi her okuduğunda veya sizden e-posta aldığında
+dot.sig'inizi görmek zorunda kalır. Dot.sig'inizi kendinizi tanıtan bir reklam panosu olarak düşünün.
+
+St. Jude, R. U. Sirius, Bart Nagel
+
+'in yazdığı The Real Cyberpunk Fakebook'un Project Gutenberg E-Kitabının Sonu.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE REAL CYBERPUNK FAKEBOOK ***
+
+***** This file should be named 929.txt or 929.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/9/2/929/
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
