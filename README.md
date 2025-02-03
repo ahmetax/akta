@@ -36,6 +36,9 @@ Please support our project.
 - Project Gutenberg (36,000 English documents are being translated into Turkish and added to the archive)
 
 ## Gelişmeler
+2025-02-03
+
+20000 belgeyi aştık.
 
 2025-01-19
 
@@ -129,6 +132,10 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
  
 
 ## Developments
+
+2025-02-03
+
+We have exceeded 20000 documents.
 
 2025-01-19
 
