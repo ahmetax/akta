@@ -36,6 +36,12 @@ Please support our project.
 - Project Gutenberg (36,000 English documents are being translated into Turkish and added to the archive)
 
 ## Gelişmeler
+2025-02-09
+
+metadata.jsonl ve akta_metadata_search.py dosyaları eklendi.
+Kütüphane kurulumu: pip install rich unidecode
+Kullanım: python akta_metadata_search.py "Charles Dixon" [--field author]
+
 2025-02-03
 
 20000 belgeyi aştık.
@@ -132,6 +138,12 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
  
 
 ## Developments
+
+2025-02-09
+
+metadata.jsonl and akta_metadata_search.py dosyaları added
+Library installation: pip install rich unidecode
+Usage: python akta_metadata_search.py "Charles Dixon" [--field author]
 
 2025-02-03
 
