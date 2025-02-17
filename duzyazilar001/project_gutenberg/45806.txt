@@ -1,0 +1,4969 @@
+*** START OF AKTAHEADER ***
+Başlık: Faust (Faust)
+Yazar: J. Barbier
+Yayın Tarihi: May 28, 2014 [EBook #45806]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/45806
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: sanat
+*** END OF AKTAHEADER ***
+Project Gutenberg's Faust, by J. Barbier and M. Carre and Charles Gounod
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Faust
+       a Lyric Drama in Five Acts
+
+Author: J. Barbier
+        M. Carre
+        Charles Gounod
+
+Release Date: May 28, 2014 [EBook #45806]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FAUST ***
+
+*** START OF TURKISH PART ***
+Colin Bell, Paul Marshall, Joseph Cooper ve
+Çevrimiçi dağıtılmış düzeltme ekibi
+http://www.pgdp.net
+
+
+
+
+
+
+
+[Transcriber notları:
+      Açık yazım ve eksiklikler düzeltildi.
+      Orijinal metin, İngilizce ve Fransızca olmak üzere iki versiyonu gösterdi.
+        İki sütun formatında, soldaki İngilizce, sağda Fransızca. Bu
+        E-metin önce İngilizce sürümünü listeler, ardından Fransızca
+        sürüm.
+      [OE] ligatürünün yerini basitçe "OE" ile değiştirdi.
+      Kalın metin = eşit işaretlerle çevrilidir = ve italik metin
+        alt çizgilerle çevrili.]
+
+[İllüstrasyon]
+
+                OPERA
+                 Librettos
+
+                  FRANSIZCA
+             Ve İngilizce metin
+     Ve ana havaların müziği
+
+                   Faust
+
+                    İLE
+                  Gavya
+
+  Boston: Oliver Ditson Company: New York
+
+           Lyon & Healy, inc.
+               _Chicago_
+
+          Winthrop Rogers, Ltd.
+                _Londra_
+
+
+
+
+
+Opera puanları
+
+Tüm vokal puanlarının yabancı metinle birlikte İngilizce metni vardır
+Aşağıda belirtildi. Aksi belirtilmedikçe, bu kitaplar
+kağıt.
+
+                                Büyük operalar
+
+   = AIDA = = Giuseppe Verdi = = 2.50 =
+      Dört eylemde. İtalyan metni
+
+   = Bohem kız = = Michael W. Balfe = = 2.00 =
+      Üç eylemde
+
+   = Carmen = = Georges Bizet = = 2.50 =
+      Dört eylemde. Fransızca metin
+
+   = Cavalleria rusticana = = pietro mascagni = = 2.00 =
+      Bir eylemde. İtalyan metni
+
+   = Faust = = charles gounod = = 2.00 =
+      Beş eylemde. Fransızca metin
+
+   = Lakme = = leo şarküteri = = 3.00 =
+      Üç eylemde
+
+   = Maritana = = William Vincent Wallace = = 2.50 =
+      Üç eylemde
+
+   = Mignon = = ambroise thomas = = 2.50 =
+      Üç eylemde. İtalyan metni
+
+   = Samson ve Delilah = = Camille Saint-Saens = = 2.50 =
+      Üç eylemde
+
+   = Trovatore, il = = giuseppe Verdi = = 2.00 =
+      Dört eylemde. İtalyan metni
+
+
+                                Işık Operaları
+
+   = Corneville çanları,;
+      veya Normandiya Çanları =
+       Üç eylemde = Robert Planquette = = 2.50 =
+
+   = Billee Taylor; veya erdem ödülü =
+       İki eylemde = Edward Solomon = = 1.50 =
+
+   = Boccaccio; veya Palermo Prensi =
+       Üç eylemde = Franz von Suppe = = 2.50 =
+
+   = Alcantara Doktoru, =
+       İki eylemde = Julius Eichberg = = 1.50 =
+
+   = Fatinitza = = Franz von suppe = = 2.50 =
+       Üç eylemde. Alman ve İtalyan metni
+
+   = Martha = = Friedrich von flotow = = 2.50 =
+       Dört eylemde. Alman ve İtalyan metni
+
+   = Maskot, = = Edmond Audran = = 2.50 =
+       Üç eylemde
+
+   = Olivette = = Edmond Audran = = 2.00 =
+       Üç eylemde
+
+   = Pinafore, H.M.S.; ya da lass
+      Bir denizciyi sevdi =
+      İki eylemde = Sir Arthur Sullivan = = 1.50 =
+
+   = Büyücü, = = Sir Arthur Sullivan = = 1.75 =
+       İki eylemde
+
+   = Stradella = = friedrich von flotow = = 2.00 =
+       Üç eylemde
+
+  Açıklayıcı Dairesel P-ORATORIos, Cantatas,
+  Operalar ve operetler.
+
+    Oliver Ditson Şirketi
+
+
+
+                        Faust
+
+           _A beş eylemde lirik drama_
+
+                        Rezerve etmek
+               J. Barbier ve M. Carre
+
+                       Müzik
+                    Charles Gounod
+
+                          30
+
+
+        Boston: Oliver Ditson Company: New York
+
+ Chicago: Lyon & Healy, Inc. Londra: Winthrop Rogers, Ltd. Oliver Ditson Company tarafından telif hakkı MCMVI
+
+
+
+
+                       Karakter
+
+  Faust _tenor_
+  Mephistopheles _bass-bariton_
+  Valentine, Marguerite'nin Kardeşi _Baritone_
+  Wagner, bir öğrenci _Baritone_
+  Marguerite _soprano_
+  Siebel, bir gençlik _soprano_
+  Martha, Marguerite'nin Arkadaşı _Mezzo-soprano_
+
+  Köylüler, kasaba halkı, askerler, öğrenciler, rahipler, erkekler, vb.
+         Sahne on altıncı yüzyılda Almanya'da.
+
+
+
+
+Öngörücü not
+
+Sihirbaz Faust'un efsanesi ve şeytanla kompakt geliyor
+uzak antik çağdan. İlk başta birçok insanın masalları şeklinde
+topraklar, balladlar ve ilkel drama yoluyla
+edebiyat. Master Poet, Goethe'nin tümünü kaynaştırması için kaldı
+Eşzamansız etikin yaratıcı bir dramasına efsanenin unsurları
+ve şiirsel ilgi, hikayeye hitap ettiği biçimi vermek için
+en güçlü şekilde modern zihne.
+
+Her formun sayısız müzik eseri ilham aldı.
+Faust hikayesi. Wagner'in konserleri, Liszt'in senfonisi ve
+Schumann'ın güzel parçaları böyle en asiller arasındadır.
+çalışır. Efsanenin sahne versiyonları çoktur, ancak birincisi
+Gerçekten şiirsel yaratım, 1813'te bestelenen Spohr'ın "Faust" operası idi.
+Görünüşünden beri çok sayıda Faust operası
+İngilizce, Almanca, Fransızca ve İtalyan bestecileri yaratıcıdan aşağı
+ama Boito'nun (1868) parçalı "mefistofele". Ama tüm sahne
+halkın dikkatini çeken versiyonlar, Barbier ve
+Charles Gounod tarafından Goethe'nin draması ve müziğe ayarlandıktan sonra yapılan Carre,
+Uzak ve uzakta en popüler ve lirik elbisesinde kabul edilebilir,
+en başarılı olan gibi. Nadiren tek bir rakip var
+Gounod'un "Faust" nun opera müdavimleri arasında popülaritesi.
+
+Fransız librettistlerinin kendilerini ilgilendirdikleri aşk hikayesi
+Yalnızca Goethe'nin anlayışıdır ve
+Sihirbaz Faust ile ilgili eski efsaneler. Gerçek Galya içgüdüsü ile
+Bu acıklı bölümü bir lirik için en iyi uyarlanmış olarak ele geçirdiler
+belirleme ve duygularına en güçlü cazibeyi yapmak
+seyirciler. Ancak bestecinin kendisi için öne sürülmesi
+Müzik tedavisi için uygun bir konu olarak Faust'un hikayesi.
+
+
+
+
+Eylemin hikayesi
+
+
+Yasa I.-Yaşamdan yorgun olan yaşlı bir filozof olan Faust ve
+Tüm bilginin kaynağı için boşuna arama, karar verir,
+Gece boyunca nöbet, zehir alarak varlığını sona erdirmek için. Harekette
+bardağı dudaklarına yükseltme, eli sesi tarafından tutuklandı
+Sevincinin sabahının erken saatlerinde şarkı söyleyen kızların neşeli sesleri
+yaşamak. Yine içmeyi deniyor, ancak şarkısını dinlemek için duraklıyor
+Alanlara giderken, minnettarlıklarını dile getirenler
+Tanrı. Bir öfke çılgınlığı için heyecanlı olan Faust, iyi olan her şeyi lanetliyor ve
+Kötü olanı ona yardım etmeye çağırır. Mephistopheles görünür ve sunar
+altın, zafer, sınırsız güç; Ama yaşlı doktor gençliği canlandırıyor,
+tutkular ve lezzetler. Fiend, eğer o olacağını kabul eder
+Ama Şeytan'ın dünyada Faust'a hizmet ettiği bir kompakt imzalayın, ancak
+Ahiretin altındaki ilişkinin tersine çevrilmesidir. Faust sallanıyor
+Birincisi, ama esirini alevlendiren bir Marguerite vizyonu ortaya çıkıyor ve
+Tereddütünü ortadan kaldırıyor; İksiri içiyor ve bir
+Genç ve yakışıklı adam.
+
+
+Yasa II.-Bir Kermesse veya Town Fuarı. Öğrenci grupları, askerler, eski
+Erkekler, hizmetçiler ve matronlar sahneyi doldurur. Valentine, kardeşi
+Marguerite, savaşlara ayrılmak üzere, kız kardeşini
+Ona tapan Siebel'in bakımı. Bir öğrenci olan Wagner
+Bir şarkı denemek, gönüllü olan mephistopheles tarafından kesintiye uğradı
+Ona daha iyi bir tane söylemek için (alaycı "altın buzağı"). O zaman şeytan
+ateşli bir likörün taverna işaretinden mucizevi bir şekilde akmasına neden olur ve
+Marguerite sağlığını önerir. Valentine hakarete kızıyor, ama
+Kılıcı elinde kırıldı ve Mephistopheles bir sihir çiziyor
+Kendi etrafında daire çizin ve askerlerin rapçilerine meydan okuyor.
+Bunlar, şimdi kötü doğasından şüphelenen, haçlı kılıç şapkalarını tutuyor
+Kutsal sembolü kovan Mephistopheles'e doğru. Fete
+devam etti; Revelry Marguerite'nin ortasında eve döner
+kiliseden. Faust evine eşlik etmeyi teklif ediyor, ama o çekingen bir şekilde düşüyor
+onun yardımı ve onu güzelliğine aşık bırakıyor. Yasa kapanıyor
+kasaba halkının neşeli bir dansı ile.
+
+
+Yasa III.-Sahne Marguerite'nin konutunun bahçesini gösteriyor. Siebel
+Charmer'ın kapısına bir burun bırakmaya girer. Çiçekler
+Onun üzerine dökülen kötü bir büyü nedeniyle dokunuşuna soluyor.
+Bununla birlikte, elini kutsal suya daldırarak kırılır.
+Faust ve Mephistopheles, sahip olduktan sonra kendilerini bahçede gizler
+Siebel'in mütevazı teklifinin yakınındaki kapıya bir mücevher tabutu bıraktı.
+Marguerite eve döner ve kendini eğirme tekerleğine oturur,
+"Thule Kralı" nın bir şarkısını söylerken. Ama kesiyor
+onunla konuşan yakışıklı yabancıyı hayal etmek için
+Fete. Mücevherleri keşfettikten sonra, kendini süslemeyi yasaklayamaz.
+Bu şekilde işgal ederken, Faust ve onun kötü müttefiki ortaya çıkar. İkincisi devreye girer
+Sohbette kızın uçan komşusu Martha, Faust
+Marguerite ile tutkusunun nedenini başarılı bir şekilde yalvarır.
+
+
+Yasa IV.-Sevgilisi tarafından ihanete uğramış ve terk edilmiş olan Marguerite,
+eski arkadaşlarının küçümsemesi. Tek başına siebel sadık ve konuşuyor
+rahatlatıcı kelimeler. Dua etmek için kiliseye gider; Ama onun
+dirseğinde alaycı bir şeytan, suçlayan tarafından kesintiye uğradı
+iblis çığlıkları ve ibadetçilerin sert tezahürleri tarafından. Nihayet
+Mephistopheles, Swoons Swoons Sefil Kızın Görüşüne Görünüyor
+terörle.
+
+Muzaffer askerlerin geri dönüşü Valentine'i geri getiriyor.
+Kız kardeşinin durumunun kötü hikayelerini duyar. Bir hakaretle uyandırıldı
+Mephistopheles, Faust'un eşlik ettiği serenat, altında şarkı söylüyor
+Marguerite'nin penceresi, Valentine ikincisi ile bir düello yapıyor ve
+ölüme yaralandı. Ölüyor, Marguerite'i lanetliyor,
+Kilise yanına ve onu sonuna getirmekle suçluyor.
+
+
+Act v.-Marguerite, talihsizlikleri tarafından sarsılan nedeni öldürdü
+çocuğu ve bu suç için hapse atıldı ve kınandı
+ölmek. Mephistopheles'in yardım ettiği Faust, hücresine erişim elde eder
+ve onu onunla uçmaya çağırıyor; Ama zavallı zihni onu kavrayamaz
+durum ve sadece aşklarının sahnelerini tekrarlar. Gördüğünde
+Faust'un arkadaşı, korku içinde ondan dönüyor, dizlerinin üzerine düşüyor,
+ve cennetin merhametini uygular. Ölümde batarken, mephistopheles
+Onun lanet olası onu telaffuz eder, ancak cennetsel bir ses affedilmiş ilan eder; Ve
+Göksel bir koro Paskalya ilahisini tezahür ettirirken Marguerite'nin ruhu
+Melekler tarafından cennete taşınan görülür. Faust dizlerine düşer ve
+Şeytan bir başmeliğin parlayan kılıcı altında çömelir.
+
+İlk olarak The Theatre Lyrique'de sahne aldı, Paris, 19 Mart 1859,
+Aşağıdaki oyuncularla:
+
+  Le Docteur Faust _mm. Barbot_
+  Mephistopheles _balanque_
+  Valentin _reynald_
+  Wagner _cibot_
+  Marguerite _mmes. Miolan-Carvalho_
+  Siebel _faivre_
+  Martha _duclos_
+
+
+
+
+Yasa I.
+
+
+Sahne I.
+
+_Faust çalışması._
+
+(Gece. Faust keşfetti, yalnız. Kaplı bir masaya oturdu
+kitaplar ve parşömenlerle; Açık bir kitap onun önünde yatıyor. Onun lambası
+sokette titriyor.)
+
+_Faust._ Hayır! Boşuna ruhum arzulandı, ateşli özlemle,
+         Hepsi bilmek,-hepsi yeryüzünde ve cennette. Hiçbir ışık vizyonları aydınlatmaz, her zaman tahttan
+         Beynim; Barış verilmez,
+         Ve ben oyalanıyorum, bu yüzden üzgün ve yorgun,
+         Zinciri güneşlendirme gücü olmadan
+         Ruhumu hayata bağlamak her zaman kasvetli.
+         Boş görüyorum görüyorum! Naught biliyorum!
+    (Kitabı kapatır ve yükselir. Gün şafak kalmaya başlar.)
+
+         Yine 'ışık!
+         Batıya doğru uçuşta,
+         Kasvetli gece kaybolur.
+                    (Umutsuzca.)
+         Yine yeni bir günün ışığı!
+         Ey ölüm! ne zaman tuhaf kanatlar
+         Üstümde havada kalıyor ve ver-rest mi?
+
+                (Masaya bir şişe ele geçirme.)
+         Öyleyse! Ölüm bu yüzden benden kaçtığından beri
+         Neden onu aramamalıyım?
+         Dolu, son günüm, tüm dolu!
+         Kalbimin saldırısından korkmaz;
+         Dünya'da günlerim numaram;
+         Bu taslak ölümsüz uyku için
+         Beni güvence altına alacak ve özen gösterecek!
+
+    (Şişeden sıvı bir kristal kadeh içine döküyor. Tıpkı olduğu gibi
+Dudaklarına yükseltmek üzereyken, aşağıdaki koro olmadan duyulur.)
+
+_Cho. Maidens._ Neden gözlerin bu kadar parlak
+         Görüşten en çok sen?
+         Bright Sol Now Scatt'ring
+         Altın ışık kirişleri;
+         Bülbül Çarpıyor
+         Aşk Carol;
+         Sabahın pembe renkleri
+         Şimdi yukarıdan parlıyor;
+         Flow'rs güzelliklerini ortaya çıkarır
+         Kokulu gale;
+         Doğa hepsi uyanır--
+         Aşk hikayesini anlatır.
+
+_Faust._ Bu nedenle, insan sevinçlerinin boş sesleri
+         Benden uzak kaç.
+         Ey atalarım
+         Birçok kez doldu
+         Neden benim kavrayışımda en titreme?
+              (Yine kadehi dudaklarına yükseltiyor.)
+_Cho. İşçilerin
+                    (olmadan).
+         Bizi çağırıyor, tarlalara sabah
+         Yutmak hızlanıyor!
+         O zaman neden katran?
+         İşçi Partisi için uzaklaşalım! çalışalım hadi,
+         Gökyüzü parlak, dünya adil,
+         O zaman haraçımız, heav'n için ödeme yapalım.
+
+_Cho. kızlıklar ve işçiler ._
+         Tanrı'ya övgü!
+
+_Faust._ Tanrım! Tanrı!
+              (Bir sandalyeye batıyor.)
+         Ama bu Tanrı, benim için ne yapacak?
+                      (Yükseliyor.)
+         Bana gençlik, sevgi ve inanç geri dönecek mi?
+                    (Öfke ile.)
+         Lanet olsun tüm insanın aşağılık yarışı!
+         Onu yerine bağlayan zincirler lanet olsun!
+         Lanet olsun vizyonlar yanlış, aldatıcı!
+         İnanmanın çılgınlığını lanetledi!
+         Lanet olsun aşk ya da nefret hayalleri!
+         Sevinç Elate ile ruhlar olacak.
+         Lanet olsun bilim, dua ve inanç!
+         Hayat ve ölümdeki kaderimi lanetledim!
+              Infernal King, Orise!
+
+            * * * * * *
+
+
+Sahne II.
+
+Faust ve Mephistopheles.
+
+_Mep._
+               (aniden ortaya çıkıyor).
+         İşte ben! Yani seni şaşırtıyorum?
+         Şeytan, efendim, hizmetinizde!
+         Yanımda bir kılıç; şapkamda eşcinsel bir tüy;-
+         Omzum bir pelerin; Ve tamamen,
+         Neden, modaya geçti!
+                     (Hızlı.)
+         Ama gel, Doktor Faust, iraden nedir?
+         Bak! Konuşmak! Benden korkuyor musun
+
+_Faust._ Hayır.
+
+_Mep._ Gücümden şüphe ediyor musunuz?
+
+_Faust._ belki.
+
+_Mep._ Bunu kanıtlayın.
+
+_Faust._ BEGONE!
+
+_Mep._ Fie! Fie! Bu senin nezaketin mi!
+         Ama öğrenin dostum, Şeytan ile
+         Kişi farklı bir şekilde yürütülmelidir.
+         Kapağına sonsuz bir sorunla girdim.
+         Beni aynı gün çıkarır mısın?
+
+_Faust._ o zaman benim için ne yapacaksın?
+
+_MEP._ Dünyadaki herhangi bir şey! Her şey. Ancak
+         Önce sahip olacağınızı söyle.
+         Altın bolluğu?
+
+_Faust._ ve zenginliklerle ne yapabilirim?
+
+_Mep._ İyi. Ayakkabının nerede sıkıştığını görüyorum.
+         Zafer olacak.
+
+_Faust._ hala yanlış.
+
+_Mep._ Güç, sonra.
+
+_Faust._ Hayır. Bir hazinem olur
+         Tümü içerir. Gençlik diliyorum. Ah! Zevk alırdım
+         Ve aşk ve okşayışlar,
+         Gençlik için mevsim
+         Sevinç en etkileyici olduğunda.
+         Bir tur zevk,
+         Bir zevk sahnesi,
+         Benim işim olmalı
+         Direk şafaktan geceye.
+         Oh, zevk alırdım
+         Ve sevgi ve okşama;
+         Beni geri yükliyorsan genç
+         Sevinçlerim yenileyeceğim!
+
+_Mep._ 'bu iyi-sana verebileceğim her şey.
+
+_Faust._ ah! Ama karşılığında ne vermeliyim?
+
+_Mep._ 'bu ama küçük:
+         Bu dünyada köle olacağım
+         Ama aşağıda benim olmalısın.
+
+_Faust._ Aşağıda!
+
+_Mep._ Aşağıda.
+                  (Bir kaydırma açma.)
+         Gel, yaz. Ne! Elin titriyor mu?
+         Bu korkunç korku nerede?
+         `` Seni bekleyen gençlik--Hold!
+
+(Mephistopheles'in bir işaretinde sahne açılıyor
+ve Marguerite'i açıklar, döner.)
+
+_Faust._ Oh, merak ediyorum!
+
+_Mep._ Peki, nasıl hoşunuza gitti?
+                 (Parşömen alıyor.)
+_Faust._ bana kaydırmayı ver!
+                     (İşaretler.)
+_Mep._ Hadi! Ve şimdi usta,
+                  (Masadan fincan alarak.)
+         Seni bir fincanı boşaltmaya davet ediyorum
+         Ne zehir ne de ölüm var,
+         Ama genç ve güçlü bir yaşam.
+
+_Faust._
+               (Kupa alıp Marguerite'e doğru dönüyor.)
+         Ey güzel, sevimli vizyon! Sana içiyorum!
+
+    (Kupanın içeriğini içiyor ve dönüştürüldü
+  genç ve yakışıklı bir adam. Vizyon kaybolur.)
+
+_Mep._ Gel, o zaman.
+
+_Faust._ Söyle, tekrar ona bakalım mı?
+
+_MEP._ Kesinlikle!
+
+_Faust._ ne zaman?
+
+_Mep._ Bu gün!
+
+_Faust._ 'bu iyi.
+
+_Mep._ O zaman uzaklaşalım.
+
+_Both._ 'bu zevkim covet,
+         `` Bu güzellik can atıyorum;
+         Öpücükleri için iç çekiyorum
+         Aşkını talep ediyorum!
+         Ardor unwayled ile
+         Şimdi yakmak için çok uzun;
+         Rapture için iç çekiyorum
+         Kalp ve duyu.
+
+               (Exeunt. Perde düşüyor.)
+
+
+
+
+Yasa II.
+
+
+Sahne I.
+
+_The Kermesse._
+
+  (Şehir kapılarından biri. Solda, bir han,
+    Tanrı Bacchus'un işaretini taşıyan.)
+
+  Wagner, öğrenciler, burgerler, askerler, bakireler ve olgunlar.
+
+_Studs._ Şarap veya bira, şimdi yapacaksın!
+         Yani doldurduğunuz cam hızlı!
+         Ve ihtiyacımızla yenilenir:
+         Bizim maçlarımızda hızla içiyoruz!
+
+_WAG._ Şimdi, genç fıçıda gençler,
+         Ne istediğimi reddetme--
+         Zafer için iç! Sevmek için iç!
+         Köpüklü camı boşaltın!
+
+_Studs._ Biz fıçıda genç uçlar
+         Ne istediğini reddetmeyecek
+         İşte zafer! İşte sevmek için!
+         Köpüklü camı boşaltın!
+                   (İçiyorlar.)
+
+_Soldiers._ Kaleler, Kalpler veya Kaleler,
+              Hepimiz için.
+            Güçlü kuleler, adil saçlı hizmetçiler,
+              Cesur tarafından kazanılır;
+            O, onları almak için sanata sahip olan,
+              Çok az beceri göstermez;
+            O, onları tutmanın yolunu bilen,
+              Hala daha bilgelik.
+
+_Citizens._ kutsal günlerde ve bayram günlerinde,
+         Savaş ve savaştan bahsetmeyi seviyorum.
+         Toiling kalabalıkları etrafta
+         Beyinlerini işlerle endişelendirin
+         Bu geri çekilmeye sakince dolaşıyorum
+         Kayma nehrinin kıyısında,
+         Ve geçen teknelere bak
+         Ben camımı yavaşça boşaltırken.
+
+             (Vatandaşlar ve askerler sahnenin arkasına gidiyorlar.)
+             (Bir grup genç kız girer.)
+
+_Girls._ Merry Fellows bu şekilde gelir,
+         Evet, şimdi ilerliyorlar;
+         O zaman adımlarımız geciktirelim,
+         Sadece bir bakış atmak için.
+
+       (Sahnenin sağına gidiyorlar.
+        İkinci bir öğrenci korosu onlardan sonra girer.)
+
+_Studs._ Sprightly Maidens şimdi ilerliyor,
+         Fethetme havalarını izleyin;
+         Arkadaşlar korunur, bir bakış
+         Seni habersiz al.
+
+_Matrons._
+             (Öğrencileri ve genç kızları izlemek). Aptal küçük hanımlar
+         Ve aptal genç adamlar;
+         Bir zamanlar oldukları kadar gençtik,
+         Ve yine güzel.
+   (Hepsi aşağıdaki koroya katılır, her biri aşağıdaki gibi şarkı söyler.)
+
+_Mats._ (Kızlıklara).
+            Memnun etmek için çok uğraşıyorsun
+            Nesneniz düz.
+
+_Studs._ bira veya şarap, şarap veya bira,
+            Naught Care I, neşe kalbi ile.
+
+_Soldiers._ açık;
+            Cesur askerler biz
+            Fethetmek için devam edeceğiz.
+
+_Citizens._ Gel, komşu! Bu güzel havada
+            Bir şişe birlikte boşaltalım!
+
+_Maidens._ bizi memnun etmek istiyorlar, ama bu boşuna!
+            Eğer kızgınsan, çok az kazanacaksın.
+
+_Young öğrencileri.
+                  Kazanmak için onların lehine ikna edeceğiz.
+
+    (Askerler ve öğrenciler gülüyor, kadınları ayırıyor.
+       Tüm gruplar ayrıldı.)
+
+            * * * * * *
+
+
+Sahne II.
+
+  Wagner, Siebel, Valentine, öğrenciler ve daha sonra Mephistopheles.
+
+_Val._
+   (Sahnenin arkasından ilerlemek ve elinde tutarak
+  küçük bir gümüş madalya).
+         Ey kutsal madalyon,
+           Kız kardeşimin hediyesi canım
+           Tehlikeyi ve korkuyu önlemek için,
+         Cesur taburumla şarj ederken,
+           Kalbimin üzerinde dinlen.
+
+_WAG._ İşte Sevgililer Gelen, Bizi aramak için şüphesiz.
+
+_Val._ Ayrılma Kupasını, Yoldaşları Boşaltalım,
+         Yolda olma zamanı geldi.
+
+_WAG._ Ne diyorsun?
+         Neden bu kederli veda?
+
+_Val._ Senin gibi, yakında bu sahneleri bırakmalıyım,
+         Arkamda bırakılıyor Marguerite.
+         Ne yazık ki! Annem artık yaşamıyor
+         Ona bakmak ve korumak için.
+
+_SIE._ Birden fazla arkadaş sen
+         Kim sadakatle.
+
+_VAL._ Teşekkürler!
+
+_Sie._ bana güvenebilirsiniz.
+
+_Stud._ ABD'de kesinlikle güvenebilirsin.
+
+_VAL._ En cesur kalp bile şişebilir
+         Veda anında.
+         Kardeş türünün sevgi dolu gülümsemesi,
+         Sessiz ev geride bırakıyorum.
+         Sık sık seni düşünüyorum
+         Şarap fıçısı geçerken ne zaman
+         Yalnız olduğunda saatim saklıyorum.
+         Ama zafer tehlikesi beni arayacaksa,
+         Hala fray'da ilk olacağım
+         Gelin dizisinde bir şövalye gibi.
+         Dikkatsiz Bana hangi kader olacak
+         Glory beni ne zaman arayacak.
+
+_Wag._ hadi arkadaşlar! Gözyaşı veya boşuna alarm yok;
+         Quaff biz iyi şarap, kollarımızın başarısı!
+         İçki, çocuklar, iç!
+         Neşeli bir kaçın
+         Tekrar buluşana kadar veda et.
+
+_Cho._ İçeceğiz! Yüksek doldur!
+         Seslerimiz Şarkıya Bir kez daha
+         Yükseltelim.
+
+_Wag._
+             (bir masaya monte etmek).
+         Bir sıçan, cesurdan daha korkak,
+           Ve son derece çirkin bir kafayla,
+         Bir tür delik veya mağaraya yerleştirilmiş,
+           Eski bir hogshead altında.
+           Bir kedi--
+
+            * * * * * *
+
+
+Sahne III.
+
+Mephistopheles ve önceki.
+
+_Mep._
+ (Öğrenciler arasında aniden ortaya çıkıyor ve Wagner'ı kesintiye uğratıyor).
+         İyi efendim!
+
+_Wag._ Ne!
+
+_Mep._ Eğer öyleyse lütfen diliyorum
+         Kısa bir süre ile karışmak için.
+         Eğer iyi arkadaşın şarkısını nazikçe bitirecekse,
+         Duruşmaya değer birkaç şey söyleyeceğim.
+
+_Wag._ biri yeterli olacak, ama bunun iyi olmasına izin verin.
+
+_Mep._ En iyi yapacağım
+         İbadetleriniz sıkılmamaya.
+
+                        BEN.
+         Altın buzağı! Evet tüm dünyada
+         Senin kudretine teklif ediyorlar,
+         FANE'DA TÜMLEYİ TEKLİ
+         Tüm dünyanın uçtan uca.
+         Ve idolün onuruna
+         Her yerde krallar ve halklar
+         Jingling sikkelerinin sesine
+         Festival Circle'da gayretle dans et,
+         Kaide hakkında yuvarlak.
+         Şeytan, topu yürütüyor.
+
+                        İi. Altın buzağı, aşağıdaki en güçlü tanrı!
+         Tapınağına taşan
+         Aşağılık şekli eğilmeden önce kalabalıklar,
+         Canavar gökyüzüne hakaret ediyor.
+         Hor görme ile etrafını görüyor
+         Tüm Vaunted İnsan Yarışı,
+         Tahliye kaçarken çabalarken,
+         Ruhların debaksiyonunda olduğu gibi,
+         Kaide hakkında yuvarlak.
+         Şeytan, topu yürütüyor.
+
+_All._ Şeytan, topu yürütüyor.
+
+_Cho._ Garip bir hikaye.
+
+_Val._
+                 (bir kenara).
+         Ve onu söyleyen O Stranger.
+
+_Wag._
+          (Mephistopheles'e bir fincan sunmak).
+         Şarap alarak bizi onurlandıracak mısın?
+
+_Mep._ Zevkle. Ah!
+      (Wagner'i elinden alıp avucunu incelemek.)
+         Beni görmem için üzen şey.
+         Bu satıra baktın mı?
+
+_Wag._ iyi!
+
+_Mep._ Ani bir ölüm,-
+         Saldırı ile birlikte öldürüleceksiniz!
+
+_SIE._ O zaman bir büyücüsün!
+
+_Mep._ Öyle bile. Ve kendi elin açıkça gösteriyor
+         Kaderin kınadığı şey. Hangi çiçeği toplayacaksın
+         Kavrada solmalı.
+
+_Sie._ i?
+
+_Mep._ Marguerite için artık buket yok.
+
+_VAL._ Kız kardeşim! Onun adını nasıl tanıyorsun?
+
+_Mep._ Kendine iyi bak, cesur adamım!
+         Tanıdığım biri seni öldürmeye mahkum.
+
+                (Kupayı almak.)
+         Sağlığınız, beyler!
+         Pah! Ne sefil şarap!
+         Mahzenimden sana biraz teklif vermeme izin verin?
+
+       (Masaya atlar ve küçük bir fıçı üzerine grev yapar,
+         Tanrı Bacchus'un effigy tarafından üstesinden geldi,
+         Han için bir işaret görevi görür.)
+
+         Ne! Sen şarap tanrısın, şimdi bize içki ver!
+          (Şarap fıçıdan fışkırıyor ve
+           Mephistopheles kadehini doldurur.)
+         Yaklaşım, dostlarım!
+         Her biri onun beğenisine hizmet edilecektir.
+         Sağlığınıza, şimdi ve ahiret!
+         Marguerite!
+
+_VAL._ Yeter! Onu susturmazsam
+         Ve bu anında öleceğim.
+             (Şarap aleve dönüşüyor.)
+
+_Wag._ hola!
+
+_Cho._ hola!
+             (Kılıçlarını çiziyorlar.)
+_Mep._ Ah, ha! Neden titriyorsun, sen beni tehdit eden sen?
+
+       (Kılıcıyla etrafına bir daire çiziyor.
+           Sevgililer Saldırıları; Kılıcı kırıldı.)
+
+_Val._ Kılıcım, ya şaşkınlık!
+         Parçalanır.
+
+_Tüm_
+    (Mephistopheles'i ona doğru tutarak emekli olmaya zorlamak
+       kılıçlarının çapraz şekilli kulpları).
+
+         Silahlarımızın kötülüğünün güçlerini kazanın,
+         En güçlü dünyevi kudret yoktur.
+         Ama bizi cazip hale getiremezsin
+         Bak!
+         Bu kör işaret giyerken giyiyoruz
+         Bize zarar veremezsin.
+
+                   (Exeunt.)
+
+            * * * * * *
+
+
+Sahne IV.
+
+Mephistopheles, sonra Faust.
+
+_Mep._
+                (kılıcını değiştiriyor).
+         Anon ile tanışacağız, iyi efendim,-Adieu!
+
+_Faust_
+                   (girer).
+         Neden, ne oldu?
+
+_Mep._ Oh, hiçbir şey! Konuyu değiştirelim!
+         Söyle, Doktor, senden ne olurdu?
+         Neye başlayacağız?
+
+_Faust._ nerede güzel hizmetçiyi bağlar
+         Sanatın bana mı gösterildi?
+         Yoksa sadece büyücülük miydi?
+
+_Mep._ Hayır, ama erdem onu ​​senden koruyor,
+         Ve cennetin kendisi onu saf tutardı.
+
+_Faust._ önemli değil!
+         Gel beni ona götür
+         Ya da seni doğrudan terk ediyorum.
+
+_Mep._ O zaman uyacağım! 'Twere yazık düşünmelisin
+         Bu yüzden sahip olduğum sihirli güç.
+         Sabırlı olun! Ve bu neşeli melodiye.
+         Doğru eminim, kızlık görünecek.
+
+            * * * * * *
+
+
+Sahne V.
+
+    ;
+  Sahneye sahip olun. Arkadaki burghers,
+  Kanunun başlangıcında olduğu gibi.)
+
+  Öğrenciler, bakireler, burgerler, vb. Daha sonra Siebel ve Marguerite.
+
+_Cho._
+             (Waltz zamanını ayaklarıyla işaretlemek). Sportif oynayan rüzgar gibi,
+         İlk başta sadece toz yükseltti,
+         Yine de, sonunda bir gale olur,
+         Yani bizim dansımız ve şarkılarımız,
+         İlk başta yumuşak, sonra yüksek sesle çalıyor,
+         O'er Hill ve Dale'i yankılayacak.
+
+   (Müzisyenler masaya monte ve dans başlar.)
+
+_Mep._
+                (Faust'a).
+         O güzel genç bakireleri görün.
+         Onlardan sormayacak mısın
+         Seni kabul etmek için?
+
+_Faust._ Hayır! boş sporundan vazgeç,
+         Ve yansıma için kalbimi özgür bırak.
+
+_Sie._
+                    (Giriş).
+         Marguerite bu şekilde yalnız gelebilir.
+
+_ Maidens'ın bir kısmı_
+               (Siebel'e yaklaşıyor).
+         Dua et, dansa katılmanız için bir partner mi arıyorsunuz?
+
+_Sie._ Hayır: Benim için cazibesi yok.
+
+_Cho._ Sportif olarak oynayan rüzgar olarak,
+         İlk başta sadece toz yükseltti,
+         Yine de, sonunda bir gale olur,
+         Yani bizim dansımız ve şarkılarımız,
+         İlk başta yumuşak, sonra yüksek sesle çalıyor,
+         O'er Hill ve Dale'i yankılayacak.
+
+                  (Marguerite girer.)
+_Faust._ o! Bak!
+
+_Mep._ 'bu iyi! Şimdi yaklaş!
+
+_Sie._
+           (Marguerite algılamak ve ona yaklaşmak).
+         Marguerite!
+
+_Mep._
+      (dönüp kendini Siebel ile yüz yüze bulmak).
+         Ne diyorsun?
+
+_Sie._
+                    (bir kenara).
+         Malediction! Yine burada!
+
+_Mep._
+                    (COAXY).
+         Ne, burada yine sevgili oğlum?
+                    (gülüyor).
+         Ha, ha! Doğru iyi bir jest!
+
+   (Siebel Mephistopheles'den önce geri çekilir, o zaman onu zorlar
+  Dansçıların arkasından geçen sahnenin bir devresini yapmak.)
+
+_Faust_
+       (sahneyi geçen Marguerite'e yaklaşıyor).
+         Bana izin vermeyecek misin, benim en adil terimim,
+         Size kolumu sunmak için ve yoldan temizlenir mi?
+
+_Mar._ hayır, efendim. Ben demoisel değilim, ben de adil değilim;
+         Ve teklif ettiğiniz kolu kabul etmeye gerek yok.
+                    (Faust'u geçer ve emekli olur.)
+
+_Faust_
+                (peşinden bakıyor).
+         Ne güzellik! Ne lütuf! Ne tevazu!
+         Ey güzel çocuk, seni seviyorum! Seni seviyorum!
+
+_Sie._
+      (Ne olduğunu görmeden öne çıkıyor).
+         O gitti!
+
+   (Marguerite'den sonra aniden bulduğunda acele etmek üzere
+  Mephistopheles ile yüz yüze-aceleyle dönüyor
+  ve sahneyi bırakır.)
+
+_Mep._ Eh, Doktor!
+
+_Faust._ iyi. Beni itti.
+
+_Mep._
+                    (gülüyor).
+         Ay, gerçekten, görüyorum, aşık,
+         İlk hamleyi nasıl yapacağınızı bilmiyorsunuz.
+
+(Marguerite tarafından alınan yönde Faust ile emekli olur.)
+
+_ Maidens'ın bir kısmı_
+  (Faust ve Marguerite arasındaki toplantıyı fark eden).
+          Nedir?
+
+_Others._ Marguerite. Eskortu reddetti
+          Zarif beyefendi.
+
+_Studs._
+                (yaklaşıyor).
+         Yine vals!
+
+_Maidens._
+         Vals her zaman!
+
+
+
+
+Yasa III.
+
+
+Sahne I.
+
+Marguerite Bahçesi.
+
+    (Arkada bir duvar, küçük bir kapı ile. Solda bir Bower.
+  Sağda bir pavyon, izleyiciye bakan bir pencere.
+  Ağaçlar, çalılar, vb.)
+
+    Siebel, yalnız. (Arkadaki küçük kapıya girer,
+  ve bir grubun yakınında pavyonun eşiğinde durur
+  güller ve zambaklar.)
+
+_Sie._
+                        BEN.
+         Sevgili Flow'r, ona nazikçe fısıldayın;
+         Ona bayıldığımı söyle,
+         Ve benim için, Oh, ona impore,
+         Çünkü kalbim aşkının pow'r için yalnız hissediyor.
+
+         İç çekerken söyle,
+         Onun için, benim acı,
+         Yalnız ritimler, sevgili akış,
+         Ağrıyan kalbim.
+                (Çiçekleri koparır.)
+         Ne yazık ki! Onlar solgun!
+                (Onları atar.)
+         Tahmin edilen sihirbazın sözleri doğru olabilir mi?
+
+    (Eline dokunarak başka bir çiçeği koparır,
+  Hemen soluyor. )
+
+         "Tekrar dokunmayacaksın
+         Ama solmalı! "
+         Elimi kutsal suda yıkayacağım!
+
+    (Pavyona yaklaşır ve parmaklarını biraz daldırır
+  Yazı tipi duvara askıya alındı.)
+
+         Gün düştüğünde, Marguerite o zaman
+         Dua etmeye gelir, bu yüzden tekrar deneyeceğiz.
+
+                (Daha fazla çiçek atar.)
+         Sarhoşlar mı? HAYIR!
+         Şeytan, sen sanat fethettiniz!
+
+                        İi.
+         Yalnız bu çiçeklerde inanıyorum
+         Çünkü onlar benim için yalvaracaklar;
+         Ona açıklayacaklar
+         Benim şanssız durumum.
+         Benim kedimin tek nedeni o,
+         Ve yine de bilmiyor.
+         Ama bu çiçeklerde inancım
+         Çünkü onlar benim için yalvaracaklar.
+
+    (Bir buket yapmak için çiçekleri koparır,
+  ve çalılar arasında kaybolur.)
+
+            * * * * * *
+
+
+Sahne II.
+
+Mephistopheles, Faust ve Siebel.
+
+_Faust._
+        (dikkatli bir şekilde bahçe kapısına giriyor).
+         Biz buradayız!
+
+_Mep_.   Beni takip et.
+
+_Faust._ kimi görüyorsun?
+
+_Mep._ Siebel, rakibiniz.
+
+_Faust._ Siebel?
+
+_Mep._ Hush! O geliyor.
+              (Bower'a girerler.)
+
+_Sie._
+          (elinde bir buket ile giriyor).
+         Buketim gerçekten büyüleyici mi?
+
+_Mep._
+             (bir kenara).
+         Gerçekten!
+
+_SIE._ Zafer!
+         Yarın hepsini ona açıklayacağım.
+         Ona sırrı açıklayacağım
+         Bu kalbimde gizli yatıyor:
+         Bir öpücük gerisini söyleyecek.
+
+_Mep._
+              (bir kenara, alaycı bir şekilde).
+                                  Baştan çıkarıcı!
+
+(Buketi pavyonun kapısına sabitledikten sonra Siebel'den çıkın.)
+
+            * * * * * *
+
+
+Sahne III.
+
+Faust ve Mephistopheles.
+
+_Mep._ Şimdi katılın, sevgili doktorum!
+         Arkadaşımızın çiçekleriyle şirket tutmak için,
+         Sana bir hazine getirmeye gidiyorum
+         Bu onları ölçünün ötesinde gölgede bırakıyor,
+         Ve inanan güzellik.
+
+_Faust._ Beni bırak!
+
+_Mep._ itaat ediyorum. Beni burada beklemeye tenezzül.
+                   (Kaybolur.)
+
+            * * * * * *
+
+
+Sahne IV.
+
+Faust.
+
+_Faust._
+                   (yalnız).
+         Ne yeni duygu ruhuma nüfuz ediyor!
+         Aşk, saf ve kutsal bir aşk, varlığımı kaplar.
+         Ey Marguerite, ayaklarına bak!
+         Hepsi dolu, saf ve alçakta yaşıyorsun,
+         Bir melek fuarının evi ve kutsal
+         Tüm ölümlü güzellikler mükemmel!
+         Burada zenginlik var, altından tahrik eden bir servet,
+         Barış ve sevgi ve masumiyet anlatılmamış!
+         Cömert doğa! `` Burada iki twas sevginiz ona öğretildi,
+         Burada nazikçe bakıyorsun, kızın
+         Gecenin saatlerinde!
+         Burada sallanan ağaç ve çiçek
+         Onu Eden Bower yaptı
+         Güzellik ve zevk,
+         Çok doğumu için
+         Cenneti dünyamıza indirdi.
+         Hepsi dolu, saf ve alçakta yaşıyorsun,
+         Bir melek fuarının evi ve kutsal.
+
+            * * * * * *
+
+
+Sahne V.
+
+Faust, Mephistopheles.
+
+_Mep._
+               (kolunun altında bir tabut taşıyor).
+         Ne! Buraya bakın!
+         Çiçekler parlak mücevherlerden daha güçlü ise,
+         Sonra gücümü kaybetmeyi kabul ediyorum.
+
+         (Tabutu açar ve mücevherleri görüntüler.)
+
+_Faust._ Uçalım; Onu daha fazla görmeyeceğim.
+
+_MEP._ Şimdi sana hangi çırpınıyor?
+          (Tabutu pavyonun eşiğine koyar.)
+         Yonder adımında bakın,
+         Mücevherler sıkıca yalan söyler;
+         Şimdi umut etmek için bir neden var.
+
+    (Faust'u peşinden çeker ve bahçede kaybolur.
+  Marguerite arkadaki kapıdan girer,
+  ve sessizce öne doğru ilerler.)
+
+            * * * * * *
+
+
+Sahne VI.
+
+Marguerite.
+
+_Mar._
+                    (yalnız). Fain ismi biliyor muyum
+         Tanıştığım adil gençlik mi?
+         O'nun doğumu olur muyum
+         Ve istasyon da biliyor mu?
+
+    (Kendini çardaktaki tekerleğinde koltuğa oturur ve düzenler
+  Mil üzerindeki keten.)
+
+                        BEN.
+         "Bir kez Thule'de bir kral vardı,
+         Ölüme kadar her zaman sadık olana kadar
+         Ve sevdiklerinin anısına
+         Bir fincan altının yapılmasına neden oldu. "
+                  (Breaking.)
+         Onun tarzı çok nazikti! Twas gerçek nezaket.
+                  (Şarkıya devam etmek.)
+         "Asla hazine o kadar çok değerli, çok değerli,
+         Başka bir şey şenlik günlerinde kullanır,
+         Ve her zaman ondan içtiğinde,
+         Gözyaşları ile gözleri o'erfling olurdu. "
+
+                        İi.
+         (Yükseliyor ve birkaç adım atıyor.)
+         "Ölümün yaklaştığını bildiğinde,
+         Soğuk kanepesinde gülümserken,
+         Bir kez daha büyük bir çabayla büyüdü
+         Dudaklarına altın vazo. "
+                  (Breaking.)
+         Ne diyeceğimi bilmiyordum, yüzüm kızarma ile kırmızı!
+                  (Şarkıya devam etmek.)
+         "Ve o zaman, hanımını onurlandırmak için,
+         Son, son kez fincandan içti,
+         Yakında titreyen kavrayışından düşüyor,
+         Sonra nazikçe ruhunu geçti. "
+         Yalnız soylular onları çok cesur bir mien ile taşıyabilir,
+         Çok ihale, Withal!
+              (Pavyona doğru gidiyor.)
+         Onu daha fazla düşüneceğim! İyi Sevgililer Günü!
+         Eğer heav'n duama kulak verirse, tekrar buluşacağız.
+         Bu arada ben yalnızım!
+
+    (Aniden kapıya bağlı buketi algılamak
+  pavyonun.)
+
+         Çiçekler!
+                 (Buketi açar.)
+         Onlar elbette Siebel'in.
+         Zavallı sadık çocuk!
+                 (Tabutu algılamak.)
+         Ama bu nedir?
+         Bu muhteşem tabut kimden geldi?
+         Dokunmaya cesaret edemiyorum ...
+         Yine de bak, işte anahtar!-Bir bakacağım!
+         Nasıl titriyorum-neden neden?-
+         Sadece bir tabuta bakmak için çok zarar!
+                 (Tabutu açar ve buket düşmesine izin verir.)
+         Oh, cennet! Ne mücevherler!
+         Hayal kuruyor olabilir miyim?
+         Yoksa gerçekten uyanık mıyım?
+         Daha önce böyle pahalı şeyler görmedim!
+
+       (Tabutu rustik bir koltuk üzerine koyar ve diz çöker
+        Kendini mücevherlerle süslemek için.)
+
+         Sadece görmek isterim
+         Bana nasıl bakacaklar
+         O parlak köpüklü kulak damlaları!
+               (Kulak halkalarını çıkarır.)
+         Ah! Tabutun altında bir bardak var:
+         Kendimi görebilirim!-
+         Ama boşuna değil miyim?
+
+  (Kulak halkalarını giyer, yükselir ve camın içine bakar.)
+
+         Ah! Geçirken bir bardağa bakmak için gülüyorum;
+         O zaman gerçekten Marguerite mi?
+         Sen misin?
+         Bana doğru söyle!
+         Hayır, hayır, hayır, 'sen değil!
+         Hayır, hayır, oradaki parlak yüz yansıttı
+         Bir kraliçeye ait olmalı!
+         Onu geçerken selamladığım bir adil kraliçeyi yansıtıyor.
+         Ah! Beni şimdi görebilir mi
+         Burada, güverte bunu isterdim, yemin ederim
+         Kesinlikle beni karıştırırdı
+         Ve asil bayan için beni al!
+         Geri kalanını deneyeceğim.
+         Kolye ve bilezikler
+         Ben fain dener!
+            (Bilezikler ve kolye ile kendini süslüyor,
+                 sonra yükselir.)
+         Cennet! Bu bir el gibi
+         Mine kolu üzerinde dinleniyor!
+         Ah! Geçirken bir bardağa bakmak için gülüyorum;
+         O zaman gerçekten Marguerite mi?
+         Sen misin?
+         Bana doğru söyle!
+         Hayır, hayır, hayır, 'sen değil!
+         Hayır, hayır, oradaki parlak yüz yansıttı
+         Bir kraliçeye ait olmalı!
+         Onu geçerken selamladığım bir adil kraliçeyi yansıtıyor. Ah! Beni şimdi görebilir mi
+         Burada, güverte bunu isterdim, yemin ederim
+         Kesinlikle beni karıştırırdı
+         Ve asil bayan için beni al!
+
+            * * * * * *
+
+
+Sahne VII.
+
+Marguerite ve Martha.
+
+_Mart._ Sadece Cennet! Ne görmüyorum?
+         Şimdi ne kadar adil görünüyorsun!
+         Neden, ne oldu?
+         Size bu mücevherleri kim verdi?
+
+_Mar._
+                   (kafası karışmış).
+         Ne yazık ki! yanlışlıkla
+         Onlar geldiler.
+
+_Mart._ Neden öyle?
+         Hayır, güzel kızlık,
+         Bu mücevherler sizin içindir;
+         Hediye onlar bir büyüyen Rabb.
+         Kocam, söylemeliyim
+         Daha az cömert bir dönüş oldu!
+
+(Mephistopheles ve Faust girer.)
+
+            * * * * * *
+
+
+Sahne VIII.
+
+Mephistopheles, Faust ve daha önce adlandırılan.
+
+_Mep._
+                (derin bir yay yapmak).
+         Söyle bana, dua ediyorum, Martha Schwerlein misin?
+
+_Mart._ Efendim, ben!
+
+_Mep._ Dua et beni affedin
+         Eğer öyleyse kendimi sunmaya çalışıyorum.
+                   (Bir yana, Faust'a.)
+         Hediyelerini görüyorsun
+         Nezaketle alındı.
+                   (Martha'ya.)
+         O zaman Martha Schwerlein misiniz?
+
+_Mart._ efendim, ben.
+
+_Mep._ Getirdiğim haberler
+         Hoş olmayan bir tür:
+         Çok sevilen eşin öldü
+         Ve size selam gönderir.
+
+_Mart._ Büyük Cennet!
+
+_Mar._ Neden, ne oldu?
+
+_MEP._ Şeyler!
+
+    (Marguerite aceleyle mücevherleri çıkarır ve yaklaşık
+  tabutta değiştirmek için.)
+
+_Mart._ Oh Woe! Oh, beklenmedik haberler!
+
+_Mar._
+                  (bir kenara).
+         Kalbimi nasıl yener
+         Şimdi yakın!
+
+_Faust_
+                  (bir kenara).
+         Aşkımın Ateşi
+         Onun yanındayken lanet olsun!
+
+_Mep._
+                  (Martha'ya).
+         Çok sevilen eşin öldü
+         Ve size selam gönderiyor!
+
+_Mart._
+               (Mephistopheles'e).
+         Bana başka bir şey göndermedi mi?
+
+_Mep._
+                  (Martha'ya).
+         Hayır. Onu cezalandıracağız;
+         Bu gün
+         Ona halef bulacağız.
+
+_Faust_
+                (Marguerite'e).
+         Bu nedenle bu mücevherleri bir kenara bırakın?
+
+_Mar._
+                  (Faust'a).
+         Mücevherler benim için yapılmadı;
+         'Bu buluşma onları oldukları yerde bırakıyorum.
+
+_Mep._
+                  (Martha'ya).
+         Kim memnuniyetle olmaz
+         Düğün halkasını mı sunuyorsun?
+
+_Mart._
+                  (bir kenara).
+         Aslında!
+             (Mephistopheles'e).
+         Öyle mi düşünüyorsun?
+
+_Mep._
+                  (iç çekiyor).
+         Ah ben! Ah, acımasız kader!
+
+_Faust_
+                (Marguerite'e)
+         Dua et mayın koluna yaslanın!
+
+_Mar._
+                  (emekli).
+         Beni bırak, alçakgönüllülükle dua ediyorum!
+
+_Mep._
+            (kolunu Martha'ya sunmak).
+         Benimkini al!
+
+_Mart._
+                   (bir kenara).
+         Sooth'da, bir şövalye!
+               (kolunu alıyor.)
+
+_Mep._
+                   (bir kenara).
+         Dame biraz zor!
+
+    (Marguerite kolunu Faust'a verir ve onunla çekilir.
+     Mephistopheles ve Martha birlikte kalırlar.)
+
+_Mart._ Ve böylece her zaman seyahat ediyorsunuz!
+
+_Mep._ Zor bir zorunluluk, Madam!
+         Yalnız ve sevgisiz. Ah!
+
+_Mart._ Gençlikte çok önemli değil,
+         Ama geç yıllarda gerçekten üzücü!
+         Doğru melankoli yalnızlık
+         Eski çağımız geçmek!
+
+_Mep._ Çok düşünce beni ürperdi.
+         Ama yine de, ne yazık ki! Ne yapabilirim?
+
+_Mart._ Ben olsaydım, gecikmez olurum
+         Ama aynı anda ciddi bir şekilde düşünün.
+
+_MEP._ AÇMAYACAĞIM!
+
+_Mart._ Bir kerede ve cidden!
+
+    (Çekiyorlar. Faust ve Marguerite tekrar giriyorlar.)
+
+_Faust._ sanat her zaman bu kadar yalnız mı?
+
+_Mar._ kardeşim savaşlarda
+         Annem canım öldü!
+         Misadventure ile de,
+         Sevgili kız kardeşim kaybettim.
+         Sevgili kardeş benim!
+         Benim en büyük mutluluğum O'ydu. Üzücü bunları üzüyor;
+         Aşkla ruhlarımız dolduğunda
+         Ölüm sevilen birini bizden yırtıp!
+         Sabah, uyanmadı,
+         Her zaman onun yanındaydım!
+         Hayatımın sevgilisi o!
+         Onu bir kez daha görmek için
+         Hepsini memnuniyetle acı çekerdim.
+
+_Faust._ Cennet, neşeli bir ruh hali içinde,
+         Onu sana sevdi mi
+         Bir melek gerçekten olmalıydı!
+
+_Mar._ bana alay!
+
+_Faust._ hayır, seni seviyorum!
+
+_Mar._
+                    (iç çekiyor).
+         Yalancı! Benimle uğraşıyorsun!
+         Sana inanmıyorum! Aldatmaya çalışıyorsun.
+         Artık kalmayacağım, duymanız gereken sözlerin.
+
+_Faust_
+                   (Marguerite'e).
+         Hayır, seni seviyorum! Kal, oh kal!
+         Cennet bir melek taçımı ile benim yolum.
+         Neden dinlemen korkusun?
+         Konuşan kalbim.
+
+(Mephistopheles ve Martha'ya tekrar girin.)
+
+_Mart._
+                (Mephistopheles'e).
+
+         Şimdi ne düşünüyorsun?
+         Bana kulak vermedin-bana alay et.
+         Şimdi söylediklerimi listeleyin .--
+         Bizi gerçekten terk etmemelisin!
+
+_Mep._
+                   (Martha'ya).
+         Ah, beni Chide, eğer gezinmelerim devam edersem.
+         Benden şüphelenmek; Dolaşmak için zorlandım!
+         Ne kadar memnuniyetle kaldığımı kanıtlamam gerekiyor.
+         Duyuyorum ama seni yalnız.
+                   (Gece ​​yanıyor.)
+
+_Mar._
+                   (Faust'a).
+         Karanlık büyür,-uzaklaşmalısın.
+
+_Faust_
+                   (onu kucaklıyor).
+         Sevdiklerim!
+
+_Mar._ Ah! daha fazla yok!
+                   (Kaçar.)
+
+_Faust._ ah, acımasız bir, uçar mı?
+                   (Onu takip ediyor.)
+
+_Mep._
+       (Bir kenara, Martha öfkeyle onu ona geri döndürürken).
+         Sorun ciddileşiyor
+         Uzaklaşmalıyım.
+              (Kendini bir ağacın arkasına gizler.)
+
+_Mart._
+                      (bir kenara).
+         Ne yapmalı? O gitti!
+         Ne ho, iyi efendim!
+
+                     (Emekli.)
+_Mep._ Evet, beni ara-bu doğru!
+         Gerçekten inanıyorum
+         Yaşlı Beldame
+         Aslında Şeytan ile evlendi!
+
+_Faust_
+                   (olmadan).
+         Marguerite!
+
+_Mart._
+                   (olmadan).
+         İyi efendim!
+
+_Mep._ Hizmetkarınız!
+
+            * * * * * *
+
+
+Sahne IX.
+
+Mephistopheles.
+
+_Mep._ 'Twas Yüksek Zaman!
+         Gece, korunmuş,
+         Sevginin ciddi konuşmasında,
+         Geri dönecekler! Bu iyi!
+         Rahatsız etmeyeceğim
+         Onların aşk konfabülasyonu!
+         Gece, onları en karanlık gölgede gizle.
+         Sevgi, Sevgili Kalplerinden
+         Tüm zahmetli pişmanlıkları kapatın.
+         Ve sen, koku çiçekleri, ince çiçekler,
+         Bu el aktardı
+         Doth hepinizin açılmasına neden olur!
+         Marguerite'nin kalbini şaşırttı!
+
+              (Karanlığın ortasında kaybolur.)
+
+            * * * * * *
+
+
+Sahne X.
+
+Faust ve Marguerite.
+
+_Mar._ Geç büyür, veda!
+
+_Faust._ Ben ama boşuna.
+         Elini almama izin ver ve onu tokatla,
+         Ve bak ama yüzün bir kez daha,
+         O soluk ışıkla aydınlandı,
+         Parlayan yonder aydan,
+         O'er güzel özellikler dökülüyor
+         Zayıf ama altın ışını.
+
+_Mar._ Oh, Nowness etrafında hüküm sürüyor,
+         Oh, etkisiz gizem!
+         En tatlı, en mutlu duygu,
+         Ben listeliyorum; Gizli Bir Ses
+         Şimdi kalbimi dolduruyor gibi görünüyor.
+         Hala tonu yine koynumda yanıyor.
+         Beni bir süre bırak, dua ediyorum.
+               (Bir papatya seçer ve alır.)
+
+_Faust._ Ne yapıyorsun?
+
+_Mar._ Bu çiçek danışıyorum.
+
+            (Daisy'nin yapraklarını koparıyor.)
+
+_Faust_
+                     (bir kenara).
+         Tonlarda hangi terk etti?
+
+_Mar._ Beni seviyor!-Hayır, beni sevmiyor!
+         Beni seviyor!-Hayır!-Beni seviyor!
+
+_Faust._ evet, bu çiçeğin olduğuna inan,
+         Aşk çiçeği. Kalbine söylemesine izin ver
+         Öğreteceği gerçek,-
+         Seni seviyor! Bilirsin
+         Sevmek ne kadar mutlu?
+         Kalpte asla ölmeyen bir alevi beslemek için!
+         Aşk Çeşmesinden Sonsuza Kadar İçmek için!
+
+_Both._ sonsuza dek seveceğiz!
+
+_Faust._ Ah, aşk gecesi! Oh, parlak gece!
+         Parlak yıldızlar yukarıda parlıyor;
+         Oh, sevinç, bu ilahi!
+         SEVİYORUM, sana tapıyorum!
+
+_Mar._ Mine Idol Fond Art Sen!
+         Konuşun, tekrar konuşun!
+         Senin, ben olacağım;
+         Senin için memnuniyetle öleceğim.
+
+_Faust._ Oh, Marguerite!
+
+_Mar._
+       (aniden kendini Faust'un kollarından yırtıyor).
+                            Ah, beni bırak!
+
+_Faust._ zalim bir!
+
+_Mar._ uç! Ne yazık ki! Titriyorum!
+
+_Faust._ zalim bir!
+
+_Mar._ Dua beni bırak beni!
+
+_Faust._ senden ayrılmamı ister misin?
+         Ah! Benim kederim değil mi?
+         Ah, Marguerite, kalbimi kırıyorsun!
+
+_Mar._ GO EDE! Ben tereddüt ediyorum! Merhamet, dua et!
+         FLY! Ne yazık ki! Titriyorum!
+         Kırmayın, dua ediyorum, Marguerite'nin kalbini!
+
+_Faust._ yazıktır--
+
+_Mar._ Sana canım, ben
+         Seni sevginizle çağırıyorum
+         Bu düşkün kalple,
+         Bu da sırrı ortaya çıktı,
+         Sana dua ver,-
+         Merhamet içinde seni bu yüzden al!
+              (Faust'un ayaklarında dizler.)
+
+_Faust_
+       (Birkaç dakika sessiz kaldıktan sonra onu nazikçe kaldırır).
+         Ey en adil çocuk,
+         Melek çok kutsal
+         Beni kontrol edeceksin
+         SHALT KURULUMUZUZUZ.
+         Ben itaat ediyorum; Ama sabah--
+
+_Mar._ evet, sabah,
+         Çok erken.
+
+_Faust._ ayrılıkta bir kelime.
+         Tekrar beni seviyorsun.
+
+_Mar._ Adieu!
+
+    (Pavyona doğru acele eder, sonra eşikte kısa durur,
+  ve Faust'a bir öpücük atıyor.)
+
+_Faust._ Adieu! Zaten sabah mıydı!
+
+            * * * * * *
+
+
+Sahne XI.
+
+Faust, Mephistopheles.
+
+_Mep._ Aptal!
+
+_Faust._ bize kulak misafiri oldun mu?
+
+_Mep._ mutlu bir şekilde. Büyük ihtiyacın var, öğrenilmiş doktor,
+         Tekrar okula gönderilecek.
+
+_Faust._ Beni bırak!
+
+_Mep._ Önce bir an dinlemeyi terk et,
+         Konuşmaya yıldızlara prova yapıyor.
+         Sevgili usta, gecikme. Penceresini açar.
+
+    (Marguerite pavyonun penceresini açar,
+  ve başı elinde dururken kalır.)
+
+            * * * * * *
+
+
+Sahne XII.
+
+Öncesi. Marguerite.
+
+_Mar._ Beni seviyor! Kalbimi çılgınca dövüyor!
+         Gece-Bird'ün Şarkısı,
+         Akşam esintisi,
+         Birlikte tüm doğanın sesleri diyor ki
+         "Seni seviyor!"
+         Ah! gerçekten tatlı, tatlı
+         Şimdi bu hayat benim için!
+         Görünüşe göre başka bir dünya;
+         Sevginin ecstasy'i bu!
+         Yarın şafakıyla,
+         Seni acele et, oh sevgili biri,
+         Seni geri dönmen için acele et! Evet, gel!
+
+_Faust._
+         (pencereye koşmak ve elini kavramak).
+             Marguerite!
+
+Mar.               Ah!
+
+_Mep._
+                    (alaycı bir şekilde).
+                       Ho! Ho!
+
+    (Marguerite, üstesinden gelmek, başının Faust'un omzuna düşmesine izin verir.
+  Mephistopheles bahçenin kapısını açar ve ayrılır, gülerek
+  alaycı bir şekilde. Perde düşer.)
+
+
+
+
+Yasa IV.
+
+
+Sahne I.
+
+_Marguerite Odası._
+
+Siebel ve Marguerite.
+
+_Sie._
+                 (sessizce yaklaşıyor).
+         Marguerite!
+
+_Mar._ Siebel!
+
+_Sie._ Ne, hala ağlıyor!
+
+_Mar._ ne yazık ki! Yalnızsın bana sanat türü.
+
+_SIE._ Sadece bir gençlik.
+         Ve yine de erkeksi bir kalbim var
+         Ve sana intikam alacağım.
+         Baştan çıkarıcının ömrü ödemeyi kaybedecektir.
+
+_Mar._ Kimin hayatı?
+
+_Sie._ ona isim vermem gerekiyor mu? Sefil
+         Bu yüzden seni terk etti!
+
+_Mar._ Merhamette, konuşmayın!
+
+_Sie._ Dost onu hala seviyor mu?
+
+_Mar._ ay, onu hala seviyorum!
+         Ama sana değil, iyi Siebel, bu hikayeyi tekrar etmeli miyim?
+
+_Sie._
+                        BEN. Her şey gençken ve Pleasant May çiçek açıyordu,
+         Ben, zavallı arkadaşın, oyunda sana katıldım;
+         Artık sonbahar karanlık bulutu kasvetliyor,
+         Şimdi benim için de, gün boyunca kederli.
+         Umut ve zevk hayattan uzaklaştı.
+
+                        İi.
+         İstememek için gerçek aşkla doğmadık,
+         Ne de doğdu çünkü rüzgar üfüyor.
+         Ne olmasına rağmen yaz bahçesi tüfeği,
+         Oh, Marguerite! Oh, Marguerite!
+         Hala dalda altın bir yaprak bırakıldı.
+
+_Mar._ seni korusun dostum, sempatin tatlı.
+         Beni bu şekilde yanlış yapan acımasız olanlar
+         Bana karşı kapanamıyorum
+         Kutsal Tapınağın Kapıları.
+         Dua etmeye gideceğim
+         O ve çocuğumuz için.
+             (Çıkış. Siebel sonra yavaşça takip eder.)
+
+            * * * * * *
+
+
+Sahne II.
+
+_ Bir kilisenin arası ._
+
+Marguerite, sonra Mephistopheles.
+
+    (Kadınlar kiliseye girer ve sahneyi geçer.
+  Marguerite onlardan sonra girer ve dizler.)
+
+_Mar._ o cennet!
+         Düşük handmaiden izin ver
+         Sunaktan önce kendini secde etmek.
+
+_Mep._ Hayır, dua etmeyeceksin!
+         Kötülüğün ruhları, benim çağrımda acele et,
+         Ve bu kadını sür!
+
+_Cho. Demons._ Marguerite!
+
+_Mar._ Beni kim arar?
+
+_Cho._ Marguerite!
+
+_Mar._ titriyorum!-Oh, cennet!
+         Son saatim kesinlikle yakın!
+
+    (Mezar Mephistopheles'i açar ve açıklar,
+  Marguerite'nin kulağına eğilen.)
+
+_Mep._ Görkemli Günleri Hatırla
+         Bir meleğin kanatları
+         Genç kalbini korumalı.
+         Kiliseye, o zaman ibadet etmek için,
+         Ne de günah işledin.
+         Dualarınız daha sonra yayınlandı
+         Boysuz bir kalpten
+         Ve inanç kanatlarında
+         Yaradan'a yükseldi.
+         Onların çağrısını duydun mu?
+         `` Seni çağırıyor cehennem!
+         Cehennem seni kendi başına iddia ediyor!
+         Ebedi ağrı ve kederli ve sıkıntı,
+         Senin kısmın olacak!
+
+_Mar._ Cennet! Bu ne ses
+         Gölgede benimle konuşuyor mu?
+         Hangi gizemli tonlar bunlar!
+
+_Religious Cho._ Son gün geldiğinde,
+         Cennetteki haç parlayacak,
+         Bu dünya tozu parçalayacak.
+
+_Mar._ Ah Me! Daha korkulu hala şarkıları oluyor.
+
+_MEP._ Sana affedilmez!
+         Senin için cennet daha fazla ışık yok!
+
+_Religious Cho._ Yüksek heav'n'a ne söyleyelim?
+         Koruma kim bulacak
+         Masumiyet ne zaman böyle bir zulüm buluşur?
+
+_Mar._ Ağır Ağırlık Benim Göğsüm O'erpowers,-
+         Artık nefes alamıyorum!
+
+_Mep._ Aşk Geceleri, veda!
+         Sen sevinç günleri, Adieu!
+         Kayıp, sen canım için kayboldu!
+
+_Mar. ve cho._
+         Heav'n! Dua etini duy
+         Üzücü, kırık bir kalbi!
+         Parlak bir ışın sen gönder
+         Yıldızlı küreden
+         Alla'ya acı!
+
+_Mep._ Marguerite, Kayıp, Kayıp Sanat!
+
+_Mar._ Ah!
+                  (Kayboluyor.)
+
+            * * * * * *
+
+
+Sahne III.
+
+Sokak.
+
+Sevgililer, askerler, sonra Siebel.
+
+_Cho._ Kılıçlarımız askıya alacağız
+         Baba ocak üzerinde;
+         Uzun zaman döndük.
+         Kedeki anneler artık değil
+         Yok oğullarını arayacak.
+
+            * * * * * *
+
+
+Sahne IV.
+
+Valentine ve Siebel.
+
+_Val._
+               (giren Siebel'i algılamak).
+         Ah, Siebel, sen misin?
+
+_SIE._ Sevgili Sevgililer!
+
+_VAL._ O zaman gel, kalbime!
+
+                (onu kucaklıyor).
+         Ve Marguerite?
+
+_Sie._ (kafası karıştı).
+         Belki de kilisede.
+
+_Val._ Şüphesiz dönmem için dua ediyor.
+         Sevgili kız, ne kadar memnun
+         Söylediğimi duyacak
+         Savaş benzeri işlerim!
+
+_Cho. _ Savaşta düşenlere zafer,
+         Gurur hatırlamasıyla yapabileceğimiz parlak işleri.
+         O zaman onur ve şöhret edinebilir miyiz,
+         Onların görkemli işleri kalplerimiz ilham verecek!
+         İlk nefes aldığımız sevgili yerli topraklar için,
+         Oğulları, emrinde gururla cesur E'en Ölüm.
+         Bize bağımlı olan kutsal taleplerinde,
+         Kılıçlarımız çizeceğiz, savunma hakları.
+         Homeward Adımlarımız şimdi döneceğiz,-
+         Orada sevinç ve barış bekliyor!
+         Bir kerede, ne de loiter burada;
+         O zaman, benim sevdiklerimiz kucaklamak için,-
+         Sevgi çağrıları, Fond Love Doth bizi çağır,
+         Evet, birçok kalp yenecek
+         Onlar bizim hikayemiz duyacaklar.
+
+_Val._ gel Siebel, biz konutuma biz
+         Ve bir şişe şarap tutkun.
+             (Marguerite'nin evine yaklaşıyor.)
+
+_Sie._ hayır, girin!
+
+_Val._ Neden olmasın, dua ediyorum?-
+         Sessiz bakışın zemini arayın-
+         Konuş, Siebel-ne oldu?
+
+_Sie._
+                (Bir çaba ile.)
+         HAYIR! Sana söyleyemem!
+
+_Val._ Ne demek istiyorsun?
+               (Eve doğru koşmak.)
+
+
+_Sie._
+                  (onu saklıyor.)
+         Tut, iyi sevgililer, kalbi al!
+
+_Val._ Ne demek istemiyorsun!
+                  (Eve girer.)
+
+_Sie._ Onu affet!
+         Koru onu, zarif cennet!
+
+    (Kiliseye yaklaşıyor. Faust ve Mephistopheles
+     arkaya girin; Mephistopheles bir gitar taşır.)
+
+            * * * * * *
+
+
+Sahne V.
+
+Faust ve Mephistopheles.
+
+(Faust, Marguerite'nin evine doğru gidiyor, ama tereddüt ediyor.)
+
+_Mep._ Neden Ye?
+         Eve girelim.
+
+_Faust._ Barış! Düşündüğümü üzüyorum
+         Utanç ve üzüntü getirdi.
+
+_Mep._ Neden onu tekrar gördükten sonra tekrar görüyorsunuz?
+         Başka bir manzara daha hoş olabilir.
+         Sabbath'a izin ver.
+
+_Faust_
+                     (iç çekiyor).
+         Oh, Marguerite!
+
+_Mep._ Tavsiyem, biliyorum
+         Boşuna ama küçük
+         İnatçı iradesine karşı.
+         Doktor, sesime ihtiyacın var!
+
+   (Mantosunu geri atar ve gitarın üzerine eşlik eder.)
+
+                        BEN.
+         Kızlık, şimdi barış içinde yeniden düzenleniyor,
+         Uykunuzdan uyanık,
+         Sevgiyle sesimi duy,
+         Yazık olacak mısın?
+         Ama ne kadar güvende olduğuna dikkat et
+         Arkadaşın bile,
+         Ha! Ha! Ha!
+         Düğün parmağın için değilse
+         O bir yüzük gönder.
+
+                        İi.
+         Evet, tatlı kızlık, sana ima ediyorum,-
+         Oh, bunu reddet,--
+         Sana tapan ona gülümse
+         Onu öpücükle kutsayın.
+         Ama ne kadar güvende olduğuna dikkat et
+         Arkadaşın bile,
+         Ha! Ha! Ha!
+         Düğün parmağın için değilse
+         O bir yüzük gönder.
+            (Sevgililer evden koşar.)
+
+            * * * * * *
+
+
+Sahne VI.
+
+Valentine ve daha önce adlandırıldı.
+
+_Val._ İyi efendim, burada ne istiyorsun?
+
+_Mep._ Benim layık arkadaşım, bu senin için değildi
+         Serenade'imize hitap ettik!
+
+_Val._ Kız kardeşim belki de daha memnuniyetle duyardı!
+    (Valentine kılıcını çizer ve Mephistopheles'in gitarını kırar.)
+
+_Faust._ Kız kardeşi!
+
+_Mep._
+                   (Valentine için)
+         Neden bu öfke?
+         Şarkı söylememi sevmiyor musun?
+
+_VAL._ Hakaretleriniz Durdur!
+         Hangisinden talep etmeliyim
+         Bu faul öfkesi için memnuniyet?
+         Şimdi hangisini öldürmeliyim?
+
+                (Faust kılıcını çeker.)
+         O!
+
+_Mep._ Zihniniz uyduruldu!
+         O zaman doktor, ona dua et!
+
+_Val._ Oh, cennet, yardımın karşıladığı,
+         Gücümü ve cesaretimi artır,
+         Kanında kılıcım
+         Bu öfke düşebilir!
+
+_FAUST. _ Bu kolumu ne korkutuyor?
+         Neden şimdi cesaretimi ortadan kaldırıyor?
+         Hayatını almaya cesaret ediyorum
+         Bir öfkeyi kim kızdırır?
+
+_Mep._ Gazabı ve Cesareti
+         Scorn'a benziyorum!
+         O zaman son yolculuğu için ata
+         Gençlik yakında alacak!
+
+_Val._
+
+     (Madalyon boynunun etrafına asıldı).
+         Marguerite'nin hediyesi sen,
+         Şimdiye kadar beni kurtardı
+         Artık sen olmayacağım-ben de sana atıyorum!
+         Suçlu hediye, seni benden atıyorum!
+                (Öfkeyle atar.)
+
+_Mep._
+                      (bir kenara).
+         Tövbe edeceksin!
+
+_Val._
+                    (Faust'a).
+         Hadi, kendini savun!
+
+_Mep._
+                 (Faust'a, fısıltıyla).
+         Bana yakın dur ve sadece ona saldır;
+         Parry'ye dikkat edeceğim!
+                     (Kavga ediyorlar.)
+
+_Val._
+               (düşme).
+         Ah!
+
+_Mep._ Kahramanımıza bak,
+         Yerde cansız!
+         Gel, bu yüzden-hızlı, uç!
+             (Çık, Faust'u peşinden sürükler.)
+
+            * * * * * *
+
+
+Sahne VII.
+
+    (Işıklı meşalelerle vatandaşlara girin;
+  Daha sonra Siebel ve Marguerite.)
+
+_Cho._ Bu şekilde, bu şekilde gel ...
+         Burada çok savaşıyorlar!
+         Bakın, biri düştü;
+         Mutsuz adam orada secde ediyor.
+         Ah! Hareket ediyor-evet, hala nefes alıyor;
+         Hızlı, o zaman çizin
+         Onu yetiştirmek ve sarmak için!
+
+_Val._ 'Bu işe yaramaz, bu boş ağıtları durdurun.
+         Çok sık baktım
+         Ölümde, dikkate almak için
+         Kendi zamanım geldiğinde!
+
+    (Marguerite arkada Siebel tarafından desteklenen.)
+
+_Mar._
+      (ilerlemek ve Valentine tarafında dizlerinin üzerine düşmek).
+         Sevgililer! Ah, Valentine!
+
+_Val._
+                 (onu ondan itiyor).
+         Marguerite!
+         Burada ne olurdu?-Uzakta!
+
+_Mar._ o heav'n!
+
+_Val._ onun için ölüyorum! Zavallı aptal!
+         Onun baştan çıkarıcısını azarlamayı düşündüm!
+
+_Cho._
+            (düşük bir sesle, Marguerite'e işaret ediyor).
+         Öldü, baştan çıkarıcı tarafından öldürüldü!
+
+_Mar._ Taze keder bu! Ah, acı ceza.
+
+_SIE._ Ona acıyor, dua et!
+
+_Val._
+              (etrafındaki kişiler tarafından desteklenir).
+         Marguerite, bir süre kulak ver;
+         Kararlaştırılan
+         Hath usulüne uygun olarak geçiyor.
+         Ölüm iyi zevkle gelir:
+         Tüm ölümlüler kendi emrine uymalıdır.
+         Ama senin için kötü bir hayata müdahale ediyor!
+         Bu beyaz eller asla daha fazla çalışmayacak;
+         Başkalarının kullandığı işçiler ve üzüntüler,
+         Saatlerce sevinçle unutulacak.
+         En çok yaşıyorsun, ingrate?
+         Hala var mısın?
+         Gitmek! Utanç seni bunaltır! Pişmanlık seni takip et!
+         Uzunlukta _thy_ saat ses çıkaracak.
+         Kaç! Ve eğer Tanrı bundan sonra affederse,
+         Yani bu hayat sürekli bir lanet olabilir!
+
+_Cho._ korkunç dilek! Hristiyan düşünce!
+         Son üzücü saatte talihsiz!
+         Kendi ruhunuzun refahını düşünün.
+         Affet, eğer affedilirse.
+
+_Val._ Marguerite; Seni lanetliyorum! Ölüm beni bekliyor.
+         Elinden ölüyorum; Ama bir asker ölüyorum.
+
+                     (Ölür.)
+_Cho._ Tanrı ruhunu al!
+         Tanrı günahlarını affedin!
+
+                    (Perde.)
+
+
+
+
+Yasa V.
+
+
+Sahne I.
+
+Bir hapishane.
+
+Marguerite uyuyor; Faust ve Mephistopheles.
+
+_Faust._ Git! Seni elde et!
+
+_Mep._ Sabah belirir, Kara Gece kanatta.
+         Seni takip etmek için Marguerite'ye hızla hakim olun.
+         Hapishane sağlam uyuyor-asla anahtar,
+         Kendi eliniz artık kapıyı opabilir.
+
+_Faust._ Güzel! Seni git!
+
+_MEP._ Katlanmadığınızdan emin olun!
+         Onsuz izlemeye devam edeceğim.
+                      (Çıkış.)
+
+_FAUST. _ Keder ile kalbim çarpık!
+         Oh, işkence! Oh, acı kaynağı
+         Ve sonsuza dek pişirin! Bakın oraya bak
+         İyi, güzel kız,
+         Suçlu gibi döküm
+         Bu aşağılık zindanın içine;
+         Keder sebebi rahatsız olmalı,
+         Çünkü kendi eliyle, ne yazık ki!
+         Çocuğu o kızdı!
+         Oh, Marguerite!
+
+_Mar._
+                    (uyanma).
+         Sesi emin oldu
+         Kalbim yankılana kadar.
+                    (Yükselir.)
+
+_Faust._ Marguerite!
+
+_Mar._ o memnun sesle tekrar çılgınca zonklar
+         İblislerin alaycı gülüşünün ortasında.
+
+_Faust._ Marguerite!
+
+_Mar._ şimdi özgür miyim. O burada. Bu onun sesi.
+         Evet, sevdiğim sanat.
+         Fetters, ölüm, benim için terörü yok;
+         Beni buldun. Geri döndün.
+         Şimdi kurtarıldım! Şimdi dinlenin kalbine!
+
+_Faust._ evet, buradayım ve seni seviyorum
+         Yon alaycı iblis çabalarına rağmen.
+
+    (Faust onu yanına çekmeye çalışır.
+  Kendini nazikçe kollarından ayırır.)
+
+_Mar._ Kal! Bu nokta
+         Bir gün benimle buluştun.
+         Senin elini tokatlamak için mayın aradı.
+         "Bana izin vermeyecek misin, benim en adil terimim,
+         Sana kolumu sunmak için ve yolumu temizlemek için? "
+         "Hayır, efendim. Ben demoisel değilim, ben de adil değilim;
+         Ve teklif ettiğiniz kolu kabul etmeye gerek yok. "
+
+_Faust._ Ne diyor? Ah ben! Ah ben!
+
+_Mar._ ve sevdiğim bahçe burada,
+         Myrtle ve Güller,
+         Her gecenin içinde kamyonetin
+         Dikkatli bir adımla, gece düşerken.
+
+_Faust._ Gel, Marguerite, Uçalım!
+
+_Mar._ Hayır! Bir an kal!
+
+_Faust._ o heav'n, anlamıyor!
+
+            * * * * * *
+
+
+Sahne II.
+
+Mephistopheles ve önceki.
+
+_Mep._ Bir kerede uzakta, henüz zaman var!
+         Daha uzun bir gecikme,
+         Benim gücüm seni kurtarabilir.
+
+_Mar._ GÖRÜNÜYORSUNUZ?
+         Onun ölümcül bakışları bize sabitlendi;
+         Hızlı! Onu bu kutsal duvarlardan sür.
+
+_MEP._ uzakta! Bırak bu noktayı bırak
+         Şafak ortaya çıktı;
+         Ateşli şarj cihazlarını duy,
+         Sonoor toynakta olduğu gibi, zemini pençe mi?
+            (Faust'u onunla sürüklemeye çalışmak.)
+         Acele sen, o zaman,-oraya henüz
+         Onu kurtarmanın zamanı!
+
+_Mar._ Ey Cennet, yardım alıyorum!
+         Yalnız Yardımım Yapıyorum!
+                   (Diz çöküyor.)
+         Kutsal Melekler, cennette korusun,
+         Ruhum dinlenmenizi istiyor!
+         Büyük cennet, affet hibesi, seni ima ediyorum,
+         Yakında senden önce görünelim!
+
+_Faust._ Marguerite! Beni takip et, ima ediyorum!
+
+_Mar._ Kutsal Melekler, cennette korusun,
+         Ruhum dinlenmenizi istiyor!
+         Büyük cennet, affet hibesi, seni ima ediyorum,
+         Yakında senden önce görünelim!
+
+_Faust._ o Marguerite!
+
+_Mar._ Neden öfke ile bu bakışla dolu?
+
+_Faust._ Marguerite!
+
+_Mar._ Elini lekeleyen ne kan!
+         Uzak! Senin görüşün bana dehşet veriyor!
+                   (Düşer.)
+
+_Mep._ Kınanmış!
+
+_Cho._ kurtarıldı!
+         Mesih ortaya çıkıyor!
+         Mesih ortaya çıkıyor!
+         Mesih tekrar doğar!
+         Barış ve Sadakat
+         Üstat'ın tüm öğrencilerine!
+         Mesih ortaya çıkıyor!
+
+    (Hapishane duvarları açılır. Marguerite'nin ruhu doğru yükselir
+  cennet. Faust ondan sonra umutsuzca bakar, sonra düşer
+  dizler ve dualar. Mephistopheles geri döner,
+  Başmelek'in parlayan kılıcı.)
+
+Opera sonu.
+
+
+
+
+ACTE Premier.
+
+
+Sahne prömiyeri.
+
+_Le kabine de faust._
+
+(Faust, Seul. Sa Lampe Est Pres de S'eteIndre. Il est Assis Devant Une
+  Tablo Chargee de Parchemins. Livre est outert Devant Lui.)
+
+_Faust._ rien! ... -Vain J'interroge, en mon ardente Veille,
+         La Nature ve Le Createur;
+         Pas une voix ne glisse bir Pzt Oreille
+         UN MOT Consolatur!
+         J'ai seeti triste et solitaire,
+         Sans pouvoir briser le lien
+         Qui m'atthe encore a la terre! ...
+         Je ne vois rien!-Je ne sais rien! ...
+
+    (Il Ferme Le Livre ve Se Leve. Le Jour bir naitre başlar.)
+         Le Ciel Palit!-Devant L'Aube Nouvelle
+         La Sombre Nuit
+         S'evanouit! ...
+                 (Avec Despoir.)
+         Encore un Jour!-Encore Un Jour Qui Luit! ...
+         Ey Mort, quand viendras-tu m'abriter sous ton aile?
+              (Saisissant une fiole sur la tablo.)
+         Eh Bien! Puisque la Mort Me Fuit,
+         Pourquoi n'irais-Je Pas, Elle'ye karşı? ...
+         Selam! Ey Mon Dernier Matin!
+         J'arrive sans terreur au tere du voyage;
+         Et je suis, avec ce breuvage,
+         Le Seul Maitre de Mon Destin!
+
+    (Il Verse le Contenu de la Fiole Dans une Coupe de Cristal.
+ Au an ou il va porter la coupe a ses levres, des voix de
+ Jeunes dolgular se font enterd au dehors.)
+
+_Choeur de Jeunes Filles._ Paresseuse Fille
+         Qui sommeille encor!
+         Deja Le Jour Brille
+         Sous oğlu Manteau d'Or.
+         Deja l'Oiseau cante
+         SES Chansons'u Folles;
+         L'Aube Caressante
+         Sourit aux moissons;
+         Le Ruisseau Murmaure,
+         La Fleur S'ouvre Au Jour,
+         Toute La Nature
+         S'EVEILLE A L'AMOUR!
+
+_Faust._ Vains Echos de la Joie Humaine,
+         Passez, Passez Votre Chemin! ...
+         O Coupe des aieux, qui tant fois fus pleine,
+         Pourquoi trembles-tu dans ma Main? ...
+        (Il Porte de Nouveau la coupe a ses levres.)
+
+_Choeur des laboureurs_
+                         (DeHors).
+         Aux Champs L'Aurore Nous Rappelle;
+         Le temps est beau, la terre est Belle;
+         Beni Soit Dieu!
+         Bir Peine Voit-on L'Hirondelle,
+         Qui vole et plonge d'n coup d'Aile
+         Dans Le Profondeur du Ciel Bleu!
+
+_Jeunes Filles ET Labs._ Beni Soit Dieu!
+
+_Faust._ (_reposant la coupe_) dieu!
+
+            (İl se laisse retomber Dans oğlu fauteuil.)
+         Mais ce dieu, que peut-il pour moi!
+                    (Se Levant.)
+         Ben rendra-t'il l'Amour, l'Esperance et la foi?
+                    (Avec Rage.)
+         Maudites Soyez-Vous, O humaines'i yiyor!
+         Maudites Soient Les zincirleri
+         Qui me font ramper ici-bas!
+         Maudit soit tout ce qui nous leurre,
+         Boşuna espoir qui passe avec l'heure,
+         Reves d'Amour ou de savaş!
+         Maudit Soit Le Bonheur, Maudites La Science,
+         La priere et la foi!
+         Maudite sois-tu, sabır!
+         Bir moi, Şeytan! Bir moi!
+
+            * * * * * *
+
+
+Sahne II.
+
+Faust, Mephistopheles.
+
+_Mep._
+                    (Appineissant).
+         Ben Voici!
+         Ne suis-je pas misc?
+         L'Epee au cote, la plume au chapeau,
+         L'Acarcelle Pleine, Un Riche Manteau
+         Sur l'Epaule;-en somme
+         Un vrai gentilhomme!
+         Eh Bien! que me Veux-tu, docteur!
+         Parle, Voyons! ...- te fais-je peur?
+
+_Faust._ non.
+
+_Mep._ Doutes-tu ma puissance? ...
+
+_Faust._ Peut-ETRE!
+
+_Mep._ Mets-la Donc a l'preuve! ...
+
+_Faust._ va-t'en!
+
+_Mep._ fi!-C'est la ta keşif!
+         De Moi Qu'avec Şeytan'ı onaylar
+         L'On en doit kullanıcısı d'Autre sorte,
+         Et qu'il n'etait pas besoin
+         De l'appeler de si loin
+         Le Mettre Ensuite a la porte!
+
+_Faust._ et que peux-tu pour moi?
+
+_Mep._ Tout.-Mais dis-moi d'Abord
+         Ce que tu veux;-Est-ce de l'Or?
+
+_Faust._ que ferais-je de la richesse?
+
+_Mep._ Bien! Je vois ou le bat te blesse!
+         Tu Veux la Gloire?
+
+_Faust._ artı encor!
+
+_Mep._ La Puissance!
+
+_Faust._ Non! Je Veux Un Tresor
+         Qui les Contient Tous! ... Je Veux la Jeunesse!
+         Bir moi les plaisirs,
+         Les Jeunes Maitresses!
+         Bir Moi Leurs okşadı!
+         Bir Moi Leurs istiyor mu?
+         Bir moi l'ergie
+         Des içgüdüler puissants,
+         Et la folle orgie
+         Du Coeur et des sens!
+         Ardente Jeunesse,
+         Bir Moi Tes istemektedir!
+         Bir Moi Ton Ivresse!
+         Bir Moi Tes plaisirs! ...
+
+_Mep._ Fort Bien! JE PUIS Gezgin Ton Caprice
+
+_Faust._ et que te donnerai-je en retour?
+
+_Mep._ Presque Rien:
+         ICI, je suis bir ton hizmeti,
+         Mais la-bas tu seras au mien.
+
+_Faust._ la-bas? ...
+
+_Mep._ La-Bas.
+                (Lui Sunucu BM Parchemin.)
+         Allons, Signe.-Eh Quoi! Ta Main Tremble!
+         Que Faut-Il Dökme Dahası mı?
+         La Jeunesse T'Appelle; OSE LA HAYIZLI! ...
+
+   (Il Fait Un Geste. Au Fond du Tiyatrosu S'OUVRE ET LAISSE VOIR
+  Marguerite Assise Devant Son Rouet et Filant.)
+
+_Faust._ o Merveille! ...
+
+_Mep._ Eh Bien! Que t'ensemble?
+                 (Prenant Le Parchemin.)
+_Faust._ Donne! ...
+                     (Il Signe.)
+_Mep._ Allons Donc!
+             (Prenant la coupe restee Sur la tablo.)
+         ET Bakımcısı,
+         Maitre, c'est moi qui te convie
+         Vider cette coupe ou fume en bouilonnant
+         Non Plus La Mort, Non Le ve Le Poison;-Mais la Vie!
+
+_Faust._
+        (Prenant La Coupe ve Se Tournant Vers Marguerite.)
+         Toi, Fantome sevimli et charmant! ...
+
+     (İl vide la coupe et se trouve metamorfoz en jeune
+   ET ELEGANT SEIGNEUR. La Vision Disparait.)
+
+_Mep._ Viens!
+
+_Faust._ je la reverrai?
+
+_Mep._ Sans Doute.
+
+_Faust._ quand?
+
+_Mep._ Aujourd'hui.
+
+_Faust._ c'est bien!
+
+_Mep._ Yolda!
+
+_Faust._ a moi les plaisirs,
+         Les Jeunes Maitresses!
+         Bir Moi Leurs okşadı!
+         Bir Moi Leurs DEĞİL!
+
+_Mep._ a toi la jeunesse,
+         A toi ses,
+         Bir toi oğlu ivresse,
+         A toi ses plaisirs!
+              (ILS SORTENT.-La Toile Tombe.)
+
+
+
+
+Acte deuxieme.
+
+
+Sahne prömiyeri.
+
+_La Kermesse._
+
+    (Une des portes de la ville.
+      Bir gauche un caborte a l'enseigne du bacchus)
+
+   Wagner, etudiants, burjuva, satıcılar, jeunes dolguları, matronlar.
+
+_Etuds._ vin ou biere,
+                     Biere Ou Vin,
+                     Que Mon Verre
+                       Soit Plein!
+                     Sans Vergogne,
+                     Darbe darbesi,
+                     Un ivrogne
+                     Boit tout!
+
+_Wag._ jeune adepte que ta gloire,
+         De Tonneau Tes Amours,
+         N'en hariç soient de boire
+         Que l'aau!                Toujours!
+            (ILS Trinquent et Boivent.)
+
+_Soldats_ forteresesleri doldurur,
+         C'est tout un, Morbleu!
+         Vieux Burgs, Jeunes Maitresses
+         Sont nous un jeu dök!
+         Celui qui sait s'y prendre
+         Sans Trop de Facon,
+         Les bir rendre yükümlülük
+         EN PAYANT RANCON!
+
+_Bourgeois._ aux jours de dimanche et de fete,
+         J'aime bir Parler Guerre et savaşıyor;
+         Tandis que les peuples la-bas
+         Se Casent la Tete.
+         Je Vais M'asseoir Sur Les Coteaux
+         Qui Sont Voisins de la Riviere,
+         Et je vois passer les boreaux
+         En Viden Mon Verre!
+     (Bourgeois ET Soldats, Le Fond Du Tiyatrosu'na karşı Yeniden Maddeler.)
+
+            (UN Groupe de Jeunes Filles Enterre En Sahnesi.)
+_LES Jeunes Filles_
+                   (saygılı de cote).
+         Voyez Ces Hardis Compreser
+         Qui viennent la-bas;
+         Ne soyons pas trop ales,
+         LE PAS geciktirir.
+
+   (Elles Gagnent La Droite Du Tiyatrosu.
+     Un Second Choeur d'Edudiants bir leur süitine girer.)
+
+_Deuxieme cho. d'Etuds._ Voyez Ces Mines Gaillardes
+         ET CES AIRS Vainqueurs!
+         Amis, Sooyons Sur nos Gardes,
+         Tenonlar Bien nos coeurs!
+
+_Cho. De mats._
+        (Gözlemci Les etudiants et les jeunes dolguları). Voyez Apres Ces Donzelles
+         Courir Ces Messieurs!
+         Nous sommes Aussi Bien qu'elles,
+         Sinon Beaucoup Mieux!
+                   (Topluluk.)
+
+_Mats._
+                   (aux jeunes dolguları).
+         Vous voulez leur plaire
+         Nous le voyons bien
+
+_Etuds._ vin ou biere,
+         Biere Ou Vin,
+         Que Mon Verre
+         Soit Plein!
+
+_Sols._ pas beaute fiere!
+         Nous savonlar leur plaire
+         En UN Tour de Main!
+
+_Bourg._ vidons un verre
+         De Ce Bon Vin!
+
+_Jeunes files._ de votre colere
+                 Nous ne Craignons Rien!
+
+_Jeunes etuds._ voyez leur colere,
+                VOYEZ Leur Caudien!
+
+    (Les etudiants et les lestats ayrı ayrı les femmes en riant.
+   Tous les grupları S'eloignent et disparaissent.)
+
+            * * * * * *
+
+
+Sahne II.
+
+  Wagner, Siebel, Edudiants, Valentin.
+
+_Val._
+    (parassant bir düşkün;
+         O Sainte Medaille,
+         Qui me viens de ma soeur,
+         Au Jour de la Bataille,
+         Ecarter la Mort, RESTE LA SUR MON COEUR PUR!
+
+_Wag._ Ah! Voici Valentin Qui Nous Cherche Sans Doute!
+
+_Val._ Un Dernier Darbe, Messieurs, ET Metons-nous yolda!
+
+_Wag._ qu'as-tu Donc? ... Quels, nabz no Adieux'dan pişmanlık duyuyor mu?
+
+_Val._ comme vous, longtemps dök, je vais quitter ces lieux;
+         Jli Laisse Marguerite, ET, Pour Veiller Sur Elle,
+         Ma mere n'est artı la!
+
+_Sie._ artı d'An ami fidele
+         Saura te remplacer a ses cotes!
+
+_Val._
+              (Lui Serrant La Main).
+         MERM!
+
+_Sie._ Sur moi tu peux bileşter!
+
+_Etuds._ compte sur nous aussi!
+
+_Val._ Avant de Quitter Ces Lieux,
+         Sol Natal de Mes Aieux,
+         A TOI, Seigneur ve Roi des Cieux,
+         Ma Soeur Je Confie.
+         Daigne de Tout Tehlike
+         Toujours LA Proteger,
+         Cette Soeur Si Cherie.
+         Delivre D'Ne Triste Pensee,
+         J'irais La Gloire Au Sein des Ennemis,
+         Le Premier, Le Plus Cesur Au Fort de la Melee,
+         J'irai Combattre Pour Pon ödeme.
+         ET Si ve Lui Dieu Me Rappelle,
+         Je Viellerai Sur Toi Fidele,
+         Ey Marguerite!
+
+_Wag._ Allons, Amis! Point De De Vaines Alarmları!
+         A CE BON VIN NE MELUS PAS DE LARMES!
+         Buvons, Trinquons, ET Qu'un Joyeux Refrain
+         Nous mette tr tren!
+
+_Etuds._ Buvons, trinquons, et quunun joyeux kaçınma
+         Nous mette tr tren!
+
+_Wag._
+             (Montant Sur bir Escabeau).
+         Un rat artı poltron que cesur,
+         Et artı koydu que beau,
+         LoGeait au Fond d'Ne Mağarası,
+         Sous un vieux tonneau;
+         BM sohbet ....
+
+          * * * * * *
+
+
+Sahne III.
+
+Les memes. Mephistopheles.
+
+_Mep._
+
+  (Paraissant tout tout tout au milieu des etudiants et
+     Sıkıştırma Wagner).
+
+         Bağışlamak!
+
+_Wag._ hein?
+
+_Mep._ Parmi Vous, De Grace
+         PERSETTEZ-MOI DE PRENDRE PLACE!
+         Que votre ami d'Abord Acheve sa chanson!
+         Moi, je vous en promes plusieurs de ma facon!
+
+_Wag._
+              (Descendant de Son Escabeau).
+         Une seule yeterli, pourvu qu'elle soit bonne!
+
+_Mep._ Je Ferai De Mon Mieux Pour N'ennuyer Personne!
+
+                        BEN.
+         Le Veau d'Or est Toujours Debout;
+         Enjente
+         Sa Puissance
+         D'n bout du monde a l'outre maçı!
+         Feter l'Efame Idole,
+         Peuples et rois konsantresi,
+         Au bruit kasvetli des ecus
+         Dansent une ronde folle
+         Autour de Son Piedestal? ...
+         ET Şeytan Bektir LE BAL!
+
+                        İi.
+         Le Veau d'Or est vainqueur des dieux;
+         Dans oğlu gloire
+         Derisoire
+         Le Monje abjecte hasta aux cieux!
+         Il Conseple, O Rage ETRANGE!
+         Bir ses pieds le tür humain
+         Se ruant, le fer en main,
+         Dans Le Sang ve Dans La Fange
+         OU Brille L'Ardent Metal! ... ET Şeytan Bektir LE BAL!
+
+_TOUS._ ET Şeytan Balonu Le Bal!
+
+_Cho._ Merci de Ta Chanson!
+
+_Val._
+                    (bir parça).
+         Singulier Personnage!
+
+_Wag._
+            (tendan bir mephistopheles verre).
+         Nous ferez vous l'Honneur de trinquer avec nous?
+
+_Mep._ Volontiers! ...
+       (Saisissant La Main de Wagner ve L'Eppinant.)
+         Ah! Voici qui m'attriste vous pour!
+         Vous Voyez Cette Ligne?
+
+_Wag._ eh bien?
+
+_Mep._ Facheux Presage!
+         Vous vous vous ferez tuer en montant a l'AsiSaut!
+
+_Sie._ vous etes donc sorcier?
+
+_Mep._ Tout Juste Autant Qu'il Faut
+         Lire Dans Ta Main Que Le Ciel Te Condamne
+         NE Plus Toucher Une Fleur
+         Sans qu'elle se fane!
+
+_Sie._ moi!
+
+_Mep._ Plus De Bouquets A Marguerite! ...
+
+_Val._ Ma Soeur! ...
+         Qui vous bir dit oğlu nom?
+
+_Mep._ Prenez Garde, Pzt Cesur!
+         Vous vous ferez tuer par quelqu'un que je sais!
+            (Prenant Le Verre des Mains de Wagner.)
+         Bir Votre Sante! ...
+    (Jetant le contenu du verre, apres y avoir trempe ses levres.)
+         Peuh! que ton vin est mauvais! ...
+         PERSETTEZ-MOI DE VOUS EN OFFRIR DE MAVE!
+
+    (Frappant Sur Le Tonneau, Surmonte D'An Bacchus,
+       qui sert d'Enseigne au kabare.)
+         ! Seigneur Bacchus! Bir Boire! ...
+
+    (Le Vin Jaillit du Tonneau. Aux etudiants.)
+         Yaklaşık!
+         Chacun Sera Servi Selon Ses Gouts!
+         La Sante Que tout a l'heure
+         Vous Portiez, mes amis, bir Marguerite!
+
+_Val._
+             (Lui Arrachant Le Verre des Mains).
+                   Assez! ...
+         Si je ne te fais taire a l'anında, que je meure!
+
+    (Le Vin S'enflamme Dans La Vasque Placee Sesli Du Tonneau.)
+
+_Wag. et les etuds._ hola! ...
+                           (ILS Tirent Leurs Epees.)
+_Mep._ Pourquoi Trembler, vous qui me Menacez?
+
+    (Il Tire Un Cercle Autour de Lui Avec Son Epee.-Valentin
+       S'avance Pour L'Attaquer.-Son Epee Se Brise.)
+
+_Val._ Pzt Fer, o sürpriz!
+         Dans Les Se Brise Air! ...
+
+_Val., Wag., Sie. et les etuds._
+       (Forcant Mephistopheles bir yeniden oluşturucu et lui sunucu
+          La Garde de Leurs Epees).
+
+         De l'Enfer Qui Vient Emousser
+         NOS Armes!
+         Nous ne pouvons pas repouser
+         Les Charmes!
+         Mais Puisque Tu Brises Le Fer,
+         Saygı! ...
+         C'est une croix qui, de l'Enfer,
+         Nous Garde!
+                   (ILS SORTENT.)
+
+          * * * * * *
+
+
+Sahne IV.
+
+Mephistopheles, Puis Faust.
+
+_Mep._
+            (Remettive Son Epee Au Fourreau).
+         Nous nous retroverons, mes amis!-Serviteur!
+
+_Faust_
+                  (Giriş School).
+         Qu'as-tu donc?
+
+_Mep._ Rien!-Bir nous deux, Cher Docteur!
+         Qu'attendz-vous de moi? Parus cennetcerai-je?
+
+_Faust._ se cache la belle enfant
+         Que ton sanat m'a fait voir?-Est-Ce un boşuna?
+
+_Mep._ Non PAS! Mais kontr nous sa vertu la protege;
+         ET Le Ciel Meme la Defend!
+
+_Faust._ qu'import? Je Le Veux! Viens! Condruis-Mois Verse Elle!
+         Ou je me separe de toi!
+
+_Mep._ Il yeterli! ... Je tiens trop a pon nouvel emploi
+         Vous Laisser Douber Un Instant De Mon Zele!
+         Katılımcılar! ... ICI MEME, CE sinyali Joyeux,
+         La Belle et Chaste Enfant Va Paraitre A Vos Yeux!
+
+          * * * * * *
+
+
+Sahne V.
+
+    (Les etudiants et les jeunes dolguları, bras dessus, bras dessous, ET
+   ENVAHISSENT LA sahnesi par des joueurs de violon'dan önce gelir. ILS Sont
+   Suivie par les burjuva qui ont paru au başlangıç ​​de l'Acte.)
+
+     Les memes, etudiants, jeunes dolguları, burjuva,
+   Puis Siebel et Marguerite.
+
+_Cho._
+                (Marquant La Mesure en Marchant). Ainsi Que la Brise Legere
+         Souleve en epais tourbillons
+         La Poussiere
+         Des Sillons,
+         Que la valse nous kala!
+         Faites retentir la plaine
+         De l'Eclat De nos Chansons!
+
+  (Les Musiens Montent Sur Les Bancs; La Valse Başlangıç.)
+
+_Mep._
+              (bir Faust).
+         Vois ces dolgular
+         Gentiller!
+         NE VeUX-TU PAS
+         Aux artı çan
+         D'Entre Elles
+         Offrir ton sütyen?
+
+_Faust._ Non! FAIS TREVE
+         Bir CE ton Moqueur!
+         Et laisse mon coeur
+         Bir oğul Reve! ...
+
+_Sie._
+                   (Rentrant en sahne).
+         C'est par ici que doit passer
+         Marguerite!
+
+_Quelques Jeunes Filles._
+               (S'approchant de Siebel).
+         Faut-il qu'une bir Danser fille
+         Vous davet mi?
+
+_Sie._ non! ... non! je ne Veux pas valser! ...
+
+_Cho._ ainsi que la Brise Legere
+         Souleve en epais tourbillons
+         La Poussiere
+         Des Sillons,
+         Que la valse nous kala!
+         Faites retentir la plaine
+         De l'Eclat de nos chansons! ...
+                 (Marguerite Parait.)
+_Faust._ ah! ... la voici ... c'est elle! ...
+
+_Mep._ Eh Bien, Aborde-la!
+
+_Sie._
+       (Apervant Marguerite et Faisant un Pas ve Elle).
+         Marguerite! ...
+
+_Mep._
+      (SE Retournant ve Se Sorun Yüzü Bir Yüz Avec Siebel).
+         Plait-il! ...
+
+_Sie._
+                    (bir parça).
+         Maudit Homme! Encor la! ...
+
+_Mep._
+                (D'An Ton Mielleux).
+         Eh quoi! Mon Ami! vous voila! ...
+                   (en çok).
+         Ah, Vraiment, Mon Ami!
+
+    (Siebel Recule Devant Mephistopheles, Qui Lui Fait Faire Ainsi
+   La Tour Du Tiyatrosu En Yolcu Derriere Le Groupe des Danseurs.)
+
+_Faust_
+       (Abordant Marguerite Qui Traverse LA Sahnesi).
+         NE permettrez-vous pas, Ma Belle demoiselle,
+         Qu'on vous offre le bras pour faire le chemin?
+
+_Mar._ Non, Mösyö! je ne suis demoiselle, ni belle,
+         Et je n'ai pas besoin qu'on me donne la main.
+          (Elle Passe Devant Faust et S'eloigne.)
+
+_Faust_
+                 (La Suivant des Yeux).
+         Pas Le Ciel! Que de Grace ... et Quelle Modestie! ...
+         Ey Belle Enfant, Je t'aime! ...
+
+_Sie._
+      (redesendant en sahne sans avoir vu ce quient de se paser).
+         Elle Est Partie!
+
+    (Il Va Pour S'Lancer Sur La Trace de Marguerite; Mais,
+   se troivant de nouveau yüzü bir yüz avec mephistopheles,
+   Il Lui Tourne Le Dos et S'eloigne Par le Fond du Tiyatrosu.)
+
+_Mep._
+              (bir Faust).
+         Eh Bien?
+
+_Faust._ bana repousse! ...
+
+_Mep._
+                    (en çok).
+         ! A TES Amours
+         Je vois qu'il faut preter secours! ...
+   (İl s'eloigne avec faust du meme cote que marguerite.)
+
+_Quelques jeunes files_
+    (s'Adressant a trois ou quatre d'Entre elles qui on gözlem
+  Le Rencontre de Faust et de Marguerite).
+         Qu'est-Ce Donc! ...
+
+_Deuxieme Groupe de Jeunes Filles._
+         Marguerite,
+         Qui de ce beau seigneur la conduite'i reddediyor! ...
+
+_Etuds._
+                  (SE rapprochant).
+         Valsons Encor!
+
+_Jeunes Filles._
+         Valsons Toujours!
+
+
+
+
+Acte Troisieme.
+
+
+Sahne prömiyeri.
+
+Le Jardin de Marguerite.
+
+    (Au Fond, Un Mur Perce d'Ne Petite Porte. Bir Gauche, Un Bosquet.
+  Bir droite, un pavillon la fenetre fait yüz au halka.
+  Arbres ve Massifs.)
+
+_Sie._
+                         (Seul).
+    (Il est arete pres d'As Massif de Roses ve lilas.)
+
+                        BEN.
+         Faites-lui mes Aveux,
+             Portez mes Voeux,
+         Fleurs Ecloses Pres D'Elle,
+         Dites-lui qu'elle est Belle ...
+         Que mon coeur nuit et jour
+             Languit d'Amour!
+
+         Revelez bir oğul ame
+         Le Secret de Ma Flamme!
+         Qu'il s'exhale avec vous
+             Parfums Plus Doux! ...
+                 (Il Cueille Une Fleur.)
+         Fanee! ... Helas!
+             (Il Jette La Fleur Avec Depit. )
+           CE Sorcier Que Dieu Damne
+         M'a Porte Malheur!
+   (İl cueille une autre fleur qui s'effeuille encore.)
+         Je ne puis sans qu'elle se fane
+         Dokunucu une fleur! ...
+         Si je trempais mes doigts dans l'Auu Benite? ...
+
+    (Il S'Approche Du Pavillon et Trempe Ses Doigts Dans
+  un Benitier Acroche Au Mur.)
+         C'est la que chaque soir vient prier marguerite!
+         Voyons Bakım! Voyons Vite! ...
+                  (Il Cueille Deux Ou Trois Fleurs.)
+         Elles se fanent? ... non! ... Şeytan, je ris de toi ...
+
+                        İi.
+         C'est en vous que j'ai foi;
+               Parlez Pour Moi!
+         Qu'elle puisse connaitre
+         L'Ardeur qu'elle bir fait naitre,
+         ET Mon Coeur Sorun
+               N'a Point Parle!
+         Si l'Amour l'Efarouche,
+         Que la fleur sur sa bouche
+         Sache Au Moins Deposer
+         Un Doux Baiser! ...
+
+    (Il Cueille des Fleurs eski un bouquet et disparait pour
+   Dans Les Massifs du Jardin.)
+
+          * * * * * *
+
+
+Sahne II.
+
+Mephistopheles, Faust, Puis Siebel.
+
+_Faust_
+               (Giriş Douncue en sahne).
+         C'est ICI?
+
+_Mep._ SUIVEZ-MOI!
+
+_Faust._ que-tu la?
+
+_Mep._ Siebel, Votre rakibi.
+
+_Faust._ Siebel!
+
+_Mep._ Chut! ... Le Voila!
+          (Il se cache avec faust un bosquet.)
+
+_Sie._
+         (Rentrant en sahne, avec un bouquet a la main).
+         Pzt Bouquet n'est-il Pas Charmant?
+
+_Mep._
+                 (bir parça).
+         Şarj!
+
+_Sie._ Victoire!
+         Je Lui Raconterai DeMain toute L'Histoire;
+         ET, Si l'On Veut Savoir Le Secret de Mon Coeur,
+         Un baiser lui dira le resie!
+
+_Mep._
+                  (bir parça)
+         Seducteur!
+
+(Siebel ataşe le bouquet a la porte du pavillon et.)
+
+          * * * * * *
+
+
+Sahne III.
+
+Faust, Mephistopheles.
+
+_Mep._ Katılım Moi la, Cher Docteur!
+         Tenir compagnie aux fleurs de votre eleve,
+         Je Vais vous Chercher Un Tresor
+         Artı Merveilleux, artı Riche Encor
+         Que tous ceux qu'elle voit en reve!
+
+_Faust._ laisse-moi!
+
+_Mep._ J'obeis! ... Daignez M'attendenre Ici?
+                      (Il Sırtı.)
+
+          * * * * * *
+
+
+Sahne IV.
+
+Faust.
+
+_Faust_
+                      (Seul).
+         Quel Sorun Inconnu Me Penetre!
+         Je sens l'Amour s'emparer de mon etre.
+         Ey Marguerite! Tes bana Voici!
+         Selam! Demeure Chaste ve Pure, Ou Se Devine
+         La Varlığı d'Ne Ame Innocente et Divine! ...
+         Que de richesse en cette pauvrete!
+         En Reduit, Que de Felicite! ...
+         Ey Nature, c'est la que tu la fis si belle!
+         C'est la que cette enfant bir büyük ton aile,
+         Bir yurt sous tes yeux?
+         La Que, De Ton Haleine Zararlı Son AME,
+         Tu fis avec amour epanouir la femme
+         En cet ange des cieux!
+         Selam! Demeure Chaste ve Pure, Ou Se Devine!
+         La Varlığı d'Ne Ame Innocente et Divine! ...
+         Que de richesse en cette pauvrete!
+         En Reduit, Que de Felicite! ...
+         Selam! Demeure Chaste ve Pure, Ou Se Devine
+         La Varlığı d'Ne Ame Innocente et Divine! ...
+
+          * * * * * *
+
+
+Sahne V.
+
+Faust, Mephistopheles.
+
+(Mephistopheles reparait, une kaset sous le bras.)
+
+_Mep._ Alerte! la voila!
+         Sur L'Ecrin, Je Perdre Mon Pouvoir'i kabul ediyor!
+
+                       (Il Ouvre L'Ecrin.)
+_Faust._ FUYONS! ... Je Veux ne Jamais la Revoir!
+
+_Mep._ Quel Scrupule vous Prend! ...
+            (Placant L'Ecrin Sur Le Seuil du Pavillon.)
+         Sur Le Seuil de la Porte,
+         Voici l'Ecrin Place! ... Venez! ... J'ai Bon Espoir!
+
+    (Il Intraine Faust et Disparait Avec Lui Dans Le Jardin.
+  Marguerite Entre Par la Porte du Fond ve Descend En Silence
+  Jusque Sur Le Devant de la Sahne.)
+
+          * * * * * *
+
+
+Sahne VI.
+
+Marguerite. _Mar._
+                    (seule).
+         Je Voudrais Bien Savoir Quel ETAIT CE Jeune Homme,
+         Si c'est un grand seigneur, et yorum il se nomme?
+
+    (Elle S'assied Dans Le Bosquet, Devant Son Rouet, et Prend
+  Oğlu Fuseau Otomobil Duquel Elle De la Laine hazırlayın.)
+
+                        BEN.
+         "Il etait un roi de thule,
+         Qui, jusqu'a la tombe fidele,
+         Eut, en Houvenir de Sa Belle,
+         Une coupe en veya cisele! ... "
+                 (S'interrompant.)
+         Il Avait Bonne Grace, bir ce qu'il m'a Semble.
+              (Reprening Sa Chanson.)
+         "NUL TRESOR N'AVAIT PLUS DE CARMES!
+         Dans les büyükleri jours il s'en servait,
+         Et chaque fois qu'il y buvait,
+         Ses yeux se remplissaient de larmes! ... "
+
+                        İi.
+        (Elle Se Leve et Fait Quelques pas.)
+         "Quand Il nöbeti Venir la Mort,
+         Entendu Sur Sa Froide Couche,
+         Pour la porter jusqu'a sa bouche
+         Sa ana fit un yüce çaba! ... "
+                  (S'interrompant.)
+         Je ne savais que Dire, et j'ai rougi d'Abord.
+                (Reprening Sa Chanson.)
+         "Et Puis, en l'Honneur de Sa Dame,
+         İl ama Derniere fois;
+         La Coupe Trembla Dans Ses Doigts,
+         ET DOUCUDURE IL Rendit L'Ame! "
+         Les Grands Seigneurs Ont Seuls des Airs Si Resolus,
+         Avec Cette Douceur.
+               (Elle Se Dirige ve Le Pavillon.)
+         Allonlar! Pensons Plus!
+         Cher Valentin, si dieu m'ecoute,
+         Je te reverrai! ... ben voila
+         Toute Seule! ...
+
+    (Au an d'ester dans la pavillon, elle apercoit
+  la buket askı la porte.)
+         BUQUET!
+               (Elle Prend Le Bouquet.)
+         C'est de Siebel, Sans Doute!
+         Pauvre Garcon!
+               (Apervant la Casette.)
+         Que vois-je la?
+         D'O ce coffret peut-il venir? ... Je n'ose
+         Y toucher, et pourtant ...-- voici la clef, je crois! ...
+         Si Je l'Ovrais! ... Ma Main Tremble! ... Pourquoi!
+         Je ne fais, en l'Ovrant, Rien de Mal, Je sanırım! ...
+              (Elle Ouvre la Cassette et laisse tomber le bouquet.)
+         Ey Dieu! Que de Bijoux! ... EST-CE un Reve Charmant
+         Qui m'eblouit, ou si je Veille!-
+         Mes Yeux n'ont Jamais vu de Richesse Pareille! ...
+
+    (Elle Place La Casette Tout Outerte Sur Une Chaise
+      et s'Agenouille se parer.)
+
+         Si j'osais seulement
+         Ben parer un anı
+         De ces pentans d'Oreille!
+              (Elle Tire Des Boulles d'Oreilles de la Cassette.)
+         Voici tout Justement,
+         Au Fond de la Cassette,
+         Un miroir! ... yorum
+         N'etre pas coquette?
+
+    (Elle Se Pare Des Bouclees d'Oreilles, Se Leve ET
+   se dans le miroir.)
+
+         Ah! je ris de me voir
+         Si Belle en ce Ce Miroir! ...
+         EST-CE TOI, Marguerite?
+         Reponds-moi, repond vite!-
+         Olmayan! Non!-Ce n'est Plus Toi!
+         CE N'est Plus Ton Visage!
+         C'est la fille d'n roi,
+         Qu'on Salue Au Passage!
+         Ah! S'il etait Ici!
+         S'il Me Voyait Ainsi! ...
+         Comme une demoiselle
+         Il Me Troiverait Belle! ...
+         Achevons la metamorfoz!
+         Il Me Tarde Encor d'Essayer
+         Le Bracelet ve Le Collier.
+
+    (Elle se pare du collier d'Abord, Puis du bilezik.-Se Levant.)
+         Dieu! c'est comme une ana qui sur bras se poz!
+         Ah! je ris de me voir
+         Si Belle en ce Ce Miroir!
+         EST-CE TOI, Marguerite?
+         Reponds-moi, repond vite!-
+         Olmayan! Non!-Ce n'est Plus Toi!
+         CE N'est Plus Ton Visage!
+         C'est la fille d'n roi,
+         Qu'on Salue Au Passage! ...
+         Ah! S'il etait Ici!
+         S'il Me Voyait Ainsi! ...
+         Comme une demoiselle
+         Il Me Troiverait Belle! ...
+         Ah! S'il etait Ici! ...
+
+          * * * * * *
+
+
+Sahne VII.
+
+Marguerite, Marthe.
+
+_Mart. _
+                (katılımcı par le fond).
+         Que Vois-Je, Seigneur Dieu! ... Comme vous voila Belle,
+         Pzt ange!
+
+_Mar._
+                   (Avec karışıklığı).
+                                     Helas!
+         L'Aura Par Megarde Apporte'de!
+
+_Mart._ que non pas!
+         Ces Bijoux Sont bir vous, ma chere demoiselle!
+         Oui! C'est La Le Cadeau d'An Seigneur Amoureux!
+                    (Çorba.)
+         Pzt Cher Epoux Jadis Etait Moins Genereux!
+
+(Mephistopheles ve faust entrent en sahne.)
+
+          * * * * * *
+
+
+Sahne VIII.
+
+Les Memes, Mephistopheles, Faust.
+
+_Mep._ Dame Marthe Schwerlein, S'il vous Plait?
+
+_Mart._ qui m'appelle?
+
+_Mep._ Pardon d'Ser Ainsi Nous sunucusu Chez Vous!
+                    (Bas a Faust.)
+         Vous voyez qu'elle bir fait bel accueil aux bijoux?
+                    (Haut.)
+         Dame Marthe Schwerlein?
+
+_Mart._ Me Voici!
+
+_Mep._ La Nouvelle
+         Que j'apporte n'est pas pour vous mettre en gaite:-
+         Votre Mari, Madam, Est Mort ve Vous Salue!
+
+_Mart._ Ah! ... Grand Dieu! ...
+
+_Mar._ Qu'est CE Donc?
+
+_Mep._ Rien! ...
+
+    (Marguerite baisse les yeux sous le head de mephistopheles,
+     Se Nefret D'Oder Le Collier, Le Bracelet ve Les Pendants d'Oreilles
+     et de les remettre dans la cassette.)
+
+_Mart._ O Calamit!
+         O Nouvelle imprevue! ...
+
+    Topluluk.
+
+_Mar._
+                  (bir parça).
+         Malgre moi mon coeur tremble et tressaille a sa vue!
+
+_Faust_
+                  (bir parça).
+         La fievre de mes sens se disipe a sa vue!
+
+_Mep._
+                 (bir Marthe).
+         Votre Mari, Madam, Est Mort ve Vous Salue!
+
+_Mart._ ne m'apportez-vous rien de lui!
+
+_Mep._ Rien!
+         Chercher Quelqu'un Qui Le Remplace!
+
+_Faust_
+                  (bir Marguerite).
+         Pourquoi Donc Quitter Ces Bijoux?
+
+_Mar._ ces bijoux ne sont pas a moi! ... laissez, de zarf!
+
+_Mep._
+                  (bir Marthe).
+         Que ne Serait Heureux d'Echanger avec vous
+         La Bague d'Hymenee?
+
+_Mart._
+                  (bir parça).
+         Ah, Bah!
+                  (Haut.)
+         Plait-il?
+
+_Mep._
+                  (Çorba).
+         Helas! Zalim Destinee! ...
+
+_Faust_
+                 (bir Marguerite).
+         Prenez Mon Bras Un Moment!
+
+_Mar._
+                     (sanık).
+         Laissez!
+
+_Mep._
+            (De l'Atre Cote Du Tiyatrosu, bir Marthe).
+         VOTRE SRAS! ...
+
+_Mart._
+                      (bir parça).
+         Il Est Charmant!
+
+_Mep._
+                      (bir parça).
+         La voisine est un peu mure!
+
+    (Marguerite Abandonne oğlu CRAS A Faust et s'eloigne avec
+  Mephistopheles ve Marthe RESTENT SEULS EN SCREAD.)
+
+_Mart._ ainsi vous voyagez toujours?
+
+_Mep._ Dure Gerekiyor Madam!
+         Sans Ami, Sans Ebeveynler! ... Sans femme.
+
+_Mart._ cela sied encore aux beaux jours!
+         Mais Plus Tard, Combien Il Est Triste
+         De Vieilir Seul, Egoiste!
+
+_Mep._ J'ai Fremi Souvent, J'EN Conviens,
+         Devant Cette Korkunç Pensee!
+
+_Mart._ Avant Que l'Heure en soit passee!
+         Digne Seigneur, Songez-y Bien!
+
+_Mep._ J'y Songerai!
+
+_Mart._ Songez-y Bien!
+
+      (ILS Sorttent. Entre Faust et Marguerite.)
+
+_Faust._ eh quoi! Toujours seule? ...
+
+_Mar._ Pzt Frere
+         EST Soldat; J'ai perdu mere;
+         Puis ce fut un autre malheur,
+         Je Perdis Ma Petite Soeur!
+         Pauvre Ange! ... Elle M'etait Bien Chere! ...
+         C'etait Mon Benzersiz Souci;
+         Que de Soins, Helas! ... Que de Peines!
+         C'est quand nos ames en sont pleines
+         Que la Mort nous les prend ainsi! ...
+         Sitot Qu'elle S'Eveillait, Vite
+         Il Faleit que je fusse la! ...
+         Elle N'aimait Que Marguerite!
+         Pour la Voir, La Pauvre Petite,
+         Je Reprendrais Bien tout cela! ...
+
+_FAUST. _ Si le Ciel, Avec Un Sourire,
+         L'AVAIT faite semblable a toi,
+         C'etait un ange! ... oui, je le croi! ...
+
+_Mar._ vous moquez-vous! ...
+
+_Faust._ Non! Je T'Admire!
+
+_Mar._
+                    (Sourant).
+         Je ne vous crois pas
+         Et de de moi tout Bas
+         Vous riez sans doute! ...
+         J'ai Tort de Rester
+         Vous ekouter dökün! ...
+         Et pourtant j'ecoute! ...
+
+_Faust._ laisse-moi ton sütyen! ...
+         Dieu ne m'a t'il pas
+         Boru Sur ta rotası? ...
+         Pourquoi Redouter,
+         Helas! D'Acouter? ...
+         Mon Coeur Parle; Ecoute! ...
+
+           (Mephistopheles ve Marthe Reparaissent.)
+_Mart._ vous n'endendz pas,
+         Ou de de moi tout Bas
+         Vous Riez Sans Doute!
+         Avant d'Acouter,
+         Pourquoi vous düşmanı
+         De vous mettre yolda?
+
+_Mep._ ne m'Accuseez Pas,
+         Si Je Dois, Helas!
+         Ben yolda remettre.
+         Faut-il Attester
+         Qu'on voudrait rester
+         Vous Ecoute üzerinde quand?
+
+           (La nuit bir tomber başlar.)
+_Mar._
+                     (bir Faust).
+         Letirez-vous! ... Voici la nuit.
+
+_Faust_
+        (Yolcu oğlu Bras Autour de la Taille de Marguerite).
+         Chere AME!
+
+_Mar._ laissez-moi!
+              (Elle se debage et s'enfuit.)
+
+_Faust_
+                (la poursuivant).
+         Sakın! Mechante! ... üzerimde fuit!
+
+_Mep._
+       (Bir bölüm, Tandis Que Marthe, DePitee, Lui Tourne Le Dos).
+         L'Enretien Devient Trop Tendre!
+         Esquivons nous!
+             (Il SE SE Cache Derriere Un Arbre.)
+
+_Mart._
+                   (bir parça).
+         M'y Prendre yorum?
+                (SE retournant.)
+         Eh Bien! il est parti! ... seigneur! ...
+                (Elle S'eloigne.)
+
+_Mep._ OUI! Cours Apres Moi! ...
+         OUF! Cette Vieille Tutulmaz
+         De Force Ou de Gre, Je Crois,
+         Epouser Le Diable!
+
+_Faust_
+                  (Dans La Coulisse).
+         Marguerite!
+
+_Mart._
+                  (Dans La Coulisse).
+         Cher Seigneur!
+
+_Mep._ Serviteur!
+
+          * * * * * *
+
+
+Sahne IX.
+
+Mephistopheles.
+
+_Mep._
+                       (Seul).
+         Il etait sıcaklıkları! sous le feuillage kasvetli
+         Voici nos amoureux qui reviennent! ...
+         C'est Bien!
+         Gardons nous de troubler un si doux entretien!
+         O nuit, etends sur eux ton ombre!
+         Amour, Ferme Leur Ame Aux Remords Importuns!
+         Et vous, fleurs aux subtils parfums,
+         Epanouissez-vous sous cette ana maudit!
+         Achevez de Troubler Le Coeur de Marguerite! ...
+           (Il S'eloigne et Disparait Dans L'OMBRE.)
+
+          * * * * * *
+
+
+Sahne X.
+
+Faust, Marguerite.
+
+_Mar._ Il Se Fait Tard! !
+
+_Faust_
+                    (LA Retenant).
+         Sakın! Je t'implore en boşluk!
+         ! Laisse Ma Main S'OULIER DANS LA TIENNE!
+             (S'Agenouillant Devant Marguerite.)
+         Laisse-moi, laisse-moi teannpler ton visage
+         Sous la soluk clarte
+         Don't l'stre de la nuit, comme dans un nuage,
+         Caresse Ta Beaute! ...
+
+_Mar._ o Sessizlik! Ey Bonheur! Etkilemez Mystere!
+         ENIVRANTE LANGUEUR!
+         J'ecoute!
+         Qui cante dans mon coeur!
+           (DeGageant Sa Main de Celle de Faust.)
+         Laissez un peu, de Grace! ...
+
+          (Elle Se Penche ve Cueille Une Marguerite.)
+_Faust._ qu'est se Donc?
+
+_Mar._ un basit jeu!
+         Laissez un peu!
+               (Elle Effeuille La Marguerite.)
+
+_Faust._ que dit ta bouche a voix taban! ...
+
+_Mar._ il m'aime!-Il ne m'aime pas!-
+         İl m'aime!-pas!-il m'aime!-Pas!
+         -IL m'aime!
+
+_Faust._ oui!
+         Qu'elle soit pour pour ton coeur l'Oracle du ciel meme! ...
+         İl t'aime!
+         Giz! porter en nous
+         Une ardeur toujours nouvelle! ... Nous inivrer sans fin d'mee joie Eternelle!
+
+_Faust et mart._
+                Eternce! ...
+
+_Faust._ o nuit d'Amour ... Ciel Radieux! ...
+         Ey Douces Flammes! ...
+         Le Bonheur Silencieux
+         Ayet les cieux
+         Dans nos Deux Ames! ...
+
+_Mar._ je Veux t'aimer et te cherir!
+         Parle Encore!
+         Je t'appartiens! ... Je t'adore! ...
+         Toi Je Veux Mourir dökün! ...
+
+_Faust._ Marguerite! ...
+
+_Mar._
+                (se degageant des bras de faust).
+         Ah! ... Partez! ...
+
+_Faust._ zalim! ...
+         Me Seeper De Toi! ...
+
+_Mar._ Je Chancelle! ...
+
+_Faust._ ah! Zalim! ...
+
+_Mar._
+                    (Supriante).
+         Laissez-moi! ...
+
+_Faust._ tu Veux que je te quitte
+         Helas! ... Vois Ma Douleur.
+         Tu me brises le coeur,
+         Ey Marguerite! ...
+
+_Mar._ Partez! Oui, partez vite!
+         Je Tremble! ... Helas! ... J'ai Peur!
+         Ne brisez pas le coeur
+         De Marguerite!
+
+_Faust._ par pitie! ...
+
+_Mar._ si je vous suis chere,
+         Par Votre Amour, Par Ces Aveux
+         Que je devais taire,
+         Cedez A Ma Priere! ...
+         Cedez a mes voeux!
+
+           (Elle Tombe Aux Pieds de Faust.)
+_Faust_
+          (Apres Un Silence, LA alakalı Douder).
+         İlahi Purete! ...
+         İffet masumiyeti,
+         Don't la puissance
+         Triomphe de Ma Volonte! ...
+         J'obeis! ... Mais DeMain!
+
+_Mar._ oui, demain! ... des l'Aurore! ...
+         DeMain Toujours! ...
+
+_Faust._ un Mot Encore! ...
+         Repete-moi ce doux aveu! ...
+         Tu m'aimes! ...
+
+_Mar._ Adieu! ...
+                (Elle Entre Dans Le Pavillon.)
+
+_Faust._ felicite du ciel .... ah ... fuyons ....
+
+    (La Porte Du Jardin'e karşı Il S'ELANCE.
+  Mephistopheles Lui Barre Le Passage.)
+
+          * * * * * *
+
+
+Sahne XI.
+
+Faust. Mephistopheles.
+
+_Mep._ Tete folle! ...
+
+_Faust._ tu nous ecoutais.
+
+_Mep._ Par Bonheur.
+         Vous auriez grand besoin, docteur,
+         Qu'on vous Renvoyat a l'Ecole.
+
+_Faust._ laisse-moi.
+
+_Mep._ Daignez Seulement
+         Ekouter un anı
+         Ce qu'elle va conter aux etoiles, cher maitre.
+         Tenez; Elle Ouvre Sa Fenetre.
+
+    (Marguerite Ouvre la fenetre du pavillon et s'y appuie
+  Sessizlik, la tete entre les şebekesi.)
+
+          * * * * * *
+
+
+Sahne XII.
+
+Les memes. Marguerite.
+
+_Mar._ il m'aime; ... Quel Trouble, Mon Coeur,
+         L'Oiseau Chante! ... Le Vent Murmure! ...
+         Toutes les voix de la doğa
+         Beni Repeter en Choeur:
+         İl t'aime! ...- Ah! qu'il est Doux de Vivre! ...
+         Le Ciel Me Sourit; ... l'Air m'enivre! ...
+         EST-CE DE PLAISIR ET D'AMOUR
+         Que la feuille tremble et palpit? ...
+         DeMain? ...- Ah! Presse ton retour,
+         Cher Bien-aime! ... Viens! ...
+
+_Faust._
+    (S'Elancant ve La Fenetre et Saisissant la Main de Marguerite).
+                   Marguerite! ...
+
+_Mar._ Ah! ...
+
+_Mep._ Ho! Ho!
+
+    (Marguerite Reste Un Moment Interdite Et laisse Tomber Sa Tete Sur
+  L'Epaule de Faust; Mephistopheles ouvre la porte du jardin et türü
+  en ricanant. La Toile Tombe.)
+
+
+
+
+Acte Quatrieme.
+
+
+Sahne prömiyeri.
+
+_La chambre de marguerite._
+
+Marguerite, Siebel.
+
+_Sie._
+         (S'approchant Dounder de Marguerite).
+         Marguerite!
+
+_Mar._ Siebel! ...
+
+_Sie._ Encore des pleurs.
+
+_Mar._
+                   (Se Levant).
+                                  Helas!
+         Vous seul ne me maudissez pas.
+
+_Sie._ je ne suis qu'un enfant, mais j'ai le coeur d'n homme
+         Et je vous vengerai de oğlu Lache terk!
+         Je Le Tuerai!
+
+_Mar._ qui donc?
+
+_Sie._ faut-il que je le nomme?
+         L'grat qui vous trahit! ...
+
+_Mar._ non! ... taisez-vous? ...
+
+_SIE._ PARDON!
+         Vous l'Aimez encore?
+
+_Mar._ oui! ... Toujours!
+         Mais Ce n'est pas a vous de slaindre mon ennui
+         J'ai Tort, Siebel, De Vous Parler de Lui.
+
+_Sie._
+                        BEN.
+         Si la bonheur a sourire t'invite,
+         Joyeux Alors, je sens un doux emoi;
+         Si la Douleur T'accable, Marguerite,
+         Ey Marguerite, Je Pleure Alors,
+         Je pleure comme toi!
+
+                        İi.
+         Comme deux fleurs sur une meme tige,
+         Notre Destin Suivant Le Meme Cours,
+         De tes çileleri en fiere m'Afflige,
+         Ey Marguerite, Comme une Soeur,
+         Je t'aimerai toujours!
+
+_Mar._ Soyez Beni, Siebel! Votre Amitie M'est Douce!
+         Ceux la Main Cruelle Me Repousse,
+         N'ont pas ferme pour pour moi la porte du saint lieu;
+         J'y vais pour pour pon enfant ... et pour lui prier dieu!
+           (Elle Sırası; Siebel La A Pas Lents Suit.)
+
+          * * * * * *
+
+
+Sahne II.
+
+_L'aglise._
+
+Marguerite, Puis Mephistopheles.
+
+    (Quelques femmes geçişli la sahne et entrent Dans l'Eglise.
+  Marguerite Entre Apres Elles et S'Agenouille.)
+
+_Mar._ Seigneur, Daignez PERSETTRE A VOTRE MUTTERLİ SERVANTE
+         De S'Agenouiller Devant Vous!
+
+_Mep._ Non! ... tu ne prieras pas! ... Frappez-la d'pouvante!
+         Esprits du Mal, Accourez Tous!
+
+_Voix de Demons Invisibles._ Marguerite!
+
+_Mar._ qui m'appelle?
+
+_Voix._ Marguerite!
+
+_Mar._ Je Chancelle!
+         Je Meurs!-Dieu Bon! Dieu Clement!
+         EST-CE DEJA L'HEURE DU Chatiment?
+
+    (Mephistopheles parait Derriere un pierier et se penche
+  bir L'Oreille de Marguerite.)
+
+_Mep._ Souviens-toi du Passe, quand sous l'Aile des anges,
+         Abritant Ton Bonheur,
+         Tu Venais Dans Oğlu Tapınağı, Büyülü Ses Louanges,
+             Adorer Le Seigneur!
+         Lorsque tu begayais une iffet priere
+         D'Ne Timide Voix,
+         Et portais dans ton coeur les baisers de ta mere,
+         ET Dieu tout a la fois!
+         Ecoute Ces Clameurs! C'est l'Enfer qui t'appelle! ...
+         C'est l'Enfer qui te takım!
+         C'est l'Enelel Remords et l'Angeloisse Eternelle
+         Dans l'Eternelle nuit!
+
+_Mar._ Dieu! Quelle est Cette Voix Qui Me Parle Dans L'Ombre?
+         Dieu Tout Puissant!
+         Quel Voile kasvetli
+         Sur Moi İniş! ...
+
+_Aşı Religieux_
+                 (Eşyaş par les orges).
+         Quand du Seigneur Le Jour Luira,
+         Sa Croix Au Ciel RESPLENDIRA,
+         ET L'EVY S'ECROULERA ...
+
+_Mar._ helas!
+
+_Mep._ Non!
+         Dieu pour toi n'a artı affı!
+         Le Ciel pour toi n'a artı d'Aurore!
+
+_Cho. Relieux._ Que Dirai-Je alors au seigneur?
+         Ou troiverai-je un Protecteur,
+         Quand l'nnocent n'est pas sans peur!
+
+_Mar._ Ah! CE Chant M'etouffe et M'Oppresse!
+         Je Suis Dans Un Cercle De Fer!
+
+_Mep._ Adieu les nuits d'Amour et les jours pleins d'Ivresse!
+         Toi Malheur! A toi l'Enfer!
+
+_Mar. et le cho. Religieux._
+         Seigneur, Acculeilz la priere
+         Des Coeurs Malheureux!
+         Qu'un Rayon de Votre Lumiere
+         Descende Sur eux!
+
+_Mep._ Marguerite!
+         Sois Maudite! A toi l'Enfer!
+
+_Mar._ Ah!
+                 (Il Disparait.)
+
+          * * * * * *
+
+
+Sahne III.
+
+_La rue._
+
+Valentin, Ledats, Puis Siebel.
+
+_Cho._ DepoSons Les Armes;
+         Dans nos fuayeler enfin nous voici revenus!
+         Nos meres en larmes,
+         Nos meres et nos soeurs ne nous nous recitnront plus.
+
+          * * * * * *
+
+
+Sahne IV.
+
+Valentin, Siebel.
+
+_Val._
+                 (Apervant Siebel).
+         Eh! Parbleu! C'est Siebel!
+
+_Sie._ cher valentin ....
+
+_Val._ Viens Vite!
+         Viens Dans mes bras.
+                  (Il L'Embrasse.)
+                         Et marguerite?
+
+_Sie._ (avec omarras).
+         Elle Est A L'Eglise, Je Crois.
+
+_Val._ oui, pırıl pırıl moi pour .... Chere Soeur, Tremblante et sirctive,
+         Comme Elle Va Preter une Oreille özenli
+         AU RECIT DE NOS SAVAŞLARI!
+
+_Cho._ Gloire Immortelle
+         De nos aieux,
+         Sois nous fidele
+         Mourons Eux!
+         Et sous ton aile,
+         Ledats Vainqueurs,
+         Dirige nos pas, enflamme nos coeurs!
+         Nos Foyers Hatons Le Pas!
+         Nous katılmak; la paix est faite!
+         Artı De De Soupirs! Ne Tardons pas!
+         Notre, nous eğilim les sütyen ödüyor!
+         L'Amour Nous Rit! L'Amour nous fete!
+         ET Plus d'An Coeur Fremit Tout Bas
+         Au Hatıra De Nos savaşıyor!
+         L'Amour Nous Rit! L'Amour nous fete!
+         ET Plus d'An Coeur Fremit Tout Bas
+         Au Hatıra De Nos savaşıyor!
+         Gloire Immortelle.
+
+            * * * * * *
+
+_Val._ Alons, Siebel! Entronlar Dans La Maison!
+         Le Verre en Main, tu me Feras Raison!
+
+_Sie._
+                    (Vivement).
+         Olmayan! N'ENTRE PAS!
+
+_Val._ pourquoi?
+         Ton fuit le mien?
+
+_Sie._ Eh Bien!-Non, Je ne puis!
+
+_Val._ Que Veux-tu Dire?
+            (Il Se Dirige ve La Maison.)
+
+_Sie._
+                      (L'Rretant).
+                                Dön!
+         Sois Clement, Valentin!
+
+_Val._ (furieux).
+         Laisse-moi! laisse-moi!
+               (Il Entre Dans La Maison.)
+
+_Sie._ Pardonne-Lui!
+                      (Seul.)
+         Mon Dieu! Je vous implore!
+         Mon Dieu, ProteZez-La.
+
+    (İl s'eloigne; mephistopheles ve faust entrent en sahne;
+  Mephistopheles Tient une Guitare a la Main.)
+
+         * * * * * *
+
+
+Sahne V.
+
+Faust, Mephistopheles.
+
+(Faust Se Dirige ve La Maison de Marguerite et s'arrete.)
+
+_Mep._ Qu'atdendz-Vous Encore?
+         Entronlar Dans La Maison.
+
+_Faust._ tais-toi, maudit! ... j'ai peur
+         De Rapporter Ici La Honte et Le Malheur.
+
+_Mep._ A Quoi Bon La Revoir, Apres L'avoir Quitte?
+         Notre varlığı Ailleurs Serait Bien Mieux Fetee!
+         La Sabbat Nous katılın!
+
+_Faust._ Marguerite!
+
+_Mep._ Je Vois
+         Que mes avis sont vains et que l'Amour l'Emporte!
+         Mais, pour vous faire ouvrir la porte,
+         Vous avez grand besoin du secours de ma voix!
+
+    (Faust, Pensif, Se Tient a l'Ec.
+     Mephistopheles S'Accompagne Sur Sa Guitare.)
+
+                        BEN.
+         "Vous Qui Faites L'Endormie,
+           N'ENTENDEZ-VOUS PAS,
+         Ey Catherine, Ma Mie,
+           Ma Voix et mes Pas ...? "
+         Ainsi Ton Galant T'Appelle,
+           ET TON COEUR L'EN CROIT!
+         N'Ouvre Ta Porte, Ma Belle,
+         Que la Bague au doigt!
+
+                        İi.
+         "Catherine Que J'adore,
+         Pourquoi Reddi
+         Bir L'Atant Qui vous implow
+           Un Si Doux Baiser? ... "
+         Ainsi Ton Galant Tedarik,
+           ET TON COEUR L'EN CROIT!
+         Ne Donne Un Baiser, Ma Mie,
+           Que la Bague au doigt!
+
+            (Valentin Sıra de la Maison.)
+
+          * * * * * *
+
+
+Sahne VI.
+
+Les memes. Valentin.
+
+_Val._ que voulez-vous, Messieurs?
+
+_Mep._ Pardon! Mon Camarade,
+         Mais ce n'est pas pour vous qu'etait la serenade!
+
+_Val._ Ma Soeur l'Etouterait mieux que moi, je le sais!
+
+   (Il dejeaine et brise la Guitare de Mephistopheles d'N darbesi.)
+
+_Faust._ sa soeur!
+
+_Mep._
+                    (bir Valentin).
+         Quelle mouche vous pike?
+         Vous n'aimez donc pas la musique?
+
+_Val._ assez d'Gerape! ... assez! ...
+         Bir qui de vous Dois-Je Demander Compte
+         De Mon Malheur ve Ma Honte? ...
+         Qui de vous deux doit tomber sous mes darbeleri? ...
+                  (Faust Tire Son Epee.)
+         C'est lui! ...
+
+_Mep._ Vous Le Voulez? ...-Allons, Docteur, bir vous! ...
+
+_Val. _ Yücel, Ey Dieu Puissant,
+         Ma Force ve Mon Cesaret!
+         Permets Que Dans oğlu şarkı söyledi
+         Je Lave Pzt Geri!
+
+_Faust_
+                       (bir parça).
+         Korkunç et Fremissant,
+         Il Glace Mon Cesaret!
+         Dois-Je Verser Le Sang
+         Du frere que j'outrage? ...
+
+_Mep._ De Son Air Menacant,
+         De Son Aveugle Rage,
+         Je Ris! ... Pzt Bras Puissant
+         VA Delourner L'Orage! ...
+
+_Val._
+      (Tirant de oğlu Sein la Medaille que lui a Donnee Marguerite).
+         Et toi qui conservas mes jours,
+         Toi Qui Me Viens de Marguerite,
+         Je ne Veux Plus De Ton Secours,
+         Medaille Maudite! ...
+              (Il Jette La Medaille Loin de Lui.)
+
+_Mep._
+                       (bir parça).
+         Tu t'en repentiras!
+
+_Val._ trarde! ... et savunurlar-toi! ...
+
+_Mep._
+                     (bir Faust).
+         Serrez-Vous Conte Moi! ...
+         Et poussez seulement, cher docteur! ... moi, je pare.
+
+_Val._ Ah!
+                 (Valentin Tombe.)
+
+_Mep._ Voici Notre Heros etendu sur le sakle! ...
+         Au büyük bakım! au büyük! ...
+
+    (Il Intraine Faust. Arrivent Marthe et des Bourgeois
+  Portant Des Torches.)
+
+          * * * * * *
+
+
+Sahne VII.
+
+Valentin, Marthe, Burjuva, Puis Siebel et Marguerite.
+
+_Mart. et les bourg._
+         Par Ici! ...
+         Pari, mes amis! se se bat dans la rue! ...-
+         L'un d'Eux est tombe la!-Saygı ... Le Voici! ...
+         İi n'est pas encore mort!
+         Vite, antchez! ... il faut le secourir!
+
+_Val._
+              (solevant avec çabası).
+         MERM!
+         De Vos Plaines, Faites-Moi Grace! ...
+         J'ai Vu, Morbleu! La Mort En Yüz
+         Trop souvent pour en avoir peur! ...
+     (Marguerite parait au Fond Soutenue par Siebel.)
+
+_Mar._ Valentin! ... Valentin! ...
+      (Elle Ecarte la Foule et Tombe A Genoux Pres de Valentin.)
+
+_Val._ Marguerite! Ma Soeur! ...
+                   (İl la repousse.)
+
+         Que me Veux-tu? ... va-t'en
+
+_Mar._ o diu! ...
+
+_Val._ je meurs par elle! ...
+         J'ai sottement
+         Cherche Querelle
+         Bir oğul Amant!
+
+_La foule_.
+            (Bir Demi Voix, Montrant Marguerite).
+         Il Meurt, Frappe par oğlu Amant!
+
+_Mar._ Douleur Cruelle!
+         Ey Chatiment! ...
+
+_Sie._
+                   (bir Valentin).
+         Grace Pour Elle! ...
+         Soyez Clement!
+
+_Val._
+             (Soutenu par ceux qui l'Enourent).
+         Ecoute-Moi Bien, Marguerite! ...
+         CE Qui Doit Arriver bir L'Heure Dite geliyor!
+         La Mort Noous Frappe Quand Il Faut,
+         Et chacun obeit aux volontes d'EN haut! ...
+         -toi! ... te voila dans la mauvaise voie!
+         Tes Blanches Şebeke Ne Travailleront Plus!
+         Tu Reniras, Pour Vivre Dans La Joie,
+         Tous les devoirs et toutes les vertus!
+         Va! La Honte T'Accable
+         Le Remords takım pas!
+         Mais enfin l'Heure Sonne!
+         Meurs! ET Si Dieu Te Pardonne,
+         Soit Maudite Ici-Bas.
+
+_La foule._
+         O terreur, o küfür
+         Bir ton heure yüce, infortune,
+         Songe, Helas, bir Toi-Meme,
+         Pardonne, si tu veux ETRE un Jour Pardonne!
+
+_Val._ Marguerite! Soit Maudite!
+         La Mort t'attend Sur Ton Grabat!
+         Moi je meurs de ta main
+         ET JE TOMBE EN Soldat!
+                     (İl meurt.)
+
+_La foule._
+         Que le seigneur ait oğlu ame
+         ET PARDONNE AU Pecheur.
+                  (La Toile Tombe.)
+
+
+
+
+Acte Cinquieme.
+
+
+Sahne prömiyeri.
+
+La hapishane.
+
+Marguerite, Endormie, Faust, Mephistopheles.
+
+_Faust._ va t'en!
+
+_Mep._ Le Jour Va Luire.-Dresse L'ECHAFAUD'da!
+         Karar Sans Marguerite bir te suivre geciktirir.
+         Le Geolier Dort.-Voici les Clefs.-Il Faut
+         Que ta Main d'Homme la Delivre.
+
+_Faust._ laisse-moi!
+
+_Mep._ Hatez-Vous.-Moi, Je Veille Au Dehors.
+
+                       (Il Sırtı.)
+_FAUST. _ Mon Coeur est penetre d'pouvante!-O işkence!
+         O Source de pişman ve remords!
+         C'est Elle!-La Voici, La Douce Creature
+         Jetee au düşkün d'Ne hapishanesi
+         Tanıtım ine vile criminelle!
+         Le DeSespoir Egara Sa Raison
+         Oğul Pauvre Enfant, Ey Dieu! Sal par elle!
+         Marguerite!
+
+_Mar._
+                        (S'eveillant).
+         Ah! C'est lui!-C'est lui! Le Bien-Aime!
+                       (Elle Se Leve.)
+         Bir oğlu Appel Mon Coeur S'est Ranime.
+
+_Faust._ Marguerite!
+
+_Mar._ au milieu de vos eclats de rire,
+         Demons Qui M'entourez, J'ai Reconnu Sa Voix!
+
+_Faust._ Marguerite!
+
+_Mar._ SA Main, Sa Douce Main M'attire!
+         Je Suis Libre! Il est la! Je L'Ent! Je la Vois.
+         Oui, c'est toi, je t'aime,
+         Les fers, la mort mem
+         Ne Font Plus Peur!
+         Tu m'as geri çekilme,
+         Ben Voila Sauve!
+         C'est Toi; Je Suis Sur Ton Coeur!
+
+_Faust._ oui, c'est moi, je t'aime,
+         Malgre L'Enper Meme
+         Du Demon Moqueur,
+         Je t'ai geri çekilme,
+         Te voila sauve,
+         C'est Moi, Viens Sur Mon Coeur!
+
+_Mar._
+             (se degageant dounder de ses bras).
+         Katılıyor! ... voici la rue
+         Ou tu m'as vue
+         Pour la prömiyeri fois! ...
+         OU VOTRE ANA OSA Presque Presque Effleurer mes Doigts!
+         "--ne permette-vous pas, ma belle demoiselle,
+         Qu'on vous offre le bras pour faire le chemin? "
+         "--Mösyö, je ne suis demoiselle ni belle,
+         Et je n'ai pas besoin qu'on me donne la main! "
+
+_Faust._ oui, Mon Coeur souvient!-Mais Fuyons! L'Heure Passe!
+
+_Mar._ et voici le jardin charmant,
+         Parfume de Myrte et de Rose,
+         Ou kaquque soir ayrıklığı
+         Tu penetrais a la nuit yakın.
+
+_Faust._ Viens, Marguerite, Fuyons!
+
+_Mar._ non, reside encore.
+
+_Faust._ O Ciel, Elle Ne M'entends pas!
+
+          * * * * * *
+
+
+Sahne II.
+
+Les memes. Mephistopheles.
+
+_Mep._ Alerte! Alerte! Ou vous etes perdus!
+         Si Vous Tardez Encor, Je ne M'en Mele Plus!
+
+_Mar._ Le Demon! Le Demon!-Le Vois-tu? ... la ... Dans L'Ombre
+         Fixant sur nous oğlu oeil de feu!
+         Que nous veut-il?-Chasse-le du Saint Lieu!
+
+_Mep._ l'Aube DePuis longtemps a alging la nuit kaset,
+         La Jour Est Leve
+         De Leur Pied Sonore
+         J'entends nos Chevaux Frapper Le Pave.
+             (Cherchant A Nutainer Faust.)
+         Viens! Sauvons-la. Peut-etre il en est temps encore!
+
+_Mar._ Mon Dieu, Protegez-Moi!-Mon Dieu, Je vous implore!
+                  (Tombant a genoux.)
+         Anges Purs! Anges Radieux!
+         Portez Mon Ame Au Sein des Cieux!
+         Dieu Juste, bir Toi Je M'ABANDONNE!
+         Dieu Bon, Je Suis a toi!-Pardonne!
+
+_Faust._ Viens, suis-moi! Je Le Veux!
+
+_Mar._ Anges Pur, Anges Radieux!
+         Portez Mon Ame Au Sein des Cieux!
+         Dieu Juste, bir Toi Je M'ABANDONNE!
+         Dieu Bon, Je Suis a toi!-Pardonne!
+         Anges Pur, Anges Radieux!
+         Portez Mon Ame Au Sein des Cieux!
+                  (Bruit au Dehors.)
+
+_Faust._ Marguerite!
+
+_Mar._ Pourquoi CE Menacant'ı kabul ediyor mu?
+
+_Faust._ Marguerite!
+
+_Mar._ pourquoi ces şebeke rouges de sang?
+                  (Le Repoussant.)
+         Va! ... tu me fais horreur!
+              (Elle Tombe Sans Mouvement.)
+
+_Mep._ Jugee!
+
+_Cho. des anges._ sauvee! Mesih Est Ressuscit!
+                  Mesih Vient de Renaitre!
+                  Paix ve Felicite
+                  Aux Disiplines du Maitre!
+                  Mesih Vient de Renaitre.
+                  Mesih Est Ressuscit!
+
+    (Les murs de la hapishane se sont outerts. L'ome de marguerite
+  S'ELEVE DANS LES CIEUX. Faust La Suit Des Yeux Avec Despoir;
+  Il Tombe A Genoux et Prie. Mephistopheles bir Demi Renverse
+  sous l'pee lumineuse de l'Archange.)
+
+Fin.
+
+
+
+
+[İllüstrasyon: Eylem I: A Moi les plaisirs
+                     (Oh, zevk alırdım)]
+
+[İllüstrasyon: Yasa II. Vals ve Koro-1]
+
+[İllüstrasyon: Yasa II. Vals ve Koro-2]
+
+[İllüstrasyon: Yasa III: O nuit d'Amour
+                       (O Aşk Gecesi)]
+
+[İllüstrasyon: ACT IV: Askerler Korosu]
+
+[İllüstrasyon: ACT V: Anges Pur, Anges Radieux
+                     (Kutsal Melekler, Cennet Blest'te)]
+
+
+
+
+Standart Opera Librettos
+
+Tüm librettoların İngilizce metni var. Ek metinler
+İtalik harfler, aşağıdaki gibi: _i_, İtalyanca; _G_, Almanca; _F_, Fransızca.
+(*) İle işaretlenmiş olanlar müzik içermez. Diğerlerinin müziği var
+Ana Havalar.
+
+Fiyat, her biri 30 sent, net.
+
+
+                          A-G
+
+ Başlık metin besteci
+
+ Africaine, l '_i._ _giacomo meyerbeer_
+ Aida _i._ _giuseppe Verdi_
+ Armide _F._ _C. W. Von Gluck_
+ Maschera'da Ballo, BM
+   (Maskelenmiş top) _i._ _giuseppe Verdi_
+ Barbe
+   (Mavi sakal) _f._ _jacques ofenbach_
+ Barbiere di Siviglia, IL
+   (Seville Berber) _i._ _gioacchino A. Rossini_
+ Takas gelin _g._ _frederich smetana_
+ Belle Helena, la _f._ _jacques ofenbach_
+ Corneville çanları
+   (Normandiya Çanları) _Robert Planquette_
+ *Billee Taylor _edward Solomon_
+ *Boccaccio _franz von suppe_
+ Bohem kızı, _michael wm. Balfe_
+    Yapmak.                     _Evet.
+ Carmen _F._ _Georges Bizet_
+    Yapmak.                     _Evet.
+ Cavalleria rusticana _i._ _pietro mascagni_
+ Normandiya Çanları
+   (Corneville Bells) _Robert Planquette_
+ Kleopatra'nın Gecesi _Henry Hadley_
+ Contes d'Hoffmann, les
+   (Hoffmann Masalları) _F._ _jacques ofenbach_
+ Crispino E la Comare
+   (Ayakkabıcı ve
+    Peri) _i._ _luigi ve f. ricci_
+ Crown Diamonds, _f._ _d. F. E. Auber_
+ Dame Blanche, la _f. A. boieltieu_
+ Faust'un lanetlenmesi, _f._ _hector Berlioz_
+ Dinorah _i._ _giacomo meyerbeer_
+ *Alcantara Doktoru, _julius eichberg_
+ Don Giovanni _I._ _W. A. Mozart_
+ Don Pasquale _i._ _gaetano donizetti_
+ *Dorothy _alfred cellier_
+ Portici'nin aptal kızı,
+   (Masaniello) _i._ _d. F. E. Auber_
+ Elisire d'Amore, l '_i._ _gaetano donizetti_
+ *Erminie _i._ _edward jakobowski_
+ Ernani _i._ _giuseppe Verdi_
+ Etoile du nord, l '(
+   Kuzeyin yıldızı) _i._ _giacomo meyerbeer_
+ Fatinitza _franz von suppe_
+ Faust _F._ _Charles Gounod_
+    Yapmak.                     _Evet.
+ Favorita, la _i._ _gaetano donizetti_
+ Fidelio _g._ _l. Van Beethoven_
+ Figlia del Reggimento, LA
+  (Alayın Kızı) _i._ _gaetano donizetti_
+ Fille de Madam Angot, la _F._ _Charles Lecocq_
+ Flauto Magico, IL
+   (Sihirli flüt) _i._ _w. A. Mozart_
+      Yapmak.                   _G._ Yap.
+ Fledmaus, Die (Yarasa) _G._ _Johann Strauss_
+ Uçan Hollandalı, _richard wagner_
+    Yapmak.                     _G._ Yap.
+ Fra Diavolo.               _İ._ _d. F. E. Auber_
+ Freischuetz, der _g._ _cll maria von weber_
+    Yapmak.                     _Evet.
+ *Gillette (_la belle
+   Coquette_) _edmond Audran_
+ Gioconda, la _i._ _amilcare pançielli_
+ Girofle-Girofla _F._ _Charles Lecocq_
+ Goetterdaemmerung, Die _G._ _Richard Wagner_
+
+Boston: Oliver Ditson Company
+
+New York: Chas. H. Ditson & Co. Chicago: Lyon & Healy, Inc.
+
+Yerel Bayinizin Siparişi
+
+ABD'de yapılmıştır.
+
+
+Standart Opera Librettos
+
+Tüm librettoların İngilizce metni var. Ek metinler
+İtalik harfler, aşağıdaki gibi: _i_, İtalyanca; _G_, Almanca; _F_, Fransızca.
+(*) İle işaretlenmiş olanlar müzik içermez. Diğerlerinin müziği var
+Ana Havalar.
+
+Fiyat, 30 sent, her biri
+
+Fiyatlar
+
+Boston ve New York'tan birinci ve ikinci bölgeler hariç ekstra posta ekstra maaşı
+
+
+                           G-Z
+
+ Başlık metin besteci
+
+ Büyük Düşesi
+   Gerolstein, _f._ _jacques ofenbach_
+ *Hamlet _ambroise thomas_
+ Yahudi, _i._ _jacques f. halevy_
+ Koenigin von Saba
+   (Sheba Kraliçesi) _G._ _KARL Goldmark_
+ Lakme _i._ _leo ibles_
+ Killarney Lily, _sir Jules Benedict_
+ Linda di chamounix _i._ _gaetano donizetti_
+ Lohengrin _G._ _Richard Wagner_
+    Yapmak.                     _Evet.
+ *Güzel Galatea, _franz von Suppe_
+ Lucia di Lammermoor _i._ _gaetano donizetti_
+ Lucrezia Borgia _I._ Yap.
+ *Madam Favart _jacques ofenbach_
+ Manon _F._ _Jules Massenet_
+ Maritana _wm. Vincent Wallace_
+ Figaro _i._ _W'nin evliliği. A. Mozart_
+ Martha _i._ _friedrich von flotow_
+ Masaniello (aptal
+   Portici'nin kızı) _i._ _d. F. E. Auber_
+ *Maskot, _edmond audran_
+ Maskeli top _i._ _giuseppe Verdi_
+ Meistersinger, öl
+   (Mastersingers) _g._ _richard wagner_
+ Mefistofele _i._ _arrigo boito_
+ Neşeli eşler
+     Windsor, _otto nicolai_
+ Mignon _i._ _ambroise thomas_
+ Mikado, _sir Arthur S. Sullivan_
+ *Nanon _richard gene_
+ Norma _i._ _vincenzo Bellini_
+ *Olivette _edmond Audran_
+ Orpheus _C. W. Von Gluck_
+ Otello _i._ _giuseppe Verdi_
+ Pagliacci, i _i._ _r. Leoncavallo_
+ Parsifal _g._ _richard wagner_
+ Pinafore (H. M. S.) _sir Arthur S. Sullivan_
+ Peygamber, le _i._ _giacomo meyerbeer_
+ Puritani, ben _i._ _vincenzo Bellini_
+ Rheingold, Das (The
+   Rhinegold) _g._ _richard wagner_
+ Rigoletto _i._ _giuseppe Verdi_
+ Robert Le Diable _I._ _Giacomo Meyerbeer_
+ Romeo et Julietta _F._ _Charles Goodod_
+ Romeo e giulietta _i._ yapmak.
+ Ruddigore _sir Arthur S. Sullivan_
+ Samson ve Dalila _F._ _Camille Saint-Saens_
+ Semiramid _i._ _gioacchino A. rossini_
+ Siegfried _g._ _richard wagner_
+ Sonnambula, la _i._ _vincenzo Bellini_
+ *Büyücü, _sir Arthur S. Sullivan_
+ *Spectre Knight, _alfred cellier_
+ *Stradella _friedrich von flotow_
+ Tannhaeuser _g._ _richard wagner_
+ Traviata, la _i._ _giuseppe Verdi_
+ Tristan und Isolde _G._ _Richard Wagner_
+ Trovatore, il _i._ _giuseppe Verdi_
+ Ugonotti, gli (
+   Huguenots) _i._ _giacomo meyerbeer_
+ VERKAUFTE BRAUT, öl
+   (Takas edilmiş gelin) _g._ _friedrich smetana_
+ Walkuere, die _g._ _richard wagner_
+ William Tell _I._ _Gioacchino A. Rossini_
+ Zauberfloete, ölmek (the
+   Sihirli flüt) _g._ _w. A. Mozart_
+
+Boston: Oliver Ditson Company: New York
+
+Chicago: Lyon & Healy, Inc. Londra: Winthrop Rogers, Ltd.
+
+Yerel Bayinizin Siparişi
+
+ABD'de yapılmıştır.
+
+
+
+
+
+Operalardan Şarkılar
+
+       * * * * * *
+
+Düzenlendi H. E. Krehbiel
+
+_ Kağıt, bez sırt, 2 $. Her biri 50, net_
+
+_ İnin tam kumaş, yaldız .... her biri 3.50, net_
+
+Müzisyenler Kütüphanesi_ Bu ciltlerde editör sundu
+kronolojik sırayla her birinin operalarından en ünlü arias
+okul. En eski İtalyan yapımlarından şarkılarla başlayarak,
+Operasyonel gelişimin kapsamlı bir görünümü, iyi seçilmiş tarafından verilir
+Almanca, Fransızca ve daha sonra İtalyan eserlerinden örnekler
+Çağdaş müzik draması.
+
+Her şarkı veya Aria, orijinal anahtarında orijinal metinle verilir,
+ve sadık ve şarkı söylenebilir bir İngilizce çevirisi.
+
+Her cilt, Bay Krehbiel tarafından ilginç bir önsöz içerir.
+Her şarkı hakkında tarihi, tanımlayıcı ve yorumlayıcı notlar.
+
+Temsil edilen en çok belirtilen bestecilerin portreleri her birinde verilmiştir
+hacim.
+
+Her birimin boyutu, 9-1/2 x 12-1/2 inç.
+
+
+Operalardan soprano şarkıları
+
+On dokuz besteci tarafından yirmi üç sayı içerir. Müzik kapakları
+188 sayfa, Prefatory Maddesi 25 sayfa. Portreler verilir
+Beethoven, Bellini, Gluck, Gounod, Meyerbeer, Mozart, Rossini, Verdi,
+ve Weber.
+
+
+Operalardan mezzo soprano şarkıları
+
+Yirmi beş besteci tarafından otuz sayı içerir. Müzik 186'yı kapsıyor
+Sayfalar, öngörücü madde 29 sayfa. Portreler Auber,
+Bizet, Donizetti, Handel, Massenet, Saint-Saens, Spontini, Thomas ve
+Wagner.
+
+
+Operalardan Alto Şarkılar
+
+Yirmi iki besteci tarafından yirmi dokuz sayı içerir. Müzik kapakları
+176 sayfa, Prefatory Maddesi 20 sayfa. Portreler verilir
+Glinka, Gluck, Handel, Lully, Meyerbeer, Purcell, Rossini, Thomas ve
+Verdi.
+
+
+Operalardan tenor şarkıları
+
+Yirmi bir besteci tarafından yirmi dokuz sayı içerir. Müzik kapakları
+192 sayfa, Prefatory Maddesi 27 sayfa. Portreler verilir
+Beethoven, Bizet, Gluck, Gounod, Mascagni, Massenet, Verdi, Wagner ve
+Weber.
+
+
+Operalardan bariton ve bas şarkıları
+
+Yirmi dört besteci tarafından yirmi yedi sayı içerir. Müzik
+188 sayfa, ön plana 20 sayfa kapsar. Portreler verilir
+Bellini, Bizet, Cherubini, Gounod, Halevy, Handel, Mozart, Ponchielli,
+ve Tchaikovsky.
+
+Boston: Oliver Ditson Company: New York
+
+Chicago: Lyon & Healy, Inc. Londra: Winthrop Rogers, Ltd.
+
+_ODURE yerel bayiniz_
+
+
+
+
+
+Projenin Sonu Gutenberg Faust e -Kitabı,
+J. Barbier ve M. Carre ve Charles Gounod
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK FAUST ***
+
+***** This file should be named 45806.txt or 45806.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/5/8/0/45806/
+
+Produced by Colin Bell, Paul Marshall, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
