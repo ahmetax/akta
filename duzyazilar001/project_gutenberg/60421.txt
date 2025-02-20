@@ -1,0 +1,1001 @@
+*** START OF AKTAHEADER ***
+Başlık: Security (Güvenlik)
+Yazar: Bryce Walton
+Yayın Tarihi: October 4, 2019 [EBook #60421]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/60421
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Security, by Bryce Walton
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Security
+
+Author: Bryce Walton
+
+Release Date: October 4, 2019 [EBook #60421]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+*** START OF TURKISH PART ***
+Greg Weeks, Mary Meehan ve The Online tarafından üretildi
+Http://www.pgdp.net adresinde dağıtılmış düzeltme ekibi
+
+
+
+
+
+
+
+
+
+                               GÜVENLİK
+
+                            Bryce Walton tarafından
+
+                _, Gizlilik eşiğine taşınabilir
+             delilik, hapis cezası olduğunda ne olabilir
+                ve Super _secrecy_ için zaman eklenir mi?
+
+           [Transcriber'ın Notu: Bu etex.
+             Bilim Kurgu Dünyaları, Aralık 1957.
+         Kapsamlı araştırmalar,
+         ABD'nin bu yayında telif hakkı yenilendi.]
+
+
+Sam Lewis, karanlıkta yatmaya çalışırken düşündü,
+Yaşayan Ölü.
+
+Onursuz bir ölümdü. Tozlu, steril bir ölümdü
+aptallık. Sefil, utanç verici, bir insan atığı ve çok
+Artık katlanacak saçma bir iş.
+
+Savaşla cehennem. Hükümetle cehennem. İle cehennem
+Gizli Proje X, Y, Z veya D veya ne olursa olsun infantil kod mektubu
+Sam ve diğerlerinin bulunduğu yasallaştırılmış mezarı tanımladı
+çok uzun süre hapsedildi.
+
+Kendine saygısızlık bir jestle elini karanlıkta fırlattı. Ve
+Elinde bir kadının göğsünün yumuşak konturlarını buldu. Onun sıcak vücudu
+taşındı, başını çevirip loşa bakarken yanında içini çekti
+Profesör Betty Seton'un Oval Yüzünün Anahatları, Yumuşak ve Hayır Samarsız
+uyumak. Hayırsız ve evlenmemiş, diye düşündü.
+
+İyi Tanrı. Elini ayırdı, yataktan kaydı ve içinde durdu
+zeminin ortasında, naylon tulum ve sandaletlerini buldu, giyinmiş
+sessizce ve Betty'nin dairesinden çıkmak için kapıyı açtı, ama hızlı.
+
+Geri baktı, yüzü acı ile sıcak ve ağzı bükülüyor
+Tiksinti ile. Biraz hareket etti ve uyanık olduğunu ve baktığını biliyordu
+ona.
+
+"Sevgilim," dedi kalın bir şekilde, "gitme."
+
+Uyanıktı ama yine de KDV 69'un öforasında sürüklendi.
+
+Hem üzgün hem de çok kötü hissetti. Sonra arkasındaki kapıyı kapattı, koştu
+Çöl gecesine. Birde kamufle edilmiş kışla çizgisi
+yan, laboratuvar binaları dahil gerekçeler, hepsi karanlık bir şekilde belirdi
+Yıldız ışığının altında. Derin bir nefes aldı.
+
+Şimdi, kendine sordu, dışarı çıkma cesareti var mı, onlara söyle,
+jest yapmak? İyi olmayacak. Başka kimse umursamayacak veya
+anlamak. Çok uyuşmuşlar ve istifa ediyorlar. Asla geçemezsin
+çit. Gardiyanlar sizi koğuşlara götürecek ve üzerinde çalışacak.
+Geriye kalanlara taşımaya değmeyene kadar geriye kalanlar üzerinde çalışacaklar
+Sabah diğer çöp ile yakma fırınına. Sen
+Zihinsel kaya dibine kadar beyin yıkan ve temizlenin ve
+Hatta ne yönün olduğunu biliyor ve lanet vermeyeceksin.
+
+Ama jest yapmak için bile cesaretin yok, sadece uğruna
+Boşluğunuzu azaltmadan önce bütünlüğünüzden geriye kalanlar
+Beyin hücreleri hafif bir son ve sürekli sıradanlık parıltısına mı?
+
+Betty ve bir bütünlük için yapışmıştı, bir noktaya gelmemişti
+Çok samimi olmak, bir tür meydan okuma,
+Projenin çöküşü. Şimdi kendine saygı duyuldu?
+
+Beyaz kaskı ve beyaz deri koşum takımı ile bir güvenlik görevlisi
+Ve Stungun, Saunted tarafından ve Lewis yanındaki gölgelere eğildi
+Kışla. Muhafız durakladığında kalbi birkaç yumruk attı,
+Betty'nin dairesinin girişine baktı. Belki birisi rapor etmişti
+Betty ile irtibat.
+
+O kadar güzel ve arzu edilir ve evlenmek istediği kadar
+Onun, Betty Seton ile evlenememişti. Savaş biterse,
+Güvenlik perdesi hiç kaldırıldıysa,
+Zorlayıcı hükümet istihdamı, o zaman evleneceklerdi. Buydu
+Hızlı gizli toplantılar sırasında birbirlerine söylemeye devam ettikleri.
+
+Eğer ise, ise ----
+
+Bu son alkolik tıkıncanın izi boyunca bir yerde, bir veya her ikisi
+her ikisinin de önemli olduğunu düşündüklerini terk etmişlerdi
+gelenek. Çok fazla değildi, ama günaha karşı yapıştılar,
+Bir kez teslim ettiklerini bilerek,
+Skidhill.
+
+Betty Seton dünyaca ünlü bir fizikçiydi. Sam Lewis bir
+Birinci sınıf atomik mühendisi. Ve şimdi neyiz, diye düşündü, izliyor
+Guard, sadece birkaç ekstra arayan birkaç alkollü serseri hariç
+Bizi öldüğümüzü itiraf etmekten alıkoymak için vuruyor mu?
+
+Evlilik lisansı talebi hiç cevaplanmamıştı. Betty Seton
+Bir nedenden dolayı "Q" izni yoktu. Sam'in tam izni vardı ve
+Projedeki en yüksek "Q" güvenlik bölümü olan çukurda çalıştı.
+Ve asla Twain buluşamazdı. Küçük denemeleri keşfedildiyse,
+Betty Seton zihinsel koğuşlara götürülecek ve kibar bir kibar
+Temizlemiş olabileceğiniz herhangi bir güvenlik bilgisine sahip olmanın terimi
+beyninizin yanı sıra yapılan diğer birçok özellik ile birlikte
+sen farklı bir kişilik. Gerekli kötülüklerden sadece biriydi.
+Yapılması gerekiyordu. Güvenlik için. Adına psikolojik cinayet
+Güvenlik.
+
+Muhafız yürüdü ve sonun köşesinde kayboldu
+Kışa Binası.
+
+Lewis, karanlıkta amaçsızca yürümeye başladı, önünde yukarı ve aşağı
+Kışla, karartılmış pencereleri ve kapıları ve gölgeli
+Laboratuar binalarının hulkları ve bunun ötesinde kamufle edilmiş girişlerin ötesinde
+Diğer yeraltı laboratuvarlarına, sentetik gıda bitkileri, mağazalar ve
+tedarik. Proje kendi kendine devam ediyordu; Tam, güvenli ve
+dünyadan, tüm insanlıktan steril izolasyon.
+
+Profesör Melvin Lanier'in dairesine yöneldi. Bu gece büyük
+Parti Lanier'deydi. Her zaman sarhoş bir kavga oldu
+birinin dairesinde. Yapacak başka bir şey yoktu.
+
+Likör, sakinleştirici ilaçlar, eş değiştirme, uyuşturucu bağımlılığı,
+Rüya dilileri, uyuyan tabletler ve hepsi buydu. Buydu
+Proje gelmişti. Projedeki deneysel çalışma
+çıkmaz.
+
+Sadece acıklı ve anlamsız hareketler kaldı.
+
+Yine de, Lanier'in açık kapısından içeri girerken düşündü.
+Daire, bir savaş. H-bombaları ve A-bombaları yasadışı, ama
+Bundan daha az bir şey sporcuydu.
+
+Elinden geleni yapmak istedi, ama susturuldu; tıpkı herkes gibi
+Aksi halde boğuldu ve düzenlemeler ve bir
+Tam ve mutlak gizlilik hükümeti nihai olarak taşındı
+Siyasi ve askeri yetersizliklerin elinde aptal payda.
+
+Yine de, bir savaş var, diye düşündü büyüklüğüne girerken tekrar
+Yapay ışık ve hatta daha yapay ile dolu oturma odası
+kahkaha. Bir şeyler yapmak mümkün miydi, sadece küçük bir şey,
+Bu kafesli beyni sallamak mı?
+
+Birkaç içki daha, tamamen başka birine ulaşmama yardım edeceğini düşünüyor
+kararsız karar.
+
+İki saat içinde çukura geri bildirmek zorunda kalacaktı. Sebep yok
+Şimdi bunun için. Bu sadece onun işi, vatansever göreviydi. İlerlemek
+Çukurdaki nükleer gelişmeler ve reaktör teknolojisi bir
+Yedi ay önce onun için kasvetli durdu.
+
+Evet, hiç şüphesiz, lezzetli hale getirmek için birkaç çekime daha ihtiyacı vardı
+Bir süredir The Walking Dead'e devam eden üyeliği.
+
+       * * * * * *
+
+Bahçedeki gölgelerle, şekiller sarhoş bir şekilde titredi.
+hi-fi. Lewis robotik barmene gitti ve içmeye başladı.
+Ancak bu sefer herhangi bir etki hissetmedi. Bakıyordu
+Etrafta, utanıyor, gördüklerinden daha hasta oldu: dünyanın en iyisi
+Zihinler, en iyi bilim adamları, sığlık bufonlarına indirgenmişlerdir.
+
+Fizikte Nobel Ödülü sahibi Dave Nemerov, Sam'e ve
+Bleary gözlerden ona baktı. "Merhaba Sammy. Hepsi yine kasvetle dolu,
+erkek çocuk?"
+
+Nemerov, şort giymiş tombul küçük bir adam ve başka bir şey yok,
+sarhoş abartı ile kaşlarını çattı. "Kolay yapar Sammy. Bulabilirsin
+Güvenlik çocukları size bir lobotomi rap veriyor. "
+
+Bir damla ter, Lewis'in yüksek kemikli yanağının yanından aşağı indi.
+
+"Peki, ülkesi için büyük fizikçi ne yapıyor?" Lewis
+sordu. Nemerov'un laboratuvarında bile bir
+ay. Nemerov'un sıkıntıyı kavradığını bile hatırladı
+teknik olarak eğitimli personel, bulanık gizlilik politikası,
+Çalışmasını böldü ve engelledi, araştırmasını nihayetinde engelledi
+artık mücadeleye değmezdi. Hikayesi herkesin hikayesiydi
+projede. Diğer departmanlardan bilgi alamadı ve
+Gizlilik nedeniyle projeler. Hepsi birbirlerinden kesildi.
+Kısıtlı listeden hiçbir bilgi yayınlanmadı. En
+Önemli belgeler gizlidi ve ulaşılamamıştı.
+
+Projede bulunan tek sınıflandırılmamış belgeler
+Yirmi yıl önce herkesin bildiği sınıf okulu.
+
+Bir an için Nemerov neredeyse ayık görünüyordu ve tamamen üzüldü.
+
+"Ne üzerinde çalıştığımı unuttum," dedi Nemerov.
+
+"O zaman başka bir içki iç," dedi Lewis, "ve
+unutuldu. "
+
+Gözlükleri sıkıştırdılar. "Gülümseme, Sammy," dedi Nemerov. "Süremez
+sonsuza kadar. Yakında kelimeyi alacağız. Savaş bitecek. "
+
+"Ne savaş?" Lewis fısıldadı.
+
+"Ssshhh, Sammy, Tanrı aşkına!" Nemerov dudaklarını nemlendirdi ve baktı
+Etrafta, ama partide gardiyan yoktu. Asla olmadı.
+Muhafızların komutanın özelinde kendi kışlası vardı
+sektör. Asla sivillerle konuşmadılar. Asla partilere katılmadılar.
+Kesinlikle kendilerine sakladılar. Komutan da öyle. Neredeyse bir
+Şimdi, Lewis'in bildiği kadarıyla, projede hiçbir sivil görmemişti.
+Komutan. Raporları günlük olarak yayınlandı. Bazen sesi
+İnterkom hakkında duydum.
+
+"Orada savaşı kim kazandığını merak ediyor musun?" Dedi Lewis, kimseye
+özel. Betty'yi düşündü. Atıştan dökülen bazı viski
+bardak.
+
+"Keşke kapalı olsaydın," dedi Nemerov boğuk bir şekilde.
+
+Askeri psikologların Lewis için hala inanılmaz görünüyordu
+kendi aralarında, güvenlik uğruna, hepsinin
+Proje ile dış arasındaki iletişim kesilecekti
+kapalı. Haber yok, televizyon yok, radyo yok, hiçbir şey yok. Güvenlik için,
+ve ayrıca bilim adamlarının tamamen daha iyi çalışabileceği teorisi
+Ortaçağ rahipleri gibi gizlendi. Telefon çağrısı bile değil. Mutlak,
+Yüzde yüz tecrit. Yasallaştırılmış katatoni.
+
+Bu projeyi ölümüne boğmuşlardı ve başka kaç tane merak ettiler.
+öldüler ve nerede oldukları. Bu projenin nerede olduğunu bilmiyordu,
+Bunun dışında çölde. Ne olduğunu bile bilmiyordu
+çöl. İki yıl önce buraya getirildiğinde uyuşturulmuştu, çünkü
+Bildiğiniz güvenlik.
+
+Nemerov artık karısından ve çocuklarından hiç bahsetmedi. Davranıştan
+Nemerov ve diğerlerinin çoğundan, dışarıda hayır
+daha uzun vardı.
+
+Sibernetik deha olan Cardoza geldi, gözleri ile sırlandı
+Oliver Dutton'un dünyaca ünlü yeni narkotik etkileri
+Biochemist, daha iyi bir şey yapmak için yemek pişirmişti.
+
+Diğer iki bilim insanının eşleri Cardoza'nın kollarına, bedenlerine asıldı
+çoğunlukla çıplak, oda hakkında dolaşırken gözleri donuklaştı
+Çorakta bazı duygusal vaha vaatleri için radar.
+
+"Robotik Barke'mden hoşlanıyorsun?" Cardoza bağırdı.
+
+"Güzel bir bardak viski döküyor," dedi Lewis.
+
+"Bu sadece başlangıç," dedi Cardoza, ağzı parlıyor ve
+atlamalı gözlerinin altında ıslak. "Bu barmen mükemmel bir hizmetçi ve
+Asla bir hata yapamaz. Geçen yıl onu inşa etti. Karıştırabilir
+herhangi bir şey."
+
+Lewis, "Pratik olarak bizim için savaşı kazanacak," dedi. Nemerov sildi
+terleme yüzü. İki başıboş eş aptalca baktı.
+
+Cardoza Winted. "Kesme dostum," dedi Lewis'e. Onun
+Ağız köşelere geri döndü. "Tıpkı geri kalanımız gibi denedim
+sınanmış. Devam etmek ve burada geliştirmek için gönderilen şeyi geliştirmek için ihtiyacım var
+"Q" temizliği. Anlayamıyorum çünkü savaş başladığında ben değildim
+vatandaş. Bu açık mı Lewis? "
+
+"Unut," dedi Lewis.
+
+"Yapmaya devam etmek istediğim şey bu," dedi Cardoza. "Bu arada benim
+Küçük Robotik Barke sadece başlangıçtır. Diğer üzerinde çalışıyorum
+Daha da ustaca otomata. Kart hileleri yapacak. Diğeri bir
+Sıkı tel sanatçısı. Ve hatta servetlere bile söyleyebiliriz. "
+
+"İnsanları şapkadan dışarı sürükleyebilecek biri?" Diye sordu Lewis.
+
+"Hadi bayanlar," dedi Cardoza uzaklaşırken. "Hadi gidip oynayalım Dr.
+McWilliams'ın yeni Q-X oyunu. "
+
+"Ohhh," dedi eşlerden biri kıkırdayarak. "Bir şey _new_?"
+
+"Evet," dedi Lewis ona, bir zamanlar uzun sürdüğünü düşünerek
+önce ve uzakta, McWilliams olması gereken bir teori üzerinde çalışıyordu
+Einstein'ın çok ötesinde hedeflendi. "McWilliams'ın yeni matematik oyunu.
+Bu da karanlıkta oynadı. Elbette karışık çiftler. Q-X,
+Yaşın büyük matematiksel keşfi. İnsanlar çiftler halinde kaybolur ve
+Daha sonra karanlıkta daha büyük sayılara katkıda bulunurlar. "
+
+       * * * * * *
+
+Lewis bardan uzaklaştı ve uzak köşeye doğru yürüdü
+Büyük Atomik Uzmanı Old Shelby Stenger'ı gördüğü bahçe
+Çeşme su sisi ile ay ışığında yatan karnında düz,
+Yüzü, yorgun yaşlı bir köpek gibi horlama, küçük bir saçmalık
+Ağzının köşesinden sarkmak.
+
+Nükleer fizikçi olan Mac Brogarth, vals ile geldi.
+bahçe ve çeşmenin altındaki havuza geriye doğru devrildi ve uzanıyor
+Başını sudan kaldıramayacak kadar zayıf. O olurdu
+Lewis onun için kaldırmamış olsaydı boğuldu.
+
+Lewis'in kollarındaki yaşlı adam Lewis'e geçen bir ışıkla baktı
+trajik itibaren.
+
+"Sam Lewis," dedi. "Bu sensin, değil mi Sam? Yakın bir kabinim vardı
+Michigan Gölü ve ben önemli işi bitirmek için oraya gidiyorduk. Hasta
+Asla oraya geri dönme Sam. Artık asla yapmayacağımı biliyorum. Asla yapmayacağım. "
+
+Lewis ayağa kalktı. Kimseyi görmeden veya duymadan,
+Yıldız ışığı çöl gecesinin kuru serinliği.
+
+Kışla arasında, messhall'ın laboratuvarlara doğru geçti,
+gizleyen o uğursuz görünümlü hulk uzunluğunu geri çevirdi
+Çukur ve Lewis'in işe yaramayacağı kadar çalıştığı canavar
+artık çalışıyor. Bunun ötesinde, elektrikli çit ve beyaz gördü
+Katı dikkatle duran kask gardiyanlar.
+
+Oraya yürüdü, ayakkabıları kum ve çakıl üzerinde kırdı ve
+Muhafızların yüzüne baktı. Bir maskeydi, ifadesiz ve
+katı. Lewis, gözleri pek insan değildi. Birçoğu vardı
+Cardoza'nın robotik barının özellikleri.
+
+Lewis, güvenlik görevlilerinin koğuşlarda çalışıldığını biliyordu
+Güvenlik riskleri olma olasılığı olmayana kadar. Herhangi
+Sınıflandırılmış düşünce, başlarının bir tarafına nüfuz etse bile,
+Hızlı bir şekilde elyolu beyin ve diğer taraftan boşalmıştır.
+
+"Devam et, asker," dedi Lewis. Muhafız duymadı.
+
+Lewis, çukuru kaplayan laboratuvar binasına doğru yürüdü.
+
+Çatışma, onu içten dilimleyen bir bıçak gibiydi. Ya yaparsa
+Şimdi bir tribün hareketi mi? Belki de sadece çok daha kötü olurdu
+Biraz zihinsel çalışma için koğuşlara gönderilmek. Olurdu
+komutanın kanguru mahkemesi tarafından denenen sabotajdan suçlu bulun
+dövüş, ülkesine hain olmaktan suçlu bulundu, yabancı
+Muhtemelen ajan. Bir tabureye bir gaz odasının içine yerleştirilecek ve
+Kucağına biraz gaz peleti düşürülecekti.
+
+Her neyse, kendi cezasının yanı sıra, ahlaki olarak doğru olur mu?
+Belki de deli olan benim, diye düşündü. Belki orada cehennem
+Tanrı'ya indirgenmek ne tür bir sosyal kaos biliyordu. Belki üzereyiz
+kazanç. Belki kaybetmek üzereyiz. Belki olduğu kadar kötü, en iyisi
+En büyük kriz sırasında beklenebilir.
+
+İçeri girdi ve asansörü bir kata indirdi
+kurşun kaplı çukur.
+
+Kontrol paneline doğru yürüdü ve kalın katmanlara baktı
+Şeffaf Teflo-Nite'ı çukura korumak, canavarı izlemek
+Kontrolün üzerindeki büyük lentiküler ekran diskinden dolaylı olarak
+panel. * * * * * *
+
+Canavar kurşun astarlı çukurda duruyordu,
+aylarca aktif değil. Ve ondan önce bile, aylarda
+Lewis, canavarı görünene kadar kontrol etmeyi öğrendiğinde
+Kendi sinir sisteminin uzatılması, çalışmaları işe yaramaz hale geldi,
+Tahafat edilemez belgeler ve personel nedeniyle, eksiklikten bahsetmemek
+Diğer araştırma merkezleriyle iletişim.
+
+Canavar, dışkanı telafi etmek için genel bir planın parçasıydı
+A- ve H-bombaları. En ölümcül akla gelebilecek uzlaşma. Çukurdu
+Sadece mekanik bir robot canavarı olan ölümcül bir radyoaktivite denizi
+işe yarayabilir. Çukurun dışında Lewis, görevini yönetti.
+drone uçaklarının inşasıydı. Birkaçı inşa edilmişti, ama onlar
+Oldukça etkili değildi ve şimdi devam etmek imkansızdı
+deney. Parçaların hepsi oradaydı. Dışında her şey oradaydı
+Buna temizlenemeyen bazı hayati sınıflandırılmış belgeler
+belirli bir proje.
+
+Binlerce drone uçağı inşa edilmişti ve belki de
+başka bir projede inşa edilmek, ancak bu konuda değil. Binlerce
+çiğ, korumalı atomik motorlara sahip drone düzlemleri, ışık ve
+Süresiz bir seyir aralığı ile olağanüstü güçlü, uzaktan kumanda
+bakteriyolojik yüklü kontrollü, yanıltıcı insan ajansı içermez
+Bombalar, G-ajanı olarak bilinen korkunç gaz ve ek olarak yüklendi
+Ölümcül gama ışınlarını ve nötronları yayacak 'sprey' tankları
+Sınırsız atmosfer alanları.
+
+Lewis ellerini hassas kontrollerin üzerinden geçirdi ve
+lentik disk, canavarın narin ile cevap vermesini izledi
+devasa bir kemancının jestleri. Canavar bir robottu, on kez
+Cardoza'nın Barkep'ten daha büyük ve Lewis ellerini hareket ettirdiğinde
+Monster elektro magnumu kolloid olarak kendi büyük mandibillerini hareket ettirdi
+Beyin, Lewis'in zihinsel yönlerini aldı.
+
+Canavar radyasyona ve bakteriyolojik dehşetlere karşı bağışıktı.
+Ölümde pembede yürüdüğü sevimli bir bayan kadar kaygısız oldu
+kabarcık banyosu.
+
+Lewis çukurun alacakaranlığında oturdu.
+nafile turlarında. Lewis canavarı sevdi ve savurgan hissetti
+muhteşem potansiyelinin trajedisi. Dünyanın bir harikası, bir
+İnsanın hayal gücünün ve akıl güçlerinin yeniden teyit edilmesi,
+Canavar korkunç bir şekilde yıkıcı görünen şey için inşa edildi, ancak
+Potansiyeli, en iyi ve en çok
+İnsanda geniş kapsamlı. Yine de buradaydı, hiçbir şey yapmıyordu. İçinde duran
+radyoaktif zehir denizi, insanın aptallığının devasa bir sembolü
+Adam.
+
+Bir adam gerçeği bilebilir ve inkar etmeye devam edebilir ve hala kalabilir
+aklı başında? Bu şekilde yaşamaya devam edebilirsin. Mutlu haplar alabilirsin
+Uyku hapları, rüya dilileri ve devlet liköründe gürültün.
+Ama er ya da geç korkunç boş atıklarla yüzleşmek zorunda kalacaksınız.
+Bundan sonra deliliğin yüzünü belirledi.
+
+Yine de Lewis, gerçeği bildiğimi nasıl bilebilirim? Kesilim
+kapalı. Bilgi yok, iletişim yok. Her şey için tek insan olduğumuz için
+dünyada kaldı. Çölle çevrili bir gizlilik vahası.
+
+Lewis birinci kata geri döndü ve geceye çıktı,
+Betty Seton'un dairesine gidiyor. Belki şimdi yeterince ayıktı
+bu şeyi konuşmak için. Güvenlik düzenlemeleri ile cehennem. Sadece
+Aynı, herhangi birinden kaçınmak için binanın yanındaki gölgede yürüdü.
+Önerdiği randevunun göz tanrısı.
+
+Bilim, gerçekten özgürlük için başka bir isim olduğunu düşünüyordu. Yapamadı
+Düşünce özgürlüğü olmadan, soruşturma özgürlüğü. Sen
+Güvenlik ile karıştırılamadı ve iletişimi kesemedi, çünkü
+İletişim bilimin özüdür. Bir fikir evrenseldir ve nasıl
+Artık dünyanın bir parçası olmadığınızda düşünmeye devam edebilir misin?
+
+Lewis'in kendi kalbine karar ne olursa olsun
+öyle, asla bilmeyecekti. Kararı onun için bir
+Histerik kahkaha, tahtalarda sürtünme sesi ve başka bir kahkaha. Kışlamaların köşesine geldi ve nöbetçinin elleçlendiğini gördü
+Betty, apartman binasının adımlarını aşağı çekti.
+
+       * * * * * *
+
+Gardiyan büyüktü, bir kama gibi inşa edilmiş, düz bir bulldog yüzü demetlenmiş
+Beyaz kaskının altında. Muhafızların beyni dikkatlice honlanmıştı
+Verimli, tamamen akılsız ama hassas bir savaşa kadar
+makine seviyesi. Neden bir şey yaptığını ne biliyordu ne de umursamadı. Ama o
+bir elinde Betty Seton'a sahipti. O dönüyordu
+Lewis ona çarptığında Stungun'u diğer eliyle yükseltti.
+
+Lewis, önce sağlam bir uzun darbenin arkasında ağırlığı ile içeri girdi
+Muhafızların karnında sert bir kas duvarını kırdı, yumuşaklığa çevirdi
+kil. Betty özgür düştü ve çakıl üzerinde güldü. Yüzü bir
+Yıldız ışığında beyaz leke.
+
+Lewis dizini bükülürken nöbetçi yüzüne getirdi, battı
+Bir diğeri yumuşak karnın içine, kasıktaki gardiyanı tekmeledi,
+önyüklenmiş ayağına damgalı, geri döndü ve tekrar koşarak sürüş
+Omzunu yine koruyucunun karnına. Muhafızların ayakları vurdu
+Alt adım, tahtalara çarptı ve kaskı onun gibi uçtu
+Dikişin üzerine fırçalandı.
+
+Gardiyan tıraş kafasını salladı, yoğunlaşmaya başladı,
+Stungun için tekrar uzanıyor, yüzü ifadesiz. Lewis duydu
+Ayak sesleri köşeye çarpıyor, çakıl üzerinde kesiyor.
+
+Daha fazla gardiyan. İnsanlık dışı ve duyarsız, neredeyse
+Çok fazla robot kadar dokunulmaz
+
+Döndü, Betty Seton'u geçti, Stilly orada sadece ince bir
+Etrafında ev hızı, şimdi gülmüyor, ama aniden ayık görünüyor ve
+dehşete kapıldı.
+
+"Betty!"
+
+Ona baktı. Bir blok ötede gelen gardiyanların duyabildiğini ve
+Koşmaya devam etti. Geri bağırdı.
+
+"Cip alın. Brogarth, Cardoza, Nemerov, Herkes Al. Kırıyoruz
+buradan. "
+
+"Nerede?" Köşeden geçerken ondan sonra bağırdığını duydu.
+
+Köşeye baktı ve mekanize insan sürüsünü gördü
+O'na doğru sürüklenen varlıklar.
+
+"Kapının yakınında," dedi Lewis.
+
+Çukura doğru koştu.
+
+Basamakları konsol odasına koştu ve içine baktı
+Hayalet gibi mavi bir parlaklığın duvarları gölgede bıraktığı lentiküler disk.
+
+Lewis, "Sonuçta kendimize biraz iyi yapacağız, Monster," dedi Lewis
+sıkıca.
+
+Kontrolleri tuttu ve canavara son emir setini gönderdi.
+Koruyucu duvarlara tonlarca drone düzlem motoru fırlattı ve
+Büyük çene çırpındı, korumayı açar ve bir yemek gibi soyulur
+teneke kutu. Duman kaynamaya başladı. Mavi arklarda alevler çatladı. Çelik
+Balmumu gibi parçalanmış kirişler. Beton küreleri bir toz bulutuna düştü
+dönen kalıntılar.
+
+Lewis interkomu aldı, komutanın ofisini aradı. Cevap yok.
+Borsadan geçti ve komutanın dairesini aldı. O
+sarhoş bir sızlanma duydu ve arkasında sarhoş ahlaksız kahkahalar
+memurlar ve eşleri ve bongo davullarının sesi.
+
+"Canavar çukurdan çıkıyor," dedi Lewis. "Çıkıyor
+Eğer yapmazsan hepinizi öldürmek için yeterli ölümcül radyoaktivite
+Cehennemden çık ve hızlı çık. "
+
+"Ne, bu ne?"
+
+"Bir kabus geçirdiğimi düşünüyorsan," diye devam etti Lewis, "
+Pencereden dışarı, komutan. "
+
+Lewis interkom'u düşürdü. Canavar oldukça uzaklaşabilir
+Durmadan önce, uzaktan kumanda yarıçapı muhtemelen aşmıyor
+üç mil.
+
+Canavar çukurdan çıktı, duvarlar ve döşeme alıyordu.
+Tüm yapı titredi, ışınlar düştü, tavanlar parçalandı ve
+Canavar bir juggernaut gibi sigara enkazından geçti.
+
+Bir koruma çelik kirişin altında ezilmiş. Lewis stungun'u aldı
+elini ve enkazın yükseldi merdivenleri boğdu. Dışarıda rakamlar gördü
+Yıldız ışığına akar ve laboratuvar binaları patlıyor
+alevler. Ayrıca canavarı gördü, mavimsi parlaklık ile parlıyor, hareket ediyor
+Elektrikli çitlere doğru ilerleyin.
+
+Siren çığlık atıyor ve uluyordu. Gölgeler akıyor gibiydi
+Hava saldırısı barınaklarına doğru. Bu iyiydi. Güvenlik perdesi
+Yırtılmış. Daha sonra ışığa geri dönebilirler ve ne olduğunu merak edebilirler
+olmuştu ve gerçekte nerede olduklarını öğrenmişti.
+
+Gardiyanlar kontrolden çıkmış, bakıyor, çirkin oyuncaklar gibi koşuyorlardı.
+komut dinlemek.
+
+Lewis dumanı kalınlaştırdı ve cipi güney kapısının yanında gördü.
+Betty, Brogarth ve Nemerov ile birlikte vardı.
+
+"Acele et, acele et, koş," diye bağırdı Betty.
+
+Muhafız Lewis'e doğru, onun ve aralarında bir açıdan kesiyordu.
+Cip. Gardiyanın ötesinde, çitte ve diğer yandan bir boşluk vardı
+Bunun tarafı canavarın devasa titreyen nimbusunu görebiliyordu
+Hala doğuya doğru yürüyor.
+
+Lewis koşmaya devam etti. Beş metre uzakta stungun'u getirdi ve vurdu
+Yüzündeki bekçi. Lewis cipin direksiyonuna atladı,
+onu vitese çarptı ve beton şeridine doğru ilerlediler ve
+Çitteki boşluk için düz.
+
+"Cardoza'ya ne oldu?" Diye sordu Lewis.
+
+Brogarth arka koltuktan, "etiketlenmek istemediğini söyledi
+bir güvenlik riski ve sabotaj için yürütülecek. "
+
+Nemerov sarhoştu ve tutarsız bir şekilde mırıldanmaya devam etti ve bazen
+Hatırlanan şiirin parçaları ve parçaları ile vermek.
+
+       * * * * * *
+
+Kumun içinde ve kumtaşı duvarının yanında yaklaşık bir mil, onlar
+Herhangi bir arayış belirtisi bekledi. Hiçbiri yoktu. Orada dinlendiler
+Sabaha kadar, sadece bir buçuk saat uzakta ve geriye baktıklarında
+Projenin konumuna doğru, görünen hiçbir şey göremediler
+Kum, fırça, kayalar ve kırmızı kumtaşından farklı.
+
+"Mükemmel kamuflaj," dedi Nemerov Jeep tekrar başladığında. "Sen
+o çitin elli feet içinde yürüyebilir ve asla bilemeyebilirdi
+Orada proje. "
+
+Daha sonra sıcak bir rüzgar geldi ve canavarın içinde ölü yatıyorlardı
+Yüzü üzerinde dans eden toz şeytanları.
+
+Bir Burro'ya liderlik eden eski bir araştırmacı kumtaşı duvarına geldi ve
+Canavara baktı, sonra Jeep sakinlerine baktı.
+
+"Nasıl, millet," dedi.
+
+"Merhaba," dedi Lewis. "Kaybolduk. Neredeyiz ve hangi yöne gidiyoruz
+Medeniyete ulaşmak için? "
+
+"Bu şey nedir?" Diye sordu araştırmacı canavara bakarak.
+
+Lewis, "Hiç bitmeyen bilimsel bir deney," dedi.
+
+"Ne anladım," dedi araştırmacı. "Siz bilim adamları her zaman
+bir şeye kadar. "Sağa işaret etti." Bu şekilde devam et ve
+Dar bir yol bulacaksınız. Takip et ve ortasına vuracaksın
+Vadi ve Çikolata Dağlarına doğru bir otoyol. "
+
+Lewis nerede olduğunu biliyordu. Çikolata dağları acele etti
+Imperial Valley'den Colorado Nehri ve Los Angeles daha uzakta.
+
+"Teşekkürler," dedi Lewis.
+
+"Bu günlerde savaş nasıl gidiyor?" Betty sordu.
+
+Prospector başını çizdi ve keçe şapkasını değiştirdi. Baktı
+tuhaf bir şekilde.
+
+"Uzun zamandır tepelerde toplanmış olmalısın, bayan. Orada
+İki yıldır savaş değil. Bir tane başlattılar ama birincisi
+Birkaç gün herkesi çok korkuttu ve bütünü aradılar
+bir şey kapalı. Zaten neredesin, aya? "
+
+"Pratik olarak," dedi Lewis.
+
+Cip uzaklaştıkça Nemerov döndü ve canavara baktı
+Ve hala orada duran eski araştırmacı.
+
+"'Benim adım," dedi Nemerov, "' Kralların kralı Ozymandias.
+İşler, güçlü ve umutsuzluk. O muazzam enkazın çürümesini yuvarlak,
+Sınırsız ve çıplak yalnız ve düz kumlar çok uzakta. '"
+
+
+
+
+
+Bryce Walton tarafından Gutenberg E -Kitabı projesinin sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+***** This file should be named 60421.txt or 60421.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/4/2/60421/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
