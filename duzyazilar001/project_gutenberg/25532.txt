@@ -1,0 +1,3132 @@
+*** START OF AKTAHEADER ***
+Başlık: The Detection of Forgery (Sahteciliğin tespiti)
+Yazar: Douglas Blackburn
+Yayın Tarihi: May 20, 2008 [EBook #25532]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/25532
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: edebiyat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Detection of Forgery, by
+Douglas Blackburn and Waithman Caddell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Detection of Forgery
+       A Practical Handbook for the Use of Bankers, Solicitors,
+       Magistrates' Clerks, and All Handling Suspected Documents
+
+Author: Douglas Blackburn
+        Waithman Caddell
+
+Release Date: May 20, 2008 [EBook #25532]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE DETECTION OF FORGERY ***
+
+*** START OF TURKISH PART ***
+Stephen Blundell ve Çevrimiçi Dağıtılmış
+Düzeltme ekibi https://www.pgdp.net adresinde (bu dosya
+cömertçe sağlanan görüntülerden üretilen
+İnternet Arşivi/Amerikan Kütüphaneleri.)
+
+
+
+
+
+
+
+
+
+                              .
+                     Sahtecilik tespiti.
+
+
+                     Pratik Bir El Kitabı
+                        Kullanımı için
+           Bankacılar, avukatlar, sulh hakimlerinin katipleri,
+             Ve tüm şüpheli belgeleri ele alıyor.
+
+
+                              İLE
+                       Douglas Blackburn
+ (_LATE uzman Natural Ceza Soruşturma Departmanı,
+                 ve Transvaal cumhuriyeti_)
+
+                              VE
+                   Kaptan Waithman Caddell.
+
+
+                            LONDRA:
+                    Charles ve Edwin Layton,
+                    Farringdon Street, E.C.
+                             1909.
+
+
+
+
+Erratum. (_Page 15._)
+
+Tabloda verilen ortalamalar nedeniyle sayfa 15'ten basılan
+Bazı eksik makaleler yanlıştır. Açıkçası
+Uygun ortalamalar--
+
+ | 7-1/4 | 6-1/2 | 5-3/4 | 7-1/2 || 16-1/4 | 21 | 20-3/4 | 20-3/4
+
+
+Transcriber'ın notu:
+
+    Yukarıdaki erratumdaki düzeltmeler uygulanmıştır. .
+    'Terminoloji' ve 'Alfabe Varyantları' başlıklı el yazısı sayfalar
+    ilgili bölümlerinin başlangıcına taşındı. Yunan
+    Metin çevrildi ve {parantez} arasında gösterildi.
+    Tire ve noktalama işaretleri standartlaştırılmıştır.
+
+
+
+
+İçerik.
+
+
+ Bölüm sayfası
+
+         Giriş 5
+
+     İ.-El Yazısı Analizi İlkeleri 7
+
+    II.-Ölçüm ve aletleri 13
+
+   III.-Terminoloji 17
+
+    IV.-El Yazısı Sınıfları 19
+
+     V.-Bir yazı nasıl incelenir 21
+
+    VI.-Alfabe ayrıntılı olarak 24
+
+   VII.-Başkent 29
+
+  Viii.-noktalama işaretleri 31
+
+    İx.-Kağıt ve filigran 34
+
+     X.-mürekkep 38
+
+    Xi.-Siller 42
+
+   Xii.-Kalemler ve Stilograflar 45
+
+  Xiii.-Anonim harfler ve gizlenmiş eller 47
+
+   XIV.-Dövme Edebiyat İmzaları 52
+
+    Xv.-dövme imzaları 60
+
+   XVI.-Şahit kutusu 68 uzmanı
+
+  Xvii.-El Yazısı ve İfade 72
+
+ Xviii.-El yazısının bibliyografyası 78
+
+
+
+
+GİRİİŞ.
+
+
+Bu küçük çalışmanın amacı, ara sıra olabileceklere yardımcı olmaktır.
+İmzaların gerçekliği hakkında bir görüş oluşturmak için çağrılın,
+Çeklerdeki değişiklikler ve talep eden çeşitli şüpheli belgeler
+İş adamlarının ön plana göre ciddi düşüncesi
+"Daha fazla adım atarak."
+
+İlkeleri açıklamak için İngiltere'de yayınlanan ilk denemedir.
+el yazısının karşılaştırılması ve muayenesi yapılır
+uzmanlar tarafından. Nasıl yapılacağı önerilerin bir taslağıdır ve olabilir
+Başlayın, çünkü hiçbir iki uzman tam olarak aynı yöntemleri takip etmiyor
+İki ressam aynı çizgiler üzerinde çalışır. İkisi de tanımada hemfikir
+Belirli kurallar ve genel ilkeler, ancak her biri onun hedefi için çalışıyor
+hangi deneyim, mizaç,
+Tat ve fırsat önerir. Temel kurallarının incelenmesi
+Sanatları onları mükemmelleştirmek için yola koyar, bundan sonra başarı
+ancak sağlanan işaretleri haklı olarak okuyarak elde edilebilir
+nihai hedef.
+
+Bu bölümleri okurken öğrenci bunu uygulayarak başlamalıdır.
+Başarı için gerekli olan kendi kendine yardım. _ Pen ile okumalı ve
+Notebook._ Bu değerli alışkanlığı zorlamak nesnesiyle
+Metinde açıklayıcı örnek verilmemiştir. Kolay olurdu
+Birçok sayfayı komut dosyası çizimleriyle doldurmak için, ancak deneyim
+el oluşturarak bellek üzerinde çok daha büyük bir izlenim bırakılır
+Resimli formda sağlandıklarından daha açıklanan ana hatlar. İçinde
+Başka bir deyişle, öğrenci bu amaçlı ihmali
+kendisi açıklamadan çizimleri inşa ediyor. .
+Bu şekilde talep edilen ekstra zaman ve sorunla ilgili olarak, büyük ölçüde geri ödenecektir
+çeşitli noktaların sabitleneceği kolaylık ve hız
+hafıza. Bu da kazanılacak tek avantaj da değil. Eylemi
+Belirtilen illüstrasyonun yeniden üretilmesi,
+birçok kelime gerektirecek teknik ve mekanik özellikler
+Görevli, zihni sadece verbiage ile karıştırma riski ile açıklayın.
+
+Karşılaştırmayı uygulama ve inceleme fırsatı
+el yazıları boldur. Yazılan veya okunan her mektup bir
+Konu ve şaşırtıcı derecede kısa bir sürede öğrenci bulacak
+Kendisi içgüdüsel olarak el yazısında özellikleri not eder ve analiz eder
+Muhtemelen daha önce dikkatini hiç tutuklamadı. İlkeleri
+Sanat son derece basit ve karmaşıklık içermez ve birçok kişi
+Çalışmayı kim alan analiz güçlerine sahip olduğunu görecek
+ve daha önce gözlemsiz gözlem. En başarılı uzman o
+En yakından ve doğru bir şekilde gözlemler ve fakülte sadece
+geliştirilmesi için objektif bir nokta.
+
+Küçük bir uygulamadan sonra, deneyim birçok yöntemi önerecektir.
+Muayene ve test burada ele alınmadı. Örneğin, fotoğraf
+Genişlemeler, getirerek büyük avantajlarla kullanılabilir ve kullanılabilir.
+Özellikle imzalar, silgi ve değişikliklerde dakika detayları.
+Keşfetmek amacıyla ilginç deneyler yapılabilir.
+Farklı mürekkep türlerinin etkisi-soruyu çözmede önemli
+belirli bir yazının tamamının bir sıvı ile yapılıp yapılması ve
+aynı zamanda veya aralıklarla.
+
+Figürlerin veya karakterlerin silgi ve değişikliklerinin incelenmesi
+kabul edilmediği sanatın gelişmeleri kapsamında gelir
+Bu sayfalarda uzun süredir başa çıkmak için gerekli olan deneyim için gerekli
+kullanımlarını ve en iyi prosedür yöntemlerini önerecektir. İçin
+Yeni başlayanlar takip eden bölümlerde verilen talimatlar
+büyüleyici ve nasıl büyüleyici bir
+pratik başarı ve bu, kendisinden daha fazla yardım yok
+Yargı, azim ve gözlem ve kesinti güçleri.
+
+
+
+
+Bölüm I.
+
+El yazısı analizi ilkeleri.
+
+
+Uzmanların varyasyonları tespit edebildiğini iddia ettikleri ilke ve
+El yazıları arasında ayrım yapmak iyi kurulmuş olanlara dayanır
+Doğada mükemmel bir çift diye bir şey olmadığını; O,
+ancak iki şey arasındaki görünen benzerliği kapatın, dikkatli
+Sınav ve karşılaştırma, bunların belirgin farklılıklarını ortaya çıkaracaktır.
+onları tespit etmek için eğitildi.
+
+Bu özellikle insan ajansı tarafından üretilen her şey için geçerlidir.
+Herkes kontrolü sürdürmenin ve ortadan kaldırmanın ne kadar zor olduğunu bilir
+jestler, yürüyüş tarzı, hareket ettirme gibi bazı fiziksel alışkanlıklar
+Eller, kollar ve c., Konuşma hileleri veya ses tonu. Bu davranışlar,
+Mekanik ve otomatik olmak veya uzun alışkanlığın sonucu olmak
+bilinçsizce performans gösterdi ve muhtemelen tamamen kimse yok
+cahil olduğu bazı belirgin tuhaflıktan arınmış
+sahip. Karikatür konusunun veya
+taklit nadiren taklitin doğruluğunu veya adaletini kabul eder,
+Her ne kadar bu şekilde vurgulanan özellikler başkaları için açıkça görülmektedir.
+Her biri hakkında dikkatli bir şekilde çalışma yapması gereken aktörler bile
+Ton ve jest, hatalar veya tavırlar için sürekli eleştirilir
+Gözlemciye sade, ancak kendileri tarafından tespit edilmedi. Bu nedenle, bir hile veya bir jestin nasıl olabileceğini anlamak kolaydır.
+uzun gelenek yoluyla sabit ve bilinçsiz bir alışkanlık, özellikle de
+El yazısında bir stil tuhaflığı durumunda,
+Ne eleştiri ne de onu terk etmek için özel bir neden.
+
+El yazısı geliştirilen ve kalıcı olarak oluşan herkes
+Formasyonda bazı az ya da çok farklı özellikleri benimsedi
+genellikle farkında olmadığı mektuplar.
+
+Yazma eylemi, olabileceğinden çok daha az kontrol meselesidir.
+sözde. Kalem düşünceleri mekanik olarak takip eder ve çok az hazır ve
+Alışkanlık yazarları, aniden bunu yapmaya çağırırlarsa,
+Yazılarının sahip olduğu özellikler. Örneğin, kaç tane söyleyebilir
+İster yuvarlak bir nokta, bir kene veya bir
+Dash-Kene dikey, yatay veya eğimli olsun; Neydi
+nokta _i_ üstünden orantılı mesafe. Yine bir sor
+pratik yazar _T _ harfi nasıl geçiyor
+Yatay, yukarı veya aşağı inme? Bir
+Binler doğru bir cevap verebilir, çünkü nokta
+bir _i_ ve bir _t_ geçişi mekanik eylemler haline geldi,
+Düşünce veya premeditasyon olmadan, ancak uzun süreli bir sonucu olarak
+alışkanlık.
+
+Bu bilinçsiz el hareketleri ve stilin mekanik hileleri
+El yazısı uzmanının ayırt etmeyi ve tanımayı öğrendiği,-
+yazarın muhtemelen asla bir
+dakika düşünce
+ona işaret etti. Tespitleri daha kolay hale getirilir
+jestlerin aksine, onların olduklarından ne arayacağını bilir ve
+ses hileleri, kalıcı. Bir tavırcılık iki gözlemciye çarpmayabilir
+Aynı şekilde, ne de karşılaştırılması kolay değil, çünkü geçiyor ve
+belleğin eski bir jestini hatırlamak için güvenilmesi gerekir.
+Sonuyla karşılaştırın. Yazılı bir el hareketi ile öyle değil.
+İşaret, dikkatli ve dikkatli ve dikkatli olmak için yan yana kalır.
+kasıtlı karşılaştırma; Ve eğer yazı uzunsa, uzman
+temel alacak geniş bir malzemeye sahip olmanın avantajı
+onun yargısı.
+
+_A Popüler yanlışlık ._--
+Uzman ifadesi konusu tartışıldığında sıradan eleştirmen
+insanların farklı kalemlerle farklı eller yazdıkları etkisi ve
+Muhtemelen bunun doğru olduğuna inanıyor. İle çok hafif bir tanıdık
+Uzmanın çalıştığı ilkeler bu spontane tatmin edecek
+İtirazının yanılgısının eleştirmeni. Alışkanlıkla bir
+ince, küçük el, sağdan sola eğimli, sahip olduğuna inanabilir
+Kalın, yumuşak bir tüy kullanarak elinin karakterini değiştirdi,
+eğimi backhand olarak adlandırılan ve boyutu ikiye katlamak
+mektupların. Tek yaptığı farklı bir takım elbise giymek
+kıyafetler; Aynı adam onların içinde. Kalın bir kalem kullanımı yapmaz
+Yatay bir çizgi yapmadan önce _i_ üzerine bir nokta koydu; BT
+düz, çubuklu bir _t_ kavisli bir döngüye dönüştürmez, de
+Harfler ve çizgiler arasındaki orantılı mesafeyi değiştirin. Öyle
+alışkanlıkla çubuklar yapmadan önce döngüler oluşturmamak veya _Vice
+Versa_ ve daha önce _v_ gibi bir açıyla _u_ yapsaydı
+_U_'yi yuvarlak bir kanca ile yazmayın. Ne de düşmesine neden olmayacak
+İlk harflerine bir mahmuz ekleme veya uçları azaltma alışkanlığı
+Ve uzun sürmeyecek kuyruklar. Kısacası,
+Uzman, soruşturmasının en az etkilenen soruşturmasını adadığı
+kullanılan kalemin karakterindeki varyasyon ve
+sürekli kullanımla, yazarın tarzının bir parçası olun
+Onun yürüyüşü ve sesinin tonu. Bu nedenle, el yazısı uzmanlarının çalışmasının
+Bilinçsiz veya mekaniklerin nasıl tespit edileceğini ve tanınacağını öğrenirken
+bir özellik olan işaretler, özellikler veya el hareketleri
+Her insanın el yazısı, iki el ne kadar yakından olursa olsun
+genel görünümde yaklaşık. Ancak benzer iki el gibi görünebilir
+Sıradan ve eğitimsiz gözlemci, çok farklı ve belirgin
+öğrenci ne öğretildiğinde farklılıklar ortaya çıkar
+aramak. Sahip olduğundan daha kesin bir şey yok
+Henüz ayrı kişiler tarafından iki el yazısı keşfedilmedi
+Eğitimli gözlemci tarafından bir farkın tespit edilemeyeceği müttefiki.
+Her okul müdürü, bir öğrenci sınıfında,
+Aynı model ve kesinlikle ona tutulduğunda, iki el birbirine benzemez,
+Erken ve ilk aşamada olmasına rağmen, elden önce
+özgürlüğe ulaştı ve yerleşmiş bir karaktere yaklaştı, farklılıklar
+daha az işaretli. Çocuk kısıtlamasından kurtulduğu anda
+Set kopyası ve öğretmenin eleştirisi, tezahür etmeye başlar
+daha belirgin hale gelen ve sabit hale gelen farklı özellikler
+pratik ve kullanım.
+
+Kullanılan düzenleme eli kadar üniforma yok ve akıllıca
+kamu hizmetinde ısrar etti ve halka tanıdık
+telgraflarda ve resmi mektuplarda. Yine de olduğunu söylemek güvenlidir
+İngiltere'de bir telgraf veya postane memuru değil
+hiç olduğu herhangi bir meslektaşının yazısını seçin
+haberdar olma.
+
+_ Varolmayan ._-- ancak en iyi ve en belirleyici cevap
+Yazıların tam olarak benzer olabileceğine itiraz, kötü şöhretli
+yarım yüzyıl boyunca uzmanların iki tane bulamadığı gerçeği
+Tam yazılar farklı ellerle, o kadar çok ki bir fark
+tespit edilemedi. Böyle var olsaydı, uzun zamandır bu olurdu
+tanık kutusunda uzmanın konfutlanması için üretilmiştir;
+özellikle özgürlüğün ve hatta hayatın
+Bir kişi, el yazısının tanımlanmasına bağlıydı. O
+Farklı arasında birçok olağanüstü benzerlik vakası var
+El yazıları bir gerçektir; Olmazsa, çok az olurdu
+uzmanın hizmetleri için bir vesileyle, ancak aynı derecede bir gerçektir.
+Hayal edilen benzerlik, yazı olur olmaz daha az belirginleşir
+yetenekli ve özenli bir uzman tarafından incelenir. Unutulmamalı
+karşılaştırmasını üstlenen herkes
+Görev için kalifiye olan el yazıları, her doktordan daha fazla
+Bir vakayı teşhis eden kimler doğru bir şekilde varmaya bağlı olabilir
+çözüm. Ancak sanatın denenmiş ve kabul edilen ilkeleri harekete geçerse
+üzerine, her zaman olduğu varsayılarak hata olasılığı olmamalı
+Sınavı üstlenen kişinin,
+karşılaştırmak. İtibarına değer veren bir uzman, örneğin,
+Tek materyalde empatik bir fikir vermek konusunda çok temkinli
+Onun elden çıkarma iki veya üç kelime veya harfti. Oldukça mümkün
+Akıllı bir taklit başka bir kişinin sesini yeniden üretebilir
+taklit konusunu bilenleri aldatmak için doğru bir şekilde;
+Ama birkaç tane için varsayılan sesle bir konuşma yapmasına izin verin
+dakikalar ve tespit kesindir. Benzer şekilde, birkaç
+Yazılı karakterler ve stil püf noktaları oldukça iyi taklit edilebilir,
+Aldatmayı bir dizi kelimenin üzerinde taşımak imkansızdır. Daha erken
+Ya da daha sonra sahtekar kendi hilelerine geçer ve burada
+Eğitimli gözlemci onu yakalar. Uzman, karikaturist gibi,
+konusunun özelliklerini not etmek için kendini dışarı atar,
+Bunlar pratik olarak yazarın kontrolünün ötesinde ve
+Olasılıklar, onların farkında bile olmamasıdır. Özellikler
+El yazısı, çocuklarda kontrolsüz alışkanlıklar gibi, zamanla,
+doğanın bir parçası olacak kadar sabit bir tavırlığa kristalleşti ve
+Sonuç olarak eradikasyon zordur. Aslında bir
+El yazısındaki tuhaflık, kontrol edilenden daha sık yetiştirilir,
+Birçok yazar, Ortodoks kopya defteri formundan ayrılma ile ilgili olarak
+"eğitimli bir el" kanıtı.
+
+_ Olasılıklar Yasası ._--
+başka bir uzman, etiketlediği tüm özellikleri not eder
+Ayırt edici referans, "Hileler". O kadar kaydettiğinde
+Karşılaştırması gereken yazıda onları arar.
+Bir düzine hileyi not ettiğini ve hepsini bulduğunu varsayalım
+Şüpheli yazıda tekrarlandı. Olasılık yasası bir
+Her iki yazı için ortak yazarlık, çünkü beklemek için çok fazla şey istiyor
+iki farklı insan olması gerektiğine inanmak için
+Penmanlıkta tam olarak aynı özelliklere sahip olan yabancılar.
+
+Olasılık yasasının bu ilkesi,
+Polis tarafından "istenen" kişilerin tanımlanması. Örneğin,
+Kaçan bir sahtenin resmi açıklaması aşağıdaki gibi çalışır:-"Bir
+Sağ başparmağını orta parmağına çeviriyormuş gibi sürtünme alışkanlığı
+bir yüzük. Sağ kaşını sık sık sağ kaydırıcı ile okşar
+yazılı olarak meşgulken; şaşkınken, alt dudağını ısırır ve
+Parmaklarını sıkar ve engeller. "
+
+Şimdi, muhtemelen bunların her birini yapan binlerce insan var
+İşler tek başına, ama orada olmaya karşı milyonlarca
+Hepsini resmi afişte açıklandığı gibi yapan iki kişi. Gibi
+bir _f_ veya _k_ oluşturan çok sayıda yazar olabilir.
+Tuhaf abartılı toka. Binlerce kişi daha belirli mektuplar yapabilir
+aynı şekilde, ama sahip olan iki kişi olduğunu varsaymak
+Eşit olarak, uzman tarafından belirtilen tüm on iki özellik
+Saçmalıkların kırılma noktasına zorlanın.
+
+Bu nedenle, bunun kümülatif kanıtların ağırlığı olduğu sonucuna varır.
+Bir ilan eden olağandışı stil hilelerinin üretiminde benzerlik
+Görünüşe göre iki farklı yazı için ortak yazarlık.
+
+Özelliklerin veya hilelerin
+Orijinal şüpheli yazıda taklit edildi. Sonuç olarak
+kopyalanan bir belgede neyi arayacağını bilmedeki deneyiminden
+Uzman aldatılmıyor. Kopya ne kadar iyi olsa da, her zaman belirgindir
+Başka bir ve yabancı eli kanıtlayan eğitimli göz kanıtlarına, sade
+Firma arasındaki fark olarak, çizim ustasının net çizgisi ve
+öğrencinin kırık testere çabası. Alışılmış gözlem trenleri
+tarafından kanıtlanmadıkça, neredeyse hiç kredilendirilecek bir ölçüde göz
+deney. Gözlem sanatı öğretilemez; Bu olmalı
+Uygulamanın sonucu. Öğretmenin yapabileceği en fazla şey
+çalışmanın yapılması gereken çizgiler ve ipuçları ve
+Neye bakacağınıza dair öneriler. Gerisi ellerinde
+öğrenci.
+
+
+
+
+Bölüm II.
+
+Ölçüm ve aletleri.
+
+
+Sınav çalışması için gerekli cihazlar, iyi
+elde edilebilen en büyük gücün camı büyütme veya okuma
+İnce pusulalar veya bölücüler, ölçmek için bir boynuz veya selüloid koruyucu
+Eğim açıları ve açıkça işaretlenmiş bir ölçek kuralı. Uygun makaleler
+Genellikle sıradan bir matematiksel enstrüman vakalarında bulunabilir.
+
+Ölçümleri almanın daha basit ve eşit derecede doğru bir yöntemi
+El yazısı, yabancı olarak bilinen şeffaf makalenin yardımı ile
+mektup kağıdı. Genellikle quarto boyutunda, çok ince ve şeffaftır,
+ve tabakayı miniklere bölerken yatay ve dikey olarak yönetilir
+kareler. İncelenecek yazı üzerine koyulur ve çeşitli
+Ölçüm işaretleri ince sivri bir kurşun kalemle yapılır. Çizgiler
+ve kareler, enlemin paralellikleri olarak ölçüm için kullanılır ve
+Boylam bir grafikte kullanılır. Örneğin, bir mektubun öyle olduğu söylenir
+Birçok çizgi yüksek, çok fazla çizgi genişliğinde. Küçük karelerden biri
+dikkatlice ikiye bölünmüş veya mümkünse dört parçaya, böylece
+daha ince ve daha doğru ölçüm. Daha sonra bir harf ölçülebilir
+Bir çizginin parçaları, örneğin, yükseklik 6-3/4 satır olarak tanımlanan,
+genişlik 2-1/2 çizgiler. Tabii ki aynı göstergenin
+Yönetilen kağıt eşit olarak kullanılabilir, aksi takdirde ölçümler değişecektir. Eğer
+Öğrenci bölücüler ve ölçek kuralının kullanımında pratik yaptı,
+Bunları kullanmayı tercih edebilir, ancak yönetilen makale ve ince bir işaret
+Kurşun kalem çoğu amaç için yeterli bulunacaktır. Bir kağıt
+Sörveyörler için özel olarak hazırlanmış, bir
+inç elde edilebilir. Harflerin eğimlerini ölçmek için şeffaf bir
+PRAFRECTOR GEREKLİDİR. Ölçülen harflerin hepsi tepesinde ve kuyruklu
+küçük harfler ve bir sapı olan tüm başkentler. _O_, _C_,
+_Q_, _s_ ve _x_ sadece yaklaşık olarak ölçülebilir.
+
+Yükseklik ve eğim açılarının ölçümlerini uygulama yöntemi
+sayfa 15'teki tablo tarafından gösterilen durumda gösterilmiştir.
+
+Soruşturma konusu, _b_, _l_, harfleri içeren bir imzaydı.
+_K_, _B_.
+
+Sahtecilikteki bu harflerin ölçümleri üstünde verilmiştir.
+tablo ve yüksekliği derecelerde çizgiler ve eğim açısı gösterir.
+
+On iki gerçekte karşılık gelen harflerin ölçümleri
+İmzalar tabloda örnek 1 ila 12 olarak gösterilmiştir.
+
+Toplamın ortalaması on iki'e bölünerek ortalaması alınır.
+
+Şüpheli imzanın bir sahtecilik lehine varsayımı
+Aritmetik sonuç ile güçlü bir şekilde desteklenir.
+
+Yüzde 2'den fazla bir fark. eğim açısı ve yüzde 3.
+Yükseklikte şüphe zemini olarak güvenle güvenilebilir, çünkü
+Nadiren bir erkeğin imzasının kısa bir süre içinde büyük ölçüde değişmesi.
+Hastalık tarafından sağlanan açıklamanın yokluğunda, kasıtlı
+stil veya diğer anormal koşullarda değişiklik,
+Bu örnekte gösterilen, şüpheli imzanın
+başka bir el.
+
+ ---------+----------------------------- ++ ------- -------------------------
+          |       Çizgilerde yükseklik.        ||        Eğim açısı.
+          +-------+-------+-------+------- ++ -------+-------+ -------+-------
+          | _B._ | _l._ | _K._ | _B._ || _B._ | _l._ | _K._ | _B. _
+ ---------+-------+-------+-------+------- ++ ------- +-------+-------+-------
+ Sahtecilik | 7 | 7 | 6 | 7-1/4 || 15 | 20 | 21 | 21
+ ---------+-------+-------+-------+------- ++ ------- +-------+-------+-------
+ Örnek 1 | 7-1/4 | 6-1/2 | 5-1/2 | 7-1/2 || 16 | 22 | 21 | 20
+          |       |       |       |       ||       |       |       |
+    "2 | 7-1/4 | 6-1/4 | 6 | 7-1/4 || 17 | 21 | 20 | 20
+          |       |       |       |       ||       |       |       |
+    "3 | 7-1/4 | 6 | 5-3/4 | 7-3/4 || 16 | 21 | 20 | 21
+          |       |       |       |       ||       |       |       |
+    "4 | 7 | 6-1/4 | 5-3/4 | 7-1/2 || 16 | 21 | 20 | 21
+          |       |       |       |       ||       |       |       |
+    "5 | 7 | 6-3/4 | 5-3/4 | 7-1/2 || 17 | 22 | 21 | 20
+          |       |       |       |       ||       |       |       |
+    "6 | 7-1/2 | 6-3/4 | 5 | 7-1/2 || 16 | 21 | 20 | 21
+          |       |       |       |       ||       |       |       |
+    "7 | 7-1/2 | 6 | 6 | 7-1/4 || 17 | 20 | 21 | 21
+          |       |       |       |       ||       |       |       |
+    "8 | 7-1/2 | 6-1/2 | 5-3/4 | 7-1/2 || 16 | 22 | 21 | 21 21
+          |       |       |       |       ||       |       |       |
+    "9 | 7-1/4 | 6-1/2 | 5-1/2 | 7 || 16 | 21 | 21 | 21
+          |       |       |       |       ||       |       |       |
+    "10 | 6-3/4 | 6-1/2 | 5-3/4 | 7-1/4 || 16 | 20 | 21 | 21 21
+          |       |       |       |       ||       |       |       |
+    "11 | 7-1/4 | 6-3/4 | 5-3/4 | 7-1/2 || 16 | 21 | 21 | 22
+          |       |       |       |       ||       |       |       |
+    "12 | 7 | 6-1/4 | 5-3/4 | 7-1/2 || 16 | 20 | 21 | 21
+ ---------+-------+-------+-------+------- ++ ------- +-------+-------+-------
+ Ortalama | 7-1/4 | 6-1/2 | 5-3/4 | 7-1/2 || 16-1/4 | 21 | 20-3/4 | 20-3/4
+ ---------+-------+-------+-------+------- ++ ------- +-------+-------+-------
+
+
+
+
+Bölüm III.
+
+Terminoloji.
+
+
+[İllüstrasyon: Terminoloji.]
+
+Bir yazının açıklamasını mükemmel bir şekilde netleştirmek için bir
+Değişmez olan terminoloji sistemi benimsenmiştir. Yani aynı
+Terimler her zaman bir mektubun aynı bölümlerini göstermede kullanılır.
+Bunlar basittir ve çoğunlukla kendi kendini açıklayıcıdır, böylece hayır
+Onları hafızaya getirmek için çaba gerekiyor.
+
+Bir mektubun her bölümünün kendine özgü bir adı vardır, böylece
+Bir senaryo karakterini bir sözlü ile çok yakından çoğaltmak mümkün
+Tanım.
+
+Bir mektubu tanımlamak için kullanılan terimler aşağıdadır:-
+
+_Letter_, herhangi bir komut dosyası karakterinin, sermayenin veya küçük olanın tamamı anlamına gelir. İçin
+Notlar ve raporlar sermayedeki kısalık uğruna yazılmıştır. küçük,
+SM.
+
+_Arc ._-- Bir ark, oluşturulan eğridir _inside_ üst döngü veya eğri,
+_f_, _m_, _h_, _o_. _O_ olarak, mektubun iç yarısı
+ark; İç alt yarısı kanca.
+
+_Buckle ._-- Toka, bu tür harflere eklenen ayrı vuruştur.
+_k_, _f_ ve başkentler _a_, _f_, _h_.
+
+_Beard ._-- Sakal, sıklıkla görünen ön vuruştur
+büyük harfler.
+
+_ Cody ._-- Bir mektubun gövdesi, bunun üzerine dayanan bir kısmıdır.
+çizgi ve küçük bir daire içinde bulunabilir. Örneğin, küçük bir
+_D_ Vücut daire ve son yukarı doğru eğri veya ayak parmağından oluşur.
+Küçük bir _G_'de vücut, kuyruk eksi dairedir.
+
+_EYE_, bir inme devamıyla oluşturulan küçük dairedir.
+omuz _r_.
+
+_Finals ._-- Final, kanatın ötesinde taşınmayan bitirme vuruşudur
+başkentlerde ve _y_, _g_, _z_ gibi birkaç küçüklerde.
+
+_Foot ._-- Bir mektubun ayağı, bunun üzerine dayanan kısmıdır.
+astar. Küçük _m_ üç ayağı vardır, _h_ iki, vb. Var.
+
+_HOOK ._-Kanca bir alt eğrinin içidir. Bunun tam tersi
+Arc.
+
+_Link ._-- Bağlantı, inme iki bağlanan kısmıdır.
+edebiyat.
+
+_Broken bağlantı. _-- Kırık bir bağlantı, bağlantının iki katına katkısıdır
+edebiyat.
+
+_Loop ._-- Bir döngü, bir harfin üst veya kuyruğu oluşturan kısmıdır.
+Bağlantılı üstlere ve kuyruklara "çubuklu" denir. Örneğin, küçük _f_
+Üst ve alt iki döngü; _f_, _h_, _l_ bir üst döngü vardır; _g_, _y_,
+_Z_ bir alt döngü var.
+
+_Shank ._-- Bir mektubun sapı, ana uzun aşağı inme
+omurgayı oluşturur.
+
+_Shoulder ._-- Omuz, görüldüğü gibi eğrinin üst kısmının dışındadır.
+küçük _m_, _n_, _o_, _h_. Küçük _m_ üç omuz var, _n_ iki, _h_
+bir.
+
+_Spur ._-- Sakız, sakalın ne olduğu küçük harfe
+başkent. İlk vuruş.
+
+_Tick ._-- Bir kene, genellikle bir
+Mektup, bazen sonunda.
+
+_Toe ._-- Toe, bir mektubun sonuçlandırılması,
+küçük _e_, _n_, _h_, & c.
+
+_Whirl ._-- Whirl tüm ilmekli harflerde yukarı doğru. Bu bir
+Spurun _b_, _h_, _f_, _l_
+yukarı doğru.
+
+
+
+
+Bölüm IV.
+
+El yazısı sınıfları.
+
+
+Farklılaşmada kolaylık sağlamak için, el yazıları
+Sınıfları takip ediyor. Pratik olarak her tür yazı yerleştirilebilir
+onlardan biri.
+
+_Vertik el ._-- Dikey bir el, üstlerinin ve kuyruklarının
+Harfler neredeyse mümkün olduğunca yatay ile dik bir şekilde oluşur
+astar. Bu el yazısı sınıfının en iyi örneği,
+Kamu hizmeti eli, telgraflar aracılığıyla genel halka aşina ve
+resmi belgeler.
+
+_Back Hand_, karakterlerin genel eğiminin olduğu bir eldir.
+sağdan sola.
+
+_Talian el_ arka elin tersidir, eğim bir
+soldan sağa akut açı. Bu, modası geçmiş bir stil,
+ve neredeyse her zaman yaşlı bayanlar tarafından kullanılan el yazısıdır. Onun
+Çoğu belirgin özellik, keskin açıları ve yokluğu
+eğriler.
+
+_Open el ._-- açık bir el, genellikle
+dikey, ayırt edici özelliği
+edebiyat. Bunun en iyi örneği, cusack tarzı olarak bilinir
+yazma.
+
+_Cliped El ._-- Kapalı bir el, açık bir elin tersidir,
+Mektuplar birlikte kalabalıklaşıyor ve genellikle uzun ve dar,
+soldan sağa eğim.
+
+_Greek El ._-- Bu, yakından bir tür yazı türüne verilen isimdir
+basılı karaktere yaklaşır. Hem sermaye hem de
+küçük, baskıyı taklit etmek için oluşur, özellikle de başkentler _t_, _x_,
+_Y_, _r_, _b_, _d_ ve smalls _e_, _f_, _g_, _h_, _j_, _k_, _p_,
+_r_, _t_, _v_, _w_, _x_, _y_, _z_. Sık sık bulunan bir el
+Klasik akademisyenlerin yazıları, edebi erkekler işe yarar
+Dikkatli bir araştırma ve genellikle kısa görüşün kanıtıdır.
+
+_Wavy Hand_ genellikle dikeydir. Karakteristiği bir
+dalgalı Serpantin dalgası. Arasında çok az veya hiç ayrım yapılmaz
+çubuklu veya ilmekli harfler. _M_ ve
+_N_ ve Minnie kelimesi beş küçük _u_ tarafından yazılır. İçinde
+_a_, _d_, _g_ gibi yuvarlak gövdeli harfler, daire nadiren tamamlandı,
+ancak açık bırakılır, böylece küçük _a_ _u_ olur ve küçük _d_ olabilir
+_I_ ile karıştırılmış _i_ litted ve _t_ geçişsiz. Olmasına rağmen
+Geometrik ve Caligraphic yanlışlığı ayrıntılı olarak, bu el genellikle
+Yine de büyük bir düzenlilikle yazılmış, yani karakterler
+Eksik, düzensizliğinde her zaman eşittir. _E_ asla
+açık, ama kaplanmamış bir _i_ ve _n_ _u_, ama özellikler
+Yazarın tanıdık gelmesi bu el genellikle çok okunaklıdır.
+
+_Flat el ._-- Düz bir el, içinde bir tür el yazısı
+Karakterlerin oblate veya düzleştirilmiş bir görünümü vardır, _o_, _a_, _g_,
+& c., Yatay ovaller olmak, minim gibi ve müzikte breve gibi. .
+Kuyruklar ve üstler genellikle kısa, geniş döngüler ile. Neredeyse her zaman
+dikey bir el. _Eccentric bir el_, çeşitli işaretli özellikler sunan
+ve belirli harflerin oluşumunda standart kurallardan ayrılır,
+ve tanınan herhangi bir sınıfa yerleştirilemez, ancak yaklaşık
+diğerinden daha fazlasına.
+
+_Round_ veya _clerical el_
+Ortalama bir okul erkekliğinin yuvarlak normal eline olan yakınlık,
+Karakterler normal kopya kitabında oluşurken fark
+Model, el önemli bir akıcılık ve sıkılık ile yazılmıştır. Öyle
+Genellikle sadece biraz dikey, hafif eğimli
+sağa doğru.
+
+
+
+
+Bölüm V.
+
+Bir yazı nasıl incelenir.
+
+
+Bir yazının incelenmesi genellikle dikkatli olmak
+BT ile başkaları arasında karşılaştırma, nesne
+Hepsinin aynı elle olup olmadığını belirleyin.
+
+Bilinen bir elinde veya yazarlığa ilişkin yazı
+Hiç şüphe yok, genellikle orijinal olarak adlandırılır ve her zaman
+bu isimle atıfta bulunulur. Onunla karşılaştırılması gereken yazı,
+ve soruşturmanın konusunu pratik olarak oluşturan,
+Şüphelenmek. Şüpheliler A, B, C, D & C. olarak işaretlenmeli ve
+Orijinal iyice ustalaşana kadar inceleme yapmadan.
+Bu, kafa karıştırıcı için ilk bakışta göründüğünden daha önemlidir.
+Birinden önce iki tür yazma türünün göz ve zihnine sahip olmasının etkisi
+Tür tanıdık, son derece önyargılıdır. Bakmak için herhangi bir eğilim
+Şüphelilere önce sıkı bir şekilde direnmelidir.
+
+Muayenenin nesnesinin keşfetmek olduğunu varsayalım.
+Anonim bir mektup yazarı-en sık görülen görevlerden biri
+el yazısı uzmanı. Eldeki malzeme anonim harftir,
+Böyle bir durumda orijinal ve yarım düzine örnek olarak adlandırılabilir.
+Şüpheli kişilerin yazılması. Bu şüpheliler 1 ila
+6, veya A, B, C ve işaretli ve orijinal olana kadar bir kenara koyun
+iyice çalışıldı.
+
+İlk şey, kağıdı ve zarfı incelemektir,
+Kalite, filigran, boyut ve bir ipucu verebilecek herhangi bir özellik. Öyle
+kağıdın bundan farklı olarak her açıdan olduğunu varsaymak her zaman güvenli
+Yazar tarafından yaygın olarak kullanılır, tıpkı almak için eşit derecede güvenli olduğu gibi
+içerdiği yazının, genel olarak
+Görünüş gider, yazarın normal elinin tersi olun. O
+ağır bir sırt eli ise, yazar muhtemelen bir el kullanıyor
+İtalyanlara yaklaşmak, ancak çok fazla kilo olmamalı
+Bu teoriye bağlı.
+
+Ardından, belgenin genel stilini bir bütün olarak not edin,
+Üst, alt ve yanlar arasındaki kenar büyük veya küçüktür. Bir yazar
+Alışkanlıkla sol üst köşede başlar.
+Makale, alışkanlığı tekrarlayarak genellikle kendine ihanet edecektir. Bu çok
+Ekonomik bir eğilimin ortak işareti. Kalabalık olup olmadığını unutmayın
+Çizgilerin uçlarına yakın kelimeler ve harfler iyi bir marj bırakır. Katipler
+Ve resmi işe girenler nadiren son sözlerini kalabalıklar,
+geniş bir alan bırakmayı ve bir sonraki çizgiye devam etmeyi tercih ediyor.
+
+Tire'nin kelimeleri bölmek için kullanılıp kullanılmadığını unutmayın. Birçok yazar asla
+Bir kelimeyi bölün, diğerleri bunu tire ile veya tire olmadan sık sık yapar.
+
+Çizgiler arasındaki ortalama mesafeyi ölçün, eğer kaldırılmamış kağıt kullanılırsa,
+ve ortalama mesafeyi not edin.
+
+Kelimeler arasındaki mesafeyi ölçün ve ortalama bir şekilde vurun,
+Kelimeler kalemi kaldırmadan bağlanır. Bunun olduğu bulunabilir
+Katılmak, yalnızca belirli harfler ilkinin finalini oluşturduğunda yapılır
+Kelime katıldı ve bağlantılı kelimenin başlangıcı. Dikkatle bak
+çok.
+
+Özellikle tepesinde ve kuyruklu harflerin eğimine dikkat edin.
+
+İster sık ​​ve doğru ya da başka türlü noktalama işaretlerine dikkat edin.
+
+Yazının ait olduğu sınıfı belirleyin.
+
+Dilin özelliklerini not ederek belgeyi dikkatlice okuyun,
+"iyilik" için "iyilik" gibi heceleme hataları veya Amerikancılığın
+"renk" için "renk" & c. ; "_s_" için "_z_" ikamesi böyle
+"Reklam" gibi kelimeler & c. Camla sahip olabilecek herhangi bir kelimeyi inceleyin
+özellikle dışlanmış veya yeniden yazılmış, özellikle
+düzeltildi veya dokunuldu.
+
+Yatay çizgilerin yukarı veya aşağı eğilme eğilimi olup olmadığını unutmayın.
+
+Özellikle _a_, _d_, _h_ gibi iki veya daha fazla feet içeren harfleri not edin.
+_k_, _m_, _n_, & c. Belirli bir düzenliliğin
+Formasyon çoğu yazımda vardır. _A_ _o_ gibi oluşturulursa,
+Ayak parmağı çizgiye dokunmuyor veya ikinci ayak yüksek olan bir _n_
+Sakallı bir _r_ gibi, bu özellikler dikkatle not edilmelidir. Bazı
+Yazarlar diğer uçlara gider ve ikinci ayağı aşağıda taşırlar.
+Hat, böylece _a_ küçük bir _q_ olur. Çok fazla zaman ayrılamaz
+el yazısının bu yönüne, çünkü
+Yazar muhtemelen oldukça bilinçsizdir ve bu nedenle değerlidir
+kanıt.
+
+Sonraki, tepesinde ve kuyruklu harfleri inceleyin, ilmekli olup olmadıklarını belirterek
+veya tek bir vuruşla oluşturulan, yani çubuklu. Sıklıkla bulunur
+Belirli harflerin her zaman ilmekli olduğunu, diğerleri de yasaklandı. Dikkatli not alın
+böyle. Hem çubuklu hem de ilmekli harflerin kullanıldığı görülüyorsa
+ayrım gözetmeden, onları sayın ve ortalama. Her durumda, bir karakteristik
+açıklanacak. Döngüleri inceleyin ve sınıflandırın. Onların olup olmadığını unutmayın
+Uzun veya kısa, yuvarlak veya açısal, geniş veya dar. Özel adan
+Ark, omuz ve kancaya dikkat. Ayrıca, herhangi bir farklılık
+Yukarı ve aşağı inme arasındaki kalınlık; açıklık derecesini test edin
+ve cam vasıtasıyla inme keskinliği ve dikkatlice arayın
+açının belirlenmesine yardımcı olacak tırtıklı veya düzensiz kenar
+kalemin tutulduğu.
+
+
+
+
+Bölüm VI.
+
+Alfabe ayrıntılı olarak.
+
+
+[İllüstrasyon: Alfabe varyantları.]
+
+Şimdiye kadar verilen talimatlar üzerinde hareket etmişse, öğrenci
+Yazının genel karakterini tanıdılar
+muayene altında. Şimdi ayrıntılı bir incelemeye devam etmeli
+Her harf, Smalls ile başlayıp onları alfabetik olarak alarak
+emir.
+
+Bir sayfa izleme kağıdı alın ve her bir küçük _a_ izleyin,
+Yaklaşık çeyrek inç alanla birbirlerini hatta takip edin
+her harf arasında. İzleme sürecinde göz açık olmalıdır
+Özellikler için uyarı, özellikle de yuvarlak veya başka türlü
+bir bütün olarak daire, ark ve kancanın eğrisi veya açısı, akraba
+ayak parmağı konumu. İster döngü veya çubuklu, şaftaya dikkat edin
+Üstü, olsun, dairenin gövdesinin üstünde veya altında
+sağ veya soldan dikey veya eğimli. Tüm _a_'leri karşılaştırdıktan sonra,
+Onları sayın ve hangi formun en sık tekrarlandığına karar verin. Bu olabilir
+yazarın normal _a_ olarak alınır.
+
+İncelemede dikkate alınacak temel noktalar aşağıdadır.
+başarılı mektuplar.
+
+_B ._-Mahanaat, uzunluğuna, ne kadar az bir şekilde karşılaştığını not edin;
+Shank'ın çubuklu veya ilmekli olup olmadığı; Döngünün karakteri. Not
+özellikle de bağlantıyı oluşturan ayak parmağı. Bu çok
+Önemli el hareketi. Düşük olabilir, _b_ kelimenin tam anlamıyla
+_li_ veya yatay bir çubuk, bir açı veya düzgün bir yarım daire olabilir. Onun
+Formasyon varyasyon için büyük bir kapsam sunar ve çok dikkatli olmalıdır
+çalıştı. Ayak parmağını _f_, _o_, _v_, ilgili vuruşla karşılaştırın.
+_W_. Bir gözle birleştirilip birleşip katılmadığını unutmayın ve ortalamasını gözlemleyin
+taban çizgisinin altından mesafe.
+
+_C ._-- Bu mektup, bir başlangıçta, sık sık bir mahmuzla başlar,
+genellikle bir nokta veya kene ile. Önceki bir mektupla bağlandığında,
+bağlantı _c_ _e_ içine yapabilir. Bazen bağlantısı kesilir
+Önceki mektup. Bunun karakteristik olup olmadığını unutmayın.
+
+_D ._-- Small _a_ incelemesinde olduğu gibi aynı testleri uygulayın,
+Shank çubuklu veya ilmeklidir.
+
+_E ._-mahmuzun baş harflerini inceleyin; Döngüyü yakından gözlemleyin. Aramak
+Yunanca'nın herhangi bir nüksü {e}. Verilen örnekleri inceleyin ve karşılaştırın
+Örneklerde. Birçok yazarın _E_ olarak _e_ oluşturma alışkanlığı vardır.
+ve döngüyü eklemek. Camın yardımıyla buna dikkat edin.
+
+_F ._-- Bu, çok sayıda çeşit için kapsam veren önemli bir mektuptur
+form. Döngüleri inceleyin ve sınıflandırın, hangisinin daha uzun olduğunu belirterek-
+üst veya alt; Bir veya her ikisi de çubuklu olsun. Göz ve ayak parmağı
+Gözlem için malzeme ile hamile. Çeşitli biçimlerini inceleyin
+Örneklerde verilen bu mektup.
+
+_G ._-- Bir önceki mektup gibi, bunun birçok form çeşidi vardır,
+ve dikkatli çalışmayı geri ödeyecek.
+
+_H ._-- Bu mektubun karakteristik kısmı, onu oluşturan kanca.
+vücut. Shank'a nasıl birleştirildiğini unutmayın-
+hat veya yüksek; omuz yuvarlak mı yoksa açısal mı, isterse
+Ayak çizgiye dokunur veya üstünde kalır; Şaftın ilmekli olup olmadığı
+veya çubuklu.
+
+_i ._-- Bu, yapılan nokta nedeniyle önemli bir mektup
+mekanik olarak. Shank'ın başlangıç ​​olarak teşvik edilip edilmediğini belirttikten sonra,
+DOT'a özel dikkat gösterilmelidir. Noktalar çeşitli şekillerde.
+Herhangi bir yönde eğimli kama şeklinde bir strok olabilirler, yatay bir
+Dash, küçük bir daire veya yarım daire, küçük bir _v_ veya mükemmel bir nokta.
+Hepsini camdan inceleyin ve virgülle karşılaştırın,
+genellikle nokta ile aynı karakterden ayrılır. Ayrıca not
+dikey veya solda dikey olsun, şanta göreceli konum,
+ve ortalama yüksekliği ve şafttan uzaklığı. Çok şey öğrenilebilir
+DOT'un dikkatli bir şekilde incelenmesinden ve her varyasyonu ve
+Karakteristik en dikkatle not edilmeli ve sınıflandırılmalıdır.
+
+_J_, _i_ önemli kılan aynı nedenden dolayı önemlidir.
+Birkaç biçimi var, ancak nokta en değerli olanı sunuyor
+kanıt.
+
+_K ._-- Bu, küçük harflerin en önemli ve değerli olanıdır.
+Çok özgünlük ve düzensizliğin kapsamı sunar.
+oluşum. Küçük _K_'nin karakteristik özellikleri esas olarak
+vücut. Birkaç yazar hem _k_ oluşturur. Her ne kadar ait olsa da
+Aynı sınıf, vücutta bastırılabilecek varyasyon sayısı
+Şaşırtıcı derecede büyük, düzenleme kopya kitabı modelinden değişen
+Örneklerde gösterilen eksantrik desenler. Özel dikkat olmalı
+göze ve tokaya adanmış, çünkü bu ikisinin bu kavşağında
+Çoğu yazarın özelliklerini sergilediği vücudu oluşturan vuruşlar.
+
+_l ._-- Aynı muayene ilkeleri bu mektup için geçerlidir.
+Küçük _E_. Döngünün karakterini dikkatlice not edin ve
+mahmuzun konumu.
+
+_m_ ve _n_ muayene için yeterli malzeme sunar. Başlangıç ​​olarak
+İlk inme bazen abartılır, mektubu yaklaşık olarak
+Sermaye _m_ veya _n_. Omuzların oluşumuna ve bunların
+göreceli yükseklikler ve genişlik; Ayrıca, üstlere dokunan bir çizgi sayesinde
+omuzların dikkatlice not edin ve son omzu ile karşılaştırın.
+Birinci. Bu mektup oluşumda büyük uç noktalar sunar. Omuzlar
+Yüksek ve iyi yuvarlak veya hatta yatay olabilir veya keskin olabilirler
+_m_'i _in_ ve _n_ _u_ içine dönüştüren açılar. Not
+Shanks arasındaki mesafe ve bunun tekdüze olup olmadığını gözlemleyin.
+
+_O ._-- Bu mektup, ana önemini bağlantı bağlantısına borçludur. Not
+Düşük olarak taşınsın, mektubu _a_ gibi yapmak, isterse
+Vücuda bir gözle birleştirilir ve ayak parmağı kavisli veya açısalsa.
+Ayrıca, dairesel gövdenin genel konformasyonuna dikkat edin ve karşılaştırın
+ayak parmağı _b_, _f_, _v_ ve _w_.
+
+_P ._-- Bu mektubun birkaç biçimi var ve etkileyen bir yazar var
+Bunlardan biri genellikle sık sık tekrarlar. Şaft çubuklanabilir veya
+ilmekli, tamamen veya kısmen, özellikle başlangıç ​​olarak kullanıldığında. Beden
+Genellikle muayene için geniş malzeme sunar.
+
+_q_ ayrıca büyük özgürlüklerin alındığı bir mektup ve
+çeşitli varyasyonların konusu. Bazı yazarlar arasında hiçbir ayrım yapmaz
+_G_ ve _Q_ ve son vuruş genellikle ana özelliği sağlar
+Bu mektubun.
+
+_R. _-- Bu önemli mektubun iki formu vardır-kare veya gözlü ve
+kancalı. Birçok varyant, içinde örnekler olarak kullanılır.
+Örnekler gösterir. Birçok yazar bilinçsizce her ikisini de kullanma alışkanlığı oluşturur
+_r_'ler, ancak belirli bir sistem derecesi ile. Örneğin, kişi kullanılabilir
+Hook _r_ her zaman final olarak ve gözlü _r_ başlangıç ​​olarak. .
+Göz oluşumu, omuzla özel olarak incelenmelidir,
+yarım daire, bir ark, düz bir çubuk veya
+Açısal _V_. Bağlı _r_, farklı formlar açısından eşit derecede zengindir ve
+Mektup ilginç bir çalışma oluşturur.
+
+_S ._-- Bu, İngilizce'de bu kadar sık ​​nüksün bir mektubu
+Doğal olmayan bir şekilde dil çeşitli
+ve bu, düzenleme şeklinin olmasına rağmen
+Son derece basit ve ilkel. Yazarların çoğunda bir tane var
+_K_ gibi mektubun favori şekli
+karakteristik.
+
+_T ._-- Bu mektup, sık nüksü nedeniyle önemlidir ve
+form varyasyonları nedeniyle, çubuk veya geçiş en çok
+Gözlem için malzemede verimli. İki olağan biçimi var
+_t_, kancalı ve çapraz ve çubuklu ve eşit derecede
+değerli ve karakteristik. Kancalı bir _t_ geçişi,
+bir _i_, o kadar mekanik bir eylemdir ki, sık sık ortaya çıkarır
+önemli kanıtlar. Yakından incelendiğinde çapraz inme bulunur
+birçok varyasyon sunmak için. İnce bir yatay çizgi, bir eğri, bir
+ağır kısa çizgi; her iki ucunda veya her ikisinde işaretlenmiş veya noktalı olabilir-
+Kısa, bu önemli olan sayısız formun nadiren bir sonu yok
+El hareketi varsayabilir. Sonra şansta göreceli konumu söyler
+fazla. Şaftına dokunmadan yüksek olabilir; alçaktan, düzgün bir şekilde vuruldu
+Shank'a dik açılarda, yoksa tamamen atlanabilir. Bazılarında
+Bir _t_ koşulları geçilir, diğerlerinde çapraz kalmadan bırakılır; Örneğin,
+Bir kelimenin başlangıcındaki _t_ her zaman geçişsiz olabilir, ancak
+Final _T_ Asla. Bunlar özellikler ve özellikler
+Öğrenci dikkatli bir şekilde dikkat etmelidir. _T_'nin diğer biçimi
+çubuk _t_ olarak bilinir. Genellikle geçişsizdir ve genellikle toka
+önemli bir özellik. Örneklerin dikkatli bir şekilde incelenmesi önerilecektir.
+_t_ harfinin analizinin yapılması gereken satırlar
+ve aynı zamanda malzemenin zenginliğini,
+öğrenci.
+
+_U ._-- İki kanalın tek tip olup olmadığını unutmayın, mektubun
+Başlangıç ​​olarak teşvik edildi. Shanks arasındaki mesafeyi ortalama ve
+Yuvarlak ister _v_ şeklinde olsun kancanın konformasyonunu gözlemleyin.
+
+_V ._-- Bu mektubun önemli özelliği ayak parmağıdır. Onun oluşumu
+_f_, _o_, kanca _r_ ve _w_ gibi dikkatle not edilmelidir.
+
+_W ._-- _U_ ve _V_ ile aynı testi uygulayın. Tekdüzeliğe dikkat edin veya
+aksi takdirde kancalar ve kancalar ve içinde verilen çeşitli formları inceleyin
+Örnekler.
+
+_X ._-- Bu mektup kendini hilelere ve varyasyonlara ve az harflere borçludur
+Ortodoks kopya defteri formundan gerçek uygulamada daha fazla ayrılın
+Örneklerde gösterilmiştir.
+
+_Y ._-mahmuza ve göreceli konumunu sapa not edin. Not
+kuyruk ve ortalama uzunluğu.
+
+_Z ._-- Bu mektup, çalışma ve tespit için iyi bir malzeme sunar.
+tavırlar. Vücudu en önemli kısımdır, çünkü
+Pek çok varyasyon. Açısal veya iyi kavisli olabilir; Göz olabilir
+büyük veya abartılı veya sadece önerilir. _K_ ve _X_ gibi, form
+Bir yazar tarafından kabul edildikten sonra genellikle herhangi bir büyük
+kapsam.
+
+
+
+
+Bölüm VII.
+
+Başkentler.
+
+
+Büyük boyutları ve daha karmaşık formları nedeniyle büyük harfler
+Testler için Smalls'tan çok daha fazla malzeme sunun. Daha fazlasını verirler
+hileler ve eksantriklik kapsamı, aynı zamanda ekstra
+ön plana çıkma ve ana hatlarının göze çarptığı açıklık
+yazarın, göz kamaştırıcı olduğunu tespit etmesini daha olası hale getirir
+Ortodoks modelinden kalkışlar. Başka bir deyişle, bir yazar
+Muhtemelen şekillendirmedeki doğruluğa daha fazla dikkat edin ve özellikle
+kopyalama, küçük bir mektuptan daha büyük bir sermaye. Bu genellikle bulunur
+imza sahtekarlarında dava, başkentler kural olarak çok
+Orijinalin küçük harflerden daha yakın. Ama bu harika
+Başkentleri incelemede öğrencinin lehine avantaj-vuruşlar
+Daha geniş olmak, daha geniş bir alan ve muayene için malzeme sağlar.
+Örneğin, çok gelişmiş bir sermayede düzensiz veya elmas inme
+_m_, _w_, _r_ veya _b_ gibi aynı türden daha belirgin olur
+Küçük bir harfte inme.
+
+Durum olduğu gibi büyük harfler seriatim almaya gerek yok
+Smalls ile, aynı prensipler ve inceleme kuralları için geçerlidir
+Her iki durumda da. Yayları, kancaları incelemede aynı özen gereklidir
+ve genel konformasyonlarıyla ilmek omuzları. Açısı
+Yuva başkentlerde daha belirgindir ve
+yazarın özellikleri küçük harflerden daha fazlası. Kişiler kim
+El yazısından karakterin tanımlanması konusunda her zaman harika ödeme
+Başkentlere dikkat, şüphesiz iyi bir sebeple ve sonuç olarak
+uzun deneyim.
+
+Bir inceleme
+bağlantısı kesilmiş vuruşlar. Bunlar _a_, _b_, _f_, _h_, _k_, _p_, _q_, _r_,
+_T_ ve _X_. Bunlar çift başkent olarak bilinir. Bu çiftler
+dikkatlice aranabilir ve sıklığı veya başka türlü
+Nüks, olası olduğu için neredeyse bulunacaklar
+her zaman aynı koşullar altında kullanılır; Yani, bir yazarın bir
+mümkün olduğunda çift sermayeyle başlama alışkanlığı, ancak
+Yazının gövdesindeki aynı harfin tek formu. Bir diğer
+yazar neredeyse her zaman başkentleri kesecek
+Kelime, üçte biri düzenli olarak birbirine bağlar. Bazı yazarlar etkiler
+Basılı karaktere yaklaşan daha basit form. Diğerleri
+Yine, özellikle de
+imzalar. Bu tür yazarlar sahteye kolay avlar olduğunu kanıtlıyorlar.
+
+Başkentlerde çok kolay bir özellik "elmas" dır. Öyle
+Aşağı vuruşun ani bir kalınlaşmasıyla oluşturulur. Özellikle
+Talep edilenlerin yazılmasında fark edilir
+Ağır aşağı iniş arasında bir ayrımın olduğu eski moda okul
+Ve ışık yukarı doğru ısrar edildi. Bir zamanlar elmas alışkanlığı oluştu
+yok etmek çok zordur ve izleri her zaman kalır
+Bu şekilde öğretilen kişilerin yazılması.
+
+Sermayenin önemli ve önemli bir kısmı sakaldır. BT
+otomatik bir numaradır ve her zaman dikkatli bir incelemeyi geri ödenir. Olabilir
+Gürü, işaretlenmiş veya noktalı bir sakal, ancak her durumda ilk vuruş
+Ne olursa olsun, dikkatlice incelenmelidir, çünkü
+Çoğu vurgulanan neden, esasen
+İpucu teminatsız korumasız ve primasyonsuz otomatik vuruş sınıfı
+yazar tarafından göz ardı edilir.
+
+Bir sermaye şeklinde varyasyonlar not edilmeli ve bir kayıt tutulmalıdır,
+Çeşitli, ne kadar büyük olsa da, belirli bir
+Form diğerinden daha çok kullanılır ve normal tip olarak kabul edilebilir
+yazarın.
+
+Bazı yazarların özelliği, genişlemiş bir formun kullanılmasıdır.
+Sermaye için küçük mektup. Bir çifte hizmet etmek için yapılmış harfler
+Amaç genellikle _a_, _c_, _e_, _g_, _m_, _n_, _o_, _p_, _q_, _s_,
+_U_, _V_ ve _W_. Onlara küçük başkentler denir.
+
+
+
+
+Bölüm VIII.
+
+NOKTALAMA.
+
+
+Ampersand (&), ipuçları için mükemmel malzeme sağlayan bir semboldür
+hile ve tavırlara. Sadece _v_ şeklinde bir kene biçiminde değişir
+Süslü bir döngü ve neredeyse belirsiz bir karakter ve
+gelişir. Okuma yazma bilmeyen kişiler tarafından çok az çalışır ve
+Bazı eğitimli yazarlar,
+Kelimelerin kısaltması, kaba. Birkaç yüksek sınıf bayan okulunda
+Kullanımı sert bir şekilde bastırılmıştır ve birçok akıcı ve alışkanlık vardır
+Bu işareti asla kullanmayan yazarlar. Bu kendi başına yararlı bir
+karakterizasyon ipucu. Diğerleri, yine, sadece böyle istihdam
+"& Co.," "& c.
+Genellikle değil, yazılı "vb." birçok kişi tarafından.
+
+Dash (-) büyük ölçüde birçok yazımda ve özellikle de
+evrensel bir noktalama işareti olarak gören bayanlar ve
+Bunu ayrım gözetmeden virgül ve tam durak olarak kullanın. Her ikisinin de birçok insanı
+Cinsiyetler her zaman bir zarf üzerindeki adresin altında bir çizgi yapar ve
+bir tür son gelişir. Sağlanan örneklerin yakından incelenmesi
+Böyle bir yazıda birçok değerli kendine özgü özdeyiş gösterecektir. Bu bir
+kalın, sağlam yatay çizgi, her iki ucunda kene veya her ikisinde bir eğri;
+dalgalı bir çizgi veya hatta yukarı veya aşağı doğru bir çizgi. Ayrıca, düzensiz
+Edge, kalemi tutma tarzına önemli bir ipucu verdiği için.
+Çizgi aslında promedited ve mekanik olarak oluşturulmuş bir
+Sık sık yazarın karakterine daha fazla ihanet ettiği el hareketi
+diğer tüm mektuplardan daha. Bir yazarın
+Anonim mektup tüm özelliklerini başarıyla gizledi,
+Ama son vuruşu şimdiye kadar sahip olduğu bir çizgi şeklinde koyarken
+kendini bilinçsiz olarak üretecek şekilde unuttu, muhtemelen ne oldu
+En belirgin el hareketlerinden biri, böylece bir ipucu sağlayan
+nihai mahkumiyete yol açtı.
+
+Noktalama işaretleri nadiren İngilizce el yazısının belirgin bir özelliğidir. Öyle
+önde gelen edebi adamlarımızın çoğunun pratik olarak bunu terk ettiğini söyledi
+çalışmalarının önemli aşaması yazıcının kanıt okuyucusuna. Bir
+Farklı ellerle yüz özel mektubun incelenmesi bir
+Noktalama işaretlerinin muhteşem kıtlığı ve az sayıda muhabir kullanıyor veya
+virgül ve tam nokta dışında herhangi bir durağın kullanımını biliyor gibi görünüyor,
+Her şey için hizmet yapmak için yapılır. İşareti
+Sorgulama oldukça sık kullanılır ve oluşumu kapsam verir ve
+Dikkatli muayene için malzeme. Örnekler,
+form ve yön eksantrikliği bazen alır.
+
+Kolon ve noktalı virgül ortalama yazarlar tarafından çok az kullanılır ve
+Olduklarında, genellikle yanlıştır, ancak neredeyse her zaman
+Dikkatle not edilmesi gereken aynı koşullar. Tırnak işaretleri
+("") hala daha nadiren istihdam edilmektedir ve
+Çoğu insanın onları yanlış bir şekilde oluşturduğu sınavı. Doğru stil
+Bu, "", ancak ilk alıntı olmadığı kadar sık,
+alt yerine üst.
+
+Neredeyse başka bir evrensel ihmal, sonra
+"Esq."
+Bölgeler, E.C., W.C. Bir zarfın ele alınması
+ipuçları için ilginç ve değerli malzeme, çünkü genellikle
+noktalama işaretleri kullanan bir yazarın bunu yapacağını buldu
+aynı koşullar altında otomatik düzenlilik.
+
+Durakların ve izlerin şekli ve genel oluşumu dikkatle olmalıdır
+incelenen ve sınıflandırılmış, çünkü bunlar önemli
+premodit edilmemiş el hareketleri sınıfı ve bu nedenle değerlidir.
+Özellikler için ipuçları.
+
+"Esq." genellikle bir adamın adını izleyen bir mektupta
+O, "?" veya "!" ve,
+Bu nedenle kullanım yoluyla otomatik olmak değerlidir. Çoğu yazar bir
+şekillendirmede tek tip stil ve telafi etmeye giden üç harf
+Kısaltmalar neyse ki kendilerini ödünç veren bir tür.
+karakterizasyon.
+
+Ayrıca, sahiplik işaretinin bu tür kelimelerde konumu
+"Erkekler," "Yazar." Doğru bir şekilde yerleştirilirse, yazar
+Noktalamayı anlayın ve uzun bir yazıda bunun kanıtını verecektir.
+
+
+
+
+Bölüm IX.
+
+Kağıt ve filigranlar. Bir sahtekarlığa yardım etmesi gereken kağıtların kahverengimsi renk tonu
+Çeşitli şekillerde elde edildi-bazen zayıf bir çözeltiye girerek
+Kahve, ama diğer durumlarda parlak bir ateşten önce tutarak. Bu
+İkinci cihaz, neyse ki, başarı kolay değil, önemli
+Tatmin edici bir şey sağlamak için bakım, yargılama ve hatta şansa ihtiyaç var
+sonuç. Kendi durumumuzda, denemede sürekli başarısız olduk,
+Kağıt, ilk bakışta sözlerini heyecanlandırmak için eşitsiz bir şekilde renklendiriliyor.
+
+Tüm eski harf kağıdı deseni neredeyse büyüklüğünde-Post
+Quarto ve filigran her zaman çok farklı, açıklanabilir
+Tel kalıbı yakın dokuma sanatının o zaman
+şimdiki mükemmellik durumuna getirildi.
+
+Filigranlar, sivri bir çubuk vasıtasıyla çok adil bir şekilde taklit edilir
+suda eritilmiş bir spermaceti ve keten tohumu çözeltisine batırılmış ve
+soğuk olana kadar karıştırıldı; veya eşit miktarlarda terebentin ve kanada balsam
+birlikte sarsıldı. Aynı sonuç, megilp kullanımı ile elde edilebilir,
+Sanatçılar tarafından kullanılan karışım.
+
+Bu filigran sahtekarlığının tespiti basit ve yanılmaz. Eğer
+Şüpheli belge ılık su ile nemlendirilir.
+Filigran hemen kaybolur, ancak orijinal ise, düzleşir.
+
+Yıpranmış ve pis görünüm bir mektupta yaştan ayrılamaz
+Kirli bir tozla hafifçe ovarak vurgulandı. Etki
+Genellikle güçlü bir camın altında belirgin olan kirli kumaşın geçişi
+Kendisini küçük paralel çizgilerle ortaya çıkarıyor.
+
+Kağıt arasında ayrım yapmak için çok az özen gereklidir.
+Kitaplardan ve dönemin gerçek mektup kağıdından alınmıştır. Başlamak için
+Bu tür harfler her zaman tek sayfalarda. Gerçek durumlarda,
+Sayfa dört sayfalık bir folyo kadar sık ​​değildir. Vakaların çoğunda
+Sahte sayfa tanınmış bir boyutu yoktur. Daha büyük bir kitaptan alınırsa
+Quarto sonrası, gözyaşı gizlemek için kesilmesi gerekiyordu. Bu
+Operasyon düzensiz büyüklükte bir tabaka yaptı-Quarto sonrası için çok küçük,
+Bir sonraki boyut için çok büyük. Gerçek yazı kağıdında, dördü de
+Kenarlar genellikle bir banka notu gibi pürüzlüdür. Sayfa olsaydı
+Bir kitaptan soyutlanmış, bir kenar kesilmiş veya kesilmiş olmalıdır.
+
+Yine, böyle bir kağıt eşit olmayan kalınlıktadır,
+Dönem, baskı kağıdından çok daha pürüzsüz ve daha ince
+Parçalar Mürekkebin kaba bir şekilde çalıştığı neredeyse kesindir,
+emici kağıt. Bu, kağıdın baskı olmadığının kesin bir işaretidir
+yazma.
+
+Ayrıca, bu tür kağıdın alt kenarlarda aşınma belirtileri göstereceği kesindir
+Sayfanın bu kısmı işlendikleri ve maruz kaldıkları yer
+kapağın iç kenarına en yakın olan genellikle
+daha temiz ve daha az aşınma belirtisi gösterir. Çoğu durumda izlenimi
+Kitap bağlama açıkça görülebilir.
+
+Birkaç sayfa orijinal harfin dikkatli bir incelemesi ve karşılaştırılması
+Boş yapraklarla on yedinci ve on sekizinci yüzyılın kağıdı
+Basılı kitaplarda bulunan farklılıkları ortaya çıkaracak, bu yüzden bu hata
+Daha sonra neredeyse mümkün değil.
+
+Genellikle gres izlerinin sahteyi kesintiye uğratması meydana gelir. Olduğunu bilerek
+üzerlerine yazamıyor ve var olmaları pek olası
+Yeni olduğu zaman ve mektubun olması gerektiğinde kağıt üzerinde
+Yazılı, onlardan kaçınır. Sonuç eşit olmayan boşluklarda belirginleşir
+kelimeler ve hatta mektuplar.
+
+Bir keresinde başarılı bir şekilde gerçekten mükemmel bir sahtecilik
+uyguladığımız tüm testlere dayanıyordu, gerçek karakterini ortaya çıkardı
+sahtekarın meraklı bir gözetimi ile.
+
+Bu on yedinci yüzyılın başlarında bir belgeydi ve dikkatimiz
+tuhaf bir üniforma lekeli görünümü ile tutuklandı, örneğin sonuçlar
+Sert, emilen, çok giyilen bir blot kağıt tabakası ile lekelenme. -Den
+Bu belgenin varsayılan tarihi süresi,
+Bilinmiyor, yazılar özel olarak hazırlanmış bir para cezası ile kurutuluyor
+Pounce, kum veya ince kristaller içeren bir toz denen toz
+Metal mürekkebe süs parlaklığı vermeyi amaçladı. Yakın muayene
+Mikroskop altında gerçeği ortaya çıkardı. Pounce belirtisi yoktu
+veya kristalleri genellikle düz olan başka herhangi bir kurutma tozu
+yardımsız göz, ancak lifinin farklı belirtileri vardı
+Mürekkepte kalan kağıt.
+
+Merkezdeki varlık yoluyla keşfettiğimiz başka bir sahtecilik
+hafifçe kaplayan çok hafif bir kare taslağından oluşan kağıt kağıt
+renk değişikliği. Sayfa, her zamanki gibi bir kitaptan kaldırılmıştı ve
+Kare taslak, bir kitap plakasının hafif bir izlenimiydi.
+karşı sayfaya yapıştırılmış. Renk değişikliğine mürekkepten kaynaklandı
+kitap plakasında.
+
+Akıllı ve eğitimli hatırlatmak gereksiz olmalıdır
+eski belgelerin bir koleksiyoncusunun yapmasının gerekli olduğu kişiler
+Kendisi özelliklerine, alışkanlıklarına ve geleneklerine aşina
+edebi meraklarda uğraştığı dönem. Yine de gerçek
+Bunlarda olağanüstü gevşekliğin ve hatta cehaletin var olduğu kabulü
+puan. Bir koleksiyoncu ile tanışırız, hiçbir şekilde eğitimsiz, kim
+Sir Humphrey Davy tarafından olduğu iddia edilen bir mektup için iyi bir fiyat verdi,
+Madencilerin güvenlik lambasının mucidi, bir zarfla çevrili. O öyleydi
+1840'a kadar zarfların bilinmediği gerçeğinden habersiz
+Bu mektubun tarihinden yıllar sonra. Varsayılan zarflar
+Dickens tarafından ele alınmış olması satışa sunuldu ve
+satın alınan, dönemde dolaşımda olmayan posta pulları taşıyan.
+
+Bir sahtenin ona yeterince dikkat edeceğini düşünebiliriz.
+Kazanan gaflara karşı muhafız üzerinde olmak için malzemeler
+Whalley'nin faili, ceza hizmetliliği sahtecilik yapacak. O öne çıktı
+1862 tarihli bir vasiyetname, düz bir filigranda kağıt yatak üzerine yazılmıştır
+Tarih 1870! Başka bir ayrılmaz kişi mahkemeden bir vasiyetname kabul etmesini istedi
+Anilin kopyalama kalemi ile yazılı ve imzalı, ancak tarihli yıllar
+Bu enstrüman icat edilmeden önce.
+
+Listede verilen Dr. Scott ve Bay Davies'in her ikisi de Show
+Forgers'dan etkilenen çeşitli dönemlerin filigran örnekleri
+edebi belgeler.
+
+
+
+
+Bölüm X.
+
+Mürekkep.
+
+
+Bir seferde bir yazının yapılıp yapılmadığını belirlemek için muayene,
+veya daha sonra ek olarak, doğa ile biraz tanışmayı gerektirir ve
+mürekkep nitelikleri. Sıradan durumda bir kimyager yardımı
+gerekli, ancak genişlemiş bir fotoğraf,
+İnanılmaz doğruluk.
+
+Oluşturmaların çoğunda değişiklikler biraz zaman yapılır
+Orijinal yazıldı, bu durumda gölgede bir fark
+Mürekkep, yardımsız göze bile algılanabilir. Bu
+Özellikle şimdi neredeyse evrensel mavi-siyah mürekkep kullanıldığında doğrudur.
+
+Bir ek için gerekli olan dönem
+Yazma, kağıdın karakterine bağlıdır. Eğer öyleyse
+Pürüzsüz ve sert ve yazı blot kağıt ile kurutulmadı,
+Ama doğal ve yavaş kurumaya izin veriliyor, çok siyah olacak
+Kağıt kaba ve emici bir doğaya sahip olmaktan daha hızlı.
+
+Oldukça güvenilir bir test, şüpheli olanın kalın bir vuruşuna dokunmaktır.
+bir damla seyreltilmiş muriatik asit ile ilave-
+bir iğnenin noktası. Düşmeyi şüpheli eklemeye uygulayın ve
+Aynı anda eski yazı ve sonucu dikkatlice izleyin. .
+Daha yeni yazı, neredeyse mavimsi bir renk tonu ile zayıf ve sulu olacak
+anında, ancak daha büyük durumlarda değişiklik daha yavaş olacak
+Yazmak, on hatta yirmi saniye alarak. Dönem ne kadar uzun olursa
+Değişiklik için gerekli, yazı gündem.
+
+Bir yazının sıradan olup olmadığını kanıtlamak için aynı asit testi uygulanır
+mürekkep veya litografiye tabi tutuldu veya fotoğraflandı. İkisi ise,
+Asitin bir etkisi olmayacaktır.
+
+Birden fazla vesileyle koleksiyoncular orijinal olarak satın aldı
+litografiye tabi tutulduğunu kanıtlayan ünlülerin imzaları veya
+fotoğraflandı, ancak bu kadar aldatılan kişiler genellikle
+deneyimsiz amatörler.
+
+Yazılı ve basılı bir imza arasındaki fark olduğunda
+Bir kez, gözlemci bir kişinin
+aldatılmış. Bununla birlikte, buna karşı dikkatli bir şekilde nöbetçi olmak da
+Modern fotoğrafçılık ve süreç baskısı için beklenmedik durum
+öyle bir taklitçi mükemmelliğe getirildi ki,
+bir
+Asit testinin yokluğunda görüş. Neyse ki bu yanılmaz.
+
+Bununla birlikte, bugüne kadar büyük bir başarı yok
+bir aralığın ne kadar sürdüğünü belirleme çabalarına katıldı
+orijinalin yazılması ile şüpheli ekleme arasında. Genel olarak
+Konuşma, en çok uzman bir sınavdan kazanmayı umabilir
+Bu koşullar altında mürekkebin ipuçları, ipuçları ve öneriler var
+kesin, güvenilir gerçeklerden daha. Neyse ki, bir
+Bu şekilde elde edilen öneri, eğitimli veya dikkatli olan muazzam değeri kanıtlar
+Gözlemci, ancak başkalarına mahkum olmayabilir.
+
+Neredeyse tüm tümdengelimsel akıl yürütme durumunda olduğu gibi, el yazısı uzmanı
+hafif önerilere duyarlı hale gelir. Eğer aranırsa, bazen olduğu gibi
+başkalarına bu hafif ve neden nasıl ve neden olduğunu açıklamak
+Teorisine uymayan işaretler, başarısız olur. Bu nedenle
+İhtiyati uzman, iyi bir yargıç gibi, onun için nedenler vermeye dikkat eder
+sadece açık olanları belirtme yargısı.
+
+Birçoğu bir uzman, başarısızlıkla tanık kutusunda zayıf bir sergi yaptı
+bir jüriye kendi zihninde üretilen izlenimi hafifçe iletmek
+kanıt parçası, uygun anlayış ve yorum
+Sadece baygınlığı nasıl tanıyacağını öğrenenler tarafından kavranabilir
+işaretler.
+
+Tespit etmek amacıyla kimyasal olarak test mürekkebi süreci
+Bahsedilen noktalar oldukça basittir ve belirgin şekilde ilginçtir. İçinde
+Çok önemli bir durum, nitelikli bir kimyager hizmetleri muhtemelen
+talep edilmek, ancak gerekli materyalin ve zamanın maliyeti
+Yetenekli bir test cihazı olarak kendini yetkin hale getirmek için gerekli
+Bir kimyager tarafından tahsil edilecek küçük ücretin bile nadiren
+ödemeye değer.
+
+Gerekli malzemeler birkaç test tüpü, bazı şişeler kireç
+su, seyreltilmiş muriatik asit, içinde bir nitrat çözeltisi
+Damıtılmış su, on tahıl oranında ons, bazıları
+Deve saç kalemleri ve temiz beyaz blot ve turnusol kağıdı. Bütün
+Yarım taçtan fazla maliyete gerek yok.
+
+Bu malzemeleri kullanma yöntemi en iyi şekilde bir
+Sık sık imza koleksiyoncuları tarafından ihtiyaç duyulan test.
+
+Afferler tarafından yaş görünümü vermek için kullanılan çok yaygın bir yöntem
+Sahte eski belgelerde kullanılan mürekkep, sıradan mürekkeple karıştırmaktır,
+Muriatik asit, oksalik asit veya potasın binoksalat. Varlığı
+Bu boyama maddeleri aşağıdaki şekilde tespit edilebilir.
+
+İlk olarak, mektubu soğuk suyla yıkamak mürekkebi yapacak
+Mürekkebi kahverenmek için asit kullanılmışsa daha koyu olun, ancak aşağıdakiler
+Test, anlaşmazlığın ötesindeki noktayı çözecek:
+
+Bir deve saç fırçası ile mektubu ılık suyla yıkayın. Eğer,
+Bazen olur, bir tür boya veya renkli Hint mürekkebi kullanılmıştır,
+Bu hemen yıkanacak ve kaybolacak, paslı bir
+leke. Değilse, turnusol kağıdını ıslatılmış mürekkebe uygulayın ve
+Asit varlığı, turnusol kağıdı ile olağan bir şekilde gösterilecektir.
+Renk değiştirme. Eğer gerçekse, ıslatma hiçbir fark yaratmaz.
+
+Ardından, yazıdan bir veya iki damla su bir test tüpüne dökün
+Mektuptan, biraz damıtılmış su ve bir veya iki damla ekleyin
+gümüş çözeltinin nitratının. Müretle boyamak için muriatik asit kullanılmışsa, kalın beyaz
+Çökelti hemen tüpte görülecektir.
+
+Değilse, yıkanmış birkaç damla su daha dökün
+Yazma ikinci bir test tüpüne, biraz damıtılmış su ve bir
+Birkaç damla kireç suyu. Eğer tüpte beyaz bir çökelti görülecek
+Potasın oksalik asit veya binoksalat kullanılmıştır.
+
+Birçok durumda, dilin ucunu bir
+kalın inme. Eşsiz bir asit tadı fark edilecektir.
+
+Forgers tarafından başvurulan yöntemlerin daha fazla ve daha dolgun özellikleri
+İmzalar bölümünde eski belgeler simüle edilecektir.
+
+Bir inme yapılıp yapılmadığını bilmek bazen önemlidir.
+Bir diğeri, gerçek sorunun ortaya çıktığı ünlü davada olduğu gibi
+Bir imzada belirgin bir değişiklik gerçekten bir
+İmzacının nerede imzalaması gerektiğini belirtmek için Pen-Mark. Oldu
+Eğer işaret önce yapılırsa imzanın üstesinden geleceği açıktır;
+Önerildiği gibi, değiştirme veya dokunma girişiminde işaret eklendi
+İmzaya kadar, imza üzerine yazılmış olmalı.
+
+Bu tür durumlarda, genişlemiş bir fotoğraf şüphe için yer bırakmaz.
+Mürekkep, alt vuruşun üzerinde bir tabaka kadar açık bir şekilde yatarken görülür
+Bir resimdeki boya, altındaki vuruşun üstünde görülebilir.
+
+Bu, görünüşte zor noktalardan biri
+Pratik bir şekilde ele alındığında muhteşem bir şekilde basit.
+
+Çok basit bir deneyin ne olacağını açıklamak için sayfalar gerekebilir
+Bir bakışta ortaya çıkar.
+
+Mürekkebin sahip olması için yeterince uzun yazılmış bir kelime alın
+Kuruyun ve üzerinde bir vuruş yapın. Örneğin, bir mektup yapın _T_
+Bar olmadan, o zaman, bir veya iki saatlik bir atlamadan sonra, haçı ekleyin
+çubuk. Bu oldukça kuru olduğunda ve ilk işaret kadar karanlık hale geldiğinde,
+İyi bir bardakla inceleyin. Eklenen çubuğun mürekkebi görülecek
+Dikey inmeyi açıkça kaplıyor, ancak herhangi bir şüphe derhal olabilir
+Büyütülmüş bir fotoğraf çekerek kaldırıldı.
+
+Birincisindeki mürekkep hala ikinci vuruş eklendiğinde bile
+Islak Üst strok, sanki net olmasa da ayırt edilebilir
+İlk vuruşun önce kurumasına izin verildi.
+
+Bu tür vuruşları uygulayarak ve inceleyerek, öğrenci yakında öğrenecektir.
+Hangi inme olduğuna şüphe bırakmayan önemli işaretleri ayırt etmek
+ilk yapılmış.
+
+
+
+
+Bölüm XI.
+
+Silme.
+
+
+Rakamların değiştirilmesi ve bir çekte yazılan miktar
+Genellikle silme ile etkilenir. Bir zamanlar bunun için kimyasallar kullanıldı
+amaç, ama neyse ki modern kontrol bu konuda sahtecilik geçirmez
+Saygı. Sıradan yazının olabileceği kimyagerler tarafından bilinmemektedir.
+Kaçmak için çok belirgin bir işaret bırakmadan bir çekten kaldırıldı
+tespit.
+
+Ancak bir çekte silme bile son derece zordur ve deneyimli
+Ortalama banka veznenin gözü, büyük çoğunluğunda onu tespit edebilir
+vakalar. Bu yolla işlenen sahtekarlıklar çok nadirdir ve genellikle
+Kişinin kabul eden brüt dikkatsizliğinin sonucu
+belge çok değişti.
+
+Daha sık kontrol sahtekarlığı şekli, böyle bir
+Kelimeler altı, yedi, sekiz ve dokuz olarak. _Ty_ ve _y_ eklenmesi
+Bu gerekli. Ama normalde dikkatli bir iş adamı asla ayrılmıyor
+Bu eklemeyi kabul etmek için sözleri arasında yeterli boş alan,
+dikkatlice incelemeyen az sayıda banka anlatıcısı var
+Bu daha büyük miktarlar için yapılan kontrol.
+
+Kontrol sahtekarlığının olmadığı tatmin edici bir gerçek olarak kabul edilebilir.
+Sadece son derece zor, ama nadiren başarılı. Büyük sahtekarlıklar
+genellikle faturalar gibi diğer enstrümanlar aracılığıyla işlenir
+değişim, kredi notları ve c.
+
+Bir silme, aranıp aranmadığını tespit etmek için en kolay şeydir. Başlamak için
+sadece ışığa çizilmiş bir belgenin bulundurulması gerekir.
+Değişiklik ortaya çıktı.
+
+Makalenin yüzeyinin bir kısmını kaldırmak zorunlu olarak silme
+silinmiş noktada belirgin şekilde daha ince yapılır. Neredeyse her durumda silme işlemine eklenen yazı
+Kağıdın kaba ve emici karakteri nedeniyle bulanık. Uzman
+Forörler, bazılarına sürtünerek buna karşı koyma araçları tasarladı.
+orijinal pürüzsüzlüğü kısmen geri yükleyen ve hafifleten madde
+Bulanık görünüm. Ancak bu tür cihazlar için başarılı olmamalı
+Çok kolay tespit edilirler.
+
+Aslında, silinen bir kontrolün sahtecisinin tek şansı
+veznenin dikkatsizliğinde yatar. Herhangi bir kelime kalabalık ve
+Bir kontrolün doldurulmasında eşit olmayan boşluk, şüpheyi heyecanlandırmalı
+ve dikkatli ve daha yakından incelemeyi kışkırtır ve eklenebilir,
+genellikle yapar.
+
+Bir sayının değerini artırmayı amaçlayan harflerin eklenmesi
+_ty_ ila altı veya yedi ila eklenmesi, düzgün bir şekilde tespit etmek kolaydır.
+aradı.
+
+Eklemenin uzun zaman sonra yapıldığını varsaymak güvenlidir.
+Orijinal kelime yazıldı ve kavşak noktası tarafından tespit edilebilir
+İyi bir bardak yardımı.
+
+Söz orijinal olarak altmış yazılmış olsaydı, şansın orada olması
+_x_ ve _t_ arasında algılanabilir bir kırılma olmaz. Birkaç kişi
+Bu tür kısa kelimeleri bağlantısız bir şekilde yazın. Kelimeyi yerleştirirken
+Sıradan bir cam altında kavşak noktası açıkça belirgin olacaktır,
+ve bir mikroskop veya genişlemiş bir fotoğraf,
+sahtekar. Tabii ki bu son testler
+bir çekin ödenmesine katılan sıradan koşullar
+karşı, ancak bir kez bu tür değişikliklerin özellikleri olduğunda
+incelenen, gözün onları tanımak için ne kadar hızlı olduğu muhteşem
+bir bakışta.
+
+Yağlı kalın kağıt üzerine yazılarda silinme çok kolay fark edilmez
+kontroller gibi ince kağıt üzerinde olanlar; Ama aynı yöntemler
+Sınav uygulanacaktır-belgeyi ışığa veya seviyeye yükseltmek
+ve göze yatay. İkincisinin çok etkili bir uygulaması
+Test, kağıdı bükmek veya eğmek, bir kemer yapmaktır. Bükülmenin bir
+Silinmiş kısmı germe ve genişletme eğilimi ve herhangi bir yumuşatma ise
+Parlaklığı restore etmek için nişasta veya balmumu gibi madde eklenmiştir.
+kazınmış kısım, genellikle ayrılarak kendini ortaya çıkarır ve
+Toz veya küçük pullarda geliyor. Bu süreç tarafından vurgulanabilir
+Şüpheli belgeyi bir cetvel üzerinden çizmek veya daha da iyisi, bir kalem,
+Hareketi birkaç kez tekrarlamak.
+
+
+
+
+Bölüm XII.
+
+Kalemler ve stilograflar.
+
+
+Bir kalemle yürütülen yazmanın veya şimdi çok kullanılan
+Stylograf birçok açıdan farklılık gösterecektir.
+sıradan kalem. Kullanımlarının ortadan kaldıracağını söylemek çok fazla değil
+birçok özellik ve yenilerini tanıtmak. Bu değişiklik esas olarak getirildi
+bir kalem veya stilografın tutulduğu farklı şekilde
+bir kalemle karşılaştırma. Çok daha büyük bir özgürlük duygusu var. .
+Kalem olabilir ve bir
+Kalem olarak inme olamaz ve bu özgürlüğün işaretleri belirginleşir
+daha yuvarlak bir vuruşta. Karakterleri akut olan bir yazar bile
+Angular, daha zarif bir taslak eğilimi gösterir. Meselesi olarak
+gerçek, kalabalık bir yazı ile tanışmak nispeten nadirdir
+belirgin şekilde açısal.
+
+Aynı açıklamalar, üretilen yazma için sadece az değişiklik ile geçerlidir
+stilografla ve aynı nedenden dolayı-
+enstrüman tutulur.
+
+Bir stilograf tarafından üretilen yazma yanlışlığı olasılığı yok
+sıradan bir çelik uç için. Stroklar kesinlikle eşittir
+kalınlık. NIB ile şekillendirilmiş yazı böyle olamaz, çünkü bir
+yazar, ancak dikkatli bir şekilde, kalemine baskı yapmaktan kaçınmak için
+nokta; ve uçun açılması, ancak hafif olsa da, bir
+Görünen kalınlaşma.
+
+Bu nedenle, bu gerçekleri tanımak, uzman her zaman son derece
+Kalem veya stylo tarafından üretilen bir yazı hakkında fikir vermeye dikkat edin
+Yazarın yapımlarının bol örnekleri olmadığı sürece
+Bu enstrümanlar. Aynı zamanda, kalemde mevcut özelliklerin olmamasına rağmen
+Yazma fark edilir, ana özellikler mevcut olurdu: örneğin,
+Kelimeler ve harfler arasındaki boşluk aynı olurdu; üzerindeki nokta
+_i_ geleneksel konumunda olurdu; _t_ çubuğu
+şimdiye kadar aynı tür. Ana değişiklikler
+Daha büyük çürük eğilimi olan daha tek tip bir inme yönü.
+
+Alışkanlıkla styloyu kullanan kişiler çok sık bir
+Bir oluşturmak için kalemi belirli noktalarda bükme alışkanlığı
+Derin, yuvarlak nokta. Bu esas olarak kelimelerin uçlarında meydana gelir ve
+vuruşlar. Bir büyüteç camı, bu tuhaflığı bir kerede ve ne zaman ortaya çıkarır
+keşfedilen, bunun altında olduğu koşullar hakkında bildirim alınmalı
+Büküm genellikle yapılır. Büyük olasılıkla,
+Hile aynıdır; yani, bazı harfler veya vuruşlar çoğunlukla
+nokta ile bitti.
+
+Yıllarca hayır isteyen iyi bilinen bir kamu karakter var.
+Stylo dışında diğer yazı enstrümanı. Yazısı bir tane var
+Dört yüz örnekte incelenecek kadar alışılmış olan tuhaflık
+Sadece beşte yoktu. Bu bükülme noktasını oluşturur.
+Her satırın sonundaki son mektup. Çıkarım ve açıklama
+Bu, bir sonraki çizgiye geri dönmek için kalemi yükselterken, büküyor
+Arka hareket ile uyum içinde geriye dönük bir hareketle. Başka bir numara
+aynı noktayı durdurduğu kelimelerle yapmak veya
+bir sonraki yazmadan önce tereddüt etti. Bu gibi her durumda ekstra bir
+Bir nokta ile sona eren ve takip eden kelimeler arasındaki geniş boşluk. BT
+yazar, duraklatırken mekanik olarak noktayı yapmış gibi görünür
+Bir sonraki kelimeyi seçin. Bu bilinçsizin çarpıcı bir örneği
+el hareketi.
+
+Buna benzeyen bir şey, ünlü bir avukatın el yazısında meydana gelir. Burada
+Ve orada mektuplarında hafif, eğimli, dikey bir
+İnme, şekil _1_ gibi. Onu yazdıklarını görenler açıkla
+Böylece. Bir kelime seçiminde tereddüt ederken kalemini yukarı taşır ve
+kağıt üzerinde ve istemeden dokunuyor. Bu tür kaymalar
+Bunlar genellikle uzmana kimliğe değerli ipuçları sağlar.
+Oluştuklarında dikkatlice incelenmelidirler, çünkü çoğunluk
+Vakalar, varlıkları için bir neden bulunacaktır.
+
+
+
+
+Bölüm XIII.
+
+Anonim harfler ve gizlenmiş eller.
+
+
+Bu yaramaz ve korkakça gizli saldırı biçimi, anonim
+mektup, maalesef,
+el yazısı uzmanı. Katılabilecek en hoş ödüllerden biri
+Vicdanlı ve özenli el yazısı öğrencisi
+Sanatının bazen hak ettiği için getirmesini sağlayabileceği bilgisi
+İtibar ve iç mutluluk suikastçısı cezası.
+
+Yasal yetkililer tarafından tartışılan tartışmalı bir nokta
+El yazısı uzmanının ihale kanıtlarında haklı olup olmadığı ve
+Suçluya ait olduğu söylenebilecek türden bir tür görüş
+araştırmacı. Bununla, uzmanın izin verilmemesi gerektiği anlamına gelir.
+jüriye böyle bir koşullu kanıtlara dikkat edin.
+Şüpheli kişi tarafından başka bir yerde bulunan makalenin benzerliği
+onun mülkiyeti; Markalara dikkat etmemesi gerektiğini,
+Tarihlerin tesadüfü, kullanılan mürekkebin benzerliği, kesin istihdam
+kelimeler ve ifadeler ve işaret eden diğer harici ve dolaylı ipuçları
+yazarlık. Uzmanın tüm görevinin şunu söylemek isteniyor.
+Onun görüşüne göre iki veya daha fazla yazı aynı elle olsun ya da olmasın,
+Ve bu sorunun dışındaki herhangi bir görüş ifadesi _ultra vires_.
+
+Bu itirazın bariz cevabı, sınırlamanın imkansız olmasıdır.
+hitap eden ve yardım eden noktaların seçiminde uzman
+bir fikir oluştururken. Neyin olabileceğini veya olmayabileceğini söylemek imkansız
+keskin bir gözlemciye değerli bir ipucu önerin; Ve uzman olduğu gibi
+onun görüşüne neden olmak için çağrıda bulunmaya çağırdı, oldukça haklı
+ona ulaştığı adımları gösteriyor.
+
+Bu koşullar, anonim ile bağlantılı olarak daha sık ortaya çıkar
+Alanı için sıradan imza sahtecilerinden daha fazla mektup
+Keşif ve incelenen malzeme çok daha büyüktür. Ayrıntılar
+paha biçilmez. Kullanılan kağıdın kalitesi ve yapısı veya tuhaf bir yöntem
+katlama ve zarfın içine yerleştirme
+Uzmanı yüksek yola önemli bir keşfe koyun. Öyle
+Bir ipucunun nasıl ve nerede gizlenebileceğini söylemek imkansız. Yırtılmış kenarı
+Posta damgası bir zamanlar başarıyla takip edilen bir ipucu sağladı. A
+bir pakette benzer biriyle eşleşen zarf üzerindeki leke
+oldukça şüphesiz bir kişinin yazma davasındaki zarflar
+Mahkumiyet, bir dizi adres gibi, geçti ve
+yeniden yazılmış, anonim yazar, alışkanlık zorla,
+Yazma alışkanlığında olduğu sayı-kendi.
+
+Kısacası, uzman, _nolens volens_, birçoğunu varsaymak için
+Suç araştırmacının görünür önemsizlerle uğraşmada işlevleri,
+Ve hedefine ulaşmasına her zaman yardım etmeseler bile,
+Yararlı gözlem sanatını kullanmak için materyal sağlayın. Kesin olarak
+Uzmanı konuşmak, belki de tüm dış önerileri görmezden gelmelidir
+yazarlığa ve kendisini olup olmadığını söylemekle sınırlayın
+Gönderilen örnekler aynı el yazısındadır; Ama pratikte bu
+Öğrenci için imkansız olmasa da son derece zor bulunacak
+her zaman ortaya çıkan kazara ipuçlarına gözlerini kapatamaz
+Kanıtların incelenmesi ve neredeyse fark etmeden önce,
+Çoğu temkinli uzman, kendisini sağa doğru izinsiz girerek bulur.
+dedektifin korunması olmalıdır.
+
+Bununla birlikte, burada ortaya çıkan noktalar,
+Öğrencinin ortaya çıktıkça yargısı. Çalışmanın ilk aşamalarında
+Muhtemelen kendilerini aynı güçle sunmayacaklar ve
+daha sonra, yararlı sağlama olarak takdir edilecekleri frekans
+rehberlik için özel işaretçiler; Ve zaman zaman koyabilirler
+deneyimsiz öğrenci sahte bir koku üzerine,
+Şüphe duyduğunda, verilen ilkeleri takip ederse hatasını tespit etmek
+El yazısının karşılaştırılması için aşağı.
+
+Anonim mektubun incelenmesi için ilk adım
+daha önce tavsiye edildiği gibi, mümkün olduğunca çok şüpheli tedarik etmek
+Orijinal olana kadar mektup veya numaralandırılın ve bir kenara koyun
+Dava anonim mektup, incelenmiş ve ustalaşmıştır. .
+çok fazla şey söylenen veya olmayabilecekleri dış kanıtlar
+aranmak.
+
+Ardından, yazıların incelemesi ve karşılaştırılması ile devam edin. Öyle
+öğrencinin özellikleri hakkında notlarını hazırladığını varsaydı
+orijinal; Şimdi onları şüphelilerde aramak zorunda. Diyelim ki
+Spurs ve sakallarla başlar, onları iyi işaretlenmiş bulmuş
+orijinal. Şüphelilerden herhangi birini alacak ve bir
+aynı işaretlerin tekrarlanması. Geri kalanını takip edebilir
+şüpheliler, hafızasının bu noktada taze olmasından yararlanarak veya
+Daha önce tüm delillerinden bir şüpheliyi tüketmeyi tercih edebilir
+başka biriyle ilerlemek; Ancak uygulama ve deneyim karar verecek
+Bu konudaki en iyi kurs ve prosedür çizgisini etkiler.
+
+Ne olursa olsun, hepsi aynı nesneye sahiptir-
+şüphelilerin bir veya daha fazlasında orijinalin özellikleri ve
+Öğrenci, düzenlenen kursu doğru bir şekilde takip ederse akıllıca olacak
+"Bir Yazının Nasıl İnceleneceği" bölümünde.
+
+Yazının bir
+Anonim mektup gizlenir. Yazarın
+Başka bir kişiyi onun için yazmaya ikna eder, ama nadiren; için
+Aşağıdaki bir eylemin faili genellikle yüzsüz ve tartışmasız değildir
+kendini başkalarına maruz bırakacak kadar. Aynı nedenler güç verir
+Yazının genel görünümü kadar varsayımı
+gider, yazarın olağan tarzının tam tersi
+Yaratıcılık yapabilir. Aşırı arka el çok sık meydana gelir. BT
+Anonim yazarın hakkından kaçınan ilk dürtü gibi görünüyor
+eğim. Normal el dikey olsa bile, geri eğilimi ile
+El, aşırı sol eğim genellikle seçilir. Neyse ki, varsayılan
+Arka el, en şeffaf kılık değiştirenlerden biridir. Eğer öğrenci
+uyguladı, ne kadar zor olduğunu hatırlatması gerekmeyecek
+bir yazarın davranışlarını gizlemesi için. Yamayı değiştirerek sahip olduğu
+Sadece uzattı ve ana hatlarını uzattı ve uzman yakında öğreniyor
+onları yeni formlarında tanımak.
+
+Bir başka yaygın kılık değiştirme okuma yazma bilmeyen eldir. Bu oldukça kolay
+tespit. Uygulanan ve akıcı yazarın
+Okuma yazma bilmeyenlerin titrek, düzensiz ana hatlarını,
+saf ve kültürlü İngilizce konuşmacısı için kaba taklit etmek için
+kaba aksan. Ne kadar iyi bir kopya ne kadar iyi, her zaman erken yıkılır,
+ve ani ve bilinçsiz firma, açık ve geometrik olarak doğru
+İnme, maskenin altındaki pratik yazarı ortaya çıkarır. Bazen bir
+doğru yerleştirilmiş noktalama işareti, ne zaman
+Uygun noktalama işareti elde edildikten sonra neredeyse
+otomatik. Deneyimli romancılar bile ara sıra bu şekilde yakalanırlar.
+Bir okuma yazma bilmeyen bir mektup olması gereken bir mektup tanıtacaklar
+karakter. Dilbilgisi ve yazım fikri önerir, ancak daha fazla
+Hatta noktalama işaretlerinin zor detayları, hatta
+"Talkin", "Talkin" gibi kelimelerle elided _g_ ile işaretleyen apostrofe
+"Geliyor" & c.
+
+Çok zor ve zahmetli bir şekilde yazılan mektup
+taklit basılı karakterler. Uzman kavislere güvenmeli
+çizgiler, kazara noktalama işaretleri ve öngörülmemiş gelişmeler ve
+el hareketleri; Ancak, genel olarak, böyle bir mektup becerinin ötesindedir
+Kazara ihanetten yardım edemezse uzman. Eğer bazen
+olur, yazar oluşan bir alfabeyi benimseyecek kadar ustaca
+Tamamen düz çizgiler ve açılar-kolay bir görev-övünebilir
+tespit geçirmez bir yazı üreten; yani karakterler oluşursa
+Bir kuralın yardımıyla yazma olarak adlandırılabilir, çünkü tespiti meydan okur,
+çünkü karşılaştırma için gerekli olan işaretlerin hiçbiri yoktur ve
+Eksik bir iskeletten daha az tanımlama kolaydır. Yokluğunda
+Dış ipuçlarının, bir uzman, çok daha fazlasını sunmayı reddeder
+korunan görüş ve herhangi bir yorum sunmayı reddetmek daha akıllıca olur
+Her neyse.
+
+Bazı kişiler tarafından başvuran bir başka hile,
+Sıkı oturan bir eldiven tarafından daralan el. Bu çok üretiyor
+etkili kılık; Ama eğer öğrenci aynı şekilde pratik yapacaksa
+engel, onu rehberlik etmek için birçok yararlı kural keşfedecek
+Bu dolaşıma nüfuz etmek için yol.
+
+Bir yazarın kalem üzerinde daha az kontrol sahibi olduğu unutulmamalıdır,
+Daha olası olan, istemeden bu formlara geri dönme
+Alışır, çünkü kendi başına, el daha çok yönlendirir
+tanıdık kurs. Geleneksel formlarda kılık değiştirme, değişiklik ve varyasyon
+premeditasyonun sonucudur. Zihin daha fazla işgal edildiğinde
+Karakterlerin oluşumundan daha konu, ikincisi doğal olarak varsayalım
+Gelenek kuvvetinin onları büktüğü bu şekil.
+
+
+
+
+Bölüm XIV.
+
+Dövme Edebiyat İmzaları.
+
+
+İmza, mektup ve edebi belgelerin toplanması ve
+Tarihsel ilgi uzun yıllardır önemli bir özellik olmuştur.
+dünyayı toplamak, ama hiçbir zaman arayış daha keskin veya yürütülmedi
+Günümüzden daha sistematik çizgiler. Önde gelen satış odalarının kayıtları
+genellikle sürpriz için mesele tedarik, fiyatlar nadir istenmiş ve elde edilen fiyatlar
+ve seçim örnekleri hem harikayı hem de şaşkınlığı heyecanlandıracak şekilde,
+bazen şüphecilikle temperlenmiş.
+
+Bu nedenle, bu karlı ve büyüyen pazarın
+Kazandığında ödüller için hileli çekmeliydim
+Genellikle önemli bir karakter ve yanlış uygulananları büyük bir şekilde geri ödüyor
+çaba ve yaratıcılık talep etti.
+
+Bu sahtekarlıkların çoğuna katılan başarı büyük ölçüde
+birçok durumda coşkunun
+Koleksiyoner dikkatini çekti.
+
+Birçok adam, sıradan onun
+Business, Forger'a kolay bir kurban düşmesine izin verdi, bu nedenle
+kolayca inanmaya ikna olduğumuz tanıdık atasözü örneklendirmek
+inanmak istiyoruz.
+
+Ateşli üzerine sürdürülen bazı sahtekarlıkların kaydedilen hikayeleri ve
+Muhtemelen makul koleksiyoncular, sık sık anlatılan masallar gibi okurlar
+Güven Trickster'ın zaferi ve biri nasıl bir insan
+Sıradan gözlem gücü, hiçbir şey söylememek için düşebilir
+tespit etmek için çok az algı gerektiren bir sahtekarlığa kurban. .
+Açıklama şüphesiz belirtilen yönde yatar-
+takip, kesinlikle bir şeye sahip olmanın gururu ve sevinci
+eşsiz.
+
+Önde gelen dava-etkileyici bir yasal terim kullanmak-
+Başbanı Mons olan Vrain-Lucas sahtekarlığı. Chasles,
+Muhtemelen modern Fransız geometricilerin en büyüğü ve birkaç kişiden biri
+F.R.S.
+İngiltere.
+
+Lucas, yarı eğitimli bir frekans ve nominal okuma öğrencisiydi.
+Büyük Paris kütüphanesi ve birkaç yıl boyunca bir
+Küçük bir şekilde, teklif ettiği örnekler şüphesiz gerçek. Esinlenilmiş
+Toplama Ardor ve ona yerleştirilen görünen kör inançla
+M. Chasles, Lucas bir dizi aldatmacaya o kadar küstahtı, ki
+Avukatının öne sürdüğü savunmaya sempati duymak kolaydır.
+Duruşma, yani sahtekarlığın o kadar şeffaf olduğu ki
+bir ucube olarak kabul edilmek.
+
+1861 ve 1869 yılları arasındaki dönemde Lucas, dupe'sine sattı
+Muazzam sayıda 27.000 belge, her biri göze çarpan bir sahtekarlık. Onlar
+bu kadar imkansız tarafından yazıldığını iddia eden mektuplardan oluşuyordu
+Abelard, Alcibiades, Aristoteles'e Büyük Alexander olarak yazarlar
+Cicero, Kleopatra, Joan of Arc, Sappho, Anacreon, Pliny, Plutarch, St.
+Jerome, Diocletian, Juvenal, Sokrates, Pompey ve en muazzam şaka
+Dirilişinden sonra Lazarus.
+
+İnanması zor, ancak mahkemenin reddedilemez kayıtları için,
+Bu mektupların her birinin
+Fransızca dili! Ve son derece eğitimli bir matematikçinin dupe
+Avrupa şöhreti.
+
+Böyle inanılmaz saflık karşısında,
+iki yıl hapis cezası ve 500 frank para cezası
+Lucas'ın hepsinde almasına rağmen, abartılı bir şekilde şiddetli
+M. Chasles'tan 140.000'den fazla frank.
+
+Chatterton ve İrlanda sahtekarları tüm eğitimli tümlere aşinadır
+Kişiler. Ancak bunlar, sınıfın başının altına girmez
+Sıradan sahtecinin ilişkili olduğu sahtekarlık. Bunların her birinde
+Vaka Aldatma güdüsü, para kazanmak için çok fazla değildi.
+edebi itibar. Her iki durumda da muhtemelen yetkin yargıçlar
+aldatılmış. Ancak standartların gerçekliğini ölçtükleri
+Yapımlar caligraphic değil, edebi idi. Hiçbir örnekte
+El yazısı uzmanının onu kullanması için bir fırsat veya fırsat var
+Beceri, yeterli nedenden dolayı,
+hangi yazılar karşılaştırılabilir. Edebiyat uzmanı ne yapmalı
+kompozisyonların stilini incelemek ve karşılaştırmaktı-
+Hâkimin kendine özgü bir önde gelen
+parça. Muhtemelen en iyisi ve kısa bir süre için en başarılı
+Büyük Britanya'da uygulanan imza sahtekarlığı durum olarak biliniyordu
+tespit ve maruz kalma esas olarak
+Bu çalışmanın yazarlarından birine atfedilebilir (Capt. W. W. Caddell).
+
+Hemen önce ve 1891'e kadar, Edinburgh'da genç bir adam vardı
+Saygın bir oğlu olduğunu iddia eden Alexander Howland Smith
+İskoç hukuk yetkilisi ve Sir Walter Scott'ın soyundan.
+
+Büyük romancı ile varsayılan bağlantısının gücü üzerine,
+Bir Edinburgh kitapçısına atılmakta zorluk çekmedi
+tek başına küçüklüğü şüpheyi heyecanlandırması gereken fiyatlar, mektuplar
+Sir Walter Scott'ın el yazısında olduğunu iddia ediyor. Embolize edildi
+Başarı, sahte mektupların toptan bir üretimine başladı
+Burns imzalarını taşıyan Edmund Burke, Sir Walter Scott, Grattan
+ve Thackeray. Başbanı bir Edinburgh kimyager Bay James'ti.
+Sahtekarlık sadece şüphelenildiğinde, aynı zamanda kanıtlandığında Mackenzie,
+inatçı ve cesur bir savunma ile kendini ayırt etti
+belgelerin gerçekliği.
+
+Smith'in _modus operandi_
+Sahtecilerinin konularının dönemi ve boş yaprakları kullanma
+Harfleri imal etmek amacıyla. Mayıs 1891'de bir dizi
+İddia edilen Burns'ün mektupları, kamu açık artırmasıyla satışa sunuldu
+Edinburgh, yirmi ila otuz arasında şaşırtıcı önemsiz fiyat getiriyor
+Şilinler.
+
+Mektupların
+Son derece kısa-edebi sahtekarlar için ortak bir özellik. .
+Şüphelenmeye ilk kez neden olan durumlar, mektupların
+Scott, Burke, Burns, General Abercrombie, Grattan ve
+Thackeray aynı sözlerle başladı ve sona erdi. Sir tarafından imzalananlar
+Walter Scott hepsi "Mektubun var" başladı ve "Ben kalıyorum"
+tanınmış yazarın asla kullanmadığı, ancak
+Smith'e, el yazısı olan tüm seçkin adamlar için yaygındı
+Önemli bir başarı ile taklit etmişti.
+
+Bazılarının satışı ile sağlanan kısmi garantinin gücü üzerine
+Bu belgeler saygın bir açık artırma odasında, Kaptan Caddell bir
+Önceden muayene olmadan Scott mektupları iddia edilen parsel. Kısa bir
+Sınav hileli doğalarını açıkladı ve Smith tutuklandı.
+Edinburgh polisi konuyu üstlendi ve sahtekâr mahkum edildi
+Haziran 1893'te ve on sekiz ay hapis cezasına çarptırıldı.
+
+Thackeray ve Dickens, çoğu edebi affediciye sahip favori konulardır,
+Washington ve Benjamin Franklin onları çok yakın çalışıyor
+Favouriteship. Amerikalı koleksiyoncular özellikle tedarik etmeye heveslidir
+Son iki adın örnekleri ve inanmak için ciddi bir neden var
+Birçoğu kolay kurban düşüyor.
+
+Neyse ki, gerçekliğini karşılaştırmak ve test etmek için tesisler
+Holografları en çok olan her seçkin kişinin imzaları
+Forger lehine, çok sayıda. Muhteşem olana ek olarak
+British Museum Kütüphanesi'nde mevcut örneklerin koleksiyonu,
+Birçok faks mevcuttur.
+
+Dr. Henry T. Scott (Upcott tarafından imza toplama konusunda mükemmel çalışma
+Gill, Londra) koleksiyoncu için vazgeçilmezdir. Biraz içeriyor
+Özellikle seçilen yüzlerce örnek
+karşılaştırma ve birçok çok değerli kural ve ipucu verir
+gerçekleri sahte olan tespit etmek.
+
+Dr. Scott, seçkinlerinin otografik mektuplarının yazılması
+Nameake, diyor ki:
+
+"Sir Walter Scott'ın imzalarından gözlemlenebilir (1) Makale
+Genellikle mektup boyutu, yaldızlı kenarlı, yumuşak, sağlam bir hisle
+dokunma ve sırsız bir yüzey. (2) Tarih ve konut ele alınır
+Üst ve sağ el, 'Sevgili Efendim' öncesinde iyi bir alanla,
+Bir inç çeyrek kağıdın sol tarafında tek tip marjlar,
+Ama sağ tarafta hiç marj yok, yazı yakın taşınıyor
+kenara. Katlama, bir adamın hassasiyeti ile yapılır
+iş, adres için alan oluşturmak neredeyse güzel bir dikdörtgen
+Sayfanın merkezi ve adresin ilk satırı yazılmıştır
+Neredeyse geri kalanı aşağıda alanın merkezinde.
+
+"Kağıt üzerinde bulunan filigranlar aşağıdakilerden biridir:
+Valleyfield, 1809; C. Wilmott, 1815; J. Dickinson ve Co., 1813; J.
+Dickinson, 1816; J. Dickinson (tarihsiz); J. Whatman, 1814; J.
+Whatman (tarihsiz); Türkiye Değirmeni, 1819; Türkiye Değirmeni (tarihsiz);
+G. C. & Co., 1828. "
+
+Burns tarafından yazışmaları için kullanılan makale her zaman büyüktü,
+Yüzeyde kaba, asla parlak ve dört kenarın da kaba kenarına sahipti
+Bir İngiltere bankasının tuhaflığı budur.
+
+A. H. Smith Burns durumunda
+Sahte, şüphe ilk olarak basit ama önemli bir
+konu. Kağıt birkaç solucan deliği içeriyordu. Bunlar dikkatle
+Yazar tarafından kaçınıldığında, kalemine dokunursa
+Sonuç, mürekkebin yayılması ve yayılması olacaktır.
+
+Şimdi bu solucan deliklerinin yaşın etkisi olduğunu varsaymak güvenlidir.
+O zamanlar yok muydu-eğer orijinalse-yazılmıştı; gibi
+Solucan işini uzun zaman sonra yaptı, şanslı olarak kabul edilmelidir
+kağıdı delerken yok etmekten kaçındığı durum
+Yazı, şairin sahip olduğu daha geniş alanları dikkatlice seçerek,
+övgüye değer öngörü ile, böceğin depredasyonları için bırakıldı.
+
+Thackeray'ın mektupları iki el yazısı stilinde, daha erken
+hafifçe eğimli, ikinci dikey, yuvarlak, temiz ve baskı benzeri,
+Sermaye _i_ her zaman basit bir dikey inme. En çok
+Tüm büyük edebi karakterlerin düzgün ve eşit olarak okunabilir eli.
+O kadar üniform gibi bir şey olmaması biraz talihsiz bir durum
+kağıt seçimi. Harfler olağanüstü bir
+bir quarto tabakasından yarımdan yırtılmış bir hurdaya kadar malzeme çeşitliliği
+Not kağıdı. Bu harflerin birçoğunda ne adres
+tarih, ancak büyüleyici ellerin özellikleri olduğunda
+ustalaşmışlar, asla unutulmazlar ve ortasında tanınabilirler
+en yakın taklitler.
+
+Bir dizi sahte Thackeray var. Onların ayırt edici
+Özellikler, sanki sahtecilik gibi, her zaman çok kısa olmalarıdır
+karşılaştırma için materyal tedarik etmek için yeterli madde sağlamaktan korkuyordu;
+Çoğu, birçoğu quarto sayfalarında tek yarıya not kağıdında
+değişen doku ve kalite ve karakteristik dikey _i_,
+Thackeray'ın ticari markası her zaman gerçekleşir. Titrek ve çoğu zaman
+gerçek, nadiren olduğu gibi. Gördüğümüz sahtekarlarda
+ve A.H. Smith'in işi olduğundan şüphelenen çok önemli bir işaret,
+_Y_, _F_ gibi kuyruklu harflerin aşağı çarpmalarının ani kalınlaşması
+_G_, ortasında küçük bir elmas şeklindeki dışkı üreten
+mektup. Cam, ayrılmaz olan düzensiz kenarlı inme
+Sinir kopyacının yazılmasından.
+
+Çok kısa harfler konusunda temkinli olmak genellikle güvenlidir. Sahte
+Bir varsayılan bir sürdürme görevinin ne kadar zor olduğunu bilir
+karakter. Tıpkı taklitçinin tonu yeniden üretmeyi başarabileceği gibi ve
+en çok aldatmak için yeterli yakınlığı olan bir kişinin tarzı
+Konunun yakın tanıdıkları, ancak aldatmayı taşımıyor
+Birkaç kelime veya ifadenin ötesinde, bu yüzden edebi sahtekar her zaman kırılır
+El yazısını birçok cümle üzerinde simüle etmeye çalıştığında. Bu yüzden
+Bilinç, o sık sık kaçındığı bu büyük zorluktan mı?
+cesurca bir gerçek mektubu kopyalıyor. Bize teklif ettik
+Hemen bu şekilde tanıdığımız "Garantili" Thackeray Mektupları. Özellikle göze çarpan bir durumda, Forger orijinali kopyalamıştı
+Mektup, cezacılık söz konusu olduğunda, ancak
+Orijinal yarım sayfa not kağıdına yazıldı, sahtecilik bir
+farklı boyutta kağıt ve makalenin uzunluğu boyunca yazı
+genişlik yerine. Bu doğal olarak aradaki boşluğu bozdu
+Tüm Thackeray'ın yazılarında belirgin bir şekilde düzenli olan kelimeler
+özellik ve bu varyasyon kendi içinde heyecanlanmak için yeterliydi
+şüphe.
+
+Koleksiyoncular arasında Dickens'ın popülaritesi istikrarlı bir şekilde büyüyor. Rağmen
+onun çalışkan bir muhabir olduğu ve çok büyük olduğu gerçeği
+Mektuplarının sayısı piyasada zaman zaman ortaya çıkıyor, talep
+her zaman arzı aşıyor. Sonuç olarak acı çekti
+Belki de elindeki edebi ölümsüzlerden daha fazlası
+sahtekâr. Yine de bu kadar güvenli bir yazar olmaması gerektiğini söylemek güvenlidir
+hileli taklitten, çünkü
+Bir zamanlar görülen ve not edilen sakin yapımları asla olmamalı
+unutulmuş. Örnekler kolayca kullanılabilir. Bayilerin katalogları
+Onları sürekli olarak sunmak ve çoğu halk kütüphanesinin örnekleri vardır,
+ya orijinal holografide ya da bir tür üreme.
+
+Muhtemelen hiçbir yazar tarzını bu kadar küçük bir değişiklikle korumamıştı
+Dickens. Daha sonraki yıllarda imzası biraz değişti.
+edebi gençlik, ancak elçilerinin vücudu boyunca
+aynı özellikler. Her zaman özgür, akıcı, zarif bir eldi,
+önde gelen özellikleri olduğu gibi thackeray gibi okunabilir
+ustalaştı, ama daha az resmi ve çalıştı. Her zaman dikkat çekici bir şekilde
+Düzeltmelerden veya aralarında yer almaz. Kolay özgürlükle yazdı
+stenografın; Gerçekten de narin içinde tanımak kolaydır
+zarafetle oluşturulmuş yıllar süren eğitimin etkisi en çok
+Handscript'in zor ve titiz biçimi.
+
+Belki de Dickens holografındaki önde gelen özellikler şudur:-
+
+Ayın tarihi asla rakamlarda ifade edilmez, ancak her zaman yazılmıştır
+tam olarak; Aslında, asla sayılmaz olan herhangi bir biçimde kısaltma.
+
+_Y_ harfi, hem sermaye hem de küçük bir mektup olarak şekil 7
+"Ly" eki dışında, iki harf _f_ veya uzun olduğunda
+İnme _S_.
+
+_T_ harfi, karakterin aşağı doğru barı tarafından geçildi.
+Okuyucular büyük bir çözüm işareti olarak iddia ediyorlar.
+
+_G_ harfi formda değişmezdir.
+
+Capital _E_, merkezde bir çubuk olan bir aşağı inişten oluşur.
+
+Birçok son harfin kancasının geriye dönme eğilimi vardır.
+
+Yeni paragraflar, çizgiye yaklaşık bir inçten başlayarak işaretlenir.
+sol kenar boşluğu.
+
+Birçok harfte fark edilen çok belirgin bir tuhaflık,
+Çizgiler dibe yaklaştıkça sol kenar boşluğu yavaş yavaş büyür
+sayfanın. Daraşma harika bir şekilde düzenlidir,
+ilk satırdaki ilk harf
+Neredeyse her satıra dokunacak. Bu tuhaflık var gibi görünüyor
+Çalıştığımız her sahteyi kaçtı.
+
+El yazısında karakter okuyucuları tarafından güvenilen işaretler
+Kabul edilmek için benlik saygısı, büyüklerin belirgin bir özelliğiydi
+romancı. Yazısı, bu ince semptomlarla doludur
+Bu zayıflığın yaygınlığı.
+
+İmzası belki de en iyi bilinen
+Halk tanıdık. Oldukça düzgün ve tam olarak kaldı
+Pickwick döneminden sonra kabul ettiği andan itibaren
+ölüm. Gençlikte kullandığı şey daha az çarpıcıydı, ama hiçbiri daha az
+İçine kapanık.
+
+Pickwick döneminden sonra Dickens, mavi kağıt ve mavi kullanımını benimsedi
+mürekkep. Siyah mürekkepteki harfler, tarihsizse, güvenli bir şekilde atfedilebilir.
+erken dönem.
+
+Not makalesi, Düzenleme notu boyutunun daha sonraki yıllarındaydı. .
+Adres, Gads 'Hill Place, Rochester, Kent by Higham kabartmalı
+Siyah eski İngilizce mektup. Kağıdı el yapımı ve kaliteli. Zarflar aynı kaliteli kağıttan mavidi, ancak kret olmadan,
+monogram veya ayırt edici işaret. Dickens'ın makyajı kendini ifade etti
+Zarfları Franking alışkanlığı, _i.e._, adını yazarak
+Sol alt köşe, moda içinde moda ve akranlar ve
+M.P. ücretsiz posta ayrıcalığından keyif aldı.
+
+Yatık öncesi döneminin mektupları-1842'den önce-Quarto'da
+çarşaf. Bunlar son derece nadirdir.
+
+Otografik sahtecilikle ilgili her zaman olabilecek bir özellik var
+tespit çalışmalarında büyük ölçüde yardımcı olmaya dayanıyordu. Genel olarak
+Kural Bir edebi sahtecilikte,
+Karşılaştırma için gerekli malzeme. Eğer bir kopya olmalı, eğer
+Mevcut bir orijinal değil, en azından genel tarzın. Süreç
+taklit yavaş ve temkinli olmalı ve işaretler titrek kalıyor,
+Kırık çizgiler ve tamamen yazılamamış bir sağlamlık
+Akıcı ve özgür olan gerçek yazar. Yaşın titrekliği bile
+Birkaç seçkin el yazısında fark edilir.
+Forger'in belirsizliğinin titremesi.
+
+
+
+
+Bölüm XV.
+
+Dövme imzaları.
+
+
+El yazısı uzmanının sanatının en zor aşaması
+İmzalarda sahteciliğin tespitinde. Açık olacak
+Zaten talimatları ve çizimleri izleyen öğrenci
+Bu zorluğun iki ana neden tarafından ortaya çıktığı göz önüne alındığında:
+İlk olarak, karşılaştırma için malzemenin azlığı ile; İkincisi, yüzünden
+Bir sahteciliğin doğası gereği iyi olması gerektiği çok önemli
+ve bir orijinalin yakın kopyası. Bu, bilinçsiz numaraların
+ve uzun bir mektupta sıklıkla bol olan usulsüzlükler, daha fazla
+veya daha az gizlenmiş el, neredeyse tamamen bir sahte
+imza. Bu nedenle, öğrencinin başka bir
+ona rehberlik edecek ipuçları ve kurallar, çünkü bir şansa güvenemez
+en fazla içeren bir imzada meydana gelen kayma veya kazara hile
+Belki bir düzine mektup.
+
+Şüpheli bir imzanın incelenmesinde ilk adım usta olmaktır.
+Gerçek imzanın çeşitli özellikleri iyice. Bunlar
+mümkün olan her ilişkide ve birçok örnekten incelenmelidir
+elde edilebileceği gibi. Büyüteç, sürekli kullanımda olmalı ve
+kalemin alışkanlık olarak tutulduğu açıyı tespit etmek için göz uyarısı,
+kullanılan kalem sınıfı ve kullanılan basınç ve hız derecesi. Bunlar
+Son adlandırılan noktalar ancak uygulama sonucu olarak keşfedilebilir ve
+Gözlem ve ilk bakışta oluşmak imkansız görünebilir
+Bir kalemin seyahat ettiği hızın doğru bir tahmini, öğrenci
+Eğer gözlemci ise, yakında bir arasındaki farkı tespit etmeyi öğrenecek
+Hızlı bir şekilde şekillendirilmiş inme ve bir tanesi yavaşlık ve müzakere ile yazılmıştır. İle
+Her türden bir dizi inme yapmak ve onları dikkatlice incelemek
+Bir bardak aracılığıyla, öğrenci olabileceğinden bir saat içinde öğrenecek
+sözlü açıklama yoluyla öğretildi. Gerçeklerin incelenmesi
+Her vuruşa ve özelliklerine kadar imzalar devam etmelidir
+iyi bilinen bir yüzün özellikleri kadar tanıdık, çünkü
+Orijinal ile iyice emprenye edildi. Devam etmek işe yaramaz
+şüphelilerin incelenmesi ile.
+
+İlk bakışta öğrenci muhtemelen çok az algılayacak, eğer varsa,
+Orijinal ve şüpheli arasındaki fark. Çok olurdu
+Eğer yapabiliyorsa beceriksiz sahtecilik. Yavaş yavaş farklılık noktaları
+Ona karşı netleşin ve her yeni sınavla düzleşiyorlar,
+Daha önce ona vurmadıklarına şaşırana kadar; onlar çok
+Gözün onlardan kaçınamayacağı açıktır; Açıkça göze çarpıyorlar
+Gizli figür, tespit edildikten sonra, iyi bilinen resimde
+bulmaca. Bu kadar hızlı ve doğru yapabilen az sayıda fakülte var
+Gözlem gibi gelişme. Binlerce kişi hayattan geçiyor
+Bu vesileyle bazı yaygın şeylerin varlığının bilinçsiz
+onları fark etmek için ortaya çıkar veya kaza onları dikkat çekmeye zorlar;
+Sonra şeyin gözlemden kaçması gerektiğine hayret ediyorlar. Bu
+Bir gerçekçilik, şüphesiz, ama her plakanın gücü her zaman
+Kendini herkese sunun. El yazılarının karşılaştırılması öyle
+esasen gözlem güçlerini geliştirme meselesi,
+Bir hobi hesabı değilse, değeri
+Zihinsel bir egzersiz harika.
+
+Bir imzanın sahte olabileceği iki temel yöntem vardır:
+İlk olarak, orijinali bir çizimi kopyalayacak şekilde dikkatlice kopyalayarak;
+İkincisi, onu izleyerek.
+
+İlk işlem kopyalanmış olarak adlandırılır. Sahte olacak, çoğu
+Muhtemelen, kontrolü kontrol etmeden önce imzayı uyguladım
+veya başka bir belge, böylece belirli bir akıcılık derecesine ulaşır. Ancak
+ne kadar iyi idam edilmiş, büyütme yardımı ile yakın muayene
+Cam, bu tereddüt ve düzensizlik belirtilerini ortaya çıkaracak
+Makul bir şekilde bir kopyada bulmayı bekliyoruz.
+
+Bir kişinin el yazısının bir parçası yok,
+imza. En okuma yazma bilmeyen kişiler bile daha fazla özgürlük gösterir ve
+imzalarında anahatların vücudundan daha sürekliliği
+yazma. Bu kullanım gerekçesiyle açıklanabilir. Bir yazar hissedebilir
+bir kelimeyi oluşturmada anlık belirsizlik derecesi
+Sık sık yazın, ama imzası daha emin. O vuruyor
+tereddüt etmeden kapalı ve vakaların çoğunda bazılarını ekler
+gereksiz bir inme veya
+Süsleme amacıyla eklenen vuruşlar, eklemek için
+farklılık, veya bazı durumlarda ve özellikle iş adamları ile
+Gelişmelerin imzayı güvence altına almaya yardımcı olduğu fikriyle
+sahtecilik. Bu tür yazarlar muhtemelen olduğunu öğrenmek için şaşıracaklar
+İlgili ve karmaşık olduğu kadar kolay bir şekilde takılmak kolay bir imza yok
+gereksiz çizgiler ve anlamsız gelişmeler labirenti ile. En çok
+Forger için zor imza açık, sade,
+Kapip Kitabı Modelli İmza. Biraz düşünce ve sınav yapacak
+Bunun nedeni.
+
+Bir imza, eğriler ve gelişen bir ağda zarf yapsın,
+Karmaşık bir senaryo monogramı gibi görünüyor. Çizgiler çok sayıda
+gözün hepsini bir bakışta alamayacağını ve eğer kopyalanırsa herhangi bir
+hafif düzensizlik veya orijinalden ayrılma olasılığı daha yüksektir.
+Karıştırıcı hatların kafa karıştırıcı ağının ortasında tespit edilmemiş geçin. Eğer açık
+Öte yandan, imza basit ve şaşkınlıktan arınmış
+Fursislerin etkileri, tüm imza yalanları ortaya çıktı, açık ve
+normal taslak ve alışık figürden en ufak varyasyon
+Çıplak ve sade öne çıkıyor. Başarılı sahtecilerin çoğu
+karmaşık düzenin imzalarında bulundu. Onların görünür
+emprenye edilemezlik, kolay penman'ı görevini denemeye teşvik etti.
+zararsız taklit; Başarısı onu şaşırttı ve gururlandırdı ve
+Sahteciliğin kolay olasılıkları açıldı. Birden fazla sahte
+başlatıcı derslerinin masum bir
+Özellikle karmaşık bir "sahtecilik geçirmez" taklit etmek için zorluk
+imza.
+
+Sıradan gözlemcinin gözünün bir
+Ayrıntılı yerine bir bütün olarak kelime. Bu, bir yazarın neden yapabileceğini açıklıyor
+Kendi kanıtlarını düzeltmek için nadiren güvenilir. Sözün ne olduğunu biliyor
+Olmalı ve yazılı olarak çalışmasını okurken sadece generali fark eder
+Bir kelimenin beklenen etkisi. Kanıt okuyucusunun eğitimli gözüne ihtiyacı var
+_E_'nin yerini alan küçük _c_ tespit etmek için
+_i_ gibi maskelenen dövülmüş _l_. General olduğu sürece
+Kelimenin taslağı bozulmaz, yanlış harfler genellikle geçilir;
+Ve bu, adil bir şekilde olduğu bir imza ile aynı
+aşina. Kanıt okuyucu gibi el yazısının eğitimli denetçisi,
+Ne arayacağınızı bilir ve kaçacak düzensizlikleri keşfeder
+Eğitimsiz gözün bildirimi.
+
+İncelenmesi gereken gerçek bir imzanın ilk kısmı
+eklenen tüm fantezi vuruşları ve herhangi bir
+Mektupların gövdesine gereksiz katkı. Yakın bir inceleme
+Camdan, kuyruk açmayı oluşturan çizgilerin
+Genellikle net, sağlam ve keskin, sadece oluşan, sadece değil
+tereddüt etmeden, ama bir çizgi ve karar vererek güçlü bir şekilde
+Kopyanın kırık, testere kenarlı, kararsız çizgisi ile varyans. BT
+ayrıca genellikle neredeyse sabit bir kuralı takip edecektir.
+orantılı konformasyonu meselesi: yani, yazarın
+İmzasının altında yatay bir çizgi ile biter, görülecektir.
+bir düzine kadar ortalama olarak, hattın mesafesi
+Harflerin ayakları orantılı olarak eşittir. Çizgi başlarsa
+Bir mahmuz veya kavisli içe doğru kanca ile bu özellik tekrarlanacaktır. .
+Kalemin ayrıldığı noktada güzel veya son vuruşun sonu
+Makale, çok dikkatli bir şekilde incelenmelidir. Bir yazarla bitirir
+neredeyse algılanamaz bir nokta, kalem içine bıçaklanmış gibi
+kağıt; Bir diğeri yukarı veya aşağı doğru bir eğri ile biter; üçüncüsü
+bir kanca yukarı doğru döndü, bir eğri veya bir açı; dördüncü sırada
+Daha ince ve daha keskin olana kadar çizgiyi sürdürür.
+Bazı yazarlar az ya da çok cesur bir şekilde sonuçlanmaktan hoşlanıyor ve
+İmza ile yatay olarak çalışan geniş alt hat. Yakın
+Sınav, böyle bir kalınlık derecesinde bir varyasyon gösterecektir.
+dikkatle not edilmesi ve diğer gerçekte araması gereken çizgi
+imzalar.
+
+Bu bağlamda son derece yararlı ve öğretici bulunacaktır.
+Keşfetmek amacıyla yatay veya dikey olarak çalışma vuruşları
+Sağdan soldan aşağıya veya _Vice'e vurulmuş olsunlar
+Versa_. Cam
+Bu arada, caydırmasına izin verilmemesi gereken birkaç başarısızlık,
+El yazısı çalışmasına ayrılan her dakika için çok kazançlıdır.
+deneyim ve çok daha fazla öğrenilmiş temsil eder, bu asla olmayacak
+unutulmuş.
+
+İmzada ve hakkında meydana gelen gelişmeler
+abartılı döngüler ve omuzları, yayları, kancalar ve ayak parmakları olarak muamele görür
+dikkatlice ölçüldü ve not edildi. Bu amaçla ortalama bir gerçek
+İmza seçilmeli ve ölçülmelidir, bu şekilde yapılmalıdır:
+Üzerine bir kağıt kağıdı yerleştirin. Ölçek kuralıyla ve para cezası ile
+Kalem, üst kısımlara ve diplerine dokunacak yatay çizgiler çizin
+harflerin bedenleri, üstlerine ve diplerine dokunan çizgiler
+kuyruklu ve tepesinde harfler ve
+Başkentler de dahil olmak üzere her tepesinde veya kuyruklu harf. Gösterge, ne zaman
+tamamlandı, imzayı uygun bir çerçeve ve kullanımını temsil edecek
+iki yönlüdür. Gözün geneldeki varyasyonları tespit etmesine yardımcı olur
+İmzanın konturu ve diğerinin üzerine yerleştirildiğinde,
+fark noktaları. Orantı için gerekli ödenek yapılmalıdır. Öyle
+Bir imzada harflerin mesafesinin daha büyük olacağı açık
+diğerinden daha büyük yazılmış, ancak orantılı mesafeler
+korunmuş. Bir mektubun boyutundaki fark çok önemli değil,
+Bunun dışında inceleme için daha fazla kapsam sunuyor. Örneğin, bir döngü
+_l_ çok küçük veya yarım inç uzunluğunda olabilir; Ama aynı şekilde yapılırsa
+Yazar, üst, alt ve ortadaki orantılı genişlik
+Korundu ve daha küçük harfte aynı ölçümlerle karşılaştırın.
+Aynı yazarın imzaları genellikle çok fazla değişmez, ancak
+Kullanılan kalemin karakterine göre daha kalın veya daha ince olabilirler;
+Ancak gözlem, bir el yazısındaki farkın neden olduğunu gösterecektir.
+Farklı kalemlerin kullanımı gerçekten çok daha hayalidir. İzlenen imza, kağıdı orijinalin üzerine yerleştirilerek üretilir
+İmza, onu ışığa tutarak, genellikle bir cam tabakada ve
+iyi bir noktayla izlemek. Bu tür sahteler genellikle daha kolaydır
+kopyalanan imzadan daha tespit edildi, çünkü
+İzleme işlemi genellikle dikkatli muayene ile bulunabilir. Güzel,
+İmzayı izlemek için kullanılan sert nokta, pürüzsüz bir oyuk bırakır, bu da
+Çekin arkasını incelemek için camdan görülebilir veya
+belge. Kağıt, gözü güçlü bir ışıkta bir çizgide tutulursa,
+Sırt daha açık bir şekilde algılanacak. Bir işaret arasındaki fark
+Zor bir nokta ve bir kalem tarafından yapılan deney ile test edilebilir. Zor
+zorunlu olarak, bir dereceye kadar güçle bastırılmalıdır.
+Kağıt üzerinde istenen izlenim ve sonuç pürüzsüz bir oyuktur. Ancak
+Bir kalem sert basılırsa, iki paralel çizgi üretir ve bunun yerine
+Bir boşluk, paralellikler arasında bir sırt oluşur. Tabii ki olacak
+Güçlü bir cam dışında zorlukla algılanamayacak kadar hafif olun,
+Ama yine de orada olacak ve ne arayacağını bilmek,
+Uzman genellikle kendisini tatmin etmekte zorluk çekmeyecektir.
+Sahtecilik izlendi veya kopyalandı, çok değerli bir kanıt parçası
+Bir kez yerleştiğinde, bu olasılık sınırları dahilindedir
+İzlemenin yapıldığı gerçek imza keşfedilebilir. BT
+orijinalin yazarının mümkün olduğu ve sıklıkla meydana gelmesi mümkündür
+Şüpheli kişiye veya
+Bir ipucu önerilebilir. İyi bilinen bir vakası var
+sahtecilik,
+izleme. Hiçbir insanın bir kelime yazamayacağı kolayca kanıtlanmış bir gerçektir
+İki kez, tam olarak, eğer ikisi kaplanmışsa, uyurlar. Eğer iki tane
+İmzalar üretilir, kişinin izlendiğini varsaymak güvenlidir veya
+aksi takdirde mekanik olarak üretilir. Davada bir imza
+Çek, imzalaması gereken kişi tarafından sahtecilik olarak telaffuz edildi
+BT. Gerçek imza örneklerini incelerken, uzmanlar geldi
+Kontrol üzerine yerleştirildiğinde mükemmel bir
+Çoğaltma, en küçük ayrıntıya kadar, sorunun ötesinde gösteriyor
+sahteciliği izlemek için kullanılmıştı. Ayrıca kanıtlandı
+Orijinal sözde sahtenin ve jürinin elinde bulunuyordu
+bir erkeğin çoğalabileceğinin muhtemel olup olmadığına karar vermesi istendi
+bir zamandan sonra ve
+ondan önce orijinal. Böyle bir beklenmedik duruma karşı şanslar çok
+Milyonlarca ila bir-öğrencinin doğrulayabileceği bir gerçek-jüri karşı karar verdi
+Sahte.
+
+Yorucu bir dereceye kadar totolojik görünme riski altında
+El yazısının karşılaştırılmasının gerçeğini vurgulamak için gerekli,
+ve daha çok imzalar, esasen
+Gözlem Fakültesi'nin geliştirilmesi. Bu sanat öğretilemez; BT
+sadece yüzme ve yüzme gibi uygulanabilir veya
+binme. Öğretmen en fazla çalışma yöntemini ve bazılarını gösterebilir.
+Bir soruşturma yürütmenin önde gelen ilkeleri. Çoğu erkek değil
+doğal olarak gözlemci ve alışkanlık en iyi şekilde bir
+nesne; Ama bir kez bir kişi neyi arayacağını öğrettiğinde
+Neredeyse içgüdüsel olarak daha önce hiç vurmayan ayrıntıları fark eder.
+Bu özellikle el yazısı çalışması için geçerlidir.
+
+Öğrenci tarafından benimsenebilecek en iyi uygulama yöntemi
+Kendi imzasını ve yazısını dikkatli bir şekilde inceleyerek başlayın. O
+şimdiye kadar şüphesiz gerçeklerin sayısına şaşıracak
+ona açıklanacak. Kendi el yazısını konu olarak kullanmanın değeri
+sınavın bu konuda olduğunu, öğrencinin kendisini nasıl tatmin edebileceği
+Ve neden bazı vuruşlar yapılır. Bu sadece tahmin edebilir
+Başkalarının yazılması. Ön alıştırma, üretilen etkiyi incelemekten oluşmalıdır.
+kalemi tutmanın farklı yöntemleriyle. İmza malzemeleri
+Bu uygulama sınıfı için mükemmel malzeme. Kalemi tutarak başlayın
+üst uç sol omzuna doğru, saçma
+ve Eski Yazma Yüksek Lisansı tarafından öğretilen doğal olmayan pozisyon.
+Kalem daha az akut açısal tutulan kalemle imzayı tekrarlayın,
+ve altı veya sekiz imza azalan bir şekilde yazılana kadar devam edin
+açı-kalem sahibinin tepesi sağa doğru işaret edene kadar,
+backhand olarak bilinen şeyi üretmek. Bu açıların etkisi
+Dikkatle not alın ve kısa sürede mümkün bulunacak
+belirli bir yazarın nasıl yazdığı hakkında çok doğru bir görüşe varın
+İmza alışkanlıkla kalemini tutar-önemli ve değerli bir parçası
+bilgi. Uygulama uzun cümlelere genişletilmelidir ve
+tüm harflerin sık sık tekrarlanması, sermaye ve küçük,
+Çeşitli'nin etkisini her zaman incelemek için kullanılan büyüteç camı
+ve değişen vuruşlar.
+
+Şüpheli bir sahtecilikle karşılaştırmak için bir imzayı incelerken
+ipuçları ve öneriler olarak çok sık kopyalanmalıdır
+Üretecek deneyler ilk başta iradeden çok daha fazla hizmete sahip
+nasıl ve teorinin sayfalarından daha pratik değere sahip, nasıl ve
+Neden bu olmadan belirsiz olacak çok şey için ortaya çıkacak
+yardım. Deneyim büyüdükçe, bunu benimsemek gerekli olmayacak
+Sık sık kopyalama süreci, çünkü göz yakında tespit konusunda uyanık olur
+vuruşlardaki hafif fark tonları ve bir bakış daha fazlasını aktaracaktır
+birçok sayfada açıklanabilir.
+
+
+
+
+Bölüm XVI.
+
+Tanık kutusunda uzman.
+
+
+Uzman,
+Yazıların gerçekliği, sonuçlarını bir raporda somutlaştırır
+Aşağıdakiler adil bir örnek olarak alınabilir:-
+
+    Polis Şefine.
+
+      SAYIN,
+
+                            Rex _Versus_ Jones.
+
+    Tarihli talimatlarınıza uygun olarak ----
+    Belgeyi dikkatli bir şekilde incelediğimi size bildirin
+    _a_ olarak işaretlenmiş ve buraya eklenir ve bunu belgelerle karşılaştırır
+    işaretlenmiş _b_, _c_, _d_, _e_ ve _f_, ayrıca eklenmiştir.
+
+    _A_ belgesinin yazıldığı sonucuna vardım
+    Üretilen _b_, _c_, _d_, _e_ ve _f_ ile aynı elle.
+
+    Beni bu görüşü oluşturmaya yönlendiren ana nedenler şudur:-
+
+    Birincisi, _A_ 'deki yazı ilk bakışta yok olmasına rağmen hayır
+    Diğer belgelerinkine benzerlik, fark sadece
+    deneyim, beni bir yazıda beklememe yol açıyor
+    Bunun olduğuna inandığım gibi bilerek gizlendi.
+
+    Beş belgedeki yazı _b_ ila _f_ normal olmak için alıyorum
+    yazarın eli ve _a_ aynı yazarın eli olmak
+    farklı bir görünüm sunacak şekilde değiştirildi. Ben arayacağım
+    _b_ ila _f_ örnekleri gerçek örnekler ve _a_ gizlenmiş.
+
+    Deneyim, anonim bir mektup yazan kişinin
+    Genellikle o kadar ayrılarak elini gizlemeye çalışır
+    Normal yazısından mümkün olduğunu düşünüyor. Yazarın olağan eli
+    gerçek belgenin yukarı doğru eğimli ücretsiz yuvarlak bir el olması
+    sağa doğru. _A_ yazımı tam olarak özellikleri sunar
+    Burada olduğu gibi, ne zaman olduğu gibi,
+    Yazar, yazısını bir
+    normal elinin tersi. Bunun sonucu olsa da
+    Değişim, görünür stilini ve genel görünümünü değiştirmektir.
+    Yazma, değişiklik belirli hilelere uzanmaz ve
+    gerçek harflerde açıkça belirgin olan özellikler ve
+    anonim harf _a_ ile tekrarlanır.
+
+    Gerçek mektuplardaki yazı on dört içerir
+    Tekrarlanan bulduğum ayırt edici özellikler veya el püf noktaları
+    Anonim harf _a_. (Burada onları olduğu gibi açıklayın.)
+
+    1. Tarihlerdeki Şekil 4, her zaman baskı formu gibi yapılır.
+       Bu figür.
+
+    2. Küçük _e_ her zaman Yunan formundadır.
+
+    3. Küçük _t_ her zaman başlangıçta bir çubuk kalınlığından geçer,
+       bir noktaya bakarak, en uzun kısmı
+       _t_ [ve benzeri].
+
+Çeşitli benzerlik noktaları ayrıntılı olarak belirtilmiştir.
+Her biri için paragraf ve her paragraf numaralandırıldı.
+
+Bir raporun tamamen tanımlayıcı olması son derece önemlidir ve
+Jüri tarafından kolayca anlaşılan düz, teknik olmayan bir dilde yazılmıştır,
+benzerliğin yapılıp yapılmadığına karar vermek zorunda kalacak.
+
+Çok fazla el yazısı uzmanı, kanıtlarının etkisini bozarak
+Jüri'nin teknik dilini kullanması ve varsayımı bir
+El yazılarını karşılaştırma yöntemleriyle tanışın.
+
+Belirli harflerin birbirine benzediğini söyleyerek tatmin olmayın.
+Nasıl ve nerede genişlemiş bir diyagramla gösterin,
+Dikkat oklarla çağrılır. Karşılaştırılacak tek harfleri yerleştirin
+Paralel sütunlarda, alfabetik harfle başlı
+belirli bir mektubun meydana geldiği belge. Foolscap kağıdı kullanın,
+ve sadece kağıdın bir tarafına yazın.
+
+El yazısı uzmanıyla başa çıkmanın olağan yöntemi
+tanık kutusu, gerçek bir rapordan aşağıdaki alıntıda gösterilmiştir.
+dava.
+
+Bay D. B ----, kovuşturma avukatı tarafından çağrıldı ve usulüne uygun olarak yemin etti.
+
+S.-El yazısını incelemede önemli deneyime sahipsiniz.
+
+A.-Yirmi yıldan fazla.
+
+S.-Bu belgelere bakın. (Tanık olmak için eller belgeleri.) Gördünüz mü
+ve bunları inceledi mi?
+
+A.-Ben var.
+
+S.-Onlar hakkında herhangi bir fikir oluşturdunuz mu?
+
+A.-Bir rapor hazırladım ve hazırladım.
+
+Bazı durumlarda uzmanın raporunu tam olarak okumasına izin verilir. İçinde
+Diğerlerinden sözlü bir rapor vermesi istenir, ancak nokta varsa
+ısrar etti, hakim genellikle raporun okunmasına izin verir,
+uzman veya avukat tarafından. Raporun bir kopyası,
+Anlaşmazlıktaki belgeler genellikle jüriye verilir
+sınav. Uzman, amacını yardımla göstermeye devam edebilir
+bir tahta ve tebeşir, ancak çok fazla
+Hakim ve avukat. Bazı hakimler, uzmanın sınırlandıracağı konusunda ısrar ediyor
+kendisi fikrini ifade etmek, avukatla başa çıkmak için
+açıklama ve karşılaştırma; Diğerleri uzmanı her fırsat verir
+Fikirlerine nasıl ulaştığını gösteriyor.
+
+Baş inceleme genellikle çok basit bir konudur. Sorun
+Uzman için, diğer taraf için avukat var
+çapraz muayene.
+
+Hemen her durumda, çapraz inceleyen avukatın nesnesi
+Sanatı alay edin ve uzmanı başkalarının olasılığını kabul etmesini sağlayın
+Ayırt ettiği söylenen aynı özelliklere sahip yazarlar
+Mahkeme önündeki mektuplar.
+
+Avukatın en sevdiği hile, biraz mektup seçmek ve uzmana sormaktır.
+İçinde hiç bir şey görmediğine yemin etmeye hazır
+başka bir kişinin yazımı. İşini bilen uzman
+El yazısının temel temelinde iyi kalmakta ısrar edin
+Olasılık yasasının uygulanması olan karşılaştırma
+kümülatif kanıt. Başka bir kişinin olabileceği bir soru değil
+Atıfta bulunanlara benzer bir _t_ veya _k_ yapma alışkanlığı içinde olun
+ortak kökenli kanıtlar, ancak iki kişinin
+tam olarak aynı şekilde bir düzine veya daha fazla harf yapmalı
+benzer koşullar ve tam olarak aynı özellikler sergiliyor
+stil. Milyonlarca süren cevapsız varsayımla cevap vermeli
+Kişiler kızıl saçlı, snub burunları, yüzünde bir yara izi, mavi gözler,
+bükülmüş parmaklar ve kekemelik; Ama herhangi bir ikisine karşı milyonlarca
+Bu özelliklerin altısına sahip kişiler. Cevapları sırasında uzman, kendi başına yardımcı olabilir.
+Fırsat oluştuğunda tekrarlayarak, bu tür reddedilemez aksiyomlar,
+Hiçbir yazar hangi özellikleri sergileyebileceğini söyleyemez; orada
+bir _i_ veya bir _t_ geçişin puanlarıdır ve
+Kişiler en çok hangi formu etkilediklerini bilirler. Elli bu nokta olabilir
+tek başına bu küçük ciltten toplanırken,
+Diğer yazarların kaligrafi üzerindeki eserleri için geniş bir mühimmat sağlayacak
+El yazısına yapılan alışılmış saldırı biçimini karşılamak ve itmek
+uzman.
+
+Bir tanığı itibarsızlaştırmanın bir başka yöntemi, ona uzmanların
+farklıydı, Dreyfus davası genellikle atıfta bulunuldu. Cevap
+bariz. İlk olarak, bu uzmanların hepsinin
+Yetkili, çünkü el yazısını değerlendirmede yetkinlik dereceleri vardır
+Görüşün çağrılabileceği diğer her konuda. Kötü şöhretli
+Dreyfus davasında en yetkin uzmanların bunu ifade ettiği gerçeği
+Henry mektupları sahte, yetkililer diğerini aradı
+Çoğu durumda bilinmeyen erkekler veya ayakta durmayan amatörler. A
+Bu kendi tarzı uzmanların sayısının sayısı başka bir nitelik yok
+Dreyfus'un el yazısına aşina olduğu varsayıldı. O da
+Her iki taraftaki uzmanların birçoğunun en çok kanıtladığını belirtmeye değer
+verimsiz tanıklar, açıklamalarını istihdam ederek gizleyen
+Lay zihne çok az anlam taşıyan teknik deyim.
+
+Açıklamada kullanılan kelimelerin seçiminde kesinlik ve düzenlilik
+Mektupların bölümleri öğrenci tarafından kesinlikle gözlemlenmelidir. .
+"Terminoloji" bölümünde verilen kurallar ustalaşmalı ve
+bağlı kaldı. Çoğu durumda, oradaki terimler mektup analize uygulandı
+kendini açıklayan bulunacaktır.
+
+
+
+
+Bölüm XVII.
+
+El yazısı ve ifade.
+
+
+El yazısı çalışmasıyla ilgili hiçbir iş tamamlanamazsa
+BT'nin tanımlanmasına değinen aşaması
+Caligrafinin incelenmesi ile karakter.
+
+Birçok değerli ipucu, uygulayan uzman tarafından alınabilir.
+Grafoloğun çalıştığı ilkeler tartışılmazdır, ne de
+Güvenilir olarak iddia edilen tüm teorileri kabul etmek gerekli
+Yazma-analiz sanatının bu ilginç dalını uygulayın.
+
+Hiç şüphe yok ki, birçok kişinin dikkate değer derecede ulaştığı
+Bilinmeyen bir kişinin el hareketlerinden çıkarma yeterliliği a
+karakterinin çok doğru tahmini ve bu gerçek
+Grapoloji sanatının ilkelerinin temelini oluşturduğunu kanıtlayın.
+bilimsel gerekçeler veya en azından öğrencinin bulunduğu kurallar
+eserler düzenlidir ve bazılarının önerdiği gibi, sadece tahmin çalışması veya
+tesadüf.
+
+Yaşlı d'Sraeli, büyüleyici çalışmasında "
+Edebiyat, "konuya büyük alan ayırıyor. Diğerlerinin yanı sıra
+Şeyler, diyor ki:-
+
+"Elbette doğa her bireyi farklı bir tür olmaya teşvik eder
+tuhaf bir yüz, ses ve bir
+biçim. Kasların esnekliği her bireyden farklıdır,
+Ve el düşüncelerin yönünü ve duyguları takip edecek
+ve yazarların alışkanlıkları.
+
+"Flegmatik sözlerini emek belirtileri ile tasvir edecek ve
+müzakere, değişkenin eğlenceli acelesi nadiren
+onları çizmek; Slovenly, lekelenecek ve etkileyecek ve karalayacakken
+Düzgün ve düzenli fikirli, kendilerini kağıtta görecekler
+gözler. Tüccar katibi avukat veya şair gibi yazmayacak.
+Milletler bile yazılarıyla ayırt edilir; canlılık ve
+Fransızların çeşitliliği ve incelik ve esnekliği
+İtalyan, kalemin yavaşlığından ve gücünden algılanabilir derecede farklıdır
+Flegmatik Alman, Dane ve İsveçli'de keşfedilebilir.
+
+"Kederdeyken neşe içinde olması gerektiği gibi yazmıyoruz. Zarif
+ve bir sabitliğin şanslı alışkanlığını elde eden doğru zihin
+Dikkat, Fenelon olarak sayfada neredeyse bir silme ile yazacak
+ve Gibbon; Papa'nın el yazmalarında sürekli mücadeleyi bulurken
+Düzeltme ve istekli ve hızlı aralarında yer almak
+sıcaklık. Lavater'ın el yazısı kavramı hiçbir şekilde kimerik değildir; ne de
+General Paoli Bay Northcote'a karar verdiğini söylediğinde,
+Bir adamın mektuplarından ve el yazısından karakteri ve eğilimi.
+
+"Lavater günlerinden çok önce, mektuplarından birinde Shenstone, dedi ki,
+'Bayan Jago'nun öfkesini yargılayabileceğim yazılarını görmek istiyorum.'
+
+"Bununla birlikte, büyük bir gerçek,
+El yazısının fizyognomisi. Genel kurallar sadece belirlenebilir. Yine de
+Hayati ilke, el yazısının bir benzetmesi olduğu doğru olmalıdır.
+Tüm gönüllü eylemler karakteristik olduğu için yazarın karakteri
+bireyin. "
+
+       * * * * * *
+
+Profesör Foli, çok kullanışlı çalışmasında, "bir dizin olarak el yazısı
+Karakter "(Londra: C.A. Pearson, Ltd.), diyor:
+
+"El yazısının olgunluğa ulaşıldığı değişimleri kanıtlayın
+yazarın sinir durumundan ne kadar doğrudan etkilenir.
+
+"Çocukluğa uygun yazı büyük, yuvarlak ve eşlik ediyor
+çalışkan kalem hareketi; oysa erkeklik olarak normal veya
+Kadınlığa ulaşılır daha küçüktür ve daha hızlı ve
+Elin akıcı hareketi.
+
+"Hastalık, yine yazmayı etkiler. El daha fazlası ile suçlandığından
+veya sinir sıvısının daha azı, bu nedenle yazı daha güçlü veya daha zayıf, daha sıkı
+veya duruma göre zayıf.
+
+"Bu, sinir akımının önemli etkisini gösteriyor
+El yazısını şekillendirmeye devam ediyor. El yazımızın
+gün geçtikçe değiştirir. Yine de değişmez. General kadar
+Görünüş endişe duyuyorum. Ama bak
+Farklı zamanlarda yazılan yazının gerçekten önemli noktaları.
+'_İ_' nin noktalı olduğu yüksekliğe bir bakış atın.
+'_t_', harflerin nasıl olduğu veya
+Değil, bağlı ve bitti. Bunlar, kötü bir şekilde ortaya çıkacak
+Tekdüzenlik Zaman zaman.
+
+"Tabii ki, ara sıra çalışmış bir el yazısı edinin, tıpkı senin gibi
+Bazen oluşturulmuş bir yüz ifadesiyle buluşur. Ama bu değil
+gerçek karakteri ifade edin, çünkü sadece duygular üzerindeki kontrol
+veya hissedilen şeyleri gizleme gücü,
+karakter; Ve bu gerçekte gerçek olduğunu gösterecek
+grafoloji.
+
+"İster para ya da geniş bir sivri uç olsun kalem,
+Strokların kalınlığını veya inceliklerini belirlemede belirli bölüm, i
+İzin vermeye hazırım, ama burada yine hiçbir tartışmamız yok
+grafoloji, çoğu insan için en sevdikleri ucu var-sadece onlar
+Bir mesleği diğerine tercih edin-ve bu en iyisi
+özelliklerini tanımlamaya hizmet edin. Aynı şey
+üzerine yazdıkları kağıt; Bazıları pürüzsüz, bazıları kaba bir
+kibar, ama konforla benimsenen ne olursa olsun,
+yazarın tipikliği. "
+
+Aşağıdakiler, karakterin daha belirgin işaretlerinden bazıları
+belirtmek. Uygulamalarının daha dolgun bir şekilde açıklanması için iyi olurdu
+Foli'nin daha önce bahsedilen çalışmalarını incelemek ve Rosa Baughan (Upcott
+Gill, Londra, 2_s._ 6_d._), J.'nin bilimsel çalışmasıyla
+Crepieux-Jainin, "El Yazısı ve İfade" başlıklı, tercüme edildi
+J. Holt Okul.
+
+       * * * * * *
+
+_General Karakterist ._-- Bir organizmanın inceliği ortaya çıkacak
+İnce bir ışık kalemi ile. Kaba, düşük doğa ağır bulanıklaşır
+dolaşmış çizgiler.
+
+_Activity_, harflerin uzunluğu ile gösterilir. Nerede zayıf
+Harfler geniş aralıklı ve yuvarlak olacaktır.
+
+_Excitability_ keskin vuruşlar ve duraklarla gösterilir. Daha akut ve
+Düzensiz kalem vuruşları duygu yoğunluğu o kadar büyük olur.
+
+_Aggression_, saldırı eğilimi, yıkıcı güç,
+_T_'lerin son harf vuruşları ve çapraz çubukları ile gösterilir
+İleri ilerleyerek, _i_'lerin noktaları iyi ileriye yerleştirildi. İçinde
+"Zaman" gibi bir kelime muhtemelen _m_ ve _e_ arasında olurdu.
+Stil açısal ve iyi ve eşit aralıklı, tamamen ileri,
+"Devam et" yazma.
+
+_EConomy_ veya Acquisitivity, bitirme vuruşları ile gösterilir
+geriye ve içe doğru döndü; sıkışık bir elle, bir eğilim
+Sınırlar, özellikle de harflerin sonları, sanki
+Mürekkep harcaması canlandı.
+
+_Secretivity_ veya ekstra dikkat, dar bir işaret var,
+_A_, _D_, _G_, _O_, _Q_, harflerin gövdesinin sıkıca kapalı biçimi
+_a_ ve _o_ genellikle sadece dar bir _v_. Genel eğilimi
+Yazı sıkıştırma, son vuruşlar çok kısa. Ne zaman
+Çok işaretli, harfler belirsiz bir biçimsiz duruma dönüşüyor.
+Noktalama işaretlerinin yerine geçmesi başka bir semptomdur.
+
+_Sinincerity ._-- Yazımı iyi, dalgalı olan erkek veya kadına dikkat edin
+Kısa, güdük ve belirsiz üstler ve kuyruklarla çizgi, dik, kelimeler
+Sonunda neredeyse düz bir çizgiye koşuyor, harfler sadece
+belirtildi. Bu yazı daha düz, daha ince ve daha dik,
+samimiyetsizlik daha büyük. Böyle bir yazar muhtemelen kibar olurdu
+hoş ve akla yatkın bir insan, ama Janus kadar iki yüzlü.
+
+_Love of Paise_, Glory, hırs yazma eğilimi ile gösterilir
+yukarı doğru
+kağıt. İmza genellikle altında kavisli bir çizgi olacaktır.
+bir dereceye kadar gelişir.
+
+Müttefik kibir ve gösteriş olan kendisini kendisi gösterir
+Yazının büyüklüğü ile orantılı olarak, daha uzun ve daha gelişmiş
+Yukarı vuruşlar ve aşağı inişler ne kadar uzun olursa,
+Kendini istedik. İmzanın altındaki gelişmek çok
+Belirgin olarak, genellikle ayrıntılı bir örümceğin aralıklı çizgiler ağı. .
+Finaller geriye dönük ve
+içe doğru.
+
+_Lill power_, _t_ firma çubukları ile gösterilir,
+Soldan sağa, bludgeon benzeri aşağı vuruşlara kuyruklu harflere inin,
+yuvarlaktan çok açısal yazmak ve son vuruşlar tarafından biten
+ağır bir baskı. Düz, sağlam, aşağı doğru vuruşlar
+Kuyruklar _y_, _g_, _f_, _q_.
+
+_Sympathy_, iyi doğa, kalp nezaketi akan bir açıkla gösterilir
+el, mektupların finalleri uzatılır ve bir
+geniş hareket. Kuyruklu harfler uzun ve ilmeklidir ve genellikle
+Mektubun sağ tarafını açtı. Mektuplar çok iyi ama
+Mutlaka bağlı olmayan ve stil kavislidir. Genel bir kural olarak
+Zor gerçek doğa açısal bir stile eğilir; sanatsal
+ve daha yumuşak doğa yuvarlak, zarif bir şekilde kavisli vuruşları etkiler ve kaçınır
+düz dik veya yataylar.
+
+_Constructivity_, birleştirme ve bağlanma yeteneğini ima eden
+Kelimeler ve ifadeler, kelimeleri bir araya getirerek, birkaç varlık
+Kalemi gazeteden kaldırmadan yazılmıştır. Daha basit ve
+Kelimeleri ekleme yöntemi, o kadar büyük olacak
+yetenek. Kelimelerin bu birleştirilmesi aşırı uçlara taşındığında,
+İyi bir tümdengelim yargısının bir işareti olarak alınır.
+
+_Observation_, bu da keskin, nüfuz eden, sorgulayan zihin ima edilir
+(fazla merak olur),
+vuruşlar ve finaller; küçük, genellikle düzgün bir el yazısı,
+Mektupların bağlantısı kesildi.
+
+_Punction_, karakter okuması için çok değerli bir ipucu verir, çünkü
+"Bir El Yazısı Nasıl Araştırılır" bölümünde belirtilen nedenler. Bunlar
+El hareketlerinin en mekanik ve premodited'i ve
+Bu nedenle, daha değerli. Örneğin, bir nokta kalın ve ağır olduğunda, kalemin
+kağıt boyunca güçlü, kararlı bir hareketle sürüldü
+aşırı enerji ve güçle tutarlı olacak el;
+oysa, nokta hafif ve hafifçe belirtildiğinde emin olabiliriz
+üretimi üzerine sadece ılımlı bir güç harcandı,
+karakterde daha az direnç ve dayanıklılık ile uyumlu olacaktır.
+
+Yine, ana hatları bulanık olan bir nokta belirli bir
+Karakter-güçlü tutkuların duyumsallığı ve bir kısıtlama isteği
+düşük eğilimler; oysa, kenarları keskin bir şekilde tanımlanmış bir nokta
+küstah olan her şeye karşı arıtma ve nefret söylerdi veya
+kaba.
+
+Noktalamaya dikkat etmek, düzgünlük, düzen, yöntem ve
+düzenleme sevgisi; noktalama işaretlerinin de olması gerekmez
+Kesinlikle doğru, çünkü sanat, ancak çoğu tarafından kusurlu bir şekilde ustalaşıyor
+İnsanlar, hatta en iyi eğitimli.
+
+Bir virgülün görünümünün bir derecesi olduğunu gösterir
+itici güçlük; İyi yuvarlak duraklar, sakinlik ve huzur anlamına gelir
+mizaç. Bir virgül biçiminden sonra tam duraklar şekillendirildiğinde
+ve sağ eline doğru sarkarlar.
+Sadece açısal olduklarında sabırsızlık ve "biber"
+eğilim.
+
+Furslar her zaman belirli miktarda atılganlığın bir göstergesidir.
+Ne o kadar basitçe ortaya çıkarsa, bu öz-somutluk o kadar az yapay; .
+Daha ayrıntılı, ne olmadığını görünme arzusu o kadar büyük olur.
+
+
+
+
+El yazısı bibliyografyası.
+
+
+Bu listedeki çalışmaların çoğu, çalışmanın bu yönü ile ilgilidir.
+tezahürlerine dayanması gereken grafoloji
+karakter. Ama el yazısı öğrencisinin yapabileceği biri yok
+çünkü tartışmalı karakter sorununun dışında görmezden gelmeyi göze almak
+okuma, hepsi çok sayıda ipucu ve aşırı gözlem içerir
+amacı olan öğrenciye değer,
+Sahteciliği tespit etmenin daha pratik sanatı.
+
+    İmza Toplama: Amatörler için pratik bir kılavuz ve
+      Tarihi öğrenciler. Henry T. Scott, M.D. Londra: Upcott Gill.
+      Fiyat 5_s._
+
+    Tarihsel Belgelerin Koleksiyonu Kılavuzu, Edebi MSS. VE
+      İmza Mektupları, & c. Rev. H. T. Scott ve Samuel Davey. (Dışarı
+      Baskı.) British Museum'da ve birçok halka açık
+      kütüphaneler.
+
+    Autografik Ayna: Aylık Bir Günlük artık geçersiz, ancak
+      İkinci elden tedarik edilebilir.
+
+    El yazısı ve ifade. John Holt tarafından çevrildi ve düzenlendi
+      "L'Ascriture et le'nin üçüncü Fransız baskısından okullaşma
+      Caractere, "Par J. Crepieux-Jainin. Kegan, Paul ve Hendek.
+
+    El yazısı ile belirtilen karakter. Rosa Baughan tarafından. Upcott Gill.
+      Fiyat 2_s._ 6_d._
+
+    El yazısı felsefesi. Don Felix de Salamanca tarafından. Macmillan.
+
+    El yazısında karakter nasıl okunur. Henry Frith tarafından. Koğuş kilidi.
+      Fiyat 1_s._
+
+    Karakterde bir dizin olarak el yazısı. Profesör Foli tarafından. C. A.
+      Pearson. Fiyat 1_s._
+
+    Bir grafoloji sistemi. Abbe Michon tarafından. Fransızca; İngilizce yok
+      çeviri. Değerli bir çalışma.
+
+    El yazısı tarihi. Aynı yazar.
+
+    Bir grafolojik çalışma yöntemi. Aynı yazar.
+
+    El yazısında uzmanlar tarafından kullanılan hatalı yöntemler üzerine bir anı.
+      Aynı yazar.
+
+    Fransa'nın Nestiyetsizlik Sözlüğü
+      EL YAZISI. Aynı yazar.
+
+    Merovingian döneminden beri Fransız halkının el yazısı.
+      Aynı yazar.
+
+    Les Mysteries de l'Ecriture. Desbarrolles tarafından önsöz. Aynı yazar.
+
+    Junius'un el yazısı Chabot tarafından profesyonel olarak incelendi. Düzenlenmiş
+      Hon tarafından. E. Twistleton. John Murray. 1871.
+
+Bu çalışma, şimdiye kadar İngiltere'de yayınlanan tek kişi
+El yazısı uzmanının yöntemleri. Mons. Chabot, yıllarca
+Önde gelen İngilizce uzmanı, Bay tarafından görevlendirildi. Twistleton incelemek için
+yazarlığa karar vermek amacıyla "junius" un el yazısı
+ünlü mektuplar. Sonuç,
+El yazısı analizi süreci binlerce örnekle gösterilmiştir.
+Geldiği sonuç, "Junius" mektuplarının yazarı
+Sir Philip Francis'di.
+
+
+
+
+     _ -Literary ve tarihi
+ İmza mektupları ve el yazmaları
+            Satın alındı._
+
+
+       Verilen görüşler
+
+     Belgelerin gerçekliği.
+
+              Ayrıca
+
+        Şüpheli sahtekarlık
+
+                VE
+
+        Anonim harfler.
+
+
+                İLE
+
+       Blackburn & Caddell,
+       19, Charlwood Place,
+           Londra, S.W.
+
+
+
+
+Transcriber'ın notu:
+
+    Küçük tipografik hatalar not olmadan düzeltildi, ancak
+    Daha önemli değişiklikler aşağıda listelenmiştir.
+
+      Sayfa 37, 'analin' _aniline_ olarak değiştirildi.
+      Page 53, 'Alcebiades' _alcibiades_ olarak değiştirildi.
+      Sayfa 56, 'corressce' _corpressions_ olarak değiştirildi.
+      Sayfa 56, 'Adresler' _address_ olarak değiştirildi.
+      Sayfa 68, 'dört belge' _five belgeleri_ olarak değiştirildi.
+      Page 78, 'Merorcian' _merovingian_ olarak değiştirildi.
+
+
+
+
+
+Projenin sonu Gutenberg sahteciliğin tespiti,
+Douglas Blackburn ve Waithman Caddell
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE DETECTION OF FORGERY ***
+
+***** This file should be named 25532.txt or 25532.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/2/5/5/3/25532/
+
+Produced by Stephen Blundell and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
