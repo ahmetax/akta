@@ -42,6 +42,10 @@ metadata.jsonl ve akta_metadata_search.py dosyaları eklendi.
 Kütüphane kurulumu: pip install rich unidecode
 Kullanım: python akta_metadata_search.py "Charles Dixon" [--field author]
 
+2025-02-24
+
+25000 belgeyi aştık.
+
 2025-02-03
 
 20000 belgeyi aştık.
@@ -145,7 +149,11 @@ metadata.jsonl and akta_metadata_search.py dosyaları added
 Library installation: pip install rich unidecode
 Usage: python akta_metadata_search.py "Charles Dixon" [--field author]
 
-2025-02-03
+2025-02-24
+
+We have exceeded 25000 documents.
+
+2025-01-19
 
 We have exceeded 20000 documents.
 

@@ -1,0 +1,1314 @@
+*** START OF AKTAHEADER ***
+Başlık: Digital PDP15 Price List (Dijital PDP15 Fiyat Listesi)
+Yazar: Anonymous
+Yayın Tarihi: August 28, 2011 [EBook #37237]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/37237
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Digital PDP15 Price List, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Digital PDP15 Price List
+       April, 1970
+
+Author: Anonymous
+
+Release Date: August 28, 2011 [EBook #37237]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DIGITAL PDP15 PRICE LIST ***
+
+*** START OF TURKISH PART ***
+Gerard Arthus, Diane Monico ve The Online tarafından üretildi
+Http://www.pgdp.net adresinde dağıtılmış düzeltme ekibi
+
+
+
+
+
+
+
+
+
+Dijital PDP15 Fiyat Listesi; Nisan 1970
+
+
+
+
+[İllüstrasyon: Dijital]
+
+FİYAT LİSTESİ
+
+Nisan 1970
+
+[İllüstrasyon: PDP15]
+
+Dijital Ekipman Şirketi
+
+
+
+
+                                               Fiyat 1 vardiyalı indirim
+                                                        Hizmet durumu
+= PDP-15/10: Temel Sistem =
+
+4,096 18-bit, 800-NS Çekirdek Bellek $ 15.600 $ 150.00 Evet
+  KSR-33 Teletype ile-PC15 GEREKLİ 16.200 $ 175.00 Evet
+  ASR-33 Teletype ile 16.500 $ 180.00 Evet
+  KSR-35 Teletype ile-PC15 GEREKLİ 17.800 $ 172.00 Evet
+  ASR-35 Teletype ile 19.300 $ 175.00 Evet
+
+
+= PDP-15/20: Gelişmiş Monitör Sistemi = 36.000 $ 278.00 Evet
+
+8,192 18-bit, 800-ns çekirdek bellek
+KSR-35 Teletype
+PC15 Yüksek Hızlı Kağıt Bant Okuyucu ve Yumruk
+KE15 genişletilmiş aritmetik eleman
+TC02D Dectape Kontrolü
+TU56 Çift Decape Taşımacılığı
+
+
+= PDP-15/30: Arka Plan/Ön Boyu Sistemi = 59,200 $ 384.00 Evet
+
+16.384 18-bit, 800-ns çekirdek bellek
+Arka plan kullanımı için KSR-35 Teletype
+Ön plan kullanımı için KSR-33 Teletype
+LT15A Tek Tuğla Tip Kontrolü
+PC15 Yüksek hızlı kağıt bant okuyucu ve yumruk
+KE15 genişletilmiş aritmetik eleman
+KA15 Otomatik Öncelik Kesimi
+KM15 Bellek Koruması
+KW15 Gerçek Zamanlı Saat
+TC02D Dectape Kontrolü
+2 TU56 Çift Dectape Taşınması
+
+
+= PDP-15/40: Disk odaklı 91.000 $ 532.00 Evet
+Arka plan/ön plan sistemi =
+
+24.576 18 bit, 800-ns çekirdek bellek
+Arka plan kullanımı için KSR-35 Teletype
+Ön plan kullanımı için KSR-33 Teletype
+LT15A Tek Tuğla Tip Kontrolü
+PC15 Yüksek Hızlı Kağıt Bant Okuyucu ve Yumruk
+KE15 genişletilmiş aritmetik eleman
+KA15 Otomatik Öncelik Kesimi
+KM15 Bellek Koruması
+KW15 Gerçek Zamanlı Saat
+TC02D Dectape Kontrolü
+TU56 Çift Decape Taşımacılığı
+RF15 Decdisk Kontrolü
+2 RS09 Decdisk Sürücüleri
+
+     Not: Not 1 tüm sistemler için geçerlidir (fiyat listesinin son sayfasına bakın)
+
+
+
+
+                                    1 vardiya öncesi alan indirimi
+                             Notlar Req.  Servis Inst. Fiyat durumu
+
+= Bellek genişletme ve seçenekler =
+
+MM15-A 4K Bellek Modülü 7 PC15 $ 20 $ 100 $ 8.000 Evet
+       eklenecek alanla
+       Ek MK15-A
+
+MK15-A MM15-A'yı MM15A 20 60 6.000 EVET genişletir
+       8k artış
+       PDP-15/10 ila 8k
+
+Mp15 2 için bellek paritesi yok 15 1.500 evet
+       Her 4K hafıza
+       eklemek
+
+KT15 Hafıza Yer Değiştirme KM15 25 125 3.000 Evet
+
+Mx15 bellek çoklayıcı yok 5.000 evet
+
+
+= Merkezi işlemci seçenekleri =
+
+KE15 Genişletilmiş Aritmetik Yok 20 60 2.800 Evet
+       Eleman
+
+KM15 Bellek Koru Yok 10 100 2.900 Evet
+
+KF15 Güç Başarısızlığı Yok 2 60 1.000 Evet
+
+KP15A Çift Bellek Otobüsü-Bir 8 2 veya daha fazla 5.000 evet
+       G/Ç işlemci için otobüs MX15'ler
+       Merkez için bir otobüs
+       İşlemci
+
+
+= Giriş/çıkış işlemci seçenekleri =
+
+KA15 Otomatik Öncelik KW15 15 100 3.900 Evet
+       Yarıda kesmek
+
+KW15 Gerçek Zamanlı Saat, Çizgi Yok 2 60 500 Evet
+       Sıklık
+
+Dw15a negatife pozitif yok 15 100 2.000 evet
+       Otobüs dönüştürücü
+
+
+= Kütle depolama cihazları =
+
+3 DW15A 20 240 5.400 için TC02D Dectape Kontrolü
+       4 Tu56 Dectape'e kadar
+       Taşıma Birimleri
+
+TU56 Çift Dectape Taşımacılığı TC02D 12 60 4,700 Evet
+
+TC59D Manyetik Bant Taşımacılığı 3 DW15A
+       8 KW15 25 400 8.000'e kadar kontrol
+       TU20, TU20A, TU30, TU30A
+       Manyetik bant taşımacılığı
+       Birimler
+
+TU20B 7-Track, 45 IPS Manyetik TC59D 70 400 12.000 Hayır
+       Teyp Taşımacılığı 200, 556
+       ve 800 BPI
+
+TU20A 9-Track, 45 IPS Manyetik TC59D 80 400 13.000 Hayır
+       Teyp Taşımacılığı 800 BPI
+
+TU30B 7-Track, 75 IPS Manyetik TC59D 80 400 21.000 Hayır
+       Teyp Taşımacılığı 200, 556
+       ve 800 BPI
+
+TU30A 9-Track, 75 IPS Manyetik TC59D 90 400 22.000 Hayır
+       Teyp Taşımacılığı 800 BPI
+
+RF15 Decdisk Kontrolü YUKARI YOK 30 180 6.000 EVET
+       8 Rs09 Decdisk Sürücüleri
+
+RS09 262,144 Kelime Decdisk RF15 40 240 9.000 Evet
+
+RP15 Disk Paketi Kontrolü Yok 100 450 18.000 Evet
+       En fazla 8 RP02 Disk Paketi
+       Sürücüler
+
+RP02 10.24 Milyon Kelime Diski RP15 100 400 26.000 Hayır
+       Paket sürücü ünitesi
+       Bir RP02P disk içerir
+       Ambalaj
+
+RP02P Disk Paketi 650 Hayır
+
+
+
+
+                                    1 vardiya öncesi alan indirimi
+                             Notlar Req.  Servis Inst.  Fiyat durumu
+
+= Ekran cihazları =
+
+VP15A Depolama Tüpü Ekran 6 Yok 86 200 5.800 $ 3.000
+        VT01 Depolama Ekranı Değil
+        Birim, kontrol ve disk.
+        Montaj Donanımı
+
+Vp15b osiloskop ekranı yok 21 70 3.600 $ 800
+        Tektronix RM503 x-y değil
+        Osiloskop, kontrol, disk.
+        ve montaj donanımı
+
+VP15BL Osiloskop Ekranı 800 $
+        Tektronix RM503 X-Y Yok 24 150 5.225 değil
+        Osiloskop, kontrol, disk. Montaj donanımı ve
+        Aralık Tip 370 Işık Kalemi
+
+Vp15c osiloskop ekranı hiçbiri 38 220 5.250 evet
+        VR12 X-Y Ekran Ünitesi
+        (7 "x 9" crt), kontrol,
+        ve montaj donanımı
+
+VP15CL Osiloskop Ekranı Yok 41 300 6.875 Evet
+        VR12 X-Y Ekran Ünitesi
+        (7 "x 9" crt), kontrol,
+        Montaj donanımı ve
+        Aralık Tip 370 Işık Kalemi
+
+VP15M Ekran Çok Flezer Yok 3,900 Evet
+        8 VT01'e kadar
+
+VT01 Depolama Tüpü Ekran 6 VP15M 3.000 Hayır
+        *(Kablo 300 için+300 $*
+        ve konektörler)
+
+VT15 Grafik Ekran Yok 70 500 14.400 Evet
+        İşlemci
+
+VT04 Grafik Ekran VT15 250 4,500 Hayır
+        Konsol
+
+LK35 Klavye VT04, 30 120 1.200 Hayır
+                                    LT15A
+                                     veya
+                                    LT19
+                                    Seri
+
+VL04 Işık Kalemi VT04 5 75 700 Evet
+
+
+= Kart girişi =
+
+CR03B Kart Okuyucu-200 CPM 3,6 DW15A 50 240 5.200 Hayır
+        Okuyucu ve Kontrol
+
+
+= Kağıt bant girişi =
+
+PC15 Kağıt Teyp İstasyonu- Yok 24 320 3.900 Evet
+        300 CPS okuyucu
+        50 CPS Punch
+
+
+= Yazıcılar =
+
+Lp15f çizgi yazıcı-356 lpm yok 110 250 14.000 hayır
+        80 sütun satırı yazıcısı
+        ve kontrol
+
+LP15C Line Yazıcı-1000 LPM Yok 135 280 40.000 Hayır
+        132 Sütun Hattı Yazıcısı
+        ve kontrol
+
+
+= Calcomp Plotters ve Control =
+
+        12 inç davul çizicisi,
+        Model 565 ve kontrol
+
+XY15AA 0.01 inç Adım 3,6 DW15A 22 280 8.900 Hayır
+        18.000 adım/dakika
+
+XY15AB 0.005 inç Adım 3,6 DW15A 27 280 8.900 Hayır
+        18.000 adım/dakika
+
+        31 inç davul çizicisi,
+        Model 563 ve kontrol
+
+XY15BA 0.01 inç Adım 3,6 DW15A 27 320 13.400 Hayır
+        12.000 adım/dakika
+
+XY15BB 0.005 inç Adım 3,6 DW15A 32 320 13.400 Hayır
+        18.000 adım/dakika
+
+XY15 YALNIZCA KONTROL 3 ​​DW15A 15 200 3,000 Hayır
+
+
+
+
+                                    1 vardiya öncesi alan indirimi
+                             Notlar Req.  Servis Inst.  Fiyat durumu
+
+= Veri iletişimi =
+
+LT19D Çok İstasyon 3,5 DW15A 2 160 1.200 Evet
+        Teletip kontrolü
+        Ayrı İletim
+        Kanal başına saat
+        Kadar barındırır
+        5 LT19E Çizgi Birimleri
+
+LT19E Çizgi Birimi LT19A 2 120 800 Evet
+        (Biri için gerekli
+        her teletype veya eia
+        Çizgi adaptörü)
+
+LT19F EIA Hat Adaptörü LT19A, B 2 60 100 Evet
+        (Satır başına)
+
+LT19H Kablo Seti
+        Arıtma aracı
+        ile kullanım için
+        LT19H/LT19F veya
+        LT19F/PT08F
+        Kombinasyonlar.
+        Uzunluk belirtin. LT19HA 50 feet LT19F 60 EVET
+        LT19HB 100 feet LT19F 65 Evet
+        LT19HC 150 feet LT19F 70 Evet
+        LT19HD 200 feet LT19F 75 Evet
+        Lt19He 250 feet LT19F 80 Evet
+
+LT15A Tek Teletype Yok 2 160 1.200 Evet
+        Kontrol
+
+KSR-33 Teletype Model 33 Yok 25 80 1.200 Hayır
+        Klavye Gönderme
+        Birim
+
+ASR-33 Teletype Model 33 30 120 1.500 Hayır
+        Otomatik Gönderme
+        Kağıt bantlı birim
+        Okuyucu ve yumruk
+
+KSR-35 Teletype Model 35 22 80 3.000 Hayır
+        Klavye Gönderme
+        Birim
+
+ASR-35 Teletype Modeli 35 25 150 4.500 Hayır
+        Otomatik Gönderme
+        Kağıt bantlı birim
+        Okuyucu ve yumruk
+
+DP09A Veri İletişim 3 DW15A 20 200 6.000 Evet
+        Sistem uyumlu
+        EIA Rs 232B ile
+        Arayüz, Bell Sistemi
+        Type 201 Dataphone
+
+
+= Giriş/çıkış arabellekleri =
+
+DB99A PDP-15 (9 veya 9/L) ila 3,4 dw15a 15 250 7.000 evet
+        PDP-15 (9 veya 9/L)
+        Arıtma aracı
+
+DB98A PDP-15 (9 veya 9/L) ila 3,4 dw15a 15 250 7.000 evet
+        PDP-8 (veya 8/i)
+        Arıtma aracı
+
+DR09A 18-Bit Röle 3 DW15A 8 300 2.000 Evet
+        Çıktı arabelleği
+
+
+= Dijital-analog seçenekleri =
+
+AA15A Multiplexer Control 2.600 Evet
+        16 12 bit'e kadar
+        Dijitalden analog
+        Dönüştürücü kanalları
+        AAC2 yazın
+
+AAC2 Dijital-Analog AA15 350 Evet
+        Dönüştürücü Single
+        Tamponlu, 0V ila +-10v
+
+
+
+
+                                    1 vardiya öncesi alan indirimi
+                             Notlar Req.  Servis Inst.  Fiyat durumu
+
+= Analogdan dijital seçenekler =
+
+AF01B 6-12 Bit Analog-3 DW15A 8 240 5.000 Evet
+        Dijital dönüştürücü
+        (dönüşüm süresi
+        9-35_ mu_sec)
+        Çoklayıcı kontrolü.
+        A121 anahtarları kullanır
+        64'e kadar uygulayın
+        Tek uçlu, yüksek-
+        Seviye (0V ila -10V)
+        Analog girişler. A121 4 kanallı FET AF01B 1 8 65 Evet
+        Çoklayıcı anahtarı
+        (Dörtlü uygular
+        AF01B kanalları)
+
+AH02 AF01B 6 150 500 EVET
+        Örnek ve tut
+        (Arasında kullanılır
+        Analogdan dijital
+        Dönüştürücü ve
+        Çoklayıcı veya
+        AC01B ile)
+
+AH03 Ölçeklendirme Amplifikatörü AF01B 1 100 300 Evet
+
+AC01B 8 kanal 1-AH02 25 250 1.600 Evet
+        Başına örnek ve tut
+        Kontrol kanalı
+
+ADC1/9 6-12 Bit Analogdan 3 DW15A 8 160 3.265 Evet
+        İçin dijital dönüştürücü
+        tek uçlu, üst düzey
+        (0V ila -10v) Analog
+        girişler
+
+AM09 Multiplexer Control ADC1/9 14 250 2.500 Evet
+        1024 kanal için
+
+AM02A Montaj Paneli ve AM09 Yok 60 2.200 Evet
+        Üst düzey analog
+        İçin giriş konektörleri
+        4-128 kanal
+        Bir
+        Maksimum 32A122
+        Anahtarlar
+
+        Not: Bir AM02A için gereklidir.
+              128 kanaldan oluşan her grup
+
+A122 4 kanallı FET AM02 1 60 65 Evet
+        Çoklayıcı anahtarı
+
+AM03 Montaj Paneli ve AG01
+        Düşük seviyeli (diferansiyel) AM09 Yok 60 1.500 Evet
+        Hızlı Disconnect Analog
+        İçin giriş konektörleri
+        2-64 kanal
+        Maksimum olarak uygulandı
+        32-A111 anahtarının
+
+AG01 Diferansiyel Amplifikatör Yok 8 60 1.200 Hayır
+
+A111 2 kanallı çoklayıcı AM03 2 40 93 Evet
+        Switch (korumalı James
+        Microscan Rölesi)
+
+AF04B Dijital 3 DW15A 100 1050 18.000 Hayır
+        Voltmetre analog
+        Giriş alt sistemi
+        Çoklayıcı kontrolü
+        10-1000 3 tel için
+        Yüksek veya düşük seviye
+        Diferansiyel analog
+        Girişler ( +-10 mV ila +-300V
+        Tam ölçekli aralıklar
+        programlanabilir aralık ve
+        otomatik aralık).
+        Montaj paneli içerir
+        200 kanal için
+
+        AF04b
+        Aşağıdaki seçenekler:
+
+AF04S 10 kanallı korunan kamış AF04B 2 40 330 Hayır
+        Röle Çoklayıcı Anahtarı
+
+AF04X Genişleme Montaj Paneli AF04B 4 60 1.800 Hayır
+        200 kanal için (bir
+        Her biri için gerekli
+        Ek 200 kanal
+        grup)
+
+
+= Malzeme kitleri =
+
+PDP-15/20/30/40 Sistemler için SK15-A
+
+        18 sertifikalı dectape içerir, 400.00 hayır
+        1 Dectape taşıma çantası,
+        250 mavi dectape kurdeleleri,
+        2 teletip kurdelesi,
+        2 kutu form beslemesi teletype kağıdı,
+        1 fan kat kağıt bandı,
+        4 Kağıt Bant Plastik Depolama Tepsileri.
+
+PDP-15/10 sistemleri için SK15-B
+
+        2 teletype kurdele içerir, 80.00 hayır
+        2 kutu haddelenmiş, mükemmel olmayan
+        teletype kağıdı,
+        1 fantezi kağıt bandı,
+        6 Kağıt Bant Plastik Depolama Tepsileri.
+
+
+
+
+                                                                İndirim
+                                                          Fiyat durumu
+= Dolaplar =
+
+H960-A Serbest Duran Dolap. Filtre içerir, 650.00 Evet
+          Fan, tekerlekler, seviyeler, arka montaj
+          Panel kapısı, kapı kapağı, uç paneller ve
+          63 inç açık ön. (Modül ürünlerine bakın
+          ön seçenekler için fiyat listesi.)
+
+H961-A H960-A Son Paneller Olmadan 430.00 Evet
+
+
+= Giriş/çıkış veriyolu =
+
+Negatif mantık cihazlarını
+Negatif PDP-15 BUS (DW15A Dönüştürüldü
+pozitif otobüs). Cihaz başına iki gerekli.
+
+BC09A 2 ayak 180.00 Evet
+           7 ayak 190.00 Evet
+           15 ayak 210.00 Evet
+           25 ayak 230. 00 Evet
+
+Pozitif mantık cihazlarını bağlamak için
+Pozitif PDP-15 otobüsüne. Bir gerekli
+cihaz başına.
+
+BC09B 2 ayak 300.00 Evet
+             3 ayak 301.00 Evet
+             4 ayak 302.00 Evet
+             5 ayak 303.00 Evet
+             7 ayak 305.00 Evet
+            10 ayak 308.00 Evet
+            12 ayak 309.00 Evet
+            15 ayak 310.00 Evet
+            25 ayak 320.00 Evet
+            50 ayak 345.00 Evet
+           100 ayak 395.00 Evet
+
+Pozitif mantık cihazlarını bağlamak için
+Negatif PDP-15 otobüsüne (DW15A
+dönüştürülmüş pozitif otobüs). Bir gerekli
+cihaz başına.
+
+BC09C 2 ayak 400.00 Evet
+             3 ayak 401.00 Evet
+             4 ayak 402.00 Evet
+             5 ayak 403.00 Evet
+             7 ayak 405.00 Evet
+            10 ayak 408.00 Evet
+            12 ayak 409.00 Evet
+            15 ayak 410.00 Evet
+            25 ayak 420.00 Evet
+            50 ayak 445.00 Evet
+           100 ayak 495.00 Evet
+
+
+= Notlar: =
+
+        1. Bir PDP-15 sistemine her periferik kontrolörden sadece biri bağlanabilir.
+           Bilgisayar Özel Sistemleri aracılığıyla birden fazla denetleyici mevcuttur.
+
+        2. Çekirdek karışımları ile ve parite olmadan.
+
+        3. PDP-15 sistemi başına sadece bir DW15A gereklidir.
+
+        4. DW15A sadece PDP-15 sistemleri için gereklidir. PDP-9 veya 9/L için önkoşul yok.
+
+        5. Dört LT19D periferik kontrolör bir PDP-15 sistemine bağlanabilir.
+
+        6. masa üstü birim.
+
+        7. Sistem yazılımı 8K'dan fazla çalışacaksa PC15 gereklidir.
+           Yazılım gerekli değilse, PC15 gerekli değildir.
+
+        8. Alan takılamaz değil.
+
+
+
+
+Digital Equipment Corporation [Dijital Logo] Dünya çapında satış ve hizmet
+
+Ana ofis ve bitki
+
+146 Main Street, Maynard, Massachusetts, ABD 01754. Telefon:
+Metropolitan Boston'dan: 646-8600. Başka yerlerde: (617) -897-5111. TWX:
+710-347-0212 Kablo: Dijital Mayn Telex
+
+AMERİKA BİRLEŞİK DEVLETLERİ
+
+= Kuzeydoğu =
+_Regional Office: _
+15 Lunda Street, Waltham, Massachusetts 02154
+Telefon: (617) -891-1030 TWX: 710-324-0919
+
+_Waltham_
+15 Lunda Street, Waltham, Massachusetts 02154
+Telefon: (617) -891-6310/6315 TWX: 710-324-0919
+
+_Cambridge/Boston_
+899 Main Street, Cambridge, Massachusetts 02139
+Telefon: (617) -491-6130 TWX: 710-320-1167
+
+_Rochester_
+130 Allens Creek Yolu, Rochester, New York 14618
+Telefon: (716) -461-1700 TWX: 710-599-3211
+
+_Connecticut_
+1 Prestij Drive, Meriden, Connecticut 06450
+Telefon: (203) -237-8441 TWX: 710-461-0054
+
+= Orta Atlantik-Southeast =
+_Regional Office: _
+ABD Route 1, Princeton, New Jersey 08540
+Telefon: (609) -452-9150 TWX: 510-685-2338
+
+_NEW YORK_
+95 Cedar Lane, Englewood, New Jersey 07631
+Telefon: (201) -871-4984, (212) -594-6955, (212) -736-0447
+TWX: 710-991-9721
+
+_NEW JERSEY_
+1259 Route 46, Parsippany, New Jersey 07054
+Telefon: (201) -335-3300 TWX: 710-987-8319
+
+_Princeton_
+Birinci ve Emmons Drive,
+Princeton, New Jersey 08540
+Telefon: (609) -452-2940 TWX: 510-685-2337
+
+_Long adası_
+1919 Orta Ülke Yolu
+CenterEach, L.I. New York 11720
+Telefon: (516) -585-5410 TWX: 510-228-6505
+
+_Philadelphia_
+1100 West Valley Road, Wayne, Pennsylvania 19087
+Telefon: (215) -687-1405 TWX: 510-668-4461
+
+_Washington_
+Yönetici bina
+7100 Baltimore Ave., College Park, Maryland 20740
+Telefon: (301) -779-1100 TWX: 710-826-9662
+
+_Durham/Chapel Hill_
+2704 Chapel Hill Bulvarı
+Durham, Kuzey Carolina 27707
+Telefon: (919) -489-3347 TWX: 510-927-0912
+
+_Huntsville_
+SUITE 41-HOLIDID OFİS MERKEZİ
+3322 Memorial Parkway S.W., Huntsville, Ala. 35801
+Telefon: (205) -881-7730 TWX: 810-726-2122
+
+_Orlando_
+Suite 232, 6990 Lake Ellenor Drive, Orlando, Fla. 32809
+Telefon: (305) -851-4450 TWX: 810-850-0180
+
+_Atlanta_
+Suite 116, 1700 Commerce Drive, N.W.
+Atlanta, Georgia 30318
+Telefon: (404) -351-2822 TWX: 810-751-3251
+
+_Knoxville_
+5731 Lyons View Pike, S.W., Knoxville, Tenn. 37919
+Telefon: (615) -588-6571 TWX: 810-583-0123
+
+= Central =
+_Regional Office: _
+1850 Frontage Road, Northbrook, Illinois 60062
+Telefon: (312) -498-2560 TWX: 910-686-0655
+
+_Pittsburgh_
+400 Penn Center Bulvarı
+Pittsburgh, Pennsylvania 15235
+Telefon: (412) -243-8500 TWX: 710-797-3657
+
+_CHİCAGO_
+1850 Frontage Road, Northbrook, Illinois 60062
+Telefon: (312) -498-2500 TWX: 910-686-0655
+
+_Ann Arbor_
+230 Huron View Boulevard, Ann Arbor, Michigan 48103
+Telefon: (313) -761-1150 TWX: 810-223-6053
+
+_İndianapolis_
+21 Beechway Drive-Suite G
+Indianapolis, Indiana 46224
+Telefon: (317) -243-8341 TWX: 810-341-3436
+
+_Minneapolis_
+15016 Minnetonka Endüstriyel Yolu
+Minnetonka, Minnesota 55343
+Telefon: (612) -935-1744 TWX: 910-576-2818
+
+_Cleveland_
+Park Hill Bldg., 35104 Euclid Ave.
+Willoughby, Ohio 44094
+Telefon: (216) -946-8484 TWX: 810-427-2608
+
+_St. Louis_
+Suite 110, 115 İlerleme Pky., Maryland Heights,
+Missouri 63043
+Telefon: (314) -872-7520 TWX: 910-764-0831
+
+_Dayton_
+3101 Kettering Blvd., Dayton, Ohio 45439
+Telefon: (513) -299-7377 TWX: 810-459-1676
+
+_Dallas_
+8855 North Stemmons Freeway, Suite 204
+Dallas, Teksas 75247
+Telefon: (214) -638-3660 TWX: 910-861-4000
+
+_Houston_
+3417 Milam Street, Suite A, Houston, Teksas 77002
+Telefon: (713) -524-2961 TWX: 910-881-1651
+
+= Batı =
+_Regional Office: _
+560 San Antonio Yolu, Palo Alto, California 94306
+Telefon: (415) -328-0400 TWX: 910-373-1266
+
+_Anaheim_
+801 E. Ball Road, Anaheim, California 92805
+Telefon: (714) -776-6932 veya (213) -625-7669
+TWX: 910-591-1189
+
+_West Los Angeles_
+2002 Cotner Avenue, Los Angeles, California 90025
+Telefon: (213) -479-3791 TWX: 910-342-6999
+
+_San Francisco_
+560 San Antonio Yolu, Palo Alto, California 94306
+Telefon: (415) -326-5640 TWX: 910-373-1266
+
+_Albuquerque_
+6303 Indian School Road, N.E.
+Albuquerque, N.M. 87110
+Telefon: (505) -296-5411 TWX: 910-989-0614
+
+_Denver_
+2305 South Colorado Blvd., Suite #5
+Denver, Colorado 80222
+Telefon: (303) -757-3332 TWX: 910-931-2650
+
+_Seattle_
+1521 130. N.E., Bellevue, Washington 98004
+Telefon: (206) -454-4058 TWX: 910-443-2306
+
+_Salt Lake City_
+431 Güney 3. Doğu, Salt Lake City, Utah 84111
+Telefon: (801) -328-9838 TWX: 910-925-5834
+
+
+ULUSLARARASI
+
+= Kanada =
+
+Kanada Dijital Ekipmanları, Ltd. _Canadian Karargahları_
+150 Rosamond Caddesi, Carleton Place, Ontario
+Telefon: (613) -257-2615 TWX: 610-561-1651
+
+_Ottawa_
+120 Holland Street, Ottawa 3, Ontario
+Telefon: (613) -725-2193 TWX: 610-562-8907
+
+_Toronto_
+230 Lakeshore Yolu Doğu, Liman Kredi, Ontario
+Telefon: (416) -278-6111 TWX: 610-492-4306
+
+_Montreal_
+9675 Cote de Liesse Yolu
+Dorval, Quebec, Kanada 760
+Telefon: (514) -636-9393 TWX: 610-422-4124
+
+_Edmonton_
+5331-103 Sokak
+Edmonton, Alberta, Kanada
+Telefon: (403) -434-9333 TWX: 610-831-2248
+
+= Avrupa Karargahı =
+
+Digital Equipment Corporation International-Europe
+81 rota de l'Aire
+1227 Carouge / Cenevre, İsviçre
+Telefon: 42 79 50 Teleks: 22 683
+
+= Almanya =
+
+Dijital Ekipman GmbH
+
+_Cologne_
+5 Koel, Bismarcksstrasse 7, Batı Almanya
+Telefon: 52 21 81 Teleks: 888-2269
+Telegram: Flip Chip Koel
+
+_MÜNİH_
+8000 Muenchen 19, Leonrodstrasse 58
+Telefon: 516 30 54 Teleks: 524226
+
+= İngiltere =
+
+Digital Equipment Co., Ltd.
+
+_OKUMA_
+Arkwright Road, Reading, Berkshire, İngiltere
+Telefon: Okuma 85131 Teleks: 84327
+
+_MANCHESTER_
+8 Üst Bölge, Worsley
+Manchester, İngiltere M28 5AZ
+Telefon: 061-790-4591/2 Teleks: 668666
+
+_LONDRA_
+Bilton House, Uxbridge Yolu, Ealing, Londra W.5.
+Telefon: 01-579-2781 Teleks: 22371
+
+= Fransa =
+
+Ekipman Dijital S.A.R.L.
+
+_PARİS_
+233 Rue de De Charenton, Paris 12, Fransa
+Telefon: 344-76-07 Teleks: 21339
+
+= Benelux =
+
+Dijital Ekipman N.V.
+(Belçika, Lüksemburg ve Hollanda'ya hizmet veriyor)
+
+_The Hague_
+KoninginNegracht 65, Lahey, Hollanda
+Telefon: 635960 Teleks: 32533
+
+= İsveç =
+
+Dijital Ekipman Aktiabolag
+
+_Stockholm_
+Vretenvagen 2, S-171 54 Solna, İsveç
+Telefon: 08 98 13 90 Teleks: 170 50
+Kablo: Dijital Stockholm
+
+= İsviçre =
+
+Dijital Ekipman Corporation S.A.
+
+_CENEVRE_
+81 rota de l'Aire
+1227 Carouge / Cenevre, İsviçre
+Telefon: 42 79 50 Teleks: 22 683
+
+= İtalya =
+
+Dijital Ekipman S. s. A.
+
+_Milan_
+Corso Garibaldi, 49, 20121 Milano, İtalya
+Telefon: 872 748, 872 694, 872 394 Teleks: 33615
+
+= Avustralya =
+
+Dijital Ekipman Avustralya Pty. Ltd.
+
+_Sydney_
+75 Alexander St., Crows Nest, N.S.W. 2065, Avustralya
+Telefon: 439-2566 Teleks: 20740
+Kablo: Dijital, Sydney
+
+_Melbourne_
+60 Park Street, South Melbourne, Victoria, 3205
+Telefon: 69-6142 Teleks: 30700
+
+_Western Avustralya_
+643 Murray Caddesi
+West Perth, Batı Avustralya 6005
+Telefon: 21-4993 Teleks: 92140
+
+_Brisbane_
+139 Merivale Street, Güney Brisbane
+Queensland, Avustralya 4101
+Telefon: 44047 Teleks: 40616
+
+= Japonya =
+
+_TOKYO_
+Rikei Trading Co., Ltd. (Yalnızca Satışlar)
+Kozato-kaikan Bldg.
+18-14, Nishishimbashi 1-Chome
+Minato-Ku, Tokyo, Japonya
+Telefon: 5915246 Teleks: 7814208
+
+Digital Equipment Corporation International
+(Mühendislik ve Hizmetler)
+Fukuyoshicho Binası, No. 2-6, Roppongi 2-Chome,
+Minato-ku, Tokyo
+Telefon: 585-3624 Teleks: Hayır.: 0242-2650
+
+ABD'de basılmıştır.
+
+155x 00370 Aku
+
+
+
+
+Transcriber'ın notları
+
+
+İtalik metin _underscores_ içinde gösterilir.
+
+Kalın metin = eşit işaretler = içinde gösterilir.
+
+Tablolar düz metin içine sığacak şekilde biraz değiştirildi
+genişlik kısıtlamaları.
+
+
+
+
+
+
+
+
+Projenin Sonu Gutenberg Dijital PDP15 Fiyat Listesi E -Kitabı, Anonim tarafından
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK DIGITAL PDP15 PRICE LIST ***
+
+***** This file should be named 37237.txt or 37237.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/2/3/37237/
+
+Produced by Gerard Arthus, Diane Monico, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
