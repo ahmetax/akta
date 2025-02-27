@@ -1,0 +1,1516 @@
+*** START OF AKTAHEADER ***
+Başlık: Hitchhiker's Guide to the Internet (Hitchhiker'ın İnternet Rehberi)
+Yazar: Ed Krol
+Yayın Tarihi: September, 1992
+Dil: English
+Link: https://www.gutenberg.org/ebooks/39
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: bilim_teknoloji
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Hitchhiker's Guide to the Internet, by Ed Krol
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Hitchhiker's Guide to the Internet
+
+Author: Ed Krol
+
+Posting Date: December 17, 2011 [EBook #39]
+Release Date: September, 1992
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HITCHHIKER'S GUIDE TO THE INTERNET ***
+
+*** START OF TURKISH PART ***
+Otostopçular İnternet Rehberi
+                        25 Ağustos 1987
+
+
+
+                           Ed Krol
+                    Krol@uxc.cso.uiuc.edu
+
+
+
+
+ Bu belge, ulusal finansman yoluyla üretildi
+ Bilim Vakfı.
+
+ Telif Hakkı (C) 1987, Üniversite Mütevelli Heyeti tarafından
+ Illinois.  Bu belgeyi çoğaltma izni
+ veya bir kısım, kaynağa atıfta bulunulması şartıyla verilir
+ Ve bu telif hakkı tüm kopyalara dahildir.
+
+
+ Bu belge, çalışmalara aşina olduğunu varsayar.
+ bağlantılı olmayan basit bir IP ağının (örn. birkaç 4.2 BSD
+ başka bir yere bağlı olmayan bir Ethernet'teki sistemler).
+ Ek A, buna bir tane almak için iyileştirici bilgiler içerir
+ nokta.  Amacı, o kişiyi almaktır,
+ Basit ağ, İnternet'in "sözlü geleneğinde" usta
+ Bu ağın internete bağlanabileceği noktaya kadar
+ ikisi için çok az tehlike ile.  Bu bir öğretici değil
+ Diğer yerlere, edebiyata ve ipuçlarına işaret edenlerden oluşur
+ normalde belgelenmemiş.  İnternet bir
+ dinamik ortam, bu belgedeki değişiklikler yapılacak
+ düzenli olarak.  Yazar yorum ve önerileri memnuniyetle karşılıyor.
+ Bu özellikle sözlük terimleri için geçerlidir (tanımlar
+ gerekli değildir).
+
+
+
+
+ Başlangıçta arpanet, geniş bir alan vardı
+ Ana bilgisayarları ve terminal sunucularını birbirine bağlayan deneysel ağ
+ birlikte.  Tahsisi düzenlemek için prosedürler ayarlandı
+ adresler ve ağ için gönüllü standartlar oluşturmak.
+ Yerel alan ağları daha yaygın hale geldikçe, birçok ev sahibi oldu
+ Yerel ağlara geçitler.  İzin verecek bir ağ katmanı
+ Bu ağların birlikte çalışması geliştirildi ve IP olarak adlandırıldı
+ (İnternet Protokolü).  Zamanla diğer gruplar uzun mesafe yarattı
+ IP tabanlı ağlar (NASA, NSF, Devletler ...).  Bu ağlar da,
+ IP nedeniyle birlikte çalışın.  Tüm bunların koleksiyonu
+ Birlikte çalışan ağlar internettir.
+
+ İki grup araştırma ve bilgi çalışmasının çoğunu yapar
+ İnternet (ISI ve SRI).  ISI (Bilgi Bilimleri
+ Enstitü) araştırma, standardizasyon ve
+ İnternet tahsis çalışması.  Sri International
+ İnternet için bilgi hizmetleri.  Aslında senden sonra
+ internete bağlıdır.
+ Bu belge ağ bilgilerinden alınabilir
+ Sri tarafından işletilen merkez (NIC).
+
+
+
+ İnternet'i çalıştırmak
+
+ Her ağ, Arpanet, NSFNet veya Bölgesel Bir Ağ,
+ kendi operasyon merkezi var.  Arpanet tarafından yönetilir
+ BBN, Inc. Darpa'dan sözleşme kapsamında.  Onların tesisi
+ Ağ İşlemleri Merkezi veya NOC olarak adlandırılır.  Cornell
+ Üniversite geçici olarak NSFNET'i işletiyor (Ağ deniyor
+ Bilgi Servis Merkezi, NISC).  Devam ediyor
+
+                             -2-
+
+ izlemek ve saklamak için benzer tesislere sahip olan bölgeler
+ İnternet bölümlerinin gidişatını izleyin.
+ Ayrıca, hepsinin ne olduğu hakkında biraz bilgi sahibi olmalılar
+ Toplamda internette oluyor. Bir sorun ortaya çıkarsa,
+ Bir kampüs ağı irtibatının iletişime geçmesi önerilir
+ doğrudan bağlı olduğu ağ operatörü. O
+ Bölgesel bir ağa bağlıysanız (
+ NSFNET'e geçti, bu da
+ Arpanet ...) ve bir sorun yaşayın, sizinle iletişime geçmelisiniz.
+ Bölgesel Ağ Operasyon Merkezi.
+
+
+ RFCS
+
+ İnternetin dahili çalışmaları bir set tarafından tanımlanır
+ RFCS adı verilen belgelerin (yorum isteği).  Genel
+ RFC oluşturma işlemi bir şey isteyen biri içindir
+ sorunu açıklayan bir belge yazmak ve postayla ilgili bir belge yazmak
+ Jon Postel'e (postel@isi.edu).  Hakem görevi görür
+ teklif.  Daha sonra tüm dilekler tarafından yorumlanır
+ Tartışmaya katılmak için (elbette elektronik olarak).
+ Birden fazla revizyondan geçebilir.  Genel olarak olmalı
+ İyi bir fikir olarak kabul edildiğinde, bir sayı atanacak ve
+ RFC'lerle dosyalandı. RFC'ler beş gruba ayrılabilir: gerekli, önerilen,
+ Yönlü, bilgilendirici ve eski.  Gerekli RFC'ler (ör.
+ RFC-791, İnternet Protokolü) herhangi bir ana bilgisayarda uygulanmalıdır
+ İnternete bağlı.  Önerilen RFC'ler genellikle
+ ağ ana bilgisayarları tarafından uygulanır.  Bunların eksikliği engellemez
+ İnternete erişim, ancak kullanılabilirliğini etkileyebilir.  RFC-793
+ (Şanzıman Kontrol Protokolü) önerilen bir RFC'dir.  Yönlü
+ RFC'ler tartışıldı ve kabul edildi, ancak uygulamaları asla
+ geniş kullanıma girin.  Bunun nedeni, geniş bir ihtiyaç olmaması olabilir
+ özel uygulama (RFC-937 Postane Protokolü) veya
+ teknik olarak daha üstün olmasına rağmen, diğer yaygınlığa karşı koştu
+ Yaklaşımlar (RFC-891 Merhaba).  Olması önerilir
+ Tesis belirli bir site, animpementation tarafından gerekli
+ RFC uyarınca yapılabilir.  Bu, yapması gerekir
+ Fikir, zamanı gelmiş olan biri olmak, uygulama olacak
+ bazı standartlara göre ve genellikle kullanılabilir olacaktır.
+ Bilgilendirici RFC'ler,
+ İnternet ve çalışması (RFC-990, atanan numaralar).
+ Son olarak, internet ve teknoloji büyüdükçe, bazıları
+ RFC'ler gereksiz hale geldi.  Bu eski RFC'ler
+ Ancak göz ardı edilebilir.  Sık sık bir değişiklik yapıldığında
+ Yeni bir kişinin başkalarını engellemesine neden olan bazı RFC'ler,
+ Yeni RFC yalnızca açıklamalar ve motivasyonlar içeriyor.
+ değiştirmek.  Tüm tesisin üzerinde modelin anlaşılması
+ temelli orijinal ve sonraki RFC'leri okumayı içerebilir
+ konuyla ilgili.
+
+                             -3-
+
+ (Ek B,
+ İnternet'i anlamak için gerekli büyük RFC'ler).
+
+
+
+ Ağ Bilgi Merkezi
+
+ NIC, tüm İnternet kullanıcıları için mevcut bir tesistir.
+ topluluğa bilgi sağlar.  Üç var
+ NIC İletişim Araçları: Ağ, Telefon ve Posta.  .
+ Ağ erişimleri en yaygın olanıdır.  Etkileşimli Erişim
+ NIC Hizmetine Genel Bakışlar Sorguları yapmak için sıklıkla kullanılır,
+ Kullanıcı ve ana bilgisayar adlarına bakın ve NIC belgelerinin listelerini tarayın.
+ Kullanarak mevcuttur
+
+      %telnet sri-nic.arpa
+
+ bir BSD sisteminde ve bir
+ Kullanıcı Dostu Prompter.  Veritabanlarında etrafta dolaşarak
+ Birinin NetInfo: Nug.doc adlı bir belgenin
+ (ARPANET kullanıcıları rehberi) sahip olmaya değer.  Yapabilirdi
+ anonim bir FTP aracılığıyla alınabilir.  Anonim bir FTP devam eder
+ Aşağıdakiler gibi bir şey.  (Diyalog biraz değişebilir
+ kullandığınız FTP'nin uygulanmasına bağlı olarak).
+
+      %ftp sri-nic.arpa
+      Sri-nic.arpa'ya bağlı.
+      220 SRI_NIC.ARPA FTP Sunucu İşlemi 5Z (47) -6 Çar
+17-Jun-87 12:00 PDT
+      Adı (sri-nic.arpa:myname): anonim
+      331 Anonim Kullanıcı Tamam, gerçek kimliği şifre olarak gönderin.
+      Şifre: MyName
+      230 Kullanıcı Anonim Oturum Açıldı 17 Haziran-87 12:01 PDT,
+İş 15.
+      ftp> netinfo al: nug.doc
+      200 Port 18.144'te ev sahibi 128.174.5.50 kabul edildi.
+      150 ASCII Alma <NetInfo> nug.doc.11 başladı.
+      226 Transfer tamamlandı 157675 (8) bayt aktarıldı
+      Yerel: netinfo: nug.doc uzaktan kumanda: netinfo: nug.doc
+      4.5e+02 saniyede 157675 bayt (0.34 kbytes/s)
+      FTP> Çık
+      221 Çıkma komutu alındı. Güle güle.
+
+ (Almak için bir başka iyi ilk belge
+ NetInfo: Nic-Nic-Does.txt)!
+
+ NIC veya hizmetlerle ilgili sorunlar sorulabilir
+ Elektronik posta kullanma veya kullanıldığı bildirildi.  Aşağıdaki
+ Adresler kullanılabilir:
+
+      Nic@sri-nic.arpa Genel Kullanıcı Yardımı, Belge İstekleri
+      Registrar@sri-nic.arpa kullanıcı kaydı ve whois güncellemeleri
+      Hostmaster@sri-nic.arpa ana bilgisayar adı ve etki alanı değişiklikleri ve güncellemeleri
+      Action@sri-nic.arpa sri-nic bilgisayar işlemleri
+      Öneriler@sri-nic. ARPA NIC Yayınları ve Hizmetleri hakkında yorumlar
+
+                             -4-
+
+ Ağ erişimi olmayan kişiler için veya belge sayısı
+ büyüktür, NIC belgelerinin çoğu basılı olarak mevcuttur
+ küçük bir şarj için form.  İçin sıkça sipariş edilen bir belge
+ Başlangıç ​​alanları, büyük RFC'lerin bir özetidir.  Telefon erişimi
+ öncelikle ağ erişimi ile ilgili sorular veya sorunlar için kullanılır.
+ (Posta/telefon iletişim numaraları için Ek B'ye bakınız).
+
+
+
+ NSFNET Ağ Servis Merkezi
+
+ NSFNET Ağ Servis Merkezi (NNSC) NSF tarafından finanse edilmektedir.
+ NSFNET kullanıcılarına birinci düzey yardım sağlayın.
+ Ağdan geçen sorularınız veya karşılaşma sorunları var.
+ BBN Inc. Karen Roubicek tarafından yönetiliyor
+ (roubicek@nnsc.nsf.net) NNSC Kullanıcı İrtibatıdır.
+
+ Şu anda bilgi ve belgelere sahip NNSC
+ Çevrimiçi ve basılı biçimde, haber dağıtmayı planlıyor
+ Ağ Posta Listeleri, Bültenler, Bültenler ve Çevrimiçi
+ Raporlar.  NNSC ayrıca bir kişi veritabanı tutar
+ NSFNET hakkında ek bilgi puanları ve kaynakları
+ Bileşen ağları ve süper bilgisayar merkezleri.
+
+ Kimi arayacağını bilmeyen muhtemel veya mevcut kullanıcılar
+ NSFNET kullanımı ile ilgili sorularla ilgili olarak,
+ NNSC.  NNSC genel soruları cevaplayacak ve
+ belirli bileşenlerle ilgili ayrıntılı bilgi
+ İnternet, kullanıcıların uygun kişiyi bulmasına yardımcı olacak
+ daha fazla yardım.  (Ek B)
+
+
+
+ Posta reflektörleri
+
+ Çoğu insanın ağ haberlerinden haberdar olma şekli
+ bir dizi posta reflektörüne abonelik yoluyla.  Posta
+ Reflektörler, onlar
+ Bir mesaj alın, diğer posta kutularının bir listesine yeniden gönderin.
+ Bu aslında belirli bir tartışma grubu oluşturur
+ başlık.  Her abone tarafından iletilen tüm postaları görür.
+ reflektör ve eğer biri "iki sentini" göndermek istiyorsa
+ reflektörün yorumlarını içeren bir mesaj ...
+
+ Bir posta listesine abone olmak için genel biçim bulmaktır.
+ Adres Reflektörü ve String -Request'i ekleyin
+ posta kutusu adı (ana bilgisayar adı değil).  Örneğin, eğer
+ NSFNET yansıtılan posta listesine katılmak istedim
+ nsfnet@nnsc.nsf.net tarafından,
+
+                             -5-
+
+ Nsfnet-request@nnsc.nsf.net.  Bu harika bir plan olabilir,
+ Ancak sorun, listenin var olduğunu bilmeniz gerektiğidir.
+ birincilik.  Eğer ilgileniyorsanız,
+ Postayı bir listeden (nsfnet gibi) okudunuz ve
+ Muhtemelen başkalarının varlığına aşina olur.
+ Posta reflektörleri için bir kayıt hizmeti
+ NetInfo dosyalarındaki nic: faiz-gruplar-1.txt,
+ NetInfo: faiz grupları-2.txt ve netInfo: faiz grupları-
+ 3.txt.
+
+ NSFNet Posta Reflektörü,
+ NSFNet'in haberlerine bir günlük ilgi duyuyoruz (
+ Omurga, bölgesel ağ ve internet arası bağlantı
+ site çalışanları).  Mesajlar bir merkezi tarafından yansıtılır
+ konum ve her aboneye ayrı mesaj olarak gönderilir.
+ Bu, geniş alan ağlarında yüzlerce mesaj oluşturur
+ burada bant genişliği en azdır.
+
+ Bir kampüsün haberi yaymasının iki yolu vardır
+ ve bu mesajların geniş alanı su altında bırakmasına neden olmayın
+ ağlar.  Bunlardan biri kampüsteki mesajı yeniden yansıtmaktır.
+ Yani, yerel bir makineye bir reflektör kurun
+ Bir kampüs dağıtım listesine mesaj.  Diğeri
+ Bir kampüs makinesinde bir takma ad oluşturmak için
+ Konuyla ilgili bir not dosyasına mesajlar.  Kampüs kullanıcıları kim
+ Bilgilerin NotesFile'a erişebilmesini ve
+ Son erişiminden bu yana gönderilen mesajlar.  Bir
+ Ayrıca kampüs geniş alan ağına sahip olmayı da seçebilir
+ İrtibat ekranı her iki durumda da ve yalnızca ileri
+ liyakat olarak kabul edilenler.  Bunlardan her ikisi de
+ Şemalar, bir mesajın kampüse gönderilmesine izin verirken
+ İçinde geniş dağılıma izin verir. Adres tahsisi
+
+ Yerel bir ağ internete bağlanmadan önce
+ benzersiz bir IP adresi tahsis edilmelidir.  Bu adresler
+ ISI tarafından tahsis edildi.  Tahsis süreci elde etmekten oluşur
+ ISI'dan alınan bir başvuru formu.  (Bir mesaj gönder
+ hostmaster@sri-nic.arpa'ya ve şablonu isteyin
+ bağlı adres).  Bu şablon doldurulur ve postalanır
+ Hostmaster'a geri dön.  Bir adres tahsis edilir ve e-posta gönderilir
+ sana.  Bu aynı zamanda posta postasıyla da yapılabilir (Ek B).
+
+ IP adresleri 32 bit uzunluğundadır.  Genellikle yazılır
+ Dönemlerle ayrılmış dört ondalık sayı (örn., 192.17.5.100).
+ Her sayı 32 bitin bir oktet değeridir.  Oldu
+ Başından beri bazı ağların seçebileceği görüldü
+ Kendilerini çok düz olarak organize edin (çok sayıda düğümlü bir ağ)
+ Ve bazıları hiyerarşik olarak organize edebilir
+
+                             -6-
+
+ (Her biri daha az düğüm ve bir omurgaya sahip birbirine bağlı birçok ağ).
+ Bu davaları sağlamak için adresler
+ A Sınıfı, B ve C ağları.  Bu sınıflandırma
+ sekizlerin yorumlanması.  A Sınıfı ağlar ilk
+ Ağ adresi olarak Octet ve kalan üçü ev sahibi olarak
+ o ağdaki adres.  C Sınıfı adreslerin üç okteti vardır
+ ağ adresi ve ana bilgisayardan biri.  B Sınıfı iki ve iki bölünmüştür.
+ Bu nedenle, birkaç büyük ağ için bir adres alanı vardır, bir
+ Makul sayıda orta ağ ve çok sayıda küçük ağ.
+ İlk sekizli ilk iki bit, adresi anlatacak şekilde kodlanmıştır
+ format.  A Sınıfı ağların tamamı tahsis edildi.  Yani bir
+ Sipariş verirken B Sınıfı ve C Sınıfı arasında seçim yapmak zorundadır.
+ (D Sınıfı (çok noktaya yayın) ve E (deneysel) formatlar da vardır.
+ Çok noktaya yayın adresleri muhtemelen yakınlarda daha fazla kullanılacaktır.
+ gelecek, ancak şimdi sık sık kullanılmıyor).
+
+ Birden çok ağ adresi gerektiren geçmiş sitelerde
+ birden çok ayrı adres talep etti (genellikle C Sınıfı).
+ Bu yapıldı çünkü mevcut yazılımın çoğu
+ (4,2bsd değil) alt ağ adresleriyle ilgilenemedi.
+ Belirli bir ağa nasıl ulaşılacağı hakkında bilgi (yönlendirme
+ bilgi) internet ağ geçitlerinde ve pakette saklanmalıdır
+ anahtarlar.  Bu düğümlerin bazılarının sınırlı bir özelliği vardır.
+ Yönlendirme bilgilerini saklayın ve değiştirin (yaklaşık 300 ile sınırlı
+ ağlar).  Bu nedenle, herhangi bir kampüsün
+ Duyurun (İnternet'e Bilin) ​​En fazla ikiden yoksun
+ ayrık ağ numaraları.
+
+ Bir kampüs bununla kısıtlanmayı bekliyorsa,
+ Alt ağ yapmayı düşünün.  Alt ağ (RFC-932),
+ İnternete bir adresi duyurun ve bir dizi kullanın
+ Kampüsteki adresler.  Temel olarak, biri bir maskeyi tanımlar
+ bu da ağın farklılaşmasını sağlar
+ ağ kısmı ve adresin ana bilgisayar kısmı.  Bir kullanarak
+ İnternet ve kampüste farklı maske, adres
+ Birden fazla şekilde yorumlanabilir.  Örneğin, bir
+ Kampüs dahili olarak iki ağ gerektirir ve 32.000'e sahiptir
+ 128.174.x.x (B Sınıfı adresi) tahsis edilen adresler
+ Buna göre, kampüs bir parçaya 128.174.5.x tahsis edebilir
+ kampüs ve 128.174.10.x diğerine.  Reklam yoluyla
+ 128.174 ff.ff.00.00 alt ağ maskesi ile internete,
+ İnternet bu iki adrese bir davranırdı. İçinde
+ Kampüs ff.ff.ff.00 maskesi kullanılacak ve
+ Adresleri ayrı varlıklar olarak ele almak için kampüs. (Gerçekte
+ FF.FF.00.00 alt ağ maskesini internete geçirmezsiniz,
+ Octet anlamı B Sınıfı adresi olarak örtüktür).
+ Bir uyarı kelimesi gereklidir.  Tüm sistemler nasıl yapılacağını bilmiyor
+ Alt ağa yapın.  Bazı 4.2bsd sistemleri ek gerektirir
+ yazılım.  4.3bsd Sistemler Alt ağ yayınlandığı gibi.  Diğer Cihazlar
+
+                             -7-
+
+ ve işletim sistemleri ele aldıkları sorunlarda farklılık gösterir
+ Alt ağlarla.  Sık sık bu makineler bir
+ Bir ağdaki yaprak ancak alt ağda bir ağ geçidi olarak değil
+ ağın bir kısmı. Zaman geçtikçe ve daha fazla sistem
+ 4.3bsd tabanlı olun, bu sorunlar kaybolmalıdır.
+
+ Geçmişte formatında bazı karışıklıklar oldu.
+ bir IP yayın adresi.  Bazı makineler bir adresi kullandı
+ Tüm sıfırlar yayın ve bazıları anlamına gelir.  Bu
+ Her iki tipte makinelerde bağlandığında kafa karıştırıcı
+ aynı ağ. Herkesin yayın adresi
+ kederi sona erdirmek için kabul edildi.  Bazı sistemler (örn. 4.2 BSD) izin verir
+ Biri yayın adresinin biçimini seçmek için.  Eğer
+ sistem bu seçime izin verir, dikkate alınmalıdır.
+ Tüm formatlar seçilir.  (Bu RFC-1009'da açıklanmaktadır
+ ve RFC-1010).
+
+
+ İnternet Sorunları
+
+ İnternette bir takım sorunlar var.  Çözümler
+ Sorunlara, yazılım değişikliklerinden uzun vadeye kadar uzanıyor
+ Araştırma projeleri. Büyük olanlardan bazıları ayrıntılı
+ altında:
+
+ Ağ sayısı
+
+      İnternet tasarlandığında yaklaşık 50 olacaktı
+      Bağlı ağlar.  Ağ patlaması ile,
+      numara şimdi 300'e yaklaşıyor. Yazılım
+      kritik ağ geçitleri grubu (temel ağ geçitleri denir
+      Arpanet) çok daha fazla geçemez veya saklayamaz
+      o sayıdan.  Kısa vadede, temel tahsisat
+      ve yeniden kodlama sayıyı biraz artırdı.  Tarafından
+      '88 Yaz Mevcut PDP-11 Çekirdek Ağ Geçitleri
+      Çözecek BBN kelebek ağ geçitleriyle değiştirildi
+      sorun.
+
+ Yönlendirme sorunları
+
+      Yollamak için gerekli verilerin kütlesi ile birlikte
+      çok sayıda ağa paketler, çok sayıda
+      Güncelleme, istikrar ve optimalite ile ilgili sorunlar
+      yönlendirme algoritmalarının.  Çok araştırma yapılıyor
+      bölgede, ancak bu yönlendirmeye en uygun çözüm
+      Sorunlar hala yıllar uzakta.  Çoğu durumda
+      Bugün sahip olduğumuz yönlendirme çalışıyor, ancak alt optimal ve
+      bazen öngörülemez.
+
+                             -8-
+
+
+ Güven Sorunları
+
+      Ağ geçitleri ağ yönlendirme bilgilerini değiştirme.
+      Şu anda, çoğu ağ geçidi inancını kabul ediyor
+      Ağın durumu hakkında sağlanan bilgiler
+      doğru.  Geçmişte bu büyük bir sorun değildi
+      Ağ geçitlerinin çoğu tek bir idareye aitti
+      Varlık (DARPA).  Şimdi birden fazla geniş alan ağıyla
+      Farklı idareler altında, bir haydut ağ geçidi
+      İnternette bir yerde internette sakatlanabilir.
+      Her iki problemi de çözmek için tasarım çalışmaları var
+      mantıksız şeyler yapan ve yeterince sağlayan bir ağ geçidi
+      Multip arası verileri makul bir şekilde yönlendirecek bilgiler
+      Bağlı ağlar (çoklu ağlar).
+
+ Kapasite ve tıkanıklık
+
+      Arpanet'in birçok kısmı sırasında çok sıkışık
+      Günün yoğun kısmı.  Ek bağlantılar planlanıyor
+      Bu tıkanıklığı hafifletmek için, ancak uygulama
+      Birkaç ay sürecek.
+
+
+ Bu sorunlar ve internetin gelecekteki yönü
+ İnternet mimarı tarafından belirlendi (MIT'den Dave Clark)
+ İnternet Faaliyetleri Kurulu (IAB) tarafından tavsiye edilmek.  Bu
+ Kurul, bir dizi komitenin başkanlarından oluşur.
+ İnternetin çeşitli özel alanları için sorumluluk.
+ IAB'yi oluşturan komiteler ve başkanları:
+
+         Komite başkanı
+      Özerk Ağlar Deborah Estrin
+      Uçtan uca hizmetler Bob Braden
+      İnternet mimarisi Dave Mills
+      İnternet Mühendisliği Phil Gross
+           EGP2 Mike Petry
+           İsim Etki Alanı Planlaması Doug Kingston
+           Ağ Geçidi İzleme Craig Partridge
+           Internic Jake Feinler
+           Performans ve Tıkanıklık ControlroBert Stine
+           NSF Yönlendirme Chuck Hedrick
+           Misc. Milsup Mike St. Johns
+      Gizlilik Steve Kent
+      İrinet gereksinimleri vint cerf
+      Sağlamlık ve Hayatta Kalma Jim Mathis
+      Bilimsel Gereksinimler Barry Leiner
+
+ İnternet mühendisliği altında bir dizi olduğunu unutmayın.
+ Kısa vadeli endişelere bakmak için görev kuvvetleri ve sandalyeler.  .
+ Bu görev güçlerinin sandalyeleri IAB'nin bir parçası değildir.
+
+                             -9-
+ Yönlendirme
+
+
+ Yönlendirme, bir ağın bir paketi yönlendirdiği algoritmadır
+ kaynağından hedefine.  Sorunu takdir etmek için
+ Bir restoranda bir masa bulmaya çalışan küçük bir çocuğu izleyin.
+ Yetişkin bakış açısından yemek odasının yapısı
+ görülür ve kolayca seçilir.  Ancak çocuk
+ iyi bir yolun bulunduğu tablolar arasında bir dizi yol ile sunulmuştur,
+ Bırakın, hedefe en uygun olanı fark edilemez. ***
+
+ Biraz daha arka plan uygun olabilir.  IP ağ geçitleri
+ (daha doğru yönlendiriciler) bağlantıları olan kutulardır.
+ Birden fazla ağ ve bu ağlar arasında trafik geçirin.  Onlar
+ Paketin bilgilere göre nasıl gönderileceğine karar verin
+ Paketin IP üstbilgisinde ve ağın durumunda.
+ Bir yönlendiricideki her arayüzün benzersiz bir adresi vardır
+ bağlı olduğu ağa.  Bilgiler
+ Kullanılan IP başlığı öncelikle hedef adrestir.
+ Diğer bilgiler (örn. Hizmet türü) bu konuda büyük ölçüde göz ardı edilir
+ zaman.  Ağın durumu, geçen yönlendiriciler tarafından belirlenir
+ kendi aralarında bilgi.  Veritabanının dağılımı
+ (her düğümün bildiği), güncellemelerin şekli ve kullanılan metrikler
+ Bir bağlantının değerini ölçmek için parametreler
+ bir yönlendirme protokolünün özelliklerini belirler.
+
+ Bazı algoritmalar altında, ağdaki her düğümün tamamı
+ Ağın durumu hakkında bilgi (yetişkin algoritması).
+ Bu, düğümlerin daha büyük miktarlarda yerel olması gerektiği anlamına gelir
+ depolama ve büyük tabloları kısa bir süre arayacak kadar CPU
+ Yeterli zaman (bunun her paket için yapılması gerektiğini unutmayın).
+ Ayrıca, yönlendirme güncellemeleri genellikle yalnızca
+ mevcut bilgiler (veya büyük miktarda harcıyorsunuz
+ ağ kapasitesi megabayt yönlendirme güncellemeleri etrafında geçer).
+ Bu tür algoritmanın birkaç problemi vardır.  Sadece
+ Yönlendirme bilgilerinin aktarılmasının yolu
+ Ağ ve yayılma süresi önemsiz değildir,
+ Her düğümdeki ağın görünümü doğru bir geçmiştir
+ Ağın geçmişte değişen zamanlarda görünümü.  (
+ yetişkin algoritması, ancak doğrudan bakmak yerine
+ Yemek alanı, yemek odasının bir fotoğrafına bakarak.
+ Birinin en uygun yolu seçmesi ve bir otobüs arabası bulması muhtemeldir
+ fotoğraf çekildikten sonra yolu engellemek için harekete geçti).
+ Bu tutarsızlıklar dairesel yollara neden olabilir (
+ yönlendirme döngüleri) bir paketin girdiği yerde
+ Yaşama zamanı (TTL) alanının süresi sona erdirene kadar kapalı yol ve
+ atılır.
+
+ Diğer algoritmalar ağın yalnızca bir alt kümesini bilebilir.
+ Bu protokollerdeki döngüleri önlemek için genellikle
+ hiyerarşik bir ağ.  Onların tamamen biliyorlar
+ kendi alan, ama o bölgeyi terk etmek için belirli birine giderler
+ Yer (varsayılan ağ geçidi).  Tipik olarak bunlar içinde kullanılır
+ Daha küçük ağlar (kampüs, bölgesel ...).
+
+                             -10-
+
+ Güncel kullanımda yönlendirme protokolleri:
+
+ Statik (protokol tablosu/varsayılan yönlendirme yok)
+
+      Gülme.  Muhtemelen en güvenilir, en kolay
+      uygulamak için ve en az muhtemel
+      İnternette küçük bir ağ veya yaprak için.  Bu,
+      Ayrıca, bazı CPU ameliyatlarında bulunan tek yöntem
+      Sistem kombinasyonları. Bir ana bilgisayar bir Ethernet'e bağlıysa
+      sadece bir ağ geçidi var, biri bunu yapmalı
+      Ana bilgisayar için varsayılan ağ geçidi ve başka bir yönlendirme yapmayın. (Tabii ki bu ağ geçidi ulaşılabilirliği geçebilir
+      bir şekilde diğer tarafında bilgi).
+
+      Bir uyarı kelimesi, sadece çok dikkatli
+      Bir ağın ortasında statik yollar kullanmalıdır
+      bu da dinamik yönlendirme kullanıyor.  Geçen yönlendiriciler
+      Dinamik bilgiler bazen çelişkili ile karıştırılır
+      dinamik ve statik yollar.  Ev sahibiniz bir Ethernet'teyse
+      üzerindeki diğer ağlara birden çok yönlendirici ile ve
+      Yönlendiriciler kendi aralarında dinamik yönlendirme yapıyor,
+      Dinamik yönlendirmeye katılmak genellikle daha iyidir
+      statik rotalar kullanmaktan ziyade.
+
+
+ HUZUR İÇİNDE YATSIN
+
+      RIP, XNS'ye dayanan bir yönlendirme protokolüdür (Xerox Network
+      Sistem) IP ağları için uyarlanmıştır.  Birçok kişi tarafından kullanılır
+      Yönlendiriciler (Proteon, Cisco, UB ...) ve birçok BSD UNIX sistemi
+      BSD sistemleri tipik olarak "yönlendirilmiş" adlı bir program çalıştırın
+      Çalışan diğer sistemlerle bilgi alışverişi
+      HUZUR İÇİNDE YATSIN.  RIP küçük çaplı ağlar için en iyi şekilde çalışır
+      Bağlantılar eşit hızda.  Nedeni
+      Bu, hangi yolun olduğunu belirlemek için kullanılan metrik
+      En iyisi hop sayısıdır.  Bir atlama,
+      geçit.  Yani, aynı Ethernet'teki tüm makineler
+      Sıfır şerbetçiotu uzakta.  Bir yönlendirici bağlanırsa
+      Doğrudan çalışır, diğer tarafındaki bir makine
+      Yönlendirici bir atlama uzakta .... yönlendirme bilgileri olarak
+      bir ağ geçidinden geçer, ağ geçidi bir tane ekler
+      Atlama, onları net boyunca tutarlı tutmak için sayılır.
+      iş.  Bir ağın çapı,
+      Bir ağ içinde mümkün olan en büyük atlama sayımı.  Açık olmayan
+      Tünel olarak, 16'lık bir atlama sayısı Infinity olarak tanımlanır
+      RIP yani bağlantı kapalı. Bu nedenle RIP olmayacak
+      15'ten fazla ağ geçidi ile ayrılmış ana bilgisayarların
+      İletişim kurmak için boşluk.
+
+      Hop-sayım metrikleriyle ilgili diğer sorun, eğer
+      Bağlantıların farklı hızları vardır, bu fark değil
+
+                             -11-
+
+      atlama sayısına yansıyor. Yani tek bir hop uydu bağlantısı
+      (.5 saniyelik bir gecikme ile) 56KB'de kullanılır.
+      İki Hop T1 bağlantısı. Tıkanıklık bir
+      Bir bağlantının etkinliğinde azalma. Yani, bir bağlantı alırken
+      Daha sıkışık, Rip hala en iyisi olduğunu bilecek
+      Hop-sayım rotası ve atarak daha da tıkan
+      Bu bağlantı için kuyrukta daha fazla paket.
+
+      Protokol iyi belgelenmemiştir.  Bir grup insan
+      her ikisini de tanımlamak için bir RFC üretmek için çalışıyor
+      Mevcut RIP ve buna izin vermek için bazı uzantılar yapmak
+      Daha büyük ağlarla daha iyi başa çıkmak için.  Şu anda,
+      RIP için en iyi belgeler,
+      BSD "Yönlendirildi".
+
+
+ Yönlendirilmiş
+
+      4.2bsd sistemleri için RIP yapan yönlendirilmiş program,
+      birçok seçeneği var. En sık kullanılanlardan biri:
+      "yönlendirilmiş -q" (sessiz mod), bu da rip infor-
+      Mation ama asla yayınlamayın.  Bu bir
+      Birden çok rip konuşan kapılı bir ağda makine-
+      yollar.  Ana bilgisayarın hangi ağ geçidinin olduğunu belirlemesine izin verir
+      Uzak bir ağa ulaşmak için en iyisi (hopwise).  (İle ilgili
+      Elbette varsayılan bir ağ geçidine sahip olmak isteyebilirsiniz.
+      bilinen tüm adresleri geçmek zorunda
+      RIP ile internet).
+
+      Statik yolları "yönlendirilmiş" içine eklemenin iki yolu vardır,
+      "/etc/gateways" dosyası ve "rota ekle" komutu.
+      Statik rotalar, nasıl ulaşacağınızı biliyorsanız yararlıdır.
+      uzak ağ, ancak bu rotayı almıyorsunuz
+      RIP kullanarak.  Çoğunlukla "rota ekle" komutu
+      kullanımı tercih edilir.  Bunun nedeni,
+      komut, o makinenin yönlendirme tablosuna giden yolu ekler
+      ancak RIP aracılığıyla ihraç etmez.  "/Etc/ağ geçitleri"
+      Dosya, herhangi bir yönlendirme bilgisine göre öncelikli
+      bir RIP güncellemesi ile alındı. Ayrıca yayınlanır
+      Ana bilgisayar tarafından sorgulanmadan üretilen RIP güncellemelerinde gerçek,
+      "/etc/gateways" dosyasında bir hata yapılırsa,
+      Bu hata yakında rip alanına nüfuz edecek ve
+      Ağı dizlerine getirebilir.
+
+      "Yönlendirilmiş" ile ilgili sorunlardan biri çok sahip olmanız
+      neyin yayınlandığı ve ne olduğu üzerinde çok az kontrol
+      değil.  Çoğu zaman çeşitli ağlarda çeşitli
+      Ağın bazı bölümleri farklı yönetim altında
+      kontroller, sadece rip ağlarından geçmek istersiniz
+      RIP'den aldığınız ve biliyorsunuz ki makul.
+      Bu, insanların IP adresleri eklemesini önler.
+      yasadışı olabilecek ağ ve sen
+      onları internete aktarmaktan sorumlu.  Bu
+
+                             -12-
+
+      "yönlendirilmiş" ile mevcut değildir.
+      Ve kullanılabilir bırakın, ancak büyük ağlar için yetersiz.
+
+
+ Merhaba (RFC-891)
+
+      Merhaba, tasarlanmış bir yönlendirme protokolüdür ve
+      bir deneysel yazılım yönlendiricisinde uygulandı
+      PDP-11'de çalışan "Fuzzball". Yok
+      geniş kullanım, ancak şu anda kullanılan yönlendirme protokolü
+      NSFNet omurgasında.  Arasında aktarılan veriler
+      Düğümler RIP'ye benzer (ağların bir listesi ve
+      metrikler).  Bununla birlikte, metrik milisaniye gecikmedir.
+      Bu, merhaba çeşitli bağlantıya sahip ağlar üzerinde kullanılmasını sağlar
+      Konjestif durumlarda hızlandırır ve daha iyi performans gösterir.
+
+      Merhaba tabanlı en ilginç yan etkilerden biri
+      Ağlar onların harika zaman işleme yetenekleridir.  Eğer sen
+      Bir bağlantıdaki gecikmeyi ölçme sorununu düşünün
+      metrik, bunun kolay bir şey olmadığını görüyorsunuz
+      Yapmak.  Giderlik süresini ölçemezsiniz, çünkü
+      Dönüş bağlantısı daha sıkışık olabilir, farklı bir
+      hız, hatta orada değil.  Gerçekten mümkün değil
+      Ağdaki her düğüm için yerleşik bir WWV'ye sahip olmak için
+      (ülke çapında radyo zaman standardı) alıcı.  Yani sen
+      Arayla zaman geçirmek için bir algoritma tasarlamalı
+      Ağ üzerindeki düğümler, gecikmenin bulunduğu yer
+      Şanzıman sadece tahmin edilebilir.  Merhaba yönlendiriciler
+      Bunu yapın ve ülke çapında bir ağda senkronize
+      Milisaniye içinde zaman.
+
+
+ Dış Ağ Geçidi Protokolü (EGP RFC-904)
+
+      EGP kesinlikle bir yönlendirme protokolü değildir, bu bir erişimdir
+      Binite Protokolü. Yalnızca ağlara ulaşılabileceğini söyler
+      Belirli bir ağ geçidi aracılığıyla, bağlantı ne kadar iyi değil
+      tion.  Yerel ağ geçitlerinin
+      Nets, ulaşabilecekleri ağların arpanetini bilgilendirir.
+      EGP tarafından aktarılan bir metrik var, ancak kullanımı
+      resmi olarak standartlaştırılmamış.  Tipik değeri değerdir
+      bağlantı değerlerinin keyfi iyiliği olan 1 ila 8
+      Dahili DDN ağ geçitleri tarafından anlaşıldı. Daha küçük
+      Değer o kadar iyi ve 8 değerinin
+      hünerli.  Protokolün bir tuhaflığı
+      1 ve 2, 3 ve 4 arasında ...
+      Bir metrik üç değer ve ulaşılamaz.  İçinde
+      Nsfnet kullanılan değerler 1, 3 ve ulaşılamaz.  Birçok
+      Yönlendiriciler EGP'yi konuşur, böylece Arpanet Gateways için kullanılabilirler.
+
+                             -13-
+
+ Geçitli
+
+      Yani bölgesel ve kampüs ağlarımız var.
+      Kendi aralarında, NSFNet Omurga Konuşma
+      Merhaba, ve DDN konuşan EGP.
+      Nasıl birlikte çalışırlar?  Başlangıçta vardı
+      Fuzzball yazılımına monte edilmiş statik yönlendirme
+      her site için yapılandırılmıştır.  Yapma Sorunu
+      Ağın ortasındaki statik yönlendirme
+      İster kullanılabilir olsun veya internete yayınlanıyor veya
+      Olumsuz.  Bu nedenle, bir ağ ulaşılamaz hale gelirse ve siz
+      Oraya ulaşmaya çalışın, dinamik yönlendirme hemen
+      Sizin için ulaşılamayan bir net verin. Statik yönlendirme altında
+      yönlendiriciler ağın ulaşılabileceğini düşünür ve
+      uygulama vazgeçene kadar denemeye devam edecekti (içinde
+      2 veya daha fazla dakika).  Cornell Mark Fedor
+      (fedor@devvax.tn.cornell.edu) Bunları çözmeye çalıştı
+      "Gatated" olarak adlandırılan "yönlendirilmiş" yerini almasıyla ilgili sorunlar.
+
+      "Gated" konuşmalar konuşan ana bilgisayarları koparmak için RIP, EGP'den EGP'ye
+      hoparlörler ve Hello'ers'a merhaba.  Bu konuşmacılar
+      sık sık hepsi bir ethernet'te yaşıyor, ama neyse ki (veya
+      şanssızca) birbirlerinin ruminasyonlarını anlayamaz.
+      Ayrıca, yapılandırma dosyası kontrolü altında
+      Dönüşümü filtreleyin.  Örneğin, bir
+      Yalnızca merhaba ile rip ağlarını duyurarak yapılandırma
+      Bir listede belirtilmişlerse ve
+      RIP yayınının da yolu.  Bu,
+      Rogue Network, yerel sitenizin RIP alanında görünür,
+      merhaba tarafına geçilmeyecek
+      dünya.  Ayrıca yapılacak yapılandırma seçenekleri de var
+      Statik Yönlendirme ve Ad Güvenilir Ağ Geçitleri.
+
+      Bu dilimlendiğinden beri en büyük şey gibi gelebilir
+      Ekmek, ama metrik dönüşüm adı verilen bir yakalama var.
+      Şerbetçiotu ölçümünüz var, merhaba ölçüm
+      Milisaniye ve keyfi küçük sayılar kullanarak EGP.
+      Büyük sorular, bir milisaniye kaç tane atlama,
+      EGP 3 numarasında kaç milisaniye .... Ayrıca,
+      Infinity'nin (Ulaşılamazlık) 16 olduğunu unutmayın,
+      30000 veya daha fazla merhaba ve 8 EGP ile DDN.
+      Tüm bu metriklerin birlikte iyi çalışmasını sağlamak hayır
+      Küçük başarı.  Yanlış yapılırsa ve bir
+      16'lık bir EGP'ye 16 rip, Arpanet'teki herkes
+      hala ağ geçidinizin ulaşılamayana ulaşabileceğini düşünecek
+      Ve dünyadaki her paketi sizin yolunuza gönderecek.  İçin
+      Bu nedenler, Mark yakından danışmanızı ister
+      "kapılı" ı yapılandırırken ve kullanırken onunla.
+
+                             -14-
+
+ "İsimler"
+
+ Ağ üzerindeki tüm yönlendirme IP aracılığıyla yapılır
+ bir paketle ilişkili adres. İnsanlar bulduğundan beri
+ 128.174.5.50, sembolik gibi adresleri hatırlamak zor
+ NIC'de isim kaydı kuruldu.
+ "Ev sahibimin 'UiuCuxc' olarak adlandırılmasını istiyorum."  Makineler
+ Ülke genelindeki internete bağlı
+ Gecenin ortasında NIC, değişiklik tarihlerini kontrol edin
+ Ana bilgisayarlar dosyasında ve değiştirilirse, yerellerine taşıyın
+ makine.  İş istasyonlarının ve mikroların ortaya çıkmasıyla,
+ Ana bilgisayar dosyasındaki değişikliklerin her gece yapılması gerekecektir.  BT
+ Ayrıca çok emek yoğun olur ve çok fazla tüketir
+ ağ bant genişliği. RFC-882 ve birkaç kişi tanımlıyor
+ Etki alanı adı hizmeti, dağıtılmış bir veri tabanı sistemi için
+ Adları adreslerle eşleme.
+
+ Bir addaki şeylere biraz daha yakından bakmalıyız.
+ İlk olarak, bir adresin belirli bir bağlantıyı belirlediğini unutmayın.
+ belirli bir ağda.  Makine hareket ederse,
+ adres değişiklikleri.  İkincisi, bir makinenin bir veya daha fazlası olabilir
+ adlar ve bir veya daha fazla ağ adres (bağlantılar)
+ farklı ağlar.  İsimler yapan bir şeye işaret ediyor
+ Yararlı çalışma (yani makine) ve IP adresleri bir
+ Bu sağlayıcı üzerindeki arayüz.  Bir isim tamamen semboliktir
+ Ağdaki adreslerin bir listesinin temsili.  Eğer
+ Makine farklı bir ağa geçer, adresler
+ değişim ama isim aynı kalabilir.
+
+ Etki alanı adları, kökü ile ağaç yapılandırılmış isimlerdir.
+ sağda ağaç.  Örneğin:
+
+                       uxc.cso.uiuc.edu
+
+ içinde 'UXC' (tamamen keyfi) adı verilen bir makine
+ I) ve 'UIUC' un tahsisi yöntemi
+ (Urbana'daki Illinois Üniversitesi),
+ 'edu' (eğitim kurumları kümesi).
+
+ Bir ismin nasıl çözüldüğüne dair basitleştirilmiş bir model
+ Kullanıcı Makinesi Bir çözümleyici var.  Çözücü nasıl olduğunu biliyor
+ Ağ üzerinden bir kök adı sunucusu ile iletişim kurmak için. Kök
+ Sunucular, ağaç yapılandırılmış veri alımının tabanıdır
+ sistem.  İlk önce kimin sorumlu olduğunu biliyorlar
+ seviye alanları (örneğin 'edu').  Hangi kök sunucular kullanılır
+ Kurulum parametresi. Kök sunucusundan çözümleyici
+ Kimin 'Edu' hizmeti sağladığını öğrenir.  'Edu' ile temasa geçer
+ Adresler listesi ile sağlayan ad sunucusu
+ Alt alanlar için sunucular ('UIUC' gibi).  Bu eylem
+ son alt- kadar alt alan sunucuları ile tekrarlanır
+ Domain Ana bilgisayar üzerindeki arayüz adreslerinin bir listesini döndürür
+ söz konusu.  Kullanıcının makinesinin seçimi var
+ İletişim için bu adreslerden hangisi.
+
+                             -15-
+
+ Bir grup kendi alan adı için başvurabilir ('UIUC' gibi
+ üstünde).  Bu, IP adresine benzer bir şekilde yapılır
+ paylaştırma.  Tek gereksinim, isteklinin
+ İnternetten ulaşılabilecek iki makinenin
+ Bu etki alanı için ad sunucuları olarak hareket edin.  Bu sunucular yapabilir
+ ayrıca alt alanlar veya diğer sunucular için sunucu olarak hareket edebilir
+ Bu şekilde belirlenir.  Sunucuların olması gerekmediğini unutmayın
+ Herhangi bir yerde, ulaştıkları sürece
+ İsim çözümü için.  (U michigan eyaletine sorabilirim
+ onun adına hareket etmek ve bu iyi olurdu).  En büyüğü
+ Sorun, birisinin veritabanında bakım yapması gerektiğidir.
+ Makine uygun değilse, bu yapılmayabilir
+ zamanında bir moda.  Dikkat edilmesi gereken diğer bir şey, bir zamanlar
+ Alan adı bir idari kuruluşa tahsis edilir, bu varlık
+ Alt alanları ne şekilde kullanarak serbestçe tahsis edebilir
+ uygun görür.
+
+ Berkeley İnternet Adı Etki Alanı (Bind) Sunucusu Uygular
+ Unix sistemleri için internet adı sunucusu.  Ad Sunucusu
+ istemcilerin
+ kaynakları adlandırın ve bu bilgileri diğer net ile paylaşmak
+ iş ev sahipleri.  Bind 4.3bsd ile entegre edilir ve
+ Ev sahibi adlarını, adresleri, posta aracılarını, ev sahibi arama ve depolama
+ bilgi ve daha fazlası.  "/Etc/hosts" dosyasını değiştirir
+ Ev sahibi adı arama.  Bind hala gelişen bir programdır.  İle
+ Operasyonel sorunlar, gelecekteki tasarımla ilgili raporlara ayak uydurun
+ Kararlar, vb. Bir göndererek Bind Posta listesine katılın
+ "Bind-request@ucbarp.berkeley.edu" isteği.  Bağlama da olabilir
+ Ucbarpa.berkley.edu adresinden anonim FTP aracılığıyla alınmalıdır.
+
+ Bind kullanmanın birkaç avantajı vardır.  En çok
+ Önemli olan, bir ana bilgisayarın "/etc/hosts" a güvenmesini serbest bırakmasıdır.
+ güncel olmak ve tamamlanmak.  .Uiuc.edu alanında,
+ Dağıtılmış ana masaya yalnızca birkaç ana bilgisayar eklenmiştir
+ Sri tarafından.  Kalan, bağın içinde yerel olarak listelenmiştir
+ Uxc.cso.uiuc.edu'daki tablolar (çoğu için sunucu makinesi
+ .uiuc.edu alanı).  Hepsinden eşit derecede ulaşılabilir
+ Diğer internet ana bilgisayar çalıştırma.
+
+ Bind ayrıca inte için posta yönlendirme bilgileri sağlayabilir.
+ Rior ana bilgisayarlar doğrudan internetten ulaşılamaz.  Bunlar
+ Ana bilgisayarlar ya reklamsız ağlarda olabilir veya con-
+ UUCP'nin sağlanabilmesi durumunda olduğu gibi bir ağa eklenmiştir
+ ana bilgisayarlar.  Bind hakkında daha fazla bilgi "adında mevcuttur
+ "Unix System Manager's"
+ Manuel ", 4.3bsd sürümü.
+
+ Ağda Sri- gibi birkaç özel alan var.
+ Nic.arpa.  'ARPA' alanı tarihseldir,
+ NIC'deki eski ana bilgisayar veritabanında kayıtlı ana bilgisayarlar.
+ Nnsc.nsf.net formunun başkaları da var.  Bunlar özel
+ Alanlar az miktarda kullanılır ve geniş bir gerekçe gerektirir.
+ İdari kontrol altındaki sunuculara atıfta bulunurlar.
+
+                             -16-
+
+ herhangi bir kuruluş yerine ağ.  Bu
+ gerçek sunucunun ağ etrafında taşınmasını sağlar
+ Bu makineye kullanıcı arayüzü sabit kalır.
+ Yani, BBN NNSC'nin kontrolünden vazgeçmelidir, yeni
+ Sağlayıcı bu isimle işaret edilecektir.
+
+ Gerçekte, etki alanı sistemi çok daha genel ve
+ tarif edildiğinden daha karmaşık sistem. Çözücüler ve bazıları
+ Sunucular, çözünürlükteki adımlara izin vermek için bilgileri önbelleğe alıyor
+ atlanacak.  Sunucular tarafından sağlanan bilgiler olabilir
+ keyfi, sadece IP adresleri değil.  Bu sistemi sağlar
+ hem IP olmayan ağlar hem de posta için kullanılacak, nerede
+ ara posta hakkında bilgi vermek için gerekli olabilir
+ Köprüler.
+
+
+ Berkeley Unix'in nesi yanlış
+
+ Berkeley'deki California Üniversitesi tarafından finanse edildi
+ DARPA, UNIX sistemini çeşitli şekillerde değiştirmek için.
+ Bu modifikasyonlara internet için destek var
+ Protokoller.  Önceki sürümlerde (örn. BSD 4.2)
+ Temel İnternet protokolleri için iyi destek (TCP, IP,
+ SMTP, ARP) IP eterinde güzel performans göstermesine izin veriyor-
+ ağlar ve daha küçük internetler.  Eksiklikler vardı, nasıl-
+ Her zaman, karmaşık ağlara bağlandığında.  En
+ Bu sorunların en yenisi altında çözüldü
+ Sürüm (BSD 4.3).  Çünkü sıçrama tahtası
+ Birçok satıcı Unix uygulamalarını başlattı (ya
+ mevcut kodu taşıma veya model olarak kullanılarak), birçok
+ Uygulamalar (örn. Ultrix) hala BSD 4.2'ye dayanmaktadır.
+ Bu nedenle, BSD 4.2 ile hala birçok uygulama var
+ Sorunlar.  Zaman geçtikçe, BSD 4.3 kandırdığında
+ Satıcılar yeni sürüm olarak, sorunların çoğu
+ çözüldü.  Aşağıda bazı sorun senaryolarının bir listesi ve
+ Bu sürümlerin her biri altında kullanımı.
+
+ ICMP yönlendirmeleri
+
+      İnternet modeli altında, bir sistemin bilmesi gerekir
+      İnternette herhangi bir yere olsun kendi adresidir,
+      nereye gitmek istediği adres ve nasıl ulaşılacağı
+      İnternet hakkında bilen ağ geçidi.  Değil
+      En iyi geçit olmak zorunda.  Sistem bir
+      birden çok ağ geçidi ile ağ ve bir ana bilgisayar bir
+      Başka bir ağ geçidine teslimat için paket
+      Doğrudan bağlı ağ geçidi daha uygundur,
+      Gateway gönderene mesaj gönderir.  Bu mesaj bir
+      ICMP yönlendirme, kibarca "Bunu teslim edeceğim
+      size mesaj, ama gerçekten o kapıyı kullanmalısın
+      Bu ana bilgisayara ulaşmak için orada ". BSD 4.2 görmezden geliyor
+      bu mesajlar.  Bu kapı üzerinde daha fazla stres yaratır.
+      Her paket için yollar ve yerel ağ
+
+                             -17-
+
+      Gönderilen ağ geçidi, kaynağına bir paket gönderir.
+      BSD 4.3, yönlendirme tablolarını güncellemek için yönlendirmeyi kullanır,
+      rotayı zamana kadar kullanacak, sonra geri dönecek
+      Düşündüğü rotanın kullanılması gerekmektedir.  .
+      O zaman tüm süreç tekrarlar, ancak çok daha iyi
+      paket başına bir.
+
+ Römork
+
+      Bir uygulama (FTP gibi) bir dizi sekizli
+      Onu parçalara ayıran ve bir TCP başlığı ekleyen TCP.
+      TCP daha sonra IP'ye veri blokları gönderir ve bu da kendi
+      başlıklar ve paketleri ağ üzerinden gönderir.  Tüm
+      Verilerin başlıklarla bu hazırlanması belleğe neden olur
+      hem gönderme hem de alıcı makinelerde hareket eder.
+      Birisi paketler uzun olsaydı parlak bir fikir edindi
+      Ve başlıkları sonunda taktılar (oldular
+      römorklar), alıcı makine paketi koyabilir
+      bir sayfa sınırının başlangıcında ve fragman
+      Tamam, sadece silin ve kontrolü aktarın
+      Bellek hareketi olmadan sayfa.  Sorun
+      Bu fragmanlar asla standartlaştırılmadı ve çoğu ağ geçidi
+      Yönlendirme bilgilerini aramayı bilmiyorum
+      bloğun sonu.  Römorklar kullanıldığında, makine
+      Genellikle yerel ağda iyi çalışır (ağ geçidi yok
+      ve ağ geçitleri boyunca kısa bloklar için (açık
+      hangi fragmanlar kullanılmıyor).  Yani telnet ve ftp'ler
+      Çok kısa dosyalar gayet iyi çalışıyor ve uzun dosyaların ftp'leri
+      Asmak gibi görünüyor.  BSD 4.2 fragmanları bir önyükleme seçeneğidir
+      ve kullanılırken kapalı olduklarından emin olmak gerekir
+      İnternet.  BSD 4. 3 fragman müzakere eder, bu yüzden bunları kullanır
+      yerel ağında ve geçerken onları kullanmıyor
+      ağ.
+
+ Yeniden iletim
+
+      TCP, en uzak ucundaki partnerine blokları ateşler.
+      bağlantı.  Bir onay almazsa
+      makul bir sürede yeniden canlandırır
+      bloklar.  Makul olanın belirlenmesi
+      TCP'nin yeniden iletim algoritması ile yapılır.  Hayır yok
+      Doğru algoritma ancak bazıları diğerlerinden daha iyidir,
+      daha iyisi, retransmis sayısı ile ölçülür
+      gereksiz yere yapıldı.  BSD 4.2'nin yeniden iletimi vardı
+      Hızlı ve sık yeniden iletilen algoritma.  Bu
+      Bir sürü varsa tam olarak ne istersen
+      Ethernet'teki makineler (düşük gecikmeli büyük ağ
+      bant genişliği).  Nispeten daha uzun bir ağınız varsa
+      Gecikme ve kıt bant genişliği (örn. 56KB çizgiler), eğilim
+      Çok agresif bir şekilde yeniden canlandırmak.  Bu nedenle yapar
+      Ağlar ve ağ geçitleri
+      Belirli bir konuşma için gerçekten gerekli.  Retransmis-
+      Sion algoritmaları ağın gecikmesine uyum sağlar
+
+                             -18-
+
+      Birkaç paketten sonra, ancak 4.2'ler gecikmede yavaşça uyum sağlar
+      durumlar.  BSD 4.3 çok daha iyisini yapar ve yapmaya çalışır
+      Her iki dünya için de en iyisi.  Birkaçını ateşler
+      Yeniden yapılandırmalar gerçekten düşük olduğunu varsayarak
+      Ağı geciktirin ve sonra çok hızlı bir şekilde desteklenir.  BT
+      Ayrıca gecikmenin ondan yaklaşık 4 dakika önce olmasını sağlar
+      Var ve bağlantının kırıldığını beyan eder.
+
+                             -19-
+                            Ek A
+                İyileştirici bilgilere referanslar
+
+
+      Quaterman ve Hoskins, "dikkate değer bilgisayar ağları",
+      ACM İletişim, Cilt 29, #10, s. 932-971
+      (Ekim 1986).
+
+      Tannenbaum, Andrew S., Bilgisayar Ağları, Prentice
+      Hall, 1981.
+
+      Hedrick, Chuck, İnternet Protokollerine Giriş,
+      Topaz.rutgers.edu'dan anonim FTP, dizin
+      Pub/TCP-IP-Docs, Dosya TCP-IP-Intro.doc.
+
+                             -20-
+
+                            Ek B
+                        Büyük RFC'lerin listesi
+
+
+RFC-768 Kullanıcı Datagram Protokolü (UDP)
+RFC-791 İnternet Protokolü (IP)
+RFC-792 İnternet Kontrol Mesaj Protokolü (ICMP)
+RFC-793 Şanzıman Kontrol Protokolü (TCP)
+RFC-821 Basit Posta Aktarım Protokolü (SMTP)
+ARPA İnternet Metin Mesajları Biçimi için RFC-822 Standardı
+RFC-854 Telnet Protokolü
+RFC-917 * İnternet Alt Ağları
+RFC-919 * Yayın İnternet Datagramları
+RFC-922 * Alt ağların varlığında İnternet Datagramları yayınlamak
+RFC-940 * alt ağ için bir İnternet Standart Şeması'na doğru
+RFC-947 * İnternette Çok Ağ İşi Yayınları
+RFC-950 * İnternet Standart Alt Ağ Prosedürü
+RFC-959 Dosya Aktarım Protokolü (FTP)
+RFC-966 * Ana bilgisayar grupları: İnternet protokolüne çok noktaya yayın uzantısı
+RFC-988 * IP çok noktaya yayın için ana bilgisayar uzantıları
+RFC-997 * İnternet Numaraları
+RFC-1010 * Atanan numaralar
+RFC-1011 * Resmi ARPA-Internet Protokolleri
+
+      Yıldız işareti ile işaretlenmiş RFC'ler (*) dahil edilmez.
+      1985 DDN Protokol El Kitabı.
+
+      Not: Bu liste, RFC'lerin bir listesinin bir kısmıdır.
+      NetInfo altındaki NIC'den alınan konu: rfc-sets.txt
+      (elbette anonim FTP). Bağlantı için aşağıdaki liste gerekli değildir
+      İnternet, ancak alan adını anlamada yararlıdır
+      Sistem, posta sistemi ve ağ geçitleri:
+
+RFC -882 Alan Adları - Kavramlar ve Tesisler
+RFC -883 Etki Alanı Adları - Uygulama
+RFC-973 Etki Alanı Sistemi Değişiklikleri ve Gözlemleri
+RFC-974 Posta Yönlendirmesi ve Etki Alanı Sistemi
+İnternet Ağ Geçitleri için RFC-1009 Gereksinimleri
+
+                              -21-
+
+                            Ek C
+              Ağ bilgileri için iletişim noktaları
+
+
+ Ağ Bilgi Merkezi (NIC)
+
+      DDN Ağ Bilgi Merkezi
+      Sri International, Oda EJ291
+      333 Ravenswood Bulvarı
+      Menlo Park, CA 94025
+      (800) 235-3155 veya (415) 859-3695
+      Nic@sri-nic.arpa
+
+
+ NSF Ağ Servis Merkezi (NNSC)
+
+      NNSC
+      BBN Laboratuvarları A.Ş.
+      10 Moulton St.
+      Cambridge, MA 02238
+      (617) 497-3400
+      Nnsc@nnsc.nsf.net
+
+                             -22-
+
+                           Sözlük
+
+ çekirdek ağ geçidi
+
+Arpanet'in en içteki geçitleri.  Bunlar
+Ağ geçitlerinin tam bir resmine sahip
+Arpanet tarafından bilinen tüm ağlara bükülme
+EGP ile.  Daha sonra erişimi yeniden dağıtıyorlar.
+tüm bu ağ geçitlerine bilgi
+EGP.  Onlardan EGP ajanınız
+(Eğer bir yerde senin için bir oyunculuk var
+arpanet'e ulaşabilir) ulaşabileceğini öğrenir
+Arpanet üzerindeki tüm ağlar. O zaman
+Merhaba, kapılı, rip ile size geçti ...
+
+ Sonsuzluğa Say
+
+Bir yönlendirme sorununun belirtisi
+Yönlendirme bilgileri bir dairesel içinde geçirilir
+Birden fazla ağ geçidi boyunca.  Her kapı-
+Yol metriği uygun şekilde arttırır ve
+onu aktarır.  Metrik geçerken
+Döngü, artan artan artış
+değerler için maksimum değere ulaşana kadar değerler
+Tipik olarak kullanılan yönlendirme protokolü
+Bir bağlantı kesintisini gösterir.
+
+ azaltmak
+
+Bir yönlendirici ağdaki bir yolu keşfettiğinde
+bu yolun olduğunu duyurdu
+minimum süre boyunca aşağı (genellikle
+en az iki dakika).  Bu, pro-
+Yönlendirme bilgilerinin pagasyonu
+ağ ve oluşumunu önler
+yönlendirme döngüleri.
+
+ bölünmüş ufuk
+
+Bir yönlendirici (veya içinde çalışan yönlendirici grubu
+Consort) Mul'dan yönlendirme bilgilerini kabul edin
+İpucu harici ağları, ancak geçmeyin
+Bir harici ağdan öğrenilen bilgiler
+başkalarına.  Bu önleme girişimi
+sahte bir ağa yayılmaktan
+dedikodu veya sonsuzluk sayımı nedeniyle.
+
+                             -23-
+
+
+
+
+
+
+
+
+Ed Krol tarafından Project Gutenberg'in Otobüs Kılavuzu İnternet Rehberi
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HITCHHIKER'S GUIDE TO THE INTERNET ***
+
+***** This file should be named 39.txt or 39.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/39/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
