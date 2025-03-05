@@ -143,6 +143,13 @@ Gelişmeleri buradan duyurmaya devam edeceğim.
  
 
 ## Developments
+2025-03-05
+
+I created a json formatted file by adding Turkish proverbs to the web scans I made and the ones I obtained from Claude, Gemini, Grok3 and Chatgpt queries. The file named atasozleri.json is located in the atasozleri/json/ folder.
+
+2025-03-05
+
+Türkçe atasözlerini, web üzerinden yaptığım taramalara Claude, Gemini, Grok3 ve Chatgpt sorgularından elde ettiklerimi de katarak json formatlı bir dosya oluşturdum. atasozleri.json isimli dosya atasozleri/json/ klasöründe yer alıyor.
 
 2025-02-24
 

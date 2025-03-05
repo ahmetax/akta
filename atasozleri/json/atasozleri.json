@@ -1,0 +1,3900 @@
+{
+  "atasozleri": [
+    {
+      "atasozu": "Ağaç yaşken eğilir.",
+      "anlam": "İnsanlar, özellikle gençken kolay eğitilir ve şekillendirilir; yaş ilerledikçe bu zorlaşır."
+    },
+    {
+      "atasozu": "Damlaya damlaya göl olur.",
+      "anlam": "Küçük birikimlerin zamanla büyük sonuçlar doğurabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Sakla samanı, gelir zamanı.",
+      "anlam": "Şimdilik gereksiz gibi görünen şeyleri saklamanın, ileride ihtiyaç duyulduğunda faydalı olabileceğini belirtir."
+    },
+    {
+      "atasozu": "Bir elin nesi var, iki elin sesi var.",
+      "anlam": "Tek başına yapılan işlerin değil, yardımlaşmayla yapılan işlerin daha etkili ve başarılı olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Ayağını yorganına göre uzat.",
+      "anlam": "Harcamalarını veya planlarını sahip olduğun imkanlara göre yapmalısın, fazlasına kalkışma."
+    },
+    {
+      "atasozu": "El elden üstündür.",
+      "anlam": "Her zaman senden daha yetkin veya güçlü biri olabilir, kimse kendini en iyi sanmamalı."
+    },
+    {
+      "atasozu": "Bana arkadaşını söyle, sana kim olduğunu söyleyeyim.",
+      "anlam": "Bir insanın karakteri, beraber vakit geçirdiği arkadaşlarından anlaşılabilir."
+    },
+    {
+      "atasozu": "Taş yerinde ağırdır.",
+      "anlam": "Herkes kendi yerinde, kendi görevinde değerlidir."
+    },
+    {
+      "atasozu": "Tatlı dil yılanı deliğinden çıkarır.",
+      "anlam": "Güzel ve nazik sözlerle zor işlerin bile başarılabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Üzüm üzüme baka baka kararır.",
+      "anlam": "İnsanların çevrelerindeki kişilerden etkilendiğini, iyi veya kötü huylar kazandığını belirtir."
+    },
+    {
+      "atasozu": "Az kazanan çok kazanır.",
+      "anlam": "Küçük ama düzenli kazançlar, büyük ama düzensiz kazançlardan daha iyidir."
+    },
+    {
+      "atasozu": "Ağaç kovuğunda kuzu, ağlayan keçiyle olur.",
+      "anlam": "Birçok kişi, başarılı olabilmek için belirli zamanlarda birbirlerine yardımcı olurlar."
+    },
+    {
+      "atasozu": "Alnı secdeye değen, yüce olur.",
+      "anlam": "İnsanın, iyi ve doğru işler yaparak yüksek mertebelere gelmesi gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Altın bilezik, her zaman kazandırır.",
+      "anlam": "Değerli birikimler, her zaman fayda sağlar. İş veya yatırımda değerli şeyler uzun vadede kazandırır."
+    },
+    {
+      "atasozu": "Ateş olmayan yerden duman çıkmaz.",
+      "anlam": "Her olayın bir nedeni vardır."
+    },
+    {
+      "atasozu": "Ağaç kökünden, insan aklından.",
+      "anlam": "Her şeyin temeli sağlam olmalı, aksaklıklar temelden çözülmelidir."
+    },
+    {
+      "atasozu": "Akıl yaşta değil, baştadır.",
+      "anlam": "Yaşın ilerlemesi insanı her zaman akıllı yapmaz, asıl akıl ve olgunluk içsel bir durumdur."
+    },
+    {
+      "atasozu": "Aç ayı oynamaz.",
+      "anlam": "İnsanlar açken veya temel ihtiyaçları karşılanmadığında verimli olamazlar."
+    },
+    {
+      "atasozu": "Ateşle barut bir arada durmaz.",
+      "anlam": "Zıt karakterlerin bir arada yaşaması zordur, uyumsuzluk yaratabilir."
+    },
+    {
+      "atasozu": "Araba devrilince yol gösteren çok olur.",
+      "anlam": "Bir hata olduktan sonra akıl verenlerin çoğaldığını belirtir."
+    },
+    {
+      "atasozu": "Akıllı düşman, cahil dosttan iyidir.",
+      "anlam": "Gerçekten iyi bir dost, zaman zaman zarar verebilir, ama akıllı bir düşman daha güvenli olabilir."
+    },
+    {
+      "atasozu": "Ağaçların da kurusu vardır.",
+      "anlam": "Her şeyin içinde kötü ve gereksiz olan bir parça bulunabilir."
+    },
+    {
+      "atasozu": "Az laf, çok iş.",
+      "anlam": "Sözlerden çok, iş yapmanın önemli olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Açık denizde batmak, daldan düşmekten daha kolaydır.",
+      "anlam": "Büyük riskler, küçük hatalardan daha kolay gerçekleşebilir."
+    },
+    {
+      "atasozu": "Açlıkta dostlar, en zor zamanlarda en iyi dostlardır.",
+      "anlam": "Zor zamanlar, gerçeği görmemizi sağlar. Kimlerin gerçek dost olduğunu ancak zorluklar ortaya çıkarır."
+    },
+    {
+      "atasozu": "Aç gözlülük zarar getirir.",
+      "anlam": "Hırs, insanı kötü yollara sürükler ve sonunda zarar verir."
+    },
+    {
+      "atasozu": "Akıl, iyi bir dosttur ama dikkat edilmezse düşmana dönüşebilir.",
+      "anlam": "Akıl doğru şekilde kullanılmazsa, insanı yanıltabilir ve tehlikeye sokabilir."
+    },
+    {
+      "atasozu": "Ağaçların her biri kendi kökünden büyür.",
+      "anlam": "İnsanlar da, kendi geçmişlerinden, değerlerinden ve kültürlerinden etkilenirler."
+    },
+    {
+      "atasozu": "Alın teri, ekmek parasıdır.",
+      "anlam": "Çalışarak kazanılan para, en değerli paradır."
+    },
+    {
+      "atasozu": "Açlık, korkuya yol açar.",
+      "anlam": "İnsan, açlık ve sıkıntı içinde korkuya kapılabilir ve sağlıklı kararlar alamaz."
+    },
+    {
+      "atasozu": "Aptala bilgi vermek boşa vakit kaybıdır.",
+      "anlam": "Her insan her şeyi anlamaz, bazen bilgiyi doğru kişiye vermek gerekir."
+    },
+    {
+      "atasozu": "Ağaçlar rüzgarı sever, insanlar zorlukları.",
+      "anlam": "Zorluklar ve engeller, insanları daha güçlü ve dirençli hale getirir."
+    },
+    {
+      "atasozu": "Aşk acısı, başa gelen en kötü hastalıktır.",
+      "anlam": "Aşk, insanı derinden etkileyen ve zorlayabilen bir duygudur."
+    },
+    {
+      "atasozu": "Aşkın gözü kördür.",
+      "anlam": "Aşk, insanı gerçekleri görmemeye, mantıklı düşünememeye yönlendirebilir."
+    },
+    {
+      "atasozu": "Atı alan Üsküdar'ı geçti.",
+      "anlam": "Zamanında harekete geçmeyen kişi, fırsatları kaçırır."
+    },
+    {
+      "atasozu": "Açık hava, sağlığa iyi gelir.",
+      "anlam": "Temiz hava ve doğal ortam insan sağlığını olumlu yönde etkiler."
+    },
+    {
+      "atasozu": "Aç gözlü insanlar, asla doymaz.",
+      "anlam": "Hırsı ve doyumsuzluğu olan insanlar, her zaman daha fazlasını ister."
+    },
+    {
+      "atasozu": "Araba yolda giderken, taş yerinde ağırdır.",
+      "anlam": "İşlerin yolunda gittiği zaman, her şey yerli yerindedir."
+    },
+    {
+      "atasozu": "Ağaç, kökünden değil, dalından devrilir.",
+      "anlam": "İnsanların zayıf yönleri bazen içten değil, dışarıdan gelebilir."
+    },
+    {
+      "atasozu": "Baba koruk yer, oğlunun dişi kamaşır.",
+      "anlam": "Büyüklerin yaptığı hataların bedelini küçükler öder."
+    },
+    {
+      "atasozu": "Baca eğri de olsa dumanı doğru çıkar.",
+      "anlam": "Bir şeyin temeli düzgün olmasa bile, doğru bir şekilde sonuçlanabilir."
+    },
+    {
+      "atasozu": "Bağa bak üzüm olsun, yemeye yüzün olsun.",
+      "anlam": "Bir şeyin meyvesini yemek için ona gereken özeni göstermek gerekir."
+    },
+    {
+      "atasozu": "Bakarsan bağ, bakmazsan dağ olur.",
+      "anlam": "Her şey ilgi ve emekle güzelleşir, ihmal edilirse kötüleşir."
+    },
+    {
+      "atasozu": "Balık baştan kokar.",
+      "anlam": "Bir işte veya toplulukta bozukluk varsa, bu genellikle liderden veya üstten başlar."
+    },
+    {
+      "atasozu": "Bal tutan parmağını yalar.",
+      "anlam": "Bir işte çalışan kişinin, o işten bir fayda sağlayacağını belirtir."
+    },
+    {
+      "atasozu": "Bana benden olur, ne olursa.",
+      "anlam": "İnsan başına gelenlerin çoğunu kendisi hazırlar."
+    },
+    {
+      "atasozu": "Bana dokunmayan yılan bin yaşasın.",
+      "anlam": "Bazı insanlar, kendilerine zarar gelmedikçe kötülüklere ses çıkarmazlar."
+    },
+    {
+      "atasozu": "Bıçak yarası geçer, dil yarası geçmez.",
+      "anlam": "Sözle yapılan incitici davranışlar, fiziksel yaralardan daha uzun süre iz bırakır."
+    },
+    {
+      "atasozu": "Bir çiçekle bahar olmaz.",
+      "anlam": "Tek bir iyi gelişme, büyük bir değişiklik yaratmaz."
+    },
+    {
+      "atasozu": "Bir başağa bakıp tarla biçilmez.",
+      "anlam": "Bir şeyi değerlendirirken yalnızca tek bir örneğe bakmak doğru olmaz."
+    },
+    {
+      "atasozu": "Boş çuval ayakta durmaz.",
+      "anlam": "İçi boş olan şeyler değersizdir."
+    },
+    {
+      "atasozu": "Büyük lokma ye, büyük söz söyleme.",
+      "anlam": "Kibirli konuşmaktan kaçınmalı, başına ne geleceğini bilemezsin."
+    },
+    {
+      "atasozu": "Bulut geçer, güneş kalır.",
+      "anlam": "Geçici sıkıntılar kalıcı değildir, sonunda güzel günler gelir."
+    },
+    {
+      "atasozu": "Cahile söz anlatmak, deveye hendek atlatmaktan zordur.",
+      "anlam": "Bilgisiz ve anlayışsız insanlara bir şey öğretmek çok zordur."
+    },
+    {
+      "atasozu": "Cahil adam, meyve vermeyen ağaca benzer.",
+      "anlam": "Bilgisiz insan, topluma fayda sağlayamaz."
+    },
+    {
+      "atasozu": "Cahilin dostluğundan, alimin düşmanlığı yeğdir.",
+      "anlam": "Bilgisiz birinin dostluğu zarara yol açabilir, ama bilge bir düşman bile bilinçli hareket eder."
+    },
+    {
+      "atasozu": "Can boğazdan gelir.",
+      "anlam": "İnsan, sağlıklı ve güçlü olmak için iyi beslenmelidir."
+    },
+    {
+      "atasozu": "Can çıkmayınca huy çıkmaz.",
+      "anlam": "İnsanın kötü alışkanlıkları kolay kolay değişmez."
+    },
+    {
+      "atasozu": "Can cümleden azizdir.",
+      "anlam": "İnsan, her şeyden çok kendi canını düşünür."
+    },
+    {
+      "atasozu": "Cana gelecek mala gelsin.",
+      "anlam": "Maddi kayıpların, can kaybından daha önemsiz olduğunu belirtir."
+    },
+    {
+      "atasozu": "Cami ne kadar büyük olsa da imam bildiğini okur.",
+      "anlam": "Bir iş yerinde veya toplulukta, yetkili kişi kendi bildiğini yapar."
+    },
+    {
+      "atasozu": "Camiye bak imamı, köye bak muhtarı tanı.",
+      "anlam": "Bir toplumun düzenini anlamak için yöneticilerine bakmak yeterlidir."
+    },
+    {
+      "atasozu": "Cenabet teriyle gusül abdesti alınmaz.",
+      "anlam": "Yanlış ve eksik yollarla doğru sonuçlara ulaşmak mümkün değildir."
+    },
+    {
+      "atasozu": "Cennet anaların ayakları altındadır.",
+      "anlam": "Anneler, büyük bir saygıyı ve sevgiyi hak ederler."
+    },
+    {
+      "atasozu": "Cesurun bakışı, korkağın kılıcından keskindir.",
+      "anlam": "Cesur bir insanın duruşu bile, korkak birinin silahından daha etkilidir."
+    },
+    {
+      "atasozu": "Cömert derler maldan ederler, yiğit derler candan ederler.",
+      "anlam": "Aşırı övgünün kişiyi zor duruma düşürebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Cömert, cömertliğiyle anılır.",
+      "anlam": "İnsan, yaptığı iyilik ve cömertlikle tanınır."
+    },
+    {
+      "atasozu": "Cömertlik eden zarar etmez.",
+      "anlam": "Başkalarına yardım eden kişi, sonunda kazançlı çıkar."
+    },
+    {
+      "atasozu": "Ceviz kabuğunda fırtına koparmak.",
+      "anlam": "Önemsiz bir konuyu büyütüp sorun haline getirmek."
+    },
+    {
+      "atasozu": "Çekirge bir sıçrar, iki sıçrar, üçüncüsünde yakalanır.",
+      "anlam": "Hile yapan kişi bir süre yakalanmaz ama sonunda cezasını bulur."
+    },
+    {
+      "atasozu": "Cahil kendini bilge sanır, bilge ise kendini cahil görür.",
+      "anlam": "Gerçekten bilgili insanlar, öğrenmeye açık olurlar; cahiller ise her şeyi bildiklerini zannederler."
+    },
+    {
+      "atasozu": "Çalışkan insanın yüzü her zaman güler.",
+      "anlam": "Çalışkan insanlar emeklerinin karşılığını alır ve mutlu olurlar."
+    },
+    {
+      "atasozu": "Çalışmak insanı mutlu eder.",
+      "anlam": "Boş durmayan, üreten insan daha huzurlu olur."
+    },
+    {
+      "atasozu": "Çalışkan karınca aç kalmaz.",
+      "anlam": "Çalışan, emek veren insan geçimini sağlar."
+    },
+    {
+      "atasozu": "Çalışkan köle efendi olur.",
+      "anlam": "Azimli ve çalışkan insanlar zamanla yükselirler."
+    },
+    {
+      "atasozu": "Çam ağacından odun olmaz, cahil kişiden adam olmaz.",
+      "anlam": "Her şeyin ve herkesin bir sınırı vardır, eğitilmemiş insan faydalı olamaz."
+    },
+    {
+      "atasozu": "Çam sakızı çoban armağanı.",
+      "anlam": "Değersiz gibi görünen küçük hediyeler, sevgiyle verildiği için değerlidir."
+    },
+    {
+      "atasozu": "Çanağa ne doğrarsan kaşığına o çıkar.",
+      "anlam": "İnsan ne ekerse onu biçer, yaptıklarının karşılığını alır."
+    },
+    {
+      "atasozu": "Çanakta balın olsun, arı Bağdat'tan gelir.",
+      "anlam": "Eğer bir yerde kazanç ve fayda varsa, insanlar oraya uzak bile olsa gelirler."
+    },
+    {
+      "atasozu": "Çarık ayağındayken kıymeti bilinmez.",
+      "anlam": "İnsan elindekinin değerini kaybetmeden anlamaz."
+    },
+    {
+      "atasozu": "Çıkmadık candan umut kesilmez.",
+      "anlam": "Hayatta olan bir insan için her zaman bir umut vardır."
+    },
+    {
+      "atasozu": "Çingeneye beylik vermişler, önce babasını asmış.",
+      "anlam": "Makam sahibi olan cahil kişi, ilk önce en yakınlarına zarar verir."
+    },
+    {
+      "atasozu": "Çivi çıkar ama yeri kalır.",
+      "anlam": "Yapılan hata veya kötülük telafi edilse bile izi kalır."
+    },
+    {
+      "atasozu": "Çivi çiviyi söker.",
+      "anlam": "Bir yanlışı düzeltmek için benzer bir yöntem kullanılabileceğini belirtir."
+    },
+    {
+      "atasozu": "Çocuk düşe kalka büyür.",
+      "anlam": "Hatalardan ders alarak olgunlaşmanın doğal bir süreç olduğunu belirtir."
+    },
+    {
+      "atasozu": "Çok bilen çok yanılır.",
+      "anlam": "Her şeyi bildiğini sanan insan hata yapmaya daha yatkındır."
+    },
+    {
+      "atasozu": "Çok mal haramsız, çok laf yalansız olmaz.",
+      "anlam": "Aşırı mal biriktiren kişi haksız kazanç sağlamış olabilir, çok konuşan kişi de yalan söyleyebilir."
+    },
+    {
+      "atasozu": "Çok koşan çabuk yorulur.",
+      "anlam": "Her şeyi bir anda yapmaya çalışan kişi kısa sürede tükenir."
+    },
+    {
+      "atasozu": "Çok söze kulak asma, az söze bak.",
+      "anlam": "Gereksiz ve fazla konuşan insanlara kulak vermek yerine az ama öz konuşanları dinlemek gerekir."
+    },
+    {
+      "atasozu": "Çömlek ne kadar yuvarlanırsa, ağzı o kadar aşınır.",
+      "anlam": "İnsan ne kadar çok sıkıntı ve zorluk yaşarsa, o kadar yıpranır."
+    },
+    {
+      "atasozu": "Çürük tahta çivi tutmaz.",
+      "anlam": "Temeli zayıf olan şeyler üzerine sağlam bir yapı kurulamaz."
+    },
+    {
+      "atasozu": "Dağ dağa kavuşmaz, insan insana kavuşur.",
+      "anlam": "İnsanların bir araya gelebileceğini, ama bazı şeylerin asla birleşemeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Dağ ne kadar yüce olsa, yol onun üstünden aşar.",
+      "anlam": "Ne kadar büyük engeller olursa olsun, azimle ve kararlılıkla aşılabilir."
+    },
+    {
+      "atasozu": "Dağını sel almaz, fakiri yel.",
+      "anlam": "Zaten elinde fazla bir şey olmayan kişi, büyük kayıplar yaşamaz."
+    },
+    {
+      "atasozu": "Davulun sesi uzaktan hoş gelir.",
+      "anlam": "Bir şeyin dışarıdan güzel göründüğünü, ama yakından bakıldığında öyle olmayabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Darı unundan baklava, incir ağacından oklava olmaz.",
+      "anlam": "Her şeyin bir sınırı vardır; uygun olmayan malzemelerle iyi sonuçlar alınamaz."
+    },
+    {
+      "atasozu": "Dert insanı yollara düşürür.",
+      "anlam": "İnsan, sıkıntılarından kurtulmak için her yolu dener."
+    },
+    {
+      "atasozu": "Dert taşınmaz, söyleyene derman gerek.",
+      "anlam": "İnsan dertlerini paylaşmalı, yoksa sıkıntılar daha da büyür."
+    },
+    {
+      "atasozu": "Dervişin fikri neyse, zikri de odur.",
+      "anlam": "İnsan, ne düşünüyorsa konuşmalarında da onu yansıtır."
+    },
+    {
+      "atasozu": "Denize düşen yılana sarılır.",
+      "anlam": "Çaresiz kalan birinin, normalde kabul etmeyeceği şeylere razı olabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Dereyi görmeden paçayı sıvama.",
+      "anlam": "Bir işi kesinleşmeden tamamlanmış gibi düşünmek yanlıştır."
+    },
+    {
+      "atasozu": "Deveye boynun eğri demişler, nerem doğru ki demiş.",
+      "anlam": "Baştan sona hatalı veya eksik bir şeyde, küçük yanlışlıkları düzeltmenin pek önemi yoktur."
+    },
+    {
+      "atasozu": "Devletin malı deniz, yemeyen domuz.",
+      "anlam": "Bazı insanlar, kamu mallarını haksızca kullanmayı haklı görür."
+    },
+    {
+      "atasozu": "Dikensiz gül olmaz.",
+      "anlam": "Güzel şeylerin zorlukları da beraberinde getirdiğini belirtir."
+    },
+    {
+      "atasozu": "Dil söylemeden kulak duymaz.",
+      "anlam": "Bir şeyin anlaşılması için önce açıkça ifade edilmesi gerekir."
+    },
+    {
+      "atasozu": "Dil kılıçtan keskindir.",
+      "anlam": "Sözler bazen fiziksel yaralardan daha fazla zarar verebilir."
+    },
+    {
+      "atasozu": "Dil yarası, bıçak yarasından daha derindir.",
+      "anlam": "Sözle yapılan incitici davranışlar, fiziksel yaralardan daha uzun süre iz bırakır."
+    },
+    {
+      "atasozu": "Dost başa, düşman ayağa bakar.",
+      "anlam": "Gerçek dost insanın iç dünyasına önem verirken, düşmanlar dış görünüşüne bakar."
+    },
+    {
+      "atasozu": "Dost kara günde belli olur.",
+      "anlam": "Gerçek dostun, zor zamanlarda yanında olan kişi olduğunu belirtir."
+    },
+    {
+      "atasozu": "Dostun attığı taş baş yarmaz.",
+      "anlam": "Gerçek dostun zarar vermeyeceğini, eleştirisinin bile yapıcı olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Düğün olmayan evden davul sesi çıkmaz.",
+      "anlam": "Bir yerde belirli bir durum yoksa, ona dair işaretler de olmaz."
+    },
+    {
+      "atasozu": "Düşenin dostu olmaz.",
+      "anlam": "Zor duruma düşenin yalnız kalabileceğini belirtir."
+    },
+    {
+      "atasozu": "Düşmanını altın tabakta besle, yine de senden nefret eder.",
+      "anlam": "Kötü niyetli insanlar, ne kadar iyi davranılsa da düşmanlıklarından vazgeçmezler."
+    },
+    {
+      "atasozu": "Düşmanının bile akıllısından kork.",
+      "anlam": "Düşmanının zekası, ondan gelecek zararı artırabilir."
+    },
+    {
+      "atasozu": "Düşünerek söyle, söyleyerek düşünme.",
+      "anlam": "Sözler dikkatlice seçilmeli, ağızdan çıktıktan sonra pişman olunmamalıdır."
+    },
+    {
+      "atasozu": "Dünya etme bulma dünyasıdır.",
+      "anlam": "İnsan yaptığı iyilik veya kötülüğün karşılığını mutlaka görür."
+    },
+    {
+      "atasozu": "Dünya malı dünyada kalır.",
+      "anlam": "Maddi varlıklar, insanın ölümünden sonra bir anlam taşımaz."
+    },
+    {
+      "atasozu": "Dürüst insanın düşmanı çok olur.",
+      "anlam": "Doğruları söyleyen ve adaletli davranan insanlar, çıkarcıların hedefi olabilir."
+    },
+    {
+      "atasozu": "Düşmanına bile iyilik yap.",
+      "anlam": "İyilik yapmak, insanın karakterini yüceltir ve düşmanlıkları azaltabilir."
+    },
+    {
+      "atasozu": "El elin eşeğini türkü çağırarak arar.",
+      "anlam": "Başkasının işine karşı ilgisiz davranıldığını alaycı bir şekilde belirtir."
+    },
+    {
+      "atasozu": "El elden su içer.",
+      "anlam": "İnsanlar, birbirlerine muhtaçtır ve yardımlaşarak yaşarlar."
+    },
+    {
+      "atasozu": "El el için değil, dil el için yorulur.",
+      "anlam": "İnsan, başkaları için değil, kendi çıkarları için konuşur."
+    },
+    {
+      "atasozu": "El el ile, değirmen yel ile.",
+      "anlam": "Bazı işler tek başına yapılamaz, yardımlaşmak gerekir."
+    },
+    {
+      "atasozu": "El eli yıkar, iki el de yüzü.",
+      "anlam": "İnsanlar birbirine yardım ederse, sonunda herkes kazanır."
+    },
+    {
+      "atasozu": "El için ağlayan gözden olur.",
+      "anlam": "Başkaları için kendini feda etmek, kendi zararına olabilir."
+    },
+    {
+      "atasozu": "El boş gitme, el boş gelme.",
+      "anlam": "Ziyarete giderken küçük de olsa bir hediye götürmek gerekir."
+    },
+    {
+      "atasozu": "El elin nesini kınar, başına gelmeyince.",
+      "anlam": "İnsan, başına gelmeyen bir durumu tam anlamıyla kavrayamaz."
+    },
+    {
+      "atasozu": "El elin işine karışmaz.",
+      "anlam": "Başkalarının işine müdahale etmek doğru değildir."
+    },
+    {
+      "atasozu": "El için kuyu kazan, önce kendisi düşer.",
+      "anlam": "Başkalarına zarar vermeye çalışan kişi, sonunda kendisi zarar görür."
+    },
+    {
+      "atasozu": "El ile gelen düğün bayram.",
+      "anlam": "Herkesin yaşadığı bir sıkıntı, daha katlanılır olur."
+    },
+    {
+      "atasozu": "El ne derse desin, sen işine bak.",
+      "anlam": "Başkalarının dedikodularına takılmadan, doğru bildiğin yolda ilerlemelisin."
+    },
+    {
+      "atasozu": "El yarası onulur, dil yarası onulmaz.",
+      "anlam": "Fiziksel yaralar iyileşir ama sözle verilen zarar uzun süre etkisini korur."
+    },
+    {
+      "atasozu": "Elin ağzı torba değil ki büzesin.",
+      "anlam": "Herkesin konuşmasını engelleyemeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Elin ekmeğini yiyen, elin kılıcını çalar.",
+      "anlam": "Başkalarının imkanlarından faydalanan kişi, sonunda zarar verebilir."
+    },
+    {
+      "atasozu": "Elin gülünü koparan, elin dikenine katlanır.",
+      "anlam": "Başkalarının sağladığı güzelliklerden yararlanan kişi, onun zorluklarına da katlanmalıdır."
+    },
+    {
+      "atasozu": "Elin itini besleyen, kapısında havlatır.",
+      "anlam": "Başkalarına iyilik yapan kişi, bazen nankörlük görebilir."
+    },
+    {
+      "atasozu": "Elin verdiğini ye, eşeğin terkisini giyme.",
+      "anlam": "Başkalarından gelen yardımları ihtiyacın kadar kabul et, fazlası başına dert açabilir."
+    },
+    {
+      "atasozu": "Elma düşer, dibine düşer.",
+      "anlam": "Çocuklar, genellikle ebeveynlerine benzer."
+    },
+    {
+      "atasozu": "Elmas, çamura düşmekle değer kaybetmez.",
+      "anlam": "Değerli bir insan veya şey, kötü duruma düşse bile özünü kaybetmez."
+    },
+    {
+      "atasozu": "Emek olmadan yemek olmaz.",
+      "anlam": "Çalışmadan ve emek vermeden kazanç sağlanmaz."
+    },
+    {
+      "atasozu": "Eğri cetvelden doğru çizgi çıkmaz.",
+      "anlam": "Yanlış yöntemlerle doğru sonuçlara ulaşmak mümkün değildir."
+    },
+    {
+      "atasozu": "Eğri otur, doğru konuş.",
+      "anlam": "Dış görünüşün veya durumun nasıl olursa olsun, dürüst olmanın önemli olduğunu vurgular."
+    },
+    {
+      "atasozu": "Ev alma, komşu al.",
+      "anlam": "Yaşayacağın yerin çevresindeki insanların önemini vurgular."
+    },
+    {
+      "atasozu": "Evdeki hesap çarşıya uymaz.",
+      "anlam": "Planların her zaman beklenildiği gibi gitmeyebileceğini belirtir."
+    },
+    {
+      "atasozu": "Evli evinde, köylü köyünde gerek.",
+      "anlam": "Herkesin kendi yerinde ve ortamında olması daha uygundur."
+    },
+    {
+      "atasozu": "Eşeğe altın semer vursalar da eşek yine eşektir.",
+      "anlam": "İnsan, dış görünüşle değişmez; önemli olan içsel özelliklerdir."
+    },
+    {
+      "atasozu": "Eşeğini sağlam kazığa bağla.",
+      "anlam": "Önlemini al, sonra Allah'a güven."
+    },
+    {
+      "atasozu": "Ezbere konuşan, başına bela alır.",
+      "anlam": "Düşünmeden konuşmak, insana zarar getirebilir."
+    },
+    {
+      "atasozu": "Fakirlik ayıp değil, tembellik ayıp.",
+      "anlam": "Fakir olmak utanılacak bir şey değildir, ancak çalışmamak ve tembellik etmek ayıptır."
+    },
+    {
+      "atasozu": "Fazla mal göz çıkarmaz.",
+      "anlam": "Elinde fazla imkan veya malzeme olmasının zarar değil, fayda sağlayabileceğini belirtir."
+    },
+    {
+      "atasozu": "Fazla naz aşık usandırır.",
+      "anlam": "Birine karşı gereğinden fazla naz yapmak, o kişinin ilgisini kaybetmesine sebep olabilir."
+    },
+    {
+      "atasozu": "Felek kimine kavun yedirir, kimine kelek.",
+      "anlam": "Hayatta herkes aynı şansa sahip değildir, kimisi iyi şeyler yaşarken kimisi zorluk çeker."
+    },
+    {
+      "atasozu": "Feleğin sillesini yemeyen, halden anlamaz.",
+      "anlam": "Zorluklarla karşılaşmayan biri, başkalarının çektiği sıkıntıları anlayamaz."
+    },
+    {
+      "atasozu": "Feneri götürüp körün gözüne sokmuşlar, 'ışık var mı?' diye sormuş.",
+      "anlam": "Bazen ne kadar açıklanırsa açıklansın, anlamak istemeyen anlamaz."
+    },
+    {
+      "atasozu": "Fırsat her zaman ele geçmez.",
+      "anlam": "Önemli ve değerli fırsatlar her zaman bulunmaz, bu yüzden değerlendirilmelidir."
+    },
+    {
+      "atasozu": "Fırsatın kaçmasından kork, düşmanın artmasından değil.",
+      "anlam": "Kaçırılan fırsatlar telafisi zor olan kayıplara yol açabilir, düşmanlar ise zamanla etkisiz hale getirilebilir."
+    },
+    {
+      "atasozu": "Fukara malı göze yakın olur.",
+      "anlam": "Başkalarının sahip olduğu şeyler, bazı insanlara cazip ve kolay alınabilir görünebilir."
+    },
+    {
+      "atasozu": "Fukaranın tavuğu tek tek yumurtlar.",
+      "anlam": "Zor durumda olan kişi, sahip olduklarını yavaş yavaş ve güçlükle elde eder."
+    },
+    {
+      "atasozu": "Fukaranın yüzü soğuk olur.",
+      "anlam": "Maddi durumu kötü olan kişiler, hayatın zorlukları nedeniyle genellikle neşesiz ve ciddi olurlar."
+    },
+    {
+      "atasozu": "Fukara yoğurdu ayran, ayranı da su olur.",
+      "anlam": "Yoksul insanın elindeki nimetler giderek daha da azalır."
+    },
+    {
+      "atasozu": "Fare dağa küsmüş, dağın haberi olmamış.",
+      "anlam": "Önemsiz bir kişinin, büyük ve güçlü bir varlığa karşı beslediği olumsuz duygular bir anlam ifade etmez."
+    },
+    {
+      "atasozu": "Fare delikten bakar, kaderini gözetler.",
+      "anlam": "İnsan, başına gelecekleri önceden kestiremez ve kaderine boyun eğmek zorunda kalır."
+    },
+    {
+      "atasozu": "Fırtına esmeyince daldaki yaprak kımıldamaz.",
+      "anlam": "Her şeyin bir sebebi vardır; bazı olaylar dışarıdan etkiler olmadan gerçekleşmez."
+    },
+    {
+      "atasozu": "Fidanı gençken eğmeli.",
+      "anlam": "İnsanlar küçük yaşlardayken eğitilmeli ve doğru yönde yetiştirilmelidir."
+    },
+    {
+      "atasozu": "Fırıncının tuzu kuru olur.",
+      "anlam": "Bazı meslekler, zorluklardan daha az etkilenir; bazı insanlar, diğerlerinden daha avantajlıdır."
+    },
+    {
+      "atasozu": "Fısıltı, çoğu zaman haykırıştan daha etkilidir.",
+      "anlam": "Sessiz ve stratejik bir yaklaşım, bazen açık ve gürültülü ifadelerden daha etkili olabilir."
+    },
+    {
+      "atasozu": "Fil ayağını kaldırınca karınca sevinir.",
+      "anlam": "Büyük güçlerin kararları, küçük ve zayıf kişiler için çok önemli olabilir."
+    },
+    {
+      "atasozu": "Fincancı katırlarını ürkütme.",
+      "anlam": "Yerleşik düzeni bozacak hareketlerde bulunmamak gerekir."
+    },
+    {
+      "atasozu": "Fakirin tavuğu tek tek yumurtlar.",
+      "anlam": "Yoksul kişinin kazancı yavaş ve zahmetlidir."
+    },
+    {
+      "atasozu": "Fazla öten horozun başını keserler.",
+      "anlam": "Fazla konuşan veya haddini aşan kişi zarar görebilir."
+    },
+    {
+      "atasozu": "Fala inanma, falsız da kalma.",
+      "anlam": "Fal, tamamen gerçek olmasa da eğlenceli bir gelenektir."
+    },
+    {
+      "atasozu": "Fakirlik, dostluğu bozar.",
+      "anlam": "Ekonomik sıkıntılar, dostlukları zedeleyebilir."
+    },
+    {
+      "atasozu": "Fazla şeker, yiyeni bayıltır.",
+      "anlam": "Her şeyin fazlası zarar verebilir."
+    },
+    {
+      "atasozu": "Fazla söz, yalana yakındır.",
+      "anlam": "Gereğinden fazla konuşmak, yalan söylemeye yol açabilir."
+    },
+    {
+      "atasozu": "Gaza gelmeyen delikanlı, ya merdidir ya korkak.",
+      "anlam": "Cesur insan, yersiz kışkırtmalara kapılmayıp akıllıca hareket edendir."
+    },
+    {
+      "atasozu": "Gazla çalışan araba yolda kalır.",
+      "anlam": "Boş sözlerle veya hayali beklentilerle hareket eden kişi başarısız olur."
+    },
+    {
+      "atasozu": "Gelene git denmez.",
+      "anlam": "Misafire her zaman hoş karşılık verilmelidir."
+    },
+    {
+      "atasozu": "Gelin ata binmiş, ya nasip demiş.",
+      "anlam": "İnsan ne kadar plan yaparsa yapsın, sonuçta kaderin belirleyici olduğu durumlar vardır."
+    },
+    {
+      "atasozu": "Gençliğin kıymeti ihtiyarlıkta anlaşılır.",
+      "anlam": "İnsan, gençliğin değerini ancak yaşlandığında fark eder."
+    },
+    {
+      "atasozu": "Gençlikte taş taşı, ihtiyarlıkta ye aşı.",
+      "anlam": "Gençken çalışıp emek veren insan, yaşlandığında rahat eder."
+    },
+    {
+      "atasozu": "Gerçek dost, kötü günde belli olur.",
+      "anlam": "İyi dostlar, insanın en zor zamanlarında kendini gösterir."
+    },
+    {
+      "atasozu": "Göz var, nizam var.",
+      "anlam": "Her şeyin bir ölçüsü ve düzeni vardır, buna dikkat edilmelidir."
+    },
+    {
+      "atasozu": "Göz var, izan var.",
+      "anlam": "Bir şeyin mantıklı olup olmadığı gözle görülerek bile anlaşılabilir."
+    },
+    {
+      "atasozu": "Göç eden kuş, yuvasını unutmaz.",
+      "anlam": "İnsan ne kadar uzaklara giderse gitsin, doğup büyüdüğü yeri unutmaz."
+    },
+    {
+      "atasozu": "Gömleğin ilk düğmesi yanlış iliklenirse, diğerleri de yanlış gider.",
+      "anlam": "Başlangıçta yapılan bir hata, sonrasında birçok hataya yol açar."
+    },
+    {
+      "atasozu": "Gönül ferman dinlemez.",
+      "anlam": "İnsan duygularına engel olamaz, mantık her zaman geçerli olmayabilir."
+    },
+    {
+      "atasozu": "Gönül kimi severse güzel odur.",
+      "anlam": "Sevgi, güzelliği de beraberinde getirir."
+    },
+    {
+      "atasozu": "Gönülden ne koparsa, ihsana odur.",
+      "anlam": "Başkalarına verilen şeyler, gönülden gelerek verilmelidir."
+    },
+    {
+      "atasozu": "Gören göz, bilir öz.",
+      "anlam": "Gerçekleri görebilen biri, olayların iç yüzünü de anlayabilir."
+    },
+    {
+      "atasozu": "Görmek inanmaktır.",
+      "anlam": "İnsan, bir şeyi gözleriyle gördüğünde ona daha fazla inanır."
+    },
+    {
+      "atasozu": "Görünen köy kılavuz istemez.",
+      "anlam": "Açık ve net olan bir şey için açıklamaya gerek yoktur."
+    },
+    {
+      "atasozu": "Görünen dağın ardı aşılmaz.",
+      "anlam": "Bazen insan, gözünün önündeki engelleri aşamayacağını düşünerek pes eder."
+    },
+    {
+      "atasozu": "Göz görmeyince gönül katlanır.",
+      "anlam": "Sevilen bir şey veya kişi gözden uzaksa, onun yokluğuna alışmanın daha kolay olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Göz hakkı, kul hakkıdır.",
+      "anlam": "Başkalarının hakkına saygı göstermek gerekir."
+    },
+    {
+      "atasozu": "Göz var, izan var, ölçü var.",
+      "anlam": "Bir şeyin doğruluğu veya uygunluğu mantıkla ve gözle anlaşılabilir."
+    },
+    {
+      "atasozu": "Göz göre göre hata edilmez.",
+      "anlam": "Açıkça belli olan hataları yapmak affedilemez."
+    },
+    {
+      "atasozu": "Göze göz, dişe diş.",
+      "anlam": "Bir kötülüğe karşı aynı şekilde karşılık vermek gerektiğini savunan bir düşüncedir."
+    },
+    {
+      "atasozu": "Gülme komşuna, gelir başına.",
+      "anlam": "Başkalarının yaşadığı kötü olaylarla alay eden kişi, bir gün aynı şeyleri yaşayabilir."
+    },
+    {
+      "atasozu": "Gül veren elde gül kokusu kalır.",
+      "anlam": "Başkalarına iyilik yapan kişi, bu iyiliğin etkisini kendi içinde de hisseder."
+    },
+    {
+      "atasozu": "Gülü seven dikenine katlanır.",
+      "anlam": "Sevdiğin şeyin zorluklarına katlanmak gerekir."
+    },
+    {
+      "atasozu": "Güçlü olana boyun eğilir.",
+      "anlam": "Güçlü insanlar, çevresindeki insanları etkileyip yönlendirebilir."
+    },
+    {
+      "atasozu": "Güvenme varlığa, düşersin darlığa.",
+      "anlam": "Zenginliğe fazla güvenmek doğru değildir, insan her an fakirleşebilir."
+    },
+    {
+      "atasozu": "Güzele bakmak sevaptır.",
+      "anlam": "Güzel şeyleri görmek ve onlara değer vermek insana huzur verir."
+    },
+    {
+      "atasozu": "Güzellik geçicidir, iyilik kalıcıdır.",
+      "anlam": "Dış güzellik zamanla kaybolur ama insanın karakteri ve yaptığı iyilikler kalıcıdır."
+    },
+    {
+      "atasozu": "Güzelliğin on para etmez, bu bendeki aşk olmasa.",
+      "anlam": "Sevgi, bir kişinin değerini ve güzelliğini artırır."
+    },
+    {
+      "atasozu": "Güzün ekilen tohum, baharda filizlenir.",
+      "anlam": "Bugün yapılan çalışmaların meyvesi ilerleyen zamanlarda alınır."
+    },
+    {
+      "atasozu": "Gökte ararken yerde buldu.",
+      "anlam": "Bir şeyi çok uzaklarda ararken, aslında onun yakınında olduğunu fark etmek."
+    },
+    {
+      "atasozu": "Hak doğrunun yardımcısıdır.",
+      "anlam": "Adalet her zaman doğru olanın yanındadır."
+    },
+    {
+      "atasozu": "Hak eden hak ettiğini bulur.",
+      "anlam": "İnsan yaptığı iyiliğin ya da kötülüğün karşılığını er ya da geç alır."
+    },
+    {
+      "atasozu": "Hak yerini bulur.",
+      "anlam": "Gecikse de adalet eninde sonunda sağlanır."
+    },
+    {
+      "atasozu": "Haklıya hakkını ver.",
+      "anlam": "Bir insanın emeğine ve hakkına saygı göstermek gerekir."
+    },
+    {
+      "atasozu": "Hakkını yeme, başkasının hakkını da yedirme.",
+      "anlam": "Kendi hakkını korumalı, başkalarının da hakkını savunmalısın."
+    },
+    {
+      "atasozu": "Hamama giren terler.",
+      "anlam": "Bir işe girişen, o işin zorluklarına katlanmalıdır."
+    },
+    {
+      "atasozu": "Harman yel ile, düğün el ile olur.",
+      "anlam": "Büyük işler tek başına değil, başkalarının yardımıyla gerçekleşir."
+    },
+    {
+      "atasozu": "Harama el uzatan, helalinden olur.",
+      "anlam": "Başkalarının hakkını yiyen kişi, sonunda kendi kazancını da kaybeder."
+    },
+    {
+      "atasozu": "Harama uçkur çözülmez.",
+      "anlam": "Ahlaka ve dine aykırı işlere bulaşmamak gerekir."
+    },
+    {
+      "atasozu": "Hararet nardandır, kerametse baştandır.",
+      "anlam": "Özellik ve yetenek, insanın kendi içinde bulunur."
+    },
+    {
+      "atasozu": "Hatasız kul olmaz.",
+      "anlam": "İnsan doğası gereği hata yapabilir, bunu unutmamak gerekir."
+    },
+    {
+      "atasozu": "Havlayan köpek ısırmaz.",
+      "anlam": "Bağırıp çağıran kişi genellikle zarar vermez, asıl sessiz olanlardan korkmak gerekir."
+    },
+    {
+      "atasozu": "Hazıra dağ dayanmaz.",
+      "anlam": "Çalışmadan sadece mevcut kaynakları tüketen kişi, eninde sonunda zor duruma düşer."
+    },
+    {
+      "atasozu": "Her ağaçtan kaşık olmaz.",
+      "anlam": "Her şey her iş için uygun değildir, uygun olanı seçmek gerekir."
+    },
+    {
+      "atasozu": "Her düşen bir şey öğretir.",
+      "anlam": "Başımıza gelen her olaydan bir ders çıkarmak mümkündür."
+    },
+    {
+      "atasozu": "Her işin başı sağlık.",
+      "anlam": "Sağlık olmadan hiçbir şeyin kıymeti yoktur."
+    },
+    {
+      "atasozu": "Her koyun kendi bacağından asılır.",
+      "anlam": "Herkes kendi yaptıklarından sorumludur."
+    },
+    {
+      "atasozu": "Her şeyin başı sabır.",
+      "anlam": "Başarıya ulaşmak için sabırlı olmak gereklidir."
+    },
+    {
+      "atasozu": "Her yiğidin bir yoğurt yiyişi vardır.",
+      "anlam": "Herkesin kendine özgü bir tarzı vardır."
+    },
+    {
+      "atasozu": "Herkes ektiğini biçer.",
+      "anlam": "İnsan, yaptıklarının karşılığını mutlaka görür."
+    },
+    {
+      "atasozu": "Herkes kaşık yapar ama sapını ortadan yapamaz.",
+      "anlam": "Bir işi yapmak kolay olabilir ama onu en iyi şekilde yapmak zordur."
+    },
+    {
+      "atasozu": "Hırsızın hiç mi suçu yok?",
+      "anlam": "Olaylarda sadece mağdur olan tarafı değil, suçlu tarafı da görmek gerekir."
+    },
+    {
+      "atasozu": "Hızlı giden atın ayağı çabuk yorulur.",
+      "anlam": "İşleri aceleye getiren kişi, çabuk tükenir ve başarısız olur."
+    },
+    {
+      "atasozu": "Horozu çok olan köyde sabah geç olur.",
+      "anlam": "Bir işin içinde fazla kişi olursa, işler düzensiz ilerleyebilir."
+    },
+    {
+      "atasozu": "Huylu huyundan vazgeçmez.",
+      "anlam": "Kötü alışkanlıkları olan kişiler, bu alışkanlıklarından kolay kolay vazgeçmezler."
+    },
+    {
+      "atasozu": "Hükümet gibi adam.",
+      "anlam": "Güçlü, etkili ve kendine güvenen insanlar için söylenir."
+    },
+    {
+      "atasozu": "Huy canın altındadır.",
+      "anlam": "İnsan doğduğu günden beri sahip olduğu huyları kolay kolay değiştiremez."
+    },
+    {
+      "atasozu": "Hafıza-i beşer nisyan ile maluldür.",
+      "anlam": "İnsan hafızası unutkanlık ile sakatlanmıştır; zamanla bazı şeyleri unutur."
+    },
+    {
+      "atasozu": "Haddini bilmeyene haddini bildirirler.",
+      "anlam": "Kendi sınırlarını aşan insanlar, bir gün bu yüzden cezalandırılır."
+    },
+    {
+      "atasozu": "Her horoz kendi çöplüğünde öter.",
+      "anlam": "İnsan, en iyi bildiği yerde ve konuda başarılı olur."
+    },
+    {
+      "atasozu": "Her sakallıyı deden sanma.",
+      "anlam": "Her yaşlı ve bilgili görünen kişi güvenilir olmayabilir."
+    },
+    {
+      "atasozu": "Helal kazan, helal ye.",
+      "anlam": "İnsan kazancını ve rızkını helal yoldan elde etmelidir."
+    },
+    {
+      "atasozu": "Helva kar helva, bal satar arı.",
+      "anlam": "İnsan doğasına uygun işler yapmalı ve çaba göstermelidir."
+    },
+    {
+      "atasozu": "Her işin başı dürüstlüktür.",
+      "anlam": "Başarıya giden yolda en önemli unsur dürüst olmaktır."
+    },
+    {
+      "atasozu": "Ihlamurdan odun olmaz.",
+      "anlam": "Her şeyin kendine özgü bir kullanım alanı vardır; uygun olmayan şeylerden beklenen sonuç alınamaz."
+    },
+    {
+      "atasozu": "Ilık sudan balık tutulmaz.",
+      "anlam": "Çaba göstermeden, rahatlık içinde büyük kazanç elde edilemez."
+    },
+    {
+      "atasozu": "Isıracak it dişini göstermez.",
+      "anlam": "Gerçek tehlike oluşturan kişiler, niyetlerini açıkça belli etmezler."
+    },
+    {
+      "atasozu": "Islanmışın yağmurdan korkusu olmaz.",
+      "anlam": "Zorluklara alışmış veya büyük sıkıntılar yaşamış kişi, küçük sorunlardan etkilenmez."
+    },
+    {
+      "atasozu": "Işık doğudan gelir.",
+      "anlam": "Bilgi, bilim ve medeniyetin kaynağı doğudur; gelişme ve ilerleme doğudan başlar."
+    },
+    {
+      "atasozu": "Işığını kapatan kendi karanlıkta kalır.",
+      "anlam": "Bilgi ve paylaşımı kısıtlayan kişi, sonunda kendisi zarar görür."
+    },
+    {
+      "atasozu": "Ilıman rüzgar her zaman esmez.",
+      "anlam": "Hayatta her zaman rahat ve huzurlu dönemler olmaz, zor zamanlar da gelir."
+    },
+    {
+      "atasozu": "Irgatın emeği, ekmeği olur.",
+      "anlam": "Çalışkan insanlar emeklerinin karşılığını mutlaka alırlar."
+    },
+    {
+      "atasozu": "İnsan yedisinde ne ise yetmişinde de odur.",
+      "anlam": "İnsanın karakteri kolay değişmez, çocuklukta sahip olduğu huyları yaşlılıkta da devam eder."
+    },
+    {
+      "atasozu": "İyilik eden iyilik bulur.",
+      "anlam": "Başkalarına iyilik yapan kişi, sonunda kendi iyiliğini bulur."
+    },
+    {
+      "atasozu": "İyilikten maraz doğar.",
+      "anlam": "Bazı durumlarda, yapılan iyilikler kötü sonuçlar doğurabilir."
+    },
+    {
+      "atasozu": "İşleyen demir ışıldar.",
+      "anlam": "Çalışan ve emek veren kişi her zaman gelişir ve başarılı olur."
+    },
+    {
+      "atasozu": "İyilik unutulur, kötülük unutulmaz.",
+      "anlam": "İnsanlar kendilerine yapılan iyilikleri çabuk unutur, ancak kötülükleri uzun süre hatırlar."
+    },
+    {
+      "atasozu": "İnsanoğlu çiğ süt emmiş.",
+      "anlam": "İnsanların hata yapabileceğini, kusursuz olmadığını belirtir."
+    },
+    {
+      "atasozu": "İnsaf dinin yarısıdır.",
+      "anlam": "Adaletli ve merhametli olmak, insan için çok büyük bir erdemdir."
+    },
+    {
+      "atasozu": "İyilik yap, denize at; balık bilmezse Halik bilir.",
+      "anlam": "Yaptığın iyiliklerin karşılık görmesini bekleme, kimse bilmezse bile Allah bilir."
+    },
+    {
+      "atasozu": "İğneyi kendine, çuvaldızı başkasına batır.",
+      "anlam": "Başkalarını eleştirmeden önce kendini gözden geçirmen gerektiğini öğütler."
+    },
+    {
+      "atasozu": "İki karpuz bir koltuğa sığmaz.",
+      "anlam": "Aynı anda iki zor işi birden yapmanın mümkün olmadığını ifade eder."
+    },
+    {
+      "atasozu": "İşin yoksa şahit ol, paran çoksa kefil ol.",
+      "anlam": "Boş yere sorumluluk almak veya başkalarının işine karışmak insanı zor durumda bırakabilir."
+    },
+    {
+      "atasozu": "İşten artmaz, dişten artar.",
+      "anlam": "Tasarruf etmek, gereksiz harcamalardan kaçınmakla mümkündür."
+    },
+    {
+      "atasozu": "İçki içen balık yutmaz.",
+      "anlam": "Kötü alışkanlıkları olan kişiler genellikle daha büyük hatalar yaparlar."
+    },
+    {
+      "atasozu": "İlk gelen düdüğü çalar.",
+      "anlam": "Fırsatları erken değerlendiren kişi avantaj elde eder."
+    },
+    {
+      "atasozu": "İsteyenin bir yüzü kara, vermeyenin iki yüzü kara.",
+      "anlam": "Bir şey istemek utanılacak bir şey değildir, ancak vermeyen kişi kötü duruma düşebilir."
+    },
+    {
+      "atasozu": "İt ürür, kervan yürür.",
+      "anlam": "Eleştirenler veya engellemeye çalışanlar olabilir, ama önemli olan ilerlemeye devam etmektir."
+    },
+    {
+      "atasozu": "İyilik, edenin boynuna borçtur.",
+      "anlam": "İnsan iyilik yapmaya her zaman gönüllü olmalıdır."
+    },
+    {
+      "atasozu": "İp inceldiği yerden kopar.",
+      "anlam": "Sorunlar genellikle en zayıf noktadan baş gösterir."
+    },
+    {
+      "atasozu": "İnsan sevdiğini över, sevmediğini döver.",
+      "anlam": "İnsan, sevdiği kişiye karşı hoşgörülü, sevmediğine karşı acımasız olabilir."
+    },
+    {
+      "atasozu": "İyi dost kara günde belli olur.",
+      "anlam": "Gerçek dostluk, zor zamanlarda kendini gösterir."
+    },
+    {
+      "atasozu": "İnsanın evi, kalbinin olduğu yerdir.",
+      "anlam": "İnsan kendini nerede mutlu hissediyorsa, orası onun gerçek evidir."
+    },
+    {
+      "atasozu": "İki kişi bir elmayı paylaşırsa, tadı daha güzel olur.",
+      "anlam": "Paylaşmak, mutluluğu artıran bir davranıştır."
+    },
+    {
+      "atasozu": "İnsanın başına ne gelirse meraktan gelir.",
+      "anlam": "Fazla merak bazen insanı zor durumlara sokabilir."
+    },
+    {
+      "atasozu": "İyi bir komşu, en yakın akrabadan daha değerlidir.",
+      "anlam": "Zor zamanlarda yanımızda olan iyi bir komşu, bazen akrabadan bile daha faydalı olabilir."
+    },
+    {
+      "atasozu": "Jilet ustanın elinde usturadır.",
+      "anlam": "Becerikli insanlar, en basit araçlarla bile harika işler başarabilirler."
+    },
+    {
+      "atasozu": "Jandarma gecikmez, geç gelir.",
+      "anlam": "Bazı şeyler zamanında olmasa da, sonunda mutlaka gerçekleşir."
+    },
+    {
+      "atasozu": "Kabahat samur kürk olsa kimse üstüne almaz.",
+      "anlam": "İnsanlar hatalarını kolay kolay kabul etmezler."
+    },
+    {
+      "atasozu": "Kaçan balık büyük olur.",
+      "anlam": "Elden kaçırılan fırsatların hep daha değerli göründüğünü belirtir."
+    },
+    {
+      "atasozu": "Kanaatkar ol, rahat et.",
+      "anlam": "Elindekilerle yetinmesini bilmek, insanı huzurlu ve mutlu yapar."
+    },
+    {
+      "atasozu": "Kardeş kardeşi atmış, yar başında tutmuş.",
+      "anlam": "Kardeşler zaman zaman tartışabilir, ama zor zamanlarda birbirlerine destek olurlar."
+    },
+    {
+      "atasozu": "Kendi düşen ağlamaz.",
+      "anlam": "Kendi hatası yüzünden zor duruma düşenin şikayet etmeye hakkı olmadığını ifade eder."
+    },
+    {
+      "atasozu": "Keskin sirke küpüne zarar.",
+      "anlam": "Öfkeli insanlar, en çok kendilerine zarar verirler."
+    },
+    {
+      "atasozu": "Komşu komşunun külüne muhtaçtır.",
+      "anlam": "İnsanlar, en küçük şeylerde bile birbirlerine ihtiyaç duyabilirler."
+    },
+    {
+      "atasozu": "Körle yatan şaşı kalkar.",
+      "anlam": "Kötü veya yanlış kişilerle çok vakit geçirirsen, sen de olumsuz etkilenirsin."
+    },
+    {
+      "atasozu": "Kervan yolda düzülür.",
+      "anlam": "Bir işe başlarken her şeyin mükemmel olması gerekmez, zamanla düzen sağlanır."
+    },
+    {
+      "atasozu": "Kurt kocayınca köpeğin maskarası olur.",
+      "anlam": "Güçlü insanlar yaşlandığında, eskiden küçümsedikleri kişiler tarafından hor görülebilir."
+    },
+    {
+      "atasozu": "Kendi yağıyla kavrulmak.",
+      "anlam": "Kendi imkânlarıyla idare etmeye çalışmak."
+    },
+    {
+      "atasozu": "Kışın başı pişenin, yazın aşı pişer.",
+      "anlam": "Zorluklara önceden hazırlık yapan kişi, ileride rahat eder."
+    },
+    {
+      "atasozu": "Kimin tavuğu kimin bahçesinde belli olmaz.",
+      "anlam": "Düzensiz ve kargaşa içinde olan durumlar kontrol edilemez hale gelir."
+    },
+    {
+      "atasozu": "Kimse kimseyi kucağında getirmedi.",
+      "anlam": "Herkes kendi emeğiyle bir yerlere gelir, kimse başkasına tüm hayatını borçlu değildir."
+    },
+    {
+      "atasozu": "Kısa kes, Aydın havası olsun.",
+      "anlam": "Konuşmayı veya bir işi uzatmadan, kısa ve öz yapmak gerekir."
+    },
+    {
+      "atasozu": "Kendi işini kendin gör.",
+      "anlam": "Başkalarına güvenmek yerine, işlerini kendin halletmelisin."
+    },
+    {
+      "atasozu": "Kötü komşu insanı mal sahibi yapar.",
+      "anlam": "Başkalarından bir şey beklemek yerine, kişi kendi ihtiyacını karşılamayı öğrenir."
+    },
+    {
+      "atasozu": "Lafla peynir gemisi yürümez.",
+      "anlam": "Sadece sözle bir şeyin başarılamayacağını, eyleme geçmek gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Laf taşımak, odun taşımaktan beterdir.",
+      "anlam": "Dedikodu yapmak, fiziksel olarak zor bir işten bile daha büyük zararlar doğurabilir."
+    },
+    {
+      "atasozu": "Laf yerini bulursa anlam kazanır.",
+      "anlam": "Söz, doğru yerde ve zamanda söylendiğinde etkili olur."
+    },
+    {
+      "atasozu": "Laf cambazı iş yapmaz.",
+      "anlam": "Sürekli konuşan ve bahaneler üreten kişi, iş üretmekte başarısız olur."
+    },
+    {
+      "atasozu": "Leyleğin ömrü laklakla geçer.",
+      "anlam": "Bazı insanlar, sürekli boş konuşurlar."
+    },
+    {
+      "atasozu": "Lodosun gözü yaşlı olur.",
+      "anlam": "Bazı durumların getirdiği sonuçlar önceden tahmin edilebilir."
+    },
+    {
+      "atasozu": "Laf sakalla değil, akılla ölçülür.",
+      "anlam": "İnsanın olgunluğu yaşıyla veya dış görünüşüyle değil, aklıyla değerlendirilir."
+    },
+    {
+      "atasozu": "Laf ağızdan çıkana kadar senin esirin, çıktıktan sonra sen onun esirisin.",
+      "anlam": "Söz söylenmeden önce kontrol edilebilir, ancak söylendikten sonra geri alınamaz ve kişinin sorumluluğunda olur."
+    },
+    {
+      "atasozu": "Mal canın yongasıdır.",
+      "anlam": "İnsanın mal varlığının, onun için çok değerli olduğunu belirtir."
+    },
+    {
+      "atasozu": "Mazlumun ahı indirir şahı.",
+      "anlam": "Zulüm gören insanların bedduaları güçlü kimseleri bile zor duruma düşürebilir."
+    },
+    {
+      "atasozu": "Mart kapıdan baktırır, kazma kürek yaktırır.",
+      "anlam": "Mart ayının soğuk ve değişken havasına dikkat çeker."
+    },
+    {
+      "atasozu": "Maymun gözünü açmış.",
+      "anlam": "Tecrübe kazanan veya uyanık davranan kişiler, artık kolay kandırılamazlar."
+    },
+    {
+      "atasozu": "Mal sahibinindir, akıl kiraya verilmez.",
+      "anlam": "Herkes kendi malı veya işi hakkında karar vermekte serbesttir, başkalarının aklıyla hareket etmek zorunda değildir."
+    },
+    {
+      "atasozu": "Misafir umduğunu değil, bulduğunu yer.",
+      "anlam": "Misafirin ev sahibinin sunduğuyla yetinmesi gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Malına güvenme, talihine güven.",
+      "anlam": "Servet geçici olabilir, önemli olan şansın ve kaderin nasıl şekillendiğidir."
+    },
+    {
+      "atasozu": "Mazlumun bedduası yerde kalmaz.",
+      "anlam": "Haksızlığa uğrayan kişinin duaları ve bedduaları karşılıksız kalmaz, er ya da geç hakkı teslim edilir."
+    },
+    {
+      "atasozu": "Mal malı çeker.",
+      "anlam": "Zenginlik, daha fazla zenginliği beraberinde getirir."
+    },
+    {
+      "atasozu": "Mal tatlıdır, can ondan da tatlıdır.",
+      "anlam": "İnsanlar mallarına değer verirler, ancak canlarını daha çok önemserler."
+    },
+    {
+      "atasozu": "Martta yağmazsa, nisanda dinmez.",
+      "anlam": "Mevsimlerin yağış dengesi bir döngü içerisindedir, beklenen yağışlar bir ay olmazsa diğer ayda fazla olabilir."
+    },
+    {
+      "atasozu": "Meyve veren ağaç taşlanır.",
+      "anlam": "Başarılı veya faydalı olanların eleştiriye maruz kalabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Musibet bir kere gelir, akıllı olana bin öğüt verir.",
+      "anlam": "Zorluklar ve sıkıntılar, akıllı insanlara büyük dersler verir."
+    },
+    {
+      "atasozu": "Mum dibine ışık vermez.",
+      "anlam": "Kişi, başkalarına faydalı olurken, kendi yakınlarına fayda sağlayamayabilir."
+    },
+    {
+      "atasozu": "Mart ayı dert ayı.",
+      "anlam": "Mart ayı, geçiş dönemi olduğu için sıkıntılar ve zorluklarla dolu olabilir."
+    },
+    {
+      "atasozu": "Merhamet etmeyene merhamet edilmez.",
+      "anlam": "Başkalarına acımayan ve yardım etmeyen kişiler, zor durumda kaldıklarında da aynı muameleyi görürler."
+    },
+    {
+      "atasozu": "Misafir kısmetiyle gelir.",
+      "anlam": "Bir misafirin gelmesi, beraberinde bereket ve kısmet de getirebilir."
+    },
+    {
+      "atasozu": "Mert dayanır, namert kaçar.",
+      "anlam": "Cesur insanlar zorluklara göğüs gerer, korkaklar ise kaçar."
+    },
+    {
+      "atasozu": "Mal ile adam olunmaz.",
+      "anlam": "Zengin olmak, insanın karakterini belirlemez; önemli olan ahlak ve erdemdir."
+    },
+    {
+      "atasozu": "Mala mülke güvenme, bir kıvılcım yeter.",
+      "anlam": "Servet geçicidir, bir felaket her şeyi yok edebilir."
+    },
+    {
+      "atasozu": "Mahkeme kadıya mülk değildir.",
+      "anlam": "Güç ve mevki kalıcı değildir, zamanla herkes bulunduğu makamı bırakmak zorunda kalır."
+    },
+    {
+      "atasozu": "Martta yağış yoksa, nisanda sel olur.",
+      "anlam": "Hava şartlarının dengesizliği, bir dönemde yaşanmayan durumların diğer dönemde şiddetlenmesine neden olabilir."
+    },
+    {
+      "atasozu": "Mal canın yoldaşıdır.",
+      "anlam": "İnsan sahip olduğu mal varlığıyla daha rahat yaşar, ancak malını kaybettiğinde zor durumda kalabilir."
+    },
+    {
+      "atasozu": "Ne ekersen, onu biçersin.",
+      "anlam": "İnsan yaptığı işin karşılığını alır; iyi şeyler yapan iyi, kötü şeyler yapan kötü sonuçlar elde eder."
+    },
+    {
+      "atasozu": "Ne kadar köfte, o kadar ekmek.",
+      "anlam": "Birinin katkısına göre karşılık alacağını ifade eder."
+    },
+    {
+      "atasozu": "Ne oldum dememeli, ne olacağım demeli.",
+      "anlam": "İnsanın kendini beğenmişliğe kapılmaması, geleceği düşünmesi gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Ne doğrarsan aşına, o çıkar kaşığına.",
+      "anlam": "Ne ekersen onu biçersin."
+    },
+    {
+      "atasozu": "Ne karanlıkta yat, ne kara düş gör.",
+      "anlam": "İnsan her zaman tedbirli olmalı, kötü sonuçlar doğurabilecek işlerden kaçınmalıdır."
+    },
+    {
+      "atasozu": "Ne verirsen elinle, o gider seninle.",
+      "anlam": "İnsan hayattayken yaptığı iyiliklerin karşılığını ahirette alır."
+    },
+    {
+      "atasozu": "Nazar etme ne olur, çalış senin de olur.",
+      "anlam": "Başkalarının başarılarını kıskanmak yerine, çalışarak aynı başarıyı elde etmeye çalışmalısın."
+    },
+    {
+      "atasozu": "Nefsine hakim olamayan, başkasına söz geçiremez.",
+      "anlam": "Önce insan kendini kontrol etmeyi öğrenmeli, sonra başkalarına söz geçirmeye çalışmalıdır."
+    },
+    {
+      "atasozu": "Ne şiş yansın ne kebap.",
+      "anlam": "Bir sorunda iki tarafı da memnun edecek bir çözüm bulmaya çalışmak gerekir."
+    },
+    {
+      "atasozu": "Nerde hareket, orda bereket.",
+      "anlam": "Çalışkan insanların olduğu yerde bolluk ve bereket olur."
+    },
+    {
+      "atasozu": "Namuslu tüccar, karını kışın sayar.",
+      "anlam": "Dürüst insanlar, kazançlarını ve zararlarını iyi hesap ederek hareket ederler."
+    },
+    {
+      "atasozu": "Ne doğrarsan aşına, o çıkar karşına.",
+      "anlam": "Hayatta yaptıkların sana geri döner, iyilik yaparsan iyilik, kötülük yaparsan kötülük bulursun."
+    },
+    {
+      "atasozu": "Ne uzar, ne kısalır.",
+      "anlam": "Bazı işler ne ilerler ne de geriler, olduğu gibi kalır."
+    },
+    {
+      "atasozu": "Ne taşı sık, ne suyu bulandır.",
+      "anlam": "Zorla bir şeyleri değiştirmeye çalışmak, işleri daha da zorlaştırabilir."
+    },
+    {
+      "atasozu": "Nerde birlik, orda dirlik.",
+      "anlam": "İnsanlar birlik içinde hareket ederse, huzur ve düzen sağlanır."
+    },
+    {
+      "atasozu": "Ne kadar bilirsen bil, söylediklerin karşındakinin anladığı kadardır.",
+      "anlam": "Bilgi sahibi olmak kadar, onu doğru ifade etmek de önemlidir."
+    },
+    {
+      "atasozu": "Ne yaşarsan, onu öğrenirsin.",
+      "anlam": "İnsan tecrübeleriyle öğrenir ve olgunlaşır."
+    },
+    {
+      "atasozu": "Ne doğrarsan tencereye, o gelir kepçeye.",
+      "anlam": "İnsan yaptığı işin veya davranışlarının karşılığını görür."
+    },
+    {
+      "atasozu": "Oğlan dayıya, kız halaya çeker.",
+      "anlam": "Çocukların genellikle akrabalarına benzediğini ifade eder."
+    },
+    {
+      "atasozu": "Oynamasını bilmeyen gelin, yerim dar dermiş.",
+      "anlam": "Bir işi yapamayan kişi, başarısızlığını örtmek için bahaneler uydurur."
+    },
+    {
+      "atasozu": "Olacakla öleceğe çare yoktur.",
+      "anlam": "Kaderde olan şeyler mutlaka gerçekleşir, bunları değiştirmek insanın elinde değildir."
+    },
+    {
+      "atasozu": "Ot kökü üstünde biter.",
+      "anlam": "İnsan, genellikle ailesinin ve atalarının özelliklerini taşır."
+    },
+    {
+      "atasozu": "Okka düşerse teraziden, gelir bir gün sıradan.",
+      "anlam": "Haksızlık yapan kişi, er ya da geç bunun cezasını çeker."
+    },
+    {
+      "atasozu": "Oğlan doğuran övünsün, kız doğuran dövünsün.",
+      "anlam": "Eskiden erkek çocuk doğurmanın daha çok değer gördüğünü anlatan bir atasözüdür, ancak günümüzde eşitlikçi bir anlayış tercih edilir."
+    },
+    {
+      "atasozu": "Olsa ile bulsa, fakirin kazancı olmaz.",
+      "anlam": "Sürekli hayal kurarak zengin olunmaz, çalışmadan kazanç sağlanamaz."
+    },
+    {
+      "atasozu": "Olmaz olmaz deme, olmaz olmaz.",
+      "anlam": "İmkânsız gibi görünen şeyler bile gerçekleşebilir."
+    },
+    {
+      "atasozu": "Oturduğu dalı kesmek.",
+      "anlam": "Kendi kendine zarar verecek bir iş yapmak."
+    },
+    {
+      "atasozu": "Oynamayan yerim dar, oynayan yerim geniş der.",
+      "anlam": "İnsanlar başarısız olduklarında bahane üretirken, başarılı olduklarında her şeye uygun davrandıklarını iddia ederler."
+    },
+    {
+      "atasozu": "Olgun başak eğik olur.",
+      "anlam": "Gerçekten bilgili ve olgun insanlar alçakgönüllü olurlar."
+    },
+    {
+      "atasozu": "Ocağına incir ağacı dikmek.",
+      "anlam": "Birinin düzenini bozmak, geçim kaynağını yok etmek."
+    },
+    {
+      "atasozu": "Ot tarlada biter, adam harmanda biter.",
+      "anlam": "İnsanlar emek verdikçe ve tecrübe kazandıkça gelişir ve olgunlaşır."
+    },
+    {
+      "atasozu": "Onmadık taş baş yarar.",
+      "anlam": "Önemsenmeyen, küçük görülen şeyler bazen büyük zararlar verebilir."
+    },
+    {
+      "atasozu": "Oğul malından, kız kocasından sorulur.",
+      "anlam": "Bir erkek çalışıp kendi malını kazanmakla, bir kadın ise evliliğinde eşinin durumu ile değerlendirilir."
+    },
+    {
+      "atasozu": "Oturduğu yeri bilmeyen, düştüğü yeri de bilmez.",
+      "anlam": "İnsan bulunduğu konumu ve değerini bilmeli, aksi takdirde zor duruma düşebilir."
+    },
+    {
+      "atasozu": "Oklava ne kadar uzun olursa olsun, hamurun içinde kaybolur.",
+      "anlam": "Ne kadar büyük görünürseniz görünün, doğru yerde olmadığınız sürece fark edilmezsiniz."
+    },
+    {
+      "atasozu": "Öfkeyle kalkan, zararla oturur.",
+      "anlam": "Sinirle hareket eden kişi, sonunda zarar görür."
+    },
+    {
+      "atasozu": "Öğrenmenin yaşı yoktur.",
+      "anlam": "Bilgi edinmek için belirli bir yaş sınırı yoktur; insan her yaşta öğrenebilir."
+    },
+    {
+      "atasozu": "Öküz öldü, ortaklık bozuldu.",
+      "anlam": "İnsanlar, çıkarları sona erdiğinde dostluklarını veya iş ilişkilerini de bitirirler."
+    },
+    {
+      "atasozu": "Önce düşün, sonra söyle.",
+      "anlam": "Söz söylemeden önce iyice düşünüp hareket etmek gerekir."
+    },
+    {
+      "atasozu": "Öksüz kuzu, çobansız sürüye benzer.",
+      "anlam": "Koruyucusu veya yol göstereni olmayan kişi, zor durumda kalır."
+    },
+    {
+      "atasozu": "Ön tekerlek nereye giderse, arka tekerlek de oraya gider.",
+      "anlam": "Büyükler veya yöneticiler nasıl hareket ederse, onları takip edenler de aynı şekilde hareket eder."
+    },
+    {
+      "atasozu": "Öğüt tutmayanı, hayat terbiye eder.",
+      "anlam": "Başkalarının sözlerini dinlemeyen kişi, hatalarından ders alarak öğrenir."
+    },
+    {
+      "atasozu": "Öksüz çocuğun düğünü olmaz.",
+      "anlam": "Desteksiz ve sahipsiz kişi, büyük işler yapamaz."
+    },
+    {
+      "atasozu": "Önce can, sonra canan.",
+      "anlam": "İnsan önce kendi ihtiyaçlarını karşılamalı, sonra başkalarına yardımcı olmalıdır."
+    },
+    {
+      "atasozu": "Öz ağlamayınca, göz ağlamaz.",
+      "anlam": "İnsan, kendi içinden gelerek üzülmezse, başkalarına da gerçek duygularını göstermez."
+    },
+    {
+      "atasozu": "Ölü arpasını dağdan taşır.",
+      "anlam": "Ölmüş kişinin malı mülkü, mirasçılar arasında bölüşülür."
+    },
+    {
+      "atasozu": "Öğrenilmiş cahillik, en büyük cehalettir.",
+      "anlam": "Yanlış bilgileri doğru sanarak yaşayan kişi, en büyük hatayı yapmış olur."
+    },
+    {
+      "atasozu": "Ölüm var, dirim var.",
+      "anlam": "Hayatta her şeyin bir sonu vardır; her zaman güçlü olmak gerekir."
+    },
+    {
+      "atasozu": "Öpülecek el ısırılmaz.",
+      "anlam": "İyilik gördüğün insanlara ihanet edilmemelidir."
+    },
+    {
+      "atasozu": "Öküzün büyüğü ahırda durur.",
+      "anlam": "Her zaman görünen kişi en güçlü olmayabilir; gerçek güç sahibi genellikle perde arkasındadır."
+    },
+    {
+      "atasozu": "Ölüm hak, miras helal.",
+      "anlam": "Ölüm kaçınılmazdır ve geride kalan mallar mirasçılara aittir."
+    },
+    {
+      "atasozu": "Öküz ölür, ortaklık biter.",
+      "anlam": "İnsanlar genellikle ortak menfaatleri sona erdiğinde dostluklarını da bitirirler."
+    },
+    {
+      "atasozu": "Parayı veren düdüğü çalar.",
+      "anlam": "Maddi gücü olanın kontrolü elinde tuttuğunu belirtir."
+    },
+    {
+      "atasozu": "Palamut çok biterse, kış erken gelir.",
+      "anlam": "Doğadaki değişimler, gelecekte olacak olaylar hakkında ipuçları verebilir."
+    },
+    {
+      "atasozu": "Pireyi deve yapmak.",
+      "anlam": "Küçük bir sorunu abartarak çok büyük bir mesele haline getirmek."
+    },
+    {
+      "atasozu": "Papağan bile tekrar ede ede konuşmayı öğrenir.",
+      "anlam": "Sürekli tekrar edilen bilgiler kalıcı hale gelir."
+    },
+    {
+      "atasozu": "Paçayı kaptıran, gömleği de verir.",
+      "anlam": "Bir işte taviz veren kişi, sonunda daha büyük ödünler vermek zorunda kalır."
+    },
+    {
+      "atasozu": "Pekmez şerbetten tatlıdır.",
+      "anlam": "Doğal olan şeyler, sonradan yapılmış olandan daha değerlidir."
+    },
+    {
+      "atasozu": "Pire için yorgan yakılmaz.",
+      "anlam": "Küçük bir sorundan dolayı büyük fedakârlıklarda bulunmak mantıklı değildir."
+    },
+    {
+      "atasozu": "Pabuç pahalı olunca, delikanlı ters döner.",
+      "anlam": "İnsan, bir şeyin bedeli fazla olduğunda onu almaktan vazgeçebilir."
+    },
+    {
+      "atasozu": "Pul pulun yerini, bul bulur yerini.",
+      "anlam": "İnsanlar ve nesneler, eninde sonunda hak ettikleri yere ulaşırlar."
+    },
+    {
+      "atasozu": "Pişmiş aşa su katılmaz.",
+      "anlam": "Tamamlanmış veya sonuçlanmış bir işe müdahale edilmez."
+    },
+    {
+      "atasozu": "Padişah yasağı üç gün sürer.",
+      "anlam": "Zorla konulan kurallar genellikle uzun süre uygulanamaz."
+    },
+    {
+      "atasozu": "Para parayı çeker.",
+      "anlam": "Zenginin daha kolay zenginleştiğini belirtir."
+    },
+    {
+      "atasozu": "Papaz her zaman pilav yemez.",
+      "anlam": "Her zaman aynı şey beklenmemeli, bazen değişiklik olabileceği unutulmamalıdır."
+    },
+    {
+      "atasozu": "Pekmez şekerden tatlıdır.",
+      "anlam": "Doğal olan şeyler, yapay veya sonradan kazanılmış olanlardan daha değerlidir."
+    },
+    {
+      "atasozu": "Paran yoksa, sözün geçmez.",
+      "anlam": "Maddi gücü olmayan kişi, toplumda yeterince söz sahibi olamaz."
+    },
+    {
+      "atasozu": "Pirinç ayıklanırken taşını da seçmek gerekir.",
+      "anlam": "İyi bir şey elde etmek için, içindeki kötü olanları ayıklamak gerekir."
+    },
+    {
+      "atasozu": "Rüzgâr eken, fırtına biçer.",
+      "anlam": "Kötülük yapan kişi, sonunda daha büyük bir zarar görür."
+    },
+    {
+      "atasozu": "Rüşvet kapıdan girerse, adalet bacadan kaçar.",
+      "anlam": "Bir toplumda rüşvet yaygınlaşırsa, adalet ortadan kalkar."
+    },
+    {
+      "atasozu": "Rızkı veren Allah’tır.",
+      "anlam": "İnsanlar geçim konusunda endişelenmemeli, çünkü rızkı veren Allah’tır."
+    },
+    {
+      "atasozu": "Rüşvet yiyen, haram yer.",
+      "anlam": "Rüşvet almak ahlaka ve dine aykırıdır."
+    },
+    {
+      "atasozu": "Rahatını bozmak istemeyen, hiçbir iş başaramaz.",
+      "anlam": "Başarıya ulaşmak isteyen kişi, rahatını bozarak çalışmak zorundadır."
+    },
+    {
+      "atasozu": "Rüzgâr esmeyince yaprak kımıldamaz.",
+      "anlam": "Her olayın bir sebebi vardır, durduk yere bir şey olmaz."
+    },
+    {
+      "atasozu": "Rızık Allah'tan, iş kapıdan.",
+      "anlam": "Rızık Allah tarafından verilir ama insan da çalışarak bunu kazanmalıdır."
+    },
+    {
+      "atasozu": "Renk renk kumaş, huy huy insan.",
+      "anlam": "İnsanların karakterleri ve huyları birbirinden farklıdır."
+    },
+    {
+      "atasozu": "Sabır acıdır, meyvesi tatlıdır.",
+      "anlam": "Sabretmenin zor olduğunu, ama sonunda güzel sonuçlar getirdiğini ifade eder."
+    },
+    {
+      "atasozu": "Sakınılan göze çöp batar.",
+      "anlam": "En çok korunan şeyin bile zarar görebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Sabreden derviş, muradına ermiş.",
+      "anlam": "Sabırlı olan kişi, sonunda istediğine kavuşur."
+    },
+    {
+      "atasozu": "Sana taş atanı, sen ekmekle karşıla.",
+      "anlam": "Kötülük yapana iyilikle karşılık vermek en doğrusudur."
+    },
+    {
+      "atasozu": "Saksağan da sesinden belli olur.",
+      "anlam": "İnsanların kim olduğu, davranışlarından ve sözlerinden anlaşılır."
+    },
+    {
+      "atasozu": "Saklı kalmış sır, dost yanında açılmaz.",
+      "anlam": "Gizli tutulması gereken şeyler, en yakın dostlara bile söylenmemelidir."
+    },
+    {
+      "atasozu": "Sarımsağı gelin etmişler, kırk gün kokusu çıkmamış.",
+      "anlam": "İnsanlar kötü huylarını saklamaya çalışsalar da eninde sonunda ortaya çıkar."
+    },
+    {
+      "atasozu": "Sana bir şey yapılmasını istemiyorsan, sen de başkasına yapma.",
+      "anlam": "Başkalarına kötü davranan kişi, aynı şekilde karşılık görmeyi göze almalıdır."
+    },
+    {
+      "atasozu": "Sakız çiğneyen kızdan, kitap okuyan oğlan yeğdir.",
+      "anlam": "İnsanlar boş işlerle uğraşmak yerine, kendilerine fayda sağlayan şeyler yapmalıdır."
+    },
+    {
+      "atasozu": "Su başını tutan, su içmesini bilir.",
+      "anlam": "Kaynakları elinde bulunduran kişi, en büyük avantajı elde eder."
+    },
+    {
+      "atasozu": "Sakız ağacından oklava olmaz.",
+      "anlam": "Her şey, ancak kendine uygun işlerde kullanılabilir."
+    },
+    {
+      "atasozu": "Sel gider, kum kalır.",
+      "anlam": "Geçici olaylar sona erdiğinde, asıl önemli olan şeyler geriye kalır."
+    },
+    {
+      "atasozu": "Sakalı ele vermişler, sakalını yolmuş.",
+      "anlam": "Başkalarına güvenip iş yapan kişi, sonunda zararlı çıkabilir."
+    },
+    {
+      "atasozu": "Sona kalan dona kalır.",
+      "anlam": "Geç kalan kişi, elinde hiçbir şey kalmayabilir."
+    },
+    {
+      "atasozu": "Sakınan göze çöp batar.",
+      "anlam": "Ne kadar dikkat edilirse edilsin, bazen kaçınılmaz hatalar olabilir."
+    },
+    {
+      "atasozu": "Sana taş atana, sen ekmek at.",
+      "anlam": "Kötülüğe iyilikle karşılık vermek en doğru davranıştır."
+    },
+    {
+      "atasozu": "Sakız çiğneyen kızdan, dua eden nine iyidir.",
+      "anlam": "İnsanlar faydalı ve ahlaklı şeylerle meşgul olmalıdır."
+    },
+    {
+      "atasozu": "Sakınan gözüne toz kaçar.",
+      "anlam": "Ne kadar dikkat edilirse edilsin, beklenmedik olaylar yaşanabilir."
+    },
+    {
+      "atasozu": "Su uyur, düşman uyumaz.",
+      "anlam": "Tehlike her an ortaya çıkabilir; tedbirli olmak gerekir."
+    },
+    {
+      "atasozu": "Sabah ola, hayrola.",
+      "anlam": "Geceyi geçirmek, yeni günün ne getireceğini görmek en doğrusudur."
+    },
+    {
+      "atasozu": "Sakın ha! Şeytan doldurur.",
+      "anlam": "Önemsiz görülen hatalar zamanla büyük sorunlara yol açabilir."
+    },
+    {
+      "atasozu": "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+      "anlam": "Kötü bir tecrübe yaşayan kişi, aynı hatayı tekrar yapmamak için çok dikkatli olur."
+    },
+    {
+      "atasozu": "Sinek küçüktür ama mide bulandırır.",
+      "anlam": "Küçük gibi görünen şeylerin bile büyük rahatsızlık verebileceğini belirtir."
+    },
+    {
+      "atasozu": "Şahin küçük etle doyar.",
+      "anlam": "Büyük görünen kişiler bile bazen küçük şeylerle yetinebilir."
+    },
+    {
+      "atasozu": "Şeytanın dostluğu cehenneme kadardır.",
+      "anlam": "Kötü niyetli kişilerin dostluğu gerçek değildir, sonunda zarar verir."
+    },
+    {
+      "atasozu": "Şimşek çakmadan gök gürlemez.",
+      "anlam": "Her olayın bir nedeni vardır."
+    },
+    {
+      "atasozu": "Şahin sinek avlamaz.",
+      "anlam": "Yetenekli veya büyük işler yapan birinin küçük şeylerle uğraşmayacağını belirtir."
+    },
+    {
+      "atasozu": "Şaşıran bir kez şaşırır, yalancı her gün.",
+      "anlam": "Yanlış yapan biri bir defa yanılabilir, ancak yalancı sürekli hata yapar."
+    },
+    {
+      "atasozu": "Şöhret, uçucu bir rüzgârdır.",
+      "anlam": "Şan ve şöhret geçicidir, kalıcı olan insanın kişiliğidir."
+    },
+    {
+      "atasozu": "Şarap içenin sırrı uzun sürmez.",
+      "anlam": "Düşünmeden hareket eden kişi, sırlarını kolayca açık eder."
+    },
+    {
+      "atasozu": "Şimşek neredeyse oraya düşer.",
+      "anlam": "Sorunlar, en zayıf ve en savunmasız yere yönelir."
+    },
+    {
+      "atasozu": "Şaşıran yolunu sapıtır.",
+      "anlam": "Kendi kararlarını iyi değerlendiremeyen insanlar, yanlış yollara sapabilir."
+    },
+    {
+      "atasozu": "Şahin uçmazsa, tüyü işe yaramaz.",
+      "anlam": "Bir şeyin değeri, asıl amacı doğrultusunda kullanıldığında ortaya çıkar."
+    },
+    {
+      "atasozu": "Şeytan azapta gerek.",
+      "anlam": "Kötü niyetli kişilerin sıkıntıya düşmesi hak ettikleri bir durumdur."
+    },
+    {
+      "atasozu": "Şahin bakışlı, kartal pençeli ol.",
+      "anlam": "Her zaman dikkatli ol ve güçlü dur."
+    },
+    {
+      "atasozu": "Şimşek çakmadan yağmur yağmaz.",
+      "anlam": "Büyük olayların öncesinde mutlaka bir belirti ortaya çıkar."
+    },
+    {
+      "atasozu": "Şişede durduğu gibi durmaz.",
+      "anlam": "Alkol veya kötü alışkanlıklar, kişiyi beklenmedik şekilde etkileyebilir."
+    },
+    {
+      "atasozu": "Şahin doğanla, doğan şahinle uçar.",
+      "anlam": "İnsan, kendisine denk ve uygun kişilerle arkadaşlık yapar."
+    },
+    {
+      "atasozu": "Tarlada iz olur, harmanda yüz olur.",
+      "anlam": "Emeğin karşılığı eninde sonunda alınır."
+    },
+    {
+      "atasozu": "Tırnağın varsa başını kaşı.",
+      "anlam": "Kendi işini kendin gör."
+    },
+    {
+      "atasozu": "Taş attı da kolu mu yoruldu?",
+      "anlam": "Bazı kişiler, yaptıkları küçük bir iyiliği büyük bir şey gibi gösterebilirler."
+    },
+    {
+      "atasozu": "Tilkinin dönüp dolaşıp geleceği yer kürkçü dükkânıdır.",
+      "anlam": "İnsan, ne kadar farklı yollara saparsa sapsın, sonunda yine alıştığı yere döner."
+    },
+    {
+      "atasozu": "Tavşan dağa küsmüş, dağın haberi olmamış.",
+      "anlam": "Küçük birinin büyük birine darılmasının önemsenmeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Tatlı yiyelim, tatlı konuşalım.",
+      "anlam": "İnsanların birbirine karşı nazik ve güzel sözlü olması gerekir."
+    },
+    {
+      "atasozu": "Tereciye tere satılmaz.",
+      "anlam": "Bir konuda uzman olan kişiye, o konuda akıl vermeye çalışmak gereksizdir."
+    },
+    {
+      "atasozu": "Tavuk suyuna giderken kazdan olmak.",
+      "anlam": "Küçük bir şey kazanmak isterken eldeki büyük fırsatı kaybetmek."
+    },
+    {
+      "atasozu": "Tok açın halinden anlamaz.",
+      "anlam": "İhtiyacı olmayan birinin, zor durumdakini anlamasının zor olduğunu belirtir."
+    },
+    {
+      "atasozu": "Taş üstüne taş koymayan, duvar olmaz.",
+      "anlam": "Başarı için sürekli çaba göstermek gerekir."
+    },
+    {
+      "atasozu": "Tek kanatla kuş uçmaz.",
+      "anlam": "Başarı için destek ve iş birliği gerekir."
+    },
+    {
+      "atasozu": "Taş düştüğü yerde ağırdır.",
+      "anlam": "İnsan, kendi yerinde daha güçlü ve değerlidir."
+    },
+    {
+      "atasozu": "Tarlada ekin ne ise harmanda o çıkar.",
+      "anlam": "İnsan ne ekerse, sonunda onu biçer."
+    },
+    {
+      "atasozu": "Tok gözlü olan zengin sayılır.",
+      "anlam": "İnsanın azla yetinmesi ve açgözlü olmaması, onu zengin kılar."
+    },
+    {
+      "atasozu": "Tavuk ölür, kaz gelecek derken.",
+      "anlam": "Daha büyük bir şey beklerken elindeki küçük fırsatı kaybetmek."
+    },
+    {
+      "atasozu": "Tuttuğunu koparmak.",
+      "anlam": "Azimli ve kararlı bir şekilde hedefine ulaşmak."
+    },
+    {
+      "atasozu": "Tarlada çalışmayan, harmanda sevinemez.",
+      "anlam": "Çalışmadan, emek vermeden başarı beklenemez."
+    },
+    {
+      "atasozu": "Tatlı kaşık, acı kepçe.",
+      "anlam": "Hayatta her şey dengelidir; güzel şeyler kadar zorluklar da vardır."
+    },
+    {
+      "atasozu": "Tarlada iz olmazsa harmanda yüz olmaz.",
+      "anlam": "Emek vermeden, başarı beklenemez."
+    },
+    {
+      "atasozu": "Tatlı söz yılanı deliğinden çıkarır.",
+      "anlam": "Nazik sözler ve kibar davranışlar, zor işleri kolaylaştırır."
+    },
+    {
+      "atasozu": "Tarlada çalışan, harmanda sevinir.",
+      "anlam": "Çalışan insan, sonunda emeğinin karşılığını alır."
+    },
+    {
+      "atasozu": "Tuz ekmek hakkı tanımayan, insan değildir.",
+      "anlam": "İyilik gören bir insan, bunu unutmamalı ve nankörlük yapmamalıdır."
+    },
+    {
+      "atasozu": "Ucuz etin yahnisi yavan olur.",
+      "anlam": "Ucuz veya kalitesiz şeylerin iyi sonuç vermeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Ulu çamın dibinde köfteci olmaz.",
+      "anlam": "Büyük ve güçlü kişilerin yanında küçük işler ve zayıf kişiler barınamaz."
+    },
+    {
+      "atasozu": "Uğruna baş konmayan sevda, sevda değildir.",
+      "anlam": "Gerçek aşk ve bağlılık, fedakârlık gerektirir."
+    },
+    {
+      "atasozu": "Umut fakirin ekmeğidir.",
+      "anlam": "Zor durumda olan insanlar, umutla ayakta kalır."
+    },
+    {
+      "atasozu": "Uyuyan yılanın kuyruğuna basılmaz.",
+      "anlam": "Sakin görünen bir tehlikeyi gereksiz yere uyandırmamak gerekir."
+    },
+    {
+      "atasozu": "Uzun hikâyenin kısası makbuldür.",
+      "anlam": "Söz uzatılmadan, özüyle anlatılmalıdır."
+    },
+    {
+      "atasozu": "Uyuyan köpeği uyandırma.",
+      "anlam": "Sorun çıkarmayacak bir durumu kurcalamak gereksizdir."
+    },
+    {
+      "atasozu": "Ucuz mal alacak kadar zengin değilim.",
+      "anlam": "Kalitesiz ve ucuz mal almak, uzun vadede daha büyük masraf çıkarır."
+    },
+    {
+      "atasozu": "Uzun sözün kısası.",
+      "anlam": "Bir konuya gereğinden fazla açıklama yapmamak gerekir."
+    },
+    {
+      "atasozu": "Usta, çırak yetiştirmekle büyür.",
+      "anlam": "Bilgi ve beceri paylaşımı, kişinin gelişmesini sağlar."
+    },
+    {
+      "atasozu": "Ummadığın taş baş yarar.",
+      "anlam": "Beklenmeyen şeylerin bazen büyük etki yaratabileceğini belirtir."
+    },
+    {
+      "atasozu": "Us ile gelen, at ile gider.",
+      "anlam": "Akıllı davranan kişi, işlerini daha hızlı ve kolay halleder."
+    },
+    {
+      "atasozu": "Uykusuz baş dert bulur.",
+      "anlam": "Yeterince dinlenmeyen insan, hatalara daha açık olur."
+    },
+    {
+      "atasozu": "Ulu sözü dinlemeyen uluyakalır.",
+      "anlam": "Büyüklerin sözünü dinlemeyen, sonunda pişman olur."
+    },
+    {
+      "atasozu": "Uzaktan davulun sesi hoş gelir.",
+      "anlam": "Dışarıdan bakıldığında güzel görünen şeyler, içine girince zorluklarıyla ortaya çıkar."
+    },
+    {
+      "atasozu": "Umut tükenirse, yol da tükenir.",
+      "anlam": "İnsanın umudunu kaybetmesi, onun başarısını engeller."
+    },
+    {
+      "atasozu": "Uygun adım yürüyen, yanlış yola sapmaz.",
+      "anlam": "Dikkatli ve düzenli çalışan kişi, hataya düşmez."
+    },
+    {
+      "atasozu": "Usul usul giden, yol alır.",
+      "anlam": "Dikkatli ve planlı hareket eden kişi, sonunda hedefine ulaşır."
+    },
+    {
+      "atasozu": "Uyuyan aslanı uyandırma.",
+      "anlam": "Güçlü ve tehlikeli bir kişiyi veya durumu gereksiz yere harekete geçirme."
+    },
+    {
+      "atasozu": "Uzak olanın haberi zor gelir.",
+      "anlam": "Uzaktaki bir olayın detaylarını öğrenmek zor olur."
+    },
+    {
+      "atasozu": "Üç göç, bir yangın eder.",
+      "anlam": "Sürekli yer değiştirmek, büyük zarar ve kayıplara neden olur."
+    },
+    {
+      "atasozu": "Üşenenin oğlu olmaz, tembelin kızı.",
+      "anlam": "Çalışmadan, emek vermeden başarı elde edilemez."
+    },
+    {
+      "atasozu": "Ümit insanın ekmeğidir.",
+      "anlam": "İnsan, umut sayesinde hayata tutunur."
+    },
+    {
+      "atasozu": "Üzümünü ye, bağını sorma.",
+      "anlam": "Elde edilen şeyin kaynağını sorgulamak bazen gereksizdir, sonuç önemli olabilir."
+    },
+    {
+      "atasozu": "Üşengeç koyunun postu kalın olur.",
+      "anlam": "Tembel insanlar, işleri erteledikleri için daha büyük sorunlarla karşılaşır."
+    },
+    {
+      "atasozu": "Üstü açık sır, sır değildir.",
+      "anlam": "Bir şeyin gizli kalmasını istiyorsan, onu kimseye söylememelisin."
+    },
+    {
+      "atasozu": "Üste çıkamayan altta kalır.",
+      "anlam": "Hayatta başarılı olamayan kişi, başkalarının kontrolü altında yaşamak zorunda kalır."
+    },
+    {
+      "atasozu": "Üzülmek çare değildir.",
+      "anlam": "Bir sorun karşısında üzülmek yerine çözüm aramak gerekir."
+    },
+    {
+      "atasozu": "Üstün başın düzgün olsun, sözün doğru olsun.",
+      "anlam": "İnsan hem dış görünüşüyle hem de konuşmalarıyla güven vermelidir."
+    },
+    {
+      "atasozu": "Vakit nakittir.",
+      "anlam": "Zamanın çok değerli olduğunu ve iyi kullanılması gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Varını veren utanmaz.",
+      "anlam": "Elinden geleni veren kişi, az ya da çok olmasından utanmamalıdır."
+    },
+    {
+      "atasozu": "Vardığın yer körse, gözünü kapa.",
+      "anlam": "Çevrene uyum sağlamak bazen en iyi çözümdür."
+    },
+    {
+      "atasozu": "Varlık bir başa, darlık bin başa.",
+      "anlam": "Zenginlik tek bir kişiye fayda sağlarken, yoksulluk birçok kişiyi etkiler."
+    },
+    {
+      "atasozu": "Varlıklı adamın sözü dinlenir.",
+      "anlam": "Zengin veya güçlü kişilerin fikirleri daha fazla dikkate alınır."
+    },
+    {
+      "atasozu": "Varlık var eder, yokluk yer bitirir.",
+      "anlam": "Bolluk insanı geliştirirken, yoksulluk kişiyi zor duruma düşürür."
+    },
+    {
+      "atasozu": "Vuranın elinde kalır, kıran zarara uğrar.",
+      "anlam": "Başkalarına zarar vermeye çalışan kişi, eninde sonunda kendisi de zarar görür."
+    },
+    {
+      "atasozu": "Var git, yitirdiğin aklını ara.",
+      "anlam": "Mantıksız davranan kişilere söylenir."
+    },
+    {
+      "atasozu": "Vefasız dostun olacağına, vefalı düşmanın olsun.",
+      "anlam": "Sadık bir düşman, güvenilmez bir dosttan daha iyidir."
+    },
+    {
+      "atasozu": "Var olanın borcu olmaz.",
+      "anlam": "Zengin kişi, borçla uğraşmak zorunda kalmaz."
+    },
+    {
+      "atasozu": "Yalancının mumu yatsıya kadar yanar.",
+      "anlam": "Yalanların er ya da geç ortaya çıkacağını belirtir."
+    },
+    {
+      "atasozu": "Yalancının evi yanmış, kimse inanmamış.",
+      "anlam": "Sürekli yalan söyleyen birine, doğru söylediğinde bile kimse inanmaz."
+    },
+    {
+      "atasozu": "Yanlış hesap Bağdat’tan döner.",
+      "anlam": "Hatalı bir iş eninde sonunda ortaya çıkar ve düzeltilir."
+    },
+    {
+      "atasozu": "Yalnız taş duvar olmaz.",
+      "anlam": "Tek başına bir şey yapılamaz, birlik olmak gerekir."
+    },
+    {
+      "atasozu": "Ya devlet başa, ya kuzgun leşe.",
+      "anlam": "Ya büyük bir başarı elde edilmeli ya da tamamen kaybedilmelidir."
+    },
+    {
+      "atasozu": "Yağmur yağmadan gök gürlemez.",
+      "anlam": "Büyük olaylar öncesinde mutlaka bir belirti ortaya çıkar."
+    },
+    {
+      "atasozu": "Yağmurlu gün dostu, gerçek dost değildir.",
+      "anlam": "Sadece zor zamanlarda ortaya çıkan dostlar güvenilir değildir."
+    },
+    {
+      "atasozu": "Yaş kesen, baş keser.",
+      "anlam": "Doğaya zarar veren kişi, büyük bir kötülük yapmış olur."
+    },
+    {
+      "atasozu": "Yaş yetmiş, iş bitmiş.",
+      "anlam": "İleri yaşlara gelindiğinde çalışma gücü azalır."
+    },
+    {
+      "atasozu": "Yavaş atın tekmesi pek olur.",
+      "anlam": "Sakin görünen kişiler, gerektiğinde büyük etkiler yaratabilir."
+    },
+    {
+      "atasozu": "Yavuz hırsız ev sahibini bastırır.",
+      "anlam": "Haksız olan kişi, sesini yükselterek haklıymış gibi görünmeye çalışır."
+    },
+    {
+      "atasozu": "Yemeyenin malını yerler.",
+      "anlam": "Sahip çıkılmayan şeyler elden gider."
+    },
+    {
+      "atasozu": "Yerini bilmeyen, yurdunda kalmaz.",
+      "anlam": "Kendi sınırlarını bilmeyen kişi, bulunduğu ortamda uzun süre barınamaz."
+    },
+    {
+      "atasozu": "Yiğidin malı meydandadır.",
+      "anlam": "Dürüst ve cesur insanların hiçbir şeyi saklamaya ihtiyacı yoktur."
+    },
+    {
+      "atasozu": "Yiğit düştüğü yerden kalkar.",
+      "anlam": "Gerçek mücadeleci insanlar, zor duruma düştüklerinde toparlanıp yeniden ayağa kalkarlar."
+    },
+    {
+      "atasozu": "Yiğit lakabıyla anılır.",
+      "anlam": "İnsanlar, yaptıklarıyla ve çevrelerindeki algıyla tanınır."
+    },
+    {
+      "atasozu": "Yılanın başı küçükken ezilir.",
+      "anlam": "Bir tehlikeyi büyümeden önce yok etmenin önemli olduğunu öğütler."
+    },
+    {
+      "atasozu": "Yüksek dağa kar yağar.",
+      "anlam": "Büyük makam sahipleri, büyük sorunlarla karşılaşır."
+    },
+    {
+      "atasozu": "Yüzü sıcaktan yanan gölgeyi sevmez.",
+      "anlam": "Acı çeken bir kişi, rahatlık veren şeyleri anlamaz ya da istemez."
+    },
+    {
+      "atasozu": "Zahmetsiz rahmet olmaz.",
+      "anlam": "Emek vermeden kazanç elde edilemez."
+    },
+    {
+      "atasozu": "Zengin adamın sözü dinlenir.",
+      "anlam": "Varlıklı insanlar genellikle daha fazla itibar görür."
+    },
+    {
+      "atasozu": "Zengin, malı züğürtten sakınır.",
+      "anlam": "Varlıklı insanlar, mallarını daha fakir insanlardan kıskanırlar."
+    },
+    {
+      "atasozu": "Zenginin gönlü oluncaya kadar, fakirin canı çıkar.",
+      "anlam": "Varlıklı insanların yardım etmeye karar vermesi uzun zaman alır ve bu süreçte yoksullar çok zorlanır."
+    },
+    {
+      "atasozu": "Zenginin malı, fakirin çenesini yorar.",
+      "anlam": "Fakir insanlar, varlıklı kişilerin sahip olduklarını konuşarak vakit geçirirler."
+    },
+    {
+      "atasozu": "Zengin kesesini, fakir dizini döver.",
+      "anlam": "Varlıklı kişi servetini nasıl harcayacağını düşünürken, yoksul kişi geçimini sağlamak için çırpınır."
+    },
+    {
+      "atasozu": "Zengin tıksırır, fakir aksırır.",
+      "anlam": "Aynı olaylar farklı insanlar için farklı sonuçlar doğurur; varlıklı kişi hafif etkilenirken, fakir kişi ağır sonuçlarla karşılaşır."
+    },
+    {
+      "atasozu": "Zorla güzellik olmaz.",
+      "anlam": "Bir şeyi isteksizce yaptırmaya çalışmanın iyi sonuç vermeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Zengin yer, fakir bakar.",
+      "anlam": "Toplumda eşitsizlik olduğu sürece, bazı insanlar bolluk içinde yaşarken bazıları yokluk çeker."
+    },
+    {
+      "atasozu": "Zenginin horozu da yumurtlar.",
+      "anlam": "Varlıklı kişiler her durumda kazançlı çıkar; olmayan şeyler bile onların lehine işler."
+    },
+    {
+      "atasozu": "Zorla iş yapanın, ekmeği dişinin kovuğuna yetmez.",
+      "anlam": "İsteksizce çalışarak yapılan işten fazla kazanç sağlanamaz."
+    },
+    {
+      "atasozu": "Zulüm ile abad olanın, ahiri berbat olur.",
+      "anlam": "Başkalarına zulüm eden kişi, sonunda kötü bir sonla karşılaşır."
+    },
+    {
+      "atasozu": "Zayıf köpeğin gölgesi büyük olur.",
+      "anlam": "Bazı insanlar olduklarından daha güçlü görünmeye çalışırlar."
+    },
+    {
+      "atasozu": "Aba vakti yaba, yaba vakti aba.",
+      "anlam": "Her işin bir zamanı vardır; bir işi doğru zamanda yapmak önemlidir."
+    },
+    {
+      "atasozu": "Aç tavuk kendini buğday ambarında sanır.",
+      "anlam": "İhtiyacı olan kişi, olmayacak şeyleri bile umut edebilir."
+    },
+    {
+      "atasozu": "Aç kurt koyun sürüsüne dalınca ne yapar?",
+      "anlam": "Zor durumda olan kişi, eline geçen fırsatı kaçırmaz."
+    },
+    {
+      "atasozu": "Açma sırrını dostuna, o da söyler dostuna.",
+      "anlam": "Sırlarını kimseyle paylaşmamalısın, en yakınların bile başkalarına söyleyebilir."
+    },
+    {
+      "atasozu": "Adalet mülkün temelidir.",
+      "anlam": "Bir devletin veya toplumun ayakta kalabilmesi için adaletli olması şarttır."
+    },
+    {
+      "atasozu": "Ağaca balta vurmuşlar, sapı bedenimden demiş.",
+      "anlam": "En büyük zarar, en yakınlardan gelir."
+    },
+    {
+      "atasozu": "Ağaç ne kadar yüksek olsa yaprakları yere düşer.",
+      "anlam": "Kişi ne kadar yükselirse yükselsin, asıl kökenini unutmamalıdır."
+    },
+    {
+      "atasozu": "Ağır taş yerinden oynamaz.",
+      "anlam": "Köklü ve sağlam şeyler kolay kolay değişmez."
+    },
+    {
+      "atasozu": "Ak akçe kara gün içindir.",
+      "anlam": "İyi zamanlarda biriktirilen para, kötü zamanlarda işe yarar."
+    },
+    {
+      "atasozu": "Akıl akıldan üstündür.",
+      "anlam": "Her zaman daha iyi bir fikir veya çözüm yolu bulunabilir."
+    },
+    {
+      "atasozu": "Akıllı düşman akılsız dosttan hayırlıdır.",
+      "anlam": "Düşman bile olsa aklı başında birinin, düşüncesiz bir dosttan daha iyi olduğunu belirtir."
+    },
+    {
+      "atasozu": "Akıntıya kürek çekilmez.",
+      "anlam": "Güçlü bir duruma karşı çıkmak boşunadır."
+    },
+    {
+      "atasozu": "Al elmaya taş atan çok olur.",
+      "anlam": "Başarılı ve gözde olan kişileri çekemeyenler çok olur."
+    },
+    {
+      "atasozu": "Alışmış kudurmuştan beterdir.",
+      "anlam": "Kötü bir alışkanlıktan vazgeçmek çok zordur."
+    },
+    {
+      "atasozu": "Allah dağına göre kar verir.",
+      "anlam": "Allah, herkese taşıyabileceği kadar yük verir."
+    },
+    {
+      "atasozu": "Alma mazlumun ahını, çıkar aheste aheste.",
+      "anlam": "Haksızlık yapmanın cezasının er ya da geç bulunacağını ifade eder."
+    },
+    {
+      "atasozu": "Altın anahtar her kapıyı açar.",
+      "anlam": "Para, birçok sorunu çözebilir."
+    },
+    {
+      "atasozu": "Ana gibi yar olmaz, Bağdat gibi diyar olmaz.",
+      "anlam": "Anne sevgisi ve vatan gibisi yoktur."
+    },
+    {
+      "atasozu": "Anlayana sivrisinek saz, anlamayana davul zurna az.",
+      "anlam": "Bazı insanlar en ufak bir ipucunu anlarken, bazıları ne kadar uğraşsan da anlamaz."
+    },
+    {
+      "atasozu": "Arkasından atlı mı kovalıyor?",
+      "anlam": "Bir işi aceleyle yapmaya gerek olmadığını ifade eder."
+    },
+    {
+      "atasozu": "Ateş düştüğü yeri yakar.",
+      "anlam": "Bir acıyı en çok onu yaşayanın hissettiğini ifade eder."
+    },
+    {
+      "atasozu": "Atın ölümü arpadan olsun.",
+      "anlam": "Kişi, istediği şeyi yaparken ölse bile pişmanlık duymamalıdır."
+    },
+    {
+      "atasozu": "Ayağını sıcak tut, başını serin, gönlünü ferah tut, düşünme derin.",
+      "anlam": "Sağlıklı ve mutlu bir yaşam için basit bir tavsiye."
+    },
+    {
+      "atasozu": "Ayıkla pirincin taşını.",
+      "anlam": "Yaptığın yanlışların sonuçlarına katlan."
+    },
+    {
+      "atasozu": "Az veren candan, çok veren maldan.",
+      "anlam": "Az veren kişi, elindeki azı bile vermeye razı olduğu için daha değerlidir."
+    },
+    {
+      "atasozu": "Bal bal demekle ağız tatlanmaz.",
+      "anlam": "Sadece istemekle bir şey elde edilmez, çalışmak gerekir."
+    },
+    {
+      "atasozu": "Başa gelen çekilir.",
+      "anlam": "Kaderde ne varsa ona katlanmak gerekir."
+    },
+    {
+      "atasozu": "Başıma gelen soğan olsa yenmez.",
+      "anlam": "Başına gelen sıkıntının çok büyük olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Bekarlık sultanlıktır.",
+      "anlam": "Evli olmayan kişi, özgürdür ve istediğini yapabilir."
+    },
+    {
+      "atasozu": "Belen suyu gibi akar.",
+      "anlam": "Çok hızlı akan veya ilerleyen şeyler için kullanılır."
+    },
+    {
+      "atasozu": "Besle kargayı oysun gözünü.",
+      "anlam": "İyilik yaptığın kişi sana kötülük yapabilir."
+    },
+    {
+      "atasozu": "Bin bilsen de bir bilene danış.",
+      "anlam": "Ne kadar bilgili olsan da başkalarının fikrini almak önemlidir."
+    },
+    {
+      "atasozu": "Bin ölçüp bir biçmeli.",
+      "anlam": "Bir işi yapmadan önce iyice düşünmek gerekir."
+    },
+    {
+      "atasozu": "Bir ağızdan çıkan bin ağza yayılır.",
+      "anlam": "Söylenen bir söz çok çabuk yayılır."
+    },
+    {
+      "atasozu": "Bir fincan kahvenin kırk yıl hatırı vardır.",
+      "anlam": "Küçük bir iyiliğin bile uzun süre hatırlanacağını ifade eder."
+    },
+    {
+      "atasozu": "Bir koyundan iki post çıkmaz.",
+      "anlam": "Bir şeyden fazlasını beklemenin gerçekçi olmadığını belirtir."
+    },
+    {
+      "atasozu": "Bir musibet bin nasihatten iyidir.",
+      "anlam": "Yaşanan bir olumsuzluk, birçok öğütten daha öğreticidir."
+    },
+    {
+      "atasozu": "Bir oktur kirpiği can evine saplanan.",
+      "anlam": "Aşkın acısı çok derin olabilir."
+    },
+    {
+      "atasozu": "Bir sürçen atın başı kesilmez.",
+      "anlam": "Hata yapan kişiye bir şans daha verilmelidir."
+    },
+    {
+      "atasozu": "Bitli baklanın kör alıcısı olur.",
+      "anlam": "Her şeyin bir alıcısı vardır."
+    },
+    {
+      "atasozu": "Bostan korkuluğu gibi.",
+      "anlam": "Hiçbir işe yaramayan kişi için kullanılır."
+    },
+    {
+      "atasozu": "Bu dünya ne sana ne bana kalmaz.",
+      "anlam": "Dünya geçicidir, kimseye kalmaz."
+    },
+    {
+      "atasozu": "Bükemediğin eli öpeceksin.",
+      "anlam": "Güçlü birine karşı koymak yerine, onunla uzlaşmak daha iyidir."
+    },
+    {
+      "atasozu": "Cahil ile bal yeme, alimle taş taşı.",
+      "anlam": "Cahil insanla birlikte olmaktansa, bilgili insanla zorluklara katlanmak daha iyidir."
+    },
+    {
+      "atasozu": "Cefayı çekmeyen sefanın kadrini bilmez.",
+      "anlam": "Zorluk çekmeyen, rahatlığın değerini anlayamaz."
+    },
+    {
+      "atasozu": "Ceviz gölgesi yavuz olur.",
+      "anlam": "Güçlü ve etkili kişilerin himayesi altında olmak iyidir."
+    },
+    {
+      "atasozu": "Cins cinsine çeker.",
+      "anlam": "Benzer özelliklere sahip insanlar birbirleriyle anlaşır."
+    },
+    {
+      "atasozu": "Çabuk parlayan çabuk söner.",
+      "anlam": "Hızlı başlayan bir şey, aynı hızla sona erebilir."
+    },
+    {
+      "atasozu": "Çalma elin kapısını, çalarlar kapını.",
+      "anlam": "Başkalarına kötülük yaparsan, aynı şeyi sen de yaşarsın."
+    },
+    {
+      "atasozu": "Çanağına ne doğrarsan kaşığına o çıkar.",
+      "anlam": "Ne ekersen onu biçersin."
+    },
+    {
+      "atasozu": "Çarşıda nar pahalı, evde nar bedava.",
+      "anlam": "Bir şeyin değeri, bulunduğu yere göre değişir."
+    },
+    {
+      "atasozu": "Çatal kazık yere batmaz.",
+      "anlam": "İki başlılık, birliği bozar ve işleri zorlaştırır."
+    },
+    {
+      "atasozu": "Çocuktan al haberi.",
+      "anlam": "Çocuklar, gördüklerini ve duyduklarını olduğu gibi anlatırlar."
+    },
+    {
+      "atasozu": "Dağ ne kadar yüce olsa yol üstünden aşar.",
+      "anlam": "Her sorunun bir çözümü vardır."
+    },
+    {
+      "atasozu": "Davul dengi dengine çalar.",
+      "anlam": "Herkes kendi seviyesindeki insanlarla ilişki kurar."
+    },
+    {
+      "atasozu": "Davut peygamberin sesi gibi.",
+      "anlam": "Çok güzel ve etkileyici bir ses için kullanılır."
+    },
+    {
+      "atasozu": "Deli deliden hoşlanır, imam ölüden.",
+      "anlam": "Herkes kendi ilgi alanına uygun şeylerden hoşlanır."
+    },
+    {
+      "atasozu": "Demir tavında dövülür.",
+      "anlam": "Her işin bir zamanı vardır; doğru zamanda yapılmalıdır."
+    },
+    {
+      "atasozu": "Dere geçerken at değiştirilmez.",
+      "anlam": "Bir işin ortasında temel değişiklikler yapmak risklidir."
+    },
+    {
+      "atasozu": "Dert ağlatır, aşk söyletir.",
+      "anlam": "Üzüntü insanı ağlatır, sevgi ise konuşturur."
+    },
+    {
+      "atasozu": "Dervişin fikri neyse zikri de odur.",
+      "anlam": "İnsanın düşündüklerinin, söylediklerine yansıdığını ifade eder."
+    },
+    {
+      "atasozu": "Deve boynuz ararken kulaktan olmuş.",
+      "anlam": "Daha iyisini ararken elindekini kaybetmek."
+    },
+    {
+      "atasozu": "Dilberin nazı aşığın sözü.",
+      "anlam": "Aşıklar arasında tatlı çekişmeler yaşanır."
+    },
+    {
+      "atasozu": "Dinsizin hakkından imansız gelir.",
+      "anlam": "Kötü birine, onun gibi biri karşı koyabilir."
+    },
+    {
+      "atasozu": "Doğru söyleyeni dokuz köyden kovarlar.",
+      "anlam": "Dürüst olmanın bazen hoş karşılanmayabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Dost başa düşman ayağa bakar.",
+      "anlam": "Dostlar iyi günde, düşmanlar kötü günde belli olur."
+    },
+    {
+      "atasozu": "Dostun iyisi kara günde belli olur.",
+      "anlam": "Gerçek dostlar, zor zamanlarda yanımızda olanlardır."
+    },
+    {
+      "atasozu": "Düğün değil bayram değil, eniştem beni niye öptü?",
+      "anlam": "Beklenmedik bir iyilik veya ilginin altında başka bir neden aranmalıdır."
+    },
+    {
+      "atasozu": "Dükkan önünde yatmakla müşteri gelmez.",
+      "anlam": "Sadece beklemekle bir şey elde edilmez, çalışmak gerekir."
+    },
+    {
+      "atasozu": "El kazanı ile aş kaynamaz.",
+      "anlam": "Başkalarının yardımıyla sürekli olarak bir iş yapılamaz."
+    },
+    {
+      "atasozu": "El yumruğu yemeyen kendi yumruğunu balyoz sanır.",
+      "anlam": "Gerçek bir zorlukla karşılaşmayanın kendini çok güçlü sandığını ifade eder."
+    },
+    {
+      "atasozu": "Elden gelen öğün olmaz, o da vaktinde bulunmaz.",
+      "anlam": "Son anda yapılan işlerin genellikle yetersiz olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Erin özü sözü bir olmak gerek.",
+      "anlam": "İnsan, söylediğiyle yaptığı tutarlı olmalıdır."
+    },
+    {
+      "atasozu": "Erken kalkan yol alır.",
+      "anlam": "Bir işe erken başlayanların daha başarılı olacağını öğütler."
+    },
+    {
+      "atasozu": "Eşeğe altın semer vursan eşek yine eşektir.",
+      "anlam": "Kişinin karakteri değişmez, dış görünüşü ne kadar değişirse değişsin."
+    },
+    {
+      "atasozu": "Eski dost düşman olmaz.",
+      "anlam": "Uzun süreli dostluğun kolay kolay bozulmayacağını belirtir."
+    },
+    {
+      "atasozu": "Eski kurt yolunu şaşırmaz.",
+      "anlam": "Deneyimli insanlar, zor durumlarda bile doğru yolu bulabilirler."
+    },
+    {
+      "atasozu": "Ev alma komşu al.",
+      "anlam": "İyi komşular, iyi bir evden daha önemlidir."
+    },
+    {
+      "atasozu": "Felek kimine kavun yedirir kimine kelek.",
+      "anlam": "Hayat herkese eşit davranmaz, bazıları şanslıdır, bazıları şanssız."
+    },
+    {
+      "atasozu": "Garip kuşun yuvasını Allah yapar.",
+      "anlam": "Zor durumda olanlara, Allah yardım eder."
+    },
+    {
+      "atasozu": "Gelen gideni aratır.",
+      "anlam": "Bazı insanlar, gittikten sonra değerleri daha iyi anlaşılır."
+    },
+    {
+      "atasozu": "Gemi karaya vurunca kaptan çok olur.",
+      "anlam": "Bir hata yapıldıktan sonra akıl veren çok olur."
+    },
+    {
+      "atasozu": "Gözden ırak olan gönülden de ırak olur.",
+      "anlam": "Uzakta olanlar, zamanla unutulur."
+    },
+    {
+      "atasozu": "Gülme komşuna gelir başına.",
+      "anlam": "Başkalarının başına gelen kötü olaylarla alay etmemek gerekir, çünkü aynısı kendi başına da gelebilir."
+    },
+    {
+      "atasozu": "Gün doğmadan neler doğar.",
+      "anlam": "Gelecekte neler olacağını kimse bilemez."
+    },
+    {
+      "atasozu": "Güneş balçıkla sıvanmaz.",
+      "anlam": "Gerçekler saklanamaz veya çarpıtılamaz."
+    },
+    {
+      "atasozu": "Habersiz köpek sürüye kurt getirir.",
+      "anlam": "Dikkatsiz ve bilgisiz kişiler, farkında olmadan büyük zararlara yol açabilirler."
+    },
+    {
+      "atasozu": "Hacda bulunmakla hacı olunmaz.",
+      "anlam": "Sadece bir şeyi yapmakla, o şeyin gerektirdiği niteliklere sahip olunmaz."
+    },
+    {
+      "atasozu": "Hak deyince akan sular durur.",
+      "anlam": "Haklı olana herkes saygı duyar."
+    },
+    {
+      "atasozu": "Halep oradaysa arşın burada.",
+      "anlam": "Söylediğin şeyin doğruluğunu kanıtlayabilirim."
+    },
+    {
+      "atasozu": "Harama el uzatanın eli kurur.",
+      "anlam": "Haksız kazanç, kişiye zarar verir."
+    },
+    {
+      "atasozu": "Hasta olmayan sağlığın kadrini bilmez.",
+      "anlam": "Sağlıklı olan kişi, sağlığının değerini anlamaz."
+    },
+    {
+      "atasozu": "Hayır dile komşuna hayır gele başına.",
+      "anlam": "Başkalarına iyilik dilersen, sen de iyilik bulursun."
+    },
+    {
+      "atasozu": "Hayırın büyüğü küçüğü olmaz.",
+      "anlam": "Yapılan her iyilik değerlidir."
+    },
+    {
+      "atasozu": "Her ağacın meyvesi olmaz.",
+      "anlam": "Her şeyden fayda beklenemez."
+    },
+    {
+      "atasozu": "Her çiçek koklanmaz.",
+      "anlam": "Her şeyden faydalanılmaz veya her şeye güvenilmez."
+    },
+    {
+      "atasozu": "Her işte bir hayır vardır.",
+      "anlam": "Kötü gibi görünen olaylarda bile, ileride ortaya çıkacak bir iyilik olabilir."
+    },
+    {
+      "atasozu": "Her kuşun eti yenmez.",
+      "anlam": "Her şeyden faydalanılmaz veya her şeye güvenilmez."
+    },
+    {
+      "atasozu": "Her lafın altından bir mana çıkar.",
+      "anlam": "Söylenen her sözün bir anlamı vardır."
+    },
+    {
+      "atasozu": "Hırsız evden olunca öküz bacadan çıkar.",
+      "anlam": "İçeriden bir hain varsa, en büyük zararlar bile kolayca gerçekleşebilir."
+    },
+    {
+      "atasozu": "Hocanın dediğini yap, yaptığını yapma.",
+      "anlam": "Bazı insanlar, başkalarına öğüt verdikleri şeyleri kendileri yapmazlar."
+    },
+    {
+      "atasozu": "Horozu çok olan köyün sabahı geç olur.",
+      "anlam": "Çok fazla yönetici veya söz sahibi olan yerde, işler yavaş ilerler."
+    },
+    {
+      "atasozu": "Irmak kenarında susuz ölmek.",
+      "anlam": "İmkânı varken faydalanamamak."
+    },
+    {
+      "atasozu": "Isıracak köpek dişini göstermez.",
+      "anlam": "Tehlikeli kişiler, niyetlerini belli etmezler."
+    },
+    {
+      "atasozu": "İğneyi kendine çuvaldızı başkasına batır.",
+      "anlam": "Başkalarını eleştirmeden önce, kendini eleştir."
+    },
+    {
+      "atasozu": "İki cambaz bir ipte oynamaz.",
+      "anlam": "Aynı alanda iki yetkin kişinin anlaşmazlık yaşayabileceğini belirtir."
+    },
+    {
+      "atasozu": "İki dinle bir söyle.",
+      "anlam": "Çok konuşmak yerine, daha çok dinlemek gerekir."
+    },
+    {
+      "atasozu": "İki gönül bir olunca samanlık seyran olur.",
+      "anlam": "Sevgi dolu bir ilişkide, zor koşullar bile mutluluk kaynağı olabilir."
+    },
+    {
+      "atasozu": "İki ölç bir biç.",
+      "anlam": "Bir işi yapmadan önce iyice düşünmek gerekir."
+    },
+    {
+      "atasozu": "İki şey akla zarar verir: gülmekle ağlamak.",
+      "anlam": "Aşırı sevinç ve aşırı üzüntü, insana zarar verebilir."
+    },
+    {
+      "atasozu": "İki tekere bir takoz yetmez.",
+      "anlam": "Aynı anda iki farklı sorunu çözmek zordur."
+    },
+    {
+      "atasozu": "İki vezirden bir şehir harap olur.",
+      "anlam": "Çok fazla yönetici veya söz sahibi olan yerde, işler yavaş ilerler."
+    },
+    {
+      "atasozu": "İkiyi söyleme, biri dinlesin.",
+      "anlam": "Sözlerini dikkatli seç, herkesi memnun edemezsin."
+    },
+    {
+      "atasozu": "İki yüzlü tilkiden bir post olmaz.",
+      "anlam": "Güvenilmez insanlardan fayda gelmez."
+    },
+    {
+      "atasozu": "İki el bir baş içindir.",
+      "anlam": "Yardımlaşma, zorlukların üstesinden gelmek için önemlidir."
+    },
+    {
+      "atasozu": "İki çıplak bir hamama yakışır.",
+      "anlam": "Benzer durumda olan insanlar birbirleriyle anlaşırlar."
+    },
+    {
+      "atasozu": "İki at bir kazığa bağlanmaz.",
+      "anlam": "İki farklı görüş veya amaç, aynı yerde bir arada bulunamaz."
+    },
+    {
+      "atasozu": "İki baş bir kazanda kaynamaz.",
+      "anlam": "Farklı görüşlere sahip insanlar, birlikte çalışamazlar."
+    },
+    {
+      "atasozu": "İki deli bir kuyuya taş atar, kırk akıllı çıkaramaz.",
+      "anlam": "Düşüncesizce yapılan bir işin zararları, sonradan düzeltilemez."
+    },
+    {
+      "atasozu": "İki doğrunun arası bir eğri.",
+      "anlam": "Her zaman doğruyu bulmak mümkün değildir."
+    },
+    {
+      "atasozu": "İki eşek bir arpa yiyemez.",
+      "anlam": "Bencillik, paylaşmayı engeller."
+    },
+    {
+      "atasozu": "İki göz bir burun.",
+      "anlam": "Herkes aynıdır, kimse kimseden üstün değildir."
+    },
+    {
+      "atasozu": "İki kardeş bir yastığa baş koymaz.",
+      "anlam": "Kardeşler arasında bile anlaşmazlıklar olabilir."
+    },
+    {
+      "atasozu": "İki kaptan bir gemiyi batırır.",
+      "anlam": "Çok fazla yönetici veya söz sahibi olan yerde, işler yavaş ilerler."
+    },
+    {
+      "atasozu": "İki kedi bir köpeğe saldırmaz.",
+      "anlam": "Güçlü bir düşmana karşı birlik olmak gerekir."
+    },
+    {
+      "atasozu": "İki kulak bir dil için.",
+      "anlam": "Çok konuşmak yerine, daha çok dinlemek gerekir."
+    },
+    {
+      "atasozu": "İki kurt bir post için kavga eder.",
+      "anlam": "Bencillik, paylaşmayı engeller."
+    },
+    {
+      "atasozu": "İki namaz arasında bir kaza olmaz.",
+      "anlam": "Her şeyin bir zamanı vardır, acele etmeye gerek yoktur."
+    },
+    {
+      "atasozu": "İki öküz bir arabayı çeker.",
+      "anlam": "Yardımlaşma, zorlukların üstesinden gelmek için önemlidir."
+    },
+    {
+      "atasozu": "İki pire bir yorganı kemirir.",
+      "anlam": "Küçük sorunlar birleşince büyük sorunlara yol açabilir."
+    },
+    {
+      "atasozu": "İki sözden biri tatlıdır.",
+      "anlam": "İnsanları kırmadan konuşmak önemlidir."
+    },
+    {
+      "atasozu": "İki tavşan birden avlanmaz.",
+      "anlam": "Aynı anda iki farklı işi yapmak zordur."
+    },
+    {
+      "atasozu": "İki teke bir derede otlamaz.",
+      "anlam": "Farklı görüşlere sahip insanlar, birlikte yaşayamazlar."
+    },
+    {
+      "atasozu": "İki tilki bir inin ağzında buluşmaz.",
+      "anlam": "Kötü niyetli insanlar, birbirlerinden uzak dururlar."
+    },
+    {
+      "atasozu": "İt ürür kervan yürür.",
+      "anlam": "Boş eleştirilere aldırmadan işine devam et."
+    },
+    {
+      "atasozu": "İşleyen demir pas tutmaz.",
+      "anlam": "Sürekli çalışan ve aktif olan kişi veya şeyler körelmez, aksine gelişir."
+    },
+    {
+      "atasozu": "İşin başı sağlık.",
+      "anlam": "Her şeyin temelinde sağlık yatar."
+    },
+    {
+      "atasozu": "Kaçan kovalanmaz.",
+      "anlam": "İlgisiz veya isteksiz olan birinin peşinden koşmaya gerek yoktur."
+    },
+    {
+      "atasozu": "Kadı gibi adaletli olmak.",
+      "anlam": "Çok adaletli olmak."
+    },
+    {
+      "atasozu": "Kaçtıktan sonra çuval açılmaz.",
+      "anlam": "Bir fırsat kaçtıktan sonra, artık yapılabilecek bir şey yoktur."
+    },
+    {
+      "atasozu": "Kafakâğıdıyla peynir gemisi yürümez.",
+      "anlam": "Sadece konuşmakla iş yapılmaz, icraat gereklidir."
+    },
+    {
+      "atasozu": "Kâğıt üzerinde her şey kolaydır.",
+      "anlam": "Plan yapmak kolaydır, ancak uygulamak zor olabilir."
+    },
+    {
+      "atasozu": "Kalem kılıçtan keskindir.",
+      "anlam": "Bilgi ve düşünce, fiziksel güçten daha etkilidir."
+    },
+    {
+      "atasozu": "Kambersiz düğün olmaz.",
+      "anlam": "Her olayın olmazsa olmaz bir parçası vardır."
+    },
+    {
+      "atasozu": "Kan ter içinde kalmak.",
+      "anlam": "Çok yorulmak, çok çalışmak."
+    },
+    {
+      "atasozu": "Kanı kaynamak.",
+      "anlam": "Birine karşı ani bir sempati duymak."
+    },
+    {
+      "atasozu": "Kara gün kararıp kalmaz.",
+      "anlam": "Kötü günlerin geçici olduğunu, er ya da geç biteceğini belirtir."
+    },
+    {
+      "atasozu": "Karga ile gezenden gübre yemek düşer.",
+      "anlam": "Kötü arkadaşlarla gezersen, sen de kötü duruma düşersin."
+    },
+    {
+      "atasozu": "Karpuz kabuğuyla denize girmek.",
+      "anlam": "Hazırlıksız ve bilgisizce bir işe girişmek."
+    },
+    {
+      "atasozu": "Kasap et derdinde, koyun can derdinde.",
+      "anlam": "Herkesin önceliği farklıdır."
+    },
+    {
+      "atasozu": "Kaş yapayım derken göz çıkarmak.",
+      "anlam": "İyilik yapmaya çalışırken kötülük yapmak."
+    },
+    {
+      "atasozu": "Katıra 'baban kim?' demişler, 'dayım attır' demiş.",
+      "anlam": "Kişi, kendi kusurlarını görmezden gelir."
+    },
+    {
+      "atasozu": "Kavga dövüşle pazar olmaz.",
+      "anlam": "Anlaşmazlıklarla iş yapılamaz."
+    },
+    {
+      "atasozu": "Kavun koklayarak yenmez.",
+      "anlam": "Bir şeyi elde etmek için çaba göstermek gerekir."
+    },
+    {
+      "atasozu": "Kaymağı seven mandayı yanında taşır.",
+      "anlam": "Bir şeyin faydasını görmek isteyen, onun zorluklarına da katlanmalıdır."
+    },
+    {
+      "atasozu": "Kaz gelen yerden tavuk esirgenmez.",
+      "anlam": "Büyük bir kazanç sağlayacaksa, küçük fedakarlıklardan kaçınılmaması gerektiğini belirtir."
+    },
+    {
+      "atasozu": "Kaz kazla, baz bazla, kel tavuk dazlakla.",
+      "anlam": "Herkes kendi benzeriyle arkadaşlık eder."
+    },
+    {
+      "atasozu": "Kaza geliyorum demez.",
+      "anlam": "Kötü olaylar aniden ve beklenmedik bir şekilde gerçekleşebilir."
+    },
+    {
+      "atasozu": "Kedi ciğere bakar gibi bakmak.",
+      "anlam": "Bir şeye çok istekli ve özlemle bakmak."
+    },
+    {
+      "atasozu": "Kedi gibi dört ayak üzerine düşmek.",
+      "anlam": "Zor durumlardan bile kolayca kurtulmak."
+    },
+    {
+      "atasozu": "Kedi ile köpek gibi geçinmek.",
+      "anlam": "Sürekli kavga etmek, anlaşmazlık içinde olmak."
+    },
+    {
+      "atasozu": "Kedi olalı bir fare tuttu.",
+      "anlam": "Hayatı boyunca ilk kez başarılı olmak."
+    },
+    {
+      "atasozu": "Kel yanında kabak anılmaz.",
+      "anlam": "Hassas konular, ilgili kişilerin yanında konuşulmamalıdır."
+    },
+    {
+      "atasozu": "Kelin ilacı olsa başına sürer.",
+      "anlam": "Kişi, kendi sorunlarını çözemiyorsa, başkalarına nasıl yardım edebilir?"
+    },
+    {
+      "atasozu": "Kemiği ile eti birleşmek.",
+      "anlam": "Çok zayıflamak."
+    },
+    {
+      "atasozu": "Kendi göbeğini kendi kesmek.",
+      "anlam": "Kimseye muhtaç olmadan kendi işini görmek."
+    },
+    {
+      "atasozu": "Keskin sirke küpüne zarar verir.",
+      "anlam": "Aşırı öfke ve sertlik, kişiye zarar verir."
+    },
+    {
+      "atasozu": "Kılıç yarası geçer, dil yarası geçmez.",
+      "anlam": "Sözler, fiziksel yaralardan daha derin ve kalıcı izler bırakabilir."
+    },
+    {
+      "atasozu": "Kır atın yanında duran ya huyundan ya suyundan.",
+      "anlam": "Kişi, arkadaş çevresinden etkilenir."
+    },
+    {
+      "atasozu": "Kırk dereden su getirmek.",
+      "anlam": "Bir işi yapmak için çok uğraşmak, çok çabalamak."
+    },
+    {
+      "atasozu": "Kırk gün taban eti, bir gün av eti.",
+      "anlam": "Sürekli yapılan bir işin yerine, ara sıra yapılan zevkli bir iş tercih edilir."
+    },
+    {
+      "atasozu": "Kısmet ise gelir Hint'ten, Yemen'den; kısmet değilse ne gelir elden.",
+      "anlam": "Kısmetinde ne varsa o olur, ne kadar çabalasan da kısmetinde olmayanı elde edemezsin."
+    },
+    {
+      "atasozu": "Kişi arkadaşından bellidir.",
+      "anlam": "Bir insanın karakteri, arkadaş çevresinden anlaşılabilir."
+    },
+    {
+      "atasozu": "Kişi kendini bilmezse, sözünü bilmez.",
+      "anlam": "Kendini tanımayan kişi, ne söylediğini de bilmez."
+    },
+    {
+      "atasozu": "Kişi ne ekerse onu biçer.",
+      "anlam": "Herkes yaptıklarının karşılığını görür."
+    },
+    {
+      "atasozu": "Koca karı erkeği neyler, eski çuvalı deyler.",
+      "anlam": "Yaşlı kadınlar için evlilik önemli değildir, onlar için önemli olan geçimlerini sağlamaktır."
+    },
+    {
+      "atasozu": "Koç yiğit harman yerinde belli olur.",
+      "anlam": "İnsanların yetenekleri, zorlu işlerde ortaya çıkar."
+    },
+    {
+      "atasozu": "Komşunun tavuğu komşuya kaz görünür.",
+      "anlam": "İnsanlar, başkalarının sahip olduklarını daha değerli görürler."
+    },
+    {
+      "atasozu": "Konuşan balıklar, uçan kaplumbağalar.",
+      "anlam": "İmkansız ve gerçekleşmesi mümkün olmayan şeyler için kullanılır."
+    },
+    {
+      "atasozu": "Korkak bezirgan ne kar eder ne zarar.",
+      "anlam": "Risk almaktan kaçınanın ne kazanabileceğini ne de kaybedeceğini ifade eder."
+    },
+    {
+      "atasozu": "Korkunun ecele faydası yoktur.",
+      "anlam": "Korkmak, kötü bir olayı engellemez."
+    },
+    {
+      "atasozu": "Koyun can derdinde, kasap et derdinde.",
+      "anlam": "Aynı olayda insanların farklı çıkarlar peşinde olduğunu belirtir."
+    },
+    {
+      "atasozu": "Koyunun bulunmadığı yerde keçiye Abdurrahman Çelebi derler.",
+      "anlam": "Yoklukta, değersiz olan bile değerli sayılır."
+    },
+    {
+      "atasozu": "Kör atın kör alıcısı olur.",
+      "anlam": "Her şeyin bir alıcısı vardır."
+    },
+    {
+      "atasozu": "Körler memleketinde ayna satılmaz.",
+      "anlam": "Değerli bir şey, değerini bilmeyenlerin yanında kıymetsizdir."
+    },
+    {
+      "atasozu": "Kötü haber tez duyulur.",
+      "anlam": "Olumsuz olaylar, çabuk yayılır."
+    },
+    {
+      "atasozu": "Kötülük eden kötülük bulur.",
+      "anlam": "Başkalarına kötülük yapan kişi, sonunda kendi kötülüğünü bulur."
+    },
+    {
+      "atasozu": "Kurt kocayınca kuzunun maskarası olur.",
+      "anlam": "Güçlü olanlar yaşlanınca, güçsüzlerin alay konusu olurlar."
+    },
+    {
+      "atasozu": "Kurtla ortak olan ulumaktan hisse alır.",
+      "anlam": "Kötü niyetli kişilerle iş yapan, zarar görür."
+    },
+    {
+      "atasozu": "Kuru laf karın doyurmaz.",
+      "anlam": "Boş sözlerin bir fayda sağlamayacağını, eyleme ihtiyaç olduğunu belirtir."
+    },
+    {
+      "atasozu": "Kusursuz dost arayan dostsuz kalır.",
+      "anlam": "Mükemmeliyet arayanların yalnız kalabileceğini belirtir."
+    },
+    {
+      "atasozu": "Kuzu kurdun yanına emanet edilmez.",
+      "anlam": "Kötü niyetli kişilere güvenilmez."
+    },
+    {
+      "atasozu": "Lüküs hayatın sonu püs olur.",
+      "anlam": "Gösterişli ve aşırı harcamalı bir hayatın sonu, genellikle kötü olur."
+    },
+    {
+      "atasozu": "Maymun gözünü açtı.",
+      "anlam": "Bir kişi, daha önce bilmediği bir şeyi öğrendiğinde veya fark ettiğinde kullanılır."
+    },
+    {
+      "atasozu": "Mazlumun ahı aheste aheste çıkar.",
+      "anlam": "Mazlumun bedduası zamanla gerçekleşir."
+    },
+    {
+      "atasozu": "Meyveli ağacı taşlarlar.",
+      "anlam": "Başarılı ve gözde olan kişileri çekemeyenler çok olur."
+    },
+    {
+      "atasozu": "Minareyi çalan kılıfını hazırlar.",
+      "anlam": "Kötü bir iş yapanın bunu gizlemek için bahane bulacağını belirtir."
+    },
+    {
+      "atasozu": "Misafir umduğunu değil bulduğunu yer.",
+      "anlam": "Misafir, ev sahibinin ikram ettiğiyle yetinmelidir."
+    },
+    {
+      "atasozu": "Nadanla dost olacağına, arslanla post ol.",
+      "anlam": "Cahil ve kötü niyetli insanlarla arkadaşlık etmektense, güçlü ve tehlikeli insanlarla bile mücadele etmek daha iyidir."
+    },
+    {
+      "atasozu": "Namazda gözü olmayanın ezanda kulağı olmaz.",
+      "anlam": "Bir şeye ilgi duymayan kişi, o şeyle ilgili hiçbir şeye dikkat etmez."
+    },
+    {
+      "atasozu": "Ne ekersen onu biçersin.",
+      "anlam": "Yaptıklarının sonucunu yaşayacağını, iyilik yaparsan iyilik, kötülük yaparsan kötülük bulacağını belirtir."
+    },
+    {
+      "atasozu": "Ne gelir elden?",
+      "anlam": "Yapılabilecek bir şey yok, çaresiz kalındığında söylenir."
+    },
+    {
+      "atasozu": "Ne keser, ne satır; ne balta, ne çekiç.",
+      "anlam": "Hiçbir işe yaramayan, etkisiz şeyler için kullanılır."
+    },
+    {
+      "atasozu": "Nerede hareket, orada bereket.",
+      "anlam": "Çalışmak ve aktif olmak, kazanç ve başarı getirir."
+    },
+    {
+      "atasozu": "Nush ile uslanmayanı etmeli tekdir, tekdir ile uslanmayanın hakkı kötektir.",
+      "anlam": "Uyarılarla düzelmeyen kişiye sert davranmak gerekir."
+    },
+    {
+      "atasozu": "Ocak başına ne doğrarsan aşına o çıkar kaşığına.",
+      "anlam": "Ne ekersen onu biçersin."
+    },
+    {
+      "atasozu": "Olacakla öleceğe çare bulunmaz.",
+      "anlam": "Kaderde olan kaçınılmazdır, engel olmaya çalışmak boşunadır."
+    },
+    {
+      "atasozu": "Olgun başak boynunu eğer.",
+      "anlam": "Bilgili ve görgülü insanlar, alçakgönüllü olurlar."
+    },
+    {
+      "atasozu": "Onmadık yılın yağmuru çamur getirir.",
+      "anlam": "Uğursuz veya kötü geçen bir dönemde, her şey ters gider."
+    },
+    {
+      "atasozu": "On para on aslanın ağzında.",
+      "anlam": "Küçük bir kazanç elde etmek için bile çok çaba göstermek gerekir."
+    },
+    {
+      "atasozu": "Oralı olma.",
+      "anlam": "Aldırma, önemseme."
+    },
+    {
+      "atasozu": "Ortak gemisi yürümüş, elti gemisi yürümemiş.",
+      "anlam": "Ortaklıklar bazen başarılı olurken, aile içi ortaklıklar genellikle sorunlu olur."
+    },
+    {
+      "atasozu": "Otu çek köküne bak.",
+      "anlam": "Bir şeyin aslını öğrenmek için, kökenine bakmak gerekir."
+    },
+    {
+      "atasozu": "Oynamasını bilmeyen kız yerim dar demiş, yeri bolaltmışlar yine dar demiş.",
+      "anlam": "Beceriksiz insanlar, başarısızlıklarını bahanelerle örtmeye çalışırlar."
+    },
+    {
+      "atasozu": "Oyun eşek oyunu.",
+      "anlam": "Kaba ve düşüncesizce yapılan hareketler için kullanılır."
+    },
+    {
+      "atasozu": "Oğlan anadan öğrenir sofra düzmeyi, kız babadan öğrenir at binmeyi.",
+      "anlam": "Çocuklar, genellikle anne ve babalarından farklı beceriler öğrenirler."
+    },
+    {
+      "atasozu": "Öfke baldan tatlıdır.",
+      "anlam": "Öfkelenmek, anlık olarak kişiye tatmin duygusu verebilir."
+    },
+    {
+      "atasozu": "Öfke ile kalkan zararla oturur.",
+      "anlam": "Öfkeyle hareket eden kişi, sonunda pişman olur."
+    },
+    {
+      "atasozu": "Öksüzün karnı doyar, gözü doymaz.",
+      "anlam": "Yokluk içinde büyüyen kişi, her zaman daha fazlasını ister."
+    },
+    {
+      "atasozu": "Ölme eşeğim ölme, yazın yonca bitecek.",
+      "anlam": "Boş umutlarla oyalanmak."
+    },
+    {
+      "atasozu": "Ölmüş eşek kurttan korkmaz.",
+      "anlam": "Zarar görecek bir şeyi kalmayan kişi, kimseden korkmaz."
+    },
+    {
+      "atasozu": "Ölüm ile sıtma arasında ince bir perde vardır.",
+      "anlam": "Hayat çok kırılgandır, her an her şey olabilir."
+    },
+    {
+      "atasozu": "Ölümden öte köy yok.",
+      "anlam": "Ölüm, her şeyin sonudur."
+    },
+    {
+      "atasozu": "Ön tekerlek nereye giderse art tekerlek de oraya gider.",
+      "anlam": "Büyükler ne yaparsa küçükler de onu yapar."
+    },
+    {
+      "atasozu": "Önce can sonra canan.",
+      "anlam": "Kişi, öncelikle kendi canını düşünmelidir."
+    },
+    {
+      "atasozu": "Öpmeye yüzün yoksa, yol ver geçsin.",
+      "anlam": "Birine yardım edemiyorsan, engel de olma."
+    },
+    {
+      "atasozu": "Ördekten kaz, aptaldan naz olmaz.",
+      "anlam": "Herkes kendi doğasına uygun davranır."
+    },
+    {
+      "atasozu": "Ödünç güle güle gelir, ağlaya ağlaya gider.",
+      "anlam": "Borç alırken sevinilir, öderken üzülünür."
+    },
+    {
+      "atasozu": "Öküze boynuzu yük olmaz.",
+      "anlam": "Kişi, kendi sorumluluklarını taşımaktan yorulmaz."
+    },
+    {
+      "atasozu": "Ölenle ölünmez.",
+      "anlam": "Hayat devam eder, kayıplar olsa da yaşama devam etmek gerekir."
+    },
+    {
+      "atasozu": "Ölürse yer beğensin, ölmezse el beğensin.",
+      "anlam": "Yapılan işin sonucunda ya insanlar beğenir ya da kimse beğenmez."
+    },
+    {
+      "atasozu": "Pabucu dama atılmak.",
+      "anlam": "İtibarı kaybolmak, gözden düşmek."
+    },
+    {
+      "atasozu": "Padişahın bile arkasından kılıç sallarlar.",
+      "anlam": "En yüksek mevkideki kişilerin bile eleştirilebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Papaz her gün pilav yemez.",
+      "anlam": "Her şeyin bir zamanı vardır, sürekli aynı şey olmaz."
+    },
+    {
+      "atasozu": "Para ile imanın kimde olduğu bilinmez.",
+      "anlam": "İnsanın iç dünyası ve niyetleri bilinemez."
+    },
+    {
+      "atasozu": "Perşembenin gelişi çarşambadan bellidir.",
+      "anlam": "Bir işin nasıl sonuçlanacağı, başlangıcından anlaşılabilir."
+    },
+    {
+      "atasozu": "Pilavdan dönenin kaşığı kırılsın.",
+      "anlam": "Başlanmış bir işten vazgeçmek doğru değildir."
+    },
+    {
+      "atasozu": "Rahat ararsan mezarda.",
+      "anlam": "Dünya hayatında rahatlık bulmak zordur."
+    },
+    {
+      "atasozu": "Ramazanda yalan söyleyenin (oruç yiyenin) bayramda yüzü kara olsun.",
+      "anlam": "Yalan söylemek her zaman kötüdür, özellikle kutsal zamanlarda daha da kötüdür."
+    },
+    {
+      "atasozu": "Rençber kırk yılda, tüccar kırk günde.",
+      "anlam": "Bazı işler uzun zaman alırken, bazıları daha kısa sürede sonuçlanır."
+    },
+    {
+      "atasozu": "Rüzgar eken fırtına biçer.",
+      "anlam": "Kötü işler yapanın daha büyük belalarla karşılaşacağını ifade eder."
+    },
+    {
+      "atasozu": "Rüzgar esmeyince yaprak oynamaz (dal kımıldamaz).",
+      "anlam": "Her olayın bir nedeni vardır."
+    },
+    {
+      "atasozu": "Rüzgarın önüne düşmeyen yorulur.",
+      "anlam": "Zamanın ve şartların akışına uymayan kişi, zorlanır."
+    },
+    {
+      "atasozu": "Rüşvet kapıdan girince iman bacadan çıkar.",
+      "anlam": "Rüşvet, ahlaki değerleri yok eder."
+    },
+    {
+      "atasozu": "Sabah ola hayır ola.",
+      "anlam": "Yeni bir günün hayırlı olması dileğiyle kullanılır."
+    },
+    {
+      "atasozu": "Sabrın sonu selamettir.",
+      "anlam": "Sabreden kişi sonunda amacına ulaşır."
+    },
+    {
+      "atasozu": "Saçın ak mı kara mı önüne düşünce görürsün.",
+      "anlam": "Gerçekler zamanla ortaya çıkar."
+    },
+    {
+      "atasozu": "Sadık dost akrabadan yeğdir.",
+      "anlam": "Güvenilir bir dost, akrabalardan daha değerlidir."
+    },
+    {
+      "atasozu": "Sağ baş yastık istemez.",
+      "anlam": "Sağlıklı olmak, her şeyden önemlidir."
+    },
+    {
+      "atasozu": "Sakla samanı gelir zamanı.",
+      "anlam": "Değersiz gibi görünen şeyler bile bir gün işe yarayabilir."
+    },
+    {
+      "atasozu": "Sana taşla vurana sen aşla vur.",
+      "anlam": "Kötülüğe iyilikle karşılık ver."
+    },
+    {
+      "atasozu": "Sarımsağı gelin etmişler kırk gün kokusu çıkmamış.",
+      "anlam": "Kişi ne kadar saklamaya çalışsa da gerçek kimliği er ya da geç ortaya çıkar."
+    },
+    {
+      "atasozu": "Savaş davul ile, barış zurna ile.",
+      "anlam": "Her işin kendine özgü bir yöntemi vardır."
+    },
+    {
+      "atasozu": "Sel gider kum kalır.",
+      "anlam": "Geçici olaylar bittikten sonra geriye kalıcı izler bırakır."
+    },
+    {
+      "atasozu": "Sel ile gelen yel ile gider.",
+      "anlam": "Kolay kazanılan şeyler kolay kaybedilir."
+    },
+    {
+      "atasozu": "Sen ağa ben ağa, bu ineği kim sağa?",
+      "anlam": "Herkes bir işi yapmaktan kaçınırsa, o iş yapılamaz."
+    },
+    {
+      "atasozu": "Sen bilirsin işini, karıştırma aşımı.",
+      "anlam": "Herkes kendi işini en iyi bilir, başkalarının işine karışmamak gerekir."
+    },
+    {
+      "atasozu": "Sen doğru ol eğri belasını bulur.",
+      "anlam": "Doğru yoldan ayrılma, kötü niyetli kişiler sonunda cezalandırılır."
+    },
+    {
+      "atasozu": "Sen eşeği boyadın mı, sana eşek mi dayanır?",
+      "anlam": "Bir işi özensiz yaparsan, sonuçları da kötü olur."
+    },
+    {
+      "atasozu": "Sen işlersen bağ, bitlenirsen dağ.",
+      "anlam": "Emek verirsen karşılığını alırsın."
+    },
+    {
+      "atasozu": "Sen yanmazsan ben yanmazsam nasıl çıkar karanlıklar aydınlığa?",
+      "anlam": "Bir sorunu çözmek için herkesin fedakarlık yapması gerekir."
+    },
+    {
+      "atasozu": "Sermayesiz ticaret olmaz.",
+      "anlam": "Hiçbir iş için gerekli olan kaynaklar olmadan başarı elde edilemez."
+    },
+    {
+      "atasozu": "Sıcağa kar mı dayanır?",
+      "anlam": "Güçlü bir etkiye karşı zayıf olan dayanamaz."
+    },
+    {
+      "atasozu": "Sır sırra emanettir.",
+      "anlam": "Sırlar güvenilir kişilere emanet edilmelidir."
+    },
+    {
+      "atasozu": "Söz gümüşse sükut altındır.",
+      "anlam": "Konuşmak bazen faydalı olsa da susmak daha değerlidir."
+    },
+    {
+      "atasozu": "Sürüden ayrılanı kurt kapar.",
+      "anlam": "Topluluktan ayrılan kişi tehlikeye düşer."
+    },
+    {
+      "atasozu": "Sütten ağzı yanan yoğurdu üfleyerek yer.",
+      "anlam": "Kötü bir tecrübe yaşayanın daha temkinli olacağını belirtir."
+    },
+    {
+      "atasozu": "Şahin ile deve avlanmaz.",
+      "anlam": "Herkes kendi yeteneklerine uygun işler yapmalıdır."
+    },
+    {
+      "atasozu": "Şahin küçük ama koca turnayı havadan indirir.",
+      "anlam": "Bazen küçük gibi görünen şeyler büyük işler başarabilir."
+    },
+    {
+      "atasozu": "Şakanın sonu kakadır.",
+      "anlam": "Aşırı şaka, tatsız sonuçlar doğurabilir."
+    },
+    {
+      "atasozu": "Şap ile şeker bir değil.",
+      "anlam": "Görünüşte benzer olan şeyler, özünde farklı olabilir."
+    },
+    {
+      "atasozu": "Şaraptan bozma sirke keskin olur.",
+      "anlam": "Kötü bir şeyden elde edilen sonuç, daha da kötü olabilir."
+    },
+    {
+      "atasozu": "Şaşkın ördek başını bırakır, kıçından dalar.",
+      "anlam": "Ne yaptığını bilmeyen kişi, yanlış işler yapar."
+    },
+    {
+      "atasozu": "Şeytanla kabak ekenin kabak başına patlar.",
+      "anlam": "Kötü niyetli kişilerle iş yapan, zarar görür."
+    },
+    {
+      "atasozu": "Şeytanın dostluğu darağacına kadardır.",
+      "anlam": "Kötü niyetli kişilere güvenilmez."
+    },
+    {
+      "atasozu": "Şiş yandı kebap yandı.",
+      "anlam": "Her şey mahvoldu."
+    },
+    {
+      "atasozu": "Şu duvarın dili olsa da söylese.",
+      "anlam": "Gizli kalmış olayların ortaya çıkması dileğiyle kullanılır."
+    },
+    {
+      "atasozu": "Tabancanın dolusu, yiğidin delisi.",
+      "anlam": "Tehlikeli şeyler, tehlikeli insanlara yakışır."
+    },
+    {
+      "atasozu": "Taç başa akıl yaşa bakar.",
+      "anlam": "İnsanların değeri, yaşlarına ve akıllarına göre ölçülür."
+    },
+    {
+      "atasozu": "Taşıma su ile değirmen dönmez.",
+      "anlam": "Sürekli başkalarından yardım alarak iş yapılamaz."
+    },
+    {
+      "atasozu": "Tencere dibin kara, seninki benden kara.",
+      "anlam": "Herkesin kusurları vardır, kimse kusursuz değildir."
+    },
+    {
+      "atasozu": "Terzi kendi söküğünü dikemez.",
+      "anlam": "Kişi, başkalarına yardım ederken kendi sorunlarını çözemeyebilir."
+    },
+    {
+      "atasozu": "Tilki kendi kuyruğunu över.",
+      "anlam": "Kişi, kendi yeteneklerini ve başarılarını abartır."
+    },
+    {
+      "atasozu": "Tilki tilkiliğini bildirinceye kadar post elden gider.",
+      "anlam": "Kötü niyetli kişilerin gerçek yüzü ortaya çıkana kadar zarar görmüş olunur."
+    },
+    {
+      "atasozu": "Tok ağırlaması güç olur.",
+      "anlam": "İhtiyacı olmayan kişiyi memnun etmek zordur."
+    },
+    {
+      "atasozu": "Tok iken yemek yemek, üstüne bir de dokunmak.",
+      "anlam": "İhtiyacı olmadığı halde bir şey istemek veya yapmak."
+    },
+    {
+      "atasozu": "Topalla gezen aksamak öğrenir.",
+      "anlam": "Kötü arkadaşlarla gezersen, sen de kötü alışkanlıklar edinirsin."
+    },
+    {
+      "atasozu": "Tüccar ne kadar alçak bassa, kesesi o kadar yüksek basar.",
+      "anlam": "Alçakgönüllü ve dürüst tüccarlar, daha çok kazanç elde ederler."
+    },
+    {
+      "atasozu": "Uçan kuşun kanadından süt çıkar.",
+      "anlam": "İmkansız gibi görünen şeyler bile gerçekleşebilir."
+    },
+    {
+      "atasozu": "Uslanmayanı etmeli tekdir, tekdir ile uslanmayanın hakkı kötektir.",
+      "anlam": "Uyarılarla düzelmeyen kişiye sert davranmak gerekir."
+    },
+    {
+      "atasozu": "Uzak davulun sesi hoş gelir.",
+      "anlam": "Uzakta olan şeyler, olduğundan daha güzel görünür."
+    },
+    {
+      "atasozu": "Uzakta akıl satılmaz.",
+      "anlam": "Başkalarının aklıyla hareket etmek doğru değildir."
+    },
+    {
+      "atasozu": "Uykudan erken, işten geç kalkılmaz.",
+      "anlam": "İşine zamanında gitmek önemlidir."
+    },
+    {
+      "atasozu": "Üç ağaçtan orman olmaz.",
+      "anlam": "Tek başına bir şey yapılamaz, birlik olmak gerekir."
+    },
+    {
+      "atasozu": "Ürümesini bilmeyen köpek sürüye kurt getirir.",
+      "anlam": "Bilgisiz ve beceriksiz kişiler, farkında olmadan büyük zararlara yol açabilirler."
+    },
+    {
+      "atasozu": "Var evi kerem evi, yok evi verem evi.",
+      "anlam": "Zengin evinde bolluk ve bereket olur, fakir evinde ise hastalık ve sıkıntı olur."
+    },
+    {
+      "atasozu": "Verirsen doyur, vurursan duyur.",
+      "anlam": "Bir işi yaparken hakkını vermek gerekir."
+    },
+    {
+      "atasozu": "Vur davula, gelsin akıl.",
+      "anlam": "Bir işi yapmadan önce iyice düşünmek gerekir."
+    },
+    {
+      "atasozu": "Vurma ölüye, döner gelir diriye.",
+      "anlam": "Geçmişte yapılan hatalar, gelecekte karşımıza çıkabilir."
+    },
+    {
+      "atasozu": "Yabancı koyun güler, ele güler.",
+      "anlam": "Başkalarının malını küçümsemek doğru değildir."
+    },
+    {
+      "atasozu": "Yana yana yürümekle yol aşınmaz.",
+      "anlam": "Sadece üzülmekle sorunlar çözülmez, çözüm için harekete geçmek gerekir."
+    },
+    {
+      "atasozu": "Yanan mumu üflemekle alev sönmez.",
+      "anlam": "Gerçekler saklanamaz veya yok edilemez."
+    },
+    {
+      "atasozu": "Yarım elma gönül alma.",
+      "anlam": "Küçük bir hediye bile, gönül almaya yeter."
+    },
+    {
+      "atasozu": "Yarım hekim candan eder, yarım hoca dinden eder.",
+      "anlam": "Bilgisiz kişiler, yanlış yönlendirmelerle zarar verebilirler."
+    },
+    {
+      "atasozu": "Yaş kesen baş keser.",
+      "anlam": "Doğaya zarar veren, insanlığa zarar vermiş sayılır."
+    },
+    {
+      "atasozu": "Yavaş atın çiftesi pek olur.",
+      "anlam": "Sessiz ve sakin görünen insanlar, öfkelendiklerinde daha tehlikeli olabilirler."
+    },
+    {
+      "atasozu": "Yazın başı pişenin kışın aşı pişer.",
+      "anlam": "Çalışan kişi, emeğinin karşılığını alır."
+    },
+    {
+      "atasozu": "Yazın gölge hoş, kışın çuval boş.",
+      "anlam": "Rahatına düşkün olanlar, zor zamanlarda sıkıntı çekerler."
+    },
+    {
+      "atasozu": "Yel kayadan ne koparır?",
+      "anlam": "Güçlü birine zarar vermek zordur."
+    },
+    {
+      "atasozu": "Yel ile gelen sel ile gider.",
+      "anlam": "Kolay kazanılan şeyler kolay kaybedilir."
+    },
+    {
+      "atasozu": "Yerin kulağı vardır.",
+      "anlam": "Söylenen her söz duyulabilir."
+    },
+    {
+      "atasozu": "Yiğit bin yaşar, fırsat bir düşer.",
+      "anlam": "Fırsatlar her zaman ele geçmez, değerlendirmek gerekir."
+    },
+    {
+      "atasozu": "Yiğit lakabından bellidir.",
+      "anlam": "İnsanın karakteri, davranışlarından ve sözlerinden anlaşılır."
+    },
+    {
+      "atasozu": "Yiğit yarasına yiğit katlanır.",
+      "anlam": "Güçlü insanlar, zorluklara dayanabilirler."
+    },
+    {
+      "atasozu": "Yiğit yiğide at bağışlar, çingen çingene çalgı bağışlar.",
+      "anlam": "Herkes kendi değer verdiği şeyleri başkalarına verir."
+    },
+    {
+      "atasozu": "Yoğurt üfleyerek yenir.",
+      "anlam": "Bir olaydan ders çıkaran kişi, benzer durumlarda daha dikkatli olur."
+    },
+    {
+      "atasozu": "Yol bilenle yol bilmeyen bir olmaz.",
+      "anlam": "Deneyimli ve bilgili kişilerle, deneyimsiz ve bilgisiz kişiler aynı değildir."
+    },
+    {
+      "atasozu": "Yol kesmekle yolcu tükenmez.",
+      "anlam": "Engeller, başarıya ulaşmayı engellemez."
+    },
+    {
+      "atasozu": "Yol sormakla âlim, gezmekle gazi olunur.",
+      "anlam": "Bilgi edinmek ve deneyim kazanmak için çaba göstermek gerekir."
+    },
+    {
+      "atasozu": "Yol yürümekle, dağ aşmakla tükenmez.",
+      "anlam": "Sorunlar ne kadar büyük olursa olsun, çözümsüz değildir."
+    },
+    {
+      "atasozu": "Yolcu yolunda gerek.",
+      "anlam": "Herkes kendi işine bakmalıdır."
+    },
+    {
+      "atasozu": "Yolun başı belli, sonu değil.",
+      "anlam": "Bir işin nasıl sonuçlanacağını önceden kestirmek zordur."
+    },
+    {
+      "atasozu": "Yorgan gitti kavga bitti.",
+      "anlam": "Sorun kaynağı ortadan kalkınca, sorun da biter."
+    },
+    {
+      "atasozu": "Yumurtadan kıl çıkaranlar, kıldan yağ çıkarırlar.",
+      "anlam": "Ufak tefek kusurları büyütenler, olmayacak şeyleri bile sorun haline getirirler."
+    },
+    {
+      "atasozu": "Yük altında eşek anırmaz.",
+      "anlam": "Zor durumda olan kişi, şikayet etmez."
+    },
+    {
+      "atasozu": "Yük çeken hayvan ölmez.",
+      "anlam": "Zorluklara katlanan kişi, hayatta kalır."
+    },
+    {
+      "atasozu": "Yüzü gülenin kalbi de güler mi?",
+      "anlam": "İnsanların iç dünyası bilinemez."
+    },
+    {
+      "atasozu": "Yüzü kara olanın mumu da yanmaz.",
+      "anlam": "Kötü niyetli kişilerin işleri yolunda gitmez."
+    },
+    {
+      "atasozu": "Yüzü suyu hürmetine.",
+      "anlam": "Birinin hatırı için."
+    },
+    {
+      "atasozu": "Yüzü yere yakın olandan korkma, yüzü göğe yakın olandan kork.",
+      "anlam": "Alçakgönüllü ve sessiz görünenler, daha tehlikeli olabilirler."
+    },
+    {
+      "atasozu": "Zararın neresinden dönülse kârdır.",
+      "anlam": "Yapılan bir hatadan ne kadar erken dönülürse o kadar iyidir."
+    },
+    {
+      "atasozu": "Zengine borç vermek, denize su katmaktır.",
+      "anlam": "Zengin olanın zaten parası vardır, ona borç vermeye gerek yoktur."
+    },
+    {
+      "atasozu": "Zeytinyağı gibi üste çıkmak.",
+      "anlam": "Her durumda kendini haklı çıkarmaya çalışmak."
+    },
+    {
+      "atasozu": "Zora dağ dayanmaz.",
+      "anlam": "Zorluklar karşısında en güçlü olanlar bile dayanamaz."
+    },
+    {
+      "atasozu": "Zoraki güzellik olmaz.",
+      "anlam": "İstemeden yapılan şeyler güzel sonuçlar vermez."
+    },
+    {
+      "atasozu": "Ağzı olan konuşur.",
+      "anlam": "Herkesin bir fikri olduğunu, ancak her söylenene itibar edilmemesi gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Bugünün işini yarına bırakma.",
+      "anlam": "Yapılması gereken işleri ertelememek gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Gözden ırak olan, gönülden de ırak olur.",
+      "anlam": "Birini veya bir şeyi uzun süre görmezsen, ona duyduğun sevgi veya bağlılık azalabilir."
+    },
+    {
+      "atasozu": "Hacı hacıyı Mekke’de bulur.",
+      "anlam": "Aynı amacı veya ilgiyi paylaşan insanlar bir şekilde bir araya gelir."
+    },
+    {
+      "atasozu": "Kedi uzanamadığı ciğere mundar der.",
+      "anlam": "Erişemediği bir şeyi elde etmek istemediğini söyleyerek kendini kandıranları eleştirir."
+    },
+    {
+      "atasozu": "Söz gümüşse, sükut altındır.",
+      "anlam": "Konuşmanın değerli olduğunu, ama susmanın bazen daha kıymetli olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Zenginin malı, züğürdün çenesini yorar.",
+      "anlam": "İmkanı olmayanların, zenginlerin sahip oldukları hakkında boş yere konuştuğunu ifade eder."
+    },
+    {
+      "atasozu": "Açık ağız aç kalmaz.",
+      "anlam": "İhtiyacını dile getiren birinin yardım bulabileceğini belirtir."
+    },
+    {
+      "atasozu": "Akacak kan damarda durmaz.",
+      "anlam": "Kaderde olan bir şeyin engellenemeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Bir musibet bin nasihatten yeğdir.",
+      "anlam": "Yaşanan kötü bir tecrübenin, birçok öğütten daha etkili olduğunu belirtir."
+    },
+    {
+      "atasozu": "Aç köpek fırın deler.",
+      "anlam": "İhtiyacı olan birinin her türlü zorluğu aşabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Ağaçtan maşa olmaz.",
+      "anlam": "Herkesten her iş beklenemez, uygun kişi seçilmelidir."
+    },
+    {
+      "atasozu": "Alışmış kudurmuşdan beterdir.",
+      "anlam": "Kötü bir alışkanlığı olanın, delirmiş birinden daha tehlikeli olabileceğini belirtir."
+    },
+    {
+      "atasozu": "Atı alan Üsküdar’ı geçti.",
+      "anlam": "Fırsatı kaçıranın artık yapacak bir şeyi kalmadığını ifade eder."
+    },
+    {
+      "atasozu": "Bükemediğin bileği öp.",
+      "anlam": "Karşındaki güce boyun eğmek zorunda kalırsan, durumu kabullenmen gerektiğini belirtir."
+    },
+    {
+      "atasozu": "Deliye her gün bayram.",
+      "anlam": "Sorumsuz veya aklını kullanmayan birinin her zaman rahat olduğunu belirtir."
+    },
+    {
+      "atasozu": "Geçmiş ola, iş işten geçti.",
+      "anlam": "Bir şeyin artık geri döndürülemez olduğunu belirtir."
+    },
+    {
+      "atasozu": "Herkes aklını pazara çıkarmış, yine kendi aklını beğenmiş.",
+      "anlam": "İnsanların genellikle kendi fikirlerini en iyi sandığını belirtir."
+    },
+    {
+      "atasozu": "Horoz ölür, gözü çöplükte kalır.",
+      "anlam": "İnsanın alışkanlıklarından kolay vazgeçemeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Isırgan otuyla taharet olmaz.",
+      "anlam": "Her şeyin bir amacı olduğunu, yanlış araçlarla iş yapılamayacağını belirtir."
+    },
+    {
+      "atasozu": "İtle yatan bitle kalkar.",
+      "anlam": "Kötü kişilerle vakit geçirenin zarar göreceğini ifade eder."
+    },
+    {
+      "atasozu": "Kaptanın iyisi fırtınada belli olur.",
+      "anlam": "Birinin yetkinliğinin zor durumlarda ortaya çıktığını ifade eder."
+    },
+    {
+      "atasozu": "Kelin merhemi olsa kendi başına sürer.",
+      "anlam": "Birinin başkasına yardım edememesinin, kendi sorunlarını çözemediğinden olduğunu belirtir."
+    },
+    {
+      "atasozu": "Namazda gözü olanın ezanda kulağı olur.",
+      "anlam": "Bir şeyi gerçekten isteyenin, ona ulaşmak için dikkatli olacağını belirtir."
+    },
+    {
+      "atasozu": "Otu çek, köküne bak.",
+      "anlam": "Bir şeyi anlamak için kökenine veya kaynağına bakılması gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Şeytanın bacağı kırılsın.",
+      "anlam": "Kötü bir durumun sona ermesi temennisini ifade eder."
+    },
+    {
+      "atasozu": "Tencere yuvarlanmış, kapağını bulmuş.",
+      "anlam": "Birbirine uygun kişilerin bir araya geldiğini belirtir."
+    },
+    {
+      "atasozu": "Tilkiye tavuk kebabı yer misin diye sormuşlar, ‘Gülmekten karnım ağrıdı’ demiş.",
+      "anlam": "Akla aykırı veya imkansız bir şeyi alaycı şekilde reddetmeyi ifade eder."
+    },
+    {
+      "atasozu": "Yerin kulağı var.",
+      "anlam": "Söylenenlerin gizli kalmayabileceğini, dikkatli konuşmak gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Yiğit meydanda belli olur.",
+      "anlam": "Birinin cesaretinin veya yeteneğinin zor durumlarda ortaya çıktığını belirtir."
+    },
+    {
+      "atasozu": "Akan su yosun tutmaz.",
+      "anlam": "Hareketsiz kalan şeylerin bozulabileceğini, aktif olmanın önemini belirtir."
+    },
+    {
+      "atasozu": "Armut dibine düşer.",
+      "anlam": "Çocukların genellikle anne babalarına benzediğini ifade eder."
+    },
+    {
+      "atasozu": "Baskın basanındır.",
+      "anlam": "Bir şeyi önce ele geçirenin avantaj sağlayacağını belirtir."
+    },
+    {
+      "atasozu": "Bıçak kemiğe dayandı.",
+      "anlam": "Durumun artık dayanılmaz hale geldiğini ifade eder."
+    },
+    {
+      "atasozu": "Boş teneke çok ses çıkarır.",
+      "anlam": "Cahil veya yeteneksiz kişilerin çok konuştuğunu belirtir."
+    },
+    {
+      "atasozu": "Ceviz kabuğunu doldurmaz.",
+      "anlam": "Bir şeyin çok önemsiz olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Dereyi görmeden paçaları sıvama.",
+      "anlam": "Bir durumla karşılaşmadan önce hazırlık yapmaman gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Eşeğini sağlam kazığa bağla, sonra Allah’a emanet et.",
+      "anlam": "Tedbir aldıktan sonra gerisini kadere bırakmanın doğru olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Gözden düşen gönülden de düşer.",
+      "anlam": "Birini sık görmezsen ona olan sevginin de azalabileceğini belirtir."
+    },
+    {
+      "atasozu": "Hırsız evden olunca koyun uyanık yatmaz.",
+      "anlam": "Tehlike içeriden gelirse önlem almanın zor olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Karga bok yemeden bembeyaz olur mu?",
+      "anlam": "Birinin kötü huylarından kolayca vazgeçemeyeceğini alaycı bir şekilde ifade eder."
+    },
+    {
+      "atasozu": "Kurda ‘Neden boynun kalın?’ demişler, ‘Kendi işimi kendim görürüm’ demiş.",
+      "anlam": "Bağımsızlığın ve kendi işini yapmanın değerini ifade eder."
+    },
+    {
+      "atasozu": "Öfkeyle kalkan zararla oturur.",
+      "anlam": "Ani öfkeyle hareket edenin zarar göreceğini öğütler."
+    },
+    {
+      "atasozu": "Testi kırılmadan önce su taşır.",
+      "anlam": "Bir şeyin değerinin kaybolmadan önce bilinmesi gerektiğini belirtir."
+    },
+    {
+      "atasozu": "Yalancıdan yeminli düşman iyidir.",
+      "anlam": "Açıkça düşman olanın, yalan söyleyenden daha az zararlı olduğunu belirtir."
+    },
+    {
+      "atasozu": "Zor oyunu bozar.",
+      "anlam": "Aşırı baskı veya gücün, düzeni altüst edebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Ağaca dayanma çürür, adama dayanma ölür.",
+      "anlam": "Kimseye veya hiçbir şeye tamamen güvenmemek gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Anasına bak, kızını al.",
+      "anlam": "Birinin nasıl biri olacağını anlamak için ailesine bakılması gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Aslan yattığı yerden belli olur.",
+      "anlam": "Birinin değerinin veya karakterinin çevresinden anlaşılabileceğini belirtir."
+    },
+    {
+      "atasozu": "Ayıpsız yar arayan yarsız kalır.",
+      "anlam": "Kusursuzluk arayanların yalnız kalabileceğini belirtir."
+    },
+    {
+      "atasozu": "Baba himmet, oğul hizmet.",
+      "anlam": "Babanın duası ve desteğiyle oğlun çalışmasının birleşmesi gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Bağcıyı dövme, üzüm ye.",
+      "anlam": "Amacın bir şey elde etmekse, gereksiz yere kavga çıkarmaman gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Besle kargayı, oysun gözünü.",
+      "anlam": "İyilik yaptığın birinin nankörlük edebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Bırak dağınık kalsın.",
+      "anlam": "Bir şeyi düzeltmeye çalışmanın daha çok karışıklık yaratabileceğini belirtir."
+    },
+    {
+      "atasozu": "Bülbülü altın kafese koymuşlar, ‘Ah vatanım’ demiş.",
+      "anlam": "İnsanın özgürlüğünün ve vatanının değerini her şeyin üstünde tuttuğunu ifade eder."
+    },
+    {
+      "atasozu": "Çıkar ağzındaki baklayı.",
+      "anlam": "Sakladığın gerçeği söylemen gerektiğini ifade eder."
+    },
+    {
+      "atasozu": "Dibi görünmeyen sudan geçme.",
+      "anlam": "Bilmediğin veya riskli bir işe girişmemen gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Dilini tutmayan başını yer.",
+      "anlam": "Düşünmeden konuşanın başına bela açabileceğini belirtir."
+    },
+    {
+      "atasozu": "Ekmek aslanın ağzında.",
+      "anlam": "Geçim sağlamanın zor olduğunu ve çaba gerektirdiğini belirtir."
+    },
+    {
+      "atasozu": "Gemisini kurtaran kaptandır.",
+      "anlam": "Zor durumlarda kendi başının çaresine bakabilen kişinin başarılı olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Gözü kör olmayanın gönlü kör olur.",
+      "anlam": "Fiziksel kusurların değil, kalp ve niyetin önemli olduğunu belirtir."
+    },
+    {
+      "atasozu": "Hak yenir ama hazmedilmez.",
+      "anlam": "Haksızlığın yapılabileceğini, ama bunun vicdanda rahatsızlık yaratacağını ifade eder."
+    },
+    {
+      "atasozu": "Herkes kaşık yapar ama sapını yapamaz.",
+      "anlam": "Bir işi herkesin yapamayacağını, ustalık gerektiğini belirtir."
+    },
+    {
+      "atasozu": "İt itin kuyruğuna basmaz.",
+      "anlam": "Aynı gruptaki insanların birbirine zarar vermediğini ifade eder."
+    },
+    {
+      "atasozu": "İyilik et denize at, balık bilmezse Halik bilir.",
+      "anlam": "İyilik yaparken karşılık beklememek gerektiğini, bunun değerinin ilahi olarak bilineceğini ifade eder."
+    },
+    {
+      "atasozu": "Kabahat samur kürk olsa kimse sırtına almaz.",
+      "anlam": "Hatanın hiçbir zaman istenmediğini, değerli bile olsa kimsenin kabul etmek istemediğini belirtir."
+    },
+    {
+      "atasozu": "Kaptı kaçtı kurtuldu, kaptı kaçmadı vuruldu.",
+      "anlam": "Risk alıp hızlı davrananın kazanacağını, tereddüt edenin kaybedeceğini ifade eder."
+    },
+    {
+      "atasozu": "Kavun kokusundan, karpuz tadından belli olur.",
+      "anlam": "Bir şeyin kalitesinin belirtilerinden anlaşılabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Kırkından sonra saz çalmaya kalkan, kabak çalar mezarda.",
+      "anlam": "Yaş ilerledikten sonra yeni bir şeye başlamanın zor olduğunu alaycı bir şekilde belirtir."
+    },
+    {
+      "atasozu": "Kırk yıllık dostluğu bozanı, kırk gün sırtında taşı.",
+      "anlam": "Uzun süreli bir ilişkiyi bozanın ağır bir bedel ödeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Köpeksiz köyde değnekle gezerler.",
+      "anlam": "Denetimsiz ortamlarda herkesin kendi bildiğini yaptığını belirtir."
+    },
+    {
+      "atasozu": "Kötü komşu insanı hacet sahibi eder.",
+      "anlam": "Kötü bir komşunun, kişiyi başkalarına muhtaç hale getirebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Kuzguna yavrusu şahin görünür.",
+      "anlam": "Herkesin kendi çocuğunu veya yakınını en iyi sandığını ifade eder."
+    },
+    {
+      "atasozu": "Ne doğrarsan aşına, ne biçersen kaşığına.",
+      "anlam": "Ne kadar çaba harcarsan, o kadar sonuç alacağını belirtir."
+    },
+    {
+      "atasozu": "Öksüzün bayramı olmaz.",
+      "anlam": "Yalnız ve kimsesiz birinin mutluluğunun eksik olacağını belirtir."
+    },
+    {
+      "atasozu": "Rüzgarın önünden yelken açılmaz.",
+      "anlam": "Duruma uygun hareket edilmesi gerektiğini, aksi halde başarısız olunacağını belirtir."
+    },
+    {
+      "atasozu": "Sinek ufaktır ama kanadı vardır.",
+      "anlam": "Küçük gibi görünen şeylerin bile bir etkisi olabileceğini belirtir."
+    },
+    {
+      "atasozu": "Söz var iş bitirir, söz var baş yitirir.",
+      "anlam": "Sözlerin doğru kullanılırsa fayda, yanlış kullanılırsa zarar getirebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Taş düşer, izi kalır.",
+      "anlam": "Yapılan bir eylemin etkisinin uzun süre devam edebileceğini ifade eder."
+    },
+    {
+      "atasozu": "Tuz kokarsa çare kalmaz.",
+      "anlam": "En temel şey bozulursa, çözüm bulunamayacağını ifade eder."
+    },
+    {
+      "atasozu": "Üfle desen nefesi yok, çek desen ipi yok.",
+      "anlam": "Birinin hiçbir işe yaramadığını alaycı bir şekilde belirtir."
+    },
+    {
+      "atasozu": "Yağmur yağsa da göl dolar, yağmasa da.",
+      "anlam": "Bazı şeylerin zamanla kendi kendine düzeleceğini ifade eder."
+    },
+    {
+      "atasozu": "Yalansız dünya öküzün boynuzunda.",
+      "anlam": "Dünyada yalanın her zaman olacağını, tamamen dürüst bir yerin imkansızlığını alaycı bir şekilde belirtir."
+    },
+    {
+      "atasozu": "Yiğidin malı meydanda olur.",
+      "anlam": "Dürüst ve cesur birinin her şeyinin açıkta olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Abanın kadri yağmurda bilinir.",
+      "anlam": "Bir şeyin değerinin, ona ihtiyaç duyulduğunda anlaşıldığını belirtir."
+    },
+    {
+      "atasozu": "Ağır taş batman vurur.",
+      "anlam": "Değerli ve sağlam şeylerin büyük etki yaratabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Akıl baştan çıkmayınca iş bitmez.",
+      "anlam": "Aklıselim olunmadan bir işin başarılamayacağını öğütler."
+    },
+    {
+      "atasozu": "Alışmış kudurmuş kurt gibi.",
+      "anlam": "Kötü alışkanlıkların kişiyi kontrol edilemez hale getirebileceğini belirtir."
+    },
+    {
+      "atasozu": "Ana gibi yar, vatan gibi diyar olmaz.",
+      "anlam": "Anne ve vatanın yerinin doldurulamaz olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Astarı yüzünden pahalı.",
+      "anlam": "Bir şeyin görünmeyen kısmının, görünenden daha değerli olabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Ayağa değmedik taş, başa gelmedik iş kalmaz.",
+      "anlam": "Hayatta her türlü beklenmedik durumun yaşanabileceğini belirtir."
+    },
+    {
+      "atasozu": "Baba malı tez tükenir, evlat gerek kazana.",
+      "anlam": "Mirasın çabuk bitebileceğini, kişinin kendi çabasının önemli olduğunu öğütler."
+    },
+    {
+      "atasozu": "Bakarsan bağ olur, bakmazsan dağ olur.",
+      "anlam": "İlgilenilen şeylerin düzeleceğini, ihmal edilenlerin kötüleşeceğini ifade eder."
+    },
+    {
+      "atasozu": "Beyaz giyen çamurda gezer.",
+      "anlam": "Dikkatsiz davrananın zarar göreceğini ifade eder."
+    },
+    {
+      "atasozu": "Bildiğini bal eyle, bilmediğini hal eyle.",
+      "anlam": "Bildiğini iyi kullanmanı, bilmediğini sormanı öğütler."
+    },
+    {
+      "atasozu": "Bin bilsen de bir bilene sor.",
+      "anlam": "Çok bilgili olsan bile, başkalarının görüşüne değer vermen gerektiğini belirtir."
+    },
+    {
+      "atasozu": "Bir avuç altının olacağına, bir avuç toprağın olsun.",
+      "anlam": "Geçici zenginlikten ziyade kalıcı değerlerin önemli olduğunu ifade eder."
+    },
+    {
+      "atasozu": "Bir dalda iki kiraz, biri al biri beyaz.",
+      "anlam": "Aynı ortamda farklı karakterde insanların bulunabileceğini belirtir."
+    },
+    {
+      "atasozu": "Bir yiğit bin korkakla başa çıkamaz.",
+      "anlam": "Cesaretin bile sayısal üstünlük karşısında yetersiz kalabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Buğday başak verince, orak pahaya çıkar.",
+      "anlam": "Bir şeyin değeri, ona ihtiyaç duyulduğunda artar."
+    },
+    {
+      "atasozu": "Büyüklük Allah’a mahsus.",
+      "anlam": "İnsanın kendini üstün görmemesi gerektiğini, gerçek büyüklüğün sadece Allah’a ait olduğunu belirtir."
+    },
+    {
+      "atasozu": "Çoban uyudu mu koyun güdemez.",
+      "anlam": "Sorumlunun dikkatsizliği yüzünden işlerin aksayabileceğini ifade eder."
+    },
+    {
+      "atasozu": "Çok havlayan köpek ısırmaz.",
+      "anlam": "Çok konuşanın genellikle zarar veremeyeceğini belirtir."
+    },
+    {
+      "atasozu": "Değirmen iki taştan, muhabbet iki baştan.",
+      "anlam": "Bir işin veya ilişkinin iki tarafın katılımıyla yürüyebileceğini belirtir."
+    },
+    {
+      "atasozu": "Delik büyük, yama küçük.",
+      "anlam": "Sorunun çözümden daha büyük olduğunu, yetersiz kalındığını ifade eder."
+    },
+    {
+      "atasozu": "Dertsiz baş yastık beğenmez.",
+      "anlam": "Sorunu olmayan birinin küçük şeylerden şikayet ettiğini belirtir."
+    },
+    {
+      "atasozu": "Dişinin ağrıdığını, karnının doyduğunu bil.",
+      "anlam": "Kendi durumunu iyi anlaman gerektiğini öğütler."
+    },
+    {
+      "atasozu": "Eğilen baş kesilmez.",
+      "anlam": "Alçak gönüllü olanın zarar görmeyeceğini ifade eder."
+    },
+    {
+      "atasozu": "Fukaranın düşkünü, beyaz giyer kış günü.",
+      "anlam": "İmkanı olmayanın yanlış tercihler yapabileceğini alaycı bir şekilde ifade eder."
+    }
+  ]
+}
