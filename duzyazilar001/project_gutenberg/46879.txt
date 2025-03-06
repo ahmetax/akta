@@ -1,0 +1,1768 @@
+*** START OF AKTAHEADER ***
+Başlık: The Miner's Friend (Madencinin arkadaşı)
+Yazar: Thomas Savery
+Yayın Tarihi: September 17, 2014 [EBook #46879]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/46879
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: ekonomi
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of The Miner's Friend, by Thomas Savery
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+Title: The Miner's Friend
+       An Engine to Raise Water by Fire
+
+Author: Thomas Savery
+
+Release Date: September 17, 2014 [EBook #46879]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MINER'S FRIEND ***
+
+*** START OF TURKISH PART ***
+Steffen Haugk tarafından üretildi
+
+
+
+
+[İllüstrasyon: Buhar Motorunun mucidi Kaptan Thomas Savery - Bkz. Frontispiece.gif]
+
+
+.
+Miner'in arkadaşı;
+VEYA,
+~ Bir motor ~
+İLE
+Ateşle su kaldır,
+Tarif edilen.
+Ve onu madenlerde sabitleme şekli;
+Diğer birkaç kullanımla ilgili
+İçin geçerlidir; Ve
+Ona karşı yapılan itirazlara cevap.
+İLE
+Thomas Savery, nazik.
+
+Pigri est Ingenii Contentum Esse onun, quae ab aliis enventa sunt.
+                                                    Seneca.
+
+Londra: S. Crouch için Prinetd, köşede
+Cornhill'deki Papa'nın baş alleyi. 1702.
+
+Yeniden basıldı, 1827.
+
+
+
+
+LONDRA:
+W. Clowes tarafından basılmıştır.
+Stanford-Street
+
+
+
+
+Krala.
+
+
+SAYIN,
+Majesteleriniz bir deneye izin vermekten nazikçe memnun oldu
+Hampton-Court'ta senden önce, motorumun küçük bir modelinin açıkladığı
+Aşağıdaki incelemede ve o zaman görünen bir görünüşte
+gücün memnuniyeti ve kullanımı; Ve en nezaketle
+bir parlamento patentine ve eylemine olan kraliyet onayınızla bana
+aynı şeyi takip edin ve mükemmelleştirin. Hangi kraliyet cesaretiniz tarafından
+şimdi tamamen tamamlanmış ve egemenliğinize pratik yapmak
+Bu tekrarlanan başarı ve alkışlar, şüpheli değil ama
+Evrensel fayda olacak ve tüm Majestelerin
+Konular. Majesteleriniz evrensel patron ve baba
+iyi ve avantajlarını teşvik edebilecek tüm sanat ve icatlar,
+Majestelerin kutsalına adil ve doğal bir iddia koyuyor gibi görünüyor
+koruma.
+
+Bu düşünceye göre, cesaretle, derin bir
+Sayg, bu performansımı, yazarla birlikte,
+Majestelerinin kraliyet ayakları, en alçakgönüllülükle Majesteleri,
+Majestelerinin hayırlı saltanatında doğum yapmıştı,
+Kraliyetinizin yaptırımı ile gelecek çağlara devam edin
+Onay, en son hırs,
+
+    Majesteleri memnun etsin
+        Majesteleri
+      En alçakgönüllü, en sadık,
+        ve en itaatkar konu,
+
+                          Thomas Savery.
+
+
+
+
+Kraliyet toplumuna.
+
+
+Bazı üyelerinizin isteği üzerine, haftalık toplantıda,
+Gresham-College, 14 Haziran 1699, küçük bir çalışma onuruna sahiptim
+Motorumun senden önce modeli ve onaylamaktan memnuniyet duydunuz.
+O zamandan beri büyük zorluklar ve masraflarla karşılaştım
+el sanatları sanatçılarına motorumu oluşturmaları için talimat ver
+tasarım; Ama işçilerim, çok fazla deneyimden sonra böyle oldu
+kendilerini neyi teslim etmeye zorladıkları şeylerin ustaları
+Motorlar beni tam olarak sıkı ve hizmet için uygun hale getiriyorlar ve bu nedenle ben
+Onları onlar için fırsatları olan herhangi bir vücuda garanti eder.
+
+İlk görünüşünde bu icadın karşılanmasında nezaketiniz
+Dünyada, bana yararlılığının daha fazlasını yapmasını umuyor
+onların en uygun olduğu için onurlu toplumunuz için kabul edilebilir
+İnsanlık için ne olabileceğinin yargıçları. Ve olurdu
+Sizi iade etmek için bu fırsatı kullanmamak için nankörüm
+En alçakgönüllü ve doyurucu onur ve iyilik için teşekkürler
+tasarımımı onaylamak ve dünyaya yayınlamak [1]
+her zaman kabul edilir
+
+      En çok zorunlu
+            ve en alçakgönüllü hizmetçi,
+                          Thomas Savery.
+
+
+[1] Felsefe. İşlem. Hissiz. 252.
+
+
+
+
+Ki
+Beyler maceracıları
+İçinde
+İngiltere Madenleri.
+
+
+Aradınız çok mantıklıyım, henüz yapıyorsun
+Ateşin korunan kuvveti ile su yetiştirmenin icadı, işe yaramaz
+Tasarımlarımı veya iddialarımı asla cevaplayamayan bir proje;
+ve böyle bir motorun yapabileceği tamamen imkansız
+yer altında işlenmiş ve su yetiştirmeyi başarmak ve
+Sizden herhangi bir cesaret vermeyi hak edecek şekilde madenlerinizi boşaltmak. Ben
+Çıplak bir projektörün skandalı altında yatmayı çok sevmez; Ve,
+Bu nedenle, sizi burada makinemin bir taslağıyla sun ve yatıyor
+Sizden önce kullanmadan önce ve
+Onu kullanmak için zaman ayırmaya değer. Kolayca verebilirim
+Şüpheleriniz için ödenek taneleri, çünkü çok iyi biliyorum
+İnsanların düşük yaptıkları şeyden habersizler
+ile. Bildiğim bunlar çok sık, çok adil ve umut verici
+Birincisi, ama taklit ettiklerini gerçekleştirmekten çok kısa,
+İhtiyat ve takdir yetkisi artık herhangi bir şeye inanmak için acı çekmeyecek
+bir gösteri olmadan, bunun yeni icatlarına iştahınız
+Doğa çok sık sıkışmıştı; Yine de, sonuçta sana yalvarmalıyım
+Kendim için ne söylemem gerektiğini okumadan önce beni kınamamak;
+ve başkalarının başarısızlıklarının bana önyargılı olmasına izin vermemesine ya da bana yerleştirilmesine izin vermeyin
+hesap. Sık sık gerçek olanı anlama isteğini yaktı
+talihsizliğin geç kaldığı doğanın güçleri, biraz
+hem zahmetli hem de pahalı olan bu geniş motorlar ve makineler
+Eski motorlar gibi hiçbir kullanım gibi, geçmiş birçok yaş kullandı,
+onları çok aştı; Ve korkarım, kim olursa olsun, eski hareket nedenleriyle,
+geçen yüzyılda iyileştirmeler gibi davranıyor, ihanet ediyor
+bilgi ve yargı; O zamandan beri yüz yıldan fazla bir süredir erkekler ve
+atlar motorlar tarafından yükselir, daha sonra yapılır,
+O zamandan beri ya da hiç inanıyorum ya da yasaya göre
+Doğa yapabilir; Ve düşüncelerim uzun süredir istihdam edilmiş olsa da
+Su işleri hakkında, asla herhangi bir icad gibi davranmamalıydım
+Bu tür, bu yeniyi mutlu bir şekilde öğrenmemiş olsaydım ama yine de
+daha önce yapılmış olandan daha güçlü ve daha ucuz güç veya hareket nedeni
+kullanımı. Ancak bunu ateşle nadirin bulmak,
+Madencilerin ve Colliers'ın sık sık çalıştığı zorluklar
+Bozukluklar, Jumbersomeness ve genel olarak su motorlarının teşvik edilmesi
+Motorları bu yeni güçle çalışmaya icat etmem; ben olmasına rağmen
+en tuhaf ve neredeyse etkilenmeyen zorluklarla karşılaşmak zorunda kaldım, ben
+Ben kesinlikle fethetene kadar ne zaman, acılar ne de paradan kurtuldu
+onlara. Umarım bu en azından bunu okumaya teşvik eder
+Küçük İnceleme Şimdi elinize koydum, daha fazla ve daha fazlası için
+Bu motorun doğası ve kullanımları hakkında özel bilgiler
+ateşin gücü ile su yetiştirmek; Bundan sonra sabırla
+beni aktarmak için lütfen herhangi bir yargıya gönderin
+buluş ve artık olmayacağına inanmak için bir nedeni olabilir
+kar ve kar ve
+İlgi, hem doğru hem de yanlış kınamak gibi görünebilir; Demek istediğim
+Ortak çırçırlarınızı, arkadaşlarını ve tanıdıklarını kim
+aranızda; Bunun kullanımının tanıtımından çok eminim
+Motor, gerçek ilgileridir, çünkü çok açık bir şekilde kanıtladığım için:-
+
+Daha ucuz su çizilir, madencinin daha fazla teşvik edilmesi
+macera; Madenci maceraları ne kadar çok çukur veya şaft olmalı
+batık olmak; Ne kadar çok şaft veya çukur batırılırsa
+zorunlu olarak onları kerestede istihdam etmek veya yanları desteklemek
+dünyanın gevşek olduğu yere düşüyor; rüzgârların ve diğerlerinin yanı sıra
+Madenlerde kullanılan ahşap eşyaları veya buna bağlı olarak esnaf olmalıdır
+daha fazlası olun, ki bu, marangozların ticaretini artırarak,
+Bunun küçük bir kısmının kaybı için onları yeterli değişiklikler yapın
+Ticaretin dalı, cin yapımı olarak adlandırıldı. Pompa yapımına gelince,
+Ticaretin bir kısmı motorum tarafından çok geliştirilecek; Çünkü kullanmalıyım
+Borular için yönetim kurulu ve kereste ve önemli bir istihdam var
+Motorum hakkında kullanılan kereste için pompa üreticileri ve marangozlar; ama
+Borular veya başka bir kişi yaparken asla başka bir kişiyi kullanmayın
+Carpenter'ın işi yapmam gerekecek, ama daha önce olan kişi
+işte veya bir kişi olarak önerilecek gibi istihdam edilir
+Motorları tamir edeceğim, ülkenin madenlerinde istihdam edildi,
+ucuz ve adil bir şekilde çalışacakları ve siparişleri gözlemlemeleri şartıyla
+ve onlara verilen talimatlar; Tasarımım en azından
+Yapışları önyargı, ya da gerçekten de bu tür başka insanları
+buluş; Ancak, aksine, fayda için tasarlanmıştır ve
+Genel olarak insanlığın avantajı, özellikle de kendi insanlar
+ulus; Ve burada, mayınlarla ilgilenen beyler, eğer
+Lütfen en büyük kardan yararlanın.
+
+Ve sorgulamasam da motorumun planı ve taslağı
+çok iyi ve birçok beyefendi ile kolayca anlaşılacak
+Burada verilen açıklama; yine de başkalarında daha uzun bir zaman gerektirecek
+zihinlerini ve düşüncelerini daha yoğun bir şekilde kullanın, özellikle
+tanıdık ve bununla tanışmak gibi
+tür; Ama motor, bazılarının endişesine göre,
+Karmaşık ve çalışılması zor, tüm açıklamadan sonra
+Bu kitapta verildiğinde, yine de yapabilirim ve emin olabilirim,
+Motora katılmak ve çalışmak öyle olmaktan çok uzaktır ki
+tanıdık ve en kötü kapasiteye sahip olanlar tarafından öğrenilmesi kolay bir
+Çok az zaman; On üç veya on dört yaşında erkek çocuklarım var
+yaşındayken, şimdi mükemmelliğe katılan ve çalışan ve
+Birkaç gün içinde yapmayı öğretti; Ve bazılarının çalışmayı öğrendiğini biliyorum
+yarım saat içinde motor. Bir atasözümüz var, ilgimiz asla yalan söylemiyor;
+ve mayınların ve kolieries'in beyefendilerinden eminim
+Bir zamanlar bu motoru işlerinize tanıdık geldiniz ve
+kendiniz ve hizmetkarlarınız; sadece kâr değil, diğerlerinin bolluğu
+Çalışmalarınıza katılmak için bulacağınız avantajlar ve kolaylıklar
+Kullanımında, size uygun bir görüş yaratacaktır.
+işçileri
+
+    Gerçek arkadaşınız ve alçakgönüllü hizmetçiniz,
+                                Thomas Savery.
+
+  _Londra,
+22 Eylül _ 1701.
+
+
+
+
+Bir Açıklama
+Ki
+Motorun taslağı,
+Ateşle su yetiştirmek için.
+
+
+  _a_, _a_, fırınlar.
+  _b_, b, iki yangın yeri.
+  _C_, huni veya baca.
+  _D_, küçük kazan.
+  _e_, boru ve horoz.
+  _f_, kuvvetini kaplayan ve sınırlayan vida.
+  _G_, küçük bir horoz, tabanının sekiz inçine giden bir boru.
+  _H_, aynı derinlikte daha büyük bir boru.
+  _i_, söz konusu borunun tepesinde bir clack.
+  _K_, söz konusu clack veya valf kutusundan bir boru,
+Büyük kazan, yaklaşık bir inç.
+  _l_, büyük kazan.
+  _m_, regülatör ile vida.
+  _N_, küçük bir horoz ve boru büyük kazanın yarısına kadar gidiyor.
+  _o_, o, buhar boruları, her vidanın bir ucu düzenleyiciye ve
+Alıcılar için diğer uçlar.
+  _P_, P, alıcılar olarak adlandırılan gemiler.
+  _q_, q, ön taraftaki boruları ve klack'leri getiren vidalar
+motor.
+  _r_, _r_, r, r, valfler veya pirinç clack, vidalar açılacak ve
+ara sıra onlara gel.
+  _s_, kuvvet borusu.
+  _t_, emme borusu.
+  _V_, kare bir odun çerçevesi, delikleri altında delikler
+su.
+  _X_, kuvvet borusundan gelen bir şamandıra olan bir sarnıç.
+  _y_, söz konusu sarnıçın altından gelen bir horoz ve boru.
+  _Z_, regülatörün sapı.
+
+
+
+
+
+Önce bölüm.
+Motoru çalışma şekli.
+
+* * * * * *
+
+.
+Motoru çalışma şekli.
+
+
+İlk şey, motoru iyi bir çift fırında sabitlemektir, bu yüzden
+ateşinizin alevinin yuvarlak dolaşabileceğine ve
+Coppers yaparken iki kazanınızı en iyi avantaja kapsayın
+demleme için. Ateş yapmadan önce, _g_ ve _n_,
+İki Kazan'a ait iki küçük gösterge pip ve horoz ve
+delikler, doldur _l_, büyük kazan, üçte ikisi su dolu ve
+_d_, küçük kazan, oldukça dolu; Sonra söz konusu boruları tekrar vidalayın
+mümkün olduğunca hızlı ve hafif; Sonra yangını _b_ ile aydınlatın. Ne zaman
+_Z_ olarak işaretlenmiş regülatörün sapı olan _l_ kaynar su
+Sizden geçeceği kadar itme, bu da tüm buharın yükselmesini sağlar
+_O_ üzerinden karşı konulmaz kuvvetle _l_ geçişli sudan
+_P_, Clack, _r_ aracılığıyla tüm havayı önünden itmek
+Gittikçe bir gürültü; Ve her şey dışarı çıktığında,
+Gemi, _p_, çok sıcak olacak; Sonra regülatörün sapını çekin
+Bu yüzden _o_ durdurursunuz ve buharınızı _O_ ile zorlarsınız
+o gemi havasını boşaltıncaya kadar _p_ içine
+Clack, _r_, kuvvet borusunu yukarı. Bu arada, buharla
+Gemi _P_ yoğuşma, bir vakum veya boşluk oluşturulur, bu nedenle
+suyun _t_ aracılığıyla zorunlu olarak yükselmesi gerekir ve zorunlu olarak
+emme borusu, clack'i kaldırma, _r_ ve gemiyi doldurma, _p_.
+
+Bu arada, havasından boşaltılan gemi _p_,
+Düzenleyicinin tekrar sizden ve kuvvet üzerinde
+suyun yüzeyi _p_
+Buhar, yoğunlaştırmaz, ancak buhar çekilir veya presler
+Hava gibi elastik bir kalite ile; hala esnekliğini arttırıyor veya
+bahar, karşı koyana kadar veya daha doğrusu
+_S_'de yükselen su, zorlama borusu, su, su
+_P_, bir kez zirveye çıktığında hemen taburcu edilecek,
+Bu gücü kurtarmak için biraz zaman alır; bir zamanlar var ve
+işte olmak, motoru hiç görmeyen herhangi biri için kolaydır.
+Yarım saatlik bir deneyim, sürekli bir akışın bitmesini sağlamak için
+borunun tam deliği, _s_; Çünkü geminin dışında, _p_,
+Suyun nasıl söndüğünü ve geminin
+şeffaf; Çünkü buhar geminin içinde devam ettikçe,
+Uzak, kap olmadan kuru ve çok sıcak, katlanmak için az
+Elin en az dokunuşu; Ama su ile ilgili olarak,
+Gemi, üzerinde herhangi bir su düştüğü soğuk ve ıslak olacak; Hangi
+Soğuk ve nem, buhar kadar hızlı bir şekilde yok olur, inişinde,
+su yeri; Ancak tüm suyu zorlarsanız, buhar veya
+küçük bir kısmı, _r_ içinden geçecek, clack'i çınlayacak,
+Regülatörün sapını size püskürtmek için yeterli bildirimde bulunmak için,
+aynı zamanda _P_'den suyu zorlamaya başlar,
+akışın en az değiştirilmesi olmadan; Sadece, bazen,
+Su akışı, eskisinden biraz daha güçlü olacaktır, eğer çekerseniz
+önemli miktarda buhardan önce regülatörün sapı
+Clack'e çıktı, _r_; Ama buharlı hiçbirine izin vermek çok daha iyi
+Git, çünkü çok fazla güç kaybediyor ve kolayca
+Gemiden biraz önce düzenleyiciyi yok ederek önlendi
+Zorlama oldukça boşaltılmıştır. Bu yapıldı, hemen horozu çevir
+veya sarnıç borusu, _x_, _p_ üzerinde, böylece su geçer
+_X_, asla açık olmayan ama _p_ veya _p_ açıldığında _y_ aracılığıyla;
+Fakat aralarında sıkı ve diken olduğunda; Diyorum, su, düşüyor
+_P_'de, serinliğiyle, böylesine büyük bir kuvvete sahip olan buhar
+elastik gücüne, yoğunlaştırmak ve bir boşluk haline gelmek veya
+Boş hız, böylece gemi, _p_, dış basıncın dış basıncıyla
+atmosfer veya vulgarly olarak adlandırılan, hemen
+_P_ boşalırken yeniden doldurulmuş; hangi yapılırsa, sapı itiyorsun
+Regülatörün sizden ve _P_ üzerindeki gücü atarak
+_P_ üzerinden yoğuşma borusu, o gemideki buharın
+Yoğuşun, böylece diğeri boşaltır. Emek
+Motorun bu iki parçasını çevirerek, yani. Regülatör ve
+su-cock ve yangına katılmak, bir çocuğun ne olmasından daha fazlası
+Güç bir gün birlikte performans gösterebilir ve
+bir küvette at sürmeleri; Yine de, sonuçta olurdum
+erkekler ve en endişeli olanlar,
+Motor, erkeklerden daha dikkatli olduğunu varsayıyor. Bunun farkı
+Ücret belirtilmemeli veya hesaba katılmamalıdır,
+Motoru kullananların büyük kar elde edeceği büyük kar.
+
+Ustaca okuyucu, muhtemelen burada, buharın varlığına itiraz edecektir.
+Bu hareketin ve kuvvetin nedeni ve bu buhar su
+Nadiren, kazan, _l_, belirli bir zamanda boşaltılmalıdır, bu yüzden
+Motorun çalışması, kazanı yenilemek veya tehlikeye atmak için durmalıdır
+Kazanın dibini yakmak veya eritmek.
+
+Hangisini cevaplamak için, lütfen küçük kazanın kullanımını gözlemlemek için, _d_,
+Motoru yenilemeye yönelten kişi tarafından uygun olduğu düşünüldüğünde
+Bir buçuk saat veya iki saat gerektiren büyük kazan '
+bir ayak su batma zamanı; Sonra diyorum ki,
+Küçük kazanın horozu, _e_, arasındaki tüm iletişimi kestin
+_s_, büyük kuvvet borusu ve _d_, küçük kazan
+_D_ _b_'e biraz ateş atarak hemen sıcak büyür ve
+su kaynar ve çok az zamanda daha fazla güç kazanır
+Büyük kazandan daha; Büyük kazanın gücü için
+sürekli harcama ve dışarı çıkıyor, diğeri sarılıyor veya
+Artan, _d_ kuvvetinin bunu aşması çok uzun sürmedi
+_l_, böylece _D_'deki su, _d_ içinde kendi buharıyla depresyona girer
+veya buhar, mutlaka borudan yükselmeli, _h_,
+Clack, _i_, ve böylece _K_, _l_'ye geçerek
+suyun _d_ içindeki yüzeyi çukurun dibine eşittir,
+_H_; Sonra buhar ve su birlikte gidiyor, olacak,
+Clack, _i_, _d_ taburcu ettiğine dair yeterli güvence verin ve
+kendini _l_ olarak, alttan sekiz inç içinde boşalttı; Ve
+_D_'nin tepesinden borusunun altına kadar, _h_,
+_l_, bir ayak, bu yüzden
+_L_'nin elbette bir ayağı yenilendiğinden emin olabilir; Sonra açıyorsun
+horoz, _i_ ve derhal doldurma _d_; Yani burada bir sabit
+Korku olmadan veya düzensizlik tehlikesi olmadan hareket veya bozulma,
+Her zaman, büyük kazanın, _l_, yarı bitkin olup olmadığını bilin,
+su verirse, borusu su verecek küçük horozu çevirin _n_
+Kazanın yarısında olan dibinin seviyesinin üstünde olun;
+Değilse, buhar verecektir. Yani, aynı şekilde, _g_ size göstereceksin
+_D_'de sekiz inçten fazla su bulundurun, bu nedenle
+Aptal ve kasıtlı bir ihmal veya yaramaz tasarımdan başka bir şey yok,
+Birkaç saat boyunca devam eden, herhangi bir şekilde motora zarar verebilir; Ve eğer
+Üstat, yaramazlık yapmak için bir hizmetçinin tasarımından şüpheleniyor,
+bu gösterge borular tarafından kolayca keşfedilir; Çünkü eğer motoru gelirse
+iş başında ve _l_ içindeki suyun yüzeyini _c_ bulmak
+Gösterge borusunun tabanı, _n_ veya _d_ altındaki su alt kısmı
+_G_, böyle bir hizmetçi düzeltmeyi hak ediyor, ancak üç saat sonra
+üzerinde çalışmak, kazanlara zarar vermez veya tüketmez; Bu gibi,
+Tek kelimeyle, tüm su işlerinde olan klacks her zaman daha iyisini buldu
+ne kadar uzun süre kullanılırlar ve motorumuzun tüm hareketli kısımları
+doğa gibi, fırın stourbridge veya Windsor'dan yapılmıştır
+tuğla veya ateş taşı, motorun çürümesinin mümkün olduğunu görmüyorum
+uzun yıllar içinde; Clacks, kutular ve mitre-boru, regülatör ve
+Musluklar, hepsi pirinçtir; ve en iyi dövülmüş gemiler
+çalışmanın gücünü sürdürmek için yeterli kalınlıkta bakır
+motor. Kısacası, motor gerçek bir şekilde düzenlenir
+ne gerekli, en sıradan ve en kaba olanların bile
+Kapasite, işe alınmazsa, herhangi bir yaralanma olmadan birkaç yıl çalışabilir
+veya bir temel kişi tarafından onu yok etmek için istihdam etmek; sonra
+Motor bir kez sabitlenir ve işte,
+maceracı veya madenin amiri bundan kurtulacak
+sürekli ücret, masraf ve onarım sorunları
+Madenlerde henüz su yetiştirmek için kullanılan motorlar
+sürekli olarak sorumludur.
+
+
+
+
+İkinci Bölüm.
+Bu motorun uygulanabileceği kullanımlar.
+
+* * * * * *
+
+Bu motorun kullanımlarının
+İçin uygulanabilir.
+
+
+Aramızda çok az insan olduğu düşünülebilir, ancak
+Suyun düşmelerinin çoğu ne kadar değer olduğunu bilmelidir
+Mills için geçerli olduğu gibi, çeşitliden sonra yapılan yerler
+farklı dehaya ve yeteneklerine göre türler ve formlar
+Millwright, değirmen işi sonsuz bir şekilde
+çeşitlendirilmiş; Ve ona yorum yapmak ve size bir
+Hesap, sadece gördüğüm ve duyduğum geniş çeşitliliğin değil,
+ancak (teşvik edildiğinde) henüz sabit bir şekilde işe getirilebilecek
+akarsu ve bir su tekerleğinin dönüşü veya dairesel hareketi
+Bu kağıtları ilk başta tasarlanandan çok daha büyük bir hacme şişirin,
+ve amaçlanan kısalıkımı hayal kırıklığına uğrat. Bunu sadece ne göstermek için ima ediyorum
+Bu motoru kullanın, özellikle nerede
+kömürler ucuz.
+
+Ben sadece bu su, düşüşünde herhangi bir belirleyiciden
+yükseklik, sadece cevaplanabilir ve kuvvete eşit bir kuvvete sahiptir.
+onu yükseltir. Böylece iki kadar su kaldıracak bir motor
+Böyle bir işte bir kerede birlikte çalışan atlar yapabilir ve
+hangi yapmak için sürekli on veya on iki at tutulmalıdır
+O halde, böyle bir motor on veya
+on iki at; ve bu motor yapacak kadar büyük hale getirilebilir
+Sekiz, on, on beş veya yirmi at kullanmada gereken iş
+Sürekli korunmak ve böyle bir iş yapmak için tutulmak için,
+Kullanımlarını ve işletimini ile ilgili olarak uygunsuz veya sınırlamak için uygunsuz
+su değirmeni.
+
+2. Saraylar için, asaletin veya
+Beyler evleri; Çünkü, bir evin tepesindeki bir sarnıç tarafından Yoy May,
+Çok kolay ve az bir ücretle, ne miktarını atın
+Herhangi bir evin tepesinde fırsatınız olan su; Hangi su, içinde
+Düşüşü, ne tür çeşmeler lütfen lütfen ve malzemeleri yaparsınız?
+Evdeki herhangi bir oda ve ateş durumunda mükemmel bir kullanımdır.
+daha çok ahiret.
+
+3. Şehirlere ve kasabalara su ile hizmet vermek için hiçbir şey daha uygun olamaz,
+Bir nehrin gücünün bir krank çalışması hariç. Bestede böyle
+Bir çeşit motor, bence hiç kimse ustaca Bay'ı mükemmelleştirmedi
+George Sorocold; ama atları veya başka bir şey kullanmaya zorlandıkları yer
+Güç, inanılmaz bir insanın bu motoru inkar etmeyeceğine inanıyorum
+her bakımdan tercih, herhangi bir
+henüz keşfedildi veya icat edildi.
+
+4. Fens, bataklıklar ve c. Sanırım artık söylemem gerek
+Bundan, büyük miktarlarda su yetiştirecek olan bu kuvvet
+Seksen fitin üzerindeki yükseklik, mutlaka çok daha büyük bir
+daha az yükseklikte miktar; Ve çok daha ucuz ve her
+özellikle kömürlerin su kaynaklı olduğu durumlarda, devam etmek için
+herhangi bir miktarda su motorumuz tarafından deşarj
+herhangi bir at motoru tarafından yapılır.
+
+5. Gemiler için çok yararlı olabileceğine inanıyorum, ama cesaret edemiyorum
+Bu konuda karışın ve onu olanların yargısına bırakın
+Deniz işlerinin en iyi hakimleri.
+
+6. Madenlerin ve kömür çukurlarının boşaltılması için motorun kullanımı
+Kendini çok kolay ve ucuz su yetiştirmede yeterince tavsiye eder; Ve
+Şüphe yok, ama birkaç yıl içinde bu bir yapmanın bir yolu olacak
+Bunun zenginliğinin küçük bir parçası olmayan madencilik ticaretimiz
+Krallık, çift, şimdi ne olduğu için tiz değilse. Ve eğer böyle bir
+Kurşun, kalay ve kömürlerin miktarları, şimdi yıllık olarak ihraç edilmektedir.
+Madenciler gibi muazzam bir suçlama ve ağrıların zorlukları, & c.
+şimdi suyunu boşaltıyorlar, bundan böyle ne kadar olabilir
+ihraç edilen, yükün kullanımı ile ne zaman çok azaltılacak
+Bu motor her şekilde mayın kullanımı için takıldı mı? Çok daha büyük
+En zengin madenlerimizin ve kömür çukurlarımızın bir kısmı iki büyük
+rahatsızlıklar ve böylece işe yaramaz hale geldi, yani. yıkım ve
+subterrojen suların fazlalığına değmeyecek şekilde
+Onları büyük atlar veya el emeği ile boşaltmak. Veya,
+İkincisi, birçoğunun kör, topal veya ölü olduğu ölümcül numperanlar
+Bu subterrojen boşluklarda, eğer maden bir vadeyi istiyorsa
+Havanın dolaşımı. Şimdi, her iki rahatsızlık doğal olarak
+Bu motorun çalışmasıyla, ithalatçı tarafından su yetiştirme
+ateş gücü.
+
+Su için, Maden OLUN OLUN OLUN, Her Motor Altmış Çalışıyor,
+motorları uygulayarak veya ayarlayarak yetmiş veya seksen feet yüksekliğinde
+Bir diğerinin üzerinde, aşağıda daha büyük bir şekilde gösterileceği gibi
+sayfalar, yeterli sayıda motorla, altını tutabilirsiniz.
+herhangi bir maden kuru; Ve bir kez besleyicinizin veya yayınızın ne kadar büyük olduğunu bildiğinizde
+ki, hangi büyüklükte motoru veya ne kadar sayıda
+Motorlar işinizi yapacak.
+
+Bu motorda kullanılan kömürler, kömürler kadar az değerlidir
+Kömür çukurlarının ağızlarında yaygın olarak yanmış; Bir motor için
+Üç inç delik veya altmış feet yüksekliğe kadar suyun çalışması,
+yirmi inç derinliğinde olmayan bir itfaiye yeri gerektirir ve
+on dört veya on beş inç genişliğinde, bu çok küçük bir zaman
+tüketim, bir kömür çukurunda, sahip olduğumuz gibi,
+deneyimli. Ve mayınların olduğu İngiltere'nin her yerinde, kömürler
+o kadar ucuz ki, onlardan sorumlu değil, biz
+Dikkat edilemez değere göre yükseltilen büyük miktarda suyu düşünün
+çok küçük bir fırında kullanılan ve yanmış kömürlerin. Miktar ne
+yılda bir motor için kullanılan kömürlerin
+birkaç türün farklı doğası nedeniyle tespit edildi
+kömürler.
+
+Bu motor tarafından DAMP TEMİNİN TEDAVİ için, hava sürekli kalabalık
+Kül deliğine ve itfaiyeye, yapması doğal olduğu için ve
+en aceleci bir kuvvetle,
+Baca, bitişik hava onu art arda takip ediyor; böylece
+Sadece tüm buharlar veya buharlar değil, ortaya çıkabilir veya ortaya çıkabilir,
+Doğal olarak yangından geçmeye zorlayın ve böylece taburcu olun
+dumanla doldurun, ancak yangının bu hareketi,
+Tüm çukurları yukarıdan aşağı inmek için temiz hava ve her yerde
+Madde başka, ama baca aşağı; Bir başlığınız olması şartıyla
+işteki tüm şaftlardan veya çukurlardan sürüklenme veya geçiş,
+Motorun durduğu yer; söz konusu çukurun ağzı ve
+baca, geri kalanından herhangi birinin ağızlarından daha düşük veya daha yüksektir.
+Önemli olduğu aynı işte çukurlar veya şaftlar, çünkü burada bir
+Havanın sürekli dolaşımı ve bu hızlılıkla neredeyse hiç
+İnanılacak. Bunu denedim ve doğru olmayı biliyorum, bu yüzden bırakın
+tüm hava bir
+hızlı hareket, herhangi bir hava durgunluğu (her zaman
+Hakimlerin nedeni) herhangi bir çukurda olabilir.
+
+
+
+
+Bölüm Üçüncü.
+Motoru su fabrikaları, saraylar ve
+Beyler koltukları, boşalma ve evlere su sağlamak
+Genel olarak. * * * * * *
+
+.
+Motoru sabitleme şekli
+Su değirmeleri, saraylar ve beylerin koltukları ve boşalma fensleri için,
+Ve genel olarak su ile ev tedarik etmek.
+
+
+1. değirmen için. Motor yapılmalı ve orantılı olmalıdır.
+Kullanabileceğiniz değirmeni sürmek için gereken su miktarı
+ile ilgili. Şimdi, düz bir yerde bir değirmen yapacağınızı varsayalım, burada
+Sadece bir gölet ve bir tüyden daha büyük olmayan küçük bir su yayına sahip olmak;
+O zaman değirmen evinizi otuz altı feet yüksekliğinde inşa etmelisiniz.
+hangi hareketleri ve ne tür değirmenleri lütfen yapabilir. Yanında
+Hangi evden, otuz iki su tekerleğinizi yerleştirebilir,
+otuz üç veya otuz dört feet çapında. Her ikisinin yüksekliği için
+Ev veya tekerlek tam olarak kimseyi sınırlamazdım, ama sanırım
+Uygun bir yükseklik ve yeterince yaygın olandan daha fazlası yok. Altında
+Tekerleğim bir göletim olurdu ve evin tepesinde bir sarnıç
+Ahşap kurşunla kaplı. Motor, herhangi bir köşesinde sabitlenebilir.
+değirmen evi, yirmi, yirmi bir, yirmi iki feet veya daha fazlası
+Gölet seviyesi: Sizi gösterdiği gibi iki kazan sabitlenmelidir
+motoru sabitlemek için taslak; Ve her birinde yuvarlak
+bir demir çemberine sahip olmak uygun, kayışlar onlardan geliyor
+Onları desteklemek ve güçlendirmek için tuğla işine dayanın. Clacks
+ve ön taraftaki borular odun ve gemiler tarafından destekleniyor
+Ahşap kaideleri üzerinde dururken, baca veya
+baca, çok keskin ve baca çizmek için çok tartışmalı
+Her iki kazanın da etrafında dolaşın, böylece hiçbir kısmını kaybetemezsiniz.
+kuvvet.
+
+2. Saraylar veya asaletin veya beylerin evleri için düzeltebilirsiniz
+Zemini yirmi üzerinde olmayan herhangi bir uzak veya dış odadaki motor
+su seviyesinden ayaklar ve devam edebilirsiniz.
+Evinizin üstüne kuvvet borusu, tutacak uygun bir sarnıç ile
+senin suyunuz; Suyu sizin gibi aktarabilecek boruların içine
+ya zevk ya da ortak durumlar için istiyorum. Bu sarnıç yolu
+Evlerinizin veya saraylarınızın üstünde tekil kullanımda olur
+daha önce de belirtildiği gibi ateşin; Çünkü her merdivende bir boru aşağı inebilir
+köşede veya wainscot'un arkasında,
+En iyi merdivenler. Her katta bir
+vida. En uçta da aynı şekilde küçük bir deri boru var,
+Bir dolapta veya duvarınızda görülmeyebilecek boşlukta yağlanmıştır,
+Ancak açılışta wainscot'un bir kısmı veya başka bir
+ustaca inşaatçı olarak, yararlanmak için uygun olduğunu düşünecektir.
+Bu deri borunun,
+Buna bağlı olarak tüm odalarda iniş yeri veya merdiven başı. Tek uç
+Bu borunun diğer boruya uyacak bir vida var ve
+Diğer uçlar bir çift körüğün burnu gibi bir boru; böylece nerede olursa olsun
+Bir yatağın altında veya evdeki herhangi bir odanın en uzak kısmı olsa da,
+Yangın, boruyu vidalayan herhangi bir hizmetçi patlar veya keşfedilir
+Horoza, oraya gelene kadar nozle başparmağıyla durdurur
+Ateş nerede, başparmağını ortadan kaldırırken,
+Ateşe nozle, hemen söndürür, bu da sorumludur
+anında kullanılmak, bence bir ev, saray ve c. Bu var
+Buluş, ahlaki olarak yok olma tehlikesi dışında olduğu söylenebilir,
+Ya da şimdiye kadar Whitehall ve Kensington birkaç kişi içinde yaralandı
+yıllar. Bu su komutunun büyük avantajlı olmasına izin verilmelidir
+Herhangi bir eve. Nerede demleme, yıkama, & c. kullanılır,
+Yüksek ayakta duran bakır, düşük durmuş gibi kolay doldurulabilir.
+yani sıcak likörün tüm soğutucularınıza gitmesi anlamına gelebilir,
+ve bir sifon, stop-cock ve c. olmadan
+Kovalar ile pompalama veya kefalet elle tutulması. Ama daha fazla kolaylık
+şu anda olabileceğimizden daha öngörülen kullanımda keşfedilecek
+saraylar, evler için motor, & c.
+
+3. Fens ve benzerleri için, bu motorların yapılması uygundur
+çok büyük; Çünkü tüm küçük yüksekliklerde az miktarda ateş
+Müthiş miktarlarda su verin. Diyelim ki zorluyoruz ama
+otuz feet ve yirmi feet emerse, kazan yaparsa ama
+Alıcılar olarak adlandırılan gemiler, buharla karşı karşıya kalacak kadar güçlü veya
+atmosferin kuvvetini veya ortak havanın yayını aşın,
+otuz feet zorla onları çok küçük bir yükseklikte boşaltacak
+Çok az zaman; Ve çok az kuvveti veya yaylı buhar
+Hemen yoğunlaştırılmış, böylece şu anda birinde doldurmak için
+Diğeri taburcu edilirken gemiler. Şimdi, yangın kadar
+Az ya da çok olmak emişe hiçbir şey eklemez. Bence böyle asansörler
+nadiren otuz altı fitin üzerinde veya altı fitin altında olmak, tüm
+Bu kullanım için motorun sabitlenmesi için daha fazla talimatlar,
+Motorunuzu biraz yerleştirmek için yirmi dört fitin altındaki tüm asansörler
+Kuvvet çatallarınızın üstünde, suyunuzun teslimatının yeri olabilir
+en fazla gerçekleştirilecek uygun bir oluk veya iniş halinde
+deşarjı için uygun yer. Yirmi dörtün üzerinde herhangi bir yükseklik varsa
+Ayaklar, yapacak hiçbir şeyin yok ama uzunluğuna devam etmek
+Gereken yüksekliğe kuvvet borusu. Bir kulübe veya örtmeli olmalı
+yuvarlak ve fen veya bataklığınızın en alçak yerine yerleştirilecek
+Bu amaç için tasarlanmış diğer motorlar yaygındır.
+
+Motoru gemilerde sabitlemeye gelince, muhtemelen düşünülebilecekler
+Yararlı, sorgulamıyorum ama düzeltmek için yeterince kolay bulabiliriz
+onlara.
+
+Madenlerde ve kömür çukurlarında motorları sabitleme şekli bu; senin
+çukur batırılıyor ve bir karter veya uygun bir kuyu veya alt sarnıç,
+Birkaç besleyici veya yaydan gelen suyu alın.
+Üç bu çeyrek inç delik taşıyan bir motorun
+Yaklaşık yetmiş feet yüksekliğinde su vermek için düzeltildi, sabit bir
+tam delik; Bu durumda şaftınızda veya çukurunuzda küçük bir oda yapıyorsunuz,
+Bu, şaftınız veya çukurunuzla birlikte, her şekilde dokuz metre karedir.
+Örneğin, şaftınızın altı ayak dört
+bir taraftan ve diğer diğerinden beşi, dokuz feet,
+Şaftın o kısmında küçük bir zemin veya tahta platformu yapmak
+karterinize veya alt sarnıçınıza iner, böylece tam bir
+Motorunuz için yeterince büyük oda, on veya on iki kişinin ayakta kalabileceği
+ara sıra. Bu kat yaklaşık on sekiz, on dokuz veya yirmi olabilir
+sudan ayaklar, en düşük seviyede suyu içine çekeceksiniz
+Karter veya alt sarnıç. Zemininiz gevşekse, uygundur
+Bu odayı tuğla ile sıralamak; Rock ise, kendini destekleyebilir. Ama
+Bu madencinin yargısı onu yönetmelidir. Motorun duracağını
+Çukurun en iyisi, çoğunun kazıldığı yerde,
+Bir madende sabitlenen motorun ikinci figürü. Borularınız & c.
+demir, ahşap krampları veya gibi malzemelerle sabitlenmelidir
+Kullanışlı, çukurun veya şaftın kenarına, böylece
+Şaftın kendisi olarak sağlam. Fırınınız o kadar anlaşılmalıdır ki
+Aleviniz, her bir kazanın her biri bir veya iki tur alır,
+Fırınlar için kullanılan tuğla katman yapabilir; çalıştırılarak gerçekleştiriliyor
+hem bir vida hem de solucan gibi tuğla sırası
+Fırınların ve kazanların duvarına bitişik,
+Her ikisinin de etrafında bir solucan-aile; Nereden devam edebilirsin
+bacanız, yanlarına sabitlediğiniz işinizin tepesine kadar
+Demir veya ahşapla veya
+Her ikisi de, zeminin doğasına göre. Ve nerede yaparsan yap
+Bacada dik açı yakınında ani viraj veya köşe, gevşek
+Eğer böyle bir şekilde yerleşmelise, kurumun çıkarılması için tuğla veya taş
+uzun sürede yapabileceği yer.
+
+
+
+
+Birkaç itiraz
+Karşı
+Bu motoru çalıştırmak cevap verdi
+İÇİNDE
+Diyalog
+Bir madenci ve yazar arasında.
+
+
+
+
+Diyalog
+Bir madenci ve yazar arasında.
+
+
+_Madenci_. Efendim, şimdi kullanılan motorlarda endişe duyan
+Madenlerimizden su çizmek ve bunun hakkında çok şey duymak için
+senin harika icat, ateşle su yetiştirmek, ben çok
+Doğa ile ilgili olarak sizinle bazı söylemlere girmek arzuar,
+Motorunuzun kullanımı ve uygulaması, çok garip bir şekilde farklı
+Şimdiye kadarki diğer motorlar çalışmalarımız için icat edildi ve hangisi,
+olumlu bir şekilde doğrulan, her yolun avantajımıza çok fazla eğilimi olacak
+bunların kullanımı; Ve bu sadonlukla görüşmekten şüphe etmiyorum,
+Söyleminize genellikle eşlik eden özgürlük ve iyi mizah
+ile. Ve aynı özgürlükle beni bu tür sorularda çözüyor
+ABD madencilerinin genel duygusu doğal olarak itiraz etmeyi önerebilir
+Motorunuzun kullanımı, özellikle de henüz cahil olan
+Gerçekleri yargılayabilmeleri için kullanma ve operasyon
+Suyunuzu yükselten kuvvetin doğası ve gücü.
+
+_Yazar_. Efendim, özgürlüğünüz için size son derece zorluyorum ve
+sizi bilgilendirmek ve açıklamak için tüm fırsatları kolayca kucaklayacak
+motorumun gerçek kullanımı ve doğası; Ve bu nedenle seni arzulayın
+Akla gelebilecek tüm özgürlük, devam etmek ve hangi soruları lütfen sormak,
+Ya kendi düşüncelerinizle ve önerilen şey
+Başkaları tarafından. Ve düz ve samimi bir cevaptan emin olabilirsiniz
+Tüm itirazlarınız.
+
+_Madenci_. O zaman efendim, motorunuzla hangi yöne çalışmaya gideceksiniz?
+Su dolu eski bir işi temizleyin?
+
+_Yazar_. Neden efendim, sizinle açıkça başa çıkmak için, eğer şaftlarınız varsa veya
+Düz kesilebilir, küvet motorlarınız veya zincir pompalarınız ortaya çıkabilir
+su. Ve suçlama, bu açıdan, hesaba katılmayacak
+Çünkü, çünkü hiçbir benim atılmayacak veya ihmal edilmeyecek ama nedeniyle
+kesin olan besleyiciler veya yaylar ve sürekli
+kış ve yazları gerçekleştirme olasılığı
+başarılı, madeninizi yirmi fit içinde çalışmaya veya boşaltmaya değer kılar
+Dipten, eğer batmaya değer olsaydı, çalıştığınız halde veya
+Küvetlerin veya zincir pompaların ortak yolu ile boşaltın. Ve sabit olabilir mi
+Bu motorların şarjı sağlanacak, bunların sayısı boşalacak ve
+herhangi bir işin altında kal; Ama bu, sürdürmenin sürekli yükü
+Yayların getirdiği şey,
+Madenlerin işi, hangi sabit yük çok azalttığımız şeydir
+Bu motorum tarafından.
+
+_Madenci_. O zaman motorunuzu ne ifade eder, efendim, eğer yapamazsa
+Eski bir madeni mi batıyor mu yoksa zor mu?
+
+_Yazar_. Bekle, iyi arkadaşım, biraz sabır; Ben uğradım
+Eski motorlarınızın kullanımı konusunda açıkça ve tarafsız bir şekilde sizinle birlikte:
+Ve motorum için, su doluysa eski bir işi temizleyecek
+Millerin iyi olması koşuluyla, küvet çenleriniz veya zincir pompalarınız olarak kolayca.
+Altmış feet derinlikte eski bir madeni temizlemeyi önerdiğim yöntem ve
+su dolu, iki inç deliğin üzerinde olmayan besleyiciler
+Bu şekilde çok küçük şarj; _yani_. Motorumu üstte düzeltiyorum
+madenin ve sadece üç buçuk bir inç emmek ve teslim etmek
+delik; Emniyetimiz gidecek kadar suyu batırır etmez,
+bu yirmi iki, yirmi dört veya yirmi altı fit derinliğinde olacak
+Yüzeyin altında, başka bir motor almak için bir oda uygun hale getiriyorum,
+Çukurun tepesine çıkmak için kuvvet borusuyla tamir ediyorum; Ve
+Yaklaşık yirmi dört veya yirmi altı feet daha fazla battığımda, o zaman düzeltirim
+İki inçlik daha küçük bir motor, yirmi emen ve
+Kırk zorlamak, işinizi yapar ve her şeyi güvende tutar; Ya da küçük olsun
+Motor işyerinde tutulurken, daha büyük motoru çıkarırken
+Orta istasyonun tepesinde ve sonra daha fazla vesilesiniz olacak
+En büyüğü, en iyisi kaldırılabilir iki motordan
+En düşük veya uygun istasyonda daha küçük sabittir. Ve sen olabilirsin
+tarafsızlığımdan ikna oldum, benim düşüncem, eski bir
+çalışın veya yeni bir tane batırın, eski küvet motorlarınızı kullanırsınız veya
+Zincir Pompalar: Bu motorum en uygun, geldiğinizde
+cevher veya kömürün altına oldukça; O zaman, varsa
+Ancak bir asansör, bir istasyon veya motor odası yeterli olacaktır. Ve
+İki karalama veya alt sarnıçlara sahip olan suyunuz, bir ölçüye göre,
+Birine diğerine geçişine yerleşin. Böylece madenciler
+tolere edilebilir bir şekilde temiz çalışmak ve az ölü veya gevşek kömür veya
+su ile karıştırmak mümkün olduğu gibi, suyunuz olabilir
+Sadece biraz renksiz çizin; Bildiğin gibi, benim gibi,
+genellikle mayınlardan veya kömür çukurlarından gelen su,
+Şimdi kullanımda olan çırçırlar neredeyse berrak su.
+
+_Madenci_. Efendim, açıklığa göre samimiyetiniz için teşekkür ederim
+eski bir işin. Ancak suyumuzun kalın ve çamurlu olduğunu varsayalım,
+bazen olacağını bildiğiniz, sizinle ne yapmalıyız?
+Motor o zaman?
+
+_Yazar_. Ne diyorsun, efendim, çok doğru olduğunu biliyorum, bazen
+Kalın, çamurlu çakıl ve kötü suyunuz var. Hangisini önlemek için
+Borularımıza giren veya rahatsız eden bir tahta çerçevemiz var
+boruumuzun alt kısmı etrafında deliklerle dolu
+Su, kaygan veya ince kir için motoruma yaralanma yapmaz. Aslında,
+Suyumuz kazanlarımızda ne kadar net olursa, işimiz için o kadar iyi olur;
+Ancak alıcılarımız ve onların kaşları için çalışırken onları temizleyebilirsiniz
+Taşlar, kömür, cevher veya başka bir sıkıntıdan,
+çok clack; çünkü bir veya her ikisini de boşaltarak
+su, emme veya kuvvet hareketine neden olursun, hemen
+o kadar güçlü olmak, her şeyi temizleyecek ve üstüne kadar havaya uçurmak için
+çukur; bakır, büyük parçaların dosyalarını bulduğum
+Metal, önemli miktarlarda kömür ve taş, teslim edildi ve atıldı
+Altmış feet yüksekliğindeki motorumdan su ile. Ancak açık
+Motorumun işindeki kirli sudan önce su tercih edilir.
+
+_Madenci_. Ama sevgili efendim, eğer altmış, yetmiş veya seksen feet ise
+Motorunuz tarafından su yetiştirmek için yüksekliği belirleyin, nasıl yapalım
+Motorunuzu suyun kaldırılmasını gerektiren bir madende veya çukurda kullanın
+Bazı eserlerimizin yaptığını bildiğiniz gibi üç kez seksen feet.
+
+_Yazar_. Bu son teklif için yürekten teşekkür ederim efendim, çünkü ben
+Şimdi sizi tanımak için bir fırsat var, benim için kullanılan güç
+Motor sonsuz ve sınırsızdır ve
+Beş yüz veya bin feet yüksekliğinde su, çok derindi;
+ve bize güç temin etmenin bir yolunu bulabileceğinizi
+böylesine muazzam bir ağırlık, bin feet yüksekliğinde bir su direği gibi
+Kesinlikle üretmek. Ancak, size bir cevap vermek için, sizi karşılamalıyım
+Motoruma nazik bir eğlence ve adil çeyrek olarak vermek için
+Motorlarınız şimdi kullanımda: çünkü eminim, cahil değilsiniz
+çok derin madenlerde (İngiltere'nin birkaç bölgelerinde) kullanılan özel
+Sularını sarnıçtan sarnıça, bir birkaç asansörle yükseltmek
+Çok büyük bir yükseklik, ancak asansörlerinin bir kısmı yukarıda olmayabilir
+En fazla on iki, on altı veya yirmi feet asansör. Ve varsayalım
+Motorunuz şimdi yirmi feet asansörde ve motorum
+Altmış, yetmiş veya seksen feet, çünkü bu asansörlerden herhangi birinde bir
+Tam su deliği çok kolay, sonra altmış bir motorumun bir asansörü
+Ayaklar motorlarınızın üç asansörüne yirmi feet ve ayrıca
+Asansörlerinizin dördüne seksen fit, & c.
+Son itirazınıza yeterli bir cevap alın. Biliyorum, içinde
+Cornwall, her bir asansör yaklaşık on sekiz feet olan üç asansörlü bir çalışma,
+ve üç ve çeyrek inçlik bir delik taşımak, bu kırk iki maliyet
+Diem başına şilinler, emek için yirmi dört saati hesaplamak,
+Motorların aşınması ve yıpranmasının yanı sıra; Her pompanın dört erkek çalışması
+Sekiz saat, bir adam ve erkekler dinlenmek zorunda kaldı
+o zamanın en az üçte biri.
+
+_Madenci_. Efendim, şimdiye kadar bana yadsınamaz cevaplar verdi
+Size teşekkür ettiğim eski itirazlar; Ama bence yapacağım
+Siz, size motorunuzu nasıl yöneteceğinizi sorduğumda
+Su, şaftların doğrudan olmadığı yer, ama dönüp rüzgara dönün?
+
+_Yazar_. Efendim, bu son soru herhangi bir zorluk olmaktan çok uzak
+Motoruma koy, henüz icat edilmedi, çok doğal değildi
+Bu çarpık şaftlarda benimki gibi çalışmaya adapte edildi; izin vermesi için
+Millerin sargıları veya dönüşleri, istedikleri gibi,
+Suyun dik ağırlığı, motorumun hesaba katması gereken tek şey
+ve bir damıtıcının solucanı figürünü yapmış gibi aynıdır,
+ve biraz dışında akla gelebilecek en düz borudan geçti
+suyun borunun yan tarafına karşı dikkate alınamaz sürtünmesi
+çarpık, düz borudan daha fazla, ki bu çok küçük
+Madde, çok güzel bir yargıç neredeyse ayırt edemeyecek
+Çarpık veya düz borunun çoğu su içinde olsun
+çalışma. Dumanı taşıyan baca için yeterince deneyim
+Size, istediğiniz şekilde döndürüp sarabileceğinizi söyler ve
+Çizimlerindeki bu tür sargıların çoğu havadan daha çok iyileştiriyor
+Fırınların inşasında deneyimlediği gibi, baca önyargınız
+sizi bilgilendirebilir.
+
+_Madenci_. Efendim, çarpık şaftlarımızın hiçbir şekilde olmayacağını düşünüyorum
+Motorunuza Buna Dair: Ama motorunuzu barındırmayı ne düşünüyorsunuz?
+Şaftları birçok kez olan kurşun madenlerinin hizmetine
+Dar, motorunuzu indirmenin çok zor olacağını?
+
+_Yazar_. Ben algılıyorum efendim, sen doğaya çok yabancısın
+pirinç vidalarla donatılmış motorumun
+Metalin kendisi olarak, onu parçalara ayırabilirsin ve
+Birkaç saat içinde çalışmak için tekrar bir araya getirin; ve bu yüzden
+bir adamın iyi geçebileceği yerde, orada benim
+En büyük kazan için birkaç parça halinde motor ve bunları düzeltin
+Motoruma ait olmak yirmi dört ile otuz inç arasındadır
+çapı ve duruma ihtiyaç duyarsa, çok daha dar ve
+Daha derine. Ve eğer madenin şaftını getirmek zorsa
+Motoruma sığdır, çok kolay bir şekilde, motorumu şafta uyacak şekilde yapabilirim
+herhangi bir madenin.
+
+_Madenci_. Ama senin içinde bahsettiğiniz bu pirinç vanalar olmayacak
+Motor, hızlı bir şekilde giyin ve işinizi durdurur mu?
+
+_Yazar_. Hayır: Beni başarısızlığa uğratamazlar; Çünkü deneyim bize gösteriyor,
+pirinç valfler daha da kötü büyümek yerine yirmi veya otuz
+Yıllar sürekli çalıştığı ve nerede olduğu herhangi bir kuvvet işinde kullanın
+Valflerimin yapacağından yirmi kez yükselip düşüyor.
+
+_Madenci_. Ama ne düşünüyorsunuz, efendim, eğer böyle bir görüşme yapmalısın
+Bazı madenlerimizde aşındırıcı su, küçük bir zamanda,
+Bakır gemileriniz aracılığıyla.
+
+_Yazar_. Gerçekten efendim, bu soru beni biraz korkutuyor çünkü
+Hiçbir zaman böyle aşındırıcı bir kalitede herhangi bir suyun karşılaşmasını beklemiyordum
+Benim: Ve suyu böyle bir asitle dolu olan bir maden bulabilir miyim?
+Parçacıklar, motorumun bakır gemilerini yok etmek veya yaralayacak şekilde, i
+Bu benimkini alacağım sudan başka bir şey için boşaltırdı;
+Çünkü su herhangi bir cevherden daha değerli olurdu (inanıyorum)
+İngiltere. Ve Aquafortis'in onuncu bir kısmı bile dokuzuncu
+Olması gerektiğini varsaymak imkansız olan yaygın su, diyorum.
+Böyle bir suyun bakırlar üzerinde hiçbir etkisi olamazdı,
+Bakır gemilerde biraz zaman geçiriyor, geçerek çok daha az
+Onları her zaman ona eşlik eden bu celerite ve hızlı hareketle.
+
+_Madenci_. Ama efendim, tutulması gerektiği gibi sürekli bir ateş olmayacak
+Kazanlarınızın altında, onları iki veya üç ay içinde yakın ve
+Motorunuzun işini bozuyor musunuz?
+
+_Yazar_. Bazı yıllarda çürümeyeceklerinden emin olabilirim,
+Bazıları bunu yapmak için işe alınır veya istihdam edilir. Ve herhangi bir
+Kötü adam, şimdi motorlardan herhangi birini yakmak, kırmak veya yok etmek için kullanılabilir
+Çalışmalarınızda su yetiştirmek için kullanılırız, o zaman aynı seviyedeyiz
+o noktada seninle. Ama sana motorlarımın bir nedeni vereceğim
+Kolayca çürümeyecek ve eminim bu sizinle daha da ilerleyecek
+Yapabileceğim tüm onaylamadan daha. Her şeyden önce, bir
+Beyaz ısı bakır ve kırmızı bir ısıyı eritecek ve aniden soğutacak
+Yine, bakırın ölçeklendirileceği, ancak mümkün olduğu gibi bir ısı
+Su kazanındayken kötü bir etkisi olmayabilir veya
+bakırımızda herhangi bir değişikliğe neden olur. Bir arkadaşımın bakanlar kullandı
+yirmi yıllık şeker kaynatma. Küçük bir konu olabilirler
+içeride temizlik ile giyilirken, dışarıda dışarıda
+en az görünür bozulma görünmüyor: yangın atılır atar
+Kazanın dışındaki ince bir kurum, alev yok
+İçindeki suyun kaynamasına neden olmaktan başka bir etki.
+
+_Madenci_. Ancak madenlerimizde sık sık yanıcı buharlarımız var,
+Orada kullanılan mumlardan ateş almak, ani bir patlama ile yapın,
+Hem madeni hem de madenciyi yok edin; Ve bu yüzden korkuyorum
+Motorunuzda kullanılan yangın çok tehlikeli olacak ve Kindle'a yatkın olacak
+Bu mumlarımızdan daha fazla yanıp sönüyor.
+
+_Yazar_. Bu itirazı cevaplamak için, size vermek için izin isteyeceğim
+Kısacası, bu yanıp sönen bu yanıp sönenler fikri:
+Madenciler, hava dolaşımının bulunmadığı yakın bir yere girer
+effluvia veya atomları sürekli olarak ince toz gibi yükseltmek
+Bir toz değirmesinde, vurarak ve çalışarak çok olmak için artar
+Çok sayıda, bir toz fabrikasındaki gevşek parçacıklar gibi. Ama öyle
+Buharların mükemmelliğe gelmesi için bir süre çalışması; Ben için
+birkaç deneyimli madencinin, kaçınmanın yaygın olduğunu söylediğini duymuşlardır
+Alevi görür görmez emekli olarak bu buharların tehlikesi
+mumlarının sıradan olduğundan daha uzun süre yanması, ayırt edilebilecek
+Bazen hava bu yanıcı olandan yeterince kalın önce
+Bir kerede ateş etmek ve barut gibi, herkesin yok edilmesi önemlidir. BEN
+Birini duydu mu, bir buçuk inçten, bir kez alevinin
+Mum yavaş yavaş iki metre uzunluğa yükseldi ve yine de kaçtı.
+Bu da onu çok açık hale getirir, hava durgunluğu tek nedenidir
+Bir boru tarafından tamamen önlenebilecek madenlerde bu rahatsızlık
+Fırınımızın kül çukurundan madenin herhangi bir bölümüne gitmek sorumlu
+durgunluğa. Çünkü hava,
+yanıcı madde yapmaya hazır olmadan önce yangına boru
+Herhangi bir incinme ve ateşten geçerek temiz havaya yol açar
+Odasına in. Böylece ateşimiz, patlamak yerine
+eserleriniz, bu kadar ölümcül bir
+kaza; ve aynı şekilde tüm tuhaf buharları, nairleri,
+veya havanın bozulmasından, durgunluklarla veya
+herhangi bir zehirli toprak veya mineralden kaynaklanan buharlar.
+
+_Madenci_. Bu fikriniz, akıl ve gösteri de taşıyor
+Benimle, bu beni harika bir şekilde memnun ediyor. Ama efendim, senin fiyatın da değil
+Bu motorlarınız için harika?
+
+_Yazar_. Size sunacağım şeyle, fiyatımla ilgili olarak, eminim
+Bana ve motoruma sonsuza dek bir arkadaşınız var mı? Çünkü sana söylemeliyim
+Eğer olmasaydı, motorumu asla dünyaya gönderemezdim
+Suyunuzu size ve size daha kolay ve kolaylıkla yükseltin
+hizmetkarlar ve aynı zamanda şimdiye kadar kullanılan diğer motorlardan çok daha ucuz
+eserleriniz, asla herhangi bir avantaj öneremeyeceğim
+kendim. Ve sizi iddiamın gerçeğine ikna etmek için cesaretim
+Motorun üstesinden gelmek, sekizpence için sizi daha fazla su kaldıracaktır,
+eski motorlarınızla benzer şekilde yükseltmeniz için bir şilin maliyeti olacak
+kömür çukurları. Bu bir makalede, madenci üçte birini kaydedecek
+Otuz üç kilo olan eski suçlaması altı şilin ve
+Sekizpence her yüz pounddan kurtuldu. Kazanılan cesur bir mülk
+üç, altı veya sekiz olabileceği bu harika eserlerden bir yıl sonra
+yılda bin lira, madenlerini temizlemek için harcanır.
+Sadece su, çırçırların, motorların, atların ve c.
+Umarım artık motorlarımı bu şekilde açıklamayacaksın
+Şimdi sunduğum koşullar; Ama eğer seninle, varsayalım
+Motor orantılı olarak canım veya şimdi kullandığınız motorlar kadar sevgili
+Suyunu çiz, ki bu imkansız, motorum olacak
+Benimkinden önce benimkinden önce tercih edilir, benimkinin önlediği gibi
+Dumanlarınız ve onların kötü etkisi: ve benim ilgim olacağı için
+Motorumu ilk olarak işte önemli ölçüde ayarlayanlara izin vermek için
+avantajlar, bu yüzden umarım kendimi cesaretlendirdiğimden emin olabilirim
+Tüm icatları yararlı tanıtmak için her zamankinden çalışkan olan ustaca
+ve halka faydalı; çünkü bir motorun
+bir süredir her gün üzerinde çalışmak için en iyi sanatçıları kullandı
+Bir gün içinde ortaya çıkmayacaktı: ve buna getirmek için
+Şimdi bulduğun mükemmellik, bana ve arkadaşlarıma mal olmalı
+işçileri bununla işlerini yapabilmelerini sağlamak için çok az para
+Şimdi yaptıkları kesinlik ve kesinlik. Ve motoru çalıştırmak için
+Kişi hizmetçisinin bunu öğretmiş olabilir, bu çok
+Sıradan bir kapasiteden kısa bir süre.
+
+_Madenci_. Ama harika şeyler yapıyormuş gibi yapan insanlar var.
+Motorların elle veya atlarla çalışması, umut ve
+beklentisi bazılarımız işimizde engelledi ve yorgun
+diğerleri, onları tüm motorlara sevgiden çıkarmak için ve neredeyse
+madencilik ticareti ile. Ve aksine diliyorum, bundan korkuyorum
+ilginizi teşvik eden bir miktar engel olabilir.
+
+_Yazar_. Doğru, efendim, o zamanın aklına geldim
+Büyük gibi davranan tüm fakültelerde molanbanks ve sahtekarlar
+ama etkili bir şekilde hiçbir şey yapmayın. Ve eğer zor olurdu
+Sonuç olarak, bazıları knaves olduğu için bu sonucuna çıkarılmalıdır.
+Bu nedenle hiçbiri dürüst değildir. Sürekli hareket kavramlarını biliyorum,
+veya kendi kendine hareket eden motor ve kaprisler gibi birçok kişi
+erkekleri tasarlamak ve cahil olanlara inanmak: ama mantıklı adam,
+Hareket yasalarını düşünen, bunun yanılmaz bir kural olduğunu bilir,
+Ne olursa olsun, yukarı doğru kaldırılmalı, üstün bir kuvvete sahip olmalı
+Kaldırılacak ağırlığa, hareketi hızlı bir şekilde gerekliyse
+hareketli nedenin hareketi; Daha yavaş ise, orantılı olarak daha az
+güç yapacak; Swifter ise, o zaman hareketli neden, erkeklerin elleri olarak,
+atlar veya ölü ağırlık, o zaman hareketli nedenin gücü olmalıdır
+orantılı olarak arttırılabilir veya hiçbir hareket üretilemez. Ve
+Çağ deneyimleri bize bunun en kesin bir kural olduğunu gösterir ve
+daha büyük olan sürtünme, daha fazla tekerlek veya parça bir motor
+; ve sonuç olarak, daha az parça veya tekerlek
+Motor daha kolay çalışır; böylece zar zor bakarak
+Bir pompada, ortak krank işinden daha fazla parça veya tekerlek varsa,
+daha kötü sonuçlandırabilirsiniz; Bir zincir işi veya küvet işi aynısa. Bu yüzden
+Beklenebilecek tek şey, bunları daha kolay hale getirmektir.
+şimdi onları yapmak konusunda ustaca işçiler uzmanı tarafından yapılmış. Ve eğer
+Bir sorunun yüklenmediğinde bu motorları ne kadar küçük hareket ettireceğini deniyorsunuz
+Su ile, sürtünmeyi hiç değmeyecek kadar küçük bulacaksınız
+Mending, yapılabilir mi, özellikle sürtünme
+herhangi birinin yüklenmesinde en azını arttırır; Ama diğerleri çok
+emicilerinin derileri daha geniş zorla arttı ve
+çalıştıkları namlulara karşı çok daha fazla güçle sürtünme,
+Yüksekliğe göre borular kaldırılır.
+
+Ve umarım, bu motorumun ne kadar farklı olduğu düşünüldüğünde
+Cahil veya tasarlayan erkeklerin çıplak iddialarından ve herhangi bir
+Kişiler motorumun sözleşme yapmadan önce ne yapacağını görebilir
+Herhangi bir en az şüphe için hiçbir zemin bulunmayacak
+onları madenlerde istihdam etmekle ilgili kişi; Ama aksine, karşılamak
+bize çok elverişli bir işte cömert bir cesaret
+madencilik ticaretini arttırmak ve böylece kendilerini ve
+ulus ve kralın gelirini artırın.
+
+Tüm madencileri yürekten, kendi başına ve onların
+ülkenin ilgisi, iyi mekanikti ve gerçekten anladı
+her türlü motorun doğası, kullanımı ve uygulanması; Çünkü eminim
+Yapanlar, o atları beklemeden en iyi arkadaşlarım olacak,
+veya erkekler veya başka bir güç, doğadan daha fazlasını yapabilir veya yapacak
+Ve hareket yasaları onlara izin verdi.
+
+
+
+
+[İllüstrasyon: Şekil I - bkz. Şekil_1.gif]
+[İllüstrasyon: Şekil II - bkz. Şekil_2.gif]
+[İllüstrasyon: Şekil III - bkz. Şekil_3.gif]
+[İllüstrasyon: Şekil IV - bkz. Şekil_4.gif]
+
+
+
+
+Transcriber'ın notu:
+
+
+
+
+
+
+Projenin Sonu Gutenberg Miner'in Arkadaşının E -Kitabı, Thomas Savery tarafından
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MINER'S FRIEND ***
+
+***** This file should be named 46879.txt or 46879.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/8/7/46879/
+
+Produced by Steffen Haugk
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
