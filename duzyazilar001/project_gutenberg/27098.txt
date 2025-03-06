@@ -1,0 +1,2977 @@
+*** START OF AKTAHEADER ***
+Başlık: Technology and Books for All (Herkes için teknoloji ve kitaplar)
+Yazar: Marie Lebert
+Yayın Tarihi: March 14, 2009 [EBook #27098]
+Dil: English
+Link: https://www.gutenberg.org/ebooks/27098
+Çeviri: Python-deep_translator-GoogleTranslator
+Kategori: edebiyat
+*** END OF AKTAHEADER ***
+The Project Gutenberg EBook of Technology and Books for All, by Marie Lebert
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: Technology and Books for All
+
+Author: Marie Lebert
+
+Release Date: March 14, 2009 [EBook #27098]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TECHNOLOGY AND BOOKS FOR ALL ***
+
+*** START OF TURKISH PART ***
+Al Haines tarafından üretildi
+
+
+
+
+{~ --- utf-8 bom --- ~}
+
+
+Herkes için teknoloji ve kitaplar
+
+
+Marie Lebert
+
+
+Güncellenmiş sürüm
+
+
+Nef, Toronto Üniversitesi, 2008
+
+
+Telif Hakkı (C) 2008 Marie Lebert
+
+
+
+-----
+
+1971'de Gutenberg Projesi'nden 2007'de Yaşam Ansiklopedisine, 38
+Kilometre taşları ve çok sayıda sayfa, genel bir bakış ve derinlemesine
+Her kilometre taşı için açıklama. Bu kitap Fransızca olarak da mevcuttur,
+farklı bir metinle. Her iki versiyon da NEF'de mevcuttur
+<http://www.etudes-srancaises.net/dossiers/technologies.htm>.
+
+-----
+
+Marie Lebert, teknolojide uzmanlaşmış bir araştırmacı ve gazetecidir
+ve kitaplar, diğer medya ve diller. LES'in yazarı
+Mutasyonlar du Livre (Kitabın Mutasyonları, Fransızca, 2007) ve LE
+Livre 010101 (010101 Kitabı, Fransızca, 2003). Tüm kitapları var
+Nef tarafından yayınlandı (Net des etudes francaises / net of fransız
+Çalışmalar), Toronto Üniversitesi, Kanada ve serbestçe mevcut
+Çevrimiçi <http://www.etudes-francaises.net> adresinde.
+
+-----
+
+Çoğu alıntı NEF görüşmelerinden alıntılardır. Çok teşekkürler
+Burada alıntı yapan ve nazikçe cevaplayan tüm kişiler
+yıllar boyunca sorular. Röportajların çoğu çevrimiçi olarak mevcuttur.
+<www.etudes-srancaises.net/entenretiens/index.htm>.
+
+----
+
+Greg Chamberlain, Laurie Chamberlain, Kimberly'ye çok teşekkürler
+Nazikçe düzenleyen Chung, Mike Cook, Michael Hart ve Russon Wooldridge
+ve/veya önceki sürümlerdeki bazı parçaları kanıtlayın. Yazar, kim
+Ana dil Fransızca, kalan hatalardan sorumludur.
+
+----
+
+
+
+MASA
+
+giriiş
+
+  1968: ASCII
+  1971: Proje Gutenberg
+  1974: İnternet
+  1977: unimarc
+  1984: Copyleft
+  1990: Web
+  1991: Unicode
+  1993: Çevrimiçi Kitaplar Sayfası
+  1993: PDF
+  1994: Kütüphane web siteleri
+  1994: Bold Publishers
+  1995: Amazon.com
+  1995: Çevrimiçi Basın
+  1996: Palm Pilotu
+  1996: İnternet Arşivi
+  1996: Yeni Öğretim Yolları
+  1997: Dijital Yayıncılık
+  1997: Logolar Sözlüğü
+  1997: Multimedya yakınsama
+  1998: Çevrimiçi Beowulf
+  1998: Dijital Kütüphaneciler
+  1998: Çok dilli web
+  1999: E -kitap formatını açık
+  1999: Dijital yazarlar
+  2000: YourDictionary.com
+  2000: Gutenberg'in çevrimiçi İncil'i
+  2000: Dağıtılmış Düzeltmeler
+  2000: Halk Bilim Kütüphanesi
+  2001: Wikipedia
+  2001: Creative Commons
+  2002: MIT OpenCourseware
+  2004: Proje Gutenberg Avrupa
+  2004: Google Books
+  2005: Açık İçerik İttifakı
+  2006: Microsoft Live Arama Kitapları
+  2006: Ücretsiz Worldcat
+  2007: Vatandaş
+  2007: Yaşam Ansiklopedisi
+
+Web siteleri
+
+
+
+GİRİİŞ
+
+1971'de Gutenberg Projesi'ni kuran Michael Hart şöyle yazdı: "Biz
+Kağıtla gerçek bir ilişkisi olmayan yeni bir ortam olarak ETTT'yi düşünün,
+Aynı malzemeyi sunmaktan başka, ancak kağıdın nasıl yapabileceğini görmüyorum
+muhtemelen insanlar kendi rahat yollarını bulduktan sonra rekabet eder
+Etexts, özellikle okullarda. "(Bir NEF röportajından alıntı, Ağustos
+1998)
+
+1989-90 yıllarında web'i icat eden Tim Berners-Lee şöyle yazdı: "The Dream
+Web'in arkasında iletişim kurduğumuz ortak bir bilgi alanına sahip
+bilgi paylaşarak. Evrenselliği önemlidir: gerçeği
+Köprü metin bağlantısı, kişisel, yerel veya küresel olsun, her şeye işaret edebilir,
+Taslak ister çok parlak olsun. Rüyanın ikinci bir kısmı vardı,
+Ayrıca, web'e bağlı olarak, genel olarak kullanılmış ki,
+gerçekçi ayna (veya aslında birincil düzenleme)
+ki çalışıyor, oynuyoruz ve sosyalleşiyoruz. Bir zamanlar durumdu
+Etkileşimlerimiz çizgideydi, daha sonra bize yardımcı olmak için bilgisayarları kullanabiliriz
+Analiz et, ne yaptığımızı anlayın, bireysel olarak uyduğumuz yere
+içinde ve birlikte nasıl daha iyi çalışabiliriz. "(Alıntı: Dünya çapında
+Web: Çok kısa bir kişisel geçmiş, Mayıs 1998)
+
+1993 yılında çevrimiçi kitaplar sayfasını oluşturan John Mark Ockerbloom şunları yazdı:
+"Ağın sahip olduğu büyük potansiyele çok ilgi duydum
+Edebiyatı geniş bir kitleye sunmak. (...) Çok heyecanlıyım
+İnternetin bir kitle iletişim aracı olarak potansiyeli hakkında
+Önümüzdeki yıllar. Ayrıca dahil olmak istiyorum, şu ya da bu şekilde,
+Kitapları, net aracılığıyla ücretsiz olarak geniş bir kitleye sunarken,
+bunu açıkça profesyonel kariyerimin bir parçası olsun ya da
+Sadece boş zaman gönüllü olarak yapsam da. "(Bir NEF'den alıntı
+röportaj, Eylül 1998)
+
+İşte takip edeceğimiz yolculuk:
+
+  1968: ASCII 7 bit kodlu bir karakter setidir.
+  1971: Project Gutenberg ilk dijital kütüphane.
+  1974: İnternet kalkıyor.
+  1977: Unimarc ortak bir bibliyografik format olarak kuruldu.
+  1984: Copyleft bilgisayar yazılımı için yeni bir lisans.
+  1990: Web kalkıyor.
+  1991: Unicode evrensel bir çift bayt karakter setidir.
+  1993: Çevrimiçi Kitaplar sayfası ücretsiz e -kitapların bir listesidir.
+  1993: PDF formatı Adobe tarafından başlatıldı.
+  1994: İlk kütüphane web sitesi çevrimiçi oluyor.
+  1994: Yayıncılar kitaplarının bir kısmını ücretsiz olarak çevrimiçi olarak koydular.
+  1995: Amazon.com ilk ana çevrimiçi kitapçı.
+  1995: Ana akım basın çevrimiçi oluyor.
+  1996: Palm pilotu ilk PDA'dır.
+  1996: İnternet arşivi web'i arşivlemek için kuruldu.
+  1996: Öğretmenler yeni öğretim yollarını keşfediyorlar.
+  1997: Çevrimiçi yayıncılık yayılmaya başlar.
+  1997: Logos sözlüğü ücretsiz olarak çevrimiçi oluyor.
+  1997: Multimedya yakınsama, uluslararası bir
+        Sempozyum.
+  1998: Beowulf gibi kütüphane hazineleri çevrimiçi oluyor.
+  1999: Kütüphaneciler web yöneticileri olur.
+  1998: Web çok dilli hale geliyor.
+  1999: Açık e -kitap biçimi e -kitaplar için bir standarttır.
+  1999: Yazarlar dijitalleşiyor.
+  2000: YourDictionary.com bir dil portalıdır.
+  2000: Gutenberg İncil'i çevrimiçi oluyor.
+  2000: Dağıtılmış düzeltme okuyucuları kitapları kamusal alandan dijitalleştirir.
+  2000: Halk Bilim Kütüphanesi (PLOS) ücretsiz çevrimiçi çalışıyor
+        Dergiler.
+  2001: Wikipedia ilk ana çevrimiçi kooperatif ansiklopedisidir.
+  2001: Creative Commons, yazarların haklarına saygı göstermenin yeni yolları üzerinde çalışıyor
+        Web.
+  2003: MIT kurs materyallerini OpenCourseware'de ücretsiz olarak sunar.
+  2004: Project Gutenberg Europe çok dilli bir proje olarak başlatıldı.
+  2004: Google, Google Books'u yeniden adlandırmak için Google Print'i başlattı.
+  2005: Açık İçerik İttifakı (OCA) bir dünya genel dijitalini başlattı
+        kütüphane.
+  2006: Microsoft, canlı arama kitaplarını kendi dijital kütüphanesi olarak başlattı.
+  2006: Birlik kataloğu Worldcat ücretsiz olarak çevrimiçi gidiyor.
+  2007: Vatandaş, ana çevrimiçi "güvenilir" kooperatif ansiklopedisidir.
+  2007: Yaşam ansiklopedisi, tüm hayvan türlerini belgeleyecek ve
+        bitkiler.
+
+[Aksi belirtilmedikçe, tüm alıntılar NEF'den alıntılardır
+röportajlar. Bu röportajlar çevrimiçi olarak mevcuttur.
+<http://www.etudes-hrancaises.net>.]
+
+
+
+1968: ASCII
+
+
+[Genel bakış]
+
+Hesaplamanın başlangıcından beri kullanılan ASCII (Amerikan Standart Kodu
+bilgi değişimi için), 7 bit kodlu bir karakterdir.
+İngilizce bilgi değişimi. 1968'de ANSI tarafından yayınlandı
+(Amerikan Ulusal Standartlar Enstitüsü), 1977'de bir güncelleme ile ve
+1986. Düz vanilya ascii olarak da adlandırılan 7 bit düz ascii bir set
+95 yazdırılabilir aksansız karaktere sahip 128 karakterden (A-Z, A-Z,
+sayılar, noktalama işaretleri ve temel semboller), yani olanlar
+İngiliz/Amerikan klavyesinde mevcuttur. Düz vanilya ascii olabilir
+herhangi bir basit metin düzenleyicisi veya kelime tarafından okun, yazılmış, kopyalanmış ve basılmış
+işlemci. Tüm donanımın% 99'uyla uyumlu olan tek formattır
+ve yazılım. Olduğu gibi kullanılabilir veya birçok kişide sürümler oluşturmak için
+diğer formatlar. ASCII'nin uzantıları (ISO-8859 veya ISO-Latin olarak da adlandırılır)
+içinde bulunan aksanlı karakterleri içeren 256 karakterlik setlerdir.
+Fransızca, İspanyolca ve Almanca, örneğin ISO 8859-1 (Latin-1)
+Fransızca.
+
+
+[Derinlemesine (2005'te yayınlanmıştır)]
+
+Yıllar önce veya şimdi sayısallaştırılmıştır, tüm proje Gutenberg kitapları
+Düz vanilya ascii adı verilen 7 bit düz ascii'de oluşturuldu. 8 bit ne zaman
+ASCII (ISO-8859 veya ISO-Latin olarak da adlandırılır) kitaplarla birlikte kullanılır.
+Fransızca veya Almanca gibi aksanlı karakterler, Project Gutenberg
+aksanlar çıkarılacak 7 bitlik bir ASCII sürümü üretir. (Bu değil
+Çince gibi ASCII'de "dönüştürülemez" olmayan diller için başvurun,
+Big-5'te kodlanmıştır.)
+
+Project Gutenberg sade vanilya ascii'yi en iyi format olarak görüyor.
+"En düşük ortak payda" dır. Okunabilir, yazılabilir, kopyalanabilir
+ve herhangi bir basit metin düzenleyicisi veya kelime işlemcisi tarafından yazdırılır
+elektronik cihaz. % 99 ile uyumlu olan tek format
+donanım ve yazılım. Olduğu gibi kullanılabilir veya sürümler oluşturmak için
+Diğer birçok format. Diğer formatlar olacakken hala kullanılacak
+eski (veya zaten eski, birkaç kısa ömürlü formatlar gibi
+1999'dan beri başlatılan okuma cihazları). Bu güvence koleksiyonları
+Asla eski olmayacak ve gelecekteki teknolojik değişikliklerden kurtulacak.
+Amaç, metinleri sadece on yıllar boyunca değil, aynı zamanda korumaktır.
+yüzyıllar. ASCII olarak yaygın olarak kullanılan başka standart yok
+Şimdi, Unicode bile, evrensel bir çift bayt karakter kodlayan başlatıldı
+1991'de herhangi bir dili ve herhangi bir platformu desteklemek için.
+
+
+
+1971: Proje Gutenberg
+
+
+[Genel bakış]
+
+Temmuz 1971'de Michael Hart, Gutenberg Projesi'ni yarattı.
+Ücretsiz ve elektronik olarak, edebi eserleri ait olmak
+Kamu malı. Birkaç şekilde öncü bir site, Project Gutenberg
+İnternetteki ilk bilgi sağlayıcısıydı ve en eski
+dijital kütüphane. İnternet 1990'ların ortalarında popüler hale geldiğinde,
+Proje bir destek aldı ve uluslararası bir boyut kazandı. Numara
+elektronik kitapların 1.000'den (Ağustos 1997'de) 5.000'e (Nisan ayında
+2002), 10.000 (Ekim 2003'te), 15.000 (Ocak 2005'te), 20.000 (
+Aralık 2006) ve 25.000 (Nisan 2008'de), mevcut bir üretim
+Her ay yaklaşık 340 yeni kitap oranı. 55 dil ve 40 ile
+Dünyanın dört bir yanındaki ayna siteleri, kitaplar onlarca indiriliyor
+her gün binlerce. Proje Gutenberg, dijitalleşmeyi teşvik ediyor
+"Metin biçimi", yani bir kitap kopyalanabilir, dizine eklenebilir, aranabilir,
+analiz edildi ve diğer kitaplarla karşılaştırıldı. Diğer formatların aksine,
+Dosyalar düşük bant genişliği kullanımı için erişilebilir. Ana yeni kaynağı
+Project Gutenberg e -Kitapları, tasarlanan ve
+Ekim 2000, Charles Franks tarafından kitapların sayısallaştırılmasına yardımcı olmak için
+kamu malı.
+
+
+[Derinlemesine (2005 yılında yayınlandı, 2008'de güncellendi)]
+
+Elektronik kitap (e -kitap) şimdi 37 yaşında, bu hala kısa
+Beş buçuk yüzyılı baskı kitabına kıyasla hayat. e -kitaplar
+Temmuz 1971'de Michael Hart tarafından oluşturulan Project Gutenberg ile doğdu
+Aidiyetli kitapların ücretsiz elektronik versiyonları için kullanılabilir
+Kamu malı. Birkaç şekilde öncü bir site, Project Gutenberg
+bir embriyonik internette ilk bilgi sağlayıcısıydı ve
+En eski dijital kütüphane. Uzun zamandır eleştirmenleri tarafından imkansız olarak düşünülür
+Büyük ölçekli, Project Gutenberg'in Nisan 2008'de 25.000 kitabı vardı.
+Günde on binlerce indirme. Bugüne kadar kimse bir
+Dünyanın literatürünü herkesin emrine koymanın daha iyi işleri,
+dünyanın her yerinden geniş bir gönüllü ağı oluştururken
+insanların becerilerini veya enerjisini boşa harcamak.
+
+İlk yirmi yıl boyunca, Michael Hart'ın kendisi ilk kez anahtarladı
+Başkalarının ara sıra yardımıyla yüz kitap. İnternet ne zaman
+popüler oldu, 1990'ların ortalarında proje bir destek aldı ve
+Uluslararası Boyut. Michael hala kitaplarda yazdı ve tarandı, ancak
+Şimdi düzinelerce ve sonra yüzlerce gönüllünün çalışmasını koordine etti
+birçok ülkede. Elektronik kitap sayısı 1.000'den yükseldi
+(Ağustos 1997'de) ila 2.000 (Mayıs 1999'da), 3.000 (Aralık 2000'de) ve
+4.000 (Ekim 2001'de).
+
+Doğumundan 37 yıl sonra Proje Gutenberg tam olarak çalışıyor
+kapasite. Nisan 2002'de çevrimiçi 5.000 kitap vardı, 10.000 kitap
+Ekim 2003, Ocak 2005'te 15.000 kitap, Aralık ayında 20.000 kitap
+2006 ve Nisan 2008'de 25.000 kitap, 340 yeni kitap mevcut
+Ay, dünya çapında 40 ayna sitesi ve tarafından indirilen kitaplarla
+Her gün on binlerce.
+
+30 yıl önce sayısallaştırılmış ya da şimdi sayısallaştırılmış olsalar da, tüm
+Kitaplar düz vanilya ascii (orijinal 7 bit ascii),
+Aynı biçimlendirme kurallarıyla, böylece herhangi biri tarafından kolayca okunabilirler
+PDA, bir cep telefonu da dahil olmak üzere makine, işletim sistemi veya yazılım
+veya bir e -kitap okuyucu. Herhangi bir kişi veya kuruluş dönüştürmekte özgürdür
+saygı dışında herhangi bir kısıtlama olmaksızın farklı formatlara göre
+İlgili ülkedeki telif hakkı yasaları.
+
+Ocak 2004'te Gutenberg Projesi Atlantik'e yayılmıştı.
+Gutenberg Avrupa Projesi'nin yaratılması. Orijinalinin üstünde
+Misyon, aynı zamanda diller ve kültürler arasında bir köprü haline geldi,
+Ulusal ve dilsel bölümlerin sayısı. Aynı şeye bağlı kalırken
+İlke: Herkes için ve ücretsiz olarak kitap, elektronik versiyonlar aracılığıyla
+süresiz olarak kullanılabilir ve çoğaltılabilir. Ve ikinci bir adım olarak
+Aynı ruhla görüntülerin ve sesin sayısallaştırılması.
+
+
+
+1974: İnternet
+
+
+[Genel bakış]
+
+Proje Gutenberg Temmuz 1971'de başladığında, internet bile değildi
+doğmak. 4 Temmuz 1971'de Bağımsızlık Günü'nde, Michael United'da Keyed
+Devlet Bağımsızlık Bildirgesi (4 Temmuz 1776'da imzalanmıştır)
+Kullanıyordu. Büyük harfle, çünkü daha düşük harf yoktu
+henüz. Ancak Embriyonik İnternet'in 100 kullanıcısına 5K dosya göndermek için
+Ağı çökertirdi. Böylece Michael, etex'in nerede olduğunu söyledi
+depolandı (hipermetin bağlantısı olmadan olsa da, web hala
+20 yıl önce). Altı kullanıcı tarafından indirildi. İnternet doğdu
+1974'te TCP /IP (İletim Kontrol Protokolü /
+İnternet Protokolü) Vinton Cerf ve Bob Kahn. Yayılmaya başladı
+1983. 1990'da Web'in icadı ile bir destek aldı ve
+1993'teki ilk tarayıcı. 1997'nin sonunda 90 ila 100 milyon vardı
+Her ay bir milyon yeni kullanıcı ile kullanıcılar. 2000 sonunda,
+300 milyondan fazla kullanıcı vardı.
+
+
+
+1977: unimarc
+
+
+[Genel bakış]
+
+1977'de IFLA (Uluslararası Kütüphane Dernekleri Federasyonu)
+Unimarc: Universal Marc Formatının ilk baskısını yayınladı, takip etti
+1980'de ikinci bir baskı ve 1983'te bir unimarc el kitabı. Unimarc
+(Universal Machine okunabilir kataloglama) yaygın bir bibliyografik
+Mevcut 20 ulusal için bir çözüm olarak kütüphane katalogları için format
+MARC (makine okunabilir kataloglama) biçimleri, bu
+Bibliyografik kayıtlar olduğunda uyumluluk ve kapsamlı düzenleme
+değiş tokuş edildi. Unimarc ile katalogcular kayıtları işleyebilir
+herhangi bir MARC formatında oluşturuldu. Bir Marc formatındaki kayıtlar önce
+Unimarc'a dönüştürülür ve daha sonra başka bir MARC formatına dönüştürülür.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+O zaman, çevrimiçi katalogların geleceği ile bağlantılıydı.
+MARC formatının uyumlaştırılması. 1970'lerin başında kurulan Marc bir
+Makine okunabilir kataloğu için kısaltma. Bu kısaltma daha çok
+Marc'ın ne tür bir katalog ne de bir yöntemi olduğu gibi yanıltıcı
+kataloglama. UniMarc'a göre: bir giriş, bir belge
+Evrensel Bibliyografik Kontrol ve Uluslararası Marc Core Programı,
+Marc "her parçaya etiket atamak için kısa ve kullanışlı bir terimdir
+bir katalog kaydının bilgisayarlar tarafından işlenebilmesi için. İken
+Marc formatı öncelikle kütüphanelerin ihtiyaçlarını karşılamak için tasarlanmıştır,
+Konsept o zamandan beri daha geniş bilgi topluluğu tarafından bir
+Bibliyografik verileri depolamanın ve değiştirmenin uygun yolu. "
+
+Marc Marc II geldi. II. Marc takip edilecek kurallar kurdu
+yıllar boyunca sürekli olarak. MARC iletişim formatı
+"her türlü kütüphane materyali için misafirperver olun; yeterince esnek
+Katalog üretimine ek olarak çeşitli uygulamalar için; Ve
+çeşitli otomatik sistemlerde kullanılabilir. "
+
+Ancak yıllar içinde işbirliği çabalarına rağmen, çeşitli versiyonlar
+Marc ortaya çıktı, ör. Yolları Ukmarc, Intermarc ve Usmarc
+farklı ulusal kataloglama uygulamaları nedeniyle ayrıldı ve
+gereksinimler. 20'den fazla Marc formatından oluşan geniş bir ailemiz vardı.
+Veri içeriğindeki farklılıklar, bazı kapsamlı düzenlemelerin gerekli olduğu anlamına geliyordu
+Kayıtlar değiştirilmeden önce.
+
+Uyumsuz verilerin bir çözümü uluslararası bir MARC oluşturmaktı
+herhangi birinde oluşturulan kayıtları kabul edecek format - unimarc olarak adlandırılır -
+Marc Biçimi. Bir Marc formatındaki kayıtlar önce dönüştürülür
+Unimarc ve sonra başka bir MARC formatına dönüştürülebilir, böylece her biri
+Ulusal bibliyografik ajansın sadece iki tane yazması gerekir
+Programlar - biri unimarc'a dönüşecek ve diğeri
+Unimarc - dönüşüm için yirmi program yazmak yerine
+Her MARC formatından (örn.
+
+1977'de IFLA (Uluslararası Kütüphane Dernekleri Federasyonu ve
+Kurumlar) yayınlandı Unimarc: Universal MARC formatı, ardından bir
+1980'de ikinci baskı ve 1983'te bir unimarc el kitabı.
+Yayınlar öncelikle monografların kataloglanmasına odaklandı ve
+Serials, uluslararası çabaları dikkate alırken
+ISBD'lerde yansıtılan bibliyografik bilgilerin standardizasyonu
+(Uluslararası standart bibliyografik açıklamalar).
+
+1980'lerin ortalarında, UNIMARC dışındaki belgeleri kapsayacak şekilde genişledi.
+monograflar ve diziler. 1987'de yeni bir unimarc kılavuzu üretildi.
+Unimarc'ın güncellenmiş bir açıklaması. Bu zamana kadar unimarc olmuştu
+Birkaç bibliyografik ajans tarafından şirket içi formatı olarak kabul edildi.
+
+Gelişmeler burada bitmedi. Yetkililer için bir standart
+1998'de IFLA'nın web sitesinde açıklandığı gibi 1991 yılında kuruldu:
+"Önceden ajanslar bir yazarın adına girmişti.
+İlişkili belgeler olduğu kadar bibliyografik format
+onunla. Yeni sistemle tek bir şey yarattılar
+Yetkililerdeki adın yetkili biçimi (referanslarla)
+dosya; Bu adın kayıt kontrol numarası tek öğeydi
+bibliyografik dosyaya dahildir. Kullanıcı hala adı görür
+Ancak bibliyografik kayıtta, bilgisayar ithal edebilir
+Yetkililerden uygun bir zamanda. 1991'de
+Unimarc/yetkililer yayınlandı. "
+
+1991'de düzenli olarak kalıcı bir unimarc komitesi de oluşturuldu.
+Unimarc gelişimini izleyin. Kullanıcılar sürekli olduğunu fark ettiler
+Bakım - ve sadece beraberinlerin yeniden yazılması değil -
+Tüm değişikliklerin zaten olanla uyumlu olduğundan emin olmak için gerekli
+var.
+
+İngiliz Kütüphanesi olarak UNIMARC'yi benimsemenin yanı sıra
+(UKMARC kullanarak), Kongre Kütüphanesi (USMARC kullanarak) ve ulusal
+Kanada Kütüphanesi (CAN/MARC kullanarak) ulusallarını uyumlu hale getirmeye çalıştı
+Marc formatları. Ortak bir MARC formatı elde etmek için üç yıllık bir program
+Aralık 1995'te üç kütüphane tarafından kabul edildi.
+
+Diğer kütüphaneler SGML'yi kullanmaya başladı (standart genelleştirilmiş işaretleme dili)
+hem bibliyografik kayıtlar hem de
+Onlarla bağlantılı hipermetsel ve multimedya belgeleri. En çok
+Yayıncılar SGML'yi kitap kayıtları, kütüphaneciler ve yayıncılar için kullanıyorlardı
+Marc ve SGML arasında bir yakınsama üzerinde çalışmaya başladı. Kütüphanesi
+Kongre bir DTD üzerinde çalıştı (belge türünün tanımı, tanımlayan
+USMARC formatı için mantıksal yapısı). Unimarc için bir DTD
+Format Avrupa Birliği tarafından geliştirilmiştir. Bazı Avrupa kütüphaneleri
+Bibliyografik verilerini kodlamak için SGML'yi seçin. Belçika Birliği'nde
+Katalog, örneğin, SGML kullanımının açıklayıcı eklemesine izin verilen
+ve yıllık bir CD-ROM üretimini kolaylaştırmak. 1984: Copyleft
+
+
+[Genel bakış]
+
+"Copyleft" terimi 1984 yılında Richard Stallman tarafından icat edildi.
+MIT'de Bilgisayar Bilimcisi (Massachusetts Teknoloji Enstitüsü).
+"Copyleft, bir program veya başka bir iş yapmak için genel bir yöntemdir,
+ve programın tüm değiştirilmiş ve genişletilmiş sürümlerinin olmasını istemek
+Ücretsiz de. (...) Copyleft,
+Değişiklik olsun veya olmayan yazılım, özgürlüğü geçmelidir.
+daha fazla kopyalayın ve değiştirin. Copyleft, her kullanıcının sahip olduğunu garanti eder
+özgürlük. (...) Copyleft, telif hakkını kullanmanın bir yoludur.
+Program. Bu telif hakkını terk etmek anlamına gelmez; Aslında bunu yapmak
+Copyleft'i imkansız hale getirecekti. 'Copyleft' içindeki 'sol' kelimesi bir
+'ayrılmak için' fiil için referans - sadece
+'doğru' ters. (...) GNU Ücretsiz Dokümantasyon Lisansı (FDL)
+Bir kılavuzda, ders kitabında veya başka bir konuda kullanılmak üzere tasarlanmış Copyleft biçimi
+herkese kopyalama özgürlüğünü sağlamak için belge ve
+Ticari olarak veya modifikasyonlarla veya değiştirmeden yeniden dağıtın
+ticari olarak değil. "(GNU web sitesinden alıntı)
+
+
+
+1990: Web
+
+
+[Genel bakış]
+
+İnternet, web'in icadı ile ilk desteğini aldı ve
+CERN'de Tim Berners-Lee'nin Köprüsü (Partikül için Avrupa Laboratuvarı
+Fizik) 1990'da ve birincinin icadı ile ikinci bir destek
+1993 yılında tarayıcı mozaik. İnternet artık herkes tarafından kullanılabilir ve
+Sadece bilgisayar okuryazar insanlar tarafından değil. 100 milyon internet vardı
+Aralık 1997'de kullanıcılar ayda bir milyon yeni kullanıcı ve 300
+Aralık 2000'de milyon İnternet kullanıcısı. 2000 yazında
+Enslish konuşmayan kullanıcılar İngilizce konuşan sayısına ulaştı
+50-50 yüzdesi ile kullanıcılar. Netcraft'a göre, bir internet
+Hizmetler Şirketi, web sitesi sayısı bir milyondan (Nisan
+1997) 10 milyona (Şubat 2000), 20 milyon (Eylül 2000), 30
+Milyon (Temmuz 2001), 40 milyon (Nisan 2003), 50 milyon (Mayıs 2004), 60
+Milyon (Mart 2005), 70 milyon (Ağustos 2005), 80 milyon (Nisan
+2006), 90 milyon (Ağustos 2006) ve 100 milyon (Kasım 2006).
+
+
+[Derinlemesine (1999'da yayınlandı, 2008'de güncellendi)]
+
+World Wide Web - Web veya Web haline gelen - Tim tarafından icat edildi
+1989-90'da Berners-Lee. 1998'de şöyle dedi: "Web'in arkasındaki rüya
+paylaşarak iletişim kurduğumuz ortak bir bilgi alanına sahiptir
+bilgi. Evrenselliği esastır: bir hipermetin
+Bağlantı, kişisel, yerel veya küresel olsun, her şeye işaret edebilir
+taslak veya son derece cilalı. Rüyanın ikinci bir kısmı da vardı,
+Web'e bağlı olarak, genel olarak kullanılmış olacak şekilde kullanılır
+Çalışma yollarının aynası (veya aslında birincil düzenleme)
+ve oyna ve sosyalleş. Bir zamanlar bizim durumuydu
+Etkileşimler sıradaydı, daha sonra bize yardımcı olmak için bilgisayarları kullanabiliriz
+Analiz et, ne yaptığımızı anlayın, bireysel olarak uyduğumuz yere
+içinde ve birlikte nasıl daha iyi çalışabiliriz. "(Alıntı: Dünya çapında
+Web: Çok kısa bir kişisel geçmiş, Mayıs 1998.)
+
+Christiane Jadelot, Inalf-Nancy'de araştırmacı (Inalf: National
+Fransız Dili Enstitüsü) şunları yazdı: "Gerçekten kullanmaya başladım
+1994 yılında İnternet, Mosaic adlı bir tarayıcı ile. Çok buldum
+Bilgisayarlar, dilbilim bilgimi geliştirmenin yararlı yolu,
+Edebiyat ... her şey. En iyisini ve en kötüsünü buluyordum, ama
+Seçmeli bir kullanıcı, hepsini çözmek ve seçimler yapmak zorunda kaldım. BEN
+Özellikle e-posta, dosya transferleri ve çevirmeli yazılımları beğendim
+bağlantılar. O zaman bir programda sorun yaşadım
+Kullanamadığım paradoks ve karakter setleri. Şansımı denedim ve
+Uzman bir haber grubuna bir soru attı. Hepsinden cevap aldım
+dünyanın üzerinde. Herkes sorunumu çözmek istiyor gibiydi! "(Temmuz
+1998)
+
+W3C (World Wide Web Konsorsiyumu) ​​Ekim 1994'te kuruldu.
+Birlikte çalışabilir teknolojiler geliştirin (özellikler, yönergeler,
+yazılım ve araçlar) Web için, bilgi, ticaret forumu olarak,
+iletişim ve kolektif anlayış. W3C ortak geliştirir
+Web'in evrimine öncülük edecek protokoller, örneğin
+HTML (Hipermetin İşaretleme Dili) ve XML (genişletilebilir
+İşaretleme dili). HTML, web'de hipermetin yayınlamak için kullanılır. XML
+başlangıçta büyük ölçekli elektronik için bir araç olarak tasarlandı
+Yayıncılık. Şimdi değişimde giderek daha önemli bir rol oynuyor
+Web ve başka yerlerde çok çeşitli veriler.
+
+Ağ izleme firması Netcraft'a göre, 100 milyon vardı
+1 Kasım 2006'da web siteleri. Anketteki önceki kilometre taşları
+Nisan 1997'de ulaşıldı (1 milyon site), Şubat 2000 (10 milyon),
+Eylül 2000 (20 milyon), Temmuz 2001 (30 milyon), Nisan 2003 (40
+Milyon), Mayıs 2004 (50 milyon), Mart 2005 (60 milyon), Ağustos 2005
+(70 milyon), Nisan 2006 (80 milyon) ve Ağustos 2006 (90 milyon).
+
+
+
+1991: Unicode
+
+
+[Genel bakış]
+
+İlk olarak Ocak 1991'de yayınlanan Unicode evrensel karakter
+Unicode konsorsiyumu tarafından korunan kodlama. "Unicode bir
+Her karakter için benzersiz sayı, platform ne olursa olsun, hayır
+Program ne olursa olsun, dil ne olursa olsun. "(
+web sitesi) bu çift bayt platformdan bağımsız kodlama bir
+herhangi birdeki metin verilerinin işlenmesi, depolanması ve değişimi için temeli
+dil ve herhangi bir modern yazılım ve bilgi teknolojisi protokolleri.
+Unicode, W3C'nin (World Wide Web Konsorsiyumu) ​​bir bileşenidir.
+özellikler.
+
+
+
+1993: Çevrimiçi Kitaplar Sayfası
+
+
+[Genel bakış]
+
+1993 yılında John Mark Ockerbloom tarafından öğrenci
+Carnegie Mellon Üniversitesi, Online Kitaplar Sayfası "
+İnternet üzerinden serbestçe okunabilen kitaplara erişimi kolaylaştırır.
+Ayrıca, bu tür çevrimiçi kitapların geliştirilmesini teşvik etmeyi amaçlamaktadır.
+herkesin yarar ve düzenlenmesi. "(Web sitesinden alıntı) John
+Ockkerbloom bu sayfayı ilk olarak okulun web sitesinde tuttu.
+Carnegie Mellon Üniversitesi Bilgisayar Bilimi. 1999'da onu taşıdı
+Pennsylvania Üniversitesi Kütüphanesi'nde mevcut konumu, nerede
+Dijital kütüphane planlayıcısı ve araştırmacıdır. Çevrimiçi Kitaplar Sayfası
+1999'da 12.000 kitap listeledi, 2003'te 20.000 kitap (4.000 dahil olmak üzere
+Kadınlar tarafından yayınlanan kitaplar), 2006'da 25.000 kitap ve 30.000 kitap
+2007.
+dünyadaki çok çeşitli bireyler ve gruplar "
+Project Gutenberg'den 7.000 kitap. SSS ayrıca telif hakkını da listeler
+Dünyadaki çoğu ülke hakkında daha ileri bağlantılarla ilgili bilgiler
+okuma.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+John Mark Ockerbloom ilk olarak okulun web sitesini başlattı.
+Carnegie Mellon Üniversitesi (CMU CS) Bilgisayar Bilimi ve başladı
+Çevrimiçi Kitaplar sayfasını tutma. Web alanı ve bilgi işlem
+Kaynaklar Bilgisayar Bilimi Okulu tarafından sağlandı.
+
+Eylül 1998'de e -posta ile röportaj yapan John şöyle yazdı: "Ben orijinalim
+Webmaster burada CMU CS'de ve 1993 yılında yerel web'imizi başlattı.
+Web, yerel olarak geliştirilen çeşitli kaynaklara işaret eden sayfalar dahil ve
+Başlangıçta Çevrimiçi Kitaplar sayfası bu sayfalardan sadece biriydi,
+bazı insanlar tarafından çevrimiçi olarak yapılan bazı kitaplara işaretçi içeren
+Departmanımız. (Robert Stockton, bazılarının web sürümlerini yapmıştı
+Project Gutenberg'in Metinleri.)
+
+Bir süre sonra insanlar başka sitelerde kitaplar sormaya başladı ve ben
+Birkaç sitenin (sadece gutenberg değil, aynı zamanda telekte
+ve diğer bazı yerler) çevrimiçi kitaplar vardı ve bunun yararlı olacağını
+Hepsinin bir listesine sahip olun, böylece tek bir yere gidebilirsiniz.
+Net'in her yerinden kitapları indirin veya görüntüleyin. Demek dizin böyle
+başladı. Sonunda 1996'da web yöneticisi işinden vazgeçtim, ancak çevrimiçi tuttum
+Kitaplar Sayfası, o zamandan beri harika ile çok ilgilenirdim
+Net'in edebiyatı geniş bir şekilde kullanılabilir hale getirme potansiyeli
+kitle. Bu noktada, çevrimiçi olacak çok fazla kitap var.
+ayak uydurmakta zorlanıyorlar (ve aslında büyük bir kitap birikintisi var
+listelemek için). Ama umarım çevrimiçi kitaplarımı bir şekilde devam ettirmeyi umuyorum veya
+bir diğer.
+
+İnternetin kitle olarak potansiyeli konusunda çok heyecanlıyım
+Önümüzdeki yıllarda iletişim ortamı. Ayrıca kalmak isterim
+kitapları geniş bir şekilde kullanılabilir hale getirmeye dahil olmak
+Bu açıkça bir parçası olsun, net üzerinden ücretsiz izleyici
+Profesyonel kariyerim veya sadece boş zaman olarak yapıp yapmadığım
+gönüllü."
+
+1998'de çevrimiçi kitaplar sayfası 7.000'den fazla kitap listeledi.
+yazar tarafından, başlık veya konu ile göz atabilir. Ayrıca listelendi
+Önemli dizinler ve çevrimiçi metinlerin arşivleri ve özel
+sergiler. Ana arama sayfasından, kullanıcılar dört türü arayabilir
+Medya: Kitaplar, müzik, sanat ve video.
+
+Çevrimiçi kitaplar sayfası dizileri listelemeye başladı. Web sitesinde belirtildiği gibi:
+"Kitaplarla birlikte, çevrimiçi kitaplar sayfası da şimdi ana dalları listeliyor
+Seri arşivleri (dergiler, yayınlanmış dergiler ve
+gazeteler), Haziran 1998 itibariyle. Serialler en azından önemli olabilir.
+Kütüphane araştırmalarında kitaplar. Seriler genellikle yeni yerlerdir
+Araştırma ve burs ortaya çıkıyor. Onlar ilk elden kaynaklardır
+Çağdaş olayların ve yorumların hesapları, bunlar da genellikle
+İlk (ve bazen tek) kaliteli literatürün ortaya çıktığı yer.
+(Bir
+'Kitaplar Sayfası', dizilerin geri sorunları genellikle bağlanır ve yeniden yayınlanır.
+hardbound 'kitaplar'.) "
+
+Çevrimiçi Kitaplar Sayfası, deneysel arama sistemine katıldı.
+Kongre Kütüphanesi. Aynı zamanda Universal Kütüphanesi ile de çalıştı
+Proje, Carnegie Mellon Üniversitesi'nde düzenlendi.
+
+1999 yılında, Carnegie Mellon'dan doktora derecesi ile mezun olduktan sonra. bilgisayarda
+Bilim, John dijital kütüphane planlayıcısı ve araştırmacı olarak çalışmaya başladı
+Pennsylvania Üniversitesi Kütüphanesi'nde. O da çevrimiçi hareket ettirdi
+Kitaplar sayfası orada ve genişletmeye devam etti.
+
+
+
+1993: PDF
+
+
+[Genel bakış]
+
+PDF (taşınabilir belge formatı) 1992 yılında Adobe tarafından tasarlandı, başlatıldı
+Haziran 1993'te Adobe Acrobat Software ile ve 15 yılı aşkın bir süredir mükemmelleşti
+bilginin dağıtım ve görüntülenmesi için küresel standart olarak. BT
+"Herhangi bir uygulamadan sağlam bilgileri yakalamanıza ve görüntülemenize izin verir.
+Herhangi bir bilgisayar sistemi ve dünyanın dört bir yanındaki herkesle paylaşın.
+Her yerde bireyler, işletmeler ve devlet kurumları güven ve
+Fikirlerini ve vizyonlarını iletmek için Adobe PDF'ye güven. "(
+Web sitesi) Adobe Acrobat, PDF dosyaları oluşturma ve görüntüleme araçları verir
+ve birçok dilde ve birçok platformda mevcuttur (Macintosh,
+Windows, Unix, vb.). On yıl sonra 500 milyondan fazla kopya
+PDF tabanlı Adobe Reader (eski adıyla Acrobat Reader, Mayıs 2003'e kadar)
+dünya çapında indirildi. Belgelerin yaklaşık% 10'u
+İnternet PDF'de mevcuttur.
+
+
+
+1994: Kütüphane web siteleri
+
+
+[Genel bakış]
+
+İlk kütüphane web sitesi Helsinki Şehri tarafından oluşturulan web sitesiydi
+Şubat 1994'te Canlı Finlandiya'da Kütüphane. Geleneksel.
+Kütüphaneler, bir web sitesini yeni bir sanal pencere olarak kullanmaya başladı.
+patronlar ve ötesi. Kullanıcılar açılış saatlerini kontrol edebilir, göz atabilir
+Çevrimiçi katalog veya çeşitli web sitelerinde sörf
+Konuları, ihtiyaçlarına bağlı olarak. Kütüphaneler de gelişmeye başladı
+büyük bir
+uzman, eski, yerel ve
+Bölgesel koleksiyonlar. Kütüphaneciler artık kullanılan iki hedefi yerine getirebilir
+Çelişkili olmak - Kitap Koruma (Raflarda) ve Kitap
+İletişim (internette). [Derinlemesine (1999'da yayınlanmıştır)]
+
+İlk kütüphane web sitesi Helsinki Şehri tarafından oluşturulan web sitesiydi
+Şubat 1994'te Canlı Finlandiya'da Kütüphane. Birçok kütüphane
+standartlarının yanında bir dijital kütüphane geliştirmeye başladı
+Koleksiyonlar. Dijital kütüphaneler, büyük bir kitlenin erişmesine izin verdi
+uzmanlaşmış, eski, yerel veya bölgesellere ait belgelere
+Koleksiyonlar. Dijital kütüphaneleri, geleneksel kütüphaneler sayesinde
+uzun zamandır bir rüya görebilir ve eskiden iki hedefi yerine getirebilir
+Çelişkili - Kitap Koruma ve Kitap İletişimi. Üzerinde
+El, kitaplar taranmak için sadece bir kez raflarından çıkarıldı. Açık
+Öte yandan, kitaplar herhangi bir zamanda herhangi bir zamanda kolayca erişilebilir,
+ve bir bilgisayarın ekranını okuyun,
+kütüphane ve uzun bir süreçle mücadele etmek için mücadele
+Orijinal kitaplar, çeşitli nedenlerle: nadirin korunması endişesi
+ve kırılgan belgeler, açılış saatleri, doldurulacak formlar, uzun
+belgeyi almak için bekleme süresi ve personel sıkıntısı. Bütün bunlar
+Sebepler genellikle üstesinden gelmek için engellerdi ve çoğu zaman gerekli
+Araştırmacı, uygun olmayan bir sabır ve sıradan bir
+Sonunda belgeye ulaşma kararlılığı.
+
+Bazı sanal kütüphaneler sıfırdan, internette oluşturuldu
+Başından beri, geleneksel bir kütüphaneden geri dönmeden. Bu
+1994 yılında İsviçre Pierre Perroud tarafından kurulan Athena örneği miydi?
+öğretmen ve Cenevre Üniversitesi web sitesinde ağırlandı,
+İsviçre. Athena çok dilli bir dijital kütüphane olarak yaratıldı
+felsefe, bilim, klasik, edebiyat, tarih ve
+Ekonomi. Cenevre Fransızca konuşan İsviçre'de olduğu için de odaklandı
+Fransızca metinleri çevrimiçi koyarken. Helvetia bölümü belgeleri topladı
+İsviçre hakkında. Belirli bir sayfa diğerlerine bir dizi bağlantı sundu
+Dünyadaki dijital kütüphaneler.
+
+Şubat 1996 tarihli bir röportajda Pierre Perroud şunları açıkladı:
+"Elektronik metinler okumaya teşvik ve ikna edici
+Kültür yayılmasına katılım, (...) [ve] iyi bir tamamlayıcı
+Okuma için yeri doldurulamaz kalan kağıt kitabına (...). [
+Kağıt Kitap] Derinle Gizemli Kutsal Bir Arkadaş Olmaktadır
+Bizim için sembolizm: Bunu elimizde tutuyoruz,
+Bedenler, hayranlıkla bakıyoruz; Küçük boyutu bizi rahatlatıyor ve
+İçeriği bizi etkiliyor; kırılganlığı, olduğumuz bir yoğunluk içerir
+büyülenmiş; İnsan gibi su ve ateşten korkuyor, ama gücü var
+Adamın düşüncelerini zamandan sığınmak için. "(İsviçre dergisinden alıntı
+Bilgilendirme bilgileri)
+
+İnternet Halk Kütüphanesi (IPL) Mart 1995'te ilk olarak açıldı
+İnternet topluluğunun dijital halk kütüphanesi. Farklı
+Bölümler: referans, sergiler, dergiler ve diziler, gazeteler,
+Çevrimiçi metinler ve Web Arama. Genç için de bölümler vardı ve
+Gençlik. Koleksiyonların tüm öğeleri dikkatle seçildi,
+IPL personeli tarafından kataloglanmış ve tanımlanmıştır. Deneysel bir kütüphane olarak,
+IPL ayrıca kütüphaneciler tarafından yürütülen en ilginç projeleri de listeledi.
+İnternet, özellikle kütüphaneciler için.
+
+
+
+1994: Bold Publishers
+
+
+[Genel bakış]
+
+Bazı yayıncılar Web'i yeni bir pazarlama aracı olarak kullanmaya karar verdiler. İçinde
+ABD, NAP (National Academy Press) 1994 yılında ilk yayıncı oldu.
+Bazı kitapların tam metnini ücretsiz olarak yazarların rızasıyla gönderin.
+Nap'ı MIT Press (MIT: Massachusetts Enstitüsü
+Teknoloji) 1995 yılında Project Gutenberg'in kurucusu Michael Hart, yazdı
+1997'de: "Üniversite yayıncıları doğru işi bulmak için mücadele ederken
+Çevrimiçi bilimsel belgeler sunmak için model, bazı erken yenilikçiler
+bir monografiyi elektronik olarak kullanmanın arttırabileceğini buluyorlar
+Somut kopyaların satışları. "(Project Gutenberg bülteninden alıntı
+Ekim 1997)
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Web yayıncılar için bir pazarlama aracı oldu. Bazı yayıncılar karar verdi
+Bazı kitapların tam metnini web'e ücretsiz olarak,
+Yazarların rızası. Garip bir şekilde, satışlarda herhangi bir düşüş yoktu -
+Aksine, satışlar arttı. ABD'de NAP ilk yayıncıydı
+1994'te böyle bir risk al, ardından 1995'te MIT Press ve
+çalıştı.
+
+NAP (Ulusal Akademi Yayınları) Ulusal Akademisi tarafından yaratıldı.
+Kendi raporlarını ve ulusal raporlarını yayınlayacak bilimler
+Mühendislik Akademisi, Tıp Enstitüsü ve Ulusal
+Araştırma Konseyi. 1994 yılında NAP yılda 200 kitap yayınlıyordu
+Bilim, Mühendislik ve Sağlık. Sunulan yeni şekerleme okuma odası
+1.000 tüm kitap, Çeşitli formatlarda ücretsiz olarak çevrimiçi mevcut
+("görüntü" biçimi, html biçimi ve pdf biçimi).
+
+1995 yılında MIT Press (MIT: Massachusetts Teknoloji Enstitüsü)
+İlk olarak Bilim ve
+Teknoloji ve sonra mimarlık, sosyal teori, ekonomide,
+Bilişsel Bilim ve Hesaplamalı Bilim. MIT Press karar verdi
+"Uzun vadeli bir taahhüt olarak bir dizi kitap ücretsiz olarak
+Yeni teknolojilerin verimli ve yaratıcı kullanımı. "Baskının satışları
+Kitaplar arttı.
+
+Project Gutenberg'in kurucusu Michael Hart, 1997'de yazdı: "
+Üniversite yayıncıları için doğru iş modelini bulmak için mücadele ediyor
+Akademik belgeler çevrimiçi olarak, bazı erken yenilikçiler buluyor
+bir monografiyi elektronik olarak kullanmanın satışlarını artırabilir
+basılı kopyalar. Ulusal Akademi Yayınları zaten 1.700'ü koydu.
+Çevrimiçi kitaplar ve bazı kitapların elektronik versiyonlarını buluyor
+basılı kopya monograflarının satışlarını artırdınız - genellikle iki ila üç
+Önceki seviye. 'Harika reklam' diyor. Basın
+müdür. MIT Press benzer sonuçlar yaşıyor: 'her biri için
+Elektronik kitaplarımız, satışlarımızı yaklaşık olarak iki katına çıkardık. Sade
+Gerçek şu ki kimse orada oturup çevrimiçi bir kitabı okuymayacak.
+Ve indirmek için para ve zamanın maliyeti '. "(Projeden alıntı
+Ekim 1997 Gutenberg Bülteni)
+
+
+
+1995: Amazon.com
+
+
+[Genel bakış]
+
+Amazon.com, tamamen bir "öncü" çevrimiçi kitapçıydı.
+Yeni Ekonomik Model. Amazon.com, Temmuz 1995'te Jeff Bezos tarafından piyasaya sürüldü.
+Seattle'da, ABD'nin batı kıyısında, bir pazar çalışmasından sonra
+Kitapların satılacak en iyi ürünler olduğu sonucuna vardı.
+İnternet. Amazon.com başladığında, 10 çalışanı ve bir kataloğu vardı
+3 milyon kitap. Geleneksel kitapçıların aksine, Amazon.com
+Sokağa bakan pencereler ve ustaca dizilmiş kitaplar
+raflar veya ekranlar üzerine yığılmış. Sanal pencere, web sitesidir.
+İnternet üzerinden yapılan tüm işlemler. Kitaplar çok büyük depolanıyor
+Kutulara konulmadan ve posta ile gönderilmeden önce depolama tesisleri. İçinde
+Kasım 2000, Amazon.com'un 7.500 çalışanı vardı, 28 milyon katalog
+Ürünler, dünya çapında 23 milyon müşteri ve İngiltere'de dört bağlı ortaklık (
+Ağustos 1998), Almanya'da (Ağustos 1998'de), Fransa'da (Ağustos 2000) ve
+Japonya'da (Ekim 2000). Haziran ayında Kanada'da açılan beşinci bir yan kuruluş
+2002. Joyo adlı altıncı bir yan kuruluş, Eylül ayında Çin'de açıldı
+2004.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Jeff Bezos, Temmuz 1995'te Amazon.com'u piyasaya sürdü, bir pazar çalışmasından sonra
+Kitapların satılacak en iyi ürünler olduğu sonucuna vardı.
+İnternet.
+
+1994 ilkbaharında, satılabilecek yirmi ürün listesi çizdi
+Çevrimiçi, kıyafetlerden bahçe araçlarına kadar değişen ve daha sonra araştırıldı
+CD'ler, videolar, bilgisayar donanımı, bilgisayar olan ilk beş
+Yazılım ve kitaplar.
+
+"Her birinin potansiyelini değerlendirmek için bir sürü kriter kullandım
+ürün, ancak ana kriterler arasında akrabanın boyutu vardı
+Piyasalar. Buldum kitaplar dünya çapında 82 milyar dolarlık bir pazardı. .
+Fiyat noktası başka bir önemli kriterdi: Düşük fiyatlı bir ürün istedim.
+Bu, birçok insanın ilk satın alma olduğu için
+Çevrimiçi olun, tehdit edici olmayan boyutta olması gerekiyordu. Üçüncü bir kriter
+Seçim aralığı mıydı: kitapta 3 milyon ürün vardı
+Örneğin, CD'lerdeki kategori ve sadece onda biri. Bu
+Önemli çünkü seçim o kadar geniş olursa, o kadar fazla organizasyon ve
+Bilgisayarın seçim yetenekleri iyi kullanılabilir. "
+(Amazon.com Press Kitinden alıntı)
+
+1998'de Amazon.com 3 milyon kitap, CD, sesli kitap sunuyordu,
+DVD'ler, Bilgisayar Oyunları - Büyükden 14 kattan fazla başlık
+Zincir Superstores - 160 ülkede 3 milyon kişiye. "İşletmeler
+Web'de başka bir şekilde yapılamayan şeyler yapabilir ",
+Jeff Bezos yazdı. "İnsanların kitap ve müzik satın alma şeklini değiştiriyoruz."
+Amazon.com hızla bir katalogla en büyük çevrimiçi kitapçı oldu
+Çevrimiçi sipariş edilebilecek bu 3 milyon öğeden yetkili
+İncelemeler, yazar röportajları, alıntılar, müşteri incelemeleri ve kitap
+Öneriler. İnternet perakendecisi olarak, Amazon.com daha fazlasını sunabilir
+Geleneksel perakendecilerden daha hizmetler: daha düşük fiyatlar, daha büyük seçim,
+ve çok sayıda ürün bilgisi.
+
+Herhangi bir kitap aşığı Amazon'un web sitesinde kendi kitap incelemelerini yayınlayabilir,
+ve başkalarını okuyun. Yazarlarla birçok röportaj okuyabilirdi ve
+Kitaplardan bulanıklık ve alıntı sayısı. Kitap arayabilir
+Yazar, Konu, Başlık, ISBN veya Yayın Tarihi. Fiyatlar
+İndirimli, 400.000 başlıkta% 20-40 tasarrufla (seçilen% 40
+kitaplara,% 30'lu hard içine ve ciltsiz kitaplarda% 20). Müşteri
+Kitapları genellikle bir hafta içinde aldı. Eğer isteseydi, yapabilirdi
+Bir favori yazarın veya yeni bir kitapın yeni bir kitabı duyuran bir e -posta alın
+favori bir konu hakkında rezervasyon yapın. Bazı kitap kategorilerini seçebilir (44
+listelenen), e -posta ile yeni kitapların aylık incelemesi gönderilecek. Her şey
+O zamanlar tamamen yeniydi.
+
+Şimdi ne için aldığımız, yani ABD'den Avrupa'da bir kitap satın alın
+Amazon.com sitesi veya ABD'de Almanca sitesinden bir kitap satın alın
+Amazon.de, o sırada büyük dalgalar yapıyordu, önce "haksızlık
+Yerel çevrimiçi kitapçılarla rekabet ", daha sonra vergilendirme.
+ABD ve Avrupa arasında ilk anahat anlaşması yapıldı
+Aralık 1997'de sendika ve bu anlaşmayı bir
+Uluslararası Kongre. İnternet'e serbest ticaret alanı kararlaştırıldı,
+yani yazılım, film ve elektronik kitaplar için herhangi bir özel vergi olmadan
+Çevrimiçi satın aldım. Maddi mallar (kitaplar, CD'ler, DVD'ler vb.) Ve
+Hizmetler, mevcut düzenlemelere tabidir ve
+Örneğin KDV, ancak ek özel vergiler yok.
+
+Amazon.com ve diğerlerinin büyük varlıkları vardı, ancak kötü haberler vardı
+Küçük kitapçılar. Arkadaşım tarafından 1971'de kurulan küçük kitapçı gibi
+Paris'in merkezinde Catherine Domain, ada ile Saint-Louis,
+Seine Nehri ile çevrili.
+
+Small Ulysses Kitabevi
+dünya. 20.000'den fazla kitap, harita ve dergi var.
+herhangi bir ülke ve herhangi bir tür hakkında bir dizi dilde yazdır ve yeni
+hepsi küçük bir alanda paketlenmiş seyahat. Catherine bir
+çocukluğundan beri gezgin. Her yaz seyahat eder - genellikle
+Yelken - Erkek arkadaşı kitapçıyı çalıştırırken. O da üye
+Fransız Ulusal Antikacı ve Modern Kitapçılar Birliği
+(SLAM), Kaşifler Kulübü ve Uluslararası Uzun mesafeli kulüp
+Gezginler.
+
+Catherine 140 ülkeyi ziyaret etti ve bazen zor zamanlar geçirdi.
+Ancak en zor zorluklarından biri, ona bir web sitesi kurmaktı.
+Sıfırdan, bilgisayarlar hakkında hiçbir şey bilmeden kendi. Catherine
+Aralık 1999'da yazdı: "Sitem hala oldukça temel ve altında
+yapı. Kitapçım gibi, daha önce insanlarla tanışmak için bir yer
+iş yeri olmak. İnternet boyunda bir acıdır, bir
+Zamanımın çoğunda ve ondan neredeyse hiç para kazanmıyorum, ama bu
+Endişelen beni ... "Yine de, internete rağmen kötümserdi
+gelecek hakkında. "Ben çok kötümserim, çünkü internet
+Uzman kitapçılarını öldürmek. "
+
+
+
+1995: Çevrimiçi Basın
+
+
+[Genel bakış]
+
+Baskı gazetelerinin ilk elektronik versiyonları
+1990'ların başında Amerika Online gibi ticari hizmetler aracılığıyla ve
+CompuServe. 1995 yılında gazeteler ve dergiler kendilerini yaratmaya başladı
+En sonlarının kısmi veya tam sürümünü sunacak web siteleri
+Sorun - serbestçe veya abonelik (ücretsiz veya ücretli) ile mevcuttur -
+Çevrimiçi Arşivler. Avrupa'da, Times ve Sunday Times bir
+Kişiselleştirilmiş bir oluşturmanın bir yolu ile Times Online adlı ortak web sitesi
+baskı. İktisatçının haftalık yayınını da İngiltere'de çevrimiçi hale getirdi.
+Haftalık Odaklanma ve Almanya'daki haftalık der Spiegel,
+Fransa'da Daily Le Monde ve Günlük Kurtuluş ve Daily El Pais
+İspanya. Bilgisayar baskısı da mantıklı bir şekilde çevrimiçi oldu,
+Aylık Kablolu, 1992 yılında California'da siber kültürü kapsayacak şekilde
+"21. yüzyılın avangardında geleceğin dergisi" veya
+Zdnet, önde gelen bir bilgisayar dergisi. Giderek daha fazla "sadece"
+Elektronik dergiler de oluşturuldu.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Gazetelerin ilk elektronik versiyonları erkenden mevcuttu
+1990'lar Amerika Online veya CompuServe gibi ticari hizmetler aracılığıyla.
+Ardından, 1995 yılında gazeteler ve dergiler web siteleri oluşturmaya başladı.
+en son sorunlarının tam sürümünü sunun - serbestçe mevcut veya
+Abonelik (Ücretsiz veya Ücretli) aracılığıyla - daha sonra çevrimiçi arşivlendi.
+Yayınlanan makaleler için telif hakkı sorunları hakkında da sıcak tartışmalar vardı
+Web'de. Giderek daha fazla "sadece" elektronik dergi oluşturuldu.
+
+1996 yılında New York Times sitesine ücretsiz olarak erişilebilir. BT
+Günlük gazetenin içeriğini, Breaking News güncellemelerini dahil etti
+Her on dakikada bir ve orijinal raporlama yalnızca çevrimiçi olarak mevcuttur. .
+Washington Post sitesi, Daily News'u çevrimiçi olarak sağladı.
+Görüntüler, ses ve video dahil makalelerin veritabanı.
+
+Avrupa'da, Times ve The Sunday Times ortak bir web sitesi kurdu
+Kişiselleştirilmiş bir oluşturma olasılığı ile çevrimiçi olarak aranan zamanlar
+baskı. Saygılı ekonomist de çevrimiçi olarak mevcuttu.
+Fransız Günlük Gazeteler Le Monde ve Liberasyon, İspanyol Günlük
+Gazete El Pais veya Alman Haftalık Dergileri Odak veya Der Spiegel.
+
+Bilgisayar baskısı da çevrimiçi oldu. Önce aylık kablolu,
+1992 yılında California'da siber kültürlere odaklanmak ve
+21. yüzyılın avangardında geleceğin dergisi. Daha sonra
+Bilgisayar dergilerinin ana yayıncısı ZDNet.
+
+Haberlerin arkasında, web bize yardım etmek için bütün bir ansiklopedi sağlıyordu
+onları anlayın. Web, zenginliğe anında erişim sağlıyordu
+Bilgi (Coğrafi Haritalar, Biyografik Notlar, Resmi Metinler,
+siyasi ve ekonomik veriler, görsel -işitsel ve video verileri); hızlandırmak
+bilgi yayma; ana fotoğraf arşivlerine erişim; bağlar
+aynı konudaki makalelere, arşivlere ve verilere; ve bir arama motoru
+Makalelere tarih, yazar, başlık, konuya vb.
+
+Başından beri, tüm bu zinler interneti bir
+Yayınlanmanın ucuz yolu. John Labovitz e-zine listesini başlattı
+1993 yaz dünyanın dört bir yanındaki elektronik zinleri (e-zinler) listelemek için
+Web, FTP, Gopher, e -posta ve diğerleri aracılığıyla erişilebilenler
+Hizmetler. Liste aylık olarak güncellendi.
+
+Zine tam olarak nedir? John Labovitz web sitesinde açıkladı: "
+Zine dünyasını tanımayanlar, 'zine'
+Bakışınıza bağlı olarak 'fanzine' veya 'dergi'. Zinler
+genellikle bir kişi veya küçük bir grup insan tarafından üretilir,
+Genellikle eğlence veya kişisel nedenlerle ve saygısız, tuhaf olma eğilimindedir,
+ve/veya ezoterik. Zines 'ana akım' yayınları değil -
+Genellikle reklamlar içermez (bazen, hariç,
+diğer zinler için reklamlar), bir kitleye yönelik değildir
+izleyici ve genellikle kar elde etmek için üretilmez. Bir 'e-zine'
+kısmen veya sadece elektronik olarak dağıtılan bir zine
+İnternet gibi ağlar. "
+
+29 Kasım 1998'de 3.045 zine listelendi. John onun üzerine yazdı.
+Web sitesi: "Şimdi e-zine dünyası farklı. E-ZINE sayısı
+FTP ve Gopher Woodworks'ten sürünerek yüz kat arttı
+Kendilerini kendi alan adına layık ilan etmek, hatta sormak bile
+reklam yoluyla finansal destek için. 'E-zine' terimi bile
+Ticari dünya tarafından seçildi ve neredeyse her biri
+elektronik olarak dağıtılmış yayın türü. Yine de var
+Kalbinden yayınlamaya devam eden orijinal, bağımsız saçak,
+Ya da 'zine' dediğimiz şeyin sınırlarını zorlayın. "John güncellemeyi bıraktı
+Birkaç yıl sonra listesi.
+
+
+
+1996: İnternet Arşivi
+
+
+[Genel bakış]
+
+Nisan 1996'da Brewster Kahle tarafından kurulan İnternet Arşivi bir
+Sunmak için bir "İnternet Kütüphanesi" kuran kar amacı gütmeyen kuruluş
+Tarihsel koleksiyonlara dijital formatta kalıcı erişim
+Araştırmacılar, tarihçiler ve akademisyenler. Web'in bir arşivi saklanır
+iki ayda bir. Ekim 2001'de 30 milyar web sayfası ile
+Depolandı, internet arşivi kullanıcıların için Wayback makinesini başlattı.
+Web arşivinde tarihe göre sörf yapabilmek. 2004'te 300 vardı
+Ayda 12 terabayt büyümesi ile terabayt veri. 2006'da,
+50 milyon web sitesinden 65 milyar sayfa vardı. 1999'un sonlarında,
+İnternet arşivi de arşivlenmiş daha fazla koleksiyonu içermeye başladı
+Belirli konularda web sayfaları. Ayrıca çevrimiçi bir dijital kütüphane oldu
+metin, ses, yazılım, görüntü ve video içeriği. Ekim 2005'te
+İnternet Arşivi Açık İçerik İttifakını (OCA) diğerleriyle başlattı
+Kalıcı bir arşiv oluşturmak için toplu bir çaba olarak katkıda bulunanlar
+Çok dilli sayısallaştırılmış metin (metin arşivi) ve multimedya içeriği.
+
+
+
+1996: Yeni Öğretim Yolları
+
+
+[Genel bakış]
+
+Okullarda ve evde giderek daha fazla bilgisayar ve daha fazlası
+Ve daha fazla internet bağlantısı, öğretmenler yeni yolları araştırmaya başladı
+öğretim. Baskı kitap kültüründen dijital kültüre gitmek değişiyordu
+Bilgi ile ilişkileri ve hem akademisyenler hem de öğrenciler
+öğretme ve öğrenme görüyorlardı. Baskı kitap kültürü istikrarlı sağlandı
+Bilgi ise dijital kültür "hareketli" bilgi sağladı.
+Eylül 1996'da IFIP toplantısı (Uluslararası Federasyon
+Bilgi işleme), Dale Spender yaratıcılık hakkında bir ders verdi
+ve bilgisayar eğitimi endüstrisi, anlayışlı yorumlarla
+Yaklaşan eğilimler.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Baskı kitap kültüründen dijital kültüre gitmek,
+bilgi ile ilişki. Kitap kültürü istikrarlı bilgiler sağladı
+oysa dijital kültür "hareketli" bilgi sağlar. Sırasında
+Eylül 1996 IFIP toplantısı (Uluslararası Federasyon
+Bilgi işleme), Dale Spender hakkında ilginç bir ders verdi
+Yaratıcılık ve bilgisayar eğitimi endüstrisi.
+
+İşte bazı alıntılar:
+
+"Baskı kültürü boyunca, bilgiler
+Kitaplar - ve bu bilgi kavramımızı şekillendirmeye yardımcı oldu. İçin
+Kitaplardaki bilgiler aynı kalır - dayanır.
+
+Ve bu bizi bilgiyi istikrarlı olarak düşünmeye teşvik etti -
+edinilebilen, öğretilebilen, aktarılabilen, ezberlenebilen bilgi birikimi
+ve elbette test edildi.
+
+Baskının kendisinin doğası bir gerçek duygusu geliştirmiştir; gerçek
+Aynı kalan, dayanan bir şey. Ve yok
+Bu istikrarın, bu düzenliliğin büyük bir
+Sanayi Çağının büyük başarılarına katkıda bulunan
+Bilimsel Devrim. (...)
+
+Ancak dijital devrim tüm bunları değiştiriyor. Aniden bu değil
+En eski bilgiler - en uzun süreli bilgiler en çok
+güvenilir ve kullanışlı. Şimdi koyduğumuz en son bilgiler
+En çok inanç - ve en çok ödeyeceğimiz. (...)
+
+Eğitim, en son üretime katılmakla ilgili olacak
+bilgi. Bu yüzden eğitim boyunca devam etmek zorunda kalacak
+hayat ve iş. Her gün hepimizin yeni bir şey olacak
+öğrenmek zorunda. Devam etmek için. Bilmek için. İşlerimizi yapmak. Olmak
+dijital topluluğun üyeleri. Ve bir cesedi öğretmekten uzak
+Yaşam için sürecek bilgi, yeni nesil bilgi
+Profesyonellerin arama yapmaları, eklemeleri, eleştirmeleri gerekecek, 'oyun
+'ve günlük güncelleme bilgileri ile ve sabiti kullanılabilir hale getirmek
+meydana gelen değişiklikler. "
+
+
+
+1996: Palm Pilotu
+
+
+[Genel bakış]
+
+1990'larda Jacques Gauchey, bir gazeteci ve yazardı.
+Silikon Vadisi ve BT konusunda uzmanlaşmış (bilgi teknolojisi). O öyleydi
+Ayrıca ABD ve Avrupa arasında bir "kolaylaştırıcı" olarak çalışmak.
+Jacques, Mart 1996'da bir palmiye pilotu satın alan ilk kişiler arasındaydı ve
+Ücretsiz çevrimiçi bülteninde bu konuda yazdı. Bir yan söz olarak, o
+Temmuz 1999'da hatırladım: "1996'da bir bedava birkaç sayı yayınladım
+İnternette İngilizce bülten. Sorun başına yaklaşık 10 okuyucusu vardı
+Wired'in elektronik versiyonunun gününe kadar (Ocak 1996'da)
+Dergi bir bağlantı yarattı. Bir hafta içinde yaklaşık 100 e -posta aldım, bazıları
+La Vallee du Risque kitabımın Fransız okuyucularından - Silikon Vadisi
+[Editörün Notu: Risk Vadisi - Plon tarafından yayınlanan Silikon Vadisi,
+Paris, 1990'da] beni tekrar bulmaktan mutluluk duyuyordu. "Ekledi:" Tüm benim
+Müşteriler artık internet şirketleri. Tüm çalışma araçlarım (cep telefonum
+Telefon, PDA ve bilgisayarım) internete bağlı veya yakında bağlantılı olacak. "
+Şiddetli rekabete rağmen Palm, PDA pazarında lider kaldı,
+1996 ve 2002 yılları arasında 23 milyon palmiye pilotu satıldı.
+
+
+
+1997: Dijital Yayıncılık
+
+
+[Genel bakış]
+
+Dijital yayıncılık 1997'de ana akım haline geldi. Bu yeni bir adımdı
+Geleneksel yayıncılık zinciri tarafından geçirilen değişiklikler
+1970'ler. Geleneksel baskı işi ilk olarak yeni tarafından bozuldu
+Daha düşük maliyetli fotokomasyon makineleri. Metin ve görüntü işleme
+masaüstü yayın mağazalarına ve grafik sanatına teslim edilmeye başladı
+Stüdyolar. Masaüstü yayıncılığı ile izlenim maliyetleri azaldı,
+Fotokopier, renkli fotokopi ve dijital baskı ekipmanı.
+Sayısallaştırma ayrıca yayın sürecini hızlandırdı. Editörler,
+Tasarımcılar ve diğer katkıda bulunanlar aynı anda çalışabilirler
+aynı kitap. Eğitim, akademik ve bilimsel yayınlar için,
+Çevrimiçi yayıncılık, basılı kitaplardan daha ucuz bir çözüm haline geldi,
+En son bilgileri içerecek şekilde düzenli güncellemelerin olasılığı.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+1970'lerden beri, geleneksel yayın zinciri büyük ölçüde
+değişti. Baskı öncesi dükkanlar tarafından yapılan baskı çalışmaları ilk olarak bozuldu
+Yeni foto -kompozisyon makineleri ile. Metin ve görüntü işleme olmaya başladı
+Reklam ve grafik sanat ajanslarına teslim edildi. İzlenim maliyetleri
+Masaüstü yayıncılığı, fotokopi makineleri, renkli fotokopi makineleri ve
+dijital baskı ekipmanı.
+
+1997'de metin ve görüntü işleme düşük bir fiyata sağlandı.
+masaüstü yayın mağazaları ve grafik sanat stüdyoları. Sayısallaştırma
+yayın sürecini hızlandırdı. Editörler, tasarımcılar ve diğerleri
+Katkıda bulunanların hepsi aynı kitapta aynı anda çalışabilirler.
+
+Sayısallaştırma ayrıca eğitimin çevrimiçi yayınlanmasını da mümkün kıldı
+ve çok daha iyi bir çözüm olarak ortaya çıkan bilimsel yayınlar
+basılı kitaplardan daha, çünkü düzenli olarak güncellenebilirler.
+Son bilgiler. Bazı üniversiteler kendi dağıtımına başladı
+Kapsamlı bir veritabanında seçilen bölümlerle çevrimiçi ders kitapları ve
+Profesörlerden makaleler ve yorumlar. Bir seminer için, küçük bir baskı
+Talep üzerine gönderilebilir.
+bir yazıcı.
+
+Elektronik Yayıncılık, bazı akademik yayıncıların koşmaya devam etmesine izin verdi
+İşleri, daha düşük maliyetler ve hızlı erişim ile. Bu şekilde küçük
+Yayıncılar, baskının bulunduğu özel kitaplar yayınlamaya devam etti
+Az sayıda kopyada,
+Bütçe nedenleri nedeniyle yıllar. Bu kitaplar artık düzenli olabilir
+güncellendi ve okuyucuları en son sürümden yararlanıyor. Okuyucular
+Yeni bir basılı baskı için artık beklemenize gerek yoktu, genellikle ertelenmiş
+Ticari kısıtlamalar nedeniyle iptal edilmezse.
+
+Elektronik yayıncılık ve geleneksel yayıncılık tamamlayıcı oldu.
+İki destek arasındaki sınır - elektronik ve kağıt -
+kayboluyor. En son basılı medya zaten bir elektronikten kaynaklandı
+Her neyse, bir kelime işlemci, bir elektronik tablo veya veritabanında sürüm. Daha
+Ve daha fazla belge sadece elektronik oldu. Ve giderek daha fazla baskı
+Kitaplar dijital kitapçılara ve kütüphanelere dahil edilecek şekilde tarandı.
+
+1990'ların sonunda, henüz güvenilir bir istatistik yoktu.
+bilgisayar ve elektronik belgelerin büyük ölçekli kullanımı
+Bizi kağıtsız hale getirin ve hepimizin umduğu gibi biraz saç tasarrufu
+Doğanın korunmasına inan. Hala bir geçiş dönemindeydik.
+Birçok insanın daha kolay okumak veya tutmak için hala bir basılı sürüme ihtiyacı vardı
+Elektronik dosyanın yanlışlıkla olması durumunda bir belgenin izlenmesi
+silinmiş veya belgeleri için bazı kağıt desteği almak veya
+Arşivler.
+
+
+
+1997: Logolar Sözlüğü
+
+
+[Genel bakış]
+
+Logos, Modena, İtalya'da bulunan lider bir çeviri şirketidir. İçinde
+1997'de Logolar, Modena'da 200 şirket içi çevirmen ve 2.500 serbest lansta vardı
+Günde yaklaşık 200 metin işleyen dünya çapında çevirmenler. .
+Şirket o sırada cesur bir hamle yaptı ve web'e koymaya karar verdi
+İnternet için çevirmenleri tarafından kullanılan dilsel araçlar
+Topluluk onları özgürce kullanmak için. Dilsel araçlar
+7 milyar kelimeye sahip çok dilli bir sözlük olan Logos Sözlüğü (
+Sonbahar 1998); 300 ile çok dilli bir kütüphane olan logolar wordtheque
+Çeviri romanlarından, teknik kılavuzlardan ve
+diğer metinler; Logos Dil Kaynakları, 500 veritabanı
+sözlükler; ve Logos Universal Conjugator, fiiller için bir veritabanı
+17 dil.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Logos Sözlüğü, 7.580.560 kelimeli çok dilli bir sözlüktir.
+(10 Aralık 1998 itibariyle). Logos Wordtheque bir kelime kelimesidir
+325.916.827 kelimelik büyük bir veritabanı olan çok dilli kütüphane
+Çok dilli romanlar, teknik literatürden çıkarıldı ve tercüme edildi
+Metinler. Logolar Dil Kaynakları 553 Sözlük veritabanıdır. .
+Logos Universal Conjator, fiillerin konjugasyonu için bir veritabanıdır
+17 dilde.
+
+Logos, Modena, İtalya merkezli uluslararası bir çeviri şirketidir.
+1997'de Logos, onun tarafından kullanılan tüm dilsel araçları koymaya karar verdi.
+Web'deki çevirmenler ücretsiz. Logoların yerinde 200 çevirmen vardı
+ve tüm dünyada 2.500 serbest lance çevirmen, işledi
+Günde yaklaşık 200 metin.
+
+Annie Kahn tarafından Fransız Günlük Gazetesi Le Monde'de röportaj yaparken
+7 Aralık 1997'de Logolar Başkanı Rodrigo Vergara şöyle açıkladı: "Biz
+Tüm çevirmenlerimizin aynı çeviriye erişmesini istedim
+aletler. Böylece onları internette kullanılabilir hale getirdik ve bizdeyken
+Siteyi halka açmaya karar verdik. Bu bizi yaptı
+Son derece popüler ve ayrıca bize çok fazla maruz kaldı. Operasyon
+aslında çok sayıda müşteri çekti, ama aynı zamanda bize izin verdi
+Çevirmen ağımızı genişletmek için,
+Girişimin Ulanı. "
+
+Aynı makalede, Annie Kahn şöyle yazdı: "Logos sitesi çok daha fazla
+sadece bir sözlük veya diğer çevrimiçi bağlantılar koleksiyonundan daha
+sözlükler. Bir sistem temel taşı belge arama yazılımıdır,
+ücretsiz olarak mevcut bir edebi metin topluluğu işleyen
+Web. Bir kelimenin tanımını veya çevirisini ararsanız
+('Didactique', örneğin), sadece aranan cevabı değil, aynı zamanda
+ayrıca kelimeyi içeren edebi eserlerden birinden bir alıntı (
+Dava, Voltaire tarafından bir deneme). Tek gereken fareye bir tıklama
+Tüm metnin tümüne erişmek için veya hatta kitabı sipariş etmek için bir düğme,
+Ünlü çevrimiçi kitapçı Amazon.com ile ortaklık anlaşması.
+Yabancı çeviriler de mevcuttur. Ancak, metin içermiyorsa
+Gerekli kelime bulunur, sistem bir arama motoru görevi görür,
+Kullanıcı söz konusu terimden bahseden diğer web sitelerine. Davada
+Belirli kelimelerden, telaffuzu bile duyabilirsiniz. Hayır varsa
+Çeviri şu anda mevcut olan sistem, halkı çağırıyor
+katkı yapmak. Herkes kendi önerilerini yapabilir, bundan sonra logolar
+Çevirmenler ve şirket yönlendirilen çevirileri kontrol ediyor. "
+
+
+
+1997: Multimedya yakınsama
+
+
+[Genel bakış]
+
+Giderek daha fazla insan dijital teknolojiyi kullanıyordu, daha önce
+Baskı ve yayınlama gibi farklı bilgi tabanlı endüstriler,
+grafik tasarım, medya, ses kaydı ve film yapımı, yakınlaşıyordu
+ortak bir ürün olarak bilgi ile bir sektörde. Bu eğilim
+büyük bir iş kaybı ile "multimedya yakınsama" olarak adlandırıldı ve
+ILO tarafından ele alınacak kadar ciddi sorun (uluslararası emek
+Organizasyon) 1997 yılına kadar. Multimedya İlk ILO Sempozyumu
+Yakınsama Ocak 1997'de Cenevre'deki ILO Genel Merkezinde yapıldı.
+İsviçre. Bu uluslararası sempozyum,
+işverenler, sendikacılar ve devlet temsilcileri. Bazı
+Katılımcılar, çoğunlukla işverenler, bilgi toplumunu gösterdiler
+diğer katılımcılar üretirken veya iş üretirken
+çoğunlukla sendikacılar, işsizlikte bir artış olduğunu gösterdi
+dünya çapında.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Multimedya Yakınsama ile İlgili İlk ILO Sempozyumu Ocak ayında yapıldı
+1997, Cenevre'deki ILO'nun (Uluslararası Çalışma Ofisi) merkezinde,
+İsviçre.
+
+Peter Leisink, Utrecht'te Çalışma Çalışmaları Doçenti
+Hollanda Üniversitesi şöyle açıkladı: "Birleşik Krallık Anketi
+Kitap Yayıncılık Endüstrisi, prova okuyucuların ve editörlerin
+dışsallaştırılmış ve şimdi ev tabanlı teleworkers olarak çalışıyor. Büyük çoğunluk
+Bunlardan serbest mesleklere girmişti, ilk seçim seçeneği olarak değil, ama
+Endüstri birleşmeleri, yer değiştirme ve fazlalıkların bir sonucu olarak. Bunlar
+İnsanlar aslında rahat işçi olarak kabul edilmelidir.
+Serbest meslek sahibi olarak, çok az özerkliğe sahip oldukları ve bağımlı olma eğiliminde oldukları için
+İşleri için sadece bir yayınevi. "
+
+Bu uluslararası sempozyum,
+işverenler, sendikacılar ve devlet temsilcileri. Bazı katılımcılar
+Hala bilgi toplumumuzun iş yaratacağını düşünürken
+dünya çapında multimedya yakınsamasının yol açtığı belirtildi.
+büyük bir iş kaybı.
+
+Fransız Kitap Federasyonu Genel Sekreteri Michel Muller,
+Kağıt ve iletişim endüstrisi, Fransız grafiklerinin
+Endüstri, 110.000'den 90.000'e düşen 20.000 işini kaybetmişti
+Son on yıl ve bu pahalı sosyal planlar
+Bu insanları yeniden kullanıyor. Açıkladı: "Teknolojikse
+Gelişmeler gerçekten önerildiği gibi yeni işler yarattı, o zaman
+parayı güvenilir çalışmalara yatırmak daha iyi olabilir
+Hangi işler yaratılıyordu ve hangileri kayboluyordu
+genellikle yapay işler yaratan sosyal planlardan daha. Bu çalışmalar
+Talepteki yeni beceri ve nitelikleri vurgulamalıdır.
+Teknolojik yakınsama süreci,
+Baskı endüstrisi, gazetecilik ve diğer bilgi araçları.
+Yakınsamanın neden olduğu bir diğer sorun, sahipliğe yönelik eğilimdi
+konsantrasyon. Birkaç büyük grup, sadece büyük kısmını kontrol etmekle kalmayıp
+yazılı medya, ancak çok çeşitli diğer medya ve böylece bir tehdit oluşturdu
+ifadede çoğulculuğa. Basın tarafından kabul edilen çeşitli vergi avantajları
+Bugün yeniden incelenmeli ve karşı karşıya olan yeni gerçeklere uyarlanmalıdır.
+basın ve multimedya işletmeleri. Tüm sosyal ve toplumsalları yönetmek
+Yeni teknolojiler tarafından gündeme getirilen konular yaygın bir anlaşma gerektirdi ve
+fikir birliği. Hiçbir kişi olmadığı için kolektif anlaşmalar hayati önemliydi
+Müzakereler veya sadece pazar bunları yeterince çözebilir
+önemlidir. "
+
+Sendikacıların müdahalelerine kıyasla oldukça teorik, işte
+AT&T Global Information Direktörü Walter Durling'in cevabı
+Çözümler: "Teknoloji insan ilişkilerinin özünü değiştirmez.
+İletişim için daha sofistike, yeni mekanizmalar için
+müzakere ve yeni çatışma türleri ortaya çıkacaktı, ama
+İşçiler ve işverenler arasındaki ilişkiler devam eder
+aynı olmak. Film icat edildiğinde, insanlar bundan korkmuştu
+tiyatroyu sona erdirebilir. Bu olmadı. Ne zaman televizyon
+geliştirildi, insanlar sinemaları yapacağından korkmuştu, ama
+yapmamıştı. Kişi gelecekten korkmamalı. Gelecek korkusu
+Bizi düzenlemelerle yaratıcılığı bastırmaya yönlendirmemelidir. Yaratıcılık
+Yeni istihdam üretmek için gerekiyordu. Girişim ruhu yapmak zorunda kaldı
+bunlar için iş yaratmak için yeni teknoloji ile güçlendirilebilir
+yerinden edilmişti. Sorunlar öngörülmemeli, ancak ele alınmalı
+"Kısacası, insanlık teknolojiden korkmamalı.
+
+Aslında, çalışanlar geleceğten çok korkmuyorlardı.
+işlerini kaybetmekten korkuyor. 1997'de toplumumuzun zaten yüksek olduğu
+İşsizlik oranı, film icat edildiğinde durum böyle değildi ve
+Televizyon gelişti. Önümüzdeki yıllarda denge ne olurdu
+İş yaratma ve işten çıkarma arasında? Sendikalar dünya çapında mücadele ediyordu
+Yatırım, inovasyon, mesleki işler yoluyla iş yaratmayı teşvik edin
+Eğitim, bilgisayar okuryazarlığı, yeni işler için yeniden eğitilme, adil koşullar
+Sözleşmeler ve toplu anlaşmalar için, telif hakkı savunması,
+Sanatsal alanda işçilerin korunması ve teleworkers savunması
+işçilerin tam hakları olduğu için. Avrupa Komisyonu 10 bekliyordu
+2000 yılında milyon Avrupalı ​​teleworkers,
+Dünya çapında teleworkers% 20'si.
+
+Sendikaların çabalarına rağmen, durum ne kadar trajik olur mu?
+Sempozyum raporunu okuduk? "Bazıları içinde bir gelecekten korkuyor
+Bireyler bir elektronikte hayatta kalmak için mücadele etmeye zorlanacak
+orman. Ve son zamanlarda geliştirilen hayatta kalma mekanizmaları
+Nispeten istikrarlı istihdam ilişkileri gibi onlarca yıl, kolektif
+Anlaşmalar, çalışan temsili, işveren tarafından sağlanan iş eğitimi,
+ve birlikte finanse edilen sosyal güvenlik planları,
+İşin sınırları ışık hızında geçtiği dünya. "
+
+
+
+1998: Çevrimiçi Beowulf
+
+
+[Genel bakış]
+
+Kütüphaneler hazinelerini (dijital versiyonları)
+Dünyanın tadını çıkarmak için web. İngiliz Kütüphanesi bu konuda bir öncüydü
+alan. 1998'de Beowulf dahil olmak üzere birkaç hazine çevrimiçi idi.
+İlk büyük İngiliz başyapıtı olarak. Beowulf en eski bilinen
+İngilizce anlatı şiiri ve en ünlü eserlerinden biri
+Anglo-Sakson şiiri. İngiliz Kütüphanesi bilinen tek makaleye sahiptir
+Beowulf, 1000 dolaylarında. Şiirin kendisi
+El Yazması - Bazı tarihçiler bunun içinde yazılmış olabileceğine inanıyor
+750. Yaratılış ve provenans tarihi hakkında bilimsel tartışmalar
+Şiir dünyanın her yerinde devam ediyor ve araştırmacılar düzenli olarak ihtiyaç duyuyor
+makaleye erişim. Beowulf'u görüntüleme durumundan çıkarmak
+sadece koruma sorunlarını artırmakla kalmadı, aynı zamanda onu da mevcut değildi
+Kütüphaneye gelen birçok ziyaretçi için görmeyi bekleyen
+Sergilenen bu edebi hazine. Makalenin sayısallaştırılması
+yeni fırsatlar sunarken bu sorunlara bir çözüm sundu
+dünya çapında araştırmacılar ve kitap severler için.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+Kütüphaneler, hazinelerini özgürce kullanılabilir hale getirmek için web'i kullanmaya başladı
+dünyaya.
+
+İşte Beowulf'un hikayesi.
+
+Beowulf, İngiliz Kütüphanesi'nin bir hazinesidir. "Eski bir İngilizce
+Anonim yazarlığın kahraman destansı şiiri. Anglo-Sakson'ın bu eseri
+Edebiyat 8. ve 11. yüzyıl arasında, tek
+11. yüzyılın başlarına kadar uzanan Avrupa el yazması. -Den
+3.183 satır, uzunluğu için dikkat çekicidir. "(Wikipedia'dan alıntı)
+
+El yazması 1731'de ateşten kötü hasar gördü. 18. yüzyılda
+Transkriptler yüzlerce kelime ve mektuptan
+kömürleşmiş kenarlar boyunca görülebilir ve daha sonra parçalandı
+yıllar. Bu işlemi durdurmak için, her yaprak bir kağıt çerçeveye monte edildi
+1845'te.
+
+Yaratma ve provenans tarihi hakkında bilimsel tartışmalar
+Şiir dünyada devam ediyor ve araştırmacılar düzenli olarak ihtiyaç duyuyor
+makaleye erişim. Beowulf'u görüntüleme durumundan çıkarmak
+sadece koruma sorunlarını artırmakla kalmadı, aynı zamanda onu da mevcut değildi
+Kütüphaneye gelen birçok ziyaretçi için görmeyi bekleyen
+Sergilenen bu edebi hazine. Makalenin sayısallaştırılması
+bu sorunlara bir çözüm sunmanın yanı sıra yeni
+Okuyucular ve dünyanın zevk alması için fırsatlar.
+
+Elektronik Beowulf Projesi, büyük bir veritabanı olarak başlatıldı.
+Beowulf el yazmasının ve ilgili el yazmalarının dijital görüntüleri ve
+basılı metinler. 1998'de veritabanı, fiber optik okumalarını içeriyordu.
+Gizli harfler ve silinen metnin ultraviyole okumaları
+el yazması; 18. yüzyıl transkriptlerinin tam elektronik faksları
+makalenin; ve önemli 19. yüzyıldan seçimler
+Sıkıştırma, Basımlar ve Çeviriler. Büyük ilaveler planlandı,
+Çağdaş el yazmalarının görüntüleri ve Toronto ile bağlantılar gibi
+Eski İngilizce Projesi Sözlüğü ve Kapsamlı
+Anglo-Sakson eski İngiliz bülteninin bibliyografyaları.
+
+Proje, önde gelen iki uzmanla ortaklaşa geliştirildi,
+Kentucky Üniversitesi ve Paul Szarmach'tan Kevin Kiernan
+Ortaçağ Enstitüsü, Western Michigan Üniversitesi. Profesör Kiernan
+elektronik arşivi düzenledi ve bir sayı içeren bir CD-ROM üretti
+elektronik görüntüler.
+
+İngiliz Kütüphanesi genel müdürü Brian Lang, 1998'de açıkladı:
+"Beowulf el yazması benzersiz bir hazine ve kütüphaneye dayatıyor
+dünyadaki akademisyenler için bir sorumluluk. Dijital fotoğrafçılık
+ilk kez gizlenmiş metin kaydetme olasılığı sunuldu
+erken onarımlarla ve daha ucuz ve daha güvenli bir kayıt tarzı
+Özel ışık koşulları altında okumalar. Ayrıca ihtimalini de sunuyor
+Şüpheli okumaları çözmek için görüntü geliştirme teknolojisini kullanmak
+metin. Ağ teknolojisi, doğrudan işbirliğini kolaylaştırdı
+Amerikalı akademisyenler ve dünyadaki akademisyenler için mümkün kılıyor
+bu keşiflerde paylaşmak. Küratör ve bilgi işlem personeli bir
+gelecekteki herhangi bir dijitalleştirme programını bilgilendirecek çok şey ve
+Kütüphanenin üstlenebileceği ağ hizmeti sunumu ve yayınlarımız
+Bölüm, elektronik bir bilimsel olarak yayınlanmasını düşünüyor
+Beowulf baskısı. Bu çalışma sadece ileri bursu değil; var
+ayrıca daha geniş bir halkın hayal gücünü ele geçirdi,
+(Basın raporları ve bilgisayar ağları üzerindeki kullanılabilirlik yoluyla
+birincilden birinin takdir edilmesinde seçilen görüntüler ve metin)
+ortak kültürel mirasımızın eserleri. "(1998'den alıntı
+web sitesi)
+
+İngiliz Kütüphanesi Avrupa'da bir öncüydü. Diğer hazineler
+Kütüphane zaten çevrimiçi idi: Magna Carta, İlk İngilizce
+1215 yılında Kral John'un büyük mührü ile imzalanan anayasal metin;
+698 tarihli Lindisfarne İncil; 868 tarihli elmas sutra
+Dünyanın en eski baskı kitabı olabilir; Sforza saatleri, tarihli
+1490-1520, olağanüstü bir rönesans hazinesi; Codex Arundel, bir
+Leonardo Da Vinci (1452-1519) ve Tyndale yeni not defteri
+Ahit, Yeni Ahit'in ilk İngilizce versiyonu, basılmıştır
+Peter Schoeffer, solucanlarda.
+
+Brian King ayrıca kağıt dünyasının önemini belirtti ve
+İngiliz Kütüphanesi'nin kağıt koleksiyonlarına devam eden taahhüdü. O
+"Dijital malzemelerin önemi artacaktır. Biz
+Ağ altyapısının şu anda en güçlü olduğunu kabul edin
+Yükseköğretim sektöründe gelişti, ancak
+Benzer tesisler başka bir yerde de mevcut olacak, özellikle de
+sanayi ve ticari sektör ve halk kütüphaneleri için. Bizim
+Ağ erişimi vizyonu tüm bunları kapsar. (...) Gelişim
+dijital kütüphanenin İngiliz kütüphanesinin
+dijital bilgi yaşı. Dijital teknoloji korumak için kullanılacak
+ve kütüphanenin eşsiz koleksiyonunu genişletin. Erişim
+Koleksiyon, dünyanın her yerinden kullanıcılarla sınırsız hale gelecektir.
+herhangi bir zamanda, dijitalleştirilmiş malzemelere basit ve hızlı erişime sahip olmak
+bilgisayar ağları, özellikle de internet. "(
+web sitesi)
+
+Diğer ulusal kütüphaneler, koleksiyonlarını sunacak şekilde dijitalleştirmeye başladı
+Ücretsiz bir dijital kütüphane.
+
+Jerome Strazzulla tarafından Daily Gazetesi Le Figaro'da röportaj yaptığında
+3 Haziran 1998'de Jean-Pierre Angremi, Fransız Ulusal Başkanı
+Kütüphane, "Yapamayız, dijitalleştiremeyeceğiz
+her şey. Uzun vadede, bir dijital kütüphane sadece bir tane olacak
+Tüm kütüphanenin unsuru. "Dijital Kütüphane Gallica çevrimiçi oldu
+1997'de Fransız tarihiyle ilgili binlerce metin ve görüntü ile,
+hayat ve kültür. 19. yüzyıl Fransız metinlerinin büyük bir koleksiyonu ve
+Görüntüler bir yıl sonra mevcuttu.
+
+
+
+1998: Dijital Kütüphaneciler
+
+
+[Genel bakış]
+
+Bilgisayarlarla zaten çok değişmiş olan kütüphanecilerin işi,
+İnternet ile daha da değişmeye devam etti. Bilgisayarlar kataloglar yaptı
+kullanımı çok daha kolay. Sabırlı olmak için tüm bu kartlar yerine
+Ahşap veya metal çekmecelerde sınıflandırılan kütüphaneciler
+Kitapları sıralayan bir programda bibliyografik kayıtlar
+Alfabetik, kronolojik ve sistematik düzen. Kütüphaneciler de başladı
+Kitapları borç vermek ve yenilerini satın almak için bilgisayar programlarını kullanmak. Ağ oluşturarak
+bilgisayarlar, internet bir eyalet için sendika kataloglarına bir destek verdi,
+ülke veya bir bölge ve libraryler arası krediyi ilerletti. Elektronik posta
+iç ve dış iletişim için yaygınlaştı. Kütüphaneciler
+bültenlere abone olabilir ve haber gruplarına katılabilir ve
+Tartışma Forumları. Bir dizi kütüphaneci koşmak için web yöneticileri oldu
+Kütüphane web siteleri, çevrimiçi kataloglar ve dijital kütüphaneler.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+OECD'de dijital kütüphaneci Peter Raggett ile röportaj yaptım (organizasyon
+ekonomik işbirliği ve gelişimi için) ve Bruno Didier, dijital
+Enstitü Pasteur'da kütüphaneci. İşte bazı alıntılar.
+
+
+= OECD kütüphanesinde
+
+OECD nedir? "OECD benzer düşünen ülkelerden oluşan bir kulüp. Zengin,
+OECD ülkeleri dünyadaki malların üçte ikisini üretiyor ve
+Hizmetler, ancak özel bir kulüp değil. Esasen üyelik
+sadece bir ülkenin piyasa ekonomisine olan bağlılığıyla sınırlı
+çoğulcu demokrasi. Orijinal üyelerin çekirdeği genişledi
+Avrupa ve Kuzey Amerika'yı Japonya, Avustralya, Yeni Zelanda,
+Finlandiya, Meksika, Çek Cumhuriyeti, Macaristan, Polonya ve Kore. Ve
+Dünyanın geri kalanıyla çok daha fazla temas var
+Eski Sovyet Bloku, Asya, Latince ülkelerle programlar
+Amerika - Bazı durumlarda üyeliğe yol açabilecek kişiler. "
+(1998 web sitesinden alıntı)
+
+OECD'nin Dokümantasyon ve Bilgi Merkezi (CDI)
+Araştırma çalışmalarını desteklemek için OECD ajanlarına bilgi. 1998'de,
+60.000 monograf ve 2.500 süreli yayın vardı. CDI da
+Veritabanlarından, CD-ROM'lardan elektronik formatta bilgi sağlar.
+internet.
+
+CDI başkanı Peter Raggett,
+Yaklaşık yirmi yıl, önce İngiltere hükümet kütüphanelerinde çalışıyor ve sonra
+1994'ten beri OECD'de. 1996'dan beri interneti kullandı.
+Personel için ana araç haline gelen CDI intranet sayfalarından yukarı.
+
+Peter Haziran 1998'de yazdı: "OECD Kütüphanesinde topladık
+Birlikte yüzlerce dünya çapında web sitesi ve
+OECD intranet üzerinde. Konuya göre sıralanırlar ve her site
+Bu konuda bazı bilgiler veren kısa bir ek açıklama. Araştırmacı yapabilir
+O zaman sitenin istenen içermesinin mümkün olup olmadığını görün
+bilgi. Bu, site referanslarına değer katıyor ve bu
+Merkez Kütüphane'nin bir sanal referans masası oluşturmasının yolu
+OECD Ağı. Açıklamalı bağlantıların yanı sıra, bu sanal referans
+Masa, makalelere, monograflara ve web sitelerine referanslar içeriyor
+Şu anda OECD'de araştırılmakta olan birkaç proje ile ilgili
+CD-ROM'lara ağ erişimi ve yeni satın alımların aylık listesi. .
+Kütüphane kataloğu yakında intranette arama yapmak için hazır olacak.
+OECD Kütüphanesi'ndeki referans personeli, İnterneti iyi bir şekilde kullanıyor
+işlerinin anlaşması. Genellikle akademik bir çalışma makalesi web'de olacak
+ve tam metin indirme için kullanılabilir. Şu anda biz
+aboneliklerimizi bazı kişilerimize desteklemeyi araştırmak
+İnternetteki elektronik versiyonlara erişimi olan süreli yayınlar. "
+
+Peter ekledi: "İnternet araştırmacılara çok geniş bir şey sağladı
+bilgi veritabanı. Onlar için sorun ne olduklarını bulmaktır
+Arama. Aşırı bilgi yükü hiç olmadığı kadar açık olmamıştı
+İnterneti arayarak bir konu hakkında bilgi bulmaya çalışır. Ne zaman
+Biri Lycos veya Altavista gibi bir arama motoru veya
+Yahoo! Yakında bulmanın çok zor olabileceği anlaşılıyor
+belirli bir konudaki değerli siteler. Bu arama mekanizmaları iyi çalışıyor
+Biri çok kesin bir şey arıyor, örneğin bir
+alışılmadık bir adı olan, ancak kafa karıştırıcı sayıda üreten kişi
+Referanslar Oldukça geniş olabilecek bir konu arıyorsa.
+Web'i Rusya ve Ulaşım için arayın ve istatistikleri bulmak için
+Rusya'da tren, uçak ve otobüs kullanımı. İlk Referanslar
+iş bağlantıları olan yükü öne çıkan firmalar bulacak
+Rusya ile. "
+
+Ya gelecek? "İnternet birçok insanı engelliyor"
+Yaşıyor ve bilgi yöneticileri araştırmacılara yardım edecek en iyi insanlardır
+labirent etrafında. İnternet sadece bebeklik döneminde ve biz
+Hepsi büyümesine ve arıtmasına tanık olacak. (...)
+Bilgi yöneticilerinin arama yapmada büyük bir rolü vardır ve
+İnternetteki bilgilerin düzenlenmesi. Olacağını umuyorum
+İnternet kullanımında eğitim ve araştırma için bir genişleme. Bu şu anlama gelir
+Kütüphanelerin, öğrencilerin olabileceği sanal kütüphaneler oluşturmak zorunda kalacak
+Bir kurum tarafından sunulan bir kursu takip edin.
+dünya. Şahsen, kendimi gittikçe daha fazla sanal hale getirdiğini görüyorum
+Kütüphaneci. Müşterilerim benimle yüz yüze görüşmeyebilir, bunun yerine
+Bana e-posta, telefon veya faks yoluyla iletişime geçin ve araştırmayı yapacağım ve
+Sonuçları elektronik olarak gönderin. "
+
+
+= Enstitü Pasteur Kütüphanesi'nde
+
+1999'da Bruno Didier, Enstitü Pasteur'un web yöneticisiydi
+Kütüphane. "Pasteur Enstitüleri,
+Bulaşıcı ve parazit kaynaklı hastalıkların incelenmesi. Onlar evleniyorlar
+pratik halk sağlığı sorunlarının çözülmesi ve dolayısıyla
+nedeniyle son derece orijinal olan araştırma programları
+Yapılan araştırmaların tamamlayıcı doğası: klinik
+Araştırma, epidemiyolojik araştırmalar ve temel araştırma çalışmaları. Sadece birkaç
+Enstitülerin büyük konularının uzun listesinden örnekler şunlardır:
+Sıtma, tüberküloz, AIDS, sarı humma, dang ve poliomyelit. "
+(1999 web sitesinden alıntı)
+
+Ağustos 1999'da Bruno, bir web yöneticisi olarak çalışmasını yazdı: "Ana
+Pasteur Enstitüsü Kütüphane web sitesinin amacı enstitüye hizmet etmektir
+kendisi ve ilişkili bedenleri. Sahip olan uygulamaları destekler
+Böyle büyük bir organizasyonda gerekli olun: bibliyografik veritabanları,
+Kataloglama, belgelerin sipariş edilmesi ve elbette çevrimiçi erişim
+süreli yayınlar (şu anda 100'den fazla). Aynı zamanda bizim için bir pencere
+Farklı bölümler, Enstitüde ancak Fransa'nın başka yerlerinde de
+ve yurtdışında. Dokümantasyon değişimlerinde büyük bir rol oynar.
+Dünya Çapında Pasteur Ağı'ndaki Enstitüler. Bunu yapmaya çalışıyorum
+Interlink, İnternet'in keşif ve kullanımı ihtiyaçlarımıza uyarlandı.
+Web sitesi 1996'dan beri mevcut haliyle ve izleyicileri
+sürekli artıyor. Web sayfalarını oluşturup sürdürüyorum ve izliyorum
+onları düzenli olarak. Ayrıca yapabileceğiniz kullanıcıları eğitmekten de sorumluyum
+Sayfalarımdan görün. Web, eğitim için mükemmel bir yer ve
+Eğitim hakkında devam eden tartışmalara dahil edildi. "
+
+Kütüphanecilerin geleceği ne olacak? "İkisi ile ilişkimiz
+Bilgi ve kullanıcılar değişir. Giderek daha fazla oluyoruz
+arabulucular ve belki de daha az ölçüde 'küratörler'. Benim hediyem
+Etkinlik bu yeni durumun tipiktir: sağlamak için çalışıyorum
+bilgiye hızlı erişim ve etkili araçlar oluşturmak için
+İletişim, ama aynı zamanda bu yeni araçları kullanmaları için insanları da eğitiyorum. Bence
+İşimizin geleceği, ortak işbirliğine ve kullanımına bağlıdır
+kaynaklar. Kesinlikle eski bir proje, ama gerçekten ilk
+Bunu ayarlamak için araçlarımız vardı. "
+
+
+
+1998: Çok dilli web
+
+
+[Genel bakış]
+
+1998'de Randy Hobler, internet pazarlamasında danışmandı.
+Globalink, dil çeviri yazılımı konusunda uzmanlaşmış bir şirket ve
+Hizmetler. Randy Eylül 1998'de yazdı: "Web'in içeriğinin% 85'i
+1998'de İngilizce ve aşağı iniyor. Bu eğilim sadece tarafından değil
+İngilizce konuşmayan ülkelerde daha fazla web sitesi ve kullanıcı, ancak
+Şirket ve organizasyon sitelerinin yerelleştirilmesinin artması ve
+Makine çevirisinin çeşitli dillere/çeşitli dillerden kullanımının arttırılması
+Web sitelerini çevirin. (...) İnternetin ulusal olmadığı için
+sınırlar, kullanıcıların organizasyonu diğer kriterlerle sınırlıdır
+ortamın kendisi tarafından sürülür. Çok dillilik açısından,
+sanal topluluklar, örneğin 'dil ulusları' dediğim şey ...
+Nerede olurlarsa olsunlar, internette tüm bu insanlar
+Dil onların ana dilidir. Böylece İspanyol Dili Milleti
+sadece İspanyol ve Latin Amerikalı kullanıcıları değil, milyonlarca
+ABD'deki Hispanik kullanıcıları ve İspanyolca konuşan garip yerler
+Fas."
+
+
+[Derinlemesine (2000 yılında yayınlandı, 2004 yılında güncellendi)]
+
+1998'de İngilizce'den başka diller web'e yayılmaya başladı. İçinde
+Gerçek, ana İngilizce olmayan diller neredeyse en başından beri mevcuttu.
+Ama web'in çoğu İngilizce idi. O zaman dünyanın her yerinden insanlar
+İnternete erişmeye başladı ve sayfaları kendi başlarına göndermeye başladı
+diller. İngiliz dilinin yüzdesi yavaşça başladı
+yaklaşık% 100'den% 90'a düşer.
+
+1998'de Randy Hobler,
+Globalink, dil çeviri yazılımı konusunda uzmanlaşmış bir şirket ve
+Hizmetler. Daha önce Randy, IBM, Johnson &
+Johnson, Burroughs Wellcome, Pepsi, Heublein ve diğerleri.
+
+Randy Eylül 1998'de yazdı: "Çünkü internetin ulusal olmadığı için
+sınırlar, kullanıcıların organizasyonu diğer kriterlerle sınırlıdır
+ortamın kendisi tarafından sürülür. Çok dillilik açısından,
+sanal topluluklar, örneğin 'dil ulusları' dediğim şey ...
+Nerede olurlarsa olsunlar, internette tüm bu insanlar
+Dil onların ana dilidir. Böylece İspanyol Dili Milleti
+sadece İspanyol ve Latin Amerikalı kullanıcıları değil, milyonlarca
+ABD'deki Hispanik kullanıcıları ve İspanyolca konuşan garip yerler
+Fas."
+
+1999'da Jean-Pierre Cloutier, Chroniques de Cyberie'nin editörüydü,
+İnternet haberlerinin haftalık bir raporu. Jean-Pierre Ağustos 1999'da yazdı:
+"Web bu İngilizce konuşmayan bölgelerde büyüyecek.
+Biz, eğer biz
+Bu 'yeni' kullanıcılara ulaşmak istiyorum. Bence çok az
+önemli belgelerin ve makalelerin çevirileri
+Web-İngilizce'den diğer dillere ve tam tersine. (... )
+İnternetin yayıldığı bölgelerde son tanıtımı
+Okuması iyi olacak soruları gündeme getirir. Ne zaman
+İspanyolca konuşan iletişim teorisyenleri ve diğer konuşanlar
+diller tercüme ediliyor mu? "
+
+1999'da Marcel Gangier,
+İsviçre federal hükümetinin merkezi dil hizmetleri, yani
+İsviçre için çeviri konularını organize etmekten sorumluydu
+devlet. Marcel Ocak 1999'da yazdı: "Çok dilliliği görebiliriz
+İnternette mutlu ve geri döndürülemez bir kaçınılmaz olarak. Yani bizde
+sadece üstünlüğünden şikayet eden kıyametçilere gülmek
+İngilizce. Böyle bir üstünlük kendi içinde yanlış değildir, çünkü esas olarak
+İstatistiklere dayanarak (sakin başına daha fazla bilgisayar, daha fazla insan konuşuyor
+İngilizce, vb.). Cevap, 'ile savaşmak' değil, çok daha az sızlanmak
+Bu konuda, ancak diğer dillerde daha fazla site oluşturmak. Çeviri olarak
+Hizmet, web sitelerinin çok dilli olmasını da öneririz. .
+İnternette artan dil sayısı kaçınılmazdır ve
+Sadece çok kültürlü borsaları artırın. Bunun en iyi şekilde olması için
+Olası koşullar, yine de geliştirmek için araçlar geliştirmemiz gerekiyor
+uyumluluk. Aksan ve diğer karakterlerle tam olarak başa çıkmak sadece
+ne yapılabileceğine bir örnek. "
+
+1998 yılında Henri Slettenhaar, Webster Üniversitesi'nde profesördü,
+Cenevre, Swizerland. İki dilli ihtiyaç konusunda düzenli olarak ısrar etti
+Web siteleri, orijinal dilde ve İngilizce. Aralık ayında yazdı
+1998: "Çok dilliliği çok önemli bir konu olarak görüyorum. Yerel.
+Web'de bulunan topluluklar esas olarak yerel kullanmalıdır
+bilgileri için dil. Eğer dünyaya sunmak istiyorlarsa
+Topluluk da İngilizce olmalı. Gerçek bir ihtiyaç görüyorum
+iki dilli web siteleri. Çok fazla teklif var çok mutluyum
+Şimdi orijinal dil. Orijinali okumayı çok tercih ediyorum
+kötü bir çeviri almaktan daha zor. "
+
+Ağustos 1999'da şunları da ekledi: "Bence iki ana kategori var.
+Birincisi, iş ve bilgi için küresel sosyal yardımdır. Burada
+dil kesinlikle İngilizce, yerel sürümlerle
+uygun. İkincisi, her türlü yerel bilgidir.
+çoğu uzak yer. Bilgi etnik insanlar içindir
+ve/veya dil grubu, belki de bu dilde olmalı belki
+İngilizce bir özet. Son zamanlarda bunların ne kadar önemli olduğunu gördük
+Web Siteleri - Kosova ve Türkiye'de, en sondan bahsetmek gerekirse
+olanlar. İnsanlar akrabaları hakkında bilgi alabildiler
+Bu siteler. "
+
+Ağustos 2000'de şunları da ekledi: "Çok dillilik büyük ölçüde genişledi. Birçoğu
+E-ticaret web siteleri artık çok dilli ve şirketler var
+Yerelleştirmeyi mümkün kılan ürünleri sat (web sitelerinin uyarlanması
+ulusal pazarlara). "
+
+İngilizce konuşmayan kullanıcılar 2000 yazında% 50'ye ulaştı.
+Şirket Global Reach, 2001 yazında% 52.5, Aralık ayında% 57 idi
+2001, Nisan 2002'de% 59,8, Eylül 2003'te% 64.4 (% 34.9 dahil
+İngiliz konuşmayan Avrupalılar ve% 29.4 Asyalı) ve Mart ayında% 64.2
+2004 (İngilizce konuşmayan Avrupalılar ve% 33 Asyalı% 37,9'u dahil).
+
+
+
+1999: E -kitap formatını açık
+
+
+[Genel bakış]
+
+1999'da, e -kitaplar kadar çok fazla e -kitap formatı vardı, her bir
+Şirket ve organizasyon kendi e -kitabı için kendi formatını oluşturan
+okuyucu ve kendi elektronik cihazı. Yayıncılık endüstrisi hissetti
+e -kitaplar için ortak bir formatta çalışmanız ve yayınlanması gerekir
+Eylül 1999 Açık e -Kitap (OEB) biçiminin ilk sürümü, bir
+XML'ye (genişletilebilir işaretleme dili) dayalı e -kitap biçimi
+Açık e -Kitap Yayın Yapısı (OEBPS). Açık e -kitap forumu
+OEB formatını ve OEBPS'yi geliştirmek için Ocak 2000'de oluşturuldu
+özellikler. 2000 yılından bu yana, çoğu e -kitap formatı - veya
+OEB formatı ile uyumludur. Nisan 2005'te açık e -kitap forumu
+Uluslararası Dijital Yayın Forumu (IDPF) ve OEB oldu
+Biçim epub formatı oldu. EPUB biçimi standartlardan biridir
+dijital yayıncılık endüstrisi için.
+
+
+
+1999: Dijital yazarlar
+
+
+[Genel bakış]
+
+Birçok sanatçı gibi Jean-Paul da interneti keşfetmeye ve aramaya başladı
+Yalnızca YENİ YENİ YAYILARININ YÜKSELMELİ HPHALLINKS SAĞLAYABİLİR?
+Talimatlar. Basılı yazar olmaktan bir
+hipermedia yazarı ve yaratılmış cotres furtifs (furtive kesiciler),
+Web sitesi 3D içinde hikayeler anlatıyor. Ayrıca verilen özgürlükten de keyif aldı
+Çevrimiçi kendi kendine yayınlama ve Ağustos 1999'da yazdı: "İnternet
+Plak şirketleri, yayıncılar gibi aracılar olmadan yapmam
+ve distribütörler. En önemlisi, sahip olduğum şeyi kristalleştirmeme izin veriyor
+Kafamda: Baskı ortamı (aslında masaüstü yayıncılığı) sadece izin verir
+Bunu kısmen yapmam. "Haziran 2000'de ekledi:" Web sörf yapmak gibi
+Her yöne yayılıyorum (bir şeyle ilgileniyorum ve tıklıyorum
+bir ana sayfadaki tüm bağlantılarda) veya etrafta atlamak gibi (tek tıklamadan
+diğerine, bağlantılar göründüğü gibi). Bunu yazılı medyada yapabilirsiniz,
+Elbette. Ama fark çarpıcı. Yani internet yapmadı
+Hayatımı değiştir, ama yazma şeklimi değiştirdi. Aynı yazmıyorsun
+Bir senaryo veya oyun için yaptığınız gibi bir web sitesi için yolu. "
+
+
+[Derinlemesine (2000'de yayınlanmıştır)]
+
+Eğitim kitaplarının yazarı Murray Suid ile röportaj yaptım,
+Palo Alto, California'da yaşıyor. Paris'te röportaj yaptım
+Bazı ilginç yorumlar yazan bir hipermedia yazarı Jean-Paul
+dijital literatür hakkında.
+
+
+= Eğitim kitapları
+
+1998'de Murray Suid, Silikon'un kalbinde Palo Alto'da yaşıyordu
+Vadi. Eğitim kitapları, çocuklar için kitaplar, multimedya yazıyordu
+senaryolar ve senaryolar. Bir çözüm seçen ilk kişi arasındaydı
+Birçok yazarın yakında benimseyeceği. Eylül 1998'de şöyle açıkladı: "
+Bir kitap web genişletilebilir (kısmen siber alanda yaşamak), sonra bir
+Yazar kolayca güncelleyebilir ve düzeltebilirken, aksi takdirde yazar
+Bir sonraki baskı için uzun süre beklemek zorunda kalacaktı, eğer gerçekten bir sonraki
+Baskı çıktı. (...) Üzerinde kitap yayınlayıp yayınlamayacağımı bilmiyorum
+Web - kağıt kitap yayınlamanın aksine. Muhtemelen bu olacak
+Kitaplar multimedya olduğunda olur. (Şu anda geliştirmeye yardım ediyorum
+multimedya öğrenme materyalleri ve sevdiğim bir öğretim biçimidir.
+Çok fazla - metin, film, ses, grafik ve - ne zaman harmanlamak
+mümkün - etkileşim). "
+
+Murray, Ağustos 1999'da ekledi: "'Web'i uzatan' kitaplara ek olarak, biz
+şimdi Web'i uzatıyor (CD-ROM) ürünlerimizi-güncellemek ve
+Onları zenginleştir. "Birkaç ay sonra ekledi:" Şirketimiz - Edvantage
+Yazılım - multimedya yerine bir internet şirketi haline geldi
+(CD-ROM) Şirket. Öğrencilere çevrimiçi eğitim materyali sunuyoruz
+ve öğretmenler. "
+
+
+= Hipermedia yazma
+
+1999 yılında, bir hipermedia yazarı olan Jean-Paul, web yöneticisiydi.
+Cotres.net, 3D'de hikayeler anlatan bir site. Özgürlükten gerçekten keyif aldı
+Çevrimiçi yayıncılık tarafından verilmiştir. Ağustos 1999'da yazdı: "İnternet
+Plak şirketleri gibi aracılar olmadan yapmama izin veriyor,
+yayıncılar ve distribütörler. En önemlisi, kristalleşmeme izin veriyor
+Kafamda ne var: Baskı Ortamı (aslında masaüstü yayınlama)
+Sadece bunu kısmen yapmama izin veriyor. Sonra aracılar alacak
+bitti ve başka bir yere bakmam gerekecek, çimlerin olduğu bir yer
+daha yeşil ... "
+
+Jean-Paul, Haziran 2000'de ekledi: "Web sörf yapmak herkese yayılmaya benziyor
+Yol tarifleri (bir şeyle ilgileniyorum ve tüm bağlantıları tıklıyorum
+bir ana sayfada) veya etrafta atlamak gibi (bir tıklamadan diğerine,
+bağlantılar görünür). Bunu basılı medyada elbette yapabilirsiniz. Ancak
+Fark çarpıcı. Yani internet hayatımı değiştirmedi, ama
+Yazma şeklimi değiştirdi. Bir web sitesi için aynı şekilde yazmıyorsunuz
+senaryo veya oyun için yaptığınız gibi.
+
+Ama yazımı değiştiren tam olarak internet değildi,
+Mac'in ilk modeli. Kendime öğretirken keşfettim
+Hiperkard. Hala ayım boyunca ne kadar şaşkın olduğumu hatırlıyorum
+Düğmeleri ve bağlantıları öğrenmek ve dernek ile sörf yapmayı öğrenmek,
+nesneler ve görüntüler. Sadece ekranın bir kısmına tıklayarak yapabilmek,
+Her kart yeni düğmeler ve her biri sunan kart yığınlarını açmak için
+Düğme yeni bir seriye açılıyor. Kısacası, her şeyi öğrenmek
+Bugün gerçekten rutin göründüğü web hakkında benim için bir vahiydi.
+Steve Jobs'un ve ekibinin aynı tür şokları duyduğunu duyuyorum.
+Rank Xerox laboratuvarlarında Mac'in öncüsü keşfetti.
+
+O zamandan beri doğrudan ekranda yazıyorum. Bir kağıt kullanıyorum
+Bir makaleyi düzeltmeme veya vermeme yardımcı olmak için sadece ara sıra çıktı veya
+Ekranları sevmeyen biri kaba bir fikir, hemen bir şey. BT
+sadece bir yaklaşımdır, çünkü baskı bizi doğrusal hale getirir
+İlişki: Kelimeler çoğu zaman sayfaya göre sayfa çıkarır. Ancak
+Bağlantılarınız olduğunda, zamanla farklı bir ilişkiniz vardır ve
+hayal gücünüzde yer. Ve benim için, kullanmak için harika bir fırsat
+Bu okuma/yazma etkileşimi, oysa bir kitaptan geçme
+sadece bir öneri - belirsiz bir kitap çünkü bir kitap amaçlanmıyor
+O."
+
+
+
+2000: YourDictionary.com
+
+
+[Genel bakış]
+
+1995 yılında çevrimiçi sözlükler (WOD) bir ağ kurduktan sonra Robert Beard
+daha büyük bir projeye dahil, yoDictionary.com,
+2000'in başlarında. Ocak 2000'de yazdı: "Yeni web sitesi bir dizin
+200'den fazla dilde 1.200'den fazla sözlük. WOD dışında
+Yeni web sitesi, gün boyunca bir kelime, kelime oyunları, bir dil içerir
+sohbet odası, on-line gramerlerin eski ağı (şimdi dahil edilecek şekilde genişletildi
+ek dil kaynakları), dilsel eğlence ağı, çok dilli
+sözlükler; uzmanlaşmış İngilizce sözlükler; Thesauri ve diğer
+Kelime Yardımları; dil tanımlayıcıları ve tahminciler ve diğer özellikler;
+Sözlük endeksleri. YourDictionary.com umarım prömiyeri olur
+Dil portalı ve web'deki en büyük dil kaynak sitesi. BT
+şimdi aktif olarak tüm dillerde sözlükleri ve gramerleri ediniyor
+Özellikle nesli tükenmekte olan dillere odaklanarak. Bir
+Dünyanın her yerinden dil uzmanlarının mavi şerit paneli. "
+
+
+[Derinlemesine (2001'de yayınlanmıştır)]
+
+1995 yılında çevrimiçi sözlüklerden oluşan bir ağ oluşturduktan sonra, Robert Beard
+2000 yılının başlarında YourDictionary.com'u kurdu. Ocak 2000'de yazdı:
+"Çevrimiçi Sözlükler (WOD) bir ağı artık YourDictionary.com'un bir parçasıdır.
+(15 Şubat 2000 itibariyle). Yeni web sitesi 1.200+ bir dizin
+200'den fazla dilde sözlükler. WOD dışında yeni
+Web sitesi, gün boyunca bir kelime, kelime oyunları, bir dil sohbeti içerir
+oda, on-line dilbilgilerinin eski ağı (şimdi dahil edilecek şekilde genişletildi
+ek dil kaynakları), dilsel eğlence ağı, çok dilli
+sözlükler; uzmanlaşmış İngilizce sözlükler; Thesauri ve diğer
+Kelime Yardımları; dil tanımlayıcıları ve tahminciler ve diğer özellikler;
+Sözlük endeksleri. YourDictionary.com umarım prömiyeri olur
+Dil portalı ve web'deki en büyük dil kaynak sitesi. BT
+şimdi aktif olarak tüm dillerde sözlükleri ve gramerleri ediniyor
+Özellikle nesli tükenmekte olan dillere odaklanarak. Bir
+Dünyanın her yerinden dil uzmanlarının mavi şerit paneli. "
+
+Çok dillilikle ilgili sorumu cevaplayan Robert Beard,
+Ocak 2000: "İngilizce hala web'e hakim olsa da
+Tek dilli İngilizce olmayan web siteleri çeşitli ile güç kazanıyor
+Yazı tipi sorunlarına çözümler. Nesli tükenmekte olan diller
+öncelikle sistem yazmadan diller (sadece 1/3'ü
+Dünyanın 6.000'den fazla dilinin yazma sistemleri vardır). Hala görmüyorum
+Web dil kimliğinin kaybına katkıda bulunuyor ve yine de şüpheleniyor
+Mayıs, uzun vadede, güçlendirmeye katkıda bulunabilir. Giderek daha fazla
+Örneğin Yerli Amerikalılar, dilbilimcilerle iletişime geçiyorlar ve
+Dillerinin gramerlerini yazın ve sözlükler koymalarına yardımcı olun. İçin
+Bu insanlar, Web kültürel ifade için uygun fiyatlı bir nimettir. "
+
+Aynı soruyu cevaplayan Caoimhin O Donnaile, Mayıs 2001'de şöyle yazdı: "Ben
+nesli tükenmekte olanın geleceği ile ilgili olarak
+Diller, İnternet her şeyi hızlandırır. İnsanlar umursamıyorsa
+Dilleri, İnternet ve Küreselleşmeyi Koruma Hakkında
+ölümlerini büyük ölçüde hızlandıracak. İnsanlar korumayı önemsiyorsa
+Onlar, internet muazzam bir yardım olacak. "
+
+Caoimhin O Donneile, Galce aracılığıyla bilgi işlem öğretir
+Dil - Sabhal Mor Ostaig Enstitüsü'nde,
+Skye, İskoçya'da. Ayrıca kolej web sitesini de korur, ki
+İskoç Galce hakkında bilgi ile dünya çapında ana site. O da
+Avrupa azınlık dillerini korur, azınlık dillerinin bir listesi
+Alfabetik düzen ve dil ailesi ile. Mayıs 2001'de yazdı: "Orada
+bilgi teknolojisinin kullanımında büyük bir genişleme oldu.
+Gaelic-Medium College burada. Çok daha fazla bilgisayar, daha fazla bilgi işlem personeli,
+düz ekranlar. Öğrenciler her şeyi bilgisayara göre yapar, Gaelic kullanın
+Yazım denetleme, Gaelic Online Terminoloji Veritabanı. Bizim üzerinde daha fazla vuruş
+Web sitesi. Daha fazla ses kullanımı. Gaelic Radio (hem İskoç hem de İrlandalı)
+İnternet üzerinden sürekli dünya çapında mevcuttur. Büyük proje var
+Opera web tarayıcısının Gaelic'e çevirisi oldu - ilk
+Gaelic'te mevcut olan herhangi bir boyutta yazılım. "
+
+SIL International (SIL: Yaz Dilbilim Enstitüsü) tarafından yayınlandı,
+Etnolog: Dünyanın dilleri,
+6.700 dil. Bir kağıt versiyonu ve bir CD-ROM da mevcuttur.
+Barbara Grimes, 1971-2000, 8. ila 14. baskıların editörüydü.
+Ocak 2000'de yazdı: "
+dünya, nerede konuşuldukları hakkında bilgi ile,
+Konuşmacı sayısı, hangi dil ailesinde oldukları, alternatif isimler,
+lehçelerin isimleri, diğer sosyo -dilbilimsel ve demografik bilgi,
+Yayınlanmış İncil tarihleri, bir isim endeksi, bir dil aile endeksi ve
+dil haritaları. "
+
+
+
+2000: Gutenberg'in çevrimiçi İncil'i
+
+
+[Genel bakış]
+
+Gutenberg İncil'i Kasım 2000'de çevrimiçi oldu.
+İngiliz Kütüphanesi. Hepimizin bildiği gibi, Gutenberg İncil
+İlk baskı kitabı olarak kabul edilir. Gutenberg 1455'te bastırdı
+Almanya, belki de 180 kopya yazdırıyor, hala 48 kopya
+2000'de var. Üç kopya - iki tam ve bir kısmi
+Biri - İngiliz Kütüphanesine ait. İki tam kopya - biraz
+birbirinden farklı - Mart 2000'de uzmanlar tarafından sayısallaştırıldı
+Tokyo ve NTT Keio Üniversitesi'nden (Nippon Telegraph ve
+Telefon iletişimi).
+
+
+
+2000: Dağıtılmış Düzeltmeler
+
+
+[Genel bakış]
+
+Ekim 2000'de Charles Franks tarafından tasarlandı, Dağıtımlı Üreticiler
+Kamunun dijitalleşmesine yardımcı olmak için Mart 2001'de çevrimiçi olarak başlatıldı
+Etki alanı kitapları. Yöntem, sıkıcı kontrol işini kırmaktır
+Küçük, yönetilebilir parçalara yönelik hatalar için e -kitaplar. Başlangıçta
+Paylaşılan Düzeltme Projesi, Gutenberg Projesine Yardımcı Olun,
+Dağıtılmış prova edicileri projenin ana kaynağı haline geldi
+Gutenberg e -kitapları. 2002'de dağıtılmış doğrulayanlar resmi oldu
+Proje Gutenberg sitesi. İşlenen kitap sayısı
+Dağıtılmış prova okuyucuları hızla büyüdü. 2003 yılında yaklaşık 250-300 kişi
+her gün dünyanın her yerinde çalışıyorlardı.
+2.500-3.000 sayfa, dakikada iki sayfanın eşdeğeri. 2004'te
+Ortalama her gün katılan ve bitiren 300-400 prova okuyucusuydu
+Günde 4.000-7.000 sayfa, dakikada dört sayfa eşdeğeri.
+Dağıtılmış prova edicileri Şubat ayında toplam 3.000 kitap işledi
+2004, Ekim 2004'te 5.000 kitap, Mayıs 2005'te 7.000 kitap, 8.000 kitap
+Şubat 2006'da ve Mart 2007'de 10.000 kitap, yardımıyla
+36.000 gönüllü.
+
+
+[Derinlemesine (2005 yılında yayınlandı, 2008'de güncellendi)]
+
+2000 yılından bu yana Gutenberg Projesi'nin ana "ileriye doğru atlaması"
+Dağıtılmış prova okuyucuları. 2002'de dağıtılmış doğrulayıcılar bir
+Resmi Proje Gutenberg sitesi. Mayıs 2006'da dağıtılmış prova okuyucuları
+ayrı bir varlık oldu ve güçlü bir şekilde korunmaya devam ediyor
+Proje Gutenberg ile ilişki.
+
+Gönüllülerin dolduracak bir kotası yok, ancak bir
+Mümkünse gün bir gün. Çok fazla görünmüyor, ama yüzlerce
+Gönüllüler gerçekten toplanıyor. Aralık 2007'de beş kitap
+binlerce gönüllü tarafından günde üretildi.
+
+Web sitesinden, birkaç tane izin veren bir programa erişilebilir
+Aynı kitap üzerinde aynı anda çalışacak prova ediciler, her biri
+Farklı sayfaları düzeltme. Bu önemli ölçüde hızlanır
+Düzeltme işlemi. Gönüllüler kayıt ve detaylı alır
+talimatlar. Örneğin, kalın, italik veya altı çizili kelimeler veya
+Dipnotlar her zaman herhangi bir kitap için aynı şekilde ele alınır. Bir Tartışma
+Forum, herhangi bir zamanda soru sormalarını veya yardım almalarını sağlar. Bir Proje
+Yönetici, belirli bir kitabın ilerlemesini denetler.
+Web sitesinde farklı adımlar.
+
+Web sitesi: (a) tamamlanan kitapların tam bir listesini verir,
+yani site üzerinden işlendi ve Project Gutenberg'e gönderildi; (b)
+ilerleme, yani site üzerinden işlendi ancak henüz yayınlanmadı, çünkü
+Şu anda son düzeltme ve montajlarından geçiyor; (C)
+Düzeltme, yani şu anda işleniyor. 3 Ağustos 2005'te,
+7.639 kitap tamamlandı, 1.250 kitap devam ediyordu ve 831 Kitap
+Düzeltiliyorlardı. 1 Mayıs 2008'de 13.039 kitap tamamlandı,
+1.840 kitap devam ediyordu ve 1.000 kitap düzeltildi.
+
+Bir gönüllü (prova okuyucu) web sitesine her gittiğinde,
+Kitap, herhangi bir kitap. Sonra kitabın bir sayfası iki formda görünür.
+Yan: Bir sayfanın taranan görüntüsü ve bu görüntüden metin (
+OCR yazılımı tarafından üretilmiştir). Düzeltici her ikisini de kolayca karşılaştırabilir
+Sürümler, farklılıkları not edin ve düzeltin. OCR genellikle% 99
+Doğru, bu da yaklaşık 10 düzeltmeyi bir sayfa yapar. Dönüştürücü
+Her sayfayı tamamlandıkça kaydeder ve daha sonra işi durdurabilir veya
+bir diğer. Kitaplar iki kez ve sadece ikinci kez.
+deneyimli prova edicileri. Kitabın tüm sayfaları biçimlendirildi,
+Bir e-kitap yapmak için post-işlemciler tarafından birleştirildi ve monte edildi. E -kitap
+artık bir dizin girişi (başlık, altyazı, yazar,
+veritabanı için e -kitap numarası ve karakter seti). Dizinler devam ediyor
+Kataloglama süreci (yazarın doğum ve ölüm tarihleri, kütüphanesi
+Kongre sınıflandırması vb.) Serbest bırakıldıktan sonra.
+
+Gönüllüler, proje ile iletişime geçtikten sonra da bağımsız olarak çalışabilir
+Gutenberg doğrudan, özellikle kullanmayı sevdikleri bir kitabı anahtarlayarak
+herhangi bir metin düzenleyicisi veya kelime işlemcisi. Ayrıca tarayabilir ve dönüştürebilirler
+OCR yazılımı kullanarak metne ve ardından karşılaştırarak düzeltmeler yapın
+Orijinal ile. Her durumda, başka biri onu düzeltecektir. Onlar
+ASCII ve diğer formatları kullanabilir. Herkes hoş geldiniz, ne olursa olsun
+yöntem ve format ne olursa olsun.
+
+Yeni Gönüllüler Dağıtımlı Üretimler (DP) 'de en çok hoş geldiniz.
+Dağıtılmış Düzeltme Yürütücüler Europe (DP Europe) ve Dağıtılmış
+Prova Okuyucular Kanada (DPC). Herhangi bir gönüllü, herhangi bir
+dil. Yapılacak çok şey var. Her iki web sitesinde de belirtildiği gibi, "Hatırlayın
+Bu sitede herhangi bir taahhüt beklenmediği. Sık sık okumak
+Ya da nadiren istediğiniz kadar ve istediğiniz kadar veya az sayfa. Biz
+İnsanları 'günde bir sayfa' yapmaya teşvik edin, ancak bu tamamen size kalmış! Biz
+Umarım 'edebi koruma görevimizde bize katılırsınız
+Dünyanın tarihi, herkesin kullanması için özgürce mevcut bir biçimde.
+
+
+
+2000: Halk Bilim Kütüphanesi
+
+
+[Genel bakış]
+
+Bilim Halk Kütüphanesi (PLOS) Ekim 2000'de kuruldu.
+Biyomedikal bilim adamları Harold Varmus, Patrick Brown ve Michael Eisen,
+Stanford Üniversitesi, Palo Alto ve California Üniversitesi'nden,
+Berkeley. Merkezi San Francisco'da bulunan PLOS, kar amacı gütmeyen bir kuruluş
+misyonu dünyayı bilimsel hale getirmek olan organizasyon ve
+Tıbbi Literatür Kamu Kaynağı. 2003'ün başlarında PLOS bir
+Kâr amacı gütmeyen bilimsel ve tıbbi yayınlama girişimi sağlamak
+Yüksek kaliteli, yüksek profilli dergileri olan bilim adamları ve doktorlar
+Hangisi en önemli çalışmalarını yayınlayacak: PLOS Biology (başlatıldı
+2003), PLOS Medicine (2004), PLOS Genetics (2005), PLOS Hesaplamalı
+Biology (2005), PLOS Patojenleri (2005), PLOS Klinik Araştırmaları (2006),
+PLOS tropikal hastalıkları ihmal etti (2007). Tüm PLOS makaleleri özgürce
+Çevrimiçi olarak mevcuttur ve ücretsiz halka açık arşiv PubMed'de yatırılır
+Merkezi. Ücretsiz olarak yeniden dağıtılabilir ve yeniden kullanılabilirler, bunlar dahil
+Çeviriler, yazar (lar) ve kaynak belirtildiği sürece. Plos da
+diğer yayıncıları açık erişim modelini benimsemeye teşvik etmeyi umuyor veya
+Mevcut dergilerini açık erişim modeline dönüştürmek için.
+
+
+
+2001: Wikipedia
+
+
+[Genel bakış]
+
+Ocak 2001'de Jimmy Wales ve Larry Sanger (Larry
+daha sonra istifa etti), Wikipedia hızla en büyüğüne dönüştü
+İnternette referans web sitesi. Çok dilli içeriği ücretsizdir ve
+Dünya çapında insanlarla işbirliği içinde yazılmıştır. Web sitesi bir wiki,
+yani herkesin bilgileri düzenleyebileceği, düzeltebileceği ve geliştirebileceği anlamına gelir
+Ansiklopedi boyunca. Makaleler,
+yazarlar ve GFDL'ye göre serbestçe kullanılabilir (GNU ücretsiz
+Belge lisansı). Wikipedia Wikimedia tarafından düzenleniyor
+Örneğin, bir dizi başka projeyi yöneten vakıf
+Wiktionary - Aralık 2002'de başlatıldı - ardından Wikibooks,
+Wikiversity, Wikinews ve Wikiquote. Aralık 2004'te Wikipedia
+100 dilde 13.000 katılımcıdan 1,3 milyon makale. İki
+Yıllar sonra, Aralık 2006'da 250'de 6 milyon makale vardı
+diller.
+
+
+
+2001: Creative Commons
+
+
+[Genel bakış]
+
+Creative Commons (CC) 2001 yılında Lawrence Lessing tarafından kuruldu,
+Stanford Hukuk Fakültesi, California'da profesör. Web sitesinde belirtildiği gibi,
+"Creative Commons, bunu yapmaya adanmış kar amacı gütmeyen bir şirkettir
+insanların başkalarının işlerini paylaşması ve geliştirmesi daha kolay,
+telif hakkı kurallarına uygun. Ücretsiz lisanslar sağlıyoruz ve
+Yaratıcı çalışmayı özgürlükle işaretlemek için diğer yasal araçlar yaratıcısı
+Taşımasını ister, böylece diğerleri paylaşabilir, remix yapabilir, ticari olarak kullanabilir veya herhangi bir
+Kombinasyon. "Lisanslı bir milyon Creative Commons vardı
+2003 yılında eserler, 2004'te 4.7 milyon lisanslı çalışma, 20 milyon lisanslı
+2005 yılında eserler, 2006'da 50 milyon lisanslı çalışma, 90 milyon lisanslı
+2007'de çalışıyor ve 2008'de 130 milyon lisanslı çalışma. Science Commons
+2005 yılında "daha hızlı, daha fazla
+Verimli Web Etkin Bilimsel Araştırma. "CCLEARN 2007 yılında kuruldu
+"Creative Commons'ın tam anlamaya adanmış bir bölümü
+İnternetin açık öğrenmeyi ve açık eğitimi destekleme potansiyeli
+kaynaklar."
+
+
+
+2002: MIT OpenCourseware
+
+
+[Genel bakış]
+
+MIT OpenCourseware (MIT OCW) büyük ölçekli, web tabanlı bir elektroniktir
+MIT (Massachusetts Enstitüsü tarafından başlatılan Yayın Girişimi
+Teknoloji) bilgi ve bilginin açık yayılmasını teşvik etmek.
+MIT OpenCourseware'in (MIT OCW) pilot versiyonu mevcuttu
+Eylül 2002'de çevrimiçi, 32 ders MIT malzemeleri ile. Eylül ayında
+2003, site resmi olarak birkaç yüz kursla başlatıldı
+Malzemeler. Mart 2004'te 33'te 500 ders materyali mevcuttu
+farklı konular. Mayıs 2006'da 1.400 ders malzemesi tarafından sunuldu.
+Beş MIT okuluna ait 34 Bölüm. Kasım 2007'de,
+1.800 ders materyalinin tamamı mevcuttu, 200 yeni ve güncellendi
+Yılda kurslar. Kasım 2005'te MIT, OpenCourseware'i başlattı
+Eğitim işbirliği olarak konsorsiyum (OCW konsorsiyumu)
+Bir kullanarak geniş bir açık eğitim içeriği oluşturan kurumlar
+Paylaşım Modeli. Bir yıl sonra, OCW konsorsiyumu
+Dünya çapında 100 üniversite. 2004: Proje Gutenberg Avrupa
+
+
+[Genel bakış]
+
+Ocak 2004'te Gutenberg Projesi Atlantik'e yayıldı.
+Project Gutenberg Europe'un (PG Europe) lansmanı ve dağıtıldı
+Hastane Olmayan Project Rastko tarafından Project Rastko tarafından prova (DP Europe)
+Belgrad, Sırbistan'da bulunan kültürel ve eğitim projesi. DP Avrupa
+Orijinal dağıtılmış prova edicilerin yazılımını kullanır. DP Avrupa
+Ana sayfaları birkaçına çevrilmiş çok dilli bir web sitesidir.
+Gönüllü çevirmenler tarafından Avrupa dilleri. Nisan 2004'te DP Avrupa
+12 dilde mevcuttu. Uzun vadeli hedef 60 dil ve
+Tüm Avrupa dillerini temsil eden 60 dil takımları. DP Avrupa
+UNICODE'yi çok sayıda dilde düzeltebilmek için destekler.
+Unicode, her için benzersiz bir numara veren bir kodlama sistemidir.
+herhangi bir dilde karakter. DP Europe 100. kitabını işlemeyi bitirdi
+Mayıs 2005'te ve Ekim 2008'de 500. kitabı. DP Europe Operasyon
+"Yaşam +50" telif hakkı yasaları altında. Hız için kalktığında, DP Europe
+Birkaç ulusal ve/veya dil dijitaline e -kitap sağlayacak
+kütüphaneler.
+
+
+[Derinlemesine (2005 yılında yayınlandı, 2008'de güncellendi)]
+
+2004 yılında çok dillilik projenin önceliklerinden biri haline geldi
+Gutenberg, uluslararasılaşma gibi. Michael Hart Avrupa'ya gitti,
+Paris, Brüksel ve Belgrad'da duraklarla. Belgrad'da bir araya geldi
+Rastko Projesi ekibi, dağıtılmış olarak oluşturulmasını desteklemek için
+Prova Okuyucular Europe (Aralık 2003'te piyasaya sürüldü) ve Project Gutenberg
+Avrupa (Ocak 2004'te başlatıldı).
+
+Project tarafından Dağıtılmış Düzeltme Avrupa'nın (DP Europe) piyasaya sürülmesi
+Rastko gerçekten çok önemli bir adımdı. DP Europe yazılımını kullanıyor
+orijinal dağıtılmış prova edicileri ve
+Project Gutenberg Europe için kitapların düzeltilmesi. Çok
+Başlangıç ​​olarak, DP Europe çok dilli bir web sitesi, ana ile
+Gönüllü tarafından birkaç Avrupa diline çevrilen sayfalar
+çevirmenler. DP Europe, Nisan 2004'te 12 dilde mevcuttu ve
+Mayıs 2008'de 22 dil.
+
+Uzun vadeli hedef 60 dil ve 60 dil takımlarıdır
+Tüm Avrupa dilleri. Hız için kalktığında, DP Europe
+Birkaç ulusal ve/veya dilsel dijital kütüphaneye kitap sağlayın.
+Amaç, her ülkenin kendi dijital kütüphanesine sahip olmasıdır
+(ülke telif hakkı sınırlamalarına göre), bir kıta içinde
+Ağ (Fransa, Avrupa ağı için) ve küresel bir ağ (
+tüm gezegen).
+
+Şimdi Project Rastko'da birkaç satır, bu kadar zor ve
+Avrupa için heyecan verici proje ve her ikisinde de gönüllülerin enerjisini katalize etti
+Doğu ve Batı Avrupa (ve başka herhangi bir yerde: İnternetin olmadığı için
+Sınırlar, Avrupa'da kayıt olmak için yaşamaya gerek yoktur). Kuruldu
+1997, Project Rastko bir sivil toplum kültürel ve eğiticidir
+proje. Hedeflerinden biri Sırp kültürünün çevrimiçi yayınlanmasıdır.
+Balkanlar Kültür Ağı Girişimi'nin bir parçası, bölgesel
+Güneydoğu Avrupa'daki Balkan Yarımadası için Kültür Ağı.
+
+Mayıs 2005'te, dağıtılmış prova okurları Avrupa
+100. kitap. Haziran 2005'te Proje Gutenberg Europe ile başlatıldı
+Bu ilk 100 kitap. DP Europe, Unicode'u destekleyebilmek için
+Çok sayıda dilde prova kitapları. 1991'de oluşturuldu ve yaygın olarak kullanıldı
+1998'den beri Unicode, benzersiz bir numara veren bir kodlama sistemidir.
+Herhangi bir dildeki her karakter için, çok eski ASCII'nin aksine
+Bu sadece İngilizce ve birkaç Avrupa dili içindi.
+
+3 Ağustos 2005'te 137 kitap tamamlandı (site üzerinden işlendi
+ve Project Gutenberg Europe'a gönderildi), 418 kitap devam ediyordu
+(Site aracılığıyla işlendi ancak henüz yayınlanmadı, çünkü şu anda gidiyor
+son düzeltme ve montajları sayesinde) ve 125 kitap
+Düzeltme (şu anda işleniyor). 10 Mayıs 2008'de 496 kitap
+tamamlandı, 653 kitap devam ediyordu ve 91 kitap oluyordu
+Düzeltme. 2004: Google Books
+
+
+[Genel bakış]
+
+Ekim 2004'te Google, Google Print'in ilk bölümünü bir
+İnternet kullanıcılarının görebilmesi için yayıncılara yönelik proje
+Kitaplarından alıntılar ve çevrimiçi sipariş veriyor. Aralık 2004'te,
+Google, Google Print'in ikinci bölümünü bir proje olarak başlattı
+Kütüphaneler için, dijitalleştirerek bir dünya dijital kütüphanesi oluşturmak
+Ana ortak kütüphanelerin koleksiyonları. Google Print'in beta sürümü
+Mayıs 2005'te canlı olarak gitti. Ağustos 2005'te Google Baskı durduruldu.
+Yazarlar Dernekleri tarafından açılan davalar nedeniyle daha fazla bildirim ve
+telif hakkı ihlali için yayıncılar. Program Ağustos ayında yeniden başladı
+2006 Google Books'un yeni adı altında. Google Books kitaplar sundu
+Katılan kütüphanelerde sayısallaştırılmıştır (Harvard, Stanford, Michigan,
+Oxford, California, Virginia, Wisconsin-Madison, Madrid Complutense
+ve New York Halk Kütüphanesi), kamuoyu için tam metin
+Telif hakkıyla korunan kitaplar için alan kitapları veya alıntılar. İle dava
+Yazarlar ve yayıncılar dernekleri Ekim 2008'de çözüldü.
+
+
+[Derinlemesine (2008'de yayınlanmıştır)]
+
+Ekim 2004'te Google, Google Print'in ilk bölümünü bir
+kullanıcıların parçacıkları görebilmeleri için yayıncılara yönelik proje
+Kitapları ve çevrimiçi sipariş veriyor. Google Print'in beta sürümü
+Mayıs 2005'te sıraya girdi. Aralık 2004'te Google ikincisini başlattı
+Kütüphaneler için tasarlanan bir proje olarak Google Print'in bir parçası,
+15 milyon kitabın dijital kütüphanesi tarar ve dijitalleştirerek
+ana kütüphanelerin koleksiyonları, üniversitelerden başlayarak
+Michigan (7 milyon kitap), Harvard, Stanford ve Oxford ve yeni
+York Halk Kütüphanesi. Planlanan maliyet ortalama 10 ABD doları idi
+kitap ve on yılda 150 ila 200 milyon dolar. Ağustos 2005'te Google
+Baskı tarafından yapılan davalar nedeniyle baskı, bir sonraki duyuruya kadar durduruldu.
+telif hakkı ihlali için yayıncılar. Program Ağustos ayında yeniden başladı
+2006 Google Books'un yeni adı altında.
+
+Tartışmalı'nın yerini almak için Google Books Ağustos 2006'da piyasaya sürüldü
+Google Print, ana telif hakkı nedeniyle Ağustos 2005'te durdu
+Endişeler. Google Books, Google tarafından sayısallaştırılmış kitaplardan alıntılar sunuyor
+Katılımcı Kütüphaneler (Harvard, Stanford, Michigan, Oxford,
+California, Virginia, Wisconsin-Madison, Madrid ve Yeni Şikayet
+York Halk Kütüphanesi). Google, günde 3.000 kitabı tarar, dahil
+Telif hakkıyla korunan kitaplar. Telif hakkıyla korunan kitapların dahil edilmesi yaygındır.
+dünya çapında yazarlar ve yayıncılar tarafından eleştirildi. ABD'de davalar
+Yazarlar Guild ve Amerikan Derneği tarafından dosyalandı
+Telif hakkı ihlali iddiası için yayıncılar (AAP). Varsayım
+telif hakkıyla korunan kitapların tam olarak taranması ve sayısallaştırılması ihlal ettiği
+telif hakkı yasaları, sadece parçacıklar serbestçe kullanılabilir olsa bile
+Arama motoru. Telif hakkı endişelerine ve bir
+Kapalı platform, internet arşivi açık içeriği başlattı
+Yalnızca kamu malı kitaplarını dijitalleştirmek amacıyla İttifak (OCA) ve
+Herhangi bir arama motoru aracılığıyla onları aranabilir ve indirilebilir hale getirin.
+
+
+
+2005: Açık İçerik İttifakı
+
+
+[Genel bakış]
+
+Açık İçerik İttifakı (OCA) İnternet Arşivi tarafından tasarlandı
+2005 başlarında dünya kültürüne geniş ve halkın erişimini sunmak için. BT
+Ekim 2005'te bir grup kültürel, teknoloji olarak başlatıldı,
+Kalıcı bir inşa etmek isteyen kâr ve devlet kuruluşları
+Çok dilli sayısallaştırılmış metin ve multimedya içeriğinin arşivi. .
+Proje, dünyanın dört bir yanındaki kamu malı kitaplarını dijitalleştirmeyi amaçlamaktadır ve
+onları herhangi bir web arama motoru aracılığıyla aranabilir hale getirin ve
+özgür. Google Baskı Projesi'nden farklı olarak, OCA yalnızca sayısallaştırır.
+telif hakkı sahibinin açıkça olduğu durumlar hariç, kamu malı kitapları
+izin verildi. OCA'ya ilk katkıda bulunanlar,
+California, Toronto Üniversitesi, Avrupa Arşivi,
+İngiltere'de Ulusal Arşivler, O'Reilly Media ve Prelinger
+Arşivler. Sayısallaştırılmış koleksiyonlar metinde serbestçe mevcuttur
+İnternet arşivi arşivi. Aralık 2006'da bir
+100.000 dijitalleştirilmiş kitaptan oluşan kilometre taşı, 12.000 ile halka açık olarak mevcut
+Ayda yeni kitaplar eklendi. İki yıl sonra, Aralık 2008'de bir
+Milyon kitaplar "OCA ilkeleri veya başka bir şekilde kamuya açık olarak yayınlandı
+İnternet arşivi tarafından barındırılan alan adı. "
+
+
+
+2006: Microsoft Live Arama Kitapları
+
+
+[Genel bakış]
+
+Microsoft ayrıca Açık İçerik İttifakı'na (OCA) katıldı,
+İnternet Arşivi tarafından Ekim 2005'te başlatıldı. Aralık 2006'da,
+Microsoft, Live Search Books'un beta sürümünü yayınladı. Kitap
+Arama motoru, telif hakkıyla korunmayan kitaplar için anahtar kelime aramaları gerçekleştirir
+İngiliz Kütüphanesi Koleksiyonlarından Microsoft tarafından sayısallaştırılmıştır,
+Kaliforniya Üniversitesi ve Toronto Üniversitesi, ardından
+Ocak 2007 New York Halk Kütüphanesi ve Cornell Üniversitesi tarafından.
+Kitaplar tam metin görünümleri sunar ve PDF dosyalarında indirilebilir. İçinde
+Future, Microsoft, izni ile telif hakkıyla korunan çalışmalar eklemeyi planlıyor
+yayıncılarının. Mayıs 2007'de Microsoft,
+Cambridge University Press ve
+McGraw Hill. 750.000 kitabı dijitalleştirdikten ve 80 milyonu endeksledikten sonra
+Journal Makaleleri, Microsoft Mayıs ayında Canlı Arama Kitapları Programını sona erdirdi
+2008 ve web sitesini kapattı.
+
+
+
+2006: Ücretsiz Worldcat
+
+
+[Genel bakış]
+
+WorldCat 1971 yılında kar amacı gütmeyen OCLC (çevrimiçi bilgisayar tarafından yaratıldı
+Kütüphane merkezi) üniversite kütüphanelerinin sendika kataloğu olarak
+Ohio Eyaleti. Yıllar içinde OCLC ulusal ve dünya çapında oldu
+Kütüphane Kooperatifi ve WorldCat En büyük kütüphane kataloğu
+dünya. 2005 yılında Worldcat'in 400'de 61 milyon bibliyografik kaydı vardı
+112'de 9.000 üye kütüphaneden (ücretli abonelik) diller
+Ülkeler. 2006 yılında 73 milyon bibliyografik kayıt 1'e bağlanıyordu
+Bu kütüphanelerde milyar belge mevcuttur. Ağustos 2006'da,
+WorldCat, beta sürümü aracılığıyla web'e geçmeye başladı.
+Yeni web sitesi worldcat.org. Üye kütüphaneleri artık ücretsiz erişim sağlıyor
+Katalogları ve Elektronik Kaynakları: Kitaplar, Sesli Kitaplar, Özetler
+ve tam metin makaleler, fotoğraflar, müzik CD'leri ve videolar. Başka Bir Öncü
+Site, 2004 ilkbaharında piyasaya sürülen RedlightGreen idi (beta versiyonu ile
+Sonbahar 2003) RLG Union Kataloğunun Web sürümü olarak, başka bir ana dal
+1980 yılında Araştırma Kütüphaneleri Grubu (RLG) tarafından oluşturulan Birlik Kataloğu.
+Redlightgreen, başarılı bir şekilde Kasım 2006'da hizmetini sona erdirdi
+3 yıllık koşu ve RLG OCLC'ye katıldı.
+
+
+[Derinlemesine (1999'da yayınlanmıştır)]
+
+1998'de iki kuruluş - OCLC (çevrimiçi bilgisayar kütüphanesi merkezi) ve
+RLIN (Araştırma Kütüphanesi Bilgi Ağı) - çalışıyordu
+İnternet üzerinden uluslararası bibliyografik veritabanları.
+
+OCLC Online Bilgisayar Kütüphanesi Merkezi kar amacı gütmeyen bir üyeliktir,
+Kütüphane Bilgisayar Hizmeti ve Araştırma Kuruluşu
+Dünyanın bilgilerine erişimi ilerletme ve bilgileri azaltma
+maliyetler. 65 ülkede 27.000'den fazla kütüphane OCLC kullanıyordu
+Koleksiyonlarını yönetmek ve çevrimiçi referans sağlamak için hizmetler
+Hizmetler. Web sitesi İngilizce, Çince, Fransızca olarak mevcuttu.
+Alman, Portekizce ve İspanyolca.
+
+OCLC Hizmetleri: Erişim Hizmetleri; koleksiyonlar ve teknik
+hizmetler; referans hizmetleri; kaynak paylaşımı; Dewey ondalık
+Sınıflandırma (OCLC Forest Press tarafından yayınlanmıştır); ve koruma
+kaynaklar. Dublin, Ohio'daki merkezinden OCLC,
+Dünyanın en büyük kütüphane bilgi ağları. ABD'deki kütüphaneler
+OCLC'ye bağlı bölgesel ağları aracılığıyla OCLC'ye katıldı. Kütüphaneler
+ABD dışında OCLC Asia Pacific, OCLC aracılığıyla OCLC hizmetleri aldı
+Kanada, OCLC Avrupa, OCLC Latin Amerika ve Karayipler veya
+Uluslararası Distribütörler. OCLC ayrıca WorldCat - OCLC Online Birliği'nin adı
+Katalog - Kütüphane Kataloglarının Birleştirilmiş Elektronik Kataloğu
+dünya çapında ve dünyanın en büyük bibliyografik veritabanı ile
+400 dilde 38 milyon kaydı (1998'in başlarında) (
+roman dışı diller için çevirme) ve yıllık 2 artış
+Milyon Kayıt.
+
+Worldcat, tüm sendika için aynı olan bir kavramdan kaynaklandı
+Kataloglar: Aynı belgenin kataloglanmasını önlemek için zaman kazanın
+Dünya çapında birçok katalog. Kataloglamak üzereyken
+Yayın, Üye Kütüphanelerin Katalogları OCLC'yi arar
+katalog. Kayıtları bulurlarsa, kendi kataloğuna kopyalarlar ve
+Bazı yerel bilgiler ekleyin. Kaydı bulamazlarsa, yaratırlar
+OCLC kataloğunda ve bu yeni kayıt derhal
+Üye kütüphanelerinin tüm katalogları dünya çapında.
+
+Rlin'den farklı olarak, birkaç kaydı kabul eden başka bir ana sendika kataloğu
+Aynı belge için (lütfen aşağıya bakın), OCLC Online Union Kataloğu
+belge başına yalnızca bir kaydı kabul eder ve üyelerine
+Zaten kataloglanmış belgeler için yinelenen kayıtlar oluşturun. .
+Kayıtlar USMARC formatında oluşturulur (MARC: Makine Okunabilir Katalog)
+Anglo-Amerikan kataloglama kurallarına göre, 2. versiyon (AACR2).
+
+OCLC'nin tarihi nedir? "1967'de kolejlerin başkanları
+ve Ohio eyaletindeki üniversiteler Ohio College Kütüphanesi'ni kurdu
+Merkez (OCLC) Kütüphanelerin bulunduğu bilgisayarlı bir sistem geliştirmek için
+Ohio akademik kurumları kaynakları paylaşabilir ve maliyetleri azaltabilir.
+OCLC'nin ilk ofisleri Ohio kampüsündeki ana kütüphanedeydi
+Eyalet Üniversitesi (OSU) ve ilk bilgisayar odası
+OSU Araştırma Merkezi. Bu akademik köklerden Frederick G.
+OCLC'nin ilk başkanı Kilgour, OCLC'nin büyümesini bir
+54 Ohio Koleji için Bölgesel Bilgisayar Sistemi Uluslararası
+ağ. 1977'de Ohio OCLC üyeleri
+Ohio dışındaki kütüphanelerin olmasını sağlayan yönetişim yapısı
+Üyeler ve Mütevelli Heyetinin Seçimine Katılmak; .
+Ohio College Kütüphane Merkezi 1981 yılında OCLC, Inc.
+şirket OCLC Online Computer Library Center, Inc.
+Bugün OCLC, ABD'deki her türden 27.000'den fazla kütüphaneye hizmet vermektedir.
+ve 64 diğer ülke ve bölgeler. "(1998'den alıntı
+web sitesi)
+
+1998'in başlarında Worldcat'in 38 milyon kaydı vardı -
+belge. RLIN (Araştırma Kütüphaneleri Bilgi Ağı) 88 milyona sahipti
+Kayıtlar - belge başına birkaç kayıt ile.
+
+RLIN, Araştırma Kütüphaneleri Grubu (RLG) tarafından yönetildi. Merkezi Rlin
+Veritabanı, ana kütüphanelerde düzenlenen 88 milyon öğeden oluşan bir sendika kataloğuydu
+Araştırma dahil RLG Üye Kurumlarına ait
+Hukuk, teknik ve kurumsal kütüphaneler gibi özel kütüphaneler.
+
+Rlin dahil:
+
+(1) Kongre Kütüphanesi tarafından kataloglanan eserleri tarif eden kayıtlar,
+Ulusal Tıp Kütüphanesi, ABD Hükümeti Baskı Ofisi,
+Konser (Serials Projesi Dönüşümü), İngiliz Kütüphanesi,
+İngiliz Ulusal Kaynakça, Ulusal Birlik Makale Kataloğu
+Koleksiyonlar ve RLG üyeleri ve kullanıcıları;
+
+(2) 1968'den beri kataloglanan ve hızla genişleyen tüm kitaplar
+eski malzemeler için kapsam;
+
+(3) Müzik puanlarından değişen kitap dışı materyaller hakkında bilgi,
+Arşiv koleksiyonlarına filmler, videolar, diziler, haritalar ve kayıtlar
+ve makine tarafından okunabilen veri dosyaları;
+
+(4) Birleşik gibi özel kaynaklara benzersiz çevrimiçi erişim
+Milletler Dokümanı ve Catfile Kayıtları ve Rigler ve Deutsch Endeksi
+1950 öncesi ticari ses kayıtlarına;
+
+(5) Uluslararası kitap satıcılarının süreç içi kayıtları
+bibliyograflara, satın alma hizmetlerine ve katalogculara aktarıldı
+Kendi yerellerinde ürünleri kataloglamak için kayıt sipariş edin veya onlara yardımcı olun
+Veritabanları.
+
+RLIN ayrıca:
+
+(1) Bilgisayar dosyaları kataloğu. Makine tarafından okunabilen veri dosyaları
+Artan sayıda disiplin için yararlıdır. Rlin kayıtlar içeriyordu
+Tam metin Fransız edebiyatından bu tür dosyaların bir kısmını tanımlamak
+ARTFL veritabanında, toplanan istatistiksel verilere çalışır
+Siyasi ve Sosyal Araştırmalar Üniversiteler Arası Konsorsiyumu (ICPSR)
+Michigan Üniversitesi'nde;
+
+(2) Arşiv ve özel koleksiyonlar kataloğu. Arşiv ve
+Araştırma kütüphanelerinin, müzelerin, devlet arşivlerinin el yazması koleksiyonları
+ve tarihi toplumlar temel birincil kaynakları içeriyordu, ancak
+İçerikleri hakkında bilgi genellikle zor oldu. Arşivciler ve
+Küratörler, bunlar için otomatik bir format oluşturmak için RLG ile çalıştı
+Koleksiyonlar. 1998'de RLIN'de 500.000 kayıt vardı.
+Kuzey Amerika'da bulunan arşiv koleksiyonları. Bu kayıtlar
+Birçok koleksiyonu kişisel ad, organizasyon, konuya göre tanımladı ve
+format.
+
+RLIN ayrıca İngilizce kısa başlık kataloğuna (ESTC) ev sahipliği yaptı.
+İngiliz kültürü, dil ve akademisyenler için paha biçilmez araştırma aracı ve
+edebiyat. Bu dosya kapsamlı açıklamalar ve holdingler sağladı
+İngiltere'de veya herhangi birinde basılan tipo basın malzemeleri için bilgi
+Baskının başlangıcından 1800'e kadar herhangi bir dilde bağımlılık -
+ve dünyanın herhangi bir yerinde İngilizce basılan malzemeler için.
+California Üniversitesi'ndeki ESTC editör ofisleri tarafından üretildi.
+Riverside ve İngiliz Kütüphanesi, Amerikan ile ortaklaşa
+Antikacı toplumu ve dünya çapında 1.600'den fazla kütüphane, dosya
+Günlük güncellendi ve genişletildi. ESTC kapsamlı bir kaynakça görevi görür
+el-baskı döneminin ve hayatta kalan kopyaların nüfus sayımı olarak. ESTC
+Baskının başlangıcından itibaren Haziran 1998 itibariyle 420.000 kayıt dahil
+(1473) 18. yüzyıl boyunca -
+Shakespeare ve Yunanca Yeni Ahit Anonim Balladlara, Broadsides'a,
+Şarkılar, reklamlar ve diğer ephemera.
+
+
+
+2007: Vatandaş
+
+
+[Genel bakış]
+
+Citizendyum, Ekim 2006'da bir pilot proje olarak başlatıldı.
+Yeni ansiklopedi, Larry Sanger'in girişiminde
+Ocak 2001'de Wikipedia'nın kurucu ortağı (Jimmy Wales ile), ancak istifa etti
+Daha sonra politika ve içerik kalitesi sorunları. Vatandaş - Hangisi
+"Vatandaşın Her Şey Özeti" anlamına gelir - bir wiki projesidir
+Kamusal işbirliğine açık, ancak "halkın katılımını birleştirmek
+Nazik uzman rehberliği. "Proje, yalnızca uzmanlara değil, uzman liderliğindedir.
+Katkıda bulunanlar anonim takma adlarını değil, kendi isimlerini kullanırlar ve
+uzman editörler tarafından yönlendirilir. "Editörler içerik yapabilecek
+uzmanlık alanlarındaki kararlar, ancak aksi halde çalışıyor
+Sıradan yazarlarla omuz omuza. "(Larry Sanger,
+Yeni Bilgi Özeti, Eylül 2006) Constables
+Kurallara saygı duyulur. Citizendium 25 Mart 2007'de başlatıldı.
+1.100 makale, 820 yazar ve 180 editör.
+
+
+
+2007: Yaşam Ansiklopedisi
+
+
+[Genel bakış]
+
+Mayıs 2007'de başlatılan Yaşam Ansiklopedisi küresel bir bilimseldir
+bilinen tüm hayvan ve bitki türlerini belgeleme çabası (1.8
+Milyon) ve henüz keşfedilemeyen milyonlarca türü hızlandırın ve
+kataloglanmış (8 ila 10 milyon). Bu işbirliği çabası tarafından yönetiliyor.
+Birkaç ana kurum: Doğa Tarihi Saha Müzesi, Harvard
+Üniversite, Deniz Biyolojik Laboratuvarı, Missouri Botanik Bahçesi,
+Smithsonian Enstitüsü, Biyoçeşitlilik Mirası Kütüphanesi (BHL). .
+İlk finansman MacArthur Vakfı'ndan (10 milyon dolar) geliyor
+ve Sloan Vakfı (2,5 milyon dolar). Birkaç sayfa olacak
+2008 ortalarına kadar mevcuttur. Ansiklopedi 3-5'te faaliyete geçecek
+10 yıl içinde (bilinen tüm türlerle) yıllar ve tamamlanmıştır. Üzerine inşa edilmiş
+dünya çapında binlerce uzmanın bilimsel bütünlüğü,
+Ansiklopedi, özgürce ılımlı bir wiki tarzı ortam olacak
+Her yerde tüm kullanıcılar için kullanılabilir.
+
+
+
+Web siteleri
+
+  1968: ASCII: http://www.asciable.com/
+  1971: Projesi Gutenberg: http://www.gutenberg.org/
+  1974: İnternet: http: //www.isoc. Org/
+  1977: unimarc: http://www.unimarc.net/
+  1984: Copyleft: http://www.gnu.org/copyleft/
+  1990: Web: http://www.w3.org/
+  1991: Unicode: http://unicode.org/
+  1993: Çevrimiçi Kitaplar Sayfa: http://onlinebooks.library.upenn.edu/
+  1993: PDF: http://www.adobe.com/products/acrobat/adobepdf.html
+  1994: Kütüphane Web Siteleri: http://lists.webjunction.org/libweb/
+  1994: Kalın Yayıncılar: http://www.nap.edu/
+  1995: Amazon.com: http://www.amazon.com/
+  1995: Çevrimiçi Basın: http://www.ipl.org/div/news/
+  1996: İnternet Arşivi: http://www.archive.org/
+  1996: Yeni Öğretim Yolları: http://www.ifip.org/
+  1996: Palm Pilot: http://www.palm.com/
+  1997: Dijital Yayıncılık:
+        http://www.adobe.com/devnet/digitalpublishing/
+  1997: Logolar Sözlüğü: http://www.logos.it/
+  1997: Multimedya Yakınsama:
+        http://www.ilo.org/public/english/dialogue/sector/
+  1998: Çevrimiçi Beowulf:
+        http://www.bl.uk/onlinegallery/onlineex/englit/beowulf/
+  1998: Dijital Kütüphaneciler: http://www.ifla.org/
+  1998: Çok dilli web: http://www.w3.org/international/
+  1999: Dijital Yazarlar: http://www.cotres.net/
+  1999: Açık e -Kitap: http://www.idpf.org/
+  1999: YourDictionary.com: http://www.yourdictionary.com/
+  2000: Gutenberg çevrimiçi İncil:
+        http://www.bl.uk/treasures/gutenberg/homepage.html
+  2000: Dağıtılmış Düzeltmeler: http://www.pgdp.net/
+  2000: Halk Bilim Kütüphanesi: http://www.plos.org/
+  2001: Wikipedia: http://www.wikipedia.org/
+  2001: Creative Commons: http://creativecommons.org/
+  2002: MIT OpenCourseware: http://ocw.mit.edu/
+  2004: Project Gutenberg Avrupa: http://pge.rastko.net/
+  2004: Google Baskı/Kitap Arama: http://books.google.com/
+  2005: Açık İçerik İttifakı: http://www.opencontentalliance.org/
+  2006: Microsoft Canlı Arama Kitapları: http://blogs.msdn.com/livesearch/
+  2006: Ücretsiz Worldcat: http://www.worldcat.org/
+  2007: Vatandaş: http://en.citizendyum.org/
+  2007: Hayat Ansiklopedisi: http://www.eol.org/
+
+
+
+Telif Hakkı (C) 2008 Marie Lebert
+
+
+
+
+
+
+
+
+Marie Lebert tarafından Gutenberg'in Teknolojisi ve Kitapları Projesi Sonu
+
+.
+*** END OF TURKISH PART ***
+*** END OF THIS PROJECT GUTENBERG EBOOK TECHNOLOGY AND BOOKS FOR ALL ***
+
+***** This file should be named 27098.txt or 27098.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/0/9/27098/
+
+Produced by Al Haines
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***
